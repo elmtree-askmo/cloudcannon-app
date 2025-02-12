@@ -2,8 +2,10 @@
 _schema: default
 id: 167360
 date: 2025-01-31
-title: How do glycolipids and glycoproteins contribute to cell recognition?
-article_title: How do glycolipids and glycoproteins contribute to cell recognition?
+title: >-
+    How do glycolipids and glycoproteins contribute to cell recognition?
+article_title: >-
+    How do glycolipids and glycoproteins contribute to cell recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition.m
 url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
 score: -1.0
 related_article1:
-    id: 167362
-    title: Explain the concept of selective permeability and its importance to cellular function.
+    id: 167370
+    title: >-
+        What is osmolarity and how does it impact osmotic pressure and cell function?
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
 related_article2:
-    id: 167366
-    title: How does osmosis affect cell volume and what role does the semipermeable membrane play?
+    id: 167365
+    title: >-
+        Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
     subject: Biology
-    url: /learn/biology/questions/how-does-osmosis-affect-cell-volume-and-what-role-does-the-semipermeable-membrane-play
+    url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
 related_article3:
-    id: 167356
-    title: How does the amphipathic nature of phospholipids contribute to membrane formation?
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
 related_article4:
     id: 167369
-    title: How do concentration gradients drive diffusion and contribute to cellular processes?
+    title: >-
+        How do concentration gradients drive diffusion and contribute to cellular processes?
     subject: Biology
     url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
 related_article5:
-    id: 167367
-    title: What is turgor pressure and how does it relate to osmosis in plant cells?
+    id: 167370
+    title: >-
+        What is osmolarity and how does it impact osmotic pressure and cell function?
     subject: Biology
-    url: /learn/biology/questions/what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
 ---
 
 &nbsp;

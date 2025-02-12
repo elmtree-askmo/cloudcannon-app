@@ -2,8 +2,10 @@
 _schema: default
 id: 168238
 date: 2025-02-03
-title: How can conflicts be resolved in group discussions to achieve consensus?
-article_title: How can conflicts be resolved in group discussions to achieve consensus?
+title: >-
+    How can conflicts be resolved in group discussions to achieve consensus?
+article_title: >-
+    How can conflicts be resolved in group discussions to achieve consensus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-conflicts-be-resolved-in-group-discussions-to-achieve-consens
 url: /learn/art-history-and-literature/questions/how-can-conflicts-be-resolved-in-group-discussions-to-achieve-consensus
 score: 9.0
 related_article1:
+    id: 168243
+    title: >-
+        What are the advantages and disadvantages of manual versus digital attendance tracking systems?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
+related_article2:
+    id: 168247
+    title: >-
+        What are the benefits of collaborative learning, and how does it contribute to skill development?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-benefits-of-collaborative-learning-and-how-does-it-contribute-to-skill-development
+related_article3:
+    id: 168244
+    title: >-
+        How can privacy concerns be mitigated when using biometric methods for attendance tracking?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-privacy-concerns-be-mitigated-when-using-biometric-methods-for-attendance-tracking
+related_article4:
+    id: 168244
+    title: >-
+        How can privacy concerns be mitigated when using biometric methods for attendance tracking?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-privacy-concerns-be-mitigated-when-using-biometric-methods-for-attendance-tracking
+related_article5:
     id: 168245
-    title: What are the key elements of effective verbal communication, and how does active listening enhance this process?
+    title: >-
+        What are the key elements of effective verbal communication, and how does active listening enhance this process?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-elements-of-effective-verbal-communication-and-how-does-active-listening-enhance-this-process
-related_article2:
-    id: 168248
-    title: What challenges might arise in collaborative learning due to unequal participation, and how can they be managed?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-challenges-might-arise-in-collaborative-learning-due-to-unequal-participation-and-how-can-they-be-managed
-related_article3:
-    id: 168237
-    title: What are the essential components of structuring a group discussion, and how does role assignment contribute to effective dynamics?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-essential-components-of-structuring-a-group-discussion-and-how-does-role-assignment-contribute-to-effective-dynamics
-related_article4:
-    id: 168242
-    title: What challenges might arise in name recognition due to cultural differences, and how can they be addressed?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-challenges-might-arise-in-name-recognition-due-to-cultural-differences-and-how-can-they-be-addressed
-related_article5:
-    id: 168236
-    title: How can themes be connected in literary works, and what role does symbolism play in this process?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-themes-be-connected-in-literary-works-and-what-role-does-symbolism-play-in-this-process
 ---
 
 &nbsp;

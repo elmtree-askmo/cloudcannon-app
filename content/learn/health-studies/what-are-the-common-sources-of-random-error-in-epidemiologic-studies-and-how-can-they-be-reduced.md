@@ -2,8 +2,10 @@
 _schema: default
 id: 162975
 date: 2025-01-26
-title: What are the common sources of random error in epidemiologic studies, and how can they be reduced?
-article_title: What are the common sources of random error in epidemiologic studies, and how can they be reduced?
+title: >-
+    What are the common sources of random error in epidemiologic studies, and how can they be reduced?
+article_title: >-
+    What are the common sources of random error in epidemiologic studies, and how can they be reduced?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-sources-of-random-error-in-epidemiologic-studies-
 url: /learn/health-studies/questions/what-are-the-common-sources-of-random-error-in-epidemiologic-studies-and-how-can-they-be-reduced
 score: -1.0
 related_article1:
-    id: 163022
-    title: What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
+    id: 163018
+    title: >-
+        What are the key components of data interpretation in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
+    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
 related_article2:
-    id: 163018
-    title: What are the key components of data interpretation in epidemiology?
+    id: 163014
+    title: >-
+        What role do political and economic factors play in environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
+    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 related_article3:
-    id: 162968
-    title: What role do genetic makeup and lifestyle play in individual determinants of health?
+    id: 162974
+    title: >-
+        How does random sampling differ from systematic and stratified sampling in biostatistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+    url: /learn/health-studies/questions/how-does-random-sampling-differ-from-systematic-and-stratified-sampling-in-biostatistics
 related_article4:
-    id: 163018
-    title: What are the key components of data interpretation in epidemiology?
+    id: 163015
+    title: >-
+        How do income and education function as social determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
+    url: /learn/health-studies/questions/how-do-income-and-education-function-as-social-determinants-of-health
 related_article5:
-    id: 163013
-    title: How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+    id: 163014
+    title: >-
+        What role do political and economic factors play in environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
+    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 ---
 
 &nbsp;

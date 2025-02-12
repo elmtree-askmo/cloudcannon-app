@@ -2,8 +2,10 @@
 _schema: default
 id: 165979
 date: 2025-01-29
-title: In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
-article_title: In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
+title: >-
+    In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
+article_title: >-
+    In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human
 url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 score: 9.0
 related_article1:
+    id: 165967
+    title: >-
+        What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
+related_article2:
+    id: 165969
+    title: >-
+        In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
+related_article3:
+    id: 165974
+    title: >-
+        How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
+related_article4:
     id: 165975
-    title: What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+    title: >-
+        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
-related_article2:
-    id: 165965
-    title: What are the key characteristics of Realism and how do they differ from Romanticism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
-related_article3:
-    id: 165972
-    title: How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
-related_article4:
-    id: 165971
-    title: What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
 related_article5:
-    id: 165963
-    title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+    id: 165976
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
+    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
 ---
 
 &nbsp;

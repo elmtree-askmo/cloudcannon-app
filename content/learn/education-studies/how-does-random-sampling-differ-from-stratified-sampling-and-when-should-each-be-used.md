@@ -2,8 +2,10 @@
 _schema: default
 id: 165006
 date: 2025-01-28
-title: How does random sampling differ from stratified sampling, and when should each be used?
-article_title: How does random sampling differ from stratified sampling, and when should each be used?
+title: >-
+    How does random sampling differ from stratified sampling, and when should each be used?
+article_title: >-
+    How does random sampling differ from stratified sampling, and when should each be used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-random-sampling-differ-from-stratified-sampling-and-when-sho
 url: /learn/education-studies/questions/how-does-random-sampling-differ-from-stratified-sampling-and-when-should-each-be-used
 score: -1.0
 related_article1:
+    id: 165001
+    title: >-
+        How can patterns be identified in data interpretation, and why is this important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-patterns-be-identified-in-data-interpretation-and-why-is-this-important
+related_article2:
+    id: 165008
+    title: >-
+        How is election forecasting conducted using survey data?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-election-forecasting-conducted-using-survey-data
+related_article3:
+    id: 165001
+    title: >-
+        How can patterns be identified in data interpretation, and why is this important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-patterns-be-identified-in-data-interpretation-and-why-is-this-important
+related_article4:
     id: 165005
-    title: What are the differences between experimental design and observational studies in research methodology?
+    title: >-
+        What are the differences between experimental design and observational studies in research methodology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-differences-between-experimental-design-and-observational-studies-in-research-methodology
-related_article2:
-    id: 164997
-    title: What are the advantages and disadvantages of using online surveys for data collection?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-using-online-surveys-for-data-collection
-related_article3:
-    id: 164994
-    title: How can assumptions be avoided in survey question formulation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assumptions-be-avoided-in-survey-question-formulation
-related_article4:
-    id: 164996
-    title: Why is visual layout important in questionnaire design, and how can it affect survey responses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-visual-layout-important-in-questionnaire-design-and-how-can-it-affect-survey-responses
 related_article5:
-    id: 164996
-    title: Why is visual layout important in questionnaire design, and how can it affect survey responses?
+    id: 165004
+    title: >-
+        What role does socioeconomic status play in demographic analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-visual-layout-important-in-questionnaire-design-and-how-can-it-affect-survey-responses
+    url: /learn/education-studies/questions/what-role-does-socioeconomic-status-play-in-demographic-analysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166296
 date: 2025-01-30
-title: How do chemical and drug exposures increase the risk of leukemia?
-article_title: How do chemical and drug exposures increase the risk of leukemia?
+title: >-
+    How do chemical and drug exposures increase the risk of leukemia?
+article_title: >-
+    How do chemical and drug exposures increase the risk of leukemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/how-do-chemical-and-drug-exposures-increase
 score: -1.0
 related_article1:
     id: 166311
-    title: What is the role of chemotherapy in the treatment of lymphoma?
+    title: >-
+        What is the role of chemotherapy in the treatment of lymphoma?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
 related_article2:
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+related_article3:
     id: 166300
-    title: How does organ infiltration present in leukemia?
+    title: >-
+        How does organ infiltration present in leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
-related_article3:
-    id: 166293
-    title: Which protein markers are significant in the diagnosis of leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
 related_article4:
-    id: 166307
-    title: How do solid tumors form in lymphoma?
+    id: 166290
+    title: >-
+        How does pancytopenia manifest in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
+    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
 related_article5:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    id: 166301
+    title: >-
+        What is the goal of the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 ---
 
 &nbsp;

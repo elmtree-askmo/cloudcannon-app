@@ -2,8 +2,10 @@
 _schema: default
 id: 169193
 date: 2025-02-04
-title: Describe the basic steps to create geometry in Grasshopper.
-article_title: Describe the basic steps to create geometry in Grasshopper.
+title: >-
+    Describe the basic steps to create geometry in Grasshopper.
+article_title: >-
+    Describe the basic steps to create geometry in Grasshopper.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: describe-the-basic-steps-to-create-geometry-in-grasshopper.md
 url: /learn/education-studies/questions/describe-the-basic-steps-to-create-geometry-in-grasshopper
 score: -1.0
 related_article1:
-    id: 169199
-    title: What is metadata in GIS, and why is it important for spatial analysis?
+    id: 169188
+    title: >-
+        List three common file formats used in GIS for data layers.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-metadata-in-gis-and-why-is-it-important-for-spatial-analysis
+    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
 related_article2:
+    id: 169200
+    title: >-
+        Name two spatial analysis techniques used in GIS.
+    subject: Education Studies
+    url: /learn/education-studies/questions/name-two-spatial-analysis-techniques-used-in-gis
+related_article3:
+    id: 169197
+    title: >-
+        What are some applications of GIS in urban design and landscape architecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
+related_article4:
+    id: 169197
+    title: >-
+        What are some applications of GIS in urban design and landscape architecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
+related_article5:
     id: 169198
-    title: How is random number generation used in design iteration within Grasshopper?
+    title: >-
+        How is random number generation used in design iteration within Grasshopper?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-random-number-generation-used-in-design-iteration-within-grasshopper
-related_article3:
-    id: 169196
-    title: How does GIS facilitate mapping techniques, particularly in layering and time representation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-gis-facilitate-mapping-techniques-particularly-in-layering-and-time-representation
-related_article4:
-    id: 169187
-    title: What is the primary purpose of Geographic Information Systems (GIS)?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-geographic-information-systems-gis
 ---
 
 &nbsp;

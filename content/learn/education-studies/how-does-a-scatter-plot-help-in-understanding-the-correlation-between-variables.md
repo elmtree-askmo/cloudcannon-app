@@ -2,8 +2,10 @@
 _schema: default
 id: 167268
 date: 2025-01-31
-title: How does a scatter plot help in understanding the correlation between variables?
-article_title: How does a scatter plot help in understanding the correlation between variables?
+title: >-
+    How does a scatter plot help in understanding the correlation between variables?
+article_title: >-
+    How does a scatter plot help in understanding the correlation between variables?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-scatter-plot-help-in-understanding-the-correlation-between
 url: /learn/education-studies/questions/how-does-a-scatter-plot-help-in-understanding-the-correlation-between-variables
 score: -1.0
 related_article1:
-    id: 167270
-    title: How do bar graphs assist in comparing different groups?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-bar-graphs-assist-in-comparing-different-groups
-related_article2:
-    id: 167271
-    title: What is the significance of using histograms for frequency analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-using-histograms-for-frequency-analysis
-related_article3:
-    id: 167267
-    title: What is a line graph, and when is it most appropriately used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-line-graph-and-when-is-it-most-appropriately-used
-related_article4:
-    id: 167273
-    title: What are the key elements of a graph's axes, and why is labeling important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-graphs-axes-and-why-is-labeling-important
-related_article5:
     id: 167266
-    title: Why are graphs scientifically relevant, and can you provide a historical example?
+    title: >-
+        Why are graphs scientifically relevant, and can you provide a historical example?
     subject: Education Studies
     url: /learn/education-studies/questions/why-are-graphs-scientifically-relevant-and-can-you-provide-a-historical-example
+related_article2:
+    id: 167274
+    title: >-
+        Why is it important to have descriptive titles on graphs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-have-descriptive-titles-on-graphs
+related_article3:
+    id: 167273
+    title: >-
+        What are the key elements of a graph's axes, and why is labeling important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-graphs-axes-and-why-is-labeling-important
+related_article4:
+    id: 167270
+    title: >-
+        How do bar graphs assist in comparing different groups?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-bar-graphs-assist-in-comparing-different-groups
+related_article5:
+    id: 167269
+    title: >-
+        What is the role of independent and dependent variables in a scatter plot?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-independent-and-dependent-variables-in-a-scatter-plot
 ---
 
 &nbsp;

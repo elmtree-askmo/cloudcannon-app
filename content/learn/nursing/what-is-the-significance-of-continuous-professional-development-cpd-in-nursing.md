@@ -2,8 +2,10 @@
 _schema: default
 id: 169626
 date: 2025-02-05
-title: What is the significance of continuous professional development (CPD) in nursing?
-article_title: What is the significance of continuous professional development (CPD) in nursing?
+title: >-
+    What is the significance of continuous professional development (CPD) in nursing?
+article_title: >-
+    What is the significance of continuous professional development (CPD) in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-continuous-professional-development-cpd-i
 url: /learn/nursing/questions/what-is-the-significance-of-continuous-professional-development-cpd-in-nursing
 score: -1.0
 related_article1:
-    id: 169617
-    title: What responsibilities do nursing students have in upholding the reputation of their university and the nursing profession?
+    id: 169615
+    title: >-
+        What are the key qualifications required for teaching staff in nursing education?
     subject: Nursing
-    url: /learn/nursing/questions/what-responsibilities-do-nursing-students-have-in-upholding-the-reputation-of-their-university-and-the-nursing-profession
+    url: /learn/nursing/questions/what-are-the-key-qualifications-required-for-teaching-staff-in-nursing-education
 related_article2:
+    id: 169616
+    title: >-
+        How does continuous professional development contribute to the effectiveness of nursing educators?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators
+related_article3:
     id: 169623
-    title: How does effective communication contribute to building trust and confidence in healthcare settings?
+    title: >-
+        How does effective communication contribute to building trust and confidence in healthcare settings?
     subject: Nursing
     url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
-related_article3:
-    id: 169627
-    title: How does engaging in reflective practice benefit a nurse's professional development?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-engaging-in-reflective-practice-benefit-a-nurses-professional-development
 related_article4:
-    id: 169618
-    title: How does adherence to the NMC Code impact a nurse's professional standing?
+    id: 169619
+    title: >-
+        Why is maintaining personal health important for nurses in their professional practice?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-adherence-to-the-nmc-code-impact-a-nurses-professional-standing
+    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
 related_article5:
-    id: 169625
-    title: How can nurses utilize NICE guidelines to enhance evidence-based practice?
+    id: 169616
+    title: >-
+        How does continuous professional development contribute to the effectiveness of nursing educators?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-nurses-utilize-nice-guidelines-to-enhance-evidencebased-practice
+    url: /learn/nursing/questions/how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators
 ---
 
 &nbsp;

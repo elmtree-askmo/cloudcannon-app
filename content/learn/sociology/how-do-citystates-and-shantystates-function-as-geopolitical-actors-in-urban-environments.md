@@ -2,8 +2,10 @@
 _schema: default
 id: 162921
 date: 2025-01-26
-title: How do city-states and shanty-states function as geopolitical actors in urban environments?
-article_title: How do city-states and shanty-states function as geopolitical actors in urban environments?
+title: >-
+    How do city-states and shanty-states function as geopolitical actors in urban environments?
+article_title: >-
+    How do city-states and shanty-states function as geopolitical actors in urban environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-citystates-and-shantystates-function-as-geopolitical-actors-in
 url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-geopolitical-actors-in-urban-environments
 score: -1.0
 related_article1:
-    id: 162926
-    title: What challenges do megacities face in terms of urban complexity and military doctrine?
-    subject: Sociology
-    url: /learn/sociology/questions/what-challenges-do-megacities-face-in-terms-of-urban-complexity-and-military-doctrine
-related_article2:
     id: 162928
-    title: What is the purpose of urban taxonomy in urban planning?
+    title: >-
+        What is the purpose of urban taxonomy in urban planning?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
-related_article3:
-    id: 162918
-    title: What role do non-state actors play in the geostrategic power dynamics of urban areas?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-nonstate-actors-play-in-the-geostrategic-power-dynamics-of-urban-areas
-related_article4:
-    id: 162927
-    title: How does urban infrastructure play a role in material rituals within cities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-infrastructure-play-a-role-in-material-rituals-within-cities
-related_article5:
+related_article2:
     id: 162916
-    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    title: >-
+        What are the key characteristics of military urbanism in the context of urban insecurity?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+related_article3:
+    id: 162917
+    title: >-
+        How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
+related_article4:
+    id: 162918
+    title: >-
+        What role do non-state actors play in the geostrategic power dynamics of urban areas?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-nonstate-actors-play-in-the-geostrategic-power-dynamics-of-urban-areas
+related_article5:
+    id: 162917
+    title: >-
+        How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
 ---
 
 &nbsp;

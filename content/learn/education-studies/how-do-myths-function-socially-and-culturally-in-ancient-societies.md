@@ -2,8 +2,10 @@
 _schema: default
 id: 167663
 date: 2025-01-31
-title: How do myths function socially and culturally in ancient societies?
-article_title: How do myths function socially and culturally in ancient societies?
+title: >-
+    How do myths function socially and culturally in ancient societies?
+article_title: >-
+    How do myths function socially and culturally in ancient societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-myths-function-socially-and-culturally-in-ancient-societies.md
 url: /learn/education-studies/questions/how-do-myths-function-socially-and-culturally-in-ancient-societies
 score: -1.0
 related_article1:
-    id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
-related_article2:
-    id: 167661
-    title: How have Greek myths influenced modern art and literature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
-related_article3:
-    id: 167661
-    title: How have Greek myths influenced modern art and literature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
-related_article4:
     id: 167658
-    title: What are the similarities and differences between Greek and Egyptian creation myths?
+    title: >-
+        What are the similarities and differences between Greek and Egyptian creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-similarities-and-differences-between-greek-and-egyptian-creation-myths
-related_article5:
-    id: 167660
-    title: What are the key contributions of Hesiod and Ovid to ancient Greek literature?
+related_article2:
+    id: 167649
+    title: >-
+        What is the significance of chaos in Greek creation myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-contributions-of-hesiod-and-ovid-to-ancient-greek-literature
+    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
+related_article3:
+    id: 167659
+    title: >-
+        What is the role of Prometheus in the creation of humans according to Greek mythology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
+related_article4:
+    id: 167650
+    title: >-
+        How do divine beings contribute to the emergence of order in Greek mythology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-divine-beings-contribute-to-the-emergence-of-order-in-greek-mythology
+related_article5:
+    id: 167657
+    title: >-
+        How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
 ---
 
 &nbsp;

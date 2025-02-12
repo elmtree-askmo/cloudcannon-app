@@ -2,8 +2,10 @@
 _schema: default
 id: 166043
 date: 2025-01-29
-title: Describe the role of Julius Caesar as Proconsul of Cisalpine Gaul.
-article_title: Describe the role of Julius Caesar as Proconsul of Cisalpine Gaul.
+title: >-
+    Describe the role of Julius Caesar as Proconsul of Cisalpine Gaul.
+article_title: >-
+    Describe the role of Julius Caesar as Proconsul of Cisalpine Gaul.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-julius-caesar-as-proconsul-of-cisalpine-gaul.md
 url: /learn/others/questions/describe-the-role-of-julius-caesar-as-proconsul-of-cisalpine-gaul
 score: -1.0
 related_article1:
-    id: 166041
-    title: How did Greek sources describe the martial prowess of the Celts?
+    id: 166051
+    title: >-
+        What were the sacrificial rites associated with Gallic deities?
     subject: Others
-    url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
+    url: /learn/others/questions/what-were-the-sacrificial-rites-associated-with-gallic-deities
 related_article2:
-    id: 166042
-    title: What was the significance of the First Triumvirate in Julius Caesar's political alliances?
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
     subject: Others
-    url: /learn/others/questions/what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-political-alliances
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 related_article3:
-    id: 166055
-    title: How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
     subject: Others
-    url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 related_article4:
-    id: 166041
-    title: How did Greek sources describe the martial prowess of the Celts?
+    id: 166054
+    title: >-
+        What were the religious beliefs of the Celts regarding human sacrifice?
     subject: Others
-    url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
+    url: /learn/others/questions/what-were-the-religious-beliefs-of-the-celts-regarding-human-sacrifice
 related_article5:
-    id: 166048
-    title: What were the sacred duties of the Druids in Celtic society?
+    id: 166046
+    title: >-
+        How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
     subject: Others
-    url: /learn/others/questions/what-were-the-sacred-duties-of-the-druids-in-celtic-society
+    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
 ---
 
 &nbsp;

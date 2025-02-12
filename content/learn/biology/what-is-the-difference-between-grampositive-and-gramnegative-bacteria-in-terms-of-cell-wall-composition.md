@@ -2,8 +2,10 @@
 _schema: default
 id: 168686
 date: 2025-02-04
-title: What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
-article_title: What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
+title: >-
+    What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
+article_title: >-
+    What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-grampositive-and-gramnegative-bacteria
 url: /learn/biology/questions/what-is-the-difference-between-grampositive-and-gramnegative-bacteria-in-terms-of-cell-wall-composition
 score: -1.0
 related_article1:
-    id: 168695
-    title: How do yeasts reproduce asexually in Phylum Ascomycota?
+    id: 168683
+    title: >-
+        What are the key characteristics of Domain Bacteria?
     subject: Biology
-    url: /learn/biology/questions/how-do-yeasts-reproduce-asexually-in-phylum-ascomycota
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-domain-bacteria
 related_article2:
-    id: 168688
-    title: What are the main differences between plant-like, animal-like, and fungal-like protists?
+    id: 168682
+    title: >-
+        In what types of environments are Archaea typically found?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
+    url: /learn/biology/questions/in-what-types-of-environments-are-archaea-typically-found
 related_article3:
     id: 168687
-    title: What role do cyanobacteria play in nitrogen fixation?
+    title: >-
+        What role do cyanobacteria play in nitrogen fixation?
     subject: Biology
     url: /learn/biology/questions/what-role-do-cyanobacteria-play-in-nitrogen-fixation
 related_article4:
+    id: 168683
+    title: >-
+        What are the key characteristics of Domain Bacteria?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-domain-bacteria
+related_article5:
     id: 168690
-    title: What is the function of pseudopodia in protozoans?
+    title: >-
+        What is the function of pseudopodia in protozoans?
     subject: Biology
     url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
-related_article5:
-    id: 168691
-    title: Describe the role of plasmodial slime molds in the ecosystem.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
 ---
 
 &nbsp;

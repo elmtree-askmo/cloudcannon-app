@@ -2,8 +2,10 @@
 _schema: default
 id: 164099
 date: 2025-01-28
-title: What factors should be considered when forming a study group?
-article_title: What factors should be considered when forming a study group?
+title: >-
+    What factors should be considered when forming a study group?
+article_title: >-
+    What factors should be considered when forming a study group?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-should-be-considered-when-forming-a-study-group.md
 url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-a-study-group
 score: -1.0
 related_article1:
-    id: 164103
-    title: What are some effective techniques for managing time during exams?
+    id: 164092
+    title: >-
+        How can reflective writing enhance personal and academic growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-managing-time-during-exams
+    url: /learn/education-studies/questions/how-can-reflective-writing-enhance-personal-and-academic-growth
 related_article2:
+    id: 164091
+    title: >-
+        What are the essential elements of a well-structured academic essay?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-academic-essay
+related_article3:
+    id: 164113
+    title: >-
+        How can reflective writing be used to learn from personal experiences?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-reflective-writing-be-used-to-learn-from-personal-experiences
+related_article4:
     id: 164093
-    title: What are the key steps in preparing a presentation to ensure it is well-organized?
+    title: >-
+        What are the key steps in preparing a presentation to ensure it is well-organized?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-steps-in-preparing-a-presentation-to-ensure-it-is-wellorganized
-related_article3:
-    id: 164100
-    title: How can group discussions enhance collaborative learning in study groups?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-group-discussions-enhance-collaborative-learning-in-study-groups
-related_article4:
-    id: 164095
-    title: What strategies can be used to evaluate arguments critically?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-evaluate-arguments-critically
 related_article5:
-    id: 164098
-    title: How can goal setting and monitoring progress improve learning outcomes?
+    id: 164091
+    title: >-
+        What are the essential elements of a well-structured academic essay?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-goal-setting-and-monitoring-progress-improve-learning-outcomes
+    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-academic-essay
 ---
 
 &nbsp;

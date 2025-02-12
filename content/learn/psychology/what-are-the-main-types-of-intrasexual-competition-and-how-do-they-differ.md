@@ -2,8 +2,10 @@
 _schema: default
 id: 170872
 date: 2025-02-07
-title: What are the main types of intrasexual competition, and how do they differ?
-article_title: What are the main types of intrasexual competition, and how do they differ?
+title: >-
+    What are the main types of intrasexual competition, and how do they differ?
+article_title: >-
+    What are the main types of intrasexual competition, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-main-types-of-intrasexual-competition-and-how-do-they-di
 url: /learn/psychology/questions/what-are-the-main-types-of-intrasexual-competition-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 170870
-    title: What are the consequences of asymmetry in parental investment for male and female roles?
+    id: 170869
+    title: >-
+        How does anisotropic selection influence sexual selection?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
+    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
 related_article2:
-    id: 170870
-    title: What are the consequences of asymmetry in parental investment for male and female roles?
+    id: 170876
+    title: >-
+        Explain the Fisherian runaway process and its impact on trait evolution.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
+    url: /learn/psychology/questions/explain-the-fisherian-runaway-process-and-its-impact-on-trait-evolution
 related_article3:
     id: 170875
-    title: What role does genetic quality play in the good genes theory?
+    title: >-
+        What role does genetic quality play in the good genes theory?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-genetic-quality-play-in-the-good-genes-theory
 related_article4:
-    id: 170876
-    title: Explain the Fisherian runaway process and its impact on trait evolution.
+    id: 170871
+    title: >-
+        How does female choosiness affect selection pressures in parental investment?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-fisherian-runaway-process-and-its-impact-on-trait-evolution
-related_article5:
-    id: 170873
-    title: What strategies are involved in sperm competition during intersexual competition?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-are-involved-in-sperm-competition-during-intersexual-competition
+    url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
 ---
 
 &nbsp;

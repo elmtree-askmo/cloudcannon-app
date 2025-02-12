@@ -2,8 +2,10 @@
 _schema: default
 id: 164846
 date: 2025-01-28
-title: What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
-article_title: What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+title: >-
+    What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+article_title: >-
+    What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-the-geniculostriate-and-tectopulvina
 url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
 score: -1.0
 related_article1:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article2:
+    id: 164841
+    title: >-
+        In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article3:
+    id: 164838
+    title: >-
+        What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness
+related_article4:
+    id: 164839
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+related_article5:
     id: 164845
-    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    title: >-
+        Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
-related_article2:
-    id: 164842
-    title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
-related_article3:
-    id: 164834
-    title: Which brain regions are primarily involved in maintaining consciousness, and what roles do they play?
-    subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-maintaining-consciousness-and-what-roles-do-they-play
-related_article4:
-    id: 164840
-    title: How do thalamocortical interactions facilitate conscious perception through signal integration?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
-related_article5:
-    id: 164836
-    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
 ---
 
 &nbsp;

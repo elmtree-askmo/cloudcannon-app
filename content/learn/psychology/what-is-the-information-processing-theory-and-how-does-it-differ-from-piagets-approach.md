@@ -2,8 +2,10 @@
 _schema: default
 id: 168009
 date: 2025-02-02
-title: What is the Information Processing Theory, and how does it differ from Piaget's approach?
-article_title: What is the Information Processing Theory, and how does it differ from Piaget's approach?
+title: >-
+    What is the Information Processing Theory, and how does it differ from Piaget's approach?
+article_title: >-
+    What is the Information Processing Theory, and how does it differ from Piaget's approach?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-information-processing-theory-and-how-does-it-differ-from
 url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
 score: -1.0
 related_article1:
-    id: 167996
-    title: What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
+    id: 168003
+    title: >-
+        How does deferred imitation challenge Piaget's theory?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
+    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
 related_article2:
-    id: 167999
-    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    id: 168007
+    title: >-
+        How does adult influence contribute to cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+    url: /learn/psychology/questions/how-does-adult-influence-contribute-to-cognitive-development
 related_article3:
-    id: 168008
-    title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    id: 167994
+    title: >-
+        What are the key characteristics of the formal operational stage in Piaget's theory?
     subject: Psychology
-    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 related_article4:
-    id: 168004
-    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    id: 168005
+    title: >-
+        How do social interactions influence cognitive development according to Piaget?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+    url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
 related_article5:
-    id: 167995
-    title: How does abstract thinking manifest in the formal operational stage?
+    id: 168006
+    title: >-
+        What role do peers play in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
+    url: /learn/psychology/questions/what-role-do-peers-play-in-cognitive-development
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167121
 date: 2025-01-31
-title: Compare the pH levels of human blood and soda in terms of proton concentration.
-article_title: Compare the pH levels of human blood and soda in terms of proton concentration.
+title: >-
+    Compare the pH levels of human blood and soda in terms of proton concentration.
+article_title: >-
+    Compare the pH levels of human blood and soda in terms of proton concentration.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-conc
 url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
 score: -1.0
 related_article1:
-    id: 167125
-    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
-related_article2:
-    id: 167120
-    title: How is pH mathematically represented and what is the pH of pure water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
-related_article3:
     id: 167122
-    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
     subject: Chemistry
     url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article2:
+    id: 167115
+    title: >-
+        How does the dissociation of substances occur during the dissolution process in water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
+related_article3:
+    id: 167125
+    title: >-
+        Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
 related_article4:
-    id: 167119
-    title: What are the differences between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    id: 167125
+    title: >-
+        Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-differences-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
 related_article5:
-    id: 167118
-    title: Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
+    id: 167115
+    title: >-
+        How does the dissociation of substances occur during the dissolution process in water?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
 ---
 
 &nbsp;

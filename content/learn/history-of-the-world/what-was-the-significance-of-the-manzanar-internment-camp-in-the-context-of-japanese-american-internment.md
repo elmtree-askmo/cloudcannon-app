@@ -2,8 +2,10 @@
 _schema: default
 id: 168741
 date: 2025-02-04
-title: What was the significance of the Manzanar internment camp in the context of Japanese American internment?
-article_title: What was the significance of the Manzanar internment camp in the context of Japanese American internment?
+title: >-
+    What was the significance of the Manzanar internment camp in the context of Japanese American internment?
+article_title: >-
+    What was the significance of the Manzanar internment camp in the context of Japanese American internment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-was-the-significance-of-the-manzanar-internment-camp-in-the-cont
 url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
 score: 9.5
 related_article1:
-    id: 168746
-    title: What role does oral history play in preserving personal testimonies of Japanese internment?
+    id: 168750
+    title: >-
+        What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-oral-history-play-in-preserving-personal-testimonies-of-japanese-internment
+    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
 related_article2:
-    id: 168747
-    title: How has the Japanese internment experience influenced modern civil rights movements?
+    id: 168750
+    title: >-
+        What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
+    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
 related_article3:
-    id: 168748
-    title: What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
+    id: 168739
+    title: >-
+        What were the immediate impacts of forced relocation and internment on Japanese Americans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-civil-liberties-act-of-1988-and-what-did-it-achieve
+    url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
 related_article4:
-    id: 168738
-    title: How did Executive Order 9066 legally justify the internment of Japanese Americans?
+    id: 168739
+    title: >-
+        What were the immediate impacts of forced relocation and internment on Japanese Americans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-executive-order-9066-legally-justify-the-internment-of-japanese-americans
-related_article5:
-    id: 168738
-    title: How did Executive Order 9066 legally justify the internment of Japanese Americans?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-executive-order-9066-legally-justify-the-internment-of-japanese-americans
+    url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
 ---
 
 &nbsp;

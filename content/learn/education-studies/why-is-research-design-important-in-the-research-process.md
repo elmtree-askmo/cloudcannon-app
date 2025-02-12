@@ -2,8 +2,10 @@
 _schema: default
 id: 163681
 date: 2025-01-27
-title: Why is research design important in the research process?
-article_title: Why is research design important in the research process?
+title: >-
+    Why is research design important in the research process?
+article_title: >-
+    Why is research design important in the research process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-research-design-important-in-the-research-process.md
 url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
 score: -1.0
 related_article1:
-    id: 163688
-    title: What ethical considerations must be taken into account in research?
+    id: 163689
+    title: >-
+        What is the process of inductive reasoning, and how is it applied in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
+    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
 related_article2:
-    id: 163674
-    title: How does positivism differ from social constructivism in terms of ontology?
+    id: 163683
+    title: >-
+        What are some common qualitative data collection methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
+    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
 related_article3:
-    id: 163695
-    title: How does social constructivism influence qualitative research?
+    id: 163692
+    title: >-
+        How does objective knowledge contribute to quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-social-constructivism-influence-qualitative-research
+    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 related_article4:
-    id: 163691
-    title: How does subjective knowledge contribute to qualitative research?
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 related_article5:
-    id: 163685
-    title: What is the process of coding and thematic analysis in qualitative data analysis?
+    id: 163675
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 ---
 
 &nbsp;

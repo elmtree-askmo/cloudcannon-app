@@ -2,8 +2,10 @@
 _schema: default
 id: 166838
 date: 2025-01-31
-title: What role do hormones play in the regulation of gene expression?
-article_title: What role do hormones play in the regulation of gene expression?
+title: >-
+    What role do hormones play in the regulation of gene expression?
+article_title: >-
+    What role do hormones play in the regulation of gene expression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-role-do-hormones-play-in-the-regulation-of-gene-expression.md
 url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
 score: -1.0
 related_article1:
-    id: 166843
-    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
-related_article2:
-    id: 166852
-    title: What chemical properties of proteins affect their solubility and reactivity?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-chemical-properties-of-proteins-affect-their-solubility-and-reactivity
-related_article3:
-    id: 166845
-    title: How do multiple polypeptide chains form a functional quaternary structure?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
-related_article4:
     id: 166837
-    title: How do enzymes facilitate metabolic pathways in cellular processes?
+    title: >-
+        How do enzymes facilitate metabolic pathways in cellular processes?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
+related_article2:
+    id: 166836
+    title: >-
+        What are the primary functions of proteins in providing structural support within cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article3:
+    id: 166851
+    title: >-
+        How do R-group interactions influence the stability and folding patterns of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins
+related_article4:
+    id: 166839
+    title: >-
+        Describe the components of an amino acid and their significance.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-components-of-an-amino-acid-and-their-significance
+related_article5:
+    id: 166842
+    title: >-
+        What is the importance of the primary structure in determining a protein's function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function
 ---
 
 &nbsp;

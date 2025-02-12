@@ -2,8 +2,10 @@
 _schema: default
 id: 169084
 date: 2025-02-04
-title: Explain the concept of 'walking through walls' in urban combat strategies.
-article_title: Explain the concept of 'walking through walls' in urban combat strategies.
+title: >-
+    Explain the concept of 'walking through walls' in urban combat strategies.
+article_title: >-
+    Explain the concept of 'walking through walls' in urban combat strategies.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-walking-through-walls-in-urban-combat-strategi
 url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
 score: 9.0
 related_article1:
-    id: 169093
-    title: What are the characteristics of non-linear warfare in military tactics?
+    id: 169087
+    title: >-
+        Describe the relationship between military architecture and the architectural impact of conflict.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
+    url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
 related_article2:
-    id: 169098
-    title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
+    id: 169100
+    title: >-
+        What is the impact of conflict on military architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
+    url: /learn/history-of-the-world/questions/what-is-the-impact-of-conflict-on-military-architecture
 related_article3:
-    id: 169103
-    title: How does critical theory apply to military practice in the context of ethical implications?
+    id: 169090
+    title: >-
+        What is the role of theoretical language in warfare within the context of architectural theory?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
+    url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
 related_article4:
     id: 169102
-    title: What are the ethical implications of warfare in military practice?
+    title: >-
+        What are the ethical implications of warfare in military practice?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
 related_article5:
-    id: 169095
-    title: How does the military-architectural relationship influence military training and education?
+    id: 169083
+    title: >-
+        How do swarming tactics differ from traditional military tactics in urban warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
 ---
 
 &nbsp;

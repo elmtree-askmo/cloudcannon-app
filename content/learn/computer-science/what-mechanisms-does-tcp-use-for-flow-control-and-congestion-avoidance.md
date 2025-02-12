@@ -2,8 +2,10 @@
 _schema: default
 id: 165775
 date: 2025-01-29
-title: What mechanisms does TCP use for flow control and congestion avoidance?
-article_title: What mechanisms does TCP use for flow control and congestion avoidance?
+title: >-
+    What mechanisms does TCP use for flow control and congestion avoidance?
+article_title: >-
+    What mechanisms does TCP use for flow control and congestion avoidance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidanc
 url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
 score: -1.0
 related_article1:
-    id: 165776
-    title: What is the purpose of port numbers in managing multiple separate communications?
+    id: 165787
+    title: >-
+        How does TCP handle congestion control using timers and algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
+    url: /learn/computer-science/questions/how-does-tcp-handle-congestion-control-using-timers-and-algorithms
 related_article2:
-    id: 165786
-    title: What is the purpose of selective acknowledgment (SACK) in TCP?
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 related_article3:
-    id: 165773
-    title: What is the significance of the simplicity and low overhead of the UDP header?
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 related_article4:
-    id: 165788
-    title: What is the responsibility of applications in handling congestion in UDP?
+    id: 165777
+    title: >-
+        How do socket pairs facilitate communication between devices?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-responsibility-of-applications-in-handling-congestion-in-udp
+    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
 related_article5:
-    id: 165770
-    title: What are the basic operations of the TCP protocol in managing data transmission?
+    id: 165778
+    title: >-
+        What are the differences between well-known, registered, and private port numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
+    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
 ---
 
 &nbsp;

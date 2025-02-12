@@ -2,8 +2,10 @@
 _schema: default
 id: 166064
 date: 2025-01-29
-title: How did the combination of mobility and stability provide tactical advantages in battle?
-article_title: How did the combination of mobility and stability provide tactical advantages in battle?
+title: >-
+    How did the combination of mobility and stability provide tactical advantages in battle?
+article_title: >-
+    How did the combination of mobility and stability provide tactical advantages in battle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-combination-of-mobility-and-stability-provide-tactical-ad
 url: /learn/others/questions/how-did-the-combination-of-mobility-and-stability-provide-tactical-advantages-in-battle
 score: -1.0
 related_article1:
-    id: 166067
-    title: How did chariot drivers execute quick stops and turns effectively?
+    id: 166059
+    title: >-
+        How did British chariots create chaos in enemy ranks during battle?
     subject: Others
-    url: /learn/others/questions/how-did-chariot-drivers-execute-quick-stops-and-turns-effectively
+    url: /learn/others/questions/how-did-british-chariots-create-chaos-in-enemy-ranks-during-battle
 related_article2:
-    id: 166062
-    title: How did chariot drivers support infantry during transitions in combat?
+    id: 166060
+    title: >-
+        What psychological impact did galloping horses have on enemy forces in chariot warfare?
     subject: Others
-    url: /learn/others/questions/how-did-chariot-drivers-support-infantry-during-transitions-in-combat
+    url: /learn/others/questions/what-psychological-impact-did-galloping-horses-have-on-enemy-forces-in-chariot-warfare
 related_article3:
     id: 166070
-    title: How did chariots disrupt enemy formations and facilitate tactical retreats?
+    title: >-
+        How did chariots disrupt enemy formations and facilitate tactical retreats?
     subject: Others
     url: /learn/others/questions/how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-retreats
 related_article4:
-    id: 166060
-    title: What psychological impact did galloping horses have on enemy forces in chariot warfare?
+    id: 166071
+    title: >-
+        What training practices were crucial for maintaining control of horses at high speeds?
     subject: Others
-    url: /learn/others/questions/what-psychological-impact-did-galloping-horses-have-on-enemy-forces-in-chariot-warfare
+    url: /learn/others/questions/what-training-practices-were-crucial-for-maintaining-control-of-horses-at-high-speeds
 related_article5:
-    id: 166060
-    title: What psychological impact did galloping horses have on enemy forces in chariot warfare?
+    id: 166073
+    title: >-
+        What techniques were used to navigate difficult terrain with chariots?
     subject: Others
-    url: /learn/others/questions/what-psychological-impact-did-galloping-horses-have-on-enemy-forces-in-chariot-warfare
+    url: /learn/others/questions/what-techniques-were-used-to-navigate-difficult-terrain-with-chariots
 ---
 
 &nbsp;

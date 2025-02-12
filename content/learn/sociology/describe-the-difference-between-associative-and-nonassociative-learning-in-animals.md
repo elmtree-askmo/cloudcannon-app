@@ -2,8 +2,10 @@
 _schema: default
 id: 166343
 date: 2025-01-30
-title: Describe the difference between associative and non-associative learning in animals.
-article_title: Describe the difference between associative and non-associative learning in animals.
+title: >-
+    Describe the difference between associative and non-associative learning in animals.
+article_title: >-
+    Describe the difference between associative and non-associative learning in animals.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-difference-between-associative-and-nonassociative-learni
 url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
 score: -1.0
 related_article1:
-    id: 166338
-    title: How does the study of animal behavior contribute to our understanding of ecology?
+    id: 166344
+    title: >-
+        How does cultural transmission occur in animals, and what role does social learning play?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-study-of-animal-behavior-contribute-to-our-understanding-of-ecology
+    url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
 related_article2:
-    id: 166338
-    title: How does the study of animal behavior contribute to our understanding of ecology?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-the-study-of-animal-behavior-contribute-to-our-understanding-of-ecology
-related_article3:
-    id: 166345
-    title: What is the significance of individual learning in the context of animal behavior and fitness?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
-related_article4:
-    id: 166345
-    title: What is the significance of individual learning in the context of animal behavior and fitness?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
-related_article5:
     id: 166342
-    title: What are Darwin's postulates, and how do they relate to natural selection?
+    title: >-
+        What are Darwin's postulates, and how do they relate to natural selection?
     subject: Sociology
     url: /learn/sociology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article3:
+    id: 166341
+    title: >-
+        Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
+related_article4:
+    id: 166352
+    title: >-
+        What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
+related_article5:
+    id: 166344
+    title: >-
+        How does cultural transmission occur in animals, and what role does social learning play?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170527
 date: 2025-02-06
-title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
-article_title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+title: >-
+    What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+article_title: >-
+    What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-some-historical-approaches-to-treating-psychosis-before-mod
 url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
 score: -1.0
 related_article1:
-    id: 170523
-    title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    id: 170537
+    title: >-
+        What is diffusion tensor imaging, and how is it used to study brain connectivity?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
 related_article2:
-    id: 170545
-    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
 related_article3:
+    id: 170544
+    title: >-
+        What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
+related_article4:
+    id: 170534
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
+related_article5:
     id: 170524
-    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    title: >-
+        Who developed the lobotomy procedure, and what recognition did they receive for it?
     subject: Psychology
     url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
-related_article4:
-    id: 170526
-    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
-    subject: Psychology
-    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
-related_article5:
-    id: 170538
-    title: What are the critical periods in neurodevelopment, and why are they important for language acquisition?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168428
 date: 2025-02-03
-title: What methods can be used to research and understand job roles and responsibilities in recommended careers?
-article_title: What methods can be used to research and understand job roles and responsibilities in recommended careers?
+title: >-
+    What methods can be used to research and understand job roles and responsibilities in recommended careers?
+article_title: >-
+    What methods can be used to research and understand job roles and responsibilities in recommended careers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-methods-can-be-used-to-research-and-understand-job-roles-and-res
 url: /learn/education-studies/questions/what-methods-can-be-used-to-research-and-understand-job-roles-and-responsibilities-in-recommended-careers
 score: -1.0
 related_article1:
-    id: 168430
-    title: How can one create a skill development plan to address identified areas for improvement?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-create-a-skill-development-plan-to-address-identified-areas-for-improvement
-related_article2:
-    id: 168431
-    title: What criteria are important when ranking career options and how do they influence career choice?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-are-important-when-ranking-career-options-and-how-do-they-influence-career-choice
-related_article3:
     id: 168423
-    title: What is the significance of aligning personal interests and values with career options?
+    title: >-
+        What is the significance of aligning personal interests and values with career options?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-aligning-personal-interests-and-values-with-career-options
+related_article2:
+    id: 168421
+    title: >-
+        What are the key components of personality inventories used in self-assessment questionnaires?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-personality-inventories-used-in-selfassessment-questionnaires
+related_article3:
+    id: 168421
+    title: >-
+        What are the key components of personality inventories used in self-assessment questionnaires?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-personality-inventories-used-in-selfassessment-questionnaires
 related_article4:
-    id: 168422
-    title: How can understanding personality types influence career choices?
+    id: 168421
+    title: >-
+        What are the key components of personality inventories used in self-assessment questionnaires?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-understanding-personality-types-influence-career-choices
+    url: /learn/education-studies/questions/what-are-the-key-components-of-personality-inventories-used-in-selfassessment-questionnaires
 related_article5:
-    id: 168425
-    title: What are the characteristics of different personality types and how do they impact career choices?
+    id: 168430
+    title: >-
+        How can one create a skill development plan to address identified areas for improvement?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-different-personality-types-and-how-do-they-impact-career-choices
+    url: /learn/education-studies/questions/how-can-one-create-a-skill-development-plan-to-address-identified-areas-for-improvement
 ---
 
 &nbsp;

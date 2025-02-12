@@ -2,8 +2,10 @@
 _schema: default
 id: 168098
 date: 2025-02-02
-title: Explain the coordination of secondary circular reactions and provide an example.
-article_title: Explain the coordination of secondary circular reactions and provide an example.
+title: >-
+    Explain the coordination of secondary circular reactions and provide an example.
+article_title: >-
+    Explain the coordination of secondary circular reactions and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-coordination-of-secondary-circular-reactions-and-provide-
 url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 168096
-    title: What distinguishes secondary circular reactions from primary circular reactions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
-related_article2:
-    id: 168102
-    title: At what age do children typically develop object permanence?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
-related_article3:
-    id: 168099
-    title: What is the significance of tertiary circular reactions in cognitive development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
-related_article4:
-    id: 168100
-    title: Define internalization of schemas and give an example.
-    subject: Psychology
-    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
-related_article5:
     id: 168093
-    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    title: >-
+        Describe the cognitive development that occurs during the sensorimotor stage.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+related_article2:
+    id: 168108
+    title: >-
+        What are mental representations, and how do they aid in problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+related_article3:
+    id: 168093
+    title: >-
+        Describe the cognitive development that occurs during the sensorimotor stage.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+related_article4:
+    id: 168103
+    title: >-
+        Define representational thought and explain its importance in cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/define-representational-thought-and-explain-its-importance-in-cognitive-development
+related_article5:
+    id: 168104
+    title: >-
+        What is make-believe play, and why is it important for cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
 ---
 
 &nbsp;

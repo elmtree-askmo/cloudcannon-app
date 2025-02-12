@@ -2,8 +2,10 @@
 _schema: default
 id: 166022
 date: 2025-01-29
-title: What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
-article_title: What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
+title: >-
+    What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
+article_title: >-
+    What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-at
 url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
 score: 9.0
 related_article1:
-    id: 166028
-    title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+    id: 166024
+    title: >-
+        What was the purpose of the Council of 500 in the governance of Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
+    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
 related_article2:
-    id: 166024
-    title: What was the purpose of the Council of 500 in the governance of Athens?
+    id: 166035
+    title: >-
+        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
+    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
 related_article3:
-    id: 166018
-    title: How did the geographical location of Athens contribute to its economic importance?
+    id: 166035
+    title: >-
+        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-geographical-location-of-athens-contribute-to-its-economic-importance
+    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
 related_article4:
-    id: 166018
-    title: How did the geographical location of Athens contribute to its economic importance?
+    id: 166036
+    title: >-
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-geographical-location-of-athens-contribute-to-its-economic-importance
+    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article5:
-    id: 166024
-    title: What was the purpose of the Council of 500 in the governance of Athens?
+    id: 166017
+    title: >-
+        What was the historical significance of Athens as an urban center in ancient times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
+    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
 ---
 
 &nbsp;

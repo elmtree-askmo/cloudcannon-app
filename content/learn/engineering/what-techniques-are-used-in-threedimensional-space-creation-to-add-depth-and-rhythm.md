@@ -2,8 +2,10 @@
 _schema: default
 id: 169362
 date: 2025-02-05
-title: What techniques are used in three-dimensional space creation to add depth and rhythm?
-article_title: What techniques are used in three-dimensional space creation to add depth and rhythm?
+title: >-
+    What techniques are used in three-dimensional space creation to add depth and rhythm?
+article_title: >-
+    What techniques are used in three-dimensional space creation to add depth and rhythm?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-are-used-in-threedimensional-space-creation-to-add-de
 url: /learn/engineering/questions/what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm
 score: -1.0
 related_article1:
-    id: 169365
-    title: How do ambiguous spaces contribute to the integration of interior and exterior design?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-ambiguous-spaces-contribute-to-the-integration-of-interior-and-exterior-design
-related_article2:
-    id: 169368
-    title: What are some ways architectural design can reduce tension in public spaces?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
-related_article3:
-    id: 169372
-    title: How do advanced materials contribute to technical developments in architecture?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
-related_article4:
-    id: 169360
-    title: What is the Shikiri concept in architectural design, and how does it influence space division?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
-related_article5:
     id: 169364
-    title: What is the significance of blending and overlapping colors in spatial design?
+    title: >-
+        What is the significance of blending and overlapping colors in spatial design?
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-significance-of-blending-and-overlapping-colors-in-spatial-design
+related_article2:
+    id: 169361
+    title: >-
+        How does the integration of color enhance architectural design?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
+related_article3:
+    id: 169369
+    title: >-
+        What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
+related_article4:
+    id: 169366
+    title: >-
+        What role does natural light play in environmental design, particularly in courtyard integration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
+related_article5:
+    id: 169369
+    title: >-
+        What challenges are associated with deflection calculations in structural engineering?
+    subject: Engineering
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
 ---
 
 &nbsp;

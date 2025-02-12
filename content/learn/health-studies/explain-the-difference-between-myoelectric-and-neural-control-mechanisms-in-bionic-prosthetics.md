@@ -2,8 +2,10 @@
 _schema: default
 id: 164265
 date: 2025-01-28
-title: Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
-article_title: Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
+title: >-
+    Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
+article_title: >-
+    Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-difference-between-myoelectric-and-neural-control-mechani
 url: /learn/health-studies/questions/explain-the-difference-between-myoelectric-and-neural-control-mechanisms-in-bionic-prosthetics
 score: -1.0
 related_article1:
-    id: 164261
-    title: Describe the structure and function of neural pathways in neural control systems.
+    id: 164273
+    title: >-
+        How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-neural-pathways-in-neural-control-systems
+    url: /learn/health-studies/questions/how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation-in-the-context-of-therapy-and-recovery
 related_article2:
-    id: 164258
-    title: What are the primary components of biomechanical systems, and how do they function together?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
-related_article3:
-    id: 164271
-    title: What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-concerns-associated-with-nervous-system-integration-technologies-particularly-regarding-privacy
-related_article4:
     id: 164261
-    title: Describe the structure and function of neural pathways in neural control systems.
+    title: >-
+        Describe the structure and function of neural pathways in neural control systems.
     subject: Health Studies
     url: /learn/health-studies/questions/describe-the-structure-and-function-of-neural-pathways-in-neural-control-systems
-related_article5:
-    id: 164260
-    title: What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
+related_article3:
+    id: 164273
+    title: >-
+        How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
+    url: /learn/health-studies/questions/how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation-in-the-context-of-therapy-and-recovery
+related_article4:
+    id: 164259
+    title: >-
+        How do prosthetics and orthotics differ in their application within biomechanical technology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-prosthetics-and-orthotics-differ-in-their-application-within-biomechanical-technology
+related_article5:
+    id: 164259
+    title: >-
+        How do prosthetics and orthotics differ in their application within biomechanical technology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-prosthetics-and-orthotics-differ-in-their-application-within-biomechanical-technology
 ---
 
 &nbsp;

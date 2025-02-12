@@ -2,8 +2,10 @@
 _schema: default
 id: 165874
 date: 2025-01-29
-title: How does concomitant immunity provide protection against re-infection?
-article_title: How does concomitant immunity provide protection against re-infection?
+title: >-
+    How does concomitant immunity provide protection against re-infection?
+article_title: >-
+    How does concomitant immunity provide protection against re-infection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-concomitant-immunity-provide-protection-against-reinfection.
 url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
 score: -1.0
 related_article1:
-    id: 165864
-    title: How does the NF Kappa B pathway contribute to immune cell activation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
-related_article2:
-    id: 165869
-    title: What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
-related_article3:
-    id: 165857
-    title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
-related_article4:
     id: 165877
-    title: What is the role of the NF Kappa B pathway in the inflammatory response?
+    title: >-
+        What is the role of the NF Kappa B pathway in the inflammatory response?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
-related_article5:
+related_article2:
+    id: 165866
+    title: >-
+        How do monocytes and macrophages differ from neutrophils and eosinophils in their phagocytic functions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-monocytes-and-macrophages-differ-from-neutrophils-and-eosinophils-in-their-phagocytic-functions
+related_article3:
+    id: 165858
+    title: >-
+        How do infective parasites differ from non-infective parasites in terms of their impact on the host?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
+related_article4:
     id: 165867
-    title: What is the significance of the membrane attack complex in the complement system?
+    title: >-
+        What is the significance of the membrane attack complex in the complement system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
+related_article5:
+    id: 165857
+    title: >-
+        What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
 ---
 
 &nbsp;

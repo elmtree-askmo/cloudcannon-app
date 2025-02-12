@@ -2,8 +2,10 @@
 _schema: default
 id: 168727
 date: 2025-02-04
-title: Who were the key representatives of Realism, and what were their contributions to the movement?
-article_title: Who were the key representatives of Realism, and what were their contributions to the movement?
+title: >-
+    Who were the key representatives of Realism, and what were their contributions to the movement?
+article_title: >-
+    Who were the key representatives of Realism, and what were their contributions to the movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-were-the-key-representatives-of-realism-and-what-were-their-contr
 url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
 score: 9.0
 related_article1:
-    id: 168735
-    title: What role did women play in art during the 19th century, and how was gender identity explored?
+    id: 168722
+    title: >-
+        How did the introduction of photography change the composition and realism in painting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
+    url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
 related_article2:
-    id: 168719
-    title: What are the defining features of Romanticism, and how did it react to industrialization?
+    id: 168717
+    title: >-
+        What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
+    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
 related_article3:
-    id: 168736
-    title: How did artists represent the working class and critique working conditions in their art?
+    id: 168732
+    title: >-
+        How did socialist ideas influence art and the representation of the working class in the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
+    url: /learn/art-history-and-literature/questions/how-did-socialist-ideas-influence-art-and-the-representation-of-the-working-class-in-the-19th-century
 related_article4:
     id: 168733
-    title: What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
+    title: >-
+        What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
 related_article5:
-    id: 168720
-    title: How did Realism artists reject traditional Academic Painting styles?
+    id: 168730
+    title: >-
+        How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-realism-artists-reject-traditional-academic-painting-styles
+    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
 ---
 
 &nbsp;

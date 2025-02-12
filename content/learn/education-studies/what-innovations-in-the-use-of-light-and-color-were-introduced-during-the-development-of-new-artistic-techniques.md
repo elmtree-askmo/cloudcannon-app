@@ -2,8 +2,10 @@
 _schema: default
 id: 160031
 date: 2025-01-23
-title: What innovations in the use of light and color were introduced during the development of new artistic techniques?
-article_title: What innovations in the use of light and color were introduced during the development of new artistic techniques?
+title: >-
+    What innovations in the use of light and color were introduced during the development of new artistic techniques?
+article_title: >-
+    What innovations in the use of light and color were introduced during the development of new artistic techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-innovations-in-the-use-of-light-and-color-were-introduced-during
 url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
 score: -1.0
 related_article1:
-    id: 159807
-    title: How did Victorian society influence the representation of gender in art?
+    id: 159808
+    title: >-
+        What role did colonialism play in shaping European art and its interaction with non-European cultures?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-did-colonialism-play-in-shaping-european-art-and-its-interaction-with-noneuropean-cultures
+related_article2:
+    id: 160019
+    title: >-
+        What are the defining features of Post-Impressionism, and how did it build on Impressionism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-postimpressionism-and-how-did-it-build-on-impressionism
+related_article3:
+    id: 159805
+    title: >-
+        How did the Industrial Revolution contribute to the evolution of visual culture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
+related_article4:
+    id: 159805
+    title: >-
+        How did the Industrial Revolution contribute to the evolution of visual culture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
+related_article5:
+    id: 160025
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
-related_article2:
-    id: 159751
-    title: How did modernism emerge as a significant movement in art, and what were its global influences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-modernism-emerge-as-a-significant-movement-in-art-and-what-were-its-global-influences
-related_article3:
-    id: 159815
-    title: What are the key components of formal analysis when visually analyzing artworks?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
-related_article4:
-    id: 159753
-    title: How has technology influenced the integration of new media in art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-technology-influenced-the-integration-of-new-media-in-art
-related_article5:
-    id: 160023
-    title: In what ways did the transition from traditional to modern art impact the role of salons and academies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-did-the-transition-from-traditional-to-modern-art-impact-the-role-of-salons-and-academies
 ---
 
 &nbsp;

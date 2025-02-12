@@ -2,8 +2,10 @@
 _schema: default
 id: 169348
 date: 2025-02-05
-title: What techniques are used in teaching new skills, and how do prompting and fading play a role?
-article_title: What techniques are used in teaching new skills, and how do prompting and fading play a role?
+title: >-
+    What techniques are used in teaching new skills, and how do prompting and fading play a role?
+article_title: >-
+    What techniques are used in teaching new skills, and how do prompting and fading play a role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-
 url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
 score: -1.0
 related_article1:
-    id: 169341
-    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    id: 169349
+    title: >-
+        How can data collection be used to monitor progress and adjust instruction in skill acquisition?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
 related_article2:
-    id: 169355
-    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    id: 169334
+    title: >-
+        Describe systematic fading and time delay as techniques for fading prompts.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
 related_article3:
-    id: 169357
-    title: How can individualized education plans and technology be used as intervention strategies for learning disabilities?
+    id: 169338
+    title: >-
+        What are the types of augmentative communication, and how might they impact verbal language development?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-individualized-education-plans-and-technology-be-used-as-intervention-strategies-for-learning-disabilities
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
 related_article4:
-    id: 169342
-    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
     subject: Psychology
-    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 related_article5:
-    id: 169341
-    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 ---
 
 &nbsp;

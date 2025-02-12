@@ -2,8 +2,10 @@
 _schema: default
 id: 163860
 date: 2025-01-28
-title: What are the key characteristics of capitalism, and how does it influence global markets?
-article_title: What are the key characteristics of capitalism, and how does it influence global markets?
+title: >-
+    What are the key characteristics of capitalism, and how does it influence global markets?
+article_title: >-
+    What are the key characteristics of capitalism, and how does it influence global markets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-capitalism-and-how-does-it-influe
 url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
 score: -1.0
 related_article1:
-    id: 163871
-    title: How has globalization impacted economic disparities and poverty levels worldwide?
+    id: 163867
+    title: >-
+        How did European exploration impact global trade routes and resource control?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
+    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
 related_article2:
     id: 163864
-    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    title: >-
+        What role do multinational corporations play in the interdependency of global trade and economic integration?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
 related_article3:
-    id: 163862
-    title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+    id: 163870
+    title: >-
+        What role do multinational corporations play in the emergence of global markets and economic integration?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
 related_article4:
-    id: 163869
-    title: How do military and economic influences contribute to the control of territory and resources in political economy?
+    id: 163865
+    title: >-
+        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
+    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 related_article5:
-    id: 163868
-    title: What was the significance of the slave trade in the context of colonialism and specialized production?
+    id: 163863
+    title: >-
+        How have multinational corporations contributed to contemporary globalization since 1945?
     subject: Sociology
-    url: /learn/sociology/questions/what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production
+    url: /learn/sociology/questions/how-have-multinational-corporations-contributed-to-contemporary-globalization-since-1945
 ---
 
 &nbsp;

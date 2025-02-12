@@ -2,8 +2,10 @@
 _schema: default
 id: 159843
 date: 2025-01-23
-title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
-article_title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+title: >-
+    In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+article_title: >-
+    In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-m
 url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
 score: 9.0
 related_article1:
-    id: 160201
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 related_article2:
+    id: 159832
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+related_article3:
+    id: 160109
+    title: >-
+        What were the origins and key developments of Cubism, and how did it impact modern art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
+related_article4:
     id: 159842
-    title: How did queer art develop in modern society, and who were some key figures and movements in this area?
+    title: >-
+        How did queer art develop in modern society, and who were some key figures and movements in this area?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
-related_article3:
-    id: 160110
-    title: How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-changes-in-artistic-practices-and-subject-matter-during-the-19th-century
-related_article4:
-    id: 159839
-    title: In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 related_article5:
-    id: 159849
-    title: What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
+    id: 159851
+    title: >-
+        In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
 ---
 
 &nbsp;

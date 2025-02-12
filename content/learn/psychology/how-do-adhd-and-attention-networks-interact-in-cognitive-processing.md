@@ -2,8 +2,10 @@
 _schema: default
 id: 164561
 date: 2025-01-28
-title: How do ADHD and attention networks interact in cognitive processing?
-article_title: How do ADHD and attention networks interact in cognitive processing?
+title: >-
+    How do ADHD and attention networks interact in cognitive processing?
+article_title: >-
+    How do ADHD and attention networks interact in cognitive processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-adhd-and-attention-networks-interact-in-cognitive-processing.m
 url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
 score: -1.0
 related_article1:
-    id: 164563
-    title: How does the transition from controlled to automatic processes occur?
+    id: 164553
+    title: >-
+        What is the significance of competition and integration between neural networks in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
 related_article2:
-    id: 164543
-    title: What are the key differences between spatial attention and object-based attention?
+    id: 164550
+    title: >-
+        What are the main components of executive function, and how do they contribute to cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 related_article3:
-    id: 164557
-    title: What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+    id: 164553
+    title: >-
+        What is the significance of competition and integration between neural networks in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
 related_article4:
-    id: 164549
-    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    id: 164547
+    title: >-
+        What are the characteristics and causes of amnesia and environmental dependency syndrome?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
 related_article5:
-    id: 164555
-    title: What is the relationship between cognitive load and task switching?
+    id: 164552
+    title: >-
+        How do automatic and controlled processes differ in neural networks?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
+    url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
 ---
 
 &nbsp;

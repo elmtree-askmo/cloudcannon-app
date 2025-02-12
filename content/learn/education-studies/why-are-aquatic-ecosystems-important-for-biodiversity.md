@@ -2,8 +2,10 @@
 _schema: default
 id: 166171
 date: 2025-01-29
-title: Why are aquatic ecosystems important for biodiversity?
-article_title: Why are aquatic ecosystems important for biodiversity?
+title: >-
+    Why are aquatic ecosystems important for biodiversity?
+article_title: >-
+    Why are aquatic ecosystems important for biodiversity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: why-are-aquatic-ecosystems-important-for-biodiversity.md
 url: /learn/education-studies/questions/why-are-aquatic-ecosystems-important-for-biodiversity
 score: -1.0
 related_article1:
-    id: 166164
-    title: What are the key areas of study in environmental science?
+    id: 166155
+    title: >-
+        What is inductive reasoning and how is it applied in hypothesis creation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
+    url: /learn/education-studies/questions/what-is-inductive-reasoning-and-how-is-it-applied-in-hypothesis-creation
 related_article2:
+    id: 166170
+    title: >-
+        What are the impacts of climate change on ecosystems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-impacts-of-climate-change-on-ecosystems
+related_article3:
     id: 166165
-    title: What are the advantages of using observational studies in environmental science?
+    title: >-
+        What are the advantages of using observational studies in environmental science?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-advantages-of-using-observational-studies-in-environmental-science
-related_article3:
-    id: 166173
-    title: How do scientific theories differ from scientific laws?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-scientific-theories-differ-from-scientific-laws
 related_article4:
-    id: 166158
-    title: Why is replication important in experimental design?
+    id: 166160
+    title: >-
+        How do independent and dependent variables establish cause and effect in experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-replication-important-in-experimental-design
+    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-establish-cause-and-effect-in-experiments
 related_article5:
     id: 166168
-    title: What are the main types of research methodologies used in scientific inquiry?
+    title: >-
+        What are the main types of research methodologies used in scientific inquiry?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 ---

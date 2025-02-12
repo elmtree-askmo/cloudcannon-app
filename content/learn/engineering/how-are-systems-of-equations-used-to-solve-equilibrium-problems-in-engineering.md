@@ -2,8 +2,10 @@
 _schema: default
 id: 166658
 date: 2025-01-31
-title: How are systems of equations used to solve equilibrium problems in engineering?
-article_title: How are systems of equations used to solve equilibrium problems in engineering?
+title: >-
+    How are systems of equations used to solve equilibrium problems in engineering?
+article_title: >-
+    How are systems of equations used to solve equilibrium problems in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-en
 url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 score: -1.0
 related_article1:
-    id: 166662
-    title: How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
+    id: 166673
+    title: >-
+        How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
 related_article2:
-    id: 166667
-    title: What are the basic concepts of dynamics principles, and how do they relate to motion and forces?
+    id: 166670
+    title: >-
+        What are the fundamental concepts of statics principles, and how do they ensure structural stability?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces
+    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
 related_article3:
-    id: 166652
-    title: How do consulting programs support engineers through networking and community engagement?
+    id: 166654
+    title: >-
+        What resources are typically offered by career services to assist engineering students in securing internships?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
 related_article4:
-    id: 166660
-    title: What is the process of vector addition, and how is it applied in force analysis?
+    id: 166665
+    title: >-
+        What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
+    url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
 related_article5:
-    id: 166663
-    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    id: 166673
+    title: >-
+        How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
 ---
 
 &nbsp;

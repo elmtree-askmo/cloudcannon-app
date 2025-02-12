@@ -2,8 +2,10 @@
 _schema: default
 id: 164392
 date: 2025-01-28
-title: Identify the brain regions involved in speech production.
-article_title: Identify the brain regions involved in speech production.
+title: >-
+    Identify the brain regions involved in speech production.
+article_title: >-
+    Identify the brain regions involved in speech production.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-the-brain-regions-involved-in-speech-production.md
 url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
 score: -1.0
 related_article1:
-    id: 164399
-    title: What is the role of cognitive psychology in language comprehension?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
-related_article2:
-    id: 164401
-    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
-related_article3:
     id: 164394
-    title: What cognitive functions are associated with auditory processing?
+    title: >-
+        What cognitive functions are associated with auditory processing?
     subject: Psychology
     url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
+related_article2:
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+related_article3:
+    id: 164404
+    title: >-
+        What are the neural models of music processing, and how do they relate to cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
 related_article4:
-    id: 164401
-    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    id: 164394
+    title: >-
+        What cognitive functions are associated with auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 related_article5:
-    id: 164405
-    title: How do cognitive functions in music relate to language processing?
+    id: 164382
+    title: >-
+        Explain the specialization of brain hemispheres in language processing.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cognitive-functions-in-music-relate-to-language-processing
+    url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
 ---
 
 &nbsp;

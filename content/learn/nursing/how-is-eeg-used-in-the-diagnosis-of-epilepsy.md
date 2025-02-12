@@ -2,8 +2,10 @@
 _schema: default
 id: 164736
 date: 2025-01-28
-title: How is EEG used in the diagnosis of epilepsy?
-article_title: How is EEG used in the diagnosis of epilepsy?
+title: >-
+    How is EEG used in the diagnosis of epilepsy?
+article_title: >-
+    How is EEG used in the diagnosis of epilepsy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-eeg-used-in-the-diagnosis-of-epilepsy.md
 url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
 score: -1.0
 related_article1:
-    id: 164739
-    title: What are the main types of seizures associated with epilepsy?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
-related_article2:
-    id: 164750
-    title: Explain the importance of understanding neuroanatomy in clinical applications.
-    subject: Nursing
-    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
-related_article3:
     id: 164742
-    title: Identify the major brain regions and their primary functions.
+    title: >-
+        Identify the major brain regions and their primary functions.
     subject: Nursing
     url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
+related_article2:
+    id: 164734
+    title: >-
+        What are Broadman's areas and how do they correlate with brain functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
+related_article3:
+    id: 164741
+    title: >-
+        What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
 related_article4:
-    id: 164752
-    title: What is the role of white matter tracts in brain connectivity?
+    id: 164739
+    title: >-
+        What are the main types of seizures associated with epilepsy?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
 related_article5:
-    id: 164745
-    title: What are the different types of neurons and their roles in neural architecture?
+    id: 164750
+    title: >-
+        Explain the importance of understanding neuroanatomy in clinical applications.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
 ---
 
 &nbsp;

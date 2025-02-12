@@ -2,8 +2,10 @@
 _schema: default
 id: 165802
 date: 2025-01-29
-title: How is the ARP table managed on networking devices, and what commands are used to display it on Cisco routers and Windows PCs?
-article_title: How is the ARP table managed on networking devices, and what commands are used to display it on Cisco routers and Windows PCs?
+title: >-
+    How is the ARP table managed on networking devices, and what commands are used to display it on Cisco routers and Windows PCs?
+article_title: >-
+    How is the ARP table managed on networking devices, and what commands are used to display it on Cisco routers and Windows PCs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-arp-table-managed-on-networking-devices-and-what-commands-
 url: /learn/computer-science/questions/how-is-the-arp-table-managed-on-networking-devices-and-what-commands-are-used-to-display-it-on-cisco-routers-and-windows-pcs
 score: -1.0
 related_article1:
-    id: 165797
-    title: How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-host-determine-whether-to-send-a-packet-to-a-local-or-remote-host-and-what-role-does-the-default-gateway-play-in-this-process
-related_article2:
-    id: 165800
-    title: How do MAC and IP addresses work together to facilitate communication within and between networks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mac-and-ip-addresses-work-together-to-facilitate-communication-within-and-between-networks
-related_article3:
     id: 165795
-    title: How does IPv6 address space expansion improve network scalability compared to IPv4?
+    title: >-
+        How does IPv6 address space expansion improve network scalability compared to IPv4?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-ipv6-address-space-expansion-improve-network-scalability-compared-to-ipv4
+related_article2:
+    id: 165801
+    title: >-
+        What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-arp-in-a-network-and-how-does-it-resolve-ipv4-addresses-to-mac-addresses
+related_article3:
+    id: 165796
+    title: >-
+        What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-significant-fields-in-the-ipv6-packet-header-and-how-do-they-contribute-to-efficient-packet-handling
 related_article4:
     id: 165796
-    title: What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
+    title: >-
+        What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-significant-fields-in-the-ipv6-packet-header-and-how-do-they-contribute-to-efficient-packet-handling
 related_article5:
-    id: 165789
-    title: What are the basic operations of the network layer, and how do they contribute to data transmission?
+    id: 165793
+    title: >-
+        Describe the key fields in the IPv4 packet header and their functions.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-network-layer-and-how-do-they-contribute-to-data-transmission
+    url: /learn/computer-science/questions/describe-the-key-fields-in-the-ipv4-packet-header-and-their-functions
 ---
 
 &nbsp;

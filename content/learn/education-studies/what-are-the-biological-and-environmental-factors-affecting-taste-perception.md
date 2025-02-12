@@ -2,8 +2,10 @@
 _schema: default
 id: 165120
 date: 2025-01-28
-title: What are the biological and environmental factors affecting taste perception?
-article_title: What are the biological and environmental factors affecting taste perception?
+title: >-
+    What are the biological and environmental factors affecting taste perception?
+article_title: >-
+    What are the biological and environmental factors affecting taste perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-biological-and-environmenta
 score: -1.0
 related_article1:
     id: 165101
-    title: Explain the difference between interval and ratio measurement types with examples.
+    title: >-
+        Explain the difference between interval and ratio measurement types with examples.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
 related_article2:
-    id: 165113
-    title: What is observer bias and how can it be reduced in research?
+    id: 165099
+    title: >-
+        What are the characteristics of nominal measurement types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
 related_article3:
-    id: 165110
-    title: Explain the process of hypothesis testing in inferential statistics.
+    id: 165115
+    title: >-
+        How can validity be ensured in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-process-of-hypothesis-testing-in-inferential-statistics
+    url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-studies
 related_article4:
-    id: 165119
-    title: How does color perception influence consumer behavior in marketing?
+    id: 165111
+    title: >-
+        What is the difference between continuous and categorical variables?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-color-perception-influence-consumer-behavior-in-marketing
+    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 related_article5:
-    id: 165116
-    title: What are some common pitfalls in reporting experimental outcomes?
+    id: 165100
+    title: >-
+        Provide examples of ordinal measurement types and their characteristics.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-pitfalls-in-reporting-experimental-outcomes
+    url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167286
 date: 2025-01-31
-title: What are isotopes and how do they affect the atomic mass of an element?
-article_title: What are isotopes and how do they affect the atomic mass of an element?
+title: >-
+    What are isotopes and how do they affect the atomic mass of an element?
+article_title: >-
+    What are isotopes and how do they affect the atomic mass of an element?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-ato
 score: -1.0
 related_article1:
     id: 167281
-    title: How do protons, neutrons, and electrons contribute to the structure of an atom?
+    title: >-
+        How do protons, neutrons, and electrons contribute to the structure of an atom?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
 related_article2:
-    id: 167288
-    title: What is electronegativity and how does it influence chemical bonding?
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
 related_article3:
     id: 167294
-    title: How do functional groups affect the properties and reactions of biological molecules?
+    title: >-
+        How do functional groups affect the properties and reactions of biological molecules?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
 related_article4:
-    id: 167288
-    title: What is electronegativity and how does it influence chemical bonding?
+    id: 167283
+    title: >-
+        How do covalent bonds contribute to the formation of molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
-related_article5:
-    id: 167285
-    title: How is atomic mass calculated and why is it important?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
 ---
 
 &nbsp;

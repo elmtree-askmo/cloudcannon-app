@@ -2,8 +2,10 @@
 _schema: default
 id: 165817
 date: 2025-01-29
-title: How do parasites evade the host's immune system?
-article_title: How do parasites evade the host's immune system?
+title: >-
+    How do parasites evade the host's immune system?
+article_title: >-
+    How do parasites evade the host's immune system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-parasites-evade-the-hosts-immune-system.md
 url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
 score: -1.0
 related_article1:
-    id: 165809
-    title: What are the key advancements in genomics that have impacted scientific techniques?
+    id: 165815
+    title: >-
+        Describe the concept of epidemiology in the context of parasite ecology.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
+    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
 related_article2:
-    id: 165811
-    title: What is the importance of DNA sequences in molecular taxonomy?
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
 related_article3:
-    id: 165820
-    title: How do abiotic factors influence the occurrence of diseases?
+    id: 165813
+    title: >-
+        How do parasites acquire nutrients from their hosts?
     subject: Biology
-    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
 related_article4:
-    id: 165818
-    title: Differentiate between endoparasites and ectoparasites.
-    subject: Biology
-    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
-related_article5:
     id: 165827
-    title: What survival strategies do parasites employ to ensure their persistence?
+    title: >-
+        What survival strategies do parasites employ to ensure their persistence?
     subject: Biology
     url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
+related_article5:
+    id: 165813
+    title: >-
+        How do parasites acquire nutrients from their hosts?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
 ---
 
 &nbsp;

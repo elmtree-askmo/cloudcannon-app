@@ -2,8 +2,10 @@
 _schema: default
 id: 167325
 date: 2025-01-31
-title: How does a dehydration reaction contribute to the formation of nucleic acids?
-article_title: How does a dehydration reaction contribute to the formation of nucleic acids?
+title: >-
+    How does a dehydration reaction contribute to the formation of nucleic acids?
+article_title: >-
+    How does a dehydration reaction contribute to the formation of nucleic acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-dehydration-reaction-contribute-to-the-formation-of-nuclei
 url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
 score: -1.0
 related_article1:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
+    id: 167329
+    title: >-
+        Explain the concept of complementary base pairing and its importance in DNA stability.
     subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
 related_article2:
+    id: 167330
+    title: >-
+        What are the key differences between the sugar components of DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
+related_article3:
     id: 167338
-    title: How do polymers form from monomers in biological molecules?
+    title: >-
+        How do polymers form from monomers in biological molecules?
     subject: Biology
     url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
-related_article3:
+related_article4:
+    id: 167338
+    title: >-
+        How do polymers form from monomers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
+related_article5:
     id: 167327
-    title: Describe the primary structure of DNA and RNA and explain how they differ.
+    title: >-
+        Describe the primary structure of DNA and RNA and explain how they differ.
     subject: Biology
     url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
-related_article4:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
-related_article5:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
 ---
 
 &nbsp;

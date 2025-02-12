@@ -2,8 +2,10 @@
 _schema: default
 id: 168679
 date: 2025-02-03
-title: What factors should be considered when determining when to cite a source?
-article_title: What factors should be considered when determining when to cite a source?
+title: >-
+    What factors should be considered when determining when to cite a source?
+article_title: >-
+    What factors should be considered when determining when to cite a source?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-should-be-considered-when-determining-when-to-cite-a-sou
 url: /learn/education-studies/questions/what-factors-should-be-considered-when-determining-when-to-cite-a-source
 score: -1.0
 related_article1:
-    id: 168673
-    title: What are the common causes of plagiarism, and how can it be avoided?
+    id: 168664
+    title: >-
+        Why is APA style particularly important in the social sciences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-common-causes-of-plagiarism-and-how-can-it-be-avoided
+    url: /learn/education-studies/questions/why-is-apa-style-particularly-important-in-the-social-sciences
 related_article2:
-    id: 168668
-    title: How does a references page differ from a bibliography in APA style?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-references-page-differ-from-a-bibliography-in-apa-style
-related_article3:
     id: 168675
-    title: How do citations support arguments in academic writing?
+    title: >-
+        How do citations support arguments in academic writing?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-citations-support-arguments-in-academic-writing
+related_article3:
+    id: 168673
+    title: >-
+        What are the common causes of plagiarism, and how can it be avoided?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-common-causes-of-plagiarism-and-how-can-it-be-avoided
 related_article4:
-    id: 168666
-    title: How do parenthetical citations differ from narrative style citations in APA format?
+    id: 168671
+    title: >-
+        How can standardized presentation enhance the clarity of research documentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-parenthetical-citations-differ-from-narrative-style-citations-in-apa-format
+    url: /learn/education-studies/questions/how-can-standardized-presentation-enhance-the-clarity-of-research-documentation
 related_article5:
-    id: 168669
-    title: What are some common challenges associated with manual referencing, and how can they be addressed?
+    id: 168665
+    title: >-
+        What is the purpose of in-text citations in APA style?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-challenges-associated-with-manual-referencing-and-how-can-they-be-addressed
+    url: /learn/education-studies/questions/what-is-the-purpose-of-intext-citations-in-apa-style
 ---
 
 &nbsp;

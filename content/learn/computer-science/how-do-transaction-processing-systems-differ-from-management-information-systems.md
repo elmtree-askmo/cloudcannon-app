@@ -2,8 +2,10 @@
 _schema: default
 id: 161512
 date: 2025-01-24
-title: How do transaction processing systems differ from management information systems?
-article_title: How do transaction processing systems differ from management information systems?
+title: >-
+    How do transaction processing systems differ from management information systems?
+article_title: >-
+    How do transaction processing systems differ from management information systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-transaction-processing-systems-differ-from-management-informat
 url: /learn/computer-science/questions/how-do-transaction-processing-systems-differ-from-management-information-systems
 score: -1.0
 related_article1:
-    id: 161435
-    title: How does the level of detail impact the usefulness of information, and what factors determine the appropriate level of detail?
+    id: 161707
+    title: >-
+        What are the differences between transaction processing systems, management information systems, and decision support systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-level-of-detail-impact-the-usefulness-of-information-and-what-factors-determine-the-appropriate-level-of-detail
+    url: /learn/computer-science/questions/what-are-the-differences-between-transaction-processing-systems-management-information-systems-and-decision-support-systems
 related_article2:
-    id: 161511
-    title: What are the main components of an information system and how do they interact?
+    id: 161450
+    title: >-
+        What are the main components of an information system, and how do they interact?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article3:
-    id: 161505
-    title: How does data verification ensure data accuracy and what are the methods used?
+    id: 161496
+    title: >-
+        What is the significance of the level of detail in information and what factors can influence it?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-level-of-detail-in-information-and-what-factors-can-influence-it
+related_article4:
+    id: 161494
+    title: >-
+        What factors influence the relevance of information and why is it important?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+related_article5:
+    id: 161668
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
-related_article4:
-    id: 161703
-    title: What are hash totals and control totals, and how do they differ in their uses?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-hash-totals-and-control-totals-and-how-do-they-differ-in-their-uses
-related_article5:
-    id: 161697
-    title: What are the characteristics of online processing, and what are its advantages and disadvantages?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167651
 date: 2025-01-31
-title: What are the main themes of Hesiod's Theogony?
-article_title: What are the main themes of Hesiod's Theogony?
+title: >-
+    What are the main themes of Hesiod's Theogony?
+article_title: >-
+    What are the main themes of Hesiod's Theogony?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-themes-of-hesiods-theogony.md
 url: /learn/education-studies/questions/what-are-the-main-themes-of-hesiods-theogony
 score: -1.0
 related_article1:
-    id: 167655
-    title: How do themes of power and generation manifest in Greek myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
-related_article2:
-    id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
-related_article3:
     id: 167652
-    title: How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
+    title: >-
+        How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-creation-myths
-related_article4:
-    id: 167655
-    title: How do themes of power and generation manifest in Greek myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
-related_article5:
+related_article2:
     id: 167661
-    title: How have Greek myths influenced modern art and literature?
+    title: >-
+        How have Greek myths influenced modern art and literature?
     subject: Education Studies
     url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
+related_article3:
+    id: 167655
+    title: >-
+        How do themes of power and generation manifest in Greek myths?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
+related_article4:
+    id: 167653
+    title: >-
+        Who are the key divine couples in Greek mythology, and what roles do they play?
+    subject: Education Studies
+    url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
+related_article5:
+    id: 167659
+    title: >-
+        What is the role of Prometheus in the creation of humans according to Greek mythology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170517
 date: 2025-02-06
-title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
-article_title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+title: >-
+    In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+article_title: >-
+    In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-does-hormonal-regulation-interact-with-the-nervous-syste
 url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
 score: -1.0
 related_article1:
-    id: 170518
-    title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 related_article2:
     id: 170502
-    title: How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
 related_article3:
-    id: 170504
-    title: What role does acetylcholine play in muscle contraction?
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 related_article4:
-    id: 170513
-    title: Describe the role of smooth muscle in the function of visceral organs.
+    id: 170516
+    title: >-
+        How does the adrenal medulla contribute to the stress response through the release of catecholamines?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
 related_article5:
-    id: 170514
-    title: How does the baroreceptor reflex contribute to blood pressure regulation?
+    id: 170503
+    title: >-
+        Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
 ---
 
 &nbsp;

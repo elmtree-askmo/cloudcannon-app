@@ -2,8 +2,10 @@
 _schema: default
 id: 161943
 date: 2025-01-24
-title: How does the removal of electrons lead to the formation of ions?
-article_title: How does the removal of electrons lead to the formation of ions?
+title: >-
+    How does the removal of electrons lead to the formation of ions?
+article_title: >-
+    How does the removal of electrons lead to the formation of ions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-removal-of-electrons-lead-to-the-formation-of-ions.md
 url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 score: -1.0
 related_article1:
-    id: 162026
-    title: What is the importance of balancing chemical equations in chemical reactions?
+    id: 161986
+    title: >-
+        What is the role of charged particles in the process of ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
 related_article2:
-    id: 162057
-    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    id: 162058
+    title: >-
+        What are the characteristics of liquids that distinguish them from gases and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
 related_article3:
-    id: 161937
-    title: What is a precipitation reaction and how can you identify it?
+    id: 162054
+    title: >-
+        How can you identify a chemical change through the formation of new substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
 related_article4:
-    id: 161994
-    title: How does the reactivity of oxygen influence its chemical properties?
+    id: 162043
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 related_article5:
-    id: 161764
-    title: How does the process of ionization affect the state of a substance?
+    id: 161946
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-ionization-affect-the-state-of-a-substance
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 ---
 
 &nbsp;

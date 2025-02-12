@@ -2,8 +2,10 @@
 _schema: default
 id: 164003
 date: 2025-01-28
-title: How did Thucydides approach the recording of political events?
-article_title: How did Thucydides approach the recording of political events?
+title: >-
+    How did Thucydides approach the recording of political events?
+article_title: >-
+    How did Thucydides approach the recording of political events?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-thucydides-approach-the-recording-of-political-events.md
 url: /learn/art-history-and-literature/questions/how-did-thucydides-approach-the-recording-of-political-events
 score: 9.0
 related_article1:
-    id: 164002
-    title: What is the historical context in which Herodotus wrote his histories?
+    id: 164006
+    title: >-
+        What role did vase painting play in the iconography of Classical Mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
+    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
 related_article2:
-    id: 164007
-    title: What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
+    id: 164009
+    title: >-
+        What is the importance of sacred places in mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-themes-explored-in-homeric-texts-like-the-iliad-and-the-odyssey
+    url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
 related_article3:
-    id: 164001
-    title: How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
+    id: 164008
+    title: >-
+        Why are stone inscriptions significant in Classical Studies?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-ovids-depiction-of-the-golden-age-differ-from-hesiods
+    url: /learn/art-history-and-literature/questions/why-are-stone-inscriptions-significant-in-classical-studies
 related_article4:
-    id: 164011
-    title: What is the structuralist interpretation of mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
-related_article5:
     id: 164001
-    title: How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
+    title: >-
+        How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-ovids-depiction-of-the-golden-age-differ-from-hesiods
+related_article5:
+    id: 164000
+    title: >-
+        What distinguishes the Age of Heroes in Hesiod’s Five Ages of Man?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-distinguishes-the-age-of-heroes-in-hesiods-five-ages-of-man
 ---
 
 &nbsp;

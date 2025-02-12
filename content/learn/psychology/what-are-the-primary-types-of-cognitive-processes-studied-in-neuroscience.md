@@ -2,8 +2,10 @@
 _schema: default
 id: 164243
 date: 2025-01-28
-title: What are the primary types of cognitive processes studied in neuroscience?
-article_title: What are the primary types of cognitive processes studied in neuroscience?
+title: >-
+    What are the primary types of cognitive processes studied in neuroscience?
+article_title: >-
+    What are the primary types of cognitive processes studied in neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-types-of-cognitive-processes-studied-in-neurosci
 url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
 score: -1.0
 related_article1:
-    id: 164237
-    title: What is the function of the motor cortex in the brain?
+    id: 164244
+    title: >-
+        How do brain networks support cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
 related_article2:
-    id: 164233
-    title: What are the key differences between temporal and spatial resolution in fMRI?
+    id: 164244
+    title: >-
+        How do brain networks support cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
+    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
 related_article3:
-    id: 164238
-    title: How do association areas in the brain contribute to cognitive processes?
+    id: 164239
+    title: >-
+        Why are dependent variables crucial in experimental research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
 related_article4:
     id: 164235
-    title: What role does fMRI play in cognitive neuroscience research?
+    title: >-
+        What role does fMRI play in cognitive neuroscience research?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
 related_article5:
-    id: 164244
-    title: How do brain networks support cognitive processes?
+    id: 164242
+    title: >-
+        How do imaging techniques measure neural activity?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
+    url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
 ---
 
 &nbsp;

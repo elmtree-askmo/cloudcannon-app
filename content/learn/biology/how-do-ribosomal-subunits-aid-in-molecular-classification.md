@@ -2,8 +2,10 @@
 _schema: default
 id: 165810
 date: 2025-01-29
-title: How do ribosomal subunits aid in molecular classification?
-article_title: How do ribosomal subunits aid in molecular classification?
+title: >-
+    How do ribosomal subunits aid in molecular classification?
+article_title: >-
+    How do ribosomal subunits aid in molecular classification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: how-do-ribosomal-subunits-aid-in-molecular-classification.md
 url: /learn/biology/questions/how-do-ribosomal-subunits-aid-in-molecular-classification
 score: -1.0
 related_article1:
-    id: 165824
-    title: Compare and contrast macroepidemiology and microepidemiology.
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
     subject: Biology
-    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
 related_article2:
-    id: 165808
-    title: Provide an example of taxonomic classification for a specific organism.
+    id: 165809
+    title: >-
+        What are the key advancements in genomics that have impacted scientific techniques?
     subject: Biology
-    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
 related_article3:
-    id: 165820
-    title: How do abiotic factors influence the occurrence of diseases?
+    id: 165821
+    title: >-
+        Explain the concept of a natural focus of disease.
     subject: Biology
-    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
 related_article4:
+    id: 165816
+    title: >-
+        What are the defense mechanisms employed by hosts against pathogens?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
+related_article5:
     id: 165807
-    title: Describe the taxonomic hierarchy from kingdom to species.
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
     subject: Biology
     url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 ---

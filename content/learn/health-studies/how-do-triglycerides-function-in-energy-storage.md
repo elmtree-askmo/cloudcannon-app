@@ -2,8 +2,10 @@
 _schema: default
 id: 167216
 date: 2025-01-31
-title: How do triglycerides function in energy storage?
-article_title: How do triglycerides function in energy storage?
+title: >-
+    How do triglycerides function in energy storage?
+article_title: >-
+    How do triglycerides function in energy storage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-triglycerides-function-in-energy-storage.md
 url: /learn/health-studies/questions/how-do-triglycerides-function-in-energy-storage
 score: -1.0
 related_article1:
-    id: 167225
-    title: How do the chemical properties of biomolecules impact their function?
+    id: 167229
+    title: >-
+        How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
+    url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
 related_article2:
-    id: 167227
-    title: Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
+    id: 167221
+    title: >-
+        What is the difference between saturated and unsaturated fatty acids in terms of chemical structure?
     subject: Health Studies
-    url: /learn/health-studies/questions/compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
+    url: /learn/health-studies/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-chemical-structure
 related_article3:
-    id: 167222
-    title: How do the physical properties of saturated fatty acids differ from those of unsaturated fatty acids?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-physical-properties-of-saturated-fatty-acids-differ-from-those-of-unsaturated-fatty-acids
-related_article4:
     id: 167226
-    title: What is the importance of active site specificity in enzyme function?
+    title: >-
+        What is the importance of active site specificity in enzyme function?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-importance-of-active-site-specificity-in-enzyme-function
-related_article5:
-    id: 167220
-    title: How do steroids function as signaling molecules in the body?
+related_article4:
+    id: 167225
+    title: >-
+        How do the chemical properties of biomolecules impact their function?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-steroids-function-as-signaling-molecules-in-the-body
+    url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
 ---
 
 &nbsp;

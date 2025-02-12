@@ -2,8 +2,10 @@
 _schema: default
 id: 159851
 date: 2025-01-23
-title: In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
-article_title: In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
+title: >-
+    In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
+article_title: >-
+    In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-the-intersection-of-science-medicine-and-art-influen
 url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
 score: 9.0
 related_article1:
-    id: 159845
-    title: What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
+    id: 159846
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-and-artists-of-the-victorian-radicals-and-how-did-they-respond-to-the-social-and-political-context-of-their-time
+    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
 related_article2:
-    id: 160115
-    title: What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+    id: 159836
+    title: >-
+        How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
 related_article3:
-    id: 159843
-    title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+    id: 159844
+    title: >-
+        How did technological advances influence the depiction of modern life in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
+    url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
 related_article4:
-    id: 160106
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    id: 159848
+    title: >-
+        How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+    url: /learn/art-history-and-literature/questions/how-did-european-colonisation-influence-african-artistic-practices-and-what-were-some-western-perceptions-and-misunderstandings
 related_article5:
-    id: 160113
-    title: In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+    id: 159841
+    title: >-
+        What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
 ---
 
 &nbsp;

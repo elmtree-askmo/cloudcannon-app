@@ -2,8 +2,10 @@
 _schema: default
 id: 169774
 date: 2025-02-05
-title: Identify essential minerals and their functions in the body.
-article_title: Identify essential minerals and their functions in the body.
+title: >-
+    Identify essential minerals and their functions in the body.
+article_title: >-
+    Identify essential minerals and their functions in the body.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-essential-minerals-and-their-functions-in-the-body.md
 url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
 score: -1.0
 related_article1:
-    id: 169779
-    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
 related_article2:
-    id: 169777
-    title: What are the World Health Organization's recommendations regarding sugar and fat intake?
+    id: 169781
+    title: >-
+        What are the causes and consequences of undernutrition, and which populations are most at risk?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-world-health-organizations-recommendations-regarding-sugar-and-fat-intake
+    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 related_article3:
-    id: 169770
-    title: What are the primary functions of proteins in the body, and what are some common sources?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
-related_article4:
-    id: 169773
-    title: What is the role of vitamins in body functions, and what are some common sources?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
-related_article5:
     id: 169768
-    title: What are the key roles of nutrition and hydration in physical and mental health?
+    title: >-
+        What are the key roles of nutrition and hydration in physical and mental health?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
+related_article4:
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
+related_article5:
+    id: 169776
+    title: >-
+        Why is fiber important in the diet, and which food groups are rich in fiber?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
 ---
 
 &nbsp;

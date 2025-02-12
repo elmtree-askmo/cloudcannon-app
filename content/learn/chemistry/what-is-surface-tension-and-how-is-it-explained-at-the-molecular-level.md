@@ -2,8 +2,10 @@
 _schema: default
 id: 167431
 date: 2025-01-31
-title: What is surface tension and how is it explained at the molecular level?
-article_title: What is surface tension and how is it explained at the molecular level?
+title: >-
+    What is surface tension and how is it explained at the molecular level?
+article_title: >-
+    What is surface tension and how is it explained at the molecular level?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-surface-tension-and-how-is-it-explained-at-the-molecular-leve
 url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
 score: -1.0
 related_article1:
+    id: 167428
+    title: >-
+        How does cohesion contribute to natural phenomena such as water transport in plants?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
+related_article2:
     id: 167438
-    title: Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
     subject: Chemistry
     url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
-related_article2:
-    id: 167436
-    title: What is the specific heat of water and how is it measured?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
 related_article3:
-    id: 167440
-    title: Explain the mechanism of evaporative cooling and its role in heat removal.
+    id: 167432
+    title: >-
+        How does the surface tension of water compare to that of other liquids?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
+    url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
 related_article4:
     id: 167424
-    title: How does electronegativity affect the charge distribution in a water molecule?
+    title: >-
+        How does electronegativity affect the charge distribution in a water molecule?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
 related_article5:
-    id: 167427
-    title: Define cohesion and describe its mechanism in water.
+    id: 167435
+    title: >-
+        Discuss the biological importance of water as a solvent, particularly in kidney function.
     subject: Chemistry
-    url: /learn/chemistry/questions/define-cohesion-and-describe-its-mechanism-in-water
+    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
 ---
 
 &nbsp;

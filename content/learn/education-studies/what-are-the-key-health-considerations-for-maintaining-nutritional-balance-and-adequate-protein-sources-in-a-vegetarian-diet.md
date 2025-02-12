@@ -2,8 +2,10 @@
 _schema: default
 id: 162571
 date: 2025-01-25
-title: What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
-article_title: What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
+title: >-
+    What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
+article_title: >-
+    What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-health-considerations-for-maintaining-nutritional-ba
 url: /learn/education-studies/questions/what-are-the-key-health-considerations-for-maintaining-nutritional-balance-and-adequate-protein-sources-in-a-vegetarian-diet
 score: -1.0
 related_article1:
-    id: 162556
-    title: Why is understanding the author's purpose important when analyzing a text?
+    id: 162567
+    title: >-
+        How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-understanding-the-authors-purpose-important-when-analyzing-a-text
+    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-relate-to-its-environmental-impact-and-sustainable-eating-practices
 related_article2:
-    id: 162568
-    title: What are the health benefits associated with a plant-based diet, particularly in terms of nutrient density and disease prevention?
+    id: 162259
+    title: >-
+        How can you evaluate the credibility and relevance of evidence presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-health-benefits-associated-with-a-plantbased-diet-particularly-in-terms-of-nutrient-density-and-disease-prevention
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
 related_article3:
-    id: 162263
-    title: How can you evaluate the trustworthiness of information and the author's intentions in a text?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-evaluate-the-trustworthiness-of-information-and-the-authors-intentions-in-a-text
-related_article4:
-    id: 162556
-    title: Why is understanding the author's purpose important when analyzing a text?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-understanding-the-authors-purpose-important-when-analyzing-a-text
-related_article5:
     id: 162257
-    title: How does word choice, including loaded language, impact the point of view presented in a text?
+    title: >-
+        How does word choice, including loaded language, impact the point of view presented in a text?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
+related_article4:
+    id: 162257
+    title: >-
+        How does word choice, including loaded language, impact the point of view presented in a text?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
+related_article5:
+    id: 162562
+    title: >-
+        What are the characteristics of cause-and-effect and compare-and-contrast text structures?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
 ---
 
 &nbsp;

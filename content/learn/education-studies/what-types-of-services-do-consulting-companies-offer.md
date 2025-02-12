@@ -2,8 +2,10 @@
 _schema: default
 id: 166712
 date: 2025-01-31
-title: What types of services do consulting companies offer?
-article_title: What types of services do consulting companies offer?
+title: >-
+    What types of services do consulting companies offer?
+article_title: >-
+    What types of services do consulting companies offer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-types-of-services-do-consulting-companies-offer.md
 url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
 score: -1.0
 related_article1:
-    id: 166709
-    title: How can engineering certifications impact a professional's career?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
-related_article2:
-    id: 166708
-    title: What are the requirements for obtaining a certification for consulting in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
-related_article3:
-    id: 166695
-    title: How are position vectors used in 3D vector analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
-related_article4:
     id: 166711
-    title: How do engineering scholarships provide financial support to students?
+    title: >-
+        How do engineering scholarships provide financial support to students?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-engineering-scholarships-provide-financial-support-to-students
+related_article2:
+    id: 166702
+    title: >-
+        How does torque relate to the moment of force?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
+related_article3:
+    id: 166704
+    title: >-
+        What are the equilibrium conditions in statics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-equilibrium-conditions-in-statics
+related_article4:
+    id: 166721
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+related_article5:
+    id: 166697
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
 ---
 
 &nbsp;

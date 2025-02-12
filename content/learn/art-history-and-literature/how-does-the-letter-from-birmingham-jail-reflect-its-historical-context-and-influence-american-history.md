@@ -2,8 +2,10 @@
 _schema: default
 id: 168568
 date: 2025-02-03
-title: How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
-article_title: How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+title: >-
+    How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+article_title: >-
+    How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmin
 score: 9.5
 related_article1:
     id: 168569
-    title: In what ways is the theme of freedom represented in seminal documents?
+    title: >-
+        In what ways is the theme of freedom represented in seminal documents?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-is-the-theme-of-freedom-represented-in-seminal-documents
 related_article2:
-    id: 168566
-    title: How have seminal documents influenced American culture?
+    id: 168575
+    title: >-
+        What is the role of logical appeals (logos) in the argumentation of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
 related_article3:
+    id: 168569
+    title: >-
+        In what ways is the theme of freedom represented in seminal documents?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-the-theme-of-freedom-represented-in-seminal-documents
+related_article4:
+    id: 168581
+    title: >-
+        What role have seminal documents played in shaping civil rights movements?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-have-seminal-documents-played-in-shaping-civil-rights-movements
+related_article5:
     id: 168574
-    title: How do allusions in historical texts enhance meaning and context?
+    title: >-
+        How do allusions in historical texts enhance meaning and context?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
-related_article4:
-    id: 168582
-    title: How are American ideals represented in seminal texts, and how have they evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
-related_article5:
-    id: 168565
-    title: What are the key characteristics that define a seminal document?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
 ---
 
 &nbsp;

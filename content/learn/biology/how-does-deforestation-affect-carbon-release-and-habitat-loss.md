@@ -2,8 +2,10 @@
 _schema: default
 id: 170303
 date: 2025-02-06
-title: How does deforestation affect carbon release and habitat loss?
-article_title: How does deforestation affect carbon release and habitat loss?
+title: >-
+    How does deforestation affect carbon release and habitat loss?
+article_title: >-
+    How does deforestation affect carbon release and habitat loss?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-deforestation-affect-carbon-release-and-habitat-loss.md
 url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
 score: -1.0
 related_article1:
-    id: 170299
-    title: How do natural and human-derived sources contribute to the global carbon cycle?
+    id: 170296
+    title: >-
+        What are the three main stages of cellular respiration?
     subject: Biology
-    url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
+    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
 related_article2:
-    id: 170298
-    title: What are the two main stages of photosynthesis, and where do they occur?
+    id: 170294
+    title: >-
+        What are the main carbon spheres involved in the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+    url: /learn/biology/questions/what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle
 related_article3:
-    id: 170302
-    title: What is the impact of fossil fuel emissions on climate change?
+    id: 170297
+    title: >-
+        Where in the cell does the Krebs cycle occur, and what is its primary function?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
 related_article4:
-    id: 170299
-    title: How do natural and human-derived sources contribute to the global carbon cycle?
+    id: 170304
+    title: >-
+        Why are carbon cycle models important for understanding and predicting environmental changes?
     subject: Biology
-    url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
 related_article5:
-    id: 170302
-    title: What is the impact of fossil fuel emissions on climate change?
+    id: 170301
+    title: >-
+        How do producers and consumers contribute to energy flow in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
+    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
 ---
 
 &nbsp;

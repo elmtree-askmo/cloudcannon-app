@@ -2,8 +2,10 @@
 _schema: default
 id: 163607
 date: 2025-01-27
-title: What themes and motifs are prevalent in Spartan literature and poetry?
-article_title: What themes and motifs are prevalent in Spartan literature and poetry?
+title: >-
+    What themes and motifs are prevalent in Spartan literature and poetry?
+article_title: >-
+    What themes and motifs are prevalent in Spartan literature and poetry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
 url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
 score: 9.0
 related_article1:
-    id: 163595
-    title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
+    id: 163590
+    title: >-
+        What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
+    url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
 related_article2:
-    id: 163592
-    title: What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
+    id: 163601
+    title: >-
+        What challenges are faced in interpreting archaeological evidence from Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influence-their-reputation-in-the-greek-world
+    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
 related_article3:
-    id: 163591
-    title: How did Sparta's urban development compare to that of Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
-related_article4:
     id: 163598
-    title: What was the significance of Spartan military training in Greek warfare?
+    title: >-
+        What was the significance of Spartan military training in Greek warfare?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
-related_article5:
-    id: 163589
-    title: How did non-Spartan authors contribute to the skewed perception of Sparta?
+related_article4:
+    id: 163587
+    title: >-
+        Why are certain Greek terms left untranslated in English scholarship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
+    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
+related_article5:
+    id: 163597
+    title: >-
+        Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
 ---
 
 &nbsp;

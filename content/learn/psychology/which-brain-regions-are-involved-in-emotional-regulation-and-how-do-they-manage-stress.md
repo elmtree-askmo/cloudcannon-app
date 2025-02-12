@@ -2,8 +2,10 @@
 _schema: default
 id: 164426
 date: 2025-01-28
-title: Which brain regions are involved in emotional regulation, and how do they manage stress?
-article_title: Which brain regions are involved in emotional regulation, and how do they manage stress?
+title: >-
+    Which brain regions are involved in emotional regulation, and how do they manage stress?
+article_title: >-
+    Which brain regions are involved in emotional regulation, and how do they manage stress?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: which-brain-regions-are-involved-in-emotional-regulation-and-how-do-t
 url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
 score: -1.0
 related_article1:
-    id: 164431
-    title: Why is early language exposure important for vocabulary and grammar development?
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
 related_article2:
-    id: 164424
-    title: What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 related_article3:
-    id: 164421
-    title: How do cultural differences impact mental health diagnosis and treatment?
+    id: 164427
+    title: >-
+        What is prediction error in reward processing, and how does it relate to dopamine release?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
 related_article4:
-    id: 164427
-    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 related_article5:
-    id: 164427
-    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 ---
 
 &nbsp;

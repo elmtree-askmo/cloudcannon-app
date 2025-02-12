@@ -2,8 +2,10 @@
 _schema: default
 id: 161017
 date: 2025-01-24
-title: Explain the concept of lists and how they are implemented as arrays.
-article_title: Explain the concept of lists and how they are implemented as arrays.
+title: >-
+    Explain the concept of lists and how they are implemented as arrays.
+article_title: >-
+    Explain the concept of lists and how they are implemented as arrays.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays.m
 url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
 score: -1.0
 related_article1:
-    id: 160797
-    title: How do day of the week calculation algorithms utilize reference dates?
+    id: 160863
+    title: >-
+        How does representation influence algorithm complexity?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
+    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
 related_article2:
+    id: 160869
+    title: >-
+        How do Turing machines contribute to the theoretical foundations of computability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
+related_article3:
+    id: 160698
+    title: >-
+        What is the role of abstraction in computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-abstraction-in-computing
+related_article4:
+    id: 160720
+    title: >-
+        What data is required for generating a circular calendar?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar
+related_article5:
     id: 160874
-    title: How do constraints impact algorithm design and simplify algorithms?
+    title: >-
+        How do constraints impact algorithm design and simplify algorithms?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design-and-simplify-algorithms
-related_article3:
-    id: 160867
-    title: Define time complexity and its importance in evaluating algorithm efficiency.
-    subject: Computer Science
-    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
-related_article4:
-    id: 160782
-    title: Define time complexity and its importance in evaluating algorithm efficiency.
-    subject: Computer Science
-    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
-related_article5:
-    id: 160781
-    title: What are associative arrays and how do they utilize non-numeric indices?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
 ---
 
 &nbsp;

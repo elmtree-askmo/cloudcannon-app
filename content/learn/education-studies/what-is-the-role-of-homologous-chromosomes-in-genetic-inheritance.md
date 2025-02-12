@@ -2,8 +2,10 @@
 _schema: default
 id: 167771
 date: 2025-02-01
-title: What is the role of homologous chromosomes in genetic inheritance?
-article_title: What is the role of homologous chromosomes in genetic inheritance?
+title: >-
+    What is the role of homologous chromosomes in genetic inheritance?
+article_title: >-
+    What is the role of homologous chromosomes in genetic inheritance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-homologous-chromosomes-in-genetic-inheritance.md
 url: /learn/education-studies/questions/what-is-the-role-of-homologous-chromosomes-in-genetic-inheritance
 score: -1.0
 related_article1:
-    id: 167768
-    title: How do Mendel's laws of segregation and independent assortment explain genetic inheritance?
+    id: 167775
+    title: >-
+        Describe Thomas Morgan's contribution to the understanding of X-linked traits.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-mendels-laws-of-segregation-and-independent-assortment-explain-genetic-inheritance
+    url: /learn/education-studies/questions/describe-thomas-morgans-contribution-to-the-understanding-of-xlinked-traits
 related_article2:
-    id: 167774
-    title: What is the product rule in probability, and how is it applied in genetics?
+    id: 167772
+    title: >-
+        Explain the difference between homozygous and heterozygous genotypes.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-product-rule-in-probability-and-how-is-it-applied-in-genetics
+    url: /learn/education-studies/questions/explain-the-difference-between-homozygous-and-heterozygous-genotypes
 related_article3:
-    id: 167781
-    title: What are polygenic traits, and how do they differ from Mendelian traits?
+    id: 167775
+    title: >-
+        Describe Thomas Morgan's contribution to the understanding of X-linked traits.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-polygenic-traits-and-how-do-they-differ-from-mendelian-traits
+    url: /learn/education-studies/questions/describe-thomas-morgans-contribution-to-the-understanding-of-xlinked-traits
 related_article4:
+    id: 167772
+    title: >-
+        Explain the difference between homozygous and heterozygous genotypes.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-difference-between-homozygous-and-heterozygous-genotypes
+related_article5:
     id: 167776
-    title: How does sickle cell disease illustrate the concept of genetic disorders?
+    title: >-
+        How does sickle cell disease illustrate the concept of genetic disorders?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-sickle-cell-disease-illustrate-the-concept-of-genetic-disorders
-related_article5:
-    id: 167769
-    title: What are the differences between phenotypic and genotypic ratios in genetic crosses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-phenotypic-and-genotypic-ratios-in-genetic-crosses
 ---
 
 &nbsp;

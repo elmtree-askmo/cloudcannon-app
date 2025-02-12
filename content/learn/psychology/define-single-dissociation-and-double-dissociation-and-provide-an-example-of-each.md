@@ -2,8 +2,10 @@
 _schema: default
 id: 164859
 date: 2025-01-28
-title: Define single dissociation and double dissociation, and provide an example of each.
-article_title: Define single dissociation and double dissociation, and provide an example of each.
+title: >-
+    Define single dissociation and double dissociation, and provide an example of each.
+article_title: >-
+    Define single dissociation and double dissociation, and provide an example of each.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: define-single-dissociation-and-double-dissociation-and-provide-an-exa
 url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
 score: -1.0
 related_article1:
-    id: 164857
-    title: What is the role of the hippocampus in conscious and unconscious memory?
+    id: 164861
+    title: >-
+        How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
 related_article2:
-    id: 164855
-    title: What are the main distinctions between short-term and long-term memory, and what experimental evidence supports these differences?
+    id: 164860
+    title: >-
+        Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-distinctions-between-shortterm-and-longterm-memory-and-what-experimental-evidence-supports-these-differences
+    url: /learn/psychology/questions/why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations
 related_article3:
-    id: 164861
-    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
+    id: 164860
+    title: >-
+        Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
+    url: /learn/psychology/questions/why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations
 related_article4:
-    id: 164870
-    title: What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    id: 164854
+    title: >-
+        How does brain damage affect conscious and unconscious memory processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
-related_article5:
-    id: 164861
-    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
+    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
 ---
 
 &nbsp;

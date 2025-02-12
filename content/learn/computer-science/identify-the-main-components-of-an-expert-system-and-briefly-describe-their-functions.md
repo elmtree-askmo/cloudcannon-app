@@ -2,8 +2,10 @@
 _schema: default
 id: 161224
 date: 2025-01-24
-title: Identify the main components of an expert system and briefly describe their functions.
-article_title: Identify the main components of an expert system and briefly describe their functions.
+title: >-
+    Identify the main components of an expert system and briefly describe their functions.
+article_title: >-
+    Identify the main components of an expert system and briefly describe their functions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: identify-the-main-components-of-an-expert-system-and-briefly-describe
 url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-functions
 score: -1.0
 related_article1:
-    id: 161400
-    title: What is the role of the inference engine in an expert system, and how does it utilize inference rules?
+    id: 161209
+    title: >-
+        Identify the main components of an expert system and briefly describe their roles.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-inference-engine-in-an-expert-system-and-how-does-it-utilize-inference-rules
+    url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-roles
 related_article2:
-    id: 161221
-    title: What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
-related_article3:
-    id: 161208
-    title: What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
-related_article4:
     id: 161399
-    title: Differentiate between factual knowledge and heuristic knowledge in the context of a knowledge base.
+    title: >-
+        Differentiate between factual knowledge and heuristic knowledge in the context of a knowledge base.
     subject: Computer Science
     url: /learn/computer-science/questions/differentiate-between-factual-knowledge-and-heuristic-knowledge-in-the-context-of-a-knowledge-base
+related_article3:
+    id: 161222
+    title: >-
+        List two advantages of expert systems related to expertise and accuracy.
+    subject: Computer Science
+    url: /learn/computer-science/questions/list-two-advantages-of-expert-systems-related-to-expertise-and-accuracy
+related_article4:
+    id: 161398
+    title: >-
+        Identify the main components of an expert system and briefly describe their roles.
+    subject: Computer Science
+    url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-roles
 related_article5:
     id: 161408
-    title: List and explain two advantages of expert systems related to expertise and accuracy.
+    title: >-
+        List and explain two advantages of expert systems related to expertise and accuracy.
     subject: Computer Science
     url: /learn/computer-science/questions/list-and-explain-two-advantages-of-expert-systems-related-to-expertise-and-accuracy
 ---

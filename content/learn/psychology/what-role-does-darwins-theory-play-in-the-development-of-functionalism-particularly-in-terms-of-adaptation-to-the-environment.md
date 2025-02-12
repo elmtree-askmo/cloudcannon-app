@@ -2,8 +2,10 @@
 _schema: default
 id: 167715
 date: 2025-01-31
-title: What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
-article_title: What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
+title: >-
+    What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
+article_title: >-
+    What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-darwins-theory-play-in-the-development-of-functionalis
 url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
 score: -1.0
 related_article1:
-    id: 167723
-    title: What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
-related_article2:
-    id: 167719
-    title: How does behaviorism explain animal behavior through association and response?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-behaviorism-explain-animal-behavior-through-association-and-response
-related_article3:
-    id: 167719
-    title: How does behaviorism explain animal behavior through association and response?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-behaviorism-explain-animal-behavior-through-association-and-response
-related_article4:
-    id: 167717
-    title: How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-cognitive-capabilities-such-as-language-and-communication-provide-a-selective-advantage-in-evolution
-related_article5:
     id: 167712
-    title: What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+    title: >-
+        What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
+related_article2:
+    id: 167713
+    title: >-
+        How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
+related_article3:
+    id: 167721
+    title: >-
+        Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
+related_article4:
+    id: 167716
+    title: >-
+        Explain the concept of natural selection and how it relates to evolutionary adaptations.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-natural-selection-and-how-it-relates-to-evolutionary-adaptations
+related_article5:
+    id: 167718
+    title: >-
+        What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166096
 date: 2025-01-29
-title: How does Brightspace facilitate course content management and student access to materials?
-article_title: How does Brightspace facilitate course content management and student access to materials?
+title: >-
+    How does Brightspace facilitate course content management and student access to materials?
+article_title: >-
+    How does Brightspace facilitate course content management and student access to materials?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,24 +25,28 @@ url: /learn/education-studies/questions/how-does-brightspace-facilitate-course-c
 score: -1.0
 related_article1:
     id: 166098
-    title: What are the benefits of using electronic textbooks for exam preparation and course integration?
+    title: >-
+        What are the benefits of using electronic textbooks for exam preparation and course integration?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-using-electronic-textbooks-for-exam-preparation-and-course-integration
 related_article2:
-    id: 166101
-    title: Why is lab and lecture integration important for students majoring in natural sciences?
+    id: 166095
+    title: >-
+        What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-lab-and-lecture-integration-important-for-students-majoring-in-natural-sciences
+    url: /learn/education-studies/questions/what-role-do-interactive-learning-tools-play-in-improving-exam-performance-in-inquisitive-learning-technology
 related_article3:
-    id: 166100
-    title: What are the sources and types of contaminants that impact aquatic life and human health?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-life-and-human-health
-related_article4:
     id: 166089
-    title: What are the key strategies for achieving sustainability in environmental science?
+    title: >-
+        What are the key strategies for achieving sustainability in environmental science?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-strategies-for-achieving-sustainability-in-environmental-science
+related_article4:
+    id: 166098
+    title: >-
+        What are the benefits of using electronic textbooks for exam preparation and course integration?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-electronic-textbooks-for-exam-preparation-and-course-integration
 ---
 
 &nbsp;

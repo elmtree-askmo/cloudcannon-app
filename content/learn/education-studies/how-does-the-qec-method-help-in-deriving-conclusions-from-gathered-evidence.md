@@ -2,8 +2,10 @@
 _schema: default
 id: 165445
 date: 2025-01-29
-title: How does the QEC method help in deriving conclusions from gathered evidence?
-article_title: How does the QEC method help in deriving conclusions from gathered evidence?
+title: >-
+    How does the QEC method help in deriving conclusions from gathered evidence?
+article_title: >-
+    How does the QEC method help in deriving conclusions from gathered evidence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-qec-method-help-in-deriving-conclusions-from-gathered-ev
 url: /learn/education-studies/questions/how-does-the-qec-method-help-in-deriving-conclusions-from-gathered-evidence
 score: -1.0
 related_article1:
-    id: 165448
-    title: How do problem sets and calculations define technical classes?
+    id: 165444
+    title: >-
+        What are the key differences in note-taking strategies for technical versus non-technical classes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-problem-sets-and-calculations-define-technical-classes
+    url: /learn/education-studies/questions/what-are-the-key-differences-in-notetaking-strategies-for-technical-versus-nontechnical-classes
 related_article2:
-    id: 165458
-    title: What are effective strategies for reviewing QEC notes to identify key ideas and summarize information?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-strategies-for-reviewing-qec-notes-to-identify-key-ideas-and-summarize-information
-related_article3:
-    id: 165454
-    title: What are the benefits of mind mapping in terms of visualizing connections and enhancing memory retention?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-mind-mapping-in-terms-of-visualizing-connections-and-enhancing-memory-retention
-related_article4:
     id: 165450
-    title: How can understanding steps in PSAs be applied to new problems?
+    title: >-
+        How can understanding steps in PSAs be applied to new problems?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-understanding-steps-in-psas-be-applied-to-new-problems
-related_article5:
-    id: 165449
-    title: What is the process of synthesizing QECs to form a big picture?
+related_article3:
+    id: 165444
+    title: >-
+        What are the key differences in note-taking strategies for technical versus non-technical classes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-synthesizing-qecs-to-form-a-big-picture
+    url: /learn/education-studies/questions/what-are-the-key-differences-in-notetaking-strategies-for-technical-versus-nontechnical-classes
+related_article4:
+    id: 165447
+    title: >-
+        What are the characteristics of non-technical classes that influence note-taking?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nontechnical-classes-that-influence-notetaking
+related_article5:
+    id: 165453
+    title: >-
+        How can symbols and notes be effectively used to annotate evidence in non-technical classes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-symbols-and-notes-be-effectively-used-to-annotate-evidence-in-nontechnical-classes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165007
 date: 2025-01-28
-title: What are the key components of public opinion surveys in political polling?
-article_title: What are the key components of public opinion surveys in political polling?
+title: >-
+    What are the key components of public opinion surveys in political polling?
+article_title: >-
+    What are the key components of public opinion surveys in political polling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-public-opinion-surveys-in-political-po
 url: /learn/education-studies/questions/what-are-the-key-components-of-public-opinion-surveys-in-political-polling
 score: -1.0
 related_article1:
-    id: 164996
-    title: Why is visual layout important in questionnaire design, and how can it affect survey responses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-visual-layout-important-in-questionnaire-design-and-how-can-it-affect-survey-responses
-related_article2:
-    id: 165001
-    title: How can patterns be identified in data interpretation, and why is this important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-patterns-be-identified-in-data-interpretation-and-why-is-this-important
-related_article3:
-    id: 165001
-    title: How can patterns be identified in data interpretation, and why is this important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-patterns-be-identified-in-data-interpretation-and-why-is-this-important
-related_article4:
-    id: 165003
-    title: How does demographic analysis of age and gender contribute to understanding survey results?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-demographic-analysis-of-age-and-gender-contribute-to-understanding-survey-results
-related_article5:
     id: 165000
-    title: Explain the importance of measurement scales in statistical analysis.
+    title: >-
+        Explain the importance of measurement scales in statistical analysis.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-importance-of-measurement-scales-in-statistical-analysis
+related_article2:
+    id: 165005
+    title: >-
+        What are the differences between experimental design and observational studies in research methodology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-differences-between-experimental-design-and-observational-studies-in-research-methodology
+related_article3:
+    id: 164995
+    title: >-
+        What are the best practices for structuring questions in a questionnaire to maintain a logical flow?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-best-practices-for-structuring-questions-in-a-questionnaire-to-maintain-a-logical-flow
+related_article4:
+    id: 164998
+    title: >-
+        How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-of-data-collection-effectiveness
+related_article5:
+    id: 165003
+    title: >-
+        How does demographic analysis of age and gender contribute to understanding survey results?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-demographic-analysis-of-age-and-gender-contribute-to-understanding-survey-results
 ---
 
 &nbsp;

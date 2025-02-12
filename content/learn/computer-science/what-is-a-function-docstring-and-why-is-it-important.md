@@ -2,8 +2,10 @@
 _schema: default
 id: 168600
 date: 2025-02-03
-title: What is a function docstring and why is it important?
-article_title: What is a function docstring and why is it important?
+title: >-
+    What is a function docstring and why is it important?
+article_title: >-
+    What is a function docstring and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-function-docstring-and-why-is-it-important.md
 url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 score: -1.0
 related_article1:
+    id: 168605
+    title: >-
+        How can you import and use a module in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
+related_article2:
     id: 168590
-    title: How do you call a function with parameters in Python?
+    title: >-
+        How do you call a function with parameters in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
-related_article2:
-    id: 168592
-    title: How can you use the math module to calculate the square root of a number?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
 related_article3:
-    id: 168599
-    title: How can you provide default values for function parameters in Python?
+    id: 168608
+    title: >-
+        What is encapsulation in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
+    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 related_article4:
-    id: 168603
-    title: How can custom exceptions be created in Python?
+    id: 168591
+    title: >-
+        Name two common functions available in Python's math module.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
 related_article5:
-    id: 168603
-    title: How can custom exceptions be created in Python?
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 ---
 
 &nbsp;

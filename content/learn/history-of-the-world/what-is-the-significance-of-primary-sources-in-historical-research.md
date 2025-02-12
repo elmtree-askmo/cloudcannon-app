@@ -2,8 +2,10 @@
 _schema: default
 id: 166219
 date: 2025-01-29
-title: What is the significance of primary sources in historical research?
-article_title: What is the significance of primary sources in historical research?
+title: >-
+    What is the significance of primary sources in historical research?
+article_title: >-
+    What is the significance of primary sources in historical research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-primary-sources-in-historical-research.md
 url: /learn/history-of-the-world/questions/what-is-the-significance-of-primary-sources-in-historical-research
 score: 9.0
 related_article1:
-    id: 166226
-    title: How can stress management techniques improve mental health?
+    id: 166236
+    title: >-
+        How do natural disasters like earthquakes and hurricanes affect human societies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
+    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
 related_article2:
-    id: 166223
-    title: What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article3:
-    id: 166214
-    title: How has classical Arabic literature influenced modern Arabic literature?
+    id: 166233
+    title: >-
+        How has historiography evolved from ancient to modern times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-classical-arabic-literature-influenced-modern-arabic-literature
+    url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
 related_article4:
-    id: 166239
-    title: What are the challenges associated with the preservation and access of historical documents?
+    id: 166224
+    title: >-
+        How does sustainable development integrate economic considerations into environmental sustainability?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-challenges-associated-with-the-preservation-and-access-of-historical-documents
+    url: /learn/history-of-the-world/questions/how-does-sustainable-development-integrate-economic-considerations-into-environmental-sustainability
 related_article5:
-    id: 166241
-    title: What are the key developments in prehistory that led to the transition to recorded history?
+    id: 166231
+    title: >-
+        What were the key technological innovations in ancient civilizations, and how did they impact their development?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
+    url: /learn/history-of-the-world/questions/what-were-the-key-technological-innovations-in-ancient-civilizations-and-how-did-they-impact-their-development
 ---
 
 &nbsp;

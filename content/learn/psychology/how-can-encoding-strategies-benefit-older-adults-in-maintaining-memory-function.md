@@ -2,8 +2,10 @@
 _schema: default
 id: 168034
 date: 2025-02-02
-title: How can encoding strategies benefit older adults in maintaining memory function?
-article_title: How can encoding strategies benefit older adults in maintaining memory function?
+title: >-
+    How can encoding strategies benefit older adults in maintaining memory function?
+article_title: >-
+    How can encoding strategies benefit older adults in maintaining memory function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-encoding-strategies-benefit-older-adults-in-maintaining-memor
 url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
 score: -1.0
 related_article1:
-    id: 168047
-    title: What strategies can improve memory retrieval processes in older adults?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
-related_article2:
-    id: 168049
-    title: What are the characteristics of implicit memory that contribute to its automaticity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-implicit-memory-that-contribute-to-its-automaticity
-related_article3:
-    id: 168033
-    title: What are the key factors contributing to the decline of recent long-term memory in older adults?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
-related_article4:
     id: 168039
-    title: What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+    title: >-
+        What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
-related_article5:
+related_article2:
     id: 168041
-    title: How does emotional intensity contribute to the vividness of self-defining memories?
+    title: >-
+        How does emotional intensity contribute to the vividness of self-defining memories?
     subject: Psychology
     url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
+related_article3:
+    id: 168045
+    title: >-
+        What role does practice play in the stability of procedural memory with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
+related_article4:
+    id: 168042
+    title: >-
+        What age differences exist in the vividness and positivity of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-differences-exist-in-the-vividness-and-positivity-of-selfdefining-memories
+related_article5:
+    id: 168046
+    title: >-
+        How does automatic retrieval in procedural memory differ from declarative memory retrieval?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
 ---
 
 &nbsp;

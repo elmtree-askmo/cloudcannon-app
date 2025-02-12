@@ -2,8 +2,10 @@
 _schema: default
 id: 170346
 date: 2025-02-06
-title: What is cellular respiration, and why is it important for organisms?
-article_title: What is cellular respiration, and why is it important for organisms?
+title: >-
+    What is cellular respiration, and why is it important for organisms?
+article_title: >-
+    What is cellular respiration, and why is it important for organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-cellular-respiration-and-why-is-it-important-for-organisms.md
 url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
 score: -1.0
 related_article1:
-    id: 170349
-    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    id: 170347
+    title: >-
+        Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
     subject: Biology
-    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
 related_article2:
+    id: 170356
+    title: >-
+        Describe the chemical reactions involved in photosynthesis and cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
+related_article3:
     id: 170353
-    title: What is radiant energy, and how is it converted during photosynthesis?
+    title: >-
+        What is radiant energy, and how is it converted during photosynthesis?
     subject: Biology
     url: /learn/biology/questions/what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis
-related_article3:
-    id: 170347
-    title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
-    subject: Biology
-    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
 related_article4:
-    id: 170347
-    title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
-    subject: Biology
-    url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
-related_article5:
     id: 170344
-    title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    title: >-
+        What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
+related_article5:
+    id: 170357
+    title: >-
+        How does the principle of matter conservation apply to biological processes and ecosystem stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
 ---
 
 &nbsp;

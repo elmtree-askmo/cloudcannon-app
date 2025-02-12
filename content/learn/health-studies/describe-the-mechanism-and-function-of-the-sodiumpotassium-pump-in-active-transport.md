@@ -2,8 +2,10 @@
 _schema: default
 id: 168958
 date: 2025-02-04
-title: Describe the mechanism and function of the sodium-potassium pump in active transport.
-article_title: Describe the mechanism and function of the sodium-potassium pump in active transport.
+title: >-
+    Describe the mechanism and function of the sodium-potassium pump in active transport.
+article_title: >-
+    Describe the mechanism and function of the sodium-potassium pump in active transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-ac
 url: /learn/health-studies/questions/describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-active-transport
 score: -1.0
 related_article1:
-    id: 168955
-    title: Define simple diffusion and provide examples of substances that move across membranes via this process.
+    id: 168949
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
     subject: Health Studies
-    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
+    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
 related_article2:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
+    id: 168949
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
+    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
 related_article3:
-    id: 168955
-    title: Define simple diffusion and provide examples of substances that move across membranes via this process.
-    subject: Health Studies
-    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
-related_article4:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
-related_article5:
     id: 168957
-    title: What are ion channels, and how do they utilize electric chemical gradients to function?
+    title: >-
+        What are ion channels, and how do they utilize electric chemical gradients to function?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-ion-channels-and-how-do-they-utilize-electric-chemical-gradients-to-function
+related_article4:
+    id: 168949
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
+related_article5:
+    id: 168945
+    title: >-
+        How do polar and non-polar groups affect the solubility and interaction of biomolecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
 ---
 
 &nbsp;

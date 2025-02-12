@@ -2,8 +2,10 @@
 _schema: default
 id: 164582
 date: 2025-01-28
-title: How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
-article_title: How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
+title: >-
+    How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
+article_title: >-
+    How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-pro
 score: -1.0
 related_article1:
     id: 164585
-    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
+    title: >-
+        How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
     subject: Psychology
     url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
 related_article2:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article3:
+    id: 164574
+    title: >-
+        Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
+related_article4:
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
+related_article5:
     id: 164580
-    title: What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    title: >-
+        What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
-related_article3:
-    id: 164571
-    title: How does the right hemisphere contribute to melodic recognition and global processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
-related_article4:
-    id: 164585
-    title: How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
-related_article5:
-    id: 164576
-    title: How is reaction time used to measure cognitive processing in neurologically intact individuals?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
 ---
 
 &nbsp;

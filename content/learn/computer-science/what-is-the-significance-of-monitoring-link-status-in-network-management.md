@@ -2,8 +2,10 @@
 _schema: default
 id: 165684
 date: 2025-01-29
-title: What is the significance of monitoring link status in network management?
-article_title: What is the significance of monitoring link status in network management?
+title: >-
+    What is the significance of monitoring link status in network management?
+article_title: >-
+    What is the significance of monitoring link status in network management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-monitoring-link-status-in-network-managem
 url: /learn/computer-science/questions/what-is-the-significance-of-monitoring-link-status-in-network-management
 score: -1.0
 related_article1:
-    id: 165672
-    title: What command is used to display a legal notification message on a router?
+    id: 165669
+    title: >-
+        How can you secure privileged EXEC mode on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-command-is-used-to-display-a-legal-notification-message-on-a-router
+    url: /learn/computer-science/questions/how-can-you-secure-privileged-exec-mode-on-a-router
 related_article2:
-    id: 165681
-    title: How can you verify the routing table on a router?
+    id: 165675
+    title: >-
+        How do you assign an IPv4 address to a router interface?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-verify-the-routing-table-on-a-router
+    url: /learn/computer-science/questions/how-do-you-assign-an-ipv4-address-to-a-router-interface
 related_article3:
-    id: 165677
-    title: Which command is used to set the hostname of a router?
+    id: 165676
+    title: >-
+        What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
     subject: Computer Science
-    url: /learn/computer-science/questions/which-command-is-used-to-set-the-hostname-of-a-router
+    url: /learn/computer-science/questions/what-is-the-difference-between-an-ipv4-subnet-mask-and-an-ipv6-prefix-length
 related_article4:
-    id: 165673
-    title: Which command saves the current configuration on a router?
+    id: 165670
+    title: >-
+        What is the purpose of configuring SSH access on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/which-command-saves-the-current-configuration-on-a-router
+    url: /learn/computer-science/questions/what-is-the-purpose-of-configuring-ssh-access-on-a-router
 related_article5:
-    id: 165683
-    title: How do you save the running configuration to the startup configuration on a router?
+    id: 165668
+    title: >-
+        What command is used to configure the device name on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-save-the-running-configuration-to-the-startup-configuration-on-a-router
+    url: /learn/computer-science/questions/what-command-is-used-to-configure-the-device-name-on-a-router
 ---
 
 &nbsp;

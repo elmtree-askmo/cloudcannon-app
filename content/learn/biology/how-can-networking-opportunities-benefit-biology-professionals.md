@@ -2,8 +2,10 @@
 _schema: default
 id: 167492
 date: 2025-01-31
-title: How can networking opportunities benefit biology professionals?
-article_title: How can networking opportunities benefit biology professionals?
+title: >-
+    How can networking opportunities benefit biology professionals?
+article_title: >-
+    How can networking opportunities benefit biology professionals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-networking-opportunities-benefit-biology-professionals.md
 url: /learn/biology/questions/how-can-networking-opportunities-benefit-biology-professionals
 score: -1.0
 related_article1:
-    id: 167489
-    title: What are the primary learning goals of this course?
+    id: 167475
+    title: >-
+        What is the structure of pre-class assignments on the Codon Learning Platform?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
 related_article2:
-    id: 167476
-    title: How do practice exams on the Codon Learning Platform help students prepare for exams?
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
     subject: Biology
-    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
 related_article3:
-    id: 167478
-    title: What are the subscription options available for iClicker technology?
+    id: 167490
+    title: >-
+        How are students assessed through exams and quizzes in this course?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+    url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
 related_article4:
-    id: 167493
-    title: What educational technologies are used in biology to enhance learning?
+    id: 167488
+    title: >-
+        What are some challenges in STEM education and their potential solutions?
     subject: Biology
-    url: /learn/biology/questions/what-educational-technologies-are-used-in-biology-to-enhance-learning
+    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
 related_article5:
-    id: 167471
-    title: What career opportunities are available in sports medicine?
+    id: 167468
+    title: >-
+        How does biology apply to everyday life?
     subject: Biology
-    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
 ---
 
 &nbsp;

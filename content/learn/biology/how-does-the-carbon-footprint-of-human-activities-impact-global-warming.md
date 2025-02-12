@@ -2,8 +2,10 @@
 _schema: default
 id: 170426
 date: 2025-02-06
-title: How does the carbon footprint of human activities impact global warming?
-article_title: How does the carbon footprint of human activities impact global warming?
+title: >-
+    How does the carbon footprint of human activities impact global warming?
+article_title: >-
+    How does the carbon footprint of human activities impact global warming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-carbon-footprint-of-human-activities-impact-global-warmi
 url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
 score: -1.0
 related_article1:
-    id: 170424
-    title: What are carbon sinks, and how do they function within the carbon cycle?
-    subject: Biology
-    url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
-related_article2:
-    id: 170429
-    title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
-related_article3:
-    id: 170439
-    title: Explain the unique properties of carbon that make it vital for biological processes.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
-related_article4:
     id: 170430
-    title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    title: >-
+        What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
     subject: Biology
     url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
-related_article5:
-    id: 170437
-    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+related_article2:
+    id: 170436
+    title: >-
+        Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article3:
+    id: 170431
+    title: >-
+        How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
+related_article4:
+    id: 170436
+    title: >-
+        Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article5:
+    id: 170430
+    title: >-
+        What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
 ---
 
 &nbsp;

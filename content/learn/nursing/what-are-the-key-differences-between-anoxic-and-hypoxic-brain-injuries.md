@@ -2,8 +2,10 @@
 _schema: default
 id: 164439
 date: 2025-01-28
-title: What are the key differences between anoxic and hypoxic brain injuries?
-article_title: What are the key differences between anoxic and hypoxic brain injuries?
+title: >-
+    What are the key differences between anoxic and hypoxic brain injuries?
+article_title: >-
+    What are the key differences between anoxic and hypoxic brain injuries?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injurie
 url: /learn/nursing/questions/what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injuries
 score: -1.0
 related_article1:
-    id: 164449
-    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    id: 164442
+    title: >-
+        How do open head injuries differ from closed head injuries in terms of impact and treatment?
     subject: Nursing
-    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
 related_article2:
-    id: 164447
-    title: Describe the role of the parietal lobe in sensory integration.
+    id: 164457
+    title: >-
+        What strategies can support emotional and behavioral adaptation after a brain injury?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
+    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
 related_article3:
-    id: 164445
-    title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
 related_article4:
-    id: 164452
-    title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+    id: 164454
+    title: >-
+        Which populations are at higher risk for brain injury, and why?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
 related_article5:
-    id: 164444
-    title: Identify two external causes of brain injury and explain their potential impact.
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
     subject: Nursing
-    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
 ---
 
 &nbsp;

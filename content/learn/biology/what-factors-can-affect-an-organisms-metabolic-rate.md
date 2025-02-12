@@ -2,8 +2,10 @@
 _schema: default
 id: 170933
 date: 2025-02-07
-title: What factors can affect an organism's metabolic rate?
-article_title: What factors can affect an organism's metabolic rate?
+title: >-
+    What factors can affect an organism's metabolic rate?
+article_title: >-
+    What factors can affect an organism's metabolic rate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-factors-can-affect-an-organisms-metabolic-rate.md
 url: /learn/biology/questions/what-factors-can-affect-an-organisms-metabolic-rate
 score: -1.0
 related_article1:
-    id: 170936
-    title: How are carbon dioxide and water produced as byproducts of respiration?
+    id: 170938
+    title: >-
+        What is the role of oxygen as an electron acceptor in respiration?
     subject: Biology
-    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
+    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
 related_article2:
+    id: 170930
+    title: >-
+        How is energy captured and stored in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-captured-and-stored-in-cells
+related_article3:
     id: 170927
-    title: Describe the process of light absorption in photosynthesis.
+    title: >-
+        Describe the process of light absorption in photosynthesis.
     subject: Biology
     url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
-related_article3:
-    id: 170935
-    title: What is the role of the Krebs cycle in sugar breakdown?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
 related_article4:
-    id: 170936
-    title: How are carbon dioxide and water produced as byproducts of respiration?
+    id: 170931
+    title: >-
+        What are the main uses of energy in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
+    url: /learn/biology/questions/what-are-the-main-uses-of-energy-in-cellular-processes
+related_article5:
+    id: 170926
+    title: >-
+        What are the main types of organisms capable of photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
 ---
 
 &nbsp;

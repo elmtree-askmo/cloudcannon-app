@@ -2,8 +2,10 @@
 _schema: default
 id: 164524
 date: 2025-01-28
-title: How do learning disabilities impact cognitive development, particularly in relation to language processing?
-article_title: How do learning disabilities impact cognitive development, particularly in relation to language processing?
+title: >-
+    How do learning disabilities impact cognitive development, particularly in relation to language processing?
+article_title: >-
+    How do learning disabilities impact cognitive development, particularly in relation to language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-learning-disabilities-impact-cognitive-development-particularl
 url: /learn/education-studies/questions/how-do-learning-disabilities-impact-cognitive-development-particularly-in-relation-to-language-processing
 score: -1.0
 related_article1:
-    id: 164520
-    title: What tools and techniques are used in cognitive assessment, and why are they important in language studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
-related_article2:
-    id: 164519
-    title: How do visual and auditory processing issues relate to cognitive processing in dyslexia?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
-related_article3:
-    id: 164518
-    title: What are the defining characteristics of dyslexia, and how prevalent is it?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
-related_article4:
     id: 164510
-    title: Why are ERP components important in cognitive processing studies?
+    title: >-
+        Why are ERP components important in cognitive processing studies?
     subject: Education Studies
     url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
-related_article5:
-    id: 164513
-    title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+related_article2:
+    id: 164514
+    title: >-
+        How does damage to anterior language regions impact syntax processing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
+    url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
+related_article3:
+    id: 164517
+    title: >-
+        How do different brain imaging techniques compare in their application to cognitive neuroscience?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
+related_article4:
+    id: 164526
+    title: >-
+        What contributions have neuroimaging studies made to understanding aphasia in language processing research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
+related_article5:
+    id: 164510
+    title: >-
+        Why are ERP components important in cognitive processing studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
 ---
 
 &nbsp;

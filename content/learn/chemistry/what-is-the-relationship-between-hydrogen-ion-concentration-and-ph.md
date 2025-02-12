@@ -2,8 +2,10 @@
 _schema: default
 id: 167373
 date: 2025-01-31
-title: What is the relationship between hydrogen ion concentration and pH?
-article_title: What is the relationship between hydrogen ion concentration and pH?
+title: >-
+    What is the relationship between hydrogen ion concentration and pH?
+article_title: >-
+    What is the relationship between hydrogen ion concentration and pH?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-hydrogen-ion-concentration-and-ph.md
 url: /learn/chemistry/questions/what-is-the-relationship-between-hydrogen-ion-concentration-and-ph
 score: -1.0
 related_article1:
-    id: 167380
-    title: How is scientific notation used to simplify calculations in chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
-related_article2:
-    id: 167371
-    title: What is the pH scale and why is it important in chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-ph-scale-and-why-is-it-important-in-chemistry
-related_article3:
-    id: 167379
-    title: What mathematical techniques are used to rearrange equations in chemistry?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-mathematical-techniques-are-used-to-rearrange-equations-in-chemistry
-related_article4:
     id: 167378
-    title: Why is it important to convert between different concentration units?
+    title: >-
+        Why is it important to convert between different concentration units?
     subject: Chemistry
     url: /learn/chemistry/questions/why-is-it-important-to-convert-between-different-concentration-units
-related_article5:
-    id: 167375
-    title: What is a base 10 logarithm and why is it important in pH calculations?
+related_article2:
+    id: 167376
+    title: >-
+        How do you rearrange a logarithmic equation to solve for a variable?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-base-10-logarithm-and-why-is-it-important-in-ph-calculations
+    url: /learn/chemistry/questions/how-do-you-rearrange-a-logarithmic-equation-to-solve-for-a-variable
+related_article3:
+    id: 167374
+    title: >-
+        How can you calculate hydrogen ion concentration from a given pH value?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
+related_article4:
+    id: 167380
+    title: >-
+        How is scientific notation used to simplify calculations in chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-scientific-notation-used-to-simplify-calculations-in-chemistry
+related_article5:
+    id: 167374
+    title: >-
+        How can you calculate hydrogen ion concentration from a given pH value?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-can-you-calculate-hydrogen-ion-concentration-from-a-given-ph-value
 ---
 
 &nbsp;

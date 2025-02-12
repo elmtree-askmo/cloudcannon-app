@@ -2,8 +2,10 @@
 _schema: default
 id: 162965
 date: 2025-01-26
-title: How is a confidence interval interpreted in the context of epidemiologic research?
-article_title: How is a confidence interval interpreted in the context of epidemiologic research?
+title: >-
+    How is a confidence interval interpreted in the context of epidemiologic research?
+article_title: >-
+    How is a confidence interval interpreted in the context of epidemiologic research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-confidence-interval-interpreted-in-the-context-of-epidemiolo
 url: /learn/health-studies/questions/how-is-a-confidence-interval-interpreted-in-the-context-of-epidemiologic-research
 score: -1.0
 related_article1:
-    id: 163019
-    title: What are the differences between primary and secondary data in epidemiologic research?
+    id: 163020
+    title: >-
+        How do random and systematic sampling methods differ in biostatistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
+    url: /learn/health-studies/questions/how-do-random-and-systematic-sampling-methods-differ-in-biostatistics
 related_article2:
-    id: 162975
-    title: What are the common sources of random error in epidemiologic studies, and how can they be reduced?
+    id: 162966
+    title: >-
+        What is the primary focus of epidemiology in terms of disease frequency and distribution?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-sources-of-random-error-in-epidemiologic-studies-and-how-can-they-be-reduced
+    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
 related_article3:
-    id: 162967
-    title: How have key figures and milestones influenced the historical development of epidemiology?
+    id: 163023
+    title: >-
+        How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
+    url: /learn/health-studies/questions/how-are-confidence-intervals-used-to-interpret-the-precision-of-an-estimate-in-epidemiologic-research
 related_article4:
-    id: 162971
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    id: 163018
+    title: >-
+        What are the key components of data interpretation in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
 related_article5:
-    id: 162962
-    title: What are the advantages of using random sampling in biostatistics?
+    id: 163022
+    title: >-
+        What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-advantages-of-using-random-sampling-in-biostatistics
+    url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
 ---
 
 &nbsp;

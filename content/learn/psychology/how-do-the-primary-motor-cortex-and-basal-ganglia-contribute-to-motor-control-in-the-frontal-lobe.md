@@ -2,8 +2,10 @@
 _schema: default
 id: 170529
 date: 2025-02-06
-title: How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
-article_title: How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+title: >-
+    How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+article_title: >-
+    How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor
 url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
 score: -1.0
 related_article1:
-    id: 170540
-    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
-related_article2:
     id: 170530
-    title: What are the common symptoms and consequences of traumatic brain injury and stroke?
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
+related_article2:
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 related_article3:
-    id: 170537
-    title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    id: 170539
+    title: >-
+        How does the development of object permanence in infancy and early childhood contribute to cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
 related_article4:
-    id: 170532
-    title: What are the primary symptoms of Parkinson's disease, and what treatments are available?
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
 related_article5:
-    id: 170543
-    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    id: 170528
+    title: >-
+        What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
 ---
 
 &nbsp;

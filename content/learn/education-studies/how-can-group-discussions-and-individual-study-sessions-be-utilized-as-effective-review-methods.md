@@ -2,8 +2,10 @@
 _schema: default
 id: 164287
 date: 2025-01-28
-title: How can group discussions and individual study sessions be utilized as effective review methods?
-article_title: How can group discussions and individual study sessions be utilized as effective review methods?
+title: >-
+    How can group discussions and individual study sessions be utilized as effective review methods?
+article_title: >-
+    How can group discussions and individual study sessions be utilized as effective review methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-group-discussions-and-individual-study-sessions-be-utilized-a
 url: /learn/education-studies/questions/how-can-group-discussions-and-individual-study-sessions-be-utilized-as-effective-review-methods
 score: -1.0
 related_article1:
+    id: 164281
+    title: >-
+        Why is it important to support arguments with evidence in questioning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-support-arguments-with-evidence-in-questioning
+related_article2:
+    id: 164286
+    title: >-
+        What are the key components of creating a review schedule and allocating resources effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-creating-a-review-schedule-and-allocating-resources-effectively
+related_article3:
+    id: 164284
+    title: >-
+        How should test content be structured to ensure a logical flow and effective topic segmentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-test-content-be-structured-to-ensure-a-logical-flow-and-effective-topic-segmentation
+related_article4:
     id: 164283
-    title: What are some examples of evidence-based questions that can be used in assessments?
+    title: >-
+        What are some examples of evidence-based questions that can be used in assessments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-examples-of-evidencebased-questions-that-can-be-used-in-assessments
-related_article2:
-    id: 164276
-    title: How can previous session topics be effectively included in test content coverage?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-previous-session-topics-be-effectively-included-in-test-content-coverage
-related_article3:
-    id: 164275
-    title: What are the key steps involved in confirming a test date and allocating time for review?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-involved-in-confirming-a-test-date-and-allocating-time-for-review
-related_article4:
-    id: 164278
-    title: What are the essential elements of designing evidence-based questions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-elements-of-designing-evidencebased-questions
 related_article5:
-    id: 164280
-    title: What criteria should be used for evaluating responses in assessments?
+    id: 164284
+    title: >-
+        How should test content be structured to ensure a logical flow and effective topic segmentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-should-be-used-for-evaluating-responses-in-assessments
+    url: /learn/education-studies/questions/how-should-test-content-be-structured-to-ensure-a-logical-flow-and-effective-topic-segmentation
 ---
 
 &nbsp;

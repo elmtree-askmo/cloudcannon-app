@@ -2,8 +2,10 @@
 _schema: default
 id: 169752
 date: 2025-02-05
-title: What are the key legal aspects of medicines management that nurses must be aware of?
-article_title: What are the key legal aspects of medicines management that nurses must be aware of?
+title: >-
+    What are the key legal aspects of medicines management that nurses must be aware of?
+article_title: >-
+    What are the key legal aspects of medicines management that nurses must be aware of?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-legal-aspects-of-medicines-management-that-nurses-mu
 url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
 score: -1.0
 related_article1:
-    id: 169762
-    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    id: 169761
+    title: >-
+        What are the nursing responsibilities and legal obligations in medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
 related_article2:
-    id: 169742
-    title: What are the key developmental stages in lifespan development, and how do they impact health?
+    id: 169749
+    title: >-
+        What are the differences between pharmacological and non-pharmacological pain management approaches?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
 related_article3:
-    id: 169744
-    title: How do nutrition and hydration impact patient recovery?
+    id: 169758
+    title: >-
+        What are common causes of medication errors, and how can they be prevented?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
+    url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
 related_article4:
-    id: 169763
-    title: What are patient group directions, and how are they applied in clinical practice?
+    id: 169741
+    title: >-
+        Why is patient consent crucial in healthcare, and what are the considerations for minors?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
 related_article5:
-    id: 169743
-    title: What are some age-specific health considerations that nurses should be aware of?
+    id: 169757
+    title: >-
+        What are the regulations and storage requirements for controlled drugs?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
 ---
 
 &nbsp;

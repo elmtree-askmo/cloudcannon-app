@@ -2,8 +2,10 @@
 _schema: default
 id: 165106
 date: 2025-01-28
-title: What are some common challenges in data collection related to participant and observer bias?
-article_title: What are some common challenges in data collection related to participant and observer bias?
+title: >-
+    What are some common challenges in data collection related to participant and observer bias?
+article_title: >-
+    What are some common challenges in data collection related to participant and observer bias?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-challenges-in-data-collection-related-to-partici
 url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
 score: -1.0
 related_article1:
-    id: 165099
-    title: What are the characteristics of nominal measurement types?
+    id: 165108
+    title: >-
+        What are some popular software tools used for data coding and what are best practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
+    url: /learn/education-studies/questions/what-are-some-popular-software-tools-used-for-data-coding-and-what-are-best-practices
 related_article2:
+    id: 165103
+    title: >-
+        Why is control and randomization important in experimental design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-control-and-randomization-important-in-experimental-design
+related_article3:
+    id: 165100
+    title: >-
+        Provide examples of ordinal measurement types and their characteristics.
+    subject: Education Studies
+    url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
+related_article4:
     id: 165095
-    title: What is a dependent variable and why is it important in research?
+    title: >-
+        What is a dependent variable and why is it important in research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
-related_article3:
-    id: 165111
-    title: What is the difference between continuous and categorical variables?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
-related_article4:
-    id: 165101
-    title: Explain the difference between interval and ratio measurement types with examples.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
 related_article5:
-    id: 165117
-    title: What is the importance of pilot testing in questionnaire design?
+    id: 165102
+    title: >-
+        What are the key differences between between-subjects and within-subjects experimental designs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-pilot-testing-in-questionnaire-design
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
 ---
 
 &nbsp;

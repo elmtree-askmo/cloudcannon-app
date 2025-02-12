@@ -2,8 +2,10 @@
 _schema: default
 id: 166565
 date: 2025-01-30
-title: What were the main structural changes introduced during the Hausmann renovations of Paris?
-article_title: What were the main structural changes introduced during the Hausmann renovations of Paris?
+title: >-
+    What were the main structural changes introduced during the Hausmann renovations of Paris?
+article_title: >-
+    What were the main structural changes introduced during the Hausmann renovations of Paris?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-structural-changes-introduced-during-the-hausmann-
 url: /learn/art-history-and-literature/questions/what-were-the-main-structural-changes-introduced-during-the-hausmann-renovations-of-paris
 score: 9.0
 related_article1:
+    id: 166566
+    title: >-
+        How did the Hausmann renovations impact the social patterns in Parisian society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
+related_article2:
+    id: 166568
+    title: >-
+        What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
+related_article3:
     id: 166574
-    title: How did Impressionist artists represent women's perspectives and changing gender roles in their work?
+    title: >-
+        How did Impressionist artists represent women's perspectives and changing gender roles in their work?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-represent-womens-perspectives-and-changing-gender-roles-in-their-work
-related_article2:
-    id: 166567
-    title: How did modernity influence the representation of Parisian society in modern art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-modernity-influence-the-representation-of-parisian-society-in-modern-art
-related_article3:
-    id: 166572
-    title: How did the public initially react to the first Impressionist exhibition?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-public-initially-react-to-the-first-impressionist-exhibition
 related_article4:
-    id: 166569
-    title: What are the key characteristics of Realism in art, and how did it address the class divide?
+    id: 166568
+    title: >-
+        What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
+    url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
 related_article5:
-    id: 166569
-    title: What are the key characteristics of Realism in art, and how did it address the class divide?
+    id: 166576
+    title: >-
+        How did artists respond to the themes of modernity and urbanization in their work?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
+    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
 ---
 
 &nbsp;

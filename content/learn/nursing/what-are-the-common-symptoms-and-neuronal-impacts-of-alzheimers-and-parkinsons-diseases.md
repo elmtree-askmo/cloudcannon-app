@@ -2,8 +2,10 @@
 _schema: default
 id: 170612
 date: 2025-02-06
-title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
-article_title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+title: >-
+    What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+article_title: >-
+    What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-p
 url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
 score: -1.0
 related_article1:
-    id: 170606
-    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
 related_article2:
+    id: 170617
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
+related_article3:
+    id: 170614
+    title: >-
+        How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+related_article4:
+    id: 170597
+    title: >-
+        What are the main structural components of a neuron and their functions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+related_article5:
     id: 170598
-    title: How do motor neurons, sensory neurons, and interneurons differ in function?
+    title: >-
+        How do motor neurons, sensory neurons, and interneurons differ in function?
     subject: Nursing
     url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
-related_article3:
-    id: 170608
-    title: How does myelination affect the speed of nerve impulse conduction?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
-related_article4:
-    id: 170606
-    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
-related_article5:
-    id: 170604
-    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
 ---
 
 &nbsp;

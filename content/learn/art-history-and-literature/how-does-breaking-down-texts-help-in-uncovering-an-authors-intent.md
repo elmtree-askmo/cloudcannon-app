@@ -2,8 +2,10 @@
 _schema: default
 id: 161892
 date: 2025-01-24
-title: How does breaking down texts help in uncovering an author's intent?
-article_title: How does breaking down texts help in uncovering an author's intent?
+title: >-
+    How does breaking down texts help in uncovering an author's intent?
+article_title: >-
+    How does breaking down texts help in uncovering an author's intent?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-breaking-down-texts-help-in-uncovering-an-authors-intent.md
 url: /learn/art-history-and-literature/questions/how-does-breaking-down-texts-help-in-uncovering-an-authors-intent
 score: 9.0
 related_article1:
-    id: 161891
-    title: What is the primary purpose of literary analysis?
+    id: 161901
+    title: >-
+        How does the use of imagery contribute to emotional evocation in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-analysis
+    url: /learn/art-history-and-literature/questions/how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-literature
 related_article2:
-    id: 161899
-    title: How can logical reasoning be used to identify cause and effect relationships in literary analysis?
+    id: 161898
+    title: >-
+        What rhetorical techniques does Shakespeare use to critique social norms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-logical-reasoning-be-used-to-identify-cause-and-effect-relationships-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
 related_article3:
-    id: 161891
-    title: What is the primary purpose of literary analysis?
+    id: 161898
+    title: >-
+        What rhetorical techniques does Shakespeare use to critique social norms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
 related_article4:
     id: 161897
-    title: How do societal expectations influence women's roles in Shakespeare's romantic relationships?
+    title: >-
+        How do societal expectations influence women's roles in Shakespeare's romantic relationships?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-societal-expectations-influence-womens-roles-in-shakespeares-romantic-relationships
 related_article5:
-    id: 161891
-    title: What is the primary purpose of literary analysis?
+    id: 161901
+    title: >-
+        How does the use of imagery contribute to emotional evocation in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-analysis
+    url: /learn/art-history-and-literature/questions/how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-literature
 ---
 
 &nbsp;

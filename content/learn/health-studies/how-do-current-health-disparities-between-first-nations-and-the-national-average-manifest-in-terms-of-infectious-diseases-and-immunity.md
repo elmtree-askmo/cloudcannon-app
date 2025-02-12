@@ -2,8 +2,10 @@
 _schema: default
 id: 163372
 date: 2025-01-26
-title: How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
-article_title: How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
+title: >-
+    How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
+article_title: >-
+    How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-current-health-disparities-between-first-nations-and-the-natio
 url: /learn/health-studies/questions/how-do-current-health-disparities-between-first-nations-and-the-national-average-manifest-in-terms-of-infectious-diseases-and-immunity
 score: -1.0
 related_article1:
-    id: 163380
-    title: What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    id: 163375
+    title: >-
+        In what ways does the Indigenous worldview emphasize interconnectedness with nature?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+    url: /learn/health-studies/questions/in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedness-with-nature
 related_article2:
-    id: 163383
-    title: How does the transition from a traditional land-based economy to a wage-based economy affect economic sustainability for First Nations?
+    id: 163379
+    title: >-
+        Describe the components of the Medicine Wheel and their significance in the holistic health model.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-transition-from-a-traditional-landbased-economy-to-a-wagebased-economy-affect-economic-sustainability-for-first-nations
+    url: /learn/health-studies/questions/describe-the-components-of-the-medicine-wheel-and-their-significance-in-the-holistic-health-model
 related_article3:
     id: 163377
-    title: What were the impacts of the British North America Act and the Indian Act on First Nations communities?
+    title: >-
+        What were the impacts of the British North America Act and the Indian Act on First Nations communities?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
 related_article4:
-    id: 163378
-    title: How have economic shifts contributed to socio-economic disadvantages for First Nations?
+    id: 163375
+    title: >-
+        In what ways does the Indigenous worldview emphasize interconnectedness with nature?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-have-economic-shifts-contributed-to-socioeconomic-disadvantages-for-first-nations
+    url: /learn/health-studies/questions/in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedness-with-nature
 related_article5:
-    id: 163380
-    title: What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    id: 163381
+    title: >-
+        How is traditional knowledge transmitted within First Nations communities, and why is it important?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+    url: /learn/health-studies/questions/how-is-traditional-knowledge-transmitted-within-first-nations-communities-and-why-is-it-important
 ---
 
 &nbsp;

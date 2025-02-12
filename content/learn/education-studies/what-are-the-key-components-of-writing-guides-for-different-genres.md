@@ -2,8 +2,10 @@
 _schema: default
 id: 165351
 date: 2025-01-29
-title: What are the key components of writing guides for different genres?
-article_title: What are the key components of writing guides for different genres?
+title: >-
+    What are the key components of writing guides for different genres?
+article_title: >-
+    What are the key components of writing guides for different genres?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-key-components-of-writing-guides-for-different-genres.md
 url: /learn/education-studies/questions/what-are-the-key-components-of-writing-guides-for-different-genres
 score: -1.0
 related_article1:
-    id: 165361
-    title: What are the main stages of the writing process, and how do they contribute to effective writing?
+    id: 165354
+    title: >-
+        How can students access writing center services at the Greenlaw Library location?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
+    url: /learn/education-studies/questions/how-can-students-access-writing-center-services-at-the-greenlaw-library-location
 related_article2:
-    id: 165362
-    title: What techniques can enhance communication skills during presentations?
+    id: 165356
+    title: >-
+        How does thesis development contribute to the effectiveness of a research paper?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-enhance-communication-skills-during-presentations
+    url: /learn/education-studies/questions/how-does-thesis-development-contribute-to-the-effectiveness-of-a-research-paper
 related_article3:
-    id: 165363
-    title: What distinguishes academic writing from creative writing in terms of structure and purpose?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
-related_article4:
-    id: 165352
-    title: How do documentation guides assist in maintaining proper grammar?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-documentation-guides-assist-in-maintaining-proper-grammar
-related_article5:
     id: 165353
-    title: What are the differences between in-person and online writing center appointments?
+    title: >-
+        What are the differences between in-person and online writing center appointments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-differences-between-inperson-and-online-writing-center-appointments
+related_article4:
+    id: 165358
+    title: >-
+        How can students book feedback appointments through the online scheduling system?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-book-feedback-appointments-through-the-online-scheduling-system
 ---
 
 &nbsp;

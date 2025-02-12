@@ -2,8 +2,10 @@
 _schema: default
 id: 167270
 date: 2025-01-31
-title: How do bar graphs assist in comparing different groups?
-article_title: How do bar graphs assist in comparing different groups?
+title: >-
+    How do bar graphs assist in comparing different groups?
+article_title: >-
+    How do bar graphs assist in comparing different groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-bar-graphs-assist-in-comparing-different-groups.md
 url: /learn/education-studies/questions/how-do-bar-graphs-assist-in-comparing-different-groups
 score: -1.0
 related_article1:
-    id: 167267
-    title: What is a line graph, and when is it most appropriately used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-line-graph-and-when-is-it-most-appropriately-used
-related_article2:
     id: 167269
-    title: What is the role of independent and dependent variables in a scatter plot?
+    title: >-
+        What is the role of independent and dependent variables in a scatter plot?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-independent-and-dependent-variables-in-a-scatter-plot
-related_article3:
-    id: 167265
-    title: How do graphs help in identifying patterns in complex data?
+related_article2:
+    id: 167272
+    title: >-
+        How do pie charts effectively represent parts of a whole?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-graphs-help-in-identifying-patterns-in-complex-data
+    url: /learn/education-studies/questions/how-do-pie-charts-effectively-represent-parts-of-a-whole
+related_article3:
+    id: 167279
+    title: >-
+        What is the difference between correlation and causation, and why is it important to understand this distinction when analyzing graphs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation-and-why-is-it-important-to-understand-this-distinction-when-analyzing-graphs
 related_article4:
     id: 167272
-    title: How do pie charts effectively represent parts of a whole?
+    title: >-
+        How do pie charts effectively represent parts of a whole?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-pie-charts-effectively-represent-parts-of-a-whole
 related_article5:
     id: 167269
-    title: What is the role of independent and dependent variables in a scatter plot?
+    title: >-
+        What is the role of independent and dependent variables in a scatter plot?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-independent-and-dependent-variables-in-a-scatter-plot
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 161140
 date: 2025-01-24
-title: What are the properties of rational and irrational numbers?
-article_title: What are the properties of rational and irrational numbers?
+title: >-
+    What are the properties of rational and irrational numbers?
+article_title: >-
+    What are the properties of rational and irrational numbers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-properties-of-rational-and-irrational-numbers.md
 url: /learn/computer-science/questions/what-are-the-properties-of-rational-and-irrational-numbers
 score: -1.0
 related_article1:
-    id: 161126
-    title: What is the importance of algorithm representation in the initial step of algorithm development?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article2:
-    id: 160821
-    title: How does understanding cardinality impact set theory and computability?
+    id: 161142
+    title: >-
+        What is the difference between countably infinite and uncountably infinite sets?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
+    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
 related_article3:
+    id: 160799
+    title: >-
+        How does the level of representation impact algorithm complexity?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
+related_article4:
     id: 161277
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
-related_article4:
-    id: 160800
-    title: What role does abstraction play in simplifying complex computing problems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-simplifying-complex-computing-problems
 related_article5:
-    id: 160801
-    title: How can abstraction aid in algorithm design?
+    id: 160966
+    title: >-
+        How do static and dynamic analysis techniques differ in algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
+    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
 ---
 
 &nbsp;

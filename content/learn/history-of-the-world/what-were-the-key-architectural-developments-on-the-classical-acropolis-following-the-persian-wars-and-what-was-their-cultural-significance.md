@@ -2,8 +2,10 @@
 _schema: default
 id: 163963
 date: 2025-01-28
-title: What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
-article_title: What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
+title: >-
+    What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
+article_title: >-
+    What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-architectural-developments-on-the-classical-acropol
 url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
 score: 9.0
 related_article1:
-    id: 163970
-    title: Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
+    id: 163977
+    title: >-
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
+    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 related_article2:
+    id: 163973
+    title: >-
+        How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-role-and-selection-of-dikastai-reflect-the-sovereignty-of-athenian-law-courts
+related_article3:
+    id: 163975
+    title: >-
+        How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-oligarchic-regimes-of-411-bc-challenge-athenian-democracy-and-what-were-the-subsequent-reforms
+related_article4:
     id: 163974
-    title: What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
+    title: >-
+        What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
-related_article3:
-    id: 163968
-    title: How did Solon's reforms influence the eligibility for political office in Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-influence-the-eligibility-for-political-office-in-athens
-related_article4:
-    id: 163968
-    title: How did Solon's reforms influence the eligibility for political office in Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-influence-the-eligibility-for-political-office-in-athens
 related_article5:
-    id: 163966
-    title: Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+    id: 163967
+    title: >-
+        Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
+    url: /learn/history-of-the-world/questions/explain-the-concept-of-timocracy-as-introduced-by-solon-and-its-impact-on-athenian-society
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170019
 date: 2025-02-05
-title: How have modern interpretations criticized Freud's developmental stages?
-article_title: How have modern interpretations criticized Freud's developmental stages?
+title: >-
+    How have modern interpretations criticized Freud's developmental stages?
+article_title: >-
+    How have modern interpretations criticized Freud's developmental stages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-modern-interpretations-criticized-freuds-developmental-stage
 url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
 score: -1.0
 related_article1:
-    id: 170028
-    title: What are the ethical considerations in experimental psychology research methods?
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
 related_article2:
-    id: 170009
-    title: How did Functionalism contribute to the development of Evolutionary Psychology?
+    id: 170011
+    title: >-
+        How does Behaviorism explain the influence of the environment on behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+    url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
 related_article3:
-    id: 170023
-    title: How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 related_article4:
     id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    title: >-
+        What are the key contributions of Sigmund Freud to Psychoanalysis?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 related_article5:
-    id: 170031
-    title: How do modern theories of personality differ from Freud's psychoanalytic theory?
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
 ---
 
 &nbsp;

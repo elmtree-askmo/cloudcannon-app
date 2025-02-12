@@ -2,8 +2,10 @@
 _schema: default
 id: 166633
 date: 2025-01-31
-title: Describe the application of the law of cosines and sines in engineering statics.
-article_title: Describe the application of the law of cosines and sines in engineering statics.
+title: >-
+    Describe the application of the law of cosines and sines in engineering statics.
+article_title: >-
+    Describe the application of the law of cosines and sines in engineering statics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-application-of-the-law-of-cosines-and-sines-in-engineeri
 url: /learn/education-studies/questions/describe-the-application-of-the-law-of-cosines-and-sines-in-engineering-statics
 score: -1.0
 related_article1:
+    id: 166626
+    title: >-
+        What are the key benefits of using Discord for networking in an academic setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-benefits-of-using-discord-for-networking-in-an-academic-setting
+related_article2:
     id: 166632
-    title: What are the algebraic methods used to solve systems of equations in engineering?
+    title: >-
+        What are the algebraic methods used to solve systems of equations in engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-algebraic-methods-used-to-solve-systems-of-equations-in-engineering
-related_article2:
-    id: 166627
-    title: How can career services assist in improving your resume and cover letter?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
 related_article3:
     id: 166632
-    title: What are the algebraic methods used to solve systems of equations in engineering?
+    title: >-
+        What are the algebraic methods used to solve systems of equations in engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-algebraic-methods-used-to-solve-systems-of-equations-in-engineering
 related_article4:
+    id: 166630
+    title: >-
+        Explain the role of vectors in solving statics problems.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-role-of-vectors-in-solving-statics-problems
+related_article5:
     id: 166627
-    title: How can career services assist in improving your resume and cover letter?
+    title: >-
+        How can career services assist in improving your resume and cover letter?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
-related_article5:
-    id: 166635
-    title: How do algebra and geometry combine to solve engineering problems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algebra-and-geometry-combine-to-solve-engineering-problems
 ---
 
 &nbsp;

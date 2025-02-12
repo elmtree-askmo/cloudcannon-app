@@ -2,8 +2,10 @@
 _schema: default
 id: 170926
 date: 2025-02-07
-title: What are the main types of organisms capable of photosynthesis?
-article_title: What are the main types of organisms capable of photosynthesis?
+title: >-
+    What are the main types of organisms capable of photosynthesis?
+article_title: >-
+    What are the main types of organisms capable of photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-organisms-capable-of-photosynthesis.md
 url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
 score: -1.0
 related_article1:
-    id: 170939
-    title: How do organisms adapt to varying levels of oxygen availability?
+    id: 170936
+    title: >-
+        How are carbon dioxide and water produced as byproducts of respiration?
     subject: Biology
-    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
 related_article2:
-    id: 170935
-    title: What is the role of the Krebs cycle in sugar breakdown?
+    id: 170929
+    title: >-
+        Explain the role of oxygen in the respiration process.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
 related_article3:
-    id: 170935
-    title: What is the role of the Krebs cycle in sugar breakdown?
+    id: 170929
+    title: >-
+        Explain the role of oxygen in the respiration process.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
 related_article4:
-    id: 170933
-    title: What factors can affect an organism's metabolic rate?
+    id: 170927
+    title: >-
+        Describe the process of light absorption in photosynthesis.
     subject: Biology
-    url: /learn/biology/questions/what-factors-can-affect-an-organisms-metabolic-rate
+    url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
 related_article5:
-    id: 170928
-    title: Which organisms are capable of respiration?
+    id: 170936
+    title: >-
+        How are carbon dioxide and water produced as byproducts of respiration?
     subject: Biology
-    url: /learn/biology/questions/which-organisms-are-capable-of-respiration
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
 ---
 
 &nbsp;

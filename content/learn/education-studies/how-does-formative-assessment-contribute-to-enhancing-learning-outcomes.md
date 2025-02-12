@@ -2,8 +2,10 @@
 _schema: default
 id: 166588
 date: 2025-01-30
-title: How does formative assessment contribute to enhancing learning outcomes?
-article_title: How does formative assessment contribute to enhancing learning outcomes?
+title: >-
+    How does formative assessment contribute to enhancing learning outcomes?
+article_title: >-
+    How does formative assessment contribute to enhancing learning outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-formative-assessment-contribute-to-enhancing-learning-outcom
 url: /learn/education-studies/questions/how-does-formative-assessment-contribute-to-enhancing-learning-outcomes
 score: -1.0
 related_article1:
-    id: 166590
-    title: How can learning outcomes be effectively measured and assessed?
+    id: 166578
+    title: >-
+        What are the primary purposes of assessment in education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-learning-outcomes-be-effectively-measured-and-assessed
+    url: /learn/education-studies/questions/what-are-the-primary-purposes-of-assessment-in-education
 related_article2:
-    id: 166582
-    title: What strategies can be used to adapt study techniques to different learning styles?
+    id: 166592
+    title: >-
+        What are the key components of a learning contract, and how do they support academic integrity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-adapt-study-techniques-to-different-learning-styles
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-learning-contract-and-how-do-they-support-academic-integrity
 related_article3:
-    id: 166585
-    title: What are the essential elements of a well-structured essay?
+    id: 166587
+    title: >-
+        What strategies can be employed to improve performance on multiple choice tests?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-essay
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-improve-performance-on-multiple-choice-tests
 related_article4:
-    id: 166586
-    title: What study techniques are most effective for exam preparation?
+    id: 166595
+    title: >-
+        What considerations are important when designing effective assessment instruments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-study-techniques-are-most-effective-for-exam-preparation
+    url: /learn/education-studies/questions/what-considerations-are-important-when-designing-effective-assessment-instruments
 related_article5:
-    id: 166586
-    title: What study techniques are most effective for exam preparation?
+    id: 166587
+    title: >-
+        What strategies can be employed to improve performance on multiple choice tests?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-study-techniques-are-most-effective-for-exam-preparation
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-improve-performance-on-multiple-choice-tests
 ---
 
 &nbsp;

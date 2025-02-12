@@ -2,8 +2,10 @@
 _schema: default
 id: 167165
 date: 2025-01-31
-title: Explain how the concentration gradient affects passive transport.
-article_title: Explain how the concentration gradient affects passive transport.
+title: >-
+    Explain how the concentration gradient affects passive transport.
+article_title: >-
+    Explain how the concentration gradient affects passive transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-how-the-concentration-gradient-affects-passive-transport.md
 url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
 score: -1.0
 related_article1:
+    id: 167158
+    title: >-
+        What role do carrier proteins play in facilitated diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
+related_article2:
+    id: 167164
+    title: >-
+        What types of substances are typically transported via endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
+related_article3:
+    id: 167161
+    title: >-
+        How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article4:
+    id: 167160
+    title: >-
+        Describe the function of the Na+-K+ pump in active transport.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
+related_article5:
     id: 167159
-    title: Explain the energy requirement for active transport and how it differs from passive transport.
+    title: >-
+        Explain the energy requirement for active transport and how it differs from passive transport.
     subject: Biology
     url: /learn/biology/questions/explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport
-related_article2:
-    id: 167166
-    title: Why is active transport necessary for moving substances against their concentration gradient?
-    subject: Biology
-    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
-related_article3:
-    id: 167170
-    title: What types of substances are typically transported by passive transport methods?
-    subject: Biology
-    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
-related_article4:
-    id: 167163
-    title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
-    subject: Biology
-    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
-related_article5:
-    id: 167157
-    title: How do channel proteins facilitate the movement of substances across the cell membrane?
-    subject: Biology
-    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 ---
 
 &nbsp;

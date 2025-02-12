@@ -2,8 +2,10 @@
 _schema: default
 id: 170661
 date: 2025-02-06
-title: Why is mental health support crucial for well-being in education?
-article_title: Why is mental health support crucial for well-being in education?
+title: >-
+    Why is mental health support crucial for well-being in education?
+article_title: >-
+    Why is mental health support crucial for well-being in education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-mental-health-support-crucial-for-wellbeing-in-education.md
 url: /learn/education-studies/questions/why-is-mental-health-support-crucial-for-wellbeing-in-education
 score: -1.0
 related_article1:
-    id: 170648
-    title: What is the impact of emotional regulation on academic performance and stress management?
+    id: 170647
+    title: >-
+        How do inclusive environments enhance the learning experience and social cohesion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-impact-of-emotional-regulation-on-academic-performance-and-stress-management
+    url: /learn/education-studies/questions/how-do-inclusive-environments-enhance-the-learning-experience-and-social-cohesion
 related_article2:
-    id: 170644
-    title: How do learning management systems enhance engagement in digital education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-management-systems-enhance-engagement-in-digital-education
-related_article3:
-    id: 170658
-    title: How can active learning techniques contribute to developing effective study habits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-active-learning-techniques-contribute-to-developing-effective-study-habits
-related_article4:
-    id: 170638
-    title: How do study habits influence student success?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-study-habits-influence-student-success
-related_article5:
     id: 170642
-    title: Why is the validity and reliability of peer-reviewed articles important in research?
+    title: >-
+        Why is the validity and reliability of peer-reviewed articles important in research?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-the-validity-and-reliability-of-peerreviewed-articles-important-in-research
+related_article3:
+    id: 170643
+    title: >-
+        What are the key differences between qualitative and quantitative research methods?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-qualitative-and-quantitative-research-methods
+related_article4:
+    id: 170650
+    title: >-
+        How can personalized instruction adapt to different learning styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-personalized-instruction-adapt-to-different-learning-styles
+related_article5:
+    id: 170650
+    title: >-
+        How can personalized instruction adapt to different learning styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-personalized-instruction-adapt-to-different-learning-styles
 ---
 
 &nbsp;

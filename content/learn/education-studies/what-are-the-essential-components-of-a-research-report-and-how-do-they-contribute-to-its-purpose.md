@@ -2,8 +2,10 @@
 _schema: default
 id: 168650
 date: 2025-02-03
-title: What are the essential components of a research report, and how do they contribute to its purpose?
-article_title: What are the essential components of a research report, and how do they contribute to its purpose?
+title: >-
+    What are the essential components of a research report, and how do they contribute to its purpose?
+article_title: >-
+    What are the essential components of a research report, and how do they contribute to its purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-essential-components-of-a-research-report-and-how-do-the
 url: /learn/education-studies/questions/what-are-the-essential-components-of-a-research-report-and-how-do-they-contribute-to-its-purpose
 score: -1.0
 related_article1:
-    id: 168647
-    title: What are some common techniques used in creative writing to develop characters?
+    id: 168637
+    title: >-
+        What are the defining features of a narrative report, and how does it differ from other reports?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-creative-writing-to-develop-characters
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-a-narrative-report-and-how-does-it-differ-from-other-reports
 related_article2:
-    id: 168649
-    title: What are the key guidelines of APA formatting, and why are they important in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-guidelines-of-apa-formatting-and-why-are-they-important-in-academic-writing
-related_article3:
-    id: 168633
-    title: What is the primary goal of expository writing, and how is it typically structured?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-goal-of-expository-writing-and-how-is-it-typically-structured
-related_article4:
-    id: 168629
-    title: What are the key characteristics and purposes of narrative writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-and-purposes-of-narrative-writing
-related_article5:
     id: 168641
-    title: What techniques can be used to maintain audience engagement in writing?
+    title: >-
+        What techniques can be used to maintain audience engagement in writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-techniques-can-be-used-to-maintain-audience-engagement-in-writing
+related_article3:
+    id: 168648
+    title: >-
+        How does grammar impact the clarity and professionalism of writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
+related_article4:
+    id: 168642
+    title: >-
+        How do supporting styles contribute to the main objective of a piece of writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-supporting-styles-contribute-to-the-main-objective-of-a-piece-of-writing
+related_article5:
+    id: 168648
+    title: >-
+        How does grammar impact the clarity and professionalism of writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
 ---
 
 &nbsp;

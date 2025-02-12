@@ -2,8 +2,10 @@
 _schema: default
 id: 165359
 date: 2025-01-29
-title: What methods are used to identify and analyze themes in literary analysis?
-article_title: What methods are used to identify and analyze themes in literary analysis?
+title: >-
+    What methods are used to identify and analyze themes in literary analysis?
+article_title: >-
+    What methods are used to identify and analyze themes in literary analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-methods-are-used-to-identify-and-analyze-themes-in-literary-anal
 url: /learn/education-studies/questions/what-methods-are-used-to-identify-and-analyze-themes-in-literary-analysis
 score: -1.0
 related_article1:
-    id: 165361
-    title: What are the main stages of the writing process, and how do they contribute to effective writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
-related_article2:
-    id: 165351
-    title: What are the key components of writing guides for different genres?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-writing-guides-for-different-genres
-related_article3:
     id: 165363
-    title: What distinguishes academic writing from creative writing in terms of structure and purpose?
+    title: >-
+        What distinguishes academic writing from creative writing in terms of structure and purpose?
     subject: Education Studies
     url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
-related_article4:
-    id: 165352
-    title: How do documentation guides assist in maintaining proper grammar?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-documentation-guides-assist-in-maintaining-proper-grammar
-related_article5:
+related_article2:
     id: 165354
-    title: How can students access writing center services at the Greenlaw Library location?
+    title: >-
+        How can students access writing center services at the Greenlaw Library location?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-access-writing-center-services-at-the-greenlaw-library-location
+related_article3:
+    id: 165353
+    title: >-
+        What are the differences between in-person and online writing center appointments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-differences-between-inperson-and-online-writing-center-appointments
+related_article4:
+    id: 165355
+    title: >-
+        What is the importance of specialized feedback in academic writing support?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-specialized-feedback-in-academic-writing-support
+related_article5:
+    id: 165363
+    title: >-
+        What distinguishes academic writing from creative writing in terms of structure and purpose?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
 ---
 
 &nbsp;

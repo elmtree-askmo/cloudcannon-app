@@ -2,8 +2,10 @@
 _schema: default
 id: 169174
 date: 2025-02-04
-title: How does human perception influence the interpretation of space in architecture?
-article_title: How does human perception influence the interpretation of space in architecture?
+title: >-
+    How does human perception influence the interpretation of space in architecture?
+article_title: >-
+    How does human perception influence the interpretation of space in architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-human-perception-influence-the-interpretation-of-space-in-ar
 url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
 score: -1.0
 related_article1:
-    id: 169179
-    title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
+    id: 169173
+    title: >-
+        In what ways do power relationships manifest in design, particularly in terms of control and domination?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
+    url: /learn/education-studies/questions/in-what-ways-do-power-relationships-manifest-in-design-particularly-in-terms-of-control-and-domination
 related_article2:
-    id: 169179
-    title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
-related_article3:
-    id: 169175
-    title: What role does materiality play in the structural conundrums of architecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-materiality-play-in-the-structural-conundrums-of-architecture
-related_article4:
     id: 169172
-    title: How do aesthetic and formal conditions influence the meeting of planes in architecture?
+    title: >-
+        How do aesthetic and formal conditions influence the meeting of planes in architecture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-planes-in-architecture
-related_article5:
-    id: 169181
-    title: What is the relationship between architectural theories and the design process?
+related_article3:
+    id: 169173
+    title: >-
+        In what ways do power relationships manifest in design, particularly in terms of control and domination?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+    url: /learn/education-studies/questions/in-what-ways-do-power-relationships-manifest-in-design-particularly-in-terms-of-control-and-domination
+related_article4:
+    id: 169176
+    title: >-
+        How does nonobjectivity in art contribute to the understanding of abstract volumetric space?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-nonobjectivity-in-art-contribute-to-the-understanding-of-abstract-volumetric-space
+related_article5:
+    id: 169185
+    title: >-
+        What are the fundamental principles of architectural composition in two-dimensional and three-dimensional design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-fundamental-principles-of-architectural-composition-in-twodimensional-and-threedimensional-design
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167174
 date: 2025-01-31
-title: Compare the structural differences between lipids and carbohydrates.
-article_title: Compare the structural differences between lipids and carbohydrates.
+title: >-
+    Compare the structural differences between lipids and carbohydrates.
+article_title: >-
+    Compare the structural differences between lipids and carbohydrates.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-the-structural-differences-between-lipids-and-carbohydrates.m
 url: /learn/biology/questions/compare-the-structural-differences-between-lipids-and-carbohydrates
 score: -1.0
 related_article1:
-    id: 167179
-    title: How does the amphipathic nature of phospholipids influence membrane dynamics?
+    id: 167172
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
 related_article2:
     id: 167172
-    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
     subject: Biology
     url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
 related_article3:
     id: 167171
-    title: What are the main components of a triglyceride and what is its primary function in the body?
+    title: >-
+        What are the main components of a triglyceride and what is its primary function in the body?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-components-of-a-triglyceride-and-what-is-its-primary-function-in-the-body
 related_article4:
+    id: 167180
+    title: >-
+        What structural features of an enzyme's active site determine its specificity for substrates?
+    subject: Biology
+    url: /learn/biology/questions/what-structural-features-of-an-enzymes-active-site-determine-its-specificity-for-substrates
+related_article5:
     id: 167179
-    title: How does the amphipathic nature of phospholipids influence membrane dynamics?
+    title: >-
+        How does the amphipathic nature of phospholipids influence membrane dynamics?
     subject: Biology
     url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics
-related_article5:
-    id: 167177
-    title: Explain why lipids are nonpolar and how this characteristic affects their biological functions.
-    subject: Biology
-    url: /learn/biology/questions/explain-why-lipids-are-nonpolar-and-how-this-characteristic-affects-their-biological-functions
 ---
 
 &nbsp;

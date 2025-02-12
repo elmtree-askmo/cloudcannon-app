@@ -2,8 +2,10 @@
 _schema: default
 id: 160365
 date: 2025-01-24
-title: What principles should be considered in curriculum design to ensure alignment with learning outcomes?
-article_title: What principles should be considered in curriculum design to ensure alignment with learning outcomes?
+title: >-
+    What principles should be considered in curriculum design to ensure alignment with learning outcomes?
+article_title: >-
+    What principles should be considered in curriculum design to ensure alignment with learning outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-principles-should-be-considered-in-curriculum-design-to-ensure-a
 url: /learn/education-studies/questions/what-principles-should-be-considered-in-curriculum-design-to-ensure-alignment-with-learning-outcomes
 score: -1.0
 related_article1:
-    id: 159978
-    title: What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
+    id: 160468
+    title: >-
+        What techniques can be used to manage time and stress during exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-time-and-stress-during-exams
 related_article2:
-    id: 160137
-    title: How can setting reading goals and reflecting on content improve reading comprehension?
+    id: 160003
+    title: >-
+        What are common barriers to critical thinking, and how can they be overcome?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-improve-reading-comprehension
+    url: /learn/education-studies/questions/what-are-common-barriers-to-critical-thinking-and-how-can-they-be-overcome
 related_article3:
-    id: 160156
-    title: What role does educational psychology play in understanding student behavior and enhancing learning environments?
+    id: 160066
+    title: >-
+        What are the different types of assessments, and how can students prepare effectively for them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
+    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
 related_article4:
-    id: 160146
-    title: What factors influence academic performance, and how can students set goals to improve it?
+    id: 160335
+    title: >-
+        How can setting group goals and assigning roles improve the effectiveness of study groups?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-influence-academic-performance-and-how-can-students-set-goals-to-improve-it
+    url: /learn/education-studies/questions/how-can-setting-group-goals-and-assigning-roles-improve-the-effectiveness-of-study-groups
 related_article5:
-    id: 160463
-    title: What are the key elements of preparing for a presentation, and how can practicing delivery improve performance?
+    id: 160262
+    title: >-
+        What are the key components of effective time management, and how do they contribute to academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-preparing-for-a-presentation-and-how-can-practicing-delivery-improve-performance
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-time-management-and-how-do-they-contribute-to-academic-success
 ---
 
 &nbsp;

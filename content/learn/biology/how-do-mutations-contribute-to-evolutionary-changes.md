@@ -2,8 +2,10 @@
 _schema: default
 id: 167826
 date: 2025-02-01
-title: How do mutations contribute to evolutionary changes?
-article_title: How do mutations contribute to evolutionary changes?
+title: >-
+    How do mutations contribute to evolutionary changes?
+article_title: >-
+    How do mutations contribute to evolutionary changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-mutations-contribute-to-evolutionary-changes.md
 url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
 score: -1.0
 related_article1:
-    id: 167812
-    title: What is the structure and composition of chromosomes?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
-related_article2:
-    id: 167818
-    title: How does transcription differ from translation in protein synthesis?
-    subject: Biology
-    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
-related_article3:
-    id: 167830
-    title: How can concept maps be used to organize genetic information?
-    subject: Biology
-    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
-related_article4:
     id: 167825
-    title: What are the main sources of genetic variation?
+    title: >-
+        What are the main sources of genetic variation?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
-related_article5:
-    id: 167817
-    title: What is the central dogma of molecular biology?
+related_article2:
+    id: 167811
+    title: >-
+        How do sister chromatids function during cell division?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
+    url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
+related_article3:
+    id: 167824
+    title: >-
+        What are the unique features of plant cells compared to animal cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
+related_article4:
+    id: 167827
+    title: >-
+        What are the primary types and functions of biological macromolecules?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+related_article5:
+    id: 167813
+    title: >-
+        How does chromatin differ in non-dividing cells compared to dividing cells?
+    subject: Biology
+    url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
 ---
 
 &nbsp;

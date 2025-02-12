@@ -2,8 +2,10 @@
 _schema: default
 id: 160385
 date: 2025-01-24
-title: How did Celtic architectural styles reflect their settlement patterns?
-article_title: How did Celtic architectural styles reflect their settlement patterns?
+title: >-
+    How did Celtic architectural styles reflect their settlement patterns?
+article_title: >-
+    How did Celtic architectural styles reflect their settlement patterns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 score: 9.0
 related_article1:
-    id: 160377
-    title: How have Celtic languages influenced modern European languages?
+    id: 160261
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
+    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 related_article2:
-    id: 160179
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    id: 159899
+    title: >-
+        How did the geographic locations of Celtic tribes influence their cultural development?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/how-did-the-geographic-locations-of-celtic-tribes-influence-their-cultural-development
 related_article3:
-    id: 160391
-    title: How did geography influence the cultural development and migration patterns of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
-related_article4:
-    id: 160181
-    title: How did geography influence the cultural development and migration patterns of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
-related_article5:
-    id: 160376
-    title: What are the linguistic characteristics of Celtic languages and their geographic distribution?
+    id: 159871
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
+related_article4:
+    id: 159886
+    title: >-
+        What were the typical clothing and dining habits in Celtic daily life?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
+related_article5:
+    id: 160183
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 ---
 
 &nbsp;

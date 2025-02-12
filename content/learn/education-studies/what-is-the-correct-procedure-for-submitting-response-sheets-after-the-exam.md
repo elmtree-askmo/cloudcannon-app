@@ -2,8 +2,10 @@
 _schema: default
 id: 168221
 date: 2025-02-03
-title: What is the correct procedure for submitting response sheets after the exam?
-article_title: What is the correct procedure for submitting response sheets after the exam?
+title: >-
+    What is the correct procedure for submitting response sheets after the exam?
+article_title: >-
+    What is the correct procedure for submitting response sheets after the exam?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-correct-procedure-for-submitting-response-sheets-after-th
 url: /learn/education-studies/questions/what-is-the-correct-procedure-for-submitting-response-sheets-after-the-exam
 score: -1.0
 related_article1:
-    id: 168226
-    title: How should students handle writing on exam sheets?
+    id: 168223
+    title: >-
+        What actions are prohibited when using response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
+    url: /learn/education-studies/questions/what-actions-are-prohibited-when-using-response-sheets
 related_article2:
-    id: 168218
-    title: How should electronics and personal items be managed before the exam begins?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
-related_article3:
-    id: 168231
-    title: What strategies can be used to minimize distractions in the exam environment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
-related_article4:
-    id: 168234
-    title: How should feedback be provided to students after assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-feedback-be-provided-to-students-after-assessments
-related_article5:
     id: 168222
-    title: What are the guidelines for distributing and collecting response sheets?
+    title: >-
+        What are the guidelines for distributing and collecting response sheets?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
+related_article3:
+    id: 168222
+    title: >-
+        What are the guidelines for distributing and collecting response sheets?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
+related_article4:
+    id: 168228
+    title: >-
+        How should queries be addressed during the exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
+related_article5:
+    id: 168226
+    title: >-
+        How should students handle writing on exam sheets?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168381
 date: 2025-02-03
-title: What were the effects of glacial and interglacial periods on human evolution?
-article_title: What were the effects of glacial and interglacial periods on human evolution?
+title: >-
+    What were the effects of glacial and interglacial periods on human evolution?
+article_title: >-
+    What were the effects of glacial and interglacial periods on human evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-effects-of-glacial-and-interglacial-periods-on-human-ev
 url: /learn/education-studies/questions/what-were-the-effects-of-glacial-and-interglacial-periods-on-human-evolution
 score: -1.0
 related_article1:
-    id: 168375
-    title: How do primary sources contribute to historical research, and what are their limitations?
+    id: 168379
+    title: >-
+        What are the key differences between stone tools and composite tools in tool technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-primary-sources-contribute-to-historical-research-and-what-are-their-limitations
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
 related_article2:
-    id: 168390
-    title: How does genetic data help in tracing human migration patterns?
+    id: 168393
+    title: >-
+        How did prehistoric societies adapt to environmental changes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
+    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
 related_article3:
-    id: 168389
-    title: What technological advancements were introduced during the Iron Age?
+    id: 168379
+    title: >-
+        What are the key differences between stone tools and composite tools in tool technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technological-advancements-were-introduced-during-the-iron-age
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
 related_article4:
-    id: 168376
-    title: What role do oral histories play in shaping our understanding of the past?
+    id: 168388
+    title: >-
+        How did the development of bronze tools influence the transition to urbanization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
+    url: /learn/education-studies/questions/how-did-the-development-of-bronze-tools-influence-the-transition-to-urbanization
 related_article5:
-    id: 168378
-    title: How do cultural and physical anthropology differ in their study of human societies?
+    id: 168377
+    title: >-
+        What are the main techniques used in archaeology to uncover historical evidence?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
+    url: /learn/education-studies/questions/what-are-the-main-techniques-used-in-archaeology-to-uncover-historical-evidence
 ---
 
 &nbsp;

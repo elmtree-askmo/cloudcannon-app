@@ -2,8 +2,10 @@
 _schema: default
 id: 169520
 date: 2025-02-05
-title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
-article_title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+title: >-
+    What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+article_title: >-
+    What are the typical blood pressure ranges for adults, and how can they vary by demographics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-the
 url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
 score: -1.0
 related_article1:
-    id: 169517
-    title: How does proper cuff sizing affect blood pressure measurement accuracy?
+    id: 169527
+    title: >-
+        What role do blood vessels play in blood pressure regulation mechanisms?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
+    url: /learn/nursing/questions/what-role-do-blood-vessels-play-in-blood-pressure-regulation-mechanisms
 related_article2:
-    id: 169535
-    title: How is blood pressure related to the risk of heart disease?
+    id: 169515
+    title: >-
+        What are the potential consequences of false blood pressure readings?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
+    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
 related_article3:
-    id: 169521
-    title: How do age-related changes affect misconceptions about normal blood pressure ranges?
+    id: 169529
+    title: >-
+        What biological factors, such as age and gender, affect blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+    url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
 related_article4:
-    id: 169533
-    title: How do age-related changes naturally affect blood pressure?
+    id: 169529
+    title: >-
+        What biological factors, such as age and gender, affect blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-agerelated-changes-naturally-affect-blood-pressure
+    url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
 related_article5:
-    id: 169523
-    title: What health implications can arise from hypotension?
+    id: 169529
+    title: >-
+        What biological factors, such as age and gender, affect blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
+    url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
 ---
 
 &nbsp;

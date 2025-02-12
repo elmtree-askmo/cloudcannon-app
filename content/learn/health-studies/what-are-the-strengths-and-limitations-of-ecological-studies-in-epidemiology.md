@@ -2,8 +2,10 @@
 _schema: default
 id: 163321
 date: 2025-01-26
-title: What are the strengths and limitations of ecological studies in epidemiology?
-article_title: What are the strengths and limitations of ecological studies in epidemiology?
+title: >-
+    What are the strengths and limitations of ecological studies in epidemiology?
+article_title: >-
+    What are the strengths and limitations of ecological studies in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-strengths-and-limitations-of-ecological-studies-in-epide
 url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
 score: -1.0
 related_article1:
-    id: 162989
-    title: What are the primary purposes of public health surveillance?
+    id: 163313
+    title: >-
+        How is the case fatality rate calculated and how does it differ from the mortality rate?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
 related_article2:
-    id: 163204
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    id: 162978
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 related_article3:
-    id: 163151
-    title: What are the primary purposes of public health surveillance?
+    id: 163312
+    title: >-
+        What distinguishes a crude mortality rate from a specific mortality rate?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-rate
 related_article4:
-    id: 163206
-    title: What does a Pearson correlation coefficient indicate in epidemiological studies?
+    id: 163317
+    title: >-
+        How do epidemiologic questions contribute to public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
 related_article5:
-    id: 163322
-    title: How can ecological fallacy affect the interpretation of ecological studies?
+    id: 162978
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 ---
 
 &nbsp;

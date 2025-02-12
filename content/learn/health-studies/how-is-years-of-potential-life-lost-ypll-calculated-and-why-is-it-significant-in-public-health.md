@@ -2,8 +2,10 @@
 _schema: default
 id: 163238
 date: 2025-01-26
-title: How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
-article_title: How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
+title: >-
+    How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
+article_title: >-
+    How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-sig
 url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
 score: -1.0
 related_article1:
-    id: 163330
-    title: Why is it crucial to use the correct denominator when calculating a proportion?
+    id: 163242
+    title: >-
+        How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-does-it-rely-on
 related_article2:
-    id: 163328
-    title: What is the significance of measuring disease frequency over a specific time interval?
+    id: 163325
+    title: >-
+        What is the difference between fixed and dynamic populations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-specific-time-interval
+    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
 related_article3:
-    id: 163063
-    title: Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+    id: 163344
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
 related_article4:
-    id: 163345
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163344
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
+related_article5:
+    id: 163286
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
-related_article5:
-    id: 163245
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164854
 date: 2025-01-28
-title: How does brain damage affect conscious and unconscious memory processes?
-article_title: How does brain damage affect conscious and unconscious memory processes?
+title: >-
+    How does brain damage affect conscious and unconscious memory processes?
+article_title: >-
+    How does brain damage affect conscious and unconscious memory processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-brain-damage-affect-conscious-and-unconscious-memory-process
 url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
 score: -1.0
 related_article1:
-    id: 164858
-    title: What memory deficits are associated with damage to the hippocampus, and what are some notable case studies?
+    id: 164859
+    title: >-
+        Define single dissociation and double dissociation, and provide an example of each.
     subject: Psychology
-    url: /learn/psychology/questions/what-memory-deficits-are-associated-with-damage-to-the-hippocampus-and-what-are-some-notable-case-studies
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
 related_article2:
-    id: 164860
-    title: Why is the concept of double dissociation important in neuropsychology, and what are its limitations?
+    id: 164869
+    title: >-
+        How does neurodivergence, such as ADHD and autism, impact memory processes?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-the-concept-of-double-dissociation-important-in-neuropsychology-and-what-are-its-limitations
+    url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
 related_article3:
-    id: 164856
-    title: How do theories and debates address the overlaps between short-term and long-term memory?
+    id: 164868
+    title: >-
+        Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
 related_article4:
-    id: 164864
-    title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+    id: 164865
+    title: >-
+        What is brain plasticity, and how do neural adaptation and recovery from injury contribute to it?
     subject: Psychology
-    url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
+    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-do-neural-adaptation-and-recovery-from-injury-contribute-to-it
+related_article5:
+    id: 164859
+    title: >-
+        Define single dissociation and double dissociation, and provide an example of each.
+    subject: Psychology
+    url: /learn/psychology/questions/define-single-dissociation-and-double-dissociation-and-provide-an-example-of-each
 ---
 
 &nbsp;

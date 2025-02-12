@@ -2,8 +2,10 @@
 _schema: default
 id: 167105
 date: 2025-01-31
-title: How are amino acids classified based on polarity and charge?
-article_title: How are amino acids classified based on polarity and charge?
+title: >-
+    How are amino acids classified based on polarity and charge?
+article_title: >-
+    How are amino acids classified based on polarity and charge?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-amino-acids-classified-based-on-polarity-and-charge.md
 url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
 score: -1.0
 related_article1:
-    id: 167099
-    title: What roles do lipids play in energy storage and cell membrane structure?
+    id: 167111
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
+    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 related_article2:
-    id: 167087
-    title: What are the main roles of biological molecules in cells?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
-related_article3:
-    id: 167089
-    title: What are the four main classes of biological molecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
-related_article4:
     id: 167104
-    title: What is the general structure of an amino acid and how do side chains affect their properties?
+    title: >-
+        What is the general structure of an amino acid and how do side chains affect their properties?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
-related_article5:
-    id: 167101
-    title: What are the common examples of disaccharides and their functions?
+related_article3:
+    id: 167108
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in protein folding?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-examples-of-disaccharides-and-their-functions
+    url: /learn/health-studies/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-protein-folding
+related_article4:
+    id: 167088
+    title: >-
+        Why are functional groups important in biological molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+related_article5:
+    id: 167091
+    title: >-
+        What are the key characteristics of organic molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162263
 date: 2025-01-25
-title: How can you evaluate the trustworthiness of information and the author's intentions in a text?
-article_title: How can you evaluate the trustworthiness of information and the author's intentions in a text?
+title: >-
+    How can you evaluate the trustworthiness of information and the author's intentions in a text?
+article_title: >-
+    How can you evaluate the trustworthiness of information and the author's intentions in a text?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-evaluate-the-trustworthiness-of-information-and-the-autho
 url: /learn/education-studies/questions/how-can-you-evaluate-the-trustworthiness-of-information-and-the-authors-intentions-in-a-text
 score: -1.0
 related_article1:
-    id: 162255
-    title: How can an author's professional affiliations and expert credentials influence their purpose in writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
-related_article2:
-    id: 162560
-    title: What are the different types of evidence commonly used in texts, and how do they support claims?
+    id: 162258
+    title: >-
+        What are the different types of evidence commonly used in texts, and how do they support claims?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-different-types-of-evidence-commonly-used-in-texts-and-how-do-they-support-claims
-related_article3:
-    id: 162559
-    title: How does word choice, including loaded language, impact the point of view presented in a text?
+related_article2:
+    id: 162262
+    title: >-
+        What strategies can be employed to identify bias and persuasive techniques in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
-related_article4:
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
+related_article3:
     id: 162555
-    title: What are some key questions to ask when determining an author's purpose?
+    title: >-
+        What are some key questions to ask when determining an author's purpose?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-key-questions-to-ask-when-determining-an-authors-purpose
-related_article5:
-    id: 162558
-    title: What questions can help identify an author's point of view in a text?
+related_article4:
+    id: 162571
+    title: >-
+        What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/what-are-the-key-health-considerations-for-maintaining-nutritional-balance-and-adequate-protein-sources-in-a-vegetarian-diet
+related_article5:
+    id: 162268
+    title: >-
+        What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-environmental-benefits-of-a-vegetarian-diet-in-terms-of-resource-efficiency-and-greenhouse-gas-emissions
 ---
 
 &nbsp;

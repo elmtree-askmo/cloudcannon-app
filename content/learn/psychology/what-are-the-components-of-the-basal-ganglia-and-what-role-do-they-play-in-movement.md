@@ -2,8 +2,10 @@
 _schema: default
 id: 170531
 date: 2025-02-06
-title: What are the components of the basal ganglia, and what role do they play in movement?
-article_title: What are the components of the basal ganglia, and what role do they play in movement?
+title: >-
+    What are the components of the basal ganglia, and what role do they play in movement?
+article_title: >-
+    What are the components of the basal ganglia, and what role do they play in movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-pl
 url: /learn/psychology/questions/what-are-the-components-of-the-basal-ganglia-and-what-role-do-they-play-in-movement
 score: -1.0
 related_article1:
-    id: 170540
-    title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
 related_article2:
-    id: 170545
-    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    id: 170522
+    title: >-
+        What are the primary roles of the prefrontal cortex in behavior and working memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+    url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
 related_article3:
-    id: 170536
-    title: How do first and second order neurons function in afferent sensory pathways?
+    id: 170523
+    title: >-
+        How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
 related_article4:
-    id: 170542
-    title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    id: 170522
+    title: >-
+        What are the primary roles of the prefrontal cortex in behavior and working memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+    url: /learn/psychology/questions/what-are-the-primary-roles-of-the-prefrontal-cortex-in-behavior-and-working-memory
 related_article5:
-    id: 170544
-    title: What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+    id: 170541
+    title: >-
+        How is the motor homunculus represented in the motor cortex, and what is its functional significance?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
+    url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
 ---
 
 &nbsp;

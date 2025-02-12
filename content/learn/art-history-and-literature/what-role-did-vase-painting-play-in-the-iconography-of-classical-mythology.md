@@ -2,8 +2,10 @@
 _schema: default
 id: 164006
 date: 2025-01-28
-title: What role did vase painting play in the iconography of Classical Mythology?
-article_title: What role did vase painting play in the iconography of Classical Mythology?
+title: >-
+    What role did vase painting play in the iconography of Classical Mythology?
+article_title: >-
+    What role did vase painting play in the iconography of Classical Mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-vase-painting-play-in-the-iconography-of-classical-myth
 url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
 score: 9.5
 related_article1:
-    id: 164002
-    title: What is the historical context in which Herodotus wrote his histories?
+    id: 164009
+    title: >-
+        What is the importance of sacred places in mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
+    url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
 related_article2:
-    id: 164004
-    title: What are the key characteristics that define a myth?
+    id: 164011
+    title: >-
+        What is the structuralist interpretation of mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-myth
+    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
 related_article3:
-    id: 164002
-    title: What is the historical context in which Herodotus wrote his histories?
+    id: 164008
+    title: >-
+        Why are stone inscriptions significant in Classical Studies?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
+    url: /learn/art-history-and-literature/questions/why-are-stone-inscriptions-significant-in-classical-studies
 related_article4:
-    id: 163998
-    title: What significant event marked the transition from the Hellenistic Period to the Roman Period?
+    id: 163997
+    title: >-
+        How did the Classical Period in Classical Studies come to an end?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-significant-event-marked-the-transition-from-the-hellenistic-period-to-the-roman-period
+    url: /learn/art-history-and-literature/questions/how-did-the-classical-period-in-classical-studies-come-to-an-end
 related_article5:
-    id: 164007
-    title: What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
+    id: 164011
+    title: >-
+        What is the structuralist interpretation of mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-themes-explored-in-homeric-texts-like-the-iliad-and-the-odyssey
+    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
 ---
 
 &nbsp;

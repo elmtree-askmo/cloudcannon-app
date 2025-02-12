@@ -2,8 +2,10 @@
 _schema: default
 id: 170742
 date: 2025-02-06
-title: What are the key steps involved in an induction proof?
-article_title: What are the key steps involved in an induction proof?
+title: >-
+    What are the key steps involved in an induction proof?
+article_title: >-
+    What are the key steps involved in an induction proof?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-steps-involved-in-an-induction-proof.md
 url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
 score: -1.0
 related_article1:
-    id: 170750
-    title: What is the binomial series and how is it expanded?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
-related_article2:
-    id: 170749
-    title: How do you determine the common ratio and first term in a geometric series?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
-related_article3:
     id: 170753
-    title: What are the properties of the natural logarithm of a factorial?
+    title: >-
+        What are the properties of the natural logarithm of a factorial?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
-related_article4:
+related_article2:
     id: 170751
-    title: How can the binomial series be applied in mathematical proofs?
+    title: >-
+        How can the binomial series be applied in mathematical proofs?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
-related_article5:
-    id: 170738
-    title: How does inductive reasoning differ from deductive reasoning?
+related_article3:
+    id: 170751
+    title: >-
+        How can the binomial series be applied in mathematical proofs?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
+    url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
+related_article4:
+    id: 170748
+    title: >-
+        What is the formula for the sum of a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-formula-for-the-sum-of-a-geometric-series
+related_article5:
+    id: 170743
+    title: >-
+        How can integer properties be used in inductive proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
 ---
 
 &nbsp;

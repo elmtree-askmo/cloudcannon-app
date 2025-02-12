@@ -2,8 +2,10 @@
 _schema: default
 id: 166031
 date: 2025-01-29
-title: How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
-article_title: How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
+title: >-
+    How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
+article_title: >-
+    How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-did-pseudoaristotle-contribute-to
 score: 9.0
 related_article1:
     id: 166021
-    title: How did the concept of direct democracy function in ancient Athens?
+    title: >-
+        How did the concept of direct democracy function in ancient Athens?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
 related_article2:
-    id: 166035
-    title: How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
+    id: 166028
+    title: >-
+        How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
+    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
 related_article3:
-    id: 166021
-    title: How did the concept of direct democracy function in ancient Athens?
+    id: 166025
+    title: >-
+        How did Solon's reforms impact the socioeconomic classes in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
+    url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
 related_article4:
-    id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    id: 166029
+    title: >-
+        What were the defining characteristics of oligarchic factions in ancient Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
+    url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
 related_article5:
-    id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    id: 166017
+    title: >-
+        What was the historical significance of Athens as an urban center in ancient times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
+    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
 ---
 
 &nbsp;

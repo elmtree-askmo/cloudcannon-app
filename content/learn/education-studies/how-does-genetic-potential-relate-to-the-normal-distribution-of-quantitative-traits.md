@@ -2,8 +2,10 @@
 _schema: default
 id: 167851
 date: 2025-02-01
-title: How does genetic potential relate to the normal distribution of quantitative traits?
-article_title: How does genetic potential relate to the normal distribution of quantitative traits?
+title: >-
+    How does genetic potential relate to the normal distribution of quantitative traits?
+article_title: >-
+    How does genetic potential relate to the normal distribution of quantitative traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-genetic-potential-relate-to-the-normal-distribution-of-quant
 url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
 score: -1.0
 related_article1:
-    id: 167837
-    title: How do conditional lethal alleles demonstrate environmental influence on genetic expression?
+    id: 167836
+    title: >-
+        Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
+    url: /learn/education-studies/questions/explain-the-concept-of-lethal-alleles-and-differentiate-between-dominant-and-recessive-lethal-alleles
 related_article2:
-    id: 167844
-    title: Explain the concept of heritability and its importance in understanding genetic variance.
+    id: 167838
+    title: >-
+        What is epistasis, and how does it affect genetic pathways? Provide an example.
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
+    url: /learn/education-studies/questions/what-is-epistasis-and-how-does-it-affect-genetic-pathways-provide-an-example
 related_article3:
-    id: 167833
-    title: What is incomplete penetrance, and how does it affect phenotypic expression?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-phenotypic-expression
-related_article4:
     id: 167831
-    title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
+    title: >-
+        What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-principle-of-independent-assortment-in-mendelian-genetics-and-can-you-provide-an-example
-related_article5:
-    id: 167849
-    title: What is the difference between incomplete dominance and incomplete penetrance?
+related_article4:
+    id: 167843
+    title: >-
+        What is the significance of quantitative traits in genetics, and how are they measured?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
+    url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
+related_article5:
+    id: 167842
+    title: >-
+        How do environmental factors influence genetic potential in polygenic inheritance?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-environmental-factors-influence-genetic-potential-in-polygenic-inheritance
 ---
 
 &nbsp;

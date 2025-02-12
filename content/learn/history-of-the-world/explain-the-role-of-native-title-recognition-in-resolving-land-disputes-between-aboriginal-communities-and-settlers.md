@@ -2,8 +2,10 @@
 _schema: default
 id: 169027
 date: 2025-02-04
-title: Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
-article_title: Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+title: >-
+    Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+article_title: >-
+    Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-role-of-native-title-recognition-in-resolving-land-disput
 url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
 score: 9.0
 related_article1:
-    id: 169024
-    title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+    id: 169035
+    title: >-
+        Explain the role of the Native Title Act in the legal framework for Aboriginal land rights.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
+    url: /learn/history-of-the-world/questions/explain-the-role-of-the-native-title-act-in-the-legal-framework-for-aboriginal-land-rights
 related_article2:
-    id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
-related_article3:
-    id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
-related_article4:
-    id: 169025
-    title: Identify and describe the significance of one notable memorial related to Aboriginal massacres.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-and-describe-the-significance-of-one-notable-memorial-related-to-aboriginal-massacres
-related_article5:
     id: 169034
-    title: What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
+    title: >-
+        What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
+related_article3:
+    id: 169036
+    title: >-
+        What are the main challenges faced in the preservation of Aboriginal heritage sites?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
+related_article4:
+    id: 169035
+    title: >-
+        Explain the role of the Native Title Act in the legal framework for Aboriginal land rights.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-role-of-the-native-title-act-in-the-legal-framework-for-aboriginal-land-rights
+related_article5:
+    id: 169032
+    title: >-
+        What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-contemporary-challenges-faced-by-aboriginal-communities-in-preserving-their-cultural-identity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164178
 date: 2025-01-28
-title: Describe a common use case for clustering in unsupervised learning.
-article_title: Describe a common use case for clustering in unsupervised learning.
+title: >-
+    Describe a common use case for clustering in unsupervised learning.
+article_title: >-
+    Describe a common use case for clustering in unsupervised learning.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-a-common-use-case-for-clustering-in-unsupervised-learning.md
 url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
 score: -1.0
 related_article1:
-    id: 164182
-    title: What is the purpose of statistical measures in descriptive analysis?
-    subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
-related_article2:
-    id: 164182
-    title: What is the purpose of statistical measures in descriptive analysis?
-    subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
-related_article3:
-    id: 164157
-    title: What are the key considerations for ensuring data quality during data collection?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-considerations-for-ensuring-data-quality-during-data-collection
-related_article4:
-    id: 164167
-    title: Explain the significance of operating systems in software systems.
-    subject: Others
-    url: /learn/others/questions/explain-the-significance-of-operating-systems-in-software-systems
-related_article5:
     id: 164176
-    title: How is sentiment analysis used in text processing?
+    title: >-
+        How is sentiment analysis used in text processing?
     subject: Others
     url: /learn/others/questions/how-is-sentiment-analysis-used-in-text-processing
+related_article2:
+    id: 164174
+    title: >-
+        Differentiate between batch processing and real-time processing in data processing.
+    subject: Others
+    url: /learn/others/questions/differentiate-between-batch-processing-and-realtime-processing-in-data-processing
+related_article3:
+    id: 164180
+    title: >-
+        How do search algorithms contribute to AI algorithms?
+    subject: Others
+    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
+related_article4:
+    id: 164171
+    title: >-
+        How do expert systems serve as a knowledge source?
+    subject: Others
+    url: /learn/others/questions/how-do-expert-systems-serve-as-a-knowledge-source
+related_article5:
+    id: 164183
+    title: >-
+        How do forecasting models contribute to predictive analysis?
+    subject: Others
+    url: /learn/others/questions/how-do-forecasting-models-contribute-to-predictive-analysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169922
 date: 2025-02-05
-title: How do marginal cost and benefit influence consumer choices?
-article_title: How do marginal cost and benefit influence consumer choices?
+title: >-
+    How do marginal cost and benefit influence consumer choices?
+article_title: >-
+    How do marginal cost and benefit influence consumer choices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-marginal-cost-and-benefit-influence-consumer-choices.md
 url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
 score: -1.0
 related_article1:
-    id: 169930
-    title: How does education function as an investment in the labor market?
+    id: 169928
+    title: >-
+        What factors contribute to economic growth, and what role do innovation and technology play?
     subject: Economics
-    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
 related_article2:
-    id: 169926
-    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    id: 169928
+    title: >-
+        What factors contribute to economic growth, and what role do innovation and technology play?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
 related_article3:
-    id: 169917
-    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    id: 169918
+    title: >-
+        How does commodification impact the perception of labor and nature in economic terms?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
+    url: /learn/economics/questions/how-does-commodification-impact-the-perception-of-labor-and-nature-in-economic-terms
 related_article4:
-    id: 169926
-    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    id: 169936
+    title: >-
+        How are the principles of supply and demand applied in policy making and business strategy?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+    url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
 related_article5:
-    id: 169919
-    title: Explain the concept of scarcity and its economic implications.
+    id: 169925
+    title: >-
+        How do supply and demand dynamics influence pricing strategies in a market?
     subject: Economics
-    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
+    url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
 ---
 
 &nbsp;

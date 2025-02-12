@@ -2,8 +2,10 @@
 _schema: default
 id: 165338
 date: 2025-01-29
-title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
-article_title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+title: >-
+    What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+article_title: >-
+    What is the significance of the unique sequence of amino acids in the primary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the
 url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
 score: -1.0
 related_article1:
-    id: 165343
-    title: How do ionic bonds form between charged R groups in proteins?
+    id: 165341
+    title: >-
+        How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
     subject: Biology
-    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
+    url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
 related_article2:
-    id: 165336
-    title: Describe the process of peptide bond formation through dehydration reactions.
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
 related_article3:
-    id: 165342
-    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    id: 165340
+    title: >-
+        What types of bonds and interactions contribute to the tertiary structure of proteins?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+    url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
 related_article4:
-    id: 165346
-    title: What are the structural components of a nucleotide?
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
 related_article5:
-    id: 165336
-    title: Describe the process of peptide bond formation through dehydration reactions.
+    id: 165345
+    title: >-
+        What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168448
 date: 2025-02-03
-title: How do self-assessment questionnaires help in career planning?
-article_title: How do self-assessment questionnaires help in career planning?
+title: >-
+    How do self-assessment questionnaires help in career planning?
+article_title: >-
+    How do self-assessment questionnaires help in career planning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-selfassessment-questionnaires-help-in-career-planning.md
 url: /learn/psychology/questions/how-do-selfassessment-questionnaires-help-in-career-planning
 score: -1.0
 related_article1:
+    id: 168437
+    title: >-
+        What are the differences between sensing and intuition in personality types?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-sensing-and-intuition-in-personality-types
+related_article2:
+    id: 168452
+    title: >-
+        How can narrowing interests help in career planning?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-narrowing-interests-help-in-career-planning
+related_article3:
     id: 168441
-    title: How does seeking entertainment and solitude affect lifestyle choices?
+    title: >-
+        How does seeking entertainment and solitude affect lifestyle choices?
     subject: Psychology
     url: /learn/psychology/questions/how-does-seeking-entertainment-and-solitude-affect-lifestyle-choices
-related_article2:
-    id: 168447
-    title: What careers are suitable for Analysts and Diplomats?
-    subject: Psychology
-    url: /learn/psychology/questions/what-careers-are-suitable-for-analysts-and-diplomats
-related_article3:
-    id: 168453
-    title: What tools are available for evaluating skills and values in career decision-making?
-    subject: Psychology
-    url: /learn/psychology/questions/what-tools-are-available-for-evaluating-skills-and-values-in-career-decisionmaking
 related_article4:
-    id: 168445
-    title: What are the characteristics of the Realistic and Investigative work personality categories?
+    id: 168438
+    title: >-
+        How does adaptability to change impact career choices?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-the-realistic-and-investigative-work-personality-categories
+    url: /learn/psychology/questions/how-does-adaptability-to-change-impact-career-choices
 related_article5:
-    id: 168434
-    title: How do emotional qualities influence career choices?
+    id: 168435
+    title: >-
+        What is the purpose of online personality questionnaires?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-emotional-qualities-influence-career-choices
+    url: /learn/psychology/questions/what-is-the-purpose-of-online-personality-questionnaires
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166601
 date: 2025-01-30
-title: Who are the major Greek gods and goddesses, and what are their relationships?
-article_title: Who are the major Greek gods and goddesses, and what are their relationships?
+title: >-
+    Who are the major Greek gods and goddesses, and what are their relationships?
+article_title: >-
+    Who are the major Greek gods and goddesses, and what are their relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relatio
 url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
 score: -1.0
 related_article1:
-    id: 166611
-    title: How did Socratic philosophy influence Western thought?
+    id: 166612
+    title: >-
+        What is the role of a 'Hoplite' in ancient Greek military terminology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-socratic-philosophy-influence-western-thought
+    url: /learn/education-studies/questions/what-is-the-role-of-a-hoplite-in-ancient-greek-military-terminology
 related_article2:
-    id: 166599
-    title: How do diacritics in Greek affect the pronunciation of names like Helen and Hermes?
+    id: 166598
+    title: >-
+        What are the key differences between capital and lower case Greek letters, and how are they used in math and science?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-diacritics-in-greek-affect-the-pronunciation-of-names-like-helen-and-hermes
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-capital-and-lower-case-greek-letters-and-how-are-they-used-in-math-and-science
 related_article3:
-    id: 166606
-    title: What was the significance of rhetoric in ancient Greek politics and society?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-was-the-significance-of-rhetoric-in-ancient-greek-politics-and-society
-related_article4:
     id: 166600
-    title: What are some challenges faced in the transliteration of Greek names into English?
+    title: >-
+        What are some challenges faced in the transliteration of Greek names into English?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-challenges-faced-in-the-transliteration-of-greek-names-into-english
-related_article5:
-    id: 166611
-    title: How did Socratic philosophy influence Western thought?
+related_article4:
+    id: 166607
+    title: >-
+        Identify two common Greek roots found in English vocabulary and their meanings.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-socratic-philosophy-influence-western-thought
+    url: /learn/education-studies/questions/identify-two-common-greek-roots-found-in-english-vocabulary-and-their-meanings
+related_article5:
+    id: 166612
+    title: >-
+        What is the role of a 'Hoplite' in ancient Greek military terminology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-a-hoplite-in-ancient-greek-military-terminology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164841
 date: 2025-01-28
-title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
-article_title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+title: >-
+    In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+article_title: >-
+    In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-does-consciousness-affect-decisionmaking-and-selfconscio
 url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
 score: -1.0
 related_article1:
+    id: 164837
+    title: >-
+        How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+related_article2:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article3:
+    id: 164848
+    title: >-
+        What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
+related_article4:
     id: 164846
-    title: What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
-related_article2:
-    id: 164844
-    title: What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
-related_article3:
-    id: 164845
-    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
-related_article4:
-    id: 164835
-    title: How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
 related_article5:
-    id: 164842
-    title: What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
 ---
 
 &nbsp;

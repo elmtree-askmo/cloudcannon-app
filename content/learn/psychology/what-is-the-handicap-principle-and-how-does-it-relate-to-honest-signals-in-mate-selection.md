@@ -2,8 +2,10 @@
 _schema: default
 id: 170877
 date: 2025-02-07
-title: What is the handicap principle, and how does it relate to honest signals in mate selection?
-article_title: What is the handicap principle, and how does it relate to honest signals in mate selection?
+title: >-
+    What is the handicap principle, and how does it relate to honest signals in mate selection?
+article_title: >-
+    What is the handicap principle, and how does it relate to honest signals in mate selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signa
 url: /learn/psychology/questions/what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signals-in-mate-selection
 score: -1.0
 related_article1:
-    id: 170874
-    title: How does the healthy mate theory explain mate selection?
+    id: 170871
+    title: >-
+        How does female choosiness affect selection pressures in parental investment?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-healthy-mate-theory-explain-mate-selection
+    url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
 related_article2:
-    id: 170872
-    title: What are the main types of intrasexual competition, and how do they differ?
+    id: 170878
+    title: >-
+        How does frequency-dependent selection affect color frequency changes in a population?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-types-of-intrasexual-competition-and-how-do-they-differ
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-affect-color-frequency-changes-in-a-population
 related_article3:
-    id: 170879
-    title: What are the trade-offs between natural and sexual selection, and how do they influence color variation?
+    id: 170869
+    title: >-
+        How does anisotropic selection influence sexual selection?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
+    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
 related_article4:
-    id: 170870
-    title: What are the consequences of asymmetry in parental investment for male and female roles?
+    id: 170876
+    title: >-
+        Explain the Fisherian runaway process and its impact on trait evolution.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
+    url: /learn/psychology/questions/explain-the-fisherian-runaway-process-and-its-impact-on-trait-evolution
 related_article5:
-    id: 170879
-    title: What are the trade-offs between natural and sexual selection, and how do they influence color variation?
+    id: 170871
+    title: >-
+        How does female choosiness affect selection pressures in parental investment?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
+    url: /learn/psychology/questions/how-does-female-choosiness-affect-selection-pressures-in-parental-investment
 ---
 
 &nbsp;

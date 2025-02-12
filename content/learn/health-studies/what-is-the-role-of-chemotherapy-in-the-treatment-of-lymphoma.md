@@ -2,8 +2,10 @@
 _schema: default
 id: 166311
 date: 2025-01-30
-title: What is the role of chemotherapy in the treatment of lymphoma?
-article_title: What is the role of chemotherapy in the treatment of lymphoma?
+title: >-
+    What is the role of chemotherapy in the treatment of lymphoma?
+article_title: >-
+    What is the role of chemotherapy in the treatment of lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma.md
 url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
 score: -1.0
 related_article1:
-    id: 166310
-    title: How is lymphoma diagnosed and classified through biopsy?
+    id: 166315
+    title: >-
+        What are the causes and symptoms of leukopenia and neutropenia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-through-biopsy
+    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
 related_article2:
-    id: 166310
-    title: How is lymphoma diagnosed and classified through biopsy?
+    id: 166295
+    title: >-
+        What are the primary risk factors for developing leukemia related to radiation exposure?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-through-biopsy
+    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
 related_article3:
-    id: 166305
-    title: How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+    id: 166308
+    title: >-
+        What are the clinical manifestations of lymph node enlargement in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
+    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
 related_article4:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    id: 166316
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 related_article5:
-    id: 166297
-    title: What viral infections are associated with an increased risk of leukemia?
+    id: 166300
+    title: >-
+        How does organ infiltration present in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
+    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
 ---
 
 &nbsp;

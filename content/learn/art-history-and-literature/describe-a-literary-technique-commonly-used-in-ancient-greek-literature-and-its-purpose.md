@@ -2,8 +2,10 @@
 _schema: default
 id: 163899
 date: 2025-01-28
-title: Describe a literary technique commonly used in ancient Greek literature and its purpose.
-article_title: Describe a literary technique commonly used in ancient Greek literature and its purpose.
+title: >-
+    Describe a literary technique commonly used in ancient Greek literature and its purpose.
+article_title: >-
+    Describe a literary technique commonly used in ancient Greek literature and its purpose.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-a-literary-technique-commonly-used-in-ancient-greek-literatu
 url: /learn/art-history-and-literature/questions/describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose
 score: 9.0
 related_article1:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
-related_article2:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
-related_article3:
-    id: 163906
-    title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
-related_article4:
-    id: 163898
-    title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
-related_article5:
     id: 163904
-    title: In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+    title: >-
+        In what ways did Greek myths influence the values and beliefs of ancient Greek society?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+related_article2:
+    id: 163896
+    title: >-
+        List the defining characteristics of epic poetry in ancient Greek literature.
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
+related_article3:
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
+related_article4:
+    id: 163901
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
+related_article5:
+    id: 163907
+    title: >-
+        How did historical events influence the development and interpretation of Greek myths over time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-historical-events-influence-the-development-and-interpretation-of-greek-myths-over-time
 ---
 
 &nbsp;

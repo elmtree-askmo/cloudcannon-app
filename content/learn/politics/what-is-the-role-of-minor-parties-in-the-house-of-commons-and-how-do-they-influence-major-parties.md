@@ -2,8 +2,10 @@
 _schema: default
 id: 165621
 date: 2025-01-29
-title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
-article_title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
+title: >-
+    What is the role of minor parties in the House of Commons, and how do they influence major parties?
+article_title: >-
+    What is the role of minor parties in the House of Commons, and how do they influence major parties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-
 url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
 score: -1.0
 related_article1:
-    id: 165637
-    title: What lessons can be learned from past elections in terms of political strategy?
+    id: 165624
+    title: >-
+        Why is economic stability considered a priority during elections?
     subject: Politics
-    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
 related_article2:
-    id: 165623
-    title: What are the main challenges in the housing market related to affordability and inflation?
+    id: 165626
+    title: >-
+        How do domestic climate policies differ from international climate policies in Canada?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 related_article3:
-    id: 165625
-    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    id: 165619
+    title: >-
+        What roles do Members of Parliament (MPs) play in rural versus urban areas in Canadian politics?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+    url: /learn/politics/questions/what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics
 related_article4:
-    id: 165623
-    title: What are the main challenges in the housing market related to affordability and inflation?
+    id: 165617
+    title: >-
+        What are the main differences between majority rule and most votes in an electoral system?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
 related_article5:
-    id: 165622
-    title: How do economic and social issues influence voting behavior in Canada?
+    id: 165631
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
     subject: Politics
-    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
 ---
 
 &nbsp;

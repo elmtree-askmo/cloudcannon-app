@@ -2,8 +2,10 @@
 _schema: default
 id: 166809
 date: 2025-01-31
-title: How does electron sharing occur in covalent bonds?
-article_title: How does electron sharing occur in covalent bonds?
+title: >-
+    How does electron sharing occur in covalent bonds?
+article_title: >-
+    How does electron sharing occur in covalent bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-electron-sharing-occur-in-covalent-bonds.md
 url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
 score: -1.0
 related_article1:
+    id: 166799
+    title: >-
+        What is the role of neutrons in the atomic nucleus?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+related_article2:
+    id: 166810
+    title: >-
+        What is the chemical structure of sodium chloride and how is it formed?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
+related_article3:
     id: 166802
-    title: What is the charge of an electron and where are they located in an atom?
+    title: >-
+        What is the charge of an electron and where are they located in an atom?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-charge-of-an-electron-and-where-are-they-located-in-an-atom
-related_article2:
-    id: 166796
-    title: What are the building blocks of matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
-related_article3:
-    id: 166812
-    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
 related_article4:
-    id: 166808
-    title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    id: 166799
+    title: >-
+        What is the role of neutrons in the atomic nucleus?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
+    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
 related_article5:
-    id: 166808
-    title: What is the main difference between ionic and covalent bonds in terms of electron interaction?
+    id: 166806
+    title: >-
+        How are ions formed in the context of ionic bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
+    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
 ---
 
 &nbsp;

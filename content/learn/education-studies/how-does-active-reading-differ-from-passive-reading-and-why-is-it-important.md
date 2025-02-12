@@ -2,8 +2,10 @@
 _schema: default
 id: 164090
 date: 2025-01-28
-title: How does active reading differ from passive reading, and why is it important?
-article_title: How does active reading differ from passive reading, and why is it important?
+title: >-
+    How does active reading differ from passive reading, and why is it important?
+article_title: >-
+    How does active reading differ from passive reading, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-active-reading-differ-from-passive-reading-and-why-is-it-imp
 url: /learn/education-studies/questions/how-does-active-reading-differ-from-passive-reading-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 164099
-    title: What factors should be considered when forming a study group?
+    id: 164088
+    title: >-
+        How can a proper timetable improve daily productivity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-a-study-group
+    url: /learn/education-studies/questions/how-can-a-proper-timetable-improve-daily-productivity
 related_article2:
-    id: 164087
-    title: What are the key components of an effective to-do list for time management?
+    id: 164096
+    title: >-
+        How does identifying bias contribute to critical thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-todo-list-for-time-management
+    url: /learn/education-studies/questions/how-does-identifying-bias-contribute-to-critical-thinking
 related_article3:
-    id: 164098
-    title: How can goal setting and monitoring progress improve learning outcomes?
+    id: 164100
+    title: >-
+        How can group discussions enhance collaborative learning in study groups?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-goal-setting-and-monitoring-progress-improve-learning-outcomes
+    url: /learn/education-studies/questions/how-can-group-discussions-enhance-collaborative-learning-in-study-groups
 related_article4:
-    id: 164095
-    title: What strategies can be used to evaluate arguments critically?
+    id: 164114
+    title: >-
+        What are some techniques for effective journaling in reflective writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-evaluate-arguments-critically
+    url: /learn/education-studies/questions/what-are-some-techniques-for-effective-journaling-in-reflective-writing
 related_article5:
-    id: 164113
-    title: How can reflective writing be used to learn from personal experiences?
+    id: 164111
+    title: >-
+        How does university structure differ from college, particularly in terms of independent learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-be-used-to-learn-from-personal-experiences
+    url: /learn/education-studies/questions/how-does-university-structure-differ-from-college-particularly-in-terms-of-independent-learning
 ---
 
 &nbsp;

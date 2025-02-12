@@ -2,8 +2,10 @@
 _schema: default
 id: 163036
 date: 2025-01-26
-title: What is the significance of evidence-based practice in therapy?
-article_title: What is the significance of evidence-based practice in therapy?
+title: >-
+    What is the significance of evidence-based practice in therapy?
+article_title: >-
+    What is the significance of evidence-based practice in therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-evidencebased-practice-in-therapy.md
 url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
 score: -1.0
 related_article1:
-    id: 163039
-    title: Why is construct validity important in psychological theories?
+    id: 163032
+    title: >-
+        Why is multicultural competence important in counseling?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
+    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
 related_article2:
-    id: 163041
-    title: Why is past behavior considered a strong predictor of future behavior in therapy?
+    id: 163034
+    title: >-
+        What role does the therapeutic relationship play in treatment outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+    url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
 related_article3:
-    id: 163028
-    title: What characteristics make a theory effective in psychotherapy?
-    subject: Psychology
-    url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
-related_article4:
-    id: 163033
-    title: How do power imbalances affect cultural safety in therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
-related_article5:
     id: 163040
-    title: How does the integration of therapeutic approaches enhance treatment effectiveness?
+    title: >-
+        How does the integration of therapeutic approaches enhance treatment effectiveness?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-integration-of-therapeutic-approaches-enhance-treatment-effectiveness
+related_article4:
+    id: 163038
+    title: >-
+        What therapist factors can negatively impact the therapeutic process?
+    subject: Psychology
+    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
+related_article5:
+    id: 163034
+    title: >-
+        What role does the therapeutic relationship play in treatment outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170354
 date: 2025-02-06
-title: How is glucose formed during photosynthesis, and what is its role in cellular respiration?
-article_title: How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+title: >-
+    How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+article_title: >-
+    How is glucose formed during photosynthesis, and what is its role in cellular respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-c
 url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
 score: -1.0
 related_article1:
-    id: 170355
-    title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+    id: 170352
+    title: >-
+        How is ATP formed, and what is its role in energy transfer within cells?
     subject: Biology
-    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
 related_article2:
-    id: 170345
-    title: How does photosynthesis contribute to the balance of ecosystems?
-    subject: Biology
-    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
-related_article3:
     id: 170347
-    title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    title: >-
+        Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
     subject: Biology
     url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
+related_article3:
+    id: 170350
+    title: >-
+        What role do decomposers play in the recycling of matter within ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems
 related_article4:
-    id: 170355
-    title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+    id: 170352
+    title: >-
+        How is ATP formed, and what is its role in energy transfer within cells?
     subject: Biology
-    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
 related_article5:
-    id: 170346
-    title: What is cellular respiration, and why is it important for organisms?
+    id: 170349
+    title: >-
+        Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
     subject: Biology
-    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
 ---
 
 &nbsp;

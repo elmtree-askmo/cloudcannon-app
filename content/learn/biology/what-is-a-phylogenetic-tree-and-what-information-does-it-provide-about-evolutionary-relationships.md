@@ -2,8 +2,10 @@
 _schema: default
 id: 166363
 date: 2025-01-30
-title: What is a phylogenetic tree and what information does it provide about evolutionary relationships?
-article_title: What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+title: >-
+    What is a phylogenetic tree and what information does it provide about evolutionary relationships?
+article_title: >-
+    What is a phylogenetic tree and what information does it provide about evolutionary relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-phylogenetic-tree-and-what-information-does-it-provide-abou
 url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
 score: -1.0
 related_article1:
-    id: 166353
-    title: What are Tinbergen's four questions and how do they help in understanding animal behavior?
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
     subject: Biology
-    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
 related_article2:
-    id: 166371
-    title: What are the sources of genetic variation and why are they important for evolution?
+    id: 166359
+    title: >-
+        How does parent-offspring regression help in understanding heritability?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
 related_article3:
+    id: 166355
+    title: >-
+        What are Darwin's postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article4:
     id: 166372
-    title: How is the selection differential calculated and what does it indicate?
+    title: >-
+        How is the selection differential calculated and what does it indicate?
     subject: Biology
     url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
-related_article4:
-    id: 166367
-    title: What role do neurobiological influences play in shaping behavior?
-    subject: Biology
-    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
 related_article5:
-    id: 166367
-    title: What role do neurobiological influences play in shaping behavior?
+    id: 166355
+    title: >-
+        What are Darwin's postulates and how do they relate to natural selection?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
 ---
 
 &nbsp;

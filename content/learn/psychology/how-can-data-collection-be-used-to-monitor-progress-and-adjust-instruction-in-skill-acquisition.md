@@ -2,8 +2,10 @@
 _schema: default
 id: 169349
 date: 2025-02-05
-title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
-article_title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+title: >-
+    How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+article_title: >-
+    How can data collection be used to monitor progress and adjust instruction in skill acquisition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-data-collection-be-used-to-monitor-progress-and-adjust-instru
 url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
 score: -1.0
 related_article1:
+    id: 169340
+    title: >-
+        How does observational learning contribute to social development, and what role does imitation play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
+related_article2:
+    id: 169342
+    title: >-
+        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article3:
+    id: 169354
+    title: >-
+        What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
+related_article4:
     id: 169341
-    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    title: >-
+        What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
     subject: Psychology
     url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
-related_article2:
-    id: 169359
-    title: How can assistive devices and communication systems foster independence in learning?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
-related_article3:
-    id: 169335
-    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
-related_article4:
-    id: 169336
-    title: What is errorless learning, and how does it differ from trial and error learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
 related_article5:
-    id: 169359
-    title: How can assistive devices and communication systems foster independence in learning?
+    id: 169333
+    title: >-
+        What are some common causes of prompt dependency, and how can it be prevented?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+    url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
 ---
 
 &nbsp;

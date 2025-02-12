@@ -2,8 +2,10 @@
 _schema: default
 id: 170559
 date: 2025-02-06
-title: How have innovations in medical devices improved pain management?
-article_title: How have innovations in medical devices improved pain management?
+title: >-
+    How have innovations in medical devices improved pain management?
+article_title: >-
+    How have innovations in medical devices improved pain management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-innovations-in-medical-devices-improved-pain-management.md
 url: /learn/health-studies/questions/how-have-innovations-in-medical-devices-improved-pain-management
 score: -1.0
 related_article1:
-    id: 170560
-    title: What are the primary pathophysiological features of Parkinson's disease?
+    id: 170573
+    title: >-
+        How does electron microscopy differ from light microscopy in imaging applications?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
+    url: /learn/health-studies/questions/how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-applications
 related_article2:
-    id: 170563
-    title: How does cognitive dissonance influence behavior according to psychological theories?
+    id: 170573
+    title: >-
+        How does electron microscopy differ from light microscopy in imaging applications?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
+    url: /learn/health-studies/questions/how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-applications
 related_article3:
     id: 170577
-    title: How do local auto-regulation mechanisms affect blood vessel response?
+    title: >-
+        How do local auto-regulation mechanisms affect blood vessel response?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-local-autoregulation-mechanisms-affect-blood-vessel-response
 related_article4:
-    id: 170550
-    title: What mechanisms are involved in temperature regulation within the human body?
+    id: 170560
+    title: >-
+        What are the primary pathophysiological features of Parkinson's disease?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
+    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
 related_article5:
-    id: 170566
-    title: Describe the coagulation cascade involved in blood clotting mechanisms.
+    id: 170553
+    title: >-
+        How does neurotransmitter blockage affect nervous system function?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
+    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
 ---
 
 &nbsp;

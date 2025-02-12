@@ -2,8 +2,10 @@
 _schema: default
 id: 169164
 date: 2025-02-04
-title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
-article_title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+title: >-
+    How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+article_title: >-
+    How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-cultural-reclamation-empower-indigenous-communities-in-recla
 url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
 score: -1.0
 related_article1:
-    id: 169154
-    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    id: 169162
+    title: >-
+        How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
 related_article2:
-    id: 169158
-    title: How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    id: 169157
+    title: >-
+        What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
 related_article3:
-    id: 169167
-    title: What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+    id: 169170
+    title: >-
+        How does the impact of colonialism necessitate historical reckoning and urgent conversations within Indigenous communities?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
+    url: /learn/sociology/questions/how-does-the-impact-of-colonialism-necessitate-historical-reckoning-and-urgent-conversations-within-indigenous-communities
 related_article4:
-    id: 169159
-    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    id: 169155
+    title: >-
+        What role do national and tribal museums play in Indigenous public history?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
 related_article5:
-    id: 169154
-    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+    id: 169168
+    title: >-
+        How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+    url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
 ---
 
 &nbsp;

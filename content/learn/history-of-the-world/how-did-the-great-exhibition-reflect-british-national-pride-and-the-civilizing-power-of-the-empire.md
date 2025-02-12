@@ -2,8 +2,10 @@
 _schema: default
 id: 163988
 date: 2025-01-28
-title: How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
-article_title: How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
+title: >-
+    How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
+article_title: >-
+    How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-
 score: 9.0
 related_article1:
     id: 163990
-    title: What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
+    title: >-
+        What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
 related_article2:
-    id: 163978
-    title: What were the origins of World Expos, and how did they evolve over time?
+    id: 163984
+    title: >-
+        How did the development of public museums transition from private collections, and what was their educational purpose?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-origins-of-world-expos-and-how-did-they-evolve-over-time
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
 related_article3:
-    id: 163983
-    title: What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-criticisms-and-controversies-surrounding-the-great-exhibition-particularly-regarding-public-perception-and-abolitionist-demonstrations
-related_article4:
     id: 163995
-    title: How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
+    title: >-
+        How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
-related_article5:
-    id: 163989
-    title: In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
+related_article4:
+    id: 163994
+    title: >-
+        What lasting impact did the Great Exhibition have on modern museums and cultural education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
+    url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
+related_article5:
+    id: 163987
+    title: >-
+        How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
 ---
 
 &nbsp;

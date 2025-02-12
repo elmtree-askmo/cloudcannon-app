@@ -2,8 +2,10 @@
 _schema: default
 id: 168908
 date: 2025-02-04
-title: What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
-article_title: What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
+title: >-
+    What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
+article_title: >-
+    What are the main components of a phospholipid and how do they contribute to the structure of the plasma membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-a-phospholipid-and-how-do-they-contri
 url: /learn/biology/questions/what-are-the-main-components-of-a-phospholipid-and-how-do-they-contribute-to-the-structure-of-the-plasma-membrane
 score: -1.0
 related_article1:
+    id: 168914
+    title: >-
+        How do glycoproteins contribute to cell recognition processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-processes
+related_article2:
+    id: 168912
+    title: >-
+        What is the role of integral proteins in the plasma membrane, and how are they positioned within the membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-integral-proteins-in-the-plasma-membrane-and-how-are-they-positioned-within-the-membrane
+related_article3:
     id: 168911
-    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
+    title: >-
+        Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
     subject: Biology
     url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
-related_article2:
-    id: 168915
-    title: What is the function of glycolipids in maintaining membrane stability?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-glycolipids-in-maintaining-membrane-stability
-related_article3:
-    id: 168910
-    title: What is the difference between saturated and unsaturated fatty acids, and how does each type affect membrane fluidity?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-and-how-does-each-type-affect-membrane-fluidity
 related_article4:
+    id: 168909
+    title: >-
+        How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
+related_article5:
     id: 168915
-    title: What is the function of glycolipids in maintaining membrane stability?
+    title: >-
+        What is the function of glycolipids in maintaining membrane stability?
     subject: Biology
     url: /learn/biology/questions/what-is-the-function-of-glycolipids-in-maintaining-membrane-stability
-related_article5:
-    id: 168913
-    title: Where are peripheral proteins located in the plasma membrane, and what is their primary function?
-    subject: Biology
-    url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
 ---
 
 &nbsp;

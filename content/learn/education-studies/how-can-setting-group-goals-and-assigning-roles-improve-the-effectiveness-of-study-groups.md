@@ -2,8 +2,10 @@
 _schema: default
 id: 160335
 date: 2025-01-24
-title: How can setting group goals and assigning roles improve the effectiveness of study groups?
-article_title: How can setting group goals and assigning roles improve the effectiveness of study groups?
+title: >-
+    How can setting group goals and assigning roles improve the effectiveness of study groups?
+article_title: >-
+    How can setting group goals and assigning roles improve the effectiveness of study groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-setting-group-goals-and-assigning-roles-improve-the-effective
 url: /learn/education-studies/questions/how-can-setting-group-goals-and-assigning-roles-improve-the-effectiveness-of-study-groups
 score: -1.0
 related_article1:
-    id: 160285
-    title: What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
+    id: 159962
+    title: >-
+        What are the advantages and disadvantages of digital versus traditional note-making methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-digital-versus-traditional-notemaking-methods
 related_article2:
-    id: 160569
-    title: What is metacognition, and why is it important for learning?
+    id: 159977
+    title: >-
+        What are the different types of assessments, and how can students prepare effectively for them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-learning
+    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
 related_article3:
-    id: 160275
-    title: How can study groups be effectively organized to achieve group goals?
+    id: 160143
+    title: >-
+        How can students manage their time and stress during exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-study-groups-be-effectively-organized-to-achieve-group-goals
+    url: /learn/education-studies/questions/how-can-students-manage-their-time-and-stress-during-exams
 related_article4:
-    id: 160567
-    title: What are the key components of effective time management, and how do they contribute to academic success?
+    id: 160128
+    title: >-
+        What are the key components of effective time management, and how do they contribute to academic success?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-effective-time-management-and-how-do-they-contribute-to-academic-success
 related_article5:
-    id: 160578
-    title: How can visualization techniques help overcome presentation anxiety?
+    id: 160586
+    title: >-
+        How can students effectively communicate within the university to utilize resources and engage with faculty?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-visualization-techniques-help-overcome-presentation-anxiety
+    url: /learn/education-studies/questions/how-can-students-effectively-communicate-within-the-university-to-utilize-resources-and-engage-with-faculty
 ---
 
 &nbsp;

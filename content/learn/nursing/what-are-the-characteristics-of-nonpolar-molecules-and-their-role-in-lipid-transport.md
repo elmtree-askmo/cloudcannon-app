@@ -2,8 +2,10 @@
 _schema: default
 id: 168825
 date: 2025-02-04
-title: What are the characteristics of non-polar molecules and their role in lipid transport?
-article_title: What are the characteristics of non-polar molecules and their role in lipid transport?
+title: >-
+    What are the characteristics of non-polar molecules and their role in lipid transport?
+article_title: >-
+    What are the characteristics of non-polar molecules and their role in lipid transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-
 url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
 score: -1.0
 related_article1:
-    id: 168817
-    title: What is the role of epithelial cells in the absorption of lipids?
+    id: 168821
+    title: >-
+        What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
 related_article2:
     id: 168823
-    title: Explain the mechanism of exocytosis in the transport of chylomicrons.
+    title: >-
+        Explain the mechanism of exocytosis in the transport of chylomicrons.
     subject: Nursing
     url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
 related_article3:
-    id: 168826
-    title: Describe the mechanism of simple diffusion and its importance in lipid absorption.
+    id: 168816
+    title: >-
+        How do bile salts enhance the solubility of lipids during micelle formation?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
+    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
 related_article4:
-    id: 168812
-    title: How does bile contribute to the emulsification of lipids?
+    id: 168823
+    title: >-
+        Explain the mechanism of exocytosis in the transport of chylomicrons.
     subject: Nursing
-    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
+    url: /learn/nursing/questions/explain-the-mechanism-of-exocytosis-in-the-transport-of-chylomicrons
 related_article5:
-    id: 168826
-    title: Describe the mechanism of simple diffusion and its importance in lipid absorption.
+    id: 168816
+    title: >-
+        How do bile salts enhance the solubility of lipids during micelle formation?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
+    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
 ---
 
 &nbsp;

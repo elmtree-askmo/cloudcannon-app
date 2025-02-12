@@ -2,8 +2,10 @@
 _schema: default
 id: 167717
 date: 2025-01-31
-title: How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
-article_title: How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
+title: >-
+    How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
+article_title: >-
+    How do cognitive capabilities such as language and communication provide a selective advantage in evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-cognitive-capabilities-such-as-language-and-communication-prov
 url: /learn/psychology/questions/how-do-cognitive-capabilities-such-as-language-and-communication-provide-a-selective-advantage-in-evolution
 score: -1.0
 related_article1:
-    id: 167723
-    title: What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    id: 167721
+    title: >-
+        Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
+    url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
 related_article2:
-    id: 167722
-    title: How does cognitive psychology approach the study of consciousness and perception?
+    id: 167715
+    title: >-
+        What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
+    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
 related_article3:
-    id: 167714
-    title: How does functionalism differ from structuralism in its approach to understanding mental processes?
+    id: 167720
+    title: >-
+        What is the significance of the unconscious mind in Sigmund Freud's psychoanalysis, and how does it influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-functionalism-differ-from-structuralism-in-its-approach-to-understanding-mental-processes
+    url: /learn/psychology/questions/what-is-the-significance-of-the-unconscious-mind-in-sigmund-freuds-psychoanalysis-and-how-does-it-influence-behavior
 related_article4:
-    id: 167713
-    title: How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+    id: 167715
+    title: >-
+        What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
+    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
 related_article5:
     id: 167721
-    title: Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
+    title: >-
+        Describe the development of therapy in psychoanalysis, focusing on the talking cure and the concepts of resistance and transference.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-development-of-therapy-in-psychoanalysis-focusing-on-the-talking-cure-and-the-concepts-of-resistance-and-transference
 ---

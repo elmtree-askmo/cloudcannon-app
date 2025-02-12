@@ -2,8 +2,10 @@
 _schema: default
 id: 166004
 date: 2025-01-29
-title: How does vase painting contribute to our understanding of ancient iconography?
-article_title: How does vase painting contribute to our understanding of ancient iconography?
+title: >-
+    How does vase painting contribute to our understanding of ancient iconography?
+article_title: >-
+    How does vase painting contribute to our understanding of ancient iconography?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-vase-painting-contribute-to-our-understanding-of-ancient-ico
 url: /learn/education-studies/questions/how-does-vase-painting-contribute-to-our-understanding-of-ancient-iconography
 score: -1.0
 related_article1:
-    id: 166016
-    title: What were the key factors in the expansion and influence of the Roman Empire?
+    id: 166014
+    title: >-
+        What are the defining features of creation myths and trickster myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-factors-in-the-expansion-and-influence-of-the-roman-empire
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-creation-myths-and-trickster-myths
 related_article2:
-    id: 166007
-    title: What are the traditional definitions of myth, and how do they involve supernatural beings?
+    id: 166009
+    title: >-
+        In what ways did the Renaissance influence the reception of classical myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-traditional-definitions-of-myth-and-how-do-they-involve-supernatural-beings
+    url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
 related_article3:
-    id: 166012
-    title: What is the significance of temples and sanctuaries in ancient ritual practices?
+    id: 166013
+    title: >-
+        Who are some of the key gods, goddesses, heroes, and monsters in mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-temples-and-sanctuaries-in-ancient-ritual-practices
+    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
 related_article4:
-    id: 166011
-    title: What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
+    id: 166008
+    title: >-
+        How do myths explain natural phenomena and serve as etiological narratives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
+    url: /learn/education-studies/questions/how-do-myths-explain-natural-phenomena-and-serve-as-etiological-narratives
 related_article5:
-    id: 166006
-    title: How do archetypes function in comparative mythology according to Carl Jung?
+    id: 166001
+    title: >-
+        What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
 ---
 
 &nbsp;

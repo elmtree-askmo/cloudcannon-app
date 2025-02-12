@@ -2,8 +2,10 @@
 _schema: default
 id: 170663
 date: 2025-02-06
-title: Why are personal values important in decision making and career choices?
-article_title: Why are personal values important in decision making and career choices?
+title: >-
+    Why are personal values important in decision making and career choices?
+article_title: >-
+    Why are personal values important in decision making and career choices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-personal-values-important-in-decision-making-and-career-choic
 url: /learn/education-studies/questions/why-are-personal-values-important-in-decision-making-and-career-choices
 score: -1.0
 related_article1:
-    id: 170671
-    title: What types of extracurricular activities are available through campus recreation?
+    id: 170649
+    title: >-
+        What are some effective ways to find volunteer events in your community?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-extracurricular-activities-are-available-through-campus-recreation
+    url: /learn/education-studies/questions/what-are-some-effective-ways-to-find-volunteer-events-in-your-community
 related_article2:
+    id: 170670
+    title: >-
+        What are the key components of understanding financial aid, including scholarships and grants?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-understanding-financial-aid-including-scholarships-and-grants
+related_article3:
+    id: 170660
+    title: >-
+        What is intrinsic motivation, and how does it contribute to long-term sustainability?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-intrinsic-motivation-and-how-does-it-contribute-to-longterm-sustainability
+related_article4:
+    id: 170659
+    title: >-
+        How do process goals differ from outcome goals, and why is it important to align actions with them?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-process-goals-differ-from-outcome-goals-and-why-is-it-important-to-align-actions-with-them
+related_article5:
     id: 170668
-    title: What are some effective stress management techniques for balancing academic pressure?
+    title: >-
+        What are some effective stress management techniques for balancing academic pressure?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-effective-stress-management-techniques-for-balancing-academic-pressure
-related_article3:
-    id: 170652
-    title: What strategies can be used to build relationships with community organizations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
-related_article4:
-    id: 170651
-    title: How can adding volunteer impact to your service transcript benefit your applications?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-adding-volunteer-impact-to-your-service-transcript-benefit-your-applications
-related_article5:
-    id: 170652
-    title: What strategies can be used to build relationships with community organizations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
 ---
 
 &nbsp;

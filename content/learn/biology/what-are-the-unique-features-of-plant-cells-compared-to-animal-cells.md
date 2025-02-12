@@ -2,8 +2,10 @@
 _schema: default
 id: 167824
 date: 2025-02-01
-title: What are the unique features of plant cells compared to animal cells?
-article_title: What are the unique features of plant cells compared to animal cells?
+title: >-
+    What are the unique features of plant cells compared to animal cells?
+article_title: >-
+    What are the unique features of plant cells compared to animal cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-unique-features-of-plant-cells-compared-to-animal-cells.
 url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
 score: -1.0
 related_article1:
-    id: 167820
-    title: What are the main differences between DNA and RNA?
+    id: 167815
+    title: >-
+        How does DNA replication ensure genetic consistency?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 related_article2:
     id: 167826
-    title: How do mutations contribute to evolutionary changes?
+    title: >-
+        How do mutations contribute to evolutionary changes?
     subject: Biology
     url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
 related_article3:
     id: 167826
-    title: How do mutations contribute to evolutionary changes?
+    title: >-
+        How do mutations contribute to evolutionary changes?
     subject: Biology
     url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
 related_article4:
-    id: 167818
-    title: How does transcription differ from translation in protein synthesis?
+    id: 167820
+    title: >-
+        What are the main differences between DNA and RNA?
     subject: Biology
-    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
 related_article5:
-    id: 167823
-    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    id: 167819
+    title: >-
+        What is differential gene expression and why is it important?
     subject: Biology
-    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165864
 date: 2025-01-29
-title: How does the NF Kappa B pathway contribute to immune cell activation?
-article_title: How does the NF Kappa B pathway contribute to immune cell activation?
+title: >-
+    How does the NF Kappa B pathway contribute to immune cell activation?
+article_title: >-
+    How does the NF Kappa B pathway contribute to immune cell activation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation.
 url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
 score: -1.0
 related_article1:
-    id: 165860
-    title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
+    id: 165875
+    title: >-
+        What is the significance of clonal expansion in immune memory?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
+    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
 related_article2:
-    id: 165869
-    title: What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
+    id: 165876
+    title: >-
+        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
+    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
 related_article3:
+    id: 165875
+    title: >-
+        What is the significance of clonal expansion in immune memory?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
+related_article4:
     id: 165859
-    title: What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
+    title: >-
+        What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
-related_article4:
-    id: 165879
-    title: What is the importance of clonality in the immune response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article5:
-    id: 165858
-    title: How do infective parasites differ from non-infective parasites in terms of their impact on the host?
+    id: 165871
+    title: >-
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
 ---
 
 &nbsp;

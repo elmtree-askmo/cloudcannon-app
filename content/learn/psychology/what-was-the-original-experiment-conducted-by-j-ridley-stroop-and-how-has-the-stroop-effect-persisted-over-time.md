@@ -2,8 +2,10 @@
 _schema: default
 id: 165188
 date: 2025-01-28
-title: What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
-article_title: What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
+title: >-
+    What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
+article_title: >-
+    What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how
 url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
 score: -1.0
 related_article1:
-    id: 165202
-    title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+    id: 165189
+    title: >-
+        How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
 related_article2:
-    id: 165203
-    title: What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    id: 165194
+    title: >-
+        What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+    url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
 related_article3:
-    id: 165207
-    title: How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
-related_article4:
-    id: 165193
-    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
-related_article5:
     id: 165191
-    title: What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
+    title: >-
+        What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-limitations-of-observational-studies-in-birth-order-research-and-how-can-observational-bias-affect-the-results
+related_article4:
+    id: 165202
+    title: >-
+        What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
+related_article5:
+    id: 165204
+    title: >-
+        What are the differences between experimental and observational studies in psychological research, and why is methodological rigor important?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-experimental-and-observational-studies-in-psychological-research-and-why-is-methodological-rigor-important
 ---
 
 &nbsp;

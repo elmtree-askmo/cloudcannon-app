@@ -2,8 +2,10 @@
 _schema: default
 id: 167670
 date: 2025-01-31
-title: How is fitness measured, and why is it important in the context of natural selection?
-article_title: How is fitness measured, and why is it important in the context of natural selection?
+title: >-
+    How is fitness measured, and why is it important in the context of natural selection?
+article_title: >-
+    How is fitness measured, and why is it important in the context of natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-fitness-measured-and-why-is-it-important-in-the-context-of-nat
 url: /learn/others/questions/how-is-fitness-measured-and-why-is-it-important-in-the-context-of-natural-selection
 score: -1.0
 related_article1:
-    id: 167681
-    title: How does vasopressin influence parental behaviors, particularly in voles?
-    subject: Others
-    url: /learn/others/questions/how-does-vasopressin-influence-parental-behaviors-particularly-in-voles
-related_article2:
     id: 167668
-    title: What are the different types of learning, and how do they contribute to an animal's survival?
+    title: >-
+        What are the different types of learning, and how do they contribute to an animal's survival?
     subject: Others
     url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
-related_article3:
+related_article2:
     id: 167683
-    title: What methodologies are used in comparative studies of animal behavior, and why are they important?
+    title: >-
+        What methodologies are used in comparative studies of animal behavior, and why are they important?
     subject: Others
     url: /learn/others/questions/what-methodologies-are-used-in-comparative-studies-of-animal-behavior-and-why-are-they-important
-related_article4:
+related_article3:
     id: 167665
-    title: How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
+    title: >-
+        How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
     subject: Others
     url: /learn/others/questions/how-do-tinbergens-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
-related_article5:
-    id: 167679
-    title: How do environmental cues influence seasonal breeding behaviors in animals?
+related_article4:
+    id: 167668
+    title: >-
+        What are the different types of learning, and how do they contribute to an animal's survival?
     subject: Others
-    url: /learn/others/questions/how-do-environmental-cues-influence-seasonal-breeding-behaviors-in-animals
+    url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
+related_article5:
+    id: 167677
+    title: >-
+        What are neurohormones, and how do they influence animal behavior?
+    subject: Others
+    url: /learn/others/questions/what-are-neurohormones-and-how-do-they-influence-animal-behavior
 ---
 
 &nbsp;

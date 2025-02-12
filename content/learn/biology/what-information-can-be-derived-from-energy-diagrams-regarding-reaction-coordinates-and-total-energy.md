@@ -2,8 +2,10 @@
 _schema: default
 id: 170976
 date: 2025-02-07
-title: What information can be derived from energy diagrams regarding reaction coordinates and total energy?
-article_title: What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+title: >-
+    What information can be derived from energy diagrams regarding reaction coordinates and total energy?
+article_title: >-
+    What information can be derived from energy diagrams regarding reaction coordinates and total energy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-information-can-be-derived-from-energy-diagrams-regarding-reacti
 url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
 score: -1.0
 related_article1:
-    id: 170980
-    title: Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+    id: 170979
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
     subject: Biology
-    url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 related_article2:
     id: 170977
-    title: How do enzymes lower activation energy in reaction coupling?
+    title: >-
+        How do enzymes lower activation energy in reaction coupling?
     subject: Biology
     url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
 related_article3:
-    id: 170985
-    title: How do equilibrium constants relate to chemical equilibrium in glycolysis?
-    subject: Biology
-    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
-related_article4:
-    id: 170994
-    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
-    subject: Biology
-    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
-related_article5:
     id: 170977
-    title: How do enzymes lower activation energy in reaction coupling?
+    title: >-
+        How do enzymes lower activation energy in reaction coupling?
     subject: Biology
     url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+related_article4:
+    id: 170986
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
+    subject: Biology
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article5:
+    id: 170993
+    title: >-
+        What role does phosphorylation play in active transport and muscle contraction?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
 ---
 
 &nbsp;

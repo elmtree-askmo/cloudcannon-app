@@ -2,8 +2,10 @@
 _schema: default
 id: 165794
 date: 2025-01-29
-title: What are the primary limitations of IPv4, and how do they affect network performance?
-article_title: What are the primary limitations of IPv4, and how do they affect network performance?
+title: >-
+    What are the primary limitations of IPv4, and how do they affect network performance?
+article_title: >-
+    What are the primary limitations of IPv4, and how do they affect network performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: what-are-the-primary-limitations-of-ipv4-and-how-do-they-affect-netwo
 url: /learn/computer-science/questions/what-are-the-primary-limitations-of-ipv4-and-how-do-they-affect-network-performance
 score: -1.0
 related_article1:
-    id: 165790
-    title: How does IP encapsulation ensure consistency between IPv4 and IPv6 packets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ip-encapsulation-ensure-consistency-between-ipv4-and-ipv6-packets
-related_article2:
     id: 165797
-    title: How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
+    title: >-
+        How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-a-host-determine-whether-to-send-a-packet-to-a-local-or-remote-host-and-what-role-does-the-default-gateway-play-in-this-process
-related_article3:
-    id: 165792
-    title: What is the significance of the Maximum Transmission Unit (MTU) in media independence, and how does fragmentation address MTU limitations?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-maximum-transmission-unit-mtu-in-media-independence-and-how-does-fragmentation-address-mtu-limitations
-related_article4:
+related_article2:
     id: 165796
-    title: What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
+    title: >-
+        What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-significant-fields-in-the-ipv6-packet-header-and-how-do-they-contribute-to-efficient-packet-handling
+related_article3:
+    id: 165796
+    title: >-
+        What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-significant-fields-in-the-ipv6-packet-header-and-how-do-they-contribute-to-efficient-packet-handling
+related_article4:
+    id: 165802
+    title: >-
+        How is the ARP table managed on networking devices, and what commands are used to display it on Cisco routers and Windows PCs?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-the-arp-table-managed-on-networking-devices-and-what-commands-are-used-to-display-it-on-cisco-routers-and-windows-pcs
+related_article5:
+    id: 165796
+    title: >-
+        What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-significant-fields-in-the-ipv6-packet-header-and-how-do-they-contribute-to-efficient-packet-handling
 ---

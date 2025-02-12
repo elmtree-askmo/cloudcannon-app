@@ -2,8 +2,10 @@
 _schema: default
 id: 168193
 date: 2025-02-02
-title: What are isotopes, and how are they relevant in medical technology?
-article_title: What are isotopes, and how are they relevant in medical technology?
+title: >-
+    What are isotopes, and how are they relevant in medical technology?
+article_title: >-
+    What are isotopes, and how are they relevant in medical technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/what-are-isotopes-and-how-are-they-relevant
 score: -1.0
 related_article1:
     id: 168184
-    title: How does deductive reasoning differ from inductive reasoning in scientific research?
+    title: >-
+        How does deductive reasoning differ from inductive reasoning in scientific research?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-deductive-reasoning-differ-from-inductive-reasoning-in-scientific-research
 related_article2:
-    id: 168183
-    title: Define independent and dependent variables and provide an example scenario illustrating their roles.
+    id: 168186
+    title: >-
+        What are the three main subatomic particles, and how do they contribute to the atomic number and mass?
     subject: Health Studies
-    url: /learn/health-studies/questions/define-independent-and-dependent-variables-and-provide-an-example-scenario-illustrating-their-roles
+    url: /learn/health-studies/questions/what-are-the-three-main-subatomic-particles-and-how-do-they-contribute-to-the-atomic-number-and-mass
 related_article3:
-    id: 168185
-    title: Describe the structure of an atom, including the roles of the nucleus and orbitals.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-of-an-atom-including-the-roles-of-the-nucleus-and-orbitals
-related_article4:
-    id: 168181
-    title: How does the use of 'if-then' statements aid in prediction development within the scientific method?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-use-of-ifthen-statements-aid-in-prediction-development-within-the-scientific-method
-related_article5:
     id: 168191
-    title: How does the molecular structure of water contribute to its unique properties?
+    title: >-
+        How does the molecular structure of water contribute to its unique properties?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-molecular-structure-of-water-contribute-to-its-unique-properties
+related_article4:
+    id: 168186
+    title: >-
+        What are the three main subatomic particles, and how do they contribute to the atomic number and mass?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-three-main-subatomic-particles-and-how-do-they-contribute-to-the-atomic-number-and-mass
+related_article5:
+    id: 168185
+    title: >-
+        Describe the structure of an atom, including the roles of the nucleus and orbitals.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-structure-of-an-atom-including-the-roles-of-the-nucleus-and-orbitals
 ---
 
 &nbsp;

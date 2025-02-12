@@ -2,8 +2,10 @@
 _schema: default
 id: 169023
 date: 2025-02-04
-title: What are the gendered and anti-revolutionary filters present in media representations?
-article_title: What are the gendered and anti-revolutionary filters present in media representations?
+title: >-
+    What are the gendered and anti-revolutionary filters present in media representations?
+article_title: >-
+    What are the gendered and anti-revolutionary filters present in media representations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-gendered-and-antirevolutionary-filters-present-in-media-
 url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
 score: 9.2
 related_article1:
-    id: 169019
-    title: How did women strategically use architecture during revolutionary movements?
+    id: 169005
+    title: >-
+        How can cross-reading architecture and history provide new insights?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
 related_article2:
-    id: 169010
-    title: How do gendered constructs influence societal understandings of space?
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-gendered-constructs-influence-societal-understandings-of-space
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 related_article3:
-    id: 169013
-    title: What strategies and tactics were employed during the Mexican Revolution?
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 related_article4:
-    id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
+    id: 169003
+    title: >-
+        How can architecture be analyzed within political and socio-historical contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
+    url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
 related_article5:
-    id: 169009
-    title: What actions did women take during revolutionary movements?
+    id: 169016
+    title: >-
+        How can buildings serve as symbols of revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
 ---
 
 &nbsp;

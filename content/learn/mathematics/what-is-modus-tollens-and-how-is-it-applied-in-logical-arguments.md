@@ -2,8 +2,10 @@
 _schema: default
 id: 170231
 date: 2025-02-06
-title: What is Modus Tollens, and how is it applied in logical arguments?
-article_title: What is Modus Tollens, and how is it applied in logical arguments?
+title: >-
+    What is Modus Tollens, and how is it applied in logical arguments?
+article_title: >-
+    What is Modus Tollens, and how is it applied in logical arguments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments.md
 url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
 score: -1.0
 related_article1:
-    id: 170224
-    title: How does deduction contribute to determining the validity of an argument?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-deduction-contribute-to-determining-the-validity-of-an-argument
-related_article2:
-    id: 170226
-    title: Explain the simplification rule in inference and provide an example of its application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-simplification-rule-in-inference-and-provide-an-example-of-its-application
-related_article3:
     id: 170228
-    title: Describe the addition rule in inference and its application in logical arguments.
+    title: >-
+        Describe the addition rule in inference and its application in logical arguments.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+related_article2:
+    id: 170228
+    title: >-
+        Describe the addition rule in inference and its application in logical arguments.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+related_article3:
+    id: 170218
+    title: >-
+        What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
 related_article4:
-    id: 170229
-    title: What is the reiteration rule in inference, and how is it applied?
+    id: 170218
+    title: >-
+        What is the definition of argument validity and what criteria must be met for an argument to be considered valid?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-reiteration-rule-in-inference-and-how-is-it-applied
+    url: /learn/mathematics/questions/what-is-the-definition-of-argument-validity-and-what-criteria-must-be-met-for-an-argument-to-be-considered-valid
 related_article5:
-    id: 170234
-    title: Describe the resolution rule in inference and provide an example of its application.
+    id: 170225
+    title: >-
+        What is the conjunction rule in inference, and how is it applied in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
+    url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161938
 date: 2025-01-24
-title: How does the reactivity of hydrogen compare to that of oxygen?
-article_title: How does the reactivity of hydrogen compare to that of oxygen?
+title: >-
+    How does the reactivity of hydrogen compare to that of oxygen?
+article_title: >-
+    How does the reactivity of hydrogen compare to that of oxygen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen.md
 url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
 score: -1.0
 related_article1:
-    id: 162035
-    title: What are the effects of ionization on the state of matter?
+    id: 161985
+    title: >-
+        Describe the physical change that occurs when aluminum foil is crumbled.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 related_article2:
-    id: 162047
-    title: How does the reactivity of hydrogen differ from that of oxygen?
+    id: 162058
+    title: >-
+        What are the characteristics of liquids that distinguish them from gases and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
 related_article3:
-    id: 162023
-    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    id: 162045
+    title: >-
+        Describe the process of ionization and its effect on the formation of ions.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions
 related_article4:
-    id: 161991
-    title: How does the process of shaving wood represent a physical change?
+    id: 161987
+    title: >-
+        What are the characteristics of a liquid state of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-state-of-matter
 related_article5:
-    id: 161927
-    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    id: 161939
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 ---
 
 &nbsp;

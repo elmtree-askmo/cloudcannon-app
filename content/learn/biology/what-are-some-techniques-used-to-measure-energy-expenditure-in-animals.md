@@ -2,8 +2,10 @@
 _schema: default
 id: 170903
 date: 2025-02-07
-title: What are some techniques used to measure energy expenditure in animals?
-article_title: What are some techniques used to measure energy expenditure in animals?
+title: >-
+    What are some techniques used to measure energy expenditure in animals?
+article_title: >-
+    What are some techniques used to measure energy expenditure in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-are-some-techniques-used-to-measure-energy-ex
 score: -1.0
 related_article1:
     id: 170900
-    title: Can you provide an example of optimal foraging behavior in nature?
+    title: >-
+        Can you provide an example of optimal foraging behavior in nature?
     subject: Biology
     url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
 related_article2:
     id: 170902
-    title: How do environmental variables influence animal decision-making?
+    title: >-
+        How do environmental variables influence animal decision-making?
     subject: Biology
     url: /learn/biology/questions/how-do-environmental-variables-influence-animal-decisionmaking
 related_article3:
-    id: 170902
-    title: How do environmental variables influence animal decision-making?
+    id: 170906
+    title: >-
+        What are the limitations of mathematical models in ecological modeling?
     subject: Biology
-    url: /learn/biology/questions/how-do-environmental-variables-influence-animal-decisionmaking
+    url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
 related_article4:
-    id: 170907
-    title: How does behavioral ecology relate to evolutionary biology?
+    id: 170896
+    title: >-
+        How does handling time relate to prey size in foraging theory?
     subject: Biology
-    url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
 related_article5:
-    id: 170895
-    title: What factors influence search time in foraging animals?
+    id: 170893
+    title: >-
+        What are the key assumptions of foraging theory?
     subject: Biology
-    url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
+    url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
 ---
 
 &nbsp;

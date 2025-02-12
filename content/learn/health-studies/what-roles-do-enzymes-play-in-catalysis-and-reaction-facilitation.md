@@ -2,8 +2,10 @@
 _schema: default
 id: 167106
 date: 2025-01-31
-title: What roles do enzymes play in catalysis and reaction facilitation?
-article_title: What roles do enzymes play in catalysis and reaction facilitation?
+title: >-
+    What roles do enzymes play in catalysis and reaction facilitation?
+article_title: >-
+    What roles do enzymes play in catalysis and reaction facilitation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation.md
 url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
 score: -1.0
 related_article1:
-    id: 167107
-    title: How do proteins contribute to structural support in cells?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-contribute-to-structural-support-in-cells
-related_article2:
     id: 167100
-    title: How are monosaccharides classified based on carbon number and functional group?
+    title: >-
+        How are monosaccharides classified based on carbon number and functional group?
     subject: Health Studies
     url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
-related_article3:
-    id: 167102
-    title: What are the structural and functional differences between starch, glycogen, and cellulose?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-structural-and-functional-differences-between-starch-glycogen-and-cellulose
-related_article4:
-    id: 167093
-    title: What is the process of polymerization and why is it important in macromolecule formation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
-related_article5:
+related_article2:
     id: 167087
-    title: What are the main roles of biological molecules in cells?
+    title: >-
+        What are the main roles of biological molecules in cells?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
+related_article3:
+    id: 167103
+    title: >-
+        How do functional groups influence the chemical properties of molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
 ---
 
 &nbsp;

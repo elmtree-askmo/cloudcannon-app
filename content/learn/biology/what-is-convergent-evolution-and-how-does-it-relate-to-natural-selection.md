@@ -2,8 +2,10 @@
 _schema: default
 id: 165263
 date: 2025-01-28
-title: What is convergent evolution and how does it relate to natural selection?
-article_title: What is convergent evolution and how does it relate to natural selection?
+title: >-
+    What is convergent evolution and how does it relate to natural selection?
+article_title: >-
+    What is convergent evolution and how does it relate to natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-convergent-evolution-and-how-does-it-relate-to-natural-select
 url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
 score: -1.0
 related_article1:
-    id: 165256
-    title: Explain Darwin's postulates and their significance in the theory of natural selection.
+    id: 165258
+    title: >-
+        Describe the truncation selection experiment and its role in estimating heritability.
     subject: Biology
-    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+    url: /learn/biology/questions/describe-the-truncation-selection-experiment-and-its-role-in-estimating-heritability
 related_article2:
-    id: 165268
-    title: How does stabilizing selection contribute to population stability?
-    subject: Biology
-    url: /learn/biology/questions/how-does-stabilizing-selection-contribute-to-population-stability
-related_article3:
-    id: 165260
-    title: Define adaptation and explain its importance in evolutionary biology.
-    subject: Biology
-    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
-related_article4:
     id: 165262
-    title: Differentiate between homology and homoplasy with examples.
+    title: >-
+        Differentiate between homology and homoplasy with examples.
     subject: Biology
     url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article3:
+    id: 165258
+    title: >-
+        Describe the truncation selection experiment and its role in estimating heritability.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-truncation-selection-experiment-and-its-role-in-estimating-heritability
+related_article4:
+    id: 165262
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article5:
+    id: 165259
+    title: >-
+        What is the purpose of a cross-fostering experiment in studying heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
 ---
 
 &nbsp;

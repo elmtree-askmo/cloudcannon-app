@@ -2,8 +2,10 @@
 _schema: default
 id: 164034
 date: 2025-01-28
-title: What are the genetic and environmental drivers of neurodevelopmental disorders?
-article_title: What are the genetic and environmental drivers of neurodevelopmental disorders?
+title: >-
+    What are the genetic and environmental drivers of neurodevelopmental disorders?
+article_title: >-
+    What are the genetic and environmental drivers of neurodevelopmental disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-
 url: /learn/psychology/questions/what-are-the-genetic-and-environmental-drivers-of-neurodevelopmental-disorders
 score: -1.0
 related_article1:
-    id: 164027
-    title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
+    id: 164035
+    title: >-
+        What are the behavioral and cognitive implications of neurodevelopmental disorders?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
+    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
 related_article2:
-    id: 164036
-    title: How does amygdala hyporesponsiveness affect response to negative stimuli?
+    id: 164024
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
 related_article3:
     id: 164024
-    title: What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
 related_article4:
-    id: 164026
-    title: What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
+    id: 164037
+    title: >-
+        What are the implications of trait impulsivity on reward-related brain activity?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
+    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
 related_article5:
-    id: 164030
-    title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+    id: 164033
+    title: >-
+        How can brain data be utilized to predict antisocial behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
+    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169129
 date: 2025-02-04
-title: How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
-article_title: How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
+title: >-
+    How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
+article_title: >-
+    How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-italian-colonialism-and-military-defeats-influence-the-proces
 url: /learn/others/questions/how-did-italian-colonialism-and-military-defeats-influence-the-process-of-defascistization-and-decolonization
 score: -1.0
 related_article1:
+    id: 169130
+    title: >-
+        In what ways has fascist architecture been normalized within Italian cityscapes?
+    subject: Others
+    url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
+related_article2:
     id: 169128
-    title: What role did racial segregation play in the architectural and urban transformation of colonial geographies?
+    title: >-
+        What role did racial segregation play in the architectural and urban transformation of colonial geographies?
     subject: Others
     url: /learn/others/questions/what-role-did-racial-segregation-play-in-the-architectural-and-urban-transformation-of-colonial-geographies
-related_article2:
-    id: 169133
-    title: What is the function of prosthesis in architecture, and how does it relate to historical narratives?
-    subject: Others
-    url: /learn/others/questions/what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-relate-to-historical-narratives
 related_article3:
+    id: 169128
+    title: >-
+        What role did racial segregation play in the architectural and urban transformation of colonial geographies?
+    subject: Others
+    url: /learn/others/questions/what-role-did-racial-segregation-play-in-the-architectural-and-urban-transformation-of-colonial-geographies
+related_article4:
+    id: 169136
+    title: >-
+        How do decolonial aesthetics challenge the control of knowledge and state power?
+    subject: Others
+    url: /learn/others/questions/how-do-decolonial-aesthetics-challenge-the-control-of-knowledge-and-state-power
+related_article5:
     id: 169126
-    title: What were the key architectural features of Modernist Fascist-Colonial Architecture in Asmara?
+    title: >-
+        What were the key architectural features of Modernist Fascist-Colonial Architecture in Asmara?
     subject: Others
     url: /learn/others/questions/what-were-the-key-architectural-features-of-modernist-fascistcolonial-architecture-in-asmara
-related_article4:
-    id: 169132
-    title: How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
-    subject: Others
-    url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
-related_article5:
-    id: 169135
-    title: What does architectural demodernization entail in the context of decolonizing preservation?
-    subject: Others
-    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
 ---
 
 &nbsp;

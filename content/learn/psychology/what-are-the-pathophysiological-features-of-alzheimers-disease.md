@@ -2,8 +2,10 @@
 _schema: default
 id: 170480
 date: 2025-02-06
-title: What are the pathophysiological features of Alzheimer's disease?
-article_title: What are the pathophysiological features of Alzheimer's disease?
+title: >-
+    What are the pathophysiological features of Alzheimer's disease?
+article_title: >-
+    What are the pathophysiological features of Alzheimer's disease?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-pathophysiological-features-of-alzheimers-disease.md
 url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
 score: -1.0
 related_article1:
-    id: 170462
-    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
-related_article2:
     id: 170484
-    title: How did Brodmann areas contribute to the understanding of brain mapping?
+    title: >-
+        How did Brodmann areas contribute to the understanding of brain mapping?
     subject: Psychology
     url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+related_article2:
+    id: 170461
+    title: >-
+        How do gyri and sulci contribute to brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
 related_article3:
-    id: 170471
-    title: How does the medulla oblongata regulate heart rate and control reflexes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
-related_article4:
-    id: 170471
-    title: How does the medulla oblongata regulate heart rate and control reflexes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
-related_article5:
     id: 170463
-    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
     subject: Psychology
     url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+related_article4:
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article5:
+    id: 170473
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 ---
 
 &nbsp;

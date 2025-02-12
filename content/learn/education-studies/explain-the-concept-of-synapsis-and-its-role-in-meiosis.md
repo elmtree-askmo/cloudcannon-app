@@ -2,8 +2,10 @@
 _schema: default
 id: 167919
 date: 2025-02-01
-title: Explain the concept of synapsis and its role in meiosis.
-article_title: Explain the concept of synapsis and its role in meiosis.
+title: >-
+    Explain the concept of synapsis and its role in meiosis.
+article_title: >-
+    Explain the concept of synapsis and its role in meiosis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-synapsis-and-its-role-in-meiosis.md
 url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
 score: -1.0
 related_article1:
-    id: 167923
-    title: How do true breeding and hybridization differ in genetic studies?
+    id: 167917
+    title: >-
+        How does meiosis contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-true-breeding-and-hybridization-differ-in-genetic-studies
+    url: /learn/education-studies/questions/how-does-meiosis-contribute-to-genetic-variation
 related_article2:
-    id: 167923
-    title: How do true breeding and hybridization differ in genetic studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-true-breeding-and-hybridization-differ-in-genetic-studies
-related_article3:
-    id: 167931
-    title: What is crossing over and how does it contribute to genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
-related_article4:
-    id: 167918
-    title: What is the significance of homologous chromosomes during meiosis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-homologous-chromosomes-during-meiosis
-related_article5:
     id: 167916
-    title: What are the key differences between mitosis and meiosis?
+    title: >-
+        What are the key differences between mitosis and meiosis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-differences-between-mitosis-and-meiosis
+related_article3:
+    id: 167920
+    title: >-
+        What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-chromosomal-theory-of-inheritance-and-how-does-it-relate-to-mendels-laws
+related_article4:
+    id: 167926
+    title: >-
+        What is the 9:3:3:1 ratio and how is it derived in dihybrid crosses?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-9331-ratio-and-how-is-it-derived-in-dihybrid-crosses
+related_article5:
+    id: 167920
+    title: >-
+        What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-chromosomal-theory-of-inheritance-and-how-does-it-relate-to-mendels-laws
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166724
 date: 2025-01-31
-title: How is the moment of a force calculated and what role does the moment arm play in this calculation?
-article_title: How is the moment of a force calculated and what role does the moment arm play in this calculation?
+title: >-
+    How is the moment of a force calculated and what role does the moment arm play in this calculation?
+article_title: >-
+    How is the moment of a force calculated and what role does the moment arm play in this calculation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment
 url: /learn/education-studies/questions/how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment-arm-play-in-this-calculation
 score: -1.0
 related_article1:
-    id: 166728
-    title: Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
+    id: 166736
+    title: >-
+        How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
+    url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
 related_article2:
-    id: 166725
-    title: Explain the relationship between force, distance, and angle in moment equations.
+    id: 166735
+    title: >-
+        What is a unit vector and why is it important in vector representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-relationship-between-force-distance-and-angle-in-moment-equations
+    url: /learn/education-studies/questions/what-is-a-unit-vector-and-why-is-it-important-in-vector-representation
 related_article3:
-    id: 166729
-    title: How are vectors decomposed into components and what are the properties of vector addition and subtraction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
-related_article4:
     id: 166726
-    title: What are the different types of forces and how do they affect the equilibrium of a system?
+    title: >-
+        What are the different types of forces and how do they affect the equilibrium of a system?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-different-types-of-forces-and-how-do-they-affect-the-equilibrium-of-a-system
-related_article5:
-    id: 166723
-    title: What conditions must be met for a system to be in mechanical equilibrium?
+related_article4:
+    id: 166738
+    title: >-
+        Describe the conservation of angular momentum and its applications in rotational motion.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
+    url: /learn/education-studies/questions/describe-the-conservation-of-angular-momentum-and-its-applications-in-rotational-motion
+related_article5:
+    id: 166734
+    title: >-
+        Explain the geometric interpretation of the mixed triple product.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-geometric-interpretation-of-the-mixed-triple-product
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162577
 date: 2025-01-25
-title: How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
-article_title: How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
+title: >-
+    How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
+article_title: >-
+    How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-did-the-quarantine-acts-and-sanitary-reforms-contribute-to-early-
 url: /learn/health-studies/questions/how-did-the-quarantine-acts-and-sanitary-reforms-contribute-to-early-public-health-efforts
 score: -1.0
 related_article1:
-    id: 162583
-    title: What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
+    id: 162578
+    title: >-
+        What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-arguments-of-the-antivaccination-movements-against-compulsory-smallpox-vaccination
+    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
 related_article2:
-    id: 162583
-    title: What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-arguments-of-the-antivaccination-movements-against-compulsory-smallpox-vaccination
-related_article3:
-    id: 162583
-    title: What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-arguments-of-the-antivaccination-movements-against-compulsory-smallpox-vaccination
-related_article4:
-    id: 162579
-    title: How did the cholera epidemic influence sanitary measures and public health infrastructure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-cholera-epidemic-influence-sanitary-measures-and-public-health-infrastructure
-related_article5:
     id: 162580
-    title: What were the key public health responses to typhus during the Irish immigration period?
+    title: >-
+        What were the key public health responses to typhus during the Irish immigration period?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-key-public-health-responses-to-typhus-during-the-irish-immigration-period
+related_article3:
+    id: 162578
+    title: >-
+        What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
+related_article4:
+    id: 162581
+    title: >-
+        How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epidemiology
 ---
 
 &nbsp;

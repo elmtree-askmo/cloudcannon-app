@@ -2,8 +2,10 @@
 _schema: default
 id: 160788
 date: 2025-01-24
-title: What are the steps involved in algorithm development according to software engineering principles?
-article_title: What are the steps involved in algorithm development according to software engineering principles?
+title: >-
+    What are the steps involved in algorithm development according to software engineering principles?
+article_title: >-
+    What are the steps involved in algorithm development according to software engineering principles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-steps-involved-in-algorithm-development-according-to-sof
 url: /learn/computer-science/questions/what-are-the-steps-involved-in-algorithm-development-according-to-software-engineering-principles
 score: -1.0
 related_article1:
-    id: 160654
-    title: How do time complexity and space complexity trade-offs affect algorithm performance?
+    id: 160659
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-time-complexity-and-space-complexity-tradeoffs-affect-algorithm-performance
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 related_article2:
-    id: 160778
-    title: What is the main difference between Dijkstra's and Bellman-Ford algorithms?
+    id: 160661
+    title: >-
+        How is data represented in computational music, and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-main-difference-between-dijkstras-and-bellmanford-algorithms
+    url: /learn/computer-science/questions/how-is-data-represented-in-computational-music-and-why-is-it-important
 related_article3:
-    id: 160766
-    title: How does the inventor's perspective influence algorithm design?
+    id: 160662
+    title: >-
+        Why is the correct representation of problems crucial in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
+    url: /learn/computer-science/questions/why-is-the-correct-representation-of-problems-crucial-in-problemsolving
 related_article4:
-    id: 160650
-    title: How does dynamic programming differ from other advanced data structures?
+    id: 160662
+    title: >-
+        Why is the correct representation of problems crucial in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-dynamic-programming-differ-from-other-advanced-data-structures
+    url: /learn/computer-science/questions/why-is-the-correct-representation-of-problems-crucial-in-problemsolving
 related_article5:
     id: 160651
-    title: What distinguishes computational problem solving from general problem solving?
+    title: >-
+        What distinguishes computational problem solving from general problem solving?
     subject: Computer Science
     url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
 ---

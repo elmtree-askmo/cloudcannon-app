@@ -2,8 +2,10 @@
 _schema: default
 id: 168735
 date: 2025-02-04
-title: What role did women play in art during the 19th century, and how was gender identity explored?
-article_title: What role did women play in art during the 19th century, and how was gender identity explored?
+title: >-
+    What role did women play in art during the 19th century, and how was gender identity explored?
+article_title: >-
+    What role did women play in art during the 19th century, and how was gender identity explored?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-women-play-in-art-during-the-19th-century-and-how-was-g
 url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
 score: 9.0
 related_article1:
-    id: 168716
-    title: How did the execution of King Louis XVI impact European monarchies?
+    id: 168722
+    title: >-
+        How did the introduction of photography change the composition and realism in painting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-execution-of-king-louis-xvi-impact-european-monarchies
+    url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
 related_article2:
-    id: 168736
-    title: How did artists represent the working class and critique working conditions in their art?
+    id: 168717
+    title: >-
+        What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
+    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
 related_article3:
-    id: 168724
-    title: How did political upheavals influence art and the role of artists in society during the 19th century?
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
 related_article4:
-    id: 168727
-    title: Who were the key representatives of Realism, and what were their contributions to the movement?
+    id: 168725
+    title: >-
+        What were the main reasons for the artistic rejection of traditional styles in the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
 related_article5:
-    id: 168728
-    title: How did artists depict labor and working conditions during the Industrial Revolution?
+    id: 168722
+    title: >-
+        How did the introduction of photography change the composition and realism in painting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
+    url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
 ---
 
 &nbsp;

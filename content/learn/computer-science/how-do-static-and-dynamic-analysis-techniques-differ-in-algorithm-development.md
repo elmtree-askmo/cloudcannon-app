@@ -2,8 +2,10 @@
 _schema: default
 id: 160966
 date: 2025-01-24
-title: How do static and dynamic analysis techniques differ in algorithm development?
-article_title: How do static and dynamic analysis techniques differ in algorithm development?
+title: >-
+    How do static and dynamic analysis techniques differ in algorithm development?
+article_title: >-
+    How do static and dynamic analysis techniques differ in algorithm development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-dev
 url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
 score: -1.0
 related_article1:
-    id: 160968
-    title: How does understanding cardinality impact set theory and computability?
+    id: 160807
+    title: >-
+        Describe the traveling salesman problem and its significance in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
+    url: /learn/computer-science/questions/describe-the-traveling-salesman-problem-and-its-significance-in-npcompleteness
 related_article2:
-    id: 161102
-    title: What is the P vs NP problem, and why is it important in computational theory?
+    id: 161275
+    title: >-
+        What defines an efficient algorithm in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
+    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 related_article3:
-    id: 160963
-    title: What is the significance of the P vs NP problem in computational theory?
+    id: 160816
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 related_article4:
-    id: 161087
-    title: What is the significance of algorithm representation in the initial step of algorithm development?
+    id: 161135
+    title: >-
+        Explain the traveling salesman problem and its role in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
+    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
 related_article5:
-    id: 160967
-    title: What are the mathematical implications of infinite sets in set theory?
+    id: 161126
+    title: >-
+        What is the importance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 ---
 
 &nbsp;

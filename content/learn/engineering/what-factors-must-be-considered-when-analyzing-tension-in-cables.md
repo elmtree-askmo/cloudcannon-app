@@ -2,8 +2,10 @@
 _schema: default
 id: 166683
 date: 2025-01-31
-title: What factors must be considered when analyzing tension in cables?
-article_title: What factors must be considered when analyzing tension in cables?
+title: >-
+    What factors must be considered when analyzing tension in cables?
+article_title: >-
+    What factors must be considered when analyzing tension in cables?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-must-be-considered-when-analyzing-tension-in-cables.md
 url: /learn/engineering/questions/what-factors-must-be-considered-when-analyzing-tension-in-cables
 score: -1.0
 related_article1:
-    id: 166691
-    title: How does displacement relate to equilibrium in force analysis?
+    id: 166689
+    title: >-
+        How do you solve static problems using equilibrium equations?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
+    url: /learn/engineering/questions/how-do-you-solve-static-problems-using-equilibrium-equations
 related_article2:
-    id: 166678
-    title: How are force components resolved in three-dimensional space?
+    id: 166686
+    title: >-
+        How can trigonometry be used to calculate angles in force analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
+    url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
 related_article3:
-    id: 166691
-    title: How does displacement relate to equilibrium in force analysis?
+    id: 166687
+    title: >-
+        How are force vectors expressed using angles?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
+    url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
 related_article4:
-    id: 166690
-    title: What is the vector representation of displacement in three-dimensional space?
+    id: 166681
+    title: >-
+        Describe Hooke's Law and its relation to displacement and force.
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
+    url: /learn/engineering/questions/describe-hookes-law-and-its-relation-to-displacement-and-force
 related_article5:
-    id: 166691
-    title: How does displacement relate to equilibrium in force analysis?
+    id: 166675
+    title: >-
+        What is the magnitude of a force vector and how is it calculated?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
+    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167913
 date: 2025-02-01
-title: What is the importance of genetic counseling in the context of genetic testing?
-article_title: What is the importance of genetic counseling in the context of genetic testing?
+title: >-
+    What is the importance of genetic counseling in the context of genetic testing?
+article_title: >-
+    What is the importance of genetic counseling in the context of genetic testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-genetic-counseling-in-the-context-of-geneti
 url: /learn/education-studies/questions/what-is-the-importance-of-genetic-counseling-in-the-context-of-genetic-testing
 score: -1.0
 related_article1:
-    id: 167907
-    title: Explain Mendelian inheritance and the significance of dihybrid crosses.
+    id: 167910
+    title: >-
+        What are the ethical considerations in genetic disease research?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-mendelian-inheritance-and-the-significance-of-dihybrid-crosses
+    url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
 related_article2:
-    id: 167899
-    title: Explain the process of meiosis and its significance in genetic variation.
+    id: 167896
+    title: >-
+        What are the key chromosomal abnormalities associated with Down Syndrome?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-process-of-meiosis-and-its-significance-in-genetic-variation
+    url: /learn/education-studies/questions/what-are-the-key-chromosomal-abnormalities-associated-with-down-syndrome
 related_article3:
     id: 167906
-    title: Differentiate between point mutations and frameshift mutations.
+    title: >-
+        Differentiate between point mutations and frameshift mutations.
     subject: Education Studies
     url: /learn/education-studies/questions/differentiate-between-point-mutations-and-frameshift-mutations
 related_article4:
-    id: 167906
-    title: Differentiate between point mutations and frameshift mutations.
+    id: 167903
+    title: >-
+        What are the different types of RNA and their roles in protein synthesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/differentiate-between-point-mutations-and-frameshift-mutations
+    url: /learn/education-studies/questions/what-are-the-different-types-of-rna-and-their-roles-in-protein-synthesis
 related_article5:
-    id: 167898
-    title: Describe the stages of mitosis and its role in cellular growth.
+    id: 167905
+    title: >-
+        What is the genetic cause of cystic fibrosis and how is it treated?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-stages-of-mitosis-and-its-role-in-cellular-growth
+    url: /learn/education-studies/questions/what-is-the-genetic-cause-of-cystic-fibrosis-and-how-is-it-treated
 ---
 
 &nbsp;

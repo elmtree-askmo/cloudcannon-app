@@ -2,8 +2,10 @@
 _schema: default
 id: 168572
 date: 2025-02-03
-title: How does word choice in seminal documents affect tone and meaning?
-article_title: How does word choice in seminal documents affect tone and meaning?
+title: >-
+    How does word choice in seminal documents affect tone and meaning?
+article_title: >-
+    How does word choice in seminal documents affect tone and meaning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-word-choice-in-seminal-documents-affect-tone-and-meaning.md
 url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
 score: 9.0
 related_article1:
-    id: 168577
-    title: How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
+    id: 168566
+    title: >-
+        How have seminal documents influenced American culture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
+    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 related_article2:
     id: 168580
-    title: How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
+    title: >-
+        How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
 related_article3:
     id: 168578
-    title: How does tone shape the understanding of seminal documents?
+    title: >-
+        How does tone shape the understanding of seminal documents?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
 related_article4:
-    id: 168583
-    title: What are the historical foundations of freedom, equality, and justice as reflected in seminal documents?
+    id: 168584
+    title: >-
+        How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-historical-foundations-of-freedom-equality-and-justice-as-reflected-in-seminal-documents
-related_article5:
-    id: 168581
-    title: What role have seminal documents played in shaping civil rights movements?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-have-seminal-documents-played-in-shaping-civil-rights-movements
+    url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
 ---
 
 &nbsp;

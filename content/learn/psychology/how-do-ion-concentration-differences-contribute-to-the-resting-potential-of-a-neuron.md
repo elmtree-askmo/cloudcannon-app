@@ -2,8 +2,10 @@
 _schema: default
 id: 164818
 date: 2025-01-28
-title: How do ion concentration differences contribute to the resting potential of a neuron?
-article_title: How do ion concentration differences contribute to the resting potential of a neuron?
+title: >-
+    How do ion concentration differences contribute to the resting potential of a neuron?
+article_title: >-
+    How do ion concentration differences contribute to the resting potential of a neuron?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ion-concentration-differences-contribute-to-the-resting-potent
 url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
 score: -1.0
 related_article1:
-    id: 164825
-    title: What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+    id: 164819
+    title: >-
+        What are the properties of action potentials and how are they propagated along a neuron?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
 related_article2:
     id: 164827
-    title: How does myelination affect the speed of neural signal transmission?
+    title: >-
+        How does myelination affect the speed of neural signal transmission?
     subject: Psychology
     url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
 related_article3:
-    id: 164830
-    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
-related_article4:
     id: 164824
-    title: What changes occur in the membrane potential during an action potential?
+    title: >-
+        What changes occur in the membrane potential during an action potential?
     subject: Psychology
     url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
-related_article5:
-    id: 164829
-    title: What types of ion channels are involved in action potentials and how do they regulate ion flow?
+related_article4:
+    id: 164821
+    title: >-
+        How do ion channels contribute to the generation and propagation of action potentials?
     subject: Psychology
-    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
+    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+related_article5:
+    id: 164824
+    title: >-
+        What changes occur in the membrane potential during an action potential?
+    subject: Psychology
+    url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
 ---
 
 &nbsp;

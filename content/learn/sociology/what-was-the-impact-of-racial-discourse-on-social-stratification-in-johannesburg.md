@@ -2,8 +2,10 @@
 _schema: default
 id: 169147
 date: 2025-02-04
-title: What was the impact of racial discourse on social stratification in Johannesburg?
-article_title: What was the impact of racial discourse on social stratification in Johannesburg?
+title: >-
+    What was the impact of racial discourse on social stratification in Johannesburg?
+article_title: >-
+    What was the impact of racial discourse on social stratification in Johannesburg?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-impact-of-racial-discourse-on-social-stratification-in-j
 url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
 score: -1.0
 related_article1:
-    id: 169141
-    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
-related_article2:
-    id: 169150
-    title: What were the main challenges in urban planning related to slum conditions in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
-related_article3:
-    id: 169143
-    title: How did municipal ordinances impact housing for the multi-racial working class?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
-related_article4:
     id: 169138
-    title: What were the key factors that contributed to early urban segregation in Johannesburg?
+    title: >-
+        What were the key factors that contributed to early urban segregation in Johannesburg?
     subject: Sociology
     url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
-related_article5:
-    id: 169143
-    title: How did municipal ordinances impact housing for the multi-racial working class?
+related_article2:
+    id: 169139
+    title: >-
+        How did mining and manufacturing influence urban segregation in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+    url: /learn/sociology/questions/how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg
+related_article3:
+    id: 169150
+    title: >-
+        What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
+related_article4:
+    id: 169140
+    title: >-
+        What were the main challenges faced in the inner city slum-yards regarding racial integration?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-faced-in-the-inner-city-slumyards-regarding-racial-integration
+related_article5:
+    id: 169152
+    title: >-
+        What were the municipal strategies and reforms aimed at addressing housing and location policies?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
 ---
 
 &nbsp;

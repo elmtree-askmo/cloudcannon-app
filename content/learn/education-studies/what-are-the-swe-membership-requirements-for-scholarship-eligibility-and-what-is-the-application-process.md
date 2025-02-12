@@ -2,8 +2,10 @@
 _schema: default
 id: 166617
 date: 2025-01-31
-title: What are the SWE membership requirements for scholarship eligibility, and what is the application process?
-article_title: What are the SWE membership requirements for scholarship eligibility, and what is the application process?
+title: >-
+    What are the SWE membership requirements for scholarship eligibility, and what is the application process?
+article_title: >-
+    What are the SWE membership requirements for scholarship eligibility, and what is the application process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-swe-membership-requirements-for-scholarship-eligibility-
 url: /learn/education-studies/questions/what-are-the-swe-membership-requirements-for-scholarship-eligibility-and-what-is-the-application-process
 score: -1.0
 related_article1:
-    id: 166625
-    title: How are mechanical systems and force distribution applied in biomedical devices?
+    id: 166619
+    title: >-
+        What is the moment of a force, and how is the moment about an axis calculated?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-mechanical-systems-and-force-distribution-applied-in-biomedical-devices
+    url: /learn/education-studies/questions/what-is-the-moment-of-a-force-and-how-is-the-moment-about-an-axis-calculated
 related_article2:
+    id: 166618
+    title: >-
+        How are force vectors represented in vector form, and how is the cross product calculated?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-force-vectors-represented-in-vector-form-and-how-is-the-cross-product-calculated
+related_article3:
     id: 166616
-    title: What are the daily availability and service hours for career services, and how do company visits fit into this schedule?
+    title: >-
+        What are the daily availability and service hours for career services, and how do company visits fit into this schedule?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-daily-availability-and-service-hours-for-career-services-and-how-do-company-visits-fit-into-this-schedule
-related_article3:
+related_article4:
+    id: 166614
+    title: >-
+        What types of internship opportunities are available, and what is the Direct Intelligence Support Unit Training?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-internship-opportunities-are-available-and-what-is-the-direct-intelligence-support-unit-training
+related_article5:
     id: 166622
-    title: How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
+    title: >-
+        How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-you-find-position-vectors-and-how-is-the-cross-product-with-force-vectors-used-in-vector-analysis
-related_article4:
-    id: 166621
-    title: What defines a couple system, and how do couple forces create moments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-defines-a-couple-system-and-how-do-couple-forces-create-moments
-related_article5:
-    id: 166624
-    title: What are the key engineering concepts related to force distribution and moment of forces?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-engineering-concepts-related-to-force-distribution-and-moment-of-forces
 ---
 
 &nbsp;

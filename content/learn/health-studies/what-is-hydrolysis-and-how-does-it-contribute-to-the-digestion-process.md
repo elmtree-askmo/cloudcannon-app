@@ -2,8 +2,10 @@
 _schema: default
 id: 168842
 date: 2025-02-04
-title: What is hydrolysis and how does it contribute to the digestion process?
-article_title: What is hydrolysis and how does it contribute to the digestion process?
+title: >-
+    What is hydrolysis and how does it contribute to the digestion process?
+article_title: >-
+    What is hydrolysis and how does it contribute to the digestion process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-proces
 url: /learn/health-studies/questions/what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-process
 score: -1.0
 related_article1:
+    id: 168848
+    title: >-
+        Explain the mechanism of co-transporters and their role in nutrient absorption, particularly sodium-glucose co-transport.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-mechanism-of-cotransporters-and-their-role-in-nutrient-absorption-particularly-sodiumglucose-cotransport
+related_article2:
     id: 168856
-    title: Explain the process of starch digestion and its importance as a source of glucose.
+    title: >-
+        Explain the process of starch digestion and its importance as a source of glucose.
     subject: Health Studies
     url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
-related_article2:
-    id: 168850
-    title: Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-of-the-sodiumpotassium-pump-and-its-importance-in-maintaining-cellular-homeostasis
 related_article3:
-    id: 168846
-    title: Describe the structure of the phospholipid bilayer and its role in selective permeability.
+    id: 168856
+    title: >-
+        Explain the process of starch digestion and its importance as a source of glucose.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-selective-permeability
+    url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
 related_article4:
-    id: 168857
-    title: What is the structure of the small intestine, and how does it facilitate nutrient absorption?
+    id: 168852
+    title: >-
+        How is glucose absorbed in the small intestine, and why is this process important for metabolism?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-the-small-intestine-and-how-does-it-facilitate-nutrient-absorption
+    url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
 related_article5:
-    id: 168850
-    title: Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
+    id: 168854
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-of-the-sodiumpotassium-pump-and-its-importance-in-maintaining-cellular-homeostasis
+    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
 ---
 
 &nbsp;

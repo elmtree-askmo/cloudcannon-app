@@ -2,8 +2,10 @@
 _schema: default
 id: 166874
 date: 2025-01-31
-title: Describe the antiparallel orientation of DNA strands and its implications for DNA function.
-article_title: Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+title: >-
+    Describe the antiparallel orientation of DNA strands and its implications for DNA function.
+article_title: >-
+    Describe the antiparallel orientation of DNA strands and its implications for DNA function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,20 +24,35 @@ file_name: describe-the-antiparallel-orientation-of-dna-strands-and-its-implicat
 url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
 score: -1.0
 related_article1:
+    id: 166877
+    title: >-
+        Compare the structure and function of DNA and RNA, and identify their locations in cells.
+    subject: Biology
+    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
+related_article2:
     id: 166869
-    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    title: >-
+        How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
     subject: Biology
     url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
-related_article2:
+related_article3:
     id: 166873
-    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    title: >-
+        What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
     subject: Biology
     url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
-related_article3:
-    id: 166879
-    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+related_article4:
+    id: 166870
+    title: >-
+        Explain the 5’ to 3’ directionality of nucleic acids and its impact on nucleic acid structure.
     subject: Biology
-    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+    url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
+related_article5:
+    id: 166869
+    title: >-
+        How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
 ---
 
 &nbsp;

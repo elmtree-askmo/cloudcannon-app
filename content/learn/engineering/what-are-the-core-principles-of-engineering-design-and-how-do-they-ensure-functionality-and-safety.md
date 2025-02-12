@@ -2,8 +2,10 @@
 _schema: default
 id: 166674
 date: 2025-01-31
-title: What are the core principles of engineering design, and how do they ensure functionality and safety?
-article_title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+title: >-
+    What are the core principles of engineering design, and how do they ensure functionality and safety?
+article_title: >-
+    What are the core principles of engineering design, and how do they ensure functionality and safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-core-principles-of-engineering-design-and-how-do-they-en
 url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
 score: -1.0
 related_article1:
-    id: 166663
-    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    id: 166659
+    title: >-
+        How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
 related_article2:
-    id: 166665
-    title: What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+    id: 166661
+    title: >-
+        What is Hooke's Law, and how does it relate to the characteristics of spring force?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
+    url: /learn/engineering/questions/what-is-hookes-law-and-how-does-it-relate-to-the-characteristics-of-spring-force
 related_article3:
     id: 166670
-    title: What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    title: >-
+        What are the fundamental concepts of statics principles, and how do they ensure structural stability?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
 related_article4:
-    id: 166671
-    title: How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    id: 166655
+    title: >-
+        Why are free body diagrams crucial for visualizing forces in engineering problems?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+    url: /learn/engineering/questions/why-are-free-body-diagrams-crucial-for-visualizing-forces-in-engineering-problems
 related_article5:
-    id: 166670
-    title: What are the fundamental concepts of statics principles, and how do they ensure structural stability?
+    id: 166672
+    title: >-
+        What techniques are employed in mathematical modeling to solve engineering problems?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-fundamental-concepts-of-statics-principles-and-how-do-they-ensure-structural-stability
+    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
 ---
 
 &nbsp;

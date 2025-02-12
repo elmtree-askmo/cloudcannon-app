@@ -2,8 +2,10 @@
 _schema: default
 id: 162729
 date: 2025-01-25
-title: What are the best practices for ensuring responsive design in web development?
-article_title: What are the best practices for ensuring responsive design in web development?
+title: >-
+    What are the best practices for ensuring responsive design in web development?
+article_title: >-
+    What are the best practices for ensuring responsive design in web development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-best-practices-for-ensuring-responsive-design-in-web-dev
 url: /learn/others/questions/what-are-the-best-practices-for-ensuring-responsive-design-in-web-development
 score: -1.0
 related_article1:
-    id: 162360
-    title: How do Tableau, Power BI, and D3.js differ in their approach to data visualization?
+    id: 162777
+    title: >-
+        How can overfitting be addressed in predictive modeling?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-approach-to-data-visualization
+    url: /learn/others/questions/how-can-overfitting-be-addressed-in-predictive-modeling
 related_article2:
-    id: 162768
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+    id: 162656
+    title: >-
+        What is the difference between measures of central tendency and measures of variability in descriptive statistics?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
 related_article3:
-    id: 162717
-    title: How is regression analysis used in inferential statistics, and what are its applications?
+    id: 162734
+    title: >-
+        How do distributed ledgers and smart contracts function in blockchain technology?
     subject: Others
-    url: /learn/others/questions/how-is-regression-analysis-used-in-inferential-statistics-and-what-are-its-applications
+    url: /learn/others/questions/how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain-technology
 related_article4:
-    id: 162369
-    title: What are the differences between the Waterfall and Agile methodologies in software development?
+    id: 162841
+    title: >-
+        How do relational databases differ from NoSQL databases in terms of structure and use cases?
     subject: Others
-    url: /learn/others/questions/what-are-the-differences-between-the-waterfall-and-agile-methodologies-in-software-development
+    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-in-terms-of-structure-and-use-cases
 related_article5:
-    id: 162786
-    title: How do LAN and WAN differ in terms of network architecture?
+    id: 162785
+    title: >-
+        What are the most common cybersecurity threats, and how can encryption help mitigate them?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
+    url: /learn/others/questions/what-are-the-most-common-cybersecurity-threats-and-how-can-encryption-help-mitigate-them
 ---
 
 &nbsp;

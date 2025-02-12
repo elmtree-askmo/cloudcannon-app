@@ -2,8 +2,10 @@
 _schema: default
 id: 167099
 date: 2025-01-31
-title: What roles do lipids play in energy storage and cell membrane structure?
-article_title: What roles do lipids play in energy storage and cell membrane structure?
+title: >-
+    What roles do lipids play in energy storage and cell membrane structure?
+article_title: >-
+    What roles do lipids play in energy storage and cell membrane structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structu
 url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
 score: -1.0
 related_article1:
-    id: 167095
-    title: What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
+    id: 167108
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in protein folding?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-structural-differences-between-monosaccharides-disaccharides-and-polysaccharides
+    url: /learn/health-studies/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-protein-folding
 related_article2:
-    id: 167088
-    title: Why are functional groups important in biological molecules?
+    id: 167092
+    title: >-
+        Why is carbon essential in the formation of organic molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
 related_article3:
+    id: 167106
+    title: >-
+        What roles do enzymes play in catalysis and reaction facilitation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
+related_article4:
     id: 167112
-    title: How do proteins and lipids function in cell signaling?
+    title: >-
+        How do proteins and lipids function in cell signaling?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-proteins-and-lipids-function-in-cell-signaling
-related_article4:
-    id: 167098
-    title: What are the primary functions of nucleic acids in cells?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-nucleic-acids-in-cells
 related_article5:
-    id: 167093
-    title: What is the process of polymerization and why is it important in macromolecule formation?
+    id: 167109
+    title: >-
+        What are the main types of enzymes and their functions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
+    url: /learn/health-studies/questions/what-are-the-main-types-of-enzymes-and-their-functions
 ---
 
 &nbsp;

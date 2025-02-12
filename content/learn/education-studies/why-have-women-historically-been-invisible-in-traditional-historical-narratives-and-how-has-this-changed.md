@@ -2,8 +2,10 @@
 _schema: default
 id: 166557
 date: 2025-01-30
-title: Why have women historically been invisible in traditional historical narratives, and how has this changed?
-article_title: Why have women historically been invisible in traditional historical narratives, and how has this changed?
+title: >-
+    Why have women historically been invisible in traditional historical narratives, and how has this changed?
+article_title: >-
+    Why have women historically been invisible in traditional historical narratives, and how has this changed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-have-women-historically-been-invisible-in-traditional-historical-
 url: /learn/education-studies/questions/why-have-women-historically-been-invisible-in-traditional-historical-narratives-and-how-has-this-changed
 score: -1.0
 related_article1:
-    id: 166556
-    title: How do archaeology and anthropology contribute to the historical narrative, and what is the role of carbon dating in this context?
+    id: 166562
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archaeology-and-anthropology-contribute-to-the-historical-narrative-and-what-is-the-role-of-carbon-dating-in-this-context
+    url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
 related_article2:
+    id: 166562
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
+related_article3:
     id: 166560
-    title: How can new evidence influence historical interpretation?
+    title: >-
+        How can new evidence influence historical interpretation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
-related_article3:
-    id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
 related_article4:
-    id: 166553
-    title: How does storytelling contribute to the historical narrative?
+    id: 166562
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-storytelling-contribute-to-the-historical-narrative
+    url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
 related_article5:
-    id: 166551
-    title: How does the Chicago Manual of Style differ from MLA and APA citation formats?
+    id: 166558
+    title: >-
+        What methodologies are used in studying the day-to-day lives of women in history?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chicago-manual-of-style-differ-from-mla-and-apa-citation-formats
+    url: /learn/education-studies/questions/what-methodologies-are-used-in-studying-the-daytoday-lives-of-women-in-history
 ---
 
 &nbsp;

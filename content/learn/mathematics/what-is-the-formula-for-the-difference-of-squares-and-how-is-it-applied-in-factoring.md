@@ -2,8 +2,10 @@
 _schema: default
 id: 168273
 date: 2025-02-03
-title: What is the formula for the difference of squares, and how is it applied in factoring?
-article_title: What is the formula for the difference of squares, and how is it applied in factoring?
+title: >-
+    What is the formula for the difference of squares, and how is it applied in factoring?
+article_title: >-
+    What is the formula for the difference of squares, and how is it applied in factoring?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-formula-for-the-difference-of-squares-and-how-is-it-appli
 url: /learn/mathematics/questions/what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring
 score: -1.0
 related_article1:
-    id: 168274
-    title: How do you factor a polynomial by grouping terms?
+    id: 168269
+    title: >-
+        What is the process of expressing a polynomial as a product of its factors?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-factor-a-polynomial-by-grouping-terms
+    url: /learn/mathematics/questions/what-is-the-process-of-expressing-a-polynomial-as-a-product-of-its-factors
 related_article2:
+    id: 168269
+    title: >-
+        What is the process of expressing a polynomial as a product of its factors?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-of-expressing-a-polynomial-as-a-product-of-its-factors
+related_article3:
     id: 168277
-    title: What are some common polynomial identities, and how can they be used in factoring?
+    title: >-
+        What are some common polynomial identities, and how can they be used in factoring?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-some-common-polynomial-identities-and-how-can-they-be-used-in-factoring
-related_article3:
-    id: 168274
-    title: How do you factor a polynomial by grouping terms?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-factor-a-polynomial-by-grouping-terms
 related_article4:
-    id: 168274
-    title: How do you factor a polynomial by grouping terms?
+    id: 168270
+    title: >-
+        How do you identify and factor out common terms in a polynomial?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-factor-a-polynomial-by-grouping-terms
+    url: /learn/mathematics/questions/how-do-you-identify-and-factor-out-common-terms-in-a-polynomial
 related_article5:
-    id: 168275
-    title: What is the standard form of a quadratic equation, and how can it be solved by factoring?
+    id: 168269
+    title: >-
+        What is the process of expressing a polynomial as a product of its factors?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-how-can-it-be-solved-by-factoring
+    url: /learn/mathematics/questions/what-is-the-process-of-expressing-a-polynomial-as-a-product-of-its-factors
 ---
 
 &nbsp;

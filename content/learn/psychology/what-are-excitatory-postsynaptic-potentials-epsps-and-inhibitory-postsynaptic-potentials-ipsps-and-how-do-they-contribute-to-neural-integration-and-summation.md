@@ -2,8 +2,10 @@
 _schema: default
 id: 164826
 date: 2025-01-28
-title: What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
-article_title: What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
+title: >-
+    What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
+article_title: >-
+    What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-post
 url: /learn/psychology/questions/what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation
 score: -1.0
 related_article1:
-    id: 164830
-    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    id: 164825
+    title: >-
+        What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
 related_article2:
     id: 164830
-    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
     subject: Psychology
     url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 related_article3:
-    id: 164832
-    title: How do synapses facilitate signal transmission between neurons?
+    id: 164831
+    title: >-
+        What is the concentration gradient and why is it important for ion movement across the neuronal membrane?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+    url: /learn/psychology/questions/what-is-the-concentration-gradient-and-why-is-it-important-for-ion-movement-across-the-neuronal-membrane
 related_article4:
-    id: 164821
-    title: How do ion channels contribute to the generation and propagation of action potentials?
+    id: 164818
+    title: >-
+        How do ion concentration differences contribute to the resting potential of a neuron?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+    url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
 related_article5:
-    id: 164830
-    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    id: 164824
+    title: >-
+        What changes occur in the membrane potential during an action potential?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+    url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165890
 date: 2025-01-29
-title: What are the essential skills needed for conducting independent research?
-article_title: What are the essential skills needed for conducting independent research?
+title: >-
+    What are the essential skills needed for conducting independent research?
+article_title: >-
+    What are the essential skills needed for conducting independent research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-essential-skills-needed-for-conducting-independent-resea
 url: /learn/education-studies/questions/what-are-the-essential-skills-needed-for-conducting-independent-research
 score: -1.0
 related_article1:
-    id: 165904
-    title: How does self-directed learning enhance independent research skills?
+    id: 165882
+    title: >-
+        What is the primary role of a university as a research institution?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
+    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 related_article2:
-    id: 165898
-    title: What is the importance of time management in achieving academic success?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
-related_article3:
-    id: 165904
-    title: How does self-directed learning enhance independent research skills?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
-related_article4:
     id: 165888
-    title: Why is critical thinking considered essential in education, particularly in the arts and humanities?
+    title: >-
+        Why is critical thinking considered essential in education, particularly in the arts and humanities?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-critical-thinking-considered-essential-in-education-particularly-in-the-arts-and-humanities
-related_article5:
-    id: 165887
-    title: How does lifelong learning contribute to the development of a research community?
+related_article3:
+    id: 165884
+    title: >-
+        What are the key stages of academic progression in a university setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-lifelong-learning-contribute-to-the-development-of-a-research-community
+    url: /learn/education-studies/questions/what-are-the-key-stages-of-academic-progression-in-a-university-setting
+related_article4:
+    id: 165896
+    title: >-
+        What is the role of archaeology and history in understanding material artefacts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+related_article5:
+    id: 165896
+    title: >-
+        What is the role of archaeology and history in understanding material artefacts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
 ---
 
 &nbsp;

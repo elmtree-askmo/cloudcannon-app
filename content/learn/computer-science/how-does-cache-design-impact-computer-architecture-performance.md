@@ -2,8 +2,10 @@
 _schema: default
 id: 160726
 date: 2025-01-24
-title: How does cache design impact computer architecture performance?
-article_title: How does cache design impact computer architecture performance?
+title: >-
+    How does cache design impact computer architecture performance?
+article_title: >-
+    How does cache design impact computer architecture performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-cache-design-impact-computer-architecture-performance.md
 url: /learn/computer-science/questions/how-does-cache-design-impact-computer-architecture-performance
 score: -1.0
 related_article1:
-    id: 160722
-    title: What is the difference between discrete event simulation and continuous simulation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
-related_article2:
-    id: 161052
-    title: How do heuristic algorithms differ from Euclid’s algorithm?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
-related_article3:
-    id: 160911
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    id: 160730
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+related_article2:
+    id: 161039
+    title: >-
+        How is pattern recognition utilized in data mining?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-pattern-recognition-utilized-in-data-mining
+related_article3:
+    id: 161050
+    title: >-
+        How do mechanical and control systems contribute to robot design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-mechanical-and-control-systems-contribute-to-robot-design
 related_article4:
-    id: 161040
-    title: What are the essential elements of network architecture?
+    id: 161044
+    title: >-
+        What is the role of simulation models in computer simulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
+    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
 related_article5:
-    id: 161033
-    title: What are the key components of computational problem solving?
+    id: 161035
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-components-of-computational-problem-solving
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 ---
 
 &nbsp;

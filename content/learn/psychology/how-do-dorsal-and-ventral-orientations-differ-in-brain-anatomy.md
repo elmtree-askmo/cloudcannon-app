@@ -2,8 +2,10 @@
 _schema: default
 id: 170466
 date: 2025-02-06
-title: How do dorsal and ventral orientations differ in brain anatomy?
-article_title: How do dorsal and ventral orientations differ in brain anatomy?
+title: >-
+    How do dorsal and ventral orientations differ in brain anatomy?
+article_title: >-
+    How do dorsal and ventral orientations differ in brain anatomy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy.md
 url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
 score: -1.0
 related_article1:
-    id: 170476
-    title: What is the clinical significance of the dura mater in the meninges?
+    id: 170473
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 related_article2:
-    id: 170482
-    title: What is the role of the primary motor cortex in motor control?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
-related_article3:
-    id: 170475
-    title: What are the causes and symptoms of an epidural hematoma?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
-related_article4:
     id: 170464
-    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
     subject: Psychology
     url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
-related_article5:
-    id: 170482
-    title: What is the role of the primary motor cortex in motor control?
+related_article3:
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article4:
+    id: 170469
+    title: >-
+        How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
+related_article5:
+    id: 170467
+    title: >-
+        What are the characteristics of sagittal, coronal, and horizontal brain sections?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
 ---
 
 &nbsp;

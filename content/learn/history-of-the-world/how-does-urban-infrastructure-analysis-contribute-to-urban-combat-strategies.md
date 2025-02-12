@@ -2,8 +2,10 @@
 _schema: default
 id: 169099
 date: 2025-02-04
-title: How does urban infrastructure analysis contribute to urban combat strategies?
-article_title: How does urban infrastructure analysis contribute to urban combat strategies?
+title: >-
+    How does urban infrastructure analysis contribute to urban combat strategies?
+article_title: >-
+    How does urban infrastructure analysis contribute to urban combat strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-urban-infrastructure-analysis-contribute-to-urban-combat-str
 url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
 score: 9.2
 related_article1:
-    id: 169104
-    title: What challenges do military training and education face in institutional conflicts?
+    id: 169102
+    title: >-
+        What are the ethical implications of warfare in military practice?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
+    url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
 related_article2:
-    id: 169096
-    title: Discuss the ethical implications of warfare in contemporary military doctrine.
+    id: 169093
+    title: >-
+        What are the characteristics of non-linear warfare in military tactics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-ethical-implications-of-warfare-in-contemporary-military-doctrine
+    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
 related_article3:
-    id: 169088
-    title: What is the significance of geopolitical architecture in the military-architectural relationship?
+    id: 169101
+    title: >-
+        How does geopolitical architecture affect urban infrastructure analysis?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
+    url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
 related_article4:
-    id: 169098
-    title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
+    id: 169094
+    title: >-
+        What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
+    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
 related_article5:
-    id: 169105
-    title: What role do military research institutes play in addressing institutional conflicts?
+    id: 169084
+    title: >-
+        Explain the concept of 'walking through walls' in urban combat strategies.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
+    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
 ---
 
 &nbsp;

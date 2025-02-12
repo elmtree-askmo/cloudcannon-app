@@ -2,8 +2,10 @@
 _schema: default
 id: 170616
 date: 2025-02-06
-title: How do calcium ions influence intracellular signaling pathways in neurons?
-article_title: How do calcium ions influence intracellular signaling pathways in neurons?
+title: >-
+    How do calcium ions influence intracellular signaling pathways in neurons?
+article_title: >-
+    How do calcium ions influence intracellular signaling pathways in neurons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neu
 url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
 score: -1.0
 related_article1:
-    id: 170599
-    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    id: 170597
+    title: >-
+        What are the main structural components of a neuron and their functions?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
 related_article2:
-    id: 170608
-    title: How does myelination affect the speed of nerve impulse conduction?
+    id: 170600
+    title: >-
+        What is the difference between the absolute and relative refractory periods in action potential propagation?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
+    url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
 related_article3:
-    id: 170614
-    title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    id: 170615
+    title: >-
+        What is synaptic plasticity and how does it contribute to learning and memory?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
 related_article4:
-    id: 170611
-    title: Explain the role of the sodium-potassium pump in action potential recovery.
+    id: 170615
+    title: >-
+        What is synaptic plasticity and how does it contribute to learning and memory?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
+    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
 related_article5:
-    id: 170604
-    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+    id: 170598
+    title: >-
+        How do motor neurons, sensory neurons, and interneurons differ in function?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
+    url: /learn/nursing/questions/how-do-motor-neurons-sensory-neurons-and-interneurons-differ-in-function
 ---
 
 &nbsp;

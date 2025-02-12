@@ -2,8 +2,10 @@
 _schema: default
 id: 167508
 date: 2025-01-31
-title: What are the essential components of designing a scientific experiment?
-article_title: What are the essential components of designing a scientific experiment?
+title: >-
+    What are the essential components of designing a scientific experiment?
+article_title: >-
+    What are the essential components of designing a scientific experiment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-s
 score: -1.0
 related_article1:
     id: 167512
-    title: What are the different types of reproduction and why are they important for species continuity?
+    title: >-
+        What are the different types of reproduction and why are they important for species continuity?
     subject: Biology
     url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity
 related_article2:
     id: 167510
-    title: What is homeostasis and why is it important for living organisms?
+    title: >-
+        What is homeostasis and why is it important for living organisms?
     subject: Biology
     url: /learn/biology/questions/what-is-homeostasis-and-why-is-it-important-for-living-organisms
 related_article3:
-    id: 167521
-    title: How does the heritability of traits contribute to evolution?
+    id: 167504
+    title: >-
+        What is the role of observation in the scientific method?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-the-scientific-method
 related_article4:
-    id: 167507
-    title: How does a prediction relate to a hypothesis in the scientific method?
+    id: 167519
+    title: >-
+        How is a phylogenetic tree used to interpret evolutionary relationships?
     subject: Biology
-    url: /learn/biology/questions/how-does-a-prediction-relate-to-a-hypothesis-in-the-scientific-method
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
 related_article5:
-    id: 167522
-    title: What factors affect an organism's survival and reproductive success?
+    id: 167511
+    title: >-
+        How do living organisms acquire energy and what role does metabolism play?
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
+    url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
 ---
 
 &nbsp;

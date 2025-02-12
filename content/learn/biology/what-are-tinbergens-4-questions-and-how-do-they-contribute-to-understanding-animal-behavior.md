@@ -2,8 +2,10 @@
 _schema: default
 id: 165273
 date: 2025-01-28
-title: What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
-article_title: What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+title: >-
+    What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+article_title: >-
+    What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-tinbergens-4-questions-and-how-do-they-contribute-to-underst
 url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-contribute-to-understanding-animal-behavior
 score: -1.0
 related_article1:
-    id: 165280
-    title: Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
+    id: 165279
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
     subject: Biology
-    url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
+    url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 related_article2:
-    id: 165286
-    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
-    subject: Biology
-    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
-related_article3:
     id: 165280
-    title: Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
+    title: >-
+        Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
     subject: Biology
     url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
-related_article4:
-    id: 165277
-    title: Describe associative and non-associative learning and their roles in animal behavior.
+related_article3:
+    id: 165272
+    title: >-
+        Define animal behavior and explain its importance in ecology.
     subject: Biology
-    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
+    url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
+related_article4:
+    id: 165274
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
 related_article5:
     id: 165283
-    title: How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
+    title: >-
+        How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
     subject: Biology
     url: /learn/biology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology
 ---

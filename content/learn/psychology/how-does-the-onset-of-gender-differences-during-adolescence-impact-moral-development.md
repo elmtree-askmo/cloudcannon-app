@@ -2,8 +2,10 @@
 _schema: default
 id: 164214
 date: 2025-01-28
-title: How does the onset of gender differences during adolescence impact moral development?
-article_title: How does the onset of gender differences during adolescence impact moral development?
+title: >-
+    How does the onset of gender differences during adolescence impact moral development?
+article_title: >-
+    How does the onset of gender differences during adolescence impact moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-onset-of-gender-differences-during-adolescence-impact-mo
 url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
 score: -1.0
 related_article1:
+    id: 164204
+    title: >-
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+related_article2:
+    id: 164204
+    title: >-
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+related_article3:
     id: 164202
-    title: How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+    title: >-
+        How does Gilligan's theory describe the influence of caring and responsibility on moral development?
     subject: Psychology
     url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
-related_article2:
-    id: 164207
-    title: How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others
-related_article3:
-    id: 164215
-    title: What implications do developmental stages have for moral education in adolescence according to Gilligan?
-    subject: Psychology
-    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
 related_article4:
-    id: 164206
-    title: Describe the transition from 'Goodness to Truth' in Gilligan's theory of moral development.
+    id: 164202
+    title: >-
+        How does Gilligan's theory describe the influence of caring and responsibility on moral development?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
+    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
 related_article5:
-    id: 164211
-    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    id: 164208
+    title: >-
+        What role does compassion play in Gilligan's emphasis on caring and moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+    url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
 ---
 
 &nbsp;

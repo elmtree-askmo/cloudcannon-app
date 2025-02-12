@@ -2,8 +2,10 @@
 _schema: default
 id: 166645
 date: 2025-01-31
-title: What is the significance of vectors having both magnitude and direction in mechanics?
-article_title: What is the significance of vectors having both magnitude and direction in mechanics?
+title: >-
+    What is the significance of vectors having both magnitude and direction in mechanics?
+article_title: >-
+    What is the significance of vectors having both magnitude and direction in mechanics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-vectors-having-both-magnitude-and-directi
 url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
 score: -1.0
 related_article1:
-    id: 166646
-    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    id: 166648
+    title: >-
+        What is a position vector and how is it used to determine force direction in mechanics?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 related_article2:
-    id: 166637
-    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    id: 166641
+    title: >-
+        Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
     subject: Engineering
-    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
 related_article3:
-    id: 166647
-    title: How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+    id: 166640
+    title: >-
+        How does a concentrated force affect the equilibrium of a body in statics?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
+    url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
 related_article4:
     id: 166646
-    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
     subject: Engineering
     url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
 related_article5:
-    id: 166641
-    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    id: 166649
+    title: >-
+        Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167192
 date: 2025-01-31
-title: Describe the process of endocytosis and the types of materials it transports.
-article_title: Describe the process of endocytosis and the types of materials it transports.
+title: >-
+    Describe the process of endocytosis and the types of materials it transports.
+article_title: >-
+    Describe the process of endocytosis and the types of materials it transports.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: describe-the-process-of-endocytosis-and-the-types-of-materials-it-tra
 url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
 score: -1.0
 related_article1:
-    id: 167187
-    title: What factors determine the specificity and selectivity of channel proteins?
+    id: 167199
+    title: >-
+        How are large molecules and particles transported across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
 related_article2:
-    id: 167197
-    title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    id: 167186
+    title: >-
+        How do transport proteins function as channels in passive transport?
     subject: Biology
-    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 related_article3:
     id: 167189
-    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    title: >-
+        What is the mechanism of action for carrier proteins during facilitated diffusion?
     subject: Biology
     url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
 related_article4:
-    id: 167185
-    title: What distinguishes active transport from passive transport in terms of energy requirements?
+    id: 167186
+    title: >-
+        How do transport proteins function as channels in passive transport?
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 related_article5:
     id: 167199
-    title: How are large molecules and particles transported across the cell membrane?
+    title: >-
+        How are large molecules and particles transported across the cell membrane?
     subject: Biology
     url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
 ---

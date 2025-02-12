@@ -2,8 +2,10 @@
 _schema: default
 id: 164054
 date: 2025-01-28
-title: How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
-article_title: How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+title: >-
+    How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+article_title: >-
+    How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and
 url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
 score: -1.0
 related_article1:
-    id: 164041
-    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    id: 164048
+    title: >-
+        How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
 related_article2:
-    id: 164047
-    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    id: 164044
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 related_article3:
-    id: 164039
-    title: What is the role of forensic assessment in Dutch criminal law?
+    id: 164044
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 related_article4:
-    id: 164053
-    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    id: 164049
+    title: >-
+        What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
 related_article5:
     id: 164041
-    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    title: >-
+        What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
 ---

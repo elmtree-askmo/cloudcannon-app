@@ -2,8 +2,10 @@
 _schema: default
 id: 167619
 date: 2025-01-31
-title: What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
-article_title: What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+title: >-
+    What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
+article_title: >-
+    What is the process of auto-ionization of water and how do hydronium and hydroxide ions form?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-a
 url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-how-do-hydronium-and-hydroxide-ions-form
 score: -1.0
 related_article1:
-    id: 167628
-    title: How do higher and lower concentrations affect pH values?
+    id: 167630
+    title: >-
+        Describe the characteristics of basic solutions and their pH range.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
+    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
 related_article2:
     id: 167624
-    title: Define molarity and explain its relation to moles in a solution.
+    title: >-
+        Define molarity and explain its relation to moles in a solution.
     subject: Chemistry
     url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
 related_article3:
     id: 167624
-    title: Define molarity and explain its relation to moles in a solution.
+    title: >-
+        Define molarity and explain its relation to moles in a solution.
     subject: Chemistry
     url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
 related_article4:
-    id: 167630
-    title: Describe the characteristics of basic solutions and their pH range.
+    id: 167627
+    title: >-
+        Why is the logarithmic scale important in understanding pH and concentration differences?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
 related_article5:
-    id: 167621
-    title: Describe the formation of hydronium ions and their concentration in pure water.
+    id: 167629
+    title: >-
+        What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-acidic-solutions-in-terms-of-ph-and-hydrogen-ion-concentration
 ---
 
 &nbsp;

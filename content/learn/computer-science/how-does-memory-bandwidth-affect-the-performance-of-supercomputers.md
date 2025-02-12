@@ -2,8 +2,10 @@
 _schema: default
 id: 161541
 date: 2025-01-24
-title: How does memory bandwidth affect the performance of supercomputers?
-article_title: How does memory bandwidth affect the performance of supercomputers?
+title: >-
+    How does memory bandwidth affect the performance of supercomputers?
+article_title: >-
+    How does memory bandwidth affect the performance of supercomputers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-memory-bandwidth-affect-the-performance-of-supercomputers.md
 url: /learn/computer-science/questions/how-does-memory-bandwidth-affect-the-performance-of-supercomputers
 score: -1.0
 related_article1:
-    id: 161311
-    title: How do supercomputers differ in their uses compared to mainframe computers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
-related_article2:
-    id: 161313
-    title: How does encryption contribute to access control in computing security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
-related_article3:
-    id: 161534
-    title: What are the key characteristics of mainframe computers that distinguish them from other types of computers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers-that-distinguish-them-from-other-types-of-computers
-related_article4:
-    id: 161565
-    title: What is the difference between lossless and lossy data compression?
+    id: 161549
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
-related_article5:
-    id: 161319
-    title: How do compilers differ from interpreters in the context of translators?
+related_article2:
+    id: 161534
+    title: >-
+        What are the key characteristics of mainframe computers that distinguish them from other types of computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers-that-distinguish-them-from-other-types-of-computers
+related_article3:
+    id: 161317
+    title: >-
+        What are the advantages of using water cooling over air cooling in heat maintenance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-water-cooling-over-air-cooling-in-heat-maintenance
+related_article4:
+    id: 161546
+    title: >-
+        What is the role of device drivers in system software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+related_article5:
+    id: 161323
+    title: >-
+        How does licensing differ between open source and proprietary software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
 ---
 
 &nbsp;

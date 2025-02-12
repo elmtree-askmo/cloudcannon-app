@@ -2,8 +2,10 @@
 _schema: default
 id: 168508
 date: 2025-02-03
-title: What are the key responsibilities and skills required for success in food service careers?
-article_title: What are the key responsibilities and skills required for success in food service careers?
+title: >-
+    What are the key responsibilities and skills required for success in food service careers?
+article_title: >-
+    What are the key responsibilities and skills required for success in food service careers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-responsibilities-and-skills-required-for-success-in-
 url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
 score: -1.0
 related_article1:
-    id: 168494
-    title: What are the career opportunities available in the medical field?
+    id: 168491
+    title: >-
+        What are the primary job roles and responsibilities in the food service industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+    url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 related_article2:
-    id: 168487
-    title: What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
+    id: 168490
+    title: >-
+        What skills are essential for managerial roles in business administration?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-personal-interests-and-evaluating-natural-talents-for-career-suitability
+    url: /learn/education-studies/questions/what-skills-are-essential-for-managerial-roles-in-business-administration
 related_article3:
-    id: 168497
-    title: What are the characteristics of systematic work preferences, and what career options are suitable for individuals with these preferences?
+    id: 168509
+    title: >-
+        What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-suitable-for-individuals-with-these-preferences
+    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
 related_article4:
-    id: 168500
-    title: What problem-solving and reasoning skills are necessary for technology-related job roles?
+    id: 168502
+    title: >-
+        What are the key responsibilities of administrative duties in a business setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-problemsolving-and-reasoning-skills-are-necessary-for-technologyrelated-job-roles
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-administrative-duties-in-a-business-setting
 related_article5:
-    id: 168513
-    title: What are the key components of persuasive communication skills, and how can they be developed for career success?
+    id: 168492
+    title: >-
+        How do customer interaction levels vary in different food service roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-skills-and-how-can-they-be-developed-for-career-success
+    url: /learn/education-studies/questions/how-do-customer-interaction-levels-vary-in-different-food-service-roles
 ---
 
 &nbsp;

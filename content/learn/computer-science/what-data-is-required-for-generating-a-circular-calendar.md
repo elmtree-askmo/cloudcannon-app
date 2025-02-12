@@ -2,8 +2,10 @@
 _schema: default
 id: 160720
 date: 2025-01-24
-title: What data is required for generating a circular calendar?
-article_title: What data is required for generating a circular calendar?
+title: >-
+    What data is required for generating a circular calendar?
+article_title: >-
+    What data is required for generating a circular calendar?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-data-is-required-for-generating-a-circular-calendar.md
 url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar
 score: -1.0
 related_article1:
-    id: 160862
-    title: Describe the divide and conquer strategy in algorithm development.
+    id: 160871
+    title: >-
+        What constraints must be considered for binary search to be effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
+    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
 related_article2:
-    id: 160692
-    title: How does transitioning from a problem to a program aid in problem solving?
+    id: 160797
+    title: >-
+        How do day of the week calculation algorithms utilize reference dates?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-solving
+    url: /learn/computer-science/questions/how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
 related_article3:
-    id: 160863
-    title: How does representation influence algorithm complexity?
+    id: 160865
+    title: >-
+        Explain the concept of lists and how they are implemented as arrays.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
 related_article4:
-    id: 160718
-    title: How do constraints impact algorithm design?
+    id: 161029
+    title: >-
+        What are the advantages of using non-numeric indices in associative arrays?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
 related_article5:
-    id: 160790
-    title: What are the challenges in proving software solutions compared to testing them?
+    id: 160867
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 ---
 
 &nbsp;

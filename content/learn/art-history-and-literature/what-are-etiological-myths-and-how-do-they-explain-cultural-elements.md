@@ -2,8 +2,10 @@
 _schema: default
 id: 163880
 date: 2025-01-28
-title: What are etiological myths, and how do they explain cultural elements?
-article_title: What are etiological myths, and how do they explain cultural elements?
+title: >-
+    What are etiological myths, and how do they explain cultural elements?
+article_title: >-
+    What are etiological myths, and how do they explain cultural elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-etiological-myths-and-how-do-they-explain-cultural-elements.
 url: /learn/art-history-and-literature/questions/what-are-etiological-myths-and-how-do-they-explain-cultural-elements
 score: 9.0
 related_article1:
-    id: 163882
-    title: In what ways do myths reflect power struggles and their resolutions?
+    id: 163877
+    title: >-
+        What is the symbolic significance of the lyre in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-do-myths-reflect-power-struggles-and-their-resolutions
+    url: /learn/art-history-and-literature/questions/what-is-the-symbolic-significance-of-the-lyre-in-greek-mythology
 related_article2:
-    id: 163873
-    title: What are the key factors that influence interpersonal relationships among Greek gods?
+    id: 163879
+    title: >-
+        How do inventions in mythology symbolize human advancement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
+    url: /learn/art-history-and-literature/questions/how-do-inventions-in-mythology-symbolize-human-advancement
 related_article3:
     id: 163873
-    title: What are the key factors that influence interpersonal relationships among Greek gods?
+    title: >-
+        What are the key factors that influence interpersonal relationships among Greek gods?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
 related_article4:
-    id: 163885
-    title: How do common themes in myths connect different cultures?
+    id: 163881
+    title: >-
+        How do myths use jealousy as a motivating factor among gods?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-common-themes-in-myths-connect-different-cultures
+    url: /learn/art-history-and-literature/questions/how-do-myths-use-jealousy-as-a-motivating-factor-among-gods
 related_article5:
     id: 163882
-    title: In what ways do myths reflect power struggles and their resolutions?
+    title: >-
+        In what ways do myths reflect power struggles and their resolutions?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-do-myths-reflect-power-struggles-and-their-resolutions
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 165749
 date: 2025-01-29
-title: What is the EUI-64 method in the context of IPv6 addressing?
-article_title: What is the EUI-64 method in the context of IPv6 addressing?
+title: >-
+    What is the EUI-64 method in the context of IPv6 addressing?
+article_title: >-
+    What is the EUI-64 method in the context of IPv6 addressing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-eui64-method-in-the-context-of-ipv6-addressing.md
 url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
 score: -1.0
 related_article1:
-    id: 165759
-    title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+    id: 165741
+    title: >-
+        What is the purpose of using a double colon in IPv6 address notation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
 related_article2:
-    id: 165745
-    title: What are the components of the structure of a Global Unicast Address (GUA)?
+    id: 165758
+    title: >-
+        How is static IPv6 address configuration performed on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
+    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
 related_article3:
-    id: 165738
-    title: What are the primary reasons for the transition from IPv4 to IPv6?
+    id: 165756
+    title: >-
+        Describe the encapsulation process in IPv6 tunneling.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-reasons-for-the-transition-from-ipv4-to-ipv6
+    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
 related_article4:
-    id: 165738
-    title: What are the primary reasons for the transition from IPv4 to IPv6?
+    id: 165763
+    title: >-
+        When is the double colon notation used in IPv6 addresses, and what is its limitation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-reasons-for-the-transition-from-ipv4-to-ipv6
+    url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
 related_article5:
-    id: 165751
-    title: Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
+    id: 165742
+    title: >-
+        Differentiate between unicast, multicast, and anycast IPv6 address types.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
+    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
 ---
 
 &nbsp;

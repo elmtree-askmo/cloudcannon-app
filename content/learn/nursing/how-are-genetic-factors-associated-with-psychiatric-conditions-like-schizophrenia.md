@@ -2,8 +2,10 @@
 _schema: default
 id: 170441
 date: 2025-02-06
-title: How are genetic factors associated with psychiatric conditions like schizophrenia?
-article_title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+title: >-
+    How are genetic factors associated with psychiatric conditions like schizophrenia?
+article_title: >-
+    How are genetic factors associated with psychiatric conditions like schizophrenia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: how-are-genetic-factors-associated-with-psychiatric-conditions-like-s
 url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
 score: -1.0
 related_article1:
-    id: 170454
-    title: What are the causes and symptoms of viral meningitis, and how is it treated?
+    id: 170446
+    title: >-
+        What is the role of the withdrawal reflex in motor function?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
 related_article2:
-    id: 170450
-    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    id: 170451
+    title: >-
+        How are dermatomes mapped, and what is their clinical significance?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+    url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
 related_article3:
-    id: 170440
-    title: What percentage of the human genome is dedicated to neurology, and why is this significant?
+    id: 170451
+    title: >-
+        How are dermatomes mapped, and what is their clinical significance?
     subject: Nursing
-    url: /learn/nursing/questions/what-percentage-of-the-human-genome-is-dedicated-to-neurology-and-why-is-this-significant
+    url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
 related_article4:
+    id: 170458
+    title: >-
+        How does neuroplasticity contribute to learning and memory?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
+related_article5:
     id: 170449
-    title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    title: >-
+        How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
     subject: Nursing
     url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
 ---

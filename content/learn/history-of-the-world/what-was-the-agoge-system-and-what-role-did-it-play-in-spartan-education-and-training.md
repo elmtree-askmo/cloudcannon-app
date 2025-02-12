@@ -2,8 +2,10 @@
 _schema: default
 id: 163594
 date: 2025-01-27
-title: What was the Agoge system, and what role did it play in Spartan education and training?
-article_title: What was the Agoge system, and what role did it play in Spartan education and training?
+title: >-
+    What was the Agoge system, and what role did it play in Spartan education and training?
+article_title: >-
+    What was the Agoge system, and what role did it play in Spartan education and training?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-educat
 url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
 score: 9.0
 related_article1:
+    id: 163598
+    title: >-
+        What was the significance of Spartan military training in Greek warfare?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
+related_article2:
+    id: 163597
+    title: >-
+        Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
+related_article3:
     id: 163595
-    title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
+    title: >-
+        What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
-related_article2:
-    id: 163608
-    title: What were some key historical events in Spartan history, and how did they influence the Greek world?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
-related_article3:
-    id: 163608
-    title: What were some key historical events in Spartan history, and how did they influence the Greek world?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
 related_article4:
-    id: 163605
-    title: What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+    id: 163588
+    title: >-
+        What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
-related_article5:
-    id: 163603
-    title: What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-religion-and-mythology-in-spartan-culture-particularly-the-worship-of-athena
+    url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
 ---
 
 &nbsp;

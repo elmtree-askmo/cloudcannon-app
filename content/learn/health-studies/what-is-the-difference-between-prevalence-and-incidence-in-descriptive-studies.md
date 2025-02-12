@@ -2,8 +2,10 @@
 _schema: default
 id: 163255
 date: 2025-01-26
-title: What is the difference between prevalence and incidence in descriptive studies?
-article_title: What is the difference between prevalence and incidence in descriptive studies?
+title: >-
+    What is the difference between prevalence and incidence in descriptive studies?
+article_title: >-
+    What is the difference between prevalence and incidence in descriptive studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-prevalence-and-incidence-in-descriptiv
 url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
 score: -1.0
 related_article1:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
+    id: 163252
+    title: >-
+        How do descriptive studies differ from analytic studies in terms of study design?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
+    url: /learn/health-studies/questions/how-do-descriptive-studies-differ-from-analytic-studies-in-terms-of-study-design
 related_article2:
+    id: 163263
+    title: >-
+        How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+related_article3:
+    id: 163257
+    title: >-
+        What is sampling bias and how can it affect the results of a study?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-sampling-bias-and-how-can-it-affect-the-results-of-a-study
+related_article4:
     id: 163253
-    title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    title: >-
+        What are the components of a Directed Acyclic Graph (DAG) and their significance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
-related_article3:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
-related_article4:
-    id: 163258
-    title: How does the traditional evidence-based medicine pyramid differ from the updated version?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-traditional-evidencebased-medicine-pyramid-differ-from-the-updated-version
 related_article5:
-    id: 163254
-    title: How can a DAG be used to identify confounders in a study?
+    id: 163252
+    title: >-
+        How do descriptive studies differ from analytic studies in terms of study design?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
+    url: /learn/health-studies/questions/how-do-descriptive-studies-differ-from-analytic-studies-in-terms-of-study-design
 ---
 
 &nbsp;

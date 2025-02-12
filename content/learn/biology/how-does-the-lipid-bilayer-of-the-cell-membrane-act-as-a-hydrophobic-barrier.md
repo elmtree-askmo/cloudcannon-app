@@ -2,8 +2,10 @@
 _schema: default
 id: 167167
 date: 2025-01-31
-title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
-article_title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+title: >-
+    How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+article_title: >-
+    How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-
 url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
 score: -1.0
 related_article1:
-    id: 167160
-    title: Describe the function of the Na+-K+ pump in active transport.
+    id: 167165
+    title: >-
+        Explain how the concentration gradient affects passive transport.
     subject: Biology
-    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
 related_article2:
-    id: 167166
-    title: Why is active transport necessary for moving substances against their concentration gradient?
-    subject: Biology
-    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
-related_article3:
     id: 167161
-    title: How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
+    title: >-
+        How do transport proteins assist in the movement of ions and polar molecules across the cell membrane?
     subject: Biology
     url: /learn/biology/questions/how-do-transport-proteins-assist-in-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
+related_article3:
+    id: 167165
+    title: >-
+        Explain how the concentration gradient affects passive transport.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
 related_article4:
-    id: 167164
-    title: What types of substances are typically transported via endocytosis?
+    id: 167157
+    title: >-
+        How do channel proteins facilitate the movement of substances across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
-related_article5:
-    id: 167162
-    title: What is the significance of ATP in the function of pumps during active transport?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 ---
 
 &nbsp;

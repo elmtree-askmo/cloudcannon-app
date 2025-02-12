@@ -2,8 +2,10 @@
 _schema: default
 id: 163592
 date: 2025-01-27
-title: What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
-article_title: What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
+title: >-
+    What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
+article_title: >-
+    What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influenc
 url: /learn/history-of-the-world/questions/what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influence-their-reputation-in-the-greek-world
 score: 9.5
 related_article1:
-    id: 163591
-    title: How did Sparta's urban development compare to that of Athens?
+    id: 163595
+    title: >-
+        What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
+    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
 related_article2:
-    id: 163594
-    title: What was the Agoge system, and what role did it play in Spartan education and training?
+    id: 163586
+    title: >-
+        What are some challenges in pronouncing Greek terms when using the Latin alphabet?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
+    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
 related_article3:
-    id: 163589
-    title: How did non-Spartan authors contribute to the skewed perception of Sparta?
+    id: 163593
+    title: >-
+        Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
+    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
 related_article4:
-    id: 163588
-    title: What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
+    id: 163596
+    title: >-
+        How did the Dorian dialect influence the Greek language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
+    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
 related_article5:
-    id: 163590
-    title: What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+    id: 163597
+    title: >-
+        Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
+    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
 ---
 
 &nbsp;

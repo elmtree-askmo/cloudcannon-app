@@ -2,8 +2,10 @@
 _schema: default
 id: 167680
 date: 2025-01-31
-title: What is the role of glucocorticoids in stress management, and what are their behavioral implications?
-article_title: What is the role of glucocorticoids in stress management, and what are their behavioral implications?
+title: >-
+    What is the role of glucocorticoids in stress management, and what are their behavioral implications?
+article_title: >-
+    What is the role of glucocorticoids in stress management, and what are their behavioral implications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-glucocorticoids-in-stress-management-and-what-are
 url: /learn/others/questions/what-is-the-role-of-glucocorticoids-in-stress-management-and-what-are-their-behavioral-implications
 score: -1.0
 related_article1:
-    id: 167683
-    title: What methodologies are used in comparative studies of animal behavior, and why are they important?
+    id: 167672
+    title: >-
+        What are the different types of selection, and how do they affect genetic variation?
     subject: Others
-    url: /learn/others/questions/what-methodologies-are-used-in-comparative-studies-of-animal-behavior-and-why-are-they-important
+    url: /learn/others/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-genetic-variation
 related_article2:
     id: 167666
-    title: Provide an example of how proximate and ultimate causes are interconnected in animal behavior.
+    title: >-
+        Provide an example of how proximate and ultimate causes are interconnected in animal behavior.
     subject: Others
     url: /learn/others/questions/provide-an-example-of-how-proximate-and-ultimate-causes-are-interconnected-in-animal-behavior
 related_article3:
-    id: 167672
-    title: What are the different types of selection, and how do they affect genetic variation?
+    id: 167673
+    title: >-
+        Provide an example of adaptation in animal behavior and its role in evolution.
     subject: Others
-    url: /learn/others/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-genetic-variation
+    url: /learn/others/questions/provide-an-example-of-adaptation-in-animal-behavior-and-its-role-in-evolution
 related_article4:
+    id: 167683
+    title: >-
+        What methodologies are used in comparative studies of animal behavior, and why are they important?
+    subject: Others
+    url: /learn/others/questions/what-methodologies-are-used-in-comparative-studies-of-animal-behavior-and-why-are-they-important
+related_article5:
     id: 167668
-    title: What are the different types of learning, and how do they contribute to an animal's survival?
+    title: >-
+        What are the different types of learning, and how do they contribute to an animal's survival?
     subject: Others
     url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
-related_article5:
-    id: 167679
-    title: How do environmental cues influence seasonal breeding behaviors in animals?
-    subject: Others
-    url: /learn/others/questions/how-do-environmental-cues-influence-seasonal-breeding-behaviors-in-animals
 ---
 
 &nbsp;

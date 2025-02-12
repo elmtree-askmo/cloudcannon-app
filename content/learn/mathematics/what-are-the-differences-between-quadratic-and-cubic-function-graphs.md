@@ -2,8 +2,10 @@
 _schema: default
 id: 163740
 date: 2025-01-27
-title: What are the differences between quadratic and cubic function graphs?
-article_title: What are the differences between quadratic and cubic function graphs?
+title: >-
+    What are the differences between quadratic and cubic function graphs?
+article_title: >-
+    What are the differences between quadratic and cubic function graphs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-quadratic-and-cubic-function-graphs.
 url: /learn/mathematics/questions/what-are-the-differences-between-quadratic-and-cubic-function-graphs
 score: -1.0
 related_article1:
-    id: 163732
-    title: How do you graph a piecewise function?
+    id: 163735
+    title: >-
+        What is the significance of intercepts and vertex in graphing functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-graph-a-piecewise-function
+    url: /learn/mathematics/questions/what-is-the-significance-of-intercepts-and-vertex-in-graphing-functions
 related_article2:
+    id: 163730
+    title: >-
+        How do you convert a quadratic equation from vertex form to standard form?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-convert-a-quadratic-equation-from-vertex-form-to-standard-form
+related_article3:
     id: 163738
-    title: What is the importance of symmetry in quadratic functions?
+    title: >-
+        What is the importance of symmetry in quadratic functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-importance-of-symmetry-in-quadratic-functions
-related_article3:
-    id: 163741
-    title: How do innovations impact business growth modeling?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-innovations-impact-business-growth-modeling
 related_article4:
-    id: 163734
-    title: How is the average rate of change calculated for a function?
+    id: 163731
+    title: >-
+        What are the characteristics of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-average-rate-of-change-calculated-for-a-function
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-exponential-functions
 related_article5:
-    id: 163739
-    title: How can real-world applications of functions be used in business modeling?
+    id: 163726
+    title: >-
+        What is the role of critical thinking in mathematical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-realworld-applications-of-functions-be-used-in-business-modeling
+    url: /learn/mathematics/questions/what-is-the-role-of-critical-thinking-in-mathematical-modeling
 ---
 
 &nbsp;

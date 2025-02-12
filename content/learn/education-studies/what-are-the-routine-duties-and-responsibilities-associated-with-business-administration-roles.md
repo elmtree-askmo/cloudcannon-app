@@ -2,8 +2,10 @@
 _schema: default
 id: 168489
 date: 2025-02-03
-title: What are the routine duties and responsibilities associated with business administration roles?
-article_title: What are the routine duties and responsibilities associated with business administration roles?
+title: >-
+    What are the routine duties and responsibilities associated with business administration roles?
+article_title: >-
+    What are the routine duties and responsibilities associated with business administration roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-routine-duties-and-responsibilities-associated-with-busi
 url: /learn/education-studies/questions/what-are-the-routine-duties-and-responsibilities-associated-with-business-administration-roles
 score: -1.0
 related_article1:
-    id: 168513
-    title: What are the key components of persuasive communication skills, and how can they be developed for career success?
+    id: 168494
+    title: >-
+        What are the career opportunities available in the medical field?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-skills-and-how-can-they-be-developed-for-career-success
+    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
 related_article2:
-    id: 168504
-    title: What are the essential qualities of assertiveness in the workplace, and how can they be developed?
+    id: 168496
+    title: >-
+        What are the key components of persuasive communication, and how can they be applied in career paths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
+    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
 related_article3:
-    id: 168507
-    title: What are the primary responsibilities of routine and managerial roles in business administration?
+    id: 168501
+    title: >-
+        How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-routine-and-managerial-roles-in-business-administration
+    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
 related_article4:
-    id: 168502
-    title: What are the key responsibilities of administrative duties in a business setting?
+    id: 168491
+    title: >-
+        What are the primary job roles and responsibilities in the food service industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-administrative-duties-in-a-business-setting
+    url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 related_article5:
-    id: 168511
-    title: What are the main responsibilities and skills required for teaching and social service roles?
+    id: 168508
+    title: >-
+        What are the key responsibilities and skills required for success in food service careers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
 ---
 
 &nbsp;

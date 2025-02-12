@@ -2,8 +2,10 @@
 _schema: default
 id: 169466
 date: 2025-02-05
-title: Why is a full body examination important in exposure assessment?
-article_title: Why is a full body examination important in exposure assessment?
+title: >-
+    Why is a full body examination important in exposure assessment?
+article_title: >-
+    Why is a full body examination important in exposure assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-a-full-body-examination-important-in-exposure-assessment.md
 url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
 score: -1.0
 related_article1:
-    id: 169474
-    title: How does clinical decision-making impact patient outcomes and treatment plans?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-clinical-decisionmaking-impact-patient-outcomes-and-treatment-plans
-related_article2:
     id: 169467
-    title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    title: >-
+        What are the normal ranges for vital signs, and why is it important to recognize deviations?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
+related_article2:
+    id: 169465
+    title: >-
+        How is the Glasgow Coma Scale used to assess neurological function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
 related_article3:
-    id: 169472
-    title: What immediate actions should be taken in response to signs of patient deterioration?
+    id: 169469
+    title: >-
+        What is the purpose of the NEWS chart, and what are its main components?
     subject: Nursing
-    url: /learn/nursing/questions/what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration
+    url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
 related_article4:
-    id: 169464
-    title: What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    id: 169462
+    title: >-
+        What are the key techniques used in airway management to prevent obstruction?
     subject: Nursing
-    url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
-related_article5:
-    id: 169470
-    title: How do you interpret NEWS scores to make clinical decisions?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
+    url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
 ---
 
 &nbsp;

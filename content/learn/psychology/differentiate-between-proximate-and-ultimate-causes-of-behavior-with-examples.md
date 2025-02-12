@@ -2,8 +2,10 @@
 _schema: default
 id: 165318
 date: 2025-01-28
-title: Differentiate between proximate and ultimate causes of behavior with examples.
-article_title: Differentiate between proximate and ultimate causes of behavior with examples.
+title: >-
+    Differentiate between proximate and ultimate causes of behavior with examples.
+article_title: >-
+    Differentiate between proximate and ultimate causes of behavior with examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-proximate-and-ultimate-causes-of-behavior-with-
 url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
 score: -1.0
 related_article1:
-    id: 165323
-    title: Explain the mechanisms of cultural transmission and its impact on animal societies.
+    id: 165329
+    title: >-
+        Define homology and homoplasy and explain their differences with examples from animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
+    url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
 related_article2:
-    id: 165321
-    title: What are the principles of natural selection and how do they apply to animal behavior?
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
 related_article3:
     id: 165323
-    title: Explain the mechanisms of cultural transmission and its impact on animal societies.
+    title: >-
+        Explain the mechanisms of cultural transmission and its impact on animal societies.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
 related_article4:
-    id: 165326
-    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
 related_article5:
-    id: 165326
-    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    id: 165320
+    title: >-
+        Describe the role of ontogeny and environmental influences in the development of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+    url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165946
 date: 2025-01-29
-title: How did the First Impressionist Exhibition influence the development of Impressionist techniques?
-article_title: How did the First Impressionist Exhibition influence the development of Impressionist techniques?
+title: >-
+    How did the First Impressionist Exhibition influence the development of Impressionist techniques?
+article_title: >-
+    How did the First Impressionist Exhibition influence the development of Impressionist techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-first-impressionist-exhibition-influence-the-development-
 url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
 score: 9.5
 related_article1:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
+    id: 165956
+    title: >-
+        How did Paris serve as an art hub and influence exhibition practices in the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
 related_article2:
-    id: 165941
-    title: What were the main reasons for the emergence of alternative art exhibitions in Paris?
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
 related_article3:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
+    id: 165944
+    title: >-
+        In what ways did the Salon des Refusés promote avant-garde art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
 related_article4:
-    id: 165947
-    title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
+    id: 165944
+    title: >-
+        In what ways did the Salon des Refusés promote avant-garde art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
 related_article5:
-    id: 165953
-    title: Who were the key artists involved in the development of Cubism, and what were their contributions?
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-artists-involved-in-the-development-of-cubism-and-what-were-their-contributions
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
 ---
 
 &nbsp;

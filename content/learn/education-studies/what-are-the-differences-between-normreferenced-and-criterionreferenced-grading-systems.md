@@ -2,8 +2,10 @@
 _schema: default
 id: 164882
 date: 2025-01-28
-title: What are the differences between norm-referenced and criterion-referenced grading systems?
-article_title: What are the differences between norm-referenced and criterion-referenced grading systems?
+title: >-
+    What are the differences between norm-referenced and criterion-referenced grading systems?
+article_title: >-
+    What are the differences between norm-referenced and criterion-referenced grading systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-normreferenced-and-criterionreferenc
 url: /learn/education-studies/questions/what-are-the-differences-between-normreferenced-and-criterionreferenced-grading-systems
 score: -1.0
 related_article1:
-    id: 164879
-    title: What is the difference between open-ended and closed-ended questions?
+    id: 164876
+    title: >-
+        What are the essential components of an effective presentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-openended-and-closedended-questions
+    url: /learn/education-studies/questions/what-are-the-essential-components-of-an-effective-presentation
 related_article2:
     id: 164883
-    title: How can consistency be maintained in grading systems?
+    title: >-
+        How can consistency be maintained in grading systems?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
 related_article3:
-    id: 164871
-    title: What is the primary purpose of assessment in education?
+    id: 164874
+    title: >-
+        How can scoring rubrics benefit the assessment process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-assessment-in-education
+    url: /learn/education-studies/questions/how-can-scoring-rubrics-benefit-the-assessment-process
 related_article4:
-    id: 164884
-    title: What are the potential effects of grade inflation on student perceptions?
+    id: 164873
+    title: >-
+        What are the key components of objective scoring in test scoring?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-potential-effects-of-grade-inflation-on-student-perceptions
+    url: /learn/education-studies/questions/what-are-the-key-components-of-objective-scoring-in-test-scoring
 related_article5:
-    id: 164872
-    title: How can assessment criteria be aligned with learning objectives?
+    id: 164875
+    title: >-
+        What are the main challenges associated with subjective scoring?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assessment-criteria-be-aligned-with-learning-objectives
+    url: /learn/education-studies/questions/what-are-the-main-challenges-associated-with-subjective-scoring
 ---
 
 &nbsp;

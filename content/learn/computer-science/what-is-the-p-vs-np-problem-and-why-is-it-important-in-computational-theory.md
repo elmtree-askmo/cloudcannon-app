@@ -2,8 +2,10 @@
 _schema: default
 id: 161273
 date: 2025-01-24
-title: What is the P vs NP problem, and why is it important in computational theory?
-article_title: What is the P vs NP problem, and why is it important in computational theory?
+title: >-
+    What is the P vs NP problem, and why is it important in computational theory?
+article_title: >-
+    What is the P vs NP problem, and why is it important in computational theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-
 url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
 score: -1.0
 related_article1:
-    id: 161091
-    title: What role does abstraction play in algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-algorithm-design
-related_article2:
-    id: 161102
-    title: What is the P vs NP problem, and why is it important in computational theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
-related_article3:
     id: 161103
-    title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
+    title: >-
+        Explain the significance of the traveling salesman problem in the context of NP-completeness.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
-related_article4:
-    id: 160968
-    title: How does understanding cardinality impact set theory and computability?
+related_article2:
+    id: 161140
+    title: >-
+        What are the properties of rational and irrational numbers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-properties-of-rational-and-irrational-numbers
+related_article3:
+    id: 160821
+    title: >-
+        How does understanding cardinality impact set theory and computability?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
-related_article5:
-    id: 160807
-    title: Describe the traveling salesman problem and its significance in NP-completeness.
+related_article4:
+    id: 160964
+    title: >-
+        What challenges are associated with solving the traveling salesman problem?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-traveling-salesman-problem-and-its-significance-in-npcompleteness
+    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
+related_article5:
+    id: 160965
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
 ---
 
 &nbsp;

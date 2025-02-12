@@ -2,8 +2,10 @@
 _schema: default
 id: 166378
 date: 2025-01-30
-title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
-article_title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
+title: >-
+    Explain the differences between proximate and ultimate causes in animal behavior with examples.
+article_title: >-
+    Explain the differences between proximate and ultimate causes in animal behavior with examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-differences-between-proximate-and-ultimate-causes-in-anim
 url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
 score: -1.0
 related_article1:
-    id: 166393
-    title: What are the effects of sensory input and integration on animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
-related_article2:
-    id: 166387
-    title: What is heritability, and how is it studied in behavioral traits?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
-related_article3:
-    id: 166391
-    title: How do hormone-receptor interactions influence animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
-related_article4:
-    id: 166379
-    title: Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
-related_article5:
     id: 166375
-    title: How do behavioral adaptations enhance an animal's survival and reproduction?
+    title: >-
+        How do behavioral adaptations enhance an animal's survival and reproduction?
     subject: Psychology
     url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+related_article2:
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article3:
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article4:
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+related_article5:
+    id: 166374
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 ---
 
 &nbsp;

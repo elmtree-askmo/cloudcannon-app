@@ -2,8 +2,10 @@
 _schema: default
 id: 164153
 date: 2025-01-28
-title: What are the similarities between understanding game rules and moral development?
-article_title: What are the similarities between understanding game rules and moral development?
+title: >-
+    What are the similarities between understanding game rules and moral development?
+article_title: >-
+    What are the similarities between understanding game rules and moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-similarities-between-understanding-game-rules-and-moral-
 url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
 score: -1.0
 related_article1:
-    id: 164159
-    title: What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
+    id: 164155
+    title: >-
+        How do children in the heteronymous stage perceive authority and rules according to Piaget?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities
+    url: /learn/psychology/questions/how-do-children-in-the-heteronymous-stage-perceive-authority-and-rules-according-to-piaget
 related_article2:
     id: 164163
-    title: What role do game rules play in Piaget's research on moral development?
+    title: >-
+        What role do game rules play in Piaget's research on moral development?
     subject: Psychology
     url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
 related_article3:
-    id: 164165
-    title: How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+    id: 164156
+    title: >-
+        What distinguishes the autonomous stage in Piaget's theory of moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
+    url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
 related_article4:
-    id: 164161
-    title: How does Piaget's theory address the continuation of moral development beyond adolescence?
+    id: 164173
+    title: >-
+        What factors influence children's moral judgments between consequences and intentions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
+    url: /learn/psychology/questions/what-factors-influence-childrens-moral-judgments-between-consequences-and-intentions
 related_article5:
-    id: 164166
-    title: What are the implications of comparing game rule understanding with moral standards in Piaget's theory?
+    id: 164152
+    title: >-
+        How does cognitive development serve as a foundation for moral development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-comparing-game-rule-understanding-with-moral-standards-in-piagets-theory
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
 ---
 
 &nbsp;

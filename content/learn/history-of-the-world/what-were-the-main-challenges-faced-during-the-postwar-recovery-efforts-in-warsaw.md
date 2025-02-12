@@ -2,8 +2,10 @@
 _schema: default
 id: 169056
 date: 2025-02-04
-title: What were the main challenges faced during the post-war recovery efforts in Warsaw?
-article_title: What were the main challenges faced during the post-war recovery efforts in Warsaw?
+title: >-
+    What were the main challenges faced during the post-war recovery efforts in Warsaw?
+article_title: >-
+    What were the main challenges faced during the post-war recovery efforts in Warsaw?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-were-the-main-challenges-faced-during-the-postwar-recovery-effor
 url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-during-the-postwar-recovery-efforts-in-warsaw
 score: 9.0
 related_article1:
+    id: 169059
+    title: >-
+        How did the command economy shape the urban form of post-war Warsaw?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-command-economy-shape-the-urban-form-of-postwar-warsaw
+related_article2:
+    id: 169068
+    title: >-
+        How did the government use reconstruction efforts to unify the populace in post-war Warsaw?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-government-use-reconstruction-efforts-to-unify-the-populace-in-postwar-warsaw
+related_article3:
     id: 169057
-    title: How did the Communist regime influence architectural reconstruction in Warsaw?
+    title: >-
+        How did the Communist regime influence architectural reconstruction in Warsaw?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-communist-regime-influence-architectural-reconstruction-in-warsaw
-related_article2:
-    id: 169059
-    title: How did the command economy shape the urban form of post-war Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-command-economy-shape-the-urban-form-of-postwar-warsaw
-related_article3:
-    id: 169059
-    title: How did the command economy shape the urban form of post-war Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-command-economy-shape-the-urban-form-of-postwar-warsaw
 related_article4:
-    id: 169065
-    title: What were the main criticisms of capitalist architecture according to Socialist Realism?
+    id: 169066
+    title: >-
+        How did historical architectural styles influence new architecture in post-war Warsaw?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-criticisms-of-capitalist-architecture-according-to-socialist-realism
-related_article5:
-    id: 169059
-    title: How did the command economy shape the urban form of post-war Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-command-economy-shape-the-urban-form-of-postwar-warsaw
+    url: /learn/history-of-the-world/questions/how-did-historical-architectural-styles-influence-new-architecture-in-postwar-warsaw
 ---
 
 &nbsp;

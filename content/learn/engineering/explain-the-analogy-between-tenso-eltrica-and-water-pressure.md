@@ -2,8 +2,10 @@
 _schema: default
 id: 169832
 date: 2025-02-05
-title: Explain the analogy between tensão elétrica and water pressure.
-article_title: Explain the analogy between tensão elétrica and water pressure.
+title: >-
+    Explain the analogy between tensão elétrica and water pressure.
+article_title: >-
+    Explain the analogy between tensão elétrica and water pressure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-analogy-between-tenso-eltrica-and-water-pressure.md
 url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
 score: -1.0
 related_article1:
-    id: 169833
-    title: Define corrente elétrica and its unit of measurement.
+    id: 169834
+    title: >-
+        How can corrente elétrica be compared to a hydraulic system?
     subject: Engineering
-    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
 related_article2:
-    id: 169826
-    title: How can a bipolo elétrico be compared to a plumbing system?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
-related_article3:
     id: 169825
-    title: What is a bipolo elétrico and what are some examples of it?
+    title: >-
+        What is a bipolo elétrico and what are some examples of it?
     subject: Engineering
     url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
+related_article3:
+    id: 169826
+    title: >-
+        How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 related_article4:
-    id: 169841
-    title: What are the main components of a circuito elétrico?
+    id: 169840
+    title: >-
+        How does resistência affect the flow of corrente in a circuit?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
+    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
 related_article5:
-    id: 169829
-    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    id: 169830
+    title: >-
+        How does a malha differ from a laço in terms of internal paths?
     subject: Engineering
-    url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164398
 date: 2025-01-28
-title: Explain how information is integrated during language comprehension.
-article_title: Explain how information is integrated during language comprehension.
+title: >-
+    Explain how information is integrated during language comprehension.
+article_title: >-
+    Explain how information is integrated during language comprehension.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-how-information-is-integrated-during-language-comprehension.m
 url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
 score: -1.0
 related_article1:
-    id: 164397
-    title: What role does the right hemisphere play in language comprehension?
+    id: 164388
+    title: >-
+        What are some common types of communication disorders, and how do they affect language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
 related_article2:
-    id: 164392
-    title: Identify the brain regions involved in speech production.
+    id: 164383
+    title: >-
+        What are neural models of syntax, and how do they contribute to our understanding of grammar?
     subject: Psychology
-    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
 related_article3:
-    id: 164381
-    title: How does the right brain hemisphere contribute to language processing?
+    id: 164388
+    title: >-
+        What are some common types of communication disorders, and how do they affect language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
 related_article4:
-    id: 164397
-    title: What role does the right hemisphere play in language comprehension?
+    id: 164400
+    title: >-
+        How do psychological theories inform our understanding of language comprehension?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
+    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
 related_article5:
-    id: 164387
-    title: Describe the neural basis of facial expressions and their cognitive interpretation.
+    id: 164390
+    title: >-
+        What are the neural mechanisms involved in speech production?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
 ---
 
 &nbsp;

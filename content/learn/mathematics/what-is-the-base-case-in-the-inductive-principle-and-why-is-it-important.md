@@ -2,8 +2,10 @@
 _schema: default
 id: 170755
 date: 2025-02-06
-title: What is the base case in the inductive principle, and why is it important?
-article_title: What is the base case in the inductive principle, and why is it important?
+title: >-
+    What is the base case in the inductive principle, and why is it important?
+article_title: >-
+    What is the base case in the inductive principle, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-base-case-in-the-inductive-principle-and-why-is-it-import
 url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 170774
-    title: What is the relationship between mathematical axioms and the inductive principle?
+    id: 170772
+    title: >-
+        What are the properties of natural numbers that make them suitable for induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
+    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
 related_article2:
-    id: 170767
-    title: Why is the base case crucial in a proof by induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
-related_article3:
     id: 170768
-    title: What is a common error related to the base case in induction?
+    title: >-
+        What is a common error related to the base case in induction?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-common-error-related-to-the-base-case-in-induction
+related_article3:
+    id: 170774
+    title: >-
+        What is the relationship between mathematical axioms and the inductive principle?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
 related_article4:
-    id: 170762
-    title: Why is induction considered an important proof technique in mathematics?
+    id: 170757
+    title: >-
+        Explain the well-ordering principle of natural numbers and its significance in induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
+    url: /learn/mathematics/questions/explain-the-wellordering-principle-of-natural-numbers-and-its-significance-in-induction
 related_article5:
-    id: 170773
-    title: Explain the role of the successor function in the context of natural numbers.
+    id: 170767
+    title: >-
+        Why is the base case crucial in a proof by induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
+    url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
 ---
 
 &nbsp;

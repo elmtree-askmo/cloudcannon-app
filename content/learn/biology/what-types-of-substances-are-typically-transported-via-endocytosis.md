@@ -2,8 +2,10 @@
 _schema: default
 id: 167164
 date: 2025-01-31
-title: What types of substances are typically transported via endocytosis?
-article_title: What types of substances are typically transported via endocytosis?
+title: >-
+    What types of substances are typically transported via endocytosis?
+article_title: >-
+    What types of substances are typically transported via endocytosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-types-of-substances-are-typically-transported-via-endocytosis.md
 url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
 score: -1.0
 related_article1:
-    id: 167170
-    title: What types of substances are typically transported by passive transport methods?
+    id: 167159
+    title: >-
+        Explain the energy requirement for active transport and how it differs from passive transport.
     subject: Biology
-    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
+    url: /learn/biology/questions/explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport
 related_article2:
-    id: 167165
-    title: Explain how the concentration gradient affects passive transport.
+    id: 167167
+    title: >-
+        How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
     subject: Biology
-    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
+    url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
 related_article3:
-    id: 167169
-    title: Compare the energy requirements of passive and active transport methods.
+    id: 167156
+    title: >-
+        What is the main difference between simple diffusion and facilitated diffusion in passive transport?
     subject: Biology
-    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
 related_article4:
-    id: 167163
-    title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+    id: 167158
+    title: >-
+        What role do carrier proteins play in facilitated diffusion?
     subject: Biology
-    url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
+    url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
+related_article5:
+    id: 167162
+    title: >-
+        What is the significance of ATP in the function of pumps during active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-atp-in-the-function-of-pumps-during-active-transport
 ---
 
 &nbsp;

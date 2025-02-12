@@ -2,8 +2,10 @@
 _schema: default
 id: 170177
 date: 2025-02-06
-title: What is the significance of Pictish stones in understanding Pictish art and symbolism?
-article_title: What is the significance of Pictish stones in understanding Pictish art and symbolism?
+title: >-
+    What is the significance of Pictish stones in understanding Pictish art and symbolism?
+article_title: >-
+    What is the significance of Pictish stones in understanding Pictish art and symbolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-pictish-stones-in-understanding-pictish-a
 url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
 score: 9.0
 related_article1:
-    id: 170167
-    title: Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
-related_article2:
-    id: 170185
-    title: Analyze the structure and historical significance of Tacitus' 'Agricola'.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
-related_article3:
     id: 170183
-    title: What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
+    title: >-
+        What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-did-they-adapt-to-roman-tactics
+related_article2:
+    id: 170181
+    title: >-
+        What insights into Roman life do the Vindolanda Tablets provide, and how are they preserved and studied?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-insights-into-roman-life-do-the-vindolanda-tablets-provide-and-how-are-they-preserved-and-studied
+related_article3:
+    id: 170179
+    title: >-
+        Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
 related_article4:
-    id: 170185
-    title: Analyze the structure and historical significance of Tacitus' 'Agricola'.
+    id: 170178
+    title: >-
+        What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
+    url: /learn/history-of-the-world/questions/what-engineering-techniques-were-used-in-the-construction-of-hadrians-wall-and-how-did-they-contribute-to-its-fortifications
 related_article5:
-    id: 170187
-    title: What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
+    id: 170180
+    title: >-
+        What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
+    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
 ---
 
 &nbsp;

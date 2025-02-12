@@ -2,8 +2,10 @@
 _schema: default
 id: 168771
 date: 2025-02-04
-title: Why do multicellular organisms require specialized systems for gas exchange?
-article_title: Why do multicellular organisms require specialized systems for gas exchange?
+title: >-
+    Why do multicellular organisms require specialized systems for gas exchange?
+article_title: >-
+    Why do multicellular organisms require specialized systems for gas exchange?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-do-multicellular-organisms-require-specialized-systems-for-gas-ex
 url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
 score: -1.0
 related_article1:
-    id: 168769
-    title: How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    id: 168773
+    title: >-
+        How do concentration gradients facilitate gas exchange in animals?
     subject: Biology
-    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
 related_article2:
-    id: 168775
-    title: What are the main components of chloroplasts and their functions in photosynthesis?
+    id: 168780
+    title: >-
+        What are xerophytes and how are they adapted to dry environments?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-components-of-chloroplasts-and-their-functions-in-photosynthesis
+    url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
 related_article3:
-    id: 168781
-    title: Describe the structure of the tracheal system in insects and its role in respiration.
+    id: 168778
+    title: >-
+        What is the role of stomata in the mechanism of transpiration?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
+    url: /learn/biology/questions/what-is-the-role-of-stomata-in-the-mechanism-of-transpiration
 related_article4:
     id: 168781
-    title: Describe the structure of the tracheal system in insects and its role in respiration.
+    title: >-
+        Describe the structure of the tracheal system in insects and its role in respiration.
     subject: Biology
     url: /learn/biology/questions/describe-the-structure-of-the-tracheal-system-in-insects-and-its-role-in-respiration
 related_article5:
-    id: 168773
-    title: How do concentration gradients facilitate gas exchange in animals?
+    id: 168777
+    title: >-
+        Explain the process of gas exchange in plants and its significance in photosynthesis.
     subject: Biology
-    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
+    url: /learn/biology/questions/explain-the-process-of-gas-exchange-in-plants-and-its-significance-in-photosynthesis
 ---
 
 &nbsp;

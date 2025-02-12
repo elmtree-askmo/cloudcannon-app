@@ -2,8 +2,10 @@
 _schema: default
 id: 166931
 date: 2025-01-31
-title: What are the sensory mechanisms involved in detecting stimuli?
-article_title: What are the sensory mechanisms involved in detecting stimuli?
+title: >-
+    What are the sensory mechanisms involved in detecting stimuli?
+article_title: >-
+    What are the sensory mechanisms involved in detecting stimuli?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-sensory-mechanisms-involved-in-detecting-stimuli.md
 url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
 score: -1.0
 related_article1:
-    id: 166921
-    title: What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+    id: 166922
+    title: >-
+        What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
 related_article2:
-    id: 166927
-    title: What are the methods and sources of nutrient acquisition in organisms?
+    id: 166916
+    title: >-
+        What processes are involved in growth and development, and how do nutrients play a role?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms
+    url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
 related_article3:
-    id: 166926
-    title: What role do feedback systems play in maintaining homeostasis?
+    id: 166920
+    title: >-
+        What is the definition of evolution, and how does it contribute to biodiversity?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+    url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
 related_article4:
-    id: 166909
-    title: What are the key characteristics of a hypothesis in scientific investigation?
+    id: 166924
+    title: >-
+        What is the concept of fitness in the context of differential reproductive success?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
+    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
 related_article5:
-    id: 166934
-    title: What factors influence differential reproductive success in natural selection?
+    id: 166932
+    title: >-
+        What are the sources and types of genetic variation, and why are they important for evolution?
     subject: Biology
-    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
 ---
 
 &nbsp;

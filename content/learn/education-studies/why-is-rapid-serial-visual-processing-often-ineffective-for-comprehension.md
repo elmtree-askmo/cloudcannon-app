@@ -2,8 +2,10 @@
 _schema: default
 id: 165584
 date: 2025-01-29
-title: Why is rapid serial visual processing often ineffective for comprehension?
-article_title: Why is rapid serial visual processing often ineffective for comprehension?
+title: >-
+    Why is rapid serial visual processing often ineffective for comprehension?
+article_title: >-
+    Why is rapid serial visual processing often ineffective for comprehension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-rapid-serial-visual-processing-often-ineffective-for-comprehen
 url: /learn/education-studies/questions/why-is-rapid-serial-visual-processing-often-ineffective-for-comprehension
 score: -1.0
 related_article1:
-    id: 165606
-    title: What strategies can be used to avoid daydreaming while reading?
+    id: 165611
+    title: >-
+        How does skimming help in understanding text structure?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-avoid-daydreaming-while-reading
+    url: /learn/education-studies/questions/how-does-skimming-help-in-understanding-text-structure
 related_article2:
-    id: 165610
-    title: What techniques can be used to prioritize reading assignments?
+    id: 165586
+    title: >-
+        How does subvocalization affect reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-prioritize-reading-assignments
+    url: /learn/education-studies/questions/how-does-subvocalization-affect-reading-comprehension
 related_article3:
-    id: 165601
-    title: What are the differences between summarizing and taking detailed notes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-summarizing-and-taking-detailed-notes
-related_article4:
     id: 165594
-    title: How do photoreceptor cells contribute to detail perception in reading?
+    title: >-
+        How do photoreceptor cells contribute to detail perception in reading?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-photoreceptor-cells-contribute-to-detail-perception-in-reading
-related_article5:
+related_article4:
     id: 165579
-    title: What are the roles of eye movements and saccades in visual processing during reading?
+    title: >-
+        What are the roles of eye movements and saccades in visual processing during reading?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing-during-reading
+related_article5:
+    id: 165595
+    title: >-
+        What is the difference between memory recall and recognition in the context of information retention?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-memory-recall-and-recognition-in-the-context-of-information-retention
 ---
 
 &nbsp;

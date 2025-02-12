@@ -2,8 +2,10 @@
 _schema: default
 id: 165066
 date: 2025-01-28
-title: What are the key differences between sampling methods and data sources in statistical analysis?
-article_title: What are the key differences between sampling methods and data sources in statistical analysis?
+title: >-
+    What are the key differences between sampling methods and data sources in statistical analysis?
+article_title: >-
+    What are the key differences between sampling methods and data sources in statistical analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-sampling-methods-and-data-source
 url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
 score: -1.0
 related_article1:
+    id: 165073
+    title: >-
+        How do you select the appropriate test for hypothesis testing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+related_article2:
     id: 165080
-    title: What ethical considerations must be taken into account when conducting research?
+    title: >-
+        What ethical considerations must be taken into account when conducting research?
     subject: Psychology
     url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
-related_article2:
-    id: 165091
-    title: What are the essential elements of academic writing standards in research papers?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
 related_article3:
-    id: 165086
-    title: What is the significance of main effects in research, and how are they identified?
+    id: 165081
+    title: >-
+        What is the difference between qualitative and quantitative analysis in data interpretation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
 related_article4:
-    id: 165090
-    title: What is the importance of comparing research results with previous studies?
+    id: 165070
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 related_article5:
-    id: 165085
-    title: How do you identify and analyze interaction effects in experimental data?
+    id: 165068
+    title: >-
+        What is the role of descriptive statistics in data interpretation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
 ---
 
 &nbsp;

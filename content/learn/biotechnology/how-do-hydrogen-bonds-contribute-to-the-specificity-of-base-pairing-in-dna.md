@@ -2,8 +2,10 @@
 _schema: default
 id: 167537
 date: 2025-01-31
-title: How do hydrogen bonds contribute to the specificity of base pairing in DNA?
-article_title: How do hydrogen bonds contribute to the specificity of base pairing in DNA?
+title: >-
+    How do hydrogen bonds contribute to the specificity of base pairing in DNA?
+article_title: >-
+    How do hydrogen bonds contribute to the specificity of base pairing in DNA?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-i
 url: /learn/biotechnology/questions/how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna
 score: -1.0
 related_article1:
-    id: 167531
-    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    id: 167527
+    title: >-
+        What are the key differences between the nucleotide components of RNA and DNA?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
 related_article2:
-    id: 167531
-    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    id: 167529
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article3:
-    id: 167525
-    title: How does the antiparallel orientation of DNA strands contribute to its function?
+    id: 167529
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article4:
-    id: 167533
-    title: Why is the antiparallel orientation crucial for DNA's structural integrity?
+    id: 167526
+    title: >-
+        What role do hydrogen bonds play in the stability of the DNA double helix?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-the-antiparallel-orientation-crucial-for-dnas-structural-integrity
+    url: /learn/biotechnology/questions/what-role-do-hydrogen-bonds-play-in-the-stability-of-the-dna-double-helix
 related_article5:
-    id: 167528
-    title: How does the single-stranded nature of RNA affect its function compared to DNA?
+    id: 167524
+    title: >-
+        What are the main components of a DNA nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna
+    url: /learn/biotechnology/questions/what-are-the-main-components-of-a-dna-nucleotide
 ---
 
 &nbsp;

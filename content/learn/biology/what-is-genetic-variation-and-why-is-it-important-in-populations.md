@@ -2,8 +2,10 @@
 _schema: default
 id: 167888
 date: 2025-02-01
-title: What is genetic variation and why is it important in populations?
-article_title: What is genetic variation and why is it important in populations?
+title: >-
+    What is genetic variation and why is it important in populations?
+article_title: >-
+    What is genetic variation and why is it important in populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-genetic-variation-and-why-is-it-important-in-populations.md
 url: /learn/biology/questions/what-is-genetic-variation-and-why-is-it-important-in-populations
 score: -1.0
 related_article1:
-    id: 167872
-    title: What is overdominance and how does it manifest in phenotypic outcomes?
+    id: 167885
+    title: >-
+        How does sickle cell disease provide resistance to malaria?
     subject: Biology
-    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
 related_article2:
-    id: 167890
-    title: What is the structure and function of hemoglobin?
+    id: 167873
+    title: >-
+        Define multiple alleles and give an example involving blood types.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
 related_article3:
     id: 167890
-    title: What is the structure and function of hemoglobin?
+    title: >-
+        What is the structure and function of hemoglobin?
     subject: Biology
     url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
 related_article4:
-    id: 167892
-    title: What are the different blood types and how are they determined?
+    id: 167886
+    title: >-
+        What is the genetic basis of cystic fibrosis?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
 related_article5:
-    id: 167892
-    title: What are the different blood types and how are they determined?
+    id: 167872
+    title: >-
+        What is overdominance and how does it manifest in phenotypic outcomes?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
 ---
 
 &nbsp;

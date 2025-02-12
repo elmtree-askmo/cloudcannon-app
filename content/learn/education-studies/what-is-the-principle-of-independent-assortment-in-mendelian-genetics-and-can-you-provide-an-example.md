@@ -2,8 +2,10 @@
 _schema: default
 id: 167831
 date: 2025-02-01
-title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
-article_title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
+title: >-
+    What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
+article_title: >-
+    What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-principle-of-independent-assortment-in-mendelian-genetics
 url: /learn/education-studies/questions/what-is-the-principle-of-independent-assortment-in-mendelian-genetics-and-can-you-provide-an-example
 score: -1.0
 related_article1:
-    id: 167839
-    title: Define complementation and explain its role in genetic pathways.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-complementation-and-explain-its-role-in-genetic-pathways
-related_article2:
-    id: 167843
-    title: What is the significance of quantitative traits in genetics, and how are they measured?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
-related_article3:
-    id: 167846
-    title: What is the role of standard deviation and variance in analyzing genetic data?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-standard-deviation-and-variance-in-analyzing-genetic-data
-related_article4:
-    id: 167851
-    title: How does genetic potential relate to the normal distribution of quantitative traits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
-related_article5:
     id: 167849
-    title: What is the difference between incomplete dominance and incomplete penetrance?
+    title: >-
+        What is the difference between incomplete dominance and incomplete penetrance?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
+related_article2:
+    id: 167847
+    title: >-
+        Describe the concept of gene redundancy and its potential effects on genetic expression.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-concept-of-gene-redundancy-and-its-potential-effects-on-genetic-expression
+related_article3:
+    id: 167845
+    title: >-
+        How do correlation coefficients relate to genetic studies of complex traits?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
+related_article4:
+    id: 167852
+    title: >-
+        What are quantitative trait loci (QTL), and why are they important in genetic research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-quantitative-trait-loci-qtl-and-why-are-they-important-in-genetic-research
+related_article5:
+    id: 167847
+    title: >-
+        Describe the concept of gene redundancy and its potential effects on genetic expression.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-concept-of-gene-redundancy-and-its-potential-effects-on-genetic-expression
 ---
 
 &nbsp;

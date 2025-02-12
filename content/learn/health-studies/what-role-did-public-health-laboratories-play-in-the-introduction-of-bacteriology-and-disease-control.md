@@ -2,8 +2,10 @@
 _schema: default
 id: 162319
 date: 2025-01-25
-title: What role did public health laboratories play in the introduction of bacteriology and disease control?
-article_title: What role did public health laboratories play in the introduction of bacteriology and disease control?
+title: >-
+    What role did public health laboratories play in the introduction of bacteriology and disease control?
+article_title: >-
+    What role did public health laboratories play in the introduction of bacteriology and disease control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-public-health-laboratories-play-in-the-introduction-of-
 url: /learn/health-studies/questions/what-role-did-public-health-laboratories-play-in-the-introduction-of-bacteriology-and-disease-control
 score: -1.0
 related_article1:
-    id: 162338
-    title: What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
+    id: 162352
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
+    url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 related_article2:
-    id: 162343
-    title: What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
-related_article3:
     id: 162350
-    title: How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
+    title: >-
+        How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
+related_article3:
+    id: 162340
+    title: >-
+        What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
 related_article4:
-    id: 162348
-    title: How did the 1985 Non-Smokers Health Act address smoking prohibition in federal buildings and workplaces?
+    id: 162340
+    title: >-
+        What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-1985-nonsmokers-health-act-address-smoking-prohibition-in-federal-buildings-and-workplaces
+    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
 related_article5:
-    id: 162338
-    title: What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
+    id: 162342
+    title: >-
+        How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
+    url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
 ---
 
 &nbsp;

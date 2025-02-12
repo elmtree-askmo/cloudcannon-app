@@ -2,8 +2,10 @@
 _schema: default
 id: 164942
 date: 2025-01-28
-title: What are the core principles of communism?
-article_title: What are the core principles of communism?
+title: >-
+    What are the core principles of communism?
+article_title: >-
+    What are the core principles of communism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-core-principles-of-communism.md
 url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
 score: -1.0
 related_article1:
-    id: 164940
-    title: What are some controversies associated with military aid?
+    id: 164936
+    title: >-
+        What are the different types of questions used in surveys, and how can bias be avoided?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-controversies-associated-with-military-aid
+    url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
 related_article2:
-    id: 164931
-    title: What are the key steps in identifying relevant sources for research articles?
+    id: 164936
+    title: >-
+        What are the different types of questions used in surveys, and how can bias be avoided?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-relevant-sources-for-research-articles
+    url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
 related_article3:
-    id: 164941
-    title: How do media and cultural factors influence political views?
+    id: 164945
+    title: >-
+        What are some key strategies used in counterterrorism efforts?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
+    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 related_article4:
-    id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
+    id: 164945
+    title: >-
+        What are some key strategies used in counterterrorism efforts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
+    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 related_article5:
-    id: 164941
-    title: How do media and cultural factors influence political views?
+    id: 164939
+    title: >-
+        What is the primary purpose of military aid?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
 ---
 
 &nbsp;

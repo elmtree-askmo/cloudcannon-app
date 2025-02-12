@@ -2,8 +2,10 @@
 _schema: default
 id: 162501
 date: 2025-01-25
-title: How does circular turning relate to the concept of rotation?
-article_title: How does circular turning relate to the concept of rotation?
+title: >-
+    How does circular turning relate to the concept of rotation?
+article_title: >-
+    How does circular turning relate to the concept of rotation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-circular-turning-relate-to-the-concept-of-rotation.md
 url: /learn/mathematics/questions/how-does-circular-turning-relate-to-the-concept-of-rotation
 score: -1.0
 related_article1:
-    id: 162252
-    title: Why are transformations important in the study of geometry?
+    id: 162251
+    title: >-
+        How do two-dimensional transformations preserve the properties of geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
 related_article2:
-    id: 162495
-    title: How does translation affect the orientation of a geometric figure?
+    id: 162606
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 related_article3:
-    id: 162245
-    title: How are the vertices of a triangle transformed during a geometric transformation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
-related_article4:
-    id: 162596
-    title: What are the three main types of transformations in geometry?
+    id: 162483
+    title: >-
+        What are the three main types of transformations in geometry?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
-related_article5:
-    id: 162240
-    title: How is the length of a line segment affected by rotation?
+related_article4:
+    id: 162497
+    title: >-
+        What is the impact of vertex transformations on the orientation of parallelograms?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+related_article5:
+    id: 162504
+    title: >-
+        Why are transformations important in the study of geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
 ---
 
 &nbsp;

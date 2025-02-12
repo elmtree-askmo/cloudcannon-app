@@ -2,8 +2,10 @@
 _schema: default
 id: 165748
 date: 2025-01-29
-title: What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
-article_title: What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
+title: >-
+    What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
+article_title: >-
+    What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-methods-are-used-for-dynamic-addressing-of-global-unicast-addres
 url: /learn/computer-science/questions/what-methods-are-used-for-dynamic-addressing-of-global-unicast-addresses-guas-in-ipv6
 score: -1.0
 related_article1:
-    id: 165744
-    title: Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
+    id: 165753
+    title: >-
+        What is the role of the Global Routing Prefix in IPv6 subnetting?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
+    url: /learn/computer-science/questions/what-is-the-role-of-the-global-routing-prefix-in-ipv6-subnetting
 related_article2:
-    id: 165741
-    title: What is the purpose of using a double colon in IPv6 address notation?
+    id: 165760
+    title: >-
+        What is the preferred format for representing IPv6 addresses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+    url: /learn/computer-science/questions/what-is-the-preferred-format-for-representing-ipv6-addresses
 related_article3:
-    id: 165746
-    title: What is the primary purpose of a Link-Local Address (LLA) in IPv6?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
-related_article4:
     id: 165743
-    title: What is the recommended prefix length for IPv6 addresses and why?
+    title: >-
+        What is the recommended prefix length for IPv6 addresses and why?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
-related_article5:
-    id: 165740
-    title: How is an IPv6 address represented in terms of length and notation?
+related_article4:
+    id: 165741
+    title: >-
+        What is the purpose of using a double colon in IPv6 address notation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+related_article5:
+    id: 165746
+    title: >-
+        What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
 ---
 
 &nbsp;

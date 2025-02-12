@@ -2,8 +2,10 @@
 _schema: default
 id: 159766
 date: 2025-01-23
-title: Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
-article_title: Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
+title: >-
+    Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
+article_title: >-
+    Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the
 url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
 score: -1.0
 related_article1:
-    id: 159763
-    title: Describe the characteristics of Orientalism in art and its influence on Western art, including key artists and works.
+    id: 159764
+    title: >-
+        How did gender studies and colonialism influence the representation of gender and race in art?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-characteristics-of-orientalism-in-art-and-its-influence-on-western-art-including-key-artists-and-works
+    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
 related_article2:
-    id: 159796
-    title: How did industrialization and modernization lead to changes in artistic techniques and styles?
+    id: 159792
+    title: >-
+        What is Orientalism in art, and how did it influence Western art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles
+    url: /learn/education-studies/questions/what-is-orientalism-in-art-and-how-did-it-influence-western-art
 related_article3:
-    id: 159765
-    title: What are the origins and key characteristics of Impressionism, and how did it impact art criticism?
+    id: 159795
+    title: >-
+        What was the purpose of the Salon of the Refused and the Salon of Independents, and how did they influence modern art?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-origins-and-key-characteristics-of-impressionism-and-how-did-it-impact-art-criticism
+    url: /learn/education-studies/questions/what-was-the-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-how-did-they-influence-modern-art
 related_article4:
-    id: 159759
-    title: In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    id: 159762
+    title: >-
+        What were the significant changes in the curriculum and focus of art academies, and how did these changes impact artistic development?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
+    url: /learn/education-studies/questions/what-were-the-significant-changes-in-the-curriculum-and-focus-of-art-academies-and-how-did-these-changes-impact-artistic-development
 related_article5:
-    id: 159786
-    title: What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
+    id: 159757
+    title: >-
+        What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-origins-and-establishment-of-the-paris-salon-and-how-did-the-monarchy-influence-its-development
 ---

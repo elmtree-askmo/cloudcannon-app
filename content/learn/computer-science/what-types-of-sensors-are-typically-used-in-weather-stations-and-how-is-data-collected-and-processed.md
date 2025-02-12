@@ -2,8 +2,10 @@
 _schema: default
 id: 161347
 date: 2025-01-24
-title: What types of sensors are typically used in weather stations, and how is data collected and processed?
-article_title: What types of sensors are typically used in weather stations, and how is data collected and processed?
+title: >-
+    What types of sensors are typically used in weather stations, and how is data collected and processed?
+article_title: >-
+    What types of sensors are typically used in weather stations, and how is data collected and processed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-types-of-sensors-are-typically-used-in-weather-stations-and-how-
 url: /learn/computer-science/questions/what-types-of-sensors-are-typically-used-in-weather-stations-and-how-is-data-collected-and-processed
 score: -1.0
 related_article1:
-    id: 161329
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+    id: 161517
+    title: >-
+        Define real-time processing and explain its importance in control systems with examples.
+    subject: Computer Science
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems-with-examples
+related_article2:
+    id: 161532
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
+related_article3:
+    id: 161514
+    title: >-
+        Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
-related_article2:
-    id: 161355
-    title: What is the process and feedback mechanism of traffic lights control systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-and-feedback-mechanism-of-traffic-lights-control-systems
-related_article3:
-    id: 161521
-    title: What types of sensors are commonly used in weather stations, and how is data collected and processed?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-sensors-are-commonly-used-in-weather-stations-and-how-is-data-collected-and-processed
 related_article4:
-    id: 161348
-    title: Describe the methods and sensors used in water pollution monitoring.
+    id: 161343
+    title: >-
+        How does two-point calibration differ from one-point calibration, and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-methods-and-sensors-used-in-water-pollution-monitoring
+    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
 related_article5:
     id: 161332
-    title: Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
+    title: >-
+        Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-role-and-importance-of-a-digital-to-analogue-converter-dac-in-control-systems
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 165942
 date: 2025-01-29
-title: How did alternative exhibitions impact the development of new art styles?
-article_title: How did alternative exhibitions impact the development of new art styles?
+title: >-
+    How did alternative exhibitions impact the development of new art styles?
+article_title: >-
+    How did alternative exhibitions impact the development of new art styles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-alternative-exhibitions-impact-the-development-of-new-art-sty
 url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
 score: 9.0
 related_article1:
-    id: 165949
-    title: What were the goals of the Salon d’Automne, and who were its key organizers?
+    id: 165947
+    title: >-
+        What were the founding objectives of the Salon des Independantes, and who were its key figures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
+    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
 related_article2:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
-related_article3:
     id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
+    title: >-
+        What are the main characteristics and techniques associated with Impressionism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+related_article3:
+    id: 165953
+    title: >-
+        Who were the key artists involved in the development of Cubism, and what were their contributions?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/who-were-the-key-artists-involved-in-the-development-of-cubism-and-what-were-their-contributions
 related_article4:
-    id: 165948
-    title: How did the Salon des Independantes contribute to the promotion of diverse art styles?
+    id: 165940
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
+    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
 related_article5:
-    id: 165961
-    title: How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
+    id: 165960
+    title: >-
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 ---
 
 &nbsp;

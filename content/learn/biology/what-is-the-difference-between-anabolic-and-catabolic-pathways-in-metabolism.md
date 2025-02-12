@@ -2,8 +2,10 @@
 _schema: default
 id: 169955
 date: 2025-02-05
-title: What is the difference between anabolic and catabolic pathways in metabolism?
-article_title: What is the difference between anabolic and catabolic pathways in metabolism?
+title: >-
+    What is the difference between anabolic and catabolic pathways in metabolism?
+article_title: >-
+    What is the difference between anabolic and catabolic pathways in metabolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-anabolic-and-catabolic-pathways-in-met
 url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
 score: -1.0
 related_article1:
-    id: 169954
-    title: How do enzymes exhibit specificity for their substrates?
+    id: 169943
+    title: >-
+        How do peptide bonds form between amino acids?
     subject: Biology
-    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+    url: /learn/biology/questions/how-do-peptide-bonds-form-between-amino-acids
 related_article2:
-    id: 169960
-    title: How does selective permeability contribute to homeostasis in cells?
+    id: 169953
+    title: >-
+        What is the primary structure of a protein?
     subject: Biology
-    url: /learn/biology/questions/how-does-selective-permeability-contribute-to-homeostasis-in-cells
+    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
 related_article3:
-    id: 169939
-    title: What is the difference between covalent and ionic bonds?
+    id: 169962
+    title: >-
+        How does active transport differ from passive transport in terms of energy usage?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
 related_article4:
-    id: 169957
-    title: What is the function of the nucleoid region in prokaryotic cells?
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
 related_article5:
-    id: 169954
-    title: How do enzymes exhibit specificity for their substrates?
+    id: 169942
+    title: >-
+        What are the building blocks of proteins?
     subject: Biology
-    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
 ---
 
 &nbsp;

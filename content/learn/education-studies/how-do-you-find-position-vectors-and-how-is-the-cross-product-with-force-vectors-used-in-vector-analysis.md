@@ -2,8 +2,10 @@
 _schema: default
 id: 166622
 date: 2025-01-31
-title: How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
-article_title: How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
+title: >-
+    How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
+article_title: >-
+    How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-you-find-position-vectors-and-how-is-the-cross-product-with-fo
 url: /learn/education-studies/questions/how-do-you-find-position-vectors-and-how-is-the-cross-product-with-force-vectors-used-in-vector-analysis
 score: -1.0
 related_article1:
-    id: 166613
-    title: What roles are available for teachers, counselors, and social workers in the education sector at the Impact Fair?
+    id: 166621
+    title: >-
+        What defines a couple system, and how do couple forces create moments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-roles-are-available-for-teachers-counselors-and-social-workers-in-the-education-sector-at-the-impact-fair
+    url: /learn/education-studies/questions/what-defines-a-couple-system-and-how-do-couple-forces-create-moments
 related_article2:
-    id: 166625
-    title: How are mechanical systems and force distribution applied in biomedical devices?
+    id: 166620
+    title: >-
+        What is structural stability in rigid body dynamics, and how do static and spinning structures differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-mechanical-systems-and-force-distribution-applied-in-biomedical-devices
+    url: /learn/education-studies/questions/what-is-structural-stability-in-rigid-body-dynamics-and-how-do-static-and-spinning-structures-differ
 related_article3:
-    id: 166615
-    title: What is the Yellow Belt Certification, and how does it enhance a consulting career path?
+    id: 166614
+    title: >-
+        What types of internship opportunities are available, and what is the Direct Intelligence Support Unit Training?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-yellow-belt-certification-and-how-does-it-enhance-a-consulting-career-path
+    url: /learn/education-studies/questions/what-types-of-internship-opportunities-are-available-and-what-is-the-direct-intelligence-support-unit-training
 related_article4:
-    id: 166618
-    title: How are force vectors represented in vector form, and how is the cross product calculated?
+    id: 166616
+    title: >-
+        What are the daily availability and service hours for career services, and how do company visits fit into this schedule?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-force-vectors-represented-in-vector-form-and-how-is-the-cross-product-calculated
+    url: /learn/education-studies/questions/what-are-the-daily-availability-and-service-hours-for-career-services-and-how-do-company-visits-fit-into-this-schedule
 related_article5:
     id: 166623
-    title: How are forces added to find resultant forces, and how is the resultant moment calculated?
+    title: >-
+        How are forces added to find resultant forces, and how is the resultant moment calculated?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-forces-added-to-find-resultant-forces-and-how-is-the-resultant-moment-calculated
 ---

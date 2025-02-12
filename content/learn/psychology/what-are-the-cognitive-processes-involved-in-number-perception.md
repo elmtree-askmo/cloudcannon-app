@@ -2,8 +2,10 @@
 _schema: default
 id: 165015
 date: 2025-01-28
-title: What are the cognitive processes involved in number perception?
-article_title: What are the cognitive processes involved in number perception?
+title: >-
+    What are the cognitive processes involved in number perception?
+article_title: >-
+    What are the cognitive processes involved in number perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-cognitive-processes-involved-in-number-perception.md
 url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
 score: -1.0
 related_article1:
-    id: 165023
-    title: What are the challenges in designing cognitive experiments and how can they be addressed?
+    id: 165010
+    title: >-
+        How do different experimental approaches contribute to our understanding of depth of processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
+    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
 related_article2:
     id: 165009
-    title: What are the origins and key studies related to the concept of depth of processing?
+    title: >-
+        What are the origins and key studies related to the concept of depth of processing?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
 related_article3:
-    id: 165014
-    title: How do experimental design and data analysis contribute to cognitive psychology research?
+    id: 165019
+    title: >-
+        What are the principles of experimental design that ensure validity and reliability?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
 related_article4:
-    id: 165018
-    title: How do contextual effects influence visual perception?
+    id: 165013
+    title: >-
+        What are the core concepts of cognitive psychology related to perception and attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
-related_article5:
-    id: 165010
-    title: How do different experimental approaches contribute to our understanding of depth of processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160784
 date: 2025-01-24
-title: What role do logarithms and exponents play in complexity analysis?
-article_title: What role do logarithms and exponents play in complexity analysis?
+title: >-
+    What role do logarithms and exponents play in complexity analysis?
+article_title: >-
+    What role do logarithms and exponents play in complexity analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-logarithms-and-exponents-play-in-complexity-analysis.md
 url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
 score: -1.0
 related_article1:
-    id: 160774
-    title: How do time complexity and space complexity trade-offs affect algorithm design?
+    id: 160648
+    title: >-
+        How does the inventor's perspective influence algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-time-complexity-and-space-complexity-tradeoffs-affect-algorithm-design
+    url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
 related_article2:
-    id: 160667
-    title: How can computational knowledge be applied across various domains?
+    id: 160773
+    title: >-
+        What is Big O notation and why is it important in analyzing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-computational-knowledge-be-applied-across-various-domains
+    url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
 related_article3:
-    id: 160647
-    title: What are the key characteristics that define an algorithm?
+    id: 160778
+    title: >-
+        What is the main difference between Dijkstra's and Bellman-Ford algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-that-define-an-algorithm
+    url: /learn/computer-science/questions/what-is-the-main-difference-between-dijkstras-and-bellmanford-algorithms
 related_article4:
-    id: 160650
-    title: How does dynamic programming differ from other advanced data structures?
+    id: 160773
+    title: >-
+        What is Big O notation and why is it important in analyzing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-dynamic-programming-differ-from-other-advanced-data-structures
+    url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
 related_article5:
-    id: 160651
-    title: What distinguishes computational problem solving from general problem solving?
+    id: 160662
+    title: >-
+        Why is the correct representation of problems crucial in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
+    url: /learn/computer-science/questions/why-is-the-correct-representation-of-problems-crucial-in-problemsolving
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162849
 date: 2025-01-25
-title: How do Scrum and Kanban frameworks differ in Agile methodologies?
-article_title: How do Scrum and Kanban frameworks differ in Agile methodologies?
+title: >-
+    How do Scrum and Kanban frameworks differ in Agile methodologies?
+article_title: >-
+    How do Scrum and Kanban frameworks differ in Agile methodologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies.md
 url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
 score: -1.0
 related_article1:
-    id: 162667
-    title: What are the components of an information system, and how do they interact?
+    id: 162366
+    title: >-
+        What are the benefits of cloud computing service models such as IaaS, PaaS, and SaaS?
     subject: Others
-    url: /learn/others/questions/what-are-the-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/others/questions/what-are-the-benefits-of-cloud-computing-service-models-such-as-iaas-paas-and-saas
 related_article2:
-    id: 162356
-    title: Which tools and libraries are commonly used for machine learning, and what are their primary applications?
+    id: 162665
+    title: >-
+        What are the key differences between the Waterfall and Agile methodologies in software development?
     subject: Others
-    url: /learn/others/questions/which-tools-and-libraries-are-commonly-used-for-machine-learning-and-what-are-their-primary-applications
+    url: /learn/others/questions/what-are-the-key-differences-between-the-waterfall-and-agile-methodologies-in-software-development
 related_article3:
-    id: 162656
-    title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162779
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
     subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
 related_article4:
-    id: 162713
-    title: How do neural networks contribute to the development of autonomous vehicles?
+    id: 162665
+    title: >-
+        What are the key differences between the Waterfall and Agile methodologies in software development?
     subject: Others
-    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
+    url: /learn/others/questions/what-are-the-key-differences-between-the-waterfall-and-agile-methodologies-in-software-development
 related_article5:
-    id: 162773
-    title: What ethical considerations are associated with the development of autonomous vehicles?
+    id: 162670
+    title: >-
+        What are the best practices for responsive design and SEO optimization in web development?
     subject: Others
-    url: /learn/others/questions/what-ethical-considerations-are-associated-with-the-development-of-autonomous-vehicles
+    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165267
 date: 2025-01-28
-title: What is directional selection and how does it affect a population's traits?
-article_title: What is directional selection and how does it affect a population's traits?
+title: >-
+    What is directional selection and how does it affect a population's traits?
+article_title: >-
+    What is directional selection and how does it affect a population's traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-directional-selection-and-how-does-it-affect-a-populations-tr
 url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
 score: -1.0
 related_article1:
-    id: 165259
-    title: What is the purpose of a cross-fostering experiment in studying heritability?
+    id: 165257
+    title: >-
+        How does heritability affect the process of natural selection?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
+    url: /learn/biology/questions/how-does-heritability-affect-the-process-of-natural-selection
 related_article2:
     id: 165264
-    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    title: >-
+        Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
     subject: Biology
     url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
 related_article3:
-    id: 165255
-    title: What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
-    subject: Biology
-    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior
-related_article4:
-    id: 165264
-    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
-related_article5:
     id: 165266
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
     subject: Biology
     url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article4:
+    id: 165262
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article5:
+    id: 165255
+    title: >-
+        What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior
 ---
 
 &nbsp;

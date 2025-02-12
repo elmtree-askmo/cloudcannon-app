@@ -2,8 +2,10 @@
 _schema: default
 id: 160283
 date: 2025-01-23
-title: Why are elective modules important, and how can they contribute to a student's education?
-article_title: Why are elective modules important, and how can they contribute to a student's education?
+title: >-
+    Why are elective modules important, and how can they contribute to a student's education?
+article_title: >-
+    Why are elective modules important, and how can they contribute to a student's education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-elective-modules-important-and-how-can-they-contribute-to-a-s
 url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-contribute-to-a-students-education
 score: -1.0
 related_article1:
-    id: 160151
-    title: What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
+    id: 160152
+    title: >-
+        How can students apply their knowledge in real-world contexts to enhance their learning experience?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
+    url: /learn/education-studies/questions/how-can-students-apply-their-knowledge-in-realworld-contexts-to-enhance-their-learning-experience
 related_article2:
-    id: 160367
-    title: How can students maximize the benefits of academic resources such as libraries and online platforms?
+    id: 160300
+    title: >-
+        How can prioritizing tasks and avoiding procrastination improve time management?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-maximize-the-benefits-of-academic-resources-such-as-libraries-and-online-platforms
+    url: /learn/education-studies/questions/how-can-prioritizing-tasks-and-avoiding-procrastination-improve-time-management
 related_article3:
-    id: 160156
-    title: What role does educational psychology play in understanding student behavior and enhancing learning environments?
+    id: 160569
+    title: >-
+        What is metacognition, and why is it important for learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
+    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-learning
 related_article4:
-    id: 160578
-    title: How can visualization techniques help overcome presentation anxiety?
+    id: 159977
+    title: >-
+        What are the different types of assessments, and how can students prepare effectively for them?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-visualization-techniques-help-overcome-presentation-anxiety
+    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
 related_article5:
-    id: 159974
-    title: How can students effectively navigate university systems and utilize available resources?
+    id: 160060
+    title: >-
+        What strategies are effective for exam preparation, and how can they help manage exam stress?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-navigate-university-systems-and-utilize-available-resources
+    url: /learn/education-studies/questions/what-strategies-are-effective-for-exam-preparation-and-how-can-they-help-manage-exam-stress
 ---
 
 &nbsp;

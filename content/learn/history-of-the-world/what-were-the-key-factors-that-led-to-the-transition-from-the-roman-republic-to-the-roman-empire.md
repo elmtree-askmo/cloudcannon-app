@@ -2,8 +2,10 @@
 _schema: default
 id: 166103
 date: 2025-01-29
-title: What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
-article_title: What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
+title: >-
+    What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
+article_title: >-
+    What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-factors-that-led-to-the-transition-from-the-roman-r
 url: /learn/history-of-the-world/questions/what-were-the-key-factors-that-led-to-the-transition-from-the-roman-republic-to-the-roman-empire
 score: 9.0
 related_article1:
-    id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    id: 166116
+    title: >-
+        What were the consequences of the withdrawal of Roman troops from Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
+    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
 related_article2:
+    id: 166111
+    title: >-
+        How did early Christian communities establish themselves in Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-early-christian-communities-establish-themselves-in-roman-britain
+related_article3:
     id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    title: >-
+        How did Roman architecture influence local British housing styles?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
-related_article3:
-    id: 166109
-    title: What strategies did the Roman military employ to maintain control over Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
 related_article4:
     id: 166116
-    title: What were the consequences of the withdrawal of Roman troops from Britain?
+    title: >-
+        What were the consequences of the withdrawal of Roman troops from Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
 related_article5:
-    id: 166114
-    title: What were the characteristics of Roman urbanization in Britain?
+    id: 166104
+    title: >-
+        How did Julius Caesar's campaigns in Britain impact his legacy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
+    url: /learn/history-of-the-world/questions/how-did-julius-caesars-campaigns-in-britain-impact-his-legacy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165460
 date: 2025-01-29
-title: What are the key components of the Cornell note-taking method's page layout?
-article_title: What are the key components of the Cornell note-taking method's page layout?
+title: >-
+    What are the key components of the Cornell note-taking method's page layout?
+article_title: >-
+    What are the key components of the Cornell note-taking method's page layout?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-the-cornell-notetaking-methods-page-la
 url: /learn/education-studies/questions/what-are-the-key-components-of-the-cornell-notetaking-methods-page-layout
 score: -1.0
 related_article1:
-    id: 165467
-    title: What is the purpose of jotting down questions in the cue column?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-jotting-down-questions-in-the-cue-column
-related_article2:
     id: 165465
-    title: What are the steps involved in writing brief summaries for summarization?
+    title: >-
+        What are the steps involved in writing brief summaries for summarization?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-steps-involved-in-writing-brief-summaries-for-summarization
+related_article2:
+    id: 165464
+    title: >-
+        What role do visual aids play in the note-taking process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-visual-aids-play-in-the-notetaking-process
 related_article3:
-    id: 165471
-    title: Why is it important to identify the date and topic in note organization?
+    id: 165461
+    title: >-
+        How does the note-taking column differ from the cue column in Cornell notes?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-identify-the-date-and-topic-in-note-organization
+    url: /learn/education-studies/questions/how-does-the-notetaking-column-differ-from-the-cue-column-in-cornell-notes
 related_article4:
-    id: 165462
-    title: What are effective paraphrasing techniques for efficient note-taking?
+    id: 165461
+    title: >-
+        How does the note-taking column differ from the cue column in Cornell notes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-paraphrasing-techniques-for-efficient-notetaking
+    url: /learn/education-studies/questions/how-does-the-notetaking-column-differ-from-the-cue-column-in-cornell-notes
 related_article5:
-    id: 165467
-    title: What is the purpose of jotting down questions in the cue column?
+    id: 165473
+    title: >-
+        What is the cover and recite method in review techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-jotting-down-questions-in-the-cue-column
+    url: /learn/education-studies/questions/what-is-the-cover-and-recite-method-in-review-techniques
 ---
 
 &nbsp;

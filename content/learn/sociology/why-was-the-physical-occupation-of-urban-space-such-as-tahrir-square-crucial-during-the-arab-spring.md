@@ -2,8 +2,10 @@
 _schema: default
 id: 168979
 date: 2025-02-04
-title: Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
-article_title: Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+title: >-
+    Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+article_title: >-
+    Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-
 url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
 score: -1.0
 related_article1:
-    id: 168976
-    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
-related_article2:
-    id: 168978
-    title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
-related_article3:
-    id: 168984
-    title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
-related_article4:
-    id: 168983
-    title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
-related_article5:
     id: 168987
-    title: How did continued protests and demands during the transition to democracy attract national and international attention?
+    title: >-
+        How did continued protests and demands during the transition to democracy attract national and international attention?
     subject: Sociology
     url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
+related_article2:
+    id: 168983
+    title: >-
+        How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
+related_article3:
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
+related_article4:
+    id: 168987
+    title: >-
+        How did continued protests and demands during the transition to democracy attract national and international attention?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
+related_article5:
+    id: 168977
+    title: >-
+        In what ways did Tahrir Square serve as a symbol of daily life and political assembly before and during the revolution?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-did-tahrir-square-serve-as-a-symbol-of-daily-life-and-political-assembly-before-and-during-the-revolution
 ---
 
 &nbsp;

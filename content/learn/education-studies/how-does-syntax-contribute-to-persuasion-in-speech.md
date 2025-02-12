@@ -2,8 +2,10 @@
 _schema: default
 id: 168529
 date: 2025-02-03
-title: How does syntax contribute to persuasion in speech?
-article_title: How does syntax contribute to persuasion in speech?
+title: >-
+    How does syntax contribute to persuasion in speech?
+article_title: >-
+    How does syntax contribute to persuasion in speech?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-syntax-contribute-to-persuasion-in-speech.md
 url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
 score: -1.0
 related_article1:
-    id: 168533
-    title: What techniques can be used to engage an audience effectively?
+    id: 168544
+    title: >-
+        What types of evidence are commonly used in speeches to support claims?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-engage-an-audience-effectively
+    url: /learn/education-studies/questions/what-types-of-evidence-are-commonly-used-in-speeches-to-support-claims
 related_article2:
-    id: 168530
-    title: What are some common rhetorical strategies used in speeches?
+    id: 168548
+    title: >-
+        How can reasoning enhance the credibility of a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
+    url: /learn/education-studies/questions/how-can-reasoning-enhance-the-credibility-of-a-speech
 related_article3:
-    id: 168542
-    title: What are effective summarization techniques and how can personal bias be avoided?
+    id: 168536
+    title: >-
+        What are the main elements of persuasion in speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-summarization-techniques-and-how-can-personal-bias-be-avoided
+    url: /learn/education-studies/questions/what-are-the-main-elements-of-persuasion-in-speech
 related_article4:
-    id: 168535
-    title: How can diction and syntax be evaluated in a speech critique?
+    id: 168549
+    title: >-
+        What are the characteristics of a collegial discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-diction-and-syntax-be-evaluated-in-a-speech-critique
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
 related_article5:
-    id: 168537
-    title: How can a speaker align their content with the purpose of their speech?
+    id: 168549
+    title: >-
+        What are the characteristics of a collegial discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-a-speaker-align-their-content-with-the-purpose-of-their-speech
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
 ---
 
 &nbsp;

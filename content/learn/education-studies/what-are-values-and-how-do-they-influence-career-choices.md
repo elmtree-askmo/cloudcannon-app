@@ -2,8 +2,10 @@
 _schema: default
 id: 168454
 date: 2025-02-03
-title: What are values and how do they influence career choices?
-article_title: What are values and how do they influence career choices?
+title: >-
+    What are values and how do they influence career choices?
+article_title: >-
+    What are values and how do they influence career choices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-values-and-how-do-they-influence-career-choices.md
 url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
 score: -1.0
 related_article1:
-    id: 168464
-    title: What are the general categories of skills and why are they important?
+    id: 168463
+    title: >-
+        What are some online resources available for career planning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-general-categories-of-skills-and-why-are-they-important
+    url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
 related_article2:
-    id: 168462
-    title: How can aligning skills and values with careers benefit career planning?
+    id: 168466
+    title: >-
+        Why is creativity important in certain careers?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
+    url: /learn/education-studies/questions/why-is-creativity-important-in-certain-careers
 related_article3:
-    id: 168461
-    title: What traits are commonly suited for specific careers?
+    id: 168470
+    title: >-
+        How can individuals identify their true values?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
+    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
 related_article4:
     id: 168467
-    title: What is the significance of work values in career choices?
+    title: >-
+        What is the significance of work values in career choices?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-work-values-in-career-choices
 related_article5:
-    id: 168465
-    title: How do interpersonal skills contribute to career success?
+    id: 168471
+    title: >-
+        Why might values change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-interpersonal-skills-contribute-to-career-success
+    url: /learn/education-studies/questions/why-might-values-change-over-time
 ---
 
 &nbsp;

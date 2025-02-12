@@ -2,8 +2,10 @@
 _schema: default
 id: 165230
 date: 2025-01-28
-title: What cognitive skills are essential for effective spatial reasoning?
-article_title: What cognitive skills are essential for effective spatial reasoning?
+title: >-
+    What cognitive skills are essential for effective spatial reasoning?
+article_title: >-
+    What cognitive skills are essential for effective spatial reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cognitive-skills-are-essential-for-effective-spatial-reasoning.m
 url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
 score: -1.0
 related_article1:
-    id: 165239
-    title: What are the challenges in selecting appropriate visual stimuli for experiments?
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
 related_article2:
     id: 165242
-    title: How is visual perception studied through task design and data collection?
+    title: >-
+        How is visual perception studied through task design and data collection?
     subject: Psychology
     url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
 related_article3:
+    id: 165226
+    title: >-
+        What are the key visualization techniques used in mental rotation tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+related_article4:
     id: 165243
-    title: Why is the integration of STEM skills important in educational curricula?
+    title: >-
+        Why is the integration of STEM skills important in educational curricula?
     subject: Psychology
     url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
-related_article4:
-    id: 165233
-    title: Why are STEM skills important for students studying organic chemistry?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
 related_article5:
-    id: 165239
-    title: What are the challenges in selecting appropriate visual stimuli for experiments?
+    id: 165234
+    title: >-
+        What are the key considerations in designing an experiment for a group project?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
+    url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
 ---
 
 &nbsp;

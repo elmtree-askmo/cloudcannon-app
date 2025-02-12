@@ -2,8 +2,10 @@
 _schema: default
 id: 165100
 date: 2025-01-28
-title: Provide examples of ordinal measurement types and their characteristics.
-article_title: Provide examples of ordinal measurement types and their characteristics.
+title: >-
+    Provide examples of ordinal measurement types and their characteristics.
+article_title: >-
+    Provide examples of ordinal measurement types and their characteristics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-examples-of-ordinal-measurement-types-and-their-characteristi
 url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
 score: -1.0
 related_article1:
-    id: 165107
-    title: Why is accurate data coding important and what are some common coding errors?
+    id: 165102
+    title: >-
+        What are the key differences between between-subjects and within-subjects experimental designs?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-accurate-data-coding-important-and-what-are-some-common-coding-errors
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
 related_article2:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
+    id: 165096
+    title: >-
+        Describe the different types of measurement scales used for dependent variables.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
+    url: /learn/education-studies/questions/describe-the-different-types-of-measurement-scales-used-for-dependent-variables
 related_article3:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
+    id: 165109
+    title: >-
+        What are measures of central tendency and variability in descriptive statistics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
+    url: /learn/education-studies/questions/what-are-measures-of-central-tendency-and-variability-in-descriptive-statistics
 related_article4:
-    id: 165098
-    title: How can independent variables be manipulated to impact experimental outcomes?
+    id: 165106
+    title: >-
+        What are some common challenges in data collection related to participant and observer bias?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
+    url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
 related_article5:
-    id: 165104
-    title: What are the differences between open-ended and closed-ended survey questions?
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-openended-and-closedended-survey-questions
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 ---
 
 &nbsp;

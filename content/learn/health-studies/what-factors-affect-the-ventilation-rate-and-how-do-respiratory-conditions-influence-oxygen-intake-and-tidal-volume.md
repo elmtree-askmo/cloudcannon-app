@@ -2,8 +2,10 @@
 _schema: default
 id: 168794
 date: 2025-02-04
-title: What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
-article_title: What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
+title: >-
+    What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
+article_title: >-
+    What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-affect-the-ventilation-rate-and-how-do-respiratory-condi
 url: /learn/health-studies/questions/what-factors-affect-the-ventilation-rate-and-how-do-respiratory-conditions-influence-oxygen-intake-and-tidal-volume
 score: -1.0
 related_article1:
-    id: 168788
-    title: What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-asthma-and-how-do-they-lead-to-an-asthma-attack
-related_article2:
     id: 168795
-    title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
+    title: >-
+        Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
     subject: Health Studies
     url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
-related_article3:
-    id: 168796
-    title: What is the role of mucus production in the respiratory system and how does overproduction affect individuals with asthma?
+related_article2:
+    id: 168790
+    title: >-
+        Explain the structure and function of bronchial muscles and their role in breathing.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-mucus-production-in-the-respiratory-system-and-how-does-overproduction-affect-individuals-with-asthma
+    url: /learn/health-studies/questions/explain-the-structure-and-function-of-bronchial-muscles-and-their-role-in-breathing
+related_article3:
+    id: 168783
+    title: >-
+        What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-impact-of-scar-tissue-on-lung-elasticity-and-how-does-it-affect-tidal-volume
 related_article4:
     id: 168795
-    title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
+    title: >-
+        Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
     subject: Health Studies
     url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
 related_article5:
-    id: 168783
-    title: What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
+    id: 168787
+    title: >-
+        Identify the common symptoms of Tuberculosis and explain how they affect the body.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-impact-of-scar-tissue-on-lung-elasticity-and-how-does-it-affect-tidal-volume
+    url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
 ---
 
 &nbsp;

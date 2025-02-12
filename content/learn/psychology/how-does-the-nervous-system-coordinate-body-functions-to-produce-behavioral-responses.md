@@ -2,8 +2,10 @@
 _schema: default
 id: 166396
 date: 2025-01-30
-title: How does the nervous system coordinate body functions to produce behavioral responses?
-article_title: How does the nervous system coordinate body functions to produce behavioral responses?
+title: >-
+    How does the nervous system coordinate body functions to produce behavioral responses?
+article_title: >-
+    How does the nervous system coordinate body functions to produce behavioral responses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-nervous-system-coordinate-body-functions-to-produce-beha
 url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 score: -1.0
 related_article1:
-    id: 166385
-    title: What are the different types of selection, and how do they affect allele frequencies in a population?
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
 related_article2:
-    id: 166386
-    title: Define adaptation and provide examples of behavioral adaptations in animals.
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
 related_article3:
-    id: 166390
-    title: What is convergent evolution, and how does it affect phenotypic traits?
+    id: 166389
+    title: >-
+        Differentiate between homology and homoplasy with examples.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
 related_article4:
-    id: 166374
-    title: What is the significance of understanding animal behavior in ecology and conservation?
+    id: 166380
+    title: >-
+        How does natural selection influence the evolution of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
 related_article5:
-    id: 166378
-    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
+    id: 166377
+    title: >-
+        Differentiate between proximate and ultimate questions in the context of animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
 ---
 
 &nbsp;

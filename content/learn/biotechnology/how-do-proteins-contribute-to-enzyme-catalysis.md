@@ -2,8 +2,10 @@
 _schema: default
 id: 166951
 date: 2025-01-31
-title: How do proteins contribute to enzyme catalysis?
-article_title: How do proteins contribute to enzyme catalysis?
+title: >-
+    How do proteins contribute to enzyme catalysis?
+article_title: >-
+    How do proteins contribute to enzyme catalysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-proteins-contribute-to-enzyme-catalysis.md
 url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
 score: -1.0
 related_article1:
-    id: 166960
-    title: What types of chemical interactions are involved in the tertiary structure of proteins?
+    id: 166953
+    title: >-
+        How does the side chain (R-group) affect the chemical properties of an amino acid?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
 related_article2:
     id: 166967
-    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    title: >-
+        How do hydrophilic and hydrophobic R-groups interact with water?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
 related_article3:
-    id: 166954
-    title: What are the characteristics of nonpolar aliphatic R-groups?
+    id: 166958
+    title: >-
+        What determines the primary structure of a protein?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
 related_article4:
-    id: 166959
-    title: How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    id: 166961
+    title: >-
+        How do multiple polypeptide chains contribute to the quaternary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+related_article5:
+    id: 166961
+    title: >-
+        How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
 ---
 
 &nbsp;

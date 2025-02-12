@@ -2,8 +2,10 @@
 _schema: default
 id: 161701
 date: 2025-01-24
-title: What is a parity check, and what are its limitations in error detection?
-article_title: What is a parity check, and what are its limitations in error detection?
+title: >-
+    What is a parity check, and what are its limitations in error detection?
+article_title: >-
+    What is a parity check, and what are its limitations in error detection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-parity-check-and-what-are-its-limitations-in-error-detectio
 url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 score: -1.0
 related_article1:
-    id: 161501
-    title: What are the characteristics of batch processing and what are its advantages and disadvantages?
+    id: 161691
+    title: >-
+        Why is the level of detail important in information, and what factors can affect it?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/why-is-the-level-of-detail-important-in-information-and-what-factors-can-affect-it
 related_article2:
-    id: 161434
-    title: Why is the age of information crucial, and what factors can affect how up-to-date information is?
+    id: 161687
+    title: >-
+        What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
+    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-indirect-data-and-what-are-its-advantages-and-disadvantages
 related_article3:
-    id: 161504
-    title: What is the purpose of data validation and how do range checks and type checks function?
+    id: 161431
+    title: >-
+        How does indirect data differ from direct data, and what are some examples of its uses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
+    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-some-examples-of-its-uses
 related_article4:
-    id: 161666
-    title: What is the purpose of data validation and how do range checks and type checks function?
+    id: 161495
+    title: >-
+        Why is the age of information crucial and what factors can affect its timeliness?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
+    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
 related_article5:
-    id: 161435
-    title: How does the level of detail impact the usefulness of information, and what factors determine the appropriate level of detail?
+    id: 161685
+    title: >-
+        How does data transform into information, and why is context important in this process?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-level-of-detail-impact-the-usefulness-of-information-and-what-factors-determine-the-appropriate-level-of-detail
+    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
 ---
 
 &nbsp;

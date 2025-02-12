@@ -2,8 +2,10 @@
 _schema: default
 id: 163346
 date: 2025-01-26
-title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
-article_title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
+title: >-
+    How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
+article_title: >-
+    How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-im
 url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
 score: -1.0
 related_article1:
-    id: 163243
-    title: Why is the Population Attributable Proportion (PAR%) important for public health interventions?
+    id: 163332
+    title: >-
+        How is prevalence calculated, and what does it indicate about a population?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
+    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
 related_article2:
-    id: 163341
-    title: How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+    id: 163062
+    title: >-
+        How is the numerator used in measures of disease frequency determined?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
+    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 related_article3:
-    id: 163343
-    title: How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
+    id: 163342
+    title: >-
+        What is the risk difference, and how is it calculated using a 2x2 table?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-must-be-made
+    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
 related_article4:
-    id: 163235
-    title: What is the relationship between prevalence, incidence rate, and disease duration?
+    id: 163242
+    title: >-
+        How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-does-it-rely-on
 related_article5:
-    id: 163244
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163074
+    title: >-
+        What is the significance of years of potential life lost (YPLL) in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165329
 date: 2025-01-28
-title: Define homology and homoplasy and explain their differences with examples from animal behavior.
-article_title: Define homology and homoplasy and explain their differences with examples from animal behavior.
+title: >-
+    Define homology and homoplasy and explain their differences with examples from animal behavior.
+article_title: >-
+    Define homology and homoplasy and explain their differences with examples from animal behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-homology-and-homoplasy-and-explain-their-differences-with-exam
 url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
 score: -1.0
 related_article1:
-    id: 165327
-    title: What is heritability and how is it measured in the context of animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
-related_article2:
-    id: 165321
-    title: What are the principles of natural selection and how do they apply to animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
-related_article3:
     id: 165322
-    title: Identify and describe different types of learning in animals and their role in behavior adaptation.
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
     subject: Psychology
     url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
+related_article2:
+    id: 165332
+    title: >-
+        Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior
+related_article3:
+    id: 165323
+    title: >-
+        Explain the mechanisms of cultural transmission and its impact on animal societies.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
 related_article4:
     id: 165322
-    title: Identify and describe different types of learning in animals and their role in behavior adaptation.
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
     subject: Psychology
     url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
 related_article5:
-    id: 165325
-    title: How do phenotype and genotype influence animal behavior?
+    id: 165332
+    title: >-
+        Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+    url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior
 ---
 
 &nbsp;

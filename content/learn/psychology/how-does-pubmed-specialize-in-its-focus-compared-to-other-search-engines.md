@@ -2,8 +2,10 @@
 _schema: default
 id: 165212
 date: 2025-01-28
-title: How does PubMed specialize in its focus compared to other search engines?
-article_title: How does PubMed specialize in its focus compared to other search engines?
+title: >-
+    How does PubMed specialize in its focus compared to other search engines?
+article_title: >-
+    How does PubMed specialize in its focus compared to other search engines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engi
 url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 score: -1.0
 related_article1:
-    id: 165221
-    title: What techniques can be used for effective abstract analysis?
+    id: 165225
+    title: >-
+        What impact do reward systems have on behavior in research studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
+    url: /learn/psychology/questions/what-impact-do-reward-systems-have-on-behavior-in-research-studies
 related_article2:
-    id: 165214
-    title: What is the primary purpose of conducting a literature review in research?
+    id: 165223
+    title: >-
+        What is the word length effect and how does it impact memory research?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
+    url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
 related_article3:
     id: 165222
-    title: What is the role of attention and perception in visual search according to cognitive psychology?
+    title: >-
+        What is the role of attention and perception in visual search according to cognitive psychology?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-attention-and-perception-in-visual-search-according-to-cognitive-psychology
 related_article4:
-    id: 165220
-    title: Why are abstracts important in academic papers and how do they guide research decisions?
+    id: 165210
+    title: >-
+        What are the primary benefits of conducting a randomized control trial?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
+related_article5:
+    id: 165214
+    title: >-
+        What is the primary purpose of conducting a literature review in research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
 ---
 
 &nbsp;

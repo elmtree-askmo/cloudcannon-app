@@ -2,8 +2,10 @@
 _schema: default
 id: 169653
 date: 2025-02-05
-title: What systemic barriers do marginalized groups face in accessing healthcare?
-article_title: What systemic barriers do marginalized groups face in accessing healthcare?
+title: >-
+    What systemic barriers do marginalized groups face in accessing healthcare?
+article_title: >-
+    What systemic barriers do marginalized groups face in accessing healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-systemic-barriers-do-marginalized-groups-face-in-accessing-healt
 url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
 score: -1.0
 related_article1:
-    id: 169646
-    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    id: 169650
+    title: >-
+        What are some barriers to accessing mental health services for transgender individuals?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+    url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
 related_article2:
-    id: 169655
-    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    id: 169648
+    title: >-
+        Why is it important to use correct terminology when discussing gender identity?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
 related_article3:
+    id: 169642
+    title: >-
+        How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
+related_article4:
     id: 169643
-    title: What are the different types of discrimination that can occur in healthcare settings?
+    title: >-
+        What are the different types of discrimination that can occur in healthcare settings?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
-related_article4:
-    id: 169646
-    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
-    subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 related_article5:
-    id: 169646
-    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    id: 169648
+    title: >-
+        Why is it important to use correct terminology when discussing gender identity?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
 ---
 
 &nbsp;

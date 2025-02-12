@@ -2,8 +2,10 @@
 _schema: default
 id: 162939
 date: 2025-01-26
-title: Describe the concept of morphometric targeting and its relevance to urban morphologies.
-article_title: Describe the concept of morphometric targeting and its relevance to urban morphologies.
+title: >-
+    Describe the concept of morphometric targeting and its relevance to urban morphologies.
+article_title: >-
+    Describe the concept of morphometric targeting and its relevance to urban morphologies.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-concept-of-morphometric-targeting-and-its-relevance-to-u
 url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
 score: -1.0
 related_article1:
-    id: 162936
-    title: Explain the role of geostrategic power in the state of states and its impact on urban security.
+    id: 162934
+    title: >-
+        What are the key characteristics of military urbanism in the context of urban insecurity?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 related_article2:
-    id: 162935
-    title: How does the 'Insecure City Hypothesis' relate to urban environments in the developing world?
+    id: 162938
+    title: >-
+        What are the implications of informal urbanization on the security of megacities?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-relate-to-urban-environments-in-the-developing-world
+    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
 related_article3:
-    id: 162952
-    title: Explain the concept of breach training and its application in urban warfare.
+    id: 162934
+    title: >-
+        What are the key characteristics of military urbanism in the context of urban insecurity?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 related_article4:
-    id: 162950
-    title: How do three-dimensional models assist in understanding volumetric conflict environments?
+    id: 162954
+    title: >-
+        What are urban sustainment operations, and why are they important in urban planning strategies?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
+    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
 related_article5:
-    id: 162944
-    title: How does spatial intelligence contribute to volumetric warfare in urban environments?
+    id: 162938
+    title: >-
+        What are the implications of informal urbanization on the security of megacities?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
+    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
 ---
 
 &nbsp;

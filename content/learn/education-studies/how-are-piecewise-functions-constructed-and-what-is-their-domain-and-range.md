@@ -2,8 +2,10 @@
 _schema: default
 id: 169296
 date: 2025-02-05
-title: How are piecewise functions constructed, and what is their domain and range?
-article_title: How are piecewise functions constructed, and what is their domain and range?
+title: >-
+    How are piecewise functions constructed, and what is their domain and range?
+article_title: >-
+    How are piecewise functions constructed, and what is their domain and range?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-piecewise-functions-constructed-and-what-is-their-domain-and-
 url: /learn/education-studies/questions/how-are-piecewise-functions-constructed-and-what-is-their-domain-and-range
 score: -1.0
 related_article1:
-    id: 169294
-    title: How are vertical asymptotes identified in rational functions, and what is their graphical representation?
+    id: 169284
+    title: >-
+        How is the instantaneous rate of change of a function at a point related to its derivative?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vertical-asymptotes-identified-in-rational-functions-and-what-is-their-graphical-representation
+    url: /learn/education-studies/questions/how-is-the-instantaneous-rate-of-change-of-a-function-at-a-point-related-to-its-derivative
 related_article2:
     id: 169306
-    title: How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
+    title: >-
+        How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-focusing-on-increasing-and-decreasing-intervals
 related_article3:
     id: 169306
-    title: How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
+    title: >-
+        How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-focusing-on-increasing-and-decreasing-intervals
 related_article4:
-    id: 169307
-    title: What techniques are used in graphical analysis to understand limits and visualize derivatives?
+    id: 169293
+    title: >-
+        How do Leibniz and Lagrange notations differ in representing derivatives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-are-used-in-graphical-analysis-to-understand-limits-and-visualize-derivatives
+    url: /learn/education-studies/questions/how-do-leibniz-and-lagrange-notations-differ-in-representing-derivatives
 related_article5:
-    id: 169295
-    title: What is the behavior of functions near vertical asymptotes as they approach infinity?
+    id: 169306
+    title: >-
+        How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-behavior-of-functions-near-vertical-asymptotes-as-they-approach-infinity
+    url: /learn/education-studies/questions/how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-focusing-on-increasing-and-decreasing-intervals
 ---
 
 &nbsp;

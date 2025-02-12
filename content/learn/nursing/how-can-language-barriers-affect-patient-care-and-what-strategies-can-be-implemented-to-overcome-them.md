@@ -2,8 +2,10 @@
 _schema: default
 id: 169598
 date: 2025-02-05
-title: How can language barriers affect patient care, and what strategies can be implemented to overcome them?
-article_title: How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+title: >-
+    How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+article_title: >-
+    How can language barriers affect patient care, and what strategies can be implemented to overcome them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-language-barriers-affect-patient-care-and-what-strategies-can
 url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 score: -1.0
 related_article1:
+    id: 169596
+    title: >-
+        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+related_article2:
     id: 169594
-    title: How do socio-economic factors influence access to healthcare services and health outcomes?
+    title: >-
+        How do socio-economic factors influence access to healthcare services and health outcomes?
     subject: Nursing
     url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
-related_article2:
-    id: 169596
-    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
-    subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 related_article3:
-    id: 169584
-    title: How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    id: 169599
+    title: >-
+        What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
 related_article4:
-    id: 169596
-    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    id: 169585
+    title: >-
+        What are the limitations and criticisms of the medical model of disability?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
 related_article5:
-    id: 169596
-    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    id: 169589
+    title: >-
+        What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+    url: /learn/nursing/questions/what-were-florence-nightingales-major-contributions-to-the-field-of-nursing-and-what-criticisms-has-she-faced
 ---
 
 &nbsp;

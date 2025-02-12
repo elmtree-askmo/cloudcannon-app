@@ -2,8 +2,10 @@
 _schema: default
 id: 165625
 date: 2025-01-29
-title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
-article_title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+title: >-
+    What are the controversies surrounding the carbon tax as a climate change policy initiative?
+article_title: >-
+    What are the controversies surrounding the carbon tax as a climate change policy initiative?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-ch
 url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
 score: -1.0
 related_article1:
-    id: 165636
-    title: What strategies are effective for political communication and public engagement?
+    id: 165637
+    title: >-
+        What lessons can be learned from past elections in terms of political strategy?
     subject: Politics
-    url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
+    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
 related_article2:
-    id: 165635
-    title: How do economic and social policies interconnect in political dynamics?
+    id: 165631
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
     subject: Politics
-    url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
 related_article3:
-    id: 165636
-    title: What strategies are effective for political communication and public engagement?
+    id: 165626
+    title: >-
+        How do domestic climate policies differ from international climate policies in Canada?
     subject: Politics
-    url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 related_article4:
-    id: 165630
-    title: What are the challenges Canada faces in diversifying its trade partners?
+    id: 165621
+    title: >-
+        What is the role of minor parties in the House of Commons, and how do they influence major parties?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
+    url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
 related_article5:
-    id: 165622
-    title: How do economic and social issues influence voting behavior in Canada?
+    id: 165617
+    title: >-
+        What are the main differences between majority rule and most votes in an electoral system?
     subject: Politics
-    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
+    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
 ---
 
 &nbsp;

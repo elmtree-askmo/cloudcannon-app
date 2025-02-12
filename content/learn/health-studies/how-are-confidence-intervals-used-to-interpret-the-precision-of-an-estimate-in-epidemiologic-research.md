@@ -2,8 +2,10 @@
 _schema: default
 id: 163023
 date: 2025-01-26
-title: How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
-article_title: How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
+title: >-
+    How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
+article_title: >-
+    How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-confidence-intervals-used-to-interpret-the-precision-of-an-es
 url: /learn/health-studies/questions/how-are-confidence-intervals-used-to-interpret-the-precision-of-an-estimate-in-epidemiologic-research
 score: -1.0
 related_article1:
-    id: 162975
-    title: What are the common sources of random error in epidemiologic studies, and how can they be reduced?
+    id: 163012
+    title: >-
+        Who are some key figures in the historical development of epidemiology, and what were their contributions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-sources-of-random-error-in-epidemiologic-studies-and-how-can-they-be-reduced
+    url: /learn/health-studies/questions/who-are-some-key-figures-in-the-historical-development-of-epidemiology-and-what-were-their-contributions
 related_article2:
-    id: 162966
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
+    id: 163016
+    title: >-
+        What are the steps involved in forming a hypothesis for an epidemiologic investigation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
+related_article3:
+    id: 162955
+    title: >-
+        What is the primary focus of epidemiology in terms of disease frequency and distribution?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
-related_article3:
-    id: 162961
-    title: What are the differences between primary and secondary data in epidemiologic research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 related_article4:
-    id: 162973
-    title: What are the differences between primary and secondary data in epidemiologic research?
+    id: 162966
+    title: >-
+        What is the primary focus of epidemiology in terms of disease frequency and distribution?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
+    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
 related_article5:
-    id: 163013
-    title: How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+    id: 162955
+    title: >-
+        What is the primary focus of epidemiology in terms of disease frequency and distribution?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
+    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
 ---
 
 &nbsp;

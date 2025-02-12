@@ -2,8 +2,10 @@
 _schema: default
 id: 167225
 date: 2025-01-31
-title: How do the chemical properties of biomolecules impact their function?
-article_title: How do the chemical properties of biomolecules impact their function?
+title: >-
+    How do the chemical properties of biomolecules impact their function?
+article_title: >-
+    How do the chemical properties of biomolecules impact their function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-chemical-properties-of-biomolecules-impact-their-function.
 url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
 score: -1.0
 related_article1:
-    id: 167230
-    title: What role do beta glycosidic linkages play in the structure of cellulose?
+    id: 167223
+    title: >-
+        What are the major classes of lipids and their general characteristics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structure-of-cellulose
+    url: /learn/health-studies/questions/what-are-the-major-classes-of-lipids-and-their-general-characteristics
 related_article2:
-    id: 167226
-    title: What is the importance of active site specificity in enzyme function?
+    id: 167221
+    title: >-
+        What is the difference between saturated and unsaturated fatty acids in terms of chemical structure?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-active-site-specificity-in-enzyme-function
+    url: /learn/health-studies/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-chemical-structure
 related_article3:
-    id: 167230
-    title: What role do beta glycosidic linkages play in the structure of cellulose?
+    id: 167215
+    title: >-
+        What is the role of the glycerol backbone in triglyceride structure?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structure-of-cellulose
+    url: /learn/health-studies/questions/what-is-the-role-of-the-glycerol-backbone-in-triglyceride-structure
 related_article4:
-    id: 167231
-    title: How does the unique shape of an enzyme's active site contribute to its catalytic efficiency?
+    id: 167224
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-unique-shape-of-an-enzymes-active-site-contribute-to-its-catalytic-efficiency
+    url: /learn/health-studies/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-selective-permeability-in-membranes
 related_article5:
-    id: 167231
-    title: How does the unique shape of an enzyme's active site contribute to its catalytic efficiency?
+    id: 167224
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-unique-shape-of-an-enzymes-active-site-contribute-to-its-catalytic-efficiency
+    url: /learn/health-studies/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-selective-permeability-in-membranes
 ---
 
 &nbsp;

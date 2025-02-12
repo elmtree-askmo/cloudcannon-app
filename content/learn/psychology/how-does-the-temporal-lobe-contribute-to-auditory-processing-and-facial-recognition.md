@@ -2,8 +2,10 @@
 _schema: default
 id: 170586
 date: 2025-02-06
-title: How does the temporal lobe contribute to auditory processing and facial recognition?
-article_title: How does the temporal lobe contribute to auditory processing and facial recognition?
+title: >-
+    How does the temporal lobe contribute to auditory processing and facial recognition?
+article_title: >-
+    How does the temporal lobe contribute to auditory processing and facial recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-temporal-lobe-contribute-to-auditory-processing-and-faci
 url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
 score: -1.0
 related_article1:
-    id: 170594
-    title: How do genetic and environmental factors contribute to schizophrenia?
+    id: 170593
+    title: >-
+        What are the potential causes and effects of brain damage from trauma and stroke?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
 related_article2:
-    id: 170583
-    title: What is the role of the limbic system in emotional processing and PTSD?
+    id: 170580
+    title: >-
+        What are the effects of trauma on epigenetic changes in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
 related_article3:
-    id: 170567
-    title: What role does the thalamus play in sensory input processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-thalamus-play-in-sensory-input-processing
-related_article4:
-    id: 170588
-    title: How does the occipital lobe process visual information?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
-related_article5:
     id: 170587
-    title: What is the role of the parietal lobe in spatial awareness?
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article4:
+    id: 170576
+    title: >-
+        What is the role of the prefrontal cortex in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
+related_article5:
+    id: 170582
+    title: >-
+        How does the corpus callosum facilitate communication between the brain's hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
 ---
 
 &nbsp;

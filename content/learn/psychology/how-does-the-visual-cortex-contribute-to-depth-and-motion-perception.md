@@ -2,8 +2,10 @@
 _schema: default
 id: 164249
 date: 2025-01-28
-title: How does the visual cortex contribute to depth and motion perception?
-article_title: How does the visual cortex contribute to depth and motion perception?
+title: >-
+    How does the visual cortex contribute to depth and motion perception?
+article_title: >-
+    How does the visual cortex contribute to depth and motion perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-visual-cortex-contribute-to-depth-and-motion-perception.
 url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-depth-and-motion-perception
 score: -1.0
 related_article1:
-    id: 164257
-    title: What factors influence pitch perception and how does cochlear function play a role?
+    id: 164256
+    title: >-
+        Define sound frequencies and explain their characteristics such as harmonics and overtones.
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
 related_article2:
-    id: 164257
-    title: What factors influence pitch perception and how does cochlear function play a role?
-    subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
-related_article3:
     id: 164252
-    title: What is a tonotopic map and how is it organized in the auditory cortex?
+    title: >-
+        What is a tonotopic map and how is it organized in the auditory cortex?
     subject: Psychology
     url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
+related_article3:
+    id: 164246
+    title: >-
+        What is a retinotropic map and how does it project onto the visual cortex?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
 related_article4:
-    id: 164254
-    title: What are single cell recordings and how are they used to map sensory inputs?
+    id: 164247
+    title: >-
+        How does the portable magnification factor emphasize central vision in the retinotropic map?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
 related_article5:
-    id: 164257
-    title: What factors influence pitch perception and how does cochlear function play a role?
+    id: 164252
+    title: >-
+        What is a tonotopic map and how is it organized in the auditory cortex?
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+    url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
 ---
 
 &nbsp;

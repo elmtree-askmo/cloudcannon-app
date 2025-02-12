@@ -2,8 +2,10 @@
 _schema: default
 id: 166301
 date: 2025-01-30
-title: What is the goal of the induction phase in leukemia treatment?
-article_title: What is the goal of the induction phase in leukemia treatment?
+title: >-
+    What is the goal of the induction phase in leukemia treatment?
+article_title: >-
+    What is the goal of the induction phase in leukemia treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-goal-of-the-induction-phase-in-leukemia-treatment.md
 url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 score: -1.0
 related_article1:
-    id: 166303
-    title: What is the purpose of the maintenance phase in leukemia treatment?
+    id: 166294
+    title: >-
+        How do imaging studies contribute to the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/how-do-imaging-studies-contribute-to-the-diagnosis-of-leukemia
 related_article2:
     id: 166295
-    title: What are the primary risk factors for developing leukemia related to radiation exposure?
+    title: >-
+        What are the primary risk factors for developing leukemia related to radiation exposure?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
 related_article3:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    id: 166310
+    title: >-
+        How is lymphoma diagnosed and classified through biopsy?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-through-biopsy
 related_article4:
-    id: 166309
-    title: What constitutional symptoms are associated with lymphoma?
+    id: 166292
+    title: >-
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 related_article5:
-    id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
+    id: 166302
+    title: >-
+        How does the consolidation phase differ from the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
+    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
 ---
 
 &nbsp;

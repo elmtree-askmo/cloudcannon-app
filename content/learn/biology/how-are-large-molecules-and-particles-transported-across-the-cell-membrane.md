@@ -2,8 +2,10 @@
 _schema: default
 id: 167199
 date: 2025-01-31
-title: How are large molecules and particles transported across the cell membrane?
-article_title: How are large molecules and particles transported across the cell membrane?
+title: >-
+    How are large molecules and particles transported across the cell membrane?
+article_title: >-
+    How are large molecules and particles transported across the cell membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-large-molecules-and-particles-transported-across-the-cell-mem
 url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
 score: -1.0
 related_article1:
-    id: 167188
-    title: Describe the role of carrier proteins in facilitated diffusion.
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
 related_article2:
-    id: 167197
-    title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    id: 167183
+    title: >-
+        What is facilitated diffusion and how does it differ from simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 related_article3:
-    id: 167184
-    title: In passive transport, how does the movement of molecules relate to the concentration gradient?
+    id: 167198
+    title: >-
+        What types of materials are typically transported via passive transport methods?
     subject: Biology
-    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+    url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
 related_article4:
-    id: 167197
-    title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+    id: 167183
+    title: >-
+        What is facilitated diffusion and how does it differ from simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 related_article5:
-    id: 167189
-    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    id: 167183
+    title: >-
+        What is facilitated diffusion and how does it differ from simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 ---
 
 &nbsp;

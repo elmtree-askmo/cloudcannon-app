@@ -2,8 +2,10 @@
 _schema: default
 id: 167795
 date: 2025-02-01
-title: How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
-article_title: How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
+title: >-
+    How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
+article_title: >-
+    How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-variable-expressivity-lead-to-phenotypic-variation-among-indi
 url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
 score: -1.0
 related_article1:
-    id: 167793
-    title: Provide an example of incomplete dominance in flower color.
+    id: 167783
+    title: >-
+        How do genotype and phenotype differ in genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
+    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
 related_article2:
-    id: 167804
-    title: How can genetic mutations lead to a loss of function in an organism?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article3:
-    id: 167796
-    title: What is the purpose of chi-square analysis in genetics?
+    id: 167806
+    title: >-
+        How is genetic counseling used to assess risk and analyze family history?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
+    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
 related_article4:
-    id: 167790
-    title: How is co-dominance exemplified in human blood types?
+    id: 167801
+    title: >-
+        What is the ABO blood group system and how does it relate to genotype and phenotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
+    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
 related_article5:
-    id: 167796
-    title: What is the purpose of chi-square analysis in genetics?
+    id: 167800
+    title: >-
+        How does the environment influence the phenotype of individuals with phenylketonuria?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
+    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 ---
 
 &nbsp;

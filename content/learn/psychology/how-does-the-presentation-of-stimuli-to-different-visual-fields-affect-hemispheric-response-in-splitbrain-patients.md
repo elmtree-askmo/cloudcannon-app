@@ -2,8 +2,10 @@
 _schema: default
 id: 164569
 date: 2025-01-28
-title: How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
-article_title: How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+title: >-
+    How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+article_title: >-
+    How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-presentation-of-stimuli-to-different-visual-fields-affec
 url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
 score: -1.0
 related_article1:
-    id: 164577
-    title: What does dichotic listening reveal about hemispheric specialization in speech and melodic sound processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-does-dichotic-listening-reveal-about-hemispheric-specialization-in-speech-and-melodic-sound-processing
-related_article2:
-    id: 164568
-    title: What is the purpose of the split-brain surgical procedure in epilepsy treatment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-purpose-of-the-splitbrain-surgical-procedure-in-epilepsy-treatment
-related_article3:
-    id: 164582
-    title: How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals
-related_article4:
     id: 164583
-    title: What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    title: >-
+        What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
-related_article5:
-    id: 164566
-    title: What is the role of the notochord in neural tube formation?
+related_article2:
+    id: 164580
+    title: >-
+        What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article3:
+    id: 164567
+    title: >-
+        How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
+related_article4:
+    id: 164579
+    title: >-
+        How does the corpus callosum affect the speed of information transfer between hemispheres?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+related_article5:
+    id: 164567
+    title: >-
+        How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
 ---
 
 &nbsp;

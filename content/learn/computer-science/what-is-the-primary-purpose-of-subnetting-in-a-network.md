@@ -2,8 +2,10 @@
 _schema: default
 id: 165724
 date: 2025-01-29
-title: What is the primary purpose of subnetting in a network?
-article_title: What is the primary purpose of subnetting in a network?
+title: >-
+    What is the primary purpose of subnetting in a network?
+article_title: >-
+    What is the primary purpose of subnetting in a network?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-purpose-of-subnetting-in-a-network.md
 url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
 score: -1.0
 related_article1:
-    id: 165726
-    title: What is a broadcast domain and how do routers affect them?
+    id: 165730
+    title: >-
+        How does prefix length relate to subnet masks and impact the number of available hosts?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
+    url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
 related_article2:
-    id: 165725
-    title: Explain the difference between subnetting on an octet boundary and within an octet boundary.
+    id: 165723
+    title: >-
+        How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
+    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 related_article3:
-    id: 165733
-    title: How does subnetting contribute to reducing broadcast traffic and improving network performance?
+    id: 165737
+    title: >-
+        How does slash 16 subnetting differ from slash 8 subnetting in terms of subnet creation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
+    url: /learn/computer-science/questions/how-does-slash-16-subnetting-differ-from-slash-8-subnetting-in-terms-of-subnet-creation
 related_article4:
-    id: 165735
-    title: How do you determine the number of hosts required per subnet and allocate addresses efficiently?
+    id: 165730
+    title: >-
+        How does prefix length relate to subnet masks and impact the number of available hosts?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
+    url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
 related_article5:
-    id: 165734
-    title: What role do security policies play in managing network traffic between subnets?
+    id: 165723
+    title: >-
+        How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
+    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 ---
 
 &nbsp;

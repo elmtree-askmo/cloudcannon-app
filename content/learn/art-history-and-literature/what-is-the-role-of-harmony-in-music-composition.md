@@ -2,8 +2,10 @@
 _schema: default
 id: 164630
 date: 2025-01-28
-title: What is the role of harmony in music composition?
-article_title: What is the role of harmony in music composition?
+title: >-
+    What is the role of harmony in music composition?
+article_title: >-
+    What is the role of harmony in music composition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-harmony-in-music-composition.md
 url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
 score: 9.0
 related_article1:
-    id: 164626
-    title: How does emotional energy in music affect listeners psychologically?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-emotional-energy-in-music-affect-listeners-psychologically
-related_article2:
-    id: 164627
-    title: How does historical context influence musical composition?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-historical-context-influence-musical-composition
-related_article3:
     id: 164618
-    title: How do rhythmic patterns contribute to the structure of language music?
+    title: >-
+        How do rhythmic patterns contribute to the structure of language music?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-rhythmic-patterns-contribute-to-the-structure-of-language-music
-related_article4:
-    id: 164616
-    title: How does language music play a role in communication?
+related_article2:
+    id: 164617
+    title: >-
+        What are the phonetic elements of language music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-music-play-a-role-in-communication
-related_article5:
+    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
+related_article3:
+    id: 164617
+    title: >-
+        What are the phonetic elements of language music?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
+related_article4:
     id: 164629
-    title: How does melody vary across different musical genres?
+    title: >-
+        How does melody vary across different musical genres?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-melody-vary-across-different-musical-genres
+related_article5:
+    id: 164623
+    title: >-
+        How does syntax contribute to the structural elements of a song's grammar?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-syntax-contribute-to-the-structural-elements-of-a-songs-grammar
 ---
 
 &nbsp;

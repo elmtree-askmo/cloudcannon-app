@@ -2,8 +2,10 @@
 _schema: default
 id: 169504
 date: 2025-02-05
-title: Why is regular servicing and maintenance of equipment crucial for safety?
-article_title: Why is regular servicing and maintenance of equipment crucial for safety?
+title: >-
+    Why is regular servicing and maintenance of equipment crucial for safety?
+article_title: >-
+    Why is regular servicing and maintenance of equipment crucial for safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-saf
 url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
 score: -1.0
 related_article1:
-    id: 169510
-    title: What is the importance of ensuring patient consent in care environments?
+    id: 169507
+    title: >-
+        What is the hierarchy of control and how does it help in minimizing manual handling?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
 related_article2:
-    id: 169514
-    title: How can compliance with safety regulations be ensured during equipment servicing?
+    id: 169502
+    title: >-
+        How does the TILE risk assessment model evaluate individual capability?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
 related_article3:
-    id: 169511
-    title: What are the guidelines for safe operation of hoist and sit to stand equipment?
+    id: 169497
+    title: >-
+        What are the key responsibilities of employers under the Health and Safety at Work Act?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
 related_article4:
-    id: 169500
-    title: How can risks be assessed and reduced in manual handling operations?
+    id: 169507
+    title: >-
+        What is the hierarchy of control and how does it help in minimizing manual handling?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
 related_article5:
-    id: 169499
-    title: What are the main strategies to avoid manual handling according to the Manual Handling Operations Regulation?
+    id: 169498
+    title: >-
+        How should employees report risks and incidents according to the Health and Safety at Work Act?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
+    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
 ---
 
 &nbsp;

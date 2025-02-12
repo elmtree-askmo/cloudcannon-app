@@ -2,8 +2,10 @@
 _schema: default
 id: 168565
 date: 2025-02-03
-title: What are the key characteristics that define a seminal document?
-article_title: What are the key characteristics that define a seminal document?
+title: >-
+    What are the key characteristics that define a seminal document?
+article_title: >-
+    What are the key characteristics that define a seminal document?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-that-define-a-seminal-document.md
 url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
 score: 8.5
 related_article1:
+    id: 168573
+    title: >-
+        What role does sentence structure play in influencing a reader's understanding of seminal documents?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
+related_article2:
+    id: 168568
+    title: >-
+        How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
+related_article3:
     id: 168586
-    title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+    title: >-
+        How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
-related_article2:
+related_article4:
     id: 168577
-    title: How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
-related_article3:
-    id: 168572
-    title: How does word choice in seminal documents affect tone and meaning?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
-related_article4:
-    id: 168582
-    title: How are American ideals represented in seminal texts, and how have they evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
 related_article5:
-    id: 168580
-    title: How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
+    id: 168586
+    title: >-
+        How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
+    url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
 ---
 
 &nbsp;

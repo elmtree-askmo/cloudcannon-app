@@ -2,8 +2,10 @@
 _schema: default
 id: 161491
 date: 2025-01-24
-title: What are the characteristics of direct data and what are its advantages and disadvantages?
-article_title: What are the characteristics of direct data and what are its advantages and disadvantages?
+title: >-
+    What are the characteristics of direct data and what are its advantages and disadvantages?
+article_title: >-
+    What are the characteristics of direct data and what are its advantages and disadvantages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-direct-data-and-what-are-its-advantag
 url: /learn/computer-science/questions/what-are-the-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
 score: -1.0
 related_article1:
-    id: 161694
-    title: What is the difference between symmetric and asymmetric encryption?
+    id: 161511
+    title: >-
+        What are the main components of an information system and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article2:
-    id: 161494
-    title: What factors influence the relevance of information and why is it important?
+    id: 161433
+    title: >-
+        What factors influence the relevance of information, and why is it important?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
 related_article3:
-    id: 161506
-    title: What is a parity check and what are its limitations in error detection?
+    id: 161701
+    title: >-
+        What is a parity check, and what are its limitations in error detection?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 related_article4:
-    id: 161684
-    title: What is the definition of data and why is raw data considered meaningless?
+    id: 161507
+    title: >-
+        How does a checksum function in error detection and what are some common algorithms used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
+    url: /learn/computer-science/questions/how-does-a-checksum-function-in-error-detection-and-what-are-some-common-algorithms-used
 related_article5:
-    id: 161494
-    title: What factors influence the relevance of information and why is it important?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 ---
 
 &nbsp;

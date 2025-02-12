@@ -2,8 +2,10 @@
 _schema: default
 id: 170979
 date: 2025-02-07
-title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
-article_title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+title: >-
+    Describe the structure of ATP and the significance of phosphoanhydride bonds.
+article_title: >-
+    Describe the structure of ATP and the significance of phosphoanhydride bonds.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: describe-the-structure-of-atp-and-the-significance-of-phosphoanhydrid
 url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 score: -1.0
 related_article1:
-    id: 170980
-    title: Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+    id: 170989
+    title: >-
+        What energy input is required for nucleotide activation in nucleic acid biosynthesis?
     subject: Biology
-    url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
 related_article2:
-    id: 170987
-    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    id: 170985
+    title: >-
+        How do equilibrium constants relate to chemical equilibrium in glycolysis?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
+    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
 related_article3:
+    id: 170974
+    title: >-
+        What is the difference between favorable and unfavorable reactions in energy conversions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
+related_article4:
     id: 170988
-    title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    title: >-
+        Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
     subject: Biology
     url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
-related_article4:
-    id: 170994
-    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+related_article5:
+    id: 170980
+    title: >-
+        Explain the ATP cycle in terms of hydrolysis and phosphorylation.
     subject: Biology
-    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
+    url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
 ---
 
 &nbsp;

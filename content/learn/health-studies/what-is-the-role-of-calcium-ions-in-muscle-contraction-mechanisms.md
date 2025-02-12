@@ -2,8 +2,10 @@
 _schema: default
 id: 170575
 date: 2025-02-06
-title: What is the role of calcium ions in muscle contraction mechanisms?
-article_title: What is the role of calcium ions in muscle contraction mechanisms?
+title: >-
+    What is the role of calcium ions in muscle contraction mechanisms?
+article_title: >-
+    What is the role of calcium ions in muscle contraction mechanisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms.md
 url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 score: -1.0
 related_article1:
-    id: 170565
-    title: What is the process of DNA transcription in genetic pathways?
+    id: 170547
+    title: >-
+        How do organ systems contribute to maintaining homeostasis in the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
+    url: /learn/health-studies/questions/how-do-organ-systems-contribute-to-maintaining-homeostasis-in-the-body
 related_article2:
-    id: 170560
-    title: What are the primary pathophysiological features of Parkinson's disease?
+    id: 170563
+    title: >-
+        How does cognitive dissonance influence behavior according to psychological theories?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
+    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
 related_article3:
-    id: 170556
-    title: What is the role of the hypothalamus in the nervous system?
+    id: 170563
+    title: >-
+        How does cognitive dissonance influence behavior according to psychological theories?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
+    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
 related_article4:
-    id: 170560
-    title: What are the primary pathophysiological features of Parkinson's disease?
+    id: 170573
+    title: >-
+        How does electron microscopy differ from light microscopy in imaging applications?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
+    url: /learn/health-studies/questions/how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-applications
 related_article5:
-    id: 170571
-    title: How can AI hallucinations impact the use of large language models in education?
+    id: 170558
+    title: >-
+        What are the roles of insulin and glucagon in hormonal regulation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
+    url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
 ---
 
 &nbsp;

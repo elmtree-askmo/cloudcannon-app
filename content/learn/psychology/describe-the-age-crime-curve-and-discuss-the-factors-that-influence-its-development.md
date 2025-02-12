@@ -2,8 +2,10 @@
 _schema: default
 id: 164058
 date: 2025-01-28
-title: Describe the age crime curve and discuss the factors that influence its development.
-article_title: Describe the age crime curve and discuss the factors that influence its development.
+title: >-
+    Describe the age crime curve and discuss the factors that influence its development.
+article_title: >-
+    Describe the age crime curve and discuss the factors that influence its development.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-age-crime-curve-and-discuss-the-factors-that-influence-i
 url: /learn/psychology/questions/describe-the-age-crime-curve-and-discuss-the-factors-that-influence-its-development
 score: -1.0
 related_article1:
-    id: 164062
-    title: How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
-related_article2:
-    id: 164063
-    title: What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-systemic-approach-of-multisystemic-therapy-mst-and-which-populations-does-it-target
-related_article3:
-    id: 164065
-    title: What are the primary techniques and tools used in biofeedback therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
-related_article4:
     id: 164068
-    title: Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
     subject: Psychology
     url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
-related_article5:
-    id: 164062
-    title: How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+related_article2:
+    id: 164060
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article3:
+    id: 164056
+    title: >-
+        How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+related_article4:
+    id: 164060
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    subject: Psychology
+    url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
+related_article5:
+    id: 164057
+    title: >-
+        What are the core principles of Functional Family Therapy (FFT) and how are they implemented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented
 ---
 
 &nbsp;

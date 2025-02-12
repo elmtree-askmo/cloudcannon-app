@@ -2,8 +2,10 @@
 _schema: default
 id: 163893
 date: 2025-01-28
-title: Discuss the main themes found in the Homeric Hymns.
-article_title: Discuss the main themes found in the Homeric Hymns.
+title: >-
+    Discuss the main themes found in the Homeric Hymns.
+article_title: >-
+    Discuss the main themes found in the Homeric Hymns.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-main-themes-found-in-the-homeric-hymns.md
 url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
 score: 9.0
 related_article1:
-    id: 163894
-    title: How did the oral tradition contribute to the transmission of Greek myths?
+    id: 163889
+    title: >-
+        What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
+    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
 related_article2:
-    id: 163906
-    title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
+    id: 163899
+    title: >-
+        Describe a literary technique commonly used in ancient Greek literature and its purpose.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
+    url: /learn/art-history-and-literature/questions/describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose
 related_article3:
-    id: 163905
-    title: How have Greek myths been preserved and evolved over time through storytelling traditions?
+    id: 163901
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
+    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 related_article4:
-    id: 163890
-    title: Identify a notable Greek hero and describe their main achievements or adventures.
+    id: 163888
+    title: >-
+        Who are the major Olympian deities in Greek mythology, and what are their primary domains?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
+    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
 related_article5:
-    id: 163895
-    title: What role did bards play in the preservation and dissemination of Greek myths?
+    id: 163896
+    title: >-
+        List the defining characteristics of epic poetry in ancient Greek literature.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
+    url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
 ---
 
 &nbsp;

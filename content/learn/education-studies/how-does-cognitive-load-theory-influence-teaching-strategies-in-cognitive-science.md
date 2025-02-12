@@ -2,8 +2,10 @@
 _schema: default
 id: 166894
 date: 2025-01-31
-title: How does cognitive load theory influence teaching strategies in cognitive science?
-article_title: How does cognitive load theory influence teaching strategies in cognitive science?
+title: >-
+    How does cognitive load theory influence teaching strategies in cognitive science?
+article_title: >-
+    How does cognitive load theory influence teaching strategies in cognitive science?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-cognitive-load-theory-influence-teaching-strategies-in-cogni
 url: /learn/education-studies/questions/how-does-cognitive-load-theory-influence-teaching-strategies-in-cognitive-science
 score: -1.0
 related_article1:
-    id: 166899
-    title: What are the benefits of using Codon Learning courseware in biology education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
-related_article2:
-    id: 166904
-    title: What strategies can be implemented to improve student attendance in lectures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-implemented-to-improve-student-attendance-in-lectures
-related_article3:
-    id: 166896
-    title: How can trend analysis be used to interpret data effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
-related_article4:
-    id: 166903
-    title: What is the relationship between attendance and GPA, and why is regular attendance important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
-related_article5:
     id: 166895
-    title: What are the key components of a graph and why are they important for data interpretation?
+    title: >-
+        What are the key components of a graph and why are they important for data interpretation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-a-graph-and-why-are-they-important-for-data-interpretation
+related_article2:
+    id: 166899
+    title: >-
+        What are the benefits of using Codon Learning courseware in biology education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
+related_article3:
+    id: 166900
+    title: >-
+        How do Desire2Learn D2L features support course administration and content delivery?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-desire2learn-d2l-features-support-course-administration-and-content-delivery
+related_article4:
+    id: 166899
+    title: >-
+        What are the benefits of using Codon Learning courseware in biology education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
+related_article5:
+    id: 166898
+    title: >-
+        How do learning objectives guide student study practices and enhance understanding?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
 ---
 
 &nbsp;

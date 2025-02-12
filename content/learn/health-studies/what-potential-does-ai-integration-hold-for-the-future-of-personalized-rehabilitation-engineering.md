@@ -2,8 +2,10 @@
 _schema: default
 id: 164274
 date: 2025-01-28
-title: What potential does AI integration hold for the future of personalized rehabilitation engineering?
-article_title: What potential does AI integration hold for the future of personalized rehabilitation engineering?
+title: >-
+    What potential does AI integration hold for the future of personalized rehabilitation engineering?
+article_title: >-
+    What potential does AI integration hold for the future of personalized rehabilitation engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: what-potential-does-ai-integration-hold-for-the-future-of-personalize
 url: /learn/health-studies/questions/what-potential-does-ai-integration-hold-for-the-future-of-personalized-rehabilitation-engineering
 score: -1.0
 related_article1:
-    id: 164258
-    title: What are the primary components of biomechanical systems, and how do they function together?
+    id: 164271
+    title: >-
+        What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
+    url: /learn/health-studies/questions/what-are-the-ethical-concerns-associated-with-nervous-system-integration-technologies-particularly-regarding-privacy
 related_article2:
-    id: 164270
-    title: How does neural connectivity influence the integration of nervous system technologies?
+    id: 164259
+    title: >-
+        How do prosthetics and orthotics differ in their application within biomechanical technology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neural-connectivity-influence-the-integration-of-nervous-system-technologies
+    url: /learn/health-studies/questions/how-do-prosthetics-and-orthotics-differ-in-their-application-within-biomechanical-technology
 related_article3:
-    id: 164265
-    title: Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
+    id: 164266
+    title: >-
+        How does sensory feedback enhance the user experience of bionic prosthetics?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-difference-between-myoelectric-and-neural-control-mechanisms-in-bionic-prosthetics
+    url: /learn/health-studies/questions/how-does-sensory-feedback-enhance-the-user-experience-of-bionic-prosthetics
 related_article4:
+    id: 164266
+    title: >-
+        How does sensory feedback enhance the user experience of bionic prosthetics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-sensory-feedback-enhance-the-user-experience-of-bionic-prosthetics
+related_article5:
     id: 164260
-    title: What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
+    title: >-
+        What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
 ---

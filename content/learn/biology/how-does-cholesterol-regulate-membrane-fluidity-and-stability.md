@@ -2,8 +2,10 @@
 _schema: default
 id: 168921
 date: 2025-02-04
-title: How does cholesterol regulate membrane fluidity and stability?
-article_title: How does cholesterol regulate membrane fluidity and stability?
+title: >-
+    How does cholesterol regulate membrane fluidity and stability?
+article_title: >-
+    How does cholesterol regulate membrane fluidity and stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-cholesterol-regulate-membrane-fluidity-and-stability.md
 url: /learn/biology/questions/how-does-cholesterol-regulate-membrane-fluidity-and-stability
 score: -1.0
 related_article1:
-    id: 168929
-    title: Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-hydrophobic-nature-of-phospholipid-tails-and-their-role-in-membrane-structure
-related_article2:
     id: 168928
-    title: Describe the hydrophilic nature of phospholipid heads and their interaction with water.
+    title: >-
+        Describe the hydrophilic nature of phospholipid heads and their interaction with water.
     subject: Biology
     url: /learn/biology/questions/describe-the-hydrophilic-nature-of-phospholipid-heads-and-their-interaction-with-water
+related_article2:
+    id: 168919
+    title: >-
+        Describe the arrangement of phospholipids in the bilayer and the significance of hydrophilic and hydrophobic interactions.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-arrangement-of-phospholipids-in-the-bilayer-and-the-significance-of-hydrophilic-and-hydrophobic-interactions
 related_article3:
-    id: 168920
-    title: Explain the fluid mosaic model and its significance in membrane fluidity.
+    id: 168928
+    title: >-
+        Describe the hydrophilic nature of phospholipid heads and their interaction with water.
     subject: Biology
-    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-its-significance-in-membrane-fluidity
+    url: /learn/biology/questions/describe-the-hydrophilic-nature-of-phospholipid-heads-and-their-interaction-with-water
 related_article4:
-    id: 168924
-    title: What is the role of glycoproteins in cell recognition and immune response?
+    id: 168917
+    title: >-
+        What is the primary function of the cell membrane as a protective barrier?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response
+    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
 related_article5:
-    id: 168927
-    title: What is the role of protein channels and pumps in cell transport mechanisms?
+    id: 168928
+    title: >-
+        Describe the hydrophilic nature of phospholipid heads and their interaction with water.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
+    url: /learn/biology/questions/describe-the-hydrophilic-nature-of-phospholipid-heads-and-their-interaction-with-water
 ---
 
 &nbsp;

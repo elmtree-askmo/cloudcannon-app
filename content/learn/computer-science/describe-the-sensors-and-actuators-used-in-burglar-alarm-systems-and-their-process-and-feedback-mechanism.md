@@ -2,8 +2,10 @@
 _schema: default
 id: 161526
 date: 2025-01-24
-title: Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
-article_title: Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
+title: >-
+    Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
+article_title: >-
+    Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-sensors-and-actuators-used-in-burglar-alarm-systems-and-
 url: /learn/computer-science/questions/describe-the-sensors-and-actuators-used-in-burglar-alarm-systems-and-their-process-and-feedback-mechanism
 score: -1.0
 related_article1:
-    id: 161356
-    title: Discuss the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems.
+    id: 161532
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
     subject: Computer Science
-    url: /learn/computer-science/questions/discuss-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
 related_article2:
-    id: 161587
-    title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+    id: 161348
+    title: >-
+        Describe the methods and sensors used in water pollution monitoring.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
+    url: /learn/computer-science/questions/describe-the-methods-and-sensors-used-in-water-pollution-monitoring
 related_article3:
-    id: 161354
-    title: Explain the components and process involved in car park barrier systems.
+    id: 161352
+    title: >-
+        Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-process-involved-in-car-park-barrier-systems
+    url: /learn/computer-science/questions/describe-the-process-and-feedback-mechanism-of-a-burglar-alarm-system-including-the-sensors-and-actuators-used
 related_article4:
-    id: 161345
-    title: Explain the process and advantages of multi-point calibration.
+    id: 161532
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-and-advantages-of-multipoint-calibration
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
 related_article5:
-    id: 161518
-    title: What is one-point calibration, and what are its applications and limitations?
+    id: 161514
+    title: >-
+        Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-onepoint-calibration-and-what-are-its-applications-and-limitations
+    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
 ---
 
 &nbsp;

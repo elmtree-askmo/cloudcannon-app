@@ -2,8 +2,10 @@
 _schema: default
 id: 160109
 date: 2025-01-23
-title: What were the origins and key developments of Cubism, and how did it impact modern art?
-article_title: What were the origins and key developments of Cubism, and how did it impact modern art?
+title: >-
+    What were the origins and key developments of Cubism, and how did it impact modern art?
+article_title: >-
+    What were the origins and key developments of Cubism, and how did it impact modern art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-i
 url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
 score: 9.0
 related_article1:
-    id: 160115
-    title: What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+    id: 159849
+    title: >-
+        What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
 related_article2:
-    id: 160108
-    title: In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 related_article3:
-    id: 160113
-    title: In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+    id: 159837
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
 related_article4:
-    id: 159851
-    title: In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
+    id: 159842
+    title: >-
+        How did queer art develop in modern society, and who were some key figures and movements in this area?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
+    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
 related_article5:
-    id: 159843
-    title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+    id: 160112
+    title: >-
+        How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
+    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
 ---
 
 &nbsp;

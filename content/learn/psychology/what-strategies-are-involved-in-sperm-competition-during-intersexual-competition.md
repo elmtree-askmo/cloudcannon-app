@@ -2,8 +2,10 @@
 _schema: default
 id: 170873
 date: 2025-02-07
-title: What strategies are involved in sperm competition during intersexual competition?
-article_title: What strategies are involved in sperm competition during intersexual competition?
+title: >-
+    What strategies are involved in sperm competition during intersexual competition?
+article_title: >-
+    What strategies are involved in sperm competition during intersexual competition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-are-involved-in-sperm-competition-during-intersexual-
 url: /learn/psychology/questions/what-strategies-are-involved-in-sperm-competition-during-intersexual-competition
 score: -1.0
 related_article1:
-    id: 170869
-    title: How does anisotropic selection influence sexual selection?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-anisotropic-selection-influence-sexual-selection
-related_article2:
     id: 170877
-    title: What is the handicap principle, and how does it relate to honest signals in mate selection?
+    title: >-
+        What is the handicap principle, and how does it relate to honest signals in mate selection?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-handicap-principle-and-how-does-it-relate-to-honest-signals-in-mate-selection
+related_article2:
+    id: 170875
+    title: >-
+        What role does genetic quality play in the good genes theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-genetic-quality-play-in-the-good-genes-theory
 related_article3:
-    id: 170872
-    title: What are the main types of intrasexual competition, and how do they differ?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-types-of-intrasexual-competition-and-how-do-they-differ
-related_article4:
-    id: 170879
-    title: What are the trade-offs between natural and sexual selection, and how do they influence color variation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-tradeoffs-between-natural-and-sexual-selection-and-how-do-they-influence-color-variation
-related_article5:
     id: 170870
-    title: What are the consequences of asymmetry in parental investment for male and female roles?
+    title: >-
+        What are the consequences of asymmetry in parental investment for male and female roles?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-consequences-of-asymmetry-in-parental-investment-for-male-and-female-roles
+related_article4:
+    id: 170874
+    title: >-
+        How does the healthy mate theory explain mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-healthy-mate-theory-explain-mate-selection
+related_article5:
+    id: 170874
+    title: >-
+        How does the healthy mate theory explain mate selection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-healthy-mate-theory-explain-mate-selection
 ---
 
 &nbsp;

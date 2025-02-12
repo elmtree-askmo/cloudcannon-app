@@ -2,8 +2,10 @@
 _schema: default
 id: 169643
 date: 2025-02-05
-title: What are the different types of discrimination that can occur in healthcare settings?
-article_title: What are the different types of discrimination that can occur in healthcare settings?
+title: >-
+    What are the different types of discrimination that can occur in healthcare settings?
+article_title: >-
+    What are the different types of discrimination that can occur in healthcare settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-discrimination-that-can-occur-in-heal
 url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
 score: -1.0
 related_article1:
-    id: 169655
-    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    id: 169662
+    title: >-
+        What strategies can be used to provide compassionate care in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
 related_article2:
-    id: 169652
-    title: What societal changes have occurred in the legal and social context of transgender issues?
-    subject: Nursing
-    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
-related_article3:
     id: 169658
-    title: What is the role of nurses in combating discrimination within healthcare settings?
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article3:
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
+    subject: Nursing
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
 related_article4:
-    id: 169659
-    title: What are some inclusive healthcare practices that create safe environments for patients?
+    id: 169645
+    title: >-
+        What legal protections are provided under the Equality Act for LGBTQ+ individuals?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+    url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 related_article5:
-    id: 169642
-    title: How can healthcare providers practice inclusivity when caring for transgender patients?
+    id: 169649
+    title: >-
+        What mental health issues are prevalent among transgender individuals due to discrimination?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
 ---
 
 &nbsp;

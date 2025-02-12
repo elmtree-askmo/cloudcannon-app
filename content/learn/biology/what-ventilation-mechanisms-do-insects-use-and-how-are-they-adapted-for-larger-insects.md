@@ -2,8 +2,10 @@
 _schema: default
 id: 168808
 date: 2025-02-04
-title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
-article_title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+title: >-
+    What ventilation mechanisms do insects use, and how are they adapted for larger insects?
+article_title: >-
+    What ventilation mechanisms do insects use, and how are they adapted for larger insects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-f
 url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
 score: -1.0
 related_article1:
+    id: 168798
+    title: >-
+        How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
+related_article2:
     id: 168810
-    title: What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    title: >-
+        What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
     subject: Biology
     url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
-related_article2:
-    id: 168806
-    title: How does the open circulatory system function in nutrient and waste transport without oxygen transport?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
 related_article3:
-    id: 168799
-    title: Why is a high surface area to volume ratio important in gas exchange and oxygen absorption?
+    id: 168798
+    title: >-
+        How do lamellae enhance the surface area in gills, and what is the analogy to villi?
     subject: Biology
-    url: /learn/biology/questions/why-is-a-high-surface-area-to-volume-ratio-important-in-gas-exchange-and-oxygen-absorption
-related_article4:
-    id: 168800
-    title: How do ventilation mechanisms and blood supply contribute to maintaining a concentration gradient?
-    subject: Biology
-    url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
-related_article5:
-    id: 168803
-    title: Describe the diffusion process and its role in gas exchange.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
 ---
 
 &nbsp;

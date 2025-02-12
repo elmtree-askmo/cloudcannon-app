@@ -2,8 +2,10 @@
 _schema: default
 id: 161475
 date: 2025-01-24
-title: How are input and output represented in a flowchart?
-article_title: How are input and output represented in a flowchart?
+title: >-
+    How are input and output represented in a flowchart?
+article_title: >-
+    How are input and output represented in a flowchart?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-input-and-output-represented-in-a-flowchart.md
 url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
 score: -1.0
 related_article1:
-    id: 161189
-    title: What are the basic mathematical operators used in programming?
+    id: 161481
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-mathematical-operators-used-in-programming
+    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
 related_article2:
-    id: 161472
-    title: How do flowcharts help in communicating system processes?
+    id: 161484
+    title: >-
+        What is iteration and how does it differ from simple repetition?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
+    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
 related_article3:
-    id: 161191
-    title: What is the purpose of using counter variables in count-controlled loops?
+    id: 161180
+    title: >-
+        What is the primary purpose of an algorithm in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-an-algorithm-in-problemsolving
 related_article4:
-    id: 161184
-    title: How are input and output operations represented in a flowchart?
+    id: 161194
+    title: >-
+        How does process flow ensure the correct sequence of actions in a program?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-operations-represented-in-a-flowchart
+    url: /learn/computer-science/questions/how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-program
 related_article5:
-    id: 161375
-    title: Why are data types important in programming?
+    id: 161477
+    title: >-
+        Explain the difference between count-controlled and condition-controlled loops.
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+    url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
 ---
 
 &nbsp;

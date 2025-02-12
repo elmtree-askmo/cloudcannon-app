@@ -2,8 +2,10 @@
 _schema: default
 id: 166581
 date: 2025-01-30
-title: How does emotional intelligence influence academic performance and learning styles?
-article_title: How does emotional intelligence influence academic performance and learning styles?
+title: >-
+    How does emotional intelligence influence academic performance and learning styles?
+article_title: >-
+    How does emotional intelligence influence academic performance and learning styles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-emotional-intelligence-influence-academic-performance-and-le
 url: /learn/education-studies/questions/how-does-emotional-intelligence-influence-academic-performance-and-learning-styles
 score: -1.0
 related_article1:
-    id: 166583
-    title: What are the benefits of utilizing constructive feedback in academic settings?
+    id: 166594
+    title: >-
+        What barriers might impede knowledge acquisition, and how can they be overcome?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-utilizing-constructive-feedback-in-academic-settings
+    url: /learn/education-studies/questions/what-barriers-might-impede-knowledge-acquisition-and-how-can-they-be-overcome
 related_article2:
-    id: 166579
-    title: How do formative and summative assessments differ in their approach and objectives?
+    id: 166586
+    title: >-
+        What study techniques are most effective for exam preparation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-formative-and-summative-assessments-differ-in-their-approach-and-objectives
+    url: /learn/education-studies/questions/what-study-techniques-are-most-effective-for-exam-preparation
 related_article3:
-    id: 166596
-    title: How do academic standards influence curriculum design and course objectives?
+    id: 166594
+    title: >-
+        What barriers might impede knowledge acquisition, and how can they be overcome?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-academic-standards-influence-curriculum-design-and-course-objectives
+    url: /learn/education-studies/questions/what-barriers-might-impede-knowledge-acquisition-and-how-can-they-be-overcome
 related_article4:
-    id: 166591
-    title: What factors most significantly influence academic performance, and how can they be improved?
+    id: 166597
+    title: >-
+        What are the advantages and disadvantages of traditional versus innovative assessment types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-most-significantly-influence-academic-performance-and-how-can-they-be-improved
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-traditional-versus-innovative-assessment-types
 related_article5:
-    id: 166593
-    title: How can reflective practices deepen understanding and enhance critical thinking?
+    id: 166589
+    title: >-
+        What is the role of summative assessment in determining academic performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-practices-deepen-understanding-and-enhance-critical-thinking
+    url: /learn/education-studies/questions/what-is-the-role-of-summative-assessment-in-determining-academic-performance
 ---
 
 &nbsp;

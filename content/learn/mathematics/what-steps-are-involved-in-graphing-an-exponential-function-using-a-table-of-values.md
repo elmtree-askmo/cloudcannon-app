@@ -2,8 +2,10 @@
 _schema: default
 id: 163766
 date: 2025-01-27
-title: What steps are involved in graphing an exponential function using a table of values?
-article_title: What steps are involved in graphing an exponential function using a table of values?
+title: >-
+    What steps are involved in graphing an exponential function using a table of values?
+article_title: >-
+    What steps are involved in graphing an exponential function using a table of values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-steps-are-involved-in-graphing-an-exponential-function-using-a-t
 url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
 score: -1.0
 related_article1:
-    id: 163767
-    title: How do you identify the asymptote of an exponential function from its graph?
+    id: 163778
+    title: >-
+        What is a real-world example of exponential decay, and how is it mathematically represented?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph
+    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
 related_article2:
-    id: 163765
-    title: How does the constant multiplier effect influence the behavior of an exponential function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
-related_article3:
-    id: 163781
-    title: How can you determine the equation of an exponential function from its graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-determine-the-equation-of-an-exponential-function-from-its-graph
-related_article4:
-    id: 163776
-    title: Provide an example of a real-world scenario that illustrates exponential growth.
-    subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-a-realworld-scenario-that-illustrates-exponential-growth
-related_article5:
     id: 163782
-    title: What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    title: >-
+        What method can be used to write the equation of an exponential function when the y-intercept is not given?
     subject: Mathematics
     url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+related_article3:
+    id: 163786
+    title: >-
+        How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
+related_article4:
+    id: 163788
+    title: >-
+        How can exponential functions be used to model population growth in real-world scenarios?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
+related_article5:
+    id: 163784
+    title: >-
+        Explain the negative exponent rule and provide an example.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160297
 date: 2025-01-24
-title: How can you balance academic and personal life when developing a timetable?
-article_title: How can you balance academic and personal life when developing a timetable?
+title: >-
+    How can you balance academic and personal life when developing a timetable?
+article_title: >-
+    How can you balance academic and personal life when developing a timetable?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-can-you-balance-academic-and-persona
 score: -1.0
 related_article1:
     id: 160317
-    title: What are the components of metacognition?
+    title: >-
+        What are the components of metacognition?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-components-of-metacognition
 related_article2:
-    id: 160334
-    title: What strategies can help manage time effectively during exams?
+    id: 160299
+    title: >-
+        What is the difference between skimming and scanning in reading strategies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-help-manage-time-effectively-during-exams
+    url: /learn/education-studies/questions/what-is-the-difference-between-skimming-and-scanning-in-reading-strategies
 related_article3:
-    id: 160330
-    title: What are the consequences of plagiarism in academic settings?
+    id: 160324
+    title: >-
+        What are the benefits of collaborative learning in study groups?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-consequences-of-plagiarism-in-academic-settings
+    url: /learn/education-studies/questions/what-are-the-benefits-of-collaborative-learning-in-study-groups
 related_article4:
-    id: 160314
-    title: How can critical thinking be applied in academic writing?
+    id: 160319
+    title: >-
+        How can self-reflection techniques enhance metacognitive skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-critical-thinking-be-applied-in-academic-writing
+    url: /learn/education-studies/questions/how-can-selfreflection-techniques-enhance-metacognitive-skills
 related_article5:
-    id: 160302
-    title: How does the Cornell Method help in note-making?
+    id: 160317
+    title: >-
+        What are the components of metacognition?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-cornell-method-help-in-notemaking
+    url: /learn/education-studies/questions/what-are-the-components-of-metacognition
 ---
 
 &nbsp;

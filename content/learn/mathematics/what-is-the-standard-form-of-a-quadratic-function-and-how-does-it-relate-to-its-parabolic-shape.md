@@ -2,8 +2,10 @@
 _schema: default
 id: 163831
 date: 2025-01-27
-title: What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
-article_title: What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+title: >-
+    What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+article_title: >-
+    What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-funct
 score: -1.0
 related_article1:
     id: 163847
-    title: What is the importance of graphical representation in understanding functions?
+    title: >-
+        What is the importance of graphical representation in understanding functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
 related_article2:
-    id: 163843
-    title: What are horizontal and vertical asymptotes, and how do they differ?
+    id: 163830
+    title: >-
+        How do you determine the domain and range of a linear function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
 related_article3:
-    id: 163842
-    title: How do you find the x-intercepts and y-intercepts of a function?
+    id: 163847
+    title: >-
+        What is the importance of graphical representation in understanding functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
 related_article4:
-    id: 163845
-    title: What are the graphical differences between quadratic and cubic functions?
+    id: 163834
+    title: >-
+        What are the asymptotes of an exponential function, and how do they affect its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
-related_article5:
-    id: 163842
-    title: How do you find the x-intercepts and y-intercepts of a function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
+    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 ---
 
 &nbsp;

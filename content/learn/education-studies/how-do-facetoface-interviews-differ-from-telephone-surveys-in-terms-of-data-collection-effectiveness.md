@@ -2,8 +2,10 @@
 _schema: default
 id: 164998
 date: 2025-01-28
-title: How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
-article_title: How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
+title: >-
+    How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
+article_title: >-
+    How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-o
 url: /learn/education-studies/questions/how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-of-data-collection-effectiveness
 score: -1.0
 related_article1:
-    id: 165006
-    title: How does random sampling differ from stratified sampling, and when should each be used?
+    id: 164999
+    title: >-
+        What are the different types of statistical variables, and how do they impact data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-random-sampling-differ-from-stratified-sampling-and-when-should-each-be-used
+    url: /learn/education-studies/questions/what-are-the-different-types-of-statistical-variables-and-how-do-they-impact-data-analysis
 related_article2:
-    id: 164993
-    title: What are the key elements to consider when formulating survey questions to ensure clarity and simplicity?
+    id: 164999
+    title: >-
+        What are the different types of statistical variables, and how do they impact data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-to-consider-when-formulating-survey-questions-to-ensure-clarity-and-simplicity
+    url: /learn/education-studies/questions/what-are-the-different-types-of-statistical-variables-and-how-do-they-impact-data-analysis
 related_article3:
-    id: 165004
-    title: What role does socioeconomic status play in demographic analysis?
+    id: 164996
+    title: >-
+        Why is visual layout important in questionnaire design, and how can it affect survey responses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-socioeconomic-status-play-in-demographic-analysis
+    url: /learn/education-studies/questions/why-is-visual-layout-important-in-questionnaire-design-and-how-can-it-affect-survey-responses
 related_article4:
-    id: 164994
-    title: How can assumptions be avoided in survey question formulation?
+    id: 165001
+    title: >-
+        How can patterns be identified in data interpretation, and why is this important?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assumptions-be-avoided-in-survey-question-formulation
+    url: /learn/education-studies/questions/how-can-patterns-be-identified-in-data-interpretation-and-why-is-this-important
 related_article5:
-    id: 164997
-    title: What are the advantages and disadvantages of using online surveys for data collection?
+    id: 165000
+    title: >-
+        Explain the importance of measurement scales in statistical analysis.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-using-online-surveys-for-data-collection
+    url: /learn/education-studies/questions/explain-the-importance-of-measurement-scales-in-statistical-analysis
 ---
 
 &nbsp;

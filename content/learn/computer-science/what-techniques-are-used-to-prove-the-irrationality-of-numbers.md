@@ -2,8 +2,10 @@
 _schema: default
 id: 160813
 date: 2025-01-24
-title: What techniques are used to prove the irrationality of numbers?
-article_title: What techniques are used to prove the irrationality of numbers?
+title: >-
+    What techniques are used to prove the irrationality of numbers?
+article_title: >-
+    What techniques are used to prove the irrationality of numbers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-are-used-to-prove-the-irrationality-of-numbers.md
 url: /learn/computer-science/questions/what-techniques-are-used-to-prove-the-irrationality-of-numbers
 score: -1.0
 related_article1:
-    id: 160812
-    title: What distinguishes rational numbers from irrational numbers?
+    id: 161287
+    title: >-
+        How do infinite sets impact computability and set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
+    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
 related_article2:
-    id: 161271
-    title: What is the halting problem, and why is it significant in computability theory?
+    id: 161148
+    title: >-
+        What is the significance of cardinality in defining complexity and algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
 related_article3:
-    id: 161086
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 161140
+    title: >-
+        What are the properties of rational and irrational numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+    url: /learn/computer-science/questions/what-are-the-properties-of-rational-and-irrational-numbers
 related_article4:
-    id: 160817
-    title: What challenges are associated with solving the traveling salesman problem?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article5:
-    id: 161088
-    title: How does the representation of an algorithm impact its complexity?
+    id: 161138
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-representation-of-an-algorithm-impact-its-complexity
+    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 ---
 
 &nbsp;

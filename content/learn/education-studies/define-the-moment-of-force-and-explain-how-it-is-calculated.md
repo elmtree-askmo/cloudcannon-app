@@ -2,8 +2,10 @@
 _schema: default
 id: 166699
 date: 2025-01-31
-title: Define the moment of force and explain how it is calculated.
-article_title: Define the moment of force and explain how it is calculated.
+title: >-
+    Define the moment of force and explain how it is calculated.
+article_title: >-
+    Define the moment of force and explain how it is calculated.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-the-moment-of-force-and-explain-how-it-is-calculated.md
 url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
 score: -1.0
 related_article1:
-    id: 166698
-    title: How is the conservation of energy principle applied in rigid body dynamics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
-related_article2:
-    id: 166693
-    title: How does the right-hand rule help determine the direction of a vector cross product?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
-related_article3:
-    id: 166694
-    title: What role do unit vectors play in the vector cross product?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-unit-vectors-play-in-the-vector-cross-product
-related_article4:
-    id: 166706
-    title: Describe the principle of conservation of energy and its significance in engineering systems.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
-related_article5:
     id: 166719
-    title: How do engineering organizations support networking and professional development?
+    title: >-
+        How do engineering organizations support networking and professional development?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
+related_article2:
+    id: 166715
+    title: >-
+        What skills and qualifications are typically required for consulting roles in engineering?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
+related_article3:
+    id: 166715
+    title: >-
+        What skills and qualifications are typically required for consulting roles in engineering?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
+related_article4:
+    id: 166692
+    title: >-
+        What is the vector cross product and how is it calculated?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+related_article5:
+    id: 166703
+    title: >-
+        What are some engineering applications of torque?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
 ---
 
 &nbsp;

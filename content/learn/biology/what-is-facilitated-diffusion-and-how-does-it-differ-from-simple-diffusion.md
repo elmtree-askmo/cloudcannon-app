@@ -2,8 +2,10 @@
 _schema: default
 id: 167183
 date: 2025-01-31
-title: What is facilitated diffusion and how does it differ from simple diffusion?
-article_title: What is facilitated diffusion and how does it differ from simple diffusion?
+title: >-
+    What is facilitated diffusion and how does it differ from simple diffusion?
+article_title: >-
+    What is facilitated diffusion and how does it differ from simple diffusion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diff
 url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 score: -1.0
 related_article1:
-    id: 167193
-    title: What factors affect membrane permeability and how do they influence transport?
+    id: 167185
+    title: >-
+        What distinguishes active transport from passive transport in terms of energy requirements?
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+    url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
 related_article2:
-    id: 167187
-    title: What factors determine the specificity and selectivity of channel proteins?
+    id: 167194
+    title: >-
+        Define concentration gradients and explain their importance in membrane transport.
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
 related_article3:
-    id: 167187
-    title: What factors determine the specificity and selectivity of channel proteins?
-    subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
-related_article4:
     id: 167188
-    title: Describe the role of carrier proteins in facilitated diffusion.
+    title: >-
+        Describe the role of carrier proteins in facilitated diffusion.
     subject: Biology
     url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+related_article4:
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
 related_article5:
     id: 167189
-    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    title: >-
+        What is the mechanism of action for carrier proteins during facilitated diffusion?
     subject: Biology
     url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
 ---

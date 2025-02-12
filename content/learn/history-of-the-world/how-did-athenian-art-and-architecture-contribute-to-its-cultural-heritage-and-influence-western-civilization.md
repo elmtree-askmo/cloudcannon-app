@@ -2,8 +2,10 @@
 _schema: default
 id: 166035
 date: 2025-01-29
-title: How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
-article_title: How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
+title: >-
+    How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
+article_title: >-
+    How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-athenian-art-and-architecture-contribute-to-its-cultural-heri
 url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
 score: 9.0
 related_article1:
-    id: 166023
-    title: Who were the Archons, and what was their function in Athenian political institutions?
+    id: 166027
+    title: >-
+        What were the main characteristics of the mythical kingship and aristocracy in Athens' historical context?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
+    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-mythical-kingship-and-aristocracy-in-athens-historical-context
 related_article2:
-    id: 166033
-    title: How did the political language of ancient Athens influence modern political terminology?
+    id: 166036
+    title: >-
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
+    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 related_article3:
-    id: 166020
-    title: What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
+    id: 166022
+    title: >-
+        What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
 related_article4:
-    id: 166034
-    title: What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
+    id: 166019
+    title: >-
+        What is the myth of Synoikism, and how does it relate to the Attica region?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
+    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
 related_article5:
-    id: 166028
-    title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+    id: 166038
+    title: >-
+        What significant discoveries have been made through excavations of the Classical Acropolis?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
+    url: /learn/history-of-the-world/questions/what-significant-discoveries-have-been-made-through-excavations-of-the-classical-acropolis
 ---
 
 &nbsp;

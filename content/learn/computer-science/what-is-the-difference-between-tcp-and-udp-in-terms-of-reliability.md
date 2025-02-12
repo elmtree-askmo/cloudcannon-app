@@ -2,8 +2,10 @@
 _schema: default
 id: 165768
 date: 2025-01-29
-title: What is the difference between TCP and UDP in terms of reliability?
-article_title: What is the difference between TCP and UDP in terms of reliability?
+title: >-
+    What is the difference between TCP and UDP in terms of reliability?
+article_title: >-
+    What is the difference between TCP and UDP in terms of reliability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability.md
 url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
 score: -1.0
 related_article1:
-    id: 165773
-    title: What is the significance of the simplicity and low overhead of the UDP header?
+    id: 165765
+    title: >-
+        How does the transport layer ensure logical communication between applications?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
+    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
 related_article2:
-    id: 165776
-    title: What is the purpose of port numbers in managing multiple separate communications?
+    id: 165771
+    title: >-
+        How does TCP ensure reliable and same-order delivery of data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
+    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
 related_article3:
-    id: 165784
-    title: What is the process of the three-way handshake in TCP connection establishment?
+    id: 165771
+    title: >-
+        How does TCP ensure reliable and same-order delivery of data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
+    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
 related_article4:
-    id: 165784
-    title: What is the process of the three-way handshake in TCP connection establishment?
+    id: 165775
+    title: >-
+        What mechanisms does TCP use for flow control and congestion avoidance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
+    url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
 related_article5:
-    id: 165766
-    title: What are the main responsibilities of the transport layer in data communication?
+    id: 165786
+    title: >-
+        What is the purpose of selective acknowledgment (SACK) in TCP?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
+    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165805
 date: 2025-01-29
-title: How do classification systems contribute to the organization of biological diversity?
-article_title: How do classification systems contribute to the organization of biological diversity?
+title: >-
+    How do classification systems contribute to the organization of biological diversity?
+article_title: >-
+    How do classification systems contribute to the organization of biological diversity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-classification-systems-contribute-to-the-organization-of-biolo
 url: /learn/biology/questions/how-do-classification-systems-contribute-to-the-organization-of-biological-diversity
 score: -1.0
 related_article1:
-    id: 165819
-    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    id: 165817
+    title: >-
+        How do parasites evade the host's immune system?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
 related_article2:
-    id: 165817
-    title: How do parasites evade the host's immune system?
+    id: 165808
+    title: >-
+        Provide an example of taxonomic classification for a specific organism.
     subject: Biology
-    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
 related_article3:
-    id: 165806
-    title: Explain the role of nomenclature in taxonomy.
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 related_article4:
-    id: 165817
-    title: How do parasites evade the host's immune system?
+    id: 165822
+    title: >-
+        What factors contribute to the distribution and abundance of parasites in a population?
     subject: Biology
-    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
+    url: /learn/biology/questions/what-factors-contribute-to-the-distribution-and-abundance-of-parasites-in-a-population
 related_article5:
-    id: 165816
-    title: What are the defense mechanisms employed by hosts against pathogens?
+    id: 165808
+    title: >-
+        Provide an example of taxonomic classification for a specific organism.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
 ---
 
 &nbsp;

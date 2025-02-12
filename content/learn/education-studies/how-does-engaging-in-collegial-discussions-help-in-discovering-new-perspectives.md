@@ -2,8 +2,10 @@
 _schema: default
 id: 168546
 date: 2025-02-03
-title: How does engaging in collegial discussions help in discovering new perspectives?
-article_title: How does engaging in collegial discussions help in discovering new perspectives?
+title: >-
+    How does engaging in collegial discussions help in discovering new perspectives?
+article_title: >-
+    How does engaging in collegial discussions help in discovering new perspectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-engaging-in-collegial-discussions-help-in-discovering-new-pe
 url: /learn/education-studies/questions/how-does-engaging-in-collegial-discussions-help-in-discovering-new-perspectives
 score: -1.0
 related_article1:
-    id: 168547
-    title: Why is it important to justify opinions with evidence and logical reasoning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-justify-opinions-with-evidence-and-logical-reasoning
-related_article2:
-    id: 168547
-    title: Why is it important to justify opinions with evidence and logical reasoning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-justify-opinions-with-evidence-and-logical-reasoning
-related_article3:
     id: 168563
-    title: How does summarizing discussions ensure understanding among participants?
+    title: >-
+        How does summarizing discussions ensure understanding among participants?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-summarizing-discussions-ensure-understanding-among-participants
-related_article4:
+related_article2:
+    id: 168555
+    title: >-
+        What role does empathy play in building better relationships during discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-empathy-play-in-building-better-relationships-during-discussions
+related_article3:
     id: 168551
-    title: What techniques can be used to effectively justify personal views in a discussion?
+    title: >-
+        What techniques can be used to effectively justify personal views in a discussion?
     subject: Education Studies
     url: /learn/education-studies/questions/what-techniques-can-be-used-to-effectively-justify-personal-views-in-a-discussion
-related_article5:
-    id: 168547
-    title: Why is it important to justify opinions with evidence and logical reasoning?
+related_article4:
+    id: 168564
+    title: >-
+        What techniques can be used to summarize discussions effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-justify-opinions-with-evidence-and-logical-reasoning
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-summarize-discussions-effectively
+related_article5:
+    id: 168555
+    title: >-
+        What role does empathy play in building better relationships during discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-empathy-play-in-building-better-relationships-during-discussions
 ---
 
 &nbsp;

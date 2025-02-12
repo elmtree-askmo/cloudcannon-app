@@ -2,8 +2,10 @@
 _schema: default
 id: 163983
 date: 2025-01-28
-title: What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
-article_title: What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
+title: >-
+    What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
+article_title: >-
+    What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-some-criticisms-and-controversies-surrounding-the-great-exh
 url: /learn/history-of-the-world/questions/what-were-some-criticisms-and-controversies-surrounding-the-great-exhibition-particularly-regarding-public-perception-and-abolitionist-demonstrations
 score: 9.0
 related_article1:
-    id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    id: 163989
+    title: >-
+        In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
 related_article2:
-    id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    id: 163989
+    title: >-
+        In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
 related_article3:
-    id: 163984
-    title: How did the development of public museums transition from private collections, and what was their educational purpose?
+    id: 163988
+    title: >-
+        How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
 related_article4:
-    id: 163982
-    title: In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
+    id: 163988
+    title: >-
+        How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
 related_article5:
-    id: 163981
-    title: How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
+    id: 163988
+    title: >-
+        How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-urbanization-during-the-industrial-revolution-contribute-to-socioeconomic-changes-and-class-divides
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
 ---
 
 &nbsp;

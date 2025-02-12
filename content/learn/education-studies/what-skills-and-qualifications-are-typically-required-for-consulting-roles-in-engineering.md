@@ -2,8 +2,10 @@
 _schema: default
 id: 166715
 date: 2025-01-31
-title: What skills and qualifications are typically required for consulting roles in engineering?
-article_title: What skills and qualifications are typically required for consulting roles in engineering?
+title: >-
+    What skills and qualifications are typically required for consulting roles in engineering?
+article_title: >-
+    What skills and qualifications are typically required for consulting roles in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-skills-and-qualifications-are-typically-required-for-consulting-
 url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
 score: -1.0
 related_article1:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
+    id: 166706
+    title: >-
+        Describe the principle of conservation of energy and its significance in engineering systems.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
 related_article2:
-    id: 166700
-    title: What is the relationship between force and distance in the context of moment of force?
+    id: 166718
+    title: >-
+        What benefits do professional engineering societies offer to their members?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+    url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
 related_article3:
+    id: 166717
+    title: >-
+        How is robotics automation being integrated with AI, and what are its future prospects?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-robotics-automation-being-integrated-with-ai-and-what-are-its-future-prospects
+related_article4:
     id: 166697
-    title: What assumptions are made in rigid body dynamics regarding stress and deformation?
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
-related_article4:
-    id: 166708
-    title: What are the requirements for obtaining a certification for consulting in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
 related_article5:
-    id: 166713
-    title: How do consulting companies impact the engineering industry?
+    id: 166720
+    title: >-
+        What types of events do engineering organizations typically host?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
+    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
 ---
 
 &nbsp;

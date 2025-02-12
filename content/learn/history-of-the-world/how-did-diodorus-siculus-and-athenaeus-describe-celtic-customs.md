@@ -2,8 +2,10 @@
 _schema: default
 id: 160381
 date: 2025-01-24
-title: How did Diodorus Siculus and Athenaeus describe Celtic customs?
-article_title: How did Diodorus Siculus and Athenaeus describe Celtic customs?
+title: >-
+    How did Diodorus Siculus and Athenaeus describe Celtic customs?
+article_title: >-
+    How did Diodorus Siculus and Athenaeus describe Celtic customs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs.md
 url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
 score: 8.5
 related_article1:
-    id: 159910
-    title: How did the La Tène Culture expand and settle in new regions?
+    id: 159881
+    title: >-
+        How did Diodorus Siculus and Athenaeus describe Celtic customs?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
 related_article2:
-    id: 159890
-    title: How did Celtic architectural styles reflect their settlement patterns?
+    id: 160384
+    title: >-
+        What are the key features of Celtic metalwork and jewelry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+    url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
 related_article3:
-    id: 160369
-    title: How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+    id: 160392
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 related_article4:
-    id: 160393
-    title: How have the Celts contributed to European heritage and modern perceptions?
+    id: 160386
+    title: >-
+        What were the primary military tactics and weaponry used by the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
+    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
 related_article5:
-    id: 160258
-    title: What were the geographic locations of major Celtic tribes and their natural resources?
+    id: 159925
+    title: >-
+        What were the geographic locations of major Celtic tribes and their natural resources?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 ---

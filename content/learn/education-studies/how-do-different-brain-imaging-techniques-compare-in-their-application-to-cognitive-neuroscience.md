@@ -2,8 +2,10 @@
 _schema: default
 id: 164517
 date: 2025-01-28
-title: How do different brain imaging techniques compare in their application to cognitive neuroscience?
-article_title: How do different brain imaging techniques compare in their application to cognitive neuroscience?
+title: >-
+    How do different brain imaging techniques compare in their application to cognitive neuroscience?
+article_title: >-
+    How do different brain imaging techniques compare in their application to cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-different-brain-imaging-techniques-compare-in-their-applicatio
 url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
 score: -1.0
 related_article1:
-    id: 164511
-    title: What are the main characteristics and symptoms of Broca's aphasia?
+    id: 164508
+    title: >-
+        How does TMS contribute to understanding vision and motion detection?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-and-symptoms-of-brocas-aphasia
+    url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
 related_article2:
-    id: 164522
-    title: Which brain regions are involved in speech production, and how does aphasia affect this process?
+    id: 164521
+    title: >-
+        What processes are involved in language comprehension, and how can aphasia impact these processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-brain-regions-are-involved-in-speech-production-and-how-does-aphasia-affect-this-process
+    url: /learn/education-studies/questions/what-processes-are-involved-in-language-comprehension-and-how-can-aphasia-impact-these-processes
 related_article3:
-    id: 164516
-    title: Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
+    id: 164518
+    title: >-
+        What are the defining characteristics of dyslexia, and how prevalent is it?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-brain-connectivity-crucial-in-cognitive-processing-and-what-are-the-effects-of-disconnection-syndromes
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 related_article4:
-    id: 164520
-    title: What tools and techniques are used in cognitive assessment, and why are they important in language studies?
+    id: 164510
+    title: >-
+        Why are ERP components important in cognitive processing studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
+    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
 related_article5:
-    id: 164511
-    title: What are the main characteristics and symptoms of Broca's aphasia?
+    id: 164519
+    title: >-
+        How do visual and auditory processing issues relate to cognitive processing in dyslexia?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-and-symptoms-of-brocas-aphasia
+    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167084
 date: 2025-01-31
-title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
-article_title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+title: >-
+    How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+article_title: >-
+    How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-fu
 url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
 score: -1.0
 related_article1:
-    id: 167076
-    title: What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
+    id: 167072
+    title: >-
+        How do ionic bonds form and what role do electrostatic interactions play in their stability?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
+    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
 related_article2:
-    id: 167074
-    title: Identify the functional groups present in amino acids and describe their properties.
+    id: 167072
+    title: >-
+        How do ionic bonds form and what role do electrostatic interactions play in their stability?
     subject: Chemistry
-    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
+    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
 related_article3:
+    id: 167083
+    title: >-
+        What are the primary types of biomolecules and their functions in living organisms?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-primary-types-of-biomolecules-and-their-functions-in-living-organisms
+related_article4:
     id: 167082
-    title: How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    title: >-
+        How do hydrophilic and hydrophobic molecules differ in their interactions with water?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
-related_article4:
-    id: 167085
-    title: What is the relationship between mass number, protons, and neutrons in determining atomic mass?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
 related_article5:
-    id: 167077
-    title: Describe the role of amino acids as building blocks in protein structure and function.
+    id: 167073
+    title: >-
+        What is the octet rule and how does it relate to valence electrons in covalent bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
+    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
 ---
 
 &nbsp;

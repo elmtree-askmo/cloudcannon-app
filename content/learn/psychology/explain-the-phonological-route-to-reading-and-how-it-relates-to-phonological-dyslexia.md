@@ -2,8 +2,10 @@
 _schema: default
 id: 164958
 date: 2025-01-28
-title: Explain the phonological route to reading and how it relates to phonological dyslexia.
-article_title: Explain the phonological route to reading and how it relates to phonological dyslexia.
+title: >-
+    Explain the phonological route to reading and how it relates to phonological dyslexia.
+article_title: >-
+    Explain the phonological route to reading and how it relates to phonological dyslexia.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-h
 score: -1.0
 related_article1:
     id: 164957
-    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    title: >-
+        Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
 related_article2:
-    id: 164957
-    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    id: 164977
+    title: >-
+        Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
 related_article3:
-    id: 164979
-    title: How does the right hemisphere contribute to the causes of deep dyslexia?
+    id: 164970
+    title: >-
+        Describe the phonological and logographic systems of the Japanese language structure.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
 related_article4:
-    id: 164977
-    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    id: 164967
+    title: >-
+        How do semantic networks and language systems interact within memory systems?
     subject: Psychology
-    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
+    url: /learn/psychology/questions/how-do-semantic-networks-and-language-systems-interact-within-memory-systems
 related_article5:
-    id: 164977
-    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    id: 164971
+    title: >-
+        Explain the logographic nature of the Chinese language structure and its implications for language processing.
     subject: Psychology
-    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
+    url: /learn/psychology/questions/explain-the-logographic-nature-of-the-chinese-language-structure-and-its-implications-for-language-processing
 ---
 
 &nbsp;

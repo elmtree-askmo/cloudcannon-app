@@ -2,8 +2,10 @@
 _schema: default
 id: 160809
 date: 2025-01-24
-title: What are the characteristics of intractable problems?
-article_title: What are the characteristics of intractable problems?
+title: >-
+    What are the characteristics of intractable problems?
+article_title: >-
+    What are the characteristics of intractable problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-intractable-problems.md
 url: /learn/computer-science/questions/what-are-the-characteristics-of-intractable-problems
 score: -1.0
 related_article1:
-    id: 160964
-    title: What challenges are associated with solving the traveling salesman problem?
+    id: 160819
+    title: >-
+        How do static and dynamic analysis techniques differ in algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
+    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
 related_article2:
-    id: 161277
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 160803
+    title: >-
+        What is the relationship between data structures and problem representation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-problem-representation
 related_article3:
-    id: 161275
-    title: What defines an efficient algorithm in complexity theory?
+    id: 161103
+    title: >-
+        Explain the significance of the traveling salesman problem in the context of NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
+    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
 related_article4:
-    id: 160801
-    title: How can abstraction aid in algorithm design?
+    id: 161134
+    title: >-
+        What is the P vs NP problem and why is it significant in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
+    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-significant-in-computational-theory
 related_article5:
-    id: 161097
-    title: What is the relationship between data structures and the representation of initial data?
+    id: 161133
+    title: >-
+        Describe the proof by contradiction technique and its application in proving unsolvable problems.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-the-representation-of-initial-data
+    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
 ---
 
 &nbsp;

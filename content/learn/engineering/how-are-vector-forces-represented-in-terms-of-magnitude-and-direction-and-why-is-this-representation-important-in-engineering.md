@@ -2,8 +2,10 @@
 _schema: default
 id: 166659
 date: 2025-01-31
-title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
-article_title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+title: >-
+    How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+article_title: >-
+    How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: how-are-vector-forces-represented-in-terms-of-magnitude-and-direction
 url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
 score: -1.0
 related_article1:
-    id: 166672
-    title: What techniques are employed in mathematical modeling to solve engineering problems?
+    id: 166658
+    title: >-
+        How are systems of equations used to solve equilibrium problems in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 related_article2:
     id: 166657
-    title: What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
+    title: >-
+        What conditions must be met for a system to be in equilibrium, and how are these conditions applied in engineering problem-solving?
     subject: Engineering
     url: /learn/engineering/questions/what-conditions-must-be-met-for-a-system-to-be-in-equilibrium-and-how-are-these-conditions-applied-in-engineering-problemsolving
 related_article3:
-    id: 166667
-    title: What are the basic concepts of dynamics principles, and how do they relate to motion and forces?
+    id: 166666
+    title: >-
+        How are trigonometric identities used in solving engineering problems involving vector analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-basic-concepts-of-dynamics-principles-and-how-do-they-relate-to-motion-and-forces
-related_article4:
-    id: 166653
-    title: What are the main types of engineering internships available, and how do they differ in focus?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
-related_article5:
-    id: 166653
-    title: What are the main types of engineering internships available, and how do they differ in focus?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-main-types-of-engineering-internships-available-and-how-do-they-differ-in-focus
+    url: /learn/engineering/questions/how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis
 ---
 
 &nbsp;

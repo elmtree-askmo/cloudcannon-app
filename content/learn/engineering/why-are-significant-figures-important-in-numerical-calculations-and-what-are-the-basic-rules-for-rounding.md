@@ -2,8 +2,10 @@
 _schema: default
 id: 166649
 date: 2025-01-31
-title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
-article_title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+title: >-
+    Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+article_title: >-
+    Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-significant-figures-important-in-numerical-calculations-and-w
 url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
 score: -1.0
 related_article1:
-    id: 166646
-    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    id: 166647
+    title: >-
+        How are unit vectors used in the Cartesian coordinate system to resolve vectors?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 related_article2:
-    id: 166645
-    title: What is the significance of vectors having both magnitude and direction in mechanics?
+    id: 166636
+    title: >-
+        What is the scope of mechanics and why is it important in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 related_article3:
     id: 166641
-    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    title: >-
+        Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
     subject: Engineering
     url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
 related_article4:
-    id: 166646
-    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    id: 166636
+    title: >-
+        What is the scope of mechanics and why is it important in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 related_article5:
-    id: 166637
-    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    id: 166650
+    title: >-
+        What are derived units and why are they important in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
 ---
 
 &nbsp;

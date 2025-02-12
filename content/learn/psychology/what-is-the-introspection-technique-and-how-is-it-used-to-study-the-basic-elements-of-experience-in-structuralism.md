@@ -2,8 +2,10 @@
 _schema: default
 id: 167712
 date: 2025-01-31
-title: What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
-article_title: What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+title: >-
+    What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
+article_title: >-
+    What is the introspection technique and how is it used to study the basic elements of experience in structuralism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-introspection-technique-and-how-is-it-used-to-study-the-b
 url: /learn/psychology/questions/what-is-the-introspection-technique-and-how-is-it-used-to-study-the-basic-elements-of-experience-in-structuralism
 score: -1.0
 related_article1:
-    id: 167720
-    title: What is the significance of the unconscious mind in Sigmund Freud's psychoanalysis, and how does it influence behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-the-unconscious-mind-in-sigmund-freuds-psychoanalysis-and-how-does-it-influence-behavior
-related_article2:
-    id: 167718
-    title: What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
-related_article3:
-    id: 167714
-    title: How does functionalism differ from structuralism in its approach to understanding mental processes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-functionalism-differ-from-structuralism-in-its-approach-to-understanding-mental-processes
-related_article4:
-    id: 167715
-    title: What role does Darwin's theory play in the development of functionalism, particularly in terms of adaptation to the environment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-darwins-theory-play-in-the-development-of-functionalism-particularly-in-terms-of-adaptation-to-the-environment
-related_article5:
     id: 167723
-    title: What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
+    title: >-
+        What are the key psychological characteristics studied in cognitive psychology, and how do they relate to cognitive development?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-psychological-characteristics-studied-in-cognitive-psychology-and-how-do-they-relate-to-cognitive-development
+related_article2:
+    id: 167713
+    title: >-
+        How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
+related_article3:
+    id: 167722
+    title: >-
+        How does cognitive psychology approach the study of consciousness and perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-approach-the-study-of-consciousness-and-perception
+related_article4:
+    id: 167718
+    title: >-
+        What is the role of conditioning in behaviorism, and how does it differ from the concept of an unconditioned stimulus?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-conditioning-in-behaviorism-and-how-does-it-differ-from-the-concept-of-an-unconditioned-stimulus
+related_article5:
+    id: 167713
+    title: >-
+        How did Edward Titchener contribute to the development of structuralism, and what was its transition to functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-edward-titchener-contribute-to-the-development-of-structuralism-and-what-was-its-transition-to-functionalism
 ---
 
 &nbsp;

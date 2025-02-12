@@ -2,8 +2,10 @@
 _schema: default
 id: 163682
 date: 2025-01-27
-title: What are the key elements of a research design?
-article_title: What are the key elements of a research design?
+title: >-
+    What are the key elements of a research design?
+article_title: >-
+    What are the key elements of a research design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-elements-of-a-research-design.md
 url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
 score: -1.0
 related_article1:
-    id: 163674
-    title: How does positivism differ from social constructivism in terms of ontology?
+    id: 163675
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 related_article2:
-    id: 163688
-    title: What ethical considerations must be taken into account in research?
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 related_article3:
-    id: 163677
-    title: What are the key characteristics of qualitative research paradigms?
+    id: 163692
+    title: >-
+        How does objective knowledge contribute to quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
+    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 related_article4:
-    id: 163688
-    title: What ethical considerations must be taken into account in research?
+    id: 163683
+    title: >-
+        What are some common qualitative data collection methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
+    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
 related_article5:
-    id: 163677
-    title: What are the key characteristics of qualitative research paradigms?
+    id: 163685
+    title: >-
+        What is the process of coding and thematic analysis in qualitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
+    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
 ---
 
 &nbsp;

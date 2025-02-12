@@ -2,8 +2,10 @@
 _schema: default
 id: 170348
 date: 2025-02-06
-title: How is chemical energy stored in glucose and converted to ATP in organisms?
-article_title: How is chemical energy stored in glucose and converted to ATP in organisms?
+title: >-
+    How is chemical energy stored in glucose and converted to ATP in organisms?
+article_title: >-
+    How is chemical energy stored in glucose and converted to ATP in organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-conve
 score: -1.0
 related_article1:
     id: 170356
-    title: Describe the chemical reactions involved in photosynthesis and cellular respiration.
+    title: >-
+        Describe the chemical reactions involved in photosynthesis and cellular respiration.
     subject: Biology
     url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
 related_article2:
-    id: 170349
-    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    id: 170354
+    title: >-
+        How is glucose formed during photosynthesis, and what is its role in cellular respiration?
     subject: Biology
-    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
 related_article3:
-    id: 170351
-    title: Explain the process of fermentation and its significance in anaerobic respiration.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
-related_article4:
     id: 170357
-    title: How does the principle of matter conservation apply to biological processes and ecosystem stability?
+    title: >-
+        How does the principle of matter conservation apply to biological processes and ecosystem stability?
     subject: Biology
     url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
-related_article5:
-    id: 170351
-    title: Explain the process of fermentation and its significance in anaerobic respiration.
+related_article4:
+    id: 170349
+    title: >-
+        Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+    url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
+related_article5:
+    id: 170354
+    title: >-
+        How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
 ---
 
 &nbsp;

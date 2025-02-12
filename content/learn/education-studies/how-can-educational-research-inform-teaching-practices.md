@@ -2,8 +2,10 @@
 _schema: default
 id: 160684
 date: 2025-01-24
-title: How can educational research inform teaching practices?
-article_title: How can educational research inform teaching practices?
+title: >-
+    How can educational research inform teaching practices?
+article_title: >-
+    How can educational research inform teaching practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-educational-research-inform-teaching-practices.md
 url: /learn/education-studies/questions/how-can-educational-research-inform-teaching-practices
 score: -1.0
 related_article1:
-    id: 160685
-    title: What is the relationship between attendance and academic success?
+    id: 160669
+    title: >-
+        What are the main elements of critical thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-academic-success
+    url: /learn/education-studies/questions/what-are-the-main-elements-of-critical-thinking
 related_article2:
-    id: 160666
-    title: What is metacognition and why is it important for learning?
+    id: 160670
+    title: >-
+        How can questioning assumptions enhance critical thinking skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-learning
+    url: /learn/education-studies/questions/how-can-questioning-assumptions-enhance-critical-thinking-skills
 related_article3:
-    id: 160678
-    title: How can active learning techniques enhance learning efficiency?
+    id: 160687
+    title: >-
+        What is the role of memory consolidation in learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-active-learning-techniques-enhance-learning-efficiency
+    url: /learn/education-studies/questions/what-is-the-role-of-memory-consolidation-in-learning
 related_article4:
-    id: 160688
-    title: What are the benefits of reflective practice for professional growth?
+    id: 160658
+    title: >-
+        What are the key benefits of effective time management in an academic setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-reflective-practice-for-professional-growth
+    url: /learn/education-studies/questions/what-are-the-key-benefits-of-effective-time-management-in-an-academic-setting
 related_article5:
-    id: 160663
-    title: What are the essential components of a well-structured academic essay?
+    id: 160689
+    title: >-
+        What are the advantages and challenges of integrating technology in education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-wellstructured-academic-essay
+    url: /learn/education-studies/questions/what-are-the-advantages-and-challenges-of-integrating-technology-in-education
 ---
 
 &nbsp;

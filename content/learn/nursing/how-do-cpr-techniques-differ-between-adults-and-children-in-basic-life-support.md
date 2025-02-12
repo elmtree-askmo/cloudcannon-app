@@ -2,8 +2,10 @@
 _schema: default
 id: 169451
 date: 2025-02-05
-title: How do CPR techniques differ between adults and children in basic life support?
-article_title: How do CPR techniques differ between adults and children in basic life support?
+title: >-
+    How do CPR techniques differ between adults and children in basic life support?
+article_title: >-
+    How do CPR techniques differ between adults and children in basic life support?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-cpr-techniques-differ-between-adults-and-children-in-basic-lif
 url: /learn/nursing/questions/how-do-cpr-techniques-differ-between-adults-and-children-in-basic-life-support
 score: -1.0
 related_article1:
-    id: 169450
-    title: What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    id: 169457
+    title: >-
+        What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+    url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
 related_article2:
-    id: 169460
-    title: What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    id: 169455
+    title: >-
+        What are the differences between shockable and non-shockable rhythms in cardiac arrest?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
 related_article3:
-    id: 169453
-    title: What safety measures should be considered when using an AED in public settings?
+    id: 169461
+    title: >-
+        What are the initial steps in emergency response protocols for assessing scene safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+    url: /learn/nursing/questions/what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety
 related_article4:
-    id: 169460
-    title: What are the common causes of cardiac arrest related to heart rhythm abnormalities?
+    id: 169455
+    title: >-
+        What are the differences between shockable and non-shockable rhythms in cardiac arrest?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
 related_article5:
-    id: 169453
-    title: What safety measures should be considered when using an AED in public settings?
+    id: 169456
+    title: >-
+        Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
     subject: Nursing
-    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+    url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
 ---
 
 &nbsp;

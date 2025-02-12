@@ -2,8 +2,10 @@
 _schema: default
 id: 168731
 date: 2025-02-04
-title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
-article_title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+title: >-
+    What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+article_title: >-
+    What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-mo
 score: 9.0
 related_article1:
     id: 168717
-    title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    title: >-
+        What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
 related_article2:
-    id: 168715
-    title: What were the main causes of social unrest leading to the French Revolution?
+    id: 168736
+    title: >-
+        How did artists represent the working class and critique working conditions in their art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-causes-of-social-unrest-leading-to-the-french-revolution
+    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
 related_article3:
-    id: 168717
-    title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    id: 168725
+    title: >-
+        What were the main reasons for the artistic rejection of traditional styles in the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
 related_article4:
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
+related_article5:
     id: 168735
-    title: What role did women play in art during the 19th century, and how was gender identity explored?
+    title: >-
+        What role did women play in art during the 19th century, and how was gender identity explored?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
-related_article5:
-    id: 168728
-    title: How did artists depict labor and working conditions during the Industrial Revolution?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
 ---
 
 &nbsp;

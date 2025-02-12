@@ -2,8 +2,10 @@
 _schema: default
 id: 168743
 date: 2025-02-04
-title: What were the key legal arguments and outcomes of the Korematsu case?
-article_title: What were the key legal arguments and outcomes of the Korematsu case?
+title: >-
+    What were the key legal arguments and outcomes of the Korematsu case?
+article_title: >-
+    What were the key legal arguments and outcomes of the Korematsu case?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case.
 url: /learn/history-of-the-world/questions/what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case
 score: 9.0
 related_article1:
-    id: 168737
-    title: What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
+    id: 168746
+    title: >-
+        What role does oral history play in preserving personal testimonies of Japanese internment?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
+    url: /learn/history-of-the-world/questions/what-role-does-oral-history-play-in-preserving-personal-testimonies-of-japanese-internment
 related_article2:
-    id: 168738
-    title: How did Executive Order 9066 legally justify the internment of Japanese Americans?
+    id: 168750
+    title: >-
+        What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-executive-order-9066-legally-justify-the-internment-of-japanese-americans
+    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
 related_article3:
-    id: 168749
-    title: What were the government and military justifications for the internment of Japanese Americans during World War II?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-government-and-military-justifications-for-the-internment-of-japanese-americans-during-world-war-ii
-related_article4:
-    id: 168741
-    title: What was the significance of the Manzanar internment camp in the context of Japanese American internment?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
-related_article5:
     id: 168748
-    title: What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
+    title: >-
+        What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-civil-liberties-act-of-1988-and-what-did-it-achieve
+related_article4:
+    id: 168749
+    title: >-
+        What were the government and military justifications for the internment of Japanese Americans during World War II?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-government-and-military-justifications-for-the-internment-of-japanese-americans-during-world-war-ii
+related_article5:
+    id: 168741
+    title: >-
+        What was the significance of the Manzanar internment camp in the context of Japanese American internment?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
 ---
 
 &nbsp;

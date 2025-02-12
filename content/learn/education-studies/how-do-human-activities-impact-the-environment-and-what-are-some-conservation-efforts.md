@@ -2,8 +2,10 @@
 _schema: default
 id: 166202
 date: 2025-01-29
-title: How do human activities impact the environment and what are some conservation efforts?
-article_title: How do human activities impact the environment and what are some conservation efforts?
+title: >-
+    How do human activities impact the environment and what are some conservation efforts?
+article_title: >-
+    How do human activities impact the environment and what are some conservation efforts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-human-activities-impact-the-environment-and-what-are-some-cons
 url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
 score: -1.0
 related_article1:
-    id: 166183
-    title: How do carbohydrates and proteins differ in their roles within the body?
+    id: 166206
+    title: >-
+        How do structural adaptations enhance an organism's survival in its environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
+    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
 related_article2:
+    id: 166206
+    title: >-
+        How do structural adaptations enhance an organism's survival in its environment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
+related_article3:
+    id: 166201
+    title: >-
+        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
+related_article4:
+    id: 166211
+    title: >-
+        What are the main components of the visual system in sensory systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-components-of-the-visual-system-in-sensory-systems
+related_article5:
     id: 166189
-    title: How do red blood cells and white blood cells differ in structure and function?
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
-related_article3:
-    id: 166199
-    title: What are the main components of the human cardiovascular system and their functions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
-related_article4:
-    id: 166209
-    title: What are the key differences between sexual and asexual reproduction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
-related_article5:
-    id: 166207
-    title: What are the differences between macronutrients and micronutrients in human nutrition?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-macronutrients-and-micronutrients-in-human-nutrition
 ---
 
 &nbsp;

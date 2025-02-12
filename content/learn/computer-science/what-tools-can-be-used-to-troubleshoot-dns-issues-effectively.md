@@ -2,8 +2,10 @@
 _schema: default
 id: 165667
 date: 2025-01-29
-title: What tools can be used to troubleshoot DNS issues effectively?
-article_title: What tools can be used to troubleshoot DNS issues effectively?
+title: >-
+    What tools can be used to troubleshoot DNS issues effectively?
+article_title: >-
+    What tools can be used to troubleshoot DNS issues effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-tools-can-be-used-to-troubleshoot-dns-issues-effectively.md
 url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
 score: -1.0
 related_article1:
-    id: 165665
-    title: What are common causes of IP addressing issues on IOS devices?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
-related_article2:
-    id: 165661
-    title: How can the ARP command be used to manage the ARP cache?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-arp-command-be-used-to-manage-the-arp-cache
-related_article3:
     id: 165659
-    title: Why is establishing a network baseline important for network management?
+    title: >-
+        Why is establishing a network baseline important for network management?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-establishing-a-network-baseline-important-for-network-management
+related_article2:
+    id: 165664
+    title: >-
+        How can duplex mismatch issues affect network performance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-duplex-mismatch-issues-affect-network-performance
+related_article3:
+    id: 165658
+    title: >-
+        How does the traceroute command help in diagnosing network issues?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
 related_article4:
-    id: 165662
-    title: What information can be obtained from the 'show running-config' command?
+    id: 165663
+    title: >-
+        What is the primary purpose of the debug command in network troubleshooting?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-the-debug-command-in-network-troubleshooting
 related_article5:
-    id: 165662
-    title: What information can be obtained from the 'show running-config' command?
+    id: 165655
+    title: >-
+        What are the key considerations when selecting devices for a small network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162002
 date: 2025-01-24
-title: Outline the judicial process for obtaining information to obtain.
-article_title: Outline the judicial process for obtaining information to obtain.
+title: >-
+    Outline the judicial process for obtaining information to obtain.
+article_title: >-
+    Outline the judicial process for obtaining information to obtain.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: outline-the-judicial-process-for-obtaining-information-to-obtain.md
 url: /learn/criminal-or-civil-law/questions/outline-the-judicial-process-for-obtaining-information-to-obtain
 score: -1.0
 related_article1:
-    id: 162012
-    title: What are the legal standards for a search incident to arrest?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
-related_article2:
     id: 162001
-    title: What constitutes exigent circumstances in legal terms?
+    title: >-
+        What constitutes exigent circumstances in legal terms?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
+related_article2:
+    id: 161997
+    title: >-
+        What is the legal framework governing search and seizure?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 related_article3:
-    id: 162006
-    title: Discuss the privacy considerations involved in DNA collection.
+    id: 161995
+    title: >-
+        What are the legal requirements for obtaining an arrest warrant?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-obtaining-an-arrest-warrant
 related_article4:
-    id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    id: 162010
+    title: >-
+        What are the legal requirements for conducting searches under law enforcement powers?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
 related_article5:
-    id: 162012
-    title: What are the legal standards for a search incident to arrest?
+    id: 162001
+    title: >-
+        What constitutes exigent circumstances in legal terms?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
 ---
 
 &nbsp;

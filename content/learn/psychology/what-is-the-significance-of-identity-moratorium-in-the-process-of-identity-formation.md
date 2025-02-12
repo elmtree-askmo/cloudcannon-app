@@ -2,8 +2,10 @@
 _schema: default
 id: 164121
 date: 2025-01-28
-title: What is the significance of identity moratorium in the process of identity formation?
-article_title: What is the significance of identity moratorium in the process of identity formation?
+title: >-
+    What is the significance of identity moratorium in the process of identity formation?
+article_title: >-
+    What is the significance of identity moratorium in the process of identity formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-identity-moratorium-in-the-process-of-ide
 url: /learn/psychology/questions/what-is-the-significance-of-identity-moratorium-in-the-process-of-identity-formation
 score: -1.0
 related_article1:
-    id: 164122
-    title: How does Hall's concept of 'storm and stress' relate to emotional maladjustment in adolescence?
+    id: 164123
+    title: >-
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-halls-concept-of-storm-and-stress-relate-to-emotional-maladjustment-in-adolescence
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 related_article2:
     id: 164115
-    title: What is an identity crisis and why is it important in adolescent development?
+    title: >-
+        What is an identity crisis and why is it important in adolescent development?
     subject: Psychology
     url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
 related_article3:
-    id: 164125
-    title: Why are support systems crucial in addressing psychological issues in adolescents?
+    id: 164115
+    title: >-
+        What is an identity crisis and why is it important in adolescent development?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
+    url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
 related_article4:
-    id: 164123
-    title: What role does identity crisis play in contributing to emotional maladjustment during adolescence?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
-related_article5:
     id: 164116
-    title: How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
+    title: >-
+        How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
     subject: Psychology
     url: /learn/psychology/questions/how-did-erikson-and-marcia-contribute-to-the-understanding-of-the-adolescent-identity-crisis
+related_article5:
+    id: 164124
+    title: >-
+        What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
 ---
 
 &nbsp;

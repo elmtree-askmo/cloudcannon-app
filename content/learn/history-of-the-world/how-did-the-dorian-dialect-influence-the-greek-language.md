@@ -2,8 +2,10 @@
 _schema: default
 id: 163596
 date: 2025-01-27
-title: How did the Dorian dialect influence the Greek language?
-article_title: How did the Dorian dialect influence the Greek language?
+title: >-
+    How did the Dorian dialect influence the Greek language?
+article_title: >-
+    How did the Dorian dialect influence the Greek language?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-dorian-dialect-influence-the-greek-language.md
 url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
 score: 9.0
 related_article1:
-    id: 163591
-    title: How did Sparta's urban development compare to that of Athens?
+    id: 163592
+    title: >-
+        What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
+    url: /learn/history-of-the-world/questions/what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influence-their-reputation-in-the-greek-world
 related_article2:
-    id: 163601
-    title: What challenges are faced in interpreting archaeological evidence from Sparta?
+    id: 163590
+    title: >-
+        What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
+    url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
 related_article3:
-    id: 163604
-    title: How did the agricultural basis of the Spartan economy rely on the Helots?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
-related_article4:
-    id: 163607
-    title: What themes and motifs are prevalent in Spartan literature and poetry?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
-related_article5:
     id: 163605
-    title: What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+    title: >-
+        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
+related_article4:
+    id: 163598
+    title: >-
+        What was the significance of Spartan military training in Greek warfare?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
+related_article5:
+    id: 163592
+    title: >-
+        What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influence-their-reputation-in-the-greek-world
 ---
 
 &nbsp;

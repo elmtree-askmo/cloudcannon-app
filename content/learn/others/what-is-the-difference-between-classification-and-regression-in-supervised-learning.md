@@ -2,8 +2,10 @@
 _schema: default
 id: 164177
 date: 2025-01-28
-title: What is the difference between classification and regression in supervised learning?
-article_title: What is the difference between classification and regression in supervised learning?
+title: >-
+    What is the difference between classification and regression in supervised learning?
+article_title: >-
+    What is the difference between classification and regression in supervised learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-classification-and-regression-in-super
 url: /learn/others/questions/what-is-the-difference-between-classification-and-regression-in-supervised-learning
 score: -1.0
 related_article1:
-    id: 164157
-    title: What are the key considerations for ensuring data quality during data collection?
+    id: 164160
+    title: >-
+        What are some common labeling techniques used in data annotation?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-considerations-for-ensuring-data-quality-during-data-collection
+    url: /learn/others/questions/what-are-some-common-labeling-techniques-used-in-data-annotation
 related_article2:
-    id: 164178
-    title: Describe a common use case for clustering in unsupervised learning.
+    id: 164182
+    title: >-
+        What is the purpose of statistical measures in descriptive analysis?
     subject: Others
-    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
+    url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
 related_article3:
-    id: 164174
-    title: Differentiate between batch processing and real-time processing in data processing.
+    id: 164170
+    title: >-
+        What is the purpose of ontologies in knowledge representation?
     subject: Others
-    url: /learn/others/questions/differentiate-between-batch-processing-and-realtime-processing-in-data-processing
+    url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
 related_article4:
-    id: 164162
-    title: How does synthetic data contribute to data augmentation?
+    id: 164168
+    title: >-
+        How does the Internet of Things (IoT) impact emerging technologies?
     subject: Others
-    url: /learn/others/questions/how-does-synthetic-data-contribute-to-data-augmentation
+    url: /learn/others/questions/how-does-the-internet-of-things-iot-impact-emerging-technologies
 related_article5:
-    id: 164183
-    title: How do forecasting models contribute to predictive analysis?
+    id: 164176
+    title: >-
+        How is sentiment analysis used in text processing?
     subject: Others
-    url: /learn/others/questions/how-do-forecasting-models-contribute-to-predictive-analysis
+    url: /learn/others/questions/how-is-sentiment-analysis-used-in-text-processing
 ---
 
 &nbsp;

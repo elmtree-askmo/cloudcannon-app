@@ -2,8 +2,10 @@
 _schema: default
 id: 169195
 date: 2025-02-04
-title: Why is data visualization important in GIS, and what are two common methods used?
-article_title: Why is data visualization important in GIS, and what are two common methods used?
+title: >-
+    Why is data visualization important in GIS, and what are two common methods used?
+article_title: >-
+    Why is data visualization important in GIS, and what are two common methods used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-data-visualization-important-in-gis-and-what-are-two-common-me
 url: /learn/education-studies/questions/why-is-data-visualization-important-in-gis-and-what-are-two-common-methods-used
 score: -1.0
 related_article1:
-    id: 169188
-    title: List three common file formats used in GIS for data layers.
+    id: 169199
+    title: >-
+        What is metadata in GIS, and why is it important for spatial analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
+    url: /learn/education-studies/questions/what-is-metadata-in-gis-and-why-is-it-important-for-spatial-analysis
 related_article2:
-    id: 169189
-    title: Why are projection systems important in GIS, and what is a common issue associated with them?
+    id: 169197
+    title: >-
+        What are some applications of GIS in urban design and landscape architecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
+    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
 related_article3:
-    id: 169191
-    title: Explain the role of nodes in Grasshopper's algorithmic modeling.
+    id: 169193
+    title: >-
+        Describe the basic steps to create geometry in Grasshopper.
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
+    url: /learn/education-studies/questions/describe-the-basic-steps-to-create-geometry-in-grasshopper
 related_article4:
+    id: 169190
+    title: >-
+        What is Grasshopper, and how is it related to Rhino?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-grasshopper-and-how-is-it-related-to-rhino
+related_article5:
     id: 169194
-    title: How can you manage visual output in Grasshopper when working with 3D models?
+    title: >-
+        How can you manage visual output in Grasshopper when working with 3D models?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
-related_article5:
-    id: 169191
-    title: Explain the role of nodes in Grasshopper's algorithmic modeling.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
 ---
 
 &nbsp;

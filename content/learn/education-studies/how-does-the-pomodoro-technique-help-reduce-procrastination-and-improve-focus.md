@@ -2,8 +2,10 @@
 _schema: default
 id: 165577
 date: 2025-01-29
-title: How does the Pomodoro Technique help reduce procrastination and improve focus?
-article_title: How does the Pomodoro Technique help reduce procrastination and improve focus?
+title: >-
+    How does the Pomodoro Technique help reduce procrastination and improve focus?
+article_title: >-
+    How does the Pomodoro Technique help reduce procrastination and improve focus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-pomodoro-technique-help-reduce-procrastination-and-impro
 url: /learn/education-studies/questions/how-does-the-pomodoro-technique-help-reduce-procrastination-and-improve-focus
 score: -1.0
 related_article1:
-    id: 165578
-    title: What are the benefits of writing notes by hand compared to typing them?
+    id: 165596
+    title: >-
+        What strategies can improve information retention through novel stimuli?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-writing-notes-by-hand-compared-to-typing-them
+    url: /learn/education-studies/questions/what-strategies-can-improve-information-retention-through-novel-stimuli
 related_article2:
-    id: 165582
-    title: What role do summary sheets play in memorization techniques?
+    id: 165597
+    title: >-
+        How can personal understanding be enhanced through information synthesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-summary-sheets-play-in-memorization-techniques
+    url: /learn/education-studies/questions/how-can-personal-understanding-be-enhanced-through-information-synthesis
 related_article3:
-    id: 165588
-    title: How can daily review practices with flashcards be integrated into a study routine?
+    id: 165580
+    title: >-
+        How does attending lectures in person differ from listening to podcasts in terms of learning benefits?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-daily-review-practices-with-flashcards-be-integrated-into-a-study-routine
+    url: /learn/education-studies/questions/how-does-attending-lectures-in-person-differ-from-listening-to-podcasts-in-terms-of-learning-benefits
 related_article4:
-    id: 165571
-    title: What are the key differences between active and passive learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-active-and-passive-learning
-related_article5:
     id: 165587
-    title: What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
+    title: >-
+        What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-using-flashcards-for-active-recall-and-what-are-the-limitations-of-recognition
+related_article5:
+    id: 165596
+    title: >-
+        What strategies can improve information retention through novel stimuli?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-improve-information-retention-through-novel-stimuli
 ---
 
 &nbsp;

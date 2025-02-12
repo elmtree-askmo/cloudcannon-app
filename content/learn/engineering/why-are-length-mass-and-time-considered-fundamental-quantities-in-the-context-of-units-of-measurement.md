@@ -2,8 +2,10 @@
 _schema: default
 id: 166642
 date: 2025-01-31
-title: Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
-article_title: Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
+title: >-
+    Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
+article_title: >-
+    Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-are-length-mass-and-time-considered-fundamental-quantities-in-the
 url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
 score: -1.0
 related_article1:
-    id: 166636
-    title: What is the scope of mechanics and why is it important in engineering?
+    id: 166644
+    title: >-
+        How does Newton's First Law of Motion describe the concept of inertia?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
+    url: /learn/engineering/questions/how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia
 related_article2:
-    id: 166638
-    title: What are the main types of fluids and what forces act on them?
+    id: 166648
+    title: >-
+        What is a position vector and how is it used to determine force direction in mechanics?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 related_article3:
-    id: 166649
-    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
-    subject: Engineering
-    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
-related_article4:
     id: 166637
-    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    title: >-
+        How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
     subject: Engineering
     url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
-related_article5:
-    id: 166647
-    title: How are unit vectors used in the Cartesian coordinate system to resolve vectors?
+related_article4:
+    id: 166648
+    title: >-
+        What is a position vector and how is it used to determine force direction in mechanics?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165380
 date: 2025-01-29
-title: What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
-article_title: What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
+title: >-
+    What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
+article_title: >-
+    What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-issues-encountered-during-micro-pipetting-and-ho
 url: /learn/biotechnology/questions/what-are-some-common-issues-encountered-during-micro-pipetting-and-how-can-they-be-troubleshooted
 score: -1.0
 related_article1:
-    id: 165365
-    title: Describe the proper procedure for setting the volume on a pipet.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
-related_article2:
-    id: 165382
-    title: How should pipets be stored to maintain their functionality?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
-related_article3:
     id: 165364
-    title: What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+    title: >-
+        What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
+related_article2:
+    id: 165376
+    title: >-
+        Describe the proper technique for attaching and ejecting pipet tips.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
+related_article3:
+    id: 165375
+    title: >-
+        How do you ensure compatibility between pipet tips and pipets?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-you-ensure-compatibility-between-pipet-tips-and-pipets
 related_article4:
-    id: 165374
-    title: What are the benefits of using color-coded pipet tips?
+    id: 165375
+    title: >-
+        How do you ensure compatibility between pipet tips and pipets?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
+    url: /learn/biotechnology/questions/how-do-you-ensure-compatibility-between-pipet-tips-and-pipets
 related_article5:
-    id: 165381
-    title: What routine maintenance procedures should be followed to ensure proper pipet operation?
+    id: 165365
+    title: >-
+        Describe the proper procedure for setting the volume on a pipet.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+    url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
 ---
 
 &nbsp;

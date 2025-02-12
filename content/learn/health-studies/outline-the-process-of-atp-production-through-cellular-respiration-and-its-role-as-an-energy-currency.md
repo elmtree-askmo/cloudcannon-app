@@ -2,8 +2,10 @@
 _schema: default
 id: 168851
 date: 2025-02-04
-title: Outline the process of ATP production through cellular respiration and its role as an energy currency.
-article_title: Outline the process of ATP production through cellular respiration and its role as an energy currency.
+title: >-
+    Outline the process of ATP production through cellular respiration and its role as an energy currency.
+article_title: >-
+    Outline the process of ATP production through cellular respiration and its role as an energy currency.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: outline-the-process-of-atp-production-through-cellular-respiration-an
 url: /learn/health-studies/questions/outline-the-process-of-atp-production-through-cellular-respiration-and-its-role-as-an-energy-currency
 score: -1.0
 related_article1:
-    id: 168857
-    title: What is the structure of the small intestine, and how does it facilitate nutrient absorption?
+    id: 168854
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-the-small-intestine-and-how-does-it-facilitate-nutrient-absorption
+    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
 related_article2:
-    id: 168847
-    title: What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-membranebound-disaccharidases-and-how-do-they-function-in-the-digestion-of-disaccharides
-related_article3:
-    id: 168855
-    title: Describe the role of maltase in the hydrolysis of maltose and its location in the body.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-role-of-maltase-in-the-hydrolysis-of-maltose-and-its-location-in-the-body
-related_article4:
-    id: 168850
-    title: Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-of-the-sodiumpotassium-pump-and-its-importance-in-maintaining-cellular-homeostasis
-related_article5:
     id: 168853
-    title: Define concentration gradient and explain its role in diffusion and cellular processes.
+    title: >-
+        Define concentration gradient and explain its role in diffusion and cellular processes.
     subject: Health Studies
     url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
+related_article3:
+    id: 168846
+    title: >-
+        Describe the structure of the phospholipid bilayer and its role in selective permeability.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-selective-permeability
+related_article4:
+    id: 168856
+    title: >-
+        Explain the process of starch digestion and its importance as a source of glucose.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
+related_article5:
+    id: 168843
+    title: >-
+        Explain the importance of hydrolysis in metabolism, particularly in energy release.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-importance-of-hydrolysis-in-metabolism-particularly-in-energy-release
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170469
 date: 2025-02-06
-title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
-article_title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+title: >-
+    How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+article_title: >-
+    How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic
 url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
 score: -1.0
 related_article1:
-    id: 170475
-    title: What are the causes and symptoms of an epidural hematoma?
+    id: 170478
+    title: >-
+        What are the differences between functional and structural neuroimaging techniques?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
 related_article2:
-    id: 170471
-    title: How does the medulla oblongata regulate heart rate and control reflexes?
+    id: 170476
+    title: >-
+        What is the clinical significance of the dura mater in the meninges?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
 related_article3:
-    id: 170483
-    title: What are the components of a reflex arc in neural pathways?
+    id: 170478
+    title: >-
+        What are the differences between functional and structural neuroimaging techniques?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
 related_article4:
-    id: 170484
-    title: How did Brodmann areas contribute to the understanding of brain mapping?
+    id: 170472
+    title: >-
+        What is the function of the amygdala in emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
 related_article5:
-    id: 170464
-    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    id: 170467
+    title: >-
+        What are the characteristics of sagittal, coronal, and horizontal brain sections?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166394
 date: 2025-01-30
-title: How do vertebrate organ systems interact to influence animal behavior?
-article_title: How do vertebrate organ systems interact to influence animal behavior?
+title: >-
+    How do vertebrate organ systems interact to influence animal behavior?
+article_title: >-
+    How do vertebrate organ systems interact to influence animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 score: -1.0
 related_article1:
-    id: 166384
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
-related_article2:
-    id: 166386
-    title: Define adaptation and provide examples of behavioral adaptations in animals.
-    subject: Psychology
-    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
-related_article3:
-    id: 166380
-    title: How does natural selection influence the evolution of animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
-related_article4:
-    id: 166383
-    title: How is fitness defined and measured in the context of animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
-related_article5:
     id: 166381
-    title: What are the different types of learning, and how do they impact animal behavior?
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article2:
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+related_article3:
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
+related_article4:
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+related_article5:
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
 ---
 
 &nbsp;

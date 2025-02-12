@@ -2,8 +2,10 @@
 _schema: default
 id: 161482
 date: 2025-01-24
-title: What is the significance of counter variables in count-controlled loops?
-article_title: What is the significance of counter variables in count-controlled loops?
+title: >-
+    What is the significance of counter variables in count-controlled loops?
+article_title: >-
+    What is the significance of counter variables in count-controlled loops?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-significance-of-counter-variables-in-countcontrolled-loop
 url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
 score: -1.0
 related_article1:
-    id: 161187
-    title: What is string manipulation and why is it important in programming?
+    id: 161195
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article2:
-    id: 161481
-    title: How do comparison operators facilitate decision making in algorithms?
+    id: 161473
+    title: >-
+        What is pseudocode and how is it used in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
 related_article3:
-    id: 161476
-    title: What role do comparison operators play in decision making?
+    id: 161486
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article4:
-    id: 161474
-    title: What symbol is used in flowcharts to represent the start or end of a process?
+    id: 161375
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article5:
     id: 161483
-    title: How does user input control affect condition-controlled loops?
+    title: >-
+        How does user input control affect condition-controlled loops?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-user-input-control-affect-conditioncontrolled-loops
 ---

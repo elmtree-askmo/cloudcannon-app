@@ -2,8 +2,10 @@
 _schema: default
 id: 170499
 date: 2025-02-06
-title: How does synaptic plasticity contribute to neuroplasticity?
-article_title: How does synaptic plasticity contribute to neuroplasticity?
+title: >-
+    How does synaptic plasticity contribute to neuroplasticity?
+article_title: >-
+    How does synaptic plasticity contribute to neuroplasticity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-synaptic-plasticity-contribute-to-neuroplasticity.md
 url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
 score: -1.0
 related_article1:
-    id: 170496
-    title: What is the clinical significance of the Babinski test in neurological assessment?
+    id: 170497
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 related_article2:
-    id: 170486
-    title: What are the main components of the spinal cord anatomy and their functions?
+    id: 170492
+    title: >-
+        What is the difference between excitatory and inhibitory neurotransmitters?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
 related_article3:
     id: 170497
-    title: Describe the functional differences between the central and peripheral nervous systems.
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 related_article4:
     id: 170486
-    title: What are the main components of the spinal cord anatomy and their functions?
+    title: >-
+        What are the main components of the spinal cord anatomy and their functions?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
 related_article5:
-    id: 170498
-    title: What mechanisms are involved in the modulation of pain perception?
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
     subject: Nursing
-    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 ---
 
 &nbsp;

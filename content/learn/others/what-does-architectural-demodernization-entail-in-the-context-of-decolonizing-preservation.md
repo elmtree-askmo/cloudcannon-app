@@ -2,8 +2,10 @@
 _schema: default
 id: 169135
 date: 2025-02-04
-title: What does architectural demodernization entail in the context of decolonizing preservation?
-article_title: What does architectural demodernization entail in the context of decolonizing preservation?
+title: >-
+    What does architectural demodernization entail in the context of decolonizing preservation?
+article_title: >-
+    What does architectural demodernization entail in the context of decolonizing preservation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-does-architectural-demodernization-entail-in-the-context-of-deco
 url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
 score: -1.0
 related_article1:
-    id: 169134
-    title: How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
-    subject: Others
-    url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
-related_article2:
-    id: 169126
-    title: What were the key architectural features of Modernist Fascist-Colonial Architecture in Asmara?
-    subject: Others
-    url: /learn/others/questions/what-were-the-key-architectural-features-of-modernist-fascistcolonial-architecture-in-asmara
-related_article3:
-    id: 169127
-    title: How did the nomination of Asmara as a UNESCO World Heritage site address contradictory questions?
-    subject: Others
-    url: /learn/others/questions/how-did-the-nomination-of-asmara-as-a-unesco-world-heritage-site-address-contradictory-questions
-related_article4:
     id: 169130
-    title: In what ways has fascist architecture been normalized within Italian cityscapes?
+    title: >-
+        In what ways has fascist architecture been normalized within Italian cityscapes?
     subject: Others
     url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
-related_article5:
-    id: 169131
-    title: What are the challenges associated with the Eurocentric paradigm in preservation theory?
+related_article2:
+    id: 169134
+    title: >-
+        How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-associated-with-the-eurocentric-paradigm-in-preservation-theory
+    url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
+related_article3:
+    id: 169132
+    title: >-
+        How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
+    subject: Others
+    url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
+related_article4:
+    id: 169134
+    title: >-
+        How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
+    subject: Others
+    url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
+related_article5:
+    id: 169134
+    title: >-
+        How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
+    subject: Others
+    url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161555
 date: 2025-01-24
-title: How do supercomputers differ in their uses compared to mainframe computers?
-article_title: How do supercomputers differ in their uses compared to mainframe computers?
+title: >-
+    How do supercomputers differ in their uses compared to mainframe computers?
+article_title: >-
+    How do supercomputers differ in their uses compared to mainframe computers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-comp
 url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
 score: -1.0
 related_article1:
-    id: 161554
-    title: What are the key characteristics of mainframe computers?
+    id: 161557
+    title: >-
+        How does encryption contribute to access control in computing security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
+    url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
 related_article2:
-    id: 161556
-    title: What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+    id: 161553
+    title: >-
+        What are the disadvantages of a gesture-based interface compared to other user interfaces?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-gesturebased-interface-compared-to-other-user-interfaces
 related_article3:
-    id: 161649
-    title: What is the purpose of encryption in access control?
+    id: 161566
+    title: >-
+        What are the main characteristics of open source software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article4:
-    id: 161289
-    title: What are the key characteristics of mainframe computers?
+    id: 161557
+    title: >-
+        How does encryption contribute to access control in computing security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
+related_article5:
+    id: 161310
+    title: >-
+        What are the key characteristics of mainframe computers?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
-related_article5:
-    id: 161297
-    title: What is the function of failover mechanisms in mainframe fault tolerance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
 ---
 
 &nbsp;

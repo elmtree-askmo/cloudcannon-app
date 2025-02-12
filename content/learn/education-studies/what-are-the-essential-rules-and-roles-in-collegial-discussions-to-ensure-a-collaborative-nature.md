@@ -2,8 +2,10 @@
 _schema: default
 id: 168517
 date: 2025-02-03
-title: What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
-article_title: What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
+title: >-
+    What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
+article_title: >-
+    What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-essential-rules-and-roles-in-collegial-discussions-to-en
 url: /learn/education-studies/questions/what-are-the-essential-rules-and-roles-in-collegial-discussions-to-ensure-a-collaborative-nature
 score: -1.0
 related_article1:
+    id: 168520
+    title: >-
+        Why is active listening important in responding to questions during discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
+related_article2:
+    id: 168526
+    title: >-
+        What are effective ways to challenge ideas while maintaining neutrality and factuality?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-effective-ways-to-challenge-ideas-while-maintaining-neutrality-and-factuality
+related_article3:
     id: 168522
-    title: What is the significance of summarizing points of agreement and disagreement in discussions?
+    title: >-
+        What is the significance of summarizing points of agreement and disagreement in discussions?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-summarizing-points-of-agreement-and-disagreement-in-discussions
-related_article2:
-    id: 168525
-    title: How can acknowledging different views contribute to building consensus in discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-acknowledging-different-views-contribute-to-building-consensus-in-discussions
-related_article3:
-    id: 168526
-    title: What are effective ways to challenge ideas while maintaining neutrality and factuality?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-ways-to-challenge-ideas-while-maintaining-neutrality-and-factuality
 related_article4:
-    id: 168518
-    title: How does diction and syntax contribute to clarity and precision in oral discussions?
+    id: 168519
+    title: >-
+        What rhetorical strategies can be used to engage an audience effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-diction-and-syntax-contribute-to-clarity-and-precision-in-oral-discussions
+    url: /learn/education-studies/questions/what-rhetorical-strategies-can-be-used-to-engage-an-audience-effectively
 related_article5:
-    id: 168526
-    title: What are effective ways to challenge ideas while maintaining neutrality and factuality?
+    id: 168515
+    title: >-
+        What are the key differences in formality and structure between a debate and an oral discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-ways-to-challenge-ideas-while-maintaining-neutrality-and-factuality
+    url: /learn/education-studies/questions/what-are-the-key-differences-in-formality-and-structure-between-a-debate-and-an-oral-discussion
 ---
 
 &nbsp;

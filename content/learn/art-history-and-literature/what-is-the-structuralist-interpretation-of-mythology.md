@@ -2,8 +2,10 @@
 _schema: default
 id: 164011
 date: 2025-01-28
-title: What is the structuralist interpretation of mythology?
-article_title: What is the structuralist interpretation of mythology?
+title: >-
+    What is the structuralist interpretation of mythology?
+article_title: >-
+    What is the structuralist interpretation of mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-structuralist-interpretation-of-mythology.md
 url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
 score: 9.5
 related_article1:
+    id: 164008
+    title: >-
+        Why are stone inscriptions significant in Classical Studies?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-are-stone-inscriptions-significant-in-classical-studies
+related_article2:
+    id: 164006
+    title: >-
+        What role did vase painting play in the iconography of Classical Mythology?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
+related_article3:
+    id: 163999
+    title: >-
+        Describe the characteristics and significance of the Golden Age in Hesiod’s Five Ages of Man.
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/describe-the-characteristics-and-significance-of-the-golden-age-in-hesiods-five-ages-of-man
+related_article4:
     id: 163997
-    title: How did the Classical Period in Classical Studies come to an end?
+    title: >-
+        How did the Classical Period in Classical Studies come to an end?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-classical-period-in-classical-studies-come-to-an-end
-related_article2:
-    id: 164010
-    title: How do myths help in understanding human existence and religious practices?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-myths-help-in-understanding-human-existence-and-religious-practices
-related_article3:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
-related_article4:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
-related_article5:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170809
 date: 2025-02-07
-title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
-article_title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+title: >-
+    How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+article_title: >-
+    How does frequency-dependent selection impact the success and failure of evolutionary strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-frequencydependent-selection-impact-the-success-and-failure-
 url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
 score: -1.0
 related_article1:
+    id: 170802
+    title: >-
+        What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article2:
     id: 170800
-    title: What are the characteristics of a pure strategy in evolutionary games?
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
     subject: Biology
     url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
-related_article2:
+related_article3:
+    id: 170794
+    title: >-
+        Describe the structure of a payoff matrix and its components in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
+related_article4:
+    id: 170808
+    title: >-
+        What factors influence the development and adaptation of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
+related_article5:
     id: 170792
-    title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    title: >-
+        Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
     subject: Biology
     url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
-related_article3:
-    id: 170807
-    title: How does phenotypic variation impact long-term evolutionary trends?
-    subject: Biology
-    url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
-related_article4:
-    id: 170801
-    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
-    subject: Biology
-    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
-related_article5:
-    id: 170791
-    title: How do pure and mixed strategies differ in the context of a paleo matrix?
-    subject: Biology
-    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 ---
 
 &nbsp;

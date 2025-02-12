@@ -2,8 +2,10 @@
 _schema: default
 id: 162988
 date: 2025-01-26
-title: What is the role of public health surveillance in responding to outbreaks?
-article_title: What is the role of public health surveillance in responding to outbreaks?
+title: >-
+    What is the role of public health surveillance in responding to outbreaks?
+article_title: >-
+    What is the role of public health surveillance in responding to outbreaks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-role-of-public-health-surveillance-in-responding-to-outbr
 url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
 score: -1.0
 related_article1:
-    id: 163314
-    title: Why are age-adjusted rates important in epidemiological studies?
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
 related_article2:
-    id: 163308
-    title: What are the primary purposes of descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
-related_article3:
-    id: 163202
-    title: What are the primary purposes of public health surveillance?
+    id: 162989
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
-related_article4:
-    id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+related_article3:
+    id: 163315
+    title: >-
+        What is the process of direct standardization in calculating age-adjusted rates?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
+related_article4:
+    id: 163204
+    title: >-
+        What is the ecological fallacy, and why is it a limitation in ecological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 related_article5:
-    id: 163151
-    title: What are the primary purposes of public health surveillance?
+    id: 163320
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 ---

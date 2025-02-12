@@ -2,8 +2,10 @@
 _schema: default
 id: 169300
 date: 2025-02-05
-title: What is the epsilon-delta criteria for proving limits, and how is it applied in continuous functions?
-article_title: What is the epsilon-delta criteria for proving limits, and how is it applied in continuous functions?
+title: >-
+    What is the epsilon-delta criteria for proving limits, and how is it applied in continuous functions?
+article_title: >-
+    What is the epsilon-delta criteria for proving limits, and how is it applied in continuous functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-epsilondelta-criteria-for-proving-limits-and-how-is-it-ap
 url: /learn/education-studies/questions/what-is-the-epsilondelta-criteria-for-proving-limits-and-how-is-it-applied-in-continuous-functions
 score: -1.0
 related_article1:
-    id: 169299
-    title: How can the domain and range of absolute value functions be determined?
+    id: 169284
+    title: >-
+        How is the instantaneous rate of change of a function at a point related to its derivative?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-domain-and-range-of-absolute-value-functions-be-determined
+    url: /learn/education-studies/questions/how-is-the-instantaneous-rate-of-change-of-a-function-at-a-point-related-to-its-derivative
 related_article2:
-    id: 169286
-    title: What are the properties of vectors, and how do they apply to vector addition and subtraction?
+    id: 169308
+    title: >-
+        What strategies are employed to approach limits numerically and graphically?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-properties-of-vectors-and-how-do-they-apply-to-vector-addition-and-subtraction
+    url: /learn/education-studies/questions/what-strategies-are-employed-to-approach-limits-numerically-and-graphically
 related_article3:
-    id: 169302
-    title: What is the secant line slope, and how does it relate to the average rate of change of a function?
+    id: 169282
+    title: >-
+        What is the formal definition of a limit in calculus, and how is it notated?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-secant-line-slope-and-how-does-it-relate-to-the-average-rate-of-change-of-a-function
+    url: /learn/education-studies/questions/what-is-the-formal-definition-of-a-limit-in-calculus-and-how-is-it-notated
 related_article4:
-    id: 169295
-    title: What is the behavior of functions near vertical asymptotes as they approach infinity?
+    id: 169310
+    title: >-
+        What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-behavior-of-functions-near-vertical-asymptotes-as-they-approach-infinity
+    url: /learn/education-studies/questions/what-are-the-types-of-functions-and-how-do-linear-and-quadratic-functions-differ-in-terms-of-domain-and-range
 related_article5:
-    id: 169292
-    title: What is the difference between left-hand and right-hand limits in calculus?
+    id: 169290
+    title: >-
+        What are jump discontinuities and infinite discontinuities in functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
+    url: /learn/education-studies/questions/what-are-jump-discontinuities-and-infinite-discontinuities-in-functions
 ---
 
 &nbsp;

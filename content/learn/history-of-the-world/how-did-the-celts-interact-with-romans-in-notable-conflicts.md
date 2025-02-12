@@ -2,8 +2,10 @@
 _schema: default
 id: 160387
 date: 2025-01-24
-title: How did the Celts interact with Romans in notable conflicts?
-article_title: How did the Celts interact with Romans in notable conflicts?
+title: >-
+    How did the Celts interact with Romans in notable conflicts?
+article_title: >-
+    How did the Celts interact with Romans in notable conflicts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-celts-interact-with-romans-in-notable-conflicts.md
 url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
 score: 9.0
 related_article1:
-    id: 159866
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 159862
+    title: >-
+        What are the main characteristics of Halstatt Culture's art and material goods?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
 related_article2:
-    id: 160259
-    title: How did geography influence the cultural development and migration patterns of the Celts?
+    id: 159921
+    title: >-
+        What were the primary military tactics and weaponry used by the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
 related_article3:
-    id: 159870
-    title: How did the La Tène Culture expand and settle in new regions?
+    id: 160381
+    title: >-
+        How did Diodorus Siculus and Athenaeus describe Celtic customs?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
 related_article4:
-    id: 159868
-    title: What are the defining decorative styles of La Tène Culture?
+    id: 160369
+    title: >-
+        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
+    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
 related_article5:
-    id: 160373
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 160182
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 ---
 
 &nbsp;

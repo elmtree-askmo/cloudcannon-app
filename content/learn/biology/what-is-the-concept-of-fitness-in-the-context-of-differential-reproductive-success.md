@@ -2,8 +2,10 @@
 _schema: default
 id: 166924
 date: 2025-01-31
-title: What is the concept of fitness in the context of differential reproductive success?
-article_title: What is the concept of fitness in the context of differential reproductive success?
+title: >-
+    What is the concept of fitness in the context of differential reproductive success?
+article_title: >-
+    What is the concept of fitness in the context of differential reproductive success?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-concept-of-fitness-in-the-context-of-differential-reprodu
 url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
 score: -1.0
 related_article1:
-    id: 166918
-    title: Define homeostasis and explain its importance for survival.
+    id: 166915
+    title: >-
+        What are the different types of reproduction, and why is reproduction crucial for species continuity?
     subject: Biology
-    url: /learn/biology/questions/define-homeostasis-and-explain-its-importance-for-survival
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-is-reproduction-crucial-for-species-continuity
 related_article2:
-    id: 166909
-    title: What are the key characteristics of a hypothesis in scientific investigation?
+    id: 166922
+    title: >-
+        What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
 related_article3:
-    id: 166923
-    title: How do phenotypic differences contribute to variation in a population?
+    id: 166907
+    title: >-
+        What is the role of observation in scientific inquiry?
     subject: Biology
-    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
 related_article4:
-    id: 166918
-    title: Define homeostasis and explain its importance for survival.
+    id: 166907
+    title: >-
+        What is the role of observation in scientific inquiry?
     subject: Biology
-    url: /learn/biology/questions/define-homeostasis-and-explain-its-importance-for-survival
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
 related_article5:
     id: 166928
-    title: What are the mechanisms and processes involved in sexual reproduction?
+    title: >-
+        What are the mechanisms and processes involved in sexual reproduction?
     subject: Biology
     url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
 ---

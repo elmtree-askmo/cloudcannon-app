@@ -2,8 +2,10 @@
 _schema: default
 id: 168612
 date: 2025-02-03
-title: What role do sensory details play in narrative writing?
-article_title: What role do sensory details play in narrative writing?
+title: >-
+    What role do sensory details play in narrative writing?
+article_title: >-
+    What role do sensory details play in narrative writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-role-do-sensory-details-play-in-narrative-writing.md
 url: /learn/education-studies/questions/what-role-do-sensory-details-play-in-narrative-writing
 score: -1.0
 related_article1:
-    id: 168628
-    title: What is the significance of the takeaway in narrative analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-the-takeaway-in-narrative-analysis
-related_article2:
-    id: 168620
-    title: How do metaphor and simile enhance narrative writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-metaphor-and-simile-enhance-narrative-writing
-related_article3:
     id: 168619
-    title: Why is maintaining a neutral perspective important in narrative reports?
+    title: >-
+        Why is maintaining a neutral perspective important in narrative reports?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-maintaining-a-neutral-perspective-important-in-narrative-reports
-related_article4:
-    id: 168611
-    title: How does descriptive writing enhance a narrative?
+related_article2:
+    id: 168617
+    title: >-
+        What is the role of narrative voice in personal narratives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-descriptive-writing-enhance-a-narrative
+    url: /learn/education-studies/questions/what-is-the-role-of-narrative-voice-in-personal-narratives
+related_article3:
+    id: 168620
+    title: >-
+        How do metaphor and simile enhance narrative writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-metaphor-and-simile-enhance-narrative-writing
+related_article4:
+    id: 168620
+    title: >-
+        How do metaphor and simile enhance narrative writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-metaphor-and-simile-enhance-narrative-writing
 related_article5:
     id: 168613
-    title: How can the organization of a narrative affect its overall impact?
+    title: >-
+        How can the organization of a narrative affect its overall impact?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-the-organization-of-a-narrative-affect-its-overall-impact
 ---

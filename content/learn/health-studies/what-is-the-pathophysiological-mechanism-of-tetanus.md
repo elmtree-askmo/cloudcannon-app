@@ -2,8 +2,10 @@
 _schema: default
 id: 170552
 date: 2025-02-06
-title: What is the pathophysiological mechanism of tetanus?
-article_title: What is the pathophysiological mechanism of tetanus?
+title: >-
+    What is the pathophysiological mechanism of tetanus?
+article_title: >-
+    What is the pathophysiological mechanism of tetanus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/what-is-the-pathophysiological-mechanism-of
 score: -1.0
 related_article1:
     id: 170551
-    title: How do positive and negative feedback mechanisms differ in physiological processes?
+    title: >-
+        How do positive and negative feedback mechanisms differ in physiological processes?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-positive-and-negative-feedback-mechanisms-differ-in-physiological-processes
 related_article2:
-    id: 170553
-    title: How does neurotransmitter blockage affect nervous system function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
-related_article3:
-    id: 170562
-    title: What pharmacological interventions are available for treating Parkinson's disease?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
-related_article4:
     id: 170546
-    title: What are the primary functions of the cellular level in anatomy and physiology?
+    title: >-
+        What are the primary functions of the cellular level in anatomy and physiology?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-cellular-level-in-anatomy-and-physiology
-related_article5:
-    id: 170555
-    title: Describe the function of the sodium-potassium pump in neuron activity.
+related_article3:
+    id: 170566
+    title: >-
+        Describe the coagulation cascade involved in blood clotting mechanisms.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
+    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
+related_article4:
+    id: 170577
+    title: >-
+        How do local auto-regulation mechanisms affect blood vessel response?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-local-autoregulation-mechanisms-affect-blood-vessel-response
+related_article5:
+    id: 170572
+    title: >-
+        What are the benefits of using clinical vignettes in research methodologies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
 ---
 
 &nbsp;

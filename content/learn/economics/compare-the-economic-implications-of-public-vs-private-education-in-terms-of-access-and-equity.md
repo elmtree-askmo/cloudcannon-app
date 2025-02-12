@@ -2,8 +2,10 @@
 _schema: default
 id: 169929
 date: 2025-02-05
-title: Compare the economic implications of public vs. private education in terms of access and equity.
-article_title: Compare the economic implications of public vs. private education in terms of access and equity.
+title: >-
+    Compare the economic implications of public vs. private education in terms of access and equity.
+article_title: >-
+    Compare the economic implications of public vs. private education in terms of access and equity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-the-economic-implications-of-public-vs-private-education-in-t
 url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
 score: -1.0
 related_article1:
-    id: 169921
-    title: What is marginal thinking, and why is it significant in economic decision making?
+    id: 169933
+    title: >-
+        What factors influence consumer behavior, and how do branding and marketing play a role?
     subject: Economics
-    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
+    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
 related_article2:
-    id: 169936
-    title: How are the principles of supply and demand applied in policy making and business strategy?
+    id: 169923
+    title: >-
+        Define economic power and provide examples of its influence on global trade.
     subject: Economics
-    url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
+    url: /learn/economics/questions/define-economic-power-and-provide-examples-of-its-influence-on-global-trade
 related_article3:
-    id: 169930
-    title: How does education function as an investment in the labor market?
+    id: 169927
+    title: >-
+        Describe the process of cost-benefit analysis and its application in policy making.
     subject: Economics
-    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
+    url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
 related_article4:
-    id: 169925
-    title: How do supply and demand dynamics influence pricing strategies in a market?
+    id: 169920
+    title: >-
+        How is opportunity cost calculated, and why is it important in decision making?
     subject: Economics
-    url: /learn/economics/questions/how-do-supply-and-demand-dynamics-influence-pricing-strategies-in-a-market
+    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
 related_article5:
-    id: 169922
-    title: How do marginal cost and benefit influence consumer choices?
+    id: 169935
+    title: >-
+        Explain the fundamental economic concepts of scarcity and choice.
     subject: Economics
-    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
 ---
 
 &nbsp;

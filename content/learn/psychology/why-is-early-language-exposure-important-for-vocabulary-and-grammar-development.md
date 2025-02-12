@@ -2,8 +2,10 @@
 _schema: default
 id: 164431
 date: 2025-01-28
-title: Why is early language exposure important for vocabulary and grammar development?
-article_title: Why is early language exposure important for vocabulary and grammar development?
+title: >-
+    Why is early language exposure important for vocabulary and grammar development?
+article_title: >-
+    Why is early language exposure important for vocabulary and grammar development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-early-language-exposure-important-for-vocabulary-and-grammar-d
 url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
 score: -1.0
 related_article1:
-    id: 164418
-    title: What is the difference between independent and dependent variables in experimental methods?
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 related_article2:
-    id: 164435
-    title: How do developmental stages affect executive functions in children?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
-related_article3:
-    id: 164418
-    title: What is the difference between independent and dependent variables in experimental methods?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
-related_article4:
     id: 164419
-    title: How does spatial attention differ from object attention in the brain?
+    title: >-
+        How does spatial attention differ from object attention in the brain?
     subject: Psychology
     url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
-related_article5:
-    id: 164432
-    title: What impact does cortisol have on memory and learning during stress?
+related_article3:
+    id: 164420
+    title: >-
+        What role does competition and inhibition play in brain structure and emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
+related_article4:
+    id: 164421
+    title: >-
+        How do cultural differences impact mental health diagnosis and treatment?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
+related_article5:
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 ---
 
 &nbsp;

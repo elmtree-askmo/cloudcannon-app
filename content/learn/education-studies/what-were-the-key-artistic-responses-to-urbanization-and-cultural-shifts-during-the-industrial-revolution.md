@@ -2,8 +2,10 @@
 _schema: default
 id: 160014
 date: 2025-01-23
-title: What were the key artistic responses to urbanization and cultural shifts during the Industrial Revolution?
-article_title: What were the key artistic responses to urbanization and cultural shifts during the Industrial Revolution?
+title: >-
+    What were the key artistic responses to urbanization and cultural shifts during the Industrial Revolution?
+article_title: >-
+    What were the key artistic responses to urbanization and cultural shifts during the Industrial Revolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-artistic-responses-to-urbanization-and-cultural-shi
 url: /learn/education-studies/questions/what-were-the-key-artistic-responses-to-urbanization-and-cultural-shifts-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 159815
-    title: What are the key components of formal analysis when visually analyzing artworks?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
-related_article2:
-    id: 159740
-    title: Describe the key characteristics of Realism as an artistic movement.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-key-characteristics-of-realism-as-an-artistic-movement
-related_article3:
-    id: 159738
-    title: How did technological advancements during the Industrial Revolution influence modern art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
-related_article4:
-    id: 160039
-    title: How has technology influenced the integration of new media in art?
+    id: 159753
+    title: >-
+        How has technology influenced the integration of new media in art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-has-technology-influenced-the-integration-of-new-media-in-art
-related_article5:
-    id: 159801
-    title: What were the main artistic responses to urbanization and cultural shifts during the Industrial Revolution?
+related_article2:
+    id: 159802
+    title: >-
+        Describe the key characteristics of Realism and how it differed from previous art movements.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-main-artistic-responses-to-urbanization-and-cultural-shifts-during-the-industrial-revolution
+    url: /learn/education-studies/questions/describe-the-key-characteristics-of-realism-and-how-it-differed-from-previous-art-movements
+related_article3:
+    id: 159816
+    title: >-
+        How can contextual analysis enhance the understanding of an artwork's meaning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-contextual-analysis-enhance-the-understanding-of-an-artworks-meaning
+related_article4:
+    id: 159745
+    title: >-
+        What role did salons and academies play in the development of art history?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
+related_article5:
+    id: 160026
+    title: >-
+        What role did colonialism play in shaping European art during the 19th century?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-did-colonialism-play-in-shaping-european-art-during-the-19th-century
 ---
 
 &nbsp;

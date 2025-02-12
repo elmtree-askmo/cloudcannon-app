@@ -2,8 +2,10 @@
 _schema: default
 id: 161300
 date: 2025-01-24
-title: What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
-article_title: What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
+title: >-
+    What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
+article_title: >-
+    What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cooling-techniques-are-commonly-used-to-maintain-optimal-tempera
 url: /learn/computer-science/questions/what-cooling-techniques-are-commonly-used-to-maintain-optimal-temperatures-in-computing-systems
 score: -1.0
 related_article1:
-    id: 161534
-    title: What are the key characteristics of mainframe computers that distinguish them from other types of computers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers-that-distinguish-them-from-other-types-of-computers
-related_article2:
-    id: 161319
-    title: How do compilers differ from interpreters in the context of translators?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
-related_article3:
-    id: 161301
-    title: What is the role of device drivers in system software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
-related_article4:
-    id: 161321
-    title: What is the difference between lossless and lossy data compression?
+    id: 161304
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
-related_article5:
-    id: 161566
-    title: What are the main characteristics of open source software?
+related_article2:
+    id: 161308
+    title: >-
+        What are the disadvantages of a graphical user interface?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-graphical-user-interface
+related_article3:
+    id: 161568
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
+related_article4:
+    id: 161568
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
+related_article5:
+    id: 161675
+    title: >-
+        How does licensing differ between open source and proprietary software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
 ---
 
 &nbsp;

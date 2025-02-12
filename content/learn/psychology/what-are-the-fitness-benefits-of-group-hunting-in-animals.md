@@ -2,8 +2,10 @@
 _schema: default
 id: 166422
 date: 2025-01-30
-title: What are the fitness benefits of group hunting in animals?
-article_title: What are the fitness benefits of group hunting in animals?
+title: >-
+    What are the fitness benefits of group hunting in animals?
+article_title: >-
+    What are the fitness benefits of group hunting in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-fitness-benefits-of-group-hunting-in-animals.md
 url: /learn/psychology/questions/what-are-the-fitness-benefits-of-group-hunting-in-animals
 score: -1.0
 related_article1:
-    id: 166410
-    title: What are the sources of genetic variation and why are they important for evolution?
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
 related_article2:
-    id: 166399
-    title: Differentiate between proximate and ultimate explanations in animal behavior.
+    id: 166403
+    title: >-
+        Identify and explain the three types of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 related_article3:
-    id: 166413
-    title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+    id: 166416
+    title: >-
+        Explain the differences between directional, stabilizing, and disruptive selection.
     subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
 related_article4:
-    id: 166407
-    title: Summarize Darwin's four postulates and their relevance to natural selection.
+    id: 166402
+    title: >-
+        What is cultural transmission and how does it affect animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
 related_article5:
-    id: 166404
-    title: What are the main types of learning and how do they influence animal behavior?
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
 ---
 
 &nbsp;

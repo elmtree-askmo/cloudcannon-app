@@ -2,8 +2,10 @@
 _schema: default
 id: 168492
 date: 2025-02-03
-title: How do customer interaction levels vary in different food service roles?
-article_title: How do customer interaction levels vary in different food service roles?
+title: >-
+    How do customer interaction levels vary in different food service roles?
+article_title: >-
+    How do customer interaction levels vary in different food service roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-customer-interaction-levels-vary-in-different-food-service-rol
 url: /learn/education-studies/questions/how-do-customer-interaction-levels-vary-in-different-food-service-roles
 score: -1.0
 related_article1:
-    id: 168493
-    title: What technical skills and tools are commonly used in medical professions?
+    id: 168509
+    title: >-
+        What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-commonly-used-in-medical-professions
+    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
 related_article2:
-    id: 168494
-    title: What are the career opportunities available in the medical field?
+    id: 168512
+    title: >-
+        What are the characteristics of systematic work preferences, and what career options are available for individuals with these preferences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-available-for-individuals-with-these-preferences
 related_article3:
-    id: 168510
-    title: What interpersonal and communication skills are necessary for success in sales roles, and what career opportunities are available?
+    id: 168495
+    title: >-
+        How does assertiveness play a role in conflict resolution and decision making in the workplace?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-interpersonal-and-communication-skills-are-necessary-for-success-in-sales-roles-and-what-career-opportunities-are-available
+    url: /learn/education-studies/questions/how-does-assertiveness-play-a-role-in-conflict-resolution-and-decision-making-in-the-workplace
 related_article4:
-    id: 168503
-    title: What skills are necessary for effective product and service promotion in sales and marketing?
+    id: 168512
+    title: >-
+        What are the characteristics of systematic work preferences, and what career options are available for individuals with these preferences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-are-necessary-for-effective-product-and-service-promotion-in-sales-and-marketing
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-available-for-individuals-with-these-preferences
 related_article5:
-    id: 168505
-    title: What are the key problem-solving skills required for technology applications, and how can workers keep current with advances in the field?
+    id: 168496
+    title: >-
+        What are the key components of persuasive communication, and how can they be applied in career paths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-problemsolving-skills-required-for-technology-applications-and-how-can-workers-keep-current-with-advances-in-the-field
+    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
 ---
 
 &nbsp;

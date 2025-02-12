@@ -2,8 +2,10 @@
 _schema: default
 id: 159794
 date: 2025-01-23
-title: Who were the key figures of Impressionism, and what were the main characteristics of this movement?
-article_title: Who were the key figures of Impressionism, and what were the main characteristics of this movement?
+title: >-
+    Who were the key figures of Impressionism, and what were the main characteristics of this movement?
+article_title: >-
+    Who were the key figures of Impressionism, and what were the main characteristics of this movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-were-the-key-figures-of-impressionism-and-what-were-the-main-char
 url: /learn/education-studies/questions/who-were-the-key-figures-of-impressionism-and-what-were-the-main-characteristics-of-this-movement
 score: -1.0
 related_article1:
-    id: 159762
-    title: What were the significant changes in the curriculum and focus of art academies, and how did these changes impact artistic development?
+    id: 159786
+    title: >-
+        What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-significant-changes-in-the-curriculum-and-focus-of-art-academies-and-how-did-these-changes-impact-artistic-development
+    url: /learn/education-studies/questions/what-were-the-origins-and-establishment-of-the-paris-salon-and-how-did-the-monarchy-influence-its-development
 related_article2:
-    id: 159764
-    title: How did gender studies and colonialism influence the representation of gender and race in art?
+    id: 159789
+    title: >-
+        Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
+    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-figures-and-works-as-well-as-their-impact-on-the-art-world
 related_article3:
-    id: 159761
-    title: How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
-related_article4:
     id: 159769
-    title: Identify key movements and figures in 19th-century art history and their influence on contemporary art.
+    title: >-
+        Identify key movements and figures in 19th-century art history and their influence on contemporary art.
     subject: Education Studies
     url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-their-influence-on-contemporary-art
-related_article5:
-    id: 159764
-    title: How did gender studies and colonialism influence the representation of gender and race in art?
+related_article4:
+    id: 159768
+    title: >-
+        Discuss the role of artists in society and how social movements influenced art during the evolution of artistic professionalism.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
+    url: /learn/education-studies/questions/discuss-the-role-of-artists-in-society-and-how-social-movements-influenced-art-during-the-evolution-of-artistic-professionalism
+related_article5:
+    id: 159792
+    title: >-
+        What is Orientalism in art, and how did it influence Western art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-orientalism-in-art-and-how-did-it-influence-western-art
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165883
 date: 2025-01-29
-title: How does a lecturer contribute to the research focus of a university?
-article_title: How does a lecturer contribute to the research focus of a university?
+title: >-
+    How does a lecturer contribute to the research focus of a university?
+article_title: >-
+    How does a lecturer contribute to the research focus of a university?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-lecturer-contribute-to-the-research-focus-of-a-university.
 url: /learn/education-studies/questions/how-does-a-lecturer-contribute-to-the-research-focus-of-a-university
 score: -1.0
 related_article1:
-    id: 165901
-    title: Why is continuous education important for personal and professional development?
+    id: 165894
+    title: >-
+        What is the significance of studying material, cultural, and social artefacts in the arts and humanities?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-continuous-education-important-for-personal-and-professional-development
+    url: /learn/education-studies/questions/what-is-the-significance-of-studying-material-cultural-and-social-artefacts-in-the-arts-and-humanities
 related_article2:
-    id: 165901
-    title: Why is continuous education important for personal and professional development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-continuous-education-important-for-personal-and-professional-development
-related_article3:
-    id: 165887
-    title: How does lifelong learning contribute to the development of a research community?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-lifelong-learning-contribute-to-the-development-of-a-research-community
-related_article4:
     id: 165899
-    title: How can planning and scheduling improve a student's academic performance?
+    title: >-
+        How can planning and scheduling improve a student's academic performance?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-planning-and-scheduling-improve-a-students-academic-performance
-related_article5:
-    id: 165887
-    title: How does lifelong learning contribute to the development of a research community?
+related_article3:
+    id: 165895
+    title: >-
+        How do the arts and humanities contribute to cultural understanding and societal critique?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-lifelong-learning-contribute-to-the-development-of-a-research-community
+    url: /learn/education-studies/questions/how-do-the-arts-and-humanities-contribute-to-cultural-understanding-and-societal-critique
+related_article4:
+    id: 165891
+    title: >-
+        How does the complexity of research requirements increase with academic progression?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-complexity-of-research-requirements-increase-with-academic-progression
+related_article5:
+    id: 165892
+    title: >-
+        What are the key components of effective academic writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
 ---
 
 &nbsp;

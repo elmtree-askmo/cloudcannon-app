@@ -2,8 +2,10 @@
 _schema: default
 id: 161737
 date: 2025-01-24
-title: How did the initial conflict escalate into armed retaliation and expansion of the riots?
-article_title: How did the initial conflict escalate into armed retaliation and expansion of the riots?
+title: >-
+    How did the initial conflict escalate into armed retaliation and expansion of the riots?
+article_title: >-
+    How did the initial conflict escalate into armed retaliation and expansion of the riots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-initial-conflict-escalate-into-armed-retaliation-and-expa
 url: /learn/history-of-the-world/questions/how-did-the-initial-conflict-escalate-into-armed-retaliation-and-expansion-of-the-riots
 score: 9.0
 related_article1:
-    id: 161743
-    title: What role did racial bias in the legal system play during the Zoot Suit Riots?
+    id: 161749
+    title: >-
+        How did the Zoot Suit Riots leave a legacy and impact historical memory?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-racial-bias-in-the-legal-system-play-during-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/how-did-the-zoot-suit-riots-leave-a-legacy-and-impact-historical-memory
 related_article2:
-    id: 161740
-    title: Why was the zoot suit considered a symbol of cultural identity and social justice for Mexican-American youth?
+    id: 161746
+    title: >-
+        How did the targeting of Mexican neighborhoods impact community dynamics during the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/why-was-the-zoot-suit-considered-a-symbol-of-cultural-identity-and-social-justice-for-mexicanamerican-youth
+    url: /learn/history-of-the-world/questions/how-did-the-targeting-of-mexican-neighborhoods-impact-community-dynamics-during-the-zoot-suit-riots
 related_article3:
     id: 161743
-    title: What role did racial bias in the legal system play during the Zoot Suit Riots?
+    title: >-
+        What role did racial bias in the legal system play during the Zoot Suit Riots?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-racial-bias-in-the-legal-system-play-during-the-zoot-suit-riots
 related_article4:
-    id: 161740
-    title: Why was the zoot suit considered a symbol of cultural identity and social justice for Mexican-American youth?
+    id: 161749
+    title: >-
+        How did the Zoot Suit Riots leave a legacy and impact historical memory?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/why-was-the-zoot-suit-considered-a-symbol-of-cultural-identity-and-social-justice-for-mexicanamerican-youth
+    url: /learn/history-of-the-world/questions/how-did-the-zoot-suit-riots-leave-a-legacy-and-impact-historical-memory
 related_article5:
-    id: 161746
-    title: How did the targeting of Mexican neighborhoods impact community dynamics during the Zoot Suit Riots?
+    id: 161739
+    title: >-
+        How did World War II impact societal dynamics and contribute to the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-targeting-of-mexican-neighborhoods-impact-community-dynamics-during-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/how-did-world-war-ii-impact-societal-dynamics-and-contribute-to-the-zoot-suit-riots
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166888
 date: 2025-01-31
-title: What is the difference between correlation and causation when analyzing trends in graphs?
-article_title: What is the difference between correlation and causation when analyzing trends in graphs?
+title: >-
+    What is the difference between correlation and causation when analyzing trends in graphs?
+article_title: >-
+    What is the difference between correlation and causation when analyzing trends in graphs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-correlation-and-causation-when-analyzi
 url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation-when-analyzing-trends-in-graphs
 score: -1.0
 related_article1:
-    id: 166881
-    title: How does iClicker technology enhance student engagement and what challenges might it present?
+    id: 166883
+    title: >-
+        How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-iclicker-technology-enhance-student-engagement-and-what-challenges-might-it-present
+    url: /learn/education-studies/questions/how-can-preclass-assignments-and-supplementary-materials-be-integrated-with-course-content-to-enhance-learning
 related_article2:
-    id: 166887
-    title: How do experimental design and data interpretation contribute to effective data collection and analysis?
+    id: 166884
+    title: >-
+        What is the importance of organizing course content into modules on D2L and how can students access course tools?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-experimental-design-and-data-interpretation-contribute-to-effective-data-collection-and-analysis
+    url: /learn/education-studies/questions/what-is-the-importance-of-organizing-course-content-into-modules-on-d2l-and-how-can-students-access-course-tools
 related_article3:
-    id: 166889
-    title: How does natural selection contribute to changes in population characteristics and what role does biological fitness play?
+    id: 166891
+    title: >-
+        How do hypotheses differ from theories in terms of testability and predictions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-contribute-to-changes-in-population-characteristics-and-what-role-does-biological-fitness-play
+    url: /learn/education-studies/questions/how-do-hypotheses-differ-from-theories-in-terms-of-testability-and-predictions
 related_article4:
     id: 166887
-    title: How do experimental design and data interpretation contribute to effective data collection and analysis?
+    title: >-
+        How do experimental design and data interpretation contribute to effective data collection and analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-experimental-design-and-data-interpretation-contribute-to-effective-data-collection-and-analysis
 related_article5:
-    id: 166880
-    title: What are the steps to log into iClicker and how can students access the free trial?
+    id: 166883
+    title: >-
+        How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-to-log-into-iclicker-and-how-can-students-access-the-free-trial
+    url: /learn/education-studies/questions/how-can-preclass-assignments-and-supplementary-materials-be-integrated-with-course-content-to-enhance-learning
 ---
 
 &nbsp;

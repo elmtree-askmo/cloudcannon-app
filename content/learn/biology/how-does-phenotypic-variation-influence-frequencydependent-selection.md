@@ -2,8 +2,10 @@
 _schema: default
 id: 170793
 date: 2025-02-07
-title: How does phenotypic variation influence frequency-dependent selection?
-article_title: How does phenotypic variation influence frequency-dependent selection?
+title: >-
+    How does phenotypic variation influence frequency-dependent selection?
+article_title: >-
+    How does phenotypic variation influence frequency-dependent selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-phenotypic-variation-influence-frequencydependent-selection.
 url: /learn/biology/questions/how-does-phenotypic-variation-influence-frequencydependent-selection
 score: -1.0
 related_article1:
-    id: 170792
-    title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
-related_article2:
     id: 170802
-    title: What role do population dynamics play in the interaction of strategies?
+    title: >-
+        What role do population dynamics play in the interaction of strategies?
     subject: Biology
     url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article2:
+    id: 170803
+    title: >-
+        How do cycles of increase and decline affect population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-cycles-of-increase-and-decline-affect-population-dynamics
 related_article3:
-    id: 170794
-    title: Describe the structure of a payoff matrix and its components in evolutionary games.
+    id: 170804
+    title: >-
+        What is equilibrium frequency and why is it important in evolutionary biology?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
+    url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
 related_article4:
-    id: 170808
-    title: What factors influence the development and adaptation of evolutionary strategies?
+    id: 170807
+    title: >-
+        How does phenotypic variation impact long-term evolutionary trends?
     subject: Biology
-    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
+    url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
 related_article5:
-    id: 170791
-    title: How do pure and mixed strategies differ in the context of a paleo matrix?
+    id: 170796
+    title: >-
+        How does the frequency of a strategy impact fitness dynamics?
     subject: Biology
-    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
+    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
 ---
 
 &nbsp;

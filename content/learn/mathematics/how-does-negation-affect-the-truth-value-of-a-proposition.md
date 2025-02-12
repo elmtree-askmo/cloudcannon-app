@@ -2,8 +2,10 @@
 _schema: default
 id: 170190
 date: 2025-02-06
-title: How does negation affect the truth value of a proposition?
-article_title: How does negation affect the truth value of a proposition?
+title: >-
+    How does negation affect the truth value of a proposition?
+article_title: >-
+    How does negation affect the truth value of a proposition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-negation-affect-the-truth-value-of-a-proposition.md
 url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
 score: -1.0
 related_article1:
-    id: 170199
-    title: How do you determine the correct order of variables in a logical expression?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
-related_article2:
-    id: 170194
-    title: How does the direction of implication affect the meaning of a logical statement?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-direction-of-implication-affect-the-meaning-of-a-logical-statement
-related_article3:
-    id: 170191
-    title: What is the difference between conjunction and disjunction in propositional logic?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-conjunction-and-disjunction-in-propositional-logic
-related_article4:
-    id: 170192
-    title: Explain the concept of exclusive-or and how it differs from regular disjunction.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction
-related_article5:
     id: 170198
-    title: What are the key logical operators to recognize when translating English into propositional logic?
+    title: >-
+        What are the key logical operators to recognize when translating English into propositional logic?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
+related_article2:
+    id: 170199
+    title: >-
+        How do you determine the correct order of variables in a logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
+related_article3:
+    id: 170188
+    title: >-
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+related_article4:
+    id: 170188
+    title: >-
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+related_article5:
+    id: 170192
+    title: >-
+        Explain the concept of exclusive-or and how it differs from regular disjunction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction
 ---
 
 &nbsp;

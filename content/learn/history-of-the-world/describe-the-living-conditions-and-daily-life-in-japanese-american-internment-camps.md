@@ -2,8 +2,10 @@
 _schema: default
 id: 168740
 date: 2025-02-04
-title: Describe the living conditions and daily life in Japanese American internment camps.
-article_title: Describe the living conditions and daily life in Japanese American internment camps.
+title: >-
+    Describe the living conditions and daily life in Japanese American internment camps.
+article_title: >-
+    Describe the living conditions and daily life in Japanese American internment camps.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-living-conditions-and-daily-life-in-japanese-american-in
 url: /learn/history-of-the-world/questions/describe-the-living-conditions-and-daily-life-in-japanese-american-internment-camps
 score: 9.0
 related_article1:
-    id: 168743
-    title: What were the key legal arguments and outcomes of the Korematsu case?
+    id: 168737
+    title: >-
+        What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case
+    url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
 related_article2:
-    id: 168745
-    title: How have historical narratives and family histories contributed to our understanding of Japanese internment?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-historical-narratives-and-family-histories-contributed-to-our-understanding-of-japanese-internment
-related_article3:
-    id: 168741
-    title: What was the significance of the Manzanar internment camp in the context of Japanese American internment?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
-related_article4:
     id: 168739
-    title: What were the immediate impacts of forced relocation and internment on Japanese Americans?
+    title: >-
+        What were the immediate impacts of forced relocation and internment on Japanese Americans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
-related_article5:
-    id: 168741
-    title: What was the significance of the Manzanar internment camp in the context of Japanese American internment?
+related_article3:
+    id: 168750
+    title: >-
+        What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
+    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
+related_article4:
+    id: 168744
+    title: >-
+        What challenges did first-generation immigrants face in terms of cultural identity and assimilation?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-did-firstgeneration-immigrants-face-in-terms-of-cultural-identity-and-assimilation
 ---
 
 &nbsp;

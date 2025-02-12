@@ -2,8 +2,10 @@
 _schema: default
 id: 164192
 date: 2025-01-28
-title: In what ways do cultural stereotypes impact women's self-perception and peer relationships?
-article_title: In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+title: >-
+    In what ways do cultural stereotypes impact women's self-perception and peer relationships?
+article_title: >-
+    In what ways do cultural stereotypes impact women's self-perception and peer relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and
 url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
 score: -1.0
 related_article1:
-    id: 164189
-    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    id: 164193
+    title: >-
+        Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
     subject: Psychology
-    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
 related_article2:
-    id: 164196
-    title: What psychological challenges, such as anxiety and depression, are associated with relational crises, and what coping strategies are effective?
-    subject: Psychology
-    url: /learn/psychology/questions/what-psychological-challenges-such-as-anxiety-and-depression-are-associated-with-relational-crises-and-what-coping-strategies-are-effective
-related_article3:
-    id: 164199
-    title: What are the key differences between male and female relational crises, particularly in terms of onset and nature?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
-related_article4:
-    id: 164200
-    title: How do similarities and differences in relational crises between genders manifest?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
-related_article5:
     id: 164191
-    title: How do historical context and media influence contribute to cultural stereotypes of women?
+    title: >-
+        How do historical context and media influence contribute to cultural stereotypes of women?
     subject: Psychology
     url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
+related_article3:
+    id: 164195
+    title: >-
+        What factors related to body image and social acceptance affect self-esteem in adolescent girls?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls
+related_article4:
+    id: 164188
+    title: >-
+        How does disconnection from self during Gilligan's relational crisis affect academic achievement and self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-disconnection-from-self-during-gilligans-relational-crisis-affect-academic-achievement-and-selfesteem
+related_article5:
+    id: 164189
+    title: >-
+        What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
 ---
 
 &nbsp;

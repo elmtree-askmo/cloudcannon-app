@@ -2,8 +2,10 @@
 _schema: default
 id: 161529
 date: 2025-01-24
-title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
-article_title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+title: >-
+    Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+article_title: >-
+    Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-components-and-functionality-of-traffic-lights-control-s
 url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
 score: -1.0
 related_article1:
-    id: 161335
-    title: Define real-time processing and explain its importance in control systems.
+    id: 161357
+    title: >-
+        How do monitoring technologies enhance safety and cost-effectiveness, particularly in hazardous conditions?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems
+    url: /learn/computer-science/questions/how-do-monitoring-technologies-enhance-safety-and-costeffectiveness-particularly-in-hazardous-conditions
 related_article2:
-    id: 161358
-    title: What are the potential risks and failures associated with dependence on monitoring technology?
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article3:
-    id: 161522
-    title: Discuss the methods and sensors used in water pollution monitoring.
+    id: 161354
+    title: >-
+        Explain the components and process involved in car park barrier systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/discuss-the-methods-and-sensors-used-in-water-pollution-monitoring
+    url: /learn/computer-science/questions/explain-the-components-and-process-involved-in-car-park-barrier-systems
 related_article4:
-    id: 161525
-    title: Explain the components and functionality of central heating systems, including the process and feedback mechanism.
+    id: 161516
+    title: >-
+        What are the different types of actuators, and how do they function in control technologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-functionality-of-central-heating-systems-including-the-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-do-they-function-in-control-technologies
 related_article5:
-    id: 161587
-    title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+    id: 161515
+    title: >-
+        Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
+    url: /learn/computer-science/questions/describe-the-role-of-a-digital-to-analogue-converter-dac-in-control-systems-and-its-importance
 ---
 
 &nbsp;

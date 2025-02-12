@@ -2,8 +2,10 @@
 _schema: default
 id: 161694
 date: 2025-01-24
-title: What is the difference between symmetric and asymmetric encryption?
-article_title: What is the difference between symmetric and asymmetric encryption?
+title: >-
+    What is the difference between symmetric and asymmetric encryption?
+article_title: >-
+    What is the difference between symmetric and asymmetric encryption?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-symmetric-and-asymmetric-encryption.md
 url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
 score: -1.0
 related_article1:
-    id: 161706
-    title: What are the main components of an information system, and how do they interact?
+    id: 161505
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
 related_article2:
-    id: 161670
-    title: What is a parity check and what are its limitations in error detection?
+    id: 161507
+    title: >-
+        How does a checksum function in error detection and what are some common algorithms used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
+    url: /learn/computer-science/questions/how-does-a-checksum-function-in-error-detection-and-what-are-some-common-algorithms-used
 related_article3:
-    id: 161700
-    title: What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
-related_article4:
-    id: 161687
-    title: What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-indirect-data-and-what-are-its-advantages-and-disadvantages
-related_article5:
-    id: 161511
-    title: What are the main components of an information system and how do they interact?
+    id: 161450
+    title: >-
+        What are the main components of an information system, and how do they interact?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
+related_article4:
+    id: 161702
+    title: >-
+        What is a checksum, and how do algorithms and protocols use it for error detection?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-checksum-and-how-do-algorithms-and-protocols-use-it-for-error-detection
+related_article5:
+    id: 161498
+    title: >-
+        What are the risks associated with data transmission and how does encryption mitigate these risks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 ---
 
 &nbsp;

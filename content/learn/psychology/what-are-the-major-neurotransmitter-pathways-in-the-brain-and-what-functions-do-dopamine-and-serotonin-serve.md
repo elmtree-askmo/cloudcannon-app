@@ -2,8 +2,10 @@
 _schema: default
 id: 170544
 date: 2025-02-06
-title: What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
-article_title: What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+title: >-
+    What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+article_title: >-
+    What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-fu
 url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
 score: -1.0
 related_article1:
-    id: 170528
-    title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    id: 170537
+    title: >-
+        What is diffusion tensor imaging, and how is it used to study brain connectivity?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
 related_article2:
-    id: 170525
-    title: What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
 related_article3:
-    id: 170523
-    title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    id: 170533
+    title: >-
+        What is the genetic basis of Huntington's disease, and how is it inherited?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
 related_article4:
-    id: 170526
-    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
-    subject: Psychology
-    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
-related_article5:
     id: 170545
-    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    title: >-
+        How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
     subject: Psychology
     url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+related_article5:
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 ---
 
 &nbsp;

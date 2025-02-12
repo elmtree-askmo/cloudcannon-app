@@ -2,8 +2,10 @@
 _schema: default
 id: 169031
 date: 2025-02-04
-title: Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
-article_title: Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+title: >-
+    Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+article_title: >-
+    Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-significance-of-communityled-projects-in-the-reconciliat
 url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
 score: 9.0
 related_article1:
-    id: 169032
-    title: What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-contemporary-challenges-faced-by-aboriginal-communities-in-preserving-their-cultural-identity
-related_article2:
-    id: 169026
-    title: How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-punitive-expeditions-contribute-to-the-conflict-between-settlers-and-aboriginal-people-during-colonial-history
-related_article3:
-    id: 169026
-    title: How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-punitive-expeditions-contribute-to-the-conflict-between-settlers-and-aboriginal-people-during-colonial-history
-related_article4:
     id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
+    title: >-
+        How do historical narratives influence public memory and commemoration practices?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
-related_article5:
-    id: 169027
-    title: Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+related_article2:
+    id: 169032
+    title: >-
+        What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
+    url: /learn/history-of-the-world/questions/what-are-the-main-contemporary-challenges-faced-by-aboriginal-communities-in-preserving-their-cultural-identity
+related_article3:
+    id: 169037
+    title: >-
+        How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
+related_article4:
+    id: 169030
+    title: >-
+        What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
+related_article5:
+    id: 169036
+    title: >-
+        What are the main challenges faced in the preservation of Aboriginal heritage sites?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
 ---
 
 &nbsp;

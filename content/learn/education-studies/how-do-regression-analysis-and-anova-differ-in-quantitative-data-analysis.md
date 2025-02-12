@@ -2,8 +2,10 @@
 _schema: default
 id: 165151
 date: 2025-01-28
-title: How do regression analysis and ANOVA differ in quantitative data analysis?
-article_title: How do regression analysis and ANOVA differ in quantitative data analysis?
+title: >-
+    How do regression analysis and ANOVA differ in quantitative data analysis?
+article_title: >-
+    How do regression analysis and ANOVA differ in quantitative data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-regression-analysis-and-anova-differ-in-quantitative-data-anal
 url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
 score: -1.0
 related_article1:
-    id: 165143
-    title: What are the positive effects of video games on stress?
+    id: 165146
+    title: >-
+        What is the distinction between causation and correlation in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-positive-effects-of-video-games-on-stress
+    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
 related_article2:
-    id: 165134
-    title: How can observer bias be minimized in research studies?
+    id: 165140
+    title: >-
+        How do SPSS and R differ as software tools for statistical analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
+    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
 related_article3:
-    id: 165130
-    title: What is the purpose of a Latin square design in research?
+    id: 165140
+    title: >-
+        How do SPSS and R differ as software tools for statistical analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-a-latin-square-design-in-research
+    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
 related_article4:
     id: 165128
-    title: What is simple randomization, and where is it typically applied?
+    title: >-
+        What is simple randomization, and where is it typically applied?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
 related_article5:
-    id: 165142
-    title: How is cortisol measured in stress research?
+    id: 165139
+    title: >-
+        What is the difference between descriptive and inferential statistics in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-cortisol-measured-in-stress-research
+    url: /learn/education-studies/questions/what-is-the-difference-between-descriptive-and-inferential-statistics-in-data-analysis
 ---
 
 &nbsp;

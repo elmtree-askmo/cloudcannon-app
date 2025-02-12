@@ -2,8 +2,10 @@
 _schema: default
 id: 168732
 date: 2025-02-04
-title: How did socialist ideas influence art and the representation of the working class in the 19th century?
-article_title: How did socialist ideas influence art and the representation of the working class in the 19th century?
+title: >-
+    How did socialist ideas influence art and the representation of the working class in the 19th century?
+article_title: >-
+    How did socialist ideas influence art and the representation of the working class in the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-socialist-ideas-influence-art-and-the-representation-of-the-w
 url: /learn/art-history-and-literature/questions/how-did-socialist-ideas-influence-art-and-the-representation-of-the-working-class-in-the-19th-century
 score: 9.0
 related_article1:
-    id: 168733
-    title: What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
+    id: 168736
+    title: >-
+        How did artists represent the working class and critique working conditions in their art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
+    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
 related_article2:
-    id: 168724
-    title: How did political upheavals influence art and the role of artists in society during the 19th century?
+    id: 168735
+    title: >-
+        What role did women play in art during the 19th century, and how was gender identity explored?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
 related_article3:
-    id: 168717
-    title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    id: 168736
+    title: >-
+        How did artists represent the working class and critique working conditions in their art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
+    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
 related_article4:
-    id: 168725
-    title: What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+    id: 168727
+    title: >-
+        Who were the key representatives of Realism, and what were their contributions to the movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
+    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
 related_article5:
     id: 168733
-    title: What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
+    title: >-
+        What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
 ---

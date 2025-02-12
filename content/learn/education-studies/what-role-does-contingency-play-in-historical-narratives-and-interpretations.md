@@ -2,8 +2,10 @@
 _schema: default
 id: 166554
 date: 2025-01-30
-title: What role does contingency play in historical narratives and interpretations?
-article_title: What role does contingency play in historical narratives and interpretations?
+title: >-
+    What role does contingency play in historical narratives and interpretations?
+article_title: >-
+    What role does contingency play in historical narratives and interpretations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-contingency-play-in-historical-narratives-and-interpre
 url: /learn/education-studies/questions/what-role-does-contingency-play-in-historical-narratives-and-interpretations
 score: -1.0
 related_article1:
-    id: 166558
-    title: What methodologies are used in studying the day-to-day lives of women in history?
+    id: 166555
+    title: >-
+        What are the main types of evidence used in historical research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methodologies-are-used-in-studying-the-daytoday-lives-of-women-in-history
+    url: /learn/education-studies/questions/what-are-the-main-types-of-evidence-used-in-historical-research
 related_article2:
     id: 166564
-    title: What methodologies do historians use to analyze social dynamics in history?
+    title: >-
+        What methodologies do historians use to analyze social dynamics in history?
     subject: Education Studies
     url: /learn/education-studies/questions/what-methodologies-do-historians-use-to-analyze-social-dynamics-in-history
 related_article3:
-    id: 166553
-    title: How does storytelling contribute to the historical narrative?
+    id: 166562
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-storytelling-contribute-to-the-historical-narrative
+    url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
 related_article4:
-    id: 166555
-    title: What are the main types of evidence used in historical research?
+    id: 166562
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-evidence-used-in-historical-research
+    url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
 related_article5:
-    id: 166556
-    title: How do archaeology and anthropology contribute to the historical narrative, and what is the role of carbon dating in this context?
+    id: 166562
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archaeology-and-anthropology-contribute-to-the-historical-narrative-and-what-is-the-role-of-carbon-dating-in-this-context
+    url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170789
 date: 2025-02-06
-title: How does data representation impact algorithm development and testing?
-article_title: How does data representation impact algorithm development and testing?
+title: >-
+    How does data representation impact algorithm development and testing?
+article_title: >-
+    How does data representation impact algorithm development and testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-data-representation-impact-algorithm-development-and-testing
 url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
 score: -1.0
 related_article1:
+    id: 170788
+    title: >-
+        What are the key steps in problem analysis for effective problem-solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-steps-in-problem-analysis-for-effective-problemsolving
+related_article2:
+    id: 170777
+    title: >-
+        What distinguishes polynomial time algorithms from exponential time algorithms in complexity theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-distinguishes-polynomial-time-algorithms-from-exponential-time-algorithms-in-complexity-theory
+related_article3:
     id: 170787
-    title: Explain the Euclidean algorithm for finding the greatest common divisor.
+    title: >-
+        Explain the Euclidean algorithm for finding the greatest common divisor.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
-related_article2:
-    id: 170775
-    title: What is the scope of computability theory and how does it relate to problem solvability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-scope-of-computability-theory-and-how-does-it-relate-to-problem-solvability
-related_article3:
-    id: 170780
-    title: How does the concept of reducibility relate to NP-hard problems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-concept-of-reducibility-relate-to-nphard-problems
 related_article4:
-    id: 170778
-    title: Define the P vs NP problem and explain its importance in computational theory.
+    id: 170788
+    title: >-
+        What are the key steps in problem analysis for effective problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-the-p-vs-np-problem-and-explain-its-importance-in-computational-theory
+    url: /learn/computer-science/questions/what-are-the-key-steps-in-problem-analysis-for-effective-problemsolving
 related_article5:
-    id: 170784
-    title: What factors contribute to the efficiency of an algorithm?
+    id: 170785
+    title: >-
+        What are heuristic algorithms and how are they applied in real-world scenarios?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-contribute-to-the-efficiency-of-an-algorithm
+    url: /learn/computer-science/questions/what-are-heuristic-algorithms-and-how-are-they-applied-in-realworld-scenarios
 ---
 
 &nbsp;

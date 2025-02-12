@@ -2,8 +2,10 @@
 _schema: default
 id: 159848
 date: 2025-01-23
-title: How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
-article_title: How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
+title: >-
+    How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
+article_title: >-
+    How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-european-colonisation-influence-african-artistic-practices-an
 url: /learn/art-history-and-literature/questions/how-did-european-colonisation-influence-african-artistic-practices-and-what-were-some-western-perceptions-and-misunderstandings
 score: 9.0
 related_article1:
-    id: 160114
-    title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 159836
+    title: >-
+        How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
 related_article2:
-    id: 159844
-    title: How did technological advances influence the depiction of modern life in art?
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 related_article3:
-    id: 160109
-    title: What were the origins and key developments of Cubism, and how did it impact modern art?
+    id: 160111
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
 related_article4:
     id: 159850
-    title: How did scientific developments influence environmental themes in Victorian art?
+    title: >-
+        How did scientific developments influence environmental themes in Victorian art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
 related_article5:
-    id: 160115
-    title: What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+    id: 160106
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 ---
 
 &nbsp;

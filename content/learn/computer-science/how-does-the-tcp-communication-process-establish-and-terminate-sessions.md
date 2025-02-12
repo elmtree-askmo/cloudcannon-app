@@ -2,8 +2,10 @@
 _schema: default
 id: 165781
 date: 2025-01-29
-title: How does the TCP communication process establish and terminate sessions?
-article_title: How does the TCP communication process establish and terminate sessions?
+title: >-
+    How does the TCP communication process establish and terminate sessions?
+article_title: >-
+    How does the TCP communication process establish and terminate sessions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-tcp-communication-process-establish-and-terminate-sessio
 url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
 score: -1.0
 related_article1:
-    id: 165786
-    title: What is the purpose of selective acknowledgment (SACK) in TCP?
+    id: 165764
+    title: >-
+        What is the primary role of the transport layer in network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
 related_article2:
-    id: 165769
-    title: How does data segmentation enable multiple conversations in network communication?
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 related_article3:
-    id: 165772
-    title: What are the key features of the UDP protocol that differentiate it from TCP?
+    id: 165774
+    title: >-
+        How does TCP guarantee ordered delivery and handle data loss?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 related_article4:
-    id: 165786
-    title: What is the purpose of selective acknowledgment (SACK) in TCP?
+    id: 165774
+    title: >-
+        How does TCP guarantee ordered delivery and handle data loss?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 related_article5:
-    id: 165786
-    title: What is the purpose of selective acknowledgment (SACK) in TCP?
+    id: 165768
+    title: >-
+        What is the difference between TCP and UDP in terms of reliability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
+    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
 ---
 
 &nbsp;

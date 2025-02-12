@@ -2,8 +2,10 @@
 _schema: default
 id: 164831
 date: 2025-01-28
-title: What is the concentration gradient and why is it important for ion movement across the neuronal membrane?
-article_title: What is the concentration gradient and why is it important for ion movement across the neuronal membrane?
+title: >-
+    What is the concentration gradient and why is it important for ion movement across the neuronal membrane?
+article_title: >-
+    What is the concentration gradient and why is it important for ion movement across the neuronal membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-concentration-gradient-and-why-is-it-important-for-ion-mo
 url: /learn/psychology/questions/what-is-the-concentration-gradient-and-why-is-it-important-for-ion-movement-across-the-neuronal-membrane
 score: -1.0
 related_article1:
-    id: 164818
-    title: How do ion concentration differences contribute to the resting potential of a neuron?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
-related_article2:
-    id: 164824
-    title: What changes occur in the membrane potential during an action potential?
-    subject: Psychology
-    url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
-related_article3:
     id: 164817
-    title: What is the resting potential of a neuron and how is it measured?
+    title: >-
+        What is the resting potential of a neuron and how is it measured?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
+related_article2:
+    id: 164832
+    title: >-
+        How do synapses facilitate signal transmission between neurons?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+related_article3:
+    id: 164820
+    title: >-
+        What is the threshold for an action potential and what are the refractory periods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
 related_article4:
     id: 164818
-    title: How do ion concentration differences contribute to the resting potential of a neuron?
+    title: >-
+        How do ion concentration differences contribute to the resting potential of a neuron?
     subject: Psychology
     url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
 related_article5:
-    id: 164829
-    title: What types of ion channels are involved in action potentials and how do they regulate ion flow?
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
     subject: Psychology
-    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
 ---
 
 &nbsp;

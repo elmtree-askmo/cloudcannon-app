@@ -2,8 +2,10 @@
 _schema: default
 id: 163613
 date: 2025-01-27
-title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
-article_title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+title: >-
+    What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+article_title: >-
+    What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-technological-advancements-during-the-industrial-re
 url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
 score: -1.0
 related_article1:
-    id: 163611
-    title: How does economic integration under globalization affect trade networks and financial systems?
+    id: 163621
+    title: >-
+        How have pandemics strained health systems and what public health measures are typically implemented?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+    url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
 related_article2:
-    id: 163623
-    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    id: 163618
+    title: >-
+        What are some criticisms of dependency theory, and how is it relevant in modern contexts?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
 related_article3:
-    id: 163616
-    title: How did colonialism lead to economic exploitation through resource extraction and labor systems?
+    id: 163626
+    title: >-
+        What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
+    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
 related_article4:
-    id: 163610
-    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
-related_article5:
     id: 163612
-    title: What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
+    title: >-
+        What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
     subject: Sociology
     url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
+related_article5:
+    id: 163625
+    title: >-
+        What are the challenges of global dependencies in supply chains, particularly concerning resource availability and production delays?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-of-global-dependencies-in-supply-chains-particularly-concerning-resource-availability-and-production-delays
 ---
 
 &nbsp;

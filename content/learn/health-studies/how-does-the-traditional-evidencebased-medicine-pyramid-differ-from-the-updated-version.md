@@ -2,8 +2,10 @@
 _schema: default
 id: 163258
 date: 2025-01-26
-title: How does the traditional evidence-based medicine pyramid differ from the updated version?
-article_title: How does the traditional evidence-based medicine pyramid differ from the updated version?
+title: >-
+    How does the traditional evidence-based medicine pyramid differ from the updated version?
+article_title: >-
+    How does the traditional evidence-based medicine pyramid differ from the updated version?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-traditional-evidencebased-medicine-pyramid-differ-from-t
 url: /learn/health-studies/questions/how-does-the-traditional-evidencebased-medicine-pyramid-differ-from-the-updated-version
 score: -1.0
 related_article1:
-    id: 163250
-    title: How can confounders be identified and adjusted for in a study?
+    id: 163264
+    title: >-
+        What are the challenges of keeping current evidence updated in clinical practice?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-confounders-be-identified-and-adjusted-for-in-a-study
+    url: /learn/health-studies/questions/what-are-the-challenges-of-keeping-current-evidence-updated-in-clinical-practice
 related_article2:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
+    id: 163247
+    title: >-
+        How can researchers minimize the role of chance in their studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
+    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
 related_article3:
-    id: 163251
-    title: What are the primary objectives of clinical studies?
+    id: 163253
+    title: >-
+        What are the components of a Directed Acyclic Graph (DAG) and their significance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
+    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
 related_article4:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
+    id: 163248
+    title: >-
+        What are the main types of bias that can affect a study's results?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
+    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
 related_article5:
-    id: 163255
-    title: What is the difference between prevalence and incidence in descriptive studies?
+    id: 163246
+    title: >-
+        What is internal validity and why is it important in research studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
+    url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
 ---
 
 &nbsp;

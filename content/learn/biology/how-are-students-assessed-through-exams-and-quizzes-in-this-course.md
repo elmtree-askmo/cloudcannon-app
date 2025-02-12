@@ -2,8 +2,10 @@
 _schema: default
 id: 167490
 date: 2025-01-31
-title: How are students assessed through exams and quizzes in this course?
-article_title: How are students assessed through exams and quizzes in this course?
+title: >-
+    How are students assessed through exams and quizzes in this course?
+article_title: >-
+    How are students assessed through exams and quizzes in this course?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-students-assessed-through-exams-and-quizzes-in-this-course.md
 url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
 score: -1.0
 related_article1:
-    id: 167492
-    title: How can networking opportunities benefit biology professionals?
+    id: 167471
+    title: >-
+        What career opportunities are available in sports medicine?
     subject: Biology
-    url: /learn/biology/questions/how-can-networking-opportunities-benefit-biology-professionals
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
 related_article2:
-    id: 167468
-    title: How does biology apply to everyday life?
+    id: 167482
+    title: >-
+        What are the cost and availability options for online textbooks?
     subject: Biology
-    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
 related_article3:
+    id: 167487
+    title: >-
+        Why is STEM education important in the modern curriculum?
+    subject: Biology
+    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
+related_article4:
     id: 167483
-    title: What is the focus and content of lecture exams in this course?
+    title: >-
+        What is the focus and content of lecture exams in this course?
     subject: Biology
     url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
-related_article4:
-    id: 167485
-    title: What components contribute to the final grade in this course?
-    subject: Biology
-    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
 related_article5:
-    id: 167479
-    title: How is the D2L Learning Management System organized to facilitate course access?
+    id: 167487
+    title: >-
+        Why is STEM education important in the modern curriculum?
     subject: Biology
-    url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
+    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
 ---
 
 &nbsp;

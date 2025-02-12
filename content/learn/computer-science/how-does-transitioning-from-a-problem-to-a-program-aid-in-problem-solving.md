@@ -2,8 +2,10 @@
 _schema: default
 id: 160692
 date: 2025-01-24
-title: How does transitioning from a problem to a program aid in problem solving?
-article_title: How does transitioning from a problem to a program aid in problem solving?
+title: >-
+    How does transitioning from a problem to a program aid in problem solving?
+article_title: >-
+    How does transitioning from a problem to a program aid in problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-sol
 url: /learn/computer-science/questions/how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-solving
 score: -1.0
 related_article1:
-    id: 160873
-    title: What information is conveyed by indices in data structures?
+    id: 161022
+    title: >-
+        What is the difference between solvable and unsolvable problems in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-conveyed-by-indices-in-data-structures
+    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
 related_article2:
-    id: 160696
-    title: How does representation influence algorithm complexity?
+    id: 160777
+    title: >-
+        What is the purpose of abstraction in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
 related_article3:
-    id: 160795
-    title: How can constraints simplify algorithm design?
+    id: 161028
+    title: >-
+        How do indices convey information in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
+    url: /learn/computer-science/questions/how-do-indices-convey-information-in-data-structures
 related_article4:
-    id: 160713
-    title: Compare linear search with depth-first search in terms of their application.
+    id: 160859
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-application
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article5:
-    id: 161029
-    title: What are the advantages of using non-numeric indices in associative arrays?
+    id: 160718
+    title: >-
+        How do constraints impact algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
+    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design
 ---
 
 &nbsp;

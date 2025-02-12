@@ -2,8 +2,10 @@
 _schema: default
 id: 163227
 date: 2025-01-26
-title: What is the significance of measuring disease frequency over a consistent time interval?
-article_title: What is the significance of measuring disease frequency over a consistent time interval?
+title: >-
+    What is the significance of measuring disease frequency over a consistent time interval?
+article_title: >-
+    What is the significance of measuring disease frequency over a consistent time interval?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-measuring-disease-frequency-over-a-consis
 url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
 score: -1.0
 related_article1:
-    id: 163245
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
+    id: 163230
+    title: >-
+        What is a rate in epidemiology, and how can it be misunderstood?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
+    url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
 related_article2:
-    id: 163336
-    title: What is the relationship between prevalence, incidence rate, and disease duration?
+    id: 163241
+    title: >-
+        What is the risk difference, and how is it calculated using a 2x2 table?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
+    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
 related_article3:
-    id: 163079
-    title: How do cause-specific and age-specific rates contribute to risk assessment?
+    id: 163342
+    title: >-
+        What is the risk difference, and how is it calculated using a 2x2 table?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-contribute-to-risk-assessment
+    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
 related_article4:
-    id: 163078
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163074
+    title: >-
+        What is the significance of years of potential life lost (YPLL) in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
 related_article5:
-    id: 163329
-    title: How is a ratio different from a proportion in epidemiological studies?
+    id: 163229
+    title: >-
+        Why is it crucial to use the correct denominator when calculating a proportion?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
+    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 ---
 
 &nbsp;

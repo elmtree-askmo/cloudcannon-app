@@ -2,8 +2,10 @@
 _schema: default
 id: 165654
 date: 2025-01-29
-title: What functions does the Server Message Block (SMB) protocol provide?
-article_title: What functions does the Server Message Block (SMB) protocol provide?
+title: >-
+    What functions does the Server Message Block (SMB) protocol provide?
+article_title: >-
+    What functions does the Server Message Block (SMB) protocol provide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-functions-does-the-server-message-bl
 score: -1.0
 related_article1:
     id: 165640
-    title: How does the Presentation Layer handle data encryption?
+    title: >-
+        How does the Presentation Layer handle data encryption?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-presentation-layer-handle-data-encryption
 related_article2:
-    id: 165651
-    title: How does the DNS hierarchy organize domain names?
+    id: 165652
+    title: >-
+        What are the steps involved in the DHCP process for dynamic address assignment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-dns-hierarchy-organize-domain-names
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
 related_article3:
-    id: 165650
-    title: What are the differences between POP and IMAP protocols?
+    id: 165643
+    title: >-
+        How does DNS facilitate domain name resolution?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
+    url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
 related_article4:
     id: 165646
-    title: What role do peers play in a peer-to-peer network?
+    title: >-
+        What role do peers play in a peer-to-peer network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
 related_article5:
-    id: 165652
-    title: What are the steps involved in the DHCP process for dynamic address assignment?
+    id: 165646
+    title: >-
+        What role do peers play in a peer-to-peer network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
+    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
 ---
 
 &nbsp;

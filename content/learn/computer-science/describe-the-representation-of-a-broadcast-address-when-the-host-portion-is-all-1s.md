@@ -2,8 +2,10 @@
 _schema: default
 id: 165714
 date: 2025-01-29
-title: Describe the representation of a broadcast address when the host portion is all 1s.
-article_title: Describe the representation of a broadcast address when the host portion is all 1s.
+title: >-
+    Describe the representation of a broadcast address when the host portion is all 1s.
+article_title: >-
+    Describe the representation of a broadcast address when the host portion is all 1s.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-representation-of-a-broadcast-address-when-the-host-port
 url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
 score: -1.0
 related_article1:
-    id: 165717
-    title: What is multicast addressing and how does it differ from unicast and broadcast addressing?
+    id: 165705
+    title: >-
+        Explain the significance of base 2 digits in the binary number system.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
+    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
 related_article2:
-    id: 165706
-    title: How do you convert a binary number to a decimal number? Provide an example.
+    id: 165715
+    title: >-
+        What is unicast addressing and in what scenarios is it typically used?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
+    url: /learn/computer-science/questions/what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
 related_article3:
-    id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+    id: 165711
+    title: >-
+        Explain the concept of a subnet prefix and its notation in dotted decimal format.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
+    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
 related_article4:
-    id: 165721
-    title: What is the role of the network portion in hierarchical IP addressing?
+    id: 165711
+    title: >-
+        Explain the concept of a subnet prefix and its notation in dotted decimal format.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
+    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
 related_article5:
-    id: 165721
-    title: What is the role of the network portion in hierarchical IP addressing?
+    id: 165712
+    title: >-
+        What is a network address and how is it represented when the host portion is all 0s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
+    url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
 ---
 
 &nbsp;

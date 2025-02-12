@@ -2,8 +2,10 @@
 _schema: default
 id: 167485
 date: 2025-01-31
-title: What components contribute to the final grade in this course?
-article_title: What components contribute to the final grade in this course?
+title: >-
+    What components contribute to the final grade in this course?
+article_title: >-
+    What components contribute to the final grade in this course?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-components-contribute-to-the-final-grade-in-this-course.md
 url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
 score: -1.0
 related_article1:
-    id: 167470
-    title: What are the main cellular processes essential for life?
+    id: 167481
+    title: >-
+        How can students access and navigate online textbooks effectively?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-cellular-processes-essential-for-life
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
 related_article2:
-    id: 167495
-    title: How can interactive learning tools be implemented in courses effectively?
+    id: 167473
+    title: >-
+        What are the typical pre-medical coursework requirements for medical school?
     subject: Biology
-    url: /learn/biology/questions/how-can-interactive-learning-tools-be-implemented-in-courses-effectively
+    url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
 related_article3:
-    id: 167482
-    title: What are the cost and availability options for online textbooks?
+    id: 167483
+    title: >-
+        What is the focus and content of lecture exams in this course?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
+    url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
 related_article4:
-    id: 167468
-    title: How does biology apply to everyday life?
+    id: 167481
+    title: >-
+        How can students access and navigate online textbooks effectively?
     subject: Biology
-    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
+    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
 related_article5:
-    id: 167470
-    title: What are the main cellular processes essential for life?
+    id: 167467
+    title: >-
+        What are the key characteristics that define life in biology?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-cellular-processes-essential-for-life
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
 ---
 
 &nbsp;

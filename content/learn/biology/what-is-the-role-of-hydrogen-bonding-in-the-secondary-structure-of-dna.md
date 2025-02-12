@@ -2,8 +2,10 @@
 _schema: default
 id: 167328
 date: 2025-01-31
-title: What is the role of hydrogen bonding in the secondary structure of DNA?
-article_title: What is the role of hydrogen bonding in the secondary structure of DNA?
+title: >-
+    What is the role of hydrogen bonding in the secondary structure of DNA?
+article_title: >-
+    What is the role of hydrogen bonding in the secondary structure of DNA?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dn
 url: /learn/biology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 score: -1.0
 related_article1:
-    id: 167339
-    title: What is the primary biological function of nucleic acids?
+    id: 167333
+    title: >-
+        What is the structural difference between saturated and unsaturated fatty acids?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
+    url: /learn/biology/questions/what-is-the-structural-difference-between-saturated-and-unsaturated-fatty-acids
 related_article2:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
+    id: 167337
+    title: >-
+        What is the four-ring structure of steroids and their role in biological membranes?
     subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+    url: /learn/biology/questions/what-is-the-fourring-structure-of-steroids-and-their-role-in-biological-membranes
 related_article3:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
+    id: 167324
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+    url: /learn/biology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article4:
+    id: 167331
+    title: >-
+        How do the nitrogenous bases differ between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
+related_article5:
     id: 167332
-    title: Compare the structural differences between DNA and RNA.
+    title: >-
+        Compare the structural differences between DNA and RNA.
     subject: Biology
     url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
-related_article5:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
 ---
 
 &nbsp;

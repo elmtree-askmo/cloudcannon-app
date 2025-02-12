@@ -2,8 +2,10 @@
 _schema: default
 id: 165309
 date: 2025-01-28
-title: What is the role of phylogenetic analysis in understanding evolutionary history?
-article_title: What is the role of phylogenetic analysis in understanding evolutionary history?
+title: >-
+    What is the role of phylogenetic analysis in understanding evolutionary history?
+article_title: >-
+    What is the role of phylogenetic analysis in understanding evolutionary history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutiona
 url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
 score: -1.0
 related_article1:
+    id: 165310
+    title: >-
+        How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+related_article2:
     id: 165302
-    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    title: >-
+        Explain the interaction between genetic factors and environmental influences on behavior.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
-related_article2:
-    id: 165299
-    title: Identify and describe the sources of genetic variation.
-    subject: Psychology
-    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 related_article3:
-    id: 165287
-    title: What is the definition of animal behavior and why is it important to study?
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
 related_article4:
-    id: 165311
-    title: What is the influence of hormones on animal behavior?
+    id: 165294
+    title: >-
+        Describe the process of cultural transmission in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 related_article5:
-    id: 165312
-    title: Describe the process of ontogeny and its role in the development of behavior.
+    id: 165313
+    title: >-
+        How do early experiences influence the development of behavior in animals?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
+    url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
 ---
 
 &nbsp;

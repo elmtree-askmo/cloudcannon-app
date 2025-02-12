@@ -2,8 +2,10 @@
 _schema: default
 id: 169133
 date: 2025-02-04
-title: What is the function of prosthesis in architecture, and how does it relate to historical narratives?
-article_title: What is the function of prosthesis in architecture, and how does it relate to historical narratives?
+title: >-
+    What is the function of prosthesis in architecture, and how does it relate to historical narratives?
+article_title: >-
+    What is the function of prosthesis in architecture, and how does it relate to historical narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-re
 url: /learn/others/questions/what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-relate-to-historical-narratives
 score: -1.0
 related_article1:
-    id: 169126
-    title: What were the key architectural features of Modernist Fascist-Colonial Architecture in Asmara?
+    id: 169135
+    title: >-
+        What does architectural demodernization entail in the context of decolonizing preservation?
     subject: Others
-    url: /learn/others/questions/what-were-the-key-architectural-features-of-modernist-fascistcolonial-architecture-in-asmara
+    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
 related_article2:
-    id: 169131
-    title: What are the challenges associated with the Eurocentric paradigm in preservation theory?
+    id: 169132
+    title: >-
+        How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-associated-with-the-eurocentric-paradigm-in-preservation-theory
+    url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
 related_article3:
-    id: 169128
-    title: What role did racial segregation play in the architectural and urban transformation of colonial geographies?
+    id: 169127
+    title: >-
+        How did the nomination of Asmara as a UNESCO World Heritage site address contradictory questions?
     subject: Others
-    url: /learn/others/questions/what-role-did-racial-segregation-play-in-the-architectural-and-urban-transformation-of-colonial-geographies
+    url: /learn/others/questions/how-did-the-nomination-of-asmara-as-a-unesco-world-heritage-site-address-contradictory-questions
 related_article4:
     id: 169128
-    title: What role did racial segregation play in the architectural and urban transformation of colonial geographies?
+    title: >-
+        What role did racial segregation play in the architectural and urban transformation of colonial geographies?
     subject: Others
     url: /learn/others/questions/what-role-did-racial-segregation-play-in-the-architectural-and-urban-transformation-of-colonial-geographies
 related_article5:
-    id: 169132
-    title: How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
+    id: 169134
+    title: >-
+        How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
     subject: Others
-    url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
+    url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
 ---
 
 &nbsp;

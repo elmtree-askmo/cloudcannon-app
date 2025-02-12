@@ -2,8 +2,10 @@
 _schema: default
 id: 161666
 date: 2025-01-24
-title: What is the purpose of data validation and how do range checks and type checks function?
-article_title: What is the purpose of data validation and how do range checks and type checks function?
+title: >-
+    What is the purpose of data validation and how do range checks and type checks function?
+article_title: >-
+    What is the purpose of data validation and how do range checks and type checks function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-ty
 url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
 score: -1.0
 related_article1:
-    id: 161679
-    title: What are the main components of an information system and how do they interact?
+    id: 161674
+    title: >-
+        What is the difference between a hash total and a control total in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
 related_article2:
-    id: 161695
-    title: What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
-related_article3:
-    id: 161702
-    title: What is a checksum, and how do algorithms and protocols use it for error detection?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-checksum-and-how-do-algorithms-and-protocols-use-it-for-error-detection
-related_article4:
-    id: 161427
-    title: What is the difference between data and information, and why is raw data considered meaningless?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
-related_article5:
     id: 161691
-    title: Why is the level of detail important in information, and what factors can affect it?
+    title: >-
+        Why is the level of detail important in information, and what factors can affect it?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-the-level-of-detail-important-in-information-and-what-factors-can-affect-it
+related_article3:
+    id: 161428
+    title: >-
+        How does context contribute to transforming data into useful information?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-context-contribute-to-transforming-data-into-useful-information
+related_article4:
+    id: 161509
+    title: >-
+        What is data logging and what are some common methods and tools used for it?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-data-logging-and-what-are-some-common-methods-and-tools-used-for-it
+related_article5:
+    id: 161511
+    title: >-
+        What are the main components of an information system and how do they interact?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 ---
 
 &nbsp;

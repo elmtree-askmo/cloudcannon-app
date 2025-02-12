@@ -2,8 +2,10 @@
 _schema: default
 id: 163679
 date: 2025-01-27
-title: What are the main characteristics of quantitative research methodologies?
-article_title: What are the main characteristics of quantitative research methodologies?
+title: >-
+    What are the main characteristics of quantitative research methodologies?
+article_title: >-
+    What are the main characteristics of quantitative research methodologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-of-quantitative-research-methodolog
 url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
 score: -1.0
 related_article1:
+    id: 163678
+    title: >-
+        How does inductive reasoning play a role in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
+related_article2:
+    id: 163680
+    title: >-
+        How is deductive reasoning used in quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
+related_article3:
     id: 163674
-    title: How does positivism differ from social constructivism in terms of ontology?
+    title: >-
+        How does positivism differ from social constructivism in terms of ontology?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
-related_article2:
-    id: 163696
-    title: How does positivism influence quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
-related_article3:
-    id: 163686
-    title: How is statistical analysis used in quantitative data analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
 related_article4:
-    id: 163689
-    title: What is the process of inductive reasoning, and how is it applied in qualitative research?
+    id: 163675
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 related_article5:
-    id: 163685
-    title: What is the process of coding and thematic analysis in qualitative data analysis?
+    id: 163693
+    title: >-
+        What is holism, and why is it important in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
 ---
 
 &nbsp;

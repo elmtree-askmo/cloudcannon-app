@@ -2,8 +2,10 @@
 _schema: default
 id: 166168
 date: 2025-01-29
-title: What are the main types of research methodologies used in scientific inquiry?
-article_title: What are the main types of research methodologies used in scientific inquiry?
+title: >-
+    What are the main types of research methodologies used in scientific inquiry?
+article_title: >-
+    What are the main types of research methodologies used in scientific inquiry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-research-methodologies-used-in-scientific-
 url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 score: -1.0
 related_article1:
+    id: 166164
+    title: >-
+        What are the key areas of study in environmental science?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
+related_article2:
+    id: 166166
+    title: >-
+        How do models help in predicting environmental changes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-models-help-in-predicting-environmental-changes
+related_article3:
+    id: 166164
+    title: >-
+        What are the key areas of study in environmental science?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
+related_article4:
+    id: 166169
+    title: >-
+        How does science contribute to addressing environmental issues like climate change?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-science-contribute-to-addressing-environmental-issues-like-climate-change
+related_article5:
     id: 166162
-    title: Why is replication crucial for ensuring consistency in scientific experiments?
+    title: >-
+        Why is replication crucial for ensuring consistency in scientific experiments?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-consistency-in-scientific-experiments
-related_article2:
-    id: 166154
-    title: How do sensory observations contribute to hypothesis formation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-sensory-observations-contribute-to-hypothesis-formation
-related_article3:
-    id: 166161
-    title: What is the peer review process and why is it important in scientific research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
-related_article4:
-    id: 166161
-    title: What is the peer review process and why is it important in scientific research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
-related_article5:
-    id: 166167
-    title: What is the purpose of a meta-analysis in scientific research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-a-metaanalysis-in-scientific-research
 ---
 
 &nbsp;

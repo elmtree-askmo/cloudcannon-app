@@ -2,8 +2,10 @@
 _schema: default
 id: 163029
 date: 2025-01-26
-title: Why is empirical support crucial for the validity of psychological theories?
-article_title: Why is empirical support crucial for the validity of psychological theories?
+title: >-
+    Why is empirical support crucial for the validity of psychological theories?
+article_title: >-
+    Why is empirical support crucial for the validity of psychological theories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-empirical-support-crucial-for-the-validity-of-psychological-th
 url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
 score: -1.0
 related_article1:
-    id: 163035
-    title: How can transference and countertransference impact the therapeutic process?
+    id: 163040
+    title: >-
+        How does the integration of therapeutic approaches enhance treatment effectiveness?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
+    url: /learn/psychology/questions/how-does-the-integration-of-therapeutic-approaches-enhance-treatment-effectiveness
 related_article2:
-    id: 163041
-    title: Why is past behavior considered a strong predictor of future behavior in therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
-related_article3:
-    id: 163041
-    title: Why is past behavior considered a strong predictor of future behavior in therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
-related_article4:
     id: 163032
-    title: Why is multicultural competence important in counseling?
+    title: >-
+        Why is multicultural competence important in counseling?
     subject: Psychology
     url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
-related_article5:
-    id: 163026
-    title: What are the key components of a conceptual framework in therapy?
+related_article3:
+    id: 163031
+    title: >-
+        How should therapists manage dual relationships to maintain ethical standards?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+related_article4:
+    id: 163037
+    title: >-
+        How do client demographics and background influence therapeutic outcomes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-client-demographics-and-background-influence-therapeutic-outcomes
+related_article5:
+    id: 163031
+    title: >-
+        How should therapists manage dual relationships to maintain ethical standards?
+    subject: Psychology
+    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
 ---
 
 &nbsp;

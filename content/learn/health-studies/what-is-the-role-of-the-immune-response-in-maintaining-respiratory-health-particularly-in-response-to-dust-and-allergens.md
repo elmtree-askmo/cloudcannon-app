@@ -2,8 +2,10 @@
 _schema: default
 id: 168792
 date: 2025-02-04
-title: What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
-article_title: What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
+title: >-
+    What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
+article_title: >-
+    What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-immune-response-in-maintaining-respiratory-he
 url: /learn/health-studies/questions/what-is-the-role-of-the-immune-response-in-maintaining-respiratory-health-particularly-in-response-to-dust-and-allergens
 score: -1.0
 related_article1:
-    id: 168784
-    title: How does the thickness of the diffusion membrane affect gas exchange in the lungs?
+    id: 168795
+    title: >-
+        Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-thickness-of-the-diffusion-membrane-affect-gas-exchange-in-the-lungs
+    url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
 related_article2:
+    id: 168786
+    title: >-
+        What are the primary causes and modes of transmission for Tuberculosis (TB)?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-causes-and-modes-of-transmission-for-tuberculosis-tb
+related_article3:
+    id: 168787
+    title: >-
+        Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    subject: Health Studies
+    url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
+related_article4:
     id: 168793
-    title: Discuss the causes and symptoms of emphysema and its effects on the alveoli.
+    title: >-
+        Discuss the causes and symptoms of emphysema and its effects on the alveoli.
     subject: Health Studies
     url: /learn/health-studies/questions/discuss-the-causes-and-symptoms-of-emphysema-and-its-effects-on-the-alveoli
-related_article3:
-    id: 168794
-    title: What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-factors-affect-the-ventilation-rate-and-how-do-respiratory-conditions-influence-oxygen-intake-and-tidal-volume
-related_article4:
-    id: 168796
-    title: What is the role of mucus production in the respiratory system and how does overproduction affect individuals with asthma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-mucus-production-in-the-respiratory-system-and-how-does-overproduction-affect-individuals-with-asthma
 related_article5:
-    id: 168794
-    title: What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
+    id: 168793
+    title: >-
+        Discuss the causes and symptoms of emphysema and its effects on the alveoli.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-factors-affect-the-ventilation-rate-and-how-do-respiratory-conditions-influence-oxygen-intake-and-tidal-volume
+    url: /learn/health-studies/questions/discuss-the-causes-and-symptoms-of-emphysema-and-its-effects-on-the-alveoli
 ---
 
 &nbsp;

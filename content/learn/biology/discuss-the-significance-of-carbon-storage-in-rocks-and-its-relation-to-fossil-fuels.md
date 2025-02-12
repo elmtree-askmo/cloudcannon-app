@@ -2,8 +2,10 @@
 _schema: default
 id: 170434
 date: 2025-02-06
-title: Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
-article_title: Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
+title: >-
+    Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
+article_title: >-
+    Discuss the significance of carbon storage in rocks and its relation to fossil fuels.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-
 url: /learn/biology/questions/discuss-the-significance-of-carbon-storage-in-rocks-and-its-relation-to-fossil-fuels
 score: -1.0
 related_article1:
-    id: 170436
-    title: Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
     subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
 related_article2:
-    id: 170433
-    title: How do marine organisms contribute to carbon storage in the ocean?
+    id: 170424
+    title: >-
+        What are carbon sinks, and how do they function within the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+    url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
 related_article3:
-    id: 170428
-    title: List the main types of greenhouse gases and describe their sources.
+    id: 170435
+    title: >-
+        What geological processes are involved in carbon storage within sediments?
     subject: Biology
-    url: /learn/biology/questions/list-the-main-types-of-greenhouse-gases-and-describe-their-sources
+    url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
 related_article4:
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+related_article5:
     id: 170421
-    title: What are the main natural and human-induced processes that release carbon into the atmosphere?
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
-related_article5:
-    id: 170437
-    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
-    subject: Biology
-    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
 ---
 
 &nbsp;

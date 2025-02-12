@@ -2,8 +2,10 @@
 _schema: default
 id: 162264
 date: 2025-01-25
-title: What are the key components to consider when analyzing nutrition articles, particularly regarding health benefits and dietary guidelines?
-article_title: What are the key components to consider when analyzing nutrition articles, particularly regarding health benefits and dietary guidelines?
+title: >-
+    What are the key components to consider when analyzing nutrition articles, particularly regarding health benefits and dietary guidelines?
+article_title: >-
+    What are the key components to consider when analyzing nutrition articles, particularly regarding health benefits and dietary guidelines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-to-consider-when-analyzing-nutrition-arti
 url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-analyzing-nutrition-articles-particularly-regarding-health-benefits-and-dietary-guidelines
 score: -1.0
 related_article1:
+    id: 162574
+    title: >-
+        What criteria should be used to evaluate an author's credibility and the quality of evidence in a text?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-criteria-should-be-used-to-evaluate-an-authors-credibility-and-the-quality-of-evidence-in-a-text
+related_article2:
     id: 162561
-    title: How can you evaluate the credibility and relevance of evidence presented in a text?
+    title: >-
+        How can you evaluate the credibility and relevance of evidence presented in a text?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
-related_article2:
-    id: 162556
-    title: Why is understanding the author's purpose important when analyzing a text?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-understanding-the-authors-purpose-important-when-analyzing-a-text
 related_article3:
-    id: 162256
-    title: What questions can help identify an author's point of view in a text?
+    id: 162562
+    title: >-
+        What are the characteristics of cause-and-effect and compare-and-contrast text structures?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
 related_article4:
-    id: 162265
-    title: How does the ecological footprint of a diet impact environmental sustainability?
+    id: 162555
+    title: >-
+        What are some key questions to ask when determining an author's purpose?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-impact-environmental-sustainability
+    url: /learn/education-studies/questions/what-are-some-key-questions-to-ask-when-determining-an-authors-purpose
 related_article5:
-    id: 162569
-    title: Why is variety important in a plant-based diet, and how can animal products be included?
+    id: 162562
+    title: >-
+        What are the characteristics of cause-and-effect and compare-and-contrast text structures?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-variety-important-in-a-plantbased-diet-and-how-can-animal-products-be-included
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
 ---
 
 &nbsp;

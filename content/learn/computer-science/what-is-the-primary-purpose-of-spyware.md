@@ -2,8 +2,10 @@
 _schema: default
 id: 161389
 date: 2025-01-24
-title: What is the primary purpose of spyware?
-article_title: What is the primary purpose of spyware?
+title: >-
+    What is the primary purpose of spyware?
+article_title: >-
+    What is the primary purpose of spyware?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-purpose-of-spyware.md
 url: /learn/computer-science/questions/what-is-the-primary-purpose-of-spyware
 score: -1.0
 related_article1:
-    id: 161392
-    title: How can individuals recognize and prevent pharming attempts?
+    id: 161253
+    title: >-
+        Why is it important to regularly update anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
+    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
 related_article2:
-    id: 161396
-    title: What are the benefits of using a personal VPN?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
-related_article3:
-    id: 161263
-    title: How do Virtual Private Networks (VPNs) enhance online privacy?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
-related_article4:
-    id: 161383
-    title: How can strong passwords help prevent identity theft?
+    id: 161251
+    title: >-
+        How can strong passwords help prevent identity theft?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
-related_article5:
-    id: 161381
-    title: What are some common methods used for pseudonymization?
+related_article3:
+    id: 161259
+    title: >-
+        What are some common methods used in phishing attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
+related_article4:
+    id: 161456
+    title: >-
+        What is online impersonation in the context of identity theft?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
+related_article5:
+    id: 161250
+    title: >-
+        What is online impersonation in the context of identity theft?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164525
 date: 2025-01-28
-title: How does the orbital cortex contribute to advanced emotional processing?
-article_title: How does the orbital cortex contribute to advanced emotional processing?
+title: >-
+    How does the orbital cortex contribute to advanced emotional processing?
+article_title: >-
+    How does the orbital cortex contribute to advanced emotional processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-orbital-cortex-contribute-to-advanced-emotional-processi
 url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
 score: -1.0
 related_article1:
+    id: 164535
+    title: >-
+        What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
+related_article2:
     id: 164523
-    title: What role does the amygdala play in processing core emotions?
+    title: >-
+        What role does the amygdala play in processing core emotions?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-amygdala-play-in-processing-core-emotions
-related_article2:
-    id: 164534
-    title: How does stress impact cognitive functions and mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
 related_article3:
+    id: 164542
+    title: >-
+        How are memory and learning affected by neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
+related_article4:
     id: 164541
-    title: What is brain plasticity, and how does it facilitate adaptation and learning?
+    title: >-
+        What is brain plasticity, and how does it facilitate adaptation and learning?
     subject: Psychology
     url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
-related_article4:
-    id: 164528
-    title: How are basic and advanced emotional processes differentiated in the brain?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
 related_article5:
-    id: 164527
-    title: What is the significance of the cingulate cortex in emotion monitoring?
+    id: 164536
+    title: >-
+        How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
 ---
 
 &nbsp;

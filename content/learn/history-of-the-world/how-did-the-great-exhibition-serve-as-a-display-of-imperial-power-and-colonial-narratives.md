@@ -2,8 +2,10 @@
 _schema: default
 id: 165925
 date: 2025-01-29
-title: How did the Great Exhibition serve as a display of imperial power and colonial narratives?
-article_title: How did the Great Exhibition serve as a display of imperial power and colonial narratives?
+title: >-
+    How did the Great Exhibition serve as a display of imperial power and colonial narratives?
+article_title: >-
+    How did the Great Exhibition serve as a display of imperial power and colonial narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and
 url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
 score: 9.0
 related_article1:
-    id: 165935
-    title: What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+    id: 165936
+    title: >-
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
+    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
 related_article2:
-    id: 165928
-    title: What influence did the 1844 Paris Industry Exposition have on future exhibitions?
+    id: 165931
+    title: >-
+        What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-influence-did-the-1844-paris-industry-exposition-have-on-future-exhibitions
+    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
 related_article3:
-    id: 165923
-    title: How did the Great Exhibition change public perception and influence future exhibitions?
+    id: 165926
+    title: >-
+        What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
+    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
 related_article4:
-    id: 165928
-    title: What influence did the 1844 Paris Industry Exposition have on future exhibitions?
+    id: 165922
+    title: >-
+        In what ways did the Great Exhibition influence global architectural trends?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-influence-did-the-1844-paris-industry-exposition-have-on-future-exhibitions
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
 related_article5:
-    id: 165938
-    title: How has the Fons Americanus been interpreted and critiqued by the public and critics?
+    id: 165922
+    title: >-
+        In what ways did the Great Exhibition influence global architectural trends?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
 ---
 
 &nbsp;

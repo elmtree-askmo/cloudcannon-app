@@ -2,8 +2,10 @@
 _schema: default
 id: 169091
 date: 2025-02-04
-title: How do swarming tactics enhance military tactics in urban environments?
-article_title: How do swarming tactics enhance military tactics in urban environments?
+title: >-
+    How do swarming tactics enhance military tactics in urban environments?
+article_title: >-
+    How do swarming tactics enhance military tactics in urban environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-milit
 score: 9.0
 related_article1:
     id: 169084
-    title: Explain the concept of 'walking through walls' in urban combat strategies.
+    title: >-
+        Explain the concept of 'walking through walls' in urban combat strategies.
     subject: History of the World
     url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
 related_article2:
-    id: 169085
-    title: What role does spatial reinterpretation play in urban combat strategies?
+    id: 169105
+    title: >-
+        What role do military research institutes play in addressing institutional conflicts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
 related_article3:
-    id: 169093
-    title: What are the characteristics of non-linear warfare in military tactics?
+    id: 169092
+    title: >-
+        In what ways does tactical innovation impact military tactics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
+    url: /learn/history-of-the-world/questions/in-what-ways-does-tactical-innovation-impact-military-tactics
 related_article4:
-    id: 169102
-    title: What are the ethical implications of warfare in military practice?
+    id: 169104
+    title: >-
+        What challenges do military training and education face in institutional conflicts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
+    url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
 related_article5:
     id: 169098
-    title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
+    title: >-
+        What are the primary strategies used in urban warfare to analyze urban infrastructure?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
 ---

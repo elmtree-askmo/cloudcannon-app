@@ -2,8 +2,10 @@
 _schema: default
 id: 170936
 date: 2025-02-07
-title: How are carbon dioxide and water produced as byproducts of respiration?
-article_title: How are carbon dioxide and water produced as byproducts of respiration?
+title: >-
+    How are carbon dioxide and water produced as byproducts of respiration?
+article_title: >-
+    How are carbon dioxide and water produced as byproducts of respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiratio
 url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
 score: -1.0
 related_article1:
+    id: 170934
+    title: >-
+        Outline the steps involved in glycolysis.
+    subject: Biology
+    url: /learn/biology/questions/outline-the-steps-involved-in-glycolysis
+related_article2:
+    id: 170930
+    title: >-
+        How is energy captured and stored in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-energy-captured-and-stored-in-cells
+related_article3:
+    id: 170937
+    title: >-
+        Explain the significance of the carbon cycle in ecosystems.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
+related_article4:
     id: 170928
-    title: Which organisms are capable of respiration?
+    title: >-
+        Which organisms are capable of respiration?
     subject: Biology
     url: /learn/biology/questions/which-organisms-are-capable-of-respiration
-related_article2:
-    id: 170938
-    title: What is the role of oxygen as an electron acceptor in respiration?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
-related_article3:
-    id: 170929
-    title: Explain the role of oxygen in the respiration process.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
-related_article4:
-    id: 170929
-    title: Explain the role of oxygen in the respiration process.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
 related_article5:
-    id: 170935
-    title: What is the role of the Krebs cycle in sugar breakdown?
+    id: 170932
+    title: >-
+        Differentiate between anabolic and catabolic pathways in cellular processes.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+    url: /learn/biology/questions/differentiate-between-anabolic-and-catabolic-pathways-in-cellular-processes
 ---
 
 &nbsp;

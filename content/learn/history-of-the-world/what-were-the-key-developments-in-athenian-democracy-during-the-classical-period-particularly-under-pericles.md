@@ -2,8 +2,10 @@
 _schema: default
 id: 163974
 date: 2025-01-28
-title: What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
-article_title: What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
+title: >-
+    What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
+article_title: >-
+    What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-developments-in-athenian-democracy-during-the-class
 url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
 score: 9.5
 related_article1:
-    id: 163971
-    title: How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
-related_article2:
-    id: 163964
-    title: Define dēmos and dēmokratia in the context of ancient Greek political systems.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/define-dmos-and-dmokratia-in-the-context-of-ancient-greek-political-systems
-related_article3:
-    id: 163971
-    title: How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
-related_article4:
-    id: 163970
-    title: Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
-related_article5:
     id: 163963
-    title: What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
+    title: >-
+        What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
+related_article2:
+    id: 163966
+    title: >-
+        Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
+related_article3:
+    id: 163964
+    title: >-
+        Define dēmos and dēmokratia in the context of ancient Greek political systems.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/define-dmos-and-dmokratia-in-the-context-of-ancient-greek-political-systems
+related_article4:
+    id: 163969
+    title: >-
+        What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
+related_article5:
+    id: 163967
+    title: >-
+        Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-concept-of-timocracy-as-introduced-by-solon-and-its-impact-on-athenian-society
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164631
 date: 2025-01-28
-title: What are the basic concepts of rhythm in music?
-article_title: What are the basic concepts of rhythm in music?
+title: >-
+    What are the basic concepts of rhythm in music?
+article_title: >-
+    What are the basic concepts of rhythm in music?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-basic-concepts-of-rhythm-in-music.md
 url: /learn/art-history-and-literature/questions/what-are-the-basic-concepts-of-rhythm-in-music
 score: 9.0
 related_article1:
-    id: 164616
-    title: How does language music play a role in communication?
+    id: 164619
+    title: >-
+        What is the difference between phonetics and phonology in the study of speech sounds?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-music-play-a-role-in-communication
+    url: /learn/art-history-and-literature/questions/what-is-the-difference-between-phonetics-and-phonology-in-the-study-of-speech-sounds
 related_article2:
-    id: 164616
-    title: How does language music play a role in communication?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-music-play-a-role-in-communication
-related_article3:
     id: 164624
-    title: What role does figurative language play in the semantic elements of song lyrics?
+    title: >-
+        What role does figurative language play in the semantic elements of song lyrics?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-does-figurative-language-play-in-the-semantic-elements-of-song-lyrics
+related_article3:
+    id: 164617
+    title: >-
+        What are the phonetic elements of language music?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
 related_article4:
-    id: 164616
-    title: How does language music play a role in communication?
+    id: 164618
+    title: >-
+        How do rhythmic patterns contribute to the structure of language music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-music-play-a-role-in-communication
+    url: /learn/art-history-and-literature/questions/how-do-rhythmic-patterns-contribute-to-the-structure-of-language-music
 related_article5:
-    id: 164625
-    title: What are the sources of acoustic energy in music?
+    id: 164624
+    title: >-
+        What role does figurative language play in the semantic elements of song lyrics?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-sources-of-acoustic-energy-in-music
+    url: /learn/art-history-and-literature/questions/what-role-does-figurative-language-play-in-the-semantic-elements-of-song-lyrics
 ---
 
 &nbsp;

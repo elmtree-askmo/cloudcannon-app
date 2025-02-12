@@ -2,8 +2,10 @@
 _schema: default
 id: 169876
 date: 2025-02-05
-title: In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
-article_title: In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
+title: >-
+    In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
+article_title: >-
+    In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-
 url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
 score: 9.0
 related_article1:
+    id: 169867
+    title: >-
+        Describe the significance of the Vindolanda Fort in understanding Roman military presence in Britain.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-the-vindolanda-fort-in-understanding-roman-military-presence-in-britain
+related_article2:
     id: 169878
-    title: What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
+    title: >-
+        What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal-warfare-against-the-romans
-related_article2:
+related_article3:
     id: 169870
-    title: What are the key characteristics of Iron Age settlements in Scotland based on archaeological evidence?
+    title: >-
+        What are the key characteristics of Iron Age settlements in Scotland based on archaeological evidence?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-iron-age-settlements-in-scotland-based-on-archaeological-evidence
-related_article3:
-    id: 169881
-    title: What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-tacitus-agricola-and-how-does-it-contribute-to-our-understanding-of-roman-britain
 related_article4:
-    id: 169864
-    title: What were the key objectives of Agricola's campaigns in Britain?
+    id: 169867
+    title: >-
+        Describe the significance of the Vindolanda Fort in understanding Roman military presence in Britain.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-agricolas-campaigns-in-britain
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-the-vindolanda-fort-in-understanding-roman-military-presence-in-britain
 related_article5:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+    id: 169879
+    title: >-
+        How did the Roman administration manage the provinces of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
+    url: /learn/history-of-the-world/questions/how-did-the-roman-administration-manage-the-provinces-of-roman-britain
 ---
 
 &nbsp;

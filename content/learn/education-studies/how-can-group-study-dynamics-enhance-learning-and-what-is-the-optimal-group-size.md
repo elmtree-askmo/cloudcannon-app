@@ -2,8 +2,10 @@
 _schema: default
 id: 165575
 date: 2025-01-29
-title: How can group study dynamics enhance learning, and what is the optimal group size?
-article_title: How can group study dynamics enhance learning, and what is the optimal group size?
+title: >-
+    How can group study dynamics enhance learning, and what is the optimal group size?
+article_title: >-
+    How can group study dynamics enhance learning, and what is the optimal group size?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-group-study-dynamics-enhance-learning-and-what-is-the-optimal
 url: /learn/education-studies/questions/how-can-group-study-dynamics-enhance-learning-and-what-is-the-optimal-group-size
 score: -1.0
 related_article1:
-    id: 165573
-    title: What are some challenges associated with passive learning?
+    id: 165572
+    title: >-
+        How does information organization contribute to active learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-challenges-associated-with-passive-learning
+    url: /learn/education-studies/questions/how-does-information-organization-contribute-to-active-learning
 related_article2:
-    id: 165571
-    title: What are the key differences between active and passive learning?
+    id: 165585
+    title: >-
+        How does spaced repetition enhance memorization, and what tools can be used to implement it?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-active-and-passive-learning
+    url: /learn/education-studies/questions/how-does-spaced-repetition-enhance-memorization-and-what-tools-can-be-used-to-implement-it
 related_article3:
     id: 165573
-    title: What are some challenges associated with passive learning?
+    title: >-
+        What are some challenges associated with passive learning?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-challenges-associated-with-passive-learning
 related_article4:
-    id: 165571
-    title: What are the key differences between active and passive learning?
+    id: 165592
+    title: >-
+        How do practice questions and application exercises reinforce information retention?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-active-and-passive-learning
+    url: /learn/education-studies/questions/how-do-practice-questions-and-application-exercises-reinforce-information-retention
 related_article5:
     id: 165590
-    title: What methods can be used to synthesize information effectively for study aids?
+    title: >-
+        What methods can be used to synthesize information effectively for study aids?
     subject: Education Studies
     url: /learn/education-studies/questions/what-methods-can-be-used-to-synthesize-information-effectively-for-study-aids
 ---

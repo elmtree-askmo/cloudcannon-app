@@ -2,8 +2,10 @@
 _schema: default
 id: 160383
 date: 2025-01-24
-title: What were the typical clothing and dining habits in Celtic daily life?
-article_title: What were the typical clothing and dining habits in Celtic daily life?
+title: >-
+    What were the typical clothing and dining habits in Celtic daily life?
+article_title: >-
+    What were the typical clothing and dining habits in Celtic daily life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-di
 score: 9.0
 related_article1:
     id: 160388
-    title: What were the key trading centers in Celtic trade networks?
+    title: >-
+        What were the key trading centers in Celtic trade networks?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
 related_article2:
-    id: 159924
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    id: 160390
+    title: >-
+        What were the geographic locations of major Celtic tribes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes
 related_article3:
-    id: 159908
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 159902
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 related_article4:
-    id: 159866
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 159907
+    title: >-
+        What are the main characteristics of Halstatt Culture's art and material goods?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
 related_article5:
-    id: 159873
-    title: How have Celtic languages influenced modern European languages?
+    id: 159892
+    title: >-
+        How did the Celts interact with Romans in notable conflicts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
+    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
 ---
 
 &nbsp;

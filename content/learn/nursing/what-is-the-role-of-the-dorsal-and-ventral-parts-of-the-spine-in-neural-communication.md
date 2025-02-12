@@ -2,8 +2,10 @@
 _schema: default
 id: 164810
 date: 2025-01-28
-title: What is the role of the dorsal and ventral parts of the spine in neural communication?
-article_title: What is the role of the dorsal and ventral parts of the spine in neural communication?
+title: >-
+    What is the role of the dorsal and ventral parts of the spine in neural communication?
+article_title: >-
+    What is the role of the dorsal and ventral parts of the spine in neural communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-o
 score: -1.0
 related_article1:
     id: 164801
-    title: How do temperature neurons contribute to sensory information processing?
+    title: >-
+        How do temperature neurons contribute to sensory information processing?
     subject: Nursing
     url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
 related_article2:
-    id: 164813
-    title: Describe the structure and function of brain ventricles.
+    id: 164808
+    title: >-
+        What is the significance of neuroanatomical terminology in studying the nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
 related_article3:
-    id: 164801
-    title: How do temperature neurons contribute to sensory information processing?
+    id: 164805
+    title: >-
+        Describe the process of neural processing in the brain.
     subject: Nursing
-    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
 related_article4:
-    id: 164799
-    title: How does myelin affect the speed of neural transmission?
+    id: 164800
+    title: >-
+        Explain the significance of neuron connections in neural communication.
     subject: Nursing
-    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
+    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
 related_article5:
-    id: 164814
-    title: How does cerebrospinal fluid contribute to neural nourishment?
+    id: 164802
+    title: >-
+        What is the role of pain perception in the nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
+    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
 ---
 
 &nbsp;

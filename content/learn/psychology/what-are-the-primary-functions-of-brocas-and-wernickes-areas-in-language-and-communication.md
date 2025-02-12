@@ -2,8 +2,10 @@
 _schema: default
 id: 164897
 date: 2025-01-28
-title: What are the primary functions of Broca's and Wernicke's areas in language and communication?
-article_title: What are the primary functions of Broca's and Wernicke's areas in language and communication?
+title: >-
+    What are the primary functions of Broca's and Wernicke's areas in language and communication?
+article_title: >-
+    What are the primary functions of Broca's and Wernicke's areas in language and communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-langu
 url: /learn/psychology/questions/what-are-the-primary-functions-of-brocas-and-wernickes-areas-in-language-and-communication
 score: -1.0
 related_article1:
-    id: 164895
-    title: How does the brain process auditory information differently in the left and right hemispheres?
+    id: 164885
+    title: >-
+        What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
+    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
 related_article2:
-    id: 164896
-    title: What factors influence the recovery of language impairments following brain damage?
+    id: 164886
+    title: >-
+        How does neuropsychology provide access to deep brain regions compared to TMS?
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-the-recovery-of-language-impairments-following-brain-damage
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
 related_article3:
+    id: 164886
+    title: >-
+        How does neuropsychology provide access to deep brain regions compared to TMS?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuropsychology-provide-access-to-deep-brain-regions-compared-to-tms
+related_article4:
     id: 164890
-    title: Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
+    title: >-
+        Why is temporal resolution important in EEG/ERP studies, and how does it compare to fMRI?
     subject: Psychology
     url: /learn/psychology/questions/why-is-temporal-resolution-important-in-eegerp-studies-and-how-does-it-compare-to-fmri
-related_article4:
-    id: 164895
-    title: How does the brain process auditory information differently in the left and right hemispheres?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
 related_article5:
-    id: 164894
-    title: Which brain regions are primarily involved in language processing, and what are their functions?
+    id: 164899
+    title: >-
+        How does anatomical MRI imaging contribute to understanding brain anatomy and disorders?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-language-processing-and-what-are-their-functions
+    url: /learn/psychology/questions/how-does-anatomical-mri-imaging-contribute-to-understanding-brain-anatomy-and-disorders
 ---
 
 &nbsp;

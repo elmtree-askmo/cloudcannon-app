@@ -2,8 +2,10 @@
 _schema: default
 id: 170310
 date: 2025-02-06
-title: How does the Golgi apparatus contribute to protein processing in animal cells?
-article_title: How does the Golgi apparatus contribute to protein processing in animal cells?
+title: >-
+    How does the Golgi apparatus contribute to protein processing in animal cells?
+article_title: >-
+    How does the Golgi apparatus contribute to protein processing in animal cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-golgi-apparatus-contribute-to-protein-processing-in-anim
 url: /learn/biotechnology/questions/how-does-the-golgi-apparatus-contribute-to-protein-processing-in-animal-cells
 score: -1.0
 related_article1:
-    id: 170325
-    title: What is the role of chlorophyll in photosynthesis?
+    id: 170309
+    title: >-
+        What is the primary function of the rough endoplasmic reticulum in animal cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
+    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-rough-endoplasmic-reticulum-in-animal-cells
 related_article2:
-    id: 170318
-    title: How does the electron transport chain contribute to ATP synthesis?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
-related_article3:
     id: 170323
-    title: Explain the role of photosynthesis in the carbon cycle.
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
     subject: Biotechnology
     url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
+related_article3:
+    id: 170324
+    title: >-
+        How does decomposition contribute to carbon release in the carbon cycle?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
 related_article4:
-    id: 170316
-    title: Outline the main steps of glycolysis in cellular respiration.
+    id: 170325
+    title: >-
+        What is the role of chlorophyll in photosynthesis?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
 related_article5:
-    id: 170312
-    title: Describe the function of mitochondria in animal cells.
+    id: 170323
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
+    url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
 ---
 
 &nbsp;

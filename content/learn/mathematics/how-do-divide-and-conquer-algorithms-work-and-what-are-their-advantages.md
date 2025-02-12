@@ -2,8 +2,10 @@
 _schema: default
 id: 170718
 date: 2025-02-06
-title: How do divide and conquer algorithms work, and what are their advantages?
-article_title: How do divide and conquer algorithms work, and what are their advantages?
+title: >-
+    How do divide and conquer algorithms work, and what are their advantages?
+article_title: >-
+    How do divide and conquer algorithms work, and what are their advantages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantag
 url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
 score: -1.0
 related_article1:
-    id: 170708
-    title: How does the inductive step in regular induction help in proving statements?
+    id: 170717
+    title: >-
+        What are the characteristics of recursive functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-recursive-functions
 related_article2:
-    id: 170710
-    title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
+    id: 170713
+    title: >-
+        Why is time complexity important in algorithm analysis?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
+    url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
 related_article3:
-    id: 170712
-    title: How can recursive thinking be applied to algorithm design?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
-related_article4:
     id: 170715
-    title: What are the key techniques for measuring the performance of an algorithm?
+    title: >-
+        What are the key techniques for measuring the performance of an algorithm?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
-related_article5:
-    id: 170720
-    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+related_article4:
+    id: 170721
+    title: >-
+        What are the advantages and disadvantages of using recursive solutions over iterative ones?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+related_article5:
+    id: 170710
+    title: >-
+        How is the inductive hypothesis used differently in strong induction compared to regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
 ---
 
 &nbsp;

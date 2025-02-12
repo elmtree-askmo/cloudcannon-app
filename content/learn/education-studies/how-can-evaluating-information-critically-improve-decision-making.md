@@ -2,8 +2,10 @@
 _schema: default
 id: 165494
 date: 2025-01-29
-title: How can evaluating information critically improve decision making?
-article_title: How can evaluating information critically improve decision making?
+title: >-
+    How can evaluating information critically improve decision making?
+article_title: >-
+    How can evaluating information critically improve decision making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-evaluating-information-critically-improve-decision-making.md
 url: /learn/education-studies/questions/how-can-evaluating-information-critically-improve-decision-making
 score: -1.0
 related_article1:
-    id: 165501
-    title: What are some reflective practices that can enhance learning?
+    id: 165503
+    title: >-
+        How can technology be leveraged to improve learning experiences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-reflective-practices-that-can-enhance-learning
+    url: /learn/education-studies/questions/how-can-technology-be-leveraged-to-improve-learning-experiences
 related_article2:
-    id: 165504
-    title: What approaches can be taken to promote lifelong learning?
+    id: 165493
+    title: >-
+        What are the key components of developing analytical skills for critical thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-approaches-can-be-taken-to-promote-lifelong-learning
+    url: /learn/education-studies/questions/what-are-the-key-components-of-developing-analytical-skills-for-critical-thinking
 related_article3:
-    id: 165475
-    title: What is higher order learning and why is it important?
+    id: 165496
+    title: >-
+        Why is it important to ask questions in the learning process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-higher-order-learning-and-why-is-it-important
+    url: /learn/education-studies/questions/why-is-it-important-to-ask-questions-in-the-learning-process
 related_article4:
-    id: 165475
-    title: What is higher order learning and why is it important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-higher-order-learning-and-why-is-it-important
-related_article5:
     id: 165481
-    title: How can comparing and contrasting information help in understanding the relationship between information?
+    title: >-
+        How can comparing and contrasting information help in understanding the relationship between information?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-comparing-and-contrasting-information-help-in-understanding-the-relationship-between-information
+related_article5:
+    id: 165484
+    title: >-
+        What are effective methods for testing and evaluating the practical use of information?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-effective-methods-for-testing-and-evaluating-the-practical-use-of-information
 ---
 
 &nbsp;

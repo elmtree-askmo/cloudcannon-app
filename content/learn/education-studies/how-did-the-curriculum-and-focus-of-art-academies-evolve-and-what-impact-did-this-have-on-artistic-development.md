@@ -2,8 +2,10 @@
 _schema: default
 id: 159791
 date: 2025-01-23
-title: How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
-article_title: How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
+title: >-
+    How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
+article_title: >-
+    How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-curriculum-and-focus-of-art-academies-evolve-and-what-imp
 url: /learn/education-studies/questions/how-did-the-curriculum-and-focus-of-art-academies-evolve-and-what-impact-did-this-have-on-artistic-development
 score: -1.0
 related_article1:
-    id: 159764
-    title: How did gender studies and colonialism influence the representation of gender and race in art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
-related_article2:
-    id: 159767
-    title: How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles-and-what-were-some-key-innovations
-related_article3:
     id: 159796
-    title: How did industrialization and modernization lead to changes in artistic techniques and styles?
+    title: >-
+        How did industrialization and modernization lead to changes in artistic techniques and styles?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles
+related_article2:
+    id: 159799
+    title: >-
+        How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
+related_article3:
+    id: 159766
+    title: >-
+        Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
 related_article4:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+    id: 159764
+    title: >-
+        How did gender studies and colonialism influence the representation of gender and race in art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
+    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
 related_article5:
-    id: 159767
-    title: How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
+    id: 159798
+    title: >-
+        Identify key movements and figures in 19th-century art history and discuss their influence on contemporary art.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles-and-what-were-some-key-innovations
+    url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-discuss-their-influence-on-contemporary-art
 ---
 
 &nbsp;

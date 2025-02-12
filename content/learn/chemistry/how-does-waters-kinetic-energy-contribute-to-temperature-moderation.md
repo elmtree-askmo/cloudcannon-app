@@ -2,8 +2,10 @@
 _schema: default
 id: 168317
 date: 2025-02-03
-title: How does water's kinetic energy contribute to temperature moderation?
-article_title: How does water's kinetic energy contribute to temperature moderation?
+title: >-
+    How does water's kinetic energy contribute to temperature moderation?
+article_title: >-
+    How does water's kinetic energy contribute to temperature moderation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-waters-kinetic-energy-contribute-to-temperature-moderation.m
 url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
 score: -1.0
 related_article1:
+    id: 168324
+    title: >-
+        What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
+related_article2:
     id: 168310
-    title: What are the three main subatomic particles in an atom and their respective charges?
+    title: >-
+        What are the three main subatomic particles in an atom and their respective charges?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
-related_article2:
-    id: 168323
-    title: How do triglycerides differ from phospholipids in terms of structure and function?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
 related_article3:
-    id: 168315
-    title: How do hydrogen bonds form between water molecules?
+    id: 168314
+    title: >-
+        What causes the polar nature of a water molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
+    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
 related_article4:
-    id: 168313
-    title: How does the unequal sharing of electrons in polar covalent bonds lead to partial charges?
+    id: 168324
+    title: >-
+        What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-unequal-sharing-of-electrons-in-polar-covalent-bonds-lead-to-partial-charges
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
 related_article5:
     id: 168316
-    title: What is the significance of water's ability to dissociate into ions?
+    title: >-
+        What is the significance of water's ability to dissociate into ions?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
 ---

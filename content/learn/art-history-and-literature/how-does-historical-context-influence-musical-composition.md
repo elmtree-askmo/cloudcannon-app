@@ -2,8 +2,10 @@
 _schema: default
 id: 164627
 date: 2025-01-28
-title: How does historical context influence musical composition?
-article_title: How does historical context influence musical composition?
+title: >-
+    How does historical context influence musical composition?
+article_title: >-
+    How does historical context influence musical composition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-historical-context-influence-musical-composition.md
 url: /learn/art-history-and-literature/questions/how-does-historical-context-influence-musical-composition
 score: 8.5
 related_article1:
-    id: 164619
-    title: What is the difference between phonetics and phonology in the study of speech sounds?
+    id: 164621
+    title: >-
+        How does cultural blending contribute to urban mixture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-difference-between-phonetics-and-phonology-in-the-study-of-speech-sounds
+    url: /learn/art-history-and-literature/questions/how-does-cultural-blending-contribute-to-urban-mixture
 related_article2:
     id: 164616
-    title: How does language music play a role in communication?
+    title: >-
+        How does language music play a role in communication?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-language-music-play-a-role-in-communication
 related_article3:
-    id: 164621
-    title: How does cultural blending contribute to urban mixture?
+    id: 164616
+    title: >-
+        How does language music play a role in communication?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-cultural-blending-contribute-to-urban-mixture
+    url: /learn/art-history-and-literature/questions/how-does-language-music-play-a-role-in-communication
 related_article4:
-    id: 164630
-    title: What is the role of harmony in music composition?
+    id: 164620
+    title: >-
+        What are the stages of speech sound development in children?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
+    url: /learn/art-history-and-literature/questions/what-are-the-stages-of-speech-sound-development-in-children
 related_article5:
-    id: 164615
-    title: What distinguishes language music from traditional music?
+    id: 164619
+    title: >-
+        What is the difference between phonetics and phonology in the study of speech sounds?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-distinguishes-language-music-from-traditional-music
+    url: /learn/art-history-and-literature/questions/what-is-the-difference-between-phonetics-and-phonology-in-the-study-of-speech-sounds
 ---
 
 &nbsp;

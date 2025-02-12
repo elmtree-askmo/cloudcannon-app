@@ -2,8 +2,10 @@
 _schema: default
 id: 162925
 date: 2025-01-26
-title: How does urban simulation contribute to urban analysis and geography?
-article_title: How does urban simulation contribute to urban analysis and geography?
+title: >-
+    How does urban simulation contribute to urban analysis and geography?
+article_title: >-
+    How does urban simulation contribute to urban analysis and geography?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/sociology/questions/how-does-urban-simulation-contribute-to-urban-an
 score: -1.0
 related_article1:
     id: 162918
-    title: What role do non-state actors play in the geostrategic power dynamics of urban areas?
+    title: >-
+        What role do non-state actors play in the geostrategic power dynamics of urban areas?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-nonstate-actors-play-in-the-geostrategic-power-dynamics-of-urban-areas
 related_article2:
-    id: 162923
-    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    id: 162917
+    title: >-
+        How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
 related_article3:
-    id: 162923
-    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    id: 162922
+    title: >-
+        What are the implications of violent non-state actors on urban combat training in informal megacities?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+    url: /learn/sociology/questions/what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities
 related_article4:
-    id: 162923
-    title: How do security protocols adapt to the challenges of urban density in urban warfare?
+    id: 162924
+    title: >-
+        What is the significance of spatial intelligence in volumetric warfare?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-security-protocols-adapt-to-the-challenges-of-urban-density-in-urban-warfare
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
 related_article5:
-    id: 162916
-    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    id: 162924
+    title: >-
+        What is the significance of spatial intelligence in volumetric warfare?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
 ---
 
 &nbsp;

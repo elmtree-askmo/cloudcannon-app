@@ -2,8 +2,10 @@
 _schema: default
 id: 165175
 date: 2025-01-28
-title: What is the role of measurement scales in research, and how do nominal and ordinal scales differ from interval and ratio scales?
-article_title: What is the role of measurement scales in research, and how do nominal and ordinal scales differ from interval and ratio scales?
+title: >-
+    What is the role of measurement scales in research, and how do nominal and ordinal scales differ from interval and ratio scales?
+article_title: >-
+    What is the role of measurement scales in research, and how do nominal and ordinal scales differ from interval and ratio scales?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-measurement-scales-in-research-and-how-do-nominal
 url: /learn/education-studies/questions/what-is-the-role-of-measurement-scales-in-research-and-how-do-nominal-and-ordinal-scales-differ-from-interval-and-ratio-scales
 score: -1.0
 related_article1:
+    id: 165172
+    title: >-
+        How do true experiments differ from quasi-experiments in terms of design and control?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
+related_article2:
+    id: 165183
+    title: >-
+        How is statistical significance determined, and why is it important for research conclusions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-statistical-significance-determined-and-why-is-it-important-for-research-conclusions
+related_article3:
     id: 165174
-    title: How can independent and dependent variables be identified and differentiated in an experiment?
+    title: >-
+        How can independent and dependent variables be identified and differentiated in an experiment?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-independent-and-dependent-variables-be-identified-and-differentiated-in-an-experiment
-related_article2:
-    id: 165178
-    title: How does natural selection contribute to the concept of 'survival of the fittest'?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-contribute-to-the-concept-of-survival-of-the-fittest
-related_article3:
-    id: 165182
-    title: Why is data visualization important in research, and what are some effective types of figures used to communicate data?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-research-and-what-are-some-effective-types-of-figures-used-to-communicate-data
 related_article4:
-    id: 165182
-    title: Why is data visualization important in research, and what are some effective types of figures used to communicate data?
+    id: 165174
+    title: >-
+        How can independent and dependent variables be identified and differentiated in an experiment?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-research-and-what-are-some-effective-types-of-figures-used-to-communicate-data
+    url: /learn/education-studies/questions/how-can-independent-and-dependent-variables-be-identified-and-differentiated-in-an-experiment
 related_article5:
-    id: 165169
-    title: What are the key components of a scientific article, and how do they contribute to the overall structure?
+    id: 165173
+    title: >-
+        What are operational definitions, and why are they crucial in experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
+    url: /learn/education-studies/questions/what-are-operational-definitions-and-why-are-they-crucial-in-experimental-design
 ---
 
 &nbsp;

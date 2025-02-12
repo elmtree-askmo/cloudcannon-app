@@ -2,8 +2,10 @@
 _schema: default
 id: 159838
 date: 2025-01-23
-title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
-article_title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+title: >-
+    How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+article_title: >-
+    How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-early-photography-change-perceptions-and-representations-in-a
 url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
 score: 9.0
 related_article1:
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
+related_article2:
+    id: 160108
+    title: >-
+        In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
+related_article3:
+    id: 159852
+    title: >-
+        What were the distinctive characteristics and developments of American and Eastern European modernities in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
+related_article4:
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+related_article5:
     id: 160109
-    title: What were the origins and key developments of Cubism, and how did it impact modern art?
+    title: >-
+        What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
-related_article2:
-    id: 159837
-    title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
-related_article3:
-    id: 159844
-    title: How did technological advances influence the depiction of modern life in art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
-related_article4:
-    id: 160106
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
-related_article5:
-    id: 159848
-    title: How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-european-colonisation-influence-african-artistic-practices-and-what-were-some-western-perceptions-and-misunderstandings
 ---
 
 &nbsp;

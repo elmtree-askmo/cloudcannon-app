@@ -2,8 +2,10 @@
 _schema: default
 id: 163384
 date: 2025-01-26
-title: What mechanisms can be used to promote social justice and equity for First Nations communities?
-article_title: What mechanisms can be used to promote social justice and equity for First Nations communities?
+title: >-
+    What mechanisms can be used to promote social justice and equity for First Nations communities?
+article_title: >-
+    What mechanisms can be used to promote social justice and equity for First Nations communities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-mechanisms-can-be-used-to-promote-social-justice-and-equity-for-
 url: /learn/health-studies/questions/what-mechanisms-can-be-used-to-promote-social-justice-and-equity-for-first-nations-communities
 score: -1.0
 related_article1:
-    id: 163376
-    title: How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
+    id: 163386
+    title: >-
+        Why is cultural integrity and identity important for the health and well-being of First Nations communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
+    url: /learn/health-studies/questions/why-is-cultural-integrity-and-identity-important-for-the-health-and-wellbeing-of-first-nations-communities
 related_article2:
-    id: 163376
-    title: How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
+    id: 163375
+    title: >-
+        In what ways does the Indigenous worldview emphasize interconnectedness with nature?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
+    url: /learn/health-studies/questions/in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedness-with-nature
 related_article3:
-    id: 163374
-    title: How does the Four Worlds Institute Model define well-being, and what are its guiding principles?
+    id: 163379
+    title: >-
+        Describe the components of the Medicine Wheel and their significance in the holistic health model.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-four-worlds-institute-model-define-wellbeing-and-what-are-its-guiding-principles
+    url: /learn/health-studies/questions/describe-the-components-of-the-medicine-wheel-and-their-significance-in-the-holistic-health-model
 related_article4:
-    id: 163382
-    title: What are the challenges and benefits of integrating traditional knowledge systems with public health services?
+    id: 163373
+    title: >-
+        What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-challenges-and-benefits-of-integrating-traditional-knowledge-systems-with-public-health-services
+    url: /learn/health-studies/questions/what-are-the-key-determinants-of-health-according-to-the-public-health-agency-of-canada-and-why-might-they-be-limited-for-first-nations
 related_article5:
     id: 163379
-    title: Describe the components of the Medicine Wheel and their significance in the holistic health model.
+    title: >-
+        Describe the components of the Medicine Wheel and their significance in the holistic health model.
     subject: Health Studies
     url: /learn/health-studies/questions/describe-the-components-of-the-medicine-wheel-and-their-significance-in-the-holistic-health-model
 ---

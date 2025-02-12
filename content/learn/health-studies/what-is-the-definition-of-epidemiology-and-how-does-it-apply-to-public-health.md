@@ -2,8 +2,10 @@
 _schema: default
 id: 163011
 date: 2025-01-26
-title: What is the definition of epidemiology and how does it apply to public health?
-article_title: What is the definition of epidemiology and how does it apply to public health?
+title: >-
+    What is the definition of epidemiology and how does it apply to public health?
+article_title: >-
+    What is the definition of epidemiology and how does it apply to public health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-definition-of-epidemiology-and-how-does-it-apply-to-publi
 url: /learn/health-studies/questions/what-is-the-definition-of-epidemiology-and-how-does-it-apply-to-public-health
 score: -1.0
 related_article1:
-    id: 163016
-    title: What are the steps involved in forming a hypothesis for an epidemiologic investigation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
-related_article2:
-    id: 162966
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
-related_article3:
     id: 162960
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    title: >-
+        How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+related_article2:
+    id: 162967
+    title: >-
+        How have key figures and milestones influenced the historical development of epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
+related_article3:
+    id: 162971
+    title: >-
+        How can the validity and causality of associations be evaluated in epidemiologic investigations?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
 related_article4:
-    id: 162973
-    title: What are the differences between primary and secondary data in epidemiologic research?
+    id: 163021
+    title: >-
+        What are the sources of random error in epidemiologic studies, and how can they be reduced?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
+    url: /learn/health-studies/questions/what-are-the-sources-of-random-error-in-epidemiologic-studies-and-how-can-they-be-reduced
 related_article5:
-    id: 163013
-    title: How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+    id: 162971
+    title: >-
+        How can the validity and causality of associations be evaluated in epidemiologic investigations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
+    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
 ---
 
 &nbsp;

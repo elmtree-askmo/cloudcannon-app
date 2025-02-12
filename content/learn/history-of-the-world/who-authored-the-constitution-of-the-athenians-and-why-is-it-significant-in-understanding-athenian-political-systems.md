@@ -2,8 +2,10 @@
 _schema: default
 id: 163966
 date: 2025-01-28
-title: Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
-article_title: Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+title: >-
+    Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+article_title: >-
+    Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-authored-the-constitution-of-the-athenians-and-why-is-it-signific
 url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
 score: 9.0
 related_article1:
-    id: 163968
-    title: How did Solon's reforms influence the eligibility for political office in Athens?
+    id: 163965
+    title: >-
+        What were the roles and selection methods of Athenian archons and generals?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-influence-the-eligibility-for-political-office-in-athens
+    url: /learn/history-of-the-world/questions/what-were-the-roles-and-selection-methods-of-athenian-archons-and-generals
 related_article2:
-    id: 163967
-    title: Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
+    id: 163964
+    title: >-
+        Define dēmos and dēmokratia in the context of ancient Greek political systems.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-concept-of-timocracy-as-introduced-by-solon-and-its-impact-on-athenian-society
+    url: /learn/history-of-the-world/questions/define-dmos-and-dmokratia-in-the-context-of-ancient-greek-political-systems
 related_article3:
-    id: 163970
-    title: Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
+    id: 163969
+    title: >-
+        What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
+    url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
 related_article4:
     id: 163965
-    title: What were the roles and selection methods of Athenian archons and generals?
+    title: >-
+        What were the roles and selection methods of Athenian archons and generals?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-roles-and-selection-methods-of-athenian-archons-and-generals
 related_article5:
-    id: 163968
-    title: How did Solon's reforms influence the eligibility for political office in Athens?
+    id: 163963
+    title: >-
+        What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-influence-the-eligibility-for-political-office-in-athens
+    url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
 ---
 
 &nbsp;

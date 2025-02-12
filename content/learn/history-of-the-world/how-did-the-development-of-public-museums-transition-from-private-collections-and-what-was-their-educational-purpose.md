@@ -2,8 +2,10 @@
 _schema: default
 id: 163984
 date: 2025-01-28
-title: How did the development of public museums transition from private collections, and what was their educational purpose?
-article_title: How did the development of public museums transition from private collections, and what was their educational purpose?
+title: >-
+    How did the development of public museums transition from private collections, and what was their educational purpose?
+article_title: >-
+    How did the development of public museums transition from private collections, and what was their educational purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-development-of-public-museums-transition-from-private-col
 url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
 score: 9.0
 related_article1:
+    id: 163986
+    title: >-
+        What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
+related_article2:
     id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
-related_article2:
+related_article3:
+    id: 163994
+    title: >-
+        What lasting impact did the Great Exhibition have on modern museums and cultural education?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
+related_article4:
+    id: 163980
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+related_article5:
     id: 163990
-    title: What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
+    title: >-
+        What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
-related_article3:
-    id: 163988
-    title: How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
-related_article4:
-    id: 163986
-    title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
-related_article5:
-    id: 163986
-    title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
 ---
 
 &nbsp;

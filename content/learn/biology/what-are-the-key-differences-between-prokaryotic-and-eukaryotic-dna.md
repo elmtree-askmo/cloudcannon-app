@@ -2,8 +2,10 @@
 _schema: default
 id: 167816
 date: 2025-02-01
-title: What are the key differences between prokaryotic and eukaryotic DNA?
-article_title: What are the key differences between prokaryotic and eukaryotic DNA?
+title: >-
+    What are the key differences between prokaryotic and eukaryotic DNA?
+article_title: >-
+    What are the key differences between prokaryotic and eukaryotic DNA?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna.m
 url: /learn/biology/questions/what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna
 score: -1.0
 related_article1:
-    id: 167812
-    title: What is the structure and composition of chromosomes?
+    id: 167825
+    title: >-
+        What are the main sources of genetic variation?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
 related_article2:
-    id: 167817
-    title: What is the central dogma of molecular biology?
+    id: 167830
+    title: >-
+        How can concept maps be used to organize genetic information?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
+    url: /learn/biology/questions/how-can-concept-maps-be-used-to-organize-genetic-information
 related_article3:
-    id: 167829
-    title: What role does cell division play in genetic transmission?
-    subject: Biology
-    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
-related_article4:
-    id: 167821
-    title: How do amino acids determine protein structure and function?
-    subject: Biology
-    url: /learn/biology/questions/how-do-amino-acids-determine-protein-structure-and-function
-related_article5:
     id: 167826
-    title: How do mutations contribute to evolutionary changes?
+    title: >-
+        How do mutations contribute to evolutionary changes?
     subject: Biology
     url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article4:
+    id: 167820
+    title: >-
+        What are the main differences between DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-differences-between-dna-and-rna
+related_article5:
+    id: 167811
+    title: >-
+        How do sister chromatids function during cell division?
+    subject: Biology
+    url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
 ---
 
 &nbsp;

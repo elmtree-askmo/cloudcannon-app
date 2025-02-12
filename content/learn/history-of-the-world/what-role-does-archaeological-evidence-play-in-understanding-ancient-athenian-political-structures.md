@@ -2,8 +2,10 @@
 _schema: default
 id: 166032
 date: 2025-01-29
-title: What role does archaeological evidence play in understanding ancient Athenian political structures?
-article_title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+title: >-
+    What role does archaeological evidence play in understanding ancient Athenian political structures?
+article_title: >-
+    What role does archaeological evidence play in understanding ancient Athenian political structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-archaeological-evidence-play-in-understanding-ancient-
 url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
 score: 9.5
 related_article1:
-    id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    id: 166023
+    title: >-
+        Who were the Archons, and what was their function in Athenian political institutions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
+    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
 related_article2:
-    id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    id: 166034
+    title: >-
+        What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
+    url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
 related_article3:
-    id: 166036
-    title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    id: 166024
+    title: >-
+        What was the purpose of the Council of 500 in the governance of Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
+    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
 related_article4:
-    id: 166037
-    title: What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+    id: 166019
+    title: >-
+        What is the myth of Synoikism, and how does it relate to the Attica region?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
+    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
 related_article5:
-    id: 166036
-    title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 ---
 
 &nbsp;

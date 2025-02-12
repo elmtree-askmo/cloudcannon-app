@@ -2,8 +2,10 @@
 _schema: default
 id: 169215
 date: 2025-02-04
-title: How does global urbanisation pose future challenges in the context of security and conflict studies?
-article_title: How does global urbanisation pose future challenges in the context of security and conflict studies?
+title: >-
+    How does global urbanisation pose future challenges in the context of security and conflict studies?
+article_title: >-
+    How does global urbanisation pose future challenges in the context of security and conflict studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-global-urbanisation-pose-future-challenges-in-the-context-of
 url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
 score: -1.0
 related_article1:
-    id: 169206
-    title: How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
-related_article2:
-    id: 169210
-    title: Discuss the role of anthropocentrism in the conceptual stakes of urbicide.
-    subject: Sociology
-    url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
-related_article3:
-    id: 169203
-    title: How does urbicide differ conceptually from other forms of destruction?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
-related_article4:
-    id: 169213
-    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
-related_article5:
     id: 169208
-    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+related_article2:
+    id: 169209
+    title: >-
+        How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
+related_article3:
+    id: 169214
+    title: >-
+        What are the ontopolitical claims related to ethnic nationalism and identity?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+related_article4:
+    id: 169212
+    title: >-
+        Why are Palestinian homes demolished for operational, administrative, and punitive reasons?
+    subject: Sociology
+    url: /learn/sociology/questions/why-are-palestinian-homes-demolished-for-operational-administrative-and-punitive-reasons
+related_article5:
+    id: 169209
+    title: >-
+        How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
 ---
 
 &nbsp;

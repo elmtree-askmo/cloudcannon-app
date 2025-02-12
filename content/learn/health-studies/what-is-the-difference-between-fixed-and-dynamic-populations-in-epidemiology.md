@@ -2,8 +2,10 @@
 _schema: default
 id: 163325
 date: 2025-01-26
-title: What is the difference between fixed and dynamic populations in epidemiology?
-article_title: What is the difference between fixed and dynamic populations in epidemiology?
+title: >-
+    What is the difference between fixed and dynamic populations in epidemiology?
+article_title: >-
+    What is the difference between fixed and dynamic populations in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-fixed-and-dynamic-populations-in-epide
 url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163234
-    title: How do prevalence and incidence differ in terms of existing and new cases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
-related_article2:
-    id: 163333
-    title: What are the critical assumptions when calculating cumulative incidence?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
-related_article3:
-    id: 163071
-    title: How do prevalence and incidence differ in terms of existing and new cases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
-related_article4:
-    id: 163287
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
-related_article5:
-    id: 163344
-    title: Why is the Population Attributable Proportion (PAR%) important for public health interventions?
+    id: 163243
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
     subject: Health Studies
     url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
+related_article2:
+    id: 163064
+    title: >-
+        What is the significance of measuring disease frequency over a consistent time interval?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
+related_article3:
+    id: 163061
+    title: >-
+        What is the difference between fixed and dynamic populations in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+related_article4:
+    id: 163234
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
+related_article5:
+    id: 163232
+    title: >-
+        What are the critical assumptions when calculating cumulative incidence?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
 ---
 
 &nbsp;

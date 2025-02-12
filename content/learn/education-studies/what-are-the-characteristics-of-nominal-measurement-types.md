@@ -2,8 +2,10 @@
 _schema: default
 id: 165099
 date: 2025-01-28
-title: What are the characteristics of nominal measurement types?
-article_title: What are the characteristics of nominal measurement types?
+title: >-
+    What are the characteristics of nominal measurement types?
+article_title: >-
+    What are the characteristics of nominal measurement types?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-nominal-measurement-types.md
 url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
 score: -1.0
 related_article1:
-    id: 165102
-    title: What are the key differences between between-subjects and within-subjects experimental designs?
+    id: 165111
+    title: >-
+        What is the difference between continuous and categorical variables?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
+    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 related_article2:
-    id: 165116
-    title: What are some common pitfalls in reporting experimental outcomes?
+    id: 165097
+    title: >-
+        What role do independent variables play in experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-pitfalls-in-reporting-experimental-outcomes
+    url: /learn/education-studies/questions/what-role-do-independent-variables-play-in-experiments
 related_article3:
-    id: 165100
-    title: Provide examples of ordinal measurement types and their characteristics.
+    id: 165098
+    title: >-
+        How can independent variables be manipulated to impact experimental outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
+    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
 related_article4:
-    id: 165103
-    title: Why is control and randomization important in experimental design?
+    id: 165121
+    title: >-
+        What are the key steps in the scientific methodology and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-control-and-randomization-important-in-experimental-design
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
 related_article5:
-    id: 165103
-    title: Why is control and randomization important in experimental design?
+    id: 165111
+    title: >-
+        What is the difference between continuous and categorical variables?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-control-and-randomization-important-in-experimental-design
+    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 ---
 
 &nbsp;

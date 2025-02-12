@@ -2,8 +2,10 @@
 _schema: default
 id: 162772
 date: 2025-01-25
-title: What are the primary components of neural networks in artificial intelligence?
-article_title: What are the primary components of neural networks in artificial intelligence?
+title: >-
+    What are the primary components of neural networks in artificial intelligence?
+article_title: >-
+    What are the primary components of neural networks in artificial intelligence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-components-of-neural-networks-in-artificial-inte
 url: /learn/others/questions/what-are-the-primary-components-of-neural-networks-in-artificial-intelligence
 score: -1.0
 related_article1:
-    id: 162849
-    title: How do Scrum and Kanban frameworks differ in Agile methodologies?
+    id: 162362
+    title: >-
+        How is hypothesis testing used in inferential statistics, and what are its applications?
     subject: Others
-    url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
+    url: /learn/others/questions/how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are-its-applications
 related_article2:
-    id: 162380
-    title: What are the key technologies and applications of augmented reality?
+    id: 162770
+    title: >-
+        What distinguishes supervised learning from unsupervised learning in machine learning?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-technologies-and-applications-of-augmented-reality
+    url: /learn/others/questions/what-distinguishes-supervised-learning-from-unsupervised-learning-in-machine-learning
 related_article3:
-    id: 162771
-    title: How do TensorFlow, Scikit-learn, and PyTorch support machine learning applications like image recognition?
+    id: 162425
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis techniques?
     subject: Others
-    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-support-machine-learning-applications-like-image-recognition
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis-techniques
 related_article4:
-    id: 162731
-    title: How do Scrum and Kanban differ as Agile frameworks?
+    id: 162667
+    title: >-
+        What are the components of an information system, and how do they interact?
     subject: Others
-    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-frameworks
+    url: /learn/others/questions/what-are-the-components-of-an-information-system-and-how-do-they-interact
 related_article5:
-    id: 162731
-    title: How do Scrum and Kanban differ as Agile frameworks?
+    id: 162836
+    title: >-
+        What are the challenges of overfitting and model validation in predictive modeling?
     subject: Others
-    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-frameworks
+    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
 ---
 
 &nbsp;

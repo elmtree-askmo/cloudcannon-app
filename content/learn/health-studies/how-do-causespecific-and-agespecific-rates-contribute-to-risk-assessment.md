@@ -2,8 +2,10 @@
 _schema: default
 id: 163079
 date: 2025-01-26
-title: How do cause-specific and age-specific rates contribute to risk assessment?
-article_title: How do cause-specific and age-specific rates contribute to risk assessment?
+title: >-
+    How do cause-specific and age-specific rates contribute to risk assessment?
+article_title: >-
+    How do cause-specific and age-specific rates contribute to risk assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-causespecific-and-agespecific-rates-contribute-to-risk-assessm
 url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-contribute-to-risk-assessment
 score: -1.0
 related_article1:
-    id: 163065
-    title: How is a ratio different from a proportion in epidemiological studies?
+    id: 163068
+    title: >-
+        How is prevalence calculated, and what does it indicate about a population?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
+    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
 related_article2:
-    id: 163340
-    title: What is the difference between absolute and relative measures of association?
+    id: 163332
+    title: >-
+        How is prevalence calculated, and what does it indicate about a population?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
+    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
 related_article3:
-    id: 163064
-    title: What is the significance of measuring disease frequency over a consistent time interval?
+    id: 163286
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
 related_article4:
-    id: 163225
-    title: How is the numerator used in measures of disease frequency determined?
+    id: 163327
+    title: >-
+        Why is the denominator important in measures of disease frequency, and how can it vary across populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
+    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
 related_article5:
-    id: 163225
-    title: How is the numerator used in measures of disease frequency determined?
+    id: 163236
+    title: >-
+        How is person-years of observation calculated, and why is it important in dynamic populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
+    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
 ---
 
 &nbsp;

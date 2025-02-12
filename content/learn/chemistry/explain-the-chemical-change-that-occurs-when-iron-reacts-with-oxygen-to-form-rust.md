@@ -2,8 +2,10 @@
 _schema: default
 id: 161972
 date: 2025-01-24
-title: Explain the chemical change that occurs when iron reacts with oxygen to form rust.
-article_title: Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+title: >-
+    Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+article_title: >-
+    Explain the chemical change that occurs when iron reacts with oxygen to form rust.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-
 url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
 score: -1.0
 related_article1:
-    id: 161939
-    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    id: 161762
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article2:
-    id: 161942
-    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    id: 161966
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 related_article3:
-    id: 162044
-    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    id: 161943
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article4:
-    id: 161946
-    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    id: 162026
+    title: >-
+        What is the importance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
 related_article5:
-    id: 161982
-    title: What are the effects of ionization on the state of matter?
+    id: 162035
+    title: >-
+        What are the effects of ionization on the state of matter?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
 ---

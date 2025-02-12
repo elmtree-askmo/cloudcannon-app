@@ -2,8 +2,10 @@
 _schema: default
 id: 166701
 date: 2025-01-31
-title: Explain the concept of torque and its importance in engineering.
-article_title: Explain the concept of torque and its importance in engineering.
+title: >-
+    Explain the concept of torque and its importance in engineering.
+article_title: >-
+    Explain the concept of torque and its importance in engineering.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-concept-of-torque-and-its-importance-in-engineering.md
 url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
 score: -1.0
 related_article1:
-    id: 166703
-    title: What are some engineering applications of torque?
+    id: 166695
+    title: >-
+        How are position vectors used in 3D vector analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+    url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
 related_article2:
-    id: 166696
-    title: What is the process of force decomposition in vector mathematics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
-related_article3:
     id: 166697
-    title: What assumptions are made in rigid body dynamics regarding stress and deformation?
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
-related_article4:
-    id: 166705
-    title: How is force analysis conducted in statics?
+related_article3:
+    id: 166699
+    title: >-
+        Define the moment of force and explain how it is calculated.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-force-analysis-conducted-in-statics
+    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
+related_article4:
+    id: 166697
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
 related_article5:
     id: 166706
-    title: Describe the principle of conservation of energy and its significance in engineering systems.
+    title: >-
+        Describe the principle of conservation of energy and its significance in engineering systems.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168870
 date: 2025-02-04
-title: What is lateral thinking and how can it be applied to problem-solving?
-article_title: What is lateral thinking and how can it be applied to problem-solving?
+title: >-
+    What is lateral thinking and how can it be applied to problem-solving?
+article_title: >-
+    What is lateral thinking and how can it be applied to problem-solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-lateral-thinking-and-how-can-it-be-applied-to-problemsolving.
 url: /learn/education-studies/questions/what-is-lateral-thinking-and-how-can-it-be-applied-to-problemsolving
 score: -1.0
 related_article1:
-    id: 168859
-    title: How can practicing with peers help in preparing for oral exams?
+    id: 168874
+    title: >-
+        In what ways can AI tools enhance writing skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-practicing-with-peers-help-in-preparing-for-oral-exams
+    url: /learn/education-studies/questions/in-what-ways-can-ai-tools-enhance-writing-skills
 related_article2:
-    id: 168864
-    title: What are the essential components of a well-structured essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-wellstructured-essay
-related_article3:
-    id: 168872
-    title: How can robust conclusions strengthen an academic argument?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-robust-conclusions-strengthen-an-academic-argument
-related_article4:
-    id: 168867
-    title: How does slow thinking benefit essay writing compared to fast thinking?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
-related_article5:
     id: 168875
-    title: How can effective introductions capture the reader's attention and set the tone for a piece of writing?
+    title: >-
+        How can effective introductions capture the reader's attention and set the tone for a piece of writing?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-effective-introductions-capture-the-readers-attention-and-set-the-tone-for-a-piece-of-writing
+related_article3:
+    id: 168867
+    title: >-
+        How does slow thinking benefit essay writing compared to fast thinking?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
+related_article4:
+    id: 168863
+    title: >-
+        How can clarity and thoughtfulness enhance effective communication?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-clarity-and-thoughtfulness-enhance-effective-communication
 ---
 
 &nbsp;

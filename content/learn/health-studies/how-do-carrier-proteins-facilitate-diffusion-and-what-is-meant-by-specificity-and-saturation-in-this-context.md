@@ -2,8 +2,10 @@
 _schema: default
 id: 168956
 date: 2025-02-04
-title: How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
-article_title: How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
+title: >-
+    How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
+article_title: >-
+    How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-spe
 url: /learn/health-studies/questions/how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-specificity-and-saturation-in-this-context
 score: -1.0
 related_article1:
-    id: 168959
-    title: What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
+    id: 168945
+    title: >-
+        How do polar and non-polar groups affect the solubility and interaction of biomolecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-is-it-necessary-for-cellular-function
+    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
 related_article2:
-    id: 168955
-    title: Define simple diffusion and provide examples of substances that move across membranes via this process.
+    id: 168946
+    title: >-
+        Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
     subject: Health Studies
-    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
+    url: /learn/health-studies/questions/explain-the-structurefunction-relationship-in-biomolecules-and-how-it-relates-to-their-levels-of-structure
 related_article3:
     id: 168957
-    title: What are ion channels, and how do they utilize electric chemical gradients to function?
+    title: >-
+        What are ion channels, and how do they utilize electric chemical gradients to function?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-ion-channels-and-how-do-they-utilize-electric-chemical-gradients-to-function
 related_article4:
+    id: 168957
+    title: >-
+        What are ion channels, and how do they utilize electric chemical gradients to function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-ion-channels-and-how-do-they-utilize-electric-chemical-gradients-to-function
+related_article5:
     id: 168948
-    title: Describe the structure and components of phospholipids and their role in membrane formation.
+    title: >-
+        Describe the structure and components of phospholipids and their role in membrane formation.
     subject: Health Studies
     url: /learn/health-studies/questions/describe-the-structure-and-components-of-phospholipids-and-their-role-in-membrane-formation
-related_article5:
-    id: 168952
-    title: How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-temperature-affect-membrane-fluidity-and-what-role-does-cholesterol-play-in-this-process
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166471
 date: 2025-01-30
-title: How does empiric treatment differ from definitive treatment in infection management?
-article_title: How does empiric treatment differ from definitive treatment in infection management?
+title: >-
+    How does empiric treatment differ from definitive treatment in infection management?
+article_title: >-
+    How does empiric treatment differ from definitive treatment in infection management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-empiric-treatment-differ-from-definitive-treatment-in-infect
 url: /learn/nursing/questions/how-does-empiric-treatment-differ-from-definitive-treatment-in-infection-management
 score: -1.0
 related_article1:
+    id: 166468
+    title: >-
+        What are the different types of drug interactions and their potential impacts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
+related_article2:
+    id: 166464
+    title: >-
+        What is the mechanism of action in pharmacodynamics?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
+related_article3:
+    id: 166466
+    title: >-
+        What are therapeutic uses and clinical applications in the context of drug indications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
+related_article4:
     id: 166462
-    title: What are the primary routes of drug excretion?
+    title: >-
+        What are the primary routes of drug excretion?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
-related_article2:
-    id: 166469
-    title: How do synergistic effects influence drug efficacy?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
-related_article3:
-    id: 166456
-    title: How does the blood-brain barrier affect drug distribution?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
-related_article4:
-    id: 166456
-    title: How does the blood-brain barrier affect drug distribution?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 related_article5:
-    id: 166459
-    title: How does protein binding affect drug distribution and efficacy?
+    id: 166470
+    title: >-
+        What is the role of prophylactic treatment in pharmacotherapeutics?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-protein-binding-affect-drug-distribution-and-efficacy
+    url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167628
 date: 2025-01-31
-title: How do higher and lower concentrations affect pH values?
-article_title: How do higher and lower concentrations affect pH values?
+title: >-
+    How do higher and lower concentrations affect pH values?
+article_title: >-
+    How do higher and lower concentrations affect pH values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-higher-and-lower-concentrations-affect-ph-values.md
 url: /learn/chemistry/questions/how-do-higher-and-lower-concentrations-affect-ph-values
 score: -1.0
 related_article1:
-    id: 167620
-    title: How does the role of hydrogen ions relate to proton nature and electron transfer in water?
+    id: 167625
+    title: >-
+        What is the pH scale and how is it calculated using a logarithmic scale?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-role-of-hydrogen-ions-relate-to-proton-nature-and-electron-transfer-in-water
+    url: /learn/chemistry/questions/what-is-the-ph-scale-and-how-is-it-calculated-using-a-logarithmic-scale
 related_article2:
-    id: 167631
-    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    id: 167632
+    title: >-
+        What impact does temperature have on the auto-ionization of water and pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+    url: /learn/chemistry/questions/what-impact-does-temperature-have-on-the-autoionization-of-water-and-ph
 related_article3:
+    id: 167627
+    title: >-
+        Why is the logarithmic scale important in understanding pH and concentration differences?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
+related_article4:
+    id: 167633
+    title: >-
+        What are the common isotopes of hydrogen and their role in auto-ionization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-their-role-in-autoionization
+related_article5:
     id: 167629
-    title: What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
+    title: >-
+        What are the characteristics of acidic solutions in terms of pH and hydrogen ion concentration?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-characteristics-of-acidic-solutions-in-terms-of-ph-and-hydrogen-ion-concentration
-related_article4:
-    id: 167621
-    title: Describe the formation of hydronium ions and their concentration in pure water.
-    subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-formation-of-hydronium-ions-and-their-concentration-in-pure-water
-related_article5:
-    id: 167622
-    title: Explain how hydroxide ions form and acquire a negative charge.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
 ---
 
 &nbsp;

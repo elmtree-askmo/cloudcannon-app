@@ -2,8 +2,10 @@
 _schema: default
 id: 166212
 date: 2025-01-29
-title: How is blood circulation regulated in the cardiovascular system?
-article_title: How is blood circulation regulated in the cardiovascular system?
+title: >-
+    How is blood circulation regulated in the cardiovascular system?
+article_title: >-
+    How is blood circulation regulated in the cardiovascular system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-blood-circulation-regulated-in-the-cardiovascular-system.md
 url: /learn/education-studies/questions/how-is-blood-circulation-regulated-in-the-cardiovascular-system
 score: -1.0
 related_article1:
+    id: 166207
+    title: >-
+        What are the differences between macronutrients and micronutrients in human nutrition?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-differences-between-macronutrients-and-micronutrients-in-human-nutrition
+related_article2:
+    id: 166189
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+related_article3:
+    id: 166206
+    title: >-
+        How do structural adaptations enhance an organism's survival in its environment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
+related_article4:
+    id: 166189
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+related_article5:
     id: 166190
-    title: Describe the structure of DNA and its role in genetic inheritance.
+    title: >-
+        Describe the structure of DNA and its role in genetic inheritance.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
-related_article2:
-    id: 166209
-    title: What are the key differences between sexual and asexual reproduction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
-related_article3:
-    id: 166202
-    title: How do human activities impact the environment and what are some conservation efforts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
-related_article4:
-    id: 166192
-    title: What is Mendelian genetics and how does it explain genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-mendelian-genetics-and-how-does-it-explain-genetic-variation
-related_article5:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
 ---
 
 &nbsp;

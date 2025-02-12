@@ -2,8 +2,10 @@
 _schema: default
 id: 166172
 date: 2025-01-29
-title: What are the main threats to brook trout habitats?
-article_title: What are the main threats to brook trout habitats?
+title: >-
+    What are the main threats to brook trout habitats?
+article_title: >-
+    What are the main threats to brook trout habitats?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-threats-to-brook-trout-habitats.md
 url: /learn/education-studies/questions/what-are-the-main-threats-to-brook-trout-habitats
 score: -1.0
 related_article1:
-    id: 166165
-    title: What are the advantages of using observational studies in environmental science?
+    id: 166162
+    title: >-
+        Why is replication crucial for ensuring consistency in scientific experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-observational-studies-in-environmental-science
+    url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-consistency-in-scientific-experiments
 related_article2:
-    id: 166163
-    title: How does long-term ecological research contribute to understanding climate change impacts?
+    id: 166153
+    title: >-
+        What is the purpose of the scientific method in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
+    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 related_article3:
-    id: 166159
-    title: What is the role of control groups in scientific experiments?
+    id: 166161
+    title: >-
+        What is the peer review process and why is it important in scientific research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-control-groups-in-scientific-experiments
+    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
 related_article4:
-    id: 166171
-    title: Why are aquatic ecosystems important for biodiversity?
+    id: 166167
+    title: >-
+        What is the purpose of a meta-analysis in scientific research?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-aquatic-ecosystems-important-for-biodiversity
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-metaanalysis-in-scientific-research
 related_article5:
-    id: 166164
-    title: What are the key areas of study in environmental science?
+    id: 166157
+    title: >-
+        What are the characteristics of a good hypothesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
 ---
 
 &nbsp;

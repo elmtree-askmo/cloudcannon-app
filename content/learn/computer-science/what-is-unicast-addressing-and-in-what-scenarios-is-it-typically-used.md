@@ -2,8 +2,10 @@
 _schema: default
 id: 165715
 date: 2025-01-29
-title: What is unicast addressing and in what scenarios is it typically used?
-article_title: What is unicast addressing and in what scenarios is it typically used?
+title: >-
+    What is unicast addressing and in what scenarios is it typically used?
+article_title: >-
+    What is unicast addressing and in what scenarios is it typically used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
 url: /learn/computer-science/questions/what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
 score: -1.0
 related_article1:
-    id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+    id: 165713
+    title: >-
+        How is a host address represented using a combination of 0s and 1s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
+    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
 related_article2:
-    id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+    id: 165707
+    title: >-
+        What are the steps involved in converting a decimal number to binary?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
 related_article3:
-    id: 165721
-    title: What is the role of the network portion in hierarchical IP addressing?
+    id: 165709
+    title: >-
+        How does a subnet mask help in identifying the network and host portions of an IPv4 address?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
+    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
 related_article4:
-    id: 165717
-    title: What is multicast addressing and how does it differ from unicast and broadcast addressing?
+    id: 165707
+    title: >-
+        What are the steps involved in converting a decimal number to binary?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
 related_article5:
-    id: 165705
-    title: Explain the significance of base 2 digits in the binary number system.
+    id: 165720
+    title: >-
+        How does hierarchical IP addressing facilitate subnetwork division?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
+    url: /learn/computer-science/questions/how-does-hierarchical-ip-addressing-facilitate-subnetwork-division
 ---
 
 &nbsp;

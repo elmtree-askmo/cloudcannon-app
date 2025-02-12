@@ -2,8 +2,10 @@
 _schema: default
 id: 168297
 date: 2025-02-03
-title: What is the structure of a polynomial, and how do you identify its terms and coefficients?
-article_title: What is the structure of a polynomial, and how do you identify its terms and coefficients?
+title: >-
+    What is the structure of a polynomial, and how do you identify its terms and coefficients?
+article_title: >-
+    What is the structure of a polynomial, and how do you identify its terms and coefficients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-ter
 url: /learn/mathematics/questions/what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients
 score: -1.0
 related_article1:
-    id: 168295
-    title: How do you apply the product of powers property to simplify expressions with exponents?
+    id: 168294
+    title: >-
+        What is the process for simplifying square roots, cube roots, and higher order roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
+    url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
 related_article2:
+    id: 168308
+    title: >-
+        Describe the techniques for rationalizing denominators in expressions with radicals.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+related_article3:
+    id: 168303
+    title: >-
+        Explain the rules for adding and subtracting exponents and provide an example of each.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
+related_article4:
     id: 168309
-    title: How do you combine like radicals to simplify complex expressions?
+    title: >-
+        How do you combine like radicals to simplify complex expressions?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
-related_article3:
-    id: 168299
-    title: What are the characteristics of prime numbers, and how can they be identified?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
-related_article4:
-    id: 168306
-    title: How do non-negative integers play a role in polynomial expressions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-nonnegative-integers-play-a-role-in-polynomial-expressions
 related_article5:
     id: 168295
-    title: How do you apply the product of powers property to simplify expressions with exponents?
+    title: >-
+        How do you apply the product of powers property to simplify expressions with exponents?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
 ---

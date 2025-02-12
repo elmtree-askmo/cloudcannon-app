@@ -2,8 +2,10 @@
 _schema: default
 id: 159804
 date: 2025-01-23
-title: In what ways did Post-Impressionism expand upon the ideas of Impressionism?
-article_title: In what ways did Post-Impressionism expand upon the ideas of Impressionism?
+title: >-
+    In what ways did Post-Impressionism expand upon the ideas of Impressionism?
+article_title: >-
+    In what ways did Post-Impressionism expand upon the ideas of Impressionism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-postimpressionism-expand-upon-the-ideas-of-impressio
 url: /learn/education-studies/questions/in-what-ways-did-postimpressionism-expand-upon-the-ideas-of-impressionism
 score: -1.0
 related_article1:
-    id: 159813
-    title: In what ways can art serve as a tool for social change?
+    id: 160023
+    title: >-
+        In what ways did the transition from traditional to modern art impact the role of salons and academies?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
+    url: /learn/education-studies/questions/in-what-ways-did-the-transition-from-traditional-to-modern-art-impact-the-role-of-salons-and-academies
 related_article2:
-    id: 160015
-    title: Describe the main characteristics of Realism as an artistic movement.
+    id: 159740
+    title: >-
+        Describe the key characteristics of Realism as an artistic movement.
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-main-characteristics-of-realism-as-an-artistic-movement
+    url: /learn/education-studies/questions/describe-the-key-characteristics-of-realism-as-an-artistic-movement
 related_article3:
-    id: 159750
-    title: What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
+    id: 159744
+    title: >-
+        In what ways did the transition from traditional to modern art manifest in the late 19th and early 20th centuries?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
+    url: /learn/education-studies/questions/in-what-ways-did-the-transition-from-traditional-to-modern-art-manifest-in-the-late-19th-and-early-20th-centuries
 related_article4:
-    id: 159816
-    title: How can contextual analysis enhance the understanding of an artwork's meaning?
+    id: 159810
+    title: >-
+        How did Expressionism represent emotions differently from previous art styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-contextual-analysis-enhance-the-understanding-of-an-artworks-meaning
+    url: /learn/education-studies/questions/how-did-expressionism-represent-emotions-differently-from-previous-art-styles
 related_article5:
-    id: 159745
-    title: What role did salons and academies play in the development of art history?
+    id: 159743
+    title: >-
+        How did the Industrial Revolution contribute to the evolution of visual culture?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
+    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
 ---
 
 &nbsp;

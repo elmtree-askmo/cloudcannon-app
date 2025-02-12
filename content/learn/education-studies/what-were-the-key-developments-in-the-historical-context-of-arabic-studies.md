@@ -2,8 +2,10 @@
 _schema: default
 id: 166213
 date: 2025-01-29
-title: What were the key developments in the historical context of Arabic studies?
-article_title: What were the key developments in the historical context of Arabic studies?
+title: >-
+    What were the key developments in the historical context of Arabic studies?
+article_title: >-
+    What were the key developments in the historical context of Arabic studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-developments-in-the-historical-context-of-arabic-st
 url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
 score: -1.0
 related_article1:
-    id: 166217
-    title: What are the fundamental components of machine learning, and how do they interact?
+    id: 166233
+    title: >-
+        How has historiography evolved from ancient to modern times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
+    url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
 related_article2:
-    id: 166221
-    title: How do different historical interpretation theories, such as positivism and postmodernism, approach the study of history?
+    id: 166236
+    title: >-
+        How do natural disasters like earthquakes and hurricanes affect human societies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-different-historical-interpretation-theories-such-as-positivism-and-postmodernism-approach-the-study-of-history
+    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
 related_article3:
-    id: 166217
-    title: What are the fundamental components of machine learning, and how do they interact?
+    id: 166236
+    title: >-
+        How do natural disasters like earthquakes and hurricanes affect human societies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
+    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
 related_article4:
-    id: 166219
-    title: What is the significance of primary sources in historical research?
+    id: 166239
+    title: >-
+        What are the challenges associated with the preservation and access of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-primary-sources-in-historical-research
+    url: /learn/history-of-the-world/questions/what-are-the-challenges-associated-with-the-preservation-and-access-of-historical-documents
 related_article5:
-    id: 166237
-    title: What are the main components involved in constructing historical narratives?
+    id: 166241
+    title: >-
+        What are the key developments in prehistory that led to the transition to recorded history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
+    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
 ---
 
 &nbsp;

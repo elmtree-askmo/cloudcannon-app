@@ -2,8 +2,10 @@
 _schema: default
 id: 169417
 date: 2025-02-05
-title: How have regional design projects in Japan influenced international design trends?
-article_title: How have regional design projects in Japan influenced international design trends?
+title: >-
+    How have regional design projects in Japan influenced international design trends?
+article_title: >-
+    How have regional design projects in Japan influenced international design trends?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-regional-design-projects-in-japan-influenced-international-d
 url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
 score: -1.0
 related_article1:
-    id: 169413
-    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    id: 169411
+    title: >-
+        What are the essential components of creating a brand through architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
 related_article2:
-    id: 169410
-    title: How can architecture serve as a community icon and contribute to community revitalization?
-    subject: Architecture
-    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
-related_article3:
     id: 169400
-    title: How does color integration enhance community engagement in architectural design?
+    title: >-
+        How does color integration enhance community engagement in architectural design?
     subject: Architecture
     url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
+related_article3:
+    id: 169405
+    title: >-
+        What role do natural elements play in modern interior design?
+    subject: Architecture
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
 related_article4:
-    id: 169412
-    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    id: 169414
+    title: >-
+        What are some key terms in interior design that are essential for understanding design concepts?
     subject: Architecture
-    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
 related_article5:
-    id: 169409
-    title: What are some innovations in modern architectural design that have emerged recently?
+    id: 169404
+    title: >-
+        How can the integration of interior and exterior spaces create depth and layers in architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
+    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
 ---
 
 &nbsp;

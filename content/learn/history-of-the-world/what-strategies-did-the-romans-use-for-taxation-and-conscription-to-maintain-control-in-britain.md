@@ -2,8 +2,10 @@
 _schema: default
 id: 169970
 date: 2025-02-05
-title: What strategies did the Romans use for taxation and conscription to maintain control in Britain?
-article_title: What strategies did the Romans use for taxation and conscription to maintain control in Britain?
+title: >-
+    What strategies did the Romans use for taxation and conscription to maintain control in Britain?
+article_title: >-
+    What strategies did the Romans use for taxation and conscription to maintain control in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-did-the-romans-use-for-taxation-and-conscription-to-m
 url: /learn/history-of-the-world/questions/what-strategies-did-the-romans-use-for-taxation-and-conscription-to-maintain-control-in-britain
 score: 8.5
 related_article1:
+    id: 169966
+    title: >-
+        What was the purpose of the Roman road network, and which were the major roads in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-roman-road-network-and-which-were-the-major-roads-in-britain
+related_article2:
+    id: 169969
+    title: >-
+        According to Tacitus, what were the British attitudes towards Roman taxation and conscription?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/according-to-tacitus-what-were-the-british-attitudes-towards-roman-taxation-and-conscription
+related_article3:
     id: 169968
-    title: What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
+    title: >-
+        What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-daily-life-and-military-operations-in-roman-britain
-related_article2:
-    id: 169965
-    title: In what ways did Roman architecture influence lifestyle and urban planning in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-architecture-influence-lifestyle-and-urban-planning-in-britain
-related_article3:
-    id: 169965
-    title: In what ways did Roman architecture influence lifestyle and urban planning in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-architecture-influence-lifestyle-and-urban-planning-in-britain
 related_article4:
-    id: 169972
-    title: What was the significance of Hadrian's Wall and Antonine Wall in terms of defense and Roman power?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-hadrians-wall-and-antonine-wall-in-terms-of-defense-and-roman-power
-related_article5:
     id: 169965
-    title: In what ways did Roman architecture influence lifestyle and urban planning in Britain?
+    title: >-
+        In what ways did Roman architecture influence lifestyle and urban planning in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/in-what-ways-did-roman-architecture-influence-lifestyle-and-urban-planning-in-britain
+related_article5:
+    id: 169968
+    title: >-
+        What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-daily-life-and-military-operations-in-roman-britain
 ---
 
 &nbsp;

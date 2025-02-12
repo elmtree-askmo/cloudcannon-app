@@ -2,8 +2,10 @@
 _schema: default
 id: 162330
 date: 2025-01-25
-title: What is the role of the center of rotation in a rotation transformation?
-article_title: What is the role of the center of rotation in a rotation transformation?
+title: >-
+    What is the role of the center of rotation in a rotation transformation?
+article_title: >-
+    What is the role of the center of rotation in a rotation transformation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformati
 url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
 score: -1.0
 related_article1:
-    id: 162312
-    title: What are the criteria for two figures to be considered congruent?
+    id: 162230
+    title: >-
+        How do you identify the vertices of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+    url: /learn/mathematics/questions/how-do-you-identify-the-vertices-of-a-geometric-figure
 related_article2:
-    id: 162331
-    title: Why is identifying vertices important in transformations?
+    id: 162326
+    title: >-
+        How can transformations impact the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
+    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
 related_article3:
-    id: 162225
-    title: What strategies can be used to match the orientation of two figures after a transformation?
+    id: 162224
+    title: >-
+        How does the center of rotation affect the outcome of a rotation transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
+    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
 related_article4:
-    id: 162228
-    title: How do you interpret changes in coordinates when a figure is translated?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
-related_article5:
     id: 162217
-    title: Why are rigid transformations important in determining congruence?
+    title: >-
+        Why are rigid transformations important in determining congruence?
     subject: Mathematics
     url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article5:
+    id: 162315
+    title: >-
+        How do rigid transformations affect the orientation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
 ---
 
 &nbsp;

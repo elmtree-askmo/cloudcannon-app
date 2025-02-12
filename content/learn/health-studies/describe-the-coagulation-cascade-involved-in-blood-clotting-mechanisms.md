@@ -2,8 +2,10 @@
 _schema: default
 id: 170566
 date: 2025-02-06
-title: Describe the coagulation cascade involved in blood clotting mechanisms.
-article_title: Describe the coagulation cascade involved in blood clotting mechanisms.
+title: >-
+    Describe the coagulation cascade involved in blood clotting mechanisms.
+article_title: >-
+    Describe the coagulation cascade involved in blood clotting mechanisms.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-coagulation-cascade-involved-in-blood-clotting-mechanism
 url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
 score: -1.0
 related_article1:
-    id: 170575
-    title: What is the role of calcium ions in muscle contraction mechanisms?
+    id: 170560
+    title: >-
+        What are the primary pathophysiological features of Parkinson's disease?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
+    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
 related_article2:
+    id: 170579
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
+related_article3:
+    id: 170550
+    title: >-
+        What mechanisms are involved in temperature regulation within the human body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
+related_article4:
     id: 170556
-    title: What is the role of the hypothalamus in the nervous system?
+    title: >-
+        What is the role of the hypothalamus in the nervous system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
-related_article3:
-    id: 170552
-    title: What is the pathophysiological mechanism of tetanus?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiological-mechanism-of-tetanus
-related_article4:
-    id: 170563
-    title: How does cognitive dissonance influence behavior according to psychological theories?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
 related_article5:
-    id: 170573
-    title: How does electron microscopy differ from light microscopy in imaging applications?
+    id: 170557
+    title: >-
+        How do steroids and opioids differ in their pharmacological effects?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-applications
+    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
 ---
 
 &nbsp;

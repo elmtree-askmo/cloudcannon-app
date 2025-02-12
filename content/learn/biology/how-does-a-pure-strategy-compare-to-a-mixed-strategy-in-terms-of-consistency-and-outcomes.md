@@ -2,8 +2,10 @@
 _schema: default
 id: 170801
 date: 2025-02-07
-title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
-article_title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+title: >-
+    How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+article_title: >-
+    How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-cons
 url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
 score: -1.0
 related_article1:
+    id: 170791
+    title: >-
+        How do pure and mixed strategies differ in the context of a paleo matrix?
+    subject: Biology
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
+related_article2:
     id: 170800
-    title: What are the characteristics of a pure strategy in evolutionary games?
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
     subject: Biology
     url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
-related_article2:
-    id: 170798
-    title: Define a mixed strategy and explain its characteristics in evolutionary games.
-    subject: Biology
-    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
 related_article3:
-    id: 170790
-    title: What is the purpose of a paleo matrix in evolutionary biology?
+    id: 170797
+    title: >-
+        What is meant by equilibrium frequency in the context of fitness dynamics?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
+    url: /learn/biology/questions/what-is-meant-by-equilibrium-frequency-in-the-context-of-fitness-dynamics
 related_article4:
-    id: 170806
-    title: What role does phenotypic variation play in evolutionary strategies?
+    id: 170809
+    title: >-
+        How does frequency-dependent selection impact the success and failure of evolutionary strategies?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
 related_article5:
-    id: 170796
-    title: How does the frequency of a strategy impact fitness dynamics?
+    id: 170800
+    title: >-
+        What are the characteristics of a pure strategy in evolutionary games?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
+    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
 ---
 
 &nbsp;

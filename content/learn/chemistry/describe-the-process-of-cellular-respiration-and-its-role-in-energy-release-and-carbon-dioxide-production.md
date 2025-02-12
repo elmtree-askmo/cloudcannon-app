@@ -2,8 +2,10 @@
 _schema: default
 id: 170404
 date: 2025-02-06
-title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
-article_title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+title: >-
+    Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+article_title: >-
+    Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-cellular-respiration-and-its-role-in-energy-r
 url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 score: -1.0
 related_article1:
-    id: 170407
-    title: Compare natural and technological carbon sequestration methods, including forests, oceans, and carbon capture and storage technologies.
+    id: 170394
+    title: >-
+        What are the main components of the carbon cycle, and how do they interact with each other?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-natural-and-technological-carbon-sequestration-methods-including-forests-oceans-and-carbon-capture-and-storage-technologies
+    url: /learn/chemistry/questions/what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other
 related_article2:
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
+related_article3:
+    id: 170408
+    title: >-
+        What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
+related_article4:
     id: 170405
-    title: How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
-related_article3:
-    id: 170403
-    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
-    subject: Chemistry
-    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
-related_article4:
-    id: 170398
-    title: What are the primary human contributions to carbon dioxide levels in the atmosphere?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 related_article5:
-    id: 170402
-    title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
 ---
 
 &nbsp;

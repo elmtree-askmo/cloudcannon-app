@@ -2,8 +2,10 @@
 _schema: default
 id: 168724
 date: 2025-02-04
-title: How did political upheavals influence art and the role of artists in society during the 19th century?
-article_title: How did political upheavals influence art and the role of artists in society during the 19th century?
+title: >-
+    How did political upheavals influence art and the role of artists in society during the 19th century?
+article_title: >-
+    How did political upheavals influence art and the role of artists in society during the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-political-upheavals-influence-art-and-the-role-of-artists-in-
 url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
 score: 9.5
 related_article1:
-    id: 168715
-    title: What were the main causes of social unrest leading to the French Revolution?
+    id: 168729
+    title: >-
+        What were the artistic responses to industrialization from both Romanticism and Realism perspectives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-causes-of-social-unrest-leading-to-the-french-revolution
+    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-industrialization-from-both-romanticism-and-realism-perspectives
 related_article2:
-    id: 168717
-    title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    id: 168734
+    title: >-
+        How did political and social changes in the 19th century influence artistic movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
+    url: /learn/art-history-and-literature/questions/how-did-political-and-social-changes-in-the-19th-century-influence-artistic-movements
 related_article3:
-    id: 168727
-    title: Who were the key representatives of Realism, and what were their contributions to the movement?
+    id: 168726
+    title: >-
+        How did 19th-century art address social issues such as poverty and gender identity?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
+    url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
 related_article4:
-    id: 168730
-    title: How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
+    id: 168721
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
 related_article5:
-    id: 168730
-    title: How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
+    id: 168722
+    title: >-
+        How did the introduction of photography change the composition and realism in painting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
+    url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
 ---
 
 &nbsp;

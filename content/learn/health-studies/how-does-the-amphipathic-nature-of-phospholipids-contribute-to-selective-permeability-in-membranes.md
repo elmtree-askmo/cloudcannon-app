@@ -2,8 +2,10 @@
 _schema: default
 id: 167224
 date: 2025-01-31
-title: How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
-article_title: How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
+title: >-
+    How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
+article_title: >-
+    How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/how-does-the-amphipathic-nature-of-phosphol
 score: -1.0
 related_article1:
     id: 167220
-    title: How do steroids function as signaling molecules in the body?
+    title: >-
+        How do steroids function as signaling molecules in the body?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-steroids-function-as-signaling-molecules-in-the-body
 related_article2:
-    id: 167216
-    title: How do triglycerides function in energy storage?
+    id: 167229
+    title: >-
+        How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-triglycerides-function-in-energy-storage
+    url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
 related_article3:
-    id: 167222
-    title: How do the physical properties of saturated fatty acids differ from those of unsaturated fatty acids?
+    id: 167217
+    title: >-
+        Describe the amphipathic nature of phospholipids and its significance in membrane formation.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-physical-properties-of-saturated-fatty-acids-differ-from-those-of-unsaturated-fatty-acids
+    url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
 related_article4:
-    id: 167217
-    title: Describe the amphipathic nature of phospholipids and its significance in membrane formation.
+    id: 167225
+    title: >-
+        How do the chemical properties of biomolecules impact their function?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
+    url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
 related_article5:
-    id: 167217
-    title: Describe the amphipathic nature of phospholipids and its significance in membrane formation.
+    id: 167231
+    title: >-
+        How does the unique shape of an enzyme's active site contribute to its catalytic efficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
+    url: /learn/health-studies/questions/how-does-the-unique-shape-of-an-enzymes-active-site-contribute-to-its-catalytic-efficiency
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163618
 date: 2025-01-27
-title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
-article_title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+title: >-
+    What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+article_title: >-
+    What are some criticisms of dependency theory, and how is it relevant in modern contexts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-
 url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
 score: -1.0
 related_article1:
-    id: 163611
-    title: How does economic integration under globalization affect trade networks and financial systems?
+    id: 163609
+    title: >-
+        How does interconnectedness influence global opportunities and conditions?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
 related_article2:
-    id: 163611
-    title: How does economic integration under globalization affect trade networks and financial systems?
+    id: 163625
+    title: >-
+        What are the challenges of global dependencies in supply chains, particularly concerning resource availability and production delays?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+    url: /learn/sociology/questions/what-are-the-challenges-of-global-dependencies-in-supply-chains-particularly-concerning-resource-availability-and-production-delays
 related_article3:
-    id: 163626
-    title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
-    subject: Sociology
-    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
-related_article4:
-    id: 163620
-    title: How do natural disasters affect social aspects such as displacement and community resilience?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience
-related_article5:
     id: 163610
-    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    title: >-
+        What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
     subject: Sociology
     url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
+related_article4:
+    id: 163626
+    title: >-
+        What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
+related_article5:
+    id: 163621
+    title: >-
+        How have pandemics strained health systems and what public health measures are typically implemented?
+    subject: Sociology
+    url: /learn/sociology/questions/how-have-pandemics-strained-health-systems-and-what-public-health-measures-are-typically-implemented
 ---
 
 &nbsp;

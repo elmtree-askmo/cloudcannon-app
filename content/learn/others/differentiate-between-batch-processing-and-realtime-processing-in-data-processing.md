@@ -2,8 +2,10 @@
 _schema: default
 id: 164174
 date: 2025-01-28
-title: Differentiate between batch processing and real-time processing in data processing.
-article_title: Differentiate between batch processing and real-time processing in data processing.
+title: >-
+    Differentiate between batch processing and real-time processing in data processing.
+article_title: >-
+    Differentiate between batch processing and real-time processing in data processing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-batch-processing-and-realtime-processing-in-dat
 url: /learn/others/questions/differentiate-between-batch-processing-and-realtime-processing-in-data-processing
 score: -1.0
 related_article1:
-    id: 164186
-    title: What are the challenges of multilingual processing in NLP?
-    subject: Others
-    url: /learn/others/questions/what-are-the-challenges-of-multilingual-processing-in-nlp
-related_article2:
     id: 164180
-    title: How do search algorithms contribute to AI algorithms?
+    title: >-
+        How do search algorithms contribute to AI algorithms?
     subject: Others
     url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
+related_article2:
+    id: 164160
+    title: >-
+        What are some common labeling techniques used in data annotation?
+    subject: Others
+    url: /learn/others/questions/what-are-some-common-labeling-techniques-used-in-data-annotation
 related_article3:
-    id: 164182
-    title: What is the purpose of statistical measures in descriptive analysis?
+    id: 164179
+    title: >-
+        What is the role of Markov Decision Processes in reinforcement learning?
     subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
+    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
 related_article4:
-    id: 164158
-    title: Describe the role of data preprocessing in data training.
+    id: 164178
+    title: >-
+        Describe a common use case for clustering in unsupervised learning.
     subject: Others
-    url: /learn/others/questions/describe-the-role-of-data-preprocessing-in-data-training
+    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
 related_article5:
-    id: 164170
-    title: What is the purpose of ontologies in knowledge representation?
+    id: 164157
+    title: >-
+        What are the key considerations for ensuring data quality during data collection?
     subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
+    url: /learn/others/questions/what-are-the-key-considerations-for-ensuring-data-quality-during-data-collection
 ---
 
 &nbsp;

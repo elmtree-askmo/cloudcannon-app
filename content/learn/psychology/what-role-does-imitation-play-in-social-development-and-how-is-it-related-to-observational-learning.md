@@ -2,8 +2,10 @@
 _schema: default
 id: 169350
 date: 2025-02-05
-title: What role does imitation play in social development, and how is it related to observational learning?
-article_title: What role does imitation play in social development, and how is it related to observational learning?
+title: >-
+    What role does imitation play in social development, and how is it related to observational learning?
+article_title: >-
+    What role does imitation play in social development, and how is it related to observational learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-imitation-play-in-social-development-and-how-is-it-rel
 url: /learn/psychology/questions/what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning
 score: -1.0
 related_article1:
-    id: 169359
-    title: How can assistive devices and communication systems foster independence in learning?
+    id: 169331
+    title: >-
+        What are the different types of prompts used in teaching, and how do they differ from each other?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
 related_article2:
-    id: 169347
-    title: Explain cognitive load theory and its implications for memory limitations in learning.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
-related_article3:
     id: 169349
-    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    title: >-
+        How can data collection be used to monitor progress and adjust instruction in skill acquisition?
     subject: Psychology
     url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+related_article3:
+    id: 169341
+    title: >-
+        What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
 related_article4:
-    id: 169356
-    title: What are the types and characteristics of learning disabilities, and how do they impact learning?
+    id: 169359
+    title: >-
+        How can assistive devices and communication systems foster independence in learning?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
 related_article5:
-    id: 169355
-    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    id: 169337
+    title: >-
+        Discuss the pros and cons of errorless learning compared to trial and error learning.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
 ---
 
 &nbsp;

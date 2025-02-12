@@ -2,8 +2,10 @@
 _schema: default
 id: 167811
 date: 2025-02-01
-title: How do sister chromatids function during cell division?
-article_title: How do sister chromatids function during cell division?
+title: >-
+    How do sister chromatids function during cell division?
+article_title: >-
+    How do sister chromatids function during cell division?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-sister-chromatids-function-during-cell-division.md
 url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
 score: -1.0
 related_article1:
-    id: 167826
-    title: How do mutations contribute to evolutionary changes?
+    id: 167817
+    title: >-
+        What is the central dogma of molecular biology?
     subject: Biology
-    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+    url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
 related_article2:
-    id: 167809
-    title: Why is DNA considered the genetic material?
+    id: 167812
+    title: >-
+        What is the structure and composition of chromosomes?
     subject: Biology
-    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
 related_article3:
-    id: 167827
-    title: What are the primary types and functions of biological macromolecules?
+    id: 167823
+    title: >-
+        How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
 related_article4:
-    id: 167818
-    title: How does transcription differ from translation in protein synthesis?
+    id: 167814
+    title: >-
+        What is the significance of the double helix structure of DNA?
     subject: Biology
-    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+    url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
 related_article5:
-    id: 167822
-    title: What are the basic structural components of prokaryotic cells?
+    id: 167815
+    title: >-
+        How does DNA replication ensure genetic consistency?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 ---
 
 &nbsp;

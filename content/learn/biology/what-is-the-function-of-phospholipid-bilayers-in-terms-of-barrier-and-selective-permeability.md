@@ -2,8 +2,10 @@
 _schema: default
 id: 167543
 date: 2025-01-31
-title: What is the function of phospholipid bilayers in terms of barrier and selective permeability?
-article_title: What is the function of phospholipid bilayers in terms of barrier and selective permeability?
+title: >-
+    What is the function of phospholipid bilayers in terms of barrier and selective permeability?
+article_title: >-
+    What is the function of phospholipid bilayers in terms of barrier and selective permeability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and
 url: /learn/biology/questions/what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability
 score: -1.0
 related_article1:
-    id: 167546
-    title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
-    subject: Biology
-    url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
-related_article2:
-    id: 167549
-    title: Explain the concept of selective permeability and its importance in cellular function.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-in-cellular-function
-related_article3:
-    id: 167545
-    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
-    subject: Biology
-    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
-related_article4:
-    id: 167545
-    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
-    subject: Biology
-    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
-related_article5:
     id: 167552
-    title: Define concentration gradient and explain its role as a driving force for diffusion.
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
     subject: Biology
     url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
+related_article2:
+    id: 167550
+    title: >-
+        How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+related_article3:
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article4:
+    id: 167553
+    title: >-
+        What are the structural and functional roles of integral membrane proteins in transport and signaling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
+related_article5:
+    id: 167539
+    title: >-
+        What factors can affect the rate of simple diffusion across a membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
 ---
 
 &nbsp;

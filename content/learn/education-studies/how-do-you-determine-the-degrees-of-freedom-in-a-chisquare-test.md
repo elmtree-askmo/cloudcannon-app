@@ -2,8 +2,10 @@
 _schema: default
 id: 167797
 date: 2025-02-01
-title: How do you determine the degrees of freedom in a chi-square test?
-article_title: How do you determine the degrees of freedom in a chi-square test?
+title: >-
+    How do you determine the degrees of freedom in a chi-square test?
+article_title: >-
+    How do you determine the degrees of freedom in a chi-square test?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-determine-the-degrees-of-freedom-in-a-chisquare-test.md
 url: /learn/education-studies/questions/how-do-you-determine-the-degrees-of-freedom-in-a-chisquare-test
 score: -1.0
 related_article1:
-    id: 167793
-    title: Provide an example of incomplete dominance in flower color.
+    id: 167799
+    title: >-
+        What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
+    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 related_article2:
-    id: 167800
-    title: How does the environment influence the phenotype of individuals with phenylketonuria?
+    id: 167801
+    title: >-
+        What is the ABO blood group system and how does it relate to genotype and phenotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
+    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
 related_article3:
-    id: 167787
-    title: What are the main sources of genetic variation?
+    id: 167784
+    title: >-
+        What role do alleles play in determining an organism's traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-sources-of-genetic-variation
+    url: /learn/education-studies/questions/what-role-do-alleles-play-in-determining-an-organisms-traits
 related_article4:
-    id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    id: 167786
+    title: >-
+        What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
+    url: /learn/education-studies/questions/what-is-the-expected-phenotypic-ratio-in-a-dihybrid-cross-involving-two-heterozygous-parents
 related_article5:
-    id: 167792
-    title: How does incomplete dominance differ from complete dominance?
+    id: 167799
+    title: >-
+        What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance
+    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161898
 date: 2025-01-24
-title: What rhetorical techniques does Shakespeare use to critique social norms?
-article_title: What rhetorical techniques does Shakespeare use to critique social norms?
+title: >-
+    What rhetorical techniques does Shakespeare use to critique social norms?
+article_title: >-
+    What rhetorical techniques does Shakespeare use to critique social norms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-rhetorical-techniques-does-shakespeare-use-to-critique-social-no
 url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
 score: 9.0
 related_article1:
-    id: 161900
-    title: What methods can be used to understand a character's motivations in a text?
+    id: 161894
+    title: >-
+        Why is close reading essential in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
+    url: /learn/art-history-and-literature/questions/why-is-close-reading-essential-in-literary-analysis
 related_article2:
-    id: 161893
-    title: What are the key components of constructing a strong thesis statement in literary analysis?
+    id: 161901
+    title: >-
+        How does the use of imagery contribute to emotional evocation in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-literature
 related_article3:
-    id: 161893
-    title: What are the key components of constructing a strong thesis statement in literary analysis?
+    id: 161901
+    title: >-
+        How does the use of imagery contribute to emotional evocation in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-literature
 related_article4:
-    id: 161900
-    title: What methods can be used to understand a character's motivations in a text?
+    id: 161902
+    title: >-
+        What strategies can be employed to structure a logical argument in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
+    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-structure-a-logical-argument-in-literary-analysis
 related_article5:
-    id: 161900
-    title: What methods can be used to understand a character's motivations in a text?
+    id: 161902
+    title: >-
+        What strategies can be employed to structure a logical argument in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
+    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-structure-a-logical-argument-in-literary-analysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164233
 date: 2025-01-28
-title: What are the key differences between temporal and spatial resolution in fMRI?
-article_title: What are the key differences between temporal and spatial resolution in fMRI?
+title: >-
+    What are the key differences between temporal and spatial resolution in fMRI?
+article_title: >-
+    What are the key differences between temporal and spatial resolution in fMRI?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-temporal-and-spatial-resolution-
 url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
 score: -1.0
 related_article1:
-    id: 164241
-    title: What is neuronal firing and how does it relate to neural activity?
+    id: 164231
+    title: >-
+        What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
 related_article2:
+    id: 164231
+    title: >-
+        What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+related_article3:
     id: 164244
-    title: How do brain networks support cognitive processes?
+    title: >-
+        How do brain networks support cognitive processes?
     subject: Psychology
     url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
-related_article3:
-    id: 164237
-    title: What is the function of the motor cortex in the brain?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
 related_article4:
-    id: 164234
-    title: How is fMRI used in clinical diagnosis?
+    id: 164240
+    title: >-
+        What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-fmri-used-in-clinical-diagnosis
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
 related_article5:
-    id: 164242
-    title: How do imaging techniques measure neural activity?
+    id: 164239
+    title: >-
+        Why are dependent variables crucial in experimental research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
 ---
 
 &nbsp;

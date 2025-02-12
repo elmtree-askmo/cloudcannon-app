@@ -2,8 +2,10 @@
 _schema: default
 id: 161503
 date: 2025-01-24
-title: What are the key features of real-time processing and why is it important in certain use cases?
-article_title: What are the key features of real-time processing and why is it important in certain use cases?
+title: >-
+    What are the key features of real-time processing and why is it important in certain use cases?
+article_title: >-
+    What are the key features of real-time processing and why is it important in certain use cases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-features-of-realtime-processing-and-why-is-it-import
 url: /learn/computer-science/questions/what-are-the-key-features-of-realtime-processing-and-why-is-it-important-in-certain-use-cases
 score: -1.0
 related_article1:
-    id: 161687
-    title: What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
+    id: 161512
+    title: >-
+        How do transaction processing systems differ from management information systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-indirect-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/how-do-transaction-processing-systems-differ-from-management-information-systems
 related_article2:
-    id: 161687
-    title: What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
+    id: 161691
+    title: >-
+        Why is the level of detail important in information, and what factors can affect it?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-indirect-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/why-is-the-level-of-detail-important-in-information-and-what-factors-can-affect-it
 related_article3:
-    id: 161695
-    title: What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
+    id: 161699
+    title: >-
+        What is the purpose of data validation, and how do range checks and type checks work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
+    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-work
 related_article4:
-    id: 161697
-    title: What are the characteristics of online processing, and what are its advantages and disadvantages?
+    id: 161450
+    title: >-
+        What are the main components of an information system, and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article5:
-    id: 161509
-    title: What is data logging and what are some common methods and tools used for it?
+    id: 161489
+    title: >-
+        What is the definition of data and why is raw data considered meaningless?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-data-logging-and-what-are-some-common-methods-and-tools-used-for-it
+    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
 ---
 
 &nbsp;

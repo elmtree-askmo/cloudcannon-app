@@ -2,8 +2,10 @@
 _schema: default
 id: 170423
 date: 2025-02-06
-title: Identify the major carbon reservoirs and explain their role in the carbon cycle.
-article_title: Identify the major carbon reservoirs and explain their role in the carbon cycle.
+title: >-
+    Identify the major carbon reservoirs and explain their role in the carbon cycle.
+article_title: >-
+    Identify the major carbon reservoirs and explain their role in the carbon cycle.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-ca
 url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170422
-    title: How does carbon flux contribute to the carbon cycle?
+    id: 170438
+    title: >-
+        What are the key carbon compounds found in living organisms, and why is carbon essential for life?
     subject: Biology
-    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
 related_article2:
-    id: 170432
-    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    id: 170439
+    title: >-
+        Explain the unique properties of carbon that make it vital for biological processes.
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+    url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
 related_article3:
-    id: 170433
-    title: How do marine organisms contribute to carbon storage in the ocean?
-    subject: Biology
-    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
-related_article4:
-    id: 170435
-    title: What geological processes are involved in carbon storage within sediments?
-    subject: Biology
-    url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
-related_article5:
     id: 170427
-    title: What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
+    title: >-
+        What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
     subject: Biology
     url: /learn/biology/questions/what-are-some-strategies-for-climate-intervention-aimed-at-carbon-storage-and-what-challenges-do-they-face
+related_article4:
+    id: 170426
+    title: >-
+        How does the carbon footprint of human activities impact global warming?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
+related_article5:
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
 ---
 
 &nbsp;

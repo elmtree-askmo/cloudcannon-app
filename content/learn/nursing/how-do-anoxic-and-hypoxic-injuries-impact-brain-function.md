@@ -2,8 +2,10 @@
 _schema: default
 id: 164440
 date: 2025-01-28
-title: How do anoxic and hypoxic injuries impact brain function?
-article_title: How do anoxic and hypoxic injuries impact brain function?
+title: >-
+    How do anoxic and hypoxic injuries impact brain function?
+article_title: >-
+    How do anoxic and hypoxic injuries impact brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-anoxic-and-hypoxic-injuries-impact-brain-function.md
 url: /learn/nursing/questions/how-do-anoxic-and-hypoxic-injuries-impact-brain-function
 score: -1.0
 related_article1:
-    id: 164448
-    title: What challenges might individuals face with attention and information processing after a brain injury?
-    subject: Nursing
-    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
-related_article2:
     id: 164444
-    title: Identify two external causes of brain injury and explain their potential impact.
+    title: >-
+        Identify two external causes of brain injury and explain their potential impact.
     subject: Nursing
     url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
+related_article2:
+    id: 164448
+    title: >-
+        What challenges might individuals face with attention and information processing after a brain injury?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
 related_article3:
+    id: 164450
+    title: >-
+        What are some long-term cognitive and physical challenges faced by individuals with brain injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-longterm-cognitive-and-physical-challenges-faced-by-individuals-with-brain-injuries
+related_article4:
+    id: 164442
+    title: >-
+        How do open head injuries differ from closed head injuries in terms of impact and treatment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
+related_article5:
     id: 164454
-    title: Which populations are at higher risk for brain injury, and why?
+    title: >-
+        Which populations are at higher risk for brain injury, and why?
     subject: Nursing
     url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
-related_article4:
-    id: 164451
-    title: How can emotional and behavioral effects manifest in individuals with brain injuries?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
-related_article5:
-    id: 164455
-    title: What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
 ---
 
 &nbsp;

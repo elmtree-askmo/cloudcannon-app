@@ -2,8 +2,10 @@
 _schema: default
 id: 163815
 date: 2025-01-27
-title: What are the key characteristics of quadratic functions?
-article_title: What are the key characteristics of quadratic functions?
+title: >-
+    What are the key characteristics of quadratic functions?
+article_title: >-
+    What are the key characteristics of quadratic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-quadratic-functions.md
 url: /learn/mathematics/questions/what-are-the-key-characteristics-of-quadratic-functions
 score: -1.0
 related_article1:
-    id: 163819
-    title: What are the domain and range characteristics of square root functions?
+    id: 163821
+    title: >-
+        Why is interval selection important when applying the rate of change formula to non-linear functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
 related_article2:
-    id: 163822
-    title: What implications do positive and negative rates of change have for function behavior?
+    id: 163821
+    title: >-
+        Why is interval selection important when applying the rate of change formula to non-linear functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
 related_article3:
-    id: 163822
-    title: What implications do positive and negative rates of change have for function behavior?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
-related_article4:
-    id: 163827
-    title: What does it mean for a function to be increasing, decreasing, or constant?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-increasing-decreasing-or-constant
-related_article5:
     id: 163809
-    title: What distinguishes non-linear functions from linear functions?
+    title: >-
+        What distinguishes non-linear functions from linear functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+related_article4:
+    id: 163817
+    title: >-
+        What is the asymptotic behavior of exponential functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
+related_article5:
+    id: 163812
+    title: >-
+        How is the slope formula adapted for non-linear functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
 ---
 
 &nbsp;

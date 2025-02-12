@@ -2,8 +2,10 @@
 _schema: default
 id: 169568
 date: 2025-02-05
-title: How does professional responsibility impact patient assessment?
-article_title: How does professional responsibility impact patient assessment?
+title: >-
+    How does professional responsibility impact patient assessment?
+article_title: >-
+    How does professional responsibility impact patient assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-professional-responsibility-impact-patient-assessment.md
 url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
 score: -1.0
 related_article1:
-    id: 169565
-    title: How is competence defined and assessed in healthcare?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
-related_article2:
-    id: 169559
-    title: What is the NMC Code, and how does it apply to registered nurses?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
-related_article3:
     id: 169574
-    title: How does supervision aid in effective risk management?
+    title: >-
+        How does supervision aid in effective risk management?
     subject: Nursing
     url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
+related_article2:
+    id: 169560
+    title: >-
+        How should student nurses apply the NMC Code in their practice?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+related_article3:
+    id: 169565
+    title: >-
+        How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
 related_article4:
-    id: 169564
-    title: Why is supervision particularly important for student nurses?
+    id: 169569
+    title: >-
+        What are the safe practices for medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
 related_article5:
-    id: 169562
-    title: How does supervision ensure competence and patient safety?
+    id: 169566
+    title: >-
+        What are some ways to build competence through experience?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
 ---
 
 &nbsp;

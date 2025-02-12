@@ -2,8 +2,10 @@
 _schema: default
 id: 165348
 date: 2025-01-29
-title: What distinguishes purines from pyrimidines among nitrogenous bases?
-article_title: What distinguishes purines from pyrimidines among nitrogenous bases?
+title: >-
+    What distinguishes purines from pyrimidines among nitrogenous bases?
+article_title: >-
+    What distinguishes purines from pyrimidines among nitrogenous bases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-distinguishes-purines-from-pyrimidines-among-nitrogenous-bases.m
 url: /learn/biology/questions/what-distinguishes-purines-from-pyrimidines-among-nitrogenous-bases
 score: -1.0
 related_article1:
+    id: 165349
+    title: >-
+        Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article2:
+    id: 165345
+    title: >-
+        What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
+related_article3:
+    id: 165343
+    title: >-
+        How do ionic bonds form between charged R groups in proteins?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
+related_article4:
+    id: 165349
+    title: >-
+        Why are proteins considered an important class of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+related_article5:
     id: 165338
-    title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    title: >-
+        What is the significance of the unique sequence of amino acids in the primary structure of proteins?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
-related_article2:
-    id: 165337
-    title: How does the covalent bonding in peptide bonds compare to glycosidic linkages?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
-related_article3:
-    id: 165335
-    title: How do charged and uncharged side chains influence the behavior of amino acids in proteins?
-    subject: Biology
-    url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
-related_article4:
-    id: 165350
-    title: How do monomers and polymers relate to the structure and function of biomolecules?
-    subject: Biology
-    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
 ---
 
 &nbsp;

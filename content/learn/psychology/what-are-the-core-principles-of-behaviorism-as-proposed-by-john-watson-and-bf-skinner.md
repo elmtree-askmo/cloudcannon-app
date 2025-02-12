@@ -2,8 +2,10 @@
 _schema: default
 id: 170010
 date: 2025-02-05
-title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
-article_title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+title: >-
+    What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
+article_title: >-
+    What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watso
 url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
 score: -1.0
 related_article1:
-    id: 170027
-    title: How does Maslow's Hierarchy of Needs define self-actualization?
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
 related_article2:
-    id: 170009
-    title: How did Functionalism contribute to the development of Evolutionary Psychology?
+    id: 170030
+    title: >-
+        What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative-research-methods-in-psychology
 related_article3:
-    id: 170025
-    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
-    subject: Psychology
-    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
-related_article4:
     id: 170015
-    title: How does Humanistic Psychology emphasize the concept of self-actualization?
+    title: >-
+        How does Humanistic Psychology emphasize the concept of self-actualization?
     subject: Psychology
     url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
-related_article5:
-    id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+related_article4:
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+related_article5:
+    id: 170015
+    title: >-
+        How does Humanistic Psychology emphasize the concept of self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
 ---
 
 &nbsp;

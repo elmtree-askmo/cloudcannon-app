@@ -2,8 +2,10 @@
 _schema: default
 id: 166431
 date: 2025-01-30
-title: Define trough level and explain its clinical relevance.
-article_title: Define trough level and explain its clinical relevance.
+title: >-
+    Define trough level and explain its clinical relevance.
+article_title: >-
+    Define trough level and explain its clinical relevance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-trough-level-and-explain-its-clinical-relevance.md
 url: /learn/nursing/questions/define-trough-level-and-explain-its-clinical-relevance
 score: -1.0
 related_article1:
+    id: 166429
+    title: >-
+        What are adverse effects, and what strategies can be used to manage them?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
+related_article2:
     id: 166434
-    title: What is hepatic circulation, and how does it influence drug metabolism?
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
     subject: Nursing
     url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
-related_article2:
-    id: 166435
-    title: Define dissolution and explain its importance in drug absorption.
-    subject: Nursing
-    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
 related_article3:
-    id: 166436
-    title: List the routes of drug excretion and discuss one factor that affects excretion.
+    id: 166427
+    title: >-
+        What are the phases of biotransformation, and how do they contribute to drug metabolism?
     subject: Nursing
-    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
+    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
 related_article4:
-    id: 166437
-    title: What are the types of drug interactions, and what are their clinical implications?
+    id: 166432
+    title: >-
+        What factors affect drug metabolism, and what are the clinical implications of these factors?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
 related_article5:
-    id: 166426
-    title: Define bioavailability and identify two factors that influence it.
+    id: 166424
+    title: >-
+        Describe the process of enteric absorption and list two factors that can affect it.
     subject: Nursing
-    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
 ---
 
 &nbsp;

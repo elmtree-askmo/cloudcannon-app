@@ -2,8 +2,10 @@
 _schema: default
 id: 169507
 date: 2025-02-05
-title: What is the hierarchy of control and how does it help in minimizing manual handling?
-article_title: What is the hierarchy of control and how does it help in minimizing manual handling?
+title: >-
+    What is the hierarchy of control and how does it help in minimizing manual handling?
+article_title: >-
+    What is the hierarchy of control and how does it help in minimizing manual handling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-m
 url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
 score: -1.0
 related_article1:
-    id: 169514
-    title: How can compliance with safety regulations be ensured during equipment servicing?
+    id: 169497
+    title: >-
+        What are the key responsibilities of employers under the Health and Safety at Work Act?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
 related_article2:
-    id: 169510
-    title: What is the importance of ensuring patient consent in care environments?
+    id: 169501
+    title: >-
+        What are the safe lifting techniques to maintain proper body positioning in ergonomics?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+    url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
 related_article3:
     id: 169498
-    title: How should employees report risks and incidents according to the Health and Safety at Work Act?
+    title: >-
+        How should employees report risks and incidents according to the Health and Safety at Work Act?
     subject: Nursing
     url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
 related_article4:
-    id: 169500
-    title: How can risks be assessed and reduced in manual handling operations?
+    id: 169499
+    title: >-
+        What are the main strategies to avoid manual handling according to the Manual Handling Operations Regulation?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+    url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
 related_article5:
-    id: 169514
-    title: How can compliance with safety regulations be ensured during equipment servicing?
+    id: 169504
+    title: >-
+        Why is regular servicing and maintenance of equipment crucial for safety?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
 ---
 
 &nbsp;

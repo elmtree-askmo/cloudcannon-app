@@ -2,8 +2,10 @@
 _schema: default
 id: 167280
 date: 2025-01-31
-title: What are the defining characteristics of matter and how do they relate to elements?
-article_title: What are the defining characteristics of matter and how do they relate to elements?
+title: >-
+    What are the defining characteristics of matter and how do they relate to elements?
+article_title: >-
+    What are the defining characteristics of matter and how do they relate to elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-defining-characteristics-of-matter-and-how-do-they-relat
 url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements
 score: -1.0
 related_article1:
-    id: 167282
-    title: What is the difference between covalent and ionic bonds in terms of electron interaction?
+    id: 167284
+    title: >-
+        What is the significance of the atomic number in identifying elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-identifying-elements
 related_article2:
-    id: 167290
-    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    id: 167281
+    title: >-
+        How do protons, neutrons, and electrons contribute to the structure of an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
+    url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
 related_article3:
-    id: 167287
-    title: How are ions formed and what determines their electrical charge?
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 related_article4:
-    id: 167287
-    title: How are ions formed and what determines their electrical charge?
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
-related_article5:
-    id: 167286
-    title: What are isotopes and how do they affect the atomic mass of an element?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 ---
 
 &nbsp;

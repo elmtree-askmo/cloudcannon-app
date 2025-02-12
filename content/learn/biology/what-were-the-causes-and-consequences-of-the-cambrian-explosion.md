@@ -2,8 +2,10 @@
 _schema: default
 id: 167756
 date: 2025-02-01
-title: What were the causes and consequences of the Cambrian Explosion?
-article_title: What were the causes and consequences of the Cambrian Explosion?
+title: >-
+    What were the causes and consequences of the Cambrian Explosion?
+article_title: >-
+    What were the causes and consequences of the Cambrian Explosion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-causes-and-consequences-of-the-cambrian-explosion.md
 url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
 score: -1.0
 related_article1:
-    id: 167766
-    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    id: 167754
+    title: >-
+        What is the endosymbiotic theory and what evidence supports it?
     subject: Biology
-    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
 related_article2:
     id: 167747
-    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    title: >-
+        Explain the Hardy-Weinberg Principle and its significance in population genetics.
     subject: Biology
     url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
 related_article3:
-    id: 167757
-    title: What factors affect population dynamics and how do growth models help in understanding these dynamics?
+    id: 167753
+    title: >-
+        What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
+    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
 related_article4:
-    id: 167745
-    title: What role does the fossil record play in understanding phylogeny and what are transitional fossils?
+    id: 167758
+    title: >-
+        How do species interactions shape community structure and what are trophic levels?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
 related_article5:
-    id: 167747
-    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    id: 167744
+    title: >-
+        How are evolutionary trees constructed and what is the significance of homologies in this process?
     subject: Biology
-    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+    url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
 ---
 
 &nbsp;

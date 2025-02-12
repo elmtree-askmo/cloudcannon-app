@@ -2,8 +2,10 @@
 _schema: default
 id: 166441
 date: 2025-01-30
-title: What role do mu receptors play in pain relief mechanisms?
-article_title: What role do mu receptors play in pain relief mechanisms?
+title: >-
+    What role do mu receptors play in pain relief mechanisms?
+article_title: >-
+    What role do mu receptors play in pain relief mechanisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-mu-receptors-play-in-pain-relief-mechanisms.md
 url: /learn/nursing/questions/what-role-do-mu-receptors-play-in-pain-relief-mechanisms
 score: -1.0
 related_article1:
-    id: 166446
-    title: What distinguishes mild agonist medications from strong agonist medications?
-    subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
-related_article2:
-    id: 166439
-    title: What are prototype drugs, and why are they important in the study of opioid medications?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
-related_article3:
     id: 166452
-    title: What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
+    title: >-
+        What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
+related_article2:
+    id: 166448
+    title: >-
+        What are the potential adverse effects of narcotic medications on the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+related_article3:
+    id: 166450
+    title: >-
+        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
 related_article4:
-    id: 166446
-    title: What distinguishes mild agonist medications from strong agonist medications?
+    id: 166450
+    title: >-
+        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
     subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-mild-agonist-medications-from-strong-agonist-medications
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
 related_article5:
-    id: 166444
-    title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    id: 166448
+    title: >-
+        What are the potential adverse effects of narcotic medications on the central nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
+    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 ---
 
 &nbsp;

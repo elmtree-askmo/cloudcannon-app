@@ -2,8 +2,10 @@
 _schema: default
 id: 165799
 date: 2025-01-29
-title: What are the main differences between static and dynamic routing, and how do they impact network management?
-article_title: What are the main differences between static and dynamic routing, and how do they impact network management?
+title: >-
+    What are the main differences between static and dynamic routing, and how do they impact network management?
+article_title: >-
+    What are the main differences between static and dynamic routing, and how do they impact network management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-differences-between-static-and-dynamic-routing-and-
 url: /learn/computer-science/questions/what-are-the-main-differences-between-static-and-dynamic-routing-and-how-do-they-impact-network-management
 score: -1.0
 related_article1:
-    id: 165801
-    title: What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
+    id: 165798
+    title: >-
+        What information is typically displayed in a host's routing table, and why is it important for network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-arp-in-a-network-and-how-does-it-resolve-ipv4-addresses-to-mac-addresses
+    url: /learn/computer-science/questions/what-information-is-typically-displayed-in-a-hosts-routing-table-and-why-is-it-important-for-network-communication
 related_article2:
-    id: 165796
-    title: What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
+    id: 165800
+    title: >-
+        How do MAC and IP addresses work together to facilitate communication within and between networks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-significant-fields-in-the-ipv6-packet-header-and-how-do-they-contribute-to-efficient-packet-handling
+    url: /learn/computer-science/questions/how-do-mac-and-ip-addresses-work-together-to-facilitate-communication-within-and-between-networks
 related_article3:
-    id: 165801
-    title: What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
+    id: 165802
+    title: >-
+        How is the ARP table managed on networking devices, and what commands are used to display it on Cisco routers and Windows PCs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-arp-in-a-network-and-how-does-it-resolve-ipv4-addresses-to-mac-addresses
+    url: /learn/computer-science/questions/how-is-the-arp-table-managed-on-networking-devices-and-what-commands-are-used-to-display-it-on-cisco-routers-and-windows-pcs
 related_article4:
+    id: 165789
+    title: >-
+        What are the basic operations of the network layer, and how do they contribute to data transmission?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-network-layer-and-how-do-they-contribute-to-data-transmission
+related_article5:
     id: 165803
-    title: What are the potential issues associated with ARP broadcasting, and how can ARP spoofing attacks be mitigated?
+    title: >-
+        What are the potential issues associated with ARP broadcasting, and how can ARP spoofing attacks be mitigated?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-potential-issues-associated-with-arp-broadcasting-and-how-can-arp-spoofing-attacks-be-mitigated
-related_article5:
-    id: 165797
-    title: How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-host-determine-whether-to-send-a-packet-to-a-local-or-remote-host-and-what-role-does-the-default-gateway-play-in-this-process
 ---
 
 &nbsp;

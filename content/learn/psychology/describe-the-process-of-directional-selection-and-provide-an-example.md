@@ -2,8 +2,10 @@
 _schema: default
 id: 165304
 date: 2025-01-28
-title: Describe the process of directional selection and provide an example.
-article_title: Describe the process of directional selection and provide an example.
+title: >-
+    Describe the process of directional selection and provide an example.
+article_title: >-
+    Describe the process of directional selection and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-directional-selection-and-provide-an-example.
 url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 165291
-    title: What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    id: 165297
+    title: >-
+        Define fitness in the context of natural selection and explain its importance.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
 related_article2:
-    id: 165289
-    title: What are Tinbergen's four questions and how do they help in studying animal behavior?
+    id: 165306
+    title: >-
+        Explain disruptive selection and its potential impact on a species.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 related_article3:
-    id: 165308
-    title: Provide an example of a case study that illustrates behavioral selection.
+    id: 165301
+    title: >-
+        How do environmental factors influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
+    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
 related_article4:
-    id: 165303
-    title: What is artificial selection and how does it differ from natural selection?
+    id: 165302
+    title: >-
+        Explain the interaction between genetic factors and environmental influences on behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
 related_article5:
-    id: 165305
-    title: What is stabilizing selection and how does it affect a population?
+    id: 165288
+    title: >-
+        How can understanding animal behavior be applied in research?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
 ---
 
 &nbsp;

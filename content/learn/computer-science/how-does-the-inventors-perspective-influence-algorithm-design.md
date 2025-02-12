@@ -2,8 +2,10 @@
 _schema: default
 id: 160766
 date: 2025-01-24
-title: How does the inventor's perspective influence algorithm design?
-article_title: How does the inventor's perspective influence algorithm design?
+title: >-
+    How does the inventor's perspective influence algorithm design?
+article_title: >-
+    How does the inventor's perspective influence algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-the-inventors-perspective-influence-algorithm-design.md
 url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
 score: -1.0
 related_article1:
-    id: 160648
-    title: How does the inventor's perspective influence algorithm design?
+    id: 160787
+    title: >-
+        Why is correct representation crucial in problem-solving, and what techniques can be used?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
+    url: /learn/computer-science/questions/why-is-correct-representation-crucial-in-problemsolving-and-what-techniques-can-be-used
 related_article2:
-    id: 160788
-    title: What are the steps involved in algorithm development according to software engineering principles?
+    id: 160657
+    title: >-
+        What role do logarithms and exponents play in complexity analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-algorithm-development-according-to-software-engineering-principles
+    url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
 related_article3:
-    id: 160661
-    title: How is data represented in computational music, and why is it important?
+    id: 160651
+    title: >-
+        What distinguishes computational problem solving from general problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-data-represented-in-computational-music-and-why-is-it-important
+    url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
 related_article4:
-    id: 160649
-    title: What are the differences between trees and graphs as data structures?
+    id: 160767
+    title: >-
+        What are the differences between trees and graphs as data structures?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-trees-and-graphs-as-data-structures
 related_article5:
     id: 160765
-    title: What are the key characteristics that define an algorithm?
+    title: >-
+        What are the key characteristics that define an algorithm?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-characteristics-that-define-an-algorithm
 ---

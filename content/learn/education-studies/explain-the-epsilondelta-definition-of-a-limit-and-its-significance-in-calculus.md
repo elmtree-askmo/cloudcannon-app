@@ -2,8 +2,10 @@
 _schema: default
 id: 169283
 date: 2025-02-05
-title: Explain the epsilon-delta definition of a limit and its significance in calculus.
-article_title: Explain the epsilon-delta definition of a limit and its significance in calculus.
+title: >-
+    Explain the epsilon-delta definition of a limit and its significance in calculus.
+article_title: >-
+    Explain the epsilon-delta definition of a limit and its significance in calculus.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-epsilondelta-definition-of-a-limit-and-its-significance-i
 url: /learn/education-studies/questions/explain-the-epsilondelta-definition-of-a-limit-and-its-significance-in-calculus
 score: -1.0
 related_article1:
-    id: 169294
-    title: How are vertical asymptotes identified in rational functions, and what is their graphical representation?
+    id: 169304
+    title: >-
+        What are some applications of integrals in physics and engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vertical-asymptotes-identified-in-rational-functions-and-what-is-their-graphical-representation
+    url: /learn/education-studies/questions/what-are-some-applications-of-integrals-in-physics-and-engineering
 related_article2:
-    id: 169299
-    title: How can the domain and range of absolute value functions be determined?
+    id: 169288
+    title: >-
+        What are the characteristics of continuous functions, and how do polynomial functions fit this category?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-domain-and-range-of-absolute-value-functions-be-determined
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-continuous-functions-and-how-do-polynomial-functions-fit-this-category
 related_article3:
-    id: 169307
-    title: What techniques are used in graphical analysis to understand limits and visualize derivatives?
+    id: 169295
+    title: >-
+        What is the behavior of functions near vertical asymptotes as they approach infinity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-are-used-in-graphical-analysis-to-understand-limits-and-visualize-derivatives
+    url: /learn/education-studies/questions/what-is-the-behavior-of-functions-near-vertical-asymptotes-as-they-approach-infinity
 related_article4:
     id: 169292
-    title: What is the difference between left-hand and right-hand limits in calculus?
+    title: >-
+        What is the difference between left-hand and right-hand limits in calculus?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
 related_article5:
     id: 169297
-    title: How is continuity at transition points in piecewise functions analyzed?
+    title: >-
+        How is continuity at transition points in piecewise functions analyzed?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
 ---

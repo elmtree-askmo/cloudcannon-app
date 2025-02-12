@@ -2,8 +2,10 @@
 _schema: default
 id: 164601
 date: 2025-01-28
-title: What are the key differences between phonological, syntactic, and semantic processing in language?
-article_title: What are the key differences between phonological, syntactic, and semantic processing in language?
+title: >-
+    What are the key differences between phonological, syntactic, and semantic processing in language?
+article_title: >-
+    What are the key differences between phonological, syntactic, and semantic processing in language?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-differences-between-phonological-syntactic-and-seman
 url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
 score: -1.0
 related_article1:
-    id: 164609
-    title: What are the advantages of using eye-tracking studies in human behavior analysis?
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
 related_article2:
-    id: 164611
-    title: What are the foundational theories of cognitive neuroscience?
+    id: 164604
+    title: >-
+        How does the arcuate fasciculus contribute to language function?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
 related_article3:
-    id: 164600
-    title: How are computational models used in the analysis of phonological graphs?
+    id: 164603
+    title: >-
+        What roles do Broca's Area and Wernicke's Area play in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
+    url: /learn/psychology/questions/what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing
 related_article4:
-    id: 164613
-    title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+    id: 164602
+    title: >-
+        Describe the main characteristics of connectionist models in language processing.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
+    url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
 related_article5:
     id: 164610
-    title: How do language proficiency tests contribute to cognitive assessments?
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
     subject: Psychology
     url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
 ---

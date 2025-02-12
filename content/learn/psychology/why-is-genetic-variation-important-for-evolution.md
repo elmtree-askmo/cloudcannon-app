@@ -2,8 +2,10 @@
 _schema: default
 id: 165300
 date: 2025-01-28
-title: Why is genetic variation important for evolution?
-article_title: Why is genetic variation important for evolution?
+title: >-
+    Why is genetic variation important for evolution?
+article_title: >-
+    Why is genetic variation important for evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-genetic-variation-important-for-evolution.md
 url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
 score: -1.0
 related_article1:
-    id: 165314
-    title: What are the genetic bases and advantages of pack hunting behavior?
+    id: 165306
+    title: >-
+        Explain disruptive selection and its potential impact on a species.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 related_article2:
-    id: 165305
-    title: What is stabilizing selection and how does it affect a population?
+    id: 165297
+    title: >-
+        Define fitness in the context of natural selection and explain its importance.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
 related_article3:
-    id: 165315
-    title: How does individual variation in hunting strategies affect fitness and survival?
+    id: 165309
+    title: >-
+        What is the role of phylogenetic analysis in understanding evolutionary history?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
 related_article4:
-    id: 165294
-    title: Describe the process of cultural transmission in animal behavior.
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
 related_article5:
-    id: 165295
-    title: List and explain Darwin’s four postulates of natural selection.
+    id: 165301
+    title: >-
+        How do environmental factors influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
+    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
 ---
 
 &nbsp;

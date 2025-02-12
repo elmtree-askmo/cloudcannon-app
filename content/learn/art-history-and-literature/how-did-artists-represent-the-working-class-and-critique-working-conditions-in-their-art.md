@@ -2,8 +2,10 @@
 _schema: default
 id: 168736
 date: 2025-02-04
-title: How did artists represent the working class and critique working conditions in their art?
-article_title: How did artists represent the working class and critique working conditions in their art?
+title: >-
+    How did artists represent the working class and critique working conditions in their art?
+article_title: >-
+    How did artists represent the working class and critique working conditions in their art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-artists-represent-the-working-class-and-critique-working-cond
 url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
 score: 9.0
 related_article1:
-    id: 168723
-    title: What impact did the modernization of Paris have on artistic representation during the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
-related_article2:
-    id: 168722
-    title: How did the introduction of photography change the composition and realism in painting?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
-related_article3:
-    id: 168728
-    title: How did artists depict labor and working conditions during the Industrial Revolution?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
-related_article4:
-    id: 168735
-    title: What role did women play in art during the 19th century, and how was gender identity explored?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
-related_article5:
     id: 168719
-    title: What are the defining features of Romanticism, and how did it react to industrialization?
+    title: >-
+        What are the defining features of Romanticism, and how did it react to industrialization?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
+related_article2:
+    id: 168721
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
+related_article3:
+    id: 168730
+    title: >-
+        How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
+related_article4:
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
+related_article5:
+    id: 168724
+    title: >-
+        How did political upheavals influence art and the role of artists in society during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
 ---
 
 &nbsp;

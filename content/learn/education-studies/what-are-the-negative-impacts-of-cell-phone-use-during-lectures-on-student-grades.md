@@ -2,8 +2,10 @@
 _schema: default
 id: 166905
 date: 2025-01-31
-title: What are the negative impacts of cell phone use during lectures on student grades?
-article_title: What are the negative impacts of cell phone use during lectures on student grades?
+title: >-
+    What are the negative impacts of cell phone use during lectures on student grades?
+article_title: >-
+    What are the negative impacts of cell phone use during lectures on student grades?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-negative-impacts-of-cell-phone-use-during-lectures-on-st
 url: /learn/education-studies/questions/what-are-the-negative-impacts-of-cell-phone-use-during-lectures-on-student-grades
 score: -1.0
 related_article1:
-    id: 166898
-    title: How do learning objectives guide student study practices and enhance understanding?
+    id: 166902
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
+    url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
 related_article2:
     id: 166895
-    title: What are the key components of a graph and why are they important for data interpretation?
+    title: >-
+        What are the key components of a graph and why are they important for data interpretation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-a-graph-and-why-are-they-important-for-data-interpretation
 related_article3:
-    id: 166896
-    title: How can trend analysis be used to interpret data effectively?
+    id: 166902
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
+    url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
 related_article4:
-    id: 166897
-    title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+    id: 166906
+    title: >-
+        How can distractions from cell phone use during lectures be reduced to promote focus?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
-related_article5:
-    id: 166904
-    title: What strategies can be implemented to improve student attendance in lectures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-implemented-to-improve-student-attendance-in-lectures
+    url: /learn/education-studies/questions/how-can-distractions-from-cell-phone-use-during-lectures-be-reduced-to-promote-focus
 ---
 
 &nbsp;

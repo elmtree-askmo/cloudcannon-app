@@ -2,8 +2,10 @@
 _schema: default
 id: 165183
 date: 2025-01-28
-title: How is statistical significance determined, and why is it important for research conclusions?
-article_title: How is statistical significance determined, and why is it important for research conclusions?
+title: >-
+    How is statistical significance determined, and why is it important for research conclusions?
+article_title: >-
+    How is statistical significance determined, and why is it important for research conclusions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-is-statistical-significance-determin
 score: -1.0
 related_article1:
     id: 165169
-    title: What are the key components of a scientific article, and how do they contribute to the overall structure?
+    title: >-
+        What are the key components of a scientific article, and how do they contribute to the overall structure?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
 related_article2:
-    id: 165182
-    title: Why is data visualization important in research, and what are some effective types of figures used to communicate data?
+    id: 165186
+    title: >-
+        How can the study of animal behavior provide insights into evolutionary processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-research-and-what-are-some-effective-types-of-figures-used-to-communicate-data
+    url: /learn/education-studies/questions/how-can-the-study-of-animal-behavior-provide-insights-into-evolutionary-processes
 related_article3:
-    id: 165180
-    title: What are some common statistical analysis techniques used in research, and how do they help interpret results?
+    id: 165179
+    title: >-
+        What is the difference between reliability and validity in research, and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-statistical-analysis-techniques-used-in-research-and-how-do-they-help-interpret-results
+    url: /learn/education-studies/questions/what-is-the-difference-between-reliability-and-validity-in-research-and-why-are-they-important
 related_article4:
-    id: 165170
-    title: How can the implications and limitations of a scientific article be effectively analyzed?
+    id: 165176
+    title: >-
+        What criteria must be met to establish causation in research, and how can alternative explanations be ruled out?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-implications-and-limitations-of-a-scientific-article-be-effectively-analyzed
+    url: /learn/education-studies/questions/what-criteria-must-be-met-to-establish-causation-in-research-and-how-can-alternative-explanations-be-ruled-out
 related_article5:
-    id: 165180
-    title: What are some common statistical analysis techniques used in research, and how do they help interpret results?
+    id: 165169
+    title: >-
+        What are the key components of a scientific article, and how do they contribute to the overall structure?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-statistical-analysis-techniques-used-in-research-and-how-do-they-help-interpret-results
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169667
 date: 2025-02-05
-title: What are the best practices for safe medication prescription and administration to avoid errors?
-article_title: What are the best practices for safe medication prescription and administration to avoid errors?
+title: >-
+    What are the best practices for safe medication prescription and administration to avoid errors?
+article_title: >-
+    What are the best practices for safe medication prescription and administration to avoid errors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-best-practices-for-safe-medication-prescription-and-admi
 url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
 score: -1.0
 related_article1:
-    id: 169680
-    title: What are the essential components of an emergency response plan in a healthcare setting?
+    id: 169674
+    title: >-
+        What are the recommended practices for the safe disposal of sharps to prevent injuries?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
 related_article2:
-    id: 169675
-    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
-    subject: Nursing
-    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
-related_article3:
-    id: 169671
-    title: What procedures are essential for preventing hospital-acquired infections?
-    subject: Nursing
-    url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
-related_article4:
     id: 169673
-    title: What safety protocols should be followed to prevent exposure to hazardous substances?
+    title: >-
+        What safety protocols should be followed to prevent exposure to hazardous substances?
     subject: Nursing
     url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
-related_article5:
-    id: 169680
-    title: What are the essential components of an emergency response plan in a healthcare setting?
+related_article3:
+    id: 169668
+    title: >-
+        How should controlled substances be handled and stored to ensure regulatory compliance?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
+related_article4:
+    id: 169668
+    title: >-
+        How should controlled substances be handled and stored to ensure regulatory compliance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
+related_article5:
+    id: 169665
+    title: >-
+        What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
 ---
 
 &nbsp;

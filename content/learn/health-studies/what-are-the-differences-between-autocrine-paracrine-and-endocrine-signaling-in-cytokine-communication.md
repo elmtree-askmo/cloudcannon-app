@@ -2,8 +2,10 @@
 _schema: default
 id: 165863
 date: 2025-01-29
-title: What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
-article_title: What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
+title: >-
+    What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
+article_title: >-
+    What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-autocrine-paracrine-and-endocrine-si
 url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
 score: -1.0
 related_article1:
-    id: 165867
-    title: What is the significance of the membrane attack complex in the complement system?
+    id: 165880
+    title: >-
+        How is the initial immune response triggered by pathogen recognition and signal transduction?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
+    url: /learn/health-studies/questions/how-is-the-initial-immune-response-triggered-by-pathogen-recognition-and-signal-transduction
 related_article2:
-    id: 165867
-    title: What is the significance of the membrane attack complex in the complement system?
+    id: 165881
+    title: >-
+        What mechanisms are involved in the sustained immune response during secondary exposure?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
 related_article3:
-    id: 165857
-    title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
-related_article4:
     id: 165877
-    title: What is the role of the NF Kappa B pathway in the inflammatory response?
+    title: >-
+        What is the role of the NF Kappa B pathway in the inflammatory response?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
-related_article5:
-    id: 165866
-    title: How do monocytes and macrophages differ from neutrophils and eosinophils in their phagocytic functions?
+related_article4:
+    id: 165870
+    title: >-
+        How do MHC Class I molecules contribute to self-identification in the immune system?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-monocytes-and-macrophages-differ-from-neutrophils-and-eosinophils-in-their-phagocytic-functions
+    url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
+related_article5:
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 ---
 
 &nbsp;

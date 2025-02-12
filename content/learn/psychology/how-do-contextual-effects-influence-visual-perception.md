@@ -2,8 +2,10 @@
 _schema: default
 id: 165018
 date: 2025-01-28
-title: How do contextual effects influence visual perception?
-article_title: How do contextual effects influence visual perception?
+title: >-
+    How do contextual effects influence visual perception?
+article_title: >-
+    How do contextual effects influence visual perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-contextual-effects-influence-visual-perception.md
 url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
 score: -1.0
 related_article1:
-    id: 165014
-    title: How do experimental design and data analysis contribute to cognitive psychology research?
+    id: 165021
+    title: >-
+        How does the size congruence effect impact everyday cognition and educational settings?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
 related_article2:
-    id: 165023
-    title: What are the challenges in designing cognitive experiments and how can they be addressed?
+    id: 165009
+    title: >-
+        What are the origins and key studies related to the concept of depth of processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
+    url: /learn/psychology/questions/what-are-the-origins-and-key-studies-related-to-the-concept-of-depth-of-processing
 related_article3:
-    id: 165016
-    title: How do symbolic and non-symbolic processing differ in numerical cognition?
+    id: 165020
+    title: >-
+        What are the key findings and significance of the GIANT study in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
+    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
 related_article4:
-    id: 165022
-    title: What are the cognitive mechanisms behind the Stroop effect and its variations?
+    id: 165015
+    title: >-
+        What are the cognitive processes involved in number perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
 related_article5:
-    id: 165010
-    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 ---
 
 &nbsp;

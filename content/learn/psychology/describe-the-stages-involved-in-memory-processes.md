@@ -2,8 +2,10 @@
 _schema: default
 id: 164673
 date: 2025-01-28
-title: Describe the stages involved in memory processes.
-article_title: Describe the stages involved in memory processes.
+title: >-
+    Describe the stages involved in memory processes.
+article_title: >-
+    Describe the stages involved in memory processes.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-stages-involved-in-memory-processes.md
 url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
 score: -1.0
 related_article1:
-    id: 164694
-    title: What are the career paths available for students pursuing a neuroscience minor?
+    id: 164679
+    title: >-
+        How does emotion influence cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
+    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
 related_article2:
-    id: 164692
-    title: How are cognitive disorders diagnosed and treated?
+    id: 164683
+    title: >-
+        What role do subconscious processes play in influencing behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
 related_article3:
-    id: 164674
-    title: What are the main cognitive functions studied in neuroscience?
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 related_article4:
-    id: 164695
-    title: How is data analytics used in the interpretation of neuroscience research results?
+    id: 164670
+    title: >-
+        What are the key functions of different brain regions in cognitive neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
+    url: /learn/psychology/questions/what-are-the-key-functions-of-different-brain-regions-in-cognitive-neuroscience
 related_article5:
-    id: 164686
-    title: What are the common neurological disorders treated with neuroscience applications?
+    id: 164671
+    title: >-
+        How do brain networks contribute to overall brain function?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
 ---
 
 &nbsp;

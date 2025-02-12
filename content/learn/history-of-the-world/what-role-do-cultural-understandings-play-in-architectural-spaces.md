@@ -2,8 +2,10 @@
 _schema: default
 id: 169021
 date: 2025-02-04
-title: What role do cultural understandings play in architectural spaces?
-article_title: What role do cultural understandings play in architectural spaces?
+title: >-
+    What role do cultural understandings play in architectural spaces?
+article_title: >-
+    What role do cultural understandings play in architectural spaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-cultural-understandings-play-in-architectural-spaces.md
 url: /learn/history-of-the-world/questions/what-role-do-cultural-understandings-play-in-architectural-spaces
 score: 9.0
 related_article1:
-    id: 169023
-    title: What are the gendered and anti-revolutionary filters present in media representations?
+    id: 169016
+    title: >-
+        How can buildings serve as symbols of revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
+    url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
 related_article2:
-    id: 169009
-    title: What actions did women take during revolutionary movements?
+    id: 169001
+    title: >-
+        How does collective work influence architectural history beyond individual builders?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-does-collective-work-influence-architectural-history-beyond-individual-builders
 related_article3:
-    id: 169007
-    title: How is architecture strategically used in different contexts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
-related_article4:
-    id: 169005
-    title: How can cross-reading architecture and history provide new insights?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
-related_article5:
     id: 169023
-    title: What are the gendered and anti-revolutionary filters present in media representations?
+    title: >-
+        What are the gendered and anti-revolutionary filters present in media representations?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
+related_article4:
+    id: 169006
+    title: >-
+        What are gendered spaces in architecture, and why are they significant?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
+related_article5:
+    id: 169002
+    title: >-
+        What role does spatial analysis play in understanding the untold stories of architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
 ---
 
 &nbsp;

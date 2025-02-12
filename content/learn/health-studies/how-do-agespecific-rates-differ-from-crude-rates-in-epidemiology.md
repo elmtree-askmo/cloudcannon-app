@@ -2,8 +2,10 @@
 _schema: default
 id: 162981
 date: 2025-01-26
-title: How do age-specific rates differ from crude rates in epidemiology?
-article_title: How do age-specific rates differ from crude rates in epidemiology?
+title: >-
+    How do age-specific rates differ from crude rates in epidemiology?
+article_title: >-
+    How do age-specific rates differ from crude rates in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-agespecific-rates-differ-from-crude-rates-in-epidemiology.md
 url: /learn/health-studies/questions/how-do-agespecific-rates-differ-from-crude-rates-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163320
-    title: What are the primary purposes of public health surveillance?
+    id: 163321
+    title: >-
+        What are the strengths and limitations of ecological studies in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
 related_article2:
-    id: 163202
-    title: What are the primary purposes of public health surveillance?
+    id: 163206
+    title: >-
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 related_article3:
-    id: 162987
-    title: How do outbreaks differ from epidemics in terms of their definitions?
+    id: 162980
+    title: >-
+        What is the main limitation of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
+    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
 related_article4:
-    id: 163314
-    title: Why are age-adjusted rates important in epidemiological studies?
+    id: 163206
+    title: >-
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 related_article5:
-    id: 162988
-    title: What is the role of public health surveillance in responding to outbreaks?
+    id: 162986
+    title: >-
+        What role do epidemiologic questions play in generating public health hypotheses?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167984
 date: 2025-02-02
-title: What is the role of biological maturation in cognitive development according to constructivist theory?
-article_title: What is the role of biological maturation in cognitive development according to constructivist theory?
+title: >-
+    What is the role of biological maturation in cognitive development according to constructivist theory?
+article_title: >-
+    What is the role of biological maturation in cognitive development according to constructivist theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-role-of-biological-maturation-in-cognitive-development-ac
 url: /learn/education-studies/questions/what-is-the-role-of-biological-maturation-in-cognitive-development-according-to-constructivist-theory
 score: -1.0
 related_article1:
-    id: 167987
-    title: Explain the processes of assimilation and accommodation in cognitive development.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
-related_article2:
-    id: 167990
-    title: Describe the discontinuous nature of Piaget's universal stages of development.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-discontinuous-nature-of-piagets-universal-stages-of-development
-related_article3:
     id: 167985
-    title: How does environmental interaction contribute to the active learning process in constructivist theory?
+    title: >-
+        How does environmental interaction contribute to the active learning process in constructivist theory?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-environmental-interaction-contribute-to-the-active-learning-process-in-constructivist-theory
-related_article4:
-    id: 167988
-    title: What is a cognitive schema, and how does it function in the context of cognitive development?
+related_article2:
+    id: 167991
+    title: >-
+        How do culture and environment influence the onset and progression of Piaget's stages of development?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-cognitive-schema-and-how-does-it-function-in-the-context-of-cognitive-development
+    url: /learn/education-studies/questions/how-do-culture-and-environment-influence-the-onset-and-progression-of-piagets-stages-of-development
+related_article3:
+    id: 167987
+    title: >-
+        Explain the processes of assimilation and accommodation in cognitive development.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
+related_article4:
+    id: 167991
+    title: >-
+        How do culture and environment influence the onset and progression of Piaget's stages of development?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-culture-and-environment-influence-the-onset-and-progression-of-piagets-stages-of-development
+related_article5:
+    id: 167987
+    title: >-
+        Explain the processes of assimilation and accommodation in cognitive development.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
 ---
 
 &nbsp;

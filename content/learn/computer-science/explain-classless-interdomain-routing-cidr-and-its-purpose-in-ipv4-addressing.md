@@ -2,8 +2,10 @@
 _schema: default
 id: 165701
 date: 2025-01-29
-title: Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
-article_title: Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
+title: >-
+    Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
+article_title: >-
+    Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-classless-interdomain-routing-cidr-and-its-purpose-in-ipv4-ad
 url: /learn/computer-science/questions/explain-classless-interdomain-routing-cidr-and-its-purpose-in-ipv4-addressing
 score: -1.0
 related_article1:
-    id: 165695
-    title: What are the differences between public and private IPv4 addresses, and what are the private address blocks?
+    id: 165700
+    title: >-
+        What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-public-and-private-ipv4-addresses-and-what-are-the-private-address-blocks
+    url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
 related_article2:
+    id: 165694
+    title: >-
+        What is multicast transmission, and what is the range of multicast addresses?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-multicast-transmission-and-what-is-the-range-of-multicast-addresses
+related_article3:
+    id: 165698
+    title: >-
+        Describe the prefix and address range of Class B IPv4 addresses.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
+related_article4:
+    id: 165691
+    title: >-
+        Why is the subnet mask important in determining the number of hosts in a network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-the-subnet-mask-important-in-determining-the-number-of-hosts-in-a-network
+related_article5:
     id: 165692
-    title: What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
+    title: >-
+        What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-unicast-transmission-and-how-does-it-differ-from-broadcast-and-multicast-transmissions
-related_article3:
-    id: 165686
-    title: How many bits are there in an IPv4 address, and what is the decimal range of each octet?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-many-bits-are-there-in-an-ipv4-address-and-what-is-the-decimal-range-of-each-octet
-related_article4:
-    id: 165689
-    title: Describe the pattern of 1s and 0s in a subnet mask and how it interprets network and host bits.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-pattern-of-1s-and-0s-in-a-subnet-mask-and-how-it-interprets-network-and-host-bits
-related_article5:
-    id: 165695
-    title: What are the differences between public and private IPv4 addresses, and what are the private address blocks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-public-and-private-ipv4-addresses-and-what-are-the-private-address-blocks
 ---
 
 &nbsp;

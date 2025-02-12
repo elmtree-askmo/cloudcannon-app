@@ -2,8 +2,10 @@
 _schema: default
 id: 165948
 date: 2025-01-29
-title: How did the Salon des Independantes contribute to the promotion of diverse art styles?
-article_title: How did the Salon des Independantes contribute to the promotion of diverse art styles?
+title: >-
+    How did the Salon des Independantes contribute to the promotion of diverse art styles?
+article_title: >-
+    How did the Salon des Independantes contribute to the promotion of diverse art styles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-did-the-salon-des-independantes-contribute-to-the-promotion-of-di
 url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
 score: 9.0
 related_article1:
-    id: 165946
-    title: How did the First Impressionist Exhibition influence the development of Impressionist techniques?
+    id: 165956
+    title: >-
+        How did Paris serve as an art hub and influence exhibition practices in the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
+    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
 related_article2:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
 related_article3:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
 related_article4:
-    id: 165941
-    title: What were the main reasons for the emergence of alternative art exhibitions in Paris?
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+related_article5:
+    id: 165940
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
 ---
 
 &nbsp;

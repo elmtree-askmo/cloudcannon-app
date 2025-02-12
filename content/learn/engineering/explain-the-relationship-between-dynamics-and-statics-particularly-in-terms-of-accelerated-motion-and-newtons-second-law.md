@@ -2,8 +2,10 @@
 _schema: default
 id: 166641
 date: 2025-01-31
-title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
-article_title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+title: >-
+    Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+article_title: >-
+    Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-relationship-between-dynamics-and-statics-particularly-in
 url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
 score: -1.0
 related_article1:
-    id: 166649
-    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+    id: 166648
+    title: >-
+        What is a position vector and how is it used to determine force direction in mechanics?
     subject: Engineering
-    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 related_article2:
-    id: 166649
-    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+    id: 166637
+    title: >-
+        How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
     subject: Engineering
-    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
 related_article3:
-    id: 166643
-    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    id: 166637
+    title: >-
+        How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
 related_article4:
-    id: 166650
-    title: What are derived units and why are they important in engineering?
+    id: 166637
+    title: >-
+        How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
 related_article5:
-    id: 166650
-    title: What are derived units and why are they important in engineering?
+    id: 166640
+    title: >-
+        How does a concentrated force affect the equilibrium of a body in statics?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
+    url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
 ---
 
 &nbsp;

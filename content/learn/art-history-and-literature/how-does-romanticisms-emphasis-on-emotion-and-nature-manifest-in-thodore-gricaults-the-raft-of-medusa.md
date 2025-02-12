@@ -2,8 +2,10 @@
 _schema: default
 id: 165972
 date: 2025-01-29
-title: How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
-article_title: How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
+title: >-
+    How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
+article_title: >-
+    How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thod
 url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
 score: 9.0
 related_article1:
-    id: 165969
-    title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
-related_article2:
-    id: 165965
-    title: What are the key characteristics of Realism and how do they differ from Romanticism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
-related_article3:
     id: 165966
-    title: How did the Pre-Raphaelite movement oppose the academic style of its time?
+    title: >-
+        How did the Pre-Raphaelite movement oppose the academic style of its time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
-related_article4:
-    id: 165974
-    title: How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+related_article2:
+    id: 165977
+    title: >-
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
+related_article3:
+    id: 165975
+    title: >-
+        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
+related_article4:
+    id: 165969
+    title: >-
+        In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
 related_article5:
     id: 165971
-    title: What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+    title: >-
+        What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
 ---

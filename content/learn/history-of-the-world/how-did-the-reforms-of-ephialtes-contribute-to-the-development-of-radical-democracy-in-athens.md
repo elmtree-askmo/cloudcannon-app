@@ -2,8 +2,10 @@
 _schema: default
 id: 166028
 date: 2025-01-29
-title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
-article_title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+title: >-
+    How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+article_title: >-
+    How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-rad
 url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
 score: 9.0
 related_article1:
-    id: 166029
-    title: What were the defining characteristics of oligarchic factions in ancient Athens?
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 related_article2:
-    id: 166025
-    title: How did Solon's reforms impact the socioeconomic classes in Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
-related_article3:
-    id: 166039
-    title: What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-archaeologists-face-in-preserving-and-interpreting-ancient-athenian-sites
-related_article4:
     id: 166037
-    title: What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
-related_article5:
-    id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+related_article3:
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
+related_article4:
+    id: 166038
+    title: >-
+        What significant discoveries have been made through excavations of the Classical Acropolis?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-significant-discoveries-have-been-made-through-excavations-of-the-classical-acropolis
+related_article5:
+    id: 166034
+    title: >-
+        What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
 ---
 
 &nbsp;

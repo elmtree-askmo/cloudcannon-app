@@ -2,8 +2,10 @@
 _schema: default
 id: 166312
 date: 2025-01-30
-title: How does monoclonal antibody therapy work in treating lymphoma?
-article_title: How does monoclonal antibody therapy work in treating lymphoma?
+title: >-
+    How does monoclonal antibody therapy work in treating lymphoma?
+article_title: >-
+    How does monoclonal antibody therapy work in treating lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma.md
 url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
 score: -1.0
 related_article1:
-    id: 166310
-    title: How is lymphoma diagnosed and classified through biopsy?
+    id: 166316
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-through-biopsy
+    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 related_article2:
-    id: 166304
-    title: What are the distinguishing characteristics of Hodgkin's lymphoma?
+    id: 166309
+    title: >-
+        What constitutional symptoms are associated with lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma
+    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 related_article3:
-    id: 166315
-    title: What are the causes and symptoms of leukopenia and neutropenia?
+    id: 166313
+    title: >-
+        What are the common causes and symptoms of anemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article4:
-    id: 166297
-    title: What viral infections are associated with an increased risk of leukemia?
+    id: 166305
+    title: >-
+        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
+    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
 related_article5:
-    id: 166292
-    title: What biopsy techniques are commonly used in the diagnosis of leukemia?
+    id: 166316
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
+    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 ---
 
 &nbsp;

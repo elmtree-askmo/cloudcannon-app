@@ -2,8 +2,10 @@
 _schema: default
 id: 169314
 date: 2025-02-05
-title: What is differential reinforcement and what is its primary purpose?
-article_title: What is differential reinforcement and what is its primary purpose?
+title: >-
+    What is differential reinforcement and what is its primary purpose?
+article_title: >-
+    What is differential reinforcement and what is its primary purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-differential-reinforcement-and-what-is-its-primary-purpose.md
 url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
 score: -1.0
 related_article1:
-    id: 169318
-    title: Why is measuring the duration of behavior relevant to behavior modification?
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
 related_article2:
-    id: 169323
-    title: What is positive reinforcement and how does it aid in behavior shaping?
+    id: 169311
+    title: >-
+        What is shaping and why is it important in behavior development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
 related_article3:
-    id: 169324
-    title: What is extinction in behavior modification and what effect does it have on behavior?
+    id: 169313
+    title: >-
+        What are the key steps involved in the shaping process?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
+    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
 related_article4:
-    id: 169319
-    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
 related_article5:
-    id: 169317
-    title: How is frequency measured in behavior tracking and why is it important?
+    id: 169313
+    title: >-
+        What are the key steps involved in the shaping process?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
+    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
 ---
 
 &nbsp;

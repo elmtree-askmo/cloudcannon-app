@@ -2,8 +2,10 @@
 _schema: default
 id: 168210
 date: 2025-02-03
-title: What are the ethical considerations related to bias and fairness in AI?
-article_title: What are the ethical considerations related to bias and fairness in AI?
+title: >-
+    What are the ethical considerations related to bias and fairness in AI?
+article_title: >-
+    What are the ethical considerations related to bias and fairness in AI?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-ethical-considerations-related-to-bias-and-fairness-in-a
 url: /learn/others/questions/what-are-the-ethical-considerations-related-to-bias-and-fairness-in-ai
 score: -1.0
 related_article1:
+    id: 168213
+    title: >-
+        What is the purpose of decision trees in prescriptive analysis?
+    subject: Others
+    url: /learn/others/questions/what-is-the-purpose-of-decision-trees-in-prescriptive-analysis
+related_article2:
     id: 168212
-    title: How do regression techniques contribute to predictive analysis?
+    title: >-
+        How do regression techniques contribute to predictive analysis?
     subject: Others
     url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
-related_article2:
-    id: 168216
-    title: What are the key benefits of using cloud computing in data science?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-benefits-of-using-cloud-computing-in-data-science
 related_article3:
     id: 168197
-    title: What are some common labeling techniques used in data annotation?
+    title: >-
+        What are some common labeling techniques used in data annotation?
     subject: Others
     url: /learn/others/questions/what-are-some-common-labeling-techniques-used-in-data-annotation
 related_article4:
-    id: 168212
-    title: How do regression techniques contribute to predictive analysis?
+    id: 168213
+    title: >-
+        What is the purpose of decision trees in prescriptive analysis?
     subject: Others
-    url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
+    url: /learn/others/questions/what-is-the-purpose-of-decision-trees-in-prescriptive-analysis
 related_article5:
-    id: 168202
-    title: List three common evaluation metrics used in supervised learning.
+    id: 168207
+    title: >-
+        What are transformer models, and how do they differ from traditional neural network models?
     subject: Others
-    url: /learn/others/questions/list-three-common-evaluation-metrics-used-in-supervised-learning
+    url: /learn/others/questions/what-are-transformer-models-and-how-do-they-differ-from-traditional-neural-network-models
 ---
 
 &nbsp;

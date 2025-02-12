@@ -2,8 +2,10 @@
 _schema: default
 id: 170290
 date: 2025-02-06
-title: How can online practice tests aid in assessment preparation?
-article_title: How can online practice tests aid in assessment preparation?
+title: >-
+    How can online practice tests aid in assessment preparation?
+article_title: >-
+    How can online practice tests aid in assessment preparation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-online-practice-tests-aid-in-assessment-preparation.md
 url: /learn/education-studies/questions/how-can-online-practice-tests-aid-in-assessment-preparation
 score: -1.0
 related_article1:
-    id: 170284
-    title: What are the main components of the carbon cycle?
+    id: 170286
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-carbon-cycle
+    url: /learn/education-studies/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
 related_article2:
-    id: 170284
-    title: What are the main components of the carbon cycle?
+    id: 170289
+    title: >-
+        What strategies can be used to improve understanding of the carbon cycle?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-carbon-cycle
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-improve-understanding-of-the-carbon-cycle
 related_article3:
-    id: 170287
-    title: What is carbon sequestration and why is it important?
+    id: 170291
+    title: >-
+        What techniques can be used for self-testing in preparation for assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-carbon-sequestration-and-why-is-it-important
+    url: /learn/education-studies/questions/what-techniques-can-be-used-for-selftesting-in-preparation-for-assessments
 related_article4:
-    id: 170284
-    title: What are the main components of the carbon cycle?
+    id: 170289
+    title: >-
+        What strategies can be used to improve understanding of the carbon cycle?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-carbon-cycle
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-improve-understanding-of-the-carbon-cycle
 related_article5:
-    id: 170284
-    title: What are the main components of the carbon cycle?
+    id: 170292
+    title: >-
+        How can you evaluate your mastery of key concepts in the carbon cycle?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-carbon-cycle
+    url: /learn/education-studies/questions/how-can-you-evaluate-your-mastery-of-key-concepts-in-the-carbon-cycle
 ---
 
 &nbsp;

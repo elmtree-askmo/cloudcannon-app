@@ -2,8 +2,10 @@
 _schema: default
 id: 168855
 date: 2025-02-04
-title: Describe the role of maltase in the hydrolysis of maltose and its location in the body.
-article_title: Describe the role of maltase in the hydrolysis of maltose and its location in the body.
+title: >-
+    Describe the role of maltase in the hydrolysis of maltose and its location in the body.
+article_title: >-
+    Describe the role of maltase in the hydrolysis of maltose and its location in the body.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-maltase-in-the-hydrolysis-of-maltose-and-its-loc
 url: /learn/health-studies/questions/describe-the-role-of-maltase-in-the-hydrolysis-of-maltose-and-its-location-in-the-body
 score: -1.0
 related_article1:
-    id: 168844
-    title: Identify the types of disaccharides and describe the role of glycosidic bonds in their formation and breakdown.
+    id: 168847
+    title: >-
+        What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
     subject: Health Studies
-    url: /learn/health-studies/questions/identify-the-types-of-disaccharides-and-describe-the-role-of-glycosidic-bonds-in-their-formation-and-breakdown
+    url: /learn/health-studies/questions/what-are-membranebound-disaccharidases-and-how-do-they-function-in-the-digestion-of-disaccharides
 related_article2:
-    id: 168854
-    title: What is the function of carrier proteins in facilitated diffusion and active transport?
+    id: 168849
+    title: >-
+        How do epithelial cells in the small intestine adapt to maximize nutrient absorption?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
+    url: /learn/health-studies/questions/how-do-epithelial-cells-in-the-small-intestine-adapt-to-maximize-nutrient-absorption
 related_article3:
-    id: 168851
-    title: Outline the process of ATP production through cellular respiration and its role as an energy currency.
+    id: 168846
+    title: >-
+        Describe the structure of the phospholipid bilayer and its role in selective permeability.
     subject: Health Studies
-    url: /learn/health-studies/questions/outline-the-process-of-atp-production-through-cellular-respiration-and-its-role-as-an-energy-currency
+    url: /learn/health-studies/questions/describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-selective-permeability
 related_article4:
-    id: 168842
-    title: What is hydrolysis and how does it contribute to the digestion process?
+    id: 168846
+    title: >-
+        Describe the structure of the phospholipid bilayer and its role in selective permeability.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-process
+    url: /learn/health-studies/questions/describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-selective-permeability
 related_article5:
-    id: 168854
-    title: What is the function of carrier proteins in facilitated diffusion and active transport?
+    id: 168849
+    title: >-
+        How do epithelial cells in the small intestine adapt to maximize nutrient absorption?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
+    url: /learn/health-studies/questions/how-do-epithelial-cells-in-the-small-intestine-adapt-to-maximize-nutrient-absorption
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167522
 date: 2025-01-31
-title: What factors affect an organism's survival and reproductive success?
-article_title: What factors affect an organism's survival and reproductive success?
+title: >-
+    What factors affect an organism's survival and reproductive success?
+article_title: >-
+    What factors affect an organism's survival and reproductive success?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-affect-an-organisms-survival-and-reproductive-success.md
 url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
 score: -1.0
 related_article1:
-    id: 167508
-    title: What are the essential components of designing a scientific experiment?
+    id: 167515
+    title: >-
+        What is the significance of cellular organization in living organisms?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+    url: /learn/biology/questions/what-is-the-significance-of-cellular-organization-in-living-organisms
 related_article2:
-    id: 167514
-    title: How do organisms respond to stimuli and why is this response important?
+    id: 167518
+    title: >-
+        What are the three domains of biological organisms and how do they differ?
     subject: Biology
-    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-response-important
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
 related_article3:
-    id: 167521
-    title: How does the heritability of traits contribute to evolution?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
-related_article4:
-    id: 167516
-    title: What distinguishes a scientific theory from a hypothesis?
-    subject: Biology
-    url: /learn/biology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
-related_article5:
     id: 167508
-    title: What are the essential components of designing a scientific experiment?
+    title: >-
+        What are the essential components of designing a scientific experiment?
     subject: Biology
     url: /learn/biology/questions/what-are-the-essential-components-of-designing-a-scientific-experiment
+related_article4:
+    id: 167520
+    title: >-
+        What are the sources of variation in traits and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution
+related_article5:
+    id: 167518
+    title: >-
+        What are the three domains of biological organisms and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-three-domains-of-biological-organisms-and-how-do-they-differ
 ---
 
 &nbsp;

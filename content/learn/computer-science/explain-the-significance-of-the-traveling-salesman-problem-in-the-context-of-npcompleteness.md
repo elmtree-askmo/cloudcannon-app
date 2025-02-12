@@ -2,8 +2,10 @@
 _schema: default
 id: 161103
 date: 2025-01-24
-title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
-article_title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
+title: >-
+    Explain the significance of the traveling salesman problem in the context of NP-completeness.
+article_title: >-
+    Explain the significance of the traveling salesman problem in the context of NP-completeness.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-significance-of-the-traveling-salesman-problem-in-the-con
 url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
 score: -1.0
 related_article1:
-    id: 161283
-    title: What is the significance of the P vs NP problem in computational theory?
+    id: 161088
+    title: >-
+        How does the representation of an algorithm impact its complexity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
+    url: /learn/computer-science/questions/how-does-the-representation-of-an-algorithm-impact-its-complexity
 related_article2:
-    id: 160819
-    title: How do static and dynamic analysis techniques differ in algorithm development?
+    id: 161087
+    title: >-
+        What is the significance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+    url: /learn/computer-science/questions/what-is-the-significance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 related_article3:
-    id: 161133
-    title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
+    id: 160968
+    title: >-
+        How does understanding cardinality impact set theory and computability?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
+    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
 related_article4:
-    id: 161143
-    title: How does the concept of cardinality apply to comparing infinite sets?
+    id: 160812
+    title: >-
+        What distinguishes rational numbers from irrational numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
+    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
 related_article5:
-    id: 160804
-    title: What is the halting problem, and why is it significant in computability theory?
+    id: 161279
+    title: >-
+        What distinguishes rational numbers from irrational numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163330
 date: 2025-01-26
-title: Why is it crucial to use the correct denominator when calculating a proportion?
-article_title: Why is it crucial to use the correct denominator when calculating a proportion?
+title: >-
+    Why is it crucial to use the correct denominator when calculating a proportion?
+article_title: >-
+    Why is it crucial to use the correct denominator when calculating a proportion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-p
 url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 score: -1.0
 related_article1:
-    id: 163329
-    title: How is a ratio different from a proportion in epidemiological studies?
+    id: 163242
+    title: >-
+        How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-does-it-rely-on
+related_article2:
+    id: 163328
+    title: >-
+        What is the significance of measuring disease frequency over a specific time interval?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-specific-time-interval
+related_article3:
+    id: 163243
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
+related_article4:
+    id: 163063
+    title: >-
+        Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
+related_article5:
+    id: 163228
+    title: >-
+        How is a ratio different from a proportion in epidemiological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
-related_article2:
-    id: 163062
-    title: How is the numerator used in measures of disease frequency determined?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
-related_article3:
-    id: 163225
-    title: How is the numerator used in measures of disease frequency determined?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
-related_article4:
-    id: 163240
-    title: How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-is-its-purpose
-related_article5:
-    id: 163078
-    title: What are the limitations of using crude rates in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
 ---
 
 &nbsp;

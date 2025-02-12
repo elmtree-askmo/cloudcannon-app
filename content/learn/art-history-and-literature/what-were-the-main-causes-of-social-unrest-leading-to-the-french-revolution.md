@@ -2,8 +2,10 @@
 _schema: default
 id: 168715
 date: 2025-02-04
-title: What were the main causes of social unrest leading to the French Revolution?
-article_title: What were the main causes of social unrest leading to the French Revolution?
+title: >-
+    What were the main causes of social unrest leading to the French Revolution?
+article_title: >-
+    What were the main causes of social unrest leading to the French Revolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-causes-of-social-unrest-leading-to-the-french-revo
 url: /learn/art-history-and-literature/questions/what-were-the-main-causes-of-social-unrest-leading-to-the-french-revolution
 score: 8.5
 related_article1:
-    id: 168729
-    title: What were the artistic responses to industrialization from both Romanticism and Realism perspectives?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-industrialization-from-both-romanticism-and-realism-perspectives
-related_article2:
-    id: 168727
-    title: Who were the key representatives of Realism, and what were their contributions to the movement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
-related_article3:
-    id: 168723
-    title: What impact did the modernization of Paris have on artistic representation during the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
-related_article4:
-    id: 168726
-    title: How did 19th-century art address social issues such as poverty and gender identity?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
-related_article5:
     id: 168722
-    title: How did the introduction of photography change the composition and realism in painting?
+    title: >-
+        How did the introduction of photography change the composition and realism in painting?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
+related_article2:
+    id: 168735
+    title: >-
+        What role did women play in art during the 19th century, and how was gender identity explored?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
+related_article3:
+    id: 168736
+    title: >-
+        How did artists represent the working class and critique working conditions in their art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
+related_article4:
+    id: 168725
+    title: >-
+        What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
+related_article5:
+    id: 168730
+    title: >-
+        How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
 ---
 
 &nbsp;

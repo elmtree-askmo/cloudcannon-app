@@ -2,8 +2,10 @@
 _schema: default
 id: 170473
 date: 2025-02-06
-title: How do short-term and long-term memory systems differ in the limbic system?
-article_title: How do short-term and long-term memory systems differ in the limbic system?
+title: >-
+    How do short-term and long-term memory systems differ in the limbic system?
+article_title: >-
+    How do short-term and long-term memory systems differ in the limbic system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-sys
 url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 score: -1.0
 related_article1:
+    id: 170479
+    title: >-
+        What are the common causes and effects of traumatic brain injury?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
+related_article2:
+    id: 170465
+    title: >-
+        What is the role of synaptic transmission in neurophysiology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
+related_article3:
+    id: 170483
+    title: >-
+        What are the components of a reflex arc in neural pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
+related_article4:
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+related_article5:
     id: 170476
-    title: What is the clinical significance of the dura mater in the meninges?
+    title: >-
+        What is the clinical significance of the dura mater in the meninges?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
-related_article2:
-    id: 170485
-    title: What are the key stages of prenatal and postnatal neurodevelopment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
-related_article3:
-    id: 170477
-    title: How does synaptic plasticity contribute to learning and memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
-related_article4:
-    id: 170463
-    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
-related_article5:
-    id: 170475
-    title: What are the causes and symptoms of an epidural hematoma?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
 ---
 
 &nbsp;

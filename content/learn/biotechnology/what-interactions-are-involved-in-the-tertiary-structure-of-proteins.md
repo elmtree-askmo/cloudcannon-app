@@ -2,8 +2,10 @@
 _schema: default
 id: 166844
 date: 2025-01-31
-title: What interactions are involved in the tertiary structure of proteins?
-article_title: What interactions are involved in the tertiary structure of proteins?
+title: >-
+    What interactions are involved in the tertiary structure of proteins?
+article_title: >-
+    What interactions are involved in the tertiary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-interactions-are-involved-in-the-tertiary-structure-of-proteins.
 url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
 score: -1.0
 related_article1:
-    id: 166837
-    title: How do enzymes facilitate metabolic pathways in cellular processes?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
-related_article2:
-    id: 166838
-    title: What role do hormones play in the regulation of gene expression?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
-related_article3:
-    id: 166837
-    title: How do enzymes facilitate metabolic pathways in cellular processes?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
-related_article4:
     id: 166841
-    title: Explain the process of peptide bond formation and its significance in protein structure.
+    title: >-
+        Explain the process of peptide bond formation and its significance in protein structure.
     subject: Biotechnology
     url: /learn/biotechnology/questions/explain-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure
-related_article5:
-    id: 166848
-    title: What factors can affect enzyme activity and how?
+related_article2:
+    id: 166851
+    title: >-
+        How do R-group interactions influence the stability and folding patterns of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-factors-can-affect-enzyme-activity-and-how
+    url: /learn/biotechnology/questions/how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins
+related_article3:
+    id: 166847
+    title: >-
+        How does the active site of an enzyme facilitate substrate binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
+related_article4:
+    id: 166843
+    title: >-
+        How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
+related_article5:
+    id: 166851
+    title: >-
+        How do R-group interactions influence the stability and folding patterns of proteins?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-rgroup-interactions-influence-the-stability-and-folding-patterns-of-proteins
 ---
 
 &nbsp;

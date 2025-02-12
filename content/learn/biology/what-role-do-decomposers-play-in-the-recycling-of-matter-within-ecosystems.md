@@ -2,8 +2,10 @@
 _schema: default
 id: 170350
 date: 2025-02-06
-title: What role do decomposers play in the recycling of matter within ecosystems?
-article_title: What role do decomposers play in the recycling of matter within ecosystems?
+title: >-
+    What role do decomposers play in the recycling of matter within ecosystems?
+article_title: >-
+    What role do decomposers play in the recycling of matter within ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-
 score: -1.0
 related_article1:
     id: 170345
-    title: How does photosynthesis contribute to the balance of ecosystems?
+    title: >-
+        How does photosynthesis contribute to the balance of ecosystems?
     subject: Biology
     url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
 related_article2:
-    id: 170353
-    title: What is radiant energy, and how is it converted during photosynthesis?
+    id: 170344
+    title: >-
+        What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
     subject: Biology
-    url: /learn/biology/questions/what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis
+    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
 related_article3:
-    id: 170354
-    title: How is glucose formed during photosynthesis, and what is its role in cellular respiration?
-    subject: Biology
-    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
-related_article4:
     id: 170352
-    title: How is ATP formed, and what is its role in energy transfer within cells?
+    title: >-
+        How is ATP formed, and what is its role in energy transfer within cells?
     subject: Biology
     url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
-related_article5:
-    id: 170355
-    title: What are anaerobes, and how do they contribute to energy production in ecosystems?
+related_article4:
+    id: 170346
+    title: >-
+        What is cellular respiration, and why is it important for organisms?
     subject: Biology
-    url: /learn/biology/questions/what-are-anaerobes-and-how-do-they-contribute-to-energy-production-in-ecosystems
+    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+related_article5:
+    id: 170348
+    title: >-
+        How is chemical energy stored in glucose and converted to ATP in organisms?
+    subject: Biology
+    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
 ---
 
 &nbsp;

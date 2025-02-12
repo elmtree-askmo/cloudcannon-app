@@ -2,8 +2,10 @@
 _schema: default
 id: 165485
 date: 2025-01-29
-title: How do memory and recall contribute to cognitive processes?
-article_title: How do memory and recall contribute to cognitive processes?
+title: >-
+    How do memory and recall contribute to cognitive processes?
+article_title: >-
+    How do memory and recall contribute to cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-memory-and-recall-contribute-to-cognitive-processes.md
 url: /learn/education-studies/questions/how-do-memory-and-recall-contribute-to-cognitive-processes
 score: -1.0
 related_article1:
+    id: 165490
+    title: >-
+        How does long-term memory differ from short-term memory in terms of retention?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-longterm-memory-differ-from-shortterm-memory-in-terms-of-retention
+related_article2:
+    id: 165481
+    title: >-
+        How can comparing and contrasting information help in understanding the relationship between information?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-comparing-and-contrasting-information-help-in-understanding-the-relationship-between-information
+related_article3:
+    id: 165504
+    title: >-
+        What approaches can be taken to promote lifelong learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-approaches-can-be-taken-to-promote-lifelong-learning
+related_article4:
     id: 165499
-    title: What are some active engagement techniques to enhance the learning experience?
+    title: >-
+        What are some active engagement techniques to enhance the learning experience?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-active-engagement-techniques-to-enhance-the-learning-experience
-related_article2:
-    id: 165486
-    title: What role does analytical thinking play in cognitive processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-analytical-thinking-play-in-cognitive-processes
-related_article3:
+related_article5:
     id: 165501
-    title: What are some reflective practices that can enhance learning?
+    title: >-
+        What are some reflective practices that can enhance learning?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-reflective-practices-that-can-enhance-learning
-related_article4:
-    id: 165503
-    title: How can technology be leveraged to improve learning experiences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-leveraged-to-improve-learning-experiences
-related_article5:
-    id: 165494
-    title: How can evaluating information critically improve decision making?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-evaluating-information-critically-improve-decision-making
 ---
 
 &nbsp;

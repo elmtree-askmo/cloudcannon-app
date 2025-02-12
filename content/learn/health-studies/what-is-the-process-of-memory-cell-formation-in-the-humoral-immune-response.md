@@ -2,8 +2,10 @@
 _schema: default
 id: 165873
 date: 2025-01-29
-title: What is the process of memory cell formation in the humoral immune response?
-article_title: What is the process of memory cell formation in the humoral immune response?
+title: >-
+    What is the process of memory cell formation in the humoral immune response?
+article_title: >-
+    What is the process of memory cell formation in the humoral immune response?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-memory-cell-formation-in-the-humoral-immune-re
 url: /learn/health-studies/questions/what-is-the-process-of-memory-cell-formation-in-the-humoral-immune-response
 score: -1.0
 related_article1:
-    id: 165881
-    title: What mechanisms are involved in the sustained immune response during secondary exposure?
+    id: 165875
+    title: >-
+        What is the significance of clonal expansion in immune memory?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
+    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
 related_article2:
+    id: 165875
+    title: >-
+        What is the significance of clonal expansion in immune memory?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
+related_article3:
+    id: 165874
+    title: >-
+        How does concomitant immunity provide protection against re-infection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
+related_article4:
+    id: 165876
+    title: >-
+        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
+related_article5:
     id: 165869
-    title: What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
+    title: >-
+        What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
-related_article3:
-    id: 165871
-    title: What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
-related_article4:
-    id: 165861
-    title: What roles do skin and mucous membranes play as physical barriers in the immune system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
-related_article5:
-    id: 165870
-    title: How do MHC Class I molecules contribute to self-identification in the immune system?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
 ---
 
 &nbsp;

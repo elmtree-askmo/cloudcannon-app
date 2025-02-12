@@ -2,8 +2,10 @@
 _schema: default
 id: 166969
 date: 2025-01-31
-title: What mechanisms are involved in protein folding pathways?
-article_title: What mechanisms are involved in protein folding pathways?
+title: >-
+    What mechanisms are involved in protein folding pathways?
+article_title: >-
+    What mechanisms are involved in protein folding pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-mechanisms-are-involved-in-protein-folding-pathways.md
 url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 score: -1.0
 related_article1:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166952
+    title: >-
+        What is the fundamental structure of an amino acid?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+    url: /learn/biotechnology/questions/what-is-the-fundamental-structure-of-an-amino-acid
 related_article2:
     id: 166958
-    title: What determines the primary structure of a protein?
+    title: >-
+        What determines the primary structure of a protein?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
 related_article3:
-    id: 166967
-    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    id: 166963
+    title: >-
+        What environmental factors can affect protein function?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
 related_article4:
-    id: 166967
-    title: How do hydrophilic and hydrophobic R-groups interact with water?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
-related_article5:
     id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    title: >-
+        What is the difference between essential and non-essential amino acids?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+related_article5:
+    id: 166953
+    title: >-
+        How does the side chain (R-group) affect the chemical properties of an amino acid?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
 ---
 
 &nbsp;

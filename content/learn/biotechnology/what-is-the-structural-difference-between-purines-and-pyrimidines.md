@@ -2,8 +2,10 @@
 _schema: default
 id: 167636
 date: 2025-01-31
-title: What is the structural difference between purines and pyrimidines?
-article_title: What is the structural difference between purines and pyrimidines?
+title: >-
+    What is the structural difference between purines and pyrimidines?
+article_title: >-
+    What is the structural difference between purines and pyrimidines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-structural-difference-between-purines-and-pyrimidines.md
 url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
 score: -1.0
 related_article1:
-    id: 167647
-    title: List the nitrogenous bases found in DNA and RNA.
+    id: 167648
+    title: >-
+        What are the functional implications of the structural differences between ribose and deoxyribose sugars?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
 related_article2:
-    id: 167646
-    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    id: 167648
+    title: >-
+        What are the functional implications of the structural differences between ribose and deoxyribose sugars?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
+    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
 related_article3:
-    id: 167647
-    title: List the nitrogenous bases found in DNA and RNA.
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
 related_article4:
-    id: 167634
-    title: What are the three main components of a nucleotide?
+    id: 167641
+    title: >-
+        How does the primary structure of DNA differ from that of RNA?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
 related_article5:
-    id: 167643
-    title: How do triglycerides differ from phospholipids in structure and function?
+    id: 167642
+    title: >-
+        What is the role of hydrogen bonding in the secondary structure of DNA?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 ---
 
 &nbsp;

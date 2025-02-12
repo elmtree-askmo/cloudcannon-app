@@ -2,8 +2,10 @@
 _schema: default
 id: 166039
 date: 2025-01-29
-title: What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
-article_title: What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
+title: >-
+    What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
+article_title: >-
+    What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-archaeologists-face-in-preserving-and-interpreting
 url: /learn/history-of-the-world/questions/what-challenges-do-archaeologists-face-in-preserving-and-interpreting-ancient-athenian-sites
 score: 9.0
 related_article1:
-    id: 166017
-    title: What was the historical significance of Athens as an urban center in ancient times?
+    id: 166038
+    title: >-
+        What significant discoveries have been made through excavations of the Classical Acropolis?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
+    url: /learn/history-of-the-world/questions/what-significant-discoveries-have-been-made-through-excavations-of-the-classical-acropolis
 related_article2:
-    id: 166018
-    title: How did the geographical location of Athens contribute to its economic importance?
+    id: 166028
+    title: >-
+        How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-geographical-location-of-athens-contribute-to-its-economic-importance
+    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
 related_article3:
-    id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    id: 166034
+    title: >-
+        What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
+    url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
 related_article4:
-    id: 166031
-    title: How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-pseudoaristotle-contribute-to-our-understanding-of-the-athenian-constitution
-related_article5:
     id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    title: >-
+        What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
+related_article5:
+    id: 166019
+    title: >-
+        What is the myth of Synoikism, and how does it relate to the Attica region?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
 ---
 
 &nbsp;

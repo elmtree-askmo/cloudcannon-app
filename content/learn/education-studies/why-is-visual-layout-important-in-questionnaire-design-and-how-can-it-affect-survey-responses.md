@@ -2,8 +2,10 @@
 _schema: default
 id: 164996
 date: 2025-01-28
-title: Why is visual layout important in questionnaire design, and how can it affect survey responses?
-article_title: Why is visual layout important in questionnaire design, and how can it affect survey responses?
+title: >-
+    Why is visual layout important in questionnaire design, and how can it affect survey responses?
+article_title: >-
+    Why is visual layout important in questionnaire design, and how can it affect survey responses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-visual-layout-important-in-questionnaire-design-and-how-can-it
 url: /learn/education-studies/questions/why-is-visual-layout-important-in-questionnaire-design-and-how-can-it-affect-survey-responses
 score: -1.0
 related_article1:
-    id: 165008
-    title: How is election forecasting conducted using survey data?
+    id: 164999
+    title: >-
+        What are the different types of statistical variables, and how do they impact data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-election-forecasting-conducted-using-survey-data
+    url: /learn/education-studies/questions/what-are-the-different-types-of-statistical-variables-and-how-do-they-impact-data-analysis
 related_article2:
-    id: 164994
-    title: How can assumptions be avoided in survey question formulation?
+    id: 164993
+    title: >-
+        What are the key elements to consider when formulating survey questions to ensure clarity and simplicity?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assumptions-be-avoided-in-survey-question-formulation
+    url: /learn/education-studies/questions/what-are-the-key-elements-to-consider-when-formulating-survey-questions-to-ensure-clarity-and-simplicity
 related_article3:
-    id: 164998
-    title: How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
+    id: 165007
+    title: >-
+        What are the key components of public opinion surveys in political polling?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-of-data-collection-effectiveness
+    url: /learn/education-studies/questions/what-are-the-key-components-of-public-opinion-surveys-in-political-polling
 related_article4:
-    id: 165006
-    title: How does random sampling differ from stratified sampling, and when should each be used?
+    id: 164999
+    title: >-
+        What are the different types of statistical variables, and how do they impact data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-random-sampling-differ-from-stratified-sampling-and-when-should-each-be-used
+    url: /learn/education-studies/questions/what-are-the-different-types-of-statistical-variables-and-how-do-they-impact-data-analysis
 related_article5:
-    id: 165005
-    title: What are the differences between experimental design and observational studies in research methodology?
+    id: 164995
+    title: >-
+        What are the best practices for structuring questions in a questionnaire to maintain a logical flow?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-experimental-design-and-observational-studies-in-research-methodology
+    url: /learn/education-studies/questions/what-are-the-best-practices-for-structuring-questions-in-a-questionnaire-to-maintain-a-logical-flow
 ---
 
 &nbsp;

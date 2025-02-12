@@ -2,8 +2,10 @@
 _schema: default
 id: 170560
 date: 2025-02-06
-title: What are the primary pathophysiological features of Parkinson's disease?
-article_title: What are the primary pathophysiological features of Parkinson's disease?
+title: >-
+    What are the primary pathophysiological features of Parkinson's disease?
+article_title: >-
+    What are the primary pathophysiological features of Parkinson's disease?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-pathophysiological-features-of-parkinsons-diseas
 url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
 score: -1.0
 related_article1:
-    id: 170565
-    title: What is the process of DNA transcription in genetic pathways?
+    id: 170575
+    title: >-
+        What is the role of calcium ions in muscle contraction mechanisms?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
+    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 related_article2:
-    id: 170555
-    title: Describe the function of the sodium-potassium pump in neuron activity.
+    id: 170571
+    title: >-
+        How can AI hallucinations impact the use of large language models in education?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
+    url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
 related_article3:
-    id: 170551
-    title: How do positive and negative feedback mechanisms differ in physiological processes?
+    id: 170552
+    title: >-
+        What is the pathophysiological mechanism of tetanus?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-feedback-mechanisms-differ-in-physiological-processes
+    url: /learn/health-studies/questions/what-is-the-pathophysiological-mechanism-of-tetanus
 related_article4:
-    id: 170572
-    title: What are the benefits of using clinical vignettes in research methodologies?
+    id: 170575
+    title: >-
+        What is the role of calcium ions in muscle contraction mechanisms?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
+    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 related_article5:
-    id: 170553
-    title: How does neurotransmitter blockage affect nervous system function?
+    id: 170579
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
+    url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 ---
 
 &nbsp;

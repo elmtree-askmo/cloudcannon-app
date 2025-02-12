@@ -2,8 +2,10 @@
 _schema: default
 id: 164596
 date: 2025-01-28
-title: How do membrane proteins contribute to membrane dynamics?
-article_title: How do membrane proteins contribute to membrane dynamics?
+title: >-
+    How do membrane proteins contribute to membrane dynamics?
+article_title: >-
+    How do membrane proteins contribute to membrane dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/others/questions/how-do-membrane-proteins-contribute-to-membrane-dyn
 score: -1.0
 related_article1:
     id: 164595
-    title: What is the function of mitochondria within a cell?
+    title: >-
+        What is the function of mitochondria within a cell?
     subject: Others
     url: /learn/others/questions/what-is-the-function-of-mitochondria-within-a-cell
 related_article2:
-    id: 164593
-    title: What were some key discoveries in the history of neuroscience?
+    id: 164595
+    title: >-
+        What is the function of mitochondria within a cell?
     subject: Others
-    url: /learn/others/questions/what-were-some-key-discoveries-in-the-history-of-neuroscience
+    url: /learn/others/questions/what-is-the-function-of-mitochondria-within-a-cell
 related_article3:
-    id: 164590
-    title: How do neurons communicate through synaptic transmission?
+    id: 164588
+    title: >-
+        What are some experimental uses of microweel cells in research?
     subject: Others
-    url: /learn/others/questions/how-do-neurons-communicate-through-synaptic-transmission
+    url: /learn/others/questions/what-are-some-experimental-uses-of-microweel-cells-in-research
 related_article4:
-    id: 164590
-    title: How do neurons communicate through synaptic transmission?
+    id: 164595
+    title: >-
+        What is the function of mitochondria within a cell?
     subject: Others
-    url: /learn/others/questions/how-do-neurons-communicate-through-synaptic-transmission
+    url: /learn/others/questions/what-is-the-function-of-mitochondria-within-a-cell
 related_article5:
     id: 164597
-    title: What are the key considerations in designing an experiment for biological research?
+    title: >-
+        What are the key considerations in designing an experiment for biological research?
     subject: Others
     url: /learn/others/questions/what-are-the-key-considerations-in-designing-an-experiment-for-biological-research
 ---

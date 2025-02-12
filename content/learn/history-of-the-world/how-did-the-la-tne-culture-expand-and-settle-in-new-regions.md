@@ -2,8 +2,10 @@
 _schema: default
 id: 160375
 date: 2025-01-24
-title: How did the La Tène Culture expand and settle in new regions?
-article_title: How did the La Tène Culture expand and settle in new regions?
+title: >-
+    How did the La Tène Culture expand and settle in new regions?
+article_title: >-
+    How did the La Tène Culture expand and settle in new regions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-la-tne-culture-expand-and-settle-in-new-regions.md
 url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
 score: 9.0
 related_article1:
-    id: 160387
-    title: How did the Celts interact with Romans in notable conflicts?
+    id: 160250
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
+    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
 related_article2:
-    id: 159913
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 160368
+    title: >-
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 related_article3:
-    id: 160182
-    title: What were the distinctive physical and behavioral traits of the Celts?
+    id: 159901
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 related_article4:
-    id: 160260
-    title: What were the distinctive physical and behavioral traits of the Celts?
+    id: 159900
+    title: >-
+        What impact did natural resources and landscapes have on Celtic society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
+    url: /learn/history-of-the-world/questions/what-impact-did-natural-resources-and-landscapes-have-on-celtic-society
 related_article5:
-    id: 160254
-    title: What were the primary military tactics and weaponry used by the Celts?
+    id: 159919
+    title: >-
+        What are the key features of Celtic metalwork and jewelry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
+    url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
 ---
 
 &nbsp;

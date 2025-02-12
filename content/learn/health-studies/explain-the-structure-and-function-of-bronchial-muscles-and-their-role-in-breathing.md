@@ -2,8 +2,10 @@
 _schema: default
 id: 168790
 date: 2025-02-04
-title: Explain the structure and function of bronchial muscles and their role in breathing.
-article_title: Explain the structure and function of bronchial muscles and their role in breathing.
+title: >-
+    Explain the structure and function of bronchial muscles and their role in breathing.
+article_title: >-
+    Explain the structure and function of bronchial muscles and their role in breathing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: explain-the-structure-and-function-of-bronchial-muscles-and-their-rol
 url: /learn/health-studies/questions/explain-the-structure-and-function-of-bronchial-muscles-and-their-role-in-breathing
 score: -1.0
 related_article1:
+    id: 168783
+    title: >-
+        What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-impact-of-scar-tissue-on-lung-elasticity-and-how-does-it-affect-tidal-volume
+related_article2:
     id: 168794
-    title: What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
+    title: >-
+        What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
     subject: Health Studies
     url: /learn/health-studies/questions/what-factors-affect-the-ventilation-rate-and-how-do-respiratory-conditions-influence-oxygen-intake-and-tidal-volume
-related_article2:
-    id: 168786
-    title: What are the primary causes and modes of transmission for Tuberculosis (TB)?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-causes-and-modes-of-transmission-for-tuberculosis-tb
 related_article3:
-    id: 168792
-    title: What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
+    id: 168793
+    title: >-
+        Discuss the causes and symptoms of emphysema and its effects on the alveoli.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-immune-response-in-maintaining-respiratory-health-particularly-in-response-to-dust-and-allergens
+    url: /learn/health-studies/questions/discuss-the-causes-and-symptoms-of-emphysema-and-its-effects-on-the-alveoli
 related_article4:
-    id: 168792
-    title: What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
+    id: 168788
+    title: >-
+        What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-immune-response-in-maintaining-respiratory-health-particularly-in-response-to-dust-and-allergens
+    url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-asthma-and-how-do-they-lead-to-an-asthma-attack
+related_article5:
+    id: 168793
+    title: >-
+        Discuss the causes and symptoms of emphysema and its effects on the alveoli.
+    subject: Health Studies
+    url: /learn/health-studies/questions/discuss-the-causes-and-symptoms-of-emphysema-and-its-effects-on-the-alveoli
 ---
 
 &nbsp;

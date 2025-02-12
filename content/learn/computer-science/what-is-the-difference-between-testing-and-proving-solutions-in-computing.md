@@ -2,8 +2,10 @@
 _schema: default
 id: 160693
 date: 2025-01-24
-title: What is the difference between testing and proving solutions in computing?
-article_title: What is the difference between testing and proving solutions in computing?
+title: >-
+    What is the difference between testing and proving solutions in computing?
+article_title: >-
+    What is the difference between testing and proving solutions in computing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-testing-and-proving-solutions-in-compu
 url: /learn/computer-science/questions/what-is-the-difference-between-testing-and-proving-solutions-in-computing
 score: -1.0
 related_article1:
-    id: 160780
-    title: Explain the concept of lists and how they are implemented as arrays.
+    id: 160872
+    title: >-
+        Compare linear search with depth-first search in terms of their approach and use cases.
+    subject: Computer Science
+    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
+related_article2:
+    id: 161017
+    title: >-
+        Explain the concept of lists and how they are implemented as arrays.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
-related_article2:
-    id: 160864
-    title: What is the purpose of abstraction in computing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
 related_article3:
-    id: 160863
-    title: How does representation influence algorithm complexity?
+    id: 160713
+    title: >-
+        Compare linear search with depth-first search in terms of their application.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-application
 related_article4:
-    id: 160796
-    title: What data is required for generating circular calendars?
+    id: 160860
+    title: >-
+        How does testing differ from proving solutions in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
+    url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
 related_article5:
-    id: 160864
-    title: What is the purpose of abstraction in computing?
+    id: 161005
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 ---
 
 &nbsp;

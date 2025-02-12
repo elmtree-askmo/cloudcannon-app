@@ -2,8 +2,10 @@
 _schema: default
 id: 166922
 date: 2025-01-31
-title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
-article_title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+title: >-
+    What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+article_title: >-
+    What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-of-the-domain-bacteria-and-what-rol
 url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
 score: -1.0
 related_article1:
-    id: 166930
-    title: How do hormonal regulation and nervous system control contribute to biological regulation?
+    id: 166916
+    title: >-
+        What processes are involved in growth and development, and how do nutrients play a role?
     subject: Biology
-    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
+    url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
 related_article2:
-    id: 166917
-    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
     subject: Biology
-    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 related_article3:
-    id: 166911
-    title: What are the essential steps in designing an experiment?
+    id: 166912
+    title: >-
+        How do scientists analyze results to evaluate a hypothesis?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-essential-steps-in-designing-an-experiment
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
 related_article4:
-    id: 166917
-    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    id: 166908
+    title: >-
+        How does formulating a question contribute to scientific research?
     subject: Biology
-    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+    url: /learn/biology/questions/how-does-formulating-a-question-contribute-to-scientific-research
 related_article5:
-    id: 166913
-    title: What is the hierarchical structure of cellular organization in living organisms?
+    id: 166920
+    title: >-
+        What is the definition of evolution, and how does it contribute to biodiversity?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
+    url: /learn/biology/questions/what-is-the-definition-of-evolution-and-how-does-it-contribute-to-biodiversity
 ---
 
 &nbsp;

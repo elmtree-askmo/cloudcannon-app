@@ -2,8 +2,10 @@
 _schema: default
 id: 165753
 date: 2025-01-29
-title: What is the role of the Global Routing Prefix in IPv6 subnetting?
-article_title: What is the role of the Global Routing Prefix in IPv6 subnetting?
+title: >-
+    What is the role of the Global Routing Prefix in IPv6 subnetting?
+article_title: >-
+    What is the role of the Global Routing Prefix in IPv6 subnetting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-global-routing-prefix-in-ipv6-subnetting.md
 url: /learn/computer-science/questions/what-is-the-role-of-the-global-routing-prefix-in-ipv6-subnetting
 score: -1.0
 related_article1:
-    id: 165743
-    title: What is the recommended prefix length for IPv6 addresses and why?
+    id: 165741
+    title: >-
+        What is the purpose of using a double colon in IPv6 address notation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
 related_article2:
+    id: 165762
+    title: >-
+        What is the rule for omitting leading zeros in IPv6 address notation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
+related_article3:
     id: 165750
-    title: What are solicited-node multicast addresses used for in IPv6?
+    title: >-
+        What are solicited-node multicast addresses used for in IPv6?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-solicitednode-multicast-addresses-used-for-in-ipv6
-related_article3:
-    id: 165745
-    title: What are the components of the structure of a Global Unicast Address (GUA)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
 related_article4:
-    id: 165739
-    title: Explain the concept of dual stack in IPv4 and IPv6 coexistence.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
-related_article5:
     id: 165751
-    title: Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
+    title: >-
+        Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
+related_article5:
+    id: 165755
+    title: >-
+        How does the dual stack technique facilitate IPv6 coexistence with IPv4?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
 ---
 
 &nbsp;

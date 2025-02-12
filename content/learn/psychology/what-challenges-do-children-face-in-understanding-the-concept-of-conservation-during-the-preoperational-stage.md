@@ -2,8 +2,10 @@
 _schema: default
 id: 167958
 date: 2025-02-02
-title: What challenges do children face in understanding the concept of conservation during the pre-operational stage?
-article_title: What challenges do children face in understanding the concept of conservation during the pre-operational stage?
+title: >-
+    What challenges do children face in understanding the concept of conservation during the pre-operational stage?
+article_title: >-
+    What challenges do children face in understanding the concept of conservation during the pre-operational stage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-children-face-in-understanding-the-concept-of-cons
 url: /learn/psychology/questions/what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage
 score: -1.0
 related_article1:
-    id: 167956
-    title: What is magical thinking, and how does it influence a child's perception of reality?
+    id: 167953
+    title: >-
+        How does role-playing in make-believe play contribute to a child's social interaction skills?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
 related_article2:
     id: 167957
-    title: How do children attribute lifelike qualities to inanimate objects through animism?
+    title: >-
+        How do children attribute lifelike qualities to inanimate objects through animism?
     subject: Psychology
     url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
 related_article3:
-    id: 167950
-    title: What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    id: 167957
+    title: >-
+        How do children attribute lifelike qualities to inanimate objects through animism?
     subject: Psychology
-    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+    url: /learn/psychology/questions/how-do-children-attribute-lifelike-qualities-to-inanimate-objects-through-animism
 related_article4:
     id: 167959
-    title: How does centration affect a child's ability to consider multiple aspects of a situation?
+    title: >-
+        How does centration affect a child's ability to consider multiple aspects of a situation?
     subject: Psychology
     url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
 related_article5:
-    id: 167956
-    title: What is magical thinking, and how does it influence a child's perception of reality?
+    id: 167960
+    title: >-
+        What is irreversibility, and how does it limit a child's understanding of processes and actions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-magical-thinking-and-how-does-it-influence-a-childs-perception-of-reality
+    url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
 ---
 
 &nbsp;

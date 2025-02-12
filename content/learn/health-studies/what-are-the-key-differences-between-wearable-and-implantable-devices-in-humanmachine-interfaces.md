@@ -2,8 +2,10 @@
 _schema: default
 id: 164267
 date: 2025-01-28
-title: What are the key differences between wearable and implantable devices in human-machine interfaces?
-article_title: What are the key differences between wearable and implantable devices in human-machine interfaces?
+title: >-
+    What are the key differences between wearable and implantable devices in human-machine interfaces?
+article_title: >-
+    What are the key differences between wearable and implantable devices in human-machine interfaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-wearable-and-implantable-devices
 url: /learn/health-studies/questions/what-are-the-key-differences-between-wearable-and-implantable-devices-in-humanmachine-interfaces
 score: -1.0
 related_article1:
-    id: 164261
-    title: Describe the structure and function of neural pathways in neural control systems.
+    id: 164273
+    title: >-
+        How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-neural-pathways-in-neural-control-systems
+    url: /learn/health-studies/questions/how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation-in-the-context-of-therapy-and-recovery
 related_article2:
-    id: 164270
-    title: How does neural connectivity influence the integration of nervous system technologies?
+    id: 164260
+    title: >-
+        What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neural-connectivity-influence-the-integration-of-nervous-system-technologies
+    url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
 related_article3:
-    id: 164262
-    title: How do brain-computer interfaces integrate with neural control systems to enhance functionality?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-braincomputer-interfaces-integrate-with-neural-control-systems-to-enhance-functionality
-related_article4:
     id: 164274
-    title: What potential does AI integration hold for the future of personalized rehabilitation engineering?
+    title: >-
+        What potential does AI integration hold for the future of personalized rehabilitation engineering?
     subject: Health Studies
     url: /learn/health-studies/questions/what-potential-does-ai-integration-hold-for-the-future-of-personalized-rehabilitation-engineering
-related_article5:
-    id: 164271
-    title: What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
+related_article4:
+    id: 164259
+    title: >-
+        How do prosthetics and orthotics differ in their application within biomechanical technology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-concerns-associated-with-nervous-system-integration-technologies-particularly-regarding-privacy
+    url: /learn/health-studies/questions/how-do-prosthetics-and-orthotics-differ-in-their-application-within-biomechanical-technology
+related_article5:
+    id: 164268
+    title: >-
+        How do wireless communication protocols facilitate data transmission in human-machine interfaces?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-wireless-communication-protocols-facilitate-data-transmission-in-humanmachine-interfaces
 ---
 
 &nbsp;

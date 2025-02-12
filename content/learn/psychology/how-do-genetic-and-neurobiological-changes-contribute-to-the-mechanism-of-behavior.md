@@ -2,8 +2,10 @@
 _schema: default
 id: 165310
 date: 2025-01-28
-title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
-article_title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+title: >-
+    How do genetic and neurobiological changes contribute to the mechanism of behavior?
+article_title: >-
+    How do genetic and neurobiological changes contribute to the mechanism of behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanis
 url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
 score: -1.0
 related_article1:
-    id: 165292
-    title: How does natural selection contribute to the foundation of animal behavior?
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
 related_article2:
-    id: 165287
-    title: What is the definition of animal behavior and why is it important to study?
+    id: 165303
+    title: >-
+        What is artificial selection and how does it differ from natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
+    url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 related_article3:
-    id: 165311
-    title: What is the influence of hormones on animal behavior?
+    id: 165299
+    title: >-
+        Identify and describe the sources of genetic variation.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 related_article4:
-    id: 165308
-    title: Provide an example of a case study that illustrates behavioral selection.
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
     subject: Psychology
-    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
 related_article5:
-    id: 165304
-    title: Describe the process of directional selection and provide an example.
+    id: 165306
+    title: >-
+        Explain disruptive selection and its potential impact on a species.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
 ---
 
 &nbsp;

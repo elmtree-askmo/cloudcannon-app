@@ -2,8 +2,10 @@
 _schema: default
 id: 164766
 date: 2025-01-28
-title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
-article_title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
+title: >-
+    How does TMS-induced disruption of the visual cortex affect attention and behavior?
+article_title: >-
+    How does TMS-induced disruption of the visual cortex affect attention and behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-
 url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
 score: -1.0
 related_article1:
-    id: 164748
-    title: What is the impact of cognitive load on divided attention and multitasking?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
-related_article2:
-    id: 164756
-    title: What is the influence of endogenous cues on top-down attention?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
-related_article3:
-    id: 164759
-    title: How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
-related_article4:
-    id: 164765
-    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
-    subject: Psychology
-    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
-related_article5:
     id: 164751
-    title: What role does salience play in maintaining vigilance and alertness?
+    title: >-
+        What role does salience play in maintaining vigilance and alertness?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-salience-play-in-maintaining-vigilance-and-alertness
+related_article2:
+    id: 164744
+    title: >-
+        What is the difference between feature and conjunction searches in selective attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
+related_article3:
+    id: 164760
+    title: >-
+        What is the role of object recognition in object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+related_article4:
+    id: 164757
+    title: >-
+        How does the frontal lobe influence top-down attention processes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
+related_article5:
+    id: 164754
+    title: >-
+        What is the role of exogenous cues in bottom-up attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
 ---
 
 &nbsp;

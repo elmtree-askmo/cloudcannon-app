@@ -2,8 +2,10 @@
 _schema: default
 id: 166548
 date: 2025-01-30
-title: In what ways has Greek mythology influenced modern art and literature?
-article_title: In what ways has Greek mythology influenced modern art and literature?
+title: >-
+    In what ways has Greek mythology influenced modern art and literature?
+article_title: >-
+    In what ways has Greek mythology influenced modern art and literature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-has-greek-mythology-influenced-modern-art-and-literature
 url: /learn/philosophy-and-greek-myths/questions/in-what-ways-has-greek-mythology-influenced-modern-art-and-literature
 score: -1.0
 related_article1:
+    id: 166540
+    title: >-
+        What is the significance of Gaia and Uranus in Greek creation stories?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-gaia-and-uranus-in-greek-creation-stories
+related_article2:
+    id: 166539
+    title: >-
+        How are Cyclopes depicted in Greek mythology, and what is their significance?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-are-cyclopes-depicted-in-greek-mythology-and-what-is-their-significance
+related_article3:
+    id: 166546
+    title: >-
+        What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how-do-they-influence-relationships-among-gods
+related_article4:
     id: 166537
-    title: How does Achilles' legacy influence Greek mythology and culture?
+    title: >-
+        How does Achilles' legacy influence Greek mythology and culture?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-achilles-legacy-influence-greek-mythology-and-culture
-related_article2:
-    id: 166543
-    title: How is humor and irony depicted in the relationship between Zeus and Hera?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
-related_article3:
-    id: 166538
-    title: What role do satyrs play in Greek mythology, and what do they symbolize?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-do-satyrs-play-in-greek-mythology-and-what-do-they-symbolize
-related_article4:
-    id: 166535
-    title: How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-the-roman-equivalents-of-the-greek-gods-differ-in-terms-of-attributes-and-symbolism
 related_article5:
-    id: 166538
-    title: What role do satyrs play in Greek mythology, and what do they symbolize?
+    id: 166547
+    title: >-
+        How did the adaptation of Greek gods influence Roman culture?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-do-satyrs-play-in-greek-mythology-and-what-do-they-symbolize
+    url: /learn/philosophy-and-greek-myths/questions/how-did-the-adaptation-of-greek-gods-influence-roman-culture
 ---
 
 &nbsp;

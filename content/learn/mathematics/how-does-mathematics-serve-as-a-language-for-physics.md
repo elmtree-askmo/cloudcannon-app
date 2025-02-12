@@ -2,8 +2,10 @@
 _schema: default
 id: 165559
 date: 2025-01-29
-title: How does mathematics serve as a language for physics?
-article_title: How does mathematics serve as a language for physics?
+title: >-
+    How does mathematics serve as a language for physics?
+article_title: >-
+    How does mathematics serve as a language for physics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-mathematics-serve-as-a-language-for-physics.md
 url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
 score: -1.0
 related_article1:
-    id: 165561
-    title: What role do large numbers play in the application of mathematics to physics?
+    id: 165560
+    title: >-
+        In what ways does physics provide problems that lead to mathematical advancements?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
 related_article2:
-    id: 165561
-    title: What role do large numbers play in the application of mathematics to physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
-related_article3:
     id: 165566
-    title: Compare Babylonian and Greek approaches to axiomatic systems in mathematics.
+    title: >-
+        Compare Babylonian and Greek approaches to axiomatic systems in mathematics.
     subject: Mathematics
     url: /learn/mathematics/questions/compare-babylonian-and-greek-approaches-to-axiomatic-systems-in-mathematics
+related_article3:
+    id: 165567
+    title: >-
+        What is the significance of mathematical modeling in theoretical physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-mathematical-modeling-in-theoretical-physics
 related_article4:
+    id: 165570
+    title: >-
+        What are the philosophical implications of the minimum principle in physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
+related_article5:
     id: 165568
-    title: How does mathematics help in understanding the interconnections between physical laws?
+    title: >-
+        How does mathematics help in understanding the interconnections between physical laws?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-mathematics-help-in-understanding-the-interconnections-between-physical-laws
-related_article5:
-    id: 165561
-    title: What role do large numbers play in the application of mathematics to physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
 ---
 
 &nbsp;

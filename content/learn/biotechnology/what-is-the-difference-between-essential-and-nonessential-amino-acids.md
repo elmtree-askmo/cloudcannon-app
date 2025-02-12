@@ -2,8 +2,10 @@
 _schema: default
 id: 166968
 date: 2025-01-31
-title: What is the difference between essential and non-essential amino acids?
-article_title: What is the difference between essential and non-essential amino acids?
+title: >-
+    What is the difference between essential and non-essential amino acids?
+article_title: >-
+    What is the difference between essential and non-essential amino acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-essential-and-nonessential-amino-acids
 url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
 score: -1.0
 related_article1:
-    id: 166961
-    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    id: 166958
+    title: >-
+        What determines the primary structure of a protein?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
 related_article2:
-    id: 166956
-    title: What is the role of dehydration synthesis in peptide bond formation?
+    id: 166957
+    title: >-
+        Describe the structure of a polypeptide chain formed by peptide bonds.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
+    url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
 related_article3:
-    id: 166966
-    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    id: 166959
+    title: >-
+        How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
 related_article4:
-    id: 166969
-    title: What mechanisms are involved in protein folding pathways?
+    id: 166963
+    title: >-
+        What environmental factors can affect protein function?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
 related_article5:
-    id: 166955
-    title: How do positively charged R-groups differ from negatively charged R-groups?
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

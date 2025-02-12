@@ -2,8 +2,10 @@
 _schema: default
 id: 163378
 date: 2025-01-26
-title: How have economic shifts contributed to socio-economic disadvantages for First Nations?
-article_title: How have economic shifts contributed to socio-economic disadvantages for First Nations?
+title: >-
+    How have economic shifts contributed to socio-economic disadvantages for First Nations?
+article_title: >-
+    How have economic shifts contributed to socio-economic disadvantages for First Nations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-economic-shifts-contributed-to-socioeconomic-disadvantages-f
 url: /learn/health-studies/questions/how-have-economic-shifts-contributed-to-socioeconomic-disadvantages-for-first-nations
 score: -1.0
 related_article1:
-    id: 163376
-    title: How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
-related_article2:
-    id: 163377
-    title: What were the impacts of the British North America Act and the Indian Act on First Nations communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
-related_article3:
-    id: 163373
-    title: What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-determinants-of-health-according-to-the-public-health-agency-of-canada-and-why-might-they-be-limited-for-first-nations
-related_article4:
-    id: 163373
-    title: What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-determinants-of-health-according-to-the-public-health-agency-of-canada-and-why-might-they-be-limited-for-first-nations
-related_article5:
     id: 163382
-    title: What are the challenges and benefits of integrating traditional knowledge systems with public health services?
+    title: >-
+        What are the challenges and benefits of integrating traditional knowledge systems with public health services?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-challenges-and-benefits-of-integrating-traditional-knowledge-systems-with-public-health-services
+related_article2:
+    id: 163375
+    title: >-
+        In what ways does the Indigenous worldview emphasize interconnectedness with nature?
+    subject: Health Studies
+    url: /learn/health-studies/questions/in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedness-with-nature
+related_article3:
+    id: 163381
+    title: >-
+        How is traditional knowledge transmitted within First Nations communities, and why is it important?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-traditional-knowledge-transmitted-within-first-nations-communities-and-why-is-it-important
+related_article4:
+    id: 163380
+    title: >-
+        What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+related_article5:
+    id: 163374
+    title: >-
+        How does the Four Worlds Institute Model define well-being, and what are its guiding principles?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-four-worlds-institute-model-define-wellbeing-and-what-are-its-guiding-principles
 ---
 
 &nbsp;

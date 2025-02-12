@@ -2,8 +2,10 @@
 _schema: default
 id: 166192
 date: 2025-01-29
-title: What is Mendelian genetics and how does it explain genetic variation?
-article_title: What is Mendelian genetics and how does it explain genetic variation?
+title: >-
+    What is Mendelian genetics and how does it explain genetic variation?
+article_title: >-
+    What is Mendelian genetics and how does it explain genetic variation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-mendelian-genetics-and-how-does-it-explain-genetic-variation.
 url: /learn/education-studies/questions/what-is-mendelian-genetics-and-how-does-it-explain-genetic-variation
 score: -1.0
 related_article1:
-    id: 166206
-    title: How do structural adaptations enhance an organism's survival in its environment?
+    id: 166180
+    title: >-
+        How do metabolism and homeostasis contribute to the biological processes of life?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
+    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
 related_article2:
-    id: 166189
-    title: How do red blood cells and white blood cells differ in structure and function?
+    id: 166202
+    title: >-
+        How do human activities impact the environment and what are some conservation efforts?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+    url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
 related_article3:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
+    id: 166200
+    title: >-
+        How have humans evolved over time according to fossil evidence?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+    url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
 related_article4:
-    id: 166199
-    title: What are the main components of the human cardiovascular system and their functions?
+    id: 166182
+    title: >-
+        What are the primary types of biological molecules and their functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
+    url: /learn/education-studies/questions/what-are-the-primary-types-of-biological-molecules-and-their-functions
 related_article5:
-    id: 166195
-    title: What evidence supports the concept of common ancestry among species?
+    id: 166183
+    title: >-
+        How do carbohydrates and proteins differ in their roles within the body?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-evidence-supports-the-concept-of-common-ancestry-among-species
+    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167457
 date: 2025-01-31
-title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
-article_title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+title: >-
+    What contributions did Gilbert Lewis make to the understanding of acids and bases?
+article_title: >-
+    What contributions did Gilbert Lewis make to the understanding of acids and bases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-contributions-did-gilbert-lewis-make-to-the-understanding-of-aci
 url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
 score: -1.0
 related_article1:
-    id: 167453
-    title: How did Gilbert Lewis contribute to the development of Lewis dot structures?
+    id: 167445
+    title: >-
+        How do polar covalent bonds differ from nonpolar covalent bonds?
     subject: Biology
-    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
 related_article2:
-    id: 167466
-    title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    id: 167464
+    title: >-
+        What is the role of chemical compounds in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
 related_article3:
-    id: 167456
-    title: Define acids and bases according to the proton donor-acceptor concept.
+    id: 167463
+    title: >-
+        How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
     subject: Biology
-    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
 related_article4:
-    id: 167466
-    title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 related_article5:
-    id: 167459
-    title: How do chemical reactions facilitate energy transfer in biological systems?
+    id: 167455
+    title: >-
+        Why is carbon chemistry crucial for the formation of complex organic structures?
     subject: Biology
-    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+    url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
 ---
 
 &nbsp;

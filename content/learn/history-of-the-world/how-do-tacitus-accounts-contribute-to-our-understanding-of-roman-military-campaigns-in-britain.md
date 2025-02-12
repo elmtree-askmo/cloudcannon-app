@@ -2,8 +2,10 @@
 _schema: default
 id: 169868
 date: 2025-02-05
-title: How do Tacitus' accounts contribute to our understanding of Roman military campaigns in Britain?
-article_title: How do Tacitus' accounts contribute to our understanding of Roman military campaigns in Britain?
+title: >-
+    How do Tacitus' accounts contribute to our understanding of Roman military campaigns in Britain?
+article_title: >-
+    How do Tacitus' accounts contribute to our understanding of Roman military campaigns in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-tacitus-accounts-contribute-to-our-understanding-of-roman-mili
 url: /learn/history-of-the-world/questions/how-do-tacitus-accounts-contribute-to-our-understanding-of-roman-military-campaigns-in-britain
 score: 9.0
 related_article1:
-    id: 169871
-    title: How did the Roman naming of the Caledonians influence historical perceptions of these tribes?
+    id: 169879
+    title: >-
+        How did the Roman administration manage the provinces of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-roman-naming-of-the-caledonians-influence-historical-perceptions-of-these-tribes
+    url: /learn/history-of-the-world/questions/how-did-the-roman-administration-manage-the-provinces-of-roman-britain
 related_article2:
-    id: 169872
-    title: What evidence exists for cultural continuity among the Picts from the Iron Age to medieval times?
+    id: 169867
+    title: >-
+        Describe the significance of the Vindolanda Fort in understanding Roman military presence in Britain.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-evidence-exists-for-cultural-continuity-among-the-picts-from-the-iron-age-to-medieval-times
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-the-vindolanda-fort-in-understanding-roman-military-presence-in-britain
 related_article3:
-    id: 169876
-    title: In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
+    id: 169878
+    title: >-
+        What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal-warfare-against-the-romans
 related_article4:
     id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+    title: >-
+        How did the Battle of Mons Graupius impact Roman military strategy in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
 related_article5:
-    id: 169875
-    title: How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
+    id: 169873
+    title: >-
+        What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-tacitus-perspective-in-agricolas-biography-reflect-roman-historiography-biases
+    url: /learn/history-of-the-world/questions/what-are-the-main-features-of-the-pictish-language-and-how-do-they-inform-our-understanding-of-pictish-society
 ---
 
 &nbsp;

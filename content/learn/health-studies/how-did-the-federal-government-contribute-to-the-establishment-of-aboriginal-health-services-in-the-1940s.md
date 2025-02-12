@@ -2,8 +2,10 @@
 _schema: default
 id: 162337
 date: 2025-01-25
-title: How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
-article_title: How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
+title: >-
+    How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
+article_title: >-
+    How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-federal-government-contribute-to-the-establishment-of-abo
 url: /learn/health-studies/questions/how-did-the-federal-government-contribute-to-the-establishment-of-aboriginal-health-services-in-the-1940s
 score: -1.0
 related_article1:
-    id: 162344
-    title: How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
+    id: 162338
+    title: >-
+        What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
+    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
 related_article2:
-    id: 162318
-    title: How did Edward Playter influence sanitary reforms in the late 19th century?
+    id: 162333
+    title: >-
+        What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
+    url: /learn/health-studies/questions/what-was-the-role-of-charitable-organizations-in-responding-to-tuberculosis-and-polio-control-efforts-in-the-1920s
 related_article3:
-    id: 162323
-    title: What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
+    id: 162340
+    title: >-
+        What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
+    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
 related_article4:
-    id: 162347
-    title: What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
+    id: 162349
+    title: >-
+        What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
+    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
 related_article5:
-    id: 162352
-    title: What contributions did Ron Draper make to health promotion and public health leadership?
+    id: 162342
+    title: >-
+        How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
+    url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
 ---
 
 &nbsp;

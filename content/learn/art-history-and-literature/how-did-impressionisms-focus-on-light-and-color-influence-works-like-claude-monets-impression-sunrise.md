@@ -2,8 +2,10 @@
 _schema: default
 id: 165974
 date: 2025-01-29
-title: How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
-article_title: How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+title: >-
+    How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+article_title: >-
+    How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-impressionisms-focus-on-light-and-color-influence-works-like-
 url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
 score: 9.0
 related_article1:
-    id: 165972
-    title: How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
-related_article2:
     id: 165973
-    title: What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+    title: >-
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
-related_article3:
-    id: 165970
-    title: How did artists respond to political systems through their depiction of social realities?
+related_article2:
+    id: 165975
+    title: >-
+        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
-related_article4:
+    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
+related_article3:
     id: 165968
-    title: How did the rise of social consciousness during the Industrial Revolution influence art?
+    title: >-
+        How did the rise of social consciousness during the Industrial Revolution influence art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
-related_article5:
-    id: 165963
-    title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+related_article4:
+    id: 165969
+    title: >-
+        In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
+related_article5:
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
 ---
 
 &nbsp;

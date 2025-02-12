@@ -2,8 +2,10 @@
 _schema: default
 id: 169560
 date: 2025-02-05
-title: How should student nurses apply the NMC Code in their practice?
-article_title: How should student nurses apply the NMC Code in their practice?
+title: >-
+    How should student nurses apply the NMC Code in their practice?
+article_title: >-
+    How should student nurses apply the NMC Code in their practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-student-nurses-apply-the-nmc-code-in-their-practice.md
 url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
 score: -1.0
 related_article1:
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+related_article2:
+    id: 169565
+    title: >-
+        How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article3:
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article4:
     id: 169562
-    title: How does supervision ensure competence and patient safety?
+    title: >-
+        How does supervision ensure competence and patient safety?
     subject: Nursing
     url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
-related_article2:
-    id: 169563
-    title: What is the role of supervisors in healthcare settings?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
-related_article3:
-    id: 169578
-    title: How does communication impact delegation and accountability?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
-related_article4:
-    id: 169577
-    title: Why is effective communication important in healthcare?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
 related_article5:
-    id: 169556
-    title: How does supervision contribute to accountability in healthcare?
+    id: 169576
+    title: >-
+        What is the role of student nurses within the healthcare team?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
 ---
 
 &nbsp;

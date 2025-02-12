@@ -2,8 +2,10 @@
 _schema: default
 id: 163610
 date: 2025-01-27
-title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
-article_title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+title: >-
+    What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+article_title: >-
+    What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-th
 url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
 score: -1.0
 related_article1:
-    id: 163614
-    title: How did the Industrial Revolution contribute to urbanization and shifts in labor?
+    id: 163623
+    title: >-
+        What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
 related_article2:
-    id: 163611
-    title: How does economic integration under globalization affect trade networks and financial systems?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
-related_article3:
-    id: 163616
-    title: How did colonialism lead to economic exploitation through resource extraction and labor systems?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
-related_article4:
     id: 163609
-    title: How does interconnectedness influence global opportunities and conditions?
+    title: >-
+        How does interconnectedness influence global opportunities and conditions?
     subject: Sociology
     url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
-related_article5:
-    id: 163618
-    title: What are some criticisms of dependency theory, and how is it relevant in modern contexts?
+related_article3:
+    id: 163614
+    title: >-
+        How did the Industrial Revolution contribute to urbanization and shifts in labor?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-criticisms-of-dependency-theory-and-how-is-it-relevant-in-modern-contexts
+    url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
+related_article4:
+    id: 163611
+    title: >-
+        How does economic integration under globalization affect trade networks and financial systems?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+related_article5:
+    id: 163627
+    title: >-
+        How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
 ---
 
 &nbsp;

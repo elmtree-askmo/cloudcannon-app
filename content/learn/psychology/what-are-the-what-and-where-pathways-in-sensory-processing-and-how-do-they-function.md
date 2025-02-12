@@ -2,8 +2,10 @@
 _schema: default
 id: 164335
 date: 2025-01-28
-title: What are the 'what' and 'where' pathways in sensory processing, and how do they function?
-article_title: What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+title: >-
+    What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+article_title: >-
+    What are the 'what' and 'where' pathways in sensory processing, and how do they function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do
 url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
 score: -1.0
 related_article1:
-    id: 164332
-    title: How does the temporal lobe contribute to visual processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
-related_article2:
-    id: 164333
-    title: What role does the parietal lobe play in sensory processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
-related_article3:
     id: 164342
-    title: How is familiarity used in deception detection, and what role do memory and attention pathways play?
+    title: >-
+        How is familiarity used in deception detection, and what role do memory and attention pathways play?
     subject: Psychology
     url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
-related_article4:
-    id: 164341
-    title: In what ways do memory and attention pathways impact brain activity patterns?
+related_article2:
+    id: 164332
+    title: >-
+        How does the temporal lobe contribute to visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns
-related_article5:
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
+related_article3:
     id: 164333
-    title: What role does the parietal lobe play in sensory processing?
+    title: >-
+        What role does the parietal lobe play in sensory processing?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
+related_article4:
+    id: 164344
+    title: >-
+        How can variability in brain regions impact research studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
+related_article5:
+    id: 164339
+    title: >-
+        What are some limitations of neuroimaging studies in understanding brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
 ---
 
 &nbsp;

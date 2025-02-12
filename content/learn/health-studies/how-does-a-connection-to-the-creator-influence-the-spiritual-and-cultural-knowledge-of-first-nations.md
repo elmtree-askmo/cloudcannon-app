@@ -2,8 +2,10 @@
 _schema: default
 id: 163385
 date: 2025-01-26
-title: How does a connection to the Creator influence the spiritual and cultural knowledge of First Nations?
-article_title: How does a connection to the Creator influence the spiritual and cultural knowledge of First Nations?
+title: >-
+    How does a connection to the Creator influence the spiritual and cultural knowledge of First Nations?
+article_title: >-
+    How does a connection to the Creator influence the spiritual and cultural knowledge of First Nations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-connection-to-the-creator-influence-the-spiritual-and-cult
 url: /learn/health-studies/questions/how-does-a-connection-to-the-creator-influence-the-spiritual-and-cultural-knowledge-of-first-nations
 score: -1.0
 related_article1:
-    id: 163371
-    title: What were the impacts of European contact on the health status of First Nations?
+    id: 163374
+    title: >-
+        How does the Four Worlds Institute Model define well-being, and what are its guiding principles?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-impacts-of-european-contact-on-the-health-status-of-first-nations
+    url: /learn/health-studies/questions/how-does-the-four-worlds-institute-model-define-wellbeing-and-what-are-its-guiding-principles
 related_article2:
-    id: 163371
-    title: What were the impacts of European contact on the health status of First Nations?
+    id: 163375
+    title: >-
+        In what ways does the Indigenous worldview emphasize interconnectedness with nature?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-impacts-of-european-contact-on-the-health-status-of-first-nations
+    url: /learn/health-studies/questions/in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedness-with-nature
 related_article3:
+    id: 163379
+    title: >-
+        Describe the components of the Medicine Wheel and their significance in the holistic health model.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-components-of-the-medicine-wheel-and-their-significance-in-the-holistic-health-model
+related_article4:
     id: 163381
-    title: How is traditional knowledge transmitted within First Nations communities, and why is it important?
+    title: >-
+        How is traditional knowledge transmitted within First Nations communities, and why is it important?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-traditional-knowledge-transmitted-within-first-nations-communities-and-why-is-it-important
-related_article4:
-    id: 163372
-    title: How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-current-health-disparities-between-first-nations-and-the-national-average-manifest-in-terms-of-infectious-diseases-and-immunity
 related_article5:
-    id: 163377
-    title: What were the impacts of the British North America Act and the Indian Act on First Nations communities?
+    id: 163376
+    title: >-
+        How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
+    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
 ---
 
 &nbsp;

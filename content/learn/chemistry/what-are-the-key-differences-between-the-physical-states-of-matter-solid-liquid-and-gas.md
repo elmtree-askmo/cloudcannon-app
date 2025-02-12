@@ -2,8 +2,10 @@
 _schema: default
 id: 162044
 date: 2025-01-24
-title: What are the key differences between the physical states of matter: solid, liquid, and gas?
-article_title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+title: >-
+    What are the key differences between the physical states of matter: solid, liquid, and gas?
+article_title: >-
+    What are the key differences between the physical states of matter: solid, liquid, and gas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-the-physical-states-of-matter-so
 url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 score: -1.0
 related_article1:
-    id: 162042
-    title: What is the role of oxygen in combustion reactions?
+    id: 161946
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 related_article2:
-    id: 162039
-    title: What are the characteristics of a solid and provide an example.
+    id: 162029
+    title: >-
+        Explain the chemical change that occurs when hydrogen and oxygen form water.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
 related_article3:
-    id: 161969
-    title: What is a precipitation reaction and how can it be identified?
+    id: 161973
+    title: >-
+        What is the significance of electron removal in the ionization process?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 related_article4:
-    id: 161984
-    title: What are the characteristics of liquids that differentiate them from solids and gases?
+    id: 161760
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article5:
-    id: 161980
-    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    id: 161934
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 ---
 
 &nbsp;

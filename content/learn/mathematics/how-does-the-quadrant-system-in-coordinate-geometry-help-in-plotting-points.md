@@ -2,8 +2,10 @@
 _schema: default
 id: 162134
 date: 2025-01-25
-title: How does the quadrant system in coordinate geometry help in plotting points?
-article_title: How does the quadrant system in coordinate geometry help in plotting points?
+title: >-
+    How does the quadrant system in coordinate geometry help in plotting points?
+article_title: >-
+    How does the quadrant system in coordinate geometry help in plotting points?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/how-does-the-quadrant-system-in-coordinate-geo
 score: -1.0
 related_article1:
     id: 162136
-    title: How can a sequence of transformations be used to prove congruence between two figures?
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 related_article2:
-    id: 162126
-    title: What are the three main types of geometric transformations?
+    id: 162129
+    title: >-
+        List the criteria used to determine if two triangles are congruent.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+    url: /learn/mathematics/questions/list-the-criteria-used-to-determine-if-two-triangles-are-congruent
 related_article3:
-    id: 162128
-    title: What is the definition of congruent figures in geometry?
+    id: 162136
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-definition-of-congruent-figures-in-geometry
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 related_article4:
-    id: 162133
-    title: What is the result of translating a geometric figure in terms of its shape and size?
+    id: 162127
+    title: >-
+        How does a reflection transformation affect the coordinates of a point?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
+    url: /learn/mathematics/questions/how-does-a-reflection-transformation-affect-the-coordinates-of-a-point
 related_article5:
-    id: 162133
-    title: What is the result of translating a geometric figure in terms of its shape and size?
+    id: 162132
+    title: >-
+        Describe the effect of a clockwise rotation on the coordinates of a point.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
+    url: /learn/mathematics/questions/describe-the-effect-of-a-clockwise-rotation-on-the-coordinates-of-a-point
 ---
 
 &nbsp;

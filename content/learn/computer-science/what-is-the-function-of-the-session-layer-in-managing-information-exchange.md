@@ -2,8 +2,10 @@
 _schema: default
 id: 165641
 date: 2025-01-29
-title: What is the function of the Session Layer in managing information exchange?
-article_title: What is the function of the Session Layer in managing information exchange?
+title: >-
+    What is the function of the Session Layer in managing information exchange?
+article_title: >-
+    What is the function of the Session Layer in managing information exchange?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-the-session-layer-in-managing-information-exc
 url: /learn/computer-science/questions/what-is-the-function-of-the-session-layer-in-managing-information-exchange
 score: -1.0
 related_article1:
-    id: 165647
-    title: How does HTTP interpret a URL?
+    id: 165640
+    title: >-
+        How does the Presentation Layer handle data encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-interpret-a-url
+    url: /learn/computer-science/questions/how-does-the-presentation-layer-handle-data-encryption
 related_article2:
+    id: 165644
+    title: >-
+        What is the primary function of DHCP in host configuration?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-function-of-dhcp-in-host-configuration
+related_article3:
+    id: 165643
+    title: >-
+        How does DNS facilitate domain name resolution?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
+related_article4:
+    id: 165646
+    title: >-
+        What role do peers play in a peer-to-peer network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
+related_article5:
     id: 165654
-    title: What functions does the Server Message Block (SMB) protocol provide?
+    title: >-
+        What functions does the Server Message Block (SMB) protocol provide?
     subject: Computer Science
     url: /learn/computer-science/questions/what-functions-does-the-server-message-block-smb-protocol-provide
-related_article3:
-    id: 165651
-    title: How does the DNS hierarchy organize domain names?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-dns-hierarchy-organize-domain-names
-related_article4:
-    id: 165647
-    title: How does HTTP interpret a URL?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-interpret-a-url
-related_article5:
-    id: 165651
-    title: How does the DNS hierarchy organize domain names?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-dns-hierarchy-organize-domain-names
 ---
 
 &nbsp;

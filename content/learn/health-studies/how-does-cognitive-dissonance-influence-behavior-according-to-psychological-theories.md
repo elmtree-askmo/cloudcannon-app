@@ -2,8 +2,10 @@
 _schema: default
 id: 170563
 date: 2025-02-06
-title: How does cognitive dissonance influence behavior according to psychological theories?
-article_title: How does cognitive dissonance influence behavior according to psychological theories?
+title: >-
+    How does cognitive dissonance influence behavior according to psychological theories?
+article_title: >-
+    How does cognitive dissonance influence behavior according to psychological theories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-cognitive-dissonance-influence-behavior-according-to-psychol
 url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
 score: -1.0
 related_article1:
-    id: 170557
-    title: How do steroids and opioids differ in their pharmacological effects?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
-related_article2:
-    id: 170551
-    title: How do positive and negative feedback mechanisms differ in physiological processes?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-feedback-mechanisms-differ-in-physiological-processes
-related_article3:
     id: 170562
-    title: What pharmacological interventions are available for treating Parkinson's disease?
+    title: >-
+        What pharmacological interventions are available for treating Parkinson's disease?
     subject: Health Studies
     url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
+related_article2:
+    id: 170558
+    title: >-
+        What are the roles of insulin and glucagon in hormonal regulation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
+related_article3:
+    id: 170560
+    title: >-
+        What are the primary pathophysiological features of Parkinson's disease?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
 related_article4:
-    id: 170550
-    title: What mechanisms are involved in temperature regulation within the human body?
+    id: 170558
+    title: >-
+        What are the roles of insulin and glucagon in hormonal regulation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
+    url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
 related_article5:
-    id: 170557
-    title: How do steroids and opioids differ in their pharmacological effects?
+    id: 170571
+    title: >-
+        How can AI hallucinations impact the use of large language models in education?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
+    url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
 ---
 
 &nbsp;

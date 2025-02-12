@@ -2,8 +2,10 @@
 _schema: default
 id: 165818
 date: 2025-01-29
-title: Differentiate between endoparasites and ectoparasites.
-article_title: Differentiate between endoparasites and ectoparasites.
+title: >-
+    Differentiate between endoparasites and ectoparasites.
+article_title: >-
+    Differentiate between endoparasites and ectoparasites.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-endoparasites-and-ectoparasites.md
 url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
 score: -1.0
 related_article1:
-    id: 165820
-    title: How do abiotic factors influence the occurrence of diseases?
+    id: 165827
+    title: >-
+        What survival strategies do parasites employ to ensure their persistence?
     subject: Biology
-    url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
+    url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
 related_article2:
+    id: 165809
+    title: >-
+        What are the key advancements in genomics that have impacted scientific techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
+related_article3:
     id: 165811
-    title: What is the importance of DNA sequences in molecular taxonomy?
+    title: >-
+        What is the importance of DNA sequences in molecular taxonomy?
     subject: Biology
     url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
-related_article3:
-    id: 165805
-    title: How do classification systems contribute to the organization of biological diversity?
-    subject: Biology
-    url: /learn/biology/questions/how-do-classification-systems-contribute-to-the-organization-of-biological-diversity
 related_article4:
-    id: 165821
-    title: Explain the concept of a natural focus of disease.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
-related_article5:
     id: 165819
-    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    title: >-
+        What is the ecological niche of a parasite, and how does it relate to host specificity?
     subject: Biology
     url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+related_article5:
+    id: 165826
+    title: >-
+        How do parasites manipulate host behavior to enhance transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-do-parasites-manipulate-host-behavior-to-enhance-transmission
 ---
 
 &nbsp;

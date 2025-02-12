@@ -2,8 +2,10 @@
 _schema: default
 id: 163900
 date: 2025-01-28
-title: What are some common themes found in mythological narratives?
-article_title: What are some common themes found in mythological narratives?
+title: >-
+    What are some common themes found in mythological narratives?
+article_title: >-
+    What are some common themes found in mythological narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-themes-found-in-mythological-narratives.md
 url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
 score: 9.0
 related_article1:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
+    id: 163888
+    title: >-
+        Who are the major Olympian deities in Greek mythology, and what are their primary domains?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
 related_article2:
     id: 163896
-    title: List the defining characteristics of epic poetry in ancient Greek literature.
+    title: >-
+        List the defining characteristics of epic poetry in ancient Greek literature.
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
 related_article3:
-    id: 163889
-    title: What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
-related_article4:
     id: 163890
-    title: Identify a notable Greek hero and describe their main achievements or adventures.
+    title: >-
+        Identify a notable Greek hero and describe their main achievements or adventures.
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
-related_article5:
-    id: 163888
-    title: Who are the major Olympian deities in Greek mythology, and what are their primary domains?
+related_article4:
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+related_article5:
+    id: 163898
+    title: >-
+        What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
 ---
 
 &nbsp;

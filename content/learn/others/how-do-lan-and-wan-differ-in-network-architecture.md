@@ -2,8 +2,10 @@
 _schema: default
 id: 162669
 date: 2025-01-25
-title: How do LAN and WAN differ in network architecture?
-article_title: How do LAN and WAN differ in network architecture?
+title: >-
+    How do LAN and WAN differ in network architecture?
+article_title: >-
+    How do LAN and WAN differ in network architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-lan-and-wan-differ-in-network-architecture.md
 url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture
 score: -1.0
 related_article1:
-    id: 162671
-    title: What are the principles of usability and accessibility in user experience design?
+    id: 162660
+    title: >-
+        What are the main differences between Hadoop and Spark in big data technologies?
     subject: Others
-    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
+    url: /learn/others/questions/what-are-the-main-differences-between-hadoop-and-spark-in-big-data-technologies
 related_article2:
-    id: 162663
-    title: What are the differences between relational and NoSQL databases in database management?
+    id: 162774
+    title: >-
+        What are the best practices for creating effective data visualizations using tools like Tableau and Power BI?
     subject: Others
-    url: /learn/others/questions/what-are-the-differences-between-relational-and-nosql-databases-in-database-management
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations-using-tools-like-tableau-and-power-bi
 related_article3:
-    id: 162727
-    title: What are the most common cybersecurity threats, and how can they be mitigated?
+    id: 162710
+    title: >-
+        What are the main types of machine learning algorithms, and how do they differ in their applications?
     subject: Others
-    url: /learn/others/questions/what-are-the-most-common-cybersecurity-threats-and-how-can-they-be-mitigated
+    url: /learn/others/questions/what-are-the-main-types-of-machine-learning-algorithms-and-how-do-they-differ-in-their-applications
 related_article4:
-    id: 162661
-    title: How do IaaS, PaaS, and SaaS differ in cloud computing service models?
+    id: 162841
+    title: >-
+        How do relational databases differ from NoSQL databases in terms of structure and use cases?
     subject: Others
-    url: /learn/others/questions/how-do-iaas-paas-and-saas-differ-in-cloud-computing-service-models
+    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-in-terms-of-structure-and-use-cases
 related_article5:
-    id: 162382
-    title: How are tokenization and sentiment analysis used in natural language processing?
+    id: 162653
+    title: >-
+        How do neural networks contribute to the development of autonomous vehicles?
     subject: Others
-    url: /learn/others/questions/how-are-tokenization-and-sentiment-analysis-used-in-natural-language-processing
+    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
 ---
 
 &nbsp;

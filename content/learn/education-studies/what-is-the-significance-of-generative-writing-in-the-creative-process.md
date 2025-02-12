@@ -2,8 +2,10 @@
 _schema: default
 id: 168171
 date: 2025-02-02
-title: What is the significance of generative writing in the creative process?
-article_title: What is the significance of generative writing in the creative process?
+title: >-
+    What is the significance of generative writing in the creative process?
+article_title: >-
+    What is the significance of generative writing in the creative process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-generative-writing-in-the-creative-proces
 url: /learn/education-studies/questions/what-is-the-significance-of-generative-writing-in-the-creative-process
 score: -1.0
 related_article1:
-    id: 168170
-    title: How does the 'They Say, I Say' framework assist in analyzing arguments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-they-say-i-say-framework-assist-in-analyzing-arguments
-related_article2:
-    id: 168165
-    title: What are the psychological mechanisms that suggest animals have interior lives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-psychological-mechanisms-that-suggest-animals-have-interior-lives
-related_article3:
-    id: 168169
-    title: What are the essential components of a college-level essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-collegelevel-essay
-related_article4:
     id: 168168
-    title: How does the stream of consciousness technique help in exploring topics during the writing process?
+    title: >-
+        How does the stream of consciousness technique help in exploring topics during the writing process?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-stream-of-consciousness-technique-help-in-exploring-topics-during-the-writing-process
-related_article5:
-    id: 168177
-    title: What role does critical reflection play in analytical writing techniques?
+related_article2:
+    id: 168178
+    title: >-
+        How does AI impact writing skills such as critical thinking and writing proficiency?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-critical-reflection-play-in-analytical-writing-techniques
+    url: /learn/education-studies/questions/how-does-ai-impact-writing-skills-such-as-critical-thinking-and-writing-proficiency
+related_article3:
+    id: 168165
+    title: >-
+        What are the psychological mechanisms that suggest animals have interior lives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-psychological-mechanisms-that-suggest-animals-have-interior-lives
+related_article4:
+    id: 168167
+    title: >-
+        What is the role of focused free writing in overcoming writer's block?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-focused-free-writing-in-overcoming-writers-block
+related_article5:
+    id: 168170
+    title: >-
+        How does the 'They Say, I Say' framework assist in analyzing arguments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-they-say-i-say-framework-assist-in-analyzing-arguments
 ---
 
 &nbsp;

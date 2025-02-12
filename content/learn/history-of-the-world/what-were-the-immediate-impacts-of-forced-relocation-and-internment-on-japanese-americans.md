@@ -2,8 +2,10 @@
 _schema: default
 id: 168739
 date: 2025-02-04
-title: What were the immediate impacts of forced relocation and internment on Japanese Americans?
-article_title: What were the immediate impacts of forced relocation and internment on Japanese Americans?
+title: >-
+    What were the immediate impacts of forced relocation and internment on Japanese Americans?
+article_title: >-
+    What were the immediate impacts of forced relocation and internment on Japanese Americans?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-were-the-immediate-impacts-of-forced-relocation-and-internment-o
 url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
 score: 9.5
 related_article1:
-    id: 168745
-    title: How have historical narratives and family histories contributed to our understanding of Japanese internment?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-historical-narratives-and-family-histories-contributed-to-our-understanding-of-japanese-internment
-related_article2:
     id: 168738
-    title: How did Executive Order 9066 legally justify the internment of Japanese Americans?
+    title: >-
+        How did Executive Order 9066 legally justify the internment of Japanese Americans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-executive-order-9066-legally-justify-the-internment-of-japanese-americans
+related_article2:
+    id: 168740
+    title: >-
+        Describe the living conditions and daily life in Japanese American internment camps.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-living-conditions-and-daily-life-in-japanese-american-internment-camps
 related_article3:
-    id: 168747
-    title: How has the Japanese internment experience influenced modern civil rights movements?
+    id: 168746
+    title: >-
+        What role does oral history play in preserving personal testimonies of Japanese internment?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
+    url: /learn/history-of-the-world/questions/what-role-does-oral-history-play-in-preserving-personal-testimonies-of-japanese-internment
 related_article4:
-    id: 168750
-    title: What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
+    id: 168737
+    title: >-
+        What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
+    url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
 related_article5:
     id: 168746
-    title: What role does oral history play in preserving personal testimonies of Japanese internment?
+    title: >-
+        What role does oral history play in preserving personal testimonies of Japanese internment?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-does-oral-history-play-in-preserving-personal-testimonies-of-japanese-internment
 ---

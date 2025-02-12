@@ -2,8 +2,10 @@
 _schema: default
 id: 169233
 date: 2025-02-04
-title: What role does the Electoral Boundaries Commission play in the creation of electoral districts?
-article_title: What role does the Electoral Boundaries Commission play in the creation of electoral districts?
+title: >-
+    What role does the Electoral Boundaries Commission play in the creation of electoral districts?
+article_title: >-
+    What role does the Electoral Boundaries Commission play in the creation of electoral districts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-role-does-the-electoral-boundaries-commission-play-in-the-creati
 url: /learn/history-of-the-world/questions/what-role-does-the-electoral-boundaries-commission-play-in-the-creation-of-electoral-districts
 score: 9.0
 related_article1:
+    id: 169243
+    title: >-
+        What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
+related_article2:
+    id: 169243
+    title: >-
+        What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
+related_article3:
+    id: 169242
+    title: >-
+        How do bellwether ridings influence political trends and electoral success?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-bellwether-ridings-influence-political-trends-and-electoral-success
+related_article4:
     id: 169245
-    title: What is the significance of vote distribution in determining political efficiency and electoral outcomes?
+    title: >-
+        What is the significance of vote distribution in determining political efficiency and electoral outcomes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-significance-of-vote-distribution-in-determining-political-efficiency-and-electoral-outcomes
-related_article2:
-    id: 169231
-    title: What is the primary purpose of an election system in linking political authorities?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-primary-purpose-of-an-election-system-in-linking-political-authorities
-related_article3:
-    id: 169232
-    title: How do fixed election dates differ between the federal and provincial systems in Canada?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-fixed-election-dates-differ-between-the-federal-and-provincial-systems-in-canada
-related_article4:
-    id: 169241
-    title: What are the main challenges faced by minority governments in forming coalitions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-by-minority-governments-in-forming-coalitions
 related_article5:
     id: 169234
-    title: How did the introduction of women's suffrage impact voting rights historically?
+    title: >-
+        How did the introduction of women's suffrage impact voting rights historically?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-introduction-of-womens-suffrage-impact-voting-rights-historically
 ---

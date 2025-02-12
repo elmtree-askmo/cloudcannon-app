@@ -2,8 +2,10 @@
 _schema: default
 id: 167801
 date: 2025-02-01
-title: What is the ABO blood group system and how does it relate to genotype and phenotype?
-article_title: What is the ABO blood group system and how does it relate to genotype and phenotype?
+title: >-
+    What is the ABO blood group system and how does it relate to genotype and phenotype?
+article_title: >-
+    What is the ABO blood group system and how does it relate to genotype and phenotype?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype
 url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
 score: -1.0
 related_article1:
-    id: 167798
-    title: What is the significance of hypothesis testing in genetic studies?
+    id: 167795
+    title: >-
+        How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-hypothesis-testing-in-genetic-studies
+    url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
 related_article2:
-    id: 167806
-    title: How is genetic counseling used to assess risk and analyze family history?
+    id: 167802
+    title: >-
+        How does the norm of reaction illustrate the effect of temperature on phenotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
+    url: /learn/education-studies/questions/how-does-the-norm-of-reaction-illustrate-the-effect-of-temperature-on-phenotype
 related_article3:
-    id: 167796
-    title: What is the purpose of chi-square analysis in genetics?
+    id: 167784
+    title: >-
+        What role do alleles play in determining an organism's traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
+    url: /learn/education-studies/questions/what-role-do-alleles-play-in-determining-an-organisms-traits
 related_article4:
-    id: 167785
-    title: How are Punnett squares used to predict the outcomes of dihybrid crosses?
+    id: 167799
+    title: >-
+        What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
+    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 related_article5:
-    id: 167793
-    title: Provide an example of incomplete dominance in flower color.
+    id: 167788
+    title: >-
+        How do genetic mutations contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
+    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
 ---
 
 &nbsp;

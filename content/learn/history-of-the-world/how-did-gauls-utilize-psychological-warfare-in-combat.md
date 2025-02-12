@@ -2,8 +2,10 @@
 _schema: default
 id: 166075
 date: 2025-01-29
-title: How did Gauls utilize psychological warfare in combat?
-article_title: How did Gauls utilize psychological warfare in combat?
+title: >-
+    How did Gauls utilize psychological warfare in combat?
+article_title: >-
+    How did Gauls utilize psychological warfare in combat?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-gauls-utilize-psychological-warfare-in-combat.md
 url: /learn/history-of-the-world/questions/how-did-gauls-utilize-psychological-warfare-in-combat
 score: 9.0
 related_article1:
+    id: 166080
+    title: >-
+        What were the typical components of everyday Gaulish clothing?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-typical-components-of-everyday-gaulish-clothing
+related_article2:
+    id: 166074
+    title: >-
+        What were the primary tactics used by Gauls in chariotry during battle?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
+related_article3:
+    id: 166082
+    title: >-
+        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
+related_article4:
     id: 166086
-    title: How did Druids influence Gaulish society both in peace and war?
+    title: >-
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
-related_article2:
-    id: 166084
-    title: Describe the characteristics of Gaulish speech and the role of bards in their society.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-characteristics-of-gaulish-speech-and-the-role-of-bards-in-their-society
-related_article3:
+related_article5:
     id: 166078
-    title: Identify the main types of weapons used by the Gauls and their characteristics.
+    title: >-
+        Identify the main types of weapons used by the Gauls and their characteristics.
     subject: History of the World
     url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
-related_article4:
-    id: 166081
-    title: Explain the significance of helmets and decorations in Gaulish battle attire.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
-related_article5:
-    id: 166083
-    title: What role did artistic expression play in Gaulish culture, especially in clothing and armor design?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-artistic-expression-play-in-gaulish-culture-especially-in-clothing-and-armor-design
 ---
 
 &nbsp;

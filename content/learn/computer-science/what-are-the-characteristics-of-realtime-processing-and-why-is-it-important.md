@@ -2,8 +2,10 @@
 _schema: default
 id: 161698
 date: 2025-01-24
-title: What are the characteristics of real-time processing, and why is it important?
-article_title: What are the characteristics of real-time processing, and why is it important?
+title: >-
+    What are the characteristics of real-time processing, and why is it important?
+article_title: >-
+    What are the characteristics of real-time processing, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-realtime-processing-and-why-is-it-imp
 url: /learn/computer-science/questions/what-are-the-characteristics-of-realtime-processing-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 161434
-    title: Why is the age of information crucial, and what factors can affect how up-to-date information is?
+    id: 161697
+    title: >-
+        What are the characteristics of online processing, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
 related_article2:
-    id: 161436
-    title: What is the significance of completeness in information quality, and what factors can affect it?
+    id: 161707
+    title: >-
+        What are the differences between transaction processing systems, management information systems, and decision support systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-completeness-in-information-quality-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-are-the-differences-between-transaction-processing-systems-management-information-systems-and-decision-support-systems
 related_article3:
-    id: 161509
-    title: What is data logging and what are some common methods and tools used for it?
+    id: 161694
+    title: >-
+        What is the difference between symmetric and asymmetric encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-data-logging-and-what-are-some-common-methods-and-tools-used-for-it
+    url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
 related_article4:
-    id: 161427
-    title: What is the difference between data and information, and why is raw data considered meaningless?
+    id: 161495
+    title: >-
+        Why is the age of information crucial and what factors can affect its timeliness?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
+    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
 related_article5:
-    id: 161510
-    title: Why is data analysis important and what are some techniques and tools used in this process?
+    id: 161437
+    title: >-
+        What are the risks associated with data transmission, and how does encryption mitigate these risks?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-are-some-techniques-and-tools-used-in-this-process
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 ---
 
 &nbsp;

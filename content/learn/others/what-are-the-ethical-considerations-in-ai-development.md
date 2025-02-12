@@ -2,8 +2,10 @@
 _schema: default
 id: 164181
 date: 2025-01-28
-title: What are the ethical considerations in AI development?
-article_title: What are the ethical considerations in AI development?
+title: >-
+    What are the ethical considerations in AI development?
+article_title: >-
+    What are the ethical considerations in AI development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-ethical-considerations-in-ai-development.md
 url: /learn/others/questions/what-are-the-ethical-considerations-in-ai-development
 score: -1.0
 related_article1:
-    id: 164186
-    title: What are the challenges of multilingual processing in NLP?
+    id: 164157
+    title: >-
+        What are the key considerations for ensuring data quality during data collection?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-of-multilingual-processing-in-nlp
+    url: /learn/others/questions/what-are-the-key-considerations-for-ensuring-data-quality-during-data-collection
 related_article2:
-    id: 164180
-    title: How do search algorithms contribute to AI algorithms?
-    subject: Others
-    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
-related_article3:
-    id: 164185
-    title: Explain the difference between statistical models and neural network models in language models.
-    subject: Others
-    url: /learn/others/questions/explain-the-difference-between-statistical-models-and-neural-network-models-in-language-models
-related_article4:
     id: 164170
-    title: What is the purpose of ontologies in knowledge representation?
+    title: >-
+        What is the purpose of ontologies in knowledge representation?
     subject: Others
     url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
-related_article5:
-    id: 164184
-    title: What are decision models used for in prescriptive analysis?
+related_article3:
+    id: 164164
+    title: >-
+        What are the primary functions of processors and memory in hardware components?
     subject: Others
-    url: /learn/others/questions/what-are-decision-models-used-for-in-prescriptive-analysis
+    url: /learn/others/questions/what-are-the-primary-functions-of-processors-and-memory-in-hardware-components
+related_article4:
+    id: 164168
+    title: >-
+        How does the Internet of Things (IoT) impact emerging technologies?
+    subject: Others
+    url: /learn/others/questions/how-does-the-internet-of-things-iot-impact-emerging-technologies
+related_article5:
+    id: 164164
+    title: >-
+        What are the primary functions of processors and memory in hardware components?
+    subject: Others
+    url: /learn/others/questions/what-are-the-primary-functions-of-processors-and-memory-in-hardware-components
 ---
 
 &nbsp;

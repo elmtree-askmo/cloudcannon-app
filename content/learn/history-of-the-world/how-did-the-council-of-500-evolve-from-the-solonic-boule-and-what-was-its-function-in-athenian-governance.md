@@ -2,8 +2,10 @@
 _schema: default
 id: 163971
 date: 2025-01-28
-title: How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
-article_title: How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
+title: >-
+    How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
+article_title: >-
+    How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was
 url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
 score: 9.0
 related_article1:
-    id: 163974
-    title: What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
+    id: 163977
+    title: >-
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
+    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 related_article2:
     id: 163977
-    title: How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
+    title: >-
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 related_article3:
-    id: 163964
-    title: Define dēmos and dēmokratia in the context of ancient Greek political systems.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/define-dmos-and-dmokratia-in-the-context-of-ancient-greek-political-systems
-related_article4:
     id: 163969
-    title: What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    title: >-
+        What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
-related_article5:
-    id: 163963
-    title: What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
+related_article4:
+    id: 163974
+    title: >-
+        What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
+    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
+related_article5:
+    id: 163973
+    title: >-
+        How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-role-and-selection-of-dikastai-reflect-the-sovereignty-of-athenian-law-courts
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164311
 date: 2025-01-28
-title: What are some applications of MRI in anatomical and functional imaging research?
-article_title: What are some applications of MRI in anatomical and functional imaging research?
+title: >-
+    What are some applications of MRI in anatomical and functional imaging research?
+article_title: >-
+    What are some applications of MRI in anatomical and functional imaging research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-some-applications-of-mri-in-anatomical-and-functional-imagin
 url: /learn/psychology/questions/what-are-some-applications-of-mri-in-anatomical-and-functional-imaging-research
 score: -1.0
 related_article1:
-    id: 164303
-    title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
-related_article2:
-    id: 164295
-    title: What are the key differences between block design and event-related design in fMRI experimental setups?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-block-design-and-eventrelated-design-in-fmri-experimental-setups
-related_article3:
     id: 164294
-    title: How does the hemodynamic response function relate to neuroactivity and blood flow in fMRI?
+    title: >-
+        How does the hemodynamic response function relate to neuroactivity and blood flow in fMRI?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-hemodynamic-response-function-relate-to-neuroactivity-and-blood-flow-in-fmri
-related_article4:
-    id: 164307
-    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+related_article2:
+    id: 164305
+    title: >-
+        What are the main advantages of fMRI over PET in neuroimaging?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
-related_article5:
+    url: /learn/psychology/questions/what-are-the-main-advantages-of-fmri-over-pet-in-neuroimaging
+related_article3:
     id: 164313
-    title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
+related_article4:
+    id: 164294
+    title: >-
+        How does the hemodynamic response function relate to neuroactivity and blood flow in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hemodynamic-response-function-relate-to-neuroactivity-and-blood-flow-in-fmri
 ---
 
 &nbsp;

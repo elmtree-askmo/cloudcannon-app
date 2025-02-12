@@ -2,8 +2,10 @@
 _schema: default
 id: 169136
 date: 2025-02-04
-title: How do decolonial aesthetics challenge the control of knowledge and state power?
-article_title: How do decolonial aesthetics challenge the control of knowledge and state power?
+title: >-
+    How do decolonial aesthetics challenge the control of knowledge and state power?
+article_title: >-
+    How do decolonial aesthetics challenge the control of knowledge and state power?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-decolonial-aesthetics-challenge-the-control-of-knowledge-and-s
 url: /learn/others/questions/how-do-decolonial-aesthetics-challenge-the-control-of-knowledge-and-state-power
 score: -1.0
 related_article1:
-    id: 169130
-    title: In what ways has fascist architecture been normalized within Italian cityscapes?
+    id: 169134
+    title: >-
+        How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
     subject: Others
-    url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
+    url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
 related_article2:
     id: 169129
-    title: How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
+    title: >-
+        How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
     subject: Others
     url: /learn/others/questions/how-did-italian-colonialism-and-military-defeats-influence-the-process-of-defascistization-and-decolonization
 related_article3:
     id: 169127
-    title: How did the nomination of Asmara as a UNESCO World Heritage site address contradictory questions?
+    title: >-
+        How did the nomination of Asmara as a UNESCO World Heritage site address contradictory questions?
     subject: Others
     url: /learn/others/questions/how-did-the-nomination-of-asmara-as-a-unesco-world-heritage-site-address-contradictory-questions
 related_article4:
     id: 169130
-    title: In what ways has fascist architecture been normalized within Italian cityscapes?
+    title: >-
+        In what ways has fascist architecture been normalized within Italian cityscapes?
     subject: Others
     url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
 related_article5:
-    id: 169132
-    title: How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
+    id: 169135
+    title: >-
+        What does architectural demodernization entail in the context of decolonizing preservation?
     subject: Others
-    url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
+    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164268
 date: 2025-01-28
-title: How do wireless communication protocols facilitate data transmission in human-machine interfaces?
-article_title: How do wireless communication protocols facilitate data transmission in human-machine interfaces?
+title: >-
+    How do wireless communication protocols facilitate data transmission in human-machine interfaces?
+article_title: >-
+    How do wireless communication protocols facilitate data transmission in human-machine interfaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-wireless-communication-protocols-facilitate-data-transmission-
 url: /learn/health-studies/questions/how-do-wireless-communication-protocols-facilitate-data-transmission-in-humanmachine-interfaces
 score: -1.0
 related_article1:
+    id: 164264
+    title: >-
+        What factors are considered in the material selection for bionic prosthetics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-factors-are-considered-in-the-material-selection-for-bionic-prosthetics
+related_article2:
+    id: 164274
+    title: >-
+        What potential does AI integration hold for the future of personalized rehabilitation engineering?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-does-ai-integration-hold-for-the-future-of-personalized-rehabilitation-engineering
+related_article3:
+    id: 164274
+    title: >-
+        What potential does AI integration hold for the future of personalized rehabilitation engineering?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-does-ai-integration-hold-for-the-future-of-personalized-rehabilitation-engineering
+related_article4:
+    id: 164266
+    title: >-
+        How does sensory feedback enhance the user experience of bionic prosthetics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-sensory-feedback-enhance-the-user-experience-of-bionic-prosthetics
+related_article5:
     id: 164272
-    title: What types of assistive technologies are commonly used in rehabilitation engineering, and what are their purposes?
+    title: >-
+        What types of assistive technologies are commonly used in rehabilitation engineering, and what are their purposes?
     subject: Health Studies
     url: /learn/health-studies/questions/what-types-of-assistive-technologies-are-commonly-used-in-rehabilitation-engineering-and-what-are-their-purposes
-related_article2:
-    id: 164267
-    title: What are the key differences between wearable and implantable devices in human-machine interfaces?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-wearable-and-implantable-devices-in-humanmachine-interfaces
-related_article3:
-    id: 164258
-    title: What are the primary components of biomechanical systems, and how do they function together?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
-related_article4:
-    id: 164271
-    title: What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-ethical-concerns-associated-with-nervous-system-integration-technologies-particularly-regarding-privacy
-related_article5:
-    id: 164261
-    title: Describe the structure and function of neural pathways in neural control systems.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-neural-pathways-in-neural-control-systems
 ---
 
 &nbsp;

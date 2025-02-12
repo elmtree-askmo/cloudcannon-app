@@ -2,8 +2,10 @@
 _schema: default
 id: 162034
 date: 2025-01-24
-title: Describe the process of shaving wood and its classification as a physical change.
-article_title: Describe the process of shaving wood and its classification as a physical change.
+title: >-
+    Describe the process of shaving wood and its classification as a physical change.
+article_title: >-
+    Describe the process of shaving wood and its classification as a physical change.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-shaving-wood-and-its-classification-as-a-phys
 url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
 score: -1.0
 related_article1:
-    id: 161975
-    title: What happens during the state transition from liquid to solid?
+    id: 161931
+    title: >-
+        What are the characteristics of a solid state of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
 related_article2:
-    id: 162014
-    title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+    id: 162045
+    title: >-
+        Describe the process of ionization and its effect on the formation of ions.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions
 related_article3:
-    id: 161974
-    title: How does the appearance of a substance relate to its physical properties?
+    id: 161760
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article4:
-    id: 162017
-    title: What is a precipitation reaction and how can it be identified?
+    id: 161933
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 related_article5:
-    id: 161934
-    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    id: 161968
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 ---
 
 &nbsp;

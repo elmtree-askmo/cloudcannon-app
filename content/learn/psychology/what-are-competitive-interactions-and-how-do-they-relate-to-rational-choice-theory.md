@@ -2,8 +2,10 @@
 _schema: default
 id: 170836
 date: 2025-02-07
-title: What are competitive interactions, and how do they relate to rational choice theory?
-article_title: What are competitive interactions, and how do they relate to rational choice theory?
+title: >-
+    What are competitive interactions, and how do they relate to rational choice theory?
+article_title: >-
+    What are competitive interactions, and how do they relate to rational choice theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-competitive-interactions-and-how-do-they-relate-to-rational-
 url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
 score: -1.0
 related_article1:
+    id: 170838
+    title: >-
+        How does strategy evolution occur in the context of fitness landscapes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
+related_article2:
+    id: 170843
+    title: >-
+        How does Nash Equilibrium apply to competitive interactions in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
+related_article3:
     id: 170844
-    title: What is the importance of optimal strategies in competitive interactions?
+    title: >-
+        What is the importance of optimal strategies in competitive interactions?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
-related_article2:
-    id: 170842
-    title: What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
-related_article3:
-    id: 170839
-    title: What is the significance of interactions in populations within dynamic systems in game theory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-interactions-in-populations-within-dynamic-systems-in-game-theory
 related_article4:
-    id: 170840
-    title: How do theoretical frameworks in biology utilize mathematical modeling?
+    id: 170841
+    title: >-
+        In behavioral ecology, how do interactions in populations affect strategy evolution?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
+    url: /learn/psychology/questions/in-behavioral-ecology-how-do-interactions-in-populations-affect-strategy-evolution
 related_article5:
     id: 170837
-    title: Describe frequency-dependent selection in evolutionary game theory.
+    title: >-
+        Describe frequency-dependent selection in evolutionary game theory.
     subject: Psychology
     url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 161954
 date: 2025-01-24
-title: What criteria must be met for the initiation and termination of police pursuits according to standard protocols?
-article_title: What criteria must be met for the initiation and termination of police pursuits according to standard protocols?
+title: >-
+    What criteria must be met for the initiation and termination of police pursuits according to standard protocols?
+article_title: >-
+    What criteria must be met for the initiation and termination of police pursuits according to standard protocols?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/criminal-or-civil-law/questions/what-criteria-must-be-met-for-the-in
 score: -1.0
 related_article1:
     id: 161952
-    title: What are the potential criminal charges and civil liabilities associated with criminal negligence?
+    title: >-
+        What are the potential criminal charges and civil liabilities associated with criminal negligence?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-potential-criminal-charges-and-civil-liabilities-associated-with-criminal-negligence
 related_article2:
-    id: 161960
-    title: How do statutory provisions and case law precedents shape the legal framework for police pursuits?
+    id: 161955
+    title: >-
+        How do law enforcement agencies address public safety concerns related to traffic safety, and what preventive measures are commonly implemented?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-statutory-provisions-and-case-law-precedents-shape-the-legal-framework-for-police-pursuits
+    url: /learn/criminal-or-civil-law/questions/how-do-law-enforcement-agencies-address-public-safety-concerns-related-to-traffic-safety-and-what-preventive-measures-are-commonly-implemented
 related_article3:
-    id: 161959
-    title: What environmental conditions and suspect behaviors can influence the dynamics of police pursuits?
+    id: 161951
+    title: >-
+        What are the key elements of criminal negligence, and how do they differ from other forms of negligence?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-environmental-conditions-and-suspect-behaviors-can-influence-the-dynamics-of-police-pursuits
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-elements-of-criminal-negligence-and-how-do-they-differ-from-other-forms-of-negligence
 related_article4:
-    id: 161953
-    title: What are the legal justifications for police pursuits, and how is risk assessed before initiating a pursuit?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-justifications-for-police-pursuits-and-how-is-risk-assessed-before-initiating-a-pursuit
-related_article5:
     id: 161952
-    title: What are the potential criminal charges and civil liabilities associated with criminal negligence?
+    title: >-
+        What are the potential criminal charges and civil liabilities associated with criminal negligence?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-potential-criminal-charges-and-civil-liabilities-associated-with-criminal-negligence
+related_article5:
+    id: 161960
+    title: >-
+        How do statutory provisions and case law precedents shape the legal framework for police pursuits?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-statutory-provisions-and-case-law-precedents-shape-the-legal-framework-for-police-pursuits
 ---
 
 &nbsp;

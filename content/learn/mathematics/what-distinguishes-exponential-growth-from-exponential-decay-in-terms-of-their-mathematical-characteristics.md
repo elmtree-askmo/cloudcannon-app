@@ -2,8 +2,10 @@
 _schema: default
 id: 163769
 date: 2025-01-27
-title: What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
-article_title: What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+title: >-
+    What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+article_title: >-
+    What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-exponential-growth-from-exponential-decay-in-terms
 url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
 score: -1.0
 related_article1:
-    id: 163784
-    title: Explain the negative exponent rule and provide an example.
+    id: 163774
+    title: >-
+        How do horizontal and vertical asymptotes differ in the context of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
 related_article2:
-    id: 163782
-    title: What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    id: 163774
+    title: >-
+        How do horizontal and vertical asymptotes differ in the context of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
 related_article3:
-    id: 163789
-    title: Describe a method for solving real-world problems using exponential models.
+    id: 163785
+    title: >-
+        What is the zero exponent rule and how does it apply to exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
+    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
 related_article4:
-    id: 163765
-    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    id: 163774
+    title: >-
+        How do horizontal and vertical asymptotes differ in the context of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
+    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-asymptotes-differ-in-the-context-of-exponential-functions
 related_article5:
-    id: 163784
-    title: Explain the negative exponent rule and provide an example.
+    id: 163767
+    title: >-
+        How do you identify the asymptote of an exponential function from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
+    url: /learn/mathematics/questions/how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169542
 date: 2025-02-05
-title: Why is cultural competency important in nursing, and how can it improve patient care?
-article_title: Why is cultural competency important in nursing, and how can it improve patient care?
+title: >-
+    Why is cultural competency important in nursing, and how can it improve patient care?
+article_title: >-
+    Why is cultural competency important in nursing, and how can it improve patient care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-cultural-competency-important-in-nursing-and-how-can-it-improv
 url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
 score: -1.0
 related_article1:
-    id: 169547
-    title: Why is continuous learning important for professional development in nursing?
+    id: 169538
+    title: >-
+        How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
+    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
 related_article2:
-    id: 169549
-    title: What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+    id: 169538
+    title: >-
+        How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
+    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
 related_article3:
-    id: 169551
-    title: What are the benefits of building a strong support network for nurses?
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
 related_article4:
+    id: 169548
+    title: >-
+        How can adaptability in nursing improve patient care and outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-adaptability-in-nursing-improve-patient-care-and-outcomes
+related_article5:
     id: 169544
-    title: How can self-care practices contribute to a nurse's personal well-being and mental health?
+    title: >-
+        How can self-care practices contribute to a nurse's personal well-being and mental health?
     subject: Nursing
     url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
-related_article5:
-    id: 169550
-    title: How does emotional regulation impact patient trust and outcomes in nursing?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
 ---
 
 &nbsp;

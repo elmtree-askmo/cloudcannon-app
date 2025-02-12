@@ -2,8 +2,10 @@
 _schema: default
 id: 164221
 date: 2025-01-28
-title: Explain the stages of post morality in Colberg's theory.
-article_title: Explain the stages of post morality in Colberg's theory.
+title: >-
+    Explain the stages of post morality in Colberg's theory.
+article_title: >-
+    Explain the stages of post morality in Colberg's theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-stages-of-post-morality-in-colbergs-theory.md
 url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
 score: -1.0
 related_article1:
-    id: 164217
-    title: How did Colberg study moral reasoning, and what were his key findings?
+    id: 164223
+    title: >-
+        What role does social perspective taking play in moral judgments according to Colberg?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
+    url: /learn/psychology/questions/what-role-does-social-perspective-taking-play-in-moral-judgments-according-to-colberg
 related_article2:
-    id: 164225
-    title: How does Colberg's theory address the rigidity and linearity of moral development stages?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
-related_article3:
-    id: 164218
-    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
-related_article4:
-    id: 164218
-    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
-related_article5:
     id: 164230
-    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    title: >-
+        What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
+related_article3:
+    id: 164229
+    title: >-
+        How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
+related_article4:
+    id: 164219
+    title: >-
+        Describe the stages of pre-conventional morality in Colberg's theory.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-stages-of-preconventional-morality-in-colbergs-theory
+related_article5:
+    id: 164229
+    title: >-
+        How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
 ---
 
 &nbsp;

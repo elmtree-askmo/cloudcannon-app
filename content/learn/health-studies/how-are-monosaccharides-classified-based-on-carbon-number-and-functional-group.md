@@ -2,8 +2,10 @@
 _schema: default
 id: 167100
 date: 2025-01-31
-title: How are monosaccharides classified based on carbon number and functional group?
-article_title: How are monosaccharides classified based on carbon number and functional group?
+title: >-
+    How are monosaccharides classified based on carbon number and functional group?
+article_title: >-
+    How are monosaccharides classified based on carbon number and functional group?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-monosaccharides-classified-based-on-carbon-number-and-functio
 url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
 score: -1.0
 related_article1:
+    id: 167095
+    title: >-
+        What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-monosaccharides-disaccharides-and-polysaccharides
+related_article2:
+    id: 167087
+    title: >-
+        What are the main roles of biological molecules in cells?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
+related_article3:
+    id: 167102
+    title: >-
+        What are the structural and functional differences between starch, glycogen, and cellulose?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-structural-and-functional-differences-between-starch-glycogen-and-cellulose
+related_article4:
     id: 167096
-    title: How are glycosidic bonds formed in carbohydrates?
+    title: >-
+        How are glycosidic bonds formed in carbohydrates?
     subject: Health Studies
     url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
-related_article2:
-    id: 167089
-    title: What are the four main classes of biological molecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
-related_article3:
-    id: 167112
-    title: How do proteins and lipids function in cell signaling?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-and-lipids-function-in-cell-signaling
-related_article4:
-    id: 167097
-    title: What are the four levels of protein structure and how do they differ?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
 related_article5:
-    id: 167097
-    title: What are the four levels of protein structure and how do they differ?
+    id: 167111
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
+    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167097
 date: 2025-01-31
-title: What are the four levels of protein structure and how do they differ?
-article_title: What are the four levels of protein structure and how do they differ?
+title: >-
+    What are the four levels of protein structure and how do they differ?
+article_title: >-
+    What are the four levels of protein structure and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-four-levels-of-protein-structure-and-how-do-they-differ.
 url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 167088
-    title: Why are functional groups important in biological molecules?
+    id: 167090
+    title: >-
+        How do macromolecules differ in their structural and chemical properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+    url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
 related_article2:
-    id: 167104
-    title: What is the general structure of an amino acid and how do side chains affect their properties?
+    id: 167094
+    title: >-
+        How do dehydration reactions and hydrolysis reactions differ in the polymerization process?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
+    url: /learn/health-studies/questions/how-do-dehydration-reactions-and-hydrolysis-reactions-differ-in-the-polymerization-process
 related_article3:
-    id: 167093
-    title: What is the process of polymerization and why is it important in macromolecule formation?
+    id: 167096
+    title: >-
+        How are glycosidic bonds formed in carbohydrates?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
+    url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
 related_article4:
-    id: 167093
-    title: What is the process of polymerization and why is it important in macromolecule formation?
+    id: 167106
+    title: >-
+        What roles do enzymes play in catalysis and reaction facilitation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
+    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
 related_article5:
-    id: 167112
-    title: How do proteins and lipids function in cell signaling?
+    id: 167105
+    title: >-
+        How are amino acids classified based on polarity and charge?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-and-lipids-function-in-cell-signaling
+    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168640
 date: 2025-02-03
-title: What are some ways storytelling is used across different media platforms?
-article_title: What are some ways storytelling is used across different media platforms?
+title: >-
+    What are some ways storytelling is used across different media platforms?
+article_title: >-
+    What are some ways storytelling is used across different media platforms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-ways-storytelling-is-used-across-different-media-platfo
 url: /learn/education-studies/questions/what-are-some-ways-storytelling-is-used-across-different-media-platforms
 score: -1.0
 related_article1:
+    id: 168644
+    title: >-
+        Why is evidence important in persuasive writing, and how does it enhance credibility?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-evidence-important-in-persuasive-writing-and-how-does-it-enhance-credibility
+related_article2:
+    id: 168642
+    title: >-
+        How do supporting styles contribute to the main objective of a piece of writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-supporting-styles-contribute-to-the-main-objective-of-a-piece-of-writing
+related_article3:
+    id: 168648
+    title: >-
+        How does grammar impact the clarity and professionalism of writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
+related_article4:
+    id: 168646
+    title: >-
+        How can feedback be effectively implemented to improve writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-feedback-be-effectively-implemented-to-improve-writing
+related_article5:
     id: 168647
-    title: What are some common techniques used in creative writing to develop characters?
+    title: >-
+        What are some common techniques used in creative writing to develop characters?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-creative-writing-to-develop-characters
-related_article2:
-    id: 168650
-    title: What are the essential components of a research report, and how do they contribute to its purpose?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-research-report-and-how-do-they-contribute-to-its-purpose
-related_article3:
-    id: 168649
-    title: What are the key guidelines of APA formatting, and why are they important in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-guidelines-of-apa-formatting-and-why-are-they-important-in-academic-writing
-related_article4:
-    id: 168641
-    title: What techniques can be used to maintain audience engagement in writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-maintain-audience-engagement-in-writing
-related_article5:
-    id: 168632
-    title: How does the purpose of persuasive writing influence its effectiveness?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-purpose-of-persuasive-writing-influence-its-effectiveness
 ---
 
 &nbsp;

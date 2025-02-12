@@ -2,8 +2,10 @@
 _schema: default
 id: 167182
 date: 2025-01-31
-title: How do transport proteins facilitate the movement of ions across the cell membrane?
-article_title: How do transport proteins facilitate the movement of ions across the cell membrane?
+title: >-
+    How do transport proteins facilitate the movement of ions across the cell membrane?
+article_title: >-
+    How do transport proteins facilitate the movement of ions across the cell membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-
 url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
 score: -1.0
 related_article1:
-    id: 167199
-    title: How are large molecules and particles transported across the cell membrane?
+    id: 167194
+    title: >-
+        Define concentration gradients and explain their importance in membrane transport.
     subject: Biology
-    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
 related_article2:
-    id: 167194
-    title: Define concentration gradients and explain their importance in membrane transport.
+    id: 167183
+    title: >-
+        What is facilitated diffusion and how does it differ from simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 related_article3:
-    id: 167189
-    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    id: 167198
+    title: >-
+        What types of materials are typically transported via passive transport methods?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+    url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
 related_article4:
-    id: 167194
-    title: Define concentration gradients and explain their importance in membrane transport.
+    id: 167187
+    title: >-
+        What factors determine the specificity and selectivity of channel proteins?
     subject: Biology
-    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
 related_article5:
-    id: 167195
-    title: How do concentration gradients influence the direction and rate of transport mechanisms?
+    id: 167187
+    title: >-
+        What factors determine the specificity and selectivity of channel proteins?
     subject: Biology
-    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
 ---
 
 &nbsp;

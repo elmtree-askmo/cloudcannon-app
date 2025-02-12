@@ -2,8 +2,10 @@
 _schema: default
 id: 167091
 date: 2025-01-31
-title: What are the key characteristics of organic molecules?
-article_title: What are the key characteristics of organic molecules?
+title: >-
+    What are the key characteristics of organic molecules?
+article_title: >-
+    What are the key characteristics of organic molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-characteristics-of-organic-molecules.md
 url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
 score: -1.0
 related_article1:
-    id: 167100
-    title: How are monosaccharides classified based on carbon number and functional group?
+    id: 167104
+    title: >-
+        What is the general structure of an amino acid and how do side chains affect their properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
+    url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
 related_article2:
-    id: 167088
-    title: Why are functional groups important in biological molecules?
+    id: 167089
+    title: >-
+        What are the four main classes of biological molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
 related_article3:
-    id: 167096
-    title: How are glycosidic bonds formed in carbohydrates?
+    id: 167106
+    title: >-
+        What roles do enzymes play in catalysis and reaction facilitation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
+    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
 related_article4:
-    id: 167094
-    title: How do dehydration reactions and hydrolysis reactions differ in the polymerization process?
+    id: 167090
+    title: >-
+        How do macromolecules differ in their structural and chemical properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-dehydration-reactions-and-hydrolysis-reactions-differ-in-the-polymerization-process
+    url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
 related_article5:
     id: 167111
-    title: What types of molecules provide structural support in cells?
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
     url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 166510
 date: 2025-01-30
-title: How do pharmacokinetic and pharmacodynamic interactions differ?
-article_title: How do pharmacokinetic and pharmacodynamic interactions differ?
+title: >-
+    How do pharmacokinetic and pharmacodynamic interactions differ?
+article_title: >-
+    How do pharmacokinetic and pharmacodynamic interactions differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ.md
 url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
 score: -1.0
 related_article1:
-    id: 166496
-    title: Describe the phases of clinical trials and their significance in drug development.
+    id: 166504
+    title: >-
+        Why is medication reconciliation important during patient admission and discharge?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 related_article2:
-    id: 166494
-    title: Explain the concept of drug-receptor interactions in pharmacodynamics.
+    id: 166501
+    title: >-
+        What role does the FDA play in ensuring drug safety and efficacy?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
 related_article3:
-    id: 166499
-    title: What is the Controlled Substance Act and how does it classify narcotics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
-related_article4:
     id: 166500
-    title: What are the implications of the Controlled Substance Act for healthcare providers?
+    title: >-
+        What are the implications of the Controlled Substance Act for healthcare providers?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
-related_article5:
-    id: 166505
-    title: How do different drug formulations impact drug absorption and bioavailability?
+related_article4:
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article5:
+    id: 166496
+    title: >-
+        Describe the phases of clinical trials and their significance in drug development.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
 ---
 
 &nbsp;

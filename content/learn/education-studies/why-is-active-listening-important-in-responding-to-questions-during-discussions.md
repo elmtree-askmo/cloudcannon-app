@@ -2,8 +2,10 @@
 _schema: default
 id: 168520
 date: 2025-02-03
-title: Why is active listening important in responding to questions during discussions?
-article_title: Why is active listening important in responding to questions during discussions?
+title: >-
+    Why is active listening important in responding to questions during discussions?
+article_title: >-
+    Why is active listening important in responding to questions during discussions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-active-listening-important-in-responding-to-questions-during-d
 url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
 score: -1.0
 related_article1:
+    id: 168521
+    title: >-
+        How can empathy be demonstrated in conversations to understand diverse perspectives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-empathy-be-demonstrated-in-conversations-to-understand-diverse-perspectives
+related_article2:
     id: 168523
-    title: How can posing open-ended questions propel a conversation forward?
+    title: >-
+        How can posing open-ended questions propel a conversation forward?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
-related_article2:
-    id: 168522
-    title: What is the significance of summarizing points of agreement and disagreement in discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-summarizing-points-of-agreement-and-disagreement-in-discussions
 related_article3:
-    id: 168524
-    title: In what ways can responding to broader themes help move conversations forward?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-responding-to-broader-themes-help-move-conversations-forward
-related_article4:
-    id: 168517
-    title: What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-rules-and-roles-in-collegial-discussions-to-ensure-a-collaborative-nature
-related_article5:
     id: 168518
-    title: How does diction and syntax contribute to clarity and precision in oral discussions?
+    title: >-
+        How does diction and syntax contribute to clarity and precision in oral discussions?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-diction-and-syntax-contribute-to-clarity-and-precision-in-oral-discussions
+related_article4:
+    id: 168519
+    title: >-
+        What rhetorical strategies can be used to engage an audience effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-rhetorical-strategies-can-be-used-to-engage-an-audience-effectively
+related_article5:
+    id: 168524
+    title: >-
+        In what ways can responding to broader themes help move conversations forward?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-can-responding-to-broader-themes-help-move-conversations-forward
 ---
 
 &nbsp;

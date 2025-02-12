@@ -2,8 +2,10 @@
 _schema: default
 id: 168223
 date: 2025-02-03
-title: What actions are prohibited when using response sheets?
-article_title: What actions are prohibited when using response sheets?
+title: >-
+    What actions are prohibited when using response sheets?
+article_title: >-
+    What actions are prohibited when using response sheets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-actions-are-prohibited-when-using-response-sheets.md
 url: /learn/education-studies/questions/what-actions-are-prohibited-when-using-response-sheets
 score: -1.0
 related_article1:
-    id: 168221
-    title: What is the correct procedure for submitting response sheets after the exam?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-correct-procedure-for-submitting-response-sheets-after-the-exam
-related_article2:
     id: 168230
-    title: How should seating arrangements be managed in the exam room?
+    title: >-
+        How should seating arrangements be managed in the exam room?
     subject: Education Studies
     url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
+related_article2:
+    id: 168234
+    title: >-
+        How should feedback be provided to students after assessments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-feedback-be-provided-to-students-after-assessments
 related_article3:
-    id: 168218
-    title: How should electronics and personal items be managed before the exam begins?
+    id: 168220
+    title: >-
+        How should time be managed effectively during an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
+    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
 related_article4:
-    id: 168226
-    title: How should students handle writing on exam sheets?
+    id: 168222
+    title: >-
+        What are the guidelines for distributing and collecting response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
+    url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
 related_article5:
-    id: 168229
-    title: What instructions should be given to students after they submit their exams?
+    id: 168222
+    title: >-
+        What are the guidelines for distributing and collecting response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
+    url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
 ---
 
 &nbsp;

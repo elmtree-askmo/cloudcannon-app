@@ -2,8 +2,10 @@
 _schema: default
 id: 167512
 date: 2025-01-31
-title: What are the different types of reproduction and why are they important for species continuity?
-article_title: What are the different types of reproduction and why are they important for species continuity?
+title: >-
+    What are the different types of reproduction and why are they important for species continuity?
+article_title: >-
+    What are the different types of reproduction and why are they important for species continuity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-w
 score: -1.0
 related_article1:
     id: 167515
-    title: What is the significance of cellular organization in living organisms?
+    title: >-
+        What is the significance of cellular organization in living organisms?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-cellular-organization-in-living-organisms
 related_article2:
-    id: 167514
-    title: How do organisms respond to stimuli and why is this response important?
+    id: 167523
+    title: >-
+        How is fitness defined and measured in the context of evolution?
     subject: Biology
-    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-response-important
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-evolution
 related_article3:
-    id: 167517
-    title: Can you provide examples of well-established scientific theories?
+    id: 167507
+    title: >-
+        How does a prediction relate to a hypothesis in the scientific method?
     subject: Biology
-    url: /learn/biology/questions/can-you-provide-examples-of-wellestablished-scientific-theories
+    url: /learn/biology/questions/how-does-a-prediction-relate-to-a-hypothesis-in-the-scientific-method
 related_article4:
-    id: 167520
-    title: What are the sources of variation in traits and why are they important for evolution?
+    id: 167521
+    title: >-
+        How does the heritability of traits contribute to evolution?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-sources-of-variation-in-traits-and-why-are-they-important-for-evolution
+    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
 related_article5:
-    id: 167519
-    title: How is a phylogenetic tree used to interpret evolutionary relationships?
+    id: 167522
+    title: >-
+        What factors affect an organism's survival and reproductive success?
     subject: Biology
-    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
+    url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
 ---
 
 &nbsp;

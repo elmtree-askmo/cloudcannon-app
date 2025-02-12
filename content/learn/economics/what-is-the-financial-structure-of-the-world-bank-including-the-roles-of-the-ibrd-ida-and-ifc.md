@@ -2,8 +2,10 @@
 _schema: default
 id: 159677
 date: 2025-01-23
-title: What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
-article_title: What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
+title: >-
+    What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
+article_title: >-
+    What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-financial-structure-of-the-world-bank-including-the-roles
 url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
 score: -1.0
 related_article1:
-    id: 159679
-    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
-related_article2:
-    id: 159669
-    title: How does the IMF contribute to capacity development in public finances and monetary policies?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
-related_article3:
-    id: 159665
-    title: How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
-    subject: Economics
-    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
-related_article4:
     id: 159670
-    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    title: >-
+        What is the role of Special Drawing Rights (SDRs) in the international monetary system?
     subject: Economics
     url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
-related_article5:
-    id: 159663
-    title: How do multilateral institutions create favorable circumstances for global priorities?
+related_article2:
+    id: 159676
+    title: >-
+        How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
     subject: Economics
-    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
+    url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
+related_article3:
+    id: 159667
+    title: >-
+        How does the IMF ensure the stability of the international monetary system through surveillance?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
+related_article4:
+    id: 159681
+    title: >-
+        How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
+related_article5:
+    id: 159682
+    title: >-
+        What special provisions does the WTO have for building trade capacity in developing countries?
+    subject: Economics
+    url: /learn/economics/questions/what-special-provisions-does-the-wto-have-for-building-trade-capacity-in-developing-countries
 ---
 
 &nbsp;

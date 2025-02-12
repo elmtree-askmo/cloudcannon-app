@@ -2,8 +2,10 @@
 _schema: default
 id: 165569
 date: 2025-01-29
-title: Describe the traditional formulation of Newton's Laws and its field representation.
-article_title: Describe the traditional formulation of Newton's Laws and its field representation.
+title: >-
+    Describe the traditional formulation of Newton's Laws and its field representation.
+article_title: >-
+    Describe the traditional formulation of Newton's Laws and its field representation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-traditional-formulation-of-newtons-laws-and-its-field-re
 url: /learn/mathematics/questions/describe-the-traditional-formulation-of-newtons-laws-and-its-field-representation
 score: -1.0
 related_article1:
-    id: 165563
-    title: What is the mathematical formulation of Newton's Law of Gravitation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-mathematical-formulation-of-newtons-law-of-gravitation
-related_article2:
-    id: 165570
-    title: What are the philosophical implications of the minimum principle in physics?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-philosophical-implications-of-the-minimum-principle-in-physics
-related_article3:
-    id: 165560
-    title: In what ways does physics provide problems that lead to mathematical advancements?
-    subject: Mathematics
-    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
-related_article4:
-    id: 165560
-    title: In what ways does physics provide problems that lead to mathematical advancements?
-    subject: Mathematics
-    url: /learn/mathematics/questions/in-what-ways-does-physics-provide-problems-that-lead-to-mathematical-advancements
-related_article5:
     id: 165561
-    title: What role do large numbers play in the application of mathematics to physics?
+    title: >-
+        What role do large numbers play in the application of mathematics to physics?
     subject: Mathematics
     url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+related_article2:
+    id: 165561
+    title: >-
+        What role do large numbers play in the application of mathematics to physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-role-do-large-numbers-play-in-the-application-of-mathematics-to-physics
+related_article3:
+    id: 165559
+    title: >-
+        How does mathematics serve as a language for physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
+related_article4:
+    id: 165562
+    title: >-
+        How is mathematical analysis used to understand physical phenomena?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-mathematical-analysis-used-to-understand-physical-phenomena
+related_article5:
+    id: 165559
+    title: >-
+        How does mathematics serve as a language for physics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-mathematics-serve-as-a-language-for-physics
 ---
 
 &nbsp;

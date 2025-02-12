@@ -2,8 +2,10 @@
 _schema: default
 id: 169382
 date: 2025-02-05
-title: What are the advantages of using glass in facade elements for building materials?
-article_title: What are the advantages of using glass in facade elements for building materials?
+title: >-
+    What are the advantages of using glass in facade elements for building materials?
+article_title: >-
+    What are the advantages of using glass in facade elements for building materials?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-glass-in-facade-elements-for-buildin
 url: /learn/others/questions/what-are-the-advantages-of-using-glass-in-facade-elements-for-building-materials
 score: -1.0
 related_article1:
-    id: 169381
-    title: How do glass tubes in light wells enhance interior illumination?
-    subject: Others
-    url: /learn/others/questions/how-do-glass-tubes-in-light-wells-enhance-interior-illumination
-related_article2:
-    id: 169379
-    title: How do gradual color transitions contribute to environmental harmony in architecture?
-    subject: Others
-    url: /learn/others/questions/how-do-gradual-color-transitions-contribute-to-environmental-harmony-in-architecture
-related_article3:
     id: 169384
-    title: How does nature-inspired design contribute to creating a refreshing atmosphere in environmental aesthetics?
+    title: >-
+        How does nature-inspired design contribute to creating a refreshing atmosphere in environmental aesthetics?
     subject: Others
     url: /learn/others/questions/how-does-natureinspired-design-contribute-to-creating-a-refreshing-atmosphere-in-environmental-aesthetics
+related_article2:
+    id: 169381
+    title: >-
+        How do glass tubes in light wells enhance interior illumination?
+    subject: Others
+    url: /learn/others/questions/how-do-glass-tubes-in-light-wells-enhance-interior-illumination
+related_article3:
+    id: 169383
+    title: >-
+        How do reflective surfaces in paneling affect the aesthetic of a building?
+    subject: Others
+    url: /learn/others/questions/how-do-reflective-surfaces-in-paneling-affect-the-aesthetic-of-a-building
 related_article4:
-    id: 169379
-    title: How do gradual color transitions contribute to environmental harmony in architecture?
+    id: 169383
+    title: >-
+        How do reflective surfaces in paneling affect the aesthetic of a building?
     subject: Others
-    url: /learn/others/questions/how-do-gradual-color-transitions-contribute-to-environmental-harmony-in-architecture
+    url: /learn/others/questions/how-do-reflective-surfaces-in-paneling-affect-the-aesthetic-of-a-building
 related_article5:
-    id: 169374
-    title: What are the key considerations in facade design when integrating color?
+    id: 169385
+    title: >-
+        What strategies can be used to adapt architectural design to seasonal variability?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-considerations-in-facade-design-when-integrating-color
+    url: /learn/others/questions/what-strategies-can-be-used-to-adapt-architectural-design-to-seasonal-variability
 ---
 
 &nbsp;

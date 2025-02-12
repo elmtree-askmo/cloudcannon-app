@@ -2,8 +2,10 @@
 _schema: default
 id: 162558
 date: 2025-01-25
-title: What questions can help identify an author's point of view in a text?
-article_title: What questions can help identify an author's point of view in a text?
+title: >-
+    What questions can help identify an author's point of view in a text?
+article_title: >-
+    What questions can help identify an author's point of view in a text?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-questions-can-help-identify-an-auth
 score: -1.0
 related_article1:
     id: 162258
-    title: What are the different types of evidence commonly used in texts, and how do they support claims?
+    title: >-
+        What are the different types of evidence commonly used in texts, and how do they support claims?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-different-types-of-evidence-commonly-used-in-texts-and-how-do-they-support-claims
 related_article2:
-    id: 162258
-    title: What are the different types of evidence commonly used in texts, and how do they support claims?
+    id: 162256
+    title: >-
+        What questions can help identify an author's point of view in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-evidence-commonly-used-in-texts-and-how-do-they-support-claims
+    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
 related_article3:
-    id: 162257
-    title: How does word choice, including loaded language, impact the point of view presented in a text?
+    id: 162266
+    title: >-
+        What are the health benefits associated with a plant-based diet, and how do they contribute to disease prevention?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
+    url: /learn/education-studies/questions/what-are-the-health-benefits-associated-with-a-plantbased-diet-and-how-do-they-contribute-to-disease-prevention
 related_article4:
-    id: 162562
-    title: What are the characteristics of cause-and-effect and compare-and-contrast text structures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
-related_article5:
-    id: 162555
-    title: What are some key questions to ask when determining an author's purpose?
+    id: 162253
+    title: >-
+        What are some key questions to ask when determining an author's purpose?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-key-questions-to-ask-when-determining-an-authors-purpose
+related_article5:
+    id: 162265
+    title: >-
+        How does the ecological footprint of a diet impact environmental sustainability?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-impact-environmental-sustainability
 ---
 
 &nbsp;

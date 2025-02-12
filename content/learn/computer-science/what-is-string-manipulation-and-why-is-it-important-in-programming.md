@@ -2,8 +2,10 @@
 _schema: default
 id: 161478
 date: 2025-01-24
-title: What is string manipulation and why is it important in programming?
-article_title: What is string manipulation and why is it important in programming?
+title: >-
+    What is string manipulation and why is it important in programming?
+article_title: >-
+    What is string manipulation and why is it important in programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-string-manipulation-and-why-is-it-important-in-programming.md
 url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
 score: -1.0
 related_article1:
-    id: 161182
-    title: What is pseudocode and how is it used in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
-related_article2:
-    id: 161488
-    title: How do control structures like sequence, selection, and iteration influence program flow?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
-related_article3:
-    id: 161472
-    title: How do flowcharts help in communicating system processes?
+    id: 161181
+    title: >-
+        How do flowcharts help in communicating system processes?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
+related_article2:
+    id: 161195
+    title: >-
+        Why are data types important in programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+related_article3:
+    id: 161482
+    title: >-
+        What is the significance of counter variables in count-controlled loops?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
 related_article4:
+    id: 161471
+    title: >-
+        What is the primary purpose of an algorithm in problem-solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-an-algorithm-in-problemsolving
+related_article5:
     id: 161488
-    title: How do control structures like sequence, selection, and iteration influence program flow?
+    title: >-
+        How do control structures like sequence, selection, and iteration influence program flow?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
-related_article5:
-    id: 161184
-    title: How are input and output operations represented in a flowchart?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-operations-represented-in-a-flowchart
 ---
 
 &nbsp;

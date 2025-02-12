@@ -2,8 +2,10 @@
 _schema: default
 id: 161485
 date: 2025-01-24
-title: How is process flow represented in a flowchart?
-article_title: How is process flow represented in a flowchart?
+title: >-
+    How is process flow represented in a flowchart?
+article_title: >-
+    How is process flow represented in a flowchart?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-process-flow-represented-in-a-flowchart.md
 url: /learn/computer-science/questions/how-is-process-flow-represented-in-a-flowchart
 score: -1.0
 related_article1:
-    id: 161181
-    title: How do flowcharts help in communicating system processes?
+    id: 161483
+    title: >-
+        How does user input control affect condition-controlled loops?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
+    url: /learn/computer-science/questions/how-does-user-input-control-affect-conditioncontrolled-loops
 related_article2:
-    id: 161478
-    title: What is string manipulation and why is it important in programming?
+    id: 161188
+    title: >-
+        Differentiate between procedures and functions in subroutines.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
+    url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
 related_article3:
-    id: 161478
-    title: What is string manipulation and why is it important in programming?
+    id: 161377
+    title: >-
+        How do control structures like sequence, selection, and iteration influence program flow?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
+    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
 related_article4:
-    id: 161191
-    title: What is the purpose of using counter variables in count-controlled loops?
+    id: 161197
+    title: >-
+        How do control structures like sequence, selection, and iteration influence program flow?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
 related_article5:
-    id: 161486
-    title: Why are data types important in programming?
+    id: 161193
+    title: >-
+        What is iteration and how does it differ from simple repetition?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
 ---
 
 &nbsp;

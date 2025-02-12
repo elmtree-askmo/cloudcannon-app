@@ -2,8 +2,10 @@
 _schema: default
 id: 159664
 date: 2025-01-23
-title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
-article_title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+title: >-
+    What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+article_title: >-
+    What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-roles-of-the-international-monetary-fund-imf-world-b
 url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
 score: -1.0
 related_article1:
-    id: 159679
-    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    id: 159671
+    title: >-
+        How are member quotas and credit arrangements significant to the IMF's resources?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
 related_article2:
-    id: 159673
-    title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+    id: 159671
+    title: >-
+        How are member quotas and credit arrangements significant to the IMF's resources?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
+    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
 related_article3:
-    id: 159666
-    title: What was the significance of the Bretton Woods Conference in the founding of the IMF?
+    id: 159683
+    title: >-
+        How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
     subject: Economics
-    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
+    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
 related_article4:
     id: 159681
-    title: How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    title: >-
+        How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
     subject: Economics
     url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
 related_article5:
-    id: 159677
-    title: What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
+    id: 159667
+    title: >-
+        How does the IMF ensure the stability of the international monetary system through surveillance?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
+    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
 ---
 
 &nbsp;

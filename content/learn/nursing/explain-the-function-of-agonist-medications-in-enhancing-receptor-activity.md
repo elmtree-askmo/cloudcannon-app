@@ -2,8 +2,10 @@
 _schema: default
 id: 166445
 date: 2025-01-30
-title: Explain the function of agonist medications in enhancing receptor activity.
-article_title: Explain the function of agonist medications in enhancing receptor activity.
+title: >-
+    Explain the function of agonist medications in enhancing receptor activity.
+article_title: >-
+    Explain the function of agonist medications in enhancing receptor activity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: explain-the-function-of-agonist-medications-in-enhancing-receptor-act
 url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
 score: -1.0
 related_article1:
-    id: 166449
-    title: How are controlled substances categorized based on their potential for abuse?
-    subject: Nursing
-    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
-related_article2:
-    id: 166439
-    title: What are prototype drugs, and why are they important in the study of opioid medications?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
-related_article3:
-    id: 166442
-    title: Differentiate between opioid and non-opioid analgesics.
-    subject: Nursing
-    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
-related_article4:
     id: 166440
-    title: How do endogenous opioids function as the body's natural painkillers?
+    title: >-
+        How do endogenous opioids function as the body's natural painkillers?
     subject: Nursing
     url: /learn/nursing/questions/how-do-endogenous-opioids-function-as-the-bodys-natural-painkillers
-related_article5:
-    id: 166448
-    title: What are the potential adverse effects of narcotic medications on the central nervous system?
+related_article2:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article3:
+    id: 166443
+    title: >-
+        What is the mechanism of action for common anti-inflammatory drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
+related_article4:
+    id: 166450
+    title: >-
+        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
 ---
 
 &nbsp;

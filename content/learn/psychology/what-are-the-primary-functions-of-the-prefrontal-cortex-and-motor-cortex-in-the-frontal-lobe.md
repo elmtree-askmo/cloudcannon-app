@@ -2,8 +2,10 @@
 _schema: default
 id: 164557
 date: 2025-01-28
-title: What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
-article_title: What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+title: >-
+    What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+article_title: >-
+    What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cor
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
 score: -1.0
 related_article1:
-    id: 164556
-    title: How do the superior and inferior parietal lobes differ in function?
+    id: 164561
+    title: >-
+        How do ADHD and attention networks interact in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
 related_article2:
-    id: 164543
-    title: What are the key differences between spatial attention and object-based attention?
+    id: 164559
+    title: >-
+        How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
 related_article3:
-    id: 164551
-    title: Which brain regions are primarily involved in executive function, and what roles do they play?
+    id: 164554
+    title: >-
+        How do visual and auditory processing contribute to sensory processing in cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play
+    url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 related_article4:
-    id: 164556
-    title: How do the superior and inferior parietal lobes differ in function?
+    id: 164560
+    title: >-
+        What are the symptoms and causes of perseveration and environmental dependency syndrome?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
 related_article5:
-    id: 164562
-    title: What are the key characteristics of automatic processes compared to controlled processes?
+    id: 164558
+    title: >-
+        What are the main research methods used in cognitive neuroscience, and how do they differ?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
+    url: /learn/psychology/questions/what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170738
 date: 2025-02-06
-title: How does inductive reasoning differ from deductive reasoning?
-article_title: How does inductive reasoning differ from deductive reasoning?
+title: >-
+    How does inductive reasoning differ from deductive reasoning?
+article_title: >-
+    How does inductive reasoning differ from deductive reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-inductive-reasoning-differ-from-deductive-reasoning.md
 url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 score: -1.0
 related_article1:
-    id: 170743
-    title: How can integer properties be used in inductive proofs?
+    id: 170751
+    title: >-
+        How can the binomial series be applied in mathematical proofs?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
+    url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
 related_article2:
+    id: 170749
+    title: >-
+        How do you determine the common ratio and first term in a geometric series?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+related_article3:
     id: 170747
-    title: How does recursion differ from mathematical induction as a problem-solving technique?
+    title: >-
+        How does recursion differ from mathematical induction as a problem-solving technique?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
-related_article3:
-    id: 170754
-    title: How can inductive proofs be applied to the natural logarithm of factorial?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
 related_article4:
-    id: 170740
-    title: What is an inductive hypothesis and how is it formulated?
+    id: 170744
+    title: >-
+        What role do properties of real numbers play in series and sequences?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-an-inductive-hypothesis-and-how-is-it-formulated
+    url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
 related_article5:
-    id: 170739
-    title: Why is the base case important in mathematical induction?
+    id: 170744
+    title: >-
+        What role do properties of real numbers play in series and sequences?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
+    url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
 ---
 
 &nbsp;

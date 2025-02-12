@@ -2,8 +2,10 @@
 _schema: default
 id: 162333
 date: 2025-01-25
-title: What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
-article_title: What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
+title: >-
+    What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
+article_title: >-
+    What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-role-of-charitable-organizations-in-responding-to-tuberc
 url: /learn/health-studies/questions/what-was-the-role-of-charitable-organizations-in-responding-to-tuberculosis-and-polio-control-efforts-in-the-1920s
 score: -1.0
 related_article1:
-    id: 162345
-    title: What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+    id: 162349
+    title: >-
+        What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
+    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
 related_article2:
-    id: 162338
-    title: What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
-related_article3:
-    id: 162318
-    title: How did Edward Playter influence sanitary reforms in the late 19th century?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
-related_article4:
-    id: 162340
-    title: What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
-related_article5:
     id: 162343
-    title: What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
+    title: >-
+        What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
+related_article3:
+    id: 162334
+    title: >-
+        How did the Great Depression affect public health funding and services in the 1930s?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
+related_article4:
+    id: 162336
+    title: >-
+        What were the key nutrition initiatives and food safety programs expanded during World War II?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
+related_article5:
+    id: 162339
+    title: >-
+        How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162367
 date: 2025-01-25
-title: How do relational databases differ from NoSQL databases, and what are their respective use cases?
-article_title: How do relational databases differ from NoSQL databases, and what are their respective use cases?
+title: >-
+    How do relational databases differ from NoSQL databases, and what are their respective use cases?
+article_title: >-
+    How do relational databases differ from NoSQL databases, and what are their respective use cases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-relational-databases-differ-from-nosql-databases-and-what-are-
 url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-and-what-are-their-respective-use-cases
 score: -1.0
 related_article1:
-    id: 162372
-    title: How do LAN and WAN differ in network architecture, and what are their typical components?
+    id: 162667
+    title: >-
+        What are the components of an information system, and how do they interact?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture-and-what-are-their-typical-components
+    url: /learn/others/questions/what-are-the-components-of-an-information-system-and-how-do-they-interact
 related_article2:
-    id: 162361
-    title: What are the differences between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162655
+    title: >-
+        How do Tableau, Power BI, and D3.js differ in their data visualization capabilities?
     subject: Others
-    url: /learn/others/questions/what-are-the-differences-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-data-visualization-capabilities
 related_article3:
-    id: 162659
-    title: How do clustering, association rule learning, and anomaly detection differ in data mining?
+    id: 162710
+    title: >-
+        What are the main types of machine learning algorithms, and how do they differ in their applications?
     subject: Others
-    url: /learn/others/questions/how-do-clustering-association-rule-learning-and-anomaly-detection-differ-in-data-mining
+    url: /learn/others/questions/what-are-the-main-types-of-machine-learning-algorithms-and-how-do-they-differ-in-their-applications
 related_article4:
-    id: 162735
-    title: What are the challenges associated with virtual reality in terms of cost and user experience?
+    id: 162783
+    title: >-
+        What are the advantages of using Agile methodologies over the Waterfall model in software development?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-associated-with-virtual-reality-in-terms-of-cost-and-user-experience
+    url: /learn/others/questions/what-are-the-advantages-of-using-agile-methodologies-over-the-waterfall-model-in-software-development
 related_article5:
-    id: 162721
-    title: How do Hadoop and Spark differ in their approach to big data processing?
+    id: 162736
+    title: >-
+        How is augmented reality used in retail, and what challenges does it face in user adoption?
     subject: Others
-    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
+    url: /learn/others/questions/how-is-augmented-reality-used-in-retail-and-what-challenges-does-it-face-in-user-adoption
 ---
 
 &nbsp;

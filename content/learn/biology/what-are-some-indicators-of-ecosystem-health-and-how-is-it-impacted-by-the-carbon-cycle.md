@@ -2,8 +2,10 @@
 _schema: default
 id: 170340
 date: 2025-02-06
-title: What are some indicators of ecosystem health, and how is it impacted by the carbon cycle?
-article_title: What are some indicators of ecosystem health, and how is it impacted by the carbon cycle?
+title: >-
+    What are some indicators of ecosystem health, and how is it impacted by the carbon cycle?
+article_title: >-
+    What are some indicators of ecosystem health, and how is it impacted by the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-indicators-of-ecosystem-health-and-how-is-it-impacted-b
 url: /learn/biology/questions/what-are-some-indicators-of-ecosystem-health-and-how-is-it-impacted-by-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170330
-    title: How does cellular respiration interact with photosynthesis in the carbon cycle?
-    subject: Biology
-    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
-related_article2:
-    id: 170337
-    title: What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
-    subject: Biology
-    url: /learn/biology/questions/what-is-marine-snow-and-what-role-does-it-play-in-marine-ecosystems-and-the-carbon-cycle
-related_article3:
-    id: 170334
-    title: Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
-related_article4:
-    id: 170327
-    title: What are the main processes involved in carbon exchange within ecosystems?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-processes-involved-in-carbon-exchange-within-ecosystems
-related_article5:
     id: 170343
-    title: How do keystone species influence ecosystem dynamics and the carbon cycle?
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
     subject: Biology
     url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
+related_article2:
+    id: 170328
+    title: >-
+        How do carbon sinks and sources impact climate change?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
+related_article3:
+    id: 170330
+    title: >-
+        How does cellular respiration interact with photosynthesis in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
+related_article4:
+    id: 170330
+    title: >-
+        How does cellular respiration interact with photosynthesis in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
+related_article5:
+    id: 170329
+    title: >-
+        What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
 ---
 
 &nbsp;

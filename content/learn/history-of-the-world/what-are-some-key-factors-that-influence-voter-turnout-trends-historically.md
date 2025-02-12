@@ -2,8 +2,10 @@
 _schema: default
 id: 169239
 date: 2025-02-04
-title: What are some key factors that influence voter turnout trends historically?
-article_title: What are some key factors that influence voter turnout trends historically?
+title: >-
+    What are some key factors that influence voter turnout trends historically?
+article_title: >-
+    What are some key factors that influence voter turnout trends historically?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-key-factors-that-influence-voter-turnout-trends-histori
 url: /learn/history-of-the-world/questions/what-are-some-key-factors-that-influence-voter-turnout-trends-historically
 score: 9.0
 related_article1:
-    id: 169243
-    title: What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
+    id: 169244
+    title: >-
+        How is the electoral quotient calculated, and what is its purpose in political representation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
+    url: /learn/history-of-the-world/questions/how-is-the-electoral-quotient-calculated-and-what-is-its-purpose-in-political-representation
 related_article2:
-    id: 169243
-    title: What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
+    id: 169246
+    title: >-
+        How has the franchise history shaped the current Canadian political landscape?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
+    url: /learn/history-of-the-world/questions/how-has-the-franchise-history-shaped-the-current-canadian-political-landscape
 related_article3:
-    id: 169246
-    title: How has the franchise history shaped the current Canadian political landscape?
+    id: 169237
+    title: >-
+        What are the potential effects of proportional representation on political stability?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-franchise-history-shaped-the-current-canadian-political-landscape
+    url: /learn/history-of-the-world/questions/what-are-the-potential-effects-of-proportional-representation-on-political-stability
 related_article4:
-    id: 169246
-    title: How has the franchise history shaped the current Canadian political landscape?
+    id: 169247
+    title: >-
+        What are some recent trends in the Canadian political landscape that could influence future election projections?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-franchise-history-shaped-the-current-canadian-political-landscape
+    url: /learn/history-of-the-world/questions/what-are-some-recent-trends-in-the-canadian-political-landscape-that-could-influence-future-election-projections
 related_article5:
-    id: 169235
-    title: What are the implications of lowering the voting age on voter turnout?
+    id: 169241
+    title: >-
+        What are the main challenges faced by minority governments in forming coalitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-implications-of-lowering-the-voting-age-on-voter-turnout
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-by-minority-governments-in-forming-coalitions
 ---
 
 &nbsp;

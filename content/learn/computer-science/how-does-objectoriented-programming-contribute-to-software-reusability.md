@@ -2,8 +2,10 @@
 _schema: default
 id: 168588
 date: 2025-02-03
-title: How does object-oriented programming contribute to software reusability?
-article_title: How does object-oriented programming contribute to software reusability?
+title: >-
+    How does object-oriented programming contribute to software reusability?
+article_title: >-
+    How does object-oriented programming contribute to software reusability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-objectoriented-programming-contribute-to-software-reusabilit
 url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
 score: -1.0
 related_article1:
-    id: 168596
-    title: What is the purpose of using the try...except statement in Python?
+    id: 168593
+    title: >-
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 related_article2:
-    id: 168596
-    title: What is the purpose of using the try...except statement in Python?
+    id: 168587
+    title: >-
+        What are the benefits of using functions in software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 related_article3:
+    id: 168604
+    title: >-
+        What are some best practices for writing Python functions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
+related_article4:
     id: 168601
-    title: How can you access a function's docstring in Python?
+    title: >-
+        How can you access a function's docstring in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
-related_article4:
-    id: 168605
-    title: How can you import and use a module in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
 related_article5:
-    id: 168606
-    title: Why is software reusability important in programming?
+    id: 168589
+    title: >-
+        What is the syntax for defining a function in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 ---
 
 &nbsp;

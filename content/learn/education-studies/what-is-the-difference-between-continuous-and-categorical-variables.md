@@ -2,8 +2,10 @@
 _schema: default
 id: 165111
 date: 2025-01-28
-title: What is the difference between continuous and categorical variables?
-article_title: What is the difference between continuous and categorical variables?
+title: >-
+    What is the difference between continuous and categorical variables?
+article_title: >-
+    What is the difference between continuous and categorical variables?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-continuous-and-categorical-variables.m
 url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 score: -1.0
 related_article1:
-    id: 165106
-    title: What are some common challenges in data collection related to participant and observer bias?
+    id: 165115
+    title: >-
+        How can validity be ensured in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
+    url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-studies
 related_article2:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
+    id: 165103
+    title: >-
+        Why is control and randomization important in experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
+    url: /learn/education-studies/questions/why-is-control-and-randomization-important-in-experimental-design
 related_article3:
-    id: 165099
-    title: What are the characteristics of nominal measurement types?
+    id: 165120
+    title: >-
+        What are the biological and environmental factors affecting taste perception?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
+    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
 related_article4:
-    id: 165101
-    title: Explain the difference between interval and ratio measurement types with examples.
+    id: 165102
+    title: >-
+        What are the key differences between between-subjects and within-subjects experimental designs?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
 related_article5:
-    id: 165107
-    title: Why is accurate data coding important and what are some common coding errors?
+    id: 165105
+    title: >-
+        How can the order of questions in a survey impact responses?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-accurate-data-coding-important-and-what-are-some-common-coding-errors
+    url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
 ---
 
 &nbsp;

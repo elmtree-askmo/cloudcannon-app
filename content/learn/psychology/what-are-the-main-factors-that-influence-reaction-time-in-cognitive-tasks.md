@@ -2,8 +2,10 @@
 _schema: default
 id: 165011
 date: 2025-01-28
-title: What are the main factors that influence reaction time in cognitive tasks?
-article_title: What are the main factors that influence reaction time in cognitive tasks?
+title: >-
+    What are the main factors that influence reaction time in cognitive tasks?
+article_title: >-
+    What are the main factors that influence reaction time in cognitive tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-factors-that-influence-reaction-time-in-cognitive-t
 url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
 score: -1.0
 related_article1:
-    id: 165022
-    title: What are the cognitive mechanisms behind the Stroop effect and its variations?
+    id: 165012
+    title: >-
+        How is reaction time measured and what tools are commonly used?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
+    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
 related_article2:
-    id: 165020
-    title: What are the key findings and significance of the GIANT study in cognitive psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
-related_article3:
-    id: 165015
-    title: What are the cognitive processes involved in number perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
-related_article4:
     id: 165014
-    title: How do experimental design and data analysis contribute to cognitive psychology research?
+    title: >-
+        How do experimental design and data analysis contribute to cognitive psychology research?
     subject: Psychology
     url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
-related_article5:
-    id: 165019
-    title: What are the principles of experimental design that ensure validity and reliability?
+related_article3:
+    id: 165016
+    title: >-
+        How do symbolic and non-symbolic processing differ in numerical cognition?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
+related_article4:
+    id: 165022
+    title: >-
+        What are the cognitive mechanisms behind the Stroop effect and its variations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
+related_article5:
+    id: 165021
+    title: >-
+        How does the size congruence effect impact everyday cognition and educational settings?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
 ---
 
 &nbsp;

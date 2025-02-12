@@ -2,8 +2,10 @@
 _schema: default
 id: 164146
 date: 2025-01-28
-title: In what ways do peer and parental influences differ in their impact on moral reasoning?
-article_title: In what ways do peer and parental influences differ in their impact on moral reasoning?
+title: >-
+    In what ways do peer and parental influences differ in their impact on moral reasoning?
+article_title: >-
+    In what ways do peer and parental influences differ in their impact on moral reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-o
 url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
 score: -1.0
 related_article1:
-    id: 164144
-    title: What is the significance of equality and reciprocity in peer relationships for moral development?
+    id: 164137
+    title: >-
+        What role does power assertion play in parenting, and how does it impact moral development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-equality-and-reciprocity-in-peer-relationships-for-moral-development
+    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
 related_article2:
-    id: 164147
-    title: What evidence supports the dominance of peer influence over parental guidance in moral development?
+    id: 164142
+    title: >-
+        What are the immediate effects of power assertion in parenting on a child's behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-evidence-supports-the-dominance-of-peer-influence-over-parental-guidance-in-moral-development
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
 related_article3:
-    id: 164141
-    title: How does the induction style of parenting explain a child's behavior and its impact on others?
+    id: 164150
+    title: >-
+        What are the potential emotional consequences of overemphasizing control in parental influence?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-induction-style-of-parenting-explain-a-childs-behavior-and-its-impact-on-others
+    url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
 related_article4:
-    id: 164136
-    title: How does the induction style of discipline affect a child's moral reasoning?
+    id: 164139
+    title: >-
+        According to Piaget, how do peer interactions influence moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
 related_article5:
-    id: 164136
-    title: How does the induction style of discipline affect a child's moral reasoning?
+    id: 164139
+    title: >-
+        According to Piaget, how do peer interactions influence moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-induction-style-of-discipline-affect-a-childs-moral-reasoning
+    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
 ---
 
 &nbsp;

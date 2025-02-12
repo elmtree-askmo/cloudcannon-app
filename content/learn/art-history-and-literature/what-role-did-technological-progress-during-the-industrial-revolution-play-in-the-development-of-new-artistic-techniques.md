@@ -2,8 +2,10 @@
 _schema: default
 id: 165967
 date: 2025-01-29
-title: What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
-article_title: What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
+title: >-
+    What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
+article_title: >-
+    What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-technological-progress-during-the-industrial-revolution
 url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
 score: 9.0
 related_article1:
-    id: 165970
-    title: How did artists respond to political systems through their depiction of social realities?
+    id: 165965
+    title: >-
+        What are the key characteristics of Realism and how do they differ from Romanticism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
 related_article2:
-    id: 165969
-    title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+    id: 165976
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
+    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
 related_article3:
-    id: 165973
-    title: What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
 related_article4:
-    id: 165966
-    title: How did the Pre-Raphaelite movement oppose the academic style of its time?
+    id: 165975
+    title: >-
+        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
+    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
 related_article5:
-    id: 165969
-    title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
 ---
 
 &nbsp;

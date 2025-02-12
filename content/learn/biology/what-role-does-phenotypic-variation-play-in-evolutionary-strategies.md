@@ -2,8 +2,10 @@
 _schema: default
 id: 170806
 date: 2025-02-07
-title: What role does phenotypic variation play in evolutionary strategies?
-article_title: What role does phenotypic variation play in evolutionary strategies?
+title: >-
+    What role does phenotypic variation play in evolutionary strategies?
+article_title: >-
+    What role does phenotypic variation play in evolutionary strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-phenotypic-variation-play-in-evolutionary-strategies.m
 url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
 score: -1.0
 related_article1:
-    id: 170801
-    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    id: 170798
+    title: >-
+        Define a mixed strategy and explain its characteristics in evolutionary games.
     subject: Biology
-    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
 related_article2:
-    id: 170805
-    title: How can equilibrium points be determined in the context of strategy success?
+    id: 170799
+    title: >-
+        In what situations might a mixed strategy be more advantageous than a pure strategy?
     subject: Biology
-    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
 related_article3:
-    id: 170809
-    title: How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    id: 170790
+    title: >-
+        What is the purpose of a paleo matrix in evolutionary biology?
     subject: Biology
-    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+    url: /learn/biology/questions/what-is-the-purpose-of-a-paleo-matrix-in-evolutionary-biology
 related_article4:
+    id: 170802
+    title: >-
+        What role do population dynamics play in the interaction of strategies?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+related_article5:
     id: 170804
-    title: What is equilibrium frequency and why is it important in evolutionary biology?
+    title: >-
+        What is equilibrium frequency and why is it important in evolutionary biology?
     subject: Biology
     url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
-related_article5:
-    id: 170794
-    title: Describe the structure of a payoff matrix and its components in evolutionary games.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164449
 date: 2025-01-28
-title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
-article_title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+title: >-
+    Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+article_title: >-
+    Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-
 url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
 score: -1.0
 related_article1:
-    id: 164442
-    title: How do open head injuries differ from closed head injuries in terms of impact and treatment?
+    id: 164446
+    title: >-
+        How does the temporal lobe contribute to memory and learning processes?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
+    url: /learn/nursing/questions/how-does-the-temporal-lobe-contribute-to-memory-and-learning-processes
 related_article2:
-    id: 164458
-    title: How do physical forces impact brain structure and function in the context of neuroanatomy?
+    id: 164444
+    title: >-
+        Identify two external causes of brain injury and explain their potential impact.
     subject: Nursing
-    url: /learn/nursing/questions/how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy
+    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
 related_article3:
-    id: 164454
-    title: Which populations are at higher risk for brain injury, and why?
+    id: 164441
+    title: >-
+        What are the main causes and risk factors associated with traumatic brain injury (TBI)?
     subject: Nursing
-    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+    url: /learn/nursing/questions/what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi
 related_article4:
-    id: 164450
-    title: What are some long-term cognitive and physical challenges faced by individuals with brain injuries?
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-longterm-cognitive-and-physical-challenges-faced-by-individuals-with-brain-injuries
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
+related_article5:
+    id: 164443
+    title: >-
+        What internal factors can lead to brain injury, and how do they affect the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
 ---
 
 &nbsp;

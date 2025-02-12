@@ -2,8 +2,10 @@
 _schema: default
 id: 169585
 date: 2025-02-05
-title: What are the limitations and criticisms of the medical model of disability?
-article_title: What are the limitations and criticisms of the medical model of disability?
+title: >-
+    What are the limitations and criticisms of the medical model of disability?
+article_title: >-
+    What are the limitations and criticisms of the medical model of disability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-limitations-and-criticisms-of-the-medical-model-of-disab
 url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
 score: -1.0
 related_article1:
-    id: 169588
-    title: What strategies can be employed to overcome biases in nursing?
+    id: 169599
+    title: >-
+        What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
 related_article2:
-    id: 169592
-    title: How does institutional racism affect healthcare access for ethnic minorities?
+    id: 169591
+    title: >-
+        What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
 related_article3:
-    id: 169590
-    title: How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+    id: 169597
+    title: >-
+        What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
     subject: Nursing
-    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
+    url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
 related_article4:
-    id: 169596
-    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    id: 169587
+    title: >-
+        What impact do stereotypes and biases have on the quality of care provided by nurses?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
 related_article5:
-    id: 169584
-    title: How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+    id: 169595
+    title: >-
+        Why is cultural competence important in nursing, and how can it be improved through training and education?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
 ---
 
 &nbsp;

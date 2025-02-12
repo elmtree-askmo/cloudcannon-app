@@ -2,8 +2,10 @@
 _schema: default
 id: 165771
 date: 2025-01-29
-title: How does TCP ensure reliable and same-order delivery of data?
-article_title: How does TCP ensure reliable and same-order delivery of data?
+title: >-
+    How does TCP ensure reliable and same-order delivery of data?
+article_title: >-
+    How does TCP ensure reliable and same-order delivery of data?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data.md
 url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
 score: -1.0
 related_article1:
-    id: 165777
-    title: How do socket pairs facilitate communication between devices?
+    id: 165765
+    title: >-
+        How does the transport layer ensure logical communication between applications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
+    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
 related_article2:
-    id: 165772
-    title: What are the key features of the UDP protocol that differentiate it from TCP?
+    id: 165782
+    title: >-
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 related_article3:
-    id: 165772
-    title: What are the key features of the UDP protocol that differentiate it from TCP?
+    id: 165785
+    title: >-
+        How does UDP handle port number assignment and datagram forwarding?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
 related_article4:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
+    id: 165769
+    title: >-
+        How does data segmentation enable multiple conversations in network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
+    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
 related_article5:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
+    id: 165788
+    title: >-
+        What is the responsibility of applications in handling congestion in UDP?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
+    url: /learn/computer-science/questions/what-is-the-responsibility-of-applications-in-handling-congestion-in-udp
 ---
 
 &nbsp;

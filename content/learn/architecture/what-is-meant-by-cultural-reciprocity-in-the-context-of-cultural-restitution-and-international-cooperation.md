@@ -2,8 +2,10 @@
 _schema: default
 id: 169071
 date: 2025-02-04
-title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
-article_title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+title: >-
+    What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+article_title: >-
+    What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-rest
 url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
 score: -1.0
 related_article1:
-    id: 169075
-    title: How did the movement of monuments contribute to global cultural exchange?
+    id: 169074
+    title: >-
+        What are the key principles of monument relocation to ensure preservation of architectural authenticity?
     subject: Architecture
-    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
+    url: /learn/architecture/questions/what-are-the-key-principles-of-monument-relocation-to-ensure-preservation-of-architectural-authenticity
 related_article2:
-    id: 169077
-    title: How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
     subject: Architecture
-    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
 related_article3:
-    id: 169072
-    title: How did the Aswan High Dam impact the mobility of monuments?
+    id: 169081
+    title: >-
+        How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
     subject: Architecture
-    url: /learn/architecture/questions/how-did-the-aswan-high-dam-impact-the-mobility-of-monuments
+    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
 related_article4:
     id: 169076
-    title: What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    title: >-
+        What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
     subject: Architecture
     url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
 related_article5:
-    id: 169073
-    title: In what ways did Cold War diplomacy influence architectural decisions in the Middle East?
+    id: 169077
+    title: >-
+        How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
     subject: Architecture
-    url: /learn/architecture/questions/in-what-ways-did-cold-war-diplomacy-influence-architectural-decisions-in-the-middle-east
+    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
 ---
 
 &nbsp;

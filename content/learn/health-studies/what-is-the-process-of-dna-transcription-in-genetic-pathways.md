@@ -2,8 +2,10 @@
 _schema: default
 id: 170565
 date: 2025-02-06
-title: What is the process of DNA transcription in genetic pathways?
-article_title: What is the process of DNA transcription in genetic pathways?
+title: >-
+    What is the process of DNA transcription in genetic pathways?
+article_title: >-
+    What is the process of DNA transcription in genetic pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-dna-transcription-in-genetic-pathways.md
 url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
 score: -1.0
 related_article1:
-    id: 170566
-    title: Describe the coagulation cascade involved in blood clotting mechanisms.
+    id: 170553
+    title: >-
+        How does neurotransmitter blockage affect nervous system function?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
+    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
 related_article2:
+    id: 170547
+    title: >-
+        How do organ systems contribute to maintaining homeostasis in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-organ-systems-contribute-to-maintaining-homeostasis-in-the-body
+related_article3:
     id: 170559
-    title: How have innovations in medical devices improved pain management?
+    title: >-
+        How have innovations in medical devices improved pain management?
     subject: Health Studies
     url: /learn/health-studies/questions/how-have-innovations-in-medical-devices-improved-pain-management
-related_article3:
-    id: 170566
-    title: Describe the coagulation cascade involved in blood clotting mechanisms.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
 related_article4:
-    id: 170577
-    title: How do local auto-regulation mechanisms affect blood vessel response?
+    id: 170554
+    title: >-
+        Explain the role of baroreceptors in blood pressure regulation.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-local-autoregulation-mechanisms-affect-blood-vessel-response
+    url: /learn/health-studies/questions/explain-the-role-of-baroreceptors-in-blood-pressure-regulation
 related_article5:
-    id: 170571
-    title: How can AI hallucinations impact the use of large language models in education?
+    id: 170579
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
+    url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 ---
 
 &nbsp;

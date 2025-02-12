@@ -2,8 +2,10 @@
 _schema: default
 id: 160390
 date: 2025-01-24
-title: What were the geographic locations of major Celtic tribes?
-article_title: What were the geographic locations of major Celtic tribes?
+title: >-
+    What were the geographic locations of major Celtic tribes?
+article_title: >-
+    What were the geographic locations of major Celtic tribes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-geographic-locations-of-major-celtic-tribes.md
 url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes
 score: 9.0
 related_article1:
-    id: 159890
-    title: How did Celtic architectural styles reflect their settlement patterns?
+    id: 159917
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
 related_article2:
-    id: 160389
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
-related_article3:
-    id: 160176
-    title: What were the primary military tactics and weaponry used by the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
-related_article4:
-    id: 160178
-    title: What were the key trading centers in Celtic trade networks?
+    id: 159923
+    title: >-
+        What were the key trading centers in Celtic trade networks?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
-related_article5:
-    id: 160393
-    title: How have the Celts contributed to European heritage and modern perceptions?
+related_article3:
+    id: 159910
+    title: >-
+        How did the La Tène Culture expand and settle in new regions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
+    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+related_article4:
+    id: 159924
+    title: >-
+        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+related_article5:
+    id: 159871
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 ---
 
 &nbsp;

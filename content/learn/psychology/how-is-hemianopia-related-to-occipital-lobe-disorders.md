@@ -2,8 +2,10 @@
 _schema: default
 id: 164649
 date: 2025-01-28
-title: How is hemianopia related to occipital lobe disorders?
-article_title: How is hemianopia related to occipital lobe disorders?
+title: >-
+    How is hemianopia related to occipital lobe disorders?
+article_title: >-
+    How is hemianopia related to occipital lobe disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-hemianopia-related-to-occipital-lobe-disorders.md
 url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
 score: -1.0
 related_article1:
-    id: 164654
-    title: What is the portable magnification factor and why is it important in visual perception?
+    id: 164652
+    title: >-
+        What is blindsight and how is it demonstrated experimentally?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
+    url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
 related_article2:
-    id: 164651
-    title: What causes scotoma and how does it differ from hemianopia?
+    id: 164647
+    title: >-
+        How does damage to the occipital lobe affect visual pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
+    url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
 related_article3:
-    id: 164648
-    title: What are the primary functions of the occipital lobe in visual processing?
+    id: 164650
+    title: >-
+        What are the symptoms of hemianopia and how does it affect daily life?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
 related_article4:
-    id: 164646
-    title: What is the role of the nose in the organization of visual pathways?
+    id: 164650
+    title: >-
+        What are the symptoms of hemianopia and how does it affect daily life?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
 related_article5:
-    id: 164648
-    title: What are the primary functions of the occipital lobe in visual processing?
+    id: 164657
+    title: >-
+        What causes cortical blindness and how does it relate to the phenomenon of blindsight?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+    url: /learn/psychology/questions/what-causes-cortical-blindness-and-how-does-it-relate-to-the-phenomenon-of-blindsight
 ---
 
 &nbsp;

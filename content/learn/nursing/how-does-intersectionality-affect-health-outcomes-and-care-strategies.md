@@ -2,8 +2,10 @@
 _schema: default
 id: 169661
 date: 2025-02-05
-title: How does intersectionality affect health outcomes and care strategies?
-article_title: How does intersectionality affect health outcomes and care strategies?
+title: >-
+    How does intersectionality affect health outcomes and care strategies?
+article_title: >-
+    How does intersectionality affect health outcomes and care strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-intersectionality-affect-health-outcomes-and-care-strategies
 url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
 score: -1.0
 related_article1:
-    id: 169656
-    title: How does the Equality Act impact healthcare practices and ensure equal access?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
-related_article2:
-    id: 169641
-    title: What are some common barriers to healthcare for transgender individuals?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
-related_article3:
-    id: 169659
-    title: What are some inclusive healthcare practices that create safe environments for patients?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
-related_article4:
-    id: 169646
-    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
-    subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
-related_article5:
     id: 169650
-    title: What are some barriers to accessing mental health services for transgender individuals?
+    title: >-
+        What are some barriers to accessing mental health services for transgender individuals?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
+related_article2:
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+related_article3:
+    id: 169655
+    title: >-
+        What role do nurses play in advocating for vulnerable populations in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+related_article4:
+    id: 169653
+    title: >-
+        What systemic barriers do marginalized groups face in accessing healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+related_article5:
+    id: 169646
+    title: >-
+        How have societal attitudes towards LGBTQ+ rights evolved over time?
+    subject: Nursing
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 ---
 
 &nbsp;

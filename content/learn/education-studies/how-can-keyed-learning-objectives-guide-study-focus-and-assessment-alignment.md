@@ -2,8 +2,10 @@
 _schema: default
 id: 167392
 date: 2025-01-31
-title: How can keyed learning objectives guide study focus and assessment alignment?
-article_title: How can keyed learning objectives guide study focus and assessment alignment?
+title: >-
+    How can keyed learning objectives guide study focus and assessment alignment?
+article_title: >-
+    How can keyed learning objectives guide study focus and assessment alignment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-keyed-learning-objectives-guide-study-focus-and-assessment-al
 url: /learn/education-studies/questions/how-can-keyed-learning-objectives-guide-study-focus-and-assessment-alignment
 score: -1.0
 related_article1:
-    id: 167390
-    title: How do concept maps enhance retention of information?
+    id: 167386
+    title: >-
+        What are the benefits of using problem-solving exercises as a form of active learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-concept-maps-enhance-retention-of-information
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-problemsolving-exercises-as-a-form-of-active-learning
 related_article2:
-    id: 167397
-    title: How does student engagement affect performance and attendance tracking?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
-related_article3:
     id: 167389
-    title: Explain the structure of a concept map and its role in organizing information.
+    title: >-
+        Explain the structure of a concept map and its role in organizing information.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-structure-of-a-concept-map-and-its-role-in-organizing-information
+related_article3:
+    id: 167396
+    title: >-
+        What features of OpenStax Biology make it a valuable course resource?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-features-of-openstax-biology-make-it-a-valuable-course-resource
 related_article4:
-    id: 167397
-    title: How does student engagement affect performance and attendance tracking?
+    id: 167396
+    title: >-
+        What features of OpenStax Biology make it a valuable course resource?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
+    url: /learn/education-studies/questions/what-features-of-openstax-biology-make-it-a-valuable-course-resource
 related_article5:
-    id: 167387
-    title: How does random call benefit student engagement in the classroom?
+    id: 167395
+    title: >-
+        What is the impact of cell phone use on class performance and classroom etiquette?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-random-call-benefit-student-engagement-in-the-classroom
+    url: /learn/education-studies/questions/what-is-the-impact-of-cell-phone-use-on-class-performance-and-classroom-etiquette
 ---
 
 &nbsp;

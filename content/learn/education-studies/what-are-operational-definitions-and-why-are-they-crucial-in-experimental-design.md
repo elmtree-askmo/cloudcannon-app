@@ -2,8 +2,10 @@
 _schema: default
 id: 165173
 date: 2025-01-28
-title: What are operational definitions, and why are they crucial in experimental design?
-article_title: What are operational definitions, and why are they crucial in experimental design?
+title: >-
+    What are operational definitions, and why are they crucial in experimental design?
+article_title: >-
+    What are operational definitions, and why are they crucial in experimental design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-operational-definitions-and-why-are-they-crucial-in-experime
 url: /learn/education-studies/questions/what-are-operational-definitions-and-why-are-they-crucial-in-experimental-design
 score: -1.0
 related_article1:
-    id: 165174
-    title: How can independent and dependent variables be identified and differentiated in an experiment?
+    id: 165179
+    title: >-
+        What is the difference between reliability and validity in research, and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-and-dependent-variables-be-identified-and-differentiated-in-an-experiment
+    url: /learn/education-studies/questions/what-is-the-difference-between-reliability-and-validity-in-research-and-why-are-they-important
 related_article2:
-    id: 165187
-    title: What are some ethical considerations in research, and how do they impact research integrity?
+    id: 165181
+    title: >-
+        What is Fitts' Law, and how does it apply to human-computer interaction design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-ethical-considerations-in-research-and-how-do-they-impact-research-integrity
+    url: /learn/education-studies/questions/what-is-fitts-law-and-how-does-it-apply-to-humancomputer-interaction-design
 related_article3:
-    id: 165178
-    title: How does natural selection contribute to the concept of 'survival of the fittest'?
+    id: 165170
+    title: >-
+        How can the implications and limitations of a scientific article be effectively analyzed?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-contribute-to-the-concept-of-survival-of-the-fittest
+    url: /learn/education-studies/questions/how-can-the-implications-and-limitations-of-a-scientific-article-be-effectively-analyzed
 related_article4:
-    id: 165169
-    title: What are the key components of a scientific article, and how do they contribute to the overall structure?
+    id: 165176
+    title: >-
+        What criteria must be met to establish causation in research, and how can alternative explanations be ruled out?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
+    url: /learn/education-studies/questions/what-criteria-must-be-met-to-establish-causation-in-research-and-how-can-alternative-explanations-be-ruled-out
 related_article5:
-    id: 165183
-    title: How is statistical significance determined, and why is it important for research conclusions?
+    id: 165179
+    title: >-
+        What is the difference between reliability and validity in research, and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-significance-determined-and-why-is-it-important-for-research-conclusions
+    url: /learn/education-studies/questions/what-is-the-difference-between-reliability-and-validity-in-research-and-why-are-they-important
 ---
 
 &nbsp;

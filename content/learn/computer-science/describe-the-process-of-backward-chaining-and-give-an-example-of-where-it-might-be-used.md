@@ -2,8 +2,10 @@
 _schema: default
 id: 161403
 date: 2025-01-24
-title: Describe the process of backward chaining and give an example of where it might be used.
-article_title: Describe the process of backward chaining and give an example of where it might be used.
+title: >-
+    Describe the process of backward chaining and give an example of where it might be used.
+article_title: >-
+    Describe the process of backward chaining and give an example of where it might be used.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-backward-chaining-and-give-an-example-of-wher
 url: /learn/computer-science/questions/describe-the-process-of-backward-chaining-and-give-an-example-of-where-it-might-be-used
 score: -1.0
 related_article1:
-    id: 161213
-    title: What is the role of the inference engine in an expert system, and how does it utilize inference rules?
+    id: 161209
+    title: >-
+        Identify the main components of an expert system and briefly describe their roles.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-inference-engine-in-an-expert-system-and-how-does-it-utilize-inference-rules
+    url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-roles
 related_article2:
-    id: 161409
-    title: Discuss two disadvantages of expert systems concerning training and costs.
+    id: 161408
+    title: >-
+        List and explain two advantages of expert systems related to expertise and accuracy.
     subject: Computer Science
-    url: /learn/computer-science/questions/discuss-two-disadvantages-of-expert-systems-concerning-training-and-costs
+    url: /learn/computer-science/questions/list-and-explain-two-advantages-of-expert-systems-related-to-expertise-and-accuracy
 related_article3:
-    id: 161220
-    title: What are the key steps involved in setting up an expert system, particularly in terms of knowledge base and rules base creation?
+    id: 161218
+    title: >-
+        Describe the process of backward chaining and give an example of where it might be used.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-involved-in-setting-up-an-expert-system-particularly-in-terms-of-knowledge-base-and-rules-base-creation
+    url: /learn/computer-science/questions/describe-the-process-of-backward-chaining-and-give-an-example-of-where-it-might-be-used
 related_article4:
-    id: 161399
-    title: Differentiate between factual knowledge and heuristic knowledge in the context of a knowledge base.
+    id: 161221
+    title: >-
+        What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
     subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-factual-knowledge-and-heuristic-knowledge-in-the-context-of-a-knowledge-base
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
 related_article5:
-    id: 161409
-    title: Discuss two disadvantages of expert systems concerning training and costs.
+    id: 161221
+    title: >-
+        What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
     subject: Computer Science
-    url: /learn/computer-science/questions/discuss-two-disadvantages-of-expert-systems-concerning-training-and-costs
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
 ---
 
 &nbsp;

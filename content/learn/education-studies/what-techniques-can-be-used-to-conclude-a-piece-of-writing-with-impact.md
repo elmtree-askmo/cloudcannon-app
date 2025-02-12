@@ -2,8 +2,10 @@
 _schema: default
 id: 168876
 date: 2025-02-04
-title: What techniques can be used to conclude a piece of writing with impact?
-article_title: What techniques can be used to conclude a piece of writing with impact?
+title: >-
+    What techniques can be used to conclude a piece of writing with impact?
+article_title: >-
+    What techniques can be used to conclude a piece of writing with impact?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-can-be-used-to-conclude-a-piece-of-writing-with-impac
 url: /learn/education-studies/questions/what-techniques-can-be-used-to-conclude-a-piece-of-writing-with-impact
 score: -1.0
 related_article1:
-    id: 168862
-    title: What techniques can be used to develop confidence in communication?
+    id: 168860
+    title: >-
+        What strategies can be used to handle unexpected questions during an interview?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-develop-confidence-in-communication
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-unexpected-questions-during-an-interview
 related_article2:
-    id: 168859
-    title: How can practicing with peers help in preparing for oral exams?
+    id: 168870
+    title: >-
+        What is lateral thinking and how can it be applied to problem-solving?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-practicing-with-peers-help-in-preparing-for-oral-exams
+    url: /learn/education-studies/questions/what-is-lateral-thinking-and-how-can-it-be-applied-to-problemsolving
 related_article3:
-    id: 168858
-    title: What are the key purposes of oral exams and how do they measure a student's abilities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-purposes-of-oral-exams-and-how-do-they-measure-a-students-abilities
-related_article4:
     id: 168859
-    title: How can practicing with peers help in preparing for oral exams?
+    title: >-
+        How can practicing with peers help in preparing for oral exams?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-practicing-with-peers-help-in-preparing-for-oral-exams
-related_article5:
-    id: 168858
-    title: What are the key purposes of oral exams and how do they measure a student's abilities?
+related_article4:
+    id: 168872
+    title: >-
+        How can robust conclusions strengthen an academic argument?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-purposes-of-oral-exams-and-how-do-they-measure-a-students-abilities
+    url: /learn/education-studies/questions/how-can-robust-conclusions-strengthen-an-academic-argument
+related_article5:
+    id: 168859
+    title: >-
+        How can practicing with peers help in preparing for oral exams?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-practicing-with-peers-help-in-preparing-for-oral-exams
 ---
 
 &nbsp;

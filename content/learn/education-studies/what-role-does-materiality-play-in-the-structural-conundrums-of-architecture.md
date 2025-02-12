@@ -2,8 +2,10 @@
 _schema: default
 id: 169175
 date: 2025-02-04
-title: What role does materiality play in the structural conundrums of architecture?
-article_title: What role does materiality play in the structural conundrums of architecture?
+title: >-
+    What role does materiality play in the structural conundrums of architecture?
+article_title: >-
+    What role does materiality play in the structural conundrums of architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-materiality-play-in-the-structural-conundrums-of-archi
 url: /learn/education-studies/questions/what-role-does-materiality-play-in-the-structural-conundrums-of-architecture
 score: -1.0
 related_article1:
-    id: 169179
-    title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
+    id: 169186
+    title: >-
+        How are generative AI tools used in design, and what ethical considerations are associated with their use?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
+    url: /learn/education-studies/questions/how-are-generative-ai-tools-used-in-design-and-what-ethical-considerations-are-associated-with-their-use
 related_article2:
-    id: 169181
-    title: What is the relationship between architectural theories and the design process?
+    id: 169171
+    title: >-
+        What is the significance of corner conditions in architectural design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+    url: /learn/education-studies/questions/what-is-the-significance-of-corner-conditions-in-architectural-design
 related_article3:
-    id: 169176
-    title: How does nonobjectivity in art contribute to the understanding of abstract volumetric space?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-nonobjectivity-in-art-contribute-to-the-understanding-of-abstract-volumetric-space
-related_article4:
-    id: 169182
-    title: How do cultural factors influence architectural design and the consideration of diverse needs and values?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-factors-influence-architectural-design-and-the-consideration-of-diverse-needs-and-values
-related_article5:
     id: 169178
-    title: How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
+    title: >-
+        How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-visual-perception-principles-apply-to-twodimensional-and-threedimensional-architectural-design
+related_article4:
+    id: 169181
+    title: >-
+        What is the relationship between architectural theories and the design process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+related_article5:
+    id: 169182
+    title: >-
+        How do cultural factors influence architectural design and the consideration of diverse needs and values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-cultural-factors-influence-architectural-design-and-the-consideration-of-diverse-needs-and-values
 ---
 
 &nbsp;

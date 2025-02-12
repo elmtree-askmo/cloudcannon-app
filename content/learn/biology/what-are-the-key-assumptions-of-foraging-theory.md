@@ -2,8 +2,10 @@
 _schema: default
 id: 170893
 date: 2025-02-07
-title: What are the key assumptions of foraging theory?
-article_title: What are the key assumptions of foraging theory?
+title: >-
+    What are the key assumptions of foraging theory?
+article_title: >-
+    What are the key assumptions of foraging theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-assumptions-of-foraging-theory.md
 url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
 score: -1.0
 related_article1:
-    id: 170901
-    title: What cognitive processes are involved in animal decision-making?
+    id: 170902
+    title: >-
+        How do environmental variables influence animal decision-making?
     subject: Biology
-    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+    url: /learn/biology/questions/how-do-environmental-variables-influence-animal-decisionmaking
 related_article2:
     id: 170906
-    title: What are the limitations of mathematical models in ecological modeling?
+    title: >-
+        What are the limitations of mathematical models in ecological modeling?
     subject: Biology
     url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
 related_article3:
-    id: 170895
-    title: What factors influence search time in foraging animals?
+    id: 170897
+    title: >-
+        What are some common predator strategies in predator-prey dynamics?
     subject: Biology
-    url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
+    url: /learn/biology/questions/what-are-some-common-predator-strategies-in-predatorprey-dynamics
 related_article4:
-    id: 170896
-    title: How does handling time relate to prey size in foraging theory?
+    id: 170894
+    title: >-
+        How is energy profitability calculated in foraging theory?
     subject: Biology
-    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
+    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
 related_article5:
     id: 170896
-    title: How does handling time relate to prey size in foraging theory?
+    title: >-
+        How does handling time relate to prey size in foraging theory?
     subject: Biology
     url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
 ---

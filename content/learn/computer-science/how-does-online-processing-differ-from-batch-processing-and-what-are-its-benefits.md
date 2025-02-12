@@ -2,8 +2,10 @@
 _schema: default
 id: 161502
 date: 2025-01-24
-title: How does online processing differ from batch processing and what are its benefits?
-article_title: How does online processing differ from batch processing and what are its benefits?
+title: >-
+    How does online processing differ from batch processing and what are its benefits?
+article_title: >-
+    How does online processing differ from batch processing and what are its benefits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-online-processing-differ-from-batch-processing-and-what-are-
 url: /learn/computer-science/questions/how-does-online-processing-differ-from-batch-processing-and-what-are-its-benefits
 score: -1.0
 related_article1:
-    id: 161688
-    title: Why is accuracy important in the quality of information, and what factors can affect it?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-accuracy-important-in-the-quality-of-information-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 related_article2:
-    id: 161511
-    title: What are the main components of an information system and how do they interact?
+    id: 161491
+    title: >-
+        What are the characteristics of direct data and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article3:
-    id: 161509
-    title: What is data logging and what are some common methods and tools used for it?
+    id: 161690
+    title: >-
+        Why is the age of information important, and what factors can affect its timeliness?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-data-logging-and-what-are-some-common-methods-and-tools-used-for-it
+    url: /learn/computer-science/questions/why-is-the-age-of-information-important-and-what-factors-can-affect-its-timeliness
 related_article4:
-    id: 161697
-    title: What are the characteristics of online processing, and what are its advantages and disadvantages?
+    id: 161489
+    title: >-
+        What is the definition of data and why is raw data considered meaningless?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
 related_article5:
-    id: 161687
-    title: What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
+    id: 161702
+    title: >-
+        What is a checksum, and how do algorithms and protocols use it for error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-indirect-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-is-a-checksum-and-how-do-algorithms-and-protocols-use-it-for-error-detection
 ---
 
 &nbsp;

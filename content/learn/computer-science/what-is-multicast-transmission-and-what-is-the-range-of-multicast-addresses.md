@@ -2,8 +2,10 @@
 _schema: default
 id: 165694
 date: 2025-01-29
-title: What is multicast transmission, and what is the range of multicast addresses?
-article_title: What is multicast transmission, and what is the range of multicast addresses?
+title: >-
+    What is multicast transmission, and what is the range of multicast addresses?
+article_title: >-
+    What is multicast transmission, and what is the range of multicast addresses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-is-multicast-transmission-and-what-i
 score: -1.0
 related_article1:
     id: 165695
-    title: What are the differences between public and private IPv4 addresses, and what are the private address blocks?
+    title: >-
+        What are the differences between public and private IPv4 addresses, and what are the private address blocks?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-public-and-private-ipv4-addresses-and-what-are-the-private-address-blocks
 related_article2:
-    id: 165701
-    title: Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
+    id: 165696
+    title: >-
+        Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-classless-interdomain-routing-cidr-and-its-purpose-in-ipv4-addressing
+    url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
 related_article3:
-    id: 165697
-    title: What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
+    id: 165691
+    title: >-
+        Why is the subnet mask important in determining the number of hosts in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-class-a-ipv4-addresses-including-their-prefix-and-address-range
+    url: /learn/computer-science/questions/why-is-the-subnet-mask-important-in-determining-the-number-of-hosts-in-a-network
 related_article4:
-    id: 165699
-    title: What is the prefix and address range of Class C IPv4 addresses?
+    id: 165689
+    title: >-
+        Describe the pattern of 1s and 0s in a subnet mask and how it interprets network and host bits.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-prefix-and-address-range-of-class-c-ipv4-addresses
+    url: /learn/computer-science/questions/describe-the-pattern-of-1s-and-0s-in-a-subnet-mask-and-how-it-interprets-network-and-host-bits
 related_article5:
-    id: 165697
-    title: What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
+    id: 165690
+    title: >-
+        What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-class-a-ipv4-addresses-including-their-prefix-and-address-range
+    url: /learn/computer-science/questions/what-are-the-differences-between-8-16-and-24-subnet-masks-and-what-are-nonnatural-octet-boundaries
 ---
 
 &nbsp;

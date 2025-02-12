@@ -2,8 +2,10 @@
 _schema: default
 id: 169846
 date: 2025-02-05
-title: Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
-article_title: Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+title: >-
+    Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+article_title: >-
+    Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-electrical-characteristics-of-active-and-passive-bipoles
 url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
 score: -1.0
 related_article1:
-    id: 169855
-    title: What is the difference between series and parallel association of electrical bipoles?
+    id: 169863
+    title: >-
+        How is the capacitor value calculated for power factor correction in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
 related_article2:
-    id: 169850
-    title: What is the difference between a node and a loop in circuit analysis?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
-related_article3:
     id: 169861
-    title: How are phasor diagrams used in the analysis of RLC circuits?
+    title: >-
+        How are phasor diagrams used in the analysis of RLC circuits?
     subject: Engineering
     url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+related_article3:
+    id: 169863
+    title: >-
+        How is the capacitor value calculated for power factor correction in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
 related_article4:
-    id: 169851
-    title: How do Kirchhoff's laws assist in the analysis of electrical circuits?
+    id: 169854
+    title: >-
+        How is power factor correction achieved in electrical systems?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
 related_article5:
-    id: 169850
-    title: What is the difference between a node and a loop in circuit analysis?
+    id: 169847
+    title: >-
+        Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
+    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
 ---
 
 &nbsp;

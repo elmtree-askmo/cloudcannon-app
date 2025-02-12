@@ -2,8 +2,10 @@
 _schema: default
 id: 168074
 date: 2025-02-02
-title: How does self-awareness influence memory recall and personal memory formation?
-article_title: How does self-awareness influence memory recall and personal memory formation?
+title: >-
+    How does self-awareness influence memory recall and personal memory formation?
+article_title: >-
+    How does self-awareness influence memory recall and personal memory formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-selfawareness-influence-memory-recall-and-personal-memory-fo
 url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
 score: -1.0
 related_article1:
-    id: 168070
-    title: How do memorable life events during adulthood influence personal identity development?
+    id: 168069
+    title: >-
+        What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
+    url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
 related_article2:
-    id: 168065
-    title: What are the optimal performance times for visual and verbal memory tasks in different age groups?
+    id: 168069
+    title: >-
+        What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups
+    url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
 related_article3:
-    id: 168064
-    title: How do life transitions contribute to identity formation during the reminiscence bump?
+    id: 168066
+    title: >-
+        How do circadian rhythms affect problem-solving task performance in older versus younger adults?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
+    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
 related_article4:
-    id: 168072
-    title: How does language acquisition affect the development of personal memories in young children?
+    id: 168068
+    title: >-
+        How does peak circadian arousal differ between older and younger adults in terms of memory performance?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
+    url: /learn/psychology/questions/how-does-peak-circadian-arousal-differ-between-older-and-younger-adults-in-terms-of-memory-performance
 related_article5:
-    id: 168064
-    title: How do life transitions contribute to identity formation during the reminiscence bump?
+    id: 168076
+    title: >-
+        How do circadian rhythms impact task-specific performance in visual and verbal tasks?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
 ---
 
 &nbsp;

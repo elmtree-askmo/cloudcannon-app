@@ -2,8 +2,10 @@
 _schema: default
 id: 165323
 date: 2025-01-28
-title: Explain the mechanisms of cultural transmission and its impact on animal societies.
-article_title: Explain the mechanisms of cultural transmission and its impact on animal societies.
+title: >-
+    Explain the mechanisms of cultural transmission and its impact on animal societies.
+article_title: >-
+    Explain the mechanisms of cultural transmission and its impact on animal societies.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-ani
 url: /learn/psychology/questions/explain-the-mechanisms-of-cultural-transmission-and-its-impact-on-animal-societies
 score: -1.0
 related_article1:
-    id: 165321
-    title: What are the principles of natural selection and how do they apply to animal behavior?
+    id: 165322
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
+    url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
 related_article2:
-    id: 165326
-    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    id: 165324
+    title: >-
+        Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
     subject: Psychology
-    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
 related_article3:
-    id: 165332
-    title: Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vertebrate-organ-systems-and-their-importance-in-behavior
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
 related_article4:
-    id: 165328
-    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    id: 165322
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+    url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
 related_article5:
     id: 165326
-    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    title: >-
+        Compare and contrast directional, stabilizing, and disruptive selection with examples.
     subject: Psychology
     url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 159683
 date: 2025-01-23
-title: How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
-article_title: How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+title: >-
+    How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+article_title: >-
+    How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awaren
 url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
 score: -1.0
 related_article1:
+    id: 159667
+    title: >-
+        How does the IMF ensure the stability of the international monetary system through surveillance?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
+related_article2:
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article3:
     id: 159678
-    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
     subject: Economics
     url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
-related_article2:
-    id: 159677
-    title: What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
-related_article3:
-    id: 159675
-    title: What types of financial assistance does the World Bank provide to support development projects?
-    subject: Economics
-    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
 related_article4:
-    id: 159675
-    title: What types of financial assistance does the World Bank provide to support development projects?
-    subject: Economics
-    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
-related_article5:
     id: 159673
-    title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+    title: >-
+        What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
     subject: Economics
     url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
+related_article5:
+    id: 159675
+    title: >-
+        What types of financial assistance does the World Bank provide to support development projects?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161015
 date: 2025-01-24
-title: What is the purpose of abstraction in computing?
-article_title: What is the purpose of abstraction in computing?
+title: >-
+    What is the purpose of abstraction in computing?
+article_title: >-
+    What is the purpose of abstraction in computing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-abstraction-in-computing.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
 score: -1.0
 related_article1:
-    id: 160701
-    title: How do associative arrays utilize non-numeric indices?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-associative-arrays-utilize-nonnumeric-indices
-related_article2:
-    id: 160790
-    title: What are the challenges in proving software solutions compared to testing them?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
-related_article3:
-    id: 160781
-    title: What are associative arrays and how do they utilize non-numeric indices?
+    id: 160866
+    title: >-
+        What are associative arrays and how do they utilize non-numeric indices?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
+related_article2:
+    id: 161019
+    title: >-
+        What are associative arrays and how do they utilize non-numeric indices?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
+related_article3:
+    id: 160701
+    title: >-
+        How do associative arrays utilize non-numeric indices?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-associative-arrays-utilize-nonnumeric-indices
 related_article4:
-    id: 160695
-    title: Describe the divide and conquer strategy in algorithm development.
+    id: 160708
+    title: >-
+        How can analyzing problem specifications aid in problem-solving strategies in software engineering?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
+    url: /learn/computer-science/questions/how-can-analyzing-problem-specifications-aid-in-problemsolving-strategies-in-software-engineering
 related_article5:
-    id: 161029
-    title: What are the advantages of using non-numeric indices in associative arrays?
+    id: 161005
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 ---
 
 &nbsp;

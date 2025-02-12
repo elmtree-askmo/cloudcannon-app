@@ -2,8 +2,10 @@
 _schema: default
 id: 165718
 date: 2025-01-29
-title: What are the configuration steps for static IP address assignment?
-article_title: What are the configuration steps for static IP address assignment?
+title: >-
+    What are the configuration steps for static IP address assignment?
+article_title: >-
+    What are the configuration steps for static IP address assignment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: what-are-the-configuration-steps-for-static-ip-address-assignment.md
 url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
 score: -1.0
 related_article1:
-    id: 165706
-    title: How do you convert a binary number to a decimal number? Provide an example.
+    id: 165716
+    title: >-
+        Define broadcast addressing and provide an example scenario where it is used.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
+    url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
 related_article2:
-    id: 165720
-    title: How does hierarchical IP addressing facilitate subnetwork division?
+    id: 165705
+    title: >-
+        Explain the significance of base 2 digits in the binary number system.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-hierarchical-ip-addressing-facilitate-subnetwork-division
+    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
 related_article3:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
+    id: 165709
+    title: >-
+        How does a subnet mask help in identifying the network and host portions of an IPv4 address?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
+    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
 related_article4:
-    id: 165713
-    title: How is a host address represented using a combination of 0s and 1s?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
-related_article5:
     id: 165711
-    title: Explain the concept of a subnet prefix and its notation in dotted decimal format.
+    title: >-
+        Explain the concept of a subnet prefix and its notation in dotted decimal format.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
 ---

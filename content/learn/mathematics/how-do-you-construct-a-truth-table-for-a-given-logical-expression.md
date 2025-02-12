@@ -2,8 +2,10 @@
 _schema: default
 id: 170242
 date: 2025-02-06
-title: How do you construct a truth table for a given logical expression?
-article_title: How do you construct a truth table for a given logical expression?
+title: >-
+    How do you construct a truth table for a given logical expression?
+article_title: >-
+    How do you construct a truth table for a given logical expression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-construct-a-truth-table-for-a-given-logical-expression.md
 url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
 score: -1.0
 related_article1:
-    id: 170246
-    title: What is the truth table for disjunction, and how is it applied in propositions?
+    id: 170247
+    title: >-
+        Describe the exclusive-or operator and its application in propositions.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-truth-table-for-disjunction-and-how-is-it-applied-in-propositions
+    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
 related_article2:
-    id: 170249
-    title: Define bi-implication and explain its truth table.
+    id: 170251
+    title: >-
+        What is a tautology, and how can it be identified?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
+    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
 related_article3:
-    id: 170258
-    title: How do you calculate the number of rows and columns needed for a truth table?
+    id: 170248
+    title: >-
+        What is the implication operator, and how are hypothesis and conclusion related?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
 related_article4:
-    id: 170245
-    title: How is conjunction applied in logical propositions?
+    id: 170248
+    title: >-
+        What is the implication operator, and how are hypothesis and conclusion related?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+    url: /learn/mathematics/questions/what-is-the-implication-operator-and-how-are-hypothesis-and-conclusion-related
 related_article5:
-    id: 170243
-    title: What is the role of order of precedence in resolving logical operators?
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 ---
 
 &nbsp;

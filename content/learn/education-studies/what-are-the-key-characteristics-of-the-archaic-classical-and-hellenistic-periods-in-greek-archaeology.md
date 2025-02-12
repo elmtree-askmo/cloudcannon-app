@@ -2,8 +2,10 @@
 _schema: default
 id: 166001
 date: 2025-01-29
-title: What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
-article_title: What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
+title: >-
+    What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
+article_title: >-
+    What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-
 score: -1.0
 related_article1:
     id: 166009
-    title: In what ways did the Renaissance influence the reception of classical myths?
+    title: >-
+        In what ways did the Renaissance influence the reception of classical myths?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
 related_article2:
-    id: 166003
-    title: What are the primary differences between literary sources and inscriptions as ancient texts?
+    id: 166014
+    title: >-
+        What are the defining features of creation myths and trickster myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-creation-myths-and-trickster-myths
 related_article3:
-    id: 166006
-    title: How do archetypes function in comparative mythology according to Carl Jung?
+    id: 166002
+    title: >-
+        How do historical contexts and political events influence the cultural memory in mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
+    url: /learn/education-studies/questions/how-do-historical-contexts-and-political-events-influence-the-cultural-memory-in-mythology
 related_article4:
-    id: 166007
-    title: What are the traditional definitions of myth, and how do they involve supernatural beings?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-traditional-definitions-of-myth-and-how-do-they-involve-supernatural-beings
-related_article5:
     id: 166016
-    title: What were the key factors in the expansion and influence of the Roman Empire?
+    title: >-
+        What were the key factors in the expansion and influence of the Roman Empire?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-key-factors-in-the-expansion-and-influence-of-the-roman-empire
+related_article5:
+    id: 166005
+    title: >-
+        What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology-and-how-did-claude-lvistrauss-contribute-to-this-field
 ---
 
 &nbsp;

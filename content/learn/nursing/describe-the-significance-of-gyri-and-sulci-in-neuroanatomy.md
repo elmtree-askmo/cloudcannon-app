@@ -2,8 +2,10 @@
 _schema: default
 id: 164729
 date: 2025-01-28
-title: Describe the significance of gyri and sulci in neuroanatomy.
-article_title: Describe the significance of gyri and sulci in neuroanatomy.
+title: >-
+    Describe the significance of gyri and sulci in neuroanatomy.
+article_title: >-
+    Describe the significance of gyri and sulci in neuroanatomy.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: describe-the-significance-of-gyri-and-sulci-in-neuroanatomy.md
 url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
 score: -1.0
 related_article1:
-    id: 164743
-    title: Describe the structure and functional organization of the cerebral cortex.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
-related_article2:
     id: 164727
-    title: What is a sagittal slice and how does it differ from coronal and axial slices?
+    title: >-
+        What is a sagittal slice and how does it differ from coronal and axial slices?
     subject: Nursing
     url: /learn/nursing/questions/what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices
-related_article3:
-    id: 164722
-    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+related_article2:
+    id: 164741
+    title: >-
+        What are the common surgical techniques used in brain surgery and their potential complications?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
+related_article3:
+    id: 164739
+    title: >-
+        What are the main types of seizures associated with epilepsy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
 related_article4:
     id: 164739
-    title: What are the main types of seizures associated with epilepsy?
+    title: >-
+        What are the main types of seizures associated with epilepsy?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
 related_article5:
     id: 164732
-    title: What is the functional and clinical significance of the longitudinal fissure in the brain?
+    title: >-
+        What is the functional and clinical significance of the longitudinal fissure in the brain?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 164291
 date: 2025-01-28
-title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
-article_title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+title: >-
+    What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+article_title: >-
+    What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-t
 url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
 score: -1.0
 related_article1:
-    id: 164296
-    title: What were some of the early studies that contributed to the development of PET technology?
+    id: 164313
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 related_article2:
     id: 164295
-    title: What are the key differences between block design and event-related design in fMRI experimental setups?
+    title: >-
+        What are the key differences between block design and event-related design in fMRI experimental setups?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-differences-between-block-design-and-eventrelated-design-in-fmri-experimental-setups
 related_article3:
-    id: 164314
-    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    id: 164311
+    title: >-
+        What are some applications of MRI in anatomical and functional imaging research?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+    url: /learn/psychology/questions/what-are-some-applications-of-mri-in-anatomical-and-functional-imaging-research
 related_article4:
-    id: 164308
-    title: How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
-related_article5:
     id: 164313
-    title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
+related_article5:
+    id: 164296
+    title: >-
+        What were some of the early studies that contributed to the development of PET technology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contributed-to-the-development-of-pet-technology
 ---
 
 &nbsp;

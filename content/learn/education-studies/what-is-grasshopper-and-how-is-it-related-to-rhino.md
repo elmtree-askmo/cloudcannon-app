@@ -2,8 +2,10 @@
 _schema: default
 id: 169190
 date: 2025-02-04
-title: What is Grasshopper, and how is it related to Rhino?
-article_title: What is Grasshopper, and how is it related to Rhino?
+title: >-
+    What is Grasshopper, and how is it related to Rhino?
+article_title: >-
+    What is Grasshopper, and how is it related to Rhino?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-grasshopper-and-how-is-it-related-to-rhino.md
 url: /learn/education-studies/questions/what-is-grasshopper-and-how-is-it-related-to-rhino
 score: -1.0
 related_article1:
-    id: 169194
-    title: How can you manage visual output in Grasshopper when working with 3D models?
+    id: 169196
+    title: >-
+        How does GIS facilitate mapping techniques, particularly in layering and time representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
+    url: /learn/education-studies/questions/how-does-gis-facilitate-mapping-techniques-particularly-in-layering-and-time-representation
 related_article2:
-    id: 169188
-    title: List three common file formats used in GIS for data layers.
+    id: 169196
+    title: >-
+        How does GIS facilitate mapping techniques, particularly in layering and time representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
+    url: /learn/education-studies/questions/how-does-gis-facilitate-mapping-techniques-particularly-in-layering-and-time-representation
 related_article3:
-    id: 169188
-    title: List three common file formats used in GIS for data layers.
-    subject: Education Studies
-    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
-related_article4:
     id: 169198
-    title: How is random number generation used in design iteration within Grasshopper?
+    title: >-
+        How is random number generation used in design iteration within Grasshopper?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-random-number-generation-used-in-design-iteration-within-grasshopper
-related_article5:
+related_article4:
     id: 169194
-    title: How can you manage visual output in Grasshopper when working with 3D models?
+    title: >-
+        How can you manage visual output in Grasshopper when working with 3D models?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
+related_article5:
+    id: 169200
+    title: >-
+        Name two spatial analysis techniques used in GIS.
+    subject: Education Studies
+    url: /learn/education-studies/questions/name-two-spatial-analysis-techniques-used-in-gis
 ---
 
 &nbsp;

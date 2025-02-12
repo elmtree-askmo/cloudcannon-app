@@ -2,8 +2,10 @@
 _schema: default
 id: 161669
 date: 2025-01-24
-title: What are the advantages of using real-time protection in anti-virus software?
-article_title: What are the advantages of using real-time protection in anti-virus software?
+title: >-
+    What are the advantages of using real-time protection in anti-virus software?
+article_title: >-
+    What are the advantages of using real-time protection in anti-virus software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-realtime-protection-in-antivirus-sof
 url: /learn/computer-science/questions/what-are-the-advantages-of-using-realtime-protection-in-antivirus-software
 score: -1.0
 related_article1:
-    id: 161549
-    title: What is the difference between lossless and lossy data compression?
+    id: 161557
+    title: >-
+        How does encryption contribute to access control in computing security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
+    url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
 related_article2:
-    id: 161554
-    title: What are the key characteristics of mainframe computers?
+    id: 161313
+    title: >-
+        How does encryption contribute to access control in computing security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
+    url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
 related_article3:
-    id: 161562
-    title: What is the role of device drivers in system software?
+    id: 161295
+    title: >-
+        What does MIPS measure in mainframe performance metrics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
 related_article4:
-    id: 161536
-    title: What role do redundant components play in enhancing the reliability of a computing system?
+    id: 161300
+    title: >-
+        What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-enhancing-the-reliability-of-a-computing-system
+    url: /learn/computer-science/questions/what-cooling-techniques-are-commonly-used-to-maintain-optimal-temperatures-in-computing-systems
 related_article5:
-    id: 161320
-    title: What are the benefits of real-time protection in anti-virus utility software?
+    id: 161300
+    title: >-
+        What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
+    url: /learn/computer-science/questions/what-cooling-techniques-are-commonly-used-to-maintain-optimal-temperatures-in-computing-systems
 ---
 
 &nbsp;

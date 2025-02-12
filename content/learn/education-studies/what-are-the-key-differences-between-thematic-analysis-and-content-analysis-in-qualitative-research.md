@@ -2,8 +2,10 @@
 _schema: default
 id: 165150
 date: 2025-01-28
-title: What are the key differences between thematic analysis and content analysis in qualitative research?
-article_title: What are the key differences between thematic analysis and content analysis in qualitative research?
+title: >-
+    What are the key differences between thematic analysis and content analysis in qualitative research?
+article_title: >-
+    What are the key differences between thematic analysis and content analysis in qualitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-thematic-analysis-and-content-an
 url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
 score: -1.0
 related_article1:
-    id: 165141
-    title: What role does dopamine play in stress and behavior?
+    id: 165144
+    title: >-
+        What negative impacts can video games have on stress levels?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-dopamine-play-in-stress-and-behavior
+    url: /learn/education-studies/questions/what-negative-impacts-can-video-games-have-on-stress-levels
 related_article2:
-    id: 165134
-    title: How can observer bias be minimized in research studies?
+    id: 165140
+    title: >-
+        How do SPSS and R differ as software tools for statistical analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
+    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
 related_article3:
-    id: 165148
-    title: What are the types of measurement instruments used in research, and how is reliability assessed?
+    id: 165151
+    title: >-
+        How do regression analysis and ANOVA differ in quantitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-types-of-measurement-instruments-used-in-research-and-how-is-reliability-assessed
+    url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
 related_article4:
-    id: 165147
-    title: What are the implications of confusing causation with correlation in research findings?
+    id: 165136
+    title: >-
+        How do placebo and active control groups differ in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-implications-of-confusing-causation-with-correlation-in-research-findings
+    url: /learn/education-studies/questions/how-do-placebo-and-active-control-groups-differ-in-research-studies
 related_article5:
-    id: 165139
-    title: What is the difference between descriptive and inferential statistics in data analysis?
+    id: 165128
+    title: >-
+        What is simple randomization, and where is it typically applied?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-descriptive-and-inferential-statistics-in-data-analysis
+    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
 ---
 
 &nbsp;

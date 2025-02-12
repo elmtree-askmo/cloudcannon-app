@@ -2,8 +2,10 @@
 _schema: default
 id: 170648
 date: 2025-02-06
-title: What is the impact of emotional regulation on academic performance and stress management?
-article_title: What is the impact of emotional regulation on academic performance and stress management?
+title: >-
+    What is the impact of emotional regulation on academic performance and stress management?
+article_title: >-
+    What is the impact of emotional regulation on academic performance and stress management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-impact-of-emotional-regulation-on-academic-performance-an
 url: /learn/education-studies/questions/what-is-the-impact-of-emotional-regulation-on-academic-performance-and-stress-management
 score: -1.0
 related_article1:
+    id: 170650
+    title: >-
+        How can personalized instruction adapt to different learning styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-personalized-instruction-adapt-to-different-learning-styles
+related_article2:
+    id: 170638
+    title: >-
+        How do study habits influence student success?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-study-habits-influence-student-success
+related_article3:
     id: 170645
-    title: What strategies can improve academic performance through goal setting and self-assessment?
+    title: >-
+        What strategies can improve academic performance through goal setting and self-assessment?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-improve-academic-performance-through-goal-setting-and-selfassessment
-related_article2:
-    id: 170636
-    title: Why is prioritizing tasks crucial for effective time management?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-prioritizing-tasks-crucial-for-effective-time-management
-related_article3:
-    id: 170637
-    title: What is the two-minute rule and how does it aid in time management?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-twominute-rule-and-how-does-it-aid-in-time-management
 related_article4:
-    id: 170638
-    title: How do study habits influence student success?
+    id: 170645
+    title: >-
+        What strategies can improve academic performance through goal setting and self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-study-habits-influence-student-success
+    url: /learn/education-studies/questions/what-strategies-can-improve-academic-performance-through-goal-setting-and-selfassessment
 related_article5:
-    id: 170638
-    title: How do study habits influence student success?
+    id: 170644
+    title: >-
+        How do learning management systems enhance engagement in digital education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-study-habits-influence-student-success
+    url: /learn/education-studies/questions/how-do-learning-management-systems-enhance-engagement-in-digital-education
 ---
 
 &nbsp;

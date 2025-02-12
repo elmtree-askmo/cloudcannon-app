@@ -2,8 +2,10 @@
 _schema: default
 id: 164050
 date: 2025-01-28
-title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
-article_title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+title: >-
+    How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
+article_title: >-
+    How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-ne
 score: -1.0
 related_article1:
     id: 164044
-    title: How does the age-crime curve affect developmental considerations in sentencing?
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
 related_article2:
-    id: 164054
-    title: How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    id: 164047
+    title: >-
+        What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
 related_article3:
+    id: 164047
+    title: >-
+        What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article4:
     id: 164053
-    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    title: >-
+        What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
-related_article4:
-    id: 164041
-    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
 related_article5:
-    id: 164045
-    title: What is the relationship between the amygdala and empathy in the context of psychopathy?
+    id: 164052
+    title: >-
+        How does the multidisciplinary team approach function in the forensic assessment process at the Pieter Baan Center?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-the-amygdala-and-empathy-in-the-context-of-psychopathy
+    url: /learn/psychology/questions/how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center
 ---
 
 &nbsp;

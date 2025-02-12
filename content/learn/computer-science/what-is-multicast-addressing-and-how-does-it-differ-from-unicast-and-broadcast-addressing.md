@@ -2,8 +2,10 @@
 _schema: default
 id: 165717
 date: 2025-01-29
-title: What is multicast addressing and how does it differ from unicast and broadcast addressing?
-article_title: What is multicast addressing and how does it differ from unicast and broadcast addressing?
+title: >-
+    What is multicast addressing and how does it differ from unicast and broadcast addressing?
+article_title: >-
+    What is multicast addressing and how does it differ from unicast and broadcast addressing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-
 url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
 score: -1.0
 related_article1:
-    id: 165718
-    title: What are the configuration steps for static IP address assignment?
+    id: 165713
+    title: >-
+        How is a host address represented using a combination of 0s and 1s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
+    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
 related_article2:
-    id: 165704
-    title: How is the host portion of an IPv4 address represented in dotted decimal format?
+    id: 165710
+    title: >-
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-host-portion-of-an-ipv4-address-represented-in-dotted-decimal-format
+    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 related_article3:
+    id: 165712
+    title: >-
+        What is a network address and how is it represented when the host portion is all 0s?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
+related_article4:
     id: 165707
-    title: What are the steps involved in converting a decimal number to binary?
+    title: >-
+        What are the steps involved in converting a decimal number to binary?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
-related_article4:
-    id: 165716
-    title: Define broadcast addressing and provide an example scenario where it is used.
-    subject: Computer Science
-    url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
 related_article5:
-    id: 165715
-    title: What is unicast addressing and in what scenarios is it typically used?
+    id: 165706
+    title: >-
+        How do you convert a binary number to a decimal number? Provide an example.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
+    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
 ---
 
 &nbsp;

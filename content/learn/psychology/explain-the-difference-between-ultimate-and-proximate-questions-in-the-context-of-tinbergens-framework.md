@@ -2,8 +2,10 @@
 _schema: default
 id: 165290
 date: 2025-01-28
-title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
-article_title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+title: >-
+    Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+article_title: >-
+    Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-pro
 score: -1.0
 related_article1:
     id: 165302
-    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    title: >-
+        Explain the interaction between genetic factors and environmental influences on behavior.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
 related_article2:
-    id: 165306
-    title: Explain disruptive selection and its potential impact on a species.
+    id: 165295
+    title: >-
+        List and explain Darwin’s four postulates of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
+    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
 related_article3:
-    id: 165311
-    title: What is the influence of hormones on animal behavior?
+    id: 165297
+    title: >-
+        Define fitness in the context of natural selection and explain its importance.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
 related_article4:
-    id: 165310
-    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    id: 165296
+    title: >-
+        How do variation and heritability contribute to differential survival in natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
 related_article5:
-    id: 165291
-    title: What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    id: 165289
+    title: >-
+        What are Tinbergen's four questions and how do they help in studying animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
+    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
 ---
 
 &nbsp;

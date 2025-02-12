@@ -2,8 +2,10 @@
 _schema: default
 id: 162730
 date: 2025-01-25
-title: What are the principles of usability and accessibility in user experience design?
-article_title: What are the principles of usability and accessibility in user experience design?
+title: >-
+    What are the principles of usability and accessibility in user experience design?
+article_title: >-
+    What are the principles of usability and accessibility in user experience design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-principles-of-usability-and-accessibility-in-user-experi
 url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
 score: -1.0
 related_article1:
-    id: 162768
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+    id: 162827
+    title: >-
+        How can Excel, R, and Python be utilized in data analysis for business intelligence?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence
 related_article2:
-    id: 162373
-    title: What are the best practices for responsive design and SEO optimization in web development?
+    id: 162726
+    title: >-
+        What are the key components of an information system, and how do they interact?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
+    url: /learn/others/questions/what-are-the-key-components-of-an-information-system-and-how-do-they-interact
 related_article3:
-    id: 162828
-    title: What are the main differences between supervised, unsupervised, and reinforcement learning algorithms in machine learning?
+    id: 162853
+    title: >-
+        What are the challenges associated with virtual reality in terms of cost and user experience?
     subject: Others
-    url: /learn/others/questions/what-are-the-main-differences-between-supervised-unsupervised-and-reinforcement-learning-algorithms-in-machine-learning
+    url: /learn/others/questions/what-are-the-challenges-associated-with-virtual-reality-in-terms-of-cost-and-user-experience
 related_article4:
-    id: 162656
-    title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162781
+    title: >-
+        What are the differences between relational and NoSQL databases in terms of data management?
     subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/what-are-the-differences-between-relational-and-nosql-databases-in-terms-of-data-management
 related_article5:
-    id: 162373
-    title: What are the best practices for responsive design and SEO optimization in web development?
+    id: 162784
+    title: >-
+        What are the key components of an information system, and how do they interact?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
+    url: /learn/others/questions/what-are-the-key-components-of-an-information-system-and-how-do-they-interact
 ---
 
 &nbsp;

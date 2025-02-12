@@ -2,8 +2,10 @@
 _schema: default
 id: 164462
 date: 2025-01-28
-title: How does brain damage affect motion perception and what are the implications for the motion cortex?
-article_title: How does brain damage affect motion perception and what are the implications for the motion cortex?
+title: >-
+    How does brain damage affect motion perception and what are the implications for the motion cortex?
+article_title: >-
+    How does brain damage affect motion perception and what are the implications for the motion cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-brain-damage-affect-motion-perception-and-what-are-the-impli
 url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
 score: -1.0
 related_article1:
-    id: 164467
-    title: What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
-related_article2:
-    id: 164460
-    title: How do patient studies provide evidence for understanding object relationships?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
-related_article3:
-    id: 164478
-    title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
-related_article4:
     id: 164476
-    title: How do converging methods in neuroscience validate findings across different evidence sources?
+    title: >-
+        How do converging methods in neuroscience validate findings across different evidence sources?
     subject: Psychology
     url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
+related_article2:
+    id: 164472
+    title: >-
+        How does damage to the parahippocampal place area affect cognitive map formation and navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-affect-cognitive-map-formation-and-navigation
+related_article3:
+    id: 164467
+    title: >-
+        What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article4:
+    id: 164471
+    title: >-
+        What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
+related_article5:
+    id: 164477
+    title: >-
+        What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
 ---
 
 &nbsp;

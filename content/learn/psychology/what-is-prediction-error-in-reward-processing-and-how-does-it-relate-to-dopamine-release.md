@@ -2,8 +2,10 @@
 _schema: default
 id: 164427
 date: 2025-01-28
-title: What is prediction error in reward processing, and how does it relate to dopamine release?
-article_title: What is prediction error in reward processing, and how does it relate to dopamine release?
+title: >-
+    What is prediction error in reward processing, and how does it relate to dopamine release?
+article_title: >-
+    What is prediction error in reward processing, and how does it relate to dopamine release?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-prediction-error-in-reward-processing-and-how-does-it-relate-
 url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
 score: -1.0
 related_article1:
-    id: 164432
-    title: What impact does cortisol have on memory and learning during stress?
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 related_article2:
-    id: 164420
-    title: What role does competition and inhibition play in brain structure and emotional regulation?
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
 related_article3:
-    id: 164431
-    title: Why is early language exposure important for vocabulary and grammar development?
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 related_article4:
     id: 164435
-    title: How do developmental stages affect executive functions in children?
+    title: >-
+        How do developmental stages affect executive functions in children?
     subject: Psychology
     url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
 related_article5:
-    id: 164423
-    title: How does the frontal lobe contribute to executive functions and speech production?
+    id: 164430
+    title: >-
+        How do neural pathways influence competition and inhibition in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
 ---
 
 &nbsp;

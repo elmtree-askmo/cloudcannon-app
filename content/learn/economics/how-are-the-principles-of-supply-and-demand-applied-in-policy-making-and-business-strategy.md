@@ -2,8 +2,10 @@
 _schema: default
 id: 169936
 date: 2025-02-05
-title: How are the principles of supply and demand applied in policy making and business strategy?
-article_title: How are the principles of supply and demand applied in policy making and business strategy?
+title: >-
+    How are the principles of supply and demand applied in policy making and business strategy?
+article_title: >-
+    How are the principles of supply and demand applied in policy making and business strategy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-are-the-principles-of-supply-and-demand-applied-in-policy-making-
 url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
 score: -1.0
 related_article1:
-    id: 169932
-    title: Identify current trends and challenges in global trade.
+    id: 169921
+    title: >-
+        What is marginal thinking, and why is it significant in economic decision making?
     subject: Economics
-    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
+    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
 related_article2:
-    id: 169922
-    title: How do marginal cost and benefit influence consumer choices?
+    id: 169928
+    title: >-
+        What factors contribute to economic growth, and what role do innovation and technology play?
     subject: Economics
-    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
 related_article3:
-    id: 169920
-    title: How is opportunity cost calculated, and why is it important in decision making?
-    subject: Economics
-    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
-related_article4:
     id: 169926
-    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
     subject: Economics
     url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article4:
+    id: 169922
+    title: >-
+        How do marginal cost and benefit influence consumer choices?
+    subject: Economics
+    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
 related_article5:
     id: 169930
-    title: How does education function as an investment in the labor market?
+    title: >-
+        How does education function as an investment in the labor market?
     subject: Economics
     url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 166742
 date: 2025-01-31
-title: What is the difference between logical appeals and causal relationships in logos?
-article_title: What is the difference between logical appeals and causal relationships in logos?
+title: >-
+    What is the difference between logical appeals and causal relationships in logos?
+article_title: >-
+    What is the difference between logical appeals and causal relationships in logos?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-difference-between-logical-appeals-and-causal-relationshi
 url: /learn/art-history-and-literature/questions/what-is-the-difference-between-logical-appeals-and-causal-relationships-in-logos
 score: 8.5
 related_article1:
+    id: 166753
+    title: >-
+        Why is proofreading crucial for spelling accuracy in copywriting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-proofreading-crucial-for-spelling-accuracy-in-copywriting
+related_article2:
+    id: 166756
+    title: >-
+        What should be considered during the final review process of editing and proofreading?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-should-be-considered-during-the-final-review-process-of-editing-and-proofreading
+related_article3:
     id: 166747
-    title: What are the key differences between complexity and simplicity in writing style?
+    title: >-
+        What are the key differences between complexity and simplicity in writing style?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-differences-between-complexity-and-simplicity-in-writing-style
-related_article2:
-    id: 166740
-    title: What is the role of the writer, text, and audience in the rhetorical situation of an advertisement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-the-writer-text-and-audience-in-the-rhetorical-situation-of-an-advertisement
-related_article3:
-    id: 166753
-    title: Why is proofreading crucial for spelling accuracy in copywriting?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-proofreading-crucial-for-spelling-accuracy-in-copywriting
 related_article4:
     id: 166753
-    title: Why is proofreading crucial for spelling accuracy in copywriting?
+    title: >-
+        Why is proofreading crucial for spelling accuracy in copywriting?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/why-is-proofreading-crucial-for-spelling-accuracy-in-copywriting
-related_article5:
-    id: 166741
-    title: How does celebrity endorsement enhance the ethos of an advertisement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-celebrity-endorsement-enhance-the-ethos-of-an-advertisement
 ---
 
 &nbsp;

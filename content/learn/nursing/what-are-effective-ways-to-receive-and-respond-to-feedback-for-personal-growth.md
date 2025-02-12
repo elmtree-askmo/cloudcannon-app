@@ -2,8 +2,10 @@
 _schema: default
 id: 169812
 date: 2025-02-05
-title: What are effective ways to receive and respond to feedback for personal growth?
-article_title: What are effective ways to receive and respond to feedback for personal growth?
+title: >-
+    What are effective ways to receive and respond to feedback for personal growth?
+article_title: >-
+    What are effective ways to receive and respond to feedback for personal growth?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-effective-ways-to-receive-and-respond-to-feedback-for-person
 url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
 score: -1.0
 related_article1:
-    id: 169806
-    title: What are the key components of emotional intelligence?
+    id: 169816
+    title: >-
+        What is the relationship between self-concept and personal growth?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
 related_article2:
-    id: 169821
-    title: What are the differences between verbal and non-verbal communication?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
-related_article3:
-    id: 169813
-    title: How does cultural awareness impact patient care?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
-related_article4:
     id: 169806
-    title: What are the key components of emotional intelligence?
+    title: >-
+        What are the key components of emotional intelligence?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
+related_article3:
+    id: 169814
+    title: >-
+        What steps can be taken to enhance cultural competence?
+    subject: Nursing
+    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
+related_article4:
+    id: 169803
+    title: >-
+        How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 related_article5:
     id: 169807
-    title: How does managing emotions impact decision making?
+    title: >-
+        How does managing emotions impact decision making?
     subject: Nursing
     url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
 ---

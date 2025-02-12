@@ -2,8 +2,10 @@
 _schema: default
 id: 165882
 date: 2025-01-29
-title: What is the primary role of a university as a research institution?
-article_title: What is the primary role of a university as a research institution?
+title: >-
+    What is the primary role of a university as a research institution?
+article_title: >-
+    What is the primary role of a university as a research institution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-role-of-a-university-as-a-research-institution.md
 url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 score: -1.0
 related_article1:
-    id: 165897
-    title: How does literary criticism contribute to the analysis of cultural artefacts?
+    id: 165902
+    title: >-
+        How can individuals adapt to change through lifelong learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-literary-criticism-contribute-to-the-analysis-of-cultural-artefacts
+    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
 related_article2:
-    id: 165892
-    title: What are the key components of effective academic writing?
+    id: 165902
+    title: >-
+        How can individuals adapt to change through lifelong learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
+    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
 related_article3:
-    id: 165895
-    title: How do the arts and humanities contribute to cultural understanding and societal critique?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-the-arts-and-humanities-contribute-to-cultural-understanding-and-societal-critique
-related_article4:
     id: 165883
-    title: How does a lecturer contribute to the research focus of a university?
+    title: >-
+        How does a lecturer contribute to the research focus of a university?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-a-lecturer-contribute-to-the-research-focus-of-a-university
-related_article5:
-    id: 165887
-    title: How does lifelong learning contribute to the development of a research community?
+related_article4:
+    id: 165900
+    title: >-
+        What are effective study techniques for exam preparation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-lifelong-learning-contribute-to-the-development-of-a-research-community
+    url: /learn/education-studies/questions/what-are-effective-study-techniques-for-exam-preparation
+related_article5:
+    id: 165886
+    title: >-
+        What are the benefits of joining a research community for a student?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-joining-a-research-community-for-a-student
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162001
 date: 2025-01-24
-title: What constitutes exigent circumstances in legal terms?
-article_title: What constitutes exigent circumstances in legal terms?
+title: >-
+    What constitutes exigent circumstances in legal terms?
+article_title: >-
+    What constitutes exigent circumstances in legal terms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-constitutes-exigent-circumstances-in-legal-terms.md
 url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
 score: -1.0
 related_article1:
-    id: 162000
-    title: Discuss the application of common law in modern investigative detention.
+    id: 162012
+    title: >-
+        What are the legal standards for a search incident to arrest?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
 related_article2:
     id: 162011
-    title: Explain the police authority as defined in the Criminal Code.
+    title: >-
+        Explain the police authority as defined in the Criminal Code.
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
 related_article3:
-    id: 162004
-    title: Explain the plain view doctrine and its legal standards.
+    id: 162008
+    title: >-
+        What are Charter remedies and how do they apply in court interpretations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-plain-view-doctrine-and-its-legal-standards
+    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
 related_article4:
-    id: 162012
-    title: What are the legal standards for a search incident to arrest?
+    id: 161996
+    title: >-
+        Explain the judicial process involved in issuing a search warrant.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
+    url: /learn/criminal-or-civil-law/questions/explain-the-judicial-process-involved-in-issuing-a-search-warrant
 related_article5:
-    id: 162007
-    title: Define reasonable grounds and its importance in legal standards.
+    id: 161997
+    title: >-
+        What is the legal framework governing search and seizure?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-reasonable-grounds-and-its-importance-in-legal-standards
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 ---
 
 &nbsp;

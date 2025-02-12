@@ -2,8 +2,10 @@
 _schema: default
 id: 169261
 date: 2025-02-04
-title: What constitutes academic misconduct in terms of remote participation and unauthorized computer use?
-article_title: What constitutes academic misconduct in terms of remote participation and unauthorized computer use?
+title: >-
+    What constitutes academic misconduct in terms of remote participation and unauthorized computer use?
+article_title: >-
+    What constitutes academic misconduct in terms of remote participation and unauthorized computer use?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-constitutes-academic-misconduct-in-terms-of-remote-participation
 url: /learn/education-studies/questions/what-constitutes-academic-misconduct-in-terms-of-remote-participation-and-unauthorized-computer-use
 score: -1.0
 related_article1:
-    id: 169264
-    title: How do online readings integrate with lectures, and how are they relevant to assessments?
+    id: 169253
+    title: >-
+        How many terms are included in the definitions section, and what criteria are used for their selection?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-online-readings-integrate-with-lectures-and-how-are-they-relevant-to-assessments
+    url: /learn/education-studies/questions/how-many-terms-are-included-in-the-definitions-section-and-what-criteria-are-used-for-their-selection
 related_article2:
     id: 169262
-    title: What are the consequences of academic misconduct?
+    title: >-
+        What are the consequences of academic misconduct?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-consequences-of-academic-misconduct
 related_article3:
-    id: 169265
-    title: What key topics are covered in lecture materials, and what supplementary information is provided?
+    id: 169259
+    title: >-
+        What are the key components of the marking guidelines in the assessment criteria?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-key-topics-are-covered-in-lecture-materials-and-what-supplementary-information-is-provided
+    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
 related_article4:
-    id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
+    id: 169250
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
+    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
 related_article5:
-    id: 169264
-    title: How do online readings integrate with lectures, and how are they relevant to assessments?
+    id: 169263
+    title: >-
+        What identification is required for the test, and what items are prohibited?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-online-readings-integrate-with-lectures-and-how-are-they-relevant-to-assessments
+    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
 ---
 
 &nbsp;

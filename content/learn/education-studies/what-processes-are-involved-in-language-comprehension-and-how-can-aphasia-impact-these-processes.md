@@ -2,8 +2,10 @@
 _schema: default
 id: 164521
 date: 2025-01-28
-title: What processes are involved in language comprehension, and how can aphasia impact these processes?
-article_title: What processes are involved in language comprehension, and how can aphasia impact these processes?
+title: >-
+    What processes are involved in language comprehension, and how can aphasia impact these processes?
+article_title: >-
+    What processes are involved in language comprehension, and how can aphasia impact these processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-processes-are-involved-in-language-
 score: -1.0
 related_article1:
     id: 164522
-    title: Which brain regions are involved in speech production, and how does aphasia affect this process?
+    title: >-
+        Which brain regions are involved in speech production, and how does aphasia affect this process?
     subject: Education Studies
     url: /learn/education-studies/questions/which-brain-regions-are-involved-in-speech-production-and-how-does-aphasia-affect-this-process
 related_article2:
     id: 164514
-    title: How does damage to anterior language regions impact syntax processing?
+    title: >-
+        How does damage to anterior language regions impact syntax processing?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
 related_article3:
-    id: 164520
-    title: What tools and techniques are used in cognitive assessment, and why are they important in language studies?
+    id: 164512
+    title: >-
+        How does Wernicke's aphasia affect speech comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
+    url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
 related_article4:
-    id: 164515
-    title: What is the significance of semantics in language, and how does damage to posterior language regions affect it?
+    id: 164516
+    title: >-
+        Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
+    url: /learn/education-studies/questions/why-is-brain-connectivity-crucial-in-cognitive-processing-and-what-are-the-effects-of-disconnection-syndromes
 related_article5:
-    id: 164507
-    title: What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
+    id: 164516
+    title: >-
+        Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-transcranial-magnetic-stimulation-tms-in-cognitive-studies
+    url: /learn/education-studies/questions/why-is-brain-connectivity-crucial-in-cognitive-processing-and-what-are-the-effects-of-disconnection-syndromes
 ---
 
 &nbsp;

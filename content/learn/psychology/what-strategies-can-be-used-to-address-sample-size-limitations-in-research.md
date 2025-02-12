@@ -2,8 +2,10 @@
 _schema: default
 id: 165088
 date: 2025-01-28
-title: What strategies can be used to address sample size limitations in research?
-article_title: What strategies can be used to address sample size limitations in research?
+title: >-
+    What strategies can be used to address sample size limitations in research?
+article_title: >-
+    What strategies can be used to address sample size limitations in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-used-to-address-sample-size-limitations-in-res
 url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
 score: -1.0
 related_article1:
-    id: 165076
-    title: What are the common thresholds for p-value significance, and what do they imply for hypotheses?
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-thresholds-for-pvalue-significance-and-what-do-they-imply-for-hypotheses
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 related_article2:
+    id: 165068
+    title: >-
+        What is the role of descriptive statistics in data interpretation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
+related_article3:
+    id: 165080
+    title: >-
+        What ethical considerations must be taken into account when conducting research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+related_article4:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article5:
     id: 165069
-    title: How do you define and classify independent and dependent variables in a research study?
+    title: >-
+        How do you define and classify independent and dependent variables in a research study?
     subject: Psychology
     url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
-related_article3:
-    id: 165074
-    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
-    subject: Psychology
-    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
-related_article4:
-    id: 165086
-    title: What is the significance of main effects in research, and how are they identified?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
-related_article5:
-    id: 165073
-    title: How do you select the appropriate test for hypothesis testing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
 ---
 
 &nbsp;

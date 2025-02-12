@@ -2,8 +2,10 @@
 _schema: default
 id: 165720
 date: 2025-01-29
-title: How does hierarchical IP addressing facilitate subnetwork division?
-article_title: How does hierarchical IP addressing facilitate subnetwork division?
+title: >-
+    How does hierarchical IP addressing facilitate subnetwork division?
+article_title: >-
+    How does hierarchical IP addressing facilitate subnetwork division?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-hierarchical-ip-addressing-facilitate-subnetwork-division.md
 url: /learn/computer-science/questions/how-does-hierarchical-ip-addressing-facilitate-subnetwork-division
 score: -1.0
 related_article1:
-    id: 165707
-    title: What are the steps involved in converting a decimal number to binary?
+    id: 165713
+    title: >-
+        How is a host address represented using a combination of 0s and 1s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
+    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
 related_article2:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
-related_article3:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
-related_article4:
-    id: 165716
-    title: Define broadcast addressing and provide an example scenario where it is used.
-    subject: Computer Science
-    url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
-related_article5:
     id: 165707
-    title: What are the steps involved in converting a decimal number to binary?
+    title: >-
+        What are the steps involved in converting a decimal number to binary?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
+related_article3:
+    id: 165706
+    title: >-
+        How do you convert a binary number to a decimal number? Provide an example.
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
+related_article4:
+    id: 165721
+    title: >-
+        What is the role of the network portion in hierarchical IP addressing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
+related_article5:
+    id: 165721
+    title: >-
+        What is the role of the network portion in hierarchical IP addressing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 ---
 
 &nbsp;

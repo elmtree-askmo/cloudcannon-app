@@ -2,8 +2,10 @@
 _schema: default
 id: 169487
 date: 2025-02-05
-title: What are the benefits of encouraging patient independence during recovery?
-article_title: What are the benefits of encouraging patient independence during recovery?
+title: >-
+    What are the benefits of encouraging patient independence during recovery?
+article_title: >-
+    What are the benefits of encouraging patient independence during recovery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-encouraging-patient-independence-during-reco
 url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
 score: -1.0
 related_article1:
-    id: 169478
-    title: How does respecting patient autonomy contribute to patient-centered care?
+    id: 169493
+    title: >-
+        What are common sources of infection in healthcare, and why is hygiene important in prevention?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
 related_article2:
-    id: 169476
-    title: How can healthcare providers maintain patient dignity through consent and communication?
+    id: 169482
+    title: >-
+        How can healthcare providers balance care and patient autonomy?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
+    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
 related_article3:
-    id: 169483
-    title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
-    subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
-related_article4:
-    id: 169477
-    title: Why is effective communication crucial in addressing patient needs?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
-related_article5:
     id: 169489
-    title: What are the common causes of pressure sores, and how can they be recognized early?
+    title: >-
+        What are the common causes of pressure sores, and how can they be recognized early?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
+related_article4:
+    id: 169490
+    title: >-
+        What preventive measures can be implemented to prevent pressure sores?
+    subject: Nursing
+    url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
+related_article5:
+    id: 169486
+    title: >-
+        How can healthcare providers address patient concerns and provide reassurance?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-address-patient-concerns-and-provide-reassurance
 ---
 
 &nbsp;

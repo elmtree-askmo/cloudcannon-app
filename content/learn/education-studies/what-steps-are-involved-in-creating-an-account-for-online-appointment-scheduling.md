@@ -2,8 +2,10 @@
 _schema: default
 id: 165357
 date: 2025-01-29
-title: What steps are involved in creating an account for online appointment scheduling?
-article_title: What steps are involved in creating an account for online appointment scheduling?
+title: >-
+    What steps are involved in creating an account for online appointment scheduling?
+article_title: >-
+    What steps are involved in creating an account for online appointment scheduling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-steps-are-involved-in-creating-an-a
 score: -1.0
 related_article1:
     id: 165360
-    title: How does character analysis contribute to understanding themes in literature?
+    title: >-
+        How does character analysis contribute to understanding themes in literature?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-character-analysis-contribute-to-understanding-themes-in-literature
 related_article2:
-    id: 165358
-    title: How can students book feedback appointments through the online scheduling system?
+    id: 165355
+    title: >-
+        What is the importance of specialized feedback in academic writing support?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-book-feedback-appointments-through-the-online-scheduling-system
+    url: /learn/education-studies/questions/what-is-the-importance-of-specialized-feedback-in-academic-writing-support
 related_article3:
-    id: 165356
-    title: How does thesis development contribute to the effectiveness of a research paper?
+    id: 165361
+    title: >-
+        What are the main stages of the writing process, and how do they contribute to effective writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-thesis-development-contribute-to-the-effectiveness-of-a-research-paper
+    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
 related_article4:
-    id: 165356
-    title: How does thesis development contribute to the effectiveness of a research paper?
+    id: 165363
+    title: >-
+        What distinguishes academic writing from creative writing in terms of structure and purpose?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-thesis-development-contribute-to-the-effectiveness-of-a-research-paper
+    url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
 related_article5:
-    id: 165353
-    title: What are the differences between in-person and online writing center appointments?
+    id: 165363
+    title: >-
+        What distinguishes academic writing from creative writing in terms of structure and purpose?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-inperson-and-online-writing-center-appointments
+    url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
 ---
 
 &nbsp;

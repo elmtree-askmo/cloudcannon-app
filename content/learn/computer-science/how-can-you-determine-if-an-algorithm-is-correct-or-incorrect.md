@@ -2,8 +2,10 @@
 _schema: default
 id: 161150
 date: 2025-01-24
-title: How can you determine if an algorithm is correct or incorrect?
-article_title: How can you determine if an algorithm is correct or incorrect?
+title: >-
+    How can you determine if an algorithm is correct or incorrect?
+article_title: >-
+    How can you determine if an algorithm is correct or incorrect?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-determine-if-an-algorithm-is-correct-or-incorrect.md
 url: /learn/computer-science/questions/how-can-you-determine-if-an-algorithm-is-correct-or-incorrect
 score: -1.0
 related_article1:
-    id: 160941
-    title: How do clustering algorithms assist in medical diagnosis?
+    id: 161217
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-clustering-algorithms-assist-in-medical-diagnosis
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article2:
-    id: 160930
-    title: What factors should be considered when choosing a sorting algorithm?
+    id: 161056
+    title: >-
+        What factors should be considered when choosing a sorting algorithm?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
 related_article3:
-    id: 161054
-    title: How can you determine if an algorithm is correct or incorrect?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-determine-if-an-algorithm-is-correct-or-incorrect
-related_article4:
-    id: 161217
-    title: What is the purpose of the Discrete Fourier Transform in signal processing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
-related_article5:
     id: 160933
-    title: Why are data structures crucial in algorithm design?
+    title: >-
+        Why are data structures crucial in algorithm design?
     subject: Computer Science
     url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
+related_article4:
+    id: 161155
+    title: >-
+        Why are data structures crucial in algorithm design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
+related_article5:
+    id: 161063
+    title: >-
+        How do multicore processors influence parallel computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallel-computing
 ---
 
 &nbsp;

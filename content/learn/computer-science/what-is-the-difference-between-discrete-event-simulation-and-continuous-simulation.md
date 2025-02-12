@@ -2,8 +2,10 @@
 _schema: default
 id: 160722
 date: 2025-01-24
-title: What is the difference between discrete event simulation and continuous simulation?
-article_title: What is the difference between discrete event simulation and continuous simulation?
+title: >-
+    What is the difference between discrete event simulation and continuous simulation?
+article_title: >-
+    What is the difference between discrete event simulation and continuous simulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-discrete-event-simulation-and-continuo
 url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
 score: -1.0
 related_article1:
-    id: 160905
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    id: 161042
+    title: >-
+        What are the differences between 2D and 3D graphics representation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
+related_article2:
+    id: 160727
+    title: >-
+        What are the principles of usability in user interface design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+related_article3:
+    id: 160910
+    title: >-
+        How is machine learning applied in artificial intelligence?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-machine-learning-applied-in-artificial-intelligence
+related_article4:
+    id: 160724
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
-related_article2:
-    id: 161042
-    title: What are the differences between 2D and 3D graphics representation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
-related_article3:
-    id: 161038
-    title: What are the primary functions of database management systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
-related_article4:
-    id: 160717
-    title: What are the differences between 2D and 3D graphics representation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
 related_article5:
-    id: 161045
-    title: How is cryptography used to ensure information security?
+    id: 160714
+    title: >-
+        What are the main components of network architecture?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+    url: /learn/computer-science/questions/what-are-the-main-components-of-network-architecture
 ---
 
 &nbsp;

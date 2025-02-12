@@ -2,8 +2,10 @@
 _schema: default
 id: 169258
 date: 2025-02-04
-title: Which areas of course content are emphasized in the quiz, and which are excluded?
-article_title: Which areas of course content are emphasized in the quiz, and which are excluded?
+title: >-
+    Which areas of course content are emphasized in the quiz, and which are excluded?
+article_title: >-
+    Which areas of course content are emphasized in the quiz, and which are excluded?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-ar
 url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
 score: -1.0
 related_article1:
-    id: 169252
-    title: What is the focus of the content in the multiple choice questions?
+    id: 169265
+    title: >-
+        What key topics are covered in lecture materials, and what supplementary information is provided?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-focus-of-the-content-in-the-multiple-choice-questions
+    url: /learn/education-studies/questions/what-key-topics-are-covered-in-lecture-materials-and-what-supplementary-information-is-provided
 related_article2:
-    id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
-related_article3:
     id: 169263
-    title: What identification is required for the test, and what items are prohibited?
+    title: >-
+        What identification is required for the test, and what items are prohibited?
     subject: Education Studies
     url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
+related_article3:
+    id: 169254
+    title: >-
+        What are the two formats for answering definition questions, and how do they differ?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
 related_article4:
-    id: 169257
-    title: What are the sources of course content, and how do they relate to the quiz?
+    id: 169250
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-sources-of-course-content-and-how-do-they-relate-to-the-quiz
+    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
 related_article5:
-    id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
+    id: 169256
+    title: >-
+        What are the requirements for completeness and support in short essay answers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
+    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
 ---
 
 &nbsp;

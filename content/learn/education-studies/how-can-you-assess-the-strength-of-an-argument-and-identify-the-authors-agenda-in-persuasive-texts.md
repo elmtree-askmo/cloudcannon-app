@@ -2,8 +2,10 @@
 _schema: default
 id: 162271
 date: 2025-01-25
-title: How can you assess the strength of an argument and identify the author's agenda in persuasive texts?
-article_title: How can you assess the strength of an argument and identify the author's agenda in persuasive texts?
+title: >-
+    How can you assess the strength of an argument and identify the author's agenda in persuasive texts?
+article_title: >-
+    How can you assess the strength of an argument and identify the author's agenda in persuasive texts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-assess-the-strength-of-an-argument-and-identify-the-autho
 url: /learn/education-studies/questions/how-can-you-assess-the-strength-of-an-argument-and-identify-the-authors-agenda-in-persuasive-texts
 score: -1.0
 related_article1:
-    id: 162273
-    title: How can balancing different perspectives and recognizing limitations lead to more informed judgments when evaluating texts?
+    id: 162559
+    title: >-
+        How does word choice, including loaded language, impact the point of view presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-balancing-different-perspectives-and-recognizing-limitations-lead-to-more-informed-judgments-when-evaluating-texts
+    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
 related_article2:
-    id: 162570
-    title: What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
+    id: 162572
+    title: >-
+        What techniques are commonly used in persuasive writing to appeal to emotions and logic?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-environmental-benefits-of-a-vegetarian-diet-in-terms-of-resource-efficiency-and-greenhouse-gas-emissions
+    url: /learn/education-studies/questions/what-techniques-are-commonly-used-in-persuasive-writing-to-appeal-to-emotions-and-logic
 related_article3:
     id: 162256
-    title: What questions can help identify an author's point of view in a text?
+    title: >-
+        What questions can help identify an author's point of view in a text?
     subject: Education Studies
     url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
 related_article4:
-    id: 162568
-    title: What are the health benefits associated with a plant-based diet, particularly in terms of nutrient density and disease prevention?
+    id: 162557
+    title: >-
+        How can an author's professional affiliations and expert credentials influence their purpose in writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-health-benefits-associated-with-a-plantbased-diet-particularly-in-terms-of-nutrient-density-and-disease-prevention
+    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
 related_article5:
-    id: 162569
-    title: Why is variety important in a plant-based diet, and how can animal products be included?
+    id: 162263
+    title: >-
+        How can you evaluate the trustworthiness of information and the author's intentions in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-variety-important-in-a-plantbased-diet-and-how-can-animal-products-be-included
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-trustworthiness-of-information-and-the-authors-intentions-in-a-text
 ---
 
 &nbsp;

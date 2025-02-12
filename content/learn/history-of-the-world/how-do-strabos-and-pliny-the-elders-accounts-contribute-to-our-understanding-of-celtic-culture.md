@@ -2,8 +2,10 @@
 _schema: default
 id: 163648
 date: 2025-01-27
-title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
-article_title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+title: >-
+    How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+article_title: >-
+    How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-unders
 url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
 score: 9.5
 related_article1:
-    id: 163646
-    title: How did the concept of Interpretatio Romana affect the understanding of Celtic deities?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-concept-of-interpretatio-romana-affect-the-understanding-of-celtic-deities
-related_article2:
-    id: 163643
-    title: What are the key differences between Greek and Roman perspectives on the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
-related_article3:
-    id: 163643
-    title: What are the key differences between Greek and Roman perspectives on the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
-related_article4:
     id: 163654
-    title: How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
+    title: >-
+        How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-archaeological-finds-like-the-gundestrup-cauldron-influence-modern-interpretations-of-celtic-art
-related_article5:
+related_article2:
+    id: 163646
+    title: >-
+        How did the concept of Interpretatio Romana affect the understanding of Celtic deities?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-concept-of-interpretatio-romana-affect-the-understanding-of-celtic-deities
+related_article3:
     id: 163644
-    title: How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
+    title: >-
+        How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
+related_article4:
+    id: 163644
+    title: >-
+        How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
+related_article5:
+    id: 163647
+    title: >-
+        What types of archaeological evidence provide insights into Celtic religious practices?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-types-of-archaeological-evidence-provide-insights-into-celtic-religious-practices
 ---
 
 &nbsp;

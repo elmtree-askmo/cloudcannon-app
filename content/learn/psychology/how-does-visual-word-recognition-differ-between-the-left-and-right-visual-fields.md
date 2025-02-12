@@ -2,8 +2,10 @@
 _schema: default
 id: 164606
 date: 2025-01-28
-title: How does visual word recognition differ between the left and right visual fields?
-article_title: How does visual word recognition differ between the left and right visual fields?
+title: >-
+    How does visual word recognition differ between the left and right visual fields?
+article_title: >-
+    How does visual word recognition differ between the left and right visual fields?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-visual-word-recognition-differ-between-the-left-and-right-vi
 url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
 score: -1.0
 related_article1:
-    id: 164604
-    title: How does the arcuate fasciculus contribute to language function?
+    id: 164603
+    title: >-
+        What roles do Broca's Area and Wernicke's Area play in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
+    url: /learn/psychology/questions/what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing
 related_article2:
-    id: 164609
-    title: What are the advantages of using eye-tracking studies in human behavior analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
-related_article3:
-    id: 164614
-    title: How does cognitive linguistics view language as a cognitive tool?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-linguistics-view-language-as-a-cognitive-tool
-related_article4:
-    id: 164604
-    title: How does the arcuate fasciculus contribute to language function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
-related_article5:
     id: 164607
-    title: What is the principle behind functional MRI (fMRI) and how is it used in language research?
+    title: >-
+        What is the principle behind functional MRI (fMRI) and how is it used in language research?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
+related_article3:
+    id: 164607
+    title: >-
+        What is the principle behind functional MRI (fMRI) and how is it used in language research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
+related_article4:
+    id: 164599
+    title: >-
+        What is a phonological graph and why is it important in language development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-phonological-graph-and-why-is-it-important-in-language-development
+related_article5:
+    id: 164601
+    title: >-
+        What are the key differences between phonological, syntactic, and semantic processing in language?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
 ---
 
 &nbsp;

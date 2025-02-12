@@ -2,8 +2,10 @@
 _schema: default
 id: 169212
 date: 2025-02-04
-title: Why are Palestinian homes demolished for operational, administrative, and punitive reasons?
-article_title: Why are Palestinian homes demolished for operational, administrative, and punitive reasons?
+title: >-
+    Why are Palestinian homes demolished for operational, administrative, and punitive reasons?
+article_title: >-
+    Why are Palestinian homes demolished for operational, administrative, and punitive reasons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-palestinian-homes-demolished-for-operational-administrative-a
 url: /learn/sociology/questions/why-are-palestinian-homes-demolished-for-operational-administrative-and-punitive-reasons
 score: -1.0
 related_article1:
-    id: 169207
-    title: Explain the concept of Mitsein and its relevance to community and shared experience.
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
 related_article2:
-    id: 169213
-    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
+    id: 169204
+    title: >-
+        Define urbicide and explain its relationship with genocide.
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 related_article3:
-    id: 169203
-    title: How does urbicide differ conceptually from other forms of destruction?
+    id: 169208
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 related_article4:
-    id: 169215
-    title: How does global urbanisation pose future challenges in the context of security and conflict studies?
+    id: 169208
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
+    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 related_article5:
-    id: 169202
-    title: What are the historical origins and development of the concept of urbicide?
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-historical-origins-and-development-of-the-concept-of-urbicide
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
 ---
 
 &nbsp;

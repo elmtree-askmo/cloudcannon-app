@@ -2,8 +2,10 @@
 _schema: default
 id: 160805
 date: 2025-01-24
-title: How is proof by contradiction used to demonstrate unsolvable problems?
-article_title: How is proof by contradiction used to demonstrate unsolvable problems?
+title: >-
+    How is proof by contradiction used to demonstrate unsolvable problems?
+article_title: >-
+    How is proof by contradiction used to demonstrate unsolvable problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 score: -1.0
 related_article1:
-    id: 161126
-    title: What is the importance of algorithm representation in the initial step of algorithm development?
+    id: 161143
+    title: >-
+        How does the concept of cardinality apply to comparing infinite sets?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
+    url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
 related_article2:
-    id: 161103
-    title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
-related_article3:
-    id: 161102
-    title: What is the P vs NP problem, and why is it important in computational theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
-related_article4:
-    id: 160817
-    title: What challenges are associated with solving the traveling salesman problem?
+    id: 160964
+    title: >-
+        What challenges are associated with solving the traveling salesman problem?
     subject: Computer Science
     url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
-related_article5:
-    id: 160819
-    title: How do static and dynamic analysis techniques differ in algorithm development?
+related_article3:
+    id: 160820
+    title: >-
+        What are the mathematical implications of infinite sets in set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+related_article4:
+    id: 160963
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
+related_article5:
+    id: 161138
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 ---
 
 &nbsp;

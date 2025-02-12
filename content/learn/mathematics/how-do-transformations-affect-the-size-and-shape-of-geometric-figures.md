@@ -2,8 +2,10 @@
 _schema: default
 id: 162484
 date: 2025-01-25
-title: How do transformations affect the size and shape of geometric figures?
-article_title: How do transformations affect the size and shape of geometric figures?
+title: >-
+    How do transformations affect the size and shape of geometric figures?
+article_title: >-
+    How do transformations affect the size and shape of geometric figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
 score: -1.0
 related_article1:
-    id: 162602
-    title: What is the significance of the prime symbol notation in rotations?
+    id: 162251
+    title: >-
+        How do two-dimensional transformations preserve the properties of geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
 related_article2:
-    id: 162241
-    title: What is the role of the line of reflection in geometric reflections?
+    id: 162252
+    title: >-
+        Why are transformations important in the study of geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-the-line-of-reflection-in-geometric-reflections
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
 related_article3:
-    id: 162500
-    title: What is the significance of a fixed point in rotational transformations?
+    id: 162252
+    title: >-
+        Why are transformations important in the study of geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
 related_article4:
-    id: 162245
-    title: How are the vertices of a triangle transformed during a geometric transformation?
+    id: 162238
+    title: >-
+        How do coordinates change when a point is rotated in the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 related_article5:
-    id: 162236
-    title: Explain the difference between clockwise and counterclockwise rotation.
+    id: 162488
+    title: >-
+        How do the coordinates of a point change when it is rotated around the origin?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163904
 date: 2025-01-28
-title: In what ways did Greek myths influence the values and beliefs of ancient Greek society?
-article_title: In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+title: >-
+    In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+article_title: >-
+    In what ways did Greek myths influence the values and beliefs of ancient Greek society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-anci
 url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
 score: 9.0
 related_article1:
-    id: 163895
-    title: What role did bards play in the preservation and dissemination of Greek myths?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
-related_article2:
     id: 163900
-    title: What are some common themes found in mythological narratives?
+    title: >-
+        What are some common themes found in mythological narratives?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
+related_article2:
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
 related_article3:
-    id: 163903
-    title: How do transformation myths serve as etiological myths in Greek culture?
+    id: 163892
+    title: >-
+        What are the key structural elements of the Homeric Hymns?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
+    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
 related_article4:
-    id: 163907
-    title: How did historical events influence the development and interpretation of Greek myths over time?
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-historical-events-influence-the-development-and-interpretation-of-greek-myths-over-time
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
 related_article5:
-    id: 163902
-    title: Provide an example of a transformation myth and explain its role in Greek mythology.
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/provide-an-example-of-a-transformation-myth-and-explain-its-role-in-greek-mythology
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
 ---
 
 &nbsp;

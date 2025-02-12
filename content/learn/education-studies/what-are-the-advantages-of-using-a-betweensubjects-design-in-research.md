@@ -2,8 +2,10 @@
 _schema: default
 id: 165137
 date: 2025-01-28
-title: What are the advantages of using a between-subjects design in research?
-article_title: What are the advantages of using a between-subjects design in research?
+title: >-
+    What are the advantages of using a between-subjects design in research?
+article_title: >-
+    What are the advantages of using a between-subjects design in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-a-betweensubjects-design-in-research
 url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
 score: -1.0
 related_article1:
-    id: 165128
-    title: What is simple randomization, and where is it typically applied?
+    id: 165130
+    title: >-
+        What is the purpose of a Latin square design in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-latin-square-design-in-research
 related_article2:
-    id: 165140
-    title: How do SPSS and R differ as software tools for statistical analysis?
+    id: 165134
+    title: >-
+        How can observer bias be minimized in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
+    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
 related_article3:
-    id: 165150
-    title: What are the key differences between thematic analysis and content analysis in qualitative research?
+    id: 165122
+    title: >-
+        What are the key differences between surveys, observations, and experiments in data collection?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-surveys-observations-and-experiments-in-data-collection
 related_article4:
-    id: 165149
-    title: Why is study replication important in research, and what challenges does it face?
+    id: 165126
+    title: >-
+        What distinguishes descriptive, correlational, and experimental designs in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-study-replication-important-in-research-and-what-challenges-does-it-face
+    url: /learn/education-studies/questions/what-distinguishes-descriptive-correlational-and-experimental-designs-in-research
 related_article5:
-    id: 165128
-    title: What is simple randomization, and where is it typically applied?
+    id: 165146
+    title: >-
+        What is the distinction between causation and correlation in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
+    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
 ---
 
 &nbsp;

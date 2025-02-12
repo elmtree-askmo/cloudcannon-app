@@ -2,8 +2,10 @@
 _schema: default
 id: 164676
 date: 2025-01-28
-title: What is the role of PET scans in brain imaging?
-article_title: What is the role of PET scans in brain imaging?
+title: >-
+    What is the role of PET scans in brain imaging?
+article_title: >-
+    What is the role of PET scans in brain imaging?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-pet-scans-in-brain-imaging.md
 url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 score: -1.0
 related_article1:
-    id: 164675
-    title: How does EEG differ from MRI in terms of brain imaging?
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 related_article2:
-    id: 164672
-    title: What are the primary mechanisms of attention in cognitive processes?
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
 related_article3:
-    id: 164692
-    title: How are cognitive disorders diagnosed and treated?
+    id: 164689
+    title: >-
+        How is artificial intelligence applied in cognitive neuroscience research?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
 related_article4:
-    id: 164675
-    title: How does EEG differ from MRI in terms of brain imaging?
+    id: 164694
+    title: >-
+        What are the career paths available for students pursuing a neuroscience minor?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
 related_article5:
-    id: 164688
-    title: What are the ethical considerations in the development of neurotechnology?
+    id: 164685
+    title: >-
+        How do individual differences affect cognitive abilities?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
 ---
 
 &nbsp;

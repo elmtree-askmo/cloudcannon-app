@@ -2,8 +2,10 @@
 _schema: default
 id: 166303
 date: 2025-01-30
-title: What is the purpose of the maintenance phase in leukemia treatment?
-article_title: What is the purpose of the maintenance phase in leukemia treatment?
+title: >-
+    What is the purpose of the maintenance phase in leukemia treatment?
+article_title: >-
+    What is the purpose of the maintenance phase in leukemia treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment.md
 url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 score: -1.0
 related_article1:
-    id: 166289
-    title: What are the key changes in the bone marrow associated with leukemia pathophysiology?
+    id: 166304
+    title: >-
+        What are the distinguishing characteristics of Hodgkin's lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
+    url: /learn/health-studies/questions/what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma
 related_article2:
-    id: 166308
-    title: What are the clinical manifestations of lymph node enlargement in lymphoma?
+    id: 166309
+    title: >-
+        What constitutional symptoms are associated with lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
+    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 related_article3:
-    id: 166305
-    title: How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+    id: 166293
+    title: >-
+        Which protein markers are significant in the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
+    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
 related_article4:
-    id: 166290
-    title: How does pancytopenia manifest in leukemia patients?
+    id: 166301
+    title: >-
+        What is the goal of the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
+    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 related_article5:
-    id: 166291
-    title: What are the main types of leukemia and their distinguishing features?
+    id: 166292
+    title: >-
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
+    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 ---
 
 &nbsp;

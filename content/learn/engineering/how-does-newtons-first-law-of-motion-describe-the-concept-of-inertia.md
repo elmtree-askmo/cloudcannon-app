@@ -2,8 +2,10 @@
 _schema: default
 id: 166644
 date: 2025-01-31
-title: How does Newton's First Law of Motion describe the concept of inertia?
-article_title: How does Newton's First Law of Motion describe the concept of inertia?
+title: >-
+    How does Newton's First Law of Motion describe the concept of inertia?
+article_title: >-
+    How does Newton's First Law of Motion describe the concept of inertia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia.
 url: /learn/engineering/questions/how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia
 score: -1.0
 related_article1:
-    id: 166648
-    title: What is a position vector and how is it used to determine force direction in mechanics?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
-related_article2:
-    id: 166640
-    title: How does a concentrated force affect the equilibrium of a body in statics?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
-related_article3:
-    id: 166650
-    title: What are derived units and why are they important in engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
-related_article4:
     id: 166645
-    title: What is the significance of vectors having both magnitude and direction in mechanics?
+    title: >-
+        What is the significance of vectors having both magnitude and direction in mechanics?
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
-related_article5:
-    id: 166643
-    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+related_article2:
+    id: 166642
+    title: >-
+        Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+    url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
+related_article3:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article4:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
 ---
 
 &nbsp;

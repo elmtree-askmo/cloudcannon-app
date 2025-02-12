@@ -2,8 +2,10 @@
 _schema: default
 id: 170576
 date: 2025-02-06
-title: What is the role of the prefrontal cortex in working memory?
-article_title: What is the role of the prefrontal cortex in working memory?
+title: >-
+    What is the role of the prefrontal cortex in working memory?
+article_title: >-
+    What is the role of the prefrontal cortex in working memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-prefrontal-cortex-in-working-memory.md
 url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
 score: -1.0
 related_article1:
-    id: 170589
-    title: What is the role of serotonin in mood regulation and behavior?
+    id: 170584
+    title: >-
+        How does the olfactory bulb process sensory input related to smell?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
 related_article2:
-    id: 170586
-    title: How does the temporal lobe contribute to auditory processing and facial recognition?
+    id: 170564
+    title: >-
+        How does the hippocampus contribute to long-term memory formation?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
+    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
 related_article3:
-    id: 170570
-    title: What is the significance of the diencephalon in brain function?
+    id: 170585
+    title: >-
+        What functions are associated with the frontal lobe in terms of personality and planning?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
+    url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
 related_article4:
-    id: 170592
-    title: How do materialistic perspectives explain consciousness?
+    id: 170593
+    title: >-
+        What are the potential causes and effects of brain damage from trauma and stroke?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
 related_article5:
-    id: 170583
-    title: What is the role of the limbic system in emotional processing and PTSD?
+    id: 170580
+    title: >-
+        What are the effects of trauma on epigenetic changes in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
 ---
 
 &nbsp;

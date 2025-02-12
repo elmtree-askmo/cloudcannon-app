@@ -2,8 +2,10 @@
 _schema: default
 id: 164484
 date: 2025-01-28
-title: What distinguishes explicit memory from implicit memory?
-article_title: What distinguishes explicit memory from implicit memory?
+title: >-
+    What distinguishes explicit memory from implicit memory?
+article_title: >-
+    What distinguishes explicit memory from implicit memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-explicit-memory-from-implicit-memory.md
 url: /learn/psychology/questions/what-distinguishes-explicit-memory-from-implicit-memory
 score: -1.0
 related_article1:
-    id: 164491
-    title: What is the role of acetylcholine in memory?
+    id: 164479
+    title: >-
+        What are the main differences between retrograde and anterograde amnesia?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 related_article2:
     id: 164495
-    title: What are some effective techniques to improve memory retention?
+    title: >-
+        What are some effective techniques to improve memory retention?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
 related_article3:
-    id: 164481
-    title: How did Patient HM contribute to our understanding of memory?
+    id: 164495
+    title: >-
+        What are some effective techniques to improve memory retention?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
 related_article4:
-    id: 164482
-    title: What is the role of unconscious learning in implicit memory?
+    id: 164489
+    title: >-
+        How does Alzheimer's disease affect consciousness?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
 related_article5:
-    id: 164499
-    title: How are learning processes related to memory consolidation?
+    id: 164500
+    title: >-
+        What are the educational implications of understanding learning and memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
+    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
 ---
 
 &nbsp;

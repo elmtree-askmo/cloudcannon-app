@@ -2,8 +2,10 @@
 _schema: default
 id: 164732
 date: 2025-01-28
-title: What is the functional and clinical significance of the longitudinal fissure in the brain?
-article_title: What is the functional and clinical significance of the longitudinal fissure in the brain?
+title: >-
+    What is the functional and clinical significance of the longitudinal fissure in the brain?
+article_title: >-
+    What is the functional and clinical significance of the longitudinal fissure in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-functional-and-clinical-significance-of-the-longitudinal-
 url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
 score: -1.0
 related_article1:
-    id: 164739
-    title: What are the main types of seizures associated with epilepsy?
+    id: 164750
+    title: >-
+        Explain the importance of understanding neuroanatomy in clinical applications.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
 related_article2:
+    id: 164752
+    title: >-
+        What is the role of white matter tracts in brain connectivity?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
+related_article3:
+    id: 164741
+    title: >-
+        What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
+related_article4:
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
+related_article5:
     id: 164723
-    title: How do superior and inferior directional terms apply in clinical settings?
+    title: >-
+        How do superior and inferior directional terms apply in clinical settings?
     subject: Nursing
     url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
-related_article3:
-    id: 164736
-    title: How is EEG used in the diagnosis of epilepsy?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
-related_article4:
-    id: 164727
-    title: What is a sagittal slice and how does it differ from coronal and axial slices?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-a-sagittal-slice-and-how-does-it-differ-from-coronal-and-axial-slices
-related_article5:
-    id: 164722
-    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
 ---
 
 &nbsp;

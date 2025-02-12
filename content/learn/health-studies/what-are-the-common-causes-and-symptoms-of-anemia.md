@@ -2,8 +2,10 @@
 _schema: default
 id: 166313
 date: 2025-01-30
-title: What are the common causes and symptoms of anemia?
-article_title: What are the common causes and symptoms of anemia?
+title: >-
+    What are the common causes and symptoms of anemia?
+article_title: >-
+    What are the common causes and symptoms of anemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-causes-and-symptoms-of-anemia.md
 url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
 score: -1.0
 related_article1:
-    id: 166307
-    title: How do solid tumors form in lymphoma?
+    id: 166309
+    title: >-
+        What constitutional symptoms are associated with lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
+    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 related_article2:
-    id: 166306
-    title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
-related_article3:
-    id: 166306
-    title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
-related_article4:
     id: 166297
-    title: What viral infections are associated with an increased risk of leukemia?
+    title: >-
+        What viral infections are associated with an increased risk of leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
-related_article5:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+related_article3:
+    id: 166315
+    title: >-
+        What are the causes and symptoms of leukopenia and neutropenia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+related_article4:
+    id: 166305
+    title: >-
+        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
+related_article5:
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 ---
 
 &nbsp;

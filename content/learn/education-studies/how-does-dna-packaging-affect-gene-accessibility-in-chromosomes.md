@@ -2,8 +2,10 @@
 _schema: default
 id: 167897
 date: 2025-02-01
-title: How does DNA packaging affect gene accessibility in chromosomes?
-article_title: How does DNA packaging affect gene accessibility in chromosomes?
+title: >-
+    How does DNA packaging affect gene accessibility in chromosomes?
+article_title: >-
+    How does DNA packaging affect gene accessibility in chromosomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-dna-packaging-affect-gene-accessibility-in-chromosomes.md
 url: /learn/education-studies/questions/how-does-dna-packaging-affect-gene-accessibility-in-chromosomes
 score: -1.0
 related_article1:
+    id: 167904
+    title: >-
+        How do amino acids contribute to protein structure and function?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-amino-acids-contribute-to-protein-structure-and-function
+related_article2:
+    id: 167898
+    title: >-
+        Describe the stages of mitosis and its role in cellular growth.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-stages-of-mitosis-and-its-role-in-cellular-growth
+related_article3:
     id: 167912
-    title: What are the types of genetic tests available and their purposes?
+    title: >-
+        What are the types of genetic tests available and their purposes?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-types-of-genetic-tests-available-and-their-purposes
-related_article2:
-    id: 167902
-    title: Describe the double helix model of DNA and the importance of base pairing.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-double-helix-model-of-dna-and-the-importance-of-base-pairing
-related_article3:
-    id: 167901
-    title: How do ribosomes facilitate the translation process from RNA to protein?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ribosomes-facilitate-the-translation-process-from-rna-to-protein
 related_article4:
-    id: 167901
-    title: How do ribosomes facilitate the translation process from RNA to protein?
+    id: 167904
+    title: >-
+        How do amino acids contribute to protein structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ribosomes-facilitate-the-translation-process-from-rna-to-protein
+    url: /learn/education-studies/questions/how-do-amino-acids-contribute-to-protein-structure-and-function
 related_article5:
-    id: 167910
-    title: What are the ethical considerations in genetic disease research?
+    id: 167895
+    title: >-
+        How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
+    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
 ---
 
 &nbsp;

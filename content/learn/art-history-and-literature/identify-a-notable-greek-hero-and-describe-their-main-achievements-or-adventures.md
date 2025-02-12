@@ -2,8 +2,10 @@
 _schema: default
 id: 163890
 date: 2025-01-28
-title: Identify a notable Greek hero and describe their main achievements or adventures.
-article_title: Identify a notable Greek hero and describe their main achievements or adventures.
+title: >-
+    Identify a notable Greek hero and describe their main achievements or adventures.
+article_title: >-
+    Identify a notable Greek hero and describe their main achievements or adventures.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-a-notable-greek-hero-and-describe-their-main-achievements-or
 url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
 score: 8.5
 related_article1:
-    id: 163898
-    title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+    id: 163896
+    title: >-
+        List the defining characteristics of epic poetry in ancient Greek literature.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
+    url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
 related_article2:
-    id: 163903
-    title: How do transformation myths serve as etiological myths in Greek culture?
+    id: 163906
+    title: >-
+        Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
+    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
 related_article3:
-    id: 163901
-    title: How do character epithets function within Greek mythology, and why are they significant?
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
 related_article4:
-    id: 163897
-    title: How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
+    id: 163888
+    title: >-
+        Who are the major Olympian deities in Greek mythology, and what are their primary domains?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
+    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
 related_article5:
-    id: 163897
-    title: How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
+    id: 163893
+    title: >-
+        Discuss the main themes found in the Homeric Hymns.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
+    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
 ---
 
 &nbsp;

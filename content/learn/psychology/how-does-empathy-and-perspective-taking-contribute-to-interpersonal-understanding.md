@@ -2,8 +2,10 @@
 _schema: default
 id: 167980
 date: 2025-02-02
-title: How does empathy and perspective taking contribute to interpersonal understanding?
-article_title: How does empathy and perspective taking contribute to interpersonal understanding?
+title: >-
+    How does empathy and perspective taking contribute to interpersonal understanding?
+article_title: >-
+    How does empathy and perspective taking contribute to interpersonal understanding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-empathy-and-perspective-taking-contribute-to-interpersonal-u
 url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
 score: -1.0
 related_article1:
+    id: 167976
+    title: >-
+        Explain the concept of mental state attribution in cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mental-state-attribution-in-cognitive-psychology
+related_article2:
+    id: 167978
+    title: >-
+        How do individuals differentiate between reality and belief, and how does this influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+related_article3:
     id: 167981
-    title: What are some key theories and models in developmental psychology related to social cognition?
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
-related_article2:
+related_article4:
     id: 167979
-    title: What is the role of beliefs and desires in decision making?
+    title: >-
+        What is the role of beliefs and desires in decision making?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
-related_article3:
-    id: 167971
-    title: At what age range does Theory of Mind typically develop in children, and what factors influence its development?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
-related_article4:
-    id: 167974
-    title: What cognitive milestones are associated with understanding mental states in child development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
 related_article5:
-    id: 167974
-    title: What cognitive milestones are associated with understanding mental states in child development?
+    id: 167979
+    title: >-
+        What is the role of beliefs and desires in decision making?
     subject: Psychology
-    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 ---
 
 &nbsp;

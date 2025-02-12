@@ -2,8 +2,10 @@
 _schema: default
 id: 166329
 date: 2025-01-30
-title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
-article_title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+title: >-
+    How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+article_title: >-
+    How do learning processes, such as individual and social learning, impact the development of behavior in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-learning-processes-such-as-individual-and-social-learning-impa
 url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
 score: -1.0
 related_article1:
-    id: 166324
-    title: How does individual learning contribute to natural selection in animals?
+    id: 166321
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
     subject: Biology
-    url: /learn/biology/questions/how-does-individual-learning-contribute-to-natural-selection-in-animals
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 related_article2:
-    id: 166319
-    title: What are the key characteristics that define animal behavior?
+    id: 166336
+    title: >-
+        What is the relationship between fitness, survival, and reproduction in the context of natural selection?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
+    url: /learn/biology/questions/what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection
 related_article3:
-    id: 166323
-    title: What role does natural selection play in the evolutionary change of animal behavior?
+    id: 166326
+    title: >-
+        How do genetic changes influence the mechanism of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
 related_article4:
-    id: 166333
-    title: How do predator-prey interactions influence the phenotypes and survival strategies of animals?
+    id: 166331
+    title: >-
+        How does heritability contribute to evolutionary change and variation in traits?
     subject: Biology
-    url: /learn/biology/questions/how-do-predatorprey-interactions-influence-the-phenotypes-and-survival-strategies-of-animals
+    url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
 related_article5:
-    id: 166319
-    title: What are the key characteristics that define animal behavior?
+    id: 166326
+    title: >-
+        How do genetic changes influence the mechanism of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
+    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
 ---
 
 &nbsp;

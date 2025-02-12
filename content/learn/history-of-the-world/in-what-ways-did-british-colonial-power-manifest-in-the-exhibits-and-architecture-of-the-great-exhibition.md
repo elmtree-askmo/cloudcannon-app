@@ -2,8 +2,10 @@
 _schema: default
 id: 163982
 date: 2025-01-28
-title: In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
-article_title: In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
+title: >-
+    In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
+article_title: >-
+    In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-
 url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
 score: 9.0
 related_article1:
-    id: 163993
-    title: What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-concept-of-the-antimonument-and-how-do-contemporary-artistic-responses-critique-historical-narratives
-related_article2:
-    id: 163988
-    title: How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
-related_article3:
-    id: 163987
-    title: How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
-related_article4:
-    id: 163995
-    title: How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
-related_article5:
     id: 163984
-    title: How did the development of public museums transition from private collections, and what was their educational purpose?
+    title: >-
+        How did the development of public museums transition from private collections, and what was their educational purpose?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
+related_article2:
+    id: 163991
+    title: >-
+        What is the historical significance of the Crystal Palace's relocation, reconstruction, and eventual destruction?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-crystal-palaces-relocation-reconstruction-and-eventual-destruction
+related_article3:
+    id: 163995
+    title: >-
+        How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
+related_article4:
+    id: 163984
+    title: >-
+        How did the development of public museums transition from private collections, and what was their educational purpose?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
+related_article5:
+    id: 163978
+    title: >-
+        What were the origins of World Expos, and how did they evolve over time?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-origins-of-world-expos-and-how-did-they-evolve-over-time
 ---
 
 &nbsp;

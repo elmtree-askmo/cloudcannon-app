@@ -2,8 +2,10 @@
 _schema: default
 id: 159815
 date: 2025-01-23
-title: What are the key components of formal analysis when visually analyzing artworks?
-article_title: What are the key components of formal analysis when visually analyzing artworks?
+title: >-
+    What are the key components of formal analysis when visually analyzing artworks?
+article_title: >-
+    What are the key components of formal analysis when visually analyzing artworks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-formal-analysis-when-visually-analyzin
 url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
 score: -1.0
 related_article1:
-    id: 159755
-    title: How can contextual analysis enhance the understanding of an artwork's meaning?
+    id: 160015
+    title: >-
+        Describe the main characteristics of Realism as an artistic movement.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-contextual-analysis-enhance-the-understanding-of-an-artworks-meaning
+    url: /learn/education-studies/questions/describe-the-main-characteristics-of-realism-as-an-artistic-movement
 related_article2:
-    id: 159808
-    title: What role did colonialism play in shaping European art and its interaction with non-European cultures?
+    id: 159749
+    title: >-
+        How did Expressionism aim to represent emotions through artistic styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-colonialism-play-in-shaping-european-art-and-its-interaction-with-noneuropean-cultures
+    url: /learn/education-studies/questions/how-did-expressionism-aim-to-represent-emotions-through-artistic-styles
 related_article3:
-    id: 159809
-    title: What innovations in the use of light and color were introduced during the development of new artistic techniques?
+    id: 160012
+    title: >-
+        How did technological advancements during the Industrial Revolution influence modern art?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
+    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
 related_article4:
-    id: 159814
-    title: How has technology influenced the integration of new media in art?
+    id: 160012
+    title: >-
+        How did technological advancements during the Industrial Revolution influence modern art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-has-technology-influenced-the-integration-of-new-media-in-art
+    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
 related_article5:
-    id: 159746
-    title: How did Victorian society influence the representation of gender in art?
+    id: 159810
+    title: >-
+        How did Expressionism represent emotions differently from previous art styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+    url: /learn/education-studies/questions/how-did-expressionism-represent-emotions-differently-from-previous-art-styles
 ---
 
 &nbsp;

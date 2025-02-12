@@ -2,8 +2,10 @@
 _schema: default
 id: 168105
 date: 2025-02-02
-title: Provide an example of deferred imitation and explain its significance.
-article_title: Provide an example of deferred imitation and explain its significance.
+title: >-
+    Provide an example of deferred imitation and explain its significance.
+article_title: >-
+    Provide an example of deferred imitation and explain its significance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-deferred-imitation-and-explain-its-significance
 url: /learn/psychology/questions/provide-an-example-of-deferred-imitation-and-explain-its-significance
 score: -1.0
 related_article1:
-    id: 168095
-    title: Provide an example of a primary circular reaction.
+    id: 168098
+    title: >-
+        Explain the coordination of secondary circular reactions and provide an example.
     subject: Psychology
-    url: /learn/psychology/questions/provide-an-example-of-a-primary-circular-reaction
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
 related_article2:
-    id: 168104
-    title: What is make-believe play, and why is it important for cognitive development?
+    id: 168094
+    title: >-
+        What are primary circular reactions, and at what age do they typically occur?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
+    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
 related_article3:
-    id: 168108
-    title: What are mental representations, and how do they aid in problem-solving?
+    id: 168101
+    title: >-
+        What is object permanence, and why is it important in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
 related_article4:
-    id: 168108
-    title: What are mental representations, and how do they aid in problem-solving?
+    id: 168092
+    title: >-
+        What is the age range for the sensorimotor stage in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 related_article5:
-    id: 168102
-    title: At what age do children typically develop object permanence?
+    id: 168097
+    title: >-
+        At what age do secondary circular reactions typically develop?
     subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166428
 date: 2025-01-30
-title: Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
-article_title: Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+title: >-
+    Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+article_title: >-
+    Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-d
 url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
 score: -1.0
 related_article1:
-    id: 166435
-    title: Define dissolution and explain its importance in drug absorption.
-    subject: Nursing
-    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
-related_article2:
-    id: 166427
-    title: What are the phases of biotransformation, and how do they contribute to drug metabolism?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
-related_article3:
-    id: 166432
-    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
-    subject: Nursing
-    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
-related_article4:
     id: 166438
-    title: What is a black box warning, and what is its purpose in pharmacology?
+    title: >-
+        What is a black box warning, and what is its purpose in pharmacology?
     subject: Nursing
     url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
-related_article5:
-    id: 166426
-    title: Define bioavailability and identify two factors that influence it.
+related_article2:
+    id: 166430
+    title: >-
+        How is the peak level of a drug measured, and why is it clinically relevant?
     subject: Nursing
-    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
+    url: /learn/nursing/questions/how-is-the-peak-level-of-a-drug-measured-and-why-is-it-clinically-relevant
+related_article3:
+    id: 166427
+    title: >-
+        What are the phases of biotransformation, and how do they contribute to drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
 ---
 
 &nbsp;

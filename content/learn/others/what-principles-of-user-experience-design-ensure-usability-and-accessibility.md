@@ -2,8 +2,10 @@
 _schema: default
 id: 162374
 date: 2025-01-25
-title: What principles of user experience design ensure usability and accessibility?
-article_title: What principles of user experience design ensure usability and accessibility?
+title: >-
+    What principles of user experience design ensure usability and accessibility?
+article_title: >-
+    What principles of user experience design ensure usability and accessibility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-principles-of-user-experience-design-ensure-usability-and-access
 url: /learn/others/questions/what-principles-of-user-experience-design-ensure-usability-and-accessibility
 score: -1.0
 related_article1:
-    id: 162670
-    title: What are the best practices for responsive design and SEO optimization in web development?
+    id: 162836
+    title: >-
+        What are the challenges of overfitting and model validation in predictive modeling?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
+    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
 related_article2:
-    id: 162369
-    title: What are the differences between the Waterfall and Agile methodologies in software development?
+    id: 162773
+    title: >-
+        What ethical considerations are associated with the development of autonomous vehicles?
     subject: Others
-    url: /learn/others/questions/what-are-the-differences-between-the-waterfall-and-agile-methodologies-in-software-development
+    url: /learn/others/questions/what-ethical-considerations-are-associated-with-the-development-of-autonomous-vehicles
 related_article3:
-    id: 162715
-    title: How do Tableau and Power BI differ in their approach to data visualization?
+    id: 162664
+    title: >-
+        How do Python, Java, and JavaScript differ in their use cases and popularity?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-and-power-bi-differ-in-their-approach-to-data-visualization
+    url: /learn/others/questions/how-do-python-java-and-javascript-differ-in-their-use-cases-and-popularity
 related_article4:
-    id: 162357
-    title: What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
+    id: 162425
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis techniques?
     subject: Others
-    url: /learn/others/questions/what-are-the-core-concepts-of-artificial-intelligence-and-how-do-they-apply-to-autonomous-vehicles-and-virtual-assistants
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis-techniques
 related_article5:
-    id: 162726
-    title: What are the key components of an information system, and how do they interact?
+    id: 162669
+    title: >-
+        How do LAN and WAN differ in network architecture?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture
 ---
 
 &nbsp;

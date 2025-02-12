@@ -2,8 +2,10 @@
 _schema: default
 id: 165643
 date: 2025-01-29
-title: How does DNS facilitate domain name resolution?
-article_title: How does DNS facilitate domain name resolution?
+title: >-
+    How does DNS facilitate domain name resolution?
+article_title: >-
+    How does DNS facilitate domain name resolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-dns-facilitate-domain-name-resolution.md
 url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
 score: -1.0
 related_article1:
+    id: 165652
+    title: >-
+        What are the steps involved in the DHCP process for dynamic address assignment?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
+related_article2:
     id: 165648
-    title: What are the main differences between HTTP and HTTPS in terms of security?
+    title: >-
+        What are the main differences between HTTP and HTTPS in terms of security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-differences-between-http-and-https-in-terms-of-security
-related_article2:
-    id: 165639
-    title: What is the primary role of the Application Layer in the OSI model?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-application-layer-in-the-osi-model
 related_article3:
     id: 165648
-    title: What are the main differences between HTTP and HTTPS in terms of security?
+    title: >-
+        What are the main differences between HTTP and HTTPS in terms of security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-differences-between-http-and-https-in-terms-of-security
 related_article4:
-    id: 165650
-    title: What are the differences between POP and IMAP protocols?
+    id: 165645
+    title: >-
+        Explain the difference between the client-server model and peer-to-peer networks.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
+    url: /learn/computer-science/questions/explain-the-difference-between-the-clientserver-model-and-peertopeer-networks
 related_article5:
-    id: 165654
-    title: What functions does the Server Message Block (SMB) protocol provide?
+    id: 165642
+    title: >-
+        What are the key specifications of TCP/IP Application Layer protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functions-does-the-server-message-block-smb-protocol-provide
+    url: /learn/computer-science/questions/what-are-the-key-specifications-of-tcpip-application-layer-protocols
 ---
 
 &nbsp;

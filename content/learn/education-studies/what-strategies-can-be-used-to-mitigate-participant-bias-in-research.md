@@ -2,8 +2,10 @@
 _schema: default
 id: 165133
 date: 2025-01-28
-title: What strategies can be used to mitigate participant bias in research?
-article_title: What strategies can be used to mitigate participant bias in research?
+title: >-
+    What strategies can be used to mitigate participant bias in research?
+article_title: >-
+    What strategies can be used to mitigate participant bias in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-used-to-mitigate-participant-bias-in-research.
 url: /learn/education-studies/questions/what-strategies-can-be-used-to-mitigate-participant-bias-in-research
 score: -1.0
 related_article1:
-    id: 165137
-    title: What are the advantages of using a between-subjects design in research?
+    id: 165150
+    title: >-
+        What are the key differences between thematic analysis and content analysis in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
 related_article2:
+    id: 165125
+    title: >-
+        How can task management and progress tracking be effectively executed in project management?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-task-management-and-progress-tracking-be-effectively-executed-in-project-management
+related_article3:
     id: 165126
-    title: What distinguishes descriptive, correlational, and experimental designs in research?
+    title: >-
+        What distinguishes descriptive, correlational, and experimental designs in research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-distinguishes-descriptive-correlational-and-experimental-designs-in-research
-related_article3:
-    id: 165146
-    title: What is the distinction between causation and correlation in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
 related_article4:
-    id: 165151
-    title: How do regression analysis and ANOVA differ in quantitative data analysis?
+    id: 165147
+    title: >-
+        What are the implications of confusing causation with correlation in research findings?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-are-the-implications-of-confusing-causation-with-correlation-in-research-findings
 related_article5:
-    id: 165144
-    title: What negative impacts can video games have on stress levels?
+    id: 165135
+    title: >-
+        What is the purpose of using control groups in experimental research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-negative-impacts-can-video-games-have-on-stress-levels
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
 ---
 
 &nbsp;

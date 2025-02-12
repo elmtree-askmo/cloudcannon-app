@@ -2,8 +2,10 @@
 _schema: default
 id: 163340
 date: 2025-01-26
-title: What is the difference between absolute and relative measures of association?
-article_title: What is the difference between absolute and relative measures of association?
+title: >-
+    What is the difference between absolute and relative measures of association?
+article_title: >-
+    What is the difference between absolute and relative measures of association?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-absolute-and-relative-measures-of-asso
 url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
 score: -1.0
 related_article1:
-    id: 163228
-    title: How is a ratio different from a proportion in epidemiological studies?
+    id: 163077
+    title: >-
+        How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
+related_article2:
+    id: 163244
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+related_article3:
+    id: 163325
+    title: >-
+        What is the difference between fixed and dynamic populations in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+related_article4:
+    id: 163065
+    title: >-
+        How is a ratio different from a proportion in epidemiological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
-related_article2:
-    id: 163338
-    title: What are the limitations of using person-years of observation in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
-related_article3:
-    id: 163069
-    title: What are the critical assumptions when calculating cumulative incidence?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
-related_article4:
-    id: 163074
-    title: What is the significance of years of potential life lost (YPLL) in public health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
 related_article5:
-    id: 163073
-    title: How is person-years of observation calculated, and why is it important in dynamic populations?
+    id: 163243
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
 ---
 
 &nbsp;

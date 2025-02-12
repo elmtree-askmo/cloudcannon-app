@@ -2,8 +2,10 @@
 _schema: default
 id: 161893
 date: 2025-01-24
-title: What are the key components of constructing a strong thesis statement in literary analysis?
-article_title: What are the key components of constructing a strong thesis statement in literary analysis?
+title: >-
+    What are the key components of constructing a strong thesis statement in literary analysis?
+article_title: >-
+    What are the key components of constructing a strong thesis statement in literary analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-constructing-a-strong-thesis-statement
 url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
 score: 9.0
 related_article1:
-    id: 161892
-    title: How does breaking down texts help in uncovering an author's intent?
+    id: 161891
+    title: >-
+        What is the primary purpose of literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-breaking-down-texts-help-in-uncovering-an-authors-intent
+    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-analysis
 related_article2:
+    id: 161902
+    title: >-
+        What strategies can be employed to structure a logical argument in literary analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-structure-a-logical-argument-in-literary-analysis
+related_article3:
+    id: 161901
+    title: >-
+        How does the use of imagery contribute to emotional evocation in literature?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-literature
+related_article4:
     id: 161895
-    title: How can diction and tone influence the interpretation of a text?
+    title: >-
+        How can diction and tone influence the interpretation of a text?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-can-diction-and-tone-influence-the-interpretation-of-a-text
-related_article3:
-    id: 161894
-    title: Why is close reading essential in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-essential-in-literary-analysis
-related_article4:
-    id: 161894
-    title: Why is close reading essential in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-essential-in-literary-analysis
 related_article5:
-    id: 161898
-    title: What rhetorical techniques does Shakespeare use to critique social norms?
+    id: 161899
+    title: >-
+        How can logical reasoning be used to identify cause and effect relationships in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
+    url: /learn/art-history-and-literature/questions/how-can-logical-reasoning-be-used-to-identify-cause-and-effect-relationships-in-literary-analysis
 ---
 
 &nbsp;

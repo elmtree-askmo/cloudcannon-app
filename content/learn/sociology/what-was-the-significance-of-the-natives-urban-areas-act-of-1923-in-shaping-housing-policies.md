@@ -2,8 +2,10 @@
 _schema: default
 id: 169142
 date: 2025-02-04
-title: What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
-article_title: What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
+title: >-
+    What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
+article_title: >-
+    What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-significance-of-the-natives-urban-areas-act-of-1923-in-s
 url: /learn/sociology/questions/what-was-the-significance-of-the-natives-urban-areas-act-of-1923-in-shaping-housing-policies
 score: -1.0
 related_article1:
-    id: 169152
-    title: What were the municipal strategies and reforms aimed at addressing housing and location policies?
+    id: 169148
+    title: >-
+        How did the demand for African labor influence housing policies in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
+    url: /learn/sociology/questions/how-did-the-demand-for-african-labor-influence-housing-policies-in-johannesburg
 related_article2:
     id: 169147
-    title: What was the impact of racial discourse on social stratification in Johannesburg?
+    title: >-
+        What was the impact of racial discourse on social stratification in Johannesburg?
     subject: Sociology
     url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
 related_article3:
-    id: 169151
-    title: How did early 20th-century legislation impact urban segregation in Johannesburg?
+    id: 169150
+    title: >-
+        What were the main challenges in urban planning related to slum conditions in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
 related_article4:
-    id: 169143
-    title: How did municipal ordinances impact housing for the multi-racial working class?
+    id: 169146
+    title: >-
+        How did segregationist policies affect racial identity and residential control in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+    url: /learn/sociology/questions/how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg
 related_article5:
-    id: 169151
-    title: How did early 20th-century legislation impact urban segregation in Johannesburg?
+    id: 169145
+    title: >-
+        What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
+    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
 ---
 
 &nbsp;

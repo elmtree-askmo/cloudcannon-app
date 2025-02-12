@@ -2,8 +2,10 @@
 _schema: default
 id: 167843
 date: 2025-02-01
-title: What is the significance of quantitative traits in genetics, and how are they measured?
-article_title: What is the significance of quantitative traits in genetics, and how are they measured?
+title: >-
+    What is the significance of quantitative traits in genetics, and how are they measured?
+article_title: >-
+    What is the significance of quantitative traits in genetics, and how are they measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-quantitative-traits-in-genetics-and-how-a
 url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
 score: -1.0
 related_article1:
-    id: 167848
-    title: How do multiple alleles contribute to genetic diversity within a population?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
-related_article2:
-    id: 167846
-    title: What is the role of standard deviation and variance in analyzing genetic data?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-standard-deviation-and-variance-in-analyzing-genetic-data
-related_article3:
     id: 167847
-    title: Describe the concept of gene redundancy and its potential effects on genetic expression.
+    title: >-
+        Describe the concept of gene redundancy and its potential effects on genetic expression.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-concept-of-gene-redundancy-and-its-potential-effects-on-genetic-expression
+related_article2:
+    id: 167838
+    title: >-
+        What is epistasis, and how does it affect genetic pathways? Provide an example.
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-epistasis-and-how-does-it-affect-genetic-pathways-provide-an-example
+related_article3:
+    id: 167841
+    title: >-
+        Describe polygenic inheritance and provide an example of how multiple genes contribute additively to a trait.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-polygenic-inheritance-and-provide-an-example-of-how-multiple-genes-contribute-additively-to-a-trait
 related_article4:
-    id: 167844
-    title: Explain the concept of heritability and its importance in understanding genetic variance.
+    id: 167849
+    title: >-
+        What is the difference between incomplete dominance and incomplete penetrance?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
+    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
 related_article5:
-    id: 167848
-    title: How do multiple alleles contribute to genetic diversity within a population?
+    id: 167840
+    title: >-
+        What are gene modification effects, and how can they impact genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
+    url: /learn/education-studies/questions/what-are-gene-modification-effects-and-how-can-they-impact-genetic-expression
 ---
 
 &nbsp;

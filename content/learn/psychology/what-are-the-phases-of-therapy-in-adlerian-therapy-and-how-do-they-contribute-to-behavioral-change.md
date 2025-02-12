@@ -2,8 +2,10 @@
 _schema: default
 id: 163005
 date: 2025-01-26
-title: What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
-article_title: What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+title: >-
+    What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+article_title: >-
+    What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-co
 url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
 score: -1.0
 related_article1:
-    id: 163007
-    title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    id: 163008
+    title: >-
+        How does emotional resilience relate to social connectedness and mental health in Adlerian therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
+    url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
 related_article2:
-    id: 162996
-    title: What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    id: 163008
+    title: >-
+        How does emotional resilience relate to social connectedness and mental health in Adlerian therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
+    url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
 related_article3:
-    id: 163000
-    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    id: 163008
+    title: >-
+        How does emotional resilience relate to social connectedness and mental health in Adlerian therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+    url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
 related_article4:
-    id: 163000
-    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    id: 163009
+    title: >-
+        What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
 related_article5:
-    id: 163007
-    title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    id: 163006
+    title: >-
+        How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
 ---
 
 &nbsp;

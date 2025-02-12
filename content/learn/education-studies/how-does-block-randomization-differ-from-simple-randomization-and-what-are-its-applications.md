@@ -2,8 +2,10 @@
 _schema: default
 id: 165129
 date: 2025-01-28
-title: How does block randomization differ from simple randomization, and what are its applications?
-article_title: How does block randomization differ from simple randomization, and what are its applications?
+title: >-
+    How does block randomization differ from simple randomization, and what are its applications?
+article_title: >-
+    How does block randomization differ from simple randomization, and what are its applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-block-randomization-differ-from-simple-randomization-and-wha
 url: /learn/education-studies/questions/how-does-block-randomization-differ-from-simple-randomization-and-what-are-its-applications
 score: -1.0
 related_article1:
-    id: 165145
-    title: How do qualitative and quantitative research methodologies differ?
+    id: 165141
+    title: >-
+        What role does dopamine play in stress and behavior?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-qualitative-and-quantitative-research-methodologies-differ
+    url: /learn/education-studies/questions/what-role-does-dopamine-play-in-stress-and-behavior
 related_article2:
-    id: 165150
-    title: What are the key differences between thematic analysis and content analysis in qualitative research?
+    id: 165128
+    title: >-
+        What is simple randomization, and where is it typically applied?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
+    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
 related_article3:
-    id: 165151
-    title: How do regression analysis and ANOVA differ in quantitative data analysis?
+    id: 165132
+    title: >-
+        How can external validity be threatened in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/how-can-external-validity-be-threatened-in-research
 related_article4:
-    id: 165149
-    title: Why is study replication important in research, and what challenges does it face?
+    id: 165125
+    title: >-
+        How can task management and progress tracking be effectively executed in project management?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-study-replication-important-in-research-and-what-challenges-does-it-face
+    url: /learn/education-studies/questions/how-can-task-management-and-progress-tracking-be-effectively-executed-in-project-management
 related_article5:
-    id: 165135
-    title: What is the purpose of using control groups in experimental research?
+    id: 165124
+    title: >-
+        What are the essential components of project planning in project management?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
+    url: /learn/education-studies/questions/what-are-the-essential-components-of-project-planning-in-project-management
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164489
 date: 2025-01-28
-title: How does Alzheimer's disease affect consciousness?
-article_title: How does Alzheimer's disease affect consciousness?
+title: >-
+    How does Alzheimer's disease affect consciousness?
+article_title: >-
+    How does Alzheimer's disease affect consciousness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-alzheimers-disease-affect-consciousness.md
 url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
 score: -1.0
 related_article1:
-    id: 164491
-    title: What is the role of acetylcholine in memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
-related_article2:
-    id: 164497
-    title: How does synaptic plasticity contribute to memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
-related_article3:
-    id: 164490
-    title: Which brain structures are primarily involved in memory processing?
-    subject: Psychology
-    url: /learn/psychology/questions/which-brain-structures-are-primarily-involved-in-memory-processing
-related_article4:
     id: 164492
-    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    title: >-
+        What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
-related_article5:
-    id: 164495
-    title: What are some effective techniques to improve memory retention?
+related_article2:
+    id: 164486
+    title: >-
+        What are the stages of memory formation and their functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+related_article3:
+    id: 164494
+    title: >-
+        How do repetition and practice influence memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+related_article4:
+    id: 164480
+    title: >-
+        What are the neurological causes of amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
+related_article5:
+    id: 164491
+    title: >-
+        What is the role of acetylcholine in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 ---
 
 &nbsp;

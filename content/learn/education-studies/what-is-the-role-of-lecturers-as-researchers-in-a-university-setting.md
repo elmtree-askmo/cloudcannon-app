@@ -2,8 +2,10 @@
 _schema: default
 id: 165906
 date: 2025-01-29
-title: What is the role of lecturers as researchers in a university setting?
-article_title: What is the role of lecturers as researchers in a university setting?
+title: >-
+    What is the role of lecturers as researchers in a university setting?
+article_title: >-
+    What is the role of lecturers as researchers in a university setting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-lecturers-as-researchers-in-a-university-setting.
 url: /learn/education-studies/questions/what-is-the-role-of-lecturers-as-researchers-in-a-university-setting
 score: -1.0
 related_article1:
-    id: 165914
-    title: How can students effectively balance study and personal life through time management?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
-related_article2:
-    id: 165917
-    title: What are the psychological aspects of learning that impact political and economic systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-psychological-aspects-of-learning-that-impact-political-and-economic-systems
-related_article3:
     id: 165911
-    title: How do cultural artifacts reflect literature and oral traditions?
+    title: >-
+        How do cultural artifacts reflect literature and oral traditions?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-cultural-artifacts-reflect-literature-and-oral-traditions
+related_article2:
+    id: 165919
+    title: >-
+        Why is the PDF document format preferred for academic submissions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-the-pdf-document-format-preferred-for-academic-submissions
+related_article3:
+    id: 165913
+    title: >-
+        Why is lifelong learning important for personal and professional life?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-lifelong-learning-important-for-personal-and-professional-life
 related_article4:
-    id: 165915
-    title: What is the significance of the Bologna Accord in understanding academic credit systems?
+    id: 165918
+    title: >-
+        What skills are required for different types of assessments in exam preparation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-the-bologna-accord-in-understanding-academic-credit-systems
+    url: /learn/education-studies/questions/what-skills-are-required-for-different-types-of-assessments-in-exam-preparation
 related_article5:
-    id: 165908
-    title: What are the stages of academic progression in independent research?
+    id: 165910
+    title: >-
+        What is the transition process from expressive to communicative essays in writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-stages-of-academic-progression-in-independent-research
+    url: /learn/education-studies/questions/what-is-the-transition-process-from-expressive-to-communicative-essays-in-writing
 ---
 
 &nbsp;

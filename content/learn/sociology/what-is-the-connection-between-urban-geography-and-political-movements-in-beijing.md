@@ -2,8 +2,10 @@
 _schema: default
 id: 169051
 date: 2025-02-04
-title: What is the connection between urban geography and political movements in Beijing?
-article_title: What is the connection between urban geography and political movements in Beijing?
+title: >-
+    What is the connection between urban geography and political movements in Beijing?
+article_title: >-
+    What is the connection between urban geography and political movements in Beijing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-connection-between-urban-geography-and-political-movement
 url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
 score: -1.0
 related_article1:
-    id: 169049
-    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    id: 169044
+    title: >-
+        How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+    url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
 related_article2:
-    id: 169049
-    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    id: 169044
+    title: >-
+        How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+    url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
 related_article3:
-    id: 169055
-    title: What is the political significance of spatial transformation in shaping public space and political action?
+    id: 169054
+    title: >-
+        How did the origin of Tiananmen Square contribute to its transformation into a political public space?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+    url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
 related_article4:
     id: 169053
-    title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    title: >-
+        What is the role of human agency in Arendt's concept of public space, and why is collective action important?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
 related_article5:
-    id: 169054
-    title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+    id: 169040
+    title: >-
+        How did the opening of roads and public parks influence political public space in Beijing?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 ---
 
 &nbsp;

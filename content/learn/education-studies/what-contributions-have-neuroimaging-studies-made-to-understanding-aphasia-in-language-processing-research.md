@@ -2,8 +2,10 @@
 _schema: default
 id: 164526
 date: 2025-01-28
-title: What contributions have neuroimaging studies made to understanding aphasia in language processing research?
-article_title: What contributions have neuroimaging studies made to understanding aphasia in language processing research?
+title: >-
+    What contributions have neuroimaging studies made to understanding aphasia in language processing research?
+article_title: >-
+    What contributions have neuroimaging studies made to understanding aphasia in language processing research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-contributions-have-neuroimaging-studies-made-to-understanding-ap
 url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
 score: -1.0
 related_article1:
-    id: 164521
-    title: What processes are involved in language comprehension, and how can aphasia impact these processes?
+    id: 164518
+    title: >-
+        What are the defining characteristics of dyslexia, and how prevalent is it?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-processes-are-involved-in-language-comprehension-and-how-can-aphasia-impact-these-processes
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 related_article2:
-    id: 164510
-    title: Why are ERP components important in cognitive processing studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
-related_article3:
     id: 164512
-    title: How does Wernicke's aphasia affect speech comprehension?
+    title: >-
+        How does Wernicke's aphasia affect speech comprehension?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
+related_article3:
+    id: 164520
+    title: >-
+        What tools and techniques are used in cognitive assessment, and why are they important in language studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
 related_article4:
-    id: 164511
-    title: What are the main characteristics and symptoms of Broca's aphasia?
+    id: 164524
+    title: >-
+        How do learning disabilities impact cognitive development, particularly in relation to language processing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-and-symptoms-of-brocas-aphasia
+    url: /learn/education-studies/questions/how-do-learning-disabilities-impact-cognitive-development-particularly-in-relation-to-language-processing
 related_article5:
-    id: 164508
-    title: How does TMS contribute to understanding vision and motion detection?
+    id: 164520
+    title: >-
+        What tools and techniques are used in cognitive assessment, and why are they important in language studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
+    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163375
 date: 2025-01-26
-title: In what ways does the Indigenous worldview emphasize interconnectedness with nature?
-article_title: In what ways does the Indigenous worldview emphasize interconnectedness with nature?
+title: >-
+    In what ways does the Indigenous worldview emphasize interconnectedness with nature?
+article_title: >-
+    In what ways does the Indigenous worldview emphasize interconnectedness with nature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedne
 url: /learn/health-studies/questions/in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedness-with-nature
 score: -1.0
 related_article1:
-    id: 163386
-    title: Why is cultural integrity and identity important for the health and well-being of First Nations communities?
+    id: 163374
+    title: >-
+        How does the Four Worlds Institute Model define well-being, and what are its guiding principles?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-cultural-integrity-and-identity-important-for-the-health-and-wellbeing-of-first-nations-communities
+    url: /learn/health-studies/questions/how-does-the-four-worlds-institute-model-define-wellbeing-and-what-are-its-guiding-principles
 related_article2:
-    id: 163373
-    title: What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
+    id: 163384
+    title: >-
+        What mechanisms can be used to promote social justice and equity for First Nations communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-determinants-of-health-according-to-the-public-health-agency-of-canada-and-why-might-they-be-limited-for-first-nations
+    url: /learn/health-studies/questions/what-mechanisms-can-be-used-to-promote-social-justice-and-equity-for-first-nations-communities
 related_article3:
     id: 163373
-    title: What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
+    title: >-
+        What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-determinants-of-health-according-to-the-public-health-agency-of-canada-and-why-might-they-be-limited-for-first-nations
 related_article4:
-    id: 163381
-    title: How is traditional knowledge transmitted within First Nations communities, and why is it important?
+    id: 163383
+    title: >-
+        How does the transition from a traditional land-based economy to a wage-based economy affect economic sustainability for First Nations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-traditional-knowledge-transmitted-within-first-nations-communities-and-why-is-it-important
+    url: /learn/health-studies/questions/how-does-the-transition-from-a-traditional-landbased-economy-to-a-wagebased-economy-affect-economic-sustainability-for-first-nations
 related_article5:
     id: 163372
-    title: How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
+    title: >-
+        How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-current-health-disparities-between-first-nations-and-the-national-average-manifest-in-terms-of-infectious-diseases-and-immunity
 ---

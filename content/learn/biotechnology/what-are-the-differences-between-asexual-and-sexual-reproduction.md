@@ -2,8 +2,10 @@
 _schema: default
 id: 167596
 date: 2025-01-31
-title: What are the differences between asexual and sexual reproduction?
-article_title: What are the differences between asexual and sexual reproduction?
+title: >-
+    What are the differences between asexual and sexual reproduction?
+article_title: >-
+    What are the differences between asexual and sexual reproduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-asexual-and-sexual-reproduction.md
 url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
 score: -1.0
 related_article1:
-    id: 167591
-    title: Why is homeostasis important for living organisms?
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
 related_article2:
-    id: 167595
-    title: What are the primary sources of biological energy?
+    id: 167594
+    title: >-
+        How is fitness measured in biological terms?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
 related_article3:
-    id: 167588
-    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    id: 167594
+    title: >-
+        How is fitness measured in biological terms?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
 related_article4:
     id: 167594
-    title: How is fitness measured in biological terms?
+    title: >-
+        How is fitness measured in biological terms?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
 related_article5:
-    id: 167599
-    title: How does natural science relate to other scientific disciplines?
+    id: 167595
+    title: >-
+        What are the primary sources of biological energy?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
+    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
 ---
 
 &nbsp;

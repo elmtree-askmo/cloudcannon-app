@@ -2,8 +2,10 @@
 _schema: default
 id: 161825
 date: 2025-01-24
-title: What are chemical symbols and how are they used to represent elements?
-article_title: What are chemical symbols and how are they used to represent elements?
+title: >-
+    What are chemical symbols and how are they used to represent elements?
+article_title: >-
+    What are chemical symbols and how are they used to represent elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
 url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
 score: -1.0
 related_article1:
-    id: 161828
-    title: Give an example of a heterogeneous mixture and describe its characteristics.
+    id: 161872
+    title: >-
+        What are the defining characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
 related_article2:
-    id: 161830
-    title: What is the difference between physical and chemical properties of matter?
+    id: 161732
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-physical-and-chemical-properties-of-matter
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 related_article3:
-    id: 161870
-    title: How are chemical formulas used to represent compounds?
+    id: 161846
+    title: >-
+        How are chemical formulas used to represent compounds?
     subject: Chemistry
     url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
 related_article4:
-    id: 161845
-    title: What is the significance of chemical symbols in representing elements?
+    id: 161830
+    title: >-
+        What is the difference between physical and chemical properties of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/what-is-the-difference-between-physical-and-chemical-properties-of-matter
 related_article5:
-    id: 161728
-    title: How are pure substances classified in terms of elements and compounds?
+    id: 161860
+    title: >-
+        What distinguishes elements from compounds in pure substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169759
 date: 2025-02-05
-title: How can adverse drug reactions be identified and managed effectively?
-article_title: How can adverse drug reactions be identified and managed effectively?
+title: >-
+    How can adverse drug reactions be identified and managed effectively?
+article_title: >-
+    How can adverse drug reactions be identified and managed effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-adverse-drug-reactions-be-identified-and-managed-effectively.
 url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
 score: -1.0
 related_article1:
-    id: 169753
-    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 related_article2:
-    id: 169752
-    title: What are the key legal aspects of medicines management that nurses must be aware of?
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 related_article3:
-    id: 169758
-    title: What are common causes of medication errors, and how can they be prevented?
+    id: 169746
+    title: >-
+        What are common assessment methods for bowel and bladder management?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
 related_article4:
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
+related_article5:
     id: 169740
-    title: How does shared decision making enhance person-centered care?
+    title: >-
+        How does shared decision making enhance person-centered care?
     subject: Nursing
     url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
-related_article5:
-    id: 169767
-    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 ---
 
 &nbsp;

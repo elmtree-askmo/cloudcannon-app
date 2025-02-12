@@ -2,8 +2,10 @@
 _schema: default
 id: 165975
 date: 2025-01-29
-title: What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
-article_title: What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+title: >-
+    What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+article_title: >-
+    What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-define-neoimpressionism-and-how-are-they-applied-in-g
 url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
 score: 9.0
 related_article1:
-    id: 165968
-    title: How did the rise of social consciousness during the Industrial Revolution influence art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
-related_article2:
-    id: 165979
-    title: In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
-related_article3:
-    id: 165977
-    title: What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
-related_article4:
-    id: 165964
-    title: In what ways did artists intellectually engage with industrial innovations and societal changes?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-artists-intellectually-engage-with-industrial-innovations-and-societal-changes
-related_article5:
     id: 165963
-    title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+    title: >-
+        How did urbanization and technological advancements impact modern art during the Industrial Revolution?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
+related_article2:
+    id: 165970
+    title: >-
+        How did artists respond to political systems through their depiction of social realities?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
+related_article3:
+    id: 165970
+    title: >-
+        How did artists respond to political systems through their depiction of social realities?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
+related_article4:
+    id: 165974
+    title: >-
+        How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
+related_article5:
+    id: 165972
+    title: >-
+        How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
 ---
 
 &nbsp;

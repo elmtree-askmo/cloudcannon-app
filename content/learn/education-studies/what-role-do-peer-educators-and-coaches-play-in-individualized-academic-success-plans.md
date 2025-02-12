@@ -2,8 +2,10 @@
 _schema: default
 id: 167614
 date: 2025-01-31
-title: What role do peer educators and coaches play in individualized academic success plans?
-article_title: What role do peer educators and coaches play in individualized academic success plans?
+title: >-
+    What role do peer educators and coaches play in individualized academic success plans?
+article_title: >-
+    What role do peer educators and coaches play in individualized academic success plans?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-peer-educators-and-coaches-play-in-individualized-academ
 url: /learn/education-studies/questions/what-role-do-peer-educators-and-coaches-play-in-individualized-academic-success-plans
 score: -1.0
 related_article1:
-    id: 167604
-    title: How can students overcome procrastination and improve note-taking skills through academic consultations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-overcome-procrastination-and-improve-notetaking-skills-through-academic-consultations
-related_article2:
-    id: 167605
-    title: What are some effective note-taking techniques that can enhance study skills development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-notetaking-techniques-that-can-enhance-study-skills-development
-related_article3:
-    id: 167604
-    title: How can students overcome procrastination and improve note-taking skills through academic consultations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-overcome-procrastination-and-improve-notetaking-skills-through-academic-consultations
-related_article4:
     id: 167618
-    title: What strategies can be used to build a supportive community that encourages peer interaction?
+    title: >-
+        What strategies can be used to build a supportive community that encourages peer interaction?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-a-supportive-community-that-encourages-peer-interaction
-related_article5:
-    id: 167617
-    title: How do college support services enhance student engagement and academic success?
+related_article2:
+    id: 167609
+    title: >-
+        What are progress alerts, and how can they be used to address academic concerns?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-college-support-services-enhance-student-engagement-and-academic-success
+    url: /learn/education-studies/questions/what-are-progress-alerts-and-how-can-they-be-used-to-address-academic-concerns
+related_article3:
+    id: 167603
+    title: >-
+        What are the key components of a personalized academic plan during academic consultations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-personalized-academic-plan-during-academic-consultations
+related_article4:
+    id: 167601
+    title: >-
+        What are the benefits of tutoring and peer coaching in academic success services?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-tutoring-and-peer-coaching-in-academic-success-services
+related_article5:
+    id: 167618
+    title: >-
+        What strategies can be used to build a supportive community that encourages peer interaction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-a-supportive-community-that-encourages-peer-interaction
 ---
 
 &nbsp;

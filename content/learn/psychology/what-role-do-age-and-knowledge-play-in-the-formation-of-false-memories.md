@@ -2,8 +2,10 @@
 _schema: default
 id: 168023
 date: 2025-02-02
-title: What role do age and knowledge play in the formation of false memories?
-article_title: What role do age and knowledge play in the formation of false memories?
+title: >-
+    What role do age and knowledge play in the formation of false memories?
+article_title: >-
+    What role do age and knowledge play in the formation of false memories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-age-and-knowledge-play-in-the-formation-of-false-memorie
 url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
 score: -1.0
 related_article1:
-    id: 168013
-    title: How do knowledge and false memories interact in different age groups?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
-related_article2:
     id: 168022
-    title: How are false memories generated from suggestive information?
+    title: >-
+        How are false memories generated from suggestive information?
     subject: Psychology
     url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
-related_article3:
-    id: 168019
-    title: How does suggestibility in children change with age?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
-related_article4:
+related_article2:
     id: 168010
-    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    title: >-
+        What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
-related_article5:
-    id: 168024
-    title: How does cognitive development impact memory recall?
+related_article3:
+    id: 168030
+    title: >-
+        What are the developmental differences that affect memory recall?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
+    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
+related_article4:
+    id: 168014
+    title: >-
+        What is the reverse developmental trend in memory accuracy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+related_article5:
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 ---
 
 &nbsp;

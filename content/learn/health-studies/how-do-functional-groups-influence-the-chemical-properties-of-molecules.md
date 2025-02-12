@@ -2,8 +2,10 @@
 _schema: default
 id: 167103
 date: 2025-01-31
-title: How do functional groups influence the chemical properties of molecules?
-article_title: How do functional groups influence the chemical properties of molecules?
+title: >-
+    How do functional groups influence the chemical properties of molecules?
+article_title: >-
+    How do functional groups influence the chemical properties of molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-functional-groups-influence-the-chemical-properties-of-molecul
 url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
 score: -1.0
 related_article1:
-    id: 167105
-    title: How are amino acids classified based on polarity and charge?
+    id: 167111
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
+    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 related_article2:
-    id: 167092
-    title: Why is carbon essential in the formation of organic molecules?
+    id: 167104
+    title: >-
+        What is the general structure of an amino acid and how do side chains affect their properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
+    url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
 related_article3:
-    id: 167109
-    title: What are the main types of enzymes and their functions?
+    id: 167107
+    title: >-
+        How do proteins contribute to structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-enzymes-and-their-functions
+    url: /learn/health-studies/questions/how-do-proteins-contribute-to-structural-support-in-cells
 related_article4:
-    id: 167109
-    title: What are the main types of enzymes and their functions?
+    id: 167088
+    title: >-
+        Why are functional groups important in biological molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-enzymes-and-their-functions
+    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
 related_article5:
-    id: 167113
-    title: How does amino acid classification affect protein function and interaction?
+    id: 167094
+    title: >-
+        How do dehydration reactions and hydrolysis reactions differ in the polymerization process?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-amino-acid-classification-affect-protein-function-and-interaction
+    url: /learn/health-studies/questions/how-do-dehydration-reactions-and-hydrolysis-reactions-differ-in-the-polymerization-process
 ---
 
 &nbsp;

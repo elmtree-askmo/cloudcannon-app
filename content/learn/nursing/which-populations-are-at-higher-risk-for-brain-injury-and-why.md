@@ -2,8 +2,10 @@
 _schema: default
 id: 164454
 date: 2025-01-28
-title: Which populations are at higher risk for brain injury, and why?
-article_title: Which populations are at higher risk for brain injury, and why?
+title: >-
+    Which populations are at higher risk for brain injury, and why?
+article_title: >-
+    Which populations are at higher risk for brain injury, and why?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: which-populations-are-at-higher-risk-for-brain-injury-and-why.md
 url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
 score: -1.0
 related_article1:
+    id: 164440
+    title: >-
+        How do anoxic and hypoxic injuries impact brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-anoxic-and-hypoxic-injuries-impact-brain-function
+related_article2:
     id: 164449
-    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
+    title: >-
+        Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
     subject: Nursing
     url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
-related_article2:
-    id: 164453
-    title: Describe the role of outpatient services in long-term rehabilitation for brain injury.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
 related_article3:
-    id: 164451
-    title: How can emotional and behavioral effects manifest in individuals with brain injuries?
+    id: 164456
+    title: >-
+        How can cognitive rehabilitation aid in recovery after a brain injury?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
+    url: /learn/nursing/questions/how-can-cognitive-rehabilitation-aid-in-recovery-after-a-brain-injury
 related_article4:
-    id: 164457
-    title: What strategies can support emotional and behavioral adaptation after a brain injury?
+    id: 164444
+    title: >-
+        Identify two external causes of brain injury and explain their potential impact.
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-support-emotional-and-behavioral-adaptation-after-a-brain-injury
+    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
+related_article5:
+    id: 164444
+    title: >-
+        Identify two external causes of brain injury and explain their potential impact.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
 ---
 
 &nbsp;

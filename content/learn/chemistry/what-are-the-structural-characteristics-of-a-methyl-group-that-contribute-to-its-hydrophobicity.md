@@ -2,8 +2,10 @@
 _schema: default
 id: 167046
 date: 2025-01-31
-title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
-article_title: What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+title: >-
+    What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
+article_title: >-
+    What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-structural-characteristics-of-a-methyl-group-that-contri
 url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
 score: -1.0
 related_article1:
-    id: 167038
-    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    id: 167050
+    title: >-
+        How do functional groups like hydroxyl and amino groups affect water solubility?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
 related_article2:
-    id: 167038
-    title: Compare the structure of sulfhydryl and hydroxyl groups and discuss the significance of sulfur's electronegativity.
+    id: 167037
+    title: >-
+        Why is the hydroxyl group considered polar and hydrophilic?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-structure-of-sulfhydryl-and-hydroxyl-groups-and-discuss-the-significance-of-sulfurs-electronegativity
+    url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
 related_article3:
     id: 167041
-    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
+    title: >-
+        Explain why carbonyl groups are susceptible to nucleophilic attacks.
     subject: Chemistry
     url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 related_article4:
-    id: 167045
-    title: Why is the amino group important in biological systems?
+    id: 167053
+    title: >-
+        What defines organic chemistry and how does it relate to functional group diversity?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 related_article5:
-    id: 167054
-    title: How do proteins and amino acids exemplify the principles of organic chemistry?
+    id: 167039
+    title: >-
+        What is the biological role of the sulfhydryl group?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
+    url: /learn/chemistry/questions/what-is-the-biological-role-of-the-sulfhydryl-group
 ---
 
 &nbsp;

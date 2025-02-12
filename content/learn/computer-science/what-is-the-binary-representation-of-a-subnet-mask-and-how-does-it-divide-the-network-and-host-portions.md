@@ -2,8 +2,10 @@
 _schema: default
 id: 165710
 date: 2025-01-29
-title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
-article_title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+title: >-
+    What is the binary representation of a subnet mask and how does it divide the network and host portions?
+article_title: >-
+    What is the binary representation of a subnet mask and how does it divide the network and host portions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-di
 url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 score: -1.0
 related_article1:
-    id: 165721
-    title: What is the role of the network portion in hierarchical IP addressing?
+    id: 165707
+    title: >-
+        What are the steps involved in converting a decimal number to binary?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
 related_article2:
-    id: 165708
-    title: Describe the 32-bit structure of an IPv4 address and its division into octets.
+    id: 165707
+    title: >-
+        What are the steps involved in converting a decimal number to binary?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into-octets
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
 related_article3:
-    id: 165720
-    title: How does hierarchical IP addressing facilitate subnetwork division?
+    id: 165719
+    title: >-
+        Explain the benefits of using DHCP for dynamic IP address assignment.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-hierarchical-ip-addressing-facilitate-subnetwork-division
+    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
 related_article4:
-    id: 165714
-    title: Describe the representation of a broadcast address when the host portion is all 1s.
+    id: 165719
+    title: >-
+        Explain the benefits of using DHCP for dynamic IP address assignment.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
+    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
 related_article5:
-    id: 165703
-    title: What is the purpose of the network portion in an IPv4 address?
+    id: 165716
+    title: >-
+        Define broadcast addressing and provide an example scenario where it is used.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-network-portion-in-an-ipv4-address
+    url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
 ---
 
 &nbsp;

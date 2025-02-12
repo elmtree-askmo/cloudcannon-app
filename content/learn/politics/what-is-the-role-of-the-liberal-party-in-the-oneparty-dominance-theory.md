@@ -2,8 +2,10 @@
 _schema: default
 id: 169270
 date: 2025-02-04
-title: What is the role of the Liberal Party in the one-party dominance theory?
-article_title: What is the role of the Liberal Party in the one-party dominance theory?
+title: >-
+    What is the role of the Liberal Party in the one-party dominance theory?
+article_title: >-
+    What is the role of the Liberal Party in the one-party dominance theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theor
 url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
 score: -1.0
 related_article1:
-    id: 169271
-    title: How does classical liberalism view the free market economy and competition?
+    id: 169281
+    title: >-
+        What factors contribute to voter engagement and identity in Canadian politics?
     subject: Politics
-    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+    url: /learn/politics/questions/what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics
 related_article2:
-    id: 169271
-    title: How does classical liberalism view the free market economy and competition?
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
     subject: Politics
-    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
 related_article3:
-    id: 169280
-    title: How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
     subject: Politics
-    url: /learn/politics/questions/how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
 related_article4:
-    id: 169274
-    title: What is the libertarian perspective on state intervention and individual responsibility?
+    id: 169275
+    title: >-
+        What is wedge politics, and how does it aim to attract and divide voters?
     subject: Politics
-    url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
+    url: /learn/politics/questions/what-is-wedge-politics-and-how-does-it-aim-to-attract-and-divide-voters
 related_article5:
-    id: 169278
-    title: What are the major political parties in the Canadian political system, and what roles do they play?
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
 ---
 
 &nbsp;

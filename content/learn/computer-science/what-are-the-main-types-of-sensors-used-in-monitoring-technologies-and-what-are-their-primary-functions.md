@@ -2,8 +2,10 @@
 _schema: default
 id: 161513
 date: 2025-01-24
-title: What are the main types of sensors used in monitoring technologies, and what are their primary functions?
-article_title: What are the main types of sensors used in monitoring technologies, and what are their primary functions?
+title: >-
+    What are the main types of sensors used in monitoring technologies, and what are their primary functions?
+article_title: >-
+    What are the main types of sensors used in monitoring technologies, and what are their primary functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-main-types-of-sensors-used-in-monitoring-technologies-an
 url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-what-are-their-primary-functions
 score: -1.0
 related_article1:
-    id: 161349
-    title: What vital signs are monitored in patient monitoring systems, and how is data processed to generate alerts?
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-vital-signs-are-monitored-in-patient-monitoring-systems-and-how-is-data-processed-to-generate-alerts
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article2:
-    id: 161515
-    title: Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
+    id: 161335
+    title: >-
+        Define real-time processing and explain its importance in control systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-role-of-a-digital-to-analogue-converter-dac-in-control-systems-and-its-importance
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems
 related_article3:
-    id: 161526
-    title: Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
+    id: 161326
+    title: >-
+        What are the main types of sensors used in monitoring technologies, and how do they function?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-sensors-and-actuators-used-in-burglar-alarm-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
 related_article4:
-    id: 161345
-    title: Explain the process and advantages of multi-point calibration.
+    id: 161355
+    title: >-
+        What is the process and feedback mechanism of traffic lights control systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-and-advantages-of-multipoint-calibration
+    url: /learn/computer-science/questions/what-is-the-process-and-feedback-mechanism-of-traffic-lights-control-systems
+related_article5:
+    id: 161351
+    title: >-
+        What components are involved in central heating systems, and how does the feedback mechanism work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-components-are-involved-in-central-heating-systems-and-how-does-the-feedback-mechanism-work
 ---
 
 &nbsp;

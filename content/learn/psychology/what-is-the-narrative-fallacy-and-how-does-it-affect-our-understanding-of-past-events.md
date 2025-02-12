@@ -2,8 +2,10 @@
 _schema: default
 id: 168878
 date: 2025-02-04
-title: What is the narrative fallacy and how does it affect our understanding of past events?
-article_title: What is the narrative fallacy and how does it affect our understanding of past events?
+title: >-
+    What is the narrative fallacy and how does it affect our understanding of past events?
+article_title: >-
+    What is the narrative fallacy and how does it affect our understanding of past events?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-narrative-fallacy-and-how-does-it-affect-our-understandin
 url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 score: -1.0
 related_article1:
-    id: 168881
-    title: Why are statistical predictions often more reliable than clinical predictions?
+    id: 168879
+    title: >-
+        How does the illusion of understanding lead to misinterpretation of historical events?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
 related_article2:
-    id: 168888
-    title: What is the disposition effect and how does it affect investment decisions?
+    id: 168880
+    title: >-
+        Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
 related_article3:
-    id: 168886
-    title: Describe the premortem strategy and its purpose in decision-making.
+    id: 168880
+    title: >-
+        Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
 related_article4:
-    id: 168892
-    title: What is the difference between life satisfaction and happiness in the context of well-being?
+    id: 168890
+    title: >-
+        What are preference reversals and how do they occur in decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article5:
-    id: 168885
-    title: What role does overconfidence play in financial forecasting?
+    id: 168883
+    title: >-
+        What is the planning fallacy and how does it affect project forecasts?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163581
 date: 2025-01-27
-title: Explain the purpose and structure of the Spartan agoge.
-article_title: Explain the purpose and structure of the Spartan agoge.
+title: >-
+    Explain the purpose and structure of the Spartan agoge.
+article_title: >-
+    Explain the purpose and structure of the Spartan agoge.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-purpose-and-structure-of-the-spartan-agoge.md
 url: /learn/history-of-the-world/questions/explain-the-purpose-and-structure-of-the-spartan-agoge
 score: 9.0
 related_article1:
-    id: 163575
-    title: Explain the myth of the Dorian Migration and its significance in Spartan history.
+    id: 163580
+    title: >-
+        What were the main social divisions in Spartan society, and how did they function?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-myth-of-the-dorian-migration-and-its-significance-in-spartan-history
+    url: /learn/history-of-the-world/questions/what-were-the-main-social-divisions-in-spartan-society-and-how-did-they-function
 related_article2:
-    id: 163585
-    title: How did the Gerousia and Apella function within the Spartan political system?
+    id: 163579
+    title: >-
+        Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
 related_article3:
-    id: 163584
-    title: What was the role of the ephors in Spartan government, and how were they elected?
+    id: 163572
+    title: >-
+        What role did the Spartan Acropolis play in the city-state's religious and political life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
+    url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
 related_article4:
-    id: 163584
-    title: What was the role of the ephors in Spartan government, and how were they elected?
+    id: 163573
+    title: >-
+        Identify two key literary sources for studying ancient Sparta and describe their contributions.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
+    url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for-studying-ancient-sparta-and-describe-their-contributions
 related_article5:
-    id: 163570
-    title: What was the significance of the Lycurgan Constitution in shaping Spartan society?
+    id: 163578
+    title: >-
+        What archaeological evidence supports our understanding of Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
+    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
 ---
 
 &nbsp;

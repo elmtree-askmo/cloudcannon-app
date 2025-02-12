@@ -2,8 +2,10 @@
 _schema: default
 id: 165894
 date: 2025-01-29
-title: What is the significance of studying material, cultural, and social artefacts in the arts and humanities?
-article_title: What is the significance of studying material, cultural, and social artefacts in the arts and humanities?
+title: >-
+    What is the significance of studying material, cultural, and social artefacts in the arts and humanities?
+article_title: >-
+    What is the significance of studying material, cultural, and social artefacts in the arts and humanities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-studying-material-cultural-and-social-art
 url: /learn/education-studies/questions/what-is-the-significance-of-studying-material-cultural-and-social-artefacts-in-the-arts-and-humanities
 score: -1.0
 related_article1:
-    id: 165884
-    title: What are the key stages of academic progression in a university setting?
+    id: 165885
+    title: >-
+        Why are transferable skills such as critical thinking and communication important in a university environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-stages-of-academic-progression-in-a-university-setting
+    url: /learn/education-studies/questions/why-are-transferable-skills-such-as-critical-thinking-and-communication-important-in-a-university-environment
 related_article2:
-    id: 165890
-    title: What are the essential skills needed for conducting independent research?
+    id: 165892
+    title: >-
+        What are the key components of effective academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-skills-needed-for-conducting-independent-research
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
 related_article3:
-    id: 165896
-    title: What is the role of archaeology and history in understanding material artefacts?
+    id: 165886
+    title: >-
+        What are the benefits of joining a research community for a student?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+    url: /learn/education-studies/questions/what-are-the-benefits-of-joining-a-research-community-for-a-student
 related_article4:
-    id: 165891
-    title: How does the complexity of research requirements increase with academic progression?
+    id: 165882
+    title: >-
+        What is the primary role of a university as a research institution?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-complexity-of-research-requirements-increase-with-academic-progression
+    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 related_article5:
-    id: 165901
-    title: Why is continuous education important for personal and professional development?
+    id: 165904
+    title: >-
+        How does self-directed learning enhance independent research skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-continuous-education-important-for-personal-and-professional-development
+    url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170550
 date: 2025-02-06
-title: What mechanisms are involved in temperature regulation within the human body?
-article_title: What mechanisms are involved in temperature regulation within the human body?
+title: >-
+    What mechanisms are involved in temperature regulation within the human body?
+article_title: >-
+    What mechanisms are involved in temperature regulation within the human body?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-mechanisms-are-involved-in-temperature-regulation-within-the-hum
 url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
 score: -1.0
 related_article1:
-    id: 170557
-    title: How do steroids and opioids differ in their pharmacological effects?
+    id: 170559
+    title: >-
+        How have innovations in medical devices improved pain management?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
+    url: /learn/health-studies/questions/how-have-innovations-in-medical-devices-improved-pain-management
 related_article2:
-    id: 170560
-    title: What are the primary pathophysiological features of Parkinson's disease?
+    id: 170549
+    title: >-
+        Describe the process of glucose regulation in maintaining homeostasis.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
+    url: /learn/health-studies/questions/describe-the-process-of-glucose-regulation-in-maintaining-homeostasis
 related_article3:
-    id: 170562
-    title: What pharmacological interventions are available for treating Parkinson's disease?
+    id: 170565
+    title: >-
+        What is the process of DNA transcription in genetic pathways?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
+    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
 related_article4:
-    id: 170563
-    title: How does cognitive dissonance influence behavior according to psychological theories?
+    id: 170548
+    title: >-
+        Explain the role of biochemical pathways in cellular function.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
-related_article5:
-    id: 170546
-    title: What are the primary functions of the cellular level in anatomy and physiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-cellular-level-in-anatomy-and-physiology
+    url: /learn/health-studies/questions/explain-the-role-of-biochemical-pathways-in-cellular-function
 ---
 
 &nbsp;

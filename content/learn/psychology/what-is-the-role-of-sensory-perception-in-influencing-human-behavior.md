@@ -2,8 +2,10 @@
 _schema: default
 id: 167706
 date: 2025-01-31
-title: What is the role of sensory perception in influencing human behavior?
-article_title: What is the role of sensory perception in influencing human behavior?
+title: >-
+    What is the role of sensory perception in influencing human behavior?
+article_title: >-
+    What is the role of sensory perception in influencing human behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-sensory-perception-in-influencing-human-behavior.
 url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
 score: -1.0
 related_article1:
-    id: 167692
-    title: What are the core principles of Cognitive Behavioral Therapy?
+    id: 167694
+    title: >-
+        How do neurobiological processes influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 related_article2:
-    id: 167710
-    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    id: 167700
+    title: >-
+        What are the main techniques for observing and analyzing observable behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
 related_article3:
-    id: 167690
-    title: What are common symptoms and diagnostic criteria for behavioral disorders?
+    id: 167695
+    title: >-
+        What are the modern views on dualism in neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
 related_article4:
-    id: 167698
-    title: What are the key components of experimental design in psychological research?
+    id: 167693
+    title: >-
+        What are some limitations and challenges associated with the effectiveness of CBT?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
 related_article5:
-    id: 167710
-    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    id: 167689
+    title: >-
+        How is ASL utilized in psychological studies and what barriers exist?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
 ---
 
 &nbsp;

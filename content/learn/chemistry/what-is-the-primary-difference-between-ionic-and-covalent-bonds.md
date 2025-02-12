@@ -2,8 +2,10 @@
 _schema: default
 id: 168312
 date: 2025-02-03
-title: What is the primary difference between ionic and covalent bonds?
-article_title: What is the primary difference between ionic and covalent bonds?
+title: >-
+    What is the primary difference between ionic and covalent bonds?
+article_title: >-
+    What is the primary difference between ionic and covalent bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-difference-between-ionic-and-covalent-bonds.md
 url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
 score: -1.0
 related_article1:
-    id: 168322
-    title: What are the structural differences between monosaccharides and polysaccharides?
+    id: 168318
+    title: >-
+        What are the three physical states of water, and how do they differ in terms of molecular arrangement?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
 related_article2:
-    id: 168322
-    title: What are the structural differences between monosaccharides and polysaccharides?
+    id: 168311
+    title: >-
+        How do electron orbitals relate to energy levels in an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
 related_article3:
-    id: 168322
-    title: What are the structural differences between monosaccharides and polysaccharides?
+    id: 168311
+    title: >-
+        How do electron orbitals relate to energy levels in an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
 related_article4:
-    id: 168319
-    title: How is pH used to measure the acidity or basicity of a solution?
+    id: 168317
+    title: >-
+        How does water's kinetic energy contribute to temperature moderation?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+    url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
 related_article5:
-    id: 168319
-    title: How is pH used to measure the acidity or basicity of a solution?
+    id: 168316
+    title: >-
+        What is the significance of water's ability to dissociate into ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-ph-used-to-measure-the-acidity-or-basicity-of-a-solution
+    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
 ---
 
 &nbsp;

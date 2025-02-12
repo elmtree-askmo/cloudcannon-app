@@ -2,8 +2,10 @@
 _schema: default
 id: 165666
 date: 2025-01-29
-title: Why is the default gateway important in a network, and how can you verify its configuration?
-article_title: Why is the default gateway important in a network, and how can you verify its configuration?
+title: >-
+    Why is the default gateway important in a network, and how can you verify its configuration?
+article_title: >-
+    Why is the default gateway important in a network, and how can you verify its configuration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-default-gateway-important-in-a-network-and-how-can-you-ver
 url: /learn/computer-science/questions/why-is-the-default-gateway-important-in-a-network-and-how-can-you-verify-its-configuration
 score: -1.0
 related_article1:
-    id: 165665
-    title: What are common causes of IP addressing issues on IOS devices?
+    id: 165663
+    title: >-
+        What is the primary purpose of the debug command in network troubleshooting?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-the-debug-command-in-network-troubleshooting
 related_article2:
-    id: 165662
-    title: What information can be obtained from the 'show running-config' command?
+    id: 165657
+    title: >-
+        What is the purpose of using the ping command in network troubleshooting?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-ping-command-in-network-troubleshooting
 related_article3:
     id: 165667
-    title: What tools can be used to troubleshoot DNS issues effectively?
+    title: >-
+        What tools can be used to troubleshoot DNS issues effectively?
     subject: Computer Science
     url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
 related_article4:
-    id: 165662
-    title: What information can be obtained from the 'show running-config' command?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
-related_article5:
     id: 165665
-    title: What are common causes of IP addressing issues on IOS devices?
+    title: >-
+        What are common causes of IP addressing issues on IOS devices?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
+related_article5:
+    id: 165656
+    title: >-
+        How does redundancy improve the reliability of a small network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
 ---
 
 &nbsp;

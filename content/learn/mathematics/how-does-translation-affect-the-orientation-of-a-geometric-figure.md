@@ -2,8 +2,10 @@
 _schema: default
 id: 162495
 date: 2025-01-25
-title: How does translation affect the orientation of a geometric figure?
-article_title: How does translation affect the orientation of a geometric figure?
+title: >-
+    How does translation affect the orientation of a geometric figure?
+article_title: >-
+    How does translation affect the orientation of a geometric figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-translation-affect-the-orientation-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
 score: -1.0
 related_article1:
-    id: 162486
-    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    id: 162500
+    title: >-
+        What is the significance of a fixed point in rotational transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
 related_article2:
-    id: 162614
-    title: Describe the concept of circular turning in rotations.
+    id: 162239
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 related_article3:
-    id: 162240
-    title: How is the length of a line segment affected by rotation?
+    id: 162504
+    title: >-
+        Why are transformations important in the study of geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
 related_article4:
-    id: 162485
-    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    id: 162605
+    title: >-
+        What is a mirror image in the context of reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
 related_article5:
-    id: 162246
-    title: What is the importance of the origin as the center of rotation in the coordinate system?
+    id: 162500
+    title: >-
+        What is the significance of a fixed point in rotational transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
+    url: /learn/mathematics/questions/what-is-the-significance-of-a-fixed-point-in-rotational-transformations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168999
 date: 2025-02-04
-title: What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
-article_title: What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
+title: >-
+    What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
+article_title: >-
+    What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-narratives-are-emphasized-in-the-israel-museums-exhibitions-part
 url: /learn/history-of-the-world/questions/what-narratives-are-emphasized-in-the-israel-museums-exhibitions-particularly-regarding-jewish-heritage
 score: 8.5
 related_article1:
-    id: 168996
-    title: How do ideological frameworks shape the representation of history in museums?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-ideological-frameworks-shape-the-representation-of-history-in-museums
-related_article2:
     id: 168991
-    title: How do museums construct historical narratives through exhibitions?
+    title: >-
+        How do museums construct historical narratives through exhibitions?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-museums-construct-historical-narratives-through-exhibitions
+related_article2:
+    id: 168995
+    title: >-
+        What are the economic and political motivations behind heritage destruction?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-economic-and-political-motivations-behind-heritage-destruction
 related_article3:
-    id: 168992
-    title: In what ways can artifacts be used as ideological tools in museums?
+    id: 168991
+    title: >-
+        How do museums construct historical narratives through exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-can-artifacts-be-used-as-ideological-tools-in-museums
+    url: /learn/history-of-the-world/questions/how-do-museums-construct-historical-narratives-through-exhibitions
 related_article4:
-    id: 168997
-    title: What was the focus of Patrick Geddes' unrealized museum project?
+    id: 168996
+    title: >-
+        How do ideological frameworks shape the representation of history in museums?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-focus-of-patrick-geddes-unrealized-museum-project
+    url: /learn/history-of-the-world/questions/how-do-ideological-frameworks-shape-the-representation-of-history-in-museums
 related_article5:
-    id: 168993
-    title: What is the role of historical context in interpreting artifacts?
+    id: 168998
+    title: >-
+        How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-role-of-historical-context-in-interpreting-artifacts
+    url: /learn/history-of-the-world/questions/how-did-the-palestine-archaeological-museum-shift-its-focus-from-religious-to-cultural-narratives
 ---
 
 &nbsp;

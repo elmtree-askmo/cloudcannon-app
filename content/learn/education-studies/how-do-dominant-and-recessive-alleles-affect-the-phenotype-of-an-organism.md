@@ -2,8 +2,10 @@
 _schema: default
 id: 167921
 date: 2025-02-01
-title: How do dominant and recessive alleles affect the phenotype of an organism?
-article_title: How do dominant and recessive alleles affect the phenotype of an organism?
+title: >-
+    How do dominant and recessive alleles affect the phenotype of an organism?
+article_title: >-
+    How do dominant and recessive alleles affect the phenotype of an organism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-dominant-and-recessive-alleles-affect-the-phenotype-of-an-orga
 url: /learn/education-studies/questions/how-do-dominant-and-recessive-alleles-affect-the-phenotype-of-an-organism
 score: -1.0
 related_article1:
-    id: 167923
-    title: How do true breeding and hybridization differ in genetic studies?
+    id: 167914
+    title: >-
+        What are the main phases of mitosis and what occurs during each phase?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-true-breeding-and-hybridization-differ-in-genetic-studies
+    url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
 related_article2:
-    id: 167925
-    title: How is a Punnett square used to predict the outcome of a monohybrid cross?
+    id: 167926
+    title: >-
+        What is the 9:3:3:1 ratio and how is it derived in dihybrid crosses?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-punnett-square-used-to-predict-the-outcome-of-a-monohybrid-cross
+    url: /learn/education-studies/questions/what-is-the-9331-ratio-and-how-is-it-derived-in-dihybrid-crosses
 related_article3:
-    id: 167914
-    title: What are the main phases of mitosis and what occurs during each phase?
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
 related_article4:
-    id: 167925
-    title: How is a Punnett square used to predict the outcome of a monohybrid cross?
+    id: 167922
+    title: >-
+        What is the difference between homozygous and heterozygous genotypes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-punnett-square-used-to-predict-the-outcome-of-a-monohybrid-cross
+    url: /learn/education-studies/questions/what-is-the-difference-between-homozygous-and-heterozygous-genotypes
 related_article5:
-    id: 167914
-    title: What are the main phases of mitosis and what occurs during each phase?
+    id: 167920
+    title: >-
+        What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
+    url: /learn/education-studies/questions/what-is-the-chromosomal-theory-of-inheritance-and-how-does-it-relate-to-mendels-laws
 ---
 
 &nbsp;

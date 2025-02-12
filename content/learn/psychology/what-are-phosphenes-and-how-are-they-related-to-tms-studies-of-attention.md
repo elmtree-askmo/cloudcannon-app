@@ -2,8 +2,10 @@
 _schema: default
 id: 164767
 date: 2025-01-28
-title: What are phosphenes, and how are they related to TMS studies of attention?
-article_title: What are phosphenes, and how are they related to TMS studies of attention?
+title: >-
+    What are phosphenes, and how are they related to TMS studies of attention?
+article_title: >-
+    What are phosphenes, and how are they related to TMS studies of attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attent
 url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
 score: -1.0
 related_article1:
-    id: 164764
-    title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
-related_article2:
     id: 164761
-    title: How does neuropsychological evidence support the concept of object-based attention?
+    title: >-
+        How does neuropsychological evidence support the concept of object-based attention?
     subject: Psychology
     url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
+related_article2:
+    id: 164749
+    title: >-
+        How does attention allocation affect performance in divided attention tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
 related_article3:
-    id: 164771
-    title: What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+    id: 164762
+    title: >-
+        How does Alzheimer's disease affect memory formation and attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
 related_article4:
-    id: 164771
-    title: What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
+    id: 164759
+    title: >-
+        How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
+    url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
 related_article5:
-    id: 164766
-    title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    id: 164770
+    title: >-
+        How does Alzheimer's disease lead to attention deficits and memory impairment?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
 ---
 
 &nbsp;

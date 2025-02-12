@@ -2,8 +2,10 @@
 _schema: default
 id: 167800
 date: 2025-02-01
-title: How does the environment influence the phenotype of individuals with phenylketonuria?
-article_title: How does the environment influence the phenotype of individuals with phenylketonuria?
+title: >-
+    How does the environment influence the phenotype of individuals with phenylketonuria?
+article_title: >-
+    How does the environment influence the phenotype of individuals with phenylketonuria?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-environment-influence-the-phenotype-of-individuals-with-
 url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 score: -1.0
 related_article1:
-    id: 167795
-    title: How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
+    id: 167805
+    title: >-
+        What are the key differences between Mendelian and non-Mendelian patterns of heredity?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
 related_article2:
     id: 167799
-    title: What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
+    title: >-
+        What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 related_article3:
-    id: 167790
-    title: How is co-dominance exemplified in human blood types?
+    id: 167788
+    title: >-
+        How do genetic mutations contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
+    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
 related_article4:
-    id: 167806
-    title: How is genetic counseling used to assess risk and analyze family history?
+    id: 167792
+    title: >-
+        How does incomplete dominance differ from complete dominance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
+    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance
 related_article5:
-    id: 167793
-    title: Provide an example of incomplete dominance in flower color.
+    id: 167787
+    title: >-
+        What are the main sources of genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
+    url: /learn/education-studies/questions/what-are-the-main-sources-of-genetic-variation
 ---
 
 &nbsp;

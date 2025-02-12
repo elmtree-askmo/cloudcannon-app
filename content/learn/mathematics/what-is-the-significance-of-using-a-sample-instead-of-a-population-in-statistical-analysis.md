@@ -2,8 +2,10 @@
 _schema: default
 id: 170276
 date: 2025-02-06
-title: What is the significance of using a sample instead of a population in statistical analysis?
-article_title: What is the significance of using a sample instead of a population in statistical analysis?
+title: >-
+    What is the significance of using a sample instead of a population in statistical analysis?
+article_title: >-
+    What is the significance of using a sample instead of a population in statistical analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-using-a-sample-instead-of-a-population-in
 url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
 score: -1.0
 related_article1:
-    id: 170281
-    title: What is the difference between discrete and continuous quantitative variables?
+    id: 170277
+    title: >-
+        Explain the concept of a simple random sample and its importance in statistics.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
 related_article2:
-    id: 170281
-    title: What is the difference between discrete and continuous quantitative variables?
+    id: 170282
+    title: >-
+        Describe the concept of distribution in statistics and its importance.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-discrete-and-continuous-quantitative-variables
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 related_article3:
-    id: 170274
-    title: What is the primary focus of statistics as a science?
+    id: 170282
+    title: >-
+        Describe the concept of distribution in statistics and its importance.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-primary-focus-of-statistics-as-a-science
+    url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 related_article4:
-    id: 170277
-    title: Explain the concept of a simple random sample and its importance in statistics.
+    id: 170283
+    title: >-
+        What distinguishes an observational study from a designed experiment?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
 related_article5:
-    id: 170277
-    title: Explain the concept of a simple random sample and its importance in statistics.
+    id: 170283
+    title: >-
+        What distinguishes an observational study from a designed experiment?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
 ---
 
 &nbsp;

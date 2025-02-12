@@ -2,8 +2,10 @@
 _schema: default
 id: 162900
 date: 2025-01-25
-title: What are opposite coordinates in the context of reflections?
-article_title: What are opposite coordinates in the context of reflections?
+title: >-
+    What are opposite coordinates in the context of reflections?
+article_title: >-
+    What are opposite coordinates in the context of reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-opposite-coordinates-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 score: -1.0
 related_article1:
-    id: 162505
-    title: What is a transformation in geometry?
+    id: 162684
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 related_article2:
-    id: 162698
-    title: How can visualizing reflections help in understanding them?
+    id: 162701
+    title: >-
+        What are common misconceptions about coordinate changes in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
 related_article3:
-    id: 162810
-    title: How do reflections maintain the size and shape of geometric figures?
+    id: 162822
+    title: >-
+        What is orientation reversal in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
 related_article4:
-    id: 162765
-    title: Why is distance preservation important in reflections?
+    id: 162693
+    title: >-
+        How does reflecting a triangle differ from reflecting a quadrilateral?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
 related_article5:
-    id: 162698
-    title: How can visualizing reflections help in understanding them?
+    id: 162807
+    title: >-
+        How is horizontal symmetry defined in geometric reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169281
 date: 2025-02-04
-title: What factors contribute to voter engagement and identity in Canadian politics?
-article_title: What factors contribute to voter engagement and identity in Canadian politics?
+title: >-
+    What factors contribute to voter engagement and identity in Canadian politics?
+article_title: >-
+    What factors contribute to voter engagement and identity in Canadian politics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-contribute-to-voter-engagement-and-identity-in-canadian-
 url: /learn/politics/questions/what-factors-contribute-to-voter-engagement-and-identity-in-canadian-politics
 score: -1.0
 related_article1:
-    id: 169269
-    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    id: 169274
+    title: >-
+        What is the libertarian perspective on state intervention and individual responsibility?
     subject: Politics
-    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
+    url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
 related_article2:
-    id: 169276
-    title: How do federal and provincial party relationships affect party integration and dynamics in Canada?
-    subject: Politics
-    url: /learn/politics/questions/how-do-federal-and-provincial-party-relationships-affect-party-integration-and-dynamics-in-canada
-related_article3:
-    id: 169278
-    title: What are the major political parties in the Canadian political system, and what roles do they play?
-    subject: Politics
-    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
-related_article4:
-    id: 169269
-    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
-    subject: Politics
-    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
-related_article5:
     id: 169279
-    title: How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
+    title: >-
+        How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
     subject: Politics
     url: /learn/politics/questions/how-do-regional-and-fringe-parties-like-the-bloc-qubcois-and-green-party-influence-canadian-politics
+related_article3:
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
+related_article4:
+    id: 169275
+    title: >-
+        What is wedge politics, and how does it aim to attract and divide voters?
+    subject: Politics
+    url: /learn/politics/questions/what-is-wedge-politics-and-how-does-it-aim-to-attract-and-divide-voters
+related_article5:
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
 ---
 
 &nbsp;

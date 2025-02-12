@@ -2,8 +2,10 @@
 _schema: default
 id: 166534
 date: 2025-01-30
-title: What are the main attributes and symbols associated with Zeus in Greek mythology?
-article_title: What are the main attributes and symbols associated with Zeus in Greek mythology?
+title: >-
+    What are the main attributes and symbols associated with Zeus in Greek mythology?
+article_title: >-
+    What are the main attributes and symbols associated with Zeus in Greek mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-attributes-and-symbols-associated-with-zeus-in-gree
 url: /learn/philosophy-and-greek-myths/questions/what-are-the-main-attributes-and-symbols-associated-with-zeus-in-greek-mythology
 score: -1.0
 related_article1:
-    id: 166546
-    title: What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
+    id: 166548
+    title: >-
+        In what ways has Greek mythology influenced modern art and literature?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how-do-they-influence-relationships-among-gods
+    url: /learn/philosophy-and-greek-myths/questions/in-what-ways-has-greek-mythology-influenced-modern-art-and-literature
 related_article2:
-    id: 166539
-    title: How are Cyclopes depicted in Greek mythology, and what is their significance?
+    id: 166542
+    title: >-
+        What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-are-cyclopes-depicted-in-greek-mythology-and-what-is-their-significance
+    url: /learn/philosophy-and-greek-myths/questions/what-role-does-tiresias-play-in-greek-mythology-particularly-concerning-prophecy-and-fate
 related_article3:
     id: 166549
-    title: How does Greek mythology explain natural events and their connection to the environment?
+    title: >-
+        How does Greek mythology explain natural events and their connection to the environment?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-greek-mythology-explain-natural-events-and-their-connection-to-the-environment
 related_article4:
-    id: 166545
-    title: How do Greek myths convey lessons about punishment and justice?
+    id: 166547
+    title: >-
+        How did the adaptation of Greek gods influence Roman culture?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-greek-myths-convey-lessons-about-punishment-and-justice
+    url: /learn/philosophy-and-greek-myths/questions/how-did-the-adaptation-of-greek-gods-influence-roman-culture
 related_article5:
-    id: 166549
-    title: How does Greek mythology explain natural events and their connection to the environment?
+    id: 166539
+    title: >-
+        How are Cyclopes depicted in Greek mythology, and what is their significance?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-greek-mythology-explain-natural-events-and-their-connection-to-the-environment
+    url: /learn/philosophy-and-greek-myths/questions/how-are-cyclopes-depicted-in-greek-mythology-and-what-is-their-significance
 ---
 
 &nbsp;

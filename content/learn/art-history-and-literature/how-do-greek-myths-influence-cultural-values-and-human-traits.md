@@ -2,8 +2,10 @@
 _schema: default
 id: 163883
 date: 2025-01-28
-title: How do Greek myths influence cultural values and human traits?
-article_title: How do Greek myths influence cultural values and human traits?
+title: >-
+    How do Greek myths influence cultural values and human traits?
+article_title: >-
+    How do Greek myths influence cultural values and human traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-greek-myths-influence-cultural-values-and-human-traits.md
 url: /learn/art-history-and-literature/questions/how-do-greek-myths-influence-cultural-values-and-human-traits
 score: 9.0
 related_article1:
-    id: 163884
-    title: What role does shape-shifting play in mythological narratives?
+    id: 163877
+    title: >-
+        What is the symbolic significance of the lyre in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-shapeshifting-play-in-mythological-narratives
+    url: /learn/art-history-and-literature/questions/what-is-the-symbolic-significance-of-the-lyre-in-greek-mythology
 related_article2:
-    id: 163873
-    title: What are the key factors that influence interpersonal relationships among Greek gods?
+    id: 163877
+    title: >-
+        What is the symbolic significance of the lyre in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
+    url: /learn/art-history-and-literature/questions/what-is-the-symbolic-significance-of-the-lyre-in-greek-mythology
 related_article3:
-    id: 163874
-    title: How do familial ties among gods reflect human-like interactions in Greek mythology?
+    id: 163878
+    title: >-
+        How is fire portrayed in Greek mythology, and what roles does it play?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-familial-ties-among-gods-reflect-humanlike-interactions-in-greek-mythology
+    url: /learn/art-history-and-literature/questions/how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play
 related_article4:
-    id: 163875
-    title: What are the defining characteristics of Hermes as a trickster god?
+    id: 163879
+    title: >-
+        How do inventions in mythology symbolize human advancement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-hermes-as-a-trickster-god
+    url: /learn/art-history-and-literature/questions/how-do-inventions-in-mythology-symbolize-human-advancement
 related_article5:
-    id: 163884
-    title: What role does shape-shifting play in mythological narratives?
+    id: 163887
+    title: >-
+        How do trickster gods use humor to impact mythological narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-shapeshifting-play-in-mythological-narratives
+    url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
 ---
 
 &nbsp;

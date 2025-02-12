@@ -2,8 +2,10 @@
 _schema: default
 id: 168132
 date: 2025-02-02
-title: How do prenatal influences affect gender typing?
-article_title: How do prenatal influences affect gender typing?
+title: >-
+    How do prenatal influences affect gender typing?
+article_title: >-
+    How do prenatal influences affect gender typing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-prenatal-influences-affect-gender-typing.md
 url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
 score: -1.0
 related_article1:
-    id: 168126
-    title: What are the gender differences in prenatal and perinatal vulnerability?
+    id: 168115
+    title: >-
+        What are the gender differences observed in mental rotation tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
 related_article2:
-    id: 168117
-    title: What is spatial perception, and how does it vary by gender?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
-related_article3:
-    id: 168137
-    title: How do gender-based interests influence career choices?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
-related_article4:
     id: 168124
-    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    title: >-
+        Describe the trajectory of self-esteem from childhood to adolescence.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+related_article3:
+    id: 168118
+    title: >-
+        What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
+related_article4:
+    id: 168118
+    title: >-
+        What patterns of physical aggression are typically observed in early childhood?
+    subject: Psychology
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
 related_article5:
     id: 168113
-    title: What are the gender differences in reading and writing achievement?
+    title: >-
+        What are the gender differences in reading and writing achievement?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-gender-differences-in-reading-and-writing-achievement
 ---

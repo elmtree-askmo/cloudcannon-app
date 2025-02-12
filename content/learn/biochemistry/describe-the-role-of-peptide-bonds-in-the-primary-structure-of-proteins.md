@@ -2,8 +2,10 @@
 _schema: default
 id: 167235
 date: 2025-01-31
-title: Describe the role of peptide bonds in the primary structure of proteins.
-article_title: Describe the role of peptide bonds in the primary structure of proteins.
+title: >-
+    Describe the role of peptide bonds in the primary structure of proteins.
+article_title: >-
+    Describe the role of peptide bonds in the primary structure of proteins.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-peptide-bonds-in-the-primary-structure-of-protei
 url: /learn/biochemistry/questions/describe-the-role-of-peptide-bonds-in-the-primary-structure-of-proteins
 score: -1.0
 related_article1:
-    id: 167232
-    title: What are the primary functions of proteins in cells?
-    subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
-related_article2:
     id: 167241
-    title: Differentiate between acidic and basic R-groups.
+    title: >-
+        Differentiate between acidic and basic R-groups.
     subject: Biochemistry
     url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+related_article2:
+    id: 167243
+    title: >-
+        How does protein structure determine its function?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
 related_article3:
     id: 167240
-    title: How does the variability of R-groups affect protein structure?
+    title: >-
+        How does the variability of R-groups affect protein structure?
     subject: Biochemistry
     url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
 related_article4:
-    id: 167233
-    title: How do molecular chaperones assist in protein folding?
+    id: 167232
+    title: >-
+        What are the primary functions of proteins in cells?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
 related_article5:
-    id: 167244
-    title: What are the effects of protein denaturation on function?
+    id: 167237
+    title: >-
+        How do R-group interactions influence the tertiary structure of proteins?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+    url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

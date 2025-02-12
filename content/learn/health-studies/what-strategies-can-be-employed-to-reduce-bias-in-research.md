@@ -2,8 +2,10 @@
 _schema: default
 id: 163249
 date: 2025-01-26
-title: What strategies can be employed to reduce bias in research?
-article_title: What strategies can be employed to reduce bias in research?
+title: >-
+    What strategies can be employed to reduce bias in research?
+article_title: >-
+    What strategies can be employed to reduce bias in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-employed-to-reduce-bias-in-research.md
 url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
 score: -1.0
 related_article1:
-    id: 163246
-    title: What is internal validity and why is it important in research studies?
+    id: 163248
+    title: >-
+        What are the main types of bias that can affect a study's results?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
+    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
 related_article2:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
+    id: 163251
+    title: >-
+        What are the primary objectives of clinical studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
+    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
 related_article3:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
+    id: 163264
+    title: >-
+        What are the challenges of keeping current evidence updated in clinical practice?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+    url: /learn/health-studies/questions/what-are-the-challenges-of-keeping-current-evidence-updated-in-clinical-practice
 related_article4:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
+    id: 163257
+    title: >-
+        What is sampling bias and how can it affect the results of a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+    url: /learn/health-studies/questions/what-is-sampling-bias-and-how-can-it-affect-the-results-of-a-study
 related_article5:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
+    id: 163251
+    title: >-
+        What are the primary objectives of clinical studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
 ---
 
 &nbsp;

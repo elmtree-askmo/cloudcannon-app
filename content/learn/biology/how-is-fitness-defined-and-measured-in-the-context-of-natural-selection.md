@@ -2,8 +2,10 @@
 _schema: default
 id: 166370
 date: 2025-01-30
-title: How is fitness defined and measured in the context of natural selection?
-article_title: How is fitness defined and measured in the context of natural selection?
+title: >-
+    How is fitness defined and measured in the context of natural selection?
+article_title: >-
+    How is fitness defined and measured in the context of natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-fitness-defined-and-measured-in-the-context-of-natural-selecti
 url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
 score: -1.0
 related_article1:
-    id: 166365
-    title: What is convergent evolution and how does it differ from homology?
+    id: 166358
+    title: >-
+        What is the purpose of a truncation selection experiment in studying heritability?
     subject: Biology
-    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
+    url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
 related_article2:
-    id: 166373
-    title: What factors influence the response to selection in a population?
+    id: 166354
+    title: >-
+        How do ultimate and proximate questions differ in the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
 related_article3:
-    id: 166356
-    title: Explain the concept of heritability and its significance in natural selection.
+    id: 166358
+    title: >-
+        What is the purpose of a truncation selection experiment in studying heritability?
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-heritability-and-its-significance-in-natural-selection
+    url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
 related_article4:
-    id: 166367
-    title: What role do neurobiological influences play in shaping behavior?
+    id: 166363
+    title: >-
+        What is a phylogenetic tree and what information does it provide about evolutionary relationships?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
 related_article5:
-    id: 166369
-    title: What is phylogeny and how does it relate to evolutionary history?
+    id: 166371
+    title: >-
+        What are the sources of genetic variation and why are they important for evolution?
     subject: Biology
-    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
 ---
 
 &nbsp;

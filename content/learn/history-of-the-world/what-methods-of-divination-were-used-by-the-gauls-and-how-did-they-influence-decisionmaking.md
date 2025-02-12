@@ -2,8 +2,10 @@
 _schema: default
 id: 166087
 date: 2025-01-29
-title: What methods of divination were used by the Gauls, and how did they influence decision-making?
-article_title: What methods of divination were used by the Gauls, and how did they influence decision-making?
+title: >-
+    What methods of divination were used by the Gauls, and how did they influence decision-making?
+article_title: >-
+    What methods of divination were used by the Gauls, and how did they influence decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-methods-of-divination-were-used-by-the-gauls-and-how-did-they-in
 url: /learn/history-of-the-world/questions/what-methods-of-divination-were-used-by-the-gauls-and-how-did-they-influence-decisionmaking
 score: 8.5
 related_article1:
+    id: 166077
+    title: >-
+        What strategies did Gauls employ during the initial engagement in battle using chariots?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-did-gauls-employ-during-the-initial-engagement-in-battle-using-chariots
+related_article2:
+    id: 166088
+    title: >-
+        Explain the class structure of Gaulish society and the roles of free men and warriors.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-class-structure-of-gaulish-society-and-the-roles-of-free-men-and-warriors
+related_article3:
+    id: 166083
+    title: >-
+        What role did artistic expression play in Gaulish culture, especially in clothing and armor design?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-artistic-expression-play-in-gaulish-culture-especially-in-clothing-and-armor-design
+related_article4:
     id: 166084
-    title: Describe the characteristics of Gaulish speech and the role of bards in their society.
+    title: >-
+        Describe the characteristics of Gaulish speech and the role of bards in their society.
     subject: History of the World
     url: /learn/history-of-the-world/questions/describe-the-characteristics-of-gaulish-speech-and-the-role-of-bards-in-their-society
-related_article2:
-    id: 166081
-    title: Explain the significance of helmets and decorations in Gaulish battle attire.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
-related_article3:
-    id: 166080
-    title: What were the typical components of everyday Gaulish clothing?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-typical-components-of-everyday-gaulish-clothing
-related_article4:
+related_article5:
     id: 166082
-    title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    title: >-
+        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
-related_article5:
-    id: 166084
-    title: Describe the characteristics of Gaulish speech and the role of bards in their society.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-characteristics-of-gaulish-speech-and-the-role-of-bards-in-their-society
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166788
 date: 2025-01-31
-title: What are the key components of a pie chart, and how should they be interpreted?
-article_title: What are the key components of a pie chart, and how should they be interpreted?
+title: >-
+    What are the key components of a pie chart, and how should they be interpreted?
+article_title: >-
+    What are the key components of a pie chart, and how should they be interpreted?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-a-pie-chart-and-how-should-they-be-int
 url: /learn/education-studies/questions/what-are-the-key-components-of-a-pie-chart-and-how-should-they-be-interpreted
 score: -1.0
 related_article1:
-    id: 166777
-    title: What is the importance of analyzing the title of a graph?
+    id: 166776
+    title: >-
+        How can legends be used to enhance the understanding of a graph?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-analyzing-the-title-of-a-graph
+    url: /learn/education-studies/questions/how-can-legends-be-used-to-enhance-the-understanding-of-a-graph
 related_article2:
+    id: 166780
+    title: >-
+        How can trends be identified in a graph?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-trends-be-identified-in-a-graph
+related_article3:
     id: 166794
-    title: How can educational research findings be aligned with course structure to improve learning outcomes?
+    title: >-
+        How can educational research findings be aligned with course structure to improve learning outcomes?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-educational-research-findings-be-aligned-with-course-structure-to-improve-learning-outcomes
-related_article3:
-    id: 166795
-    title: What strategies can students use to effectively utilize resources for academic success?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-students-use-to-effectively-utilize-resources-for-academic-success
 related_article4:
+    id: 166789
+    title: >-
+        How does a histogram differ from a bar graph in terms of components and use cases?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-a-histogram-differ-from-a-bar-graph-in-terms-of-components-and-use-cases
+related_article5:
     id: 166775
-    title: What are the key elements to consider when interpreting the axis labels on a graph?
+    title: >-
+        What are the key elements to consider when interpreting the axis labels on a graph?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-elements-to-consider-when-interpreting-the-axis-labels-on-a-graph
-related_article5:
-    id: 166777
-    title: What is the importance of analyzing the title of a graph?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-analyzing-the-title-of-a-graph
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164008
 date: 2025-01-28
-title: Why are stone inscriptions significant in Classical Studies?
-article_title: Why are stone inscriptions significant in Classical Studies?
+title: >-
+    Why are stone inscriptions significant in Classical Studies?
+article_title: >-
+    Why are stone inscriptions significant in Classical Studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-stone-inscriptions-significant-in-classical-studies.md
 url: /learn/art-history-and-literature/questions/why-are-stone-inscriptions-significant-in-classical-studies
 score: 9.0
 related_article1:
+    id: 164003
+    title: >-
+        How did Thucydides approach the recording of political events?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-thucydides-approach-the-recording-of-political-events
+related_article2:
+    id: 164003
+    title: >-
+        How did Thucydides approach the recording of political events?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-thucydides-approach-the-recording-of-political-events
+related_article3:
+    id: 164007
+    title: >-
+        What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-themes-explored-in-homeric-texts-like-the-iliad-and-the-odyssey
+related_article4:
     id: 163998
-    title: What significant event marked the transition from the Hellenistic Period to the Roman Period?
+    title: >-
+        What significant event marked the transition from the Hellenistic Period to the Roman Period?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-significant-event-marked-the-transition-from-the-hellenistic-period-to-the-roman-period
-related_article2:
-    id: 164010
-    title: How do myths help in understanding human existence and religious practices?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-myths-help-in-understanding-human-existence-and-religious-practices
-related_article3:
-    id: 164009
-    title: What is the importance of sacred places in mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
-related_article4:
-    id: 164005
-    title: How do legends differ from fairy tales in terms of their connection to history?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-legends-differ-from-fairy-tales-in-terms-of-their-connection-to-history
 related_article5:
-    id: 164002
-    title: What is the historical context in which Herodotus wrote his histories?
+    id: 164003
+    title: >-
+        How did Thucydides approach the recording of political events?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
+    url: /learn/art-history-and-literature/questions/how-did-thucydides-approach-the-recording-of-political-events
 ---
 
 &nbsp;

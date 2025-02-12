@@ -2,8 +2,10 @@
 _schema: default
 id: 166359
 date: 2025-01-30
-title: How does parent-offspring regression help in understanding heritability?
-article_title: How does parent-offspring regression help in understanding heritability?
+title: >-
+    How does parent-offspring regression help in understanding heritability?
+article_title: >-
+    How does parent-offspring regression help in understanding heritability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-parentoffspring-regression-help-in-understanding-heritabilit
 url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
 score: -1.0
 related_article1:
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
+related_article2:
+    id: 166362
+    title: >-
+        How does the environment influence adaptation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
+related_article3:
     id: 166367
-    title: What role do neurobiological influences play in shaping behavior?
+    title: >-
+        What role do neurobiological influences play in shaping behavior?
     subject: Biology
     url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
-related_article2:
-    id: 166354
-    title: How do ultimate and proximate questions differ in the study of animal behavior?
-    subject: Biology
-    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
-related_article3:
-    id: 166372
-    title: How is the selection differential calculated and what does it indicate?
-    subject: Biology
-    url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
 related_article4:
-    id: 166361
-    title: Define adaptation and explain its importance in evolutionary biology.
+    id: 166365
+    title: >-
+        What is convergent evolution and how does it differ from homology?
     subject: Biology
-    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
 related_article5:
-    id: 166366
-    title: How do genetic influences affect animal behavior?
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
     subject: Biology
-    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
 ---
 
 &nbsp;

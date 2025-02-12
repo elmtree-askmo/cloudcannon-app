@@ -2,8 +2,10 @@
 _schema: default
 id: 160028
 date: 2025-01-23
-title: Describe the impact of non-European cultures on European art during the colonial period.
-article_title: Describe the impact of non-European cultures on European art during the colonial period.
+title: >-
+    Describe the impact of non-European cultures on European art during the colonial period.
+article_title: >-
+    Describe the impact of non-European cultures on European art during the colonial period.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-impact-of-noneuropean-cultures-on-european-art-during-th
 url: /learn/education-studies/questions/describe-the-impact-of-noneuropean-cultures-on-european-art-during-the-colonial-period
 score: -1.0
 related_article1:
-    id: 159745
-    title: What role did salons and academies play in the development of art history?
+    id: 159754
+    title: >-
+        What are the key components of formal analysis when visually analyzing artworks?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
+    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
 related_article2:
-    id: 159753
-    title: How has technology influenced the integration of new media in art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-technology-influenced-the-integration-of-new-media-in-art
-related_article3:
-    id: 159739
-    title: What were the main artistic responses to urbanization and cultural shifts caused by the Industrial Revolution?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-main-artistic-responses-to-urbanization-and-cultural-shifts-caused-by-the-industrial-revolution
-related_article4:
-    id: 159750
-    title: What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
-related_article5:
     id: 159752
-    title: In what ways can art serve as a tool for social change?
+    title: >-
+        In what ways can art serve as a tool for social change?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
+related_article3:
+    id: 160021
+    title: >-
+        How did the Industrial Revolution contribute to the evolution of visual culture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
+related_article4:
+    id: 160037
+    title: >-
+        In what ways can art serve as a tool for social change?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
+related_article5:
+    id: 159745
+    title: >-
+        What role did salons and academies play in the development of art history?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
 ---
 
 &nbsp;

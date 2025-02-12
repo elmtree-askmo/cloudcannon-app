@@ -2,8 +2,10 @@
 _schema: default
 id: 169713
 date: 2025-02-05
-title: What is the composition of urine in terms of nitrogenous waste?
-article_title: What is the composition of urine in terms of nitrogenous waste?
+title: >-
+    What is the composition of urine in terms of nitrogenous waste?
+article_title: >-
+    What is the composition of urine in terms of nitrogenous waste?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste.md
 url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
 score: -1.0
 related_article1:
-    id: 169714
-    title: How does the esophagus use peristaltic waves to function?
+    id: 169705
+    title: >-
+        What equipment and materials are required for an IT suite examination?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+    url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
 related_article2:
-    id: 169714
-    title: How does the esophagus use peristaltic waves to function?
+    id: 169704
+    title: >-
+        What is the structure of a multiple choice question in an exam format?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
 related_article3:
-    id: 169707
-    title: How should time be managed during an exam under closed book conditions?
+    id: 169715
+    title: >-
+        What is the role of hydrochloric acid in the stomach?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
 related_article4:
-    id: 169709
-    title: What role do the pulmonary artery and vein play in blood circulation?
+    id: 169708
+    title: >-
+        Describe the flow of blood through the right atrium and ventricle of the heart.
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
 related_article5:
-    id: 169726
-    title: What are the health implications of being classified as overweight or obese?
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
 ---
 
 &nbsp;

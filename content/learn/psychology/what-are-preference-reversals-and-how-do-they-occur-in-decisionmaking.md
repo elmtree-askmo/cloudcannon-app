@@ -2,8 +2,10 @@
 _schema: default
 id: 168890
 date: 2025-02-04
-title: What are preference reversals and how do they occur in decision-making?
-article_title: What are preference reversals and how do they occur in decision-making?
+title: >-
+    What are preference reversals and how do they occur in decision-making?
+article_title: >-
+    What are preference reversals and how do they occur in decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 score: -1.0
 related_article1:
-    id: 168888
-    title: What is the disposition effect and how does it affect investment decisions?
+    id: 168891
+    title: >-
+        How is experienced well-being measured using the Day Reconstruction Method?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
 related_article2:
-    id: 168885
-    title: What role does overconfidence play in financial forecasting?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
-related_article3:
     id: 168886
-    title: Describe the premortem strategy and its purpose in decision-making.
+    title: >-
+        Describe the premortem strategy and its purpose in decision-making.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
-related_article4:
-    id: 168883
-    title: What is the planning fallacy and how does it affect project forecasts?
+related_article3:
+    id: 168885
+    title: >-
+        What role does overconfidence play in financial forecasting?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article4:
+    id: 168885
+    title: >-
+        What role does overconfidence play in financial forecasting?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+related_article5:
+    id: 168884
+    title: >-
+        How does reference class forecasting help mitigate the planning fallacy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166462
 date: 2025-01-30
-title: What are the primary routes of drug excretion?
-article_title: What are the primary routes of drug excretion?
+title: >-
+    What are the primary routes of drug excretion?
+article_title: >-
+    What are the primary routes of drug excretion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-routes-of-drug-excretion.md
 url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
 score: -1.0
 related_article1:
-    id: 166465
-    title: How do agonist medications differ from antagonist medications in their mechanism of action?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
-related_article2:
     id: 166453
-    title: What are the main types of solid dosage forms in pharmaceutical formulations?
+    title: >-
+        What are the main types of solid dosage forms in pharmaceutical formulations?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-main-types-of-solid-dosage-forms-in-pharmaceutical-formulations
+related_article2:
+    id: 166466
+    title: >-
+        What are therapeutic uses and clinical applications in the context of drug indications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
 related_article3:
-    id: 166455
-    title: What are the key factors influencing drug absorption in pharmacokinetics?
+    id: 166457
+    title: >-
+        What is the first-pass effect and how does it impact drug bioavailability?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-factors-influencing-drug-absorption-in-pharmacokinetics
+    url: /learn/nursing/questions/what-is-the-firstpass-effect-and-how-does-it-impact-drug-bioavailability
 related_article4:
-    id: 166469
-    title: How do synergistic effects influence drug efficacy?
+    id: 166461
+    title: >-
+        How do genetic factors influence drug metabolism?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-synergistic-effects-influence-drug-efficacy
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
 related_article5:
-    id: 166455
-    title: What are the key factors influencing drug absorption in pharmacokinetics?
+    id: 166468
+    title: >-
+        What are the different types of drug interactions and their potential impacts?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-factors-influencing-drug-absorption-in-pharmacokinetics
+    url: /learn/nursing/questions/what-are-the-different-types-of-drug-interactions-and-their-potential-impacts
 ---
 
 &nbsp;

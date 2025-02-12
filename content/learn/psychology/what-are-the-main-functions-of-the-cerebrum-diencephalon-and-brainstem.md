@@ -2,8 +2,10 @@
 _schema: default
 id: 170462
 date: 2025-02-06
-title: What are the main functions of the cerebrum, diencephalon, and brainstem?
-article_title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+title: >-
+    What are the main functions of the cerebrum, diencephalon, and brainstem?
+article_title: >-
+    What are the main functions of the cerebrum, diencephalon, and brainstem?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainste
 url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
 score: -1.0
 related_article1:
-    id: 170471
-    title: How does the medulla oblongata regulate heart rate and control reflexes?
+    id: 170467
+    title: >-
+        What are the characteristics of sagittal, coronal, and horizontal brain sections?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
 related_article2:
-    id: 170460
-    title: What are the primary differences between gray matter and white matter in the brain?
+    id: 170461
+    title: >-
+        How do gyri and sulci contribute to brain function?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
 related_article3:
-    id: 170480
-    title: What are the pathophysiological features of Alzheimer's disease?
+    id: 170463
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
 related_article4:
-    id: 170478
-    title: What are the differences between functional and structural neuroimaging techniques?
+    id: 170474
+    title: >-
+        What are the primary functions of the olfactory and optic nerves?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
 related_article5:
     id: 170473
-    title: How do short-term and long-term memory systems differ in the limbic system?
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
     subject: Psychology
     url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 ---

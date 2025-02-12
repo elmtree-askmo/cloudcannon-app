@@ -2,8 +2,10 @@
 _schema: default
 id: 166475
 date: 2025-01-30
-title: What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
-article_title: What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+title: >-
+    What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
+article_title: >-
+    What role do pharmacotherapeutic modalities play in treatment plans and patient outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-a
 url: /learn/nursing/questions/what-role-do-pharmacotherapeutic-modalities-play-in-treatment-plans-and-patient-outcomes
 score: -1.0
 related_article1:
-    id: 166488
-    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
-related_article2:
-    id: 166486
-    title: What distinguishes physical dependence on opioids from psychological dependence?
-    subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
-related_article3:
-    id: 166486
-    title: What distinguishes physical dependence on opioids from psychological dependence?
-    subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
-related_article4:
-    id: 166488
-    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
-related_article5:
     id: 166487
-    title: What factors can influence an individual's pain threshold?
+    title: >-
+        What factors can influence an individual's pain threshold?
     subject: Nursing
     url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+related_article2:
+    id: 166477
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article3:
+    id: 166485
+    title: >-
+        How does opioid tolerance affect pain management strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
+related_article4:
+    id: 166476
+    title: >-
+        How does pharmacogenomics influence the customization of treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
+related_article5:
+    id: 166488
+    title: >-
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 ---
 
 &nbsp;

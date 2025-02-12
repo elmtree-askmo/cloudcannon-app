@@ -2,8 +2,10 @@
 _schema: default
 id: 160556
 date: 2025-01-24
-title: Describe the methodologies used in qualitative and quantitative research for developing research skills.
-article_title: Describe the methodologies used in qualitative and quantitative research for developing research skills.
+title: >-
+    Describe the methodologies used in qualitative and quantitative research for developing research skills.
+article_title: >-
+    Describe the methodologies used in qualitative and quantitative research for developing research skills.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-methodologies-used-in-qualitative-and-quantitative-resea
 url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-developing-research-skills
 score: -1.0
 related_article1:
-    id: 160559
-    title: Explain the significance of communication technologies and transportation networks in global connectivity.
+    id: 160547
+    title: >-
+        Discuss the impact of global markets on local economies and economic inequality.
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
+    url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
 related_article2:
-    id: 160092
-    title: How do place and space contribute to regional analysis and regional attributes?
+    id: 160090
+    title: >-
+        How do community dynamics and social inequality influence social structures?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+    url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
 related_article3:
-    id: 160636
-    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    id: 160235
+    title: >-
+        Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 related_article4:
-    id: 160622
-    title: What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    id: 160506
+    title: >-
+        How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
 related_article5:
-    id: 160209
-    title: How do economic forces and political actions influence urban transformations in human geography?
+    id: 160508
+    title: >-
+        How do trade relations and global supply chains illustrate economic networks in global interdependence?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 ---
 
 &nbsp;

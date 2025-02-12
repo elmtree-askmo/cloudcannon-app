@@ -2,8 +2,10 @@
 _schema: default
 id: 164723
 date: 2025-01-28
-title: How do superior and inferior directional terms apply in clinical settings?
-article_title: How do superior and inferior directional terms apply in clinical settings?
+title: >-
+    How do superior and inferior directional terms apply in clinical settings?
+article_title: >-
+    How do superior and inferior directional terms apply in clinical settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-superior-and-inferior-directional-terms-apply-in-clinical-sett
 url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
 score: -1.0
 related_article1:
-    id: 164747
-    title: Compare MRI and CT scans in terms of their applications in brain imaging.
-    subject: Nursing
-    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
-related_article2:
-    id: 164752
-    title: What is the role of white matter tracts in brain connectivity?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
-related_article3:
     id: 164729
-    title: Describe the significance of gyri and sulci in neuroanatomy.
+    title: >-
+        Describe the significance of gyri and sulci in neuroanatomy.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-significance-of-gyri-and-sulci-in-neuroanatomy
+related_article2:
+    id: 164742
+    title: >-
+        Identify the major brain regions and their primary functions.
+    subject: Nursing
+    url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
+related_article3:
+    id: 164725
+    title: >-
+        Explain the anatomical context of rostral and caudal directional terms.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
 related_article4:
-    id: 164750
-    title: Explain the importance of understanding neuroanatomy in clinical applications.
+    id: 164732
+    title: >-
+        What is the functional and clinical significance of the longitudinal fissure in the brain?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
 related_article5:
-    id: 164747
-    title: Compare MRI and CT scans in terms of their applications in brain imaging.
+    id: 164732
+    title: >-
+        What is the functional and clinical significance of the longitudinal fissure in the brain?
     subject: Nursing
-    url: /learn/nursing/questions/compare-mri-and-ct-scans-in-terms-of-their-applications-in-brain-imaging
+    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
 ---
 
 &nbsp;

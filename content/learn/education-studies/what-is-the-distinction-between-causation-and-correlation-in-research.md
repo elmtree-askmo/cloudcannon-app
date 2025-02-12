@@ -2,8 +2,10 @@
 _schema: default
 id: 165146
 date: 2025-01-28
-title: What is the distinction between causation and correlation in research?
-article_title: What is the distinction between causation and correlation in research?
+title: >-
+    What is the distinction between causation and correlation in research?
+article_title: >-
+    What is the distinction between causation and correlation in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-distinction-between-causation-and-correlation-in-research
 url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
 score: -1.0
 related_article1:
-    id: 165141
-    title: What role does dopamine play in stress and behavior?
+    id: 165142
+    title: >-
+        How is cortisol measured in stress research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-dopamine-play-in-stress-and-behavior
+    url: /learn/education-studies/questions/how-is-cortisol-measured-in-stress-research
 related_article2:
-    id: 165150
-    title: What are the key differences between thematic analysis and content analysis in qualitative research?
+    id: 165143
+    title: >-
+        What are the positive effects of video games on stress?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
+    url: /learn/education-studies/questions/what-are-the-positive-effects-of-video-games-on-stress
 related_article3:
-    id: 165141
-    title: What role does dopamine play in stress and behavior?
+    id: 165147
+    title: >-
+        What are the implications of confusing causation with correlation in research findings?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-dopamine-play-in-stress-and-behavior
+    url: /learn/education-studies/questions/what-are-the-implications-of-confusing-causation-with-correlation-in-research-findings
 related_article4:
-    id: 165145
-    title: How do qualitative and quantitative research methodologies differ?
+    id: 165129
+    title: >-
+        How does block randomization differ from simple randomization, and what are its applications?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-qualitative-and-quantitative-research-methodologies-differ
+    url: /learn/education-studies/questions/how-does-block-randomization-differ-from-simple-randomization-and-what-are-its-applications
 related_article5:
-    id: 165124
-    title: What are the essential components of project planning in project management?
+    id: 165148
+    title: >-
+        What are the types of measurement instruments used in research, and how is reliability assessed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-project-planning-in-project-management
+    url: /learn/education-studies/questions/what-are-the-types-of-measurement-instruments-used-in-research-and-how-is-reliability-assessed
 ---
 
 &nbsp;

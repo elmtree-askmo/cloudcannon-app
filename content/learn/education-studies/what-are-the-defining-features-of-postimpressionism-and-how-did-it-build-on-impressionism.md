@@ -2,8 +2,10 @@
 _schema: default
 id: 160019
 date: 2025-01-23
-title: What are the defining features of Post-Impressionism, and how did it build on Impressionism?
-article_title: What are the defining features of Post-Impressionism, and how did it build on Impressionism?
+title: >-
+    What are the defining features of Post-Impressionism, and how did it build on Impressionism?
+article_title: >-
+    What are the defining features of Post-Impressionism, and how did it build on Impressionism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-features-of-postimpressionism-and-how-did-it-bu
 url: /learn/education-studies/questions/what-are-the-defining-features-of-postimpressionism-and-how-did-it-build-on-impressionism
 score: -1.0
 related_article1:
-    id: 159800
-    title: How did technological advancements during the Industrial Revolution influence modern art?
+    id: 159743
+    title: >-
+        How did the Industrial Revolution contribute to the evolution of visual culture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
+    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
 related_article2:
-    id: 160015
-    title: Describe the main characteristics of Realism as an artistic movement.
+    id: 159804
+    title: >-
+        In what ways did Post-Impressionism expand upon the ideas of Impressionism?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-main-characteristics-of-realism-as-an-artistic-movement
+    url: /learn/education-studies/questions/in-what-ways-did-postimpressionism-expand-upon-the-ideas-of-impressionism
 related_article3:
-    id: 159745
-    title: What role did salons and academies play in the development of art history?
+    id: 159741
+    title: >-
+        How did Impressionism differ from previous artistic movements in terms of technique and subject matter?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
+    url: /learn/education-studies/questions/how-did-impressionism-differ-from-previous-artistic-movements-in-terms-of-technique-and-subject-matter
 related_article4:
-    id: 159801
-    title: What were the main artistic responses to urbanization and cultural shifts during the Industrial Revolution?
+    id: 159803
+    title: >-
+        How did Impressionism challenge traditional artistic techniques and perspectives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-main-artistic-responses-to-urbanization-and-cultural-shifts-during-the-industrial-revolution
+    url: /learn/education-studies/questions/how-did-impressionism-challenge-traditional-artistic-techniques-and-perspectives
 related_article5:
-    id: 159754
-    title: What are the key components of formal analysis when visually analyzing artworks?
+    id: 159751
+    title: >-
+        How did modernism emerge as a significant movement in art, and what were its global influences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
+    url: /learn/education-studies/questions/how-did-modernism-emerge-as-a-significant-movement-in-art-and-what-were-its-global-influences
 ---
 
 &nbsp;

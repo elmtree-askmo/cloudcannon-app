@@ -2,8 +2,10 @@
 _schema: default
 id: 166186
 date: 2025-01-29
-title: What are the main differences between the domains Bacteria, Archaea, and Eukarya?
-article_title: What are the main differences between the domains Bacteria, Archaea, and Eukarya?
+title: >-
+    What are the main differences between the domains Bacteria, Archaea, and Eukarya?
+article_title: >-
+    What are the main differences between the domains Bacteria, Archaea, and Eukarya?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-main-differences-between-the-domains-bacteria-archaea-an
 url: /learn/biotechnology/questions/what-are-the-main-differences-between-the-domains-bacteria-archaea-and-eukarya
 score: -1.0
 related_article1:
-    id: 166175
-    title: How do metabolism and homeostasis contribute to the survival of living organisms?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
-related_article2:
-    id: 166198
-    title: What distinguishes a scientific theory from a hypothesis?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
-related_article3:
     id: 166194
-    title: How do the levels of biological organization progress from molecular to ecological levels?
+    title: >-
+        How do the levels of biological organization progress from molecular to ecological levels?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
-related_article4:
-    id: 166175
-    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+related_article2:
+    id: 166188
+    title: >-
+        What distinguishes eukaryotic cells from prokaryotic cells in terms of structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+    url: /learn/biotechnology/questions/what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure
+related_article3:
+    id: 166176
+    title: >-
+        Explain the role of evolution in the growth and reproduction of living organisms.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms
+related_article4:
+    id: 166197
+    title: >-
+        How do control and experimental groups differ in scientific experimentation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+related_article5:
+    id: 166184
+    title: >-
+        How do classification systems reflect evolutionary relationships among species?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-classification-systems-reflect-evolutionary-relationships-among-species
 ---
 
 &nbsp;

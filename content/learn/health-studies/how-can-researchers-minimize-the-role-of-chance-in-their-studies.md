@@ -2,8 +2,10 @@
 _schema: default
 id: 163247
 date: 2025-01-26
-title: How can researchers minimize the role of chance in their studies?
-article_title: How can researchers minimize the role of chance in their studies?
+title: >-
+    How can researchers minimize the role of chance in their studies?
+article_title: >-
+    How can researchers minimize the role of chance in their studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-researchers-minimize-the-role-of-chance-in-their-studies.md
 url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
 score: -1.0
 related_article1:
-    id: 163246
-    title: What is internal validity and why is it important in research studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
-related_article2:
-    id: 163249
-    title: What strategies can be employed to reduce bias in research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
-related_article3:
     id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    title: >-
+        How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+related_article2:
+    id: 163259
+    title: >-
+        What role do systematic reviews and meta-analyses play in evidence appraisal?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
+related_article3:
+    id: 163254
+    title: >-
+        How can a DAG be used to identify confounders in a study?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
 related_article4:
-    id: 163257
-    title: What is sampling bias and how can it affect the results of a study?
+    id: 163250
+    title: >-
+        How can confounders be identified and adjusted for in a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-sampling-bias-and-how-can-it-affect-the-results-of-a-study
+    url: /learn/health-studies/questions/how-can-confounders-be-identified-and-adjusted-for-in-a-study
 related_article5:
-    id: 163260
-    title: Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
+    id: 163265
+    title: >-
+        How can healthcare professionals balance current evidence with clinical judgment in practice?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
+    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
 ---
 
 &nbsp;

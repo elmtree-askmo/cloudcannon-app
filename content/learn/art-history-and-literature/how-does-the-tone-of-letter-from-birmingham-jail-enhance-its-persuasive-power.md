@@ -2,8 +2,10 @@
 _schema: default
 id: 168580
 date: 2025-02-03
-title: How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
-article_title: How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
+title: >-
+    How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
+article_title: >-
+    How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasi
 url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
 score: 9.0
 related_article1:
-    id: 168583
-    title: What are the historical foundations of freedom, equality, and justice as reflected in seminal documents?
+    id: 168565
+    title: >-
+        What are the key characteristics that define a seminal document?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-historical-foundations-of-freedom-equality-and-justice-as-reflected-in-seminal-documents
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
 related_article2:
-    id: 168574
-    title: How do allusions in historical texts enhance meaning and context?
+    id: 168577
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
+    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 related_article3:
-    id: 168574
-    title: How do allusions in historical texts enhance meaning and context?
+    id: 168571
+    title: >-
+        What are the legal and social perspectives of justice as depicted in seminal texts?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
+    url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
 related_article4:
     id: 168568
-    title: How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+    title: >-
+        How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
 related_article5:
-    id: 168565
-    title: What are the key characteristics that define a seminal document?
+    id: 168581
+    title: >-
+        What role have seminal documents played in shaping civil rights movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
+    url: /learn/art-history-and-literature/questions/what-role-have-seminal-documents-played-in-shaping-civil-rights-movements
 ---
 
 &nbsp;

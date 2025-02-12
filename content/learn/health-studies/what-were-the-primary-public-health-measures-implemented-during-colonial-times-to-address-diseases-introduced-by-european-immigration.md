@@ -2,8 +2,10 @@
 _schema: default
 id: 162576
 date: 2025-01-25
-title: What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
-article_title: What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
+title: >-
+    What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
+article_title: >-
+    What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-were-the-primary-public-health-measures-implemented-during-colon
 url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-during-colonial-times-to-address-diseases-introduced-by-european-immigration
 score: -1.0
 related_article1:
-    id: 162582
-    title: What is the significance of geographical epidemiology in modern public health practices?
+    id: 162585
+    title: >-
+        What are the main components of the Canada Health Act that support publicly-funded universal health care?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-geographical-epidemiology-in-modern-public-health-practices
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
 related_article2:
-    id: 162584
-    title: How do provincial boards of health contribute to public health infrastructure in Canada?
+    id: 162577
+    title: >-
+        How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
+    url: /learn/health-studies/questions/how-did-the-quarantine-acts-and-sanitary-reforms-contribute-to-early-public-health-efforts
 related_article3:
-    id: 162584
-    title: How do provincial boards of health contribute to public health infrastructure in Canada?
+    id: 162583
+    title: >-
+        What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
+    url: /learn/health-studies/questions/what-were-the-main-arguments-of-the-antivaccination-movements-against-compulsory-smallpox-vaccination
 related_article4:
-    id: 162582
-    title: What is the significance of geographical epidemiology in modern public health practices?
+    id: 162581
+    title: >-
+        How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-geographical-epidemiology-in-modern-public-health-practices
+    url: /learn/health-studies/questions/how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epidemiology
+related_article5:
+    id: 162579
+    title: >-
+        How did the cholera epidemic influence sanitary measures and public health infrastructure?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-the-cholera-epidemic-influence-sanitary-measures-and-public-health-infrastructure
 ---
 
 &nbsp;

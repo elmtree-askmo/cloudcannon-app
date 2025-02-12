@@ -2,8 +2,10 @@
 _schema: default
 id: 169968
 date: 2025-02-05
-title: What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
-article_title: What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
+title: >-
+    What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
+article_title: >-
+    What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-insights-do-the-vindolanda-tablets-provide-about-daily-life-and-
 url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-daily-life-and-military-operations-in-roman-britain
 score: 9.0
 related_article1:
-    id: 169969
-    title: According to Tacitus, what were the British attitudes towards Roman taxation and conscription?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/according-to-tacitus-what-were-the-british-attitudes-towards-roman-taxation-and-conscription
-related_article2:
     id: 169967
-    title: How did the Romanization process affect cultural integration in Britain?
+    title: >-
+        How did the Romanization process affect cultural integration in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-romanization-process-affect-cultural-integration-in-britain
-related_article3:
-    id: 169965
-    title: In what ways did Roman architecture influence lifestyle and urban planning in Britain?
+related_article2:
+    id: 169969
+    title: >-
+        According to Tacitus, what were the British attitudes towards Roman taxation and conscription?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-architecture-influence-lifestyle-and-urban-planning-in-britain
+    url: /learn/history-of-the-world/questions/according-to-tacitus-what-were-the-british-attitudes-towards-roman-taxation-and-conscription
+related_article3:
+    id: 169970
+    title: >-
+        What strategies did the Romans use for taxation and conscription to maintain control in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-did-the-romans-use-for-taxation-and-conscription-to-maintain-control-in-britain
 related_article4:
     id: 169965
-    title: In what ways did Roman architecture influence lifestyle and urban planning in Britain?
+    title: >-
+        In what ways did Roman architecture influence lifestyle and urban planning in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/in-what-ways-did-roman-architecture-influence-lifestyle-and-urban-planning-in-britain
 related_article5:
-    id: 169963
-    title: What were the major Roman cities in Britain and what roles did they play in trade and administration?
+    id: 169970
+    title: >-
+        What strategies did the Romans use for taxation and conscription to maintain control in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-major-roman-cities-in-britain-and-what-roles-did-they-play-in-trade-and-administration
+    url: /learn/history-of-the-world/questions/what-strategies-did-the-romans-use-for-taxation-and-conscription-to-maintain-control-in-britain
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166251
 date: 2025-01-29
-title: In what ways did Roman syncretism manifest in Britain, particularly with the integration of British gods?
-article_title: In what ways did Roman syncretism manifest in Britain, particularly with the integration of British gods?
+title: >-
+    In what ways did Roman syncretism manifest in Britain, particularly with the integration of British gods?
+article_title: >-
+    In what ways did Roman syncretism manifest in Britain, particularly with the integration of British gods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-roman-syncretism-manifest-in-britain-particularly-wi
 url: /learn/history-of-the-world/questions/in-what-ways-did-roman-syncretism-manifest-in-britain-particularly-with-the-integration-of-british-gods
 score: 9.0
 related_article1:
-    id: 166244
-    title: How did the installation of the Trinovantes' king impact Roman-British relations?
+    id: 166254
+    title: >-
+        What military strategies did the Romans use against British tribes, and what factors led to their eventual withdrawal from Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-installation-of-the-trinovantes-king-impact-romanbritish-relations
+    url: /learn/history-of-the-world/questions/what-military-strategies-did-the-romans-use-against-british-tribes-and-what-factors-led-to-their-eventual-withdrawal-from-britain
 related_article2:
-    id: 166244
-    title: How did the installation of the Trinovantes' king impact Roman-British relations?
+    id: 166246
+    title: >-
+        What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-installation-of-the-trinovantes-king-impact-romanbritish-relations
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
 related_article3:
-    id: 166245
-    title: What insights do 'De Bello Gallico' and the works of Suetonius and Cassius Dio provide about Roman Britain?
+    id: 166252
+    title: >-
+        What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-insights-do-de-bello-gallico-and-the-works-of-suetonius-and-cassius-dio-provide-about-roman-britain
+    url: /learn/history-of-the-world/questions/what-evidence-exists-of-early-christian-communities-in-roman-britain-and-how-did-trade-routes-facilitate-the-spread-of-christianity
 related_article4:
-    id: 166246
-    title: What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
+    id: 166247
+    title: >-
+        How did Roman provincial governance function in Britain, and what was the role of governors?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
+    url: /learn/history-of-the-world/questions/how-did-roman-provincial-governance-function-in-britain-and-what-was-the-role-of-governors
 related_article5:
-    id: 166246
-    title: What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
+    id: 166249
+    title: >-
+        What were the motivations behind Boudicca's revolt, and what impact did it have on Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
+    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-boudiccas-revolt-and-what-impact-did-it-have-on-roman-britain
 ---
 
 &nbsp;

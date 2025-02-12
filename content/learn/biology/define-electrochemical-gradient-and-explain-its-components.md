@@ -2,8 +2,10 @@
 _schema: default
 id: 168940
 date: 2025-02-04
-title: Define electrochemical gradient and explain its components.
-article_title: Define electrochemical gradient and explain its components.
+title: >-
+    Define electrochemical gradient and explain its components.
+article_title: >-
+    Define electrochemical gradient and explain its components.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-electrochemical-gradient-and-explain-its-components.md
 url: /learn/biology/questions/define-electrochemical-gradient-and-explain-its-components
 score: -1.0
 related_article1:
-    id: 168931
-    title: How do channel proteins and aquaporins facilitate transport across the cell membrane?
+    id: 168934
+    title: >-
+        Explain the process of diffusion and provide examples of substances that move by this method.
     subject: Biology
-    url: /learn/biology/questions/how-do-channel-proteins-and-aquaporins-facilitate-transport-across-the-cell-membrane
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
 related_article2:
+    id: 168933
+    title: >-
+        What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
+related_article3:
+    id: 168938
+    title: >-
+        Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
+related_article4:
     id: 168935
-    title: Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
+    title: >-
+        Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
     subject: Biology
     url: /learn/biology/questions/describe-osmosis-and-differentiate-between-isotonic-hypertonic-and-hypotonic-solutions
-related_article3:
-    id: 168936
-    title: What is the role of ATP in active transport, and how does it facilitate movement against a concentration gradient?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-atp-in-active-transport-and-how-does-it-facilitate-movement-against-a-concentration-gradient
-related_article4:
-    id: 168943
-    title: Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
 related_article5:
-    id: 168930
-    title: What are the hydrophilic and hydrophobic properties of the phospholipid bilayer, and how do they contribute to membrane permeability?
+    id: 168939
+    title: >-
+        What are the different types of endocytosis, and how do they function in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
 ---
 
 &nbsp;

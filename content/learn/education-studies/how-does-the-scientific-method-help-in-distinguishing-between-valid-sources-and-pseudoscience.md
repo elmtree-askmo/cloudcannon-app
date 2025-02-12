@@ -2,8 +2,10 @@
 _schema: default
 id: 168344
 date: 2025-02-03
-title: How does the scientific method help in distinguishing between valid sources and pseudoscience?
-article_title: How does the scientific method help in distinguishing between valid sources and pseudoscience?
+title: >-
+    How does the scientific method help in distinguishing between valid sources and pseudoscience?
+article_title: >-
+    How does the scientific method help in distinguishing between valid sources and pseudoscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-scientific-method-help-in-distinguishing-between-valid-s
 url: /learn/education-studies/questions/how-does-the-scientific-method-help-in-distinguishing-between-valid-sources-and-pseudoscience
 score: -1.0
 related_article1:
-    id: 168349
-    title: How did the discovery of CFCs impact our understanding of the ozone layer and what role did peer review play in this discovery?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-discovery-of-cfcs-impact-our-understanding-of-the-ozone-layer-and-what-role-did-peer-review-play-in-this-discovery
-related_article2:
-    id: 168347
-    title: What are the effects of deforestation on water flow and nutrient loss in watersheds?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-deforestation-on-water-flow-and-nutrient-loss-in-watersheds
-related_article3:
-    id: 168351
-    title: Why is replication important in experimental design, particularly in environmental science studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-replication-important-in-experimental-design-particularly-in-environmental-science-studies
-related_article4:
-    id: 168347
-    title: What are the effects of deforestation on water flow and nutrient loss in watersheds?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-deforestation-on-water-flow-and-nutrient-loss-in-watersheds
-related_article5:
     id: 168350
-    title: What are the historical impacts of acid precipitation on forests and water bodies, and how have they improved over time?
+    title: >-
+        What are the historical impacts of acid precipitation on forests and water bodies, and how have they improved over time?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-historical-impacts-of-acid-precipitation-on-forests-and-water-bodies-and-how-have-they-improved-over-time
+related_article2:
+    id: 168349
+    title: >-
+        How did the discovery of CFCs impact our understanding of the ozone layer and what role did peer review play in this discovery?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-discovery-of-cfcs-impact-our-understanding-of-the-ozone-layer-and-what-role-did-peer-review-play-in-this-discovery
+related_article3:
+    id: 168345
+    title: >-
+        What role does peer review play in the evaluation of hypotheses and data interpretation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-peer-review-play-in-the-evaluation-of-hypotheses-and-data-interpretation
+related_article4:
+    id: 168350
+    title: >-
+        What are the historical impacts of acid precipitation on forests and water bodies, and how have they improved over time?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-historical-impacts-of-acid-precipitation-on-forests-and-water-bodies-and-how-have-they-improved-over-time
+related_article5:
+    id: 168343
+    title: >-
+        What are the defining features of a strong hypothesis in scientific research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-a-strong-hypothesis-in-scientific-research
 ---
 
 &nbsp;

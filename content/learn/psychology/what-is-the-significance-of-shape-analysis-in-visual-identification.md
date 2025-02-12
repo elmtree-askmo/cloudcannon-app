@@ -2,8 +2,10 @@
 _schema: default
 id: 164306
 date: 2025-01-28
-title: What is the significance of shape analysis in visual identification?
-article_title: What is the significance of shape analysis in visual identification?
+title: >-
+    What is the significance of shape analysis in visual identification?
+article_title: >-
+    What is the significance of shape analysis in visual identification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-shape-analysis-in-visual-identification.m
 url: /learn/psychology/questions/what-is-the-significance-of-shape-analysis-in-visual-identification
 score: -1.0
 related_article1:
+    id: 164299
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+related_article2:
     id: 164292
-    title: How do social dynamics affect socio-physical interactions?
+    title: >-
+        How do social dynamics affect socio-physical interactions?
     subject: Psychology
     url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
-related_article2:
-    id: 164297
-    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
 related_article3:
-    id: 164288
-    title: What are the key components of cognitive engagement in brain activity?
+    id: 164300
+    title: >-
+        How does neurostimulation enhance brain activity?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
+    url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
 related_article4:
-    id: 164301
-    title: What are the main processes involved in auditory perception?
+    id: 164299
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
 related_article5:
-    id: 164290
-    title: What role does color perception play in visual processing?
+    id: 164310
+    title: >-
+        What factors influence color differentiation in the visual spectrum?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
 ---
 
 &nbsp;

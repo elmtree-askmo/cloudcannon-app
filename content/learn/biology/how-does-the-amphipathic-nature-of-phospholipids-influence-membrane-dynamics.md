@@ -2,8 +2,10 @@
 _schema: default
 id: 167179
 date: 2025-01-31
-title: How does the amphipathic nature of phospholipids influence membrane dynamics?
-article_title: How does the amphipathic nature of phospholipids influence membrane dynamics?
+title: >-
+    How does the amphipathic nature of phospholipids influence membrane dynamics?
+article_title: >-
+    How does the amphipathic nature of phospholipids influence membrane dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-d
 url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-influence-membrane-dynamics
 score: -1.0
 related_article1:
-    id: 167177
-    title: Explain why lipids are nonpolar and how this characteristic affects their biological functions.
+    id: 167178
+    title: >-
+        What role do beta glycosidic linkages play in the structural integrity of plant cell walls?
     subject: Biology
-    url: /learn/biology/questions/explain-why-lipids-are-nonpolar-and-how-this-characteristic-affects-their-biological-functions
+    url: /learn/biology/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structural-integrity-of-plant-cell-walls
 related_article2:
-    id: 167172
-    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    id: 167176
+    title: >-
+        How does the length of a fatty acid's hydrocarbon chain affect its properties?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
+    url: /learn/biology/questions/how-does-the-length-of-a-fatty-acids-hydrocarbon-chain-affect-its-properties
 related_article3:
-    id: 167172
-    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
+    id: 167176
+    title: >-
+        How does the length of a fatty acid's hydrocarbon chain affect its properties?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
+    url: /learn/biology/questions/how-does-the-length-of-a-fatty-acids-hydrocarbon-chain-affect-its-properties
 related_article4:
-    id: 167174
-    title: Compare the structural differences between lipids and carbohydrates.
+    id: 167176
+    title: >-
+        How does the length of a fatty acid's hydrocarbon chain affect its properties?
     subject: Biology
-    url: /learn/biology/questions/compare-the-structural-differences-between-lipids-and-carbohydrates
-related_article5:
-    id: 167172
-    title: How does the amphipathic nature of phospholipids contribute to their role in membrane formation?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-their-role-in-membrane-formation
+    url: /learn/biology/questions/how-does-the-length-of-a-fatty-acids-hydrocarbon-chain-affect-its-properties
 ---
 
 &nbsp;

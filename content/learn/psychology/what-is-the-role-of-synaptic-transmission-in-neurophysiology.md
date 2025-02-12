@@ -2,8 +2,10 @@
 _schema: default
 id: 170465
 date: 2025-02-06
-title: What is the role of synaptic transmission in neurophysiology?
-article_title: What is the role of synaptic transmission in neurophysiology?
+title: >-
+    What is the role of synaptic transmission in neurophysiology?
+article_title: >-
+    What is the role of synaptic transmission in neurophysiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-synaptic-transmission-in-neurophysiology.md
 url: /learn/psychology/questions/what-is-the-role-of-synaptic-transmission-in-neurophysiology
 score: -1.0
 related_article1:
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article2:
     id: 170463
-    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
     subject: Psychology
     url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
-related_article2:
+related_article3:
+    id: 170477
+    title: >-
+        How does synaptic plasticity contribute to learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-learning-and-memory
+related_article4:
     id: 170475
-    title: What are the causes and symptoms of an epidural hematoma?
+    title: >-
+        What are the causes and symptoms of an epidural hematoma?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
-related_article3:
-    id: 170464
-    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
-related_article4:
-    id: 170464
-    title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
 related_article5:
-    id: 170462
-    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    id: 170482
+    title: >-
+        What is the role of the primary motor cortex in motor control?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
 ---
 
 &nbsp;

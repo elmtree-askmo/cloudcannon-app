@@ -2,8 +2,10 @@
 _schema: default
 id: 164005
 date: 2025-01-28
-title: How do legends differ from fairy tales in terms of their connection to history?
-article_title: How do legends differ from fairy tales in terms of their connection to history?
+title: >-
+    How do legends differ from fairy tales in terms of their connection to history?
+article_title: >-
+    How do legends differ from fairy tales in terms of their connection to history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-legends-differ-from-fairy-tales-in-terms-of-their-connection-t
 url: /learn/art-history-and-literature/questions/how-do-legends-differ-from-fairy-tales-in-terms-of-their-connection-to-history
 score: 9.0
 related_article1:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
+    id: 164007
+    title: >-
+        What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
+    url: /learn/art-history-and-literature/questions/what-are-the-main-themes-explored-in-homeric-texts-like-the-iliad-and-the-odyssey
 related_article2:
-    id: 164009
-    title: What is the importance of sacred places in mythology?
+    id: 164007
+    title: >-
+        What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
+    url: /learn/art-history-and-literature/questions/what-are-the-main-themes-explored-in-homeric-texts-like-the-iliad-and-the-odyssey
 related_article3:
-    id: 163996
-    title: What were the key developments during the Archaic Period in Classical Studies?
+    id: 164011
+    title: >-
+        What is the structuralist interpretation of mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-developments-during-the-archaic-period-in-classical-studies
+    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
 related_article4:
-    id: 164009
-    title: What is the importance of sacred places in mythology?
+    id: 164002
+    title: >-
+        What is the historical context in which Herodotus wrote his histories?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
+    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
 related_article5:
-    id: 164004
-    title: What are the key characteristics that define a myth?
+    id: 164010
+    title: >-
+        How do myths help in understanding human existence and religious practices?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-myth
+    url: /learn/art-history-and-literature/questions/how-do-myths-help-in-understanding-human-existence-and-religious-practices
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164333
 date: 2025-01-28
-title: What role does the parietal lobe play in sensory processing?
-article_title: What role does the parietal lobe play in sensory processing?
+title: >-
+    What role does the parietal lobe play in sensory processing?
+article_title: >-
+    What role does the parietal lobe play in sensory processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-the-parietal-lobe-play-in-sensory-processing.md
 url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
 score: -1.0
 related_article1:
-    id: 164331
-    title: What are the primary functions of the occipital lobe in visual processing?
+    id: 164332
+    title: >-
+        How does the temporal lobe contribute to visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
 related_article2:
-    id: 164332
-    title: How does the temporal lobe contribute to visual processing?
+    id: 164334
+    title: >-
+        How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
 related_article3:
-    id: 164344
-    title: How can variability in brain regions impact research studies in cognitive neuroscience?
+    id: 164334
+    title: >-
+        How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
 related_article4:
-    id: 164332
-    title: How does the temporal lobe contribute to visual processing?
+    id: 164338
+    title: >-
+        What is the difference between single dissociation and double dissociation in neuroimaging studies?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
+    url: /learn/psychology/questions/what-is-the-difference-between-single-dissociation-and-double-dissociation-in-neuroimaging-studies
 related_article5:
-    id: 164344
-    title: How can variability in brain regions impact research studies in cognitive neuroscience?
+    id: 164336
+    title: >-
+        What is the purpose of functional imaging studies in cognitive neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
+    url: /learn/psychology/questions/what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience
 ---
 
 &nbsp;

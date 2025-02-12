@@ -2,8 +2,10 @@
 _schema: default
 id: 161131
 date: 2025-01-24
-title: How do advanced data structures impact algorithm efficiency?
-article_title: How do advanced data structures impact algorithm efficiency?
+title: >-
+    How do advanced data structures impact algorithm efficiency?
+article_title: >-
+    How do advanced data structures impact algorithm efficiency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-advanced-data-structures-impact-algorithm-efficiency.md
 url: /learn/computer-science/questions/how-do-advanced-data-structures-impact-algorithm-efficiency
 score: -1.0
 related_article1:
-    id: 161135
-    title: Explain the traveling salesman problem and its role in NP-completeness.
+    id: 160810
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
+    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 related_article2:
-    id: 160964
-    title: What challenges are associated with solving the traveling salesman problem?
+    id: 160808
+    title: >-
+        What defines an efficient algorithm in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
+    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 related_article3:
-    id: 161134
-    title: What is the P vs NP problem and why is it significant in computational theory?
+    id: 160812
+    title: >-
+        What distinguishes rational numbers from irrational numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-significant-in-computational-theory
+    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
 related_article4:
-    id: 161145
-    title: What breakthroughs have been made in primality testing algorithms?
+    id: 161128
+    title: >-
+        Explain the role of abstraction in simplifying complex computing problems.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
+    url: /learn/computer-science/questions/explain-the-role-of-abstraction-in-simplifying-complex-computing-problems
 related_article5:
-    id: 161087
-    title: What is the significance of algorithm representation in the initial step of algorithm development?
+    id: 160804
+    title: >-
+        What is the halting problem, and why is it significant in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 ---
 
 &nbsp;

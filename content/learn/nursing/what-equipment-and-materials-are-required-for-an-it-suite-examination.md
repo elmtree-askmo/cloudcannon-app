@@ -2,8 +2,10 @@
 _schema: default
 id: 169705
 date: 2025-02-05
-title: What equipment and materials are required for an IT suite examination?
-article_title: What equipment and materials are required for an IT suite examination?
+title: >-
+    What equipment and materials are required for an IT suite examination?
+article_title: >-
+    What equipment and materials are required for an IT suite examination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-equipment-and-materials-are-required-for-an-it-suite-examination
 url: /learn/nursing/questions/what-equipment-and-materials-are-required-for-an-it-suite-examination
 score: -1.0
 related_article1:
-    id: 169718
-    title: What are the primary macronutrients and their functions?
+    id: 169707
+    title: >-
+        How should time be managed during an exam under closed book conditions?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
 related_article2:
-    id: 169712
-    title: Explain the process of waste and water removal in the kidneys.
+    id: 169713
+    title: >-
+        What is the composition of urine in terms of nitrogenous waste?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-process-of-waste-and-water-removal-in-the-kidneys
+    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
 related_article3:
+    id: 169727
+    title: >-
+        What is the composition of blood in terms of red and white blood cells?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
+related_article4:
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
+related_article5:
     id: 169721
-    title: How does REM sleep affect dreaming and sleep cycles?
+    title: >-
+        How does REM sleep affect dreaming and sleep cycles?
     subject: Nursing
     url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
-related_article4:
-    id: 169725
-    title: What is the normal BMI range for adults?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
-related_article5:
-    id: 169708
-    title: Describe the flow of blood through the right atrium and ventricle of the heart.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
 ---
 
 &nbsp;

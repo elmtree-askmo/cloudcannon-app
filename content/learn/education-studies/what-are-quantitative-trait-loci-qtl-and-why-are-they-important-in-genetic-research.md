@@ -2,8 +2,10 @@
 _schema: default
 id: 167852
 date: 2025-02-01
-title: What are quantitative trait loci (QTL), and why are they important in genetic research?
-article_title: What are quantitative trait loci (QTL), and why are they important in genetic research?
+title: >-
+    What are quantitative trait loci (QTL), and why are they important in genetic research?
+article_title: >-
+    What are quantitative trait loci (QTL), and why are they important in genetic research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-quantitative-trait-loci-qtl-and-why-are-they-important-in-ge
 url: /learn/education-studies/questions/what-are-quantitative-trait-loci-qtl-and-why-are-they-important-in-genetic-research
 score: -1.0
 related_article1:
-    id: 167846
-    title: What is the role of standard deviation and variance in analyzing genetic data?
+    id: 167851
+    title: >-
+        How does genetic potential relate to the normal distribution of quantitative traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-standard-deviation-and-variance-in-analyzing-genetic-data
+    url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
 related_article2:
-    id: 167844
-    title: Explain the concept of heritability and its importance in understanding genetic variance.
+    id: 167836
+    title: >-
+        Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
+    url: /learn/education-studies/questions/explain-the-concept-of-lethal-alleles-and-differentiate-between-dominant-and-recessive-lethal-alleles
 related_article3:
-    id: 167844
-    title: Explain the concept of heritability and its importance in understanding genetic variance.
+    id: 167849
+    title: >-
+        What is the difference between incomplete dominance and incomplete penetrance?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
+    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
 related_article4:
     id: 167832
-    title: How does incomplete dominance differ from complete dominance, and what are its genetic implications?
+    title: >-
+        How does incomplete dominance differ from complete dominance, and what are its genetic implications?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance-and-what-are-its-genetic-implications
 related_article5:
-    id: 167838
-    title: What is epistasis, and how does it affect genetic pathways? Provide an example.
+    id: 167833
+    title: >-
+        What is incomplete penetrance, and how does it affect phenotypic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-epistasis-and-how-does-it-affect-genetic-pathways-provide-an-example
+    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-phenotypic-expression
 ---
 
 &nbsp;

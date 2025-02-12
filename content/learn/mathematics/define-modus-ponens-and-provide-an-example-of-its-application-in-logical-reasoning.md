@@ -2,8 +2,10 @@
 _schema: default
 id: 170230
 date: 2025-02-06
-title: Define Modus Ponens and provide an example of its application in logical reasoning.
-article_title: Define Modus Ponens and provide an example of its application in logical reasoning.
+title: >-
+    Define Modus Ponens and provide an example of its application in logical reasoning.
+article_title: >-
+    Define Modus Ponens and provide an example of its application in logical reasoning.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-modus-ponens-and-provide-an-example-of-its-application-in-logi
 url: /learn/mathematics/questions/define-modus-ponens-and-provide-an-example-of-its-application-in-logical-reasoning
 score: -1.0
 related_article1:
-    id: 170219
-    title: How can truth tables be used to determine the validity of an argument?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-the-validity-of-an-argument
-related_article2:
     id: 170227
-    title: What is the double negation rule in inference, and how is it applied in logical reasoning?
+    title: >-
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
-related_article3:
-    id: 170232
-    title: Explain the disjunctive syllogism rule and provide an example of its application.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-disjunctive-syllogism-rule-and-provide-an-example-of-its-application
-related_article4:
+related_article2:
     id: 170234
-    title: Describe the resolution rule in inference and provide an example of its application.
+    title: >-
+        Describe the resolution rule in inference and provide an example of its application.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-resolution-rule-in-inference-and-provide-an-example-of-its-application
-related_article5:
-    id: 170225
-    title: What is the conjunction rule in inference, and how is it applied in logical arguments?
+related_article3:
+    id: 170228
+    title: >-
+        Describe the addition rule in inference and its application in logical arguments.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-conjunction-rule-in-inference-and-how-is-it-applied-in-logical-arguments
+    url: /learn/mathematics/questions/describe-the-addition-rule-in-inference-and-its-application-in-logical-arguments
+related_article4:
+    id: 170227
+    title: >-
+        What is the double negation rule in inference, and how is it applied in logical reasoning?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-double-negation-rule-in-inference-and-how-is-it-applied-in-logical-reasoning
+related_article5:
+    id: 170231
+    title: >-
+        What is Modus Tollens, and how is it applied in logical arguments?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-modus-tollens-and-how-is-it-applied-in-logical-arguments
 ---
 
 &nbsp;

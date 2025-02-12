@@ -2,8 +2,10 @@
 _schema: default
 id: 167048
 date: 2025-01-31
-title: How do hydroxyl and carbonyl groups influence molecular polarity?
-article_title: How do hydroxyl and carbonyl groups influence molecular polarity?
+title: >-
+    How do hydroxyl and carbonyl groups influence molecular polarity?
+article_title: >-
+    How do hydroxyl and carbonyl groups influence molecular polarity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity.md
 url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
 score: -1.0
 related_article1:
-    id: 167043
-    title: What role does resonance stability play in the properties of carboxyl groups?
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
 related_article2:
-    id: 167045
-    title: Why is the amino group important in biological systems?
+    id: 167050
+    title: >-
+        How do functional groups like hydroxyl and amino groups affect water solubility?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-the-amino-group-important-in-biological-systems
+    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
 related_article3:
-    id: 167053
-    title: What defines organic chemistry and how does it relate to functional group diversity?
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
 related_article4:
-    id: 167036
-    title: Describe the structure of a hydroxyl group and its role in alcohol formation.
+    id: 167041
+    title: >-
+        Explain why carbonyl groups are susceptible to nucleophilic attacks.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 related_article5:
-    id: 167053
-    title: What defines organic chemistry and how does it relate to functional group diversity?
+    id: 167046
+    title: >-
+        What are the structural characteristics of a methyl group that contribute to its hydrophobicity?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
+    url: /learn/chemistry/questions/what-are-the-structural-characteristics-of-a-methyl-group-that-contribute-to-its-hydrophobicity
 ---
 
 &nbsp;

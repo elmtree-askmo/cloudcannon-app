@@ -2,8 +2,10 @@
 _schema: default
 id: 166238
 date: 2025-01-29
-title: How do data analysis techniques like statistical methods and data visualization aid in historical research?
-article_title: How do data analysis techniques like statistical methods and data visualization aid in historical research?
+title: >-
+    How do data analysis techniques like statistical methods and data visualization aid in historical research?
+article_title: >-
+    How do data analysis techniques like statistical methods and data visualization aid in historical research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-data-analysis-techniques-like-statistical-methods-and-data-vis
 url: /learn/history-of-the-world/questions/how-do-data-analysis-techniques-like-statistical-methods-and-data-visualization-aid-in-historical-research
 score: 9.0
 related_article1:
-    id: 166218
-    title: How is machine learning applied in natural language processing?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-machine-learning-applied-in-natural-language-processing
+    id: 166213
+    title: >-
+        What were the key developments in the historical context of Arabic studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
 related_article2:
-    id: 166229
-    title: What are the main disciplines within social sciences, and how do they contribute to understanding society?
+    id: 166237
+    title: >-
+        What are the main components involved in constructing historical narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-disciplines-within-social-sciences-and-how-do-they-contribute-to-understanding-society
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
 related_article3:
-    id: 166226
-    title: How can stress management techniques improve mental health?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
+    id: 166213
+    title: >-
+        What were the key developments in the historical context of Arabic studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
 related_article4:
+    id: 166230
+    title: >-
+        How do qualitative and quantitative research methods differ in social sciences?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+related_article5:
     id: 166228
-    title: What are the limitations of using archaeological finds as historical evidence?
+    title: >-
+        What are the limitations of using archaeological finds as historical evidence?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
-related_article5:
-    id: 166216
-    title: What are the common challenges faced when implementing iClicker technology in classrooms?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-common-challenges-faced-when-implementing-iclicker-technology-in-classrooms
 ---
 
 &nbsp;

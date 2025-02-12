@@ -2,8 +2,10 @@
 _schema: default
 id: 163355
 date: 2025-01-26
-title: Why is the peer review process crucial in scientific communication?
-article_title: Why is the peer review process crucial in scientific communication?
+title: >-
+    Why is the peer review process crucial in scientific communication?
+article_title: >-
+    Why is the peer review process crucial in scientific communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-peer-review-process-crucial-in-scientific-communication.md
 url: /learn/science/questions/why-is-the-peer-review-process-crucial-in-scientific-communication
 score: -1.0
 related_article1:
-    id: 163348
-    title: How does a hypothesis differ from a prediction in scientific research?
+    id: 163351
+    title: >-
+        Why is it important to keep constants in an experiment?
     subject: Science
-    url: /learn/science/questions/how-does-a-hypothesis-differ-from-a-prediction-in-scientific-research
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
 related_article2:
     id: 163350
-    title: How do independent and dependent variables differ in an experiment?
+    title: >-
+        How do independent and dependent variables differ in an experiment?
     subject: Science
     url: /learn/science/questions/how-do-independent-and-dependent-variables-differ-in-an-experiment
 related_article3:
     id: 163350
-    title: How do independent and dependent variables differ in an experiment?
+    title: >-
+        How do independent and dependent variables differ in an experiment?
     subject: Science
     url: /learn/science/questions/how-do-independent-and-dependent-variables-differ-in-an-experiment
 related_article4:
-    id: 163350
-    title: How do independent and dependent variables differ in an experiment?
+    id: 163349
+    title: >-
+        What is the importance of having a control group in an experimental design?
     subject: Science
-    url: /learn/science/questions/how-do-independent-and-dependent-variables-differ-in-an-experiment
+    url: /learn/science/questions/what-is-the-importance-of-having-a-control-group-in-an-experimental-design
 related_article5:
-    id: 163352
-    title: What are the key considerations for unbiased data collection in scientific research?
+    id: 163351
+    title: >-
+        Why is it important to keep constants in an experiment?
     subject: Science
-    url: /learn/science/questions/what-are-the-key-considerations-for-unbiased-data-collection-in-scientific-research
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
 ---
 
 &nbsp;

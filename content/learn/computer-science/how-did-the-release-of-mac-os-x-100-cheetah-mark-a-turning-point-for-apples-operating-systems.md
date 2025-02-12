@@ -2,8 +2,10 @@
 _schema: default
 id: 160600
 date: 2025-01-24
-title: How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
-article_title: How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
+title: >-
+    How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
+article_title: >-
+    How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-release-of-mac-os-x-100-cheetah-mark-a-turning-point-for-
 url: /learn/computer-science/questions/how-did-the-release-of-mac-os-x-100-cheetah-mark-a-turning-point-for-apples-operating-systems
 score: -1.0
 related_article1:
-    id: 160425
-    title: What were the technological advancements introduced with the iPhone 3G?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
-related_article2:
-    id: 160530
-    title: What were the implications of Apple's transition to Intel processors for product performance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance
-related_article3:
     id: 160513
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
     url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+related_article2:
+    id: 160513
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+related_article3:
+    id: 160521
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
 related_article4:
-    id: 160417
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    id: 160431
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article5:
-    id: 160597
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    id: 160430
+    title: >-
+        What were the implications of Apple's transition to Intel processors for product performance and compatibility?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance-and-compatibility
 ---
 
 &nbsp;

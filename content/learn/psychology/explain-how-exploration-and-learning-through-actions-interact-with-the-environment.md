@@ -2,8 +2,10 @@
 _schema: default
 id: 168107
 date: 2025-02-02
-title: Explain how exploration and learning through actions interact with the environment.
-article_title: Explain how exploration and learning through actions interact with the environment.
+title: >-
+    Explain how exploration and learning through actions interact with the environment.
+article_title: >-
+    Explain how exploration and learning through actions interact with the environment.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-how-exploration-and-learning-through-actions-interact-with-th
 url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 score: -1.0
 related_article1:
-    id: 168092
-    title: What is the age range for the sensorimotor stage in cognitive development?
+    id: 168101
+    title: >-
+        What is object permanence, and why is it important in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
+    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
 related_article2:
     id: 168096
-    title: What distinguishes secondary circular reactions from primary circular reactions?
+    title: >-
+        What distinguishes secondary circular reactions from primary circular reactions?
     subject: Psychology
     url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
 related_article3:
-    id: 168108
-    title: What are mental representations, and how do they aid in problem-solving?
+    id: 168100
+    title: >-
+        Define internalization of schemas and give an example.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
 related_article4:
-    id: 168106
-    title: How do sensory input and motor actions contribute to cognitive development?
+    id: 168098
+    title: >-
+        Explain the coordination of secondary circular reactions and provide an example.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
 related_article5:
-    id: 168105
-    title: Provide an example of deferred imitation and explain its significance.
+    id: 168101
+    title: >-
+        What is object permanence, and why is it important in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/provide-an-example-of-deferred-imitation-and-explain-its-significance
+    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
 ---
 
 &nbsp;

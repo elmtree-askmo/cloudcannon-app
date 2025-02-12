@@ -2,8 +2,10 @@
 _schema: default
 id: 169940
 date: 2025-02-05
-title: How are cations and anions formed?
-article_title: How are cations and anions formed?
+title: >-
+    How are cations and anions formed?
+article_title: >-
+    How are cations and anions formed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-cations-and-anions-formed.md
 url: /learn/biology/questions/how-are-cations-and-anions-formed
 score: -1.0
 related_article1:
-    id: 169941
-    title: What role do electrolytes play in chemical reactions?
+    id: 169959
+    title: >-
+        What is the role of membrane proteins in the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
+    url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
 related_article2:
     id: 169954
-    title: How do enzymes exhibit specificity for their substrates?
+    title: >-
+        How do enzymes exhibit specificity for their substrates?
     subject: Biology
     url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
 related_article3:
-    id: 169939
-    title: What is the difference between covalent and ionic bonds?
+    id: 169950
+    title: >-
+        How does ATP function as an energy carrier in cells?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
 related_article4:
-    id: 169942
-    title: What are the building blocks of proteins?
+    id: 169947
+    title: >-
+        How do enzymes lower activation energy in biochemical reactions?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-biochemical-reactions
 related_article5:
-    id: 169946
-    title: What are the four levels of protein structure?
+    id: 169941
+    title: >-
+        What role do electrolytes play in chemical reactions?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
 ---
 
 &nbsp;

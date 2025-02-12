@@ -2,8 +2,10 @@
 _schema: default
 id: 169200
 date: 2025-02-04
-title: Name two spatial analysis techniques used in GIS.
-article_title: Name two spatial analysis techniques used in GIS.
+title: >-
+    Name two spatial analysis techniques used in GIS.
+article_title: >-
+    Name two spatial analysis techniques used in GIS.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: name-two-spatial-analysis-techniques-used-in-gis.md
 url: /learn/education-studies/questions/name-two-spatial-analysis-techniques-used-in-gis
 score: -1.0
 related_article1:
+    id: 169194
+    title: >-
+        How can you manage visual output in Grasshopper when working with 3D models?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
+related_article2:
+    id: 169191
+    title: >-
+        Explain the role of nodes in Grasshopper's algorithmic modeling.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
+related_article3:
+    id: 169188
+    title: >-
+        List three common file formats used in GIS for data layers.
+    subject: Education Studies
+    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
+related_article4:
+    id: 169192
+    title: >-
+        What are the benefits of using parametric design in Grasshopper?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-parametric-design-in-grasshopper
+related_article5:
     id: 169193
-    title: Describe the basic steps to create geometry in Grasshopper.
+    title: >-
+        Describe the basic steps to create geometry in Grasshopper.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-basic-steps-to-create-geometry-in-grasshopper
-related_article2:
-    id: 169199
-    title: What is metadata in GIS, and why is it important for spatial analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-metadata-in-gis-and-why-is-it-important-for-spatial-analysis
-related_article3:
-    id: 169187
-    title: What is the primary purpose of Geographic Information Systems (GIS)?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-geographic-information-systems-gis
-related_article4:
-    id: 169187
-    title: What is the primary purpose of Geographic Information Systems (GIS)?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-geographic-information-systems-gis
-related_article5:
-    id: 169198
-    title: How is random number generation used in design iteration within Grasshopper?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-random-number-generation-used-in-design-iteration-within-grasshopper
 ---
 
 &nbsp;

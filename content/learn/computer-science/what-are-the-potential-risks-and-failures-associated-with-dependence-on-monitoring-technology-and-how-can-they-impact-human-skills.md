@@ -2,8 +2,10 @@
 _schema: default
 id: 161532
 date: 2025-01-24
-title: What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
-article_title: What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
+title: >-
+    What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
+article_title: >-
+    What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-risks-and-failures-associated-with-dependence-
 url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
 score: -1.0
 related_article1:
-    id: 161354
-    title: Explain the components and process involved in car park barrier systems.
+    id: 161528
+    title: >-
+        Explain the components and process of car park barrier systems, including the feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-process-involved-in-car-park-barrier-systems
+    url: /learn/computer-science/questions/explain-the-components-and-process-of-car-park-barrier-systems-including-the-feedback-mechanism
 related_article2:
-    id: 161525
-    title: Explain the components and functionality of central heating systems, including the process and feedback mechanism.
+    id: 161517
+    title: >-
+        Define real-time processing and explain its importance in control systems with examples.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-functionality-of-central-heating-systems-including-the-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems-with-examples
 related_article3:
-    id: 161529
-    title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+    id: 161347
+    title: >-
+        What types of sensors are typically used in weather stations, and how is data collected and processed?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/what-types-of-sensors-are-typically-used-in-weather-stations-and-how-is-data-collected-and-processed
 related_article4:
-    id: 161529
-    title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article5:
-    id: 161608
-    title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+    id: 161514
+    title: >-
+        Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
+    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
 ---
 
 &nbsp;

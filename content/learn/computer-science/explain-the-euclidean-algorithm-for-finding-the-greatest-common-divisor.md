@@ -2,8 +2,10 @@
 _schema: default
 id: 170787
 date: 2025-02-06
-title: Explain the Euclidean algorithm for finding the greatest common divisor.
-article_title: Explain the Euclidean algorithm for finding the greatest common divisor.
+title: >-
+    Explain the Euclidean algorithm for finding the greatest common divisor.
+article_title: >-
+    Explain the Euclidean algorithm for finding the greatest common divisor.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-euclidean-algorithm-for-finding-the-greatest-common-divis
 url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
 score: -1.0
 related_article1:
-    id: 170782
-    title: What are the characteristics of non-deterministic polynomial time?
+    id: 170778
+    title: >-
+        Define the P vs NP problem and explain its importance in computational theory.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
+    url: /learn/computer-science/questions/define-the-p-vs-np-problem-and-explain-its-importance-in-computational-theory
 related_article2:
-    id: 170788
-    title: What are the key steps in problem analysis for effective problem-solving?
+    id: 170784
+    title: >-
+        What factors contribute to the efficiency of an algorithm?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-in-problem-analysis-for-effective-problemsolving
+    url: /learn/computer-science/questions/what-factors-contribute-to-the-efficiency-of-an-algorithm
 related_article3:
-    id: 170786
-    title: How does the RSA algorithm utilize public and private key encryption?
+    id: 170779
+    title: >-
+        What is an NP-complete problem and why is the satisfiability problem significant in this context?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-rsa-algorithm-utilize-public-and-private-key-encryption
+    url: /learn/computer-science/questions/what-is-an-npcomplete-problem-and-why-is-the-satisfiability-problem-significant-in-this-context
 related_article4:
-    id: 170777
-    title: What distinguishes polynomial time algorithms from exponential time algorithms in complexity theory?
+    id: 170778
+    title: >-
+        Define the P vs NP problem and explain its importance in computational theory.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-polynomial-time-algorithms-from-exponential-time-algorithms-in-complexity-theory
+    url: /learn/computer-science/questions/define-the-p-vs-np-problem-and-explain-its-importance-in-computational-theory
 related_article5:
-    id: 170782
-    title: What are the characteristics of non-deterministic polynomial time?
+    id: 170781
+    title: >-
+        Differentiate between deterministic and non-deterministic approaches in computational theory.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
+    url: /learn/computer-science/questions/differentiate-between-deterministic-and-nondeterministic-approaches-in-computational-theory
 ---
 
 &nbsp;

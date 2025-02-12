@@ -2,8 +2,10 @@
 _schema: default
 id: 163878
 date: 2025-01-28
-title: How is fire portrayed in Greek mythology, and what roles does it play?
-article_title: How is fire portrayed in Greek mythology, and what roles does it play?
+title: >-
+    How is fire portrayed in Greek mythology, and what roles does it play?
+article_title: >-
+    How is fire portrayed in Greek mythology, and what roles does it play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play.
 url: /learn/art-history-and-literature/questions/how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play
 score: 9.2
 related_article1:
-    id: 163883
-    title: How do Greek myths influence cultural values and human traits?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-greek-myths-influence-cultural-values-and-human-traits
-related_article2:
-    id: 163885
-    title: How do common themes in myths connect different cultures?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-common-themes-in-myths-connect-different-cultures
-related_article3:
-    id: 163873
-    title: What are the key factors that influence interpersonal relationships among Greek gods?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
-related_article4:
     id: 163886
-    title: What is the role of inventions in mythological stories?
+    title: >-
+        What is the role of inventions in mythological stories?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
-related_article5:
-    id: 163883
-    title: How do Greek myths influence cultural values and human traits?
+related_article2:
+    id: 163877
+    title: >-
+        What is the symbolic significance of the lyre in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-greek-myths-influence-cultural-values-and-human-traits
+    url: /learn/art-history-and-literature/questions/what-is-the-symbolic-significance-of-the-lyre-in-greek-mythology
+related_article3:
+    id: 163886
+    title: >-
+        What is the role of inventions in mythological stories?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
+related_article4:
+    id: 163882
+    title: >-
+        In what ways do myths reflect power struggles and their resolutions?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-myths-reflect-power-struggles-and-their-resolutions
+related_article5:
+    id: 163882
+    title: >-
+        In what ways do myths reflect power struggles and their resolutions?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-myths-reflect-power-struggles-and-their-resolutions
 ---
 
 &nbsp;

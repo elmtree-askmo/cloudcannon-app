@@ -2,8 +2,10 @@
 _schema: default
 id: 166558
 date: 2025-01-30
-title: What methodologies are used in studying the day-to-day lives of women in history?
-article_title: What methodologies are used in studying the day-to-day lives of women in history?
+title: >-
+    What methodologies are used in studying the day-to-day lives of women in history?
+article_title: >-
+    What methodologies are used in studying the day-to-day lives of women in history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-methodologies-are-used-in-studying-the-daytoday-lives-of-women-i
 url: /learn/education-studies/questions/what-methodologies-are-used-in-studying-the-daytoday-lives-of-women-in-history
 score: -1.0
 related_article1:
-    id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
-related_article2:
     id: 166559
-    title: Why is chronology important in understanding historical events, and what is an example of chronological order?
+    title: >-
+        Why is chronology important in understanding historical events, and what is an example of chronological order?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-chronology-important-in-understanding-historical-events-and-what-is-an-example-of-chronological-order
+related_article2:
+    id: 166557
+    title: >-
+        Why have women historically been invisible in traditional historical narratives, and how has this changed?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-have-women-historically-been-invisible-in-traditional-historical-narratives-and-how-has-this-changed
 related_article3:
+    id: 166556
+    title: >-
+        How do archaeology and anthropology contribute to the historical narrative, and what is the role of carbon dating in this context?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-archaeology-and-anthropology-contribute-to-the-historical-narrative-and-what-is-the-role-of-carbon-dating-in-this-context
+related_article4:
     id: 166555
-    title: What are the main types of evidence used in historical research?
+    title: >-
+        What are the main types of evidence used in historical research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-evidence-used-in-historical-research
-related_article4:
-    id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
 related_article5:
     id: 166560
-    title: How can new evidence influence historical interpretation?
+    title: >-
+        How can new evidence influence historical interpretation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
 ---

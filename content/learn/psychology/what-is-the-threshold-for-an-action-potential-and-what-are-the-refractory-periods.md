@@ -2,8 +2,10 @@
 _schema: default
 id: 164820
 date: 2025-01-28
-title: What is the threshold for an action potential and what are the refractory periods?
-article_title: What is the threshold for an action potential and what are the refractory periods?
+title: >-
+    What is the threshold for an action potential and what are the refractory periods?
+article_title: >-
+    What is the threshold for an action potential and what are the refractory periods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-threshold-for-an-action-potential-and-what-are-the-refrac
 url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
 score: -1.0
 related_article1:
-    id: 164817
-    title: What is the resting potential of a neuron and how is it measured?
+    id: 164819
+    title: >-
+        What are the properties of action potentials and how are they propagated along a neuron?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
 related_article2:
-    id: 164832
-    title: How do synapses facilitate signal transmission between neurons?
+    id: 164822
+    title: >-
+        What is the role of the sodium-potassium pump in maintaining ion concentration gradients?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+    url: /learn/psychology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients
 related_article3:
-    id: 164828
-    title: What is the function of the nodes of Ranvier in neural communication?
+    id: 164819
+    title: >-
+        What are the properties of action potentials and how are they propagated along a neuron?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
 related_article4:
-    id: 164817
-    title: What is the resting potential of a neuron and how is it measured?
+    id: 164826
+    title: >-
+        What are excitatory post-synaptic potentials (EPSPs) and inhibitory post-synaptic potentials (IPSPs), and how do they contribute to neural integration and summation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
+    url: /learn/psychology/questions/what-are-excitatory-postsynaptic-potentials-epsps-and-inhibitory-postsynaptic-potentials-ipsps-and-how-do-they-contribute-to-neural-integration-and-summation
 related_article5:
     id: 164830
-    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
     subject: Psychology
     url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 ---

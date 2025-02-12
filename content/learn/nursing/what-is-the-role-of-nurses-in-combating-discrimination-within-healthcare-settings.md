@@ -2,8 +2,10 @@
 _schema: default
 id: 169658
 date: 2025-02-05
-title: What is the role of nurses in combating discrimination within healthcare settings?
-article_title: What is the role of nurses in combating discrimination within healthcare settings?
+title: >-
+    What is the role of nurses in combating discrimination within healthcare settings?
+article_title: >-
+    What is the role of nurses in combating discrimination within healthcare settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-nurses-in-combating-discrimination-within-healthc
 url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
 score: -1.0
 related_article1:
-    id: 169641
-    title: What are some common barriers to healthcare for transgender individuals?
+    id: 169642
+    title: >-
+        How can healthcare providers practice inclusivity when caring for transgender patients?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
 related_article2:
-    id: 169648
-    title: Why is it important to use correct terminology when discussing gender identity?
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
 related_article3:
-    id: 169641
-    title: What are some common barriers to healthcare for transgender individuals?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
-related_article4:
-    id: 169641
-    title: What are some common barriers to healthcare for transgender individuals?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
-related_article5:
     id: 169653
-    title: What systemic barriers do marginalized groups face in accessing healthcare?
+    title: >-
+        What systemic barriers do marginalized groups face in accessing healthcare?
     subject: Nursing
     url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+related_article4:
+    id: 169653
+    title: >-
+        What systemic barriers do marginalized groups face in accessing healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+related_article5:
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
+    subject: Nursing
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
 ---
 
 &nbsp;

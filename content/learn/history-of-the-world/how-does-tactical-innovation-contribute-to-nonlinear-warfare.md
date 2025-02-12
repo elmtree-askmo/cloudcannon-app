@@ -2,8 +2,10 @@
 _schema: default
 id: 169086
 date: 2025-02-04
-title: How does tactical innovation contribute to non-linear warfare?
-article_title: How does tactical innovation contribute to non-linear warfare?
+title: >-
+    How does tactical innovation contribute to non-linear warfare?
+article_title: >-
+    How does tactical innovation contribute to non-linear warfare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-tactical-innovation-contribute-to-nonlinear-warfare.md
 url: /learn/history-of-the-world/questions/how-does-tactical-innovation-contribute-to-nonlinear-warfare
 score: 9.5
 related_article1:
-    id: 169097
-    title: How is theoretical language in warfare applied in contemporary military doctrine?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine
-related_article2:
-    id: 169088
-    title: What is the significance of geopolitical architecture in the military-architectural relationship?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
-related_article3:
-    id: 169093
-    title: What are the characteristics of non-linear warfare in military tactics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
-related_article4:
-    id: 169101
-    title: How does geopolitical architecture affect urban infrastructure analysis?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
-related_article5:
     id: 169083
-    title: How do swarming tactics differ from traditional military tactics in urban warfare?
+    title: >-
+        How do swarming tactics differ from traditional military tactics in urban warfare?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
+related_article2:
+    id: 169098
+    title: >-
+        What are the primary strategies used in urban warfare to analyze urban infrastructure?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
+related_article3:
+    id: 169087
+    title: >-
+        Describe the relationship between military architecture and the architectural impact of conflict.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
+related_article4:
+    id: 169092
+    title: >-
+        In what ways does tactical innovation impact military tactics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/in-what-ways-does-tactical-innovation-impact-military-tactics
+related_article5:
+    id: 169096
+    title: >-
+        Discuss the ethical implications of warfare in contemporary military doctrine.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/discuss-the-ethical-implications-of-warfare-in-contemporary-military-doctrine
 ---
 
 &nbsp;

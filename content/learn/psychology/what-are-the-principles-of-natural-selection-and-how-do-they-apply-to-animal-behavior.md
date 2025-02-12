@@ -2,8 +2,10 @@
 _schema: default
 id: 165321
 date: 2025-01-28
-title: What are the principles of natural selection and how do they apply to animal behavior?
-article_title: What are the principles of natural selection and how do they apply to animal behavior?
+title: >-
+    What are the principles of natural selection and how do they apply to animal behavior?
+article_title: >-
+    What are the principles of natural selection and how do they apply to animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-principles-of-natural-selection-and-how-do-they-apply-to
 url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
 score: -1.0
 related_article1:
-    id: 165327
-    title: What is heritability and how is it measured in the context of animal behavior?
+    id: 165320
+    title: >-
+        Describe the role of ontogeny and environmental influences in the development of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
+    url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
 related_article2:
+    id: 165316
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+related_article3:
+    id: 165328
+    title: >-
+        How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+related_article4:
     id: 165326
-    title: Compare and contrast directional, stabilizing, and disruptive selection with examples.
+    title: >-
+        Compare and contrast directional, stabilizing, and disruptive selection with examples.
     subject: Psychology
     url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
-related_article3:
-    id: 165324
-    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
-    subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
-related_article4:
-    id: 165324
-    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
-    subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
 related_article5:
-    id: 165324
-    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    id: 165326
+    title: >-
+        Compare and contrast directional, stabilizing, and disruptive selection with examples.
     subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+    url: /learn/psychology/questions/compare-and-contrast-directional-stabilizing-and-disruptive-selection-with-examples
 ---
 
 &nbsp;

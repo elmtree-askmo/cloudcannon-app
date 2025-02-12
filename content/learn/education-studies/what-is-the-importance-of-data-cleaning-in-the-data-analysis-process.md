@@ -2,8 +2,10 @@
 _schema: default
 id: 165026
 date: 2025-01-28
-title: What is the importance of data cleaning in the data analysis process?
-article_title: What is the importance of data cleaning in the data analysis process?
+title: >-
+    What is the importance of data cleaning in the data analysis process?
+article_title: >-
+    What is the importance of data cleaning in the data analysis process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-data-cleaning-in-the-data-analysis-process.
 url: /learn/education-studies/questions/what-is-the-importance-of-data-cleaning-in-the-data-analysis-process
 score: -1.0
 related_article1:
-    id: 165035
-    title: What are the main elements to consider when creating a character's backstory?
+    id: 165050
+    title: >-
+        How do learning management systems support educational technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-elements-to-consider-when-creating-a-characters-backstory
+    url: /learn/education-studies/questions/how-do-learning-management-systems-support-educational-technology
 related_article2:
-    id: 165030
-    title: What are the essential components of experimental design?
+    id: 165029
+    title: >-
+        How is business intelligence applied in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-experimental-design
+    url: /learn/education-studies/questions/how-is-business-intelligence-applied-in-data-analysis
 related_article3:
-    id: 165049
-    title: What is the role of metadata management in data governance?
+    id: 165036
+    title: >-
+        How does feedback incorporation influence character development?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-metadata-management-in-data-governance
+    url: /learn/education-studies/questions/how-does-feedback-incorporation-influence-character-development
 related_article4:
-    id: 165049
-    title: What is the role of metadata management in data governance?
+    id: 165036
+    title: >-
+        How does feedback incorporation influence character development?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-metadata-management-in-data-governance
+    url: /learn/education-studies/questions/how-does-feedback-incorporation-influence-character-development
 related_article5:
-    id: 165028
-    title: What role do programming languages play in data analysis?
+    id: 165038
+    title: >-
+        What distinguishes rational decision-making from intuitive decision-making?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-programming-languages-play-in-data-analysis
+    url: /learn/education-studies/questions/what-distinguishes-rational-decisionmaking-from-intuitive-decisionmaking
 ---
 
 &nbsp;

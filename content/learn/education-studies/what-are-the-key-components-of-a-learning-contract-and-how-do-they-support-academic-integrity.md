@@ -2,8 +2,10 @@
 _schema: default
 id: 166592
 date: 2025-01-30
-title: What are the key components of a learning contract, and how do they support academic integrity?
-article_title: What are the key components of a learning contract, and how do they support academic integrity?
+title: >-
+    What are the key components of a learning contract, and how do they support academic integrity?
+article_title: >-
+    What are the key components of a learning contract, and how do they support academic integrity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-a-learning-contract-and-how-do-they-su
 url: /learn/education-studies/questions/what-are-the-key-components-of-a-learning-contract-and-how-do-they-support-academic-integrity
 score: -1.0
 related_article1:
-    id: 166594
-    title: What barriers might impede knowledge acquisition, and how can they be overcome?
+    id: 166593
+    title: >-
+        How can reflective practices deepen understanding and enhance critical thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-barriers-might-impede-knowledge-acquisition-and-how-can-they-be-overcome
+    url: /learn/education-studies/questions/how-can-reflective-practices-deepen-understanding-and-enhance-critical-thinking
 related_article2:
-    id: 166595
-    title: What considerations are important when designing effective assessment instruments?
+    id: 166597
+    title: >-
+        What are the advantages and disadvantages of traditional versus innovative assessment types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-considerations-are-important-when-designing-effective-assessment-instruments
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-traditional-versus-innovative-assessment-types
 related_article3:
-    id: 166579
-    title: How do formative and summative assessments differ in their approach and objectives?
+    id: 166582
+    title: >-
+        What strategies can be used to adapt study techniques to different learning styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-formative-and-summative-assessments-differ-in-their-approach-and-objectives
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-adapt-study-techniques-to-different-learning-styles
 related_article4:
-    id: 166581
-    title: How does emotional intelligence influence academic performance and learning styles?
+    id: 166583
+    title: >-
+        What are the benefits of utilizing constructive feedback in academic settings?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-emotional-intelligence-influence-academic-performance-and-learning-styles
+    url: /learn/education-studies/questions/what-are-the-benefits-of-utilizing-constructive-feedback-in-academic-settings
 related_article5:
-    id: 166595
-    title: What considerations are important when designing effective assessment instruments?
+    id: 166591
+    title: >-
+        What factors most significantly influence academic performance, and how can they be improved?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-considerations-are-important-when-designing-effective-assessment-instruments
+    url: /learn/education-studies/questions/what-factors-most-significantly-influence-academic-performance-and-how-can-they-be-improved
 ---
 
 &nbsp;

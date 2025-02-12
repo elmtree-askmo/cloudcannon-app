@@ -2,8 +2,10 @@
 _schema: default
 id: 166320
 date: 2025-01-30
-title: How do adaptive responses in animals demonstrate problem-solving abilities?
-article_title: How do adaptive responses in animals demonstrate problem-solving abilities?
+title: >-
+    How do adaptive responses in animals demonstrate problem-solving abilities?
+article_title: >-
+    How do adaptive responses in animals demonstrate problem-solving abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abili
 url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
 score: -1.0
 related_article1:
-    id: 166319
-    title: What are the key characteristics that define animal behavior?
+    id: 166328
+    title: >-
+        What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
 related_article2:
-    id: 166322
-    title: How do ultimate questions differ from proximate questions in the study of animal behavior?
+    id: 166329
+    title: >-
+        How do learning processes, such as individual and social learning, impact the development of behavior in animals?
     subject: Biology
-    url: /learn/biology/questions/how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
+    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
 related_article3:
     id: 166333
-    title: How do predator-prey interactions influence the phenotypes and survival strategies of animals?
+    title: >-
+        How do predator-prey interactions influence the phenotypes and survival strategies of animals?
     subject: Biology
     url: /learn/biology/questions/how-do-predatorprey-interactions-influence-the-phenotypes-and-survival-strategies-of-animals
 related_article4:
     id: 166330
-    title: What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
+    title: >-
+        What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
     subject: Biology
     url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
 related_article5:
-    id: 166331
-    title: How does heritability contribute to evolutionary change and variation in traits?
+    id: 166328
+    title: >-
+        What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
     subject: Biology
-    url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
+    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168950
 date: 2025-02-04
-title: What are amphipathic molecules, and why are they important in membrane formation?
-article_title: What are amphipathic molecules, and why are they important in membrane formation?
+title: >-
+    What are amphipathic molecules, and why are they important in membrane formation?
+article_title: >-
+    What are amphipathic molecules, and why are they important in membrane formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-amphipathic-molecules-and-why-are-they-important-in-membrane
 url: /learn/health-studies/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-formation
 score: -1.0
 related_article1:
-    id: 168955
-    title: Define simple diffusion and provide examples of substances that move across membranes via this process.
+    id: 168959
+    title: >-
+        What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
     subject: Health Studies
-    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
+    url: /learn/health-studies/questions/what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-is-it-necessary-for-cellular-function
 related_article2:
-    id: 168944
-    title: What are the key functional groups found in biomolecules, and how do they influence molecular properties?
+    id: 168951
+    title: >-
+        Explain the fluid mosaic model of membrane structure and its significance in cellular function.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-they-influence-molecular-properties
+    url: /learn/health-studies/questions/explain-the-fluid-mosaic-model-of-membrane-structure-and-its-significance-in-cellular-function
 related_article3:
-    id: 168945
-    title: How do polar and non-polar groups affect the solubility and interaction of biomolecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
-related_article4:
-    id: 168946
-    title: Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
-    subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-structurefunction-relationship-in-biomolecules-and-how-it-relates-to-their-levels-of-structure
-related_article5:
     id: 168953
-    title: Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
+    title: >-
+        Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
     subject: Health Studies
     url: /learn/health-studies/questions/discuss-the-effects-of-cholesterol-on-membrane-fluidity-at-high-and-low-temperatures
+related_article4:
+    id: 168953
+    title: >-
+        Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
+    subject: Health Studies
+    url: /learn/health-studies/questions/discuss-the-effects-of-cholesterol-on-membrane-fluidity-at-high-and-low-temperatures
+related_article5:
+    id: 168952
+    title: >-
+        How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-temperature-affect-membrane-fluidity-and-what-role-does-cholesterol-play-in-this-process
 ---
 
 &nbsp;

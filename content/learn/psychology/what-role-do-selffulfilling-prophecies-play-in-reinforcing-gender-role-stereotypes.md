@@ -2,8 +2,10 @@
 _schema: default
 id: 168131
 date: 2025-02-02
-title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
-article_title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+title: >-
+    What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+article_title: >-
+    What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-rol
 url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
 score: -1.0
 related_article1:
+    id: 168137
+    title: >-
+        How do gender-based interests influence career choices?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+related_article2:
+    id: 168122
+    title: >-
+        What is the gender gap in self-esteem, and how does it change with age?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
+related_article3:
     id: 168124
-    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    title: >-
+        Describe the trajectory of self-esteem from childhood to adolescence.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
-related_article2:
-    id: 168123
-    title: How do cultural variations impact the gender gap in self-esteem?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
-related_article3:
-    id: 168128
-    title: What are the common developmental problems associated with autism spectrum disorder?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 related_article4:
-    id: 168116
-    title: How do spatial visualization abilities differ between males and females?
+    id: 168136
+    title: >-
+        What impact do gender stereotypes have on career choices, particularly in math-related fields?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
+    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
 related_article5:
-    id: 168127
-    title: How do developmental disorders differ between genders?
+    id: 168132
+    title: >-
+        How do prenatal influences affect gender typing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
 ---
 
 &nbsp;

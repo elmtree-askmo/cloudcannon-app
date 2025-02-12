@@ -2,8 +2,10 @@
 _schema: default
 id: 161649
 date: 2025-01-24
-title: What is the purpose of encryption in access control?
-article_title: What is the purpose of encryption in access control?
+title: >-
+    What is the purpose of encryption in access control?
+article_title: >-
+    What is the purpose of encryption in access control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-encryption-in-access-control.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
 score: -1.0
 related_article1:
+    id: 161569
+    title: >-
+        What are the disadvantages of a gesture-based interface compared to other user interfaces?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-gesturebased-interface-compared-to-other-user-interfaces
+related_article2:
+    id: 161562
+    title: >-
+        What is the role of device drivers in system software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+related_article3:
     id: 161314
-    title: What is the significance of MIPS in evaluating mainframe performance?
+    title: >-
+        What is the significance of MIPS in evaluating mainframe performance?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-mips-in-evaluating-mainframe-performance
-related_article2:
-    id: 161323
-    title: How does licensing differ between open source and proprietary software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
-related_article3:
-    id: 161550
-    title: What are the main characteristics of open source software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article4:
-    id: 161541
-    title: How does memory bandwidth affect the performance of supercomputers?
+    id: 161314
+    title: >-
+        What is the significance of MIPS in evaluating mainframe performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-memory-bandwidth-affect-the-performance-of-supercomputers
+    url: /learn/computer-science/questions/what-is-the-significance-of-mips-in-evaluating-mainframe-performance
 related_article5:
-    id: 161536
-    title: What role do redundant components play in enhancing the reliability of a computing system?
+    id: 161318
+    title: >-
+        What is the role of device drivers in system software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-enhancing-the-reliability-of-a-computing-system
+    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
 ---
 
 &nbsp;

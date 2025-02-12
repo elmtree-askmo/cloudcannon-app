@@ -2,8 +2,10 @@
 _schema: default
 id: 164941
 date: 2025-01-28
-title: How do media and cultural factors influence political views?
-article_title: How do media and cultural factors influence political views?
+title: >-
+    How do media and cultural factors influence political views?
+article_title: >-
+    How do media and cultural factors influence political views?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-media-and-cultural-factors-influence-political-views.md
 url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
 score: -1.0
 related_article1:
-    id: 164934
-    title: What ethical considerations should be taken into account during participant recruitment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
-related_article2:
     id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
+    title: >-
+        What are the main types of advocacy groups and their focus areas?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
+related_article2:
+    id: 164936
+    title: >-
+        What are the different types of questions used in surveys, and how can bias be avoided?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
 related_article3:
     id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
+    title: >-
+        What are the main types of advocacy groups and their focus areas?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
 related_article4:
+    id: 164931
+    title: >-
+        What are the key steps in identifying relevant sources for research articles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-relevant-sources-for-research-articles
+related_article5:
     id: 164942
-    title: What are the core principles of communism?
+    title: >-
+        What are the core principles of communism?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
-related_article5:
-    id: 164934
-    title: What ethical considerations should be taken into account during participant recruitment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
 ---
 
 &nbsp;

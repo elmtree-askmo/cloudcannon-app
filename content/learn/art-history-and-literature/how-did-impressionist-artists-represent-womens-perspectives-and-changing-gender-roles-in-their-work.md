@@ -2,8 +2,10 @@
 _schema: default
 id: 166574
 date: 2025-01-30
-title: How did Impressionist artists represent women's perspectives and changing gender roles in their work?
-article_title: How did Impressionist artists represent women's perspectives and changing gender roles in their work?
+title: >-
+    How did Impressionist artists represent women's perspectives and changing gender roles in their work?
+article_title: >-
+    How did Impressionist artists represent women's perspectives and changing gender roles in their work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-impressionist-artists-represent-womens-perspectives-and-chang
 url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-represent-womens-perspectives-and-changing-gender-roles-in-their-work
 score: 9.0
 related_article1:
+    id: 166575
+    title: >-
+        What social classes and power dynamics were critiqued through cultural commentary in art during this period?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-social-classes-and-power-dynamics-were-critiqued-through-cultural-commentary-in-art-during-this-period
+related_article2:
+    id: 166576
+    title: >-
+        How did artists respond to the themes of modernity and urbanization in their work?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
+related_article3:
     id: 166568
-    title: What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
+    title: >-
+        What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
-related_article2:
-    id: 166567
-    title: How did modernity influence the representation of Parisian society in modern art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-modernity-influence-the-representation-of-parisian-society-in-modern-art
-related_article3:
-    id: 166569
-    title: What are the key characteristics of Realism in art, and how did it address the class divide?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
 related_article4:
-    id: 166576
-    title: How did artists respond to the themes of modernity and urbanization in their work?
+    id: 166570
+    title: >-
+        How did photography influence the development of Realism in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
+    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
 related_article5:
-    id: 166576
-    title: How did artists respond to the themes of modernity and urbanization in their work?
+    id: 166572
+    title: >-
+        How did the public initially react to the first Impressionist exhibition?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
+    url: /learn/art-history-and-literature/questions/how-did-the-public-initially-react-to-the-first-impressionist-exhibition
 ---
 
 &nbsp;

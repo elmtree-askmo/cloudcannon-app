@@ -2,8 +2,10 @@
 _schema: default
 id: 165624
 date: 2025-01-29
-title: Why is economic stability considered a priority during elections?
-article_title: Why is economic stability considered a priority during elections?
+title: >-
+    Why is economic stability considered a priority during elections?
+article_title: >-
+    Why is economic stability considered a priority during elections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-economic-stability-considered-a-priority-during-elections.md
 url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
 score: -1.0
 related_article1:
-    id: 165618
-    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
-    subject: Politics
-    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
-related_article2:
     id: 165638
-    title: How have historical events influenced current political systems and party dynamics?
+    title: >-
+        How have historical events influenced current political systems and party dynamics?
     subject: Politics
     url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article2:
+    id: 165626
+    title: >-
+        How do domestic climate policies differ from international climate policies in Canada?
+    subject: Politics
+    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 related_article3:
-    id: 165625
-    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    id: 165622
+    title: >-
+        How do economic and social issues influence voting behavior in Canada?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
 related_article4:
-    id: 165630
-    title: What are the challenges Canada faces in diversifying its trade partners?
+    id: 165623
+    title: >-
+        What are the main challenges in the housing market related to affordability and inflation?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
 related_article5:
-    id: 165634
-    title: How do opposition parties contribute to political accountability in governance?
+    id: 165629
+    title: >-
+        How have Trump's tariff threats affected US-Canada trade relations?
     subject: Politics
-    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+    url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
 ---
 
 &nbsp;

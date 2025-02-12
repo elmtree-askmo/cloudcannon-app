@@ -2,8 +2,10 @@
 _schema: default
 id: 166376
 date: 2025-01-30
-title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
-article_title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+title: >-
+    What are Tinbergen's four questions, and how do they help in studying animal behavior?
+article_title: >-
+    What are Tinbergen's four questions, and how do they help in studying animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-a
 url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
 score: -1.0
 related_article1:
-    id: 166393
-    title: What are the effects of sensory input and integration on animal behavior?
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 related_article2:
-    id: 166379
-    title: Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
+    id: 166387
+    title: >-
+        What is heritability, and how is it studied in behavioral traits?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
 related_article3:
-    id: 166393
-    title: What are the effects of sensory input and integration on animal behavior?
+    id: 166374
+    title: >-
+        What is the significance of understanding animal behavior in ecology and conservation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 related_article4:
     id: 166396
-    title: How does the nervous system coordinate body functions to produce behavioral responses?
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 related_article5:
-    id: 166393
-    title: What are the effects of sensory input and integration on animal behavior?
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165911
 date: 2025-01-29
-title: How do cultural artifacts reflect literature and oral traditions?
-article_title: How do cultural artifacts reflect literature and oral traditions?
+title: >-
+    How do cultural artifacts reflect literature and oral traditions?
+article_title: >-
+    How do cultural artifacts reflect literature and oral traditions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-cultural-artifacts-reflect-literature-and-oral-traditions.md
 url: /learn/education-studies/questions/how-do-cultural-artifacts-reflect-literature-and-oral-traditions
 score: -1.0
 related_article1:
-    id: 165910
-    title: What is the transition process from expressive to communicative essays in writing?
+    id: 165915
+    title: >-
+        What is the significance of the Bologna Accord in understanding academic credit systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-transition-process-from-expressive-to-communicative-essays-in-writing
+    url: /learn/education-studies/questions/what-is-the-significance-of-the-bologna-accord-in-understanding-academic-credit-systems
 related_article2:
-    id: 165914
-    title: How can students effectively balance study and personal life through time management?
+    id: 165916
+    title: >-
+        How does geography function as a social construct in influencing cultural identity?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
+    url: /learn/education-studies/questions/how-does-geography-function-as-a-social-construct-in-influencing-cultural-identity
 related_article3:
-    id: 165913
-    title: Why is lifelong learning important for personal and professional life?
+    id: 165915
+    title: >-
+        What is the significance of the Bologna Accord in understanding academic credit systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-lifelong-learning-important-for-personal-and-professional-life
+    url: /learn/education-studies/questions/what-is-the-significance-of-the-bologna-accord-in-understanding-academic-credit-systems
 related_article4:
-    id: 165909
-    title: How do arts and humanities contribute to the development of critical thinking skills?
+    id: 165915
+    title: >-
+        What is the significance of the Bologna Accord in understanding academic credit systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-arts-and-humanities-contribute-to-the-development-of-critical-thinking-skills
+    url: /learn/education-studies/questions/what-is-the-significance-of-the-bologna-accord-in-understanding-academic-credit-systems
 related_article5:
-    id: 165909
-    title: How do arts and humanities contribute to the development of critical thinking skills?
+    id: 165919
+    title: >-
+        Why is the PDF document format preferred for academic submissions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-arts-and-humanities-contribute-to-the-development-of-critical-thinking-skills
+    url: /learn/education-studies/questions/why-is-the-pdf-document-format-preferred-for-academic-submissions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159790
 date: 2025-01-23
-title: What was the purpose of art institutions and academies, and how did they contribute to the professionalization of artists?
-article_title: What was the purpose of art institutions and academies, and how did they contribute to the professionalization of artists?
+title: >-
+    What was the purpose of art institutions and academies, and how did they contribute to the professionalization of artists?
+article_title: >-
+    What was the purpose of art institutions and academies, and how did they contribute to the professionalization of artists?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-purpose-of-art-institutions-and-academies-and-how-did-th
 url: /learn/education-studies/questions/what-was-the-purpose-of-art-institutions-and-academies-and-how-did-they-contribute-to-the-professionalization-of-artists
 score: -1.0
 related_article1:
-    id: 159767
-    title: How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
+    id: 159793
+    title: >-
+        Discuss the representation of gender and race in art and the impact of colonialism on artistic expression.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles-and-what-were-some-key-innovations
+    url: /learn/education-studies/questions/discuss-the-representation-of-gender-and-race-in-art-and-the-impact-of-colonialism-on-artistic-expression
 related_article2:
-    id: 159764
-    title: How did gender studies and colonialism influence the representation of gender and race in art?
+    id: 159758
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
+    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 related_article3:
-    id: 159798
-    title: Identify key movements and figures in 19th-century art history and discuss their influence on contemporary art.
+    id: 159792
+    title: >-
+        What is Orientalism in art, and how did it influence Western art?
     subject: Education Studies
-    url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-discuss-their-influence-on-contemporary-art
+    url: /learn/education-studies/questions/what-is-orientalism-in-art-and-how-did-it-influence-western-art
 related_article4:
-    id: 159791
-    title: How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
+    id: 159786
+    title: >-
+        What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-curriculum-and-focus-of-art-academies-evolve-and-what-impact-did-this-have-on-artistic-development
+    url: /learn/education-studies/questions/what-were-the-origins-and-establishment-of-the-paris-salon-and-how-did-the-monarchy-influence-its-development
 related_article5:
-    id: 159789
-    title: Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
+    id: 159762
+    title: >-
+        What were the significant changes in the curriculum and focus of art academies, and how did these changes impact artistic development?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-figures-and-works-as-well-as-their-impact-on-the-art-world
+    url: /learn/education-studies/questions/what-were-the-significant-changes-in-the-curriculum-and-focus-of-art-academies-and-how-did-these-changes-impact-artistic-development
 ---
 
 &nbsp;

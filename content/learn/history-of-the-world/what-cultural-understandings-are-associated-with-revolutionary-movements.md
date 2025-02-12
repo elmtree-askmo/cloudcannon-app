@@ -2,8 +2,10 @@
 _schema: default
 id: 169015
 date: 2025-02-04
-title: What cultural understandings are associated with revolutionary movements?
-article_title: What cultural understandings are associated with revolutionary movements?
+title: >-
+    What cultural understandings are associated with revolutionary movements?
+article_title: >-
+    What cultural understandings are associated with revolutionary movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cultural-understandings-are-associated-with-revolutionary-moveme
 url: /learn/history-of-the-world/questions/what-cultural-understandings-are-associated-with-revolutionary-movements
 score: 9.0
 related_article1:
-    id: 169019
-    title: How did women strategically use architecture during revolutionary movements?
+    id: 169003
+    title: >-
+        How can architecture be analyzed within political and socio-historical contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
 related_article2:
-    id: 169012
-    title: Who were some key figures in the Mexican Revolution, and what were their contributions?
+    id: 169007
+    title: >-
+        How is architecture strategically used in different contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
+    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
 related_article3:
-    id: 169000
-    title: What are the key elements that define traditional architectural history?
+    id: 169011
+    title: >-
+        What are feminized spaces, and how do they relate to identity strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-elements-that-define-traditional-architectural-history
+    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
 related_article4:
-    id: 169013
-    title: What strategies and tactics were employed during the Mexican Revolution?
+    id: 169006
+    title: >-
+        What are gendered spaces in architecture, and why are they significant?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
+    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
 related_article5:
-    id: 169016
-    title: How can buildings serve as symbols of revolutionary movements?
+    id: 169018
+    title: >-
+        What contributions did Carmen Serdan make to the revolutionary movement?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
+    url: /learn/history-of-the-world/questions/what-contributions-did-carmen-serdan-make-to-the-revolutionary-movement
 ---
 
 &nbsp;

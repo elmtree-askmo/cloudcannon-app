@@ -2,8 +2,10 @@
 _schema: default
 id: 162557
 date: 2025-01-25
-title: How can an author's professional affiliations and expert credentials influence their purpose in writing?
-article_title: How can an author's professional affiliations and expert credentials influence their purpose in writing?
+title: >-
+    How can an author's professional affiliations and expert credentials influence their purpose in writing?
+article_title: >-
+    How can an author's professional affiliations and expert credentials influence their purpose in writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-an-authors-professional-affiliations-and-expert-credentials-i
 url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
 score: -1.0
 related_article1:
-    id: 162565
-    title: How can you assess the trustworthiness of information and the author's intentions in a text?
+    id: 162272
+    title: >-
+        What criteria should be used to evaluate an author's credibility and the quality of evidence in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-assess-the-trustworthiness-of-information-and-the-authors-intentions-in-a-text
+    url: /learn/education-studies/questions/what-criteria-should-be-used-to-evaluate-an-authors-credibility-and-the-quality-of-evidence-in-a-text
 related_article2:
-    id: 162567
-    title: How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
+    id: 162262
+    title: >-
+        What strategies can be employed to identify bias and persuasive techniques in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-relate-to-its-environmental-impact-and-sustainable-eating-practices
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
 related_article3:
-    id: 162253
-    title: What are some key questions to ask when determining an author's purpose?
+    id: 162563
+    title: >-
+        How does the structure of a text contribute to its overall effectiveness in communication?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-questions-to-ask-when-determining-an-authors-purpose
+    url: /learn/education-studies/questions/how-does-the-structure-of-a-text-contribute-to-its-overall-effectiveness-in-communication
 related_article4:
-    id: 162256
-    title: What questions can help identify an author's point of view in a text?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
-related_article5:
     id: 162561
-    title: How can you evaluate the credibility and relevance of evidence presented in a text?
+    title: >-
+        How can you evaluate the credibility and relevance of evidence presented in a text?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
+related_article5:
+    id: 162562
+    title: >-
+        What are the characteristics of cause-and-effect and compare-and-contrast text structures?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
 ---
 
 &nbsp;

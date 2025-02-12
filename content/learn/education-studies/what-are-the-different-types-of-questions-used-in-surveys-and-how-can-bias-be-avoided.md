@@ -2,8 +2,10 @@
 _schema: default
 id: 164936
 date: 2025-01-28
-title: What are the different types of questions used in surveys, and how can bias be avoided?
-article_title: What are the different types of questions used in surveys, and how can bias be avoided?
+title: >-
+    What are the different types of questions used in surveys, and how can bias be avoided?
+article_title: >-
+    What are the different types of questions used in surveys, and how can bias be avoided?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-different-types-of-questions-used-in-surveys-and-how-can
 url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
 score: -1.0
 related_article1:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
-related_article2:
-    id: 164944
-    title: How is terrorism defined based on political and religious motivations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-terrorism-defined-based-on-political-and-religious-motivations
-related_article3:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
-related_article4:
     id: 164942
-    title: What are the core principles of communism?
+    title: >-
+        What are the core principles of communism?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
+related_article2:
+    id: 164939
+    title: >-
+        What is the primary purpose of military aid?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
+related_article3:
+    id: 164943
+    title: >-
+        What historical events marked the rise and fall of communism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
+related_article4:
+    id: 164940
+    title: >-
+        What are some controversies associated with military aid?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-controversies-associated-with-military-aid
 related_article5:
     id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    title: >-
+        What are some key strategies used in counterterrorism efforts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 ---

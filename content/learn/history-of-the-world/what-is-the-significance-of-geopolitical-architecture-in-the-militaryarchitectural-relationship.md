@@ -2,8 +2,10 @@
 _schema: default
 id: 169088
 date: 2025-02-04
-title: What is the significance of geopolitical architecture in the military-architectural relationship?
-article_title: What is the significance of geopolitical architecture in the military-architectural relationship?
+title: >-
+    What is the significance of geopolitical architecture in the military-architectural relationship?
+article_title: >-
+    What is the significance of geopolitical architecture in the military-architectural relationship?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-geopolitical-architecture-in-the-military
 url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
 score: 9.0
 related_article1:
-    id: 169099
-    title: How does urban infrastructure analysis contribute to urban combat strategies?
+    id: 169103
+    title: >-
+        How does critical theory apply to military practice in the context of ethical implications?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
 related_article2:
-    id: 169105
-    title: What role do military research institutes play in addressing institutional conflicts?
+    id: 169086
+    title: >-
+        How does tactical innovation contribute to non-linear warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
+    url: /learn/history-of-the-world/questions/how-does-tactical-innovation-contribute-to-nonlinear-warfare
 related_article3:
-    id: 169102
-    title: What are the ethical implications of warfare in military practice?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
-related_article4:
     id: 169093
-    title: What are the characteristics of non-linear warfare in military tactics?
+    title: >-
+        What are the characteristics of non-linear warfare in military tactics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
-related_article5:
-    id: 169084
-    title: Explain the concept of 'walking through walls' in urban combat strategies.
+related_article4:
+    id: 169102
+    title: >-
+        What are the ethical implications of warfare in military practice?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
+related_article5:
+    id: 169103
+    title: >-
+        How does critical theory apply to military practice in the context of ethical implications?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
 ---
 
 &nbsp;

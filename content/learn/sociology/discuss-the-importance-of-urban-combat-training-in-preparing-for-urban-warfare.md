@@ -2,8 +2,10 @@
 _schema: default
 id: 162942
 date: 2025-01-26
-title: Discuss the importance of urban combat training in preparing for urban warfare.
-article_title: Discuss the importance of urban combat training in preparing for urban warfare.
+title: >-
+    Discuss the importance of urban combat training in preparing for urban warfare.
+article_title: >-
+    Discuss the importance of urban combat training in preparing for urban warfare.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: discuss-the-importance-of-urban-combat-training-in-preparing-for-urba
 url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
 score: -1.0
 related_article1:
-    id: 162952
-    title: Explain the concept of breach training and its application in urban warfare.
+    id: 162951
+    title: >-
+        What is the role of the securocratic state in managing urban security?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-breach-training-and-its-application-in-urban-warfare
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 related_article2:
-    id: 162954
-    title: What are urban sustainment operations, and why are they important in urban planning strategies?
+    id: 162939
+    title: >-
+        Describe the concept of morphometric targeting and its relevance to urban morphologies.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
+    url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
 related_article3:
-    id: 162948
-    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    id: 162950
+    title: >-
+        How do three-dimensional models assist in understanding volumetric conflict environments?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
 related_article4:
-    id: 162938
-    title: What are the implications of informal urbanization on the security of megacities?
+    id: 162944
+    title: >-
+        How does spatial intelligence contribute to volumetric warfare in urban environments?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
-related_article5:
-    id: 162953
-    title: How do informal settlements challenge the global military security apparatus?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
+    url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
 ---
 
 &nbsp;

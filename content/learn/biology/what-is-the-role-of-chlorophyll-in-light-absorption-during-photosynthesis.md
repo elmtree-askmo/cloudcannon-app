@@ -2,8 +2,10 @@
 _schema: default
 id: 170391
 date: 2025-02-06
-title: What is the role of chlorophyll in light absorption during photosynthesis?
-article_title: What is the role of chlorophyll in light absorption during photosynthesis?
+title: >-
+    What is the role of chlorophyll in light absorption during photosynthesis?
+article_title: >-
+    What is the role of chlorophyll in light absorption during photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynth
 url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 score: -1.0
 related_article1:
-    id: 170388
-    title: What is the role of decomposers in the breakdown of organic material in the geosphere?
+    id: 170385
+    title: >-
+        Why are keystone species important for ecosystem stability and the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-in-the-geosphere
+    url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
 related_article2:
-    id: 170390
-    title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    id: 170379
+    title: >-
+        What role does chlorophyll play in the conversion of light energy during photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
 related_article3:
-    id: 170384
-    title: How does the decomposition process contribute to nutrient recycling in ecosystems?
+    id: 170389
+    title: >-
+        Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
     subject: Biology
-    url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
+    url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
 related_article4:
     id: 170390
-    title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    title: >-
+        How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
     subject: Biology
     url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
 related_article5:
-    id: 170392
-    title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+    id: 170377
+    title: >-
+        What are the main interactions involved in the carbon exchange process within the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
+    url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
 ---
 
 &nbsp;

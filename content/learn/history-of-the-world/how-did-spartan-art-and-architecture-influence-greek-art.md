@@ -2,8 +2,10 @@
 _schema: default
 id: 163602
 date: 2025-01-27
-title: How did Spartan art and architecture influence Greek art?
-article_title: How did Spartan art and architecture influence Greek art?
+title: >-
+    How did Spartan art and architecture influence Greek art?
+article_title: >-
+    How did Spartan art and architecture influence Greek art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-spartan-art-and-architecture-influence-greek-art.md
 url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
 score: 8.5
 related_article1:
-    id: 163603
-    title: What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
+    id: 163606
+    title: >-
+        How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-religion-and-mythology-in-spartan-culture-particularly-the-worship-of-athena
+    url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
 related_article2:
-    id: 163596
-    title: How did the Dorian dialect influence the Greek language?
+    id: 163592
+    title: >-
+        What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
+    url: /learn/history-of-the-world/questions/what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influence-their-reputation-in-the-greek-world
 related_article3:
-    id: 163608
-    title: What were some key historical events in Spartan history, and how did they influence the Greek world?
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
 related_article4:
     id: 163606
-    title: How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
+    title: >-
+        How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
 related_article5:
-    id: 163603
-    title: What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
+    id: 163592
+    title: >-
+        What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-religion-and-mythology-in-spartan-culture-particularly-the-worship-of-athena
+    url: /learn/history-of-the-world/questions/what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influence-their-reputation-in-the-greek-world
 ---
 
 &nbsp;

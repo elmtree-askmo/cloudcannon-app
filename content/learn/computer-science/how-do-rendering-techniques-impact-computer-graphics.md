@@ -2,8 +2,10 @@
 _schema: default
 id: 161043
 date: 2025-01-24
-title: How do rendering techniques impact computer graphics?
-article_title: How do rendering techniques impact computer graphics?
+title: >-
+    How do rendering techniques impact computer graphics?
+article_title: >-
+    How do rendering techniques impact computer graphics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-rendering-techniques-impact-computer-graphics.md
 url: /learn/computer-science/questions/how-do-rendering-techniques-impact-computer-graphics
 score: -1.0
 related_article1:
-    id: 161048
-    title: What is the significance of cache design in computer architecture?
+    id: 160729
+    title: >-
+        How is machine learning applied in artificial intelligence?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cache-design-in-computer-architecture
+    url: /learn/computer-science/questions/how-is-machine-learning-applied-in-artificial-intelligence
 related_article2:
-    id: 161052
-    title: How do heuristic algorithms differ from Euclid’s algorithm?
+    id: 161034
+    title: >-
+        How does abstraction help in simplifying complex computing problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
+    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
 related_article3:
-    id: 161051
-    title: What are the applications of machine learning in artificial intelligence?
+    id: 160715
+    title: >-
+        What measures can be taken to enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-applications-of-machine-learning-in-artificial-intelligence
+    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
 related_article4:
-    id: 160717
-    title: What are the differences between 2D and 3D graphics representation?
+    id: 160697
+    title: >-
+        What is the role of representation in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
+    url: /learn/computer-science/questions/what-is-the-role-of-representation-in-computational-problem-solving
 related_article5:
-    id: 161047
-    title: How do operating systems manage processes and memory?
+    id: 160724
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-operating-systems-manage-processes-and-memory
+    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 ---
 
 &nbsp;

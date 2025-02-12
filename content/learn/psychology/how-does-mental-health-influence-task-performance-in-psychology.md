@@ -2,8 +2,10 @@
 _schema: default
 id: 164289
 date: 2025-01-28
-title: How does mental health influence task performance in psychology?
-article_title: How does mental health influence task performance in psychology?
+title: >-
+    How does mental health influence task performance in psychology?
+article_title: >-
+    How does mental health influence task performance in psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-mental-health-influence-task-performance-in-psychology.md
 url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
 score: -1.0
 related_article1:
+    id: 164299
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+related_article2:
+    id: 164293
+    title: >-
+        What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article3:
     id: 164300
-    title: How does neurostimulation enhance brain activity?
+    title: >-
+        How does neurostimulation enhance brain activity?
     subject: Psychology
     url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
-related_article2:
-    id: 164290
-    title: What role does color perception play in visual processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
-related_article3:
-    id: 164312
-    title: How does cultural significance affect the psychological impact of color perception?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-cultural-significance-affect-the-psychological-impact-of-color-perception
 related_article4:
-    id: 164297
-    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 related_article5:
-    id: 164309
-    title: How does perceptual learning contribute to object recognition?
+    id: 164288
+    title: >-
+        What are the key components of cognitive engagement in brain activity?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
+    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
 ---
 
 &nbsp;

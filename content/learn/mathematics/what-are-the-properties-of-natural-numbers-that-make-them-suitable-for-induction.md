@@ -2,8 +2,10 @@
 _schema: default
 id: 170772
 date: 2025-02-06
-title: What are the properties of natural numbers that make them suitable for induction?
-article_title: What are the properties of natural numbers that make them suitable for induction?
+title: >-
+    What are the properties of natural numbers that make them suitable for induction?
+article_title: >-
+    What are the properties of natural numbers that make them suitable for induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-properties-of-natural-numbers-that-make-them-suitable-fo
 url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
 score: -1.0
 related_article1:
-    id: 170766
-    title: Give an example of a correct application of the inductive step.
+    id: 170759
+    title: >-
+        What distinguishes strong induction from simple induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
 related_article2:
-    id: 170769
-    title: Describe a non-example of induction using the Fibonacci sequence.
+    id: 170759
+    title: >-
+        What distinguishes strong induction from simple induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
 related_article3:
-    id: 170763
-    title: Define divisibility in mathematics and list its basic properties.
+    id: 170761
+    title: >-
+        What is a direct proof, and how does it differ from a proof by contradiction?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+    url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
 related_article4:
-    id: 170760
-    title: Describe a scenario where strong induction is more applicable than simple induction.
+    id: 170770
+    title: >-
+        What is the logical basis for the justification of induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
+    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
 related_article5:
-    id: 170774
-    title: What is the relationship between mathematical axioms and the inductive principle?
+    id: 170765
+    title: >-
+        What is a common mistake made during the inductive step of a proof?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
+    url: /learn/mathematics/questions/what-is-a-common-mistake-made-during-the-inductive-step-of-a-proof
 ---
 
 &nbsp;

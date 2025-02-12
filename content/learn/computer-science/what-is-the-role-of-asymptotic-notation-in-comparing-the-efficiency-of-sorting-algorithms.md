@@ -2,8 +2,10 @@
 _schema: default
 id: 160756
 date: 2025-01-24
-title: What is the role of asymptotic notation in comparing the efficiency of sorting algorithms?
-article_title: What is the role of asymptotic notation in comparing the efficiency of sorting algorithms?
+title: >-
+    What is the role of asymptotic notation in comparing the efficiency of sorting algorithms?
+article_title: >-
+    What is the role of asymptotic notation in comparing the efficiency of sorting algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-asymptotic-notation-in-comparing-the-efficiency-o
 url: /learn/computer-science/questions/what-is-the-role-of-asymptotic-notation-in-comparing-the-efficiency-of-sorting-algorithms
 score: -1.0
 related_article1:
-    id: 160758
-    title: Define randomized algorithms and describe their characteristics.
+    id: 160925
+    title: >-
+        How does pseudocode contribute to the clarity and structure of algorithm design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-pseudocode-contribute-to-the-clarity-and-structure-of-algorithm-design
+related_article2:
+    id: 160753
+    title: >-
+        What is the divide-and-conquer method and how does it utilize recursive techniques?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-divideandconquer-method-and-how-does-it-utilize-recursive-techniques
+related_article3:
+    id: 160921
+    title: >-
+        Define randomized algorithms and describe their characteristics.
     subject: Computer Science
     url: /learn/computer-science/questions/define-randomized-algorithms-and-describe-their-characteristics
-related_article2:
-    id: 160750
-    title: How can mathematical tools be used in the design and analysis of algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-mathematical-tools-be-used-in-the-design-and-analysis-of-algorithms
-related_article3:
-    id: 160924
-    title: Why is running time analysis crucial in algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
 related_article4:
-    id: 160832
-    title: Why is mathematical notation important in algorithm analysis?
+    id: 160757
+    title: >-
+        What is probabilistic analysis and how is it applied to running time with probability distributions?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
+    url: /learn/computer-science/questions/what-is-probabilistic-analysis-and-how-is-it-applied-to-running-time-with-probability-distributions
 related_article5:
-    id: 160754
-    title: Explain the master method for solving recurrences in divide-and-conquer algorithms.
+    id: 160925
+    title: >-
+        How does pseudocode contribute to the clarity and structure of algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-master-method-for-solving-recurrences-in-divideandconquer-algorithms
+    url: /learn/computer-science/questions/how-does-pseudocode-contribute-to-the-clarity-and-structure-of-algorithm-design
 ---
 
 &nbsp;

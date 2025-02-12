@@ -2,8 +2,10 @@
 _schema: default
 id: 160698
 date: 2025-01-24
-title: What is the role of abstraction in computing?
-article_title: What is the role of abstraction in computing?
+title: >-
+    What is the role of abstraction in computing?
+article_title: >-
+    What is the role of abstraction in computing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-abstraction-in-computing.md
 url: /learn/computer-science/questions/what-is-the-role-of-abstraction-in-computing
 score: -1.0
 related_article1:
-    id: 160790
-    title: What are the challenges in proving software solutions compared to testing them?
+    id: 160859
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article2:
-    id: 160699
-    title: What are the key differences between lists and arrays in data structures?
+    id: 161025
+    title: >-
+        How do Turing machines contribute to the theoretical foundations of computability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-lists-and-arrays-in-data-structures
+    url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
 related_article3:
-    id: 160692
-    title: How does transitioning from a problem to a program aid in problem solving?
+    id: 160721
+    title: >-
+        How does abstraction simplify calendar algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-solving
+    url: /learn/computer-science/questions/how-does-abstraction-simplify-calendar-algorithms
 related_article4:
-    id: 160863
-    title: How does representation influence algorithm complexity?
+    id: 160782
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 related_article5:
-    id: 161019
-    title: What are associative arrays and how do they utilize non-numeric indices?
+    id: 161031
+    title: >-
+        What data is required for generating circular calendars?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
 ---
 
 &nbsp;

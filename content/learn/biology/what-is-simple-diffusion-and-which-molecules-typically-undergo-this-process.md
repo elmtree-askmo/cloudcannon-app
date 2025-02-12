@@ -2,8 +2,10 @@
 _schema: default
 id: 166970
 date: 2025-01-31
-title: What is simple diffusion and which molecules typically undergo this process?
-article_title: What is simple diffusion and which molecules typically undergo this process?
+title: >-
+    What is simple diffusion and which molecules typically undergo this process?
+article_title: >-
+    What is simple diffusion and which molecules typically undergo this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-simple-diffusion-and-which-molecules-typically-undergo-this-p
 url: /learn/biology/questions/what-is-simple-diffusion-and-which-molecules-typically-undergo-this-process
 score: -1.0
 related_article1:
-    id: 166977
-    title: How do glycoproteins contribute to cell recognition and attachment functions?
+    id: 166984
+    title: >-
+        Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
     subject: Biology
-    url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-and-attachment-functions
+    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
 related_article2:
     id: 166981
-    title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+    title: >-
+        Describe the fluid mosaic model and its significance in understanding cell membrane structure.
     subject: Biology
     url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
 related_article3:
-    id: 166974
-    title: What are amphipathic molecules, and why are they important in membrane structure?
+    id: 166980
+    title: >-
+        Define selective permeability and its importance in maintaining cellular homeostasis.
     subject: Biology
-    url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
+    url: /learn/biology/questions/define-selective-permeability-and-its-importance-in-maintaining-cellular-homeostasis
 related_article4:
-    id: 166981
-    title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+    id: 166973
+    title: >-
+        Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
     subject: Biology
-    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
 related_article5:
-    id: 166982
-    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    id: 166976
+    title: >-
+        Differentiate between integral and peripheral proteins in terms of structure and function.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169523
 date: 2025-02-05
-title: What health implications can arise from hypotension?
-article_title: What health implications can arise from hypotension?
+title: >-
+    What health implications can arise from hypotension?
+article_title: >-
+    What health implications can arise from hypotension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-health-implications-can-arise-from-hypotension.md
 url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
 score: -1.0
 related_article1:
-    id: 169525
-    title: Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    id: 169522
+    title: >-
+        What are some common causes and risk factors for hypertension?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
+    url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
 related_article2:
-    id: 169535
-    title: How is blood pressure related to the risk of heart disease?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
-related_article3:
     id: 169531
-    title: What are the health implications of inaccurate blood pressure readings?
+    title: >-
+        What are the health implications of inaccurate blood pressure readings?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
-related_article4:
+related_article3:
     id: 169518
-    title: What is the difference between systolic and diastolic blood pressure?
+    title: >-
+        What is the difference between systolic and diastolic blood pressure?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
-related_article5:
-    id: 169531
-    title: What are the health implications of inaccurate blood pressure readings?
+related_article4:
+    id: 169532
+    title: >-
+        What are the phases of Korotkoff sounds, and why are they clinically significant?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
+    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
 ---
 
 &nbsp;

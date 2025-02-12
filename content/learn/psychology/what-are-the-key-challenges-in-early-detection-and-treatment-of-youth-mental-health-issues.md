@@ -2,8 +2,10 @@
 _schema: default
 id: 164081
 date: 2025-01-28
-title: What are the key challenges in early detection and treatment of youth mental health issues?
-article_title: What are the key challenges in early detection and treatment of youth mental health issues?
+title: >-
+    What are the key challenges in early detection and treatment of youth mental health issues?
+article_title: >-
+    What are the key challenges in early detection and treatment of youth mental health issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-key-challenges-in-early-detection-and-treatment-of-youth
 url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
 score: -1.0
 related_article1:
+    id: 164080
+    title: >-
+        How can predictive policing be applied in the context of mental health?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-predictive-policing-be-applied-in-the-context-of-mental-health
+related_article2:
     id: 164070
-    title: How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    title: >-
+        How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
-related_article2:
-    id: 164078
-    title: How can machine learning and AI uncover patterns in mental health data?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
 related_article3:
-    id: 164071
-    title: What challenges does the reproducibility crisis pose to research on antisociality?
+    id: 164076
+    title: >-
+        What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
+    url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
 related_article4:
-    id: 164079
-    title: What are the benefits of data-driven personalized care in mental health?
+    id: 164069
+    title: >-
+        What are the societal implications of understanding the relationship between violence and the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
+    url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
+related_article5:
+    id: 164074
+    title: >-
+        What are the core symptoms of conduct disorder and psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy
 ---
 
 &nbsp;

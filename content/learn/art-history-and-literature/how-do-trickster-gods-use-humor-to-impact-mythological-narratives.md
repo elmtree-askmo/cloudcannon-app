@@ -2,8 +2,10 @@
 _schema: default
 id: 163887
 date: 2025-01-28
-title: How do trickster gods use humor to impact mythological narratives?
-article_title: How do trickster gods use humor to impact mythological narratives?
+title: >-
+    How do trickster gods use humor to impact mythological narratives?
+article_title: >-
+    How do trickster gods use humor to impact mythological narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-trickster-gods-use-humor-to-impact-mythological-narratives.md
 url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
 score: 9.0
 related_article1:
-    id: 163886
-    title: What is the role of inventions in mythological stories?
+    id: 163885
+    title: >-
+        How do common themes in myths connect different cultures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
+    url: /learn/art-history-and-literature/questions/how-do-common-themes-in-myths-connect-different-cultures
 related_article2:
-    id: 163877
-    title: What is the symbolic significance of the lyre in Greek mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-symbolic-significance-of-the-lyre-in-greek-mythology
-related_article3:
     id: 163883
-    title: How do Greek myths influence cultural values and human traits?
+    title: >-
+        How do Greek myths influence cultural values and human traits?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-greek-myths-influence-cultural-values-and-human-traits
+related_article3:
+    id: 163873
+    title: >-
+        What are the key factors that influence interpersonal relationships among Greek gods?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
 related_article4:
-    id: 163881
-    title: How do myths use jealousy as a motivating factor among gods?
+    id: 163876
+    title: >-
+        How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-myths-use-jealousy-as-a-motivating-factor-among-gods
+    url: /learn/art-history-and-literature/questions/how-does-shapeshifting-contribute-to-the-cunning-nature-of-trickster-gods-in-mythology
 related_article5:
-    id: 163884
-    title: What role does shape-shifting play in mythological narratives?
+    id: 163883
+    title: >-
+        How do Greek myths influence cultural values and human traits?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-shapeshifting-play-in-mythological-narratives
+    url: /learn/art-history-and-literature/questions/how-do-greek-myths-influence-cultural-values-and-human-traits
 ---
 
 &nbsp;

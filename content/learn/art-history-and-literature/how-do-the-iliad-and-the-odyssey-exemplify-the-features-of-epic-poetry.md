@@ -2,8 +2,10 @@
 _schema: default
 id: 163897
 date: 2025-01-28
-title: How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
-article_title: How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
+title: >-
+    How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
+article_title: >-
+    How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetr
 url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 score: 10.0
 related_article1:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
+    id: 163902
+    title: >-
+        Provide an example of a transformation myth and explain its role in Greek mythology.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/provide-an-example-of-a-transformation-myth-and-explain-its-role-in-greek-mythology
 related_article2:
-    id: 163890
-    title: Identify a notable Greek hero and describe their main achievements or adventures.
+    id: 163900
+    title: >-
+        What are some common themes found in mythological narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
+    url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
 related_article3:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
+    id: 163906
+    title: >-
+        Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
 related_article4:
-    id: 163903
-    title: How do transformation myths serve as etiological myths in Greek culture?
+    id: 163906
+    title: >-
+        Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
+    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
 related_article5:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
+    id: 163889
+    title: >-
+        What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
 ---
 
 &nbsp;

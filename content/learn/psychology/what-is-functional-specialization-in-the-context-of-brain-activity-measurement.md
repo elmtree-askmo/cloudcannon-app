@@ -2,8 +2,10 @@
 _schema: default
 id: 164302
 date: 2025-01-28
-title: What is functional specialization in the context of brain activity measurement?
-article_title: What is functional specialization in the context of brain activity measurement?
+title: >-
+    What is functional specialization in the context of brain activity measurement?
+article_title: >-
+    What is functional specialization in the context of brain activity measurement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-functional-specialization-in-the-context-of-brain-activity-me
 url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
 score: -1.0
 related_article1:
-    id: 164307
-    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    id: 164303
+    title: >-
+        How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
+    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
 related_article2:
-    id: 164314
-    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    id: 164298
+    title: >-
+        How does PET technology compare to fMRI in terms of pros and cons?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+    url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
 related_article3:
+    id: 164303
+    title: >-
+        How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
+related_article4:
     id: 164291
-    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    title: >-
+        What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
-related_article4:
-    id: 164308
-    title: How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
 related_article5:
-    id: 164314
-    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    id: 164307
+    title: >-
+        What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
 ---
 
 &nbsp;

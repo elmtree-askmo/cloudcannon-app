@@ -2,8 +2,10 @@
 _schema: default
 id: 165933
 date: 2025-01-29
-title: What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
-article_title: What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
+title: >-
+    What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
+article_title: >-
+    What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-logistical-challenges-faced-during-the-planning-and
 url: /learn/history-of-the-world/questions/what-were-the-key-logistical-challenges-faced-during-the-planning-and-organization-of-the-great-exhibition-of-1851
 score: 9.0
 related_article1:
-    id: 165934
-    title: What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
+    id: 165937
+    title: >-
+        What themes and artistic techniques are explored in the Fons Americanus?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
+    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
 related_article2:
-    id: 165925
-    title: How did the Great Exhibition serve as a display of imperial power and colonial narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
-related_article3:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
-related_article4:
-    id: 165921
-    title: How did the Great Exhibition impact technological advancements in society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
-related_article5:
     id: 165934
-    title: What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
+    title: >-
+        What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
+related_article3:
+    id: 165929
+    title: >-
+        What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
+related_article4:
+    id: 165937
+    title: >-
+        What themes and artistic techniques are explored in the Fons Americanus?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
+related_article5:
+    id: 165932
+    title: >-
+        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
 ---
 
 &nbsp;

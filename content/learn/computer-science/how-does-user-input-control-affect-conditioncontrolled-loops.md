@@ -2,8 +2,10 @@
 _schema: default
 id: 161483
 date: 2025-01-24
-title: How does user input control affect condition-controlled loops?
-article_title: How does user input control affect condition-controlled loops?
+title: >-
+    How does user input control affect condition-controlled loops?
+article_title: >-
+    How does user input control affect condition-controlled loops?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-user-input-control-affect-conditioncontrolled-loops.md
 url: /learn/computer-science/questions/how-does-user-input-control-affect-conditioncontrolled-loops
 score: -1.0
 related_article1:
-    id: 161190
-    title: How do comparison operators facilitate decision making in algorithms?
+    id: 161194
+    title: >-
+        How does process flow ensure the correct sequence of actions in a program?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+    url: /learn/computer-science/questions/how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-program
 related_article2:
-    id: 161487
-    title: What is the role of variables in data storage and manipulation?
+    id: 161482
+    title: >-
+        What is the significance of counter variables in count-controlled loops?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-variables-in-data-storage-and-manipulation
+    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
 related_article3:
     id: 161486
-    title: Why are data types important in programming?
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
     url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article4:
-    id: 161474
-    title: What symbol is used in flowcharts to represent the start or end of a process?
+    id: 161192
+    title: >-
+        How does user input control affect condition-controlled loops?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
+    url: /learn/computer-science/questions/how-does-user-input-control-affect-conditioncontrolled-loops
 related_article5:
-    id: 161187
-    title: What is string manipulation and why is it important in programming?
+    id: 161193
+    title: >-
+        What is iteration and how does it differ from simple repetition?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
+    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
 ---
 
 &nbsp;

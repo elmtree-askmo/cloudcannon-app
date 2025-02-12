@@ -2,8 +2,10 @@
 _schema: default
 id: 165261
 date: 2025-01-28
-title: How can phylogenetic trees be used to understand evolutionary relationships among species?
-article_title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+title: >-
+    How can phylogenetic trees be used to understand evolutionary relationships among species?
+article_title: >-
+    How can phylogenetic trees be used to understand evolutionary relationships among species?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relatio
 url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
 score: -1.0
 related_article1:
-    id: 165266
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    id: 165265
+    title: >-
+        How does the concept of fitness relate to survival and reproduction in evolutionary terms?
     subject: Biology
-    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
 related_article2:
     id: 165265
-    title: How does the concept of fitness relate to survival and reproduction in evolutionary terms?
+    title: >-
+        How does the concept of fitness relate to survival and reproduction in evolutionary terms?
     subject: Biology
     url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
 related_article3:
-    id: 165256
-    title: Explain Darwin's postulates and their significance in the theory of natural selection.
+    id: 165259
+    title: >-
+        What is the purpose of a cross-fostering experiment in studying heritability?
     subject: Biology
-    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+    url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
 related_article4:
-    id: 165264
-    title: Describe the role of genetic, neurobiological, and hormonal changes in the mechanism of behavior.
+    id: 165265
+    title: >-
+        How does the concept of fitness relate to survival and reproduction in evolutionary terms?
     subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-genetic-neurobiological-and-hormonal-changes-in-the-mechanism-of-behavior
+    url: /learn/biology/questions/how-does-the-concept-of-fitness-relate-to-survival-and-reproduction-in-evolutionary-terms
 related_article5:
-    id: 165262
-    title: Differentiate between homology and homoplasy with examples.
+    id: 165268
+    title: >-
+        How does stabilizing selection contribute to population stability?
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-with-examples
+    url: /learn/biology/questions/how-does-stabilizing-selection-contribute-to-population-stability
 ---
 
 &nbsp;

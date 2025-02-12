@@ -2,8 +2,10 @@
 _schema: default
 id: 159682
 date: 2025-01-23
-title: What special provisions does the WTO have for building trade capacity in developing countries?
-article_title: What special provisions does the WTO have for building trade capacity in developing countries?
+title: >-
+    What special provisions does the WTO have for building trade capacity in developing countries?
+article_title: >-
+    What special provisions does the WTO have for building trade capacity in developing countries?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-special-provisions-does-the-wto-have-for-building-trade-capacity
 url: /learn/economics/questions/what-special-provisions-does-the-wto-have-for-building-trade-capacity-in-developing-countries
 score: -1.0
 related_article1:
-    id: 159678
-    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    id: 159673
+    title: >-
+        What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
+    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
 related_article2:
-    id: 159674
-    title: How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
+    id: 159662
+    title: >-
+        What are the primary purposes and functions of multilateral institutions in solving common global problems?
     subject: Economics
-    url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
+    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
 related_article3:
-    id: 159669
-    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    id: 159671
+    title: >-
+        How are member quotas and credit arrangements significant to the IMF's resources?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
+    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
 related_article4:
+    id: 159665
+    title: >-
+        How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+    subject: Economics
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
+related_article5:
     id: 159663
-    title: How do multilateral institutions create favorable circumstances for global priorities?
+    title: >-
+        How do multilateral institutions create favorable circumstances for global priorities?
     subject: Economics
     url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
-related_article5:
-    id: 159680
-    title: What is the process for overseeing WTO agreements and maintaining open trade?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164775
 date: 2025-01-28
-title: How do arousal and memory interact in the context of stress response?
-article_title: How do arousal and memory interact in the context of stress response?
+title: >-
+    How do arousal and memory interact in the context of stress response?
+article_title: >-
+    How do arousal and memory interact in the context of stress response?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: how-do-arousal-and-memory-interact-in-the-context-of-stress-response.
 url: /learn/psychology/questions/how-do-arousal-and-memory-interact-in-the-context-of-stress-response
 score: -1.0
 related_article1:
-    id: 164779
-    title: How does fear conditioning contribute to the development of phobias, and what cognitive processes are involved?
+    id: 164777
+    title: >-
+        How do social anxiety and anxiety disorders relate to emotional dysregulation?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-fear-conditioning-contribute-to-the-development-of-phobias-and-what-cognitive-processes-are-involved
+    url: /learn/psychology/questions/how-do-social-anxiety-and-anxiety-disorders-relate-to-emotional-dysregulation
 related_article2:
-    id: 164772
-    title: What are the primary functions of the sympathetic and parasympathetic nervous systems, and how do they compete with each other?
+    id: 164773
+    title: >-
+        How does the amygdala contribute to fear conditioning and the processing of emotional stimuli through visual pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-sympathetic-and-parasympathetic-nervous-systems-and-how-do-they-compete-with-each-other
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-fear-conditioning-and-the-processing-of-emotional-stimuli-through-visual-pathways
 related_article3:
-    id: 164776
-    title: What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
+    id: 164777
+    title: >-
+        How do social anxiety and anxiety disorders relate to emotional dysregulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-wanting-and-liking-in-the-context-of-the-nucleus-accumbens-and-reward-anticipation
+    url: /learn/psychology/questions/how-do-social-anxiety-and-anxiety-disorders-relate-to-emotional-dysregulation
 related_article4:
-    id: 164774
-    title: What role does cognitive appraisal play in emotion regulation and emotional learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-cognitive-appraisal-play-in-emotion-regulation-and-emotional-learning
-related_article5:
     id: 164776
-    title: What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
+    title: >-
+        What is the difference between 'wanting' and 'liking' in the context of the nucleus accumbens and reward anticipation?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-difference-between-wanting-and-liking-in-the-context-of-the-nucleus-accumbens-and-reward-anticipation
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168500
 date: 2025-02-03
-title: What problem-solving and reasoning skills are necessary for technology-related job roles?
-article_title: What problem-solving and reasoning skills are necessary for technology-related job roles?
+title: >-
+    What problem-solving and reasoning skills are necessary for technology-related job roles?
+article_title: >-
+    What problem-solving and reasoning skills are necessary for technology-related job roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-problemsolving-and-reasoning-skills-are-necessary-for-technology
 url: /learn/education-studies/questions/what-problemsolving-and-reasoning-skills-are-necessary-for-technologyrelated-job-roles
 score: -1.0
 related_article1:
-    id: 168499
-    title: What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
+    id: 168496
+    title: >-
+        What are the key components of persuasive communication, and how can they be applied in career paths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-responsibilities-of-teaching-and-social-service-roles-and-what-skills-are-required-for-success-in-these-fields
+    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
 related_article2:
-    id: 168501
-    title: How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
+    id: 168509
+    title: >-
+        What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
+    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
 related_article3:
-    id: 168504
-    title: What are the essential qualities of assertiveness in the workplace, and how can they be developed?
+    id: 168514
+    title: >-
+        What are the essential skills for assertiveness in the workplace, and how can they be developed for success in assertive roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
+    url: /learn/education-studies/questions/what-are-the-essential-skills-for-assertiveness-in-the-workplace-and-how-can-they-be-developed-for-success-in-assertive-roles
 related_article4:
-    id: 168501
-    title: How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
+    id: 168497
+    title: >-
+        What are the characteristics of systematic work preferences, and what career options are suitable for individuals with these preferences?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-suitable-for-individuals-with-these-preferences
 related_article5:
-    id: 168503
-    title: What skills are necessary for effective product and service promotion in sales and marketing?
+    id: 168511
+    title: >-
+        What are the main responsibilities and skills required for teaching and social service roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-are-necessary-for-effective-product-and-service-promotion-in-sales-and-marketing
+    url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
 ---
 
 &nbsp;

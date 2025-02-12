@@ -2,8 +2,10 @@
 _schema: default
 id: 167526
 date: 2025-01-31
-title: What role do hydrogen bonds play in the stability of the DNA double helix?
-article_title: What role do hydrogen bonds play in the stability of the DNA double helix?
+title: >-
+    What role do hydrogen bonds play in the stability of the DNA double helix?
+article_title: >-
+    What role do hydrogen bonds play in the stability of the DNA double helix?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/biotechnology/questions/what-role-do-hydrogen-bonds-play-in-the-stab
 score: -1.0
 related_article1:
     id: 167536
-    title: Why is the 5’ to 3’ orientation important in nucleic acid replication and transcription?
+    title: >-
+        Why is the 5’ to 3’ orientation important in nucleic acid replication and transcription?
     subject: Biotechnology
     url: /learn/biotechnology/questions/why-is-the-5-to-3-orientation-important-in-nucleic-acid-replication-and-transcription
 related_article2:
-    id: 167535
-    title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+    id: 167532
+    title: >-
+        What are the base pairing rules for DNA, and why are they important for its structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
+    url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
 related_article3:
-    id: 167531
-    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    id: 167529
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article4:
-    id: 167527
-    title: What are the key differences between the nucleotide components of RNA and DNA?
+    id: 167529
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article5:
     id: 167535
-    title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+    title: >-
+        How do pyrimidines and purines differ in their contribution to nucleic acid stability?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
 ---

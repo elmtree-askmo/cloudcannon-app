@@ -2,8 +2,10 @@
 _schema: default
 id: 170579
 date: 2025-02-06
-title: What factors influence blood flow regulation in circulatory dynamics?
-article_title: What factors influence blood flow regulation in circulatory dynamics?
+title: >-
+    What factors influence blood flow regulation in circulatory dynamics?
+article_title: >-
+    What factors influence blood flow regulation in circulatory dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-blood-flow-regulation-in-circulatory-dynamics.
 url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 score: -1.0
 related_article1:
-    id: 170551
-    title: How do positive and negative feedback mechanisms differ in physiological processes?
+    id: 170575
+    title: >-
+        What is the role of calcium ions in muscle contraction mechanisms?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-feedback-mechanisms-differ-in-physiological-processes
+    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 related_article2:
-    id: 170572
-    title: What are the benefits of using clinical vignettes in research methodologies?
+    id: 170575
+    title: >-
+        What is the role of calcium ions in muscle contraction mechanisms?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
+    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 related_article3:
-    id: 170549
-    title: Describe the process of glucose regulation in maintaining homeostasis.
+    id: 170566
+    title: >-
+        Describe the coagulation cascade involved in blood clotting mechanisms.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-process-of-glucose-regulation-in-maintaining-homeostasis
+    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
 related_article4:
-    id: 170565
-    title: What is the process of DNA transcription in genetic pathways?
+    id: 170546
+    title: >-
+        What are the primary functions of the cellular level in anatomy and physiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-cellular-level-in-anatomy-and-physiology
 related_article5:
-    id: 170559
-    title: How have innovations in medical devices improved pain management?
+    id: 170557
+    title: >-
+        How do steroids and opioids differ in their pharmacological effects?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-have-innovations-in-medical-devices-improved-pain-management
+    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
 ---
 
 &nbsp;

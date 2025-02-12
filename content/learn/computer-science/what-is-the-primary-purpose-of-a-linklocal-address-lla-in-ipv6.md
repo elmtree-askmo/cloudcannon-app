@@ -2,8 +2,10 @@
 _schema: default
 id: 165746
 date: 2025-01-29
-title: What is the primary purpose of a Link-Local Address (LLA) in IPv6?
-article_title: What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+title: >-
+    What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+article_title: >-
+    What is the primary purpose of a Link-Local Address (LLA) in IPv6?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6.md
 url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
 score: -1.0
 related_article1:
-    id: 165760
-    title: What is the preferred format for representing IPv6 addresses?
+    id: 165744
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-preferred-format-for-representing-ipv6-addresses
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 related_article2:
-    id: 165740
-    title: How is an IPv6 address represented in terms of length and notation?
+    id: 165759
+    title: >-
+        What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
+    url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
 related_article3:
     id: 165754
-    title: What are the characteristics of a Unique Local Address (ULA) in IPv6?
+    title: >-
+        What are the characteristics of a Unique Local Address (ULA) in IPv6?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
 related_article4:
-    id: 165751
-    title: Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
+    id: 165748
+    title: >-
+        What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
+    url: /learn/computer-science/questions/what-methods-are-used-for-dynamic-addressing-of-global-unicast-addresses-guas-in-ipv6
 related_article5:
-    id: 165744
-    title: Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
+    id: 165745
+    title: >-
+        What are the components of the structure of a Global Unicast Address (GUA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
+    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
 ---
 
 &nbsp;

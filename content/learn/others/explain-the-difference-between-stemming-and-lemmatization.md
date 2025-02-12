@@ -2,8 +2,10 @@
 _schema: default
 id: 168206
 date: 2025-02-03
-title: Explain the difference between stemming and lemmatization.
-article_title: Explain the difference between stemming and lemmatization.
+title: >-
+    Explain the difference between stemming and lemmatization.
+article_title: >-
+    Explain the difference between stemming and lemmatization.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-difference-between-stemming-and-lemmatization.md
 url: /learn/others/questions/explain-the-difference-between-stemming-and-lemmatization
 score: -1.0
 related_article1:
-    id: 168212
-    title: How do regression techniques contribute to predictive analysis?
-    subject: Others
-    url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
-related_article2:
     id: 168209
-    title: How do search algorithms contribute to AI problem-solving?
+    title: >-
+        How do search algorithms contribute to AI problem-solving?
     subject: Others
     url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-problemsolving
+related_article2:
+    id: 168207
+    title: >-
+        What are transformer models, and how do they differ from traditional neural network models?
+    subject: Others
+    url: /learn/others/questions/what-are-transformer-models-and-how-do-they-differ-from-traditional-neural-network-models
 related_article3:
-    id: 168210
-    title: What are the ethical considerations related to bias and fairness in AI?
+    id: 168211
+    title: >-
+        What role does data visualization play in descriptive analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-ethical-considerations-related-to-bias-and-fairness-in-ai
+    url: /learn/others/questions/what-role-does-data-visualization-play-in-descriptive-analysis
 related_article4:
-    id: 168214
-    title: What are the potential applications of quantum computing in emerging technologies?
+    id: 168203
+    title: >-
+        What is the purpose of clustering techniques in unsupervised learning?
     subject: Others
-    url: /learn/others/questions/what-are-the-potential-applications-of-quantum-computing-in-emerging-technologies
+    url: /learn/others/questions/what-is-the-purpose-of-clustering-techniques-in-unsupervised-learning
 related_article5:
-    id: 168195
-    title: What are the key sources of data used in data collection?
+    id: 168202
+    title: >-
+        List three common evaluation metrics used in supervised learning.
     subject: Others
-    url: /learn/others/questions/what-are-the-key-sources-of-data-used-in-data-collection
+    url: /learn/others/questions/list-three-common-evaluation-metrics-used-in-supervised-learning
 ---
 
 &nbsp;

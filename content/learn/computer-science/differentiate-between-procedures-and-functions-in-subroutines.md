@@ -2,8 +2,10 @@
 _schema: default
 id: 161479
 date: 2025-01-24
-title: Differentiate between procedures and functions in subroutines.
-article_title: Differentiate between procedures and functions in subroutines.
+title: >-
+    Differentiate between procedures and functions in subroutines.
+article_title: >-
+    Differentiate between procedures and functions in subroutines.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-procedures-and-functions-in-subroutines.md
 url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
 score: -1.0
 related_article1:
-    id: 161473
-    title: What is pseudocode and how is it used in programming?
+    id: 161188
+    title: >-
+        Differentiate between procedures and functions in subroutines.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
+    url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
 related_article2:
-    id: 161485
-    title: How is process flow represented in a flowchart?
+    id: 161476
+    title: >-
+        What role do comparison operators play in decision making?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-process-flow-represented-in-a-flowchart
+    url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
 related_article3:
-    id: 161191
-    title: What is the purpose of using counter variables in count-controlled loops?
+    id: 161181
+    title: >-
+        How do flowcharts help in communicating system processes?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
 related_article4:
-    id: 161191
-    title: What is the purpose of using counter variables in count-controlled loops?
+    id: 161197
+    title: >-
+        How do control structures like sequence, selection, and iteration influence program flow?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
 related_article5:
-    id: 161480
-    title: What is the purpose of mathematical operators in programming?
+    id: 161377
+    title: >-
+        How do control structures like sequence, selection, and iteration influence program flow?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-mathematical-operators-in-programming
+    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
 ---
 
 &nbsp;

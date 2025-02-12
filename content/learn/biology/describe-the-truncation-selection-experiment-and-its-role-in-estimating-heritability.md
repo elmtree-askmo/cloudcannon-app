@@ -2,8 +2,10 @@
 _schema: default
 id: 165258
 date: 2025-01-28
-title: Describe the truncation selection experiment and its role in estimating heritability.
-article_title: Describe the truncation selection experiment and its role in estimating heritability.
+title: >-
+    Describe the truncation selection experiment and its role in estimating heritability.
+article_title: >-
+    Describe the truncation selection experiment and its role in estimating heritability.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-truncation-selection-experiment-and-its-role-in-estimati
 url: /learn/biology/questions/describe-the-truncation-selection-experiment-and-its-role-in-estimating-heritability
 score: -1.0
 related_article1:
-    id: 165256
-    title: Explain Darwin's postulates and their significance in the theory of natural selection.
+    id: 165260
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
     subject: Biology
-    url: /learn/biology/questions/explain-darwins-postulates-and-their-significance-in-the-theory-of-natural-selection
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 related_article2:
     id: 165259
-    title: What is the purpose of a cross-fostering experiment in studying heritability?
+    title: >-
+        What is the purpose of a cross-fostering experiment in studying heritability?
     subject: Biology
     url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
 related_article3:
-    id: 165267
-    title: What is directional selection and how does it affect a population's traits?
-    subject: Biology
-    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
-related_article4:
-    id: 165266
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
-related_article5:
     id: 165255
-    title: What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
+    title: >-
+        What are Tinbergen's 4 questions and how do they help in understanding animal behavior?
     subject: Biology
     url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article4:
+    id: 165266
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
 ---
 
 &nbsp;

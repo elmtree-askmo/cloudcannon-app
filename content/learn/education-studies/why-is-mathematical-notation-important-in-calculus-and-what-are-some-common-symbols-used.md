@@ -2,8 +2,10 @@
 _schema: default
 id: 169305
 date: 2025-02-05
-title: Why is mathematical notation important in calculus, and what are some common symbols used?
-article_title: Why is mathematical notation important in calculus, and what are some common symbols used?
+title: >-
+    Why is mathematical notation important in calculus, and what are some common symbols used?
+article_title: >-
+    Why is mathematical notation important in calculus, and what are some common symbols used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-mathematical-notation-important-in-calculus-and-what-are-some-
 url: /learn/education-studies/questions/why-is-mathematical-notation-important-in-calculus-and-what-are-some-common-symbols-used
 score: -1.0
 related_article1:
-    id: 169291
-    title: How do piecewise functions and absolute value functions illustrate discontinuous behavior?
+    id: 169307
+    title: >-
+        What techniques are used in graphical analysis to understand limits and visualize derivatives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-piecewise-functions-and-absolute-value-functions-illustrate-discontinuous-behavior
+    url: /learn/education-studies/questions/what-techniques-are-used-in-graphical-analysis-to-understand-limits-and-visualize-derivatives
 related_article2:
-    id: 169284
-    title: How is the instantaneous rate of change of a function at a point related to its derivative?
+    id: 169295
+    title: >-
+        What is the behavior of functions near vertical asymptotes as they approach infinity?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-instantaneous-rate-of-change-of-a-function-at-a-point-related-to-its-derivative
+    url: /learn/education-studies/questions/what-is-the-behavior-of-functions-near-vertical-asymptotes-as-they-approach-infinity
 related_article3:
-    id: 169301
-    title: How is the derivative used to calculate the instantaneous rate of change, and what are its applications in physics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-derivative-used-to-calculate-the-instantaneous-rate-of-change-and-what-are-its-applications-in-physics
-related_article4:
-    id: 169286
-    title: What are the properties of vectors, and how do they apply to vector addition and subtraction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-properties-of-vectors-and-how-do-they-apply-to-vector-addition-and-subtraction
-related_article5:
     id: 169304
-    title: What are some applications of integrals in physics and engineering?
+    title: >-
+        What are some applications of integrals in physics and engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-applications-of-integrals-in-physics-and-engineering
+related_article4:
+    id: 169289
+    title: >-
+        How can the behavior of continuous functions be analyzed graphically?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-the-behavior-of-continuous-functions-be-analyzed-graphically
+related_article5:
+    id: 169287
+    title: >-
+        How are vectors used in physics and engineering applications?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-vectors-used-in-physics-and-engineering-applications
 ---
 
 &nbsp;

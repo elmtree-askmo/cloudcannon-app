@@ -2,8 +2,10 @@
 _schema: default
 id: 162987
 date: 2025-01-26
-title: How do outbreaks differ from epidemics in terms of their definitions?
-article_title: How do outbreaks differ from epidemics in terms of their definitions?
+title: >-
+    How do outbreaks differ from epidemics in terms of their definitions?
+article_title: >-
+    How do outbreaks differ from epidemics in terms of their definitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions.
 url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 score: -1.0
 related_article1:
-    id: 163313
-    title: How is the case fatality rate calculated and how does it differ from the mortality rate?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
-related_article2:
-    id: 163309
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
-related_article3:
-    id: 163308
-    title: What are the primary purposes of descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
-related_article4:
-    id: 162989
-    title: What are the primary purposes of public health surveillance?
+    id: 163151
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
-related_article5:
+related_article2:
     id: 163324
-    title: How is the Pearson correlation coefficient used in epidemiology?
+    title: >-
+        How is the Pearson correlation coefficient used in epidemiology?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
+related_article3:
+    id: 163311
+    title: >-
+        How are age-specific rates calculated and why are they important?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
+related_article4:
+    id: 162984
+    title: >-
+        What is the purpose of direct standardization in calculating age-adjusted rates?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+related_article5:
+    id: 162993
+    title: >-
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 ---
 
 &nbsp;

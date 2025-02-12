@@ -2,8 +2,10 @@
 _schema: default
 id: 161046
 date: 2025-01-24
-title: What are the key differences between procedural and object-oriented programming paradigms?
-article_title: What are the key differences between procedural and object-oriented programming paradigms?
+title: >-
+    What are the key differences between procedural and object-oriented programming paradigms?
+article_title: >-
+    What are the key differences between procedural and object-oriented programming paradigms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-procedural-and-objectoriented-pr
 url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 score: -1.0
 related_article1:
-    id: 160987
-    title: What are the principles of usability in user interface design?
+    id: 161034
+    title: >-
+        How does abstraction help in simplifying complex computing problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
 related_article2:
-    id: 161039
-    title: How is pattern recognition utilized in data mining?
+    id: 160714
+    title: >-
+        What are the main components of network architecture?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-pattern-recognition-utilized-in-data-mining
+    url: /learn/computer-science/questions/what-are-the-main-components-of-network-architecture
 related_article3:
-    id: 160723
-    title: How is cryptography used to ensure information security?
+    id: 160724
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 related_article4:
-    id: 161047
-    title: How do operating systems manage processes and memory?
+    id: 161034
+    title: >-
+        How does abstraction help in simplifying complex computing problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-operating-systems-manage-processes-and-memory
+    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
 related_article5:
-    id: 160719
-    title: How is image processing utilized in computer graphics?
+    id: 161044
+    title: >-
+        What is the role of simulation models in computer simulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
+    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
 ---
 
 &nbsp;

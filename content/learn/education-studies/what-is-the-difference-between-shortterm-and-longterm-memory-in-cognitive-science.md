@@ -2,8 +2,10 @@
 _schema: default
 id: 166785
 date: 2025-01-31
-title: What is the difference between short-term and long-term memory in cognitive science?
-article_title: What is the difference between short-term and long-term memory in cognitive science?
+title: >-
+    What is the difference between short-term and long-term memory in cognitive science?
+article_title: >-
+    What is the difference between short-term and long-term memory in cognitive science?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-difference-between-shortterm-and-longterm-memory-in-cogni
 url: /learn/education-studies/questions/what-is-the-difference-between-shortterm-and-longterm-memory-in-cognitive-science
 score: -1.0
 related_article1:
-    id: 166781
-    title: What factors should be considered when evaluating data points in a graph?
+    id: 166792
+    title: >-
+        Why is audience consideration important in data visualization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-evaluating-data-points-in-a-graph
+    url: /learn/education-studies/questions/why-is-audience-consideration-important-in-data-visualization
 related_article2:
-    id: 166775
-    title: What are the key elements to consider when interpreting the axis labels on a graph?
+    id: 166778
+    title: >-
+        What are the main differences between bar graphs and line graphs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-to-consider-when-interpreting-the-axis-labels-on-a-graph
+    url: /learn/education-studies/questions/what-are-the-main-differences-between-bar-graphs-and-line-graphs
 related_article3:
+    id: 166782
+    title: >-
+        What are some interventions that can enhance student performance in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-interventions-that-can-enhance-student-performance-in-education
+related_article4:
+    id: 166788
+    title: >-
+        What are the key components of a pie chart, and how should they be interpreted?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-pie-chart-and-how-should-they-be-interpreted
+related_article5:
     id: 166779
-    title: In what scenarios is a pie chart most effectively used?
+    title: >-
+        In what scenarios is a pie chart most effectively used?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-scenarios-is-a-pie-chart-most-effectively-used
-related_article4:
-    id: 166786
-    title: What are the essential components of a bar graph, and how are they interpreted?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-bar-graph-and-how-are-they-interpreted
 ---
 
 &nbsp;

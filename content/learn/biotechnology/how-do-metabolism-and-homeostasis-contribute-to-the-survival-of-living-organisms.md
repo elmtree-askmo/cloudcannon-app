@@ -2,8 +2,10 @@
 _schema: default
 id: 166175
 date: 2025-01-29
-title: How do metabolism and homeostasis contribute to the survival of living organisms?
-article_title: How do metabolism and homeostasis contribute to the survival of living organisms?
+title: >-
+    How do metabolism and homeostasis contribute to the survival of living organisms?
+article_title: >-
+    How do metabolism and homeostasis contribute to the survival of living organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-livin
 url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
 score: -1.0
 related_article1:
-    id: 166178
-    title: How do branching diagrams help in understanding phylogeny?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
-related_article2:
     id: 166177
-    title: What is the significance of gradual genetic change in the concept of evolution?
+    title: >-
+        What is the significance of gradual genetic change in the concept of evolution?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-is-the-significance-of-gradual-genetic-change-in-the-concept-of-evolution
+related_article2:
+    id: 166176
+    title: >-
+        Explain the role of evolution in the growth and reproduction of living organisms.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms
 related_article3:
-    id: 166187
-    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    id: 166176
+    title: >-
+        Explain the role of evolution in the growth and reproduction of living organisms.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+    url: /learn/biotechnology/questions/explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms
 related_article4:
-    id: 166181
-    title: Why is biodiversity important in organizing species and understanding evolutionary history?
+    id: 166194
+    title: >-
+        How do the levels of biological organization progress from molecular to ecological levels?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
-related_article5:
-    id: 166196
-    title: What is the importance of observations in the scientific method?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
 ---
 
 &nbsp;

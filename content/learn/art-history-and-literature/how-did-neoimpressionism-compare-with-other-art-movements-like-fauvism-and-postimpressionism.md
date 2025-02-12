@@ -2,8 +2,10 @@
 _schema: default
 id: 170272
 date: 2025-02-06
-title: How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
-article_title: How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
+title: >-
+    How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
+article_title: >-
+    How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-neoimpressionism-compare-with-other-art-movements-like-fauvis
 url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-compare-with-other-art-movements-like-fauvism-and-postimpressionism
 score: 9.0
 related_article1:
-    id: 170261
-    title: What is Pointillism, and how did Georges Seurat apply this technique in his work?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
-related_article2:
-    id: 170262
-    title: How did scientific techniques influence the color theory used in Neo-Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-scientific-techniques-influence-the-color-theory-used-in-neoimpressionism
-related_article3:
     id: 170268
-    title: How did political symbolism manifest in Neo-Impressionist artworks?
+    title: >-
+        How did political symbolism manifest in Neo-Impressionist artworks?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-political-symbolism-manifest-in-neoimpressionist-artworks
+related_article2:
+    id: 170267
+    title: >-
+        What social classes were represented in Neo-Impressionist art, and how were they depicted?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-social-classes-were-represented-in-neoimpressionist-art-and-how-were-they-depicted
+related_article3:
+    id: 170261
+    title: >-
+        What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
 related_article4:
     id: 170267
-    title: What social classes were represented in Neo-Impressionist art, and how were they depicted?
+    title: >-
+        What social classes were represented in Neo-Impressionist art, and how were they depicted?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-social-classes-were-represented-in-neoimpressionist-art-and-how-were-they-depicted
 related_article5:
     id: 170269
-    title: What were the key artistic techniques used by Georges Seurat in his paintings?
+    title: >-
+        What were the key artistic techniques used by Georges Seurat in his paintings?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-key-artistic-techniques-used-by-georges-seurat-in-his-paintings
 ---

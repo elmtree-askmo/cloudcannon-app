@@ -2,8 +2,10 @@
 _schema: default
 id: 169243
 date: 2025-02-04
-title: What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
-article_title: What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
+title: >-
+    What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
+article_title: >-
+    What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,20 +24,35 @@ file_name: what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-
 url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
 score: 9.0
 related_article1:
+    id: 169236
+    title: >-
+        How does the First Past the Post system differ from a majority voting system?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-the-first-past-the-post-system-differ-from-a-majority-voting-system
+related_article2:
     id: 169238
-    title: What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
+    title: >-
+        What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-distinguishes-the-major-political-parties-in-canada-such-as-the-liberal-and-conservative-parties-from-regional-parties-like-the-bloc-qubcois
-related_article2:
+related_article3:
+    id: 169232
+    title: >-
+        How do fixed election dates differ between the federal and provincial systems in Canada?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-fixed-election-dates-differ-between-the-federal-and-provincial-systems-in-canada
+related_article4:
     id: 169247
-    title: What are some recent trends in the Canadian political landscape that could influence future election projections?
+    title: >-
+        What are some recent trends in the Canadian political landscape that could influence future election projections?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-recent-trends-in-the-canadian-political-landscape-that-could-influence-future-election-projections
-related_article3:
-    id: 169238
-    title: What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
+related_article5:
+    id: 169231
+    title: >-
+        What is the primary purpose of an election system in linking political authorities?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-distinguishes-the-major-political-parties-in-canada-such-as-the-liberal-and-conservative-parties-from-regional-parties-like-the-bloc-qubcois
+    url: /learn/history-of-the-world/questions/what-is-the-primary-purpose-of-an-election-system-in-linking-political-authorities
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163898
 date: 2025-01-28
-title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
-article_title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+title: >-
+    What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+article_title: >-
+    What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-historical-context-of-ancient-greek-literature-and-how-di
 url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
 score: 9.0
 related_article1:
-    id: 163899
-    title: Describe a literary technique commonly used in ancient Greek literature and its purpose.
+    id: 163903
+    title: >-
+        How do transformation myths serve as etiological myths in Greek culture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose
+    url: /learn/art-history-and-literature/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
 related_article2:
-    id: 163891
-    title: How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
+    id: 163901
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 related_article3:
-    id: 163890
-    title: Identify a notable Greek hero and describe their main achievements or adventures.
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
 related_article4:
-    id: 163905
-    title: How have Greek myths been preserved and evolved over time through storytelling traditions?
+    id: 163895
+    title: >-
+        What role did bards play in the preservation and dissemination of Greek myths?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
+    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
 related_article5:
-    id: 163904
-    title: In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+    id: 163895
+    title: >-
+        What role did bards play in the preservation and dissemination of Greek myths?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167028
 date: 2025-01-31
-title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
-article_title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+title: >-
+    What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+article_title: >-
+    What is the function of chitin in fungal cell walls and arthropod exoskeletons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exo
 url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 score: -1.0
 related_article1:
-    id: 167025
-    title: How does glycogen function as an energy storage molecule in animals?
-    subject: Biology
-    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
-related_article2:
     id: 167022
-    title: What are some common examples of disaccharides?
+    title: >-
+        What are some common examples of disaccharides?
     subject: Biology
     url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
+related_article2:
+    id: 167019
+    title: >-
+        How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
 related_article3:
+    id: 167019
+    title: >-
+        How are monosaccharides classified based on the number of carbon atoms?
+    subject: Biology
+    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+related_article4:
+    id: 167015
+    title: >-
+        What is the role of dehydration reactions in the synthesis of biological polymers?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
+related_article5:
     id: 167018
-    title: How do hydrolysis reactions contribute to metabolism?
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
     subject: Biology
     url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
-related_article4:
-    id: 167021
-    title: How are disaccharides formed through glycosidic bonds?
-    subject: Biology
-    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
-related_article5:
-    id: 167020
-    title: What is the difference between alpha and beta ring structures in monosaccharides?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
 ---
 
 &nbsp;

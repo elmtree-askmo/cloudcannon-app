@@ -2,8 +2,10 @@
 _schema: default
 id: 165086
 date: 2025-01-28
-title: What is the significance of main effects in research, and how are they identified?
-article_title: What is the significance of main effects in research, and how are they identified?
+title: >-
+    What is the significance of main effects in research, and how are they identified?
+article_title: >-
+    What is the significance of main effects in research, and how are they identified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-significance-of-main-effects-in-research-and-how-are-they
 url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 score: -1.0
 related_article1:
-    id: 165075
-    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
 related_article2:
-    id: 165092
-    title: How do design principles influence the effectiveness of data visualizations?
+    id: 165081
+    title: >-
+        What is the difference between qualitative and quantitative analysis in data interpretation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
+    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
 related_article3:
-    id: 165094
-    title: How can researchers effectively communicate the limitations of their study?
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
 related_article4:
-    id: 165066
-    title: What are the key differences between sampling methods and data sources in statistical analysis?
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-sampling-methods-and-data-sources-in-statistical-analysis
-related_article5:
-    id: 165071
-    title: How do control variables and confounding variables affect the outcome of an experiment?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
 ---
 
 &nbsp;

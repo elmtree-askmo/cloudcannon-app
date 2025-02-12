@@ -2,8 +2,10 @@
 _schema: default
 id: 161252
 date: 2025-01-24
-title: What are the key features and functions of anti-virus software?
-article_title: What are the key features and functions of anti-virus software?
+title: >-
+    What are the key features and functions of anti-virus software?
+article_title: >-
+    What are the key features and functions of anti-virus software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-features-and-functions-of-antivirus-software.md
 url: /learn/computer-science/questions/what-are-the-key-features-and-functions-of-antivirus-software
 score: -1.0
 related_article1:
-    id: 161391
-    title: What are some common methods used in phishing attacks?
+    id: 161261
+    title: >-
+        What is the difference between smishing and vishing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
+    url: /learn/computer-science/questions/what-is-the-difference-between-smishing-and-vishing
 related_article2:
-    id: 161464
-    title: How can ransomware be prevented and removed?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-ransomware-be-prevented-and-removed
-related_article3:
-    id: 161378
-    title: What are some examples of basic identification information considered as personal data?
+    id: 161452
+    title: >-
+        What are some examples of basic identification information considered as personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
+related_article3:
+    id: 161457
+    title: >-
+        How can strong passwords help prevent identity theft?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
 related_article4:
-    id: 161386
-    title: What is the primary function of a firewall in cybersecurity?
+    id: 161254
+    title: >-
+        What is the primary purpose of a firewall in cybersecurity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-a-firewall-in-cybersecurity
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
 related_article5:
-    id: 161258
-    title: How can ransomware be prevented and removed?
+    id: 161459
+    title: >-
+        Why is it important to regularly update anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-ransomware-be-prevented-and-removed
+    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
 ---
 
 &nbsp;

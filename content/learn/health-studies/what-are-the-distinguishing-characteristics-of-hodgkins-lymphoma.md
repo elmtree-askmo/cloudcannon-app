@@ -2,8 +2,10 @@
 _schema: default
 id: 166304
 date: 2025-01-30
-title: What are the distinguishing characteristics of Hodgkin's lymphoma?
-article_title: What are the distinguishing characteristics of Hodgkin's lymphoma?
+title: >-
+    What are the distinguishing characteristics of Hodgkin's lymphoma?
+article_title: >-
+    What are the distinguishing characteristics of Hodgkin's lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma.md
 url: /learn/health-studies/questions/what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma
 score: -1.0
 related_article1:
-    id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
-related_article2:
-    id: 166302
-    title: How does the consolidation phase differ from the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
-related_article3:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
-related_article4:
-    id: 166307
-    title: How do solid tumors form in lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
-related_article5:
     id: 166311
-    title: What is the role of chemotherapy in the treatment of lymphoma?
+    title: >-
+        What is the role of chemotherapy in the treatment of lymphoma?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
+related_article2:
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+related_article3:
+    id: 166308
+    title: >-
+        What are the clinical manifestations of lymph node enlargement in lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
+related_article4:
+    id: 166311
+    title: >-
+        What is the role of chemotherapy in the treatment of lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
+related_article5:
+    id: 166298
+    title: >-
+        What are the symptoms of bone marrow overcrowding in leukemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 ---
 
 &nbsp;

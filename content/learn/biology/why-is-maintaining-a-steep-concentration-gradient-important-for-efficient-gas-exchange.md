@@ -2,8 +2,10 @@
 _schema: default
 id: 168782
 date: 2025-02-04
-title: Why is maintaining a steep concentration gradient important for efficient gas exchange?
-article_title: Why is maintaining a steep concentration gradient important for efficient gas exchange?
+title: >-
+    Why is maintaining a steep concentration gradient important for efficient gas exchange?
+article_title: >-
+    Why is maintaining a steep concentration gradient important for efficient gas exchange?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-maintaining-a-steep-concentration-gradient-important-for-effic
 url: /learn/biology/questions/why-is-maintaining-a-steep-concentration-gradient-important-for-efficient-gas-exchange
 score: -1.0
 related_article1:
-    id: 168777
-    title: Explain the process of gas exchange in plants and its significance in photosynthesis.
+    id: 168776
+    title: >-
+        How do guard cells regulate the opening and closing of stomata?
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-gas-exchange-in-plants-and-its-significance-in-photosynthesis
+    url: /learn/biology/questions/how-do-guard-cells-regulate-the-opening-and-closing-of-stomata
 related_article2:
-    id: 168780
-    title: What are xerophytes and how are they adapted to dry environments?
+    id: 168770
+    title: >-
+        What is the role of diffusion in gas exchange for unicellular organisms?
     subject: Biology
-    url: /learn/biology/questions/what-are-xerophytes-and-how-are-they-adapted-to-dry-environments
+    url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
 related_article3:
+    id: 168779
+    title: >-
+        How do environmental conditions affect the rate of transpiration in plants?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
+related_article4:
     id: 168771
-    title: Why do multicellular organisms require specialized systems for gas exchange?
+    title: >-
+        Why do multicellular organisms require specialized systems for gas exchange?
     subject: Biology
     url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
-related_article4:
-    id: 168769
-    title: How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
-    subject: Biology
-    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
 related_article5:
-    id: 168774
-    title: Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
+    id: 168770
+    title: >-
+        What is the role of diffusion in gas exchange for unicellular organisms?
     subject: Biology
-    url: /learn/biology/questions/describe-the-mechanism-of-direct-diffusion-in-unicellular-organisms-and-its-role-in-respiration
+    url: /learn/biology/questions/what-is-the-role-of-diffusion-in-gas-exchange-for-unicellular-organisms
 ---
 
 &nbsp;

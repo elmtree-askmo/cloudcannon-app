@@ -2,8 +2,10 @@
 _schema: default
 id: 166167
 date: 2025-01-29
-title: What is the purpose of a meta-analysis in scientific research?
-article_title: What is the purpose of a meta-analysis in scientific research?
+title: >-
+    What is the purpose of a meta-analysis in scientific research?
+article_title: >-
+    What is the purpose of a meta-analysis in scientific research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-a-metaanalysis-in-scientific-research.md
 url: /learn/education-studies/questions/what-is-the-purpose-of-a-metaanalysis-in-scientific-research
 score: -1.0
 related_article1:
-    id: 166173
-    title: How do scientific theories differ from scientific laws?
+    id: 166160
+    title: >-
+        How do independent and dependent variables establish cause and effect in experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-scientific-theories-differ-from-scientific-laws
+    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-establish-cause-and-effect-in-experiments
 related_article2:
-    id: 166168
-    title: What are the main types of research methodologies used in scientific inquiry?
+    id: 166154
+    title: >-
+        How do sensory observations contribute to hypothesis formation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
+    url: /learn/education-studies/questions/how-do-sensory-observations-contribute-to-hypothesis-formation
 related_article3:
-    id: 166153
-    title: What is the purpose of the scientific method in research?
+    id: 166158
+    title: >-
+        Why is replication important in experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
+    url: /learn/education-studies/questions/why-is-replication-important-in-experimental-design
 related_article4:
-    id: 166153
-    title: What is the purpose of the scientific method in research?
+    id: 166156
+    title: >-
+        How does deductive reasoning validate scientific hypotheses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
+    url: /learn/education-studies/questions/how-does-deductive-reasoning-validate-scientific-hypotheses
 related_article5:
-    id: 166165
-    title: What are the advantages of using observational studies in environmental science?
+    id: 166162
+    title: >-
+        Why is replication crucial for ensuring consistency in scientific experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-observational-studies-in-environmental-science
+    url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-consistency-in-scientific-experiments
 ---
 
 &nbsp;

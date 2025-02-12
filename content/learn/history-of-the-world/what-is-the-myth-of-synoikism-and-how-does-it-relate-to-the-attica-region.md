@@ -2,8 +2,10 @@
 _schema: default
 id: 166019
 date: 2025-01-29
-title: What is the myth of Synoikism, and how does it relate to the Attica region?
-article_title: What is the myth of Synoikism, and how does it relate to the Attica region?
+title: >-
+    What is the myth of Synoikism, and how does it relate to the Attica region?
+article_title: >-
+    What is the myth of Synoikism, and how does it relate to the Attica region?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-re
 url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
 score: 9.0
 related_article1:
-    id: 166039
-    title: What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-archaeologists-face-in-preserving-and-interpreting-ancient-athenian-sites
-related_article2:
-    id: 166029
-    title: What were the defining characteristics of oligarchic factions in ancient Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
-related_article3:
-    id: 166035
-    title: How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
-related_article4:
     id: 166025
-    title: How did Solon's reforms impact the socioeconomic classes in Athens?
+    title: >-
+        How did Solon's reforms impact the socioeconomic classes in Athens?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
-related_article5:
-    id: 166028
-    title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+related_article2:
+    id: 166023
+    title: >-
+        Who were the Archons, and what was their function in Athenian political institutions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
+    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
+related_article3:
+    id: 166037
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
+related_article4:
+    id: 166024
+    title: >-
+        What was the purpose of the Council of 500 in the governance of Athens?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
+related_article5:
+    id: 166022
+    title: >-
+        What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166163
 date: 2025-01-29
-title: How does long-term ecological research contribute to understanding climate change impacts?
-article_title: How does long-term ecological research contribute to understanding climate change impacts?
+title: >-
+    How does long-term ecological research contribute to understanding climate change impacts?
+article_title: >-
+    How does long-term ecological research contribute to understanding climate change impacts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-longterm-ecological-research-contribute-to-understanding-cli
 url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
 score: -1.0
 related_article1:
+    id: 166164
+    title: >-
+        What are the key areas of study in environmental science?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
+related_article2:
     id: 166158
-    title: Why is replication important in experimental design?
+    title: >-
+        Why is replication important in experimental design?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-replication-important-in-experimental-design
-related_article2:
-    id: 166161
-    title: What is the peer review process and why is it important in scientific research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
 related_article3:
-    id: 166162
-    title: Why is replication crucial for ensuring consistency in scientific experiments?
+    id: 166153
+    title: >-
+        What is the purpose of the scientific method in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-consistency-in-scientific-experiments
+    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 related_article4:
-    id: 166169
-    title: How does science contribute to addressing environmental issues like climate change?
+    id: 166172
+    title: >-
+        What are the main threats to brook trout habitats?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-science-contribute-to-addressing-environmental-issues-like-climate-change
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-brook-trout-habitats
 related_article5:
-    id: 166159
-    title: What is the role of control groups in scientific experiments?
+    id: 166171
+    title: >-
+        Why are aquatic ecosystems important for biodiversity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-control-groups-in-scientific-experiments
+    url: /learn/education-studies/questions/why-are-aquatic-ecosystems-important-for-biodiversity
 ---
 
 &nbsp;

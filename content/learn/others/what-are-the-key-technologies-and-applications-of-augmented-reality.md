@@ -2,8 +2,10 @@
 _schema: default
 id: 162380
 date: 2025-01-25
-title: What are the key technologies and applications of augmented reality?
-article_title: What are the key technologies and applications of augmented reality?
+title: >-
+    What are the key technologies and applications of augmented reality?
+article_title: >-
+    What are the key technologies and applications of augmented reality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-technologies-and-applications-of-augmented-reality.m
 url: /learn/others/questions/what-are-the-key-technologies-and-applications-of-augmented-reality
 score: -1.0
 related_article1:
-    id: 162780
-    title: What are the benefits of using cloud computing service models like IaaS, PaaS, and SaaS?
+    id: 162736
+    title: >-
+        How is augmented reality used in retail, and what challenges does it face in user adoption?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-service-models-like-iaas-paas-and-saas
+    url: /learn/others/questions/how-is-augmented-reality-used-in-retail-and-what-challenges-does-it-face-in-user-adoption
 related_article2:
-    id: 162726
-    title: What are the key components of an information system, and how do they interact?
+    id: 162657
+    title: >-
+        How is regression analysis used in inferential statistics, and what are its applications?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/others/questions/how-is-regression-analysis-used-in-inferential-statistics-and-what-are-its-applications
 related_article3:
-    id: 162716
-    title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162653
+    title: >-
+        How do neural networks contribute to the development of autonomous vehicles?
     subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
 related_article4:
-    id: 162362
-    title: How is hypothesis testing used in inferential statistics, and what are its applications?
+    id: 162363
+    title: >-
+        What are the challenges of overfitting and model validation in predictive modeling?
     subject: Others
-    url: /learn/others/questions/how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are-its-applications
+    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
 related_article5:
-    id: 162721
-    title: How do Hadoop and Spark differ in their approach to big data processing?
+    id: 162852
+    title: >-
+        How do distributed ledgers and smart contracts function in blockchain technology?
     subject: Others
-    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
+    url: /learn/others/questions/how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain-technology
 ---
 
 &nbsp;

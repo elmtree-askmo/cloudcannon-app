@@ -2,8 +2,10 @@
 _schema: default
 id: 168507
 date: 2025-02-03
-title: What are the primary responsibilities of routine and managerial roles in business administration?
-article_title: What are the primary responsibilities of routine and managerial roles in business administration?
+title: >-
+    What are the primary responsibilities of routine and managerial roles in business administration?
+article_title: >-
+    What are the primary responsibilities of routine and managerial roles in business administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-primary-responsibilities-of-routine-and-managerial-roles
 url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-routine-and-managerial-roles-in-business-administration
 score: -1.0
 related_article1:
-    id: 168494
-    title: What are the career opportunities available in the medical field?
+    id: 168501
+    title: >-
+        How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
 related_article2:
-    id: 168489
-    title: What are the routine duties and responsibilities associated with business administration roles?
+    id: 168492
+    title: >-
+        How do customer interaction levels vary in different food service roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-routine-duties-and-responsibilities-associated-with-business-administration-roles
+    url: /learn/education-studies/questions/how-do-customer-interaction-levels-vary-in-different-food-service-roles
 related_article3:
-    id: 168504
-    title: What are the essential qualities of assertiveness in the workplace, and how can they be developed?
+    id: 168499
+    title: >-
+        What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
+    url: /learn/education-studies/questions/what-are-the-main-responsibilities-of-teaching-and-social-service-roles-and-what-skills-are-required-for-success-in-these-fields
 related_article4:
-    id: 168496
-    title: What are the key components of persuasive communication, and how can they be applied in career paths?
+    id: 168498
+    title: >-
+        What interpersonal skills are crucial for success in sales roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
+    url: /learn/education-studies/questions/what-interpersonal-skills-are-crucial-for-success-in-sales-roles
+related_article5:
+    id: 168492
+    title: >-
+        How do customer interaction levels vary in different food service roles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-customer-interaction-levels-vary-in-different-food-service-roles
 ---
 
 &nbsp;

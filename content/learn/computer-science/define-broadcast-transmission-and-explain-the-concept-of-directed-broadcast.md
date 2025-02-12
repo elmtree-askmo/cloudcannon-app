@@ -2,8 +2,10 @@
 _schema: default
 id: 165693
 date: 2025-01-29
-title: Define broadcast transmission and explain the concept of directed broadcast.
-article_title: Define broadcast transmission and explain the concept of directed broadcast.
+title: >-
+    Define broadcast transmission and explain the concept of directed broadcast.
+article_title: >-
+    Define broadcast transmission and explain the concept of directed broadcast.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-broadcast-transmission-and-explain-the-concept-of-directed-bro
 url: /learn/computer-science/questions/define-broadcast-transmission-and-explain-the-concept-of-directed-broadcast
 score: -1.0
 related_article1:
-    id: 165702
-    title: How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-classless-ipv4-addressing-utilize-the-subnet-mask-and-what-is-its-current-usage-in-networks
-related_article2:
-    id: 165702
-    title: How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-classless-ipv4-addressing-utilize-the-subnet-mask-and-what-is-its-current-usage-in-networks
-related_article3:
-    id: 165695
-    title: What are the differences between public and private IPv4 addresses, and what are the private address blocks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-public-and-private-ipv4-addresses-and-what-are-the-private-address-blocks
-related_article4:
-    id: 165685
-    title: What is the dotted decimal format in IPv4 addressing, and how are octets represented?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-dotted-decimal-format-in-ipv4-addressing-and-how-are-octets-represented
-related_article5:
     id: 165700
-    title: What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
+    title: >-
+        What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
     subject: Computer Science
     url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
+related_article2:
+    id: 165700
+    title: >-
+        What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
+related_article3:
+    id: 165692
+    title: >-
+        What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-unicast-transmission-and-how-does-it-differ-from-broadcast-and-multicast-transmissions
+related_article4:
+    id: 165690
+    title: >-
+        What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-8-16-and-24-subnet-masks-and-what-are-nonnatural-octet-boundaries
+related_article5:
+    id: 165690
+    title: >-
+        What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-8-16-and-24-subnet-masks-and-what-are-nonnatural-octet-boundaries
 ---
 
 &nbsp;

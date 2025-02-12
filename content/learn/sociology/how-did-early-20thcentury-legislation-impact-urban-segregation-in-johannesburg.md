@@ -2,8 +2,10 @@
 _schema: default
 id: 169151
 date: 2025-02-04
-title: How did early 20th-century legislation impact urban segregation in Johannesburg?
-article_title: How did early 20th-century legislation impact urban segregation in Johannesburg?
+title: >-
+    How did early 20th-century legislation impact urban segregation in Johannesburg?
+article_title: >-
+    How did early 20th-century legislation impact urban segregation in Johannesburg?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-early-20thcentury-legislation-impact-urban-segregation-in-joh
 url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
 score: -1.0
 related_article1:
+    id: 169150
+    title: >-
+        What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
+related_article2:
+    id: 169149
+    title: >-
+        What were the dynamics of the African workforce in urban areas concerning the labor market?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-dynamics-of-the-african-workforce-in-urban-areas-concerning-the-labor-market
+related_article3:
+    id: 169138
+    title: >-
+        What were the key factors that contributed to early urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
+related_article4:
     id: 169140
-    title: What were the main challenges faced in the inner city slum-yards regarding racial integration?
+    title: >-
+        What were the main challenges faced in the inner city slum-yards regarding racial integration?
     subject: Sociology
     url: /learn/sociology/questions/what-were-the-main-challenges-faced-in-the-inner-city-slumyards-regarding-racial-integration
-related_article2:
-    id: 169147
-    title: What was the impact of racial discourse on social stratification in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
-related_article3:
-    id: 169144
-    title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
-related_article4:
-    id: 169143
-    title: How did municipal ordinances impact housing for the multi-racial working class?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
 related_article5:
-    id: 169152
-    title: What were the municipal strategies and reforms aimed at addressing housing and location policies?
+    id: 169146
+    title: >-
+        How did segregationist policies affect racial identity and residential control in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
+    url: /learn/sociology/questions/how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg
 ---
 
 &nbsp;

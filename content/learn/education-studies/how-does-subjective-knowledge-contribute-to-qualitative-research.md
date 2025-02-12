@@ -2,8 +2,10 @@
 _schema: default
 id: 163691
 date: 2025-01-27
-title: How does subjective knowledge contribute to qualitative research?
-article_title: How does subjective knowledge contribute to qualitative research?
+title: >-
+    How does subjective knowledge contribute to qualitative research?
+article_title: >-
+    How does subjective knowledge contribute to qualitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-subjective-knowledge-contribute-to-qualitative-research.md
 url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
 score: -1.0
 related_article1:
-    id: 163685
-    title: What is the process of coding and thematic analysis in qualitative data analysis?
+    id: 163676
+    title: >-
+        How do ontology and epistemology influence research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
 related_article2:
-    id: 163682
-    title: What are the key elements of a research design?
+    id: 163677
+    title: >-
+        What are the key characteristics of qualitative research paradigms?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
 related_article3:
-    id: 163695
-    title: How does social constructivism influence qualitative research?
+    id: 163690
+    title: >-
+        What is the process of deductive reasoning, and how is it applied in quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-social-constructivism-influence-qualitative-research
+    url: /learn/education-studies/questions/what-is-the-process-of-deductive-reasoning-and-how-is-it-applied-in-quantitative-research
 related_article4:
-    id: 163685
-    title: What is the process of coding and thematic analysis in qualitative data analysis?
+    id: 163692
+    title: >-
+        How does objective knowledge contribute to quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 related_article5:
-    id: 163683
-    title: What are some common qualitative data collection methods?
+    id: 163677
+    title: >-
+        What are the key characteristics of qualitative research paradigms?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
 ---
 
 &nbsp;

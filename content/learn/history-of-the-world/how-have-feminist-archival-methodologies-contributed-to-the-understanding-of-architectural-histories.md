@@ -2,8 +2,10 @@
 _schema: default
 id: 169112
 date: 2025-02-04
-title: How have feminist archival methodologies contributed to the understanding of architectural histories?
-article_title: How have feminist archival methodologies contributed to the understanding of architectural histories?
+title: >-
+    How have feminist archival methodologies contributed to the understanding of architectural histories?
+article_title: >-
+    How have feminist archival methodologies contributed to the understanding of architectural histories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodolog
 score: 9.0
 related_article1:
     id: 169108
-    title: Name a few notable female architects and describe their contributions to the field.
+    title: >-
+        Name a few notable female architects and describe their contributions to the field.
     subject: History of the World
     url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
 related_article2:
-    id: 169119
-    title: How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
+    id: 169108
+    title: >-
+        Name a few notable female architects and describe their contributions to the field.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
+    url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
 related_article3:
-    id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    id: 169125
+    title: >-
+        How does feminist historiography aim to rewrite women's roles in architectural history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+    url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
 related_article4:
-    id: 169118
-    title: What are the effects of transnational capitalism on gender dynamics in architecture?
+    id: 169115
+    title: >-
+        What challenges do female students and faculty face in architectural education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
 related_article5:
-    id: 169117
-    title: How did colonial patriarchy influence architectural practices and gender roles?
+    id: 169123
+    title: >-
+        How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
+    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
 ---
 
 &nbsp;

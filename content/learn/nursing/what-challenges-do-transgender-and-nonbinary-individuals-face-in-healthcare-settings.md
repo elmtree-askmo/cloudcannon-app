@@ -2,8 +2,10 @@
 _schema: default
 id: 169647
 date: 2025-02-05
-title: What challenges do transgender and non-binary individuals face in healthcare settings?
-article_title: What challenges do transgender and non-binary individuals face in healthcare settings?
+title: >-
+    What challenges do transgender and non-binary individuals face in healthcare settings?
+article_title: >-
+    What challenges do transgender and non-binary individuals face in healthcare settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-transgender-and-nonbinary-individuals-face-in-heal
 url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
 score: -1.0
 related_article1:
-    id: 169643
-    title: What are the different types of discrimination that can occur in healthcare settings?
+    id: 169645
+    title: >-
+        What legal protections are provided under the Equality Act for LGBTQ+ individuals?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+    url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 related_article2:
-    id: 169648
-    title: Why is it important to use correct terminology when discussing gender identity?
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
 related_article3:
-    id: 169644
-    title: How does discrimination in healthcare impact patients' mental health and willingness to seek care?
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-discrimination-in-healthcare-impact-patients-mental-health-and-willingness-to-seek-care
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
 related_article4:
-    id: 169653
-    title: What systemic barriers do marginalized groups face in accessing healthcare?
+    id: 169660
+    title: >-
+        What lessons have been learned from historical discrimination in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
 related_article5:
-    id: 169646
-    title: How have societal attitudes towards LGBTQ+ rights evolved over time?
+    id: 169654
+    title: >-
+        Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
+    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
 ---
 
 &nbsp;

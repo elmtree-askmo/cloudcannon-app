@@ -2,8 +2,10 @@
 _schema: default
 id: 166307
 date: 2025-01-30
-title: How do solid tumors form in lymphoma?
-article_title: How do solid tumors form in lymphoma?
+title: >-
+    How do solid tumors form in lymphoma?
+article_title: >-
+    How do solid tumors form in lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-solid-tumors-form-in-lymphoma.md
 url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
 score: -1.0
 related_article1:
-    id: 166295
-    title: What are the primary risk factors for developing leukemia related to radiation exposure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
-related_article2:
     id: 166311
-    title: What is the role of chemotherapy in the treatment of lymphoma?
+    title: >-
+        What is the role of chemotherapy in the treatment of lymphoma?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
+related_article2:
+    id: 166306
+    title: >-
+        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
 related_article3:
-    id: 166308
-    title: What are the clinical manifestations of lymph node enlargement in lymphoma?
+    id: 166290
+    title: >-
+        How does pancytopenia manifest in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
+    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
 related_article4:
-    id: 166314
-    title: How is anemia diagnosed and treated?
+    id: 166290
+    title: >-
+        How does pancytopenia manifest in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-anemia-diagnosed-and-treated
+    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
 related_article5:
-    id: 166316
-    title: How is thrombocytopenia diagnosed and treated?
+    id: 166300
+    title: >-
+        How does organ infiltration present in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
+    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
 ---
 
 &nbsp;

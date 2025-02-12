@@ -2,8 +2,10 @@
 _schema: default
 id: 168666
 date: 2025-02-03
-title: How do parenthetical citations differ from narrative style citations in APA format?
-article_title: How do parenthetical citations differ from narrative style citations in APA format?
+title: >-
+    How do parenthetical citations differ from narrative style citations in APA format?
+article_title: >-
+    How do parenthetical citations differ from narrative style citations in APA format?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-parenthetical-citations-differ-from-narrative-style-citations-
 url: /learn/education-studies/questions/how-do-parenthetical-citations-differ-from-narrative-style-citations-in-apa-format
 score: -1.0
 related_article1:
-    id: 168669
-    title: What are some common challenges associated with manual referencing, and how can they be addressed?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-challenges-associated-with-manual-referencing-and-how-can-they-be-addressed
-related_article2:
-    id: 168663
-    title: What are the key differences between APA style and other citation styles?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-apa-style-and-other-citation-styles
-related_article3:
-    id: 168679
-    title: What factors should be considered when determining when to cite a source?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-determining-when-to-cite-a-source
-related_article4:
     id: 168670
-    title: What are the benefits and limitations of using citation tools for referencing?
+    title: >-
+        What are the benefits and limitations of using citation tools for referencing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-and-limitations-of-using-citation-tools-for-referencing
-related_article5:
-    id: 168669
-    title: What are some common challenges associated with manual referencing, and how can they be addressed?
+related_article2:
+    id: 168675
+    title: >-
+        How do citations support arguments in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-challenges-associated-with-manual-referencing-and-how-can-they-be-addressed
+    url: /learn/education-studies/questions/how-do-citations-support-arguments-in-academic-writing
+related_article3:
+    id: 168670
+    title: >-
+        What are the benefits and limitations of using citation tools for referencing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-and-limitations-of-using-citation-tools-for-referencing
+related_article4:
+    id: 168673
+    title: >-
+        What are the common causes of plagiarism, and how can it be avoided?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-common-causes-of-plagiarism-and-how-can-it-be-avoided
+related_article5:
+    id: 168673
+    title: >-
+        What are the common causes of plagiarism, and how can it be avoided?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-common-causes-of-plagiarism-and-how-can-it-be-avoided
 ---
 
 &nbsp;

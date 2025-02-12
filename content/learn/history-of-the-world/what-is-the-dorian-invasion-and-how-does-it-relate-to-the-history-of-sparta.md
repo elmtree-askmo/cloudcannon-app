@@ -2,8 +2,10 @@
 _schema: default
 id: 163574
 date: 2025-01-27
-title: What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
-article_title: What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
+title: >-
+    What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
+article_title: >-
+    What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-
 url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
 score: 8.5
 related_article1:
-    id: 163578
-    title: What archaeological evidence supports our understanding of Spartan society?
+    id: 163576
+    title: >-
+        What were the main causes and outcomes of the Messenian Wars?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
 related_article2:
-    id: 163583
-    title: Describe the military and religious responsibilities of the Spartan kings.
+    id: 163570
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-military-and-religious-responsibilities-of-the-spartan-kings
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 related_article3:
-    id: 163582
-    title: What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
+    id: 163585
+    title: >-
+        How did the Gerousia and Apella function within the Spartan political system?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the-spartan-dyarchy-and-how-did-it-affect-governance
+    url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
 related_article4:
-    id: 163581
-    title: Explain the purpose and structure of the Spartan agoge.
+    id: 163572
+    title: >-
+        What role did the Spartan Acropolis play in the city-state's religious and political life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-purpose-and-structure-of-the-spartan-agoge
+    url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
 related_article5:
-    id: 163584
-    title: What was the role of the ephors in Spartan government, and how were they elected?
+    id: 163570
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 ---
 
 &nbsp;

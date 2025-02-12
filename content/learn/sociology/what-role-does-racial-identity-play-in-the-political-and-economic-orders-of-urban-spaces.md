@@ -2,8 +2,10 @@
 _schema: default
 id: 168965
 date: 2025-02-04
-title: What role does racial identity play in the political and economic orders of urban spaces?
-article_title: What role does racial identity play in the political and economic orders of urban spaces?
+title: >-
+    What role does racial identity play in the political and economic orders of urban spaces?
+article_title: >-
+    What role does racial identity play in the political and economic orders of urban spaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-racial-identity-play-in-the-political-and-economic-ord
 url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
 score: -1.0
 related_article1:
-    id: 168973
-    title: What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
+    id: 168964
+    title: >-
+        How does racial capitalism intersect with the concept of blight in urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
+    url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
 related_article2:
     id: 168963
-    title: In what ways was blight perceived as a public danger in terms of real estate values and city security?
+    title: >-
+        In what ways was blight perceived as a public danger in terms of real estate values and city security?
     subject: Sociology
     url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
 related_article3:
-    id: 168967
-    title: What are the responsibilities of urban planners and real estate developers in addressing urban blight?
+    id: 168963
+    title: >-
+        In what ways was blight perceived as a public danger in terms of real estate values and city security?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-responsibilities-of-urban-planners-and-real-estate-developers-in-addressing-urban-blight
+    url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
 related_article4:
-    id: 168966
-    title: How do racialized economic systems perpetuate white privilege and anti-black racism in urban contexts?
+    id: 168972
+    title: >-
+        How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-racialized-economic-systems-perpetuate-white-privilege-and-antiblack-racism-in-urban-contexts
+    url: /learn/sociology/questions/how-does-neoliberal-urbanism-influence-the-privatization-of-public-tasks-related-to-blight-removal
 related_article5:
-    id: 168967
-    title: What are the responsibilities of urban planners and real estate developers in addressing urban blight?
+    id: 168973
+    title: >-
+        What is the relationship between socioeconomic structures and urban spaces in terms of wealth distribution?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-responsibilities-of-urban-planners-and-real-estate-developers-in-addressing-urban-blight
+    url: /learn/sociology/questions/what-is-the-relationship-between-socioeconomic-structures-and-urban-spaces-in-terms-of-wealth-distribution
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163017
 date: 2025-01-26
-title: How is the PICO framework used to structure clinical research questions?
-article_title: How is the PICO framework used to structure clinical research questions?
+title: >-
+    How is the PICO framework used to structure clinical research questions?
+article_title: >-
+    How is the PICO framework used to structure clinical research questions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-pico-framework-used-to-structure-clinical-research-questio
 url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
 score: -1.0
 related_article1:
-    id: 163016
-    title: What are the steps involved in forming a hypothesis for an epidemiologic investigation?
+    id: 162977
+    title: >-
+        What is the significance of confidence intervals in the estimation process of epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
+    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 related_article2:
-    id: 162964
-    title: What is the significance of the null hypothesis in hypothesis testing?
+    id: 162961
+    title: >-
+        What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 related_article3:
-    id: 162968
-    title: What role do genetic makeup and lifestyle play in individual determinants of health?
+    id: 162977
+    title: >-
+        What is the significance of confidence intervals in the estimation process of epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 related_article4:
-    id: 162968
-    title: What role do genetic makeup and lifestyle play in individual determinants of health?
+    id: 162967
+    title: >-
+        How have key figures and milestones influenced the historical development of epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
 related_article5:
-    id: 162959
-    title: What are the main components of the PICO framework in clinical research?
+    id: 162973
+    title: >-
+        What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-pico-framework-in-clinical-research
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 ---
 
 &nbsp;

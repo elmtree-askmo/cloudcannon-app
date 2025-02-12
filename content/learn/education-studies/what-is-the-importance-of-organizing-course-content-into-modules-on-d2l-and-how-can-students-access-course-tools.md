@@ -2,8 +2,10 @@
 _schema: default
 id: 166884
 date: 2025-01-31
-title: What is the importance of organizing course content into modules on D2L and how can students access course tools?
-article_title: What is the importance of organizing course content into modules on D2L and how can students access course tools?
+title: >-
+    What is the importance of organizing course content into modules on D2L and how can students access course tools?
+article_title: >-
+    What is the importance of organizing course content into modules on D2L and how can students access course tools?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-is-the-importance-of-organizing-cou
 score: -1.0
 related_article1:
     id: 166889
-    title: How does natural selection contribute to changes in population characteristics and what role does biological fitness play?
+    title: >-
+        How does natural selection contribute to changes in population characteristics and what role does biological fitness play?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-natural-selection-contribute-to-changes-in-population-characteristics-and-what-role-does-biological-fitness-play
 related_article2:
-    id: 166889
-    title: How does natural selection contribute to changes in population characteristics and what role does biological fitness play?
+    id: 166885
+    title: >-
+        How do whiteboards and study guides complement PowerPoints and recordings in D2L content management?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-contribute-to-changes-in-population-characteristics-and-what-role-does-biological-fitness-play
+    url: /learn/education-studies/questions/how-do-whiteboards-and-study-guides-complement-powerpoints-and-recordings-in-d2l-content-management
 related_article3:
-    id: 166881
-    title: How does iClicker technology enhance student engagement and what challenges might it present?
+    id: 166883
+    title: >-
+        How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-iclicker-technology-enhance-student-engagement-and-what-challenges-might-it-present
+    url: /learn/education-studies/questions/how-can-preclass-assignments-and-supplementary-materials-be-integrated-with-course-content-to-enhance-learning
 related_article4:
-    id: 166882
-    title: Why is specificity important in learning objectives and how can they be used as study resources?
+    id: 166885
+    title: >-
+        How do whiteboards and study guides complement PowerPoints and recordings in D2L content management?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-specificity-important-in-learning-objectives-and-how-can-they-be-used-as-study-resources
+    url: /learn/education-studies/questions/how-do-whiteboards-and-study-guides-complement-powerpoints-and-recordings-in-d2l-content-management
 related_article5:
-    id: 166888
-    title: What is the difference between correlation and causation when analyzing trends in graphs?
+    id: 166891
+    title: >-
+        How do hypotheses differ from theories in terms of testability and predictions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation-when-analyzing-trends-in-graphs
+    url: /learn/education-studies/questions/how-do-hypotheses-differ-from-theories-in-terms-of-testability-and-predictions
 ---
 
 &nbsp;

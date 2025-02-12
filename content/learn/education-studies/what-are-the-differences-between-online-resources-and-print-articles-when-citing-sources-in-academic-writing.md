@@ -2,8 +2,10 @@
 _schema: default
 id: 170035
 date: 2025-02-05
-title: What are the differences between online resources and print articles when citing sources in academic writing?
-article_title: What are the differences between online resources and print articles when citing sources in academic writing?
+title: >-
+    What are the differences between online resources and print articles when citing sources in academic writing?
+article_title: >-
+    What are the differences between online resources and print articles when citing sources in academic writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-online-resources-and-print-articles-
 url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
 score: -1.0
 related_article1:
-    id: 170055
-    title: How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
+    id: 170039
+    title: >-
+        Why are primary source documents important in historical assignments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-hunting-and-gathering-practices-influence-the-longterm-ecological-balance-of-ancient-societies
+    url: /learn/education-studies/questions/why-are-primary-source-documents-important-in-historical-assignments
 related_article2:
-    id: 170048
-    title: What factors influenced population density in pre-agricultural societies, and how did these change over time?
+    id: 170049
+    title: >-
+        What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
+    url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
 related_article3:
-    id: 170053
-    title: What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
+    id: 170043
+    title: >-
+        How did the role of women in food collection impact hunting and gathering societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-environmental-impacts-of-resource-use-in-ancient-societies-and-how-do-they-compare-to-modern-practices
+    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
 related_article4:
-    id: 170051
-    title: What contributions did women make to food production and child-rearing in ancient societies?
+    id: 170036
+    title: >-
+        What is the importance of footnotes and references in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-contributions-did-women-make-to-food-production-and-childrearing-in-ancient-societies
+    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 related_article5:
-    id: 170057
-    title: How can lessons from ancient societies contribute to our modern understanding of cultural and societal evolution?
+    id: 170047
+    title: >-
+        How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-lessons-from-ancient-societies-contribute-to-our-modern-understanding-of-cultural-and-societal-evolution
+    url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
 ---
 
 &nbsp;

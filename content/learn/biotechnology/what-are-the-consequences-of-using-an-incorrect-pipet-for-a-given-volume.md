@@ -2,8 +2,10 @@
 _schema: default
 id: 165370
 date: 2025-01-29
-title: What are the consequences of using an incorrect pipet for a given volume?
-article_title: What are the consequences of using an incorrect pipet for a given volume?
+title: >-
+    What are the consequences of using an incorrect pipet for a given volume?
+article_title: >-
+    What are the consequences of using an incorrect pipet for a given volume?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-consequences-of-using-an-incorrect-pipet-for-a-given-vol
 url: /learn/biotechnology/questions/what-are-the-consequences-of-using-an-incorrect-pipet-for-a-given-volume
 score: -1.0
 related_article1:
-    id: 165381
-    title: What routine maintenance procedures should be followed to ensure proper pipet operation?
+    id: 165368
+    title: >-
+        Explain the volume range limitations of P10, P100, P200, and P1000 pipets.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-routine-maintenance-procedures-should-be-followed-to-ensure-proper-pipet-operation
+    url: /learn/biotechnology/questions/explain-the-volume-range-limitations-of-p10-p100-p200-and-p1000-pipets
 related_article2:
-    id: 165378
-    title: What safety precautions should be taken when disposing of pipet tips?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
-related_article3:
-    id: 165378
-    title: What safety precautions should be taken when disposing of pipet tips?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
-related_article4:
-    id: 165377
-    title: What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-common-solutions-and-reagents-handled-in-biology-labs-and-what-techniques-are-used-to-avoid-contamination
-related_article5:
     id: 165375
-    title: How do you ensure compatibility between pipet tips and pipets?
+    title: >-
+        How do you ensure compatibility between pipet tips and pipets?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-you-ensure-compatibility-between-pipet-tips-and-pipets
+related_article3:
+    id: 165379
+    title: >-
+        Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article4:
+    id: 165379
+    title: >-
+        Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
+related_article5:
+    id: 165371
+    title: >-
+        Describe the process of adjusting the volume using the dial on a pipet.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165671
 date: 2025-01-29
-title: How do you encrypt plaintext passwords on a router?
-article_title: How do you encrypt plaintext passwords on a router?
+title: >-
+    How do you encrypt plaintext passwords on a router?
+article_title: >-
+    How do you encrypt plaintext passwords on a router?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-encrypt-plaintext-passwords-on-a-router.md
 url: /learn/computer-science/questions/how-do-you-encrypt-plaintext-passwords-on-a-router
 score: -1.0
 related_article1:
-    id: 165674
-    title: What is the purpose of the 'no shutdown' command in router interface configuration?
+    id: 165682
+    title: >-
+        What is the purpose of the 'show interfaces' command in router verification?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-no-shutdown-command-in-router-interface-configuration
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-show-interfaces-command-in-router-verification
 related_article2:
-    id: 165681
-    title: How can you verify the routing table on a router?
+    id: 165678
+    title: >-
+        How do you secure console access on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-verify-the-routing-table-on-a-router
+    url: /learn/computer-science/questions/how-do-you-secure-console-access-on-a-router
 related_article3:
-    id: 165676
-    title: What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
+    id: 165669
+    title: >-
+        How can you secure privileged EXEC mode on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-an-ipv4-subnet-mask-and-an-ipv6-prefix-length
+    url: /learn/computer-science/questions/how-can-you-secure-privileged-exec-mode-on-a-router
 related_article4:
-    id: 165674
-    title: What is the purpose of the 'no shutdown' command in router interface configuration?
+    id: 165684
+    title: >-
+        What is the significance of monitoring link status in network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-no-shutdown-command-in-router-interface-configuration
+    url: /learn/computer-science/questions/what-is-the-significance-of-monitoring-link-status-in-network-management
 related_article5:
-    id: 165670
-    title: What is the purpose of configuring SSH access on a router?
+    id: 165677
+    title: >-
+        Which command is used to set the hostname of a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-configuring-ssh-access-on-a-router
+    url: /learn/computer-science/questions/which-command-is-used-to-set-the-hostname-of-a-router
 ---
 
 &nbsp;

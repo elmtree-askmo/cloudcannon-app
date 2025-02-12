@@ -2,8 +2,10 @@
 _schema: default
 id: 166070
 date: 2025-01-29
-title: How did chariots disrupt enemy formations and facilitate tactical retreats?
-article_title: How did chariots disrupt enemy formations and facilitate tactical retreats?
+title: >-
+    How did chariots disrupt enemy formations and facilitate tactical retreats?
+article_title: >-
+    How did chariots disrupt enemy formations and facilitate tactical retreats?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-ret
 url: /learn/others/questions/how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-retreats
 score: -1.0
 related_article1:
-    id: 166073
-    title: What techniques were used to navigate difficult terrain with chariots?
+    id: 166058
+    title: >-
+        What were the key spear throwing techniques used in British chariot warfare?
     subject: Others
-    url: /learn/others/questions/what-techniques-were-used-to-navigate-difficult-terrain-with-chariots
+    url: /learn/others/questions/what-were-the-key-spear-throwing-techniques-used-in-british-chariot-warfare
 related_article2:
-    id: 166066
-    title: What techniques were essential for mastering control of a chariot on steep slopes?
+    id: 166059
+    title: >-
+        How did British chariots create chaos in enemy ranks during battle?
     subject: Others
-    url: /learn/others/questions/what-techniques-were-essential-for-mastering-control-of-a-chariot-on-steep-slopes
+    url: /learn/others/questions/how-did-british-chariots-create-chaos-in-enemy-ranks-during-battle
 related_article3:
     id: 166068
-    title: Explain the advanced maneuver of running along the yoke in chariot driving.
+    title: >-
+        Explain the advanced maneuver of running along the yoke in chariot driving.
     subject: Others
     url: /learn/others/questions/explain-the-advanced-maneuver-of-running-along-the-yoke-in-chariot-driving
 related_article4:
-    id: 166061
-    title: Describe the initial engagement and mobility strategies used in chariot combat.
+    id: 166060
+    title: >-
+        What psychological impact did galloping horses have on enemy forces in chariot warfare?
     subject: Others
-    url: /learn/others/questions/describe-the-initial-engagement-and-mobility-strategies-used-in-chariot-combat
+    url: /learn/others/questions/what-psychological-impact-did-galloping-horses-have-on-enemy-forces-in-chariot-warfare
 related_article5:
-    id: 166067
-    title: How did chariot drivers execute quick stops and turns effectively?
+    id: 166071
+    title: >-
+        What training practices were crucial for maintaining control of horses at high speeds?
     subject: Others
-    url: /learn/others/questions/how-did-chariot-drivers-execute-quick-stops-and-turns-effectively
+    url: /learn/others/questions/what-training-practices-were-crucial-for-maintaining-control-of-horses-at-high-speeds
 ---
 
 &nbsp;

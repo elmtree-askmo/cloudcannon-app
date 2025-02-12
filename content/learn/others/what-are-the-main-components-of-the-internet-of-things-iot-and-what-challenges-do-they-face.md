@@ -2,8 +2,10 @@
 _schema: default
 id: 162674
 date: 2025-01-25
-title: What are the main components of the Internet of Things (IoT), and what challenges do they face?
-article_title: What are the main components of the Internet of Things (IoT), and what challenges do they face?
+title: >-
+    What are the main components of the Internet of Things (IoT), and what challenges do they face?
+article_title: >-
+    What are the main components of the Internet of Things (IoT), and what challenges do they face?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-the-internet-of-things-iot-and-what-c
 url: /learn/others/questions/what-are-the-main-components-of-the-internet-of-things-iot-and-what-challenges-do-they-face
 score: -1.0
 related_article1:
-    id: 162714
-    title: What are the best practices for creating effective data visualizations?
+    id: 162728
+    title: >-
+        How do LAN and WAN differ in terms of network architecture?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
+    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
 related_article2:
-    id: 162773
-    title: What ethical considerations are associated with the development of autonomous vehicles?
+    id: 162355
+    title: >-
+        What are the main types of machine learning algorithms, and how do they differ?
     subject: Others
-    url: /learn/others/questions/what-ethical-considerations-are-associated-with-the-development-of-autonomous-vehicles
+    url: /learn/others/questions/what-are-the-main-types-of-machine-learning-algorithms-and-how-do-they-differ
 related_article3:
-    id: 162780
-    title: What are the benefits of using cloud computing service models like IaaS, PaaS, and SaaS?
+    id: 162719
+    title: >-
+        How do decision trees differ from neural networks in predictive modeling?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-service-models-like-iaas-paas-and-saas
+    url: /learn/others/questions/how-do-decision-trees-differ-from-neural-networks-in-predictive-modeling
 related_article4:
-    id: 162827
-    title: How can Excel, R, and Python be utilized in data analysis for business intelligence?
+    id: 162853
+    title: >-
+        What are the challenges associated with virtual reality in terms of cost and user experience?
     subject: Others
-    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence
+    url: /learn/others/questions/what-are-the-challenges-associated-with-virtual-reality-in-terms-of-cost-and-user-experience
 related_article5:
-    id: 162373
-    title: What are the best practices for responsive design and SEO optimization in web development?
+    id: 162439
+    title: >-
+        What are the best practices for ensuring clarity and simplicity in data visualization?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
+    url: /learn/others/questions/what-are-the-best-practices-for-ensuring-clarity-and-simplicity-in-data-visualization
 ---
 
 &nbsp;

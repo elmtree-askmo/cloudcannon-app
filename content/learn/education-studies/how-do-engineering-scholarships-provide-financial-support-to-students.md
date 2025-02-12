@@ -2,8 +2,10 @@
 _schema: default
 id: 166711
 date: 2025-01-31
-title: How do engineering scholarships provide financial support to students?
-article_title: How do engineering scholarships provide financial support to students?
+title: >-
+    How do engineering scholarships provide financial support to students?
+article_title: >-
+    How do engineering scholarships provide financial support to students?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-engineering-scholarships-provide-financial-support-to-students
 url: /learn/education-studies/questions/how-do-engineering-scholarships-provide-financial-support-to-students
 score: -1.0
 related_article1:
-    id: 166697
-    title: What assumptions are made in rigid body dynamics regarding stress and deformation?
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article2:
+    id: 166704
+    title: >-
+        What are the equilibrium conditions in statics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-equilibrium-conditions-in-statics
+related_article3:
     id: 166713
-    title: How do consulting companies impact the engineering industry?
+    title: >-
+        How do consulting companies impact the engineering industry?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
-related_article3:
-    id: 166699
-    title: Define the moment of force and explain how it is calculated.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
 related_article4:
-    id: 166719
-    title: How do engineering organizations support networking and professional development?
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article5:
-    id: 166694
-    title: What role do unit vectors play in the vector cross product?
+    id: 166693
+    title: >-
+        How does the right-hand rule help determine the direction of a vector cross product?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-unit-vectors-play-in-the-vector-cross-product
+    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 ---
 
 &nbsp;

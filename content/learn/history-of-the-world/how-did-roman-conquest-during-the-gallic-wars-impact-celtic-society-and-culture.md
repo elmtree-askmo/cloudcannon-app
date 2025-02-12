@@ -2,8 +2,10 @@
 _schema: default
 id: 163652
 date: 2025-01-27
-title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
-article_title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+title: >-
+    How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+article_title: >-
+    How did Roman conquest during the Gallic Wars impact Celtic society and culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-a
 url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
 score: 9.0
 related_article1:
-    id: 163648
-    title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+    id: 163650
+    title: >-
+        How did the use of Greek and Latin characters influence the preservation of the Gaulish language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
+    url: /learn/history-of-the-world/questions/how-did-the-use-of-greek-and-latin-characters-influence-the-preservation-of-the-gaulish-language
 related_article2:
-    id: 163648
-    title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+    id: 163650
+    title: >-
+        How did the use of Greek and Latin characters influence the preservation of the Gaulish language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
+    url: /learn/history-of-the-world/questions/how-did-the-use-of-greek-and-latin-characters-influence-the-preservation-of-the-gaulish-language
 related_article3:
-    id: 163651
-    title: What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
+    id: 163657
+    title: >-
+        How did the social structure of ancient Celtic society differ from that of the Romans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-gundestrup-cauldron-in-understanding-celtic-connections-to-nature
+    url: /learn/history-of-the-world/questions/how-did-the-social-structure-of-ancient-celtic-society-differ-from-that-of-the-romans
 related_article4:
-    id: 163648
-    title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+    id: 163643
+    title: >-
+        What are the key differences between Greek and Roman perspectives on the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
+    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
 related_article5:
-    id: 163654
-    title: How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
+    id: 163657
+    title: >-
+        How did the social structure of ancient Celtic society differ from that of the Romans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-archaeological-finds-like-the-gundestrup-cauldron-influence-modern-interpretations-of-celtic-art
+    url: /learn/history-of-the-world/questions/how-did-the-social-structure-of-ancient-celtic-society-differ-from-that-of-the-romans
 ---
 
 &nbsp;

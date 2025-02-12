@@ -2,8 +2,10 @@
 _schema: default
 id: 164277
 date: 2025-01-28
-title: What are the different types of questions that can be included in a test format?
-article_title: What are the different types of questions that can be included in a test format?
+title: >-
+    What are the different types of questions that can be included in a test format?
+article_title: >-
+    What are the different types of questions that can be included in a test format?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-questions-that-can-be-included-in-a-t
 url: /learn/education-studies/questions/what-are-the-different-types-of-questions-that-can-be-included-in-a-test-format
 score: -1.0
 related_article1:
-    id: 164284
-    title: How should test content be structured to ensure a logical flow and effective topic segmentation?
+    id: 164286
+    title: >-
+        What are the key components of creating a review schedule and allocating resources effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-test-content-be-structured-to-ensure-a-logical-flow-and-effective-topic-segmentation
+    url: /learn/education-studies/questions/what-are-the-key-components-of-creating-a-review-schedule-and-allocating-resources-effectively
 related_article2:
-    id: 164285
-    title: What is the importance of prioritizing core concepts over supplementary information in test content organization?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-prioritizing-core-concepts-over-supplementary-information-in-test-content-organization
-related_article3:
     id: 164287
-    title: How can group discussions and individual study sessions be utilized as effective review methods?
+    title: >-
+        How can group discussions and individual study sessions be utilized as effective review methods?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-group-discussions-and-individual-study-sessions-be-utilized-as-effective-review-methods
+related_article3:
+    id: 164278
+    title: >-
+        What are the essential elements of designing evidence-based questions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-essential-elements-of-designing-evidencebased-questions
 related_article4:
-    id: 164284
-    title: How should test content be structured to ensure a logical flow and effective topic segmentation?
+    id: 164285
+    title: >-
+        What is the importance of prioritizing core concepts over supplementary information in test content organization?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-test-content-be-structured-to-ensure-a-logical-flow-and-effective-topic-segmentation
+    url: /learn/education-studies/questions/what-is-the-importance-of-prioritizing-core-concepts-over-supplementary-information-in-test-content-organization
 related_article5:
-    id: 164280
-    title: What criteria should be used for evaluating responses in assessments?
+    id: 164278
+    title: >-
+        What are the essential elements of designing evidence-based questions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-should-be-used-for-evaluating-responses-in-assessments
+    url: /learn/education-studies/questions/what-are-the-essential-elements-of-designing-evidencebased-questions
 ---
 
 &nbsp;

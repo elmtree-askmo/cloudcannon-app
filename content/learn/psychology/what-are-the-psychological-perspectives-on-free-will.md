@@ -2,8 +2,10 @@
 _schema: default
 id: 167696
 date: 2025-01-31
-title: What are the psychological perspectives on free will?
-article_title: What are the psychological perspectives on free will?
+title: >-
+    What are the psychological perspectives on free will?
+article_title: >-
+    What are the psychological perspectives on free will?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free
 score: -1.0
 related_article1:
     id: 167711
-    title: What is the significance of cultural anthropology in understanding psychological practices?
+    title: >-
+        What is the significance of cultural anthropology in understanding psychological practices?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
 related_article2:
-    id: 167693
-    title: What are some limitations and challenges associated with the effectiveness of CBT?
+    id: 167699
+    title: >-
+        What statistical techniques are commonly used in data analysis for psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
 related_article3:
-    id: 167710
-    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    id: 167690
+    title: >-
+        What are common symptoms and diagnostic criteria for behavioral disorders?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
 related_article4:
-    id: 167685
-    title: How do perceptions of normalcy influence human behavior?
+    id: 167703
+    title: >-
+        How do group dynamics influence social behavior and leadership?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+    url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
 related_article5:
-    id: 167702
-    title: What role does emotional intelligence play in personal and professional life?
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 ---
 
 &nbsp;

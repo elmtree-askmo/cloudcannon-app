@@ -2,8 +2,10 @@
 _schema: default
 id: 162361
 date: 2025-01-25
-title: What are the differences between measures of central tendency and measures of variability in descriptive statistics?
-article_title: What are the differences between measures of central tendency and measures of variability in descriptive statistics?
+title: >-
+    What are the differences between measures of central tendency and measures of variability in descriptive statistics?
+article_title: >-
+    What are the differences between measures of central tendency and measures of variability in descriptive statistics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-measures-of-central-tendency-and-mea
 url: /learn/others/questions/what-are-the-differences-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
 score: -1.0
 related_article1:
-    id: 162718
-    title: What are the challenges of overfitting in predictive modeling, and how can they be mitigated?
+    id: 162836
+    title: >-
+        What are the challenges of overfitting and model validation in predictive modeling?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-of-overfitting-in-predictive-modeling-and-how-can-they-be-mitigated
+    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
 related_article2:
-    id: 162713
-    title: How do neural networks contribute to the development of autonomous vehicles?
+    id: 162849
+    title: >-
+        How do Scrum and Kanban frameworks differ in Agile methodologies?
     subject: Others
-    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
+    url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
 related_article3:
-    id: 162354
-    title: How can Excel, R, and Python be utilized in data analysis?
+    id: 162654
+    title: >-
+        What are the best practices for creating effective data visualizations?
     subject: Others
-    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
 related_article4:
-    id: 162827
-    title: How can Excel, R, and Python be utilized in data analysis for business intelligence?
+    id: 162730
+    title: >-
+        What are the principles of usability and accessibility in user experience design?
     subject: Others
-    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence
+    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
 related_article5:
-    id: 162770
-    title: What distinguishes supervised learning from unsupervised learning in machine learning?
+    id: 162370
+    title: >-
+        What are the main components of information systems, and how do they support decision-making processes?
     subject: Others
-    url: /learn/others/questions/what-distinguishes-supervised-learning-from-unsupervised-learning-in-machine-learning
+    url: /learn/others/questions/what-are-the-main-components-of-information-systems-and-how-do-they-support-decisionmaking-processes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160638
 date: 2025-01-24
-title: How do political geography and state control relate to borders and boundaries in territoriality?
-article_title: How do political geography and state control relate to borders and boundaries in territoriality?
+title: >-
+    How do political geography and state control relate to borders and boundaries in territoriality?
+article_title: >-
+    How do political geography and state control relate to borders and boundaries in territoriality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-political-geography-and-state-control-relate-to-borders-and-bo
 url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 score: -1.0
 related_article1:
-    id: 160564
-    title: What is the significance of population distribution and cultural landscapes in human systems?
+    id: 160626
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 related_article2:
-    id: 160102
-    title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+    id: 160100
+    title: >-
+        How do trade relations and global supply chains illustrate economic networks in global interdependence?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-illustrate-economic-networks-in-global-interdependence
 related_article3:
-    id: 160555
-    title: What skills are essential for effective data interpretation and problem solving in critical thinking?
+    id: 160561
+    title: >-
+        How do trade relations and global supply chains contribute to global interdependence?
     subject: Sociology
-    url: /learn/sociology/questions/what-skills-are-essential-for-effective-data-interpretation-and-problem-solving-in-critical-thinking
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
 related_article4:
-    id: 160210
-    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    id: 160549
+    title: >-
+        How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
 related_article5:
-    id: 160504
-    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    id: 160104
+    title: >-
+        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170402
 date: 2025-02-06
-title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
-article_title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+title: >-
+    Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+article_title: >-
+    Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stabil
 url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
 score: -1.0
 related_article1:
-    id: 170420
-    title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    id: 170408
+    title: >-
+        What are the impacts of carbon cycle disruption on climate change, specifically global warming and ocean acidification?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+    url: /learn/chemistry/questions/what-are-the-impacts-of-carbon-cycle-disruption-on-climate-change-specifically-global-warming-and-ocean-acidification
 related_article2:
-    id: 170415
-    title: How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 related_article3:
-    id: 170419
-    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    id: 170416
+    title: >-
+        Identify the main sources of carbon emissions and discuss strategies for their reduction.
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
+    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 related_article4:
-    id: 170396
-    title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+    id: 170398
+    title: >-
+        What are the primary human contributions to carbon dioxide levels in the atmosphere?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
+    url: /learn/chemistry/questions/what-are-the-primary-human-contributions-to-carbon-dioxide-levels-in-the-atmosphere
 related_article5:
-    id: 170412
-    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
 ---
 
 &nbsp;

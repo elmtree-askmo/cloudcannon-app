@@ -2,8 +2,10 @@
 _schema: default
 id: 164119
 date: 2025-01-28
-title: What are the characteristics of identity diffusion in Marcia's identity statuses?
-article_title: What are the characteristics of identity diffusion in Marcia's identity statuses?
+title: >-
+    What are the characteristics of identity diffusion in Marcia's identity statuses?
+article_title: >-
+    What are the characteristics of identity diffusion in Marcia's identity statuses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-characteristics-of-identity-diffusion-in-marcias-identit
 url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
 score: -1.0
 related_article1:
+    id: 164115
+    title: >-
+        What is an identity crisis and why is it important in adolescent development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
+related_article2:
+    id: 164121
+    title: >-
+        What is the significance of identity moratorium in the process of identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-identity-moratorium-in-the-process-of-identity-formation
+related_article3:
     id: 164123
-    title: What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+    title: >-
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
-related_article2:
-    id: 164125
-    title: Why are support systems crucial in addressing psychological issues in adolescents?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
-related_article3:
-    id: 164125
-    title: Why are support systems crucial in addressing psychological issues in adolescents?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
 related_article4:
-    id: 164122
-    title: How does Hall's concept of 'storm and stress' relate to emotional maladjustment in adolescence?
+    id: 164124
+    title: >-
+        What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-halls-concept-of-storm-and-stress-relate-to-emotional-maladjustment-in-adolescence
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
 related_article5:
     id: 164120
-    title: How does identity foreclosure differ from identity achievement in Marcia's framework?
+    title: >-
+        How does identity foreclosure differ from identity achievement in Marcia's framework?
     subject: Psychology
     url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
 ---

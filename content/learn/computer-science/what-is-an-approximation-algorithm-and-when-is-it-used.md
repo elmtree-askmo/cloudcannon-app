@@ -2,8 +2,10 @@
 _schema: default
 id: 161070
 date: 2025-01-24
-title: What is an approximation algorithm and when is it used?
-article_title: What is an approximation algorithm and when is it used?
+title: >-
+    What is an approximation algorithm and when is it used?
+article_title: >-
+    What is an approximation algorithm and when is it used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-an-approximation-algorithm-and-when-is-it-used.md
 url: /learn/computer-science/questions/what-is-an-approximation-algorithm-and-when-is-it-used
 score: -1.0
 related_article1:
-    id: 161153
-    title: How does time complexity differ from space complexity in measuring algorithm efficiency?
+    id: 160936
+    title: >-
+        What are NP-complete problems and why are they significant in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-time-complexity-differ-from-space-complexity-in-measuring-algorithm-efficiency
+    url: /learn/computer-science/questions/what-are-npcomplete-problems-and-why-are-they-significant-in-computational-theory
 related_article2:
-    id: 161163
-    title: How do clustering algorithms assist in medical diagnosis?
+    id: 161162
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-clustering-algorithms-assist-in-medical-diagnosis
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article3:
-    id: 161068
-    title: What is the primary goal of clustering algorithms in data analysis?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-goal-of-clustering-algorithms-in-data-analysis
-related_article4:
-    id: 161156
-    title: What is the divide-and-conquer technique and how is it applied in algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-how-is-it-applied-in-algorithm-design
-related_article5:
     id: 160930
-    title: What factors should be considered when choosing a sorting algorithm?
+    title: >-
+        What factors should be considered when choosing a sorting algorithm?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
+related_article4:
+    id: 161071
+    title: >-
+        Why is algorithm analysis important in understanding the efficiency of an algorithm?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-algorithm-analysis-important-in-understanding-the-efficiency-of-an-algorithm
+related_article5:
+    id: 161160
+    title: >-
+        What are the characteristics of online algorithms and how do they differ from traditional algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-algorithms-and-how-do-they-differ-from-traditional-algorithms
 ---
 
 &nbsp;

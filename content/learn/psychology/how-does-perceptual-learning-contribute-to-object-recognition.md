@@ -2,8 +2,10 @@
 _schema: default
 id: 164309
 date: 2025-01-28
-title: How does perceptual learning contribute to object recognition?
-article_title: How does perceptual learning contribute to object recognition?
+title: >-
+    How does perceptual learning contribute to object recognition?
+article_title: >-
+    How does perceptual learning contribute to object recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-perceptual-learning-contribute-to-object-recognition.md
 url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
 score: -1.0
 related_article1:
-    id: 164297
-    title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 related_article2:
-    id: 164304
-    title: How does auditory memory contribute to language comprehension?
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 related_article3:
-    id: 164293
-    title: What are the primary symptoms of neurodysplasia?
+    id: 164299
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
 related_article4:
-    id: 164304
-    title: How does auditory memory contribute to language comprehension?
+    id: 164310
+    title: >-
+        What factors influence color differentiation in the visual spectrum?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
 related_article5:
-    id: 164290
-    title: What role does color perception play in visual processing?
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163690
 date: 2025-01-27
-title: What is the process of deductive reasoning, and how is it applied in quantitative research?
-article_title: What is the process of deductive reasoning, and how is it applied in quantitative research?
+title: >-
+    What is the process of deductive reasoning, and how is it applied in quantitative research?
+article_title: >-
+    What is the process of deductive reasoning, and how is it applied in quantitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-process-of-deductive-reasoning-and-how-is-it-applied-in-q
 url: /learn/education-studies/questions/what-is-the-process-of-deductive-reasoning-and-how-is-it-applied-in-quantitative-research
 score: -1.0
 related_article1:
+    id: 163687
+    title: >-
+        What is the importance of formulating research questions from a research problem?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
+related_article2:
+    id: 163681
+    title: >-
+        Why is research design important in the research process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
+related_article3:
+    id: 163686
+    title: >-
+        How is statistical analysis used in quantitative data analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
+related_article4:
     id: 163680
-    title: How is deductive reasoning used in quantitative research?
+    title: >-
+        How is deductive reasoning used in quantitative research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
-related_article2:
+related_article5:
     id: 163674
-    title: How does positivism differ from social constructivism in terms of ontology?
+    title: >-
+        How does positivism differ from social constructivism in terms of ontology?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
-related_article3:
-    id: 163695
-    title: How does social constructivism influence qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-social-constructivism-influence-qualitative-research
-related_article4:
-    id: 163675
-    title: What is the difference between objective and subjective knowledge in epistemology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 ---
 
 &nbsp;

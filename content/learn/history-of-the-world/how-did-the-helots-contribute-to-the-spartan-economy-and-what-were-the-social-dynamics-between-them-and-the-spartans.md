@@ -2,8 +2,10 @@
 _schema: default
 id: 163599
 date: 2025-01-27
-title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
-article_title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+title: >-
+    How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+article_title: >-
+    How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-th
 url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
 score: 9.0
 related_article1:
-    id: 163608
-    title: What were some key historical events in Spartan history, and how did they influence the Greek world?
+    id: 163587
+    title: >-
+        Why are certain Greek terms left untranslated in English scholarship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
+    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
 related_article2:
+    id: 163593
+    title: >-
+        Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
+related_article3:
     id: 163589
-    title: How did non-Spartan authors contribute to the skewed perception of Sparta?
+    title: >-
+        How did non-Spartan authors contribute to the skewed perception of Sparta?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
-related_article3:
-    id: 163594
-    title: What was the Agoge system, and what role did it play in Spartan education and training?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
 related_article4:
-    id: 163601
-    title: What challenges are faced in interpreting archaeological evidence from Sparta?
+    id: 163587
+    title: >-
+        Why are certain Greek terms left untranslated in English scholarship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
+    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
 related_article5:
-    id: 163592
-    title: What was Sparta's role in the Greco-Persian War, and how did it influence their reputation in the Greek world?
+    id: 163606
+    title: >-
+        How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-spartas-role-in-the-grecopersian-war-and-how-did-it-influence-their-reputation-in-the-greek-world
+    url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
 ---
 
 &nbsp;

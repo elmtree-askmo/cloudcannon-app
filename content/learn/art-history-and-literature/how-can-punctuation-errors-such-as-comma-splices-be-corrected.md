@@ -2,8 +2,10 @@
 _schema: default
 id: 166754
 date: 2025-01-31
-title: How can punctuation errors, such as comma splices, be corrected?
-article_title: How can punctuation errors, such as comma splices, be corrected?
+title: >-
+    How can punctuation errors, such as comma splices, be corrected?
+article_title: >-
+    How can punctuation errors, such as comma splices, be corrected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-punctuation-errors-such-as-comma-splices-be-corrected.md
 url: /learn/art-history-and-literature/questions/how-can-punctuation-errors-such-as-comma-splices-be-corrected
 score: 9.5
 related_article1:
-    id: 166750
-    title: How do text and visual elements work together to create emotional responses in copy?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-text-and-visual-elements-work-together-to-create-emotional-responses-in-copy
-related_article2:
-    id: 166755
-    title: What are some effective strategies for generating ideas during the writing process?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-effective-strategies-for-generating-ideas-during-the-writing-process
-related_article3:
-    id: 166741
-    title: How does celebrity endorsement enhance the ethos of an advertisement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-celebrity-endorsement-enhance-the-ethos-of-an-advertisement
-related_article4:
-    id: 166744
-    title: Why is it important to respect audience intelligence in copywriting?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-it-important-to-respect-audience-intelligence-in-copywriting
-related_article5:
     id: 166746
-    title: How can the use of jargon affect audience comprehension?
+    title: >-
+        How can the use of jargon affect audience comprehension?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-can-the-use-of-jargon-affect-audience-comprehension
+related_article2:
+    id: 166744
+    title: >-
+        Why is it important to respect audience intelligence in copywriting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-it-important-to-respect-audience-intelligence-in-copywriting
+related_article3:
+    id: 166747
+    title: >-
+        What are the key differences between complexity and simplicity in writing style?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-differences-between-complexity-and-simplicity-in-writing-style
+related_article4:
+    id: 166746
+    title: >-
+        How can the use of jargon affect audience comprehension?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-the-use-of-jargon-affect-audience-comprehension
+related_article5:
+    id: 166750
+    title: >-
+        How do text and visual elements work together to create emotional responses in copy?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-text-and-visual-elements-work-together-to-create-emotional-responses-in-copy
 ---
 
 &nbsp;

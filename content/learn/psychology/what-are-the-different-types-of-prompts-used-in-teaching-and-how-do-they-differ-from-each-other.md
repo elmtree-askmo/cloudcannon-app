@@ -2,8 +2,10 @@
 _schema: default
 id: 169331
 date: 2025-02-05
-title: What are the different types of prompts used in teaching, and how do they differ from each other?
-article_title: What are the different types of prompts used in teaching, and how do they differ from each other?
+title: >-
+    What are the different types of prompts used in teaching, and how do they differ from each other?
+article_title: >-
+    What are the different types of prompts used in teaching, and how do they differ from each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-t
 url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
 score: -1.0
 related_article1:
-    id: 169335
-    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    id: 169356
+    title: >-
+        What are the types and characteristics of learning disabilities, and how do they impact learning?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
 related_article2:
-    id: 169332
-    title: Explain the concept of prompt hierarchies and how they are applied in educational settings.
+    id: 169345
+    title: >-
+        What are some effective communication strategies for addressing echolalia in individuals with ASD?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-prompt-hierarchies-and-how-they-are-applied-in-educational-settings
+    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
 related_article3:
-    id: 169335
-    title: Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
+    id: 169341
+    title: >-
+        What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
 related_article4:
-    id: 169347
-    title: Explain cognitive load theory and its implications for memory limitations in learning.
+    id: 169349
+    title: >-
+        How can data collection be used to monitor progress and adjust instruction in skill acquisition?
     subject: Psychology
-    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
 related_article5:
-    id: 169353
-    title: What are some age-appropriate strategies for designing interventions in developmental psychology?
+    id: 169338
+    title: >-
+        What are the types of augmentative communication, and how might they impact verbal language development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
 ---
 
 &nbsp;

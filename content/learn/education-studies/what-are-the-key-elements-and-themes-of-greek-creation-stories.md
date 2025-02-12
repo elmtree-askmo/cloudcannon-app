@@ -2,8 +2,10 @@
 _schema: default
 id: 167662
 date: 2025-01-31
-title: What are the key elements and themes of Greek creation stories?
-article_title: What are the key elements and themes of Greek creation stories?
+title: >-
+    What are the key elements and themes of Greek creation stories?
+article_title: >-
+    What are the key elements and themes of Greek creation stories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-
 score: -1.0
 related_article1:
     id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
+    title: >-
+        What is the role of Prometheus in the creation of humans according to Greek mythology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
 related_article2:
-    id: 167661
-    title: How have Greek myths influenced modern art and literature?
+    id: 167650
+    title: >-
+        How do divine beings contribute to the emergence of order in Greek mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
+    url: /learn/education-studies/questions/how-do-divine-beings-contribute-to-the-emergence-of-order-in-greek-mythology
 related_article3:
-    id: 167655
-    title: How do themes of power and generation manifest in Greek myths?
+    id: 167657
+    title: >-
+        How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
+    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
 related_article4:
-    id: 167651
-    title: What are the main themes of Hesiod's Theogony?
+    id: 167653
+    title: >-
+        Who are the key divine couples in Greek mythology, and what roles do they play?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-themes-of-hesiods-theogony
+    url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
 related_article5:
-    id: 167654
-    title: What is structuralism, and how is it applied to the analysis of Greek myths?
+    id: 167649
+    title: >-
+        What is the significance of chaos in Greek creation myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-structuralism-and-how-is-it-applied-to-the-analysis-of-greek-myths
+    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
 ---
 
 &nbsp;

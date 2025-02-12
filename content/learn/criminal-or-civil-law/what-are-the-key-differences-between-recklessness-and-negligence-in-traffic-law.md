@@ -2,8 +2,10 @@
 _schema: default
 id: 162871
 date: 2025-01-25
-title: What are the key differences between recklessness and negligence in traffic law?
-article_title: What are the key differences between recklessness and negligence in traffic law?
+title: >-
+    What are the key differences between recklessness and negligence in traffic law?
+article_title: >-
+    What are the key differences between recklessness and negligence in traffic law?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-recklessness-and-negligence-in-t
 url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-recklessness-and-negligence-in-traffic-law
 score: -1.0
 related_article1:
-    id: 162867
-    title: Why is compliance with traffic regulations important, and what are common violations?
+    id: 162861
+    title: >-
+        What are the potential legal consequences of dangerous driving?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
+    url: /learn/criminal-or-civil-law/questions/what-are-the-potential-legal-consequences-of-dangerous-driving
 related_article2:
-    id: 162884
-    title: How is liability determined in traffic accidents, and what role does evidence play?
+    id: 162860
+    title: >-
+        What constitutes dangerous driving under the legal framework?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-liability-determined-in-traffic-accidents-and-what-role-does-evidence-play
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-dangerous-driving-under-the-legal-framework
 related_article3:
+    id: 162879
+    title: >-
+        What role do judges play in interpreting reasonableness in traffic cases?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-role-do-judges-play-in-interpreting-reasonableness-in-traffic-cases
+related_article4:
     id: 162863
-    title: What role does intent play in cases of criminal negligence in driving?
+    title: >-
+        What role does intent play in cases of criminal negligence in driving?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-role-does-intent-play-in-cases-of-criminal-negligence-in-driving
-related_article4:
-    id: 162874
-    title: What distinguishes civil liability from criminal liability in traffic accidents?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-distinguishes-civil-liability-from-criminal-liability-in-traffic-accidents
 related_article5:
-    id: 162859
-    title: What factors are considered when assessing the reasonableness of a driver's behavior?
+    id: 162872
+    title: >-
+        How is criminal responsibility established in traffic offenses?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-factors-are-considered-when-assessing-the-reasonableness-of-a-drivers-behavior
+    url: /learn/criminal-or-civil-law/questions/how-is-criminal-responsibility-established-in-traffic-offenses
 ---
 
 &nbsp;

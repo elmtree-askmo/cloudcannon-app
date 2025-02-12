@@ -2,8 +2,10 @@
 _schema: default
 id: 163608
 date: 2025-01-27
-title: What were some key historical events in Spartan history, and how did they influence the Greek world?
-article_title: What were some key historical events in Spartan history, and how did they influence the Greek world?
+title: >-
+    What were some key historical events in Spartan history, and how did they influence the Greek world?
+article_title: >-
+    What were some key historical events in Spartan history, and how did they influence the Greek world?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-
 score: 9.0
 related_article1:
     id: 163605
-    title: What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+    title: >-
+        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
 related_article2:
-    id: 163590
-    title: What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+    id: 163601
+    title: >-
+        What challenges are faced in interpreting archaeological evidence from Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
+    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
 related_article3:
+    id: 163602
+    title: >-
+        How did Spartan art and architecture influence Greek art?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
+related_article4:
     id: 163600
-    title: What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
+    title: >-
+        What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
-related_article4:
+related_article5:
     id: 163605
-    title: What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+    title: >-
+        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
-related_article5:
-    id: 163600
-    title: What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
 ---
 
 &nbsp;

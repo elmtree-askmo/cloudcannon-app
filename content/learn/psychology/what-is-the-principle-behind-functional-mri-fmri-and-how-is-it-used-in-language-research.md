@@ -2,8 +2,10 @@
 _schema: default
 id: 164607
 date: 2025-01-28
-title: What is the principle behind functional MRI (fMRI) and how is it used in language research?
-article_title: What is the principle behind functional MRI (fMRI) and how is it used in language research?
+title: >-
+    What is the principle behind functional MRI (fMRI) and how is it used in language research?
+article_title: >-
+    What is the principle behind functional MRI (fMRI) and how is it used in language research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-i
 url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
 score: -1.0
 related_article1:
-    id: 164603
-    title: What roles do Broca's Area and Wernicke's Area play in language processing?
+    id: 164612
+    title: >-
+        How does bilingualism affect cognitive processes according to cognitive neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing
+    url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
 related_article2:
-    id: 164609
-    title: What are the advantages of using eye-tracking studies in human behavior analysis?
+    id: 164600
+    title: >-
+        How are computational models used in the analysis of phonological graphs?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
+    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
 related_article3:
-    id: 164606
-    title: How does visual word recognition differ between the left and right visual fields?
+    id: 164602
+    title: >-
+        Describe the main characteristics of connectionist models in language processing.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
+    url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
 related_article4:
     id: 164604
-    title: How does the arcuate fasciculus contribute to language function?
+    title: >-
+        How does the arcuate fasciculus contribute to language function?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-arcuate-fasciculus-contribute-to-language-function
 related_article5:
-    id: 164600
-    title: How are computational models used in the analysis of phonological graphs?
+    id: 164605
+    title: >-
+        What have split-brain studies revealed about the visual field's interaction with language?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
+    url: /learn/psychology/questions/what-have-splitbrain-studies-revealed-about-the-visual-fields-interaction-with-language
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162922
 date: 2025-01-26
-title: What are the implications of violent non-state actors on urban combat training in informal megacities?
-article_title: What are the implications of violent non-state actors on urban combat training in informal megacities?
+title: >-
+    What are the implications of violent non-state actors on urban combat training in informal megacities?
+article_title: >-
+    What are the implications of violent non-state actors on urban combat training in informal megacities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-
 url: /learn/sociology/questions/what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities
 score: -1.0
 related_article1:
-    id: 162919
-    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    id: 162928
+    title: >-
+        What is the purpose of urban taxonomy in urban planning?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+    url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
 related_article2:
-    id: 162931
-    title: How does tactical urbanism influence volumetric warfighting strategies?
+    id: 162918
+    title: >-
+        What role do non-state actors play in the geostrategic power dynamics of urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
+    url: /learn/sociology/questions/what-role-do-nonstate-actors-play-in-the-geostrategic-power-dynamics-of-urban-areas
 related_article3:
-    id: 162916
-    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    id: 162933
+    title: >-
+        How does military doctrine address the challenges of urban complexity in megacities?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+    url: /learn/sociology/questions/how-does-military-doctrine-address-the-challenges-of-urban-complexity-in-megacities
 related_article4:
-    id: 162932
-    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    id: 162928
+    title: >-
+        What is the purpose of urban taxonomy in urban planning?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+    url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
 related_article5:
-    id: 162919
-    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    id: 162924
+    title: >-
+        What is the significance of spatial intelligence in volumetric warfare?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
 ---
 
 &nbsp;

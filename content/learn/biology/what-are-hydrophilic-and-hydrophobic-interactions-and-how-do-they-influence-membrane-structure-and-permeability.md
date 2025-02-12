@@ -2,8 +2,10 @@
 _schema: default
 id: 166985
 date: 2025-01-31
-title: What are hydrophilic and hydrophobic interactions, and how do they influence membrane structure and permeability?
-article_title: What are hydrophilic and hydrophobic interactions, and how do they influence membrane structure and permeability?
+title: >-
+    What are hydrophilic and hydrophobic interactions, and how do they influence membrane structure and permeability?
+article_title: >-
+    What are hydrophilic and hydrophobic interactions, and how do they influence membrane structure and permeability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-hydrophilic-and-hydrophobic-interactions-and-how-do-they-inf
 url: /learn/biology/questions/what-are-hydrophilic-and-hydrophobic-interactions-and-how-do-they-influence-membrane-structure-and-permeability
 score: -1.0
 related_article1:
-    id: 166983
-    title: How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
+    id: 166972
+    title: >-
+        Define tonicity and explain how hypertonic, hypotonic, and isotonic solutions affect animal and plant cells.
     subject: Biology
-    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
+    url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
 related_article2:
-    id: 166982
-    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
-related_article3:
-    id: 166976
-    title: Differentiate between integral and peripheral proteins in terms of structure and function.
-    subject: Biology
-    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
-related_article4:
     id: 166978
-    title: What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
+    title: >-
+        What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
     subject: Biology
     url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
-related_article5:
-    id: 166982
-    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+related_article3:
+    id: 166970
+    title: >-
+        What is simple diffusion and which molecules typically undergo this process?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+    url: /learn/biology/questions/what-is-simple-diffusion-and-which-molecules-typically-undergo-this-process
+related_article4:
+    id: 166977
+    title: >-
+        How do glycoproteins contribute to cell recognition and attachment functions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-and-attachment-functions
+related_article5:
+    id: 166983
+    title: >-
+        How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
+    subject: Biology
+    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
 ---
 
 &nbsp;

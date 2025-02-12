@@ -2,8 +2,10 @@
 _schema: default
 id: 166546
 date: 2025-01-30
-title: What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
-article_title: What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
+title: >-
+    What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
+article_title: >-
+    What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how
 url: /learn/philosophy-and-greek-myths/questions/what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how-do-they-influence-relationships-among-gods
 score: -1.0
 related_article1:
-    id: 166544
-    title: What are some examples of how natural phenomena are symbolized in Greek mythology?
+    id: 166534
+    title: >-
+        What are the main attributes and symbols associated with Zeus in Greek mythology?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-examples-of-how-natural-phenomena-are-symbolized-in-greek-mythology
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-main-attributes-and-symbols-associated-with-zeus-in-greek-mythology
 related_article2:
-    id: 166540
-    title: What is the significance of Gaia and Uranus in Greek creation stories?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-gaia-and-uranus-in-greek-creation-stories
-related_article3:
-    id: 166544
-    title: What are some examples of how natural phenomena are symbolized in Greek mythology?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-some-examples-of-how-natural-phenomena-are-symbolized-in-greek-mythology
-related_article4:
-    id: 166543
-    title: How is humor and irony depicted in the relationship between Zeus and Hera?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
-related_article5:
     id: 166536
-    title: What are the key achievements and challenges faced by Hercules in Greek mythology?
+    title: >-
+        What are the key achievements and challenges faced by Hercules in Greek mythology?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-achievements-and-challenges-faced-by-hercules-in-greek-mythology
+related_article3:
+    id: 166545
+    title: >-
+        How do Greek myths convey lessons about punishment and justice?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-greek-myths-convey-lessons-about-punishment-and-justice
+related_article4:
+    id: 166535
+    title: >-
+        How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-do-the-roman-equivalents-of-the-greek-gods-differ-in-terms-of-attributes-and-symbolism
+related_article5:
+    id: 166539
+    title: >-
+        How are Cyclopes depicted in Greek mythology, and what is their significance?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-are-cyclopes-depicted-in-greek-mythology-and-what-is-their-significance
 ---
 
 &nbsp;

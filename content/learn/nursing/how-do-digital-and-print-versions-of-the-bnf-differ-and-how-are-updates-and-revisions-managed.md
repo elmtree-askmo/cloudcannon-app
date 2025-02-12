@@ -2,8 +2,10 @@
 _schema: default
 id: 169767
 date: 2025-02-05
-title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
-article_title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+title: >-
+    How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+article_title: >-
+    How do digital and print versions of the BNF differ, and how are updates and revisions managed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updat
 url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 score: -1.0
 related_article1:
-    id: 169759
-    title: How can adverse drug reactions be identified and managed effectively?
+    id: 169764
+    title: >-
+        What are the best practices for prescribing medications, and what common pitfalls should be avoided?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
 related_article2:
-    id: 169750
-    title: What are the symptoms and treatment options for common mental health disorders?
+    id: 169752
+    title: >-
+        What are the key legal aspects of medicines management that nurses must be aware of?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
 related_article3:
-    id: 169760
-    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 related_article4:
     id: 169745
-    title: What are the nutritional requirements and hydration standards for maintaining health?
+    title: >-
+        What are the nutritional requirements and hydration standards for maintaining health?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 related_article5:
-    id: 169741
-    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 ---
 
 &nbsp;

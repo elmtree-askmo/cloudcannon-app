@@ -2,8 +2,10 @@
 _schema: default
 id: 165885
 date: 2025-01-29
-title: Why are transferable skills such as critical thinking and communication important in a university environment?
-article_title: Why are transferable skills such as critical thinking and communication important in a university environment?
+title: >-
+    Why are transferable skills such as critical thinking and communication important in a university environment?
+article_title: >-
+    Why are transferable skills such as critical thinking and communication important in a university environment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-transferable-skills-such-as-critical-thinking-and-communicati
 url: /learn/education-studies/questions/why-are-transferable-skills-such-as-critical-thinking-and-communication-important-in-a-university-environment
 score: -1.0
 related_article1:
-    id: 165890
-    title: What are the essential skills needed for conducting independent research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-skills-needed-for-conducting-independent-research
-related_article2:
     id: 165898
-    title: What is the importance of time management in achieving academic success?
+    title: >-
+        What is the importance of time management in achieving academic success?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
+related_article2:
+    id: 165884
+    title: >-
+        What are the key stages of academic progression in a university setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-stages-of-academic-progression-in-a-university-setting
 related_article3:
-    id: 165900
-    title: What are effective study techniques for exam preparation?
+    id: 165897
+    title: >-
+        How does literary criticism contribute to the analysis of cultural artefacts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-study-techniques-for-exam-preparation
+    url: /learn/education-studies/questions/how-does-literary-criticism-contribute-to-the-analysis-of-cultural-artefacts
 related_article4:
-    id: 165899
-    title: How can planning and scheduling improve a student's academic performance?
+    id: 165887
+    title: >-
+        How does lifelong learning contribute to the development of a research community?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-planning-and-scheduling-improve-a-students-academic-performance
+    url: /learn/education-studies/questions/how-does-lifelong-learning-contribute-to-the-development-of-a-research-community
 related_article5:
-    id: 165883
-    title: How does a lecturer contribute to the research focus of a university?
+    id: 165886
+    title: >-
+        What are the benefits of joining a research community for a student?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-lecturer-contribute-to-the-research-focus-of-a-university
+    url: /learn/education-studies/questions/what-are-the-benefits-of-joining-a-research-community-for-a-student
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167859
 date: 2025-02-01
-title: Describe the structure of a chromosome and its components.
-article_title: Describe the structure of a chromosome and its components.
+title: >-
+    Describe the structure of a chromosome and its components.
+article_title: >-
+    Describe the structure of a chromosome and its components.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-of-a-chromosome-and-its-components.md
 url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
 score: -1.0
 related_article1:
-    id: 167853
-    title: What are the key sources for finding recent research articles on genetic diseases?
+    id: 167857
+    title: >-
+        What are the main differences between mitosis and meiosis?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+    url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
 related_article2:
-    id: 167865
-    title: Why is accurate DNA replication crucial for genetic stability?
+    id: 167860
+    title: >-
+        What is the role of homologous chromosomes during meiosis?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
 related_article3:
     id: 167853
-    title: What are the key sources for finding recent research articles on genetic diseases?
+    title: >-
+        What are the key sources for finding recent research articles on genetic diseases?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
 related_article4:
-    id: 167855
-    title: What is the significance of transmission genetics in breeding programs?
+    id: 167866
+    title: >-
+        How do alleles contribute to genetic variation within a population?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-significance-of-transmission-genetics-in-breeding-programs
+    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
 related_article5:
-    id: 167856
-    title: How do the stages of mitosis ensure accurate cell division?
+    id: 167858
+    title: >-
+        How does meiosis contribute to genetic variation?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-the-stages-of-mitosis-ensure-accurate-cell-division
+    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
 ---
 
 &nbsp;

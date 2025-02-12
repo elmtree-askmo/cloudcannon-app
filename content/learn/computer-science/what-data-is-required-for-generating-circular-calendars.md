@@ -2,8 +2,10 @@
 _schema: default
 id: 161031
 date: 2025-01-24
-title: What data is required for generating circular calendars?
-article_title: What data is required for generating circular calendars?
+title: >-
+    What data is required for generating circular calendars?
+article_title: >-
+    What data is required for generating circular calendars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-data-is-required-for-generating-circular-calendars.md
 url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
 score: -1.0
 related_article1:
-    id: 160865
-    title: Explain the concept of lists and how they are implemented as arrays.
+    id: 160793
+    title: >-
+        How do indices convey information in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
+    url: /learn/computer-science/questions/how-do-indices-convey-information-in-data-structures
 related_article2:
-    id: 161027
-    title: What constraints must be considered for binary search to be effective?
+    id: 160864
+    title: >-
+        What is the purpose of abstraction in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
+    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
 related_article3:
-    id: 160795
-    title: How can constraints simplify algorithm design?
+    id: 160874
+    title: >-
+        How do constraints impact algorithm design and simplify algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
+    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design-and-simplify-algorithms
 related_article4:
-    id: 160691
-    title: What is the significance of understanding the origin of problems in computational problem solving?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
-related_article5:
-    id: 161020
-    title: Define time complexity and its importance in evaluating algorithm efficiency.
+    id: 160867
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
     url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
+related_article5:
+    id: 160875
+    title: >-
+        What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar-and-how-is-abstraction-used-in-calendar-algorithms
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170471
 date: 2025-02-06
-title: How does the medulla oblongata regulate heart rate and control reflexes?
-article_title: How does the medulla oblongata regulate heart rate and control reflexes?
+title: >-
+    How does the medulla oblongata regulate heart rate and control reflexes?
+article_title: >-
+    How does the medulla oblongata regulate heart rate and control reflexes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflex
 url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
 score: -1.0
 related_article1:
-    id: 170482
-    title: What is the role of the primary motor cortex in motor control?
+    id: 170476
+    title: >-
+        What is the clinical significance of the dura mater in the meninges?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
+    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
 related_article2:
-    id: 170466
-    title: How do dorsal and ventral orientations differ in brain anatomy?
+    id: 170460
+    title: >-
+        What are the primary differences between gray matter and white matter in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
+    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
 related_article3:
-    id: 170475
-    title: What are the causes and symptoms of an epidural hematoma?
+    id: 170481
+    title: >-
+        How do biological mechanisms influence pain tolerance?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+    url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
 related_article4:
-    id: 170478
-    title: What are the differences between functional and structural neuroimaging techniques?
+    id: 170468
+    title: >-
+        What are the major functions of the brainstem in the central nervous system?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+    url: /learn/psychology/questions/what-are-the-major-functions-of-the-brainstem-in-the-central-nervous-system
 related_article5:
-    id: 170462
-    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    id: 170464
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
 ---
 
 &nbsp;

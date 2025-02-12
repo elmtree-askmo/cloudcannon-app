@@ -2,8 +2,10 @@
 _schema: default
 id: 166569
 date: 2025-01-30
-title: What are the key characteristics of Realism in art, and how did it address the class divide?
-article_title: What are the key characteristics of Realism in art, and how did it address the class divide?
+title: >-
+    What are the key characteristics of Realism in art, and how did it address the class divide?
+article_title: >-
+    What are the key characteristics of Realism in art, and how did it address the class divide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-add
 url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
 score: 9.0
 related_article1:
-    id: 166568
-    title: What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
-related_article2:
-    id: 166571
-    title: What were the main themes of Impressionism, and how did they reflect urban and suburban life?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-themes-of-impressionism-and-how-did-they-reflect-urban-and-suburban-life
-related_article3:
-    id: 166568
-    title: What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
-related_article4:
     id: 166570
-    title: How did photography influence the development of Realism in art?
+    title: >-
+        How did photography influence the development of Realism in art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+related_article2:
+    id: 166576
+    title: >-
+        How did artists respond to the themes of modernity and urbanization in their work?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
+related_article3:
+    id: 166566
+    title: >-
+        How did the Hausmann renovations impact the social patterns in Parisian society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
+related_article4:
+    id: 166576
+    title: >-
+        How did artists respond to the themes of modernity and urbanization in their work?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
+related_article5:
+    id: 166577
+    title: >-
+        What were the effects of changes in the urban fabric on city life and infrastructure in Paris?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-effects-of-changes-in-the-urban-fabric-on-city-life-and-infrastructure-in-paris
 ---
 
 &nbsp;

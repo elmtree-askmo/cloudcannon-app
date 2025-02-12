@@ -2,8 +2,10 @@
 _schema: default
 id: 169029
 date: 2025-02-04
-title: How do historical narratives influence public memory and commemoration practices?
-article_title: How do historical narratives influence public memory and commemoration practices?
+title: >-
+    How do historical narratives influence public memory and commemoration practices?
+article_title: >-
+    How do historical narratives influence public memory and commemoration practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-historical-narratives-influence-public-memory-and-commemoratio
 url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
 score: 9.0
 related_article1:
+    id: 169030
+    title: >-
+        What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
+related_article2:
     id: 169038
-    title: What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
+    title: >-
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
-related_article2:
-    id: 169031
-    title: Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
 related_article3:
-    id: 169027
-    title: Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+    id: 169028
+    title: >-
+        Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
+    url: /learn/history-of-the-world/questions/discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-of-aboriginal-people
 related_article4:
-    id: 169037
-    title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
+    id: 169038
+    title: >-
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
+    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
 related_article5:
-    id: 169036
-    title: What are the main challenges faced in the preservation of Aboriginal heritage sites?
+    id: 169028
+    title: >-
+        Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
+    url: /learn/history-of-the-world/questions/discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-of-aboriginal-people
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163836
 date: 2025-01-27
-title: Why do cubic functions not have a maximum or minimum value?
-article_title: Why do cubic functions not have a maximum or minimum value?
+title: >-
+    Why do cubic functions not have a maximum or minimum value?
+article_title: >-
+    Why do cubic functions not have a maximum or minimum value?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-do-cubic-functions-not-have-a-maximum-or-minimum-value.md
 url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 score: -1.0
 related_article1:
-    id: 163841
-    title: Why is understanding the domain and range important when analyzing functions?
+    id: 163843
+    title: >-
+        What are horizontal and vertical asymptotes, and how do they differ?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
 related_article2:
-    id: 163847
-    title: What is the importance of graphical representation in understanding functions?
+    id: 163832
+    title: >-
+        How can you find the minimum value of a quadratic function from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 related_article3:
-    id: 163839
-    title: What techniques can be used to graph functions manually and with software?
+    id: 163830
+    title: >-
+        How do you determine the domain and range of a linear function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
 related_article4:
-    id: 163846
-    title: How can functions be used in mathematical modeling for real-world applications?
+    id: 163849
+    title: >-
+        What are the key features to identify when analyzing the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+    url: /learn/mathematics/questions/what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function
 related_article5:
-    id: 163845
-    title: What are the graphical differences between quadratic and cubic functions?
+    id: 163843
+    title: >-
+        What are horizontal and vertical asymptotes, and how do they differ?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
 ---
 
 &nbsp;

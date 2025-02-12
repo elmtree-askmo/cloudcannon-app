@@ -2,8 +2,10 @@
 _schema: default
 id: 166012
 date: 2025-01-29
-title: What is the significance of temples and sanctuaries in ancient ritual practices?
-article_title: What is the significance of temples and sanctuaries in ancient ritual practices?
+title: >-
+    What is the significance of temples and sanctuaries in ancient ritual practices?
+article_title: >-
+    What is the significance of temples and sanctuaries in ancient ritual practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-temples-and-sanctuaries-in-ancient-ritual
 url: /learn/education-studies/questions/what-is-the-significance-of-temples-and-sanctuaries-in-ancient-ritual-practices
 score: -1.0
 related_article1:
-    id: 166005
-    title: What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
+    id: 166006
+    title: >-
+        How do archetypes function in comparative mythology according to Carl Jung?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology-and-how-did-claude-lvistrauss-contribute-to-this-field
+    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
 related_article2:
     id: 166015
-    title: How did the city-states and the Olympic Games shape Greek civilization?
+    title: >-
+        How did the city-states and the Olympic Games shape Greek civilization?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-citystates-and-the-olympic-games-shape-greek-civilization
 related_article3:
-    id: 166001
-    title: What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
+    id: 166008
+    title: >-
+        How do myths explain natural phenomena and serve as etiological narratives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
+    url: /learn/education-studies/questions/how-do-myths-explain-natural-phenomena-and-serve-as-etiological-narratives
 related_article4:
-    id: 166011
-    title: What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
+    id: 166006
+    title: >-
+        How do archetypes function in comparative mythology according to Carl Jung?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
+    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
 related_article5:
-    id: 166004
-    title: How does vase painting contribute to our understanding of ancient iconography?
+    id: 166008
+    title: >-
+        How do myths explain natural phenomena and serve as etiological narratives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vase-painting-contribute-to-our-understanding-of-ancient-iconography
+    url: /learn/education-studies/questions/how-do-myths-explain-natural-phenomena-and-serve-as-etiological-narratives
 ---
 
 &nbsp;

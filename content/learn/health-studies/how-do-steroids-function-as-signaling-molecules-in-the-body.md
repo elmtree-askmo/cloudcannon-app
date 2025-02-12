@@ -2,8 +2,10 @@
 _schema: default
 id: 167220
 date: 2025-01-31
-title: How do steroids function as signaling molecules in the body?
-article_title: How do steroids function as signaling molecules in the body?
+title: >-
+    How do steroids function as signaling molecules in the body?
+article_title: >-
+    How do steroids function as signaling molecules in the body?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-steroids-function-as-signaling-molecules-in-the-body.md
 url: /learn/health-studies/questions/how-do-steroids-function-as-signaling-molecules-in-the-body
 score: -1.0
 related_article1:
-    id: 167215
-    title: What is the role of the glycerol backbone in triglyceride structure?
+    id: 167217
+    title: >-
+        Describe the amphipathic nature of phospholipids and its significance in membrane formation.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-glycerol-backbone-in-triglyceride-structure
+    url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
 related_article2:
+    id: 167219
+    title: >-
+        Explain the significance of closed-carbon rings in steroid structure.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-significance-of-closedcarbon-rings-in-steroid-structure
+related_article3:
+    id: 167218
+    title: >-
+        What structural components make up a phospholipid?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-structural-components-make-up-a-phospholipid
+related_article4:
     id: 167227
-    title: Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
+    title: >-
+        Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
     subject: Health Studies
     url: /learn/health-studies/questions/compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
-related_article3:
-    id: 167225
-    title: How do the chemical properties of biomolecules impact their function?
+related_article5:
+    id: 167227
+    title: >-
+        Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
-related_article4:
-    id: 167215
-    title: What is the role of the glycerol backbone in triglyceride structure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-glycerol-backbone-in-triglyceride-structure
+    url: /learn/health-studies/questions/compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
 ---
 
 &nbsp;

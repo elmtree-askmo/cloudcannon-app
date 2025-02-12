@@ -2,8 +2,10 @@
 _schema: default
 id: 162244
 date: 2025-01-25
-title: How does translation affect the position of a figure without altering its size or shape?
-article_title: How does translation affect the position of a figure without altering its size or shape?
+title: >-
+    How does translation affect the position of a figure without altering its size or shape?
+article_title: >-
+    How does translation affect the position of a figure without altering its size or shape?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-translation-affect-the-position-of-a-figure-without-altering
 url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
 score: -1.0
 related_article1:
-    id: 162495
-    title: How does translation affect the orientation of a geometric figure?
+    id: 162501
+    title: >-
+        How does circular turning relate to the concept of rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/how-does-circular-turning-relate-to-the-concept-of-rotation
 related_article2:
-    id: 162246
-    title: What is the importance of the origin as the center of rotation in the coordinate system?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-the-origin-as-the-center-of-rotation-in-the-coordinate-system
-related_article3:
-    id: 162601
-    title: How do the coordinates of a point change when it is rotated around the origin?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-coordinates-of-a-point-change-when-it-is-rotated-around-the-origin
-related_article4:
     id: 162499
-    title: How do transformations affect the identification of quadrants in the coordinate system?
+    title: >-
+        How do transformations affect the identification of quadrants in the coordinate system?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
-related_article5:
+related_article3:
     id: 162248
-    title: What is a fixed point in the context of rotations, and why is it significant?
+    title: >-
+        What is a fixed point in the context of rotations, and why is it significant?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-fixed-point-in-the-context-of-rotations-and-why-is-it-significant
+related_article4:
+    id: 162233
+    title: >-
+        What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
+related_article5:
+    id: 162483
+    title: >-
+        What are the three main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
 ---
 
 &nbsp;

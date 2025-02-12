@@ -2,8 +2,10 @@
 _schema: default
 id: 167078
 date: 2025-01-31
-title: What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
-article_title: What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+title: >-
+    What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+article_title: >-
+    What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-monosaccharides-and-polysaccharides-
 url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
 score: -1.0
 related_article1:
-    id: 167077
-    title: Describe the role of amino acids as building blocks in protein structure and function.
+    id: 167071
+    title: >-
+        What is the difference between single, polar, and non-polar covalent bonds?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
+    url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
 related_article2:
+    id: 167080
+    title: >-
+        Explain the role of valence electrons in determining the chemical reactivity of an element.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-the-role-of-valence-electrons-in-determining-the-chemical-reactivity-of-an-element
+related_article3:
+    id: 167071
+    title: >-
+        What is the difference between single, polar, and non-polar covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
+related_article4:
     id: 167075
-    title: How does electronegativity influence the polarity of a molecule?
+    title: >-
+        How does electronegativity influence the polarity of a molecule?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-electronegativity-influence-the-polarity-of-a-molecule
-related_article3:
-    id: 167072
-    title: How do ionic bonds form and what role do electrostatic interactions play in their stability?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
-related_article4:
-    id: 167085
-    title: What is the relationship between mass number, protons, and neutrons in determining atomic mass?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
 related_article5:
-    id: 167084
-    title: How do covalent and hydrogen bonds contribute to the structure and function of biomolecules?
+    id: 167074
+    title: >-
+        Identify the functional groups present in amino acids and describe their properties.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-and-hydrogen-bonds-contribute-to-the-structure-and-function-of-biomolecules
+    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
 ---
 
 &nbsp;

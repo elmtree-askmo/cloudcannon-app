@@ -2,8 +2,10 @@
 _schema: default
 id: 168432
 date: 2025-02-03
-title: How can weighing pros and cons aid in the decision-making process for career planning?
-article_title: How can weighing pros and cons aid in the decision-making process for career planning?
+title: >-
+    How can weighing pros and cons aid in the decision-making process for career planning?
+article_title: >-
+    How can weighing pros and cons aid in the decision-making process for career planning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-weighing-pros-and-cons-aid-in-the-decisionmaking-process-for-
 url: /learn/education-studies/questions/how-can-weighing-pros-and-cons-aid-in-the-decisionmaking-process-for-career-planning
 score: -1.0
 related_article1:
-    id: 168423
-    title: What is the significance of aligning personal interests and values with career options?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-aligning-personal-interests-and-values-with-career-options
-related_article2:
-    id: 168423
-    title: What is the significance of aligning personal interests and values with career options?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-aligning-personal-interests-and-values-with-career-options
-related_article3:
     id: 168427
-    title: What factors should be considered when analyzing the suitability of recommended career paths?
+    title: >-
+        What factors should be considered when analyzing the suitability of recommended career paths?
     subject: Education Studies
     url: /learn/education-studies/questions/what-factors-should-be-considered-when-analyzing-the-suitability-of-recommended-career-paths
+related_article2:
+    id: 168427
+    title: >-
+        What factors should be considered when analyzing the suitability of recommended career paths?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-analyzing-the-suitability-of-recommended-career-paths
+related_article3:
+    id: 168422
+    title: >-
+        How can understanding personality types influence career choices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-understanding-personality-types-influence-career-choices
 related_article4:
-    id: 168428
-    title: What methods can be used to research and understand job roles and responsibilities in recommended careers?
+    id: 168427
+    title: >-
+        What factors should be considered when analyzing the suitability of recommended career paths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-can-be-used-to-research-and-understand-job-roles-and-responsibilities-in-recommended-careers
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-analyzing-the-suitability-of-recommended-career-paths
 related_article5:
-    id: 168424
-    title: How can skills inventories help in identifying skill gaps relevant to career requirements?
+    id: 168422
+    title: >-
+        How can understanding personality types influence career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-skills-inventories-help-in-identifying-skill-gaps-relevant-to-career-requirements
+    url: /learn/education-studies/questions/how-can-understanding-personality-types-influence-career-choices
 ---
 
 &nbsp;

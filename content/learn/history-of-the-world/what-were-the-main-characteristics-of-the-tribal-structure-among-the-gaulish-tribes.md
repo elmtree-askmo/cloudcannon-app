@@ -2,8 +2,10 @@
 _schema: default
 id: 163649
 date: 2025-01-27
-title: What were the main characteristics of the tribal structure among the Gaulish tribes?
-article_title: What were the main characteristics of the tribal structure among the Gaulish tribes?
+title: >-
+    What were the main characteristics of the tribal structure among the Gaulish tribes?
+article_title: >-
+    What were the main characteristics of the tribal structure among the Gaulish tribes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-characteristics-of-the-tribal-structure-among-the-
 url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-tribal-structure-among-the-gaulish-tribes
 score: 8.5
 related_article1:
-    id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
-related_article2:
-    id: 163645
-    title: What role did Druids play in Celtic society, and how were they perceived by the Romans?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-druids-play-in-celtic-society-and-how-were-they-perceived-by-the-romans
-related_article3:
     id: 163651
-    title: What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
+    title: >-
+        What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-gundestrup-cauldron-in-understanding-celtic-connections-to-nature
-related_article4:
-    id: 163654
-    title: How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-archaeological-finds-like-the-gundestrup-cauldron-influence-modern-interpretations-of-celtic-art
-related_article5:
+related_article2:
     id: 163644
-    title: How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
+    title: >-
+        How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
+related_article3:
+    id: 163643
+    title: >-
+        What are the key differences between Greek and Roman perspectives on the Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
+related_article4:
+    id: 163656
+    title: >-
+        What challenges do modern scholars face in reconstructing the Gaulish language?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish-language
+related_article5:
+    id: 163651
+    title: >-
+        What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-gundestrup-cauldron-in-understanding-celtic-connections-to-nature
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163985
 date: 2025-01-28
-title: What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
-article_title: What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
+title: >-
+    What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
+article_title: >-
+    What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-role-did-victorian-sensibilities-play-in-shaping-museum-culture-
 url: /learn/history-of-the-world/questions/what-role-did-victorian-sensibilities-play-in-shaping-museum-culture-particularly-in-terms-of-moral-values-and-public-education
 score: 9.0
 related_article1:
-    id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    id: 163984
+    title: >-
+        How did the development of public museums transition from private collections, and what was their educational purpose?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
 related_article2:
-    id: 163987
-    title: How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
+    id: 163986
+    title: >-
+        What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
 related_article3:
-    id: 163979
-    title: How did the Great Exhibition of 1851 reflect Prince Albert's vision and international participation?
+    id: 163992
+    title: >-
+        How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-of-1851-reflect-prince-alberts-vision-and-international-participation
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherness-and-create-an-ideological-space
 related_article4:
-    id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    id: 163994
+    title: >-
+        What lasting impact did the Great Exhibition have on modern museums and cultural education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+    url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
 related_article5:
     id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168982
 date: 2025-02-04
-title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
-article_title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+title: >-
+    What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+article_title: >-
+    What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-community-organizing-and-social-activism-play-in-creati
 url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
 score: -1.0
 related_article1:
-    id: 168985
-    title: How did the transformation of public spaces influence national identity in Egypt?
+    id: 168986
+    title: >-
+        What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
+    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
 related_article2:
-    id: 168979
-    title: Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
-    subject: Sociology
-    url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
-related_article3:
-    id: 168987
-    title: How did continued protests and demands during the transition to democracy attract national and international attention?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
-related_article4:
-    id: 168987
-    title: How did continued protests and demands during the transition to democracy attract national and international attention?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
-related_article5:
     id: 168976
-    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    title: >-
+        How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
     subject: Sociology
     url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+related_article3:
+    id: 168986
+    title: >-
+        What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
+related_article4:
+    id: 168981
+    title: >-
+        How did the January 25th Revolution lead to the symbolic reclamation of Tahrir Square?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-january-25th-revolution-lead-to-the-symbolic-reclamation-of-tahrir-square
+related_article5:
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
 ---
 
 &nbsp;

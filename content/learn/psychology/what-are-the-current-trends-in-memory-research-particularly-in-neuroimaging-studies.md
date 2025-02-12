@@ -2,8 +2,10 @@
 _schema: default
 id: 164501
 date: 2025-01-28
-title: What are the current trends in memory research, particularly in neuroimaging studies?
-article_title: What are the current trends in memory research, particularly in neuroimaging studies?
+title: >-
+    What are the current trends in memory research, particularly in neuroimaging studies?
+article_title: >-
+    What are the current trends in memory research, particularly in neuroimaging studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-current-trends-in-memory-research-particularly-in-neuroi
 url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
 score: -1.0
 related_article1:
-    id: 164492
-    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    id: 164506
+    title: >-
+        What are the key brain regions involved in memory, and what are their functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
 related_article2:
-    id: 164504
-    title: How do emotions interact with memory, particularly in emotional memory?
+    id: 164483
+    title: >-
+        How does skill acquisition relate to implicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
+    url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
 related_article3:
-    id: 164503
-    title: What is the impact of memory loss on identity, and what coping mechanisms are available?
+    id: 164480
+    title: >-
+        What are the neurological causes of amnesia?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
+    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
 related_article4:
-    id: 164486
-    title: What are the stages of memory formation and their functions?
+    id: 164485
+    title: >-
+        What are the key findings from studies on explicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
 related_article5:
-    id: 164492
-    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    id: 164495
+    title: >-
+        What are some effective techniques to improve memory retention?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
 ---
 
 &nbsp;

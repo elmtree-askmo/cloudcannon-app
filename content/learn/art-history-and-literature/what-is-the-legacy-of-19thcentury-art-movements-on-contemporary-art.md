@@ -2,8 +2,10 @@
 _schema: default
 id: 165962
 date: 2025-01-29
-title: What is the legacy of 19th-century art movements on contemporary art?
-article_title: What is the legacy of 19th-century art movements on contemporary art?
+title: >-
+    What is the legacy of 19th-century art movements on contemporary art?
+article_title: >-
+    What is the legacy of 19th-century art movements on contemporary art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentu
 score: 9.0
 related_article1:
     id: 165940
-    title: How did criticisms of the Official Salons contribute to their decline?
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
 related_article2:
-    id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
+    id: 165957
+    title: >-
+        What social and political influences affected art during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
+    url: /learn/art-history-and-literature/questions/what-social-and-political-influences-affected-art-during-the-19th-century
 related_article3:
-    id: 165958
-    title: How did technological advancements in the 19th century influence art techniques and materials?
+    id: 165956
+    title: >-
+        How did Paris serve as an art hub and influence exhibition practices in the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
 related_article4:
-    id: 165958
-    title: How did technological advancements in the 19th century influence art techniques and materials?
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
 related_article5:
-    id: 165947
-    title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
+    id: 165946
+    title: >-
+        How did the First Impressionist Exhibition influence the development of Impressionist techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
+    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
 ---
 
 &nbsp;

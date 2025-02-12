@@ -2,8 +2,10 @@
 _schema: default
 id: 164801
 date: 2025-01-28
-title: How do temperature neurons contribute to sensory information processing?
-article_title: How do temperature neurons contribute to sensory information processing?
+title: >-
+    How do temperature neurons contribute to sensory information processing?
+article_title: >-
+    How do temperature neurons contribute to sensory information processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-temperature-neurons-contribute-to-sensory-information-processi
 url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
 score: -1.0
 related_article1:
-    id: 164798
-    title: What is the primary function of an axon in a neuron?
+    id: 164805
+    title: >-
+        Describe the process of neural processing in the brain.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
 related_article2:
-    id: 164815
-    title: What is the relationship between photographic memory and cognitive load?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
-related_article3:
     id: 164806
-    title: What are brain patterns, and how do they relate to brain function?
+    title: >-
+        What are brain patterns, and how do they relate to brain function?
     subject: Nursing
     url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+related_article3:
+    id: 164795
+    title: >-
+        How do gray matter and white matter differ in terms of structure and function within the central nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-gray-matter-and-white-matter-differ-in-terms-of-structure-and-function-within-the-central-nervous-system
 related_article4:
+    id: 164805
+    title: >-
+        Describe the process of neural processing in the brain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
+related_article5:
     id: 164808
-    title: What is the significance of neuroanatomical terminology in studying the nervous system?
+    title: >-
+        What is the significance of neuroanatomical terminology in studying the nervous system?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
-related_article5:
-    id: 164806
-    title: What are brain patterns, and how do they relate to brain function?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
 ---
 
 &nbsp;

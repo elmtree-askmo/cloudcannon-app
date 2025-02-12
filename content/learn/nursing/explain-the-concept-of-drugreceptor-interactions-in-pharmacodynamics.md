@@ -2,8 +2,10 @@
 _schema: default
 id: 166494
 date: 2025-01-30
-title: Explain the concept of drug-receptor interactions in pharmacodynamics.
-article_title: Explain the concept of drug-receptor interactions in pharmacodynamics.
+title: >-
+    Explain the concept of drug-receptor interactions in pharmacodynamics.
+article_title: >-
+    Explain the concept of drug-receptor interactions in pharmacodynamics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics.
 url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
 score: -1.0
 related_article1:
-    id: 166501
-    title: What role does the FDA play in ensuring drug safety and efficacy?
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
 related_article2:
-    id: 166493
-    title: What are the key components of pharmacokinetics?
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
 related_article3:
-    id: 166505
-    title: How do different drug formulations impact drug absorption and bioavailability?
+    id: 166497
+    title: >-
+        What are biologic drugs and how are they developed using biotechnology?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
 related_article4:
-    id: 166507
-    title: How do healthcare providers monitor adverse effects to ensure drug safety?
+    id: 166492
+    title: >-
+        How is the minimum effective concentration related to trough levels in drug dosing?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+    url: /learn/nursing/questions/how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing
 related_article5:
     id: 166489
-    title: What is the primary purpose of trough level monitoring in antibiotics?
+    title: >-
+        What is the primary purpose of trough level monitoring in antibiotics?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168323
 date: 2025-02-03
-title: How do triglycerides differ from phospholipids in terms of structure and function?
-article_title: How do triglycerides differ from phospholipids in terms of structure and function?
+title: >-
+    How do triglycerides differ from phospholipids in terms of structure and function?
+article_title: >-
+    How do triglycerides differ from phospholipids in terms of structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-
 url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
 score: -1.0
 related_article1:
-    id: 168310
-    title: What are the three main subatomic particles in an atom and their respective charges?
+    id: 168321
+    title: >-
+        What is the relationship between polymers and monomers in biological macromolecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
+    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
 related_article2:
-    id: 168318
-    title: What are the three physical states of water, and how do they differ in terms of molecular arrangement?
+    id: 168320
+    title: >-
+        What role do buffer systems play in maintaining homeostasis in biological systems?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
+    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
 related_article3:
-    id: 168314
-    title: What causes the polar nature of a water molecule?
+    id: 168324
+    title: >-
+        What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
 related_article4:
     id: 168317
-    title: How does water's kinetic energy contribute to temperature moderation?
+    title: >-
+        How does water's kinetic energy contribute to temperature moderation?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
 related_article5:
     id: 168310
-    title: What are the three main subatomic particles in an atom and their respective charges?
+    title: >-
+        What are the three main subatomic particles in an atom and their respective charges?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 ---

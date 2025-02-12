@@ -2,8 +2,10 @@
 _schema: default
 id: 165239
 date: 2025-01-28
-title: What are the challenges in selecting appropriate visual stimuli for experiments?
-article_title: What are the challenges in selecting appropriate visual stimuli for experiments?
+title: >-
+    What are the challenges in selecting appropriate visual stimuli for experiments?
+article_title: >-
+    What are the challenges in selecting appropriate visual stimuli for experiments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-e
 url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
 score: -1.0
 related_article1:
-    id: 165238
-    title: What statistical tools are commonly used in cognitive psychology data analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
-related_article2:
-    id: 165226
-    title: What are the key visualization techniques used in mental rotation tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
-related_article3:
-    id: 165235
-    title: How is SciToolkit used in data analysis for psychological research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
-related_article4:
     id: 165230
-    title: What cognitive skills are essential for effective spatial reasoning?
+    title: >-
+        What cognitive skills are essential for effective spatial reasoning?
     subject: Psychology
     url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
-related_article5:
-    id: 165237
-    title: How does FITS law relate to task complexity and reaction time in cognitive psychology?
+related_article2:
+    id: 165234
+    title: >-
+        What are the key considerations in designing an experiment for a group project?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
+    url: /learn/psychology/questions/what-are-the-key-considerations-in-designing-an-experiment-for-a-group-project
+related_article3:
+    id: 165229
+    title: >-
+        How does aphantasia affect spatial reasoning and problem-solving abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
+related_article4:
+    id: 165242
+    title: >-
+        How is visual perception studied through task design and data collection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
+related_article5:
+    id: 165233
+    title: >-
+        Why are STEM skills important for students studying organic chemistry?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
 ---
 
 &nbsp;

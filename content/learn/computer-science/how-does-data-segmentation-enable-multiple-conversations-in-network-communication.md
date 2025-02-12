@@ -2,8 +2,10 @@
 _schema: default
 id: 165769
 date: 2025-01-29
-title: How does data segmentation enable multiple conversations in network communication?
-article_title: How does data segmentation enable multiple conversations in network communication?
+title: >-
+    How does data segmentation enable multiple conversations in network communication?
+article_title: >-
+    How does data segmentation enable multiple conversations in network communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-data-segmentation-enable-multiple-conversations-in-network-c
 url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
 score: -1.0
 related_article1:
-    id: 165776
-    title: What is the purpose of port numbers in managing multiple separate communications?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
-related_article2:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
-related_article3:
-    id: 165767
-    title: How does the transport layer handle segmenting and reassembling data?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
-related_article4:
-    id: 165774
-    title: How does TCP guarantee ordered delivery and handle data loss?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
-related_article5:
     id: 165772
-    title: What are the key features of the UDP protocol that differentiate it from TCP?
+    title: >-
+        What are the key features of the UDP protocol that differentiate it from TCP?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+related_article2:
+    id: 165765
+    title: >-
+        How does the transport layer ensure logical communication between applications?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+related_article3:
+    id: 165774
+    title: >-
+        How does TCP guarantee ordered delivery and handle data loss?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
+related_article4:
+    id: 165771
+    title: >-
+        How does TCP ensure reliable and same-order delivery of data?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
+related_article5:
+    id: 165788
+    title: >-
+        What is the responsibility of applications in handling congestion in UDP?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-responsibility-of-applications-in-handling-congestion-in-udp
 ---
 
 &nbsp;

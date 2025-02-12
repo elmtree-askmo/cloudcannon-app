@@ -2,8 +2,10 @@
 _schema: default
 id: 170172
 date: 2025-02-06
-title: How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
-article_title: How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+title: >-
+    How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+article_title: >-
+    How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-tacitus-agricola-reflect-his-literary-style-and-historical-a
 url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
 score: 9.0
 related_article1:
-    id: 170181
-    title: What insights into Roman life do the Vindolanda Tablets provide, and how are they preserved and studied?
+    id: 170180
+    title: >-
+        What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-insights-into-roman-life-do-the-vindolanda-tablets-provide-and-how-are-they-preserved-and-studied
+    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
 related_article2:
-    id: 170169
-    title: Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
+    id: 170167
+    title: >-
+        Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
+    url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
 related_article3:
-    id: 170175
-    title: What are the historical theories regarding the origins and identity of the Pictish culture?
+    id: 170183
+    title: >-
+        What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
+    url: /learn/history-of-the-world/questions/what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-did-they-adapt-to-roman-tactics
 related_article4:
-    id: 170186
-    title: How did Roman-British relations evolve during the initial contact and conquest period?
+    id: 170167
+    title: >-
+        Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
+    url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
 related_article5:
-    id: 170177
-    title: What is the significance of Pictish stones in understanding Pictish art and symbolism?
+    id: 170179
+    title: >-
+        Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
+    url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
 ---
 
 &nbsp;

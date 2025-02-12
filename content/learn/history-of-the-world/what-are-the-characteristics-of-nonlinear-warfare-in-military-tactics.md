@@ -2,8 +2,10 @@
 _schema: default
 id: 169093
 date: 2025-02-04
-title: What are the characteristics of non-linear warfare in military tactics?
-article_title: What are the characteristics of non-linear warfare in military tactics?
+title: >-
+    What are the characteristics of non-linear warfare in military tactics?
+article_title: >-
+    What are the characteristics of non-linear warfare in military tactics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
 url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
 score: 9.0
 related_article1:
-    id: 169091
-    title: How do swarming tactics enhance military tactics in urban environments?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-military-tactics-in-urban-environments
-related_article2:
-    id: 169089
-    title: How does post-modern theory influence spatial interpretation in architectural theory?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-postmodern-theory-influence-spatial-interpretation-in-architectural-theory
-related_article3:
     id: 169087
-    title: Describe the relationship between military architecture and the architectural impact of conflict.
+    title: >-
+        Describe the relationship between military architecture and the architectural impact of conflict.
     subject: History of the World
     url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
+related_article2:
+    id: 169086
+    title: >-
+        How does tactical innovation contribute to non-linear warfare?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-tactical-innovation-contribute-to-nonlinear-warfare
+related_article3:
+    id: 169084
+    title: >-
+        Explain the concept of 'walking through walls' in urban combat strategies.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
 related_article4:
-    id: 169105
-    title: What role do military research institutes play in addressing institutional conflicts?
+    id: 169082
+    title: >-
+        What are the key components of inverse geometry in urban warfare tactical maneuvers?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
+    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
 related_article5:
-    id: 169103
-    title: How does critical theory apply to military practice in the context of ethical implications?
+    id: 169095
+    title: >-
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
+    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 ---
 
 &nbsp;

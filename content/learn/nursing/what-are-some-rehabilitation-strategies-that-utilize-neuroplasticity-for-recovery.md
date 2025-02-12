@@ -2,8 +2,10 @@
 _schema: default
 id: 170500
 date: 2025-02-06
-title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
-article_title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+title: >-
+    What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+article_title: >-
+    What are some rehabilitation strategies that utilize neuroplasticity for recovery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-
 url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
 score: -1.0
 related_article1:
+    id: 170497
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+related_article2:
     id: 170488
-    title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
-related_article2:
-    id: 170487
-    title: How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 related_article3:
-    id: 170490
-    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    id: 170486
+    title: >-
+        What are the main components of the spinal cord anatomy and their functions?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
 related_article4:
-    id: 170490
-    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    id: 170486
+    title: >-
+        What are the main components of the spinal cord anatomy and their functions?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
-related_article5:
-    id: 170495
-    title: How does the herpes simplex virus remain dormant and what triggers its reactivation?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164674
 date: 2025-01-28
-title: What are the main cognitive functions studied in neuroscience?
-article_title: What are the main cognitive functions studied in neuroscience?
+title: >-
+    What are the main cognitive functions studied in neuroscience?
+article_title: >-
+    What are the main cognitive functions studied in neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-cognitive-functions-studied-in-neuroscience.md
 url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
 score: -1.0
 related_article1:
-    id: 164688
-    title: What are the ethical considerations in the development of neurotechnology?
+    id: 164685
+    title: >-
+        How do individual differences affect cognitive abilities?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+    url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
 related_article2:
-    id: 164677
-    title: How does language processing relate to cognitive functions?
+    id: 164673
+    title: >-
+        Describe the stages involved in memory processes.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
 related_article3:
-    id: 164679
-    title: How does emotion influence cognitive processes?
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 related_article4:
-    id: 164692
-    title: How are cognitive disorders diagnosed and treated?
+    id: 164683
+    title: >-
+        What role do subconscious processes play in influencing behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
 related_article5:
-    id: 164694
-    title: What are the career paths available for students pursuing a neuroscience minor?
+    id: 164676
+    title: >-
+        What is the role of PET scans in brain imaging?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170307
 date: 2025-02-06
-title: What is the greenhouse effect, and how does it relate to global warming?
-article_title: What is the greenhouse effect, and how does it relate to global warming?
+title: >-
+    What is the greenhouse effect, and how does it relate to global warming?
+article_title: >-
+    What is the greenhouse effect, and how does it relate to global warming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-rela
 score: -1.0
 related_article1:
     id: 170303
-    title: How does deforestation affect carbon release and habitat loss?
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
     subject: Biology
     url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
 related_article2:
-    id: 170304
-    title: Why are carbon cycle models important for understanding and predicting environmental changes?
-    subject: Biology
-    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
-related_article3:
     id: 170303
-    title: How does deforestation affect carbon release and habitat loss?
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
     subject: Biology
     url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+related_article3:
+    id: 170305
+    title: >-
+        What is the difference between conceptual and mathematical carbon cycle models?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
 related_article4:
-    id: 170306
-    title: How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
     subject: Biology
-    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
 related_article5:
-    id: 170301
-    title: How do producers and consumers contribute to energy flow in ecosystems?
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
     subject: Biology
-    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
 ---
 
 &nbsp;

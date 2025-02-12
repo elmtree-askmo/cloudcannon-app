@@ -2,8 +2,10 @@
 _schema: default
 id: 164319
 date: 2025-01-28
-title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
-article_title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+title: >-
+    What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+article_title: >-
+    What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-audio-and-video-recording-techni
 url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
 score: -1.0
 related_article1:
-    id: 164324
-    title: What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
+    id: 164323
+    title: >-
+        What safety precautions should be taken for individuals with metal implants undergoing an MRI?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
 related_article2:
-    id: 164330
-    title: What are the developmental stages of language acquisition, and what factors influence this process?
+    id: 164325
+    title: >-
+        What are the different types of seizures associated with epilepsy, and what are common triggers?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
 related_article3:
-    id: 164329
-    title: What are the components of language, and how do phonetics and syntax contribute to language structure?
+    id: 164321
+    title: >-
+        What are the common symptoms of attention disorders, and how are they diagnosed?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
 related_article4:
-    id: 164315
-    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    id: 164318
+    title: >-
+        How do monitoring systems and control protocols contribute to the implementation of technical controls?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+    url: /learn/psychology/questions/how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls
 related_article5:
-    id: 164327
-    title: What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
+    id: 164323
+    title: >-
+        What safety precautions should be taken for individuals with metal implants undergoing an MRI?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
+    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
 ---
 
 &nbsp;

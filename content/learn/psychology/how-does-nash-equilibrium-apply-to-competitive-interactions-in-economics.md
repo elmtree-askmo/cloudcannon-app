@@ -2,8 +2,10 @@
 _schema: default
 id: 170843
 date: 2025-02-07
-title: How does Nash Equilibrium apply to competitive interactions in economics?
-article_title: How does Nash Equilibrium apply to competitive interactions in economics?
+title: >-
+    How does Nash Equilibrium apply to competitive interactions in economics?
+article_title: >-
+    How does Nash Equilibrium apply to competitive interactions in economics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-nash-equilibrium-apply-to-competitive-interactions-in-econom
 url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
 score: -1.0
 related_article1:
-    id: 170844
-    title: What is the importance of optimal strategies in competitive interactions?
+    id: 170838
+    title: >-
+        How does strategy evolution occur in the context of fitness landscapes?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
+    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
 related_article2:
+    id: 170842
+    title: >-
+        What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
+related_article3:
+    id: 170838
+    title: >-
+        How does strategy evolution occur in the context of fitness landscapes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
+related_article4:
     id: 170844
-    title: What is the importance of optimal strategies in competitive interactions?
+    title: >-
+        What is the importance of optimal strategies in competitive interactions?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
-related_article3:
-    id: 170835
-    title: Explain the concept of Nash Equilibrium in classical game theory.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-nash-equilibrium-in-classical-game-theory
-related_article4:
-    id: 170834
-    title: How does cost-benefit analysis influence decision-making processes in game theory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
 related_article5:
-    id: 170834
-    title: How does cost-benefit analysis influence decision-making processes in game theory?
+    id: 170845
+    title: >-
+        How does frequency-dependent selection impact the payoff matrix in competitive interactions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
+    url: /learn/psychology/questions/how-does-frequencydependent-selection-impact-the-payoff-matrix-in-competitive-interactions
 ---
 
 &nbsp;

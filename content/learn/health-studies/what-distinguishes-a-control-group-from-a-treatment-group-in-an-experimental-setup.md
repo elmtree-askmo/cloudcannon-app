@@ -2,8 +2,10 @@
 _schema: default
 id: 168182
 date: 2025-02-02
-title: What distinguishes a control group from a treatment group in an experimental setup?
-article_title: What distinguishes a control group from a treatment group in an experimental setup?
+title: >-
+    What distinguishes a control group from a treatment group in an experimental setup?
+article_title: >-
+    What distinguishes a control group from a treatment group in an experimental setup?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-a-control-group-from-a-treatment-group-in-an-exper
 url: /learn/health-studies/questions/what-distinguishes-a-control-group-from-a-treatment-group-in-an-experimental-setup
 score: -1.0
 related_article1:
-    id: 168190
-    title: Describe the characteristics of polar covalent bonds and provide an example of a polar molecule.
+    id: 168180
+    title: >-
+        What are the key components of a testable hypothesis in the scientific method?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-characteristics-of-polar-covalent-bonds-and-provide-an-example-of-a-polar-molecule
+    url: /learn/health-studies/questions/what-are-the-key-components-of-a-testable-hypothesis-in-the-scientific-method
 related_article2:
-    id: 168181
-    title: How does the use of 'if-then' statements aid in prediction development within the scientific method?
+    id: 168184
+    title: >-
+        How does deductive reasoning differ from inductive reasoning in scientific research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-use-of-ifthen-statements-aid-in-prediction-development-within-the-scientific-method
+    url: /learn/health-studies/questions/how-does-deductive-reasoning-differ-from-inductive-reasoning-in-scientific-research
 related_article3:
-    id: 168191
-    title: How does the molecular structure of water contribute to its unique properties?
+    id: 168183
+    title: >-
+        Define independent and dependent variables and provide an example scenario illustrating their roles.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-molecular-structure-of-water-contribute-to-its-unique-properties
+    url: /learn/health-studies/questions/define-independent-and-dependent-variables-and-provide-an-example-scenario-illustrating-their-roles
 related_article4:
-    id: 168188
-    title: How do chemical bonds contribute to the formation and properties of compounds?
+    id: 168192
+    title: >-
+        Why are chemical formulas important in representing molecules, especially in biological contexts?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-chemical-bonds-contribute-to-the-formation-and-properties-of-compounds
+    url: /learn/health-studies/questions/why-are-chemical-formulas-important-in-representing-molecules-especially-in-biological-contexts
 related_article5:
-    id: 168189
-    title: What is the difference between covalent and ionic bonds in terms of electron interaction?
+    id: 168180
+    title: >-
+        What are the key components of a testable hypothesis in the scientific method?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
+    url: /learn/health-studies/questions/what-are-the-key-components-of-a-testable-hypothesis-in-the-scientific-method
 ---
 
 &nbsp;

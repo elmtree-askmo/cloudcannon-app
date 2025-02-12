@@ -2,8 +2,10 @@
 _schema: default
 id: 163204
 date: 2025-01-26
-title: What is the ecological fallacy, and why is it a limitation in ecological studies?
-article_title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+title: >-
+    What is the ecological fallacy, and why is it a limitation in ecological studies?
+article_title: >-
+    What is the ecological fallacy, and why is it a limitation in ecological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecologic
 url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 score: -1.0
 related_article1:
-    id: 163314
-    title: Why are age-adjusted rates important in epidemiological studies?
+    id: 162980
+    title: >-
+        What is the main limitation of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
 related_article2:
-    id: 162991
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
-related_article3:
     id: 163320
-    title: What are the primary purposes of public health surveillance?
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+related_article3:
+    id: 162987
+    title: >-
+        How do outbreaks differ from epidemics in terms of their definitions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article4:
-    id: 162993
-    title: What does a Pearson correlation coefficient indicate in epidemiological studies?
+    id: 162980
+    title: >-
+        What is the main limitation of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
 related_article5:
-    id: 163311
-    title: How are age-specific rates calculated and why are they important?
+    id: 163205
+    title: >-
+        How do positive and negative associations differ in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
+    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
 ---
 
 &nbsp;

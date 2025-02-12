@@ -2,8 +2,10 @@
 _schema: default
 id: 169009
 date: 2025-02-04
-title: What actions did women take during revolutionary movements?
-article_title: What actions did women take during revolutionary movements?
+title: >-
+    What actions did women take during revolutionary movements?
+article_title: >-
+    What actions did women take during revolutionary movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-actions-did-women-take-during-revolutionary-movements.md
 url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
 score: 9.0
 related_article1:
-    id: 169023
-    title: What are the gendered and anti-revolutionary filters present in media representations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
-related_article2:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
-related_article3:
-    id: 169013
-    title: What strategies and tactics were employed during the Mexican Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
-related_article4:
     id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
+    title: >-
+        What are feminized spaces, and how do they relate to identity strategies?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
-related_article5:
-    id: 169007
-    title: How is architecture strategically used in different contexts?
+related_article2:
+    id: 169018
+    title: >-
+        What contributions did Carmen Serdan make to the revolutionary movement?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
+    url: /learn/history-of-the-world/questions/what-contributions-did-carmen-serdan-make-to-the-revolutionary-movement
+related_article3:
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+related_article4:
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
+related_article5:
+    id: 169015
+    title: >-
+        What cultural understandings are associated with revolutionary movements?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-cultural-understandings-are-associated-with-revolutionary-movements
 ---
 
 &nbsp;

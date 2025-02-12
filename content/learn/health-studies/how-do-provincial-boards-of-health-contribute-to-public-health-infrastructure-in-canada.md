@@ -2,8 +2,10 @@
 _schema: default
 id: 162584
 date: 2025-01-25
-title: How do provincial boards of health contribute to public health infrastructure in Canada?
-article_title: How do provincial boards of health contribute to public health infrastructure in Canada?
+title: >-
+    How do provincial boards of health contribute to public health infrastructure in Canada?
+article_title: >-
+    How do provincial boards of health contribute to public health infrastructure in Canada?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-provincial-boards-of-health-contribute-to-public-health-infras
 url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
 score: -1.0
 related_article1:
-    id: 162576
-    title: What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
+    id: 162585
+    title: >-
+        What are the main components of the Canada Health Act that support publicly-funded universal health care?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-during-colonial-times-to-address-diseases-introduced-by-european-immigration
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
 related_article2:
-    id: 162579
-    title: How did the cholera epidemic influence sanitary measures and public health infrastructure?
+    id: 162580
+    title: >-
+        What were the key public health responses to typhus during the Irish immigration period?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-cholera-epidemic-influence-sanitary-measures-and-public-health-infrastructure
+    url: /learn/health-studies/questions/what-were-the-key-public-health-responses-to-typhus-during-the-irish-immigration-period
 related_article3:
-    id: 162582
-    title: What is the significance of geographical epidemiology in modern public health practices?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-geographical-epidemiology-in-modern-public-health-practices
-related_article4:
     id: 162577
-    title: How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
+    title: >-
+        How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-the-quarantine-acts-and-sanitary-reforms-contribute-to-early-public-health-efforts
+related_article4:
+    id: 162585
+    title: >-
+        What are the main components of the Canada Health Act that support publicly-funded universal health care?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
 related_article5:
     id: 162582
-    title: What is the significance of geographical epidemiology in modern public health practices?
+    title: >-
+        What is the significance of geographical epidemiology in modern public health practices?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-geographical-epidemiology-in-modern-public-health-practices
 ---

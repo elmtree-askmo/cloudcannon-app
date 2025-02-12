@@ -2,8 +2,10 @@
 _schema: default
 id: 165713
 date: 2025-01-29
-title: How is a host address represented using a combination of 0s and 1s?
-article_title: How is a host address represented using a combination of 0s and 1s?
+title: >-
+    How is a host address represented using a combination of 0s and 1s?
+article_title: >-
+    How is a host address represented using a combination of 0s and 1s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-is-a-host-address-represented-using-a-combination-of-0s-and-1s.md
 url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
 score: -1.0
 related_article1:
-    id: 165709
-    title: How does a subnet mask help in identifying the network and host portions of an IPv4 address?
+    id: 165712
+    title: >-
+        What is a network address and how is it represented when the host portion is all 0s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
+    url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
 related_article2:
-    id: 165709
-    title: How does a subnet mask help in identifying the network and host portions of an IPv4 address?
+    id: 165718
+    title: >-
+        What are the configuration steps for static IP address assignment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
+    url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
 related_article3:
-    id: 165707
-    title: What are the steps involved in converting a decimal number to binary?
+    id: 165711
+    title: >-
+        Explain the concept of a subnet prefix and its notation in dotted decimal format.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
+    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
 related_article4:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
+    id: 165706
+    title: >-
+        How do you convert a binary number to a decimal number? Provide an example.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
+    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
 related_article5:
     id: 165708
-    title: Describe the 32-bit structure of an IPv4 address and its division into octets.
+    title: >-
+        Describe the 32-bit structure of an IPv4 address and its division into octets.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into-octets
 ---

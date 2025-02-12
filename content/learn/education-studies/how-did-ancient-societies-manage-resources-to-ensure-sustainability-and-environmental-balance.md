@@ -2,8 +2,10 @@
 _schema: default
 id: 170050
 date: 2025-02-05
-title: How did ancient societies manage resources to ensure sustainability and environmental balance?
-article_title: How did ancient societies manage resources to ensure sustainability and environmental balance?
+title: >-
+    How did ancient societies manage resources to ensure sustainability and environmental balance?
+article_title: >-
+    How did ancient societies manage resources to ensure sustainability and environmental balance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-ancient-societies-manage-resources-to-ensure-sustainability-a
 url: /learn/education-studies/questions/how-did-ancient-societies-manage-resources-to-ensure-sustainability-and-environmental-balance
 score: -1.0
 related_article1:
+    id: 170037
+    title: >-
+        What are some effective techniques for paraphrasing to avoid direct copying?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-paraphrasing-to-avoid-direct-copying
+related_article2:
+    id: 170036
+    title: >-
+        What is the importance of footnotes and references in academic writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
+related_article3:
     id: 170045
-    title: How did gender roles and leadership manifest in Paleolithic societies?
+    title: >-
+        How did gender roles and leadership manifest in Paleolithic societies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-gender-roles-and-leadership-manifest-in-paleolithic-societies
-related_article2:
-    id: 170049
-    title: What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
-related_article3:
-    id: 170052
-    title: How did the evolution of tool technology impact daily life and societal development in ancient times?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-evolution-of-tool-technology-impact-daily-life-and-societal-development-in-ancient-times
 related_article4:
-    id: 170052
-    title: How did the evolution of tool technology impact daily life and societal development in ancient times?
+    id: 170048
+    title: >-
+        What factors influenced population density in pre-agricultural societies, and how did these change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-evolution-of-tool-technology-impact-daily-life-and-societal-development-in-ancient-times
+    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
 related_article5:
-    id: 170035
-    title: What are the differences between online resources and print articles when citing sources in academic writing?
+    id: 170056
+    title: >-
+        What methods and approaches are used in historical anthropology to study ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
+    url: /learn/education-studies/questions/what-methods-and-approaches-are-used-in-historical-anthropology-to-study-ancient-societies
 ---
 
 &nbsp;

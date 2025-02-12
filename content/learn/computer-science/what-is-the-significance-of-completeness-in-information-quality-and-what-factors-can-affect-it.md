@@ -2,8 +2,10 @@
 _schema: default
 id: 161436
 date: 2025-01-24
-title: What is the significance of completeness in information quality, and what factors can affect it?
-article_title: What is the significance of completeness in information quality, and what factors can affect it?
+title: >-
+    What is the significance of completeness in information quality, and what factors can affect it?
+article_title: >-
+    What is the significance of completeness in information quality, and what factors can affect it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-completeness-in-information-quality-and-w
 url: /learn/computer-science/questions/what-is-the-significance-of-completeness-in-information-quality-and-what-factors-can-affect-it
 score: -1.0
 related_article1:
-    id: 161506
-    title: What is a parity check and what are its limitations in error detection?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
-related_article2:
     id: 161684
-    title: What is the definition of data and why is raw data considered meaningless?
+    title: >-
+        What is the definition of data and why is raw data considered meaningless?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
+related_article2:
+    id: 161699
+    title: >-
+        What is the purpose of data validation, and how do range checks and type checks work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-work
 related_article3:
-    id: 161495
-    title: Why is the age of information crucial and what factors can affect its timeliness?
+    id: 161511
+    title: >-
+        What are the main components of an information system and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article4:
-    id: 161696
-    title: What are the characteristics of batch processing, and what are its advantages and disadvantages?
+    id: 161435
+    title: >-
+        How does the level of detail impact the usefulness of information, and what factors determine the appropriate level of detail?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/how-does-the-level-of-detail-impact-the-usefulness-of-information-and-what-factors-determine-the-appropriate-level-of-detail
 related_article5:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161707
+    title: >-
+        What are the differences between transaction processing systems, management information systems, and decision support systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/what-are-the-differences-between-transaction-processing-systems-management-information-systems-and-decision-support-systems
 ---
 
 &nbsp;

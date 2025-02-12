@@ -2,8 +2,10 @@
 _schema: default
 id: 168145
 date: 2025-02-02
-title: How can bias in historical documents be identified, and what strategies can historians use to address it in their studies?
-article_title: How can bias in historical documents be identified, and what strategies can historians use to address it in their studies?
+title: >-
+    How can bias in historical documents be identified, and what strategies can historians use to address it in their studies?
+article_title: >-
+    How can bias in historical documents be identified, and what strategies can historians use to address it in their studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-bias-in-historical-documents-be-identified-and-what-strategie
 url: /learn/education-studies/questions/how-can-bias-in-historical-documents-be-identified-and-what-strategies-can-historians-use-to-address-it-in-their-studies
 score: -1.0
 related_article1:
-    id: 168138
-    title: What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
+    id: 168139
+    title: >-
+        What are the key characteristics that differentiate primary sources from secondary sources in historical research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-distinction-between-an-event-and-historical-knowledge-and-how-do-historians-act-as-storytellers-in-constructing-narratives
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-that-differentiate-primary-sources-from-secondary-sources-in-historical-research
 related_article2:
-    id: 168146
-    title: What role do material conditions play in shaping historical narratives, and how do they influence historical events?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-material-conditions-play-in-shaping-historical-narratives-and-how-do-they-influence-historical-events
-related_article3:
     id: 168142
-    title: Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
+    title: >-
+        Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-context-important-in-the-interpretation-of-historical-events-and-how-do-historians-evaluate-evidence-within-this-context
-related_article4:
-    id: 168141
-    title: What is contingency in historical knowledge, and how can new discoveries impact our understanding of history?
+related_article3:
+    id: 168139
+    title: >-
+        What are the key characteristics that differentiate primary sources from secondary sources in historical research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-contingency-in-historical-knowledge-and-how-can-new-discoveries-impact-our-understanding-of-history
-related_article5:
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-that-differentiate-primary-sources-from-secondary-sources-in-historical-research
+related_article4:
     id: 168138
-    title: What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
+    title: >-
+        What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-distinction-between-an-event-and-historical-knowledge-and-how-do-historians-act-as-storytellers-in-constructing-narratives
+related_article5:
+    id: 168141
+    title: >-
+        What is contingency in historical knowledge, and how can new discoveries impact our understanding of history?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-contingency-in-historical-knowledge-and-how-can-new-discoveries-impact-our-understanding-of-history
 ---
 
 &nbsp;

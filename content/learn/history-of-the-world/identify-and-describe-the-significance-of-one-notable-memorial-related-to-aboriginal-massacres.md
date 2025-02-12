@@ -2,8 +2,10 @@
 _schema: default
 id: 169025
 date: 2025-02-04
-title: Identify and describe the significance of one notable memorial related to Aboriginal massacres.
-article_title: Identify and describe the significance of one notable memorial related to Aboriginal massacres.
+title: >-
+    Identify and describe the significance of one notable memorial related to Aboriginal massacres.
+article_title: >-
+    Identify and describe the significance of one notable memorial related to Aboriginal massacres.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-and-describe-the-significance-of-one-notable-memorial-relate
 url: /learn/history-of-the-world/questions/identify-and-describe-the-significance-of-one-notable-memorial-related-to-aboriginal-massacres
 score: 9.0
 related_article1:
-    id: 169026
-    title: How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
+    id: 169036
+    title: >-
+        What are the main challenges faced in the preservation of Aboriginal heritage sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-punitive-expeditions-contribute-to-the-conflict-between-settlers-and-aboriginal-people-during-colonial-history
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
 related_article2:
-    id: 169027
-    title: Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+    id: 169034
+    title: >-
+        What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
+    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
 related_article3:
     id: 169032
-    title: What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
+    title: >-
+        What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-contemporary-challenges-faced-by-aboriginal-communities-in-preserving-their-cultural-identity
 related_article4:
-    id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
+    id: 169034
+    title: >-
+        What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
+    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
 related_article5:
-    id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
+    id: 169038
+    title: >-
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
+    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
 ---
 
 &nbsp;

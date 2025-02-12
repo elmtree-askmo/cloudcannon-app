@@ -2,8 +2,10 @@
 _schema: default
 id: 166942
 date: 2025-01-31
-title: How do transport proteins facilitate diffusion across the cell membrane?
-article_title: How do transport proteins facilitate diffusion across the cell membrane?
+title: >-
+    How do transport proteins facilitate diffusion across the cell membrane?
+article_title: >-
+    How do transport proteins facilitate diffusion across the cell membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-transport-proteins-facilitate-diffusion-across-the-cell-membra
 url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
 score: -1.0
 related_article1:
-    id: 166941
-    title: What are the characteristics of substances that can be transported via simple diffusion?
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
 related_article2:
-    id: 166940
-    title: What is the role of the Na+ - K+ pump in active transport?
+    id: 166948
+    title: >-
+        How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
+    url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
 related_article3:
-    id: 166944
-    title: How does exocytosis function in the transport of substances out of the cell?
+    id: 166946
+    title: >-
+        How do concentration gradients influence passive and active transport?
     subject: Biology
-    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
 related_article4:
-    id: 166944
-    title: How does exocytosis function in the transport of substances out of the cell?
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
     subject: Biology
-    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
 related_article5:
-    id: 166944
-    title: How does exocytosis function in the transport of substances out of the cell?
+    id: 166945
+    title: >-
+        Why are concentration gradients important for cellular transport processes?
     subject: Biology
-    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
 ---
 
 &nbsp;

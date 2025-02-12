@@ -2,8 +2,10 @@
 _schema: default
 id: 164830
 date: 2025-01-28
-title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
-article_title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+title: >-
+    How does synaptic transmission occur and what role do neurotransmitters play in this process?
+article_title: >-
+    How does synaptic transmission occur and what role do neurotransmitters play in this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitte
 url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 score: -1.0
 related_article1:
+    id: 164819
+    title: >-
+        What are the properties of action potentials and how are they propagated along a neuron?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
+related_article2:
+    id: 164823
+    title: >-
+        How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
+related_article3:
     id: 164824
-    title: What changes occur in the membrane potential during an action potential?
+    title: >-
+        What changes occur in the membrane potential during an action potential?
     subject: Psychology
     url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
-related_article2:
-    id: 164832
-    title: How do synapses facilitate signal transmission between neurons?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
-related_article3:
-    id: 164821
-    title: How do ion channels contribute to the generation and propagation of action potentials?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
 related_article4:
-    id: 164822
-    title: What is the role of the sodium-potassium pump in maintaining ion concentration gradients?
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
 related_article5:
-    id: 164827
-    title: How does myelination affect the speed of neural signal transmission?
+    id: 164829
+    title: >-
+        What types of ion channels are involved in action potentials and how do they regulate ion flow?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
 ---
 
 &nbsp;

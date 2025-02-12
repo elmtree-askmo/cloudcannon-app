@@ -2,8 +2,10 @@
 _schema: default
 id: 167462
 date: 2025-01-31
-title: What are the components of an atom, and how do they determine its chemical properties?
-article_title: What are the components of an atom, and how do they determine its chemical properties?
+title: >-
+    What are the components of an atom, and how do they determine its chemical properties?
+article_title: >-
+    What are the components of an atom, and how do they determine its chemical properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-components-of-an-atom-and-how-do-they-determine-its-chem
 url: /learn/biology/questions/what-are-the-components-of-an-atom-and-how-do-they-determine-its-chemical-properties
 score: -1.0
 related_article1:
-    id: 167452
-    title: What is the purpose of Lewis dot structures in representing molecules?
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 related_article2:
-    id: 167460
-    title: What factors determine the molecular structure of a compound?
+    id: 167456
+    title: >-
+        Define acids and bases according to the proton donor-acceptor concept.
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
 related_article3:
-    id: 167463
-    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
     subject: Biology
-    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 related_article4:
-    id: 167458
-    title: What are the main types of chemical reactions, and how do they differ?
+    id: 167453
+    title: >-
+        How did Gilbert Lewis contribute to the development of Lewis dot structures?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
 related_article5:
-    id: 167460
-    title: What factors determine the molecular structure of a compound?
+    id: 167457
+    title: >-
+        What contributions did Gilbert Lewis make to the understanding of acids and bases?
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
 ---
 
 &nbsp;

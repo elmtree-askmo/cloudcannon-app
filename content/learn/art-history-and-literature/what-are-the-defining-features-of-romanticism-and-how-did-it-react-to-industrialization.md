@@ -2,8 +2,10 @@
 _schema: default
 id: 168719
 date: 2025-02-04
-title: What are the defining features of Romanticism, and how did it react to industrialization?
-article_title: What are the defining features of Romanticism, and how did it react to industrialization?
+title: >-
+    What are the defining features of Romanticism, and how did it react to industrialization?
+article_title: >-
+    What are the defining features of Romanticism, and how did it react to industrialization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-features-of-romanticism-and-how-did-it-react-to
 url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
 score: 9.0
 related_article1:
-    id: 168717
-    title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
 related_article2:
-    id: 168731
-    title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+    id: 168727
+    title: >-
+        Who were the key representatives of Realism, and what were their contributions to the movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
+    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
 related_article3:
-    id: 168733
-    title: What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
+    id: 168720
+    title: >-
+        How did Realism artists reject traditional Academic Painting styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
+    url: /learn/art-history-and-literature/questions/how-did-realism-artists-reject-traditional-academic-painting-styles
 related_article4:
-    id: 168716
-    title: How did the execution of King Louis XVI impact European monarchies?
+    id: 168730
+    title: >-
+        How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-execution-of-king-louis-xvi-impact-european-monarchies
+    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
 related_article5:
-    id: 168717
-    title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    id: 168728
+    title: >-
+        How did artists depict labor and working conditions during the Industrial Revolution?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
+    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
 ---
 
 &nbsp;

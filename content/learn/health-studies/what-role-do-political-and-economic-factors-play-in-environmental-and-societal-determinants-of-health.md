@@ -2,8 +2,10 @@
 _schema: default
 id: 163014
 date: 2025-01-26
-title: What role do political and economic factors play in environmental and societal determinants of health?
-article_title: What role do political and economic factors play in environmental and societal determinants of health?
+title: >-
+    What role do political and economic factors play in environmental and societal determinants of health?
+article_title: >-
+    What role do political and economic factors play in environmental and societal determinants of health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-political-and-economic-factors-play-in-environmental-and
 url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 score: -1.0
 related_article1:
-    id: 162955
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
+    id: 163012
+    title: >-
+        Who are some key figures in the historical development of epidemiology, and what were their contributions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
+    url: /learn/health-studies/questions/who-are-some-key-figures-in-the-historical-development-of-epidemiology-and-what-were-their-contributions
 related_article2:
-    id: 162967
-    title: How have key figures and milestones influenced the historical development of epidemiology?
+    id: 162976
+    title: >-
+        How is a null hypothesis specified and tested in hypothesis testing?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
+    url: /learn/health-studies/questions/how-is-a-null-hypothesis-specified-and-tested-in-hypothesis-testing
 related_article3:
-    id: 163017
-    title: How is the PICO framework used to structure clinical research questions?
+    id: 162957
+    title: >-
+        What role do genetic makeup and lifestyle play in individual determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
+    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
 related_article4:
-    id: 163017
-    title: How is the PICO framework used to structure clinical research questions?
+    id: 163022
+    title: >-
+        What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
+    url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
 related_article5:
-    id: 162971
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    id: 162959
+    title: >-
+        What are the main components of the PICO framework in clinical research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-pico-framework-in-clinical-research
 ---
 
 &nbsp;

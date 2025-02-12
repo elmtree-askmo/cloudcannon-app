@@ -2,8 +2,10 @@
 _schema: default
 id: 159796
 date: 2025-01-23
-title: How did industrialization and modernization lead to changes in artistic techniques and styles?
-article_title: How did industrialization and modernization lead to changes in artistic techniques and styles?
+title: >-
+    How did industrialization and modernization lead to changes in artistic techniques and styles?
+article_title: >-
+    How did industrialization and modernization lead to changes in artistic techniques and styles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-industrialization-and-modernization-lead-to-changes-in-artist
 url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles
 score: -1.0
 related_article1:
-    id: 159768
-    title: Discuss the role of artists in society and how social movements influenced art during the evolution of artistic professionalism.
+    id: 159770
+    title: >-
+        What role did art criticism play in shaping public perception, and who were some key critics and their contributions?
     subject: Education Studies
-    url: /learn/education-studies/questions/discuss-the-role-of-artists-in-society-and-how-social-movements-influenced-art-during-the-evolution-of-artistic-professionalism
+    url: /learn/education-studies/questions/what-role-did-art-criticism-play-in-shaping-public-perception-and-who-were-some-key-critics-and-their-contributions
 related_article2:
-    id: 159757
-    title: What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
+    id: 159791
+    title: >-
+        How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-origins-and-establishment-of-the-paris-salon-and-how-did-the-monarchy-influence-its-development
+    url: /learn/education-studies/questions/how-did-the-curriculum-and-focus-of-art-academies-evolve-and-what-impact-did-this-have-on-artistic-development
 related_article3:
+    id: 159758
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
+related_article4:
     id: 159763
-    title: Describe the characteristics of Orientalism in art and its influence on Western art, including key artists and works.
+    title: >-
+        Describe the characteristics of Orientalism in art and its influence on Western art, including key artists and works.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-characteristics-of-orientalism-in-art-and-its-influence-on-western-art-including-key-artists-and-works
-related_article4:
-    id: 159766
-    title: Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
 related_article5:
-    id: 159769
-    title: Identify key movements and figures in 19th-century art history and their influence on contemporary art.
+    id: 159765
+    title: >-
+        What are the origins and key characteristics of Impressionism, and how did it impact art criticism?
     subject: Education Studies
-    url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-their-influence-on-contemporary-art
+    url: /learn/education-studies/questions/what-are-the-origins-and-key-characteristics-of-impressionism-and-how-did-it-impact-art-criticism
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169639
 date: 2025-02-05
-title: Why is respectful and inclusive language important in patient-provider interactions?
-article_title: Why is respectful and inclusive language important in patient-provider interactions?
+title: >-
+    Why is respectful and inclusive language important in patient-provider interactions?
+article_title: >-
+    Why is respectful and inclusive language important in patient-provider interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-respectful-and-inclusive-language-important-in-patientprovider
 url: /learn/nursing/questions/why-is-respectful-and-inclusive-language-important-in-patientprovider-interactions
 score: -1.0
 related_article1:
-    id: 169632
-    title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
+    id: 169637
+    title: >-
+        What are the implications of using labels in healthcare and how can cultural sensitivity be maintained?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
+    url: /learn/nursing/questions/what-are-the-implications-of-using-labels-in-healthcare-and-how-can-cultural-sensitivity-be-maintained
 related_article2:
+    id: 169630
+    title: >-
+        What are the common forms of age discrimination in Europe and how do they affect healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-forms-of-age-discrimination-in-europe-and-how-do-they-affect-healthcare
+related_article3:
+    id: 169640
+    title: >-
+        What challenges exist in implementing legal frameworks for protected characteristics in various contexts?
+    subject: Nursing
+    url: /learn/nursing/questions/what-challenges-exist-in-implementing-legal-frameworks-for-protected-characteristics-in-various-contexts
+related_article4:
     id: 169629
-    title: How do stereotypes form and what impact do they have on individual perception?
+    title: >-
+        How do stereotypes form and what impact do they have on individual perception?
     subject: Nursing
     url: /learn/nursing/questions/how-do-stereotypes-form-and-what-impact-do-they-have-on-individual-perception
-related_article3:
-    id: 169635
-    title: What is intersectionality and how does it complicate the experience of discrimination for individuals?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-intersectionality-and-how-does-it-complicate-the-experience-of-discrimination-for-individuals
-related_article4:
-    id: 169636
-    title: In what ways does social media amplify or challenge discrimination in society?
-    subject: Nursing
-    url: /learn/nursing/questions/in-what-ways-does-social-media-amplify-or-challenge-discrimination-in-society
-related_article5:
-    id: 169632
-    title: What are the protected characteristics under the Equality Act and how do they relate to discrimination?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-protected-characteristics-under-the-equality-act-and-how-do-they-relate-to-discrimination
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169167
 date: 2025-02-04
-title: What role do public historians play in challenging colonial narratives and decolonizing interpretation?
-article_title: What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+title: >-
+    What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+article_title: >-
+    What role do public historians play in challenging colonial narratives and decolonizing interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-role-do-public-historians-play-in-challenging-colonial-narrative
 url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
 score: -1.0
 related_article1:
-    id: 169157
-    title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
-related_article2:
-    id: 169155
-    title: What role do national and tribal museums play in Indigenous public history?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
-related_article3:
-    id: 169157
-    title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
-related_article4:
     id: 169169
-    title: What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+    title: >-
+        What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
+related_article2:
+    id: 169169
+    title: >-
+        What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
+related_article3:
+    id: 169163
+    title: >-
+        What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article4:
+    id: 169161
+    title: >-
+        What is the significance of addressing hard truths and moving toward reconciliation in museums?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
+related_article5:
+    id: 169156
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
 ---
 
 &nbsp;

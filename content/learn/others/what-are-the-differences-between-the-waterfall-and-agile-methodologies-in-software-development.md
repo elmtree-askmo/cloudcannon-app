@@ -2,8 +2,10 @@
 _schema: default
 id: 162369
 date: 2025-01-25
-title: What are the differences between the Waterfall and Agile methodologies in software development?
-article_title: What are the differences between the Waterfall and Agile methodologies in software development?
+title: >-
+    What are the differences between the Waterfall and Agile methodologies in software development?
+article_title: >-
+    What are the differences between the Waterfall and Agile methodologies in software development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-the-waterfall-and-agile-methodologie
 url: /learn/others/questions/what-are-the-differences-between-the-waterfall-and-agile-methodologies-in-software-development
 score: -1.0
 related_article1:
-    id: 162722
-    title: What are the benefits of using cloud computing service models like IaaS, PaaS, and SaaS?
+    id: 162719
+    title: >-
+        How do decision trees differ from neural networks in predictive modeling?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-service-models-like-iaas-paas-and-saas
+    url: /learn/others/questions/how-do-decision-trees-differ-from-neural-networks-in-predictive-modeling
 related_article2:
-    id: 162772
-    title: What are the primary components of neural networks in artificial intelligence?
+    id: 162717
+    title: >-
+        How is regression analysis used in inferential statistics, and what are its applications?
     subject: Others
-    url: /learn/others/questions/what-are-the-primary-components-of-neural-networks-in-artificial-intelligence
+    url: /learn/others/questions/how-is-regression-analysis-used-in-inferential-statistics-and-what-are-its-applications
 related_article3:
-    id: 162672
-    title: How do Scrum and Kanban differ as agile methodologies?
+    id: 162375
+    title: >-
+        How do Scrum and Kanban frameworks differ in Agile methodologies?
     subject: Others
-    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-methodologies
+    url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
 related_article4:
-    id: 162360
-    title: How do Tableau, Power BI, and D3.js differ in their approach to data visualization?
+    id: 162668
+    title: >-
+        What are the common cybersecurity threats, and how can they be mitigated?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-approach-to-data-visualization
+    url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-how-can-they-be-mitigated
 related_article5:
-    id: 162371
-    title: What are the common cybersecurity threats, and what measures can be taken to protect against them?
+    id: 162786
+    title: >-
+        How do LAN and WAN differ in terms of network architecture?
     subject: Others
-    url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-what-measures-can-be-taken-to-protect-against-them
+    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
 ---
 
 &nbsp;

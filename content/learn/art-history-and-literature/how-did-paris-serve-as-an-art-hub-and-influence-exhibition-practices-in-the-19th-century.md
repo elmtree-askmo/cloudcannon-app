@@ -2,8 +2,10 @@
 _schema: default
 id: 165956
 date: 2025-01-29
-title: How did Paris serve as an art hub and influence exhibition practices in the 19th century?
-article_title: How did Paris serve as an art hub and influence exhibition practices in the 19th century?
+title: >-
+    How did Paris serve as an art hub and influence exhibition practices in the 19th century?
+article_title: >-
+    How did Paris serve as an art hub and influence exhibition practices in the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-
 url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
 score: 9.0
 related_article1:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
+    id: 165960
+    title: >-
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 related_article2:
-    id: 165945
-    title: Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
+    id: 165954
+    title: >-
+        How did Cubism influence subsequent art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
+    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
 related_article3:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
+    id: 165952
+    title: >-
+        How did Claude Monet influence the Impressionist movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
 related_article4:
-    id: 165942
-    title: How did alternative exhibitions impact the development of new art styles?
+    id: 165947
+    title: >-
+        What were the founding objectives of the Salon des Independantes, and who were its key figures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
 related_article5:
-    id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
+    id: 165940
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
 ---
 
 &nbsp;

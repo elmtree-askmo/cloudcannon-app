@@ -2,8 +2,10 @@
 _schema: default
 id: 165696
 date: 2025-01-29
-title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
-article_title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+title: >-
+    Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+article_title: >-
+    Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-special-use-ipv4-addresses-and-their-purposes-including-netw
 url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
 score: -1.0
 related_article1:
-    id: 165702
-    title: How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
+    id: 165699
+    title: >-
+        What is the prefix and address range of Class C IPv4 addresses?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-classless-ipv4-addressing-utilize-the-subnet-mask-and-what-is-its-current-usage-in-networks
+    url: /learn/computer-science/questions/what-is-the-prefix-and-address-range-of-class-c-ipv4-addresses
 related_article2:
-    id: 165700
-    title: What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
+    id: 165687
+    title: >-
+        What is a subnet mask, and how does it define the network and host portions of an IPv4 address?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
+    url: /learn/computer-science/questions/what-is-a-subnet-mask-and-how-does-it-define-the-network-and-host-portions-of-an-ipv4-address
 related_article3:
-    id: 165686
-    title: How many bits are there in an IPv4 address, and what is the decimal range of each octet?
+    id: 165695
+    title: >-
+        What are the differences between public and private IPv4 addresses, and what are the private address blocks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-many-bits-are-there-in-an-ipv4-address-and-what-is-the-decimal-range-of-each-octet
+    url: /learn/computer-science/questions/what-are-the-differences-between-public-and-private-ipv4-addresses-and-what-are-the-private-address-blocks
 related_article4:
-    id: 165694
-    title: What is multicast transmission, and what is the range of multicast addresses?
+    id: 165685
+    title: >-
+        What is the dotted decimal format in IPv4 addressing, and how are octets represented?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-multicast-transmission-and-what-is-the-range-of-multicast-addresses
+    url: /learn/computer-science/questions/what-is-the-dotted-decimal-format-in-ipv4-addressing-and-how-are-octets-represented
 related_article5:
-    id: 165688
-    title: Explain the binary representation of a subnet mask and how it divides the network.
+    id: 165685
+    title: >-
+        What is the dotted decimal format in IPv4 addressing, and how are octets represented?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-binary-representation-of-a-subnet-mask-and-how-it-divides-the-network
+    url: /learn/computer-science/questions/what-is-the-dotted-decimal-format-in-ipv4-addressing-and-how-are-octets-represented
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161163
 date: 2025-01-24
-title: How do clustering algorithms assist in medical diagnosis?
-article_title: How do clustering algorithms assist in medical diagnosis?
+title: >-
+    How do clustering algorithms assist in medical diagnosis?
+article_title: >-
+    How do clustering algorithms assist in medical diagnosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-clustering-algorithms-assist-in-medical-diagnosis.md
 url: /learn/computer-science/questions/how-do-clustering-algorithms-assist-in-medical-diagnosis
 score: -1.0
 related_article1:
-    id: 161158
-    title: What are NP-complete problems and why are they significant in computational theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-npcomplete-problems-and-why-are-they-significant-in-computational-theory
-related_article2:
-    id: 160934
-    title: What is the divide-and-conquer technique and how is it applied in algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-how-is-it-applied-in-algorithm-design
-related_article3:
     id: 160930
-    title: What factors should be considered when choosing a sorting algorithm?
+    title: >-
+        What factors should be considered when choosing a sorting algorithm?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
+related_article2:
+    id: 161152
+    title: >-
+        What factors should be considered when choosing a sorting algorithm?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
+related_article3:
+    id: 161066
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article4:
-    id: 161069
-    title: Describe a technique used in graph algorithms to find the shortest path.
+    id: 161070
+    title: >-
+        What is an approximation algorithm and when is it used?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-a-technique-used-in-graph-algorithms-to-find-the-shortest-path
+    url: /learn/computer-science/questions/what-is-an-approximation-algorithm-and-when-is-it-used
 related_article5:
-    id: 160929
-    title: What are some applications of algorithms in biological fields?
+    id: 160934
+    title: >-
+        What is the divide-and-conquer technique and how is it applied in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-applications-of-algorithms-in-biological-fields
+    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-how-is-it-applied-in-algorithm-design
 ---
 
 &nbsp;

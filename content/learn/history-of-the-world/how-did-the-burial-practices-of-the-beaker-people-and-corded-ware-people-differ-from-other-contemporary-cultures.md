@@ -2,8 +2,10 @@
 _schema: default
 id: 160371
 date: 2025-01-24
-title: How did the burial practices of the Beaker People and Corded Ware People differ from other contemporary cultures?
-article_title: How did the burial practices of the Beaker People and Corded Ware People differ from other contemporary cultures?
+title: >-
+    How did the burial practices of the Beaker People and Corded Ware People differ from other contemporary cultures?
+article_title: >-
+    How did the burial practices of the Beaker People and Corded Ware People differ from other contemporary cultures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-peo
 url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-differ-from-other-contemporary-cultures
 score: 9.0
 related_article1:
-    id: 160391
-    title: How did geography influence the cultural development and migration patterns of the Celts?
+    id: 159913
+    title: >-
+        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
 related_article2:
-    id: 160383
-    title: What were the typical clothing and dining habits in Celtic daily life?
+    id: 160182
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 related_article3:
-    id: 160373
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 159909
+    title: >-
+        What are the defining decorative styles of La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 related_article4:
-    id: 159923
-    title: What were the key trading centers in Celtic trade networks?
+    id: 159896
+    title: >-
+        What were the key trading centers in Celtic trade networks?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
 related_article5:
-    id: 160373
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 159871
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 ---
 
 &nbsp;

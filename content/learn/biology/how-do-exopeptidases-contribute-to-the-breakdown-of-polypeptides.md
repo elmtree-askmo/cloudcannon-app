@@ -2,8 +2,10 @@
 _schema: default
 id: 168832
 date: 2025-02-04
-title: How do exopeptidases contribute to the breakdown of polypeptides?
-article_title: How do exopeptidases contribute to the breakdown of polypeptides?
+title: >-
+    How do exopeptidases contribute to the breakdown of polypeptides?
+article_title: >-
+    How do exopeptidases contribute to the breakdown of polypeptides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides.md
 url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
 score: -1.0
 related_article1:
-    id: 168831
-    title: What is the function of endopeptidases in protein digestion?
+    id: 168838
+    title: >-
+        How does ATP hydrolysis contribute to nutrient transport across cell membranes?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 related_article2:
-    id: 168839
-    title: Why is mitochondria important for active transport in nutrient absorption?
+    id: 168838
+    title: >-
+        How does ATP hydrolysis contribute to nutrient transport across cell membranes?
     subject: Biology
-    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 related_article3:
-    id: 168829
-    title: What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    id: 168827
+    title: >-
+        What is the structural difference between amylose and amelopectin?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+    url: /learn/biology/questions/what-is-the-structural-difference-between-amylose-and-amelopectin
 related_article4:
-    id: 168841
-    title: How do villi adaptations maximize nutrient absorption in the small intestine?
+    id: 168838
+    title: >-
+        How does ATP hydrolysis contribute to nutrient transport across cell membranes?
     subject: Biology
-    url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 related_article5:
-    id: 168834
-    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    id: 168833
+    title: >-
+        What is the role of dipeptidases in the final stages of protein digestion?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
 ---
 
 &nbsp;

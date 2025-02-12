@@ -2,8 +2,10 @@
 _schema: default
 id: 169491
 date: 2025-02-05
-title: Why is it important to use proper manual handling techniques in patient care?
-article_title: Why is it important to use proper manual handling techniques in patient care?
+title: >-
+    Why is it important to use proper manual handling techniques in patient care?
+article_title: >-
+    Why is it important to use proper manual handling techniques in patient care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-it-important-to-use-proper-manual-handling-techniques-in-patie
 url: /learn/nursing/questions/why-is-it-important-to-use-proper-manual-handling-techniques-in-patient-care
 score: -1.0
 related_article1:
-    id: 169490
-    title: What preventive measures can be implemented to prevent pressure sores?
+    id: 169481
+    title: >-
+        Why is informed consent important in healthcare, and what are the procedures for obtaining it?
     subject: Nursing
-    url: /learn/nursing/questions/what-preventive-measures-can-be-implemented-to-prevent-pressure-sores
+    url: /learn/nursing/questions/why-is-informed-consent-important-in-healthcare-and-what-are-the-procedures-for-obtaining-it
 related_article2:
-    id: 169482
-    title: How can healthcare providers balance care and patient autonomy?
+    id: 169495
+    title: >-
+        Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
 related_article3:
-    id: 169488
-    title: How can healthcare providers assess patient capabilities to balance assistance and independence?
+    id: 169480
+    title: >-
+        What factors affect skin health, and what are proper skin care techniques in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
 related_article4:
-    id: 169489
-    title: What are the common causes of pressure sores, and how can they be recognized early?
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-common-causes-of-pressure-sores-and-how-can-they-be-recognized-early
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
 related_article5:
-    id: 169482
-    title: How can healthcare providers balance care and patient autonomy?
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
 ---
 
 &nbsp;

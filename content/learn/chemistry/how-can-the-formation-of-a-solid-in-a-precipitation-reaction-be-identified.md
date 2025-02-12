@@ -2,8 +2,10 @@
 _schema: default
 id: 161988
 date: 2025-01-24
-title: How can the formation of a solid in a precipitation reaction be identified?
-article_title: How can the formation of a solid in a precipitation reaction be identified?
+title: >-
+    How can the formation of a solid in a precipitation reaction be identified?
+article_title: >-
+    How can the formation of a solid in a precipitation reaction be identified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-ident
 url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
 score: -1.0
 related_article1:
-    id: 161756
-    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    id: 162024
+    title: >-
+        What is the significance of electron removal in the ionization process?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 related_article2:
-    id: 161936
-    title: Describe the process of ionization and its effects on the charge of particles.
+    id: 162042
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 related_article3:
-    id: 162017
-    title: What is a precipitation reaction and how can it be identified?
+    id: 161937
+    title: >-
+        What is a precipitation reaction and how can you identify it?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 related_article4:
-    id: 161985
-    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    id: 161992
+    title: >-
+        What are the characteristics of precipitation reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
 related_article5:
-    id: 161941
-    title: What happens during the state transition from liquid to solid?
+    id: 161758
+    title: >-
+        What happens during the state transition from liquid to solid?
     subject: Chemistry
     url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
 ---

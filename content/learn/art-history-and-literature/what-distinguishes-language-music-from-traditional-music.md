@@ -2,8 +2,10 @@
 _schema: default
 id: 164615
 date: 2025-01-28
-title: What distinguishes language music from traditional music?
-article_title: What distinguishes language music from traditional music?
+title: >-
+    What distinguishes language music from traditional music?
+article_title: >-
+    What distinguishes language music from traditional music?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-language-music-from-traditional-music.md
 url: /learn/art-history-and-literature/questions/what-distinguishes-language-music-from-traditional-music
 score: 8.5
 related_article1:
-    id: 164630
-    title: What is the role of harmony in music composition?
+    id: 164631
+    title: >-
+        What are the basic concepts of rhythm in music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
+    url: /learn/art-history-and-literature/questions/what-are-the-basic-concepts-of-rhythm-in-music
 related_article2:
+    id: 164628
+    title: >-
+        What is the significance of cultural context in music?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-cultural-context-in-music
+related_article3:
+    id: 164623
+    title: >-
+        How does syntax contribute to the structural elements of a song's grammar?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-syntax-contribute-to-the-structural-elements-of-a-songs-grammar
+related_article4:
+    id: 164619
+    title: >-
+        What is the difference between phonetics and phonology in the study of speech sounds?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-difference-between-phonetics-and-phonology-in-the-study-of-speech-sounds
+related_article5:
     id: 164626
-    title: How does emotional energy in music affect listeners psychologically?
+    title: >-
+        How does emotional energy in music affect listeners psychologically?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-emotional-energy-in-music-affect-listeners-psychologically
-related_article3:
-    id: 164631
-    title: What are the basic concepts of rhythm in music?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-basic-concepts-of-rhythm-in-music
-related_article4:
-    id: 164630
-    title: What is the role of harmony in music composition?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
-related_article5:
-    id: 164631
-    title: What are the basic concepts of rhythm in music?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-basic-concepts-of-rhythm-in-music
 ---
 
 &nbsp;

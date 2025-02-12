@@ -2,8 +2,10 @@
 _schema: default
 id: 165697
 date: 2025-01-29
-title: What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
-article_title: What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
+title: >-
+    What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
+article_title: >-
+    What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-class-a-ipv4-addresses-including-thei
 url: /learn/computer-science/questions/what-are-the-characteristics-of-class-a-ipv4-addresses-including-their-prefix-and-address-range
 score: -1.0
 related_article1:
-    id: 165696
-    title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+    id: 165701
+    title: >-
+        Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
     subject: Computer Science
-    url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
+    url: /learn/computer-science/questions/explain-classless-interdomain-routing-cidr-and-its-purpose-in-ipv4-addressing
 related_article2:
+    id: 165698
+    title: >-
+        Describe the prefix and address range of Class B IPv4 addresses.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
+related_article3:
     id: 165702
-    title: How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
+    title: >-
+        How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-classless-ipv4-addressing-utilize-the-subnet-mask-and-what-is-its-current-usage-in-networks
-related_article3:
-    id: 165691
-    title: Why is the subnet mask important in determining the number of hosts in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-subnet-mask-important-in-determining-the-number-of-hosts-in-a-network
 related_article4:
-    id: 165700
-    title: What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
+    id: 165699
+    title: >-
+        What is the prefix and address range of Class C IPv4 addresses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
+    url: /learn/computer-science/questions/what-is-the-prefix-and-address-range-of-class-c-ipv4-addresses
 related_article5:
-    id: 165685
-    title: What is the dotted decimal format in IPv4 addressing, and how are octets represented?
+    id: 165699
+    title: >-
+        What is the prefix and address range of Class C IPv4 addresses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-dotted-decimal-format-in-ipv4-addressing-and-how-are-octets-represented
+    url: /learn/computer-science/questions/what-is-the-prefix-and-address-range-of-class-c-ipv4-addresses
 ---
 
 &nbsp;

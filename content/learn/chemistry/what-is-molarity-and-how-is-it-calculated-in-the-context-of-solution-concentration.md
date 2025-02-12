@@ -2,8 +2,10 @@
 _schema: default
 id: 166818
 date: 2025-01-31
-title: What is molarity, and how is it calculated in the context of solution concentration?
-article_title: What is molarity, and how is it calculated in the context of solution concentration?
+title: >-
+    What is molarity, and how is it calculated in the context of solution concentration?
+article_title: >-
+    What is molarity, and how is it calculated in the context of solution concentration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-
 url: /learn/chemistry/questions/what-is-molarity-and-how-is-it-calculated-in-the-context-of-solution-concentration
 score: -1.0
 related_article1:
+    id: 166822
+    title: >-
+        Compare the hydrogen ion concentration and pH values of pure water to other solutions.
+    subject: Chemistry
+    url: /learn/chemistry/questions/compare-the-hydrogen-ion-concentration-and-ph-values-of-pure-water-to-other-solutions
+related_article2:
+    id: 166821
+    title: >-
+        What distinguishes acidic solutions from basic solutions in terms of pH values?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
+related_article3:
     id: 166813
-    title: What is the process of auto-ionization of water and what ions are formed as a result?
+    title: >-
+        What is the process of auto-ionization of water and what ions are formed as a result?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-process-of-autoionization-of-water-and-what-ions-are-formed-as-a-result
-related_article2:
-    id: 166816
-    title: Describe the formation and characteristics of a hydroxide ion.
-    subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
-related_article3:
-    id: 166814
-    title: How is the auto-ionization of water represented chemically, and what role do covalent bonds play in this process?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-the-autoionization-of-water-represented-chemically-and-what-role-do-covalent-bonds-play-in-this-process
 related_article4:
-    id: 166816
-    title: Describe the formation and characteristics of a hydroxide ion.
+    id: 166821
+    title: >-
+        What distinguishes acidic solutions from basic solutions in terms of pH values?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-formation-and-characteristics-of-a-hydroxide-ion
-related_article5:
-    id: 166823
-    title: What are the common isotopes of hydrogen, and how do they differ in terms of proton and neutron presence?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-common-isotopes-of-hydrogen-and-how-do-they-differ-in-terms-of-proton-and-neutron-presence
+    url: /learn/chemistry/questions/what-distinguishes-acidic-solutions-from-basic-solutions-in-terms-of-ph-values
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161687
 date: 2025-01-24
-title: What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
-article_title: What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
+title: >-
+    What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
+article_title: >-
+    What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-and-examples-of-indirect-data-and-what-a
 url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-indirect-data-and-what-are-its-advantages-and-disadvantages
 score: -1.0
 related_article1:
-    id: 161490
-    title: How does data transform into information and why is context important in this process?
+    id: 161437
+    title: >-
+        What are the risks associated with data transmission, and how does encryption mitigate these risks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 related_article2:
-    id: 161704
-    title: What is data logging, and what methods and tools are used for it?
+    id: 161434
+    title: >-
+        Why is the age of information crucial, and what factors can affect how up-to-date information is?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-data-logging-and-what-methods-and-tools-are-used-for-it
+    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
 related_article3:
-    id: 161506
-    title: What is a parity check and what are its limitations in error detection?
+    id: 161691
+    title: >-
+        Why is the level of detail important in information, and what factors can affect it?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
+    url: /learn/computer-science/questions/why-is-the-level-of-detail-important-in-information-and-what-factors-can-affect-it
 related_article4:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161686
+    title: >-
+        What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article5:
-    id: 161429
-    title: What are the main characteristics of direct data, and what are its advantages and disadvantages?
+    id: 161696
+    title: >-
+        What are the characteristics of batch processing, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
 ---
 
 &nbsp;

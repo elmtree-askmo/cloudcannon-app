@@ -2,8 +2,10 @@
 _schema: default
 id: 165836
 date: 2025-01-29
-title: Identify common vectors of disease and explain their role in disease transmission.
-article_title: Identify common vectors of disease and explain their role in disease transmission.
+title: >-
+    Identify common vectors of disease and explain their role in disease transmission.
+article_title: >-
+    Identify common vectors of disease and explain their role in disease transmission.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-common-vectors-of-disease-and-explain-their-role-in-disease-
 url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
 score: -1.0
 related_article1:
-    id: 165855
-    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    id: 165831
+    title: >-
+        What public health measures are essential for the control and prevention of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
 related_article2:
-    id: 165832
-    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
 related_article3:
-    id: 165832
-    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 related_article4:
-    id: 165831
-    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    id: 165842
+    title: >-
+        Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
     subject: Psychology
-    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
 related_article5:
-    id: 165831
-    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
     subject: Psychology
-    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 ---
 
 &nbsp;

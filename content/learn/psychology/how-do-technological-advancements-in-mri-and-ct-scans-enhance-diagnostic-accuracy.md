@@ -2,8 +2,10 @@
 _schema: default
 id: 164669
 date: 2025-01-28
-title: How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
-article_title: How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+title: >-
+    How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
+article_title: >-
+    How do technological advancements in MRI and CT scans enhance diagnostic accuracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnos
 url: /learn/psychology/questions/how-do-technological-advancements-in-mri-and-ct-scans-enhance-diagnostic-accuracy
 score: -1.0
 related_article1:
-    id: 164659
-    title: What were some of the early observations that contributed to the development of neuropsychology?
+    id: 164666
+    title: >-
+        What are the primary risk factors for concussions in sports, and how are they assessed?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
+    url: /learn/psychology/questions/what-are-the-primary-risk-factors-for-concussions-in-sports-and-how-are-they-assessed
 related_article2:
-    id: 164664
-    title: How do patient studies contribute to research methodologies in cognitive neuroscience?
+    id: 164660
+    title: >-
+        How have ethical considerations influenced research on natural brain lesions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
+    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
 related_article3:
-    id: 164662
-    title: How does MRI technology contribute to the visualization of brain damage?
+    id: 164663
+    title: >-
+        What is the significance of mapping brain functions in understanding functional specialization?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
 related_article4:
-    id: 164664
-    title: How do patient studies contribute to research methodologies in cognitive neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
-related_article5:
     id: 164665
-    title: What are the key factors in assessing behavioral changes post-injury?
+    title: >-
+        What are the key factors in assessing behavioral changes post-injury?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+related_article5:
+    id: 164664
+    title: >-
+        How do patient studies contribute to research methodologies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-patient-studies-contribute-to-research-methodologies-in-cognitive-neuroscience
 ---
 
 &nbsp;

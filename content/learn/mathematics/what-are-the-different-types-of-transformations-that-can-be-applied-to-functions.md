@@ -2,8 +2,10 @@
 _schema: default
 id: 168397
 date: 2025-02-03
-title: What are the different types of transformations that can be applied to functions?
-article_title: What are the different types of transformations that can be applied to functions?
+title: >-
+    What are the different types of transformations that can be applied to functions?
+article_title: >-
+    What are the different types of transformations that can be applied to functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-transformations-that-can-be-applied-t
 url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 score: -1.0
 related_article1:
-    id: 168400
-    title: How can you identify opposite outputs in a table comparison for reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
-related_article2:
-    id: 168412
-    title: How do you plot points on the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
-related_article3:
-    id: 168419
-    title: What techniques are used for graphing functions by plotting points and drawing curves?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
-related_article4:
-    id: 168399
-    title: What is the graphical representation of a reflection about the x-axis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
-related_article5:
     id: 168403
-    title: What are parent functions, and can you give an example of a quadratic parent function?
+    title: >-
+        What are parent functions, and can you give an example of a quadratic parent function?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
+related_article2:
+    id: 168415
+    title: >-
+        What are the general rules for function transformations, including reflection?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+related_article3:
+    id: 168407
+    title: >-
+        How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
+related_article4:
+    id: 168416
+    title: >-
+        What are the specific rules for reflecting a function over the x-axis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+related_article5:
+    id: 168407
+    title: >-
+        How do you evaluate a function at a specific point using a graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
 ---
 
 &nbsp;

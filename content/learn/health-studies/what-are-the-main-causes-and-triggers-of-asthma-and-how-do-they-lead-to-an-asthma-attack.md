@@ -2,8 +2,10 @@
 _schema: default
 id: 168788
 date: 2025-02-04
-title: What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
-article_title: What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
+title: >-
+    What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
+article_title: >-
+    What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-as
 score: -1.0
 related_article1:
     id: 168785
-    title: Describe the structure and function of alveoli and explain how dust and smoking can impact them.
+    title: >-
+        Describe the structure and function of alveoli and explain how dust and smoking can impact them.
     subject: Health Studies
     url: /learn/health-studies/questions/describe-the-structure-and-function-of-alveoli-and-explain-how-dust-and-smoking-can-impact-them
 related_article2:
+    id: 168794
+    title: >-
+        What factors affect the ventilation rate and how do respiratory conditions influence oxygen intake and tidal volume?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-factors-affect-the-ventilation-rate-and-how-do-respiratory-conditions-influence-oxygen-intake-and-tidal-volume
+related_article3:
     id: 168783
-    title: What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
+    title: >-
+        What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-impact-of-scar-tissue-on-lung-elasticity-and-how-does-it-affect-tidal-volume
-related_article3:
-    id: 168785
-    title: Describe the structure and function of alveoli and explain how dust and smoking can impact them.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-alveoli-and-explain-how-dust-and-smoking-can-impact-them
 related_article4:
-    id: 168784
-    title: How does the thickness of the diffusion membrane affect gas exchange in the lungs?
+    id: 168789
+    title: >-
+        Describe the symptoms of asthma and discuss the role of inhalers in managing these symptoms.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-thickness-of-the-diffusion-membrane-affect-gas-exchange-in-the-lungs
+    url: /learn/health-studies/questions/describe-the-symptoms-of-asthma-and-discuss-the-role-of-inhalers-in-managing-these-symptoms
 related_article5:
     id: 168787
-    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    title: >-
+        Identify the common symptoms of Tuberculosis and explain how they affect the body.
     subject: Health Studies
     url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
 ---

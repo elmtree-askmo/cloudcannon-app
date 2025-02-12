@@ -2,8 +2,10 @@
 _schema: default
 id: 163677
 date: 2025-01-27
-title: What are the key characteristics of qualitative research paradigms?
-article_title: What are the key characteristics of qualitative research paradigms?
+title: >-
+    What are the key characteristics of qualitative research paradigms?
+article_title: >-
+    What are the key characteristics of qualitative research paradigms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-qualitative-research-paradigms.md
 url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
 score: -1.0
 related_article1:
-    id: 163689
-    title: What is the process of inductive reasoning, and how is it applied in qualitative research?
+    id: 163692
+    title: >-
+        How does objective knowledge contribute to quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
+    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 related_article2:
-    id: 163681
-    title: Why is research design important in the research process?
+    id: 163675
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 related_article3:
-    id: 163673
-    title: What is ontology, and why is it important in research?
+    id: 163691
+    title: >-
+        How does subjective knowledge contribute to qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
+    url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
 related_article4:
-    id: 163694
-    title: What is naturalism, and why is it important in qualitative research?
+    id: 163690
+    title: >-
+        What is the process of deductive reasoning, and how is it applied in quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/what-is-the-process-of-deductive-reasoning-and-how-is-it-applied-in-quantitative-research
 related_article5:
-    id: 163680
-    title: How is deductive reasoning used in quantitative research?
+    id: 163674
+    title: >-
+        How does positivism differ from social constructivism in terms of ontology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
+    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
 ---
 
 &nbsp;

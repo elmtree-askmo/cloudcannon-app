@@ -2,8 +2,10 @@
 _schema: default
 id: 165829
 date: 2025-01-29
-title: Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
-article_title: Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+title: >-
+    Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+article_title: >-
+    Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualis
 url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
 score: -1.0
 related_article1:
-    id: 165840
-    title: What are the clinical implications of identifying parasitic infections?
+    id: 165835
+    title: >-
+        Differentiate between definitive and intermediate hosts in the life cycles of parasites.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
 related_article2:
-    id: 165844
-    title: How have historical research models using nematodes contributed to the field of parasitology?
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
     subject: Psychology
-    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 related_article3:
-    id: 165851
-    title: Explain the ecological impact of microbial interactions in parasitology.
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-ecological-impact-of-microbial-interactions-in-parasitology
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 related_article4:
     id: 165856
-    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    title: >-
+        Explain the differences between sylvatic and urban cycles in zoonotic diseases.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
 related_article5:
-    id: 165848
-    title: Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 ---
 
 &nbsp;

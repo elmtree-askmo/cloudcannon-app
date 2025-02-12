@@ -2,8 +2,10 @@
 _schema: default
 id: 168616
 date: 2025-02-03
-title: How does perspective influence a personal narrative?
-article_title: How does perspective influence a personal narrative?
+title: >-
+    How does perspective influence a personal narrative?
+article_title: >-
+    How does perspective influence a personal narrative?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-perspective-influence-a-personal-narrative.md
 url: /learn/education-studies/questions/how-does-perspective-influence-a-personal-narrative
 score: -1.0
 related_article1:
-    id: 168620
-    title: How do metaphor and simile enhance narrative writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-metaphor-and-simile-enhance-narrative-writing
-related_article2:
     id: 168625
-    title: What is the purpose of a narrative, and how can it be effectively communicated?
+    title: >-
+        What is the purpose of a narrative, and how can it be effectively communicated?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-purpose-of-a-narrative-and-how-can-it-be-effectively-communicated
+related_article2:
+    id: 168613
+    title: >-
+        How can the organization of a narrative affect its overall impact?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-the-organization-of-a-narrative-affect-its-overall-impact
 related_article3:
-    id: 168617
-    title: What is the role of narrative voice in personal narratives?
+    id: 168625
+    title: >-
+        What is the purpose of a narrative, and how can it be effectively communicated?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-narrative-voice-in-personal-narratives
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-narrative-and-how-can-it-be-effectively-communicated
 related_article4:
-    id: 168627
-    title: How can interpretation and meaning be derived from a narrative?
+    id: 168626
+    title: >-
+        What are the key differences between personal narratives and narrative reports?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-interpretation-and-meaning-be-derived-from-a-narrative
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-personal-narratives-and-narrative-reports
 related_article5:
-    id: 168621
-    title: What is the effect of imagery and symbolism in a narrative?
+    id: 168611
+    title: >-
+        How does descriptive writing enhance a narrative?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-effect-of-imagery-and-symbolism-in-a-narrative
+    url: /learn/education-studies/questions/how-does-descriptive-writing-enhance-a-narrative
 ---
 
 &nbsp;

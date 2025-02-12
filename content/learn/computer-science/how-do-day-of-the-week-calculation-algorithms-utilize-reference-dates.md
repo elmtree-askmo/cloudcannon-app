@@ -2,8 +2,10 @@
 _schema: default
 id: 161032
 date: 2025-01-24
-title: How do day of the week calculation algorithms utilize reference dates?
-article_title: How do day of the week calculation algorithms utilize reference dates?
+title: >-
+    How do day of the week calculation algorithms utilize reference dates?
+article_title: >-
+    How do day of the week calculation algorithms utilize reference dates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
 url: /learn/computer-science/questions/how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
 score: -1.0
 related_article1:
-    id: 161027
-    title: What constraints must be considered for binary search to be effective?
+    id: 160783
+    title: >-
+        What is the difference between solvable and unsolvable problems in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
+    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
 related_article2:
-    id: 160764
-    title: What is the significance of understanding the origin of problems in computational problem solving?
+    id: 160867
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 related_article3:
-    id: 160769
-    title: How does testing differ from proving solutions in problem-solving?
+    id: 160706
+    title: >-
+        What is the role of Turing machines in the theoretical foundations of computability?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
+    url: /learn/computer-science/questions/what-is-the-role-of-turing-machines-in-the-theoretical-foundations-of-computability
 related_article4:
     id: 160790
-    title: What are the challenges in proving software solutions compared to testing them?
+    title: >-
+        What are the challenges in proving software solutions compared to testing them?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
 related_article5:
-    id: 160696
-    title: How does representation influence algorithm complexity?
+    id: 161012
+    title: >-
+        How does representation influence algorithm complexity?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
 ---

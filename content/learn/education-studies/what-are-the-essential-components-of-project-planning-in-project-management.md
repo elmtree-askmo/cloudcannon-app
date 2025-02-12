@@ -2,8 +2,10 @@
 _schema: default
 id: 165124
 date: 2025-01-28
-title: What are the essential components of project planning in project management?
-article_title: What are the essential components of project planning in project management?
+title: >-
+    What are the essential components of project planning in project management?
+article_title: >-
+    What are the essential components of project planning in project management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-essential-components-of-project-planning-in-project-mana
 url: /learn/education-studies/questions/what-are-the-essential-components-of-project-planning-in-project-management
 score: -1.0
 related_article1:
-    id: 165146
-    title: What is the distinction between causation and correlation in research?
+    id: 165125
+    title: >-
+        How can task management and progress tracking be effectively executed in project management?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
+    url: /learn/education-studies/questions/how-can-task-management-and-progress-tracking-be-effectively-executed-in-project-management
 related_article2:
-    id: 165149
-    title: Why is study replication important in research, and what challenges does it face?
+    id: 165145
+    title: >-
+        How do qualitative and quantitative research methodologies differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-study-replication-important-in-research-and-what-challenges-does-it-face
+    url: /learn/education-studies/questions/how-do-qualitative-and-quantitative-research-methodologies-differ
 related_article3:
-    id: 165128
-    title: What is simple randomization, and where is it typically applied?
+    id: 165148
+    title: >-
+        What are the types of measurement instruments used in research, and how is reliability assessed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
+    url: /learn/education-studies/questions/what-are-the-types-of-measurement-instruments-used-in-research-and-how-is-reliability-assessed
 related_article4:
-    id: 165143
-    title: What are the positive effects of video games on stress?
+    id: 165136
+    title: >-
+        How do placebo and active control groups differ in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-positive-effects-of-video-games-on-stress
+    url: /learn/education-studies/questions/how-do-placebo-and-active-control-groups-differ-in-research-studies
 related_article5:
-    id: 165137
-    title: What are the advantages of using a between-subjects design in research?
+    id: 165142
+    title: >-
+        How is cortisol measured in stress research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
+    url: /learn/education-studies/questions/how-is-cortisol-measured-in-stress-research
 ---
 
 &nbsp;

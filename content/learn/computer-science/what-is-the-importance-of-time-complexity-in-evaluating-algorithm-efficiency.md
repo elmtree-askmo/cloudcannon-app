@@ -2,8 +2,10 @@
 _schema: default
 id: 160702
 date: 2025-01-24
-title: What is the importance of time complexity in evaluating algorithm efficiency?
-article_title: What is the importance of time complexity in evaluating algorithm efficiency?
+title: >-
+    What is the importance of time complexity in evaluating algorithm efficiency?
+article_title: >-
+    What is the importance of time complexity in evaluating algorithm efficiency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-time-complexity-in-evaluating-algorithm-eff
 url: /learn/computer-science/questions/what-is-the-importance-of-time-complexity-in-evaluating-algorithm-efficiency
 score: -1.0
 related_article1:
-    id: 160691
-    title: What is the significance of understanding the origin of problems in computational problem solving?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
-related_article2:
-    id: 160694
-    title: Explain the separation of logic and control in algorithm development.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-separation-of-logic-and-control-in-algorithm-development
-related_article3:
-    id: 161009
-    title: What is the role of separating logic and control in algorithm development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-separating-logic-and-control-in-algorithm-development
-related_article4:
-    id: 161027
-    title: What constraints must be considered for binary search to be effective?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
-related_article5:
     id: 160863
-    title: How does representation influence algorithm complexity?
+    title: >-
+        How does representation influence algorithm complexity?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+related_article2:
+    id: 160776
+    title: >-
+        How does representation influence algorithm complexity?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+related_article3:
+    id: 160875
+    title: >-
+        What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar-and-how-is-abstraction-used-in-calendar-algorithms
+related_article4:
+    id: 161030
+    title: >-
+        How can constraints simplify algorithm design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
+related_article5:
+    id: 160790
+    title: >-
+        What are the challenges in proving software solutions compared to testing them?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
 ---
 
 &nbsp;

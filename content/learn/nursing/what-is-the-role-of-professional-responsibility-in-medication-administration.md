@@ -2,8 +2,10 @@
 _schema: default
 id: 169567
 date: 2025-02-05
-title: What is the role of professional responsibility in medication administration?
-article_title: What is the role of professional responsibility in medication administration?
+title: >-
+    What is the role of professional responsibility in medication administration?
+article_title: >-
+    What is the role of professional responsibility in medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-professional-responsibility-in-medication-adminis
 url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
 score: -1.0
 related_article1:
-    id: 169575
-    title: What are the different roles within a healthcare team, and how do they interact?
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
 related_article2:
-    id: 169579
-    title: What are the primary responsibilities of student nurses in patient care?
+    id: 169570
+    title: >-
+        How does supervision play a role in safe medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+    url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
 related_article3:
-    id: 169560
-    title: How should student nurses apply the NMC Code in their practice?
+    id: 169555
+    title: >-
+        What are the key principles of accountability in healthcare practice?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
 related_article4:
-    id: 169565
-    title: How is competence defined and assessed in healthcare?
+    id: 169557
+    title: >-
+        What is the duty of care, and how does it apply to various healthcare roles?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
 related_article5:
-    id: 169579
-    title: What are the primary responsibilities of student nurses in patient care?
+    id: 169559
+    title: >-
+        What is the NMC Code, and how does it apply to registered nurses?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 ---
 
 &nbsp;

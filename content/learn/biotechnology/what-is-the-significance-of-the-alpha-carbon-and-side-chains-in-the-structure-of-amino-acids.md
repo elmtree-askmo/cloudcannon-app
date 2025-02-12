@@ -2,8 +2,10 @@
 _schema: default
 id: 170964
 date: 2025-02-07
-title: What is the significance of the alpha carbon and side chains in the structure of amino acids?
-article_title: What is the significance of the alpha carbon and side chains in the structure of amino acids?
+title: >-
+    What is the significance of the alpha carbon and side chains in the structure of amino acids?
+article_title: >-
+    What is the significance of the alpha carbon and side chains in the structure of amino acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-alpha-carbon-and-side-chains-in-the-s
 url: /learn/biotechnology/questions/what-is-the-significance-of-the-alpha-carbon-and-side-chains-in-the-structure-of-amino-acids
 score: -1.0
 related_article1:
-    id: 170972
-    title: How does molecular modeling aid in predicting molecular interactions?
+    id: 170958
+    title: >-
+        What are the key characteristics of carbon-based organic molecules?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
 related_article2:
-    id: 170956
-    title: What are the main differences between light microscopy and electron microscopy?
+    id: 170959
+    title: >-
+        How do ionic and covalent bonds differ in terms of bond strength in an aqueous environment?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-main-differences-between-light-microscopy-and-electron-microscopy
+    url: /learn/biotechnology/questions/how-do-ionic-and-covalent-bonds-differ-in-terms-of-bond-strength-in-an-aqueous-environment
 related_article3:
-    id: 170957
-    title: How do excitation and emission filters function in fluorescence microscopy?
+    id: 170962
+    title: >-
+        What are the primary types of macromolecules, and what are their basic functions?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
+    url: /learn/biotechnology/questions/what-are-the-primary-types-of-macromolecules-and-what-are-their-basic-functions
 related_article4:
-    id: 170973
-    title: What is the importance of sequence specificity in the synthesis of biomolecules?
+    id: 170958
+    title: >-
+        What are the key characteristics of carbon-based organic molecules?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-importance-of-sequence-specificity-in-the-synthesis-of-biomolecules
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-of-carbonbased-organic-molecules
 related_article5:
-    id: 170966
-    title: What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    id: 170960
+    title: >-
+        What is the role of hydrogen bonds in molecular interactions?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
 ---
 
 &nbsp;

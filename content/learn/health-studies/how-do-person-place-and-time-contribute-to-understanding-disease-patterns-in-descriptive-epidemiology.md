@@ -2,8 +2,10 @@
 _schema: default
 id: 163309
 date: 2025-01-26
-title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
-article_title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+title: >-
+    How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+article_title: >-
+    How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-person-place-and-time-contribute-to-understanding-disease-patt
 url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 score: -1.0
 related_article1:
-    id: 163322
-    title: How can ecological fallacy affect the interpretation of ecological studies?
+    id: 162992
+    title: >-
+        How do positive and negative associations differ in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
+    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
 related_article2:
-    id: 163317
-    title: How do epidemiologic questions contribute to public health interventions?
+    id: 163311
+    title: >-
+        How are age-specific rates calculated and why are they important?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
+    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
 related_article3:
-    id: 162985
-    title: How do descriptive and analytic epidemiologic questions differ in their objectives?
+    id: 163319
+    title: >-
+        How does public health surveillance aid in identifying and responding to outbreaks?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
+    url: /learn/health-studies/questions/how-does-public-health-surveillance-aid-in-identifying-and-responding-to-outbreaks
 related_article4:
-    id: 163322
-    title: How can ecological fallacy affect the interpretation of ecological studies?
+    id: 163321
+    title: >-
+        What are the strengths and limitations of ecological studies in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
+    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
 related_article5:
-    id: 162981
-    title: How do age-specific rates differ from crude rates in epidemiology?
+    id: 163318
+    title: >-
+        What is the difference between an outbreak and an epidemic?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-agespecific-rates-differ-from-crude-rates-in-epidemiology
+    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167995
 date: 2025-02-02
-title: How does abstract thinking manifest in the formal operational stage?
-article_title: How does abstract thinking manifest in the formal operational stage?
+title: >-
+    How does abstract thinking manifest in the formal operational stage?
+article_title: >-
+    How does abstract thinking manifest in the formal operational stage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-abstract-thinking-manifest-in-the-formal-operational-stage.m
 url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
 score: -1.0
 related_article1:
-    id: 168003
-    title: How does deferred imitation challenge Piaget's theory?
+    id: 167996
+    title: >-
+        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
 related_article2:
-    id: 168008
-    title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    id: 168006
+    title: >-
+        What role do peers play in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+    url: /learn/psychology/questions/what-role-do-peers-play-in-cognitive-development
 related_article3:
     id: 167997
-    title: Explain propositional thought and its significance in the formal operational stage.
+    title: >-
+        Explain propositional thought and its significance in the formal operational stage.
     subject: Psychology
     url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
 related_article4:
-    id: 167999
-    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    id: 167996
+    title: >-
+        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
 related_article5:
-    id: 167999
-    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    id: 167997
+    title: >-
+        Explain propositional thought and its significance in the formal operational stage.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
 ---
 
 &nbsp;

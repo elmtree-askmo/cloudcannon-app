@@ -2,8 +2,10 @@
 _schema: default
 id: 170044
 date: 2025-02-05
-title: What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
-article_title: What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
+title: >-
+    What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
+article_title: >-
+    What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-defines-the-paleolithic-era-and-what-were-the-key-characteristic
 url: /learn/education-studies/questions/what-defines-the-paleolithic-era-and-what-were-the-key-characteristics-of-tool-technology-during-this-time
 score: -1.0
 related_article1:
-    id: 170050
-    title: How did ancient societies manage resources to ensure sustainability and environmental balance?
+    id: 170039
+    title: >-
+        Why are primary source documents important in historical assignments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-ancient-societies-manage-resources-to-ensure-sustainability-and-environmental-balance
+    url: /learn/education-studies/questions/why-are-primary-source-documents-important-in-historical-assignments
 related_article2:
-    id: 170041
-    title: How does Voice Thread technology enhance student engagement and facilitate discussion in class?
+    id: 170035
+    title: >-
+        What are the differences between online resources and print articles when citing sources in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-voice-thread-technology-enhance-student-engagement-and-facilitate-discussion-in-class
+    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
 related_article3:
-    id: 170037
-    title: What are some effective techniques for paraphrasing to avoid direct copying?
+    id: 170051
+    title: >-
+        What contributions did women make to food production and child-rearing in ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-paraphrasing-to-avoid-direct-copying
+    url: /learn/education-studies/questions/what-contributions-did-women-make-to-food-production-and-childrearing-in-ancient-societies
 related_article4:
-    id: 170047
-    title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+    id: 170048
+    title: >-
+        What factors influenced population density in pre-agricultural societies, and how did these change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
 related_article5:
-    id: 170040
-    title: What is the difference between quoting and paraphrasing when engaging with primary source documents?
+    id: 170053
+    title: >-
+        What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
+    url: /learn/education-studies/questions/what-were-the-environmental-impacts-of-resource-use-in-ancient-societies-and-how-do-they-compare-to-modern-practices
 ---
 
 &nbsp;

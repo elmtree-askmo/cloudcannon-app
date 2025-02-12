@@ -2,8 +2,10 @@
 _schema: default
 id: 166906
 date: 2025-01-31
-title: How can distractions from cell phone use during lectures be reduced to promote focus?
-article_title: How can distractions from cell phone use during lectures be reduced to promote focus?
+title: >-
+    How can distractions from cell phone use during lectures be reduced to promote focus?
+article_title: >-
+    How can distractions from cell phone use during lectures be reduced to promote focus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-can-distractions-from-cell-phone-use-during-lectures-be-reduced-t
 url: /learn/education-studies/questions/how-can-distractions-from-cell-phone-use-during-lectures-be-reduced-to-promote-focus
 score: -1.0
 related_article1:
-    id: 166905
-    title: What are the negative impacts of cell phone use during lectures on student grades?
+    id: 166902
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-negative-impacts-of-cell-phone-use-during-lectures-on-student-grades
+    url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
 related_article2:
-    id: 166905
-    title: What are the negative impacts of cell phone use during lectures on student grades?
+    id: 166902
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-negative-impacts-of-cell-phone-use-during-lectures-on-student-grades
+    url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
 related_article3:
-    id: 166895
-    title: What are the key components of a graph and why are they important for data interpretation?
+    id: 166898
+    title: >-
+        How do learning objectives guide student study practices and enhance understanding?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-graph-and-why-are-they-important-for-data-interpretation
+    url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
 related_article4:
-    id: 166904
-    title: What strategies can be implemented to improve student attendance in lectures?
+    id: 166896
+    title: >-
+        How can trend analysis be used to interpret data effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-implemented-to-improve-student-attendance-in-lectures
-related_article5:
-    id: 166901
-    title: What are the principles of active learning and how do they engage students in meaningful activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
+    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
 ---
 
 &nbsp;

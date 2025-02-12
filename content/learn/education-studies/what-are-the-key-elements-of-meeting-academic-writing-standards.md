@@ -2,8 +2,10 @@
 _schema: default
 id: 168871
 date: 2025-02-04
-title: What are the key elements of meeting academic writing standards?
-article_title: What are the key elements of meeting academic writing standards?
+title: >-
+    What are the key elements of meeting academic writing standards?
+article_title: >-
+    What are the key elements of meeting academic writing standards?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-elements-of-meeting-academic-writing-standards.md
 url: /learn/education-studies/questions/what-are-the-key-elements-of-meeting-academic-writing-standards
 score: -1.0
 related_article1:
-    id: 168858
-    title: What are the key purposes of oral exams and how do they measure a student's abilities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-purposes-of-oral-exams-and-how-do-they-measure-a-students-abilities
-related_article2:
     id: 168867
-    title: How does slow thinking benefit essay writing compared to fast thinking?
+    title: >-
+        How does slow thinking benefit essay writing compared to fast thinking?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
+related_article2:
+    id: 168869
+    title: >-
+        How do strong introductions and conclusions impact the grading of an essay?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-strong-introductions-and-conclusions-impact-the-grading-of-an-essay
 related_article3:
-    id: 168874
-    title: In what ways can AI tools enhance writing skills?
+    id: 168859
+    title: >-
+        How can practicing with peers help in preparing for oral exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-ai-tools-enhance-writing-skills
+    url: /learn/education-studies/questions/how-can-practicing-with-peers-help-in-preparing-for-oral-exams
 related_article4:
-    id: 168860
-    title: What strategies can be used to handle unexpected questions during an interview?
+    id: 168869
+    title: >-
+        How do strong introductions and conclusions impact the grading of an essay?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-unexpected-questions-during-an-interview
+    url: /learn/education-studies/questions/how-do-strong-introductions-and-conclusions-impact-the-grading-of-an-essay
 related_article5:
-    id: 168874
-    title: In what ways can AI tools enhance writing skills?
+    id: 168867
+    title: >-
+        How does slow thinking benefit essay writing compared to fast thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-ai-tools-enhance-writing-skills
+    url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
 ---
 
 &nbsp;

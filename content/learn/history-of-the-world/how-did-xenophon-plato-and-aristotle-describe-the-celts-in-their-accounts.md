@@ -2,8 +2,10 @@
 _schema: default
 id: 160379
 date: 2025-01-24
-title: How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
-article_title: How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
+title: >-
+    How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
+article_title: >-
+    How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-acco
 url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
 score: 8.5
 related_article1:
-    id: 160257
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    id: 159914
+    title: >-
+        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
 related_article2:
-    id: 159868
-    title: What are the defining decorative styles of La Tène Culture?
+    id: 159905
+    title: >-
+        What are the distinctive pottery styles associated with the Beaker People and Corded Ware People?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
+    url: /learn/history-of-the-world/questions/what-are-the-distinctive-pottery-styles-associated-with-the-beaker-people-and-corded-ware-people
 related_article3:
-    id: 159888
-    title: What are the key features of Celtic metalwork and jewelry?
+    id: 159917
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
+    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
 related_article4:
-    id: 160378
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 159920
+    title: >-
+        How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 related_article5:
-    id: 160257
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    id: 160371
+    title: >-
+        How did the burial practices of the Beaker People and Corded Ware People differ from other contemporary cultures?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-differ-from-other-contemporary-cultures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169103
 date: 2025-02-04
-title: How does critical theory apply to military practice in the context of ethical implications?
-article_title: How does critical theory apply to military practice in the context of ethical implications?
+title: >-
+    How does critical theory apply to military practice in the context of ethical implications?
+article_title: >-
+    How does critical theory apply to military practice in the context of ethical implications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-critical-theory-apply-to-military-practice-in-the-context-of
 url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
 score: 8.5
 related_article1:
-    id: 169104
-    title: What challenges do military training and education face in institutional conflicts?
+    id: 169085
+    title: >-
+        What role does spatial reinterpretation play in urban combat strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
+    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
 related_article2:
-    id: 169099
-    title: How does urban infrastructure analysis contribute to urban combat strategies?
+    id: 169094
+    title: >-
+        What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
 related_article3:
-    id: 169087
-    title: Describe the relationship between military architecture and the architectural impact of conflict.
+    id: 169083
+    title: >-
+        How do swarming tactics differ from traditional military tactics in urban warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
 related_article4:
-    id: 169084
-    title: Explain the concept of 'walking through walls' in urban combat strategies.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
-related_article5:
     id: 169104
-    title: What challenges do military training and education face in institutional conflicts?
+    title: >-
+        What challenges do military training and education face in institutional conflicts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
+related_article5:
+    id: 169082
+    title: >-
+        What are the key components of inverse geometry in urban warfare tactical maneuvers?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
 ---
 
 &nbsp;

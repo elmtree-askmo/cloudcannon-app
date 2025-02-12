@@ -2,8 +2,10 @@
 _schema: default
 id: 165759
 date: 2025-01-29
-title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
-article_title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+title: >-
+    What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+article_title: >-
+    What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-addre
 url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
 score: -1.0
 related_article1:
-    id: 165741
-    title: What is the purpose of using a double colon in IPv6 address notation?
+    id: 165751
+    title: >-
+        Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
 related_article2:
-    id: 165763
-    title: When is the double colon notation used in IPv6 addresses, and what is its limitation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
-related_article3:
-    id: 165745
-    title: What are the components of the structure of a Global Unicast Address (GUA)?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
-related_article4:
     id: 165746
-    title: What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+    title: >-
+        What is the primary purpose of a Link-Local Address (LLA) in IPv6?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
-related_article5:
-    id: 165741
-    title: What is the purpose of using a double colon in IPv6 address notation?
+related_article3:
+    id: 165747
+    title: >-
+        How is a Link-Local Address (LLA) automatically created in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
+    url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
+related_article4:
+    id: 165738
+    title: >-
+        What are the primary reasons for the transition from IPv4 to IPv6?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-reasons-for-the-transition-from-ipv4-to-ipv6
+related_article5:
+    id: 165740
+    title: >-
+        How is an IPv6 address represented in terms of length and notation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
 ---
 
 &nbsp;

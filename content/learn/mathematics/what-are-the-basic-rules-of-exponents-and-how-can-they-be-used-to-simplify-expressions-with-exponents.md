@@ -2,8 +2,10 @@
 _schema: default
 id: 168278
 date: 2025-02-03
-title: What are the basic rules of exponents, and how can they be used to simplify expressions with exponents?
-article_title: What are the basic rules of exponents, and how can they be used to simplify expressions with exponents?
+title: >-
+    What are the basic rules of exponents, and how can they be used to simplify expressions with exponents?
+article_title: >-
+    What are the basic rules of exponents, and how can they be used to simplify expressions with exponents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-basic-rules-of-exponents-and-how-can-they-be-used-to-sim
 url: /learn/mathematics/questions/what-are-the-basic-rules-of-exponents-and-how-can-they-be-used-to-simplify-expressions-with-exponents
 score: -1.0
 related_article1:
-    id: 168277
-    title: What are some common polynomial identities, and how can they be used in factoring?
+    id: 168272
+    title: >-
+        How can you simplify a polynomial expression?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-polynomial-identities-and-how-can-they-be-used-in-factoring
+    url: /learn/mathematics/questions/how-can-you-simplify-a-polynomial-expression
 related_article2:
-    id: 168271
-    title: What defines a prime number, and how can you identify prime numbers within polynomial expressions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-defines-a-prime-number-and-how-can-you-identify-prime-numbers-within-polynomial-expressions
-related_article3:
-    id: 168276
-    title: What is the A.C method for factoring, and how is it applied to quadratic equations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-ac-method-for-factoring-and-how-is-it-applied-to-quadratic-equations
-related_article4:
-    id: 168271
-    title: What defines a prime number, and how can you identify prime numbers within polynomial expressions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-defines-a-prime-number-and-how-can-you-identify-prime-numbers-within-polynomial-expressions
-related_article5:
     id: 168273
-    title: What is the formula for the difference of squares, and how is it applied in factoring?
+    title: >-
+        What is the formula for the difference of squares, and how is it applied in factoring?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-formula-for-the-difference-of-squares-and-how-is-it-applied-in-factoring
+related_article3:
+    id: 168271
+    title: >-
+        What defines a prime number, and how can you identify prime numbers within polynomial expressions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-defines-a-prime-number-and-how-can-you-identify-prime-numbers-within-polynomial-expressions
+related_article4:
+    id: 168275
+    title: >-
+        What is the standard form of a quadratic equation, and how can it be solved by factoring?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-equation-and-how-can-it-be-solved-by-factoring
+related_article5:
+    id: 168269
+    title: >-
+        What is the process of expressing a polynomial as a product of its factors?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-process-of-expressing-a-polynomial-as-a-product-of-its-factors
 ---
 
 &nbsp;

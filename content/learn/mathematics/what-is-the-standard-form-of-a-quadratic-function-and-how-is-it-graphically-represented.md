@@ -2,8 +2,10 @@
 _schema: default
 id: 168413
 date: 2025-02-03
-title: What is the standard form of a quadratic function, and how is it graphically represented?
-article_title: What is the standard form of a quadratic function, and how is it graphically represented?
+title: >-
+    What is the standard form of a quadratic function, and how is it graphically represented?
+article_title: >-
+    What is the standard form of a quadratic function, and how is it graphically represented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-funct
 score: -1.0
 related_article1:
     id: 168411
-    title: What is the mathematical explanation for opposite outputs in function reflections?
+    title: >-
+        What is the mathematical explanation for opposite outputs in function reflections?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-mathematical-explanation-for-opposite-outputs-in-function-reflections
 related_article2:
-    id: 168406
-    title: What is the role of input-output tables in evaluating function models?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
-related_article3:
     id: 168403
-    title: What are parent functions, and can you give an example of a quadratic parent function?
+    title: >-
+        What are parent functions, and can you give an example of a quadratic parent function?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
+related_article3:
+    id: 168398
+    title: >-
+        How does a reflection over the x-axis affect the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
 related_article4:
-    id: 168417
-    title: What are the mathematical properties of reflections that result in opposite y-values?
+    id: 168408
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
 related_article5:
-    id: 168404
-    title: How does a vertical reflection transform a parent function?
+    id: 168400
+    title: >-
+        How can you identify opposite outputs in a table comparison for reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
+    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
 ---
 
 &nbsp;

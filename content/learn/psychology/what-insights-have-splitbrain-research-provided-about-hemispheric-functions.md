@@ -2,8 +2,10 @@
 _schema: default
 id: 170581
 date: 2025-02-06
-title: What insights have split-brain research provided about hemispheric functions?
-article_title: What insights have split-brain research provided about hemispheric functions?
+title: >-
+    What insights have split-brain research provided about hemispheric functions?
+article_title: >-
+    What insights have split-brain research provided about hemispheric functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-insights-have-splitbrain-research-provided-about-hemispheric-fun
 url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
 score: -1.0
 related_article1:
-    id: 170595
-    title: What role does the epithalamus play in regulating the circadian rhythm?
+    id: 170596
+    title: >-
+        How does modern technology impact the sleep-wake cycle and internal clock regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
+    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
 related_article2:
+    id: 170593
+    title: >-
+        What are the potential causes and effects of brain damage from trauma and stroke?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-potential-causes-and-effects-of-brain-damage-from-trauma-and-stroke
+related_article3:
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
+related_article4:
+    id: 170578
+    title: >-
+        How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+related_article5:
     id: 170592
-    title: How do materialistic perspectives explain consciousness?
+    title: >-
+        How do materialistic perspectives explain consciousness?
     subject: Psychology
     url: /learn/psychology/questions/how-do-materialistic-perspectives-explain-consciousness
-related_article3:
-    id: 170583
-    title: What is the role of the limbic system in emotional processing and PTSD?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
-related_article4:
-    id: 170595
-    title: What role does the epithalamus play in regulating the circadian rhythm?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
-related_article5:
-    id: 170589
-    title: What is the role of serotonin in mood regulation and behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169330
 date: 2025-02-05
-title: What are some common behavior shaping techniques and how are they selected?
-article_title: What are some common behavior shaping techniques and how are they selected?
+title: >-
+    What are some common behavior shaping techniques and how are they selected?
+article_title: >-
+    What are some common behavior shaping techniques and how are they selected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-behavior-shaping-techniques-and-how-are-they-sel
 url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
 score: -1.0
 related_article1:
-    id: 169314
-    title: What is differential reinforcement and what is its primary purpose?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
-related_article2:
-    id: 169317
-    title: How is frequency measured in behavior tracking and why is it important?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
-related_article3:
     id: 169323
-    title: What is positive reinforcement and how does it aid in behavior shaping?
+    title: >-
+        What is positive reinforcement and how does it aid in behavior shaping?
     subject: Psychology
     url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
+related_article2:
+    id: 169322
+    title: >-
+        How are behavior change procedures implemented and monitored?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+related_article3:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 related_article4:
-    id: 169313
-    title: What are the key steps involved in the shaping process?
+    id: 169326
+    title: >-
+        What are the steps involved in skill acquisition and how does reinforcement play a role?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-steps-involved-in-the-shaping-process
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
 related_article5:
-    id: 169324
-    title: What is extinction in behavior modification and what effect does it have on behavior?
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 ---
 
 &nbsp;

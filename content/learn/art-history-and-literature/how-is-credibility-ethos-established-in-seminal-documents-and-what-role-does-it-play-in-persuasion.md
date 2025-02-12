@@ -2,8 +2,10 @@
 _schema: default
 id: 168577
 date: 2025-02-03
-title: How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
-article_title: How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
+title: >-
+    How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
+article_title: >-
+    How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-credibility-ethos-established-in-seminal-documents-and-what-ro
 url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 score: 9.0
 related_article1:
-    id: 168569
-    title: In what ways is the theme of freedom represented in seminal documents?
+    id: 168571
+    title: >-
+        What are the legal and social perspectives of justice as depicted in seminal texts?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-the-theme-of-freedom-represented-in-seminal-documents
+    url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
 related_article2:
-    id: 168586
-    title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+    id: 168568
+    title: >-
+        How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
 related_article3:
-    id: 168581
-    title: What role have seminal documents played in shaping civil rights movements?
+    id: 168582
+    title: >-
+        How are American ideals represented in seminal texts, and how have they evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-have-seminal-documents-played-in-shaping-civil-rights-movements
+    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
 related_article4:
     id: 168566
-    title: How have seminal documents influenced American culture?
+    title: >-
+        How have seminal documents influenced American culture?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 related_article5:
-    id: 168586
-    title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+    id: 168566
+    title: >-
+        How have seminal documents influenced American culture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 ---
 
 &nbsp;

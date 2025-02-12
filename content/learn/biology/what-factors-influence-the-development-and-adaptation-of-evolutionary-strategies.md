@@ -2,8 +2,10 @@
 _schema: default
 id: 170808
 date: 2025-02-07
-title: What factors influence the development and adaptation of evolutionary strategies?
-article_title: What factors influence the development and adaptation of evolutionary strategies?
+title: >-
+    What factors influence the development and adaptation of evolutionary strategies?
+article_title: >-
+    What factors influence the development and adaptation of evolutionary strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-the-development-and-adaptation-of-evolutionary
 url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
 score: -1.0
 related_article1:
-    id: 170795
-    title: What is the significance of equilibrium analysis in the context of a payoff matrix?
+    id: 170806
+    title: >-
+        What role does phenotypic variation play in evolutionary strategies?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
 related_article2:
-    id: 170804
-    title: What is equilibrium frequency and why is it important in evolutionary biology?
+    id: 170796
+    title: >-
+        How does the frequency of a strategy impact fitness dynamics?
     subject: Biology
-    url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
+    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
 related_article3:
-    id: 170797
-    title: What is meant by equilibrium frequency in the context of fitness dynamics?
-    subject: Biology
-    url: /learn/biology/questions/what-is-meant-by-equilibrium-frequency-in-the-context-of-fitness-dynamics
-related_article4:
     id: 170801
-    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    title: >-
+        How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
     subject: Biology
     url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
-related_article5:
-    id: 170802
-    title: What role do population dynamics play in the interaction of strategies?
+related_article4:
+    id: 170796
+    title: >-
+        How does the frequency of a strategy impact fitness dynamics?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
+related_article5:
+    id: 170794
+    title: >-
+        Describe the structure of a payoff matrix and its components in evolutionary games.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-a-payoff-matrix-and-its-components-in-evolutionary-games
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164079
 date: 2025-01-28
-title: What are the benefits of data-driven personalized care in mental health?
-article_title: What are the benefits of data-driven personalized care in mental health?
+title: >-
+    What are the benefits of data-driven personalized care in mental health?
+article_title: >-
+    What are the benefits of data-driven personalized care in mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-datadriven-personalized-care-in-mental-healt
 url: /learn/psychology/questions/what-are-the-benefits-of-datadriven-personalized-care-in-mental-health
 score: -1.0
 related_article1:
+    id: 164075
+    title: >-
+        How do lack of empathy and reward-oriented behavior manifest in individuals with conduct disorder or psychopathy?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-lack-of-empathy-and-rewardoriented-behavior-manifest-in-individuals-with-conduct-disorder-or-psychopathy
+related_article2:
+    id: 164076
+    title: >-
+        What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
+related_article3:
     id: 164072
-    title: How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    title: >-
+        How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
     subject: Psychology
     url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
-related_article2:
-    id: 164074
-    title: What are the core symptoms of conduct disorder and psychopathy?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-and-psychopathy
-related_article3:
-    id: 164071
-    title: What challenges does the reproducibility crisis pose to research on antisociality?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
 related_article4:
-    id: 164081
-    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    id: 164072
+    title: >-
+        How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
 related_article5:
-    id: 164071
-    title: What challenges does the reproducibility crisis pose to research on antisociality?
+    id: 164086
+    title: >-
+        What are the potential benefits of early detection and tailored prevention in reducing the burden on families and society?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
+    url: /learn/psychology/questions/what-are-the-potential-benefits-of-early-detection-and-tailored-prevention-in-reducing-the-burden-on-families-and-society
 ---
 
 &nbsp;

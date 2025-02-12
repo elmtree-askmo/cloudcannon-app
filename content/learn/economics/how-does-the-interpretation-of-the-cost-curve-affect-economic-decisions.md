@@ -2,8 +2,10 @@
 _schema: default
 id: 170854
 date: 2025-02-07
-title: How does the interpretation of the cost curve affect economic decisions?
-article_title: How does the interpretation of the cost curve affect economic decisions?
+title: >-
+    How does the interpretation of the cost curve affect economic decisions?
+article_title: >-
+    How does the interpretation of the cost curve affect economic decisions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-interpretation-of-the-cost-curve-affect-economic-decisio
 url: /learn/economics/questions/how-does-the-interpretation-of-the-cost-curve-affect-economic-decisions
 score: -1.0
 related_article1:
-    id: 170861
-    title: What strategies can be used to maximize benefits and what challenges might arise?
+    id: 170860
+    title: >-
+        How does central prices theory impact pricing strategies in economics?
     subject: Economics
-    url: /learn/economics/questions/what-strategies-can-be-used-to-maximize-benefits-and-what-challenges-might-arise
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
 related_article2:
+    id: 170862
+    title: >-
+        Why is graphical representation important in understanding economic concepts?
+    subject: Economics
+    url: /learn/economics/questions/why-is-graphical-representation-important-in-understanding-economic-concepts
+related_article3:
     id: 170848
-    title: Explain the role of cost-benefit analysis in economic decision making and its impact on resource allocation.
+    title: >-
+        Explain the role of cost-benefit analysis in economic decision making and its impact on resource allocation.
     subject: Economics
     url: /learn/economics/questions/explain-the-role-of-costbenefit-analysis-in-economic-decision-making-and-its-impact-on-resource-allocation
-related_article3:
-    id: 170847
-    title: How do you identify costs and benefits in a cost-benefit analysis?
-    subject: Economics
-    url: /learn/economics/questions/how-do-you-identify-costs-and-benefits-in-a-costbenefit-analysis
 related_article4:
     id: 170864
-    title: Define optimal quality determination and its importance in economic decision making.
+    title: >-
+        Define optimal quality determination and its importance in economic decision making.
     subject: Economics
     url: /learn/economics/questions/define-optimal-quality-determination-and-its-importance-in-economic-decision-making
 related_article5:
-    id: 170862
-    title: Why is graphical representation important in understanding economic concepts?
+    id: 170849
+    title: >-
+        What is the optimal scourging theory and how does it relate to cost-benefit analysis?
     subject: Economics
-    url: /learn/economics/questions/why-is-graphical-representation-important-in-understanding-economic-concepts
+    url: /learn/economics/questions/what-is-the-optimal-scourging-theory-and-how-does-it-relate-to-costbenefit-analysis
 ---
 
 &nbsp;

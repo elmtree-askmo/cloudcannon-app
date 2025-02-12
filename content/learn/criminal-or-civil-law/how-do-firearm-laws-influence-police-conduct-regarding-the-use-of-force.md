@@ -2,8 +2,10 @@
 _schema: default
 id: 162184
 date: 2025-01-25
-title: How do firearm laws influence police conduct regarding the use of force?
-article_title: How do firearm laws influence police conduct regarding the use of force?
+title: >-
+    How do firearm laws influence police conduct regarding the use of force?
+article_title: >-
+    How do firearm laws influence police conduct regarding the use of force?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-for
 url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
 score: -1.0
 related_article1:
-    id: 162197
-    title: What are the foreseeable risks associated with organizing events in terms of event liability?
+    id: 162180
+    title: >-
+        Define fraudulent intent and its role in criminal offenses.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-foreseeable-risks-associated-with-organizing-events-in-terms-of-event-liability
+    url: /learn/criminal-or-civil-law/questions/define-fraudulent-intent-and-its-role-in-criminal-offenses
 related_article2:
-    id: 162168
-    title: How does antisocial behavior relate to assaultive behavior and its consequences?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-consequences
-related_article3:
     id: 162199
-    title: How do social norms influence moral blameworthiness in legal contexts?
+    title: >-
+        How do social norms influence moral blameworthiness in legal contexts?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-social-norms-influence-moral-blameworthiness-in-legal-contexts
+related_article3:
+    id: 162166
+    title: >-
+        What are the key medical indicators used to determine the cause of death?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-medical-indicators-used-to-determine-the-cause-of-death
 related_article4:
-    id: 162190
-    title: Explain the concept of willful blindness in the context of possession laws.
+    id: 162166
+    title: >-
+        What are the key medical indicators used to determine the cause of death?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-medical-indicators-used-to-determine-the-cause-of-death
 related_article5:
-    id: 162197
-    title: What are the foreseeable risks associated with organizing events in terms of event liability?
+    id: 162203
+    title: >-
+        In what ways does moral blameworthiness impact sentencing and legal proceedings?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-foreseeable-risks-associated-with-organizing-events-in-terms-of-event-liability
+    url: /learn/criminal-or-civil-law/questions/in-what-ways-does-moral-blameworthiness-impact-sentencing-and-legal-proceedings
 ---
 
 &nbsp;

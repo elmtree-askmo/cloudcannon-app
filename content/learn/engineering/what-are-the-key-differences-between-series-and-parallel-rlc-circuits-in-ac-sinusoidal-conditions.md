@@ -2,8 +2,10 @@
 _schema: default
 id: 169848
 date: 2025-02-05
-title: What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
-article_title: What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
+title: >-
+    What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
+article_title: >-
+    What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-series-and-parallel-rlc-circuits
 url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
 score: -1.0
 related_article1:
-    id: 169862
-    title: What is the difference between active and reactive power in AC circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-active-and-reactive-power-in-ac-circuits
-related_article2:
-    id: 169847
-    title: Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
-    subject: Engineering
-    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
-related_article3:
-    id: 169851
-    title: How do Kirchhoff's laws assist in the analysis of electrical circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
-related_article4:
-    id: 169863
-    title: How is the capacitor value calculated for power factor correction in AC circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
-related_article5:
     id: 169850
-    title: What is the difference between a node and a loop in circuit analysis?
+    title: >-
+        What is the difference between a node and a loop in circuit analysis?
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
+related_article2:
+    id: 169849
+    title: >-
+        Define a bipole and explain its role in an electrical circuit.
+    subject: Engineering
+    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+related_article3:
+    id: 169855
+    title: >-
+        What is the difference between series and parallel association of electrical bipoles?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+related_article4:
+    id: 169853
+    title: >-
+        Explain the concept of active and reactive power in electrical circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
+related_article5:
+    id: 169863
+    title: >-
+        How is the capacitor value calculated for power factor correction in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
 ---
 
 &nbsp;

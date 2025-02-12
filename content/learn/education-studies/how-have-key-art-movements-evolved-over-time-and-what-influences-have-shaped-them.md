@@ -2,8 +2,10 @@
 _schema: default
 id: 166532
 date: 2025-01-30
-title: How have key art movements evolved over time, and what influences have shaped them?
-article_title: How have key art movements evolved over time, and what influences have shaped them?
+title: >-
+    How have key art movements evolved over time, and what influences have shaped them?
+article_title: >-
+    How have key art movements evolved over time, and what influences have shaped them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-key-art-movements-evolved-over-time-and-what-influences-have
 url: /learn/education-studies/questions/how-have-key-art-movements-evolved-over-time-and-what-influences-have-shaped-them
 score: -1.0
 related_article1:
-    id: 166522
-    title: What are the defining characteristics of Realism, and how did it emerge as a response to its historical context?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-realism-and-how-did-it-emerge-as-a-response-to-its-historical-context
-related_article2:
     id: 166528
-    title: What is the role of the artist in expressing artistic intention and subject matter?
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
+related_article2:
+    id: 166523
+    title: >-
+        How do Realism artists convey their influences through their notable works?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
 related_article3:
-    id: 166514
-    title: What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
+    id: 166528
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-modern-art-and-how-do-they-differ-from-previous-art-movements
+    url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 related_article4:
-    id: 166533
-    title: In what ways does art serve as a form of social and political commentary?
+    id: 166528
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-does-art-serve-as-a-form-of-social-and-political-commentary
+    url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 related_article5:
-    id: 166516
-    title: What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
+    id: 166525
+    title: >-
+        How does historical context influence art interpretation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
+    url: /learn/education-studies/questions/how-does-historical-context-influence-art-interpretation
 ---
 
 &nbsp;

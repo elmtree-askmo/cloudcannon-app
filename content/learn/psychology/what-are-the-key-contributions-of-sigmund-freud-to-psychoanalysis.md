@@ -2,8 +2,10 @@
 _schema: default
 id: 170012
 date: 2025-02-05
-title: What are the key contributions of Sigmund Freud to Psychoanalysis?
-article_title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+title: >-
+    What are the key contributions of Sigmund Freud to Psychoanalysis?
+article_title: >-
+    What are the key contributions of Sigmund Freud to Psychoanalysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis.md
 url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
 score: -1.0
 related_article1:
-    id: 170013
-    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    id: 170027
+    title: >-
+        How does Maslow's Hierarchy of Needs define self-actualization?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
 related_article2:
-    id: 170011
-    title: How does Behaviorism explain the influence of the environment on behavior?
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
 related_article3:
-    id: 170016
-    title: How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    id: 170028
+    title: >-
+        What are the ethical considerations in experimental psychology research methods?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
 related_article4:
-    id: 170025
-    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
-    subject: Psychology
-    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
-related_article5:
     id: 170019
-    title: How have modern interpretations criticized Freud's developmental stages?
+    title: >-
+        How have modern interpretations criticized Freud's developmental stages?
     subject: Psychology
     url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article5:
+    id: 170029
+    title: >-
+        How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
 ---
 
 &nbsp;

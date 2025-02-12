@@ -2,8 +2,10 @@
 _schema: default
 id: 162350
 date: 2025-01-25
-title: How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
-article_title: How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
+title: >-
+    How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
+article_title: >-
+    How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-canada-contribute-to-global-health-discussions-through-the-wo
 url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
 score: -1.0
 related_article1:
-    id: 162340
-    title: What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
+    id: 162339
+    title: >-
+        How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
+    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
 related_article2:
-    id: 162347
-    title: What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
-related_article3:
-    id: 162336
-    title: What were the key nutrition initiatives and food safety programs expanded during World War II?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
-related_article4:
     id: 162334
-    title: How did the Great Depression affect public health funding and services in the 1930s?
+    title: >-
+        How did the Great Depression affect public health funding and services in the 1930s?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
-related_article5:
-    id: 162316
-    title: What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
+related_article3:
+    id: 162321
+    title: >-
+        How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-before-1867-and-how-did-they-address-cholera-outbreaks
+    url: /learn/health-studies/questions/how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-the-establishment-of-the-canadian-public-health-association
+related_article4:
+    id: 162345
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
+related_article5:
+    id: 162348
+    title: >-
+        How did the 1985 Non-Smokers Health Act address smoking prohibition in federal buildings and workplaces?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-the-1985-nonsmokers-health-act-address-smoking-prohibition-in-federal-buildings-and-workplaces
 ---
 
 &nbsp;

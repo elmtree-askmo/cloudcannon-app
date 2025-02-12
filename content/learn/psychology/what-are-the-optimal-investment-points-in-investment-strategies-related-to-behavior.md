@@ -2,8 +2,10 @@
 _schema: default
 id: 170887
 date: 2025-02-07
-title: What are the optimal investment points in investment strategies related to behavior?
-article_title: What are the optimal investment points in investment strategies related to behavior?
+title: >-
+    What are the optimal investment points in investment strategies related to behavior?
+article_title: >-
+    What are the optimal investment points in investment strategies related to behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-optimal-investment-points-in-investment-strategies-relat
 url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
 score: -1.0
 related_article1:
+    id: 170886
+    title: >-
+        Explain the concept of the law of diminishing returns in the context of behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article2:
     id: 170892
-    title: How do mathematical models contribute to optimization in biological systems?
+    title: >-
+        How do mathematical models contribute to optimization in biological systems?
     subject: Psychology
     url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
-related_article2:
-    id: 170889
-    title: What mechanisms drive the evolution of behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
 related_article3:
-    id: 170882
-    title: What challenges are associated with measuring quantitative traits in behavior?
+    id: 170885
+    title: >-
+        How does cost-benefit analysis apply to fitness costs and benefits in behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
+    url: /learn/psychology/questions/how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior
 related_article4:
     id: 170880
-    title: What are the key differences between voluntary and involuntary actions in behavior?
+    title: >-
+        What are the key differences between voluntary and involuntary actions in behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
-related_article5:
-    id: 170881
-    title: How do internal and external stimuli influence behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168829
 date: 2025-02-04
-title: What role do enzymes play in the hydrolysis of amylose and amelopectin?
-article_title: What role do enzymes play in the hydrolysis of amylose and amelopectin?
+title: >-
+    What role do enzymes play in the hydrolysis of amylose and amelopectin?
+article_title: >-
+    What role do enzymes play in the hydrolysis of amylose and amelopectin?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopecti
 url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
 score: -1.0
 related_article1:
-    id: 168836
-    title: How do villi enhance the absorption of nutrients in the small intestine?
+    id: 168834
+    title: >-
+        How does the sodium co-transporter facilitate glucose and amino acid absorption?
     subject: Biology
-    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 related_article2:
-    id: 168839
-    title: Why is mitochondria important for active transport in nutrient absorption?
+    id: 168838
+    title: >-
+        How does ATP hydrolysis contribute to nutrient transport across cell membranes?
     subject: Biology
-    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 related_article3:
-    id: 168832
-    title: How do exopeptidases contribute to the breakdown of polypeptides?
+    id: 168834
+    title: >-
+        How does the sodium co-transporter facilitate glucose and amino acid absorption?
     subject: Biology
-    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
+    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 related_article4:
-    id: 168830
-    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    id: 168833
+    title: >-
+        What is the role of dipeptidases in the final stages of protein digestion?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
 related_article5:
-    id: 168830
-    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    id: 168833
+    title: >-
+        What is the role of dipeptidases in the final stages of protein digestion?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
+    url: /learn/biology/questions/what-is-the-role-of-dipeptidases-in-the-final-stages-of-protein-digestion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159675
 date: 2025-01-23
-title: What types of financial assistance does the World Bank provide to support development projects?
-article_title: What types of financial assistance does the World Bank provide to support development projects?
+title: >-
+    What types of financial assistance does the World Bank provide to support development projects?
+article_title: >-
+    What types of financial assistance does the World Bank provide to support development projects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-financial-assistance-does-the-world-bank-provide-to-sup
 url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
 score: -1.0
 related_article1:
-    id: 159683
-    title: How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+    id: 159674
+    title: >-
+        How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
+    url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
 related_article2:
-    id: 159670
-    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
 related_article3:
-    id: 159676
-    title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+    id: 159680
+    title: >-
+        What is the process for overseeing WTO agreements and maintaining open trade?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
 related_article4:
-    id: 159671
-    title: How are member quotas and credit arrangements significant to the IMF's resources?
+    id: 159668
+    title: >-
+        What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
     subject: Economics
-    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
 related_article5:
-    id: 159670
-    title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+    id: 159673
+    title: >-
+        What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
+    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
 ---
 
 &nbsp;

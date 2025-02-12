@@ -2,8 +2,10 @@
 _schema: default
 id: 167848
 date: 2025-02-01
-title: How do multiple alleles contribute to genetic diversity within a population?
-article_title: How do multiple alleles contribute to genetic diversity within a population?
+title: >-
+    How do multiple alleles contribute to genetic diversity within a population?
+article_title: >-
+    How do multiple alleles contribute to genetic diversity within a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-popu
 url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
 score: -1.0
 related_article1:
+    id: 167849
+    title: >-
+        What is the difference between incomplete dominance and incomplete penetrance?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
+related_article2:
+    id: 167839
+    title: >-
+        Define complementation and explain its role in genetic pathways.
+    subject: Education Studies
+    url: /learn/education-studies/questions/define-complementation-and-explain-its-role-in-genetic-pathways
+related_article3:
+    id: 167847
+    title: >-
+        Describe the concept of gene redundancy and its potential effects on genetic expression.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-concept-of-gene-redundancy-and-its-potential-effects-on-genetic-expression
+related_article4:
     id: 167840
-    title: What are gene modification effects, and how can they impact genetic expression?
+    title: >-
+        What are gene modification effects, and how can they impact genetic expression?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-gene-modification-effects-and-how-can-they-impact-genetic-expression
-related_article2:
-    id: 167845
-    title: How do correlation coefficients relate to genetic studies of complex traits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
-related_article3:
+related_article5:
     id: 167851
-    title: How does genetic potential relate to the normal distribution of quantitative traits?
+    title: >-
+        How does genetic potential relate to the normal distribution of quantitative traits?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
-related_article4:
-    id: 167832
-    title: How does incomplete dominance differ from complete dominance, and what are its genetic implications?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance-and-what-are-its-genetic-implications
-related_article5:
-    id: 167844
-    title: Explain the concept of heritability and its importance in understanding genetic variance.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
 ---
 
 &nbsp;

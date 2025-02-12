@@ -2,8 +2,10 @@
 _schema: default
 id: 165343
 date: 2025-01-29
-title: How do ionic bonds form between charged R groups in proteins?
-article_title: How do ionic bonds form between charged R groups in proteins?
+title: >-
+    How do ionic bonds form between charged R groups in proteins?
+article_title: >-
+    How do ionic bonds form between charged R groups in proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ionic-bonds-form-between-charged-r-groups-in-proteins.md
 url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
 score: -1.0
 related_article1:
-    id: 165342
-    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
     subject: Biology
-    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
 related_article2:
+    id: 165339
+    title: >-
+        Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
+related_article3:
+    id: 165350
+    title: >-
+        How do monomers and polymers relate to the structure and function of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
+related_article4:
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
+related_article5:
     id: 165349
-    title: Why are proteins considered an important class of biomolecules?
+    title: >-
+        Why are proteins considered an important class of biomolecules?
     subject: Biology
     url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
-related_article3:
-    id: 165348
-    title: What distinguishes purines from pyrimidines among nitrogenous bases?
-    subject: Biology
-    url: /learn/biology/questions/what-distinguishes-purines-from-pyrimidines-among-nitrogenous-bases
-related_article4:
-    id: 165340
-    title: What types of bonds and interactions contribute to the tertiary structure of proteins?
-    subject: Biology
-    url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
-related_article5:
-    id: 165335
-    title: How do charged and uncharged side chains influence the behavior of amino acids in proteins?
-    subject: Biology
-    url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
 ---
 
 &nbsp;

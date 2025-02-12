@@ -2,8 +2,10 @@
 _schema: default
 id: 160697
 date: 2025-01-24
-title: What is the role of representation in computational problem solving?
-article_title: What is the role of representation in computational problem solving?
+title: >-
+    What is the role of representation in computational problem solving?
+article_title: >-
+    What is the role of representation in computational problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-representation-in-computational-problem-solving.m
 url: /learn/computer-science/questions/what-is-the-role-of-representation-in-computational-problem-solving
 score: -1.0
 related_article1:
-    id: 160729
-    title: How is machine learning applied in artificial intelligence?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-machine-learning-applied-in-artificial-intelligence
-related_article2:
-    id: 161035
-    title: Why is algorithm efficiency important in computational problem solving?
+    id: 160703
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
-related_article3:
-    id: 160727
-    title: What are the principles of usability in user interface design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
-related_article4:
-    id: 160730
-    title: What is the significance of heuristic algorithms in solving complex problems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
-related_article5:
+related_article2:
     id: 161038
-    title: What are the primary functions of database management systems?
+    title: >-
+        What are the primary functions of database management systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
+related_article3:
+    id: 161041
+    title: >-
+        What measures can be taken to enhance network security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
+related_article4:
+    id: 161040
+    title: >-
+        What are the essential elements of network architecture?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
+related_article5:
+    id: 161045
+    title: >-
+        How is cryptography used to ensure information security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
 ---
 
 &nbsp;

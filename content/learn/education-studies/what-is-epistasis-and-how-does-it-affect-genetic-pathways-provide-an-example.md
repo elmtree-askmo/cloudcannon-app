@@ -2,8 +2,10 @@
 _schema: default
 id: 167838
 date: 2025-02-01
-title: What is epistasis, and how does it affect genetic pathways? Provide an example.
-article_title: What is epistasis, and how does it affect genetic pathways? Provide an example.
+title: >-
+    What is epistasis, and how does it affect genetic pathways? Provide an example.
+article_title: >-
+    What is epistasis, and how does it affect genetic pathways? Provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-epistasis-and-how-does-it-affect-genetic-pathways-provide-an-
 url: /learn/education-studies/questions/what-is-epistasis-and-how-does-it-affect-genetic-pathways-provide-an-example
 score: -1.0
 related_article1:
-    id: 167841
-    title: Describe polygenic inheritance and provide an example of how multiple genes contribute additively to a trait.
+    id: 167849
+    title: >-
+        What is the difference between incomplete dominance and incomplete penetrance?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-polygenic-inheritance-and-provide-an-example-of-how-multiple-genes-contribute-additively-to-a-trait
+    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
 related_article2:
-    id: 167836
-    title: Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
+    id: 167844
+    title: >-
+        Explain the concept of heritability and its importance in understanding genetic variance.
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-lethal-alleles-and-differentiate-between-dominant-and-recessive-lethal-alleles
+    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
 related_article3:
-    id: 167842
-    title: How do environmental factors influence genetic potential in polygenic inheritance?
+    id: 167849
+    title: >-
+        What is the difference between incomplete dominance and incomplete penetrance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-environmental-factors-influence-genetic-potential-in-polygenic-inheritance
+    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
 related_article4:
-    id: 167851
-    title: How does genetic potential relate to the normal distribution of quantitative traits?
+    id: 167852
+    title: >-
+        What are quantitative trait loci (QTL), and why are they important in genetic research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
+    url: /learn/education-studies/questions/what-are-quantitative-trait-loci-qtl-and-why-are-they-important-in-genetic-research
 related_article5:
-    id: 167846
-    title: What is the role of standard deviation and variance in analyzing genetic data?
+    id: 167837
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-standard-deviation-and-variance-in-analyzing-genetic-data
+    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
 ---
 
 &nbsp;

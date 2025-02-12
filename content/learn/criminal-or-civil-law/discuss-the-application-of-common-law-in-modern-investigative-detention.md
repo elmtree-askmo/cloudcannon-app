@@ -2,8 +2,10 @@
 _schema: default
 id: 162000
 date: 2025-01-24
-title: Discuss the application of common law in modern investigative detention.
-article_title: Discuss the application of common law in modern investigative detention.
+title: >-
+    Discuss the application of common law in modern investigative detention.
+article_title: >-
+    Discuss the application of common law in modern investigative detention.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-application-of-common-law-in-modern-investigative-detenti
 url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
 score: -1.0
 related_article1:
-    id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    id: 162003
+    title: >-
+        What are the legal standards for conducting consent searches?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
 related_article2:
-    id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    id: 161996
+    title: >-
+        Explain the judicial process involved in issuing a search warrant.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/explain-the-judicial-process-involved-in-issuing-a-search-warrant
 related_article3:
-    id: 162011
-    title: Explain the police authority as defined in the Criminal Code.
+    id: 162010
+    title: >-
+        What are the legal requirements for conducting searches under law enforcement powers?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
 related_article4:
-    id: 161997
-    title: What is the legal framework governing search and seizure?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
-related_article5:
     id: 162012
-    title: What are the legal standards for a search incident to arrest?
+    title: >-
+        What are the legal standards for a search incident to arrest?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
+related_article5:
+    id: 161999
+    title: >-
+        Define investigative detention and its legal standards.
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 ---
 
 &nbsp;

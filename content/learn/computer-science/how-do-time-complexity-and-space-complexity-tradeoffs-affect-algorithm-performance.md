@@ -2,8 +2,10 @@
 _schema: default
 id: 160654
 date: 2025-01-24
-title: How do time complexity and space complexity trade-offs affect algorithm performance?
-article_title: How do time complexity and space complexity trade-offs affect algorithm performance?
+title: >-
+    How do time complexity and space complexity trade-offs affect algorithm performance?
+article_title: >-
+    How do time complexity and space complexity trade-offs affect algorithm performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-time-complexity-and-space-complexity-tradeoffs-affect-algorith
 url: /learn/computer-science/questions/how-do-time-complexity-and-space-complexity-tradeoffs-affect-algorithm-performance
 score: -1.0
 related_article1:
-    id: 160784
-    title: What role do logarithms and exponents play in complexity analysis?
+    id: 160766
+    title: >-
+        How does the inventor's perspective influence algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
+    url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
 related_article2:
-    id: 160653
-    title: What is Big O notation and why is it important in analyzing algorithms?
+    id: 160649
+    title: >-
+        What are the differences between trees and graphs as data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
+    url: /learn/computer-science/questions/what-are-the-differences-between-trees-and-graphs-as-data-structures
 related_article3:
-    id: 160651
-    title: What distinguishes computational problem solving from general problem solving?
+    id: 160648
+    title: >-
+        How does the inventor's perspective influence algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
+    url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
 related_article4:
-    id: 160653
-    title: What is Big O notation and why is it important in analyzing algorithms?
+    id: 160656
+    title: >-
+        How do Kruskal's and Prim's algorithms differ in finding minimum spanning trees?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
+    url: /learn/computer-science/questions/how-do-kruskals-and-prims-algorithms-differ-in-finding-minimum-spanning-trees
 related_article5:
-    id: 160778
-    title: What is the main difference between Dijkstra's and Bellman-Ford algorithms?
+    id: 160779
+    title: >-
+        How do Kruskal's and Prim's algorithms differ in finding minimum spanning trees?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-main-difference-between-dijkstras-and-bellmanford-algorithms
+    url: /learn/computer-science/questions/how-do-kruskals-and-prims-algorithms-differ-in-finding-minimum-spanning-trees
 ---
 
 &nbsp;

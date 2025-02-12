@@ -2,8 +2,10 @@
 _schema: default
 id: 165970
 date: 2025-01-29
-title: How did artists respond to political systems through their depiction of social realities?
-article_title: How did artists respond to political systems through their depiction of social realities?
+title: >-
+    How did artists respond to political systems through their depiction of social realities?
+article_title: >-
+    How did artists respond to political systems through their depiction of social realities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-artists-respond-to-political-systems-through-their-depiction-
 url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
 score: 9.0
 related_article1:
-    id: 165967
-    title: What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
-related_article2:
     id: 165978
-    title: How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
+related_article2:
+    id: 165965
+    title: >-
+        What are the key characteristics of Realism and how do they differ from Romanticism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
 related_article3:
-    id: 165968
-    title: How did the rise of social consciousness during the Industrial Revolution influence art?
+    id: 165973
+    title: >-
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 related_article4:
-    id: 165971
-    title: What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+    id: 165976
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
+    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
 related_article5:
-    id: 165971
-    title: What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
 ---
 
 &nbsp;

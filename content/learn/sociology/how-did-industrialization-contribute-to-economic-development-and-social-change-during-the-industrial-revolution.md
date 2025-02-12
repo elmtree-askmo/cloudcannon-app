@@ -2,8 +2,10 @@
 _schema: default
 id: 165985
 date: 2025-01-29
-title: How did industrialization contribute to economic development and social change during the Industrial Revolution?
-article_title: How did industrialization contribute to economic development and social change during the Industrial Revolution?
+title: >-
+    How did industrialization contribute to economic development and social change during the Industrial Revolution?
+article_title: >-
+    How did industrialization contribute to economic development and social change during the Industrial Revolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-industrialization-contribute-to-economic-development-and-soci
 url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
 score: -1.0
 related_article1:
-    id: 165996
-    title: How do regional disparities contribute to economic inequality?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
-related_article2:
     id: 165984
-    title: What role did the Industrial Revolution play in the historical development of the world system?
+    title: >-
+        What role did the Industrial Revolution play in the historical development of the world system?
     subject: Sociology
     url: /learn/sociology/questions/what-role-did-the-industrial-revolution-play-in-the-historical-development-of-the-world-system
+related_article2:
+    id: 165983
+    title: >-
+        Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+    subject: Sociology
+    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
 related_article3:
+    id: 165997
+    title: >-
+        What are the key components of trade dynamics in global trade agreements?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-trade-dynamics-in-global-trade-agreements
+related_article4:
     id: 165988
-    title: What are the modern implications of neocolonial practices in terms of economic influence?
+    title: >-
+        What are the modern implications of neocolonial practices in terms of economic influence?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
-related_article4:
-    id: 166000
-    title: How do cultural resistance movements work to preserve traditions in the face of globalization?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
 related_article5:
-    id: 165998
-    title: How does wealth distribution affect economic inequality on a global scale?
+    id: 165994
+    title: >-
+        How does international cooperation address global health concerns such as disease transmission?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
+    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
 ---
 
 &nbsp;

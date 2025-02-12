@@ -2,8 +2,10 @@
 _schema: default
 id: 162583
 date: 2025-01-25
-title: What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
-article_title: What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
+title: >-
+    What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
+article_title: >-
+    What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-arguments-of-the-antivaccination-movements-against
 url: /learn/health-studies/questions/what-were-the-main-arguments-of-the-antivaccination-movements-against-compulsory-smallpox-vaccination
 score: -1.0
 related_article1:
-    id: 162584
-    title: How do provincial boards of health contribute to public health infrastructure in Canada?
+    id: 162581
+    title: >-
+        How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
+    url: /learn/health-studies/questions/how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epidemiology
 related_article2:
     id: 162585
-    title: What are the main components of the Canada Health Act that support publicly-funded universal health care?
+    title: >-
+        What are the main components of the Canada Health Act that support publicly-funded universal health care?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
 related_article3:
-    id: 162585
-    title: What are the main components of the Canada Health Act that support publicly-funded universal health care?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
-related_article4:
     id: 162584
-    title: How do provincial boards of health contribute to public health infrastructure in Canada?
+    title: >-
+        How do provincial boards of health contribute to public health infrastructure in Canada?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
-related_article5:
-    id: 162585
-    title: What are the main components of the Canada Health Act that support publicly-funded universal health care?
+related_article4:
+    id: 162579
+    title: >-
+        How did the cholera epidemic influence sanitary measures and public health infrastructure?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
+    url: /learn/health-studies/questions/how-did-the-cholera-epidemic-influence-sanitary-measures-and-public-health-infrastructure
+related_article5:
+    id: 162581
+    title: >-
+        How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epidemiology
 ---
 
 &nbsp;

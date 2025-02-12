@@ -2,8 +2,10 @@
 _schema: default
 id: 163320
 date: 2025-01-26
-title: What are the primary purposes of public health surveillance?
-article_title: What are the primary purposes of public health surveillance?
+title: >-
+    What are the primary purposes of public health surveillance?
+article_title: >-
+    What are the primary purposes of public health surveillance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-purposes-of-public-health-surveillance.md
 url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 score: -1.0
 related_article1:
+    id: 163318
+    title: >-
+        What is the difference between an outbreak and an epidemic?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
+related_article2:
+    id: 163324
+    title: >-
+        How is the Pearson correlation coefficient used in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
+related_article3:
+    id: 163206
+    title: >-
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+related_article4:
+    id: 162990
+    title: >-
+        What is an ecological study and what is its primary focus in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
+related_article5:
     id: 163314
-    title: Why are age-adjusted rates important in epidemiological studies?
+    title: >-
+        Why are age-adjusted rates important in epidemiological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
-related_article2:
-    id: 163316
-    title: What are the key differences between descriptive and analytic epidemiologic questions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
-related_article3:
-    id: 162992
-    title: How do positive and negative associations differ in epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
-related_article4:
-    id: 163315
-    title: What is the process of direct standardization in calculating age-adjusted rates?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
-related_article5:
-    id: 162987
-    title: How do outbreaks differ from epidemics in terms of their definitions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169992
 date: 2025-02-05
-title: What are some effective brainstorming techniques to generate ideas and overcome writer's block?
-article_title: What are some effective brainstorming techniques to generate ideas and overcome writer's block?
+title: >-
+    What are some effective brainstorming techniques to generate ideas and overcome writer's block?
+article_title: >-
+    What are some effective brainstorming techniques to generate ideas and overcome writer's block?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-effective-brainstorming-techniques-to-generate-ideas-an
 url: /learn/education-studies/questions/what-are-some-effective-brainstorming-techniques-to-generate-ideas-and-overcome-writers-block
 score: -1.0
 related_article1:
-    id: 169994
-    title: What is the purpose of outlining in writing, and how does it help in organizing thoughts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-outlining-in-writing-and-how-does-it-help-in-organizing-thoughts
-related_article2:
-    id: 170000
-    title: What are the main components of an essay, and how do they contribute to its overall structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-an-essay-and-how-do-they-contribute-to-its-overall-structure
-related_article3:
-    id: 169993
-    title: How can you evaluate brainstormed ideas to identify the most useful ones?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-evaluate-brainstormed-ideas-to-identify-the-most-useful-ones
-related_article4:
-    id: 169998
-    title: Why is self-awareness important in developing personal writing strategies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-selfawareness-important-in-developing-personal-writing-strategies
-related_article5:
     id: 170007
-    title: What is intellectualism in writing, and how can recognizing hidden intellectualism be beneficial?
+    title: >-
+        What is intellectualism in writing, and how can recognizing hidden intellectualism be beneficial?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-intellectualism-in-writing-and-how-can-recognizing-hidden-intellectualism-be-beneficial
+related_article2:
+    id: 169998
+    title: >-
+        Why is self-awareness important in developing personal writing strategies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-selfawareness-important-in-developing-personal-writing-strategies
+related_article3:
+    id: 170005
+    title: >-
+        How can understanding assignment requirements aid in developing a writing plan?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-understanding-assignment-requirements-aid-in-developing-a-writing-plan
+related_article4:
+    id: 169990
+    title: >-
+        What are the key components of the writing process, and why is recursive writing important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-the-writing-process-and-why-is-recursive-writing-important
+related_article5:
+    id: 170006
+    title: >-
+        How can personal knowledge be integrated into writing to relate to broader contexts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-personal-knowledge-be-integrated-into-writing-to-relate-to-broader-contexts
 ---
 
 &nbsp;

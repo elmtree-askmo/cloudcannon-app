@@ -2,8 +2,10 @@
 _schema: default
 id: 164162
 date: 2025-01-28
-title: How does synthetic data contribute to data augmentation?
-article_title: How does synthetic data contribute to data augmentation?
+title: >-
+    How does synthetic data contribute to data augmentation?
+article_title: >-
+    How does synthetic data contribute to data augmentation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-synthetic-data-contribute-to-data-augmentation.md
 url: /learn/others/questions/how-does-synthetic-data-contribute-to-data-augmentation
 score: -1.0
 related_article1:
-    id: 164180
-    title: How do search algorithms contribute to AI algorithms?
+    id: 164179
+    title: >-
+        What is the role of Markov Decision Processes in reinforcement learning?
     subject: Others
-    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
+    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
 related_article2:
-    id: 164167
-    title: Explain the significance of operating systems in software systems.
+    id: 164176
+    title: >-
+        How is sentiment analysis used in text processing?
     subject: Others
-    url: /learn/others/questions/explain-the-significance-of-operating-systems-in-software-systems
+    url: /learn/others/questions/how-is-sentiment-analysis-used-in-text-processing
 related_article3:
-    id: 164180
-    title: How do search algorithms contribute to AI algorithms?
+    id: 164172
+    title: >-
+        What are the main challenges associated with knowledge transfer?
     subject: Others
-    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
+    url: /learn/others/questions/what-are-the-main-challenges-associated-with-knowledge-transfer
 related_article4:
-    id: 164180
-    title: How do search algorithms contribute to AI algorithms?
-    subject: Others
-    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
-related_article5:
     id: 164186
-    title: What are the challenges of multilingual processing in NLP?
+    title: >-
+        What are the challenges of multilingual processing in NLP?
     subject: Others
     url: /learn/others/questions/what-are-the-challenges-of-multilingual-processing-in-nlp
+related_article5:
+    id: 164174
+    title: >-
+        Differentiate between batch processing and real-time processing in data processing.
+    subject: Others
+    url: /learn/others/questions/differentiate-between-batch-processing-and-realtime-processing-in-data-processing
 ---
 
 &nbsp;

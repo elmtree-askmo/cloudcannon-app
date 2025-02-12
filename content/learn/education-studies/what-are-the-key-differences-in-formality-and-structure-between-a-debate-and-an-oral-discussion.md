@@ -2,8 +2,10 @@
 _schema: default
 id: 168515
 date: 2025-02-03
-title: What are the key differences in formality and structure between a debate and an oral discussion?
-article_title: What are the key differences in formality and structure between a debate and an oral discussion?
+title: >-
+    What are the key differences in formality and structure between a debate and an oral discussion?
+article_title: >-
+    What are the key differences in formality and structure between a debate and an oral discussion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-in-formality-and-structure-between-a-deb
 url: /learn/education-studies/questions/what-are-the-key-differences-in-formality-and-structure-between-a-debate-and-an-oral-discussion
 score: -1.0
 related_article1:
-    id: 168522
-    title: What is the significance of summarizing points of agreement and disagreement in discussions?
+    id: 168516
+    title: >-
+        How do the goals and outcomes differ between debates and oral discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-summarizing-points-of-agreement-and-disagreement-in-discussions
+    url: /learn/education-studies/questions/how-do-the-goals-and-outcomes-differ-between-debates-and-oral-discussions
 related_article2:
-    id: 168527
-    title: How does evidence and reasoning play a role in revising ideas and forming new understandings?
+    id: 168524
+    title: >-
+        In what ways can responding to broader themes help move conversations forward?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-evidence-and-reasoning-play-a-role-in-revising-ideas-and-forming-new-understandings
+    url: /learn/education-studies/questions/in-what-ways-can-responding-to-broader-themes-help-move-conversations-forward
 related_article3:
-    id: 168527
-    title: How does evidence and reasoning play a role in revising ideas and forming new understandings?
+    id: 168526
+    title: >-
+        What are effective ways to challenge ideas while maintaining neutrality and factuality?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-evidence-and-reasoning-play-a-role-in-revising-ideas-and-forming-new-understandings
+    url: /learn/education-studies/questions/what-are-effective-ways-to-challenge-ideas-while-maintaining-neutrality-and-factuality
 related_article4:
-    id: 168521
-    title: How can empathy be demonstrated in conversations to understand diverse perspectives?
+    id: 168516
+    title: >-
+        How do the goals and outcomes differ between debates and oral discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-empathy-be-demonstrated-in-conversations-to-understand-diverse-perspectives
+    url: /learn/education-studies/questions/how-do-the-goals-and-outcomes-differ-between-debates-and-oral-discussions
 related_article5:
-    id: 168522
-    title: What is the significance of summarizing points of agreement and disagreement in discussions?
+    id: 168523
+    title: >-
+        How can posing open-ended questions propel a conversation forward?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-summarizing-points-of-agreement-and-disagreement-in-discussions
+    url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
 ---
 
 &nbsp;

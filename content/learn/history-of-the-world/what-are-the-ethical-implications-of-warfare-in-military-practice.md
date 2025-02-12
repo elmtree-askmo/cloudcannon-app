@@ -2,8 +2,10 @@
 _schema: default
 id: 169102
 date: 2025-02-04
-title: What are the ethical implications of warfare in military practice?
-article_title: What are the ethical implications of warfare in military practice?
+title: >-
+    What are the ethical implications of warfare in military practice?
+article_title: >-
+    What are the ethical implications of warfare in military practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-ethical-implications-of-warfare-in-military-practice.md
 url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
 score: 9.0
 related_article1:
-    id: 169095
-    title: How does the military-architectural relationship influence military training and education?
+    id: 169090
+    title: >-
+        What is the role of theoretical language in warfare within the context of architectural theory?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
+    url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
 related_article2:
     id: 169090
-    title: What is the role of theoretical language in warfare within the context of architectural theory?
+    title: >-
+        What is the role of theoretical language in warfare within the context of architectural theory?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
 related_article3:
-    id: 169082
-    title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
+    id: 169097
+    title: >-
+        How is theoretical language in warfare applied in contemporary military doctrine?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
+    url: /learn/history-of-the-world/questions/how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine
 related_article4:
-    id: 169085
-    title: What role does spatial reinterpretation play in urban combat strategies?
+    id: 169103
+    title: >-
+        How does critical theory apply to military practice in the context of ethical implications?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
 related_article5:
-    id: 169083
-    title: How do swarming tactics differ from traditional military tactics in urban warfare?
+    id: 169094
+    title: >-
+        What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
+    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
 ---
 
 &nbsp;

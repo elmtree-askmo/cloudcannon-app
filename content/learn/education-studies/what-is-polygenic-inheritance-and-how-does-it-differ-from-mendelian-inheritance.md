@@ -2,8 +2,10 @@
 _schema: default
 id: 167789
 date: 2025-02-01
-title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
-article_title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+title: >-
+    What is polygenic inheritance and how does it differ from Mendelian inheritance?
+article_title: >-
+    What is polygenic inheritance and how does it differ from Mendelian inheritance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-i
 url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 score: -1.0
 related_article1:
-    id: 167805
-    title: What are the key differences between Mendelian and non-Mendelian patterns of heredity?
+    id: 167803
+    title: >-
+        What are point mutations and how do they differ from chromosomal alterations?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
+    url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
 related_article2:
+    id: 167803
+    title: >-
+        What are point mutations and how do they differ from chromosomal alterations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
+related_article3:
     id: 167785
-    title: How are Punnett squares used to predict the outcomes of dihybrid crosses?
+    title: >-
+        How are Punnett squares used to predict the outcomes of dihybrid crosses?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
-related_article3:
-    id: 167805
-    title: What are the key differences between Mendelian and non-Mendelian patterns of heredity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
 related_article4:
+    id: 167788
+    title: >-
+        How do genetic mutations contribute to genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
+related_article5:
     id: 167795
-    title: How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
+    title: >-
+        How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
-related_article5:
-    id: 167787
-    title: What are the main sources of genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-sources-of-genetic-variation
 ---
 
 &nbsp;

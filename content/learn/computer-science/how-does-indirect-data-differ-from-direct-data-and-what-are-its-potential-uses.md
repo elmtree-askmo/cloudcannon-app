@@ -2,8 +2,10 @@
 _schema: default
 id: 161492
 date: 2025-01-24
-title: How does indirect data differ from direct data and what are its potential uses?
-article_title: How does indirect data differ from direct data and what are its potential uses?
+title: >-
+    How does indirect data differ from direct data and what are its potential uses?
+article_title: >-
+    How does indirect data differ from direct data and what are its potential uses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-indirect-data-differ-from-direct-data-and-what-are-its-poten
 url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-its-potential-uses
 score: -1.0
 related_article1:
-    id: 161707
-    title: What are the differences between transaction processing systems, management information systems, and decision support systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-transaction-processing-systems-management-information-systems-and-decision-support-systems
-related_article2:
-    id: 161679
-    title: What are the main components of an information system and how do they interact?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
-related_article3:
-    id: 161500
-    title: What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-and-tlsssl-in-encryption-protocols
-related_article4:
     id: 161508
-    title: What is the difference between a hash total and a control total in error detection?
+    title: >-
+        What is the difference between a hash total and a control total in error detection?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
-related_article5:
-    id: 161436
-    title: What is the significance of completeness in information quality, and what factors can affect it?
+related_article2:
+    id: 161697
+    title: >-
+        What are the characteristics of online processing, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-completeness-in-information-quality-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
+related_article3:
+    id: 161431
+    title: >-
+        How does indirect data differ from direct data, and what are some examples of its uses?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-some-examples-of-its-uses
+related_article4:
+    id: 161706
+    title: >-
+        What are the main components of an information system, and how do they interact?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
+related_article5:
+    id: 161434
+    title: >-
+        Why is the age of information crucial, and what factors can affect how up-to-date information is?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
 ---
 
 &nbsp;

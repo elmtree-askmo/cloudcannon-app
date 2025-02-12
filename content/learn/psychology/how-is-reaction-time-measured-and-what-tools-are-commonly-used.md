@@ -2,8 +2,10 @@
 _schema: default
 id: 165012
 date: 2025-01-28
-title: How is reaction time measured and what tools are commonly used?
-article_title: How is reaction time measured and what tools are commonly used?
+title: >-
+    How is reaction time measured and what tools are commonly used?
+article_title: >-
+    How is reaction time measured and what tools are commonly used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-reaction-time-measured-and-what-tools-are-commonly-used.md
 url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
 score: -1.0
 related_article1:
-    id: 165017
-    title: What mechanisms are involved in visual processing and perceptual organization?
+    id: 165016
+    title: >-
+        How do symbolic and non-symbolic processing differ in numerical cognition?
     subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+    url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-differ-in-numerical-cognition
 related_article2:
-    id: 165013
-    title: What are the core concepts of cognitive psychology related to perception and attention?
+    id: 165014
+    title: >-
+        How do experimental design and data analysis contribute to cognitive psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
 related_article3:
-    id: 165010
-    title: How do different experimental approaches contribute to our understanding of depth of processing?
+    id: 165020
+    title: >-
+        What are the key findings and significance of the GIANT study in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
+    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
 related_article4:
-    id: 165019
-    title: What are the principles of experimental design that ensure validity and reliability?
+    id: 165023
+    title: >-
+        What are the challenges in designing cognitive experiments and how can they be addressed?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
 related_article5:
-    id: 165018
-    title: How do contextual effects influence visual perception?
+    id: 165020
+    title: >-
+        What are the key findings and significance of the GIANT study in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
+    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
 ---
 
 &nbsp;

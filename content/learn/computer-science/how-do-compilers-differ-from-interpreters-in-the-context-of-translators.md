@@ -2,8 +2,10 @@
 _schema: default
 id: 161563
 date: 2025-01-24
-title: How do compilers differ from interpreters in the context of translators?
-article_title: How do compilers differ from interpreters in the context of translators?
+title: >-
+    How do compilers differ from interpreters in the context of translators?
+article_title: >-
+    How do compilers differ from interpreters in the context of translators?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters
 score: -1.0
 related_article1:
     id: 161568
-    title: What are the advantages of using a command line interface over a graphical user interface?
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
 related_article2:
-    id: 161322
-    title: What are the main characteristics of open source software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
-related_article3:
-    id: 161669
-    title: What are the advantages of using real-time protection in anti-virus software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-realtime-protection-in-antivirus-software
-related_article4:
-    id: 161301
-    title: What is the role of device drivers in system software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
-related_article5:
     id: 161543
-    title: How does checkpointing contribute to fault tolerance in supercomputers?
+    title: >-
+        How does checkpointing contribute to fault tolerance in supercomputers?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputers
+related_article3:
+    id: 161301
+    title: >-
+        What is the role of device drivers in system software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+related_article4:
+    id: 161296
+    title: >-
+        How is FLOPS used to evaluate supercomputer performance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-flops-used-to-evaluate-supercomputer-performance
+related_article5:
+    id: 161536
+    title: >-
+        What role do redundant components play in enhancing the reliability of a computing system?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-enhancing-the-reliability-of-a-computing-system
 ---
 
 &nbsp;

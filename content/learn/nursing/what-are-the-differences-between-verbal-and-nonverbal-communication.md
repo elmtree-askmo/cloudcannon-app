@@ -2,8 +2,10 @@
 _schema: default
 id: 169821
 date: 2025-02-05
-title: What are the differences between verbal and non-verbal communication?
-article_title: What are the differences between verbal and non-verbal communication?
+title: >-
+    What are the differences between verbal and non-verbal communication?
+article_title: >-
+    What are the differences between verbal and non-verbal communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-verbal-and-nonverbal-communication.m
 url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
 score: -1.0
 related_article1:
-    id: 169816
-    title: What is the relationship between self-concept and personal growth?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-relationship-between-selfconcept-and-personal-growth
-related_article2:
-    id: 169805
-    title: How does conscious knowledge of self contribute to evaluating personal reactions?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
-related_article3:
-    id: 169806
-    title: What are the key components of emotional intelligence?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
-related_article4:
     id: 169824
-    title: How do professional values influence career development?
+    title: >-
+        How do professional values influence career development?
     subject: Nursing
     url: /learn/nursing/questions/how-do-professional-values-influence-career-development
-related_article5:
-    id: 169811
-    title: How can reflection models be applied to enhance professional values?
+related_article2:
+    id: 169823
+    title: >-
+        What is the role of self-reflection in personal growth and development?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
+    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
+related_article3:
+    id: 169820
+    title: >-
+        What strategies can improve decision-making skills?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
+related_article4:
+    id: 169803
+    title: >-
+        How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+related_article5:
+    id: 169818
+    title: >-
+        What techniques can be used for self-assessment to identify personal strengths?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
 ---
 
 &nbsp;

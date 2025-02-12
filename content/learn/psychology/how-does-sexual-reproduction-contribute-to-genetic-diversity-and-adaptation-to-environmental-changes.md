@@ -2,8 +2,10 @@
 _schema: default
 id: 170998
 date: 2025-02-07
-title: How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
-article_title: How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+title: >-
+    How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+article_title: >-
+    How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-gene
 score: -1.0
 related_article1:
     id: 171001
-    title: What is anisogamy, and how does it affect reproductive strategies in different species?
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
     subject: Psychology
     url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
 related_article2:
-    id: 170995
-    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    id: 171005
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
 related_article3:
-    id: 171009
-    title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+    id: 171015
+    title: >-
+        How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
+    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
 related_article4:
-    id: 171012
-    title: How does data analysis contribute to understanding behavior in biological systems?
+    id: 170996
+    title: >-
+        How do forgiveness and provocative strategies differ in game theory applications?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
-related_article5:
-    id: 170997
-    title: What role do computer simulations play in understanding real-world cooperation strategies?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
+    url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
 ---
 
 &nbsp;

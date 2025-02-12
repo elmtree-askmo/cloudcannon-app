@@ -2,8 +2,10 @@
 _schema: default
 id: 164271
 date: 2025-01-28
-title: What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
-article_title: What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
+title: >-
+    What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
+article_title: >-
+    What are the ethical concerns associated with nervous system integration technologies, particularly regarding privacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-ethical-concerns-associated-with-nervous-system-integrat
 url: /learn/health-studies/questions/what-are-the-ethical-concerns-associated-with-nervous-system-integration-technologies-particularly-regarding-privacy
 score: -1.0
 related_article1:
-    id: 164272
-    title: What types of assistive technologies are commonly used in rehabilitation engineering, and what are their purposes?
+    id: 164265
+    title: >-
+        Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-assistive-technologies-are-commonly-used-in-rehabilitation-engineering-and-what-are-their-purposes
+    url: /learn/health-studies/questions/explain-the-difference-between-myoelectric-and-neural-control-mechanisms-in-bionic-prosthetics
 related_article2:
-    id: 164270
-    title: How does neural connectivity influence the integration of nervous system technologies?
+    id: 164264
+    title: >-
+        What factors are considered in the material selection for bionic prosthetics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neural-connectivity-influence-the-integration-of-nervous-system-technologies
+    url: /learn/health-studies/questions/what-factors-are-considered-in-the-material-selection-for-bionic-prosthetics
 related_article3:
-    id: 164270
-    title: How does neural connectivity influence the integration of nervous system technologies?
+    id: 164265
+    title: >-
+        Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neural-connectivity-influence-the-integration-of-nervous-system-technologies
+    url: /learn/health-studies/questions/explain-the-difference-between-myoelectric-and-neural-control-mechanisms-in-bionic-prosthetics
 related_article4:
-    id: 164273
-    title: How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
+    id: 164265
+    title: >-
+        Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation-in-the-context-of-therapy-and-recovery
+    url: /learn/health-studies/questions/explain-the-difference-between-myoelectric-and-neural-control-mechanisms-in-bionic-prosthetics
 related_article5:
     id: 164260
-    title: What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
+    title: >-
+        What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
 ---

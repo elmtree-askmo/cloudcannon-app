@@ -2,8 +2,10 @@
 _schema: default
 id: 160713
 date: 2025-01-24
-title: Compare linear search with depth-first search in terms of their application.
-article_title: Compare linear search with depth-first search in terms of their application.
+title: >-
+    Compare linear search with depth-first search in terms of their application.
+article_title: >-
+    Compare linear search with depth-first search in terms of their application.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-linear-search-with-depthfirst-search-in-terms-of-their-applic
 url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-application
 score: -1.0
 related_article1:
-    id: 161032
-    title: How do day of the week calculation algorithms utilize reference dates?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
-related_article2:
-    id: 160870
-    title: What are the challenges in proving software solutions compared to testing them?
+    id: 161026
+    title: >-
+        What are the challenges in proving software solutions compared to testing them?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
-related_article3:
-    id: 160875
-    title: What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
+related_article2:
+    id: 160718
+    title: >-
+        How do constraints impact algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar-and-how-is-abstraction-used-in-calendar-algorithms
+    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design
+related_article3:
+    id: 160692
+    title: >-
+        How does transitioning from a problem to a program aid in problem solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-solving
 related_article4:
-    id: 160769
-    title: How does testing differ from proving solutions in problem-solving?
+    id: 160696
+    title: >-
+        How does representation influence algorithm complexity?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+related_article5:
+    id: 160860
+    title: >-
+        How does testing differ from proving solutions in problem-solving?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
-related_article5:
-    id: 160708
-    title: How can analyzing problem specifications aid in problem-solving strategies in software engineering?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-analyzing-problem-specifications-aid-in-problemsolving-strategies-in-software-engineering
 ---
 
 &nbsp;

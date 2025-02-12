@@ -2,8 +2,10 @@
 _schema: default
 id: 161487
 date: 2025-01-24
-title: What is the role of variables in data storage and manipulation?
-article_title: What is the role of variables in data storage and manipulation?
+title: >-
+    What is the role of variables in data storage and manipulation?
+article_title: >-
+    What is the role of variables in data storage and manipulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-variables-in-data-storage-and-manipulation.md
 url: /learn/computer-science/questions/what-is-the-role-of-variables-in-data-storage-and-manipulation
 score: -1.0
 related_article1:
-    id: 161194
-    title: How does process flow ensure the correct sequence of actions in a program?
+    id: 161474
+    title: >-
+        What symbol is used in flowcharts to represent the start or end of a process?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-program
+    url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
 related_article2:
-    id: 161191
-    title: What is the purpose of using counter variables in count-controlled loops?
+    id: 161473
+    title: >-
+        What is pseudocode and how is it used in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
 related_article3:
+    id: 161486
+    title: >-
+        Why are data types important in programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+related_article4:
+    id: 161185
+    title: >-
+        What role do comparison operators play in decision making?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
+related_article5:
     id: 161479
-    title: Differentiate between procedures and functions in subroutines.
+    title: >-
+        Differentiate between procedures and functions in subroutines.
     subject: Computer Science
     url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
-related_article4:
-    id: 161187
-    title: What is string manipulation and why is it important in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
-related_article5:
-    id: 161184
-    title: How are input and output operations represented in a flowchart?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-operations-represented-in-a-flowchart
 ---
 
 &nbsp;

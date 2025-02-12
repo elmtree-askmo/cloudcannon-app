@@ -2,8 +2,10 @@
 _schema: default
 id: 164739
 date: 2025-01-28
-title: What are the main types of seizures associated with epilepsy?
-article_title: What are the main types of seizures associated with epilepsy?
+title: >-
+    What are the main types of seizures associated with epilepsy?
+article_title: >-
+    What are the main types of seizures associated with epilepsy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-seizures-associated-with-epilepsy.md
 url: /learn/nursing/questions/what-are-the-main-types-of-seizures-associated-with-epilepsy
 score: -1.0
 related_article1:
-    id: 164722
-    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+    id: 164752
+    title: >-
+        What is the role of white matter tracts in brain connectivity?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
+    url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
 related_article2:
-    id: 164736
-    title: How is EEG used in the diagnosis of epilepsy?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
-related_article3:
     id: 164733
-    title: How does the corpus callosum contribute to brain connectivity?
+    title: >-
+        How does the corpus callosum contribute to brain connectivity?
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
+related_article3:
+    id: 164741
+    title: >-
+        What are the common surgical techniques used in brain surgery and their potential complications?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
 related_article4:
-    id: 164732
-    title: What is the functional and clinical significance of the longitudinal fissure in the brain?
+    id: 164736
+    title: >-
+        How is EEG used in the diagnosis of epilepsy?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-functional-and-clinical-significance-of-the-longitudinal-fissure-in-the-brain
+    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
 related_article5:
-    id: 164725
-    title: Explain the anatomical context of rostral and caudal directional terms.
+    id: 164741
+    title: >-
+        What are the common surgical techniques used in brain surgery and their potential complications?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
+    url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
 ---
 
 &nbsp;

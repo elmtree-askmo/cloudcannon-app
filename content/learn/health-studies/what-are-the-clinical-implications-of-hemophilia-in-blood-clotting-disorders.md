@@ -2,8 +2,10 @@
 _schema: default
 id: 170568
 date: 2025-02-06
-title: What are the clinical implications of hemophilia in blood clotting disorders?
-article_title: What are the clinical implications of hemophilia in blood clotting disorders?
+title: >-
+    What are the clinical implications of hemophilia in blood clotting disorders?
+article_title: >-
+    What are the clinical implications of hemophilia in blood clotting disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-clinical-implications-of-hemophilia-in-blood-clotting-di
 url: /learn/health-studies/questions/what-are-the-clinical-implications-of-hemophilia-in-blood-clotting-disorders
 score: -1.0
 related_article1:
-    id: 170572
-    title: What are the benefits of using clinical vignettes in research methodologies?
+    id: 170577
+    title: >-
+        How do local auto-regulation mechanisms affect blood vessel response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
+    url: /learn/health-studies/questions/how-do-local-autoregulation-mechanisms-affect-blood-vessel-response
 related_article2:
-    id: 170553
-    title: How does neurotransmitter blockage affect nervous system function?
+    id: 170565
+    title: >-
+        What is the process of DNA transcription in genetic pathways?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
+    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
 related_article3:
-    id: 170548
-    title: Explain the role of biochemical pathways in cellular function.
+    id: 170558
+    title: >-
+        What are the roles of insulin and glucagon in hormonal regulation?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-role-of-biochemical-pathways-in-cellular-function
+    url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
 related_article4:
     id: 170562
-    title: What pharmacological interventions are available for treating Parkinson's disease?
+    title: >-
+        What pharmacological interventions are available for treating Parkinson's disease?
     subject: Health Studies
     url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
 related_article5:
-    id: 170563
-    title: How does cognitive dissonance influence behavior according to psychological theories?
+    id: 170546
+    title: >-
+        What are the primary functions of the cellular level in anatomy and physiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-cellular-level-in-anatomy-and-physiology
 ---
 
 &nbsp;

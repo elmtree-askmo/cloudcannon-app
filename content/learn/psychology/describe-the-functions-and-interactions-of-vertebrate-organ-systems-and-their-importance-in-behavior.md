@@ -2,8 +2,10 @@
 _schema: default
 id: 165332
 date: 2025-01-28
-title: Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
-article_title: Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
+title: >-
+    Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
+article_title: >-
+    Describe the functions and interactions of vertebrate organ systems and their importance in behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/describe-the-functions-and-interactions-of-vert
 score: -1.0
 related_article1:
     id: 165327
-    title: What is heritability and how is it measured in the context of animal behavior?
+    title: >-
+        What is heritability and how is it measured in the context of animal behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-is-heritability-and-how-is-it-measured-in-the-context-of-animal-behavior
 related_article2:
-    id: 165325
-    title: How do phenotype and genotype influence animal behavior?
+    id: 165321
+    title: >-
+        What are the principles of natural selection and how do they apply to animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
+    url: /learn/psychology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-apply-to-animal-behavior
 related_article3:
     id: 165329
-    title: Define homology and homoplasy and explain their differences with examples from animal behavior.
+    title: >-
+        Define homology and homoplasy and explain their differences with examples from animal behavior.
     subject: Psychology
     url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
 related_article4:
-    id: 165318
-    title: Differentiate between proximate and ultimate causes of behavior with examples.
+    id: 165324
+    title: >-
+        Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
 related_article5:
-    id: 165316
-    title: What is the significance of understanding animal behavior in ecology and conservation?
+    id: 165329
+    title: >-
+        Define homology and homoplasy and explain their differences with examples from animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
+    url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
 ---
 
 &nbsp;

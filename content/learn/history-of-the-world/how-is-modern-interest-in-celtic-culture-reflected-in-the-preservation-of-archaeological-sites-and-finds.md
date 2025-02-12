@@ -2,8 +2,10 @@
 _schema: default
 id: 159737
 date: 2025-01-23
-title: How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
-article_title: How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
+title: >-
+    How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
+article_title: >-
+    How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-modern-interest-in-celtic-culture-reflected-in-the-preservatio
 url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
 score: 9.5
 related_article1:
-    id: 159731
-    title: How do documentary and historical sources contribute to our understanding of Celtic archaeological evidence?
+    id: 159688
+    title: >-
+        What are the key characteristics of the Hallstatt culture in Celtic material culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-documentary-and-historical-sources-contribute-to-our-understanding-of-celtic-archaeological-evidence
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-the-hallstatt-culture-in-celtic-material-culture
 related_article2:
-    id: 159689
-    title: How do documentary and historical sources contribute to our understanding of Celtic archaeological evidence?
+    id: 159734
+    title: >-
+        What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-documentary-and-historical-sources-contribute-to-our-understanding-of-celtic-archaeological-evidence
+    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-a-militaristic-and-stratified-society
 related_article3:
-    id: 159694
-    title: What are the defining features of La Tène art and how did it influence Celtic art?
+    id: 159734
+    title: >-
+        What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-features-of-la-tne-art-and-how-did-it-influence-celtic-art
+    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-a-militaristic-and-stratified-society
 related_article4:
-    id: 159732
-    title: What is the significance of the Beaker and Corded Ware cultures in the chronology of the Celts?
+    id: 159695
+    title: >-
+        How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-beaker-and-corded-ware-cultures-in-the-chronology-of-the-celts
+    url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
 related_article5:
-    id: 159729
-    title: How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+    id: 159735
+    title: >-
+        How did trade with Mediterranean civilizations impact the Celtic economy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
+    url: /learn/history-of-the-world/questions/how-did-trade-with-mediterranean-civilizations-impact-the-celtic-economy
 ---
 
 &nbsp;

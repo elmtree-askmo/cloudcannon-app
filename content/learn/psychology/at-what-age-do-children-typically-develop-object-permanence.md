@@ -2,8 +2,10 @@
 _schema: default
 id: 168102
 date: 2025-02-02
-title: At what age do children typically develop object permanence?
-article_title: At what age do children typically develop object permanence?
+title: >-
+    At what age do children typically develop object permanence?
+article_title: >-
+    At what age do children typically develop object permanence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: at-what-age-do-children-typically-develop-object-permanence.md
 url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
 score: -1.0
 related_article1:
-    id: 168108
-    title: What are mental representations, and how do they aid in problem-solving?
+    id: 168096
+    title: >-
+        What distinguishes secondary circular reactions from primary circular reactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
 related_article2:
-    id: 168092
-    title: What is the age range for the sensorimotor stage in cognitive development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
-related_article3:
     id: 168104
-    title: What is make-believe play, and why is it important for cognitive development?
+    title: >-
+        What is make-believe play, and why is it important for cognitive development?
     subject: Psychology
     url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
+related_article3:
+    id: 168094
+    title: >-
+        What are primary circular reactions, and at what age do they typically occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
 related_article4:
-    id: 168106
-    title: How do sensory input and motor actions contribute to cognitive development?
+    id: 168092
+    title: >-
+        What is the age range for the sensorimotor stage in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 related_article5:
-    id: 168097
-    title: At what age do secondary circular reactions typically develop?
+    id: 168105
+    title: >-
+        Provide an example of deferred imitation and explain its significance.
     subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+    url: /learn/psychology/questions/provide-an-example-of-deferred-imitation-and-explain-its-significance
 ---
 
 &nbsp;

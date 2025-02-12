@@ -2,8 +2,10 @@
 _schema: default
 id: 160493
 date: 2025-01-24
-title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
-article_title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+title: >-
+    How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+article_title: >-
+    How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-the-covid19-pandemic-influenced-global-political-events-parti
 url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 score: -1.0
 related_article1:
-    id: 160234
-    title: What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+    id: 160622
+    title: >-
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 related_article2:
     id: 160548
-    title: What strategies do states employ to maintain territorial control and sovereignty?
+    title: >-
+        What strategies do states employ to maintain territorial control and sovereignty?
     subject: Sociology
     url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
 related_article3:
-    id: 160227
-    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    id: 160087
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
 related_article4:
-    id: 160628
-    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    id: 160636
+    title: >-
+        Describe the methodologies used in qualitative and quantitative research for research skills.
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
 related_article5:
-    id: 160235
-    title: Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    id: 160219
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
 ---
 
 &nbsp;

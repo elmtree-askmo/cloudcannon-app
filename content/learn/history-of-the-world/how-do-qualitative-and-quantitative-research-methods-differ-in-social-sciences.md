@@ -2,8 +2,10 @@
 _schema: default
 id: 166230
 date: 2025-01-29
-title: How do qualitative and quantitative research methods differ in social sciences?
-article_title: How do qualitative and quantitative research methods differ in social sciences?
+title: >-
+    How do qualitative and quantitative research methods differ in social sciences?
+article_title: >-
+    How do qualitative and quantitative research methods differ in social sciences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-qualitative-and-quantitative-research-methods-differ-in-social
 url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
 score: 9.0
 related_article1:
-    id: 166213
-    title: What were the key developments in the historical context of Arabic studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
+    id: 166229
+    title: >-
+        What are the main disciplines within social sciences, and how do they contribute to understanding society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-disciplines-within-social-sciences-and-how-do-they-contribute-to-understanding-society
 related_article2:
-    id: 166214
-    title: How has classical Arabic literature influenced modern Arabic literature?
+    id: 166219
+    title: >-
+        What is the significance of primary sources in historical research?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-classical-arabic-literature-influenced-modern-arabic-literature
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-primary-sources-in-historical-research
 related_article3:
-    id: 166225
-    title: What are the main components of physical health that contribute to overall well-being?
+    id: 166232
+    title: >-
+        How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
+    url: /learn/history-of-the-world/questions/how-did-ancient-civilizations-like-mesopotamia-and-ancient-egypt-influence-modern-society
 related_article4:
-    id: 166226
-    title: How can stress management techniques improve mental health?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
-related_article5:
     id: 166225
-    title: What are the main components of physical health that contribute to overall well-being?
+    title: >-
+        What are the main components of physical health that contribute to overall well-being?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
+related_article5:
+    id: 166238
+    title: >-
+        How do data analysis techniques like statistical methods and data visualization aid in historical research?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-data-analysis-techniques-like-statistical-methods-and-data-visualization-aid-in-historical-research
 ---
 
 &nbsp;

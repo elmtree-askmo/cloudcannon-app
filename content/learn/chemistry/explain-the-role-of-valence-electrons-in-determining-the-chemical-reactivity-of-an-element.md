@@ -2,8 +2,10 @@
 _schema: default
 id: 167080
 date: 2025-01-31
-title: Explain the role of valence electrons in determining the chemical reactivity of an element.
-article_title: Explain the role of valence electrons in determining the chemical reactivity of an element.
+title: >-
+    Explain the role of valence electrons in determining the chemical reactivity of an element.
+article_title: >-
+    Explain the role of valence electrons in determining the chemical reactivity of an element.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-role-of-valence-electrons-in-determining-the-chemical-rea
 url: /learn/chemistry/questions/explain-the-role-of-valence-electrons-in-determining-the-chemical-reactivity-of-an-element
 score: -1.0
 related_article1:
-    id: 167086
-    title: How does electronegativity affect bond formation and molecular polarity?
+    id: 167085
+    title: >-
+        What is the relationship between mass number, protons, and neutrons in determining atomic mass?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
+    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
 related_article2:
-    id: 167073
-    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+    id: 167085
+    title: >-
+        What is the relationship between mass number, protons, and neutrons in determining atomic mass?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
+    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
 related_article3:
-    id: 167086
-    title: How does electronegativity affect bond formation and molecular polarity?
+    id: 167072
+    title: >-
+        How do ionic bonds form and what role do electrostatic interactions play in their stability?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
+    url: /learn/chemistry/questions/how-do-ionic-bonds-form-and-what-role-do-electrostatic-interactions-play-in-their-stability
 related_article4:
-    id: 167078
-    title: What are the differences between monosaccharides and polysaccharides in terms of structure and solubility?
+    id: 167085
+    title: >-
+        What is the relationship between mass number, protons, and neutrons in determining atomic mass?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-differences-between-monosaccharides-and-polysaccharides-in-terms-of-structure-and-solubility
+    url: /learn/chemistry/questions/what-is-the-relationship-between-mass-number-protons-and-neutrons-in-determining-atomic-mass
 related_article5:
-    id: 167073
-    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
+    id: 167074
+    title: >-
+        Identify the functional groups present in amino acids and describe their properties.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
+    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
 ---
 
 &nbsp;

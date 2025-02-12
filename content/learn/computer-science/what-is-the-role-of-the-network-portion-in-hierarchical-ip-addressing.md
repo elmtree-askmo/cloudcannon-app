@@ -2,8 +2,10 @@
 _schema: default
 id: 165721
 date: 2025-01-29
-title: What is the role of the network portion in hierarchical IP addressing?
-article_title: What is the role of the network portion in hierarchical IP addressing?
+title: >-
+    What is the role of the network portion in hierarchical IP addressing?
+article_title: >-
+    What is the role of the network portion in hierarchical IP addressing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 score: -1.0
 related_article1:
-    id: 165705
-    title: Explain the significance of base 2 digits in the binary number system.
+    id: 165716
+    title: >-
+        Define broadcast addressing and provide an example scenario where it is used.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
+    url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
 related_article2:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
+    id: 165714
+    title: >-
+        Describe the representation of a broadcast address when the host portion is all 1s.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
+    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
 related_article3:
-    id: 165707
-    title: What are the steps involved in converting a decimal number to binary?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
-related_article4:
-    id: 165713
-    title: How is a host address represented using a combination of 0s and 1s?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
-related_article5:
     id: 165717
-    title: What is multicast addressing and how does it differ from unicast and broadcast addressing?
+    title: >-
+        What is multicast addressing and how does it differ from unicast and broadcast addressing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
+related_article4:
+    id: 165717
+    title: >-
+        What is multicast addressing and how does it differ from unicast and broadcast addressing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
+related_article5:
+    id: 165714
+    title: >-
+        Describe the representation of a broadcast address when the host portion is all 1s.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
 ---
 
 &nbsp;

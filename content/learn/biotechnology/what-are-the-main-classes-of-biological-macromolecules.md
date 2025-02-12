@@ -2,8 +2,10 @@
 _schema: default
 id: 167645
 date: 2025-01-31
-title: What are the main classes of biological macromolecules?
-article_title: What are the main classes of biological macromolecules?
+title: >-
+    What are the main classes of biological macromolecules?
+article_title: >-
+    What are the main classes of biological macromolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-classes-of-biological-macromolecules.md
 url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 score: -1.0
 related_article1:
-    id: 167636
-    title: What is the structural difference between purines and pyrimidines?
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
 related_article2:
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
+related_article3:
+    id: 167637
+    title: >-
+        Describe the structure of the DNA double helix.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
+related_article4:
     id: 167638
-    title: What role does the hydroxyl group play in RNA structure?
+    title: >-
+        What role does the hydroxyl group play in RNA structure?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
-related_article3:
-    id: 167634
-    title: What are the three main components of a nucleotide?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
-related_article4:
-    id: 167641
-    title: How does the primary structure of DNA differ from that of RNA?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
 related_article5:
-    id: 167635
-    title: How do ribose and deoxyribose sugars differ structurally?
+    id: 167642
+    title: >-
+        What is the role of hydrogen bonding in the secondary structure of DNA?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
+    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 ---
 
 &nbsp;

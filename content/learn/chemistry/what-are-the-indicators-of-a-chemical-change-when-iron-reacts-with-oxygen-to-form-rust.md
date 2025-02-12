@@ -2,8 +2,10 @@
 _schema: default
 id: 162048
 date: 2025-01-24
-title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
-article_title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+title: >-
+    What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+article_title: >-
+    What are the indicators of a chemical change when iron reacts with oxygen to form rust?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-ox
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 score: -1.0
 related_article1:
-    id: 162024
-    title: What is the significance of electron removal in the ionization process?
+    id: 161757
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 related_article2:
-    id: 162032
-    title: How does the reactivity of iron with oxygen lead to rust formation?
+    id: 162058
+    title: >-
+        What are the characteristics of liquids that distinguish them from gases and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-lead-to-rust-formation
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
 related_article3:
-    id: 162027
-    title: How does the appearance of a substance relate to its physical properties?
+    id: 161947
+    title: >-
+        How does the process of evaporation differ from freezing in terms of state transitions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
 related_article4:
-    id: 161994
-    title: How does the reactivity of oxygen influence its chemical properties?
+    id: 161929
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article5:
-    id: 161991
-    title: How does the process of shaving wood represent a physical change?
+    id: 162042
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 ---
 
 &nbsp;

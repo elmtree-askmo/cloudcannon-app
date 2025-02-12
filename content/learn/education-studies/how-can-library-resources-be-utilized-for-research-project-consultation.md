@@ -2,8 +2,10 @@
 _schema: default
 id: 170666
 date: 2025-02-06
-title: How can library resources be utilized for research project consultation?
-article_title: How can library resources be utilized for research project consultation?
+title: >-
+    How can library resources be utilized for research project consultation?
+article_title: >-
+    How can library resources be utilized for research project consultation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-library-resources-be-utilized-for-research-project-consultati
 url: /learn/education-studies/questions/how-can-library-resources-be-utilized-for-research-project-consultation
 score: -1.0
 related_article1:
-    id: 170654
-    title: How can participating in community events enhance personal connections?
+    id: 170652
+    title: >-
+        What strategies can be used to build relationships with community organizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participating-in-community-events-enhance-personal-connections
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
 related_article2:
-    id: 170660
-    title: What is intrinsic motivation, and how does it contribute to long-term sustainability?
+    id: 170659
+    title: >-
+        How do process goals differ from outcome goals, and why is it important to align actions with them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-intrinsic-motivation-and-how-does-it-contribute-to-longterm-sustainability
+    url: /learn/education-studies/questions/how-do-process-goals-differ-from-outcome-goals-and-why-is-it-important-to-align-actions-with-them
 related_article3:
-    id: 170668
-    title: What are some effective stress management techniques for balancing academic pressure?
+    id: 170672
+    title: >-
+        How can participating in honors and research programs support academic pursuits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-stress-management-techniques-for-balancing-academic-pressure
+    url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
 related_article4:
-    id: 170649
-    title: What are some effective ways to find volunteer events in your community?
+    id: 170672
+    title: >-
+        How can participating in honors and research programs support academic pursuits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-ways-to-find-volunteer-events-in-your-community
+    url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
 related_article5:
-    id: 170670
-    title: What are the key components of understanding financial aid, including scholarships and grants?
+    id: 170652
+    title: >-
+        What strategies can be used to build relationships with community organizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-understanding-financial-aid-including-scholarships-and-grants
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
 ---
 
 &nbsp;

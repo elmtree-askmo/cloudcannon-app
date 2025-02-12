@@ -2,8 +2,10 @@
 _schema: default
 id: 166007
 date: 2025-01-29
-title: What are the traditional definitions of myth, and how do they involve supernatural beings?
-article_title: What are the traditional definitions of myth, and how do they involve supernatural beings?
+title: >-
+    What are the traditional definitions of myth, and how do they involve supernatural beings?
+article_title: >-
+    What are the traditional definitions of myth, and how do they involve supernatural beings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-traditional-definitions-of-myth-and-how-do-they-involve-
 url: /learn/education-studies/questions/what-are-the-traditional-definitions-of-myth-and-how-do-they-involve-supernatural-beings
 score: -1.0
 related_article1:
-    id: 166003
-    title: What are the primary differences between literary sources and inscriptions as ancient texts?
+    id: 166009
+    title: >-
+        In what ways did the Renaissance influence the reception of classical myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
+    url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
 related_article2:
-    id: 166002
-    title: How do historical contexts and political events influence the cultural memory in mythology?
+    id: 166001
+    title: >-
+        What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-historical-contexts-and-political-events-influence-the-cultural-memory-in-mythology
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
 related_article3:
-    id: 166005
-    title: What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
+    id: 166001
+    title: >-
+        What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology-and-how-did-claude-lvistrauss-contribute-to-this-field
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
 related_article4:
-    id: 166010
-    title: How have myths influenced modern art and literature?
+    id: 166006
+    title: >-
+        How do archetypes function in comparative mythology according to Carl Jung?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-myths-influenced-modern-art-and-literature
+    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
 related_article5:
     id: 166006
-    title: How do archetypes function in comparative mythology according to Carl Jung?
+    title: >-
+        How do archetypes function in comparative mythology according to Carl Jung?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 170767
 date: 2025-02-06
-title: Why is the base case crucial in a proof by induction?
-article_title: Why is the base case crucial in a proof by induction?
+title: >-
+    Why is the base case crucial in a proof by induction?
+article_title: >-
+    Why is the base case crucial in a proof by induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-base-case-crucial-in-a-proof-by-induction.md
 url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
 score: -1.0
 related_article1:
-    id: 170772
-    title: What are the properties of natural numbers that make them suitable for induction?
+    id: 170755
+    title: >-
+        What is the base case in the inductive principle, and why is it important?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-natural-numbers-that-make-them-suitable-for-induction
+    url: /learn/mathematics/questions/what-is-the-base-case-in-the-inductive-principle-and-why-is-it-important
 related_article2:
-    id: 170761
-    title: What is a direct proof, and how does it differ from a proof by contradiction?
+    id: 170760
+    title: >-
+        Describe a scenario where strong induction is more applicable than simple induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
+    url: /learn/mathematics/questions/describe-a-scenario-where-strong-induction-is-more-applicable-than-simple-induction
 related_article3:
     id: 170773
-    title: Explain the role of the successor function in the context of natural numbers.
+    title: >-
+        Explain the role of the successor function in the context of natural numbers.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-role-of-the-successor-function-in-the-context-of-natural-numbers
 related_article4:
-    id: 170763
-    title: Define divisibility in mathematics and list its basic properties.
+    id: 170762
+    title: >-
+        Why is induction considered an important proof technique in mathematics?
     subject: Mathematics
-    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+    url: /learn/mathematics/questions/why-is-induction-considered-an-important-proof-technique-in-mathematics
 related_article5:
-    id: 170770
-    title: What is the logical basis for the justification of induction?
+    id: 170766
+    title: >-
+        Give an example of a correct application of the inductive step.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
+    url: /learn/mathematics/questions/give-an-example-of-a-correct-application-of-the-inductive-step
 ---
 
 &nbsp;

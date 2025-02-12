@@ -2,8 +2,10 @@
 _schema: default
 id: 167804
 date: 2025-02-01
-title: How can genetic mutations lead to a loss of function in an organism?
-article_title: How can genetic mutations lead to a loss of function in an organism?
+title: >-
+    How can genetic mutations lead to a loss of function in an organism?
+article_title: >-
+    How can genetic mutations lead to a loss of function in an organism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism.m
 url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
 score: -1.0
 related_article1:
-    id: 167801
-    title: What is the ABO blood group system and how does it relate to genotype and phenotype?
+    id: 167795
+    title: >-
+        How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
+    url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
 related_article2:
+    id: 167783
+    title: >-
+        How do genotype and phenotype differ in genetic expression?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
+related_article3:
+    id: 167800
+    title: >-
+        How does the environment influence the phenotype of individuals with phenylketonuria?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
+related_article4:
     id: 167791
-    title: What is the genetic basis for the AB blood type expression?
+    title: >-
+        What is the genetic basis for the AB blood type expression?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-genetic-basis-for-the-ab-blood-type-expression
-related_article3:
-    id: 167790
-    title: How is co-dominance exemplified in human blood types?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
-related_article4:
-    id: 167799
-    title: What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 related_article5:
-    id: 167784
-    title: What role do alleles play in determining an organism's traits?
+    id: 167782
+    title: >-
+        What is the difference between dominant and recessive traits in Mendelian inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-alleles-play-in-determining-an-organisms-traits
+    url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
 ---
 
 &nbsp;

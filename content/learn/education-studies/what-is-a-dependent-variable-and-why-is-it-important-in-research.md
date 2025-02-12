@@ -2,8 +2,10 @@
 _schema: default
 id: 165095
 date: 2025-01-28
-title: What is a dependent variable and why is it important in research?
-article_title: What is a dependent variable and why is it important in research?
+title: >-
+    What is a dependent variable and why is it important in research?
+article_title: >-
+    What is a dependent variable and why is it important in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-dependent-variable-and-why-is-it-important-in-research.md
 url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
 score: -1.0
 related_article1:
-    id: 165120
-    title: What are the biological and environmental factors affecting taste perception?
+    id: 165116
+    title: >-
+        What are some common pitfalls in reporting experimental outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
+    url: /learn/education-studies/questions/what-are-some-common-pitfalls-in-reporting-experimental-outcomes
 related_article2:
-    id: 165120
-    title: What are the biological and environmental factors affecting taste perception?
+    id: 165096
+    title: >-
+        Describe the different types of measurement scales used for dependent variables.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
+    url: /learn/education-studies/questions/describe-the-different-types-of-measurement-scales-used-for-dependent-variables
 related_article3:
+    id: 165110
+    title: >-
+        Explain the process of hypothesis testing in inferential statistics.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-process-of-hypothesis-testing-in-inferential-statistics
+related_article4:
+    id: 165108
+    title: >-
+        What are some popular software tools used for data coding and what are best practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-popular-software-tools-used-for-data-coding-and-what-are-best-practices
+related_article5:
     id: 165101
-    title: Explain the difference between interval and ratio measurement types with examples.
+    title: >-
+        Explain the difference between interval and ratio measurement types with examples.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
-related_article4:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
-related_article5:
-    id: 165109
-    title: What are measures of central tendency and variability in descriptive statistics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-measures-of-central-tendency-and-variability-in-descriptive-statistics
 ---
 
 &nbsp;

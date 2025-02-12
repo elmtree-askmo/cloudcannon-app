@@ -2,8 +2,10 @@
 _schema: default
 id: 168891
 date: 2025-02-04
-title: How is experienced well-being measured using the Day Reconstruction Method?
-article_title: How is experienced well-being measured using the Day Reconstruction Method?
+title: >-
+    How is experienced well-being measured using the Day Reconstruction Method?
+article_title: >-
+    How is experienced well-being measured using the Day Reconstruction Method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-experienced-wellbeing-measured-using-the-day-reconstruction-me
 url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
 score: -1.0
 related_article1:
-    id: 168878
-    title: What is the narrative fallacy and how does it affect our understanding of past events?
+    id: 168892
+    title: >-
+        What is the difference between life satisfaction and happiness in the context of well-being?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
 related_article2:
-    id: 168885
-    title: What role does overconfidence play in financial forecasting?
+    id: 168895
+    title: >-
+        Explain the concept of rational addiction and its implications for cognitive repairs.
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
 related_article3:
+    id: 168883
+    title: >-
+        What is the planning fallacy and how does it affect project forecasts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+related_article4:
+    id: 168894
+    title: >-
+        What is the availability heuristic and how does it affect decision-making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking
+related_article5:
     id: 168888
-    title: What is the disposition effect and how does it affect investment decisions?
+    title: >-
+        What is the disposition effect and how does it affect investment decisions?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
-related_article4:
-    id: 168887
-    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
-related_article5:
-    id: 168887
-    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164279
 date: 2025-01-28
-title: How can clarity and precision be ensured in question design?
-article_title: How can clarity and precision be ensured in question design?
+title: >-
+    How can clarity and precision be ensured in question design?
+article_title: >-
+    How can clarity and precision be ensured in question design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-clarity-and-precision-be-ensured-in-question-design.md
 url: /learn/education-studies/questions/how-can-clarity-and-precision-be-ensured-in-question-design
 score: -1.0
 related_article1:
-    id: 164284
-    title: How should test content be structured to ensure a logical flow and effective topic segmentation?
+    id: 164276
+    title: >-
+        How can previous session topics be effectively included in test content coverage?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-test-content-be-structured-to-ensure-a-logical-flow-and-effective-topic-segmentation
+    url: /learn/education-studies/questions/how-can-previous-session-topics-be-effectively-included-in-test-content-coverage
 related_article2:
-    id: 164286
-    title: What are the key components of creating a review schedule and allocating resources effectively?
+    id: 164280
+    title: >-
+        What criteria should be used for evaluating responses in assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-creating-a-review-schedule-and-allocating-resources-effectively
+    url: /learn/education-studies/questions/what-criteria-should-be-used-for-evaluating-responses-in-assessments
 related_article3:
+    id: 164277
+    title: >-
+        What are the different types of questions that can be included in a test format?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-questions-that-can-be-included-in-a-test-format
+related_article4:
     id: 164278
-    title: What are the essential elements of designing evidence-based questions?
+    title: >-
+        What are the essential elements of designing evidence-based questions?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-essential-elements-of-designing-evidencebased-questions
-related_article4:
-    id: 164282
-    title: How can responses be validated effectively in evidence-based questioning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-responses-be-validated-effectively-in-evidencebased-questioning
 related_article5:
     id: 164277
-    title: What are the different types of questions that can be included in a test format?
+    title: >-
+        What are the different types of questions that can be included in a test format?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-different-types-of-questions-that-can-be-included-in-a-test-format
 ---

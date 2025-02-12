@@ -2,8 +2,10 @@
 _schema: default
 id: 170196
 date: 2025-02-06
-title: What is a bi-conditional, and how is it used to express equivalence in logic?
-article_title: What is a bi-conditional, and how is it used to express equivalence in logic?
+title: >-
+    What is a bi-conditional, and how is it used to express equivalence in logic?
+article_title: >-
+    What is a bi-conditional, and how is it used to express equivalence in logic?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-
 url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
 score: -1.0
 related_article1:
-    id: 170190
-    title: How does negation affect the truth value of a proposition?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
-related_article2:
-    id: 170194
-    title: How does the direction of implication affect the meaning of a logical statement?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-direction-of-implication-affect-the-meaning-of-a-logical-statement
-related_article3:
-    id: 170188
-    title: What are some common examples of ambiguity in language, and how can logic help resolve them?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
-related_article4:
     id: 170192
-    title: Explain the concept of exclusive-or and how it differs from regular disjunction.
+    title: >-
+        Explain the concept of exclusive-or and how it differs from regular disjunction.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-concept-of-exclusiveor-and-how-it-differs-from-regular-disjunction
+related_article2:
+    id: 170188
+    title: >-
+        What are some common examples of ambiguity in language, and how can logic help resolve them?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-examples-of-ambiguity-in-language-and-how-can-logic-help-resolve-them
+related_article3:
+    id: 170189
+    title: >-
+        Why is context important when translating English sentences into propositional logic?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-context-important-when-translating-english-sentences-into-propositional-logic
+related_article4:
+    id: 170193
+    title: >-
+        What is the role of implication in propositional logic, and how is it typically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
+related_article5:
+    id: 170199
+    title: >-
+        How do you determine the correct order of variables in a logical expression?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
 ---
 
 &nbsp;

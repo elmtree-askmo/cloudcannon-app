@@ -2,8 +2,10 @@
 _schema: default
 id: 170396
 date: 2025-02-06
-title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
-article_title: How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+title: >-
+    How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
+article_title: >-
+    How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-carbon-move-between-living-and-nonliving-parts-of-earths-sub
 url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
 score: -1.0
 related_article1:
-    id: 170418
-    title: Describe the methods and technologies involved in carbon capture and storage, and discuss the challenges and benefits.
+    id: 170395
+    title: >-
+        Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-methods-and-technologies-involved-in-carbon-capture-and-storage-and-discuss-the-challenges-and-benefits
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 related_article2:
-    id: 170401
-    title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    id: 170410
+    title: >-
+        Why is the study of the carbon cycle important in environmental science, particularly for ecosystem health and climate regulation?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+    url: /learn/chemistry/questions/why-is-the-study-of-the-carbon-cycle-important-in-environmental-science-particularly-for-ecosystem-health-and-climate-regulation
 related_article3:
-    id: 170404
-    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    id: 170419
+    title: >-
+        Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
 related_article4:
-    id: 170401
-    title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    id: 170413
+    title: >-
+        What are the sources of atmospheric carbon, and how do they impact climate?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
 related_article5:
-    id: 170416
-    title: Identify the main sources of carbon emissions and discuss strategies for their reduction.
+    id: 170397
+    title: >-
+        Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
     subject: Chemistry
-    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
+    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
 ---
 
 &nbsp;

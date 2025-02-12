@@ -2,8 +2,10 @@
 _schema: default
 id: 167788
 date: 2025-02-01
-title: How do genetic mutations contribute to genetic variation?
-article_title: How do genetic mutations contribute to genetic variation?
+title: >-
+    How do genetic mutations contribute to genetic variation?
+article_title: >-
+    How do genetic mutations contribute to genetic variation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-genetic-mutations-contribute-to-genetic-variation.md
 url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
 score: -1.0
 related_article1:
-    id: 167793
-    title: Provide an example of incomplete dominance in flower color.
+    id: 167786
+    title: >-
+        What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
+    url: /learn/education-studies/questions/what-is-the-expected-phenotypic-ratio-in-a-dihybrid-cross-involving-two-heterozygous-parents
 related_article2:
-    id: 167791
-    title: What is the genetic basis for the AB blood type expression?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-basis-for-the-ab-blood-type-expression
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article3:
-    id: 167803
-    title: What are point mutations and how do they differ from chromosomal alterations?
+    id: 167785
+    title: >-
+        How are Punnett squares used to predict the outcomes of dihybrid crosses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
+    url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
 related_article4:
-    id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    id: 167789
+    title: >-
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
+    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 related_article5:
     id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    title: >-
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 ---

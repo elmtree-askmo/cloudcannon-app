@@ -2,8 +2,10 @@
 _schema: default
 id: 167447
 date: 2025-01-31
-title: Describe the properties and reactions of sodium chloride as a common ionic compound.
-article_title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+title: >-
+    Describe the properties and reactions of sodium chloride as a common ionic compound.
+article_title: >-
+    Describe the properties and reactions of sodium chloride as a common ionic compound.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-
 url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 score: -1.0
 related_article1:
-    id: 167462
-    title: What are the components of an atom, and how do they determine its chemical properties?
+    id: 167448
+    title: >-
+        How do hydrogen bonds influence the properties of water?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-components-of-an-atom-and-how-do-they-determine-its-chemical-properties
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
 related_article2:
-    id: 167465
-    title: Describe the types of molecular interactions and their significance in protein folding.
+    id: 167461
+    title: >-
+        How does molecular geometry influence the biological activity of a molecule?
     subject: Biology
-    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
+    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
 related_article3:
-    id: 167460
-    title: What factors determine the molecular structure of a compound?
+    id: 167444
+    title: >-
+        What is the primary characteristic of covalent bonds in terms of electron sharing?
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
 related_article4:
-    id: 167449
-    title: What role do hydrogen bonds play in the structure of proteins?
+    id: 167466
+    title: >-
+        What is the scope of biochemistry, and why is it important in the study of life chemistry?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
 related_article5:
-    id: 167454
-    title: What are the defining characteristics of organic compounds?
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 ---
 
 &nbsp;

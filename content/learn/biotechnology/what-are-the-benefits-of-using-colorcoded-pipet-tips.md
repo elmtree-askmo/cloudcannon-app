@@ -2,8 +2,10 @@
 _schema: default
 id: 165374
 date: 2025-01-29
-title: What are the benefits of using color-coded pipet tips?
-article_title: What are the benefits of using color-coded pipet tips?
+title: >-
+    What are the benefits of using color-coded pipet tips?
+article_title: >-
+    What are the benefits of using color-coded pipet tips?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-using-colorcoded-pipet-tips.md
 url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
 score: -1.0
 related_article1:
-    id: 165369
-    title: How does selecting the correct pipet affect volume measurement accuracy?
+    id: 165366
+    title: >-
+        List the steps involved in attaching a pipet tip and drawing up liquid.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+    url: /learn/biotechnology/questions/list-the-steps-involved-in-attaching-a-pipet-tip-and-drawing-up-liquid
 related_article2:
+    id: 165378
+    title: >-
+        What safety precautions should be taken when disposing of pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article3:
     id: 165376
-    title: Describe the proper technique for attaching and ejecting pipet tips.
+    title: >-
+        Describe the proper technique for attaching and ejecting pipet tips.
     subject: Biotechnology
     url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
-related_article3:
-    id: 165365
-    title: Describe the proper procedure for setting the volume on a pipet.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-proper-procedure-for-setting-the-volume-on-a-pipet
 related_article4:
-    id: 165367
-    title: What are the key differences between Endorf pipets and other popular pipet brands?
+    id: 165364
+    title: >-
+        What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
+    url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
 related_article5:
-    id: 165380
-    title: What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
+    id: 165373
+    title: >-
+        Outline the steps involved in the pipet calibration process.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-common-issues-encountered-during-micro-pipetting-and-how-can-they-be-troubleshooted
+    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
 ---
 
 &nbsp;

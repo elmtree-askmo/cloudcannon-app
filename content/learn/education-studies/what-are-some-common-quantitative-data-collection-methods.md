@@ -2,8 +2,10 @@
 _schema: default
 id: 163684
 date: 2025-01-27
-title: What are some common quantitative data collection methods?
-article_title: What are some common quantitative data collection methods?
+title: >-
+    What are some common quantitative data collection methods?
+article_title: >-
+    What are some common quantitative data collection methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-quantitative-data-collection-methods.md
 url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
 score: -1.0
 related_article1:
-    id: 163693
-    title: What is holism, and why is it important in qualitative research?
+    id: 163691
+    title: >-
+        How does subjective knowledge contribute to qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
 related_article2:
-    id: 163693
-    title: What is holism, and why is it important in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
-related_article3:
-    id: 163673
-    title: What is ontology, and why is it important in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
-related_article4:
-    id: 163695
-    title: How does social constructivism influence qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-social-constructivism-influence-qualitative-research
-related_article5:
     id: 163674
-    title: How does positivism differ from social constructivism in terms of ontology?
+    title: >-
+        How does positivism differ from social constructivism in terms of ontology?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
+related_article3:
+    id: 163693
+    title: >-
+        What is holism, and why is it important in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+related_article4:
+    id: 163680
+    title: >-
+        How is deductive reasoning used in quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
+related_article5:
+    id: 163693
+    title: >-
+        What is holism, and why is it important in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
 ---
 
 &nbsp;

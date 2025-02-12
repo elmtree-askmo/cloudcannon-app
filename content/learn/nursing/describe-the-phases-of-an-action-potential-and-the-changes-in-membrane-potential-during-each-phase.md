@@ -2,8 +2,10 @@
 _schema: default
 id: 170599
 date: 2025-02-06
-title: Describe the phases of an action potential and the changes in membrane potential during each phase.
-article_title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+title: >-
+    Describe the phases of an action potential and the changes in membrane potential during each phase.
+article_title: >-
+    Describe the phases of an action potential and the changes in membrane potential during each phase.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-phases-of-an-action-potential-and-the-changes-in-membran
 url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
 score: -1.0
 related_article1:
-    id: 170601
-    title: Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    id: 170618
+    title: >-
+        What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
     subject: Nursing
-    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
 related_article2:
-    id: 170597
-    title: What are the main structural components of a neuron and their functions?
+    id: 170600
+    title: >-
+        What is the difference between the absolute and relative refractory periods in action potential propagation?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+    url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
 related_article3:
-    id: 170612
-    title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+    id: 170609
+    title: >-
+        What is the impact of multiple sclerosis on myelination and nerve signal transmission?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
+    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
 related_article4:
-    id: 170613
-    title: Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
+    id: 170614
+    title: >-
+        How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-process-of-synaptic-transmission-including-presynaptic-and-postsynaptic-events
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
 related_article5:
-    id: 170602
-    title: What role do leak channels play in maintaining the resting membrane potential?
+    id: 170611
+    title: >-
+        Explain the role of the sodium-potassium pump in action potential recovery.
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 ---
 
 &nbsp;

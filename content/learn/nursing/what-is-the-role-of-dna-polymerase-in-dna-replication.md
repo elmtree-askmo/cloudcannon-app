@@ -2,8 +2,10 @@
 _schema: default
 id: 167864
 date: 2025-02-01
-title: What is the role of DNA polymerase in DNA replication?
-article_title: What is the role of DNA polymerase in DNA replication?
+title: >-
+    What is the role of DNA polymerase in DNA replication?
+article_title: >-
+    What is the role of DNA polymerase in DNA replication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-role-of-dna-polymerase-in-dna-replication.md
 url: /learn/nursing/questions/what-is-the-role-of-dna-polymerase-in-dna-replication
 score: -1.0
 related_article1:
-    id: 167867
-    title: What are the phases of the cell cycle and their significance?
+    id: 167863
+    title: >-
+        How does oogenesis differ from spermatogenesis in terms of process and outcome?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
+    url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
 related_article2:
-    id: 167858
-    title: How does meiosis contribute to genetic variation?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
-related_article3:
     id: 167859
-    title: Describe the structure of a chromosome and its components.
+    title: >-
+        Describe the structure of a chromosome and its components.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
-related_article4:
-    id: 167861
-    title: How does chromosomal crossover contribute to genetic diversity?
+related_article3:
+    id: 167853
+    title: >-
+        What are the key sources for finding recent research articles on genetic diseases?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
+    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+related_article4:
+    id: 167860
+    title: >-
+        What is the role of homologous chromosomes during meiosis?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+related_article5:
+    id: 167862
+    title: >-
+        What are the stages of spermatogenesis and their outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-stages-of-spermatogenesis-and-their-outcomes
 ---
 
 &nbsp;

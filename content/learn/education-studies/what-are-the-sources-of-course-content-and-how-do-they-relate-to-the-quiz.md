@@ -2,8 +2,10 @@
 _schema: default
 id: 169257
 date: 2025-02-04
-title: What are the sources of course content, and how do they relate to the quiz?
-article_title: What are the sources of course content, and how do they relate to the quiz?
+title: >-
+    What are the sources of course content, and how do they relate to the quiz?
+article_title: >-
+    What are the sources of course content, and how do they relate to the quiz?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-sources-of-course-content-and-how-do-they-relate-to-the-
 url: /learn/education-studies/questions/what-are-the-sources-of-course-content-and-how-do-they-relate-to-the-quiz
 score: -1.0
 related_article1:
-    id: 169250
-    title: How are the total marks distributed across different sections of the quiz?
+    id: 169253
+    title: >-
+        How many terms are included in the definitions section, and what criteria are used for their selection?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
+    url: /learn/education-studies/questions/how-many-terms-are-included-in-the-definitions-section-and-what-criteria-are-used-for-their-selection
 related_article2:
-    id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
+    id: 169262
+    title: >-
+        What are the consequences of academic misconduct?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
+    url: /learn/education-studies/questions/what-are-the-consequences-of-academic-misconduct
 related_article3:
-    id: 169250
-    title: How are the total marks distributed across different sections of the quiz?
+    id: 169251
+    title: >-
+        How many multiple choice questions are there, and what is the marking scheme?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
+    url: /learn/education-studies/questions/how-many-multiple-choice-questions-are-there-and-what-is-the-marking-scheme
 related_article4:
-    id: 169249
-    title: What are the requirements for conducting the quiz in-class and the use of computers?
+    id: 169258
+    title: >-
+        Which areas of course content are emphasized in the quiz, and which are excluded?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-conducting-the-quiz-inclass-and-the-use-of-computers
+    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
 related_article5:
     id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
+    title: >-
+        What are the two formats for answering definition questions, and how do they differ?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
 ---

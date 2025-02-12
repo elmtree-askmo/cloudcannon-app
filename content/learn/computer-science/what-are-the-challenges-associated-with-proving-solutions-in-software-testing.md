@@ -2,8 +2,10 @@
 _schema: default
 id: 160709
 date: 2025-01-24
-title: What are the challenges associated with proving solutions in software testing?
-article_title: What are the challenges associated with proving solutions in software testing?
+title: >-
+    What are the challenges associated with proving solutions in software testing?
+article_title: >-
+    What are the challenges associated with proving solutions in software testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-associated-with-proving-solutions-in-software
 url: /learn/computer-science/questions/what-are-the-challenges-associated-with-proving-solutions-in-software-testing
 score: -1.0
 related_article1:
-    id: 160777
-    title: What is the purpose of abstraction in computing?
+    id: 161005
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article2:
-    id: 160775
-    title: Describe the divide and conquer strategy in algorithm development.
+    id: 161012
+    title: >-
+        How does representation influence algorithm complexity?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
+    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
 related_article3:
-    id: 160790
-    title: What are the challenges in proving software solutions compared to testing them?
+    id: 160795
+    title: >-
+        How can constraints simplify algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
+    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
 related_article4:
-    id: 160708
-    title: How can analyzing problem specifications aid in problem-solving strategies in software engineering?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-analyzing-problem-specifications-aid-in-problemsolving-strategies-in-software-engineering
-related_article5:
     id: 160869
-    title: How do Turing machines contribute to the theoretical foundations of computability?
+    title: >-
+        How do Turing machines contribute to the theoretical foundations of computability?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
+related_article5:
+    id: 160705
+    title: >-
+        Explain the concept of solvable vs. unsolvable problems in computability theory.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-concept-of-solvable-vs-unsolvable-problems-in-computability-theory
 ---
 
 &nbsp;

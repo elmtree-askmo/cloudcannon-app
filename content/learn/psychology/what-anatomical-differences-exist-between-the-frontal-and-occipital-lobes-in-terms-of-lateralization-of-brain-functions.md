@@ -2,8 +2,10 @@
 _schema: default
 id: 164578
 date: 2025-01-28
-title: What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
-article_title: What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+title: >-
+    What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+article_title: >-
+    What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-anatomical-differences-exist-between-the-frontal-and-occipital-l
 url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
 score: -1.0
 related_article1:
-    id: 164576
-    title: How is reaction time used to measure cognitive processing in neurologically intact individuals?
+    id: 164575
+    title: >-
+        What are the genetic and environmental factors that influence the development of neural tube defects?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
 related_article2:
-    id: 164581
-    title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+    id: 164582
+    title: >-
+        How does hemispheric dominance for language processing differ between right-handed and left-handed individuals?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+    url: /learn/psychology/questions/how-does-hemispheric-dominance-for-language-processing-differ-between-righthanded-and-lefthanded-individuals
 related_article3:
-    id: 164581
-    title: What is the role of the Sonic Hedgehog protein in early embryonic development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
-related_article4:
-    id: 164583
-    title: What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
-related_article5:
     id: 164573
-    title: How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
+    title: >-
+        How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
     subject: Psychology
     url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
+related_article4:
+    id: 164576
+    title: >-
+        How is reaction time used to measure cognitive processing in neurologically intact individuals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
+related_article5:
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
 ---
 
 &nbsp;

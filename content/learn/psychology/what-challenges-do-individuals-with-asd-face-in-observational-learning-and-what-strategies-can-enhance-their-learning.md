@@ -2,8 +2,10 @@
 _schema: default
 id: 169341
 date: 2025-02-05
-title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
-article_title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+title: >-
+    What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+article_title: >-
+    What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-individuals-with-asd-face-in-observational-learnin
 url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
 score: -1.0
 related_article1:
-    id: 169342
-    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    id: 169359
+    title: >-
+        How can assistive devices and communication systems foster independence in learning?
     subject: Psychology
-    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
 related_article2:
-    id: 169336
-    title: What is errorless learning, and how does it differ from trial and error learning?
+    id: 169356
+    title: >-
+        What are the types and characteristics of learning disabilities, and how do they impact learning?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
 related_article3:
-    id: 169342
-    title: Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    id: 169335
+    title: >-
+        Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
     subject: Psychology
-    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
 related_article4:
-    id: 169337
-    title: Discuss the pros and cons of errorless learning compared to trial and error learning.
+    id: 169346
+    title: >-
+        How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
+    url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
 related_article5:
-    id: 169355
-    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 ---
 
 &nbsp;

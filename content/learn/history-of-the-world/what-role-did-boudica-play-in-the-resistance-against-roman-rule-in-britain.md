@@ -2,8 +2,10 @@
 _schema: default
 id: 166107
 date: 2025-01-29
-title: What role did Boudica play in the resistance against Roman rule in Britain?
-article_title: What role did Boudica play in the resistance against Roman rule in Britain?
+title: >-
+    What role did Boudica play in the resistance against Roman rule in Britain?
+article_title: >-
+    What role did Boudica play in the resistance against Roman rule in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-boudica-play-in-the-resistance-against-roman-rule-in-br
 url: /learn/history-of-the-world/questions/what-role-did-boudica-play-in-the-resistance-against-roman-rule-in-britain
 score: 9.0
 related_article1:
-    id: 166106
-    title: How did the Britonic languages develop during the Roman period in Britain?
+    id: 166105
+    title: >-
+        What were the main challenges faced by the Romans during the initial invasions of Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-britonic-languages-develop-during-the-roman-period-in-britain
+    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-by-the-romans-during-the-initial-invasions-of-britain
 related_article2:
-    id: 166117
-    title: How has Roman Britain influenced modern British culture?
+    id: 166112
+    title: >-
+        What were the reasons behind the Roman expansion into Northern Europe and Africa?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
+    url: /learn/history-of-the-world/questions/what-were-the-reasons-behind-the-roman-expansion-into-northern-europe-and-africa
 related_article3:
+    id: 166114
+    title: >-
+        What were the characteristics of Roman urbanization in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
+related_article4:
+    id: 166103
+    title: >-
+        What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-factors-that-led-to-the-transition-from-the-roman-republic-to-the-roman-empire
+related_article5:
     id: 166111
-    title: How did early Christian communities establish themselves in Roman Britain?
+    title: >-
+        How did early Christian communities establish themselves in Roman Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-early-christian-communities-establish-themselves-in-roman-britain
-related_article4:
-    id: 166113
-    title: How do classical authors' accounts contribute to our understanding of Roman Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
-related_article5:
-    id: 166117
-    title: How has Roman Britain influenced modern British culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
 ---
 
 &nbsp;

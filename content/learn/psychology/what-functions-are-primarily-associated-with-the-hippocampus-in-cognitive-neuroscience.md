@@ -2,8 +2,10 @@
 _schema: default
 id: 164724
 date: 2025-01-28
-title: What functions are primarily associated with the hippocampus in cognitive neuroscience?
-article_title: What functions are primarily associated with the hippocampus in cognitive neuroscience?
+title: >-
+    What functions are primarily associated with the hippocampus in cognitive neuroscience?
+article_title: >-
+    What functions are primarily associated with the hippocampus in cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-functions-are-primarily-associated-with-the-hippocampus-in-cogni
 url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
 score: -1.0
 related_article1:
-    id: 164730
-    title: How does divided attention impact multitasking abilities?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
-related_article2:
     id: 164735
-    title: What are the primary functions of the frontal lobe in the brain?
+    title: >-
+        What are the primary functions of the frontal lobe in the brain?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+related_article2:
+    id: 164731
+    title: >-
+        What is the significance of signal detection in vigilance tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
 related_article3:
-    id: 164714
-    title: What role does the P-600 component play in syntactic processing?
+    id: 164719
+    title: >-
+        How does procedural memory differ from declarative memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
 related_article4:
-    id: 164715
-    title: How is the N400 component related to semantic processing and contextual integration?
+    id: 164726
+    title: >-
+        How does the amygdala contribute to emotional processing in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
 related_article5:
-    id: 164728
-    title: What is the role of selective attention in visual search tasks?
+    id: 164717
+    title: >-
+        How does Wernicke's aphasia affect language comprehension?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
+    url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
 ---
 
 &nbsp;

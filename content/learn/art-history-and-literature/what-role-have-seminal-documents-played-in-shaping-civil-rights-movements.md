@@ -2,8 +2,10 @@
 _schema: default
 id: 168581
 date: 2025-02-03
-title: What role have seminal documents played in shaping civil rights movements?
-article_title: What role have seminal documents played in shaping civil rights movements?
+title: >-
+    What role have seminal documents played in shaping civil rights movements?
+article_title: >-
+    What role have seminal documents played in shaping civil rights movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/what-role-have-seminal-document
 score: 9.5
 related_article1:
     id: 168568
-    title: How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+    title: >-
+        How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
 related_article2:
-    id: 168565
-    title: What are the key characteristics that define a seminal document?
+    id: 168566
+    title: >-
+        How have seminal documents influenced American culture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
+    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 related_article3:
-    id: 168571
-    title: What are the legal and social perspectives of justice as depicted in seminal texts?
+    id: 168575
+    title: >-
+        What is the role of logical appeals (logos) in the argumentation of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
 related_article4:
-    id: 168579
-    title: What is the tone of the Gettysburg Address, and how does it contribute to its message?
+    id: 168578
+    title: >-
+        How does tone shape the understanding of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
+    url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
 related_article5:
-    id: 168584
-    title: How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
+    id: 168573
+    title: >-
+        What role does sentence structure play in influencing a reader's understanding of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
+    url: /learn/art-history-and-literature/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
 ---
 
 &nbsp;

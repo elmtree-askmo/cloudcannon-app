@@ -2,8 +2,10 @@
 _schema: default
 id: 168138
 date: 2025-02-02
-title: What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
-article_title: What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
+title: >-
+    What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
+article_title: >-
+    What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-distinction-between-an-event-and-historical-knowledge-and
 url: /learn/education-studies/questions/what-is-the-distinction-between-an-event-and-historical-knowledge-and-how-do-historians-act-as-storytellers-in-constructing-narratives
 score: -1.0
 related_article1:
-    id: 168144
-    title: In what ways has technology impacted the preservation and accessibility of historical sources, and how does it influence the methods of documentation?
+    id: 168147
+    title: >-
+        What methods are used in the analysis of historical documents, and how do historians evaluate the credibility of historical claims?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-has-technology-impacted-the-preservation-and-accessibility-of-historical-sources-and-how-does-it-influence-the-methods-of-documentation
+    url: /learn/education-studies/questions/what-methods-are-used-in-the-analysis-of-historical-documents-and-how-do-historians-evaluate-the-credibility-of-historical-claims
 related_article2:
     id: 168144
-    title: In what ways has technology impacted the preservation and accessibility of historical sources, and how does it influence the methods of documentation?
+    title: >-
+        In what ways has technology impacted the preservation and accessibility of historical sources, and how does it influence the methods of documentation?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-has-technology-impacted-the-preservation-and-accessibility-of-historical-sources-and-how-does-it-influence-the-methods-of-documentation
 related_article3:
-    id: 168141
-    title: What is contingency in historical knowledge, and how can new discoveries impact our understanding of history?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-contingency-in-historical-knowledge-and-how-can-new-discoveries-impact-our-understanding-of-history
-related_article4:
     id: 168142
-    title: Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
+    title: >-
+        Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-context-important-in-the-interpretation-of-historical-events-and-how-do-historians-evaluate-evidence-within-this-context
-related_article5:
+related_article4:
     id: 168139
-    title: What are the key characteristics that differentiate primary sources from secondary sources in historical research?
+    title: >-
+        What are the key characteristics that differentiate primary sources from secondary sources in historical research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-characteristics-that-differentiate-primary-sources-from-secondary-sources-in-historical-research
+related_article5:
+    id: 168145
+    title: >-
+        How can bias in historical documents be identified, and what strategies can historians use to address it in their studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-bias-in-historical-documents-be-identified-and-what-strategies-can-historians-use-to-address-it-in-their-studies
 ---
 
 &nbsp;

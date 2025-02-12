@@ -2,8 +2,10 @@
 _schema: default
 id: 166525
 date: 2025-01-30
-title: How does historical context influence art interpretation?
-article_title: How does historical context influence art interpretation?
+title: >-
+    How does historical context influence art interpretation?
+article_title: >-
+    How does historical context influence art interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-historical-context-influence-art-interpretation.md
 url: /learn/education-studies/questions/how-does-historical-context-influence-art-interpretation
 score: -1.0
 related_article1:
-    id: 166519
-    title: What is the role of visual analysis in art criticism?
+    id: 166528
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-visual-analysis-in-art-criticism
+    url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 related_article2:
-    id: 166516
-    title: What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
+    id: 166523
+    title: >-
+        How do Realism artists convey their influences through their notable works?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
+    url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
 related_article3:
     id: 166519
-    title: What is the role of visual analysis in art criticism?
+    title: >-
+        What is the role of visual analysis in art criticism?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-visual-analysis-in-art-criticism
 related_article4:
-    id: 166531
-    title: How does art influence society and provide cultural commentary?
+    id: 166528
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
+    url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 related_article5:
-    id: 166523
-    title: How do Realism artists convey their influences through their notable works?
+    id: 166516
+    title: >-
+        What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
 ---
 
 &nbsp;

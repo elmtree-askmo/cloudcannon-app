@@ -2,8 +2,10 @@
 _schema: default
 id: 168220
 date: 2025-02-03
-title: How should time be managed effectively during an exam?
-article_title: How should time be managed effectively during an exam?
+title: >-
+    How should time be managed effectively during an exam?
+article_title: >-
+    How should time be managed effectively during an exam?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-time-be-managed-effectively-during-an-exam.md
 url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
 score: -1.0
 related_article1:
-    id: 168225
-    title: What are the expectations for student conduct during an exam?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-expectations-for-student-conduct-during-an-exam
-related_article2:
-    id: 168234
-    title: How should feedback be provided to students after assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-feedback-be-provided-to-students-after-assessments
-related_article3:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
-related_article4:
-    id: 168230
-    title: How should seating arrangements be managed in the exam room?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
-related_article5:
     id: 168224
-    title: What items are allowed and prohibited during an exam according to general guidelines?
+    title: >-
+        What items are allowed and prohibited during an exam according to general guidelines?
     subject: Education Studies
     url: /learn/education-studies/questions/what-items-are-allowed-and-prohibited-during-an-exam-according-to-general-guidelines
+related_article2:
+    id: 168217
+    title: >-
+        What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
+related_article3:
+    id: 168234
+    title: >-
+        How should feedback be provided to students after assessments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-feedback-be-provided-to-students-after-assessments
+related_article4:
+    id: 168233
+    title: >-
+        What criteria are used in the grading rubric for assessments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
+related_article5:
+    id: 168218
+    title: >-
+        How should electronics and personal items be managed before the exam begins?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
 ---
 
 &nbsp;

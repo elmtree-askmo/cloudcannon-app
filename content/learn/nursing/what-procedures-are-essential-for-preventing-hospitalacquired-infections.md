@@ -2,8 +2,10 @@
 _schema: default
 id: 169671
 date: 2025-02-05
-title: What procedures are essential for preventing hospital-acquired infections?
-article_title: What procedures are essential for preventing hospital-acquired infections?
+title: >-
+    What procedures are essential for preventing hospital-acquired infections?
+article_title: >-
+    What procedures are essential for preventing hospital-acquired infections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospi
 score: -1.0
 related_article1:
     id: 169677
-    title: What are the key components of an effective emergency evacuation plan in case of a fire?
+    title: >-
+        What are the key components of an effective emergency evacuation plan in case of a fire?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
 related_article2:
-    id: 169683
-    title: What techniques are effective in managing aggressive patients and ensuring staff safety?
+    id: 169666
+    title: >-
+        How should nurses handle drug errors to maintain professional standards and ensure patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
 related_article3:
-    id: 169667
-    title: What are the best practices for safe medication prescription and administration to avoid errors?
+    id: 169680
+    title: >-
+        What are the essential components of an emergency response plan in a healthcare setting?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
+    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
 related_article4:
-    id: 169664
-    title: How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    id: 169676
+    title: >-
+        What are the risks associated with bedrails, and what are the alternatives to their use?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
+    url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
 related_article5:
-    id: 169669
-    title: What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+    id: 169678
+    title: >-
+        How should medical equipment be maintained to ensure its functionality and safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
+    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
 ---
 
 &nbsp;

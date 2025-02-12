@@ -2,8 +2,10 @@
 _schema: default
 id: 161029
 date: 2025-01-24
-title: What are the advantages of using non-numeric indices in associative arrays?
-article_title: What are the advantages of using non-numeric indices in associative arrays?
+title: >-
+    What are the advantages of using non-numeric indices in associative arrays?
+article_title: >-
+    What are the advantages of using non-numeric indices in associative arrays?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-nonnumeric-indices-in-associative-ar
 url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
 score: -1.0
 related_article1:
-    id: 160709
-    title: What are the challenges associated with proving solutions in software testing?
+    id: 160791
+    title: >-
+        What constraints must be considered for binary search to be effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-proving-solutions-in-software-testing
+    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
 related_article2:
-    id: 161015
-    title: What is the purpose of abstraction in computing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
-related_article3:
-    id: 160862
-    title: Describe the divide and conquer strategy in algorithm development.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
-related_article4:
-    id: 160702
-    title: What is the importance of time complexity in evaluating algorithm efficiency?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-time-complexity-in-evaluating-algorithm-efficiency
-related_article5:
     id: 160796
-    title: What data is required for generating circular calendars?
+    title: >-
+        What data is required for generating circular calendars?
     subject: Computer Science
     url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
+related_article3:
+    id: 160705
+    title: >-
+        Explain the concept of solvable vs. unsolvable problems in computability theory.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-concept-of-solvable-vs-unsolvable-problems-in-computability-theory
+related_article4:
+    id: 160708
+    title: >-
+        How can analyzing problem specifications aid in problem-solving strategies in software engineering?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-analyzing-problem-specifications-aid-in-problemsolving-strategies-in-software-engineering
+related_article5:
+    id: 160794
+    title: >-
+        What are the advantages of using non-numeric indices in associative arrays?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
 ---
 
 &nbsp;

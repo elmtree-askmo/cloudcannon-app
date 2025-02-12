@@ -2,8 +2,10 @@
 _schema: default
 id: 168665
 date: 2025-02-03
-title: What is the purpose of in-text citations in APA style?
-article_title: What is the purpose of in-text citations in APA style?
+title: >-
+    What is the purpose of in-text citations in APA style?
+article_title: >-
+    What is the purpose of in-text citations in APA style?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-intext-citations-in-apa-style.md
 url: /learn/education-studies/questions/what-is-the-purpose-of-intext-citations-in-apa-style
 score: -1.0
 related_article1:
+    id: 168676
+    title: >-
+        When is it appropriate to use quotations in academic writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/when-is-it-appropriate-to-use-quotations-in-academic-writing
+related_article2:
     id: 168680
-    title: How can one ensure citation accuracy and consistency in academic writing?
+    title: >-
+        How can one ensure citation accuracy and consistency in academic writing?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-one-ensure-citation-accuracy-and-consistency-in-academic-writing
-related_article2:
-    id: 168667
-    title: What are the main components of an APA references page?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-an-apa-references-page
 related_article3:
     id: 168668
-    title: How does a references page differ from a bibliography in APA style?
+    title: >-
+        How does a references page differ from a bibliography in APA style?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-a-references-page-differ-from-a-bibliography-in-apa-style
 related_article4:
-    id: 168667
-    title: What are the main components of an APA references page?
+    id: 168680
+    title: >-
+        How can one ensure citation accuracy and consistency in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-an-apa-references-page
+    url: /learn/education-studies/questions/how-can-one-ensure-citation-accuracy-and-consistency-in-academic-writing
 related_article5:
-    id: 168675
-    title: How do citations support arguments in academic writing?
+    id: 168672
+    title: >-
+        Why is source credibility crucial in research documentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-citations-support-arguments-in-academic-writing
+    url: /learn/education-studies/questions/why-is-source-credibility-crucial-in-research-documentation
 ---
 
 &nbsp;

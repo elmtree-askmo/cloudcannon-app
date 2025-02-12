@@ -2,8 +2,10 @@
 _schema: default
 id: 169818
 date: 2025-02-05
-title: What techniques can be used for self-assessment to identify personal strengths?
-article_title: What techniques can be used for self-assessment to identify personal strengths?
+title: >-
+    What techniques can be used for self-assessment to identify personal strengths?
+article_title: >-
+    What techniques can be used for self-assessment to identify personal strengths?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-can-be-used-for-selfassessment-to-identify-personal-s
 url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
 score: -1.0
 related_article1:
-    id: 169810
-    title: What is the significance of continuous learning in professional development?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
-related_article2:
     id: 169815
-    title: How can personal biases be identified and overcome?
+    title: >-
+        How can personal biases be identified and overcome?
     subject: Nursing
     url: /learn/nursing/questions/how-can-personal-biases-be-identified-and-overcome
+related_article2:
+    id: 169802
+    title: >-
+        What is the definition of self-reflection and why is it important?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
 related_article3:
-    id: 169813
-    title: How does cultural awareness impact patient care?
+    id: 169805
+    title: >-
+        How does conscious knowledge of self contribute to evaluating personal reactions?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
 related_article4:
-    id: 169804
-    title: What is the role of introspection in developing self-awareness?
+    id: 169820
+    title: >-
+        What strategies can improve decision-making skills?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-introspection-in-developing-selfawareness
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
 related_article5:
-    id: 169821
-    title: What are the differences between verbal and non-verbal communication?
+    id: 169811
+    title: >-
+        How can reflection models be applied to enhance professional values?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-verbal-and-nonverbal-communication
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 ---
 
 &nbsp;

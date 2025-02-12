@@ -2,8 +2,10 @@
 _schema: default
 id: 161699
 date: 2025-01-24
-title: What is the purpose of data validation, and how do range checks and type checks work?
-article_title: What is the purpose of data validation, and how do range checks and type checks work?
+title: >-
+    What is the purpose of data validation, and how do range checks and type checks work?
+article_title: >-
+    What is the purpose of data validation, and how do range checks and type checks work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-ty
 url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-work
 score: -1.0
 related_article1:
-    id: 161500
-    title: What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
+    id: 161693
+    title: >-
+        What are the risks associated with data transmission, and how does encryption mitigate these risks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-and-tlsssl-in-encryption-protocols
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 related_article2:
-    id: 161694
-    title: What is the difference between symmetric and asymmetric encryption?
+    id: 161704
+    title: >-
+        What is data logging, and what methods and tools are used for it?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
+    url: /learn/computer-science/questions/what-is-data-logging-and-what-methods-and-tools-are-used-for-it
 related_article3:
-    id: 161700
-    title: What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
+    id: 161497
+    title: >-
+        Why is completeness important in information quality and what factors can affect it?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
+    url: /learn/computer-science/questions/why-is-completeness-important-in-information-quality-and-what-factors-can-affect-it
 related_article4:
-    id: 161508
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161502
+    title: >-
+        How does online processing differ from batch processing and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/how-does-online-processing-differ-from-batch-processing-and-what-are-its-benefits
 related_article5:
-    id: 161697
-    title: What are the characteristics of online processing, and what are its advantages and disadvantages?
+    id: 161510
+    title: >-
+        Why is data analysis important and what are some techniques and tools used in this process?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-are-some-techniques-and-tools-used-in-this-process
 ---
 
 &nbsp;

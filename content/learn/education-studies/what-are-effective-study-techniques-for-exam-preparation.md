@@ -2,8 +2,10 @@
 _schema: default
 id: 165900
 date: 2025-01-29
-title: What are effective study techniques for exam preparation?
-article_title: What are effective study techniques for exam preparation?
+title: >-
+    What are effective study techniques for exam preparation?
+article_title: >-
+    What are effective study techniques for exam preparation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-effective-study-techniques-for-exam-preparation.md
 url: /learn/education-studies/questions/what-are-effective-study-techniques-for-exam-preparation
 score: -1.0
 related_article1:
-    id: 165883
-    title: How does a lecturer contribute to the research focus of a university?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-lecturer-contribute-to-the-research-focus-of-a-university
-related_article2:
-    id: 165884
-    title: What are the key stages of academic progression in a university setting?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-stages-of-academic-progression-in-a-university-setting
-related_article3:
     id: 165898
-    title: What is the importance of time management in achieving academic success?
+    title: >-
+        What is the importance of time management in achieving academic success?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
+related_article2:
+    id: 165883
+    title: >-
+        How does a lecturer contribute to the research focus of a university?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-a-lecturer-contribute-to-the-research-focus-of-a-university
+related_article3:
+    id: 165905
+    title: >-
+        What is the role of interpersonal communication in developing effective communication skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-interpersonal-communication-in-developing-effective-communication-skills
 related_article4:
-    id: 165901
-    title: Why is continuous education important for personal and professional development?
+    id: 165888
+    title: >-
+        Why is critical thinking considered essential in education, particularly in the arts and humanities?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-continuous-education-important-for-personal-and-professional-development
+    url: /learn/education-studies/questions/why-is-critical-thinking-considered-essential-in-education-particularly-in-the-arts-and-humanities
 related_article5:
-    id: 165902
-    title: How can individuals adapt to change through lifelong learning?
+    id: 165890
+    title: >-
+        What are the essential skills needed for conducting independent research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
+    url: /learn/education-studies/questions/what-are-the-essential-skills-needed-for-conducting-independent-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167160
 date: 2025-01-31
-title: Describe the function of the Na+-K+ pump in active transport.
-article_title: Describe the function of the Na+-K+ pump in active transport.
+title: >-
+    Describe the function of the Na+-K+ pump in active transport.
+article_title: >-
+    Describe the function of the Na+-K+ pump in active transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-function-of-the-nak-pump-in-active-transport.md
 url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
 score: -1.0
 related_article1:
-    id: 167166
-    title: Why is active transport necessary for moving substances against their concentration gradient?
+    id: 167156
+    title: >-
+        What is the main difference between simple diffusion and facilitated diffusion in passive transport?
     subject: Biology
-    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
 related_article2:
+    id: 167164
+    title: >-
+        What types of substances are typically transported via endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
+related_article3:
     id: 167159
-    title: Explain the energy requirement for active transport and how it differs from passive transport.
+    title: >-
+        Explain the energy requirement for active transport and how it differs from passive transport.
     subject: Biology
     url: /learn/biology/questions/explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport
-related_article3:
-    id: 167165
-    title: Explain how the concentration gradient affects passive transport.
-    subject: Biology
-    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
 related_article4:
-    id: 167168
-    title: Why do ions and polar molecules require transport proteins to cross the cell membrane?
+    id: 167164
+    title: >-
+        What types of substances are typically transported via endocytosis?
     subject: Biology
-    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
 related_article5:
-    id: 167165
-    title: Explain how the concentration gradient affects passive transport.
+    id: 167167
+    title: >-
+        How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
     subject: Biology
-    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
+    url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
 ---
 
 &nbsp;

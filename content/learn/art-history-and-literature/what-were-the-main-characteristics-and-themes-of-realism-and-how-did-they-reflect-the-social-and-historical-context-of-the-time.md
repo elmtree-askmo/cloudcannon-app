@@ -2,8 +2,10 @@
 _schema: default
 id: 160106
 date: 2025-01-23
-title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
-article_title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+title: >-
+    What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+article_title: >-
+    What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-characteristics-and-themes-of-realism-and-how-did-
 url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 score: 9.0
 related_article1:
-    id: 160114
-    title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 related_article2:
-    id: 159836
-    title: How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
+    id: 160108
+    title: >-
+        In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
 related_article3:
-    id: 159836
-    title: How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 related_article4:
-    id: 159834
-    title: In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-were-some-key-artists-associated-with-this-movement
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 related_article5:
-    id: 159841
-    title: What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 ---
 
 &nbsp;

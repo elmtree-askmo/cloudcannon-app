@@ -2,8 +2,10 @@
 _schema: default
 id: 162920
 date: 2025-01-26
-title: What is morphometric targeting, and how is it used in urban morphologies?
-article_title: What is morphometric targeting, and how is it used in urban morphologies?
+title: >-
+    What is morphometric targeting, and how is it used in urban morphologies?
+article_title: >-
+    What is morphometric targeting, and how is it used in urban morphologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-morphometric-targeting-and-how-is-it-used-in-urban-morphologi
 url: /learn/sociology/questions/what-is-morphometric-targeting-and-how-is-it-used-in-urban-morphologies
 score: -1.0
 related_article1:
-    id: 162932
-    title: What is the role of urban simulation in mapping and counter-mapping efforts?
+    id: 162928
+    title: >-
+        What is the purpose of urban taxonomy in urban planning?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-role-of-urban-simulation-in-mapping-and-countermapping-efforts
+    url: /learn/sociology/questions/what-is-the-purpose-of-urban-taxonomy-in-urban-planning
 related_article2:
-    id: 162922
-    title: What are the implications of violent non-state actors on urban combat training in informal megacities?
+    id: 162917
+    title: >-
+        How does the 'Insecure City Hypothesis' explain the challenges faced by cities in the developing world?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-violent-nonstate-actors-on-urban-combat-training-in-informal-megacities
+    url: /learn/sociology/questions/how-does-the-insecure-city-hypothesis-explain-the-challenges-faced-by-cities-in-the-developing-world
 related_article3:
-    id: 162919
-    title: How does informal urbanization contribute to the phenomenon of urban sprawl in megacities?
+    id: 162930
+    title: >-
+        What are the effects of urban density on urban complexity and morphologies?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-informal-urbanization-contribute-to-the-phenomenon-of-urban-sprawl-in-megacities
+    url: /learn/sociology/questions/what-are-the-effects-of-urban-density-on-urban-complexity-and-morphologies
 related_article4:
-    id: 162916
-    title: What are the key characteristics of military urbanism in the context of urban insecurity?
+    id: 162931
+    title: >-
+        How does tactical urbanism influence volumetric warfighting strategies?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
+    url: /learn/sociology/questions/how-does-tactical-urbanism-influence-volumetric-warfighting-strategies
 related_article5:
-    id: 162924
-    title: What is the significance of spatial intelligence in volumetric warfare?
+    id: 162933
+    title: >-
+        How does military doctrine address the challenges of urban complexity in megacities?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-spatial-intelligence-in-volumetric-warfare
+    url: /learn/sociology/questions/how-does-military-doctrine-address-the-challenges-of-urban-complexity-in-megacities
 ---
 
 &nbsp;

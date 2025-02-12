@@ -2,8 +2,10 @@
 _schema: default
 id: 160906
 date: 2025-01-24
-title: What is the role of process management in operating systems?
-article_title: What is the role of process management in operating systems?
+title: >-
+    What is the role of process management in operating systems?
+article_title: >-
+    What is the role of process management in operating systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-process-management-in-operating-systems.md
 url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
 score: -1.0
 related_article1:
-    id: 161037
-    title: How does problem analysis contribute to effective computational problem solving?
+    id: 161041
+    title: >-
+        What measures can be taken to enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-effective-computational-problem-solving
+    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
 related_article2:
-    id: 160911
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    id: 161036
+    title: >-
+        What are the main stages of the software engineering design process?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+    url: /learn/computer-science/questions/what-are-the-main-stages-of-the-software-engineering-design-process
 related_article3:
-    id: 161049
-    title: What principles are essential for effective user interface design?
+    id: 160712
+    title: >-
+        How is pattern recognition used in data mining?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-principles-are-essential-for-effective-user-interface-design
+    url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
 related_article4:
-    id: 161051
-    title: What are the applications of machine learning in artificial intelligence?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-applications-of-machine-learning-in-artificial-intelligence
-related_article5:
     id: 160724
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
+related_article5:
+    id: 160717
+    title: >-
+        What are the differences between 2D and 3D graphics representation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
 ---
 
 &nbsp;

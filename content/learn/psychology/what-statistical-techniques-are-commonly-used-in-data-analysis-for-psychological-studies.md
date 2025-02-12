@@ -2,8 +2,10 @@
 _schema: default
 id: 167699
 date: 2025-01-31
-title: What statistical techniques are commonly used in data analysis for psychological studies?
-article_title: What statistical techniques are commonly used in data analysis for psychological studies?
+title: >-
+    What statistical techniques are commonly used in data analysis for psychological studies?
+article_title: >-
+    What statistical techniques are commonly used in data analysis for psychological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-statistical-techniques-are-commonly-used-in-data-analysis-for-ps
 url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
 score: -1.0
 related_article1:
-    id: 167689
-    title: How is ASL utilized in psychological studies and what barriers exist?
+    id: 167687
+    title: >-
+        How can healthy behaviors be differentiated from unhealthy ones?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
 related_article2:
-    id: 167701
-    title: How does classical conditioning differ from operant conditioning?
+    id: 167690
+    title: >-
+        What are common symptoms and diagnostic criteria for behavioral disorders?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
+    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
 related_article3:
-    id: 167695
-    title: What are the modern views on dualism in neuroscience?
+    id: 167709
+    title: >-
+        What are the primary methods used in clinical psychology for assessment and diagnosis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
 related_article4:
+    id: 167688
+    title: >-
+        What are the basic components of American Sign Language (ASL) communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
+related_article5:
     id: 167703
-    title: How do group dynamics influence social behavior and leadership?
+    title: >-
+        How do group dynamics influence social behavior and leadership?
     subject: Psychology
     url: /learn/psychology/questions/how-do-group-dynamics-influence-social-behavior-and-leadership
-related_article5:
-    id: 167704
-    title: What methods are used to study animal behavior in psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167932
 date: 2025-02-01
-title: Explain the process of independent assortment and its genetic significance.
-article_title: Explain the process of independent assortment and its genetic significance.
+title: >-
+    Explain the process of independent assortment and its genetic significance.
+article_title: >-
+    Explain the process of independent assortment and its genetic significance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-process-of-independent-assortment-and-its-genetic-signifi
 url: /learn/education-studies/questions/explain-the-process-of-independent-assortment-and-its-genetic-significance
 score: -1.0
 related_article1:
-    id: 167922
-    title: What is the difference between homozygous and heterozygous genotypes?
+    id: 167915
+    title: >-
+        How does cytokinesis differ between plant and animal cells?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-homozygous-and-heterozygous-genotypes
+    url: /learn/education-studies/questions/how-does-cytokinesis-differ-between-plant-and-animal-cells
 related_article2:
-    id: 167921
-    title: How do dominant and recessive alleles affect the phenotype of an organism?
+    id: 167925
+    title: >-
+        How is a Punnett square used to predict the outcome of a monohybrid cross?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-dominant-and-recessive-alleles-affect-the-phenotype-of-an-organism
+    url: /learn/education-studies/questions/how-is-a-punnett-square-used-to-predict-the-outcome-of-a-monohybrid-cross
 related_article3:
     id: 167921
-    title: How do dominant and recessive alleles affect the phenotype of an organism?
+    title: >-
+        How do dominant and recessive alleles affect the phenotype of an organism?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-dominant-and-recessive-alleles-affect-the-phenotype-of-an-organism
 related_article4:
-    id: 167916
-    title: What are the key differences between mitosis and meiosis?
+    id: 167917
+    title: >-
+        How does meiosis contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mitosis-and-meiosis
+    url: /learn/education-studies/questions/how-does-meiosis-contribute-to-genetic-variation
 related_article5:
-    id: 167915
-    title: How does cytokinesis differ between plant and animal cells?
+    id: 167925
+    title: >-
+        How is a Punnett square used to predict the outcome of a monohybrid cross?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-cytokinesis-differ-between-plant-and-animal-cells
+    url: /learn/education-studies/questions/how-is-a-punnett-square-used-to-predict-the-outcome-of-a-monohybrid-cross
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165217
 date: 2025-01-28
-title: How can citation tools enhance the credibility of academic work?
-article_title: How can citation tools enhance the credibility of academic work?
+title: >-
+    How can citation tools enhance the credibility of academic work?
+article_title: >-
+    How can citation tools enhance the credibility of academic work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-citation-tools-enhance-the-credibility-of-academic-work.md
 url: /learn/psychology/questions/how-can-citation-tools-enhance-the-credibility-of-academic-work
 score: -1.0
 related_article1:
-    id: 165212
-    title: How does PubMed specialize in its focus compared to other search engines?
+    id: 165219
+    title: >-
+        What are the challenges associated with semantic analysis in research?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
 related_article2:
     id: 165219
-    title: What are the challenges associated with semantic analysis in research?
+    title: >-
+        What are the challenges associated with semantic analysis in research?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
 related_article3:
-    id: 165220
-    title: Why are abstracts important in academic papers and how do they guide research decisions?
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 related_article4:
-    id: 165208
-    title: What are the key challenges in defining a target population in research?
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 related_article5:
-    id: 165209
-    title: How do independent and dependent variables influence research design?
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 ---
 
 &nbsp;

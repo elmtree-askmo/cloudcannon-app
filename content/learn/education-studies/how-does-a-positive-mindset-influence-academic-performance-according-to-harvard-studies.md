@@ -2,8 +2,10 @@
 _schema: default
 id: 165436
 date: 2025-01-29
-title: How does a positive mindset influence academic performance according to Harvard studies?
-article_title: How does a positive mindset influence academic performance according to Harvard studies?
+title: >-
+    How does a positive mindset influence academic performance according to Harvard studies?
+article_title: >-
+    How does a positive mindset influence academic performance according to Harvard studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-does-a-positive-mindset-influence-ac
 score: -1.0
 related_article1:
     id: 165434
-    title: How does excessive sugar consumption impair memory retention, and what alternatives can improve it?
+    title: >-
+        How does excessive sugar consumption impair memory retention, and what alternatives can improve it?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-excessive-sugar-consumption-impair-memory-retention-and-what-alternatives-can-improve-it
 related_article2:
-    id: 165442
-    title: How do AI tools function as personal tutors and enhance the learning process?
+    id: 165433
+    title: >-
+        What are the effects of sugar on cognitive function, and what are some brain-boosting alternatives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ai-tools-function-as-personal-tutors-and-enhance-the-learning-process
+    url: /learn/education-studies/questions/what-are-the-effects-of-sugar-on-cognitive-function-and-what-are-some-brainboosting-alternatives
 related_article3:
-    id: 165435
-    title: What is the significance of learning from mistakes in memory retention, and how can it be effectively implemented?
+    id: 165437
+    title: >-
+        What role do affirmations play in stress reduction and focus during studying?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-learning-from-mistakes-in-memory-retention-and-how-can-it-be-effectively-implemented
+    url: /learn/education-studies/questions/what-role-do-affirmations-play-in-stress-reduction-and-focus-during-studying
 related_article4:
-    id: 165437
-    title: What role do affirmations play in stress reduction and focus during studying?
+    id: 165434
+    title: >-
+        How does excessive sugar consumption impair memory retention, and what alternatives can improve it?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-affirmations-play-in-stress-reduction-and-focus-during-studying
+    url: /learn/education-studies/questions/how-does-excessive-sugar-consumption-impair-memory-retention-and-what-alternatives-can-improve-it
 related_article5:
-    id: 165437
-    title: What role do affirmations play in stress reduction and focus during studying?
+    id: 165439
+    title: >-
+        What is the 80/20 rule, and how can it be applied to identify key content in studying?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-affirmations-play-in-stress-reduction-and-focus-during-studying
+    url: /learn/education-studies/questions/what-is-the-8020-rule-and-how-can-it-be-applied-to-identify-key-content-in-studying
 ---
 
 &nbsp;

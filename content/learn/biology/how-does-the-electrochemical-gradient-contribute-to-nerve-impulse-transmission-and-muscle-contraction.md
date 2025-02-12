@@ -2,8 +2,10 @@
 _schema: default
 id: 168941
 date: 2025-02-04
-title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
-article_title: How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+title: >-
+    How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
+article_title: >-
+    How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-tra
 url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
 score: -1.0
 related_article1:
-    id: 168937
-    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
-related_article2:
-    id: 168932
-    title: Why is selective permeability crucial for cellular function, and how does it regulate substance entry and exit?
-    subject: Biology
-    url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
-related_article3:
-    id: 168932
-    title: Why is selective permeability crucial for cellular function, and how does it regulate substance entry and exit?
-    subject: Biology
-    url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
-related_article4:
     id: 168931
-    title: How do channel proteins and aquaporins facilitate transport across the cell membrane?
+    title: >-
+        How do channel proteins and aquaporins facilitate transport across the cell membrane?
     subject: Biology
     url: /learn/biology/questions/how-do-channel-proteins-and-aquaporins-facilitate-transport-across-the-cell-membrane
-related_article5:
-    id: 168943
-    title: Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
+related_article2:
+    id: 168939
+    title: >-
+        What are the different types of endocytosis, and how do they function in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+related_article3:
+    id: 168940
+    title: >-
+        Define electrochemical gradient and explain its components.
+    subject: Biology
+    url: /learn/biology/questions/define-electrochemical-gradient-and-explain-its-components
+related_article4:
+    id: 168934
+    title: >-
+        Explain the process of diffusion and provide examples of substances that move by this method.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+related_article5:
+    id: 168939
+    title: >-
+        What are the different types of endocytosis, and how do they function in cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
 ---
 
 &nbsp;

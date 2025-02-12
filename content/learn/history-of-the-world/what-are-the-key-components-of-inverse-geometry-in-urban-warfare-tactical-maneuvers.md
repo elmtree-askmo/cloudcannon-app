@@ -2,8 +2,10 @@
 _schema: default
 id: 169082
 date: 2025-02-04
-title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
-article_title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
+title: >-
+    What are the key components of inverse geometry in urban warfare tactical maneuvers?
+article_title: >-
+    What are the key components of inverse geometry in urban warfare tactical maneuvers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tact
 url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
 score: 8.7
 related_article1:
-    id: 169094
-    title: What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
+    id: 169087
+    title: >-
+        Describe the relationship between military architecture and the architectural impact of conflict.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
+    url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
 related_article2:
+    id: 169083
+    title: >-
+        How do swarming tactics differ from traditional military tactics in urban warfare?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
+related_article3:
+    id: 169086
+    title: >-
+        How does tactical innovation contribute to non-linear warfare?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-tactical-innovation-contribute-to-nonlinear-warfare
+related_article4:
+    id: 169096
+    title: >-
+        Discuss the ethical implications of warfare in contemporary military doctrine.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/discuss-the-ethical-implications-of-warfare-in-contemporary-military-doctrine
+related_article5:
     id: 169088
-    title: What is the significance of geopolitical architecture in the military-architectural relationship?
+    title: >-
+        What is the significance of geopolitical architecture in the military-architectural relationship?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
-related_article3:
-    id: 169090
-    title: What is the role of theoretical language in warfare within the context of architectural theory?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
-related_article4:
-    id: 169105
-    title: What role do military research institutes play in addressing institutional conflicts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
-related_article5:
-    id: 169092
-    title: In what ways does tactical innovation impact military tactics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-does-tactical-innovation-impact-military-tactics
 ---
 
 &nbsp;

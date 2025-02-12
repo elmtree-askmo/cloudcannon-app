@@ -2,8 +2,10 @@
 _schema: default
 id: 166101
 date: 2025-01-29
-title: Why is lab and lecture integration important for students majoring in natural sciences?
-article_title: Why is lab and lecture integration important for students majoring in natural sciences?
+title: >-
+    Why is lab and lecture integration important for students majoring in natural sciences?
+article_title: >-
+    Why is lab and lecture integration important for students majoring in natural sciences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: why-is-lab-and-lecture-integration-important-for-students-majoring-in
 url: /learn/education-studies/questions/why-is-lab-and-lecture-integration-important-for-students-majoring-in-natural-sciences
 score: -1.0
 related_article1:
-    id: 166098
-    title: What are the benefits of using electronic textbooks for exam preparation and course integration?
+    id: 166093
+    title: >-
+        How do contaminants affect aquatic life and human health in aquatic toxicology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-electronic-textbooks-for-exam-preparation-and-course-integration
+    url: /learn/education-studies/questions/how-do-contaminants-affect-aquatic-life-and-human-health-in-aquatic-toxicology
 related_article2:
-    id: 166091
-    title: What are the primary components of a lake's food web, and how do they interact?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-components-of-a-lakes-food-web-and-how-do-they-interact
-related_article3:
     id: 166102
-    title: How does the use of Brightspace support communication between students and instructors?
+    title: >-
+        How does the use of Brightspace support communication between students and instructors?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
-related_article4:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+related_article3:
+    id: 166096
+    title: >-
+        How does Brightspace facilitate course content management and student access to materials?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/how-does-brightspace-facilitate-course-content-management-and-student-access-to-materials
+related_article4:
+    id: 166096
+    title: >-
+        How does Brightspace facilitate course content management and student access to materials?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-brightspace-facilitate-course-content-management-and-student-access-to-materials
 related_article5:
     id: 166097
-    title: In what ways does Top Hat enhance student engagement and participation in class?
+    title: >-
+        In what ways does Top Hat enhance student engagement and participation in class?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-does-top-hat-enhance-student-engagement-and-participation-in-class
 ---

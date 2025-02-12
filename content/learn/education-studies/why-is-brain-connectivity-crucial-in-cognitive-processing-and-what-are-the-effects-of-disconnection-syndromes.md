@@ -2,8 +2,10 @@
 _schema: default
 id: 164516
 date: 2025-01-28
-title: Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
-article_title: Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
+title: >-
+    Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
+article_title: >-
+    Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-brain-connectivity-crucial-in-cognitive-processing-and-what-ar
 url: /learn/education-studies/questions/why-is-brain-connectivity-crucial-in-cognitive-processing-and-what-are-the-effects-of-disconnection-syndromes
 score: -1.0
 related_article1:
-    id: 164509
-    title: What are the basic principles of EEG signal recording?
+    id: 164510
+    title: >-
+        Why are ERP components important in cognitive processing studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-basic-principles-of-eeg-signal-recording
+    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
 related_article2:
-    id: 164513
-    title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+    id: 164512
+    title: >-
+        How does Wernicke's aphasia affect speech comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
+    url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
 related_article3:
-    id: 164513
-    title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+    id: 164522
+    title: >-
+        Which brain regions are involved in speech production, and how does aphasia affect this process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
+    url: /learn/education-studies/questions/which-brain-regions-are-involved-in-speech-production-and-how-does-aphasia-affect-this-process
 related_article4:
-    id: 164514
-    title: How does damage to anterior language regions impact syntax processing?
+    id: 164511
+    title: >-
+        What are the main characteristics and symptoms of Broca's aphasia?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-and-symptoms-of-brocas-aphasia
 related_article5:
-    id: 164515
-    title: What is the significance of semantics in language, and how does damage to posterior language regions affect it?
+    id: 164520
+    title: >-
+        What tools and techniques are used in cognitive assessment, and why are they important in language studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
+    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
 ---
 
 &nbsp;

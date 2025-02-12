@@ -2,8 +2,10 @@
 _schema: default
 id: 161863
 date: 2025-01-24
-title: How do chemical formulas represent compounds?
-article_title: How do chemical formulas represent compounds?
+title: >-
+    How do chemical formulas represent compounds?
+article_title: >-
+    How do chemical formulas represent compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-chemical-formulas-represent-compounds.md
 url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 score: -1.0
 related_article1:
-    id: 161828
-    title: Give an example of a heterogeneous mixture and describe its characteristics.
+    id: 161843
+    title: >-
+        What are the characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/give-an-example-of-a-heterogeneous-mixture-and-describe-its-characteristics
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
 related_article2:
-    id: 161869
-    title: What is the significance of chemical symbols in representing elements?
+    id: 161865
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
 related_article3:
-    id: 161860
-    title: What distinguishes elements from compounds in pure substances?
+    id: 161728
+    title: >-
+        How are pure substances classified in terms of elements and compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 related_article4:
-    id: 161842
-    title: What distinguishes elements from compounds in pure substances?
+    id: 161853
+    title: >-
+        What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
+related_article5:
+    id: 161860
+    title: >-
+        What distinguishes elements from compounds in pure substances?
     subject: Chemistry
     url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
-related_article5:
-    id: 161826
-    title: Provide an example of a compound and explain its chemical formula.
-    subject: Chemistry
-    url: /learn/chemistry/questions/provide-an-example-of-a-compound-and-explain-its-chemical-formula
 ---
 
 &nbsp;

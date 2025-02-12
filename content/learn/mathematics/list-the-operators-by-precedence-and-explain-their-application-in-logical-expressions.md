@@ -2,8 +2,10 @@
 _schema: default
 id: 170256
 date: 2025-02-06
-title: List the operators by precedence and explain their application in logical expressions.
-article_title: List the operators by precedence and explain their application in logical expressions.
+title: >-
+    List the operators by precedence and explain their application in logical expressions.
+article_title: >-
+    List the operators by precedence and explain their application in logical expressions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: list-the-operators-by-precedence-and-explain-their-application-in-log
 url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
 score: -1.0
 related_article1:
-    id: 170240
-    title: List and describe the common logical operators used in propositional logic.
+    id: 170253
+    title: >-
+        What is a counter-example, and why is it important in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/list-and-describe-the-common-logical-operators-used-in-propositional-logic
+    url: /learn/mathematics/questions/what-is-a-counterexample-and-why-is-it-important-in-logical-reasoning
 related_article2:
-    id: 170242
-    title: How do you construct a truth table for a given logical expression?
+    id: 170251
+    title: >-
+        What is a tautology, and how can it be identified?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
+    url: /learn/mathematics/questions/what-is-a-tautology-and-how-can-it-be-identified
 related_article3:
-    id: 170255
-    title: How does the order of precedence affect the resolution of complex logical formulae?
+    id: 170243
+    title: >-
+        What is the role of order of precedence in resolving logical operators?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
+    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
 related_article4:
-    id: 170247
-    title: Describe the exclusive-or operator and its application in propositions.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
-related_article5:
     id: 170250
-    title: Why are logical equivalencies important in propositional logic?
+    title: >-
+        Why are logical equivalencies important in propositional logic?
     subject: Mathematics
     url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+related_article5:
+    id: 170236
+    title: >-
+        How does propositional logic connect to computing?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-propositional-logic-connect-to-computing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169939
 date: 2025-02-05
-title: What is the difference between covalent and ionic bonds?
-article_title: What is the difference between covalent and ionic bonds?
+title: >-
+    What is the difference between covalent and ionic bonds?
+article_title: >-
+    What is the difference between covalent and ionic bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-covalent-and-ionic-bonds.md
 url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
 score: -1.0
 related_article1:
-    id: 169950
-    title: How does ATP function as an energy carrier in cells?
+    id: 169962
+    title: >-
+        How does active transport differ from passive transport in terms of energy usage?
     subject: Biology
-    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
 related_article2:
+    id: 169956
+    title: >-
+        What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+related_article3:
     id: 169944
-    title: What is the primary function of carbohydrates in living organisms?
+    title: >-
+        What is the primary function of carbohydrates in living organisms?
     subject: Biology
     url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
-related_article3:
-    id: 169943
-    title: How do peptide bonds form between amino acids?
-    subject: Biology
-    url: /learn/biology/questions/how-do-peptide-bonds-form-between-amino-acids
 related_article4:
-    id: 169955
-    title: What is the difference between anabolic and catabolic pathways in metabolism?
+    id: 169940
+    title: >-
+        How are cations and anions formed?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
+    url: /learn/biology/questions/how-are-cations-and-anions-formed
 related_article5:
-    id: 169948
-    title: What is the role of phospholipids in cell membranes?
+    id: 169944
+    title: >-
+        What is the primary function of carbohydrates in living organisms?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
 ---
 
 &nbsp;

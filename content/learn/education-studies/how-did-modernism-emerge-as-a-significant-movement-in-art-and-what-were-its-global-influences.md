@@ -2,8 +2,10 @@
 _schema: default
 id: 159751
 date: 2025-01-23
-title: How did modernism emerge as a significant movement in art, and what were its global influences?
-article_title: How did modernism emerge as a significant movement in art, and what were its global influences?
+title: >-
+    How did modernism emerge as a significant movement in art, and what were its global influences?
+article_title: >-
+    How did modernism emerge as a significant movement in art, and what were its global influences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-modernism-emerge-as-a-significant-movement-in-art-and-what-we
 url: /learn/education-studies/questions/how-did-modernism-emerge-as-a-significant-movement-in-art-and-what-were-its-global-influences
 score: -1.0
 related_article1:
+    id: 159756
+    title: >-
+        What is the importance of interpreting emotions in understanding an artist's intent?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-interpreting-emotions-in-understanding-an-artists-intent
+related_article2:
+    id: 159741
+    title: >-
+        How did Impressionism differ from previous artistic movements in terms of technique and subject matter?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-impressionism-differ-from-previous-artistic-movements-in-terms-of-technique-and-subject-matter
+related_article3:
     id: 159739
-    title: What were the main artistic responses to urbanization and cultural shifts caused by the Industrial Revolution?
+    title: >-
+        What were the main artistic responses to urbanization and cultural shifts caused by the Industrial Revolution?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-main-artistic-responses-to-urbanization-and-cultural-shifts-caused-by-the-industrial-revolution
-related_article2:
-    id: 159805
-    title: How did the Industrial Revolution contribute to the evolution of visual culture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
-related_article3:
-    id: 160039
-    title: How has technology influenced the integration of new media in art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-technology-influenced-the-integration-of-new-media-in-art
 related_article4:
-    id: 160015
-    title: Describe the main characteristics of Realism as an artistic movement.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-main-characteristics-of-realism-as-an-artistic-movement
-related_article5:
-    id: 160021
-    title: How did the Industrial Revolution contribute to the evolution of visual culture?
+    id: 159743
+    title: >-
+        How did the Industrial Revolution contribute to the evolution of visual culture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
+related_article5:
+    id: 159746
+    title: >-
+        How did Victorian society influence the representation of gender in art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
 ---
 
 &nbsp;

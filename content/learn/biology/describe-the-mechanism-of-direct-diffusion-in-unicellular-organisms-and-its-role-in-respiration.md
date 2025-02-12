@@ -2,8 +2,10 @@
 _schema: default
 id: 168774
 date: 2025-02-04
-title: Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
-article_title: Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
+title: >-
+    Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
+article_title: >-
+    Describe the mechanism of direct diffusion in unicellular organisms and its role in respiration.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-mechanism-of-direct-diffusion-in-unicellular-organisms-a
 url: /learn/biology/questions/describe-the-mechanism-of-direct-diffusion-in-unicellular-organisms-and-its-role-in-respiration
 score: -1.0
 related_article1:
+    id: 168769
+    title: >-
+        How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article2:
+    id: 168769
+    title: >-
+        How do large organisms adapt to maintain efficient exchange despite a low surface area to volume ratio?
+    subject: Biology
+    url: /learn/biology/questions/how-do-large-organisms-adapt-to-maintain-efficient-exchange-despite-a-low-surface-area-to-volume-ratio
+related_article3:
+    id: 168773
+    title: >-
+        How do concentration gradients facilitate gas exchange in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-facilitate-gas-exchange-in-animals
+related_article4:
     id: 168777
-    title: Explain the process of gas exchange in plants and its significance in photosynthesis.
+    title: >-
+        Explain the process of gas exchange in plants and its significance in photosynthesis.
     subject: Biology
     url: /learn/biology/questions/explain-the-process-of-gas-exchange-in-plants-and-its-significance-in-photosynthesis
-related_article2:
-    id: 168782
-    title: Why is maintaining a steep concentration gradient important for efficient gas exchange?
-    subject: Biology
-    url: /learn/biology/questions/why-is-maintaining-a-steep-concentration-gradient-important-for-efficient-gas-exchange
-related_article3:
-    id: 168768
-    title: Why is the surface area to volume ratio important for small organisms?
-    subject: Biology
-    url: /learn/biology/questions/why-is-the-surface-area-to-volume-ratio-important-for-small-organisms
-related_article4:
-    id: 168776
-    title: How do guard cells regulate the opening and closing of stomata?
-    subject: Biology
-    url: /learn/biology/questions/how-do-guard-cells-regulate-the-opening-and-closing-of-stomata
 related_article5:
-    id: 168771
-    title: Why do multicellular organisms require specialized systems for gas exchange?
+    id: 168779
+    title: >-
+        How do environmental conditions affect the rate of transpiration in plants?
     subject: Biology
-    url: /learn/biology/questions/why-do-multicellular-organisms-require-specialized-systems-for-gas-exchange
+    url: /learn/biology/questions/how-do-environmental-conditions-affect-the-rate-of-transpiration-in-plants
 ---
 
 &nbsp;

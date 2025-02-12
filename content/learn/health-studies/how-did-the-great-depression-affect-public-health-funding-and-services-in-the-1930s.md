@@ -2,8 +2,10 @@
 _schema: default
 id: 162334
 date: 2025-01-25
-title: How did the Great Depression affect public health funding and services in the 1930s?
-article_title: How did the Great Depression affect public health funding and services in the 1930s?
+title: >-
+    How did the Great Depression affect public health funding and services in the 1930s?
+article_title: >-
+    How did the Great Depression affect public health funding and services in the 1930s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-great-depression-affect-public-health-funding-and-service
 url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
 score: -1.0
 related_article1:
-    id: 162347
-    title: What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
+    id: 162343
+    title: >-
+        What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
+    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
 related_article2:
+    id: 162351
+    title: >-
+        What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
+related_article3:
+    id: 162323
+    title: >-
+        What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
+related_article4:
     id: 162345
-    title: What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
-related_article3:
-    id: 162335
-    title: What new public health policies were introduced to manage tuberculosis during the 1930s?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-new-public-health-policies-were-introduced-to-manage-tuberculosis-during-the-1930s
-related_article4:
-    id: 162337
-    title: How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-federal-government-contribute-to-the-establishment-of-aboriginal-health-services-in-the-1940s
 related_article5:
-    id: 162344
-    title: How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
+    id: 162336
+    title: >-
+        What were the key nutrition initiatives and food safety programs expanded during World War II?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
+    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
 ---
 
 &nbsp;

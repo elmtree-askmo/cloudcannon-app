@@ -2,8 +2,10 @@
 _schema: default
 id: 170055
 date: 2025-02-05
-title: How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
-article_title: How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
+title: >-
+    How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
+article_title: >-
+    How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-did-hunting-and-gathering-practices-
 score: -1.0
 related_article1:
     id: 170047
-    title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+    title: >-
+        How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
 related_article2:
-    id: 170034
-    title: How should quotations be incorporated into writing assignments to support arguments effectively?
+    id: 170035
+    title: >-
+        What are the differences between online resources and print articles when citing sources in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
+    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
 related_article3:
-    id: 170048
-    title: What factors influenced population density in pre-agricultural societies, and how did these change over time?
+    id: 170054
+    title: >-
+        What challenges and risks did ancient societies face in terms of environmental dependence and health?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
+    url: /learn/education-studies/questions/what-challenges-and-risks-did-ancient-societies-face-in-terms-of-environmental-dependence-and-health
 related_article4:
     id: 170049
-    title: What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
+    title: >-
+        What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
 related_article5:
-    id: 170049
-    title: What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
+    id: 170036
+    title: >-
+        What is the importance of footnotes and references in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
+    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170479
 date: 2025-02-06
-title: What are the common causes and effects of traumatic brain injury?
-article_title: What are the common causes and effects of traumatic brain injury?
+title: >-
+    What are the common causes and effects of traumatic brain injury?
+article_title: >-
+    What are the common causes and effects of traumatic brain injury?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-causes-and-effects-of-traumatic-brain-injury.md
 url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
 score: -1.0
 related_article1:
-    id: 170485
-    title: What are the key stages of prenatal and postnatal neurodevelopment?
+    id: 170474
+    title: >-
+        What are the primary functions of the olfactory and optic nerves?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
 related_article2:
+    id: 170474
+    title: >-
+        What are the primary functions of the olfactory and optic nerves?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
+related_article3:
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
+related_article4:
+    id: 170464
+    title: >-
+        How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
+related_article5:
     id: 170469
-    title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    title: >-
+        How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
     subject: Psychology
     url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
-related_article3:
-    id: 170476
-    title: What is the clinical significance of the dura mater in the meninges?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
-related_article4:
-    id: 170471
-    title: How does the medulla oblongata regulate heart rate and control reflexes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-medulla-oblongata-regulate-heart-rate-and-control-reflexes
-related_article5:
-    id: 170461
-    title: How do gyri and sulci contribute to brain function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162582
 date: 2025-01-25
-title: What is the significance of geographical epidemiology in modern public health practices?
-article_title: What is the significance of geographical epidemiology in modern public health practices?
+title: >-
+    What is the significance of geographical epidemiology in modern public health practices?
+article_title: >-
+    What is the significance of geographical epidemiology in modern public health practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-geographical-epidemiology-in-modern-publi
 url: /learn/health-studies/questions/what-is-the-significance-of-geographical-epidemiology-in-modern-public-health-practices
 score: -1.0
 related_article1:
-    id: 162584
-    title: How do provincial boards of health contribute to public health infrastructure in Canada?
+    id: 162578
+    title: >-
+        What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
+    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
 related_article2:
     id: 162578
-    title: What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
+    title: >-
+        What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
 related_article3:
-    id: 162576
-    title: What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
+    id: 162577
+    title: >-
+        How did the Quarantine Acts and sanitary reforms contribute to early public health efforts?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-during-colonial-times-to-address-diseases-introduced-by-european-immigration
+    url: /learn/health-studies/questions/how-did-the-quarantine-acts-and-sanitary-reforms-contribute-to-early-public-health-efforts
 related_article4:
-    id: 162578
-    title: What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
+    id: 162583
+    title: >-
+        What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
+    url: /learn/health-studies/questions/what-were-the-main-arguments-of-the-antivaccination-movements-against-compulsory-smallpox-vaccination
 related_article5:
-    id: 162584
-    title: How do provincial boards of health contribute to public health infrastructure in Canada?
+    id: 162580
+    title: >-
+        What were the key public health responses to typhus during the Irish immigration period?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
+    url: /learn/health-studies/questions/what-were-the-key-public-health-responses-to-typhus-during-the-irish-immigration-period
 ---
 
 &nbsp;

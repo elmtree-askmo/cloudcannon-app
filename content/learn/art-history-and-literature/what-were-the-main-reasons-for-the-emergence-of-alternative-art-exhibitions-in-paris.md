@@ -2,8 +2,10 @@
 _schema: default
 id: 165941
 date: 2025-01-29
-title: What were the main reasons for the emergence of alternative art exhibitions in Paris?
-article_title: What were the main reasons for the emergence of alternative art exhibitions in Paris?
+title: >-
+    What were the main reasons for the emergence of alternative art exhibitions in Paris?
+article_title: >-
+    What were the main reasons for the emergence of alternative art exhibitions in Paris?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhib
 url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 score: 9.0
 related_article1:
-    id: 165940
-    title: How did criticisms of the Official Salons contribute to their decline?
+    id: 165948
+    title: >-
+        How did the Salon des Independantes contribute to the promotion of diverse art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+    url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
 related_article2:
+    id: 165943
+    title: >-
+        What was the historical context behind the creation of the Salon des Refusés?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+related_article3:
     id: 165952
-    title: How did Claude Monet influence the Impressionist movement?
+    title: >-
+        How did Claude Monet influence the Impressionist movement?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
-related_article3:
-    id: 165956
-    title: How did Paris serve as an art hub and influence exhibition practices in the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
 related_article4:
-    id: 165961
-    title: How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
+    id: 165939
+    title: >-
+        What was the primary purpose of the Official Paris Salon when it was first established?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
+    url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
 related_article5:
-    id: 165962
-    title: What is the legacy of 19th-century art movements on contemporary art?
+    id: 165954
+    title: >-
+        How did Cubism influence subsequent art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
 ---
 
 &nbsp;

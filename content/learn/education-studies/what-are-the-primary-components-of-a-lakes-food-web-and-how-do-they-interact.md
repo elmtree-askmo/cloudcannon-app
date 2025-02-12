@@ -2,8 +2,10 @@
 _schema: default
 id: 166091
 date: 2025-01-29
-title: What are the primary components of a lake's food web, and how do they interact?
-article_title: What are the primary components of a lake's food web, and how do they interact?
+title: >-
+    What are the primary components of a lake's food web, and how do they interact?
+article_title: >-
+    What are the primary components of a lake's food web, and how do they interact?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-components-of-a-lakes-food-web-and-how-do-they-i
 url: /learn/education-studies/questions/what-are-the-primary-components-of-a-lakes-food-web-and-how-do-they-interact
 score: -1.0
 related_article1:
-    id: 166102
-    title: How does the use of Brightspace support communication between students and instructors?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
-related_article2:
     id: 166089
-    title: What are the key strategies for achieving sustainability in environmental science?
+    title: >-
+        What are the key strategies for achieving sustainability in environmental science?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-strategies-for-achieving-sustainability-in-environmental-science
+related_article2:
+    id: 166102
+    title: >-
+        How does the use of Brightspace support communication between students and instructors?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
 related_article3:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+    id: 166092
+    title: >-
+        What are the main causes of harmful algal blooms, and what impact do they have on aquatic ecosystems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/what-are-the-main-causes-of-harmful-algal-blooms-and-what-impact-do-they-have-on-aquatic-ecosystems
 related_article4:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+    id: 166096
+    title: >-
+        How does Brightspace facilitate course content management and student access to materials?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/how-does-brightspace-facilitate-course-content-management-and-student-access-to-materials
 related_article5:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+    id: 166096
+    title: >-
+        How does Brightspace facilitate course content management and student access to materials?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/how-does-brightspace-facilitate-course-content-management-and-student-access-to-materials
 ---
 
 &nbsp;

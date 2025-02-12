@@ -2,8 +2,10 @@
 _schema: default
 id: 161353
 date: 2025-01-24
-title: What are the components and functionality of street lighting control systems, and how do they operate?
-article_title: What are the components and functionality of street lighting control systems, and how do they operate?
+title: >-
+    What are the components and functionality of street lighting control systems, and how do they operate?
+article_title: >-
+    What are the components and functionality of street lighting control systems, and how do they operate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-components-and-functionality-of-street-lighting-control-
 url: /learn/computer-science/questions/what-are-the-components-and-functionality-of-street-lighting-control-systems-and-how-do-they-operate
 score: -1.0
 related_article1:
-    id: 161514
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article2:
-    id: 161343
-    title: How does two-point calibration differ from one-point calibration, and what are its benefits?
+    id: 161334
+    title: >-
+        What are the different types of actuators, and how are they applied in control technologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
 related_article3:
-    id: 161513
-    title: What are the main types of sensors used in monitoring technologies, and what are their primary functions?
+    id: 161528
+    title: >-
+        Explain the components and process of car park barrier systems, including the feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-what-are-their-primary-functions
+    url: /learn/computer-science/questions/explain-the-components-and-process-of-car-park-barrier-systems-including-the-feedback-mechanism
 related_article4:
-    id: 161520
-    title: Describe multi-point calibration and its advantages in various applications.
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article5:
-    id: 161329
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+    id: 161517
+    title: >-
+        Define real-time processing and explain its importance in control systems with examples.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems-with-examples
 ---
 
 &nbsp;

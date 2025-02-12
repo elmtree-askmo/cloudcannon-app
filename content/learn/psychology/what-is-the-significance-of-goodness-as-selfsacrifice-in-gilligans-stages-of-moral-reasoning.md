@@ -2,8 +2,10 @@
 _schema: default
 id: 164205
 date: 2025-01-28
-title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
-article_title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+title: >-
+    What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+article_title: >-
+    What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-st
 url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
 score: -1.0
 related_article1:
-    id: 164209
-    title: How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
+    id: 164203
+    title: >-
+        What characterizes the 'Orientation of Individual Survival' stage in Gilligan's stages of moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
+    url: /learn/psychology/questions/what-characterizes-the-orientation-of-individual-survival-stage-in-gilligans-stages-of-moral-reasoning
 related_article2:
-    id: 164204
-    title: How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    id: 164214
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
 related_article3:
-    id: 164201
-    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
-related_article4:
     id: 164211
-    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    title: >-
+        What do studies with no or small gender differences suggest about Gilligan's theory?
     subject: Psychology
     url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
-related_article5:
-    id: 164215
-    title: What implications do developmental stages have for moral education in adolescence according to Gilligan?
+related_article4:
+    id: 164207
+    title: >-
+        How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
     subject: Psychology
-    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
+    url: /learn/psychology/questions/how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others
+related_article5:
+    id: 164203
+    title: >-
+        What characterizes the 'Orientation of Individual Survival' stage in Gilligan's stages of moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characterizes-the-orientation-of-individual-survival-stage-in-gilligans-stages-of-moral-reasoning
 ---
 
 &nbsp;

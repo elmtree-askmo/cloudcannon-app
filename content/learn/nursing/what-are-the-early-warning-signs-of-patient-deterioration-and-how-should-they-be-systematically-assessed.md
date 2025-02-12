@@ -2,8 +2,10 @@
 _schema: default
 id: 169471
 date: 2025-02-05
-title: What are the early warning signs of patient deterioration, and how should they be systematically assessed?
-article_title: What are the early warning signs of patient deterioration, and how should they be systematically assessed?
+title: >-
+    What are the early warning signs of patient deterioration, and how should they be systematically assessed?
+article_title: >-
+    What are the early warning signs of patient deterioration, and how should they be systematically assessed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-early-warning-signs-of-patient-deterioration-and-how-sho
 url: /learn/nursing/questions/what-are-the-early-warning-signs-of-patient-deterioration-and-how-should-they-be-systematically-assessed
 score: -1.0
 related_article1:
-    id: 169468
-    title: How does patient monitoring technology enhance the accuracy of vital sign recording?
+    id: 169462
+    title: >-
+        What are the key techniques used in airway management to prevent obstruction?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
+    url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
 related_article2:
-    id: 169469
-    title: What is the purpose of the NEWS chart, and what are its main components?
+    id: 169467
+    title: >-
+        What are the normal ranges for vital signs, and why is it important to recognize deviations?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-purpose-of-the-news-chart-and-what-are-its-main-components
+    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
 related_article3:
-    id: 169470
-    title: How do you interpret NEWS scores to make clinical decisions?
+    id: 169472
+    title: >-
+        What immediate actions should be taken in response to signs of patient deterioration?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
+    url: /learn/nursing/questions/what-immediate-actions-should-be-taken-in-response-to-signs-of-patient-deterioration
 related_article4:
     id: 169462
-    title: What are the key techniques used in airway management to prevent obstruction?
+    title: >-
+        What are the key techniques used in airway management to prevent obstruction?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
 related_article5:
-    id: 169467
-    title: What are the normal ranges for vital signs, and why is it important to recognize deviations?
+    id: 169462
+    title: >-
+        What are the key techniques used in airway management to prevent obstruction?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-normal-ranges-for-vital-signs-and-why-is-it-important-to-recognize-deviations
+    url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168900
 date: 2025-02-04
-title: Describe the process of endocytosis and its significance in cellular intake.
-article_title: Describe the process of endocytosis and its significance in cellular intake.
+title: >-
+    Describe the process of endocytosis and its significance in cellular intake.
+article_title: >-
+    Describe the process of endocytosis and its significance in cellular intake.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-endocytosis-and-its-significance-in-cellular-
 url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
 score: -1.0
 related_article1:
-    id: 168897
-    title: Why is energy required for active transport processes?
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
     subject: Biology
-    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
 related_article2:
     id: 168907
-    title: Why is active transport crucial for heart muscle cells?
+    title: >-
+        Why is active transport crucial for heart muscle cells?
     subject: Biology
     url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
 related_article3:
-    id: 168905
-    title: Define concentration gradient and its importance in active transport.
+    id: 168896
+    title: >-
+        What is active transport and how does it differ from passive transport?
     subject: Biology
-    url: /learn/biology/questions/define-concentration-gradient-and-its-importance-in-active-transport
+    url: /learn/biology/questions/what-is-active-transport-and-how-does-it-differ-from-passive-transport
 related_article4:
-    id: 168897
-    title: Why is energy required for active transport processes?
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
     subject: Biology
-    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
 related_article5:
-    id: 168898
-    title: How does active transport contribute to cellular function?
+    id: 168899
+    title: >-
+        What are the main types of active transport?
     subject: Biology
-    url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
+    url: /learn/biology/questions/what-are-the-main-types-of-active-transport
 ---
 
 &nbsp;

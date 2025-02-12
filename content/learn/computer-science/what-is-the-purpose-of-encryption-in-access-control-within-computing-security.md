@@ -2,8 +2,10 @@
 _schema: default
 id: 161538
 date: 2025-01-24
-title: What is the purpose of encryption in access control within computing security?
-article_title: What is the purpose of encryption in access control within computing security?
+title: >-
+    What is the purpose of encryption in access control within computing security?
+article_title: >-
+    What is the purpose of encryption in access control within computing security?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-purpose-of-encryption-in-access-control-within-computing-
 url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control-within-computing-security
 score: -1.0
 related_article1:
-    id: 161314
-    title: What is the significance of MIPS in evaluating mainframe performance?
+    id: 161322
+    title: >-
+        What are the main characteristics of open source software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-mips-in-evaluating-mainframe-performance
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article2:
-    id: 161542
-    title: What is the function of failover mechanisms in mainframe fault tolerance?
+    id: 161304
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
+    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
 related_article3:
-    id: 161298
-    title: How does checkpointing enhance fault tolerance in supercomputers?
+    id: 161569
+    title: >-
+        What are the disadvantages of a gesture-based interface compared to other user interfaces?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-checkpointing-enhance-fault-tolerance-in-supercomputers
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-gesturebased-interface-compared-to-other-user-interfaces
 related_article4:
-    id: 161551
-    title: How does licensing differ between open source and proprietary software?
+    id: 161322
+    title: >-
+        What are the main characteristics of open source software?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article5:
-    id: 161563
-    title: How do compilers differ from interpreters in the context of translators?
+    id: 161302
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 ---

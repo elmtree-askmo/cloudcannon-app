@@ -2,8 +2,10 @@
 _schema: default
 id: 169583
 date: 2025-02-05
-title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
-article_title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+title: >-
+    What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+article_title: >-
+    What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-perceptions-of-elderly-patients-that-contribute-
 url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
 score: -1.0
 related_article1:
-    id: 169588
-    title: What strategies can be employed to overcome biases in nursing?
+    id: 169598
+    title: >-
+        How can language barriers affect patient care, and what strategies can be implemented to overcome them?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 related_article2:
-    id: 169592
-    title: How does institutional racism affect healthcare access for ethnic minorities?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
-related_article3:
     id: 169597
-    title: What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
+    title: >-
+        What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
+related_article3:
+    id: 169596
+    title: >-
+        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 related_article4:
-    id: 169593
-    title: What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
+    id: 169590
+    title: >-
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article5:
-    id: 169599
-    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    id: 169592
+    title: >-
+        How does institutional racism affect healthcare access for ethnic minorities?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
 ---
 
 &nbsp;

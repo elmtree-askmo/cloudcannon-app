@@ -2,8 +2,10 @@
 _schema: default
 id: 167276
 date: 2025-01-31
-title: How do you choose the right type of graph based on data type and analysis purpose?
-article_title: How do you choose the right type of graph based on data type and analysis purpose?
+title: >-
+    How do you choose the right type of graph based on data type and analysis purpose?
+article_title: >-
+    How do you choose the right type of graph based on data type and analysis purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-choose-the-right-type-of-graph-based-on-data-type-and-anal
 url: /learn/education-studies/questions/how-do-you-choose-the-right-type-of-graph-based-on-data-type-and-analysis-purpose
 score: -1.0
 related_article1:
+    id: 167272
+    title: >-
+        How do pie charts effectively represent parts of a whole?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-pie-charts-effectively-represent-parts-of-a-whole
+related_article2:
+    id: 167274
+    title: >-
+        Why is it important to have descriptive titles on graphs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-have-descriptive-titles-on-graphs
+related_article3:
+    id: 167279
+    title: >-
+        What is the difference between correlation and causation, and why is it important to understand this distinction when analyzing graphs?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation-and-why-is-it-important-to-understand-this-distinction-when-analyzing-graphs
+related_article4:
     id: 167269
-    title: What is the role of independent and dependent variables in a scatter plot?
+    title: >-
+        What is the role of independent and dependent variables in a scatter plot?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-independent-and-dependent-variables-in-a-scatter-plot
-related_article2:
-    id: 167277
-    title: What are some common graphing errors, and how can they be avoided?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-graphing-errors-and-how-can-they-be-avoided
-related_article3:
-    id: 167268
-    title: How does a scatter plot help in understanding the correlation between variables?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-scatter-plot-help-in-understanding-the-correlation-between-variables
-related_article4:
+related_article5:
     id: 167264
-    title: What are the benefits of using graphs for visual data representation?
+    title: >-
+        What are the benefits of using graphs for visual data representation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-using-graphs-for-visual-data-representation
-related_article5:
-    id: 167267
-    title: What is a line graph, and when is it most appropriately used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-line-graph-and-when-is-it-most-appropriately-used
 ---
 
 &nbsp;

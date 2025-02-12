@@ -2,8 +2,10 @@
 _schema: default
 id: 168051
 date: 2025-02-02
-title: How do children classify objects based on physical characteristics during the concrete operational stage?
-article_title: How do children classify objects based on physical characteristics during the concrete operational stage?
+title: >-
+    How do children classify objects based on physical characteristics during the concrete operational stage?
+article_title: >-
+    How do children classify objects based on physical characteristics during the concrete operational stage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-children-classify-objects-based-on-physical-characteristics-du
 url: /learn/psychology/questions/how-do-children-classify-objects-based-on-physical-characteristics-during-the-concrete-operational-stage
 score: -1.0
 related_article1:
-    id: 168054
-    title: What distinguishes advanced number operations like multiplication and division from basic operations in this stage?
+    id: 168058
+    title: >-
+        How do children develop conservation skills related to liquid quantity, mass, weight, and volume?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-advanced-number-operations-like-multiplication-and-division-from-basic-operations-in-this-stage
+    url: /learn/psychology/questions/how-do-children-develop-conservation-skills-related-to-liquid-quantity-mass-weight-and-volume
 related_article2:
-    id: 168052
-    title: What is the significance of understanding quantitative dimensions such as length in logical operations?
+    id: 168053
+    title: >-
+        How do children perform basic number operations like addition and subtraction in the concrete operational stage?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-understanding-quantitative-dimensions-such-as-length-in-logical-operations
+    url: /learn/psychology/questions/how-do-children-perform-basic-number-operations-like-addition-and-subtraction-in-the-concrete-operational-stage
 related_article3:
-    id: 168052
-    title: What is the significance of understanding quantitative dimensions such as length in logical operations?
+    id: 168055
+    title: >-
+        How does desegregation contribute to a child's understanding of conservation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-understanding-quantitative-dimensions-such-as-length-in-logical-operations
+    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
 related_article4:
-    id: 168055
-    title: How does desegregation contribute to a child's understanding of conservation?
+    id: 168056
+    title: >-
+        Explain the concept of reversibility and its role in conservation during the concrete operational stage.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
+    url: /learn/psychology/questions/explain-the-concept-of-reversibility-and-its-role-in-conservation-during-the-concrete-operational-stage
 related_article5:
-    id: 168055
-    title: How does desegregation contribute to a child's understanding of conservation?
+    id: 168060
+    title: >-
+        Describe the predictable patterns in the conservation sequence during the concrete operational stage.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-desegregation-contribute-to-a-childs-understanding-of-conservation
+    url: /learn/psychology/questions/describe-the-predictable-patterns-in-the-conservation-sequence-during-the-concrete-operational-stage
 ---
 
 &nbsp;

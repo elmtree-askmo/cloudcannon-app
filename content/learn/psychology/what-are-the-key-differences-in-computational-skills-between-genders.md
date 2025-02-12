@@ -2,8 +2,10 @@
 _schema: default
 id: 168109
 date: 2025-02-02
-title: What are the key differences in computational skills between genders?
-article_title: What are the key differences in computational skills between genders?
+title: >-
+    What are the key differences in computational skills between genders?
+article_title: >-
+    What are the key differences in computational skills between genders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-in-computational-skills-between-genders.
 url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
 score: -1.0
 related_article1:
+    id: 168123
+    title: >-
+        How do cultural variations impact the gender gap in self-esteem?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+related_article2:
+    id: 168135
+    title: >-
+        How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article3:
+    id: 168132
+    title: >-
+        How do prenatal influences affect gender typing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+related_article4:
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
+related_article5:
     id: 168124
-    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    title: >-
+        Describe the trajectory of self-esteem from childhood to adolescence.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
-related_article2:
-    id: 168120
-    title: What is relational aggression, and how does it differ from physical aggression?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
-related_article3:
-    id: 168120
-    title: What is relational aggression, and how does it differ from physical aggression?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
-related_article4:
-    id: 168117
-    title: What is spatial perception, and how does it vary by gender?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
-related_article5:
-    id: 168128
-    title: What are the common developmental problems associated with autism spectrum disorder?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 ---
 
 &nbsp;

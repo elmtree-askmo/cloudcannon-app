@@ -2,8 +2,10 @@
 _schema: default
 id: 169307
 date: 2025-02-05
-title: What techniques are used in graphical analysis to understand limits and visualize derivatives?
-article_title: What techniques are used in graphical analysis to understand limits and visualize derivatives?
+title: >-
+    What techniques are used in graphical analysis to understand limits and visualize derivatives?
+article_title: >-
+    What techniques are used in graphical analysis to understand limits and visualize derivatives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-are-used-in-graphical-analysis-to-understand-limits-a
 url: /learn/education-studies/questions/what-techniques-are-used-in-graphical-analysis-to-understand-limits-and-visualize-derivatives
 score: -1.0
 related_article1:
-    id: 169293
-    title: How do Leibniz and Lagrange notations differ in representing derivatives?
+    id: 169309
+    title: >-
+        How are algebraic manipulation and calculus-based approaches used in mathematical analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-leibniz-and-lagrange-notations-differ-in-representing-derivatives
+    url: /learn/education-studies/questions/how-are-algebraic-manipulation-and-calculusbased-approaches-used-in-mathematical-analysis
 related_article2:
     id: 169299
-    title: How can the domain and range of absolute value functions be determined?
+    title: >-
+        How can the domain and range of absolute value functions be determined?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-the-domain-and-range-of-absolute-value-functions-be-determined
 related_article3:
-    id: 169300
-    title: What is the epsilon-delta criteria for proving limits, and how is it applied in continuous functions?
+    id: 169298
+    title: >-
+        What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-epsilondelta-criteria-for-proving-limits-and-how-is-it-applied-in-continuous-functions
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-rational-functions-and-how-do-they-exhibit-asymptotic-behavior
 related_article4:
-    id: 169287
-    title: How are vectors used in physics and engineering applications?
+    id: 169306
+    title: >-
+        How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-used-in-physics-and-engineering-applications
+    url: /learn/education-studies/questions/how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-focusing-on-increasing-and-decreasing-intervals
 related_article5:
-    id: 169304
-    title: What are some applications of integrals in physics and engineering?
+    id: 169303
+    title: >-
+        How does the Fundamental Theorem of Calculus connect derivatives and integrals?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-applications-of-integrals-in-physics-and-engineering
+    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
 ---
 
 &nbsp;

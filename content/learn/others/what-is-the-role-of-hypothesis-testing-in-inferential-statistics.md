@@ -2,8 +2,10 @@
 _schema: default
 id: 162776
 date: 2025-01-25
-title: What is the role of hypothesis testing in inferential statistics?
-article_title: What is the role of hypothesis testing in inferential statistics?
+title: >-
+    What is the role of hypothesis testing in inferential statistics?
+article_title: >-
+    What is the role of hypothesis testing in inferential statistics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-hypothesis-testing-in-inferential-statistics.md
 url: /learn/others/questions/what-is-the-role-of-hypothesis-testing-in-inferential-statistics
 score: -1.0
 related_article1:
-    id: 162709
-    title: How is Excel used in data analysis, and what are its limitations compared to R and Python?
+    id: 162731
+    title: >-
+        How do Scrum and Kanban differ as Agile frameworks?
     subject: Others
-    url: /learn/others/questions/how-is-excel-used-in-data-analysis-and-what-are-its-limitations-compared-to-r-and-python
+    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-frameworks
 related_article2:
-    id: 162775
-    title: How do measures of central tendency differ from measures of variability in descriptive statistics?
+    id: 162720
+    title: >-
+        What are the primary techniques used in data mining, and how do they apply to fraud detection?
     subject: Others
-    url: /learn/others/questions/how-do-measures-of-central-tendency-differ-from-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/what-are-the-primary-techniques-used-in-data-mining-and-how-do-they-apply-to-fraud-detection
 related_article3:
     id: 162663
-    title: What are the differences between relational and NoSQL databases in database management?
+    title: >-
+        What are the differences between relational and NoSQL databases in database management?
     subject: Others
     url: /learn/others/questions/what-are-the-differences-between-relational-and-nosql-databases-in-database-management
 related_article4:
     id: 162651
-    title: How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
+    title: >-
+        How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
     subject: Others
     url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-differ-in-their-applications-for-machine-learning
 related_article5:
-    id: 162780
-    title: What are the benefits of using cloud computing service models like IaaS, PaaS, and SaaS?
+    id: 162651
+    title: >-
+        How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-service-models-like-iaas-paas-and-saas
+    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-differ-in-their-applications-for-machine-learning
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161907
 date: 2025-01-24
-title: How do heterogeneous mixtures differ from homogeneous mixtures?
-article_title: How do heterogeneous mixtures differ from homogeneous mixtures?
+title: >-
+    How do heterogeneous mixtures differ from homogeneous mixtures?
+article_title: >-
+    How do heterogeneous mixtures differ from homogeneous mixtures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures.md
 url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
 score: -1.0
 related_article1:
-    id: 161820
-    title: What are the physical properties of matter, and how are mass and volume related to them?
+    id: 161906
+    title: >-
+        What are the characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
 related_article2:
-    id: 161715
-    title: What are the physical properties of matter, and how are mass and volume related to them?
+    id: 161888
+    title: >-
+        Provide examples of heterogeneous mixtures.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
 related_article3:
+    id: 161878
+    title: >-
+        What distinguishes elements from compounds in pure substances?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
+related_article4:
     id: 161836
-    title: What are the key characteristics of homogeneous mixtures?
+    title: >-
+        What are the key characteristics of homogeneous mixtures?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
-related_article4:
-    id: 161885
-    title: What are the defining characteristics of homogeneous mixtures?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
 related_article5:
-    id: 161910
-    title: What are some examples of elements and their chemical symbols?
+    id: 161712
+    title: >-
+        How do chemical formulas represent compounds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-their-chemical-symbols
+    url: /learn/chemistry/questions/how-do-chemical-formulas-represent-compounds
 ---
 
 &nbsp;

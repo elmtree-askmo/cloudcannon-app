@@ -2,8 +2,10 @@
 _schema: default
 id: 162318
 date: 2025-01-25
-title: How did Edward Playter influence sanitary reforms in the late 19th century?
-article_title: How did Edward Playter influence sanitary reforms in the late 19th century?
+title: >-
+    How did Edward Playter influence sanitary reforms in the late 19th century?
+article_title: >-
+    How did Edward Playter influence sanitary reforms in the late 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-ce
 url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
 score: -1.0
 related_article1:
-    id: 162316
-    title: What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
+    id: 162352
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-before-1867-and-how-did-they-address-cholera-outbreaks
+    url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 related_article2:
-    id: 162351
-    title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
-related_article3:
     id: 162342
-    title: How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
+    title: >-
+        How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
+related_article3:
+    id: 162340
+    title: >-
+        What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
 related_article4:
-    id: 162319
-    title: What role did public health laboratories play in the introduction of bacteriology and disease control?
+    id: 162352
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-public-health-laboratories-play-in-the-introduction-of-bacteriology-and-disease-control
+    url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 related_article5:
-    id: 162321
-    title: How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
+    id: 162344
+    title: >-
+        How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-the-establishment-of-the-canadian-public-health-association
+    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
 ---
 
 &nbsp;

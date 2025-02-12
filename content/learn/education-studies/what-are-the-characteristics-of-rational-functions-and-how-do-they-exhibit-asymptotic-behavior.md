@@ -2,8 +2,10 @@
 _schema: default
 id: 169298
 date: 2025-02-05
-title: What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
-article_title: What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
+title: >-
+    What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
+article_title: >-
+    What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-rational-functions-and-how-do-they-ex
 url: /learn/education-studies/questions/what-are-the-characteristics-of-rational-functions-and-how-do-they-exhibit-asymptotic-behavior
 score: -1.0
 related_article1:
-    id: 169301
-    title: How is the derivative used to calculate the instantaneous rate of change, and what are its applications in physics?
+    id: 169307
+    title: >-
+        What techniques are used in graphical analysis to understand limits and visualize derivatives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-derivative-used-to-calculate-the-instantaneous-rate-of-change-and-what-are-its-applications-in-physics
+    url: /learn/education-studies/questions/what-techniques-are-used-in-graphical-analysis-to-understand-limits-and-visualize-derivatives
 related_article2:
-    id: 169306
-    title: How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-focusing-on-increasing-and-decreasing-intervals
-related_article3:
-    id: 169285
-    title: Describe the difference between the instantaneous rate of change and the average rate of change of a function.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-difference-between-the-instantaneous-rate-of-change-and-the-average-rate-of-change-of-a-function
-related_article4:
     id: 169310
-    title: What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
+    title: >-
+        What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-types-of-functions-and-how-do-linear-and-quadratic-functions-differ-in-terms-of-domain-and-range
-related_article5:
-    id: 169293
-    title: How do Leibniz and Lagrange notations differ in representing derivatives?
+related_article3:
+    id: 169307
+    title: >-
+        What techniques are used in graphical analysis to understand limits and visualize derivatives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-leibniz-and-lagrange-notations-differ-in-representing-derivatives
+    url: /learn/education-studies/questions/what-techniques-are-used-in-graphical-analysis-to-understand-limits-and-visualize-derivatives
+related_article4:
+    id: 169299
+    title: >-
+        How can the domain and range of absolute value functions be determined?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-the-domain-and-range-of-absolute-value-functions-be-determined
+related_article5:
+    id: 169292
+    title: >-
+        What is the difference between left-hand and right-hand limits in calculus?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
 ---
 
 &nbsp;

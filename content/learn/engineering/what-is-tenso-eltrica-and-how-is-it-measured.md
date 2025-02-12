@@ -2,8 +2,10 @@
 _schema: default
 id: 169831
 date: 2025-02-05
-title: What is tensão elétrica and how is it measured?
-article_title: What is tensão elétrica and how is it measured?
+title: >-
+    What is tensão elétrica and how is it measured?
+article_title: >-
+    What is tensão elétrica and how is it measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-tenso-eltrica-and-how-is-it-measured.md
 url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
 score: -1.0
 related_article1:
-    id: 169828
-    title: What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    id: 169838
+    title: >-
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
     subject: Engineering
-    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 related_article2:
-    id: 169834
-    title: How can corrente elétrica be compared to a hydraulic system?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
-related_article3:
-    id: 169840
-    title: How does resistência affect the flow of corrente in a circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
-related_article4:
     id: 169825
-    title: What is a bipolo elétrico and what are some examples of it?
+    title: >-
+        What is a bipolo elétrico and what are some examples of it?
     subject: Engineering
     url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
-related_article5:
-    id: 169839
-    title: Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+related_article3:
+    id: 169827
+    title: >-
+        What constitutes a circuito elétrico and how does it function?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
+related_article4:
+    id: 169830
+    title: >-
+        How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+related_article5:
+    id: 169841
+    title: >-
+        What are the main components of a circuito elétrico?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
 ---
 
 &nbsp;

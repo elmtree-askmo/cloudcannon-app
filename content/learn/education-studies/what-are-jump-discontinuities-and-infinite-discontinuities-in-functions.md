@@ -2,8 +2,10 @@
 _schema: default
 id: 169290
 date: 2025-02-05
-title: What are jump discontinuities and infinite discontinuities in functions?
-article_title: What are jump discontinuities and infinite discontinuities in functions?
+title: >-
+    What are jump discontinuities and infinite discontinuities in functions?
+article_title: >-
+    What are jump discontinuities and infinite discontinuities in functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-jump-discontinuities-and-infinite-discontinuities-in-functio
 url: /learn/education-studies/questions/what-are-jump-discontinuities-and-infinite-discontinuities-in-functions
 score: -1.0
 related_article1:
-    id: 169288
-    title: What are the characteristics of continuous functions, and how do polynomial functions fit this category?
+    id: 169309
+    title: >-
+        How are algebraic manipulation and calculus-based approaches used in mathematical analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-continuous-functions-and-how-do-polynomial-functions-fit-this-category
+    url: /learn/education-studies/questions/how-are-algebraic-manipulation-and-calculusbased-approaches-used-in-mathematical-analysis
 related_article2:
+    id: 169285
+    title: >-
+        Describe the difference between the instantaneous rate of change and the average rate of change of a function.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-difference-between-the-instantaneous-rate-of-change-and-the-average-rate-of-change-of-a-function
+related_article3:
+    id: 169303
+    title: >-
+        How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
+related_article4:
+    id: 169291
+    title: >-
+        How do piecewise functions and absolute value functions illustrate discontinuous behavior?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-piecewise-functions-and-absolute-value-functions-illustrate-discontinuous-behavior
+related_article5:
     id: 169294
-    title: How are vertical asymptotes identified in rational functions, and what is their graphical representation?
+    title: >-
+        How are vertical asymptotes identified in rational functions, and what is their graphical representation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-vertical-asymptotes-identified-in-rational-functions-and-what-is-their-graphical-representation
-related_article3:
-    id: 169295
-    title: What is the behavior of functions near vertical asymptotes as they approach infinity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-behavior-of-functions-near-vertical-asymptotes-as-they-approach-infinity
-related_article4:
-    id: 169296
-    title: How are piecewise functions constructed, and what is their domain and range?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-piecewise-functions-constructed-and-what-is-their-domain-and-range
-related_article5:
-    id: 169292
-    title: What is the difference between left-hand and right-hand limits in calculus?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168472
 date: 2025-02-03
-title: What are the primary responsibilities of architects in the design and planning process?
-article_title: What are the primary responsibilities of architects in the design and planning process?
+title: >-
+    What are the primary responsibilities of architects in the design and planning process?
+article_title: >-
+    What are the primary responsibilities of architects in the design and planning process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-responsibilities-of-architects-in-the-design-and
 url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 score: -1.0
 related_article1:
-    id: 168474
-    title: What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
-related_article2:
-    id: 168478
-    title: What is the significance of understanding state and local building codes in construction projects?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-understanding-state-and-local-building-codes-in-construction-projects
-related_article3:
     id: 168473
-    title: How do construction careers differ in terms of work environment and job types?
+    title: >-
+        How do construction careers differ in terms of work environment and job types?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
+related_article2:
+    id: 168480
+    title: >-
+        What role do architects play in the design and implementation of structural systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-architects-play-in-the-design-and-implementation-of-structural-systems
+related_article3:
+    id: 168475
+    title: >-
+        What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
 related_article4:
-    id: 168477
-    title: How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
+    id: 168485
+    title: >-
+        How does vocational education contribute to career development in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-mathematics-and-technical-communication-coursework-prepare-students-for-careers-in-architecture-and-construction
+    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
 related_article5:
-    id: 168484
-    title: What are the key components of effective safety training in the construction industry?
+    id: 168485
+    title: >-
+        How does vocational education contribute to career development in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
+    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170602
 date: 2025-02-06
-title: What role do leak channels play in maintaining the resting membrane potential?
-article_title: What role do leak channels play in maintaining the resting membrane potential?
+title: >-
+    What role do leak channels play in maintaining the resting membrane potential?
+article_title: >-
+    What role do leak channels play in maintaining the resting membrane potential?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-p
 url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
 score: -1.0
 related_article1:
-    id: 170605
-    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    id: 170611
+    title: >-
+        Explain the role of the sodium-potassium pump in action potential recovery.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 related_article2:
-    id: 170612
-    title: What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
+    id: 170614
+    title: >-
+        How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
+    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
 related_article3:
-    id: 170604
-    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+    id: 170610
+    title: >-
+        How is membrane potential measured in electrophysiological studies?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 related_article4:
-    id: 170603
-    title: Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
+    id: 170610
+    title: >-
+        How is membrane potential measured in electrophysiological studies?
     subject: Nursing
-    url: /learn/nursing/questions/compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 related_article5:
-    id: 170606
-    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    id: 170610
+    title: >-
+        How is membrane potential measured in electrophysiological studies?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+    url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 ---
 
 &nbsp;

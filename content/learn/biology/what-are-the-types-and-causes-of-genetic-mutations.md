@@ -2,8 +2,10 @@
 _schema: default
 id: 167884
 date: 2025-02-01
-title: What are the types and causes of genetic mutations?
-article_title: What are the types and causes of genetic mutations?
+title: >-
+    What are the types and causes of genetic mutations?
+article_title: >-
+    What are the types and causes of genetic mutations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-types-and-causes-of-genetic-mutations.md
 url: /learn/biology/questions/what-are-the-types-and-causes-of-genetic-mutations
 score: -1.0
 related_article1:
-    id: 167879
-    title: What are the key symbols used in pedigree analysis and what do they represent?
+    id: 167890
+    title: >-
+        What is the structure and function of hemoglobin?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
 related_article2:
-    id: 167893
-    title: Explain the role of antigens in determining blood types.
+    id: 167877
+    title: >-
+        Explain the concept of incomplete penetrance with an example.
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
 related_article3:
+    id: 167875
+    title: >-
+        What is codominance and how does it differ from incomplete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
+related_article4:
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article5:
     id: 167892
-    title: What are the different blood types and how are they determined?
+    title: >-
+        What are the different blood types and how are they determined?
     subject: Biology
     url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
-related_article4:
-    id: 167885
-    title: How does sickle cell disease provide resistance to malaria?
-    subject: Biology
-    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
-related_article5:
-    id: 167891
-    title: How do genetic variations affect hemoglobin function?
-    subject: Biology
-    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
 ---
 
 &nbsp;

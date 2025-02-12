@@ -2,8 +2,10 @@
 _schema: default
 id: 164553
 date: 2025-01-28
-title: What is the significance of competition and integration between neural networks in cognitive processing?
-article_title: What is the significance of competition and integration between neural networks in cognitive processing?
+title: >-
+    What is the significance of competition and integration between neural networks in cognitive processing?
+article_title: >-
+    What is the significance of competition and integration between neural networks in cognitive processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-competition-and-integration-between-neura
 url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
 score: -1.0
 related_article1:
-    id: 164549
-    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
-related_article2:
-    id: 164555
-    title: What is the relationship between cognitive load and task switching?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-cognitive-load-and-task-switching
-related_article3:
     id: 164544
-    title: How do the default mode network and potential control network contribute to attention?
+    title: >-
+        How do the default mode network and potential control network contribute to attention?
     subject: Psychology
     url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
+related_article2:
+    id: 164565
+    title: >-
+        What role do arousal and vigilance play in attention and cognitive performance?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+related_article3:
+    id: 164543
+    title: >-
+        What are the key differences between spatial attention and object-based attention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
 related_article4:
-    id: 164554
-    title: How do visual and auditory processing contribute to sensory processing in cognitive processes?
+    id: 164563
+    title: >-
+        How does the transition from controlled to automatic processes occur?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
+    url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
 related_article5:
-    id: 164549
-    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    id: 164545
+    title: >-
+        What roles do the parietal and frontal lobes play in attention processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
 ---
 
 &nbsp;

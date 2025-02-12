@@ -2,8 +2,10 @@
 _schema: default
 id: 169878
 date: 2025-02-05
-title: What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
-article_title: What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
+title: >-
+    What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
+article_title: >-
+    What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal
 url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal-warfare-against-the-romans
 score: 9.0
 related_article1:
-    id: 169873
-    title: What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
+    id: 169876
+    title: >-
+        In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-features-of-the-pictish-language-and-how-do-they-inform-our-understanding-of-pictish-society
+    url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
 related_article2:
-    id: 169879
-    title: How did the Roman administration manage the provinces of Roman Britain?
+    id: 169864
+    title: >-
+        What were the key objectives of Agricola's campaigns in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-roman-administration-manage-the-provinces-of-roman-britain
+    url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-agricolas-campaigns-in-britain
 related_article3:
-    id: 169881
-    title: What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
+    id: 169877
+    title: >-
+        How did Roman military techniques, such as the construction of Roman roads, facilitate their campaigns in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-tacitus-agricola-and-how-does-it-contribute-to-our-understanding-of-roman-britain
+    url: /learn/history-of-the-world/questions/how-did-roman-military-techniques-such-as-the-construction-of-roman-roads-facilitate-their-campaigns-in-britain
 related_article4:
-    id: 169882
-    title: How do classical sources compare the Celts with other tribes of the ancient world?
+    id: 169867
+    title: >-
+        Describe the significance of the Vindolanda Fort in understanding Roman military presence in Britain.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-classical-sources-compare-the-celts-with-other-tribes-of-the-ancient-world
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-the-vindolanda-fort-in-understanding-roman-military-presence-in-britain
 related_article5:
-    id: 169875
-    title: How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
+    id: 169876
+    title: >-
+        In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-tacitus-perspective-in-agricolas-biography-reflect-roman-historiography-biases
+    url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
 ---
 
 &nbsp;

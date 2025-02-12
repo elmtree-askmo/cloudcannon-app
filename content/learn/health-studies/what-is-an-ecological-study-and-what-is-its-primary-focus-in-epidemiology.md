@@ -2,8 +2,10 @@
 _schema: default
 id: 162990
 date: 2025-01-26
-title: What is an ecological study and what is its primary focus in epidemiology?
-article_title: What is an ecological study and what is its primary focus in epidemiology?
+title: >-
+    What is an ecological study and what is its primary focus in epidemiology?
+article_title: >-
+    What is an ecological study and what is its primary focus in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemio
 url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163205
-    title: How do positive and negative associations differ in epidemiology?
+    id: 163319
+    title: >-
+        How does public health surveillance aid in identifying and responding to outbreaks?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
+    url: /learn/health-studies/questions/how-does-public-health-surveillance-aid-in-identifying-and-responding-to-outbreaks
 related_article2:
-    id: 163322
-    title: How can ecological fallacy affect the interpretation of ecological studies?
+    id: 163309
+    title: >-
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 related_article3:
-    id: 162983
-    title: Why is age-adjustment important when comparing mortality rates across different populations?
+    id: 163318
+    title: >-
+        What is the difference between an outbreak and an epidemic?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
+    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
 related_article4:
-    id: 163320
-    title: What are the primary purposes of public health surveillance?
+    id: 162989
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article5:
-    id: 163312
-    title: What distinguishes a crude mortality rate from a specific mortality rate?
+    id: 163308
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-rate
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 ---
 
 &nbsp;

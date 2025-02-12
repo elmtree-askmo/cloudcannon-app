@@ -2,8 +2,10 @@
 _schema: default
 id: 167196
 date: 2025-01-31
-title: Compare the energy requirements of passive and active transport.
-article_title: Compare the energy requirements of passive and active transport.
+title: >-
+    Compare the energy requirements of passive and active transport.
+article_title: >-
+    Compare the energy requirements of passive and active transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: compare-the-energy-requirements-of-passive-and-active-transport.md
 url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
 score: -1.0
 related_article1:
-    id: 167186
-    title: How do transport proteins function as channels in passive transport?
+    id: 167191
+    title: >-
+        What is the process of exocytosis and what types of materials are typically transported via this method?
     subject: Biology
-    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
+    url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
 related_article2:
-    id: 167195
-    title: How do concentration gradients influence the direction and rate of transport mechanisms?
+    id: 167190
+    title: >-
+        How do pumps function in active transport, and what is their energy source?
     subject: Biology
-    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
+    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
 related_article3:
-    id: 167189
-    title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+    id: 167194
+    title: >-
+        Define concentration gradients and explain their importance in membrane transport.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
+    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
 related_article4:
-    id: 167192
-    title: Describe the process of endocytosis and the types of materials it transports.
+    id: 167187
+    title: >-
+        What factors determine the specificity and selectivity of channel proteins?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
-related_article5:
-    id: 167183
-    title: What is facilitated diffusion and how does it differ from simple diffusion?
-    subject: Biology
-    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
 ---
 
 &nbsp;

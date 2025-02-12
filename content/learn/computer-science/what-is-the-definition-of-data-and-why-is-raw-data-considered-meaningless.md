@@ -2,8 +2,10 @@
 _schema: default
 id: 161684
 date: 2025-01-24
-title: What is the definition of data and why is raw data considered meaningless?
-article_title: What is the definition of data and why is raw data considered meaningless?
+title: >-
+    What is the definition of data and why is raw data considered meaningless?
+article_title: >-
+    What is the definition of data and why is raw data considered meaningless?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-definition-of-data-and-why-is-raw-data-considered-meaning
 url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
 score: -1.0
 related_article1:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 related_article2:
-    id: 161688
-    title: Why is accuracy important in the quality of information, and what factors can affect it?
+    id: 161433
+    title: >-
+        What factors influence the relevance of information, and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-accuracy-important-in-the-quality-of-information-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
 related_article3:
-    id: 161690
-    title: Why is the age of information important, and what factors can affect its timeliness?
+    id: 161668
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-important-and-what-factors-can-affect-its-timeliness
+    url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
 related_article4:
-    id: 161695
-    title: What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
+    id: 161511
+    title: >-
+        What are the main components of an information system and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article5:
-    id: 161429
-    title: What are the main characteristics of direct data, and what are its advantages and disadvantages?
+    id: 161706
+    title: >-
+        What are the main components of an information system, and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 ---
 
 &nbsp;

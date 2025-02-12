@@ -2,8 +2,10 @@
 _schema: default
 id: 164444
 date: 2025-01-28
-title: Identify two external causes of brain injury and explain their potential impact.
-article_title: Identify two external causes of brain injury and explain their potential impact.
+title: >-
+    Identify two external causes of brain injury and explain their potential impact.
+article_title: >-
+    Identify two external causes of brain injury and explain their potential impact.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-two-external-causes-of-brain-injury-and-explain-their-potent
 url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
 score: -1.0
 related_article1:
-    id: 164447
-    title: Describe the role of the parietal lobe in sensory integration.
+    id: 164446
+    title: >-
+        How does the temporal lobe contribute to memory and learning processes?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
+    url: /learn/nursing/questions/how-does-the-temporal-lobe-contribute-to-memory-and-learning-processes
 related_article2:
-    id: 164454
-    title: Which populations are at higher risk for brain injury, and why?
+    id: 164451
+    title: >-
+        How can emotional and behavioral effects manifest in individuals with brain injuries?
     subject: Nursing
-    url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+    url: /learn/nursing/questions/how-can-emotional-and-behavioral-effects-manifest-in-individuals-with-brain-injuries
 related_article3:
-    id: 164443
-    title: What internal factors can lead to brain injury, and how do they affect the brain?
+    id: 164449
+    title: >-
+        Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
     subject: Nursing
-    url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
+    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
 related_article4:
-    id: 164439
-    title: What are the key differences between anoxic and hypoxic brain injuries?
+    id: 164440
+    title: >-
+        How do anoxic and hypoxic injuries impact brain function?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-differences-between-anoxic-and-hypoxic-brain-injuries
+    url: /learn/nursing/questions/how-do-anoxic-and-hypoxic-injuries-impact-brain-function
 related_article5:
-    id: 164445
-    title: What are the primary functions of the frontal lobe, and how might they be affected by injury?
+    id: 164442
+    title: >-
+        How do open head injuries differ from closed head injuries in terms of impact and treatment?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-functions-of-the-frontal-lobe-and-how-might-they-be-affected-by-injury
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
 ---
 
 &nbsp;

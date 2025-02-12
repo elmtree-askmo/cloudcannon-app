@@ -2,8 +2,10 @@
 _schema: default
 id: 164344
 date: 2025-01-28
-title: How can variability in brain regions impact research studies in cognitive neuroscience?
-article_title: How can variability in brain regions impact research studies in cognitive neuroscience?
+title: >-
+    How can variability in brain regions impact research studies in cognitive neuroscience?
+article_title: >-
+    How can variability in brain regions impact research studies in cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-variability-in-brain-regions-impact-research-studies-in-cogni
 url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
 score: -1.0
 related_article1:
-    id: 164343
-    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
+    id: 164339
+    title: >-
+        What are some limitations of neuroimaging studies in understanding brain function?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
+    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
 related_article2:
     id: 164337
-    title: How does fMRI differ from EEG in studying brain region activation?
+    title: >-
+        How does fMRI differ from EEG in studying brain region activation?
     subject: Psychology
     url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
 related_article3:
-    id: 164331
-    title: What are the primary functions of the occipital lobe in visual processing?
+    id: 164332
+    title: >-
+        How does the temporal lobe contribute to visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
 related_article4:
-    id: 164339
-    title: What are some limitations of neuroimaging studies in understanding brain function?
+    id: 164334
+    title: >-
+        How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
+    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
 related_article5:
-    id: 164335
-    title: What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+    id: 164333
+    title: >-
+        What role does the parietal lobe play in sensory processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
 ---
 
 &nbsp;

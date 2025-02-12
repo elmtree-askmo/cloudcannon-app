@@ -2,8 +2,10 @@
 _schema: default
 id: 168183
 date: 2025-02-02
-title: Define independent and dependent variables and provide an example scenario illustrating their roles.
-article_title: Define independent and dependent variables and provide an example scenario illustrating their roles.
+title: >-
+    Define independent and dependent variables and provide an example scenario illustrating their roles.
+article_title: >-
+    Define independent and dependent variables and provide an example scenario illustrating their roles.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/define-independent-and-dependent-variables-
 score: -1.0
 related_article1:
     id: 168194
-    title: Explain the levels of biological organization from atoms to molecules and their importance in biology.
+    title: >-
+        Explain the levels of biological organization from atoms to molecules and their importance in biology.
     subject: Health Studies
     url: /learn/health-studies/questions/explain-the-levels-of-biological-organization-from-atoms-to-molecules-and-their-importance-in-biology
 related_article2:
-    id: 168188
-    title: How do chemical bonds contribute to the formation and properties of compounds?
+    id: 168182
+    title: >-
+        What distinguishes a control group from a treatment group in an experimental setup?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-chemical-bonds-contribute-to-the-formation-and-properties-of-compounds
+    url: /learn/health-studies/questions/what-distinguishes-a-control-group-from-a-treatment-group-in-an-experimental-setup
 related_article3:
-    id: 168184
-    title: How does deductive reasoning differ from inductive reasoning in scientific research?
+    id: 168187
+    title: >-
+        Explain the significance of the periodic table in understanding elements and their properties.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-deductive-reasoning-differ-from-inductive-reasoning-in-scientific-research
+    url: /learn/health-studies/questions/explain-the-significance-of-the-periodic-table-in-understanding-elements-and-their-properties
 related_article4:
-    id: 168184
-    title: How does deductive reasoning differ from inductive reasoning in scientific research?
+    id: 168185
+    title: >-
+        Describe the structure of an atom, including the roles of the nucleus and orbitals.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-deductive-reasoning-differ-from-inductive-reasoning-in-scientific-research
+    url: /learn/health-studies/questions/describe-the-structure-of-an-atom-including-the-roles-of-the-nucleus-and-orbitals
 related_article5:
-    id: 168194
-    title: Explain the levels of biological organization from atoms to molecules and their importance in biology.
+    id: 168190
+    title: >-
+        Describe the characteristics of polar covalent bonds and provide an example of a polar molecule.
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-levels-of-biological-organization-from-atoms-to-molecules-and-their-importance-in-biology
+    url: /learn/health-studies/questions/describe-the-characteristics-of-polar-covalent-bonds-and-provide-an-example-of-a-polar-molecule
 ---
 
 &nbsp;

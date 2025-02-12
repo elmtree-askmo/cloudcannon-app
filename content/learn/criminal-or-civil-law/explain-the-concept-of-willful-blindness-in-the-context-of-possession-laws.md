@@ -2,8 +2,10 @@
 _schema: default
 id: 162190
 date: 2025-01-25
-title: Explain the concept of willful blindness in the context of possession laws.
-article_title: Explain the concept of willful blindness in the context of possession laws.
+title: >-
+    Explain the concept of willful blindness in the context of possession laws.
+article_title: >-
+    Explain the concept of willful blindness in the context of possession laws.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-willful-blindness-in-the-context-of-possession
 url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
 score: -1.0
 related_article1:
+    id: 162166
+    title: >-
+        What are the key medical indicators used to determine the cause of death?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-medical-indicators-used-to-determine-the-cause-of-death
+related_article2:
+    id: 162168
+    title: >-
+        How does antisocial behavior relate to assaultive behavior and its consequences?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-consequences
+related_article3:
+    id: 162199
+    title: >-
+        How do social norms influence moral blameworthiness in legal contexts?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-social-norms-influence-moral-blameworthiness-in-legal-contexts
+related_article4:
     id: 162169
-    title: Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
+    title: >-
+        Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-minimal-causation-in-law-and-its-significance-in-determining-criminal-responsibility
-related_article2:
-    id: 162173
-    title: What is subjective recklessness and how does it differ from objective recklessness?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-subjective-recklessness-and-how-does-it-differ-from-objective-recklessness
-related_article3:
-    id: 162177
-    title: What distinguishes first degree murder from manslaughter in terms of legal classification?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
-related_article4:
-    id: 162180
-    title: Define fraudulent intent and its role in criminal offenses.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-fraudulent-intent-and-its-role-in-criminal-offenses
 related_article5:
-    id: 162174
-    title: How does foreseeability impact legal responsibility in criminal cases?
+    id: 162184
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-foreseeability-impact-legal-responsibility-in-criminal-cases
+    url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166437
 date: 2025-01-30
-title: What are the types of drug interactions, and what are their clinical implications?
-article_title: What are the types of drug interactions, and what are their clinical implications?
+title: >-
+    What are the types of drug interactions, and what are their clinical implications?
+article_title: >-
+    What are the types of drug interactions, and what are their clinical implications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-types-of-drug-interactions-and-what-are-their-clinical-i
 url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
 score: -1.0
 related_article1:
-    id: 166427
-    title: What are the phases of biotransformation, and how do they contribute to drug metabolism?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
-related_article2:
-    id: 166424
-    title: Describe the process of enteric absorption and list two factors that can affect it.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
-related_article3:
     id: 166428
-    title: Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+    title: >-
+        Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
+related_article2:
+    id: 166438
+    title: >-
+        What is a black box warning, and what is its purpose in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
+related_article3:
+    id: 166435
+    title: >-
+        Define dissolution and explain its importance in drug absorption.
+    subject: Nursing
+    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
 related_article4:
+    id: 166436
+    title: >-
+        List the routes of drug excretion and discuss one factor that affects excretion.
+    subject: Nursing
+    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
+related_article5:
     id: 166426
-    title: Define bioavailability and identify two factors that influence it.
+    title: >-
+        Define bioavailability and identify two factors that influence it.
     subject: Nursing
     url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
-related_article5:
-    id: 166432
-    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
-    subject: Nursing
-    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165755
 date: 2025-01-29
-title: How does the dual stack technique facilitate IPv6 coexistence with IPv4?
-article_title: How does the dual stack technique facilitate IPv6 coexistence with IPv4?
+title: >-
+    How does the dual stack technique facilitate IPv6 coexistence with IPv4?
+article_title: >-
+    How does the dual stack technique facilitate IPv6 coexistence with IPv4?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ip
 url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
 score: -1.0
 related_article1:
-    id: 165740
-    title: How is an IPv6 address represented in terms of length and notation?
+    id: 165754
+    title: >-
+        What are the characteristics of a Unique Local Address (ULA) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
 related_article2:
-    id: 165753
-    title: What is the role of the Global Routing Prefix in IPv6 subnetting?
+    id: 165744
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-global-routing-prefix-in-ipv6-subnetting
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 related_article3:
-    id: 165740
-    title: How is an IPv6 address represented in terms of length and notation?
+    id: 165748
+    title: >-
+        What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
+    url: /learn/computer-science/questions/what-methods-are-used-for-dynamic-addressing-of-global-unicast-addresses-guas-in-ipv6
 related_article4:
-    id: 165742
-    title: Differentiate between unicast, multicast, and anycast IPv6 address types.
+    id: 165744
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 related_article5:
-    id: 165746
-    title: What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+    id: 165741
+    title: >-
+        What is the purpose of using a double colon in IPv6 address notation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
 ---
 
 &nbsp;

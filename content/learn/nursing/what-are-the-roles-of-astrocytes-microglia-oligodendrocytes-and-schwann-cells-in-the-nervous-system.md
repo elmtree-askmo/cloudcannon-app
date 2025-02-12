@@ -2,8 +2,10 @@
 _schema: default
 id: 170607
 date: 2025-02-06
-title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
-article_title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+title: >-
+    What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+article_title: >-
+    What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwa
 url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
 score: -1.0
 related_article1:
-    id: 170614
-    title: How do reflex arcs demonstrate the interaction between the central and peripheral nervous systems?
+    id: 170604
+    title: >-
+        How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-reflex-arcs-demonstrate-the-interaction-between-the-central-and-peripheral-nervous-systems
+    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
 related_article2:
+    id: 170618
+    title: >-
+        What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
+related_article3:
+    id: 170601
+    title: >-
+        Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+related_article4:
     id: 170617
-    title: What are the characteristics of graded potentials and how do they differ from action potentials?
+    title: >-
+        What are the characteristics of graded potentials and how do they differ from action potentials?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
-related_article3:
-    id: 170599
-    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
-related_article4:
-    id: 170615
-    title: What is synaptic plasticity and how does it contribute to learning and memory?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
 related_article5:
     id: 170613
-    title: Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
+    title: >-
+        Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-process-of-synaptic-transmission-including-presynaptic-and-postsynaptic-events
 ---

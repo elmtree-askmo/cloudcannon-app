@@ -2,8 +2,10 @@
 _schema: default
 id: 167783
 date: 2025-02-01
-title: How do genotype and phenotype differ in genetic expression?
-article_title: How do genotype and phenotype differ in genetic expression?
+title: >-
+    How do genotype and phenotype differ in genetic expression?
+article_title: >-
+    How do genotype and phenotype differ in genetic expression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-genotype-and-phenotype-differ-in-genetic-expression.md
 url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
 score: -1.0
 related_article1:
-    id: 167796
-    title: What is the purpose of chi-square analysis in genetics?
+    id: 167790
+    title: >-
+        How is co-dominance exemplified in human blood types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
+    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
 related_article2:
-    id: 167792
-    title: How does incomplete dominance differ from complete dominance?
+    id: 167806
+    title: >-
+        How is genetic counseling used to assess risk and analyze family history?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance
+    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
 related_article3:
-    id: 167788
-    title: How do genetic mutations contribute to genetic variation?
+    id: 167799
+    title: >-
+        What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
+    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 related_article4:
-    id: 167790
-    title: How is co-dominance exemplified in human blood types?
+    id: 167782
+    title: >-
+        What is the difference between dominant and recessive traits in Mendelian inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
+    url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
 related_article5:
-    id: 167790
-    title: How is co-dominance exemplified in human blood types?
+    id: 167793
+    title: >-
+        Provide an example of incomplete dominance in flower color.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
+    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
 ---
 
 &nbsp;

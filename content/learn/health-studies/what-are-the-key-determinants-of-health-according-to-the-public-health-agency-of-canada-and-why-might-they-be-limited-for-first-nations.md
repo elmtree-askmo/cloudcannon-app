@@ -2,8 +2,10 @@
 _schema: default
 id: 163373
 date: 2025-01-26
-title: What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
-article_title: What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
+title: >-
+    What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
+article_title: >-
+    What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-determinants-of-health-according-to-the-public-healt
 url: /learn/health-studies/questions/what-are-the-key-determinants-of-health-according-to-the-public-health-agency-of-canada-and-why-might-they-be-limited-for-first-nations
 score: -1.0
 related_article1:
-    id: 163377
-    title: What were the impacts of the British North America Act and the Indian Act on First Nations communities?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
-related_article2:
-    id: 163379
-    title: Describe the components of the Medicine Wheel and their significance in the holistic health model.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-components-of-the-medicine-wheel-and-their-significance-in-the-holistic-health-model
-related_article3:
     id: 163375
-    title: In what ways does the Indigenous worldview emphasize interconnectedness with nature?
+    title: >-
+        In what ways does the Indigenous worldview emphasize interconnectedness with nature?
     subject: Health Studies
     url: /learn/health-studies/questions/in-what-ways-does-the-indigenous-worldview-emphasize-interconnectedness-with-nature
-related_article4:
-    id: 163384
-    title: What mechanisms can be used to promote social justice and equity for First Nations communities?
+related_article2:
+    id: 163380
+    title: >-
+        What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-can-be-used-to-promote-social-justice-and-equity-for-first-nations-communities
+    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+related_article3:
+    id: 163372
+    title: >-
+        How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-current-health-disparities-between-first-nations-and-the-national-average-manifest-in-terms-of-infectious-diseases-and-immunity
+related_article4:
+    id: 163374
+    title: >-
+        How does the Four Worlds Institute Model define well-being, and what are its guiding principles?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-four-worlds-institute-model-define-wellbeing-and-what-are-its-guiding-principles
 related_article5:
     id: 163382
-    title: What are the challenges and benefits of integrating traditional knowledge systems with public health services?
+    title: >-
+        What are the challenges and benefits of integrating traditional knowledge systems with public health services?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-challenges-and-benefits-of-integrating-traditional-knowledge-systems-with-public-health-services
 ---

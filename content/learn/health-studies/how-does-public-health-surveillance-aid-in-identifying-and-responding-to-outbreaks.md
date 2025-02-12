@@ -2,8 +2,10 @@
 _schema: default
 id: 163319
 date: 2025-01-26
-title: How does public health surveillance aid in identifying and responding to outbreaks?
-article_title: How does public health surveillance aid in identifying and responding to outbreaks?
+title: >-
+    How does public health surveillance aid in identifying and responding to outbreaks?
+article_title: >-
+    How does public health surveillance aid in identifying and responding to outbreaks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-public-health-surveillance-aid-in-identifying-and-responding
 url: /learn/health-studies/questions/how-does-public-health-surveillance-aid-in-identifying-and-responding-to-outbreaks
 score: -1.0
 related_article1:
-    id: 163310
-    title: What is the difference between crude rates and specific rates in epidemiology?
+    id: 163317
+    title: >-
+        How do epidemiologic questions contribute to public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-crude-rates-and-specific-rates-in-epidemiology
+    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
 related_article2:
-    id: 163204
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    id: 163324
+    title: >-
+        How is the Pearson correlation coefficient used in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
 related_article3:
-    id: 163318
-    title: What is the difference between an outbreak and an epidemic?
+    id: 162985
+    title: >-
+        How do descriptive and analytic epidemiologic questions differ in their objectives?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
+    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
 related_article4:
-    id: 162981
-    title: How do age-specific rates differ from crude rates in epidemiology?
+    id: 163320
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-agespecific-rates-differ-from-crude-rates-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article5:
-    id: 163313
-    title: How is the case fatality rate calculated and how does it differ from the mortality rate?
+    id: 162985
+    title: >-
+        How do descriptive and analytic epidemiologic questions differ in their objectives?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
+    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
 ---
 
 &nbsp;

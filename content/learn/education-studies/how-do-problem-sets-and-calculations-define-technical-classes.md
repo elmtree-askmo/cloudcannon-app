@@ -2,8 +2,10 @@
 _schema: default
 id: 165448
 date: 2025-01-29
-title: How do problem sets and calculations define technical classes?
-article_title: How do problem sets and calculations define technical classes?
+title: >-
+    How do problem sets and calculations define technical classes?
+article_title: >-
+    How do problem sets and calculations define technical classes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-problem-sets-and-calculations-define-technical-classes.md
 url: /learn/education-studies/questions/how-do-problem-sets-and-calculations-define-technical-classes
 score: -1.0
 related_article1:
-    id: 165450
-    title: How can understanding steps in PSAs be applied to new problems?
+    id: 165455
+    title: >-
+        How can mind maps be organized to effectively link concepts?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-understanding-steps-in-psas-be-applied-to-new-problems
+    url: /learn/education-studies/questions/how-can-mind-maps-be-organized-to-effectively-link-concepts
 related_article2:
-    id: 165444
-    title: What are the key differences in note-taking strategies for technical versus non-technical classes?
+    id: 165447
+    title: >-
+        What are the characteristics of non-technical classes that influence note-taking?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-in-notetaking-strategies-for-technical-versus-nontechnical-classes
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nontechnical-classes-that-influence-notetaking
 related_article3:
-    id: 165454
-    title: What are the benefits of mind mapping in terms of visualizing connections and enhancing memory retention?
+    id: 165458
+    title: >-
+        What are effective strategies for reviewing QEC notes to identify key ideas and summarize information?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-mind-mapping-in-terms-of-visualizing-connections-and-enhancing-memory-retention
+    url: /learn/education-studies/questions/what-are-effective-strategies-for-reviewing-qec-notes-to-identify-key-ideas-and-summarize-information
 related_article4:
-    id: 165446
-    title: What is the primary focus of the PSA method in problem-solving?
+    id: 165452
+    title: >-
+        Why is annotation important in technical classes, and what methods can be used?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-focus-of-the-psa-method-in-problemsolving
+    url: /learn/education-studies/questions/why-is-annotation-important-in-technical-classes-and-what-methods-can-be-used
 related_article5:
     id: 165445
-    title: How does the QEC method help in deriving conclusions from gathered evidence?
+    title: >-
+        How does the QEC method help in deriving conclusions from gathered evidence?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-qec-method-help-in-deriving-conclusions-from-gathered-evidence
 ---

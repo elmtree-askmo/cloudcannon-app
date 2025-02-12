@@ -2,8 +2,10 @@
 _schema: default
 id: 161350
 date: 2025-01-24
-title: Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
-article_title: Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
+title: >-
+    Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
+article_title: >-
+    Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-the-sensors-and-actuators-used-in-greenhouse-environment-con
 url: /learn/computer-science/questions/identify-the-sensors-and-actuators-used-in-greenhouse-environment-control-and-explain-the-feedback-mechanism-involved
 score: -1.0
 related_article1:
-    id: 161353
-    title: What are the components and functionality of street lighting control systems, and how do they operate?
+    id: 161326
+    title: >-
+        What are the main types of sensors used in monitoring technologies, and how do they function?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-and-functionality-of-street-lighting-control-systems-and-how-do-they-operate
+    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
 related_article2:
-    id: 161519
-    title: Explain the process and benefits of two-point calibration in monitoring technologies.
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-and-benefits-of-twopoint-calibration-in-monitoring-technologies
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article3:
-    id: 161351
-    title: What components are involved in central heating systems, and how does the feedback mechanism work?
+    id: 161358
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-components-are-involved-in-central-heating-systems-and-how-does-the-feedback-mechanism-work
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology
 related_article4:
-    id: 161329
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+    id: 161326
+    title: >-
+        What are the main types of sensors used in monitoring technologies, and how do they function?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
+    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
 related_article5:
-    id: 161516
-    title: What are the different types of actuators, and how do they function in control technologies?
+    id: 161343
+    title: >-
+        How does two-point calibration differ from one-point calibration, and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-do-they-function-in-control-technologies
+    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
 ---
 
 &nbsp;

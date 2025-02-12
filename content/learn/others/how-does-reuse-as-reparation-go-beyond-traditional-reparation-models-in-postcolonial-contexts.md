@@ -2,8 +2,10 @@
 _schema: default
 id: 169134
 date: 2025-02-04
-title: How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
-article_title: How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
+title: >-
+    How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
+article_title: >-
+    How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-
 url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
 score: -1.0
 related_article1:
-    id: 169130
-    title: In what ways has fascist architecture been normalized within Italian cityscapes?
+    id: 169133
+    title: >-
+        What is the function of prosthesis in architecture, and how does it relate to historical narratives?
     subject: Others
-    url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
+    url: /learn/others/questions/what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-relate-to-historical-narratives
 related_article2:
-    id: 169130
-    title: In what ways has fascist architecture been normalized within Italian cityscapes?
+    id: 169133
+    title: >-
+        What is the function of prosthesis in architecture, and how does it relate to historical narratives?
     subject: Others
-    url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
+    url: /learn/others/questions/what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-relate-to-historical-narratives
 related_article3:
-    id: 169136
-    title: How do decolonial aesthetics challenge the control of knowledge and state power?
+    id: 169126
+    title: >-
+        What were the key architectural features of Modernist Fascist-Colonial Architecture in Asmara?
     subject: Others
-    url: /learn/others/questions/how-do-decolonial-aesthetics-challenge-the-control-of-knowledge-and-state-power
+    url: /learn/others/questions/what-were-the-key-architectural-features-of-modernist-fascistcolonial-architecture-in-asmara
 related_article4:
     id: 169130
-    title: In what ways has fascist architecture been normalized within Italian cityscapes?
+    title: >-
+        In what ways has fascist architecture been normalized within Italian cityscapes?
     subject: Others
     url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
 related_article5:
-    id: 169135
-    title: What does architectural demodernization entail in the context of decolonizing preservation?
+    id: 169132
+    title: >-
+        How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
     subject: Others
-    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
+    url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
 ---
 
 &nbsp;

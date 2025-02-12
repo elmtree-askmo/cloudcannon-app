@@ -2,8 +2,10 @@
 _schema: default
 id: 164622
 date: 2025-01-28
-title: What is code-switching and how does it relate to linguistic diversity in urban areas?
-article_title: What is code-switching and how does it relate to linguistic diversity in urban areas?
+title: >-
+    What is code-switching and how does it relate to linguistic diversity in urban areas?
+article_title: >-
+    What is code-switching and how does it relate to linguistic diversity in urban areas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-codeswitching-and-how-does-it-relate-to-linguistic-diversity-
 url: /learn/art-history-and-literature/questions/what-is-codeswitching-and-how-does-it-relate-to-linguistic-diversity-in-urban-areas
 score: 9.0
 related_article1:
-    id: 164615
-    title: What distinguishes language music from traditional music?
+    id: 164631
+    title: >-
+        What are the basic concepts of rhythm in music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-distinguishes-language-music-from-traditional-music
+    url: /learn/art-history-and-literature/questions/what-are-the-basic-concepts-of-rhythm-in-music
 related_article2:
-    id: 164626
-    title: How does emotional energy in music affect listeners psychologically?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-emotional-energy-in-music-affect-listeners-psychologically
-related_article3:
-    id: 164620
-    title: What are the stages of speech sound development in children?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-stages-of-speech-sound-development-in-children
-related_article4:
-    id: 164630
-    title: What is the role of harmony in music composition?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
-related_article5:
     id: 164623
-    title: How does syntax contribute to the structural elements of a song's grammar?
+    title: >-
+        How does syntax contribute to the structural elements of a song's grammar?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-syntax-contribute-to-the-structural-elements-of-a-songs-grammar
+related_article3:
+    id: 164621
+    title: >-
+        How does cultural blending contribute to urban mixture?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-cultural-blending-contribute-to-urban-mixture
+related_article4:
+    id: 164626
+    title: >-
+        How does emotional energy in music affect listeners psychologically?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-emotional-energy-in-music-affect-listeners-psychologically
+related_article5:
+    id: 164621
+    title: >-
+        How does cultural blending contribute to urban mixture?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-cultural-blending-contribute-to-urban-mixture
 ---
 
 &nbsp;

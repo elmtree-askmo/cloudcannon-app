@@ -2,8 +2,10 @@
 _schema: default
 id: 162349
 date: 2025-01-25
-title: What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
-article_title: What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
+title: >-
+    What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
+article_title: >-
+    What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-public-health-responses-to-measles-outbreaks-and-vaccin
 url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
 score: -1.0
 related_article1:
-    id: 162351
-    title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
+    id: 162347
+    title: >-
+        What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
+    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
 related_article2:
+    id: 162338
+    title: >-
+        What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
+related_article3:
     id: 162342
-    title: How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
+    title: >-
+        How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
-related_article3:
-    id: 162323
-    title: What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
 related_article4:
-    id: 162334
-    title: How did the Great Depression affect public health funding and services in the 1930s?
+    id: 162344
+    title: >-
+        How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
+    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
 related_article5:
-    id: 162350
-    title: How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
+    id: 162351
+    title: >-
+        What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
+    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
 ---
 
 &nbsp;

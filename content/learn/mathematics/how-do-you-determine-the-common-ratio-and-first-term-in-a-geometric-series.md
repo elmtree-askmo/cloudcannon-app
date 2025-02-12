@@ -2,8 +2,10 @@
 _schema: default
 id: 170749
 date: 2025-02-06
-title: How do you determine the common ratio and first term in a geometric series?
-article_title: How do you determine the common ratio and first term in a geometric series?
+title: >-
+    How do you determine the common ratio and first term in a geometric series?
+article_title: >-
+    How do you determine the common ratio and first term in a geometric series?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-s
 url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
 score: -1.0
 related_article1:
-    id: 170754
-    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    id: 170738
+    title: >-
+        How does inductive reasoning differ from deductive reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 related_article2:
-    id: 170754
-    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    id: 170738
+    title: >-
+        How does inductive reasoning differ from deductive reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+    url: /learn/mathematics/questions/how-does-inductive-reasoning-differ-from-deductive-reasoning
 related_article3:
-    id: 170746
-    title: What is the significance of implication statements in logical reasoning?
+    id: 170750
+    title: >-
+        What is the binomial series and how is it expanded?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
+    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
 related_article4:
-    id: 170753
-    title: What are the properties of the natural logarithm of a factorial?
+    id: 170741
+    title: >-
+        How do parameterized statements relate to the inductive hypothesis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
 related_article5:
     id: 170742
-    title: What are the key steps involved in an induction proof?
+    title: >-
+        What are the key steps involved in an induction proof?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
 ---

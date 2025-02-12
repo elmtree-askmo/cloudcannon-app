@@ -2,8 +2,10 @@
 _schema: default
 id: 168032
 date: 2025-02-02
-title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
-article_title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+title: >-
+    What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+article_title: >-
+    What consensus exists regarding the reliability of children's testimony in eyewitness situations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-consensus-exists-regarding-the-reliability-of-childrens-testimon
 url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
 score: -1.0
 related_article1:
-    id: 168013
-    title: How do knowledge and false memories interact in different age groups?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
-related_article2:
-    id: 168019
-    title: How does suggestibility in children change with age?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
-related_article3:
     id: 168024
-    title: How does cognitive development impact memory recall?
+    title: >-
+        How does cognitive development impact memory recall?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
+related_article2:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article3:
+    id: 168025
+    title: >-
+        What are the age-related changes in cognitive development that affect memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
 related_article4:
-    id: 168031
-    title: What have studies revealed about the reliability of children's eyewitness testimony?
+    id: 168027
+    title: >-
+        How can misinformation be avoided during interviews with children?
     subject: Psychology
-    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
+    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
 related_article5:
-    id: 168029
-    title: How do misinformation and suggestibility affect memory recall?
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 ---
 
 &nbsp;

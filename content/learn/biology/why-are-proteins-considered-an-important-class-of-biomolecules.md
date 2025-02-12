@@ -2,8 +2,10 @@
 _schema: default
 id: 165349
 date: 2025-01-29
-title: Why are proteins considered an important class of biomolecules?
-article_title: Why are proteins considered an important class of biomolecules?
+title: >-
+    Why are proteins considered an important class of biomolecules?
+article_title: >-
+    Why are proteins considered an important class of biomolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-proteins-considered-an-important-class-of-biomolecules.md
 url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
 score: -1.0
 related_article1:
-    id: 165350
-    title: How do monomers and polymers relate to the structure and function of biomolecules?
+    id: 165338
+    title: >-
+        What is the significance of the unique sequence of amino acids in the primary structure of proteins?
     subject: Biology
-    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
 related_article2:
-    id: 165343
-    title: How do ionic bonds form between charged R groups in proteins?
+    id: 165344
+    title: >-
+        Describe the formation of disulfide bonds between cysteine residues.
     subject: Biology
-    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
+    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
 related_article3:
-    id: 165337
-    title: How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    id: 165345
+    title: >-
+        What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
 related_article4:
-    id: 165339
-    title: Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    id: 165348
+    title: >-
+        What distinguishes purines from pyrimidines among nitrogenous bases?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
+    url: /learn/biology/questions/what-distinguishes-purines-from-pyrimidines-among-nitrogenous-bases
 related_article5:
-    id: 165339
-    title: Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
+    id: 165345
+    title: >-
+        What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
+    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
 ---
 
 &nbsp;

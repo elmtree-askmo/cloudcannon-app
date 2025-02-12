@@ -2,8 +2,10 @@
 _schema: default
 id: 168637
 date: 2025-02-03
-title: What are the defining features of a narrative report, and how does it differ from other reports?
-article_title: What are the defining features of a narrative report, and how does it differ from other reports?
+title: >-
+    What are the defining features of a narrative report, and how does it differ from other reports?
+article_title: >-
+    What are the defining features of a narrative report, and how does it differ from other reports?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-features-of-a-narrative-report-and-how-does-it-
 url: /learn/education-studies/questions/what-are-the-defining-features-of-a-narrative-report-and-how-does-it-differ-from-other-reports
 score: -1.0
 related_article1:
-    id: 168639
-    title: How does storytelling enhance communication and audience engagement?
+    id: 168633
+    title: >-
+        What is the primary goal of expository writing, and how is it typically structured?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-storytelling-enhance-communication-and-audience-engagement
+    url: /learn/education-studies/questions/what-is-the-primary-goal-of-expository-writing-and-how-is-it-typically-structured
 related_article2:
-    id: 168646
-    title: How can feedback be effectively implemented to improve writing?
+    id: 168647
+    title: >-
+        What are some common techniques used in creative writing to develop characters?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-feedback-be-effectively-implemented-to-improve-writing
+    url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-creative-writing-to-develop-characters
 related_article3:
-    id: 168642
-    title: How do supporting styles contribute to the main objective of a piece of writing?
+    id: 168629
+    title: >-
+        What are the key characteristics and purposes of narrative writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-supporting-styles-contribute-to-the-main-objective-of-a-piece-of-writing
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-and-purposes-of-narrative-writing
 related_article4:
-    id: 168630
-    title: How can narrative writing be effectively integrated with other writing styles?
+    id: 168644
+    title: >-
+        Why is evidence important in persuasive writing, and how does it enhance credibility?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-narrative-writing-be-effectively-integrated-with-other-writing-styles
+    url: /learn/education-studies/questions/why-is-evidence-important-in-persuasive-writing-and-how-does-it-enhance-credibility
 related_article5:
-    id: 168630
-    title: How can narrative writing be effectively integrated with other writing styles?
+    id: 168634
+    title: >-
+        In what professional contexts is expository writing most commonly used?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-narrative-writing-be-effectively-integrated-with-other-writing-styles
+    url: /learn/education-studies/questions/in-what-professional-contexts-is-expository-writing-most-commonly-used
 ---
 
 &nbsp;

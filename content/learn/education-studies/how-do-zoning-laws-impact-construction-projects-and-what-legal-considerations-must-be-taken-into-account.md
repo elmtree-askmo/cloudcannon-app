@@ -2,8 +2,10 @@
 _schema: default
 id: 168479
 date: 2025-02-03
-title: How do zoning laws impact construction projects and what legal considerations must be taken into account?
-article_title: How do zoning laws impact construction projects and what legal considerations must be taken into account?
+title: >-
+    How do zoning laws impact construction projects and what legal considerations must be taken into account?
+article_title: >-
+    How do zoning laws impact construction projects and what legal considerations must be taken into account?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-zoning-laws-impact-construction-projects-and-what-legal-consid
 url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
 score: -1.0
 related_article1:
-    id: 168477
-    title: How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-mathematics-and-technical-communication-coursework-prepare-students-for-careers-in-architecture-and-construction
-related_article2:
-    id: 168484
-    title: What are the key components of effective safety training in the construction industry?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
-related_article3:
-    id: 168486
-    title: What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-vocational-education-in-terms-of-handson-experience-and-industryrelevant-skills
-related_article4:
     id: 168474
-    title: What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
+    title: >-
+        What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
-related_article5:
-    id: 168486
-    title: What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
+related_article2:
+    id: 168481
+    title: >-
+        What educational requirements and technical skills are necessary for a career as a wind turbine technician?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-vocational-education-in-terms-of-handson-experience-and-industryrelevant-skills
+    url: /learn/education-studies/questions/what-educational-requirements-and-technical-skills-are-necessary-for-a-career-as-a-wind-turbine-technician
+related_article3:
+    id: 168473
+    title: >-
+        How do construction careers differ in terms of work environment and job types?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
+related_article4:
+    id: 168478
+    title: >-
+        What is the significance of understanding state and local building codes in construction projects?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-understanding-state-and-local-building-codes-in-construction-projects
+related_article5:
+    id: 168472
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 ---
 
 &nbsp;

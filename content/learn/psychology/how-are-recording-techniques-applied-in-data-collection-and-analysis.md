@@ -2,8 +2,10 @@
 _schema: default
 id: 164320
 date: 2025-01-28
-title: How are recording techniques applied in data collection and analysis?
-article_title: How are recording techniques applied in data collection and analysis?
+title: >-
+    How are recording techniques applied in data collection and analysis?
+article_title: >-
+    How are recording techniques applied in data collection and analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-recording-techniques-applied-in-data-collection-and-analysis.
 url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
 score: -1.0
 related_article1:
-    id: 164315
-    title: What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
 related_article2:
-    id: 164316
-    title: What tools are essential for successful virtual project management, and how do they facilitate team coordination?
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
     subject: Psychology
-    url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
 related_article3:
-    id: 164328
-    title: What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
+    id: 164327
+    title: >-
+        What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
     subject: Psychology
-    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
+    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
 related_article4:
-    id: 164323
-    title: What safety precautions should be taken for individuals with metal implants undergoing an MRI?
+    id: 164325
+    title: >-
+        What are the different types of seizures associated with epilepsy, and what are common triggers?
     subject: Psychology
-    url: /learn/psychology/questions/what-safety-precautions-should-be-taken-for-individuals-with-metal-implants-undergoing-an-mri
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
 related_article5:
-    id: 164317
-    title: Why are technical controls important in ensuring safety and enhancing efficiency in projects?
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161052
 date: 2025-01-24
-title: How do heuristic algorithms differ from Euclid’s algorithm?
-article_title: How do heuristic algorithms differ from Euclid’s algorithm?
+title: >-
+    How do heuristic algorithms differ from Euclid’s algorithm?
+article_title: >-
+    How do heuristic algorithms differ from Euclid’s algorithm?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-heuristic-algorithms-differ-from-euclids-algorithm.md
 url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
 score: -1.0
 related_article1:
-    id: 161043
-    title: How do rendering techniques impact computer graphics?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-rendering-techniques-impact-computer-graphics
-related_article2:
-    id: 161041
-    title: What measures can be taken to enhance network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
-related_article3:
-    id: 161036
-    title: What are the main stages of the software engineering design process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-stages-of-the-software-engineering-design-process
-related_article4:
-    id: 161041
-    title: What measures can be taken to enhance network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
-related_article5:
     id: 160906
-    title: What is the role of process management in operating systems?
+    title: >-
+        What is the role of process management in operating systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
+related_article2:
+    id: 160728
+    title: >-
+        What are the main components of a robot's mechanical system?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-components-of-a-robots-mechanical-system
+related_article3:
+    id: 161045
+    title: >-
+        How is cryptography used to ensure information security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+related_article4:
+    id: 160703
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
+related_article5:
+    id: 161048
+    title: >-
+        What is the significance of cache design in computer architecture?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-cache-design-in-computer-architecture
 ---
 
 &nbsp;

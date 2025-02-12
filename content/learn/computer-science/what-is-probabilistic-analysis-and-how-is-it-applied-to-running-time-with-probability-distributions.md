@@ -2,8 +2,10 @@
 _schema: default
 id: 160920
 date: 2025-01-24
-title: What is probabilistic analysis and how is it applied to running time with probability distributions?
-article_title: What is probabilistic analysis and how is it applied to running time with probability distributions?
+title: >-
+    What is probabilistic analysis and how is it applied to running time with probability distributions?
+article_title: >-
+    What is probabilistic analysis and how is it applied to running time with probability distributions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-probabilistic-analysis-and-how-is-it-applied-to-running-time-
 url: /learn/computer-science/questions/what-is-probabilistic-analysis-and-how-is-it-applied-to-running-time-with-probability-distributions
 score: -1.0
 related_article1:
-    id: 160753
-    title: What is the divide-and-conquer method and how does it utilize recursive techniques?
+    id: 160926
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-divideandconquer-method-and-how-does-it-utilize-recursive-techniques
+    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 related_article2:
-    id: 160756
-    title: What is the role of asymptotic notation in comparing the efficiency of sorting algorithms?
+    id: 160754
+    title: >-
+        Explain the master method for solving recurrences in divide-and-conquer algorithms.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-asymptotic-notation-in-comparing-the-efficiency-of-sorting-algorithms
+    url: /learn/computer-science/questions/explain-the-master-method-for-solving-recurrences-in-divideandconquer-algorithms
 related_article3:
-    id: 160921
-    title: Define randomized algorithms and describe their characteristics.
+    id: 160834
+    title: >-
+        Why is running time analysis crucial in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-randomized-algorithms-and-describe-their-characteristics
+    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
 related_article4:
-    id: 160832
-    title: Why is mathematical notation important in algorithm analysis?
+    id: 160926
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
+    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 related_article5:
-    id: 160763
-    title: Provide an example of pseudocode for insertion sort.
+    id: 160926
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
     url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 ---

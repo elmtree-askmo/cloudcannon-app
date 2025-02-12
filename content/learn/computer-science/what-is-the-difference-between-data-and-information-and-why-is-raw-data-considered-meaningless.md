@@ -2,8 +2,10 @@
 _schema: default
 id: 161427
 date: 2025-01-24
-title: What is the difference between data and information, and why is raw data considered meaningless?
-article_title: What is the difference between data and information, and why is raw data considered meaningless?
+title: >-
+    What is the difference between data and information, and why is raw data considered meaningless?
+article_title: >-
+    What is the difference between data and information, and why is raw data considered meaningless?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-data-and-information-and-why-is-raw-da
 url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
 score: -1.0
 related_article1:
-    id: 161684
-    title: What is the definition of data and why is raw data considered meaningless?
+    id: 161435
+    title: >-
+        How does the level of detail impact the usefulness of information, and what factors determine the appropriate level of detail?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-level-of-detail-impact-the-usefulness-of-information-and-what-factors-determine-the-appropriate-level-of-detail
+related_article2:
+    id: 161489
+    title: >-
+        What is the definition of data and why is raw data considered meaningless?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
-related_article2:
-    id: 161666
-    title: What is the purpose of data validation and how do range checks and type checks function?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
 related_article3:
-    id: 161704
-    title: What is data logging, and what methods and tools are used for it?
+    id: 161498
+    title: >-
+        What are the risks associated with data transmission and how does encryption mitigate these risks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-data-logging-and-what-methods-and-tools-are-used-for-it
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 related_article4:
-    id: 161431
-    title: How does indirect data differ from direct data, and what are some examples of its uses?
+    id: 161494
+    title: >-
+        What factors influence the relevance of information and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-some-examples-of-its-uses
+    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
 related_article5:
-    id: 161495
-    title: Why is the age of information crucial and what factors can affect its timeliness?
+    id: 161489
+    title: >-
+        What is the definition of data and why is raw data considered meaningless?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
+    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
 ---
 
 &nbsp;

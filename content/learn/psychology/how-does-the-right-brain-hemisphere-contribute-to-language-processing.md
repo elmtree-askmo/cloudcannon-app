@@ -2,8 +2,10 @@
 _schema: default
 id: 164381
 date: 2025-01-28
-title: How does the right brain hemisphere contribute to language processing?
-article_title: How does the right brain hemisphere contribute to language processing?
+title: >-
+    How does the right brain hemisphere contribute to language processing?
+article_title: >-
+    How does the right brain hemisphere contribute to language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-right-brain-hemisphere-contribute-to-language-processing
 url: /learn/psychology/questions/how-does-the-right-brain-hemisphere-contribute-to-language-processing
 score: -1.0
 related_article1:
-    id: 164399
-    title: What is the role of cognitive psychology in language comprehension?
+    id: 164380
+    title: >-
+        What are the primary functions associated with the left brain hemisphere in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
 related_article2:
-    id: 164405
-    title: How do cognitive functions in music relate to language processing?
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cognitive-functions-in-music-relate-to-language-processing
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 related_article3:
-    id: 164400
-    title: How do psychological theories inform our understanding of language comprehension?
+    id: 164388
+    title: >-
+        What are some common types of communication disorders, and how do they affect language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
 related_article4:
-    id: 164390
-    title: What are the neural mechanisms involved in speech production?
+    id: 164383
+    title: >-
+        What are neural models of syntax, and how do they contribute to our understanding of grammar?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
 related_article5:
-    id: 164399
-    title: What is the role of cognitive psychology in language comprehension?
+    id: 164404
+    title: >-
+        What are the neural models of music processing, and how do they relate to cognition?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
 ---
 
 &nbsp;

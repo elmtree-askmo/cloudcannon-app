@@ -2,8 +2,10 @@
 _schema: default
 id: 160451
 date: 2025-01-24
-title: How can species richness be assessed in a biodiversity study?
-article_title: How can species richness be assessed in a biodiversity study?
+title: >-
+    How can species richness be assessed in a biodiversity study?
+article_title: >-
+    How can species richness be assessed in a biodiversity study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-species-richness-be-assessed-in-a-biodiversity-study.md
 url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
 score: -1.0
 related_article1:
+    id: 160438
+    title: >-
+        How does the width of the energy base impact the trophic levels in an ecosystem?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
+related_article2:
+    id: 160443
+    title: >-
+        How is species richness assessed using the Shannon Diversity Index?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
+related_article3:
+    id: 160443
+    title: >-
+        How is species richness assessed using the Shannon Diversity Index?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
+related_article4:
+    id: 160443
+    title: >-
+        How is species richness assessed using the Shannon Diversity Index?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
+related_article5:
     id: 160439
-    title: What factors contribute to high net primary productivity in an ecosystem?
+    title: >-
+        What factors contribute to high net primary productivity in an ecosystem?
     subject: Education Studies
     url: /learn/education-studies/questions/what-factors-contribute-to-high-net-primary-productivity-in-an-ecosystem
-related_article2:
-    id: 160437
-    title: What is the significance of energy loss between trophic levels in an ecosystem?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-energy-loss-between-trophic-levels-in-an-ecosystem
-related_article3:
-    id: 160438
-    title: How does the width of the energy base impact the trophic levels in an ecosystem?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
-related_article4:
-    id: 160438
-    title: How does the width of the energy base impact the trophic levels in an ecosystem?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
-related_article5:
-    id: 160450
-    title: What Excel features are most useful for creating effective data visualizations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-excel-features-are-most-useful-for-creating-effective-data-visualizations
 ---
 
 &nbsp;

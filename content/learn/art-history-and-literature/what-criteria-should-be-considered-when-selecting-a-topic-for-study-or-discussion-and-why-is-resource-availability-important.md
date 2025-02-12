@@ -2,8 +2,10 @@
 _schema: default
 id: 168249
 date: 2025-02-03
-title: What criteria should be considered when selecting a topic for study or discussion, and why is resource availability important?
-article_title: What criteria should be considered when selecting a topic for study or discussion, and why is resource availability important?
+title: >-
+    What criteria should be considered when selecting a topic for study or discussion, and why is resource availability important?
+article_title: >-
+    What criteria should be considered when selecting a topic for study or discussion, and why is resource availability important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-criteria-should-be-considered-when-selecting-a-topic-for-study-o
 url: /learn/art-history-and-literature/questions/what-criteria-should-be-considered-when-selecting-a-topic-for-study-or-discussion-and-why-is-resource-availability-important
 score: 8.5
 related_article1:
-    id: 168244
-    title: How can privacy concerns be mitigated when using biometric methods for attendance tracking?
+    id: 168235
+    title: >-
+        What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-privacy-concerns-be-mitigated-when-using-biometric-methods-for-attendance-tracking
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-used-in-literary-analysis-and-how-does-groupbased-analysis-enhance-understanding
 related_article2:
-    id: 168245
-    title: What are the key elements of effective verbal communication, and how does active listening enhance this process?
+    id: 168246
+    title: >-
+        How do non-verbal communication cues like body language and eye contact impact interpersonal interactions?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-of-effective-verbal-communication-and-how-does-active-listening-enhance-this-process
+    url: /learn/art-history-and-literature/questions/how-do-nonverbal-communication-cues-like-body-language-and-eye-contact-impact-interpersonal-interactions
 related_article3:
+    id: 168239
+    title: >-
+        What are the differences between quantitative, qualitative, and mixed methods in data analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-differences-between-quantitative-qualitative-and-mixed-methods-in-data-analysis
+related_article4:
     id: 168237
-    title: What are the essential components of structuring a group discussion, and how does role assignment contribute to effective dynamics?
+    title: >-
+        What are the essential components of structuring a group discussion, and how does role assignment contribute to effective dynamics?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-essential-components-of-structuring-a-group-discussion-and-how-does-role-assignment-contribute-to-effective-dynamics
-related_article4:
-    id: 168236
-    title: How can themes be connected in literary works, and what role does symbolism play in this process?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-themes-be-connected-in-literary-works-and-what-role-does-symbolism-play-in-this-process
 related_article5:
-    id: 168242
-    title: What challenges might arise in name recognition due to cultural differences, and how can they be addressed?
+    id: 168243
+    title: >-
+        What are the advantages and disadvantages of manual versus digital attendance tracking systems?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-challenges-might-arise-in-name-recognition-due-to-cultural-differences-and-how-can-they-be-addressed
+    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
 ---
 
 &nbsp;

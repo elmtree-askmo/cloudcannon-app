@@ -2,8 +2,10 @@
 _schema: default
 id: 165417
 date: 2025-01-29
-title: How do the prefixes kilo, centi, milli, and micro modify the base units in the metric system?
-article_title: How do the prefixes kilo, centi, milli, and micro modify the base units in the metric system?
+title: >-
+    How do the prefixes kilo, centi, milli, and micro modify the base units in the metric system?
+article_title: >-
+    How do the prefixes kilo, centi, milli, and micro modify the base units in the metric system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-prefixes-kilo-centi-milli-and-micro-modify-the-base-units-
 url: /learn/education-studies/questions/how-do-the-prefixes-kilo-centi-milli-and-micro-modify-the-base-units-in-the-metric-system
 score: -1.0
 related_article1:
-    id: 165430
-    title: What are the common units for mass, length, and volume, and how can they be converted within the metric system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-common-units-for-mass-length-and-volume-and-how-can-they-be-converted-within-the-metric-system
-related_article2:
-    id: 165424
-    title: How should a meniscus be read when measuring volume with a graduated cylinder?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-a-meniscus-be-read-when-measuring-volume-with-a-graduated-cylinder
-related_article3:
-    id: 165420
-    title: How is scientific notation used to express large numbers, and what role do positive exponents play?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-scientific-notation-used-to-express-large-numbers-and-what-role-do-positive-exponents-play
-related_article4:
-    id: 165429
-    title: How does regular calibration of equipment impact measurement results?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-regular-calibration-of-equipment-impact-measurement-results
-related_article5:
     id: 165416
-    title: What are the base units of mass, length, and volume in the metric system?
+    title: >-
+        What are the base units of mass, length, and volume in the metric system?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-base-units-of-mass-length-and-volume-in-the-metric-system
+related_article2:
+    id: 165426
+    title: >-
+        What are the volume ranges for P20, P200, and P1000 mechanical pipettes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-volume-ranges-for-p20-p200-and-p1000-mechanical-pipettes
+related_article3:
+    id: 165418
+    title: >-
+        What is the basic formula for converting units, and how is the conversion factor used?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-basic-formula-for-converting-units-and-how-is-the-conversion-factor-used
+related_article4:
+    id: 165423
+    title: >-
+        Why is it important to zero a scale before weighing, and how does it affect accuracy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
+related_article5:
+    id: 165419
+    title: >-
+        Describe the train track method for unit conversion and how it compares to the basic conversion method.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-train-track-method-for-unit-conversion-and-how-it-compares-to-the-basic-conversion-method
 ---
 
 &nbsp;

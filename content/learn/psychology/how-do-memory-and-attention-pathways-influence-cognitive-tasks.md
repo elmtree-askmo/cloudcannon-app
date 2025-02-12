@@ -2,8 +2,10 @@
 _schema: default
 id: 164340
 date: 2025-01-28
-title: How do memory and attention pathways influence cognitive tasks?
-article_title: How do memory and attention pathways influence cognitive tasks?
+title: >-
+    How do memory and attention pathways influence cognitive tasks?
+article_title: >-
+    How do memory and attention pathways influence cognitive tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-memory-and-attention-pathways-influence-cognitive-tasks.md
 url: /learn/psychology/questions/how-do-memory-and-attention-pathways-influence-cognitive-tasks
 score: -1.0
 related_article1:
-    id: 164335
-    title: What are the 'what' and 'where' pathways in sensory processing, and how do they function?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
-related_article2:
-    id: 164342
-    title: How is familiarity used in deception detection, and what role do memory and attention pathways play?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
-related_article3:
     id: 164344
-    title: How can variability in brain regions impact research studies in cognitive neuroscience?
+    title: >-
+        How can variability in brain regions impact research studies in cognitive neuroscience?
     subject: Psychology
     url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
-related_article4:
-    id: 164334
-    title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+related_article2:
+    id: 164331
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article3:
+    id: 164341
+    title: >-
+        In what ways do memory and attention pathways impact brain activity patterns?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns
+related_article4:
+    id: 164336
+    title: >-
+        What is the purpose of functional imaging studies in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-functional-imaging-studies-in-cognitive-neuroscience
+related_article5:
+    id: 164339
+    title: >-
+        What are some limitations of neuroimaging studies in understanding brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
 ---
 
 &nbsp;

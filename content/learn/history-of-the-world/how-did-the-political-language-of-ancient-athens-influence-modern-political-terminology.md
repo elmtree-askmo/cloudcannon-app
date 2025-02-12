@@ -2,8 +2,10 @@
 _schema: default
 id: 166033
 date: 2025-01-29
-title: How did the political language of ancient Athens influence modern political terminology?
-article_title: How did the political language of ancient Athens influence modern political terminology?
+title: >-
+    How did the political language of ancient Athens influence modern political terminology?
+article_title: >-
+    How did the political language of ancient Athens influence modern political terminology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-political-language-of-ancient-athens-influence-modern-pol
 url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
 score: 9.5
 related_article1:
-    id: 166020
-    title: What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
+    id: 166037
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
 related_article2:
-    id: 166039
-    title: What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
+    id: 166017
+    title: >-
+        What was the historical significance of Athens as an urban center in ancient times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-archaeologists-face-in-preserving-and-interpreting-ancient-athenian-sites
+    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
 related_article3:
-    id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+    id: 166024
+    title: >-
+        What was the purpose of the Council of 500 in the governance of Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
 related_article4:
-    id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+    id: 166023
+    title: >-
+        Who were the Archons, and what was their function in Athenian political institutions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
 related_article5:
-    id: 166021
-    title: How did the concept of direct democracy function in ancient Athens?
+    id: 166022
+    title: >-
+        What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
 ---
 
 &nbsp;

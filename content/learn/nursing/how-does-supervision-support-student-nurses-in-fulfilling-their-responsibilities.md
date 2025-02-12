@@ -2,8 +2,10 @@
 _schema: default
 id: 169580
 date: 2025-02-05
-title: How does supervision support student nurses in fulfilling their responsibilities?
-article_title: How does supervision support student nurses in fulfilling their responsibilities?
+title: >-
+    How does supervision support student nurses in fulfilling their responsibilities?
+article_title: >-
+    How does supervision support student nurses in fulfilling their responsibilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-supervision-support-student-nurses-in-fulfilling-their-respo
 url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
 score: -1.0
 related_article1:
-    id: 169571
-    title: Why is accurate patient assessment crucial for risk management?
+    id: 169570
+    title: >-
+        How does supervision play a role in safe medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+    url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
 related_article2:
-    id: 169576
-    title: What is the role of student nurses within the healthcare team?
+    id: 169561
+    title: >-
+        Why is patient safety a critical concern in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
 related_article3:
-    id: 169565
-    title: How is competence defined and assessed in healthcare?
+    id: 169563
+    title: >-
+        What is the role of supervisors in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
 related_article4:
-    id: 169562
-    title: How does supervision ensure competence and patient safety?
+    id: 169556
+    title: >-
+        How does supervision contribute to accountability in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 related_article5:
-    id: 169571
-    title: Why is accurate patient assessment crucial for risk management?
+    id: 169553
+    title: >-
+        What is the definition of delegation in healthcare, and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
 ---
 
 &nbsp;

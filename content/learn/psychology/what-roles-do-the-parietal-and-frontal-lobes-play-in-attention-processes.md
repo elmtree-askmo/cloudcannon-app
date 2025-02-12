@@ -2,8 +2,10 @@
 _schema: default
 id: 164545
 date: 2025-01-28
-title: What roles do the parietal and frontal lobes play in attention processes?
-article_title: What roles do the parietal and frontal lobes play in attention processes?
+title: >-
+    What roles do the parietal and frontal lobes play in attention processes?
+article_title: >-
+    What roles do the parietal and frontal lobes play in attention processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-proces
 url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
 score: -1.0
 related_article1:
-    id: 164550
-    title: What are the main components of executive function, and how do they contribute to cognitive processes?
+    id: 164558
+    title: >-
+        What are the main research methods used in cognitive neuroscience, and how do they differ?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+    url: /learn/psychology/questions/what-are-the-main-research-methods-used-in-cognitive-neuroscience-and-how-do-they-differ
 related_article2:
-    id: 164551
-    title: Which brain regions are primarily involved in executive function, and what roles do they play?
+    id: 164562
+    title: >-
+        What are the key characteristics of automatic processes compared to controlled processes?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
 related_article3:
-    id: 164549
-    title: How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    id: 164557
+    title: >-
+        What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
 related_article4:
+    id: 164560
+    title: >-
+        What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
+related_article5:
     id: 164546
-    title: How does procedural memory differ from semantic and episodic memory?
+    title: >-
+        How does procedural memory differ from semantic and episodic memory?
     subject: Psychology
     url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
-related_article5:
-    id: 164553
-    title: What is the significance of competition and integration between neural networks in cognitive processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165062
 date: 2025-01-28
-title: How can blinding techniques reduce bias in experimental design?
-article_title: How can blinding techniques reduce bias in experimental design?
+title: >-
+    How can blinding techniques reduce bias in experimental design?
+article_title: >-
+    How can blinding techniques reduce bias in experimental design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-blinding-techniques-reduce-bias-in-experimental-design.md
 url: /learn/education-studies/questions/how-can-blinding-techniques-reduce-bias-in-experimental-design
 score: -1.0
 related_article1:
-    id: 165059
-    title: What methods can be used to identify patterns in data during interpretation?
+    id: 165060
+    title: >-
+        How does color play a role in influencing taste perception?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-can-be-used-to-identify-patterns-in-data-during-interpretation
+    url: /learn/education-studies/questions/how-does-color-play-a-role-in-influencing-taste-perception
 related_article2:
-    id: 165061
-    title: What are the key steps in conducting sensory tests for product testing?
+    id: 165055
+    title: >-
+        What are the challenges associated with setting up experiments in color studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-conducting-sensory-tests-for-product-testing
+    url: /learn/education-studies/questions/what-are-the-challenges-associated-with-setting-up-experiments-in-color-studies
 related_article3:
-    id: 165054
-    title: How does color influence taste perception in sensory evaluation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-color-influence-taste-perception-in-sensory-evaluation
-related_article4:
     id: 165063
-    title: What are some challenges faced when implementing blinding in studies?
+    title: >-
+        What are some challenges faced when implementing blinding in studies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-challenges-faced-when-implementing-blinding-in-studies
-related_article5:
+related_article4:
     id: 165059
-    title: What methods can be used to identify patterns in data during interpretation?
+    title: >-
+        What methods can be used to identify patterns in data during interpretation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-methods-can-be-used-to-identify-patterns-in-data-during-interpretation
+related_article5:
+    id: 165065
+    title: >-
+        How can experimental data be analyzed to compare experimental and control groups?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-experimental-data-be-analyzed-to-compare-experimental-and-control-groups
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167013
 date: 2025-01-31
-title: What are the types of nitrogenous bases and how do they pair in nucleic acids?
-article_title: What are the types of nitrogenous bases and how do they pair in nucleic acids?
+title: >-
+    What are the types of nitrogenous bases and how do they pair in nucleic acids?
+article_title: >-
+    What are the types of nitrogenous bases and how do they pair in nucleic acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-types-of-nitrogenous-bases-and-how-do-they-pair-in-nucle
 url: /learn/education-studies/questions/what-are-the-types-of-nitrogenous-bases-and-how-do-they-pair-in-nucleic-acids
 score: -1.0
 related_article1:
-    id: 167001
-    title: What are the key structural components of amino acids and how do they interact with water?
+    id: 167005
+    title: >-
+        Explain the importance of the tertiary structure for protein function and the types of bonding involved.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-structural-components-of-amino-acids-and-how-do-they-interact-with-water
+    url: /learn/education-studies/questions/explain-the-importance-of-the-tertiary-structure-for-protein-function-and-the-types-of-bonding-involved
 related_article2:
-    id: 167008
-    title: How do ionic bonds contribute to the tertiary structure of proteins?
+    id: 167003
+    title: >-
+        Describe the process of peptide bond formation and its significance in protein structure.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins
+    url: /learn/education-studies/questions/describe-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure
 related_article3:
-    id: 167010
-    title: What is the role of hydrophobic interactions in protein folding?
+    id: 167006
+    title: >-
+        How does the quaternary structure of proteins differ from the tertiary structure in terms of chemical bonding?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-hydrophobic-interactions-in-protein-folding
+    url: /learn/education-studies/questions/how-does-the-quaternary-structure-of-proteins-differ-from-the-tertiary-structure-in-terms-of-chemical-bonding
 related_article4:
     id: 167011
-    title: What are the basic structural components of nucleotides?
+    title: >-
+        What are the basic structural components of nucleotides?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-basic-structural-components-of-nucleotides
+related_article5:
+    id: 167004
+    title: >-
+        What is the role of covalent bonding in the formation of peptide bonds?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-covalent-bonding-in-the-formation-of-peptide-bonds
 ---
 
 &nbsp;

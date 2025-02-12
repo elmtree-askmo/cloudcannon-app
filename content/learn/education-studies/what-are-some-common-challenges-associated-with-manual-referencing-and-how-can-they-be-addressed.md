@@ -2,8 +2,10 @@
 _schema: default
 id: 168669
 date: 2025-02-03
-title: What are some common challenges associated with manual referencing, and how can they be addressed?
-article_title: What are some common challenges associated with manual referencing, and how can they be addressed?
+title: >-
+    What are some common challenges associated with manual referencing, and how can they be addressed?
+article_title: >-
+    What are some common challenges associated with manual referencing, and how can they be addressed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-challenges-associated-with-manual-referencing-an
 url: /learn/education-studies/questions/what-are-some-common-challenges-associated-with-manual-referencing-and-how-can-they-be-addressed
 score: -1.0
 related_article1:
-    id: 168676
-    title: When is it appropriate to use quotations in academic writing?
+    id: 168679
+    title: >-
+        What factors should be considered when determining when to cite a source?
     subject: Education Studies
-    url: /learn/education-studies/questions/when-is-it-appropriate-to-use-quotations-in-academic-writing
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-determining-when-to-cite-a-source
 related_article2:
-    id: 168680
-    title: How can one ensure citation accuracy and consistency in academic writing?
+    id: 168679
+    title: >-
+        What factors should be considered when determining when to cite a source?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-ensure-citation-accuracy-and-consistency-in-academic-writing
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-determining-when-to-cite-a-source
 related_article3:
-    id: 168677
-    title: What are some popular citation tools, and what features do they offer?
+    id: 168678
+    title: >-
+        How can one efficiently organize references using citation management software?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-popular-citation-tools-and-what-features-do-they-offer
+    url: /learn/education-studies/questions/how-can-one-efficiently-organize-references-using-citation-management-software
 related_article4:
-    id: 168675
-    title: How do citations support arguments in academic writing?
+    id: 168674
+    title: >-
+        How does giving credit to original sources enhance citation integrity?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-citations-support-arguments-in-academic-writing
+    url: /learn/education-studies/questions/how-does-giving-credit-to-original-sources-enhance-citation-integrity
 related_article5:
-    id: 168664
-    title: Why is APA style particularly important in the social sciences?
+    id: 168679
+    title: >-
+        What factors should be considered when determining when to cite a source?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-apa-style-particularly-important-in-the-social-sciences
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-determining-when-to-cite-a-source
 ---
 
 &nbsp;

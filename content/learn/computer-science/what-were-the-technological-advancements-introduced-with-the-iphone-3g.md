@@ -2,8 +2,10 @@
 _schema: default
 id: 160524
 date: 2025-01-24
-title: What were the technological advancements introduced with the iPhone 3G?
-article_title: What were the technological advancements introduced with the iPhone 3G?
+title: >-
+    What were the technological advancements introduced with the iPhone 3G?
+article_title: >-
+    What were the technological advancements introduced with the iPhone 3G?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-technological-advancements-introduced-with-the-iphone-3
 url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 score: -1.0
 related_article1:
-    id: 160527
-    title: How did the transition to aluminum cases affect Apple's product design?
+    id: 160604
+    title: >-
+        How did the introduction of the iPhone in 2007 transform the smartphone market?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
+    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
 related_article2:
+    id: 160425
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+related_article3:
+    id: 160521
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
+related_article4:
     id: 160436
-    title: What innovations did Apple introduce with the development of lightweight notebooks?
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
     subject: Computer Science
     url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
-related_article3:
-    id: 160420
-    title: What advancements did the PowerBook G4 bring to Apple's product line in the mid-2000s?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-advancements-did-the-powerbook-g4-bring-to-apples-product-line-in-the-mid2000s
-related_article4:
-    id: 160513
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 related_article5:
-    id: 160434
-    title: What were the key technological advancements in computing that Apple contributed to in the early 2000s?
+    id: 160528
+    title: >-
+        What was the significance of Apple's first retail store opening in terms of consumer engagement?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-technological-advancements-in-computing-that-apple-contributed-to-in-the-early-2000s
+    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168553
 date: 2025-02-03
-title: What strategies can be employed for conflict resolution while maintaining respectful dialogue?
-article_title: What strategies can be employed for conflict resolution while maintaining respectful dialogue?
+title: >-
+    What strategies can be employed for conflict resolution while maintaining respectful dialogue?
+article_title: >-
+    What strategies can be employed for conflict resolution while maintaining respectful dialogue?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-employed-for-conflict-resolution-while-maintai
 url: /learn/education-studies/questions/what-strategies-can-be-employed-for-conflict-resolution-while-maintaining-respectful-dialogue
 score: -1.0
 related_article1:
-    id: 168535
-    title: How can diction and syntax be evaluated in a speech critique?
+    id: 168540
+    title: >-
+        Why is it important to incorporate diverse perspectives in discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-diction-and-syntax-be-evaluated-in-a-speech-critique
+    url: /learn/education-studies/questions/why-is-it-important-to-incorporate-diverse-perspectives-in-discussions
 related_article2:
-    id: 168529
-    title: How does syntax contribute to persuasion in speech?
+    id: 168548
+    title: >-
+        How can reasoning enhance the credibility of a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
+    url: /learn/education-studies/questions/how-can-reasoning-enhance-the-credibility-of-a-speech
 related_article3:
-    id: 168550
-    title: What techniques can be used to manage disagreement respectfully in a discussion?
+    id: 168530
+    title: >-
+        What are some common rhetorical strategies used in speeches?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
+    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
 related_article4:
-    id: 168531
-    title: How can emotional appeal impact an audience during a speech?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
-related_article5:
     id: 168537
-    title: How can a speaker align their content with the purpose of their speech?
+    title: >-
+        How can a speaker align their content with the purpose of their speech?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-a-speaker-align-their-content-with-the-purpose-of-their-speech
+related_article5:
+    id: 168529
+    title: >-
+        How does syntax contribute to persuasion in speech?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
 ---
 
 &nbsp;

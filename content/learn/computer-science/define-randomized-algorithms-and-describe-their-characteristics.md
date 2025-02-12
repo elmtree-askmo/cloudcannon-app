@@ -2,8 +2,10 @@
 _schema: default
 id: 160921
 date: 2025-01-24
-title: Define randomized algorithms and describe their characteristics.
-article_title: Define randomized algorithms and describe their characteristics.
+title: >-
+    Define randomized algorithms and describe their characteristics.
+article_title: >-
+    Define randomized algorithms and describe their characteristics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-randomized-algorithms-and-describe-their-characteristics.md
 url: /learn/computer-science/questions/define-randomized-algorithms-and-describe-their-characteristics
 score: -1.0
 related_article1:
-    id: 160926
-    title: Provide an example of pseudocode for insertion sort.
-    subject: Computer Science
-    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
-related_article2:
-    id: 160759
-    title: Why is mathematical notation important in algorithm analysis?
+    id: 160922
+    title: >-
+        Why is mathematical notation important in algorithm analysis?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
-related_article3:
-    id: 160925
-    title: How does pseudocode contribute to the clarity and structure of algorithm design?
+related_article2:
+    id: 160836
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-pseudocode-contribute-to-the-clarity-and-structure-of-algorithm-design
+    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
+related_article3:
+    id: 160926
+    title: >-
+        Provide an example of pseudocode for insertion sort.
+    subject: Computer Science
+    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 related_article4:
-    id: 160925
-    title: How does pseudocode contribute to the clarity and structure of algorithm design?
+    id: 160762
+    title: >-
+        How does pseudocode contribute to the clarity and structure of algorithm design?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-pseudocode-contribute-to-the-clarity-and-structure-of-algorithm-design
 related_article5:
-    id: 160752
-    title: How do you apply asymptotic notation to analyze the running time of an algorithm?
+    id: 160918
+    title: >-
+        How does the running time of insertion sort compare to merge sort?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-apply-asymptotic-notation-to-analyze-the-running-time-of-an-algorithm
+    url: /learn/computer-science/questions/how-does-the-running-time-of-insertion-sort-compare-to-merge-sort
 ---
 
 &nbsp;

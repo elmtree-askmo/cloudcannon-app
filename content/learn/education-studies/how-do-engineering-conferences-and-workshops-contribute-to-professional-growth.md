@@ -2,8 +2,10 @@
 _schema: default
 id: 166721
 date: 2025-01-31
-title: How do engineering conferences and workshops contribute to professional growth?
-article_title: How do engineering conferences and workshops contribute to professional growth?
+title: >-
+    How do engineering conferences and workshops contribute to professional growth?
+article_title: >-
+    How do engineering conferences and workshops contribute to professional growth?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-engineering-conferences-and-workshops-contribute-to-profession
 url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
 score: -1.0
 related_article1:
-    id: 166715
-    title: What skills and qualifications are typically required for consulting roles in engineering?
+    id: 166701
+    title: >-
+        Explain the concept of torque and its importance in engineering.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
+    url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
 related_article2:
+    id: 166700
+    title: >-
+        What is the relationship between force and distance in the context of moment of force?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+related_article3:
+    id: 166703
+    title: >-
+        What are some engineering applications of torque?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+related_article4:
+    id: 166700
+    title: >-
+        What is the relationship between force and distance in the context of moment of force?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+related_article5:
     id: 166697
-    title: What assumptions are made in rigid body dynamics regarding stress and deformation?
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
-related_article3:
-    id: 166706
-    title: Describe the principle of conservation of energy and its significance in engineering systems.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
-related_article4:
-    id: 166709
-    title: How can engineering certifications impact a professional's career?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
-related_article5:
-    id: 166714
-    title: What are the current job market trends for consulting opportunities in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167017
 date: 2025-01-31
-title: What is the significance of hydrolysis reactions in the breakdown of biological polymers?
-article_title: What is the significance of hydrolysis reactions in the breakdown of biological polymers?
+title: >-
+    What is the significance of hydrolysis reactions in the breakdown of biological polymers?
+article_title: >-
+    What is the significance of hydrolysis reactions in the breakdown of biological polymers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-hydrolysis-reactions-in-the-breakdown-of-
 url: /learn/biology/questions/what-is-the-significance-of-hydrolysis-reactions-in-the-breakdown-of-biological-polymers
 score: -1.0
 related_article1:
-    id: 167026
-    title: What role does starch play in plant energy storage?
+    id: 167022
+    title: >-
+        What are some common examples of disaccharides?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
 related_article2:
     id: 167027
-    title: How does cellulose provide structural support in plant cell walls?
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
     subject: Biology
     url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
 related_article3:
-    id: 167020
-    title: What is the difference between alpha and beta ring structures in monosaccharides?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
-related_article4:
     id: 167015
-    title: What is the role of dehydration reactions in the synthesis of biological polymers?
+    title: >-
+        What is the role of dehydration reactions in the synthesis of biological polymers?
     subject: Biology
     url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
-related_article5:
-    id: 167026
-    title: What role does starch play in plant energy storage?
+related_article4:
+    id: 167030
+    title: >-
+        What is the structure and function of glycogen in animals?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
+related_article5:
+    id: 167025
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161456
 date: 2025-01-24
-title: What is online impersonation in the context of identity theft?
-article_title: What is online impersonation in the context of identity theft?
+title: >-
+    What is online impersonation in the context of identity theft?
+article_title: >-
+    What is online impersonation in the context of identity theft?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-online-impersonation-in-the-context-of-identity-theft.md
 url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
 score: -1.0
 related_article1:
-    id: 161381
-    title: What are some common methods used for pseudonymization?
+    id: 161382
+    title: >-
+        What is online impersonation in the context of identity theft?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
+    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
 related_article2:
-    id: 161470
-    title: What are the benefits of using a personal VPN?
+    id: 161254
+    title: >-
+        What is the primary purpose of a firewall in cybersecurity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
 related_article3:
-    id: 161462
-    title: What distinguishes a virus from a worm in terms of malware?
+    id: 161468
+    title: >-
+        What are the advantages of using biometric security for authentication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
 related_article4:
-    id: 161463
-    title: What is the primary function of spyware?
+    id: 161380
+    title: >-
+        What is the purpose of de-identification in data protection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
 related_article5:
-    id: 161467
-    title: What is the difference between smishing and vishing?
+    id: 161466
+    title: >-
+        How can individuals recognize and prevent pharming attempts?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-smishing-and-vishing
+    url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
 ---
 
 &nbsp;

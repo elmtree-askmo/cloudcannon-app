@@ -2,8 +2,10 @@
 _schema: default
 id: 164991
 date: 2025-01-28
-title: What are some common biases to look for when analyzing survey results?
-article_title: What are some common biases to look for when analyzing survey results?
+title: >-
+    What are some common biases to look for when analyzing survey results?
+article_title: >-
+    What are some common biases to look for when analyzing survey results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-biases-to-look-for-when-analyzing-survey-results
 url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
 score: -1.0
 related_article1:
+    id: 164989
+    title: >-
+        What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+related_article2:
     id: 164984
-    title: How do you interpret a Pearson correlation coefficient of 0.8?
+    title: >-
+        How do you interpret a Pearson correlation coefficient of 0.8?
     subject: Psychology
     url: /learn/psychology/questions/how-do-you-interpret-a-pearson-correlation-coefficient-of-08
-related_article2:
-    id: 164990
-    title: How can peer feedback improve presentation skills?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
 related_article3:
-    id: 164981
-    title: What is a double-barrel question, and why should it be avoided in survey design?
+    id: 164987
+    title: >-
+        In what ways can music act as a cognitive enhancer?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
+    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
 related_article4:
     id: 164987
-    title: In what ways can music act as a cognitive enhancer?
+    title: >-
+        In what ways can music act as a cognitive enhancer?
     subject: Psychology
     url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
 related_article5:
-    id: 164981
-    title: What is a double-barrel question, and why should it be avoided in survey design?
+    id: 164988
+    title: >-
+        What is synesthesia, and how does it affect perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 ---
 
 &nbsp;

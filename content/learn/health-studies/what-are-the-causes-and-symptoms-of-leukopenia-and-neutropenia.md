@@ -2,8 +2,10 @@
 _schema: default
 id: 166315
 date: 2025-01-30
-title: What are the causes and symptoms of leukopenia and neutropenia?
-article_title: What are the causes and symptoms of leukopenia and neutropenia?
+title: >-
+    What are the causes and symptoms of leukopenia and neutropenia?
+article_title: >-
+    What are the causes and symptoms of leukopenia and neutropenia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia.md
 url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
 score: -1.0
 related_article1:
-    id: 166293
-    title: Which protein markers are significant in the diagnosis of leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
-related_article2:
     id: 166303
-    title: What is the purpose of the maintenance phase in leukemia treatment?
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+related_article2:
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
 related_article3:
-    id: 166290
-    title: How does pancytopenia manifest in leukemia patients?
+    id: 166301
+    title: >-
+        What is the goal of the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
+    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 related_article4:
-    id: 166311
-    title: What is the role of chemotherapy in the treatment of lymphoma?
+    id: 166312
+    title: >-
+        How does monoclonal antibody therapy work in treating lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
+    url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
 related_article5:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    id: 166316
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 ---
 
 &nbsp;

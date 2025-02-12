@@ -2,8 +2,10 @@
 _schema: default
 id: 159669
 date: 2025-01-23
-title: How does the IMF contribute to capacity development in public finances and monetary policies?
-article_title: How does the IMF contribute to capacity development in public finances and monetary policies?
+title: >-
+    How does the IMF contribute to capacity development in public finances and monetary policies?
+article_title: >-
+    How does the IMF contribute to capacity development in public finances and monetary policies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-imf-contribute-to-capacity-development-in-public-finance
 url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
 score: -1.0
 related_article1:
+    id: 159680
+    title: >-
+        What is the process for overseeing WTO agreements and maintaining open trade?
+    subject: Economics
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
+related_article2:
     id: 159676
-    title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+    title: >-
+        How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
     subject: Economics
     url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
-related_article2:
+related_article3:
     id: 159662
-    title: What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    title: >-
+        What are the primary purposes and functions of multilateral institutions in solving common global problems?
     subject: Economics
     url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
-related_article3:
+related_article4:
+    id: 159662
+    title: >-
+        What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
+related_article5:
     id: 159668
-    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+    title: >-
+        What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
     subject: Economics
     url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
-related_article4:
-    id: 159667
-    title: How does the IMF ensure the stability of the international monetary system through surveillance?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
-related_article5:
-    id: 159674
-    title: How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
-    subject: Economics
-    url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
 ---
 
 &nbsp;

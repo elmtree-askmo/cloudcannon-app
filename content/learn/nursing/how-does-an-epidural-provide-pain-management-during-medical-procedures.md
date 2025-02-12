@@ -2,8 +2,10 @@
 _schema: default
 id: 164816
 date: 2025-01-28
-title: How does an epidural provide pain management during medical procedures?
-article_title: How does an epidural provide pain management during medical procedures?
+title: >-
+    How does an epidural provide pain management during medical procedures?
+article_title: >-
+    How does an epidural provide pain management during medical procedures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-an-epidural-provide-pain-management-during-medical-procedure
 url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
 score: -1.0
 related_article1:
-    id: 164802
-    title: What is the role of pain perception in the nervous system?
+    id: 164804
+    title: >-
+        What is the importance of directional terms in understanding neural signals?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
+    url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
 related_article2:
-    id: 164806
-    title: What are brain patterns, and how do they relate to brain function?
+    id: 164813
+    title: >-
+        Describe the structure and function of brain ventricles.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-brain-patterns-and-how-do-they-relate-to-brain-function
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
 related_article3:
-    id: 164807
-    title: How does subconscious processing influence behavior and decision-making?
+    id: 164796
+    title: >-
+        What roles do sensory neurons and motor neurons play in the peripheral nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
+    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
 related_article4:
-    id: 164805
-    title: Describe the process of neural processing in the brain.
+    id: 164809
+    title: >-
+        How do cranial nerves differ from spinal nerves in terms of function and location?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
+    url: /learn/nursing/questions/how-do-cranial-nerves-differ-from-spinal-nerves-in-terms-of-function-and-location
 related_article5:
-    id: 164810
-    title: What is the role of the dorsal and ventral parts of the spine in neural communication?
+    id: 164799
+    title: >-
+        How does myelin affect the speed of neural transmission?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
+    url: /learn/nursing/questions/how-does-myelin-affect-the-speed-of-neural-transmission
 ---
 
 &nbsp;

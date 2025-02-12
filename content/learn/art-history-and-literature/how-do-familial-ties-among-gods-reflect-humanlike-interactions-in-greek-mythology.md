@@ -2,8 +2,10 @@
 _schema: default
 id: 163874
 date: 2025-01-28
-title: How do familial ties among gods reflect human-like interactions in Greek mythology?
-article_title: How do familial ties among gods reflect human-like interactions in Greek mythology?
+title: >-
+    How do familial ties among gods reflect human-like interactions in Greek mythology?
+article_title: >-
+    How do familial ties among gods reflect human-like interactions in Greek mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-familial-ties-among-gods-reflect-humanlike-interactions-in-gre
 url: /learn/art-history-and-literature/questions/how-do-familial-ties-among-gods-reflect-humanlike-interactions-in-greek-mythology
 score: 9.0
 related_article1:
-    id: 163886
-    title: What is the role of inventions in mythological stories?
+    id: 163887
+    title: >-
+        How do trickster gods use humor to impact mythological narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
+    url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
 related_article2:
     id: 163887
-    title: How do trickster gods use humor to impact mythological narratives?
+    title: >-
+        How do trickster gods use humor to impact mythological narratives?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
 related_article3:
-    id: 163873
-    title: What are the key factors that influence interpersonal relationships among Greek gods?
+    id: 163886
+    title: >-
+        What is the role of inventions in mythological stories?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
 related_article4:
-    id: 163873
-    title: What are the key factors that influence interpersonal relationships among Greek gods?
+    id: 163879
+    title: >-
+        How do inventions in mythology symbolize human advancement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
+    url: /learn/art-history-and-literature/questions/how-do-inventions-in-mythology-symbolize-human-advancement
 related_article5:
-    id: 163878
-    title: How is fire portrayed in Greek mythology, and what roles does it play?
+    id: 163884
+    title: >-
+        What role does shape-shifting play in mythological narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play
+    url: /learn/art-history-and-literature/questions/what-role-does-shapeshifting-play-in-mythological-narratives
 ---
 
 &nbsp;

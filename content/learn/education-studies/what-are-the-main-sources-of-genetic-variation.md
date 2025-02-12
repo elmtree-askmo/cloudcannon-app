@@ -2,8 +2,10 @@
 _schema: default
 id: 167787
 date: 2025-02-01
-title: What are the main sources of genetic variation?
-article_title: What are the main sources of genetic variation?
+title: >-
+    What are the main sources of genetic variation?
+article_title: >-
+    What are the main sources of genetic variation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-sources-of-genetic-variation.md
 url: /learn/education-studies/questions/what-are-the-main-sources-of-genetic-variation
 score: -1.0
 related_article1:
-    id: 167783
-    title: How do genotype and phenotype differ in genetic expression?
+    id: 167791
+    title: >-
+        What is the genetic basis for the AB blood type expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
+    url: /learn/education-studies/questions/what-is-the-genetic-basis-for-the-ab-blood-type-expression
 related_article2:
-    id: 167783
-    title: How do genotype and phenotype differ in genetic expression?
+    id: 167800
+    title: >-
+        How does the environment influence the phenotype of individuals with phenylketonuria?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
+    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 related_article3:
     id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    title: >-
+        What is incomplete penetrance and how does it affect genetic predictions at the population level?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
 related_article4:
     id: 167786
-    title: What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
+    title: >-
+        What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-expected-phenotypic-ratio-in-a-dihybrid-cross-involving-two-heterozygous-parents
 related_article5:
-    id: 167804
-    title: How can genetic mutations lead to a loss of function in an organism?
+    id: 167794
+    title: >-
+        What is incomplete penetrance and how does it affect genetic predictions at the population level?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
+    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
 ---
 
 &nbsp;

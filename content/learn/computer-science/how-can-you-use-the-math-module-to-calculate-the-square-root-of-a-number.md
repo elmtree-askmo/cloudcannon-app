@@ -2,8 +2,10 @@
 _schema: default
 id: 168592
 date: 2025-02-03
-title: How can you use the math module to calculate the square root of a number?
-article_title: How can you use the math module to calculate the square root of a number?
+title: >-
+    How can you use the math module to calculate the square root of a number?
+article_title: >-
+    How can you use the math module to calculate the square root of a number?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-num
 url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
 score: -1.0
 related_article1:
-    id: 168595
-    title: How do local variables differ from global variables in terms of accessibility?
+    id: 168594
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
+    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 related_article2:
-    id: 168600
-    title: What is a function docstring and why is it important?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
-related_article3:
-    id: 168589
-    title: What is the syntax for defining a function in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
-related_article4:
-    id: 168606
-    title: Why is software reusability important in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
-related_article5:
     id: 168590
-    title: How do you call a function with parameters in Python?
+    title: >-
+        How do you call a function with parameters in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
+related_article3:
+    id: 168591
+    title: >-
+        Name two common functions available in Python's math module.
+    subject: Computer Science
+    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
+related_article4:
+    id: 168587
+    title: >-
+        What are the benefits of using functions in software development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+related_article5:
+    id: 168587
+    title: >-
+        What are the benefits of using functions in software development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161562
 date: 2025-01-24
-title: What is the role of device drivers in system software?
-article_title: What is the role of device drivers in system software?
+title: >-
+    What is the role of device drivers in system software?
+article_title: >-
+    What is the role of device drivers in system software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-device-drivers-in-system-software.md
 url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
 score: -1.0
 related_article1:
+    id: 161547
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
+related_article2:
     id: 161321
-    title: What is the difference between lossless and lossy data compression?
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
-related_article2:
-    id: 161322
-    title: What are the main characteristics of open source software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article3:
-    id: 161306
-    title: How does licensing differ between open source and proprietary software?
+    id: 161539
+    title: >-
+        Why is disaster recovery an essential component of physical security in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-component-of-physical-security-in-computing
 related_article4:
-    id: 161293
-    title: What is the purpose of encryption in access control?
+    id: 161563
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 related_article5:
-    id: 161318
-    title: What is the role of device drivers in system software?
+    id: 161319
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 ---
 
 &nbsp;

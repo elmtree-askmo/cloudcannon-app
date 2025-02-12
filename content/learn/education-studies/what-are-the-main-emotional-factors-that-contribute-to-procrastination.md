@@ -2,8 +2,10 @@
 _schema: default
 id: 170634
 date: 2025-02-06
-title: What are the main emotional factors that contribute to procrastination?
-article_title: What are the main emotional factors that contribute to procrastination?
+title: >-
+    What are the main emotional factors that contribute to procrastination?
+article_title: >-
+    What are the main emotional factors that contribute to procrastination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-emotional-factors-that-contribute-to-procrastinatio
 url: /learn/education-studies/questions/what-are-the-main-emotional-factors-that-contribute-to-procrastination
 score: -1.0
 related_article1:
-    id: 170661
-    title: Why is mental health support crucial for well-being in education?
+    id: 170636
+    title: >-
+        Why is prioritizing tasks crucial for effective time management?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-mental-health-support-crucial-for-wellbeing-in-education
+    url: /learn/education-studies/questions/why-is-prioritizing-tasks-crucial-for-effective-time-management
 related_article2:
-    id: 170653
-    title: What are some effective strategies to increase student engagement through interactive learning?
+    id: 170658
+    title: >-
+        How can active learning techniques contribute to developing effective study habits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-strategies-to-increase-student-engagement-through-interactive-learning
+    url: /learn/education-studies/questions/how-can-active-learning-techniques-contribute-to-developing-effective-study-habits
 related_article3:
+    id: 170645
+    title: >-
+        What strategies can improve academic performance through goal setting and self-assessment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-improve-academic-performance-through-goal-setting-and-selfassessment
+related_article4:
     id: 170639
-    title: What is incremental learning and how does it enhance student success?
+    title: >-
+        What is incremental learning and how does it enhance student success?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-incremental-learning-and-how-does-it-enhance-student-success
-related_article4:
-    id: 170642
-    title: Why is the validity and reliability of peer-reviewed articles important in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-the-validity-and-reliability-of-peerreviewed-articles-important-in-research
 related_article5:
-    id: 170650
-    title: How can personalized instruction adapt to different learning styles?
+    id: 170641
+    title: >-
+        What role do digital tools play in the integration of technology in education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-personalized-instruction-adapt-to-different-learning-styles
+    url: /learn/education-studies/questions/what-role-do-digital-tools-play-in-the-integration-of-technology-in-education
 ---
 
 &nbsp;

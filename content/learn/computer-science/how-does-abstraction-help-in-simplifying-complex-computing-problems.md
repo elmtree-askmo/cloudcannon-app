@@ -2,8 +2,10 @@
 _schema: default
 id: 161034
 date: 2025-01-24
-title: How does abstraction help in simplifying complex computing problems?
-article_title: How does abstraction help in simplifying complex computing problems?
+title: >-
+    How does abstraction help in simplifying complex computing problems?
+article_title: >-
+    How does abstraction help in simplifying complex computing problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-
 score: -1.0
 related_article1:
     id: 160715
-    title: What measures can be taken to enhance network security?
+    title: >-
+        What measures can be taken to enhance network security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
 related_article2:
-    id: 160911
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    id: 161044
+    title: >-
+        What is the role of simulation models in computer simulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
 related_article3:
-    id: 160704
-    title: What are the key steps in the software engineering design process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-in-the-software-engineering-design-process
-related_article4:
-    id: 160711
-    title: What are the primary functions of database management systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
-related_article5:
-    id: 160723
-    title: How is cryptography used to ensure information security?
+    id: 161045
+    title: >-
+        How is cryptography used to ensure information security?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+related_article4:
+    id: 161043
+    title: >-
+        How do rendering techniques impact computer graphics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-rendering-techniques-impact-computer-graphics
+related_article5:
+    id: 161040
+    title: >-
+        What are the essential elements of network architecture?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
 ---
 
 &nbsp;

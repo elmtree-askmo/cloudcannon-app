@@ -2,8 +2,10 @@
 _schema: default
 id: 166526
 date: 2025-01-30
-title: How did historical context shape the development of Modern Art and Baroque Art?
-article_title: How did historical context shape the development of Modern Art and Baroque Art?
+title: >-
+    How did historical context shape the development of Modern Art and Baroque Art?
+article_title: >-
+    How did historical context shape the development of Modern Art and Baroque Art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-historical-context-shape-the-development-of-modern-art-and-ba
 url: /learn/education-studies/questions/how-did-historical-context-shape-the-development-of-modern-art-and-baroque-art
 score: -1.0
 related_article1:
-    id: 166525
-    title: How does historical context influence art interpretation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-historical-context-influence-art-interpretation
-related_article2:
-    id: 166516
-    title: What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
-related_article3:
     id: 166517
-    title: How do lighting and composition play a role in Baroque Art?
+    title: >-
+        How do lighting and composition play a role in Baroque Art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
+related_article2:
+    id: 166521
+    title: >-
+        What distinguishes Abstract Art from other artistic movements?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-abstract-art-from-other-artistic-movements
+related_article3:
+    id: 166516
+    title: >-
+        What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
 related_article4:
-    id: 166527
-    title: In what ways does Modern Art serve as a form of social commentary?
+    id: 166532
+    title: >-
+        How have key art movements evolved over time, and what influences have shaped them?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-does-modern-art-serve-as-a-form-of-social-commentary
+    url: /learn/education-studies/questions/how-have-key-art-movements-evolved-over-time-and-what-influences-have-shaped-them
 related_article5:
-    id: 166523
-    title: How do Realism artists convey their influences through their notable works?
+    id: 166529
+    title: >-
+        How does art function as a commentary on society and culture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
+    url: /learn/education-studies/questions/how-does-art-function-as-a-commentary-on-society-and-culture
 ---
 
 &nbsp;

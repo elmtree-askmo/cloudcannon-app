@@ -2,8 +2,10 @@
 _schema: default
 id: 168228
 date: 2025-02-03
-title: How should queries be addressed during the exam?
-article_title: How should queries be addressed during the exam?
+title: >-
+    How should queries be addressed during the exam?
+article_title: >-
+    How should queries be addressed during the exam?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-queries-be-addressed-during-the-exam.md
 url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
 score: -1.0
 related_article1:
-    id: 168226
-    title: How should students handle writing on exam sheets?
+    id: 168231
+    title: >-
+        What strategies can be used to minimize distractions in the exam environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
 related_article2:
-    id: 168217
-    title: What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+    id: 168219
+    title: >-
+        What are the key responsibilities of an invigilator during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-an-invigilator-during-the-exam
 related_article3:
-    id: 168221
-    title: What is the correct procedure for submitting response sheets after the exam?
+    id: 168231
+    title: >-
+        What strategies can be used to minimize distractions in the exam environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-correct-procedure-for-submitting-response-sheets-after-the-exam
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
 related_article4:
-    id: 168223
-    title: What actions are prohibited when using response sheets?
+    id: 168219
+    title: >-
+        What are the key responsibilities of an invigilator during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-actions-are-prohibited-when-using-response-sheets
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-an-invigilator-during-the-exam
 related_article5:
-    id: 168229
-    title: What instructions should be given to students after they submit their exams?
+    id: 168227
+    title: >-
+        What should be included in pre-exam announcements to students?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
+    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161467
 date: 2025-01-24
-title: What is the difference between smishing and vishing?
-article_title: What is the difference between smishing and vishing?
+title: >-
+    What is the difference between smishing and vishing?
+article_title: >-
+    What is the difference between smishing and vishing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-smishing-and-vishing.md
 url: /learn/computer-science/questions/what-is-the-difference-between-smishing-and-vishing
 score: -1.0
 related_article1:
-    id: 161454
-    title: What is the purpose of de-identification in data protection?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
-related_article2:
-    id: 161247
-    title: How does biometric data differ from other types of personal data?
+    id: 161453
+    title: >-
+        How does biometric data differ from other types of personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
+related_article2:
+    id: 161469
+    title: >-
+        How do Virtual Private Networks (VPNs) enhance online privacy?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
 related_article3:
-    id: 161257
-    title: What is the primary function of spyware?
+    id: 161255
+    title: >-
+        How does encryption enhance data security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+    url: /learn/computer-science/questions/how-does-encryption-enhance-data-security
 related_article4:
-    id: 161454
-    title: What is the purpose of de-identification in data protection?
+    id: 161468
+    title: >-
+        What are the advantages of using biometric security for authentication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
 related_article5:
-    id: 161463
-    title: What is the primary function of spyware?
+    id: 161249
+    title: >-
+        What are some common methods used for pseudonymization?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
 ---
 
 &nbsp;

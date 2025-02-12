@@ -2,8 +2,10 @@
 _schema: default
 id: 161463
 date: 2025-01-24
-title: What is the primary function of spyware?
-article_title: What is the primary function of spyware?
+title: >-
+    What is the primary function of spyware?
+article_title: >-
+    What is the primary function of spyware?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-function-of-spyware.md
 url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
 score: -1.0
 related_article1:
-    id: 161257
-    title: What is the primary function of spyware?
+    id: 161385
+    title: >-
+        Why is it important to regularly update anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
 related_article2:
-    id: 161455
-    title: What are some common methods used for pseudonymization?
+    id: 161459
+    title: >-
+        Why is it important to regularly update anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
+    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
 related_article3:
-    id: 161247
-    title: How does biometric data differ from other types of personal data?
+    id: 161392
+    title: >-
+        How can individuals recognize and prevent pharming attempts?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
+    url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
 related_article4:
-    id: 161396
-    title: What are the benefits of using a personal VPN?
+    id: 161254
+    title: >-
+        What is the primary purpose of a firewall in cybersecurity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
 related_article5:
-    id: 161458
-    title: What are the key features of anti-virus software?
+    id: 161262
+    title: >-
+        What are the advantages and disadvantages of using biometric security for authentication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-antivirus-software
+    url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-biometric-security-for-authentication
 ---
 
 &nbsp;

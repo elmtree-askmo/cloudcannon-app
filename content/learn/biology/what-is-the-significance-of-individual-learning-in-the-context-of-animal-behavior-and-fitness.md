@@ -2,8 +2,10 @@
 _schema: default
 id: 165279
 date: 2025-01-28
-title: What is the significance of individual learning in the context of animal behavior and fitness?
-article_title: What is the significance of individual learning in the context of animal behavior and fitness?
+title: >-
+    What is the significance of individual learning in the context of animal behavior and fitness?
+article_title: >-
+    What is the significance of individual learning in the context of animal behavior and fitness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-individual-learning-in-the-context-of-ani
 url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 score: -1.0
 related_article1:
-    id: 165270
-    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    id: 165281
+    title: >-
+        What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
     subject: Biology
-    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+    url: /learn/biology/questions/what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies
 related_article2:
-    id: 165274
-    title: Differentiate between proximate and ultimate causation in animal behavior.
+    id: 165280
+    title: >-
+        Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+    url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
 related_article3:
-    id: 165276
-    title: What are Darwin’s postulates and how do they relate to natural selection?
+    id: 165277
+    title: >-
+        Describe associative and non-associative learning and their roles in animal behavior.
     subject: Biology
-    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
 related_article4:
-    id: 165273
-    title: What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+    id: 165284
+    title: >-
+        What role does genetic mutation play in evolution and provide an example related to animal behavior.
     subject: Biology
-    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-contribute-to-understanding-animal-behavior
+    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
 related_article5:
-    id: 165275
-    title: Explain the mechanism of natural selection and its role in evolutionary change.
+    id: 165282
+    title: >-
+        Describe the types of behavioral responses animals may have to environmental changes.
     subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+    url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 ---
 
 &nbsp;

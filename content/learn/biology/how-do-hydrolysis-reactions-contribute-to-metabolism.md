@@ -2,8 +2,10 @@
 _schema: default
 id: 167018
 date: 2025-01-31
-title: How do hydrolysis reactions contribute to metabolism?
-article_title: How do hydrolysis reactions contribute to metabolism?
+title: >-
+    How do hydrolysis reactions contribute to metabolism?
+article_title: >-
+    How do hydrolysis reactions contribute to metabolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metaboli
 score: -1.0
 related_article1:
     id: 167031
-    title: How does cellulose resist hydrolysis, and why is this important for plants?
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
     subject: Biology
     url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
 related_article2:
-    id: 167024
-    title: Why are polysaccharides biologically important?
+    id: 167020
+    title: >-
+        What is the difference between alpha and beta ring structures in monosaccharides?
     subject: Biology
-    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
 related_article3:
+    id: 167033
+    title: >-
+        What are the different types of starch, and how do they contribute to plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
+related_article4:
     id: 167029
-    title: How do carbohydrates participate in cellular communication?
+    title: >-
+        How do carbohydrates participate in cellular communication?
     subject: Biology
     url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
-related_article4:
-    id: 167021
-    title: How are disaccharides formed through glycosidic bonds?
-    subject: Biology
-    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
 related_article5:
-    id: 167031
-    title: How does cellulose resist hydrolysis, and why is this important for plants?
+    id: 167030
+    title: >-
+        What is the structure and function of glycogen in animals?
     subject: Biology
-    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
 ---
 
 &nbsp;

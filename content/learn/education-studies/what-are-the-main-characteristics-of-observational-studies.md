@@ -2,8 +2,10 @@
 _schema: default
 id: 165160
 date: 2025-01-28
-title: What are the main characteristics of observational studies?
-article_title: What are the main characteristics of observational studies?
+title: >-
+    What are the main characteristics of observational studies?
+article_title: >-
+    What are the main characteristics of observational studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-of-observational-studies.md
 url: /learn/education-studies/questions/what-are-the-main-characteristics-of-observational-studies
 score: -1.0
 related_article1:
+    id: 165162
+    title: >-
+        How can you debug and test code in SciToolkit?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-you-debug-and-test-code-in-scitoolkit
+related_article2:
+    id: 165157
+    title: >-
+        Provide an example of how correlation can be misinterpreted as causation.
+    subject: Education Studies
+    url: /learn/education-studies/questions/provide-an-example-of-how-correlation-can-be-misinterpreted-as-causation
+related_article3:
+    id: 165166
+    title: >-
+        How can alternative explanations be explored when analyzing causal claims?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-alternative-explanations-be-explored-when-analyzing-causal-claims
+related_article4:
     id: 165153
-    title: How can SciToolkit be used for experimentation?
+    title: >-
+        How can SciToolkit be used for experimentation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-scitoolkit-be-used-for-experimentation
-related_article2:
+related_article5:
     id: 165156
-    title: What is the difference between correlation and causation?
+    title: >-
+        What is the difference between correlation and causation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
-related_article3:
-    id: 165161
-    title: What are the basic coding functions available in SciToolkit for creating experiments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-basic-coding-functions-available-in-scitoolkit-for-creating-experiments
-related_article4:
-    id: 165159
-    title: How do independent and dependent variables function in an experimental study design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-function-in-an-experimental-study-design
-related_article5:
-    id: 165167
-    title: What are the essential steps in formulating a hypothesis for an experiment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-steps-in-formulating-a-hypothesis-for-an-experiment
 ---
 
 &nbsp;

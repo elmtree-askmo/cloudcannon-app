@@ -2,8 +2,10 @@
 _schema: default
 id: 165860
 date: 2025-01-29
-title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
-article_title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
+title: >-
+    How do B and T cells contribute to the specificity and memory of adaptive immunity?
+article_title: >-
+    How do B and T cells contribute to the specificity and memory of adaptive immunity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adap
 url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
 score: -1.0
 related_article1:
-    id: 165874
-    title: How does concomitant immunity provide protection against re-infection?
+    id: 165878
+    title: >-
+        How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
+    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
 related_article2:
-    id: 165867
-    title: What is the significance of the membrane attack complex in the complement system?
+    id: 165859
+    title: >-
+        What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
+    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
 related_article3:
-    id: 165876
-    title: How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+    id: 165869
+    title: >-
+        What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
+    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
 related_article4:
-    id: 165874
-    title: How does concomitant immunity provide protection against re-infection?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article5:
-    id: 165880
-    title: How is the initial immune response triggered by pathogen recognition and signal transduction?
+    id: 165866
+    title: >-
+        How do monocytes and macrophages differ from neutrophils and eosinophils in their phagocytic functions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-initial-immune-response-triggered-by-pathogen-recognition-and-signal-transduction
+    url: /learn/health-studies/questions/how-do-monocytes-and-macrophages-differ-from-neutrophils-and-eosinophils-in-their-phagocytic-functions
 ---
 
 &nbsp;

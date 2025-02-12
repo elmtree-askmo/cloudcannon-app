@@ -2,8 +2,10 @@
 _schema: default
 id: 168726
 date: 2025-02-04
-title: How did 19th-century art address social issues such as poverty and gender identity?
-article_title: How did 19th-century art address social issues such as poverty and gender identity?
+title: >-
+    How did 19th-century art address social issues such as poverty and gender identity?
+article_title: >-
+    How did 19th-century art address social issues such as poverty and gender identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gen
 url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
 score: 9.5
 related_article1:
-    id: 168728
-    title: How did artists depict labor and working conditions during the Industrial Revolution?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
-related_article2:
     id: 168731
-    title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+    title: >-
+        What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
+related_article2:
+    id: 168735
+    title: >-
+        What role did women play in art during the 19th century, and how was gender identity explored?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
 related_article3:
-    id: 168725
-    title: What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+    id: 168721
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
 related_article4:
-    id: 168728
-    title: How did artists depict labor and working conditions during the Industrial Revolution?
+    id: 168715
+    title: >-
+        What were the main causes of social unrest leading to the French Revolution?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
+    url: /learn/art-history-and-literature/questions/what-were-the-main-causes-of-social-unrest-leading-to-the-french-revolution
 related_article5:
-    id: 168730
-    title: How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
+    id: 168731
+    title: >-
+        What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
+    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
 ---
 
 &nbsp;

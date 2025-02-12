@@ -2,8 +2,10 @@
 _schema: default
 id: 161027
 date: 2025-01-24
-title: What constraints must be considered for binary search to be effective?
-article_title: What constraints must be considered for binary search to be effective?
+title: >-
+    What constraints must be considered for binary search to be effective?
+article_title: >-
+    What constraints must be considered for binary search to be effective?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-constraints-must-be-considered-for-binary-search-to-be-effective
 url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
 score: -1.0
 related_article1:
+    id: 160862
+    title: >-
+        Describe the divide and conquer strategy in algorithm development.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
+related_article2:
     id: 161025
-    title: How do Turing machines contribute to the theoretical foundations of computability?
+    title: >-
+        How do Turing machines contribute to the theoretical foundations of computability?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
-related_article2:
-    id: 160866
-    title: What are associative arrays and how do they utilize non-numeric indices?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
 related_article3:
-    id: 160872
-    title: Compare linear search with depth-first search in terms of their approach and use cases.
+    id: 160865
+    title: >-
+        Explain the concept of lists and how they are implemented as arrays.
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
+    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
 related_article4:
-    id: 160691
-    title: What is the significance of understanding the origin of problems in computational problem solving?
+    id: 161022
+    title: >-
+        What is the difference between solvable and unsolvable problems in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
+    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
 related_article5:
-    id: 160771
-    title: What is the role of separating logic and control in algorithm development?
+    id: 160776
+    title: >-
+        How does representation influence algorithm complexity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-separating-logic-and-control-in-algorithm-development
+    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
 ---
 
 &nbsp;

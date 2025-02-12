@@ -2,8 +2,10 @@
 _schema: default
 id: 165924
 date: 2025-01-29
-title: What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
-article_title: What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
+title: >-
+    What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
+article_title: >-
+    What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-role-did-exhibits-from-colonized-regions-play-in-the-representat
 url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
 score: 9.0
 related_article1:
-    id: 165935
-    title: What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+    id: 165929
+    title: >-
+        What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
+    url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
 related_article2:
-    id: 165925
-    title: How did the Great Exhibition serve as a display of imperial power and colonial narratives?
+    id: 165933
+    title: >-
+        What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
+    url: /learn/history-of-the-world/questions/what-were-the-key-logistical-challenges-faced-during-the-planning-and-organization-of-the-great-exhibition-of-1851
 related_article3:
-    id: 165932
-    title: What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
+    id: 165921
+    title: >-
+        How did the Great Exhibition impact technological advancements in society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article4:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165938
+    title: >-
+        How has the Fons Americanus been interpreted and critiqued by the public and critics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
-related_article5:
-    id: 165932
-    title: What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
+    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
 ---
 
 &nbsp;

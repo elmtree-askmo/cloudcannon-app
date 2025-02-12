@@ -2,8 +2,10 @@
 _schema: default
 id: 161152
 date: 2025-01-24
-title: What factors should be considered when choosing a sorting algorithm?
-article_title: What factors should be considered when choosing a sorting algorithm?
+title: >-
+    What factors should be considered when choosing a sorting algorithm?
+article_title: >-
+    What factors should be considered when choosing a sorting algorithm?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-should-be-considered-when-choosing-a-sorting-algorithm.m
 url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
 score: -1.0
 related_article1:
-    id: 161056
-    title: What factors should be considered when choosing a sorting algorithm?
+    id: 161070
+    title: >-
+        What is an approximation algorithm and when is it used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
+    url: /learn/computer-science/questions/what-is-an-approximation-algorithm-and-when-is-it-used
 related_article2:
-    id: 161164
-    title: What is the significance of graph representation in graph algorithms?
+    id: 160934
+    title: >-
+        What is the divide-and-conquer technique and how is it applied in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-graph-representation-in-graph-algorithms
+    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-how-is-it-applied-in-algorithm-design
 related_article3:
-    id: 161069
-    title: Describe a technique used in graph algorithms to find the shortest path.
+    id: 161064
+    title: >-
+        What are the characteristics of online algorithms and how do they differ from traditional algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-a-technique-used-in-graph-algorithms-to-find-the-shortest-path
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-algorithms-and-how-do-they-differ-from-traditional-algorithms
 related_article4:
-    id: 161165
-    title: Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
+    id: 160944
+    title: >-
+        Why is algorithm analysis important in understanding the efficiency and correctness of algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-an-approximation-algorithm-and-its-use-in-solving-the-traveling-salesperson-problem
+    url: /learn/computer-science/questions/why-is-algorithm-analysis-important-in-understanding-the-efficiency-and-correctness-of-algorithms
 related_article5:
-    id: 161058
-    title: Compare the efficiency of insertion sort and merge sort in terms of input size.
+    id: 161157
+    title: >-
+        Explain the concept of dynamic programming and provide an example of its application.
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-in-terms-of-input-size
+    url: /learn/computer-science/questions/explain-the-concept-of-dynamic-programming-and-provide-an-example-of-its-application
 ---
 
 &nbsp;

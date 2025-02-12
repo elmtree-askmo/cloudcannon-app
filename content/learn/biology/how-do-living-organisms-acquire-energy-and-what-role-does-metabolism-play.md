@@ -2,8 +2,10 @@
 _schema: default
 id: 167511
 date: 2025-01-31
-title: How do living organisms acquire energy and what role does metabolism play?
-article_title: How do living organisms acquire energy and what role does metabolism play?
+title: >-
+    How do living organisms acquire energy and what role does metabolism play?
+article_title: >-
+    How do living organisms acquire energy and what role does metabolism play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-
 url: /learn/biology/questions/how-do-living-organisms-acquire-energy-and-what-role-does-metabolism-play
 score: -1.0
 related_article1:
+    id: 167522
+    title: >-
+        What factors affect an organism's survival and reproductive success?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-an-organisms-survival-and-reproductive-success
+related_article2:
+    id: 167512
+    title: >-
+        What are the different types of reproduction and why are they important for species continuity?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-are-they-important-for-species-continuity
+related_article3:
+    id: 167516
+    title: >-
+        What distinguishes a scientific theory from a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+related_article4:
     id: 167505
-    title: How do you formulate a research question in scientific inquiry?
+    title: >-
+        How do you formulate a research question in scientific inquiry?
     subject: Biology
     url: /learn/biology/questions/how-do-you-formulate-a-research-question-in-scientific-inquiry
-related_article2:
-    id: 167519
-    title: How is a phylogenetic tree used to interpret evolutionary relationships?
-    subject: Biology
-    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
-related_article3:
-    id: 167509
-    title: Why is analyzing results crucial in the scientific method?
-    subject: Biology
-    url: /learn/biology/questions/why-is-analyzing-results-crucial-in-the-scientific-method
-related_article4:
-    id: 167519
-    title: How is a phylogenetic tree used to interpret evolutionary relationships?
-    subject: Biology
-    url: /learn/biology/questions/how-is-a-phylogenetic-tree-used-to-interpret-evolutionary-relationships
 related_article5:
-    id: 167521
-    title: How does the heritability of traits contribute to evolution?
+    id: 167506
+    title: >-
+        What are the key characteristics of a testable hypothesis?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-heritability-of-traits-contribute-to-evolution
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-testable-hypothesis
 ---
 
 &nbsp;

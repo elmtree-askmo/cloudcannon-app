@@ -2,8 +2,10 @@
 _schema: default
 id: 169138
 date: 2025-02-04
-title: What were the key factors that contributed to early urban segregation in Johannesburg?
-article_title: What were the key factors that contributed to early urban segregation in Johannesburg?
+title: >-
+    What were the key factors that contributed to early urban segregation in Johannesburg?
+article_title: >-
+    What were the key factors that contributed to early urban segregation in Johannesburg?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-factors-that-contributed-to-early-urban-segregation
 url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
 score: -1.0
 related_article1:
+    id: 169143
+    title: >-
+        How did municipal ordinances impact housing for the multi-racial working class?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-municipal-ordinances-impact-housing-for-the-multiracial-working-class
+related_article2:
+    id: 169151
+    title: >-
+        How did early 20th-century legislation impact urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
+related_article3:
     id: 169144
-    title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
+    title: >-
+        What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
     subject: Sociology
     url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
-related_article2:
-    id: 169142
-    title: What was the significance of the Natives (Urban Areas) Act of 1923 in shaping housing policies?
-    subject: Sociology
-    url: /learn/sociology/questions/what-was-the-significance-of-the-natives-urban-areas-act-of-1923-in-shaping-housing-policies
-related_article3:
-    id: 169148
-    title: How did the demand for African labor influence housing policies in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-demand-for-african-labor-influence-housing-policies-in-johannesburg
 related_article4:
-    id: 169145
-    title: What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
-related_article5:
     id: 169141
-    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+    title: >-
+        How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
     subject: Sociology
     url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
+related_article5:
+    id: 169148
+    title: >-
+        How did the demand for African labor influence housing policies in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-demand-for-african-labor-influence-housing-policies-in-johannesburg
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167531
 date: 2025-01-31
-title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
-article_title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+title: >-
+    How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+article_title: >-
+    How do phosphodiester bonds contribute to the structure of nucleic acid strands?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-ac
 url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
 score: -1.0
 related_article1:
-    id: 167532
-    title: What are the base pairing rules for DNA, and why are they important for its structure?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
-related_article2:
-    id: 167528
-    title: How does the single-stranded nature of RNA affect its function compared to DNA?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna
-related_article3:
     id: 167534
-    title: What is the role of nitrogenous bases in encoding genetic information?
+    title: >-
+        What is the role of nitrogenous bases in encoding genetic information?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information
-related_article4:
-    id: 167525
-    title: How does the antiparallel orientation of DNA strands contribute to its function?
+related_article2:
+    id: 167526
+    title: >-
+        What role do hydrogen bonds play in the stability of the DNA double helix?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
-related_article5:
+    url: /learn/biotechnology/questions/what-role-do-hydrogen-bonds-play-in-the-stability-of-the-dna-double-helix
+related_article3:
+    id: 167530
+    title: >-
+        What distinguishes pyrimidines from purines in terms of structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-pyrimidines-from-purines-in-terms-of-structure
+related_article4:
     id: 167527
-    title: What are the key differences between the nucleotide components of RNA and DNA?
+    title: >-
+        What are the key differences between the nucleotide components of RNA and DNA?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
+related_article5:
+    id: 167529
+    title: >-
+        What are the three main components of a nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 ---
 
 &nbsp;

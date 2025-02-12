@@ -2,8 +2,10 @@
 _schema: default
 id: 168156
 date: 2025-02-02
-title: How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
-article_title: How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
+title: >-
+    How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
+article_title: >-
+    How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to
 url: /learn/education-studies/questions/how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to-economic-and-ecological-benefits
 score: -1.0
 related_article1:
-    id: 168160
-    title: What is the role of predictive modeling in ecological studies, and how do hindcasting and forecasting differ?
+    id: 168152
+    title: >-
+        What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-predictive-modeling-in-ecological-studies-and-how-do-hindcasting-and-forecasting-differ
+    url: /learn/education-studies/questions/what-characteristics-make-a-hypothesis-testable-and-falsifiable-and-why-is-repeatability-important-in-science
 related_article2:
+    id: 168154
+    title: >-
+        What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and-how-do-symbiotic-relationships-play-a-role
+related_article3:
+    id: 168159
+    title: >-
+        How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
+related_article4:
+    id: 168159
+    title: >-
+        How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
+related_article5:
     id: 168149
-    title: How do local and global impacts of human activities differ in the context of the Anthropocene?
+    title: >-
+        How do local and global impacts of human activities differ in the context of the Anthropocene?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
-related_article3:
-    id: 168148
-    title: What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-the-anthropocene-and-how-do-they-illustrate-human-effects-on-the-biosphere
-related_article4:
-    id: 168158
-    title: What are the primary causes of deforestation, and how does it impact biodiversity and human activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-causes-of-deforestation-and-how-does-it-impact-biodiversity-and-human-activities
-related_article5:
-    id: 168157
-    title: What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
 ---
 
 &nbsp;

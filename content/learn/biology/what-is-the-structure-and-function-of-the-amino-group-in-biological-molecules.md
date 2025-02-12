@@ -2,8 +2,10 @@
 _schema: default
 id: 167409
 date: 2025-01-31
-title: What is the structure and function of the amino group in biological molecules?
-article_title: What is the structure and function of the amino group in biological molecules?
+title: >-
+    What is the structure and function of the amino group in biological molecules?
+article_title: >-
+    What is the structure and function of the amino group in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-structure-and-function-of-the-amino-group-in-biological-m
 url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
 score: -1.0
 related_article1:
-    id: 167422
-    title: Why is the periodic table important for predicting the properties of elements?
-    subject: Biology
-    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
-related_article2:
-    id: 167407
-    title: What are the unique properties of carbon that make it versatile in forming compounds?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
-related_article3:
-    id: 167420
-    title: How are organic molecules different from inorganic molecules?
-    subject: Biology
-    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
-related_article4:
     id: 167404
-    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    title: >-
+        What distinguishes polar covalent bonds from non-polar covalent bonds?
     subject: Biology
     url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
-related_article5:
-    id: 167400
-    title: How is atomic mass different from atomic number?
+related_article2:
+    id: 167408
+    title: >-
+        Define hydrocarbons and list the types of hydrocarbons.
     subject: Biology
-    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+related_article3:
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
+related_article4:
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+related_article5:
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 ---
 
 &nbsp;

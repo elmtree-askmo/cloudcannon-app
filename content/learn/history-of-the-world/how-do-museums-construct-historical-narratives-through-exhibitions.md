@@ -2,8 +2,10 @@
 _schema: default
 id: 168991
 date: 2025-02-04
-title: How do museums construct historical narratives through exhibitions?
-article_title: How do museums construct historical narratives through exhibitions?
+title: >-
+    How do museums construct historical narratives through exhibitions?
+article_title: >-
+    How do museums construct historical narratives through exhibitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-museums-construct-historical-narratives-through-exhibitions.md
 url: /learn/history-of-the-world/questions/how-do-museums-construct-historical-narratives-through-exhibitions
 score: 9.0
 related_article1:
-    id: 168995
-    title: What are the economic and political motivations behind heritage destruction?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-economic-and-political-motivations-behind-heritage-destruction
-related_article2:
-    id: 168990
-    title: What are the political implications of archaeology in the Middle East?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-political-implications-of-archaeology-in-the-middle-east
-related_article3:
-    id: 168988
-    title: What are some ideological motives behind the destruction of cultural heritage?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-ideological-motives-behind-the-destruction-of-cultural-heritage
-related_article4:
-    id: 168999
-    title: What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-narratives-are-emphasized-in-the-israel-museums-exhibitions-particularly-regarding-jewish-heritage
-related_article5:
     id: 168998
-    title: How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
+    title: >-
+        How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-palestine-archaeological-museum-shift-its-focus-from-religious-to-cultural-narratives
+related_article2:
+    id: 168999
+    title: >-
+        What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-narratives-are-emphasized-in-the-israel-museums-exhibitions-particularly-regarding-jewish-heritage
+related_article3:
+    id: 168990
+    title: >-
+        What are the political implications of archaeology in the Middle East?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-political-implications-of-archaeology-in-the-middle-east
+related_article4:
+    id: 168995
+    title: >-
+        What are the economic and political motivations behind heritage destruction?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-economic-and-political-motivations-behind-heritage-destruction
+related_article5:
+    id: 168994
+    title: >-
+        How does Zionism influence archaeological practices and museum curation in Jerusalem?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-zionism-influence-archaeological-practices-and-museum-curation-in-jerusalem
 ---
 
 &nbsp;

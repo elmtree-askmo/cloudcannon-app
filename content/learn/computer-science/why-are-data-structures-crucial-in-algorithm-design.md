@@ -2,8 +2,10 @@
 _schema: default
 id: 161155
 date: 2025-01-24
-title: Why are data structures crucial in algorithm design?
-article_title: Why are data structures crucial in algorithm design?
+title: >-
+    Why are data structures crucial in algorithm design?
+article_title: >-
+    Why are data structures crucial in algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-data-structures-crucial-in-algorithm-design.md
 url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
 score: -1.0
 related_article1:
-    id: 161054
-    title: How can you determine if an algorithm is correct or incorrect?
+    id: 161166
+    title: >-
+        Why is algorithm analysis important in understanding the efficiency and correctness of algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-determine-if-an-algorithm-is-correct-or-incorrect
+    url: /learn/computer-science/questions/why-is-algorithm-analysis-important-in-understanding-the-efficiency-and-correctness-of-algorithms
 related_article2:
-    id: 160943
-    title: Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
+    id: 161061
+    title: >-
+        Explain the significance of dynamic programming in algorithm design.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-an-approximation-algorithm-and-its-use-in-solving-the-traveling-salesperson-problem
+    url: /learn/computer-science/questions/explain-the-significance-of-dynamic-programming-in-algorithm-design
 related_article3:
-    id: 161070
-    title: What is an approximation algorithm and when is it used?
+    id: 161063
+    title: >-
+        How do multicore processors influence parallel computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-approximation-algorithm-and-when-is-it-used
+    url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallel-computing
 related_article4:
-    id: 160937
-    title: How do multicore processors influence parallelism in algorithm design?
+    id: 160940
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallelism-in-algorithm-design
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article5:
-    id: 161059
-    title: Why are data structures crucial in algorithm design?
+    id: 161154
+    title: >-
+        Compare the efficiency of insertion sort and merge sort in terms of input size.
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
+    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-in-terms-of-input-size
 ---
 
 &nbsp;

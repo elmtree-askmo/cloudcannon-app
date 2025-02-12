@@ -2,8 +2,10 @@
 _schema: default
 id: 168486
 date: 2025-02-03
-title: What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
-article_title: What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
+title: >-
+    What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
+article_title: >-
+    What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-vocational-education-in-terms-of-handson-e
 url: /learn/education-studies/questions/what-are-the-advantages-of-vocational-education-in-terms-of-handson-experience-and-industryrelevant-skills
 score: -1.0
 related_article1:
-    id: 168484
-    title: What are the key components of effective safety training in the construction industry?
+    id: 168479
+    title: >-
+        How do zoning laws impact construction projects and what legal considerations must be taken into account?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
+    url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
 related_article2:
-    id: 168475
-    title: What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
+    id: 168473
+    title: >-
+        How do construction careers differ in terms of work environment and job types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
+    url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
 related_article3:
     id: 168479
-    title: How do zoning laws impact construction projects and what legal considerations must be taken into account?
+    title: >-
+        How do zoning laws impact construction projects and what legal considerations must be taken into account?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
 related_article4:
-    id: 168476
-    title: Why is a high school diploma or GED important for career development in architecture and construction?
+    id: 168485
+    title: >-
+        How does vocational education contribute to career development in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
 related_article5:
-    id: 168481
-    title: What educational requirements and technical skills are necessary for a career as a wind turbine technician?
+    id: 168484
+    title: >-
+        What are the key components of effective safety training in the construction industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-educational-requirements-and-technical-skills-are-necessary-for-a-career-as-a-wind-turbine-technician
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
 ---
 
 &nbsp;

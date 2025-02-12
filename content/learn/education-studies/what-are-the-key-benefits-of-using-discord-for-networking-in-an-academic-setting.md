@@ -2,8 +2,10 @@
 _schema: default
 id: 166626
 date: 2025-01-31
-title: What are the key benefits of using Discord for networking in an academic setting?
-article_title: What are the key benefits of using Discord for networking in an academic setting?
+title: >-
+    What are the key benefits of using Discord for networking in an academic setting?
+article_title: >-
+    What are the key benefits of using Discord for networking in an academic setting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,29 @@ file_name: what-are-the-key-benefits-of-using-discord-for-networking-in-an-acade
 url: /learn/education-studies/questions/what-are-the-key-benefits-of-using-discord-for-networking-in-an-academic-setting
 score: -1.0
 related_article1:
-    id: 166633
-    title: Describe the application of the law of cosines and sines in engineering statics.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-application-of-the-law-of-cosines-and-sines-in-engineering-statics
-related_article2:
-    id: 166634
-    title: What is Jamatrix, and how is it applied in engineering problem-solving?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-jamatrix-and-how-is-it-applied-in-engineering-problemsolving
-related_article3:
     id: 166630
-    title: Explain the role of vectors in solving statics problems.
+    title: >-
+        Explain the role of vectors in solving statics problems.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-role-of-vectors-in-solving-statics-problems
-related_article4:
-    id: 166627
-    title: How can career services assist in improving your resume and cover letter?
+related_article2:
+    id: 166629
+    title: >-
+        Why is static analysis important in engineering, and how is it applied in structures?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
+    url: /learn/education-studies/questions/why-is-static-analysis-important-in-engineering-and-how-is-it-applied-in-structures
+related_article3:
+    id: 166628
+    title: >-
+        What are the advantages of participating in engineering clubs for career development?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-of-participating-in-engineering-clubs-for-career-development
+related_article4:
+    id: 166633
+    title: >-
+        Describe the application of the law of cosines and sines in engineering statics.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-application-of-the-law-of-cosines-and-sines-in-engineering-statics
 ---
 
 &nbsp;

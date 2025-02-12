@@ -2,8 +2,10 @@
 _schema: default
 id: 167886
 date: 2025-02-01
-title: What is the genetic basis of cystic fibrosis?
-article_title: What is the genetic basis of cystic fibrosis?
+title: >-
+    What is the genetic basis of cystic fibrosis?
+article_title: >-
+    What is the genetic basis of cystic fibrosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-genetic-basis-of-cystic-fibrosis.md
 url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
 score: -1.0
 related_article1:
-    id: 167871
-    title: Explain the molecular mechanism behind complete dominance.
+    id: 167873
+    title: >-
+        Define multiple alleles and give an example involving blood types.
     subject: Biology
-    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
 related_article2:
-    id: 167871
-    title: Explain the molecular mechanism behind complete dominance.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
-related_article3:
-    id: 167891
-    title: How do genetic variations affect hemoglobin function?
-    subject: Biology
-    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
-related_article4:
-    id: 167875
-    title: What is codominance and how does it differ from incomplete dominance?
-    subject: Biology
-    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
-related_article5:
     id: 167890
-    title: What is the structure and function of hemoglobin?
+    title: >-
+        What is the structure and function of hemoglobin?
     subject: Biology
     url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+related_article3:
+    id: 167885
+    title: >-
+        How does sickle cell disease provide resistance to malaria?
+    subject: Biology
+    url: /learn/biology/questions/how-does-sickle-cell-disease-provide-resistance-to-malaria
+related_article4:
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
+    subject: Biology
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+related_article5:
+    id: 167889
+    title: >-
+        Describe the process of transcription and translation in gene expression.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
 ---
 
 &nbsp;

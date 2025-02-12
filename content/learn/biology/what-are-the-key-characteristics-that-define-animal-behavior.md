@@ -2,8 +2,10 @@
 _schema: default
 id: 166319
 date: 2025-01-30
-title: What are the key characteristics that define animal behavior?
-article_title: What are the key characteristics that define animal behavior?
+title: >-
+    What are the key characteristics that define animal behavior?
+article_title: >-
+    What are the key characteristics that define animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-that-define-animal-behavior.md
 url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
 score: -1.0
 related_article1:
-    id: 166336
-    title: What is the relationship between fitness, survival, and reproduction in the context of natural selection?
+    id: 166322
+    title: >-
+        How do ultimate questions differ from proximate questions in the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection
+    url: /learn/biology/questions/how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
 related_article2:
-    id: 166333
-    title: How do predator-prey interactions influence the phenotypes and survival strategies of animals?
+    id: 166321
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
     subject: Biology
-    url: /learn/biology/questions/how-do-predatorprey-interactions-influence-the-phenotypes-and-survival-strategies-of-animals
+    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 related_article3:
+    id: 166331
+    title: >-
+        How does heritability contribute to evolutionary change and variation in traits?
+    subject: Biology
+    url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
+related_article4:
+    id: 166323
+    title: >-
+        What role does natural selection play in the evolutionary change of animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
+related_article5:
     id: 166334
-    title: What is the evolutionary impact of selective pressures in predator-prey interactions?
+    title: >-
+        What is the evolutionary impact of selective pressures in predator-prey interactions?
     subject: Biology
     url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
-related_article4:
-    id: 166326
-    title: How do genetic changes influence the mechanism of animal behavior?
-    subject: Biology
-    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
-related_article5:
-    id: 166336
-    title: What is the relationship between fitness, survival, and reproduction in the context of natural selection?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-relationship-between-fitness-survival-and-reproduction-in-the-context-of-natural-selection
 ---
 
 &nbsp;

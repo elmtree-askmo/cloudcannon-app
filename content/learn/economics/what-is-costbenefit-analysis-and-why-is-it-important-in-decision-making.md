@@ -2,8 +2,10 @@
 _schema: default
 id: 170846
 date: 2025-02-07
-title: What is cost-benefit analysis and why is it important in decision making?
-article_title: What is cost-benefit analysis and why is it important in decision making?
+title: >-
+    What is cost-benefit analysis and why is it important in decision making?
+article_title: >-
+    What is cost-benefit analysis and why is it important in decision making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-costbenefit-analysis-and-why-is-it-important-in-decision-maki
 url: /learn/economics/questions/what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making
 score: -1.0
 related_article1:
-    id: 170856
-    title: What methods are used to calculate marginal benefit and how does it impact decision making?
+    id: 170865
+    title: >-
+        What analytical techniques are used to determine optimal quality in economics?
     subject: Economics
-    url: /learn/economics/questions/what-methods-are-used-to-calculate-marginal-benefit-and-how-does-it-impact-decision-making
+    url: /learn/economics/questions/what-analytical-techniques-are-used-to-determine-optimal-quality-in-economics
 related_article2:
-    id: 170852
-    title: How can the benefit curve be interpreted to make economic decisions?
+    id: 170848
+    title: >-
+        Explain the role of cost-benefit analysis in economic decision making and its impact on resource allocation.
     subject: Economics
-    url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
+    url: /learn/economics/questions/explain-the-role-of-costbenefit-analysis-in-economic-decision-making-and-its-impact-on-resource-allocation
 related_article3:
-    id: 170858
-    title: How is cost-benefit analysis integrated into economic models and policy making?
+    id: 170857
+    title: >-
+        What are the key concepts and principles of economic theory?
     subject: Economics
-    url: /learn/economics/questions/how-is-costbenefit-analysis-integrated-into-economic-models-and-policy-making
+    url: /learn/economics/questions/what-are-the-key-concepts-and-principles-of-economic-theory
 related_article4:
-    id: 170853
-    title: What is the cost curve and what factors influence its shape?
+    id: 170860
+    title: >-
+        How does central prices theory impact pricing strategies in economics?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-cost-curve-and-what-factors-influence-its-shape
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
 related_article5:
-    id: 170859
-    title: Explain the concept of central prices theory and its role in market equilibrium.
+    id: 170861
+    title: >-
+        What strategies can be used to maximize benefits and what challenges might arise?
     subject: Economics
-    url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
+    url: /learn/economics/questions/what-strategies-can-be-used-to-maximize-benefits-and-what-challenges-might-arise
 ---
 
 &nbsp;

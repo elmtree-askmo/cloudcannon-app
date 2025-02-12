@@ -2,8 +2,10 @@
 _schema: default
 id: 169352
 date: 2025-02-05
-title: How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
-article_title: How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
+title: >-
+    How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
+article_title: >-
+    How do developmental milestones differ between typical and atypical development, and what is the impact of ASD?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-developmental-milestones-differ-between-typical-and-atypical-d
 url: /learn/psychology/questions/how-do-developmental-milestones-differ-between-typical-and-atypical-development-and-what-is-the-impact-of-asd
 score: -1.0
 related_article1:
-    id: 169345
-    title: What are some effective communication strategies for addressing echolalia in individuals with ASD?
+    id: 169338
+    title: >-
+        What are the types of augmentative communication, and how might they impact verbal language development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
+    url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
 related_article2:
-    id: 169356
-    title: What are the types and characteristics of learning disabilities, and how do they impact learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
-related_article3:
-    id: 169336
-    title: What is errorless learning, and how does it differ from trial and error learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
-related_article4:
-    id: 169341
-    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
-related_article5:
     id: 169358
-    title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
     subject: Psychology
     url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+related_article3:
+    id: 169333
+    title: >-
+        What are some common causes of prompt dependency, and how can it be prevented?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
+related_article4:
+    id: 169336
+    title: >-
+        What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
+related_article5:
+    id: 169340
+    title: >-
+        How does observational learning contribute to social development, and what role does imitation play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 ---
 
 &nbsp;

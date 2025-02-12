@@ -2,8 +2,10 @@
 _schema: default
 id: 164211
 date: 2025-01-28
-title: What do studies with no or small gender differences suggest about Gilligan's theory?
-article_title: What do studies with no or small gender differences suggest about Gilligan's theory?
+title: >-
+    What do studies with no or small gender differences suggest about Gilligan's theory?
+article_title: >-
+    What do studies with no or small gender differences suggest about Gilligan's theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-do-studies-with-no-or-small-gender-differences-suggest-about-gil
 url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
 score: -1.0
 related_article1:
-    id: 164212
-    title: How do studies confirming gender differences support Gilligan's theory?
+    id: 164214
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-studies-confirming-gender-differences-support-gilligans-theory
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
 related_article2:
-    id: 164202
-    title: How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+    id: 164214
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
 related_article3:
-    id: 164206
-    title: Describe the transition from 'Goodness to Truth' in Gilligan's theory of moral development.
+    id: 164215
+    title: >-
+        What implications do developmental stages have for moral education in adolescence according to Gilligan?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
+    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
 related_article4:
     id: 164213
-    title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+    title: >-
+        What is the significance of early adolescence in the context of moral development according to Gilligan?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
 related_article5:
-    id: 164201
-    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    id: 164213
+    title: >-
+        What is the significance of early adolescence in the context of moral development according to Gilligan?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
+    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170370
 date: 2025-02-06
-title: Describe the structure of mitochondria and its role in ATP synthesis.
-article_title: Describe the structure of mitochondria and its role in ATP synthesis.
+title: >-
+    Describe the structure of mitochondria and its role in ATP synthesis.
+article_title: >-
+    Describe the structure of mitochondria and its role in ATP synthesis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-rol
 score: -1.0
 related_article1:
     id: 170361
-    title: Write the balanced chemical equation for photosynthesis.
+    title: >-
+        Write the balanced chemical equation for photosynthesis.
     subject: Biology
     url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
 related_article2:
-    id: 170368
-    title: What is the function of chlorophyll in chloroplasts?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
-related_article3:
-    id: 170358
-    title: What are the main carbon reservoirs in the carbon cycle?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
-related_article4:
     id: 170365
-    title: What is the difference between lactic acid fermentation and alcohol fermentation?
+    title: >-
+        What is the difference between lactic acid fermentation and alcohol fermentation?
     subject: Biology
     url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
-related_article5:
+related_article3:
     id: 170375
-    title: How does light energy get converted into chemical energy during photosynthesis?
+    title: >-
+        How does light energy get converted into chemical energy during photosynthesis?
     subject: Biology
     url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+related_article4:
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
+related_article5:
+    id: 170376
+    title: >-
+        What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
 ---
 
 &nbsp;

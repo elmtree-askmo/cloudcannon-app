@@ -2,8 +2,10 @@
 _schema: default
 id: 166143
 date: 2025-01-29
-title: What are the main components of the SIR model in epidemiology?
-article_title: What are the main components of the SIR model in epidemiology?
+title: >-
+    What are the main components of the SIR model in epidemiology?
+article_title: >-
+    What are the main components of the SIR model in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-the-sir-model-in-epidemiology.md
 url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
 score: -1.0
 related_article1:
-    id: 166146
-    title: How does carrying capacity influence population regulation in density-dependent growth?
+    id: 166137
+    title: >-
+        What is the role of payoff matrices in game theory?
     subject: Biology
-    url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
+    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
 related_article2:
-    id: 166138
-    title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
+    id: 166149
+    title: >-
+        What are the primary transmission pathways for zoonotic diseases?
     subject: Biology
-    url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
+    url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
 related_article3:
-    id: 166147
-    title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    id: 166145
+    title: >-
+        What role do oncogenes and tumor suppressors play in cancer progression?
     subject: Biology
-    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
+    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
 related_article4:
-    id: 166137
-    title: What is the role of payoff matrices in game theory?
+    id: 166152
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
 related_article5:
-    id: 166137
-    title: What is the role of payoff matrices in game theory?
+    id: 166139
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164401
 date: 2025-01-28
-title: What are Freud's theories of the mind, and how have they influenced neuroscience?
-article_title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+title: >-
+    What are Freud's theories of the mind, and how have they influenced neuroscience?
+article_title: >-
+    What are Freud's theories of the mind, and how have they influenced neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neu
 url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
 score: -1.0
 related_article1:
-    id: 164397
-    title: What role does the right hemisphere play in language comprehension?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
-related_article2:
     id: 164380
-    title: What are the primary functions associated with the left brain hemisphere in language processing?
+    title: >-
+        What are the primary functions associated with the left brain hemisphere in language processing?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
+related_article2:
+    id: 164383
+    title: >-
+        What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
 related_article3:
-    id: 164404
-    title: What are the neural models of music processing, and how do they relate to cognition?
+    id: 164387
+    title: >-
+        Describe the neural basis of facial expressions and their cognitive interpretation.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 related_article4:
-    id: 164386
-    title: What role do facial expressions play in communication?
+    id: 164389
+    title: >-
+        Which neural pathways are involved in communication disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+    url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
 related_article5:
-    id: 164390
-    title: What are the neural mechanisms involved in speech production?
+    id: 164392
+    title: >-
+        Identify the brain regions involved in speech production.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
 ---
 
 &nbsp;

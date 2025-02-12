@@ -2,8 +2,10 @@
 _schema: default
 id: 166302
 date: 2025-01-30
-title: How does the consolidation phase differ from the induction phase in leukemia treatment?
-article_title: How does the consolidation phase differ from the induction phase in leukemia treatment?
+title: >-
+    How does the consolidation phase differ from the induction phase in leukemia treatment?
+article_title: >-
+    How does the consolidation phase differ from the induction phase in leukemia treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-consolidation-phase-differ-from-the-induction-phase-in-l
 url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
 score: -1.0
 related_article1:
-    id: 166314
-    title: How is anemia diagnosed and treated?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-anemia-diagnosed-and-treated
-related_article2:
-    id: 166301
-    title: What is the goal of the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
-related_article3:
-    id: 166315
-    title: What are the causes and symptoms of leukopenia and neutropenia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
-related_article4:
-    id: 166292
-    title: What biopsy techniques are commonly used in the diagnosis of leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
-related_article5:
     id: 166293
-    title: Which protein markers are significant in the diagnosis of leukemia?
+    title: >-
+        Which protein markers are significant in the diagnosis of leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
+related_article2:
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+related_article3:
+    id: 166292
+    title: >-
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
+related_article4:
+    id: 166310
+    title: >-
+        How is lymphoma diagnosed and classified through biopsy?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-through-biopsy
+related_article5:
+    id: 166310
+    title: >-
+        How is lymphoma diagnosed and classified through biopsy?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-through-biopsy
 ---
 
 &nbsp;

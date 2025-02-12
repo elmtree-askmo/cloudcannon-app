@@ -2,8 +2,10 @@
 _schema: default
 id: 162668
 date: 2025-01-25
-title: What are the common cybersecurity threats, and how can they be mitigated?
-article_title: What are the common cybersecurity threats, and how can they be mitigated?
+title: >-
+    What are the common cybersecurity threats, and how can they be mitigated?
+article_title: >-
+    What are the common cybersecurity threats, and how can they be mitigated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-cybersecurity-threats-and-how-can-they-be-mitigat
 url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-how-can-they-be-mitigated
 score: -1.0
 related_article1:
-    id: 162671
-    title: What are the principles of usability and accessibility in user experience design?
+    id: 162776
+    title: >-
+        What is the role of hypothesis testing in inferential statistics?
     subject: Others
-    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
+    url: /learn/others/questions/what-is-the-role-of-hypothesis-testing-in-inferential-statistics
 related_article2:
-    id: 162661
-    title: How do IaaS, PaaS, and SaaS differ in cloud computing service models?
+    id: 162732
+    title: >-
+        What are the benefits of continuous integration and continuous deployment in DevOps practices?
     subject: Others
-    url: /learn/others/questions/how-do-iaas-paas-and-saas-differ-in-cloud-computing-service-models
+    url: /learn/others/questions/what-are-the-benefits-of-continuous-integration-and-continuous-deployment-in-devops-practices
 related_article3:
-    id: 162377
-    title: What are the main components and challenges of the Internet of Things (IoT)?
+    id: 162354
+    title: >-
+        How can Excel, R, and Python be utilized in data analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-main-components-and-challenges-of-the-internet-of-things-iot
+    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis
 related_article4:
-    id: 162713
-    title: How do neural networks contribute to the development of autonomous vehicles?
+    id: 162771
+    title: >-
+        How do TensorFlow, Scikit-learn, and PyTorch support machine learning applications like image recognition?
     subject: Others
-    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
+    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-support-machine-learning-applications-like-image-recognition
 related_article5:
-    id: 162713
-    title: How do neural networks contribute to the development of autonomous vehicles?
+    id: 162654
+    title: >-
+        What are the best practices for creating effective data visualizations?
     subject: Others
-    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
 ---
 
 &nbsp;

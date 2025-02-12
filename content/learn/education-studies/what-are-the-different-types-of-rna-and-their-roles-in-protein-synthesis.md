@@ -2,8 +2,10 @@
 _schema: default
 id: 167903
 date: 2025-02-01
-title: What are the different types of RNA and their roles in protein synthesis?
-article_title: What are the different types of RNA and their roles in protein synthesis?
+title: >-
+    What are the different types of RNA and their roles in protein synthesis?
+article_title: >-
+    What are the different types of RNA and their roles in protein synthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-rna-and-their-roles-in-protein-synthe
 url: /learn/education-studies/questions/what-are-the-different-types-of-rna-and-their-roles-in-protein-synthesis
 score: -1.0
 related_article1:
-    id: 167910
-    title: What are the ethical considerations in genetic disease research?
+    id: 167908
+    title: >-
+        What is the role of concept maps in organizing genetic information?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
+    url: /learn/education-studies/questions/what-is-the-role-of-concept-maps-in-organizing-genetic-information
 related_article2:
-    id: 167902
-    title: Describe the double helix model of DNA and the importance of base pairing.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-double-helix-model-of-dna-and-the-importance-of-base-pairing
-related_article3:
     id: 167897
-    title: How does DNA packaging affect gene accessibility in chromosomes?
+    title: >-
+        How does DNA packaging affect gene accessibility in chromosomes?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-dna-packaging-affect-gene-accessibility-in-chromosomes
+related_article3:
+    id: 167910
+    title: >-
+        What are the ethical considerations in genetic disease research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
 related_article4:
-    id: 167901
-    title: How do ribosomes facilitate the translation process from RNA to protein?
+    id: 167910
+    title: >-
+        What are the ethical considerations in genetic disease research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ribosomes-facilitate-the-translation-process-from-rna-to-protein
+    url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
 related_article5:
-    id: 167911
-    title: How does the genotype-phenotype relationship explain the genetic basis of traits?
+    id: 167895
+    title: >-
+        How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-genotypephenotype-relationship-explain-the-genetic-basis-of-traits
+    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
 ---
 
 &nbsp;

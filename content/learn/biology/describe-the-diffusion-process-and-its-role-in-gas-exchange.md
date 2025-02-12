@@ -2,8 +2,10 @@
 _schema: default
 id: 168803
 date: 2025-02-04
-title: Describe the diffusion process and its role in gas exchange.
-article_title: Describe the diffusion process and its role in gas exchange.
+title: >-
+    Describe the diffusion process and its role in gas exchange.
+article_title: >-
+    Describe the diffusion process and its role in gas exchange.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-diffusion-process-and-its-role-in-gas-exchange.md
 url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
 score: -1.0
 related_article1:
+    id: 168806
+    title: >-
+        How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
+related_article2:
+    id: 168801
+    title: >-
+        Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
+related_article3:
+    id: 168800
+    title: >-
+        How do ventilation mechanisms and blood supply contribute to maintaining a concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ventilation-mechanisms-and-blood-supply-contribute-to-maintaining-a-concentration-gradient
+related_article4:
     id: 168805
-    title: What are the key differences between open and closed circulatory systems, particularly in insect respiration?
+    title: >-
+        What are the key differences between open and closed circulatory systems, particularly in insect respiration?
     subject: Biology
     url: /learn/biology/questions/what-are-the-key-differences-between-open-and-closed-circulatory-systems-particularly-in-insect-respiration
-related_article2:
-    id: 168808
-    title: What ventilation mechanisms do insects use, and how are they adapted for larger insects?
-    subject: Biology
-    url: /learn/biology/questions/what-ventilation-mechanisms-do-insects-use-and-how-are-they-adapted-for-larger-insects
-related_article3:
-    id: 168807
-    title: Describe the structure and function of the tracheal system in insects, including tracheae, tracheoles, and spiracles.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-structure-and-function-of-the-tracheal-system-in-insects-including-tracheae-tracheoles-and-spiracles
-related_article4:
-    id: 168802
-    title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
-    subject: Biology
-    url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
 related_article5:
-    id: 168802
-    title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
+    id: 168797
+    title: >-
+        What is the role of filaments in the gill structure regarding surface area and diffusion pathway?
     subject: Biology
-    url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maintaining-the-concentration-gradient-in-fish
+    url: /learn/biology/questions/what-is-the-role-of-filaments-in-the-gill-structure-regarding-surface-area-and-diffusion-pathway
 ---
 
 &nbsp;

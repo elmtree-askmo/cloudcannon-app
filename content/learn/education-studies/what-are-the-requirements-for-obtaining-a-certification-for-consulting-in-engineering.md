@@ -2,8 +2,10 @@
 _schema: default
 id: 166708
 date: 2025-01-31
-title: What are the requirements for obtaining a certification for consulting in engineering?
-article_title: What are the requirements for obtaining a certification for consulting in engineering?
+title: >-
+    What are the requirements for obtaining a certification for consulting in engineering?
+article_title: >-
+    What are the requirements for obtaining a certification for consulting in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-requirements-for-obtaining-a-certification-for-consultin
 url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
 score: -1.0
 related_article1:
-    id: 166718
-    title: What benefits do professional engineering societies offer to their members?
+    id: 166709
+    title: >-
+        How can engineering certifications impact a professional's career?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
+    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
 related_article2:
-    id: 166710
-    title: What are the eligibility criteria for engineering scholarships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
-related_article3:
-    id: 166714
-    title: What are the current job market trends for consulting opportunities in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
-related_article4:
-    id: 166711
-    title: How do engineering scholarships provide financial support to students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-scholarships-provide-financial-support-to-students
-related_article5:
     id: 166720
-    title: What types of events do engineering organizations typically host?
+    title: >-
+        What types of events do engineering organizations typically host?
     subject: Education Studies
     url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
+related_article3:
+    id: 166721
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+related_article4:
+    id: 166712
+    title: >-
+        What types of services do consulting companies offer?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
+related_article5:
+    id: 166698
+    title: >-
+        How is the conservation of energy principle applied in rigid body dynamics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164940
 date: 2025-01-28
-title: What are some controversies associated with military aid?
-article_title: What are some controversies associated with military aid?
+title: >-
+    What are some controversies associated with military aid?
+article_title: >-
+    What are some controversies associated with military aid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-controversies-associated-with-military-aid.md
 url: /learn/education-studies/questions/what-are-some-controversies-associated-with-military-aid
 score: -1.0
 related_article1:
-    id: 164931
-    title: What are the key steps in identifying relevant sources for research articles?
+    id: 164939
+    title: >-
+        What is the primary purpose of military aid?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-relevant-sources-for-research-articles
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
 related_article2:
+    id: 164942
+    title: >-
+        What are the core principles of communism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
+related_article3:
     id: 164944
-    title: How is terrorism defined based on political and religious motivations?
+    title: >-
+        How is terrorism defined based on political and religious motivations?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-terrorism-defined-based-on-political-and-religious-motivations
-related_article3:
-    id: 164937
-    title: What role do advocacy groups play in influencing policy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-advocacy-groups-play-in-influencing-policy
 related_article4:
     id: 164931
-    title: What are the key steps in identifying relevant sources for research articles?
+    title: >-
+        What are the key steps in identifying relevant sources for research articles?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-relevant-sources-for-research-articles
 related_article5:
-    id: 164939
-    title: What is the primary purpose of military aid?
+    id: 164932
+    title: >-
+        How can you evaluate the quality of a research article?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-quality-of-a-research-article
 ---
 
 &nbsp;

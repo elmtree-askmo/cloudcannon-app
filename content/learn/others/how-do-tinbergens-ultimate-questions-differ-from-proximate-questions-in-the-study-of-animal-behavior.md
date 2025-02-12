@@ -2,8 +2,10 @@
 _schema: default
 id: 167665
 date: 2025-01-31
-title: How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
-article_title: How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
+title: >-
+    How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
+article_title: >-
+    How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-tinbergens-ultimate-questions-differ-from-proximate-questions-
 url: /learn/others/questions/how-do-tinbergens-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
 score: -1.0
 related_article1:
-    id: 167674
-    title: How is heritability measured, and why is it important for understanding behavioral traits?
+    id: 167680
+    title: >-
+        What is the role of glucocorticoids in stress management, and what are their behavioral implications?
     subject: Others
-    url: /learn/others/questions/how-is-heritability-measured-and-why-is-it-important-for-understanding-behavioral-traits
+    url: /learn/others/questions/what-is-the-role-of-glucocorticoids-in-stress-management-and-what-are-their-behavioral-implications
 related_article2:
-    id: 167677
-    title: What are neurohormones, and how do they influence animal behavior?
-    subject: Others
-    url: /learn/others/questions/what-are-neurohormones-and-how-do-they-influence-animal-behavior
-related_article3:
-    id: 167671
-    title: Differentiate between phenotype and genotype and their influence on animal behavior.
-    subject: Others
-    url: /learn/others/questions/differentiate-between-phenotype-and-genotype-and-their-influence-on-animal-behavior
-related_article4:
-    id: 167673
-    title: Provide an example of adaptation in animal behavior and its role in evolution.
-    subject: Others
-    url: /learn/others/questions/provide-an-example-of-adaptation-in-animal-behavior-and-its-role-in-evolution
-related_article5:
     id: 167674
-    title: How is heritability measured, and why is it important for understanding behavioral traits?
+    title: >-
+        How is heritability measured, and why is it important for understanding behavioral traits?
     subject: Others
     url: /learn/others/questions/how-is-heritability-measured-and-why-is-it-important-for-understanding-behavioral-traits
+related_article3:
+    id: 167680
+    title: >-
+        What is the role of glucocorticoids in stress management, and what are their behavioral implications?
+    subject: Others
+    url: /learn/others/questions/what-is-the-role-of-glucocorticoids-in-stress-management-and-what-are-their-behavioral-implications
+related_article4:
+    id: 167666
+    title: >-
+        Provide an example of how proximate and ultimate causes are interconnected in animal behavior.
+    subject: Others
+    url: /learn/others/questions/provide-an-example-of-how-proximate-and-ultimate-causes-are-interconnected-in-animal-behavior
+related_article5:
+    id: 167679
+    title: >-
+        How do environmental cues influence seasonal breeding behaviors in animals?
+    subject: Others
+    url: /learn/others/questions/how-do-environmental-cues-influence-seasonal-breeding-behaviors-in-animals
 ---
 
 &nbsp;

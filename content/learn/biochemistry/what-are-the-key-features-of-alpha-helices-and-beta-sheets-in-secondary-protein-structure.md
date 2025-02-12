@@ -2,8 +2,10 @@
 _schema: default
 id: 167236
 date: 2025-01-31
-title: What are the key features of alpha helices and beta sheets in secondary protein structure?
-article_title: What are the key features of alpha helices and beta sheets in secondary protein structure?
+title: >-
+    What are the key features of alpha helices and beta sheets in secondary protein structure?
+article_title: >-
+    What are the key features of alpha helices and beta sheets in secondary protein structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-seconda
 url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
 score: -1.0
 related_article1:
-    id: 167244
-    title: What are the effects of protein denaturation on function?
+    id: 167243
+    title: >-
+        How does protein structure determine its function?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
 related_article2:
-    id: 167234
-    title: What is the primary structure of a protein and how is it determined?
+    id: 167232
+    title: >-
+        What are the primary functions of proteins in cells?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
 related_article3:
-    id: 167237
-    title: How do R-group interactions influence the tertiary structure of proteins?
+    id: 167233
+    title: >-
+        How do molecular chaperones assist in protein folding?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
 related_article4:
-    id: 167244
-    title: What are the effects of protein denaturation on function?
+    id: 167248
+    title: >-
+        What are the common structural features of amino acids?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
 related_article5:
     id: 167247
-    title: How do R-group properties affect protein solubility?
+    title: >-
+        How do R-group properties affect protein solubility?
     subject: Biochemistry
     url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
 ---

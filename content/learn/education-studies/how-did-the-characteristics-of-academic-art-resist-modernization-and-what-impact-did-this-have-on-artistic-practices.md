@@ -2,8 +2,10 @@
 _schema: default
 id: 159787
 date: 2025-01-23
-title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
-article_title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+title: >-
+    How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+article_title: >-
+    How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-characteristics-of-academic-art-resist-modernization-and-
 url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 score: -1.0
 related_article1:
-    id: 159794
-    title: Who were the key figures of Impressionism, and what were the main characteristics of this movement?
+    id: 159761
+    title: >-
+        How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-were-the-key-figures-of-impressionism-and-what-were-the-main-characteristics-of-this-movement
+    url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
 related_article2:
-    id: 159799
-    title: How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
+    id: 159757
+    title: >-
+        What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
+    url: /learn/education-studies/questions/what-were-the-origins-and-establishment-of-the-paris-salon-and-how-did-the-monarchy-influence-its-development
 related_article3:
-    id: 159759
-    title: In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    id: 159767
+    title: >-
+        How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
+    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles-and-what-were-some-key-innovations
 related_article4:
-    id: 159766
-    title: Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
+    id: 159758
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
+    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 related_article5:
-    id: 159760
-    title: Define avant-garde movements and discuss their key characteristics and impact on the art world.
+    id: 159762
+    title: >-
+        What were the significant changes in the curriculum and focus of art academies, and how did these changes impact artistic development?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-characteristics-and-impact-on-the-art-world
+    url: /learn/education-studies/questions/what-were-the-significant-changes-in-the-curriculum-and-focus-of-art-academies-and-how-did-these-changes-impact-artistic-development
 ---
 
 &nbsp;

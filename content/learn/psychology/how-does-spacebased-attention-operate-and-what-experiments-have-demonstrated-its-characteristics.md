@@ -2,8 +2,10 @@
 _schema: default
 id: 164699
 date: 2025-01-28
-title: How does space-based attention operate, and what experiments have demonstrated its characteristics?
-article_title: How does space-based attention operate, and what experiments have demonstrated its characteristics?
+title: >-
+    How does space-based attention operate, and what experiments have demonstrated its characteristics?
+article_title: >-
+    How does space-based attention operate, and what experiments have demonstrated its characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-spacebased-attention-operate-and-what-experiments-have-demon
 url: /learn/psychology/questions/how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics
 score: -1.0
 related_article1:
-    id: 164697
-    title: How does divided attention impact performance, and what challenges are associated with multitasking?
+    id: 164702
+    title: >-
+        Define anterograde amnesia and discuss its impact on memory formation with reference to case studies.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
+    url: /learn/psychology/questions/define-anterograde-amnesia-and-discuss-its-impact-on-memory-formation-with-reference-to-case-studies
 related_article2:
-    id: 164704
-    title: Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
-related_article3:
-    id: 164700
-    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
-related_article4:
     id: 164706
-    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    title: >-
+        What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
-related_article5:
-    id: 164708
-    title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+related_article3:
+    id: 164701
+    title: >-
+        What factors affect reaction time in visual search, and how does set size influence this process?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
+    url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
+related_article4:
+    id: 164706
+    title: >-
+        What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
 ---
 
 &nbsp;

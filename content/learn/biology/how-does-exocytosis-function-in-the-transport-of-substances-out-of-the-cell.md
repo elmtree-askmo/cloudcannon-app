@@ -2,8 +2,10 @@
 _schema: default
 id: 166944
 date: 2025-01-31
-title: How does exocytosis function in the transport of substances out of the cell?
-article_title: How does exocytosis function in the transport of substances out of the cell?
+title: >-
+    How does exocytosis function in the transport of substances out of the cell?
+article_title: >-
+    How does exocytosis function in the transport of substances out of the cell?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-exocytosis-function-in-the-transport-of-substances-out-of-th
 url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
 score: -1.0
 related_article1:
-    id: 166938
-    title: What is the difference between channel proteins and carrier proteins in terms of their function?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
-related_article2:
-    id: 166945
-    title: Why are concentration gradients important for cellular transport processes?
-    subject: Biology
-    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
-related_article3:
-    id: 166947
-    title: What are the main types of transport proteins, and how do they differ in function?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
-related_article4:
-    id: 166945
-    title: Why are concentration gradients important for cellular transport processes?
-    subject: Biology
-    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
-related_article5:
     id: 166948
-    title: How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+    title: >-
+        How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
     subject: Biology
     url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
+related_article2:
+    id: 166939
+    title: >-
+        How does passive transport differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
+related_article3:
+    id: 166941
+    title: >-
+        What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article4:
+    id: 166939
+    title: >-
+        How does passive transport differ from active transport in terms of energy requirements?
+    subject: Biology
+    url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
+related_article5:
+    id: 166935
+    title: >-
+        What is the primary role of channels, carriers, and pumps in cellular transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
 ---
 
 &nbsp;

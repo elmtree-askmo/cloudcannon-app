@@ -2,8 +2,10 @@
 _schema: default
 id: 169291
 date: 2025-02-05
-title: How do piecewise functions and absolute value functions illustrate discontinuous behavior?
-article_title: How do piecewise functions and absolute value functions illustrate discontinuous behavior?
+title: >-
+    How do piecewise functions and absolute value functions illustrate discontinuous behavior?
+article_title: >-
+    How do piecewise functions and absolute value functions illustrate discontinuous behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-piecewise-functions-and-absolute-value-functions-illustrate-di
 url: /learn/education-studies/questions/how-do-piecewise-functions-and-absolute-value-functions-illustrate-discontinuous-behavior
 score: -1.0
 related_article1:
+    id: 169283
+    title: >-
+        Explain the epsilon-delta definition of a limit and its significance in calculus.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-epsilondelta-definition-of-a-limit-and-its-significance-in-calculus
+related_article2:
     id: 169303
-    title: How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    title: >-
+        How does the Fundamental Theorem of Calculus connect derivatives and integrals?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
-related_article2:
-    id: 169297
-    title: How is continuity at transition points in piecewise functions analyzed?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
 related_article3:
-    id: 169287
-    title: How are vectors used in physics and engineering applications?
+    id: 169298
+    title: >-
+        What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-used-in-physics-and-engineering-applications
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-rational-functions-and-how-do-they-exhibit-asymptotic-behavior
 related_article4:
-    id: 169301
-    title: How is the derivative used to calculate the instantaneous rate of change, and what are its applications in physics?
+    id: 169286
+    title: >-
+        What are the properties of vectors, and how do they apply to vector addition and subtraction?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-derivative-used-to-calculate-the-instantaneous-rate-of-change-and-what-are-its-applications-in-physics
+    url: /learn/education-studies/questions/what-are-the-properties-of-vectors-and-how-do-they-apply-to-vector-addition-and-subtraction
 related_article5:
-    id: 169292
-    title: What is the difference between left-hand and right-hand limits in calculus?
+    id: 169305
+    title: >-
+        Why is mathematical notation important in calculus, and what are some common symbols used?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
+    url: /learn/education-studies/questions/why-is-mathematical-notation-important-in-calculus-and-what-are-some-common-symbols-used
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168929
 date: 2025-02-04
-title: Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
-article_title: Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
+title: >-
+    Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
+article_title: >-
+    Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-hydrophobic-nature-of-phospholipid-tails-and-their-role-i
 url: /learn/biology/questions/explain-the-hydrophobic-nature-of-phospholipid-tails-and-their-role-in-membrane-structure
 score: -1.0
 related_article1:
-    id: 168921
-    title: How does cholesterol regulate membrane fluidity and stability?
-    subject: Biology
-    url: /learn/biology/questions/how-does-cholesterol-regulate-membrane-fluidity-and-stability
-related_article2:
     id: 168917
-    title: What is the primary function of the cell membrane as a protective barrier?
+    title: >-
+        What is the primary function of the cell membrane as a protective barrier?
     subject: Biology
     url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
+related_article2:
+    id: 168924
+    title: >-
+        What is the role of glycoproteins in cell recognition and immune response?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response
 related_article3:
-    id: 168921
-    title: How does cholesterol regulate membrane fluidity and stability?
-    subject: Biology
-    url: /learn/biology/questions/how-does-cholesterol-regulate-membrane-fluidity-and-stability
-related_article4:
-    id: 168925
-    title: How do phospholipids and cholesterol influence cell membrane permeability?
-    subject: Biology
-    url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
-related_article5:
     id: 168923
-    title: How do peripheral proteins assist in cell signaling and communication?
+    title: >-
+        How do peripheral proteins assist in cell signaling and communication?
     subject: Biology
     url: /learn/biology/questions/how-do-peripheral-proteins-assist-in-cell-signaling-and-communication
+related_article4:
+    id: 168922
+    title: >-
+        What role do integral proteins play in the transport of molecules across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
+related_article5:
+    id: 168925
+    title: >-
+        How do phospholipids and cholesterol influence cell membrane permeability?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160767
 date: 2025-01-24
-title: What are the differences between trees and graphs as data structures?
-article_title: What are the differences between trees and graphs as data structures?
+title: >-
+    What are the differences between trees and graphs as data structures?
+article_title: >-
+    What are the differences between trees and graphs as data structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-trees-and-graphs-as-data-structures.
 url: /learn/computer-science/questions/what-are-the-differences-between-trees-and-graphs-as-data-structures
 score: -1.0
 related_article1:
-    id: 160661
-    title: How is data represented in computational music, and why is it important?
+    id: 160785
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-data-represented-in-computational-music-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 related_article2:
-    id: 160773
-    title: What is Big O notation and why is it important in analyzing algorithms?
+    id: 160655
+    title: >-
+        What is the main difference between Dijkstra's and Bellman-Ford algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-main-difference-between-dijkstras-and-bellmanford-algorithms
+related_article3:
+    id: 160779
+    title: >-
+        How do Kruskal's and Prim's algorithms differ in finding minimum spanning trees?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-kruskals-and-prims-algorithms-differ-in-finding-minimum-spanning-trees
+related_article4:
+    id: 160653
+    title: >-
+        What is Big O notation and why is it important in analyzing algorithms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
-related_article3:
-    id: 160784
-    title: What role do logarithms and exponents play in complexity analysis?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
-related_article4:
-    id: 160662
-    title: Why is the correct representation of problems crucial in problem-solving?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-correct-representation-of-problems-crucial-in-problemsolving
 related_article5:
-    id: 160662
-    title: Why is the correct representation of problems crucial in problem-solving?
+    id: 160766
+    title: >-
+        How does the inventor's perspective influence algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-correct-representation-of-problems-crucial-in-problemsolving
+    url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
 ---
 
 &nbsp;

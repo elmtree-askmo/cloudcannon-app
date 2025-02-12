@@ -2,8 +2,10 @@
 _schema: default
 id: 164149
 date: 2025-01-28
-title: What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
-article_title: What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
+title: >-
+    What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
+article_title: >-
+    What are the limitations of peer influence in moral development, particularly regarding authority and peer pressure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-limitations-of-peer-influence-in-moral-development-parti
 url: /learn/psychology/questions/what-are-the-limitations-of-peer-influence-in-moral-development-particularly-regarding-authority-and-peer-pressure
 score: -1.0
 related_article1:
-    id: 164134
-    title: How do equality and negotiation in peer relationships contribute to moral development?
+    id: 164150
+    title: >-
+        What are the potential emotional consequences of overemphasizing control in parental influence?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-equality-and-negotiation-in-peer-relationships-contribute-to-moral-development
+    url: /learn/psychology/questions/what-are-the-potential-emotional-consequences-of-overemphasizing-control-in-parental-influence
 related_article2:
-    id: 164139
-    title: According to Piaget, how do peer interactions influence moral development?
+    id: 164142
+    title: >-
+        What are the immediate effects of power assertion in parenting on a child's behavior?
     subject: Psychology
-    url: /learn/psychology/questions/according-to-piaget-how-do-peer-interactions-influence-moral-development
+    url: /learn/psychology/questions/what-are-the-immediate-effects-of-power-assertion-in-parenting-on-a-childs-behavior
 related_article3:
-    id: 164143
-    title: How does love withdrawal use emotional manipulation in parenting?
+    id: 164146
+    title: >-
+        In what ways do peer and parental influences differ in their impact on moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-love-withdrawal-use-emotional-manipulation-in-parenting
+    url: /learn/psychology/questions/in-what-ways-do-peer-and-parental-influences-differ-in-their-impact-on-moral-reasoning
 related_article4:
-    id: 164148
-    title: How do educational settings utilize peer interaction to enhance moral development?
+    id: 164145
+    title: >-
+        How do negotiation skills in peer relationships contribute to moral problem solving?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-educational-settings-utilize-peer-interaction-to-enhance-moral-development
+    url: /learn/psychology/questions/how-do-negotiation-skills-in-peer-relationships-contribute-to-moral-problem-solving
 related_article5:
-    id: 164137
-    title: What role does power assertion play in parenting, and how does it impact moral development?
+    id: 164138
+    title: >-
+        How does love withdrawal as a parenting technique influence a child's moral development?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-power-assertion-play-in-parenting-and-how-does-it-impact-moral-development
+    url: /learn/psychology/questions/how-does-love-withdrawal-as-a-parenting-technique-influence-a-childs-moral-development
 ---
 
 &nbsp;

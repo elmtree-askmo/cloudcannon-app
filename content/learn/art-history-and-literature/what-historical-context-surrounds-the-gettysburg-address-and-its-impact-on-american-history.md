@@ -2,8 +2,10 @@
 _schema: default
 id: 168567
 date: 2025-02-03
-title: What historical context surrounds the Gettysburg Address and its impact on American history?
-article_title: What historical context surrounds the Gettysburg Address and its impact on American history?
+title: >-
+    What historical context surrounds the Gettysburg Address and its impact on American history?
+article_title: >-
+    What historical context surrounds the Gettysburg Address and its impact on American history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-historical-context-surrounds-the-gettysburg-address-and-its-impa
 url: /learn/art-history-and-literature/questions/what-historical-context-surrounds-the-gettysburg-address-and-its-impact-on-american-history
 score: 9.0
 related_article1:
-    id: 168574
-    title: How do allusions in historical texts enhance meaning and context?
+    id: 168565
+    title: >-
+        What are the key characteristics that define a seminal document?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
 related_article2:
-    id: 168572
-    title: How does word choice in seminal documents affect tone and meaning?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
-related_article3:
-    id: 168571
-    title: What are the legal and social perspectives of justice as depicted in seminal texts?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
-related_article4:
-    id: 168582
-    title: How are American ideals represented in seminal texts, and how have they evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
-related_article5:
     id: 168584
-    title: How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
+    title: >-
+        How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
+related_article3:
+    id: 168578
+    title: >-
+        How does tone shape the understanding of seminal documents?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
+related_article4:
+    id: 168580
+    title: >-
+        How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
+related_article5:
+    id: 168577
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 ---
 
 &nbsp;

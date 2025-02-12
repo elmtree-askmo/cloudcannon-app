@@ -2,8 +2,10 @@
 _schema: default
 id: 165501
 date: 2025-01-29
-title: What are some reflective practices that can enhance learning?
-article_title: What are some reflective practices that can enhance learning?
+title: >-
+    What are some reflective practices that can enhance learning?
+article_title: >-
+    What are some reflective practices that can enhance learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-reflective-practices-that-can-enhance-learning.md
 url: /learn/education-studies/questions/what-are-some-reflective-practices-that-can-enhance-learning
 score: -1.0
 related_article1:
+    id: 165488
+    title: >-
+        How can one transition from lower order to higher order learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-one-transition-from-lower-order-to-higher-order-learning
+related_article2:
     id: 165504
-    title: What approaches can be taken to promote lifelong learning?
+    title: >-
+        What approaches can be taken to promote lifelong learning?
     subject: Education Studies
     url: /learn/education-studies/questions/what-approaches-can-be-taken-to-promote-lifelong-learning
-related_article2:
-    id: 165489
-    title: What techniques can be used to enhance information retention?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-enhance-information-retention
 related_article3:
-    id: 165489
-    title: What techniques can be used to enhance information retention?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-enhance-information-retention
-related_article4:
     id: 165485
-    title: How do memory and recall contribute to cognitive processes?
+    title: >-
+        How do memory and recall contribute to cognitive processes?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-memory-and-recall-contribute-to-cognitive-processes
-related_article5:
-    id: 165500
-    title: How can collaborative learning contribute to a better learning experience?
+related_article4:
+    id: 165488
+    title: >-
+        How can one transition from lower order to higher order learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-collaborative-learning-contribute-to-a-better-learning-experience
+    url: /learn/education-studies/questions/how-can-one-transition-from-lower-order-to-higher-order-learning
+related_article5:
+    id: 165475
+    title: >-
+        What is higher order learning and why is it important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-higher-order-learning-and-why-is-it-important
 ---
 
 &nbsp;

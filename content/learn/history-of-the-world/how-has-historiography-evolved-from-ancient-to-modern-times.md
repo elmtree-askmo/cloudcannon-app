@@ -2,8 +2,10 @@
 _schema: default
 id: 166233
 date: 2025-01-29
-title: How has historiography evolved from ancient to modern times?
-article_title: How has historiography evolved from ancient to modern times?
+title: >-
+    How has historiography evolved from ancient to modern times?
+article_title: >-
+    How has historiography evolved from ancient to modern times?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-historiography-evolved-from-ancient-to-modern-times.md
 url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
 score: 9.0
 related_article1:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
+    id: 166214
+    title: >-
+        How has classical Arabic literature influenced modern Arabic literature?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+    url: /learn/history-of-the-world/questions/how-has-classical-arabic-literature-influenced-modern-arabic-literature
 related_article2:
-    id: 166220
-    title: What are the main challenges associated with the interpretation of primary sources?
+    id: 166231
+    title: >-
+        What were the key technological innovations in ancient civilizations, and how did they impact their development?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-associated-with-the-interpretation-of-primary-sources
+    url: /learn/history-of-the-world/questions/what-were-the-key-technological-innovations-in-ancient-civilizations-and-how-did-they-impact-their-development
 related_article3:
-    id: 166215
-    title: What are the primary benefits of using iClicker technology in educational settings?
+    id: 166242
+    title: >-
+        What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
+    url: /learn/history-of-the-world/questions/what-are-the-main-theories-and-debates-surrounding-human-evolution-and-migration-patterns-in-prehistory
 related_article4:
-    id: 166225
-    title: What are the main components of physical health that contribute to overall well-being?
+    id: 166239
+    title: >-
+        What are the challenges associated with the preservation and access of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
+    url: /learn/history-of-the-world/questions/what-are-the-challenges-associated-with-the-preservation-and-access-of-historical-documents
 related_article5:
-    id: 166232
-    title: How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
+    id: 166223
+    title: >-
+        What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-ancient-civilizations-like-mesopotamia-and-ancient-egypt-influence-modern-society
+    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
 ---
 
 &nbsp;

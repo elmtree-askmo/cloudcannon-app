@@ -2,8 +2,10 @@
 _schema: default
 id: 164468
 date: 2025-01-28
-title: How does functional specialization relate to neuropsychology and memory formation?
-article_title: How does functional specialization relate to neuropsychology and memory formation?
+title: >-
+    How does functional specialization relate to neuropsychology and memory formation?
+article_title: >-
+    How does functional specialization relate to neuropsychology and memory formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-functional-specialization-relate-to-neuropsychology-and-memo
 url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
 score: -1.0
 related_article1:
-    id: 164477
-    title: What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+    id: 164464
+    title: >-
+        How does aphantasia affect cognitive map strategy and navigation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
+    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
 related_article2:
     id: 164474
-    title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    title: >-
+        How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
 related_article3:
+    id: 164477
+    title: >-
+        What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
+related_article4:
+    id: 164473
+    title: >-
+        What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
+related_article5:
     id: 164463
-    title: What are the main differences between route-based and cognitive map navigation strategies?
+    title: >-
+        What are the main differences between route-based and cognitive map navigation strategies?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
-related_article4:
-    id: 164475
-    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
-related_article5:
-    id: 164465
-    title: What is the significance of interval and ratio scales in understanding metrics for relationships?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
 ---
 
 &nbsp;

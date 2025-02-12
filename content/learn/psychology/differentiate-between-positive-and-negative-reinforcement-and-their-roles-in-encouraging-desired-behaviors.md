@@ -2,8 +2,10 @@
 _schema: default
 id: 169343
 date: 2025-02-05
-title: Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
-article_title: Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+title: >-
+    Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
+article_title: >-
+    Differentiate between positive and negative reinforcement and their roles in encouraging desired behaviors.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-positive-and-negative-reinforcement-and-their-r
 url: /learn/psychology/questions/differentiate-between-positive-and-negative-reinforcement-and-their-roles-in-encouraging-desired-behaviors
 score: -1.0
 related_article1:
-    id: 169345
-    title: What are some effective communication strategies for addressing echolalia in individuals with ASD?
+    id: 169333
+    title: >-
+        What are some common causes of prompt dependency, and how can it be prevented?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-effective-communication-strategies-for-addressing-echolalia-in-individuals-with-asd
+    url: /learn/psychology/questions/what-are-some-common-causes-of-prompt-dependency-and-how-can-it-be-prevented
 related_article2:
-    id: 169347
-    title: Explain cognitive load theory and its implications for memory limitations in learning.
+    id: 169348
+    title: >-
+        What techniques are used in teaching new skills, and how do prompting and fading play a role?
     subject: Psychology
-    url: /learn/psychology/questions/explain-cognitive-load-theory-and-its-implications-for-memory-limitations-in-learning
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
 related_article3:
-    id: 169341
-    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    id: 169350
+    title: >-
+        What role does imitation play in social development, and how is it related to observational learning?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+    url: /learn/psychology/questions/what-role-does-imitation-play-in-social-development-and-how-is-it-related-to-observational-learning
 related_article4:
-    id: 169334
-    title: Describe systematic fading and time delay as techniques for fading prompts.
+    id: 169358
+    title: >-
+        What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
     subject: Psychology
-    url: /learn/psychology/questions/describe-systematic-fading-and-time-delay-as-techniques-for-fading-prompts
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
 related_article5:
-    id: 169331
-    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    id: 169351
+    title: >-
+        What are some strategies to improve social skills deficits in individuals with ASD?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+    url: /learn/psychology/questions/what-are-some-strategies-to-improve-social-skills-deficits-in-individuals-with-asd
 ---
 
 &nbsp;

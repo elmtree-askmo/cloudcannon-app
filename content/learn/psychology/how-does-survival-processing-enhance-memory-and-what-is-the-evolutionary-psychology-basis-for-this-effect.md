@@ -2,8 +2,10 @@
 _schema: default
 id: 165200
 date: 2025-01-28
-title: How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
-article_title: How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+title: >-
+    How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+article_title: >-
+    How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-survival-processing-enhance-memory-and-what-is-the-evolution
 url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
 score: -1.0
 related_article1:
-    id: 165207
-    title: How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    id: 165198
+    title: >-
+        What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
 related_article2:
-    id: 165206
-    title: What is factor analysis, and how is it used to identify underlying variables in psychological studies?
+    id: 165194
+    title: >-
+        What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-factor-analysis-and-how-is-it-used-to-identify-underlying-variables-in-psychological-studies
+    url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
 related_article3:
     id: 165207
-    title: How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    title: >-
+        How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
     subject: Psychology
     url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
 related_article4:
-    id: 165207
-    title: How can gender bias be identified in research, and what strategies can be implemented to mitigate its impact on study findings?
+    id: 165194
+    title: >-
+        What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-gender-bias-be-identified-in-research-and-what-strategies-can-be-implemented-to-mitigate-its-impact-on-study-findings
+    url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
 related_article5:
-    id: 165202
-    title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+    id: 165198
+    title: >-
+        What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161194
 date: 2025-01-24
-title: How does process flow ensure the correct sequence of actions in a program?
-article_title: How does process flow ensure the correct sequence of actions in a program?
+title: >-
+    How does process flow ensure the correct sequence of actions in a program?
+article_title: >-
+    How does process flow ensure the correct sequence of actions in a program?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-pro
 url: /learn/computer-science/questions/how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-program
 score: -1.0
 related_article1:
-    id: 161196
-    title: What is the significance of variables in data storage and manipulation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-variables-in-data-storage-and-manipulation
-related_article2:
-    id: 161486
-    title: Why are data types important in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
-related_article3:
-    id: 161195
-    title: Why are data types important in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
-related_article4:
-    id: 161475
-    title: How are input and output represented in a flowchart?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
-related_article5:
-    id: 161479
-    title: Differentiate between procedures and functions in subroutines.
+    id: 161188
+    title: >-
+        Differentiate between procedures and functions in subroutines.
     subject: Computer Science
     url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
+related_article2:
+    id: 161484
+    title: >-
+        What is iteration and how does it differ from simple repetition?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
+related_article3:
+    id: 161190
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+related_article4:
+    id: 161478
+    title: >-
+        What is string manipulation and why is it important in programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
+related_article5:
+    id: 161487
+    title: >-
+        What is the role of variables in data storage and manipulation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-variables-in-data-storage-and-manipulation
 ---
 
 &nbsp;

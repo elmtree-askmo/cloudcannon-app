@@ -2,8 +2,10 @@
 _schema: default
 id: 167889
 date: 2025-02-01
-title: Describe the process of transcription and translation in gene expression.
-article_title: Describe the process of transcription and translation in gene expression.
+title: >-
+    Describe the process of transcription and translation in gene expression.
+article_title: >-
+    Describe the process of transcription and translation in gene expression.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-transcription-and-translation-in-gene-express
 url: /learn/biology/questions/describe-the-process-of-transcription-and-translation-in-gene-expression
 score: -1.0
 related_article1:
-    id: 167892
-    title: What are the different blood types and how are they determined?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
-related_article2:
-    id: 167893
-    title: Explain the role of antigens in determining blood types.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
-related_article3:
     id: 167872
-    title: What is overdominance and how does it manifest in phenotypic outcomes?
+    title: >-
+        What is overdominance and how does it manifest in phenotypic outcomes?
     subject: Biology
     url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
+related_article2:
+    id: 167877
+    title: >-
+        Explain the concept of incomplete penetrance with an example.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
+related_article3:
+    id: 167869
+    title: >-
+        What is incomplete dominance and how does it differ from complete dominance?
+    subject: Biology
+    url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
 related_article4:
-    id: 167874
-    title: How do antigen variations contribute to blood type differences?
+    id: 167879
+    title: >-
+        What are the key symbols used in pedigree analysis and what do they represent?
     subject: Biology
-    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
 related_article5:
-    id: 167887
-    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    id: 167869
+    title: >-
+        What is incomplete dominance and how does it differ from complete dominance?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
+    url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
 ---
 
 &nbsp;

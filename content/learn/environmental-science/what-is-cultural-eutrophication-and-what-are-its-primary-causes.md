@@ -2,8 +2,10 @@
 _schema: default
 id: 169981
 date: 2025-02-05
-title: What is cultural eutrophication, and what are its primary causes?
-article_title: What is cultural eutrophication, and what are its primary causes?
+title: >-
+    What is cultural eutrophication, and what are its primary causes?
+article_title: >-
+    What is cultural eutrophication, and what are its primary causes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-cultural-eutrophication-and-what-are-its-primary-causes.md
 url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
 score: -1.0
 related_article1:
-    id: 169975
-    title: What are the effects of global climate change on the seasonal variations of water temperature in freshwater lakes?
+    id: 169973
+    title: >-
+        What are the key roles of long-term ecological research areas in understanding global climate change?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-effects-of-global-climate-change-on-the-seasonal-variations-of-water-temperature-in-freshwater-lakes
+    url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
 related_article2:
-    id: 169988
-    title: What is the historical significance of the Experimental Lakes Area in ecological research?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-is-the-historical-significance-of-the-experimental-lakes-area-in-ecological-research
-related_article3:
     id: 169975
-    title: What are the effects of global climate change on the seasonal variations of water temperature in freshwater lakes?
+    title: >-
+        What are the effects of global climate change on the seasonal variations of water temperature in freshwater lakes?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-are-the-effects-of-global-climate-change-on-the-seasonal-variations-of-water-temperature-in-freshwater-lakes
+related_article3:
+    id: 169977
+    title: >-
+        What are the primary techniques used in hydrological measurements for environmental science data collection?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-are-the-primary-techniques-used-in-hydrological-measurements-for-environmental-science-data-collection
 related_article4:
+    id: 169985
+    title: >-
+        How does climate change affect biodiversity in forest ecosystems?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/how-does-climate-change-affect-biodiversity-in-forest-ecosystems
+related_article5:
     id: 169982
-    title: How do carbon and nitrogen cycles contribute to ecosystem productivity?
+    title: >-
+        How do carbon and nitrogen cycles contribute to ecosystem productivity?
     subject: Environmental Science
     url: /learn/environmental-science/questions/how-do-carbon-and-nitrogen-cycles-contribute-to-ecosystem-productivity
-related_article5:
-    id: 169974
-    title: How does the Hubbard Brook Ecosystem contribute to long-term ecological research?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/how-does-the-hubbard-brook-ecosystem-contribute-to-longterm-ecological-research
 ---
 
 &nbsp;

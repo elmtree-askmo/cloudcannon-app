@@ -2,8 +2,10 @@
 _schema: default
 id: 170295
 date: 2025-02-06
-title: How do plants contribute to carbon cycling in ecosystems?
-article_title: How do plants contribute to carbon cycling in ecosystems?
+title: >-
+    How do plants contribute to carbon cycling in ecosystems?
+article_title: >-
+    How do plants contribute to carbon cycling in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-plants-contribute-to-carbon-cycling-in-ecosystems.md
 url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
 score: -1.0
 related_article1:
-    id: 170300
-    title: What role do forests and oceans play as carbon sinks in the global carbon cycle?
+    id: 170305
+    title: >-
+        What is the difference between conceptual and mathematical carbon cycle models?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle
+    url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
 related_article2:
     id: 170308
-    title: What are some conservation efforts aimed at mitigating climate change?
+    title: >-
+        What are some conservation efforts aimed at mitigating climate change?
     subject: Biology
     url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
 related_article3:
-    id: 170298
-    title: What are the two main stages of photosynthesis, and where do they occur?
+    id: 170297
+    title: >-
+        Where in the cell does the Krebs cycle occur, and what is its primary function?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
 related_article4:
-    id: 170303
-    title: How does deforestation affect carbon release and habitat loss?
+    id: 170302
+    title: >-
+        What is the impact of fossil fuel emissions on climate change?
     subject: Biology
-    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
+    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
 related_article5:
-    id: 170305
-    title: What is the difference between conceptual and mathematical carbon cycle models?
+    id: 170306
+    title: >-
+        How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
+    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
 ---
 
 &nbsp;

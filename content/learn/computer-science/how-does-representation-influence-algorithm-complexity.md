@@ -2,8 +2,10 @@
 _schema: default
 id: 161012
 date: 2025-01-24
-title: How does representation influence algorithm complexity?
-article_title: How does representation influence algorithm complexity?
+title: >-
+    How does representation influence algorithm complexity?
+article_title: >-
+    How does representation influence algorithm complexity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-representation-influence-algorithm-complexity.md
 url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
 score: -1.0
 related_article1:
+    id: 160702
+    title: >-
+        What is the importance of time complexity in evaluating algorithm efficiency?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-importance-of-time-complexity-in-evaluating-algorithm-efficiency
+related_article2:
+    id: 161020
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
+    subject: Computer Science
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
+related_article3:
     id: 160764
-    title: What is the significance of understanding the origin of problems in computational problem solving?
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
-related_article2:
-    id: 161010
-    title: Describe the divide and conquer strategy in algorithm development.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
-related_article3:
-    id: 160709
-    title: What are the challenges associated with proving solutions in software testing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-proving-solutions-in-software-testing
 related_article4:
-    id: 160796
-    title: What data is required for generating circular calendars?
+    id: 160705
+    title: >-
+        Explain the concept of solvable vs. unsolvable problems in computability theory.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
+    url: /learn/computer-science/questions/explain-the-concept-of-solvable-vs-unsolvable-problems-in-computability-theory
 related_article5:
-    id: 160789
-    title: How do Turing machines contribute to the theoretical foundations of computability?
+    id: 161022
+    title: >-
+        What is the difference between solvable and unsolvable problems in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
+    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
 ---
 
 &nbsp;

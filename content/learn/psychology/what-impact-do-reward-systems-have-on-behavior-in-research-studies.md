@@ -2,8 +2,10 @@
 _schema: default
 id: 165225
 date: 2025-01-28
-title: What impact do reward systems have on behavior in research studies?
-article_title: What impact do reward systems have on behavior in research studies?
+title: >-
+    What impact do reward systems have on behavior in research studies?
+article_title: >-
+    What impact do reward systems have on behavior in research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-impact-do-reward-systems-have-on-behavior-in-research-studies.md
 url: /learn/psychology/questions/what-impact-do-reward-systems-have-on-behavior-in-research-studies
 score: -1.0
 related_article1:
-    id: 165210
-    title: What are the primary benefits of conducting a randomized control trial?
+    id: 165216
+    title: >-
+        What are some common mistakes to avoid in APA citation format?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
+    url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
 related_article2:
     id: 165218
-    title: What is semantic analysis and how does it enhance data interpretation in research?
+    title: >-
+        What is semantic analysis and how does it enhance data interpretation in research?
     subject: Psychology
     url: /learn/psychology/questions/what-is-semantic-analysis-and-how-does-it-enhance-data-interpretation-in-research
 related_article3:
-    id: 165216
-    title: What are some common mistakes to avoid in APA citation format?
+    id: 165209
+    title: >-
+        How do independent and dependent variables influence research design?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
+    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
 related_article4:
+    id: 165213
+    title: >-
+        Why is search term optimization crucial when using academic search engines?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-search-term-optimization-crucial-when-using-academic-search-engines
+related_article5:
     id: 165220
-    title: Why are abstracts important in academic papers and how do they guide research decisions?
+    title: >-
+        Why are abstracts important in academic papers and how do they guide research decisions?
     subject: Psychology
     url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
-related_article5:
-    id: 165211
-    title: What are the main features and benefits of using Google Scholar for academic research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research
 ---
 
 &nbsp;

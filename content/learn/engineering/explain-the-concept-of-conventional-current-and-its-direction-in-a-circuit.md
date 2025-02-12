@@ -2,8 +2,10 @@
 _schema: default
 id: 167936
 date: 2025-02-02
-title: Explain the concept of conventional current and its direction in a circuit.
-article_title: Explain the concept of conventional current and its direction in a circuit.
+title: >-
+    Explain the concept of conventional current and its direction in a circuit.
+article_title: >-
+    Explain the concept of conventional current and its direction in a circuit.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-conventional-current-and-its-direction-in-a-ci
 url: /learn/engineering/questions/explain-the-concept-of-conventional-current-and-its-direction-in-a-circuit
 score: -1.0
 related_article1:
-    id: 167949
-    title: Why is circuit analysis important in electrical engineering?
+    id: 167945
+    title: >-
+        What is electrical potential and why is it important in circuits?
     subject: Engineering
-    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+    url: /learn/engineering/questions/what-is-electrical-potential-and-why-is-it-important-in-circuits
 related_article2:
     id: 167942
-    title: What is the difference between power absorbed and power delivered in resistors?
+    title: >-
+        What is the difference between power absorbed and power delivered in resistors?
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
 related_article3:
-    id: 167947
-    title: What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    id: 167941
+    title: >-
+        Describe Kirchhoff's Voltage Law and its application in circuit analysis.
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
 related_article4:
-    id: 167933
-    title: What is the effect of adding resistors in series on the total resistance of the circuit?
+    id: 167935
+    title: >-
+        What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
+    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
 related_article5:
-    id: 167934
-    title: How does current flow differ between series and parallel circuits?
+    id: 167941
+    title: >-
+        Describe Kirchhoff's Voltage Law and its application in circuit analysis.
     subject: Engineering
-    url: /learn/engineering/questions/how-does-current-flow-differ-between-series-and-parallel-circuits
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
 ---
 
 &nbsp;

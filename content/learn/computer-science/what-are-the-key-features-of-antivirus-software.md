@@ -2,8 +2,10 @@
 _schema: default
 id: 161458
 date: 2025-01-24
-title: What are the key features of anti-virus software?
-article_title: What are the key features of anti-virus software?
+title: >-
+    What are the key features of anti-virus software?
+article_title: >-
+    What are the key features of anti-virus software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-features-of-antivirus-software.md
 url: /learn/computer-science/questions/what-are-the-key-features-of-antivirus-software
 score: -1.0
 related_article1:
-    id: 161256
-    title: What distinguishes a virus from a worm in terms of malware?
+    id: 161251
+    title: >-
+        How can strong passwords help prevent identity theft?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
+    url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
 related_article2:
-    id: 161470
-    title: What are the benefits of using a personal VPN?
+    id: 161264
+    title: >-
+        What are the benefits of using a personal VPN?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
 related_article3:
-    id: 161452
-    title: What are some examples of basic identification information considered as personal data?
+    id: 161246
+    title: >-
+        What are some examples of basic identification information considered as personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
 related_article4:
-    id: 161254
-    title: What is the primary purpose of a firewall in cybersecurity?
+    id: 161468
+    title: >-
+        What are the advantages of using biometric security for authentication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
 related_article5:
-    id: 161264
-    title: What are the benefits of using a personal VPN?
+    id: 161464
+    title: >-
+        How can ransomware be prevented and removed?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
+    url: /learn/computer-science/questions/how-can-ransomware-be-prevented-and-removed
 ---
 
 &nbsp;

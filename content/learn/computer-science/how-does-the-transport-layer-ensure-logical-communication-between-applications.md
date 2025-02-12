@@ -2,8 +2,10 @@
 _schema: default
 id: 165765
 date: 2025-01-29
-title: How does the transport layer ensure logical communication between applications?
-article_title: How does the transport layer ensure logical communication between applications?
+title: >-
+    How does the transport layer ensure logical communication between applications?
+article_title: >-
+    How does the transport layer ensure logical communication between applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-transport-layer-ensure-logical-communication-between-app
 url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
 score: -1.0
 related_article1:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
+    id: 165784
+    title: >-
+        What is the process of the three-way handshake in TCP connection establishment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
+    url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
 related_article2:
+    id: 165785
+    title: >-
+        How does UDP handle port number assignment and datagram forwarding?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
+related_article3:
+    id: 165773
+    title: >-
+        What is the significance of the simplicity and low overhead of the UDP header?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
+related_article4:
     id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
+    title: >-
+        What are the differences between well-known, registered, and private port numbers?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
-related_article3:
-    id: 165769
-    title: How does data segmentation enable multiple conversations in network communication?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
-related_article4:
-    id: 165770
-    title: What are the basic operations of the TCP protocol in managing data transmission?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
 related_article5:
-    id: 165772
-    title: What are the key features of the UDP protocol that differentiate it from TCP?
+    id: 165785
+    title: >-
+        How does UDP handle port number assignment and datagram forwarding?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
 ---
 
 &nbsp;

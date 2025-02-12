@@ -2,8 +2,10 @@
 _schema: default
 id: 169083
 date: 2025-02-04
-title: How do swarming tactics differ from traditional military tactics in urban warfare?
-article_title: How do swarming tactics differ from traditional military tactics in urban warfare?
+title: >-
+    How do swarming tactics differ from traditional military tactics in urban warfare?
+article_title: >-
+    How do swarming tactics differ from traditional military tactics in urban warfare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-swarming-tactics-differ-from-traditional-military-tactics-in-u
 url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
 score: 9.0
 related_article1:
-    id: 169082
-    title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
+    id: 169085
+    title: >-
+        What role does spatial reinterpretation play in urban combat strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
+    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
 related_article2:
-    id: 169097
-    title: How is theoretical language in warfare applied in contemporary military doctrine?
+    id: 169088
+    title: >-
+        What is the significance of geopolitical architecture in the military-architectural relationship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
 related_article3:
-    id: 169099
-    title: How does urban infrastructure analysis contribute to urban combat strategies?
+    id: 169101
+    title: >-
+        How does geopolitical architecture affect urban infrastructure analysis?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
 related_article4:
-    id: 169098
-    title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
+    id: 169100
+    title: >-
+        What is the impact of conflict on military architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
+    url: /learn/history-of-the-world/questions/what-is-the-impact-of-conflict-on-military-architecture
 related_article5:
-    id: 169093
-    title: What are the characteristics of non-linear warfare in military tactics?
+    id: 169096
+    title: >-
+        Discuss the ethical implications of warfare in contemporary military doctrine.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
+    url: /learn/history-of-the-world/questions/discuss-the-ethical-implications-of-warfare-in-contemporary-military-doctrine
 ---
 
 &nbsp;

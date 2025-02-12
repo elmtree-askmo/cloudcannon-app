@@ -2,8 +2,10 @@
 _schema: default
 id: 163326
 date: 2025-01-26
-title: How is the numerator used in measures of disease frequency determined?
-article_title: How is the numerator used in measures of disease frequency determined?
+title: >-
+    How is the numerator used in measures of disease frequency determined?
+article_title: >-
+    How is the numerator used in measures of disease frequency determined?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 score: -1.0
 related_article1:
-    id: 163332
-    title: How is prevalence calculated, and what does it indicate about a population?
+    id: 163237
+    title: >-
+        What are the limitations of using person-years of observation in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
 related_article2:
-    id: 163346
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
+    id: 163227
+    title: >-
+        What is the significance of measuring disease frequency over a consistent time interval?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
+    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
 related_article3:
-    id: 163336
-    title: What is the relationship between prevalence, incidence rate, and disease duration?
+    id: 163077
+    title: >-
+        How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
 related_article4:
-    id: 163245
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
+    id: 163338
+    title: >-
+        What are the limitations of using person-years of observation in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
 related_article5:
-    id: 163075
-    title: How do absolute measures of association differ from relative measures in epidemiology?
+    id: 163286
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-absolute-measures-of-association-differ-from-relative-measures-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
 ---
 
 &nbsp;

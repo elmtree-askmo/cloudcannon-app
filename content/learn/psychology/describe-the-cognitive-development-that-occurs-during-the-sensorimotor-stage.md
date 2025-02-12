@@ -2,8 +2,10 @@
 _schema: default
 id: 168093
 date: 2025-02-02
-title: Describe the cognitive development that occurs during the sensorimotor stage.
-article_title: Describe the cognitive development that occurs during the sensorimotor stage.
+title: >-
+    Describe the cognitive development that occurs during the sensorimotor stage.
+article_title: >-
+    Describe the cognitive development that occurs during the sensorimotor stage.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-cognitive-development-that-occurs-during-the-sensorimoto
 url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
 score: -1.0
 related_article1:
-    id: 168099
-    title: What is the significance of tertiary circular reactions in cognitive development?
+    id: 168097
+    title: >-
+        At what age do secondary circular reactions typically develop?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
 related_article2:
-    id: 168107
-    title: Explain how exploration and learning through actions interact with the environment.
+    id: 168092
+    title: >-
+        What is the age range for the sensorimotor stage in cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 related_article3:
-    id: 168098
-    title: Explain the coordination of secondary circular reactions and provide an example.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
-related_article4:
-    id: 168102
-    title: At what age do children typically develop object permanence?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
-related_article5:
     id: 168094
-    title: What are primary circular reactions, and at what age do they typically occur?
+    title: >-
+        What are primary circular reactions, and at what age do they typically occur?
     subject: Psychology
     url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
+related_article4:
+    id: 168096
+    title: >-
+        What distinguishes secondary circular reactions from primary circular reactions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
+related_article5:
+    id: 168107
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 ---
 
 &nbsp;

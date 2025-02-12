@@ -2,8 +2,10 @@
 _schema: default
 id: 166419
 date: 2025-01-30
-title: What biological processes are involved in the mechanisms of animal behavior?
-article_title: What biological processes are involved in the mechanisms of animal behavior?
+title: >-
+    What biological processes are involved in the mechanisms of animal behavior?
+article_title: >-
+    What biological processes are involved in the mechanisms of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-biological-processes-are-involved-in-the-mechanisms-of-animal-be
 url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
 score: -1.0
 related_article1:
-    id: 166398
-    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    id: 166421
+    title: >-
+        How does the genetic component of behavior influence evolutionary processes?
     subject: Psychology
-    url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
 related_article2:
-    id: 166404
-    title: What are the main types of learning and how do they influence animal behavior?
+    id: 166416
+    title: >-
+        Explain the differences between directional, stabilizing, and disruptive selection.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-types-of-learning-and-how-do-they-influence-animal-behavior
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
 related_article3:
-    id: 166412
-    title: Describe the role of mutation in genetic variation and evolution.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
-related_article4:
     id: 166414
-    title: How does migration impact genetic diversity and population dynamics?
+    title: >-
+        How does migration impact genetic diversity and population dynamics?
     subject: Psychology
     url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
-related_article5:
-    id: 166410
-    title: What are the sources of genetic variation and why are they important for evolution?
+related_article4:
+    id: 166399
+    title: >-
+        Differentiate between proximate and ultimate explanations in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article5:
+    id: 166407
+    title: >-
+        Summarize Darwin's four postulates and their relevance to natural selection.
+    subject: Psychology
+    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
 ---
 
 &nbsp;

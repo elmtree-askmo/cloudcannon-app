@@ -2,8 +2,10 @@
 _schema: default
 id: 164977
 date: 2025-01-28
-title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
-article_title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+title: >-
+    Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+article_title: >-
+    Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-i
 url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
 score: -1.0
 related_article1:
-    id: 164957
-    title: Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
+    id: 164963
+    title: >-
+        Differentiate between developmental dysgraphia and acquired dysgraphia.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
+    url: /learn/psychology/questions/differentiate-between-developmental-dysgraphia-and-acquired-dysgraphia
 related_article2:
-    id: 164979
-    title: How does the right hemisphere contribute to the causes of deep dyslexia?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
-related_article3:
     id: 164968
-    title: What are the challenges of irregular spelling in relation to surface alexia?
+    title: >-
+        What are the challenges of irregular spelling in relation to surface alexia?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
-related_article4:
-    id: 164970
-    title: Describe the phonological and logographic systems of the Japanese language structure.
+related_article3:
+    id: 164963
+    title: >-
+        Differentiate between developmental dysgraphia and acquired dysgraphia.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
-related_article5:
+    url: /learn/psychology/questions/differentiate-between-developmental-dysgraphia-and-acquired-dysgraphia
+related_article4:
     id: 164961
-    title: What is the direct route to reading, and how does it relate to surface alexia?
+    title: >-
+        What is the direct route to reading, and how does it relate to surface alexia?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
+related_article5:
+    id: 164958
+    title: >-
+        Explain the phonological route to reading and how it relates to phonological dyslexia.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
 ---
 
 &nbsp;

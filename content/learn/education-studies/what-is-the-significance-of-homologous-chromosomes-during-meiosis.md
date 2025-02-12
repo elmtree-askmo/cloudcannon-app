@@ -2,8 +2,10 @@
 _schema: default
 id: 167918
 date: 2025-02-01
-title: What is the significance of homologous chromosomes during meiosis?
-article_title: What is the significance of homologous chromosomes during meiosis?
+title: >-
+    What is the significance of homologous chromosomes during meiosis?
+article_title: >-
+    What is the significance of homologous chromosomes during meiosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-homologous-chromosomes-during-meiosis.md
 url: /learn/education-studies/questions/what-is-the-significance-of-homologous-chromosomes-during-meiosis
 score: -1.0
 related_article1:
+    id: 167915
+    title: >-
+        How does cytokinesis differ between plant and animal cells?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-cytokinesis-differ-between-plant-and-animal-cells
+related_article2:
+    id: 167931
+    title: >-
+        What is crossing over and how does it contribute to genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
+related_article3:
+    id: 167932
+    title: >-
+        Explain the process of independent assortment and its genetic significance.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-process-of-independent-assortment-and-its-genetic-significance
+related_article4:
     id: 167924
-    title: What is the significance of phenotypic and genotypic ratios in genetic crosses?
+    title: >-
+        What is the significance of phenotypic and genotypic ratios in genetic crosses?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-phenotypic-and-genotypic-ratios-in-genetic-crosses
-related_article2:
+related_article5:
     id: 167922
-    title: What is the difference between homozygous and heterozygous genotypes?
+    title: >-
+        What is the difference between homozygous and heterozygous genotypes?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-homozygous-and-heterozygous-genotypes
-related_article3:
-    id: 167914
-    title: What are the main phases of mitosis and what occurs during each phase?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
-related_article4:
-    id: 167916
-    title: What are the key differences between mitosis and meiosis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mitosis-and-meiosis
-related_article5:
-    id: 167924
-    title: What is the significance of phenotypic and genotypic ratios in genetic crosses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-phenotypic-and-genotypic-ratios-in-genetic-crosses
 ---
 
 &nbsp;

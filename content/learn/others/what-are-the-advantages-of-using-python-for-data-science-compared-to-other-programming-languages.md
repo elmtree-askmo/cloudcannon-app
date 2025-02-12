@@ -2,8 +2,10 @@
 _schema: default
 id: 162724
 date: 2025-01-25
-title: What are the advantages of using Python for data science compared to other programming languages?
-article_title: What are the advantages of using Python for data science compared to other programming languages?
+title: >-
+    What are the advantages of using Python for data science compared to other programming languages?
+article_title: >-
+    What are the advantages of using Python for data science compared to other programming languages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-python-for-data-science-compared-to-
 url: /learn/others/questions/what-are-the-advantages-of-using-python-for-data-science-compared-to-other-programming-languages
 score: -1.0
 related_article1:
-    id: 162374
-    title: What principles of user experience design ensure usability and accessibility?
+    id: 162726
+    title: >-
+        What are the key components of an information system, and how do they interact?
     subject: Others
-    url: /learn/others/questions/what-principles-of-user-experience-design-ensure-usability-and-accessibility
+    url: /learn/others/questions/what-are-the-key-components-of-an-information-system-and-how-do-they-interact
 related_article2:
-    id: 162456
-    title: How do Hadoop and Spark differ in their approach to big data processing?
+    id: 162367
+    title: >-
+        How do relational databases differ from NoSQL databases, and what are their respective use cases?
     subject: Others
-    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
+    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-and-what-are-their-respective-use-cases
 related_article3:
-    id: 162770
-    title: What distinguishes supervised learning from unsupervised learning in machine learning?
-    subject: Others
-    url: /learn/others/questions/what-distinguishes-supervised-learning-from-unsupervised-learning-in-machine-learning
-related_article4:
-    id: 162714
-    title: What are the best practices for creating effective data visualizations?
-    subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
-related_article5:
     id: 162362
-    title: How is hypothesis testing used in inferential statistics, and what are its applications?
+    title: >-
+        How is hypothesis testing used in inferential statistics, and what are its applications?
     subject: Others
     url: /learn/others/questions/how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are-its-applications
+related_article4:
+    id: 162774
+    title: >-
+        What are the best practices for creating effective data visualizations using tools like Tableau and Power BI?
+    subject: Others
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations-using-tools-like-tableau-and-power-bi
+related_article5:
+    id: 162654
+    title: >-
+        What are the best practices for creating effective data visualizations?
+    subject: Others
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
 ---
 
 &nbsp;

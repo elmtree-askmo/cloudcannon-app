@@ -2,8 +2,10 @@
 _schema: default
 id: 165770
 date: 2025-01-29
-title: What are the basic operations of the TCP protocol in managing data transmission?
-article_title: What are the basic operations of the TCP protocol in managing data transmission?
+title: >-
+    What are the basic operations of the TCP protocol in managing data transmission?
+article_title: >-
+    What are the basic operations of the TCP protocol in managing data transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-tr
 url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
 score: -1.0
 related_article1:
+    id: 165769
+    title: >-
+        How does data segmentation enable multiple conversations in network communication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
+related_article2:
+    id: 165784
+    title: >-
+        What is the process of the three-way handshake in TCP connection establishment?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
+related_article3:
+    id: 165782
+    title: >-
+        What are the trade-offs between low overhead and reliability in UDP communication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
+related_article4:
     id: 165766
-    title: What are the main responsibilities of the transport layer in data communication?
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
-related_article2:
-    id: 165786
-    title: What is the purpose of selective acknowledgment (SACK) in TCP?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
-related_article3:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
-related_article4:
-    id: 165768
-    title: What is the difference between TCP and UDP in terms of reliability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
 related_article5:
-    id: 165787
-    title: How does TCP handle congestion control using timers and algorithms?
+    id: 165779
+    title: >-
+        What information is contained in the TCP header fields related to sequence and acknowledgment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-handle-congestion-control-using-timers-and-algorithms
+    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 ---
 
 &nbsp;

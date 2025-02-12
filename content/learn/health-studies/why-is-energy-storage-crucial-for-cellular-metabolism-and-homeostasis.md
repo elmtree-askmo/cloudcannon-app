@@ -2,8 +2,10 @@
 _schema: default
 id: 167110
 date: 2025-01-31
-title: Why is energy storage crucial for cellular metabolism and homeostasis?
-article_title: Why is energy storage crucial for cellular metabolism and homeostasis?
+title: >-
+    Why is energy storage crucial for cellular metabolism and homeostasis?
+article_title: >-
+    Why is energy storage crucial for cellular metabolism and homeostasis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
 url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
 score: -1.0
 related_article1:
-    id: 167106
-    title: What roles do enzymes play in catalysis and reaction facilitation?
+    id: 167113
+    title: >-
+        How does amino acid classification affect protein function and interaction?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
+    url: /learn/health-studies/questions/how-does-amino-acid-classification-affect-protein-function-and-interaction
 related_article2:
-    id: 167088
-    title: Why are functional groups important in biological molecules?
+    id: 167111
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 related_article3:
-    id: 167088
-    title: Why are functional groups important in biological molecules?
+    id: 167100
+    title: >-
+        How are monosaccharides classified based on carbon number and functional group?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+    url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
 related_article4:
-    id: 167096
-    title: How are glycosidic bonds formed in carbohydrates?
+    id: 167103
+    title: >-
+        How do functional groups influence the chemical properties of molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
+    url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
 related_article5:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
+    id: 167094
+    title: >-
+        How do dehydration reactions and hydrolysis reactions differ in the polymerization process?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
+    url: /learn/health-studies/questions/how-do-dehydration-reactions-and-hydrolysis-reactions-differ-in-the-polymerization-process
 ---
 
 &nbsp;

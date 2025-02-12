@@ -2,8 +2,10 @@
 _schema: default
 id: 166504
 date: 2025-01-30
-title: Why is medication reconciliation important during patient admission and discharge?
-article_title: Why is medication reconciliation important during patient admission and discharge?
+title: >-
+    Why is medication reconciliation important during patient admission and discharge?
+article_title: >-
+    Why is medication reconciliation important during patient admission and discharge?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-medication-reconciliation-important-during-patient-admission-a
 url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 score: -1.0
 related_article1:
-    id: 166510
-    title: How do pharmacokinetic and pharmacodynamic interactions differ?
+    id: 166489
+    title: >-
+        What is the primary purpose of trough level monitoring in antibiotics?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 related_article2:
-    id: 166498
-    title: How do biologic drugs contribute to the treatment of immune-related disorders?
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
 related_article3:
-    id: 166507
-    title: How do healthcare providers monitor adverse effects to ensure drug safety?
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 related_article4:
-    id: 166513
-    title: Why is patient education important in medication adherence and safety?
+    id: 166494
+    title: >-
+        Explain the concept of drug-receptor interactions in pharmacodynamics.
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
 related_article5:
-    id: 166502
-    title: What are the requirements for drug labeling under FDA regulations?
+    id: 166490
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+    url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 ---
 
 &nbsp;

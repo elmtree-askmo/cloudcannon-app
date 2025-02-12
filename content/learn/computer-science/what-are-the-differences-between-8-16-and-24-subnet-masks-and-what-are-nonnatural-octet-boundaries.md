@@ -2,8 +2,10 @@
 _schema: default
 id: 165690
 date: 2025-01-29
-title: What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
-article_title: What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
+title: >-
+    What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
+article_title: >-
+    What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-8-16-and-24-subnet-masks-and-what-ar
 url: /learn/computer-science/questions/what-are-the-differences-between-8-16-and-24-subnet-masks-and-what-are-nonnatural-octet-boundaries
 score: -1.0
 related_article1:
-    id: 165696
-    title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
-    subject: Computer Science
-    url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
-related_article2:
     id: 165698
-    title: Describe the prefix and address range of Class B IPv4 addresses.
+    title: >-
+        Describe the prefix and address range of Class B IPv4 addresses.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
+related_article2:
+    id: 165687
+    title: >-
+        What is a subnet mask, and how does it define the network and host portions of an IPv4 address?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-subnet-mask-and-how-does-it-define-the-network-and-host-portions-of-an-ipv4-address
 related_article3:
-    id: 165693
-    title: Define broadcast transmission and explain the concept of directed broadcast.
+    id: 165688
+    title: >-
+        Explain the binary representation of a subnet mask and how it divides the network.
     subject: Computer Science
-    url: /learn/computer-science/questions/define-broadcast-transmission-and-explain-the-concept-of-directed-broadcast
+    url: /learn/computer-science/questions/explain-the-binary-representation-of-a-subnet-mask-and-how-it-divides-the-network
 related_article4:
-    id: 165692
-    title: What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
+    id: 165688
+    title: >-
+        Explain the binary representation of a subnet mask and how it divides the network.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-unicast-transmission-and-how-does-it-differ-from-broadcast-and-multicast-transmissions
+    url: /learn/computer-science/questions/explain-the-binary-representation-of-a-subnet-mask-and-how-it-divides-the-network
 related_article5:
-    id: 165696
-    title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+    id: 165695
+    title: >-
+        What are the differences between public and private IPv4 addresses, and what are the private address blocks?
     subject: Computer Science
-    url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
+    url: /learn/computer-science/questions/what-are-the-differences-between-public-and-private-ipv4-addresses-and-what-are-the-private-address-blocks
 ---
 
 &nbsp;

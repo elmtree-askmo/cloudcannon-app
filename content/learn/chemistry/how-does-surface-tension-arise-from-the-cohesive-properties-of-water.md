@@ -2,8 +2,10 @@
 _schema: default
 id: 166989
 date: 2025-01-31
-title: How does surface tension arise from the cohesive properties of water?
-article_title: How does surface tension arise from the cohesive properties of water?
+title: >-
+    How does surface tension arise from the cohesive properties of water?
+article_title: >-
+    How does surface tension arise from the cohesive properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-surface-tension-arise-from-the-cohesive-properties-of-water.
 url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
 score: -1.0
 related_article1:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article2:
+    id: 166999
+    title: >-
+        Why is water considered a universal solvent?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent
+related_article3:
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+related_article4:
     id: 166994
-    title: What is the function of the bicarbonate buffer system in human blood?
+    title: >-
+        What is the function of the bicarbonate buffer system in human blood?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
-related_article2:
-    id: 167000
-    title: How do cohesive forces contribute to the formation of water droplets?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
-related_article3:
-    id: 166990
-    title: What is capillary action and how does it relate to adhesion?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-capillary-action-and-how-does-it-relate-to-adhesion
-related_article4:
-    id: 166986
-    title: What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
 related_article5:
-    id: 167000
-    title: How do cohesive forces contribute to the formation of water droplets?
+    id: 166988
+    title: >-
+        What is the role of hydration shells in the solvent properties of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
+    url: /learn/chemistry/questions/what-is-the-role-of-hydration-shells-in-the-solvent-properties-of-water
 ---
 
 &nbsp;

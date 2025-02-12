@@ -2,8 +2,10 @@
 _schema: default
 id: 169234
 date: 2025-02-04
-title: How did the introduction of women's suffrage impact voting rights historically?
-article_title: How did the introduction of women's suffrage impact voting rights historically?
+title: >-
+    How did the introduction of women's suffrage impact voting rights historically?
+article_title: >-
+    How did the introduction of women's suffrage impact voting rights historically?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-introduction-of-womens-suffrage-impact-voting-rights-hist
 url: /learn/history-of-the-world/questions/how-did-the-introduction-of-womens-suffrage-impact-voting-rights-historically
 score: 9.0
 related_article1:
-    id: 169240
-    title: How does strategic voting affect election outcomes?
+    id: 169232
+    title: >-
+        How do fixed election dates differ between the federal and provincial systems in Canada?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-strategic-voting-affect-election-outcomes
+    url: /learn/history-of-the-world/questions/how-do-fixed-election-dates-differ-between-the-federal-and-provincial-systems-in-canada
 related_article2:
-    id: 169244
-    title: How is the electoral quotient calculated, and what is its purpose in political representation?
+    id: 169232
+    title: >-
+        How do fixed election dates differ between the federal and provincial systems in Canada?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-the-electoral-quotient-calculated-and-what-is-its-purpose-in-political-representation
+    url: /learn/history-of-the-world/questions/how-do-fixed-election-dates-differ-between-the-federal-and-provincial-systems-in-canada
 related_article3:
-    id: 169238
-    title: What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
+    id: 169243
+    title: >-
+        What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-distinguishes-the-major-political-parties-in-canada-such-as-the-liberal-and-conservative-parties-from-regional-parties-like-the-bloc-qubcois
+    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
 related_article4:
-    id: 169236
-    title: How does the First Past the Post system differ from a majority voting system?
+    id: 169241
+    title: >-
+        What are the main challenges faced by minority governments in forming coalitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-the-first-past-the-post-system-differ-from-a-majority-voting-system
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-by-minority-governments-in-forming-coalitions
 related_article5:
-    id: 169231
-    title: What is the primary purpose of an election system in linking political authorities?
+    id: 169247
+    title: >-
+        What are some recent trends in the Canadian political landscape that could influence future election projections?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-primary-purpose-of-an-election-system-in-linking-political-authorities
+    url: /learn/history-of-the-world/questions/what-are-some-recent-trends-in-the-canadian-political-landscape-that-could-influence-future-election-projections
 ---
 
 &nbsp;

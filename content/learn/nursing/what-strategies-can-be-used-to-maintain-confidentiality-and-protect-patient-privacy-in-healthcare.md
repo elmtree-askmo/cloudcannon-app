@@ -2,8 +2,10 @@
 _schema: default
 id: 169483
 date: 2025-02-05
-title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
-article_title: What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+title: >-
+    What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
+article_title: >-
+    What strategies can be used to maintain confidentiality and protect patient privacy in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-used-to-maintain-confidentiality-and-protect-p
 url: /learn/nursing/questions/what-strategies-can-be-used-to-maintain-confidentiality-and-protect-patient-privacy-in-healthcare
 score: -1.0
 related_article1:
-    id: 169475
-    title: What is the definition of patient dignity and why is it important in healthcare?
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
 related_article2:
-    id: 169475
-    title: What is the definition of patient dignity and why is it important in healthcare?
+    id: 169492
+    title: >-
+        What types of assistive devices are used in patient care, and how should they be used safely?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
 related_article3:
-    id: 169495
-    title: Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
 related_article4:
-    id: 169477
-    title: Why is effective communication crucial in addressing patient needs?
+    id: 169484
+    title: >-
+        What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
 related_article5:
-    id: 169486
-    title: How can healthcare providers address patient concerns and provide reassurance?
+    id: 169480
+    title: >-
+        What factors affect skin health, and what are proper skin care techniques in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-address-patient-concerns-and-provide-reassurance
+    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
 ---
 
 &nbsp;

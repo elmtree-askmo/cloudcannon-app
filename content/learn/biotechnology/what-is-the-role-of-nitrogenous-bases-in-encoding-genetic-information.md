@@ -2,8 +2,10 @@
 _schema: default
 id: 167534
 date: 2025-01-31
-title: What is the role of nitrogenous bases in encoding genetic information?
-article_title: What is the role of nitrogenous bases in encoding genetic information?
+title: >-
+    What is the role of nitrogenous bases in encoding genetic information?
+article_title: >-
+    What is the role of nitrogenous bases in encoding genetic information?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information
 url: /learn/biotechnology/questions/what-is-the-role-of-nitrogenous-bases-in-encoding-genetic-information
 score: -1.0
 related_article1:
-    id: 167535
-    title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
-related_article2:
-    id: 167536
-    title: Why is the 5’ to 3’ orientation important in nucleic acid replication and transcription?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-the-5-to-3-orientation-important-in-nucleic-acid-replication-and-transcription
-related_article3:
     id: 167531
-    title: How do phosphodiester bonds contribute to the structure of nucleic acid strands?
+    title: >-
+        How do phosphodiester bonds contribute to the structure of nucleic acid strands?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-phosphodiester-bonds-contribute-to-the-structure-of-nucleic-acid-strands
+related_article2:
+    id: 167532
+    title: >-
+        What are the base pairing rules for DNA, and why are they important for its structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
+related_article3:
+    id: 167528
+    title: >-
+        How does the single-stranded nature of RNA affect its function compared to DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna
 related_article4:
-    id: 167525
-    title: How does the antiparallel orientation of DNA strands contribute to its function?
+    id: 167532
+    title: >-
+        What are the base pairing rules for DNA, and why are they important for its structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
+    url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
 related_article5:
-    id: 167527
-    title: What are the key differences between the nucleotide components of RNA and DNA?
+    id: 167532
+    title: >-
+        What are the base pairing rules for DNA, and why are they important for its structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
+    url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
 ---
 
 &nbsp;

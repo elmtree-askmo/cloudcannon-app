@@ -2,8 +2,10 @@
 _schema: default
 id: 165773
 date: 2025-01-29
-title: What is the significance of the simplicity and low overhead of the UDP header?
-article_title: What is the significance of the simplicity and low overhead of the UDP header?
+title: >-
+    What is the significance of the simplicity and low overhead of the UDP header?
+article_title: >-
+    What is the significance of the simplicity and low overhead of the UDP header?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-ud
 url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
 score: -1.0
 related_article1:
-    id: 165765
-    title: How does the transport layer ensure logical communication between applications?
+    id: 165786
+    title: >-
+        What is the purpose of selective acknowledgment (SACK) in TCP?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
 related_article2:
-    id: 165769
-    title: How does data segmentation enable multiple conversations in network communication?
+    id: 165784
+    title: >-
+        What is the process of the three-way handshake in TCP connection establishment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
+    url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
 related_article3:
-    id: 165765
-    title: How does the transport layer ensure logical communication between applications?
+    id: 165782
+    title: >-
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 related_article4:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
+    id: 165764
+    title: >-
+        What is the primary role of the transport layer in network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
 related_article5:
-    id: 165771
-    title: How does TCP ensure reliable and same-order delivery of data?
+    id: 165783
+    title: >-
+        How does TCP use sequence numbers for data reassembly?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
+    url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-data-reassembly
 ---
 
 &nbsp;

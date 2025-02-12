@@ -2,8 +2,10 @@
 _schema: default
 id: 169966
 date: 2025-02-05
-title: What was the purpose of the Roman road network, and which were the major roads in Britain?
-article_title: What was the purpose of the Roman road network, and which were the major roads in Britain?
+title: >-
+    What was the purpose of the Roman road network, and which were the major roads in Britain?
+article_title: >-
+    What was the purpose of the Roman road network, and which were the major roads in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-purpose-of-the-roman-road-network-and-which-were-the-maj
 url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-roman-road-network-and-which-were-the-major-roads-in-britain
 score: 9.0
 related_article1:
-    id: 169968
-    title: What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
+    id: 169969
+    title: >-
+        According to Tacitus, what were the British attitudes towards Roman taxation and conscription?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-daily-life-and-military-operations-in-roman-britain
+    url: /learn/history-of-the-world/questions/according-to-tacitus-what-were-the-british-attitudes-towards-roman-taxation-and-conscription
 related_article2:
     id: 169970
-    title: What strategies did the Romans use for taxation and conscription to maintain control in Britain?
+    title: >-
+        What strategies did the Romans use for taxation and conscription to maintain control in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-strategies-did-the-romans-use-for-taxation-and-conscription-to-maintain-control-in-britain
 related_article3:
-    id: 169971
-    title: How did cultural integration transform society and daily life in Roman Britain?
+    id: 169965
+    title: >-
+        In what ways did Roman architecture influence lifestyle and urban planning in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-cultural-integration-transform-society-and-daily-life-in-roman-britain
+    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-architecture-influence-lifestyle-and-urban-planning-in-britain
 related_article4:
     id: 169964
-    title: How did Roman military strategy utilize forts and garrisons to maintain control in Britain?
+    title: >-
+        How did Roman military strategy utilize forts and garrisons to maintain control in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-military-strategy-utilize-forts-and-garrisons-to-maintain-control-in-britain
 related_article5:
-    id: 169967
-    title: How did the Romanization process affect cultural integration in Britain?
+    id: 169972
+    title: >-
+        What was the significance of Hadrian's Wall and Antonine Wall in terms of defense and Roman power?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-romanization-process-affect-cultural-integration-in-britain
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-hadrians-wall-and-antonine-wall-in-terms-of-defense-and-roman-power
 ---
 
 &nbsp;

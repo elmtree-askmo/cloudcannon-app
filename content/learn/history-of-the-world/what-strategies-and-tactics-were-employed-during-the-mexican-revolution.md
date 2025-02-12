@@ -2,8 +2,10 @@
 _schema: default
 id: 169013
 date: 2025-02-04
-title: What strategies and tactics were employed during the Mexican Revolution?
-article_title: What strategies and tactics were employed during the Mexican Revolution?
+title: >-
+    What strategies and tactics were employed during the Mexican Revolution?
+article_title: >-
+    What strategies and tactics were employed during the Mexican Revolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-and-tactics-were-employed-during-the-mexican-revoluti
 url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
 score: 9.0
 related_article1:
-    id: 169015
-    title: What cultural understandings are associated with revolutionary movements?
+    id: 169004
+    title: >-
+        In what ways does critical theory reframe architectural narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-cultural-understandings-are-associated-with-revolutionary-movements
+    url: /learn/history-of-the-world/questions/in-what-ways-does-critical-theory-reframe-architectural-narratives
 related_article2:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    id: 169011
+    title: >-
+        What are feminized spaces, and how do they relate to identity strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
 related_article3:
-    id: 169001
-    title: How does collective work influence architectural history beyond individual builders?
+    id: 169014
+    title: >-
+        How have media and public perception shaped cultural representations of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-collective-work-influence-architectural-history-beyond-individual-builders
+    url: /learn/history-of-the-world/questions/how-have-media-and-public-perception-shaped-cultural-representations-of-revolution
 related_article4:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 related_article5:
-    id: 169003
-    title: How can architecture be analyzed within political and socio-historical contexts?
+    id: 169014
+    title: >-
+        How have media and public perception shaped cultural representations of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
+    url: /learn/history-of-the-world/questions/how-have-media-and-public-perception-shaped-cultural-representations-of-revolution
 ---
 
 &nbsp;

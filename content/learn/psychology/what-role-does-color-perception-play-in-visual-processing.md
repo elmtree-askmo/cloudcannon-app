@@ -2,8 +2,10 @@
 _schema: default
 id: 164290
 date: 2025-01-28
-title: What role does color perception play in visual processing?
-article_title: What role does color perception play in visual processing?
+title: >-
+    What role does color perception play in visual processing?
+article_title: >-
+    What role does color perception play in visual processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-color-perception-play-in-visual-processing.md
 url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 score: -1.0
 related_article1:
-    id: 164304
-    title: How does auditory memory contribute to language comprehension?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
-related_article2:
     id: 164310
-    title: What factors influence color differentiation in the visual spectrum?
+    title: >-
+        What factors influence color differentiation in the visual spectrum?
     subject: Psychology
     url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
+related_article2:
+    id: 164309
+    title: >-
+        How does perceptual learning contribute to object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
 related_article3:
-    id: 164292
-    title: How do social dynamics affect socio-physical interactions?
+    id: 164306
+    title: >-
+        What is the significance of shape analysis in visual identification?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+    url: /learn/psychology/questions/what-is-the-significance-of-shape-analysis-in-visual-identification
 related_article4:
-    id: 164292
-    title: How do social dynamics affect socio-physical interactions?
+    id: 164301
+    title: >-
+        What are the main processes involved in auditory perception?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 related_article5:
-    id: 164292
-    title: How do social dynamics affect socio-physical interactions?
+    id: 164299
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
 ---
 
 &nbsp;

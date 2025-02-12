@@ -2,8 +2,10 @@
 _schema: default
 id: 167975
 date: 2025-02-02
-title: How does play contribute to social cognition development in children?
-article_title: How does play contribute to social cognition development in children?
+title: >-
+    How does play contribute to social cognition development in children?
+article_title: >-
+    How does play contribute to social cognition development in children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-play-contribute-to-social-cognition-development-in-children.
 url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
 score: -1.0
 related_article1:
-    id: 167971
-    title: At what age range does Theory of Mind typically develop in children, and what factors influence its development?
+    id: 167970
+    title: >-
+        What is the Theory of Mind and why is it significant in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 related_article2:
     id: 167980
-    title: How does empathy and perspective taking contribute to interpersonal understanding?
+    title: >-
+        How does empathy and perspective taking contribute to interpersonal understanding?
     subject: Psychology
     url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
 related_article3:
+    id: 167980
+    title: >-
+        How does empathy and perspective taking contribute to interpersonal understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+related_article4:
     id: 167972
-    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    title: >-
+        What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
-related_article4:
-    id: 167979
-    title: What is the role of beliefs and desires in decision making?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 related_article5:
-    id: 167981
-    title: What are some key theories and models in developmental psychology related to social cognition?
+    id: 167982
+    title: >-
+        How do cognitive processes differentiate between true and false beliefs?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
+    url: /learn/psychology/questions/how-do-cognitive-processes-differentiate-between-true-and-false-beliefs
 ---
 
 &nbsp;

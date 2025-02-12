@@ -2,8 +2,10 @@
 _schema: default
 id: 166727
 date: 2025-01-31
-title: How is the mechanical advantage of a lever determined and what are the types of levers?
-article_title: How is the mechanical advantage of a lever determined and what are the types of levers?
+title: >-
+    How is the mechanical advantage of a lever determined and what are the types of levers?
+article_title: >-
+    How is the mechanical advantage of a lever determined and what are the types of levers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-mechanical-advantage-of-a-lever-determined-and-what-are-th
 url: /learn/education-studies/questions/how-is-the-mechanical-advantage-of-a-lever-determined-and-what-are-the-types-of-levers
 score: -1.0
 related_article1:
-    id: 166729
-    title: How are vectors decomposed into components and what are the properties of vector addition and subtraction?
+    id: 166723
+    title: >-
+        What conditions must be met for a system to be in mechanical equilibrium?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
+    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
 related_article2:
+    id: 166723
+    title: >-
+        What conditions must be met for a system to be in mechanical equilibrium?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
+related_article3:
     id: 166734
-    title: Explain the geometric interpretation of the mixed triple product.
+    title: >-
+        Explain the geometric interpretation of the mixed triple product.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-geometric-interpretation-of-the-mixed-triple-product
-related_article3:
-    id: 166731
-    title: Define the dot product and explain how it is used to calculate scalar products.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
 related_article4:
     id: 166736
-    title: How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
+    title: >-
+        How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
 related_article5:
-    id: 166731
-    title: Define the dot product and explain how it is used to calculate scalar products.
+    id: 166730
+    title: >-
+        What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
+    url: /learn/education-studies/questions/what-are-the-commutative-and-distributive-properties-of-vectors-and-how-do-they-apply-to-vector-calculations
 ---
 
 &nbsp;

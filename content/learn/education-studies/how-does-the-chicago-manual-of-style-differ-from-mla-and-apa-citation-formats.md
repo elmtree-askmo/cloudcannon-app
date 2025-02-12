@@ -2,8 +2,10 @@
 _schema: default
 id: 166551
 date: 2025-01-30
-title: How does the Chicago Manual of Style differ from MLA and APA citation formats?
-article_title: How does the Chicago Manual of Style differ from MLA and APA citation formats?
+title: >-
+    How does the Chicago Manual of Style differ from MLA and APA citation formats?
+article_title: >-
+    How does the Chicago Manual of Style differ from MLA and APA citation formats?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-chicago-manual-of-style-differ-from-mla-and-apa-citation
 url: /learn/education-studies/questions/how-does-the-chicago-manual-of-style-differ-from-mla-and-apa-citation-formats
 score: -1.0
 related_article1:
+    id: 166552
+    title: >-
+        What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-footnotes-in-historical-writing-and-how-do-they-differ-from-bibliographic-information
+related_article2:
+    id: 166556
+    title: >-
+        How do archaeology and anthropology contribute to the historical narrative, and what is the role of carbon dating in this context?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-archaeology-and-anthropology-contribute-to-the-historical-narrative-and-what-is-the-role-of-carbon-dating-in-this-context
+related_article3:
     id: 166557
-    title: Why have women historically been invisible in traditional historical narratives, and how has this changed?
+    title: >-
+        Why have women historically been invisible in traditional historical narratives, and how has this changed?
     subject: Education Studies
     url: /learn/education-studies/questions/why-have-women-historically-been-invisible-in-traditional-historical-narratives-and-how-has-this-changed
-related_article2:
-    id: 166550
-    title: What are the key reasons for the importance of citation in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-reasons-for-the-importance-of-citation-in-academic-writing
-related_article3:
-    id: 166554
-    title: What role does contingency play in historical narratives and interpretations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-contingency-play-in-historical-narratives-and-interpretations
 related_article4:
-    id: 166560
-    title: How can new evidence influence historical interpretation?
+    id: 166555
+    title: >-
+        What are the main types of evidence used in historical research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
+    url: /learn/education-studies/questions/what-are-the-main-types-of-evidence-used-in-historical-research
 related_article5:
-    id: 166560
-    title: How can new evidence influence historical interpretation?
+    id: 166557
+    title: >-
+        Why have women historically been invisible in traditional historical narratives, and how has this changed?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
+    url: /learn/education-studies/questions/why-have-women-historically-been-invisible-in-traditional-historical-narratives-and-how-has-this-changed
 ---
 
 &nbsp;

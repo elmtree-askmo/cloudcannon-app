@@ -2,8 +2,10 @@
 _schema: default
 id: 161099
 date: 2025-01-24
-title: What are the mathematical implications of infinite sets in set theory?
-article_title: What are the mathematical implications of infinite sets in set theory?
+title: >-
+    What are the mathematical implications of infinite sets in set theory?
+article_title: >-
+    What are the mathematical implications of infinite sets in set theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
 url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
 score: -1.0
 related_article1:
-    id: 160799
-    title: How does the level of representation impact algorithm complexity?
+    id: 161147
+    title: >-
+        How do infinite sets impact computability and set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
+    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
 related_article2:
-    id: 161100
-    title: Describe the method of proof by contradiction and its application in mathematical proofs.
+    id: 161097
+    title: >-
+        What is the relationship between data structures and the representation of initial data?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-method-of-proof-by-contradiction-and-its-application-in-mathematical-proofs
+    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-the-representation-of-initial-data
 related_article3:
-    id: 160968
-    title: How does understanding cardinality impact set theory and computability?
+    id: 161147
+    title: >-
+        How do infinite sets impact computability and set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
+    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
 related_article4:
-    id: 160812
-    title: What distinguishes rational numbers from irrational numbers?
+    id: 161135
+    title: >-
+        Explain the traveling salesman problem and its role in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
+    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
 related_article5:
-    id: 160963
-    title: What is the significance of the P vs NP problem in computational theory?
+    id: 161148
+    title: >-
+        What is the significance of cardinality in defining complexity and algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
+    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
 ---
 
 &nbsp;

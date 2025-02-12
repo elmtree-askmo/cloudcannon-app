@@ -2,8 +2,10 @@
 _schema: default
 id: 165149
 date: 2025-01-28
-title: Why is study replication important in research, and what challenges does it face?
-article_title: Why is study replication important in research, and what challenges does it face?
+title: >-
+    Why is study replication important in research, and what challenges does it face?
+article_title: >-
+    Why is study replication important in research, and what challenges does it face?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-study-replication-important-in-research-and-what-challenges-do
 url: /learn/education-studies/questions/why-is-study-replication-important-in-research-and-what-challenges-does-it-face
 score: -1.0
 related_article1:
-    id: 165140
-    title: How do SPSS and R differ as software tools for statistical analysis?
+    id: 165134
+    title: >-
+        How can observer bias be minimized in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
+    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
 related_article2:
-    id: 165150
-    title: What are the key differences between thematic analysis and content analysis in qualitative research?
+    id: 165145
+    title: >-
+        How do qualitative and quantitative research methodologies differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
+    url: /learn/education-studies/questions/how-do-qualitative-and-quantitative-research-methodologies-differ
 related_article3:
-    id: 165135
-    title: What is the purpose of using control groups in experimental research?
+    id: 165131
+    title: >-
+        What are the main threats to internal validity in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-internal-validity-in-research-studies
 related_article4:
-    id: 165138
-    title: What are the benefits of a within-subjects design compared to a between-subjects design?
+    id: 165134
+    title: >-
+        How can observer bias be minimized in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-a-withinsubjects-design-compared-to-a-betweensubjects-design
+    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
 related_article5:
-    id: 165140
-    title: How do SPSS and R differ as software tools for statistical analysis?
+    id: 165132
+    title: >-
+        How can external validity be threatened in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
+    url: /learn/education-studies/questions/how-can-external-validity-be-threatened-in-research
 ---
 
 &nbsp;

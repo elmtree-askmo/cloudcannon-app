@@ -2,8 +2,10 @@
 _schema: default
 id: 167832
 date: 2025-02-01
-title: How does incomplete dominance differ from complete dominance, and what are its genetic implications?
-article_title: How does incomplete dominance differ from complete dominance, and what are its genetic implications?
+title: >-
+    How does incomplete dominance differ from complete dominance, and what are its genetic implications?
+article_title: >-
+    How does incomplete dominance differ from complete dominance, and what are its genetic implications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-incomplete-dominance-differ-from-complete-dominance-and-what
 url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance-and-what-are-its-genetic-implications
 score: -1.0
 related_article1:
-    id: 167842
-    title: How do environmental factors influence genetic potential in polygenic inheritance?
+    id: 167837
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-environmental-factors-influence-genetic-potential-in-polygenic-inheritance
+    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
 related_article2:
-    id: 167852
-    title: What are quantitative trait loci (QTL), and why are they important in genetic research?
+    id: 167837
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-quantitative-trait-loci-qtl-and-why-are-they-important-in-genetic-research
+    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
 related_article3:
-    id: 167831
-    title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
+    id: 167844
+    title: >-
+        Explain the concept of heritability and its importance in understanding genetic variance.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-principle-of-independent-assortment-in-mendelian-genetics-and-can-you-provide-an-example
+    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
 related_article4:
-    id: 167845
-    title: How do correlation coefficients relate to genetic studies of complex traits?
+    id: 167837
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
+    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
 related_article5:
-    id: 167831
-    title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
+    id: 167848
+    title: >-
+        How do multiple alleles contribute to genetic diversity within a population?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-principle-of-independent-assortment-in-mendelian-genetics-and-can-you-provide-an-example
+    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
 ---
 
 &nbsp;

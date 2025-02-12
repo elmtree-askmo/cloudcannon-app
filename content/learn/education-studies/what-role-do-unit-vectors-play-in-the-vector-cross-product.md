@@ -2,8 +2,10 @@
 _schema: default
 id: 166694
 date: 2025-01-31
-title: What role do unit vectors play in the vector cross product?
-article_title: What role do unit vectors play in the vector cross product?
+title: >-
+    What role do unit vectors play in the vector cross product?
+article_title: >-
+    What role do unit vectors play in the vector cross product?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-unit-vectors-play-in-the-vector-cross-product.md
 url: /learn/education-studies/questions/what-role-do-unit-vectors-play-in-the-vector-cross-product
 score: -1.0
 related_article1:
-    id: 166719
-    title: How do engineering organizations support networking and professional development?
+    id: 166721
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
+    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
 related_article2:
-    id: 166695
-    title: How are position vectors used in 3D vector analysis?
+    id: 166712
+    title: >-
+        What types of services do consulting companies offer?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
+    url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
 related_article3:
-    id: 166701
-    title: Explain the concept of torque and its importance in engineering.
+    id: 166712
+    title: >-
+        What types of services do consulting companies offer?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
+    url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
 related_article4:
-    id: 166693
-    title: How does the right-hand rule help determine the direction of a vector cross product?
+    id: 166698
+    title: >-
+        How is the conservation of energy principle applied in rigid body dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
+    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
 related_article5:
-    id: 166720
-    title: What types of events do engineering organizations typically host?
+    id: 166714
+    title: >-
+        What are the current job market trends for consulting opportunities in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
+    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160506
 date: 2025-01-24
-title: How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
-article_title: How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+title: >-
+    How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+article_title: >-
+    How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-communication-technologies-and-transportation-networks-contrib
 url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
 score: -1.0
 related_article1:
-    id: 160621
-    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    id: 160235
+    title: >-
+        Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 related_article2:
-    id: 160645
-    title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+    id: 160625
+    title: >-
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 related_article3:
-    id: 160557
-    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    id: 160099
+    title: >-
+        What are the local impacts of cultural exchange and economic integration due to time-space compression?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
 related_article4:
-    id: 160557
-    title: What are the practical tools necessary for effective data collection and analysis techniques?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
-related_article5:
-    id: 160624
-    title: Describe the role of economic forces and global commodity chains in shaping economic patterns.
+    id: 160213
+    title: >-
+        Describe the role of economic forces and global commodity chains in shaping economic patterns.
     subject: Sociology
     url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
+related_article5:
+    id: 160226
+    title: >-
+        What practical tools are essential for data collection and analysis techniques in research?
+    subject: Sociology
+    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
 ---
 
 &nbsp;

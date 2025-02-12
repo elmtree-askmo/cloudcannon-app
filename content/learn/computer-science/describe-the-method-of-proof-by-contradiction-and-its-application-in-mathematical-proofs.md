@@ -2,8 +2,10 @@
 _schema: default
 id: 161100
 date: 2025-01-24
-title: Describe the method of proof by contradiction and its application in mathematical proofs.
-article_title: Describe the method of proof by contradiction and its application in mathematical proofs.
+title: >-
+    Describe the method of proof by contradiction and its application in mathematical proofs.
+article_title: >-
+    Describe the method of proof by contradiction and its application in mathematical proofs.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-method-of-proof-by-contradiction-and-its-application-in-
 url: /learn/computer-science/questions/describe-the-method-of-proof-by-contradiction-and-its-application-in-mathematical-proofs
 score: -1.0
 related_article1:
-    id: 160811
-    title: How is proof by contradiction applied in mathematical proofs?
+    id: 160798
+    title: >-
+        What is the importance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-proof-by-contradiction-applied-in-mathematical-proofs
+    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 related_article2:
-    id: 161133
-    title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
+    id: 161137
+    title: >-
+        What are the characteristics of intractable problems in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-intractable-problems-in-complexity-theory
 related_article3:
-    id: 161138
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 160800
+    title: >-
+        What role does abstraction play in simplifying complex computing problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-simplifying-complex-computing-problems
 related_article4:
-    id: 160812
-    title: What distinguishes rational numbers from irrational numbers?
+    id: 161129
+    title: >-
+        How does abstraction aid in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
+    url: /learn/computer-science/questions/how-does-abstraction-aid-in-algorithm-design
 related_article5:
-    id: 160815
-    title: How does cardinality relate to the comparison of infinite sets?
+    id: 160967
+    title: >-
+        What are the mathematical implications of infinite sets in set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-cardinality-relate-to-the-comparison-of-infinite-sets
+    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
 ---
 
 &nbsp;

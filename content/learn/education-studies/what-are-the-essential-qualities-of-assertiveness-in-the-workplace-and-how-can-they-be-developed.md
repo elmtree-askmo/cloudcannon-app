@@ -2,8 +2,10 @@
 _schema: default
 id: 168504
 date: 2025-02-03
-title: What are the essential qualities of assertiveness in the workplace, and how can they be developed?
-article_title: What are the essential qualities of assertiveness in the workplace, and how can they be developed?
+title: >-
+    What are the essential qualities of assertiveness in the workplace, and how can they be developed?
+article_title: >-
+    What are the essential qualities of assertiveness in the workplace, and how can they be developed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-essential-qualities-of-assertiveness-in-the-workplace-an
 url: /learn/education-studies/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
 score: -1.0
 related_article1:
-    id: 168494
-    title: What are the career opportunities available in the medical field?
+    id: 168492
+    title: >-
+        How do customer interaction levels vary in different food service roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+    url: /learn/education-studies/questions/how-do-customer-interaction-levels-vary-in-different-food-service-roles
 related_article2:
-    id: 168493
-    title: What technical skills and tools are commonly used in medical professions?
+    id: 168508
+    title: >-
+        What are the key responsibilities and skills required for success in food service careers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-commonly-used-in-medical-professions
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
 related_article3:
-    id: 168493
-    title: What technical skills and tools are commonly used in medical professions?
+    id: 168487
+    title: >-
+        What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-commonly-used-in-medical-professions
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-personal-interests-and-evaluating-natural-talents-for-career-suitability
 related_article4:
-    id: 168503
-    title: What skills are necessary for effective product and service promotion in sales and marketing?
+    id: 168508
+    title: >-
+        What are the key responsibilities and skills required for success in food service careers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-are-necessary-for-effective-product-and-service-promotion-in-sales-and-marketing
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
+related_article5:
+    id: 168487
+    title: >-
+        What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-personal-interests-and-evaluating-natural-talents-for-career-suitability
 ---
 
 &nbsp;

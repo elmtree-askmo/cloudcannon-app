@@ -2,8 +2,10 @@
 _schema: default
 id: 163579
 date: 2025-01-27
-title: Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
-article_title: Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
+title: >-
+    Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
+article_title: >-
+    Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-significance-of-spartan-blackfigure-pottery-in-understan
 url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
 score: 9.0
 related_article1:
-    id: 163575
-    title: Explain the myth of the Dorian Migration and its significance in Spartan history.
+    id: 163577
+    title: >-
+        How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-myth-of-the-dorian-migration-and-its-significance-in-spartan-history
+    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
 related_article2:
-    id: 163577
-    title: How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
+    id: 163570
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 related_article3:
-    id: 163581
-    title: Explain the purpose and structure of the Spartan agoge.
+    id: 163576
+    title: >-
+        What were the main causes and outcomes of the Messenian Wars?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-purpose-and-structure-of-the-spartan-agoge
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
 related_article4:
-    id: 163571
-    title: How did the regions of Laconia and Messenia contribute to Sparta's development as a Greek polis?
+    id: 163576
+    title: >-
+        What were the main causes and outcomes of the Messenian Wars?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-regions-of-laconia-and-messenia-contribute-to-spartas-development-as-a-greek-polis
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
 related_article5:
-    id: 163577
-    title: How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
+    id: 163580
+    title: >-
+        What were the main social divisions in Spartan society, and how did they function?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
+    url: /learn/history-of-the-world/questions/what-were-the-main-social-divisions-in-spartan-society-and-how-did-they-function
 ---
 
 &nbsp;

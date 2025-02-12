@@ -2,8 +2,10 @@
 _schema: default
 id: 168858
 date: 2025-02-04
-title: What are the key purposes of oral exams and how do they measure a student's abilities?
-article_title: What are the key purposes of oral exams and how do they measure a student's abilities?
+title: >-
+    What are the key purposes of oral exams and how do they measure a student's abilities?
+article_title: >-
+    What are the key purposes of oral exams and how do they measure a student's abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-purposes-of-oral-exams-and-how-do-they-measure-a-stu
 url: /learn/education-studies/questions/what-are-the-key-purposes-of-oral-exams-and-how-do-they-measure-a-students-abilities
 score: -1.0
 related_article1:
-    id: 168873
-    title: What strategies can be used to tailor communication for a specific audience?
+    id: 168867
+    title: >-
+        How does slow thinking benefit essay writing compared to fast thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-tailor-communication-for-a-specific-audience
+    url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
 related_article2:
+    id: 168866
+    title: >-
+        What does it mean to cross the threshold in understanding complex ideas?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-does-it-mean-to-cross-the-threshold-in-understanding-complex-ideas
+related_article3:
     id: 168875
-    title: How can effective introductions capture the reader's attention and set the tone for a piece of writing?
+    title: >-
+        How can effective introductions capture the reader's attention and set the tone for a piece of writing?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-effective-introductions-capture-the-readers-attention-and-set-the-tone-for-a-piece-of-writing
-related_article3:
-    id: 168867
-    title: How does slow thinking benefit essay writing compared to fast thinking?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
 related_article4:
-    id: 168867
-    title: How does slow thinking benefit essay writing compared to fast thinking?
+    id: 168871
+    title: >-
+        What are the key elements of meeting academic writing standards?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-meeting-academic-writing-standards
 related_article5:
-    id: 168877
-    title: How can complex concepts be simplified for better understanding?
+    id: 168871
+    title: >-
+        What are the key elements of meeting academic writing standards?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-complex-concepts-be-simplified-for-better-understanding
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-meeting-academic-writing-standards
 ---
 
 &nbsp;

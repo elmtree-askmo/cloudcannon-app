@@ -2,8 +2,10 @@
 _schema: default
 id: 163980
 date: 2025-01-28
-title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
-article_title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+title: >-
+    What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+article_title: >-
+    What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-technological-advancements-during-the-industrial-re
 url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
 score: 9.5
 related_article1:
-    id: 163984
-    title: How did the development of public museums transition from private collections, and what was their educational purpose?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
-related_article2:
-    id: 163986
-    title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
-related_article3:
     id: 163992
-    title: How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
+    title: >-
+        How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherness-and-create-an-ideological-space
+related_article2:
+    id: 163979
+    title: >-
+        How did the Great Exhibition of 1851 reflect Prince Albert's vision and international participation?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-of-1851-reflect-prince-alberts-vision-and-international-participation
+related_article3:
+    id: 163987
+    title: >-
+        How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
 related_article4:
-    id: 163981
-    title: How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
+    id: 163991
+    title: >-
+        What is the historical significance of the Crystal Palace's relocation, reconstruction, and eventual destruction?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-urbanization-during-the-industrial-revolution-contribute-to-socioeconomic-changes-and-class-divides
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-crystal-palaces-relocation-reconstruction-and-eventual-destruction
 related_article5:
-    id: 163986
-    title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
+    id: 163982
+    title: >-
+        In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
+    url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162660
 date: 2025-01-25
-title: What are the main differences between Hadoop and Spark in big data technologies?
-article_title: What are the main differences between Hadoop and Spark in big data technologies?
+title: >-
+    What are the main differences between Hadoop and Spark in big data technologies?
+article_title: >-
+    What are the main differences between Hadoop and Spark in big data technologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-differences-between-hadoop-and-spark-in-big-data-te
 url: /learn/others/questions/what-are-the-main-differences-between-hadoop-and-spark-in-big-data-technologies
 score: -1.0
 related_article1:
-    id: 162726
-    title: What are the key components of an information system, and how do they interact?
+    id: 162727
+    title: >-
+        What are the most common cybersecurity threats, and how can they be mitigated?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/others/questions/what-are-the-most-common-cybersecurity-threats-and-how-can-they-be-mitigated
 related_article2:
-    id: 162425
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis techniques?
+    id: 162712
+    title: >-
+        What are the ethical considerations associated with artificial intelligence, and how can bias be addressed?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis-techniques
+    url: /learn/others/questions/what-are-the-ethical-considerations-associated-with-artificial-intelligence-and-how-can-bias-be-addressed
 related_article3:
-    id: 162649
-    title: How is Excel used in data analysis, and what are its limitations compared to R and Python?
+    id: 162720
+    title: >-
+        What are the primary techniques used in data mining, and how do they apply to fraud detection?
     subject: Others
-    url: /learn/others/questions/how-is-excel-used-in-data-analysis-and-what-are-its-limitations-compared-to-r-and-python
+    url: /learn/others/questions/what-are-the-primary-techniques-used-in-data-mining-and-how-do-they-apply-to-fraud-detection
 related_article4:
-    id: 162719
-    title: How do decision trees differ from neural networks in predictive modeling?
+    id: 162836
+    title: >-
+        What are the challenges of overfitting and model validation in predictive modeling?
     subject: Others
-    url: /learn/others/questions/how-do-decision-trees-differ-from-neural-networks-in-predictive-modeling
+    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
 related_article5:
-    id: 162655
-    title: How do Tableau, Power BI, and D3.js differ in their data visualization capabilities?
+    id: 162373
+    title: >-
+        What are the best practices for responsive design and SEO optimization in web development?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-data-visualization-capabilities
+    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
 ---
 
 &nbsp;

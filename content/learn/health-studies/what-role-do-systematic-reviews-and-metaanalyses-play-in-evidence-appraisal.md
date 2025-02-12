@@ -2,8 +2,10 @@
 _schema: default
 id: 163259
 date: 2025-01-26
-title: What role do systematic reviews and meta-analyses play in evidence appraisal?
-article_title: What role do systematic reviews and meta-analyses play in evidence appraisal?
+title: >-
+    What role do systematic reviews and meta-analyses play in evidence appraisal?
+article_title: >-
+    What role do systematic reviews and meta-analyses play in evidence appraisal?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-app
 url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
 score: -1.0
 related_article1:
-    id: 163251
-    title: What are the primary objectives of clinical studies?
+    id: 163260
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
+    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
 related_article2:
-    id: 163251
-    title: What are the primary objectives of clinical studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
-related_article3:
     id: 163258
-    title: How does the traditional evidence-based medicine pyramid differ from the updated version?
+    title: >-
+        How does the traditional evidence-based medicine pyramid differ from the updated version?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-traditional-evidencebased-medicine-pyramid-differ-from-the-updated-version
+related_article3:
+    id: 163255
+    title: >-
+        What is the difference between prevalence and incidence in descriptive studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
 related_article4:
-    id: 163254
-    title: How can a DAG be used to identify confounders in a study?
+    id: 163250
+    title: >-
+        How can confounders be identified and adjusted for in a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
+    url: /learn/health-studies/questions/how-can-confounders-be-identified-and-adjusted-for-in-a-study
 related_article5:
-    id: 163247
-    title: How can researchers minimize the role of chance in their studies?
+    id: 163261
+    title: >-
+        What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
+    url: /learn/health-studies/questions/what-tools-and-techniques-are-used-in-the-critical-appraisal-of-systematic-reviews-and-metaanalyses
 ---
 
 &nbsp;

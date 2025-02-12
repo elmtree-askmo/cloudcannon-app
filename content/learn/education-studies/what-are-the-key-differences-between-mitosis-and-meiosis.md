@@ -2,8 +2,10 @@
 _schema: default
 id: 167916
 date: 2025-02-01
-title: What are the key differences between mitosis and meiosis?
-article_title: What are the key differences between mitosis and meiosis?
+title: >-
+    What are the key differences between mitosis and meiosis?
+article_title: >-
+    What are the key differences between mitosis and meiosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-mitosis-and-meiosis.md
 url: /learn/education-studies/questions/what-are-the-key-differences-between-mitosis-and-meiosis
 score: -1.0
 related_article1:
-    id: 167925
-    title: How is a Punnett square used to predict the outcome of a monohybrid cross?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-punnett-square-used-to-predict-the-outcome-of-a-monohybrid-cross
-related_article2:
-    id: 167929
-    title: What is aneuploidy and how can it lead to genetic disorders?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-aneuploidy-and-how-can-it-lead-to-genetic-disorders
-related_article3:
-    id: 167921
-    title: How do dominant and recessive alleles affect the phenotype of an organism?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-dominant-and-recessive-alleles-affect-the-phenotype-of-an-organism
-related_article4:
     id: 167917
-    title: How does meiosis contribute to genetic variation?
+    title: >-
+        How does meiosis contribute to genetic variation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-meiosis-contribute-to-genetic-variation
-related_article5:
-    id: 167919
-    title: Explain the concept of synapsis and its role in meiosis.
+related_article2:
+    id: 167920
+    title: >-
+        What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
+    url: /learn/education-studies/questions/what-is-the-chromosomal-theory-of-inheritance-and-how-does-it-relate-to-mendels-laws
+related_article3:
+    id: 167932
+    title: >-
+        Explain the process of independent assortment and its genetic significance.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-process-of-independent-assortment-and-its-genetic-significance
+related_article4:
+    id: 167924
+    title: >-
+        What is the significance of phenotypic and genotypic ratios in genetic crosses?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-phenotypic-and-genotypic-ratios-in-genetic-crosses
+related_article5:
+    id: 167917
+    title: >-
+        How does meiosis contribute to genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-meiosis-contribute-to-genetic-variation
 ---
 
 &nbsp;

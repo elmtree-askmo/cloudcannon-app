@@ -2,8 +2,10 @@
 _schema: default
 id: 170170
 date: 2025-02-06
-title: What were the tactical elements and historical significance of the Battle of Mons Graupius?
-article_title: What were the tactical elements and historical significance of the Battle of Mons Graupius?
+title: >-
+    What were the tactical elements and historical significance of the Battle of Mons Graupius?
+article_title: >-
+    What were the tactical elements and historical significance of the Battle of Mons Graupius?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-tactical-elements-and-historical-significance-of-the-ba
 url: /learn/history-of-the-world/questions/what-were-the-tactical-elements-and-historical-significance-of-the-battle-of-mons-graupius
 score: 9.0
 related_article1:
-    id: 170171
-    title: Explain the strategic importance of Roman marching camps and the archaeological discoveries associated with them.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-strategic-importance-of-roman-marching-camps-and-the-archaeological-discoveries-associated-with-them
-related_article2:
-    id: 170173
-    title: What are the main themes and historical context of Tacitus' 'Annals'?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
-related_article3:
     id: 170184
-    title: Who was Calgacus, and what was his influence on Caledonian warfare?
+    title: >-
+        Who was Calgacus, and what was his influence on Caledonian warfare?
     subject: History of the World
     url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
-related_article4:
-    id: 170173
-    title: What are the main themes and historical context of Tacitus' 'Annals'?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
-related_article5:
+related_article2:
     id: 170168
-    title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+    title: >-
+        What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
+related_article3:
+    id: 170185
+    title: >-
+        Analyze the structure and historical significance of Tacitus' 'Agricola'.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
+related_article4:
+    id: 170172
+    title: >-
+        How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
+related_article5:
+    id: 170175
+    title: >-
+        What are the historical theories regarding the origins and identity of the Pictish culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
 ---
 
 &nbsp;

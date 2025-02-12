@@ -2,8 +2,10 @@
 _schema: default
 id: 165665
 date: 2025-01-29
-title: What are common causes of IP addressing issues on IOS devices?
-article_title: What are common causes of IP addressing issues on IOS devices?
+title: >-
+    What are common causes of IP addressing issues on IOS devices?
+article_title: >-
+    What are common causes of IP addressing issues on IOS devices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-common-causes-of-ip-addressing-issues-on-ios-devices.md
 url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
 score: -1.0
 related_article1:
-    id: 165667
-    title: What tools can be used to troubleshoot DNS issues effectively?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
-related_article2:
     id: 165664
-    title: How can duplex mismatch issues affect network performance?
+    title: >-
+        How can duplex mismatch issues affect network performance?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-duplex-mismatch-issues-affect-network-performance
+related_article2:
+    id: 165660
+    title: >-
+        What command would you use to view the IP configuration on a Windows host?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
 related_article3:
-    id: 165659
-    title: Why is establishing a network baseline important for network management?
+    id: 165660
+    title: >-
+        What command would you use to view the IP configuration on a Windows host?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-establishing-a-network-baseline-important-for-network-management
+    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
 related_article4:
-    id: 165663
-    title: What is the primary purpose of the debug command in network troubleshooting?
+    id: 165664
+    title: >-
+        How can duplex mismatch issues affect network performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-the-debug-command-in-network-troubleshooting
+    url: /learn/computer-science/questions/how-can-duplex-mismatch-issues-affect-network-performance
 related_article5:
-    id: 165657
-    title: What is the purpose of using the ping command in network troubleshooting?
+    id: 165666
+    title: >-
+        Why is the default gateway important in a network, and how can you verify its configuration?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-ping-command-in-network-troubleshooting
+    url: /learn/computer-science/questions/why-is-the-default-gateway-important-in-a-network-and-how-can-you-verify-its-configuration
 ---
 
 &nbsp;

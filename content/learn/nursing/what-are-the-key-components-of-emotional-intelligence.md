@@ -2,8 +2,10 @@
 _schema: default
 id: 169806
 date: 2025-02-05
-title: What are the key components of emotional intelligence?
-article_title: What are the key components of emotional intelligence?
+title: >-
+    What are the key components of emotional intelligence?
+article_title: >-
+    What are the key components of emotional intelligence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-emotional-intelligence.md
 url: /learn/nursing/questions/what-are-the-key-components-of-emotional-intelligence
 score: -1.0
 related_article1:
-    id: 169814
-    title: What steps can be taken to enhance cultural competence?
-    subject: Nursing
-    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
-related_article2:
-    id: 169810
-    title: What is the significance of continuous learning in professional development?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
-related_article3:
-    id: 169812
-    title: What are effective ways to receive and respond to feedback for personal growth?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
-related_article4:
     id: 169822
-    title: How can reflection models benefit professional development?
+    title: >-
+        How can reflection models benefit professional development?
     subject: Nursing
     url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
-related_article5:
-    id: 169818
-    title: What techniques can be used for self-assessment to identify personal strengths?
+related_article2:
+    id: 169805
+    title: >-
+        How does conscious knowledge of self contribute to evaluating personal reactions?
     subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
+related_article3:
+    id: 169810
+    title: >-
+        What is the significance of continuous learning in professional development?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
+related_article4:
+    id: 169803
+    title: >-
+        How can one assess personal feelings to identify areas for improvement?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+related_article5:
+    id: 169805
+    title: >-
+        How does conscious knowledge of self contribute to evaluating personal reactions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-conscious-knowledge-of-self-contribute-to-evaluating-personal-reactions
 ---
 
 &nbsp;

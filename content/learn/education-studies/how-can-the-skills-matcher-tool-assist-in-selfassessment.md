@@ -2,8 +2,10 @@
 _schema: default
 id: 168458
 date: 2025-02-03
-title: How can the Skills Matcher Tool assist in self-assessment?
-article_title: How can the Skills Matcher Tool assist in self-assessment?
+title: >-
+    How can the Skills Matcher Tool assist in self-assessment?
+article_title: >-
+    How can the Skills Matcher Tool assist in self-assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-skills-matcher-tool-assist-in-selfassessment.md
 url: /learn/education-studies/questions/how-can-the-skills-matcher-tool-assist-in-selfassessment
 score: -1.0
 related_article1:
-    id: 168455
-    title: List three core values that might impact career decisions.
+    id: 168454
+    title: >-
+        What are values and how do they influence career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/list-three-core-values-that-might-impact-career-decisions
+    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
 related_article2:
-    id: 168470
-    title: How can individuals identify their true values?
+    id: 168456
+    title: >-
+        Define skills and explain their importance in career choice.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
+    url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
 related_article3:
-    id: 168462
-    title: How can aligning skills and values with careers benefit career planning?
+    id: 168467
+    title: >-
+        What is the significance of work values in career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
+    url: /learn/education-studies/questions/what-is-the-significance-of-work-values-in-career-choices
 related_article4:
-    id: 168463
-    title: What are some online resources available for career planning?
+    id: 168460
+    title: >-
+        How do personal traits influence career choice?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
+    url: /learn/education-studies/questions/how-do-personal-traits-influence-career-choice
 related_article5:
-    id: 168461
-    title: What traits are commonly suited for specific careers?
+    id: 168471
+    title: >-
+        Why might values change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
+    url: /learn/education-studies/questions/why-might-values-change-over-time
 ---
 
 &nbsp;

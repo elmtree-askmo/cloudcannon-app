@@ -2,8 +2,10 @@
 _schema: default
 id: 169458
 date: 2025-02-05
-title: How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
-article_title: How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
+title: >-
+    How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
+article_title: >-
+    How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-an-advanced-decision-to-refuse-treatment-adrt-differ-from-a-
 url: /learn/nursing/questions/how-does-an-advanced-decision-to-refuse-treatment-adrt-differ-from-a-dnar-order
 score: -1.0
 related_article1:
-    id: 169451
-    title: How do CPR techniques differ between adults and children in basic life support?
+    id: 169452
+    title: >-
+        What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-cpr-techniques-differ-between-adults-and-children-in-basic-life-support
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-automated-external-defibrillator-aed-in-cardiac-emergencies
 related_article2:
-    id: 169461
-    title: What are the initial steps in emergency response protocols for assessing scene safety?
+    id: 169454
+    title: >-
+        How do you recognize and respond to a cardiac arrest situation according to the cardiac arrest algorithms?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety
+    url: /learn/nursing/questions/how-do-you-recognize-and-respond-to-a-cardiac-arrest-situation-according-to-the-cardiac-arrest-algorithms
 related_article3:
     id: 169455
-    title: What are the differences between shockable and non-shockable rhythms in cardiac arrest?
+    title: >-
+        What are the differences between shockable and non-shockable rhythms in cardiac arrest?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
 related_article4:
-    id: 169453
-    title: What safety measures should be considered when using an AED in public settings?
+    id: 169455
+    title: >-
+        What are the differences between shockable and non-shockable rhythms in cardiac arrest?
     subject: Nursing
-    url: /learn/nursing/questions/what-safety-measures-should-be-considered-when-using-an-aed-in-public-settings
+    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
 related_article5:
-    id: 169452
-    title: What is the primary function of an Automated External Defibrillator (AED) in cardiac emergencies?
+    id: 169459
+    title: >-
+        What are the recommended compression and breathing ratios for adult CPR?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-primary-function-of-an-automated-external-defibrillator-aed-in-cardiac-emergencies
+    url: /learn/nursing/questions/what-are-the-recommended-compression-and-breathing-ratios-for-adult-cpr
 ---
 
 &nbsp;

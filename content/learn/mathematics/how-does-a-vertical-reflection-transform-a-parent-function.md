@@ -2,8 +2,10 @@
 _schema: default
 id: 168404
 date: 2025-02-03
-title: How does a vertical reflection transform a parent function?
-article_title: How does a vertical reflection transform a parent function?
+title: >-
+    How does a vertical reflection transform a parent function?
+article_title: >-
+    How does a vertical reflection transform a parent function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-vertical-reflection-transform-a-parent-function.md
 url: /learn/mathematics/questions/how-does-a-vertical-reflection-transform-a-parent-function
 score: -1.0
 related_article1:
-    id: 168416
-    title: What are the specific rules for reflecting a function over the x-axis?
+    id: 168408
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
 related_article2:
-    id: 168401
-    title: What are the characteristics of vertical reflections on a function's graph?
+    id: 168408
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-characteristics-of-vertical-reflections-on-a-functions-graph
+    url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
 related_article3:
-    id: 168418
-    title: How does symmetry play a role in the graphical properties of reflections?
+    id: 168398
+    title: >-
+        How does a reflection over the x-axis affect the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-symmetry-play-a-role-in-the-graphical-properties-of-reflections
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
 related_article4:
+    id: 168409
+    title: >-
+        How do you plot a quadratic function on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
+related_article5:
     id: 168397
-    title: What are the different types of transformations that can be applied to functions?
+    title: >-
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
-related_article5:
-    id: 168399
-    title: What is the graphical representation of a reflection about the x-axis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
 ---
 
 &nbsp;

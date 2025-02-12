@@ -2,8 +2,10 @@
 _schema: default
 id: 159835
 date: 2025-01-23
-title: What were the origins of Cubism, and how did it impact modern art?
-article_title: What were the origins of Cubism, and how did it impact modern art?
+title: >-
+    What were the origins of Cubism, and how did it impact modern art?
+article_title: >-
+    What were the origins of Cubism, and how did it impact modern art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art.md
 url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
 score: 9.0
 related_article1:
-    id: 160107
-    title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    id: 159847
+    title: >-
+        What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
+    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-imperialism-and-how-did-artists-critique-and-reinterpret-the-representation-of-colonized-peoples
 related_article2:
-    id: 159833
-    title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    id: 160108
+    title: >-
+        In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
+related_article3:
+    id: 160107
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
-related_article3:
-    id: 159848
-    title: How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-european-colonisation-influence-african-artistic-practices-and-what-were-some-western-perceptions-and-misunderstandings
 related_article4:
-    id: 159842
-    title: How did queer art develop in modern society, and who were some key figures and movements in this area?
+    id: 160112
+    title: >-
+        How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
+    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
 related_article5:
-    id: 159848
-    title: How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
+    id: 159834
+    title: >-
+        In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-european-colonisation-influence-african-artistic-practices-and-what-were-some-western-perceptions-and-misunderstandings
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-were-some-key-artists-associated-with-this-movement
 ---
 
 &nbsp;

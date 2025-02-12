@@ -2,8 +2,10 @@
 _schema: default
 id: 162327
 date: 2025-01-25
-title: What strategies can be used to match the orientation of two figures?
-article_title: What strategies can be used to match the orientation of two figures?
+title: >-
+    What strategies can be used to match the orientation of two figures?
+article_title: >-
+    What strategies can be used to match the orientation of two figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-used-to-match-the-orientation-of-two-figures.m
 url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
 score: -1.0
 related_article1:
-    id: 162312
-    title: What are the criteria for two figures to be considered congruent?
+    id: 162232
+    title: >-
+        How do transformations affect the positions of vertices in a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
 related_article2:
-    id: 162325
-    title: How does the center of rotation affect the outcome of a rotation transformation?
+    id: 162328
+    title: >-
+        How is translation notation used to interpret changes in coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
 related_article3:
-    id: 162219
-    title: How do rigid transformations affect the orientation of a figure?
+    id: 162314
+    title: >-
+        What are the three types of rigid transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
 related_article4:
-    id: 162312
-    title: What are the criteria for two figures to be considered congruent?
+    id: 162223
+    title: >-
+        What is the notation for a translation on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
 related_article5:
-    id: 162320
-    title: What is the significance of the order of operations in a sequence of transformations?
+    id: 162328
+    title: >-
+        How is translation notation used to interpret changes in coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
+    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
 ---
 
 &nbsp;

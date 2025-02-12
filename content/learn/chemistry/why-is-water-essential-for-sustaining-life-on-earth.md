@@ -2,8 +2,10 @@
 _schema: default
 id: 167153
 date: 2025-01-31
-title: Why is water essential for sustaining life on Earth?
-article_title: Why is water essential for sustaining life on Earth?
+title: >-
+    Why is water essential for sustaining life on Earth?
+article_title: >-
+    Why is water essential for sustaining life on Earth?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-water-essential-for-sustaining-life-on-earth.md
 url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
 score: -1.0
 related_article1:
-    id: 167147
-    title: Why is water considered a universal solvent and what types of substances does it dissolve?
+    id: 167144
+    title: >-
+        Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-what-types-of-substances-does-it-dissolve
+    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
 related_article2:
-    id: 167148
-    title: What is the difference between hydrophilic and hydrophobic substances in relation to water?
+    id: 167151
+    title: >-
+        How does water's high heat capacity contribute to climate stabilization?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
 related_article3:
-    id: 167141
-    title: What is the molecular composition of water and how are the atoms bonded?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
-related_article4:
     id: 167150
-    title: What are the implications of ice's lower density for aquatic ecosystems?
+    title: >-
+        What are the implications of ice's lower density for aquatic ecosystems?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
-related_article5:
-    id: 167145
-    title: What is cohesion in water and how does it contribute to surface tension?
+related_article4:
+    id: 167148
+    title: >-
+        What is the difference between hydrophilic and hydrophobic substances in relation to water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
+related_article5:
+    id: 167151
+    title: >-
+        How does water's high heat capacity contribute to climate stabilization?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
 ---
 
 &nbsp;

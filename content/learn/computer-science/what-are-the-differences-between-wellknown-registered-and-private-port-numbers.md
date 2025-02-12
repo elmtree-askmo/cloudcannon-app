@@ -2,8 +2,10 @@
 _schema: default
 id: 165778
 date: 2025-01-29
-title: What are the differences between well-known, registered, and private port numbers?
-article_title: What are the differences between well-known, registered, and private port numbers?
+title: >-
+    What are the differences between well-known, registered, and private port numbers?
+article_title: >-
+    What are the differences between well-known, registered, and private port numbers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-wellknown-registered-and-private-por
 url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
 score: -1.0
 related_article1:
-    id: 165764
-    title: What is the primary role of the transport layer in network communication?
+    id: 165779
+    title: >-
+        What information is contained in the TCP header fields related to sequence and acknowledgment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
+    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article2:
-    id: 165780
-    title: What is the role of the length and checksum fields in the UDP header?
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 related_article3:
-    id: 165774
-    title: How does TCP guarantee ordered delivery and handle data loss?
+    id: 165788
+    title: >-
+        What is the responsibility of applications in handling congestion in UDP?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
+    url: /learn/computer-science/questions/what-is-the-responsibility-of-applications-in-handling-congestion-in-udp
 related_article4:
-    id: 165765
-    title: How does the transport layer ensure logical communication between applications?
+    id: 165783
+    title: >-
+        How does TCP use sequence numbers for data reassembly?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+    url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-data-reassembly
 related_article5:
-    id: 165771
-    title: How does TCP ensure reliable and same-order delivery of data?
+    id: 165768
+    title: >-
+        What is the difference between TCP and UDP in terms of reliability?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
+    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
 ---
 
 &nbsp;

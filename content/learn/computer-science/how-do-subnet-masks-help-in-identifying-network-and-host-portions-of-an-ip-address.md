@@ -2,8 +2,10 @@
 _schema: default
 id: 165728
 date: 2025-01-29
-title: How do subnet masks help in identifying network and host portions of an IP address?
-article_title: How do subnet masks help in identifying network and host portions of an IP address?
+title: >-
+    How do subnet masks help in identifying network and host portions of an IP address?
+article_title: >-
+    How do subnet masks help in identifying network and host portions of an IP address?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-subnet-masks-help-in-identifying-network-and-host-portions-of-
 url: /learn/computer-science/questions/how-do-subnet-masks-help-in-identifying-network-and-host-portions-of-an-ip-address
 score: -1.0
 related_article1:
-    id: 165735
-    title: How do you determine the number of hosts required per subnet and allocate addresses efficiently?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
-related_article2:
     id: 165733
-    title: How does subnetting contribute to reducing broadcast traffic and improving network performance?
+    title: >-
+        How does subnetting contribute to reducing broadcast traffic and improving network performance?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
+related_article2:
+    id: 165726
+    title: >-
+        What is a broadcast domain and how do routers affect them?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article3:
     id: 165723
-    title: How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
+    title: >-
+        How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 related_article4:
-    id: 165725
-    title: Explain the difference between subnetting on an octet boundary and within an octet boundary.
+    id: 165726
+    title: >-
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article5:
-    id: 165723
-    title: How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
+    id: 165724
+    title: >-
+        What is the primary purpose of subnetting in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
 ---
 
 &nbsp;

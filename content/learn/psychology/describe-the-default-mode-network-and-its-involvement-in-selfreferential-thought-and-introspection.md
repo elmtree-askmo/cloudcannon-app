@@ -2,8 +2,10 @@
 _schema: default
 id: 164839
 date: 2025-01-28
-title: Describe the default mode network and its involvement in self-referential thought and introspection.
-article_title: Describe the default mode network and its involvement in self-referential thought and introspection.
+title: >-
+    Describe the default mode network and its involvement in self-referential thought and introspection.
+article_title: >-
+    Describe the default mode network and its involvement in self-referential thought and introspection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-default-mode-network-and-its-involvement-in-selfreferent
 url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
 score: -1.0
 related_article1:
-    id: 164836
-    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    id: 164842
+    title: >-
+        What are the primary characteristics and causes of coma, and which brain regions are typically affected?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
 related_article2:
-    id: 164837
-    title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    id: 164843
+    title: >-
+        How do dissociative disorders impact consciousness, and what are some common symptoms and experiences associated with these disorders?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+    url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
 related_article3:
+    id: 164843
+    title: >-
+        How do dissociative disorders impact consciousness, and what are some common symptoms and experiences associated with these disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
+related_article4:
     id: 164846
-    title: What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
-related_article4:
-    id: 164845
-    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
 related_article5:
-    id: 164847
-    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    id: 164844
+    title: >-
+        What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
+    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
 ---
 
 &nbsp;

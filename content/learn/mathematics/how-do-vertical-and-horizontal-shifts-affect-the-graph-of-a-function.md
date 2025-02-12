@@ -2,8 +2,10 @@
 _schema: default
 id: 163796
 date: 2025-01-27
-title: How do vertical and horizontal shifts affect the graph of a function?
-article_title: How do vertical and horizontal shifts affect the graph of a function?
+title: >-
+    How do vertical and horizontal shifts affect the graph of a function?
+article_title: >-
+    How do vertical and horizontal shifts affect the graph of a function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function.
 url: /learn/mathematics/questions/how-do-vertical-and-horizontal-shifts-affect-the-graph-of-a-function
 score: -1.0
 related_article1:
-    id: 163793
-    title: How do squaring and square root operations serve as inverse operations?
+    id: 163790
+    title: >-
+        What is the relationship between square root functions and quadratic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
 related_article2:
-    id: 163804
-    title: What is the graphical relationship between parabolas and half-parabolas?
+    id: 163795
+    title: >-
+        What techniques can be used to graph functions effectively?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
 related_article3:
-    id: 163793
-    title: How do squaring and square root operations serve as inverse operations?
+    id: 163799
+    title: >-
+        How do quadratic functions relate to square root functions graphically?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
 related_article4:
-    id: 163801
-    title: What are the key features of a function that can be identified from its graph?
+    id: 163800
+    title: >-
+        How can square root functions be used in real-world mathematical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
 related_article5:
-    id: 163803
-    title: How do translations and reflections transform a function's graph?
+    id: 163790
+    title: >-
+        What is the relationship between square root functions and quadratic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
+    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
 ---
 
 &nbsp;

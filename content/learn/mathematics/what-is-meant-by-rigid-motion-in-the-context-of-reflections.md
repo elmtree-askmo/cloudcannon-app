@@ -2,8 +2,10 @@
 _schema: default
 id: 162889
 date: 2025-01-25
-title: What is meant by rigid motion in the context of reflections?
-article_title: What is meant by rigid motion in the context of reflections?
+title: >-
+    What is meant by rigid motion in the context of reflections?
+article_title: >-
+    What is meant by rigid motion in the context of reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-meant-by-rigid-motion-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
 score: -1.0
 related_article1:
-    id: 162751
-    title: Why do reflections maintain the size and shape of geometric figures?
+    id: 162693
+    title: >-
+        How does reflecting a triangle differ from reflecting a quadrilateral?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
 related_article2:
-    id: 162386
-    title: What is meant by rigid motion in the context of reflections?
+    id: 162391
+    title: >-
+        What is the result of reflecting a point across the y-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-meant-by-rigid-motion-in-the-context-of-reflections
+    url: /learn/mathematics/questions/what-is-the-result-of-reflecting-a-point-across-the-yaxis
 related_article3:
-    id: 162748
-    title: How is horizontal symmetry defined in geometric reflections?
+    id: 162752
+    title: >-
+        What are opposite coordinates in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 related_article4:
-    id: 162689
-    title: What role does symmetry play in geometric figures?
+    id: 162824
+    title: >-
+        What role do reflections play in symmetry analysis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+    url: /learn/mathematics/questions/what-role-do-reflections-play-in-symmetry-analysis
 related_article5:
-    id: 162892
-    title: How does reflecting a point across the x-axis change its coordinates?
+    id: 162513
+    title: >-
+        Describe the effect of reflecting a point across both the x-axis and y-axis.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
+    url: /learn/mathematics/questions/describe-the-effect-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 ---
 
 &nbsp;

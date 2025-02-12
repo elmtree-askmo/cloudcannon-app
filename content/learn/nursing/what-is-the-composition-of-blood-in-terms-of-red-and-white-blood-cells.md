@@ -2,8 +2,10 @@
 _schema: default
 id: 169727
 date: 2025-02-05
-title: What is the composition of blood in terms of red and white blood cells?
-article_title: What is the composition of blood in terms of red and white blood cells?
+title: >-
+    What is the composition of blood in terms of red and white blood cells?
+article_title: >-
+    What is the composition of blood in terms of red and white blood cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cell
 url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
 score: -1.0
 related_article1:
-    id: 169713
-    title: What is the composition of urine in terms of nitrogenous waste?
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
 related_article2:
-    id: 169719
-    title: What is the significance of vitamins and minerals as micronutrients?
+    id: 169712
+    title: >-
+        Explain the process of waste and water removal in the kidneys.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+    url: /learn/nursing/questions/explain-the-process-of-waste-and-water-removal-in-the-kidneys
 related_article3:
-    id: 169704
-    title: What is the structure of a multiple choice question in an exam format?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
-related_article4:
-    id: 169708
-    title: Describe the flow of blood through the right atrium and ventricle of the heart.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
-related_article5:
     id: 169709
-    title: What role do the pulmonary artery and vein play in blood circulation?
+    title: >-
+        What role do the pulmonary artery and vein play in blood circulation?
     subject: Nursing
     url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
+related_article4:
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
+related_article5:
+    id: 169725
+    title: >-
+        What is the normal BMI range for adults?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
 ---
 
 &nbsp;

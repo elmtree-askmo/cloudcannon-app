@@ -2,8 +2,10 @@
 _schema: default
 id: 165774
 date: 2025-01-29
-title: How does TCP guarantee ordered delivery and handle data loss?
-article_title: How does TCP guarantee ordered delivery and handle data loss?
+title: >-
+    How does TCP guarantee ordered delivery and handle data loss?
+article_title: >-
+    How does TCP guarantee ordered delivery and handle data loss?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss.md
 url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 score: -1.0
 related_article1:
-    id: 165767
-    title: How does the transport layer handle segmenting and reassembling data?
+    id: 165772
+    title: >-
+        What are the key features of the UDP protocol that differentiate it from TCP?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
+    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
 related_article2:
-    id: 165782
-    title: What are the trade-offs between low overhead and reliability in UDP communication?
+    id: 165787
+    title: >-
+        How does TCP handle congestion control using timers and algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
+    url: /learn/computer-science/questions/how-does-tcp-handle-congestion-control-using-timers-and-algorithms
 related_article3:
-    id: 165785
-    title: How does UDP handle port number assignment and datagram forwarding?
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 related_article4:
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
+related_article5:
     id: 165775
-    title: What mechanisms does TCP use for flow control and congestion avoidance?
+    title: >-
+        What mechanisms does TCP use for flow control and congestion avoidance?
     subject: Computer Science
     url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
-related_article5:
-    id: 165779
-    title: What information is contained in the TCP header fields related to sequence and acknowledgment?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 ---
 
 &nbsp;

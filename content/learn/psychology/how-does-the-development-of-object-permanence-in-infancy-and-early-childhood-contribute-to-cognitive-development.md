@@ -2,8 +2,10 @@
 _schema: default
 id: 170539
 date: 2025-02-06
-title: How does the development of object permanence in infancy and early childhood contribute to cognitive development?
-article_title: How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+title: >-
+    How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+article_title: >-
+    How does the development of object permanence in infancy and early childhood contribute to cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-development-of-object-permanence-in-infancy-and-early-ch
 url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
 score: -1.0
 related_article1:
-    id: 170535
-    title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 related_article2:
-    id: 170536
-    title: How do first and second order neurons function in afferent sensory pathways?
+    id: 170533
+    title: >-
+        What is the genetic basis of Huntington's disease, and how is it inherited?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
 related_article3:
-    id: 170524
-    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    id: 170537
+    title: >-
+        What is diffusion tensor imaging, and how is it used to study brain connectivity?
     subject: Psychology
-    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
 related_article4:
-    id: 170526
-    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    id: 170532
+    title: >-
+        What are the primary symptoms of Parkinson's disease, and what treatments are available?
     subject: Psychology
-    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
 related_article5:
-    id: 170535
-    title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
 ---
 
 &nbsp;

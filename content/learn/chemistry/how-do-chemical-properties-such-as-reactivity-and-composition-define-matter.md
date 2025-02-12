@@ -2,8 +2,10 @@
 _schema: default
 id: 161917
 date: 2025-01-24
-title: How do chemical properties such as reactivity and composition define matter?
-article_title: How do chemical properties such as reactivity and composition define matter?
+title: >-
+    How do chemical properties such as reactivity and composition define matter?
+article_title: >-
+    How do chemical properties such as reactivity and composition define matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-chemical-properties-such-as-reactivity-and-composition-define-
 url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 score: -1.0
 related_article1:
-    id: 161885
-    title: What are the defining characteristics of homogeneous mixtures?
+    id: 161834
+    title: >-
+        What is the significance of chemical symbols in representing elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 related_article2:
-    id: 161890
-    title: How do chemical properties such as reactivity and composition define matter?
+    id: 161879
+    title: >-
+        What are the characteristics of homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-homogeneous-mixtures
 related_article3:
-    id: 161713
-    title: What are the key characteristics of homogeneous mixtures?
+    id: 161816
+    title: >-
+        What is the significance of chemical symbols in representing elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-characteristics-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 related_article4:
-    id: 161876
-    title: What is the definition of matter in terms of mass and volume?
+    id: 161907
+    title: >-
+        How do heterogeneous mixtures differ from homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
 related_article5:
-    id: 161909
-    title: How are chemical formulas used to represent compounds?
+    id: 161816
+    title: >-
+        What is the significance of chemical symbols in representing elements?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
 ---
 
 &nbsp;

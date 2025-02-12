@@ -2,8 +2,10 @@
 _schema: default
 id: 161789
 date: 2025-01-24
-title: Why are functional groups important in determining the chemical properties of biological molecules?
-article_title: Why are functional groups important in determining the chemical properties of biological molecules?
+title: >-
+    Why are functional groups important in determining the chemical properties of biological molecules?
+article_title: >-
+    Why are functional groups important in determining the chemical properties of biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-functional-groups-important-in-determining-the-chemical-prope
 url: /learn/education-studies/questions/why-are-functional-groups-important-in-determining-the-chemical-properties-of-biological-molecules
 score: -1.0
 related_article1:
-    id: 161787
-    title: How do the structures of DNA and RNA differ, and what are their respective functions?
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 related_article2:
-    id: 161787
-    title: How do the structures of DNA and RNA differ, and what are their respective functions?
+    id: 161791
+    title: >-
+        What is the role of carbohydrates and lipids in energy storage?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
+    url: /learn/education-studies/questions/what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage
 related_article3:
-    id: 161786
-    title: What are the primary functions of proteins in biological systems?
+    id: 161796
+    title: >-
+        How do enzymes function as catalysts in biological processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-functions-of-proteins-in-biological-systems
+    url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
 related_article4:
-    id: 161783
-    title: Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+    id: 161794
+    title: >-
+        How does molecular structure facilitate function in biological molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
+    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
 related_article5:
-    id: 161797
-    title: What is the importance of transport proteins in membrane transport?
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-transport-proteins-in-membrane-transport
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 ---
 
 &nbsp;

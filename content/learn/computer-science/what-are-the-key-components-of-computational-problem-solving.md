@@ -2,8 +2,10 @@
 _schema: default
 id: 161033
 date: 2025-01-24
-title: What are the key components of computational problem solving?
-article_title: What are the key components of computational problem solving?
+title: >-
+    What are the key components of computational problem solving?
+article_title: >-
+    What are the key components of computational problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-computational-problem-solving.md
 url: /learn/computer-science/questions/what-are-the-key-components-of-computational-problem-solving
 score: -1.0
 related_article1:
-    id: 160703
-    title: Why is algorithm efficiency important in computational problem solving?
+    id: 160707
+    title: >-
+        How does problem analysis contribute to computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
+    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
 related_article2:
-    id: 161045
-    title: How is cryptography used to ensure information security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
-related_article3:
-    id: 161046
-    title: What are the key differences between procedural and object-oriented programming paradigms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
-related_article4:
-    id: 160910
-    title: How is machine learning applied in artificial intelligence?
+    id: 160729
+    title: >-
+        How is machine learning applied in artificial intelligence?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-machine-learning-applied-in-artificial-intelligence
-related_article5:
-    id: 160700
-    title: How does abstraction help in simplifying complex computing problems?
+related_article3:
+    id: 160703
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
+related_article4:
+    id: 161044
+    title: >-
+        What is the role of simulation models in computer simulation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
+related_article5:
+    id: 160987
+    title: >-
+        What are the principles of usability in user interface design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
 ---
 
 &nbsp;

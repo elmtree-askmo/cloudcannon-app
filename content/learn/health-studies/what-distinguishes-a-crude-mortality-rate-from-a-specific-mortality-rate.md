@@ -2,8 +2,10 @@
 _schema: default
 id: 163312
 date: 2025-01-26
-title: What distinguishes a crude mortality rate from a specific mortality rate?
-article_title: What distinguishes a crude mortality rate from a specific mortality rate?
+title: >-
+    What distinguishes a crude mortality rate from a specific mortality rate?
+article_title: >-
+    What distinguishes a crude mortality rate from a specific mortality rate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-r
 url: /learn/health-studies/questions/what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-rate
 score: -1.0
 related_article1:
-    id: 163308
-    title: What are the primary purposes of descriptive epidemiology?
+    id: 162987
+    title: >-
+        How do outbreaks differ from epidemics in terms of their definitions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article2:
-    id: 162992
-    title: How do positive and negative associations differ in epidemiology?
+    id: 162988
+    title: >-
+        What is the role of public health surveillance in responding to outbreaks?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
 related_article3:
-    id: 162985
-    title: How do descriptive and analytic epidemiologic questions differ in their objectives?
+    id: 163309
+    title: >-
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 related_article4:
-    id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+    id: 163324
+    title: >-
+        How is the Pearson correlation coefficient used in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
 related_article5:
-    id: 163202
-    title: What are the primary purposes of public health surveillance?
+    id: 163318
+    title: >-
+        What is the difference between an outbreak and an epidemic?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
 ---
 
 &nbsp;

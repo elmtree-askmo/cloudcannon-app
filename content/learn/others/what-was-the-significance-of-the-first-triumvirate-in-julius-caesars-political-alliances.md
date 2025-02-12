@@ -2,8 +2,10 @@
 _schema: default
 id: 166042
 date: 2025-01-29
-title: What was the significance of the First Triumvirate in Julius Caesar's political alliances?
-article_title: What was the significance of the First Triumvirate in Julius Caesar's political alliances?
+title: >-
+    What was the significance of the First Triumvirate in Julius Caesar's political alliances?
+article_title: >-
+    What was the significance of the First Triumvirate in Julius Caesar's political alliances?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-
 url: /learn/others/questions/what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-political-alliances
 score: -1.0
 related_article1:
-    id: 166040
-    title: What regions were identified as Celtic by Greek sources?
+    id: 166051
+    title: >-
+        What were the sacrificial rites associated with Gallic deities?
     subject: Others
-    url: /learn/others/questions/what-regions-were-identified-as-celtic-by-greek-sources
+    url: /learn/others/questions/what-were-the-sacrificial-rites-associated-with-gallic-deities
 related_article2:
+    id: 166056
+    title: >-
+        What were Pliny the Elder's observations about the Celts?
+    subject: Others
+    url: /learn/others/questions/what-were-pliny-the-elders-observations-about-the-celts
+related_article3:
+    id: 166055
+    title: >-
+        How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
+    subject: Others
+    url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
+related_article4:
     id: 166052
-    title: How did the social hierarchy of Celtic tribes function?
+    title: >-
+        How did the social hierarchy of Celtic tribes function?
     subject: Others
     url: /learn/others/questions/how-did-the-social-hierarchy-of-celtic-tribes-function
-related_article3:
-    id: 166057
-    title: How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
-    subject: Others
-    url: /learn/others/questions/how-did-roman-perspectives-such-as-caesars-narratives-shape-the-historical-accounts-of-the-celts
-related_article4:
-    id: 166050
-    title: Which deities were primarily worshipped by the Gauls, according to classical texts?
-    subject: Others
-    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 related_article5:
-    id: 166053
-    title: What were the main interactions between Celtic tribes and Romans?
+    id: 166052
+    title: >-
+        How did the social hierarchy of Celtic tribes function?
     subject: Others
-    url: /learn/others/questions/what-were-the-main-interactions-between-celtic-tribes-and-romans
+    url: /learn/others/questions/how-did-the-social-hierarchy-of-celtic-tribes-function
 ---
 
 &nbsp;

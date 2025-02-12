@@ -2,8 +2,10 @@
 _schema: default
 id: 166083
 date: 2025-01-29
-title: What role did artistic expression play in Gaulish culture, especially in clothing and armor design?
-article_title: What role did artistic expression play in Gaulish culture, especially in clothing and armor design?
+title: >-
+    What role did artistic expression play in Gaulish culture, especially in clothing and armor design?
+article_title: >-
+    What role did artistic expression play in Gaulish culture, especially in clothing and armor design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-role-did-artistic-expression-play-in-gaulish-culture-especially-
 url: /learn/history-of-the-world/questions/what-role-did-artistic-expression-play-in-gaulish-culture-especially-in-clothing-and-armor-design
 score: 9.0
 related_article1:
-    id: 166087
-    title: What methods of divination were used by the Gauls, and how did they influence decision-making?
+    id: 166078
+    title: >-
+        Identify the main types of weapons used by the Gauls and their characteristics.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-methods-of-divination-were-used-by-the-gauls-and-how-did-they-influence-decisionmaking
+    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
 related_article2:
-    id: 166077
-    title: What strategies did Gauls employ during the initial engagement in battle using chariots?
+    id: 166086
+    title: >-
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-gauls-employ-during-the-initial-engagement-in-battle-using-chariots
+    url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
 related_article3:
-    id: 166077
-    title: What strategies did Gauls employ during the initial engagement in battle using chariots?
+    id: 166084
+    title: >-
+        Describe the characteristics of Gaulish speech and the role of bards in their society.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-gauls-employ-during-the-initial-engagement-in-battle-using-chariots
+    url: /learn/history-of-the-world/questions/describe-the-characteristics-of-gaulish-speech-and-the-role-of-bards-in-their-society
 related_article4:
-    id: 166075
-    title: How did Gauls utilize psychological warfare in combat?
+    id: 166078
+    title: >-
+        Identify the main types of weapons used by the Gauls and their characteristics.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-gauls-utilize-psychological-warfare-in-combat
+    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
 related_article5:
     id: 166075
-    title: How did Gauls utilize psychological warfare in combat?
+    title: >-
+        How did Gauls utilize psychological warfare in combat?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-gauls-utilize-psychological-warfare-in-combat
 ---

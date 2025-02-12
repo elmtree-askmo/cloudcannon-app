@@ -2,8 +2,10 @@
 _schema: default
 id: 163261
 date: 2025-01-26
-title: What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
-article_title: What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
+title: >-
+    What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
+article_title: >-
+    What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-tools-and-techniques-are-used-in-the-critical-appraisal-of-syste
 url: /learn/health-studies/questions/what-tools-and-techniques-are-used-in-the-critical-appraisal-of-systematic-reviews-and-metaanalyses
 score: -1.0
 related_article1:
-    id: 163262
-    title: What are point of care tools and how are they used in clinical settings?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
-related_article2:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
-related_article3:
     id: 163249
-    title: What strategies can be employed to reduce bias in research?
+    title: >-
+        What strategies can be employed to reduce bias in research?
     subject: Health Studies
     url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
+related_article2:
+    id: 163258
+    title: >-
+        How does the traditional evidence-based medicine pyramid differ from the updated version?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-traditional-evidencebased-medicine-pyramid-differ-from-the-updated-version
+related_article3:
+    id: 163260
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
 related_article4:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    id: 163259
+    title: >-
+        What role do systematic reviews and meta-analyses play in evidence appraisal?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+    url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
 related_article5:
-    id: 163250
-    title: How can confounders be identified and adjusted for in a study?
+    id: 163252
+    title: >-
+        How do descriptive studies differ from analytic studies in terms of study design?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-confounders-be-identified-and-adjusted-for-in-a-study
+    url: /learn/health-studies/questions/how-do-descriptive-studies-differ-from-analytic-studies-in-terms-of-study-design
 ---
 
 &nbsp;

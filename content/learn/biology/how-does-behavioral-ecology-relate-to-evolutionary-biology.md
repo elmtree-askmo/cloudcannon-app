@@ -2,8 +2,10 @@
 _schema: default
 id: 170907
 date: 2025-02-07
-title: How does behavioral ecology relate to evolutionary biology?
-article_title: How does behavioral ecology relate to evolutionary biology?
+title: >-
+    How does behavioral ecology relate to evolutionary biology?
+article_title: >-
+    How does behavioral ecology relate to evolutionary biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-behavioral-ecology-relate-to-evolutionary-biology.md
 url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
 score: -1.0
 related_article1:
-    id: 170898
-    title: How do prey evasion tactics impact predator-prey interactions?
-    subject: Biology
-    url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
-related_article2:
     id: 170901
-    title: What cognitive processes are involved in animal decision-making?
+    title: >-
+        What cognitive processes are involved in animal decision-making?
     subject: Biology
     url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article2:
+    id: 170906
+    title: >-
+        What are the limitations of mathematical models in ecological modeling?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
 related_article3:
-    id: 170908
-    title: What is the significance of adaptation and fitness in behavioral ecology?
+    id: 170894
+    title: >-
+        How is energy profitability calculated in foraging theory?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
 related_article4:
-    id: 170905
-    title: What is the purpose of ecological modeling in studying ecosystems?
+    id: 170903
+    title: >-
+        What are some techniques used to measure energy expenditure in animals?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
-related_article5:
-    id: 170904
-    title: How do activity levels affect energy use in animals?
-    subject: Biology
-    url: /learn/biology/questions/how-do-activity-levels-affect-energy-use-in-animals
+    url: /learn/biology/questions/what-are-some-techniques-used-to-measure-energy-expenditure-in-animals
 ---
 
 &nbsp;

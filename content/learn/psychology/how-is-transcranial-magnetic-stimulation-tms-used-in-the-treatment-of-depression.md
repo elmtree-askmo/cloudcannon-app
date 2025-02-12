@@ -2,8 +2,10 @@
 _schema: default
 id: 164428
 date: 2025-01-28
-title: How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
-article_title: How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+title: >-
+    How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
+article_title: >-
+    How is Transcranial Magnetic Stimulation (TMS) used in the treatment of depression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of
 url: /learn/psychology/questions/how-is-transcranial-magnetic-stimulation-tms-used-in-the-treatment-of-depression
 score: -1.0
 related_article1:
-    id: 164431
-    title: Why is early language exposure important for vocabulary and grammar development?
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
 related_article2:
-    id: 164433
-    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    id: 164420
+    title: >-
+        What role does competition and inhibition play in brain structure and emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
 related_article3:
-    id: 164432
-    title: What impact does cortisol have on memory and learning during stress?
+    id: 164438
+    title: >-
+        Which brain regions are involved in the neurobiology of depression and anxiety, and what are their functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-the-neurobiology-of-depression-and-anxiety-and-what-are-their-functions
 related_article4:
-    id: 164418
-    title: What is the difference between independent and dependent variables in experimental methods?
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 related_article5:
-    id: 164424
-    title: What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    id: 164421
+    title: >-
+        How do cultural differences impact mental health diagnosis and treatment?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
 ---
 
 &nbsp;

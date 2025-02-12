@@ -2,8 +2,10 @@
 _schema: default
 id: 161793
 date: 2025-01-24
-title: What is the role of proteins and nucleic acids in cell signaling?
-article_title: What is the role of proteins and nucleic acids in cell signaling?
+title: >-
+    What is the role of proteins and nucleic acids in cell signaling?
+article_title: >-
+    What is the role of proteins and nucleic acids in cell signaling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling.md
 url: /learn/education-studies/questions/what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling
 score: -1.0
 related_article1:
-    id: 161792
-    title: How do proteins and carbohydrates contribute to structural support in organisms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-proteins-and-carbohydrates-contribute-to-structural-support-in-organisms
-related_article2:
-    id: 161782
-    title: What is the difference between dehydration reactions and hydrolysis reactions in the polymerization process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dehydration-reactions-and-hydrolysis-reactions-in-the-polymerization-process
-related_article3:
-    id: 161780
-    title: What are the four main classes of biological molecules?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-four-main-classes-of-biological-molecules
-related_article4:
     id: 161794
-    title: How does molecular structure facilitate function in biological molecules?
+    title: >-
+        How does molecular structure facilitate function in biological molecules?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
-related_article5:
-    id: 161788
-    title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+related_article2:
+    id: 161783
+    title: >-
+        Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
+    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
+related_article3:
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
+related_article4:
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
+related_article5:
+    id: 161783
+    title: >-
+        Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
 ---
 
 &nbsp;

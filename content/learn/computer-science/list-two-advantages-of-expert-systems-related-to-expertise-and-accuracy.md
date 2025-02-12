@@ -2,8 +2,10 @@
 _schema: default
 id: 161222
 date: 2025-01-24
-title: List two advantages of expert systems related to expertise and accuracy.
-article_title: List two advantages of expert systems related to expertise and accuracy.
+title: >-
+    List two advantages of expert systems related to expertise and accuracy.
+article_title: >-
+    List two advantages of expert systems related to expertise and accuracy.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: list-two-advantages-of-expert-systems-related-to-expertise-and-accura
 url: /learn/computer-science/questions/list-two-advantages-of-expert-systems-related-to-expertise-and-accuracy
 score: -1.0
 related_article1:
-    id: 161402
-    title: Explain the process of forward chaining and provide an example of its application.
+    id: 161221
+    title: >-
+        What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-of-forward-chaining-and-provide-an-example-of-its-application
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
 related_article2:
-    id: 161220
-    title: What are the key steps involved in setting up an expert system, particularly in terms of knowledge base and rules base creation?
+    id: 161403
+    title: >-
+        Describe the process of backward chaining and give an example of where it might be used.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-process-of-backward-chaining-and-give-an-example-of-where-it-might-be-used
+related_article3:
+    id: 161405
+    title: >-
+        What are the key steps involved in setting up an expert system, particularly in terms of knowledge base and rules base creation?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-steps-involved-in-setting-up-an-expert-system-particularly-in-terms-of-knowledge-base-and-rules-base-creation
-related_article3:
-    id: 161211
-    title: Differentiate between factual knowledge and heuristic knowledge in the context of a knowledge base.
-    subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-factual-knowledge-and-heuristic-knowledge-in-the-context-of-a-knowledge-base
 related_article4:
-    id: 161208
-    title: What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
+    id: 161209
+    title: >-
+        Identify the main components of an expert system and briefly describe their roles.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
+    url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-roles
 related_article5:
-    id: 161397
-    title: What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
+    id: 161405
+    title: >-
+        What are the key steps involved in setting up an expert system, particularly in terms of knowledge base and rules base creation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
+    url: /learn/computer-science/questions/what-are-the-key-steps-involved-in-setting-up-an-expert-system-particularly-in-terms-of-knowledge-base-and-rules-base-creation
 ---
 
 &nbsp;

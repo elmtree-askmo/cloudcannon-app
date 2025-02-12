@@ -2,8 +2,10 @@
 _schema: default
 id: 167865
 date: 2025-02-01
-title: Why is accurate DNA replication crucial for genetic stability?
-article_title: Why is accurate DNA replication crucial for genetic stability?
+title: >-
+    Why is accurate DNA replication crucial for genetic stability?
+article_title: >-
+    Why is accurate DNA replication crucial for genetic stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-accurate-dna-replication-crucial-for-genetic-stability.md
 url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
 score: -1.0
 related_article1:
-    id: 167853
-    title: What are the key sources for finding recent research articles on genetic diseases?
+    id: 167855
+    title: >-
+        What is the significance of transmission genetics in breeding programs?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+    url: /learn/nursing/questions/what-is-the-significance-of-transmission-genetics-in-breeding-programs
 related_article2:
+    id: 167863
+    title: >-
+        How does oogenesis differ from spermatogenesis in terms of process and outcome?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
+related_article3:
     id: 167856
-    title: How do the stages of mitosis ensure accurate cell division?
+    title: >-
+        How do the stages of mitosis ensure accurate cell division?
     subject: Nursing
     url: /learn/nursing/questions/how-do-the-stages-of-mitosis-ensure-accurate-cell-division
-related_article3:
-    id: 167854
-    title: How does the peer review process contribute to the quality of research articles?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
 related_article4:
+    id: 167867
+    title: >-
+        What are the phases of the cell cycle and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
+related_article5:
     id: 167857
-    title: What are the main differences between mitosis and meiosis?
+    title: >-
+        What are the main differences between mitosis and meiosis?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
-related_article5:
-    id: 167856
-    title: How do the stages of mitosis ensure accurate cell division?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-the-stages-of-mitosis-ensure-accurate-cell-division
 ---
 
 &nbsp;

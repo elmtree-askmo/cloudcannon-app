@@ -2,8 +2,10 @@
 _schema: default
 id: 163835
 date: 2025-01-27
-title: Describe the general shape of a cubic function and its standard form.
-article_title: Describe the general shape of a cubic function and its standard form.
+title: >-
+    Describe the general shape of a cubic function and its standard form.
+article_title: >-
+    Describe the general shape of a cubic function and its standard form.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-general-shape-of-a-cubic-function-and-its-standard-form.
 url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
 score: -1.0
 related_article1:
-    id: 163844
-    title: How do exponential functions differ from linear functions in terms of growth patterns?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
-related_article2:
-    id: 163833
-    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
-related_article3:
-    id: 163841
-    title: Why is understanding the domain and range important when analyzing functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
-related_article4:
-    id: 163839
-    title: What techniques can be used to graph functions manually and with software?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
-related_article5:
     id: 163842
-    title: How do you find the x-intercepts and y-intercepts of a function?
+    title: >-
+        How do you find the x-intercepts and y-intercepts of a function?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
+related_article2:
+    id: 163846
+    title: >-
+        How can functions be used in mathematical modeling for real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+related_article3:
+    id: 163849
+    title: >-
+        What are the key features to identify when analyzing the graph of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function
+related_article4:
+    id: 163848
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+related_article5:
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 ---
 
 &nbsp;

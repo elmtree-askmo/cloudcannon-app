@@ -2,8 +2,10 @@
 _schema: default
 id: 168531
 date: 2025-02-03
-title: How can emotional appeal impact an audience during a speech?
-article_title: How can emotional appeal impact an audience during a speech?
+title: >-
+    How can emotional appeal impact an audience during a speech?
+article_title: >-
+    How can emotional appeal impact an audience during a speech?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-emotional-appeal-impact-an-audience-during-a-speech.md
 url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
 score: -1.0
 related_article1:
-    id: 168544
-    title: What types of evidence are commonly used in speeches to support claims?
+    id: 168550
+    title: >-
+        What techniques can be used to manage disagreement respectfully in a discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-evidence-are-commonly-used-in-speeches-to-support-claims
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
 related_article2:
-    id: 168536
-    title: What are the main elements of persuasion in speech?
+    id: 168548
+    title: >-
+        How can reasoning enhance the credibility of a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-elements-of-persuasion-in-speech
+    url: /learn/education-studies/questions/how-can-reasoning-enhance-the-credibility-of-a-speech
 related_article3:
-    id: 168549
-    title: What are the characteristics of a collegial discussion?
+    id: 168540
+    title: >-
+        Why is it important to incorporate diverse perspectives in discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
+    url: /learn/education-studies/questions/why-is-it-important-to-incorporate-diverse-perspectives-in-discussions
 related_article4:
-    id: 168528
-    title: What is diction and why is it important in speech?
+    id: 168530
+    title: >-
+        What are some common rhetorical strategies used in speeches?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-diction-and-why-is-it-important-in-speech
+    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
 related_article5:
-    id: 168549
-    title: What are the characteristics of a collegial discussion?
+    id: 168553
+    title: >-
+        What strategies can be employed for conflict resolution while maintaining respectful dialogue?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-for-conflict-resolution-while-maintaining-respectful-dialogue
 ---
 
 &nbsp;

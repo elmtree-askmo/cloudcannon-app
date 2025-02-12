@@ -2,8 +2,10 @@
 _schema: default
 id: 163895
 date: 2025-01-28
-title: What role did bards play in the preservation and dissemination of Greek myths?
-article_title: What role did bards play in the preservation and dissemination of Greek myths?
+title: >-
+    What role did bards play in the preservation and dissemination of Greek myths?
+article_title: >-
+    What role did bards play in the preservation and dissemination of Greek myths?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-bards-play-in-the-preservation-and-dissemination-of-gre
 url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
 score: 9.0
 related_article1:
-    id: 163900
-    title: What are some common themes found in mythological narratives?
+    id: 163896
+    title: >-
+        List the defining characteristics of epic poetry in ancient Greek literature.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
+    url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
 related_article2:
-    id: 163904
-    title: In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+    id: 163903
+    title: >-
+        How do transformation myths serve as etiological myths in Greek culture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+    url: /learn/art-history-and-literature/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
 related_article3:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
+    id: 163905
+    title: >-
+        How have Greek myths been preserved and evolved over time through storytelling traditions?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
 related_article4:
-    id: 163906
-    title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article5:
-    id: 163888
-    title: Who are the major Olympian deities in Greek mythology, and what are their primary domains?
+    id: 163902
+    title: >-
+        Provide an example of a transformation myth and explain its role in Greek mythology.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
+    url: /learn/art-history-and-literature/questions/provide-an-example-of-a-transformation-myth-and-explain-its-role-in-greek-mythology
 ---
 
 &nbsp;

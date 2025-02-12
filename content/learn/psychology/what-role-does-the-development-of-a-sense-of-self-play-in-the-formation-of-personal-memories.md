@@ -2,8 +2,10 @@
 _schema: default
 id: 168073
 date: 2025-02-02
-title: What role does the development of a sense of self play in the formation of personal memories?
-article_title: What role does the development of a sense of self play in the formation of personal memories?
+title: >-
+    What role does the development of a sense of self play in the formation of personal memories?
+article_title: >-
+    What role does the development of a sense of self play in the formation of personal memories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-the-development-of-a-sense-of-self-play-in-the-formati
 url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
 score: -1.0
 related_article1:
-    id: 168067
-    title: What is the synchrony effect and how does it relate to age-related circadian differences?
+    id: 168065
+    title: >-
+        What are the optimal performance times for visual and verbal memory tasks in different age groups?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
+    url: /learn/psychology/questions/what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups
 related_article2:
+    id: 168062
+    title: >-
+        How does language development influence memory encoding in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
+related_article3:
+    id: 168071
+    title: >-
+        Why is adolescence considered important for memory recall and adult identity formation?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
+related_article4:
+    id: 168063
+    title: >-
+        What is the reminiscence bump and what age range does it typically cover?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover
+related_article5:
     id: 168074
-    title: How does self-awareness influence memory recall and personal memory formation?
+    title: >-
+        How does self-awareness influence memory recall and personal memory formation?
     subject: Psychology
     url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
-related_article3:
-    id: 168067
-    title: What is the synchrony effect and how does it relate to age-related circadian differences?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
-related_article4:
-    id: 168072
-    title: How does language acquisition affect the development of personal memories in young children?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
-related_article5:
-    id: 168066
-    title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169468
 date: 2025-02-05
-title: How does patient monitoring technology enhance the accuracy of vital sign recording?
-article_title: How does patient monitoring technology enhance the accuracy of vital sign recording?
+title: >-
+    How does patient monitoring technology enhance the accuracy of vital sign recording?
+article_title: >-
+    How does patient monitoring technology enhance the accuracy of vital sign recording?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-
 url: /learn/nursing/questions/how-does-patient-monitoring-technology-enhance-the-accuracy-of-vital-sign-recording
 score: -1.0
 related_article1:
-    id: 169465
-    title: How is the Glasgow Coma Scale used to assess neurological function?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
-related_article2:
     id: 169464
-    title: What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
+    title: >-
+        What vital signs are crucial for evaluating circulation, and how do they inform clinical decisions?
     subject: Nursing
     url: /learn/nursing/questions/what-vital-signs-are-crucial-for-evaluating-circulation-and-how-do-they-inform-clinical-decisions
+related_article2:
+    id: 169470
+    title: >-
+        How do you interpret NEWS scores to make clinical decisions?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-interpret-news-scores-to-make-clinical-decisions
 related_article3:
-    id: 169465
-    title: How is the Glasgow Coma Scale used to assess neurological function?
+    id: 169462
+    title: >-
+        What are the key techniques used in airway management to prevent obstruction?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-the-glasgow-coma-scale-used-to-assess-neurological-function
+    url: /learn/nursing/questions/what-are-the-key-techniques-used-in-airway-management-to-prevent-obstruction
 related_article4:
-    id: 169463
-    title: How can different breathing patterns indicate underlying respiratory conditions?
+    id: 169473
+    title: >-
+        What is the difference between a primary and secondary survey in systematic assessment?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-different-breathing-patterns-indicate-underlying-respiratory-conditions
+    url: /learn/nursing/questions/what-is-the-difference-between-a-primary-and-secondary-survey-in-systematic-assessment
 related_article5:
-    id: 169466
-    title: Why is a full body examination important in exposure assessment?
+    id: 169471
+    title: >-
+        What are the early warning signs of patient deterioration, and how should they be systematically assessed?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-a-full-body-examination-important-in-exposure-assessment
+    url: /learn/nursing/questions/what-are-the-early-warning-signs-of-patient-deterioration-and-how-should-they-be-systematically-assessed
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166308
 date: 2025-01-30
-title: What are the clinical manifestations of lymph node enlargement in lymphoma?
-article_title: What are the clinical manifestations of lymph node enlargement in lymphoma?
+title: >-
+    What are the clinical manifestations of lymph node enlargement in lymphoma?
+article_title: >-
+    What are the clinical manifestations of lymph node enlargement in lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lym
 url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
 score: -1.0
 related_article1:
-    id: 166293
-    title: Which protein markers are significant in the diagnosis of leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
-related_article2:
-    id: 166295
-    title: What are the primary risk factors for developing leukemia related to radiation exposure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
-related_article3:
-    id: 166302
-    title: How does the consolidation phase differ from the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
-related_article4:
     id: 166291
-    title: What are the main types of leukemia and their distinguishing features?
+    title: >-
+        What are the main types of leukemia and their distinguishing features?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
-related_article5:
-    id: 166304
-    title: What are the distinguishing characteristics of Hodgkin's lymphoma?
+related_article2:
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+related_article3:
+    id: 166309
+    title: >-
+        What constitutional symptoms are associated with lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+related_article4:
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+related_article5:
+    id: 166316
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 ---
 
 &nbsp;

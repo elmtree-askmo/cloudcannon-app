@@ -2,8 +2,10 @@
 _schema: default
 id: 163386
 date: 2025-01-26
-title: Why is cultural integrity and identity important for the health and well-being of First Nations communities?
-article_title: Why is cultural integrity and identity important for the health and well-being of First Nations communities?
+title: >-
+    Why is cultural integrity and identity important for the health and well-being of First Nations communities?
+article_title: >-
+    Why is cultural integrity and identity important for the health and well-being of First Nations communities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: why-is-cultural-integrity-and-identity-important-for-the-health-and-w
 url: /learn/health-studies/questions/why-is-cultural-integrity-and-identity-important-for-the-health-and-wellbeing-of-first-nations-communities
 score: -1.0
 related_article1:
-    id: 163380
-    title: What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    id: 163372
+    title: >-
+        How do current health disparities between First Nations and the national average manifest in terms of infectious diseases and immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+    url: /learn/health-studies/questions/how-do-current-health-disparities-between-first-nations-and-the-national-average-manifest-in-terms-of-infectious-diseases-and-immunity
 related_article2:
-    id: 163376
-    title: How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
+    id: 163385
+    title: >-
+        How does a connection to the Creator influence the spiritual and cultural knowledge of First Nations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
+    url: /learn/health-studies/questions/how-does-a-connection-to-the-creator-influence-the-spiritual-and-cultural-knowledge-of-first-nations
 related_article3:
-    id: 163376
-    title: How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
+    id: 163383
+    title: >-
+        How does the transition from a traditional land-based economy to a wage-based economy affect economic sustainability for First Nations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
+    url: /learn/health-studies/questions/how-does-the-transition-from-a-traditional-landbased-economy-to-a-wagebased-economy-affect-economic-sustainability-for-first-nations
 related_article4:
-    id: 163380
-    title: What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    id: 163377
+    title: >-
+        What were the impacts of the British North America Act and the Indian Act on First Nations communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+    url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
 related_article5:
     id: 163371
-    title: What were the impacts of European contact on the health status of First Nations?
+    title: >-
+        What were the impacts of European contact on the health status of First Nations?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-impacts-of-european-contact-on-the-health-status-of-first-nations
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 161165
 date: 2025-01-24
-title: Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
-article_title: Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
+title: >-
+    Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
+article_title: >-
+    Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-an-approximation-algorithm-and-its-use-in-solving-the-travel
 url: /learn/computer-science/questions/describe-an-approximation-algorithm-and-its-use-in-solving-the-traveling-salesperson-problem
 score: -1.0
 related_article1:
-    id: 160936
-    title: What are NP-complete problems and why are they significant in computational theory?
+    id: 161154
+    title: >-
+        Compare the efficiency of insertion sort and merge sort in terms of input size.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-npcomplete-problems-and-why-are-they-significant-in-computational-theory
+    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-in-terms-of-input-size
 related_article2:
-    id: 161160
-    title: What are the characteristics of online algorithms and how do they differ from traditional algorithms?
+    id: 161152
+    title: >-
+        What factors should be considered when choosing a sorting algorithm?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-algorithms-and-how-do-they-differ-from-traditional-algorithms
+    url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
 related_article3:
-    id: 160937
-    title: How do multicore processors influence parallelism in algorithm design?
+    id: 161155
+    title: >-
+        Why are data structures crucial in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallelism-in-algorithm-design
+    url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
 related_article4:
-    id: 161164
-    title: What is the significance of graph representation in graph algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-graph-representation-in-graph-algorithms
-related_article5:
     id: 160932
-    title: Compare the efficiency of insertion sort and merge sort with respect to input size.
+    title: >-
+        Compare the efficiency of insertion sort and merge sort with respect to input size.
     subject: Computer Science
     url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-with-respect-to-input-size
+related_article5:
+    id: 161064
+    title: >-
+        What are the characteristics of online algorithms and how do they differ from traditional algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-algorithms-and-how-do-they-differ-from-traditional-algorithms
 ---
 
 &nbsp;

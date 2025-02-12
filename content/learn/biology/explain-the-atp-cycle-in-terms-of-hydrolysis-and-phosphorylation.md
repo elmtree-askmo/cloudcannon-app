@@ -2,8 +2,10 @@
 _schema: default
 id: 170980
 date: 2025-02-07
-title: Explain the ATP cycle in terms of hydrolysis and phosphorylation.
-article_title: Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+title: >-
+    Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+article_title: >-
+    Explain the ATP cycle in terms of hydrolysis and phosphorylation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-p
 score: -1.0
 related_article1:
     id: 170979
-    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
     subject: Biology
     url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 related_article2:
-    id: 170982
-    title: How do oxidation and reduction reactions facilitate electron transfer?
+    id: 170993
+    title: >-
+        What role does phosphorylation play in active transport and muscle contraction?
     subject: Biology
-    url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
 related_article3:
-    id: 170979
-    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    id: 170994
+    title: >-
+        How can energy diagrams be used to interpret favorable versus unfavorable reactions?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
 related_article4:
-    id: 170984
-    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    id: 170994
+    title: >-
+        How can energy diagrams be used to interpret favorable versus unfavorable reactions?
     subject: Biology
-    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
 related_article5:
     id: 170979
-    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
     subject: Biology
     url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 ---

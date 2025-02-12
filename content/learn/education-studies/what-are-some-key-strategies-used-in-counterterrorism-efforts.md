@@ -2,8 +2,10 @@
 _schema: default
 id: 164945
 date: 2025-01-28
-title: What are some key strategies used in counterterrorism efforts?
-article_title: What are some key strategies used in counterterrorism efforts?
+title: >-
+    What are some key strategies used in counterterrorism efforts?
+article_title: >-
+    What are some key strategies used in counterterrorism efforts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-some-key-strategies-used-in-counterterrorism-efforts.md
 url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 score: -1.0
 related_article1:
-    id: 164944
-    title: How is terrorism defined based on political and religious motivations?
+    id: 164932
+    title: >-
+        How can you evaluate the quality of a research article?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-terrorism-defined-based-on-political-and-religious-motivations
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-quality-of-a-research-article
 related_article2:
-    id: 164935
-    title: How does question order affect survey design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-question-order-affect-survey-design
-related_article3:
-    id: 164939
-    title: What is the primary purpose of military aid?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
-related_article4:
     id: 164933
-    title: What are the primary methods of data collection in research?
+    title: >-
+        What are the primary methods of data collection in research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
+related_article3:
+    id: 164941
+    title: >-
+        How do media and cultural factors influence political views?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
+related_article4:
+    id: 164935
+    title: >-
+        How does question order affect survey design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-question-order-affect-survey-design
 related_article5:
     id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
+    title: >-
+        What are the main types of advocacy groups and their focus areas?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
 ---

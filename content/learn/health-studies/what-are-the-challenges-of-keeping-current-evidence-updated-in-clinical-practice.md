@@ -2,8 +2,10 @@
 _schema: default
 id: 163264
 date: 2025-01-26
-title: What are the challenges of keeping current evidence updated in clinical practice?
-article_title: What are the challenges of keeping current evidence updated in clinical practice?
+title: >-
+    What are the challenges of keeping current evidence updated in clinical practice?
+article_title: >-
+    What are the challenges of keeping current evidence updated in clinical practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-of-keeping-current-evidence-updated-in-clinic
 url: /learn/health-studies/questions/what-are-the-challenges-of-keeping-current-evidence-updated-in-clinical-practice
 score: -1.0
 related_article1:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    id: 163262
+    title: >-
+        What are point of care tools and how are they used in clinical settings?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
 related_article2:
-    id: 163249
-    title: What strategies can be employed to reduce bias in research?
+    id: 163265
+    title: >-
+        How can healthcare professionals balance current evidence with clinical judgment in practice?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
+    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
 related_article3:
-    id: 163255
-    title: What is the difference between prevalence and incidence in descriptive studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
-related_article4:
-    id: 163251
-    title: What are the primary objectives of clinical studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
-related_article5:
     id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    title: >-
+        How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+related_article4:
+    id: 163248
+    title: >-
+        What are the main types of bias that can affect a study's results?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+related_article5:
+    id: 163254
+    title: >-
+        How can a DAG be used to identify confounders in a study?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
 ---
 
 &nbsp;

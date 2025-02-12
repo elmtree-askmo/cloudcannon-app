@@ -2,8 +2,10 @@
 _schema: default
 id: 159995
 date: 2025-01-23
-title: How do ordinary and symbolic landscapes reflect human action and symbolism?
-article_title: How do ordinary and symbolic landscapes reflect human action and symbolism?
+title: >-
+    How do ordinary and symbolic landscapes reflect human action and symbolism?
+article_title: >-
+    How do ordinary and symbolic landscapes reflect human action and symbolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symb
 url: /learn/sociology/questions/how-do-ordinary-and-symbolic-landscapes-reflect-human-action-and-symbolism
 score: -1.0
 related_article1:
-    id: 159820
-    title: How do daily routines and social norms contribute to the social construction of place?
+    id: 159823
+    title: >-
+        How do GIS and mapping contribute to geographic analysis and visualization?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
 related_article2:
-    id: 159825
-    title: What are the main types of map projections and their characteristics?
+    id: 159830
+    title: >-
+        Describe the concept of sense of place and its importance to insiders and outsiders.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
+    url: /learn/sociology/questions/describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders
 related_article3:
-    id: 159823
-    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    id: 159830
+    title: >-
+        Describe the concept of sense of place and its importance to insiders and outsiders.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
+    url: /learn/sociology/questions/describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders
 related_article4:
-    id: 159823
-    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    id: 159818
+    title: >-
+        How do social and natural interactions influence spatial relationships?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
+    url: /learn/sociology/questions/how-do-social-and-natural-interactions-influence-spatial-relationships
 related_article5:
-    id: 159823
-    title: How do GIS and mapping contribute to geographic analysis and visualization?
+    id: 159826
+    title: >-
+        How do raster and vector maps differ in GIS applications?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-gis-and-mapping-contribute-to-geographic-analysis-and-visualization
+    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
 ---
 
 &nbsp;

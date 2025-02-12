@@ -2,8 +2,10 @@
 _schema: default
 id: 164000
 date: 2025-01-28
-title: What distinguishes the Age of Heroes in Hesiod’s Five Ages of Man?
-article_title: What distinguishes the Age of Heroes in Hesiod’s Five Ages of Man?
+title: >-
+    What distinguishes the Age of Heroes in Hesiod’s Five Ages of Man?
+article_title: >-
+    What distinguishes the Age of Heroes in Hesiod’s Five Ages of Man?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-the-age-of-heroes-in-hesiods-five-ages-of-man.md
 url: /learn/art-history-and-literature/questions/what-distinguishes-the-age-of-heroes-in-hesiods-five-ages-of-man
 score: 9.0
 related_article1:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
+    id: 163998
+    title: >-
+        What significant event marked the transition from the Hellenistic Period to the Roman Period?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
+    url: /learn/art-history-and-literature/questions/what-significant-event-marked-the-transition-from-the-hellenistic-period-to-the-roman-period
 related_article2:
-    id: 164004
-    title: What are the key characteristics that define a myth?
+    id: 163998
+    title: >-
+        What significant event marked the transition from the Hellenistic Period to the Roman Period?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-myth
+    url: /learn/art-history-and-literature/questions/what-significant-event-marked-the-transition-from-the-hellenistic-period-to-the-roman-period
 related_article3:
-    id: 163999
-    title: Describe the characteristics and significance of the Golden Age in Hesiod’s Five Ages of Man.
+    id: 164011
+    title: >-
+        What is the structuralist interpretation of mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-the-characteristics-and-significance-of-the-golden-age-in-hesiods-five-ages-of-man
+    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
 related_article4:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
+    id: 163997
+    title: >-
+        How did the Classical Period in Classical Studies come to an end?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
+    url: /learn/art-history-and-literature/questions/how-did-the-classical-period-in-classical-studies-come-to-an-end
 related_article5:
-    id: 164004
-    title: What are the key characteristics that define a myth?
+    id: 163998
+    title: >-
+        What significant event marked the transition from the Hellenistic Period to the Roman Period?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-myth
+    url: /learn/art-history-and-literature/questions/what-significant-event-marked-the-transition-from-the-hellenistic-period-to-the-roman-period
 ---
 
 &nbsp;

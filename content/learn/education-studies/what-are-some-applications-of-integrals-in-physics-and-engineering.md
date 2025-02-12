@@ -2,8 +2,10 @@
 _schema: default
 id: 169304
 date: 2025-02-05
-title: What are some applications of integrals in physics and engineering?
-article_title: What are some applications of integrals in physics and engineering?
+title: >-
+    What are some applications of integrals in physics and engineering?
+article_title: >-
+    What are some applications of integrals in physics and engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-applications-of-integrals-in-physics-and-engineering.md
 url: /learn/education-studies/questions/what-are-some-applications-of-integrals-in-physics-and-engineering
 score: -1.0
 related_article1:
-    id: 169294
-    title: How are vertical asymptotes identified in rational functions, and what is their graphical representation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vertical-asymptotes-identified-in-rational-functions-and-what-is-their-graphical-representation
-related_article2:
-    id: 169288
-    title: What are the characteristics of continuous functions, and how do polynomial functions fit this category?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-continuous-functions-and-how-do-polynomial-functions-fit-this-category
-related_article3:
     id: 169310
-    title: What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
+    title: >-
+        What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-types-of-functions-and-how-do-linear-and-quadratic-functions-differ-in-terms-of-domain-and-range
+related_article2:
+    id: 169291
+    title: >-
+        How do piecewise functions and absolute value functions illustrate discontinuous behavior?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-piecewise-functions-and-absolute-value-functions-illustrate-discontinuous-behavior
+related_article3:
+    id: 169299
+    title: >-
+        How can the domain and range of absolute value functions be determined?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-the-domain-and-range-of-absolute-value-functions-be-determined
 related_article4:
-    id: 169295
-    title: What is the behavior of functions near vertical asymptotes as they approach infinity?
+    id: 169297
+    title: >-
+        How is continuity at transition points in piecewise functions analyzed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-behavior-of-functions-near-vertical-asymptotes-as-they-approach-infinity
+    url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
 related_article5:
-    id: 169285
-    title: Describe the difference between the instantaneous rate of change and the average rate of change of a function.
+    id: 169290
+    title: >-
+        What are jump discontinuities and infinite discontinuities in functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-difference-between-the-instantaneous-rate-of-change-and-the-average-rate-of-change-of-a-function
+    url: /learn/education-studies/questions/what-are-jump-discontinuities-and-infinite-discontinuities-in-functions
 ---
 
 &nbsp;

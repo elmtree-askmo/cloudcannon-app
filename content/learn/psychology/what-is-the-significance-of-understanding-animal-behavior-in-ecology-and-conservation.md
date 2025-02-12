@@ -2,8 +2,10 @@
 _schema: default
 id: 166374
 date: 2025-01-30
-title: What is the significance of understanding animal behavior in ecology and conservation?
-article_title: What is the significance of understanding animal behavior in ecology and conservation?
+title: >-
+    What is the significance of understanding animal behavior in ecology and conservation?
+article_title: >-
+    What is the significance of understanding animal behavior in ecology and conservation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-understanding-animal-behavior-in-ecology-
 url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 score: -1.0
 related_article1:
-    id: 166389
-    title: Differentiate between homology and homoplasy with examples.
+    id: 166377
+    title: >-
+        Differentiate between proximate and ultimate questions in the context of animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
 related_article2:
-    id: 166384
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
 related_article3:
-    id: 166381
-    title: What are the different types of learning, and how do they impact animal behavior?
+    id: 166390
+    title: >-
+        What is convergent evolution, and how does it affect phenotypic traits?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
 related_article4:
-    id: 166384
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    id: 166393
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
 related_article5:
-    id: 166388
-    title: How do phylogenetic trees help in understanding evolutionary relationships among species?
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 ---
 
 &nbsp;

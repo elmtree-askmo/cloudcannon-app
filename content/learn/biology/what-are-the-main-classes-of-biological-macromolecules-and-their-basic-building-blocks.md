@@ -2,8 +2,10 @@
 _schema: default
 id: 167304
 date: 2025-01-31
-title: What are the main classes of biological macromolecules and their basic building blocks?
-article_title: What are the main classes of biological macromolecules and their basic building blocks?
+title: >-
+    What are the main classes of biological macromolecules and their basic building blocks?
+article_title: >-
+    What are the main classes of biological macromolecules and their basic building blocks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-classes-of-biological-macromolecules-and-their-basi
 url: /learn/biology/questions/what-are-the-main-classes-of-biological-macromolecules-and-their-basic-building-blocks
 score: -1.0
 related_article1:
-    id: 167299
-    title: What distinguishes branched polysaccharides from unbranched ones?
+    id: 167310
+    title: >-
+        What is the role of oligosaccharides in the attachment to proteins and their unique structures?
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-branched-polysaccharides-from-unbranched-ones
+    url: /learn/biology/questions/what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures
 related_article2:
-    id: 167298
-    title: How are disaccharides formed through dehydration reactions?
-    subject: Biology
-    url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
-related_article3:
-    id: 167306
-    title: What distinguishes ketose from aldose monosaccharides?
-    subject: Biology
-    url: /learn/biology/questions/what-distinguishes-ketose-from-aldose-monosaccharides
-related_article4:
     id: 167305
-    title: How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    title: >-
+        How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
     subject: Biology
     url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
-related_article5:
-    id: 167301
-    title: What is the role of cellulose in plant cell walls?
+related_article3:
+    id: 167305
+    title: >-
+        How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-cellulose-in-plant-cell-walls
+    url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
+related_article4:
+    id: 167303
+    title: >-
+        What is the difference between alpha and beta glycosidic linkages in terms of their structure and function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-glycosidic-linkages-in-terms-of-their-structure-and-function
+related_article5:
+    id: 167305
+    title: >-
+        How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
 ---
 
 &nbsp;

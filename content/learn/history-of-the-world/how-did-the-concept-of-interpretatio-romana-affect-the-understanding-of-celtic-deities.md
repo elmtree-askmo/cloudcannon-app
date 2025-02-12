@@ -2,8 +2,10 @@
 _schema: default
 id: 163646
 date: 2025-01-27
-title: How did the concept of Interpretatio Romana affect the understanding of Celtic deities?
-article_title: How did the concept of Interpretatio Romana affect the understanding of Celtic deities?
+title: >-
+    How did the concept of Interpretatio Romana affect the understanding of Celtic deities?
+article_title: >-
+    How did the concept of Interpretatio Romana affect the understanding of Celtic deities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-concept-of-interpretatio-romana-affect-the-understanding-
 url: /learn/history-of-the-world/questions/how-did-the-concept-of-interpretatio-romana-affect-the-understanding-of-celtic-deities
 score: 9.0
 related_article1:
-    id: 163657
-    title: How did the social structure of ancient Celtic society differ from that of the Romans?
+    id: 163656
+    title: >-
+        What challenges do modern scholars face in reconstructing the Gaulish language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-social-structure-of-ancient-celtic-society-differ-from-that-of-the-romans
+    url: /learn/history-of-the-world/questions/what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish-language
 related_article2:
     id: 163651
-    title: What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
+    title: >-
+        What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-gundestrup-cauldron-in-understanding-celtic-connections-to-nature
 related_article3:
     id: 163655
-    title: What are the main controversies surrounding the evidence of human sacrifice in Celtic culture?
+    title: >-
+        What are the main controversies surrounding the evidence of human sacrifice in Celtic culture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-controversies-surrounding-the-evidence-of-human-sacrifice-in-celtic-culture
 related_article4:
-    id: 163643
-    title: What are the key differences between Greek and Roman perspectives on the Celts?
+    id: 163648
+    title: >-
+        How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
+    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
 related_article5:
-    id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    id: 163645
+    title: >-
+        What role did Druids play in Celtic society, and how were they perceived by the Romans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
+    url: /learn/history-of-the-world/questions/what-role-did-druids-play-in-celtic-society-and-how-were-they-perceived-by-the-romans
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160317
 date: 2025-01-24
-title: What are the components of metacognition?
-article_title: What are the components of metacognition?
+title: >-
+    What are the components of metacognition?
+article_title: >-
+    What are the components of metacognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-components-of-metacognition
 score: -1.0
 related_article1:
     id: 160338
-    title: What should you do to review your exam performance effectively?
+    title: >-
+        What should you do to review your exam performance effectively?
     subject: Education Studies
     url: /learn/education-studies/questions/what-should-you-do-to-review-your-exam-performance-effectively
 related_article2:
-    id: 160311
-    title: What are the characteristics of critical thinkers?
+    id: 160302
+    title: >-
+        How does the Cornell Method help in note-making?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-critical-thinkers
+    url: /learn/education-studies/questions/how-does-the-cornell-method-help-in-notemaking
 related_article3:
-    id: 160297
-    title: How can you balance academic and personal life when developing a timetable?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-balance-academic-and-personal-life-when-developing-a-timetable
-related_article4:
     id: 160324
-    title: What are the benefits of collaborative learning in study groups?
+    title: >-
+        What are the benefits of collaborative learning in study groups?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-collaborative-learning-in-study-groups
-related_article5:
-    id: 160330
-    title: What are the consequences of plagiarism in academic settings?
+related_article4:
+    id: 160294
+    title: >-
+        What are the key techniques for effective time management?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-consequences-of-plagiarism-in-academic-settings
+    url: /learn/education-studies/questions/what-are-the-key-techniques-for-effective-time-management
+related_article5:
+    id: 160294
+    title: >-
+        What are the key techniques for effective time management?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-techniques-for-effective-time-management
 ---
 
 &nbsp;

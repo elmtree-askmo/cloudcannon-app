@@ -2,8 +2,10 @@
 _schema: default
 id: 165969
 date: 2025-01-29
-title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
-article_title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+title: >-
+    In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+article_title: >-
+    In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structur
 url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
 score: 9.0
 related_article1:
+    id: 165976
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
+related_article2:
+    id: 165973
+    title: >-
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
+related_article3:
     id: 165974
-    title: How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+    title: >-
+        How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
-related_article2:
-    id: 165975
-    title: What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
-related_article3:
-    id: 165975
-    title: What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
 related_article4:
-    id: 165964
-    title: In what ways did artists intellectually engage with industrial innovations and societal changes?
+    id: 165979
+    title: >-
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-artists-intellectually-engage-with-industrial-innovations-and-societal-changes
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
 related_article5:
-    id: 165977
-    title: What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
+    id: 165976
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
+    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
 ---
 
 &nbsp;

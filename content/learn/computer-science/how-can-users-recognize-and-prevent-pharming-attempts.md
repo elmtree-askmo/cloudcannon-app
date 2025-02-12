@@ -2,8 +2,10 @@
 _schema: default
 id: 161260
 date: 2025-01-24
-title: How can users recognize and prevent pharming attempts?
-article_title: How can users recognize and prevent pharming attempts?
+title: >-
+    How can users recognize and prevent pharming attempts?
+article_title: >-
+    How can users recognize and prevent pharming attempts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-users-recognize-and-prevent-pharming-attempts.md
 url: /learn/computer-science/questions/how-can-users-recognize-and-prevent-pharming-attempts
 score: -1.0
 related_article1:
-    id: 161454
-    title: What is the purpose of de-identification in data protection?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
-related_article2:
-    id: 161382
-    title: What is online impersonation in the context of identity theft?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
-related_article3:
-    id: 161383
-    title: How can strong passwords help prevent identity theft?
+    id: 161251
+    title: >-
+        How can strong passwords help prevent identity theft?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
-related_article4:
+related_article2:
+    id: 161388
+    title: >-
+        What distinguishes a virus from a worm in terms of malware?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
+related_article3:
     id: 161463
-    title: What is the primary function of spyware?
+    title: >-
+        What is the primary function of spyware?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
-related_article5:
-    id: 161469
-    title: How do Virtual Private Networks (VPNs) enhance online privacy?
+related_article4:
+    id: 161250
+    title: >-
+        What is online impersonation in the context of identity theft?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
+    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
+related_article5:
+    id: 161252
+    title: >-
+        What are the key features and functions of anti-virus software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-features-and-functions-of-antivirus-software
 ---
 
 &nbsp;

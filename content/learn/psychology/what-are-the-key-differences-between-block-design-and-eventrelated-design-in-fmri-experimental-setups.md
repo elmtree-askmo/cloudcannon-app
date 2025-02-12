@@ -2,8 +2,10 @@
 _schema: default
 id: 164295
 date: 2025-01-28
-title: What are the key differences between block design and event-related design in fMRI experimental setups?
-article_title: What are the key differences between block design and event-related design in fMRI experimental setups?
+title: >-
+    What are the key differences between block design and event-related design in fMRI experimental setups?
+article_title: >-
+    What are the key differences between block design and event-related design in fMRI experimental setups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-block-design-and-eventrelated-de
 url: /learn/psychology/questions/what-are-the-key-differences-between-block-design-and-eventrelated-design-in-fmri-experimental-setups
 score: -1.0
 related_article1:
-    id: 164298
-    title: How does PET technology compare to fMRI in terms of pros and cons?
+    id: 164311
+    title: >-
+        What are some applications of MRI in anatomical and functional imaging research?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
+    url: /learn/psychology/questions/what-are-some-applications-of-mri-in-anatomical-and-functional-imaging-research
 related_article2:
-    id: 164313
-    title: What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
+    id: 164302
+    title: >-
+        What is functional specialization in the context of brain activity measurement?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
+    url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
 related_article3:
     id: 164298
-    title: How does PET technology compare to fMRI in terms of pros and cons?
+    title: >-
+        How does PET technology compare to fMRI in terms of pros and cons?
     subject: Psychology
     url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
 related_article4:
-    id: 164314
-    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    id: 164313
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 related_article5:
-    id: 164294
-    title: How does the hemodynamic response function relate to neuroactivity and blood flow in fMRI?
+    id: 164305
+    title: >-
+        What are the main advantages of fMRI over PET in neuroimaging?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-hemodynamic-response-function-relate-to-neuroactivity-and-blood-flow-in-fmri
+    url: /learn/psychology/questions/what-are-the-main-advantages-of-fmri-over-pet-in-neuroimaging
 ---
 
 &nbsp;

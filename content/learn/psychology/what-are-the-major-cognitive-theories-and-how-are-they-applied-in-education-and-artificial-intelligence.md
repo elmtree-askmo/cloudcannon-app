@@ -2,8 +2,10 @@
 _schema: default
 id: 164919
 date: 2025-01-28
-title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
-article_title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+title: >-
+    What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+article_title: >-
+    What are the major cognitive theories, and how are they applied in education and artificial intelligence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-major-cognitive-theories-and-how-are-they-applied-in-edu
 url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
 score: -1.0
 related_article1:
-    id: 164906
-    title: Describe the feature integration theory and its application in visual search and attention mechanisms.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
-related_article2:
-    id: 164912
-    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
-related_article3:
-    id: 164918
-    title: Describe the components and capacity of working memory according to Baddeley’s and Cowan’s models.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-components-and-capacity-of-working-memory-according-to-baddeleys-and-cowans-models
-related_article4:
     id: 164916
-    title: How is cognitive load measured, and what are its implications for learning and task performance?
+    title: >-
+        How is cognitive load measured, and what are its implications for learning and task performance?
     subject: Psychology
     url: /learn/psychology/questions/how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance
-related_article5:
-    id: 164914
-    title: Define cognitive flexibility and its importance in adaptation, providing examples.
+related_article2:
+    id: 164911
+    title: >-
+        Explain the role of sensory processing in integrating sensory modalities and its disorders.
     subject: Psychology
-    url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article3:
+    id: 164911
+    title: >-
+        Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+related_article4:
+    id: 164906
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
+related_article5:
+    id: 164911
+    title: >-
+        Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
 ---
 
 &nbsp;

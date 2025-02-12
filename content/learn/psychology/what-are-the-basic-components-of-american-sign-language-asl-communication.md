@@ -2,8 +2,10 @@
 _schema: default
 id: 167688
 date: 2025-01-31
-title: What are the basic components of American Sign Language (ASL) communication?
-article_title: What are the basic components of American Sign Language (ASL) communication?
+title: >-
+    What are the basic components of American Sign Language (ASL) communication?
+article_title: >-
+    What are the basic components of American Sign Language (ASL) communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-basic-components-of-american-sign-language-asl-communica
 url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
 score: -1.0
 related_article1:
-    id: 167691
-    title: How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
+    id: 167708
+    title: >-
+        What are the main stages of cognitive and social development in childhood and adolescence?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
+    url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 related_article2:
-    id: 167687
-    title: How can healthy behaviors be differentiated from unhealthy ones?
+    id: 167696
+    title: >-
+        What are the psychological perspectives on free will?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
 related_article3:
-    id: 167707
-    title: How do memory processes like encoding and retrieval affect memory disorders?
+    id: 167695
+    title: >-
+        What are the modern views on dualism in neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
 related_article4:
-    id: 167692
-    title: What are the core principles of Cognitive Behavioral Therapy?
+    id: 167689
+    title: >-
+        How is ASL utilized in psychological studies and what barriers exist?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
 related_article5:
-    id: 167685
-    title: How do perceptions of normalcy influence human behavior?
+    id: 167709
+    title: >-
+        What are the primary methods used in clinical psychology for assessment and diagnosis?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
 ---
 
 &nbsp;

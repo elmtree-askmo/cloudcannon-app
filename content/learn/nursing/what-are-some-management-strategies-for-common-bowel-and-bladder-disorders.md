@@ -2,8 +2,10 @@
 _schema: default
 id: 169747
 date: 2025-02-05
-title: What are some management strategies for common bowel and bladder disorders?
-article_title: What are some management strategies for common bowel and bladder disorders?
+title: >-
+    What are some management strategies for common bowel and bladder disorders?
+article_title: >-
+    What are some management strategies for common bowel and bladder disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-management-strategies-for-common-bowel-and-bladder-diso
 url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
 score: -1.0
 related_article1:
-    id: 169760
-    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    id: 169765
+    title: >-
+        Why is medication adherence important, and what strategies can improve it?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
 related_article2:
-    id: 169763
-    title: What are patient group directions, and how are they applied in clinical practice?
+    id: 169758
+    title: >-
+        What are common causes of medication errors, and how can they be prevented?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+    url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
 related_article3:
-    id: 169762
-    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    id: 169744
+    title: >-
+        How do nutrition and hydration impact patient recovery?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+    url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
 related_article4:
-    id: 169753
-    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    id: 169746
+    title: >-
+        What are common assessment methods for bowel and bladder management?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
 related_article5:
-    id: 169755
-    title: How do pharmacokinetics and pharmacodynamics apply to medication administration?
+    id: 169761
+    title: >-
+        What are the nursing responsibilities and legal obligations in medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
+    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
 ---
 
 &nbsp;

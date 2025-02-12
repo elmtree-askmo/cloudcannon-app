@@ -2,8 +2,10 @@
 _schema: default
 id: 164338
 date: 2025-01-28
-title: What is the difference between single dissociation and double dissociation in neuroimaging studies?
-article_title: What is the difference between single dissociation and double dissociation in neuroimaging studies?
+title: >-
+    What is the difference between single dissociation and double dissociation in neuroimaging studies?
+article_title: >-
+    What is the difference between single dissociation and double dissociation in neuroimaging studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-difference-between-single-dissociation-and-double-dissoci
 url: /learn/psychology/questions/what-is-the-difference-between-single-dissociation-and-double-dissociation-in-neuroimaging-studies
 score: -1.0
 related_article1:
-    id: 164342
-    title: How is familiarity used in deception detection, and what role do memory and attention pathways play?
+    id: 164339
+    title: >-
+        What are some limitations of neuroimaging studies in understanding brain function?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
+    url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
 related_article2:
-    id: 164331
-    title: What are the primary functions of the occipital lobe in visual processing?
+    id: 164340
+    title: >-
+        How do memory and attention pathways influence cognitive tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+    url: /learn/psychology/questions/how-do-memory-and-attention-pathways-influence-cognitive-tasks
 related_article3:
+    id: 164333
+    title: >-
+        What role does the parietal lobe play in sensory processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-sensory-processing
+related_article4:
     id: 164335
-    title: What are the 'what' and 'where' pathways in sensory processing, and how do they function?
+    title: >-
+        What are the 'what' and 'where' pathways in sensory processing, and how do they function?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-what-and-where-pathways-in-sensory-processing-and-how-do-they-function
-related_article4:
-    id: 164342
-    title: How is familiarity used in deception detection, and what role do memory and attention pathways play?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-familiarity-used-in-deception-detection-and-what-role-do-memory-and-attention-pathways-play
 related_article5:
     id: 164334
-    title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
+    title: >-
+        How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
     subject: Psychology
     url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 167093
 date: 2025-01-31
-title: What is the process of polymerization and why is it important in macromolecule formation?
-article_title: What is the process of polymerization and why is it important in macromolecule formation?
+title: >-
+    What is the process of polymerization and why is it important in macromolecule formation?
+article_title: >-
+    What is the process of polymerization and why is it important in macromolecule formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-polymerization-and-why-is-it-important-in-macr
 url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
 score: -1.0
 related_article1:
-    id: 167087
-    title: What are the main roles of biological molecules in cells?
+    id: 167100
+    title: >-
+        How are monosaccharides classified based on carbon number and functional group?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
+    url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
 related_article2:
-    id: 167090
-    title: How do macromolecules differ in their structural and chemical properties?
+    id: 167107
+    title: >-
+        How do proteins contribute to structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
+    url: /learn/health-studies/questions/how-do-proteins-contribute-to-structural-support-in-cells
 related_article3:
-    id: 167111
-    title: What types of molecules provide structural support in cells?
+    id: 167113
+    title: >-
+        How does amino acid classification affect protein function and interaction?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
+    url: /learn/health-studies/questions/how-does-amino-acid-classification-affect-protein-function-and-interaction
 related_article4:
-    id: 167087
-    title: What are the main roles of biological molecules in cells?
+    id: 167098
+    title: >-
+        What are the primary functions of nucleic acids in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
+    url: /learn/health-studies/questions/what-are-the-primary-functions-of-nucleic-acids-in-cells
 related_article5:
-    id: 167097
-    title: What are the four levels of protein structure and how do they differ?
+    id: 167110
+    title: >-
+        Why is energy storage crucial for cellular metabolism and homeostasis?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
+    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
 ---
 
 &nbsp;

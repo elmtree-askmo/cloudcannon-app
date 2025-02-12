@@ -2,8 +2,10 @@
 _schema: default
 id: 170263
 date: 2025-02-06
-title: In what ways did Neo-Impressionist artists use geometric composition in their works?
-article_title: In what ways did Neo-Impressionist artists use geometric composition in their works?
+title: >-
+    In what ways did Neo-Impressionist artists use geometric composition in their works?
+article_title: >-
+    In what ways did Neo-Impressionist artists use geometric composition in their works?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-neoimpressionist-artists-use-geometric-composition-i
 url: /learn/art-history-and-literature/questions/in-what-ways-did-neoimpressionist-artists-use-geometric-composition-in-their-works
 score: 9.0
 related_article1:
+    id: 170261
+    title: >-
+        What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
+related_article2:
     id: 170265
-    title: What were the main similarities and differences between Neo-Impressionism and Impressionism?
+    title: >-
+        What were the main similarities and differences between Neo-Impressionism and Impressionism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-main-similarities-and-differences-between-neoimpressionism-and-impressionism
-related_article2:
-    id: 170262
-    title: How did scientific techniques influence the color theory used in Neo-Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-scientific-techniques-influence-the-color-theory-used-in-neoimpressionism
 related_article3:
-    id: 170272
-    title: How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
+    id: 170260
+    title: >-
+        How did Georges Seurat contribute to the development of Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-compare-with-other-art-movements-like-fauvism-and-postimpressionism
+    url: /learn/art-history-and-literature/questions/how-did-georges-seurat-contribute-to-the-development-of-neoimpressionism
 related_article4:
-    id: 170266
-    title: How did Neo-Impressionism influence modern art movements?
+    id: 170269
+    title: >-
+        What were the key artistic techniques used by Georges Seurat in his paintings?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-influence-modern-art-movements
+    url: /learn/art-history-and-literature/questions/what-were-the-key-artistic-techniques-used-by-georges-seurat-in-his-paintings
 related_article5:
-    id: 170264
-    title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+    id: 170273
+    title: >-
+        What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subject-matter
+    url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
 ---
 
 &nbsp;

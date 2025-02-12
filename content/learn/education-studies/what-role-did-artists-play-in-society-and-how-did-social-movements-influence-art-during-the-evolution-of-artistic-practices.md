@@ -2,8 +2,10 @@
 _schema: default
 id: 159797
 date: 2025-01-23
-title: What role did artists play in society, and how did social movements influence art during the evolution of artistic practices?
-article_title: What role did artists play in society, and how did social movements influence art during the evolution of artistic practices?
+title: >-
+    What role did artists play in society, and how did social movements influence art during the evolution of artistic practices?
+article_title: >-
+    What role did artists play in society, and how did social movements influence art during the evolution of artistic practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-artists-play-in-society-and-how-did-social-movements-in
 url: /learn/education-studies/questions/what-role-did-artists-play-in-society-and-how-did-social-movements-influence-art-during-the-evolution-of-artistic-practices
 score: -1.0
 related_article1:
-    id: 159769
-    title: Identify key movements and figures in 19th-century art history and their influence on contemporary art.
+    id: 159768
+    title: >-
+        Discuss the role of artists in society and how social movements influenced art during the evolution of artistic professionalism.
     subject: Education Studies
-    url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-their-influence-on-contemporary-art
+    url: /learn/education-studies/questions/discuss-the-role-of-artists-in-society-and-how-social-movements-influenced-art-during-the-evolution-of-artistic-professionalism
 related_article2:
-    id: 159770
-    title: What role did art criticism play in shaping public perception, and who were some key critics and their contributions?
+    id: 159796
+    title: >-
+        How did industrialization and modernization lead to changes in artistic techniques and styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-art-criticism-play-in-shaping-public-perception-and-who-were-some-key-critics-and-their-contributions
+    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles
 related_article3:
-    id: 159788
-    title: In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    id: 159792
+    title: >-
+        What is Orientalism in art, and how did it influence Western art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-orientalism-in-art-and-how-did-it-influence-western-art
+related_article4:
+    id: 159766
+    title: >-
+        Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
+related_article5:
+    id: 159759
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
-related_article4:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
-related_article5:
-    id: 159760
-    title: Define avant-garde movements and discuss their key characteristics and impact on the art world.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-characteristics-and-impact-on-the-art-world
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163317
 date: 2025-01-26
-title: How do epidemiologic questions contribute to public health interventions?
-article_title: How do epidemiologic questions contribute to public health interventions?
+title: >-
+    How do epidemiologic questions contribute to public health interventions?
+article_title: >-
+    How do epidemiologic questions contribute to public health interventions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-epidemiologic-questions-contribute-to-public-health-interventi
 url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
 score: -1.0
 related_article1:
+    id: 163202
+    title: >-
+        What are the primary purposes of public health surveillance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+related_article2:
+    id: 162987
+    title: >-
+        How do outbreaks differ from epidemics in terms of their definitions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
+related_article3:
     id: 163318
-    title: What is the difference between an outbreak and an epidemic?
+    title: >-
+        What is the difference between an outbreak and an epidemic?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
-related_article2:
-    id: 162980
-    title: What is the main limitation of using crude rates in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
-related_article3:
-    id: 162986
-    title: What role do epidemiologic questions play in generating public health hypotheses?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
 related_article4:
-    id: 162991
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    id: 163315
+    title: >-
+        What is the process of direct standardization in calculating age-adjusted rates?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+    url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
 related_article5:
-    id: 163321
-    title: What are the strengths and limitations of ecological studies in epidemiology?
+    id: 162981
+    title: >-
+        How do age-specific rates differ from crude rates in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+    url: /learn/health-studies/questions/how-do-agespecific-rates-differ-from-crude-rates-in-epidemiology
 ---
 
 &nbsp;

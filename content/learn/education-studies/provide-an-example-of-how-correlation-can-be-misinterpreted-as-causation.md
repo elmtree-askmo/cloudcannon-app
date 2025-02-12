@@ -2,8 +2,10 @@
 _schema: default
 id: 165157
 date: 2025-01-28
-title: Provide an example of how correlation can be misinterpreted as causation.
-article_title: Provide an example of how correlation can be misinterpreted as causation.
+title: >-
+    Provide an example of how correlation can be misinterpreted as causation.
+article_title: >-
+    Provide an example of how correlation can be misinterpreted as causation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-how-correlation-can-be-misinterpreted-as-causat
 url: /learn/education-studies/questions/provide-an-example-of-how-correlation-can-be-misinterpreted-as-causation
 score: -1.0
 related_article1:
-    id: 165164
-    title: How is timing and response analysis conducted in data collection techniques?
+    id: 165152
+    title: >-
+        What are the key features and capabilities of SciToolkit?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-timing-and-response-analysis-conducted-in-data-collection-techniques
+    url: /learn/education-studies/questions/what-are-the-key-features-and-capabilities-of-scitoolkit
 related_article2:
-    id: 165153
-    title: How can SciToolkit be used for experimentation?
+    id: 165152
+    title: >-
+        What are the key features and capabilities of SciToolkit?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-scitoolkit-be-used-for-experimentation
+    url: /learn/education-studies/questions/what-are-the-key-features-and-capabilities-of-scitoolkit
 related_article3:
+    id: 165159
+    title: >-
+        How do independent and dependent variables function in an experimental study design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-function-in-an-experimental-study-design
+related_article4:
+    id: 165160
+    title: >-
+        What are the main characteristics of observational studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-observational-studies
+related_article5:
     id: 165162
-    title: How can you debug and test code in SciToolkit?
+    title: >-
+        How can you debug and test code in SciToolkit?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-debug-and-test-code-in-scitoolkit
-related_article4:
-    id: 165154
-    title: What are the steps involved in resizing and inverting images using SciToolkit?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-involved-in-resizing-and-inverting-images-using-scitoolkit
-related_article5:
-    id: 165165
-    title: What factors should be considered when evaluating the validity of statistical claims?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-evaluating-the-validity-of-statistical-claims
 ---
 
 &nbsp;

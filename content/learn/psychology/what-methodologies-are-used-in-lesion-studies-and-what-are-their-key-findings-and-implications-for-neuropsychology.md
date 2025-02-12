@@ -2,8 +2,10 @@
 _schema: default
 id: 164862
 date: 2025-01-28
-title: What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
-article_title: What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+title: >-
+    What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
+article_title: >-
+    What methodologies are used in lesion studies, and what are their key findings and implications for neuropsychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-
 url: /learn/psychology/questions/what-methodologies-are-used-in-lesion-studies-and-what-are-their-key-findings-and-implications-for-neuropsychology
 score: -1.0
 related_article1:
-    id: 164861
-    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
+    id: 164868
+    title: >-
+        Which brain regions are involved in spatial cognition, and what experimental findings support their roles?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
+    url: /learn/psychology/questions/which-brain-regions-are-involved-in-spatial-cognition-and-what-experimental-findings-support-their-roles
 related_article2:
-    id: 164856
-    title: How do theories and debates address the overlaps between short-term and long-term memory?
+    id: 164867
+    title: >-
+        What evidence supports the functional specialization of the brain in object recognition?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
+    url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
 related_article3:
-    id: 164857
-    title: What is the role of the hippocampus in conscious and unconscious memory?
+    id: 164863
+    title: >-
+        What are the main characteristics of implicit and explicit memory, and how do they differ?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
+    url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-and-explicit-memory-and-how-do-they-differ
 related_article4:
     id: 164857
-    title: What is the role of the hippocampus in conscious and unconscious memory?
+    title: >-
+        What is the role of the hippocampus in conscious and unconscious memory?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
 related_article5:
-    id: 164854
-    title: How does brain damage affect conscious and unconscious memory processes?
+    id: 164869
+    title: >-
+        How does neurodivergence, such as ADHD and autism, impact memory processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-damage-affect-conscious-and-unconscious-memory-processes
+    url: /learn/psychology/questions/how-does-neurodivergence-such-as-adhd-and-autism-impact-memory-processes
 ---
 
 &nbsp;

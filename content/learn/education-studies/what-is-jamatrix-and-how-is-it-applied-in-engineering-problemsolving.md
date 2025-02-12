@@ -2,8 +2,10 @@
 _schema: default
 id: 166634
 date: 2025-01-31
-title: What is Jamatrix, and how is it applied in engineering problem-solving?
-article_title: What is Jamatrix, and how is it applied in engineering problem-solving?
+title: >-
+    What is Jamatrix, and how is it applied in engineering problem-solving?
+article_title: >-
+    What is Jamatrix, and how is it applied in engineering problem-solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-jamatrix-and-how-is-it-applied-in-engineering-problemsolving.
 url: /learn/education-studies/questions/what-is-jamatrix-and-how-is-it-applied-in-engineering-problemsolving
 score: -1.0
 related_article1:
-    id: 166630
-    title: Explain the role of vectors in solving statics problems.
+    id: 166633
+    title: >-
+        Describe the application of the law of cosines and sines in engineering statics.
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-role-of-vectors-in-solving-statics-problems
+    url: /learn/education-studies/questions/describe-the-application-of-the-law-of-cosines-and-sines-in-engineering-statics
 related_article2:
+    id: 166626
+    title: >-
+        What are the key benefits of using Discord for networking in an academic setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-benefits-of-using-discord-for-networking-in-an-academic-setting
+related_article3:
     id: 166627
-    title: How can career services assist in improving your resume and cover letter?
+    title: >-
+        How can career services assist in improving your resume and cover letter?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
-related_article3:
-    id: 166635
-    title: How do algebra and geometry combine to solve engineering problems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algebra-and-geometry-combine-to-solve-engineering-problems
 related_article4:
-    id: 166635
-    title: How do algebra and geometry combine to solve engineering problems?
+    id: 166627
+    title: >-
+        How can career services assist in improving your resume and cover letter?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algebra-and-geometry-combine-to-solve-engineering-problems
-related_article5:
-    id: 166630
-    title: Explain the role of vectors in solving statics problems.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-role-of-vectors-in-solving-statics-problems
+    url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
 ---
 
 &nbsp;

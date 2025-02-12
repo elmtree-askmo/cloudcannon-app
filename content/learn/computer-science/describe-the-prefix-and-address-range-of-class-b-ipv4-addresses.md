@@ -2,8 +2,10 @@
 _schema: default
 id: 165698
 date: 2025-01-29
-title: Describe the prefix and address range of Class B IPv4 addresses.
-article_title: Describe the prefix and address range of Class B IPv4 addresses.
+title: >-
+    Describe the prefix and address range of Class B IPv4 addresses.
+article_title: >-
+    Describe the prefix and address range of Class B IPv4 addresses.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-prefix-and-address-range-of-class-b-ipv4-addresses.md
 url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
 score: -1.0
 related_article1:
-    id: 165696
-    title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+    id: 165699
+    title: >-
+        What is the prefix and address range of Class C IPv4 addresses?
     subject: Computer Science
-    url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
+    url: /learn/computer-science/questions/what-is-the-prefix-and-address-range-of-class-c-ipv4-addresses
 related_article2:
-    id: 165700
-    title: What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
+    id: 165694
+    title: >-
+        What is multicast transmission, and what is the range of multicast addresses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
+    url: /learn/computer-science/questions/what-is-multicast-transmission-and-what-is-the-range-of-multicast-addresses
 related_article3:
-    id: 165691
-    title: Why is the subnet mask important in determining the number of hosts in a network?
+    id: 165690
+    title: >-
+        What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-subnet-mask-important-in-determining-the-number-of-hosts-in-a-network
+    url: /learn/computer-science/questions/what-are-the-differences-between-8-16-and-24-subnet-masks-and-what-are-nonnatural-octet-boundaries
 related_article4:
-    id: 165688
-    title: Explain the binary representation of a subnet mask and how it divides the network.
+    id: 165701
+    title: >-
+        Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-binary-representation-of-a-subnet-mask-and-how-it-divides-the-network
+    url: /learn/computer-science/questions/explain-classless-interdomain-routing-cidr-and-its-purpose-in-ipv4-addressing
 related_article5:
-    id: 165696
-    title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+    id: 165689
+    title: >-
+        Describe the pattern of 1s and 0s in a subnet mask and how it interprets network and host bits.
     subject: Computer Science
-    url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
+    url: /learn/computer-science/questions/describe-the-pattern-of-1s-and-0s-in-a-subnet-mask-and-how-it-interprets-network-and-host-bits
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160234
 date: 2025-01-23
-title: What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
-article_title: What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+title: >-
+    What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+article_title: >-
+    What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-doe
 url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
 score: -1.0
 related_article1:
-    id: 160640
-    title: What are the effects of cultural exchange and economic integration on local impacts of time-space compression?
+    id: 160561
+    title: >-
+        How do trade relations and global supply chains contribute to global interdependence?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-effects-of-cultural-exchange-and-economic-integration-on-local-impacts-of-timespace-compression
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
 related_article2:
-    id: 160086
-    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    id: 160210
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
 related_article3:
-    id: 160082
-    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+    id: 160496
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
 related_article4:
-    id: 160549
-    title: How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    id: 160633
+    title: >-
+        What role do community dynamics and social inequality play in shaping social structures?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
 related_article5:
-    id: 160086
-    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    id: 160089
+    title: >-
+        In what ways do global cultures interact with local traditions to shape socio-cultural impacts?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/in-what-ways-do-global-cultures-interact-with-local-traditions-to-shape-sociocultural-impacts
 ---
 
 &nbsp;

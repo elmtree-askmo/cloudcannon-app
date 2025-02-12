@@ -2,8 +2,10 @@
 _schema: default
 id: 170590
 date: 2025-02-06
-title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
-article_title: How is dopamine involved in the brain's reward system and its connection to psychopathy?
+title: >-
+    How is dopamine involved in the brain's reward system and its connection to psychopathy?
+article_title: >-
+    How is dopamine involved in the brain's reward system and its connection to psychopathy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-s
 score: -1.0
 related_article1:
     id: 170585
-    title: What functions are associated with the frontal lobe in terms of personality and planning?
+    title: >-
+        What functions are associated with the frontal lobe in terms of personality and planning?
     subject: Psychology
     url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
 related_article2:
-    id: 170591
-    title: What is the function of the reticular formation in maintaining alertness and awareness?
+    id: 170595
+    title: >-
+        What role does the epithalamus play in regulating the circadian rhythm?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
 related_article3:
-    id: 170591
-    title: What is the function of the reticular formation in maintaining alertness and awareness?
+    id: 170594
+    title: >-
+        How do genetic and environmental factors contribute to schizophrenia?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
 related_article4:
-    id: 170584
-    title: How does the olfactory bulb process sensory input related to smell?
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
 related_article5:
-    id: 170578
-    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+    id: 170586
+    title: >-
+        How does the temporal lobe contribute to auditory processing and facial recognition?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
 ---
 
 &nbsp;

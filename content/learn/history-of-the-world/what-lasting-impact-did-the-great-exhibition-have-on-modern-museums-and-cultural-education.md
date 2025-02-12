@@ -2,8 +2,10 @@
 _schema: default
 id: 163994
 date: 2025-01-28
-title: What lasting impact did the Great Exhibition have on modern museums and cultural education?
-article_title: What lasting impact did the Great Exhibition have on modern museums and cultural education?
+title: >-
+    What lasting impact did the Great Exhibition have on modern museums and cultural education?
+article_title: >-
+    What lasting impact did the Great Exhibition have on modern museums and cultural education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-a
 url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
 score: 9.0
 related_article1:
-    id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    id: 163993
+    title: >-
+        What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+    url: /learn/history-of-the-world/questions/what-is-the-concept-of-the-antimonument-and-how-do-contemporary-artistic-responses-critique-historical-narratives
 related_article2:
-    id: 163984
-    title: How did the development of public museums transition from private collections, and what was their educational purpose?
+    id: 163992
+    title: >-
+        How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherness-and-create-an-ideological-space
 related_article3:
-    id: 163988
-    title: How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
-related_article4:
     id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
-related_article5:
-    id: 163995
-    title: How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
+related_article4:
+    id: 163989
+    title: >-
+        In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
+    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
+related_article5:
+    id: 163990
+    title: >-
+        What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
 ---
 
 &nbsp;

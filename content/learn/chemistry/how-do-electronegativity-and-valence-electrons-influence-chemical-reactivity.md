@@ -2,8 +2,10 @@
 _schema: default
 id: 167069
 date: 2025-01-31
-title: How do electronegativity and valence electrons influence chemical reactivity?
-article_title: How do electronegativity and valence electrons influence chemical reactivity?
+title: >-
+    How do electronegativity and valence electrons influence chemical reactivity?
+article_title: >-
+    How do electronegativity and valence electrons influence chemical reactivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/how-do-electronegativity-and-valence-electrons-i
 score: -1.0
 related_article1:
     id: 167056
-    title: How do electron shells relate to energy levels in an atom?
+    title: >-
+        How do electron shells relate to energy levels in an atom?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
 related_article2:
-    id: 167065
-    title: What role do hydrogen bonds play in molecular interactions?
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 related_article3:
-    id: 167061
-    title: What are radioactive isotopes and what are some of their applications?
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 related_article4:
-    id: 167057
-    title: What is the atomic number and how is it determined for an element?
+    id: 167055
+    title: >-
+        What are the three main subatomic particles and their respective charges?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 related_article5:
-    id: 167063
-    title: How does electronegativity influence chemical bonding?
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163872
 date: 2025-01-28
-title: What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
-article_title: What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
+title: >-
+    What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
+article_title: >-
+    What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-arguments-of-antiglobalization-movements-regarding-
 url: /learn/sociology/questions/what-are-the-main-arguments-of-antiglobalization-movements-regarding-cultural-erosion-and-sovereignty
 score: -1.0
 related_article1:
-    id: 163861
-    title: How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+    id: 163865
+    title: >-
+        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
+    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 related_article2:
-    id: 163862
-    title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+    id: 163864
+    title: >-
+        What role do multinational corporations play in the interdependency of global trade and economic integration?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
 related_article3:
-    id: 163862
-    title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
-related_article4:
     id: 163863
-    title: How have multinational corporations contributed to contemporary globalization since 1945?
+    title: >-
+        How have multinational corporations contributed to contemporary globalization since 1945?
     subject: Sociology
     url: /learn/sociology/questions/how-have-multinational-corporations-contributed-to-contemporary-globalization-since-1945
-related_article5:
+related_article4:
     id: 163870
-    title: What role do multinational corporations play in the emergence of global markets and economic integration?
+    title: >-
+        What role do multinational corporations play in the emergence of global markets and economic integration?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
+related_article5:
+    id: 163861
+    title: >-
+        How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166925
 date: 2025-01-31
-title: How is a phylogenetic tree constructed, and why is it important in biology?
-article_title: How is a phylogenetic tree constructed, and why is it important in biology?
+title: >-
+    How is a phylogenetic tree constructed, and why is it important in biology?
+article_title: >-
+    How is a phylogenetic tree constructed, and why is it important in biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-bio
 url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
 score: -1.0
 related_article1:
-    id: 166912
-    title: How do scientists analyze results to evaluate a hypothesis?
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
     subject: Biology
-    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 related_article2:
-    id: 166915
-    title: What are the different types of reproduction, and why is reproduction crucial for species continuity?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-different-types-of-reproduction-and-why-is-reproduction-crucial-for-species-continuity
-related_article3:
-    id: 166924
-    title: What is the concept of fitness in the context of differential reproductive success?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
-related_article4:
     id: 166917
-    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    title: >-
+        What mechanisms do organisms use for regulation, and why is it important for their function?
     subject: Biology
     url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
-related_article5:
-    id: 166927
-    title: What are the methods and sources of nutrient acquisition in organisms?
+related_article3:
+    id: 166907
+    title: >-
+        What is the role of observation in scientific inquiry?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-methods-and-sources-of-nutrient-acquisition-in-organisms
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
+related_article4:
+    id: 166922
+    title: >-
+        What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
+related_article5:
+    id: 166917
+    title: >-
+        What mechanisms do organisms use for regulation, and why is it important for their function?
+    subject: Biology
+    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
 ---
 
 &nbsp;

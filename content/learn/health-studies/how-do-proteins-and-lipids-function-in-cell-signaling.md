@@ -2,8 +2,10 @@
 _schema: default
 id: 167112
 date: 2025-01-31
-title: How do proteins and lipids function in cell signaling?
-article_title: How do proteins and lipids function in cell signaling?
+title: >-
+    How do proteins and lipids function in cell signaling?
+article_title: >-
+    How do proteins and lipids function in cell signaling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-proteins-and-lipids-function-in-cell-signaling.md
 url: /learn/health-studies/questions/how-do-proteins-and-lipids-function-in-cell-signaling
 score: -1.0
 related_article1:
-    id: 167099
-    title: What roles do lipids play in energy storage and cell membrane structure?
+    id: 167096
+    title: >-
+        How are glycosidic bonds formed in carbohydrates?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
+    url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
 related_article2:
-    id: 167109
-    title: What are the main types of enzymes and their functions?
+    id: 167095
+    title: >-
+        What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-enzymes-and-their-functions
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-monosaccharides-disaccharides-and-polysaccharides
 related_article3:
-    id: 167088
-    title: Why are functional groups important in biological molecules?
+    id: 167113
+    title: >-
+        How does amino acid classification affect protein function and interaction?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+    url: /learn/health-studies/questions/how-does-amino-acid-classification-affect-protein-function-and-interaction
 related_article4:
-    id: 167098
-    title: What are the primary functions of nucleic acids in cells?
+    id: 167092
+    title: >-
+        Why is carbon essential in the formation of organic molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-functions-of-nucleic-acids-in-cells
+    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
 related_article5:
-    id: 167093
-    title: What is the process of polymerization and why is it important in macromolecule formation?
+    id: 167105
+    title: >-
+        How are amino acids classified based on polarity and charge?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
+    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
 ---
 
 &nbsp;

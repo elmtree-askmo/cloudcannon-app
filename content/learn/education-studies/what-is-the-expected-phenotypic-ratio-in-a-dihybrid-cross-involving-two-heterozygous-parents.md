@@ -2,8 +2,10 @@
 _schema: default
 id: 167786
 date: 2025-02-01
-title: What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
-article_title: What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
+title: >-
+    What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
+article_title: >-
+    What is the expected phenotypic ratio in a dihybrid cross involving two heterozygous parents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-expected-phenotypic-ratio-in-a-dihybrid-cross-involving-t
 url: /learn/education-studies/questions/what-is-the-expected-phenotypic-ratio-in-a-dihybrid-cross-involving-two-heterozygous-parents
 score: -1.0
 related_article1:
-    id: 167788
-    title: How do genetic mutations contribute to genetic variation?
+    id: 167804
+    title: >-
+        How can genetic mutations lead to a loss of function in an organism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
+    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
 related_article2:
-    id: 167791
-    title: What is the genetic basis for the AB blood type expression?
+    id: 167790
+    title: >-
+        How is co-dominance exemplified in human blood types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-basis-for-the-ab-blood-type-expression
+    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
 related_article3:
+    id: 167792
+    title: >-
+        How does incomplete dominance differ from complete dominance?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance
+related_article4:
+    id: 167802
+    title: >-
+        How does the norm of reaction illustrate the effect of temperature on phenotype?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-norm-of-reaction-illustrate-the-effect-of-temperature-on-phenotype
+related_article5:
     id: 167788
-    title: How do genetic mutations contribute to genetic variation?
+    title: >-
+        How do genetic mutations contribute to genetic variation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
-related_article4:
-    id: 167797
-    title: How do you determine the degrees of freedom in a chi-square test?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-you-determine-the-degrees-of-freedom-in-a-chisquare-test
-related_article5:
-    id: 167791
-    title: What is the genetic basis for the AB blood type expression?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-basis-for-the-ab-blood-type-expression
 ---
 
 &nbsp;

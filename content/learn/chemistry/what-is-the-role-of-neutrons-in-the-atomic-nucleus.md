@@ -2,8 +2,10 @@
 _schema: default
 id: 166799
 date: 2025-01-31
-title: What is the role of neutrons in the atomic nucleus?
-article_title: What is the role of neutrons in the atomic nucleus?
+title: >-
+    What is the role of neutrons in the atomic nucleus?
+article_title: >-
+    What is the role of neutrons in the atomic nucleus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-neutrons-in-the-atomic-nucleus.md
 url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
 score: -1.0
 related_article1:
-    id: 166803
-    title: How is charge neutrality maintained in an atom?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-charge-neutrality-maintained-in-an-atom
-related_article2:
-    id: 166805
-    title: Explain the octet rule and its significance in chemical stability.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
-related_article3:
     id: 166809
-    title: How does electron sharing occur in covalent bonds?
+    title: >-
+        How does electron sharing occur in covalent bonds?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
-related_article4:
-    id: 166800
-    title: How does the atomic number relate to the number of protons in an atom?
+related_article2:
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
-related_article5:
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+related_article3:
     id: 166796
-    title: What are the building blocks of matter?
+    title: >-
+        What are the building blocks of matter?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+related_article4:
+    id: 166801
+    title: >-
+        What is the significance of the atomic number in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+related_article5:
+    id: 166811
+    title: >-
+        What are some common uses of sodium chloride?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-some-common-uses-of-sodium-chloride
 ---
 
 &nbsp;

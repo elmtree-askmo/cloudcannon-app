@@ -2,8 +2,10 @@
 _schema: default
 id: 169306
 date: 2025-02-05
-title: How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
-article_title: How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
+title: >-
+    How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
+article_title: >-
+    How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-fo
 url: /learn/education-studies/questions/how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-focusing-on-increasing-and-decreasing-intervals
 score: -1.0
 related_article1:
-    id: 169310
-    title: What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
+    id: 169286
+    title: >-
+        What are the properties of vectors, and how do they apply to vector addition and subtraction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-types-of-functions-and-how-do-linear-and-quadratic-functions-differ-in-terms-of-domain-and-range
+    url: /learn/education-studies/questions/what-are-the-properties-of-vectors-and-how-do-they-apply-to-vector-addition-and-subtraction
 related_article2:
-    id: 169303
-    title: How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    id: 169285
+    title: >-
+        Describe the difference between the instantaneous rate of change and the average rate of change of a function.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
+    url: /learn/education-studies/questions/describe-the-difference-between-the-instantaneous-rate-of-change-and-the-average-rate-of-change-of-a-function
 related_article3:
-    id: 169302
-    title: What is the secant line slope, and how does it relate to the average rate of change of a function?
+    id: 169309
+    title: >-
+        How are algebraic manipulation and calculus-based approaches used in mathematical analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-secant-line-slope-and-how-does-it-relate-to-the-average-rate-of-change-of-a-function
+    url: /learn/education-studies/questions/how-are-algebraic-manipulation-and-calculusbased-approaches-used-in-mathematical-analysis
 related_article4:
-    id: 169304
-    title: What are some applications of integrals in physics and engineering?
+    id: 169296
+    title: >-
+        How are piecewise functions constructed, and what is their domain and range?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-applications-of-integrals-in-physics-and-engineering
+    url: /learn/education-studies/questions/how-are-piecewise-functions-constructed-and-what-is-their-domain-and-range
 related_article5:
-    id: 169288
-    title: What are the characteristics of continuous functions, and how do polynomial functions fit this category?
+    id: 169308
+    title: >-
+        What strategies are employed to approach limits numerically and graphically?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-continuous-functions-and-how-do-polynomial-functions-fit-this-category
+    url: /learn/education-studies/questions/what-strategies-are-employed-to-approach-limits-numerically-and-graphically
 ---
 
 &nbsp;

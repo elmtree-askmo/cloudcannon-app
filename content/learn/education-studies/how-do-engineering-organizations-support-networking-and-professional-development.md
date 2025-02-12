@@ -2,8 +2,10 @@
 _schema: default
 id: 166719
 date: 2025-01-31
-title: How do engineering organizations support networking and professional development?
-article_title: How do engineering organizations support networking and professional development?
+title: >-
+    How do engineering organizations support networking and professional development?
+article_title: >-
+    How do engineering organizations support networking and professional development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-engineering-organizations-support-networking-and-professional-
 url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 score: -1.0
 related_article1:
-    id: 166709
-    title: How can engineering certifications impact a professional's career?
+    id: 166704
+    title: >-
+        What are the equilibrium conditions in statics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
+    url: /learn/education-studies/questions/what-are-the-equilibrium-conditions-in-statics
 related_article2:
-    id: 166696
-    title: What is the process of force decomposition in vector mathematics?
+    id: 166698
+    title: >-
+        How is the conservation of energy principle applied in rigid body dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
+    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
 related_article3:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
-related_article4:
-    id: 166710
-    title: What are the eligibility criteria for engineering scholarships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
-related_article5:
     id: 166721
-    title: How do engineering conferences and workshops contribute to professional growth?
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+related_article4:
+    id: 166703
+    title: >-
+        What are some engineering applications of torque?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+related_article5:
+    id: 166706
+    title: >-
+        Describe the principle of conservation of energy and its significance in engineering systems.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
 ---
 
 &nbsp;

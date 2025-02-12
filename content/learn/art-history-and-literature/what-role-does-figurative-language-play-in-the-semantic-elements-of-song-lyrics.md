@@ -2,8 +2,10 @@
 _schema: default
 id: 164624
 date: 2025-01-28
-title: What role does figurative language play in the semantic elements of song lyrics?
-article_title: What role does figurative language play in the semantic elements of song lyrics?
+title: >-
+    What role does figurative language play in the semantic elements of song lyrics?
+article_title: >-
+    What role does figurative language play in the semantic elements of song lyrics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-figurative-language-play-in-the-semantic-elements-of-s
 url: /learn/art-history-and-literature/questions/what-role-does-figurative-language-play-in-the-semantic-elements-of-song-lyrics
 score: 9.0
 related_article1:
-    id: 164630
-    title: What is the role of harmony in music composition?
+    id: 164631
+    title: >-
+        What are the basic concepts of rhythm in music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
+    url: /learn/art-history-and-literature/questions/what-are-the-basic-concepts-of-rhythm-in-music
 related_article2:
-    id: 164630
-    title: What is the role of harmony in music composition?
+    id: 164623
+    title: >-
+        How does syntax contribute to the structural elements of a song's grammar?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
+    url: /learn/art-history-and-literature/questions/how-does-syntax-contribute-to-the-structural-elements-of-a-songs-grammar
 related_article3:
-    id: 164621
-    title: How does cultural blending contribute to urban mixture?
+    id: 164629
+    title: >-
+        How does melody vary across different musical genres?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-cultural-blending-contribute-to-urban-mixture
+    url: /learn/art-history-and-literature/questions/how-does-melody-vary-across-different-musical-genres
 related_article4:
-    id: 164620
-    title: What are the stages of speech sound development in children?
+    id: 164617
+    title: >-
+        What are the phonetic elements of language music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-stages-of-speech-sound-development-in-children
+    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
 related_article5:
-    id: 164621
-    title: How does cultural blending contribute to urban mixture?
+    id: 164619
+    title: >-
+        What is the difference between phonetics and phonology in the study of speech sounds?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-cultural-blending-contribute-to-urban-mixture
+    url: /learn/art-history-and-literature/questions/what-is-the-difference-between-phonetics-and-phonology-in-the-study-of-speech-sounds
 ---
 
 &nbsp;

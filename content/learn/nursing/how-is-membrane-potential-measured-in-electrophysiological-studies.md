@@ -2,8 +2,10 @@
 _schema: default
 id: 170610
 date: 2025-02-06
-title: How is membrane potential measured in electrophysiological studies?
-article_title: How is membrane potential measured in electrophysiological studies?
+title: >-
+    How is membrane potential measured in electrophysiological studies?
+article_title: >-
+    How is membrane potential measured in electrophysiological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-membrane-potential-measured-in-electrophysiological-studies.md
 url: /learn/nursing/questions/how-is-membrane-potential-measured-in-electrophysiological-studies
 score: -1.0
 related_article1:
-    id: 170603
-    title: Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
+    id: 170618
+    title: >-
+        What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
     subject: Nursing
-    url: /learn/nursing/questions/compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
 related_article2:
-    id: 170607
-    title: What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    id: 170601
+    title: >-
+        Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
+    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
 related_article3:
-    id: 170611
-    title: Explain the role of the sodium-potassium pump in action potential recovery.
+    id: 170608
+    title: >-
+        How does myelination affect the speed of nerve impulse conduction?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
+    url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
 related_article4:
-    id: 170609
-    title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+    id: 170618
+    title: >-
+        What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
 related_article5:
-    id: 170605
-    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    id: 170613
+    title: >-
+        Describe the process of synaptic transmission, including pre-synaptic and post-synaptic events.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
+    url: /learn/nursing/questions/describe-the-process-of-synaptic-transmission-including-presynaptic-and-postsynaptic-events
 ---
 
 &nbsp;

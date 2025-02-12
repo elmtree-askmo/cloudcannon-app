@@ -2,8 +2,10 @@
 _schema: default
 id: 169501
 date: 2025-02-05
-title: What are the safe lifting techniques to maintain proper body positioning in ergonomics?
-article_title: What are the safe lifting techniques to maintain proper body positioning in ergonomics?
+title: >-
+    What are the safe lifting techniques to maintain proper body positioning in ergonomics?
+article_title: >-
+    What are the safe lifting techniques to maintain proper body positioning in ergonomics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-safe-lifting-techniques-to-maintain-proper-body-position
 url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
 score: -1.0
 related_article1:
+    id: 169497
+    title: >-
+        What are the key responsibilities of employers under the Health and Safety at Work Act?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-responsibilities-of-employers-under-the-health-and-safety-at-work-act
+related_article2:
+    id: 169510
+    title: >-
+        What is the importance of ensuring patient consent in care environments?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+related_article3:
+    id: 169507
+    title: >-
+        What is the hierarchy of control and how does it help in minimizing manual handling?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
+related_article4:
     id: 169511
-    title: What are the guidelines for safe operation of hoist and sit to stand equipment?
+    title: >-
+        What are the guidelines for safe operation of hoist and sit to stand equipment?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
-related_article2:
-    id: 169503
-    title: What is the role of the Health and Safety Executive in workplace safety?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
-related_article3:
-    id: 169502
-    title: How does the TILE risk assessment model evaluate individual capability?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
-related_article4:
-    id: 169498
-    title: How should employees report risks and incidents according to the Health and Safety at Work Act?
-    subject: Nursing
-    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
 related_article5:
-    id: 169500
-    title: How can risks be assessed and reduced in manual handling operations?
+    id: 169512
+    title: >-
+        Why is it important to keep manual handling training up-to-date?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
 ---
 
 &nbsp;

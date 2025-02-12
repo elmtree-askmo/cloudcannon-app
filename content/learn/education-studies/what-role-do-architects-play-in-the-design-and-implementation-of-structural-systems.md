@@ -2,8 +2,10 @@
 _schema: default
 id: 168480
 date: 2025-02-03
-title: What role do architects play in the design and implementation of structural systems?
-article_title: What role do architects play in the design and implementation of structural systems?
+title: >-
+    What role do architects play in the design and implementation of structural systems?
+article_title: >-
+    What role do architects play in the design and implementation of structural systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-architects-play-in-the-design-and-implementation-of-stru
 url: /learn/education-studies/questions/what-role-do-architects-play-in-the-design-and-implementation-of-structural-systems
 score: -1.0
 related_article1:
-    id: 168475
-    title: What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
+    id: 168479
+    title: >-
+        How do zoning laws impact construction projects and what legal considerations must be taken into account?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
+    url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
 related_article2:
-    id: 168475
-    title: What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
+    id: 168473
+    title: >-
+        How do construction careers differ in terms of work environment and job types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
+    url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
 related_article3:
     id: 168476
-    title: Why is a high school diploma or GED important for career development in architecture and construction?
+    title: >-
+        Why is a high school diploma or GED important for career development in architecture and construction?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
 related_article4:
-    id: 168476
-    title: Why is a high school diploma or GED important for career development in architecture and construction?
+    id: 168472
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 related_article5:
-    id: 168486
-    title: What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
+    id: 168483
+    title: >-
+        What are the main types of mechanical systems used in construction, and how do they differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-vocational-education-in-terms-of-handson-experience-and-industryrelevant-skills
+    url: /learn/education-studies/questions/what-are-the-main-types-of-mechanical-systems-used-in-construction-and-how-do-they-differ
 ---
 
 &nbsp;

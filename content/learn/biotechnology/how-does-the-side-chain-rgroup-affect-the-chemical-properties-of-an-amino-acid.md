@@ -2,8 +2,10 @@
 _schema: default
 id: 166953
 date: 2025-01-31
-title: How does the side chain (R-group) affect the chemical properties of an amino acid?
-article_title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+title: >-
+    How does the side chain (R-group) affect the chemical properties of an amino acid?
+article_title: >-
+    How does the side chain (R-group) affect the chemical properties of an amino acid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-a
 url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
 score: -1.0
 related_article1:
-    id: 166961
-    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    id: 166954
+    title: >-
+        What are the characteristics of nonpolar aliphatic R-groups?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
 related_article2:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166951
+    title: >-
+        How do proteins contribute to enzyme catalysis?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
 related_article3:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166965
+    title: >-
+        How do molecular chaperones assist in protein folding?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
 related_article4:
-    id: 166959
-    title: How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    id: 166956
+    title: >-
+        What is the role of dehydration synthesis in peptide bond formation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
 related_article5:
-    id: 166961
-    title: How do multiple polypeptide chains contribute to the quaternary structure of proteins?
+    id: 166965
+    title: >-
+        How do molecular chaperones assist in protein folding?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
 ---
 
 &nbsp;

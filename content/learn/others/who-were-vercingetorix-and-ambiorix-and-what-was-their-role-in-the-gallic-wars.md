@@ -2,8 +2,10 @@
 _schema: default
 id: 166045
 date: 2025-01-29
-title: Who were Vercingetorix and Ambiorix, and what was their role in the Gallic Wars?
-article_title: Who were Vercingetorix and Ambiorix, and what was their role in the Gallic Wars?
+title: >-
+    Who were Vercingetorix and Ambiorix, and what was their role in the Gallic Wars?
+article_title: >-
+    Who were Vercingetorix and Ambiorix, and what was their role in the Gallic Wars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-were-vercingetorix-and-ambiorix-and-what-was-their-role-in-the-ga
 url: /learn/others/questions/who-were-vercingetorix-and-ambiorix-and-what-was-their-role-in-the-gallic-wars
 score: -1.0
 related_article1:
-    id: 166049
-    title: Why were Druids exempt from war, and what was the significance of their oral tradition?
+    id: 166052
+    title: >-
+        How did the social hierarchy of Celtic tribes function?
     subject: Others
-    url: /learn/others/questions/why-were-druids-exempt-from-war-and-what-was-the-significance-of-their-oral-tradition
+    url: /learn/others/questions/how-did-the-social-hierarchy-of-celtic-tribes-function
 related_article2:
-    id: 166051
-    title: What were the sacrificial rites associated with Gallic deities?
+    id: 166046
+    title: >-
+        How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
     subject: Others
-    url: /learn/others/questions/what-were-the-sacrificial-rites-associated-with-gallic-deities
+    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
 related_article3:
-    id: 166044
-    title: What was the outcome of the Helvetii migration during the Gallic Wars?
+    id: 166055
+    title: >-
+        How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
     subject: Others
-    url: /learn/others/questions/what-was-the-outcome-of-the-helvetii-migration-during-the-gallic-wars
+    url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
 related_article4:
-    id: 166055
-    title: How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
+    id: 166054
+    title: >-
+        What were the religious beliefs of the Celts regarding human sacrifice?
     subject: Others
-    url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
+    url: /learn/others/questions/what-were-the-religious-beliefs-of-the-celts-regarding-human-sacrifice
 related_article5:
-    id: 166055
-    title: How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
     subject: Others
-    url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 ---
 
 &nbsp;

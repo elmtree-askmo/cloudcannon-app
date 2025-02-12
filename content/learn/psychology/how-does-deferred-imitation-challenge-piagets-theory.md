@@ -2,8 +2,10 @@
 _schema: default
 id: 168003
 date: 2025-02-02
-title: How does deferred imitation challenge Piaget's theory?
-article_title: How does deferred imitation challenge Piaget's theory?
+title: >-
+    How does deferred imitation challenge Piaget's theory?
+article_title: >-
+    How does deferred imitation challenge Piaget's theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-deferred-imitation-challenge-piagets-theory.md
 url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
 score: -1.0
 related_article1:
-    id: 168004
-    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    id: 167994
+    title: >-
+        What are the key characteristics of the formal operational stage in Piaget's theory?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 related_article2:
-    id: 168004
-    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    id: 168001
+    title: >-
+        List and briefly describe the stages of cognitive development according to Piaget.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
+    url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
 related_article3:
-    id: 168005
-    title: How do social interactions influence cognitive development according to Piaget?
+    id: 167996
+    title: >-
+        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
 related_article4:
-    id: 168008
-    title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    id: 167999
+    title: >-
+        How does the concept of the imaginary audience relate to adolescent behavior?
     subject: Psychology
-    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
 related_article5:
-    id: 168009
-    title: What is the Information Processing Theory, and how does it differ from Piaget's approach?
+    id: 167999
+    title: >-
+        How does the concept of the imaginary audience relate to adolescent behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
+    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170706
 date: 2025-02-06
-title: How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
-article_title: How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+title: >-
+    How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
+article_title: >-
+    How can Big O Notation be applied to analyze algorithm complexity in inductive proofs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-
 url: /learn/mathematics/questions/how-can-big-o-notation-be-applied-to-analyze-algorithm-complexity-in-inductive-proofs
 score: -1.0
 related_article1:
-    id: 170689
-    title: In what way is strong induction applied to solve the Coin Change Problem?
-    subject: Mathematics
-    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
-related_article2:
-    id: 170693
-    title: Describe how normal induction can be applied to the Coin Change Problem.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
-related_article3:
     id: 170700
-    title: What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
+    title: >-
+        What challenges might arise in the inductive proof of the Coin Change Problem, and how can they be addressed?
     subject: Mathematics
     url: /learn/mathematics/questions/what-challenges-might-arise-in-the-inductive-proof-of-the-coin-change-problem-and-how-can-they-be-addressed
+related_article2:
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
+related_article3:
+    id: 170693
+    title: >-
+        Describe how normal induction can be applied to the Coin Change Problem.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 related_article4:
-    id: 170690
-    title: How can strong induction be used to prove properties of the Fibonacci sequence?
+    id: 170696
+    title: >-
+        How does the base case function in both strong and normal induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
+    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
 related_article5:
-    id: 170703
-    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    id: 170694
+    title: >-
+        Explain the role of the base case in proving properties of the Fibonacci sequence using normal induction.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
+    url: /learn/mathematics/questions/explain-the-role-of-the-base-case-in-proving-properties-of-the-fibonacci-sequence-using-normal-induction
 ---
 
 &nbsp;

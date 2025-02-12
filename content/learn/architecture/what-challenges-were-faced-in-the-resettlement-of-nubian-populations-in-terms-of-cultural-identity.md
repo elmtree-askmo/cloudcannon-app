@@ -2,8 +2,10 @@
 _schema: default
 id: 169078
 date: 2025-02-04
-title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
-article_title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+title: >-
+    What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+article_title: >-
+    What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-were-faced-in-the-resettlement-of-nubian-populations-
 url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
 score: -1.0
 related_article1:
-    id: 169081
-    title: How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
+    id: 169079
+    title: >-
+        Why is the preservation of material integrity crucial in architectural conservation?
     subject: Architecture
-    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
+    url: /learn/architecture/questions/why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation
 related_article2:
-    id: 169072
-    title: How did the Aswan High Dam impact the mobility of monuments?
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
     subject: Architecture
-    url: /learn/architecture/questions/how-did-the-aswan-high-dam-impact-the-mobility-of-monuments
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
 related_article3:
-    id: 169081
-    title: How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
+    id: 169070
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
     subject: Architecture
-    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
+    url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
 related_article4:
-    id: 169076
-    title: What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    id: 169075
+    title: >-
+        How did the movement of monuments contribute to global cultural exchange?
     subject: Architecture
-    url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
+    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
 related_article5:
-    id: 169069
-    title: What were the main steps involved in the survey and dismantling of the Nubian Temples?
+    id: 169077
+    title: >-
+        How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
     subject: Architecture
-    url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
+    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
 ---
 
 &nbsp;

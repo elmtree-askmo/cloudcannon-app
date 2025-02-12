@@ -2,8 +2,10 @@
 _schema: default
 id: 170389
 date: 2025-02-06
-title: Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
-article_title: Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+title: >-
+    Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
+article_title: >-
+    Describe the process of marine organism decomposition in the hydrosphere and its impact on carbon release.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-marine-organism-decomposition-in-the-hydrosph
 url: /learn/biology/questions/describe-the-process-of-marine-organism-decomposition-in-the-hydrosphere-and-its-impact-on-carbon-release
 score: -1.0
 related_article1:
-    id: 170387
-    title: How do phytoplankton contribute to the marine food web and carbon transfer to larger animals?
+    id: 170393
+    title: >-
+        How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/how-do-phytoplankton-contribute-to-the-marine-food-web-and-carbon-transfer-to-larger-animals
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
 related_article2:
-    id: 170377
-    title: What are the main interactions involved in the carbon exchange process within the carbon cycle?
+    id: 170391
+    title: >-
+        What is the role of chlorophyll in light absorption during photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 related_article3:
-    id: 170384
-    title: How does the decomposition process contribute to nutrient recycling in ecosystems?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-decomposition-process-contribute-to-nutrient-recycling-in-ecosystems
-related_article4:
     id: 170385
-    title: Why are keystone species important for ecosystem stability and the carbon cycle?
+    title: >-
+        Why are keystone species important for ecosystem stability and the carbon cycle?
     subject: Biology
     url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
-related_article5:
-    id: 170386
-    title: What is marine snow, and how does it contribute to carbon transfer in marine environments?
+related_article4:
+    id: 170379
+    title: >-
+        What role does chlorophyll play in the conversion of light energy during photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
+    url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
+related_article5:
+    id: 170393
+    title: >-
+        How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
 ---
 
 &nbsp;

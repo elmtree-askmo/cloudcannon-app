@@ -2,8 +2,10 @@
 _schema: default
 id: 170442
 date: 2025-02-06
-title: What are the primary causes and consequences of a stroke?
-article_title: What are the primary causes and consequences of a stroke?
+title: >-
+    What are the primary causes and consequences of a stroke?
+article_title: >-
+    What are the primary causes and consequences of a stroke?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-causes-and-consequences-of-a-stroke.md
 url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
 score: -1.0
 related_article1:
-    id: 170441
-    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
     subject: Nursing
-    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 related_article2:
-    id: 170444
-    title: What are the potential genetic and viral components associated with schizophrenia?
+    id: 170448
+    title: >-
+        What is the clinical significance of the subarachnoid space and CSF?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
 related_article3:
-    id: 170454
-    title: What are the causes and symptoms of viral meningitis, and how is it treated?
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-causes-and-symptoms-of-viral-meningitis-and-how-is-it-treated
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
 related_article4:
-    id: 170447
-    title: Describe the structure and function of the dura mater.
+    id: 170446
+    title: >-
+        What is the role of the withdrawal reflex in motor function?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
 related_article5:
-    id: 170444
-    title: What are the potential genetic and viral components associated with schizophrenia?
+    id: 170453
+    title: >-
+        Why is myelination important for signal transmission in neurons?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
 ---
 
 &nbsp;

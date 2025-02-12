@@ -2,8 +2,10 @@
 _schema: default
 id: 162580
 date: 2025-01-25
-title: What were the key public health responses to typhus during the Irish immigration period?
-article_title: What were the key public health responses to typhus during the Irish immigration period?
+title: >-
+    What were the key public health responses to typhus during the Irish immigration period?
+article_title: >-
+    What were the key public health responses to typhus during the Irish immigration period?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-public-health-responses-to-typhus-during-the-irish-
 url: /learn/health-studies/questions/what-were-the-key-public-health-responses-to-typhus-during-the-irish-immigration-period
 score: -1.0
 related_article1:
-    id: 162581
-    title: How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
+    id: 162584
+    title: >-
+        How do provincial boards of health contribute to public health infrastructure in Canada?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epidemiology
+    url: /learn/health-studies/questions/how-do-provincial-boards-of-health-contribute-to-public-health-infrastructure-in-canada
 related_article2:
-    id: 162578
-    title: What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
+    id: 162583
+    title: >-
+        What were the main arguments of the anti-vaccination movements against compulsory smallpox vaccination?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
+    url: /learn/health-studies/questions/what-were-the-main-arguments-of-the-antivaccination-movements-against-compulsory-smallpox-vaccination
 related_article3:
-    id: 162578
-    title: What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
-related_article4:
-    id: 162579
-    title: How did the cholera epidemic influence sanitary measures and public health infrastructure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-cholera-epidemic-influence-sanitary-measures-and-public-health-infrastructure
-related_article5:
     id: 162585
-    title: What are the main components of the Canada Health Act that support publicly-funded universal health care?
+    title: >-
+        What are the main components of the Canada Health Act that support publicly-funded universal health care?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
+related_article4:
+    id: 162576
+    title: >-
+        What were the primary public health measures implemented during colonial times to address diseases introduced by European immigration?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-during-colonial-times-to-address-diseases-introduced-by-european-immigration
+related_article5:
+    id: 162582
+    title: >-
+        What is the significance of geographical epidemiology in modern public health practices?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-geographical-epidemiology-in-modern-public-health-practices
 ---
 
 &nbsp;

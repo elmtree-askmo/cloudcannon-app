@@ -2,8 +2,10 @@
 _schema: default
 id: 163750
 date: 2025-01-27
-title: How can you identify key features on the graph of a cube root function?
-article_title: How can you identify key features on the graph of a cube root function?
+title: >-
+    How can you identify key features on the graph of a cube root function?
+article_title: >-
+    How can you identify key features on the graph of a cube root function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph
 score: -1.0
 related_article1:
     id: 163768
-    title: How are cube root functions used in real-world applications?
+    title: >-
+        How are cube root functions used in real-world applications?
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
 related_article2:
     id: 163777
-    title: What is the effect of stretching and compressing on cube root functions?
+    title: >-
+        What is the effect of stretching and compressing on cube root functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-effect-of-stretching-and-compressing-on-cube-root-functions
 related_article3:
-    id: 163770
-    title: What are the effects of transformations and translations on cube root functions?
+    id: 163783
+    title: >-
+        Why are cube root functions considered continuous functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
 related_article4:
-    id: 163755
-    title: How do the domain and range of cube root functions compare to those of square root functions?
+    id: 163764
+    title: >-
+        What impact do coefficients have on the graphs of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-domain-and-range-of-cube-root-functions-compare-to-those-of-square-root-functions
+    url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
 related_article5:
-    id: 163748
-    title: What steps are involved in graphing a cube root function?
+    id: 163768
+    title: >-
+        How are cube root functions used in real-world applications?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
 ---
 
 &nbsp;

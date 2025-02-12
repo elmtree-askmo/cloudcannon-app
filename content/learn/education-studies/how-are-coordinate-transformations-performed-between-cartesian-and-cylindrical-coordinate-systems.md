@@ -2,8 +2,10 @@
 _schema: default
 id: 166739
 date: 2025-01-31
-title: How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
-article_title: How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
+title: >-
+    How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
+article_title: >-
+    How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-coordinate-transformations-performed-between-cartesian-and-cy
 url: /learn/education-studies/questions/how-are-coordinate-transformations-performed-between-cartesian-and-cylindrical-coordinate-systems
 score: -1.0
 related_article1:
-    id: 166738
-    title: Describe the conservation of angular momentum and its applications in rotational motion.
+    id: 166723
+    title: >-
+        What conditions must be met for a system to be in mechanical equilibrium?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-conservation-of-angular-momentum-and-its-applications-in-rotational-motion
+    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
 related_article2:
-    id: 166733
-    title: What is the cross product of two vectors and what are its properties?
+    id: 166731
+    title: >-
+        Define the dot product and explain how it is used to calculate scalar products.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
+    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
 related_article3:
-    id: 166726
-    title: What are the different types of forces and how do they affect the equilibrium of a system?
+    id: 166735
+    title: >-
+        What is a unit vector and why is it important in vector representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-forces-and-how-do-they-affect-the-equilibrium-of-a-system
+    url: /learn/education-studies/questions/what-is-a-unit-vector-and-why-is-it-important-in-vector-representation
 related_article4:
-    id: 166727
-    title: How is the mechanical advantage of a lever determined and what are the types of levers?
+    id: 166729
+    title: >-
+        How are vectors decomposed into components and what are the properties of vector addition and subtraction?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-mechanical-advantage-of-a-lever-determined-and-what-are-the-types-of-levers
+    url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
 related_article5:
-    id: 166725
-    title: Explain the relationship between force, distance, and angle in moment equations.
+    id: 166736
+    title: >-
+        How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-relationship-between-force-distance-and-angle-in-moment-equations
+    url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
 ---
 
 &nbsp;

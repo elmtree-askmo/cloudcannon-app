@@ -2,8 +2,10 @@
 _schema: default
 id: 163013
 date: 2025-01-26
-title: How do genetic makeup and lifestyle behaviors influence individual determinants of health?
-article_title: How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+title: >-
+    How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+article_title: >-
+    How do genetic makeup and lifestyle behaviors influence individual determinants of health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-de
 url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
 score: -1.0
 related_article1:
-    id: 162961
-    title: What are the differences between primary and secondary data in epidemiologic research?
+    id: 162966
+    title: >-
+        What is the primary focus of epidemiology in terms of disease frequency and distribution?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
+    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
 related_article2:
-    id: 162968
-    title: What role do genetic makeup and lifestyle play in individual determinants of health?
+    id: 162976
+    title: >-
+        How is a null hypothesis specified and tested in hypothesis testing?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+    url: /learn/health-studies/questions/how-is-a-null-hypothesis-specified-and-tested-in-hypothesis-testing
 related_article3:
-    id: 162962
-    title: What are the advantages of using random sampling in biostatistics?
+    id: 162977
+    title: >-
+        What is the significance of confidence intervals in the estimation process of epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-advantages-of-using-random-sampling-in-biostatistics
+    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 related_article4:
-    id: 162972
-    title: What are the main sources of epidemiologic data, and how do they contribute to public health research?
+    id: 163014
+    title: >-
+        What role do political and economic factors play in environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-sources-of-epidemiologic-data-and-how-do-they-contribute-to-public-health-research
+    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 related_article5:
-    id: 162971
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    id: 162965
+    title: >-
+        How is a confidence interval interpreted in the context of epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+    url: /learn/health-studies/questions/how-is-a-confidence-interval-interpreted-in-the-context-of-epidemiologic-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166387
 date: 2025-01-30
-title: What is heritability, and how is it studied in behavioral traits?
-article_title: What is heritability, and how is it studied in behavioral traits?
+title: >-
+    What is heritability, and how is it studied in behavioral traits?
+article_title: >-
+    What is heritability, and how is it studied in behavioral traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-heritability-and-how-is-it-studied-in-behavioral-traits.md
 url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
 score: -1.0
 related_article1:
+    id: 166381
+    title: >-
+        What are the different types of learning, and how do they impact animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-learning-and-how-do-they-impact-animal-behavior
+related_article2:
+    id: 166384
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+related_article3:
+    id: 166389
+    title: >-
+        Differentiate between homology and homoplasy with examples.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+related_article4:
+    id: 166386
+    title: >-
+        Define adaptation and provide examples of behavioral adaptations in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+related_article5:
     id: 166393
-    title: What are the effects of sensory input and integration on animal behavior?
+    title: >-
+        What are the effects of sensory input and integration on animal behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
-related_article2:
-    id: 166380
-    title: How does natural selection influence the evolution of animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
-related_article3:
-    id: 166391
-    title: How do hormone-receptor interactions influence animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
-related_article4:
-    id: 166378
-    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
-related_article5:
-    id: 166378
-    title: Explain the differences between proximate and ultimate causes in animal behavior with examples.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-proximate-and-ultimate-causes-in-animal-behavior-with-examples
 ---
 
 &nbsp;

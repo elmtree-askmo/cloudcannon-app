@@ -2,8 +2,10 @@
 _schema: default
 id: 166170
 date: 2025-01-29
-title: What are the impacts of climate change on ecosystems?
-article_title: What are the impacts of climate change on ecosystems?
+title: >-
+    What are the impacts of climate change on ecosystems?
+article_title: >-
+    What are the impacts of climate change on ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-impacts-of-climate-change-on-ecosystems.md
 url: /learn/education-studies/questions/what-are-the-impacts-of-climate-change-on-ecosystems
 score: -1.0
 related_article1:
-    id: 166173
-    title: How do scientific theories differ from scientific laws?
+    id: 166154
+    title: >-
+        How do sensory observations contribute to hypothesis formation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-scientific-theories-differ-from-scientific-laws
+    url: /learn/education-studies/questions/how-do-sensory-observations-contribute-to-hypothesis-formation
 related_article2:
-    id: 166161
-    title: What is the peer review process and why is it important in scientific research?
+    id: 166162
+    title: >-
+        Why is replication crucial for ensuring consistency in scientific experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
+    url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-consistency-in-scientific-experiments
 related_article3:
-    id: 166163
-    title: How does long-term ecological research contribute to understanding climate change impacts?
+    id: 166153
+    title: >-
+        What is the purpose of the scientific method in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
+    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 related_article4:
-    id: 166172
-    title: What are the main threats to brook trout habitats?
+    id: 166155
+    title: >-
+        What is inductive reasoning and how is it applied in hypothesis creation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-threats-to-brook-trout-habitats
+    url: /learn/education-studies/questions/what-is-inductive-reasoning-and-how-is-it-applied-in-hypothesis-creation
 related_article5:
-    id: 166169
-    title: How does science contribute to addressing environmental issues like climate change?
+    id: 166162
+    title: >-
+        Why is replication crucial for ensuring consistency in scientific experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-science-contribute-to-addressing-environmental-issues-like-climate-change
+    url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-consistency-in-scientific-experiments
 ---
 
 &nbsp;

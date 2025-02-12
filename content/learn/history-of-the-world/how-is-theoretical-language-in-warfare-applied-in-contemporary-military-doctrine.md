@@ -2,8 +2,10 @@
 _schema: default
 id: 169097
 date: 2025-02-04
-title: How is theoretical language in warfare applied in contemporary military doctrine?
-article_title: How is theoretical language in warfare applied in contemporary military doctrine?
+title: >-
+    How is theoretical language in warfare applied in contemporary military doctrine?
+article_title: >-
+    How is theoretical language in warfare applied in contemporary military doctrine?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-theoretical-language-in-warfare-applied-in-contemporary-milita
 url: /learn/history-of-the-world/questions/how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine
 score: 9.0
 related_article1:
-    id: 169102
-    title: What are the ethical implications of warfare in military practice?
+    id: 169096
+    title: >-
+        Discuss the ethical implications of warfare in contemporary military doctrine.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
+    url: /learn/history-of-the-world/questions/discuss-the-ethical-implications-of-warfare-in-contemporary-military-doctrine
 related_article2:
-    id: 169089
-    title: How does post-modern theory influence spatial interpretation in architectural theory?
+    id: 169105
+    title: >-
+        What role do military research institutes play in addressing institutional conflicts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-postmodern-theory-influence-spatial-interpretation-in-architectural-theory
+    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
 related_article3:
     id: 169091
-    title: How do swarming tactics enhance military tactics in urban environments?
+    title: >-
+        How do swarming tactics enhance military tactics in urban environments?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-military-tactics-in-urban-environments
 related_article4:
-    id: 169090
-    title: What is the role of theoretical language in warfare within the context of architectural theory?
+    id: 169088
+    title: >-
+        What is the significance of geopolitical architecture in the military-architectural relationship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
 related_article5:
-    id: 169094
-    title: What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
+    id: 169088
+    title: >-
+        What is the significance of geopolitical architecture in the military-architectural relationship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
 ---
 
 &nbsp;

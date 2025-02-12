@@ -2,8 +2,10 @@
 _schema: default
 id: 160599
 date: 2025-01-24
-title: What were the key features of the PowerBook G4 introduced in the mid-2000s?
-article_title: What were the key features of the PowerBook G4 introduced in the mid-2000s?
+title: >-
+    What were the key features of the PowerBook G4 introduced in the mid-2000s?
+article_title: >-
+    What were the key features of the PowerBook G4 introduced in the mid-2000s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-features-of-the-powerbook-g4-introduced-in-the-mid2
 url: /learn/computer-science/questions/what-were-the-key-features-of-the-powerbook-g4-introduced-in-the-mid2000s
 score: -1.0
 related_article1:
-    id: 160535
-    title: How did advances in display technology contribute to technological advancements in computing?
+    id: 160519
+    title: >-
+        What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-advances-in-display-technology-contribute-to-technological-advancements-in-computing
+    url: /learn/computer-science/questions/what-advancements-did-the-flatpanel-imac-bring-to-apples-product-offerings-in-the-late-2000s
 related_article2:
-    id: 160605
-    title: What technological advancements were introduced with the iPhone 3G?
+    id: 160428
+    title: >-
+        How did the transition to aluminum cases affect Apple's product design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-technological-advancements-were-introduced-with-the-iphone-3g
+    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
 related_article3:
-    id: 160436
-    title: What innovations did Apple introduce with the development of lightweight notebooks?
+    id: 160427
+    title: >-
+        What was the impact of the MacBook Air's introduction on the laptop market?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
+    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
 related_article4:
-    id: 160425
-    title: What were the technological advancements introduced with the iPhone 3G?
+    id: 160434
+    title: >-
+        What were the key technological advancements in computing that Apple contributed to in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+    url: /learn/computer-science/questions/what-were-the-key-technological-advancements-in-computing-that-apple-contributed-to-in-the-early-2000s
 related_article5:
-    id: 160598
-    title: How did the launch of the first Apple retail store impact the company's sales strategy?
+    id: 160597
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 ---
 
 &nbsp;

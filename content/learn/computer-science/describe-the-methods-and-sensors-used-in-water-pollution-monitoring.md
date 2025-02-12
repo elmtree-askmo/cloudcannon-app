@@ -2,8 +2,10 @@
 _schema: default
 id: 161348
 date: 2025-01-24
-title: Describe the methods and sensors used in water pollution monitoring.
-article_title: Describe the methods and sensors used in water pollution monitoring.
+title: >-
+    Describe the methods and sensors used in water pollution monitoring.
+article_title: >-
+    Describe the methods and sensors used in water pollution monitoring.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-methods-and-sensors-used-in-water-pollution-monitoring.m
 url: /learn/computer-science/questions/describe-the-methods-and-sensors-used-in-water-pollution-monitoring
 score: -1.0
 related_article1:
-    id: 161349
-    title: What vital signs are monitored in patient monitoring systems, and how is data processed to generate alerts?
+    id: 161522
+    title: >-
+        Discuss the methods and sensors used in water pollution monitoring.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-vital-signs-are-monitored-in-patient-monitoring-systems-and-how-is-data-processed-to-generate-alerts
+    url: /learn/computer-science/questions/discuss-the-methods-and-sensors-used-in-water-pollution-monitoring
 related_article2:
-    id: 161516
-    title: What are the different types of actuators, and how do they function in control technologies?
+    id: 161608
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-do-they-function-in-control-technologies
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 related_article3:
-    id: 161334
-    title: What are the different types of actuators, and how are they applied in control technologies?
+    id: 161608
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 related_article4:
     id: 161525
-    title: Explain the components and functionality of central heating systems, including the process and feedback mechanism.
+    title: >-
+        Explain the components and functionality of central heating systems, including the process and feedback mechanism.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-components-and-functionality-of-central-heating-systems-including-the-process-and-feedback-mechanism
 related_article5:
-    id: 161347
-    title: What types of sensors are typically used in weather stations, and how is data collected and processed?
+    id: 161529
+    title: >-
+        Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-sensors-are-typically-used-in-weather-stations-and-how-is-data-collected-and-processed
+    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
 ---
 
 &nbsp;

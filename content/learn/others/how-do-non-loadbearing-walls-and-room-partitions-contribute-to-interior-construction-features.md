@@ -2,8 +2,10 @@
 _schema: default
 id: 168656
 date: 2025-02-03
-title: How do non load-bearing walls and room partitions contribute to interior construction features?
-article_title: How do non load-bearing walls and room partitions contribute to interior construction features?
+title: >-
+    How do non load-bearing walls and room partitions contribute to interior construction features?
+article_title: >-
+    How do non load-bearing walls and room partitions contribute to interior construction features?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-non-loadbearing-walls-and-room-partitions-contribute-to-interi
 url: /learn/others/questions/how-do-non-loadbearing-walls-and-room-partitions-contribute-to-interior-construction-features
 score: -1.0
 related_article1:
-    id: 168653
-    title: What are the key components of drafting construction documents in compliance with state and local building codes?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-components-of-drafting-construction-documents-in-compliance-with-state-and-local-building-codes
-related_article2:
-    id: 168657
-    title: What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
-related_article3:
     id: 168651
-    title: What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
     subject: Others
     url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
+related_article2:
+    id: 168651
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
+    subject: Others
+    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
+related_article3:
+    id: 168652
+    title: >-
+        How do interior designers collaborate with architects and engineers in the design and construction team?
+    subject: Others
+    url: /learn/others/questions/how-do-interior-designers-collaborate-with-architects-and-engineers-in-the-design-and-construction-team
 related_article4:
-    id: 168661
-    title: What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
+    id: 168659
+    title: >-
+        What materials are considered appropriate for walls and ceilings to ensure fire safety?
     subject: Others
-    url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
-related_article5:
-    id: 168657
-    title: What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
+    url: /learn/others/questions/what-materials-are-considered-appropriate-for-walls-and-ceilings-to-ensure-fire-safety
 ---
 
 &nbsp;

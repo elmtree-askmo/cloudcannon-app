@@ -2,8 +2,10 @@
 _schema: default
 id: 165708
 date: 2025-01-29
-title: Describe the 32-bit structure of an IPv4 address and its division into octets.
-article_title: Describe the 32-bit structure of an IPv4 address and its division into octets.
+title: >-
+    Describe the 32-bit structure of an IPv4 address and its division into octets.
+article_title: >-
+    Describe the 32-bit structure of an IPv4 address and its division into octets.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into
 url: /learn/computer-science/questions/describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into-octets
 score: -1.0
 related_article1:
-    id: 165704
-    title: How is the host portion of an IPv4 address represented in dotted decimal format?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-the-host-portion-of-an-ipv4-address-represented-in-dotted-decimal-format
-related_article2:
-    id: 165706
-    title: How do you convert a binary number to a decimal number? Provide an example.
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
-related_article3:
-    id: 165703
-    title: What is the purpose of the network portion in an IPv4 address?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-network-portion-in-an-ipv4-address
-related_article4:
-    id: 165720
-    title: How does hierarchical IP addressing facilitate subnetwork division?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-hierarchical-ip-addressing-facilitate-subnetwork-division
-related_article5:
     id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+    title: >-
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
+related_article2:
+    id: 165718
+    title: >-
+        What are the configuration steps for static IP address assignment?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
+related_article3:
+    id: 165705
+    title: >-
+        Explain the significance of base 2 digits in the binary number system.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
+related_article4:
+    id: 165707
+    title: >-
+        What are the steps involved in converting a decimal number to binary?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165647
 date: 2025-01-29
-title: How does HTTP interpret a URL?
-article_title: How does HTTP interpret a URL?
+title: >-
+    How does HTTP interpret a URL?
+article_title: >-
+    How does HTTP interpret a URL?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-http-interpret-a-url.md
 url: /learn/computer-science/questions/how-does-http-interpret-a-url
 score: -1.0
 related_article1:
-    id: 165640
-    title: How does the Presentation Layer handle data encryption?
+    id: 165650
+    title: >-
+        What are the differences between POP and IMAP protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-presentation-layer-handle-data-encryption
+    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
 related_article2:
-    id: 165642
-    title: What are the key specifications of TCP/IP Application Layer protocols?
+    id: 165639
+    title: >-
+        What is the primary role of the Application Layer in the OSI model?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-specifications-of-tcpip-application-layer-protocols
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-application-layer-in-the-osi-model
 related_article3:
     id: 165651
-    title: How does the DNS hierarchy organize domain names?
+    title: >-
+        How does the DNS hierarchy organize domain names?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-dns-hierarchy-organize-domain-names
 related_article4:
-    id: 165653
-    title: How do FTP clients and servers interact during a file transfer?
+    id: 165644
+    title: >-
+        What is the primary function of DHCP in host configuration?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-ftp-clients-and-servers-interact-during-a-file-transfer
+    url: /learn/computer-science/questions/what-is-the-primary-function-of-dhcp-in-host-configuration
 related_article5:
     id: 165651
-    title: How does the DNS hierarchy organize domain names?
+    title: >-
+        How does the DNS hierarchy organize domain names?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-dns-hierarchy-organize-domain-names
 ---

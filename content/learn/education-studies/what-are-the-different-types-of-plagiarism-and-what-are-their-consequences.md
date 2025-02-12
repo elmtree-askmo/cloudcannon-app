@@ -2,8 +2,10 @@
 _schema: default
 id: 164101
 date: 2025-01-28
-title: What are the different types of plagiarism, and what are their consequences?
-article_title: What are the different types of plagiarism, and what are their consequences?
+title: >-
+    What are the different types of plagiarism, and what are their consequences?
+article_title: >-
+    What are the different types of plagiarism, and what are their consequences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-plagiarism-and-what-are-their-consequ
 url: /learn/education-studies/questions/what-are-the-different-types-of-plagiarism-and-what-are-their-consequences
 score: -1.0
 related_article1:
-    id: 164089
-    title: What are some techniques for effective note-taking during reading sessions?
+    id: 164109
+    title: >-
+        Why is lifelong learning important in today's rapidly changing world?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-techniques-for-effective-notetaking-during-reading-sessions
+    url: /learn/education-studies/questions/why-is-lifelong-learning-important-in-todays-rapidly-changing-world
 related_article2:
-    id: 164111
-    title: How does university structure differ from college, particularly in terms of independent learning?
+    id: 164090
+    title: >-
+        How does active reading differ from passive reading, and why is it important?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-university-structure-differ-from-college-particularly-in-terms-of-independent-learning
+    url: /learn/education-studies/questions/how-does-active-reading-differ-from-passive-reading-and-why-is-it-important
 related_article3:
-    id: 164096
-    title: How does identifying bias contribute to critical thinking?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-identifying-bias-contribute-to-critical-thinking
-related_article4:
     id: 164088
-    title: How can a proper timetable improve daily productivity?
+    title: >-
+        How can a proper timetable improve daily productivity?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-a-proper-timetable-improve-daily-productivity
-related_article5:
-    id: 164107
-    title: What are the key components of effective verbal communication in public speaking?
+related_article4:
+    id: 164105
+    title: >-
+        What are the benefits of joining a university research community?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-verbal-communication-in-public-speaking
+    url: /learn/education-studies/questions/what-are-the-benefits-of-joining-a-university-research-community
+related_article5:
+    id: 164109
+    title: >-
+        Why is lifelong learning important in today's rapidly changing world?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-lifelong-learning-important-in-todays-rapidly-changing-world
 ---
 
 &nbsp;

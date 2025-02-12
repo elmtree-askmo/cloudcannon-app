@@ -2,8 +2,10 @@
 _schema: default
 id: 165955
 date: 2025-01-29
-title: What were the major 19th-century art movements, and how did they transition into 20th-century styles?
-article_title: What were the major 19th-century art movements, and how did they transition into 20th-century styles?
+title: >-
+    What were the major 19th-century art movements, and how did they transition into 20th-century styles?
+article_title: >-
+    What were the major 19th-century art movements, and how did they transition into 20th-century styles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-19thcentury-art-movements-and-how-did-they-transi
 url: /learn/art-history-and-literature/questions/what-were-the-major-19thcentury-art-movements-and-how-did-they-transition-into-20thcentury-styles
 score: 9.0
 related_article1:
-    id: 165962
-    title: What is the legacy of 19th-century art movements on contemporary art?
+    id: 165960
+    title: >-
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 related_article2:
-    id: 165952
-    title: How did Claude Monet influence the Impressionist movement?
+    id: 165954
+    title: >-
+        How did Cubism influence subsequent art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
+    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
 related_article3:
-    id: 165940
-    title: How did criticisms of the Official Salons contribute to their decline?
+    id: 165953
+    title: >-
+        Who were the key artists involved in the development of Cubism, and what were their contributions?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+    url: /learn/art-history-and-literature/questions/who-were-the-key-artists-involved-in-the-development-of-cubism-and-what-were-their-contributions
 related_article4:
-    id: 165961
-    title: How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
+    id: 165954
+    title: >-
+        How did Cubism influence subsequent art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
+    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
 related_article5:
-    id: 165962
-    title: What is the legacy of 19th-century art movements on contemporary art?
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
 ---
 
 &nbsp;

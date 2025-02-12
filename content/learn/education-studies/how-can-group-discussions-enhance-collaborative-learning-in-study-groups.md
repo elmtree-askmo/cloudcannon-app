@@ -2,8 +2,10 @@
 _schema: default
 id: 164100
 date: 2025-01-28
-title: How can group discussions enhance collaborative learning in study groups?
-article_title: How can group discussions enhance collaborative learning in study groups?
+title: >-
+    How can group discussions enhance collaborative learning in study groups?
+article_title: >-
+    How can group discussions enhance collaborative learning in study groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-group-discussions-enhance-collaborative-learning-in-study-gro
 url: /learn/education-studies/questions/how-can-group-discussions-enhance-collaborative-learning-in-study-groups
 score: -1.0
 related_article1:
-    id: 164094
-    title: How can visual aids be used effectively to engage an audience during a presentation?
+    id: 164104
+    title: >-
+        How can practice tests contribute to better exam preparation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-visual-aids-be-used-effectively-to-engage-an-audience-during-a-presentation
+    url: /learn/education-studies/questions/how-can-practice-tests-contribute-to-better-exam-preparation
 related_article2:
-    id: 164112
-    title: What are the stages of degree progression, and what are the research requirements for each?
+    id: 164108
+    title: >-
+        How does email etiquette impact professional written communication?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-stages-of-degree-progression-and-what-are-the-research-requirements-for-each
+    url: /learn/education-studies/questions/how-does-email-etiquette-impact-professional-written-communication
 related_article3:
-    id: 164091
-    title: What are the essential elements of a well-structured academic essay?
+    id: 164089
+    title: >-
+        What are some techniques for effective note-taking during reading sessions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-academic-essay
+    url: /learn/education-studies/questions/what-are-some-techniques-for-effective-notetaking-during-reading-sessions
 related_article4:
     id: 164090
-    title: How does active reading differ from passive reading, and why is it important?
+    title: >-
+        How does active reading differ from passive reading, and why is it important?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-active-reading-differ-from-passive-reading-and-why-is-it-important
 related_article5:
-    id: 164097
-    title: What is the role of self-assessment in metacognition, and how can it be applied?
+    id: 164108
+    title: >-
+        How does email etiquette impact professional written communication?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-selfassessment-in-metacognition-and-how-can-it-be-applied
+    url: /learn/education-studies/questions/how-does-email-etiquette-impact-professional-written-communication
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167683
 date: 2025-01-31
-title: What methodologies are used in comparative studies of animal behavior, and why are they important?
-article_title: What methodologies are used in comparative studies of animal behavior, and why are they important?
+title: >-
+    What methodologies are used in comparative studies of animal behavior, and why are they important?
+article_title: >-
+    What methodologies are used in comparative studies of animal behavior, and why are they important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-methodologies-are-used-in-comparative-studies-of-animal-behavior
 url: /learn/others/questions/what-methodologies-are-used-in-comparative-studies-of-animal-behavior-and-why-are-they-important
 score: -1.0
 related_article1:
-    id: 167668
-    title: What are the different types of learning, and how do they contribute to an animal's survival?
+    id: 167671
+    title: >-
+        Differentiate between phenotype and genotype and their influence on animal behavior.
     subject: Others
-    url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
+    url: /learn/others/questions/differentiate-between-phenotype-and-genotype-and-their-influence-on-animal-behavior
 related_article2:
-    id: 167672
-    title: What are the different types of selection, and how do they affect genetic variation?
+    id: 167664
+    title: >-
+        What is the significance of studying animal behavior in the context of ecology and conservation?
     subject: Others
-    url: /learn/others/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-genetic-variation
+    url: /learn/others/questions/what-is-the-significance-of-studying-animal-behavior-in-the-context-of-ecology-and-conservation
 related_article3:
-    id: 167677
-    title: What are neurohormones, and how do they influence animal behavior?
+    id: 167664
+    title: >-
+        What is the significance of studying animal behavior in the context of ecology and conservation?
     subject: Others
-    url: /learn/others/questions/what-are-neurohormones-and-how-do-they-influence-animal-behavior
+    url: /learn/others/questions/what-is-the-significance-of-studying-animal-behavior-in-the-context-of-ecology-and-conservation
 related_article4:
-    id: 167665
-    title: How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
+    id: 167675
+    title: >-
+        What is the difference between homology and homoplasy, and how are they used in evolutionary analysis?
     subject: Others
-    url: /learn/others/questions/how-do-tinbergens-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
+    url: /learn/others/questions/what-is-the-difference-between-homology-and-homoplasy-and-how-are-they-used-in-evolutionary-analysis
 related_article5:
-    id: 167682
-    title: What is the significance of receptor abundance in the evolution of animal behavior?
+    id: 167671
+    title: >-
+        Differentiate between phenotype and genotype and their influence on animal behavior.
     subject: Others
-    url: /learn/others/questions/what-is-the-significance-of-receptor-abundance-in-the-evolution-of-animal-behavior
+    url: /learn/others/questions/differentiate-between-phenotype-and-genotype-and-their-influence-on-animal-behavior
 ---
 
 &nbsp;

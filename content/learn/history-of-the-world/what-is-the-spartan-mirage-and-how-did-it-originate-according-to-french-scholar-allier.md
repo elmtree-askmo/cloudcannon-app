@@ -2,8 +2,10 @@
 _schema: default
 id: 163588
 date: 2025-01-27
-title: What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
-article_title: What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
+title: >-
+    What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
+article_title: >-
+    What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-spartan-mirage-and-how-did-it-originate-according-to-fren
 url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
 score: 8.5
 related_article1:
-    id: 163601
-    title: What challenges are faced in interpreting archaeological evidence from Sparta?
+    id: 163595
+    title: >-
+        What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
+    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
 related_article2:
-    id: 163606
-    title: How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
+    id: 163608
+    title: >-
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
+    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
 related_article3:
-    id: 163593
-    title: Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
+    id: 163596
+    title: >-
+        How did the Dorian dialect influence the Greek language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
+    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
 related_article4:
-    id: 163593
-    title: Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
+    id: 163608
+    title: >-
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
+    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
 related_article5:
-    id: 163602
-    title: How did Spartan art and architecture influence Greek art?
+    id: 163595
+    title: >-
+        What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
+    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
 ---
 
 &nbsp;

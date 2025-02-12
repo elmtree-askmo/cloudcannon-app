@@ -2,8 +2,10 @@
 _schema: default
 id: 160964
 date: 2025-01-24
-title: What challenges are associated with solving the traveling salesman problem?
-article_title: What challenges are associated with solving the traveling salesman problem?
+title: >-
+    What challenges are associated with solving the traveling salesman problem?
+article_title: >-
+    What challenges are associated with solving the traveling salesman problem?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-challenges-are-associated-with-solving-the-traveling-salesman-pr
 url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
 score: -1.0
 related_article1:
-    id: 161129
-    title: How does abstraction aid in algorithm design?
+    id: 160806
+    title: >-
+        What is the P vs NP problem, and why is it important in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-aid-in-algorithm-design
+    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
 related_article2:
-    id: 161129
-    title: How does abstraction aid in algorithm design?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-aid-in-algorithm-design
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article3:
-    id: 161275
-    title: What defines an efficient algorithm in complexity theory?
+    id: 161135
+    title: >-
+        Explain the traveling salesman problem and its role in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
+    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
 related_article4:
-    id: 160803
-    title: What is the relationship between data structures and problem representation?
+    id: 161134
+    title: >-
+        What is the P vs NP problem and why is it significant in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-problem-representation
+    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-significant-in-computational-theory
 related_article5:
-    id: 161277
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 161084
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 ---

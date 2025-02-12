@@ -2,8 +2,10 @@
 _schema: default
 id: 168015
 date: 2025-02-02
-title: How does the misinformation effect impact memory recall?
-article_title: How does the misinformation effect impact memory recall?
+title: >-
+    How does the misinformation effect impact memory recall?
+article_title: >-
+    How does the misinformation effect impact memory recall?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-misinformation-effect-impact-memory-recall.md
 url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
 score: -1.0
 related_article1:
-    id: 168029
-    title: How do misinformation and suggestibility affect memory recall?
+    id: 168014
+    title: >-
+        What is the reverse developmental trend in memory accuracy?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
 related_article2:
-    id: 168032
-    title: What consensus exists regarding the reliability of children's testimony in eyewitness situations?
+    id: 168014
+    title: >-
+        What is the reverse developmental trend in memory accuracy?
     subject: Psychology
-    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
+    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
 related_article3:
-    id: 168014
-    title: What is the reverse developmental trend in memory accuracy?
+    id: 168025
+    title: >-
+        What are the age-related changes in cognitive development that affect memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
 related_article4:
-    id: 168010
-    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    id: 168016
+    title: >-
+        What are the age-related variations in susceptibility to the misinformation effect?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
 related_article5:
-    id: 168014
-    title: What is the reverse developmental trend in memory accuracy?
+    id: 168024
+    title: >-
+        How does cognitive development impact memory recall?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+    url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
 ---
 
 &nbsp;

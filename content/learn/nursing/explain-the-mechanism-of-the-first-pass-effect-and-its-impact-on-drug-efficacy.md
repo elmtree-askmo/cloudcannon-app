@@ -2,8 +2,10 @@
 _schema: default
 id: 166425
 date: 2025-01-30
-title: Explain the mechanism of the first pass effect and its impact on drug efficacy.
-article_title: Explain the mechanism of the first pass effect and its impact on drug efficacy.
+title: >-
+    Explain the mechanism of the first pass effect and its impact on drug efficacy.
+article_title: >-
+    Explain the mechanism of the first pass effect and its impact on drug efficacy.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug
 url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
 score: -1.0
 related_article1:
-    id: 166435
-    title: Define dissolution and explain its importance in drug absorption.
+    id: 166438
+    title: >-
+        What is a black box warning, and what is its purpose in pharmacology?
     subject: Nursing
-    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
 related_article2:
-    id: 166432
-    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    id: 166427
+    title: >-
+        What are the phases of biotransformation, and how do they contribute to drug metabolism?
     subject: Nursing
-    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+    url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-do-they-contribute-to-drug-metabolism
 related_article3:
-    id: 166435
-    title: Define dissolution and explain its importance in drug absorption.
+    id: 166430
+    title: >-
+        How is the peak level of a drug measured, and why is it clinically relevant?
     subject: Nursing
-    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
+    url: /learn/nursing/questions/how-is-the-peak-level-of-a-drug-measured-and-why-is-it-clinically-relevant
 related_article4:
-    id: 166438
-    title: What is a black box warning, and what is its purpose in pharmacology?
+    id: 166429
+    title: >-
+        What are adverse effects, and what strategies can be used to manage them?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
+    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
 related_article5:
-    id: 166438
-    title: What is a black box warning, and what is its purpose in pharmacology?
+    id: 166437
+    title: >-
+        What are the types of drug interactions, and what are their clinical implications?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
 ---
 
 &nbsp;

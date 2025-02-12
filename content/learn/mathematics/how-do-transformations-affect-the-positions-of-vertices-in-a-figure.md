@@ -2,8 +2,10 @@
 _schema: default
 id: 162232
 date: 2025-01-25
-title: How do transformations affect the positions of vertices in a figure?
-article_title: How do transformations affect the positions of vertices in a figure?
+title: >-
+    How do transformations affect the positions of vertices in a figure?
+article_title: >-
+    How do transformations affect the positions of vertices in a figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,29 @@ file_name: how-do-transformations-affect-the-positions-of-vertices-in-a-figure.m
 url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
 score: -1.0
 related_article1:
-    id: 162324
-    title: What is the notation for a translation on the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
-related_article2:
-    id: 162332
-    title: How do transformations affect the positions of vertices in a geometric figure?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-geometric-figure
-related_article3:
-    id: 162314
-    title: What are the three types of rigid transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
-related_article4:
     id: 162328
-    title: How is translation notation used to interpret changes in coordinates?
+    title: >-
+        How is translation notation used to interpret changes in coordinates?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
+related_article2:
+    id: 162324
+    title: >-
+        What is the notation for a translation on the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article3:
+    id: 162229
+    title: >-
+        What is the role of the center of rotation in a rotation transformation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
+related_article4:
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
 ---
 
 &nbsp;

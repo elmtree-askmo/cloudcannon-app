@@ -2,8 +2,10 @@
 _schema: default
 id: 169657
 date: 2025-02-05
-title: How do societal norms and media influence healthcare policies and practices?
-article_title: How do societal norms and media influence healthcare policies and practices?
+title: >-
+    How do societal norms and media influence healthcare policies and practices?
+article_title: >-
+    How do societal norms and media influence healthcare policies and practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-societal-norms-and-media-influence-healthcare-policies-and-pra
 url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
 score: -1.0
 related_article1:
+    id: 169643
+    title: >-
+        What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+related_article2:
+    id: 169661
+    title: >-
+        How does intersectionality affect health outcomes and care strategies?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
+related_article3:
     id: 169659
-    title: What are some inclusive healthcare practices that create safe environments for patients?
+    title: >-
+        What are some inclusive healthcare practices that create safe environments for patients?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
-related_article2:
-    id: 169641
-    title: What are some common barriers to healthcare for transgender individuals?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
-related_article3:
-    id: 169649
-    title: What mental health issues are prevalent among transgender individuals due to discrimination?
-    subject: Nursing
-    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
 related_article4:
-    id: 169649
-    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    id: 169655
+    title: >-
+        What role do nurses play in advocating for vulnerable populations in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
 related_article5:
-    id: 169649
-    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    id: 169652
+    title: >-
+        What societal changes have occurred in the legal and social context of transgender issues?
     subject: Nursing
-    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
 ---
 
 &nbsp;

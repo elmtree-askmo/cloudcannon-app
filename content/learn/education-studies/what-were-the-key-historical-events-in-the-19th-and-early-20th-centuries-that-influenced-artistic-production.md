@@ -2,8 +2,10 @@
 _schema: default
 id: 159811
 date: 2025-01-23
-title: What were the key historical events in the 19th and early 20th centuries that influenced artistic production?
-article_title: What were the key historical events in the 19th and early 20th centuries that influenced artistic production?
+title: >-
+    What were the key historical events in the 19th and early 20th centuries that influenced artistic production?
+article_title: >-
+    What were the key historical events in the 19th and early 20th centuries that influenced artistic production?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-historical-events-in-the-19th-and-early-20th-centur
 url: /learn/education-studies/questions/what-were-the-key-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
 score: -1.0
 related_article1:
-    id: 159739
-    title: What were the main artistic responses to urbanization and cultural shifts caused by the Industrial Revolution?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-main-artistic-responses-to-urbanization-and-cultural-shifts-caused-by-the-industrial-revolution
-related_article2:
-    id: 160012
-    title: How did technological advancements during the Industrial Revolution influence modern art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
-related_article3:
-    id: 159809
-    title: What innovations in the use of light and color were introduced during the development of new artistic techniques?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
-related_article4:
-    id: 160012
-    title: How did technological advancements during the Industrial Revolution influence modern art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
-related_article5:
     id: 160019
-    title: What are the defining features of Post-Impressionism, and how did it build on Impressionism?
+    title: >-
+        What are the defining features of Post-Impressionism, and how did it build on Impressionism?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-defining-features-of-postimpressionism-and-how-did-it-build-on-impressionism
+related_article2:
+    id: 159807
+    title: >-
+        How did Victorian society influence the representation of gender in art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+related_article3:
+    id: 159751
+    title: >-
+        How did modernism emerge as a significant movement in art, and what were its global influences?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-modernism-emerge-as-a-significant-movement-in-art-and-what-were-its-global-influences
+related_article4:
+    id: 159810
+    title: >-
+        How did Expressionism represent emotions differently from previous art styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-expressionism-represent-emotions-differently-from-previous-art-styles
+related_article5:
+    id: 159807
+    title: >-
+        How did Victorian society influence the representation of gender in art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163587
 date: 2025-01-27
-title: Why are certain Greek terms left untranslated in English scholarship?
-article_title: Why are certain Greek terms left untranslated in English scholarship?
+title: >-
+    Why are certain Greek terms left untranslated in English scholarship?
+article_title: >-
+    Why are certain Greek terms left untranslated in English scholarship?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-certain-greek-terms-left-untranslated-in-english-scholarship.
 url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
 score: 8.5
 related_article1:
-    id: 163604
-    title: How did the agricultural basis of the Spartan economy rely on the Helots?
+    id: 163597
+    title: >-
+        Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
+    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
 related_article2:
-    id: 163596
-    title: How did the Dorian dialect influence the Greek language?
+    id: 163608
+    title: >-
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
+    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
 related_article3:
-    id: 163586
-    title: What are some challenges in pronouncing Greek terms when using the Latin alphabet?
+    id: 163591
+    title: >-
+        How did Sparta's urban development compare to that of Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
+    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
 related_article4:
-    id: 163602
-    title: How did Spartan art and architecture influence Greek art?
+    id: 163589
+    title: >-
+        How did non-Spartan authors contribute to the skewed perception of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
+    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
 related_article5:
-    id: 163606
-    title: How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
+    id: 163588
+    title: >-
+        What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
+    url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
 ---
 
 &nbsp;

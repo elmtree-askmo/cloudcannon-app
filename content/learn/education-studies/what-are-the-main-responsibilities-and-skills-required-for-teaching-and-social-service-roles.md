@@ -2,8 +2,10 @@
 _schema: default
 id: 168511
 date: 2025-02-03
-title: What are the main responsibilities and skills required for teaching and social service roles?
-article_title: What are the main responsibilities and skills required for teaching and social service roles?
+title: >-
+    What are the main responsibilities and skills required for teaching and social service roles?
+article_title: >-
+    What are the main responsibilities and skills required for teaching and social service roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-responsibilities-and-skills-required-for-teaching-a
 url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
 score: -1.0
 related_article1:
-    id: 168494
-    title: What are the career opportunities available in the medical field?
+    id: 168499
+    title: >-
+        What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+    url: /learn/education-studies/questions/what-are-the-main-responsibilities-of-teaching-and-social-service-roles-and-what-skills-are-required-for-success-in-these-fields
 related_article2:
-    id: 168498
-    title: What interpersonal skills are crucial for success in sales roles?
+    id: 168491
+    title: >-
+        What are the primary job roles and responsibilities in the food service industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-interpersonal-skills-are-crucial-for-success-in-sales-roles
+    url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 related_article3:
-    id: 168488
-    title: How can aptitude assessments help in identifying suitable career fields?
+    id: 168513
+    title: >-
+        What are the key components of persuasive communication skills, and how can they be developed for career success?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-aptitude-assessments-help-in-identifying-suitable-career-fields
+    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-skills-and-how-can-they-be-developed-for-career-success
 related_article4:
     id: 168500
-    title: What problem-solving and reasoning skills are necessary for technology-related job roles?
+    title: >-
+        What problem-solving and reasoning skills are necessary for technology-related job roles?
     subject: Education Studies
     url: /learn/education-studies/questions/what-problemsolving-and-reasoning-skills-are-necessary-for-technologyrelated-job-roles
 related_article5:
-    id: 168513
-    title: What are the key components of persuasive communication skills, and how can they be developed for career success?
+    id: 168497
+    title: >-
+        What are the characteristics of systematic work preferences, and what career options are suitable for individuals with these preferences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-skills-and-how-can-they-be-developed-for-career-success
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-suitable-for-individuals-with-these-preferences
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170169
 date: 2025-02-06
-title: Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
-article_title: Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
+title: >-
+    Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
+article_title: >-
+    Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-du
 url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 score: 9.0
 related_article1:
-    id: 170172
-    title: How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+    id: 170182
+    title: >-
+        Describe the types and purposes of Roman inscriptions and the challenges in translating them.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
+    url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
 related_article2:
-    id: 170180
-    title: What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
+    id: 170168
+    title: >-
+        What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
+    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
 related_article3:
-    id: 170187
-    title: What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
-related_article4:
     id: 170172
-    title: How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+    title: >-
+        How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
-related_article5:
-    id: 170183
-    title: What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
+related_article4:
+    id: 170167
+    title: >-
+        Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-did-they-adapt-to-roman-tactics
+    url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
+related_article5:
+    id: 170170
+    title: >-
+        What were the tactical elements and historical significance of the Battle of Mons Graupius?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-tactical-elements-and-historical-significance-of-the-battle-of-mons-graupius
 ---
 
 &nbsp;

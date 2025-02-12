@@ -2,8 +2,10 @@
 _schema: default
 id: 163797
 date: 2025-01-27
-title: Why is understanding the domain and range of a function important?
-article_title: Why is understanding the domain and range of a function important?
+title: >-
+    Why is understanding the domain and range of a function important?
+article_title: >-
+    Why is understanding the domain and range of a function important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-understanding-the-domain-and-range-of-a-function-important.md
 url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-of-a-function-important
 score: -1.0
 related_article1:
-    id: 163795
-    title: What techniques can be used to graph functions effectively?
+    id: 163792
+    title: >-
+        What are the steps involved in graphing a square root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-graphing-a-square-root-function
 related_article2:
-    id: 163800
-    title: How can square root functions be used in real-world mathematical modeling?
+    id: 163804
+    title: >-
+        What is the graphical relationship between parabolas and half-parabolas?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-square-root-functions-be-used-in-realworld-mathematical-modeling
+    url: /learn/mathematics/questions/what-is-the-graphical-relationship-between-parabolas-and-halfparabolas
 related_article3:
-    id: 163794
-    title: What are the graphical implications of inverse operations on functions?
+    id: 163798
+    title: >-
+        What is the domain of a square root function, and how is it determined?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-graphical-implications-of-inverse-operations-on-functions
+    url: /learn/mathematics/questions/what-is-the-domain-of-a-square-root-function-and-how-is-it-determined
 related_article4:
-    id: 163802
-    title: What types of transformations can be applied to functions?
+    id: 163791
+    title: >-
+        How do you determine the domain and range of a square root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-types-of-transformations-can-be-applied-to-functions
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-square-root-function
 related_article5:
-    id: 163806
-    title: What are the general characteristics of function graphs in terms of shape and behavior?
+    id: 163799
+    title: >-
+        How do quadratic functions relate to square root functions graphically?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-characteristics-of-function-graphs-in-terms-of-shape-and-behavior
+    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
 ---
 
 &nbsp;

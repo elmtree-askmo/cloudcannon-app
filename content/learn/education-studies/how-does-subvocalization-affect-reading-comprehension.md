@@ -2,8 +2,10 @@
 _schema: default
 id: 165586
 date: 2025-01-29
-title: How does subvocalization affect reading comprehension?
-article_title: How does subvocalization affect reading comprehension?
+title: >-
+    How does subvocalization affect reading comprehension?
+article_title: >-
+    How does subvocalization affect reading comprehension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-does-subvocalization-affect-reading-
 score: -1.0
 related_article1:
     id: 165616
-    title: What are the benefits of summarizing key points in reading comprehension?
+    title: >-
+        What are the benefits of summarizing key points in reading comprehension?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-summarizing-key-points-in-reading-comprehension
 related_article2:
-    id: 165615
-    title: How can note-taking enhance reading comprehension?
+    id: 165601
+    title: >-
+        What are the differences between summarizing and taking detailed notes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-notetaking-enhance-reading-comprehension
+    url: /learn/education-studies/questions/what-are-the-differences-between-summarizing-and-taking-detailed-notes
 related_article3:
-    id: 165595
-    title: What is the difference between memory recall and recognition in the context of information retention?
+    id: 165612
+    title: >-
+        What are the key concepts to identify in text structure analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-memory-recall-and-recognition-in-the-context-of-information-retention
+    url: /learn/education-studies/questions/what-are-the-key-concepts-to-identify-in-text-structure-analysis
 related_article4:
-    id: 165606
-    title: What strategies can be used to avoid daydreaming while reading?
+    id: 165581
+    title: >-
+        How do fixations contribute to text recognition and comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-avoid-daydreaming-while-reading
+    url: /learn/education-studies/questions/how-do-fixations-contribute-to-text-recognition-and-comprehension
 related_article5:
-    id: 165589
-    title: What is chunking, and how does it help with working memory constraints?
+    id: 165579
+    title: >-
+        What are the roles of eye movements and saccades in visual processing during reading?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-chunking-and-how-does-it-help-with-working-memory-constraints
+    url: /learn/education-studies/questions/what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing-during-reading
 ---
 
 &nbsp;

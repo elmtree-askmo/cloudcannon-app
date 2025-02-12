@@ -2,8 +2,10 @@
 _schema: default
 id: 168218
 date: 2025-02-03
-title: How should electronics and personal items be managed before the exam begins?
-article_title: How should electronics and personal items be managed before the exam begins?
+title: >-
+    How should electronics and personal items be managed before the exam begins?
+article_title: >-
+    How should electronics and personal items be managed before the exam begins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-electronics-and-personal-items-be-managed-before-the-exam-
 url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
 score: -1.0
 related_article1:
-    id: 168228
-    title: How should queries be addressed during the exam?
+    id: 168233
+    title: >-
+        What criteria are used in the grading rubric for assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
+    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
 related_article2:
-    id: 168226
-    title: How should students handle writing on exam sheets?
+    id: 168232
+    title: >-
+        What roles do invigilators play in supervising an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
+    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
 related_article3:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
+    id: 168229
+    title: >-
+        What instructions should be given to students after they submit their exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
 related_article4:
-    id: 168222
-    title: What are the guidelines for distributing and collecting response sheets?
+    id: 168230
+    title: >-
+        How should seating arrangements be managed in the exam room?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
+    url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
 related_article5:
-    id: 168225
-    title: What are the expectations for student conduct during an exam?
+    id: 168229
+    title: >-
+        What instructions should be given to students after they submit their exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-expectations-for-student-conduct-during-an-exam
+    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
 ---
 
 &nbsp;

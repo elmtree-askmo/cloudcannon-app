@@ -2,8 +2,10 @@
 _schema: default
 id: 166255
 date: 2025-01-29
-title: What do genetic studies of Roman-era burials reveal about intermarriage and the establishment of an elite class in Britain?
-article_title: What do genetic studies of Roman-era burials reveal about intermarriage and the establishment of an elite class in Britain?
+title: >-
+    What do genetic studies of Roman-era burials reveal about intermarriage and the establishment of an elite class in Britain?
+article_title: >-
+    What do genetic studies of Roman-era burials reveal about intermarriage and the establishment of an elite class in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-do-genetic-studies-of-romanera-burials-reveal-about-intermarriag
 url: /learn/history-of-the-world/questions/what-do-genetic-studies-of-romanera-burials-reveal-about-intermarriage-and-the-establishment-of-an-elite-class-in-britain
 score: 9.0
 related_article1:
-    id: 166243
-    title: What were the key objectives of Julius Caesar's first and second invasions of Britain?
+    id: 166245
+    title: >-
+        What insights do 'De Bello Gallico' and the works of Suetonius and Cassius Dio provide about Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-julius-caesars-first-and-second-invasions-of-britain
+    url: /learn/history-of-the-world/questions/what-insights-do-de-bello-gallico-and-the-works-of-suetonius-and-cassius-dio-provide-about-roman-britain
 related_article2:
+    id: 166249
+    title: >-
+        What were the motivations behind Boudicca's revolt, and what impact did it have on Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-boudiccas-revolt-and-what-impact-did-it-have-on-roman-britain
+related_article3:
     id: 166244
-    title: How did the installation of the Trinovantes' king impact Roman-British relations?
+    title: >-
+        How did the installation of the Trinovantes' king impact Roman-British relations?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-installation-of-the-trinovantes-king-impact-romanbritish-relations
-related_article3:
-    id: 166243
-    title: What were the key objectives of Julius Caesar's first and second invasions of Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-julius-caesars-first-and-second-invasions-of-britain
 related_article4:
     id: 166248
-    title: What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
+    title: >-
+        What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-strategies-did-caractacus-employ-in-his-resistance-against-roman-rule-and-what-was-his-ultimate-fate
-related_article5:
-    id: 166247
-    title: How did Roman provincial governance function in Britain, and what was the role of governors?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-provincial-governance-function-in-britain-and-what-was-the-role-of-governors
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161741
 date: 2025-01-24
-title: What limitations did Mexican-American youth face in expressing their cultural identity during the Zoot Suit Riots?
-article_title: What limitations did Mexican-American youth face in expressing their cultural identity during the Zoot Suit Riots?
+title: >-
+    What limitations did Mexican-American youth face in expressing their cultural identity during the Zoot Suit Riots?
+article_title: >-
+    What limitations did Mexican-American youth face in expressing their cultural identity during the Zoot Suit Riots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,24 +25,34 @@ url: /learn/history-of-the-world/questions/what-limitations-did-mexicanamerican-
 score: 9.0
 related_article1:
     id: 161740
-    title: Why was the zoot suit considered a symbol of cultural identity and social justice for Mexican-American youth?
+    title: >-
+        Why was the zoot suit considered a symbol of cultural identity and social justice for Mexican-American youth?
     subject: History of the World
     url: /learn/history-of-the-world/questions/why-was-the-zoot-suit-considered-a-symbol-of-cultural-identity-and-social-justice-for-mexicanamerican-youth
 related_article2:
-    id: 161748
-    title: What was the significance of the Sleepy Lagoon Murder Case in the context of the Zoot Suit Riots?
+    id: 161742
+    title: >-
+        How did the LAPD's inaction contribute to the escalation of the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-sleepy-lagoon-murder-case-in-the-context-of-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/how-did-the-lapds-inaction-contribute-to-the-escalation-of-the-zoot-suit-riots
 related_article3:
-    id: 161745
-    title: What were the societal prejudices against zoot suiters that fueled historical racism during the riots?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-societal-prejudices-against-zoot-suiters-that-fueled-historical-racism-during-the-riots
-related_article4:
     id: 161739
-    title: How did World War II impact societal dynamics and contribute to the Zoot Suit Riots?
+    title: >-
+        How did World War II impact societal dynamics and contribute to the Zoot Suit Riots?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-world-war-ii-impact-societal-dynamics-and-contribute-to-the-zoot-suit-riots
+related_article4:
+    id: 161738
+    title: >-
+        In what ways did military influence civilian life during the Zoot Suit Riots?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/in-what-ways-did-military-influence-civilian-life-during-the-zoot-suit-riots
+related_article5:
+    id: 161736
+    title: >-
+        What were the main causes of daily skirmishes between sailors and zoot suiters during the Zoot Suit Riots?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-of-daily-skirmishes-between-sailors-and-zoot-suiters-during-the-zoot-suit-riots
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164176
 date: 2025-01-28
-title: How is sentiment analysis used in text processing?
-article_title: How is sentiment analysis used in text processing?
+title: >-
+    How is sentiment analysis used in text processing?
+article_title: >-
+    How is sentiment analysis used in text processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-sentiment-analysis-used-in-text-processing.md
 url: /learn/others/questions/how-is-sentiment-analysis-used-in-text-processing
 score: -1.0
 related_article1:
-    id: 164178
-    title: Describe a common use case for clustering in unsupervised learning.
+    id: 164179
+    title: >-
+        What is the role of Markov Decision Processes in reinforcement learning?
     subject: Others
-    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
+    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
 related_article2:
-    id: 164174
-    title: Differentiate between batch processing and real-time processing in data processing.
-    subject: Others
-    url: /learn/others/questions/differentiate-between-batch-processing-and-realtime-processing-in-data-processing
-related_article3:
-    id: 164180
-    title: How do search algorithms contribute to AI algorithms?
-    subject: Others
-    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
-related_article4:
-    id: 164167
-    title: Explain the significance of operating systems in software systems.
-    subject: Others
-    url: /learn/others/questions/explain-the-significance-of-operating-systems-in-software-systems
-related_article5:
     id: 164184
-    title: What are decision models used for in prescriptive analysis?
+    title: >-
+        What are decision models used for in prescriptive analysis?
     subject: Others
     url: /learn/others/questions/what-are-decision-models-used-for-in-prescriptive-analysis
+related_article3:
+    id: 164177
+    title: >-
+        What is the difference between classification and regression in supervised learning?
+    subject: Others
+    url: /learn/others/questions/what-is-the-difference-between-classification-and-regression-in-supervised-learning
+related_article4:
+    id: 164183
+    title: >-
+        How do forecasting models contribute to predictive analysis?
+    subject: Others
+    url: /learn/others/questions/how-do-forecasting-models-contribute-to-predictive-analysis
+related_article5:
+    id: 164171
+    title: >-
+        How do expert systems serve as a knowledge source?
+    subject: Others
+    url: /learn/others/questions/how-do-expert-systems-serve-as-a-knowledge-source
 ---
 
 &nbsp;

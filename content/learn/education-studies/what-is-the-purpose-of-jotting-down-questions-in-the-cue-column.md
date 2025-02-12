@@ -2,8 +2,10 @@
 _schema: default
 id: 165467
 date: 2025-01-29
-title: What is the purpose of jotting down questions in the cue column?
-article_title: What is the purpose of jotting down questions in the cue column?
+title: >-
+    What is the purpose of jotting down questions in the cue column?
+article_title: >-
+    What is the purpose of jotting down questions in the cue column?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-jotting-down-questions-in-the-cue-column.md
 url: /learn/education-studies/questions/what-is-the-purpose-of-jotting-down-questions-in-the-cue-column
 score: -1.0
 related_article1:
+    id: 165468
+    title: >-
+        How can identifying key words in the cue column aid in understanding?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-identifying-key-words-in-the-cue-column-aid-in-understanding
+related_article2:
+    id: 165473
+    title: >-
+        What is the cover and recite method in review techniques?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-cover-and-recite-method-in-review-techniques
+related_article3:
     id: 165462
-    title: What are effective paraphrasing techniques for efficient note-taking?
+    title: >-
+        What are effective paraphrasing techniques for efficient note-taking?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-effective-paraphrasing-techniques-for-efficient-notetaking
-related_article2:
-    id: 165469
-    title: What are some regular review practices that enhance long-term recall?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-regular-review-practices-that-enhance-longterm-recall
-related_article3:
-    id: 165471
-    title: Why is it important to identify the date and topic in note organization?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-identify-the-date-and-topic-in-note-organization
 related_article4:
-    id: 165463
-    title: How can symbols and abbreviations enhance note-taking efficiency?
+    id: 165461
+    title: >-
+        How does the note-taking column differ from the cue column in Cornell notes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-symbols-and-abbreviations-enhance-notetaking-efficiency
+    url: /learn/education-studies/questions/how-does-the-notetaking-column-differ-from-the-cue-column-in-cornell-notes
 related_article5:
-    id: 165463
-    title: How can symbols and abbreviations enhance note-taking efficiency?
+    id: 165468
+    title: >-
+        How can identifying key words in the cue column aid in understanding?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-symbols-and-abbreviations-enhance-notetaking-efficiency
+    url: /learn/education-studies/questions/how-can-identifying-key-words-in-the-cue-column-aid-in-understanding
 ---
 
 &nbsp;

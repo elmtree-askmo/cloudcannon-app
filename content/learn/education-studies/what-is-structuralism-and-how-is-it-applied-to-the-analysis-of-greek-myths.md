@@ -2,8 +2,10 @@
 _schema: default
 id: 167654
 date: 2025-01-31
-title: What is structuralism, and how is it applied to the analysis of Greek myths?
-article_title: What is structuralism, and how is it applied to the analysis of Greek myths?
+title: >-
+    What is structuralism, and how is it applied to the analysis of Greek myths?
+article_title: >-
+    What is structuralism, and how is it applied to the analysis of Greek myths?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-structuralism-and-how-is-it-applied-to-the-analysis-of-greek-
 url: /learn/education-studies/questions/what-is-structuralism-and-how-is-it-applied-to-the-analysis-of-greek-myths
 score: -1.0
 related_article1:
-    id: 167651
-    title: What are the main themes of Hesiod's Theogony?
+    id: 167656
+    title: >-
+        What role do myths play in ancient Greek religion and worship practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-themes-of-hesiods-theogony
+    url: /learn/education-studies/questions/what-role-do-myths-play-in-ancient-greek-religion-and-worship-practices
 related_article2:
-    id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
-related_article3:
-    id: 167658
-    title: What are the similarities and differences between Greek and Egyptian creation myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-similarities-and-differences-between-greek-and-egyptian-creation-myths
-related_article4:
     id: 167652
-    title: How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
+    title: >-
+        How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-creation-myths
-related_article5:
-    id: 167658
-    title: What are the similarities and differences between Greek and Egyptian creation myths?
+related_article3:
+    id: 167659
+    title: >-
+        What is the role of Prometheus in the creation of humans according to Greek mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-similarities-and-differences-between-greek-and-egyptian-creation-myths
+    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
+related_article4:
+    id: 167653
+    title: >-
+        Who are the key divine couples in Greek mythology, and what roles do they play?
+    subject: Education Studies
+    url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
+related_article5:
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
 ---
 
 &nbsp;

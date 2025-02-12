@@ -2,8 +2,10 @@
 _schema: default
 id: 159806
 date: 2025-01-23
-title: What were the major changes in artistic representation during the transition from traditional to modern art?
-article_title: What were the major changes in artistic representation during the transition from traditional to modern art?
+title: >-
+    What were the major changes in artistic representation during the transition from traditional to modern art?
+article_title: >-
+    What were the major changes in artistic representation during the transition from traditional to modern art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-changes-in-artistic-representation-during-the-tra
 url: /learn/education-studies/questions/what-were-the-major-changes-in-artistic-representation-during-the-transition-from-traditional-to-modern-art
 score: -1.0
 related_article1:
-    id: 159747
-    title: What impact did colonialism have on European art and its interaction with non-European cultures?
+    id: 159740
+    title: >-
+        Describe the key characteristics of Realism as an artistic movement.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-impact-did-colonialism-have-on-european-art-and-its-interaction-with-noneuropean-cultures
+    url: /learn/education-studies/questions/describe-the-key-characteristics-of-realism-as-an-artistic-movement
 related_article2:
-    id: 159753
-    title: How has technology influenced the integration of new media in art?
+    id: 159810
+    title: >-
+        How did Expressionism represent emotions differently from previous art styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-expressionism-represent-emotions-differently-from-previous-art-styles
+related_article3:
+    id: 159814
+    title: >-
+        How has technology influenced the integration of new media in art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-has-technology-influenced-the-integration-of-new-media-in-art
-related_article3:
-    id: 159809
-    title: What innovations in the use of light and color were introduced during the development of new artistic techniques?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
 related_article4:
-    id: 159804
-    title: In what ways did Post-Impressionism expand upon the ideas of Impressionism?
+    id: 159753
+    title: >-
+        How has technology influenced the integration of new media in art?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-did-postimpressionism-expand-upon-the-ideas-of-impressionism
+    url: /learn/education-studies/questions/how-has-technology-influenced-the-integration-of-new-media-in-art
 related_article5:
-    id: 160019
-    title: What are the defining features of Post-Impressionism, and how did it build on Impressionism?
+    id: 159800
+    title: >-
+        How did technological advancements during the Industrial Revolution influence modern art?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-postimpressionism-and-how-did-it-build-on-impressionism
+    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
 ---
 
 &nbsp;

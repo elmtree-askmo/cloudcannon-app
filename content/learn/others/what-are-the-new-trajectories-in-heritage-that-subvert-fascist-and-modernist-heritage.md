@@ -2,8 +2,10 @@
 _schema: default
 id: 169137
 date: 2025-02-04
-title: What are the new trajectories in heritage that subvert fascist and modernist heritage?
-article_title: What are the new trajectories in heritage that subvert fascist and modernist heritage?
+title: >-
+    What are the new trajectories in heritage that subvert fascist and modernist heritage?
+article_title: >-
+    What are the new trajectories in heritage that subvert fascist and modernist heritage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-new-trajectories-in-heritage-that-subvert-fascist-and-mo
 url: /learn/others/questions/what-are-the-new-trajectories-in-heritage-that-subvert-fascist-and-modernist-heritage
 score: -1.0
 related_article1:
-    id: 169133
-    title: What is the function of prosthesis in architecture, and how does it relate to historical narratives?
+    id: 169128
+    title: >-
+        What role did racial segregation play in the architectural and urban transformation of colonial geographies?
     subject: Others
-    url: /learn/others/questions/what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-relate-to-historical-narratives
+    url: /learn/others/questions/what-role-did-racial-segregation-play-in-the-architectural-and-urban-transformation-of-colonial-geographies
 related_article2:
+    id: 169126
+    title: >-
+        What were the key architectural features of Modernist Fascist-Colonial Architecture in Asmara?
+    subject: Others
+    url: /learn/others/questions/what-were-the-key-architectural-features-of-modernist-fascistcolonial-architecture-in-asmara
+related_article3:
+    id: 169131
+    title: >-
+        What are the challenges associated with the Eurocentric paradigm in preservation theory?
+    subject: Others
+    url: /learn/others/questions/what-are-the-challenges-associated-with-the-eurocentric-paradigm-in-preservation-theory
+related_article4:
     id: 169129
-    title: How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
+    title: >-
+        How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
     subject: Others
     url: /learn/others/questions/how-did-italian-colonialism-and-military-defeats-influence-the-process-of-defascistization-and-decolonization
-related_article3:
-    id: 169132
-    title: How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
+related_article5:
+    id: 169135
+    title: >-
+        What does architectural demodernization entail in the context of decolonizing preservation?
     subject: Others
-    url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
-related_article4:
-    id: 169133
-    title: What is the function of prosthesis in architecture, and how does it relate to historical narratives?
-    subject: Others
-    url: /learn/others/questions/what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-relate-to-historical-narratives
+    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
 ---
 
 &nbsp;

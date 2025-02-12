@@ -2,8 +2,10 @@
 _schema: default
 id: 166046
 date: 2025-01-29
-title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
-article_title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
+title: >-
+    How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
+article_title: >-
+    How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-galli
 url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
 score: -1.0
 related_article1:
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
+    subject: Others
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
+related_article2:
+    id: 166056
+    title: >-
+        What were Pliny the Elder's observations about the Celts?
+    subject: Others
+    url: /learn/others/questions/what-were-pliny-the-elders-observations-about-the-celts
+related_article3:
     id: 166051
-    title: What were the sacrificial rites associated with Gallic deities?
+    title: >-
+        What were the sacrificial rites associated with Gallic deities?
     subject: Others
     url: /learn/others/questions/what-were-the-sacrificial-rites-associated-with-gallic-deities
-related_article2:
-    id: 166053
-    title: What were the main interactions between Celtic tribes and Romans?
-    subject: Others
-    url: /learn/others/questions/what-were-the-main-interactions-between-celtic-tribes-and-romans
-related_article3:
-    id: 166042
-    title: What was the significance of the First Triumvirate in Julius Caesar's political alliances?
-    subject: Others
-    url: /learn/others/questions/what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-political-alliances
 related_article4:
-    id: 166049
-    title: Why were Druids exempt from war, and what was the significance of their oral tradition?
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
     subject: Others
-    url: /learn/others/questions/why-were-druids-exempt-from-war-and-what-was-the-significance-of-their-oral-tradition
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 related_article5:
-    id: 166052
-    title: How did the social hierarchy of Celtic tribes function?
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
     subject: Others
-    url: /learn/others/questions/how-did-the-social-hierarchy-of-celtic-tribes-function
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164253
 date: 2025-01-28
-title: Describe the role of the auditory cortex in sound localization.
-article_title: Describe the role of the auditory cortex in sound localization.
+title: >-
+    Describe the role of the auditory cortex in sound localization.
+article_title: >-
+    Describe the role of the auditory cortex in sound localization.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-the-auditory-cortex-in-sound-localization.md
 url: /learn/psychology/questions/describe-the-role-of-the-auditory-cortex-in-sound-localization
 score: -1.0
 related_article1:
-    id: 164254
-    title: What are single cell recordings and how are they used to map sensory inputs?
+    id: 164256
+    title: >-
+        Define sound frequencies and explain their characteristics such as harmonics and overtones.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
+    url: /learn/psychology/questions/define-sound-frequencies-and-explain-their-characteristics-such-as-harmonics-and-overtones
 related_article2:
-    id: 164247
-    title: How does the portable magnification factor emphasize central vision in the retinotropic map?
+    id: 164252
+    title: >-
+        What is a tonotopic map and how is it organized in the auditory cortex?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
+    url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
 related_article3:
-    id: 164255
-    title: How do single cell recordings contribute to understanding neural responses?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
-related_article4:
     id: 164248
-    title: What are the primary functions of the visual cortex in visual perception?
+    title: >-
+        What are the primary functions of the visual cortex in visual perception?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
-related_article5:
-    id: 164255
-    title: How do single cell recordings contribute to understanding neural responses?
+related_article4:
+    id: 164247
+    title: >-
+        How does the portable magnification factor emphasize central vision in the retinotropic map?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-single-cell-recordings-contribute-to-understanding-neural-responses
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
+related_article5:
+    id: 164250
+    title: >-
+        Explain the concept of the portable magnification factor and its importance in visual acuity.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
 ---
 
 &nbsp;

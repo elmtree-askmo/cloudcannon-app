@@ -2,8 +2,10 @@
 _schema: default
 id: 167942
 date: 2025-02-02
-title: What is the difference between power absorbed and power delivered in resistors?
-article_title: What is the difference between power absorbed and power delivered in resistors?
+title: >-
+    What is the difference between power absorbed and power delivered in resistors?
+article_title: >-
+    What is the difference between power absorbed and power delivered in resistors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-power-absorbed-and-power-delivered-in-
 url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
 score: -1.0
 related_article1:
-    id: 167938
-    title: What is Ohm's Law and how is it used to calculate current in a circuit?
+    id: 167941
+    title: >-
+        Describe Kirchhoff's Voltage Law and its application in circuit analysis.
     subject: Engineering
-    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
 related_article2:
-    id: 167933
-    title: What is the effect of adding resistors in series on the total resistance of the circuit?
+    id: 167945
+    title: >-
+        What is electrical potential and why is it important in circuits?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
+    url: /learn/engineering/questions/what-is-electrical-potential-and-why-is-it-important-in-circuits
 related_article3:
-    id: 167936
-    title: Explain the concept of conventional current and its direction in a circuit.
-    subject: Engineering
-    url: /learn/engineering/questions/explain-the-concept-of-conventional-current-and-its-direction-in-a-circuit
-related_article4:
-    id: 167937
-    title: How is voltage distributed across resistors in a series circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
-related_article5:
     id: 167944
-    title: Explain the concept of energy conservation in electrical circuits.
+    title: >-
+        Explain the concept of energy conservation in electrical circuits.
     subject: Engineering
     url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
+related_article4:
+    id: 167947
+    title: >-
+        What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
+related_article5:
+    id: 167935
+    title: >-
+        What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
 ---
 
 &nbsp;

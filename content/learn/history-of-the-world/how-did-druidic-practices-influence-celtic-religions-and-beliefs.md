@@ -2,8 +2,10 @@
 _schema: default
 id: 159727
 date: 2025-01-23
-title: How did Druidic practices influence Celtic religions and beliefs?
-article_title: How did Druidic practices influence Celtic religions and beliefs?
+title: >-
+    How did Druidic practices influence Celtic religions and beliefs?
+article_title: >-
+    How did Druidic practices influence Celtic religions and beliefs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-druidic-practices-influence-celtic-religions-and-beliefs.md
 url: /learn/history-of-the-world/questions/how-did-druidic-practices-influence-celtic-religions-and-beliefs
 score: 9.0
 related_article1:
-    id: 159693
-    title: How did trade with Mediterranean civilizations impact the Celtic economy?
+    id: 159734
+    title: >-
+        What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-trade-with-mediterranean-civilizations-impact-the-celtic-economy
+    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-a-militaristic-and-stratified-society
 related_article2:
-    id: 159733
-    title: How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
+    id: 159686
+    title: >-
+        What role did the comparative method in linguistics play in understanding the evolution of Celtic languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-origins-in-hallstatt-contribute-to-the-celtic-migration-and-influence-in-europe
+    url: /learn/history-of-the-world/questions/what-role-did-the-comparative-method-in-linguistics-play-in-understanding-the-evolution-of-celtic-languages
 related_article3:
-    id: 159694
-    title: What are the defining features of La Tène art and how did it influence Celtic art?
+    id: 159736
+    title: >-
+        What are the defining features of La Tène art and how did it influence Celtic art?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-defining-features-of-la-tne-art-and-how-did-it-influence-celtic-art
 related_article4:
     id: 159733
-    title: How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
+    title: >-
+        How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-origins-in-hallstatt-contribute-to-the-celtic-migration-and-influence-in-europe
 related_article5:
-    id: 159692
-    title: What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
+    id: 159687
+    title: >-
+        How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-their-militaristic-and-stratified-society
+    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
 ---
 
 &nbsp;

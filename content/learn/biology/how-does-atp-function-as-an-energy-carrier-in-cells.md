@@ -2,8 +2,10 @@
 _schema: default
 id: 169950
 date: 2025-02-05
-title: How does ATP function as an energy carrier in cells?
-article_title: How does ATP function as an energy carrier in cells?
+title: >-
+    How does ATP function as an energy carrier in cells?
+article_title: >-
+    How does ATP function as an energy carrier in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-atp-function-as-an-energy-carrier-in-cells.md
 url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
 score: -1.0
 related_article1:
-    id: 169953
-    title: What is the primary structure of a protein?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
-related_article2:
-    id: 169951
-    title: What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
-related_article3:
-    id: 169941
-    title: What role do electrolytes play in chemical reactions?
-    subject: Biology
-    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
-related_article4:
     id: 169944
-    title: What is the primary function of carbohydrates in living organisms?
+    title: >-
+        What is the primary function of carbohydrates in living organisms?
     subject: Biology
     url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
-related_article5:
-    id: 169938
-    title: How does electron configuration influence chemical bonding?
+related_article2:
+    id: 169962
+    title: >-
+        How does active transport differ from passive transport in terms of energy usage?
     subject: Biology
-    url: /learn/biology/questions/how-does-electron-configuration-influence-chemical-bonding
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+related_article3:
+    id: 169956
+    title: >-
+        What are the key principles of cell theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+related_article4:
+    id: 169942
+    title: >-
+        What are the building blocks of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+related_article5:
+    id: 169939
+    title: >-
+        What is the difference between covalent and ionic bonds?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
 ---
 
 &nbsp;

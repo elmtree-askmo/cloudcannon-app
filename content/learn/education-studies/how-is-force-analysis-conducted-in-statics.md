@@ -2,8 +2,10 @@
 _schema: default
 id: 166705
 date: 2025-01-31
-title: How is force analysis conducted in statics?
-article_title: How is force analysis conducted in statics?
+title: >-
+    How is force analysis conducted in statics?
+article_title: >-
+    How is force analysis conducted in statics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-force-analysis-conducted-in-statics.md
 url: /learn/education-studies/questions/how-is-force-analysis-conducted-in-statics
 score: -1.0
 related_article1:
+    id: 166700
+    title: >-
+        What is the relationship between force and distance in the context of moment of force?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+related_article2:
+    id: 166699
+    title: >-
+        Define the moment of force and explain how it is calculated.
+    subject: Education Studies
+    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
+related_article3:
+    id: 166720
+    title: >-
+        What types of events do engineering organizations typically host?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
+related_article4:
+    id: 166702
+    title: >-
+        How does torque relate to the moment of force?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
+related_article5:
     id: 166693
-    title: How does the right-hand rule help determine the direction of a vector cross product?
+    title: >-
+        How does the right-hand rule help determine the direction of a vector cross product?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
-related_article2:
-    id: 166706
-    title: Describe the principle of conservation of energy and its significance in engineering systems.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
-related_article3:
-    id: 166721
-    title: How do engineering conferences and workshops contribute to professional growth?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
-related_article4:
-    id: 166716
-    title: What are some current trends in artificial intelligence research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-current-trends-in-artificial-intelligence-research
-related_article5:
-    id: 166715
-    title: What skills and qualifications are typically required for consulting roles in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
 ---
 
 &nbsp;

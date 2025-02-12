@@ -2,8 +2,10 @@
 _schema: default
 id: 163654
 date: 2025-01-27
-title: How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
-article_title: How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
+title: >-
+    How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
+article_title: >-
+    How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-archaeological-finds-like-the-gundestrup-cauldron-influence-mo
 url: /learn/history-of-the-world/questions/how-do-archaeological-finds-like-the-gundestrup-cauldron-influence-modern-interpretations-of-celtic-art
 score: 9.5
 related_article1:
-    id: 163644
-    title: How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
-related_article2:
     id: 163657
-    title: How did the social structure of ancient Celtic society differ from that of the Romans?
+    title: >-
+        How did the social structure of ancient Celtic society differ from that of the Romans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-social-structure-of-ancient-celtic-society-differ-from-that-of-the-romans
-related_article3:
+related_article2:
     id: 163644
-    title: How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
+    title: >-
+        How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
+related_article3:
+    id: 163652
+    title: >-
+        How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
 related_article4:
     id: 163649
-    title: What were the main characteristics of the tribal structure among the Gaulish tribes?
+    title: >-
+        What were the main characteristics of the tribal structure among the Gaulish tribes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-tribal-structure-among-the-gaulish-tribes
 related_article5:
-    id: 163649
-    title: What were the main characteristics of the tribal structure among the Gaulish tribes?
+    id: 163656
+    title: >-
+        What challenges do modern scholars face in reconstructing the Gaulish language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-tribal-structure-among-the-gaulish-tribes
+    url: /learn/history-of-the-world/questions/what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish-language
 ---
 
 &nbsp;

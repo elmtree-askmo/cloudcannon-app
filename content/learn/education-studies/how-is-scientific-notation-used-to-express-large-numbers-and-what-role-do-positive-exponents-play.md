@@ -2,8 +2,10 @@
 _schema: default
 id: 165420
 date: 2025-01-29
-title: How is scientific notation used to express large numbers, and what role do positive exponents play?
-article_title: How is scientific notation used to express large numbers, and what role do positive exponents play?
+title: >-
+    How is scientific notation used to express large numbers, and what role do positive exponents play?
+article_title: >-
+    How is scientific notation used to express large numbers, and what role do positive exponents play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-scientific-notation-used-to-express-large-numbers-and-what-rol
 url: /learn/education-studies/questions/how-is-scientific-notation-used-to-express-large-numbers-and-what-role-do-positive-exponents-play
 score: -1.0
 related_article1:
-    id: 165432
-    title: How are negative exponents used in expressing small numbers in scientific notation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
-related_article2:
-    id: 165417
-    title: How do the prefixes kilo, centi, milli, and micro modify the base units in the metric system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-the-prefixes-kilo-centi-milli-and-micro-modify-the-base-units-in-the-metric-system
-related_article3:
-    id: 165423
-    title: Why is it important to zero a scale before weighing, and how does it affect accuracy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
-related_article4:
-    id: 165422
-    title: What are the boiling and freezing points of water on the Celsius scale?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-boiling-and-freezing-points-of-water-on-the-celsius-scale
-related_article5:
     id: 165430
-    title: What are the common units for mass, length, and volume, and how can they be converted within the metric system?
+    title: >-
+        What are the common units for mass, length, and volume, and how can they be converted within the metric system?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-common-units-for-mass-length-and-volume-and-how-can-they-be-converted-within-the-metric-system
+related_article2:
+    id: 165430
+    title: >-
+        What are the common units for mass, length, and volume, and how can they be converted within the metric system?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-common-units-for-mass-length-and-volume-and-how-can-they-be-converted-within-the-metric-system
+related_article3:
+    id: 165418
+    title: >-
+        What is the basic formula for converting units, and how is the conversion factor used?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-basic-formula-for-converting-units-and-how-is-the-conversion-factor-used
+related_article4:
+    id: 165423
+    title: >-
+        Why is it important to zero a scale before weighing, and how does it affect accuracy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
+related_article5:
+    id: 165423
+    title: >-
+        Why is it important to zero a scale before weighing, and how does it affect accuracy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163342
 date: 2025-01-26
-title: What is the risk difference, and how is it calculated using a 2x2 table?
-article_title: What is the risk difference, and how is it calculated using a 2x2 table?
+title: >-
+    What is the risk difference, and how is it calculated using a 2x2 table?
+article_title: >-
+    What is the risk difference, and how is it calculated using a 2x2 table?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-tabl
 url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
 score: -1.0
 related_article1:
-    id: 163335
-    title: How do prevalence and incidence differ in terms of existing and new cases?
+    id: 163076
+    title: >-
+        What is the purpose of a 2x2 table in epidemiologic data analysis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-a-2x2-table-in-epidemiologic-data-analysis
+related_article2:
+    id: 163074
+    title: >-
+        What is the significance of years of potential life lost (YPLL) in public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
+related_article3:
+    id: 163071
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
-related_article2:
-    id: 163328
-    title: What is the significance of measuring disease frequency over a specific time interval?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-specific-time-interval
-related_article3:
-    id: 163332
-    title: How is prevalence calculated, and what does it indicate about a population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
 related_article4:
-    id: 163332
-    title: How is prevalence calculated, and what does it indicate about a population?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
-related_article5:
-    id: 163286
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163244
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+related_article5:
+    id: 163079
+    title: >-
+        How do cause-specific and age-specific rates contribute to risk assessment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-contribute-to-risk-assessment
 ---
 
 &nbsp;

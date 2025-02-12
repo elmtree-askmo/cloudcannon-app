@@ -2,8 +2,10 @@
 _schema: default
 id: 160112
 date: 2025-01-23
-title: How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
-article_title: How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
+title: >-
+    How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
+article_title: >-
+    How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-early-photography-change-perceptions-and-representations-in-a
 url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
 score: 9.5
 related_article1:
-    id: 159835
-    title: What were the origins of Cubism, and how did it impact modern art?
+    id: 160114
+    title: >-
+        How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
+    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 related_article2:
-    id: 159851
-    title: In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
+    id: 159836
+    title: >-
+        How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
 related_article3:
-    id: 159845
-    title: What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-and-artists-of-the-victorian-radicals-and-how-did-they-respond-to-the-social-and-political-context-of-their-time
-related_article4:
-    id: 159845
-    title: What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-and-artists-of-the-victorian-radicals-and-how-did-they-respond-to-the-social-and-political-context-of-their-time
-related_article5:
     id: 159847
-    title: What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
+    title: >-
+        What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-imperialism-and-how-did-artists-critique-and-reinterpret-the-representation-of-colonized-peoples
+related_article4:
+    id: 159849
+    title: >-
+        What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
+related_article5:
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 ---
 
 &nbsp;

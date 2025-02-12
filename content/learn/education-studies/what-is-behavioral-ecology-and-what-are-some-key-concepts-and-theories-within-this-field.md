@@ -2,8 +2,10 @@
 _schema: default
 id: 165185
 date: 2025-01-28
-title: What is behavioral ecology, and what are some key concepts and theories within this field?
-article_title: What is behavioral ecology, and what are some key concepts and theories within this field?
+title: >-
+    What is behavioral ecology, and what are some key concepts and theories within this field?
+article_title: >-
+    What is behavioral ecology, and what are some key concepts and theories within this field?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-behavioral-ecology-and-what-are-some-key-concepts-and-theorie
 url: /learn/education-studies/questions/what-is-behavioral-ecology-and-what-are-some-key-concepts-and-theories-within-this-field
 score: -1.0
 related_article1:
-    id: 165174
-    title: How can independent and dependent variables be identified and differentiated in an experiment?
+    id: 165170
+    title: >-
+        How can the implications and limitations of a scientific article be effectively analyzed?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-and-dependent-variables-be-identified-and-differentiated-in-an-experiment
+    url: /learn/education-studies/questions/how-can-the-implications-and-limitations-of-a-scientific-article-be-effectively-analyzed
 related_article2:
-    id: 165183
-    title: How is statistical significance determined, and why is it important for research conclusions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-significance-determined-and-why-is-it-important-for-research-conclusions
-related_article3:
-    id: 165172
-    title: How do true experiments differ from quasi-experiments in terms of design and control?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
-related_article4:
     id: 165181
-    title: What is Fitts' Law, and how does it apply to human-computer interaction design?
+    title: >-
+        What is Fitts' Law, and how does it apply to human-computer interaction design?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-fitts-law-and-how-does-it-apply-to-humancomputer-interaction-design
-related_article5:
-    id: 165171
-    title: What is the primary purpose of an abstract in a research paper, and what are its key elements?
+related_article3:
+    id: 165187
+    title: >-
+        What are some ethical considerations in research, and how do they impact research integrity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-an-abstract-in-a-research-paper-and-what-are-its-key-elements
+    url: /learn/education-studies/questions/what-are-some-ethical-considerations-in-research-and-how-do-they-impact-research-integrity
+related_article4:
+    id: 165176
+    title: >-
+        What criteria must be met to establish causation in research, and how can alternative explanations be ruled out?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-criteria-must-be-met-to-establish-causation-in-research-and-how-can-alternative-explanations-be-ruled-out
+related_article5:
+    id: 165175
+    title: >-
+        What is the role of measurement scales in research, and how do nominal and ordinal scales differ from interval and ratio scales?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-measurement-scales-in-research-and-how-do-nominal-and-ordinal-scales-differ-from-interval-and-ratio-scales
 ---
 
 &nbsp;

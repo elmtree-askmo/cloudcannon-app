@@ -2,8 +2,10 @@
 _schema: default
 id: 162941
 date: 2025-01-26
-title: What challenges do asymmetrical threat environments pose to urban development patterns?
-article_title: What challenges do asymmetrical threat environments pose to urban development patterns?
+title: >-
+    What challenges do asymmetrical threat environments pose to urban development patterns?
+article_title: >-
+    What challenges do asymmetrical threat environments pose to urban development patterns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-asymmetrical-threat-environments-pose-to-urban-dev
 url: /learn/sociology/questions/what-challenges-do-asymmetrical-threat-environments-pose-to-urban-development-patterns
 score: -1.0
 related_article1:
-    id: 162944
-    title: How does spatial intelligence contribute to volumetric warfare in urban environments?
+    id: 162951
+    title: >-
+        What is the role of the securocratic state in managing urban security?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-spatial-intelligence-contribute-to-volumetric-warfare-in-urban-environments
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 related_article2:
-    id: 162948
-    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    id: 162947
+    title: >-
+        Describe the purpose of training villages in simulated urban environments.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
 related_article3:
-    id: 162948
-    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    id: 162940
+    title: >-
+        How do city-states and shanty-states function as loci of geopolitical control?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
 related_article4:
-    id: 162939
-    title: Describe the concept of morphometric targeting and its relevance to urban morphologies.
+    id: 162942
+    title: >-
+        Discuss the importance of urban combat training in preparing for urban warfare.
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-concept-of-morphometric-targeting-and-its-relevance-to-urban-morphologies
+    url: /learn/sociology/questions/discuss-the-importance-of-urban-combat-training-in-preparing-for-urban-warfare
 related_article5:
-    id: 162938
-    title: What are the implications of informal urbanization on the security of megacities?
+    id: 162946
+    title: >-
+        What are urban canyons, and how do they affect military operations in urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
+    url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
 ---
 
 &nbsp;

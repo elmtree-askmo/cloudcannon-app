@@ -2,8 +2,10 @@
 _schema: default
 id: 165921
 date: 2025-01-29
-title: How did the Great Exhibition impact technological advancements in society?
-article_title: How did the Great Exhibition impact technological advancements in society?
+title: >-
+    How did the Great Exhibition impact technological advancements in society?
+article_title: >-
+    How did the Great Exhibition impact technological advancements in society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-great-exhibition-impact-technological-advancements-in-soc
 url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 score: 9.0
 related_article1:
-    id: 165925
-    title: How did the Great Exhibition serve as a display of imperial power and colonial narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
-related_article2:
     id: 165938
-    title: How has the Fons Americanus been interpreted and critiqued by the public and critics?
+    title: >-
+        How has the Fons Americanus been interpreted and critiqued by the public and critics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
-related_article3:
-    id: 165925
-    title: How did the Great Exhibition serve as a display of imperial power and colonial narratives?
+related_article2:
+    id: 165926
+    title: >-
+        What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
+    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
+related_article3:
+    id: 165935
+    title: >-
+        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 related_article4:
     id: 165932
-    title: What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
+    title: >-
+        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
 related_article5:
-    id: 165931
-    title: What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
+    id: 165934
+    title: >-
+        What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
 ---
 
 &nbsp;

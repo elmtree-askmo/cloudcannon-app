@@ -2,8 +2,10 @@
 _schema: default
 id: 163692
 date: 2025-01-27
-title: How does objective knowledge contribute to quantitative research?
-article_title: How does objective knowledge contribute to quantitative research?
+title: >-
+    How does objective knowledge contribute to quantitative research?
+article_title: >-
+    How does objective knowledge contribute to quantitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-objective-knowledge-contribute-to-quantitative-research.md
 url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 score: -1.0
 related_article1:
-    id: 163694
-    title: What is naturalism, and why is it important in qualitative research?
+    id: 163695
+    title: >-
+        How does social constructivism influence qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/how-does-social-constructivism-influence-qualitative-research
 related_article2:
-    id: 163688
-    title: What ethical considerations must be taken into account in research?
+    id: 163689
+    title: >-
+        What is the process of inductive reasoning, and how is it applied in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
+    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
 related_article3:
+    id: 163687
+    title: >-
+        What is the importance of formulating research questions from a research problem?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
+related_article4:
     id: 163691
-    title: How does subjective knowledge contribute to qualitative research?
+    title: >-
+        How does subjective knowledge contribute to qualitative research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
-related_article4:
-    id: 163673
-    title: What is ontology, and why is it important in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
 related_article5:
-    id: 163684
-    title: What are some common quantitative data collection methods?
+    id: 163683
+    title: >-
+        What are some common qualitative data collection methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
+    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
 ---
 
 &nbsp;

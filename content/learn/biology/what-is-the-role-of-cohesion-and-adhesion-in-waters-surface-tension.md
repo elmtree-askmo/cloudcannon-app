@@ -2,8 +2,10 @@
 _schema: default
 id: 167574
 date: 2025-01-31
-title: What is the role of cohesion and adhesion in water's surface tension?
-article_title: What is the role of cohesion and adhesion in water's surface tension?
+title: >-
+    What is the role of cohesion and adhesion in water's surface tension?
+article_title: >-
+    What is the role of cohesion and adhesion in water's surface tension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension.m
 url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
 score: -1.0
 related_article1:
-    id: 167581
-    title: What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    id: 167576
+    title: >-
+        How does the pH scale measure the acidity or basicity of a solution?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
+    url: /learn/biology/questions/how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution
 related_article2:
-    id: 167571
-    title: What is the significance of polar covalent bonds in the chemical structure of water?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
-related_article3:
-    id: 167577
-    title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
-    subject: Biology
-    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
-related_article4:
     id: 167572
-    title: How do hydrogen bonds contribute to the unique properties of water?
+    title: >-
+        How do hydrogen bonds contribute to the unique properties of water?
     subject: Biology
     url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
-related_article5:
+related_article3:
     id: 167575
-    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    title: >-
+        Differentiate between hydrophilic and hydrophobic substances with examples.
     subject: Biology
     url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
+related_article4:
+    id: 167571
+    title: >-
+        What is the significance of polar covalent bonds in the chemical structure of water?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
+related_article5:
+    id: 167581
+    title: >-
+        What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
 ---
 
 &nbsp;

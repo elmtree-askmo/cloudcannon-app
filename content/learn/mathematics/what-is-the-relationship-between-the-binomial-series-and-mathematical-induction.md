@@ -2,8 +2,10 @@
 _schema: default
 id: 170752
 date: 2025-02-06
-title: What is the relationship between the binomial series and mathematical induction?
-article_title: What is the relationship between the binomial series and mathematical induction?
+title: >-
+    What is the relationship between the binomial series and mathematical induction?
+article_title: >-
+    What is the relationship between the binomial series and mathematical induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-the-binomial-series-and-mathematical
 url: /learn/mathematics/questions/what-is-the-relationship-between-the-binomial-series-and-mathematical-induction
 score: -1.0
 related_article1:
-    id: 170744
-    title: What role do properties of real numbers play in series and sequences?
+    id: 170754
+    title: >-
+        How can inductive proofs be applied to the natural logarithm of factorial?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-do-properties-of-real-numbers-play-in-series-and-sequences
+    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
 related_article2:
+    id: 170741
+    title: >-
+        How do parameterized statements relate to the inductive hypothesis?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-parameterized-statements-relate-to-the-inductive-hypothesis
+related_article3:
+    id: 170742
+    title: >-
+        What are the key steps involved in an induction proof?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-steps-involved-in-an-induction-proof
+related_article4:
+    id: 170751
+    title: >-
+        How can the binomial series be applied in mathematical proofs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-the-binomial-series-be-applied-in-mathematical-proofs
+related_article5:
     id: 170737
-    title: What is the purpose of mathematical induction in proof techniques?
+    title: >-
+        What is the purpose of mathematical induction in proof techniques?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-purpose-of-mathematical-induction-in-proof-techniques
-related_article3:
-    id: 170753
-    title: What are the properties of the natural logarithm of a factorial?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-the-natural-logarithm-of-a-factorial
-related_article4:
-    id: 170739
-    title: Why is the base case important in mathematical induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-base-case-important-in-mathematical-induction
-related_article5:
-    id: 170745
-    title: How are truth tables used to evaluate logical implications?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 ---
 
 &nbsp;

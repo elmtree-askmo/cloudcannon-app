@@ -2,8 +2,10 @@
 _schema: default
 id: 163240
 date: 2025-01-26
-title: How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
-article_title: How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
+title: >-
+    How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
+article_title: >-
+    How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-is-its
 url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-is-its-purpose
 score: -1.0
 related_article1:
-    id: 163069
-    title: What are the critical assumptions when calculating cumulative incidence?
+    id: 163326
+    title: >-
+        How is the numerator used in measures of disease frequency determined?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
+    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 related_article2:
-    id: 163237
-    title: What are the limitations of using person-years of observation in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
-related_article3:
-    id: 163226
-    title: Why is the denominator important in measures of disease frequency, and how can it vary?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary
-related_article4:
-    id: 163230
-    title: What is a rate in epidemiology, and how can it be misunderstood?
+    id: 163067
+    title: >-
+        What is a rate in epidemiology, and how can it be misunderstood?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
-related_article5:
-    id: 163076
-    title: What is the purpose of a 2x2 table in epidemiologic data analysis?
+related_article3:
+    id: 163237
+    title: >-
+        What are the limitations of using person-years of observation in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-a-2x2-table-in-epidemiologic-data-analysis
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
+related_article4:
+    id: 163233
+    title: >-
+        Explain the concept of person-time in the context of incidence rate calculation.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+related_article5:
+    id: 163329
+    title: >-
+        How is a ratio different from a proportion in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 ---
 
 &nbsp;

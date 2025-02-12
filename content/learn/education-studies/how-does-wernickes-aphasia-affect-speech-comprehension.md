@@ -2,8 +2,10 @@
 _schema: default
 id: 164512
 date: 2025-01-28
-title: How does Wernicke's aphasia affect speech comprehension?
-article_title: How does Wernicke's aphasia affect speech comprehension?
+title: >-
+    How does Wernicke's aphasia affect speech comprehension?
+article_title: >-
+    How does Wernicke's aphasia affect speech comprehension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-wernickes-aphasia-affect-speech-comprehension.md
 url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
 score: -1.0
 related_article1:
-    id: 164517
-    title: How do different brain imaging techniques compare in their application to cognitive neuroscience?
+    id: 164513
+    title: >-
+        What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
+    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
 related_article2:
-    id: 164519
-    title: How do visual and auditory processing issues relate to cognitive processing in dyslexia?
+    id: 164518
+    title: >-
+        What are the defining characteristics of dyslexia, and how prevalent is it?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 related_article3:
     id: 164509
-    title: What are the basic principles of EEG signal recording?
+    title: >-
+        What are the basic principles of EEG signal recording?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-basic-principles-of-eeg-signal-recording
 related_article4:
     id: 164511
-    title: What are the main characteristics and symptoms of Broca's aphasia?
+    title: >-
+        What are the main characteristics and symptoms of Broca's aphasia?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-characteristics-and-symptoms-of-brocas-aphasia
 related_article5:
-    id: 164521
-    title: What processes are involved in language comprehension, and how can aphasia impact these processes?
+    id: 164511
+    title: >-
+        What are the main characteristics and symptoms of Broca's aphasia?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-processes-are-involved-in-language-comprehension-and-how-can-aphasia-impact-these-processes
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-and-symptoms-of-brocas-aphasia
 ---
 
 &nbsp;

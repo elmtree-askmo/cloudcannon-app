@@ -2,8 +2,10 @@
 _schema: default
 id: 168195
 date: 2025-02-03
-title: What are the key sources of data used in data collection?
-article_title: What are the key sources of data used in data collection?
+title: >-
+    What are the key sources of data used in data collection?
+article_title: >-
+    What are the key sources of data used in data collection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-sources-of-data-used-in-data-collection.md
 url: /learn/others/questions/what-are-the-key-sources-of-data-used-in-data-collection
 score: -1.0
 related_article1:
-    id: 168210
-    title: What are the ethical considerations related to bias and fairness in AI?
+    id: 168202
+    title: >-
+        List three common evaluation metrics used in supervised learning.
     subject: Others
-    url: /learn/others/questions/what-are-the-ethical-considerations-related-to-bias-and-fairness-in-ai
+    url: /learn/others/questions/list-three-common-evaluation-metrics-used-in-supervised-learning
 related_article2:
-    id: 168206
-    title: Explain the difference between stemming and lemmatization.
+    id: 168199
+    title: >-
+        What are the benefits and challenges of data augmentation?
     subject: Others
-    url: /learn/others/questions/explain-the-difference-between-stemming-and-lemmatization
+    url: /learn/others/questions/what-are-the-benefits-and-challenges-of-data-augmentation
 related_article3:
-    id: 168207
-    title: What are transformer models, and how do they differ from traditional neural network models?
+    id: 168209
+    title: >-
+        How do search algorithms contribute to AI problem-solving?
     subject: Others
-    url: /learn/others/questions/what-are-transformer-models-and-how-do-they-differ-from-traditional-neural-network-models
+    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-problemsolving
 related_article4:
     id: 168200
-    title: Name two popular tools or libraries used for data augmentation.
+    title: >-
+        Name two popular tools or libraries used for data augmentation.
     subject: Others
     url: /learn/others/questions/name-two-popular-tools-or-libraries-used-for-data-augmentation
 related_article5:
     id: 168201
-    title: What is the difference between supervised and unsupervised learning?
+    title: >-
+        What is the difference between supervised and unsupervised learning?
     subject: Others
     url: /learn/others/questions/what-is-the-difference-between-supervised-and-unsupervised-learning
 ---

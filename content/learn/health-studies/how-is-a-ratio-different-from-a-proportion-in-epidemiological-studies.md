@@ -2,8 +2,10 @@
 _schema: default
 id: 163329
 date: 2025-01-26
-title: How is a ratio different from a proportion in epidemiological studies?
-article_title: How is a ratio different from a proportion in epidemiological studies?
+title: >-
+    How is a ratio different from a proportion in epidemiological studies?
+article_title: >-
+    How is a ratio different from a proportion in epidemiological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 score: -1.0
 related_article1:
-    id: 163237
-    title: What are the limitations of using person-years of observation in epidemiological studies?
+    id: 163336
+    title: >-
+        What is the relationship between prevalence, incidence rate, and disease duration?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
 related_article2:
-    id: 163231
-    title: How is prevalence calculated, and what does it indicate about a population?
+    id: 163227
+    title: >-
+        What is the significance of measuring disease frequency over a consistent time interval?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
+    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
 related_article3:
-    id: 163061
-    title: What is the difference between fixed and dynamic populations in epidemiology?
+    id: 163343
+    title: >-
+        How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-must-be-made
 related_article4:
-    id: 163339
-    title: How is Years of Potential Life Lost (YPLL) calculated, and why is it important in public health?
+    id: 163073
+    title: >-
+        How is person-years of observation calculated, and why is it important in dynamic populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-important-in-public-health
+    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
 related_article5:
-    id: 163075
-    title: How do absolute measures of association differ from relative measures in epidemiology?
+    id: 163065
+    title: >-
+        How is a ratio different from a proportion in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-absolute-measures-of-association-differ-from-relative-measures-in-epidemiology
+    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 ---
 
 &nbsp;

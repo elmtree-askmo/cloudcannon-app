@@ -2,8 +2,10 @@
 _schema: default
 id: 165628
 date: 2025-01-29
-title: What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
-article_title: What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+title: >-
+    What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+article_title: >-
+    What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-are-used-in-election-campaigns-to-balance-humanitaria
 url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
 score: -1.0
 related_article1:
+    id: 165634
+    title: >-
+        How do opposition parties contribute to political accountability in governance?
+    subject: Politics
+    url: /learn/politics/questions/how-do-opposition-parties-contribute-to-political-accountability-in-governance
+related_article2:
+    id: 165638
+    title: >-
+        How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article3:
+    id: 165638
+    title: >-
+        How have historical events influenced current political systems and party dynamics?
+    subject: Politics
+    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+related_article4:
     id: 165631
-    title: What are the political calculations and risks involved in timing an election call?
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
     subject: Politics
     url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
-related_article2:
-    id: 165630
-    title: What are the challenges Canada faces in diversifying its trade partners?
-    subject: Politics
-    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
-related_article3:
-    id: 165630
-    title: What are the challenges Canada faces in diversifying its trade partners?
-    subject: Politics
-    url: /learn/politics/questions/what-are-the-challenges-canada-faces-in-diversifying-its-trade-partners
-related_article4:
-    id: 165632
-    title: How do media and polls influence public opinion during election campaigns?
-    subject: Politics
-    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
 related_article5:
-    id: 165617
-    title: What are the main differences between majority rule and most votes in an electoral system?
+    id: 165631
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
 ---
 
 &nbsp;

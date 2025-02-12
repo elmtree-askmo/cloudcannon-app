@@ -2,8 +2,10 @@
 _schema: default
 id: 163030
 date: 2025-01-26
-title: What are the ethical considerations regarding informed consent in therapy?
-article_title: What are the ethical considerations regarding informed consent in therapy?
+title: >-
+    What are the ethical considerations regarding informed consent in therapy?
+article_title: >-
+    What are the ethical considerations regarding informed consent in therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-ethical-considerations-regarding-informed-consent-in-the
 url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
 score: -1.0
 related_article1:
+    id: 163025
+    title: >-
+        How can cultural significance limit the effectiveness of psychological theories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
+related_article2:
+    id: 163041
+    title: >-
+        Why is past behavior considered a strong predictor of future behavior in therapy?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+related_article3:
+    id: 163028
+    title: >-
+        What characteristics make a theory effective in psychotherapy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
+related_article4:
     id: 163039
-    title: Why is construct validity important in psychological theories?
+    title: >-
+        Why is construct validity important in psychological theories?
     subject: Psychology
     url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
-related_article2:
-    id: 163033
-    title: How do power imbalances affect cultural safety in therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
-related_article3:
+related_article5:
     id: 163038
-    title: What therapist factors can negatively impact the therapeutic process?
+    title: >-
+        What therapist factors can negatively impact the therapeutic process?
     subject: Psychology
     url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
-related_article4:
-    id: 163036
-    title: What is the significance of evidence-based practice in therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
-related_article5:
-    id: 163039
-    title: Why is construct validity important in psychological theories?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
 ---
 
 &nbsp;

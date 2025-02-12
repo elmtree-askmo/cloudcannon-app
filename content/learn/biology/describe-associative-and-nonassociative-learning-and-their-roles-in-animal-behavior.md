@@ -2,8 +2,10 @@
 _schema: default
 id: 165277
 date: 2025-01-28
-title: Describe associative and non-associative learning and their roles in animal behavior.
-article_title: Describe associative and non-associative learning and their roles in animal behavior.
+title: >-
+    Describe associative and non-associative learning and their roles in animal behavior.
+article_title: >-
+    Describe associative and non-associative learning and their roles in animal behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-associative-and-nonassociative-learning-and-their-roles-in-a
 url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
 score: -1.0
 related_article1:
-    id: 165275
-    title: Explain the mechanism of natural selection and its role in evolutionary change.
+    id: 165282
+    title: >-
+        Describe the types of behavioral responses animals may have to environmental changes.
     subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+    url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 related_article2:
-    id: 165271
-    title: How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    id: 165274
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
     subject: Biology
-    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
+    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
 related_article3:
     id: 165279
-    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 related_article4:
-    id: 165286
-    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    id: 165279
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
     subject: Biology
-    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+    url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 related_article5:
-    id: 165272
-    title: Define animal behavior and explain its importance in ecology.
+    id: 165279
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
     subject: Biology
-    url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
+    url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 ---
 
 &nbsp;

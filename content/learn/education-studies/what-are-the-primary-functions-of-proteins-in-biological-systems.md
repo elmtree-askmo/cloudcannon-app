@@ -2,8 +2,10 @@
 _schema: default
 id: 161786
 date: 2025-01-24
-title: What are the primary functions of proteins in biological systems?
-article_title: What are the primary functions of proteins in biological systems?
+title: >-
+    What are the primary functions of proteins in biological systems?
+article_title: >-
+    What are the primary functions of proteins in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-proteins-in-biological-systems.md
 url: /learn/education-studies/questions/what-are-the-primary-functions-of-proteins-in-biological-systems
 score: -1.0
 related_article1:
-    id: 161787
-    title: How do the structures of DNA and RNA differ, and what are their respective functions?
+    id: 161797
+    title: >-
+        What is the importance of transport proteins in membrane transport?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
+    url: /learn/education-studies/questions/what-is-the-importance-of-transport-proteins-in-membrane-transport
 related_article2:
-    id: 161796
-    title: How do enzymes function as catalysts in biological processes?
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 related_article3:
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
+related_article4:
     id: 161788
-    title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+    title: >-
+        What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
-related_article4:
-    id: 161782
-    title: What is the difference between dehydration reactions and hydrolysis reactions in the polymerization process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dehydration-reactions-and-hydrolysis-reactions-in-the-polymerization-process
 related_article5:
-    id: 161784
-    title: What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+    id: 161792
+    title: >-
+        How do proteins and carbohydrates contribute to structural support in organisms?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
+    url: /learn/education-studies/questions/how-do-proteins-and-carbohydrates-contribute-to-structural-support-in-organisms
 ---
 
 &nbsp;

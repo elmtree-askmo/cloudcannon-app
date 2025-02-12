@@ -2,8 +2,10 @@
 _schema: default
 id: 163653
 date: 2025-01-27
-title: What are some common stereotypes found in Greek and Roman ethnographic descriptions of the Celts?
-article_title: What are some common stereotypes found in Greek and Roman ethnographic descriptions of the Celts?
+title: >-
+    What are some common stereotypes found in Greek and Roman ethnographic descriptions of the Celts?
+article_title: >-
+    What are some common stereotypes found in Greek and Roman ethnographic descriptions of the Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-some-common-stereotypes-found-in-greek-and-roman-ethnographi
 url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-found-in-greek-and-roman-ethnographic-descriptions-of-the-celts
 score: 9.0
 related_article1:
-    id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    id: 163644
+    title: >-
+        How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
+    url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
 related_article2:
-    id: 163654
-    title: How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
+    id: 163643
+    title: >-
+        What are the key differences between Greek and Roman perspectives on the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-archaeological-finds-like-the-gundestrup-cauldron-influence-modern-interpretations-of-celtic-art
+    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
 related_article3:
-    id: 163648
-    title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+    id: 163644
+    title: >-
+        How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
+    url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
 related_article4:
-    id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    id: 163646
+    title: >-
+        How did the concept of Interpretatio Romana affect the understanding of Celtic deities?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
+    url: /learn/history-of-the-world/questions/how-did-the-concept-of-interpretatio-romana-affect-the-understanding-of-celtic-deities
 related_article5:
     id: 163656
-    title: What challenges do modern scholars face in reconstructing the Gaulish language?
+    title: >-
+        What challenges do modern scholars face in reconstructing the Gaulish language?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish-language
 ---

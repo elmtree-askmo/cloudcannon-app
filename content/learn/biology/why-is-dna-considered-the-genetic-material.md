@@ -2,8 +2,10 @@
 _schema: default
 id: 167809
 date: 2025-02-01
-title: Why is DNA considered the genetic material?
-article_title: Why is DNA considered the genetic material?
+title: >-
+    Why is DNA considered the genetic material?
+article_title: >-
+    Why is DNA considered the genetic material?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
 score: -1.0
 related_article1:
     id: 167827
-    title: What are the primary types and functions of biological macromolecules?
+    title: >-
+        What are the primary types and functions of biological macromolecules?
     subject: Biology
     url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
 related_article2:
-    id: 167810
-    title: What roles do chromosomes and chromatin play in genetic material organization?
-    subject: Biology
-    url: /learn/biology/questions/what-roles-do-chromosomes-and-chromatin-play-in-genetic-material-organization
-related_article3:
-    id: 167819
-    title: What is differential gene expression and why is it important?
-    subject: Biology
-    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
-related_article4:
     id: 167823
-    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    title: >-
+        How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
     subject: Biology
     url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
-related_article5:
-    id: 167822
-    title: What are the basic structural components of prokaryotic cells?
+related_article3:
+    id: 167828
+    title: >-
+        How do mitosis and meiosis differ in terms of genetic outcomes?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
+related_article4:
+    id: 167826
+    title: >-
+        How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article5:
+    id: 167823
+    title: >-
+        How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
 ---
 
 &nbsp;

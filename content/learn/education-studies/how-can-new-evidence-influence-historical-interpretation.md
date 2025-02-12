@@ -2,8 +2,10 @@
 _schema: default
 id: 166560
 date: 2025-01-30
-title: How can new evidence influence historical interpretation?
-article_title: How can new evidence influence historical interpretation?
+title: >-
+    How can new evidence influence historical interpretation?
+article_title: >-
+    How can new evidence influence historical interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-can-new-evidence-influence-historica
 score: -1.0
 related_article1:
     id: 166553
-    title: How does storytelling contribute to the historical narrative?
+    title: >-
+        How does storytelling contribute to the historical narrative?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-storytelling-contribute-to-the-historical-narrative
 related_article2:
     id: 166555
-    title: What are the main types of evidence used in historical research?
+    title: >-
+        What are the main types of evidence used in historical research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-evidence-used-in-historical-research
 related_article3:
-    id: 166559
-    title: Why is chronology important in understanding historical events, and what is an example of chronological order?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-chronology-important-in-understanding-historical-events-and-what-is-an-example-of-chronological-order
-related_article4:
-    id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
-related_article5:
     id: 166550
-    title: What are the key reasons for the importance of citation in academic writing?
+    title: >-
+        What are the key reasons for the importance of citation in academic writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-reasons-for-the-importance-of-citation-in-academic-writing
+related_article4:
+    id: 166552
+    title: >-
+        What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-footnotes-in-historical-writing-and-how-do-they-differ-from-bibliographic-information
+related_article5:
+    id: 166562
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
 ---
 
 &nbsp;

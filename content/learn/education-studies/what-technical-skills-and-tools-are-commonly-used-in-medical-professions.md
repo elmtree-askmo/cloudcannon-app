@@ -2,8 +2,10 @@
 _schema: default
 id: 168493
 date: 2025-02-03
-title: What technical skills and tools are commonly used in medical professions?
-article_title: What technical skills and tools are commonly used in medical professions?
+title: >-
+    What technical skills and tools are commonly used in medical professions?
+article_title: >-
+    What technical skills and tools are commonly used in medical professions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-technical-skills-and-tools-are-commonly-used-in-medical-professi
 url: /learn/education-studies/questions/what-technical-skills-and-tools-are-commonly-used-in-medical-professions
 score: -1.0
 related_article1:
-    id: 168510
-    title: What interpersonal and communication skills are necessary for success in sales roles, and what career opportunities are available?
+    id: 168503
+    title: >-
+        What skills are necessary for effective product and service promotion in sales and marketing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-interpersonal-and-communication-skills-are-necessary-for-success-in-sales-roles-and-what-career-opportunities-are-available
+    url: /learn/education-studies/questions/what-skills-are-necessary-for-effective-product-and-service-promotion-in-sales-and-marketing
 related_article2:
-    id: 168514
-    title: What are the essential skills for assertiveness in the workplace, and how can they be developed for success in assertive roles?
+    id: 168488
+    title: >-
+        How can aptitude assessments help in identifying suitable career fields?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-skills-for-assertiveness-in-the-workplace-and-how-can-they-be-developed-for-success-in-assertive-roles
+    url: /learn/education-studies/questions/how-can-aptitude-assessments-help-in-identifying-suitable-career-fields
 related_article3:
-    id: 168494
-    title: What are the career opportunities available in the medical field?
+    id: 168508
+    title: >-
+        What are the key responsibilities and skills required for success in food service careers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
 related_article4:
     id: 168487
-    title: What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
+    title: >-
+        What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-personal-interests-and-evaluating-natural-talents-for-career-suitability
 related_article5:
-    id: 168510
-    title: What interpersonal and communication skills are necessary for success in sales roles, and what career opportunities are available?
+    id: 168491
+    title: >-
+        What are the primary job roles and responsibilities in the food service industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-interpersonal-and-communication-skills-are-necessary-for-success-in-sales-roles-and-what-career-opportunities-are-available
+    url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168042
 date: 2025-02-02
-title: What age differences exist in the vividness and positivity of self-defining memories?
-article_title: What age differences exist in the vividness and positivity of self-defining memories?
+title: >-
+    What age differences exist in the vividness and positivity of self-defining memories?
+article_title: >-
+    What age differences exist in the vividness and positivity of self-defining memories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-age-differences-exist-in-the-vividness-and-positivity-of-selfdef
 url: /learn/psychology/questions/what-age-differences-exist-in-the-vividness-and-positivity-of-selfdefining-memories
 score: -1.0
 related_article1:
-    id: 168044
-    title: How does emotional intensity influence the vividness of self-defining memories?
+    id: 168036
+    title: >-
+        How does primary memory differ from secondary memory in terms of stability with age?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-emotional-intensity-influence-the-vividness-of-selfdefining-memories
+    url: /learn/psychology/questions/how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age
 related_article2:
+    id: 168038
+    title: >-
+        How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article3:
     id: 168043
-    title: Why are memory encoding strategies particularly important for older adults?
+    title: >-
+        Why are memory encoding strategies particularly important for older adults?
     subject: Psychology
     url: /learn/psychology/questions/why-are-memory-encoding-strategies-particularly-important-for-older-adults
-related_article3:
-    id: 168040
-    title: What research findings highlight the age-related decline in memory stability?
-    subject: Psychology
-    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
 related_article4:
-    id: 168034
-    title: How can encoding strategies benefit older adults in maintaining memory function?
+    id: 168036
+    title: >-
+        How does primary memory differ from secondary memory in terms of stability with age?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
+    url: /learn/psychology/questions/how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age
 related_article5:
-    id: 168033
-    title: What are the key factors contributing to the decline of recent long-term memory in older adults?
+    id: 168038
+    title: >-
+        How does procedural memory differ from classical conditioning in non-declarative memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
 ---
 
 &nbsp;

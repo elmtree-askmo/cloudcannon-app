@@ -2,8 +2,10 @@
 _schema: default
 id: 167347
 date: 2025-01-31
-title: What are the key research methodologies used by NOAA to study ocean acidification?
-article_title: What are the key research methodologies used by NOAA to study ocean acidification?
+title: >-
+    What are the key research methodologies used by NOAA to study ocean acidification?
+article_title: >-
+    What are the key research methodologies used by NOAA to study ocean acidification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-a
 url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
 score: -1.0
 related_article1:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+    id: 167346
+    title: >-
+        How does ocean acidification impact the shells of marine terrapods?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
 related_article2:
-    id: 167345
-    title: What role do marine terrapods play in marine ecosystems?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
-related_article3:
     id: 167354
-    title: How does ocean acidification potentially impact fisheries and coastal communities?
+    title: >-
+        How does ocean acidification potentially impact fisheries and coastal communities?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-does-ocean-acidification-potentially-impact-fisheries-and-coastal-communities
-related_article4:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+related_article3:
+    id: 167348
+    title: >-
+        How is long-term data collection important for monitoring ocean chemistry changes?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
+    url: /learn/marine-biology/questions/how-is-longterm-data-collection-important-for-monitoring-ocean-chemistry-changes
+related_article4:
+    id: 167342
+    title: >-
+        How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/how-does-the-absorption-of-carbon-dioxide-lead-to-changes-in-the-ph-scale-of-ocean-water
 related_article5:
     id: 167346
-    title: How does ocean acidification impact the shells of marine terrapods?
+    title: >-
+        How does ocean acidification impact the shells of marine terrapods?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
 ---

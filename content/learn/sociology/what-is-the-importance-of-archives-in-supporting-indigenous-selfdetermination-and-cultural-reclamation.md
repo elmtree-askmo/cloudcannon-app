@@ -2,8 +2,10 @@
 _schema: default
 id: 169165
 date: 2025-02-04
-title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
-article_title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+title: >-
+    What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+article_title: >-
+    What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-importance-of-archives-in-supporting-indigenous-selfdeter
 url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
 score: -1.0
 related_article1:
-    id: 169164
-    title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    id: 169160
+    title: >-
+        How is Indigenous knowledge and worldview represented in museum exhibitions?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+    url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
 related_article2:
-    id: 169170
-    title: How does the impact of colonialism necessitate historical reckoning and urgent conversations within Indigenous communities?
+    id: 169159
+    title: >-
+        In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-impact-of-colonialism-necessitate-historical-reckoning-and-urgent-conversations-within-indigenous-communities
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
 related_article3:
-    id: 169153
-    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    id: 169159
+    title: >-
+        In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
+    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
 related_article4:
-    id: 169170
-    title: How does the impact of colonialism necessitate historical reckoning and urgent conversations within Indigenous communities?
+    id: 169161
+    title: >-
+        What is the significance of addressing hard truths and moving toward reconciliation in museums?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-impact-of-colonialism-necessitate-historical-reckoning-and-urgent-conversations-within-indigenous-communities
-related_article5:
-    id: 169154
-    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+    url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
 ---
 
 &nbsp;

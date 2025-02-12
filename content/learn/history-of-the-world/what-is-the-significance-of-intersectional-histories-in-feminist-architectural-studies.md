@@ -2,8 +2,10 @@
 _schema: default
 id: 169113
 date: 2025-02-04
-title: What is the significance of intersectional histories in feminist architectural studies?
-article_title: What is the significance of intersectional histories in feminist architectural studies?
+title: >-
+    What is the significance of intersectional histories in feminist architectural studies?
+article_title: >-
+    What is the significance of intersectional histories in feminist architectural studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-significance-of-intersectional-histories-in-feminist-arch
 url: /learn/history-of-the-world/questions/what-is-the-significance-of-intersectional-histories-in-feminist-architectural-studies
 score: 9.0
 related_article1:
-    id: 169118
-    title: What are the effects of transnational capitalism on gender dynamics in architecture?
+    id: 169106
+    title: >-
+        What were some of the challenges faced by women in architecture during the early 20th century?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
 related_article2:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    id: 169119
+    title: >-
+        How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
 related_article3:
     id: 169125
-    title: How does feminist historiography aim to rewrite women's roles in architectural history?
+    title: >-
+        How does feminist historiography aim to rewrite women's roles in architectural history?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
 related_article4:
-    id: 169116
-    title: What are some challenges in the historical archiving of women's work in architecture?
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
-related_article5:
-    id: 169115
-    title: What challenges do female students and faculty face in architectural education?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161866
 date: 2025-01-24
-title: Provide an example of a heterogeneous mixture and explain its characteristics.
-article_title: Provide an example of a heterogeneous mixture and explain its characteristics.
+title: >-
+    Provide an example of a heterogeneous mixture and explain its characteristics.
+article_title: >-
+    Provide an example of a heterogeneous mixture and explain its characteristics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-a-heterogeneous-mixture-and-explain-its-charact
 url: /learn/chemistry/questions/provide-an-example-of-a-heterogeneous-mixture-and-explain-its-characteristics
 score: -1.0
 related_article1:
-    id: 161871
-    title: What are some examples of elements and compounds?
+    id: 161844
+    title: >-
+        How do heterogeneous mixtures differ from homogeneous mixtures?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-some-examples-of-elements-and-compounds
+    url: /learn/chemistry/questions/how-do-heterogeneous-mixtures-differ-from-homogeneous-mixtures
 related_article2:
-    id: 161850
-    title: List some examples of homogeneous mixtures.
+    id: 161860
+    title: >-
+        What distinguishes elements from compounds in pure substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
+    url: /learn/chemistry/questions/what-distinguishes-elements-from-compounds-in-pure-substances
 related_article3:
-    id: 161822
-    title: What is the definition of matter in terms of mass and volume?
+    id: 161853
+    title: >-
+        What are the physical properties of matter related to mass and volume?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
 related_article4:
-    id: 161825
-    title: What are chemical symbols and how are they used to represent elements?
+    id: 161826
+    title: >-
+        Provide an example of a compound and explain its chemical formula.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-chemical-symbols-and-how-are-they-used-to-represent-elements
+    url: /learn/chemistry/questions/provide-an-example-of-a-compound-and-explain-its-chemical-formula
 related_article5:
-    id: 161729
-    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+    id: 161868
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
 ---
 
 &nbsp;

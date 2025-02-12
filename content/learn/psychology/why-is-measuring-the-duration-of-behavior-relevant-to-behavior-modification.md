@@ -2,8 +2,10 @@
 _schema: default
 id: 169318
 date: 2025-02-05
-title: Why is measuring the duration of behavior relevant to behavior modification?
-article_title: Why is measuring the duration of behavior relevant to behavior modification?
+title: >-
+    Why is measuring the duration of behavior relevant to behavior modification?
+article_title: >-
+    Why is measuring the duration of behavior relevant to behavior modification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modifi
 url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
 score: -1.0
 related_article1:
-    id: 169316
-    title: What is the topography of behavior and why is it significant in behavior analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
-related_article2:
     id: 169322
-    title: How are behavior change procedures implemented and monitored?
+    title: >-
+        How are behavior change procedures implemented and monitored?
     subject: Psychology
     url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
-related_article3:
+related_article2:
     id: 169330
-    title: What are some common behavior shaping techniques and how are they selected?
+    title: >-
+        What are some common behavior shaping techniques and how are they selected?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
+related_article3:
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
 related_article4:
-    id: 169327
-    title: Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-monitoring-important-in-behavior-intervention-and-what-tools-are-used-for-effective-monitoring
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
 related_article5:
-    id: 169314
-    title: What is differential reinforcement and what is its primary purpose?
+    id: 169330
+    title: >-
+        What are some common behavior shaping techniques and how are they selected?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
+    url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
 ---
 
 &nbsp;

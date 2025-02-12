@@ -2,8 +2,10 @@
 _schema: default
 id: 164883
 date: 2025-01-28
-title: How can consistency be maintained in grading systems?
-article_title: How can consistency be maintained in grading systems?
+title: >-
+    How can consistency be maintained in grading systems?
+article_title: >-
+    How can consistency be maintained in grading systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-consistency-be-maintained-in-grading-systems.md
 url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
 score: -1.0
 related_article1:
-    id: 164872
-    title: How can assessment criteria be aligned with learning objectives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assessment-criteria-be-aligned-with-learning-objectives
-related_article2:
-    id: 164872
-    title: How can assessment criteria be aligned with learning objectives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assessment-criteria-be-aligned-with-learning-objectives
-related_article3:
     id: 164884
-    title: What are the potential effects of grade inflation on student perceptions?
+    title: >-
+        What are the potential effects of grade inflation on student perceptions?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-potential-effects-of-grade-inflation-on-student-perceptions
-related_article4:
-    id: 164874
-    title: How can scoring rubrics benefit the assessment process?
+related_article2:
+    id: 164881
+    title: >-
+        What strategies can be used to handle challenging questions during a Q&A session?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-scoring-rubrics-benefit-the-assessment-process
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
+related_article3:
+    id: 164878
+    title: >-
+        What criteria are used to evaluate presentation skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-criteria-are-used-to-evaluate-presentation-skills
+related_article4:
+    id: 164877
+    title: >-
+        How can practice and rehearsal improve presentation skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-practice-and-rehearsal-improve-presentation-skills
 related_article5:
     id: 164875
-    title: What are the main challenges associated with subjective scoring?
+    title: >-
+        What are the main challenges associated with subjective scoring?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-challenges-associated-with-subjective-scoring
 ---

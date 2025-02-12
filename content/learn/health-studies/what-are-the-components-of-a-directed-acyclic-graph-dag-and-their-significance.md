@@ -2,8 +2,10 @@
 _schema: default
 id: 163253
 date: 2025-01-26
-title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
-article_title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+title: >-
+    What are the components of a Directed Acyclic Graph (DAG) and their significance?
+article_title: >-
+    What are the components of a Directed Acyclic Graph (DAG) and their significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acycl
 score: -1.0
 related_article1:
     id: 163248
-    title: What are the main types of bias that can affect a study's results?
+    title: >-
+        What are the main types of bias that can affect a study's results?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
 related_article2:
-    id: 163249
-    title: What strategies can be employed to reduce bias in research?
+    id: 163247
+    title: >-
+        How can researchers minimize the role of chance in their studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
+    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
 related_article3:
-    id: 163247
-    title: How can researchers minimize the role of chance in their studies?
+    id: 163263
+    title: >-
+        How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
+    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
 related_article4:
+    id: 163261
+    title: >-
+        What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-tools-and-techniques-are-used-in-the-critical-appraisal-of-systematic-reviews-and-metaanalyses
+related_article5:
     id: 163247
-    title: How can researchers minimize the role of chance in their studies?
+    title: >-
+        How can researchers minimize the role of chance in their studies?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
-related_article5:
-    id: 163264
-    title: What are the challenges of keeping current evidence updated in clinical practice?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-challenges-of-keeping-current-evidence-updated-in-clinical-practice
 ---
 
 &nbsp;

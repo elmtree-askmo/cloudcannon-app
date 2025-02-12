@@ -2,8 +2,10 @@
 _schema: default
 id: 167016
 date: 2025-01-31
-title: How do glycosidic bonds form during the synthesis of carbohydrates?
-article_title: How do glycosidic bonds form during the synthesis of carbohydrates?
+title: >-
+    How do glycosidic bonds form during the synthesis of carbohydrates?
+article_title: >-
+    How do glycosidic bonds form during the synthesis of carbohydrates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates.md
 url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
 score: -1.0
 related_article1:
-    id: 167028
-    title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+    id: 167025
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 related_article2:
-    id: 167022
-    title: What are some common examples of disaccharides?
-    subject: Biology
-    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
-related_article3:
     id: 167024
-    title: Why are polysaccharides biologically important?
+    title: >-
+        Why are polysaccharides biologically important?
     subject: Biology
     url: /learn/biology/questions/why-are-polysaccharides-biologically-important
-related_article4:
-    id: 167028
-    title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
+related_article3:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
+related_article4:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
 related_article5:
     id: 167019
-    title: How are monosaccharides classified based on the number of carbon atoms?
+    title: >-
+        How are monosaccharides classified based on the number of carbon atoms?
     subject: Biology
     url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
 ---

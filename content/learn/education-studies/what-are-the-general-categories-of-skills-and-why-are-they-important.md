@@ -2,8 +2,10 @@
 _schema: default
 id: 168464
 date: 2025-02-03
-title: What are the general categories of skills and why are they important?
-article_title: What are the general categories of skills and why are they important?
+title: >-
+    What are the general categories of skills and why are they important?
+article_title: >-
+    What are the general categories of skills and why are they important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-general-categories-of-skills-and-why-are-they-important.
 url: /learn/education-studies/questions/what-are-the-general-categories-of-skills-and-why-are-they-important
 score: -1.0
 related_article1:
-    id: 168470
-    title: How can individuals identify their true values?
+    id: 168454
+    title: >-
+        What are values and how do they influence career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
+    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
 related_article2:
-    id: 168468
-    title: How can family and friends influence an individual's values?
+    id: 168469
+    title: >-
+        What is the role of media in shaping values?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
+    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
 related_article3:
-    id: 168463
-    title: What are some online resources available for career planning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
-related_article4:
     id: 168465
-    title: How do interpersonal skills contribute to career success?
+    title: >-
+        How do interpersonal skills contribute to career success?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-interpersonal-skills-contribute-to-career-success
-related_article5:
+related_article4:
     id: 168456
-    title: Define skills and explain their importance in career choice.
+    title: >-
+        Define skills and explain their importance in career choice.
     subject: Education Studies
     url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
+related_article5:
+    id: 168470
+    title: >-
+        How can individuals identify their true values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
 ---
 
 &nbsp;

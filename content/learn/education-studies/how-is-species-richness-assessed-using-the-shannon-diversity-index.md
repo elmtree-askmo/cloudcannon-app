@@ -2,8 +2,10 @@
 _schema: default
 id: 160443
 date: 2025-01-24
-title: How is species richness assessed using the Shannon Diversity Index?
-article_title: How is species richness assessed using the Shannon Diversity Index?
+title: >-
+    How is species richness assessed using the Shannon Diversity Index?
+article_title: >-
+    How is species richness assessed using the Shannon Diversity Index?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-species-richness-assessed-using-the-shannon-diversity-index.md
 url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
 score: -1.0
 related_article1:
-    id: 160442
-    title: How should zero values be handled when calculating the Shannon Diversity Index?
+    id: 160445
+    title: >-
+        How can the natural logarithm be applied in Excel for ecological data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-zero-values-be-handled-when-calculating-the-shannon-diversity-index
+    url: /learn/education-studies/questions/how-can-the-natural-logarithm-be-applied-in-excel-for-ecological-data-analysis
 related_article2:
     id: 160437
-    title: What is the significance of energy loss between trophic levels in an ecosystem?
+    title: >-
+        What is the significance of energy loss between trophic levels in an ecosystem?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-energy-loss-between-trophic-levels-in-an-ecosystem
 related_article3:
-    id: 160438
-    title: How does the width of the energy base impact the trophic levels in an ecosystem?
+    id: 160437
+    title: >-
+        What is the significance of energy loss between trophic levels in an ecosystem?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
+    url: /learn/education-studies/questions/what-is-the-significance-of-energy-loss-between-trophic-levels-in-an-ecosystem
 related_article4:
-    id: 160452
-    title: What statistical models are commonly used for interpreting environmental data in ecology?
+    id: 160447
+    title: >-
+        How can temporal trends be analyzed in ecological data?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-statistical-models-are-commonly-used-for-interpreting-environmental-data-in-ecology
+    url: /learn/education-studies/questions/how-can-temporal-trends-be-analyzed-in-ecological-data
 related_article5:
-    id: 160450
-    title: What Excel features are most useful for creating effective data visualizations?
+    id: 160445
+    title: >-
+        How can the natural logarithm be applied in Excel for ecological data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-excel-features-are-most-useful-for-creating-effective-data-visualizations
+    url: /learn/education-studies/questions/how-can-the-natural-logarithm-be-applied-in-excel-for-ecological-data-analysis
 ---
 
 &nbsp;

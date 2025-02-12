@@ -2,8 +2,10 @@
 _schema: default
 id: 161020
 date: 2025-01-24
-title: Define time complexity and its importance in evaluating algorithm efficiency.
-article_title: Define time complexity and its importance in evaluating algorithm efficiency.
+title: >-
+    Define time complexity and its importance in evaluating algorithm efficiency.
+article_title: >-
+    Define time complexity and its importance in evaluating algorithm efficiency.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-time-complexity-and-its-importance-in-evaluating-algorithm-eff
 url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 score: -1.0
 related_article1:
-    id: 161022
-    title: What is the difference between solvable and unsolvable problems in computability theory?
+    id: 160867
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 related_article2:
-    id: 160874
-    title: How do constraints impact algorithm design and simplify algorithms?
+    id: 160699
+    title: >-
+        What are the key differences between lists and arrays in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design-and-simplify-algorithms
+    url: /learn/computer-science/questions/what-are-the-key-differences-between-lists-and-arrays-in-data-structures
 related_article3:
-    id: 161015
-    title: What is the purpose of abstraction in computing?
+    id: 161009
+    title: >-
+        What is the role of separating logic and control in algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/what-is-the-role-of-separating-logic-and-control-in-algorithm-development
 related_article4:
-    id: 161030
-    title: How can constraints simplify algorithm design?
+    id: 160721
+    title: >-
+        How does abstraction simplify calendar algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
+    url: /learn/computer-science/questions/how-does-abstraction-simplify-calendar-algorithms
 related_article5:
-    id: 160868
-    title: What is the difference between solvable and unsolvable problems in computability theory?
+    id: 161019
+    title: >-
+        What are associative arrays and how do they utilize non-numeric indices?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
+    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
 ---
 
 &nbsp;

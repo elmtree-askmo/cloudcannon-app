@@ -2,8 +2,10 @@
 _schema: default
 id: 164199
 date: 2025-01-28
-title: What are the key differences between male and female relational crises, particularly in terms of onset and nature?
-article_title: What are the key differences between male and female relational crises, particularly in terms of onset and nature?
+title: >-
+    What are the key differences between male and female relational crises, particularly in terms of onset and nature?
+article_title: >-
+    What are the key differences between male and female relational crises, particularly in terms of onset and nature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-male-and-female-relational-crise
 url: /learn/psychology/questions/what-are-the-key-differences-between-male-and-female-relational-crises-particularly-in-terms-of-onset-and-nature
 score: -1.0
 related_article1:
-    id: 164197
-    title: How do family involvement and educational interventions play a role in resisting disconnection?
+    id: 164195
+    title: >-
+        What factors related to body image and social acceptance affect self-esteem in adolescent girls?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-family-involvement-and-educational-interventions-play-a-role-in-resisting-disconnection
+    url: /learn/psychology/questions/what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls
 related_article2:
-    id: 164200
-    title: How do similarities and differences in relational crises between genders manifest?
+    id: 164187
+    title: >-
+        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
 related_article3:
-    id: 164193
-    title: Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
+    id: 164190
+    title: >-
+        What are the internalization and external expression coping mechanisms used by adolescent girls experiencing a loss of voice?
     subject: Psychology
-    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
+    url: /learn/psychology/questions/what-are-the-internalization-and-external-expression-coping-mechanisms-used-by-adolescent-girls-experiencing-a-loss-of-voice
 related_article4:
-    id: 164198
-    title: What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
+    id: 164187
+    title: >-
+        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
 related_article5:
-    id: 164189
-    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+    id: 164187
+    title: >-
+        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
     subject: Psychology
-    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
 ---
 
 &nbsp;

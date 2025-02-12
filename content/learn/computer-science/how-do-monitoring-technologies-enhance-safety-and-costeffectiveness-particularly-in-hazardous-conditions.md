@@ -2,8 +2,10 @@
 _schema: default
 id: 161357
 date: 2025-01-24
-title: How do monitoring technologies enhance safety and cost-effectiveness, particularly in hazardous conditions?
-article_title: How do monitoring technologies enhance safety and cost-effectiveness, particularly in hazardous conditions?
+title: >-
+    How do monitoring technologies enhance safety and cost-effectiveness, particularly in hazardous conditions?
+article_title: >-
+    How do monitoring technologies enhance safety and cost-effectiveness, particularly in hazardous conditions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-monitoring-technologies-enhance-safety-and-costeffectiveness-p
 url: /learn/computer-science/questions/how-do-monitoring-technologies-enhance-safety-and-costeffectiveness-particularly-in-hazardous-conditions
 score: -1.0
 related_article1:
-    id: 161516
-    title: What are the different types of actuators, and how do they function in control technologies?
+    id: 161532
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-do-they-function-in-control-technologies
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
 related_article2:
-    id: 161529
-    title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+    id: 161514
+    title: >-
+        Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
 related_article3:
-    id: 161349
-    title: What vital signs are monitored in patient monitoring systems, and how is data processed to generate alerts?
+    id: 161532
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-vital-signs-are-monitored-in-patient-monitoring-systems-and-how-is-data-processed-to-generate-alerts
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
 related_article4:
-    id: 161518
-    title: What is one-point calibration, and what are its applications and limitations?
+    id: 161520
+    title: >-
+        Describe multi-point calibration and its advantages in various applications.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-onepoint-calibration-and-what-are-its-applications-and-limitations
+    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
 related_article5:
-    id: 161353
-    title: What are the components and functionality of street lighting control systems, and how do they operate?
+    id: 161355
+    title: >-
+        What is the process and feedback mechanism of traffic lights control systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-and-functionality-of-street-lighting-control-systems-and-how-do-they-operate
+    url: /learn/computer-science/questions/what-is-the-process-and-feedback-mechanism-of-traffic-lights-control-systems
 ---
 
 &nbsp;

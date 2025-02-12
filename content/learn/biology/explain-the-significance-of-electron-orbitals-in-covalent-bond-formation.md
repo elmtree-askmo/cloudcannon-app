@@ -2,8 +2,10 @@
 _schema: default
 id: 167450
 date: 2025-01-31
-title: Explain the significance of electron orbitals in covalent bond formation.
-article_title: Explain the significance of electron orbitals in covalent bond formation.
+title: >-
+    Explain the significance of electron orbitals in covalent bond formation.
+article_title: >-
+    Explain the significance of electron orbitals in covalent bond formation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-significance-of-electron-orbitals-in-covalent-bond-format
 url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 score: -1.0
 related_article1:
-    id: 167461
-    title: How does molecular geometry influence the biological activity of a molecule?
+    id: 167452
+    title: >-
+        What is the purpose of Lewis dot structures in representing molecules?
     subject: Biology
-    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
+    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
 related_article2:
-    id: 167464
-    title: What is the role of chemical compounds in cellular processes?
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 related_article3:
-    id: 167455
-    title: Why is carbon chemistry crucial for the formation of complex organic structures?
+    id: 167448
+    title: >-
+        How do hydrogen bonds influence the properties of water?
     subject: Biology
-    url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
+    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
 related_article4:
-    id: 167464
-    title: What is the role of chemical compounds in cellular processes?
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 related_article5:
-    id: 167461
-    title: How does molecular geometry influence the biological activity of a molecule?
+    id: 167451
+    title: >-
+        How does the octet rule contribute to the stability of atoms in chemical bonding?
     subject: Biology
-    url: /learn/biology/questions/how-does-molecular-geometry-influence-the-biological-activity-of-a-molecule
+    url: /learn/biology/questions/how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding
 ---
 
 &nbsp;

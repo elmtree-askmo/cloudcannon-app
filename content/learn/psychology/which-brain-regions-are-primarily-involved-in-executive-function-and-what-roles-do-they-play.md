@@ -2,8 +2,10 @@
 _schema: default
 id: 164551
 date: 2025-01-28
-title: Which brain regions are primarily involved in executive function, and what roles do they play?
-article_title: Which brain regions are primarily involved in executive function, and what roles do they play?
+title: >-
+    Which brain regions are primarily involved in executive function, and what roles do they play?
+article_title: >-
+    Which brain regions are primarily involved in executive function, and what roles do they play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: which-brain-regions-are-primarily-involved-in-executive-function-and-
 url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play
 score: -1.0
 related_article1:
-    id: 164548
-    title: What distinguishes feature search from conjunction search in visual search tasks?
+    id: 164544
+    title: >-
+        How do the default mode network and potential control network contribute to attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
 related_article2:
-    id: 164546
-    title: How does procedural memory differ from semantic and episodic memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
-related_article3:
-    id: 164543
-    title: What are the key differences between spatial attention and object-based attention?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
-related_article4:
-    id: 164565
-    title: What role do arousal and vigilance play in attention and cognitive performance?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
-related_article5:
     id: 164548
-    title: What distinguishes feature search from conjunction search in visual search tasks?
+    title: >-
+        What distinguishes feature search from conjunction search in visual search tasks?
     subject: Psychology
     url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
+related_article3:
+    id: 164544
+    title: >-
+        How do the default mode network and potential control network contribute to attention?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
+related_article4:
+    id: 164559
+    title: >-
+        How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
+related_article5:
+    id: 164564
+    title: >-
+        What mechanisms are involved in task switching, and how does cognitive load affect it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
 ---
 
 &nbsp;

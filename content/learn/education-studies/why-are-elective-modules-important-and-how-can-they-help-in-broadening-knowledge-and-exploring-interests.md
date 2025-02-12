@@ -2,8 +2,10 @@
 _schema: default
 id: 159976
 date: 2025-01-23
-title: Why are elective modules important, and how can they help in broadening knowledge and exploring interests?
-article_title: Why are elective modules important, and how can they help in broadening knowledge and exploring interests?
+title: >-
+    Why are elective modules important, and how can they help in broadening knowledge and exploring interests?
+article_title: >-
+    Why are elective modules important, and how can they help in broadening knowledge and exploring interests?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-elective-modules-important-and-how-can-they-help-in-broadenin
 url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-help-in-broadening-knowledge-and-exploring-interests
 score: -1.0
 related_article1:
-    id: 160006
-    title: What are active reading techniques, and how do they assist in identifying key information?
+    id: 160129
+    title: >-
+        How can students prioritize tasks to improve their time management skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-active-reading-techniques-and-how-do-they-assist-in-identifying-key-information
+    url: /learn/education-studies/questions/how-can-students-prioritize-tasks-to-improve-their-time-management-skills
 related_article2:
-    id: 159959
-    title: What are the essential skills involved in developing critical thinking, and how can questioning assumptions enhance these skills?
+    id: 160460
+    title: >-
+        What are the advantages and disadvantages of digital versus traditional note-making methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-skills-involved-in-developing-critical-thinking-and-how-can-questioning-assumptions-enhance-these-skills
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-digital-versus-traditional-notemaking-methods
 related_article3:
-    id: 160000
-    title: What is metacognition, and why is it important for self-awareness in learning?
+    id: 160364
+    title: >-
+        What role does educational psychology play in understanding student behavior and enhancing learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-selfawareness-in-learning
+    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
 related_article4:
-    id: 159966
-    title: What techniques can be used to overcome presentation anxiety and engage the audience effectively?
+    id: 160156
+    title: >-
+        What role does educational psychology play in understanding student behavior and enhancing learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-overcome-presentation-anxiety-and-engage-the-audience-effectively
+    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
 related_article5:
-    id: 160281
-    title: How can students effectively communicate within the university system to enhance their academic experience?
+    id: 160582
+    title: >-
+        How can students manage their time effectively during exams to maximize performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-communicate-within-the-university-system-to-enhance-their-academic-experience
+    url: /learn/education-studies/questions/how-can-students-manage-their-time-effectively-during-exams-to-maximize-performance
 ---
 
 &nbsp;

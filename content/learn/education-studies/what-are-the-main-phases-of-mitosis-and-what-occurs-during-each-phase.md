@@ -2,8 +2,10 @@
 _schema: default
 id: 167914
 date: 2025-02-01
-title: What are the main phases of mitosis and what occurs during each phase?
-article_title: What are the main phases of mitosis and what occurs during each phase?
+title: >-
+    What are the main phases of mitosis and what occurs during each phase?
+article_title: >-
+    What are the main phases of mitosis and what occurs during each phase?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
 url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
 score: -1.0
 related_article1:
-    id: 167923
-    title: How do true breeding and hybridization differ in genetic studies?
+    id: 167932
+    title: >-
+        Explain the process of independent assortment and its genetic significance.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-true-breeding-and-hybridization-differ-in-genetic-studies
+    url: /learn/education-studies/questions/explain-the-process-of-independent-assortment-and-its-genetic-significance
 related_article2:
-    id: 167918
-    title: What is the significance of homologous chromosomes during meiosis?
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-homologous-chromosomes-during-meiosis
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
 related_article3:
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
+related_article4:
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
+related_article5:
     id: 167922
-    title: What is the difference between homozygous and heterozygous genotypes?
+    title: >-
+        What is the difference between homozygous and heterozygous genotypes?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-homozygous-and-heterozygous-genotypes
-related_article4:
-    id: 167924
-    title: What is the significance of phenotypic and genotypic ratios in genetic crosses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-phenotypic-and-genotypic-ratios-in-genetic-crosses
-related_article5:
-    id: 167918
-    title: What is the significance of homologous chromosomes during meiosis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-homologous-chromosomes-during-meiosis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166225
 date: 2025-01-29
-title: What are the main components of physical health that contribute to overall well-being?
-article_title: What are the main components of physical health that contribute to overall well-being?
+title: >-
+    What are the main components of physical health that contribute to overall well-being?
+article_title: >-
+    What are the main components of physical health that contribute to overall well-being?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-physical-health-that-contribute-to-ov
 url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
 score: 9.0
 related_article1:
-    id: 166231
-    title: What were the key technological innovations in ancient civilizations, and how did they impact their development?
+    id: 166217
+    title: >-
+        What are the fundamental components of machine learning, and how do they interact?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-innovations-in-ancient-civilizations-and-how-did-they-impact-their-development
+    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
 related_article2:
-    id: 166238
-    title: How do data analysis techniques like statistical methods and data visualization aid in historical research?
+    id: 166242
+    title: >-
+        What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-data-analysis-techniques-like-statistical-methods-and-data-visualization-aid-in-historical-research
+    url: /learn/history-of-the-world/questions/what-are-the-main-theories-and-debates-surrounding-human-evolution-and-migration-patterns-in-prehistory
 related_article3:
-    id: 166236
-    title: How do natural disasters like earthquakes and hurricanes affect human societies?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
+    id: 166213
+    title: >-
+        What were the key developments in the historical context of Arabic studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
 related_article4:
-    id: 166231
-    title: What were the key technological innovations in ancient civilizations, and how did they impact their development?
+    id: 166237
+    title: >-
+        What are the main components involved in constructing historical narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-innovations-in-ancient-civilizations-and-how-did-they-impact-their-development
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
 related_article5:
-    id: 166231
-    title: What were the key technological innovations in ancient civilizations, and how did they impact their development?
+    id: 166226
+    title: >-
+        How can stress management techniques improve mental health?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-innovations-in-ancient-civilizations-and-how-did-they-impact-their-development
+    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
 ---
 
 &nbsp;

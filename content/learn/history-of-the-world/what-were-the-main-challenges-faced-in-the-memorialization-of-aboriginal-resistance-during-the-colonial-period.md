@@ -2,8 +2,10 @@
 _schema: default
 id: 169024
 date: 2025-02-04
-title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
-article_title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+title: >-
+    What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+article_title: >-
+    What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-challenges-faced-in-the-memorialization-of-aborigi
 url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
 score: 9.0
 related_article1:
-    id: 169037
-    title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
+    id: 169027
+    title: >-
+        Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
+    url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
 related_article2:
     id: 169033
-    title: How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
+    title: >-
+        How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-oral-histories-contribute-to-the-understanding-of-aboriginal-perspectives-on-historical-narratives
 related_article3:
-    id: 169035
-    title: Explain the role of the Native Title Act in the legal framework for Aboriginal land rights.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-the-native-title-act-in-the-legal-framework-for-aboriginal-land-rights
-related_article4:
-    id: 169034
-    title: What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
-related_article5:
     id: 169031
-    title: Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+    title: >-
+        Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
     subject: History of the World
     url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
+related_article4:
+    id: 169027
+    title: >-
+        Explain the role of native title recognition in resolving land disputes between Aboriginal communities and settlers.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-role-of-native-title-recognition-in-resolving-land-disputes-between-aboriginal-communities-and-settlers
+related_article5:
+    id: 169028
+    title: >-
+        Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-of-aboriginal-people
 ---
 
 &nbsp;

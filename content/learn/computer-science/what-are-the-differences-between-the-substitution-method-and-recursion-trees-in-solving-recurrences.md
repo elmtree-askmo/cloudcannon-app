@@ -2,8 +2,10 @@
 _schema: default
 id: 160760
 date: 2025-01-24
-title: What are the differences between the substitution method and recursion trees in solving recurrences?
-article_title: What are the differences between the substitution method and recursion trees in solving recurrences?
+title: >-
+    What are the differences between the substitution method and recursion trees in solving recurrences?
+article_title: >-
+    What are the differences between the substitution method and recursion trees in solving recurrences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-the-substitution-method-and-recursio
 url: /learn/computer-science/questions/what-are-the-differences-between-the-substitution-method-and-recursion-trees-in-solving-recurrences
 score: -1.0
 related_article1:
-    id: 160832
-    title: Why is mathematical notation important in algorithm analysis?
+    id: 160921
+    title: >-
+        Define randomized algorithms and describe their characteristics.
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
+    url: /learn/computer-science/questions/define-randomized-algorithms-and-describe-their-characteristics
 related_article2:
-    id: 160749
-    title: What is an algorithm and why is it important in technology?
+    id: 160761
+    title: >-
+        Why is running time analysis crucial in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-algorithm-and-why-is-it-important-in-technology
+    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
 related_article3:
-    id: 160832
-    title: Why is mathematical notation important in algorithm analysis?
+    id: 160750
+    title: >-
+        How can mathematical tools be used in the design and analysis of algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
+    url: /learn/computer-science/questions/how-can-mathematical-tools-be-used-in-the-design-and-analysis-of-algorithms
 related_article4:
-    id: 160749
-    title: What is an algorithm and why is it important in technology?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-algorithm-and-why-is-it-important-in-technology
-related_article5:
-    id: 160755
-    title: How does the running time of insertion sort compare to merge sort?
+    id: 160918
+    title: >-
+        How does the running time of insertion sort compare to merge sort?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-running-time-of-insertion-sort-compare-to-merge-sort
+related_article5:
+    id: 160758
+    title: >-
+        Define randomized algorithms and describe their characteristics.
+    subject: Computer Science
+    url: /learn/computer-science/questions/define-randomized-algorithms-and-describe-their-characteristics
 ---
 
 &nbsp;

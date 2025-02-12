@@ -2,8 +2,10 @@
 _schema: default
 id: 167365
 date: 2025-01-31
-title: Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
-article_title: Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+title: >-
+    Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+article_title: >-
+    Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-
 url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
 score: -1.0
 related_article1:
-    id: 167363
-    title: What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
 related_article2:
+    id: 167369
+    title: >-
+        How do concentration gradients drive diffusion and contribute to cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
+related_article3:
+    id: 167366
+    title: >-
+        How does osmosis affect cell volume and what role does the semipermeable membrane play?
+    subject: Biology
+    url: /learn/biology/questions/how-does-osmosis-affect-cell-volume-and-what-role-does-the-semipermeable-membrane-play
+related_article4:
+    id: 167369
+    title: >-
+        How do concentration gradients drive diffusion and contribute to cellular processes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
+related_article5:
     id: 167362
-    title: Explain the concept of selective permeability and its importance to cellular function.
+    title: >-
+        Explain the concept of selective permeability and its importance to cellular function.
     subject: Biology
     url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
-related_article3:
-    id: 167361
-    title: What factors affect the fluidity of cell membranes?
-    subject: Biology
-    url: /learn/biology/questions/what-factors-affect-the-fluidity-of-cell-membranes
-related_article4:
-    id: 167370
-    title: What is osmolarity and how does it impact osmotic pressure and cell function?
-    subject: Biology
-    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
-related_article5:
-    id: 167360
-    title: How do glycolipids and glycoproteins contribute to cell recognition?
-    subject: Biology
-    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-contribute-to-cell-recognition
 ---
 
 &nbsp;

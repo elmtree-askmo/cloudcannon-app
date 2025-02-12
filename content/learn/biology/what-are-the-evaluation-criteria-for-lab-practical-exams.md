@@ -2,8 +2,10 @@
 _schema: default
 id: 163363
 date: 2025-01-26
-title: What are the evaluation criteria for lab practical exams?
-article_title: What are the evaluation criteria for lab practical exams?
+title: >-
+    What are the evaluation criteria for lab practical exams?
+article_title: >-
+    What are the evaluation criteria for lab practical exams?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-evaluation-criteria-for-lab-practical-exams.md
 url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
 score: -1.0
 related_article1:
-    id: 163369
-    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
-related_article2:
-    id: 163367
-    title: What are the primary communication channels for lab announcements and updates?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
-related_article3:
-    id: 163364
-    title: How should students prepare for lab practicals, and what materials are required?
-    subject: Biology
-    url: /learn/biology/questions/how-should-students-prepare-for-lab-practicals-and-what-materials-are-required
-related_article4:
-    id: 163365
-    title: What is the purpose of lab modules, and how do they contribute to learning objectives?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
-related_article5:
     id: 163360
-    title: How can the scientific method handout be utilized effectively in lab settings?
+    title: >-
+        How can the scientific method handout be utilized effectively in lab settings?
     subject: Biology
     url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+related_article2:
+    id: 163365
+    title: >-
+        What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+related_article3:
+    id: 163362
+    title: >-
+        Describe the types of questions typically found in lab quizzes and how often they occur.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
+related_article4:
+    id: 163361
+    title: >-
+        What materials are necessary for lab participation, and why is each important?
+    subject: Biology
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+related_article5:
+    id: 163357
+    title: >-
+        What are the key safety protocols that must be followed in the lab?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
 ---
 
 &nbsp;

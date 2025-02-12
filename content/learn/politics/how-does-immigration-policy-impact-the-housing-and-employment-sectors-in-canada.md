@@ -2,8 +2,10 @@
 _schema: default
 id: 165627
 date: 2025-01-29
-title: How does immigration policy impact the housing and employment sectors in Canada?
-article_title: How does immigration policy impact the housing and employment sectors in Canada?
+title: >-
+    How does immigration policy impact the housing and employment sectors in Canada?
+article_title: >-
+    How does immigration policy impact the housing and employment sectors in Canada?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-immigration-policy-impact-the-housing-and-employment-sectors
 url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
 score: -1.0
 related_article1:
-    id: 165626
-    title: How do domestic climate policies differ from international climate policies in Canada?
+    id: 165623
+    title: >-
+        What are the main challenges in the housing market related to affordability and inflation?
     subject: Politics
-    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+    url: /learn/politics/questions/what-are-the-main-challenges-in-the-housing-market-related-to-affordability-and-inflation
 related_article2:
-    id: 165625
-    title: What are the controversies surrounding the carbon tax as a climate change policy initiative?
+    id: 165632
+    title: >-
+        How do media and polls influence public opinion during election campaigns?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-controversies-surrounding-the-carbon-tax-as-a-climate-change-policy-initiative
+    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
 related_article3:
-    id: 165620
-    title: How do leadership campaigns and strategies influence public perception of political leaders in Canada?
+    id: 165632
+    title: >-
+        How do media and polls influence public opinion during election campaigns?
     subject: Politics
-    url: /learn/politics/questions/how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada
+    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
 related_article4:
     id: 165638
-    title: How have historical events influenced current political systems and party dynamics?
+    title: >-
+        How have historical events influenced current political systems and party dynamics?
     subject: Politics
     url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
 related_article5:
-    id: 165633
-    title: What measures can be taken to ensure fairness and public trust in electoral processes?
+    id: 165618
+    title: >-
+        How do multi-party systems compare to two-party systems in terms of representation and stability?
     subject: Politics
-    url: /learn/politics/questions/what-measures-can-be-taken-to-ensure-fairness-and-public-trust-in-electoral-processes
+    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
 ---
 
 &nbsp;

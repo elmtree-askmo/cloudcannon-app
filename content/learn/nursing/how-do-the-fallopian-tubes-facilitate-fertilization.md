@@ -2,8 +2,10 @@
 _schema: default
 id: 169716
 date: 2025-02-05
-title: How do the fallopian tubes facilitate fertilization?
-article_title: How do the fallopian tubes facilitate fertilization?
+title: >-
+    How do the fallopian tubes facilitate fertilization?
+article_title: >-
+    How do the fallopian tubes facilitate fertilization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-fallopian-tubes-facilitate-fertilization.md
 url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
 score: -1.0
 related_article1:
-    id: 169708
-    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    id: 169720
+    title: >-
+        What are the dietary recommendations according to the Eatwell Plate?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+    url: /learn/nursing/questions/what-are-the-dietary-recommendations-according-to-the-eatwell-plate
 related_article2:
-    id: 169718
-    title: What are the primary macronutrients and their functions?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
-related_article3:
     id: 169719
-    title: What is the significance of vitamins and minerals as micronutrients?
+    title: >-
+        What is the significance of vitamins and minerals as micronutrients?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
-related_article4:
+related_article3:
     id: 169725
-    title: What is the normal BMI range for adults?
+    title: >-
+        What is the normal BMI range for adults?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
-related_article5:
-    id: 169707
-    title: How should time be managed during an exam under closed book conditions?
+related_article4:
+    id: 169708
+    title: >-
+        Describe the flow of blood through the right atrium and ventricle of the heart.
     subject: Nursing
-    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
+    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+related_article5:
+    id: 169721
+    title: >-
+        How does REM sleep affect dreaming and sleep cycles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
 ---
 
 &nbsp;

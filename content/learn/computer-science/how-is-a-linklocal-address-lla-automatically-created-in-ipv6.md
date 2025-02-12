@@ -2,8 +2,10 @@
 _schema: default
 id: 165747
 date: 2025-01-29
-title: How is a Link-Local Address (LLA) automatically created in IPv6?
-article_title: How is a Link-Local Address (LLA) automatically created in IPv6?
+title: >-
+    How is a Link-Local Address (LLA) automatically created in IPv6?
+article_title: >-
+    How is a Link-Local Address (LLA) automatically created in IPv6?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-linklocal-address-lla-automatically-created-in-ipv6.md
 url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
 score: -1.0
 related_article1:
-    id: 165752
-    title: How is subnetting achieved in IPv6 using the Subnet ID?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-subnetting-achieved-in-ipv6-using-the-subnet-id
-related_article2:
-    id: 165740
-    title: How is an IPv6 address represented in terms of length and notation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
-related_article3:
-    id: 165750
-    title: What are solicited-node multicast addresses used for in IPv6?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-solicitednode-multicast-addresses-used-for-in-ipv6
-related_article4:
-    id: 165761
-    title: How does the compressed format of IPv6 addresses work?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
-related_article5:
     id: 165744
-    title: Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
+related_article2:
+    id: 165761
+    title: >-
+        How does the compressed format of IPv6 addresses work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
+related_article3:
+    id: 165748
+    title: >-
+        What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-methods-are-used-for-dynamic-addressing-of-global-unicast-addresses-guas-in-ipv6
+related_article4:
+    id: 165756
+    title: >-
+        Describe the encapsulation process in IPv6 tunneling.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
+related_article5:
+    id: 165742
+    title: >-
+        Differentiate between unicast, multicast, and anycast IPv6 address types.
+    subject: Computer Science
+    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
 ---
 
 &nbsp;

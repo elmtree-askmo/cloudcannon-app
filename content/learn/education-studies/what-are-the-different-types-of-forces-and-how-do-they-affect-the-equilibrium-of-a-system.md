@@ -2,8 +2,10 @@
 _schema: default
 id: 166726
 date: 2025-01-31
-title: What are the different types of forces and how do they affect the equilibrium of a system?
-article_title: What are the different types of forces and how do they affect the equilibrium of a system?
+title: >-
+    What are the different types of forces and how do they affect the equilibrium of a system?
+article_title: >-
+    What are the different types of forces and how do they affect the equilibrium of a system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-different-types-of-forces-a
 score: -1.0
 related_article1:
     id: 166722
-    title: What are the fundamental concepts of statics and why are they important in mechanics?
+    title: >-
+        What are the fundamental concepts of statics and why are they important in mechanics?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-fundamental-concepts-of-statics-and-why-are-they-important-in-mechanics
 related_article2:
-    id: 166730
-    title: What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-commutative-and-distributive-properties-of-vectors-and-how-do-they-apply-to-vector-calculations
-related_article3:
-    id: 166739
-    title: How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-coordinate-transformations-performed-between-cartesian-and-cylindrical-coordinate-systems
-related_article4:
     id: 166735
-    title: What is a unit vector and why is it important in vector representation?
+    title: >-
+        What is a unit vector and why is it important in vector representation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-a-unit-vector-and-why-is-it-important-in-vector-representation
-related_article5:
-    id: 166728
-    title: Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
+related_article3:
+    id: 166725
+    title: >-
+        Explain the relationship between force, distance, and angle in moment equations.
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
+    url: /learn/education-studies/questions/explain-the-relationship-between-force-distance-and-angle-in-moment-equations
+related_article4:
+    id: 166737
+    title: >-
+        What is angular momentum and how is it related to torque?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-angular-momentum-and-how-is-it-related-to-torque
+related_article5:
+    id: 166738
+    title: >-
+        Describe the conservation of angular momentum and its applications in rotational motion.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-conservation-of-angular-momentum-and-its-applications-in-rotational-motion
 ---
 
 &nbsp;

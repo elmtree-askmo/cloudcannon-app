@@ -2,8 +2,10 @@
 _schema: default
 id: 169480
 date: 2025-02-05
-title: What factors affect skin health, and what are proper skin care techniques in nursing?
-article_title: What factors affect skin health, and what are proper skin care techniques in nursing?
+title: >-
+    What factors affect skin health, and what are proper skin care techniques in nursing?
+article_title: >-
+    What factors affect skin health, and what are proper skin care techniques in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-affect-skin-health-and-what-are-proper-skin-care-techniq
 url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
 score: -1.0
 related_article1:
-    id: 169487
-    title: What are the benefits of encouraging patient independence during recovery?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
-related_article2:
-    id: 169484
-    title: What techniques can be employed to avoid unnecessary exposure and preserve patient privacy?
-    subject: Nursing
-    url: /learn/nursing/questions/what-techniques-can-be-employed-to-avoid-unnecessary-exposure-and-preserve-patient-privacy
-related_article3:
     id: 169478
-    title: How does respecting patient autonomy contribute to patient-centered care?
+    title: >-
+        How does respecting patient autonomy contribute to patient-centered care?
     subject: Nursing
     url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+related_article2:
+    id: 169491
+    title: >-
+        Why is it important to use proper manual handling techniques in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-it-important-to-use-proper-manual-handling-techniques-in-patient-care
+related_article3:
+    id: 169496
+    title: >-
+        What techniques can be used for effective cross-cultural communication in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-can-be-used-for-effective-crosscultural-communication-in-healthcare
 related_article4:
-    id: 169477
-    title: Why is effective communication crucial in addressing patient needs?
+    id: 169495
+    title: >-
+        Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
 related_article5:
-    id: 169485
-    title: What are effective communication strategies for building rapport with patients?
+    id: 169487
+    title: >-
+        What are the benefits of encouraging patient independence during recovery?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-effective-communication-strategies-for-building-rapport-with-patients
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
 ---
 
 &nbsp;

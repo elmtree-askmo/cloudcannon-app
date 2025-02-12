@@ -2,8 +2,10 @@
 _schema: default
 id: 166448
 date: 2025-01-30
-title: What are the potential adverse effects of narcotic medications on the central nervous system?
-article_title: What are the potential adverse effects of narcotic medications on the central nervous system?
+title: >-
+    What are the potential adverse effects of narcotic medications on the central nervous system?
+article_title: >-
+    What are the potential adverse effects of narcotic medications on the central nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-adverse-effects-of-narcotic-medications-on-the
 url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
 score: -1.0
 related_article1:
-    id: 166451
-    title: Identify common adverse effects of opioids, such as constipation and drowsiness.
+    id: 166447
+    title: >-
+        Define narcotic medications and explain their classification as controlled substances.
     subject: Nursing
-    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
 related_article2:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article3:
+    id: 166442
+    title: >-
+        Differentiate between opioid and non-opioid analgesics.
+    subject: Nursing
+    url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
+related_article4:
     id: 166444
-    title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
+    title: >-
+        How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
     subject: Nursing
     url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
-related_article3:
-    id: 166443
-    title: What is the mechanism of action for common anti-inflammatory drugs?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
-related_article4:
-    id: 166452
-    title: What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
 related_article5:
-    id: 166439
-    title: What are prototype drugs, and why are they important in the study of opioid medications?
+    id: 166447
+    title: >-
+        Define narcotic medications and explain their classification as controlled substances.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
+    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
 ---
 
 &nbsp;

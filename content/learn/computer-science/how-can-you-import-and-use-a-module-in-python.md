@@ -2,8 +2,10 @@
 _schema: default
 id: 168605
 date: 2025-02-03
-title: How can you import and use a module in Python?
-article_title: How can you import and use a module in Python?
+title: >-
+    How can you import and use a module in Python?
+article_title: >-
+    How can you import and use a module in Python?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-import-and-use-a-module-in-python.md
 url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
 score: -1.0
 related_article1:
+    id: 168594
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+related_article2:
+    id: 168608
+    title: >-
+        What is encapsulation in object-oriented programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
+related_article3:
+    id: 168601
+    title: >-
+        How can you access a function's docstring in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
+related_article4:
     id: 168600
-    title: What is a function docstring and why is it important?
+    title: >-
+        What is a function docstring and why is it important?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
-related_article2:
-    id: 168592
-    title: How can you use the math module to calculate the square root of a number?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
-related_article3:
-    id: 168604
-    title: What are some best practices for writing Python functions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
-related_article4:
-    id: 168590
-    title: How do you call a function with parameters in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 related_article5:
-    id: 168593
-    title: Explain the difference between local and global scope in Python.
+    id: 168596
+    title: >-
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 ---
 
 &nbsp;

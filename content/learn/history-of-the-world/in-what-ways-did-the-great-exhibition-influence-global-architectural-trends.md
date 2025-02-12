@@ -2,8 +2,10 @@
 _schema: default
 id: 165922
 date: 2025-01-29
-title: In what ways did the Great Exhibition influence global architectural trends?
-article_title: In what ways did the Great Exhibition influence global architectural trends?
+title: >-
+    In what ways did the Great Exhibition influence global architectural trends?
+article_title: >-
+    In what ways did the Great Exhibition influence global architectural trends?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-the-great-exhibition-influence-global-architectural-
 url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
 score: 9.5
 related_article1:
-    id: 165930
-    title: How were art and artifacts from India culturally represented at the Great Exhibition?
+    id: 165921
+    title: >-
+        How did the Great Exhibition impact technological advancements in society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article2:
-    id: 165938
-    title: How has the Fons Americanus been interpreted and critiqued by the public and critics?
+    id: 165921
+    title: >-
+        How did the Great Exhibition impact technological advancements in society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article3:
-    id: 165936
-    title: How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    id: 165937
+    title: >-
+        What themes and artistic techniques are explored in the Fons Americanus?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
+    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
 related_article4:
-    id: 165920
-    title: What were the main objectives and goals of the initial conceptualization of the Great Exhibition?
+    id: 165929
+    title: >-
+        What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-objectives-and-goals-of-the-initial-conceptualization-of-the-great-exhibition
+    url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
 related_article5:
-    id: 165935
-    title: What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+    id: 165928
+    title: >-
+        What influence did the 1844 Paris Industry Exposition have on future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
+    url: /learn/history-of-the-world/questions/what-influence-did-the-1844-paris-industry-exposition-have-on-future-exhibitions
 ---
 
 &nbsp;

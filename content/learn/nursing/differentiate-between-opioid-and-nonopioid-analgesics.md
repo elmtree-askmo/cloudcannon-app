@@ -2,8 +2,10 @@
 _schema: default
 id: 166442
 date: 2025-01-30
-title: Differentiate between opioid and non-opioid analgesics.
-article_title: Differentiate between opioid and non-opioid analgesics.
+title: >-
+    Differentiate between opioid and non-opioid analgesics.
+article_title: >-
+    Differentiate between opioid and non-opioid analgesics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-opioid-and-nonopioid-analgesics.md
 url: /learn/nursing/questions/differentiate-between-opioid-and-nonopioid-analgesics
 score: -1.0
 related_article1:
-    id: 166445
-    title: Explain the function of agonist medications in enhancing receptor activity.
+    id: 166439
+    title: >-
+        What are prototype drugs, and why are they important in the study of opioid medications?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+    url: /learn/nursing/questions/what-are-prototype-drugs-and-why-are-they-important-in-the-study-of-opioid-medications
 related_article2:
-    id: 166445
-    title: Explain the function of agonist medications in enhancing receptor activity.
-    subject: Nursing
-    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
-related_article3:
-    id: 166444
-    title: How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
-related_article4:
     id: 166452
-    title: What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
+    title: >-
+        What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
-related_article5:
-    id: 166447
-    title: Define narcotic medications and explain their classification as controlled substances.
+related_article3:
+    id: 166445
+    title: >-
+        Explain the function of agonist medications in enhancing receptor activity.
     subject: Nursing
-    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
+related_article4:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
+related_article5:
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
+    subject: Nursing
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 ---
 
 &nbsp;

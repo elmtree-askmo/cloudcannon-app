@@ -2,8 +2,10 @@
 _schema: default
 id: 165395
 date: 2025-01-29
-title: What is the value of the prefix 'kilo' in the metric system?
-article_title: What is the value of the prefix 'kilo' in the metric system?
+title: >-
+    What is the value of the prefix 'kilo' in the metric system?
+article_title: >-
+    What is the value of the prefix 'kilo' in the metric system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-value-of-the-prefix-kilo-in-the-metric-system.md
 url: /learn/mathematics/questions/what-is-the-value-of-the-prefix-kilo-in-the-metric-system
 score: -1.0
 related_article1:
-    id: 165405
-    title: In which situations should the decimal point be moved to the left during unit conversion?
+    id: 165396
+    title: >-
+        How does the prefix 'hecto' compare to the central unit in the metric system?
     subject: Mathematics
-    url: /learn/mathematics/questions/in-which-situations-should-the-decimal-point-be-moved-to-the-left-during-unit-conversion
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
 related_article2:
-    id: 165409
-    title: How does counting spaces on a number line help in metric conversions?
+    id: 165402
+    title: >-
+        How do you determine the target unit in a unit conversion process?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-counting-spaces-on-a-number-line-help-in-metric-conversions
+    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
 related_article3:
-    id: 165415
-    title: How do you convert milligrams to grams?
+    id: 165399
+    title: >-
+        What is the relationship between the prefix 'centi' and the central unit in the metric system?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-convert-milligrams-to-grams
+    url: /learn/mathematics/questions/what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system
 related_article4:
-    id: 165406
-    title: What mnemonic devices can be used to memorize metric system conversions?
+    id: 165413
+    title: >-
+        What steps are involved in converting milliliters to liters?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-mnemonic-devices-can-be-used-to-memorize-metric-system-conversions
-related_article5:
-    id: 165397
-    title: What is the significance of the prefix 'deca' in the metric system?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-prefix-deca-in-the-metric-system
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162867
 date: 2025-01-25
-title: Why is compliance with traffic regulations important, and what are common violations?
-article_title: Why is compliance with traffic regulations important, and what are common violations?
+title: >-
+    Why is compliance with traffic regulations important, and what are common violations?
+article_title: >-
+    Why is compliance with traffic regulations important, and what are common violations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-compliance-with-traffic-regulations-important-and-what-are-com
 url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
 score: -1.0
 related_article1:
-    id: 162861
-    title: What are the potential legal consequences of dangerous driving?
+    id: 162863
+    title: >-
+        What role does intent play in cases of criminal negligence in driving?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-potential-legal-consequences-of-dangerous-driving
+    url: /learn/criminal-or-civil-law/questions/what-role-does-intent-play-in-cases-of-criminal-negligence-in-driving
 related_article2:
-    id: 162862
-    title: How is criminal negligence defined in the context of driving?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-criminal-negligence-defined-in-the-context-of-driving
-related_article3:
-    id: 162873
-    title: What are the legal outcomes of dangerous driving and negligence in traffic offenses?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-outcomes-of-dangerous-driving-and-negligence-in-traffic-offenses
-related_article4:
-    id: 162884
-    title: How is liability determined in traffic accidents, and what role does evidence play?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-liability-determined-in-traffic-accidents-and-what-role-does-evidence-play
-related_article5:
     id: 162865
-    title: What challenges do new drivers and immigrants face regarding moral blameworthiness in driving?
+    title: >-
+        What challenges do new drivers and immigrants face regarding moral blameworthiness in driving?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-challenges-do-new-drivers-and-immigrants-face-regarding-moral-blameworthiness-in-driving
+related_article3:
+    id: 162876
+    title: >-
+        What legal measures can enhance traffic safety?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-legal-measures-can-enhance-traffic-safety
+related_article4:
+    id: 162868
+    title: >-
+        What is the legal duty of care in driving, and how does it differ from moral duty?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-duty-of-care-in-driving-and-how-does-it-differ-from-moral-duty
+related_article5:
+    id: 162858
+    title: >-
+        How does case law influence the determination of reasonable behavior in traffic cases?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-case-law-influence-the-determination-of-reasonable-behavior-in-traffic-cases
 ---
 
 &nbsp;

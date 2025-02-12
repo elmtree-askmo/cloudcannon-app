@@ -2,8 +2,10 @@
 _schema: default
 id: 161183
 date: 2025-01-24
-title: What symbol in a flowchart represents the start or end of a process?
-article_title: What symbol in a flowchart represents the start or end of a process?
+title: >-
+    What symbol in a flowchart represents the start or end of a process?
+article_title: >-
+    What symbol in a flowchart represents the start or end of a process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-symbol-in-a-flowchart-represents-the-start-or-end-of-a-process.m
 url: /learn/computer-science/questions/what-symbol-in-a-flowchart-represents-the-start-or-end-of-a-process
 score: -1.0
 related_article1:
-    id: 161475
-    title: How are input and output represented in a flowchart?
+    id: 161375
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article2:
-    id: 161191
-    title: What is the purpose of using counter variables in count-controlled loops?
+    id: 161195
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article3:
-    id: 161486
-    title: Why are data types important in programming?
+    id: 161375
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
     url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article4:
-    id: 161377
-    title: How do control structures like sequence, selection, and iteration influence program flow?
+    id: 161187
+    title: >-
+        What is string manipulation and why is it important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
+    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
 related_article5:
-    id: 161193
-    title: What is iteration and how does it differ from simple repetition?
+    id: 161481
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
+    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
 ---
 
 &nbsp;

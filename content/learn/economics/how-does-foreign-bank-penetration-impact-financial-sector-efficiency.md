@@ -2,8 +2,10 @@
 _schema: default
 id: 159661
 date: 2025-01-23
-title: How does foreign bank penetration impact financial sector efficiency?
-article_title: How does foreign bank penetration impact financial sector efficiency?
+title: >-
+    How does foreign bank penetration impact financial sector efficiency?
+article_title: >-
+    How does foreign bank penetration impact financial sector efficiency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/economics/questions/how-does-foreign-bank-penetration-impact-financi
 score: -1.0
 related_article1:
     id: 159656
-    title: What are the effects of speculative investments on domestic capital allocation due to financial integration?
+    title: >-
+        What are the effects of speculative investments on domestic capital allocation due to financial integration?
     subject: Economics
     url: /learn/economics/questions/what-are-the-effects-of-speculative-investments-on-domestic-capital-allocation-due-to-financial-integration
 related_article2:
     id: 159653
-    title: What are the advanced banking techniques introduced by financial integration that enhance banking system efficiency?
+    title: >-
+        What are the advanced banking techniques introduced by financial integration that enhance banking system efficiency?
     subject: Economics
     url: /learn/economics/questions/what-are-the-advanced-banking-techniques-introduced-by-financial-integration-that-enhance-banking-system-efficiency
 related_article3:
-    id: 159657
-    title: How does financial integration affect the nontradable sector in terms of domestic capital allocation?
+    id: 159653
+    title: >-
+        What are the advanced banking techniques introduced by financial integration that enhance banking system efficiency?
     subject: Economics
-    url: /learn/economics/questions/how-does-financial-integration-affect-the-nontradable-sector-in-terms-of-domestic-capital-allocation
+    url: /learn/economics/questions/what-are-the-advanced-banking-techniques-introduced-by-financial-integration-that-enhance-banking-system-efficiency
 related_article4:
-    id: 159655
-    title: How does the concentration of capital flows impact low-income countries?
+    id: 159660
+    title: >-
+        What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-concentration-of-capital-flows-impact-lowincome-countries
+    url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
 related_article5:
     id: 159660
-    title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+    title: >-
+        What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
     subject: Economics
     url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
 ---

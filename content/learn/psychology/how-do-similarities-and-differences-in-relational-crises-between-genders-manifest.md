@@ -2,8 +2,10 @@
 _schema: default
 id: 164200
 date: 2025-01-28
-title: How do similarities and differences in relational crises between genders manifest?
-article_title: How do similarities and differences in relational crises between genders manifest?
+title: >-
+    How do similarities and differences in relational crises between genders manifest?
+article_title: >-
+    How do similarities and differences in relational crises between genders manifest?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-similarities-and-differences-in-relational-crises-between-gend
 url: /learn/psychology/questions/how-do-similarities-and-differences-in-relational-crises-between-genders-manifest
 score: -1.0
 related_article1:
-    id: 164187
-    title: What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    id: 164195
+    title: >-
+        What factors related to body image and social acceptance affect self-esteem in adolescent girls?
     subject: Psychology
-    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
+    url: /learn/psychology/questions/what-factors-related-to-body-image-and-social-acceptance-affect-selfesteem-in-adolescent-girls
 related_article2:
-    id: 164198
-    title: What strategies can be used to empower adolescent girls to encourage self-expression and build resilience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-used-to-empower-adolescent-girls-to-encourage-selfexpression-and-build-resilience
-related_article3:
-    id: 164192
-    title: In what ways do cultural stereotypes impact women's self-perception and peer relationships?
-    subject: Psychology
-    url: /learn/psychology/questions/in-what-ways-do-cultural-stereotypes-impact-womens-selfperception-and-peer-relationships
-related_article4:
     id: 164191
-    title: How do historical context and media influence contribute to cultural stereotypes of women?
+    title: >-
+        How do historical context and media influence contribute to cultural stereotypes of women?
     subject: Psychology
     url: /learn/psychology/questions/how-do-historical-context-and-media-influence-contribute-to-cultural-stereotypes-of-women
-related_article5:
-    id: 164189
-    title: What societal expectations lead to adolescent girls realizing their opinions are devalued, and how does this impact their communication?
+related_article3:
+    id: 164193
+    title: >-
+        Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
     subject: Psychology
-    url: /learn/psychology/questions/what-societal-expectations-lead-to-adolescent-girls-realizing-their-opinions-are-devalued-and-how-does-this-impact-their-communication
+    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
+related_article4:
+    id: 164193
+    title: >-
+        Which subject areas are most affected by the decline in academic performance due to relational crises, and what are the long-term consequences?
+    subject: Psychology
+    url: /learn/psychology/questions/which-subject-areas-are-most-affected-by-the-decline-in-academic-performance-due-to-relational-crises-and-what-are-the-longterm-consequences
+related_article5:
+    id: 164187
+    title: >-
+        What age does Gilligan's relational crisis typically onset, and what cultural pressures contribute to it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-does-gilligans-relational-crisis-typically-onset-and-what-cultural-pressures-contribute-to-it
 ---
 
 &nbsp;

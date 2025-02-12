@@ -2,8 +2,10 @@
 _schema: default
 id: 166182
 date: 2025-01-29
-title: What are the primary types of biological molecules and their functions?
-article_title: What are the primary types of biological molecules and their functions?
+title: >-
+    What are the primary types of biological molecules and their functions?
+article_title: >-
+    What are the primary types of biological molecules and their functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-types-of-biological-molecules-and-their-function
 url: /learn/education-studies/questions/what-are-the-primary-types-of-biological-molecules-and-their-functions
 score: -1.0
 related_article1:
-    id: 166209
-    title: What are the key differences between sexual and asexual reproduction?
+    id: 166179
+    title: >-
+        What are the fundamental traits that define living organisms?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
+    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
 related_article2:
-    id: 166204
-    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    id: 166179
+    title: >-
+        What are the fundamental traits that define living organisms?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
 related_article3:
-    id: 166185
-    title: What is the structure of a cell membrane and its function in cellular biology?
+    id: 166200
+    title: >-
+        How have humans evolved over time according to fossil evidence?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
+    url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
 related_article4:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
+    id: 166205
+    title: >-
+        What role do enzymes play in biochemical reactions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+    url: /learn/education-studies/questions/what-role-do-enzymes-play-in-biochemical-reactions
 related_article5:
-    id: 166203
-    title: What is the significance of taxonomy in organism classification?
+    id: 166183
+    title: >-
+        How do carbohydrates and proteins differ in their roles within the body?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-taxonomy-in-organism-classification
+    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 ---
 
 &nbsp;

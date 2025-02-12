@@ -2,8 +2,10 @@
 _schema: default
 id: 170376
 date: 2025-02-06
-title: What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
-article_title: What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+title: >-
+    What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
+article_title: >-
+    What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-photosynthesis-and-cellular-respirat
 url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
 score: -1.0
 related_article1:
-    id: 170362
-    title: How do large leaves in rainforest plants aid in photosynthesis?
-    subject: Biology
-    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
-related_article2:
     id: 170359
-    title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+    title: >-
+        How does photosynthesis contribute to the movement of carbon in the carbon cycle?
     subject: Biology
     url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
+related_article2:
+    id: 170374
+    title: >-
+        Why are carbon sinks important in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
 related_article3:
-    id: 170371
-    title: What happens to glucose during cellular respiration?
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 related_article4:
-    id: 170370
-    title: Describe the structure of mitochondria and its role in ATP synthesis.
+    id: 170362
+    title: >-
+        How do large leaves in rainforest plants aid in photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
 related_article5:
-    id: 170358
-    title: What are the main carbon reservoirs in the carbon cycle?
+    id: 170366
+    title: >-
+        Explain the role of ATP in cellular processes.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
+    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
 ---
 
 &nbsp;

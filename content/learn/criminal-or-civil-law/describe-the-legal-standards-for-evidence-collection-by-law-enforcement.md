@@ -2,8 +2,10 @@
 _schema: default
 id: 162009
 date: 2025-01-24
-title: Describe the legal standards for evidence collection by law enforcement.
-article_title: Describe the legal standards for evidence collection by law enforcement.
+title: >-
+    Describe the legal standards for evidence collection by law enforcement.
+article_title: >-
+    Describe the legal standards for evidence collection by law enforcement.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-legal-standards-for-evidence-collection-by-law-enforceme
 url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
 score: -1.0
 related_article1:
-    id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    id: 162001
+    title: >-
+        What constitutes exigent circumstances in legal terms?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
 related_article2:
-    id: 161996
-    title: Explain the judicial process involved in issuing a search warrant.
+    id: 162010
+    title: >-
+        What are the legal requirements for conducting searches under law enforcement powers?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-judicial-process-involved-in-issuing-a-search-warrant
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
 related_article3:
-    id: 162006
-    title: Discuss the privacy considerations involved in DNA collection.
+    id: 161995
+    title: >-
+        What are the legal requirements for obtaining an arrest warrant?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-obtaining-an-arrest-warrant
 related_article4:
-    id: 162004
-    title: Explain the plain view doctrine and its legal standards.
+    id: 162008
+    title: >-
+        What are Charter remedies and how do they apply in court interpretations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-plain-view-doctrine-and-its-legal-standards
+    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
 related_article5:
-    id: 162002
-    title: Outline the judicial process for obtaining information to obtain.
+    id: 162000
+    title: >-
+        Discuss the application of common law in modern investigative detention.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/outline-the-judicial-process-for-obtaining-information-to-obtain
+    url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166159
 date: 2025-01-29
-title: What is the role of control groups in scientific experiments?
-article_title: What is the role of control groups in scientific experiments?
+title: >-
+    What is the role of control groups in scientific experiments?
+article_title: >-
+    What is the role of control groups in scientific experiments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-is-the-role-of-control-groups-in-sc
 score: -1.0
 related_article1:
     id: 166157
-    title: What are the characteristics of a good hypothesis?
+    title: >-
+        What are the characteristics of a good hypothesis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
 related_article2:
-    id: 166163
-    title: How does long-term ecological research contribute to understanding climate change impacts?
+    id: 166164
+    title: >-
+        What are the key areas of study in environmental science?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
+    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
 related_article3:
     id: 166155
-    title: What is inductive reasoning and how is it applied in hypothesis creation?
+    title: >-
+        What is inductive reasoning and how is it applied in hypothesis creation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-inductive-reasoning-and-how-is-it-applied-in-hypothesis-creation
 related_article4:
-    id: 166153
-    title: What is the purpose of the scientific method in research?
+    id: 166157
+    title: >-
+        What are the characteristics of a good hypothesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
 related_article5:
-    id: 166173
-    title: How do scientific theories differ from scientific laws?
+    id: 166164
+    title: >-
+        What are the key areas of study in environmental science?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-scientific-theories-differ-from-scientific-laws
+    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
 ---
 
 &nbsp;

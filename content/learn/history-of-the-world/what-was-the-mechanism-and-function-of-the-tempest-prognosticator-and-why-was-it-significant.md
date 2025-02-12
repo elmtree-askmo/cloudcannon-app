@@ -2,8 +2,10 @@
 _schema: default
 id: 165932
 date: 2025-01-29
-title: What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
-article_title: What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
+title: >-
+    What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
+article_title: >-
+    What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and
 url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
 score: 8.5
 related_article1:
-    id: 165931
-    title: What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
+    id: 165937
+    title: >-
+        What themes and artistic techniques are explored in the Fons Americanus?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
+    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
 related_article2:
+    id: 165923
+    title: >-
+        How did the Great Exhibition change public perception and influence future exhibitions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
+related_article3:
     id: 165930
-    title: How were art and artifacts from India culturally represented at the Great Exhibition?
+    title: >-
+        How were art and artifacts from India culturally represented at the Great Exhibition?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
-related_article3:
-    id: 165924
-    title: What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
 related_article4:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165923
+    title: >-
+        How did the Great Exhibition change public perception and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
 related_article5:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165923
+    title: >-
+        How did the Great Exhibition change public perception and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
 ---
 
 &nbsp;

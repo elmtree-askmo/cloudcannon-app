@@ -2,8 +2,10 @@
 _schema: default
 id: 160430
 date: 2025-01-24
-title: What were the implications of Apple's transition to Intel processors for product performance and compatibility?
-article_title: What were the implications of Apple's transition to Intel processors for product performance and compatibility?
+title: >-
+    What were the implications of Apple's transition to Intel processors for product performance and compatibility?
+article_title: >-
+    What were the implications of Apple's transition to Intel processors for product performance and compatibility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-implications-of-apples-transition-to-intel-processors-f
 url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance-and-compatibility
 score: -1.0
 related_article1:
-    id: 160534
-    title: What strategies did Apple use to differentiate itself from competitors in the market?
+    id: 160525
+    title: >-
+        How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-did-apple-use-to-differentiate-itself-from-competitors-in-the-market
+    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
 related_article2:
-    id: 160433
-    title: How did Apple differentiate itself from competitors through its market positioning strategies?
+    id: 160425
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apple-differentiate-itself-from-competitors-through-its-market-positioning-strategies
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 related_article3:
-    id: 160427
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
-related_article4:
     id: 160520
-    title: What were the major updates introduced in Mac OS X 10.1?
+    title: >-
+        What were the major updates introduced in Mac OS X 10.1?
     subject: Computer Science
     url: /learn/computer-science/questions/what-were-the-major-updates-introduced-in-mac-os-x-101
-related_article5:
-    id: 160529
-    title: How did Apple's store design and layout contribute to its retail success?
+related_article4:
+    id: 160597
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apples-store-design-and-layout-contribute-to-its-retail-success
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+related_article5:
+    id: 160514
+    title: >-
+        How did the first beta release of Mac OS X impact Apple's software development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 ---
 
 &nbsp;

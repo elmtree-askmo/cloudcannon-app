@@ -2,8 +2,10 @@
 _schema: default
 id: 167922
 date: 2025-02-01
-title: What is the difference between homozygous and heterozygous genotypes?
-article_title: What is the difference between homozygous and heterozygous genotypes?
+title: >-
+    What is the difference between homozygous and heterozygous genotypes?
+article_title: >-
+    What is the difference between homozygous and heterozygous genotypes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-difference-between-homozygous-and-heterozygous-genotypes.
 url: /learn/education-studies/questions/what-is-the-difference-between-homozygous-and-heterozygous-genotypes
 score: -1.0
 related_article1:
-    id: 167931
-    title: What is crossing over and how does it contribute to genetic variation?
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
 related_article2:
-    id: 167926
-    title: What is the 9:3:3:1 ratio and how is it derived in dihybrid crosses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-9331-ratio-and-how-is-it-derived-in-dihybrid-crosses
-related_article3:
-    id: 167924
-    title: What is the significance of phenotypic and genotypic ratios in genetic crosses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-phenotypic-and-genotypic-ratios-in-genetic-crosses
-related_article4:
-    id: 167921
-    title: How do dominant and recessive alleles affect the phenotype of an organism?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-dominant-and-recessive-alleles-affect-the-phenotype-of-an-organism
-related_article5:
     id: 167929
-    title: What is aneuploidy and how can it lead to genetic disorders?
+    title: >-
+        What is aneuploidy and how can it lead to genetic disorders?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-aneuploidy-and-how-can-it-lead-to-genetic-disorders
+related_article3:
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
+related_article4:
+    id: 167917
+    title: >-
+        How does meiosis contribute to genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-meiosis-contribute-to-genetic-variation
 ---
 
 &nbsp;

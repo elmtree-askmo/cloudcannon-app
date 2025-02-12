@@ -2,8 +2,10 @@
 _schema: default
 id: 165876
 date: 2025-01-29
-title: How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
-article_title: How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+title: >-
+    How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+article_title: >-
+    How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-jakstat-pathway-facilitate-gene-transcription-activation
 url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
 score: -1.0
 related_article1:
+    id: 165878
+    title: >-
+        How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
+related_article2:
+    id: 165863
+    title: >-
+        What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
+related_article3:
+    id: 165871
+    title: >-
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
+related_article4:
+    id: 165860
+    title: >-
+        How do B and T cells contribute to the specificity and memory of adaptive immunity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
+related_article5:
     id: 165870
-    title: How do MHC Class I molecules contribute to self-identification in the immune system?
+    title: >-
+        How do MHC Class I molecules contribute to self-identification in the immune system?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
-related_article2:
-    id: 165864
-    title: How does the NF Kappa B pathway contribute to immune cell activation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
-related_article3:
-    id: 165869
-    title: What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
-related_article4:
-    id: 165877
-    title: What is the role of the NF Kappa B pathway in the inflammatory response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
-related_article5:
-    id: 165873
-    title: What is the process of memory cell formation in the humoral immune response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-memory-cell-formation-in-the-humoral-immune-response
 ---
 
 &nbsp;

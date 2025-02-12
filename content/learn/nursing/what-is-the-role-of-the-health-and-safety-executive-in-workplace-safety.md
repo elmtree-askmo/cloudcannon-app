@@ -2,8 +2,10 @@
 _schema: default
 id: 169503
 date: 2025-02-05
-title: What is the role of the Health and Safety Executive in workplace safety?
-article_title: What is the role of the Health and Safety Executive in workplace safety?
+title: >-
+    What is the role of the Health and Safety Executive in workplace safety?
+article_title: >-
+    What is the role of the Health and Safety Executive in workplace safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-health-and-safety-executive-in-workplace-safe
 url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 score: -1.0
 related_article1:
-    id: 169514
-    title: How can compliance with safety regulations be ensured during equipment servicing?
+    id: 169512
+    title: >-
+        Why is it important to keep manual handling training up-to-date?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
+    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
 related_article2:
-    id: 169500
-    title: How can risks be assessed and reduced in manual handling operations?
+    id: 169505
+    title: >-
+        What are the employee's duties in reporting faulty equipment under the duty of care?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
 related_article3:
-    id: 169501
-    title: What are the safe lifting techniques to maintain proper body positioning in ergonomics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
-related_article4:
-    id: 169509
-    title: How should patient dignity be maintained during handling in care settings?
-    subject: Nursing
-    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
-related_article5:
     id: 169507
-    title: What is the hierarchy of control and how does it help in minimizing manual handling?
+    title: >-
+        What is the hierarchy of control and how does it help in minimizing manual handling?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
+related_article4:
+    id: 169502
+    title: >-
+        How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article5:
+    id: 169508
+    title: >-
+        How can hazards be identified and controlled in a risk assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170977
 date: 2025-02-07
-title: How do enzymes lower activation energy in reaction coupling?
-article_title: How do enzymes lower activation energy in reaction coupling?
+title: >-
+    How do enzymes lower activation energy in reaction coupling?
+article_title: >-
+    How do enzymes lower activation energy in reaction coupling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-enzymes-lower-activation-energy-in-reaction-coupling.md
 url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
 score: -1.0
 related_article1:
-    id: 170975
-    title: How do coupling reactions make unfavorable reactions proceed?
+    id: 170976
+    title: >-
+        What information can be derived from energy diagrams regarding reaction coordinates and total energy?
     subject: Biology
-    url: /learn/biology/questions/how-do-coupling-reactions-make-unfavorable-reactions-proceed
+    url: /learn/biology/questions/what-information-can-be-derived-from-energy-diagrams-regarding-reaction-coordinates-and-total-energy
 related_article2:
-    id: 170984
-    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+    id: 170986
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
     subject: Biology
-    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
 related_article3:
-    id: 170988
-    title: Why are condensation reactions energetically unfavorable in nucleic acid biosynthesis?
+    id: 170980
+    title: >-
+        Explain the ATP cycle in terms of hydrolysis and phosphorylation.
     subject: Biology
-    url: /learn/biology/questions/why-are-condensation-reactions-energetically-unfavorable-in-nucleic-acid-biosynthesis
+    url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
 related_article4:
-    id: 170982
-    title: How do oxidation and reduction reactions facilitate electron transfer?
+    id: 170994
+    title: >-
+        How can energy diagrams be used to interpret favorable versus unfavorable reactions?
     subject: Biology
-    url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
+    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
 related_article5:
-    id: 170993
-    title: What role does phosphorylation play in active transport and muscle contraction?
+    id: 170989
+    title: >-
+        What energy input is required for nucleotide activation in nucleic acid biosynthesis?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
+    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
 ---
 
 &nbsp;

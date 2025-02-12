@@ -2,8 +2,10 @@
 _schema: default
 id: 165834
 date: 2025-01-29
-title: What is host specificity and how does molecular affinity play a role in it?
-article_title: What is host specificity and how does molecular affinity play a role in it?
+title: >-
+    What is host specificity and how does molecular affinity play a role in it?
+article_title: >-
+    What is host specificity and how does molecular affinity play a role in it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-
 url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
 score: -1.0
 related_article1:
-    id: 165832
-    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    id: 165845
+    title: >-
+        What modern technological advancements are being applied in parasitology research?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 related_article2:
-    id: 165855
-    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
-related_article3:
-    id: 165852
-    title: What challenges do global health initiatives face in the eradication of tropical diseases?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
-related_article4:
     id: 165849
-    title: What are parasitoids and how do they differ from other parasitic insects?
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
     subject: Psychology
     url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
-related_article5:
-    id: 165833
-    title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+related_article3:
+    id: 165854
+    title: >-
+        How do acute and chronic infections differ in terms of disease progression and host adaptation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
+    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+related_article4:
+    id: 165853
+    title: >-
+        Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article5:
+    id: 165828
+    title: >-
+        What are the different types of parasites and how do they differ in their relationships with hosts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
 ---
 
 &nbsp;

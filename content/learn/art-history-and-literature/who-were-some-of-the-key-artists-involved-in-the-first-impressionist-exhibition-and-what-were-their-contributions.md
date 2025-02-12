@@ -2,8 +2,10 @@
 _schema: default
 id: 165945
 date: 2025-01-29
-title: Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
-article_title: Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
+title: >-
+    Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
+article_title: >-
+    Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-were-some-of-the-key-artists-involved-in-the-first-impressionist-
 url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
 score: 9.0
 related_article1:
-    id: 165940
-    title: How did criticisms of the Official Salons contribute to their decline?
+    id: 165943
+    title: >-
+        What was the historical context behind the creation of the Salon des Refusés?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 related_article2:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
+    id: 165944
+    title: >-
+        In what ways did the Salon des Refusés promote avant-garde art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
 related_article3:
-    id: 165952
-    title: How did Claude Monet influence the Impressionist movement?
+    id: 165957
+    title: >-
+        What social and political influences affected art during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
+    url: /learn/art-history-and-literature/questions/what-social-and-political-influences-affected-art-during-the-19th-century
 related_article4:
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+related_article5:
     id: 165962
-    title: What is the legacy of 19th-century art movements on contemporary art?
+    title: >-
+        What is the legacy of 19th-century art movements on contemporary art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
-related_article5:
-    id: 165950
-    title: How did the Salon d’Automne support the development of Cubism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-salon-dautomne-support-the-development-of-cubism
 ---
 
 &nbsp;

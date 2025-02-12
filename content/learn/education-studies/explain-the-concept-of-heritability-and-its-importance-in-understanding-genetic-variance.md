@@ -2,8 +2,10 @@
 _schema: default
 id: 167844
 date: 2025-02-01
-title: Explain the concept of heritability and its importance in understanding genetic variance.
-article_title: Explain the concept of heritability and its importance in understanding genetic variance.
+title: >-
+    Explain the concept of heritability and its importance in understanding genetic variance.
+article_title: >-
+    Explain the concept of heritability and its importance in understanding genetic variance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-heritability-and-its-importance-in-understandi
 url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
 score: -1.0
 related_article1:
-    id: 167837
-    title: How do conditional lethal alleles demonstrate environmental influence on genetic expression?
+    id: 167852
+    title: >-
+        What are quantitative trait loci (QTL), and why are they important in genetic research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
+    url: /learn/education-studies/questions/what-are-quantitative-trait-loci-qtl-and-why-are-they-important-in-genetic-research
 related_article2:
+    id: 167851
+    title: >-
+        How does genetic potential relate to the normal distribution of quantitative traits?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
+related_article3:
+    id: 167848
+    title: >-
+        How do multiple alleles contribute to genetic diversity within a population?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
+related_article4:
+    id: 167843
+    title: >-
+        What is the significance of quantitative traits in genetics, and how are they measured?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
+related_article5:
     id: 167846
-    title: What is the role of standard deviation and variance in analyzing genetic data?
+    title: >-
+        What is the role of standard deviation and variance in analyzing genetic data?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-standard-deviation-and-variance-in-analyzing-genetic-data
-related_article3:
-    id: 167836
-    title: Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-lethal-alleles-and-differentiate-between-dominant-and-recessive-lethal-alleles
-related_article4:
-    id: 167841
-    title: Describe polygenic inheritance and provide an example of how multiple genes contribute additively to a trait.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-polygenic-inheritance-and-provide-an-example-of-how-multiple-genes-contribute-additively-to-a-trait
-related_article5:
-    id: 167849
-    title: What is the difference between incomplete dominance and incomplete penetrance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
 ---
 
 &nbsp;

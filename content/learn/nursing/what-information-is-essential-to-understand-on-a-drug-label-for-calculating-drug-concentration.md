@@ -2,8 +2,10 @@
 _schema: default
 id: 169735
 date: 2025-02-05
-title: What information is essential to understand on a drug label for calculating drug concentration?
-article_title: What information is essential to understand on a drug label for calculating drug concentration?
+title: >-
+    What information is essential to understand on a drug label for calculating drug concentration?
+article_title: >-
+    What information is essential to understand on a drug label for calculating drug concentration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-information-is-essential-to-understand-on-a-drug-label-for-calcu
 url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
 score: -1.0
 related_article1:
-    id: 169730
-    title: How do you convert milliliters to liters?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-you-convert-milliliters-to-liters
-related_article2:
-    id: 169734
-    title: How do you calculate the number of drops per minute for an IV infusion?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
-related_article3:
-    id: 169736
-    title: What are the potential legal consequences of medication errors in nursing?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-legal-consequences-of-medication-errors-in-nursing
-related_article4:
-    id: 169734
-    title: How do you calculate the number of drops per minute for an IV infusion?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
-related_article5:
     id: 169731
-    title: What is the formula for calculating oral medication dosage?
+    title: >-
+        What is the formula for calculating oral medication dosage?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
+related_article2:
+    id: 169738
+    title: >-
+        What are the ethical considerations in medication management for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
+related_article3:
+    id: 169737
+    title: >-
+        How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article4:
+    id: 169737
+    title: >-
+        How can nurses ensure patient safety when administering medication?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
+related_article5:
+    id: 169729
+    title: >-
+        What are the basic units of weight in the metric system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-basic-units-of-weight-in-the-metric-system
 ---
 
 &nbsp;

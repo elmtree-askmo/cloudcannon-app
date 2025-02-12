@@ -2,8 +2,10 @@
 _schema: default
 id: 170285
 date: 2025-02-06
-title: How does fossil fuel combustion impact the carbon cycle?
-article_title: How does fossil fuel combustion impact the carbon cycle?
+title: >-
+    How does fossil fuel combustion impact the carbon cycle?
+article_title: >-
+    How does fossil fuel combustion impact the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,29 @@ file_name: how-does-fossil-fuel-combustion-impact-the-carbon-cycle.md
 url: /learn/education-studies/questions/how-does-fossil-fuel-combustion-impact-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170284
-    title: What are the main components of the carbon cycle?
+    id: 170289
+    title: >-
+        What strategies can be used to improve understanding of the carbon cycle?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-carbon-cycle
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-improve-understanding-of-the-carbon-cycle
 related_article2:
-    id: 170290
-    title: How can online practice tests aid in assessment preparation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-online-practice-tests-aid-in-assessment-preparation
-related_article3:
-    id: 170290
-    title: How can online practice tests aid in assessment preparation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-online-practice-tests-aid-in-assessment-preparation
-related_article4:
     id: 170287
-    title: What is carbon sequestration and why is it important?
+    title: >-
+        What is carbon sequestration and why is it important?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-carbon-sequestration-and-why-is-it-important
+related_article3:
+    id: 170288
+    title: >-
+        What challenges might students face when understanding the carbon cycle?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-challenges-might-students-face-when-understanding-the-carbon-cycle
+related_article4:
+    id: 170288
+    title: >-
+        What challenges might students face when understanding the carbon cycle?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-challenges-might-students-face-when-understanding-the-carbon-cycle
 ---
 
 &nbsp;

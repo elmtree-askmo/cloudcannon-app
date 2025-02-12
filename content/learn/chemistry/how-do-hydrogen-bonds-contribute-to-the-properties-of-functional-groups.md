@@ -2,8 +2,10 @@
 _schema: default
 id: 167568
 date: 2025-01-31
-title: How do hydrogen bonds contribute to the properties of functional groups?
-article_title: How do hydrogen bonds contribute to the properties of functional groups?
+title: >-
+    How do hydrogen bonds contribute to the properties of functional groups?
+article_title: >-
+    How do hydrogen bonds contribute to the properties of functional groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-grou
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-properties-of-functional-groups
 score: -1.0
 related_article1:
-    id: 167566
-    title: What are the different structures carbon can form and why are they important?
+    id: 167570
+    title: >-
+        How do valence electrons influence chemical reactions in biological molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-different-structures-carbon-can-form-and-why-are-they-important
+    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
 related_article2:
-    id: 167561
-    title: What is the significance of the atomic number in an element?
+    id: 167558
+    title: >-
+        List the common elements found in living organisms and compare them with those in the non-living world.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-an-element
+    url: /learn/chemistry/questions/list-the-common-elements-found-in-living-organisms-and-compare-them-with-those-in-the-nonliving-world
 related_article3:
     id: 167560
-    title: How do isotopes differ from each other in terms of neutrons?
+    title: >-
+        How do isotopes differ from each other in terms of neutrons?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-isotopes-differ-from-each-other-in-terms-of-neutrons
 related_article4:
-    id: 167570
-    title: How do valence electrons influence chemical reactions in biological molecules?
+    id: 167567
+    title: >-
+        Define functional groups and explain their importance in macromolecules.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-valence-electrons-influence-chemical-reactions-in-biological-molecules
-related_article5:
-    id: 167557
-    title: What is the definition of matter and how does it differ from elements?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+    url: /learn/chemistry/questions/define-functional-groups-and-explain-their-importance-in-macromolecules
 ---
 
 &nbsp;

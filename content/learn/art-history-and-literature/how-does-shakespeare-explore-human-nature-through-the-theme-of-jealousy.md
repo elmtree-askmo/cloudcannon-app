@@ -2,8 +2,10 @@
 _schema: default
 id: 168255
 date: 2025-02-03
-title: How does Shakespeare explore human nature through the theme of jealousy?
-article_title: How does Shakespeare explore human nature through the theme of jealousy?
+title: >-
+    How does Shakespeare explore human nature through the theme of jealousy?
+article_title: >-
+    How does Shakespeare explore human nature through the theme of jealousy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-shakespeare-explore-human-nature-through-the-theme-of-jealou
 url: /learn/art-history-and-literature/questions/how-does-shakespeare-explore-human-nature-through-the-theme-of-jealousy
 score: 9.5
 related_article1:
+    id: 168256
+    title: >-
+        What lessons about humanity can be learned from the theme of trust and betrayal in Shakespeare's works?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-lessons-about-humanity-can-be-learned-from-the-theme-of-trust-and-betrayal-in-shakespeares-works
+related_article2:
     id: 168254
-    title: What role does Don John's deception play in creating conflict?
+    title: >-
+        What role does Don John's deception play in creating conflict?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-does-don-johns-deception-play-in-creating-conflict
-related_article2:
-    id: 168260
-    title: In what ways is humor used as a defense mechanism in Shakespearean comedy?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-humor-used-as-a-defense-mechanism-in-shakespearean-comedy
 related_article3:
-    id: 168263
-    title: How does language shape perception and reality in society?
+    id: 168264
+    title: >-
+        What are the consequences of miscommunication in relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
+    url: /learn/art-history-and-literature/questions/what-are-the-consequences-of-miscommunication-in-relationships
 related_article4:
     id: 168267
-    title: How do jealousy and envy motivate characters to deceive others?
+    title: >-
+        How do jealousy and envy motivate characters to deceive others?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-jealousy-and-envy-motivate-characters-to-deceive-others
 related_article5:
-    id: 168253
-    title: How does jealousy contribute to deception in literature?
+    id: 168263
+    title: >-
+        How does language shape perception and reality in society?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-jealousy-contribute-to-deception-in-literature
+    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
 ---
 
 &nbsp;

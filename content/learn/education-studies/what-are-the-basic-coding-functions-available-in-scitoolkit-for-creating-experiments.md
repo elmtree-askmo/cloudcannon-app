@@ -2,8 +2,10 @@
 _schema: default
 id: 165161
 date: 2025-01-28
-title: What are the basic coding functions available in SciToolkit for creating experiments?
-article_title: What are the basic coding functions available in SciToolkit for creating experiments?
+title: >-
+    What are the basic coding functions available in SciToolkit for creating experiments?
+article_title: >-
+    What are the basic coding functions available in SciToolkit for creating experiments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-basic-coding-functions-available-in-scitoolkit-for-creat
 url: /learn/education-studies/questions/what-are-the-basic-coding-functions-available-in-scitoolkit-for-creating-experiments
 score: -1.0
 related_article1:
-    id: 165164
-    title: How is timing and response analysis conducted in data collection techniques?
+    id: 165160
+    title: >-
+        What are the main characteristics of observational studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-timing-and-response-analysis-conducted-in-data-collection-techniques
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-observational-studies
 related_article2:
     id: 165153
-    title: How can SciToolkit be used for experimentation?
+    title: >-
+        How can SciToolkit be used for experimentation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-scitoolkit-be-used-for-experimentation
 related_article3:
+    id: 165168
+    title: >-
+        What techniques are used to analyze experimental results and draw conclusions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-are-used-to-analyze-experimental-results-and-draw-conclusions
+related_article4:
+    id: 165154
+    title: >-
+        What are the steps involved in resizing and inverting images using SciToolkit?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-steps-involved-in-resizing-and-inverting-images-using-scitoolkit
+related_article5:
     id: 165155
-    title: How do photoreceptors contribute to the visual effects of afterimages?
+    title: >-
+        How do photoreceptors contribute to the visual effects of afterimages?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-photoreceptors-contribute-to-the-visual-effects-of-afterimages
-related_article4:
-    id: 165163
-    title: What are the different types of survey questions that can be designed for data collection?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-survey-questions-that-can-be-designed-for-data-collection
-related_article5:
-    id: 165165
-    title: What factors should be considered when evaluating the validity of statistical claims?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-evaluating-the-validity-of-statistical-claims
 ---
 
 &nbsp;

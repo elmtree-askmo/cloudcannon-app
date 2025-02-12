@@ -2,8 +2,10 @@
 _schema: default
 id: 169765
 date: 2025-02-05
-title: Why is medication adherence important, and what strategies can improve it?
-article_title: Why is medication adherence important, and what strategies can improve it?
+title: >-
+    Why is medication adherence important, and what strategies can improve it?
+article_title: >-
+    Why is medication adherence important, and what strategies can improve it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-medication-adherence-important-and-what-strategies-can-improve
 url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
 score: -1.0
 related_article1:
-    id: 169753
-    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    id: 169745
+    title: >-
+        What are the nutritional requirements and hydration standards for maintaining health?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
 related_article2:
-    id: 169748
-    title: What tools and techniques are used for effective pain assessment?
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 related_article3:
-    id: 169757
-    title: What are the regulations and storage requirements for controlled drugs?
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
 related_article4:
-    id: 169749
-    title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+    id: 169742
+    title: >-
+        What are the key developmental stages in lifespan development, and how do they impact health?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
 related_article5:
-    id: 169761
-    title: What are the nursing responsibilities and legal obligations in medication administration?
+    id: 169752
+    title: >-
+        What are the key legal aspects of medicines management that nurses must be aware of?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
 ---
 
 &nbsp;

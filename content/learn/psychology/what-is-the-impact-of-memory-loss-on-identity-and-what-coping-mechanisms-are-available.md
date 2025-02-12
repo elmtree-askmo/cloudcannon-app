@@ -2,8 +2,10 @@
 _schema: default
 id: 164503
 date: 2025-01-28
-title: What is the impact of memory loss on identity, and what coping mechanisms are available?
-article_title: What is the impact of memory loss on identity, and what coping mechanisms are available?
+title: >-
+    What is the impact of memory loss on identity, and what coping mechanisms are available?
+article_title: >-
+    What is the impact of memory loss on identity, and what coping mechanisms are available?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechani
 url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
 score: -1.0
 related_article1:
-    id: 164500
-    title: What are the educational implications of understanding learning and memory?
+    id: 164482
+    title: >-
+        What is the role of unconscious learning in implicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
 related_article2:
-    id: 164496
-    title: What is the Information Processing Model in cognitive psychology?
+    id: 164485
+    title: >-
+        What are the key findings from studies on explicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
 related_article3:
+    id: 164504
+    title: >-
+        How do emotions interact with memory, particularly in emotional memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
+related_article4:
     id: 164499
-    title: How are learning processes related to memory consolidation?
+    title: >-
+        How are learning processes related to memory consolidation?
     subject: Psychology
     url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
-related_article4:
-    id: 164494
-    title: How do repetition and practice influence memory retention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
 related_article5:
     id: 164479
-    title: What are the main differences between retrograde and anterograde amnesia?
+    title: >-
+        What are the main differences between retrograde and anterograde amnesia?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 ---

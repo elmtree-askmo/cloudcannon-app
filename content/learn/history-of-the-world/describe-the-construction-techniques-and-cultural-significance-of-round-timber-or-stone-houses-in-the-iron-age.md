@@ -2,8 +2,10 @@
 _schema: default
 id: 170167
 date: 2025-02-06
-title: Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
-article_title: Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
+title: >-
+    Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
+article_title: >-
+    Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-construction-techniques-and-cultural-significance-of-rou
 url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
 score: 9.0
 related_article1:
-    id: 170184
-    title: Who was Calgacus, and what was his influence on Caledonian warfare?
+    id: 170173
+    title: >-
+        What are the main themes and historical context of Tacitus' 'Annals'?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
+    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
 related_article2:
-    id: 170183
-    title: What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
+    id: 170178
+    title: >-
+        What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-did-they-adapt-to-roman-tactics
+    url: /learn/history-of-the-world/questions/what-engineering-techniques-were-used-in-the-construction-of-hadrians-wall-and-how-did-they-contribute-to-its-fortifications
 related_article3:
-    id: 170166
-    title: What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
+    id: 170177
+    title: >-
+        What is the significance of Pictish stones in understanding Pictish art and symbolism?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-and-distribution-patterns-of-unenclosed-villages-during-the-iron-age
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
 related_article4:
-    id: 170180
-    title: What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
+    id: 170174
+    title: >-
+        Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
+    url: /learn/history-of-the-world/questions/compare-the-contributions-of-cornelius-nepos-to-the-biography-genre-with-those-of-tacitus
 related_article5:
-    id: 170185
-    title: Analyze the structure and historical significance of Tacitus' 'Agricola'.
+    id: 170182
+    title: >-
+        Describe the types and purposes of Roman inscriptions and the challenges in translating them.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
+    url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
 ---
 
 &nbsp;

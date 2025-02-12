@@ -2,8 +2,10 @@
 _schema: default
 id: 166114
 date: 2025-01-29
-title: What were the characteristics of Roman urbanization in Britain?
-article_title: What were the characteristics of Roman urbanization in Britain?
+title: >-
+    What were the characteristics of Roman urbanization in Britain?
+article_title: >-
+    What were the characteristics of Roman urbanization in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-characteristics-of-roman-urbanization-in-britain.md
 url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
 score: 9.0
 related_article1:
+    id: 166113
+    title: >-
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
+related_article2:
     id: 166107
-    title: What role did Boudica play in the resistance against Roman rule in Britain?
+    title: >-
+        What role did Boudica play in the resistance against Roman rule in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-boudica-play-in-the-resistance-against-roman-rule-in-britain
-related_article2:
-    id: 166112
-    title: What were the reasons behind the Roman expansion into Northern Europe and Africa?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-reasons-behind-the-roman-expansion-into-northern-europe-and-africa
 related_article3:
-    id: 166110
-    title: In what ways did Roman culture influence the development of a Romano-British identity?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity
-related_article4:
-    id: 166108
-    title: How did Roman religious practices integrate with Celtic traditions in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain
-related_article5:
     id: 166116
-    title: What were the consequences of the withdrawal of Roman troops from Britain?
+    title: >-
+        What were the consequences of the withdrawal of Roman troops from Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
+related_article4:
+    id: 166109
+    title: >-
+        What strategies did the Roman military employ to maintain control over Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
+related_article5:
+    id: 166115
+    title: >-
+        How did Roman architecture influence local British housing styles?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
 ---
 
 &nbsp;

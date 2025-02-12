@@ -2,8 +2,10 @@
 _schema: default
 id: 167413
 date: 2025-01-31
-title: What is the function of the carboxyl group in biological molecules?
-article_title: What is the function of the carboxyl group in biological molecules?
+title: >-
+    What is the function of the carboxyl group in biological molecules?
+article_title: >-
+    What is the function of the carboxyl group in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-the-carboxyl-group-in-biological-molecules.md
 url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
 score: -1.0
 related_article1:
-    id: 167404
-    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    id: 167412
+    title: >-
+        Explain the structure and function of the hydroxyl group.
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
 related_article2:
+    id: 167417
+    title: >-
+        What are isotopes and how do they differ from each other?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+related_article3:
     id: 167403
-    title: Define electronegativity and its importance in chemical reactions.
+    title: >-
+        Define electronegativity and its importance in chemical reactions.
     subject: Biology
     url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
-related_article3:
-    id: 167402
-    title: Explain the significance of the valence shell in chemical bonding.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-significance-of-the-valence-shell-in-chemical-bonding
 related_article4:
-    id: 167404
-    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
 related_article5:
-    id: 167418
-    title: Explain the difference between cations and anions.
+    id: 167405
+    title: >-
+        How do ionic bonds form and what are cations and anions?
     subject: Biology
-    url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163961
 date: 2025-01-28
-title: What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
-article_title: What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
+title: >-
+    What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
+article_title: >-
+    What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-significance-of-the-law-against-tyranny-in-athenian-demo
 url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
 score: 8.5
 related_article1:
+    id: 163965
+    title: >-
+        What were the roles and selection methods of Athenian archons and generals?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-roles-and-selection-methods-of-athenian-archons-and-generals
+related_article2:
     id: 163977
-    title: How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
+    title: >-
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
-related_article2:
+related_article3:
     id: 163969
-    title: What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    title: >-
+        What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
-related_article3:
-    id: 163976
-    title: What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
 related_article4:
-    id: 163976
-    title: What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
+    id: 163971
+    title: >-
+        How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
+    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
 related_article5:
-    id: 163973
-    title: How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
+    id: 163964
+    title: >-
+        Define dēmos and dēmokratia in the context of ancient Greek political systems.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-role-and-selection-of-dikastai-reflect-the-sovereignty-of-athenian-law-courts
+    url: /learn/history-of-the-world/questions/define-dmos-and-dmokratia-in-the-context-of-ancient-greek-political-systems
 ---
 
 &nbsp;

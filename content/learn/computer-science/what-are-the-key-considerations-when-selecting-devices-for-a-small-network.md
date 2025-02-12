@@ -2,8 +2,10 @@
 _schema: default
 id: 165655
 date: 2025-01-29
-title: What are the key considerations when selecting devices for a small network?
-article_title: What are the key considerations when selecting devices for a small network?
+title: >-
+    What are the key considerations when selecting devices for a small network?
+article_title: >-
+    What are the key considerations when selecting devices for a small network?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-considerations-when-selecting-devices-for-a-small-ne
 url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
 score: -1.0
 related_article1:
-    id: 165657
-    title: What is the purpose of using the ping command in network troubleshooting?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-ping-command-in-network-troubleshooting
-related_article2:
-    id: 165660
-    title: What command would you use to view the IP configuration on a Windows host?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
-related_article3:
-    id: 165660
-    title: What command would you use to view the IP configuration on a Windows host?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
-related_article4:
-    id: 165665
-    title: What are common causes of IP addressing issues on IOS devices?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
-related_article5:
     id: 165658
-    title: How does the traceroute command help in diagnosing network issues?
+    title: >-
+        How does the traceroute command help in diagnosing network issues?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
+related_article2:
+    id: 165667
+    title: >-
+        What tools can be used to troubleshoot DNS issues effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+related_article3:
+    id: 165667
+    title: >-
+        What tools can be used to troubleshoot DNS issues effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+related_article4:
+    id: 165667
+    title: >-
+        What tools can be used to troubleshoot DNS issues effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+related_article5:
+    id: 165666
+    title: >-
+        Why is the default gateway important in a network, and how can you verify its configuration?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-the-default-gateway-important-in-a-network-and-how-can-you-verify-its-configuration
 ---
 
 &nbsp;

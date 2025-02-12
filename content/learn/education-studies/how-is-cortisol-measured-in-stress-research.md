@@ -2,8 +2,10 @@
 _schema: default
 id: 165142
 date: 2025-01-28
-title: How is cortisol measured in stress research?
-article_title: How is cortisol measured in stress research?
+title: >-
+    How is cortisol measured in stress research?
+article_title: >-
+    How is cortisol measured in stress research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-is-cortisol-measured-in-stress-resea
 score: -1.0
 related_article1:
     id: 165148
-    title: What are the types of measurement instruments used in research, and how is reliability assessed?
+    title: >-
+        What are the types of measurement instruments used in research, and how is reliability assessed?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-types-of-measurement-instruments-used-in-research-and-how-is-reliability-assessed
 related_article2:
     id: 165144
-    title: What negative impacts can video games have on stress levels?
+    title: >-
+        What negative impacts can video games have on stress levels?
     subject: Education Studies
     url: /learn/education-studies/questions/what-negative-impacts-can-video-games-have-on-stress-levels
 related_article3:
-    id: 165134
-    title: How can observer bias be minimized in research studies?
+    id: 165135
+    title: >-
+        What is the purpose of using control groups in experimental research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
 related_article4:
-    id: 165144
-    title: What negative impacts can video games have on stress levels?
+    id: 165127
+    title: >-
+        How do variables, hypotheses, and procedures contribute to experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-negative-impacts-can-video-games-have-on-stress-levels
+    url: /learn/education-studies/questions/how-do-variables-hypotheses-and-procedures-contribute-to-experimental-design
 related_article5:
-    id: 165140
-    title: How do SPSS and R differ as software tools for statistical analysis?
+    id: 165132
+    title: >-
+        How can external validity be threatened in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
+    url: /learn/education-studies/questions/how-can-external-validity-be-threatened-in-research
 ---
 
 &nbsp;

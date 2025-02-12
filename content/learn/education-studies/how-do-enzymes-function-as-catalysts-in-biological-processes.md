@@ -2,8 +2,10 @@
 _schema: default
 id: 161796
 date: 2025-01-24
-title: How do enzymes function as catalysts in biological processes?
-article_title: How do enzymes function as catalysts in biological processes?
+title: >-
+    How do enzymes function as catalysts in biological processes?
+article_title: >-
+    How do enzymes function as catalysts in biological processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-enzymes-function-as-catalysts-in-biological-processes.md
 url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
 score: -1.0
 related_article1:
-    id: 161786
-    title: What are the primary functions of proteins in biological systems?
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-functions-of-proteins-in-biological-systems
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
 related_article2:
-    id: 161789
-    title: Why are functional groups important in determining the chemical properties of biological molecules?
+    id: 161791
+    title: >-
+        What is the role of carbohydrates and lipids in energy storage?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-functional-groups-important-in-determining-the-chemical-properties-of-biological-molecules
+    url: /learn/education-studies/questions/what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage
 related_article3:
-    id: 161784
-    title: What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 related_article4:
-    id: 161780
-    title: What are the four main classes of biological molecules?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-four-main-classes-of-biological-molecules
-related_article5:
     id: 161792
-    title: How do proteins and carbohydrates contribute to structural support in organisms?
+    title: >-
+        How do proteins and carbohydrates contribute to structural support in organisms?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-proteins-and-carbohydrates-contribute-to-structural-support-in-organisms
+related_article5:
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 ---
 
 &nbsp;

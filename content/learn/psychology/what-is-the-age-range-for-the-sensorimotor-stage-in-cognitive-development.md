@@ -2,8 +2,10 @@
 _schema: default
 id: 168092
 date: 2025-02-02
-title: What is the age range for the sensorimotor stage in cognitive development?
-article_title: What is the age range for the sensorimotor stage in cognitive development?
+title: >-
+    What is the age range for the sensorimotor stage in cognitive development?
+article_title: >-
+    What is the age range for the sensorimotor stage in cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-develop
 url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 score: -1.0
 related_article1:
-    id: 168105
-    title: Provide an example of deferred imitation and explain its significance.
+    id: 168096
+    title: >-
+        What distinguishes secondary circular reactions from primary circular reactions?
     subject: Psychology
-    url: /learn/psychology/questions/provide-an-example-of-deferred-imitation-and-explain-its-significance
+    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
 related_article2:
-    id: 168101
-    title: What is object permanence, and why is it important in cognitive development?
+    id: 168106
+    title: >-
+        How do sensory input and motor actions contribute to cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
+    url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
 related_article3:
+    id: 168099
+    title: >-
+        What is the significance of tertiary circular reactions in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+related_article4:
+    id: 168099
+    title: >-
+        What is the significance of tertiary circular reactions in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+related_article5:
     id: 168104
-    title: What is make-believe play, and why is it important for cognitive development?
+    title: >-
+        What is make-believe play, and why is it important for cognitive development?
     subject: Psychology
     url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
-related_article4:
-    id: 168093
-    title: Describe the cognitive development that occurs during the sensorimotor stage.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
-related_article5:
-    id: 168107
-    title: Explain how exploration and learning through actions interact with the environment.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 ---
 
 &nbsp;

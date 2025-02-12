@@ -2,8 +2,10 @@
 _schema: default
 id: 165659
 date: 2025-01-29
-title: Why is establishing a network baseline important for network management?
-article_title: Why is establishing a network baseline important for network management?
+title: >-
+    Why is establishing a network baseline important for network management?
+article_title: >-
+    Why is establishing a network baseline important for network management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-establishing-a-network-baseline-important-for-network-manageme
 url: /learn/computer-science/questions/why-is-establishing-a-network-baseline-important-for-network-management
 score: -1.0
 related_article1:
-    id: 165658
-    title: How does the traceroute command help in diagnosing network issues?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
-related_article2:
-    id: 165658
-    title: How does the traceroute command help in diagnosing network issues?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
-related_article3:
-    id: 165658
-    title: How does the traceroute command help in diagnosing network issues?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
-related_article4:
-    id: 165666
-    title: Why is the default gateway important in a network, and how can you verify its configuration?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-default-gateway-important-in-a-network-and-how-can-you-verify-its-configuration
-related_article5:
     id: 165656
-    title: How does redundancy improve the reliability of a small network?
+    title: >-
+        How does redundancy improve the reliability of a small network?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
+related_article2:
+    id: 165655
+    title: >-
+        What are the key considerations when selecting devices for a small network?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+related_article3:
+    id: 165662
+    title: >-
+        What information can be obtained from the 'show running-config' command?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
+related_article4:
+    id: 165666
+    title: >-
+        Why is the default gateway important in a network, and how can you verify its configuration?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-the-default-gateway-important-in-a-network-and-how-can-you-verify-its-configuration
 ---
 
 &nbsp;

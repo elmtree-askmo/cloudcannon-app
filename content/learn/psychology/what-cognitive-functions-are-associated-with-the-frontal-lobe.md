@@ -2,8 +2,10 @@
 _schema: default
 id: 164414
 date: 2025-01-28
-title: What cognitive functions are associated with the frontal lobe?
-article_title: What cognitive functions are associated with the frontal lobe?
+title: >-
+    What cognitive functions are associated with the frontal lobe?
+article_title: >-
+    What cognitive functions are associated with the frontal lobe?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cognitive-functions-are-associated-with-the-frontal-lobe.md
 url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 score: -1.0
 related_article1:
-    id: 164417
-    title: How are directional terms applied to understand brain orientation and reference points in anatomy?
+    id: 164411
+    title: >-
+        What are the primary functions of the occipital lobe in the cerebral cortex?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
 related_article2:
     id: 164407
-    title: How does the basal ganglia contribute to motor coordination and involuntary motor control?
+    title: >-
+        How does the basal ganglia contribute to motor coordination and involuntary motor control?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
 related_article3:
-    id: 164415
-    title: How do lateral and medial directional terms help in understanding brain anatomy?
+    id: 164412
+    title: >-
+        How does the temporal lobe contribute to auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
 related_article4:
-    id: 164415
-    title: How do lateral and medial directional terms help in understanding brain anatomy?
+    id: 164413
+    title: >-
+        What role does the parietal lobe play in spatial awareness and attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
 related_article5:
-    id: 164417
-    title: How are directional terms applied to understand brain orientation and reference points in anatomy?
+    id: 164408
+    title: >-
+        What role does the basal ganglia play in implicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
 ---
 
 &nbsp;

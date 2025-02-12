@@ -2,8 +2,10 @@
 _schema: default
 id: 167364
 date: 2025-01-31
-title: Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
-article_title: Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+title: >-
+    Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+article_title: >-
+    Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane
 url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
 score: -1.0
 related_article1:
-    id: 167357
-    title: Why do phospholipids spontaneously form bilayers in aqueous environments?
+    id: 167366
+    title: >-
+        How does osmosis affect cell volume and what role does the semipermeable membrane play?
     subject: Biology
-    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
+    url: /learn/biology/questions/how-does-osmosis-affect-cell-volume-and-what-role-does-the-semipermeable-membrane-play
 related_article2:
-    id: 167358
-    title: How does cholesterol influence the properties of the phospholipid bilayer?
+    id: 167369
+    title: >-
+        How do concentration gradients drive diffusion and contribute to cellular processes?
     subject: Biology
-    url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
+    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
 related_article3:
-    id: 167370
-    title: What is osmolarity and how does it impact osmotic pressure and cell function?
+    id: 167368
+    title: >-
+        Describe the fluid mosaic model and its significance in understanding membrane structure.
     subject: Biology
-    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
+    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-membrane-structure
 related_article4:
     id: 167355
-    title: What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
+    title: >-
+        What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
     subject: Biology
     url: /learn/biology/questions/what-are-the-structural-components-of-a-phospholipids-hydrophilic-head-and-hydrophobic-tails
 related_article5:
     id: 167358
-    title: How does cholesterol influence the properties of the phospholipid bilayer?
+    title: >-
+        How does cholesterol influence the properties of the phospholipid bilayer?
     subject: Biology
     url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
 ---

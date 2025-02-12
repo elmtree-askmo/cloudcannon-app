@@ -2,8 +2,10 @@
 _schema: default
 id: 165923
 date: 2025-01-29
-title: How did the Great Exhibition change public perception and influence future exhibitions?
-article_title: How did the Great Exhibition change public perception and influence future exhibitions?
+title: >-
+    How did the Great Exhibition change public perception and influence future exhibitions?
+article_title: >-
+    How did the Great Exhibition change public perception and influence future exhibitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-p
 score: 9.0
 related_article1:
     id: 165935
-    title: What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+    title: >-
+        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 related_article2:
-    id: 165931
-    title: What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
+    id: 165925
+    title: >-
+        How did the Great Exhibition serve as a display of imperial power and colonial narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
 related_article3:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165929
+    title: >-
+        What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
 related_article4:
-    id: 165927
-    title: How was the Crystal Palace received by the public during the Great Exhibition?
+    id: 165935
+    title: >-
+        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
+    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 related_article5:
-    id: 165927
-    title: How was the Crystal Palace received by the public during the Great Exhibition?
+    id: 165924
+    title: >-
+        What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
+    url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170520
 date: 2025-02-06
-title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
-article_title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+title: >-
+    What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+article_title: >-
+    What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-
 url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
 score: -1.0
 related_article1:
-    id: 170512
-    title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    id: 170503
+    title: >-
+        Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
     subject: Nursing
-    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
 related_article2:
-    id: 170519
-    title: How does sympathetic activation influence metabolic rate and energy expenditure?
+    id: 170504
+    title: >-
+        What role does acetylcholine play in muscle contraction?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
 related_article3:
-    id: 170514
-    title: How does the baroreceptor reflex contribute to blood pressure regulation?
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
 related_article4:
-    id: 170517
-    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    id: 170515
+    title: >-
+        What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
     subject: Nursing
-    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
 related_article5:
-    id: 170501
-    title: What are the main components of the central nervous system and their primary functions?
+    id: 170509
+    title: >-
+        How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
 ---
 
 &nbsp;

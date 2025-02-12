@@ -2,8 +2,10 @@
 _schema: default
 id: 165968
 date: 2025-01-29
-title: How did the rise of social consciousness during the Industrial Revolution influence art?
-article_title: How did the rise of social consciousness during the Industrial Revolution influence art?
+title: >-
+    How did the rise of social consciousness during the Industrial Revolution influence art?
+article_title: >-
+    How did the rise of social consciousness during the Industrial Revolution influence art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-rise-of-social-consciousness-during-the-industrial-revolu
 url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
 score: 9.0
 related_article1:
-    id: 165978
-    title: How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
+    id: 165971
+    title: >-
+        What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
 related_article2:
-    id: 165970
-    title: How did artists respond to political systems through their depiction of social realities?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
-related_article3:
     id: 165976
-    title: How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
+related_article3:
+    id: 165971
+    title: >-
+        What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
 related_article4:
-    id: 165963
-    title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
 related_article5:
-    id: 165969
-    title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+    id: 165972
+    title: >-
+        How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
+    url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
 ---
 
 &nbsp;

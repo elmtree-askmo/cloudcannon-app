@@ -2,8 +2,10 @@
 _schema: default
 id: 164391
 date: 2025-01-28
-title: How does cognitive psychology contribute to our understanding of speech production?
-article_title: How does cognitive psychology contribute to our understanding of speech production?
+title: >-
+    How does cognitive psychology contribute to our understanding of speech production?
+article_title: >-
+    How does cognitive psychology contribute to our understanding of speech production?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-cognitive-psychology-contribute-to-our-understanding-of-spee
 url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
 score: -1.0
 related_article1:
-    id: 164393
-    title: Describe the neural pathways involved in auditory processing.
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 related_article2:
-    id: 164386
-    title: What role do facial expressions play in communication?
+    id: 164385
+    title: >-
+        Differentiate between syntax and grammar in the context of language processing.
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
 related_article3:
-    id: 164398
-    title: Explain how information is integrated during language comprehension.
+    id: 164387
+    title: >-
+        Describe the neural basis of facial expressions and their cognitive interpretation.
     subject: Psychology
-    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 related_article4:
-    id: 164388
-    title: What are some common types of communication disorders, and how do they affect language processing?
+    id: 164404
+    title: >-
+        What are the neural models of music processing, and how do they relate to cognition?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
 related_article5:
-    id: 164393
-    title: Describe the neural pathways involved in auditory processing.
+    id: 164387
+    title: >-
+        Describe the neural basis of facial expressions and their cognitive interpretation.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-neural-pathways-involved-in-auditory-processing
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 ---
 
 &nbsp;

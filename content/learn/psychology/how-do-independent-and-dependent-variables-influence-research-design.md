@@ -2,8 +2,10 @@
 _schema: default
 id: 165209
 date: 2025-01-28
-title: How do independent and dependent variables influence research design?
-article_title: How do independent and dependent variables influence research design?
+title: >-
+    How do independent and dependent variables influence research design?
+article_title: >-
+    How do independent and dependent variables influence research design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-do-independent-and-dependent-variables-infl
 score: -1.0
 related_article1:
     id: 165216
-    title: What are some common mistakes to avoid in APA citation format?
+    title: >-
+        What are some common mistakes to avoid in APA citation format?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
 related_article2:
-    id: 165211
-    title: What are the main features and benefits of using Google Scholar for academic research?
+    id: 165218
+    title: >-
+        What is semantic analysis and how does it enhance data interpretation in research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research
+    url: /learn/psychology/questions/what-is-semantic-analysis-and-how-does-it-enhance-data-interpretation-in-research
 related_article3:
-    id: 165208
-    title: What are the key challenges in defining a target population in research?
+    id: 165217
+    title: >-
+        How can citation tools enhance the credibility of academic work?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-challenges-in-defining-a-target-population-in-research
+    url: /learn/psychology/questions/how-can-citation-tools-enhance-the-credibility-of-academic-work
 related_article4:
-    id: 165212
-    title: How does PubMed specialize in its focus compared to other search engines?
+    id: 165220
+    title: >-
+        Why are abstracts important in academic papers and how do they guide research decisions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
+    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
 related_article5:
-    id: 165216
-    title: What are some common mistakes to avoid in APA citation format?
+    id: 165217
+    title: >-
+        How can citation tools enhance the credibility of academic work?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
+    url: /learn/psychology/questions/how-can-citation-tools-enhance-the-credibility-of-academic-work
 ---
 
 &nbsp;

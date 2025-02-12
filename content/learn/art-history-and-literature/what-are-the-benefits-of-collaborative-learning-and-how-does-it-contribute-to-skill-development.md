@@ -2,8 +2,10 @@
 _schema: default
 id: 168247
 date: 2025-02-03
-title: What are the benefits of collaborative learning, and how does it contribute to skill development?
-article_title: What are the benefits of collaborative learning, and how does it contribute to skill development?
+title: >-
+    What are the benefits of collaborative learning, and how does it contribute to skill development?
+article_title: >-
+    What are the benefits of collaborative learning, and how does it contribute to skill development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-collaborative-learning-and-how-does-it-contr
 url: /learn/art-history-and-literature/questions/what-are-the-benefits-of-collaborative-learning-and-how-does-it-contribute-to-skill-development
 score: 9.5
 related_article1:
-    id: 168243
-    title: What are the advantages and disadvantages of manual versus digital attendance tracking systems?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
-related_article2:
-    id: 168246
-    title: How do non-verbal communication cues like body language and eye contact impact interpersonal interactions?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-nonverbal-communication-cues-like-body-language-and-eye-contact-impact-interpersonal-interactions
-related_article3:
     id: 168239
-    title: What are the differences between quantitative, qualitative, and mixed methods in data analysis?
+    title: >-
+        What are the differences between quantitative, qualitative, and mixed methods in data analysis?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-differences-between-quantitative-qualitative-and-mixed-methods-in-data-analysis
+related_article2:
+    id: 168241
+    title: >-
+        What strategies can be employed to improve name recognition in large groups?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-improve-name-recognition-in-large-groups
+related_article3:
+    id: 168238
+    title: >-
+        How can conflicts be resolved in group discussions to achieve consensus?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-conflicts-be-resolved-in-group-discussions-to-achieve-consensus
 related_article4:
-    id: 168235
-    title: What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
+    id: 168242
+    title: >-
+        What challenges might arise in name recognition due to cultural differences, and how can they be addressed?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-used-in-literary-analysis-and-how-does-groupbased-analysis-enhance-understanding
+    url: /learn/art-history-and-literature/questions/what-challenges-might-arise-in-name-recognition-due-to-cultural-differences-and-how-can-they-be-addressed
 related_article5:
-    id: 168246
-    title: How do non-verbal communication cues like body language and eye contact impact interpersonal interactions?
+    id: 168243
+    title: >-
+        What are the advantages and disadvantages of manual versus digital attendance tracking systems?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-nonverbal-communication-cues-like-body-language-and-eye-contact-impact-interpersonal-interactions
+    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
 ---
 
 &nbsp;

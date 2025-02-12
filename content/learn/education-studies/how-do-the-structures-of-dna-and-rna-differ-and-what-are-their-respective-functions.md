@@ -2,8 +2,10 @@
 _schema: default
 id: 161787
 date: 2025-01-24
-title: How do the structures of DNA and RNA differ, and what are their respective functions?
-article_title: How do the structures of DNA and RNA differ, and what are their respective functions?
+title: >-
+    How do the structures of DNA and RNA differ, and what are their respective functions?
+article_title: >-
+    How do the structures of DNA and RNA differ, and what are their respective functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respec
 url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
 score: -1.0
 related_article1:
-    id: 161780
-    title: What are the four main classes of biological molecules?
+    id: 161782
+    title: >-
+        What is the difference between dehydration reactions and hydrolysis reactions in the polymerization process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-four-main-classes-of-biological-molecules
+    url: /learn/education-studies/questions/what-is-the-difference-between-dehydration-reactions-and-hydrolysis-reactions-in-the-polymerization-process
 related_article2:
-    id: 161783
-    title: Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+    id: 161785
+    title: >-
+        Explain the significance of amino acid structure in determining protein properties.
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
+    url: /learn/education-studies/questions/explain-the-significance-of-amino-acid-structure-in-determining-protein-properties
 related_article3:
-    id: 161783
-    title: Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+    id: 161794
+    title: >-
+        How does molecular structure facilitate function in biological molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
+    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
 related_article4:
-    id: 161793
-    title: What is the role of proteins and nucleic acids in cell signaling?
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
 related_article5:
-    id: 161790
-    title: How does dehydration synthesis contribute to the formation of polymers?
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-dehydration-synthesis-contribute-to-the-formation-of-polymers
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
 ---
 
 &nbsp;

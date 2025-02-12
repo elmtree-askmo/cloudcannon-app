@@ -2,8 +2,10 @@
 _schema: default
 id: 169741
 date: 2025-02-05
-title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
-article_title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+title: >-
+    Why is patient consent crucial in healthcare, and what are the considerations for minors?
+article_title: >-
+    Why is patient consent crucial in healthcare, and what are the considerations for minors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-patient-consent-crucial-in-healthcare-and-what-are-the-conside
 url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
 score: -1.0
 related_article1:
-    id: 169764
-    title: What are the best practices for prescribing medications, and what common pitfalls should be avoided?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
-related_article2:
-    id: 169750
-    title: What are the symptoms and treatment options for common mental health disorders?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
-related_article3:
-    id: 169762
-    title: What are the requirements for proper medication storage, including temperature control and security measures?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
-related_article4:
     id: 169757
-    title: What are the regulations and storage requirements for controlled drugs?
+    title: >-
+        What are the regulations and storage requirements for controlled drugs?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
-related_article5:
-    id: 169760
-    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+related_article2:
+    id: 169749
+    title: >-
+        What are the differences between pharmacological and non-pharmacological pain management approaches?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+    url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
+related_article3:
+    id: 169748
+    title: >-
+        What tools and techniques are used for effective pain assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
+related_article4:
+    id: 169740
+    title: >-
+        How does shared decision making enhance person-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
+related_article5:
+    id: 169751
+    title: >-
+        What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
 ---
 
 &nbsp;

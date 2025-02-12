@@ -2,8 +2,10 @@
 _schema: default
 id: 167008
 date: 2025-01-31
-title: How do ionic bonds contribute to the tertiary structure of proteins?
-article_title: How do ionic bonds contribute to the tertiary structure of proteins?
+title: >-
+    How do ionic bonds contribute to the tertiary structure of proteins?
+article_title: >-
+    How do ionic bonds contribute to the tertiary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins.m
 url: /learn/education-studies/questions/how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins
 score: -1.0
 related_article1:
-    id: 167002
-    title: How do polar and non-polar side chains affect the properties of amino acids?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-polar-and-nonpolar-side-chains-affect-the-properties-of-amino-acids
-related_article2:
-    id: 167002
-    title: How do polar and non-polar side chains affect the properties of amino acids?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-polar-and-nonpolar-side-chains-affect-the-properties-of-amino-acids
-related_article3:
-    id: 167013
-    title: What are the types of nitrogenous bases and how do they pair in nucleic acids?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-types-of-nitrogenous-bases-and-how-do-they-pair-in-nucleic-acids
-related_article4:
     id: 167006
-    title: How does the quaternary structure of proteins differ from the tertiary structure in terms of chemical bonding?
+    title: >-
+        How does the quaternary structure of proteins differ from the tertiary structure in terms of chemical bonding?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-quaternary-structure-of-proteins-differ-from-the-tertiary-structure-in-terms-of-chemical-bonding
-related_article5:
-    id: 167013
-    title: What are the types of nitrogenous bases and how do they pair in nucleic acids?
+related_article2:
+    id: 167014
+    title: >-
+        Explain the role of the phosphate group in the structure of nucleotides and nucleic acid backbones.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-types-of-nitrogenous-bases-and-how-do-they-pair-in-nucleic-acids
+    url: /learn/education-studies/questions/explain-the-role-of-the-phosphate-group-in-the-structure-of-nucleotides-and-nucleic-acid-backbones
+related_article3:
+    id: 167009
+    title: >-
+        Describe the formation and significance of disulfide bonds in protein stabilization.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-formation-and-significance-of-disulfide-bonds-in-protein-stabilization
+related_article4:
+    id: 167001
+    title: >-
+        What are the key structural components of amino acids and how do they interact with water?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-structural-components-of-amino-acids-and-how-do-they-interact-with-water
+related_article5:
+    id: 167004
+    title: >-
+        What is the role of covalent bonding in the formation of peptide bonds?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-covalent-bonding-in-the-formation-of-peptide-bonds
 ---
 
 &nbsp;

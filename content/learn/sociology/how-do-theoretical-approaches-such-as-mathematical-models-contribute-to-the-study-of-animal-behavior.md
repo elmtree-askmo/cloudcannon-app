@@ -2,8 +2,10 @@
 _schema: default
 id: 166351
 date: 2025-01-30
-title: How do theoretical approaches, such as mathematical models, contribute to the study of animal behavior?
-article_title: How do theoretical approaches, such as mathematical models, contribute to the study of animal behavior?
+title: >-
+    How do theoretical approaches, such as mathematical models, contribute to the study of animal behavior?
+article_title: >-
+    How do theoretical approaches, such as mathematical models, contribute to the study of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-theoretical-approaches-such-as-mathematical-models-contribute-
 url: /learn/sociology/questions/how-do-theoretical-approaches-such-as-mathematical-models-contribute-to-the-study-of-animal-behavior
 score: -1.0
 related_article1:
-    id: 166347
-    title: What are some behavioral responses animals might exhibit in response to environmental changes?
+    id: 166340
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
+    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
 related_article2:
-    id: 166349
-    title: What role do genetic mutations play in the evolution of animal behavior?
+    id: 166343
+    title: >-
+        Describe the difference between associative and non-associative learning in animals.
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-genetic-mutations-play-in-the-evolution-of-animal-behavior
+    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
 related_article3:
-    id: 166345
-    title: What is the significance of individual learning in the context of animal behavior and fitness?
+    id: 166346
+    title: >-
+        How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
 related_article4:
-    id: 166346
-    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    id: 166348
+    title: >-
+        How can animal behavior serve as an indicator of environmental disturbances in conservation biology?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+    url: /learn/sociology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbances-in-conservation-biology
 related_article5:
-    id: 166346
-    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    id: 166352
+    title: >-
+        What is kin selection, and how does it relate to conceptual approaches in animal behavior?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
 ---
 
 &nbsp;

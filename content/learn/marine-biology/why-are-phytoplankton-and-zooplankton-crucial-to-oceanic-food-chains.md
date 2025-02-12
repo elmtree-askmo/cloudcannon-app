@@ -2,8 +2,10 @@
 _schema: default
 id: 167353
 date: 2025-01-31
-title: Why are phytoplankton and zooplankton crucial to oceanic food chains?
-article_title: Why are phytoplankton and zooplankton crucial to oceanic food chains?
+title: >-
+    Why are phytoplankton and zooplankton crucial to oceanic food chains?
+article_title: >-
+    Why are phytoplankton and zooplankton crucial to oceanic food chains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains.
 url: /learn/marine-biology/questions/why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains
 score: -1.0
 related_article1:
-    id: 167341
-    title: What is the primary cause of ocean acidification?
+    id: 167352
+    title: >-
+        How do global oceanic trends and regional variations contribute to environmental changes in oceans?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-is-the-primary-cause-of-ocean-acidification
+    url: /learn/marine-biology/questions/how-do-global-oceanic-trends-and-regional-variations-contribute-to-environmental-changes-in-oceans
 related_article2:
+    id: 167345
+    title: >-
+        What role do marine terrapods play in marine ecosystems?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
+related_article3:
+    id: 167352
+    title: >-
+        How do global oceanic trends and regional variations contribute to environmental changes in oceans?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/how-do-global-oceanic-trends-and-regional-variations-contribute-to-environmental-changes-in-oceans
+related_article4:
     id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+    title: >-
+        How can changes in marine biodiversity due to ocean acidification affect ecosystems?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
-related_article3:
-    id: 167346
-    title: How does ocean acidification impact the shells of marine terrapods?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
-related_article4:
-    id: 167351
-    title: What are the predicted changes in future pH levels based on different emission scenarios?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
 related_article5:
-    id: 167351
-    title: What are the predicted changes in future pH levels based on different emission scenarios?
+    id: 167342
+    title: >-
+        How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
+    url: /learn/marine-biology/questions/how-does-the-absorption-of-carbon-dioxide-lead-to-changes-in-the-ph-scale-of-ocean-water
 ---
 
 &nbsp;

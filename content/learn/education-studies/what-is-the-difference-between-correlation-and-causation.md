@@ -2,8 +2,10 @@
 _schema: default
 id: 165156
 date: 2025-01-28
-title: What is the difference between correlation and causation?
-article_title: What is the difference between correlation and causation?
+title: >-
+    What is the difference between correlation and causation?
+article_title: >-
+    What is the difference between correlation and causation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-correlation-and-causation.md
 url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
 score: -1.0
 related_article1:
-    id: 165160
-    title: What are the main characteristics of observational studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-observational-studies
-related_article2:
-    id: 165167
-    title: What are the essential steps in formulating a hypothesis for an experiment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-steps-in-formulating-a-hypothesis-for-an-experiment
-related_article3:
-    id: 165167
-    title: What are the essential steps in formulating a hypothesis for an experiment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-steps-in-formulating-a-hypothesis-for-an-experiment
-related_article4:
-    id: 165162
-    title: How can you debug and test code in SciToolkit?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-debug-and-test-code-in-scitoolkit
-related_article5:
     id: 165165
-    title: What factors should be considered when evaluating the validity of statistical claims?
+    title: >-
+        What factors should be considered when evaluating the validity of statistical claims?
     subject: Education Studies
     url: /learn/education-studies/questions/what-factors-should-be-considered-when-evaluating-the-validity-of-statistical-claims
+related_article2:
+    id: 165163
+    title: >-
+        What are the different types of survey questions that can be designed for data collection?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-survey-questions-that-can-be-designed-for-data-collection
+related_article3:
+    id: 165166
+    title: >-
+        How can alternative explanations be explored when analyzing causal claims?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-alternative-explanations-be-explored-when-analyzing-causal-claims
+related_article4:
+    id: 165163
+    title: >-
+        What are the different types of survey questions that can be designed for data collection?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-survey-questions-that-can-be-designed-for-data-collection
+related_article5:
+    id: 165153
+    title: >-
+        How can SciToolkit be used for experimentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-scitoolkit-be-used-for-experimentation
 ---
 
 &nbsp;

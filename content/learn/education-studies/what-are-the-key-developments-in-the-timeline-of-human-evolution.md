@@ -2,8 +2,10 @@
 _schema: default
 id: 168382
 date: 2025-02-03
-title: What are the key developments in the timeline of human evolution?
-article_title: What are the key developments in the timeline of human evolution?
+title: >-
+    What are the key developments in the timeline of human evolution?
+article_title: >-
+    What are the key developments in the timeline of human evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-developments-in-the-timeline-of-human-evolution.md
 url: /learn/education-studies/questions/what-are-the-key-developments-in-the-timeline-of-human-evolution
 score: -1.0
 related_article1:
-    id: 168390
-    title: How does genetic data help in tracing human migration patterns?
+    id: 168395
+    title: >-
+        What types of historical evidence are used to study past societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
+    url: /learn/education-studies/questions/what-types-of-historical-evidence-are-used-to-study-past-societies
 related_article2:
-    id: 168391
-    title: What role did kinship play in the social structures of early societies?
+    id: 168383
+    title: >-
+        How did nomadic societies adapt to their environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
+    url: /learn/education-studies/questions/how-did-nomadic-societies-adapt-to-their-environments
 related_article3:
-    id: 168393
-    title: How did prehistoric societies adapt to environmental changes?
+    id: 168380
+    title: >-
+        How did early metallurgical practices impact ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
+    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
 related_article4:
-    id: 168378
-    title: How do cultural and physical anthropology differ in their study of human societies?
+    id: 168392
+    title: >-
+        How did hunting and gathering societies organize themselves socially?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
+    url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
 related_article5:
-    id: 168384
-    title: What were the major impacts of the development and spread of agriculture on societies?
+    id: 168394
+    title: >-
+        What can artifacts and symbolism tell us about prehistoric societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
+    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
 ---
 
 &nbsp;

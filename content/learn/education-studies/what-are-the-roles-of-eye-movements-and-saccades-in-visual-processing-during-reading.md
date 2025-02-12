@@ -2,8 +2,10 @@
 _schema: default
 id: 165579
 date: 2025-01-29
-title: What are the roles of eye movements and saccades in visual processing during reading?
-article_title: What are the roles of eye movements and saccades in visual processing during reading?
+title: >-
+    What are the roles of eye movements and saccades in visual processing during reading?
+article_title: >-
+    What are the roles of eye movements and saccades in visual processing during reading?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing
 url: /learn/education-studies/questions/what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing-during-reading
 score: -1.0
 related_article1:
-    id: 165614
-    title: What are effective pre-reading techniques for developing questions?
+    id: 165591
+    title: >-
+        How do regressions in reading impact comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-prereading-techniques-for-developing-questions
+    url: /learn/education-studies/questions/how-do-regressions-in-reading-impact-comprehension
 related_article2:
-    id: 165586
-    title: How does subvocalization affect reading comprehension?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-subvocalization-affect-reading-comprehension
-related_article3:
-    id: 165609
-    title: How can effective review strategies enhance information retention?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-effective-review-strategies-enhance-information-retention
-related_article4:
-    id: 165616
-    title: What are the benefits of summarizing key points in reading comprehension?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-summarizing-key-points-in-reading-comprehension
-related_article5:
     id: 165615
-    title: How can note-taking enhance reading comprehension?
+    title: >-
+        How can note-taking enhance reading comprehension?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-notetaking-enhance-reading-comprehension
+related_article3:
+    id: 165615
+    title: >-
+        How can note-taking enhance reading comprehension?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-notetaking-enhance-reading-comprehension
+related_article4:
+    id: 165606
+    title: >-
+        What strategies can be used to avoid daydreaming while reading?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-avoid-daydreaming-while-reading
+related_article5:
+    id: 165612
+    title: >-
+        What are the key concepts to identify in text structure analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-concepts-to-identify-in-text-structure-analysis
 ---
 
 &nbsp;

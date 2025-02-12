@@ -2,8 +2,10 @@
 _schema: default
 id: 161044
 date: 2025-01-24
-title: What is the role of simulation models in computer simulation?
-article_title: What is the role of simulation models in computer simulation?
+title: >-
+    What is the role of simulation models in computer simulation?
+article_title: >-
+    What is the role of simulation models in computer simulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-simulation-models-in-computer-simulation.md
 url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
 score: -1.0
 related_article1:
+    id: 161033
+    title: >-
+        What are the key components of computational problem solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-components-of-computational-problem-solving
+related_article2:
+    id: 160723
+    title: >-
+        How is cryptography used to ensure information security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+related_article3:
     id: 161048
-    title: What is the significance of cache design in computer architecture?
+    title: >-
+        What is the significance of cache design in computer architecture?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-cache-design-in-computer-architecture
-related_article2:
-    id: 161041
-    title: What measures can be taken to enhance network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
-related_article3:
-    id: 160715
-    title: What measures can be taken to enhance network security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
 related_article4:
-    id: 161038
-    title: What are the primary functions of database management systems?
+    id: 160730
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
+    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
 related_article5:
-    id: 160724
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    id: 161040
+    title: >-
+        What are the essential elements of network architecture?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
+    url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
 ---
 
 &nbsp;

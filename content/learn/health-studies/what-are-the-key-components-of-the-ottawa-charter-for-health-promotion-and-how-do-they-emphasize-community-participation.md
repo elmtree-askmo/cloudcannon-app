@@ -2,8 +2,10 @@
 _schema: default
 id: 162351
 date: 2025-01-25
-title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
-article_title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
+title: >-
+    What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
+article_title: >-
+    What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-key-components-of-the-ottawa-charter-for-health-promotio
 url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
 score: -1.0
 related_article1:
-    id: 162347
-    title: What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
+    id: 162344
+    title: >-
+        How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
+    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
 related_article2:
+    id: 162335
+    title: >-
+        What new public health policies were introduced to manage tuberculosis during the 1930s?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-new-public-health-policies-were-introduced-to-manage-tuberculosis-during-the-1930s
+related_article3:
     id: 162352
-    title: What contributions did Ron Draper make to health promotion and public health leadership?
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
     url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
-related_article3:
-    id: 162336
-    title: What were the key nutrition initiatives and food safety programs expanded during World War II?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
 related_article4:
-    id: 162350
-    title: How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
+    id: 162348
+    title: >-
+        How did the 1985 Non-Smokers Health Act address smoking prohibition in federal buildings and workplaces?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
-related_article5:
-    id: 162333
-    title: What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-was-the-role-of-charitable-organizations-in-responding-to-tuberculosis-and-polio-control-efforts-in-the-1920s
+    url: /learn/health-studies/questions/how-did-the-1985-nonsmokers-health-act-address-smoking-prohibition-in-federal-buildings-and-workplaces
 ---
 
 &nbsp;

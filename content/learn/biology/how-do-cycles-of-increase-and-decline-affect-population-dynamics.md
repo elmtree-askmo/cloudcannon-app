@@ -2,8 +2,10 @@
 _schema: default
 id: 170803
 date: 2025-02-07
-title: How do cycles of increase and decline affect population dynamics?
-article_title: How do cycles of increase and decline affect population dynamics?
+title: >-
+    How do cycles of increase and decline affect population dynamics?
+article_title: >-
+    How do cycles of increase and decline affect population dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-cycles-of-increase-and-decline-affect-population-dynamics.md
 url: /learn/biology/questions/how-do-cycles-of-increase-and-decline-affect-population-dynamics
 score: -1.0
 related_article1:
-    id: 170802
-    title: What role do population dynamics play in the interaction of strategies?
+    id: 170797
+    title: >-
+        What is meant by equilibrium frequency in the context of fitness dynamics?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
+    url: /learn/biology/questions/what-is-meant-by-equilibrium-frequency-in-the-context-of-fitness-dynamics
 related_article2:
-    id: 170808
-    title: What factors influence the development and adaptation of evolutionary strategies?
-    subject: Biology
-    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
-related_article3:
     id: 170805
-    title: How can equilibrium points be determined in the context of strategy success?
+    title: >-
+        How can equilibrium points be determined in the context of strategy success?
     subject: Biology
     url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
-related_article4:
-    id: 170800
-    title: What are the characteristics of a pure strategy in evolutionary games?
+related_article3:
+    id: 170806
+    title: >-
+        What role does phenotypic variation play in evolutionary strategies?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+    url: /learn/biology/questions/what-role-does-phenotypic-variation-play-in-evolutionary-strategies
+related_article4:
+    id: 170809
+    title: >-
+        How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article5:
+    id: 170799
+    title: >-
+        In what situations might a mixed strategy be more advantageous than a pure strategy?
+    subject: Biology
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
 ---
 
 &nbsp;

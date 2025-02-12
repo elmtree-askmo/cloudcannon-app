@@ -2,8 +2,10 @@
 _schema: default
 id: 166297
 date: 2025-01-30
-title: What viral infections are associated with an increased risk of leukemia?
-article_title: What viral infections are associated with an increased risk of leukemia?
+title: >-
+    What viral infections are associated with an increased risk of leukemia?
+article_title: >-
+    What viral infections are associated with an increased risk of leukemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-viral-infections-are-associated-with-an-increased-risk-of-leukem
 url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
 score: -1.0
 related_article1:
-    id: 166314
-    title: How is anemia diagnosed and treated?
+    id: 166290
+    title: >-
+        How does pancytopenia manifest in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-anemia-diagnosed-and-treated
+    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
 related_article2:
-    id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
+    id: 166290
+    title: >-
+        How does pancytopenia manifest in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
+    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
 related_article3:
-    id: 166303
-    title: What is the purpose of the maintenance phase in leukemia treatment?
+    id: 166312
+    title: >-
+        How does monoclonal antibody therapy work in treating lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
 related_article4:
-    id: 166316
-    title: How is thrombocytopenia diagnosed and treated?
+    id: 166299
+    title: >-
+        What systemic symptoms are commonly observed in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
+    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 related_article5:
-    id: 166313
-    title: What are the common causes and symptoms of anemia?
+    id: 166289
+    title: >-
+        What are the key changes in the bone marrow associated with leukemia pathophysiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
+    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
 ---
 
 &nbsp;

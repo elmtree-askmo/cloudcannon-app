@@ -2,8 +2,10 @@
 _schema: default
 id: 165049
 date: 2025-01-28
-title: What is the role of metadata management in data governance?
-article_title: What is the role of metadata management in data governance?
+title: >-
+    What is the role of metadata management in data governance?
+article_title: >-
+    What is the role of metadata management in data governance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-metadata-management-in-data-governance.md
 url: /learn/education-studies/questions/what-is-the-role-of-metadata-management-in-data-governance
 score: -1.0
 related_article1:
-    id: 165043
-    title: What is the function of reward systems in reinforcement learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
-related_article2:
-    id: 165041
-    title: What are the best practices for ensuring clarity and simplicity in data visualization?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-ensuring-clarity-and-simplicity-in-data-visualization
-related_article3:
-    id: 165037
-    title: What is the role of interaction design in character implementation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-interaction-design-in-character-implementation
-related_article4:
     id: 165028
-    title: What role do programming languages play in data analysis?
+    title: >-
+        What role do programming languages play in data analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-programming-languages-play-in-data-analysis
-related_article5:
-    id: 165029
-    title: How is business intelligence applied in data analysis?
+related_article2:
+    id: 165038
+    title: >-
+        What distinguishes rational decision-making from intuitive decision-making?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-business-intelligence-applied-in-data-analysis
+    url: /learn/education-studies/questions/what-distinguishes-rational-decisionmaking-from-intuitive-decisionmaking
+related_article3:
+    id: 165039
+    title: >-
+        How is a decision tree used in the decision-making process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-a-decision-tree-used-in-the-decisionmaking-process
+related_article4:
+    id: 165053
+    title: >-
+        How do MOOC platforms differ from corporate training solutions in learning platforms?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-mooc-platforms-differ-from-corporate-training-solutions-in-learning-platforms
+related_article5:
+    id: 165053
+    title: >-
+        How do MOOC platforms differ from corporate training solutions in learning platforms?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-mooc-platforms-differ-from-corporate-training-solutions-in-learning-platforms
 ---
 
 &nbsp;

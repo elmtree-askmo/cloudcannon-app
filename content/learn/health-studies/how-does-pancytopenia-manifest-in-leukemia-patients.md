@@ -2,8 +2,10 @@
 _schema: default
 id: 166290
 date: 2025-01-30
-title: How does pancytopenia manifest in leukemia patients?
-article_title: How does pancytopenia manifest in leukemia patients?
+title: >-
+    How does pancytopenia manifest in leukemia patients?
+article_title: >-
+    How does pancytopenia manifest in leukemia patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-pancytopenia-manifest-in-leukemia-patients.md
 url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
 score: -1.0
 related_article1:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    id: 166311
+    title: >-
+        What is the role of chemotherapy in the treatment of lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
 related_article2:
     id: 166299
-    title: What systemic symptoms are commonly observed in leukemia patients?
+    title: >-
+        What systemic symptoms are commonly observed in leukemia patients?
     subject: Health Studies
     url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 related_article3:
-    id: 166314
-    title: How is anemia diagnosed and treated?
+    id: 166300
+    title: >-
+        How does organ infiltration present in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-anemia-diagnosed-and-treated
+    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
 related_article4:
-    id: 166315
-    title: What are the causes and symptoms of leukopenia and neutropenia?
+    id: 166289
+    title: >-
+        What are the key changes in the bone marrow associated with leukemia pathophysiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
 related_article5:
-    id: 166308
-    title: What are the clinical manifestations of lymph node enlargement in lymphoma?
+    id: 166313
+    title: >-
+        What are the common causes and symptoms of anemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
 ---
 
 &nbsp;

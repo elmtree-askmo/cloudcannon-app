@@ -2,8 +2,10 @@
 _schema: default
 id: 170047
 date: 2025-02-05
-title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
-article_title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+title: >-
+    How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+article_title: >-
+    How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-resource-use-and-environmental-impact-of-agricultural-soc
 url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
 score: -1.0
 related_article1:
-    id: 170049
-    title: What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
-related_article2:
-    id: 170034
-    title: How should quotations be incorporated into writing assignments to support arguments effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
-related_article3:
-    id: 170037
-    title: What are some effective techniques for paraphrasing to avoid direct copying?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-paraphrasing-to-avoid-direct-copying
-related_article4:
-    id: 170041
-    title: How does Voice Thread technology enhance student engagement and facilitate discussion in class?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-voice-thread-technology-enhance-student-engagement-and-facilitate-discussion-in-class
-related_article5:
     id: 170040
-    title: What is the difference between quoting and paraphrasing when engaging with primary source documents?
+    title: >-
+        What is the difference between quoting and paraphrasing when engaging with primary source documents?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
+related_article2:
+    id: 170042
+    title: >-
+        What are the characteristics of hunting and gathering societies in terms of population density and food resources?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
+related_article3:
+    id: 170042
+    title: >-
+        What are the characteristics of hunting and gathering societies in terms of population density and food resources?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
+related_article4:
+    id: 170039
+    title: >-
+        Why are primary source documents important in historical assignments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-are-primary-source-documents-important-in-historical-assignments
+related_article5:
+    id: 170055
+    title: >-
+        How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-hunting-and-gathering-practices-influence-the-longterm-ecological-balance-of-ancient-societies
 ---
 
 &nbsp;

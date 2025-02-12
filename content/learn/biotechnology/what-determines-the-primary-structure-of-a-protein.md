@@ -2,8 +2,10 @@
 _schema: default
 id: 166958
 date: 2025-01-31
-title: What determines the primary structure of a protein?
-article_title: What determines the primary structure of a protein?
+title: >-
+    What determines the primary structure of a protein?
+article_title: >-
+    What determines the primary structure of a protein?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-determines-the-primary-structure-of-a-protein.md
 url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
 score: -1.0
 related_article1:
-    id: 166963
-    title: What environmental factors can affect protein function?
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 related_article2:
-    id: 166965
-    title: How do molecular chaperones assist in protein folding?
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 related_article3:
-    id: 166955
-    title: How do positively charged R-groups differ from negatively charged R-groups?
+    id: 166950
+    title: >-
+        What are the general functions of proteins in biological systems?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
+    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
 related_article4:
-    id: 166963
-    title: What environmental factors can affect protein function?
+    id: 166953
+    title: >-
+        How does the side chain (R-group) affect the chemical properties of an amino acid?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
+    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
 related_article5:
-    id: 166959
-    title: How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 ---
 
 &nbsp;

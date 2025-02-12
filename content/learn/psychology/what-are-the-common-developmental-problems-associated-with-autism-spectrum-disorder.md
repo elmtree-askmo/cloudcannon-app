@@ -2,8 +2,10 @@
 _schema: default
 id: 168128
 date: 2025-02-02
-title: What are the common developmental problems associated with autism spectrum disorder?
-article_title: What are the common developmental problems associated with autism spectrum disorder?
+title: >-
+    What are the common developmental problems associated with autism spectrum disorder?
+article_title: >-
+    What are the common developmental problems associated with autism spectrum disorder?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-developmental-problems-associated-with-autism-spe
 url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 score: -1.0
 related_article1:
-    id: 168120
-    title: What is relational aggression, and how does it differ from physical aggression?
+    id: 168134
+    title: >-
+        What recent trends indicate a decline in gender stereotypes?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+    url: /learn/psychology/questions/what-recent-trends-indicate-a-decline-in-gender-stereotypes
 related_article2:
+    id: 168109
+    title: >-
+        What are the key differences in computational skills between genders?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
+related_article3:
     id: 168111
-    title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    title: >-
+        What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
     subject: Psychology
     url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
-related_article3:
-    id: 168126
-    title: What are the gender differences in prenatal and perinatal vulnerability?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
 related_article4:
-    id: 168123
-    title: How do cultural variations impact the gender gap in self-esteem?
+    id: 168117
+    title: >-
+        What is spatial perception, and how does it vary by gender?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
 related_article5:
-    id: 168125
-    title: What changes in self-esteem are observed during adulthood?
+    id: 168116
+    title: >-
+        How do spatial visualization abilities differ between males and females?
     subject: Psychology
-    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163701
 date: 2025-01-27
-title: What are the characteristics of a quadratic function's graph?
-article_title: What are the characteristics of a quadratic function's graph?
+title: >-
+    What are the characteristics of a quadratic function's graph?
+article_title: >-
+    What are the characteristics of a quadratic function's graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-a-quadratic-functions-graph.md
 url: /learn/mathematics/questions/what-are-the-characteristics-of-a-quadratic-functions-graph
 score: -1.0
 related_article1:
-    id: 163709
-    title: How do positive and negative rates of change affect the behavior of a function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-positive-and-negative-rates-of-change-affect-the-behavior-of-a-function
-related_article2:
-    id: 163705
-    title: How do you choose points on a graph for accurate estimation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
-related_article3:
-    id: 163705
-    title: How do you choose points on a graph for accurate estimation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
-related_article4:
-    id: 163700
-    title: How do you determine the intervals where a quadratic function is increasing or decreasing?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-intervals-where-a-quadratic-function-is-increasing-or-decreasing
-related_article5:
     id: 163698
-    title: How can you estimate the average rate of change from a graph?
+    title: >-
+        How can you estimate the average rate of change from a graph?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-you-estimate-the-average-rate-of-change-from-a-graph
+related_article2:
+    id: 163708
+    title: >-
+        What is the significance of defining intervals when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
+related_article3:
+    id: 163708
+    title: >-
+        What is the significance of defining intervals when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
+related_article4:
+    id: 163707
+    title: >-
+        How do square root and cube root functions compare in terms of rate of change over different intervals?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
+related_article5:
+    id: 163703
+    title: >-
+        Why is mathematical modeling important in real-life situations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
 ---
 
 &nbsp;

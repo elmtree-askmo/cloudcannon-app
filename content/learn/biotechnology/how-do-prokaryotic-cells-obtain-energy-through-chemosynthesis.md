@@ -2,8 +2,10 @@
 _schema: default
 id: 170322
 date: 2025-02-06
-title: How do prokaryotic cells obtain energy through chemosynthesis?
-article_title: How do prokaryotic cells obtain energy through chemosynthesis?
+title: >-
+    How do prokaryotic cells obtain energy through chemosynthesis?
+article_title: >-
+    How do prokaryotic cells obtain energy through chemosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis.md
 url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
 score: -1.0
 related_article1:
-    id: 170326
-    title: How does fermentation serve as an alternative energy source in cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
-related_article2:
-    id: 170311
-    title: What role does the nucleolus play within the nucleus of an animal cell?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
-related_article3:
     id: 170310
-    title: How does the Golgi apparatus contribute to protein processing in animal cells?
+    title: >-
+        How does the Golgi apparatus contribute to protein processing in animal cells?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-does-the-golgi-apparatus-contribute-to-protein-processing-in-animal-cells
+related_article2:
+    id: 170324
+    title: >-
+        How does decomposition contribute to carbon release in the carbon cycle?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
+related_article3:
+    id: 170321
+    title: >-
+        What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
 related_article4:
     id: 170313
-    title: What is the primary function of the cytoskeleton in animal cells?
+    title: >-
+        What is the primary function of the cytoskeleton in animal cells?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
 related_article5:
-    id: 170316
-    title: Outline the main steps of glycolysis in cellular respiration.
+    id: 170315
+    title: >-
+        What is the role of ribosomes in plant cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
+    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
 ---
 
 &nbsp;

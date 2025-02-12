@@ -2,8 +2,10 @@
 _schema: default
 id: 159764
 date: 2025-01-23
-title: How did gender studies and colonialism influence the representation of gender and race in art?
-article_title: How did gender studies and colonialism influence the representation of gender and race in art?
+title: >-
+    How did gender studies and colonialism influence the representation of gender and race in art?
+article_title: >-
+    How did gender studies and colonialism influence the representation of gender and race in art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-gender-studies-and-colonialism-influence-the-representation-o
 url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
 score: -1.0
 related_article1:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+    id: 159787
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 related_article2:
-    id: 159761
-    title: How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
+    id: 159787
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
+    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 related_article3:
     id: 159767
-    title: How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
+    title: >-
+        How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles-and-what-were-some-key-innovations
 related_article4:
-    id: 159792
-    title: What is Orientalism in art, and how did it influence Western art?
+    id: 159796
+    title: >-
+        How did industrialization and modernization lead to changes in artistic techniques and styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-orientalism-in-art-and-how-did-it-influence-western-art
+    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles
 related_article5:
-    id: 159789
-    title: Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
+    id: 159763
+    title: >-
+        Describe the characteristics of Orientalism in art and its influence on Western art, including key artists and works.
     subject: Education Studies
-    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-figures-and-works-as-well-as-their-impact-on-the-art-world
+    url: /learn/education-studies/questions/describe-the-characteristics-of-orientalism-in-art-and-its-influence-on-western-art-including-key-artists-and-works
 ---
 
 &nbsp;

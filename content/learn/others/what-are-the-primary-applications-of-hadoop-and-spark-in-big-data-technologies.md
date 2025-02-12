@@ -2,8 +2,10 @@
 _schema: default
 id: 162365
 date: 2025-01-25
-title: What are the primary applications of Hadoop and Spark in big data technologies?
-article_title: What are the primary applications of Hadoop and Spark in big data technologies?
+title: >-
+    What are the primary applications of Hadoop and Spark in big data technologies?
+article_title: >-
+    What are the primary applications of Hadoop and Spark in big data technologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-applications-of-hadoop-and-spark-in-big-data-tec
 url: /learn/others/questions/what-are-the-primary-applications-of-hadoop-and-spark-in-big-data-technologies
 score: -1.0
 related_article1:
-    id: 162357
-    title: What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
+    id: 162711
+    title: >-
+        How do TensorFlow, Scikit-learn, and PyTorch differ in their use for machine learning?
     subject: Others
-    url: /learn/others/questions/what-are-the-core-concepts-of-artificial-intelligence-and-how-do-they-apply-to-autonomous-vehicles-and-virtual-assistants
+    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-differ-in-their-use-for-machine-learning
 related_article2:
-    id: 162841
-    title: How do relational databases differ from NoSQL databases in terms of structure and use cases?
+    id: 162730
+    title: >-
+        What are the principles of usability and accessibility in user experience design?
     subject: Others
-    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-in-terms-of-structure-and-use-cases
+    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
 related_article3:
-    id: 162783
-    title: What are the advantages of using Agile methodologies over the Waterfall model in software development?
+    id: 162353
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-advantages-of-using-agile-methodologies-over-the-waterfall-model-in-software-development
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 related_article4:
-    id: 162373
-    title: What are the best practices for responsive design and SEO optimization in web development?
+    id: 162714
+    title: >-
+        What are the best practices for creating effective data visualizations?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
 related_article5:
-    id: 162659
-    title: How do clustering, association rule learning, and anomaly detection differ in data mining?
+    id: 162661
+    title: >-
+        How do IaaS, PaaS, and SaaS differ in cloud computing service models?
     subject: Others
-    url: /learn/others/questions/how-do-clustering-association-rule-learning-and-anomaly-detection-differ-in-data-mining
+    url: /learn/others/questions/how-do-iaas-paas-and-saas-differ-in-cloud-computing-service-models
 ---
 
 &nbsp;

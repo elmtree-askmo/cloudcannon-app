@@ -2,8 +2,10 @@
 _schema: default
 id: 165336
 date: 2025-01-29
-title: Describe the process of peptide bond formation through dehydration reactions.
-article_title: Describe the process of peptide bond formation through dehydration reactions.
+title: >-
+    Describe the process of peptide bond formation through dehydration reactions.
+article_title: >-
+    Describe the process of peptide bond formation through dehydration reactions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-peptide-bond-formation-through-dehydration-re
 url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
 score: -1.0
 related_article1:
-    id: 165345
-    title: What is the significance of hydrophobic interactions among non-polar R groups in protein structure?
+    id: 165337
+    title: >-
+        How does the covalent bonding in peptide bonds compare to glycosidic linkages?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-hydrophobic-interactions-among-nonpolar-r-groups-in-protein-structure
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
 related_article2:
-    id: 165335
-    title: How do charged and uncharged side chains influence the behavior of amino acids in proteins?
+    id: 165343
+    title: >-
+        How do ionic bonds form between charged R groups in proteins?
     subject: Biology
-    url: /learn/biology/questions/how-do-charged-and-uncharged-side-chains-influence-the-behavior-of-amino-acids-in-proteins
+    url: /learn/biology/questions/how-do-ionic-bonds-form-between-charged-r-groups-in-proteins
 related_article3:
-    id: 165341
-    title: How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+    id: 165342
+    title: >-
+        What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
     subject: Biology
-    url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
 related_article4:
-    id: 165340
-    title: What types of bonds and interactions contribute to the tertiary structure of proteins?
+    id: 165334
+    title: >-
+        What are the key properties of amino acids that affect their interaction with water?
     subject: Biology
-    url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
 related_article5:
-    id: 165338
-    title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    id: 165346
+    title: >-
+        What are the structural components of a nucleotide?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
+    url: /learn/biology/questions/what-are-the-structural-components-of-a-nucleotide
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165299
 date: 2025-01-28
-title: Identify and describe the sources of genetic variation.
-article_title: Identify and describe the sources of genetic variation.
+title: >-
+    Identify and describe the sources of genetic variation.
+article_title: >-
+    Identify and describe the sources of genetic variation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: identify-and-describe-the-sources-of-genetic-variation.md
 url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 score: -1.0
 related_article1:
-    id: 165302
-    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    id: 165309
+    title: >-
+        What is the role of phylogenetic analysis in understanding evolutionary history?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
 related_article2:
-    id: 165312
-    title: Describe the process of ontogeny and its role in the development of behavior.
+    id: 165310
+    title: >-
+        How do genetic and neurobiological changes contribute to the mechanism of behavior?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
+    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
 related_article3:
-    id: 165288
-    title: How can understanding animal behavior be applied in research?
+    id: 165315
+    title: >-
+        How does individual variation in hunting strategies affect fitness and survival?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
 related_article4:
-    id: 165290
-    title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    id: 165305
+    title: >-
+        What is stabilizing selection and how does it affect a population?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
-related_article5:
-    id: 165306
-    title: Explain disruptive selection and its potential impact on a species.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
 ---
 
 &nbsp;

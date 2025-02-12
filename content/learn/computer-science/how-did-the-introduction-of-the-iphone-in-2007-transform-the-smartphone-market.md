@@ -2,8 +2,10 @@
 _schema: default
 id: 160604
 date: 2025-01-24
-title: How did the introduction of the iPhone in 2007 transform the smartphone market?
-article_title: How did the introduction of the iPhone in 2007 transform the smartphone market?
+title: >-
+    How did the introduction of the iPhone in 2007 transform the smartphone market?
+article_title: >-
+    How did the introduction of the iPhone in 2007 transform the smartphone market?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartpho
 url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
 score: -1.0
 related_article1:
-    id: 160534
-    title: What strategies did Apple use to differentiate itself from competitors in the market?
+    id: 160598
+    title: >-
+        How did the launch of the first Apple retail store impact the company's sales strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-did-apple-use-to-differentiate-itself-from-competitors-in-the-market
+    url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
 related_article2:
-    id: 160513
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
-related_article3:
-    id: 160600
-    title: How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-release-of-mac-os-x-100-cheetah-mark-a-turning-point-for-apples-operating-systems
-related_article4:
-    id: 160538
-    title: What innovations did Apple introduce with the development of lightweight notebooks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
-related_article5:
     id: 160528
-    title: What was the significance of Apple's first retail store opening in terms of consumer engagement?
+    title: >-
+        What was the significance of Apple's first retail store opening in terms of consumer engagement?
     subject: Computer Science
     url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
+related_article3:
+    id: 160421
+    title: >-
+        What was the significance of the release of Mac OS X 10.0 Cheetah?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-was-the-significance-of-the-release-of-mac-os-x-100-cheetah
+related_article4:
+    id: 160535
+    title: >-
+        How did advances in display technology contribute to technological advancements in computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-advances-in-display-technology-contribute-to-technological-advancements-in-computing
+related_article5:
+    id: 160434
+    title: >-
+        What were the key technological advancements in computing that Apple contributed to in the early 2000s?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-key-technological-advancements-in-computing-that-apple-contributed-to-in-the-early-2000s
 ---
 
 &nbsp;

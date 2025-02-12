@@ -2,8 +2,10 @@
 _schema: default
 id: 166057
 date: 2025-01-29
-title: How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
-article_title: How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
+title: >-
+    How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
+article_title: >-
+    How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-roman-perspectives-such-as-caesars-narratives-shape-the-histo
 url: /learn/others/questions/how-did-roman-perspectives-such-as-caesars-narratives-shape-the-historical-accounts-of-the-celts
 score: -1.0
 related_article1:
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
+    subject: Others
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
+related_article2:
+    id: 166049
+    title: >-
+        Why were Druids exempt from war, and what was the significance of their oral tradition?
+    subject: Others
+    url: /learn/others/questions/why-were-druids-exempt-from-war-and-what-was-the-significance-of-their-oral-tradition
+related_article3:
     id: 166047
-    title: What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
+    title: >-
+        What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
     subject: Others
     url: /learn/others/questions/what-influence-did-posidonius-have-on-caesars-ethnographic-descriptions-in-de-bello-gallico
-related_article2:
-    id: 166053
-    title: What were the main interactions between Celtic tribes and Romans?
-    subject: Others
-    url: /learn/others/questions/what-were-the-main-interactions-between-celtic-tribes-and-romans
-related_article3:
-    id: 166054
-    title: What were the religious beliefs of the Celts regarding human sacrifice?
-    subject: Others
-    url: /learn/others/questions/what-were-the-religious-beliefs-of-the-celts-regarding-human-sacrifice
 related_article4:
-    id: 166052
-    title: How did the social hierarchy of Celtic tribes function?
-    subject: Others
-    url: /learn/others/questions/how-did-the-social-hierarchy-of-celtic-tribes-function
-related_article5:
     id: 166053
-    title: What were the main interactions between Celtic tribes and Romans?
+    title: >-
+        What were the main interactions between Celtic tribes and Romans?
     subject: Others
     url: /learn/others/questions/what-were-the-main-interactions-between-celtic-tribes-and-romans
+related_article5:
+    id: 166042
+    title: >-
+        What was the significance of the First Triumvirate in Julius Caesar's political alliances?
+    subject: Others
+    url: /learn/others/questions/what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-political-alliances
 ---
 
 &nbsp;

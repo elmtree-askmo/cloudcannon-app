@@ -2,8 +2,10 @@
 _schema: default
 id: 169898
 date: 2025-02-05
-title: Why is GDP an important measure of economic growth and how do policies affect it?
-article_title: Why is GDP an important measure of economic growth and how do policies affect it?
+title: >-
+    Why is GDP an important measure of economic growth and how do policies affect it?
+article_title: >-
+    Why is GDP an important measure of economic growth and how do policies affect it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-gdp-an-important-measure-of-economic-growth-and-how-do-policie
 url: /learn/economics/questions/why-is-gdp-an-important-measure-of-economic-growth-and-how-do-policies-affect-it
 score: -1.0
 related_article1:
-    id: 169900
-    title: How do private and public banking systems influence borrowing and lending practices?
+    id: 169902
+    title: >-
+        How do major economies influence global economic power dynamics and strategies?
     subject: Economics
-    url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
+    url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
 related_article2:
-    id: 169892
-    title: What are the primary indicators of a recession in an economy?
-    subject: Economics
-    url: /learn/economics/questions/what-are-the-primary-indicators-of-a-recession-in-an-economy
-related_article3:
     id: 169886
-    title: What role does consumer surplus play in online bargaining platforms like eBay?
+    title: >-
+        What role does consumer surplus play in online bargaining platforms like eBay?
     subject: Economics
     url: /learn/economics/questions/what-role-does-consumer-surplus-play-in-online-bargaining-platforms-like-ebay
-related_article4:
-    id: 169887
-    title: How does bargaining impact consumer surplus in economic transactions?
-    subject: Economics
-    url: /learn/economics/questions/how-does-bargaining-impact-consumer-surplus-in-economic-transactions
-related_article5:
+related_article3:
     id: 169884
-    title: What are the key cultural differences in bargaining practices across different countries?
+    title: >-
+        What are the key cultural differences in bargaining practices across different countries?
     subject: Economics
     url: /learn/economics/questions/what-are-the-key-cultural-differences-in-bargaining-practices-across-different-countries
+related_article4:
+    id: 169892
+    title: >-
+        What are the primary indicators of a recession in an economy?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-indicators-of-a-recession-in-an-economy
+related_article5:
+    id: 169895
+    title: >-
+        How do political economy strategies influence global economic supremacy?
+    subject: Economics
+    url: /learn/economics/questions/how-do-political-economy-strategies-influence-global-economic-supremacy
 ---
 
 &nbsp;

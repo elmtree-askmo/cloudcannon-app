@@ -2,8 +2,10 @@
 _schema: default
 id: 168945
 date: 2025-02-04
-title: How do polar and non-polar groups affect the solubility and interaction of biomolecules?
-article_title: How do polar and non-polar groups affect the solubility and interaction of biomolecules?
+title: >-
+    How do polar and non-polar groups affect the solubility and interaction of biomolecules?
+article_title: >-
+    How do polar and non-polar groups affect the solubility and interaction of biomolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interactio
 url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
 score: -1.0
 related_article1:
-    id: 168953
-    title: Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
-    subject: Health Studies
-    url: /learn/health-studies/questions/discuss-the-effects-of-cholesterol-on-membrane-fluidity-at-high-and-low-temperatures
-related_article2:
-    id: 168948
-    title: Describe the structure and components of phospholipids and their role in membrane formation.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-components-of-phospholipids-and-their-role-in-membrane-formation
-related_article3:
-    id: 168948
-    title: Describe the structure and components of phospholipids and their role in membrane formation.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-components-of-phospholipids-and-their-role-in-membrane-formation
-related_article4:
     id: 168949
-    title: How do saturated and unsaturated fatty acids influence membrane fluidity?
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
-related_article5:
-    id: 168960
-    title: Define endocytosis and exocytosis and explain their roles in cellular transport.
+related_article2:
+    id: 168949
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
     subject: Health Studies
-    url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
+    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
+related_article3:
+    id: 168955
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
+    subject: Health Studies
+    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
+related_article4:
+    id: 168959
+    title: >-
+        What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-is-it-necessary-for-cellular-function
 ---
 
 &nbsp;

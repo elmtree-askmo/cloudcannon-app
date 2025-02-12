@@ -2,8 +2,10 @@
 _schema: default
 id: 170325
 date: 2025-02-06
-title: What is the role of chlorophyll in photosynthesis?
-article_title: What is the role of chlorophyll in photosynthesis?
+title: >-
+    What is the role of chlorophyll in photosynthesis?
+article_title: >-
+    What is the role of chlorophyll in photosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-chlorophyll-in-photosynthesis.md
 url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
 score: -1.0
 related_article1:
-    id: 170315
-    title: What is the role of ribosomes in plant cells?
+    id: 170319
+    title: >-
+        Compare the membrane structure of chloroplasts and mitochondria.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+    url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
 related_article2:
-    id: 170320
-    title: What are the main functional differences between photosynthesis and cellular respiration?
+    id: 170324
+    title: >-
+        How does decomposition contribute to carbon release in the carbon cycle?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
 related_article3:
+    id: 170321
+    title: >-
+        What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
+related_article4:
     id: 170316
-    title: Outline the main steps of glycolysis in cellular respiration.
+    title: >-
+        Outline the main steps of glycolysis in cellular respiration.
     subject: Biotechnology
     url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
-related_article4:
-    id: 170310
-    title: How does the Golgi apparatus contribute to protein processing in animal cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-golgi-apparatus-contribute-to-protein-processing-in-animal-cells
 related_article5:
-    id: 170322
-    title: How do prokaryotic cells obtain energy through chemosynthesis?
+    id: 170312
+    title: >-
+        Describe the function of mitochondria in animal cells.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-prokaryotic-cells-obtain-energy-through-chemosynthesis
+    url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
 ---
 
 &nbsp;

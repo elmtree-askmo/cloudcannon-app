@@ -2,8 +2,10 @@
 _schema: default
 id: 165144
 date: 2025-01-28
-title: What negative impacts can video games have on stress levels?
-article_title: What negative impacts can video games have on stress levels?
+title: >-
+    What negative impacts can video games have on stress levels?
+article_title: >-
+    What negative impacts can video games have on stress levels?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-negative-impacts-can-video-games-have-on-stress-levels.md
 url: /learn/education-studies/questions/what-negative-impacts-can-video-games-have-on-stress-levels
 score: -1.0
 related_article1:
-    id: 165137
-    title: What are the advantages of using a between-subjects design in research?
+    id: 165140
+    title: >-
+        How do SPSS and R differ as software tools for statistical analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
+    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
 related_article2:
-    id: 165151
-    title: How do regression analysis and ANOVA differ in quantitative data analysis?
+    id: 165141
+    title: >-
+        What role does dopamine play in stress and behavior?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-role-does-dopamine-play-in-stress-and-behavior
 related_article3:
-    id: 165122
-    title: What are the key differences between surveys, observations, and experiments in data collection?
+    id: 165133
+    title: >-
+        What strategies can be used to mitigate participant bias in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-surveys-observations-and-experiments-in-data-collection
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-mitigate-participant-bias-in-research
 related_article4:
-    id: 165125
-    title: How can task management and progress tracking be effectively executed in project management?
+    id: 165128
+    title: >-
+        What is simple randomization, and where is it typically applied?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-task-management-and-progress-tracking-be-effectively-executed-in-project-management
+    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
 related_article5:
-    id: 165135
-    title: What is the purpose of using control groups in experimental research?
+    id: 165138
+    title: >-
+        What are the benefits of a within-subjects design compared to a between-subjects design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
+    url: /learn/education-studies/questions/what-are-the-benefits-of-a-withinsubjects-design-compared-to-a-betweensubjects-design
 ---
 
 &nbsp;

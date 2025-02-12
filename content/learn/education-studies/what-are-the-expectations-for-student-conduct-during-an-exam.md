@@ -2,8 +2,10 @@
 _schema: default
 id: 168225
 date: 2025-02-03
-title: What are the expectations for student conduct during an exam?
-article_title: What are the expectations for student conduct during an exam?
+title: >-
+    What are the expectations for student conduct during an exam?
+article_title: >-
+    What are the expectations for student conduct during an exam?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-expectations-for-student-conduct-during-an-exam.md
 url: /learn/education-studies/questions/what-are-the-expectations-for-student-conduct-during-an-exam
 score: -1.0
 related_article1:
+    id: 168232
+    title: >-
+        What roles do invigilators play in supervising an exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
+related_article2:
     id: 168233
-    title: What criteria are used in the grading rubric for assessments?
+    title: >-
+        What criteria are used in the grading rubric for assessments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
-related_article2:
-    id: 168226
-    title: How should students handle writing on exam sheets?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
 related_article3:
-    id: 168219
-    title: What are the key responsibilities of an invigilator during the exam?
+    id: 168232
+    title: >-
+        What roles do invigilators play in supervising an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-an-invigilator-during-the-exam
+    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
 related_article4:
-    id: 168217
-    title: What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+    id: 168233
+    title: >-
+        What criteria are used in the grading rubric for assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
+    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
 related_article5:
-    id: 168226
-    title: How should students handle writing on exam sheets?
+    id: 168227
+    title: >-
+        What should be included in pre-exam announcements to students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
+    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
 ---
 
 &nbsp;

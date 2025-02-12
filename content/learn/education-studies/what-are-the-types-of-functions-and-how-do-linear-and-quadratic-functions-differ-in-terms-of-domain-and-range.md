@@ -2,8 +2,10 @@
 _schema: default
 id: 169310
 date: 2025-02-05
-title: What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
-article_title: What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
+title: >-
+    What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
+article_title: >-
+    What are the types of functions, and how do linear and quadratic functions differ in terms of domain and range?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-types-of-functions-and-how-do-linear-and-quadratic-funct
 url: /learn/education-studies/questions/what-are-the-types-of-functions-and-how-do-linear-and-quadratic-functions-differ-in-terms-of-domain-and-range
 score: -1.0
 related_article1:
+    id: 169307
+    title: >-
+        What techniques are used in graphical analysis to understand limits and visualize derivatives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-are-used-in-graphical-analysis-to-understand-limits-and-visualize-derivatives
+related_article2:
     id: 169298
-    title: What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
+    title: >-
+        What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-characteristics-of-rational-functions-and-how-do-they-exhibit-asymptotic-behavior
-related_article2:
-    id: 169289
-    title: How can the behavior of continuous functions be analyzed graphically?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-behavior-of-continuous-functions-be-analyzed-graphically
 related_article3:
-    id: 169292
-    title: What is the difference between left-hand and right-hand limits in calculus?
+    id: 169306
+    title: >-
+        How can the behavior of functions be analyzed through their graphs, focusing on increasing and decreasing intervals?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
+    url: /learn/education-studies/questions/how-can-the-behavior-of-functions-be-analyzed-through-their-graphs-focusing-on-increasing-and-decreasing-intervals
 related_article4:
-    id: 169287
-    title: How are vectors used in physics and engineering applications?
+    id: 169291
+    title: >-
+        How do piecewise functions and absolute value functions illustrate discontinuous behavior?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-used-in-physics-and-engineering-applications
+    url: /learn/education-studies/questions/how-do-piecewise-functions-and-absolute-value-functions-illustrate-discontinuous-behavior
 related_article5:
-    id: 169292
-    title: What is the difference between left-hand and right-hand limits in calculus?
+    id: 169290
+    title: >-
+        What are jump discontinuities and infinite discontinuities in functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
+    url: /learn/education-studies/questions/what-are-jump-discontinuities-and-infinite-discontinuities-in-functions
 ---
 
 &nbsp;

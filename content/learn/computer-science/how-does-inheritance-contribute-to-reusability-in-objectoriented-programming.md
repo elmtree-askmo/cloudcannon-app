@@ -2,8 +2,10 @@
 _schema: default
 id: 168609
 date: 2025-02-03
-title: How does inheritance contribute to reusability in object-oriented programming?
-article_title: How does inheritance contribute to reusability in object-oriented programming?
+title: >-
+    How does inheritance contribute to reusability in object-oriented programming?
+article_title: >-
+    How does inheritance contribute to reusability in object-oriented programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-inheritance-contribute-to-reusability-in-objectoriented-prog
 url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 score: -1.0
 related_article1:
-    id: 168594
-    title: What is the effect of defining a variable inside a function in terms of scope?
+    id: 168607
+    title: >-
+        What is modular programming and how does it enhance reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
 related_article2:
-    id: 168598
-    title: What is the difference between positional and keyword parameters in Python functions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
-related_article3:
-    id: 168608
-    title: What is encapsulation in object-oriented programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
-related_article4:
     id: 168592
-    title: How can you use the math module to calculate the square root of a number?
+    title: >-
+        How can you use the math module to calculate the square root of a number?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
-related_article5:
-    id: 168600
-    title: What is a function docstring and why is it important?
+related_article3:
+    id: 168595
+    title: >-
+        How do local variables differ from global variables in terms of accessibility?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
+    url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
+related_article4:
+    id: 168596
+    title: >-
+        What is the purpose of using the try...except statement in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+related_article5:
+    id: 168594
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 ---
 
 &nbsp;

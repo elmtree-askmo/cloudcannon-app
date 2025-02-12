@@ -2,8 +2,10 @@
 _schema: default
 id: 167612
 date: 2025-01-31
-title: Why is basic chemistry important in understanding biological processes?
-article_title: Why is basic chemistry important in understanding biological processes?
+title: >-
+    Why is basic chemistry important in understanding biological processes?
+article_title: >-
+    Why is basic chemistry important in understanding biological processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-basic-chemistry-important-in-understanding-biological-processe
 url: /learn/education-studies/questions/why-is-basic-chemistry-important-in-understanding-biological-processes
 score: -1.0
 related_article1:
-    id: 167618
-    title: What strategies can be used to build a supportive community that encourages peer interaction?
+    id: 167614
+    title: >-
+        What role do peer educators and coaches play in individualized academic success plans?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-a-supportive-community-that-encourages-peer-interaction
+    url: /learn/education-studies/questions/what-role-do-peer-educators-and-coaches-play-in-individualized-academic-success-plans
 related_article2:
-    id: 167602
-    title: How can students effectively schedule and utilize weekend and online support for tutoring?
+    id: 167601
+    title: >-
+        What are the benefits of tutoring and peer coaching in academic success services?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-schedule-and-utilize-weekend-and-online-support-for-tutoring
+    url: /learn/education-studies/questions/what-are-the-benefits-of-tutoring-and-peer-coaching-in-academic-success-services
 related_article3:
-    id: 167616
-    title: What are the benefits of having designated study spaces on campus?
+    id: 167615
+    title: >-
+        How can online support services be accessed and utilized effectively by students?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-having-designated-study-spaces-on-campus
+    url: /learn/education-studies/questions/how-can-online-support-services-be-accessed-and-utilized-effectively-by-students
 related_article4:
-    id: 167618
-    title: What strategies can be used to build a supportive community that encourages peer interaction?
+    id: 167613
+    title: >-
+        How do chemical reactions in cells relate to the laws of chemistry and physics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-a-supportive-community-that-encourages-peer-interaction
+    url: /learn/education-studies/questions/how-do-chemical-reactions-in-cells-relate-to-the-laws-of-chemistry-and-physics
 related_article5:
-    id: 167602
-    title: How can students effectively schedule and utilize weekend and online support for tutoring?
+    id: 167613
+    title: >-
+        How do chemical reactions in cells relate to the laws of chemistry and physics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-schedule-and-utilize-weekend-and-online-support-for-tutoring
+    url: /learn/education-studies/questions/how-do-chemical-reactions-in-cells-relate-to-the-laws-of-chemistry-and-physics
 ---
 
 &nbsp;

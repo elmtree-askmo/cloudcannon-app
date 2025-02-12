@@ -2,8 +2,10 @@
 _schema: default
 id: 164112
 date: 2025-01-28
-title: What are the stages of degree progression, and what are the research requirements for each?
-article_title: What are the stages of degree progression, and what are the research requirements for each?
+title: >-
+    What are the stages of degree progression, and what are the research requirements for each?
+article_title: >-
+    What are the stages of degree progression, and what are the research requirements for each?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-stages-of-degree-progression-and-what-are-the-research-r
 url: /learn/education-studies/questions/what-are-the-stages-of-degree-progression-and-what-are-the-research-requirements-for-each
 score: -1.0
 related_article1:
-    id: 164096
-    title: How does identifying bias contribute to critical thinking?
+    id: 164105
+    title: >-
+        What are the benefits of joining a university research community?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-identifying-bias-contribute-to-critical-thinking
+    url: /learn/education-studies/questions/what-are-the-benefits-of-joining-a-university-research-community
 related_article2:
-    id: 164098
-    title: How can goal setting and monitoring progress improve learning outcomes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-goal-setting-and-monitoring-progress-improve-learning-outcomes
-related_article3:
-    id: 164108
-    title: How does email etiquette impact professional written communication?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-email-etiquette-impact-professional-written-communication
-related_article4:
-    id: 164113
-    title: How can reflective writing be used to learn from personal experiences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-be-used-to-learn-from-personal-experiences
-related_article5:
     id: 164104
-    title: How can practice tests contribute to better exam preparation?
+    title: >-
+        How can practice tests contribute to better exam preparation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-practice-tests-contribute-to-better-exam-preparation
+related_article3:
+    id: 164110
+    title: >-
+        What skills are essential for adapting to new technologies in lifelong learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-skills-are-essential-for-adapting-to-new-technologies-in-lifelong-learning
+related_article4:
+    id: 164103
+    title: >-
+        What are some effective techniques for managing time during exams?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-managing-time-during-exams
+related_article5:
+    id: 164094
+    title: >-
+        How can visual aids be used effectively to engage an audience during a presentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-visual-aids-be-used-effectively-to-engage-an-audience-during-a-presentation
 ---
 
 &nbsp;

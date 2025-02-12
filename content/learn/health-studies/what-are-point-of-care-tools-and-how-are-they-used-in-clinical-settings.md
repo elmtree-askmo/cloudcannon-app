@@ -2,8 +2,10 @@
 _schema: default
 id: 163262
 date: 2025-01-26
-title: What are point of care tools and how are they used in clinical settings?
-article_title: What are point of care tools and how are they used in clinical settings?
+title: >-
+    What are point of care tools and how are they used in clinical settings?
+article_title: >-
+    What are point of care tools and how are they used in clinical settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settin
 url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
 score: -1.0
 related_article1:
-    id: 163252
-    title: How do descriptive studies differ from analytic studies in terms of study design?
+    id: 163247
+    title: >-
+        How can researchers minimize the role of chance in their studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-descriptive-studies-differ-from-analytic-studies-in-terms-of-study-design
+    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
 related_article2:
-    id: 163255
-    title: What is the difference between prevalence and incidence in descriptive studies?
+    id: 163258
+    title: >-
+        How does the traditional evidence-based medicine pyramid differ from the updated version?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
+    url: /learn/health-studies/questions/how-does-the-traditional-evidencebased-medicine-pyramid-differ-from-the-updated-version
 related_article3:
-    id: 163251
-    title: What are the primary objectives of clinical studies?
+    id: 163257
+    title: >-
+        What is sampling bias and how can it affect the results of a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
+    url: /learn/health-studies/questions/what-is-sampling-bias-and-how-can-it-affect-the-results-of-a-study
 related_article4:
-    id: 163255
-    title: What is the difference between prevalence and incidence in descriptive studies?
+    id: 163264
+    title: >-
+        What are the challenges of keeping current evidence updated in clinical practice?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
+    url: /learn/health-studies/questions/what-are-the-challenges-of-keeping-current-evidence-updated-in-clinical-practice
 related_article5:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
+    id: 163246
+    title: >-
+        What is internal validity and why is it important in research studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+    url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
 ---
 
 &nbsp;

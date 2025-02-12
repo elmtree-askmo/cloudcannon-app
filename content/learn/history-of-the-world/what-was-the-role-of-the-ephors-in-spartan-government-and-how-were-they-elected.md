@@ -2,8 +2,10 @@
 _schema: default
 id: 163584
 date: 2025-01-27
-title: What was the role of the ephors in Spartan government, and how were they elected?
-article_title: What was the role of the ephors in Spartan government, and how were they elected?
+title: >-
+    What was the role of the ephors in Spartan government, and how were they elected?
+article_title: >-
+    What was the role of the ephors in Spartan government, and how were they elected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-th
 url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
 score: 9.0
 related_article1:
-    id: 163578
-    title: What archaeological evidence supports our understanding of Spartan society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
-related_article2:
-    id: 163577
-    title: How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
-related_article3:
-    id: 163577
-    title: How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
-related_article4:
     id: 163585
-    title: How did the Gerousia and Apella function within the Spartan political system?
+    title: >-
+        How did the Gerousia and Apella function within the Spartan political system?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
+related_article2:
+    id: 163582
+    title: >-
+        What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the-spartan-dyarchy-and-how-did-it-affect-governance
+related_article3:
+    id: 163585
+    title: >-
+        How did the Gerousia and Apella function within the Spartan political system?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
+related_article4:
+    id: 163575
+    title: >-
+        Explain the myth of the Dorian Migration and its significance in Spartan history.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-myth-of-the-dorian-migration-and-its-significance-in-spartan-history
 related_article5:
     id: 163585
-    title: How did the Gerousia and Apella function within the Spartan political system?
+    title: >-
+        How did the Gerousia and Apella function within the Spartan political system?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 165439
 date: 2025-01-29
-title: What is the 80/20 rule, and how can it be applied to identify key content in studying?
-article_title: What is the 80/20 rule, and how can it be applied to identify key content in studying?
+title: >-
+    What is the 80/20 rule, and how can it be applied to identify key content in studying?
+article_title: >-
+    What is the 80/20 rule, and how can it be applied to identify key content in studying?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-8020-rule-and-how-can-it-be-applied-to-identify-key-conte
 url: /learn/education-studies/questions/what-is-the-8020-rule-and-how-can-it-be-applied-to-identify-key-content-in-studying
 score: -1.0
 related_article1:
-    id: 165440
-    title: How can reverse learning enhance comprehension and retention of information?
+    id: 165443
+    title: >-
+        Why is nutrition important for brain health, and what are some alternatives to sugary snacks that benefit focus and energy?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reverse-learning-enhance-comprehension-and-retention-of-information
+    url: /learn/education-studies/questions/why-is-nutrition-important-for-brain-health-and-what-are-some-alternatives-to-sugary-snacks-that-benefit-focus-and-energy
 related_article2:
-    id: 165435
-    title: What is the significance of learning from mistakes in memory retention, and how can it be effectively implemented?
+    id: 165443
+    title: >-
+        Why is nutrition important for brain health, and what are some alternatives to sugary snacks that benefit focus and energy?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-learning-from-mistakes-in-memory-retention-and-how-can-it-be-effectively-implemented
+    url: /learn/education-studies/questions/why-is-nutrition-important-for-brain-health-and-what-are-some-alternatives-to-sugary-snacks-that-benefit-focus-and-energy
 related_article3:
     id: 165443
-    title: Why is nutrition important for brain health, and what are some alternatives to sugary snacks that benefit focus and energy?
+    title: >-
+        Why is nutrition important for brain health, and what are some alternatives to sugary snacks that benefit focus and energy?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-nutrition-important-for-brain-health-and-what-are-some-alternatives-to-sugary-snacks-that-benefit-focus-and-energy
 related_article4:
-    id: 165433
-    title: What are the effects of sugar on cognitive function, and what are some brain-boosting alternatives?
+    id: 165435
+    title: >-
+        What is the significance of learning from mistakes in memory retention, and how can it be effectively implemented?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-sugar-on-cognitive-function-and-what-are-some-brainboosting-alternatives
+    url: /learn/education-studies/questions/what-is-the-significance-of-learning-from-mistakes-in-memory-retention-and-how-can-it-be-effectively-implemented
 related_article5:
-    id: 165433
-    title: What are the effects of sugar on cognitive function, and what are some brain-boosting alternatives?
+    id: 165441
+    title: >-
+        What strategies are involved in horizontal learning to tackle weaknesses and connect related concepts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-sugar-on-cognitive-function-and-what-are-some-brainboosting-alternatives
+    url: /learn/education-studies/questions/what-strategies-are-involved-in-horizontal-learning-to-tackle-weaknesses-and-connect-related-concepts
 ---
 
 &nbsp;

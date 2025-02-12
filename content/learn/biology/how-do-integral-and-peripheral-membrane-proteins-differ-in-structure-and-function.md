@@ -2,8 +2,10 @@
 _schema: default
 id: 167547
 date: 2025-01-31
-title: How do integral and peripheral membrane proteins differ in structure and function?
-article_title: How do integral and peripheral membrane proteins differ in structure and function?
+title: >-
+    How do integral and peripheral membrane proteins differ in structure and function?
+article_title: >-
+    How do integral and peripheral membrane proteins differ in structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-
 url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
 score: -1.0
 related_article1:
-    id: 167555
-    title: How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
+    id: 167556
+    title: >-
+        Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
     subject: Biology
-    url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
+    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 related_article2:
-    id: 167543
-    title: What is the function of phospholipid bilayers in terms of barrier and selective permeability?
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-phospholipid-bilayers-in-terms-of-barrier-and-selective-permeability
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
 related_article3:
-    id: 167548
-    title: What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    id: 167542
+    title: >-
+        Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
 related_article4:
-    id: 167544
-    title: Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    id: 167538
+    title: >-
+        What is simple diffusion and how does it occur in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
 related_article5:
-    id: 167550
-    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    id: 167538
+    title: >-
+        What is simple diffusion and how does it occur in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
 ---
 
 &nbsp;

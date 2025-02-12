@@ -2,8 +2,10 @@
 _schema: default
 id: 168016
 date: 2025-02-02
-title: What are the age-related variations in susceptibility to the misinformation effect?
-article_title: What are the age-related variations in susceptibility to the misinformation effect?
+title: >-
+    What are the age-related variations in susceptibility to the misinformation effect?
+article_title: >-
+    What are the age-related variations in susceptibility to the misinformation effect?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-agerelated-variations-in-susceptibility-to-the-misinform
 url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
 score: -1.0
 related_article1:
-    id: 168012
-    title: What are the developmental trends in age-related differences in memory?
+    id: 168032
+    title: >-
+        What consensus exists regarding the reliability of children's testimony in eyewitness situations?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+    url: /learn/psychology/questions/what-consensus-exists-regarding-the-reliability-of-childrens-testimony-in-eyewitness-situations
 related_article2:
-    id: 168010
-    title: What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    id: 168017
+    title: >-
+        What factors influence memory accuracy in eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
 related_article3:
-    id: 168012
-    title: What are the developmental trends in age-related differences in memory?
+    id: 168013
+    title: >-
+        How do knowledge and false memories interact in different age groups?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
 related_article4:
-    id: 168019
-    title: How does suggestibility in children change with age?
+    id: 168030
+    title: >-
+        What are the developmental differences that affect memory recall?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
-related_article5:
-    id: 168020
-    title: What conditions are necessary for accurate memory recall in children?
-    subject: Psychology
-    url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
+    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
 ---
 
 &nbsp;

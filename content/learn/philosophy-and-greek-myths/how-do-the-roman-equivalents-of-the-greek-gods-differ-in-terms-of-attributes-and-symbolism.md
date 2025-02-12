@@ -2,8 +2,10 @@
 _schema: default
 id: 166535
 date: 2025-01-30
-title: How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
-article_title: How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
+title: >-
+    How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
+article_title: >-
+    How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-the-roman-equivalents-of-the-greek-gods-differ-in-terms-of-att
 url: /learn/philosophy-and-greek-myths/questions/how-do-the-roman-equivalents-of-the-greek-gods-differ-in-terms-of-attributes-and-symbolism
 score: -1.0
 related_article1:
+    id: 166534
+    title: >-
+        What are the main attributes and symbols associated with Zeus in Greek mythology?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-main-attributes-and-symbols-associated-with-zeus-in-greek-mythology
+related_article2:
     id: 166537
-    title: How does Achilles' legacy influence Greek mythology and culture?
+    title: >-
+        How does Achilles' legacy influence Greek mythology and culture?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-does-achilles-legacy-influence-greek-mythology-and-culture
-related_article2:
-    id: 166542
-    title: What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-does-tiresias-play-in-greek-mythology-particularly-concerning-prophecy-and-fate
 related_article3:
-    id: 166542
-    title: What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
+    id: 166538
+    title: >-
+        What role do satyrs play in Greek mythology, and what do they symbolize?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-does-tiresias-play-in-greek-mythology-particularly-concerning-prophecy-and-fate
+    url: /learn/philosophy-and-greek-myths/questions/what-role-do-satyrs-play-in-greek-mythology-and-what-do-they-symbolize
 related_article4:
-    id: 166546
-    title: What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
+    id: 166547
+    title: >-
+        How did the adaptation of Greek gods influence Roman culture?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how-do-they-influence-relationships-among-gods
+    url: /learn/philosophy-and-greek-myths/questions/how-did-the-adaptation-of-greek-gods-influence-roman-culture
 related_article5:
     id: 166543
-    title: How is humor and irony depicted in the relationship between Zeus and Hera?
+    title: >-
+        How is humor and irony depicted in the relationship between Zeus and Hera?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
 ---

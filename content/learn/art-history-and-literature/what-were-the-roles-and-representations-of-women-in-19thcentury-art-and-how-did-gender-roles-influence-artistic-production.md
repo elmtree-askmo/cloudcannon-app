@@ -2,8 +2,10 @@
 _schema: default
 id: 159841
 date: 2025-01-23
-title: What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
-article_title: What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
+title: >-
+    What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
+article_title: >-
+    What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-roles-and-representations-of-women-in-19thcentury-art-a
 url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
 score: 8.5
 related_article1:
-    id: 160201
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    id: 160108
+    title: >-
+        In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
 related_article2:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+    id: 159850
+    title: >-
+        How did scientific developments influence environmental themes in Victorian art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
 related_article3:
-    id: 160112
-    title: How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
+    id: 159849
+    title: >-
+        What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
 related_article4:
-    id: 159833
-    title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 related_article5:
-    id: 159833
-    title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    id: 160106
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 ---
 
 &nbsp;

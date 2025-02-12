@@ -2,8 +2,10 @@
 _schema: default
 id: 166883
 date: 2025-01-31
-title: How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
-article_title: How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
+title: >-
+    How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
+article_title: >-
+    How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-preclass-assignments-and-supplementary-materials-be-integrate
 url: /learn/education-studies/questions/how-can-preclass-assignments-and-supplementary-materials-be-integrated-with-course-content-to-enhance-learning
 score: -1.0
 related_article1:
-    id: 166886
-    title: What are the key steps in the scientific method and why is data sharing important in the scientific community?
+    id: 166884
+    title: >-
+        What is the importance of organizing course content into modules on D2L and how can students access course tools?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-method-and-why-is-data-sharing-important-in-the-scientific-community
+    url: /learn/education-studies/questions/what-is-the-importance-of-organizing-course-content-into-modules-on-d2l-and-how-can-students-access-course-tools
 related_article2:
-    id: 166889
-    title: How does natural selection contribute to changes in population characteristics and what role does biological fitness play?
+    id: 166881
+    title: >-
+        How does iClicker technology enhance student engagement and what challenges might it present?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-contribute-to-changes-in-population-characteristics-and-what-role-does-biological-fitness-play
+    url: /learn/education-studies/questions/how-does-iclicker-technology-enhance-student-engagement-and-what-challenges-might-it-present
 related_article3:
-    id: 166882
-    title: Why is specificity important in learning objectives and how can they be used as study resources?
+    id: 166881
+    title: >-
+        How does iClicker technology enhance student engagement and what challenges might it present?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-specificity-important-in-learning-objectives-and-how-can-they-be-used-as-study-resources
+    url: /learn/education-studies/questions/how-does-iclicker-technology-enhance-student-engagement-and-what-challenges-might-it-present
 related_article4:
-    id: 166888
-    title: What is the difference between correlation and causation when analyzing trends in graphs?
+    id: 166887
+    title: >-
+        How do experimental design and data interpretation contribute to effective data collection and analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation-when-analyzing-trends-in-graphs
+    url: /learn/education-studies/questions/how-do-experimental-design-and-data-interpretation-contribute-to-effective-data-collection-and-analysis
 related_article5:
-    id: 166886
-    title: What are the key steps in the scientific method and why is data sharing important in the scientific community?
+    id: 166884
+    title: >-
+        What is the importance of organizing course content into modules on D2L and how can students access course tools?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-method-and-why-is-data-sharing-important-in-the-scientific-community
+    url: /learn/education-studies/questions/what-is-the-importance-of-organizing-course-content-into-modules-on-d2l-and-how-can-students-access-course-tools
 ---
 
 &nbsp;

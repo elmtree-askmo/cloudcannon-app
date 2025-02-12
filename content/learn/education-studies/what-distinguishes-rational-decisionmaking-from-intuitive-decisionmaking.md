@@ -2,8 +2,10 @@
 _schema: default
 id: 165038
 date: 2025-01-28
-title: What distinguishes rational decision-making from intuitive decision-making?
-article_title: What distinguishes rational decision-making from intuitive decision-making?
+title: >-
+    What distinguishes rational decision-making from intuitive decision-making?
+article_title: >-
+    What distinguishes rational decision-making from intuitive decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-distinguishes-rational-decisionmaki
 score: -1.0
 related_article1:
     id: 165043
-    title: What is the function of reward systems in reinforcement learning?
+    title: >-
+        What is the function of reward systems in reinforcement learning?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
 related_article2:
-    id: 165051
-    title: What challenges does the digital divide present in educational technology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-does-the-digital-divide-present-in-educational-technology
-related_article3:
-    id: 165043
-    title: What is the function of reward systems in reinforcement learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
-related_article4:
-    id: 165043
-    title: What is the function of reward systems in reinforcement learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
-related_article5:
     id: 165037
-    title: What is the role of interaction design in character implementation?
+    title: >-
+        What is the role of interaction design in character implementation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-interaction-design-in-character-implementation
+related_article3:
+    id: 165045
+    title: >-
+        What are the applications of reinforcement learning in robotics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-applications-of-reinforcement-learning-in-robotics
+related_article4:
+    id: 165047
+    title: >-
+        How do virtual environments contribute to simulation in demonstration techniques?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-virtual-environments-contribute-to-simulation-in-demonstration-techniques
+related_article5:
+    id: 165033
+    title: >-
+        How is data collection executed during experimentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-data-collection-executed-during-experimentation
 ---
 
 &nbsp;

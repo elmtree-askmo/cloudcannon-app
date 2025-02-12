@@ -2,8 +2,10 @@
 _schema: default
 id: 161899
 date: 2025-01-24
-title: How can logical reasoning be used to identify cause and effect relationships in literary analysis?
-article_title: How can logical reasoning be used to identify cause and effect relationships in literary analysis?
+title: >-
+    How can logical reasoning be used to identify cause and effect relationships in literary analysis?
+article_title: >-
+    How can logical reasoning be used to identify cause and effect relationships in literary analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-can-logical-reasoning-be-used-to-identify-cause-and-effect-relati
 url: /learn/art-history-and-literature/questions/how-can-logical-reasoning-be-used-to-identify-cause-and-effect-relationships-in-literary-analysis
 score: 9.0
 related_article1:
-    id: 161902
-    title: What strategies can be employed to structure a logical argument in literary analysis?
+    id: 161893
+    title: >-
+        What are the key components of constructing a strong thesis statement in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-structure-a-logical-argument-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
 related_article2:
     id: 161898
-    title: What rhetorical techniques does Shakespeare use to critique social norms?
+    title: >-
+        What rhetorical techniques does Shakespeare use to critique social norms?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
 related_article3:
-    id: 161894
-    title: Why is close reading essential in literary analysis?
+    id: 161891
+    title: >-
+        What is the primary purpose of literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-close-reading-essential-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-analysis
 related_article4:
-    id: 161901
-    title: How does the use of imagery contribute to emotional evocation in literature?
+    id: 161900
+    title: >-
+        What methods can be used to understand a character's motivations in a text?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-literature
-related_article5:
-    id: 161893
-    title: What are the key components of constructing a strong thesis statement in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
 ---
 
 &nbsp;

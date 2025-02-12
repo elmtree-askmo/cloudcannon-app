@@ -2,8 +2,10 @@
 _schema: default
 id: 170394
 date: 2025-02-06
-title: What are the main components of the carbon cycle, and how do they interact with each other?
-article_title: What are the main components of the carbon cycle, and how do they interact with each other?
+title: >-
+    What are the main components of the carbon cycle, and how do they interact with each other?
+article_title: >-
+    What are the main components of the carbon cycle, and how do they interact with each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-inte
 url: /learn/chemistry/questions/what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other
 score: -1.0
 related_article1:
-    id: 170395
-    title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    id: 170402
+    title: >-
+        Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
+    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
 related_article2:
-    id: 170420
-    title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    id: 170419
+    title: >-
+        Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
 related_article3:
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
+related_article4:
     id: 170397
-    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    title: >-
+        Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
     subject: Chemistry
     url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
-related_article4:
-    id: 170403
-    title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
-    subject: Chemistry
-    url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
 related_article5:
-    id: 170420
-    title: Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
+    id: 170413
+    title: >-
+        What are the sources of atmospheric carbon, and how do they impact climate?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
+    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
 ---
 
 &nbsp;

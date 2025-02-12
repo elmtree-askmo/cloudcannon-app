@@ -2,8 +2,10 @@
 _schema: default
 id: 163896
 date: 2025-01-28
-title: List the defining characteristics of epic poetry in ancient Greek literature.
-article_title: List the defining characteristics of epic poetry in ancient Greek literature.
+title: >-
+    List the defining characteristics of epic poetry in ancient Greek literature.
+article_title: >-
+    List the defining characteristics of epic poetry in ancient Greek literature.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-lit
 url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
 score: 9.5
 related_article1:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
+    id: 163901
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 related_article2:
-    id: 163900
-    title: What are some common themes found in mythological narratives?
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
 related_article3:
-    id: 163898
-    title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+    id: 163888
+    title: >-
+        Who are the major Olympian deities in Greek mythology, and what are their primary domains?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
+    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
 related_article4:
-    id: 163898
-    title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+    id: 163907
+    title: >-
+        How did historical events influence the development and interpretation of Greek myths over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
+    url: /learn/art-history-and-literature/questions/how-did-historical-events-influence-the-development-and-interpretation-of-greek-myths-over-time
 related_article5:
-    id: 163900
-    title: What are some common themes found in mythological narratives?
+    id: 163905
+    title: >-
+        How have Greek myths been preserved and evolved over time through storytelling traditions?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
+    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
 ---
 
 &nbsp;

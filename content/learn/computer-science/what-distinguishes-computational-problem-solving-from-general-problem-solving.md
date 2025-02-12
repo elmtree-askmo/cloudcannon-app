@@ -2,8 +2,10 @@
 _schema: default
 id: 160770
 date: 2025-01-24
-title: What distinguishes computational problem solving from general problem solving?
-article_title: What distinguishes computational problem solving from general problem solving?
+title: >-
+    What distinguishes computational problem solving from general problem solving?
+article_title: >-
+    What distinguishes computational problem solving from general problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-computational-problem-solving-from-general-problem
 url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
 score: -1.0
 related_article1:
-    id: 160653
-    title: What is Big O notation and why is it important in analyzing algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
-related_article2:
     id: 160648
-    title: How does the inventor's perspective influence algorithm design?
+    title: >-
+        How does the inventor's perspective influence algorithm design?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-inventors-perspective-influence-algorithm-design
+related_article2:
+    id: 160774
+    title: >-
+        How do time complexity and space complexity trade-offs affect algorithm design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-time-complexity-and-space-complexity-tradeoffs-affect-algorithm-design
 related_article3:
     id: 160773
-    title: What is Big O notation and why is it important in analyzing algorithms?
+    title: >-
+        What is Big O notation and why is it important in analyzing algorithms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
 related_article4:
-    id: 160774
-    title: How do time complexity and space complexity trade-offs affect algorithm design?
+    id: 160652
+    title: >-
+        Why is it important to ask 'Why' when developing problem-solving skills?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-time-complexity-and-space-complexity-tradeoffs-affect-algorithm-design
+    url: /learn/computer-science/questions/why-is-it-important-to-ask-why-when-developing-problemsolving-skills
 related_article5:
-    id: 160778
-    title: What is the main difference between Dijkstra's and Bellman-Ford algorithms?
+    id: 160651
+    title: >-
+        What distinguishes computational problem solving from general problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-main-difference-between-dijkstras-and-bellmanford-algorithms
+    url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
 ---
 
 &nbsp;

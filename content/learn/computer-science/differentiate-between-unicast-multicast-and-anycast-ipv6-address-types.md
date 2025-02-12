@@ -2,8 +2,10 @@
 _schema: default
 id: 165742
 date: 2025-01-29
-title: Differentiate between unicast, multicast, and anycast IPv6 address types.
-article_title: Differentiate between unicast, multicast, and anycast IPv6 address types.
+title: >-
+    Differentiate between unicast, multicast, and anycast IPv6 address types.
+article_title: >-
+    Differentiate between unicast, multicast, and anycast IPv6 address types.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-unicast-multicast-and-anycast-ipv6-address-type
 url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
 score: -1.0
 related_article1:
-    id: 165745
-    title: What are the components of the structure of a Global Unicast Address (GUA)?
+    id: 165754
+    title: >-
+        What are the characteristics of a Unique Local Address (ULA) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
 related_article2:
-    id: 165759
-    title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+    id: 165761
+    title: >-
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article3:
-    id: 165750
-    title: What are solicited-node multicast addresses used for in IPv6?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-solicitednode-multicast-addresses-used-for-in-ipv6
-related_article4:
     id: 165762
-    title: What is the rule for omitting leading zeros in IPv6 address notation?
+    title: >-
+        What is the rule for omitting leading zeros in IPv6 address notation?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
-related_article5:
-    id: 165749
-    title: What is the EUI-64 method in the context of IPv6 addressing?
+related_article4:
+    id: 165754
+    title: >-
+        What are the characteristics of a Unique Local Address (ULA) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
+related_article5:
+    id: 165746
+    title: >-
+        What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
 ---
 
 &nbsp;

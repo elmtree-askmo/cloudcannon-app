@@ -2,8 +2,10 @@
 _schema: default
 id: 162839
 date: 2025-01-25
-title: How do Hadoop and Spark differ in their approach to big data processing?
-article_title: How do Hadoop and Spark differ in their approach to big data processing?
+title: >-
+    How do Hadoop and Spark differ in their approach to big data processing?
+article_title: >-
+    How do Hadoop and Spark differ in their approach to big data processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processi
 url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
 score: -1.0
 related_article1:
-    id: 162358
-    title: What ethical considerations and challenges are associated with artificial intelligence?
+    id: 162379
+    title: >-
+        What are the primary applications and challenges of virtual reality technologies?
     subject: Others
-    url: /learn/others/questions/what-ethical-considerations-and-challenges-are-associated-with-artificial-intelligence
+    url: /learn/others/questions/what-are-the-primary-applications-and-challenges-of-virtual-reality-technologies
 related_article2:
-    id: 162663
-    title: What are the differences between relational and NoSQL databases in database management?
+    id: 162439
+    title: >-
+        What are the best practices for ensuring clarity and simplicity in data visualization?
     subject: Others
-    url: /learn/others/questions/what-are-the-differences-between-relational-and-nosql-databases-in-database-management
+    url: /learn/others/questions/what-are-the-best-practices-for-ensuring-clarity-and-simplicity-in-data-visualization
 related_article3:
-    id: 162708
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+    id: 162382
+    title: >-
+        How are tokenization and sentiment analysis used in natural language processing?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+    url: /learn/others/questions/how-are-tokenization-and-sentiment-analysis-used-in-natural-language-processing
 related_article4:
-    id: 162649
-    title: How is Excel used in data analysis, and what are its limitations compared to R and Python?
+    id: 162727
+    title: >-
+        What are the most common cybersecurity threats, and how can they be mitigated?
     subject: Others
-    url: /learn/others/questions/how-is-excel-used-in-data-analysis-and-what-are-its-limitations-compared-to-r-and-python
+    url: /learn/others/questions/what-are-the-most-common-cybersecurity-threats-and-how-can-they-be-mitigated
 related_article5:
-    id: 162655
-    title: How do Tableau, Power BI, and D3.js differ in their data visualization capabilities?
+    id: 162721
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-data-visualization-capabilities
+    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
 ---
 
 &nbsp;

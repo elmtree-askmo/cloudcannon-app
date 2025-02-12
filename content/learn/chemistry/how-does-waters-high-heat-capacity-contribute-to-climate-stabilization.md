@@ -2,8 +2,10 @@
 _schema: default
 id: 167151
 date: 2025-01-31
-title: How does water's high heat capacity contribute to climate stabilization?
-article_title: How does water's high heat capacity contribute to climate stabilization?
+title: >-
+    How does water's high heat capacity contribute to climate stabilization?
+article_title: >-
+    How does water's high heat capacity contribute to climate stabilization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-waters-high-heat-capacity-contribute-to-climate-stabilizatio
 url: /learn/chemistry/questions/how-does-waters-high-heat-capacity-contribute-to-climate-stabilization
 score: -1.0
 related_article1:
-    id: 167154
-    title: How does water contribute to climate regulation through oceanic heat sinks?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
-related_article2:
     id: 167145
-    title: What is cohesion in water and how does it contribute to surface tension?
+    title: >-
+        What is cohesion in water and how does it contribute to surface tension?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
-related_article3:
-    id: 167141
-    title: What is the molecular composition of water and how are the atoms bonded?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-molecular-composition-of-water-and-how-are-the-atoms-bonded
-related_article4:
+related_article2:
     id: 167150
-    title: What are the implications of ice's lower density for aquatic ecosystems?
+    title: >-
+        What are the implications of ice's lower density for aquatic ecosystems?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
-related_article5:
-    id: 167146
-    title: How does adhesion enable capillary action in water?
+related_article3:
+    id: 167145
+    title: >-
+        What is cohesion in water and how does it contribute to surface tension?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-adhesion-enable-capillary-action-in-water
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-surface-tension
+related_article4:
+    id: 167154
+    title: >-
+        How does water contribute to climate regulation through oceanic heat sinks?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
+related_article5:
+    id: 167142
+    title: >-
+        How does the polarity of water arise from its molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165996
 date: 2025-01-29
-title: How do regional disparities contribute to economic inequality?
-article_title: How do regional disparities contribute to economic inequality?
+title: >-
+    How do regional disparities contribute to economic inequality?
+article_title: >-
+    How do regional disparities contribute to economic inequality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-econom
 score: -1.0
 related_article1:
     id: 165982
-    title: How has technological integration influenced contemporary globalization?
+    title: >-
+        How has technological integration influenced contemporary globalization?
     subject: Sociology
     url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 related_article2:
-    id: 165982
-    title: How has technological integration influenced contemporary globalization?
+    id: 165992
+    title: >-
+        In what ways do media and entertainment influence cultural connectivity on a global scale?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
 related_article3:
     id: 165991
-    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    title: >-
+        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
     subject: Sociology
     url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
 related_article4:
-    id: 165994
-    title: How does international cooperation address global health concerns such as disease transmission?
+    id: 165985
+    title: >-
+        How did industrialization contribute to economic development and social change during the Industrial Revolution?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
+    url: /learn/sociology/questions/how-did-industrialization-contribute-to-economic-development-and-social-change-during-the-industrial-revolution
 related_article5:
-    id: 165995
-    title: What are the primary security concerns related to political instability and terrorism?
+    id: 165981
+    title: >-
+        What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 ---
 
 &nbsp;

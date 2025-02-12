@@ -2,8 +2,10 @@
 _schema: default
 id: 165703
 date: 2025-01-29
-title: What is the purpose of the network portion in an IPv4 address?
-article_title: What is the purpose of the network portion in an IPv4 address?
+title: >-
+    What is the purpose of the network portion in an IPv4 address?
+article_title: >-
+    What is the purpose of the network portion in an IPv4 address?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-the-network-portion-in-an-ipv4-address.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-the-network-portion-in-an-ipv4-address
 score: -1.0
 related_article1:
-    id: 165711
-    title: Explain the concept of a subnet prefix and its notation in dotted decimal format.
+    id: 165713
+    title: >-
+        How is a host address represented using a combination of 0s and 1s?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
+    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
 related_article2:
-    id: 165705
-    title: Explain the significance of base 2 digits in the binary number system.
+    id: 165706
+    title: >-
+        How do you convert a binary number to a decimal number? Provide an example.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
+    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
 related_article3:
-    id: 165707
-    title: What are the steps involved in converting a decimal number to binary?
+    id: 165709
+    title: >-
+        How does a subnet mask help in identifying the network and host portions of an IPv4 address?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
+    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
 related_article4:
-    id: 165711
-    title: Explain the concept of a subnet prefix and its notation in dotted decimal format.
+    id: 165714
+    title: >-
+        Describe the representation of a broadcast address when the host portion is all 1s.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
+    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
 related_article5:
-    id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+    id: 165714
+    title: >-
+        Describe the representation of a broadcast address when the host portion is all 1s.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
+    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170662
 date: 2025-02-06
-title: How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
-article_title: How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
+title: >-
+    How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
+article_title: >-
+    How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-external-rewards-influence-extrinsic-motivation-and-what-are-t
 url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
 score: -1.0
 related_article1:
-    id: 170660
-    title: What is intrinsic motivation, and how does it contribute to long-term sustainability?
+    id: 170670
+    title: >-
+        What are the key components of understanding financial aid, including scholarships and grants?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-intrinsic-motivation-and-how-does-it-contribute-to-longterm-sustainability
+    url: /learn/education-studies/questions/what-are-the-key-components-of-understanding-financial-aid-including-scholarships-and-grants
 related_article2:
-    id: 170671
-    title: What types of extracurricular activities are available through campus recreation?
+    id: 170670
+    title: >-
+        What are the key components of understanding financial aid, including scholarships and grants?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-extracurricular-activities-are-available-through-campus-recreation
+    url: /learn/education-studies/questions/what-are-the-key-components-of-understanding-financial-aid-including-scholarships-and-grants
 related_article3:
-    id: 170664
-    title: How can observing daily actions help in demonstrating values in action?
+    id: 170666
+    title: >-
+        How can library resources be utilized for research project consultation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-observing-daily-actions-help-in-demonstrating-values-in-action
+    url: /learn/education-studies/questions/how-can-library-resources-be-utilized-for-research-project-consultation
 related_article4:
-    id: 170667
-    title: What services are offered by counseling services to promote student wellness?
+    id: 170665
+    title: >-
+        What types of tutoring services are available for science and math students?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-services-are-offered-by-counseling-services-to-promote-student-wellness
+    url: /learn/education-studies/questions/what-types-of-tutoring-services-are-available-for-science-and-math-students
 related_article5:
-    id: 170659
-    title: How do process goals differ from outcome goals, and why is it important to align actions with them?
+    id: 170652
+    title: >-
+        What strategies can be used to build relationships with community organizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-process-goals-differ-from-outcome-goals-and-why-is-it-important-to-align-actions-with-them
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
 ---
 
 &nbsp;

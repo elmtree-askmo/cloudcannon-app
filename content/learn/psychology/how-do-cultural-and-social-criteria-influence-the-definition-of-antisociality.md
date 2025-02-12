@@ -2,8 +2,10 @@
 _schema: default
 id: 163638
 date: 2025-01-27
-title: How do cultural and social criteria influence the definition of antisociality?
-article_title: How do cultural and social criteria influence the definition of antisociality?
+title: >-
+    How do cultural and social criteria influence the definition of antisociality?
+article_title: >-
+    How do cultural and social criteria influence the definition of antisociality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-cultural-and-social-criteria-influence-the-definition-of-antis
 url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
 score: -1.0
 related_article1:
-    id: 163636
-    title: How prevalent is psychopathy in the general population compared to the incarcerated population?
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 related_article2:
-    id: 163637
-    title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
-related_article3:
-    id: 163632
-    title: How does the statistical model of abnormal behavior differ from the medical model?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
-related_article4:
-    id: 163640
-    title: How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy
-related_article5:
     id: 163636
-    title: How prevalent is psychopathy in the general population compared to the incarcerated population?
+    title: >-
+        How prevalent is psychopathy in the general population compared to the incarcerated population?
     subject: Psychology
     url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+related_article3:
+    id: 163634
+    title: >-
+        Why is conduct disorder considered challenging to treat?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
+related_article4:
+    id: 163639
+    title: >-
+        What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
+related_article5:
+    id: 163633
+    title: >-
+        What are the core symptoms of conduct disorder related to aggression and intimidation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
 ---
 
 &nbsp;

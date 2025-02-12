@@ -2,8 +2,10 @@
 _schema: default
 id: 170267
 date: 2025-02-06
-title: What social classes were represented in Neo-Impressionist art, and how were they depicted?
-article_title: What social classes were represented in Neo-Impressionist art, and how were they depicted?
+title: >-
+    What social classes were represented in Neo-Impressionist art, and how were they depicted?
+article_title: >-
+    What social classes were represented in Neo-Impressionist art, and how were they depicted?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-social-classes-were-represented-in-neoimpressionist-art-and-how-
 url: /learn/art-history-and-literature/questions/what-social-classes-were-represented-in-neoimpressionist-art-and-how-were-they-depicted
 score: 9.0
 related_article1:
-    id: 170259
-    title: What were the key factors that led to the emergence of Neo-Impressionism in Paris?
+    id: 170270
+    title: >-
+        How did Emile Bernard's depictions of rural life influence Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-factors-that-led-to-the-emergence-of-neoimpressionism-in-paris
+    url: /learn/art-history-and-literature/questions/how-did-emile-bernards-depictions-of-rural-life-influence-neoimpressionism
 related_article2:
-    id: 170264
-    title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+    id: 170266
+    title: >-
+        How did Neo-Impressionism influence modern art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subject-matter
+    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-influence-modern-art-movements
 related_article3:
     id: 170271
-    title: What themes did Paul Signac explore in his works, and how did his style evolve over time?
+    title: >-
+        What themes did Paul Signac explore in his works, and how did his style evolve over time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-themes-did-paul-signac-explore-in-his-works-and-how-did-his-style-evolve-over-time
 related_article4:
-    id: 170271
-    title: What themes did Paul Signac explore in his works, and how did his style evolve over time?
+    id: 170273
+    title: >-
+        What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-themes-did-paul-signac-explore-in-his-works-and-how-did-his-style-evolve-over-time
+    url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
 related_article5:
     id: 170273
-    title: What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
+    title: >-
+        What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
 ---

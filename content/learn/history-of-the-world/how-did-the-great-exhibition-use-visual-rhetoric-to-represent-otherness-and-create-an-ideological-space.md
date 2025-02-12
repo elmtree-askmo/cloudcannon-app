@@ -2,8 +2,10 @@
 _schema: default
 id: 163992
 date: 2025-01-28
-title: How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
-article_title: How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
+title: >-
+    How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
+article_title: >-
+    How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherne
 url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherness-and-create-an-ideological-space
 score: 9.0
 related_article1:
-    id: 163979
-    title: How did the Great Exhibition of 1851 reflect Prince Albert's vision and international participation?
+    id: 163993
+    title: >-
+        What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-of-1851-reflect-prince-alberts-vision-and-international-participation
+    url: /learn/history-of-the-world/questions/what-is-the-concept-of-the-antimonument-and-how-do-contemporary-artistic-responses-critique-historical-narratives
 related_article2:
-    id: 163988
-    title: How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
+    id: 163982
+    title: >-
+        In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
+    url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
 related_article3:
-    id: 163979
-    title: How did the Great Exhibition of 1851 reflect Prince Albert's vision and international participation?
+    id: 163985
+    title: >-
+        What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-of-1851-reflect-prince-alberts-vision-and-international-participation
+    url: /learn/history-of-the-world/questions/what-role-did-victorian-sensibilities-play-in-shaping-museum-culture-particularly-in-terms-of-moral-values-and-public-education
 related_article4:
-    id: 163989
-    title: In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
+    id: 163980
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
+    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
 related_article5:
     id: 163983
-    title: What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
+    title: >-
+        What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-some-criticisms-and-controversies-surrounding-the-great-exhibition-particularly-regarding-public-perception-and-abolitionist-demonstrations
 ---

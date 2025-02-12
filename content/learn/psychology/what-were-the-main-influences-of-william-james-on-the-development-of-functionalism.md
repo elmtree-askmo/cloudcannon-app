@@ -2,8 +2,10 @@
 _schema: default
 id: 170008
 date: 2025-02-05
-title: What were the main influences of William James on the development of Functionalism?
-article_title: What were the main influences of William James on the development of Functionalism?
+title: >-
+    What were the main influences of William James on the development of Functionalism?
+article_title: >-
+    What were the main influences of William James on the development of Functionalism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-influences-of-william-james-on-the-development-of-
 url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
 score: -1.0
 related_article1:
-    id: 170025
-    title: How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
-    subject: Psychology
-    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
-related_article2:
     id: 170021
-    title: How does Interpersonal Therapy focus on improving relationships?
+    title: >-
+        How does Interpersonal Therapy focus on improving relationships?
     subject: Psychology
     url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
+related_article2:
+    id: 170027
+    title: >-
+        How does Maslow's Hierarchy of Needs define self-actualization?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
 related_article3:
-    id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    id: 170023
+    title: >-
+        How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
 related_article4:
-    id: 170020
-    title: What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    id: 170027
+    title: >-
+        How does Maslow's Hierarchy of Needs define self-actualization?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
 related_article5:
-    id: 170020
-    title: What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    id: 170011
+    title: >-
+        How does Behaviorism explain the influence of the environment on behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
+    url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
 ---
 
 &nbsp;

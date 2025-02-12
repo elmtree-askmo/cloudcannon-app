@@ -2,8 +2,10 @@
 _schema: default
 id: 164737
 date: 2025-01-28
-title: How does dopamine function as a neurotransmitter in the brain?
-article_title: How does dopamine function as a neurotransmitter in the brain?
+title: >-
+    How does dopamine function as a neurotransmitter in the brain?
+article_title: >-
+    How does dopamine function as a neurotransmitter in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-dopamine-function-as-a-neurotransmitter-in-the-brain.md
 url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
 score: -1.0
 related_article1:
-    id: 164717
-    title: How does Wernicke's aphasia affect language comprehension?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
-related_article2:
-    id: 164735
-    title: What are the primary functions of the frontal lobe in the brain?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
-related_article3:
     id: 164740
-    title: How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
+    title: >-
+        How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
     subject: Psychology
     url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
+related_article2:
+    id: 164738
+    title: >-
+        What are the common causes and effects of traumatic brain injury on cognitive function?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article3:
+    id: 164719
+    title: >-
+        How does procedural memory differ from declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
 related_article4:
-    id: 164735
-    title: What are the primary functions of the frontal lobe in the brain?
+    id: 164740
+    title: >-
+        How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
 related_article5:
-    id: 164714
-    title: What role does the P-600 component play in syntactic processing?
+    id: 164715
+    title: >-
+        How is the N400 component related to semantic processing and contextual integration?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
 ---
 
 &nbsp;

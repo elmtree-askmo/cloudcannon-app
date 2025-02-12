@@ -2,8 +2,10 @@
 _schema: default
 id: 167352
 date: 2025-01-31
-title: How do global oceanic trends and regional variations contribute to environmental changes in oceans?
-article_title: How do global oceanic trends and regional variations contribute to environmental changes in oceans?
+title: >-
+    How do global oceanic trends and regional variations contribute to environmental changes in oceans?
+article_title: >-
+    How do global oceanic trends and regional variations contribute to environmental changes in oceans?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-global-oceanic-trends-and-regional-variations-contribute-to-en
 url: /learn/marine-biology/questions/how-do-global-oceanic-trends-and-regional-variations-contribute-to-environmental-changes-in-oceans
 score: -1.0
 related_article1:
-    id: 167343
-    title: What are the effects of decreased pH levels on ocean chemistry?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
-related_article2:
-    id: 167347
-    title: What are the key research methodologies used by NOAA to study ocean acidification?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
-related_article3:
     id: 167354
-    title: How does ocean acidification potentially impact fisheries and coastal communities?
+    title: >-
+        How does ocean acidification potentially impact fisheries and coastal communities?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-does-ocean-acidification-potentially-impact-fisheries-and-coastal-communities
-related_article4:
-    id: 167346
-    title: How does ocean acidification impact the shells of marine terrapods?
+related_article2:
+    id: 167349
+    title: >-
+        What impact does ocean acidification have on shell-building organisms like corals and shellfish?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
-related_article5:
+    url: /learn/marine-biology/questions/what-impact-does-ocean-acidification-have-on-shellbuilding-organisms-like-corals-and-shellfish
+related_article3:
+    id: 167347
+    title: >-
+        What are the key research methodologies used by NOAA to study ocean acidification?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
+related_article4:
     id: 167344
-    title: How does ocean acidification affect the availability of calcium carbonate for marine organisms?
+    title: >-
+        How does ocean acidification affect the availability of calcium carbonate for marine organisms?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-does-ocean-acidification-affect-the-availability-of-calcium-carbonate-for-marine-organisms
+related_article5:
+    id: 167351
+    title: >-
+        What are the predicted changes in future pH levels based on different emission scenarios?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
 ---
 
 &nbsp;

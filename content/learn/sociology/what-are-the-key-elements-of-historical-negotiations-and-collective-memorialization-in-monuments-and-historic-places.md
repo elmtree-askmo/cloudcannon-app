@@ -2,8 +2,10 @@
 _schema: default
 id: 169163
 date: 2025-02-04
-title: What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
-article_title: What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+title: >-
+    What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+article_title: >-
+    What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-elements-of-historical-negotiations-and-collective-m
 url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
 score: -1.0
 related_article1:
-    id: 169159
-    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
-    subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
-related_article2:
-    id: 169154
-    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
-related_article3:
-    id: 169157
-    title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
-related_article4:
     id: 169166
-    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    title: >-
+        How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
     subject: Sociology
     url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
-related_article5:
-    id: 169154
-    title: How do museums honor Indigenous knowledge and discuss the hard truths of colonization?
+related_article2:
+    id: 169162
+    title: >-
+        How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-museums-honor-indigenous-knowledge-and-discuss-the-hard-truths-of-colonization
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
+related_article3:
+    id: 169164
+    title: >-
+        How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+related_article4:
+    id: 169162
+    title: >-
+        How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
+related_article5:
+    id: 169162
+    title: >-
+        How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167241
 date: 2025-01-31
-title: Differentiate between acidic and basic R-groups.
-article_title: Differentiate between acidic and basic R-groups.
+title: >-
+    Differentiate between acidic and basic R-groups.
+article_title: >-
+    Differentiate between acidic and basic R-groups.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: differentiate-between-acidic-and-basic-rgroups.md
 url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
 score: -1.0
 related_article1:
-    id: 167246
-    title: Explain the process of peptide bond formation.
+    id: 167240
+    title: >-
+        How does the variability of R-groups affect protein structure?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+    url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
 related_article2:
-    id: 167243
-    title: How does protein structure determine its function?
+    id: 167247
+    title: >-
+        How do R-group properties affect protein solubility?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
+    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
 related_article3:
-    id: 167234
-    title: What is the primary structure of a protein and how is it determined?
+    id: 167239
+    title: >-
+        Identify the basic components of an amino acid and their roles.
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+    url: /learn/biochemistry/questions/identify-the-basic-components-of-an-amino-acid-and-their-roles
 related_article4:
-    id: 167234
-    title: What is the primary structure of a protein and how is it determined?
+    id: 167240
+    title: >-
+        How does the variability of R-groups affect protein structure?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
-related_article5:
-    id: 167245
-    title: What is the role of heat shock proteins in protein folding?
-    subject: Biochemistry
-    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
+    url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
 ---
 
 &nbsp;

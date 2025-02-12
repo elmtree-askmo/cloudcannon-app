@@ -2,8 +2,10 @@
 _schema: default
 id: 166092
 date: 2025-01-29
-title: What are the main causes of harmful algal blooms, and what impact do they have on aquatic ecosystems?
-article_title: What are the main causes of harmful algal blooms, and what impact do they have on aquatic ecosystems?
+title: >-
+    What are the main causes of harmful algal blooms, and what impact do they have on aquatic ecosystems?
+article_title: >-
+    What are the main causes of harmful algal blooms, and what impact do they have on aquatic ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-causes-of-harmful-algal-blooms-and-what-impact-do-t
 url: /learn/education-studies/questions/what-are-the-main-causes-of-harmful-algal-blooms-and-what-impact-do-they-have-on-aquatic-ecosystems
 score: -1.0
 related_article1:
-    id: 166091
-    title: What are the primary components of a lake's food web, and how do they interact?
+    id: 166100
+    title: >-
+        What are the sources and types of contaminants that impact aquatic life and human health?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-components-of-a-lakes-food-web-and-how-do-they-interact
+    url: /learn/education-studies/questions/what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-life-and-human-health
 related_article2:
-    id: 166091
-    title: What are the primary components of a lake's food web, and how do they interact?
+    id: 166100
+    title: >-
+        What are the sources and types of contaminants that impact aquatic life and human health?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-components-of-a-lakes-food-web-and-how-do-they-interact
+    url: /learn/education-studies/questions/what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-life-and-human-health
 related_article3:
-    id: 166096
-    title: How does Brightspace facilitate course content management and student access to materials?
+    id: 166094
+    title: >-
+        What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-brightspace-facilitate-course-content-management-and-student-access-to-materials
+    url: /learn/education-studies/questions/what-are-the-effects-of-harmful-algal-blooms-on-human-health-and-what-strategies-can-be-used-for-their-management
 related_article4:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+    id: 166093
+    title: >-
+        How do contaminants affect aquatic life and human health in aquatic toxicology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/how-do-contaminants-affect-aquatic-life-and-human-health-in-aquatic-toxicology
 related_article5:
-    id: 166089
-    title: What are the key strategies for achieving sustainability in environmental science?
+    id: 166101
+    title: >-
+        Why is lab and lecture integration important for students majoring in natural sciences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-strategies-for-achieving-sustainability-in-environmental-science
+    url: /learn/education-studies/questions/why-is-lab-and-lecture-integration-important-for-students-majoring-in-natural-sciences
 ---
 
 &nbsp;

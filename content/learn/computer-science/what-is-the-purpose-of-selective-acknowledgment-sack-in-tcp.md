@@ -2,8 +2,10 @@
 _schema: default
 id: 165786
 date: 2025-01-29
-title: What is the purpose of selective acknowledgment (SACK) in TCP?
-article_title: What is the purpose of selective acknowledgment (SACK) in TCP?
+title: >-
+    What is the purpose of selective acknowledgment (SACK) in TCP?
+article_title: >-
+    What is the purpose of selective acknowledgment (SACK) in TCP?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
 score: -1.0
 related_article1:
-    id: 165783
-    title: How does TCP use sequence numbers for data reassembly?
+    id: 165788
+    title: >-
+        What is the responsibility of applications in handling congestion in UDP?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-data-reassembly
+    url: /learn/computer-science/questions/what-is-the-responsibility-of-applications-in-handling-congestion-in-udp
 related_article2:
-    id: 165766
-    title: What are the main responsibilities of the transport layer in data communication?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
-related_article3:
     id: 165783
-    title: How does TCP use sequence numbers for data reassembly?
+    title: >-
+        How does TCP use sequence numbers for data reassembly?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-data-reassembly
+related_article3:
+    id: 165775
+    title: >-
+        What mechanisms does TCP use for flow control and congestion avoidance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
 related_article4:
-    id: 165777
-    title: How do socket pairs facilitate communication between devices?
+    id: 165779
+    title: >-
+        What information is contained in the TCP header fields related to sequence and acknowledgment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
+    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article5:
-    id: 165764
-    title: What is the primary role of the transport layer in network communication?
+    id: 165782
+    title: >-
+        What are the trade-offs between low overhead and reliability in UDP communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164124
 date: 2025-01-28
-title: What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
-article_title: What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+title: >-
+    What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+article_title: >-
+    What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-misconceptions-about-psychological-disturbances-
 url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
 score: -1.0
 related_article1:
-    id: 164119
-    title: What are the characteristics of identity diffusion in Marcia's identity statuses?
+    id: 164123
+    title: >-
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-identity-diffusion-in-marcias-identity-statuses
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 related_article2:
-    id: 164115
-    title: What is an identity crisis and why is it important in adolescent development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-an-identity-crisis-and-why-is-it-important-in-adolescent-development
-related_article3:
     id: 164118
-    title: What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    title: >-
+        What are the emotional and psychological implications of identity development during adolescence according to Erikson?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
-related_article4:
+related_article3:
     id: 164125
-    title: Why are support systems crucial in addressing psychological issues in adolescents?
+    title: >-
+        Why are support systems crucial in addressing psychological issues in adolescents?
     subject: Psychology
     url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
-related_article5:
-    id: 164121
-    title: What is the significance of identity moratorium in the process of identity formation?
+related_article4:
+    id: 164117
+    title: >-
+        Why is adolescence considered a critical stage in Erikson's theory of identity development?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-identity-moratorium-in-the-process-of-identity-formation
+    url: /learn/psychology/questions/why-is-adolescence-considered-a-critical-stage-in-eriksons-theory-of-identity-development
+related_article5:
+    id: 164123
+    title: >-
+        What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 ---
 
 &nbsp;

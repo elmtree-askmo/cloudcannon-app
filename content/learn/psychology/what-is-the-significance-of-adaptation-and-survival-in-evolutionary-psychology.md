@@ -2,8 +2,10 @@
 _schema: default
 id: 170017
 date: 2025-02-05
-title: What is the significance of adaptation and survival in Evolutionary Psychology?
-article_title: What is the significance of adaptation and survival in Evolutionary Psychology?
+title: >-
+    What is the significance of adaptation and survival in Evolutionary Psychology?
+article_title: >-
+    What is the significance of adaptation and survival in Evolutionary Psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-significance-of-adaptation-and-survival-in-evolutionary-p
 url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
 score: -1.0
 related_article1:
-    id: 170008
-    title: What were the main influences of William James on the development of Functionalism?
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 related_article2:
-    id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    id: 170015
+    title: >-
+        How does Humanistic Psychology emphasize the concept of self-actualization?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+    url: /learn/psychology/questions/how-does-humanistic-psychology-emphasize-the-concept-of-selfactualization
 related_article3:
-    id: 170019
-    title: How have modern interpretations criticized Freud's developmental stages?
+    id: 170024
+    title: >-
+        What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
     subject: Psychology
-    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
 related_article4:
-    id: 170016
-    title: How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    id: 170013
+    title: >-
+        How does the concept of the unconscious mind play a role in Psychoanalysis?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
-related_article5:
-    id: 170010
-    title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
+    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168783
 date: 2025-02-04
-title: What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
-article_title: What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
+title: >-
+    What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
+article_title: >-
+    What is the impact of scar tissue on lung elasticity and how does it affect tidal volume?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-impact-of-scar-tissue-on-lung-elasticity-and-how-does-it-
 url: /learn/health-studies/questions/what-is-the-impact-of-scar-tissue-on-lung-elasticity-and-how-does-it-affect-tidal-volume
 score: -1.0
 related_article1:
-    id: 168787
-    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    id: 168792
+    title: >-
+        What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
     subject: Health Studies
-    url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
+    url: /learn/health-studies/questions/what-is-the-role-of-the-immune-response-in-maintaining-respiratory-health-particularly-in-response-to-dust-and-allergens
 related_article2:
     id: 168792
-    title: What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
+    title: >-
+        What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-the-immune-response-in-maintaining-respiratory-health-particularly-in-response-to-dust-and-allergens
 related_article3:
-    id: 168787
-    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    id: 168789
+    title: >-
+        Describe the symptoms of asthma and discuss the role of inhalers in managing these symptoms.
     subject: Health Studies
-    url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
+    url: /learn/health-studies/questions/describe-the-symptoms-of-asthma-and-discuss-the-role-of-inhalers-in-managing-these-symptoms
 related_article4:
     id: 168793
-    title: Discuss the causes and symptoms of emphysema and its effects on the alveoli.
+    title: >-
+        Discuss the causes and symptoms of emphysema and its effects on the alveoli.
     subject: Health Studies
     url: /learn/health-studies/questions/discuss-the-causes-and-symptoms-of-emphysema-and-its-effects-on-the-alveoli
 related_article5:
     id: 168784
-    title: How does the thickness of the diffusion membrane affect gas exchange in the lungs?
+    title: >-
+        How does the thickness of the diffusion membrane affect gas exchange in the lungs?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-thickness-of-the-diffusion-membrane-affect-gas-exchange-in-the-lungs
 ---

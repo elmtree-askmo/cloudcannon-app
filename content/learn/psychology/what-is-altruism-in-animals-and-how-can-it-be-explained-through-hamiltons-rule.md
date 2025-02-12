@@ -2,8 +2,10 @@
 _schema: default
 id: 170913
 date: 2025-02-07
-title: What is altruism in animals and how can it be explained through Hamilton's Rule?
-article_title: What is altruism in animals and how can it be explained through Hamilton's Rule?
+title: >-
+    What is altruism in animals and how can it be explained through Hamilton's Rule?
+article_title: >-
+    What is altruism in animals and how can it be explained through Hamilton's Rule?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamil
 url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
 score: -1.0
 related_article1:
-    id: 170918
-    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    id: 170925
+    title: >-
+        What is the role of genetic diversity in population viability and dynamics?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+    url: /learn/psychology/questions/what-is-the-role-of-genetic-diversity-in-population-viability-and-dynamics
 related_article2:
-    id: 170911
-    title: Define inclusive fitness and explain its components.
+    id: 170916
+    title: >-
+        Explain the principles of natural selection and genetic drift in evolutionary biology.
     subject: Psychology
-    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+    url: /learn/psychology/questions/explain-the-principles-of-natural-selection-and-genetic-drift-in-evolutionary-biology
 related_article3:
+    id: 170914
+    title: >-
+        Describe the mechanism of kin selection and provide an example from nature.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
+related_article4:
     id: 170924
-    title: How do genetic sharing and sibling relationships influence behavior among full and half siblings?
+    title: >-
+        How do genetic sharing and sibling relationships influence behavior among full and half siblings?
     subject: Psychology
     url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
-related_article4:
-    id: 170915
-    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
-    subject: Psychology
-    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
 related_article5:
-    id: 170915
-    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    id: 170918
+    title: >-
+        What are the sources of genetic variation and how do they contribute to adaptation?
     subject: Psychology
-    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166443
 date: 2025-01-30
-title: What is the mechanism of action for common anti-inflammatory drugs?
-article_title: What is the mechanism of action for common anti-inflammatory drugs?
+title: >-
+    What is the mechanism of action for common anti-inflammatory drugs?
+article_title: >-
+    What is the mechanism of action for common anti-inflammatory drugs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs.md
 url: /learn/nursing/questions/what-is-the-mechanism-of-action-for-common-antiinflammatory-drugs
 score: -1.0
 related_article1:
-    id: 166452
-    title: What are the severe adverse effects of opioids, particularly respiratory depression, and what precautions should be taken?
+    id: 166450
+    title: >-
+        What is patient-controlled analgesia (PCA), and what safety measures are associated with its use?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-severe-adverse-effects-of-opioids-particularly-respiratory-depression-and-what-precautions-should-be-taken
+    url: /learn/nursing/questions/what-is-patientcontrolled-analgesia-pca-and-what-safety-measures-are-associated-with-its-use
 related_article2:
-    id: 166448
-    title: What are the potential adverse effects of narcotic medications on the central nervous system?
+    id: 166444
+    title: >-
+        How do prototype drugs in the anti-inflammatory category serve as reference points for newer drugs?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-adverse-effects-of-narcotic-medications-on-the-central-nervous-system
+    url: /learn/nursing/questions/how-do-prototype-drugs-in-the-antiinflammatory-category-serve-as-reference-points-for-newer-drugs
 related_article3:
-    id: 166447
-    title: Define narcotic medications and explain their classification as controlled substances.
+    id: 166451
+    title: >-
+        Identify common adverse effects of opioids, such as constipation and drowsiness.
     subject: Nursing
-    url: /learn/nursing/questions/define-narcotic-medications-and-explain-their-classification-as-controlled-substances
+    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
 related_article4:
-    id: 166451
-    title: Identify common adverse effects of opioids, such as constipation and drowsiness.
+    id: 166445
+    title: >-
+        Explain the function of agonist medications in enhancing receptor activity.
     subject: Nursing
-    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
+    url: /learn/nursing/questions/explain-the-function-of-agonist-medications-in-enhancing-receptor-activity
 related_article5:
-    id: 166451
-    title: Identify common adverse effects of opioids, such as constipation and drowsiness.
+    id: 166449
+    title: >-
+        How are controlled substances categorized based on their potential for abuse?
     subject: Nursing
-    url: /learn/nursing/questions/identify-common-adverse-effects-of-opioids-such-as-constipation-and-drowsiness
+    url: /learn/nursing/questions/how-are-controlled-substances-categorized-based-on-their-potential-for-abuse
 ---
 
 &nbsp;

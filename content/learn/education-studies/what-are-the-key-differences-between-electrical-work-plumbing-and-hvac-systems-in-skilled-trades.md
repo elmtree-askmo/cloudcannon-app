@@ -2,8 +2,10 @@
 _schema: default
 id: 168474
 date: 2025-02-03
-title: What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
-article_title: What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
+title: >-
+    What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
+article_title: >-
+    What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-electrical-work-plumbing-and-hva
 url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
 score: -1.0
 related_article1:
-    id: 168482
-    title: Why is technical communication important in the architecture and construction industries?
+    id: 168475
+    title: >-
+        What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-technical-communication-important-in-the-architecture-and-construction-industries
+    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
 related_article2:
-    id: 168482
-    title: Why is technical communication important in the architecture and construction industries?
+    id: 168476
+    title: >-
+        Why is a high school diploma or GED important for career development in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-technical-communication-important-in-the-architecture-and-construction-industries
+    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
 related_article3:
-    id: 168480
-    title: What role do architects play in the design and implementation of structural systems?
+    id: 168476
+    title: >-
+        Why is a high school diploma or GED important for career development in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-architects-play-in-the-design-and-implementation-of-structural-systems
+    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
 related_article4:
-    id: 168486
-    title: What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
+    id: 168485
+    title: >-
+        How does vocational education contribute to career development in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-vocational-education-in-terms-of-handson-experience-and-industryrelevant-skills
+    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
 related_article5:
-    id: 168478
-    title: What is the significance of understanding state and local building codes in construction projects?
+    id: 168476
+    title: >-
+        Why is a high school diploma or GED important for career development in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-understanding-state-and-local-building-codes-in-construction-projects
+    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
 ---
 
 &nbsp;

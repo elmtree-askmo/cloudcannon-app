@@ -2,8 +2,10 @@
 _schema: default
 id: 162561
 date: 2025-01-25
-title: How can you evaluate the credibility and relevance of evidence presented in a text?
-article_title: How can you evaluate the credibility and relevance of evidence presented in a text?
+title: >-
+    How can you evaluate the credibility and relevance of evidence presented in a text?
+article_title: >-
+    How can you evaluate the credibility and relevance of evidence presented in a text?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presen
 url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
 score: -1.0
 related_article1:
-    id: 162565
-    title: How can you assess the trustworthiness of information and the author's intentions in a text?
+    id: 162575
+    title: >-
+        How can balancing different perspectives and recognizing limitations lead to more informed judgments when evaluating texts?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-assess-the-trustworthiness-of-information-and-the-authors-intentions-in-a-text
+    url: /learn/education-studies/questions/how-can-balancing-different-perspectives-and-recognizing-limitations-lead-to-more-informed-judgments-when-evaluating-texts
 related_article2:
-    id: 162254
-    title: Why is understanding the author's purpose important when analyzing a text?
+    id: 162264
+    title: >-
+        What are the key components to consider when analyzing nutrition articles, particularly regarding health benefits and dietary guidelines?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-understanding-the-authors-purpose-important-when-analyzing-a-text
+    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-analyzing-nutrition-articles-particularly-regarding-health-benefits-and-dietary-guidelines
 related_article3:
-    id: 162255
-    title: How can an author's professional affiliations and expert credentials influence their purpose in writing?
+    id: 162559
+    title: >-
+        How does word choice, including loaded language, impact the point of view presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
+    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
 related_article4:
-    id: 162562
-    title: What are the characteristics of cause-and-effect and compare-and-contrast text structures?
+    id: 162573
+    title: >-
+        How can you evaluate a persuasive text to identify the author's agenda and assess the strength of their arguments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
+    url: /learn/education-studies/questions/how-can-you-evaluate-a-persuasive-text-to-identify-the-authors-agenda-and-assess-the-strength-of-their-arguments
 related_article5:
-    id: 162572
-    title: What techniques are commonly used in persuasive writing to appeal to emotions and logic?
+    id: 162568
+    title: >-
+        What are the health benefits associated with a plant-based diet, particularly in terms of nutrient density and disease prevention?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-are-commonly-used-in-persuasive-writing-to-appeal-to-emotions-and-logic
+    url: /learn/education-studies/questions/what-are-the-health-benefits-associated-with-a-plantbased-diet-particularly-in-terms-of-nutrient-density-and-disease-prevention
 ---
 
 &nbsp;

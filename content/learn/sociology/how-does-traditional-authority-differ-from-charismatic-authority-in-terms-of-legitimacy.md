@@ -2,8 +2,10 @@
 _schema: default
 id: 165246
 date: 2025-01-28
-title: How does traditional authority differ from charismatic authority in terms of legitimacy?
-article_title: How does traditional authority differ from charismatic authority in terms of legitimacy?
+title: >-
+    How does traditional authority differ from charismatic authority in terms of legitimacy?
+article_title: >-
+    How does traditional authority differ from charismatic authority in terms of legitimacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-traditional-authority-differ-from-charismatic-authority-in-t
 url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
 score: -1.0
 related_article1:
-    id: 165249
-    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    id: 165245
+    title: >-
+        What are the key elements of Max Weber's classical organizational theory?
     subject: Sociology
-    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
 related_article2:
     id: 165253
-    title: How do centralization and decentralization differ in terms of decision-making power distribution?
+    title: >-
+        How do centralization and decentralization differ in terms of decision-making power distribution?
     subject: Sociology
     url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
 related_article3:
-    id: 165249
-    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
+    id: 165253
+    title: >-
+        How do centralization and decentralization differ in terms of decision-making power distribution?
     subject: Sociology
-    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
 related_article4:
-    id: 165248
-    title: How does bureaucratic inefficiency arise from an overemphasis on structure?
+    id: 165245
+    title: >-
+        What are the key elements of Max Weber's classical organizational theory?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
-related_article5:
-    id: 165249
-    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
-    subject: Sociology
-    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
+    url: /learn/sociology/questions/what-are-the-key-elements-of-max-webers-classical-organizational-theory
 ---
 
 &nbsp;

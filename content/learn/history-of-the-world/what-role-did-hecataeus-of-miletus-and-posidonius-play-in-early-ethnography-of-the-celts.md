@@ -2,8 +2,10 @@
 _schema: default
 id: 160380
 date: 2025-01-24
-title: What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
-article_title: What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
+title: >-
+    What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
+article_title: >-
+    What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethno
 url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
 score: 8.5
 related_article1:
-    id: 160368
-    title: What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+    id: 159914
+    title: >-
+        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
+    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
 related_article2:
-    id: 160389
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    id: 159902
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 related_article3:
-    id: 159876
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 160382
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
 related_article4:
-    id: 159916
-    title: How did Diodorus Siculus and Athenaeus describe Celtic customs?
+    id: 160392
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 related_article5:
-    id: 160377
-    title: How have Celtic languages influenced modern European languages?
+    id: 160386
+    title: >-
+        What were the primary military tactics and weaponry used by the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
+    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
 ---
 
 &nbsp;

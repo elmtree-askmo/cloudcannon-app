@@ -2,8 +2,10 @@
 _schema: default
 id: 169074
 date: 2025-02-04
-title: What are the key principles of monument relocation to ensure preservation of architectural authenticity?
-article_title: What are the key principles of monument relocation to ensure preservation of architectural authenticity?
+title: >-
+    What are the key principles of monument relocation to ensure preservation of architectural authenticity?
+article_title: >-
+    What are the key principles of monument relocation to ensure preservation of architectural authenticity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-key-principles-of-monument-relocation-to-ensure-preserva
 url: /learn/architecture/questions/what-are-the-key-principles-of-monument-relocation-to-ensure-preservation-of-architectural-authenticity
 score: -1.0
 related_article1:
+    id: 169081
+    title: >-
+        How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
+related_article2:
+    id: 169075
+    title: >-
+        How did the movement of monuments contribute to global cultural exchange?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
+related_article3:
+    id: 169071
+    title: >-
+        What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article4:
+    id: 169071
+    title: >-
+        What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    subject: Architecture
+    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+related_article5:
     id: 169079
-    title: Why is the preservation of material integrity crucial in architectural conservation?
+    title: >-
+        Why is the preservation of material integrity crucial in architectural conservation?
     subject: Architecture
     url: /learn/architecture/questions/why-is-the-preservation-of-material-integrity-crucial-in-architectural-conservation
-related_article2:
-    id: 169078
-    title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
-    subject: Architecture
-    url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
-related_article3:
-    id: 169077
-    title: How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
-    subject: Architecture
-    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
-related_article4:
-    id: 169069
-    title: What were the main steps involved in the survey and dismantling of the Nubian Temples?
-    subject: Architecture
-    url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167189
 date: 2025-01-31
-title: What is the mechanism of action for carrier proteins during facilitated diffusion?
-article_title: What is the mechanism of action for carrier proteins during facilitated diffusion?
+title: >-
+    What is the mechanism of action for carrier proteins during facilitated diffusion?
+article_title: >-
+    What is the mechanism of action for carrier proteins during facilitated diffusion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-protei
 score: -1.0
 related_article1:
     id: 167181
-    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    title: >-
+        What is the primary role of transport proteins in membrane transport mechanisms?
     subject: Biology
     url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
 related_article2:
-    id: 167199
-    title: How are large molecules and particles transported across the cell membrane?
+    id: 167188
+    title: >-
+        Describe the role of carrier proteins in facilitated diffusion.
     subject: Biology
-    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
 related_article3:
     id: 167186
-    title: How do transport proteins function as channels in passive transport?
+    title: >-
+        How do transport proteins function as channels in passive transport?
     subject: Biology
     url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 related_article4:
-    id: 167187
-    title: What factors determine the specificity and selectivity of channel proteins?
+    id: 167195
+    title: >-
+        How do concentration gradients influence the direction and rate of transport mechanisms?
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
+    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
 related_article5:
-    id: 167181
-    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    id: 167188
+    title: >-
+        Describe the role of carrier proteins in facilitated diffusion.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
 ---
 
 &nbsp;

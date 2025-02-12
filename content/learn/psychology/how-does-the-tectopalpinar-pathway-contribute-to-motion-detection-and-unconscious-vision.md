@@ -2,8 +2,10 @@
 _schema: default
 id: 164474
 date: 2025-01-28
-title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
-article_title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+title: >-
+    How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+article_title: >-
+    How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and
 url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
 score: -1.0
 related_article1:
-    id: 164463
-    title: What are the main differences between route-based and cognitive map navigation strategies?
+    id: 164468
+    title: >-
+        How does functional specialization relate to neuropsychology and memory formation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
 related_article2:
-    id: 164477
-    title: What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+    id: 164470
+    title: >-
+        How does allocentric disorientation differ from egocentric disorientation in terms of spatial awareness?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
+    url: /learn/psychology/questions/how-does-allocentric-disorientation-differ-from-egocentric-disorientation-in-terms-of-spatial-awareness
 related_article3:
+    id: 164465
+    title: >-
+        What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
+related_article4:
+    id: 164467
+    title: >-
+        What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+related_article5:
     id: 164471
-    title: What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    title: >-
+        What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
-related_article4:
-    id: 164477
-    title: What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
-related_article5:
-    id: 164461
-    title: What is the role of the motion comparison task in studying motion perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-motion-comparison-task-in-studying-motion-perception
 ---
 
 &nbsp;

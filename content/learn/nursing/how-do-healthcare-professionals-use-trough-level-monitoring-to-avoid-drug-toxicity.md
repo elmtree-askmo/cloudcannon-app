@@ -2,8 +2,10 @@
 _schema: default
 id: 166490
 date: 2025-01-30
-title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
-article_title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+title: >-
+    How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+article_title: >-
+    How do healthcare professionals use trough level monitoring to avoid drug toxicity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-
 url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
 score: -1.0
 related_article1:
-    id: 166512
-    title: What procedures ensure accurate dosing in medication administration?
+    id: 166502
+    title: >-
+        What are the requirements for drug labeling under FDA regulations?
     subject: Nursing
-    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
 related_article2:
-    id: 166509
-    title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    id: 166489
+    title: >-
+        What is the primary purpose of trough level monitoring in antibiotics?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
+    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 related_article3:
-    id: 166512
-    title: What procedures ensure accurate dosing in medication administration?
+    id: 166498
+    title: >-
+        How do biologic drugs contribute to the treatment of immune-related disorders?
     subject: Nursing
-    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
 related_article4:
-    id: 166493
-    title: What are the key components of pharmacokinetics?
+    id: 166498
+    title: >-
+        How do biologic drugs contribute to the treatment of immune-related disorders?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
 related_article5:
-    id: 166511
-    title: What strategies can be used to manage drug interactions effectively?
+    id: 166497
+    title: >-
+        What are biologic drugs and how are they developed using biotechnology?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
+    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
 ---
 
 &nbsp;

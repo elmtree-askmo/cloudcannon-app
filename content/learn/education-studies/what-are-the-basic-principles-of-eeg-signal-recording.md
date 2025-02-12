@@ -2,8 +2,10 @@
 _schema: default
 id: 164509
 date: 2025-01-28
-title: What are the basic principles of EEG signal recording?
-article_title: What are the basic principles of EEG signal recording?
+title: >-
+    What are the basic principles of EEG signal recording?
+article_title: >-
+    What are the basic principles of EEG signal recording?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-basic-principles-of-eeg-signal-recording.md
 url: /learn/education-studies/questions/what-are-the-basic-principles-of-eeg-signal-recording
 score: -1.0
 related_article1:
-    id: 164507
-    title: What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
+    id: 164508
+    title: >-
+        How does TMS contribute to understanding vision and motion detection?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-transcranial-magnetic-stimulation-tms-in-cognitive-studies
+    url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
 related_article2:
-    id: 164517
-    title: How do different brain imaging techniques compare in their application to cognitive neuroscience?
+    id: 164515
+    title: >-
+        What is the significance of semantics in language, and how does damage to posterior language regions affect it?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
+    url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
 related_article3:
-    id: 164512
-    title: How does Wernicke's aphasia affect speech comprehension?
+    id: 164526
+    title: >-
+        What contributions have neuroimaging studies made to understanding aphasia in language processing research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
+    url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
 related_article4:
-    id: 164510
-    title: Why are ERP components important in cognitive processing studies?
+    id: 164520
+    title: >-
+        What tools and techniques are used in cognitive assessment, and why are they important in language studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
+    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
 related_article5:
     id: 164526
-    title: What contributions have neuroimaging studies made to understanding aphasia in language processing research?
+    title: >-
+        What contributions have neuroimaging studies made to understanding aphasia in language processing research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
 ---

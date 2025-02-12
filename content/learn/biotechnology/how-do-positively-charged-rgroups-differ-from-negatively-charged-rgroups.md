@@ -2,8 +2,10 @@
 _schema: default
 id: 166955
 date: 2025-01-31
-title: How do positively charged R-groups differ from negatively charged R-groups?
-article_title: How do positively charged R-groups differ from negatively charged R-groups?
+title: >-
+    How do positively charged R-groups differ from negatively charged R-groups?
+article_title: >-
+    How do positively charged R-groups differ from negatively charged R-groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-positively-charged-rgroups-differ-from-negatively-charged-rgro
 url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
 score: -1.0
 related_article1:
-    id: 166969
-    title: What mechanisms are involved in protein folding pathways?
+    id: 166968
+    title: >-
+        What is the difference between essential and non-essential amino acids?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
+    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
 related_article2:
-    id: 166956
-    title: What is the role of dehydration synthesis in peptide bond formation?
+    id: 166964
+    title: >-
+        What are the causes and effects of protein denaturation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
 related_article3:
-    id: 166967
-    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    id: 166954
+    title: >-
+        What are the characteristics of nonpolar aliphatic R-groups?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
 related_article4:
-    id: 166967
-    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    id: 166962
+    title: >-
+        How does the size and shape of a protein influence its function?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+    url: /learn/biotechnology/questions/how-does-the-size-and-shape-of-a-protein-influence-its-function
 related_article5:
-    id: 166966
-    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    id: 166961
+    title: >-
+        How do multiple polypeptide chains contribute to the quaternary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
 ---
 
 &nbsp;

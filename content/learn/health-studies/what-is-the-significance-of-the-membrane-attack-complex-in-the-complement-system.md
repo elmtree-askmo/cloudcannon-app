@@ -2,8 +2,10 @@
 _schema: default
 id: 165867
 date: 2025-01-29
-title: What is the significance of the membrane attack complex in the complement system?
-article_title: What is the significance of the membrane attack complex in the complement system?
+title: >-
+    What is the significance of the membrane attack complex in the complement system?
+article_title: >-
+    What is the significance of the membrane attack complex in the complement system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-significance-of-the-membrane-attack-complex-in-the-comple
 url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
 score: -1.0
 related_article1:
+    id: 165876
+    title: >-
+        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
+related_article2:
     id: 165881
-    title: What mechanisms are involved in the sustained immune response during secondary exposure?
+    title: >-
+        What mechanisms are involved in the sustained immune response during secondary exposure?
     subject: Health Studies
     url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
-related_article2:
-    id: 165857
-    title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
 related_article3:
-    id: 165857
-    title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
+    id: 165878
+    title: >-
+        How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
+    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
 related_article4:
-    id: 165859
-    title: What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
+    id: 165868
+    title: >-
+        How do B cells and T cells differ in their roles within the immune system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
-related_article5:
-    id: 165864
-    title: How does the NF Kappa B pathway contribute to immune cell activation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
+    url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
 ---
 
 &nbsp;

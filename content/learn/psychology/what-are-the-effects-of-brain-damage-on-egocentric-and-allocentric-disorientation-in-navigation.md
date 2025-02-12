@@ -2,8 +2,10 @@
 _schema: default
 id: 164477
 date: 2025-01-28
-title: What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
-article_title: What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+title: >-
+    What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+article_title: >-
+    What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-di
 url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
 score: -1.0
 related_article1:
-    id: 164471
-    title: What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    id: 164476
+    title: >-
+        How do converging methods in neuroscience validate findings across different evidence sources?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
+    url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
 related_article2:
-    id: 164478
-    title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
+    id: 164472
+    title: >-
+        How does damage to the parahippocampal place area affect cognitive map formation and navigation?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-affect-cognitive-map-formation-and-navigation
 related_article3:
-    id: 164459
-    title: What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    id: 164467
+    title: >-
+        What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
 related_article4:
-    id: 164475
-    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+    id: 164468
+    title: >-
+        How does functional specialization relate to neuropsychology and memory formation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
 related_article5:
-    id: 164474
-    title: How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    id: 164472
+    title: >-
+        How does damage to the parahippocampal place area affect cognitive map formation and navigation?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
+    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-affect-cognitive-map-formation-and-navigation
 ---
 
 &nbsp;

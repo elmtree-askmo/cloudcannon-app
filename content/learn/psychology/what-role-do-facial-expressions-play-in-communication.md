@@ -2,8 +2,10 @@
 _schema: default
 id: 164386
 date: 2025-01-28
-title: What role do facial expressions play in communication?
-article_title: What role do facial expressions play in communication?
+title: >-
+    What role do facial expressions play in communication?
+article_title: >-
+    What role do facial expressions play in communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-facial-expressions-play-in-communication.md
 url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
 score: -1.0
 related_article1:
-    id: 164400
-    title: How do psychological theories inform our understanding of language comprehension?
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-psychological-theories-inform-our-understanding-of-language-comprehension
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 related_article2:
+    id: 164383
+    title: >-
+        What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+related_article3:
+    id: 164401
+    title: >-
+        What are Freud's theories of the mind, and how have they influenced neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+related_article4:
+    id: 164404
+    title: >-
+        What are the neural models of music processing, and how do they relate to cognition?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-models-of-music-processing-and-how-do-they-relate-to-cognition
+related_article5:
     id: 164391
-    title: How does cognitive psychology contribute to our understanding of speech production?
+    title: >-
+        How does cognitive psychology contribute to our understanding of speech production?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
-related_article3:
-    id: 164397
-    title: What role does the right hemisphere play in language comprehension?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-right-hemisphere-play-in-language-comprehension
-related_article4:
-    id: 164385
-    title: Differentiate between syntax and grammar in the context of language processing.
-    subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
-related_article5:
-    id: 164402
-    title: Discuss the impact of Freud's theories on cognitive psychology.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
 ---
 
 &nbsp;

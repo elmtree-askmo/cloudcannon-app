@@ -2,8 +2,10 @@
 _schema: default
 id: 167314
 date: 2025-01-31
-title: What causes the formation of a meniscus in a container of water?
-article_title: What causes the formation of a meniscus in a container of water?
+title: >-
+    What causes the formation of a meniscus in a container of water?
+article_title: >-
+    What causes the formation of a meniscus in a container of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-causes-the-formation-of-a-meniscus-in-a-container-of-water.md
 url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
 score: -1.0
 related_article1:
-    id: 167311
-    title: What type of bond is responsible for the partial charges in a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
-related_article2:
     id: 167318
-    title: What effect do acids have on the concentration of hydrogen ions in a solution?
+    title: >-
+        What effect do acids have on the concentration of hydrogen ions in a solution?
     subject: Chemistry
     url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
+related_article2:
+    id: 167317
+    title: >-
+        Explain how the pH scale is used to measure acidity and alkalinity.
+    subject: Chemistry
+    url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
 related_article3:
+    id: 167320
+    title: >-
+        Describe the role of the bicarbonate buffer system in regulating blood pH.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+related_article4:
     id: 167311
-    title: What type of bond is responsible for the partial charges in a water molecule?
+    title: >-
+        What type of bond is responsible for the partial charges in a water molecule?
     subject: Chemistry
     url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
-related_article4:
-    id: 167323
-    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
 related_article5:
-    id: 167323
-    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    id: 167312
+    title: >-
+        How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170547
 date: 2025-02-06
-title: How do organ systems contribute to maintaining homeostasis in the body?
-article_title: How do organ systems contribute to maintaining homeostasis in the body?
+title: >-
+    How do organ systems contribute to maintaining homeostasis in the body?
+article_title: >-
+    How do organ systems contribute to maintaining homeostasis in the body?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-organ-systems-contribute-to-maintaining-homeostasis-in-the-bod
 url: /learn/health-studies/questions/how-do-organ-systems-contribute-to-maintaining-homeostasis-in-the-body
 score: -1.0
 related_article1:
-    id: 170548
-    title: Explain the role of biochemical pathways in cellular function.
+    id: 170565
+    title: >-
+        What is the process of DNA transcription in genetic pathways?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-role-of-biochemical-pathways-in-cellular-function
+    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
 related_article2:
-    id: 170566
-    title: Describe the coagulation cascade involved in blood clotting mechanisms.
+    id: 170579
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
+    url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 related_article3:
-    id: 170551
-    title: How do positive and negative feedback mechanisms differ in physiological processes?
+    id: 170571
+    title: >-
+        How can AI hallucinations impact the use of large language models in education?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-feedback-mechanisms-differ-in-physiological-processes
+    url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
 related_article4:
-    id: 170562
-    title: What pharmacological interventions are available for treating Parkinson's disease?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
-related_article5:
     id: 170550
-    title: What mechanisms are involved in temperature regulation within the human body?
+    title: >-
+        What mechanisms are involved in temperature regulation within the human body?
     subject: Health Studies
     url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
+related_article5:
+    id: 170577
+    title: >-
+        How do local auto-regulation mechanisms affect blood vessel response?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-local-autoregulation-mechanisms-affect-blood-vessel-response
 ---
 
 &nbsp;

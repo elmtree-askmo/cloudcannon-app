@@ -2,8 +2,10 @@
 _schema: default
 id: 161744
 date: 2025-01-24
-title: How did Mexican-American youth resist and organize against racial discrimination during the Zoot Suit Riots?
-article_title: How did Mexican-American youth resist and organize against racial discrimination during the Zoot Suit Riots?
+title: >-
+    How did Mexican-American youth resist and organize against racial discrimination during the Zoot Suit Riots?
+article_title: >-
+    How did Mexican-American youth resist and organize against racial discrimination during the Zoot Suit Riots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-mexicanamerican-youth-resist-and-organize-against-racial-disc
 url: /learn/history-of-the-world/questions/how-did-mexicanamerican-youth-resist-and-organize-against-racial-discrimination-during-the-zoot-suit-riots
 score: 9.0
 related_article1:
-    id: 161738
-    title: In what ways did military influence civilian life during the Zoot Suit Riots?
+    id: 161742
+    title: >-
+        How did the LAPD's inaction contribute to the escalation of the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-military-influence-civilian-life-during-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/how-did-the-lapds-inaction-contribute-to-the-escalation-of-the-zoot-suit-riots
 related_article2:
-    id: 161745
-    title: What were the societal prejudices against zoot suiters that fueled historical racism during the riots?
+    id: 161743
+    title: >-
+        What role did racial bias in the legal system play during the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-societal-prejudices-against-zoot-suiters-that-fueled-historical-racism-during-the-riots
+    url: /learn/history-of-the-world/questions/what-role-did-racial-bias-in-the-legal-system-play-during-the-zoot-suit-riots
 related_article3:
-    id: 161741
-    title: What limitations did Mexican-American youth face in expressing their cultural identity during the Zoot Suit Riots?
+    id: 161749
+    title: >-
+        How did the Zoot Suit Riots leave a legacy and impact historical memory?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-limitations-did-mexicanamerican-youth-face-in-expressing-their-cultural-identity-during-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/how-did-the-zoot-suit-riots-leave-a-legacy-and-impact-historical-memory
 related_article4:
-    id: 161739
-    title: How did World War II impact societal dynamics and contribute to the Zoot Suit Riots?
+    id: 161742
+    title: >-
+        How did the LAPD's inaction contribute to the escalation of the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-world-war-ii-impact-societal-dynamics-and-contribute-to-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/how-did-the-lapds-inaction-contribute-to-the-escalation-of-the-zoot-suit-riots
 related_article5:
     id: 161743
-    title: What role did racial bias in the legal system play during the Zoot Suit Riots?
+    title: >-
+        What role did racial bias in the legal system play during the Zoot Suit Riots?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-racial-bias-in-the-legal-system-play-during-the-zoot-suit-riots
 ---

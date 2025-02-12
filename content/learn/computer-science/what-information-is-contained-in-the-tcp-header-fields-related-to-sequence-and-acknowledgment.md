@@ -2,8 +2,10 @@
 _schema: default
 id: 165779
 date: 2025-01-29
-title: What information is contained in the TCP header fields related to sequence and acknowledgment?
-article_title: What information is contained in the TCP header fields related to sequence and acknowledgment?
+title: >-
+    What information is contained in the TCP header fields related to sequence and acknowledgment?
+article_title: >-
+    What information is contained in the TCP header fields related to sequence and acknowledgment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-information-is-contained-in-the-tcp-header-fields-related-to-seq
 url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 score: -1.0
 related_article1:
-    id: 165771
-    title: How does TCP ensure reliable and same-order delivery of data?
+    id: 165777
+    title: >-
+        How do socket pairs facilitate communication between devices?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
+    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
 related_article2:
-    id: 165784
-    title: What is the process of the three-way handshake in TCP connection establishment?
+    id: 165769
+    title: >-
+        How does data segmentation enable multiple conversations in network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
+    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
 related_article3:
-    id: 165788
-    title: What is the responsibility of applications in handling congestion in UDP?
+    id: 165785
+    title: >-
+        How does UDP handle port number assignment and datagram forwarding?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-responsibility-of-applications-in-handling-congestion-in-udp
+    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
 related_article4:
-    id: 165766
-    title: What are the main responsibilities of the transport layer in data communication?
+    id: 165781
+    title: >-
+        How does the TCP communication process establish and terminate sessions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
+    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
 related_article5:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
+    id: 165770
+    title: >-
+        What are the basic operations of the TCP protocol in managing data transmission?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
+    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
 ---
 
 &nbsp;

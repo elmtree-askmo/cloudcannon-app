@@ -2,8 +2,10 @@
 _schema: default
 id: 166665
 date: 2025-01-31
-title: What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
-article_title: What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+title: >-
+    What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
+article_title: >-
+    What are Newton's Laws, and how do they form the foundation of mechanics concepts in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanic
 url: /learn/engineering/questions/what-are-newtons-laws-and-how-do-they-form-the-foundation-of-mechanics-concepts-in-engineering
 score: -1.0
 related_article1:
-    id: 166663
-    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    id: 166673
+    title: >-
+        How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
+    url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
 related_article2:
-    id: 166655
-    title: Why are free body diagrams crucial for visualizing forces in engineering problems?
+    id: 166666
+    title: >-
+        How are trigonometric identities used in solving engineering problems involving vector analysis?
     subject: Engineering
-    url: /learn/engineering/questions/why-are-free-body-diagrams-crucial-for-visualizing-forces-in-engineering-problems
+    url: /learn/engineering/questions/how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis
 related_article3:
-    id: 166668
-    title: How are kinematic equations used in the analysis of motion in engineering?
+    id: 166660
+    title: >-
+        What is the process of vector addition, and how is it applied in force analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
+    url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
 related_article4:
-    id: 166674
-    title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+    id: 166651
+    title: >-
+        What are the key benefits of consulting for engineers in terms of career growth and skill development?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+    url: /learn/engineering/questions/what-are-the-key-benefits-of-consulting-for-engineers-in-terms-of-career-growth-and-skill-development
 related_article5:
-    id: 166674
-    title: What are the core principles of engineering design, and how do they ensure functionality and safety?
+    id: 166662
+    title: >-
+        How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
+    url: /learn/engineering/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
 ---
 
 &nbsp;

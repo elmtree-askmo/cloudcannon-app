@@ -2,8 +2,10 @@
 _schema: default
 id: 163645
 date: 2025-01-27
-title: What role did Druids play in Celtic society, and how were they perceived by the Romans?
-article_title: What role did Druids play in Celtic society, and how were they perceived by the Romans?
+title: >-
+    What role did Druids play in Celtic society, and how were they perceived by the Romans?
+article_title: >-
+    What role did Druids play in Celtic society, and how were they perceived by the Romans?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-druids-play-in-celtic-society-and-how-were-they-perceiv
 url: /learn/history-of-the-world/questions/what-role-did-druids-play-in-celtic-society-and-how-were-they-perceived-by-the-romans
 score: 9.0
 related_article1:
+    id: 163650
+    title: >-
+        How did the use of Greek and Latin characters influence the preservation of the Gaulish language?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-use-of-greek-and-latin-characters-influence-the-preservation-of-the-gaulish-language
+related_article2:
     id: 163644
-    title: How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
+    title: >-
+        How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
-related_article2:
-    id: 163653
-    title: What are some common stereotypes found in Greek and Roman ethnographic descriptions of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-found-in-greek-and-roman-ethnographic-descriptions-of-the-celts
 related_article3:
-    id: 163655
-    title: What are the main controversies surrounding the evidence of human sacrifice in Celtic culture?
+    id: 163648
+    title: >-
+        How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-controversies-surrounding-the-evidence-of-human-sacrifice-in-celtic-culture
+    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
 related_article4:
+    id: 163649
+    title: >-
+        What were the main characteristics of the tribal structure among the Gaulish tribes?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-tribal-structure-among-the-gaulish-tribes
+related_article5:
     id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    title: >-
+        How did Roman conquest during the Gallic Wars impact Celtic society and culture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
-related_article5:
-    id: 163651
-    title: What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-gundestrup-cauldron-in-understanding-celtic-connections-to-nature
 ---
 
 &nbsp;

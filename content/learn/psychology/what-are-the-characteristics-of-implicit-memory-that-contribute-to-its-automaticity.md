@@ -2,8 +2,10 @@
 _schema: default
 id: 168049
 date: 2025-02-02
-title: What are the characteristics of implicit memory that contribute to its automaticity?
-article_title: What are the characteristics of implicit memory that contribute to its automaticity?
+title: >-
+    What are the characteristics of implicit memory that contribute to its automaticity?
+article_title: >-
+    What are the characteristics of implicit memory that contribute to its automaticity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-implicit-memory-that-contribute-to-it
 url: /learn/psychology/questions/what-are-the-characteristics-of-implicit-memory-that-contribute-to-its-automaticity
 score: -1.0
 related_article1:
+    id: 168042
+    title: >-
+        What age differences exist in the vividness and positivity of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-age-differences-exist-in-the-vividness-and-positivity-of-selfdefining-memories
+related_article2:
     id: 168047
-    title: What strategies can improve memory retrieval processes in older adults?
+    title: >-
+        What strategies can improve memory retrieval processes in older adults?
     subject: Psychology
     url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
-related_article2:
-    id: 168033
-    title: What are the key factors contributing to the decline of recent long-term memory in older adults?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
 related_article3:
-    id: 168040
-    title: What research findings highlight the age-related decline in memory stability?
+    id: 168037
+    title: >-
+        What distinguishes episodic memory from semantic memory within declarative memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+    url: /learn/psychology/questions/what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory
 related_article4:
-    id: 168040
-    title: What research findings highlight the age-related decline in memory stability?
+    id: 168036
+    title: >-
+        How does primary memory differ from secondary memory in terms of stability with age?
     subject: Psychology
-    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+    url: /learn/psychology/questions/how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age
 related_article5:
-    id: 168034
-    title: How can encoding strategies benefit older adults in maintaining memory function?
+    id: 168046
+    title: >-
+        How does automatic retrieval in procedural memory differ from declarative memory retrieval?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
+    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
 ---
 
 &nbsp;

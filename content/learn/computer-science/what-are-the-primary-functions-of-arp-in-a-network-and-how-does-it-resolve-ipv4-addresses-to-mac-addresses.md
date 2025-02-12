@@ -2,8 +2,10 @@
 _schema: default
 id: 165801
 date: 2025-01-29
-title: What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
-article_title: What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
+title: >-
+    What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
+article_title: >-
+    What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-primary-functions-of-arp-in-a-network-and-how-does-it-re
 url: /learn/computer-science/questions/what-are-the-primary-functions-of-arp-in-a-network-and-how-does-it-resolve-ipv4-addresses-to-mac-addresses
 score: -1.0
 related_article1:
-    id: 165799
-    title: What are the main differences between static and dynamic routing, and how do they impact network management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-differences-between-static-and-dynamic-routing-and-how-do-they-impact-network-management
-related_article2:
-    id: 165794
-    title: What are the primary limitations of IPv4, and how do they affect network performance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-limitations-of-ipv4-and-how-do-they-affect-network-performance
-related_article3:
-    id: 165790
-    title: How does IP encapsulation ensure consistency between IPv4 and IPv6 packets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ip-encapsulation-ensure-consistency-between-ipv4-and-ipv6-packets
-related_article4:
-    id: 165798
-    title: What information is typically displayed in a host's routing table, and why is it important for network communication?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-typically-displayed-in-a-hosts-routing-table-and-why-is-it-important-for-network-communication
-related_article5:
     id: 165797
-    title: How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
+    title: >-
+        How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-a-host-determine-whether-to-send-a-packet-to-a-local-or-remote-host-and-what-role-does-the-default-gateway-play-in-this-process
+related_article2:
+    id: 165789
+    title: >-
+        What are the basic operations of the network layer, and how do they contribute to data transmission?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-network-layer-and-how-do-they-contribute-to-data-transmission
+related_article3:
+    id: 165796
+    title: >-
+        What are the significant fields in the IPv6 packet header, and how do they contribute to efficient packet handling?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-significant-fields-in-the-ipv6-packet-header-and-how-do-they-contribute-to-efficient-packet-handling
+related_article4:
+    id: 165789
+    title: >-
+        What are the basic operations of the network layer, and how do they contribute to data transmission?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-network-layer-and-how-do-they-contribute-to-data-transmission
 ---
 
 &nbsp;

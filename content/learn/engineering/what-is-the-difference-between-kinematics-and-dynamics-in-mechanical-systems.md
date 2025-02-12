@@ -2,8 +2,10 @@
 _schema: default
 id: 166685
 date: 2025-01-31
-title: What is the difference between kinematics and dynamics in mechanical systems?
-article_title: What is the difference between kinematics and dynamics in mechanical systems?
+title: >-
+    What is the difference between kinematics and dynamics in mechanical systems?
+article_title: >-
+    What is the difference between kinematics and dynamics in mechanical systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-
 url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
 score: -1.0
 related_article1:
-    id: 166688
-    title: What steps are involved in breaking down forces for static analysis?
-    subject: Engineering
-    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
-related_article2:
     id: 166680
-    title: How do you apply equilibrium equations to solve for unknown forces?
+    title: >-
+        How do you apply equilibrium equations to solve for unknown forces?
     subject: Engineering
     url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
+related_article2:
+    id: 166676
+    title: >-
+        How do you determine the direction of a force using unit vectors?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
 related_article3:
-    id: 166675
-    title: What is the magnitude of a force vector and how is it calculated?
+    id: 166681
+    title: >-
+        Describe Hooke's Law and its relation to displacement and force.
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+    url: /learn/engineering/questions/describe-hookes-law-and-its-relation-to-displacement-and-force
 related_article4:
-    id: 166675
-    title: What is the magnitude of a force vector and how is it calculated?
+    id: 166679
+    title: >-
+        What are the conditions necessary for static equilibrium?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+    url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
 related_article5:
     id: 166680
-    title: How do you apply equilibrium equations to solve for unknown forces?
+    title: >-
+        How do you apply equilibrium equations to solve for unknown forces?
     subject: Engineering
     url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
 ---

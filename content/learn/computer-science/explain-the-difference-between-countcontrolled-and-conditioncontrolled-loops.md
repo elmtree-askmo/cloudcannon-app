@@ -2,8 +2,10 @@
 _schema: default
 id: 161477
 date: 2025-01-24
-title: Explain the difference between count-controlled and condition-controlled loops.
-article_title: Explain the difference between count-controlled and condition-controlled loops.
+title: >-
+    Explain the difference between count-controlled and condition-controlled loops.
+article_title: >-
+    Explain the difference between count-controlled and condition-controlled loops.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-difference-between-countcontrolled-and-conditioncontrolle
 url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
 score: -1.0
 related_article1:
-    id: 161189
-    title: What are the basic mathematical operators used in programming?
+    id: 161192
+    title: >-
+        How does user input control affect condition-controlled loops?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-mathematical-operators-used-in-programming
+    url: /learn/computer-science/questions/how-does-user-input-control-affect-conditioncontrolled-loops
 related_article2:
-    id: 161488
-    title: How do control structures like sequence, selection, and iteration influence program flow?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
-related_article3:
-    id: 161193
-    title: What is iteration and how does it differ from simple repetition?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
-related_article4:
-    id: 161182
-    title: What is pseudocode and how is it used in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
-related_article5:
     id: 161485
-    title: How is process flow represented in a flowchart?
+    title: >-
+        How is process flow represented in a flowchart?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-process-flow-represented-in-a-flowchart
+related_article3:
+    id: 161485
+    title: >-
+        How is process flow represented in a flowchart?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-process-flow-represented-in-a-flowchart
+related_article4:
+    id: 161375
+    title: >-
+        Why are data types important in programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+related_article5:
+    id: 161188
+    title: >-
+        Differentiate between procedures and functions in subroutines.
+    subject: Computer Science
+    url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
 ---
 
 &nbsp;

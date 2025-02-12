@@ -2,8 +2,10 @@
 _schema: default
 id: 169264
 date: 2025-02-04
-title: How do online readings integrate with lectures, and how are they relevant to assessments?
-article_title: How do online readings integrate with lectures, and how are they relevant to assessments?
+title: >-
+    How do online readings integrate with lectures, and how are they relevant to assessments?
+article_title: >-
+    How do online readings integrate with lectures, and how are they relevant to assessments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-online-readings-integrate-with-lectures-and-how-are-they-relev
 url: /learn/education-studies/questions/how-do-online-readings-integrate-with-lectures-and-how-are-they-relevant-to-assessments
 score: -1.0
 related_article1:
-    id: 169258
-    title: Which areas of course content are emphasized in the quiz, and which are excluded?
+    id: 169261
+    title: >-
+        What constitutes academic misconduct in terms of remote participation and unauthorized computer use?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
+    url: /learn/education-studies/questions/what-constitutes-academic-misconduct-in-terms-of-remote-participation-and-unauthorized-computer-use
 related_article2:
-    id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
+    id: 169262
+    title: >-
+        What are the consequences of academic misconduct?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
+    url: /learn/education-studies/questions/what-are-the-consequences-of-academic-misconduct
 related_article3:
-    id: 169248
-    title: What is the start time and duration of the quiz?
+    id: 169265
+    title: >-
+        What key topics are covered in lecture materials, and what supplementary information is provided?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-start-time-and-duration-of-the-quiz
+    url: /learn/education-studies/questions/what-key-topics-are-covered-in-lecture-materials-and-what-supplementary-information-is-provided
 related_article4:
-    id: 169258
-    title: Which areas of course content are emphasized in the quiz, and which are excluded?
+    id: 169252
+    title: >-
+        What is the focus of the content in the multiple choice questions?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
+    url: /learn/education-studies/questions/what-is-the-focus-of-the-content-in-the-multiple-choice-questions
 related_article5:
-    id: 169253
-    title: How many terms are included in the definitions section, and what criteria are used for their selection?
+    id: 169256
+    title: >-
+        What are the requirements for completeness and support in short essay answers?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-many-terms-are-included-in-the-definitions-section-and-what-criteria-are-used-for-their-selection
+    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
 ---
 
 &nbsp;

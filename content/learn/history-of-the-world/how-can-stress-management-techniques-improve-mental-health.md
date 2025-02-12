@@ -2,8 +2,10 @@
 _schema: default
 id: 166226
 date: 2025-01-29
-title: How can stress management techniques improve mental health?
-article_title: How can stress management techniques improve mental health?
+title: >-
+    How can stress management techniques improve mental health?
+article_title: >-
+    How can stress management techniques improve mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-can-stress-management-techniques-improve-mental-health.md
 url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
 score: 8.5
 related_article1:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
+    id: 166241
+    title: >-
+        What are the key developments in prehistory that led to the transition to recorded history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
 related_article2:
-    id: 166233
-    title: How has historiography evolved from ancient to modern times?
+    id: 166235
+    title: >-
+        What are the primary environmental impacts of human activities like deforestation and pollution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
+    url: /learn/history-of-the-world/questions/what-are-the-primary-environmental-impacts-of-human-activities-like-deforestation-and-pollution
 related_article3:
-    id: 166239
-    title: What are the challenges associated with the preservation and access of historical documents?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-challenges-associated-with-the-preservation-and-access-of-historical-documents
+    id: 166213
+    title: >-
+        What were the key developments in the historical context of Arabic studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
 related_article4:
     id: 166227
-    title: What are the primary types of historical evidence, and how are they evaluated for reliability?
+    title: >-
+        What are the primary types of historical evidence, and how are they evaluated for reliability?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
+related_article5:
+    id: 166219
+    title: >-
+        What is the significance of primary sources in historical research?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-primary-sources-in-historical-research
 ---
 
 &nbsp;

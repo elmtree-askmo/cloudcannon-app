@@ -2,8 +2,10 @@
 _schema: default
 id: 161911
 date: 2025-01-24
-title: Provide examples of compounds and their chemical formulas.
-article_title: Provide examples of compounds and their chemical formulas.
+title: >-
+    Provide examples of compounds and their chemical formulas.
+article_title: >-
+    Provide examples of compounds and their chemical formulas.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-examples-of-compounds-and-their-chemical-formulas.md
 url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 score: -1.0
 related_article1:
+    id: 161834
+    title: >-
+        What is the significance of chemical symbols in representing elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-chemical-symbols-in-representing-elements
+related_article2:
+    id: 161912
+    title: >-
+        What are the defining characteristics of homogeneous mixtures?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-homogeneous-mixtures
+related_article3:
+    id: 161916
+    title: >-
+        What are the physical properties of matter related to mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-related-to-mass-and-volume
+related_article4:
+    id: 161708
+    title: >-
+        What is the definition of matter in terms of mass and volume?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-definition-of-matter-in-terms-of-mass-and-volume
+related_article5:
     id: 161838
-    title: What are the physical properties of matter, and how are mass and volume related to them?
+    title: >-
+        What are the physical properties of matter, and how are mass and volume related to them?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
-related_article2:
-    id: 161709
-    title: How are pure substances classified in terms of elements and compounds?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
-related_article3:
-    id: 161725
-    title: How is mass considered a physical property of matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-is-mass-considered-a-physical-property-of-matter
-related_article4:
-    id: 161915
-    title: Provide examples of heterogeneous mixtures.
-    subject: Chemistry
-    url: /learn/chemistry/questions/provide-examples-of-heterogeneous-mixtures
-related_article5:
-    id: 161886
-    title: List some examples of homogeneous mixtures.
-    subject: Chemistry
-    url: /learn/chemistry/questions/list-some-examples-of-homogeneous-mixtures
 ---
 
 &nbsp;

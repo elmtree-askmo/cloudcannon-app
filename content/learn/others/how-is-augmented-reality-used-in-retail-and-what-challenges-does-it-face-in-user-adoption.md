@@ -2,8 +2,10 @@
 _schema: default
 id: 162736
 date: 2025-01-25
-title: How is augmented reality used in retail, and what challenges does it face in user adoption?
-article_title: How is augmented reality used in retail, and what challenges does it face in user adoption?
+title: >-
+    How is augmented reality used in retail, and what challenges does it face in user adoption?
+article_title: >-
+    How is augmented reality used in retail, and what challenges does it face in user adoption?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-augmented-reality-used-in-retail-and-what-challenges-does-it-f
 url: /learn/others/questions/how-is-augmented-reality-used-in-retail-and-what-challenges-does-it-face-in-user-adoption
 score: -1.0
 related_article1:
-    id: 162650
-    title: What are the main differences between supervised, unsupervised, and reinforcement learning algorithms in machine learning?
+    id: 162660
+    title: >-
+        What are the main differences between Hadoop and Spark in big data technologies?
     subject: Others
-    url: /learn/others/questions/what-are-the-main-differences-between-supervised-unsupervised-and-reinforcement-learning-algorithms-in-machine-learning
+    url: /learn/others/questions/what-are-the-main-differences-between-hadoop-and-spark-in-big-data-technologies
 related_article2:
-    id: 162724
-    title: What are the advantages of using Python for data science compared to other programming languages?
+    id: 162357
+    title: >-
+        What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
     subject: Others
-    url: /learn/others/questions/what-are-the-advantages-of-using-python-for-data-science-compared-to-other-programming-languages
+    url: /learn/others/questions/what-are-the-core-concepts-of-artificial-intelligence-and-how-do-they-apply-to-autonomous-vehicles-and-virtual-assistants
 related_article3:
-    id: 162670
-    title: What are the best practices for responsive design and SEO optimization in web development?
-    subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
-related_article4:
-    id: 162723
-    title: How do relational databases differ from NoSQL databases in terms of structure and use cases?
+    id: 162841
+    title: >-
+        How do relational databases differ from NoSQL databases in terms of structure and use cases?
     subject: Others
     url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-in-terms-of-structure-and-use-cases
-related_article5:
-    id: 162728
-    title: How do LAN and WAN differ in terms of network architecture?
+related_article4:
+    id: 162370
+    title: >-
+        What are the main components of information systems, and how do they support decision-making processes?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
+    url: /learn/others/questions/what-are-the-main-components-of-information-systems-and-how-do-they-support-decisionmaking-processes
+related_article5:
+    id: 162649
+    title: >-
+        How is Excel used in data analysis, and what are its limitations compared to R and Python?
+    subject: Others
+    url: /learn/others/questions/how-is-excel-used-in-data-analysis-and-what-are-its-limitations-compared-to-r-and-python
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162055
 date: 2025-01-24
-title: What are the characteristics of a precipitation reaction involving silver and chloride ions?
-article_title: What are the characteristics of a precipitation reaction involving silver and chloride ions?
+title: >-
+    What are the characteristics of a precipitation reaction involving silver and chloride ions?
+article_title: >-
+    What are the characteristics of a precipitation reaction involving silver and chloride ions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-a-precipitation-reaction-involving-si
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction-involving-silver-and-chloride-ions
 score: -1.0
 related_article1:
-    id: 162018
-    title: How does the reactivity of hydrogen differ from that of oxygen?
+    id: 161970
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
 related_article2:
-    id: 162020
-    title: Explain the process of a liquid changing to a solid and provide an example.
+    id: 162059
+    title: >-
+        What is the process of ionization and how does it affect the charge of particles?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles
 related_article3:
-    id: 162017
-    title: What is a precipitation reaction and how can it be identified?
+    id: 161946
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 related_article4:
-    id: 162023
-    title: How does the process of evaporation differ from freezing in terms of state transitions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
-related_article5:
     id: 161965
-    title: What is the role of oxygen in combustion reactions?
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+related_article5:
+    id: 161985
+    title: >-
+        Describe the physical change that occurs when aluminum foil is crumbled.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 ---
 
 &nbsp;

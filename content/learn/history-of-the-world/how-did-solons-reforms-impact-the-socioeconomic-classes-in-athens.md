@@ -2,8 +2,10 @@
 _schema: default
 id: 166025
 date: 2025-01-29
-title: How did Solon's reforms impact the socioeconomic classes in Athens?
-article_title: How did Solon's reforms impact the socioeconomic classes in Athens?
+title: >-
+    How did Solon's reforms impact the socioeconomic classes in Athens?
+article_title: >-
+    How did Solon's reforms impact the socioeconomic classes in Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens.md
 url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
 score: 9.0
 related_article1:
-    id: 166028
-    title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+    id: 166020
+    title: >-
+        What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
+    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
 related_article2:
-    id: 166017
-    title: What was the historical significance of Athens as an urban center in ancient times?
+    id: 166019
+    title: >-
+        What is the myth of Synoikism, and how does it relate to the Attica region?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
+    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
 related_article3:
-    id: 166027
-    title: What were the main characteristics of the mythical kingship and aristocracy in Athens' historical context?
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-mythical-kingship-and-aristocracy-in-athens-historical-context
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 related_article4:
-    id: 166023
-    title: Who were the Archons, and what was their function in Athenian political institutions?
+    id: 166037
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
+    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
 related_article5:
-    id: 166021
-    title: How did the concept of direct democracy function in ancient Athens?
+    id: 166036
+    title: >-
+        What mythical contributions did Theseus make to the concept of synoikism in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 ---
 
 &nbsp;

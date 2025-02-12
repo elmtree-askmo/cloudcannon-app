@@ -2,8 +2,10 @@
 _schema: default
 id: 165107
 date: 2025-01-28
-title: Why is accurate data coding important and what are some common coding errors?
-article_title: Why is accurate data coding important and what are some common coding errors?
+title: >-
+    Why is accurate data coding important and what are some common coding errors?
+article_title: >-
+    Why is accurate data coding important and what are some common coding errors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: why-is-accurate-data-coding-important-and-what-are-some-common-coding
 url: /learn/education-studies/questions/why-is-accurate-data-coding-important-and-what-are-some-common-coding-errors
 score: -1.0
 related_article1:
-    id: 165108
-    title: What are some popular software tools used for data coding and what are best practices?
+    id: 165116
+    title: >-
+        What are some common pitfalls in reporting experimental outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-popular-software-tools-used-for-data-coding-and-what-are-best-practices
+    url: /learn/education-studies/questions/what-are-some-common-pitfalls-in-reporting-experimental-outcomes
 related_article2:
-    id: 165105
-    title: How can the order of questions in a survey impact responses?
+    id: 165098
+    title: >-
+        How can independent variables be manipulated to impact experimental outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
+    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
 related_article3:
-    id: 165099
-    title: What are the characteristics of nominal measurement types?
+    id: 165111
+    title: >-
+        What is the difference between continuous and categorical variables?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
+    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 related_article4:
-    id: 165103
-    title: Why is control and randomization important in experimental design?
+    id: 165117
+    title: >-
+        What is the importance of pilot testing in questionnaire design?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-control-and-randomization-important-in-experimental-design
+    url: /learn/education-studies/questions/what-is-the-importance-of-pilot-testing-in-questionnaire-design
+related_article5:
+    id: 165098
+    title: >-
+        How can independent variables be manipulated to impact experimental outcomes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
 ---
 
 &nbsp;

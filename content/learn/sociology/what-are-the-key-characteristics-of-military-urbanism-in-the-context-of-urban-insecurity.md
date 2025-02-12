@@ -2,8 +2,10 @@
 _schema: default
 id: 162934
 date: 2025-01-26
-title: What are the key characteristics of military urbanism in the context of urban insecurity?
-article_title: What are the key characteristics of military urbanism in the context of urban insecurity?
+title: >-
+    What are the key characteristics of military urbanism in the context of urban insecurity?
+article_title: >-
+    What are the key characteristics of military urbanism in the context of urban insecurity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-military-urbanism-in-the-context-
 url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 score: -1.0
 related_article1:
+    id: 162940
+    title: >-
+        How do city-states and shanty-states function as loci of geopolitical control?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
+related_article2:
     id: 162936
-    title: Explain the role of geostrategic power in the state of states and its impact on urban security.
+    title: >-
+        Explain the role of geostrategic power in the state of states and its impact on urban security.
     subject: Sociology
     url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
-related_article2:
+related_article3:
     id: 162943
-    title: What role do security protocols play in urban analysis and warfare?
+    title: >-
+        What role do security protocols play in urban analysis and warfare?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
-related_article3:
-    id: 162938
-    title: What are the implications of informal urbanization on the security of megacities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanization-on-the-security-of-megacities
 related_article4:
-    id: 162937
-    title: How do non-state actors influence post-national networks in urban settings?
+    id: 162946
+    title: >-
+        What are urban canyons, and how do they affect military operations in urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-nonstate-actors-influence-postnational-networks-in-urban-settings
+    url: /learn/sociology/questions/what-are-urban-canyons-and-how-do-they-affect-military-operations-in-urban-areas
 related_article5:
-    id: 162950
-    title: How do three-dimensional models assist in understanding volumetric conflict environments?
+    id: 162951
+    title: >-
+        What is the role of the securocratic state in managing urban security?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 ---
 
 &nbsp;

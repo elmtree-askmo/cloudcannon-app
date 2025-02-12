@@ -2,8 +2,10 @@
 _schema: default
 id: 169207
 date: 2025-02-04
-title: Explain the concept of Mitsein and its relevance to community and shared experience.
-article_title: Explain the concept of Mitsein and its relevance to community and shared experience.
+title: >-
+    Explain the concept of Mitsein and its relevance to community and shared experience.
+article_title: >-
+    Explain the concept of Mitsein and its relevance to community and shared experience.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: explain-the-concept-of-mitsein-and-its-relevance-to-community-and-sha
 url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
 score: -1.0
 related_article1:
-    id: 169211
-    title: What are the political implications of house-burning in post-war Bosnia?
+    id: 169203
+    title: >-
+        How does urbicide differ conceptually from other forms of destruction?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
 related_article2:
-    id: 169213
-    title: How does the Russian assault on Chechnya exemplify urban annihilation and total destruction?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-the-russian-assault-on-chechnya-exemplify-urban-annihilation-and-total-destruction
-related_article3:
     id: 169208
-    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
-related_article4:
-    id: 169211
-    title: What are the political implications of house-burning in post-war Bosnia?
+related_article3:
+    id: 169215
+    title: >-
+        How does global urbanisation pose future challenges in the context of security and conflict studies?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+    url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
+related_article4:
+    id: 169215
+    title: >-
+        How does global urbanisation pose future challenges in the context of security and conflict studies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-global-urbanisation-pose-future-challenges-in-the-context-of-security-and-conflict-studies
+related_article5:
+    id: 169209
+    title: >-
+        How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
 ---
 
 &nbsp;

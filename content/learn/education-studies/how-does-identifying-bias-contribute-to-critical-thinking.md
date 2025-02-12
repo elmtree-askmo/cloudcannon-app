@@ -2,8 +2,10 @@
 _schema: default
 id: 164096
 date: 2025-01-28
-title: How does identifying bias contribute to critical thinking?
-article_title: How does identifying bias contribute to critical thinking?
+title: >-
+    How does identifying bias contribute to critical thinking?
+article_title: >-
+    How does identifying bias contribute to critical thinking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-identifying-bias-contribute-to-critical-thinking.md
 url: /learn/education-studies/questions/how-does-identifying-bias-contribute-to-critical-thinking
 score: -1.0
 related_article1:
-    id: 164111
-    title: How does university structure differ from college, particularly in terms of independent learning?
+    id: 164107
+    title: >-
+        What are the key components of effective verbal communication in public speaking?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-university-structure-differ-from-college-particularly-in-terms-of-independent-learning
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-verbal-communication-in-public-speaking
 related_article2:
-    id: 164110
-    title: What skills are essential for adapting to new technologies in lifelong learning?
+    id: 164103
+    title: >-
+        What are some effective techniques for managing time during exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-are-essential-for-adapting-to-new-technologies-in-lifelong-learning
+    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-managing-time-during-exams
 related_article3:
-    id: 164113
-    title: How can reflective writing be used to learn from personal experiences?
+    id: 164095
+    title: >-
+        What strategies can be used to evaluate arguments critically?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-be-used-to-learn-from-personal-experiences
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-evaluate-arguments-critically
 related_article4:
-    id: 164097
-    title: What is the role of self-assessment in metacognition, and how can it be applied?
+    id: 164100
+    title: >-
+        How can group discussions enhance collaborative learning in study groups?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-selfassessment-in-metacognition-and-how-can-it-be-applied
+    url: /learn/education-studies/questions/how-can-group-discussions-enhance-collaborative-learning-in-study-groups
 related_article5:
-    id: 164104
-    title: How can practice tests contribute to better exam preparation?
+    id: 164105
+    title: >-
+        What are the benefits of joining a university research community?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-practice-tests-contribute-to-better-exam-preparation
+    url: /learn/education-studies/questions/what-are-the-benefits-of-joining-a-university-research-community
 ---
 
 &nbsp;

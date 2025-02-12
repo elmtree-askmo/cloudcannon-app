@@ -2,8 +2,10 @@
 _schema: default
 id: 163343
 date: 2025-01-26
-title: How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
-article_title: How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
+title: >-
+    How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
+article_title: >-
+    How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-population-attributable-proportion-par-calculated-and-what
 url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-must-be-made
 score: -1.0
 related_article1:
-    id: 163235
-    title: What is the relationship between prevalence, incidence rate, and disease duration?
+    id: 163332
+    title: >-
+        How is prevalence calculated, and what does it indicate about a population?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
+    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
 related_article2:
-    id: 163334
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163341
+    title: >-
+        How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
+related_article3:
+    id: 163071
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
+related_article4:
+    id: 163233
+    title: >-
+        Explain the concept of person-time in the context of incidence rate calculation.
     subject: Health Studies
     url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
-related_article3:
-    id: 163230
-    title: What is a rate in epidemiology, and how can it be misunderstood?
+related_article5:
+    id: 163067
+    title: >-
+        What is a rate in epidemiology, and how can it be misunderstood?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
-related_article4:
-    id: 163064
-    title: What is the significance of measuring disease frequency over a consistent time interval?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
-related_article5:
-    id: 163065
-    title: How is a ratio different from a proportion in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 ---
 
 &nbsp;

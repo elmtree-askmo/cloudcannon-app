@@ -2,8 +2,10 @@
 _schema: default
 id: 169589
 date: 2025-02-05
-title: What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
-article_title: What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
+title: >-
+    What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
+article_title: >-
+    What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-florence-nightingales-major-contributions-to-the-field-of-n
 url: /learn/nursing/questions/what-were-florence-nightingales-major-contributions-to-the-field-of-nursing-and-what-criticisms-has-she-faced
 score: -1.0
 related_article1:
-    id: 169596
-    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    id: 169594
+    title: >-
+        How do socio-economic factors influence access to healthcare services and health outcomes?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
 related_article2:
-    id: 169591
-    title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+    id: 169600
+    title: >-
+        How have societal norms historically influenced healthcare practices, and what is their impact today?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
 related_article3:
-    id: 169598
-    title: How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+    id: 169597
+    title: >-
+        What are the differences between direct and indirect discrimination in healthcare settings, and how do they impact patient care?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
+    url: /learn/nursing/questions/what-are-the-differences-between-direct-and-indirect-discrimination-in-healthcare-settings-and-how-do-they-impact-patient-care
 related_article4:
-    id: 169595
-    title: Why is cultural competence important in nursing, and how can it be improved through training and education?
+    id: 169585
+    title: >-
+        What are the limitations and criticisms of the medical model of disability?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
 related_article5:
-    id: 169592
-    title: How does institutional racism affect healthcare access for ethnic minorities?
+    id: 169585
+    title: >-
+        What are the limitations and criticisms of the medical model of disability?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
 ---
 
 &nbsp;

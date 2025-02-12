@@ -2,8 +2,10 @@
 _schema: default
 id: 170585
 date: 2025-02-06
-title: What functions are associated with the frontal lobe in terms of personality and planning?
-article_title: What functions are associated with the frontal lobe in terms of personality and planning?
+title: >-
+    What functions are associated with the frontal lobe in terms of personality and planning?
+article_title: >-
+    What functions are associated with the frontal lobe in terms of personality and planning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-functions-are-associated-with-the-frontal-lobe-in-terms-of-perso
 url: /learn/psychology/questions/what-functions-are-associated-with-the-frontal-lobe-in-terms-of-personality-and-planning
 score: -1.0
 related_article1:
-    id: 170596
-    title: How does modern technology impact the sleep-wake cycle and internal clock regulation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
-related_article2:
-    id: 170591
-    title: What is the function of the reticular formation in maintaining alertness and awareness?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
-related_article3:
-    id: 170578
-    title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
-    subject: Psychology
-    url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
-related_article4:
-    id: 170595
-    title: What role does the epithalamus play in regulating the circadian rhythm?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-epithalamus-play-in-regulating-the-circadian-rhythm
-related_article5:
     id: 170588
-    title: How does the occipital lobe process visual information?
+    title: >-
+        How does the occipital lobe process visual information?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
+related_article2:
+    id: 170587
+    title: >-
+        What is the role of the parietal lobe in spatial awareness?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-parietal-lobe-in-spatial-awareness
+related_article3:
+    id: 170589
+    title: >-
+        What is the role of serotonin in mood regulation and behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+related_article4:
+    id: 170569
+    title: >-
+        How does the hypothalamus regulate homeostasis in the body?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
+related_article5:
+    id: 170580
+    title: >-
+        What are the effects of trauma on epigenetic changes in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
 ---
 
 &nbsp;

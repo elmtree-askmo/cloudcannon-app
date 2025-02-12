@@ -2,8 +2,10 @@
 _schema: default
 id: 165977
 date: 2025-01-29
-title: What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
-article_title: What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
+title: >-
+    What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
+article_title: >-
+    What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-expressionism-and-how-are-they-de
 url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 score: 9.0
 related_article1:
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
+related_article2:
+    id: 165963
+    title: >-
+        How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
+related_article3:
+    id: 165976
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
+related_article4:
+    id: 165968
+    title: >-
+        How did the rise of social consciousness during the Industrial Revolution influence art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
+related_article5:
     id: 165965
-    title: What are the key characteristics of Realism and how do they differ from Romanticism?
+    title: >-
+        What are the key characteristics of Realism and how do they differ from Romanticism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
-related_article2:
-    id: 165966
-    title: How did the Pre-Raphaelite movement oppose the academic style of its time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
-related_article3:
-    id: 165966
-    title: How did the Pre-Raphaelite movement oppose the academic style of its time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
-related_article4:
-    id: 165964
-    title: In what ways did artists intellectually engage with industrial innovations and societal changes?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-artists-intellectually-engage-with-industrial-innovations-and-societal-changes
-related_article5:
-    id: 165973
-    title: What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 ---
 
 &nbsp;

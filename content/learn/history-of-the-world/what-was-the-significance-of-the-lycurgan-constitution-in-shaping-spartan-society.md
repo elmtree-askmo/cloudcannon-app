@@ -2,8 +2,10 @@
 _schema: default
 id: 163570
 date: 2025-01-27
-title: What was the significance of the Lycurgan Constitution in shaping Spartan society?
-article_title: What was the significance of the Lycurgan Constitution in shaping Spartan society?
+title: >-
+    What was the significance of the Lycurgan Constitution in shaping Spartan society?
+article_title: >-
+    What was the significance of the Lycurgan Constitution in shaping Spartan society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spa
 url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 score: 9.0
 related_article1:
-    id: 163574
-    title: What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
-related_article2:
-    id: 163582
-    title: What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the-spartan-dyarchy-and-how-did-it-affect-governance
-related_article3:
     id: 163580
-    title: What were the main social divisions in Spartan society, and how did they function?
+    title: >-
+        What were the main social divisions in Spartan society, and how did they function?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-social-divisions-in-spartan-society-and-how-did-they-function
+related_article2:
+    id: 163576
+    title: >-
+        What were the main causes and outcomes of the Messenian Wars?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
+related_article3:
+    id: 163573
+    title: >-
+        Identify two key literary sources for studying ancient Sparta and describe their contributions.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for-studying-ancient-sparta-and-describe-their-contributions
 related_article4:
-    id: 163577
-    title: How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
+    id: 163580
+    title: >-
+        What were the main social divisions in Spartan society, and how did they function?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
+    url: /learn/history-of-the-world/questions/what-were-the-main-social-divisions-in-spartan-society-and-how-did-they-function
 related_article5:
-    id: 163578
-    title: What archaeological evidence supports our understanding of Spartan society?
+    id: 163579
+    title: >-
+        Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
 ---
 
 &nbsp;

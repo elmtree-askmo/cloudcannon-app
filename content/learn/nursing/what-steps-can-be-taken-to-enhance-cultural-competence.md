@@ -2,8 +2,10 @@
 _schema: default
 id: 169814
 date: 2025-02-05
-title: What steps can be taken to enhance cultural competence?
-article_title: What steps can be taken to enhance cultural competence?
+title: >-
+    What steps can be taken to enhance cultural competence?
+article_title: >-
+    What steps can be taken to enhance cultural competence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-steps-can-be-taken-to-enhance-cultural-competence.md
 url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
 score: -1.0
 related_article1:
-    id: 169803
-    title: How can one assess personal feelings to identify areas for improvement?
+    id: 169817
+    title: >-
+        How does body language influence interpersonal communication?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
+    url: /learn/nursing/questions/how-does-body-language-influence-interpersonal-communication
 related_article2:
-    id: 169823
-    title: What is the role of self-reflection in personal growth and development?
+    id: 169824
+    title: >-
+        How do professional values influence career development?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
+    url: /learn/nursing/questions/how-do-professional-values-influence-career-development
 related_article3:
-    id: 169807
-    title: How does managing emotions impact decision making?
+    id: 169810
+    title: >-
+        What is the significance of continuous learning in professional development?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
+    url: /learn/nursing/questions/what-is-the-significance-of-continuous-learning-in-professional-development
 related_article4:
-    id: 169807
-    title: How does managing emotions impact decision making?
+    id: 169811
+    title: >-
+        How can reflection models be applied to enhance professional values?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-managing-emotions-impact-decision-making
+    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
 related_article5:
-    id: 169823
-    title: What is the role of self-reflection in personal growth and development?
+    id: 169824
+    title: >-
+        How do professional values influence career development?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
+    url: /learn/nursing/questions/how-do-professional-values-influence-career-development
 ---
 
 &nbsp;

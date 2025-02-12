@@ -2,8 +2,10 @@
 _schema: default
 id: 164499
 date: 2025-01-28
-title: How are learning processes related to memory consolidation?
-article_title: How are learning processes related to memory consolidation?
+title: >-
+    How are learning processes related to memory consolidation?
+article_title: >-
+    How are learning processes related to memory consolidation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-are-learning-processes-related-to-memory-consolidation.md
 url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
 score: -1.0
 related_article1:
+    id: 164495
+    title: >-
+        What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+related_article2:
+    id: 164506
+    title: >-
+        What are the key brain regions involved in memory, and what are their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
+related_article3:
     id: 164492
-    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    title: >-
+        What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
-related_article2:
-    id: 164488
-    title: What is the role of memory in self-awareness and temporal awareness?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
-related_article3:
-    id: 164504
-    title: How do emotions interact with memory, particularly in emotional memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
 related_article4:
-    id: 164486
-    title: What are the stages of memory formation and their functions?
+    id: 164491
+    title: >-
+        What is the role of acetylcholine in memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 related_article5:
     id: 164487
-    title: How do biological factors affect memory formation?
+    title: >-
+        How do biological factors affect memory formation?
     subject: Psychology
     url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
 ---

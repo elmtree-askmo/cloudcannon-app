@@ -2,8 +2,10 @@
 _schema: default
 id: 166824
 date: 2025-01-31
-title: What are the main chemical components of DNA and where is it located in cells?
-article_title: What are the main chemical components of DNA and where is it located in cells?
+title: >-
+    What are the main chemical components of DNA and where is it located in cells?
+article_title: >-
+    What are the main chemical components of DNA and where is it located in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-chemical-components-of-dna-and-where-is-it-located-
 url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
 score: -1.0
 related_article1:
-    id: 166833
-    title: How can you predict the complementary strand of a given DNA sequence?
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article2:
-    id: 166831
-    title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+    id: 166830
+    title: >-
+        How are phosphodiester linkages formed between nucleotides?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
+    url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
 related_article3:
-    id: 166832
-    title: Explain the base pairing rules for DNA, including the specific pairs involved.
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article4:
-    id: 166833
-    title: How can you predict the complementary strand of a given DNA sequence?
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article5:
-    id: 166829
-    title: What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+    id: 166828
+    title: >-
+        Identify the purine bases and describe their role in nucleic acids.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
 ---
 
 &nbsp;

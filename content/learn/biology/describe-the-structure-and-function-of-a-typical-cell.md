@@ -2,8 +2,10 @@
 _schema: default
 id: 167469
 date: 2025-01-31
-title: Describe the structure and function of a typical cell.
-article_title: Describe the structure and function of a typical cell.
+title: >-
+    Describe the structure and function of a typical cell.
+article_title: >-
+    Describe the structure and function of a typical cell.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-and-function-of-a-typical-cell.md
 url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
 score: -1.0
 related_article1:
-    id: 167478
-    title: What are the subscription options available for iClicker technology?
+    id: 167484
+    title: >-
+        How should students prepare for the cumulative nature of the final exam?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+    url: /learn/biology/questions/how-should-students-prepare-for-the-cumulative-nature-of-the-final-exam
 related_article2:
-    id: 167467
-    title: What are the key characteristics that define life in biology?
+    id: 167494
+    title: >-
+        What are the benefits of using interactive learning tools in education?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
+    url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
 related_article3:
     id: 167495
-    title: How can interactive learning tools be implemented in courses effectively?
+    title: >-
+        How can interactive learning tools be implemented in courses effectively?
     subject: Biology
     url: /learn/biology/questions/how-can-interactive-learning-tools-be-implemented-in-courses-effectively
 related_article4:
-    id: 167484
-    title: How should students prepare for the cumulative nature of the final exam?
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
     subject: Biology
-    url: /learn/biology/questions/how-should-students-prepare-for-the-cumulative-nature-of-the-final-exam
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
 related_article5:
-    id: 167482
-    title: What are the cost and availability options for online textbooks?
+    id: 167491
+    title: >-
+        What career paths are available in biology for research and academia?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
+    url: /learn/biology/questions/what-career-paths-are-available-in-biology-for-research-and-academia
 ---
 
 &nbsp;

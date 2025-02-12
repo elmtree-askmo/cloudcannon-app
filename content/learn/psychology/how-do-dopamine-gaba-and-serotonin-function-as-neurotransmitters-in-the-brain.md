@@ -2,8 +2,10 @@
 _schema: default
 id: 170464
 date: 2025-02-06
-title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
-article_title: How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+title: >-
+    How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
+article_title: >-
+    How do dopamine, GABA, and serotonin function as neurotransmitters in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-t
 url: /learn/psychology/questions/how-do-dopamine-gaba-and-serotonin-function-as-neurotransmitters-in-the-brain
 score: -1.0
 related_article1:
-    id: 170462
-    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    id: 170461
+    title: >-
+        How do gyri and sulci contribute to brain function?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
 related_article2:
-    id: 170469
-    title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    id: 170472
+    title: >-
+        What is the function of the amygdala in emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
 related_article3:
-    id: 170473
-    title: How do short-term and long-term memory systems differ in the limbic system?
+    id: 170463
+    title: >-
+        Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
+    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
 related_article4:
-    id: 170462
-    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
-related_article5:
     id: 170478
-    title: What are the differences between functional and structural neuroimaging techniques?
+    title: >-
+        What are the differences between functional and structural neuroimaging techniques?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
+related_article5:
+    id: 170469
+    title: >-
+        How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166648
 date: 2025-01-31
-title: What is a position vector and how is it used to determine force direction in mechanics?
-article_title: What is a position vector and how is it used to determine force direction in mechanics?
+title: >-
+    What is a position vector and how is it used to determine force direction in mechanics?
+article_title: >-
+    What is a position vector and how is it used to determine force direction in mechanics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-position-vector-and-how-is-it-used-to-determine-force-direc
 url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
 score: -1.0
 related_article1:
-    id: 166649
-    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
-    subject: Engineering
-    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
-related_article2:
     id: 166640
-    title: How does a concentrated force affect the equilibrium of a body in statics?
+    title: >-
+        How does a concentrated force affect the equilibrium of a body in statics?
     subject: Engineering
     url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
+related_article2:
+    id: 166639
+    title: >-
+        What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
 related_article3:
-    id: 166637
-    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    id: 166640
+    title: >-
+        How does a concentrated force affect the equilibrium of a body in statics?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+    url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
 related_article4:
-    id: 166646
-    title: Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    id: 166647
+    title: >-
+        How are unit vectors used in the Cartesian coordinate system to resolve vectors?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 related_article5:
-    id: 166644
-    title: How does Newton's First Law of Motion describe the concept of inertia?
+    id: 166641
+    title: >-
+        Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
     subject: Engineering
-    url: /learn/engineering/questions/how-does-newtons-first-law-of-motion-describe-the-concept-of-inertia
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
 ---
 
 &nbsp;

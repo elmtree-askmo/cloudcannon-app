@@ -2,8 +2,10 @@
 _schema: default
 id: 168478
 date: 2025-02-03
-title: What is the significance of understanding state and local building codes in construction projects?
-article_title: What is the significance of understanding state and local building codes in construction projects?
+title: >-
+    What is the significance of understanding state and local building codes in construction projects?
+article_title: >-
+    What is the significance of understanding state and local building codes in construction projects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-understanding-state-and-local-building-co
 url: /learn/education-studies/questions/what-is-the-significance-of-understanding-state-and-local-building-codes-in-construction-projects
 score: -1.0
 related_article1:
-    id: 168485
-    title: How does vocational education contribute to career development in architecture and construction?
+    id: 168477
+    title: >-
+        How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/how-do-mathematics-and-technical-communication-coursework-prepare-students-for-careers-in-architecture-and-construction
 related_article2:
-    id: 168479
-    title: How do zoning laws impact construction projects and what legal considerations must be taken into account?
+    id: 168475
+    title: >-
+        What are the benefits of on-the-job training compared to trade school programs and apprenticeships?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
+    url: /learn/education-studies/questions/what-are-the-benefits-of-onthejob-training-compared-to-trade-school-programs-and-apprenticeships
 related_article3:
-    id: 168486
-    title: What are the advantages of vocational education in terms of hands-on experience and industry-relevant skills?
+    id: 168473
+    title: >-
+        How do construction careers differ in terms of work environment and job types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-vocational-education-in-terms-of-handson-experience-and-industryrelevant-skills
+    url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
 related_article4:
-    id: 168479
-    title: How do zoning laws impact construction projects and what legal considerations must be taken into account?
+    id: 168472
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 related_article5:
-    id: 168480
-    title: What role do architects play in the design and implementation of structural systems?
+    id: 168472
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-architects-play-in-the-design-and-implementation-of-structural-systems
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 ---
 
 &nbsp;

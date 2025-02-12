@@ -2,8 +2,10 @@
 _schema: default
 id: 169711
 date: 2025-02-05
-title: What is the difference between the sympathetic and parasympathetic nervous systems?
-article_title: What is the difference between the sympathetic and parasympathetic nervous systems?
+title: >-
+    What is the difference between the sympathetic and parasympathetic nervous systems?
+article_title: >-
+    What is the difference between the sympathetic and parasympathetic nervous systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-the-sympathetic-and-parasympathetic-ne
 url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
 score: -1.0
 related_article1:
-    id: 169722
-    title: What are the health impacts of sleep deprivation?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
-related_article2:
     id: 169714
-    title: How does the esophagus use peristaltic waves to function?
+    title: >-
+        How does the esophagus use peristaltic waves to function?
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
+related_article2:
+    id: 169726
+    title: >-
+        What are the health implications of being classified as overweight or obese?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
 related_article3:
-    id: 169710
-    title: How do dendrites and axons function in nerve cells?
+    id: 169714
+    title: >-
+        How does the esophagus use peristaltic waves to function?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
+    url: /learn/nursing/questions/how-does-the-esophagus-use-peristaltic-waves-to-function
 related_article4:
-    id: 169723
-    title: How is chronic pain defined and managed?
+    id: 169724
+    title: >-
+        What is referred pain and what are some common examples?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-chronic-pain-defined-and-managed
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
 related_article5:
-    id: 169704
-    title: What is the structure of a multiple choice question in an exam format?
+    id: 169720
+    title: >-
+        What are the dietary recommendations according to the Eatwell Plate?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+    url: /learn/nursing/questions/what-are-the-dietary-recommendations-according-to-the-eatwell-plate
 ---
 
 &nbsp;

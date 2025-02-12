@@ -2,8 +2,10 @@
 _schema: default
 id: 159837
 date: 2025-01-23
-title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
-article_title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
+title: >-
+    What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
+article_title: >-
+    What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-ar
 url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
 score: 9.0
 related_article1:
-    id: 159836
-    title: How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
+    id: 160110
+    title: >-
+        How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-changes-in-artistic-practices-and-subject-matter-during-the-19th-century
 related_article2:
-    id: 159841
-    title: What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
+    id: 159846
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
+    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
 related_article3:
-    id: 160114
-    title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 160112
+    title: >-
+        How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
 related_article4:
-    id: 159842
-    title: How did queer art develop in modern society, and who were some key figures and movements in this area?
+    id: 160108
+    title: >-
+        In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
 related_article5:
-    id: 159852
-    title: What were the distinctive characteristics and developments of American and Eastern European modernities in art?
+    id: 160107
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 ---
 
 &nbsp;

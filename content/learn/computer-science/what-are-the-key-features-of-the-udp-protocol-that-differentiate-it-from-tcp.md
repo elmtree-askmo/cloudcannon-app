@@ -2,8 +2,10 @@
 _schema: default
 id: 165772
 date: 2025-01-29
-title: What are the key features of the UDP protocol that differentiate it from TCP?
-article_title: What are the key features of the UDP protocol that differentiate it from TCP?
+title: >-
+    What are the key features of the UDP protocol that differentiate it from TCP?
+article_title: >-
+    What are the key features of the UDP protocol that differentiate it from TCP?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-f
 url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
 score: -1.0
 related_article1:
-    id: 165765
-    title: How does the transport layer ensure logical communication between applications?
+    id: 165773
+    title: >-
+        What is the significance of the simplicity and low overhead of the UDP header?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
 related_article2:
-    id: 165780
-    title: What is the role of the length and checksum fields in the UDP header?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
-related_article3:
     id: 165775
-    title: What mechanisms does TCP use for flow control and congestion avoidance?
+    title: >-
+        What mechanisms does TCP use for flow control and congestion avoidance?
     subject: Computer Science
     url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
+related_article3:
+    id: 165782
+    title: >-
+        What are the trade-offs between low overhead and reliability in UDP communication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 related_article4:
-    id: 165769
-    title: How does data segmentation enable multiple conversations in network communication?
+    id: 165765
+    title: >-
+        How does the transport layer ensure logical communication between applications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
+    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
 related_article5:
-    id: 165768
-    title: What is the difference between TCP and UDP in terms of reliability?
+    id: 165781
+    title: >-
+        How does the TCP communication process establish and terminate sessions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
+    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
 ---
 
 &nbsp;

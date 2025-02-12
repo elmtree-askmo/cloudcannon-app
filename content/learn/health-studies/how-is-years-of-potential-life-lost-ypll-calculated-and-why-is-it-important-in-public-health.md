@@ -2,8 +2,10 @@
 _schema: default
 id: 163339
 date: 2025-01-26
-title: How is Years of Potential Life Lost (YPLL) calculated, and why is it important in public health?
-article_title: How is Years of Potential Life Lost (YPLL) calculated, and why is it important in public health?
+title: >-
+    How is Years of Potential Life Lost (YPLL) calculated, and why is it important in public health?
+article_title: >-
+    How is Years of Potential Life Lost (YPLL) calculated, and why is it important in public health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-imp
 url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-important-in-public-health
 score: -1.0
 related_article1:
+    id: 163074
+    title: >-
+        What is the significance of years of potential life lost (YPLL) in public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
+related_article2:
+    id: 163340
+    title: >-
+        What is the difference between absolute and relative measures of association?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
+related_article3:
+    id: 163061
+    title: >-
+        What is the difference between fixed and dynamic populations in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+related_article4:
     id: 163232
-    title: What are the critical assumptions when calculating cumulative incidence?
+    title: >-
+        What are the critical assumptions when calculating cumulative incidence?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
-related_article2:
-    id: 163286
-    title: What are the limitations of using crude rates in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
-related_article3:
-    id: 163326
-    title: How is the numerator used in measures of disease frequency determined?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
-related_article4:
-    id: 163331
-    title: What is a common misunderstanding about rates in epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-a-common-misunderstanding-about-rates-in-epidemiology
 related_article5:
-    id: 163077
-    title: How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+    id: 163342
+    title: >-
+        What is the risk difference, and how is it calculated using a 2x2 table?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
+    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
 ---
 
 &nbsp;

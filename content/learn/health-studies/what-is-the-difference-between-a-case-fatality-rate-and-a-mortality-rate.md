@@ -2,8 +2,10 @@
 _schema: default
 id: 162982
 date: 2025-01-26
-title: What is the difference between a case fatality rate and a mortality rate?
-article_title: What is the difference between a case fatality rate and a mortality rate?
+title: >-
+    What is the difference between a case fatality rate and a mortality rate?
+article_title: >-
+    What is the difference between a case fatality rate and a mortality rate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-r
 url: /learn/health-studies/questions/what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-rate
 score: -1.0
 related_article1:
-    id: 162978
-    title: What are the primary purposes of descriptive epidemiology?
+    id: 163204
+    title: >-
+        What is the ecological fallacy, and why is it a limitation in ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 related_article2:
+    id: 162987
+    title: >-
+        How do outbreaks differ from epidemics in terms of their definitions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
+related_article3:
+    id: 163321
+    title: >-
+        What are the strengths and limitations of ecological studies in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+related_article4:
     id: 163322
-    title: How can ecological fallacy affect the interpretation of ecological studies?
+    title: >-
+        How can ecological fallacy affect the interpretation of ecological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
-related_article3:
-    id: 163309
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
-related_article4:
-    id: 163314
-    title: Why are age-adjusted rates important in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
 related_article5:
-    id: 162985
-    title: How do descriptive and analytic epidemiologic questions differ in their objectives?
+    id: 162992
+    title: >-
+        How do positive and negative associations differ in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
+    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
 ---
 
 &nbsp;

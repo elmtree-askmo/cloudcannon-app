@@ -2,8 +2,10 @@
 _schema: default
 id: 167782
 date: 2025-02-01
-title: What is the difference between dominant and recessive traits in Mendelian inheritance?
-article_title: What is the difference between dominant and recessive traits in Mendelian inheritance?
+title: >-
+    What is the difference between dominant and recessive traits in Mendelian inheritance?
+article_title: >-
+    What is the difference between dominant and recessive traits in Mendelian inheritance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-dominant-and-recessive-traits-in-mende
 url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
 score: -1.0
 related_article1:
-    id: 167804
-    title: How can genetic mutations lead to a loss of function in an organism?
+    id: 167783
+    title: >-
+        How do genotype and phenotype differ in genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
+    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
 related_article2:
-    id: 167800
-    title: How does the environment influence the phenotype of individuals with phenylketonuria?
+    id: 167802
+    title: >-
+        How does the norm of reaction illustrate the effect of temperature on phenotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
+    url: /learn/education-studies/questions/how-does-the-norm-of-reaction-illustrate-the-effect-of-temperature-on-phenotype
 related_article3:
-    id: 167806
-    title: How is genetic counseling used to assess risk and analyze family history?
+    id: 167794
+    title: >-
+        What is incomplete penetrance and how does it affect genetic predictions at the population level?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
+    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
 related_article4:
     id: 167803
-    title: What are point mutations and how do they differ from chromosomal alterations?
+    title: >-
+        What are point mutations and how do they differ from chromosomal alterations?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
 related_article5:
-    id: 167805
-    title: What are the key differences between Mendelian and non-Mendelian patterns of heredity?
+    id: 167790
+    title: >-
+        How is co-dominance exemplified in human blood types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
+    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166579
 date: 2025-01-30
-title: How do formative and summative assessments differ in their approach and objectives?
-article_title: How do formative and summative assessments differ in their approach and objectives?
+title: >-
+    How do formative and summative assessments differ in their approach and objectives?
+article_title: >-
+    How do formative and summative assessments differ in their approach and objectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-formative-and-summative-assessments-differ-in-their-approach-a
 url: /learn/education-studies/questions/how-do-formative-and-summative-assessments-differ-in-their-approach-and-objectives
 score: -1.0
 related_article1:
-    id: 166590
-    title: How can learning outcomes be effectively measured and assessed?
+    id: 166583
+    title: >-
+        What are the benefits of utilizing constructive feedback in academic settings?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-learning-outcomes-be-effectively-measured-and-assessed
+    url: /learn/education-studies/questions/what-are-the-benefits-of-utilizing-constructive-feedback-in-academic-settings
 related_article2:
-    id: 166592
-    title: What are the key components of a learning contract, and how do they support academic integrity?
+    id: 166583
+    title: >-
+        What are the benefits of utilizing constructive feedback in academic settings?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-learning-contract-and-how-do-they-support-academic-integrity
+    url: /learn/education-studies/questions/what-are-the-benefits-of-utilizing-constructive-feedback-in-academic-settings
 related_article3:
-    id: 166592
-    title: What are the key components of a learning contract, and how do they support academic integrity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-learning-contract-and-how-do-they-support-academic-integrity
-related_article4:
-    id: 166591
-    title: What factors most significantly influence academic performance, and how can they be improved?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-most-significantly-influence-academic-performance-and-how-can-they-be-improved
-related_article5:
     id: 166581
-    title: How does emotional intelligence influence academic performance and learning styles?
+    title: >-
+        How does emotional intelligence influence academic performance and learning styles?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-emotional-intelligence-influence-academic-performance-and-learning-styles
+related_article4:
+    id: 166594
+    title: >-
+        What barriers might impede knowledge acquisition, and how can they be overcome?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-barriers-might-impede-knowledge-acquisition-and-how-can-they-be-overcome
+related_article5:
+    id: 166592
+    title: >-
+        What are the key components of a learning contract, and how do they support academic integrity?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-learning-contract-and-how-do-they-support-academic-integrity
 ---
 
 &nbsp;

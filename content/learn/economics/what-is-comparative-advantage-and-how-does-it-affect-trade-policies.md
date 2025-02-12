@@ -2,8 +2,10 @@
 _schema: default
 id: 169924
 date: 2025-02-05
-title: What is comparative advantage, and how does it affect trade policies?
-article_title: What is comparative advantage, and how does it affect trade policies?
+title: >-
+    What is comparative advantage, and how does it affect trade policies?
+article_title: >-
+    What is comparative advantage, and how does it affect trade policies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-comparative-advantage-and-how-does-it-affect-trade-policies.m
 url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
 score: -1.0
 related_article1:
-    id: 169926
-    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    id: 169936
+    title: >-
+        How are the principles of supply and demand applied in policy making and business strategy?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+    url: /learn/economics/questions/how-are-the-principles-of-supply-and-demand-applied-in-policy-making-and-business-strategy
 related_article2:
-    id: 169921
-    title: What is marginal thinking, and why is it significant in economic decision making?
-    subject: Economics
-    url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
-related_article3:
     id: 169926
-    title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
     subject: Economics
     url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article3:
+    id: 169935
+    title: >-
+        Explain the fundamental economic concepts of scarcity and choice.
+    subject: Economics
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
 related_article4:
-    id: 169934
-    title: What are some common pricing strategies, and how do they impact sales and revenue?
+    id: 169930
+    title: >-
+        How does education function as an investment in the labor market?
     subject: Economics
-    url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
 related_article5:
-    id: 169932
-    title: Identify current trends and challenges in global trade.
+    id: 169929
+    title: >-
+        Compare the economic implications of public vs. private education in terms of access and equity.
     subject: Economics
-    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
+    url: /learn/economics/questions/compare-the-economic-implications-of-public-vs-private-education-in-terms-of-access-and-equity
 ---
 
 &nbsp;

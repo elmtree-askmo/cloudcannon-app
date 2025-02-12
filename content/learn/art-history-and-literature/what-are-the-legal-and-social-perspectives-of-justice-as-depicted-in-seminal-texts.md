@@ -2,8 +2,10 @@
 _schema: default
 id: 168571
 date: 2025-02-03
-title: What are the legal and social perspectives of justice as depicted in seminal texts?
-article_title: What are the legal and social perspectives of justice as depicted in seminal texts?
+title: >-
+    What are the legal and social perspectives of justice as depicted in seminal texts?
+article_title: >-
+    What are the legal and social perspectives of justice as depicted in seminal texts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-
 url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
 score: 9.0
 related_article1:
-    id: 168574
-    title: How do allusions in historical texts enhance meaning and context?
+    id: 168583
+    title: >-
+        What are the historical foundations of freedom, equality, and justice as reflected in seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
+    url: /learn/art-history-and-literature/questions/what-are-the-historical-foundations-of-freedom-equality-and-justice-as-reflected-in-seminal-documents
 related_article2:
-    id: 168576
-    title: How do emotional appeals (pathos) impact the effectiveness of seminal documents?
+    id: 168567
+    title: >-
+        What historical context surrounds the Gettysburg Address and its impact on American history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/what-historical-context-surrounds-the-gettysburg-address-and-its-impact-on-american-history
 related_article3:
-    id: 168565
-    title: What are the key characteristics that define a seminal document?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
-related_article4:
-    id: 168572
-    title: How does word choice in seminal documents affect tone and meaning?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
-related_article5:
     id: 168566
-    title: How have seminal documents influenced American culture?
+    title: >-
+        How have seminal documents influenced American culture?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
+related_article4:
+    id: 168579
+    title: >-
+        What is the tone of the Gettysburg Address, and how does it contribute to its message?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
+related_article5:
+    id: 168586
+    title: >-
+        How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
 ---
 
 &nbsp;

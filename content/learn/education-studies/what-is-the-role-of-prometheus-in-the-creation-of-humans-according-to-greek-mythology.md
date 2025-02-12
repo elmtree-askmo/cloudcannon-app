@@ -2,8 +2,10 @@
 _schema: default
 id: 167659
 date: 2025-01-31
-title: What is the role of Prometheus in the creation of humans according to Greek mythology?
-article_title: What is the role of Prometheus in the creation of humans according to Greek mythology?
+title: >-
+    What is the role of Prometheus in the creation of humans according to Greek mythology?
+article_title: >-
+    What is the role of Prometheus in the creation of humans according to Greek mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to
 url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
 score: -1.0
 related_article1:
-    id: 167662
-    title: What are the key elements and themes of Greek creation stories?
+    id: 167655
+    title: >-
+        How do themes of power and generation manifest in Greek myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
+    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
 related_article2:
     id: 167650
-    title: How do divine beings contribute to the emergence of order in Greek mythology?
+    title: >-
+        How do divine beings contribute to the emergence of order in Greek mythology?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-divine-beings-contribute-to-the-emergence-of-order-in-greek-mythology
 related_article3:
     id: 167658
-    title: What are the similarities and differences between Greek and Egyptian creation myths?
+    title: >-
+        What are the similarities and differences between Greek and Egyptian creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-similarities-and-differences-between-greek-and-egyptian-creation-myths
 related_article4:
-    id: 167654
-    title: What is structuralism, and how is it applied to the analysis of Greek myths?
+    id: 167649
+    title: >-
+        What is the significance of chaos in Greek creation myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-structuralism-and-how-is-it-applied-to-the-analysis-of-greek-myths
+    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
 related_article5:
-    id: 167653
-    title: Who are the key divine couples in Greek mythology, and what roles do they play?
+    id: 167651
+    title: >-
+        What are the main themes of Hesiod's Theogony?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
+    url: /learn/education-studies/questions/what-are-the-main-themes-of-hesiods-theogony
 ---
 
 &nbsp;

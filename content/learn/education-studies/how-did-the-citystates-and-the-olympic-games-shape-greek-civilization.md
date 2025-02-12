@@ -2,8 +2,10 @@
 _schema: default
 id: 166015
 date: 2025-01-29
-title: How did the city-states and the Olympic Games shape Greek civilization?
-article_title: How did the city-states and the Olympic Games shape Greek civilization?
+title: >-
+    How did the city-states and the Olympic Games shape Greek civilization?
+article_title: >-
+    How did the city-states and the Olympic Games shape Greek civilization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-citystates-and-the-olympic-games-shape-greek-civilization
 url: /learn/education-studies/questions/how-did-the-citystates-and-the-olympic-games-shape-greek-civilization
 score: -1.0
 related_article1:
-    id: 166010
-    title: How have myths influenced modern art and literature?
+    id: 166007
+    title: >-
+        What are the traditional definitions of myth, and how do they involve supernatural beings?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-myths-influenced-modern-art-and-literature
+    url: /learn/education-studies/questions/what-are-the-traditional-definitions-of-myth-and-how-do-they-involve-supernatural-beings
 related_article2:
-    id: 166005
-    title: What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology-and-how-did-claude-lvistrauss-contribute-to-this-field
-related_article3:
     id: 166003
-    title: What are the primary differences between literary sources and inscriptions as ancient texts?
+    title: >-
+        What are the primary differences between literary sources and inscriptions as ancient texts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
+related_article3:
+    id: 166014
+    title: >-
+        What are the defining features of creation myths and trickster myths?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-creation-myths-and-trickster-myths
 related_article4:
-    id: 166011
-    title: What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
+    id: 166003
+    title: >-
+        What are the primary differences between literary sources and inscriptions as ancient texts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
+    url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
 related_article5:
-    id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    id: 166012
+    title: >-
+        What is the significance of temples and sanctuaries in ancient ritual practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
+    url: /learn/education-studies/questions/what-is-the-significance-of-temples-and-sanctuaries-in-ancient-ritual-practices
 ---
 
 &nbsp;

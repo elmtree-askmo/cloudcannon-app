@@ -2,8 +2,10 @@
 _schema: default
 id: 170776
 date: 2025-02-06
-title: Explain the significance of the halting problem in computability theory.
-article_title: Explain the significance of the halting problem in computability theory.
+title: >-
+    Explain the significance of the halting problem in computability theory.
+article_title: >-
+    Explain the significance of the halting problem in computability theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-significance-of-the-halting-problem-in-computability-theo
 url: /learn/computer-science/questions/explain-the-significance-of-the-halting-problem-in-computability-theory
 score: -1.0
 related_article1:
-    id: 170787
-    title: Explain the Euclidean algorithm for finding the greatest common divisor.
+    id: 170782
+    title: >-
+        What are the characteristics of non-deterministic polynomial time?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
 related_article2:
-    id: 170782
-    title: What are the characteristics of non-deterministic polynomial time?
+    id: 170779
+    title: >-
+        What is an NP-complete problem and why is the satisfiability problem significant in this context?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
+    url: /learn/computer-science/questions/what-is-an-npcomplete-problem-and-why-is-the-satisfiability-problem-significant-in-this-context
 related_article3:
-    id: 170787
-    title: Explain the Euclidean algorithm for finding the greatest common divisor.
+    id: 170775
+    title: >-
+        What is the scope of computability theory and how does it relate to problem solvability?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
+    url: /learn/computer-science/questions/what-is-the-scope-of-computability-theory-and-how-does-it-relate-to-problem-solvability
 related_article4:
-    id: 170783
-    title: Describe the key components of algorithm representation.
+    id: 170775
+    title: >-
+        What is the scope of computability theory and how does it relate to problem solvability?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-key-components-of-algorithm-representation
+    url: /learn/computer-science/questions/what-is-the-scope-of-computability-theory-and-how-does-it-relate-to-problem-solvability
 related_article5:
-    id: 170782
-    title: What are the characteristics of non-deterministic polynomial time?
+    id: 170775
+    title: >-
+        What is the scope of computability theory and how does it relate to problem solvability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
+    url: /learn/computer-science/questions/what-is-the-scope-of-computability-theory-and-how-does-it-relate-to-problem-solvability
 ---
 
 &nbsp;

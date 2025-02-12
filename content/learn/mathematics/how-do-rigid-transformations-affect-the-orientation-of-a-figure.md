@@ -2,8 +2,10 @@
 _schema: default
 id: 162315
 date: 2025-01-25
-title: How do rigid transformations affect the orientation of a figure?
-article_title: How do rigid transformations affect the orientation of a figure?
+title: >-
+    How do rigid transformations affect the orientation of a figure?
+article_title: >-
+    How do rigid transformations affect the orientation of a figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-rigid-transformations-affect-the-orientation-of-a-figure.md
 url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
 score: -1.0
 related_article1:
-    id: 162221
-    title: What is the significance of the order of operations in a sequence of transformations?
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
 related_article2:
-    id: 162218
-    title: What are the three types of rigid transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
-related_article3:
-    id: 162220
-    title: How can a sequence of transformations be used to prove congruence between two figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
-related_article4:
-    id: 162223
-    title: What is the notation for a translation on the coordinate plane?
+    id: 162324
+    title: >-
+        What is the notation for a translation on the coordinate plane?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
-related_article5:
-    id: 162322
-    title: How do you plot a point on the coordinate plane?
+related_article3:
+    id: 162216
+    title: >-
+        What are the criteria for two figures to be considered congruent?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+related_article4:
+    id: 162313
+    title: >-
+        Why are rigid transformations important in determining congruence?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+related_article5:
+    id: 162216
+    title: >-
+        What are the criteria for two figures to be considered congruent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
 ---
 
 &nbsp;

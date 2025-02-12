@@ -2,8 +2,10 @@
 _schema: default
 id: 165073
 date: 2025-01-28
-title: How do you select the appropriate test for hypothesis testing?
-article_title: How do you select the appropriate test for hypothesis testing?
+title: >-
+    How do you select the appropriate test for hypothesis testing?
+article_title: >-
+    How do you select the appropriate test for hypothesis testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypo
 score: -1.0
 related_article1:
     id: 165070
-    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 related_article2:
+    id: 165085
+    title: >-
+        How do you identify and analyze interaction effects in experimental data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
+related_article3:
     id: 165067
-    title: How does data cleaning contribute to data quality in statistical analysis?
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
     subject: Psychology
     url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
-related_article3:
-    id: 165077
-    title: What are some limitations of relying solely on p-values for statistical significance?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 related_article4:
-    id: 165086
-    title: What is the significance of main effects in research, and how are they identified?
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 related_article5:
-    id: 165071
-    title: How do control variables and confounding variables affect the outcome of an experiment?
+    id: 165090
+    title: >-
+        What is the importance of comparing research results with previous studies?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+    url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
 ---
 
 &nbsp;

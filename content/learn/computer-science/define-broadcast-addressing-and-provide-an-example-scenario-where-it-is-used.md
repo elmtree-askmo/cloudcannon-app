@@ -2,8 +2,10 @@
 _schema: default
 id: 165716
 date: 2025-01-29
-title: Define broadcast addressing and provide an example scenario where it is used.
-article_title: Define broadcast addressing and provide an example scenario where it is used.
+title: >-
+    Define broadcast addressing and provide an example scenario where it is used.
+article_title: >-
+    Define broadcast addressing and provide an example scenario where it is used.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-broadcast-addressing-and-provide-an-example-scenario-where-it-
 url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
 score: -1.0
 related_article1:
-    id: 165717
-    title: What is multicast addressing and how does it differ from unicast and broadcast addressing?
+    id: 165721
+    title: >-
+        What is the role of the network portion in hierarchical IP addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-multicast-addressing-and-how-does-it-differ-from-unicast-and-broadcast-addressing
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 related_article2:
-    id: 165709
-    title: How does a subnet mask help in identifying the network and host portions of an IPv4 address?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
-related_article3:
-    id: 165720
-    title: How does hierarchical IP addressing facilitate subnetwork division?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-hierarchical-ip-addressing-facilitate-subnetwork-division
-related_article4:
-    id: 165709
-    title: How does a subnet mask help in identifying the network and host portions of an IPv4 address?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
-related_article5:
     id: 165718
-    title: What are the configuration steps for static IP address assignment?
+    title: >-
+        What are the configuration steps for static IP address assignment?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
+related_article3:
+    id: 165715
+    title: >-
+        What is unicast addressing and in what scenarios is it typically used?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
+related_article4:
+    id: 165703
+    title: >-
+        What is the purpose of the network portion in an IPv4 address?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-network-portion-in-an-ipv4-address
+related_article5:
+    id: 165704
+    title: >-
+        How is the host portion of an IPv4 address represented in dotted decimal format?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-the-host-portion-of-an-ipv4-address-represented-in-dotted-decimal-format
 ---
 
 &nbsp;

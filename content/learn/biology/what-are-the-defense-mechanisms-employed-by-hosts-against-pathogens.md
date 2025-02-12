@@ -2,8 +2,10 @@
 _schema: default
 id: 165816
 date: 2025-01-29
-title: What are the defense mechanisms employed by hosts against pathogens?
-article_title: What are the defense mechanisms employed by hosts against pathogens?
+title: >-
+    What are the defense mechanisms employed by hosts against pathogens?
+article_title: >-
+    What are the defense mechanisms employed by hosts against pathogens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens.m
 url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
 score: -1.0
 related_article1:
-    id: 165804
-    title: What is the significance of biological diversity in systematics and taxonomy?
+    id: 165821
+    title: >-
+        Explain the concept of a natural focus of disease.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
+    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
 related_article2:
-    id: 165819
-    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
-related_article3:
     id: 165814
-    title: What are the main methods of disease transmission in parasite ecology?
+    title: >-
+        What are the main methods of disease transmission in parasite ecology?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article3:
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
 related_article4:
-    id: 165810
-    title: How do ribosomal subunits aid in molecular classification?
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
     subject: Biology
-    url: /learn/biology/questions/how-do-ribosomal-subunits-aid-in-molecular-classification
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 related_article5:
-    id: 165815
-    title: Describe the concept of epidemiology in the context of parasite ecology.
+    id: 165824
+    title: >-
+        Compare and contrast macroepidemiology and microepidemiology.
     subject: Biology
-    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
 ---
 
 &nbsp;

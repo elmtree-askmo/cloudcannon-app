@@ -2,8 +2,10 @@
 _schema: default
 id: 169945
 date: 2025-02-05
-title: What is the structural difference between cellulose and starch?
-article_title: What is the structural difference between cellulose and starch?
+title: >-
+    What is the structural difference between cellulose and starch?
+article_title: >-
+    What is the structural difference between cellulose and starch?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-structural-difference-between-cellulose-and-starch.md
 url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
 score: -1.0
 related_article1:
-    id: 169937
-    title: What are the three main subatomic particles and their charges?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
-related_article2:
     id: 169944
-    title: What is the primary function of carbohydrates in living organisms?
+    title: >-
+        What is the primary function of carbohydrates in living organisms?
     subject: Biology
     url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
+related_article2:
+    id: 169955
+    title: >-
+        What is the difference between anabolic and catabolic pathways in metabolism?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
 related_article3:
-    id: 169942
-    title: What are the building blocks of proteins?
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
 related_article4:
-    id: 169953
-    title: What is the primary structure of a protein?
+    id: 169937
+    title: >-
+        What are the three main subatomic particles and their charges?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+    url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
 related_article5:
-    id: 169950
-    title: How does ATP function as an energy carrier in cells?
+    id: 169962
+    title: >-
+        How does active transport differ from passive transport in terms of energy usage?
     subject: Biology
-    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
+    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
 ---
 
 &nbsp;

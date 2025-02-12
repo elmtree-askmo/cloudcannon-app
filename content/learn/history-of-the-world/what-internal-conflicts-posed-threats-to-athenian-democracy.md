@@ -2,8 +2,10 @@
 _schema: default
 id: 166030
 date: 2025-01-29
-title: What internal conflicts posed threats to Athenian democracy?
-article_title: What internal conflicts posed threats to Athenian democracy?
+title: >-
+    What internal conflicts posed threats to Athenian democracy?
+article_title: >-
+    What internal conflicts posed threats to Athenian democracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-internal-conflicts-posed-threats-to-athenian-democracy.md
 url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 score: 9.0
 related_article1:
-    id: 166037
-    title: What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+    id: 166026
+    title: >-
+        What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
+    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
 related_article2:
-    id: 166024
-    title: What was the purpose of the Council of 500 in the governance of Athens?
+    id: 166027
+    title: >-
+        What were the main characteristics of the mythical kingship and aristocracy in Athens' historical context?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
+    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-mythical-kingship-and-aristocracy-in-athens-historical-context
 related_article3:
-    id: 166039
-    title: What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
+    id: 166031
+    title: >-
+        How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-archaeologists-face-in-preserving-and-interpreting-ancient-athenian-sites
+    url: /learn/history-of-the-world/questions/how-did-pseudoaristotle-contribute-to-our-understanding-of-the-athenian-constitution
 related_article4:
-    id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+    id: 166017
+    title: >-
+        What was the historical significance of Athens as an urban center in ancient times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
 related_article5:
-    id: 166019
-    title: What is the myth of Synoikism, and how does it relate to the Attica region?
+    id: 166018
+    title: >-
+        How did the geographical location of Athens contribute to its economic importance?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
+    url: /learn/history-of-the-world/questions/how-did-the-geographical-location-of-athens-contribute-to-its-economic-importance
 ---
 
 &nbsp;

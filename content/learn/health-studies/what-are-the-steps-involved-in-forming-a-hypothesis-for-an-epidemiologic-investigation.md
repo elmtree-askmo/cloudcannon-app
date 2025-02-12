@@ -2,8 +2,10 @@
 _schema: default
 id: 163016
 date: 2025-01-26
-title: What are the steps involved in forming a hypothesis for an epidemiologic investigation?
-article_title: What are the steps involved in forming a hypothesis for an epidemiologic investigation?
+title: >-
+    What are the steps involved in forming a hypothesis for an epidemiologic investigation?
+article_title: >-
+    What are the steps involved in forming a hypothesis for an epidemiologic investigation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiolo
 url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
 score: -1.0
 related_article1:
+    id: 162956
+    title: >-
+        How have key figures and milestones influenced the historical development of epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
+related_article2:
+    id: 162976
+    title: >-
+        How is a null hypothesis specified and tested in hypothesis testing?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-a-null-hypothesis-specified-and-tested-in-hypothesis-testing
+related_article3:
+    id: 163013
+    title: >-
+        How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
+related_article4:
+    id: 162957
+    title: >-
+        What role do genetic makeup and lifestyle play in individual determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+related_article5:
     id: 163022
-    title: What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
+    title: >-
+        What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
-related_article2:
-    id: 163021
-    title: What are the sources of random error in epidemiologic studies, and how can they be reduced?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-sources-of-random-error-in-epidemiologic-studies-and-how-can-they-be-reduced
-related_article3:
-    id: 162966
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
-related_article4:
-    id: 162962
-    title: What are the advantages of using random sampling in biostatistics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-advantages-of-using-random-sampling-in-biostatistics
-related_article5:
-    id: 162974
-    title: How does random sampling differ from systematic and stratified sampling in biostatistics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-random-sampling-differ-from-systematic-and-stratified-sampling-in-biostatistics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161534
 date: 2025-01-24
-title: What are the key characteristics of mainframe computers that distinguish them from other types of computers?
-article_title: What are the key characteristics of mainframe computers that distinguish them from other types of computers?
+title: >-
+    What are the key characteristics of mainframe computers that distinguish them from other types of computers?
+article_title: >-
+    What are the key characteristics of mainframe computers that distinguish them from other types of computers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-mainframe-computers-that-distingu
 url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers-that-distinguish-them-from-other-types-of-computers
 score: -1.0
 related_article1:
-    id: 161550
-    title: What are the main characteristics of open source software?
+    id: 161543
+    title: >-
+        How does checkpointing contribute to fault tolerance in supercomputers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
+    url: /learn/computer-science/questions/how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputers
 related_article2:
-    id: 161562
-    title: What is the role of device drivers in system software?
+    id: 161308
+    title: >-
+        What are the disadvantages of a graphical user interface?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-graphical-user-interface
 related_article3:
-    id: 161294
-    title: Why is disaster recovery an essential aspect of physical security in computing?
+    id: 161315
+    title: >-
+        How does checkpointing enhance fault tolerance in supercomputers?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-aspect-of-physical-security-in-computing
+    url: /learn/computer-science/questions/how-does-checkpointing-enhance-fault-tolerance-in-supercomputers
 related_article4:
-    id: 161551
-    title: How does licensing differ between open source and proprietary software?
+    id: 161671
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
 related_article5:
-    id: 161317
-    title: What are the advantages of using water cooling over air cooling in heat maintenance?
+    id: 161547
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-water-cooling-over-air-cooling-in-heat-maintenance
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 ---
 
 &nbsp;

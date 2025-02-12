@@ -2,8 +2,10 @@
 _schema: default
 id: 168352
 date: 2025-02-03
-title: What are some examples of forced social changes, and how do they impact daily life?
-article_title: What are some examples of forced social changes, and how do they impact daily life?
+title: >-
+    What are some examples of forced social changes, and how do they impact daily life?
+article_title: >-
+    What are some examples of forced social changes, and how do they impact daily life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-examples-of-forced-social-changes-and-how-do-they-impac
 url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
 score: -1.0
 related_article1:
-    id: 168355
-    title: How have tariffs affected Canada-US trade relations and what are the economic consequences?
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-tariffs-affected-canadaus-trade-relations-and-what-are-the-economic-consequences
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
 related_article2:
-    id: 168367
-    title: What are the community reactions to new public transit projects?
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 related_article3:
-    id: 168353
-    title: How do changes in political leadership contribute to political uncertainty and affect society?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
-related_article4:
-    id: 168365
-    title: What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
-    subject: Sociology
-    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
-related_article5:
     id: 168370
-    title: How does emotional intelligence impact social interactions and adaptation to change?
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
     subject: Sociology
     url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
+related_article4:
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
+    subject: Sociology
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+related_article5:
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 ---
 
 &nbsp;

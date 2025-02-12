@@ -2,8 +2,10 @@
 _schema: default
 id: 160918
 date: 2025-01-24
-title: How does the running time of insertion sort compare to merge sort?
-article_title: How does the running time of insertion sort compare to merge sort?
+title: >-
+    How does the running time of insertion sort compare to merge sort?
+article_title: >-
+    How does the running time of insertion sort compare to merge sort?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-running-time-of-insertion-sort-compare-to-merge-sort.md
 url: /learn/computer-science/questions/how-does-the-running-time-of-insertion-sort-compare-to-merge-sort
 score: -1.0
 related_article1:
-    id: 160763
-    title: Provide an example of pseudocode for insertion sort.
+    id: 160832
+    title: >-
+        Why is mathematical notation important in algorithm analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
+    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
 related_article2:
-    id: 160763
-    title: Provide an example of pseudocode for insertion sort.
-    subject: Computer Science
-    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
-related_article3:
-    id: 160835
-    title: How does pseudocode contribute to the clarity and structure of algorithm design?
+    id: 160762
+    title: >-
+        How does pseudocode contribute to the clarity and structure of algorithm design?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-pseudocode-contribute-to-the-clarity-and-structure-of-algorithm-design
+related_article3:
+    id: 160752
+    title: >-
+        How do you apply asymptotic notation to analyze the running time of an algorithm?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-apply-asymptotic-notation-to-analyze-the-running-time-of-an-algorithm
 related_article4:
-    id: 160751
-    title: What are the commonly used asymptotic notations and their informal definitions?
+    id: 160753
+    title: >-
+        What is the divide-and-conquer method and how does it utilize recursive techniques?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-commonly-used-asymptotic-notations-and-their-informal-definitions
+    url: /learn/computer-science/questions/what-is-the-divideandconquer-method-and-how-does-it-utilize-recursive-techniques
 related_article5:
-    id: 160760
-    title: What are the differences between the substitution method and recursion trees in solving recurrences?
+    id: 160758
+    title: >-
+        Define randomized algorithms and describe their characteristics.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-the-substitution-method-and-recursion-trees-in-solving-recurrences
+    url: /learn/computer-science/questions/define-randomized-algorithms-and-describe-their-characteristics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167071
 date: 2025-01-31
-title: What is the difference between single, polar, and non-polar covalent bonds?
-article_title: What is the difference between single, polar, and non-polar covalent bonds?
+title: >-
+    What is the difference between single, polar, and non-polar covalent bonds?
+article_title: >-
+    What is the difference between single, polar, and non-polar covalent bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-single-polar-and-nonpolar-covalent-bon
 url: /learn/chemistry/questions/what-is-the-difference-between-single-polar-and-nonpolar-covalent-bonds
 score: -1.0
 related_article1:
-    id: 167082
-    title: How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    id: 167076
+    title: >-
+        What is the significance of hydrogen bonding in the structure of proteins and nucleic acids?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrogen-bonding-in-the-structure-of-proteins-and-nucleic-acids
 related_article2:
-    id: 167077
-    title: Describe the role of amino acids as building blocks in protein structure and function.
-    subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-role-of-amino-acids-as-building-blocks-in-protein-structure-and-function
-related_article3:
-    id: 167074
-    title: Identify the functional groups present in amino acids and describe their properties.
-    subject: Chemistry
-    url: /learn/chemistry/questions/identify-the-functional-groups-present-in-amino-acids-and-describe-their-properties
-related_article4:
-    id: 167073
-    title: What is the octet rule and how does it relate to valence electrons in covalent bonding?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-octet-rule-and-how-does-it-relate-to-valence-electrons-in-covalent-bonding
-related_article5:
     id: 167082
-    title: How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    title: >-
+        How do hydrophilic and hydrophobic molecules differ in their interactions with water?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article3:
+    id: 167082
+    title: >-
+        How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article4:
+    id: 167082
+    title: >-
+        How do hydrophilic and hydrophobic molecules differ in their interactions with water?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-hydrophilic-and-hydrophobic-molecules-differ-in-their-interactions-with-water
+related_article5:
+    id: 167086
+    title: >-
+        How does electronegativity affect bond formation and molecular polarity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-bond-formation-and-molecular-polarity
 ---
 
 &nbsp;

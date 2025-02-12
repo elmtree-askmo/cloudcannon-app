@@ -2,8 +2,10 @@
 _schema: default
 id: 170908
 date: 2025-02-07
-title: What is the significance of adaptation and fitness in behavioral ecology?
-article_title: What is the significance of adaptation and fitness in behavioral ecology?
+title: >-
+    What is the significance of adaptation and fitness in behavioral ecology?
+article_title: >-
+    What is the significance of adaptation and fitness in behavioral ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecol
 url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
 score: -1.0
 related_article1:
-    id: 170900
-    title: Can you provide an example of optimal foraging behavior in nature?
-    subject: Biology
-    url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
-related_article2:
-    id: 170903
-    title: What are some techniques used to measure energy expenditure in animals?
-    subject: Biology
-    url: /learn/biology/questions/what-are-some-techniques-used-to-measure-energy-expenditure-in-animals
-related_article3:
     id: 170905
-    title: What is the purpose of ecological modeling in studying ecosystems?
+    title: >-
+        What is the purpose of ecological modeling in studying ecosystems?
     subject: Biology
     url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
-related_article4:
-    id: 170907
-    title: How does behavioral ecology relate to evolutionary biology?
+related_article2:
+    id: 170896
+    title: >-
+        How does handling time relate to prey size in foraging theory?
     subject: Biology
-    url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
+    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
+related_article3:
+    id: 170895
+    title: >-
+        What factors influence search time in foraging animals?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
+related_article4:
+    id: 170900
+    title: >-
+        Can you provide an example of optimal foraging behavior in nature?
+    subject: Biology
+    url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
 related_article5:
     id: 170895
-    title: What factors influence search time in foraging animals?
+    title: >-
+        What factors influence search time in foraging animals?
     subject: Biology
     url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
 ---

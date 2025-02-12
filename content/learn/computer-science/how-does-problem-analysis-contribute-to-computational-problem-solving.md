@@ -2,8 +2,10 @@
 _schema: default
 id: 160707
 date: 2025-01-24
-title: How does problem analysis contribute to computational problem solving?
-article_title: How does problem analysis contribute to computational problem solving?
+title: >-
+    How does problem analysis contribute to computational problem solving?
+article_title: >-
+    How does problem analysis contribute to computational problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-problem-analysis-contribute-to-computational-problem-solving
 url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
 score: -1.0
 related_article1:
-    id: 160704
-    title: What are the key steps in the software engineering design process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-in-the-software-engineering-design-process
-related_article2:
     id: 161035
-    title: Why is algorithm efficiency important in computational problem solving?
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
-related_article3:
-    id: 160906
-    title: What is the role of process management in operating systems?
+related_article2:
+    id: 160987
+    title: >-
+        What are the principles of usability in user interface design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
+    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+related_article3:
+    id: 161051
+    title: >-
+        What are the applications of machine learning in artificial intelligence?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-applications-of-machine-learning-in-artificial-intelligence
 related_article4:
+    id: 161045
+    title: >-
+        How is cryptography used to ensure information security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+related_article5:
     id: 161040
-    title: What are the essential elements of network architecture?
+    title: >-
+        What are the essential elements of network architecture?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
-related_article5:
-    id: 160726
-    title: How does cache design impact computer architecture performance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-cache-design-impact-computer-architecture-performance
 ---
 
 &nbsp;

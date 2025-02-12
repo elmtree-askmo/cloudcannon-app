@@ -2,8 +2,10 @@
 _schema: default
 id: 170029
 date: 2025-02-05
-title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
-article_title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+title: >-
+    How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+article_title: >-
+    How is forensic psychology applied within the legal system, particularly in expert witness testimony?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-l
 score: -1.0
 related_article1:
     id: 170022
-    title: What are the foundational experiments of Classical Conditioning and their implications?
+    title: >-
+        What are the foundational experiments of Classical Conditioning and their implications?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications
 related_article2:
-    id: 170031
-    title: How do modern theories of personality differ from Freud's psychoanalytic theory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
-related_article3:
     id: 170028
-    title: What are the ethical considerations in experimental psychology research methods?
+    title: >-
+        What are the ethical considerations in experimental psychology research methods?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article3:
+    id: 170008
+    title: >-
+        What were the main influences of William James on the development of Functionalism?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-main-influences-of-william-james-on-the-development-of-functionalism
 related_article4:
-    id: 170031
-    title: How do modern theories of personality differ from Freud's psychoanalytic theory?
+    id: 170028
+    title: >-
+        What are the ethical considerations in experimental psychology research methods?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
 related_article5:
-    id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    id: 170011
+    title: >-
+        How does Behaviorism explain the influence of the environment on behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+    url: /learn/psychology/questions/how-does-behaviorism-explain-the-influence-of-the-environment-on-behavior
 ---
 
 &nbsp;

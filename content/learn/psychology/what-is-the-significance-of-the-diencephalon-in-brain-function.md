@@ -2,8 +2,10 @@
 _schema: default
 id: 170570
 date: 2025-02-06
-title: What is the significance of the diencephalon in brain function?
-article_title: What is the significance of the diencephalon in brain function?
+title: >-
+    What is the significance of the diencephalon in brain function?
+article_title: >-
+    What is the significance of the diencephalon in brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-diencephalon-in-brain-function.md
 url: /learn/psychology/questions/what-is-the-significance-of-the-diencephalon-in-brain-function
 score: -1.0
 related_article1:
-    id: 170586
-    title: How does the temporal lobe contribute to auditory processing and facial recognition?
+    id: 170581
+    title: >-
+        What insights have split-brain research provided about hemispheric functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing-and-facial-recognition
+    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
 related_article2:
-    id: 170588
-    title: How does the occipital lobe process visual information?
+    id: 170583
+    title: >-
+        What is the role of the limbic system in emotional processing and PTSD?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
 related_article3:
-    id: 170589
-    title: What is the role of serotonin in mood regulation and behavior?
+    id: 170591
+    title: >-
+        What is the function of the reticular formation in maintaining alertness and awareness?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
 related_article4:
-    id: 170589
-    title: What is the role of serotonin in mood regulation and behavior?
+    id: 170583
+    title: >-
+        What is the role of the limbic system in emotional processing and PTSD?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
+    url: /learn/psychology/questions/what-is-the-role-of-the-limbic-system-in-emotional-processing-and-ptsd
 related_article5:
-    id: 170569
-    title: How does the hypothalamus regulate homeostasis in the body?
+    id: 170591
+    title: >-
+        What is the function of the reticular formation in maintaining alertness and awareness?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-hypothalamus-regulate-homeostasis-in-the-body
+    url: /learn/psychology/questions/what-is-the-function-of-the-reticular-formation-in-maintaining-alertness-and-awareness
 ---
 
 &nbsp;

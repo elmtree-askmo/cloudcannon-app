@@ -2,8 +2,10 @@
 _schema: default
 id: 164479
 date: 2025-01-28
-title: What are the main differences between retrograde and anterograde amnesia?
-article_title: What are the main differences between retrograde and anterograde amnesia?
+title: >-
+    What are the main differences between retrograde and anterograde amnesia?
+article_title: >-
+    What are the main differences between retrograde and anterograde amnesia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-differences-between-retrograde-and-anterograde-amne
 url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 score: -1.0
 related_article1:
-    id: 164486
-    title: What are the stages of memory formation and their functions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
-related_article2:
-    id: 164486
-    title: What are the stages of memory formation and their functions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
-related_article3:
-    id: 164489
-    title: How does Alzheimer's disease affect consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
-related_article4:
-    id: 164482
-    title: What is the role of unconscious learning in implicit memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
-related_article5:
     id: 164488
-    title: What is the role of memory in self-awareness and temporal awareness?
+    title: >-
+        What is the role of memory in self-awareness and temporal awareness?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
+related_article2:
+    id: 164485
+    title: >-
+        What are the key findings from studies on explicit memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+related_article3:
+    id: 164492
+    title: >-
+        What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+related_article4:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article5:
+    id: 164495
+    title: >-
+        What are some effective techniques to improve memory retention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
 ---
 
 &nbsp;

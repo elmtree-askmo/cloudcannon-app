@@ -2,8 +2,10 @@
 _schema: default
 id: 164069
 date: 2025-01-28
-title: What are the societal implications of understanding the relationship between violence and the brain?
-article_title: What are the societal implications of understanding the relationship between violence and the brain?
+title: >-
+    What are the societal implications of understanding the relationship between violence and the brain?
+article_title: >-
+    What are the societal implications of understanding the relationship between violence and the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-societal-implications-of-understanding-the-relationship-
 url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
 score: -1.0
 related_article1:
+    id: 164073
+    title: >-
+        What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article2:
+    id: 164078
+    title: >-
+        How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
+related_article3:
+    id: 164073
+    title: >-
+        What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article4:
     id: 164085
-    title: How does the paradigm shift in psychiatry from group to individual-level inferences impact diagnostics and prognostics?
+    title: >-
+        How does the paradigm shift in psychiatry from group to individual-level inferences impact diagnostics and prognostics?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics
-related_article2:
-    id: 164080
-    title: How can predictive policing be applied in the context of mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-predictive-policing-be-applied-in-the-context-of-mental-health
-related_article3:
-    id: 164076
-    title: What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
-related_article4:
-    id: 164082
-    title: What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
-    subject: Psychology
-    url: /learn/psychology/questions/what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases
 related_article5:
     id: 164082
-    title: What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
+    title: >-
+        What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
     subject: Psychology
     url: /learn/psychology/questions/what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases
 ---

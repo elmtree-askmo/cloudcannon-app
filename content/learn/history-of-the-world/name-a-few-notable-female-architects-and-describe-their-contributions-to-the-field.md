@@ -2,8 +2,10 @@
 _schema: default
 id: 169108
 date: 2025-02-04
-title: Name a few notable female architects and describe their contributions to the field.
-article_title: Name a few notable female architects and describe their contributions to the field.
+title: >-
+    Name a few notable female architects and describe their contributions to the field.
+article_title: >-
+    Name a few notable female architects and describe their contributions to the field.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: name-a-few-notable-female-architects-and-describe-their-contributions
 url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
 score: 8.5
 related_article1:
-    id: 169115
-    title: What challenges do female students and faculty face in architectural education?
+    id: 169124
+    title: >-
+        What contributions have women made to urban development and public housing?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
+    url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
 related_article2:
     id: 169118
-    title: What are the effects of transnational capitalism on gender dynamics in architecture?
+    title: >-
+        What are the effects of transnational capitalism on gender dynamics in architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
 related_article3:
-    id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
-related_article4:
     id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    title: >-
+        How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
-related_article5:
+related_article4:
     id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+related_article5:
+    id: 169112
+    title: >-
+        How have feminist archival methodologies contributed to the understanding of architectural histories?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
 ---
 
 &nbsp;

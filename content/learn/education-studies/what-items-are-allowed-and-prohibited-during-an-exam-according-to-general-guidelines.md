@@ -2,8 +2,10 @@
 _schema: default
 id: 168224
 date: 2025-02-03
-title: What items are allowed and prohibited during an exam according to general guidelines?
-article_title: What items are allowed and prohibited during an exam according to general guidelines?
+title: >-
+    What items are allowed and prohibited during an exam according to general guidelines?
+article_title: >-
+    What items are allowed and prohibited during an exam according to general guidelines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-items-are-allowed-and-prohibited-during-an-exam-according-to-gen
 url: /learn/education-studies/questions/what-items-are-allowed-and-prohibited-during-an-exam-according-to-general-guidelines
 score: -1.0
 related_article1:
-    id: 168222
-    title: What are the guidelines for distributing and collecting response sheets?
+    id: 168232
+    title: >-
+        What roles do invigilators play in supervising an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
+    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
 related_article2:
-    id: 168219
-    title: What are the key responsibilities of an invigilator during the exam?
+    id: 168220
+    title: >-
+        How should time be managed effectively during an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-an-invigilator-during-the-exam
+    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
 related_article3:
+    id: 168225
+    title: >-
+        What are the expectations for student conduct during an exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-expectations-for-student-conduct-during-an-exam
+related_article4:
     id: 168226
-    title: How should students handle writing on exam sheets?
+    title: >-
+        How should students handle writing on exam sheets?
     subject: Education Studies
     url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
-related_article4:
-    id: 168218
-    title: How should electronics and personal items be managed before the exam begins?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
 related_article5:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
+    id: 168230
+    title: >-
+        How should seating arrangements be managed in the exam room?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+    url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
 ---
 
 &nbsp;

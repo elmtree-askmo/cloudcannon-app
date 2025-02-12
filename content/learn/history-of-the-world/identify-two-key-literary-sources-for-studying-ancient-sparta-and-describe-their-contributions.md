@@ -2,8 +2,10 @@
 _schema: default
 id: 163573
 date: 2025-01-27
-title: Identify two key literary sources for studying ancient Sparta and describe their contributions.
-article_title: Identify two key literary sources for studying ancient Sparta and describe their contributions.
+title: >-
+    Identify two key literary sources for studying ancient Sparta and describe their contributions.
+article_title: >-
+    Identify two key literary sources for studying ancient Sparta and describe their contributions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for
 score: 9.0
 related_article1:
     id: 163576
-    title: What were the main causes and outcomes of the Messenian Wars?
+    title: >-
+        What were the main causes and outcomes of the Messenian Wars?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
 related_article2:
-    id: 163575
-    title: Explain the myth of the Dorian Migration and its significance in Spartan history.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-myth-of-the-dorian-migration-and-its-significance-in-spartan-history
-related_article3:
-    id: 163582
-    title: What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the-spartan-dyarchy-and-how-did-it-affect-governance
-related_article4:
-    id: 163584
-    title: What was the role of the ephors in Spartan government, and how were they elected?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
-related_article5:
     id: 163572
-    title: What role did the Spartan Acropolis play in the city-state's religious and political life?
+    title: >-
+        What role did the Spartan Acropolis play in the city-state's religious and political life?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
+related_article3:
+    id: 163581
+    title: >-
+        Explain the purpose and structure of the Spartan agoge.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-purpose-and-structure-of-the-spartan-agoge
+related_article4:
+    id: 163574
+    title: >-
+        What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
+related_article5:
+    id: 163579
+    title: >-
+        Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
 ---
 
 &nbsp;

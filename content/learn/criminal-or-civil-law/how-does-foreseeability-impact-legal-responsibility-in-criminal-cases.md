@@ -2,8 +2,10 @@
 _schema: default
 id: 162174
 date: 2025-01-25
-title: How does foreseeability impact legal responsibility in criminal cases?
-article_title: How does foreseeability impact legal responsibility in criminal cases?
+title: >-
+    How does foreseeability impact legal responsibility in criminal cases?
+article_title: >-
+    How does foreseeability impact legal responsibility in criminal cases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/criminal-or-civil-law/questions/how-does-foreseeability-impact-legal
 score: -1.0
 related_article1:
     id: 162177
-    title: What distinguishes first degree murder from manslaughter in terms of legal classification?
+    title: >-
+        What distinguishes first degree murder from manslaughter in terms of legal classification?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
 related_article2:
-    id: 162169
-    title: Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
+    id: 162190
+    title: >-
+        Explain the concept of willful blindness in the context of possession laws.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-minimal-causation-in-law-and-its-significance-in-determining-criminal-responsibility
+    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
 related_article3:
     id: 162197
-    title: What are the foreseeable risks associated with organizing events in terms of event liability?
+    title: >-
+        What are the foreseeable risks associated with organizing events in terms of event liability?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-foreseeable-risks-associated-with-organizing-events-in-terms-of-event-liability
 related_article4:
     id: 162169
-    title: Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
+    title: >-
+        Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-minimal-causation-in-law-and-its-significance-in-determining-criminal-responsibility
 related_article5:
-    id: 162197
-    title: What are the foreseeable risks associated with organizing events in terms of event liability?
+    id: 162194
+    title: >-
+        How does recklessness contribute to criminal harassment?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-foreseeable-risks-associated-with-organizing-events-in-terms-of-event-liability
+    url: /learn/criminal-or-civil-law/questions/how-does-recklessness-contribute-to-criminal-harassment
 ---
 
 &nbsp;

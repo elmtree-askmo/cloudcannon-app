@@ -2,8 +2,10 @@
 _schema: default
 id: 161352
 date: 2025-01-24
-title: Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
-article_title: Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
+title: >-
+    Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
+article_title: >-
+    Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-and-feedback-mechanism-of-a-burglar-alarm-system
 url: /learn/computer-science/questions/describe-the-process-and-feedback-mechanism-of-a-burglar-alarm-system-including-the-sensors-and-actuators-used
 score: -1.0
 related_article1:
+    id: 161347
+    title: >-
+        What types of sensors are typically used in weather stations, and how is data collected and processed?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-sensors-are-typically-used-in-weather-stations-and-how-is-data-collected-and-processed
+related_article2:
+    id: 161519
+    title: >-
+        Explain the process and benefits of two-point calibration in monitoring technologies.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-process-and-benefits-of-twopoint-calibration-in-monitoring-technologies
+related_article3:
+    id: 161525
+    title: >-
+        Explain the components and functionality of central heating systems, including the process and feedback mechanism.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-components-and-functionality-of-central-heating-systems-including-the-process-and-feedback-mechanism
+related_article4:
+    id: 161326
+    title: >-
+        What are the main types of sensors used in monitoring technologies, and how do they function?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
+related_article5:
     id: 161520
-    title: Describe multi-point calibration and its advantages in various applications.
+    title: >-
+        Describe multi-point calibration and its advantages in various applications.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
-related_article2:
-    id: 161358
-    title: What are the potential risks and failures associated with dependence on monitoring technology?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology
-related_article3:
-    id: 161515
-    title: Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-role-of-a-digital-to-analogue-converter-dac-in-control-systems-and-its-importance
-related_article4:
-    id: 161532
-    title: What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
-related_article5:
-    id: 161332
-    title: Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-role-and-importance-of-a-digital-to-analogue-converter-dac-in-control-systems
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161514
 date: 2025-01-24
-title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
-article_title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+title: >-
+    Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+article_title: >-
+    Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-c
 url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
 score: -1.0
 related_article1:
-    id: 161526
-    title: Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
+    id: 161515
+    title: >-
+        Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-sensors-and-actuators-used-in-burglar-alarm-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/describe-the-role-of-a-digital-to-analogue-converter-dac-in-control-systems-and-its-importance
 related_article2:
     id: 161351
-    title: What components are involved in central heating systems, and how does the feedback mechanism work?
+    title: >-
+        What components are involved in central heating systems, and how does the feedback mechanism work?
     subject: Computer Science
     url: /learn/computer-science/questions/what-components-are-involved-in-central-heating-systems-and-how-does-the-feedback-mechanism-work
 related_article3:
-    id: 161334
-    title: What are the different types of actuators, and how are they applied in control technologies?
+    id: 161345
+    title: >-
+        Explain the process and advantages of multi-point calibration.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
+    url: /learn/computer-science/questions/explain-the-process-and-advantages-of-multipoint-calibration
 related_article4:
-    id: 161608
-    title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+    id: 161348
+    title: >-
+        Describe the methods and sensors used in water pollution monitoring.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-methods-and-sensors-used-in-water-pollution-monitoring
+related_article5:
+    id: 161530
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
-related_article5:
-    id: 161513
-    title: What are the main types of sensors used in monitoring technologies, and what are their primary functions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-what-are-their-primary-functions
 ---
 
 &nbsp;

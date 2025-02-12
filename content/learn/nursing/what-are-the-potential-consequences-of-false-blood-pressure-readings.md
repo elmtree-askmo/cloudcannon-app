@@ -2,8 +2,10 @@
 _schema: default
 id: 169515
 date: 2025-02-05
-title: What are the potential consequences of false blood pressure readings?
-article_title: What are the potential consequences of false blood pressure readings?
+title: >-
+    What are the potential consequences of false blood pressure readings?
+article_title: >-
+    What are the potential consequences of false blood pressure readings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-consequences-of-false-blood-pressure-readings.
 url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
 score: -1.0
 related_article1:
-    id: 169523
-    title: What health implications can arise from hypotension?
+    id: 169521
+    title: >-
+        How do age-related changes affect misconceptions about normal blood pressure ranges?
     subject: Nursing
-    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
 related_article2:
-    id: 169536
-    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    id: 169521
+    title: >-
+        How do age-related changes affect misconceptions about normal blood pressure ranges?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
 related_article3:
-    id: 169536
-    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    id: 169531
+    title: >-
+        What are the health implications of inaccurate blood pressure readings?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+    url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
 related_article4:
-    id: 169520
-    title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+    id: 169530
+    title: >-
+        What is the auscultatory method of manual blood pressure measurement?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
+    url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
 related_article5:
-    id: 169520
-    title: What are the typical blood pressure ranges for adults, and how can they vary by demographics?
+    id: 169519
+    title: >-
+        Why has there been an increasing focus on diastolic blood pressure in recent trends?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
+    url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
 ---
 
 &nbsp;

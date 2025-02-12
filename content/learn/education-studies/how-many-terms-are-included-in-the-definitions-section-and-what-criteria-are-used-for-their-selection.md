@@ -2,8 +2,10 @@
 _schema: default
 id: 169253
 date: 2025-02-04
-title: How many terms are included in the definitions section, and what criteria are used for their selection?
-article_title: How many terms are included in the definitions section, and what criteria are used for their selection?
+title: >-
+    How many terms are included in the definitions section, and what criteria are used for their selection?
+article_title: >-
+    How many terms are included in the definitions section, and what criteria are used for their selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-many-terms-are-included-in-the-definitions-section-and-what-crite
 url: /learn/education-studies/questions/how-many-terms-are-included-in-the-definitions-section-and-what-criteria-are-used-for-their-selection
 score: -1.0
 related_article1:
-    id: 169256
-    title: What are the requirements for completeness and support in short essay answers?
+    id: 169250
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
+    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
 related_article2:
-    id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
+    id: 169258
+    title: >-
+        Which areas of course content are emphasized in the quiz, and which are excluded?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
+    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
 related_article3:
-    id: 169249
-    title: What are the requirements for conducting the quiz in-class and the use of computers?
+    id: 169260
+    title: >-
+        How is feedback provided to students based on the assessment criteria?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-conducting-the-quiz-inclass-and-the-use-of-computers
+    url: /learn/education-studies/questions/how-is-feedback-provided-to-students-based-on-the-assessment-criteria
 related_article4:
-    id: 169256
-    title: What are the requirements for completeness and support in short essay answers?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
-related_article5:
     id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
+    title: >-
+        What are the key components of the marking guidelines in the assessment criteria?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
+related_article5:
+    id: 169263
+    title: >-
+        What identification is required for the test, and what items are prohibited?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
 ---
 
 &nbsp;

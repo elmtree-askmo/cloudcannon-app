@@ -2,8 +2,10 @@
 _schema: default
 id: 166596
 date: 2025-01-30
-title: How do academic standards influence curriculum design and course objectives?
-article_title: How do academic standards influence curriculum design and course objectives?
+title: >-
+    How do academic standards influence curriculum design and course objectives?
+article_title: >-
+    How do academic standards influence curriculum design and course objectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-academic-standards-influence-curriculum-design-and-course-obje
 url: /learn/education-studies/questions/how-do-academic-standards-influence-curriculum-design-and-course-objectives
 score: -1.0
 related_article1:
-    id: 166594
-    title: What barriers might impede knowledge acquisition, and how can they be overcome?
+    id: 166595
+    title: >-
+        What considerations are important when designing effective assessment instruments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-barriers-might-impede-knowledge-acquisition-and-how-can-they-be-overcome
+    url: /learn/education-studies/questions/what-considerations-are-important-when-designing-effective-assessment-instruments
 related_article2:
-    id: 166590
-    title: How can learning outcomes be effectively measured and assessed?
+    id: 166582
+    title: >-
+        What strategies can be used to adapt study techniques to different learning styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-learning-outcomes-be-effectively-measured-and-assessed
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-adapt-study-techniques-to-different-learning-styles
 related_article3:
     id: 166587
-    title: What strategies can be employed to improve performance on multiple choice tests?
+    title: >-
+        What strategies can be employed to improve performance on multiple choice tests?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-employed-to-improve-performance-on-multiple-choice-tests
 related_article4:
-    id: 166579
-    title: How do formative and summative assessments differ in their approach and objectives?
+    id: 166588
+    title: >-
+        How does formative assessment contribute to enhancing learning outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-formative-and-summative-assessments-differ-in-their-approach-and-objectives
+    url: /learn/education-studies/questions/how-does-formative-assessment-contribute-to-enhancing-learning-outcomes
 related_article5:
-    id: 166593
-    title: How can reflective practices deepen understanding and enhance critical thinking?
+    id: 166585
+    title: >-
+        What are the essential elements of a well-structured essay?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-practices-deepen-understanding-and-enhance-critical-thinking
+    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-essay
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167414
 date: 2025-01-31
-title: Describe the structure and function of the phosphate group.
-article_title: Describe the structure and function of the phosphate group.
+title: >-
+    Describe the structure and function of the phosphate group.
+article_title: >-
+    Describe the structure and function of the phosphate group.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-and-function-of-the-phosphate-group.md
 url: /learn/biology/questions/describe-the-structure-and-function-of-the-phosphate-group
 score: -1.0
 related_article1:
-    id: 167410
-    title: Describe the structure and function of the methyl group.
+    id: 167403
+    title: >-
+        Define electronegativity and its importance in chemical reactions.
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
 related_article2:
-    id: 167412
-    title: Explain the structure and function of the hydroxyl group.
+    id: 167399
+    title: >-
+        Describe the properties of protons, neutrons, and electrons.
     subject: Biology
-    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
+    url: /learn/biology/questions/describe-the-properties-of-protons-neutrons-and-electrons
 related_article3:
-    id: 167401
-    title: What is the role of the nucleus in an atom?
+    id: 167420
+    title: >-
+        How are organic molecules different from inorganic molecules?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
 related_article4:
     id: 167420
-    title: How are organic molecules different from inorganic molecules?
+    title: >-
+        How are organic molecules different from inorganic molecules?
     subject: Biology
     url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
 related_article5:
-    id: 167419
-    title: What is the difference between molecules and compounds?
+    id: 167403
+    title: >-
+        Define electronegativity and its importance in chemical reactions.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
+    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
 ---
 
 &nbsp;

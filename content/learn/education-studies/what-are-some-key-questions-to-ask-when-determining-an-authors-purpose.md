@@ -2,8 +2,10 @@
 _schema: default
 id: 162555
 date: 2025-01-25
-title: What are some key questions to ask when determining an author's purpose?
-article_title: What are some key questions to ask when determining an author's purpose?
+title: >-
+    What are some key questions to ask when determining an author's purpose?
+article_title: >-
+    What are some key questions to ask when determining an author's purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-key-questions-to-ask-when-determining-an-authors-purpos
 url: /learn/education-studies/questions/what-are-some-key-questions-to-ask-when-determining-an-authors-purpose
 score: -1.0
 related_article1:
-    id: 162261
-    title: How can analyzing text structures improve the effectiveness of communication in a text?
+    id: 162268
+    title: >-
+        What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-analyzing-text-structures-improve-the-effectiveness-of-communication-in-a-text
+    url: /learn/education-studies/questions/what-are-the-environmental-benefits-of-a-vegetarian-diet-in-terms-of-resource-efficiency-and-greenhouse-gas-emissions
 related_article2:
-    id: 162257
-    title: How does word choice, including loaded language, impact the point of view presented in a text?
+    id: 162255
+    title: >-
+        How can an author's professional affiliations and expert credentials influence their purpose in writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
+    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
 related_article3:
-    id: 162558
-    title: What questions can help identify an author's point of view in a text?
+    id: 162567
+    title: >-
+        How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-relate-to-its-environmental-impact-and-sustainable-eating-practices
 related_article4:
-    id: 162260
-    title: What is the purpose of using different text structures, such as cause-and-effect or compare and contrast, in writing?
+    id: 162571
+    title: >-
+        What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-using-different-text-structures-such-as-causeandeffect-or-compare-and-contrast-in-writing
+    url: /learn/education-studies/questions/what-are-the-key-health-considerations-for-maintaining-nutritional-balance-and-adequate-protein-sources-in-a-vegetarian-diet
 related_article5:
-    id: 162262
-    title: What strategies can be employed to identify bias and persuasive techniques in a text?
+    id: 162273
+    title: >-
+        How can balancing different perspectives and recognizing limitations lead to more informed judgments when evaluating texts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
+    url: /learn/education-studies/questions/how-can-balancing-different-perspectives-and-recognizing-limitations-lead-to-more-informed-judgments-when-evaluating-texts
 ---
 
 &nbsp;

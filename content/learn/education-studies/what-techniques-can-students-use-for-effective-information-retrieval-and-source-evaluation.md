@@ -2,8 +2,10 @@
 _schema: default
 id: 160288
 date: 2025-01-23
-title: What techniques can students use for effective information retrieval and source evaluation?
-article_title: What techniques can students use for effective information retrieval and source evaluation?
+title: >-
+    What techniques can students use for effective information retrieval and source evaluation?
+article_title: >-
+    What techniques can students use for effective information retrieval and source evaluation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-can-students-use-for-effective-information-retrieval-
 url: /learn/education-studies/questions/what-techniques-can-students-use-for-effective-information-retrieval-and-source-evaluation
 score: -1.0
 related_article1:
-    id: 160586
-    title: How can students effectively communicate within the university to utilize resources and engage with faculty?
+    id: 160596
+    title: >-
+        What role does educational psychology play in understanding student behavior and enhancing learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-communicate-within-the-university-to-utilize-resources-and-engage-with-faculty
+    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
 related_article2:
-    id: 160570
-    title: How can students apply metacognitive strategies to evaluate and adjust their study habits?
+    id: 160575
+    title: >-
+        What are active reading techniques, and how do they enhance comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-apply-metacognitive-strategies-to-evaluate-and-adjust-their-study-habits
+    url: /learn/education-studies/questions/what-are-active-reading-techniques-and-how-do-they-enhance-comprehension
 related_article3:
-    id: 160053
-    title: How do digital and traditional note-making methods compare, and what are the benefits of integrating multiple sources?
+    id: 160066
+    title: >-
+        What are the different types of assessments, and how can students prepare effectively for them?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-digital-and-traditional-notemaking-methods-compare-and-what-are-the-benefits-of-integrating-multiple-sources
+    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
 related_article4:
-    id: 160263
-    title: How can students prioritize tasks to improve their time management skills?
+    id: 160482
+    title: >-
+        What principles should be considered in curriculum design to align with learning outcomes and incorporate diverse perspectives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-prioritize-tasks-to-improve-their-time-management-skills
+    url: /learn/education-studies/questions/what-principles-should-be-considered-in-curriculum-design-to-align-with-learning-outcomes-and-incorporate-diverse-perspectives
 related_article5:
-    id: 160130
-    title: What is metacognition, and why is it important for effective learning?
+    id: 160596
+    title: >-
+        What role does educational psychology play in understanding student behavior and enhancing learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-effective-learning
+    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
 ---
 
 &nbsp;

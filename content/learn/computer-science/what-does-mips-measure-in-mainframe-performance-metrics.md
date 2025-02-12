@@ -2,8 +2,10 @@
 _schema: default
 id: 161295
 date: 2025-01-24
-title: What does MIPS measure in mainframe performance metrics?
-article_title: What does MIPS measure in mainframe performance metrics?
+title: >-
+    What does MIPS measure in mainframe performance metrics?
+article_title: >-
+    What does MIPS measure in mainframe performance metrics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-does-mips-measure-in-mainframe-performance-metrics.md
 url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
 score: -1.0
 related_article1:
-    id: 161552
-    title: What are the advantages of using a command line interface over a graphical user interface?
+    id: 161320
+    title: >-
+        What are the benefits of real-time protection in anti-virus utility software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
+related_article2:
+    id: 161293
+    title: >-
+        What is the purpose of encryption in access control?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
+related_article3:
+    id: 161678
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
-related_article2:
-    id: 161541
-    title: How does memory bandwidth affect the performance of supercomputers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-memory-bandwidth-affect-the-performance-of-supercomputers
-related_article3:
-    id: 161310
-    title: What are the key characteristics of mainframe computers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
 related_article4:
+    id: 161537
+    title: >-
+        How does system-level monitoring contribute to the serviceability of a computing system?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-systemlevel-monitoring-contribute-to-the-serviceability-of-a-computing-system
+related_article5:
     id: 161318
-    title: What is the role of device drivers in system software?
+    title: >-
+        What is the role of device drivers in system software?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
-related_article5:
-    id: 161552
-    title: What are the advantages of using a command line interface over a graphical user interface?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
 ---
 
 &nbsp;

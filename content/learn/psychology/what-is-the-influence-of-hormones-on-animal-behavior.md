@@ -2,8 +2,10 @@
 _schema: default
 id: 165311
 date: 2025-01-28
-title: What is the influence of hormones on animal behavior?
-article_title: What is the influence of hormones on animal behavior?
+title: >-
+    What is the influence of hormones on animal behavior?
+article_title: >-
+    What is the influence of hormones on animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-influence-of-hormones-on-animal-behavior.md
 url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
 score: -1.0
 related_article1:
-    id: 165293
-    title: What role does individual learning play in the development of animal behavior?
+    id: 165315
+    title: >-
+        How does individual variation in hunting strategies affect fitness and survival?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
+    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
 related_article2:
-    id: 165312
-    title: Describe the process of ontogeny and its role in the development of behavior.
+    id: 165307
+    title: >-
+        How does behavioral selection influence animal populations?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-ontogeny-and-its-role-in-the-development-of-behavior
+    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
 related_article3:
-    id: 165305
-    title: What is stabilizing selection and how does it affect a population?
+    id: 165298
+    title: >-
+        What is the difference between phenotype and genotype, and how do they relate to natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
 related_article4:
-    id: 165287
-    title: What is the definition of animal behavior and why is it important to study?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
-related_article5:
     id: 165303
-    title: What is artificial selection and how does it differ from natural selection?
+    title: >-
+        What is artificial selection and how does it differ from natural selection?
     subject: Psychology
     url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
+related_article5:
+    id: 165294
+    title: >-
+        Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 ---
 
 &nbsp;

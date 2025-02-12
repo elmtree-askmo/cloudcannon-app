@@ -2,8 +2,10 @@
 _schema: default
 id: 168396
 date: 2025-02-03
-title: How did technological advancements influence social structures in ancient times?
-article_title: How did technological advancements influence social structures in ancient times?
+title: >-
+    How did technological advancements influence social structures in ancient times?
+article_title: >-
+    How did technological advancements influence social structures in ancient times?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-technological-advancements-influence-social-structures-in-anc
 url: /learn/education-studies/questions/how-did-technological-advancements-influence-social-structures-in-ancient-times
 score: -1.0
 related_article1:
-    id: 168383
-    title: How did nomadic societies adapt to their environments?
+    id: 168379
+    title: >-
+        What are the key differences between stone tools and composite tools in tool technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-nomadic-societies-adapt-to-their-environments
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
 related_article2:
-    id: 168381
-    title: What were the effects of glacial and interglacial periods on human evolution?
+    id: 168386
+    title: >-
+        What methods are used to date historical events and artifacts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-effects-of-glacial-and-interglacial-periods-on-human-evolution
+    url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
 related_article3:
-    id: 168394
-    title: What can artifacts and symbolism tell us about prehistoric societies?
+    id: 168393
+    title: >-
+        How did prehistoric societies adapt to environmental changes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
+    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
 related_article4:
-    id: 168393
-    title: How did prehistoric societies adapt to environmental changes?
+    id: 168376
+    title: >-
+        What role do oral histories play in shaping our understanding of the past?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
+    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
 related_article5:
-    id: 168393
-    title: How did prehistoric societies adapt to environmental changes?
+    id: 168377
+    title: >-
+        What are the main techniques used in archaeology to uncover historical evidence?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
+    url: /learn/education-studies/questions/what-are-the-main-techniques-used-in-archaeology-to-uncover-historical-evidence
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166553
 date: 2025-01-30
-title: How does storytelling contribute to the historical narrative?
-article_title: How does storytelling contribute to the historical narrative?
+title: >-
+    How does storytelling contribute to the historical narrative?
+article_title: >-
+    How does storytelling contribute to the historical narrative?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-storytelling-contribute-to-the-historical-narrative.md
 url: /learn/education-studies/questions/how-does-storytelling-contribute-to-the-historical-narrative
 score: -1.0
 related_article1:
-    id: 166560
-    title: How can new evidence influence historical interpretation?
+    id: 166561
+    title: >-
+        What are some characteristics of early urban centers like the City of Uruk and Egyptian civilization?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
+    url: /learn/education-studies/questions/what-are-some-characteristics-of-early-urban-centers-like-the-city-of-uruk-and-egyptian-civilization
 related_article2:
-    id: 166550
-    title: What are the key reasons for the importance of citation in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-reasons-for-the-importance-of-citation-in-academic-writing
-related_article3:
     id: 166552
-    title: What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
+    title: >-
+        What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-purpose-of-footnotes-in-historical-writing-and-how-do-they-differ-from-bibliographic-information
-related_article4:
-    id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
+related_article3:
+    id: 166556
+    title: >-
+        How do archaeology and anthropology contribute to the historical narrative, and what is the role of carbon dating in this context?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
+    url: /learn/education-studies/questions/how-do-archaeology-and-anthropology-contribute-to-the-historical-narrative-and-what-is-the-role-of-carbon-dating-in-this-context
+related_article4:
+    id: 166550
+    title: >-
+        What are the key reasons for the importance of citation in academic writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-reasons-for-the-importance-of-citation-in-academic-writing
 related_article5:
     id: 166560
-    title: How can new evidence influence historical interpretation?
+    title: >-
+        How can new evidence influence historical interpretation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
 ---

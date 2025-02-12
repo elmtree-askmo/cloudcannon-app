@@ -2,8 +2,10 @@
 _schema: default
 id: 161294
 date: 2025-01-24
-title: Why is disaster recovery an essential aspect of physical security in computing?
-article_title: Why is disaster recovery an essential aspect of physical security in computing?
+title: >-
+    Why is disaster recovery an essential aspect of physical security in computing?
+article_title: >-
+    Why is disaster recovery an essential aspect of physical security in computing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-disaster-recovery-an-essential-aspect-of-physical-security-in-
 url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-aspect-of-physical-security-in-computing
 score: -1.0
 related_article1:
-    id: 161564
-    title: What are the benefits of real-time protection in anti-virus utility software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
-related_article2:
-    id: 161305
-    title: What are the characteristics of open source software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-open-source-software
-related_article3:
-    id: 161302
-    title: How do compilers differ from interpreters in the context of translators?
+    id: 161547
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
-related_article4:
-    id: 161540
-    title: Explain the significance of MIPS as a performance metric for mainframe computers.
+related_article2:
+    id: 161306
+    title: >-
+        How does licensing differ between open source and proprietary software?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-mips-as-a-performance-metric-for-mainframe-computers
-related_article5:
-    id: 161299
-    title: What are the primary functions of IBM's z/OS operating system for mainframes?
+    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+related_article3:
+    id: 161560
+    title: >-
+        What are the primary functions of IBM's z/OS operating system for mainframes?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
+related_article4:
+    id: 161299
+    title: >-
+        What are the primary functions of IBM's z/OS operating system for mainframes?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
+related_article5:
+    id: 161536
+    title: >-
+        What role do redundant components play in enhancing the reliability of a computing system?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-enhancing-the-reliability-of-a-computing-system
 ---
 
 &nbsp;

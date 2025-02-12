@@ -2,8 +2,10 @@
 _schema: default
 id: 170736
 date: 2025-02-06
-title: What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
-article_title: What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+title: >-
+    What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
+article_title: >-
+    What are the different types of mathematical proofs, and how does induction integrate with other proof techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-mathematical-proofs-and-how-does-indu
 url: /learn/mathematics/questions/what-are-the-different-types-of-mathematical-proofs-and-how-does-induction-integrate-with-other-proof-techniques
 score: -1.0
 related_article1:
-    id: 170734
-    title: Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
+    id: 170729
+    title: >-
+        How do you determine the domain of a function, and what are common errors to avoid in this process?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
 related_article2:
-    id: 170730
-    title: What is the coin change problem, and why is it significant in algorithm design?
+    id: 170728
+    title: >-
+        What are the steps involved in mathematical induction, and how do the base case and inductive step function together?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-mathematical-induction-and-how-do-the-base-case-and-inductive-step-function-together
 related_article3:
-    id: 170733
-    title: How is set theory applied in mathematical induction, and can you provide an example?
+    id: 170728
+    title: >-
+        What are the steps involved in mathematical induction, and how do the base case and inductive step function together?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-set-theory-applied-in-mathematical-induction-and-can-you-provide-an-example
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-mathematical-induction-and-how-do-the-base-case-and-inductive-step-function-together
 related_article4:
-    id: 170734
-    title: Why is logical justification important in mathematical proofs, and what are common logical fallacies to avoid?
+    id: 170729
+    title: >-
+        How do you determine the domain of a function, and what are common errors to avoid in this process?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-logical-justification-important-in-mathematical-proofs-and-what-are-common-logical-fallacies-to-avoid
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-of-a-function-and-what-are-common-errors-to-avoid-in-this-process
 related_article5:
-    id: 170730
-    title: What is the coin change problem, and why is it significant in algorithm design?
+    id: 170728
+    title: >-
+        What are the steps involved in mathematical induction, and how do the base case and inductive step function together?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-coin-change-problem-and-why-is-it-significant-in-algorithm-design
+    url: /learn/mathematics/questions/what-are-the-steps-involved-in-mathematical-induction-and-how-do-the-base-case-and-inductive-step-function-together
 ---
 
 &nbsp;

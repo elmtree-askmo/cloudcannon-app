@@ -2,8 +2,10 @@
 _schema: default
 id: 162980
 date: 2025-01-26
-title: What is the main limitation of using crude rates in epidemiological studies?
-article_title: What is the main limitation of using crude rates in epidemiological studies?
+title: >-
+    What is the main limitation of using crude rates in epidemiological studies?
+article_title: >-
+    What is the main limitation of using crude rates in epidemiological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-s
 url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
 score: -1.0
 related_article1:
-    id: 163202
-    title: What are the primary purposes of public health surveillance?
+    id: 163322
+    title: >-
+        How can ecological fallacy affect the interpretation of ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
 related_article2:
-    id: 163318
-    title: What is the difference between an outbreak and an epidemic?
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
 related_article3:
-    id: 163321
-    title: What are the strengths and limitations of ecological studies in epidemiology?
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
 related_article4:
-    id: 163310
-    title: What is the difference between crude rates and specific rates in epidemiology?
+    id: 162984
+    title: >-
+        What is the purpose of direct standardization in calculating age-adjusted rates?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-crude-rates-and-specific-rates-in-epidemiology
+    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
 related_article5:
-    id: 162983
-    title: Why is age-adjustment important when comparing mortality rates across different populations?
+    id: 163311
+    title: >-
+        How are age-specific rates calculated and why are they important?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
+    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
 ---
 
 &nbsp;

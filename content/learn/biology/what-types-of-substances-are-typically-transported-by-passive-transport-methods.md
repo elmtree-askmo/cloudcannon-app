@@ -2,8 +2,10 @@
 _schema: default
 id: 167170
 date: 2025-01-31
-title: What types of substances are typically transported by passive transport methods?
-article_title: What types of substances are typically transported by passive transport methods?
+title: >-
+    What types of substances are typically transported by passive transport methods?
+article_title: >-
+    What types of substances are typically transported by passive transport methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-substances-are-typically-transported-by-passive-transpo
 url: /learn/biology/questions/what-types-of-substances-are-typically-transported-by-passive-transport-methods
 score: -1.0
 related_article1:
-    id: 167159
-    title: Explain the energy requirement for active transport and how it differs from passive transport.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-energy-requirement-for-active-transport-and-how-it-differs-from-passive-transport
-related_article2:
-    id: 167168
-    title: Why do ions and polar molecules require transport proteins to cross the cell membrane?
-    subject: Biology
-    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
-related_article3:
-    id: 167169
-    title: Compare the energy requirements of passive and active transport methods.
-    subject: Biology
-    url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport-methods
-related_article4:
     id: 167167
-    title: How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+    title: >-
+        How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
     subject: Biology
     url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
-related_article5:
-    id: 167158
-    title: What role do carrier proteins play in facilitated diffusion?
+related_article2:
+    id: 167157
+    title: >-
+        How do channel proteins facilitate the movement of substances across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-carrier-proteins-play-in-facilitated-diffusion
+    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
+related_article3:
+    id: 167156
+    title: >-
+        What is the main difference between simple diffusion and facilitated diffusion in passive transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
+related_article4:
+    id: 167168
+    title: >-
+        Why do ions and polar molecules require transport proteins to cross the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/why-do-ions-and-polar-molecules-require-transport-proteins-to-cross-the-cell-membrane
+related_article5:
+    id: 167167
+    title: >-
+        How does the lipid bilayer of the cell membrane act as a hydrophobic barrier?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-lipid-bilayer-of-the-cell-membrane-act-as-a-hydrophobic-barrier
 ---
 
 &nbsp;

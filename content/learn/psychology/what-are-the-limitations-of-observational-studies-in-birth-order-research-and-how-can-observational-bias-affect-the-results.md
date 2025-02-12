@@ -2,8 +2,10 @@
 _schema: default
 id: 165191
 date: 2025-01-28
-title: What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
-article_title: What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
+title: >-
+    What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
+article_title: >-
+    What are the limitations of observational studies in birth order research, and how can observational bias affect the results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-limitations-of-observational-studies-in-birth-order-rese
 url: /learn/psychology/questions/what-are-the-limitations-of-observational-studies-in-birth-order-research-and-how-can-observational-bias-affect-the-results
 score: -1.0
 related_article1:
-    id: 165205
-    title: Why is cross-cultural psychology important in research, and what challenges must be addressed to ensure cultural sensitivity?
+    id: 165199
+    title: >-
+        What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-crosscultural-psychology-important-in-research-and-what-challenges-must-be-addressed-to-ensure-cultural-sensitivity
+    url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
 related_article2:
-    id: 165196
-    title: What are the challenges associated with between-subject design, particularly regarding sample size and variability between groups?
+    id: 165198
+    title: >-
+        What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-associated-with-betweensubject-design-particularly-regarding-sample-size-and-variability-between-groups
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
 related_article3:
-    id: 165202
-    title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+    id: 165201
+    title: >-
+        What is contextual richness, and how does it impact memory and cognition in research studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
+    url: /learn/psychology/questions/what-is-contextual-richness-and-how-does-it-impact-memory-and-cognition-in-research-studies
 related_article4:
-    id: 165193
-    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    id: 165192
+    title: >-
+        What ethical considerations must be addressed when designing experimental studies on birth order?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
 related_article5:
-    id: 165203
-    title: What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    id: 165188
+    title: >-
+        What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+    url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
 ---
 
 &nbsp;

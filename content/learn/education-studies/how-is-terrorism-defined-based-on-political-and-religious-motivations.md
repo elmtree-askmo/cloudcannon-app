@@ -2,8 +2,10 @@
 _schema: default
 id: 164944
 date: 2025-01-28
-title: How is terrorism defined based on political and religious motivations?
-article_title: How is terrorism defined based on political and religious motivations?
+title: >-
+    How is terrorism defined based on political and religious motivations?
+article_title: >-
+    How is terrorism defined based on political and religious motivations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-terrorism-defined-based-on-political-and-religious-motivations
 url: /learn/education-studies/questions/how-is-terrorism-defined-based-on-political-and-religious-motivations
 score: -1.0
 related_article1:
+    id: 164934
+    title: >-
+        What ethical considerations should be taken into account during participant recruitment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
+related_article2:
     id: 164939
-    title: What is the primary purpose of military aid?
+    title: >-
+        What is the primary purpose of military aid?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
-related_article2:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 related_article3:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    id: 164935
+    title: >-
+        How does question order affect survey design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
+    url: /learn/education-studies/questions/how-does-question-order-affect-survey-design
 related_article4:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    id: 164936
+    title: >-
+        What are the different types of questions used in surveys, and how can bias be avoided?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
+    url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
 related_article5:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    id: 164942
+    title: >-
+        What are the core principles of communism?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
+    url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
 ---
 
 &nbsp;

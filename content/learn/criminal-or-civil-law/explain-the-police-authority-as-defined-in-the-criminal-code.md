@@ -2,8 +2,10 @@
 _schema: default
 id: 162011
 date: 2025-01-24
-title: Explain the police authority as defined in the Criminal Code.
-article_title: Explain the police authority as defined in the Criminal Code.
+title: >-
+    Explain the police authority as defined in the Criminal Code.
+article_title: >-
+    Explain the police authority as defined in the Criminal Code.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-police-authority-as-defined-in-the-criminal-code.md
 url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
 score: -1.0
 related_article1:
-    id: 161999
-    title: Define investigative detention and its legal standards.
+    id: 161996
+    title: >-
+        Explain the judicial process involved in issuing a search warrant.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
+    url: /learn/criminal-or-civil-law/questions/explain-the-judicial-process-involved-in-issuing-a-search-warrant
 related_article2:
-    id: 162001
-    title: What constitutes exigent circumstances in legal terms?
+    id: 162000
+    title: >-
+        Discuss the application of common law in modern investigative detention.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
+    url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
 related_article3:
-    id: 162010
-    title: What are the legal requirements for conducting searches under law enforcement powers?
+    id: 162006
+    title: >-
+        Discuss the privacy considerations involved in DNA collection.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
+    url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
 related_article4:
-    id: 162008
-    title: What are Charter remedies and how do they apply in court interpretations?
+    id: 162005
+    title: >-
+        What are the legal requirements for issuing production orders?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-issuing-production-orders
 related_article5:
-    id: 162002
-    title: Outline the judicial process for obtaining information to obtain.
+    id: 161996
+    title: >-
+        Explain the judicial process involved in issuing a search warrant.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/outline-the-judicial-process-for-obtaining-information-to-obtain
+    url: /learn/criminal-or-civil-law/questions/explain-the-judicial-process-involved-in-issuing-a-search-warrant
 ---
 
 &nbsp;

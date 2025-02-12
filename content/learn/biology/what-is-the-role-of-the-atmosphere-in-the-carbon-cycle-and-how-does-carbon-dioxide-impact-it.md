@@ -2,8 +2,10 @@
 _schema: default
 id: 170331
 date: 2025-02-06
-title: What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
-article_title: What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+title: >-
+    What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
+article_title: >-
+    What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-c
 url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
 score: -1.0
 related_article1:
-    id: 170338
-    title: How do plankton contribute to the food chain and the carbon cycle?
+    id: 170343
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
+    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
 related_article2:
-    id: 170338
-    title: How do plankton contribute to the food chain and the carbon cycle?
+    id: 170334
+    title: >-
+        Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
     subject: Biology
-    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
+    url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
 related_article3:
-    id: 170328
-    title: How do carbon sinks and sources impact climate change?
+    id: 170336
+    title: >-
+        How does biomass interact with decomposition in the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
+    url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
 related_article4:
-    id: 170335
-    title: What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
+    id: 170327
+    title: >-
+        What are the main processes involved in carbon exchange within ecosystems?
     subject: Biology
-    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
+    url: /learn/biology/questions/what-are-the-main-processes-involved-in-carbon-exchange-within-ecosystems
 related_article5:
-    id: 170330
-    title: How does cellular respiration interact with photosynthesis in the carbon cycle?
+    id: 170327
+    title: >-
+        What are the main processes involved in carbon exchange within ecosystems?
     subject: Biology
-    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
+    url: /learn/biology/questions/what-are-the-main-processes-involved-in-carbon-exchange-within-ecosystems
 ---
 
 &nbsp;

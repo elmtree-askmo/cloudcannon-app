@@ -2,8 +2,10 @@
 _schema: default
 id: 169540
 date: 2025-02-05
-title: How does maintaining a positive outlook contribute to building resilience in nursing?
-article_title: How does maintaining a positive outlook contribute to building resilience in nursing?
+title: >-
+    How does maintaining a positive outlook contribute to building resilience in nursing?
+article_title: >-
+    How does maintaining a positive outlook contribute to building resilience in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-maintaining-a-positive-outlook-contribute-to-building-resili
 url: /learn/nursing/questions/how-does-maintaining-a-positive-outlook-contribute-to-building-resilience-in-nursing
 score: -1.0
 related_article1:
-    id: 169538
-    title: How can self-awareness and reflection contribute to developing emotional intelligence in nursing?
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-selfawareness-and-reflection-contribute-to-developing-emotional-intelligence-in-nursing
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
 related_article2:
-    id: 169544
-    title: How can self-care practices contribute to a nurse's personal well-being and mental health?
+    id: 169541
+    title: >-
+        What role does empathy play in providing compassionate care to patients?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-personal-wellbeing-and-mental-health
+    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
 related_article3:
     id: 169545
-    title: What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
+    title: >-
+        What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
     subject: Nursing
     url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
 related_article4:
-    id: 169542
-    title: Why is cultural competency important in nursing, and how can it improve patient care?
+    id: 169552
+    title: >-
+        How can support systems provide emotional and mental support to nurses in their professional roles?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-cultural-competency-important-in-nursing-and-how-can-it-improve-patient-care
-related_article5:
-    id: 169541
-    title: What role does empathy play in providing compassionate care to patients?
-    subject: Nursing
-    url: /learn/nursing/questions/what-role-does-empathy-play-in-providing-compassionate-care-to-patients
+    url: /learn/nursing/questions/how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles
 ---
 
 &nbsp;

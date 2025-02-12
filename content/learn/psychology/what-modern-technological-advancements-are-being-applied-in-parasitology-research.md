@@ -2,8 +2,10 @@
 _schema: default
 id: 165845
 date: 2025-01-29
-title: What modern technological advancements are being applied in parasitology research?
-article_title: What modern technological advancements are being applied in parasitology research?
+title: >-
+    What modern technological advancements are being applied in parasitology research?
+article_title: >-
+    What modern technological advancements are being applied in parasitology research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-modern-technological-advancements-are-being-applied-in-parasitol
 url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 score: -1.0
 related_article1:
-    id: 165843
-    title: What are the ecological consequences of habitat disruption caused by parasites?
+    id: 165830
+    title: >-
+        How do sociological and political factors influence the incidence and distribution of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+    url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 related_article2:
     id: 165839
-    title: What molecular techniques are advancing research in parasitology?
+    title: >-
+        What molecular techniques are advancing research in parasitology?
     subject: Psychology
     url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 related_article3:
-    id: 165834
-    title: What is host specificity and how does molecular affinity play a role in it?
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-host-specificity-and-how-does-molecular-affinity-play-a-role-in-it
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 related_article4:
-    id: 165852
-    title: What challenges do global health initiatives face in the eradication of tropical diseases?
+    id: 165847
+    title: >-
+        What are the key public health implications of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 related_article5:
-    id: 165832
-    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
+    id: 165842
+    title: >-
+        Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
 ---
 
 &nbsp;

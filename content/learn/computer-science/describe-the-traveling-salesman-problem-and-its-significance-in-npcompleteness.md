@@ -2,8 +2,10 @@
 _schema: default
 id: 160807
 date: 2025-01-24
-title: Describe the traveling salesman problem and its significance in NP-completeness.
-article_title: Describe the traveling salesman problem and its significance in NP-completeness.
+title: >-
+    Describe the traveling salesman problem and its significance in NP-completeness.
+article_title: >-
+    Describe the traveling salesman problem and its significance in NP-completeness.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-traveling-salesman-problem-and-its-significance-in-npcom
 url: /learn/computer-science/questions/describe-the-traveling-salesman-problem-and-its-significance-in-npcompleteness
 score: -1.0
 related_article1:
-    id: 160820
-    title: What are the mathematical implications of infinite sets in set theory?
+    id: 161143
+    title: >-
+        How does the concept of cardinality apply to comparing infinite sets?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
+related_article2:
+    id: 161099
+    title: >-
+        What are the mathematical implications of infinite sets in set theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
-related_article2:
-    id: 160812
-    title: What distinguishes rational numbers from irrational numbers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
 related_article3:
-    id: 160801
-    title: How can abstraction aid in algorithm design?
+    id: 160817
+    title: >-
+        What challenges are associated with solving the traveling salesman problem?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
+    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
 related_article4:
-    id: 161148
-    title: What is the significance of cardinality in defining complexity and algorithm design?
+    id: 160817
+    title: >-
+        What challenges are associated with solving the traveling salesman problem?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
+    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
 related_article5:
-    id: 160798
-    title: What is the importance of algorithm representation in the initial step of algorithm development?
+    id: 160816
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 ---
 
 &nbsp;

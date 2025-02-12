@@ -2,8 +2,10 @@
 _schema: default
 id: 169140
 date: 2025-02-04
-title: What were the main challenges faced in the inner city slum-yards regarding racial integration?
-article_title: What were the main challenges faced in the inner city slum-yards regarding racial integration?
+title: >-
+    What were the main challenges faced in the inner city slum-yards regarding racial integration?
+article_title: >-
+    What were the main challenges faced in the inner city slum-yards regarding racial integration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-challenges-faced-in-the-inner-city-slumyards-regar
 url: /learn/sociology/questions/what-were-the-main-challenges-faced-in-the-inner-city-slumyards-regarding-racial-integration
 score: -1.0
 related_article1:
-    id: 169151
-    title: How did early 20th-century legislation impact urban segregation in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
-related_article2:
-    id: 169138
-    title: What were the key factors that contributed to early urban segregation in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
-related_article3:
-    id: 169141
-    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
-related_article4:
     id: 169139
-    title: How did mining and manufacturing influence urban segregation in Johannesburg?
+    title: >-
+        How did mining and manufacturing influence urban segregation in Johannesburg?
     subject: Sociology
     url: /learn/sociology/questions/how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg
-related_article5:
-    id: 169141
-    title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+related_article2:
+    id: 169152
+    title: >-
+        What were the municipal strategies and reforms aimed at addressing housing and location policies?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
+    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
+related_article3:
+    id: 169145
+    title: >-
+        What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
+related_article4:
+    id: 169146
+    title: >-
+        How did segregationist policies affect racial identity and residential control in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg
+related_article5:
+    id: 169148
+    title: >-
+        How did the demand for African labor influence housing policies in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-the-demand-for-african-labor-influence-housing-policies-in-johannesburg
 ---
 
 &nbsp;

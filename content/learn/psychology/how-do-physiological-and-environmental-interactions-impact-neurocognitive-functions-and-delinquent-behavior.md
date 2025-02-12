@@ -2,8 +2,10 @@
 _schema: default
 id: 164046
 date: 2025-01-28
-title: How do physiological and environmental interactions impact neurocognitive functions and delinquent behavior?
-article_title: How do physiological and environmental interactions impact neurocognitive functions and delinquent behavior?
+title: >-
+    How do physiological and environmental interactions impact neurocognitive functions and delinquent behavior?
+article_title: >-
+    How do physiological and environmental interactions impact neurocognitive functions and delinquent behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-physiological-and-environmental-interactions-impact-neurocogni
 url: /learn/psychology/questions/how-do-physiological-and-environmental-interactions-impact-neurocognitive-functions-and-delinquent-behavior
 score: -1.0
 related_article1:
-    id: 164043
-    title: What is the significance of the prefrontal areas and social-emotional system in brain development related to delinquent behavior?
+    id: 164040
+    title: >-
+        How do psychologists and psychiatrists function as forensic expert witnesses in the legal system?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-the-prefrontal-areas-and-socialemotional-system-in-brain-development-related-to-delinquent-behavior
+    url: /learn/psychology/questions/how-do-psychologists-and-psychiatrists-function-as-forensic-expert-witnesses-in-the-legal-system
 related_article2:
-    id: 164049
-    title: What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
-    subject: Psychology
-    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
-related_article3:
-    id: 164041
-    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
-related_article4:
-    id: 164039
-    title: What is the role of forensic assessment in Dutch criminal law?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
-related_article5:
     id: 164047
-    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    title: >-
+        What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+related_article3:
+    id: 164044
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+related_article4:
+    id: 164040
+    title: >-
+        How do psychologists and psychiatrists function as forensic expert witnesses in the legal system?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-psychologists-and-psychiatrists-function-as-forensic-expert-witnesses-in-the-legal-system
 ---
 
 &nbsp;

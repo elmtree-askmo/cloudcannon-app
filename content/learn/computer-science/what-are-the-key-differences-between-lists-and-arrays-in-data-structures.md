@@ -2,8 +2,10 @@
 _schema: default
 id: 160699
 date: 2025-01-24
-title: What are the key differences between lists and arrays in data structures?
-article_title: What are the key differences between lists and arrays in data structures?
+title: >-
+    What are the key differences between lists and arrays in data structures?
+article_title: >-
+    What are the key differences between lists and arrays in data structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-lists-and-arrays-in-data-structu
 url: /learn/computer-science/questions/what-are-the-key-differences-between-lists-and-arrays-in-data-structures
 score: -1.0
 related_article1:
-    id: 160713
-    title: Compare linear search with depth-first search in terms of their application.
+    id: 160867
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-application
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 related_article2:
-    id: 160864
-    title: What is the purpose of abstraction in computing?
+    id: 160874
+    title: >-
+        How do constraints impact algorithm design and simplify algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design-and-simplify-algorithms
 related_article3:
-    id: 160865
-    title: Explain the concept of lists and how they are implemented as arrays.
+    id: 161030
+    title: >-
+        How can constraints simplify algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
+    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
 related_article4:
-    id: 160777
-    title: What is the purpose of abstraction in computing?
+    id: 160795
+    title: >-
+        How can constraints simplify algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
 related_article5:
-    id: 161010
-    title: Describe the divide and conquer strategy in algorithm development.
+    id: 161026
+    title: >-
+        What are the challenges in proving software solutions compared to testing them?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
+    url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167197
 date: 2025-01-31
-title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
-article_title: What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+title: >-
+    What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
+article_title: >-
+    What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-considerations-are-there-for-energy-use-in-bulk-transport-method
 url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
 score: -1.0
 related_article1:
-    id: 167192
-    title: Describe the process of endocytosis and the types of materials it transports.
+    id: 167181
+    title: >-
+        What is the primary role of transport proteins in membrane transport mechanisms?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
+    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
 related_article2:
-    id: 167188
-    title: Describe the role of carrier proteins in facilitated diffusion.
+    id: 167184
+    title: >-
+        In passive transport, how does the movement of molecules relate to the concentration gradient?
     subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
 related_article3:
-    id: 167183
-    title: What is facilitated diffusion and how does it differ from simple diffusion?
+    id: 167185
+    title: >-
+        What distinguishes active transport from passive transport in terms of energy requirements?
     subject: Biology
-    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
+    url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
 related_article4:
-    id: 167191
-    title: What is the process of exocytosis and what types of materials are typically transported via this method?
+    id: 167198
+    title: >-
+        What types of materials are typically transported via passive transport methods?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-process-of-exocytosis-and-what-types-of-materials-are-typically-transported-via-this-method
+    url: /learn/biology/questions/what-types-of-materials-are-typically-transported-via-passive-transport-methods
 related_article5:
-    id: 167182
-    title: How do transport proteins facilitate the movement of ions across the cell membrane?
+    id: 167186
+    title: >-
+        How do transport proteins function as channels in passive transport?
     subject: Biology
-    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
+    url: /learn/biology/questions/how-do-transport-proteins-function-as-channels-in-passive-transport
 ---
 
 &nbsp;

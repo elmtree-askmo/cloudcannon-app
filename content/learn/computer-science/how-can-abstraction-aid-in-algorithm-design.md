@@ -2,8 +2,10 @@
 _schema: default
 id: 160801
 date: 2025-01-24
-title: How can abstraction aid in algorithm design?
-article_title: How can abstraction aid in algorithm design?
+title: >-
+    How can abstraction aid in algorithm design?
+article_title: >-
+    How can abstraction aid in algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-abstraction-aid-in-algorithm-design.md
 url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
 score: -1.0
 related_article1:
-    id: 161131
-    title: How do advanced data structures impact algorithm efficiency?
+    id: 160818
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-advanced-data-structures-impact-algorithm-efficiency
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
 related_article2:
-    id: 161086
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 161275
+    title: >-
+        What defines an efficient algorithm in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 related_article3:
-    id: 161138
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article4:
-    id: 161143
-    title: How does the concept of cardinality apply to comparing infinite sets?
+    id: 161087
+    title: >-
+        What is the significance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
+    url: /learn/computer-science/questions/what-is-the-significance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 related_article5:
-    id: 161130
-    title: What is the relationship between data structures and algorithms in terms of data representation?
+    id: 161145
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-algorithms-in-terms-of-data-representation
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
 ---
 
 &nbsp;

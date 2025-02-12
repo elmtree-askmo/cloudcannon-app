@@ -2,8 +2,10 @@
 _schema: default
 id: 162985
 date: 2025-01-26
-title: How do descriptive and analytic epidemiologic questions differ in their objectives?
-article_title: How do descriptive and analytic epidemiologic questions differ in their objectives?
+title: >-
+    How do descriptive and analytic epidemiologic questions differ in their objectives?
+article_title: >-
+    How do descriptive and analytic epidemiologic questions differ in their objectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-the
 url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
 score: -1.0
 related_article1:
-    id: 162989
-    title: What are the primary purposes of public health surveillance?
+    id: 163320
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article2:
-    id: 163151
-    title: What are the primary purposes of public health surveillance?
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
 related_article3:
-    id: 162988
-    title: What is the role of public health surveillance in responding to outbreaks?
+    id: 162986
+    title: >-
+        What role do epidemiologic questions play in generating public health hypotheses?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
 related_article4:
-    id: 163309
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+    id: 163308
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 related_article5:
-    id: 163309
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+    id: 163312
+    title: >-
+        What distinguishes a crude mortality rate from a specific mortality rate?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
+    url: /learn/health-studies/questions/what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-rate
 ---
 
 &nbsp;

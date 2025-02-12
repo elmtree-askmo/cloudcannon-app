@@ -2,8 +2,10 @@
 _schema: default
 id: 170184
 date: 2025-02-06
-title: Who was Calgacus, and what was his influence on Caledonian warfare?
-article_title: Who was Calgacus, and what was his influence on Caledonian warfare?
+title: >-
+    Who was Calgacus, and what was his influence on Caledonian warfare?
+article_title: >-
+    Who was Calgacus, and what was his influence on Caledonian warfare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,20 +24,35 @@ file_name: who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare.md
 url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
 score: 9.0
 related_article1:
-    id: 170185
-    title: Analyze the structure and historical significance of Tacitus' 'Agricola'.
+    id: 170180
+    title: >-
+        What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
+    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
 related_article2:
-    id: 170178
-    title: What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
+    id: 170175
+    title: >-
+        What are the historical theories regarding the origins and identity of the Pictish culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-engineering-techniques-were-used-in-the-construction-of-hadrians-wall-and-how-did-they-contribute-to-its-fortifications
+    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
 related_article3:
-    id: 170166
-    title: What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
+    id: 170169
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-and-distribution-patterns-of-unenclosed-villages-during-the-iron-age
+    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
+related_article4:
+    id: 170173
+    title: >-
+        What are the main themes and historical context of Tacitus' 'Annals'?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
+related_article5:
+    id: 170181
+    title: >-
+        What insights into Roman life do the Vindolanda Tablets provide, and how are they preserved and studied?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-insights-into-roman-life-do-the-vindolanda-tablets-provide-and-how-are-they-preserved-and-studied
 ---
 
 &nbsp;

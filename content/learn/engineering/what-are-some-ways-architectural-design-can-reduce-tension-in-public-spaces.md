@@ -2,8 +2,10 @@
 _schema: default
 id: 169368
 date: 2025-02-05
-title: What are some ways architectural design can reduce tension in public spaces?
-article_title: What are some ways architectural design can reduce tension in public spaces?
+title: >-
+    What are some ways architectural design can reduce tension in public spaces?
+article_title: >-
+    What are some ways architectural design can reduce tension in public spaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-ways-architectural-design-can-reduce-tension-in-public-
 url: /learn/engineering/questions/what-are-some-ways-architectural-design-can-reduce-tension-in-public-spaces
 score: -1.0
 related_article1:
-    id: 169360
-    title: What is the Shikiri concept in architectural design, and how does it influence space division?
+    id: 169366
+    title: >-
+        What role does natural light play in environmental design, particularly in courtyard integration?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
+    url: /learn/engineering/questions/what-role-does-natural-light-play-in-environmental-design-particularly-in-courtyard-integration
 related_article2:
-    id: 169372
-    title: How do advanced materials contribute to technical developments in architecture?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
-related_article3:
-    id: 169360
-    title: What is the Shikiri concept in architectural design, and how does it influence space division?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-shikiri-concept-in-architectural-design-and-how-does-it-influence-space-division
-related_article4:
     id: 169363
-    title: How can color be used as a tool in architecture to impact emotions?
+    title: >-
+        How can color be used as a tool in architecture to impact emotions?
     subject: Engineering
     url: /learn/engineering/questions/how-can-color-be-used-as-a-tool-in-architecture-to-impact-emotions
-related_article5:
-    id: 169361
-    title: How does the integration of color enhance architectural design?
+related_article3:
+    id: 169369
+    title: >-
+        What challenges are associated with deflection calculations in structural engineering?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-integration-of-color-enhance-architectural-design
+    url: /learn/engineering/questions/what-challenges-are-associated-with-deflection-calculations-in-structural-engineering
+related_article4:
+    id: 169362
+    title: >-
+        What techniques are used in three-dimensional space creation to add depth and rhythm?
+    subject: Engineering
+    url: /learn/engineering/questions/what-techniques-are-used-in-threedimensional-space-creation-to-add-depth-and-rhythm
+related_article5:
+    id: 169372
+    title: >-
+        How do advanced materials contribute to technical developments in architecture?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-advanced-materials-contribute-to-technical-developments-in-architecture
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166214
 date: 2025-01-29
-title: How has classical Arabic literature influenced modern Arabic literature?
-article_title: How has classical Arabic literature influenced modern Arabic literature?
+title: >-
+    How has classical Arabic literature influenced modern Arabic literature?
+article_title: >-
+    How has classical Arabic literature influenced modern Arabic literature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-classical-arabic-literature-influenced-modern-arabic-literatu
 url: /learn/history-of-the-world/questions/how-has-classical-arabic-literature-influenced-modern-arabic-literature
 score: 9.0
 related_article1:
+    id: 166225
+    title: >-
+        What are the main components of physical health that contribute to overall well-being?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
+related_article2:
+    id: 166226
+    title: >-
+        How can stress management techniques improve mental health?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
+related_article3:
+    id: 166228
+    title: >-
+        What are the limitations of using archaeological finds as historical evidence?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
+related_article4:
+    id: 166223
+    title: >-
+        What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
+related_article5:
     id: 166222
-    title: What role does cultural context play in shaping historical interpretations?
+    title: >-
+        What role does cultural context play in shaping historical interpretations?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-does-cultural-context-play-in-shaping-historical-interpretations
-related_article2:
-    id: 166240
-    title: How do language barriers and contextual understanding affect the interpretation of historical documents?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
-related_article3:
-    id: 166220
-    title: What are the main challenges associated with the interpretation of primary sources?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-associated-with-the-interpretation-of-primary-sources
-related_article4:
-    id: 166216
-    title: What are the common challenges faced when implementing iClicker technology in classrooms?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-common-challenges-faced-when-implementing-iclicker-technology-in-classrooms
-related_article5:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
 ---
 
 &nbsp;

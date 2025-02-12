@@ -2,8 +2,10 @@
 _schema: default
 id: 169002
 date: 2025-02-04
-title: What role does spatial analysis play in understanding the untold stories of architecture?
-article_title: What role does spatial analysis play in understanding the untold stories of architecture?
+title: >-
+    What role does spatial analysis play in understanding the untold stories of architecture?
+article_title: >-
+    What role does spatial analysis play in understanding the untold stories of architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-spatial-analysis-play-in-understanding-the-untold-stor
 url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
 score: 9.0
 related_article1:
-    id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
+    id: 169014
+    title: >-
+        How have media and public perception shaped cultural representations of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
+    url: /learn/history-of-the-world/questions/how-have-media-and-public-perception-shaped-cultural-representations-of-revolution
 related_article2:
-    id: 169010
-    title: How do gendered constructs influence societal understandings of space?
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-gendered-constructs-influence-societal-understandings-of-space
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 related_article3:
+    id: 169022
+    title: >-
+        How have newspaper accounts influenced the historical narratives of revolutionary events?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influenced-the-historical-narratives-of-revolutionary-events
+related_article4:
     id: 169012
-    title: Who were some key figures in the Mexican Revolution, and what were their contributions?
+    title: >-
+        Who were some key figures in the Mexican Revolution, and what were their contributions?
     subject: History of the World
     url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
-related_article4:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 related_article5:
-    id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
+    id: 169003
+    title: >-
+        How can architecture be analyzed within political and socio-historical contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
+    url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
 ---
 
 &nbsp;

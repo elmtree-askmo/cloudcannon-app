@@ -2,8 +2,10 @@
 _schema: default
 id: 169865
 date: 2025-02-05
-title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
-article_title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+title: >-
+    How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+article_title: >-
+    How did the Battle of Mons Graupius impact Roman military strategy in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in
 url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
 score: 9.0
 related_article1:
+    id: 169868
+    title: >-
+        How do Tacitus' accounts contribute to our understanding of Roman military campaigns in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-tacitus-accounts-contribute-to-our-understanding-of-roman-military-campaigns-in-britain
+related_article2:
+    id: 169866
+    title: >-
+        What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-primary-purpose-of-hadrians-wall-during-the-roman-occupation-of-britain
+related_article3:
+    id: 169878
+    title: >-
+        What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal-warfare-against-the-romans
+related_article4:
     id: 169877
-    title: How did Roman military techniques, such as the construction of Roman roads, facilitate their campaigns in Britain?
+    title: >-
+        How did Roman military techniques, such as the construction of Roman roads, facilitate their campaigns in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-military-techniques-such-as-the-construction-of-roman-roads-facilitate-their-campaigns-in-britain
-related_article2:
-    id: 169867
-    title: Describe the significance of the Vindolanda Fort in understanding Roman military presence in Britain.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-the-vindolanda-fort-in-understanding-roman-military-presence-in-britain
-related_article3:
+related_article5:
     id: 169880
-    title: What were the main factors leading to the Roman withdrawal from Scotland?
+    title: >-
+        What were the main factors leading to the Roman withdrawal from Scotland?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-roman-withdrawal-from-scotland
-related_article4:
-    id: 169872
-    title: What evidence exists for cultural continuity among the Picts from the Iron Age to medieval times?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-evidence-exists-for-cultural-continuity-among-the-picts-from-the-iron-age-to-medieval-times
-related_article5:
-    id: 169883
-    title: What influence did Greek and Roman texts have on medieval historical narratives, such as Bede's Histories?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-influence-did-greek-and-roman-texts-have-on-medieval-historical-narratives-such-as-bedes-histories
 ---
 
 &nbsp;

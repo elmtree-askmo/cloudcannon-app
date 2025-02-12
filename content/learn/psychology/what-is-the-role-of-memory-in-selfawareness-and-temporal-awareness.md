@@ -2,8 +2,10 @@
 _schema: default
 id: 164488
 date: 2025-01-28
-title: What is the role of memory in self-awareness and temporal awareness?
-article_title: What is the role of memory in self-awareness and temporal awareness?
+title: >-
+    What is the role of memory in self-awareness and temporal awareness?
+article_title: >-
+    What is the role of memory in self-awareness and temporal awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness.md
 url: /learn/psychology/questions/what-is-the-role-of-memory-in-selfawareness-and-temporal-awareness
 score: -1.0
 related_article1:
-    id: 164490
-    title: Which brain structures are primarily involved in memory processing?
+    id: 164479
+    title: >-
+        What are the main differences between retrograde and anterograde amnesia?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-structures-are-primarily-involved-in-memory-processing
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 related_article2:
-    id: 164506
-    title: What are the key brain regions involved in memory, and what are their functions?
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
 related_article3:
-    id: 164504
-    title: How do emotions interact with memory, particularly in emotional memory?
+    id: 164482
+    title: >-
+        What is the role of unconscious learning in implicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-emotions-interact-with-memory-particularly-in-emotional-memory
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
 related_article4:
-    id: 164498
-    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    id: 164481
+    title: >-
+        How did Patient HM contribute to our understanding of memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
 related_article5:
-    id: 164498
-    title: What are the effects of brain damage on memory, and what rehabilitation strategies are available?
+    id: 164486
+    title: >-
+        What are the stages of memory formation and their functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170366
 date: 2025-02-06
-title: Explain the role of ATP in cellular processes.
-article_title: Explain the role of ATP in cellular processes.
+title: >-
+    Explain the role of ATP in cellular processes.
+article_title: >-
+    Explain the role of ATP in cellular processes.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-role-of-atp-in-cellular-processes.md
 url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
 score: -1.0
 related_article1:
-    id: 170358
-    title: What are the main carbon reservoirs in the carbon cycle?
+    id: 170369
+    title: >-
+        How do chloroplasts contribute to glucose production?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
+    url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
 related_article2:
-    id: 170375
-    title: How does light energy get converted into chemical energy during photosynthesis?
-    subject: Biology
-    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
-related_article3:
-    id: 170367
-    title: How is ATP produced in the mitochondria?
-    subject: Biology
-    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
-related_article4:
     id: 170373
-    title: How do stomata regulate gas exchange in plants?
+    title: >-
+        How do stomata regulate gas exchange in plants?
     subject: Biology
     url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
-related_article5:
-    id: 170375
-    title: How does light energy get converted into chemical energy during photosynthesis?
+related_article3:
+    id: 170363
+    title: >-
+        What is the primary function of mitochondria in cellular respiration?
     subject: Biology
-    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+    url: /learn/biology/questions/what-is-the-primary-function-of-mitochondria-in-cellular-respiration
+related_article4:
+    id: 170364
+    title: >-
+        Describe the chemical equation for cellular respiration, including reactants and products.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
+related_article5:
+    id: 170361
+    title: >-
+        Write the balanced chemical equation for photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
 ---
 
 &nbsp;

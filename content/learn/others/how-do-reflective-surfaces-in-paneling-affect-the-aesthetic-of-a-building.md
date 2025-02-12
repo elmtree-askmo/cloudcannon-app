@@ -2,8 +2,10 @@
 _schema: default
 id: 169383
 date: 2025-02-05
-title: How do reflective surfaces in paneling affect the aesthetic of a building?
-article_title: How do reflective surfaces in paneling affect the aesthetic of a building?
+title: >-
+    How do reflective surfaces in paneling affect the aesthetic of a building?
+article_title: >-
+    How do reflective surfaces in paneling affect the aesthetic of a building?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-reflective-surfaces-in-paneling-affect-the-aesthetic-of-a-buil
 url: /learn/others/questions/how-do-reflective-surfaces-in-paneling-affect-the-aesthetic-of-a-building
 score: -1.0
 related_article1:
-    id: 169375
-    title: How does material selection impact the structural elements of a building's facade?
-    subject: Others
-    url: /learn/others/questions/how-does-material-selection-impact-the-structural-elements-of-a-buildings-facade
-related_article2:
-    id: 169377
-    title: How does exterior interaction influence functional zoning in spatial design?
-    subject: Others
-    url: /learn/others/questions/how-does-exterior-interaction-influence-functional-zoning-in-spatial-design
-related_article3:
-    id: 169374
-    title: What are the key considerations in facade design when integrating color?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-considerations-in-facade-design-when-integrating-color
-related_article4:
-    id: 169385
-    title: What strategies can be used to adapt architectural design to seasonal variability?
-    subject: Others
-    url: /learn/others/questions/what-strategies-can-be-used-to-adapt-architectural-design-to-seasonal-variability
-related_article5:
     id: 169382
-    title: What are the advantages of using glass in facade elements for building materials?
+    title: >-
+        What are the advantages of using glass in facade elements for building materials?
     subject: Others
     url: /learn/others/questions/what-are-the-advantages-of-using-glass-in-facade-elements-for-building-materials
+related_article2:
+    id: 169384
+    title: >-
+        How does nature-inspired design contribute to creating a refreshing atmosphere in environmental aesthetics?
+    subject: Others
+    url: /learn/others/questions/how-does-natureinspired-design-contribute-to-creating-a-refreshing-atmosphere-in-environmental-aesthetics
+related_article3:
+    id: 169382
+    title: >-
+        What are the advantages of using glass in facade elements for building materials?
+    subject: Others
+    url: /learn/others/questions/what-are-the-advantages-of-using-glass-in-facade-elements-for-building-materials
+related_article4:
+    id: 169379
+    title: >-
+        How do gradual color transitions contribute to environmental harmony in architecture?
+    subject: Others
+    url: /learn/others/questions/how-do-gradual-color-transitions-contribute-to-environmental-harmony-in-architecture
+related_article5:
+    id: 169387
+    title: >-
+        What are the challenges associated with glass installation in construction techniques?
+    subject: Others
+    url: /learn/others/questions/what-are-the-challenges-associated-with-glass-installation-in-construction-techniques
 ---
 
 &nbsp;

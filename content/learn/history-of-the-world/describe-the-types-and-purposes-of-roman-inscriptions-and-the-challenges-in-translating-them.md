@@ -2,8 +2,10 @@
 _schema: default
 id: 170182
 date: 2025-02-06
-title: Describe the types and purposes of Roman inscriptions and the challenges in translating them.
-article_title: Describe the types and purposes of Roman inscriptions and the challenges in translating them.
+title: >-
+    Describe the types and purposes of Roman inscriptions and the challenges in translating them.
+article_title: >-
+    Describe the types and purposes of Roman inscriptions and the challenges in translating them.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-types-and-purposes-of-roman-inscriptions-and-the-challen
 url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
 score: 9.0
 related_article1:
-    id: 170167
-    title: Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
+    id: 170186
+    title: >-
+        How did Roman-British relations evolve during the initial contact and conquest period?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
+    url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
 related_article2:
-    id: 170184
-    title: Who was Calgacus, and what was his influence on Caledonian warfare?
+    id: 170174
+    title: >-
+        Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
+    url: /learn/history-of-the-world/questions/compare-the-contributions-of-cornelius-nepos-to-the-biography-genre-with-those-of-tacitus
 related_article3:
     id: 170178
-    title: What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
+    title: >-
+        What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-engineering-techniques-were-used-in-the-construction-of-hadrians-wall-and-how-did-they-contribute-to-its-fortifications
 related_article4:
-    id: 170175
-    title: What are the historical theories regarding the origins and identity of the Pictish culture?
+    id: 170187
+    title: >-
+        What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
+    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
 related_article5:
-    id: 170169
-    title: Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
+    id: 170185
+    title: >-
+        Analyze the structure and historical significance of Tacitus' 'Agricola'.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
+    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
 ---
 
 &nbsp;

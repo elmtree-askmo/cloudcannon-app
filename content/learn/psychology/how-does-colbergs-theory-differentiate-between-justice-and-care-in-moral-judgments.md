@@ -2,8 +2,10 @@
 _schema: default
 id: 164227
 date: 2025-01-28
-title: How does Colberg's theory differentiate between justice and care in moral judgments?
-article_title: How does Colberg's theory differentiate between justice and care in moral judgments?
+title: >-
+    How does Colberg's theory differentiate between justice and care in moral judgments?
+article_title: >-
+    How does Colberg's theory differentiate between justice and care in moral judgments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-colbergs-theory-differentiate-between-justice-and-care-in-mo
 url: /learn/psychology/questions/how-does-colbergs-theory-differentiate-between-justice-and-care-in-moral-judgments
 score: -1.0
 related_article1:
-    id: 164220
-    title: What are the characteristics of conventional morality in Colberg's stages of moral development?
+    id: 164217
+    title: >-
+        How did Colberg study moral reasoning, and what were his key findings?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
+    url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
 related_article2:
-    id: 164219
-    title: Describe the stages of pre-conventional morality in Colberg's theory.
+    id: 164228
+    title: >-
+        What cultural biases are present in Colberg's theory of moral development?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-stages-of-preconventional-morality-in-colbergs-theory
+    url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
 related_article3:
-    id: 164229
-    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    id: 164225
+    title: >-
+        How does Colberg's theory address the rigidity and linearity of moral development stages?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
 related_article4:
+    id: 164228
+    title: >-
+        What cultural biases are present in Colberg's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
+related_article5:
     id: 164218
-    title: What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
+    title: >-
+        What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
-related_article5:
-    id: 164229
-    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
 ---
 
 &nbsp;

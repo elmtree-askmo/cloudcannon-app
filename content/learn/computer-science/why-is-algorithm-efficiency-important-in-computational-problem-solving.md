@@ -2,8 +2,10 @@
 _schema: default
 id: 161035
 date: 2025-01-24
-title: Why is algorithm efficiency important in computational problem solving?
-article_title: Why is algorithm efficiency important in computational problem solving?
+title: >-
+    Why is algorithm efficiency important in computational problem solving?
+article_title: >-
+    Why is algorithm efficiency important in computational problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-algorithm-efficiency-important-in-computational-problem-solvin
 url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 score: -1.0
 related_article1:
-    id: 160724
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    id: 160904
+    title: >-
+        How is cryptography used to ensure information security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+related_article2:
+    id: 160911
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+related_article3:
+    id: 160906
+    title: >-
+        What is the role of process management in operating systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
+related_article4:
+    id: 160905
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
-related_article2:
-    id: 160728
-    title: What are the main components of a robot's mechanical system?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-a-robots-mechanical-system
-related_article3:
-    id: 160987
-    title: What are the principles of usability in user interface design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
-related_article4:
-    id: 161044
-    title: What is the role of simulation models in computer simulation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
 related_article5:
-    id: 160714
-    title: What are the main components of network architecture?
+    id: 160910
+    title: >-
+        How is machine learning applied in artificial intelligence?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-network-architecture
+    url: /learn/computer-science/questions/how-is-machine-learning-applied-in-artificial-intelligence
 ---
 
 &nbsp;

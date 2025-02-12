@@ -2,8 +2,10 @@
 _schema: default
 id: 163019
 date: 2025-01-26
-title: What are the differences between primary and secondary data in epidemiologic research?
-article_title: What are the differences between primary and secondary data in epidemiologic research?
+title: >-
+    What are the differences between primary and secondary data in epidemiologic research?
+article_title: >-
+    What are the differences between primary and secondary data in epidemiologic research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-primary-and-secondary-data-in-epidem
 url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 score: -1.0
 related_article1:
-    id: 162957
-    title: What role do genetic makeup and lifestyle play in individual determinants of health?
+    id: 163013
+    title: >-
+        How do genetic makeup and lifestyle behaviors influence individual determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
 related_article2:
-    id: 162966
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
-related_article3:
-    id: 162961
-    title: What are the differences between primary and secondary data in epidemiologic research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
-related_article4:
     id: 162977
-    title: What is the significance of confidence intervals in the estimation process of epidemiologic research?
+    title: >-
+        What is the significance of confidence intervals in the estimation process of epidemiologic research?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
-related_article5:
-    id: 163018
-    title: What are the key components of data interpretation in epidemiology?
+related_article3:
+    id: 162962
+    title: >-
+        What are the advantages of using random sampling in biostatistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-advantages-of-using-random-sampling-in-biostatistics
+related_article4:
+    id: 162957
+    title: >-
+        What role do genetic makeup and lifestyle play in individual determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+related_article5:
+    id: 163014
+    title: >-
+        What role do political and economic factors play in environmental and societal determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 ---
 
 &nbsp;

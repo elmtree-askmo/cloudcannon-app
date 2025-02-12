@@ -2,8 +2,10 @@
 _schema: default
 id: 164494
 date: 2025-01-28
-title: How do repetition and practice influence memory retention?
-article_title: How do repetition and practice influence memory retention?
+title: >-
+    How do repetition and practice influence memory retention?
+article_title: >-
+    How do repetition and practice influence memory retention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-repetition-and-practice-influence-memory-retention.md
 url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
 score: -1.0
 related_article1:
-    id: 164479
-    title: What are the main differences between retrograde and anterograde amnesia?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
-related_article2:
     id: 164492
-    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    title: >-
+        What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+related_article2:
+    id: 164491
+    title: >-
+        What is the role of acetylcholine in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 related_article3:
-    id: 164479
-    title: What are the main differences between retrograde and anterograde amnesia?
+    id: 164492
+    title: >-
+        What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
 related_article4:
-    id: 164503
-    title: What is the impact of memory loss on identity, and what coping mechanisms are available?
+    id: 164491
+    title: >-
+        What is the role of acetylcholine in memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 related_article5:
-    id: 164485
-    title: What are the key findings from studies on explicit memory?
+    id: 164483
+    title: >-
+        How does skill acquisition relate to implicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+    url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
 ---
 
 &nbsp;

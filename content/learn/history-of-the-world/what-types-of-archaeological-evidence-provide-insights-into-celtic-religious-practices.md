@@ -2,8 +2,10 @@
 _schema: default
 id: 163647
 date: 2025-01-27
-title: What types of archaeological evidence provide insights into Celtic religious practices?
-article_title: What types of archaeological evidence provide insights into Celtic religious practices?
+title: >-
+    What types of archaeological evidence provide insights into Celtic religious practices?
+article_title: >-
+    What types of archaeological evidence provide insights into Celtic religious practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-archaeological-evidence-provide-insights-into-celtic-re
 url: /learn/history-of-the-world/questions/what-types-of-archaeological-evidence-provide-insights-into-celtic-religious-practices
 score: 9.0
 related_article1:
-    id: 163655
-    title: What are the main controversies surrounding the evidence of human sacrifice in Celtic culture?
+    id: 163649
+    title: >-
+        What were the main characteristics of the tribal structure among the Gaulish tribes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-controversies-surrounding-the-evidence-of-human-sacrifice-in-celtic-culture
+    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-tribal-structure-among-the-gaulish-tribes
 related_article2:
-    id: 163648
-    title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+    id: 163654
+    title: >-
+        How do archaeological finds like the Gundestrup Cauldron influence modern interpretations of Celtic art?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
+    url: /learn/history-of-the-world/questions/how-do-archaeological-finds-like-the-gundestrup-cauldron-influence-modern-interpretations-of-celtic-art
 related_article3:
+    id: 163656
+    title: >-
+        What challenges do modern scholars face in reconstructing the Gaulish language?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish-language
+related_article4:
+    id: 163653
+    title: >-
+        What are some common stereotypes found in Greek and Roman ethnographic descriptions of the Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-found-in-greek-and-roman-ethnographic-descriptions-of-the-celts
+related_article5:
     id: 163650
-    title: How did the use of Greek and Latin characters influence the preservation of the Gaulish language?
+    title: >-
+        How did the use of Greek and Latin characters influence the preservation of the Gaulish language?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-use-of-greek-and-latin-characters-influence-the-preservation-of-the-gaulish-language
-related_article4:
-    id: 163651
-    title: What is the significance of the Gundestrup Cauldron in understanding Celtic connections to nature?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-gundestrup-cauldron-in-understanding-celtic-connections-to-nature
-related_article5:
-    id: 163657
-    title: How did the social structure of ancient Celtic society differ from that of the Romans?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-social-structure-of-ancient-celtic-society-differ-from-that-of-the-romans
 ---
 
 &nbsp;

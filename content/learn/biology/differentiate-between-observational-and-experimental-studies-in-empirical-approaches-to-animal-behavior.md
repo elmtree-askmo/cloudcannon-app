@@ -2,8 +2,10 @@
 _schema: default
 id: 165285
 date: 2025-01-28
-title: Differentiate between observational and experimental studies in empirical approaches to animal behavior.
-article_title: Differentiate between observational and experimental studies in empirical approaches to animal behavior.
+title: >-
+    Differentiate between observational and experimental studies in empirical approaches to animal behavior.
+article_title: >-
+    Differentiate between observational and experimental studies in empirical approaches to animal behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-observational-and-experimental-studies-in-empir
 url: /learn/biology/questions/differentiate-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
 score: -1.0
 related_article1:
-    id: 165270
-    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
+    id: 165271
+    title: >-
+        How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
     subject: Biology
-    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
+    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
 related_article2:
-    id: 165271
-    title: How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    id: 165280
+    title: >-
+        Explain the conceptual approach to studying animal behavior and provide an example of kin selection theory.
     subject: Biology
-    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
+    url: /learn/biology/questions/explain-the-conceptual-approach-to-studying-animal-behavior-and-provide-an-example-of-kin-selection-theory
 related_article3:
-    id: 165271
-    title: How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+    id: 165277
+    title: >-
+        Describe associative and non-associative learning and their roles in animal behavior.
     subject: Biology
-    url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
+    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
 related_article4:
     id: 165282
-    title: Describe the types of behavioral responses animals may have to environmental changes.
+    title: >-
+        Describe the types of behavioral responses animals may have to environmental changes.
     subject: Biology
     url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 related_article5:
-    id: 165284
-    title: What role does genetic mutation play in evolution and provide an example related to animal behavior.
+    id: 165282
+    title: >-
+        Describe the types of behavioral responses animals may have to environmental changes.
     subject: Biology
-    url: /learn/biology/questions/what-role-does-genetic-mutation-play-in-evolution-and-provide-an-example-related-to-animal-behavior
+    url: /learn/biology/questions/describe-the-types-of-behavioral-responses-animals-may-have-to-environmental-changes
 ---
 
 &nbsp;

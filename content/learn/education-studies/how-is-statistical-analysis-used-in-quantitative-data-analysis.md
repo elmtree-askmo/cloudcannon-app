@@ -2,8 +2,10 @@
 _schema: default
 id: 163686
 date: 2025-01-27
-title: How is statistical analysis used in quantitative data analysis?
-article_title: How is statistical analysis used in quantitative data analysis?
+title: >-
+    How is statistical analysis used in quantitative data analysis?
+article_title: >-
+    How is statistical analysis used in quantitative data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-statistical-analysis-used-in-quantitative-data-analysis.md
 url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
 score: -1.0
 related_article1:
-    id: 163682
-    title: What are the key elements of a research design?
+    id: 163679
+    title: >-
+        What are the main characteristics of quantitative research methodologies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
 related_article2:
     id: 163687
-    title: What is the importance of formulating research questions from a research problem?
+    title: >-
+        What is the importance of formulating research questions from a research problem?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
 related_article3:
-    id: 163684
-    title: What are some common quantitative data collection methods?
+    id: 163673
+    title: >-
+        What is ontology, and why is it important in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
+    url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
 related_article4:
-    id: 163684
-    title: What are some common quantitative data collection methods?
+    id: 163674
+    title: >-
+        How does positivism differ from social constructivism in terms of ontology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
+    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
 related_article5:
-    id: 163691
-    title: How does subjective knowledge contribute to qualitative research?
+    id: 163678
+    title: >-
+        How does inductive reasoning play a role in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
+    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
 ---
 
 &nbsp;

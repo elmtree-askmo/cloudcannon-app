@@ -2,8 +2,10 @@
 _schema: default
 id: 168137
 date: 2025-02-02
-title: How do gender-based interests influence career choices?
-article_title: How do gender-based interests influence career choices?
+title: >-
+    How do gender-based interests influence career choices?
+article_title: >-
+    How do gender-based interests influence career choices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-genderbased-interests-influence-career-choices.md
 url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
 score: -1.0
 related_article1:
-    id: 168121
-    title: How do cultural and methodological influences affect relational aggression?
+    id: 168132
+    title: >-
+        How do prenatal influences affect gender typing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
 related_article2:
-    id: 168132
-    title: How do prenatal influences affect gender typing?
+    id: 168122
+    title: >-
+        What is the gender gap in self-esteem, and how does it change with age?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
 related_article3:
-    id: 168132
-    title: How do prenatal influences affect gender typing?
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 related_article4:
-    id: 168136
-    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 related_article5:
-    id: 168120
-    title: What is relational aggression, and how does it differ from physical aggression?
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 ---
 
 &nbsp;

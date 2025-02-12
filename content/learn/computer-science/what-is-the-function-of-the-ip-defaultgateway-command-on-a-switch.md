@@ -2,8 +2,10 @@
 _schema: default
 id: 165679
 date: 2025-01-29
-title: What is the function of the 'ip default-gateway' command on a switch?
-article_title: What is the function of the 'ip default-gateway' command on a switch?
+title: >-
+    What is the function of the 'ip default-gateway' command on a switch?
+article_title: >-
+    What is the function of the 'ip default-gateway' command on a switch?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-the-ip-defaultgateway-command-on-a-switch.md
 url: /learn/computer-science/questions/what-is-the-function-of-the-ip-defaultgateway-command-on-a-switch
 score: -1.0
 related_article1:
-    id: 165672
-    title: What command is used to display a legal notification message on a router?
+    id: 165676
+    title: >-
+        What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-command-is-used-to-display-a-legal-notification-message-on-a-router
+    url: /learn/computer-science/questions/what-is-the-difference-between-an-ipv4-subnet-mask-and-an-ipv6-prefix-length
 related_article2:
-    id: 165669
-    title: How can you secure privileged EXEC mode on a router?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-secure-privileged-exec-mode-on-a-router
-related_article3:
     id: 165682
-    title: What is the purpose of the 'show interfaces' command in router verification?
+    title: >-
+        What is the purpose of the 'show interfaces' command in router verification?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-purpose-of-the-show-interfaces-command-in-router-verification
+related_article3:
+    id: 165677
+    title: >-
+        Which command is used to set the hostname of a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/which-command-is-used-to-set-the-hostname-of-a-router
 related_article4:
-    id: 165680
-    title: Which command provides a brief overview of the status of all interfaces on a router?
+    id: 165681
+    title: >-
+        How can you verify the routing table on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/which-command-provides-a-brief-overview-of-the-status-of-all-interfaces-on-a-router
+    url: /learn/computer-science/questions/how-can-you-verify-the-routing-table-on-a-router
 related_article5:
-    id: 165671
-    title: How do you encrypt plaintext passwords on a router?
+    id: 165676
+    title: >-
+        What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-encrypt-plaintext-passwords-on-a-router
+    url: /learn/computer-science/questions/what-is-the-difference-between-an-ipv4-subnet-mask-and-an-ipv6-prefix-length
 ---
 
 &nbsp;

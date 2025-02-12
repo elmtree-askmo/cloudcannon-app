@@ -2,8 +2,10 @@
 _schema: default
 id: 166503
 date: 2025-01-30
-title: What is the importance of randomized controlled trials in clinical research?
-article_title: What is the importance of randomized controlled trials in clinical research?
+title: >-
+    What is the importance of randomized controlled trials in clinical research?
+article_title: >-
+    What is the importance of randomized controlled trials in clinical research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-importance-of-randomized-controlled-trials-in-clinical-re
 url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
 score: -1.0
 related_article1:
-    id: 166497
-    title: What are biologic drugs and how are they developed using biotechnology?
+    id: 166504
+    title: >-
+        Why is medication reconciliation important during patient admission and discharge?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-biologic-drugs-and-how-are-they-developed-using-biotechnology
+    url: /learn/nursing/questions/why-is-medication-reconciliation-important-during-patient-admission-and-discharge
 related_article2:
-    id: 166499
-    title: What is the Controlled Substance Act and how does it classify narcotics?
+    id: 166511
+    title: >-
+        What strategies can be used to manage drug interactions effectively?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
 related_article3:
-    id: 166513
-    title: Why is patient education important in medication adherence and safety?
+    id: 166493
+    title: >-
+        What are the key components of pharmacokinetics?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
 related_article4:
-    id: 166513
-    title: Why is patient education important in medication adherence and safety?
+    id: 166510
+    title: >-
+        How do pharmacokinetic and pharmacodynamic interactions differ?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
+related_article5:
+    id: 166500
+    title: >-
+        What are the implications of the Controlled Substance Act for healthcare providers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
 ---
 
 &nbsp;

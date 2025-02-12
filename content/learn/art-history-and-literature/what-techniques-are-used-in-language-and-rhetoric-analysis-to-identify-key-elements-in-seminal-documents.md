@@ -2,8 +2,10 @@
 _schema: default
 id: 168585
 date: 2025-02-03
-title: What techniques are used in language and rhetoric analysis to identify key elements in seminal documents?
-article_title: What techniques are used in language and rhetoric analysis to identify key elements in seminal documents?
+title: >-
+    What techniques are used in language and rhetoric analysis to identify key elements in seminal documents?
+article_title: >-
+    What techniques are used in language and rhetoric analysis to identify key elements in seminal documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-are-used-in-language-and-rhetoric-analysis-to-identif
 url: /learn/art-history-and-literature/questions/what-techniques-are-used-in-language-and-rhetoric-analysis-to-identify-key-elements-in-seminal-documents
 score: 9.0
 related_article1:
-    id: 168573
-    title: What role does sentence structure play in influencing a reader's understanding of seminal documents?
+    id: 168581
+    title: >-
+        What role have seminal documents played in shaping civil rights movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/what-role-have-seminal-documents-played-in-shaping-civil-rights-movements
 related_article2:
-    id: 168575
-    title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+    id: 168577
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 related_article3:
-    id: 168582
-    title: How are American ideals represented in seminal texts, and how have they evolved over time?
+    id: 168580
+    title: >-
+        How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
+    url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
 related_article4:
-    id: 168576
-    title: How do emotional appeals (pathos) impact the effectiveness of seminal documents?
+    id: 168566
+    title: >-
+        How have seminal documents influenced American culture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 related_article5:
-    id: 168568
-    title: How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+    id: 168566
+    title: >-
+        How have seminal documents influenced American culture?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
+    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 ---
 
 &nbsp;

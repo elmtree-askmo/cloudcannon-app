@@ -2,8 +2,10 @@
 _schema: default
 id: 168747
 date: 2025-02-04
-title: How has the Japanese internment experience influenced modern civil rights movements?
-article_title: How has the Japanese internment experience influenced modern civil rights movements?
+title: >-
+    How has the Japanese internment experience influenced modern civil rights movements?
+article_title: >-
+    How has the Japanese internment experience influenced modern civil rights movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-the-japanese-internment-experience-influenced-modern-civil-ri
 url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
 score: 9.0
 related_article1:
-    id: 168739
-    title: What were the immediate impacts of forced relocation and internment on Japanese Americans?
+    id: 168749
+    title: >-
+        What were the government and military justifications for the internment of Japanese Americans during World War II?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
+    url: /learn/history-of-the-world/questions/what-were-the-government-and-military-justifications-for-the-internment-of-japanese-americans-during-world-war-ii
 related_article2:
-    id: 168744
-    title: What challenges did first-generation immigrants face in terms of cultural identity and assimilation?
+    id: 168737
+    title: >-
+        What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-did-firstgeneration-immigrants-face-in-terms-of-cultural-identity-and-assimilation
+    url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
 related_article3:
+    id: 168737
+    title: >-
+        What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
+related_article4:
+    id: 168746
+    title: >-
+        What role does oral history play in preserving personal testimonies of Japanese internment?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-does-oral-history-play-in-preserving-personal-testimonies-of-japanese-internment
+related_article5:
     id: 168738
-    title: How did Executive Order 9066 legally justify the internment of Japanese Americans?
+    title: >-
+        How did Executive Order 9066 legally justify the internment of Japanese Americans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-executive-order-9066-legally-justify-the-internment-of-japanese-americans
-related_article4:
-    id: 168745
-    title: How have historical narratives and family histories contributed to our understanding of Japanese internment?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-historical-narratives-and-family-histories-contributed-to-our-understanding-of-japanese-internment
-related_article5:
-    id: 168742
-    title: How did anti-Japanese sentiment during World War II compare to the treatment of other minority groups?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-antijapanese-sentiment-during-world-war-ii-compare-to-the-treatment-of-other-minority-groups
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160334
 date: 2025-01-24
-title: What strategies can help manage time effectively during exams?
-article_title: What strategies can help manage time effectively during exams?
+title: >-
+    What strategies can help manage time effectively during exams?
+article_title: >-
+    What strategies can help manage time effectively during exams?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-strategies-can-help-manage-time-eff
 score: -1.0
 related_article1:
     id: 160299
-    title: What is the difference between skimming and scanning in reading strategies?
+    title: >-
+        What is the difference between skimming and scanning in reading strategies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-skimming-and-scanning-in-reading-strategies
 related_article2:
-    id: 160297
-    title: How can you balance academic and personal life when developing a timetable?
+    id: 160338
+    title: >-
+        What should you do to review your exam performance effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-balance-academic-and-personal-life-when-developing-a-timetable
+    url: /learn/education-studies/questions/what-should-you-do-to-review-your-exam-performance-effectively
 related_article3:
-    id: 160319
-    title: How can self-reflection techniques enhance metacognitive skills?
+    id: 160299
+    title: >-
+        What is the difference between skimming and scanning in reading strategies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-selfreflection-techniques-enhance-metacognitive-skills
+    url: /learn/education-studies/questions/what-is-the-difference-between-skimming-and-scanning-in-reading-strategies
 related_article4:
+    id: 160317
+    title: >-
+        What are the components of metacognition?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-components-of-metacognition
+related_article5:
     id: 160324
-    title: What are the benefits of collaborative learning in study groups?
+    title: >-
+        What are the benefits of collaborative learning in study groups?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-collaborative-learning-in-study-groups
-related_article5:
-    id: 160297
-    title: How can you balance academic and personal life when developing a timetable?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-balance-academic-and-personal-life-when-developing-a-timetable
 ---
 
 &nbsp;

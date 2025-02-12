@@ -2,8 +2,10 @@
 _schema: default
 id: 160550
 date: 2025-01-24
-title: What are the key components of urbanization that drive city development and infrastructure changes?
-article_title: What are the key components of urbanization that drive city development and infrastructure changes?
+title: >-
+    What are the key components of urbanization that drive city development and infrastructure changes?
+article_title: >-
+    What are the key components of urbanization that drive city development and infrastructure changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-urbanization-that-drive-city-developme
 url: /learn/sociology/questions/what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes
 score: -1.0
 related_article1:
-    id: 160633
-    title: What role do community dynamics and social inequality play in shaping social structures?
+    id: 160214
+    title: >-
+        What are the physical and human systems that define geographic settings in regional disparities?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-define-geographic-settings-in-regional-disparities
 related_article2:
-    id: 160097
-    title: What is the role of political geography in understanding borders and boundaries within territoriality?
+    id: 160629
+    title: >-
+        How has the COVID-19 pandemic influenced global political events and vaccine nationalism?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-role-of-political-geography-in-understanding-borders-and-boundaries-within-territoriality
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
 related_article3:
-    id: 160512
-    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    id: 160225
+    title: >-
+        Describe the methodologies used in qualitative and quantitative research for research skills.
     subject: Sociology
-    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
 related_article4:
-    id: 160492
-    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    id: 160642
+    title: >-
+        What is the significance of international cooperation and diplomatic relations in political alliances?
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+    url: /learn/sociology/questions/what-is-the-significance-of-international-cooperation-and-diplomatic-relations-in-political-alliances
 related_article5:
-    id: 160088
-    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    id: 160086
+    title: >-
+        How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 ---
 
 &nbsp;

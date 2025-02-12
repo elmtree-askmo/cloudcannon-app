@@ -2,8 +2,10 @@
 _schema: default
 id: 165745
 date: 2025-01-29
-title: What are the components of the structure of a Global Unicast Address (GUA)?
-article_title: What are the components of the structure of a Global Unicast Address (GUA)?
+title: >-
+    What are the components of the structure of a Global Unicast Address (GUA)?
+article_title: >-
+    What are the components of the structure of a Global Unicast Address (GUA)?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-components-of-the-structure-of-a-global-unicast-address-
 url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
 score: -1.0
 related_article1:
-    id: 165747
-    title: How is a Link-Local Address (LLA) automatically created in IPv6?
+    id: 165750
+    title: >-
+        What are solicited-node multicast addresses used for in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
+    url: /learn/computer-science/questions/what-are-solicitednode-multicast-addresses-used-for-in-ipv6
 related_article2:
-    id: 165742
-    title: Differentiate between unicast, multicast, and anycast IPv6 address types.
-    subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
-related_article3:
-    id: 165751
-    title: Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
-related_article4:
     id: 165739
-    title: Explain the concept of dual stack in IPv4 and IPv6 coexistence.
+    title: >-
+        Explain the concept of dual stack in IPv4 and IPv6 coexistence.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
-related_article5:
-    id: 165743
-    title: What is the recommended prefix length for IPv6 addresses and why?
+related_article3:
+    id: 165756
+    title: >-
+        Describe the encapsulation process in IPv6 tunneling.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
+    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
+related_article4:
+    id: 165751
+    title: >-
+        Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
+related_article5:
+    id: 165740
+    title: >-
+        How is an IPv6 address represented in terms of length and notation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168652
 date: 2025-02-03
-title: How do interior designers collaborate with architects and engineers in the design and construction team?
-article_title: How do interior designers collaborate with architects and engineers in the design and construction team?
+title: >-
+    How do interior designers collaborate with architects and engineers in the design and construction team?
+article_title: >-
+    How do interior designers collaborate with architects and engineers in the design and construction team?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/others/questions/how-do-interior-designers-collaborate-with-architec
 score: -1.0
 related_article1:
     id: 168661
-    title: What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
+    title: >-
+        What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
     subject: Others
     url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
 related_article2:
     id: 168660
-    title: What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
+    title: >-
+        What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
     subject: Others
     url: /learn/others/questions/what-are-the-essential-elements-of-emergency-egress-planning-particularly-regarding-corridors-and-aisles
 related_article3:
-    id: 168658
-    title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
+    id: 168651
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
     subject: Others
-    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
+    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
 related_article4:
-    id: 168662
-    title: How do qualified interior designers contribute to creating safe and functional environments?
+    id: 168661
+    title: >-
+        What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
     subject: Others
-    url: /learn/others/questions/how-do-qualified-interior-designers-contribute-to-creating-safe-and-functional-environments
+    url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
 related_article5:
-    id: 168659
-    title: What materials are considered appropriate for walls and ceilings to ensure fire safety?
+    id: 168651
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
     subject: Others
-    url: /learn/others/questions/what-materials-are-considered-appropriate-for-walls-and-ceilings-to-ensure-fire-safety
+    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
 ---
 
 &nbsp;

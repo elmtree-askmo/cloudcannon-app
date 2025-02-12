@@ -2,8 +2,10 @@
 _schema: default
 id: 164040
 date: 2025-01-28
-title: How do psychologists and psychiatrists function as forensic expert witnesses in the legal system?
-article_title: How do psychologists and psychiatrists function as forensic expert witnesses in the legal system?
+title: >-
+    How do psychologists and psychiatrists function as forensic expert witnesses in the legal system?
+article_title: >-
+    How do psychologists and psychiatrists function as forensic expert witnesses in the legal system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-psychologists-and-psychiatrists-function-as-forensic-expert-wi
 url: /learn/psychology/questions/how-do-psychologists-and-psychiatrists-function-as-forensic-expert-witnesses-in-the-legal-system
 score: -1.0
 related_article1:
-    id: 164041
-    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    id: 164050
+    title: >-
+        How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 related_article2:
     id: 164041
-    title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+    title: >-
+        What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
 related_article3:
-    id: 164047
-    title: What is the prevalence of traumatic brain injury among juvenile delinquents, and how does it affect cognitive functions?
+    id: 164052
+    title: >-
+        How does the multidisciplinary team approach function in the forensic assessment process at the Pieter Baan Center?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-prevalence-of-traumatic-brain-injury-among-juvenile-delinquents-and-how-does-it-affect-cognitive-functions
+    url: /learn/psychology/questions/how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center
 related_article4:
+    id: 164051
+    title: >-
+        What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system
+related_article5:
     id: 164044
-    title: How does the age-crime curve affect developmental considerations in sentencing?
+    title: >-
+        How does the age-crime curve affect developmental considerations in sentencing?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
-related_article5:
-    id: 164050
-    title: How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 ---
 
 &nbsp;

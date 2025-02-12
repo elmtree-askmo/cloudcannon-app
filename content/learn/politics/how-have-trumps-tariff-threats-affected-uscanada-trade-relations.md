@@ -2,8 +2,10 @@
 _schema: default
 id: 165629
 date: 2025-01-29
-title: How have Trump's tariff threats affected US-Canada trade relations?
-article_title: How have Trump's tariff threats affected US-Canada trade relations?
+title: >-
+    How have Trump's tariff threats affected US-Canada trade relations?
+article_title: >-
+    How have Trump's tariff threats affected US-Canada trade relations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-trumps-tariff-threats-affected-uscanada-trade-relations.md
 url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
 score: -1.0
 related_article1:
+    id: 165628
+    title: >-
+        What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
+related_article2:
+    id: 165619
+    title: >-
+        What roles do Members of Parliament (MPs) play in rural versus urban areas in Canadian politics?
+    subject: Politics
+    url: /learn/politics/questions/what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics
+related_article3:
+    id: 165624
+    title: >-
+        Why is economic stability considered a priority during elections?
+    subject: Politics
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
+related_article4:
+    id: 165628
+    title: >-
+        What strategies are used in election campaigns to balance humanitarian and economic needs in immigration policy?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-used-in-election-campaigns-to-balance-humanitarian-and-economic-needs-in-immigration-policy
+related_article5:
     id: 165631
-    title: What are the political calculations and risks involved in timing an election call?
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
     subject: Politics
     url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
-related_article2:
-    id: 165636
-    title: What strategies are effective for political communication and public engagement?
-    subject: Politics
-    url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
-related_article3:
-    id: 165637
-    title: What lessons can be learned from past elections in terms of political strategy?
-    subject: Politics
-    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
-related_article4:
-    id: 165633
-    title: What measures can be taken to ensure fairness and public trust in electoral processes?
-    subject: Politics
-    url: /learn/politics/questions/what-measures-can-be-taken-to-ensure-fairness-and-public-trust-in-electoral-processes
-related_article5:
-    id: 165627
-    title: How does immigration policy impact the housing and employment sectors in Canada?
-    subject: Politics
-    url: /learn/politics/questions/how-does-immigration-policy-impact-the-housing-and-employment-sectors-in-canada
 ---
 
 &nbsp;

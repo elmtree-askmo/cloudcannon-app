@@ -2,8 +2,10 @@
 _schema: default
 id: 161164
 date: 2025-01-24
-title: What is the significance of graph representation in graph algorithms?
-article_title: What is the significance of graph representation in graph algorithms?
+title: >-
+    What is the significance of graph representation in graph algorithms?
+article_title: >-
+    What is the significance of graph representation in graph algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-is-the-significance-of-graph-represe
 score: -1.0
 related_article1:
     id: 160940
-    title: What is the purpose of the Discrete Fourier Transform in signal processing?
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article2:
-    id: 161155
-    title: Why are data structures crucial in algorithm design?
+    id: 160935
+    title: >-
+        Explain the concept of dynamic programming and provide an example of its application.
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
+    url: /learn/computer-science/questions/explain-the-concept-of-dynamic-programming-and-provide-an-example-of-its-application
 related_article3:
-    id: 160938
-    title: What are the characteristics of online algorithms and how do they differ from traditional algorithms?
+    id: 161067
+    title: >-
+        How does the Fast Fourier Transform improve upon the Discrete Fourier Transform?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-algorithms-and-how-do-they-differ-from-traditional-algorithms
+    url: /learn/computer-science/questions/how-does-the-fast-fourier-transform-improve-upon-the-discrete-fourier-transform
 related_article4:
-    id: 161159
-    title: How do multicore processors influence parallel computing and algorithm design?
+    id: 160928
+    title: >-
+        How can you determine if an algorithm is correct or incorrect?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallel-computing-and-algorithm-design
+    url: /learn/computer-science/questions/how-can-you-determine-if-an-algorithm-is-correct-or-incorrect
 related_article5:
-    id: 161055
-    title: What are some applications of algorithms in biological fields?
+    id: 161057
+    title: >-
+        How does time complexity differ from space complexity in measuring algorithm efficiency?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-applications-of-algorithms-in-biological-fields
+    url: /learn/computer-science/questions/how-does-time-complexity-differ-from-space-complexity-in-measuring-algorithm-efficiency
 ---
 
 &nbsp;

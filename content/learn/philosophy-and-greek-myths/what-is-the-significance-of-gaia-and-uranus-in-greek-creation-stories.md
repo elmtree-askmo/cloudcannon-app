@@ -2,8 +2,10 @@
 _schema: default
 id: 166540
 date: 2025-01-30
-title: What is the significance of Gaia and Uranus in Greek creation stories?
-article_title: What is the significance of Gaia and Uranus in Greek creation stories?
+title: >-
+    What is the significance of Gaia and Uranus in Greek creation stories?
+article_title: >-
+    What is the significance of Gaia and Uranus in Greek creation stories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-gaia-and-uranus-in-greek-creation-stories
 url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-gaia-and-uranus-in-greek-creation-stories
 score: -1.0
 related_article1:
-    id: 166537
-    title: How does Achilles' legacy influence Greek mythology and culture?
+    id: 166542
+    title: >-
+        What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-achilles-legacy-influence-greek-mythology-and-culture
+    url: /learn/philosophy-and-greek-myths/questions/what-role-does-tiresias-play-in-greek-mythology-particularly-concerning-prophecy-and-fate
 related_article2:
-    id: 166538
-    title: What role do satyrs play in Greek mythology, and what do they symbolize?
+    id: 166536
+    title: >-
+        What are the key achievements and challenges faced by Hercules in Greek mythology?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-do-satyrs-play-in-greek-mythology-and-what-do-they-symbolize
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-achievements-and-challenges-faced-by-hercules-in-greek-mythology
 related_article3:
-    id: 166546
-    title: What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
+    id: 166536
+    title: >-
+        What are the key achievements and challenges faced by Hercules in Greek mythology?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how-do-they-influence-relationships-among-gods
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-achievements-and-challenges-faced-by-hercules-in-greek-mythology
 related_article4:
     id: 166534
-    title: What are the main attributes and symbols associated with Zeus in Greek mythology?
+    title: >-
+        What are the main attributes and symbols associated with Zeus in Greek mythology?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/what-are-the-main-attributes-and-symbols-associated-with-zeus-in-greek-mythology
 related_article5:
-    id: 166543
-    title: How is humor and irony depicted in the relationship between Zeus and Hera?
+    id: 166536
+    title: >-
+        What are the key achievements and challenges faced by Hercules in Greek mythology?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-key-achievements-and-challenges-faced-by-hercules-in-greek-mythology
 ---
 
 &nbsp;

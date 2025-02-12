@@ -2,8 +2,10 @@
 _schema: default
 id: 167660
 date: 2025-01-31
-title: What are the key contributions of Hesiod and Ovid to ancient Greek literature?
-article_title: What are the key contributions of Hesiod and Ovid to ancient Greek literature?
+title: >-
+    What are the key contributions of Hesiod and Ovid to ancient Greek literature?
+article_title: >-
+    What are the key contributions of Hesiod and Ovid to ancient Greek literature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-contributions-of-hesiod-and-ovid-to-ancient-greek-li
 url: /learn/education-studies/questions/what-are-the-key-contributions-of-hesiod-and-ovid-to-ancient-greek-literature
 score: -1.0
 related_article1:
-    id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
+    id: 167657
+    title: >-
+        How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
+    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
 related_article2:
-    id: 167654
-    title: What is structuralism, and how is it applied to the analysis of Greek myths?
+    id: 167663
+    title: >-
+        How do myths function socially and culturally in ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-structuralism-and-how-is-it-applied-to-the-analysis-of-greek-myths
+    url: /learn/education-studies/questions/how-do-myths-function-socially-and-culturally-in-ancient-societies
 related_article3:
-    id: 167651
-    title: What are the main themes of Hesiod's Theogony?
+    id: 167652
+    title: >-
+        How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-themes-of-hesiods-theogony
+    url: /learn/education-studies/questions/how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-creation-myths
 related_article4:
-    id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
+    id: 167661
+    title: >-
+        How have Greek myths influenced modern art and literature?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
+    url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
 related_article5:
-    id: 167649
-    title: What is the significance of chaos in Greek creation myths?
+    id: 167657
+    title: >-
+        How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
+    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
 ---
 
 &nbsp;

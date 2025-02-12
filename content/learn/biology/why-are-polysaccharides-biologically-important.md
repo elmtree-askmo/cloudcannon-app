@@ -2,8 +2,10 @@
 _schema: default
 id: 167024
 date: 2025-01-31
-title: Why are polysaccharides biologically important?
-article_title: Why are polysaccharides biologically important?
+title: >-
+    Why are polysaccharides biologically important?
+article_title: >-
+    Why are polysaccharides biologically important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-polysaccharides-biologically-important.md
 url: /learn/biology/questions/why-are-polysaccharides-biologically-important
 score: -1.0
 related_article1:
-    id: 167023
-    title: What are the structural variations found in polysaccharides?
+    id: 167031
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-variations-found-in-polysaccharides
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
 related_article2:
-    id: 167029
-    title: How do carbohydrates participate in cellular communication?
+    id: 167025
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
     subject: Biology
-    url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 related_article3:
-    id: 167016
-    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    id: 167025
+    title: >-
+        How does glycogen function as an energy storage molecule in animals?
     subject: Biology
-    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 related_article4:
-    id: 167026
-    title: What role does starch play in plant energy storage?
+    id: 167028
+    title: >-
+        What is the function of chitin in fungal cell walls and arthropod exoskeletons?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 related_article5:
-    id: 167016
-    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    id: 167028
+    title: >-
+        What is the function of chitin in fungal cell walls and arthropod exoskeletons?
     subject: Biology
-    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 ---
 
 &nbsp;

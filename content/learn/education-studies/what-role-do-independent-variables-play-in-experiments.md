@@ -2,8 +2,10 @@
 _schema: default
 id: 165097
 date: 2025-01-28
-title: What role do independent variables play in experiments?
-article_title: What role do independent variables play in experiments?
+title: >-
+    What role do independent variables play in experiments?
+article_title: >-
+    What role do independent variables play in experiments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-independent-variables-play-in-experiments.md
 url: /learn/education-studies/questions/what-role-do-independent-variables-play-in-experiments
 score: -1.0
 related_article1:
-    id: 165112
-    title: How can participant bias be mitigated in research studies?
+    id: 165111
+    title: >-
+        What is the difference between continuous and categorical variables?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participant-bias-be-mitigated-in-research-studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 related_article2:
-    id: 165100
-    title: Provide examples of ordinal measurement types and their characteristics.
+    id: 165117
+    title: >-
+        What is the importance of pilot testing in questionnaire design?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
+    url: /learn/education-studies/questions/what-is-the-importance-of-pilot-testing-in-questionnaire-design
 related_article3:
-    id: 165096
-    title: Describe the different types of measurement scales used for dependent variables.
+    id: 165114
+    title: >-
+        Why is reliability important in research and what are the types of reliability?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-different-types-of-measurement-scales-used-for-dependent-variables
+    url: /learn/education-studies/questions/why-is-reliability-important-in-research-and-what-are-the-types-of-reliability
 related_article4:
-    id: 165119
-    title: How does color perception influence consumer behavior in marketing?
+    id: 165104
+    title: >-
+        What are the differences between open-ended and closed-ended survey questions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-color-perception-influence-consumer-behavior-in-marketing
+    url: /learn/education-studies/questions/what-are-the-differences-between-openended-and-closedended-survey-questions
 related_article5:
-    id: 165096
-    title: Describe the different types of measurement scales used for dependent variables.
+    id: 165118
+    title: >-
+        What are the challenges in data interpretation and how can bias be overcome?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-different-types-of-measurement-scales-used-for-dependent-variables
+    url: /learn/education-studies/questions/what-are-the-challenges-in-data-interpretation-and-how-can-bias-be-overcome
 ---
 
 &nbsp;

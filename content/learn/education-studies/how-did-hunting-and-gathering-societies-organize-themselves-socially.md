@@ -2,8 +2,10 @@
 _schema: default
 id: 168392
 date: 2025-02-03
-title: How did hunting and gathering societies organize themselves socially?
-article_title: How did hunting and gathering societies organize themselves socially?
+title: >-
+    How did hunting and gathering societies organize themselves socially?
+article_title: >-
+    How did hunting and gathering societies organize themselves socially?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-hunting-and-gathering-societies-organize-themselves-socially.
 url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
 score: -1.0
 related_article1:
-    id: 168384
-    title: What were the major impacts of the development and spread of agriculture on societies?
+    id: 168385
+    title: >-
+        What are the defining characteristics of a civilization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
 related_article2:
-    id: 168379
-    title: What are the key differences between stone tools and composite tools in tool technology?
+    id: 168374
+    title: >-
+        What is the significance of prehistory in understanding human history?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
+    url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
 related_article3:
-    id: 168377
-    title: What are the main techniques used in archaeology to uncover historical evidence?
+    id: 168385
+    title: >-
+        What are the defining characteristics of a civilization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-techniques-used-in-archaeology-to-uncover-historical-evidence
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
 related_article4:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
+    id: 168374
+    title: >-
+        What is the significance of prehistory in understanding human history?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
+    url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
 related_article5:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
+    id: 168378
+    title: >-
+        How do cultural and physical anthropology differ in their study of human societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
+    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
 ---
 
 &nbsp;

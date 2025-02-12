@@ -2,8 +2,10 @@
 _schema: default
 id: 161143
 date: 2025-01-24
-title: How does the concept of cardinality apply to comparing infinite sets?
-article_title: How does the concept of cardinality apply to comparing infinite sets?
+title: >-
+    How does the concept of cardinality apply to comparing infinite sets?
+article_title: >-
+    How does the concept of cardinality apply to comparing infinite sets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets.
 url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
 score: -1.0
 related_article1:
-    id: 161137
-    title: What are the characteristics of intractable problems in complexity theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-intractable-problems-in-complexity-theory
-related_article2:
     id: 160805
-    title: How is proof by contradiction used to demonstrate unsolvable problems?
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
+related_article2:
+    id: 160813
+    title: >-
+        What techniques are used to prove the irrationality of numbers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-techniques-are-used-to-prove-the-irrationality-of-numbers
 related_article3:
-    id: 161130
-    title: What is the relationship between data structures and algorithms in terms of data representation?
+    id: 161132
+    title: >-
+        What is the halting problem and why is it significant in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-algorithms-in-terms-of-data-representation
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 related_article4:
-    id: 161279
-    title: What distinguishes rational numbers from irrational numbers?
+    id: 160802
+    title: >-
+        How do data structures influence the efficiency of algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
+    url: /learn/computer-science/questions/how-do-data-structures-influence-the-efficiency-of-algorithms
 related_article5:
-    id: 160819
-    title: How do static and dynamic analysis techniques differ in algorithm development?
+    id: 161283
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 ---
 
 &nbsp;

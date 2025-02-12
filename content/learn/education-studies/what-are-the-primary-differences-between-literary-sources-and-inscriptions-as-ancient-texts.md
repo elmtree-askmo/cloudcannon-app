@@ -2,8 +2,10 @@
 _schema: default
 id: 166003
 date: 2025-01-29
-title: What are the primary differences between literary sources and inscriptions as ancient texts?
-article_title: What are the primary differences between literary sources and inscriptions as ancient texts?
+title: >-
+    What are the primary differences between literary sources and inscriptions as ancient texts?
+article_title: >-
+    What are the primary differences between literary sources and inscriptions as ancient texts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-primary-differences-between-literary-sources-and-inscrip
 url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
 score: -1.0
 related_article1:
-    id: 166004
-    title: How does vase painting contribute to our understanding of ancient iconography?
+    id: 166013
+    title: >-
+        Who are some of the key gods, goddesses, heroes, and monsters in mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vase-painting-contribute-to-our-understanding-of-ancient-iconography
+    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
 related_article2:
-    id: 166001
-    title: What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
+    id: 166016
+    title: >-
+        What were the key factors in the expansion and influence of the Roman Empire?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
+    url: /learn/education-studies/questions/what-were-the-key-factors-in-the-expansion-and-influence-of-the-roman-empire
 related_article3:
-    id: 166008
-    title: How do myths explain natural phenomena and serve as etiological narratives?
+    id: 166009
+    title: >-
+        In what ways did the Renaissance influence the reception of classical myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-myths-explain-natural-phenomena-and-serve-as-etiological-narratives
+    url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
 related_article4:
-    id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    id: 166009
+    title: >-
+        In what ways did the Renaissance influence the reception of classical myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
-related_article5:
-    id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
+    url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166954
 date: 2025-01-31
-title: What are the characteristics of nonpolar aliphatic R-groups?
-article_title: What are the characteristics of nonpolar aliphatic R-groups?
+title: >-
+    What are the characteristics of nonpolar aliphatic R-groups?
+article_title: >-
+    What are the characteristics of nonpolar aliphatic R-groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-nonpolar-aliphatic-rgroups.md
 url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
 score: -1.0
 related_article1:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166964
+    title: >-
+        What are the causes and effects of protein denaturation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
 related_article2:
-    id: 166953
-    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    id: 166959
+    title: >-
+        How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
 related_article3:
-    id: 166966
-    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    id: 166956
+    title: >-
+        What is the role of dehydration synthesis in peptide bond formation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
 related_article4:
-    id: 166966
-    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    id: 166955
+    title: >-
+        How do positively charged R-groups differ from negatively charged R-groups?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
+    url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
 related_article5:
-    id: 166960
-    title: What types of chemical interactions are involved in the tertiary structure of proteins?
+    id: 166964
+    title: >-
+        What are the causes and effects of protein denaturation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
 ---
 
 &nbsp;

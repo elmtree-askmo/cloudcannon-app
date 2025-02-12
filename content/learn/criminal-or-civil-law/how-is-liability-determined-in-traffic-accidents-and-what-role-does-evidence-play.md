@@ -2,8 +2,10 @@
 _schema: default
 id: 162884
 date: 2025-01-25
-title: How is liability determined in traffic accidents, and what role does evidence play?
-article_title: How is liability determined in traffic accidents, and what role does evidence play?
+title: >-
+    How is liability determined in traffic accidents, and what role does evidence play?
+article_title: >-
+    How is liability determined in traffic accidents, and what role does evidence play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-liability-determined-in-traffic-accidents-and-what-role-does-e
 url: /learn/criminal-or-civil-law/questions/how-is-liability-determined-in-traffic-accidents-and-what-role-does-evidence-play
 score: -1.0
 related_article1:
-    id: 162870
-    title: How is recklessness legally defined in traffic law, and what are its consequences?
+    id: 162856
+    title: >-
+        What is objective liability and how does it apply in traffic law?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-recklessness-legally-defined-in-traffic-law-and-what-are-its-consequences
+    url: /learn/criminal-or-civil-law/questions/what-is-objective-liability-and-how-does-it-apply-in-traffic-law
 related_article2:
+    id: 162865
+    title: >-
+        What challenges do new drivers and immigrants face regarding moral blameworthiness in driving?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-challenges-do-new-drivers-and-immigrants-face-regarding-moral-blameworthiness-in-driving
+related_article3:
     id: 162883
-    title: What are the fundamental principles of criminal law, and how do they apply to traffic law?
+    title: >-
+        What are the fundamental principles of criminal law, and how do they apply to traffic law?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-fundamental-principles-of-criminal-law-and-how-do-they-apply-to-traffic-law
-related_article3:
-    id: 162858
-    title: How does case law influence the determination of reasonable behavior in traffic cases?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-case-law-influence-the-determination-of-reasonable-behavior-in-traffic-cases
 related_article4:
-    id: 162877
-    title: How do cultural and legal differences impact international driving norms?
+    id: 162874
+    title: >-
+        What distinguishes civil liability from criminal liability in traffic accidents?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-cultural-and-legal-differences-impact-international-driving-norms
+    url: /learn/criminal-or-civil-law/questions/what-distinguishes-civil-liability-from-criminal-liability-in-traffic-accidents
 related_article5:
-    id: 162867
-    title: Why is compliance with traffic regulations important, and what are common violations?
+    id: 162882
+    title: >-
+        How are legal standards of care applied in traffic law?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
+    url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
 ---
 
 &nbsp;

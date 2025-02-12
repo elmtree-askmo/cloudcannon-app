@@ -2,8 +2,10 @@
 _schema: default
 id: 166191
 date: 2025-01-29
-title: List examples of organelles found in eukaryotic cells and their functions.
-article_title: List examples of organelles found in eukaryotic cells and their functions.
+title: >-
+    List examples of organelles found in eukaryotic cells and their functions.
+article_title: >-
+    List examples of organelles found in eukaryotic cells and their functions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: list-examples-of-organelles-found-in-eukaryotic-cells-and-their-funct
 url: /learn/biotechnology/questions/list-examples-of-organelles-found-in-eukaryotic-cells-and-their-functions
 score: -1.0
 related_article1:
-    id: 166181
-    title: Why is biodiversity important in organizing species and understanding evolutionary history?
+    id: 166194
+    title: >-
+        How do the levels of biological organization progress from molecular to ecological levels?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-biodiversity-important-in-organizing-species-and-understanding-evolutionary-history
+    url: /learn/biotechnology/questions/how-do-the-levels-of-biological-organization-progress-from-molecular-to-ecological-levels
 related_article2:
-    id: 166187
-    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    id: 166196
+    title: >-
+        What is the importance of observations in the scientific method?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
+    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
 related_article3:
     id: 166174
-    title: What are the key structural components of living cells that contain DNA?
+    title: >-
+        What are the key structural components of living cells that contain DNA?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
 related_article4:
-    id: 166175
-    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    id: 166197
+    title: >-
+        How do control and experimental groups differ in scientific experimentation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+related_article5:
+    id: 166197
+    title: >-
+        How do control and experimental groups differ in scientific experimentation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
 ---
 
 &nbsp;

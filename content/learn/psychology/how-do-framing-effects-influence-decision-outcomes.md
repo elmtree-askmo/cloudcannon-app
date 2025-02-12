@@ -2,8 +2,10 @@
 _schema: default
 id: 168889
 date: 2025-02-04
-title: How do framing effects influence decision outcomes?
-article_title: How do framing effects influence decision outcomes?
+title: >-
+    How do framing effects influence decision outcomes?
+article_title: >-
+    How do framing effects influence decision outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-framing-effects-influence-decision-outcomes.md
 url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
 score: -1.0
 related_article1:
-    id: 168891
-    title: How is experienced well-being measured using the Day Reconstruction Method?
+    id: 168885
+    title: >-
+        What role does overconfidence play in financial forecasting?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 related_article2:
-    id: 168881
-    title: Why are statistical predictions often more reliable than clinical predictions?
+    id: 168886
+    title: >-
+        Describe the premortem strategy and its purpose in decision-making.
     subject: Psychology
-    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
 related_article3:
-    id: 168884
-    title: How does reference class forecasting help mitigate the planning fallacy?
+    id: 168880
+    title: >-
+        Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
 related_article4:
-    id: 168887
-    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    id: 168888
+    title: >-
+        What is the disposition effect and how does it affect investment decisions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
 related_article5:
-    id: 168882
-    title: Under what conditions can expert intuition be considered trustworthy?
+    id: 168878
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
-    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 ---
 
 &nbsp;

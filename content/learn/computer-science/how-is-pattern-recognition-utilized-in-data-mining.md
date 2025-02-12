@@ -2,8 +2,10 @@
 _schema: default
 id: 161039
 date: 2025-01-24
-title: How is pattern recognition utilized in data mining?
-article_title: How is pattern recognition utilized in data mining?
+title: >-
+    How is pattern recognition utilized in data mining?
+article_title: >-
+    How is pattern recognition utilized in data mining?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-pattern-recognition-utilized-in-data-mining.md
 url: /learn/computer-science/questions/how-is-pattern-recognition-utilized-in-data-mining
 score: -1.0
 related_article1:
-    id: 161048
-    title: What is the significance of cache design in computer architecture?
+    id: 160906
+    title: >-
+        What is the role of process management in operating systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cache-design-in-computer-architecture
+    url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
 related_article2:
-    id: 160723
-    title: How is cryptography used to ensure information security?
+    id: 160722
+    title: >-
+        What is the difference between discrete event simulation and continuous simulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
 related_article3:
-    id: 160730
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    id: 161036
+    title: >-
+        What are the main stages of the software engineering design process?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+    url: /learn/computer-science/questions/what-are-the-main-stages-of-the-software-engineering-design-process
 related_article4:
-    id: 160719
-    title: How is image processing utilized in computer graphics?
+    id: 161035
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 related_article5:
-    id: 161048
-    title: What is the significance of cache design in computer architecture?
+    id: 161050
+    title: >-
+        How do mechanical and control systems contribute to robot design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cache-design-in-computer-architecture
+    url: /learn/computer-science/questions/how-do-mechanical-and-control-systems-contribute-to-robot-design
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165367
 date: 2025-01-29
-title: What are the key differences between Endorf pipets and other popular pipet brands?
-article_title: What are the key differences between Endorf pipets and other popular pipet brands?
+title: >-
+    What are the key differences between Endorf pipets and other popular pipet brands?
+article_title: >-
+    What are the key differences between Endorf pipets and other popular pipet brands?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-endorf-pipets-and-other-popular-
 url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
 score: -1.0
 related_article1:
-    id: 165378
-    title: What safety precautions should be taken when disposing of pipet tips?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
-related_article2:
-    id: 165372
-    title: Why is regular calibration important for pipet accuracy and maintenance?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
-related_article3:
-    id: 165383
-    title: What steps should be taken to identify and repair pipet malfunctions?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
-related_article4:
     id: 165369
-    title: How does selecting the correct pipet affect volume measurement accuracy?
+    title: >-
+        How does selecting the correct pipet affect volume measurement accuracy?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
-related_article5:
-    id: 165372
-    title: Why is regular calibration important for pipet accuracy and maintenance?
+related_article2:
+    id: 165371
+    title: >-
+        Describe the process of adjusting the volume using the dial on a pipet.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
+    url: /learn/biotechnology/questions/describe-the-process-of-adjusting-the-volume-using-the-dial-on-a-pipet
+related_article3:
+    id: 165382
+    title: >-
+        How should pipets be stored to maintain their functionality?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
+related_article4:
+    id: 165382
+    title: >-
+        How should pipets be stored to maintain their functionality?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
+related_article5:
+    id: 165369
+    title: >-
+        How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
 ---
 
 &nbsp;

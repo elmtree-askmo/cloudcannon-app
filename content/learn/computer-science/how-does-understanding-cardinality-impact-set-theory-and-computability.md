@@ -2,8 +2,10 @@
 _schema: default
 id: 160968
 date: 2025-01-24
-title: How does understanding cardinality impact set theory and computability?
-article_title: How does understanding cardinality impact set theory and computability?
+title: >-
+    How does understanding cardinality impact set theory and computability?
+article_title: >-
+    How does understanding cardinality impact set theory and computability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-understanding-cardinality-impact-set-theory-and-computabilit
 url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
 score: -1.0
 related_article1:
-    id: 161103
-    title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
-related_article2:
-    id: 161133
-    title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
-related_article3:
     id: 161132
-    title: What is the halting problem and why is it significant in computability theory?
+    title: >-
+        What is the halting problem and why is it significant in computability theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+related_article2:
+    id: 161098
+    title: >-
+        What is the halting problem, and why is it significant in computability theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+related_article3:
+    id: 161128
+    title: >-
+        Explain the role of abstraction in simplifying complex computing problems.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-role-of-abstraction-in-simplifying-complex-computing-problems
 related_article4:
-    id: 160964
-    title: What challenges are associated with solving the traveling salesman problem?
+    id: 161099
+    title: >-
+        What are the mathematical implications of infinite sets in set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
+    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
 related_article5:
-    id: 161103
-    title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
+    id: 161091
+    title: >-
+        What role does abstraction play in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
+    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-algorithm-design
 ---
 
 &nbsp;

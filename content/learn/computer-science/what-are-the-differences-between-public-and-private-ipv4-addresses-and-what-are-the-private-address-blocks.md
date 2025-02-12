@@ -2,8 +2,10 @@
 _schema: default
 id: 165695
 date: 2025-01-29
-title: What are the differences between public and private IPv4 addresses, and what are the private address blocks?
-article_title: What are the differences between public and private IPv4 addresses, and what are the private address blocks?
+title: >-
+    What are the differences between public and private IPv4 addresses, and what are the private address blocks?
+article_title: >-
+    What are the differences between public and private IPv4 addresses, and what are the private address blocks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-public-and-private-ipv4-addresses-an
 url: /learn/computer-science/questions/what-are-the-differences-between-public-and-private-ipv4-addresses-and-what-are-the-private-address-blocks
 score: -1.0
 related_article1:
-    id: 165691
-    title: Why is the subnet mask important in determining the number of hosts in a network?
+    id: 165686
+    title: >-
+        How many bits are there in an IPv4 address, and what is the decimal range of each octet?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-subnet-mask-important-in-determining-the-number-of-hosts-in-a-network
+    url: /learn/computer-science/questions/how-many-bits-are-there-in-an-ipv4-address-and-what-is-the-decimal-range-of-each-octet
 related_article2:
-    id: 165688
-    title: Explain the binary representation of a subnet mask and how it divides the network.
+    id: 165690
+    title: >-
+        What are the differences between /8, /16, and /24 subnet masks, and what are non-natural octet boundaries?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-binary-representation-of-a-subnet-mask-and-how-it-divides-the-network
+    url: /learn/computer-science/questions/what-are-the-differences-between-8-16-and-24-subnet-masks-and-what-are-nonnatural-octet-boundaries
 related_article3:
-    id: 165702
-    title: How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
+    id: 165700
+    title: >-
+        What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-classless-ipv4-addressing-utilize-the-subnet-mask-and-what-is-its-current-usage-in-networks
+    url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
 related_article4:
-    id: 165702
-    title: How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
+    id: 165701
+    title: >-
+        Explain Classless Inter-Domain Routing (CIDR) and its purpose in IPv4 addressing.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-classless-ipv4-addressing-utilize-the-subnet-mask-and-what-is-its-current-usage-in-networks
+    url: /learn/computer-science/questions/explain-classless-interdomain-routing-cidr-and-its-purpose-in-ipv4-addressing
 related_article5:
-    id: 165696
-    title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+    id: 165689
+    title: >-
+        Describe the pattern of 1s and 0s in a subnet mask and how it interprets network and host bits.
     subject: Computer Science
-    url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
+    url: /learn/computer-science/questions/describe-the-pattern-of-1s-and-0s-in-a-subnet-mask-and-how-it-interprets-network-and-host-bits
 ---
 
 &nbsp;

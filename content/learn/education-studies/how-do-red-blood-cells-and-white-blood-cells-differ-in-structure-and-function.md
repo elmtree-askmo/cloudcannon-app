@@ -2,8 +2,10 @@
 _schema: default
 id: 166189
 date: 2025-01-29
-title: How do red blood cells and white blood cells differ in structure and function?
-article_title: How do red blood cells and white blood cells differ in structure and function?
+title: >-
+    How do red blood cells and white blood cells differ in structure and function?
+article_title: >-
+    How do red blood cells and white blood cells differ in structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-
 url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
 score: -1.0
 related_article1:
-    id: 166179
-    title: What are the fundamental traits that define living organisms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
-related_article2:
-    id: 166185
-    title: What is the structure of a cell membrane and its function in cellular biology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
-related_article3:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
-related_article4:
     id: 166180
-    title: How do metabolism and homeostasis contribute to the biological processes of life?
+    title: >-
+        How do metabolism and homeostasis contribute to the biological processes of life?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
-related_article5:
-    id: 166199
-    title: What are the main components of the human cardiovascular system and their functions?
+related_article2:
+    id: 166193
+    title: >-
+        How does natural selection lead to adaptations in species?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
+    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+related_article3:
+    id: 166203
+    title: >-
+        What is the significance of taxonomy in organism classification?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-taxonomy-in-organism-classification
+related_article4:
+    id: 166190
+    title: >-
+        Describe the structure of DNA and its role in genetic inheritance.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
+related_article5:
+    id: 166209
+    title: >-
+        What are the key differences between sexual and asexual reproduction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
 ---
 
 &nbsp;

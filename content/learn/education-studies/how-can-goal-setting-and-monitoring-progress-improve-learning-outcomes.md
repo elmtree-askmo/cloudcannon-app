@@ -2,8 +2,10 @@
 _schema: default
 id: 164098
 date: 2025-01-28
-title: How can goal setting and monitoring progress improve learning outcomes?
-article_title: How can goal setting and monitoring progress improve learning outcomes?
+title: >-
+    How can goal setting and monitoring progress improve learning outcomes?
+article_title: >-
+    How can goal setting and monitoring progress improve learning outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-can-goal-setting-and-monitoring-prog
 score: -1.0
 related_article1:
     id: 164088
-    title: How can a proper timetable improve daily productivity?
+    title: >-
+        How can a proper timetable improve daily productivity?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-a-proper-timetable-improve-daily-productivity
 related_article2:
-    id: 164102
-    title: How do citation styles differ, and why is it important to use them correctly in bibliographies?
+    id: 164088
+    title: >-
+        How can a proper timetable improve daily productivity?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-citation-styles-differ-and-why-is-it-important-to-use-them-correctly-in-bibliographies
+    url: /learn/education-studies/questions/how-can-a-proper-timetable-improve-daily-productivity
 related_article3:
-    id: 164103
-    title: What are some effective techniques for managing time during exams?
+    id: 164108
+    title: >-
+        How does email etiquette impact professional written communication?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-managing-time-during-exams
+    url: /learn/education-studies/questions/how-does-email-etiquette-impact-professional-written-communication
 related_article4:
-    id: 164109
-    title: Why is lifelong learning important in today's rapidly changing world?
+    id: 164092
+    title: >-
+        How can reflective writing enhance personal and academic growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-lifelong-learning-important-in-todays-rapidly-changing-world
+    url: /learn/education-studies/questions/how-can-reflective-writing-enhance-personal-and-academic-growth
 related_article5:
-    id: 164094
-    title: How can visual aids be used effectively to engage an audience during a presentation?
+    id: 164107
+    title: >-
+        What are the key components of effective verbal communication in public speaking?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-visual-aids-be-used-effectively-to-engage-an-audience-during-a-presentation
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-verbal-communication-in-public-speaking
 ---
 
 &nbsp;

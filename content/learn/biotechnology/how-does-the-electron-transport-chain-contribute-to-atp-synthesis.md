@@ -2,8 +2,10 @@
 _schema: default
 id: 170318
 date: 2025-02-06
-title: How does the electron transport chain contribute to ATP synthesis?
-article_title: How does the electron transport chain contribute to ATP synthesis?
+title: >-
+    How does the electron transport chain contribute to ATP synthesis?
+article_title: >-
+    How does the electron transport chain contribute to ATP synthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-electron-transport-chain-contribute-to-atp-synthesis.md
 url: /learn/biotechnology/questions/how-does-the-electron-transport-chain-contribute-to-atp-synthesis
 score: -1.0
 related_article1:
-    id: 170325
-    title: What is the role of chlorophyll in photosynthesis?
+    id: 170323
+    title: >-
+        Explain the role of photosynthesis in the carbon cycle.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
+    url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
 related_article2:
-    id: 170311
-    title: What role does the nucleolus play within the nucleus of an animal cell?
+    id: 170321
+    title: >-
+        What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
 related_article3:
-    id: 170314
-    title: How do vacuoles contribute to the storage and support in plant cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
-related_article4:
     id: 170326
-    title: How does fermentation serve as an alternative energy source in cells?
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
-related_article5:
-    id: 170320
-    title: What are the main functional differences between photosynthesis and cellular respiration?
+related_article4:
+    id: 170324
+    title: >-
+        How does decomposition contribute to carbon release in the carbon cycle?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
+related_article5:
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
 ---
 
 &nbsp;

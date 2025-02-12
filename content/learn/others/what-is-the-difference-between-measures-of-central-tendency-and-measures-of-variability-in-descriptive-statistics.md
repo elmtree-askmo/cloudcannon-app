@@ -2,8 +2,10 @@
 _schema: default
 id: 162716
 date: 2025-01-25
-title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
-article_title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+title: >-
+    What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+article_title: >-
+    What is the difference between measures of central tendency and measures of variability in descriptive statistics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-measures-of-central-tendency-and-measu
 url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
 score: -1.0
 related_article1:
-    id: 162365
-    title: What are the primary applications of Hadoop and Spark in big data technologies?
+    id: 162841
+    title: >-
+        How do relational databases differ from NoSQL databases in terms of structure and use cases?
     subject: Others
-    url: /learn/others/questions/what-are-the-primary-applications-of-hadoop-and-spark-in-big-data-technologies
+    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-in-terms-of-structure-and-use-cases
 related_article2:
-    id: 162371
-    title: What are the common cybersecurity threats, and what measures can be taken to protect against them?
+    id: 162372
+    title: >-
+        How do LAN and WAN differ in network architecture, and what are their typical components?
     subject: Others
-    url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-what-measures-can-be-taken-to-protect-against-them
+    url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture-and-what-are-their-typical-components
 related_article3:
-    id: 162649
-    title: How is Excel used in data analysis, and what are its limitations compared to R and Python?
+    id: 162663
+    title: >-
+        What are the differences between relational and NoSQL databases in database management?
     subject: Others
-    url: /learn/others/questions/how-is-excel-used-in-data-analysis-and-what-are-its-limitations-compared-to-r-and-python
+    url: /learn/others/questions/what-are-the-differences-between-relational-and-nosql-databases-in-database-management
 related_article4:
-    id: 162708
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+    id: 162372
+    title: >-
+        How do LAN and WAN differ in network architecture, and what are their typical components?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+    url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture-and-what-are-their-typical-components
 related_article5:
-    id: 162650
-    title: What are the main differences between supervised, unsupervised, and reinforcement learning algorithms in machine learning?
+    id: 162427
+    title: >-
+        How can Excel, R, and Python be utilized in data analysis for business intelligence and market research?
     subject: Others
-    url: /learn/others/questions/what-are-the-main-differences-between-supervised-unsupervised-and-reinforcement-learning-algorithms-in-machine-learning
+    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence-and-market-research
 ---
 
 &nbsp;

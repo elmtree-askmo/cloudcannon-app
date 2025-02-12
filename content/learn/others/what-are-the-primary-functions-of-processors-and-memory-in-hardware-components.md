@@ -2,8 +2,10 @@
 _schema: default
 id: 164164
 date: 2025-01-28
-title: What are the primary functions of processors and memory in hardware components?
-article_title: What are the primary functions of processors and memory in hardware components?
+title: >-
+    What are the primary functions of processors and memory in hardware components?
+article_title: >-
+    What are the primary functions of processors and memory in hardware components?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-primary-functions-of-processors-and-memory-in-hardware-c
 url: /learn/others/questions/what-are-the-primary-functions-of-processors-and-memory-in-hardware-components
 score: -1.0
 related_article1:
-    id: 164178
-    title: Describe a common use case for clustering in unsupervised learning.
+    id: 164170
+    title: >-
+        What is the purpose of ontologies in knowledge representation?
     subject: Others
-    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
+    url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
 related_article2:
-    id: 164179
-    title: What is the role of Markov Decision Processes in reinforcement learning?
+    id: 164183
+    title: >-
+        How do forecasting models contribute to predictive analysis?
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
+    url: /learn/others/questions/how-do-forecasting-models-contribute-to-predictive-analysis
 related_article3:
+    id: 164170
+    title: >-
+        What is the purpose of ontologies in knowledge representation?
+    subject: Others
+    url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
+related_article4:
     id: 164179
-    title: What is the role of Markov Decision Processes in reinforcement learning?
+    title: >-
+        What is the role of Markov Decision Processes in reinforcement learning?
     subject: Others
     url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
-related_article4:
-    id: 164172
-    title: What are the main challenges associated with knowledge transfer?
-    subject: Others
-    url: /learn/others/questions/what-are-the-main-challenges-associated-with-knowledge-transfer
-related_article5:
-    id: 164182
-    title: What is the purpose of statistical measures in descriptive analysis?
-    subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
 ---
 
 &nbsp;

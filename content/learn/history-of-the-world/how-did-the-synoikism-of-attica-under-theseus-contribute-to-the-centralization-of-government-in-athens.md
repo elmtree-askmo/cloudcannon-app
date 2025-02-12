@@ -2,8 +2,10 @@
 _schema: default
 id: 163962
 date: 2025-01-28
-title: How did the synoikism of Attica under Theseus contribute to the centralization of government in Athens?
-article_title: How did the synoikism of Attica under Theseus contribute to the centralization of government in Athens?
+title: >-
+    How did the synoikism of Attica under Theseus contribute to the centralization of government in Athens?
+article_title: >-
+    How did the synoikism of Attica under Theseus contribute to the centralization of government in Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-synoikism-of-attica-under-theseus-contribute-to-the-centr
 url: /learn/history-of-the-world/questions/how-did-the-synoikism-of-attica-under-theseus-contribute-to-the-centralization-of-government-in-athens
 score: 9.0
 related_article1:
-    id: 163974
-    title: What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
-related_article2:
-    id: 163963
-    title: What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
-related_article3:
     id: 163977
-    title: How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
+    title: >-
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
+related_article2:
+    id: 163967
+    title: >-
+        Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-concept-of-timocracy-as-introduced-by-solon-and-its-impact-on-athenian-society
+related_article3:
+    id: 163968
+    title: >-
+        How did Solon's reforms influence the eligibility for political office in Athens?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-solons-reforms-influence-the-eligibility-for-political-office-in-athens
 related_article4:
-    id: 163976
-    title: What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
+    id: 163972
+    title: >-
+        What were the voting procedures in the Athenian Assembly, and how did they compare to those in Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
+    url: /learn/history-of-the-world/questions/what-were-the-voting-procedures-in-the-athenian-assembly-and-how-did-they-compare-to-those-in-sparta
 related_article5:
-    id: 163965
-    title: What were the roles and selection methods of Athenian archons and generals?
+    id: 163975
+    title: >-
+        How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-roles-and-selection-methods-of-athenian-archons-and-generals
+    url: /learn/history-of-the-world/questions/how-did-the-oligarchic-regimes-of-411-bc-challenge-athenian-democracy-and-what-were-the-subsequent-reforms
 ---
 
 &nbsp;

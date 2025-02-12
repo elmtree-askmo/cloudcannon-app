@@ -2,8 +2,10 @@
 _schema: default
 id: 166037
 date: 2025-01-29
-title: What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
-article_title: What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+title: >-
+    What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+article_title: >-
+    What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-ath
 url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
 score: 9.0
 related_article1:
-    id: 166036
-    title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    id: 166033
+    title: >-
+        How did the political language of ancient Athens influence modern political terminology?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
+    url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
 related_article2:
-    id: 166028
-    title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+    id: 166035
+    title: >-
+        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
+    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
 related_article3:
-    id: 166022
-    title: What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
+    id: 166020
+    title: >-
+        What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
+    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
 related_article4:
-    id: 166017
-    title: What was the historical significance of Athens as an urban center in ancient times?
+    id: 166019
+    title: >-
+        What is the myth of Synoikism, and how does it relate to the Attica region?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
+    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
 related_article5:
-    id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 ---
 
 &nbsp;

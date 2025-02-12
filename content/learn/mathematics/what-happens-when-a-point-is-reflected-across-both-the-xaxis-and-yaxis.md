@@ -2,8 +2,10 @@
 _schema: default
 id: 162627
 date: 2025-01-25
-title: What happens when a point is reflected across both the x-axis and y-axis?
-article_title: What happens when a point is reflected across both the x-axis and y-axis?
+title: >-
+    What happens when a point is reflected across both the x-axis and y-axis?
+article_title: >-
+    What happens when a point is reflected across both the x-axis and y-axis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxi
 url: /learn/mathematics/questions/what-happens-when-a-point-is-reflected-across-both-the-xaxis-and-yaxis
 score: -1.0
 related_article1:
-    id: 162809
-    title: What changes occur to the coordinates of a point when it is reflected?
+    id: 162745
+    title: >-
+        What happens to the coordinates of a point when it is reflected across the y-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-it-is-reflected-across-the-yaxis
 related_article2:
-    id: 162410
-    title: What misunderstandings might arise regarding symmetry in reflections?
+    id: 162804
+    title: >-
+        What happens to a point's coordinates when it is reflected across the y-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+    url: /learn/mathematics/questions/what-happens-to-a-points-coordinates-when-it-is-reflected-across-the-yaxis
 related_article3:
-    id: 162639
-    title: How can visualizing reflections help in understanding them?
+    id: 162807
+    title: >-
+        How is horizontal symmetry defined in geometric reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
+    url: /learn/mathematics/questions/how-is-horizontal-symmetry-defined-in-geometric-reflections
 related_article4:
-    id: 162409
-    title: How can orientation changes lead to confusion in reflections?
+    id: 162512
+    title: >-
+        What happens to the coordinates of a point when it is reflected across the y-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+    url: /learn/mathematics/questions/what-happens-to-the-coordinates-of-a-point-when-it-is-reflected-across-the-yaxis
 related_article5:
-    id: 162645
-    title: How is congruence maintained in reflections?
+    id: 162641
+    title: >-
+        How does the line of reflection act as a mirror in geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162667
 date: 2025-01-25
-title: What are the components of an information system, and how do they interact?
-article_title: What are the components of an information system, and how do they interact?
+title: >-
+    What are the components of an information system, and how do they interact?
+article_title: >-
+    What are the components of an information system, and how do they interact?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-components-of-an-information-system-and-how-do-they-inte
 url: /learn/others/questions/what-are-the-components-of-an-information-system-and-how-do-they-interact
 score: -1.0
 related_article1:
-    id: 162359
-    title: What are the best practices for creating effective data visualizations?
+    id: 162735
+    title: >-
+        What are the challenges associated with virtual reality in terms of cost and user experience?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
+    url: /learn/others/questions/what-are-the-challenges-associated-with-virtual-reality-in-terms-of-cost-and-user-experience
 related_article2:
-    id: 162656
-    title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162662
+    title: >-
+        What are the benefits of using cloud computing for scalability and cost efficiency?
     subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-for-scalability-and-cost-efficiency
 related_article3:
-    id: 162714
-    title: What are the best practices for creating effective data visualizations?
+    id: 162670
+    title: >-
+        What are the best practices for responsive design and SEO optimization in web development?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
+    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
 related_article4:
-    id: 162661
-    title: How do IaaS, PaaS, and SaaS differ in cloud computing service models?
+    id: 162728
+    title: >-
+        How do LAN and WAN differ in terms of network architecture?
     subject: Others
-    url: /learn/others/questions/how-do-iaas-paas-and-saas-differ-in-cloud-computing-service-models
+    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
 related_article5:
-    id: 162780
-    title: What are the benefits of using cloud computing service models like IaaS, PaaS, and SaaS?
+    id: 162427
+    title: >-
+        How can Excel, R, and Python be utilized in data analysis for business intelligence and market research?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-service-models-like-iaas-paas-and-saas
+    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence-and-market-research
 ---
 
 &nbsp;

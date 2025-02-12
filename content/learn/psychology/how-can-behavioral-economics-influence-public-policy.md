@@ -2,8 +2,10 @@
 _schema: default
 id: 168893
 date: 2025-02-04
-title: How can behavioral economics influence public policy?
-article_title: How can behavioral economics influence public policy?
+title: >-
+    How can behavioral economics influence public policy?
+article_title: >-
+    How can behavioral economics influence public policy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-behavioral-economics-influence-public-policy.md
 url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 score: -1.0
 related_article1:
-    id: 168881
-    title: Why are statistical predictions often more reliable than clinical predictions?
+    id: 168887
+    title: >-
+        How do sunk costs influence decision-making in terms of attendance and financial decisions?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
 related_article2:
-    id: 168886
-    title: Describe the premortem strategy and its purpose in decision-making.
+    id: 168895
+    title: >-
+        Explain the concept of rational addiction and its implications for cognitive repairs.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
 related_article3:
-    id: 168883
-    title: What is the planning fallacy and how does it affect project forecasts?
+    id: 168878
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 related_article4:
-    id: 168879
-    title: How does the illusion of understanding lead to misinterpretation of historical events?
+    id: 168888
+    title: >-
+        What is the disposition effect and how does it affect investment decisions?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
 related_article5:
     id: 168885
-    title: What role does overconfidence play in financial forecasting?
+    title: >-
+        What role does overconfidence play in financial forecasting?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 ---

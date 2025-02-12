@@ -2,8 +2,10 @@
 _schema: default
 id: 167876
 date: 2025-02-01
-title: Describe an example of codominance and its phenotypic outcome.
-article_title: Describe an example of codominance and its phenotypic outcome.
+title: >-
+    Describe an example of codominance and its phenotypic outcome.
+article_title: >-
+    Describe an example of codominance and its phenotypic outcome.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: describe-an-example-of-codominance-and-its-phenotypic-outcome.md
 url: /learn/biology/questions/describe-an-example-of-codominance-and-its-phenotypic-outcome
 score: -1.0
 related_article1:
-    id: 167873
-    title: Define multiple alleles and give an example involving blood types.
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
     subject: Biology
-    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
 related_article2:
-    id: 167873
-    title: Define multiple alleles and give an example involving blood types.
+    id: 167884
+    title: >-
+        What are the types and causes of genetic mutations?
     subject: Biology
-    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+    url: /learn/biology/questions/what-are-the-types-and-causes-of-genetic-mutations
 related_article3:
-    id: 167870
-    title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+    id: 167874
+    title: >-
+        How do antigen variations contribute to blood type differences?
     subject: Biology
-    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
+    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
 related_article4:
-    id: 167879
-    title: What are the key symbols used in pedigree analysis and what do they represent?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
-related_article5:
     id: 167871
-    title: Explain the molecular mechanism behind complete dominance.
+    title: >-
+        Explain the molecular mechanism behind complete dominance.
     subject: Biology
     url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
 ---

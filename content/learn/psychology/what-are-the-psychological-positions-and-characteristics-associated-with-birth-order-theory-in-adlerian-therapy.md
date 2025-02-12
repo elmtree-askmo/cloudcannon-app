@@ -2,8 +2,10 @@
 _schema: default
 id: 163007
 date: 2025-01-26
-title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
-article_title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+title: >-
+    What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+article_title: >-
+    What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-psychological-positions-and-characteristics-associated-w
 url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
 score: -1.0
 related_article1:
-    id: 163002
-    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    id: 162995
+    title: >-
+        How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+    url: /learn/psychology/questions/how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribute-to-the-founding-of-individual-psychology
 related_article2:
-    id: 163001
-    title: How does lifestyle assessment in Adlerian therapy incorporate family constellation and early recollections?
+    id: 162995
+    title: >-
+        How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections
+    url: /learn/psychology/questions/how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribute-to-the-founding-of-individual-psychology
 related_article3:
-    id: 162996
-    title: What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    id: 163006
+    title: >-
+        How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
+    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
 related_article4:
-    id: 163005
-    title: What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
-related_article5:
     id: 162999
-    title: How do inferiority and superiority complexes impact human behavior?
+    title: >-
+        How do inferiority and superiority complexes impact human behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-impact-human-behavior
+related_article5:
+    id: 163004
+    title: >-
+        What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166209
 date: 2025-01-29
-title: What are the key differences between sexual and asexual reproduction?
-article_title: What are the key differences between sexual and asexual reproduction?
+title: >-
+    What are the key differences between sexual and asexual reproduction?
+article_title: >-
+    What are the key differences between sexual and asexual reproduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-sexual-and-asexual-reproduction.
 url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
 score: -1.0
 related_article1:
-    id: 166200
-    title: How have humans evolved over time according to fossil evidence?
+    id: 166179
+    title: >-
+        What are the fundamental traits that define living organisms?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
+    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
 related_article2:
-    id: 166208
-    title: Describe the process of absorption in the digestive system.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-process-of-absorption-in-the-digestive-system
-related_article3:
-    id: 166190
-    title: Describe the structure of DNA and its role in genetic inheritance.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
-related_article4:
-    id: 166190
-    title: Describe the structure of DNA and its role in genetic inheritance.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
-related_article5:
     id: 166202
-    title: How do human activities impact the environment and what are some conservation efforts?
+    title: >-
+        How do human activities impact the environment and what are some conservation efforts?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
+related_article3:
+    id: 166205
+    title: >-
+        What role do enzymes play in biochemical reactions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-enzymes-play-in-biochemical-reactions
+related_article4:
+    id: 166180
+    title: >-
+        How do metabolism and homeostasis contribute to the biological processes of life?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
+related_article5:
+    id: 166212
+    title: >-
+        How is blood circulation regulated in the cardiovascular system?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-blood-circulation-regulated-in-the-cardiovascular-system
 ---
 
 &nbsp;

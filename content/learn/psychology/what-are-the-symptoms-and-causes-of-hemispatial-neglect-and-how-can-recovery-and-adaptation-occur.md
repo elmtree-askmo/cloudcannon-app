@@ -2,8 +2,10 @@
 _schema: default
 id: 164706
 date: 2025-01-28
-title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
-article_title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+title: >-
+    What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+article_title: >-
+    What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-r
 url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
 score: -1.0
 related_article1:
-    id: 164708
-    title: Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
+    id: 164711
+    title: >-
+        What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
+    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
 related_article2:
-    id: 164711
-    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
+    id: 164709
+    title: >-
+        What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
+    url: /learn/psychology/questions/what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention
 related_article3:
-    id: 164711
-    title: What challenges are associated with multitasking and cognitive load, and what strategies can improve performance?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-multitasking-and-cognitive-load-and-what-strategies-can-improve-performance
-related_article4:
-    id: 164697
-    title: How does divided attention impact performance, and what challenges are associated with multitasking?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
-related_article5:
     id: 164705
-    title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+    title: >-
+        Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
     subject: Psychology
     url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
+related_article4:
+    id: 164703
+    title: >-
+        What processes are involved in memory retrieval, and how does attention influence these processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-processes-are-involved-in-memory-retrieval-and-how-does-attention-influence-these-processes
+related_article5:
+    id: 164697
+    title: >-
+        How does divided attention impact performance, and what challenges are associated with multitasking?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-performance-and-what-challenges-are-associated-with-multitasking
 ---
 
 &nbsp;

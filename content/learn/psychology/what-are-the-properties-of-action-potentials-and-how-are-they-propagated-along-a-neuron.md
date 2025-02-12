@@ -2,8 +2,10 @@
 _schema: default
 id: 164819
 date: 2025-01-28
-title: What are the properties of action potentials and how are they propagated along a neuron?
-article_title: What are the properties of action potentials and how are they propagated along a neuron?
+title: >-
+    What are the properties of action potentials and how are they propagated along a neuron?
+article_title: >-
+    What are the properties of action potentials and how are they propagated along a neuron?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-properties-of-action-potentials-and-how-are-they-propaga
 url: /learn/psychology/questions/what-are-the-properties-of-action-potentials-and-how-are-they-propagated-along-a-neuron
 score: -1.0
 related_article1:
-    id: 164824
-    title: What changes occur in the membrane potential during an action potential?
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
     subject: Psychology
-    url: /learn/psychology/questions/what-changes-occur-in-the-membrane-potential-during-an-action-potential
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
 related_article2:
-    id: 164830
-    title: How does synaptic transmission occur and what role do neurotransmitters play in this process?
+    id: 164820
+    title: >-
+        What is the threshold for an action potential and what are the refractory periods?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
 related_article3:
-    id: 164827
-    title: How does myelination affect the speed of neural signal transmission?
+    id: 164832
+    title: >-
+        How do synapses facilitate signal transmission between neurons?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
 related_article4:
-    id: 164825
-    title: What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+    id: 164820
+    title: >-
+        What is the threshold for an action potential and what are the refractory periods?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
-related_article5:
-    id: 164827
-    title: How does myelination affect the speed of neural signal transmission?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
 ---
 
 &nbsp;

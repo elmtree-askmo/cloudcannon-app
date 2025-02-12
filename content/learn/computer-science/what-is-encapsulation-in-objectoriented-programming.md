@@ -2,8 +2,10 @@
 _schema: default
 id: 168608
 date: 2025-02-03
-title: What is encapsulation in object-oriented programming?
-article_title: What is encapsulation in object-oriented programming?
+title: >-
+    What is encapsulation in object-oriented programming?
+article_title: >-
+    What is encapsulation in object-oriented programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-encapsulation-in-objectoriented-programming.md
 url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
 score: -1.0
 related_article1:
-    id: 168609
-    title: How does inheritance contribute to reusability in object-oriented programming?
+    id: 168591
+    title: >-
+        Name two common functions available in Python's math module.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
+    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
 related_article2:
-    id: 168607
-    title: What is modular programming and how does it enhance reusability?
+    id: 168595
+    title: >-
+        How do local variables differ from global variables in terms of accessibility?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
+    url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
 related_article3:
-    id: 168599
-    title: How can you provide default values for function parameters in Python?
+    id: 168588
+    title: >-
+        How does object-oriented programming contribute to software reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
+    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
 related_article4:
-    id: 168597
-    title: How can you handle a specific error type using a try...except block?
+    id: 168591
+    title: >-
+        Name two common functions available in Python's math module.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
 related_article5:
-    id: 168598
-    title: What is the difference between positional and keyword parameters in Python functions?
+    id: 168600
+    title: >-
+        What is a function docstring and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
+    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 ---
 
 &nbsp;

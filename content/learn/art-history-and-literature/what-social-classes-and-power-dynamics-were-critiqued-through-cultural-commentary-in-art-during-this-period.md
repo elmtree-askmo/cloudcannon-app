@@ -2,8 +2,10 @@
 _schema: default
 id: 166575
 date: 2025-01-30
-title: What social classes and power dynamics were critiqued through cultural commentary in art during this period?
-article_title: What social classes and power dynamics were critiqued through cultural commentary in art during this period?
+title: >-
+    What social classes and power dynamics were critiqued through cultural commentary in art during this period?
+article_title: >-
+    What social classes and power dynamics were critiqued through cultural commentary in art during this period?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-social-classes-and-power-dynamics-were-critiqued-through-cultura
 url: /learn/art-history-and-literature/questions/what-social-classes-and-power-dynamics-were-critiqued-through-cultural-commentary-in-art-during-this-period
 score: 9.0
 related_article1:
-    id: 166577
-    title: What were the effects of changes in the urban fabric on city life and infrastructure in Paris?
+    id: 166567
+    title: >-
+        How did modernity influence the representation of Parisian society in modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-effects-of-changes-in-the-urban-fabric-on-city-life-and-infrastructure-in-paris
+    url: /learn/art-history-and-literature/questions/how-did-modernity-influence-the-representation-of-parisian-society-in-modern-art
 related_article2:
     id: 166571
-    title: What were the main themes of Impressionism, and how did they reflect urban and suburban life?
+    title: >-
+        What were the main themes of Impressionism, and how did they reflect urban and suburban life?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-main-themes-of-impressionism-and-how-did-they-reflect-urban-and-suburban-life
 related_article3:
-    id: 166571
-    title: What were the main themes of Impressionism, and how did they reflect urban and suburban life?
+    id: 166574
+    title: >-
+        How did Impressionist artists represent women's perspectives and changing gender roles in their work?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-themes-of-impressionism-and-how-did-they-reflect-urban-and-suburban-life
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-represent-womens-perspectives-and-changing-gender-roles-in-their-work
 related_article4:
-    id: 166569
-    title: What are the key characteristics of Realism in art, and how did it address the class divide?
+    id: 166570
+    title: >-
+        How did photography influence the development of Realism in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
+    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
 related_article5:
-    id: 166577
-    title: What were the effects of changes in the urban fabric on city life and infrastructure in Paris?
+    id: 166574
+    title: >-
+        How did Impressionist artists represent women's perspectives and changing gender roles in their work?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-effects-of-changes-in-the-urban-fabric-on-city-life-and-infrastructure-in-paris
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-represent-womens-perspectives-and-changing-gender-roles-in-their-work
 ---
 
 &nbsp;

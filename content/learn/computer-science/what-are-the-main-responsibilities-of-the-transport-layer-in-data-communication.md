@@ -2,8 +2,10 @@
 _schema: default
 id: 165766
 date: 2025-01-29
-title: What are the main responsibilities of the transport layer in data communication?
-article_title: What are the main responsibilities of the transport layer in data communication?
+title: >-
+    What are the main responsibilities of the transport layer in data communication?
+article_title: >-
+    What are the main responsibilities of the transport layer in data communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-responsibilities-of-the-transport-layer-in-data-com
 url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 score: -1.0
 related_article1:
-    id: 165777
-    title: How do socket pairs facilitate communication between devices?
+    id: 165776
+    title: >-
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article2:
-    id: 165770
-    title: What are the basic operations of the TCP protocol in managing data transmission?
+    id: 165783
+    title: >-
+        How does TCP use sequence numbers for data reassembly?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
+    url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-data-reassembly
 related_article3:
-    id: 165773
-    title: What is the significance of the simplicity and low overhead of the UDP header?
+    id: 165769
+    title: >-
+        How does data segmentation enable multiple conversations in network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
+    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
 related_article4:
-    id: 165768
-    title: What is the difference between TCP and UDP in terms of reliability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
-related_article5:
     id: 165772
-    title: What are the key features of the UDP protocol that differentiate it from TCP?
+    title: >-
+        What are the key features of the UDP protocol that differentiate it from TCP?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+related_article5:
+    id: 165764
+    title: >-
+        What is the primary role of the transport layer in network communication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
 ---
 
 &nbsp;

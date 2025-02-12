@@ -2,8 +2,10 @@
 _schema: default
 id: 162964
 date: 2025-01-26
-title: What is the significance of the null hypothesis in hypothesis testing?
-article_title: What is the significance of the null hypothesis in hypothesis testing?
+title: >-
+    What is the significance of the null hypothesis in hypothesis testing?
+article_title: >-
+    What is the significance of the null hypothesis in hypothesis testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
 url: /learn/health-studies/questions/what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
 score: -1.0
 related_article1:
-    id: 162958
-    title: How do political and economic factors serve as environmental and societal determinants of health?
+    id: 163012
+    title: >-
+        Who are some key figures in the historical development of epidemiology, and what were their contributions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+    url: /learn/health-studies/questions/who-are-some-key-figures-in-the-historical-development-of-epidemiology-and-what-were-their-contributions
 related_article2:
-    id: 162977
-    title: What is the significance of confidence intervals in the estimation process of epidemiologic research?
+    id: 162961
+    title: >-
+        What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 related_article3:
-    id: 162969
-    title: How do political and economic factors serve as environmental and societal determinants of health?
+    id: 162962
+    title: >-
+        What are the advantages of using random sampling in biostatistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+    url: /learn/health-studies/questions/what-are-the-advantages-of-using-random-sampling-in-biostatistics
 related_article4:
-    id: 162969
-    title: How do political and economic factors serve as environmental and societal determinants of health?
+    id: 163013
+    title: >-
+        How do genetic makeup and lifestyle behaviors influence individual determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
 related_article5:
-    id: 162977
-    title: What is the significance of confidence intervals in the estimation process of epidemiologic research?
+    id: 162965
+    title: >-
+        How is a confidence interval interpreted in the context of epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
+    url: /learn/health-studies/questions/how-is-a-confidence-interval-interpreted-in-the-context-of-epidemiologic-research
 ---
 
 &nbsp;

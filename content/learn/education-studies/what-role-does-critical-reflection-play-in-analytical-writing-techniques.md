@@ -2,8 +2,10 @@
 _schema: default
 id: 168177
 date: 2025-02-02
-title: What role does critical reflection play in analytical writing techniques?
-article_title: What role does critical reflection play in analytical writing techniques?
+title: >-
+    What role does critical reflection play in analytical writing techniques?
+article_title: >-
+    What role does critical reflection play in analytical writing techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-critical-reflection-play-in-analytical-writing-techniq
 url: /learn/education-studies/questions/what-role-does-critical-reflection-play-in-analytical-writing-techniques
 score: -1.0
 related_article1:
-    id: 168173
-    title: What is the importance of connecting personal stories to broader issues in investigative writing?
+    id: 168168
+    title: >-
+        How does the stream of consciousness technique help in exploring topics during the writing process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-connecting-personal-stories-to-broader-issues-in-investigative-writing
+    url: /learn/education-studies/questions/how-does-the-stream-of-consciousness-technique-help-in-exploring-topics-during-the-writing-process
 related_article2:
-    id: 168165
-    title: What are the psychological mechanisms that suggest animals have interior lives?
+    id: 168179
+    title: >-
+        What are the expectations and guidelines for writing assignments like personal and argumentative essays?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-psychological-mechanisms-that-suggest-animals-have-interior-lives
+    url: /learn/education-studies/questions/what-are-the-expectations-and-guidelines-for-writing-assignments-like-personal-and-argumentative-essays
 related_article3:
-    id: 168175
-    title: What are the ethical considerations involved in the human-animal connection?
+    id: 168164
+    title: >-
+        How can subtle humor, such as self-deprecation and exaggeration, enhance writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-ethical-considerations-involved-in-the-humananimal-connection
+    url: /learn/education-studies/questions/how-can-subtle-humor-such-as-selfdeprecation-and-exaggeration-enhance-writing
 related_article4:
-    id: 168176
-    title: How do narrative techniques like storytelling and scene recreation enhance writing?
+    id: 168167
+    title: >-
+        What is the role of focused free writing in overcoming writer's block?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-narrative-techniques-like-storytelling-and-scene-recreation-enhance-writing
+    url: /learn/education-studies/questions/what-is-the-role-of-focused-free-writing-in-overcoming-writers-block
 related_article5:
-    id: 168176
-    title: How do narrative techniques like storytelling and scene recreation enhance writing?
+    id: 168164
+    title: >-
+        How can subtle humor, such as self-deprecation and exaggeration, enhance writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-narrative-techniques-like-storytelling-and-scene-recreation-enhance-writing
+    url: /learn/education-studies/questions/how-can-subtle-humor-such-as-selfdeprecation-and-exaggeration-enhance-writing
 ---
 
 &nbsp;

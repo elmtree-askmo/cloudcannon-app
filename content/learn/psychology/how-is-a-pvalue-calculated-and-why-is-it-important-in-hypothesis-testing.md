@@ -2,8 +2,10 @@
 _schema: default
 id: 165075
 date: 2025-01-28
-title: How is a p-value calculated, and why is it important in hypothesis testing?
-article_title: How is a p-value calculated, and why is it important in hypothesis testing?
+title: >-
+    How is a p-value calculated, and why is it important in hypothesis testing?
+article_title: >-
+    How is a p-value calculated, and why is it important in hypothesis testing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-test
 url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
 score: -1.0
 related_article1:
-    id: 165080
-    title: What ethical considerations must be taken into account when conducting research?
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
     subject: Psychology
-    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
 related_article2:
-    id: 165074
-    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
-    subject: Psychology
-    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
-related_article3:
-    id: 165073
-    title: How do you select the appropriate test for hypothesis testing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
-related_article4:
     id: 165091
-    title: What are the essential elements of academic writing standards in research papers?
+    title: >-
+        What are the essential elements of academic writing standards in research papers?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
-related_article5:
-    id: 165084
-    title: What distinguishes randomized controlled trials from quasi-experimental designs?
+related_article3:
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
+related_article4:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article5:
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
+    subject: Psychology
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
 ---
 
 &nbsp;

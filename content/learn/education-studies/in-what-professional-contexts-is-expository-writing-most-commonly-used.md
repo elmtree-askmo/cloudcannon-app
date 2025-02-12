@@ -2,8 +2,10 @@
 _schema: default
 id: 168634
 date: 2025-02-03
-title: In what professional contexts is expository writing most commonly used?
-article_title: In what professional contexts is expository writing most commonly used?
+title: >-
+    In what professional contexts is expository writing most commonly used?
+article_title: >-
+    In what professional contexts is expository writing most commonly used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-professional-contexts-is-expository-writing-most-commonly-use
 url: /learn/education-studies/questions/in-what-professional-contexts-is-expository-writing-most-commonly-used
 score: -1.0
 related_article1:
-    id: 168630
-    title: How can narrative writing be effectively integrated with other writing styles?
+    id: 168629
+    title: >-
+        What are the key characteristics and purposes of narrative writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-narrative-writing-be-effectively-integrated-with-other-writing-styles
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-and-purposes-of-narrative-writing
 related_article2:
-    id: 168648
-    title: How does grammar impact the clarity and professionalism of writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
-related_article3:
-    id: 168631
-    title: What are some common techniques used in persuasive writing to engage the audience?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-persuasive-writing-to-engage-the-audience
-related_article4:
-    id: 168650
-    title: What are the essential components of a research report, and how do they contribute to its purpose?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-research-report-and-how-do-they-contribute-to-its-purpose
-related_article5:
     id: 168637
-    title: What are the defining features of a narrative report, and how does it differ from other reports?
+    title: >-
+        What are the defining features of a narrative report, and how does it differ from other reports?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-defining-features-of-a-narrative-report-and-how-does-it-differ-from-other-reports
+related_article3:
+    id: 168647
+    title: >-
+        What are some common techniques used in creative writing to develop characters?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-creative-writing-to-develop-characters
+related_article4:
+    id: 168635
+    title: >-
+        What distinguishes a personal narrative from other forms of narrative writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-a-personal-narrative-from-other-forms-of-narrative-writing
+related_article5:
+    id: 168632
+    title: >-
+        How does the purpose of persuasive writing influence its effectiveness?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-purpose-of-persuasive-writing-influence-its-effectiveness
 ---
 
 &nbsp;

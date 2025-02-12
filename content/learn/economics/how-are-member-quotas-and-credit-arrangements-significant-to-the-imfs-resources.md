@@ -2,8 +2,10 @@
 _schema: default
 id: 159671
 date: 2025-01-23
-title: How are member quotas and credit arrangements significant to the IMF's resources?
-article_title: How are member quotas and credit arrangements significant to the IMF's resources?
+title: >-
+    How are member quotas and credit arrangements significant to the IMF's resources?
+article_title: >-
+    How are member quotas and credit arrangements significant to the IMF's resources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs
 url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
 score: -1.0
 related_article1:
-    id: 159664
-    title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+    id: 159666
+    title: >-
+        What was the significance of the Bretton Woods Conference in the founding of the IMF?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
+    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
 related_article2:
-    id: 159679
-    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    id: 159669
+    title: >-
+        How does the IMF contribute to capacity development in public finances and monetary policies?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
 related_article3:
-    id: 159680
-    title: What is the process for overseeing WTO agreements and maintaining open trade?
+    id: 159668
+    title: >-
+        What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
 related_article4:
-    id: 159667
-    title: How does the IMF ensure the stability of the international monetary system through surveillance?
+    id: 159665
+    title: >-
+        How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
 related_article5:
-    id: 159681
-    title: How does the WTO's dispute settlement process ensure a neutral procedure for resolving trade conflicts?
+    id: 159678
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-wtos-dispute-settlement-process-ensure-a-neutral-procedure-for-resolving-trade-conflicts
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 ---
 
 &nbsp;

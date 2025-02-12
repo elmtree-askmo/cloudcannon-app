@@ -2,8 +2,10 @@
 _schema: default
 id: 165601
 date: 2025-01-29
-title: What are the differences between summarizing and taking detailed notes?
-article_title: What are the differences between summarizing and taking detailed notes?
+title: >-
+    What are the differences between summarizing and taking detailed notes?
+article_title: >-
+    What are the differences between summarizing and taking detailed notes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-summarizing-and-taking-detailed-note
 url: /learn/education-studies/questions/what-are-the-differences-between-summarizing-and-taking-detailed-notes
 score: -1.0
 related_article1:
-    id: 165607
-    title: What is the difference between selective highlighting and recognition in information retention?
+    id: 165583
+    title: >-
+        What are the limitations of speed reading techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-selective-highlighting-and-recognition-in-information-retention
+    url: /learn/education-studies/questions/what-are-the-limitations-of-speed-reading-techniques
 related_article2:
-    id: 165594
-    title: How do photoreceptor cells contribute to detail perception in reading?
+    id: 165608
+    title: >-
+        Why is summarization important in reviewing and reciting information?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-photoreceptor-cells-contribute-to-detail-perception-in-reading
+    url: /learn/education-studies/questions/why-is-summarization-important-in-reviewing-and-reciting-information
 related_article3:
-    id: 165579
-    title: What are the roles of eye movements and saccades in visual processing during reading?
+    id: 165603
+    title: >-
+        What is pseudo-skimming, and how does it help identify main ideas?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing-during-reading
+    url: /learn/education-studies/questions/what-is-pseudoskimming-and-how-does-it-help-identify-main-ideas
 related_article4:
-    id: 165599
-    title: How does the SQ3R method facilitate active reading?
+    id: 165604
+    title: >-
+        Why is formatting important in speed reading techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-sq3r-method-facilitate-active-reading
+    url: /learn/education-studies/questions/why-is-formatting-important-in-speed-reading-techniques
 related_article5:
-    id: 165595
-    title: What is the difference between memory recall and recognition in the context of information retention?
+    id: 165593
+    title: >-
+        What is the role of the fovea, parafovea, and periphery in text processing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-memory-recall-and-recognition-in-the-context-of-information-retention
+    url: /learn/education-studies/questions/what-is-the-role-of-the-fovea-parafovea-and-periphery-in-text-processing
 ---
 
 &nbsp;

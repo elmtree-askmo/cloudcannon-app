@@ -2,8 +2,10 @@
 _schema: default
 id: 165943
 date: 2025-01-29
-title: What was the historical context behind the creation of the Salon des Refusés?
-article_title: What was the historical context behind the creation of the Salon des Refusés?
+title: >-
+    What was the historical context behind the creation of the Salon des Refusés?
+article_title: >-
+    What was the historical context behind the creation of the Salon des Refusés?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-historical-context-behind-the-creation-of-the-salon-des-
 url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 score: 9.0
 related_article1:
-    id: 165958
-    title: How did technological advancements in the 19th century influence art techniques and materials?
+    id: 165946
+    title: >-
+        How did the First Impressionist Exhibition influence the development of Impressionist techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
 related_article2:
+    id: 165951
+    title: >-
+        What are the main characteristics and techniques associated with Impressionism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+related_article3:
+    id: 165940
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+related_article4:
     id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
+    title: >-
+        In what ways did the Salon des Refusés promote avant-garde art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
-related_article3:
-    id: 165954
-    title: How did Cubism influence subsequent art movements?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
-related_article4:
+related_article5:
     id: 165956
-    title: How did Paris serve as an art hub and influence exhibition practices in the 19th century?
+    title: >-
+        How did Paris serve as an art hub and influence exhibition practices in the 19th century?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
-related_article5:
-    id: 165958
-    title: How did technological advancements in the 19th century influence art techniques and materials?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165657
 date: 2025-01-29
-title: What is the purpose of using the ping command in network troubleshooting?
-article_title: What is the purpose of using the ping command in network troubleshooting?
+title: >-
+    What is the purpose of using the ping command in network troubleshooting?
+article_title: >-
+    What is the purpose of using the ping command in network troubleshooting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-purpose-of-using-the-ping-command-in-network-troubleshoot
 url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-ping-command-in-network-troubleshooting
 score: -1.0
 related_article1:
-    id: 165656
-    title: How does redundancy improve the reliability of a small network?
+    id: 165659
+    title: >-
+        Why is establishing a network baseline important for network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
+    url: /learn/computer-science/questions/why-is-establishing-a-network-baseline-important-for-network-management
 related_article2:
-    id: 165664
-    title: How can duplex mismatch issues affect network performance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-duplex-mismatch-issues-affect-network-performance
-related_article3:
     id: 165658
-    title: How does the traceroute command help in diagnosing network issues?
+    title: >-
+        How does the traceroute command help in diagnosing network issues?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
+related_article3:
+    id: 165667
+    title: >-
+        What tools can be used to troubleshoot DNS issues effectively?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
 related_article4:
-    id: 165665
-    title: What are common causes of IP addressing issues on IOS devices?
+    id: 165659
+    title: >-
+        Why is establishing a network baseline important for network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
-related_article5:
-    id: 165656
-    title: How does redundancy improve the reliability of a small network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
+    url: /learn/computer-science/questions/why-is-establishing-a-network-baseline-important-for-network-management
 ---
 
 &nbsp;

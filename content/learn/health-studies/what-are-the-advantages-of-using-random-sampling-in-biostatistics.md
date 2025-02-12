@@ -2,8 +2,10 @@
 _schema: default
 id: 162962
 date: 2025-01-26
-title: What are the advantages of using random sampling in biostatistics?
-article_title: What are the advantages of using random sampling in biostatistics?
+title: >-
+    What are the advantages of using random sampling in biostatistics?
+article_title: >-
+    What are the advantages of using random sampling in biostatistics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-random-sampling-in-biostatistics.md
 url: /learn/health-studies/questions/what-are-the-advantages-of-using-random-sampling-in-biostatistics
 score: -1.0
 related_article1:
-    id: 163016
-    title: What are the steps involved in forming a hypothesis for an epidemiologic investigation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
-related_article2:
     id: 162964
-    title: What is the significance of the null hypothesis in hypothesis testing?
+    title: >-
+        What is the significance of the null hypothesis in hypothesis testing?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
+related_article2:
+    id: 162977
+    title: >-
+        What is the significance of confidence intervals in the estimation process of epidemiologic research?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 related_article3:
-    id: 162963
-    title: How does random error differ from measurement error in epidemiologic studies?
+    id: 163019
+    title: >-
+        What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-random-error-differ-from-measurement-error-in-epidemiologic-studies
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 related_article4:
-    id: 162975
-    title: What are the common sources of random error in epidemiologic studies, and how can they be reduced?
+    id: 163017
+    title: >-
+        How is the PICO framework used to structure clinical research questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-sources-of-random-error-in-epidemiologic-studies-and-how-can-they-be-reduced
+    url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
 related_article5:
-    id: 162960
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    id: 162970
+    title: >-
+        What are the key components of the PICO framework in clinical research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+    url: /learn/health-studies/questions/what-are-the-key-components-of-the-pico-framework-in-clinical-research
 ---
 
 &nbsp;

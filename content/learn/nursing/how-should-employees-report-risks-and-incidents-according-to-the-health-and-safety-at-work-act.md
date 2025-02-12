@@ -2,8 +2,10 @@
 _schema: default
 id: 169498
 date: 2025-02-05
-title: How should employees report risks and incidents according to the Health and Safety at Work Act?
-article_title: How should employees report risks and incidents according to the Health and Safety at Work Act?
+title: >-
+    How should employees report risks and incidents according to the Health and Safety at Work Act?
+article_title: >-
+    How should employees report risks and incidents according to the Health and Safety at Work Act?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-employees-report-risks-and-incidents-according-to-the-heal
 url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
 score: -1.0
 related_article1:
-    id: 169509
-    title: How should patient dignity be maintained during handling in care settings?
-    subject: Nursing
-    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
-related_article2:
-    id: 169508
-    title: How can hazards be identified and controlled in a risk assessment?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
-related_article3:
-    id: 169509
-    title: How should patient dignity be maintained during handling in care settings?
-    subject: Nursing
-    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
-related_article4:
     id: 169503
-    title: What is the role of the Health and Safety Executive in workplace safety?
+    title: >-
+        What is the role of the Health and Safety Executive in workplace safety?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
-related_article5:
-    id: 169511
-    title: What are the guidelines for safe operation of hoist and sit to stand equipment?
+related_article2:
+    id: 169506
+    title: >-
+        What training responsibilities do employers have under the duty of care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
+    url: /learn/nursing/questions/what-training-responsibilities-do-employers-have-under-the-duty-of-care
+related_article3:
+    id: 169502
+    title: >-
+        How does the TILE risk assessment model evaluate individual capability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-tile-risk-assessment-model-evaluate-individual-capability
+related_article4:
+    id: 169508
+    title: >-
+        How can hazards be identified and controlled in a risk assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
+related_article5:
+    id: 169505
+    title: >-
+        What are the employee's duties in reporting faulty equipment under the duty of care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169100
 date: 2025-02-04
-title: What is the impact of conflict on military architecture?
-article_title: What is the impact of conflict on military architecture?
+title: >-
+    What is the impact of conflict on military architecture?
+article_title: >-
+    What is the impact of conflict on military architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-impact-of-conflict-on-military-architecture.md
 url: /learn/history-of-the-world/questions/what-is-the-impact-of-conflict-on-military-architecture
 score: 9.0
 related_article1:
-    id: 169082
-    title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
+    id: 169104
+    title: >-
+        What challenges do military training and education face in institutional conflicts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
+    url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
 related_article2:
-    id: 169088
-    title: What is the significance of geopolitical architecture in the military-architectural relationship?
+    id: 169101
+    title: >-
+        How does geopolitical architecture affect urban infrastructure analysis?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
+    url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
 related_article3:
-    id: 169085
-    title: What role does spatial reinterpretation play in urban combat strategies?
+    id: 169094
+    title: >-
+        What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
 related_article4:
-    id: 169091
-    title: How do swarming tactics enhance military tactics in urban environments?
+    id: 169094
+    title: >-
+        What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-military-tactics-in-urban-environments
+    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
 related_article5:
-    id: 169082
-    title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
+    id: 169083
+    title: >-
+        How do swarming tactics differ from traditional military tactics in urban warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
 ---
 
 &nbsp;

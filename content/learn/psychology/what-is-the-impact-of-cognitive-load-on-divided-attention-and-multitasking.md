@@ -2,8 +2,10 @@
 _schema: default
 id: 164748
 date: 2025-01-28
-title: What is the impact of cognitive load on divided attention and multitasking?
-article_title: What is the impact of cognitive load on divided attention and multitasking?
+title: >-
+    What is the impact of cognitive load on divided attention and multitasking?
+article_title: >-
+    What is the impact of cognitive load on divided attention and multitasking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-impact-of-cognitive-load-on-divided-attention-and-multita
 url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
 score: -1.0
 related_article1:
-    id: 164770
-    title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+    id: 164760
+    title: >-
+        What is the role of object recognition in object-based attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
 related_article2:
     id: 164746
-    title: How does scene schema influence visual search in selective attention?
+    title: >-
+        How does scene schema influence visual search in selective attention?
     subject: Psychology
     url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
 related_article3:
-    id: 164767
-    title: What are phosphenes, and how are they related to TMS studies of attention?
+    id: 164768
+    title: >-
+        How does salience detection contribute to attention allocation in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+    url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
 related_article4:
-    id: 164767
-    title: What are phosphenes, and how are they related to TMS studies of attention?
+    id: 164760
+    title: >-
+        What is the role of object recognition in object-based attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
 related_article5:
-    id: 164767
-    title: What are phosphenes, and how are they related to TMS studies of attention?
+    id: 164755
+    title: >-
+        How does the visual cortex contribute to bottom-up attention processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168954
 date: 2025-02-04
-title: What factors influence membrane permeability, and how does phospholipid composition play a role?
-article_title: What factors influence membrane permeability, and how does phospholipid composition play a role?
+title: >-
+    What factors influence membrane permeability, and how does phospholipid composition play a role?
+article_title: >-
+    What factors influence membrane permeability, and how does phospholipid composition play a role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-membrane-permeability-and-how-does-phospholipi
 url: /learn/health-studies/questions/what-factors-influence-membrane-permeability-and-how-does-phospholipid-composition-play-a-role
 score: -1.0
 related_article1:
-    id: 168960
-    title: Define endocytosis and exocytosis and explain their roles in cellular transport.
-    subject: Health Studies
-    url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
-related_article2:
-    id: 168959
-    title: What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-is-it-necessary-for-cellular-function
-related_article3:
-    id: 168950
-    title: What are amphipathic molecules, and why are they important in membrane formation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-formation
-related_article4:
     id: 168949
-    title: How do saturated and unsaturated fatty acids influence membrane fluidity?
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
-related_article5:
-    id: 168944
-    title: What are the key functional groups found in biomolecules, and how do they influence molecular properties?
+related_article2:
+    id: 168957
+    title: >-
+        What are ion channels, and how do they utilize electric chemical gradients to function?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-they-influence-molecular-properties
+    url: /learn/health-studies/questions/what-are-ion-channels-and-how-do-they-utilize-electric-chemical-gradients-to-function
+related_article3:
+    id: 168945
+    title: >-
+        How do polar and non-polar groups affect the solubility and interaction of biomolecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
+related_article4:
+    id: 168945
+    title: >-
+        How do polar and non-polar groups affect the solubility and interaction of biomolecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
+related_article5:
+    id: 168957
+    title: >-
+        What are ion channels, and how do they utilize electric chemical gradients to function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-ion-channels-and-how-do-they-utilize-electric-chemical-gradients-to-function
 ---
 
 &nbsp;

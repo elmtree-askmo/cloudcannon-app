@@ -2,8 +2,10 @@
 _schema: default
 id: 167987
 date: 2025-02-02
-title: Explain the processes of assimilation and accommodation in cognitive development.
-article_title: Explain the processes of assimilation and accommodation in cognitive development.
+title: >-
+    Explain the processes of assimilation and accommodation in cognitive development.
+article_title: >-
+    Explain the processes of assimilation and accommodation in cognitive development.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-processes-of-assimilation-and-accommodation-in-cognitive-
 url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
 score: -1.0
 related_article1:
+    id: 167991
+    title: >-
+        How do culture and environment influence the onset and progression of Piaget's stages of development?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-culture-and-environment-influence-the-onset-and-progression-of-piagets-stages-of-development
+related_article2:
     id: 167986
-    title: What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
+    title: >-
+        What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-innate-drive-for-equilibrium-in-cognitive-development-and-how-does-it-motivate-adaptation
-related_article2:
-    id: 167989
-    title: Provide an example of how a cognitive schema might be adapted through assimilation and accommodation.
-    subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-how-a-cognitive-schema-might-be-adapted-through-assimilation-and-accommodation
 related_article3:
-    id: 167985
-    title: How does environmental interaction contribute to the active learning process in constructivist theory?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-environmental-interaction-contribute-to-the-active-learning-process-in-constructivist-theory
-related_article4:
     id: 167993
-    title: How do social interactions, particularly with peers, impact cognitive development according to critiques of Piaget's theory?
+    title: >-
+        How do social interactions, particularly with peers, impact cognitive development according to critiques of Piaget's theory?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-social-interactions-particularly-with-peers-impact-cognitive-development-according-to-critiques-of-piagets-theory
-related_article5:
-    id: 167989
-    title: Provide an example of how a cognitive schema might be adapted through assimilation and accommodation.
+related_article4:
+    id: 167984
+    title: >-
+        What is the role of biological maturation in cognitive development according to constructivist theory?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-how-a-cognitive-schema-might-be-adapted-through-assimilation-and-accommodation
+    url: /learn/education-studies/questions/what-is-the-role-of-biological-maturation-in-cognitive-development-according-to-constructivist-theory
+related_article5:
+    id: 167986
+    title: >-
+        What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-innate-drive-for-equilibrium-in-cognitive-development-and-how-does-it-motivate-adaptation
 ---
 
 &nbsp;

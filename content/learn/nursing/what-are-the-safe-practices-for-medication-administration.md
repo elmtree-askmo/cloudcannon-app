@@ -2,8 +2,10 @@
 _schema: default
 id: 169569
 date: 2025-02-05
-title: What are the safe practices for medication administration?
-article_title: What are the safe practices for medication administration?
+title: >-
+    What are the safe practices for medication administration?
+article_title: >-
+    What are the safe practices for medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-safe-practices-for-medication-administration.md
 url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
 score: -1.0
 related_article1:
-    id: 169581
-    title: What is the importance of understanding team dynamics in healthcare?
+    id: 169565
+    title: >-
+        How is competence defined and assessed in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
 related_article2:
-    id: 169563
-    title: What is the role of supervisors in healthcare settings?
+    id: 169582
+    title: >-
+        How do patient care standards ensure patient safety and accountability?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-settings
+    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
 related_article3:
-    id: 169579
-    title: What are the primary responsibilities of student nurses in patient care?
+    id: 169574
+    title: >-
+        How does supervision aid in effective risk management?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
 related_article4:
-    id: 169577
-    title: Why is effective communication important in healthcare?
+    id: 169567
+    title: >-
+        What is the role of professional responsibility in medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
+    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
 related_article5:
-    id: 169556
-    title: How does supervision contribute to accountability in healthcare?
+    id: 169572
+    title: >-
+        How does patient assessment contribute to ensuring patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
 ---
 
 &nbsp;

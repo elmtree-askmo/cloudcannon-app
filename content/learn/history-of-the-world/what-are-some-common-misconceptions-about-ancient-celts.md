@@ -2,8 +2,10 @@
 _schema: default
 id: 159726
 date: 2025-01-23
-title: What are some common misconceptions about ancient Celts?
-article_title: What are some common misconceptions about ancient Celts?
+title: >-
+    What are some common misconceptions about ancient Celts?
+article_title: >-
+    What are some common misconceptions about ancient Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-misconceptions-about-ancient-celts.md
 url: /learn/history-of-the-world/questions/what-are-some-common-misconceptions-about-ancient-celts
 score: 8.5
 related_article1:
-    id: 159695
-    title: How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
+    id: 159727
+    title: >-
+        How did Druidic practices influence Celtic religions and beliefs?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
+    url: /learn/history-of-the-world/questions/how-did-druidic-practices-influence-celtic-religions-and-beliefs
 related_article2:
-    id: 159730
-    title: What are the key characteristics of the Hallstatt culture in Celtic material culture?
+    id: 159694
+    title: >-
+        What are the defining features of La Tène art and how did it influence Celtic art?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-the-hallstatt-culture-in-celtic-material-culture
+    url: /learn/history-of-the-world/questions/what-are-the-defining-features-of-la-tne-art-and-how-did-it-influence-celtic-art
 related_article3:
+    id: 159728
+    title: >-
+        What role did the comparative method in linguistics play in understanding the evolution of Celtic languages?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-the-comparative-method-in-linguistics-play-in-understanding-the-evolution-of-celtic-languages
+related_article4:
+    id: 159734
+    title: >-
+        What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-a-militaristic-and-stratified-society
+related_article5:
     id: 159693
-    title: How did trade with Mediterranean civilizations impact the Celtic economy?
+    title: >-
+        How did trade with Mediterranean civilizations impact the Celtic economy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-trade-with-mediterranean-civilizations-impact-the-celtic-economy
-related_article4:
-    id: 159730
-    title: What are the key characteristics of the Hallstatt culture in Celtic material culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-the-hallstatt-culture-in-celtic-material-culture
-related_article5:
-    id: 159729
-    title: How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
 ---
 
 &nbsp;

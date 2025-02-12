@@ -2,8 +2,10 @@
 _schema: default
 id: 164244
 date: 2025-01-28
-title: How do brain networks support cognitive processes?
-article_title: How do brain networks support cognitive processes?
+title: >-
+    How do brain networks support cognitive processes?
+article_title: >-
+    How do brain networks support cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-brain-networks-support-cognitive-processes.md
 url: /learn/psychology/questions/how-do-brain-networks-support-cognitive-processes
 score: -1.0
 related_article1:
-    id: 164233
-    title: What are the key differences between temporal and spatial resolution in fMRI?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
-related_article2:
     id: 164235
-    title: What role does fMRI play in cognitive neuroscience research?
+    title: >-
+        What role does fMRI play in cognitive neuroscience research?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
-related_article3:
-    id: 164231
-    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
-related_article4:
-    id: 164231
-    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
-related_article5:
+related_article2:
     id: 164237
-    title: What is the function of the motor cortex in the brain?
+    title: >-
+        What is the function of the motor cortex in the brain?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+related_article3:
+    id: 164233
+    title: >-
+        What are the key differences between temporal and spatial resolution in fMRI?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-temporal-and-spatial-resolution-in-fmri
+related_article4:
+    id: 164239
+    title: >-
+        Why are dependent variables crucial in experimental research?
+    subject: Psychology
+    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+related_article5:
+    id: 164245
+    title: >-
+        What is neural plasticity and how does it affect cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
 ---
 
 &nbsp;

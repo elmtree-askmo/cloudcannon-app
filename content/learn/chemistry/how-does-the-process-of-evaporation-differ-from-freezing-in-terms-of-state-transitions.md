@@ -2,8 +2,10 @@
 _schema: default
 id: 162023
 date: 2025-01-24
-title: How does the process of evaporation differ from freezing in terms of state transitions?
-article_title: How does the process of evaporation differ from freezing in terms of state transitions?
+title: >-
+    How does the process of evaporation differ from freezing in terms of state transitions?
+article_title: >-
+    How does the process of evaporation differ from freezing in terms of state transitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-
 url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
 score: -1.0
 related_article1:
-    id: 161974
-    title: How does the appearance of a substance relate to its physical properties?
+    id: 161988
+    title: >-
+        How can the formation of a solid in a precipitation reaction be identified?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+    url: /learn/chemistry/questions/how-can-the-formation-of-a-solid-in-a-precipitation-reaction-be-identified
 related_article2:
-    id: 161756
-    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    id: 162033
+    title: >-
+        What is the significance of state changes in physical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
 related_article3:
-    id: 161945
-    title: What is the significance of balancing chemical equations in chemical reactions?
+    id: 161982
+    title: >-
+        What are the effects of ionization on the state of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
 related_article4:
-    id: 161751
-    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    id: 162061
+    title: >-
+        How does the reactivity of oxygen influence its chemical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
 related_article5:
-    id: 161763
-    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    id: 161927
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

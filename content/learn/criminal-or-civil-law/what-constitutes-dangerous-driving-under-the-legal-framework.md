@@ -2,8 +2,10 @@
 _schema: default
 id: 162860
 date: 2025-01-25
-title: What constitutes dangerous driving under the legal framework?
-article_title: What constitutes dangerous driving under the legal framework?
+title: >-
+    What constitutes dangerous driving under the legal framework?
+article_title: >-
+    What constitutes dangerous driving under the legal framework?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-constitutes-dangerous-driving-under-the-legal-framework.md
 url: /learn/criminal-or-civil-law/questions/what-constitutes-dangerous-driving-under-the-legal-framework
 score: -1.0
 related_article1:
-    id: 162863
-    title: What role does intent play in cases of criminal negligence in driving?
+    id: 162877
+    title: >-
+        How do cultural and legal differences impact international driving norms?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-role-does-intent-play-in-cases-of-criminal-negligence-in-driving
+    url: /learn/criminal-or-civil-law/questions/how-do-cultural-and-legal-differences-impact-international-driving-norms
 related_article2:
-    id: 162882
-    title: How are legal standards of care applied in traffic law?
+    id: 162871
+    title: >-
+        What are the key differences between recklessness and negligence in traffic law?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-recklessness-and-negligence-in-traffic-law
 related_article3:
-    id: 162876
-    title: What legal measures can enhance traffic safety?
+    id: 162883
+    title: >-
+        What are the fundamental principles of criminal law, and how do they apply to traffic law?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-legal-measures-can-enhance-traffic-safety
+    url: /learn/criminal-or-civil-law/questions/what-are-the-fundamental-principles-of-criminal-law-and-how-do-they-apply-to-traffic-law
 related_article4:
-    id: 162870
-    title: How is recklessness legally defined in traffic law, and what are its consequences?
+    id: 162859
+    title: >-
+        What factors are considered when assessing the reasonableness of a driver's behavior?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-recklessness-legally-defined-in-traffic-law-and-what-are-its-consequences
+    url: /learn/criminal-or-civil-law/questions/what-factors-are-considered-when-assessing-the-reasonableness-of-a-drivers-behavior
 related_article5:
-    id: 162873
-    title: What are the legal outcomes of dangerous driving and negligence in traffic offenses?
+    id: 162869
+    title: >-
+        What are the consequences of breaching a legal duty in driving?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-outcomes-of-dangerous-driving-and-negligence-in-traffic-offenses
+    url: /learn/criminal-or-civil-law/questions/what-are-the-consequences-of-breaching-a-legal-duty-in-driving
 ---
 
 &nbsp;

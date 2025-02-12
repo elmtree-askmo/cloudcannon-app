@@ -2,8 +2,10 @@
 _schema: default
 id: 168629
 date: 2025-02-03
-title: What are the key characteristics and purposes of narrative writing?
-article_title: What are the key characteristics and purposes of narrative writing?
+title: >-
+    What are the key characteristics and purposes of narrative writing?
+article_title: >-
+    What are the key characteristics and purposes of narrative writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-and-purposes-of-narrative-writing.md
 url: /learn/education-studies/questions/what-are-the-key-characteristics-and-purposes-of-narrative-writing
 score: -1.0
 related_article1:
-    id: 168648
-    title: How does grammar impact the clarity and professionalism of writing?
+    id: 168638
+    title: >-
+        In what professional settings are narrative reports commonly utilized?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
+    url: /learn/education-studies/questions/in-what-professional-settings-are-narrative-reports-commonly-utilized
 related_article2:
-    id: 168634
-    title: In what professional contexts is expository writing most commonly used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-professional-contexts-is-expository-writing-most-commonly-used
-related_article3:
-    id: 168650
-    title: What are the essential components of a research report, and how do they contribute to its purpose?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-research-report-and-how-do-they-contribute-to-its-purpose
-related_article4:
     id: 168647
-    title: What are some common techniques used in creative writing to develop characters?
+    title: >-
+        What are some common techniques used in creative writing to develop characters?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-creative-writing-to-develop-characters
-related_article5:
-    id: 168639
-    title: How does storytelling enhance communication and audience engagement?
+related_article3:
+    id: 168632
+    title: >-
+        How does the purpose of persuasive writing influence its effectiveness?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-storytelling-enhance-communication-and-audience-engagement
+    url: /learn/education-studies/questions/how-does-the-purpose-of-persuasive-writing-influence-its-effectiveness
+related_article4:
+    id: 168636
+    title: >-
+        How do anecdotes and personal experiences enhance a personal narrative?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-anecdotes-and-personal-experiences-enhance-a-personal-narrative
+related_article5:
+    id: 168638
+    title: >-
+        In what professional settings are narrative reports commonly utilized?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-professional-settings-are-narrative-reports-commonly-utilized
 ---
 
 &nbsp;

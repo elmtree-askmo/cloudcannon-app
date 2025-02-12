@@ -2,8 +2,10 @@
 _schema: default
 id: 170629
 date: 2025-02-06
-title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
-article_title: Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+title: >-
+    Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
+article_title: >-
+    Discuss the role of altruistic tendencies in shaping INFPs' humanitarian values and relationship dynamics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitari
 url: /learn/psychology/questions/discuss-the-role-of-altruistic-tendencies-in-shaping-infps-humanitarian-values-and-relationship-dynamics
 score: -1.0
 related_article1:
-    id: 170620
-    title: How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+    id: 170630
+    title: >-
+        In what ways do INFPs express their creativity, and how does this relate to their self-reflection and pursuit of the greater good?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
+    url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
 related_article2:
-    id: 170633
-    title: What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
-related_article3:
-    id: 170621
-    title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
-    subject: Psychology
-    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
-related_article4:
-    id: 170623
-    title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
-related_article5:
     id: 170619
-    title: What are the key personality traits of an INFP, and how do they manifest in their behavior?
+    title: >-
+        What are the key personality traits of an INFP, and how do they manifest in their behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
+related_article3:
+    id: 170626
+    title: >-
+        Compare and contrast thinking and feeling as decision-making processes in personality types.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-and-contrast-thinking-and-feeling-as-decisionmaking-processes-in-personality-types
+related_article4:
+    id: 170624
+    title: >-
+        Describe the differences between introversion and extroversion, and how these traits might manifest in an individual's behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-differences-between-introversion-and-extroversion-and-how-these-traits-might-manifest-in-an-individuals-behavior
+related_article5:
+    id: 170620
+    title: >-
+        How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
 ---
 
 &nbsp;

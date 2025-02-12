@@ -2,8 +2,10 @@
 _schema: default
 id: 163625
 date: 2025-01-27
-title: What are the challenges of global dependencies in supply chains, particularly concerning resource availability and production delays?
-article_title: What are the challenges of global dependencies in supply chains, particularly concerning resource availability and production delays?
+title: >-
+    What are the challenges of global dependencies in supply chains, particularly concerning resource availability and production delays?
+article_title: >-
+    What are the challenges of global dependencies in supply chains, particularly concerning resource availability and production delays?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-of-global-dependencies-in-supply-chains-parti
 url: /learn/sociology/questions/what-are-the-challenges-of-global-dependencies-in-supply-chains-particularly-concerning-resource-availability-and-production-delays
 score: -1.0
 related_article1:
-    id: 163623
-    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    id: 163614
+    title: >-
+        How did the Industrial Revolution contribute to urbanization and shifts in labor?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+    url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
 related_article2:
-    id: 163610
-    title: What were the global impacts of the Icelandic volcano eruption and the COVID-19 pandemic?
+    id: 163617
+    title: >-
+        What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-global-impacts-of-the-icelandic-volcano-eruption-and-the-covid19-pandemic
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
 related_article3:
-    id: 163624
-    title: How do travel disruptions economically impact tourism and business travel?
+    id: 163612
+    title: >-
+        What role does cultural exchange play in globalization through cross-cultural interactions and global communication?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+    url: /learn/sociology/questions/what-role-does-cultural-exchange-play-in-globalization-through-crosscultural-interactions-and-global-communication
 related_article4:
-    id: 163617
-    title: What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    id: 163613
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
 related_article5:
-    id: 163617
-    title: What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    id: 163620
+    title: >-
+        How do natural disasters affect social aspects such as displacement and community resilience?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
+    url: /learn/sociology/questions/how-do-natural-disasters-affect-social-aspects-such-as-displacement-and-community-resilience
 ---
 
 &nbsp;

@@ -4,7 +4,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
     "key": "architecture"
   },
   {
-    "title": "Art history and literature",
+    "title": "Art History and Literature",
     "key": "art-history-and-literature"
   },
   {
@@ -19,16 +19,16 @@ export const TOP_QUESTIONS_SUBJECTS = [
     "title": "Biotechnology",
     "key": "biotechnology"
   },
-  // {
-  //   "title": "Chemistry",
-  //   "key": "chemistry"
-  // },
   {
-    "title": "Computer science",
+    "title": "Chemistry",
+    "key": "chemistry"
+  },
+  {
+    "title": "Computer Science",
     "key": "computer-science"
   },
   {
-    "title": "Criminal or civil law",
+    "title": "Criminal or Civil Law",
     "key": "criminal-or-civil-law"
   },
   {
@@ -36,7 +36,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
     "key": "economics"
   },
   {
-    "title": "Education studies",
+    "title": "Education Studies",
     "key": "education-studies"
   },
   {
@@ -44,19 +44,19 @@ export const TOP_QUESTIONS_SUBJECTS = [
     "key": "engineering"
   },
   {
-    "title": "Environmental science",
+    "title": "Environmental Science",
     "key": "environmental-science"
   },
   {
-    "title": "Health studies",
+    "title": "Health Studies",
     "key": "health-studies"
   },
   {
-    "title": "History of the world",
+    "title": "History of the World",
     "key": "history-of-the-world"
   },
   {
-    "title": "Marine biology",
+    "title": "Marine Biology",
     "key": "marine-biology"
   },
   {
@@ -76,7 +76,7 @@ export const TOP_QUESTIONS_SUBJECTS = [
     "key": "others"
   },
   {
-    "title": "Philosophy and greek myths",
+    "title": "Philosophy and Greek Myths",
     "key": "philosophy-and-greek-myths"
   },
   {

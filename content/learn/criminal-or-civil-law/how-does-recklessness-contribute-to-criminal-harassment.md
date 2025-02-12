@@ -2,8 +2,10 @@
 _schema: default
 id: 162194
 date: 2025-01-25
-title: How does recklessness contribute to criminal harassment?
-article_title: How does recklessness contribute to criminal harassment?
+title: >-
+    How does recklessness contribute to criminal harassment?
+article_title: >-
+    How does recklessness contribute to criminal harassment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-recklessness-contribute-to-criminal-harassment.md
 url: /learn/criminal-or-civil-law/questions/how-does-recklessness-contribute-to-criminal-harassment
 score: -1.0
 related_article1:
-    id: 162190
-    title: Explain the concept of willful blindness in the context of possession laws.
+    id: 162184
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
+    url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
 related_article2:
-    id: 162190
-    title: Explain the concept of willful blindness in the context of possession laws.
+    id: 162203
+    title: >-
+        In what ways does moral blameworthiness impact sentencing and legal proceedings?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
+    url: /learn/criminal-or-civil-law/questions/in-what-ways-does-moral-blameworthiness-impact-sentencing-and-legal-proceedings
 related_article3:
     id: 162184
-    title: How do firearm laws influence police conduct regarding the use of force?
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
 related_article4:
-    id: 162173
-    title: What is subjective recklessness and how does it differ from objective recklessness?
+    id: 162187
+    title: >-
+        What constitutes joint possession under possession laws?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-subjective-recklessness-and-how-does-it-differ-from-objective-recklessness
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-joint-possession-under-possession-laws
 related_article5:
-    id: 162174
-    title: How does foreseeability impact legal responsibility in criminal cases?
+    id: 162184
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-foreseeability-impact-legal-responsibility-in-criminal-cases
+    url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
 ---
 
 &nbsp;

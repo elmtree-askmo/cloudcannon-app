@@ -2,8 +2,10 @@
 _schema: default
 id: 167232
 date: 2025-01-31
-title: What are the primary functions of proteins in cells?
-article_title: What are the primary functions of proteins in cells?
+title: >-
+    What are the primary functions of proteins in cells?
+article_title: >-
+    What are the primary functions of proteins in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-proteins-in-cells.md
 url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
 score: -1.0
 related_article1:
-    id: 167234
-    title: What is the primary structure of a protein and how is it determined?
+    id: 167241
+    title: >-
+        Differentiate between acidic and basic R-groups.
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
+    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
 related_article2:
-    id: 167248
-    title: What are the common structural features of amino acids?
+    id: 167233
+    title: >-
+        How do molecular chaperones assist in protein folding?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
+    url: /learn/biochemistry/questions/how-do-molecular-chaperones-assist-in-protein-folding
 related_article3:
+    id: 167246
+    title: >-
+        Explain the process of peptide bond formation.
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+related_article4:
     id: 167247
-    title: How do R-group properties affect protein solubility?
+    title: >-
+        How do R-group properties affect protein solubility?
     subject: Biochemistry
     url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
-related_article4:
+related_article5:
     id: 167238
-    title: What is the significance of quaternary structure in proteins?
+    title: >-
+        What is the significance of quaternary structure in proteins?
     subject: Biochemistry
     url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
-related_article5:
-    id: 167248
-    title: What are the common structural features of amino acids?
-    subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
 ---
 
 &nbsp;

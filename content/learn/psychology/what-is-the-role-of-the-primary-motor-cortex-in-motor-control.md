@@ -2,8 +2,10 @@
 _schema: default
 id: 170482
 date: 2025-02-06
-title: What is the role of the primary motor cortex in motor control?
-article_title: What is the role of the primary motor cortex in motor control?
+title: >-
+    What is the role of the primary motor cortex in motor control?
+article_title: >-
+    What is the role of the primary motor cortex in motor control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-primary-motor-cortex-in-motor-control.md
 url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
 score: -1.0
 related_article1:
-    id: 170467
-    title: What are the characteristics of sagittal, coronal, and horizontal brain sections?
+    id: 170466
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
+    url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
 related_article2:
-    id: 170460
-    title: What are the primary differences between gray matter and white matter in the brain?
+    id: 170473
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 related_article3:
-    id: 170475
-    title: What are the causes and symptoms of an epidural hematoma?
+    id: 170461
+    title: >-
+        How do gyri and sulci contribute to brain function?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
 related_article4:
-    id: 170469
-    title: How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
+    id: 170485
+    title: >-
+        What are the key stages of prenatal and postnatal neurodevelopment?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
 related_article5:
-    id: 170462
-    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    id: 170483
+    title: >-
+        What are the components of a reflex arc in neural pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168566
 date: 2025-02-03
-title: How have seminal documents influenced American culture?
-article_title: How have seminal documents influenced American culture?
+title: >-
+    How have seminal documents influenced American culture?
+article_title: >-
+    How have seminal documents influenced American culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-seminal-documents-influenced-american-culture.md
 url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 score: 9.5
 related_article1:
-    id: 168583
-    title: What are the historical foundations of freedom, equality, and justice as reflected in seminal documents?
+    id: 168578
+    title: >-
+        How does tone shape the understanding of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-historical-foundations-of-freedom-equality-and-justice-as-reflected-in-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
 related_article2:
-    id: 168586
-    title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+    id: 168584
+    title: >-
+        How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
 related_article3:
-    id: 168572
-    title: How does word choice in seminal documents affect tone and meaning?
+    id: 168571
+    title: >-
+        What are the legal and social perspectives of justice as depicted in seminal texts?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
+    url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
 related_article4:
-    id: 168570
-    title: How has the concept of equality evolved in seminal documents over time?
+    id: 168579
+    title: >-
+        What is the tone of the Gettysburg Address, and how does it contribute to its message?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-the-concept-of-equality-evolved-in-seminal-documents-over-time
+    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
 related_article5:
-    id: 168575
-    title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+    id: 168577
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166572
 date: 2025-01-30
-title: How did the public initially react to the first Impressionist exhibition?
-article_title: How did the public initially react to the first Impressionist exhibition?
+title: >-
+    How did the public initially react to the first Impressionist exhibition?
+article_title: >-
+    How did the public initially react to the first Impressionist exhibition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-public-initially-react-to-the-first-impressionist-exhibit
 url: /learn/art-history-and-literature/questions/how-did-the-public-initially-react-to-the-first-impressionist-exhibition
 score: 8.5
 related_article1:
-    id: 166575
-    title: What social classes and power dynamics were critiqued through cultural commentary in art during this period?
+    id: 166571
+    title: >-
+        What were the main themes of Impressionism, and how did they reflect urban and suburban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-social-classes-and-power-dynamics-were-critiqued-through-cultural-commentary-in-art-during-this-period
+    url: /learn/art-history-and-literature/questions/what-were-the-main-themes-of-impressionism-and-how-did-they-reflect-urban-and-suburban-life
 related_article2:
-    id: 166575
-    title: What social classes and power dynamics were critiqued through cultural commentary in art during this period?
+    id: 166571
+    title: >-
+        What were the main themes of Impressionism, and how did they reflect urban and suburban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-social-classes-and-power-dynamics-were-critiqued-through-cultural-commentary-in-art-during-this-period
+    url: /learn/art-history-and-literature/questions/what-were-the-main-themes-of-impressionism-and-how-did-they-reflect-urban-and-suburban-life
 related_article3:
-    id: 166570
-    title: How did photography influence the development of Realism in art?
+    id: 166566
+    title: >-
+        How did the Hausmann renovations impact the social patterns in Parisian society?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
 related_article4:
-    id: 166576
-    title: How did artists respond to the themes of modernity and urbanization in their work?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
-related_article5:
     id: 166569
-    title: What are the key characteristics of Realism in art, and how did it address the class divide?
+    title: >-
+        What are the key characteristics of Realism in art, and how did it address the class divide?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
+related_article5:
+    id: 166566
+    title: >-
+        How did the Hausmann renovations impact the social patterns in Parisian society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168150
 date: 2025-02-02
-title: What are the core principles of environmental justice, and how do they relate to sustainability?
-article_title: What are the core principles of environmental justice, and how do they relate to sustainability?
+title: >-
+    What are the core principles of environmental justice, and how do they relate to sustainability?
+article_title: >-
+    What are the core principles of environmental justice, and how do they relate to sustainability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-core-principles-of-environmental-justice-and-how-do-they
 url: /learn/education-studies/questions/what-are-the-core-principles-of-environmental-justice-and-how-do-they-relate-to-sustainability
 score: -1.0
 related_article1:
-    id: 168148
-    title: What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
+    id: 168153
+    title: >-
+        How do control experiments and the use of treatment and control groups contribute to effective experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-the-anthropocene-and-how-do-they-illustrate-human-effects-on-the-biosphere
+    url: /learn/education-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
 related_article2:
-    id: 168159
-    title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+    id: 168151
+    title: >-
+        How does the scientific method guide the process of inquiry and hypothesis formation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
+    url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
 related_article3:
-    id: 168149
-    title: How do local and global impacts of human activities differ in the context of the Anthropocene?
+    id: 168162
+    title: >-
+        What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
+    url: /learn/education-studies/questions/what-assumptions-about-sensory-perception-and-predictability-are-made-in-scientific-studies-of-environmental-systems
 related_article4:
-    id: 168158
-    title: What are the primary causes of deforestation, and how does it impact biodiversity and human activities?
+    id: 168154
+    title: >-
+        What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-causes-of-deforestation-and-how-does-it-impact-biodiversity-and-human-activities
+    url: /learn/education-studies/questions/what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and-how-do-symbiotic-relationships-play-a-role
 related_article5:
-    id: 168160
-    title: What is the role of predictive modeling in ecological studies, and how do hindcasting and forecasting differ?
+    id: 168162
+    title: >-
+        What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-predictive-modeling-in-ecological-studies-and-how-do-hindcasting-and-forecasting-differ
+    url: /learn/education-studies/questions/what-assumptions-about-sensory-perception-and-predictability-are-made-in-scientific-studies-of-environmental-systems
 ---
 
 &nbsp;

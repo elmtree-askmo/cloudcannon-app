@@ -2,8 +2,10 @@
 _schema: default
 id: 164968
 date: 2025-01-28
-title: What are the challenges of irregular spelling in relation to surface alexia?
-article_title: What are the challenges of irregular spelling in relation to surface alexia?
+title: >-
+    What are the challenges of irregular spelling in relation to surface alexia?
+article_title: >-
+    What are the challenges of irregular spelling in relation to surface alexia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-
 url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
 score: -1.0
 related_article1:
-    id: 164967
-    title: How do semantic networks and language systems interact within memory systems?
+    id: 164978
+    title: >-
+        What are the characteristics of deep dyslexia, and how does it differ from phonological dyslexia?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-semantic-networks-and-language-systems-interact-within-memory-systems
+    url: /learn/psychology/questions/what-are-the-characteristics-of-deep-dyslexia-and-how-does-it-differ-from-phonological-dyslexia
 related_article2:
-    id: 164971
-    title: Explain the logographic nature of the Chinese language structure and its implications for language processing.
+    id: 164977
+    title: >-
+        Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-logographic-nature-of-the-chinese-language-structure-and-its-implications-for-language-processing
+    url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
 related_article3:
-    id: 164956
-    title: What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
+    id: 164957
+    title: >-
+        Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-causes-of-acquired-dyslexia-and-alexia-and-how-is-the-angular-gyrus-involved
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
 related_article4:
-    id: 164956
-    title: What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
+    id: 164957
+    title: >-
+        Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-causes-of-acquired-dyslexia-and-alexia-and-how-is-the-angular-gyrus-involved
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
 related_article5:
     id: 164958
-    title: Explain the phonological route to reading and how it relates to phonological dyslexia.
+    title: >-
+        Explain the phonological route to reading and how it relates to phonological dyslexia.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
 ---

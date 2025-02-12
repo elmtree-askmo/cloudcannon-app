@@ -2,8 +2,10 @@
 _schema: default
 id: 170494
 date: 2025-02-06
-title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
-article_title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+title: >-
+    What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+article_title: >-
+    What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-an
 url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
 score: -1.0
 related_article1:
-    id: 170499
-    title: How does synaptic plasticity contribute to neuroplasticity?
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
 related_article2:
-    id: 170493
-    title: How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
+    id: 170498
+    title: >-
+        What mechanisms are involved in the modulation of pain perception?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
 related_article3:
-    id: 170491
-    title: Explain the role of glial cells in maintaining the blood-brain barrier.
+    id: 170498
+    title: >-
+        What mechanisms are involved in the modulation of pain perception?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
+    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
 related_article4:
-    id: 170496
-    title: What is the clinical significance of the Babinski test in neurological assessment?
+    id: 170487
+    title: >-
+        How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
-related_article5:
-    id: 170491
-    title: Explain the role of glial cells in maintaining the blood-brain barrier.
-    subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 ---
 
 &nbsp;

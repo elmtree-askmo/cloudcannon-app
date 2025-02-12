@@ -2,8 +2,10 @@
 _schema: default
 id: 165764
 date: 2025-01-29
-title: What is the primary role of the transport layer in network communication?
-article_title: What is the primary role of the transport layer in network communication?
+title: >-
+    What is the primary role of the transport layer in network communication?
+article_title: >-
+    What is the primary role of the transport layer in network communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-role-of-the-transport-layer-in-network-communicat
 url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
 score: -1.0
 related_article1:
-    id: 165779
-    title: What information is contained in the TCP header fields related to sequence and acknowledgment?
+    id: 165771
+    title: >-
+        How does TCP ensure reliable and same-order delivery of data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
+    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
 related_article2:
-    id: 165775
-    title: What mechanisms does TCP use for flow control and congestion avoidance?
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
 related_article3:
-    id: 165773
-    title: What is the significance of the simplicity and low overhead of the UDP header?
+    id: 165785
+    title: >-
+        How does UDP handle port number assignment and datagram forwarding?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
+    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
 related_article4:
-    id: 165772
-    title: What are the key features of the UDP protocol that differentiate it from TCP?
+    id: 165770
+    title: >-
+        What are the basic operations of the TCP protocol in managing data transmission?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-the-udp-protocol-that-differentiate-it-from-tcp
+    url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
 related_article5:
-    id: 165781
-    title: How does the TCP communication process establish and terminate sessions?
+    id: 165767
+    title: >-
+        How does the transport layer handle segmenting and reassembling data?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
+    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160620
 date: 2025-01-24
-title: How do economic forces and political actions influence urban transformations in human geography?
-article_title: How do economic forces and political actions influence urban transformations in human geography?
+title: >-
+    How do economic forces and political actions influence urban transformations in human geography?
+article_title: >-
+    How do economic forces and political actions influence urban transformations in human geography?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-economic-forces-and-political-actions-influence-urban-transfor
 url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 score: -1.0
 related_article1:
-    id: 160232
-    title: Describe the interaction between natural landscapes and environmental processes in physical systems.
+    id: 160220
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-interaction-between-natural-landscapes-and-environmental-processes-in-physical-systems
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 related_article2:
-    id: 160562
-    title: What role do international cooperation and diplomatic relations play in political alliances?
+    id: 160546
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-international-cooperation-and-diplomatic-relations-play-in-political-alliances
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 related_article3:
-    id: 160234
-    title: What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
+    id: 160558
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article4:
+    id: 160641
+    title: >-
+        How do trade relations and global supply chains contribute to global economic networks?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
+related_article5:
     id: 160557
-    title: What are the practical tools necessary for effective data collection and analysis techniques?
+    title: >-
+        What are the practical tools necessary for effective data collection and analysis techniques?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
-related_article5:
-    id: 160551
-    title: How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
 ---
 
 &nbsp;

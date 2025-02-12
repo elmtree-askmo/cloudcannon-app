@@ -2,8 +2,10 @@
 _schema: default
 id: 169107
 date: 2025-02-04
-title: How did postwar developments impact gendered labor dynamics in architecture?
-article_title: How did postwar developments impact gendered labor dynamics in architecture?
+title: >-
+    How did postwar developments impact gendered labor dynamics in architecture?
+article_title: >-
+    How did postwar developments impact gendered labor dynamics in architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-postwar-developments-impact-gendered-labor-dynamics-in-archit
 url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
 score: 9.0
 related_article1:
-    id: 169118
-    title: What are the effects of transnational capitalism on gender dynamics in architecture?
+    id: 169124
+    title: >-
+        What contributions have women made to urban development and public housing?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
 related_article2:
-    id: 169106
-    title: What were some of the challenges faced by women in architecture during the early 20th century?
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 related_article3:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    id: 169111
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
 related_article4:
-    id: 169119
-    title: How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
+    id: 169125
+    title: >-
+        How does feminist historiography aim to rewrite women's roles in architectural history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
+    url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
 related_article5:
-    id: 169119
-    title: How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
+    id: 169121
+    title: >-
+        How is interior design considered a gendered field within architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
+    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
 ---
 
 &nbsp;

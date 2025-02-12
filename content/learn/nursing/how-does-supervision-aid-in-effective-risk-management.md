@@ -2,8 +2,10 @@
 _schema: default
 id: 169574
 date: 2025-02-05
-title: How does supervision aid in effective risk management?
-article_title: How does supervision aid in effective risk management?
+title: >-
+    How does supervision aid in effective risk management?
+article_title: >-
+    How does supervision aid in effective risk management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-supervision-aid-in-effective-risk-management.md
 url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
 score: -1.0
 related_article1:
-    id: 169564
-    title: Why is supervision particularly important for student nurses?
+    id: 169580
+    title: >-
+        How does supervision support student nurses in fulfilling their responsibilities?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
 related_article2:
+    id: 169577
+    title: >-
+        Why is effective communication important in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
+related_article3:
     id: 169573
-    title: What are the steps involved in identifying and managing risks in healthcare?
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
-related_article3:
+related_article4:
+    id: 169579
+    title: >-
+        What are the primary responsibilities of student nurses in patient care?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+related_article5:
     id: 169558
-    title: Why is the duty of care important for patient safety?
+    title: >-
+        Why is the duty of care important for patient safety?
     subject: Nursing
     url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
-related_article4:
-    id: 169566
-    title: What are some ways to build competence through experience?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
-related_article5:
-    id: 169578
-    title: How does communication impact delegation and accountability?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163603
 date: 2025-01-27
-title: What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
-article_title: What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
+title: >-
+    What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
+article_title: >-
+    What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-role-of-religion-and-mythology-in-spartan-culture-partic
 url: /learn/history-of-the-world/questions/what-was-the-role-of-religion-and-mythology-in-spartan-culture-particularly-the-worship-of-athena
 score: 9.0
 related_article1:
-    id: 163599
-    title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+    id: 163598
+    title: >-
+        What was the significance of Spartan military training in Greek warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
 related_article2:
-    id: 163595
-    title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
+    id: 163600
+    title: >-
+        What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
+    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
 related_article3:
-    id: 163599
-    title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+    id: 163593
+    title: >-
+        Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
+    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
 related_article4:
-    id: 163607
-    title: What themes and motifs are prevalent in Spartan literature and poetry?
+    id: 163606
+    title: >-
+        How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
+    url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
 related_article5:
-    id: 163605
-    title: What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+    id: 163602
+    title: >-
+        How did Spartan art and architecture influence Greek art?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
+    url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
 ---
 
 &nbsp;

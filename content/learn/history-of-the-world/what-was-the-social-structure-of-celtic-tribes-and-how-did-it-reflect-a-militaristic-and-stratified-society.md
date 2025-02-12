@@ -2,8 +2,10 @@
 _schema: default
 id: 159734
 date: 2025-01-23
-title: What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
-article_title: What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
+title: >-
+    What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
+article_title: >-
+    What was the social structure of Celtic tribes and how did it reflect a militaristic and stratified society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect
 url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-a-militaristic-and-stratified-society
 score: 9.0
 related_article1:
-    id: 159728
-    title: What role did the comparative method in linguistics play in understanding the evolution of Celtic languages?
+    id: 159691
+    title: >-
+        How did the origins in Hallstatt contribute to Celtic migration and influence in Europe?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-comparative-method-in-linguistics-play-in-understanding-the-evolution-of-celtic-languages
+    url: /learn/history-of-the-world/questions/how-did-the-origins-in-hallstatt-contribute-to-celtic-migration-and-influence-in-europe
 related_article2:
+    id: 159726
+    title: >-
+        What are some common misconceptions about ancient Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-common-misconceptions-about-ancient-celts
+related_article3:
     id: 159694
-    title: What are the defining features of La Tène art and how did it influence Celtic art?
+    title: >-
+        What are the defining features of La Tène art and how did it influence Celtic art?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-defining-features-of-la-tne-art-and-how-did-it-influence-celtic-art
-related_article3:
-    id: 159685
-    title: How did Druidic practices influence Celtic religions and beliefs?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-druidic-practices-influence-celtic-religions-and-beliefs
 related_article4:
-    id: 159737
-    title: How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
+    id: 159684
+    title: >-
+        What are some common misconceptions about ancient Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
+    url: /learn/history-of-the-world/questions/what-are-some-common-misconceptions-about-ancient-celts
 related_article5:
-    id: 159687
-    title: How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+    id: 159690
+    title: >-
+        What is the significance of the Beaker and Corded Ware cultures in the chronology of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-beaker-and-corded-ware-cultures-in-the-chronology-of-the-celts
 ---
 
 &nbsp;

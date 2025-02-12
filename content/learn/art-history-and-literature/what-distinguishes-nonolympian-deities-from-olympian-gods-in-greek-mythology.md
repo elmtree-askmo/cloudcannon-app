@@ -2,8 +2,10 @@
 _schema: default
 id: 163889
 date: 2025-01-28
-title: What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
-article_title: What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
+title: >-
+    What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
+article_title: >-
+    What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-my
 url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
 score: 9.0
 related_article1:
-    id: 163904
-    title: In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+    id: 163892
+    title: >-
+        What are the key structural elements of the Homeric Hymns?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
 related_article2:
-    id: 163888
-    title: Who are the major Olympian deities in Greek mythology, and what are their primary domains?
+    id: 163905
+    title: >-
+        How have Greek myths been preserved and evolved over time through storytelling traditions?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
+    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
 related_article3:
-    id: 163903
-    title: How do transformation myths serve as etiological myths in Greek culture?
+    id: 163901
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
+    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 related_article4:
-    id: 163895
-    title: What role did bards play in the preservation and dissemination of Greek myths?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
-related_article5:
     id: 163894
-    title: How did the oral tradition contribute to the transmission of Greek myths?
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
 ---

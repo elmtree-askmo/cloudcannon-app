@@ -2,8 +2,10 @@
 _schema: default
 id: 165202
 date: 2025-01-28
-title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
-article_title: What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+title: >-
+    What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
+article_title: >-
+    What are the key stages in developing a group project design, and why are roles and responsibilities important in collaborative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-stages-in-developing-a-group-project-design-and-why-
 url: /learn/psychology/questions/what-are-the-key-stages-in-developing-a-group-project-design-and-why-are-roles-and-responsibilities-important-in-collaborative-research
 score: -1.0
 related_article1:
-    id: 165188
-    title: What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
-    subject: Psychology
-    url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
-related_article2:
-    id: 165190
-    title: What are the main variations of the Stroop Task, and how do they differ from the original color-word interference task?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-variations-of-the-stroop-task-and-how-do-they-differ-from-the-original-colorword-interference-task
-related_article3:
     id: 165193
-    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
+    title: >-
+        How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
     subject: Psychology
     url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
+related_article2:
+    id: 165203
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+related_article3:
+    id: 165188
+    title: >-
+        What was the original experiment conducted by J. Ridley Stroop, and how has the Stroop Effect persisted over time?
+    subject: Psychology
+    url: /learn/psychology/questions/what-was-the-original-experiment-conducted-by-j-ridley-stroop-and-how-has-the-stroop-effect-persisted-over-time
 related_article4:
     id: 165203
-    title: What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
 related_article5:
-    id: 165200
-    title: How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
+    id: 165198
+    title: >-
+        What are the common methods for measuring reaction time in psychological research, and how are they applied in tasks like the Stroop Effect?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
+    url: /learn/psychology/questions/what-are-the-common-methods-for-measuring-reaction-time-in-psychological-research-and-how-are-they-applied-in-tasks-like-the-stroop-effect
 ---
 
 &nbsp;

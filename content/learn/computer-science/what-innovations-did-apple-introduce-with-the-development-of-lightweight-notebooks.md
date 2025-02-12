@@ -2,8 +2,10 @@
 _schema: default
 id: 160538
 date: 2025-01-24
-title: What innovations did Apple introduce with the development of lightweight notebooks?
-article_title: What innovations did Apple introduce with the development of lightweight notebooks?
+title: >-
+    What innovations did Apple introduce with the development of lightweight notebooks?
+article_title: >-
+    What innovations did Apple introduce with the development of lightweight notebooks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-innovations-did-apple-introduce-with-the-development-of-lightwei
 url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
 score: -1.0
 related_article1:
-    id: 160432
-    title: What role did Apple's keynote presentations play in its marketing strategy?
+    id: 160429
+    title: >-
+        What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
+    url: /learn/computer-science/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
 related_article2:
-    id: 160523
-    title: How did the introduction of the iPhone in 2007 transform the smartphone market?
+    id: 160421
+    title: >-
+        What was the significance of the release of Mac OS X 10.0 Cheetah?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
+    url: /learn/computer-science/questions/what-was-the-significance-of-the-release-of-mac-os-x-100-cheetah
 related_article3:
-    id: 160536
-    title: What were the key developments in operating systems that Apple introduced in the early 2000s?
+    id: 160602
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-developments-in-operating-systems-that-apple-introduced-in-the-early-2000s
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions-of-the-operating-system
 related_article4:
-    id: 160425
-    title: What were the technological advancements introduced with the iPhone 3G?
+    id: 160530
+    title: >-
+        What were the implications of Apple's transition to Intel processors for product performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance
 related_article5:
-    id: 160426
-    title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+    id: 160514
+    title: >-
+        How did the first beta release of Mac OS X impact Apple's software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
+    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 ---
 
 &nbsp;

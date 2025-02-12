@@ -2,8 +2,10 @@
 _schema: default
 id: 170811
 date: 2025-02-07
-title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
-article_title: How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+title: >-
+    How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
+article_title: >-
+    How does the electron density change during the oxidation of hydrocarbons to carbon dioxide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-electron-density-change-during-the-oxidation-of-hydrocar
 url: /learn/chemistry/questions/how-does-the-electron-density-change-during-the-oxidation-of-hydrocarbons-to-carbon-dioxide
 score: -1.0
 related_article1:
-    id: 170819
-    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    id: 170816
+    title: >-
+        What is the concept of activation energy and how is it represented in reaction pathway diagrams?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+    url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
 related_article2:
-    id: 170812
-    title: What is the significance of partial charges in polar molecules?
+    id: 170813
+    title: >-
+        How does the electron density in methane indicate its reduced form?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
 related_article3:
-    id: 170821
-    title: What are the key steps in glycolysis that lead to energy release from glucose?
+    id: 170813
+    title: >-
+        How does the electron density in methane indicate its reduced form?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-steps-in-glycolysis-that-lead-to-energy-release-from-glucose
+    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
 related_article4:
-    id: 170819
-    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    id: 170810
+    title: >-
+        What is the role of electron transfer in oxidation and reduction reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+    url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
 related_article5:
-    id: 170820
-    title: What role do enzymes play in directing molecules through metabolic pathways?
+    id: 170818
+    title: >-
+        What is the relationship between the equilibrium constant and Delta G in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
+    url: /learn/chemistry/questions/what-is-the-relationship-between-the-equilibrium-constant-and-delta-g-in-chemical-reactions
 ---
 
 &nbsp;

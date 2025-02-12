@@ -2,8 +2,10 @@
 _schema: default
 id: 168219
 date: 2025-02-03
-title: What are the key responsibilities of an invigilator during the exam?
-article_title: What are the key responsibilities of an invigilator during the exam?
+title: >-
+    What are the key responsibilities of an invigilator during the exam?
+article_title: >-
+    What are the key responsibilities of an invigilator during the exam?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-responsibilities-of-an-invigilator-during-the-exam.m
 url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-an-invigilator-during-the-exam
 score: -1.0
 related_article1:
-    id: 168218
-    title: How should electronics and personal items be managed before the exam begins?
+    id: 168222
+    title: >-
+        What are the guidelines for distributing and collecting response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
+    url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
 related_article2:
     id: 168231
-    title: What strategies can be used to minimize distractions in the exam environment?
+    title: >-
+        What strategies can be used to minimize distractions in the exam environment?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
 related_article3:
-    id: 168217
-    title: What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+    id: 168228
+    title: >-
+        How should queries be addressed during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
+    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
 related_article4:
-    id: 168231
-    title: What strategies can be used to minimize distractions in the exam environment?
+    id: 168232
+    title: >-
+        What roles do invigilators play in supervising an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
+    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
 related_article5:
-    id: 168220
-    title: How should time be managed effectively during an exam?
+    id: 168227
+    title: >-
+        What should be included in pre-exam announcements to students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
+    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
 ---
 
 &nbsp;

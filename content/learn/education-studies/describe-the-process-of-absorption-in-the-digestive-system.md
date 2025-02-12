@@ -2,8 +2,10 @@
 _schema: default
 id: 166208
 date: 2025-01-29
-title: Describe the process of absorption in the digestive system.
-article_title: Describe the process of absorption in the digestive system.
+title: >-
+    Describe the process of absorption in the digestive system.
+article_title: >-
+    Describe the process of absorption in the digestive system.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-absorption-in-the-digestive-system.md
 url: /learn/education-studies/questions/describe-the-process-of-absorption-in-the-digestive-system
 score: -1.0
 related_article1:
+    id: 166201
+    title: >-
+        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
+related_article2:
     id: 166200
-    title: How have humans evolved over time according to fossil evidence?
+    title: >-
+        How have humans evolved over time according to fossil evidence?
     subject: Education Studies
     url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
-related_article2:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
 related_article3:
-    id: 166209
-    title: What are the key differences between sexual and asexual reproduction?
+    id: 166201
+    title: >-
+        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
+    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
 related_article4:
+    id: 166205
+    title: >-
+        What role do enzymes play in biochemical reactions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-enzymes-play-in-biochemical-reactions
+related_article5:
     id: 166195
-    title: What evidence supports the concept of common ancestry among species?
+    title: >-
+        What evidence supports the concept of common ancestry among species?
     subject: Education Studies
     url: /learn/education-studies/questions/what-evidence-supports-the-concept-of-common-ancestry-among-species
-related_article5:
-    id: 166183
-    title: How do carbohydrates and proteins differ in their roles within the body?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 ---
 
 &nbsp;

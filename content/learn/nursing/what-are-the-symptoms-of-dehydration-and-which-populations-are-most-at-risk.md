@@ -2,8 +2,10 @@
 _schema: default
 id: 169783
 date: 2025-02-05
-title: What are the symptoms of dehydration, and which populations are most at risk?
-article_title: What are the symptoms of dehydration, and which populations are most at risk?
+title: >-
+    What are the symptoms of dehydration, and which populations are most at risk?
+article_title: >-
+    What are the symptoms of dehydration, and which populations are most at risk?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-symptoms-of-dehydration-and-which-populations-are-most-a
 url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
 score: -1.0
 related_article1:
-    id: 169786
-    title: What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+    id: 169768
+    title: >-
+        What are the key roles of nutrition and hydration in physical and mental health?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 related_article2:
-    id: 169785
-    title: What is food fortification, and how does it support nutritional needs?
+    id: 169771
+    title: >-
+        How do simple and complex carbohydrates differ in their impact on blood sugar levels?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
+    url: /learn/nursing/questions/how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels
 related_article3:
-    id: 169781
-    title: What are the causes and consequences of undernutrition, and which populations are most at risk?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
-related_article4:
     id: 169780
-    title: What are the health implications of overweight and obesity?
+    title: >-
+        What are the health implications of overweight and obesity?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
-related_article5:
-    id: 169770
-    title: What are the primary functions of proteins in the body, and what are some common sources?
+related_article4:
+    id: 169769
+    title: >-
+        How do the World Health Organization guidelines influence nutrition and hydration practices?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
+    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+related_article5:
+    id: 169782
+    title: >-
+        Why is water essential for the body, and what are the main sources of hydration?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
 ---
 
 &nbsp;

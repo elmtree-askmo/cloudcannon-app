@@ -2,8 +2,10 @@
 _schema: default
 id: 169001
 date: 2025-02-04
-title: How does collective work influence architectural history beyond individual builders?
-article_title: How does collective work influence architectural history beyond individual builders?
+title: >-
+    How does collective work influence architectural history beyond individual builders?
+article_title: >-
+    How does collective work influence architectural history beyond individual builders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-collective-work-influence-architectural-history-beyond-indiv
 url: /learn/history-of-the-world/questions/how-does-collective-work-influence-architectural-history-beyond-individual-builders
 score: 9.0
 related_article1:
-    id: 169004
-    title: In what ways does critical theory reframe architectural narratives?
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-does-critical-theory-reframe-architectural-narratives
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 related_article2:
-    id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 related_article3:
     id: 169005
-    title: How can cross-reading architecture and history provide new insights?
+    title: >-
+        How can cross-reading architecture and history provide new insights?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
 related_article4:
-    id: 169002
-    title: What role does spatial analysis play in understanding the untold stories of architecture?
+    id: 169003
+    title: >-
+        How can architecture be analyzed within political and socio-historical contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
+    url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
 related_article5:
-    id: 169006
-    title: What are gendered spaces in architecture, and why are they significant?
+    id: 169012
+    title: >-
+        Who were some key figures in the Mexican Revolution, and what were their contributions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
+    url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
 ---
 
 &nbsp;

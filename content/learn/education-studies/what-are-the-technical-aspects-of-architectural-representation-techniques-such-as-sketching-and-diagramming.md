@@ -2,8 +2,10 @@
 _schema: default
 id: 169179
 date: 2025-02-04
-title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
-article_title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
+title: >-
+    What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
+article_title: >-
+    What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-technical-aspects-of-architectural-representation-techni
 url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
 score: -1.0
 related_article1:
-    id: 169182
-    title: How do cultural factors influence architectural design and the consideration of diverse needs and values?
+    id: 169180
+    title: >-
+        How do sustainability principles in design address the conservation of resources and healthful buildings?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-factors-influence-architectural-design-and-the-consideration-of-diverse-needs-and-values
+    url: /learn/education-studies/questions/how-do-sustainability-principles-in-design-address-the-conservation-of-resources-and-healthful-buildings
 related_article2:
+    id: 169181
+    title: >-
+        What is the relationship between architectural theories and the design process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+related_article3:
+    id: 169181
+    title: >-
+        What is the relationship between architectural theories and the design process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+related_article4:
+    id: 169175
+    title: >-
+        What role does materiality play in the structural conundrums of architecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-materiality-play-in-the-structural-conundrums-of-architecture
+related_article5:
     id: 169174
-    title: How does human perception influence the interpretation of space in architecture?
+    title: >-
+        How does human perception influence the interpretation of space in architecture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
-related_article3:
-    id: 169185
-    title: What are the fundamental principles of architectural composition in two-dimensional and three-dimensional design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-principles-of-architectural-composition-in-twodimensional-and-threedimensional-design
-related_article4:
-    id: 169171
-    title: What is the significance of corner conditions in architectural design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-corner-conditions-in-architectural-design
-related_article5:
-    id: 169172
-    title: How do aesthetic and formal conditions influence the meeting of planes in architecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-planes-in-architecture
 ---
 
 &nbsp;

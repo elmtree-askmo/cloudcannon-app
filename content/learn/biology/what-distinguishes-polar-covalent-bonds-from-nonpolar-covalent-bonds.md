@@ -2,8 +2,10 @@
 _schema: default
 id: 167404
 date: 2025-01-31
-title: What distinguishes polar covalent bonds from non-polar covalent bonds?
-article_title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+title: >-
+    What distinguishes polar covalent bonds from non-polar covalent bonds?
+article_title: >-
+    What distinguishes polar covalent bonds from non-polar covalent bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds.
 url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 score: -1.0
 related_article1:
-    id: 167407
-    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    id: 167405
+    title: >-
+        How do ionic bonds form and what are cations and anions?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
 related_article2:
-    id: 167416
-    title: Define atoms and describe their basic structure.
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
     subject: Biology
-    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
 related_article3:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article4:
+    id: 167421
+    title: >-
+        How is the periodic table organized and what is the significance of groups and periods?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+related_article5:
     id: 167417
-    title: What are isotopes and how do they differ from each other?
+    title: >-
+        What are isotopes and how do they differ from each other?
     subject: Biology
     url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
-related_article4:
-    id: 167413
-    title: What is the function of the carboxyl group in biological molecules?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
-related_article5:
-    id: 167422
-    title: Why is the periodic table important for predicting the properties of elements?
-    subject: Biology
-    url: /learn/biology/questions/why-is-the-periodic-table-important-for-predicting-the-properties-of-elements
 ---
 
 &nbsp;

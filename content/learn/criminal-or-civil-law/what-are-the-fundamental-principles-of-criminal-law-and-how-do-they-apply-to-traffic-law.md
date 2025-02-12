@@ -2,8 +2,10 @@
 _schema: default
 id: 162883
 date: 2025-01-25
-title: What are the fundamental principles of criminal law, and how do they apply to traffic law?
-article_title: What are the fundamental principles of criminal law, and how do they apply to traffic law?
+title: >-
+    What are the fundamental principles of criminal law, and how do they apply to traffic law?
+article_title: >-
+    What are the fundamental principles of criminal law, and how do they apply to traffic law?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-fundamental-principles-of-criminal-law-and-how-do-they-a
 url: /learn/criminal-or-civil-law/questions/what-are-the-fundamental-principles-of-criminal-law-and-how-do-they-apply-to-traffic-law
 score: -1.0
 related_article1:
-    id: 162862
-    title: How is criminal negligence defined in the context of driving?
+    id: 162860
+    title: >-
+        What constitutes dangerous driving under the legal framework?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-criminal-negligence-defined-in-the-context-of-driving
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-dangerous-driving-under-the-legal-framework
 related_article2:
-    id: 162861
-    title: What are the potential legal consequences of dangerous driving?
+    id: 162880
+    title: >-
+        What factors influence judicial decision-making in traffic cases?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-potential-legal-consequences-of-dangerous-driving
+    url: /learn/criminal-or-civil-law/questions/what-factors-influence-judicial-decisionmaking-in-traffic-cases
 related_article3:
-    id: 162874
-    title: What distinguishes civil liability from criminal liability in traffic accidents?
+    id: 162863
+    title: >-
+        What role does intent play in cases of criminal negligence in driving?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-distinguishes-civil-liability-from-criminal-liability-in-traffic-accidents
+    url: /learn/criminal-or-civil-law/questions/what-role-does-intent-play-in-cases-of-criminal-negligence-in-driving
 related_article4:
-    id: 162868
-    title: What is the legal duty of care in driving, and how does it differ from moral duty?
+    id: 162881
+    title: >-
+        What are the common traffic offenses and their legal consequences?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-duty-of-care-in-driving-and-how-does-it-differ-from-moral-duty
+    url: /learn/criminal-or-civil-law/questions/what-are-the-common-traffic-offenses-and-their-legal-consequences
 related_article5:
-    id: 162868
-    title: What is the legal duty of care in driving, and how does it differ from moral duty?
+    id: 162867
+    title: >-
+        Why is compliance with traffic regulations important, and what are common violations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-duty-of-care-in-driving-and-how-does-it-differ-from-moral-duty
+    url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
 ---
 
 &nbsp;

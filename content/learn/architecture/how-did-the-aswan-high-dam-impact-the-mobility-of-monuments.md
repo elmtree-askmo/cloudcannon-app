@@ -2,8 +2,10 @@
 _schema: default
 id: 169072
 date: 2025-02-04
-title: How did the Aswan High Dam impact the mobility of monuments?
-article_title: How did the Aswan High Dam impact the mobility of monuments?
+title: >-
+    How did the Aswan High Dam impact the mobility of monuments?
+article_title: >-
+    How did the Aswan High Dam impact the mobility of monuments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-aswan-high-dam-impact-the-mobility-of-monuments.md
 url: /learn/architecture/questions/how-did-the-aswan-high-dam-impact-the-mobility-of-monuments
 score: -1.0
 related_article1:
-    id: 169071
-    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
+    id: 169075
+    title: >-
+        How did the movement of monuments contribute to global cultural exchange?
     subject: Architecture
-    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
+    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
 related_article2:
+    id: 169075
+    title: >-
+        How did the movement of monuments contribute to global cultural exchange?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-movement-of-monuments-contribute-to-global-cultural-exchange
+related_article3:
     id: 169074
-    title: What are the key principles of monument relocation to ensure preservation of architectural authenticity?
+    title: >-
+        What are the key principles of monument relocation to ensure preservation of architectural authenticity?
     subject: Architecture
     url: /learn/architecture/questions/what-are-the-key-principles-of-monument-relocation-to-ensure-preservation-of-architectural-authenticity
-related_article3:
-    id: 169078
-    title: What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
-    subject: Architecture
-    url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
 related_article4:
     id: 169070
-    title: How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+    title: >-
+        How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
     subject: Architecture
     url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
 related_article5:
-    id: 169077
-    title: How did Kennedy's financial commitment reflect the economic and political dimensions of architecture?
+    id: 169080
+    title: >-
+        What is the concept of an open-air museum in the design of new oases?
     subject: Architecture
-    url: /learn/architecture/questions/how-did-kennedys-financial-commitment-reflect-the-economic-and-political-dimensions-of-architecture
+    url: /learn/architecture/questions/what-is-the-concept-of-an-openair-museum-in-the-design-of-new-oases
 ---
 
 &nbsp;

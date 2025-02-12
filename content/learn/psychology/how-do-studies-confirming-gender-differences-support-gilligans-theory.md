@@ -2,8 +2,10 @@
 _schema: default
 id: 164212
 date: 2025-01-28
-title: How do studies confirming gender differences support Gilligan's theory?
-article_title: How do studies confirming gender differences support Gilligan's theory?
+title: >-
+    How do studies confirming gender differences support Gilligan's theory?
+article_title: >-
+    How do studies confirming gender differences support Gilligan's theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-studies-confirming-gender-differences-support-gilligans-theory
 url: /learn/psychology/questions/how-do-studies-confirming-gender-differences-support-gilligans-theory
 score: -1.0
 related_article1:
-    id: 164207
-    title: How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
+    id: 164205
+    title: >-
+        What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others
+    url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
 related_article2:
-    id: 164202
-    title: How does Gilligan's theory describe the influence of caring and responsibility on moral development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
-related_article3:
     id: 164215
-    title: What implications do developmental stages have for moral education in adolescence according to Gilligan?
+    title: >-
+        What implications do developmental stages have for moral education in adolescence according to Gilligan?
     subject: Psychology
     url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
+related_article3:
+    id: 164204
+    title: >-
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
 related_article4:
     id: 164214
-    title: How does the onset of gender differences during adolescence impact moral development?
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
 related_article5:
-    id: 164201
-    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
+    id: 164215
+    title: >-
+        What implications do developmental stages have for moral education in adolescence according to Gilligan?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
+    url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
 ---
 
 &nbsp;

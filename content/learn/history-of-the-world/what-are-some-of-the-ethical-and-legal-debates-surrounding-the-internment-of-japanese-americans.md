@@ -2,8 +2,10 @@
 _schema: default
 id: 168750
 date: 2025-02-04
-title: What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
-article_title: What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
+title: >-
+    What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
+article_title: >-
+    What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-some-of-the-ethical-and-legal-debates-surrounding-the-intern
 url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
 score: 9.0
 related_article1:
-    id: 168748
-    title: What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
+    id: 168744
+    title: >-
+        What challenges did first-generation immigrants face in terms of cultural identity and assimilation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-civil-liberties-act-of-1988-and-what-did-it-achieve
+    url: /learn/history-of-the-world/questions/what-challenges-did-firstgeneration-immigrants-face-in-terms-of-cultural-identity-and-assimilation
 related_article2:
     id: 168748
-    title: What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
+    title: >-
+        What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-civil-liberties-act-of-1988-and-what-did-it-achieve
 related_article3:
-    id: 168737
-    title: What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
+    id: 168749
+    title: >-
+        What were the government and military justifications for the internment of Japanese Americans during World War II?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
+    url: /learn/history-of-the-world/questions/what-were-the-government-and-military-justifications-for-the-internment-of-japanese-americans-during-world-war-ii
 related_article4:
-    id: 168743
-    title: What were the key legal arguments and outcomes of the Korematsu case?
+    id: 168741
+    title: >-
+        What was the significance of the Manzanar internment camp in the context of Japanese American internment?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
+related_article5:
+    id: 168747
+    title: >-
+        How has the Japanese internment experience influenced modern civil rights movements?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
 ---
 
 &nbsp;

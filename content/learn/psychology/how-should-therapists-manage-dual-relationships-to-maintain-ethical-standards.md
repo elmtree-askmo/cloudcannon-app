@@ -2,8 +2,10 @@
 _schema: default
 id: 163031
 date: 2025-01-26
-title: How should therapists manage dual relationships to maintain ethical standards?
-article_title: How should therapists manage dual relationships to maintain ethical standards?
+title: >-
+    How should therapists manage dual relationships to maintain ethical standards?
+article_title: >-
+    How should therapists manage dual relationships to maintain ethical standards?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-therapists-manage-dual-relationships-to-maintain-ethical-s
 url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
 score: -1.0
 related_article1:
-    id: 163033
-    title: How do power imbalances affect cultural safety in therapy?
+    id: 163035
+    title: >-
+        How can transference and countertransference impact the therapeutic process?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+    url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
 related_article2:
-    id: 163036
-    title: What is the significance of evidence-based practice in therapy?
+    id: 163034
+    title: >-
+        What role does the therapeutic relationship play in treatment outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
+    url: /learn/psychology/questions/what-role-does-the-therapeutic-relationship-play-in-treatment-outcomes
 related_article3:
     id: 163041
-    title: Why is past behavior considered a strong predictor of future behavior in therapy?
+    title: >-
+        Why is past behavior considered a strong predictor of future behavior in therapy?
     subject: Psychology
     url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
 related_article4:
-    id: 163024
-    title: What are the primary purposes of theories in psychotherapy?
+    id: 163032
+    title: >-
+        Why is multicultural competence important in counseling?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
 related_article5:
-    id: 163035
-    title: How can transference and countertransference impact the therapeutic process?
+    id: 163037
+    title: >-
+        How do client demographics and background influence therapeutic outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
+    url: /learn/psychology/questions/how-do-client-demographics-and-background-influence-therapeutic-outcomes
 ---
 
 &nbsp;

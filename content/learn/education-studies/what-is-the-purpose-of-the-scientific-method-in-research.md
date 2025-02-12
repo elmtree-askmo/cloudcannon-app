@@ -2,8 +2,10 @@
 _schema: default
 id: 166153
 date: 2025-01-29
-title: What is the purpose of the scientific method in research?
-article_title: What is the purpose of the scientific method in research?
+title: >-
+    What is the purpose of the scientific method in research?
+article_title: >-
+    What is the purpose of the scientific method in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-the-scientific-method-in-research.md
 url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 score: -1.0
 related_article1:
-    id: 166163
-    title: How does long-term ecological research contribute to understanding climate change impacts?
+    id: 166160
+    title: >-
+        How do independent and dependent variables establish cause and effect in experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
+    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-establish-cause-and-effect-in-experiments
 related_article2:
-    id: 166173
-    title: How do scientific theories differ from scientific laws?
+    id: 166168
+    title: >-
+        What are the main types of research methodologies used in scientific inquiry?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-scientific-theories-differ-from-scientific-laws
+    url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 related_article3:
     id: 166155
-    title: What is inductive reasoning and how is it applied in hypothesis creation?
+    title: >-
+        What is inductive reasoning and how is it applied in hypothesis creation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-inductive-reasoning-and-how-is-it-applied-in-hypothesis-creation
 related_article4:
-    id: 166171
-    title: Why are aquatic ecosystems important for biodiversity?
+    id: 166168
+    title: >-
+        What are the main types of research methodologies used in scientific inquiry?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-aquatic-ecosystems-important-for-biodiversity
+    url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 related_article5:
-    id: 166165
-    title: What are the advantages of using observational studies in environmental science?
+    id: 166161
+    title: >-
+        What is the peer review process and why is it important in scientific research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-observational-studies-in-environmental-science
+    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164931
 date: 2025-01-28
-title: What are the key steps in identifying relevant sources for research articles?
-article_title: What are the key steps in identifying relevant sources for research articles?
+title: >-
+    What are the key steps in identifying relevant sources for research articles?
+article_title: >-
+    What are the key steps in identifying relevant sources for research articles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-steps-in-identifying-relevant-sources-for-research-a
 url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-relevant-sources-for-research-articles
 score: -1.0
 related_article1:
-    id: 164935
-    title: How does question order affect survey design?
+    id: 164941
+    title: >-
+        How do media and cultural factors influence political views?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-question-order-affect-survey-design
+    url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
 related_article2:
+    id: 164937
+    title: >-
+        What role do advocacy groups play in influencing policy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-advocacy-groups-play-in-influencing-policy
+related_article3:
+    id: 164934
+    title: >-
+        What ethical considerations should be taken into account during participant recruitment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
+related_article4:
     id: 164943
-    title: What historical events marked the rise and fall of communism?
+    title: >-
+        What historical events marked the rise and fall of communism?
     subject: Education Studies
     url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
-related_article3:
-    id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
-related_article4:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 related_article5:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    id: 164940
+    title: >-
+        What are some controversies associated with military aid?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
+    url: /learn/education-studies/questions/what-are-some-controversies-associated-with-military-aid
 ---
 
 &nbsp;

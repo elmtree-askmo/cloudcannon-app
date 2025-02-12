@@ -2,8 +2,10 @@
 _schema: default
 id: 168033
 date: 2025-02-02
-title: What are the key factors contributing to the decline of recent long-term memory in older adults?
-article_title: What are the key factors contributing to the decline of recent long-term memory in older adults?
+title: >-
+    What are the key factors contributing to the decline of recent long-term memory in older adults?
+article_title: >-
+    What are the key factors contributing to the decline of recent long-term memory in older adults?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-factors-contributing-to-the-decline-of-recent-longte
 url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
 score: -1.0
 related_article1:
-    id: 168041
-    title: How does emotional intensity contribute to the vividness of self-defining memories?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
-related_article2:
     id: 168040
-    title: What research findings highlight the age-related decline in memory stability?
+    title: >-
+        What research findings highlight the age-related decline in memory stability?
     subject: Psychology
     url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article2:
+    id: 168041
+    title: >-
+        How does emotional intensity contribute to the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
 related_article3:
-    id: 168039
-    title: What are the characteristics of explicit memory retrieval compared to implicit memory retrieval?
+    id: 168041
+    title: >-
+        How does emotional intensity contribute to the vividness of self-defining memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-explicit-memory-retrieval-compared-to-implicit-memory-retrieval
+    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
 related_article4:
-    id: 168037
-    title: What distinguishes episodic memory from semantic memory within declarative memory?
+    id: 168040
+    title: >-
+        What research findings highlight the age-related decline in memory stability?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-episodic-memory-from-semantic-memory-within-declarative-memory
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
 related_article5:
-    id: 168038
-    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    id: 168035
+    title: >-
+        What are the main age-related changes observed in working memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+    url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-in-working-memory
 ---
 
 &nbsp;

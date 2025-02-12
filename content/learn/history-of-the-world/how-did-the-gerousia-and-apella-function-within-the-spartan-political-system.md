@@ -2,8 +2,10 @@
 _schema: default
 id: 163585
 date: 2025-01-27
-title: How did the Gerousia and Apella function within the Spartan political system?
-article_title: How did the Gerousia and Apella function within the Spartan political system?
+title: >-
+    How did the Gerousia and Apella function within the Spartan political system?
+article_title: >-
+    How did the Gerousia and Apella function within the Spartan political system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-gerousia-and-apella-function-within-the-spartan-political
 url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
 score: 9.0
 related_article1:
-    id: 163576
-    title: What were the main causes and outcomes of the Messenian Wars?
+    id: 163570
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 related_article2:
+    id: 163573
+    title: >-
+        Identify two key literary sources for studying ancient Sparta and describe their contributions.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for-studying-ancient-sparta-and-describe-their-contributions
+related_article3:
+    id: 163575
+    title: >-
+        Explain the myth of the Dorian Migration and its significance in Spartan history.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-myth-of-the-dorian-migration-and-its-significance-in-spartan-history
+related_article4:
     id: 163576
-    title: What were the main causes and outcomes of the Messenian Wars?
+    title: >-
+        What were the main causes and outcomes of the Messenian Wars?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
-related_article3:
-    id: 163572
-    title: What role did the Spartan Acropolis play in the city-state's religious and political life?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
-related_article4:
-    id: 163584
-    title: What was the role of the ephors in Spartan government, and how were they elected?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
 related_article5:
-    id: 163574
-    title: What is the 'Dorian' Invasion, and how does it relate to the history of Sparta?
+    id: 163570
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-dorian-invasion-and-how-does-it-relate-to-the-history-of-sparta
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 ---
 
 &nbsp;

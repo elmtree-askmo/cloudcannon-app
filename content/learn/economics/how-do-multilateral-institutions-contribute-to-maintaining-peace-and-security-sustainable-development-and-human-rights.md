@@ -2,8 +2,10 @@
 _schema: default
 id: 159665
 date: 2025-01-23
-title: How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
-article_title: How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+title: >-
+    How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
+article_title: >-
+    How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-multilateral-institutions-contribute-to-maintaining-peace-and-
 url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
 score: -1.0
 related_article1:
-    id: 159662
-    title: What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    id: 159680
+    title: >-
+        What is the process for overseeing WTO agreements and maintaining open trade?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
+    url: /learn/economics/questions/what-is-the-process-for-overseeing-wto-agreements-and-maintaining-open-trade
 related_article2:
     id: 159664
-    title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+    title: >-
+        What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
     subject: Economics
     url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
 related_article3:
-    id: 159662
-    title: What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    id: 159675
+    title: >-
+        What types of financial assistance does the World Bank provide to support development projects?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
 related_article4:
-    id: 159673
-    title: What are the main goals of the World Bank in terms of ending extreme poverty and promoting shared prosperity?
+    id: 159666
+    title: >-
+        What was the significance of the Bretton Woods Conference in the founding of the IMF?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-main-goals-of-the-world-bank-in-terms-of-ending-extreme-poverty-and-promoting-shared-prosperity
+    url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
 related_article5:
-    id: 159667
-    title: How does the IMF ensure the stability of the international monetary system through surveillance?
+    id: 159683
+    title: >-
+        How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-imf-ensure-the-stability-of-the-international-monetary-system-through-surveillance
+    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
 ---
 
 &nbsp;

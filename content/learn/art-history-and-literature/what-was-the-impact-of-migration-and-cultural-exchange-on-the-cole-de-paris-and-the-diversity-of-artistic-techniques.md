@@ -2,8 +2,10 @@
 _schema: default
 id: 160115
 date: 2025-01-23
-title: What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
-article_title: What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+title: >-
+    What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+article_title: >-
+    What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de
 url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
 score: 9.0
 related_article1:
-    id: 159852
-    title: What were the distinctive characteristics and developments of American and Eastern European modernities in art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
-related_article2:
     id: 159832
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+related_article2:
+    id: 160111
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
 related_article3:
-    id: 160106
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    id: 160112
+    title: >-
+        How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
 related_article4:
-    id: 160114
-    title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 159833
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 related_article5:
-    id: 159840
-    title: How did migration and cultural exchange contribute to artistic diversity in the École de Paris?
+    id: 160109
+    title: >-
+        What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-migration-and-cultural-exchange-contribute-to-artistic-diversity-in-the-cole-de-paris
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
 ---
 
 &nbsp;

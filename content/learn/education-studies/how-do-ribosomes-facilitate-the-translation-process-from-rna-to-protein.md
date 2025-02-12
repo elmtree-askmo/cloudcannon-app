@@ -2,8 +2,10 @@
 _schema: default
 id: 167901
 date: 2025-02-01
-title: How do ribosomes facilitate the translation process from RNA to protein?
-article_title: How do ribosomes facilitate the translation process from RNA to protein?
+title: >-
+    How do ribosomes facilitate the translation process from RNA to protein?
+article_title: >-
+    How do ribosomes facilitate the translation process from RNA to protein?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ribosomes-facilitate-the-translation-process-from-rna-to-prote
 url: /learn/education-studies/questions/how-do-ribosomes-facilitate-the-translation-process-from-rna-to-protein
 score: -1.0
 related_article1:
-    id: 167903
-    title: What are the different types of RNA and their roles in protein synthesis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-rna-and-their-roles-in-protein-synthesis
-related_article2:
-    id: 167902
-    title: Describe the double helix model of DNA and the importance of base pairing.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-double-helix-model-of-dna-and-the-importance-of-base-pairing
-related_article3:
-    id: 167899
-    title: Explain the process of meiosis and its significance in genetic variation.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-process-of-meiosis-and-its-significance-in-genetic-variation
-related_article4:
-    id: 167895
-    title: How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
-related_article5:
     id: 167897
-    title: How does DNA packaging affect gene accessibility in chromosomes?
+    title: >-
+        How does DNA packaging affect gene accessibility in chromosomes?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-dna-packaging-affect-gene-accessibility-in-chromosomes
+related_article2:
+    id: 167903
+    title: >-
+        What are the different types of RNA and their roles in protein synthesis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-rna-and-their-roles-in-protein-synthesis
+related_article3:
+    id: 167895
+    title: >-
+        How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
+related_article4:
+    id: 167912
+    title: >-
+        What are the types of genetic tests available and their purposes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-types-of-genetic-tests-available-and-their-purposes
+related_article5:
+    id: 167895
+    title: >-
+        How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
 ---
 
 &nbsp;

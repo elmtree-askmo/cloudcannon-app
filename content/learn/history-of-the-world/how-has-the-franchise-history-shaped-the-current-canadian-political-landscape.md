@@ -2,8 +2,10 @@
 _schema: default
 id: 169246
 date: 2025-02-04
-title: How has the franchise history shaped the current Canadian political landscape?
-article_title: How has the franchise history shaped the current Canadian political landscape?
+title: >-
+    How has the franchise history shaped the current Canadian political landscape?
+article_title: >-
+    How has the franchise history shaped the current Canadian political landscape?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-the-franchise-history-shaped-the-current-canadian-political-l
 url: /learn/history-of-the-world/questions/how-has-the-franchise-history-shaped-the-current-canadian-political-landscape
 score: 8.5
 related_article1:
-    id: 169231
-    title: What is the primary purpose of an election system in linking political authorities?
+    id: 169243
+    title: >-
+        What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-primary-purpose-of-an-election-system-in-linking-political-authorities
+    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
 related_article2:
-    id: 169236
-    title: How does the First Past the Post system differ from a majority voting system?
+    id: 169233
+    title: >-
+        What role does the Electoral Boundaries Commission play in the creation of electoral districts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-the-first-past-the-post-system-differ-from-a-majority-voting-system
+    url: /learn/history-of-the-world/questions/what-role-does-the-electoral-boundaries-commission-play-in-the-creation-of-electoral-districts
 related_article3:
+    id: 169238
+    title: >-
+        What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-distinguishes-the-major-political-parties-in-canada-such-as-the-liberal-and-conservative-parties-from-regional-parties-like-the-bloc-qubcois
+related_article4:
     id: 169239
-    title: What are some key factors that influence voter turnout trends historically?
+    title: >-
+        What are some key factors that influence voter turnout trends historically?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-key-factors-that-influence-voter-turnout-trends-historically
-related_article4:
-    id: 169240
-    title: How does strategic voting affect election outcomes?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-strategic-voting-affect-election-outcomes
 related_article5:
-    id: 169245
-    title: What is the significance of vote distribution in determining political efficiency and electoral outcomes?
+    id: 169233
+    title: >-
+        What role does the Electoral Boundaries Commission play in the creation of electoral districts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-vote-distribution-in-determining-political-efficiency-and-electoral-outcomes
+    url: /learn/history-of-the-world/questions/what-role-does-the-electoral-boundaries-commission-play-in-the-creation-of-electoral-districts
 ---
 
 &nbsp;

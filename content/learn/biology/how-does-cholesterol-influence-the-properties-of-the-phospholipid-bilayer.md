@@ -2,8 +2,10 @@
 _schema: default
 id: 167358
 date: 2025-01-31
-title: How does cholesterol influence the properties of the phospholipid bilayer?
-article_title: How does cholesterol influence the properties of the phospholipid bilayer?
+title: >-
+    How does cholesterol influence the properties of the phospholipid bilayer?
+article_title: >-
+    How does cholesterol influence the properties of the phospholipid bilayer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: how-does-cholesterol-influence-the-properties-of-the-phospholipid-bil
 url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
 score: -1.0
 related_article1:
-    id: 167362
-    title: Explain the concept of selective permeability and its importance to cellular function.
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
 related_article2:
     id: 167357
-    title: Why do phospholipids spontaneously form bilayers in aqueous environments?
+    title: >-
+        Why do phospholipids spontaneously form bilayers in aqueous environments?
     subject: Biology
     url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
 related_article3:
-    id: 167356
-    title: How does the amphipathic nature of phospholipids contribute to membrane formation?
+    id: 167359
+    title: >-
+        What roles do integral and peripheral proteins play in the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
-related_article4:
-    id: 167369
-    title: How do concentration gradients drive diffusion and contribute to cellular processes?
-    subject: Biology
-    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
-related_article5:
-    id: 167363
-    title: What is the mechanism of simple diffusion and how is it driven by concentration gradients?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
+    url: /learn/biology/questions/what-roles-do-integral-and-peripheral-proteins-play-in-the-cell-membrane
 ---
 
 &nbsp;

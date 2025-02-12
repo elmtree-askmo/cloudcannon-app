@@ -2,8 +2,10 @@
 _schema: default
 id: 168502
 date: 2025-02-03
-title: What are the key responsibilities of administrative duties in a business setting?
-article_title: What are the key responsibilities of administrative duties in a business setting?
+title: >-
+    What are the key responsibilities of administrative duties in a business setting?
+article_title: >-
+    What are the key responsibilities of administrative duties in a business setting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-responsibilities-of-administrative-duties-in-a-busin
 url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-administrative-duties-in-a-business-setting
 score: -1.0
 related_article1:
-    id: 168509
-    title: What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
+    id: 168497
+    title: >-
+        What are the characteristics of systematic work preferences, and what career options are suitable for individuals with these preferences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-suitable-for-individuals-with-these-preferences
 related_article2:
-    id: 168496
-    title: What are the key components of persuasive communication, and how can they be applied in career paths?
+    id: 168514
+    title: >-
+        What are the essential skills for assertiveness in the workplace, and how can they be developed for success in assertive roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
+    url: /learn/education-studies/questions/what-are-the-essential-skills-for-assertiveness-in-the-workplace-and-how-can-they-be-developed-for-success-in-assertive-roles
 related_article3:
-    id: 168487
-    title: What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
+    id: 168514
+    title: >-
+        What are the essential skills for assertiveness in the workplace, and how can they be developed for success in assertive roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-personal-interests-and-evaluating-natural-talents-for-career-suitability
+    url: /learn/education-studies/questions/what-are-the-essential-skills-for-assertiveness-in-the-workplace-and-how-can-they-be-developed-for-success-in-assertive-roles
 related_article4:
-    id: 168507
-    title: What are the primary responsibilities of routine and managerial roles in business administration?
+    id: 168500
+    title: >-
+        What problem-solving and reasoning skills are necessary for technology-related job roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-routine-and-managerial-roles-in-business-administration
+    url: /learn/education-studies/questions/what-problemsolving-and-reasoning-skills-are-necessary-for-technologyrelated-job-roles
 related_article5:
-    id: 168508
-    title: What are the key responsibilities and skills required for success in food service careers?
+    id: 168493
+    title: >-
+        What technical skills and tools are commonly used in medical professions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
+    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-commonly-used-in-medical-professions
 ---
 
 &nbsp;

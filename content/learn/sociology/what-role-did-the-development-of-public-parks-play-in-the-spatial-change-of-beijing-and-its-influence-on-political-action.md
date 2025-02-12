@@ -2,8 +2,10 @@
 _schema: default
 id: 169045
 date: 2025-02-04
-title: What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
-article_title: What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+title: >-
+    What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+article_title: >-
+    What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-the-development-of-public-parks-play-in-the-spatial-cha
 url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
 score: -1.0
 related_article1:
-    id: 169049
-    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    id: 169047
+    title: >-
+        How does the choice of space for demonstrations affect the creation of public space?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
 related_article2:
-    id: 169042
-    title: How did Tiananmen Square evolve into a political public space over time?
+    id: 169047
+    title: >-
+        How does the choice of space for demonstrations affect the creation of public space?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
 related_article3:
-    id: 169055
-    title: What is the political significance of spatial transformation in shaping public space and political action?
+    id: 169053
+    title: >-
+        What is the role of human agency in Arendt's concept of public space, and why is collective action important?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
 related_article4:
-    id: 169051
-    title: What is the connection between urban geography and political movements in Beijing?
+    id: 169048
+    title: >-
+        Describe the transformation of Tiananmen Square from an empty space to a political symbol.
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
 related_article5:
-    id: 169041
-    title: What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    id: 169050
+    title: >-
+        How did the May Fourth Movement serve as a turning point in modern Chinese history?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
 ---
 
 &nbsp;

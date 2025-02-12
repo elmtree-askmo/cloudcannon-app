@@ -2,8 +2,10 @@
 _schema: default
 id: 168579
 date: 2025-02-03
-title: What is the tone of the Gettysburg Address, and how does it contribute to its message?
-article_title: What is the tone of the Gettysburg Address, and how does it contribute to its message?
+title: >-
+    What is the tone of the Gettysburg Address, and how does it contribute to its message?
+article_title: >-
+    What is the tone of the Gettysburg Address, and how does it contribute to its message?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute
 url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
 score: 9.0
 related_article1:
-    id: 168570
-    title: How has the concept of equality evolved in seminal documents over time?
+    id: 168583
+    title: >-
+        What are the historical foundations of freedom, equality, and justice as reflected in seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-has-the-concept-of-equality-evolved-in-seminal-documents-over-time
+    url: /learn/art-history-and-literature/questions/what-are-the-historical-foundations-of-freedom-equality-and-justice-as-reflected-in-seminal-documents
 related_article2:
-    id: 168575
-    title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+    id: 168576
+    title: >-
+        How do emotional appeals (pathos) impact the effectiveness of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
 related_article3:
-    id: 168577
-    title: How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
+    id: 168578
+    title: >-
+        How does tone shape the understanding of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
+    url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
 related_article4:
-    id: 168565
-    title: What are the key characteristics that define a seminal document?
+    id: 168576
+    title: >-
+        How do emotional appeals (pathos) impact the effectiveness of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
+    url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
 related_article5:
-    id: 168575
-    title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+    id: 168582
+    title: >-
+        How are American ideals represented in seminal texts, and how have they evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
 ---
 
 &nbsp;

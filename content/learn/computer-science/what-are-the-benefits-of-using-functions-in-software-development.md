@@ -2,8 +2,10 @@
 _schema: default
 id: 168587
 date: 2025-02-03
-title: What are the benefits of using functions in software development?
-article_title: What are the benefits of using functions in software development?
+title: >-
+    What are the benefits of using functions in software development?
+article_title: >-
+    What are the benefits of using functions in software development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-using-functions-in-software-development.md
 url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 score: -1.0
 related_article1:
-    id: 168594
-    title: What is the effect of defining a variable inside a function in terms of scope?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
-related_article2:
     id: 168589
-    title: What is the syntax for defining a function in Python?
+    title: >-
+        What is the syntax for defining a function in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+related_article2:
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 related_article3:
-    id: 168588
-    title: How does object-oriented programming contribute to software reusability?
+    id: 168593
+    title: >-
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 related_article4:
-    id: 168601
-    title: How can you access a function's docstring in Python?
+    id: 168590
+    title: >-
+        How do you call a function with parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
+    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 related_article5:
-    id: 168592
-    title: How can you use the math module to calculate the square root of a number?
+    id: 168609
+    title: >-
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 ---
 
 &nbsp;

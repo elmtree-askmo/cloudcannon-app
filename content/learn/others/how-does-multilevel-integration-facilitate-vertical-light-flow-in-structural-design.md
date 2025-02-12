@@ -2,8 +2,10 @@
 _schema: default
 id: 169386
 date: 2025-02-05
-title: How does multi-level integration facilitate vertical light flow in structural design?
-article_title: How does multi-level integration facilitate vertical light flow in structural design?
+title: >-
+    How does multi-level integration facilitate vertical light flow in structural design?
+article_title: >-
+    How does multi-level integration facilitate vertical light flow in structural design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-multilevel-integration-facilitate-vertical-light-flow-in-str
 url: /learn/others/questions/how-does-multilevel-integration-facilitate-vertical-light-flow-in-structural-design
 score: -1.0
 related_article1:
-    id: 169378
-    title: What is the role of saturated colors in creating visual impact in architectural design?
-    subject: Others
-    url: /learn/others/questions/what-is-the-role-of-saturated-colors-in-creating-visual-impact-in-architectural-design
-related_article2:
-    id: 169377
-    title: How does exterior interaction influence functional zoning in spatial design?
-    subject: Others
-    url: /learn/others/questions/how-does-exterior-interaction-influence-functional-zoning-in-spatial-design
-related_article3:
-    id: 169375
-    title: How does material selection impact the structural elements of a building's facade?
-    subject: Others
-    url: /learn/others/questions/how-does-material-selection-impact-the-structural-elements-of-a-buildings-facade
-related_article4:
-    id: 169380
-    title: What are the benefits of using elliptical skylights in natural light integration?
-    subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-elliptical-skylights-in-natural-light-integration
-related_article5:
     id: 169383
-    title: How do reflective surfaces in paneling affect the aesthetic of a building?
+    title: >-
+        How do reflective surfaces in paneling affect the aesthetic of a building?
     subject: Others
     url: /learn/others/questions/how-do-reflective-surfaces-in-paneling-affect-the-aesthetic-of-a-building
+related_article2:
+    id: 169378
+    title: >-
+        What is the role of saturated colors in creating visual impact in architectural design?
+    subject: Others
+    url: /learn/others/questions/what-is-the-role-of-saturated-colors-in-creating-visual-impact-in-architectural-design
+related_article3:
+    id: 169387
+    title: >-
+        What are the challenges associated with glass installation in construction techniques?
+    subject: Others
+    url: /learn/others/questions/what-are-the-challenges-associated-with-glass-installation-in-construction-techniques
+related_article4:
+    id: 169379
+    title: >-
+        How do gradual color transitions contribute to environmental harmony in architecture?
+    subject: Others
+    url: /learn/others/questions/how-do-gradual-color-transitions-contribute-to-environmental-harmony-in-architecture
+related_article5:
+    id: 169374
+    title: >-
+        What are the key considerations in facade design when integrating color?
+    subject: Others
+    url: /learn/others/questions/what-are-the-key-considerations-in-facade-design-when-integrating-color
 ---
 
 &nbsp;

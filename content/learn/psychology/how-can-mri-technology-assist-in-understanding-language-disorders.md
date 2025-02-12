@@ -2,8 +2,10 @@
 _schema: default
 id: 164608
 date: 2025-01-28
-title: How can MRI technology assist in understanding language disorders?
-article_title: How can MRI technology assist in understanding language disorders?
+title: >-
+    How can MRI technology assist in understanding language disorders?
+article_title: >-
+    How can MRI technology assist in understanding language disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/psychology/questions/how-can-mri-technology-assist-in-understanding-
 score: -1.0
 related_article1:
     id: 164602
-    title: Describe the main characteristics of connectionist models in language processing.
+    title: >-
+        Describe the main characteristics of connectionist models in language processing.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-main-characteristics-of-connectionist-models-in-language-processing
 related_article2:
-    id: 164611
-    title: What are the foundational theories of cognitive neuroscience?
+    id: 164609
+    title: >-
+        What are the advantages of using eye-tracking studies in human behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-foundational-theories-of-cognitive-neuroscience
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-eyetracking-studies-in-human-behavior-analysis
 related_article3:
-    id: 164600
-    title: How are computational models used in the analysis of phonological graphs?
+    id: 164607
+    title: >-
+        What is the principle behind functional MRI (fMRI) and how is it used in language research?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-computational-models-used-in-the-analysis-of-phonological-graphs
+    url: /learn/psychology/questions/what-is-the-principle-behind-functional-mri-fmri-and-how-is-it-used-in-language-research
 related_article4:
-    id: 164612
-    title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
+    id: 164601
+    title: >-
+        What are the key differences between phonological, syntactic, and semantic processing in language?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
-related_article5:
-    id: 164613
-    title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
+    url: /learn/psychology/questions/what-are-the-key-differences-between-phonological-syntactic-and-semantic-processing-in-language
 ---
 
 &nbsp;

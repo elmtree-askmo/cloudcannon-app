@@ -2,8 +2,10 @@
 _schema: default
 id: 167784
 date: 2025-02-01
-title: What role do alleles play in determining an organism's traits?
-article_title: What role do alleles play in determining an organism's traits?
+title: >-
+    What role do alleles play in determining an organism's traits?
+article_title: >-
+    What role do alleles play in determining an organism's traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-alleles-play-in-determining-an-organisms-traits.md
 url: /learn/education-studies/questions/what-role-do-alleles-play-in-determining-an-organisms-traits
 score: -1.0
 related_article1:
-    id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
-related_article2:
-    id: 167799
-    title: What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
-related_article3:
     id: 167788
-    title: How do genetic mutations contribute to genetic variation?
+    title: >-
+        How do genetic mutations contribute to genetic variation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
+related_article2:
+    id: 167790
+    title: >-
+        How is co-dominance exemplified in human blood types?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
+related_article3:
+    id: 167787
+    title: >-
+        What are the main sources of genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-sources-of-genetic-variation
 related_article4:
-    id: 167805
-    title: What are the key differences between Mendelian and non-Mendelian patterns of heredity?
+    id: 167791
+    title: >-
+        What is the genetic basis for the AB blood type expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
+    url: /learn/education-studies/questions/what-is-the-genetic-basis-for-the-ab-blood-type-expression
 related_article5:
-    id: 167783
-    title: How do genotype and phenotype differ in genetic expression?
+    id: 167804
+    title: >-
+        How can genetic mutations lead to a loss of function in an organism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
+    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
 ---
 
 &nbsp;

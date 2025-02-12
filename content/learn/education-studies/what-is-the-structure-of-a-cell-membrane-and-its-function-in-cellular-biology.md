@@ -2,8 +2,10 @@
 _schema: default
 id: 166185
 date: 2025-01-29
-title: What is the structure of a cell membrane and its function in cellular biology?
-article_title: What is the structure of a cell membrane and its function in cellular biology?
+title: >-
+    What is the structure of a cell membrane and its function in cellular biology?
+article_title: >-
+    What is the structure of a cell membrane and its function in cellular biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular
 url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
 score: -1.0
 related_article1:
-    id: 166180
-    title: How do metabolism and homeostasis contribute to the biological processes of life?
+    id: 166192
+    title: >-
+        What is Mendelian genetics and how does it explain genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
+    url: /learn/education-studies/questions/what-is-mendelian-genetics-and-how-does-it-explain-genetic-variation
 related_article2:
-    id: 166179
-    title: What are the fundamental traits that define living organisms?
+    id: 166212
+    title: >-
+        How is blood circulation regulated in the cardiovascular system?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
+    url: /learn/education-studies/questions/how-is-blood-circulation-regulated-in-the-cardiovascular-system
 related_article3:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
+    id: 166183
+    title: >-
+        How do carbohydrates and proteins differ in their roles within the body?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 related_article4:
-    id: 166199
-    title: What are the main components of the human cardiovascular system and their functions?
+    id: 166209
+    title: >-
+        What are the key differences between sexual and asexual reproduction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
 related_article5:
     id: 166183
-    title: How do carbohydrates and proteins differ in their roles within the body?
+    title: >-
+        How do carbohydrates and proteins differ in their roles within the body?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 ---

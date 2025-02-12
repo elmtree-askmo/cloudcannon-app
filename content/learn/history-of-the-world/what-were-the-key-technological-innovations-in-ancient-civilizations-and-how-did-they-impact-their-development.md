@@ -2,8 +2,10 @@
 _schema: default
 id: 166231
 date: 2025-01-29
-title: What were the key technological innovations in ancient civilizations, and how did they impact their development?
-article_title: What were the key technological innovations in ancient civilizations, and how did they impact their development?
+title: >-
+    What were the key technological innovations in ancient civilizations, and how did they impact their development?
+article_title: >-
+    What were the key technological innovations in ancient civilizations, and how did they impact their development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-technological-innovations-in-ancient-civilizations-
 url: /learn/history-of-the-world/questions/what-were-the-key-technological-innovations-in-ancient-civilizations-and-how-did-they-impact-their-development
 score: 9.0
 related_article1:
-    id: 166228
-    title: What are the limitations of using archaeological finds as historical evidence?
+    id: 166224
+    title: >-
+        How does sustainable development integrate economic considerations into environmental sustainability?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
+    url: /learn/history-of-the-world/questions/how-does-sustainable-development-integrate-economic-considerations-into-environmental-sustainability
 related_article2:
-    id: 166241
-    title: What are the key developments in prehistory that led to the transition to recorded history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
-related_article3:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
-related_article4:
     id: 166240
-    title: How do language barriers and contextual understanding affect the interpretation of historical documents?
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
-related_article5:
-    id: 166214
-    title: How has classical Arabic literature influenced modern Arabic literature?
+related_article3:
+    id: 166225
+    title: >-
+        What are the main components of physical health that contribute to overall well-being?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-classical-arabic-literature-influenced-modern-arabic-literature
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
+related_article4:
+    id: 166229
+    title: >-
+        What are the main disciplines within social sciences, and how do they contribute to understanding society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-disciplines-within-social-sciences-and-how-do-they-contribute-to-understanding-society
+related_article5:
+    id: 166228
+    title: >-
+        What are the limitations of using archaeological finds as historical evidence?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
 ---
 
 &nbsp;

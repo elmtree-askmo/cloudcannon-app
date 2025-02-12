@@ -2,8 +2,10 @@
 _schema: default
 id: 169558
 date: 2025-02-05
-title: Why is the duty of care important for patient safety?
-article_title: Why is the duty of care important for patient safety?
+title: >-
+    Why is the duty of care important for patient safety?
+article_title: >-
+    Why is the duty of care important for patient safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-duty-of-care-important-for-patient-safety.md
 url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
 score: -1.0
 related_article1:
-    id: 169564
-    title: Why is supervision particularly important for student nurses?
+    id: 169556
+    title: >-
+        How does supervision contribute to accountability in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 related_article2:
-    id: 169568
-    title: How does professional responsibility impact patient assessment?
+    id: 169562
+    title: >-
+        How does supervision ensure competence and patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
 related_article3:
-    id: 169575
-    title: What are the different roles within a healthcare team, and how do they interact?
+    id: 169570
+    title: >-
+        How does supervision play a role in safe medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+    url: /learn/nursing/questions/how-does-supervision-play-a-role-in-safe-medication-administration
 related_article4:
-    id: 169582
-    title: How do patient care standards ensure patient safety and accountability?
+    id: 169574
+    title: >-
+        How does supervision aid in effective risk management?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-patient-care-standards-ensure-patient-safety-and-accountability
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
 related_article5:
-    id: 169573
-    title: What are the steps involved in identifying and managing risks in healthcare?
+    id: 169572
+    title: >-
+        How does patient assessment contribute to ensuring patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
 ---
 
 &nbsp;

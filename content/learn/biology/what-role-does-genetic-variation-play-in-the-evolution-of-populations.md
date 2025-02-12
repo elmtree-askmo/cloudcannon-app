@@ -2,8 +2,10 @@
 _schema: default
 id: 167726
 date: 2025-02-01
-title: What role does genetic variation play in the evolution of populations?
-article_title: What role does genetic variation play in the evolution of populations?
+title: >-
+    What role does genetic variation play in the evolution of populations?
+article_title: >-
+    What role does genetic variation play in the evolution of populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-genetic-variation-play-in-the-evolution-of-populations
 url: /learn/biology/questions/what-role-does-genetic-variation-play-in-the-evolution-of-populations
 score: -1.0
 related_article1:
+    id: 167727
+    title: >-
+        Describe the process of speciation and its significance in the origin of species.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
+related_article2:
+    id: 167732
+    title: >-
+        How are shared characters used in the construction and interpretation of phylogenetic trees?
+    subject: Biology
+    url: /learn/biology/questions/how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees
+related_article3:
     id: 167728
-    title: What is macroevolution and how does it differ from microevolution?
+    title: >-
+        What is macroevolution and how does it differ from microevolution?
     subject: Biology
     url: /learn/biology/questions/what-is-macroevolution-and-how-does-it-differ-from-microevolution
-related_article2:
-    id: 167733
-    title: What is the concept of a molecular clock and how is it applied in evolutionary studies?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-concept-of-a-molecular-clock-and-how-is-it-applied-in-evolutionary-studies
-related_article3:
+related_article4:
     id: 167734
-    title: Define cladistics and explain its purpose in evolutionary biology.
+    title: >-
+        Define cladistics and explain its purpose in evolutionary biology.
     subject: Biology
     url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
-related_article4:
-    id: 167729
-    title: How do systematics and taxonomy contribute to our understanding of evolutionary relationships?
-    subject: Biology
-    url: /learn/biology/questions/how-do-systematics-and-taxonomy-contribute-to-our-understanding-of-evolutionary-relationships
 related_article5:
-    id: 167731
-    title: What is the purpose of phylogenetic trees in linking classification and phylogeny?
+    id: 167728
+    title: >-
+        What is macroevolution and how does it differ from microevolution?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-phylogenetic-trees-in-linking-classification-and-phylogeny
+    url: /learn/biology/questions/what-is-macroevolution-and-how-does-it-differ-from-microevolution
 ---
 
 &nbsp;

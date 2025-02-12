@@ -2,8 +2,10 @@
 _schema: default
 id: 170805
 date: 2025-02-07
-title: How can equilibrium points be determined in the context of strategy success?
-article_title: How can equilibrium points be determined in the context of strategy success?
+title: >-
+    How can equilibrium points be determined in the context of strategy success?
+article_title: >-
+    How can equilibrium points be determined in the context of strategy success?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-equilibrium-points-be-determined-in-the-context-of-strategy-s
 url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
 score: -1.0
 related_article1:
-    id: 170793
-    title: How does phenotypic variation influence frequency-dependent selection?
+    id: 170799
+    title: >-
+        In what situations might a mixed strategy be more advantageous than a pure strategy?
     subject: Biology
-    url: /learn/biology/questions/how-does-phenotypic-variation-influence-frequencydependent-selection
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
 related_article2:
-    id: 170792
-    title: Explain the concept of frequency-dependent selection and its importance in evolutionary biology.
+    id: 170796
+    title: >-
+        How does the frequency of a strategy impact fitness dynamics?
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-frequencydependent-selection-and-its-importance-in-evolutionary-biology
+    url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
 related_article3:
-    id: 170802
-    title: What role do population dynamics play in the interaction of strategies?
-    subject: Biology
-    url: /learn/biology/questions/what-role-do-population-dynamics-play-in-the-interaction-of-strategies
-related_article4:
-    id: 170795
-    title: What is the significance of equilibrium analysis in the context of a payoff matrix?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix
-related_article5:
     id: 170793
-    title: How does phenotypic variation influence frequency-dependent selection?
+    title: >-
+        How does phenotypic variation influence frequency-dependent selection?
     subject: Biology
     url: /learn/biology/questions/how-does-phenotypic-variation-influence-frequencydependent-selection
+related_article4:
+    id: 170799
+    title: >-
+        In what situations might a mixed strategy be more advantageous than a pure strategy?
+    subject: Biology
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
+related_article5:
+    id: 170799
+    title: >-
+        In what situations might a mixed strategy be more advantageous than a pure strategy?
+    subject: Biology
+    url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
 ---
 
 &nbsp;

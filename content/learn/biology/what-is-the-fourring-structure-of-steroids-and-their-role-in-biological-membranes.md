@@ -2,8 +2,10 @@
 _schema: default
 id: 167337
 date: 2025-01-31
-title: What is the four-ring structure of steroids and their role in biological membranes?
-article_title: What is the four-ring structure of steroids and their role in biological membranes?
+title: >-
+    What is the four-ring structure of steroids and their role in biological membranes?
+article_title: >-
+    What is the four-ring structure of steroids and their role in biological membranes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-fourring-structure-of-steroids-and-their-role-in-biologic
 url: /learn/biology/questions/what-is-the-fourring-structure-of-steroids-and-their-role-in-biological-membranes
 score: -1.0
 related_article1:
-    id: 167329
-    title: Explain the concept of complementary base pairing and its importance in DNA stability.
+    id: 167340
+    title: >-
+        How do lipids contribute to membrane structure and function?
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
 related_article2:
-    id: 167327
-    title: Describe the primary structure of DNA and RNA and explain how they differ.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
-related_article3:
-    id: 167332
-    title: Compare the structural differences between DNA and RNA.
-    subject: Biology
-    url: /learn/biology/questions/compare-the-structural-differences-between-dna-and-rna
-related_article4:
-    id: 167328
-    title: What is the role of hydrogen bonding in the secondary structure of DNA?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
-related_article5:
     id: 167336
-    title: Explain the amphipathic nature of phospholipids and its significance.
+    title: >-
+        Explain the amphipathic nature of phospholipids and its significance.
     subject: Biology
     url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
+related_article3:
+    id: 167326
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article4:
+    id: 167327
+    title: >-
+        Describe the primary structure of DNA and RNA and explain how they differ.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
+related_article5:
+    id: 167325
+    title: >-
+        How does a dehydration reaction contribute to the formation of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
 ---
 
 &nbsp;

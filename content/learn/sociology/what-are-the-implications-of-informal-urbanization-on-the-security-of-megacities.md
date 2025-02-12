@@ -2,8 +2,10 @@
 _schema: default
 id: 162938
 date: 2025-01-26
-title: What are the implications of informal urbanization on the security of megacities?
-article_title: What are the implications of informal urbanization on the security of megacities?
+title: >-
+    What are the implications of informal urbanization on the security of megacities?
+article_title: >-
+    What are the implications of informal urbanization on the security of megacities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/sociology/questions/what-are-the-implications-of-informal-urbanizati
 score: -1.0
 related_article1:
     id: 162945
-    title: Explain the concept of urban density and its significance in the context of dangerous density.
+    title: >-
+        Explain the concept of urban density and its significance in the context of dangerous density.
     subject: Sociology
     url: /learn/sociology/questions/explain-the-concept-of-urban-density-and-its-significance-in-the-context-of-dangerous-density
 related_article2:
-    id: 162945
-    title: Explain the concept of urban density and its significance in the context of dangerous density.
+    id: 162943
+    title: >-
+        What role do security protocols play in urban analysis and warfare?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-urban-density-and-its-significance-in-the-context-of-dangerous-density
+    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
 related_article3:
-    id: 162948
-    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    id: 162934
+    title: >-
+        What are the key characteristics of military urbanism in the context of urban insecurity?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+    url: /learn/sociology/questions/what-are-the-key-characteristics-of-military-urbanism-in-the-context-of-urban-insecurity
 related_article4:
-    id: 162937
-    title: How do non-state actors influence post-national networks in urban settings?
+    id: 162940
+    title: >-
+        How do city-states and shanty-states function as loci of geopolitical control?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-nonstate-actors-influence-postnational-networks-in-urban-settings
+    url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
 related_article5:
-    id: 162948
-    title: How do hyperreal spaces contribute to military training initiatives in megacities?
+    id: 162953
+    title: >-
+        How do informal settlements challenge the global military security apparatus?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-hyperreal-spaces-contribute-to-military-training-initiatives-in-megacities
+    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
 ---
 
 &nbsp;

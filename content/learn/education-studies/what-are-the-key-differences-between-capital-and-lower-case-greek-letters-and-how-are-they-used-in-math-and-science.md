@@ -2,8 +2,10 @@
 _schema: default
 id: 166598
 date: 2025-01-30
-title: What are the key differences between capital and lower case Greek letters, and how are they used in math and science?
-article_title: What are the key differences between capital and lower case Greek letters, and how are they used in math and science?
+title: >-
+    What are the key differences between capital and lower case Greek letters, and how are they used in math and science?
+article_title: >-
+    What are the key differences between capital and lower case Greek letters, and how are they used in math and science?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-capital-and-lower-case-greek-let
 url: /learn/education-studies/questions/what-are-the-key-differences-between-capital-and-lower-case-greek-letters-and-how-are-they-used-in-math-and-science
 score: -1.0
 related_article1:
-    id: 166601
-    title: Who are the major Greek gods and goddesses, and what are their relationships?
+    id: 166603
+    title: >-
+        Name two notable Greek authors and describe their contributions to history.
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
+    url: /learn/education-studies/questions/name-two-notable-greek-authors-and-describe-their-contributions-to-history
 related_article2:
+    id: 166610
+    title: >-
+        What were the contributions of Alexander the Great to Greek history?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-contributions-of-alexander-the-great-to-greek-history
+related_article3:
     id: 166604
-    title: What was the role of a 'Stratagos' in ancient Greek city-states?
+    title: >-
+        What was the role of a 'Stratagos' in ancient Greek city-states?
     subject: Education Studies
     url: /learn/education-studies/questions/what-was-the-role-of-a-stratagos-in-ancient-greek-citystates
-related_article3:
-    id: 166605
-    title: How has the Greek language influenced modern English vocabulary?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-has-the-greek-language-influenced-modern-english-vocabulary
 related_article4:
+    id: 166609
+    title: >-
+        Who are the key characters in the Homeric epics, and what are the main themes of these stories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/who-are-the-key-characters-in-the-homeric-epics-and-what-are-the-main-themes-of-these-stories
+related_article5:
     id: 166605
-    title: How has the Greek language influenced modern English vocabulary?
+    title: >-
+        How has the Greek language influenced modern English vocabulary?
     subject: Education Studies
     url: /learn/education-studies/questions/how-has-the-greek-language-influenced-modern-english-vocabulary
-related_article5:
-    id: 166601
-    title: Who are the major Greek gods and goddesses, and what are their relationships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
 ---
 
 &nbsp;

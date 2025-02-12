@@ -2,8 +2,10 @@
 _schema: default
 id: 162017
 date: 2025-01-24
-title: What is a precipitation reaction and how can it be identified?
-article_title: What is a precipitation reaction and how can it be identified?
+title: >-
+    What is a precipitation reaction and how can it be identified?
+article_title: >-
+    What is a precipitation reaction and how can it be identified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-precipitation-reaction-and-how-can-it-be-identified.md
 url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 score: -1.0
 related_article1:
-    id: 161763
-    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    id: 162054
+    title: >-
+        How can you identify a chemical change through the formation of new substances?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
 related_article2:
-    id: 162061
-    title: How does the reactivity of oxygen influence its chemical properties?
+    id: 161966
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 related_article3:
-    id: 162038
-    title: What is the role of chemical change indicators in identifying precipitation reactions?
+    id: 161929
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-chemical-change-indicators-in-identifying-precipitation-reactions
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article4:
-    id: 162015
-    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    id: 161986
+    title: >-
+        What is the role of charged particles in the process of ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
 related_article5:
-    id: 161755
-    title: How does the reactivity of hydrogen compare to that of oxygen?
+    id: 162030
+    title: >-
+        What is the process of crumbling aluminum foil an example of, and why?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
+    url: /learn/chemistry/questions/what-is-the-process-of-crumbling-aluminum-foil-an-example-of-and-why
 ---
 
 &nbsp;

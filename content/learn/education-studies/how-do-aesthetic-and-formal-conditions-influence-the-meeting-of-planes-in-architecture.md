@@ -2,8 +2,10 @@
 _schema: default
 id: 169172
 date: 2025-02-04
-title: How do aesthetic and formal conditions influence the meeting of planes in architecture?
-article_title: How do aesthetic and formal conditions influence the meeting of planes in architecture?
+title: >-
+    How do aesthetic and formal conditions influence the meeting of planes in architecture?
+article_title: >-
+    How do aesthetic and formal conditions influence the meeting of planes in architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-plane
 url: /learn/education-studies/questions/how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-planes-in-architecture
 score: -1.0
 related_article1:
-    id: 169173
-    title: In what ways do power relationships manifest in design, particularly in terms of control and domination?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-do-power-relationships-manifest-in-design-particularly-in-terms-of-control-and-domination
-related_article2:
-    id: 169175
-    title: What role does materiality play in the structural conundrums of architecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-materiality-play-in-the-structural-conundrums-of-architecture
-related_article3:
-    id: 169177
-    title: What are the key principles of urban design that relate to the intersection of corners?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-principles-of-urban-design-that-relate-to-the-intersection-of-corners
-related_article4:
     id: 169184
-    title: How does conceptual analysis in design address ecological and economic factors?
+    title: >-
+        How does conceptual analysis in design address ecological and economic factors?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-conceptual-analysis-in-design-address-ecological-and-economic-factors
-related_article5:
-    id: 169180
-    title: How do sustainability principles in design address the conservation of resources and healthful buildings?
+related_article2:
+    id: 169185
+    title: >-
+        What are the fundamental principles of architectural composition in two-dimensional and three-dimensional design?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-sustainability-principles-in-design-address-the-conservation-of-resources-and-healthful-buildings
+    url: /learn/education-studies/questions/what-are-the-fundamental-principles-of-architectural-composition-in-twodimensional-and-threedimensional-design
+related_article3:
+    id: 169174
+    title: >-
+        How does human perception influence the interpretation of space in architecture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
+related_article4:
+    id: 169177
+    title: >-
+        What are the key principles of urban design that relate to the intersection of corners?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-principles-of-urban-design-that-relate-to-the-intersection-of-corners
+related_article5:
+    id: 169177
+    title: >-
+        What are the key principles of urban design that relate to the intersection of corners?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-principles-of-urban-design-that-relate-to-the-intersection-of-corners
 ---
 
 &nbsp;

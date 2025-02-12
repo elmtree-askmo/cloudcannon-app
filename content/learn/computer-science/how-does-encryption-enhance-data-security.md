@@ -2,8 +2,10 @@
 _schema: default
 id: 161461
 date: 2025-01-24
-title: How does encryption enhance data security?
-article_title: How does encryption enhance data security?
+title: >-
+    How does encryption enhance data security?
+article_title: >-
+    How does encryption enhance data security?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-encryption-enhance-data-security.md
 url: /learn/computer-science/questions/how-does-encryption-enhance-data-security
 score: -1.0
 related_article1:
-    id: 161258
-    title: How can ransomware be prevented and removed?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-ransomware-be-prevented-and-removed
-related_article2:
-    id: 161465
-    title: What are some common methods used in phishing attacks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
-related_article3:
-    id: 161455
-    title: What are some common methods used for pseudonymization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
-related_article4:
     id: 161248
-    title: What is the purpose of de-identification in data protection?
+    title: >-
+        What is the purpose of de-identification in data protection?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
+related_article2:
+    id: 161380
+    title: >-
+        What is the purpose of de-identification in data protection?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
+related_article3:
+    id: 161456
+    title: >-
+        What is online impersonation in the context of identity theft?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
+related_article4:
+    id: 161380
+    title: >-
+        What is the purpose of de-identification in data protection?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
 related_article5:
-    id: 161388
-    title: What distinguishes a virus from a worm in terms of malware?
+    id: 161248
+    title: >-
+        What is the purpose of de-identification in data protection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
+    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
 ---
 
 &nbsp;

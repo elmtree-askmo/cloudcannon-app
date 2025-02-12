@@ -2,8 +2,10 @@
 _schema: default
 id: 160294
 date: 2025-01-24
-title: What are the key techniques for effective time management?
-article_title: What are the key techniques for effective time management?
+title: >-
+    What are the key techniques for effective time management?
+article_title: >-
+    What are the key techniques for effective time management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-techniques-for-effective-time-management.md
 url: /learn/education-studies/questions/what-are-the-key-techniques-for-effective-time-management
 score: -1.0
 related_article1:
-    id: 160334
-    title: What strategies can help manage time effectively during exams?
+    id: 160317
+    title: >-
+        What are the components of metacognition?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-help-manage-time-effectively-during-exams
+    url: /learn/education-studies/questions/what-are-the-components-of-metacognition
 related_article2:
-    id: 160314
-    title: How can critical thinking be applied in academic writing?
+    id: 160317
+    title: >-
+        What are the components of metacognition?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-critical-thinking-be-applied-in-academic-writing
+    url: /learn/education-studies/questions/what-are-the-components-of-metacognition
 related_article3:
     id: 160327
-    title: What factors should be considered when forming effective study groups?
+    title: >-
+        What factors should be considered when forming effective study groups?
     subject: Education Studies
     url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-effective-study-groups
 related_article4:
-    id: 160302
-    title: How does the Cornell Method help in note-making?
+    id: 160317
+    title: >-
+        What are the components of metacognition?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-cornell-method-help-in-notemaking
+    url: /learn/education-studies/questions/what-are-the-components-of-metacognition
 related_article5:
     id: 160299
-    title: What is the difference between skimming and scanning in reading strategies?
+    title: >-
+        What is the difference between skimming and scanning in reading strategies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-skimming-and-scanning-in-reading-strategies
 ---

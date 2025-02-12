@@ -2,8 +2,10 @@
 _schema: default
 id: 165658
 date: 2025-01-29
-title: How does the traceroute command help in diagnosing network issues?
-article_title: How does the traceroute command help in diagnosing network issues?
+title: >-
+    How does the traceroute command help in diagnosing network issues?
+article_title: >-
+    How does the traceroute command help in diagnosing network issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-traceroute-command-help-in-diagnosing-network-issues.md
 url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
 score: -1.0
 related_article1:
-    id: 165655
-    title: What are the key considerations when selecting devices for a small network?
+    id: 165662
+    title: >-
+        What information can be obtained from the 'show running-config' command?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
 related_article2:
+    id: 165665
+    title: >-
+        What are common causes of IP addressing issues on IOS devices?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
+related_article3:
+    id: 165663
+    title: >-
+        What is the primary purpose of the debug command in network troubleshooting?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-the-debug-command-in-network-troubleshooting
+related_article4:
     id: 165657
-    title: What is the purpose of using the ping command in network troubleshooting?
+    title: >-
+        What is the purpose of using the ping command in network troubleshooting?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-ping-command-in-network-troubleshooting
-related_article3:
-    id: 165660
-    title: What command would you use to view the IP configuration on a Windows host?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
-related_article4:
-    id: 165656
-    title: How does redundancy improve the reliability of a small network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
 related_article5:
-    id: 165660
-    title: What command would you use to view the IP configuration on a Windows host?
+    id: 165662
+    title: >-
+        What information can be obtained from the 'show running-config' command?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
+    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163598
 date: 2025-01-27
-title: What was the significance of Spartan military training in Greek warfare?
-article_title: What was the significance of Spartan military training in Greek warfare?
+title: >-
+    What was the significance of Spartan military training in Greek warfare?
+article_title: >-
+    What was the significance of Spartan military training in Greek warfare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-significance-of-spartan-military-training-in-greek-warfa
 url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
 score: 9.5
 related_article1:
-    id: 163601
-    title: What challenges are faced in interpreting archaeological evidence from Sparta?
+    id: 163596
+    title: >-
+        How did the Dorian dialect influence the Greek language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
+    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
 related_article2:
-    id: 163599
-    title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+    id: 163600
+    title: >-
+        What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
+    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
 related_article3:
-    id: 163588
-    title: What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
 related_article4:
     id: 163589
-    title: How did non-Spartan authors contribute to the skewed perception of Sparta?
+    title: >-
+        How did non-Spartan authors contribute to the skewed perception of Sparta?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
 related_article5:
-    id: 163597
-    title: Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
+    id: 163591
+    title: >-
+        How did Sparta's urban development compare to that of Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
+    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
 ---
 
 &nbsp;

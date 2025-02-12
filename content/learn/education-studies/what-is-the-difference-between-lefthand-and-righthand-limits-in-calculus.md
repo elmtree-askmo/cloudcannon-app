@@ -2,8 +2,10 @@
 _schema: default
 id: 169292
 date: 2025-02-05
-title: What is the difference between left-hand and right-hand limits in calculus?
-article_title: What is the difference between left-hand and right-hand limits in calculus?
+title: >-
+    What is the difference between left-hand and right-hand limits in calculus?
+article_title: >-
+    What is the difference between left-hand and right-hand limits in calculus?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-lefthand-and-righthand-limits-in-calcu
 url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
 score: -1.0
 related_article1:
-    id: 169303
-    title: How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    id: 169302
+    title: >-
+        What is the secant line slope, and how does it relate to the average rate of change of a function?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
+    url: /learn/education-studies/questions/what-is-the-secant-line-slope-and-how-does-it-relate-to-the-average-rate-of-change-of-a-function
 related_article2:
-    id: 169294
-    title: How are vertical asymptotes identified in rational functions, and what is their graphical representation?
+    id: 169287
+    title: >-
+        How are vectors used in physics and engineering applications?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vertical-asymptotes-identified-in-rational-functions-and-what-is-their-graphical-representation
+    url: /learn/education-studies/questions/how-are-vectors-used-in-physics-and-engineering-applications
 related_article3:
-    id: 169298
-    title: What are the characteristics of rational functions, and how do they exhibit asymptotic behavior?
+    id: 169297
+    title: >-
+        How is continuity at transition points in piecewise functions analyzed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-rational-functions-and-how-do-they-exhibit-asymptotic-behavior
+    url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
 related_article4:
-    id: 169299
-    title: How can the domain and range of absolute value functions be determined?
+    id: 169288
+    title: >-
+        What are the characteristics of continuous functions, and how do polynomial functions fit this category?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-domain-and-range-of-absolute-value-functions-be-determined
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-continuous-functions-and-how-do-polynomial-functions-fit-this-category
 related_article5:
-    id: 169303
-    title: How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    id: 169288
+    title: >-
+        What are the characteristics of continuous functions, and how do polynomial functions fit this category?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-continuous-functions-and-how-do-polynomial-functions-fit-this-category
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165131
 date: 2025-01-28
-title: What are the main threats to internal validity in research studies?
-article_title: What are the main threats to internal validity in research studies?
+title: >-
+    What are the main threats to internal validity in research studies?
+article_title: >-
+    What are the main threats to internal validity in research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-threats-to-internal-validity-in-research-studies.md
 url: /learn/education-studies/questions/what-are-the-main-threats-to-internal-validity-in-research-studies
 score: -1.0
 related_article1:
-    id: 165127
-    title: How do variables, hypotheses, and procedures contribute to experimental design?
+    id: 165122
+    title: >-
+        What are the key differences between surveys, observations, and experiments in data collection?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-variables-hypotheses-and-procedures-contribute-to-experimental-design
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-surveys-observations-and-experiments-in-data-collection
 related_article2:
-    id: 165138
-    title: What are the benefits of a within-subjects design compared to a between-subjects design?
+    id: 165129
+    title: >-
+        How does block randomization differ from simple randomization, and what are its applications?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-a-withinsubjects-design-compared-to-a-betweensubjects-design
+    url: /learn/education-studies/questions/how-does-block-randomization-differ-from-simple-randomization-and-what-are-its-applications
 related_article3:
-    id: 165134
-    title: How can observer bias be minimized in research studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
-related_article4:
     id: 165149
-    title: Why is study replication important in research, and what challenges does it face?
+    title: >-
+        Why is study replication important in research, and what challenges does it face?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-study-replication-important-in-research-and-what-challenges-does-it-face
-related_article5:
-    id: 165128
-    title: What is simple randomization, and where is it typically applied?
+related_article4:
+    id: 165129
+    title: >-
+        How does block randomization differ from simple randomization, and what are its applications?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
+    url: /learn/education-studies/questions/how-does-block-randomization-differ-from-simple-randomization-and-what-are-its-applications
+related_article5:
+    id: 165129
+    title: >-
+        How does block randomization differ from simple randomization, and what are its applications?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-block-randomization-differ-from-simple-randomization-and-what-are-its-applications
 ---
 
 &nbsp;

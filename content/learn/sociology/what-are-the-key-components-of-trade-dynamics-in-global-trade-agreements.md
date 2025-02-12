@@ -2,8 +2,10 @@
 _schema: default
 id: 165997
 date: 2025-01-29
-title: What are the key components of trade dynamics in global trade agreements?
-article_title: What are the key components of trade dynamics in global trade agreements?
+title: >-
+    What are the key components of trade dynamics in global trade agreements?
+article_title: >-
+    What are the key components of trade dynamics in global trade agreements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-trade-dynamics-in-global-trade-agreeme
 url: /learn/sociology/questions/what-are-the-key-components-of-trade-dynamics-in-global-trade-agreements
 score: -1.0
 related_article1:
-    id: 165994
-    title: How does international cooperation address global health concerns such as disease transmission?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
-related_article2:
-    id: 165995
-    title: What are the primary security concerns related to political instability and terrorism?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
-related_article3:
     id: 165982
-    title: How has technological integration influenced contemporary globalization?
+    title: >-
+        How has technological integration influenced contemporary globalization?
     subject: Sociology
     url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article2:
+    id: 165982
+    title: >-
+        How has technological integration influenced contemporary globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
+related_article3:
+    id: 165996
+    title: >-
+        How do regional disparities contribute to economic inequality?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
 related_article4:
-    id: 165995
-    title: What are the primary security concerns related to political instability and terrorism?
+    id: 165983
+    title: >-
+        Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
 related_article5:
-    id: 165990
-    title: What is the significance of global production networks in commodity chains?
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
 ---
 
 &nbsp;

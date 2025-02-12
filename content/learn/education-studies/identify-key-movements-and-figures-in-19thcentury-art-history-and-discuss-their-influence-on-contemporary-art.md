@@ -2,8 +2,10 @@
 _schema: default
 id: 159798
 date: 2025-01-23
-title: Identify key movements and figures in 19th-century art history and discuss their influence on contemporary art.
-article_title: Identify key movements and figures in 19th-century art history and discuss their influence on contemporary art.
+title: >-
+    Identify key movements and figures in 19th-century art history and discuss their influence on contemporary art.
+article_title: >-
+    Identify key movements and figures in 19th-century art history and discuss their influence on contemporary art.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-key-movements-and-figures-in-19thcentury-art-history-and-dis
 url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-discuss-their-influence-on-contemporary-art
 score: -1.0
 related_article1:
-    id: 159791
-    title: How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-curriculum-and-focus-of-art-academies-evolve-and-what-impact-did-this-have-on-artistic-development
-related_article2:
-    id: 159761
-    title: How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
-related_article3:
-    id: 159794
-    title: Who were the key figures of Impressionism, and what were the main characteristics of this movement?
-    subject: Education Studies
-    url: /learn/education-studies/questions/who-were-the-key-figures-of-impressionism-and-what-were-the-main-characteristics-of-this-movement
-related_article4:
-    id: 159796
-    title: How did industrialization and modernization lead to changes in artistic techniques and styles?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles
-related_article5:
-    id: 159759
-    title: In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    id: 159788
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
+related_article2:
+    id: 159768
+    title: >-
+        Discuss the role of artists in society and how social movements influenced art during the evolution of artistic professionalism.
+    subject: Education Studies
+    url: /learn/education-studies/questions/discuss-the-role-of-artists-in-society-and-how-social-movements-influenced-art-during-the-evolution-of-artistic-professionalism
+related_article3:
+    id: 159765
+    title: >-
+        What are the origins and key characteristics of Impressionism, and how did it impact art criticism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-origins-and-key-characteristics-of-impressionism-and-how-did-it-impact-art-criticism
+related_article4:
+    id: 159770
+    title: >-
+        What role did art criticism play in shaping public perception, and who were some key critics and their contributions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-did-art-criticism-play-in-shaping-public-perception-and-who-were-some-key-critics-and-their-contributions
+related_article5:
+    id: 159799
+    title: >-
+        How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
 ---
 
 &nbsp;

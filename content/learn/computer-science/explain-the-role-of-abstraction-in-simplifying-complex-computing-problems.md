@@ -2,8 +2,10 @@
 _schema: default
 id: 161128
 date: 2025-01-24
-title: Explain the role of abstraction in simplifying complex computing problems.
-article_title: Explain the role of abstraction in simplifying complex computing problems.
+title: >-
+    Explain the role of abstraction in simplifying complex computing problems.
+article_title: >-
+    Explain the role of abstraction in simplifying complex computing problems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-role-of-abstraction-in-simplifying-complex-computing-prob
 url: /learn/computer-science/questions/explain-the-role-of-abstraction-in-simplifying-complex-computing-problems
 score: -1.0
 related_article1:
-    id: 161133
-    title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
+    id: 160812
+    title: >-
+        What distinguishes rational numbers from irrational numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
+    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
 related_article2:
-    id: 161281
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 160800
+    title: >-
+        What role does abstraction play in simplifying complex computing problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-simplifying-complex-computing-problems
 related_article3:
-    id: 160967
-    title: What are the mathematical implications of infinite sets in set theory?
+    id: 160965
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
 related_article4:
     id: 160799
-    title: How does the level of representation impact algorithm complexity?
+    title: >-
+        How does the level of representation impact algorithm complexity?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
 related_article5:
-    id: 161130
-    title: What is the relationship between data structures and algorithms in terms of data representation?
+    id: 160811
+    title: >-
+        How is proof by contradiction applied in mathematical proofs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-algorithms-in-terms-of-data-representation
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-applied-in-mathematical-proofs
 ---
 
 &nbsp;

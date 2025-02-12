@@ -2,8 +2,10 @@
 _schema: default
 id: 168494
 date: 2025-02-03
-title: What are the career opportunities available in the medical field?
-article_title: What are the career opportunities available in the medical field?
+title: >-
+    What are the career opportunities available in the medical field?
+article_title: >-
+    What are the career opportunities available in the medical field?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-career-opportunities-available-in-the-medical-field.md
 url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
 score: -1.0
 related_article1:
-    id: 168501
-    title: How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
+    id: 168507
+    title: >-
+        What are the primary responsibilities of routine and managerial roles in business administration?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-routine-and-managerial-roles-in-business-administration
 related_article2:
-    id: 168506
-    title: What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
+    id: 168503
+    title: >-
+        What skills are necessary for effective product and service promotion in sales and marketing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-financial-planning-and-analysis-and-how-do-they-relate-to-job-titles-in-the-financial-sector
+    url: /learn/education-studies/questions/what-skills-are-necessary-for-effective-product-and-service-promotion-in-sales-and-marketing
 related_article3:
-    id: 168500
-    title: What problem-solving and reasoning skills are necessary for technology-related job roles?
+    id: 168514
+    title: >-
+        What are the essential skills for assertiveness in the workplace, and how can they be developed for success in assertive roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-problemsolving-and-reasoning-skills-are-necessary-for-technologyrelated-job-roles
+    url: /learn/education-studies/questions/what-are-the-essential-skills-for-assertiveness-in-the-workplace-and-how-can-they-be-developed-for-success-in-assertive-roles
 related_article4:
-    id: 168511
-    title: What are the main responsibilities and skills required for teaching and social service roles?
+    id: 168502
+    title: >-
+        What are the key responsibilities of administrative duties in a business setting?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-administrative-duties-in-a-business-setting
 related_article5:
-    id: 168489
-    title: What are the routine duties and responsibilities associated with business administration roles?
+    id: 168505
+    title: >-
+        What are the key problem-solving skills required for technology applications, and how can workers keep current with advances in the field?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-routine-duties-and-responsibilities-associated-with-business-administration-roles
+    url: /learn/education-studies/questions/what-are-the-key-problemsolving-skills-required-for-technology-applications-and-how-can-workers-keep-current-with-advances-in-the-field
 ---
 
 &nbsp;

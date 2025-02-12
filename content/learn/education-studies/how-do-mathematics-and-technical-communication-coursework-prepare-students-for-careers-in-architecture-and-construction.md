@@ -2,8 +2,10 @@
 _schema: default
 id: 168477
 date: 2025-02-03
-title: How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
-article_title: How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
+title: >-
+    How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
+article_title: >-
+    How do mathematics and technical communication coursework prepare students for careers in architecture and construction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-mathematics-and-technical-communication-coursework-prepare-stu
 url: /learn/education-studies/questions/how-do-mathematics-and-technical-communication-coursework-prepare-students-for-careers-in-architecture-and-construction
 score: -1.0
 related_article1:
-    id: 168478
-    title: What is the significance of understanding state and local building codes in construction projects?
+    id: 168474
+    title: >-
+        What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-understanding-state-and-local-building-codes-in-construction-projects
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
 related_article2:
-    id: 168473
-    title: How do construction careers differ in terms of work environment and job types?
+    id: 168481
+    title: >-
+        What educational requirements and technical skills are necessary for a career as a wind turbine technician?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
+    url: /learn/education-studies/questions/what-educational-requirements-and-technical-skills-are-necessary-for-a-career-as-a-wind-turbine-technician
 related_article3:
-    id: 168485
-    title: How does vocational education contribute to career development in architecture and construction?
+    id: 168481
+    title: >-
+        What educational requirements and technical skills are necessary for a career as a wind turbine technician?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/what-educational-requirements-and-technical-skills-are-necessary-for-a-career-as-a-wind-turbine-technician
 related_article4:
-    id: 168485
-    title: How does vocational education contribute to career development in architecture and construction?
+    id: 168474
+    title: >-
+        What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
 related_article5:
-    id: 168484
-    title: What are the key components of effective safety training in the construction industry?
+    id: 168474
+    title: >-
+        What are the key differences between electrical work, plumbing, and HVAC systems in skilled trades?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-electrical-work-plumbing-and-hvac-systems-in-skilled-trades
 ---
 
 &nbsp;

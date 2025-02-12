@@ -2,8 +2,10 @@
 _schema: default
 id: 165275
 date: 2025-01-28
-title: Explain the mechanism of natural selection and its role in evolutionary change.
-article_title: Explain the mechanism of natural selection and its role in evolutionary change.
+title: >-
+    Explain the mechanism of natural selection and its role in evolutionary change.
+article_title: >-
+    Explain the mechanism of natural selection and its role in evolutionary change.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-mechanism-of-natural-selection-and-its-role-in-evolutiona
 url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
 score: -1.0
 related_article1:
-    id: 165286
-    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    id: 165283
+    title: >-
+        How can animal behavior serve as an indicator of environmental disturbance in conservation biology?
     subject: Biology
-    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+    url: /learn/biology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbance-in-conservation-biology
 related_article2:
+    id: 165279
+    title: >-
+        What is the significance of individual learning in the context of animal behavior and fitness?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
+related_article3:
+    id: 165273
+    title: >-
+        What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-contribute-to-understanding-animal-behavior
+related_article4:
+    id: 165276
+    title: >-
+        What are Darwin’s postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article5:
     id: 165277
-    title: Describe associative and non-associative learning and their roles in animal behavior.
+    title: >-
+        Describe associative and non-associative learning and their roles in animal behavior.
     subject: Biology
     url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
-related_article3:
-    id: 165270
-    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
-    subject: Biology
-    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
-related_article4:
-    id: 165281
-    title: What is optimal foraging theory and how does it apply to predicting animal foraging strategies?
-    subject: Biology
-    url: /learn/biology/questions/what-is-optimal-foraging-theory-and-how-does-it-apply-to-predicting-animal-foraging-strategies
-related_article5:
-    id: 165270
-    title: What is brood parasitism and provide an example involving the Red-backed Fairywren and Brush Cuckoo?
-    subject: Biology
-    url: /learn/biology/questions/what-is-brood-parasitism-and-provide-an-example-involving-the-redbacked-fairywren-and-brush-cuckoo
 ---
 
 &nbsp;

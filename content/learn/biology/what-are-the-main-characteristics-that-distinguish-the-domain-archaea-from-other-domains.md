@@ -2,8 +2,10 @@
 _schema: default
 id: 168681
 date: 2025-02-04
-title: What are the main characteristics that distinguish the Domain Archaea from other domains?
-article_title: What are the main characteristics that distinguish the Domain Archaea from other domains?
+title: >-
+    What are the main characteristics that distinguish the Domain Archaea from other domains?
+article_title: >-
+    What are the main characteristics that distinguish the Domain Archaea from other domains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-that-distinguish-the-domain-archaea
 url: /learn/biology/questions/what-are-the-main-characteristics-that-distinguish-the-domain-archaea-from-other-domains
 score: -1.0
 related_article1:
-    id: 168694
-    title: What are the defining characteristics of Phylum Zygomycota?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-defining-characteristics-of-phylum-zygomycota
-related_article2:
-    id: 168691
-    title: Describe the role of plasmodial slime molds in the ecosystem.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
-related_article3:
     id: 168688
-    title: What are the main differences between plant-like, animal-like, and fungal-like protists?
+    title: >-
+        What are the main differences between plant-like, animal-like, and fungal-like protists?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
+related_article2:
+    id: 168696
+    title: >-
+        What are the reproductive structures found in Phylum Basidiomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-reproductive-structures-found-in-phylum-basidiomycota
+related_article3:
+    id: 168687
+    title: >-
+        What role do cyanobacteria play in nitrogen fixation?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-cyanobacteria-play-in-nitrogen-fixation
 related_article4:
-    id: 168690
-    title: What is the function of pseudopodia in protozoans?
+    id: 168684
+    title: >-
+        Describe the process of binary fission in bacterial reproduction.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
+    url: /learn/biology/questions/describe-the-process-of-binary-fission-in-bacterial-reproduction
 related_article5:
-    id: 168690
-    title: What is the function of pseudopodia in protozoans?
+    id: 168686
+    title: >-
+        What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
+    url: /learn/biology/questions/what-is-the-difference-between-grampositive-and-gramnegative-bacteria-in-terms-of-cell-wall-composition
 ---
 
 &nbsp;

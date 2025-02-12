@@ -2,8 +2,10 @@
 _schema: default
 id: 170178
 date: 2025-02-06
-title: What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
-article_title: What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
+title: >-
+    What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
+article_title: >-
+    What engineering techniques were used in the construction of Hadrian's Wall, and how did they contribute to its fortifications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-engineering-techniques-were-used-in-the-construction-of-hadrians
 url: /learn/history-of-the-world/questions/what-engineering-techniques-were-used-in-the-construction-of-hadrians-wall-and-how-did-they-contribute-to-its-fortifications
 score: 9.5
 related_article1:
-    id: 170168
-    title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+    id: 170166
+    title: >-
+        What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-and-distribution-patterns-of-unenclosed-villages-during-the-iron-age
 related_article2:
-    id: 170187
-    title: What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
+    id: 170169
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
+    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article3:
-    id: 170187
-    title: What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
+    id: 170169
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
+    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article4:
-    id: 170175
-    title: What are the historical theories regarding the origins and identity of the Pictish culture?
+    id: 170186
+    title: >-
+        How did Roman-British relations evolve during the initial contact and conquest period?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
+    url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
 related_article5:
-    id: 170184
-    title: Who was Calgacus, and what was his influence on Caledonian warfare?
+    id: 170171
+    title: >-
+        Explain the strategic importance of Roman marching camps and the archaeological discoveries associated with them.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
+    url: /learn/history-of-the-world/questions/explain-the-strategic-importance-of-roman-marching-camps-and-the-archaeological-discoveries-associated-with-them
 ---
 
 &nbsp;

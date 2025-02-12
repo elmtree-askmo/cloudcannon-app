@@ -2,8 +2,10 @@
 _schema: default
 id: 165102
 date: 2025-01-28
-title: What are the key differences between between-subjects and within-subjects experimental designs?
-article_title: What are the key differences between between-subjects and within-subjects experimental designs?
+title: >-
+    What are the key differences between between-subjects and within-subjects experimental designs?
+article_title: >-
+    What are the key differences between between-subjects and within-subjects experimental designs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-betweensubjects-and-withinsubjec
 url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
 score: -1.0
 related_article1:
+    id: 165107
+    title: >-
+        Why is accurate data coding important and what are some common coding errors?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-accurate-data-coding-important-and-what-are-some-common-coding-errors
+related_article2:
+    id: 165098
+    title: >-
+        How can independent variables be manipulated to impact experimental outcomes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
+related_article3:
+    id: 165120
+    title: >-
+        What are the biological and environmental factors affecting taste perception?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
+related_article4:
     id: 165101
-    title: Explain the difference between interval and ratio measurement types with examples.
+    title: >-
+        Explain the difference between interval and ratio measurement types with examples.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
-related_article2:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
-related_article3:
-    id: 165104
-    title: What are the differences between open-ended and closed-ended survey questions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-openended-and-closedended-survey-questions
-related_article4:
-    id: 165113
-    title: What is observer bias and how can it be reduced in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 related_article5:
-    id: 165104
-    title: What are the differences between open-ended and closed-ended survey questions?
+    id: 165095
+    title: >-
+        What is a dependent variable and why is it important in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-openended-and-closedended-survey-questions
+    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
 ---
 
 &nbsp;

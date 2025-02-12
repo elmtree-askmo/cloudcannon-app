@@ -2,8 +2,10 @@
 _schema: default
 id: 165353
 date: 2025-01-29
-title: What are the differences between in-person and online writing center appointments?
-article_title: What are the differences between in-person and online writing center appointments?
+title: >-
+    What are the differences between in-person and online writing center appointments?
+article_title: >-
+    What are the differences between in-person and online writing center appointments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-inperson-and-online-writing-center-a
 url: /learn/education-studies/questions/what-are-the-differences-between-inperson-and-online-writing-center-appointments
 score: -1.0
 related_article1:
+    id: 165351
+    title: >-
+        What are the key components of writing guides for different genres?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-writing-guides-for-different-genres
+related_article2:
     id: 165359
-    title: What methods are used to identify and analyze themes in literary analysis?
+    title: >-
+        What methods are used to identify and analyze themes in literary analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-methods-are-used-to-identify-and-analyze-themes-in-literary-analysis
-related_article2:
-    id: 165356
-    title: How does thesis development contribute to the effectiveness of a research paper?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-thesis-development-contribute-to-the-effectiveness-of-a-research-paper
 related_article3:
-    id: 165361
-    title: What are the main stages of the writing process, and how do they contribute to effective writing?
+    id: 165359
+    title: >-
+        What methods are used to identify and analyze themes in literary analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
+    url: /learn/education-studies/questions/what-methods-are-used-to-identify-and-analyze-themes-in-literary-analysis
 related_article4:
-    id: 165354
-    title: How can students access writing center services at the Greenlaw Library location?
+    id: 165355
+    title: >-
+        What is the importance of specialized feedback in academic writing support?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-access-writing-center-services-at-the-greenlaw-library-location
+    url: /learn/education-studies/questions/what-is-the-importance-of-specialized-feedback-in-academic-writing-support
 related_article5:
-    id: 165352
-    title: How do documentation guides assist in maintaining proper grammar?
+    id: 165360
+    title: >-
+        How does character analysis contribute to understanding themes in literature?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-documentation-guides-assist-in-maintaining-proper-grammar
+    url: /learn/education-studies/questions/how-does-character-analysis-contribute-to-understanding-themes-in-literature
 ---
 
 &nbsp;

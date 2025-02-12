@@ -2,8 +2,10 @@
 _schema: default
 id: 166965
 date: 2025-01-31
-title: How do molecular chaperones assist in protein folding?
-article_title: How do molecular chaperones assist in protein folding?
+title: >-
+    How do molecular chaperones assist in protein folding?
+article_title: >-
+    How do molecular chaperones assist in protein folding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,22 @@ url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protei
 score: -1.0
 related_article1:
     id: 166962
-    title: How does the size and shape of a protein influence its function?
+    title: >-
+        How does the size and shape of a protein influence its function?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-does-the-size-and-shape-of-a-protein-influence-its-function
 related_article2:
-    id: 166962
-    title: How does the size and shape of a protein influence its function?
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-size-and-shape-of-a-protein-influence-its-function
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 related_article3:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166967
+    title: >-
+        How do hydrophilic and hydrophobic R-groups interact with water?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
-related_article4:
-    id: 166954
-    title: What are the characteristics of nonpolar aliphatic R-groups?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
-related_article5:
-    id: 166950
-    title: What are the general functions of proteins in biological systems?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
 ---
 
 &nbsp;

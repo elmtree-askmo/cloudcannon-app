@@ -2,8 +2,10 @@
 _schema: default
 id: 169171
 date: 2025-02-04
-title: What is the significance of corner conditions in architectural design?
-article_title: What is the significance of corner conditions in architectural design?
+title: >-
+    What is the significance of corner conditions in architectural design?
+article_title: >-
+    What is the significance of corner conditions in architectural design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-corner-conditions-in-architectural-design
 url: /learn/education-studies/questions/what-is-the-significance-of-corner-conditions-in-architectural-design
 score: -1.0
 related_article1:
+    id: 169173
+    title: >-
+        In what ways do power relationships manifest in design, particularly in terms of control and domination?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-do-power-relationships-manifest-in-design-particularly-in-terms-of-control-and-domination
+related_article2:
+    id: 169181
+    title: >-
+        What is the relationship between architectural theories and the design process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+related_article3:
+    id: 169176
+    title: >-
+        How does nonobjectivity in art contribute to the understanding of abstract volumetric space?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-nonobjectivity-in-art-contribute-to-the-understanding-of-abstract-volumetric-space
+related_article4:
+    id: 169182
+    title: >-
+        How do cultural factors influence architectural design and the consideration of diverse needs and values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-cultural-factors-influence-architectural-design-and-the-consideration-of-diverse-needs-and-values
+related_article5:
     id: 169172
-    title: How do aesthetic and formal conditions influence the meeting of planes in architecture?
+    title: >-
+        How do aesthetic and formal conditions influence the meeting of planes in architecture?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-planes-in-architecture
-related_article2:
-    id: 169179
-    title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
-related_article3:
-    id: 169186
-    title: How are generative AI tools used in design, and what ethical considerations are associated with their use?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-generative-ai-tools-used-in-design-and-what-ethical-considerations-are-associated-with-their-use
-related_article4:
-    id: 169180
-    title: How do sustainability principles in design address the conservation of resources and healthful buildings?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-sustainability-principles-in-design-address-the-conservation-of-resources-and-healthful-buildings
-related_article5:
-    id: 169174
-    title: How does human perception influence the interpretation of space in architecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
 ---
 
 &nbsp;

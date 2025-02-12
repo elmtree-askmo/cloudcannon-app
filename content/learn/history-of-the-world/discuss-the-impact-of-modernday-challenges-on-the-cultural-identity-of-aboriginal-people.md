@@ -2,8 +2,10 @@
 _schema: default
 id: 169028
 date: 2025-02-04
-title: Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
-article_title: Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
+title: >-
+    Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
+article_title: >-
+    Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-o
 url: /learn/history-of-the-world/questions/discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-of-aboriginal-people
 score: 9.5
 related_article1:
-    id: 169030
-    title: What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+    id: 169032
+    title: >-
+        What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
+    url: /learn/history-of-the-world/questions/what-are-the-main-contemporary-challenges-faced-by-aboriginal-communities-in-preserving-their-cultural-identity
 related_article2:
-    id: 169033
-    title: How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
+    id: 169025
+    title: >-
+        Identify and describe the significance of one notable memorial related to Aboriginal massacres.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-oral-histories-contribute-to-the-understanding-of-aboriginal-perspectives-on-historical-narratives
+    url: /learn/history-of-the-world/questions/identify-and-describe-the-significance-of-one-notable-memorial-related-to-aboriginal-massacres
 related_article3:
-    id: 169024
-    title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+    id: 169031
+    title: >-
+        Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
 related_article4:
-    id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
+    id: 169026
+    title: >-
+        How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
+    url: /learn/history-of-the-world/questions/how-did-punitive-expeditions-contribute-to-the-conflict-between-settlers-and-aboriginal-people-during-colonial-history
 related_article5:
-    id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
+    id: 169036
+    title: >-
+        What are the main challenges faced in the preservation of Aboriginal heritage sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
 ---
 
 &nbsp;

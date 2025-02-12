@@ -2,8 +2,10 @@
 _schema: default
 id: 165912
 date: 2025-01-29
-title: What is the relationship between language, communication, and social structures?
-article_title: What is the relationship between language, communication, and social structures?
+title: >-
+    What is the relationship between language, communication, and social structures?
+article_title: >-
+    What is the relationship between language, communication, and social structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-language-communication-and-social-st
 url: /learn/education-studies/questions/what-is-the-relationship-between-language-communication-and-social-structures
 score: -1.0
 related_article1:
-    id: 165911
-    title: How do cultural artifacts reflect literature and oral traditions?
+    id: 165910
+    title: >-
+        What is the transition process from expressive to communicative essays in writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-artifacts-reflect-literature-and-oral-traditions
+    url: /learn/education-studies/questions/what-is-the-transition-process-from-expressive-to-communicative-essays-in-writing
 related_article2:
-    id: 165915
-    title: What is the significance of the Bologna Accord in understanding academic credit systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-the-bologna-accord-in-understanding-academic-credit-systems
-related_article3:
-    id: 165910
-    title: What is the transition process from expressive to communicative essays in writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-transition-process-from-expressive-to-communicative-essays-in-writing
-related_article4:
-    id: 165910
-    title: What is the transition process from expressive to communicative essays in writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-transition-process-from-expressive-to-communicative-essays-in-writing
-related_article5:
     id: 165906
-    title: What is the role of lecturers as researchers in a university setting?
+    title: >-
+        What is the role of lecturers as researchers in a university setting?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-lecturers-as-researchers-in-a-university-setting
+related_article3:
+    id: 165906
+    title: >-
+        What is the role of lecturers as researchers in a university setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-lecturers-as-researchers-in-a-university-setting
+related_article4:
+    id: 165913
+    title: >-
+        Why is lifelong learning important for personal and professional life?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-lifelong-learning-important-for-personal-and-professional-life
+related_article5:
+    id: 165914
+    title: >-
+        How can students effectively balance study and personal life through time management?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162341
 date: 2025-01-25
-title: What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
-article_title: What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
+title: >-
+    What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
+article_title: >-
+    What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury
 url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
 score: -1.0
 related_article1:
-    id: 162338
-    title: What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
+    id: 162343
+    title: >-
+        What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
+    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
 related_article2:
-    id: 162316
-    title: What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
+    id: 162323
+    title: >-
+        What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-before-1867-and-how-did-they-address-cholera-outbreaks
+    url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
 related_article3:
-    id: 162345
-    title: What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+    id: 162323
+    title: >-
+        What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
+    url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
 related_article4:
-    id: 162348
-    title: How did the 1985 Non-Smokers Health Act address smoking prohibition in federal buildings and workplaces?
+    id: 162321
+    title: >-
+        How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-1985-nonsmokers-health-act-address-smoking-prohibition-in-federal-buildings-and-workplaces
-related_article5:
-    id: 162344
-    title: How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
+    url: /learn/health-studies/questions/how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-the-establishment-of-the-canadian-public-health-association
 ---
 
 &nbsp;

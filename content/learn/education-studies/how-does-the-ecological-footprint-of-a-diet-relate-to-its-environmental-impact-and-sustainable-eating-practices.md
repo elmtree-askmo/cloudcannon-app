@@ -2,8 +2,10 @@
 _schema: default
 id: 162567
 date: 2025-01-25
-title: How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
-article_title: How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
+title: >-
+    How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
+article_title: >-
+    How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-ecological-footprint-of-a-diet-relate-to-its-environment
 url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-relate-to-its-environmental-impact-and-sustainable-eating-practices
 score: -1.0
 related_article1:
-    id: 162259
-    title: How can you evaluate the credibility and relevance of evidence presented in a text?
+    id: 162558
+    title: >-
+        What questions can help identify an author's point of view in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
+    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
 related_article2:
-    id: 162269
-    title: What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
+    id: 162264
+    title: >-
+        What are the key components to consider when analyzing nutrition articles, particularly regarding health benefits and dietary guidelines?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-health-considerations-for-maintaining-nutritional-balance-and-adequate-protein-sources-in-a-vegetarian-diet
+    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-analyzing-nutrition-articles-particularly-regarding-health-benefits-and-dietary-guidelines
 related_article3:
-    id: 162564
-    title: What strategies can be employed to identify bias and persuasive techniques in a text?
+    id: 162569
+    title: >-
+        Why is variety important in a plant-based diet, and how can animal products be included?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
+    url: /learn/education-studies/questions/why-is-variety-important-in-a-plantbased-diet-and-how-can-animal-products-be-included
 related_article4:
-    id: 162266
-    title: What are the health benefits associated with a plant-based diet, and how do they contribute to disease prevention?
+    id: 162260
+    title: >-
+        What is the purpose of using different text structures, such as cause-and-effect or compare and contrast, in writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-health-benefits-associated-with-a-plantbased-diet-and-how-do-they-contribute-to-disease-prevention
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-different-text-structures-such-as-causeandeffect-or-compare-and-contrast-in-writing
 related_article5:
-    id: 162556
-    title: Why is understanding the author's purpose important when analyzing a text?
+    id: 162558
+    title: >-
+        What questions can help identify an author's point of view in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-understanding-the-authors-purpose-important-when-analyzing-a-text
+    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167792
 date: 2025-02-01
-title: How does incomplete dominance differ from complete dominance?
-article_title: How does incomplete dominance differ from complete dominance?
+title: >-
+    How does incomplete dominance differ from complete dominance?
+article_title: >-
+    How does incomplete dominance differ from complete dominance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-incomplete-dominance-differ-from-complete-dominance.md
 url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance
 score: -1.0
 related_article1:
-    id: 167782
-    title: What is the difference between dominant and recessive traits in Mendelian inheritance?
+    id: 167797
+    title: >-
+        How do you determine the degrees of freedom in a chi-square test?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
+    url: /learn/education-studies/questions/how-do-you-determine-the-degrees-of-freedom-in-a-chisquare-test
 related_article2:
-    id: 167784
-    title: What role do alleles play in determining an organism's traits?
+    id: 167799
+    title: >-
+        What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-alleles-play-in-determining-an-organisms-traits
+    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
 related_article3:
     id: 167801
-    title: What is the ABO blood group system and how does it relate to genotype and phenotype?
+    title: >-
+        What is the ABO blood group system and how does it relate to genotype and phenotype?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
 related_article4:
-    id: 167783
-    title: How do genotype and phenotype differ in genetic expression?
+    id: 167789
+    title: >-
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
+    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
 related_article5:
-    id: 167799
-    title: What is the genetic basis of sickle cell disease and how does it provide a heterozygote advantage?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-basis-of-sickle-cell-disease-and-how-does-it-provide-a-heterozygote-advantage
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 ---
 
 &nbsp;

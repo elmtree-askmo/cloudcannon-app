@@ -2,8 +2,10 @@
 _schema: default
 id: 170488
 date: 2025-02-06
-title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
-article_title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+title: >-
+    Describe the structure and function of motor neurons, sensory neurons, and interneurons.
+article_title: >-
+    Describe the structure and function of motor neurons, sensory neurons, and interneurons.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: describe-the-structure-and-function-of-motor-neurons-sensory-neurons-
 url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
 score: -1.0
 related_article1:
-    id: 170496
-    title: What is the clinical significance of the Babinski test in neurological assessment?
+    id: 170497
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 related_article2:
-    id: 170492
-    title: What is the difference between excitatory and inhibitory neurotransmitters?
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
 related_article3:
     id: 170500
-    title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    title: >-
+        What are some rehabilitation strategies that utilize neuroplasticity for recovery?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
 related_article4:
-    id: 170489
-    title: What roles do axons and dendrites play in neuron function?
+    id: 170494
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
     subject: Nursing
-    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article5:
+    id: 170487
+    title: >-
+        How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 ---
 
 &nbsp;

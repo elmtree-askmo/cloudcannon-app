@@ -2,8 +2,10 @@
 _schema: default
 id: 166292
 date: 2025-01-30
-title: What biopsy techniques are commonly used in the diagnosis of leukemia?
-article_title: What biopsy techniques are commonly used in the diagnosis of leukemia?
+title: >-
+    What biopsy techniques are commonly used in the diagnosis of leukemia?
+article_title: >-
+    What biopsy techniques are commonly used in the diagnosis of leukemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 score: -1.0
 related_article1:
-    id: 166306
-    title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 related_article2:
-    id: 166301
-    title: What is the goal of the induction phase in leukemia treatment?
+    id: 166307
+    title: >-
+        How do solid tumors form in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
 related_article3:
-    id: 166301
-    title: What is the goal of the induction phase in leukemia treatment?
+    id: 166289
+    title: >-
+        What are the key changes in the bone marrow associated with leukemia pathophysiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
 related_article4:
-    id: 166291
-    title: What are the main types of leukemia and their distinguishing features?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
-related_article5:
     id: 166316
-    title: How is thrombocytopenia diagnosed and treated?
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
+related_article5:
+    id: 166305
+    title: >-
+        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
 ---
 
 &nbsp;

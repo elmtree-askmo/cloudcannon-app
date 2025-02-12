@@ -2,8 +2,10 @@
 _schema: default
 id: 168461
 date: 2025-02-03
-title: What traits are commonly suited for specific careers?
-article_title: What traits are commonly suited for specific careers?
+title: >-
+    What traits are commonly suited for specific careers?
+article_title: >-
+    What traits are commonly suited for specific careers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-traits-are-commonly-suited-for-specific-careers.md
 url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
 score: -1.0
 related_article1:
-    id: 168471
-    title: Why might values change over time?
+    id: 168459
+    title: >-
+        Why is it important to reflect on interests and aptitudes during self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-might-values-change-over-time
+    url: /learn/education-studies/questions/why-is-it-important-to-reflect-on-interests-and-aptitudes-during-selfassessment
 related_article2:
-    id: 168454
-    title: What are values and how do they influence career choices?
+    id: 168462
+    title: >-
+        How can aligning skills and values with careers benefit career planning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
+    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
 related_article3:
     id: 168471
-    title: Why might values change over time?
+    title: >-
+        Why might values change over time?
     subject: Education Studies
     url: /learn/education-studies/questions/why-might-values-change-over-time
 related_article4:
-    id: 168466
-    title: Why is creativity important in certain careers?
+    id: 168455
+    title: >-
+        List three core values that might impact career decisions.
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-creativity-important-in-certain-careers
+    url: /learn/education-studies/questions/list-three-core-values-that-might-impact-career-decisions
 related_article5:
-    id: 168462
-    title: How can aligning skills and values with careers benefit career planning?
+    id: 168471
+    title: >-
+        Why might values change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
+    url: /learn/education-studies/questions/why-might-values-change-over-time
 ---
 
 &nbsp;

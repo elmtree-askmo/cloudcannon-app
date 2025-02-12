@@ -2,8 +2,10 @@
 _schema: default
 id: 168315
 date: 2025-02-03
-title: How do hydrogen bonds form between water molecules?
-article_title: How do hydrogen bonds form between water molecules?
+title: >-
+    How do hydrogen bonds form between water molecules?
+article_title: >-
+    How do hydrogen bonds form between water molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-hydrogen-bonds-form-between-water-molecules.md
 url: /learn/chemistry/questions/how-do-hydrogen-bonds-form-between-water-molecules
 score: -1.0
 related_article1:
-    id: 168316
-    title: What is the significance of water's ability to dissociate into ions?
+    id: 168323
+    title: >-
+        How do triglycerides differ from phospholipids in terms of structure and function?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-waters-ability-to-dissociate-into-ions
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
 related_article2:
-    id: 168321
-    title: What is the relationship between polymers and monomers in biological macromolecules?
+    id: 168310
+    title: >-
+        What are the three main subatomic particles in an atom and their respective charges?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom-and-their-respective-charges
 related_article3:
-    id: 168321
-    title: What is the relationship between polymers and monomers in biological macromolecules?
+    id: 168320
+    title: >-
+        What role do buffer systems play in maintaining homeostasis in biological systems?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+    url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
 related_article4:
-    id: 168324
-    title: What is the difference between hydrophobic and hydrophilic substances in terms of their interaction with water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophobic-and-hydrophilic-substances-in-terms-of-their-interaction-with-water
-related_article5:
     id: 168314
-    title: What causes the polar nature of a water molecule?
+    title: >-
+        What causes the polar nature of a water molecule?
     subject: Chemistry
     url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
+related_article5:
+    id: 168312
+    title: >-
+        What is the primary difference between ionic and covalent bonds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
 ---
 
 &nbsp;

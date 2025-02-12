@@ -2,8 +2,10 @@
 _schema: default
 id: 165612
 date: 2025-01-29
-title: What are the key concepts to identify in text structure analysis?
-article_title: What are the key concepts to identify in text structure analysis?
+title: >-
+    What are the key concepts to identify in text structure analysis?
+article_title: >-
+    What are the key concepts to identify in text structure analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-concepts-to-identify-in-text-structure-analysis.md
 url: /learn/education-studies/questions/what-are-the-key-concepts-to-identify-in-text-structure-analysis
 score: -1.0
 related_article1:
-    id: 165589
-    title: What is chunking, and how does it help with working memory constraints?
+    id: 165583
+    title: >-
+        What are the limitations of speed reading techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-chunking-and-how-does-it-help-with-working-memory-constraints
+    url: /learn/education-studies/questions/what-are-the-limitations-of-speed-reading-techniques
 related_article2:
-    id: 165584
-    title: Why is rapid serial visual processing often ineffective for comprehension?
+    id: 165593
+    title: >-
+        What is the role of the fovea, parafovea, and periphery in text processing?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-rapid-serial-visual-processing-often-ineffective-for-comprehension
+    url: /learn/education-studies/questions/what-is-the-role-of-the-fovea-parafovea-and-periphery-in-text-processing
 related_article3:
-    id: 165615
-    title: How can note-taking enhance reading comprehension?
+    id: 165616
+    title: >-
+        What are the benefits of summarizing key points in reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-notetaking-enhance-reading-comprehension
+    url: /learn/education-studies/questions/what-are-the-benefits-of-summarizing-key-points-in-reading-comprehension
 related_article4:
     id: 165602
-    title: How does the Morse Code method assist in highlighting important information?
+    title: >-
+        How does the Morse Code method assist in highlighting important information?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-morse-code-method-assist-in-highlighting-important-information
 related_article5:
-    id: 165581
-    title: How do fixations contribute to text recognition and comprehension?
+    id: 165584
+    title: >-
+        Why is rapid serial visual processing often ineffective for comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-fixations-contribute-to-text-recognition-and-comprehension
+    url: /learn/education-studies/questions/why-is-rapid-serial-visual-processing-often-ineffective-for-comprehension
 ---
 
 &nbsp;

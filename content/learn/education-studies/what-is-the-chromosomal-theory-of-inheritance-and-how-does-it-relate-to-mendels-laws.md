@@ -2,8 +2,10 @@
 _schema: default
 id: 167920
 date: 2025-02-01
-title: What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
-article_title: What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
+title: >-
+    What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
+article_title: >-
+    What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-chromosomal-theory-of-inheritance-and-how-does-it-relate-
 url: /learn/education-studies/questions/what-is-the-chromosomal-theory-of-inheritance-and-how-does-it-relate-to-mendels-laws
 score: -1.0
 related_article1:
-    id: 167924
-    title: What is the significance of phenotypic and genotypic ratios in genetic crosses?
+    id: 167918
+    title: >-
+        What is the significance of homologous chromosomes during meiosis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-phenotypic-and-genotypic-ratios-in-genetic-crosses
+    url: /learn/education-studies/questions/what-is-the-significance-of-homologous-chromosomes-during-meiosis
 related_article2:
+    id: 167931
+    title: >-
+        What is crossing over and how does it contribute to genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
+related_article3:
+    id: 167932
+    title: >-
+        Explain the process of independent assortment and its genetic significance.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-process-of-independent-assortment-and-its-genetic-significance
+related_article4:
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
+related_article5:
     id: 167917
-    title: How does meiosis contribute to genetic variation?
+    title: >-
+        How does meiosis contribute to genetic variation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-meiosis-contribute-to-genetic-variation
-related_article3:
-    id: 167931
-    title: What is crossing over and how does it contribute to genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
-related_article4:
-    id: 167923
-    title: How do true breeding and hybridization differ in genetic studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-true-breeding-and-hybridization-differ-in-genetic-studies
-related_article5:
-    id: 167931
-    title: What is crossing over and how does it contribute to genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
 ---
 
 &nbsp;

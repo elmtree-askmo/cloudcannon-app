@@ -2,8 +2,10 @@
 _schema: default
 id: 162322
 date: 2025-01-25
-title: How do you plot a point on the coordinate plane?
-article_title: How do you plot a point on the coordinate plane?
+title: >-
+    How do you plot a point on the coordinate plane?
+article_title: >-
+    How do you plot a point on the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-plot-a-point-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
 score: -1.0
 related_article1:
-    id: 162325
-    title: How does the center of rotation affect the outcome of a rotation transformation?
+    id: 162331
+    title: >-
+        Why is identifying vertices important in transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
 related_article2:
-    id: 162229
-    title: What is the role of the center of rotation in a rotation transformation?
+    id: 162326
+    title: >-
+        How can transformations impact the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
+    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
 related_article3:
-    id: 162327
-    title: What strategies can be used to match the orientation of two figures?
+    id: 162228
+    title: >-
+        How do you interpret changes in coordinates when a figure is translated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 related_article4:
-    id: 162217
-    title: Why are rigid transformations important in determining congruence?
+    id: 162225
+    title: >-
+        What strategies can be used to match the orientation of two figures after a transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
+    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
 related_article5:
-    id: 162312
-    title: What are the criteria for two figures to be considered congruent?
+    id: 162230
+    title: >-
+        How do you identify the vertices of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+    url: /learn/mathematics/questions/how-do-you-identify-the-vertices-of-a-geometric-figure
 ---
 
 &nbsp;

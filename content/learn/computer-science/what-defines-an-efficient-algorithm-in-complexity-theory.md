@@ -2,8 +2,10 @@
 _schema: default
 id: 161275
 date: 2025-01-24
-title: What defines an efficient algorithm in complexity theory?
-article_title: What defines an efficient algorithm in complexity theory?
+title: >-
+    What defines an efficient algorithm in complexity theory?
+article_title: >-
+    What defines an efficient algorithm in complexity theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-defines-an-efficient-algorithm-in-complexity-theory.md
 url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 score: -1.0
 related_article1:
-    id: 161273
-    title: What is the P vs NP problem, and why is it important in computational theory?
+    id: 160806
+    title: >-
+        What is the P vs NP problem, and why is it important in computational theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
 related_article2:
-    id: 160814
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 161097
+    title: >-
+        What is the relationship between data structures and the representation of initial data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-the-representation-of-initial-data
 related_article3:
-    id: 161128
-    title: Explain the role of abstraction in simplifying complex computing problems.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-role-of-abstraction-in-simplifying-complex-computing-problems
-related_article4:
     id: 161143
-    title: How does the concept of cardinality apply to comparing infinite sets?
+    title: >-
+        How does the concept of cardinality apply to comparing infinite sets?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
-related_article5:
-    id: 160799
-    title: How does the level of representation impact algorithm complexity?
+related_article4:
+    id: 160819
+    title: >-
+        How do static and dynamic analysis techniques differ in algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
+    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+related_article5:
+    id: 161138
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 ---
 
 &nbsp;

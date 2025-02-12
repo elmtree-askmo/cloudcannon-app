@@ -2,8 +2,10 @@
 _schema: default
 id: 168353
 date: 2025-02-03
-title: How do changes in political leadership contribute to political uncertainty and affect society?
-article_title: How do changes in political leadership contribute to political uncertainty and affect society?
+title: >-
+    How do changes in political leadership contribute to political uncertainty and affect society?
+article_title: >-
+    How do changes in political leadership contribute to political uncertainty and affect society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-changes-in-political-leadership-contribute-to-political-uncert
 url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
 score: -1.0
 related_article1:
-    id: 168368
-    title: How does wealth distribution affect economic inequality and what government policies address this issue?
+    id: 168356
+    title: >-
+        In what ways do tariffs influence the cost of goods and consumer prices?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 related_article2:
-    id: 168362
-    title: How does industrialization contribute to global warming, and what are the future predictions?
+    id: 168365
+    title: >-
+        What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
 related_article3:
-    id: 168369
-    title: What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    id: 168357
+    title: >-
+        What strategies might governments employ in response to tariff impositions?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
+    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
 related_article4:
-    id: 168371
-    title: What are the implications of digital communication on social interactions and relationships?
+    id: 168365
+    title: >-
+        What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
 related_article5:
-    id: 168367
-    title: What are the community reactions to new public transit projects?
+    id: 168356
+    title: >-
+        In what ways do tariffs influence the cost of goods and consumer prices?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 ---
 
 &nbsp;

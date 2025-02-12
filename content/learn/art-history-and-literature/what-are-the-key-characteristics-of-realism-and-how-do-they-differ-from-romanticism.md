@@ -2,8 +2,10 @@
 _schema: default
 id: 165965
 date: 2025-01-29
-title: What are the key characteristics of Realism and how do they differ from Romanticism?
-article_title: What are the key characteristics of Realism and how do they differ from Romanticism?
+title: >-
+    What are the key characteristics of Realism and how do they differ from Romanticism?
+article_title: >-
+    What are the key characteristics of Realism and how do they differ from Romanticism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-realism-and-how-do-they-differ-fr
 url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
 score: 9.0
 related_article1:
-    id: 165966
-    title: How did the Pre-Raphaelite movement oppose the academic style of its time?
+    id: 165973
+    title: >-
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 related_article2:
-    id: 165967
-    title: What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
-related_article3:
-    id: 165963
-    title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
-related_article4:
     id: 165969
-    title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+    title: >-
+        In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
-related_article5:
-    id: 165975
-    title: What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+related_article3:
+    id: 165979
+    title: >-
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
+related_article4:
+    id: 165971
+    title: >-
+        What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
+related_article5:
+    id: 165973
+    title: >-
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 ---
 
 &nbsp;

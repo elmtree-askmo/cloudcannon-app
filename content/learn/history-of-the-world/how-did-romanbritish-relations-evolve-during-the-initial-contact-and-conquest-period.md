@@ -2,8 +2,10 @@
 _schema: default
 id: 170186
 date: 2025-02-06
-title: How did Roman-British relations evolve during the initial contact and conquest period?
-article_title: How did Roman-British relations evolve during the initial contact and conquest period?
+title: >-
+    How did Roman-British relations evolve during the initial contact and conquest period?
+article_title: >-
+    How did Roman-British relations evolve during the initial contact and conquest period?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-romanbritish-relations-evolve-during-the-initial-contact-and-
 url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
 score: 9.0
 related_article1:
-    id: 170172
-    title: How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+    id: 170174
+    title: >-
+        Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
+    url: /learn/history-of-the-world/questions/compare-the-contributions-of-cornelius-nepos-to-the-biography-genre-with-those-of-tacitus
 related_article2:
     id: 170169
-    title: Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
     url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article3:
-    id: 170171
-    title: Explain the strategic importance of Roman marching camps and the archaeological discoveries associated with them.
+    id: 170187
+    title: >-
+        What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-strategic-importance-of-roman-marching-camps-and-the-archaeological-discoveries-associated-with-them
+    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
 related_article4:
     id: 170172
-    title: How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+    title: >-
+        How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
 related_article5:
-    id: 170181
-    title: What insights into Roman life do the Vindolanda Tablets provide, and how are they preserved and studied?
+    id: 170182
+    title: >-
+        Describe the types and purposes of Roman inscriptions and the challenges in translating them.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-insights-into-roman-life-do-the-vindolanda-tablets-provide-and-how-are-they-preserved-and-studied
+    url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
 ---
 
 &nbsp;

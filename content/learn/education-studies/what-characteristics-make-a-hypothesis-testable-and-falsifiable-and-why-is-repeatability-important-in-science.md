@@ -2,8 +2,10 @@
 _schema: default
 id: 168152
 date: 2025-02-02
-title: What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
-article_title: What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
+title: >-
+    What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
+article_title: >-
+    What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-characteristics-make-a-hypothesis-testable-and-falsifiable-and-w
 url: /learn/education-studies/questions/what-characteristics-make-a-hypothesis-testable-and-falsifiable-and-why-is-repeatability-important-in-science
 score: -1.0
 related_article1:
-    id: 168161
-    title: How do multiple stressors, such as fisheries and nutrient levels, affect ecosystems?
+    id: 168148
+    title: >-
+        What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-stressors-such-as-fisheries-and-nutrient-levels-affect-ecosystems
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-the-anthropocene-and-how-do-they-illustrate-human-effects-on-the-biosphere
 related_article2:
+    id: 168151
+    title: >-
+        How does the scientific method guide the process of inquiry and hypothesis formation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
+related_article3:
+    id: 168148
+    title: >-
+        What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-the-anthropocene-and-how-do-they-illustrate-human-effects-on-the-biosphere
+related_article4:
     id: 168149
-    title: How do local and global impacts of human activities differ in the context of the Anthropocene?
+    title: >-
+        How do local and global impacts of human activities differ in the context of the Anthropocene?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
-related_article3:
-    id: 168156
-    title: How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to-economic-and-ecological-benefits
-related_article4:
-    id: 168158
-    title: What are the primary causes of deforestation, and how does it impact biodiversity and human activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-causes-of-deforestation-and-how-does-it-impact-biodiversity-and-human-activities
 related_article5:
-    id: 168150
-    title: What are the core principles of environmental justice, and how do they relate to sustainability?
+    id: 168151
+    title: >-
+        How does the scientific method guide the process of inquiry and hypothesis formation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-environmental-justice-and-how-do-they-relate-to-sustainability
+    url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
 ---
 
 &nbsp;

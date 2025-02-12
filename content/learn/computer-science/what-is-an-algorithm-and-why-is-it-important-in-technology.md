@@ -2,8 +2,10 @@
 _schema: default
 id: 160749
 date: 2025-01-24
-title: What is an algorithm and why is it important in technology?
-article_title: What is an algorithm and why is it important in technology?
+title: >-
+    What is an algorithm and why is it important in technology?
+article_title: >-
+    What is an algorithm and why is it important in technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-an-algorithm-and-why-is-it-important-in-technology.md
 url: /learn/computer-science/questions/what-is-an-algorithm-and-why-is-it-important-in-technology
 score: -1.0
 related_article1:
-    id: 160924
-    title: Why is running time analysis crucial in algorithm design?
+    id: 160926
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
+    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 related_article2:
-    id: 160918
-    title: How does the running time of insertion sort compare to merge sort?
+    id: 160753
+    title: >-
+        What is the divide-and-conquer method and how does it utilize recursive techniques?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-running-time-of-insertion-sort-compare-to-merge-sort
+    url: /learn/computer-science/questions/what-is-the-divideandconquer-method-and-how-does-it-utilize-recursive-techniques
 related_article3:
-    id: 160758
-    title: Define randomized algorithms and describe their characteristics.
+    id: 160752
+    title: >-
+        How do you apply asymptotic notation to analyze the running time of an algorithm?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-randomized-algorithms-and-describe-their-characteristics
+    url: /learn/computer-science/questions/how-do-you-apply-asymptotic-notation-to-analyze-the-running-time-of-an-algorithm
 related_article4:
-    id: 160756
-    title: What is the role of asymptotic notation in comparing the efficiency of sorting algorithms?
+    id: 160926
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-asymptotic-notation-in-comparing-the-efficiency-of-sorting-algorithms
+    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 related_article5:
     id: 160836
-    title: Provide an example of pseudocode for insertion sort.
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
     url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 ---

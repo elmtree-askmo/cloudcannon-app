@@ -2,8 +2,10 @@
 _schema: default
 id: 161674
 date: 2025-01-24
-title: What is the difference between a hash total and a control total in error detection?
-article_title: What is the difference between a hash total and a control total in error detection?
+title: >-
+    What is the difference between a hash total and a control total in error detection?
+article_title: >-
+    What is the difference between a hash total and a control total in error detection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-a-hash-total-and-a-control-total-in-er
 url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
 score: -1.0
 related_article1:
-    id: 161433
-    title: What factors influence the relevance of information, and why is it important?
+    id: 161507
+    title: >-
+        How does a checksum function in error detection and what are some common algorithms used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+    url: /learn/computer-science/questions/how-does-a-checksum-function-in-error-detection-and-what-are-some-common-algorithms-used
 related_article2:
-    id: 161494
-    title: What factors influence the relevance of information and why is it important?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
-related_article3:
-    id: 161684
-    title: What is the definition of data and why is raw data considered meaningless?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
-related_article4:
-    id: 161696
-    title: What are the characteristics of batch processing, and what are its advantages and disadvantages?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
-related_article5:
     id: 161670
-    title: What is a parity check and what are its limitations in error detection?
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
+related_article3:
+    id: 161707
+    title: >-
+        What are the differences between transaction processing systems, management information systems, and decision support systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-transaction-processing-systems-management-information-systems-and-decision-support-systems
+related_article4:
+    id: 161496
+    title: >-
+        What is the significance of the level of detail in information and what factors can influence it?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-level-of-detail-in-information-and-what-factors-can-influence-it
+related_article5:
+    id: 161498
+    title: >-
+        What are the risks associated with data transmission and how does encryption mitigate these risks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 ---
 
 &nbsp;

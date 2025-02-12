@@ -2,8 +2,10 @@
 _schema: default
 id: 168380
 date: 2025-02-03
-title: How did early metallurgical practices impact ancient societies?
-article_title: How did early metallurgical practices impact ancient societies?
+title: >-
+    How did early metallurgical practices impact ancient societies?
+article_title: >-
+    How did early metallurgical practices impact ancient societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-early-metallurgical-practices-impact-ancient-societies.md
 url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
 score: -1.0
 related_article1:
-    id: 168392
-    title: How did hunting and gathering societies organize themselves socially?
+    id: 168382
+    title: >-
+        What are the key developments in the timeline of human evolution?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
+    url: /learn/education-studies/questions/what-are-the-key-developments-in-the-timeline-of-human-evolution
 related_article2:
+    id: 168387
+    title: >-
+        What were the main characteristics and tools of the Paleolithic Era?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-main-characteristics-and-tools-of-the-paleolithic-era
+related_article3:
     id: 168388
-    title: How did the development of bronze tools influence the transition to urbanization?
+    title: >-
+        How did the development of bronze tools influence the transition to urbanization?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-development-of-bronze-tools-influence-the-transition-to-urbanization
-related_article3:
-    id: 168379
-    title: What are the key differences between stone tools and composite tools in tool technology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
 related_article4:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
+    id: 168374
+    title: >-
+        What is the significance of prehistory in understanding human history?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
+    url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
 related_article5:
     id: 168386
-    title: What methods are used to date historical events and artifacts?
+    title: >-
+        What methods are used to date historical events and artifacts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
 ---

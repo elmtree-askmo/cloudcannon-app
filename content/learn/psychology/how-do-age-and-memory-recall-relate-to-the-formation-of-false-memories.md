@@ -2,8 +2,10 @@
 _schema: default
 id: 168018
 date: 2025-02-02
-title: How do age and memory recall relate to the formation of false memories?
-article_title: How do age and memory recall relate to the formation of false memories?
+title: >-
+    How do age and memory recall relate to the formation of false memories?
+article_title: >-
+    How do age and memory recall relate to the formation of false memories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-age-and-memory-recall-relate-to-the-formation-of-false-memorie
 url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 score: -1.0
 related_article1:
-    id: 168017
-    title: What factors influence memory accuracy in eyewitness testimony?
-    subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
-related_article2:
-    id: 168028
-    title: What are age-appropriate strategies for interviewing children to ensure accurate testimony?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
-related_article3:
-    id: 168012
-    title: What are the developmental trends in age-related differences in memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
-related_article4:
-    id: 168020
-    title: What conditions are necessary for accurate memory recall in children?
-    subject: Psychology
-    url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
-related_article5:
     id: 168015
-    title: How does the misinformation effect impact memory recall?
+    title: >-
+        How does the misinformation effect impact memory recall?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
+related_article2:
+    id: 168020
+    title: >-
+        What conditions are necessary for accurate memory recall in children?
+    subject: Psychology
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
+related_article3:
+    id: 168022
+    title: >-
+        How are false memories generated from suggestive information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
+related_article4:
+    id: 168023
+    title: >-
+        What role do age and knowledge play in the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+related_article5:
+    id: 168022
+    title: >-
+        How are false memories generated from suggestive information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165683
 date: 2025-01-29
-title: How do you save the running configuration to the startup configuration on a router?
-article_title: How do you save the running configuration to the startup configuration on a router?
+title: >-
+    How do you save the running configuration to the startup configuration on a router?
+article_title: >-
+    How do you save the running configuration to the startup configuration on a router?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-save-the-running-configuration-to-the-startup-configuratio
 url: /learn/computer-science/questions/how-do-you-save-the-running-configuration-to-the-startup-configuration-on-a-router
 score: -1.0
 related_article1:
+    id: 165668
+    title: >-
+        What command is used to configure the device name on a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-command-is-used-to-configure-the-device-name-on-a-router
+related_article2:
+    id: 165671
+    title: >-
+        How do you encrypt plaintext passwords on a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-encrypt-plaintext-passwords-on-a-router
+related_article3:
+    id: 165684
+    title: >-
+        What is the significance of monitoring link status in network management?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-monitoring-link-status-in-network-management
+related_article4:
+    id: 165675
+    title: >-
+        How do you assign an IPv4 address to a router interface?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-assign-an-ipv4-address-to-a-router-interface
+related_article5:
     id: 165676
-    title: What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
+    title: >-
+        What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-an-ipv4-subnet-mask-and-an-ipv6-prefix-length
-related_article2:
-    id: 165675
-    title: How do you assign an IPv4 address to a router interface?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-assign-an-ipv4-address-to-a-router-interface
-related_article3:
-    id: 165675
-    title: How do you assign an IPv4 address to a router interface?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-assign-an-ipv4-address-to-a-router-interface
-related_article4:
-    id: 165681
-    title: How can you verify the routing table on a router?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-verify-the-routing-table-on-a-router
-related_article5:
-    id: 165678
-    title: How do you secure console access on a router?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-secure-console-access-on-a-router
 ---
 
 &nbsp;

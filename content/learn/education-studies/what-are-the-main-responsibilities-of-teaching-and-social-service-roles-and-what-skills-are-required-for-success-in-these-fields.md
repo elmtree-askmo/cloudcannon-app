@@ -2,8 +2,10 @@
 _schema: default
 id: 168499
 date: 2025-02-03
-title: What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
-article_title: What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
+title: >-
+    What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
+article_title: >-
+    What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-responsibilities-of-teaching-and-social-service-rol
 url: /learn/education-studies/questions/what-are-the-main-responsibilities-of-teaching-and-social-service-roles-and-what-skills-are-required-for-success-in-these-fields
 score: -1.0
 related_article1:
-    id: 168498
-    title: What interpersonal skills are crucial for success in sales roles?
+    id: 168496
+    title: >-
+        What are the key components of persuasive communication, and how can they be applied in career paths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-interpersonal-skills-are-crucial-for-success-in-sales-roles
+    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
 related_article2:
+    id: 168497
+    title: >-
+        What are the characteristics of systematic work preferences, and what career options are suitable for individuals with these preferences?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-suitable-for-individuals-with-these-preferences
+related_article3:
     id: 168514
-    title: What are the essential skills for assertiveness in the workplace, and how can they be developed for success in assertive roles?
+    title: >-
+        What are the essential skills for assertiveness in the workplace, and how can they be developed for success in assertive roles?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-essential-skills-for-assertiveness-in-the-workplace-and-how-can-they-be-developed-for-success-in-assertive-roles
-related_article3:
-    id: 168508
-    title: What are the key responsibilities and skills required for success in food service careers?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-and-skills-required-for-success-in-food-service-careers
 related_article4:
-    id: 168501
-    title: How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
+    id: 168491
+    title: >-
+        What are the primary job roles and responsibilities in the food service industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
+    url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 related_article5:
-    id: 168507
-    title: What are the primary responsibilities of routine and managerial roles in business administration?
+    id: 168492
+    title: >-
+        How do customer interaction levels vary in different food service roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-routine-and-managerial-roles-in-business-administration
+    url: /learn/education-studies/questions/how-do-customer-interaction-levels-vary-in-different-food-service-roles
 ---
 
 &nbsp;

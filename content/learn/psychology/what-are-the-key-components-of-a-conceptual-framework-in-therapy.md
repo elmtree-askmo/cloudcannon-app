@@ -2,8 +2,10 @@
 _schema: default
 id: 163026
 date: 2025-01-26
-title: What are the key components of a conceptual framework in therapy?
-article_title: What are the key components of a conceptual framework in therapy?
+title: >-
+    What are the key components of a conceptual framework in therapy?
+article_title: >-
+    What are the key components of a conceptual framework in therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-components-of-a-conceptual-framework-in-therapy.md
 url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
 score: -1.0
 related_article1:
-    id: 163024
-    title: What are the primary purposes of theories in psychotherapy?
+    id: 163036
+    title: >-
+        What is the significance of evidence-based practice in therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
 related_article2:
-    id: 163031
-    title: How should therapists manage dual relationships to maintain ethical standards?
+    id: 163032
+    title: >-
+        Why is multicultural competence important in counseling?
     subject: Psychology
-    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
 related_article3:
-    id: 163042
-    title: How do client views and perspectives influence the therapeutic process?
+    id: 163028
+    title: >-
+        What characteristics make a theory effective in psychotherapy?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
+    url: /learn/psychology/questions/what-characteristics-make-a-theory-effective-in-psychotherapy
 related_article4:
-    id: 163031
-    title: How should therapists manage dual relationships to maintain ethical standards?
+    id: 163029
+    title: >-
+        Why is empirical support crucial for the validity of psychological theories?
     subject: Psychology
-    url: /learn/psychology/questions/how-should-therapists-manage-dual-relationships-to-maintain-ethical-standards
+    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
 related_article5:
     id: 163042
-    title: How do client views and perspectives influence the therapeutic process?
+    title: >-
+        How do client views and perspectives influence the therapeutic process?
     subject: Psychology
     url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
 ---

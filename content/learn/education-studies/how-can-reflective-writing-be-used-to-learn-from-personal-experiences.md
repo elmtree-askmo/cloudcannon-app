@@ -2,8 +2,10 @@
 _schema: default
 id: 164113
 date: 2025-01-28
-title: How can reflective writing be used to learn from personal experiences?
-article_title: How can reflective writing be used to learn from personal experiences?
+title: >-
+    How can reflective writing be used to learn from personal experiences?
+article_title: >-
+    How can reflective writing be used to learn from personal experiences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-reflective-writing-be-used-to-learn-from-personal-experiences
 url: /learn/education-studies/questions/how-can-reflective-writing-be-used-to-learn-from-personal-experiences
 score: -1.0
 related_article1:
-    id: 164092
-    title: How can reflective writing enhance personal and academic growth?
+    id: 164112
+    title: >-
+        What are the stages of degree progression, and what are the research requirements for each?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-enhance-personal-and-academic-growth
+    url: /learn/education-studies/questions/what-are-the-stages-of-degree-progression-and-what-are-the-research-requirements-for-each
 related_article2:
-    id: 164104
-    title: How can practice tests contribute to better exam preparation?
+    id: 164108
+    title: >-
+        How does email etiquette impact professional written communication?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-practice-tests-contribute-to-better-exam-preparation
+    url: /learn/education-studies/questions/how-does-email-etiquette-impact-professional-written-communication
 related_article3:
-    id: 164090
-    title: How does active reading differ from passive reading, and why is it important?
+    id: 164102
+    title: >-
+        How do citation styles differ, and why is it important to use them correctly in bibliographies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-active-reading-differ-from-passive-reading-and-why-is-it-important
+    url: /learn/education-studies/questions/how-do-citation-styles-differ-and-why-is-it-important-to-use-them-correctly-in-bibliographies
 related_article4:
-    id: 164095
-    title: What strategies can be used to evaluate arguments critically?
+    id: 164099
+    title: >-
+        What factors should be considered when forming a study group?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-evaluate-arguments-critically
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-a-study-group
 related_article5:
-    id: 164092
-    title: How can reflective writing enhance personal and academic growth?
+    id: 164102
+    title: >-
+        How do citation styles differ, and why is it important to use them correctly in bibliographies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-enhance-personal-and-academic-growth
+    url: /learn/education-studies/questions/how-do-citation-styles-differ-and-why-is-it-important-to-use-them-correctly-in-bibliographies
 ---
 
 &nbsp;

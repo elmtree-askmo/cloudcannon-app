@@ -2,8 +2,10 @@
 _schema: default
 id: 163876
 date: 2025-01-28
-title: How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
-article_title: How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
+title: >-
+    How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
+article_title: >-
+    How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-shapeshifting-contribute-to-the-cunning-nature-of-trickster-
 url: /learn/art-history-and-literature/questions/how-does-shapeshifting-contribute-to-the-cunning-nature-of-trickster-gods-in-mythology
 score: 9.0
 related_article1:
-    id: 163878
-    title: How is fire portrayed in Greek mythology, and what roles does it play?
+    id: 163874
+    title: >-
+        How do familial ties among gods reflect human-like interactions in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play
+    url: /learn/art-history-and-literature/questions/how-do-familial-ties-among-gods-reflect-humanlike-interactions-in-greek-mythology
 related_article2:
-    id: 163884
-    title: What role does shape-shifting play in mythological narratives?
+    id: 163873
+    title: >-
+        What are the key factors that influence interpersonal relationships among Greek gods?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-shapeshifting-play-in-mythological-narratives
+    url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
 related_article3:
+    id: 163885
+    title: >-
+        How do common themes in myths connect different cultures?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-common-themes-in-myths-connect-different-cultures
+related_article4:
     id: 163880
-    title: What are etiological myths, and how do they explain cultural elements?
+    title: >-
+        What are etiological myths, and how do they explain cultural elements?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-etiological-myths-and-how-do-they-explain-cultural-elements
-related_article4:
-    id: 163887
-    title: How do trickster gods use humor to impact mythological narratives?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
 related_article5:
     id: 163883
-    title: How do Greek myths influence cultural values and human traits?
+    title: >-
+        How do Greek myths influence cultural values and human traits?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-greek-myths-influence-cultural-values-and-human-traits
 ---

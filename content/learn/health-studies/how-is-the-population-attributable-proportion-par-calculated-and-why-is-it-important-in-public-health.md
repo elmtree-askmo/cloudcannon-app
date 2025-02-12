@@ -2,8 +2,10 @@
 _schema: default
 id: 163077
 date: 2025-01-26
-title: How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
-article_title: How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+title: >-
+    How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+article_title: >-
+    How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-population-attributable-proportion-par-calculated-and-why-
 url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
 score: -1.0
 related_article1:
-    id: 163325
-    title: What is the difference between fixed and dynamic populations in epidemiology?
+    id: 163228
+    title: >-
+        How is a ratio different from a proportion in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 related_article2:
-    id: 163338
-    title: What are the limitations of using person-years of observation in epidemiological studies?
+    id: 163333
+    title: >-
+        What are the critical assumptions when calculating cumulative incidence?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
 related_article3:
-    id: 163232
-    title: What are the critical assumptions when calculating cumulative incidence?
+    id: 163243
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
 related_article4:
-    id: 163232
-    title: What are the critical assumptions when calculating cumulative incidence?
+    id: 163230
+    title: >-
+        What is a rate in epidemiology, and how can it be misunderstood?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
+    url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
 related_article5:
-    id: 163078
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163344
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
 ---
 
 &nbsp;

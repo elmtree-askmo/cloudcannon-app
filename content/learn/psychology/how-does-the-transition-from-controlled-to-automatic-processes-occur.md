@@ -2,8 +2,10 @@
 _schema: default
 id: 164563
 date: 2025-01-28
-title: How does the transition from controlled to automatic processes occur?
-article_title: How does the transition from controlled to automatic processes occur?
+title: >-
+    How does the transition from controlled to automatic processes occur?
+article_title: >-
+    How does the transition from controlled to automatic processes occur?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-transition-from-controlled-to-automatic-processes-occur.
 url: /learn/psychology/questions/how-does-the-transition-from-controlled-to-automatic-processes-occur
 score: -1.0
 related_article1:
-    id: 164559
-    title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+    id: 164565
+    title: >-
+        What role do arousal and vigilance play in attention and cognitive performance?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
 related_article2:
-    id: 164556
-    title: How do the superior and inferior parietal lobes differ in function?
+    id: 164546
+    title: >-
+        How does procedural memory differ from semantic and episodic memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
 related_article3:
-    id: 164562
-    title: What are the key characteristics of automatic processes compared to controlled processes?
+    id: 164544
+    title: >-
+        How do the default mode network and potential control network contribute to attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
 related_article4:
-    id: 164553
-    title: What is the significance of competition and integration between neural networks in cognitive processing?
+    id: 164547
+    title: >-
+        What are the characteristics and causes of amnesia and environmental dependency syndrome?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
+    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
 related_article5:
-    id: 164552
-    title: How do automatic and controlled processes differ in neural networks?
+    id: 164560
+    title: >-
+        What are the symptoms and causes of perseveration and environmental dependency syndrome?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
+    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
 ---
 
 &nbsp;

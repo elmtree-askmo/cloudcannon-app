@@ -2,8 +2,10 @@
 _schema: default
 id: 160479
 date: 2025-01-24
-title: What techniques can be used for effective information retrieval, and how can sources be evaluated?
-article_title: What techniques can be used for effective information retrieval, and how can sources be evaluated?
+title: >-
+    What techniques can be used for effective information retrieval, and how can sources be evaluated?
+article_title: >-
+    What techniques can be used for effective information retrieval, and how can sources be evaluated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-can-be-used-for-effective-information-retrieval-and-h
 url: /learn/education-studies/questions/what-techniques-can-be-used-for-effective-information-retrieval-and-how-can-sources-be-evaluated
 score: -1.0
 related_article1:
-    id: 160058
-    title: What are the benefits of study groups, and how do they contribute to collaborative learning?
+    id: 159984
+    title: >-
+        What principles should be considered in curriculum design to align with learning outcomes and incorporate diverse perspectives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-study-groups-and-how-do-they-contribute-to-collaborative-learning
+    url: /learn/education-studies/questions/what-principles-should-be-considered-in-curriculum-design-to-align-with-learning-outcomes-and-incorporate-diverse-perspectives
 related_article2:
-    id: 160282
-    title: What should students consider when selecting courses to align with their career goals and balance their workload?
+    id: 160283
+    title: >-
+        Why are elective modules important, and how can they contribute to a student's education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-students-consider-when-selecting-courses-to-align-with-their-career-goals-and-balance-their-workload
+    url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-contribute-to-a-students-education
 related_article3:
-    id: 160155
-    title: How can understanding cognitive processes like memory and attention improve learning outcomes?
+    id: 160364
+    title: >-
+        What role does educational psychology play in understanding student behavior and enhancing learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-understanding-cognitive-processes-like-memory-and-attention-improve-learning-outcomes
+    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
 related_article4:
-    id: 160140
-    title: What are the benefits of participating in study groups, and how can they enhance learning?
+    id: 160004
+    title: >-
+        What are some effective note-making techniques, and how do they help in organizing information?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-participating-in-study-groups-and-how-can-they-enhance-learning
+    url: /learn/education-studies/questions/what-are-some-effective-notemaking-techniques-and-how-do-they-help-in-organizing-information
 related_article5:
-    id: 159977
-    title: What are the different types of assessments, and how can students prepare effectively for them?
+    id: 160068
+    title: >-
+        How can knowledge be applied in real-world contexts, and what role do problem-solving skills play?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
+    url: /learn/education-studies/questions/how-can-knowledge-be-applied-in-realworld-contexts-and-what-role-do-problemsolving-skills-play
 ---
 
 &nbsp;

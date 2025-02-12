@@ -2,8 +2,10 @@
 _schema: default
 id: 170297
 date: 2025-02-06
-title: Where in the cell does the Krebs cycle occur, and what is its primary function?
-article_title: Where in the cell does the Krebs cycle occur, and what is its primary function?
+title: >-
+    Where in the cell does the Krebs cycle occur, and what is its primary function?
+article_title: >-
+    Where in the cell does the Krebs cycle occur, and what is its primary function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-
 url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
 score: -1.0
 related_article1:
-    id: 170302
-    title: What is the impact of fossil fuel emissions on climate change?
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
 related_article2:
-    id: 170300
-    title: What role do forests and oceans play as carbon sinks in the global carbon cycle?
+    id: 170298
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle
+    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
 related_article3:
-    id: 170296
-    title: What are the three main stages of cellular respiration?
+    id: 170294
+    title: >-
+        What are the main carbon spheres involved in the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
+    url: /learn/biology/questions/what-are-the-main-carbon-spheres-involved-in-the-carbon-cycle
 related_article4:
-    id: 170306
-    title: How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
+    id: 170307
+    title: >-
+        What is the greenhouse effect, and how does it relate to global warming?
     subject: Biology
-    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
+    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
 related_article5:
-    id: 170296
-    title: What are the three main stages of cellular respiration?
+    id: 170295
+    title: >-
+        How do plants contribute to carbon cycling in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
 ---
 
 &nbsp;

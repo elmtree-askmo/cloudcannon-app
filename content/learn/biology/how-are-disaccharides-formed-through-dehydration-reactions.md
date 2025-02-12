@@ -2,8 +2,10 @@
 _schema: default
 id: 167298
 date: 2025-01-31
-title: How are disaccharides formed through dehydration reactions?
-article_title: How are disaccharides formed through dehydration reactions?
+title: >-
+    How are disaccharides formed through dehydration reactions?
+article_title: >-
+    How are disaccharides formed through dehydration reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-disaccharides-formed-through-dehydration-reactions.md
 url: /learn/biology/questions/how-are-disaccharides-formed-through-dehydration-reactions
 score: -1.0
 related_article1:
-    id: 167299
-    title: What distinguishes branched polysaccharides from unbranched ones?
-    subject: Biology
-    url: /learn/biology/questions/what-distinguishes-branched-polysaccharides-from-unbranched-ones
-related_article2:
-    id: 167309
-    title: How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
-    subject: Biology
-    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
-related_article3:
     id: 167305
-    title: How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    title: >-
+        How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
     subject: Biology
     url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
-related_article4:
-    id: 167309
-    title: How do beta glycosidic linkages contribute to the structural support provided by cellulose and chitin?
-    subject: Biology
-    url: /learn/biology/questions/how-do-beta-glycosidic-linkages-contribute-to-the-structural-support-provided-by-cellulose-and-chitin
-related_article5:
+related_article2:
     id: 167307
-    title: How do alpha and beta positions in ring structures of monosaccharides affect their properties?
+    title: >-
+        How do alpha and beta positions in ring structures of monosaccharides affect their properties?
     subject: Biology
     url: /learn/biology/questions/how-do-alpha-and-beta-positions-in-ring-structures-of-monosaccharides-affect-their-properties
+related_article3:
+    id: 167304
+    title: >-
+        What are the main classes of biological macromolecules and their basic building blocks?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-classes-of-biological-macromolecules-and-their-basic-building-blocks
+related_article4:
+    id: 167310
+    title: >-
+        What is the role of oligosaccharides in the attachment to proteins and their unique structures?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-oligosaccharides-in-the-attachment-to-proteins-and-their-unique-structures
+related_article5:
+    id: 167305
+    title: >-
+        How do carbon, hydrogen, oxygen, and nitrogen contribute to the structure of organic molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-carbon-hydrogen-oxygen-and-nitrogen-contribute-to-the-structure-of-organic-molecules
 ---
 
 &nbsp;

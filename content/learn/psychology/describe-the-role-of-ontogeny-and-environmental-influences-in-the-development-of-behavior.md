@@ -2,8 +2,10 @@
 _schema: default
 id: 165320
 date: 2025-01-28
-title: Describe the role of ontogeny and environmental influences in the development of behavior.
-article_title: Describe the role of ontogeny and environmental influences in the development of behavior.
+title: >-
+    Describe the role of ontogeny and environmental influences in the development of behavior.
+article_title: >-
+    Describe the role of ontogeny and environmental influences in the development of behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-ontogeny-and-environmental-influences-in-the-dev
 url: /learn/psychology/questions/describe-the-role-of-ontogeny-and-environmental-influences-in-the-development-of-behavior
 score: -1.0
 related_article1:
-    id: 165328
-    title: How do phylogenetic trees help in understanding the evolutionary history of behavior?
+    id: 165318
+    title: >-
+        Differentiate between proximate and ultimate causes of behavior with examples.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-the-evolutionary-history-of-behavior
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-causes-of-behavior-with-examples
 related_article2:
-    id: 165324
-    title: Define fitness in the context of evolution and provide examples of behavioral adaptations that enhance fitness.
+    id: 165325
+    title: >-
+        How do phenotype and genotype influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-evolution-and-provide-examples-of-behavioral-adaptations-that-enhance-fitness
+    url: /learn/psychology/questions/how-do-phenotype-and-genotype-influence-animal-behavior
 related_article3:
+    id: 165317
+    title: >-
+        Explain Tinbergen’s 4 Questions and their relevance to studying animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-tinbergens-4-questions-and-their-relevance-to-studying-animal-behavior
+related_article4:
+    id: 165329
+    title: >-
+        Define homology and homoplasy and explain their differences with examples from animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/define-homology-and-homoplasy-and-explain-their-differences-with-examples-from-animal-behavior
+related_article5:
     id: 165322
-    title: Identify and describe different types of learning in animals and their role in behavior adaptation.
+    title: >-
+        Identify and describe different types of learning in animals and their role in behavior adaptation.
     subject: Psychology
     url: /learn/psychology/questions/identify-and-describe-different-types-of-learning-in-animals-and-their-role-in-behavior-adaptation
-related_article4:
-    id: 165316
-    title: What is the significance of understanding animal behavior in ecology and conservation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
-related_article5:
-    id: 165316
-    title: What is the significance of understanding animal behavior in ecology and conservation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-understanding-animal-behavior-in-ecology-and-conservation
 ---
 
 &nbsp;

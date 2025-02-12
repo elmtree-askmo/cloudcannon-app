@@ -2,8 +2,10 @@
 _schema: default
 id: 168202
 date: 2025-02-03
-title: List three common evaluation metrics used in supervised learning.
-article_title: List three common evaluation metrics used in supervised learning.
+title: >-
+    List three common evaluation metrics used in supervised learning.
+article_title: >-
+    List three common evaluation metrics used in supervised learning.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: list-three-common-evaluation-metrics-used-in-supervised-learning.md
 url: /learn/others/questions/list-three-common-evaluation-metrics-used-in-supervised-learning
 score: -1.0
 related_article1:
-    id: 168216
-    title: What are the key benefits of using cloud computing in data science?
+    id: 168200
+    title: >-
+        Name two popular tools or libraries used for data augmentation.
     subject: Others
-    url: /learn/others/questions/what-are-the-key-benefits-of-using-cloud-computing-in-data-science
+    url: /learn/others/questions/name-two-popular-tools-or-libraries-used-for-data-augmentation
 related_article2:
     id: 168213
-    title: What is the purpose of decision trees in prescriptive analysis?
+    title: >-
+        What is the purpose of decision trees in prescriptive analysis?
     subject: Others
     url: /learn/others/questions/what-is-the-purpose-of-decision-trees-in-prescriptive-analysis
 related_article3:
+    id: 168198
+    title: >-
+        Why is quality control important in data annotation?
+    subject: Others
+    url: /learn/others/questions/why-is-quality-control-important-in-data-annotation
+related_article4:
+    id: 168208
+    title: >-
+        What are some common applications of sentiment analysis?
+    subject: Others
+    url: /learn/others/questions/what-are-some-common-applications-of-sentiment-analysis
+related_article5:
     id: 168216
-    title: What are the key benefits of using cloud computing in data science?
+    title: >-
+        What are the key benefits of using cloud computing in data science?
     subject: Others
     url: /learn/others/questions/what-are-the-key-benefits-of-using-cloud-computing-in-data-science
-related_article4:
-    id: 168212
-    title: How do regression techniques contribute to predictive analysis?
-    subject: Others
-    url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169374
 date: 2025-02-05
-title: What are the key considerations in facade design when integrating color?
-article_title: What are the key considerations in facade design when integrating color?
+title: >-
+    What are the key considerations in facade design when integrating color?
+article_title: >-
+    What are the key considerations in facade design when integrating color?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-considerations-in-facade-design-when-integrating-col
 url: /learn/others/questions/what-are-the-key-considerations-in-facade-design-when-integrating-color
 score: -1.0
 related_article1:
-    id: 169379
-    title: How do gradual color transitions contribute to environmental harmony in architecture?
+    id: 169381
+    title: >-
+        How do glass tubes in light wells enhance interior illumination?
     subject: Others
-    url: /learn/others/questions/how-do-gradual-color-transitions-contribute-to-environmental-harmony-in-architecture
+    url: /learn/others/questions/how-do-glass-tubes-in-light-wells-enhance-interior-illumination
 related_article2:
-    id: 169385
-    title: What strategies can be used to adapt architectural design to seasonal variability?
-    subject: Others
-    url: /learn/others/questions/what-strategies-can-be-used-to-adapt-architectural-design-to-seasonal-variability
-related_article3:
     id: 169377
-    title: How does exterior interaction influence functional zoning in spatial design?
+    title: >-
+        How does exterior interaction influence functional zoning in spatial design?
     subject: Others
     url: /learn/others/questions/how-does-exterior-interaction-influence-functional-zoning-in-spatial-design
+related_article3:
+    id: 169383
+    title: >-
+        How do reflective surfaces in paneling affect the aesthetic of a building?
+    subject: Others
+    url: /learn/others/questions/how-do-reflective-surfaces-in-paneling-affect-the-aesthetic-of-a-building
 related_article4:
-    id: 169378
-    title: What is the role of saturated colors in creating visual impact in architectural design?
+    id: 169386
+    title: >-
+        How does multi-level integration facilitate vertical light flow in structural design?
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-saturated-colors-in-creating-visual-impact-in-architectural-design
+    url: /learn/others/questions/how-does-multilevel-integration-facilitate-vertical-light-flow-in-structural-design
 related_article5:
-    id: 169382
-    title: What are the advantages of using glass in facade elements for building materials?
+    id: 169386
+    title: >-
+        How does multi-level integration facilitate vertical light flow in structural design?
     subject: Others
-    url: /learn/others/questions/what-are-the-advantages-of-using-glass-in-facade-elements-for-building-materials
+    url: /learn/others/questions/how-does-multilevel-integration-facilitate-vertical-light-flow-in-structural-design
 ---
 
 &nbsp;

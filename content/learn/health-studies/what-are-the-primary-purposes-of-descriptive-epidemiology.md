@@ -2,8 +2,10 @@
 _schema: default
 id: 163308
 date: 2025-01-26
-title: What are the primary purposes of descriptive epidemiology?
-article_title: What are the primary purposes of descriptive epidemiology?
+title: >-
+    What are the primary purposes of descriptive epidemiology?
+article_title: >-
+    What are the primary purposes of descriptive epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-purposes-of-descriptive-epidemiology.md
 url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 score: -1.0
 related_article1:
-    id: 162988
-    title: What is the role of public health surveillance in responding to outbreaks?
+    id: 162989
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article2:
-    id: 162982
-    title: What is the difference between a case fatality rate and a mortality rate?
+    id: 163317
+    title: >-
+        How do epidemiologic questions contribute to public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-rate
+    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
 related_article3:
-    id: 163318
-    title: What is the difference between an outbreak and an epidemic?
+    id: 163314
+    title: >-
+        Why are age-adjusted rates important in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
+    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
 related_article4:
-    id: 162988
-    title: What is the role of public health surveillance in responding to outbreaks?
+    id: 162990
+    title: >-
+        What is an ecological study and what is its primary focus in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+    url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
 related_article5:
-    id: 163319
-    title: How does public health surveillance aid in identifying and responding to outbreaks?
+    id: 162983
+    title: >-
+        Why is age-adjustment important when comparing mortality rates across different populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-public-health-surveillance-aid-in-identifying-and-responding-to-outbreaks
+    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
 ---
 
 &nbsp;

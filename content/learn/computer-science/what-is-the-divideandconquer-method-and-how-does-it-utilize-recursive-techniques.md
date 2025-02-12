@@ -2,8 +2,10 @@
 _schema: default
 id: 160753
 date: 2025-01-24
-title: What is the divide-and-conquer method and how does it utilize recursive techniques?
-article_title: What is the divide-and-conquer method and how does it utilize recursive techniques?
+title: >-
+    What is the divide-and-conquer method and how does it utilize recursive techniques?
+article_title: >-
+    What is the divide-and-conquer method and how does it utilize recursive techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-divideandconquer-method-and-how-does-it-utilize-recursive
 url: /learn/computer-science/questions/what-is-the-divideandconquer-method-and-how-does-it-utilize-recursive-techniques
 score: -1.0
 related_article1:
-    id: 160750
-    title: How can mathematical tools be used in the design and analysis of algorithms?
+    id: 160759
+    title: >-
+        Why is mathematical notation important in algorithm analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-mathematical-tools-be-used-in-the-design-and-analysis-of-algorithms
+    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
 related_article2:
-    id: 160761
-    title: Why is running time analysis crucial in algorithm design?
+    id: 160757
+    title: >-
+        What is probabilistic analysis and how is it applied to running time with probability distributions?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
+    url: /learn/computer-science/questions/what-is-probabilistic-analysis-and-how-is-it-applied-to-running-time-with-probability-distributions
 related_article3:
-    id: 160924
-    title: Why is running time analysis crucial in algorithm design?
+    id: 160832
+    title: >-
+        Why is mathematical notation important in algorithm analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
+    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
 related_article4:
-    id: 160750
-    title: How can mathematical tools be used in the design and analysis of algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-mathematical-tools-be-used-in-the-design-and-analysis-of-algorithms
-related_article5:
     id: 160763
-    title: Provide an example of pseudocode for insertion sort.
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
     url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
+related_article5:
+    id: 160754
+    title: >-
+        Explain the master method for solving recurrences in divide-and-conquer algorithms.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-master-method-for-solving-recurrences-in-divideandconquer-algorithms
 ---
 
 &nbsp;

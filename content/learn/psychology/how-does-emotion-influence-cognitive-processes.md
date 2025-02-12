@@ -2,8 +2,10 @@
 _schema: default
 id: 164679
 date: 2025-01-28
-title: How does emotion influence cognitive processes?
-article_title: How does emotion influence cognitive processes?
+title: >-
+    How does emotion influence cognitive processes?
+article_title: >-
+    How does emotion influence cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-emotion-influence-cognitive-processes.md
 url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
 score: -1.0
 related_article1:
-    id: 164688
-    title: What are the ethical considerations in the development of neurotechnology?
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
 related_article2:
-    id: 164674
-    title: What are the main cognitive functions studied in neuroscience?
+    id: 164692
+    title: >-
+        How are cognitive disorders diagnosed and treated?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
 related_article3:
-    id: 164671
-    title: How do brain networks contribute to overall brain function?
+    id: 164691
+    title: >-
+        What are the common types of brain injuries and their rehabilitation techniques?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques
 related_article4:
-    id: 164672
-    title: What are the primary mechanisms of attention in cognitive processes?
+    id: 164686
+    title: >-
+        What are the common neurological disorders treated with neuroscience applications?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
 related_article5:
-    id: 164688
-    title: What are the ethical considerations in the development of neurotechnology?
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
 ---
 
 &nbsp;

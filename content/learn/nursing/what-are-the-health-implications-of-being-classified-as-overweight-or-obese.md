@@ -2,8 +2,10 @@
 _schema: default
 id: 169726
 date: 2025-02-05
-title: What are the health implications of being classified as overweight or obese?
-article_title: What are the health implications of being classified as overweight or obese?
+title: >-
+    What are the health implications of being classified as overweight or obese?
+article_title: >-
+    What are the health implications of being classified as overweight or obese?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-health-implications-of-being-classified-as-overweight-or
 url: /learn/nursing/questions/what-are-the-health-implications-of-being-classified-as-overweight-or-obese
 score: -1.0
 related_article1:
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
+related_article2:
     id: 169713
-    title: What is the composition of urine in terms of nitrogenous waste?
+    title: >-
+        What is the composition of urine in terms of nitrogenous waste?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
-related_article2:
-    id: 169715
-    title: What is the role of hydrochloric acid in the stomach?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
 related_article3:
-    id: 169719
-    title: What is the significance of vitamins and minerals as micronutrients?
+    id: 169725
+    title: >-
+        What is the normal BMI range for adults?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
 related_article4:
-    id: 169716
-    title: How do the fallopian tubes facilitate fertilization?
+    id: 169728
+    title: >-
+        How does osteoporosis affect bone density and fracture risk?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+    url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
 related_article5:
-    id: 169704
-    title: What is the structure of a multiple choice question in an exam format?
+    id: 169724
+    title: >-
+        What is referred pain and what are some common examples?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+    url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
 ---
 
 &nbsp;

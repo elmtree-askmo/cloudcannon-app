@@ -2,8 +2,10 @@
 _schema: default
 id: 164694
 date: 2025-01-28
-title: What are the career paths available for students pursuing a neuroscience minor?
-article_title: What are the career paths available for students pursuing a neuroscience minor?
+title: >-
+    What are the career paths available for students pursuing a neuroscience minor?
+article_title: >-
+    What are the career paths available for students pursuing a neuroscience minor?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-career-paths-available-for-students-pursuing-a-neuroscie
 url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
 score: -1.0
 related_article1:
-    id: 164687
-    title: Describe the role of brain-computer interfaces in modern neuroscience.
+    id: 164674
+    title: >-
+        What are the main cognitive functions studied in neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
+    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
 related_article2:
-    id: 164687
-    title: Describe the role of brain-computer interfaces in modern neuroscience.
+    id: 164676
+    title: >-
+        What is the role of PET scans in brain imaging?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 related_article3:
-    id: 164673
-    title: Describe the stages involved in memory processes.
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
 related_article4:
-    id: 164687
-    title: Describe the role of brain-computer interfaces in modern neuroscience.
+    id: 164688
+    title: >-
+        What are the ethical considerations in the development of neurotechnology?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
 related_article5:
-    id: 164692
-    title: How are cognitive disorders diagnosed and treated?
+    id: 164683
+    title: >-
+        What role do subconscious processes play in influencing behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
 ---
 
 &nbsp;

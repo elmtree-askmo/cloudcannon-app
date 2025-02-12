@@ -2,8 +2,10 @@
 _schema: default
 id: 162967
 date: 2025-01-26
-title: How have key figures and milestones influenced the historical development of epidemiology?
-article_title: How have key figures and milestones influenced the historical development of epidemiology?
+title: >-
+    How have key figures and milestones influenced the historical development of epidemiology?
+article_title: >-
+    How have key figures and milestones influenced the historical development of epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-key-figures-and-milestones-influenced-the-historical-develop
 url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
 score: -1.0
 related_article1:
-    id: 163017
-    title: How is the PICO framework used to structure clinical research questions?
+    id: 163018
+    title: >-
+        What are the key components of data interpretation in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
+    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
 related_article2:
-    id: 162963
-    title: How does random error differ from measurement error in epidemiologic studies?
+    id: 162975
+    title: >-
+        What are the common sources of random error in epidemiologic studies, and how can they be reduced?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-random-error-differ-from-measurement-error-in-epidemiologic-studies
+    url: /learn/health-studies/questions/what-are-the-common-sources-of-random-error-in-epidemiologic-studies-and-how-can-they-be-reduced
 related_article3:
-    id: 163017
-    title: How is the PICO framework used to structure clinical research questions?
+    id: 163016
+    title: >-
+        What are the steps involved in forming a hypothesis for an epidemiologic investigation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
+    url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
 related_article4:
-    id: 163023
-    title: How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
+    id: 163020
+    title: >-
+        How do random and systematic sampling methods differ in biostatistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-confidence-intervals-used-to-interpret-the-precision-of-an-estimate-in-epidemiologic-research
+    url: /learn/health-studies/questions/how-do-random-and-systematic-sampling-methods-differ-in-biostatistics
 related_article5:
-    id: 163012
-    title: Who are some key figures in the historical development of epidemiology, and what were their contributions?
+    id: 163018
+    title: >-
+        What are the key components of data interpretation in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/who-are-some-key-figures-in-the-historical-development-of-epidemiology-and-what-were-their-contributions
+    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
 ---
 
 &nbsp;

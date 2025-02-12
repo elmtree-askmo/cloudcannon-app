@@ -2,8 +2,10 @@
 _schema: default
 id: 160347
 date: 2025-01-24
-title: Why are elective modules important, and how can they broaden a student's knowledge base?
-article_title: Why are elective modules important, and how can they broaden a student's knowledge base?
+title: >-
+    Why are elective modules important, and how can they broaden a student's knowledge base?
+article_title: >-
+    Why are elective modules important, and how can they broaden a student's knowledge base?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-elective-modules-important-and-how-can-they-broaden-a-student
 url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-broaden-a-students-knowledge-base
 score: -1.0
 related_article1:
-    id: 160462
-    title: How can setting reading goals and reflecting on content enhance reading comprehension?
+    id: 160584
+    title: >-
+        How can students identify their learning style and leverage their strengths to improve academic performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-enhance-reading-comprehension
+    url: /learn/education-studies/questions/how-can-students-identify-their-learning-style-and-leverage-their-strengths-to-improve-academic-performance
 related_article2:
-    id: 160283
-    title: Why are elective modules important, and how can they contribute to a student's education?
+    id: 160472
+    title: >-
+        How can students effectively navigate university systems and utilize available resources?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-contribute-to-a-students-education
+    url: /learn/education-studies/questions/how-can-students-effectively-navigate-university-systems-and-utilize-available-resources
 related_article3:
-    id: 160320
-    title: What are active reading techniques, and how do they improve comprehension?
+    id: 160148
+    title: >-
+        What should students consider when selecting courses to align with their career goals and balance their workload?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-active-reading-techniques-and-how-do-they-improve-comprehension
+    url: /learn/education-studies/questions/what-should-students-consider-when-selecting-courses-to-align-with-their-career-goals-and-balance-their-workload
 related_article4:
-    id: 160144
-    title: What are the different learning styles, and how can students adapt their study techniques to suit their style?
+    id: 160321
+    title: >-
+        How can setting reading goals and reflecting on content enhance reading strategies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-learning-styles-and-how-can-students-adapt-their-study-techniques-to-suit-their-style
+    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-enhance-reading-strategies
 related_article5:
-    id: 160272
-    title: What are some effective strategies for structuring and delivering a presentation?
+    id: 160569
+    title: >-
+        What is metacognition, and why is it important for learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-strategies-for-structuring-and-delivering-a-presentation
+    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-learning
 ---
 
 &nbsp;

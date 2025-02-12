@@ -2,8 +2,10 @@
 _schema: default
 id: 165069
 date: 2025-01-28
-title: How do you define and classify independent and dependent variables in a research study?
-article_title: How do you define and classify independent and dependent variables in a research study?
+title: >-
+    How do you define and classify independent and dependent variables in a research study?
+article_title: >-
+    How do you define and classify independent and dependent variables in a research study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-define-and-classify-independent-and-dependent-variables-in
 url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
 score: -1.0
 related_article1:
-    id: 165070
-    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    id: 165094
+    title: >-
+        How can researchers effectively communicate the limitations of their study?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
+    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
 related_article2:
-    id: 165078
-    title: What are the main differences between experimental design and observational studies in research methodology?
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 related_article3:
-    id: 165067
-    title: How does data cleaning contribute to data quality in statistical analysis?
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 related_article4:
-    id: 165071
-    title: How do control variables and confounding variables affect the outcome of an experiment?
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 related_article5:
-    id: 165092
-    title: How do design principles influence the effectiveness of data visualizations?
+    id: 165088
+    title: >-
+        What strategies can be used to address sample size limitations in research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
 ---
 
 &nbsp;

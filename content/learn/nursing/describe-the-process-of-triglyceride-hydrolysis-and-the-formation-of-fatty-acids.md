@@ -2,8 +2,10 @@
 _schema: default
 id: 168815
 date: 2025-02-04
-title: Describe the process of triglyceride hydrolysis and the formation of fatty acids.
-article_title: Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+title: >-
+    Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+article_title: >-
+    Describe the process of triglyceride hydrolysis and the formation of fatty acids.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,24 +25,34 @@ url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-an
 score: -1.0
 related_article1:
     id: 168813
-    title: Explain the mechanism of emulsification and its importance in digestion.
+    title: >-
+        Explain the mechanism of emulsification and its importance in digestion.
     subject: Nursing
     url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
 related_article2:
-    id: 168825
-    title: What are the characteristics of non-polar molecules and their role in lipid transport?
+    id: 168818
+    title: >-
+        How do epithelial cells interact with micelles during lipid absorption?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
+    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
 related_article3:
-    id: 168824
-    title: How are chylomicrons transported through the lymphatic vessels?
+    id: 168821
+    title: >-
+        What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
     subject: Nursing
-    url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
+    url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
 related_article4:
-    id: 168817
-    title: What is the role of epithelial cells in the absorption of lipids?
+    id: 168814
+    title: >-
+        What is the role of lipase in the breakdown of lipids?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
+related_article5:
+    id: 168814
+    title: >-
+        What is the role of lipase in the breakdown of lipids?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
 ---
 
 &nbsp;

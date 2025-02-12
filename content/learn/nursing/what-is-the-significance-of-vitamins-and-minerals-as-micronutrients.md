@@ -2,8 +2,10 @@
 _schema: default
 id: 169719
 date: 2025-02-05
-title: What is the significance of vitamins and minerals as micronutrients?
-article_title: What is the significance of vitamins and minerals as micronutrients?
+title: >-
+    What is the significance of vitamins and minerals as micronutrients?
+article_title: >-
+    What is the significance of vitamins and minerals as micronutrients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-vitamins-and-minerals-as-micronutrients.m
 url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
 score: -1.0
 related_article1:
-    id: 169713
-    title: What is the composition of urine in terms of nitrogenous waste?
+    id: 169721
+    title: >-
+        How does REM sleep affect dreaming and sleep cycles?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-composition-of-urine-in-terms-of-nitrogenous-waste
+    url: /learn/nursing/questions/how-does-rem-sleep-affect-dreaming-and-sleep-cycles
 related_article2:
-    id: 169725
-    title: What is the normal BMI range for adults?
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-normal-bmi-range-for-adults
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
 related_article3:
-    id: 169718
-    title: What are the primary macronutrients and their functions?
+    id: 169707
+    title: >-
+        How should time be managed during an exam under closed book conditions?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
+    url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
 related_article4:
-    id: 169708
-    title: Describe the flow of blood through the right atrium and ventricle of the heart.
+    id: 169715
+    title: >-
+        What is the role of hydrochloric acid in the stomach?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-flow-of-blood-through-the-right-atrium-and-ventricle-of-the-heart
+    url: /learn/nursing/questions/what-is-the-role-of-hydrochloric-acid-in-the-stomach
 related_article5:
-    id: 169720
-    title: What are the dietary recommendations according to the Eatwell Plate?
+    id: 169727
+    title: >-
+        What is the composition of blood in terms of red and white blood cells?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-dietary-recommendations-according-to-the-eatwell-plate
+    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
 ---
 
 &nbsp;

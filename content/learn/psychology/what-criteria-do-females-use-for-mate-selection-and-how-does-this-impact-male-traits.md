@@ -2,8 +2,10 @@
 _schema: default
 id: 171010
 date: 2025-02-07
-title: What criteria do females use for mate selection, and how does this impact male traits?
-article_title: What criteria do females use for mate selection, and how does this impact male traits?
+title: >-
+    What criteria do females use for mate selection, and how does this impact male traits?
+article_title: >-
+    What criteria do females use for mate selection, and how does this impact male traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-criteria-do-females-use-for-mate-selection-and-how-does-this-imp
 url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
 score: -1.0
 related_article1:
-    id: 170995
-    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
-related_article2:
-    id: 171001
-    title: What is anisogamy, and how does it affect reproductive strategies in different species?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
-related_article3:
-    id: 171016
-    title: What role does behavior play in evolutionary strategies for survival and reproductive success?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
-related_article4:
     id: 171007
-    title: What are the defining characteristics of promiscuity in the animal kingdom?
+    title: >-
+        What are the defining characteristics of promiscuity in the animal kingdom?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom
-related_article5:
-    id: 171002
-    title: How does parental investment impact offspring survival and resource allocation trade-offs?
+related_article2:
+    id: 171000
+    title: >-
+        How does mate choice influence sexual selection and competition among males?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
+related_article3:
+    id: 171012
+    title: >-
+        How does data analysis contribute to understanding behavior in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
+related_article4:
+    id: 170999
+    title: >-
+        What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
+related_article5:
+    id: 170999
+    title: >-
+        What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
 ---
 
 &nbsp;

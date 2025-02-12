@@ -2,8 +2,10 @@
 _schema: default
 id: 159733
 date: 2025-01-23
-title: How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
-article_title: How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
+title: >-
+    How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
+article_title: >-
+    How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-origins-in-hallstatt-contribute-to-the-celtic-migration-a
 url: /learn/history-of-the-world/questions/how-did-the-origins-in-hallstatt-contribute-to-the-celtic-migration-and-influence-in-europe
 score: 9.0
 related_article1:
-    id: 159692
-    title: What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
+    id: 159693
+    title: >-
+        How did trade with Mediterranean civilizations impact the Celtic economy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-their-militaristic-and-stratified-society
+    url: /learn/history-of-the-world/questions/how-did-trade-with-mediterranean-civilizations-impact-the-celtic-economy
 related_article2:
-    id: 159684
-    title: What are some common misconceptions about ancient Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-common-misconceptions-about-ancient-celts
-related_article3:
-    id: 159693
-    title: How did trade with Mediterranean civilizations impact the Celtic economy?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-trade-with-mediterranean-civilizations-impact-the-celtic-economy
-related_article4:
-    id: 159693
-    title: How did trade with Mediterranean civilizations impact the Celtic economy?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-trade-with-mediterranean-civilizations-impact-the-celtic-economy
-related_article5:
     id: 159736
-    title: What are the defining features of La Tène art and how did it influence Celtic art?
+    title: >-
+        What are the defining features of La Tène art and how did it influence Celtic art?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-defining-features-of-la-tne-art-and-how-did-it-influence-celtic-art
+related_article3:
+    id: 159688
+    title: >-
+        What are the key characteristics of the Hallstatt culture in Celtic material culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-the-hallstatt-culture-in-celtic-material-culture
+related_article4:
+    id: 159731
+    title: >-
+        How do documentary and historical sources contribute to our understanding of Celtic archaeological evidence?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-documentary-and-historical-sources-contribute-to-our-understanding-of-celtic-archaeological-evidence
+related_article5:
+    id: 159692
+    title: >-
+        What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-their-militaristic-and-stratified-society
 ---
 
 &nbsp;

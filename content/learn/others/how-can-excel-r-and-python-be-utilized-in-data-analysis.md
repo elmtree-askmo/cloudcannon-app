@@ -2,8 +2,10 @@
 _schema: default
 id: 162354
 date: 2025-01-25
-title: How can Excel, R, and Python be utilized in data analysis?
-article_title: How can Excel, R, and Python be utilized in data analysis?
+title: >-
+    How can Excel, R, and Python be utilized in data analysis?
+article_title: >-
+    How can Excel, R, and Python be utilized in data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-excel-r-and-python-be-utilized-in-data-analysis.md
 url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis
 score: -1.0
 related_article1:
-    id: 162720
-    title: What are the primary techniques used in data mining, and how do they apply to fraud detection?
+    id: 162669
+    title: >-
+        How do LAN and WAN differ in network architecture?
     subject: Others
-    url: /learn/others/questions/what-are-the-primary-techniques-used-in-data-mining-and-how-do-they-apply-to-fraud-detection
+    url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture
 related_article2:
-    id: 162725
-    title: How do Agile methodologies differ from the Waterfall model in software development?
+    id: 162779
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
     subject: Others
-    url: /learn/others/questions/how-do-agile-methodologies-differ-from-the-waterfall-model-in-software-development
+    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
 related_article3:
-    id: 162780
-    title: What are the benefits of using cloud computing service models like IaaS, PaaS, and SaaS?
+    id: 162367
+    title: >-
+        How do relational databases differ from NoSQL databases, and what are their respective use cases?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-service-models-like-iaas-paas-and-saas
+    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-and-what-are-their-respective-use-cases
 related_article4:
-    id: 162730
-    title: What are the principles of usability and accessibility in user experience design?
+    id: 162657
+    title: >-
+        How is regression analysis used in inferential statistics, and what are its applications?
     subject: Others
-    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
+    url: /learn/others/questions/how-is-regression-analysis-used-in-inferential-statistics-and-what-are-its-applications
 related_article5:
-    id: 162735
-    title: What are the challenges associated with virtual reality in terms of cost and user experience?
+    id: 162771
+    title: >-
+        How do TensorFlow, Scikit-learn, and PyTorch support machine learning applications like image recognition?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-associated-with-virtual-reality-in-terms-of-cost-and-user-experience
+    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-support-machine-learning-applications-like-image-recognition
 ---
 
 &nbsp;

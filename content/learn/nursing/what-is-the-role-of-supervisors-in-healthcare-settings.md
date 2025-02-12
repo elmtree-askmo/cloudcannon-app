@@ -2,8 +2,10 @@
 _schema: default
 id: 169563
 date: 2025-02-05
-title: What is the role of supervisors in healthcare settings?
-article_title: What is the role of supervisors in healthcare settings?
+title: >-
+    What is the role of supervisors in healthcare settings?
+article_title: >-
+    What is the role of supervisors in healthcare settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/what-is-the-role-of-supervisors-in-healthcare-sett
 score: -1.0
 related_article1:
     id: 169574
-    title: How does supervision aid in effective risk management?
+    title: >-
+        How does supervision aid in effective risk management?
     subject: Nursing
     url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
 related_article2:
-    id: 169561
-    title: Why is patient safety a critical concern in healthcare?
+    id: 169564
+    title: >-
+        Why is supervision particularly important for student nurses?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
+    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
 related_article3:
-    id: 169567
-    title: What is the role of professional responsibility in medication administration?
+    id: 169560
+    title: >-
+        How should student nurses apply the NMC Code in their practice?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-professional-responsibility-in-medication-administration
+    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
 related_article4:
-    id: 169580
-    title: How does supervision support student nurses in fulfilling their responsibilities?
+    id: 169558
+    title: >-
+        Why is the duty of care important for patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
 related_article5:
-    id: 169575
-    title: What are the different roles within a healthcare team, and how do they interact?
+    id: 169562
+    title: >-
+        How does supervision ensure competence and patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+    url: /learn/nursing/questions/how-does-supervision-ensure-competence-and-patient-safety
 ---
 
 &nbsp;

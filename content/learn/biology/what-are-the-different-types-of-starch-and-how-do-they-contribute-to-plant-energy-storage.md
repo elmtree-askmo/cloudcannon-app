@@ -2,8 +2,10 @@
 _schema: default
 id: 167033
 date: 2025-01-31
-title: What are the different types of starch, and how do they contribute to plant energy storage?
-article_title: What are the different types of starch, and how do they contribute to plant energy storage?
+title: >-
+    What are the different types of starch, and how do they contribute to plant energy storage?
+article_title: >-
+    What are the different types of starch, and how do they contribute to plant energy storage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-starch-and-how-do-they-contribute-to-
 url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
 score: -1.0
 related_article1:
-    id: 167021
-    title: How are disaccharides formed through glycosidic bonds?
+    id: 167031
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
     subject: Biology
-    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
 related_article2:
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
+related_article3:
+    id: 167024
+    title: >-
+        Why are polysaccharides biologically important?
+    subject: Biology
+    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+related_article4:
     id: 167021
-    title: How are disaccharides formed through glycosidic bonds?
+    title: >-
+        How are disaccharides formed through glycosidic bonds?
     subject: Biology
     url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
-related_article3:
-    id: 167032
-    title: What is the composition and structure of chitin, and how does it function in fungi and arthropods?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods
-related_article4:
-    id: 167026
-    title: What role does starch play in plant energy storage?
-    subject: Biology
-    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
 related_article5:
-    id: 167029
-    title: How do carbohydrates participate in cellular communication?
+    id: 167022
+    title: >-
+        What are some common examples of disaccharides?
     subject: Biology
-    url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
 ---
 
 &nbsp;

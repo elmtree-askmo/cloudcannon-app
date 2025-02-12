@@ -2,8 +2,10 @@
 _schema: default
 id: 169544
 date: 2025-02-05
-title: How can self-care practices contribute to a nurse's personal well-being and mental health?
-article_title: How can self-care practices contribute to a nurse's personal well-being and mental health?
+title: >-
+    How can self-care practices contribute to a nurse's personal well-being and mental health?
+article_title: >-
+    How can self-care practices contribute to a nurse's personal well-being and mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/nursing/questions/how-can-selfcare-practices-contribute-to-a-nurses-
 score: -1.0
 related_article1:
     id: 169550
-    title: How does emotional regulation impact patient trust and outcomes in nursing?
+    title: >-
+        How does emotional regulation impact patient trust and outcomes in nursing?
     subject: Nursing
     url: /learn/nursing/questions/how-does-emotional-regulation-impact-patient-trust-and-outcomes-in-nursing
 related_article2:
-    id: 169552
-    title: How can support systems provide emotional and mental support to nurses in their professional roles?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-support-systems-provide-emotional-and-mental-support-to-nurses-in-their-professional-roles
-related_article3:
-    id: 169551
-    title: What are the benefits of building a strong support network for nurses?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-building-a-strong-support-network-for-nurses
-related_article4:
-    id: 169545
-    title: What strategies can nurses use to overcome communication barriers with patients who have language or cognitive disabilities?
-    subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-nurses-use-to-overcome-communication-barriers-with-patients-who-have-language-or-cognitive-disabilities
-related_article5:
     id: 169549
-    title: What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
+    title: >-
+        What techniques can nurses use to stay calm under pressure and manage their emotions effectively?
     subject: Nursing
     url: /learn/nursing/questions/what-techniques-can-nurses-use-to-stay-calm-under-pressure-and-manage-their-emotions-effectively
+related_article3:
+    id: 169543
+    title: >-
+        What are some effective stress reduction techniques that nurses can use to manage stress?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-effective-stress-reduction-techniques-that-nurses-can-use-to-manage-stress
+related_article4:
+    id: 169547
+    title: >-
+        Why is continuous learning important for professional development in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-continuous-learning-important-for-professional-development-in-nursing
 ---
 
 &nbsp;

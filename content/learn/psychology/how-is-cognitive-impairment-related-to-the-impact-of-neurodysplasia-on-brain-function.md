@@ -2,8 +2,10 @@
 _schema: default
 id: 164297
 date: 2025-01-28
-title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
-article_title: How is cognitive impairment related to the impact of neurodysplasia on brain function?
+title: >-
+    How is cognitive impairment related to the impact of neurodysplasia on brain function?
+article_title: >-
+    How is cognitive impairment related to the impact of neurodysplasia on brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-o
 url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
 score: -1.0
 related_article1:
-    id: 164290
-    title: What role does color perception play in visual processing?
+    id: 164304
+    title: >-
+        How does auditory memory contribute to language comprehension?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+    url: /learn/psychology/questions/how-does-auditory-memory-contribute-to-language-comprehension
 related_article2:
-    id: 164299
-    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    id: 164289
+    title: >-
+        How does mental health influence task performance in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
 related_article3:
     id: 164290
-    title: What role does color perception play in visual processing?
+    title: >-
+        What role does color perception play in visual processing?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 related_article4:
-    id: 164310
-    title: What factors influence color differentiation in the visual spectrum?
+    id: 164290
+    title: >-
+        What role does color perception play in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 related_article5:
-    id: 164301
-    title: What are the main processes involved in auditory perception?
+    id: 164292
+    title: >-
+        How do social dynamics affect socio-physical interactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 ---
 
 &nbsp;

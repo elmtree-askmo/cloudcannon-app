@@ -2,8 +2,10 @@
 _schema: default
 id: 164067
 date: 2025-01-28
-title: What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
-article_title: What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+title: >-
+    What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+article_title: >-
+    What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and
 url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
 score: -1.0
 related_article1:
-    id: 164061
-    title: What are the main findings and implications of research in systemic treatments for psychopathology?
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-findings-and-implications-of-research-in-systemic-treatments-for-psychopathology
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
 related_article2:
-    id: 164068
-    title: Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    id: 164065
+    title: >-
+        What are the primary techniques and tools used in biofeedback therapy?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
+    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
 related_article3:
-    id: 164066
-    title: How is virtual reality integrated into therapeutic practices and what are its potential benefits?
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
 related_article4:
     id: 164060
-    title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
     subject: Psychology
     url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
 related_article5:
-    id: 164056
-    title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
 ---
 
 &nbsp;

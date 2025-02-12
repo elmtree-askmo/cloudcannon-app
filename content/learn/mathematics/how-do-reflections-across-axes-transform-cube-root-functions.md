@@ -2,8 +2,10 @@
 _schema: default
 id: 163779
 date: 2025-01-27
-title: How do reflections across axes transform cube root functions?
-article_title: How do reflections across axes transform cube root functions?
+title: >-
+    How do reflections across axes transform cube root functions?
+article_title: >-
+    How do reflections across axes transform cube root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-reflections-across-axes-transform-cube-root-functions.md
 url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
 score: -1.0
 related_article1:
-    id: 163761
-    title: How do the graphs of cube root functions differ from those of square root functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
-related_article2:
-    id: 163746
-    title: How do cube root functions differ from square root functions in terms of perfect cubes?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-cube-root-functions-differ-from-square-root-functions-in-terms-of-perfect-cubes
-related_article3:
     id: 163770
-    title: What are the effects of transformations and translations on cube root functions?
+    title: >-
+        What are the effects of transformations and translations on cube root functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+related_article2:
+    id: 163768
+    title: >-
+        How are cube root functions used in real-world applications?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
+related_article3:
+    id: 163759
+    title: >-
+        Why do cube root functions lack minimum and maximum values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-do-cube-root-functions-lack-minimum-and-maximum-values
 related_article4:
     id: 163744
-    title: What is the general form of a cube root function?
+    title: >-
+        What is the general form of a cube root function?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
 related_article5:
-    id: 163775
-    title: How do horizontal and vertical shifts affect cube root functions?
+    id: 163744
+    title: >-
+        What is the general form of a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169008
 date: 2025-02-04
-title: How have women's roles been represented in historical narratives?
-article_title: How have women's roles been represented in historical narratives?
+title: >-
+    How have women's roles been represented in historical narratives?
+article_title: >-
+    How have women's roles been represented in historical narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-have-womens-roles-been-represente
 score: 9.0
 related_article1:
     id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
+    title: >-
+        What are feminized spaces, and how do they relate to identity strategies?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
 related_article2:
-    id: 169020
-    title: How are historical events represented in cultural narratives within architecture?
+    id: 169022
+    title: >-
+        How have newspaper accounts influenced the historical narratives of revolutionary events?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
+    url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influenced-the-historical-narratives-of-revolutionary-events
 related_article3:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    id: 169001
+    title: >-
+        How does collective work influence architectural history beyond individual builders?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+    url: /learn/history-of-the-world/questions/how-does-collective-work-influence-architectural-history-beyond-individual-builders
 related_article4:
-    id: 169012
-    title: Who were some key figures in the Mexican Revolution, and what were their contributions?
+    id: 169011
+    title: >-
+        What are feminized spaces, and how do they relate to identity strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
+    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
 related_article5:
-    id: 169006
-    title: What are gendered spaces in architecture, and why are they significant?
+    id: 169004
+    title: >-
+        In what ways does critical theory reframe architectural narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
+    url: /learn/history-of-the-world/questions/in-what-ways-does-critical-theory-reframe-architectural-narratives
 ---
 
 &nbsp;

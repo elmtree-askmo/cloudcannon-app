@@ -2,8 +2,10 @@
 _schema: default
 id: 168880
 date: 2025-02-04
-title: Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
-article_title: Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
+title: >-
+    Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
+article_title: >-
+    Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-difference-between-system-1-and-system-2-thinking-in-the-
 url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
 score: -1.0
 related_article1:
-    id: 168894
-    title: What is the availability heuristic and how does it affect decision-making?
+    id: 168889
+    title: >-
+        How do framing effects influence decision outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking
+    url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
 related_article2:
-    id: 168892
-    title: What is the difference between life satisfaction and happiness in the context of well-being?
+    id: 168890
+    title: >-
+        What are preference reversals and how do they occur in decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
+    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
 related_article3:
-    id: 168891
-    title: How is experienced well-being measured using the Day Reconstruction Method?
+    id: 168879
+    title: >-
+        How does the illusion of understanding lead to misinterpretation of historical events?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
 related_article4:
-    id: 168886
-    title: Describe the premortem strategy and its purpose in decision-making.
+    id: 168884
+    title: >-
+        How does reference class forecasting help mitigate the planning fallacy?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
 related_article5:
-    id: 168888
-    title: What is the disposition effect and how does it affect investment decisions?
+    id: 168887
+    title: >-
+        How do sunk costs influence decision-making in terms of attendance and financial decisions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
 ---
 
 &nbsp;

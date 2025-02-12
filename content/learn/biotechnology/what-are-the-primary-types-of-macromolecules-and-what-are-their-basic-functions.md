@@ -2,8 +2,10 @@
 _schema: default
 id: 170962
 date: 2025-02-07
-title: What are the primary types of macromolecules, and what are their basic functions?
-article_title: What are the primary types of macromolecules, and what are their basic functions?
+title: >-
+    What are the primary types of macromolecules, and what are their basic functions?
+article_title: >-
+    What are the primary types of macromolecules, and what are their basic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-types-of-macromolecules-and-what-are-their-basic
 url: /learn/biotechnology/questions/what-are-the-primary-types-of-macromolecules-and-what-are-their-basic-functions
 score: -1.0
 related_article1:
-    id: 170968
-    title: What is the role of ATP in energy transfer within cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
-related_article2:
-    id: 170960
-    title: What is the role of hydrogen bonds in molecular interactions?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
-related_article3:
-    id: 170967
-    title: How do nucleotides function as energy carriers in cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
-related_article4:
     id: 170957
-    title: How do excitation and emission filters function in fluorescence microscopy?
+    title: >-
+        How do excitation and emission filters function in fluorescence microscopy?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
-related_article5:
-    id: 170969
-    title: How do non-covalent interactions contribute to protein conformation and molecular binding?
+related_article2:
+    id: 170971
+    title: >-
+        What is the principle behind density gradient centrifugation, and how is it applied in molecular biology?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+    url: /learn/biotechnology/questions/what-is-the-principle-behind-density-gradient-centrifugation-and-how-is-it-applied-in-molecular-biology
+related_article3:
+    id: 170966
+    title: >-
+        What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article4:
+    id: 170966
+    title: >-
+        What are the components of a nucleotide, and how do they contribute to the structure of nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-components-of-a-nucleotide-and-how-do-they-contribute-to-the-structure-of-nucleic-acids
+related_article5:
+    id: 170967
+    title: >-
+        How do nucleotides function as energy carriers in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
 ---
 
 &nbsp;

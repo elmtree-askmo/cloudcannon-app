@@ -2,8 +2,10 @@
 _schema: default
 id: 169728
 date: 2025-02-05
-title: How does osteoporosis affect bone density and fracture risk?
-article_title: How does osteoporosis affect bone density and fracture risk?
+title: >-
+    How does osteoporosis affect bone density and fracture risk?
+article_title: >-
+    How does osteoporosis affect bone density and fracture risk?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-osteoporosis-affect-bone-density-and-fracture-risk.md
 url: /learn/nursing/questions/how-does-osteoporosis-affect-bone-density-and-fracture-risk
 score: -1.0
 related_article1:
-    id: 169706
-    title: What are the ID verification requirements for an exam?
+    id: 169719
+    title: >-
+        What is the significance of vitamins and minerals as micronutrients?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-id-verification-requirements-for-an-exam
+    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
 related_article2:
-    id: 169720
-    title: What are the dietary recommendations according to the Eatwell Plate?
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-dietary-recommendations-according-to-the-eatwell-plate
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
 related_article3:
-    id: 169716
-    title: How do the fallopian tubes facilitate fertilization?
+    id: 169709
+    title: >-
+        What role do the pulmonary artery and vein play in blood circulation?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-the-fallopian-tubes-facilitate-fertilization
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
 related_article4:
-    id: 169727
-    title: What is the composition of blood in terms of red and white blood cells?
+    id: 169710
+    title: >-
+        How do dendrites and axons function in nerve cells?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
+    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
 related_article5:
     id: 169723
-    title: How is chronic pain defined and managed?
+    title: >-
+        How is chronic pain defined and managed?
     subject: Nursing
     url: /learn/nursing/questions/how-is-chronic-pain-defined-and-managed
 ---

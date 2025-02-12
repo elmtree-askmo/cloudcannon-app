@@ -2,8 +2,10 @@
 _schema: default
 id: 166239
 date: 2025-01-29
-title: What are the challenges associated with the preservation and access of historical documents?
-article_title: What are the challenges associated with the preservation and access of historical documents?
+title: >-
+    What are the challenges associated with the preservation and access of historical documents?
+article_title: >-
+    What are the challenges associated with the preservation and access of historical documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-associated-with-the-preservation-and-access-o
 url: /learn/history-of-the-world/questions/what-are-the-challenges-associated-with-the-preservation-and-access-of-historical-documents
 score: 9.0
 related_article1:
-    id: 166227
-    title: What are the primary types of historical evidence, and how are they evaluated for reliability?
+    id: 166237
+    title: >-
+        What are the main components involved in constructing historical narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
 related_article2:
-    id: 166213
-    title: What were the key developments in the historical context of Arabic studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
+    id: 166225
+    title: >-
+        What are the main components of physical health that contribute to overall well-being?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
 related_article3:
-    id: 166242
-    title: What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
+    id: 166218
+    title: >-
+        How is machine learning applied in natural language processing?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-theories-and-debates-surrounding-human-evolution-and-migration-patterns-in-prehistory
+    url: /learn/history-of-the-world/questions/how-is-machine-learning-applied-in-natural-language-processing
 related_article4:
-    id: 166240
-    title: How do language barriers and contextual understanding affect the interpretation of historical documents?
+    id: 166233
+    title: >-
+        How has historiography evolved from ancient to modern times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
+    url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
 related_article5:
-    id: 166224
-    title: How does sustainable development integrate economic considerations into environmental sustainability?
+    id: 166216
+    title: >-
+        What are the common challenges faced when implementing iClicker technology in classrooms?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-sustainable-development-integrate-economic-considerations-into-environmental-sustainability
+    url: /learn/history-of-the-world/questions/what-are-the-common-challenges-faced-when-implementing-iclicker-technology-in-classrooms
 ---
 
 &nbsp;

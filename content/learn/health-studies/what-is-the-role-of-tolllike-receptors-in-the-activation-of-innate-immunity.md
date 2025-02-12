@@ -2,8 +2,10 @@
 _schema: default
 id: 165865
 date: 2025-01-29
-title: What is the role of Toll-Like Receptors in the activation of innate immunity?
-article_title: What is the role of Toll-Like Receptors in the activation of innate immunity?
+title: >-
+    What is the role of Toll-Like Receptors in the activation of innate immunity?
+article_title: >-
+    What is the role of Toll-Like Receptors in the activation of innate immunity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-im
 url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
 score: -1.0
 related_article1:
-    id: 165874
-    title: How does concomitant immunity provide protection against re-infection?
+    id: 165858
+    title: >-
+        How do infective parasites differ from non-infective parasites in terms of their impact on the host?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
+    url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
 related_article2:
-    id: 165868
-    title: How do B cells and T cells differ in their roles within the immune system?
+    id: 165857
+    title: >-
+        What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
 related_article3:
-    id: 165881
-    title: What mechanisms are involved in the sustained immune response during secondary exposure?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article4:
-    id: 165870
-    title: How do MHC Class I molecules contribute to self-identification in the immune system?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article5:
-    id: 165872
-    title: How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
+    id: 165877
+    title: >-
+        What is the role of the NF Kappa B pathway in the inflammatory response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cellular-immune-response
+    url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168707
 date: 2025-02-04
-title: What are the advantages of using modern cutting tools for external and groove machining?
-article_title: What are the advantages of using modern cutting tools for external and groove machining?
+title: >-
+    What are the advantages of using modern cutting tools for external and groove machining?
+article_title: >-
+    What are the advantages of using modern cutting tools for external and groove machining?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-modern-cutting-tools-for-external-an
 url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
 score: -1.0
 related_article1:
-    id: 168703
-    title: Why is cutting speed important in machining, and what factors influence it?
+    id: 168711
+    title: >-
+        Compare the speed and precision of CNC lathes with mechanical lathes.
     subject: Engineering
-    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+    url: /learn/engineering/questions/compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes
 related_article2:
-    id: 168702
-    title: Describe the main components of a mechanical lathe and their functions.
-    subject: Engineering
-    url: /learn/engineering/questions/describe-the-main-components-of-a-mechanical-lathe-and-their-functions
-related_article3:
     id: 168706
-    title: How do three-jaw chucks and collets differ in their applications for workpiece holding?
+    title: >-
+        How do three-jaw chucks and collets differ in their applications for workpiece holding?
     subject: Engineering
     url: /learn/engineering/questions/how-do-threejaw-chucks-and-collets-differ-in-their-applications-for-workpiece-holding
+related_article3:
+    id: 168712
+    title: >-
+        What are the benefits of CNC machining in terms of heavy machining and operation diversity?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
 related_article4:
-    id: 168708
-    title: Explain the role of tool holders and inserts in machining operations.
+    id: 168703
+    title: >-
+        Why is cutting speed important in machining, and what factors influence it?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-role-of-tool-holders-and-inserts-in-machining-operations
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
 related_article5:
-    id: 168709
-    title: What are the techniques used in facing and taper turning on a lathe?
+    id: 168699
+    title: >-
+        What is the significance of relative movements in machining operations, and how do they affect the trajectory of the tool?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-techniques-used-in-facing-and-taper-turning-on-a-lathe
+    url: /learn/engineering/questions/what-is-the-significance-of-relative-movements-in-machining-operations-and-how-do-they-affect-the-trajectory-of-the-tool
 ---
 
 &nbsp;

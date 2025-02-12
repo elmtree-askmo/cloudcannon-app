@@ -2,8 +2,10 @@
 _schema: default
 id: 168959
 date: 2025-02-04
-title: What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
-article_title: What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
+title: >-
+    What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
+article_title: >-
+    What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-i
 url: /learn/health-studies/questions/what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-is-it-necessary-for-cellular-function
 score: -1.0
 related_article1:
+    id: 168949
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
+related_article2:
+    id: 168946
+    title: >-
+        Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-structurefunction-relationship-in-biomolecules-and-how-it-relates-to-their-levels-of-structure
+related_article3:
     id: 168952
-    title: How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
+    title: >-
+        How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-temperature-affect-membrane-fluidity-and-what-role-does-cholesterol-play-in-this-process
-related_article2:
-    id: 168958
-    title: Describe the mechanism and function of the sodium-potassium pump in active transport.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-active-transport
-related_article3:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
 related_article4:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
+    id: 168960
+    title: >-
+        Define endocytosis and exocytosis and explain their roles in cellular transport.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
+    url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
 related_article5:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
+    id: 168945
+    title: >-
+        How do polar and non-polar groups affect the solubility and interaction of biomolecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
+    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
 ---
 
 &nbsp;

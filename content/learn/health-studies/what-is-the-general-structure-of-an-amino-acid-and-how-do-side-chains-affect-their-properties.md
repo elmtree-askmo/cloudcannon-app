@@ -2,8 +2,10 @@
 _schema: default
 id: 167104
 date: 2025-01-31
-title: What is the general structure of an amino acid and how do side chains affect their properties?
-article_title: What is the general structure of an amino acid and how do side chains affect their properties?
+title: >-
+    What is the general structure of an amino acid and how do side chains affect their properties?
+article_title: >-
+    What is the general structure of an amino acid and how do side chains affect their properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains
 url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
 score: -1.0
 related_article1:
-    id: 167103
-    title: How do functional groups influence the chemical properties of molecules?
+    id: 167106
+    title: >-
+        What roles do enzymes play in catalysis and reaction facilitation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
+    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
 related_article2:
-    id: 167097
-    title: What are the four levels of protein structure and how do they differ?
+    id: 167087
+    title: >-
+        What are the main roles of biological molecules in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
+    url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
 related_article3:
-    id: 167112
-    title: How do proteins and lipids function in cell signaling?
+    id: 167096
+    title: >-
+        How are glycosidic bonds formed in carbohydrates?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-proteins-and-lipids-function-in-cell-signaling
+    url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
 related_article4:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
+    id: 167108
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in protein folding?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
+    url: /learn/health-studies/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-protein-folding
 related_article5:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
+    id: 167089
+    title: >-
+        What are the four main classes of biological molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
+    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
 ---
 
 &nbsp;

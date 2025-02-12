@@ -2,8 +2,10 @@
 _schema: default
 id: 166110
 date: 2025-01-29
-title: In what ways did Roman culture influence the development of a Romano-British identity?
-article_title: In what ways did Roman culture influence the development of a Romano-British identity?
+title: >-
+    In what ways did Roman culture influence the development of a Romano-British identity?
+article_title: >-
+    In what ways did Roman culture influence the development of a Romano-British identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-roman-culture-influence-the-development-of-a-romanob
 url: /learn/history-of-the-world/questions/in-what-ways-did-roman-culture-influence-the-development-of-a-romanobritish-identity
 score: 9.0
 related_article1:
-    id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    id: 166116
+    title: >-
+        What were the consequences of the withdrawal of Roman troops from Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
+    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
 related_article2:
     id: 166108
-    title: How did Roman religious practices integrate with Celtic traditions in Britain?
+    title: >-
+        How did Roman religious practices integrate with Celtic traditions in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain
 related_article3:
-    id: 166106
-    title: How did the Britonic languages develop during the Roman period in Britain?
+    id: 166103
+    title: >-
+        What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-britonic-languages-develop-during-the-roman-period-in-britain
+    url: /learn/history-of-the-world/questions/what-were-the-key-factors-that-led-to-the-transition-from-the-roman-republic-to-the-roman-empire
 related_article4:
-    id: 166111
-    title: How did early Christian communities establish themselves in Roman Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-early-christian-communities-establish-themselves-in-roman-britain
-related_article5:
     id: 166113
-    title: How do classical authors' accounts contribute to our understanding of Roman Britain?
+    title: >-
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
+related_article5:
+    id: 166104
+    title: >-
+        How did Julius Caesar's campaigns in Britain impact his legacy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-julius-caesars-campaigns-in-britain-impact-his-legacy
 ---
 
 &nbsp;

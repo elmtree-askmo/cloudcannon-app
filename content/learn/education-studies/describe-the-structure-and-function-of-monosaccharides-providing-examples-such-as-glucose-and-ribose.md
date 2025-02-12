@@ -2,8 +2,10 @@
 _schema: default
 id: 161783
 date: 2025-01-24
-title: Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
-article_title: Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+title: >-
+    Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+article_title: >-
+    Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-and-function-of-monosaccharides-providing-exam
 url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
 score: -1.0
 related_article1:
-    id: 161794
-    title: How does molecular structure facilitate function in biological molecules?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
-related_article2:
-    id: 161792
-    title: How do proteins and carbohydrates contribute to structural support in organisms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-proteins-and-carbohydrates-contribute-to-structural-support-in-organisms
-related_article3:
-    id: 161797
-    title: What is the importance of transport proteins in membrane transport?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-transport-proteins-in-membrane-transport
-related_article4:
-    id: 161797
-    title: What is the importance of transport proteins in membrane transport?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-transport-proteins-in-membrane-transport
-related_article5:
     id: 161786
-    title: What are the primary functions of proteins in biological systems?
+    title: >-
+        What are the primary functions of proteins in biological systems?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-primary-functions-of-proteins-in-biological-systems
+related_article2:
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
+related_article3:
+    id: 161788
+    title: >-
+        What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
+related_article4:
+    id: 161780
+    title: >-
+        What are the four main classes of biological molecules?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-four-main-classes-of-biological-molecules
+related_article5:
+    id: 161784
+    title: >-
+        What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
 ---
 
 &nbsp;

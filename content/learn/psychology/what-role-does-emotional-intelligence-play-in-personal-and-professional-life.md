@@ -2,8 +2,10 @@
 _schema: default
 id: 167702
 date: 2025-01-31
-title: What role does emotional intelligence play in personal and professional life?
-article_title: What role does emotional intelligence play in personal and professional life?
+title: >-
+    What role does emotional intelligence play in personal and professional life?
+article_title: >-
+    What role does emotional intelligence play in personal and professional life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-emotional-intelligence-play-in-personal-and-profession
 url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
 score: -1.0
 related_article1:
-    id: 167710
-    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    id: 167694
+    title: >-
+        How do neurobiological processes influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 related_article2:
     id: 167697
-    title: How does the nature vs. nurture debate relate to determinism in psychology?
+    title: >-
+        How does the nature vs. nurture debate relate to determinism in psychology?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
 related_article3:
-    id: 167695
-    title: What are the modern views on dualism in neuroscience?
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 related_article4:
-    id: 167699
-    title: What statistical techniques are commonly used in data analysis for psychological studies?
+    id: 167698
+    title: >-
+        What are the key components of experimental design in psychological research?
     subject: Psychology
-    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
 related_article5:
-    id: 167690
-    title: What are common symptoms and diagnostic criteria for behavioral disorders?
+    id: 167707
+    title: >-
+        How do memory processes like encoding and retrieval affect memory disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-common-symptoms-and-diagnostic-criteria-for-behavioral-disorders
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
 ---
 
 &nbsp;

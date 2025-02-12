@@ -2,8 +2,10 @@
 _schema: default
 id: 159792
 date: 2025-01-23
-title: What is Orientalism in art, and how did it influence Western art?
-article_title: What is Orientalism in art, and how did it influence Western art?
+title: >-
+    What is Orientalism in art, and how did it influence Western art?
+article_title: >-
+    What is Orientalism in art, and how did it influence Western art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-orientalism-in-art-and-how-did-it-influence-western-art.md
 url: /learn/education-studies/questions/what-is-orientalism-in-art-and-how-did-it-influence-western-art
 score: -1.0
 related_article1:
-    id: 159768
-    title: Discuss the role of artists in society and how social movements influenced art during the evolution of artistic professionalism.
+    id: 159760
+    title: >-
+        Define avant-garde movements and discuss their key characteristics and impact on the art world.
     subject: Education Studies
-    url: /learn/education-studies/questions/discuss-the-role-of-artists-in-society-and-how-social-movements-influenced-art-during-the-evolution-of-artistic-professionalism
+    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-characteristics-and-impact-on-the-art-world
 related_article2:
+    id: 159788
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
+related_article3:
+    id: 159790
+    title: >-
+        What was the purpose of art institutions and academies, and how did they contribute to the professionalization of artists?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-was-the-purpose-of-art-institutions-and-academies-and-how-did-they-contribute-to-the-professionalization-of-artists
+related_article4:
+    id: 159794
+    title: >-
+        Who were the key figures of Impressionism, and what were the main characteristics of this movement?
+    subject: Education Studies
+    url: /learn/education-studies/questions/who-were-the-key-figures-of-impressionism-and-what-were-the-main-characteristics-of-this-movement
+related_article5:
     id: 159795
-    title: What was the purpose of the Salon of the Refused and the Salon of Independents, and how did they influence modern art?
+    title: >-
+        What was the purpose of the Salon of the Refused and the Salon of Independents, and how did they influence modern art?
     subject: Education Studies
     url: /learn/education-studies/questions/what-was-the-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-how-did-they-influence-modern-art
-related_article3:
-    id: 159761
-    title: How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
-related_article4:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
-related_article5:
-    id: 159791
-    title: How did the curriculum and focus of art academies evolve, and what impact did this have on artistic development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-curriculum-and-focus-of-art-academies-evolve-and-what-impact-did-this-have-on-artistic-development
 ---
 
 &nbsp;

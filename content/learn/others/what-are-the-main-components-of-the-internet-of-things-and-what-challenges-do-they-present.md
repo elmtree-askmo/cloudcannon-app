@@ -2,8 +2,10 @@
 _schema: default
 id: 162733
 date: 2025-01-25
-title: What are the main components of the Internet of Things, and what challenges do they present?
-article_title: What are the main components of the Internet of Things, and what challenges do they present?
+title: >-
+    What are the main components of the Internet of Things, and what challenges do they present?
+article_title: >-
+    What are the main components of the Internet of Things, and what challenges do they present?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-the-internet-of-things-and-what-chall
 url: /learn/others/questions/what-are-the-main-components-of-the-internet-of-things-and-what-challenges-do-they-present
 score: -1.0
 related_article1:
-    id: 162712
-    title: What are the ethical considerations associated with artificial intelligence, and how can bias be addressed?
+    id: 162358
+    title: >-
+        What ethical considerations and challenges are associated with artificial intelligence?
     subject: Others
-    url: /learn/others/questions/what-are-the-ethical-considerations-associated-with-artificial-intelligence-and-how-can-bias-be-addressed
+    url: /learn/others/questions/what-ethical-considerations-and-challenges-are-associated-with-artificial-intelligence
 related_article2:
-    id: 162362
-    title: How is hypothesis testing used in inferential statistics, and what are its applications?
+    id: 162672
+    title: >-
+        How do Scrum and Kanban differ as agile methodologies?
     subject: Others
-    url: /learn/others/questions/how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are-its-applications
+    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-methodologies
 related_article3:
-    id: 162729
-    title: What are the best practices for ensuring responsive design in web development?
+    id: 162730
+    title: >-
+        What are the principles of usability and accessibility in user experience design?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-ensuring-responsive-design-in-web-development
+    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
 related_article4:
     id: 162727
-    title: What are the most common cybersecurity threats, and how can they be mitigated?
+    title: >-
+        What are the most common cybersecurity threats, and how can they be mitigated?
     subject: Others
     url: /learn/others/questions/what-are-the-most-common-cybersecurity-threats-and-how-can-they-be-mitigated
 related_article5:
-    id: 162362
-    title: How is hypothesis testing used in inferential statistics, and what are its applications?
+    id: 162730
+    title: >-
+        What are the principles of usability and accessibility in user experience design?
     subject: Others
-    url: /learn/others/questions/how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are-its-applications
+    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
 ---
 
 &nbsp;

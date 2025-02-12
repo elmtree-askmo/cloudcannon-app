@@ -2,8 +2,10 @@
 _schema: default
 id: 169851
 date: 2025-02-05
-title: How do Kirchhoff's laws assist in the analysis of electrical circuits?
-article_title: How do Kirchhoff's laws assist in the analysis of electrical circuits?
+title: >-
+    How do Kirchhoff's laws assist in the analysis of electrical circuits?
+article_title: >-
+    How do Kirchhoff's laws assist in the analysis of electrical circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits.
 url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
 score: -1.0
 related_article1:
-    id: 169853
-    title: Explain the concept of active and reactive power in electrical circuits.
+    id: 169846
+    title: >-
+        Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
 related_article2:
-    id: 169849
-    title: Define a bipole and explain its role in an electrical circuit.
-    subject: Engineering
-    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
-related_article3:
     id: 169845
-    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    title: >-
+        What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+related_article3:
+    id: 169857
+    title: >-
+        Define impedance and its importance in AC circuit analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
 related_article4:
-    id: 169860
-    title: What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
+    id: 169852
+    title: >-
+        What are the electrical characteristics of bipoles in circuit analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-bipoles-in-circuit-analysis
 related_article5:
-    id: 169849
-    title: Define a bipole and explain its role in an electrical circuit.
+    id: 169853
+    title: >-
+        Explain the concept of active and reactive power in electrical circuits.
     subject: Engineering
-    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 ---
 
 &nbsp;

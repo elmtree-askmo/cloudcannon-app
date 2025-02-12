@@ -2,8 +2,10 @@
 _schema: default
 id: 162966
 date: 2025-01-26
-title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
-article_title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
+title: >-
+    What is the primary focus of epidemiology in terms of disease frequency and distribution?
+article_title: >-
+    What is the primary focus of epidemiology in terms of disease frequency and distribution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequen
 url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
 score: -1.0
 related_article1:
-    id: 162955
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
-related_article2:
-    id: 162964
-    title: What is the significance of the null hypothesis in hypothesis testing?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
-related_article3:
     id: 162974
-    title: How does random sampling differ from systematic and stratified sampling in biostatistics?
+    title: >-
+        How does random sampling differ from systematic and stratified sampling in biostatistics?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-random-sampling-differ-from-systematic-and-stratified-sampling-in-biostatistics
+related_article2:
+    id: 163018
+    title: >-
+        What are the key components of data interpretation in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
+related_article3:
+    id: 163020
+    title: >-
+        How do random and systematic sampling methods differ in biostatistics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-random-and-systematic-sampling-methods-differ-in-biostatistics
 related_article4:
-    id: 162964
-    title: What is the significance of the null hypothesis in hypothesis testing?
+    id: 163022
+    title: >-
+        What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
+    url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
 related_article5:
-    id: 162957
-    title: What role do genetic makeup and lifestyle play in individual determinants of health?
+    id: 162958
+    title: >-
+        How do political and economic factors serve as environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
+    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
 ---
 
 &nbsp;

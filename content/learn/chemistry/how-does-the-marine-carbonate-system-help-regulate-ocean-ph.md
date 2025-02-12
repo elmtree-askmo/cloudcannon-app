@@ -2,8 +2,10 @@
 _schema: default
 id: 166995
 date: 2025-01-31
-title: How does the marine carbonate system help regulate ocean pH?
-article_title: How does the marine carbonate system help regulate ocean pH?
+title: >-
+    How does the marine carbonate system help regulate ocean pH?
+article_title: >-
+    How does the marine carbonate system help regulate ocean pH?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-marine-carbonate-system-help-regulate-ocean-ph.md
 url: /learn/chemistry/questions/how-does-the-marine-carbonate-system-help-regulate-ocean-ph
 score: -1.0
 related_article1:
-    id: 166994
-    title: What is the function of the bicarbonate buffer system in human blood?
+    id: 166986
+    title: >-
+        What type of bond is formed between the oxygen and hydrogen atoms in a water molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+    url: /learn/chemistry/questions/what-type-of-bond-is-formed-between-the-oxygen-and-hydrogen-atoms-in-a-water-molecule
 related_article2:
-    id: 166997
-    title: How do electronegativity differences lead to polar and nonpolar bonds?
+    id: 166991
+    title: >-
+        How do polar and nonpolar molecules differ in their interaction with water?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+    url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
 related_article3:
-    id: 166994
-    title: What is the function of the bicarbonate buffer system in human blood?
+    id: 166993
+    title: >-
+        How does the pH scale categorize strong acids and bases?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+    url: /learn/chemistry/questions/how-does-the-ph-scale-categorize-strong-acids-and-bases
 related_article4:
-    id: 166997
-    title: How do electronegativity differences lead to polar and nonpolar bonds?
+    id: 166992
+    title: >-
+        What defines a substance as an acid or a base in terms of pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
 related_article5:
-    id: 166989
-    title: How does surface tension arise from the cohesive properties of water?
+    id: 167000
+    title: >-
+        How do cohesive forces contribute to the formation of water droplets?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
+    url: /learn/chemistry/questions/how-do-cohesive-forces-contribute-to-the-formation-of-water-droplets
 ---
 
 &nbsp;

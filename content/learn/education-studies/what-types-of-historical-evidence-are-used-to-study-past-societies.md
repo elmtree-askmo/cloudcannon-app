@@ -2,8 +2,10 @@
 _schema: default
 id: 168395
 date: 2025-02-03
-title: What types of historical evidence are used to study past societies?
-article_title: What types of historical evidence are used to study past societies?
+title: >-
+    What types of historical evidence are used to study past societies?
+article_title: >-
+    What types of historical evidence are used to study past societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-historical-evidence-are-used-to-study-past-societies.md
 url: /learn/education-studies/questions/what-types-of-historical-evidence-are-used-to-study-past-societies
 score: -1.0
 related_article1:
+    id: 168386
+    title: >-
+        What methods are used to date historical events and artifacts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
+related_article2:
+    id: 168390
+    title: >-
+        How does genetic data help in tracing human migration patterns?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
+related_article3:
+    id: 168379
+    title: >-
+        What are the key differences between stone tools and composite tools in tool technology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
+related_article4:
     id: 168377
-    title: What are the main techniques used in archaeology to uncover historical evidence?
+    title: >-
+        What are the main techniques used in archaeology to uncover historical evidence?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-techniques-used-in-archaeology-to-uncover-historical-evidence
-related_article2:
-    id: 168376
-    title: What role do oral histories play in shaping our understanding of the past?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
-related_article3:
-    id: 168380
-    title: How did early metallurgical practices impact ancient societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
-related_article4:
-    id: 168378
-    title: How do cultural and physical anthropology differ in their study of human societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
 related_article5:
-    id: 168380
-    title: How did early metallurgical practices impact ancient societies?
+    id: 168390
+    title: >-
+        How does genetic data help in tracing human migration patterns?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
+    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
 ---
 
 &nbsp;

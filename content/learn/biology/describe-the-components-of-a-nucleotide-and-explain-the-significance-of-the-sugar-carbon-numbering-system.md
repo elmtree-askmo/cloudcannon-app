@@ -2,8 +2,10 @@
 _schema: default
 id: 166868
 date: 2025-01-31
-title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
-article_title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+title: >-
+    Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+article_title: >-
+    Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-components-of-a-nucleotide-and-explain-the-significance-
 url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
 score: -1.0
 related_article1:
-    id: 166867
-    title: What are the primary functions of DNA and RNA in the cell?
+    id: 166878
+    title: >-
+        What role do nucleic acids play in information storage and protein synthesis?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-functions-of-dna-and-rna-in-the-cell
+    url: /learn/biology/questions/what-role-do-nucleic-acids-play-in-information-storage-and-protein-synthesis
 related_article2:
     id: 166867
-    title: What are the primary functions of DNA and RNA in the cell?
+    title: >-
+        What are the primary functions of DNA and RNA in the cell?
     subject: Biology
     url: /learn/biology/questions/what-are-the-primary-functions-of-dna-and-rna-in-the-cell
 related_article3:
-    id: 166879
-    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    id: 166877
+    title: >-
+        Compare the structure and function of DNA and RNA, and identify their locations in cells.
     subject: Biology
-    url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
 related_article4:
-    id: 166866
-    title: Where are DNA and RNA located within eukaryotic and prokaryotic cells?
+    id: 166874
+    title: >-
+        Describe the antiparallel orientation of DNA strands and its implications for DNA function.
     subject: Biology
-    url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
 related_article5:
-    id: 166869
-    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    id: 166873
+    title: >-
+        What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
     subject: Biology
-    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
 ---
 
 &nbsp;

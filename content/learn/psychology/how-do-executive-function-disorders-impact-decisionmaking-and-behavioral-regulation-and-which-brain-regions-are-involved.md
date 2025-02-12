@@ -2,8 +2,10 @@
 _schema: default
 id: 164849
 date: 2025-01-28
-title: How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
-article_title: How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+title: >-
+    How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
+article_title: >-
+    How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-executive-function-disorders-impact-decisionmaking-and-behavio
 url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
 score: -1.0
 related_article1:
-    id: 164838
-    title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness
-related_article2:
-    id: 164851
-    title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
-related_article3:
-    id: 164852
-    title: What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
-related_article4:
     id: 164839
-    title: Describe the default mode network and its involvement in self-referential thought and introspection.
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
-related_article5:
+related_article2:
+    id: 164841
+    title: >-
+        In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    subject: Psychology
+    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+related_article3:
     id: 164847
-    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
+    title: >-
+        How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
     subject: Psychology
     url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
+related_article4:
+    id: 164843
+    title: >-
+        How do dissociative disorders impact consciousness, and what are some common symptoms and experiences associated with these disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
+related_article5:
+    id: 164844
+    title: >-
+        What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
 ---
 
 &nbsp;

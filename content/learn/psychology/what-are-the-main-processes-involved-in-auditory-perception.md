@@ -2,8 +2,10 @@
 _schema: default
 id: 164301
 date: 2025-01-28
-title: What are the main processes involved in auditory perception?
-article_title: What are the main processes involved in auditory perception?
+title: >-
+    What are the main processes involved in auditory perception?
+article_title: >-
+    What are the main processes involved in auditory perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-processes-involved-in-auditory-perception.md
 url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
 score: -1.0
 related_article1:
-    id: 164289
-    title: How does mental health influence task performance in psychology?
+    id: 164310
+    title: >-
+        What factors influence color differentiation in the visual spectrum?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+    url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
 related_article2:
-    id: 164289
-    title: How does mental health influence task performance in psychology?
+    id: 164297
+    title: >-
+        How is cognitive impairment related to the impact of neurodysplasia on brain function?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
+    url: /learn/psychology/questions/how-is-cognitive-impairment-related-to-the-impact-of-neurodysplasia-on-brain-function
 related_article3:
-    id: 164290
-    title: What role does color perception play in visual processing?
+    id: 164306
+    title: >-
+        What is the significance of shape analysis in visual identification?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
+    url: /learn/psychology/questions/what-is-the-significance-of-shape-analysis-in-visual-identification
 related_article4:
+    id: 164293
+    title: >-
+        What are the primary symptoms of neurodysplasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+related_article5:
     id: 164300
-    title: How does neurostimulation enhance brain activity?
+    title: >-
+        How does neurostimulation enhance brain activity?
     subject: Psychology
     url: /learn/psychology/questions/how-does-neurostimulation-enhance-brain-activity
-related_article5:
-    id: 164289
-    title: How does mental health influence task performance in psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-mental-health-influence-task-performance-in-psychology
 ---
 
 &nbsp;

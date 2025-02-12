@@ -2,8 +2,10 @@
 _schema: default
 id: 165033
 date: 2025-01-28
-title: How is data collection executed during experimentation?
-article_title: How is data collection executed during experimentation?
+title: >-
+    How is data collection executed during experimentation?
+article_title: >-
+    How is data collection executed during experimentation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-data-collection-executed-during-experimentation.md
 url: /learn/education-studies/questions/how-is-data-collection-executed-during-experimentation
 score: -1.0
 related_article1:
-    id: 165029
-    title: How is business intelligence applied in data analysis?
+    id: 165035
+    title: >-
+        What are the main elements to consider when creating a character's backstory?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-business-intelligence-applied-in-data-analysis
+    url: /learn/education-studies/questions/what-are-the-main-elements-to-consider-when-creating-a-characters-backstory
 related_article2:
-    id: 165026
-    title: What is the importance of data cleaning in the data analysis process?
+    id: 165048
+    title: >-
+        What are the key considerations for ensuring data security in data management?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-data-cleaning-in-the-data-analysis-process
+    url: /learn/education-studies/questions/what-are-the-key-considerations-for-ensuring-data-security-in-data-management
 related_article3:
+    id: 165034
+    title: >-
+        What are the key steps in result interpretation during experiment analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-result-interpretation-during-experiment-analysis
+related_article4:
+    id: 165038
+    title: >-
+        What distinguishes rational decision-making from intuitive decision-making?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-distinguishes-rational-decisionmaking-from-intuitive-decisionmaking
+related_article5:
     id: 165024
-    title: What are the key statistical methods used in data analysis?
+    title: >-
+        What are the key statistical methods used in data analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-statistical-methods-used-in-data-analysis
-related_article4:
-    id: 165044
-    title: How does Q-Learning differ from Deep Q-Networks in reinforcement learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-qlearning-differ-from-deep-qnetworks-in-reinforcement-learning
-related_article5:
-    id: 165032
-    title: What is the significance of control and variables in an experimental setup?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-control-and-variables-in-an-experimental-setup
 ---
 
 &nbsp;

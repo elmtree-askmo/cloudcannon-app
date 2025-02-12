@@ -2,8 +2,10 @@
 _schema: default
 id: 168998
 date: 2025-02-04
-title: How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
-article_title: How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
+title: >-
+    How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
+article_title: >-
+    How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-palestine-archaeological-museum-shift-its-focus-from-reli
 url: /learn/history-of-the-world/questions/how-did-the-palestine-archaeological-museum-shift-its-focus-from-religious-to-cultural-narratives
 score: 8.5
 related_article1:
-    id: 168994
-    title: How does Zionism influence archaeological practices and museum curation in Jerusalem?
+    id: 168991
+    title: >-
+        How do museums construct historical narratives through exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-zionism-influence-archaeological-practices-and-museum-curation-in-jerusalem
+    url: /learn/history-of-the-world/questions/how-do-museums-construct-historical-narratives-through-exhibitions
 related_article2:
-    id: 168997
-    title: What was the focus of Patrick Geddes' unrealized museum project?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-focus-of-patrick-geddes-unrealized-museum-project
-related_article3:
-    id: 168988
-    title: What are some ideological motives behind the destruction of cultural heritage?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-ideological-motives-behind-the-destruction-of-cultural-heritage
-related_article4:
-    id: 168993
-    title: What is the role of historical context in interpreting artifacts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-role-of-historical-context-in-interpreting-artifacts
-related_article5:
     id: 168990
-    title: What are the political implications of archaeology in the Middle East?
+    title: >-
+        What are the political implications of archaeology in the Middle East?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-political-implications-of-archaeology-in-the-middle-east
+related_article3:
+    id: 168994
+    title: >-
+        How does Zionism influence archaeological practices and museum curation in Jerusalem?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-zionism-influence-archaeological-practices-and-museum-curation-in-jerusalem
+related_article4:
+    id: 168991
+    title: >-
+        How do museums construct historical narratives through exhibitions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-museums-construct-historical-narratives-through-exhibitions
+related_article5:
+    id: 168999
+    title: >-
+        What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-narratives-are-emphasized-in-the-israel-museums-exhibitions-particularly-regarding-jewish-heritage
 ---
 
 &nbsp;

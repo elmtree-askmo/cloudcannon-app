@@ -2,8 +2,10 @@
 _schema: default
 id: 168490
 date: 2025-02-03
-title: What skills are essential for managerial roles in business administration?
-article_title: What skills are essential for managerial roles in business administration?
+title: >-
+    What skills are essential for managerial roles in business administration?
+article_title: >-
+    What skills are essential for managerial roles in business administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-skills-are-essential-for-managerial-roles-in-business-administra
 url: /learn/education-studies/questions/what-skills-are-essential-for-managerial-roles-in-business-administration
 score: -1.0
 related_article1:
-    id: 168506
-    title: What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
+    id: 168509
+    title: >-
+        What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-financial-planning-and-analysis-and-how-do-they-relate-to-job-titles-in-the-financial-sector
+    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
 related_article2:
-    id: 168502
-    title: What are the key responsibilities of administrative duties in a business setting?
+    id: 168499
+    title: >-
+        What are the main responsibilities of teaching and social service roles, and what skills are required for success in these fields?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-administrative-duties-in-a-business-setting
+    url: /learn/education-studies/questions/what-are-the-main-responsibilities-of-teaching-and-social-service-roles-and-what-skills-are-required-for-success-in-these-fields
 related_article3:
     id: 168500
-    title: What problem-solving and reasoning skills are necessary for technology-related job roles?
+    title: >-
+        What problem-solving and reasoning skills are necessary for technology-related job roles?
     subject: Education Studies
     url: /learn/education-studies/questions/what-problemsolving-and-reasoning-skills-are-necessary-for-technologyrelated-job-roles
 related_article4:
-    id: 168509
-    title: What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
+    id: 168489
+    title: >-
+        What are the routine duties and responsibilities associated with business administration roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
+    url: /learn/education-studies/questions/what-are-the-routine-duties-and-responsibilities-associated-with-business-administration-roles
 related_article5:
-    id: 168506
-    title: What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
+    id: 168494
+    title: >-
+        What are the career opportunities available in the medical field?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-financial-planning-and-analysis-and-how-do-they-relate-to-job-titles-in-the-financial-sector
+    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
 ---
 
 &nbsp;

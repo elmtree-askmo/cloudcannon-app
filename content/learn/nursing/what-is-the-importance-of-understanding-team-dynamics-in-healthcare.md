@@ -2,8 +2,10 @@
 _schema: default
 id: 169581
 date: 2025-02-05
-title: What is the importance of understanding team dynamics in healthcare?
-article_title: What is the importance of understanding team dynamics in healthcare?
+title: >-
+    What is the importance of understanding team dynamics in healthcare?
+article_title: >-
+    What is the importance of understanding team dynamics in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-understanding-team-dynamics-in-healthcare.m
 url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
 score: -1.0
 related_article1:
-    id: 169554
-    title: What tasks are suitable for delegation to student nurses?
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article2:
-    id: 169577
-    title: Why is effective communication important in healthcare?
+    id: 169574
+    title: >-
+        How does supervision aid in effective risk management?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
+    url: /learn/nursing/questions/how-does-supervision-aid-in-effective-risk-management
 related_article3:
-    id: 169576
-    title: What is the role of student nurses within the healthcare team?
+    id: 169557
+    title: >-
+        What is the duty of care, and how does it apply to various healthcare roles?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
 related_article4:
-    id: 169579
-    title: What are the primary responsibilities of student nurses in patient care?
+    id: 169561
+    title: >-
+        Why is patient safety a critical concern in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
 related_article5:
-    id: 169560
-    title: How should student nurses apply the NMC Code in their practice?
+    id: 169556
+    title: >-
+        How does supervision contribute to accountability in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 ---
 
 &nbsp;

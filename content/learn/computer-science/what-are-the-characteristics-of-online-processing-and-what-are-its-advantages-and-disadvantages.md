@@ -2,8 +2,10 @@
 _schema: default
 id: 161697
 date: 2025-01-24
-title: What are the characteristics of online processing, and what are its advantages and disadvantages?
-article_title: What are the characteristics of online processing, and what are its advantages and disadvantages?
+title: >-
+    What are the characteristics of online processing, and what are its advantages and disadvantages?
+article_title: >-
+    What are the characteristics of online processing, and what are its advantages and disadvantages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-online-processing-and-what-are-its-ad
 url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
 score: -1.0
 related_article1:
-    id: 161428
-    title: How does context contribute to transforming data into useful information?
+    id: 161427
+    title: >-
+        What is the difference between data and information, and why is raw data considered meaningless?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-context-contribute-to-transforming-data-into-useful-information
+    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
 related_article2:
-    id: 161432
-    title: Why is accuracy important in the quality of information, and what factors can affect it?
+    id: 161512
+    title: >-
+        How do transaction processing systems differ from management information systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-accuracy-important-in-the-quality-of-information-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/how-do-transaction-processing-systems-differ-from-management-information-systems
 related_article3:
-    id: 161686
-    title: What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
+    id: 161703
+    title: >-
+        What are hash totals and control totals, and how do they differ in their uses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-direct-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-are-hash-totals-and-control-totals-and-how-do-they-differ-in-their-uses
 related_article4:
-    id: 161495
-    title: Why is the age of information crucial and what factors can affect its timeliness?
+    id: 161509
+    title: >-
+        What is data logging and what are some common methods and tools used for it?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
+    url: /learn/computer-science/questions/what-is-data-logging-and-what-are-some-common-methods-and-tools-used-for-it
 related_article5:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161690
+    title: >-
+        Why is the age of information important, and what factors can affect its timeliness?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/why-is-the-age-of-information-important-and-what-factors-can-affect-its-timeliness
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166416
 date: 2025-01-30
-title: Explain the differences between directional, stabilizing, and disruptive selection.
-article_title: Explain the differences between directional, stabilizing, and disruptive selection.
+title: >-
+    Explain the differences between directional, stabilizing, and disruptive selection.
+article_title: >-
+    Explain the differences between directional, stabilizing, and disruptive selection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-differences-between-directional-stabilizing-and-disruptiv
 url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
 score: -1.0
 related_article1:
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+related_article2:
     id: 166403
-    title: Identify and explain the three types of natural selection.
+    title: >-
+        Identify and explain the three types of natural selection.
     subject: Psychology
     url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
-related_article2:
-    id: 166402
-    title: What is cultural transmission and how does it affect animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
 related_article3:
+    id: 166419
+    title: >-
+        What biological processes are involved in the mechanisms of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
+related_article4:
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article5:
     id: 166406
-    title: What are the three main approaches to studying animal behavior?
+    title: >-
+        What are the three main approaches to studying animal behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
-related_article4:
-    id: 166400
-    title: How does natural selection contribute to the foundations of animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
-related_article5:
-    id: 166411
-    title: Explain how environmental factors can influence animal behavior and interact with genetics.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
 ---
 
 &nbsp;

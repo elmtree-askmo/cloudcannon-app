@@ -2,8 +2,10 @@
 _schema: default
 id: 166957
 date: 2025-01-31
-title: Describe the structure of a polypeptide chain formed by peptide bonds.
-article_title: Describe the structure of a polypeptide chain formed by peptide bonds.
+title: >-
+    Describe the structure of a polypeptide chain formed by peptide bonds.
+article_title: >-
+    Describe the structure of a polypeptide chain formed by peptide bonds.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
 url: /learn/biotechnology/questions/describe-the-structure-of-a-polypeptide-chain-formed-by-peptide-bonds
 score: -1.0
 related_article1:
-    id: 166964
-    title: What are the causes and effects of protein denaturation?
+    id: 166963
+    title: >-
+        What environmental factors can affect protein function?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
+    url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
 related_article2:
-    id: 166965
-    title: How do molecular chaperones assist in protein folding?
+    id: 166961
+    title: >-
+        How do multiple polypeptide chains contribute to the quaternary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
 related_article3:
-    id: 166951
-    title: How do proteins contribute to enzyme catalysis?
+    id: 166956
+    title: >-
+        What is the role of dehydration synthesis in peptide bond formation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
 related_article4:
-    id: 166954
-    title: What are the characteristics of nonpolar aliphatic R-groups?
+    id: 166958
+    title: >-
+        What determines the primary structure of a protein?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
+    url: /learn/biotechnology/questions/what-determines-the-primary-structure-of-a-protein
 related_article5:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164170
 date: 2025-01-28
-title: What is the purpose of ontologies in knowledge representation?
-article_title: What is the purpose of ontologies in knowledge representation?
+title: >-
+    What is the purpose of ontologies in knowledge representation?
+article_title: >-
+    What is the purpose of ontologies in knowledge representation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-ontologies-in-knowledge-representation.md
 url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
 score: -1.0
 related_article1:
-    id: 164160
-    title: What are some common labeling techniques used in data annotation?
+    id: 164186
+    title: >-
+        What are the challenges of multilingual processing in NLP?
     subject: Others
-    url: /learn/others/questions/what-are-some-common-labeling-techniques-used-in-data-annotation
+    url: /learn/others/questions/what-are-the-challenges-of-multilingual-processing-in-nlp
 related_article2:
-    id: 164167
-    title: Explain the significance of operating systems in software systems.
+    id: 164168
+    title: >-
+        How does the Internet of Things (IoT) impact emerging technologies?
     subject: Others
-    url: /learn/others/questions/explain-the-significance-of-operating-systems-in-software-systems
+    url: /learn/others/questions/how-does-the-internet-of-things-iot-impact-emerging-technologies
 related_article3:
-    id: 164162
-    title: How does synthetic data contribute to data augmentation?
+    id: 164158
+    title: >-
+        Describe the role of data preprocessing in data training.
     subject: Others
-    url: /learn/others/questions/how-does-synthetic-data-contribute-to-data-augmentation
+    url: /learn/others/questions/describe-the-role-of-data-preprocessing-in-data-training
 related_article4:
+    id: 164180
+    title: >-
+        How do search algorithms contribute to AI algorithms?
+    subject: Others
+    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
+related_article5:
     id: 164179
-    title: What is the role of Markov Decision Processes in reinforcement learning?
+    title: >-
+        What is the role of Markov Decision Processes in reinforcement learning?
     subject: Others
     url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
-related_article5:
-    id: 164172
-    title: What are the main challenges associated with knowledge transfer?
-    subject: Others
-    url: /learn/others/questions/what-are-the-main-challenges-associated-with-knowledge-transfer
 ---
 
 &nbsp;

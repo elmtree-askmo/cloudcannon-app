@@ -2,8 +2,10 @@
 _schema: default
 id: 168263
 date: 2025-02-03
-title: How does language shape perception and reality in society?
-article_title: How does language shape perception and reality in society?
+title: >-
+    How does language shape perception and reality in society?
+article_title: >-
+    How does language shape perception and reality in society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-language-shape-perception-and-reality-in-society.md
 url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
 score: 8.5
 related_article1:
-    id: 168261
-    title: What are the key elements that differentiate Shakespearean comedy from tragedy?
+    id: 168264
+    title: >-
+        What are the consequences of miscommunication in relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-that-differentiate-shakespearean-comedy-from-tragedy
+    url: /learn/art-history-and-literature/questions/what-are-the-consequences-of-miscommunication-in-relationships
 related_article2:
-    id: 168254
-    title: What role does Don John's deception play in creating conflict?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-don-johns-deception-play-in-creating-conflict
-related_article3:
-    id: 168261
-    title: What are the key elements that differentiate Shakespearean comedy from tragedy?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-that-differentiate-shakespearean-comedy-from-tragedy
-related_article4:
     id: 168258
-    title: How does Claudio's naivety affect his relationships and character growth?
+    title: >-
+        How does Claudio's naivety affect his relationships and character growth?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-claudios-naivety-affect-his-relationships-and-character-growth
-related_article5:
-    id: 168261
-    title: What are the key elements that differentiate Shakespearean comedy from tragedy?
+related_article3:
+    id: 168267
+    title: >-
+        How do jealousy and envy motivate characters to deceive others?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-that-differentiate-shakespearean-comedy-from-tragedy
+    url: /learn/art-history-and-literature/questions/how-do-jealousy-and-envy-motivate-characters-to-deceive-others
+related_article4:
+    id: 168252
+    title: >-
+        In what ways can language manipulation lead to misperception in relationships?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
+related_article5:
+    id: 168257
+    title: >-
+        What are Don John's motivations and how do they impact other characters?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-don-johns-motivations-and-how-do-they-impact-other-characters
 ---
 
 &nbsp;

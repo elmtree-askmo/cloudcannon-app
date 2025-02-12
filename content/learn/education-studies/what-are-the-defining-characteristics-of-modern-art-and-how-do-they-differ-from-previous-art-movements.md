@@ -2,8 +2,10 @@
 _schema: default
 id: 166514
 date: 2025-01-30
-title: What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
-article_title: What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
+title: >-
+    What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
+article_title: >-
+    What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-characteristics-of-modern-art-and-how-do-they-d
 url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-modern-art-and-how-do-they-differ-from-previous-art-movements
 score: -1.0
 related_article1:
-    id: 166529
-    title: How does art function as a commentary on society and culture?
+    id: 166517
+    title: >-
+        How do lighting and composition play a role in Baroque Art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-art-function-as-a-commentary-on-society-and-culture
+    url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
 related_article2:
     id: 166528
-    title: What is the role of the artist in expressing artistic intention and subject matter?
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 related_article3:
-    id: 166526
-    title: How did historical context shape the development of Modern Art and Baroque Art?
+    id: 166515
+    title: >-
+        How did historical context influence the development of Modern Art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-historical-context-shape-the-development-of-modern-art-and-baroque-art
+    url: /learn/education-studies/questions/how-did-historical-context-influence-the-development-of-modern-art
 related_article4:
-    id: 166533
-    title: In what ways does art serve as a form of social and political commentary?
+    id: 166532
+    title: >-
+        How have key art movements evolved over time, and what influences have shaped them?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-does-art-serve-as-a-form-of-social-and-political-commentary
+    url: /learn/education-studies/questions/how-have-key-art-movements-evolved-over-time-and-what-influences-have-shaped-them
 related_article5:
-    id: 166528
-    title: What is the role of the artist in expressing artistic intention and subject matter?
+    id: 166531
+    title: >-
+        How does art influence society and provide cultural commentary?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
+    url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
 ---
 
 &nbsp;

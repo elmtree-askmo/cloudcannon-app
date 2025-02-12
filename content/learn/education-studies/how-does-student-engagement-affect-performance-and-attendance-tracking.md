@@ -2,8 +2,10 @@
 _schema: default
 id: 167397
 date: 2025-01-31
-title: How does student engagement affect performance and attendance tracking?
-article_title: How does student engagement affect performance and attendance tracking?
+title: >-
+    How does student engagement affect performance and attendance tracking?
+article_title: >-
+    How does student engagement affect performance and attendance tracking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-student-engagement-affect-performance-and-attendance-trackin
 url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
 score: -1.0
 related_article1:
-    id: 167390
-    title: How do concept maps enhance retention of information?
+    id: 167392
+    title: >-
+        How can keyed learning objectives guide study focus and assessment alignment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-concept-maps-enhance-retention-of-information
+    url: /learn/education-studies/questions/how-can-keyed-learning-objectives-guide-study-focus-and-assessment-alignment
 related_article2:
-    id: 167391
-    title: What is Bloom's Taxonomy and how does it relate to learning objectives?
+    id: 167386
+    title: >-
+        What are the benefits of using problem-solving exercises as a form of active learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-blooms-taxonomy-and-how-does-it-relate-to-learning-objectives
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-problemsolving-exercises-as-a-form-of-active-learning
 related_article3:
-    id: 167388
-    title: What is the purpose of formative assessments in the learning process?
+    id: 167386
+    title: >-
+        What are the benefits of using problem-solving exercises as a form of active learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-formative-assessments-in-the-learning-process
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-problemsolving-exercises-as-a-form-of-active-learning
 related_article4:
     id: 167385
-    title: Define active learning and explain its importance in student engagement.
+    title: >-
+        Define active learning and explain its importance in student engagement.
     subject: Education Studies
     url: /learn/education-studies/questions/define-active-learning-and-explain-its-importance-in-student-engagement
 related_article5:
-    id: 167394
-    title: How can trends and patterns be identified in data interpretation?
+    id: 167393
+    title: >-
+        What are the differences between line graphs and bar graphs in terms of graph reading principles?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-trends-and-patterns-be-identified-in-data-interpretation
+    url: /learn/education-studies/questions/what-are-the-differences-between-line-graphs-and-bar-graphs-in-terms-of-graph-reading-principles
 ---
 
 &nbsp;

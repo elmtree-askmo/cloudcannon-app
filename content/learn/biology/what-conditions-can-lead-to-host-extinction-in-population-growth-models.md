@@ -2,8 +2,10 @@
 _schema: default
 id: 166124
 date: 2025-01-29
-title: What conditions can lead to host extinction in population growth models?
-article_title: What conditions can lead to host extinction in population growth models?
+title: >-
+    What conditions can lead to host extinction in population growth models?
+article_title: >-
+    What conditions can lead to host extinction in population growth models?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-conditions-can-lead-to-host-extinction-in-population-growth-mode
 url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
 score: -1.0
 related_article1:
-    id: 166128
-    title: Why are mathematical models important in understanding ecological interactions?
+    id: 166126
+    title: >-
+        What are some evolutionary adaptations hosts develop in response to parasitism?
     subject: Biology
-    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
 related_article2:
-    id: 166127
-    title: How do parasites adapt to host defenses in coevolutionary dynamics?
+    id: 166133
+    title: >-
+        What is the role of habitat complexity in influencing host-parasite dynamics?
     subject: Biology
-    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 related_article3:
-    id: 166131
-    title: What factors affect transmission rates in host-parasite relationships?
+    id: 166130
+    title: >-
+        How does carrying capacity influence host and parasite populations in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
 related_article4:
     id: 166128
-    title: Why are mathematical models important in understanding ecological interactions?
+    title: >-
+        Why are mathematical models important in understanding ecological interactions?
     subject: Biology
     url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
 related_article5:
-    id: 166121
-    title: How does parasitism influence parasite population density and potentially lead to population crashes?
+    id: 166133
+    title: >-
+        What is the role of habitat complexity in influencing host-parasite dynamics?
     subject: Biology
-    url: /learn/biology/questions/how-does-parasitism-influence-parasite-population-density-and-potentially-lead-to-population-crashes
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 ---
 
 &nbsp;

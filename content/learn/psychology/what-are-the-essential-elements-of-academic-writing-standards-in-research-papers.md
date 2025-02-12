@@ -2,8 +2,10 @@
 _schema: default
 id: 165091
 date: 2025-01-28
-title: What are the essential elements of academic writing standards in research papers?
-article_title: What are the essential elements of academic writing standards in research papers?
+title: >-
+    What are the essential elements of academic writing standards in research papers?
+article_title: >-
+    What are the essential elements of academic writing standards in research papers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-essential-elements-of-academic-writing-standards-in-rese
 url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
 score: -1.0
 related_article1:
-    id: 165094
-    title: How can researchers effectively communicate the limitations of their study?
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
 related_article2:
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
+related_article3:
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
+related_article4:
     id: 165067
-    title: How does data cleaning contribute to data quality in statistical analysis?
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
     subject: Psychology
     url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
-related_article3:
-    id: 165070
-    title: What are the different measurement scales used for variables, and why is reliability and validity important?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
-related_article4:
-    id: 165075
-    title: How is a p-value calculated, and why is it important in hypothesis testing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
 related_article5:
-    id: 165079
-    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
 ---
 
 &nbsp;

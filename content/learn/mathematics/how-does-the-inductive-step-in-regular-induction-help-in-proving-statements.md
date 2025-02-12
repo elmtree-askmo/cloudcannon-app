@@ -2,8 +2,10 @@
 _schema: default
 id: 170708
 date: 2025-02-06
-title: How does the inductive step in regular induction help in proving statements?
-article_title: How does the inductive step in regular induction help in proving statements?
+title: >-
+    How does the inductive step in regular induction help in proving statements?
+article_title: >-
+    How does the inductive step in regular induction help in proving statements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-inductive-step-in-regular-induction-help-in-proving-stat
 url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
 score: -1.0
 related_article1:
-    id: 170720
-    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    id: 170712
+    title: >-
+        How can recursive thinking be applied to algorithm design?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+    url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
 related_article2:
     id: 170710
-    title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
+    title: >-
+        How is the inductive hypothesis used differently in strong induction compared to regular induction?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
 related_article3:
-    id: 170716
-    title: What criteria should be considered when comparing the performance of two algorithms?
+    id: 170709
+    title: >-
+        What distinguishes strong induction from regular induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
 related_article4:
-    id: 170720
-    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    id: 170721
+    title: >-
+        What are the advantages and disadvantages of using recursive solutions over iterative ones?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
 related_article5:
-    id: 170715
-    title: What are the key techniques for measuring the performance of an algorithm?
+    id: 170710
+    title: >-
+        How is the inductive hypothesis used differently in strong induction compared to regular induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
+    url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
 ---
 
 &nbsp;

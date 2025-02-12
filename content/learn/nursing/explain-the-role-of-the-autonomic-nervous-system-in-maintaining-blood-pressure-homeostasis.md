@@ -2,8 +2,10 @@
 _schema: default
 id: 170518
 date: 2025-02-06
-title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
-article_title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+title: >-
+    Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+article_title: >-
+    Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood
 url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
 score: -1.0
 related_article1:
-    id: 170506
-    title: Where are nicotinic receptors located, and what is their function in the nervous system?
+    id: 170515
+    title: >-
+        What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
     subject: Nursing
-    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
 related_article2:
-    id: 170516
-    title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    id: 170511
+    title: >-
+        How is voluntary control of skeletal muscle achieved, and what is its role in movement?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
 related_article3:
-    id: 170501
-    title: What are the main components of the central nervous system and their primary functions?
+    id: 170504
+    title: >-
+        What role does acetylcholine play in muscle contraction?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
+    url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
 related_article4:
     id: 170514
-    title: How does the baroreceptor reflex contribute to blood pressure regulation?
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
 related_article5:
-    id: 170517
-    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
     subject: Nursing
-    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 ---
 
 &nbsp;

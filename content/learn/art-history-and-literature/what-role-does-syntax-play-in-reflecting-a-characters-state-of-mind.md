@@ -2,8 +2,10 @@
 _schema: default
 id: 161896
 date: 2025-01-24
-title: What role does syntax play in reflecting a character's state of mind?
-article_title: What role does syntax play in reflecting a character's state of mind?
+title: >-
+    What role does syntax play in reflecting a character's state of mind?
+article_title: >-
+    What role does syntax play in reflecting a character's state of mind?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-syntax-play-in-reflecting-a-characters-state-of-mind.m
 url: /learn/art-history-and-literature/questions/what-role-does-syntax-play-in-reflecting-a-characters-state-of-mind
 score: 9.0
 related_article1:
-    id: 161902
-    title: What strategies can be employed to structure a logical argument in literary analysis?
+    id: 161898
+    title: >-
+        What rhetorical techniques does Shakespeare use to critique social norms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-structure-a-logical-argument-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
 related_article2:
-    id: 161900
-    title: What methods can be used to understand a character's motivations in a text?
+    id: 161897
+    title: >-
+        How do societal expectations influence women's roles in Shakespeare's romantic relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
+    url: /learn/art-history-and-literature/questions/how-do-societal-expectations-influence-womens-roles-in-shakespeares-romantic-relationships
 related_article3:
     id: 161897
-    title: How do societal expectations influence women's roles in Shakespeare's romantic relationships?
+    title: >-
+        How do societal expectations influence women's roles in Shakespeare's romantic relationships?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-societal-expectations-influence-womens-roles-in-shakespeares-romantic-relationships
 related_article4:
-    id: 161891
-    title: What is the primary purpose of literary analysis?
+    id: 161898
+    title: >-
+        What rhetorical techniques does Shakespeare use to critique social norms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
 related_article5:
-    id: 161893
-    title: What are the key components of constructing a strong thesis statement in literary analysis?
+    id: 161899
+    title: >-
+        How can logical reasoning be used to identify cause and effect relationships in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/how-can-logical-reasoning-be-used-to-identify-cause-and-effect-relationships-in-literary-analysis
 ---
 
 &nbsp;

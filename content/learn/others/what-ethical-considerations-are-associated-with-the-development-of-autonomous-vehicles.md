@@ -2,8 +2,10 @@
 _schema: default
 id: 162773
 date: 2025-01-25
-title: What ethical considerations are associated with the development of autonomous vehicles?
-article_title: What ethical considerations are associated with the development of autonomous vehicles?
+title: >-
+    What ethical considerations are associated with the development of autonomous vehicles?
+article_title: >-
+    What ethical considerations are associated with the development of autonomous vehicles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-ethical-considerations-are-associated-with-the-development-of-au
 url: /learn/others/questions/what-ethical-considerations-are-associated-with-the-development-of-autonomous-vehicles
 score: -1.0
 related_article1:
-    id: 162442
-    title: How do Tableau, Power BI, and D3.js differ in their approach to data visualization?
+    id: 162674
+    title: >-
+        What are the main components of the Internet of Things (IoT), and what challenges do they face?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-approach-to-data-visualization
+    url: /learn/others/questions/what-are-the-main-components-of-the-internet-of-things-iot-and-what-challenges-do-they-face
 related_article2:
-    id: 162734
-    title: How do distributed ledgers and smart contracts function in blockchain technology?
+    id: 162425
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis techniques?
     subject: Others
-    url: /learn/others/questions/how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain-technology
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis-techniques
 related_article3:
-    id: 162721
-    title: How do Hadoop and Spark differ in their approach to big data processing?
+    id: 162723
+    title: >-
+        How do relational databases differ from NoSQL databases in terms of structure and use cases?
     subject: Others
-    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
+    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-in-terms-of-structure-and-use-cases
 related_article4:
-    id: 162734
-    title: How do distributed ledgers and smart contracts function in blockchain technology?
+    id: 162729
+    title: >-
+        What are the best practices for ensuring responsive design in web development?
     subject: Others
-    url: /learn/others/questions/how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain-technology
+    url: /learn/others/questions/what-are-the-best-practices-for-ensuring-responsive-design-in-web-development
 related_article5:
-    id: 162675
-    title: How do distributed ledgers and smart contracts function in blockchain technology?
+    id: 162772
+    title: >-
+        What are the primary components of neural networks in artificial intelligence?
     subject: Others
-    url: /learn/others/questions/how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain-technology
+    url: /learn/others/questions/what-are-the-primary-components-of-neural-networks-in-artificial-intelligence
 ---
 
 &nbsp;

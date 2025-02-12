@@ -2,8 +2,10 @@
 _schema: default
 id: 168685
 date: 2025-02-04
-title: How do heterotrophic bacteria obtain their nutrients?
-article_title: How do heterotrophic bacteria obtain their nutrients?
+title: >-
+    How do heterotrophic bacteria obtain their nutrients?
+article_title: >-
+    How do heterotrophic bacteria obtain their nutrients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-heterotrophic-bacteria-obtain-their-nutrients.md
 url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
 score: -1.0
 related_article1:
-    id: 168696
-    title: What are the reproductive structures found in Phylum Basidiomycota?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-reproductive-structures-found-in-phylum-basidiomycota
-related_article2:
-    id: 168689
-    title: How do dinoflagellates contribute to marine ecosystems?
-    subject: Biology
-    url: /learn/biology/questions/how-do-dinoflagellates-contribute-to-marine-ecosystems
-related_article3:
-    id: 168690
-    title: What is the function of pseudopodia in protozoans?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
-related_article4:
     id: 168687
-    title: What role do cyanobacteria play in nitrogen fixation?
+    title: >-
+        What role do cyanobacteria play in nitrogen fixation?
     subject: Biology
     url: /learn/biology/questions/what-role-do-cyanobacteria-play-in-nitrogen-fixation
-related_article5:
-    id: 168689
-    title: How do dinoflagellates contribute to marine ecosystems?
+related_article2:
+    id: 168693
+    title: >-
+        Explain the difference between asexual and sexual reproduction in fungi.
     subject: Biology
-    url: /learn/biology/questions/how-do-dinoflagellates-contribute-to-marine-ecosystems
+    url: /learn/biology/questions/explain-the-difference-between-asexual-and-sexual-reproduction-in-fungi
+related_article3:
+    id: 168696
+    title: >-
+        What are the reproductive structures found in Phylum Basidiomycota?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-reproductive-structures-found-in-phylum-basidiomycota
+related_article4:
+    id: 168684
+    title: >-
+        Describe the process of binary fission in bacterial reproduction.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-process-of-binary-fission-in-bacterial-reproduction
+related_article5:
+    id: 168682
+    title: >-
+        In what types of environments are Archaea typically found?
+    subject: Biology
+    url: /learn/biology/questions/in-what-types-of-environments-are-archaea-typically-found
 ---
 
 &nbsp;

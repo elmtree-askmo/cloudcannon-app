@@ -2,8 +2,10 @@
 _schema: default
 id: 161354
 date: 2025-01-24
-title: Explain the components and process involved in car park barrier systems.
-article_title: Explain the components and process involved in car park barrier systems.
+title: >-
+    Explain the components and process involved in car park barrier systems.
+article_title: >-
+    Explain the components and process involved in car park barrier systems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-components-and-process-involved-in-car-park-barrier-syste
 url: /learn/computer-science/questions/explain-the-components-and-process-involved-in-car-park-barrier-systems
 score: -1.0
 related_article1:
-    id: 161515
-    title: Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
+    id: 161529
+    title: >-
+        Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-role-of-a-digital-to-analogue-converter-dac-in-control-systems-and-its-importance
+    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
 related_article2:
-    id: 161522
-    title: Discuss the methods and sensors used in water pollution monitoring.
+    id: 161334
+    title: >-
+        What are the different types of actuators, and how are they applied in control technologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/discuss-the-methods-and-sensors-used-in-water-pollution-monitoring
+    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
 related_article3:
-    id: 161608
-    title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+    id: 161530
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 related_article4:
-    id: 161528
-    title: Explain the components and process of car park barrier systems, including the feedback mechanism.
+    id: 161513
+    title: >-
+        What are the main types of sensors used in monitoring technologies, and what are their primary functions?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-process-of-car-park-barrier-systems-including-the-feedback-mechanism
+    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-what-are-their-primary-functions
 related_article5:
-    id: 161348
-    title: Describe the methods and sensors used in water pollution monitoring.
+    id: 161522
+    title: >-
+        Discuss the methods and sensors used in water pollution monitoring.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-methods-and-sensors-used-in-water-pollution-monitoring
+    url: /learn/computer-science/questions/discuss-the-methods-and-sensors-used-in-water-pollution-monitoring
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170951
 date: 2025-02-07
-title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
-article_title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+title: >-
+    What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+article_title: >-
+    What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what
 url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
 score: -1.0
 related_article1:
-    id: 170950
-    title: How did the cell theory postulates contribute to advances in microscopy during the 19th century?
+    id: 170943
+    title: >-
+        How does light microscopy differ from electron microscopy in terms of resolution limits?
     subject: Biology
-    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
+    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
 related_article2:
-    id: 170949
-    title: What were some key contributions of early scientists to the development of microscopy?
+    id: 170948
+    title: >-
+        How does confocal microscopy achieve optical sectioning?
     subject: Biology
-    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
+    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
 related_article3:
-    id: 170952
-    title: How is GFP used to study protein localization in cells?
+    id: 170947
+    title: >-
+        What are the advantages of superresolution microscopy over conventional microscopy techniques?
     subject: Biology
-    url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
+    url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
 related_article4:
-    id: 170949
-    title: What were some key contributions of early scientists to the development of microscopy?
-    subject: Biology
-    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
-related_article5:
     id: 170946
-    title: How do fluorescent molecules function in fluorescence microscopy?
+    title: >-
+        How do fluorescent molecules function in fluorescence microscopy?
     subject: Biology
     url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+related_article5:
+    id: 170955
+    title: >-
+        How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
+    subject: Biology
+    url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
 ---
 
 &nbsp;

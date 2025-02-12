@@ -2,8 +2,10 @@
 _schema: default
 id: 163702
 date: 2025-01-27
-title: How can exponential functions be used in real-world modeling?
-article_title: How can exponential functions be used in real-world modeling?
+title: >-
+    How can exponential functions be used in real-world modeling?
+article_title: >-
+    How can exponential functions be used in real-world modeling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-can-exponential-functions-be-used-in-realworld-modeling.md
 url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
 score: -1.0
 related_article1:
-    id: 163710
-    title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
+    id: 163705
+    title: >-
+        How do you choose points on a graph for accurate estimation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
 related_article2:
-    id: 163699
-    title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+    id: 163705
+    title: >-
+        How do you choose points on a graph for accurate estimation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
+    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
 related_article3:
-    id: 163710
-    title: What is the impact of increasing and decreasing intervals on the consistency of a function's behavior?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-increasing-and-decreasing-intervals-on-the-consistency-of-a-functions-behavior
-related_article4:
     id: 163708
-    title: What is the significance of defining intervals when analyzing functions?
+    title: >-
+        What is the significance of defining intervals when analyzing functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
-related_article5:
-    id: 163699
-    title: What are the key differences in the average rate of change between quadratic and exponential functions over the same interval?
+related_article4:
+    id: 163707
+    title: >-
+        How do square root and cube root functions compare in terms of rate of change over different intervals?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-average-rate-of-change-between-quadratic-and-exponential-functions-over-the-same-interval
+    url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165172
 date: 2025-01-28
-title: How do true experiments differ from quasi-experiments in terms of design and control?
-article_title: How do true experiments differ from quasi-experiments in terms of design and control?
+title: >-
+    How do true experiments differ from quasi-experiments in terms of design and control?
+article_title: >-
+    How do true experiments differ from quasi-experiments in terms of design and control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-desi
 url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
 score: -1.0
 related_article1:
+    id: 165178
+    title: >-
+        How does natural selection contribute to the concept of 'survival of the fittest'?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-natural-selection-contribute-to-the-concept-of-survival-of-the-fittest
+related_article2:
+    id: 165183
+    title: >-
+        How is statistical significance determined, and why is it important for research conclusions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-statistical-significance-determined-and-why-is-it-important-for-research-conclusions
+related_article3:
     id: 165186
-    title: How can the study of animal behavior provide insights into evolutionary processes?
+    title: >-
+        How can the study of animal behavior provide insights into evolutionary processes?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-the-study-of-animal-behavior-provide-insights-into-evolutionary-processes
-related_article2:
-    id: 165182
-    title: Why is data visualization important in research, and what are some effective types of figures used to communicate data?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-research-and-what-are-some-effective-types-of-figures-used-to-communicate-data
-related_article3:
-    id: 165179
-    title: What is the difference between reliability and validity in research, and why are they important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-reliability-and-validity-in-research-and-why-are-they-important
 related_article4:
-    id: 165176
-    title: What criteria must be met to establish causation in research, and how can alternative explanations be ruled out?
+    id: 165186
+    title: >-
+        How can the study of animal behavior provide insights into evolutionary processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-must-be-met-to-establish-causation-in-research-and-how-can-alternative-explanations-be-ruled-out
+    url: /learn/education-studies/questions/how-can-the-study-of-animal-behavior-provide-insights-into-evolutionary-processes
 related_article5:
-    id: 165185
-    title: What is behavioral ecology, and what are some key concepts and theories within this field?
+    id: 165175
+    title: >-
+        What is the role of measurement scales in research, and how do nominal and ordinal scales differ from interval and ratio scales?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-behavioral-ecology-and-what-are-some-key-concepts-and-theories-within-this-field
+    url: /learn/education-studies/questions/what-is-the-role-of-measurement-scales-in-research-and-how-do-nominal-and-ordinal-scales-differ-from-interval-and-ratio-scales
 ---
 
 &nbsp;

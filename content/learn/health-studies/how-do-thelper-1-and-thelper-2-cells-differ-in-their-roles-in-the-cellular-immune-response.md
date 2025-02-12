@@ -2,8 +2,10 @@
 _schema: default
 id: 165872
 date: 2025-01-29
-title: How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
-article_title: How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
+title: >-
+    How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
+article_title: >-
+    How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cel
 url: /learn/health-studies/questions/how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cellular-immune-response
 score: -1.0
 related_article1:
-    id: 165874
-    title: How does concomitant immunity provide protection against re-infection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
-related_article2:
-    id: 165864
-    title: How does the NF Kappa B pathway contribute to immune cell activation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
-related_article3:
     id: 165861
-    title: What roles do skin and mucous membranes play as physical barriers in the immune system?
+    title: >-
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
+related_article2:
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
+related_article3:
+    id: 165865
+    title: >-
+        What is the role of Toll-Like Receptors in the activation of innate immunity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
 related_article4:
+    id: 165876
+    title: >-
+        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
+related_article5:
     id: 165880
-    title: How is the initial immune response triggered by pathogen recognition and signal transduction?
+    title: >-
+        How is the initial immune response triggered by pathogen recognition and signal transduction?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-the-initial-immune-response-triggered-by-pathogen-recognition-and-signal-transduction
-related_article5:
-    id: 165860
-    title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
 ---
 
 &nbsp;

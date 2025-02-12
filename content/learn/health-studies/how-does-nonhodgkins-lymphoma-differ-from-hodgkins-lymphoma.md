@@ -2,8 +2,10 @@
 _schema: default
 id: 166305
 date: 2025-01-30
-title: How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
-article_title: How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+title: >-
+    How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+article_title: >-
+    How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-h
 score: -1.0
 related_article1:
     id: 166309
-    title: What constitutional symptoms are associated with lymphoma?
+    title: >-
+        What constitutional symptoms are associated with lymphoma?
     subject: Health Studies
     url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 related_article2:
-    id: 166300
-    title: How does organ infiltration present in leukemia?
+    id: 166306
+    title: >-
+        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
+    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
 related_article3:
     id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    title: >-
+        What are the symptoms of bone marrow overcrowding in leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 related_article4:
     id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
+    title: >-
+        What is the significance of the Philadelphia chromosome in leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
 related_article5:
-    id: 166300
-    title: How does organ infiltration present in leukemia?
+    id: 166313
+    title: >-
+        What are the common causes and symptoms of anemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
 ---
 
 &nbsp;

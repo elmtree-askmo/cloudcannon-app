@@ -2,8 +2,10 @@
 _schema: default
 id: 170778
 date: 2025-02-06
-title: Define the P vs NP problem and explain its importance in computational theory.
-article_title: Define the P vs NP problem and explain its importance in computational theory.
+title: >-
+    Define the P vs NP problem and explain its importance in computational theory.
+article_title: >-
+    Define the P vs NP problem and explain its importance in computational theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-the-p-vs-np-problem-and-explain-its-importance-in-computationa
 url: /learn/computer-science/questions/define-the-p-vs-np-problem-and-explain-its-importance-in-computational-theory
 score: -1.0
 related_article1:
-    id: 170784
-    title: What factors contribute to the efficiency of an algorithm?
+    id: 170789
+    title: >-
+        How does data representation impact algorithm development and testing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-contribute-to-the-efficiency-of-an-algorithm
+    url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
 related_article2:
-    id: 170787
-    title: Explain the Euclidean algorithm for finding the greatest common divisor.
+    id: 170785
+    title: >-
+        What are heuristic algorithms and how are they applied in real-world scenarios?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
+    url: /learn/computer-science/questions/what-are-heuristic-algorithms-and-how-are-they-applied-in-realworld-scenarios
 related_article3:
-    id: 170782
-    title: What are the characteristics of non-deterministic polynomial time?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
-related_article4:
     id: 170787
-    title: Explain the Euclidean algorithm for finding the greatest common divisor.
+    title: >-
+        Explain the Euclidean algorithm for finding the greatest common divisor.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
-related_article5:
+related_article4:
     id: 170784
-    title: What factors contribute to the efficiency of an algorithm?
+    title: >-
+        What factors contribute to the efficiency of an algorithm?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-contribute-to-the-efficiency-of-an-algorithm
+related_article5:
+    id: 170780
+    title: >-
+        How does the concept of reducibility relate to NP-hard problems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-concept-of-reducibility-relate-to-nphard-problems
 ---
 
 &nbsp;

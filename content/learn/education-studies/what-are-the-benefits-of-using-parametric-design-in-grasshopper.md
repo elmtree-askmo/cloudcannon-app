@@ -2,8 +2,10 @@
 _schema: default
 id: 169192
 date: 2025-02-04
-title: What are the benefits of using parametric design in Grasshopper?
-article_title: What are the benefits of using parametric design in Grasshopper?
+title: >-
+    What are the benefits of using parametric design in Grasshopper?
+article_title: >-
+    What are the benefits of using parametric design in Grasshopper?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-using-parametric-design-in-grasshopper.md
 url: /learn/education-studies/questions/what-are-the-benefits-of-using-parametric-design-in-grasshopper
 score: -1.0
 related_article1:
-    id: 169188
-    title: List three common file formats used in GIS for data layers.
+    id: 169187
+    title: >-
+        What is the primary purpose of Geographic Information Systems (GIS)?
     subject: Education Studies
-    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-geographic-information-systems-gis
 related_article2:
-    id: 169189
-    title: Why are projection systems important in GIS, and what is a common issue associated with them?
+    id: 169194
+    title: >-
+        How can you manage visual output in Grasshopper when working with 3D models?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
+    url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
 related_article3:
     id: 169194
-    title: How can you manage visual output in Grasshopper when working with 3D models?
+    title: >-
+        How can you manage visual output in Grasshopper when working with 3D models?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
 related_article4:
-    id: 169194
-    title: How can you manage visual output in Grasshopper when working with 3D models?
+    id: 169195
+    title: >-
+        Why is data visualization important in GIS, and what are two common methods used?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
+    url: /learn/education-studies/questions/why-is-data-visualization-important-in-gis-and-what-are-two-common-methods-used
 related_article5:
-    id: 169197
-    title: What are some applications of GIS in urban design and landscape architecture?
+    id: 169189
+    title: >-
+        Why are projection systems important in GIS, and what is a common issue associated with them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
+    url: /learn/education-studies/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
 ---
 
 &nbsp;

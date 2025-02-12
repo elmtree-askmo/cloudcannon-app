@@ -2,8 +2,10 @@
 _schema: default
 id: 161040
 date: 2025-01-24
-title: What are the essential elements of network architecture?
-article_title: What are the essential elements of network architecture?
+title: >-
+    What are the essential elements of network architecture?
+article_title: >-
+    What are the essential elements of network architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-essential-elements-of-network-architecture.md
 url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
 score: -1.0
 related_article1:
-    id: 160712
-    title: How is pattern recognition used in data mining?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
-related_article2:
-    id: 160905
-    title: What are the key differences between procedural and object-oriented programming paradigms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
-related_article3:
-    id: 160730
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    id: 160911
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+related_article2:
+    id: 160711
+    title: >-
+        What are the primary functions of database management systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
+related_article3:
+    id: 160719
+    title: >-
+        How is image processing utilized in computer graphics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
 related_article4:
-    id: 160707
-    title: How does problem analysis contribute to computational problem solving?
+    id: 161041
+    title: >-
+        What measures can be taken to enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
+    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
 related_article5:
-    id: 161035
-    title: Why is algorithm efficiency important in computational problem solving?
+    id: 160712
+    title: >-
+        How is pattern recognition used in data mining?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
+    url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
 ---
 
 &nbsp;

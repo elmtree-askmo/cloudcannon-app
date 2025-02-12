@@ -2,8 +2,10 @@
 _schema: default
 id: 168934
 date: 2025-02-04
-title: Explain the process of diffusion and provide examples of substances that move by this method.
-article_title: Explain the process of diffusion and provide examples of substances that move by this method.
+title: >-
+    Explain the process of diffusion and provide examples of substances that move by this method.
+article_title: >-
+    Explain the process of diffusion and provide examples of substances that move by this method.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: explain-the-process-of-diffusion-and-provide-examples-of-substances-t
 url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
 score: -1.0
 related_article1:
-    id: 168939
-    title: What are the different types of endocytosis, and how do they function in cellular processes?
+    id: 168935
+    title: >-
+        Describe osmosis and differentiate between isotonic, hypertonic, and hypotonic solutions.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+    url: /learn/biology/questions/describe-osmosis-and-differentiate-between-isotonic-hypertonic-and-hypotonic-solutions
 related_article2:
-    id: 168933
-    title: What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+    id: 168930
+    title: >-
+        What are the hydrophilic and hydrophobic properties of the phospholipid bilayer, and how do they contribute to membrane permeability?
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
+    url: /learn/biology/questions/what-are-the-hydrophilic-and-hydrophobic-properties-of-the-phospholipid-bilayer-and-how-do-they-contribute-to-membrane-permeability
 related_article3:
-    id: 168938
-    title: Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
+    id: 168941
+    title: >-
+        How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
 related_article4:
-    id: 168943
-    title: Explain the mechanism of ATP hydrolysis and its interaction with transport proteins.
+    id: 168932
+    title: >-
+        Why is selective permeability crucial for cellular function, and how does it regulate substance entry and exit?
     subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-atp-hydrolysis-and-its-interaction-with-transport-proteins
-related_article5:
-    id: 168939
-    title: What are the different types of endocytosis, and how do they function in cellular processes?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+    url: /learn/biology/questions/why-is-selective-permeability-crucial-for-cellular-function-and-how-does-it-regulate-substance-entry-and-exit
 ---
 
 &nbsp;

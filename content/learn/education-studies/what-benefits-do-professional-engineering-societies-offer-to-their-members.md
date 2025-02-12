@@ -2,8 +2,10 @@
 _schema: default
 id: 166718
 date: 2025-01-31
-title: What benefits do professional engineering societies offer to their members?
-article_title: What benefits do professional engineering societies offer to their members?
+title: >-
+    What benefits do professional engineering societies offer to their members?
+article_title: >-
+    What benefits do professional engineering societies offer to their members?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-benefits-do-professional-engineering-societies-offer-to-their-me
 url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
 score: -1.0
 related_article1:
+    id: 166711
+    title: >-
+        How do engineering scholarships provide financial support to students?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-engineering-scholarships-provide-financial-support-to-students
+related_article2:
+    id: 166703
+    title: >-
+        What are some engineering applications of torque?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+related_article3:
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
+related_article4:
     id: 166702
-    title: How does torque relate to the moment of force?
+    title: >-
+        How does torque relate to the moment of force?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
-related_article2:
-    id: 166700
-    title: What is the relationship between force and distance in the context of moment of force?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
-related_article3:
+related_article5:
     id: 166715
-    title: What skills and qualifications are typically required for consulting roles in engineering?
+    title: >-
+        What skills and qualifications are typically required for consulting roles in engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
-related_article4:
-    id: 166720
-    title: What types of events do engineering organizations typically host?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
-related_article5:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
 ---
 
 &nbsp;

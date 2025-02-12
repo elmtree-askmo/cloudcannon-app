@@ -2,8 +2,10 @@
 _schema: default
 id: 165114
 date: 2025-01-28
-title: Why is reliability important in research and what are the types of reliability?
-article_title: Why is reliability important in research and what are the types of reliability?
+title: >-
+    Why is reliability important in research and what are the types of reliability?
+article_title: >-
+    Why is reliability important in research and what are the types of reliability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-reliability-important-in-research-and-what-are-the-types-of-re
 url: /learn/education-studies/questions/why-is-reliability-important-in-research-and-what-are-the-types-of-reliability
 score: -1.0
 related_article1:
+    id: 165109
+    title: >-
+        What are measures of central tendency and variability in descriptive statistics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-measures-of-central-tendency-and-variability-in-descriptive-statistics
+related_article2:
+    id: 165098
+    title: >-
+        How can independent variables be manipulated to impact experimental outcomes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
+related_article3:
+    id: 165121
+    title: >-
+        What are the key steps in the scientific methodology and why are they important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
+related_article4:
     id: 165103
-    title: Why is control and randomization important in experimental design?
+    title: >-
+        Why is control and randomization important in experimental design?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-control-and-randomization-important-in-experimental-design
-related_article2:
-    id: 165102
-    title: What are the key differences between between-subjects and within-subjects experimental designs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
-related_article3:
-    id: 165105
-    title: How can the order of questions in a survey impact responses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
-related_article4:
-    id: 165111
-    title: What is the difference between continuous and categorical variables?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 related_article5:
-    id: 165105
-    title: How can the order of questions in a survey impact responses?
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 ---
 
 &nbsp;

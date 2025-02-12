@@ -2,8 +2,10 @@
 _schema: default
 id: 165235
 date: 2025-01-28
-title: How is SciToolkit used in data analysis for psychological research?
-article_title: How is SciToolkit used in data analysis for psychological research?
+title: >-
+    How is SciToolkit used in data analysis for psychological research?
+article_title: >-
+    How is SciToolkit used in data analysis for psychological research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-scitoolkit-used-in-data-analysis-for-psychological-research.md
 url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
 score: -1.0
 related_article1:
-    id: 165232
-    title: What role does molecular visualization play in understanding organic chemistry?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-molecular-visualization-play-in-understanding-organic-chemistry
-related_article2:
-    id: 165233
-    title: Why are STEM skills important for students studying organic chemistry?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
-related_article3:
     id: 165241
-    title: What factors influence the complexity levels in cognitive task design?
+    title: >-
+        What factors influence the complexity levels in cognitive task design?
     subject: Psychology
     url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
-related_article4:
+related_article2:
     id: 165229
-    title: How does aphantasia affect spatial reasoning and problem-solving abilities?
+    title: >-
+        How does aphantasia affect spatial reasoning and problem-solving abilities?
     subject: Psychology
     url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
-related_article5:
-    id: 165231
-    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+related_article3:
+    id: 165227
+    title: >-
+        How does playing Tetris improve spatial reasoning skills?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article4:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
+related_article5:
+    id: 165239
+    title: >-
+        What are the challenges in selecting appropriate visual stimuli for experiments?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
 ---
 
 &nbsp;

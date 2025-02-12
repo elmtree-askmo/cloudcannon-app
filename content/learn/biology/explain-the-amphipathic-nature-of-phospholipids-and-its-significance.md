@@ -2,8 +2,10 @@
 _schema: default
 id: 167336
 date: 2025-01-31
-title: Explain the amphipathic nature of phospholipids and its significance.
-article_title: Explain the amphipathic nature of phospholipids and its significance.
+title: >-
+    Explain the amphipathic nature of phospholipids and its significance.
+article_title: >-
+    Explain the amphipathic nature of phospholipids and its significance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-amphipathic-nature-of-phospholipids-and-its-significance.
 url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 score: -1.0
 related_article1:
-    id: 167335
-    title: What is the role of phospholipids in biological membranes?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-biological-membranes
-related_article2:
-    id: 167331
-    title: How do the nitrogenous bases differ between DNA and RNA?
-    subject: Biology
-    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
-related_article3:
-    id: 167329
-    title: Explain the concept of complementary base pairing and its importance in DNA stability.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
-related_article4:
     id: 167325
-    title: How does a dehydration reaction contribute to the formation of nucleic acids?
+    title: >-
+        How does a dehydration reaction contribute to the formation of nucleic acids?
     subject: Biology
     url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
-related_article5:
+related_article2:
     id: 167330
-    title: What are the key differences between the sugar components of DNA and RNA?
+    title: >-
+        What are the key differences between the sugar components of DNA and RNA?
     subject: Biology
     url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
+related_article3:
+    id: 167334
+    title: >-
+        Describe the composition and function of triglycerides in energy storage.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+related_article4:
+    id: 167327
+    title: >-
+        Describe the primary structure of DNA and RNA and explain how they differ.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
+related_article5:
+    id: 167339
+    title: >-
+        What is the primary biological function of nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
 ---
 
 &nbsp;

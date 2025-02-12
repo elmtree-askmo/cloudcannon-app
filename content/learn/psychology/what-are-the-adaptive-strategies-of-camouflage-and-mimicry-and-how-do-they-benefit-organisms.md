@@ -2,8 +2,10 @@
 _schema: default
 id: 170922
 date: 2025-02-07
-title: What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
-article_title: What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+title: >-
+    What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
+article_title: >-
+    What are the adaptive strategies of camouflage and mimicry, and how do they benefit organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do
 url: /learn/psychology/questions/what-are-the-adaptive-strategies-of-camouflage-and-mimicry-and-how-do-they-benefit-organisms
 score: -1.0
 related_article1:
-    id: 170918
-    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    id: 170914
+    title: >-
+        Describe the mechanism of kin selection and provide an example from nature.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
 related_article2:
-    id: 170910
-    title: How does natural selection influence behavioral traits in animals?
+    id: 170911
+    title: >-
+        Define inclusive fitness and explain its components.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
 related_article3:
-    id: 170910
-    title: How does natural selection influence behavioral traits in animals?
+    id: 170915
+    title: >-
+        What conditions are necessary for reciprocal altruism to evolve in animal populations?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
 related_article4:
-    id: 170918
-    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    id: 170915
+    title: >-
+        What conditions are necessary for reciprocal altruism to evolve in animal populations?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
 related_article5:
-    id: 170912
-    title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+    id: 170915
+    title: >-
+        What conditions are necessary for reciprocal altruism to evolve in animal populations?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
+    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
 ---
 
 &nbsp;

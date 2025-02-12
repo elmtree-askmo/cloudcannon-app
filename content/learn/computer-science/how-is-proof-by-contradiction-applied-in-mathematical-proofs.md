@@ -2,8 +2,10 @@
 _schema: default
 id: 160811
 date: 2025-01-24
-title: How is proof by contradiction applied in mathematical proofs?
-article_title: How is proof by contradiction applied in mathematical proofs?
+title: >-
+    How is proof by contradiction applied in mathematical proofs?
+article_title: >-
+    How is proof by contradiction applied in mathematical proofs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-proof-by-contradiction-applied-in-mathematical-proofs.md
 url: /learn/computer-science/questions/how-is-proof-by-contradiction-applied-in-mathematical-proofs
 score: -1.0
 related_article1:
-    id: 161133
-    title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
+    id: 161097
+    title: >-
+        What is the relationship between data structures and the representation of initial data?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
+    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-the-representation-of-initial-data
 related_article2:
-    id: 160967
-    title: What are the mathematical implications of infinite sets in set theory?
+    id: 160821
+    title: >-
+        How does understanding cardinality impact set theory and computability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
 related_article3:
-    id: 161131
-    title: How do advanced data structures impact algorithm efficiency?
+    id: 161086
+    title: >-
+        What is the difference between countably infinite and uncountably infinite sets?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-advanced-data-structures-impact-algorithm-efficiency
+    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
 related_article4:
-    id: 161275
-    title: What defines an efficient algorithm in complexity theory?
+    id: 161135
+    title: >-
+        Explain the traveling salesman problem and its role in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
+    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
 related_article5:
-    id: 160964
-    title: What challenges are associated with solving the traveling salesman problem?
+    id: 161128
+    title: >-
+        Explain the role of abstraction in simplifying complex computing problems.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
+    url: /learn/computer-science/questions/explain-the-role-of-abstraction-in-simplifying-complex-computing-problems
 ---
 
 &nbsp;

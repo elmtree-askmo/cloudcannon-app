@@ -2,8 +2,10 @@
 _schema: default
 id: 167421
 date: 2025-01-31
-title: How is the periodic table organized and what is the significance of groups and periods?
-article_title: How is the periodic table organized and what is the significance of groups and periods?
+title: >-
+    How is the periodic table organized and what is the significance of groups and periods?
+article_title: >-
+    How is the periodic table organized and what is the significance of groups and periods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-periodic-table-organized-and-what-is-the-significance-of-g
 url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
 score: -1.0
 related_article1:
-    id: 167410
-    title: Describe the structure and function of the methyl group.
+    id: 167420
+    title: >-
+        How are organic molecules different from inorganic molecules?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
 related_article2:
-    id: 167410
-    title: Describe the structure and function of the methyl group.
+    id: 167411
+    title: >-
+        What is the role of the carbonyl group in biological molecules?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+    url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
 related_article3:
-    id: 167416
-    title: Define atoms and describe their basic structure.
+    id: 167399
+    title: >-
+        Describe the properties of protons, neutrons, and electrons.
     subject: Biology
-    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+    url: /learn/biology/questions/describe-the-properties-of-protons-neutrons-and-electrons
 related_article4:
-    id: 167408
-    title: Define hydrocarbons and list the types of hydrocarbons.
+    id: 167420
+    title: >-
+        How are organic molecules different from inorganic molecules?
     subject: Biology
-    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+    url: /learn/biology/questions/how-are-organic-molecules-different-from-inorganic-molecules
 related_article5:
-    id: 167410
-    title: Describe the structure and function of the methyl group.
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 ---
 
 &nbsp;

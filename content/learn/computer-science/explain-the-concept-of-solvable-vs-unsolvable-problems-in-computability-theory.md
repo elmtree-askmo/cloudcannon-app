@@ -2,8 +2,10 @@
 _schema: default
 id: 160705
 date: 2025-01-24
-title: Explain the concept of solvable vs. unsolvable problems in computability theory.
-article_title: Explain the concept of solvable vs. unsolvable problems in computability theory.
+title: >-
+    Explain the concept of solvable vs. unsolvable problems in computability theory.
+article_title: >-
+    Explain the concept of solvable vs. unsolvable problems in computability theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-solvable-vs-unsolvable-problems-in-computabili
 url: /learn/computer-science/questions/explain-the-concept-of-solvable-vs-unsolvable-problems-in-computability-theory
 score: -1.0
 related_article1:
-    id: 160780
-    title: Explain the concept of lists and how they are implemented as arrays.
+    id: 160698
+    title: >-
+        What is the role of abstraction in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
+    url: /learn/computer-science/questions/what-is-the-role-of-abstraction-in-computing
 related_article2:
-    id: 160776
-    title: How does representation influence algorithm complexity?
+    id: 161020
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 related_article3:
-    id: 160702
-    title: What is the importance of time complexity in evaluating algorithm efficiency?
+    id: 160873
+    title: >-
+        What information is conveyed by indices in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-time-complexity-in-evaluating-algorithm-efficiency
+    url: /learn/computer-science/questions/what-information-is-conveyed-by-indices-in-data-structures
 related_article4:
-    id: 160701
-    title: How do associative arrays utilize non-numeric indices?
+    id: 160794
+    title: >-
+        What are the advantages of using non-numeric indices in associative arrays?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-associative-arrays-utilize-nonnumeric-indices
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
 related_article5:
-    id: 160796
-    title: What data is required for generating circular calendars?
+    id: 160769
+    title: >-
+        How does testing differ from proving solutions in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
+    url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165271
 date: 2025-01-28
-title: How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
-article_title: How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+title: >-
+    How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
+article_title: >-
+    How does the behavior of the Song Sparrow illustrate brood parasitism with the Brown-headed Cowbird?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism
 url: /learn/biology/questions/how-does-the-behavior-of-the-song-sparrow-illustrate-brood-parasitism-with-the-brownheaded-cowbird
 score: -1.0
 related_article1:
-    id: 165275
-    title: Explain the mechanism of natural selection and its role in evolutionary change.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
-related_article2:
     id: 165286
-    title: How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
+    title: >-
+        How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
     subject: Biology
     url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
+related_article2:
+    id: 165273
+    title: >-
+        What are Tinbergen’s 4 questions and how do they contribute to understanding animal behavior?
+    subject: Biology
+    url: /learn/biology/questions/what-are-tinbergens-4-questions-and-how-do-they-contribute-to-understanding-animal-behavior
 related_article3:
-    id: 165275
-    title: Explain the mechanism of natural selection and its role in evolutionary change.
+    id: 165285
+    title: >-
+        Differentiate between observational and experimental studies in empirical approaches to animal behavior.
     subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-natural-selection-and-its-role-in-evolutionary-change
+    url: /learn/biology/questions/differentiate-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
 related_article4:
-    id: 165272
-    title: Define animal behavior and explain its importance in ecology.
+    id: 165286
+    title: >-
+        How do theoretical approaches, such as game theory models, contribute to the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/define-animal-behavior-and-explain-its-importance-in-ecology
+    url: /learn/biology/questions/how-do-theoretical-approaches-such-as-game-theory-models-contribute-to-the-study-of-animal-behavior
 related_article5:
-    id: 165277
-    title: Describe associative and non-associative learning and their roles in animal behavior.
+    id: 165274
+    title: >-
+        Differentiate between proximate and ultimate causation in animal behavior.
     subject: Biology
-    url: /learn/biology/questions/describe-associative-and-nonassociative-learning-and-their-roles-in-animal-behavior
+    url: /learn/biology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
 ---
 
 &nbsp;

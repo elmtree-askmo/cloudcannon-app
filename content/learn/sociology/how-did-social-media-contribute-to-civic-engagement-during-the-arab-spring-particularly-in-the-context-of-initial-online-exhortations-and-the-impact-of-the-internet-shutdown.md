@@ -2,8 +2,10 @@
 _schema: default
 id: 168978
 date: 2025-02-04
-title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
-article_title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+title: >-
+    How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+article_title: >-
+    How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-social-media-contribute-to-civic-engagement-during-the-arab-s
 url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
 score: -1.0
 related_article1:
-    id: 168986
-    title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+    id: 168980
+    title: >-
+        What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
+    url: /learn/sociology/questions/what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions
 related_article2:
-    id: 168981
-    title: How did the January 25th Revolution lead to the symbolic reclamation of Tahrir Square?
+    id: 168980
+    title: >-
+        What were the government policies on public space during political demonstrations, and how did they affect civic pride and urban conditions?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-january-25th-revolution-lead-to-the-symbolic-reclamation-of-tahrir-square
+    url: /learn/sociology/questions/what-were-the-government-policies-on-public-space-during-political-demonstrations-and-how-did-they-affect-civic-pride-and-urban-conditions
 related_article3:
-    id: 168983
-    title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+    id: 168987
+    title: >-
+        How did continued protests and demands during the transition to democracy attract national and international attention?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
+    url: /learn/sociology/questions/how-did-continued-protests-and-demands-during-the-transition-to-democracy-attract-national-and-international-attention
 related_article4:
-    id: 168986
-    title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
+    id: 168985
+    title: >-
+        How did the transformation of public spaces influence national identity in Egypt?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
+    url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
 related_article5:
-    id: 168982
-    title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+    id: 168976
+    title: >-
+        How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
+    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
 ---
 
 &nbsp;

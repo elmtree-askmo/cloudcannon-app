@@ -2,8 +2,10 @@
 _schema: default
 id: 168718
 date: 2025-02-04
-title: How did photography influence the development of Realism in art?
-article_title: How did photography influence the development of Realism in art?
+title: >-
+    How did photography influence the development of Realism in art?
+article_title: >-
+    How did photography influence the development of Realism in art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-photography-influence-the-development-of-realism-in-art.md
 url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
 score: 9.0
 related_article1:
-    id: 168735
-    title: What role did women play in art during the 19th century, and how was gender identity explored?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
-related_article2:
     id: 168721
-    title: In what ways did 19th-century art provide social commentary on labor and industrialization?
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
+related_article2:
+    id: 168729
+    title: >-
+        What were the artistic responses to industrialization from both Romanticism and Realism perspectives?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-industrialization-from-both-romanticism-and-realism-perspectives
 related_article3:
-    id: 168725
-    title: What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+    id: 168726
+    title: >-
+        How did 19th-century art address social issues such as poverty and gender identity?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
+    url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
 related_article4:
-    id: 168725
-    title: What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+    id: 168716
+    title: >-
+        How did the execution of King Louis XVI impact European monarchies?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
+    url: /learn/art-history-and-literature/questions/how-did-the-execution-of-king-louis-xvi-impact-european-monarchies
 related_article5:
     id: 168724
-    title: How did political upheavals influence art and the role of artists in society during the 19th century?
+    title: >-
+        How did political upheavals influence art and the role of artists in society during the 19th century?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
 ---

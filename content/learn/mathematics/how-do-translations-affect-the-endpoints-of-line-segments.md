@@ -2,8 +2,10 @@
 _schema: default
 id: 162148
 date: 2025-01-25
-title: How do translations affect the endpoints of line segments?
-article_title: How do translations affect the endpoints of line segments?
+title: >-
+    How do translations affect the endpoints of line segments?
+article_title: >-
+    How do translations affect the endpoints of line segments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-translations-affect-the-endpoints-of-line-segments.md
 url: /learn/mathematics/questions/how-do-translations-affect-the-endpoints-of-line-segments
 score: -1.0
 related_article1:
-    id: 162164
-    title: How do you reflect a point algebraically in terms of coordinate changes?
+    id: 162303
+    title: >-
+        What is rigid motion and what are its characteristics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-reflect-a-point-algebraically-in-terms-of-coordinate-changes
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
 related_article2:
-    id: 162298
-    title: How can transformations be visualized using the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
-related_article3:
     id: 162150
-    title: What is the definition of reflection in geometric transformations?
+    title: >-
+        What is the definition of reflection in geometric transformations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-definition-of-reflection-in-geometric-transformations
+related_article3:
+    id: 162158
+    title: >-
+        What are the roles of the x-axis and y-axis in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
 related_article4:
-    id: 162161
-    title: What are the properties of line segments in geometric figures?
+    id: 162308
+    title: >-
+        How do you translate a line on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+    url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
 related_article5:
-    id: 162301
-    title: What is the concept of a mirror image in reflections?
+    id: 162160
+    title: >-
+        How is the distance from a line measured in the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-concept-of-a-mirror-image-in-reflections
+    url: /learn/mathematics/questions/how-is-the-distance-from-a-line-measured-in-the-coordinate-plane
 ---
 
 &nbsp;

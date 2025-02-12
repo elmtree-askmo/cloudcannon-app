@@ -2,8 +2,10 @@
 _schema: default
 id: 168831
 date: 2025-02-04
-title: What is the function of endopeptidases in protein digestion?
-article_title: What is the function of endopeptidases in protein digestion?
+title: >-
+    What is the function of endopeptidases in protein digestion?
+article_title: >-
+    What is the function of endopeptidases in protein digestion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-endopeptidases-in-protein-digestion.md
 url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
 score: -1.0
 related_article1:
+    id: 168835
+    title: >-
+        What is the significance of epithelial cells in the absorption process?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
+related_article2:
     id: 168841
-    title: How do villi adaptations maximize nutrient absorption in the small intestine?
+    title: >-
+        How do villi adaptations maximize nutrient absorption in the small intestine?
     subject: Biology
     url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
-related_article2:
-    id: 168839
-    title: Why is mitochondria important for active transport in nutrient absorption?
-    subject: Biology
-    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
 related_article3:
+    id: 168840
+    title: >-
+        What are the mechanisms involved in glucose transport across the intestinal epithelium?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
+related_article4:
+    id: 168829
+    title: >-
+        What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+related_article5:
     id: 168828
-    title: How does the branching in amelopectin affect its hydrolysis efficiency?
+    title: >-
+        How does the branching in amelopectin affect its hydrolysis efficiency?
     subject: Biology
     url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
-related_article4:
-    id: 168836
-    title: How do villi enhance the absorption of nutrients in the small intestine?
-    subject: Biology
-    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
-related_article5:
-    id: 168834
-    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 ---
 
 &nbsp;

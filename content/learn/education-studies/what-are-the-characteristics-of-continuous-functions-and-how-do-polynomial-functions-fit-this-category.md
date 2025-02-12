@@ -2,8 +2,10 @@
 _schema: default
 id: 169288
 date: 2025-02-05
-title: What are the characteristics of continuous functions, and how do polynomial functions fit this category?
-article_title: What are the characteristics of continuous functions, and how do polynomial functions fit this category?
+title: >-
+    What are the characteristics of continuous functions, and how do polynomial functions fit this category?
+article_title: >-
+    What are the characteristics of continuous functions, and how do polynomial functions fit this category?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-continuous-functions-and-how-do-polyn
 url: /learn/education-studies/questions/what-are-the-characteristics-of-continuous-functions-and-how-do-polynomial-functions-fit-this-category
 score: -1.0
 related_article1:
-    id: 169303
-    title: How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    id: 169291
+    title: >-
+        How do piecewise functions and absolute value functions illustrate discontinuous behavior?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
+    url: /learn/education-studies/questions/how-do-piecewise-functions-and-absolute-value-functions-illustrate-discontinuous-behavior
 related_article2:
-    id: 169304
-    title: What are some applications of integrals in physics and engineering?
+    id: 169297
+    title: >-
+        How is continuity at transition points in piecewise functions analyzed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-applications-of-integrals-in-physics-and-engineering
+    url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
 related_article3:
-    id: 169283
-    title: Explain the epsilon-delta definition of a limit and its significance in calculus.
+    id: 169297
+    title: >-
+        How is continuity at transition points in piecewise functions analyzed?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-epsilondelta-definition-of-a-limit-and-its-significance-in-calculus
+    url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
 related_article4:
-    id: 169303
-    title: How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    id: 169301
+    title: >-
+        How is the derivative used to calculate the instantaneous rate of change, and what are its applications in physics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
+    url: /learn/education-studies/questions/how-is-the-derivative-used-to-calculate-the-instantaneous-rate-of-change-and-what-are-its-applications-in-physics
 related_article5:
-    id: 169292
-    title: What is the difference between left-hand and right-hand limits in calculus?
+    id: 169289
+    title: >-
+        How can the behavior of continuous functions be analyzed graphically?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
+    url: /learn/education-studies/questions/how-can-the-behavior-of-continuous-functions-be-analyzed-graphically
 ---
 
 &nbsp;

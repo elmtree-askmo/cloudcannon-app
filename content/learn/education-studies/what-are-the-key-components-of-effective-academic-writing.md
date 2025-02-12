@@ -2,8 +2,10 @@
 _schema: default
 id: 165892
 date: 2025-01-29
-title: What are the key components of effective academic writing?
-article_title: What are the key components of effective academic writing?
+title: >-
+    What are the key components of effective academic writing?
+article_title: >-
+    What are the key components of effective academic writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-effective-academic-writing.md
 url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
 score: -1.0
 related_article1:
-    id: 165888
-    title: Why is critical thinking considered essential in education, particularly in the arts and humanities?
+    id: 165904
+    title: >-
+        How does self-directed learning enhance independent research skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-critical-thinking-considered-essential-in-education-particularly-in-the-arts-and-humanities
+    url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
 related_article2:
     id: 165896
-    title: What is the role of archaeology and history in understanding material artefacts?
+    title: >-
+        What is the role of archaeology and history in understanding material artefacts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
 related_article3:
-    id: 165896
-    title: What is the role of archaeology and history in understanding material artefacts?
+    id: 165893
+    title: >-
+        How can presentation skills be enhanced through the use of visual aids?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+    url: /learn/education-studies/questions/how-can-presentation-skills-be-enhanced-through-the-use-of-visual-aids
 related_article4:
-    id: 165882
-    title: What is the primary role of a university as a research institution?
+    id: 165903
+    title: >-
+        What are the benefits of developing transferable skills such as problem-solving and decision-making?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
+    url: /learn/education-studies/questions/what-are-the-benefits-of-developing-transferable-skills-such-as-problemsolving-and-decisionmaking
 related_article5:
-    id: 165882
-    title: What is the primary role of a university as a research institution?
+    id: 165902
+    title: >-
+        How can individuals adapt to change through lifelong learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
+    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
 ---
 
 &nbsp;

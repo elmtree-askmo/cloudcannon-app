@@ -2,8 +2,10 @@
 _schema: default
 id: 169285
 date: 2025-02-05
-title: Describe the difference between the instantaneous rate of change and the average rate of change of a function.
-article_title: Describe the difference between the instantaneous rate of change and the average rate of change of a function.
+title: >-
+    Describe the difference between the instantaneous rate of change and the average rate of change of a function.
+article_title: >-
+    Describe the difference between the instantaneous rate of change and the average rate of change of a function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-difference-between-the-instantaneous-rate-of-change-and-
 url: /learn/education-studies/questions/describe-the-difference-between-the-instantaneous-rate-of-change-and-the-average-rate-of-change-of-a-function
 score: -1.0
 related_article1:
-    id: 169309
-    title: How are algebraic manipulation and calculus-based approaches used in mathematical analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-algebraic-manipulation-and-calculusbased-approaches-used-in-mathematical-analysis
-related_article2:
-    id: 169289
-    title: How can the behavior of continuous functions be analyzed graphically?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-behavior-of-continuous-functions-be-analyzed-graphically
-related_article3:
     id: 169304
-    title: What are some applications of integrals in physics and engineering?
+    title: >-
+        What are some applications of integrals in physics and engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-applications-of-integrals-in-physics-and-engineering
-related_article4:
+related_article2:
+    id: 169300
+    title: >-
+        What is the epsilon-delta criteria for proving limits, and how is it applied in continuous functions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-epsilondelta-criteria-for-proving-limits-and-how-is-it-applied-in-continuous-functions
+related_article3:
     id: 169290
-    title: What are jump discontinuities and infinite discontinuities in functions?
+    title: >-
+        What are jump discontinuities and infinite discontinuities in functions?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-jump-discontinuities-and-infinite-discontinuities-in-functions
-related_article5:
-    id: 169284
-    title: How is the instantaneous rate of change of a function at a point related to its derivative?
+related_article4:
+    id: 169300
+    title: >-
+        What is the epsilon-delta criteria for proving limits, and how is it applied in continuous functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-instantaneous-rate-of-change-of-a-function-at-a-point-related-to-its-derivative
+    url: /learn/education-studies/questions/what-is-the-epsilondelta-criteria-for-proving-limits-and-how-is-it-applied-in-continuous-functions
+related_article5:
+    id: 169292
+    title: >-
+        What is the difference between left-hand and right-hand limits in calculus?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-lefthand-and-righthand-limits-in-calculus
 ---
 
 &nbsp;

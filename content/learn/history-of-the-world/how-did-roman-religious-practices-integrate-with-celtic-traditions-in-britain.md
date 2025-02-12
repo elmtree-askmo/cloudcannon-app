@@ -2,8 +2,10 @@
 _schema: default
 id: 166108
 date: 2025-01-29
-title: How did Roman religious practices integrate with Celtic traditions in Britain?
-article_title: How did Roman religious practices integrate with Celtic traditions in Britain?
+title: >-
+    How did Roman religious practices integrate with Celtic traditions in Britain?
+article_title: >-
+    How did Roman religious practices integrate with Celtic traditions in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-roman-religious-practices-integrate-with-celtic-traditions-in
 url: /learn/history-of-the-world/questions/how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain
 score: 9.0
 related_article1:
-    id: 166104
-    title: How did Julius Caesar's campaigns in Britain impact his legacy?
+    id: 166117
+    title: >-
+        How has Roman Britain influenced modern British culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-julius-caesars-campaigns-in-britain-impact-his-legacy
+    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
 related_article2:
-    id: 166106
-    title: How did the Britonic languages develop during the Roman period in Britain?
+    id: 166111
+    title: >-
+        How did early Christian communities establish themselves in Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-britonic-languages-develop-during-the-roman-period-in-britain
+    url: /learn/history-of-the-world/questions/how-did-early-christian-communities-establish-themselves-in-roman-britain
 related_article3:
-    id: 166114
-    title: What were the characteristics of Roman urbanization in Britain?
+    id: 166113
+    title: >-
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
 related_article4:
-    id: 166109
-    title: What strategies did the Roman military employ to maintain control over Britain?
+    id: 166116
+    title: >-
+        What were the consequences of the withdrawal of Roman troops from Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
+    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
 related_article5:
-    id: 166114
-    title: What were the characteristics of Roman urbanization in Britain?
+    id: 166103
+    title: >-
+        What were the key factors that led to the transition from the Roman Republic to the Roman Empire?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
+    url: /learn/history-of-the-world/questions/what-were-the-key-factors-that-led-to-the-transition-from-the-roman-republic-to-the-roman-empire
 ---
 
 &nbsp;

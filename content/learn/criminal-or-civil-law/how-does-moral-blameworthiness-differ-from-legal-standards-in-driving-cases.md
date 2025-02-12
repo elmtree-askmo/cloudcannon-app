@@ -2,8 +2,10 @@
 _schema: default
 id: 162864
 date: 2025-01-25
-title: How does moral blameworthiness differ from legal standards in driving cases?
-article_title: How does moral blameworthiness differ from legal standards in driving cases?
+title: >-
+    How does moral blameworthiness differ from legal standards in driving cases?
+article_title: >-
+    How does moral blameworthiness differ from legal standards in driving cases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/criminal-or-civil-law/questions/how-does-moral-blameworthiness-diffe
 score: -1.0
 related_article1:
     id: 162870
-    title: How is recklessness legally defined in traffic law, and what are its consequences?
+    title: >-
+        How is recklessness legally defined in traffic law, and what are its consequences?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-is-recklessness-legally-defined-in-traffic-law-and-what-are-its-consequences
 related_article2:
-    id: 162871
-    title: What are the key differences between recklessness and negligence in traffic law?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-recklessness-and-negligence-in-traffic-law
-related_article3:
-    id: 162867
-    title: Why is compliance with traffic regulations important, and what are common violations?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
-related_article4:
     id: 162863
-    title: What role does intent play in cases of criminal negligence in driving?
+    title: >-
+        What role does intent play in cases of criminal negligence in driving?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-role-does-intent-play-in-cases-of-criminal-negligence-in-driving
-related_article5:
-    id: 162884
-    title: How is liability determined in traffic accidents, and what role does evidence play?
+related_article3:
+    id: 162861
+    title: >-
+        What are the potential legal consequences of dangerous driving?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-liability-determined-in-traffic-accidents-and-what-role-does-evidence-play
+    url: /learn/criminal-or-civil-law/questions/what-are-the-potential-legal-consequences-of-dangerous-driving
+related_article4:
+    id: 162882
+    title: >-
+        How are legal standards of care applied in traffic law?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
+related_article5:
+    id: 162874
+    title: >-
+        What distinguishes civil liability from criminal liability in traffic accidents?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-distinguishes-civil-liability-from-criminal-liability-in-traffic-accidents
 ---
 
 &nbsp;

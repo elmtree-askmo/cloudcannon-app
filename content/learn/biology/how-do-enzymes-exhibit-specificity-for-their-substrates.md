@@ -2,8 +2,10 @@
 _schema: default
 id: 169954
 date: 2025-02-05
-title: How do enzymes exhibit specificity for their substrates?
-article_title: How do enzymes exhibit specificity for their substrates?
+title: >-
+    How do enzymes exhibit specificity for their substrates?
+article_title: >-
+    How do enzymes exhibit specificity for their substrates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-enzymes-exhibit-specificity-for-their-substrates.md
 url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
 score: -1.0
 related_article1:
-    id: 169956
-    title: What are the key principles of cell theory?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
-related_article2:
     id: 169948
-    title: What is the role of phospholipids in cell membranes?
+    title: >-
+        What is the role of phospholipids in cell membranes?
     subject: Biology
     url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+related_article2:
+    id: 169941
+    title: >-
+        What role do electrolytes play in chemical reactions?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
 related_article3:
-    id: 169952
-    title: What is the relationship between monomers and polymers in biological molecules?
+    id: 169939
+    title: >-
+        What is the difference between covalent and ionic bonds?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
 related_article4:
-    id: 169959
-    title: What is the role of membrane proteins in the cell membrane?
+    id: 169960
+    title: >-
+        How does selective permeability contribute to homeostasis in cells?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
+    url: /learn/biology/questions/how-does-selective-permeability-contribute-to-homeostasis-in-cells
 related_article5:
-    id: 169947
-    title: How do enzymes lower activation energy in biochemical reactions?
+    id: 169937
+    title: >-
+        What are the three main subatomic particles and their charges?
     subject: Biology
-    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-biochemical-reactions
+    url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
 ---
 
 &nbsp;

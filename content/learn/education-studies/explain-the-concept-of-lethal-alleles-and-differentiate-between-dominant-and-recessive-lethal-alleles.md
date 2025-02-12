@@ -2,8 +2,10 @@
 _schema: default
 id: 167836
 date: 2025-02-01
-title: Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
-article_title: Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
+title: >-
+    Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
+article_title: >-
+    Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-lethal-alleles-and-differentiate-between-domin
 url: /learn/education-studies/questions/explain-the-concept-of-lethal-alleles-and-differentiate-between-dominant-and-recessive-lethal-alleles
 score: -1.0
 related_article1:
+    id: 167837
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
+related_article2:
     id: 167851
-    title: How does genetic potential relate to the normal distribution of quantitative traits?
+    title: >-
+        How does genetic potential relate to the normal distribution of quantitative traits?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
-related_article2:
-    id: 167831
-    title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-principle-of-independent-assortment-in-mendelian-genetics-and-can-you-provide-an-example
 related_article3:
-    id: 167839
-    title: Define complementation and explain its role in genetic pathways.
+    id: 167837
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-complementation-and-explain-its-role-in-genetic-pathways
+    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
 related_article4:
-    id: 167844
-    title: Explain the concept of heritability and its importance in understanding genetic variance.
+    id: 167833
+    title: >-
+        What is incomplete penetrance, and how does it affect phenotypic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
+    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-phenotypic-expression
 related_article5:
-    id: 167832
-    title: How does incomplete dominance differ from complete dominance, and what are its genetic implications?
+    id: 167843
+    title: >-
+        What is the significance of quantitative traits in genetics, and how are they measured?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance-and-what-are-its-genetic-implications
+    url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
 ---
 
 &nbsp;

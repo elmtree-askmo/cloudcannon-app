@@ -2,8 +2,10 @@
 _schema: default
 id: 167411
 date: 2025-01-31
-title: What is the role of the carbonyl group in biological molecules?
-article_title: What is the role of the carbonyl group in biological molecules?
+title: >-
+    What is the role of the carbonyl group in biological molecules?
+article_title: >-
+    What is the role of the carbonyl group in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biologic
 score: -1.0
 related_article1:
     id: 167399
-    title: Describe the properties of protons, neutrons, and electrons.
+    title: >-
+        Describe the properties of protons, neutrons, and electrons.
     subject: Biology
     url: /learn/biology/questions/describe-the-properties-of-protons-neutrons-and-electrons
 related_article2:
-    id: 167408
-    title: Define hydrocarbons and list the types of hydrocarbons.
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
     subject: Biology
-    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
 related_article3:
-    id: 167404
-    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    id: 167400
+    title: >-
+        How is atomic mass different from atomic number?
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
 related_article4:
-    id: 167421
-    title: How is the periodic table organized and what is the significance of groups and periods?
+    id: 167406
+    title: >-
+        What is hydrogen bonding and why is it important in biological systems?
     subject: Biology
-    url: /learn/biology/questions/how-is-the-periodic-table-organized-and-what-is-the-significance-of-groups-and-periods
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
 related_article5:
-    id: 167403
-    title: Define electronegativity and its importance in chemical reactions.
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
     subject: Biology
-    url: /learn/biology/questions/define-electronegativity-and-its-importance-in-chemical-reactions
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 ---
 
 &nbsp;

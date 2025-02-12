@@ -2,8 +2,10 @@
 _schema: default
 id: 164273
 date: 2025-01-28
-title: How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
-article_title: How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
+title: >-
+    How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
+article_title: >-
+    How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation
 url: /learn/health-studies/questions/how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation-in-the-context-of-therapy-and-recovery
 score: -1.0
 related_article1:
-    id: 164259
-    title: How do prosthetics and orthotics differ in their application within biomechanical technology?
+    id: 164260
+    title: >-
+        What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-prosthetics-and-orthotics-differ-in-their-application-within-biomechanical-technology
+    url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
 related_article2:
-    id: 164260
-    title: What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
+    id: 164264
+    title: >-
+        What factors are considered in the material selection for bionic prosthetics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
+    url: /learn/health-studies/questions/what-factors-are-considered-in-the-material-selection-for-bionic-prosthetics
 related_article3:
-    id: 164272
-    title: What types of assistive technologies are commonly used in rehabilitation engineering, and what are their purposes?
+    id: 164264
+    title: >-
+        What factors are considered in the material selection for bionic prosthetics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-assistive-technologies-are-commonly-used-in-rehabilitation-engineering-and-what-are-their-purposes
+    url: /learn/health-studies/questions/what-factors-are-considered-in-the-material-selection-for-bionic-prosthetics
 related_article4:
-    id: 164260
-    title: What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
+    id: 164269
+    title: >-
+        What is the importance of user-centric design in the development of human-machine interfaces?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
+    url: /learn/health-studies/questions/what-is-the-importance-of-usercentric-design-in-the-development-of-humanmachine-interfaces
 related_article5:
-    id: 164267
-    title: What are the key differences between wearable and implantable devices in human-machine interfaces?
+    id: 164265
+    title: >-
+        Explain the difference between myoelectric and neural control mechanisms in bionic prosthetics.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-wearable-and-implantable-devices-in-humanmachine-interfaces
+    url: /learn/health-studies/questions/explain-the-difference-between-myoelectric-and-neural-control-mechanisms-in-bionic-prosthetics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166523
 date: 2025-01-30
-title: How do Realism artists convey their influences through their notable works?
-article_title: How do Realism artists convey their influences through their notable works?
+title: >-
+    How do Realism artists convey their influences through their notable works?
+article_title: >-
+    How do Realism artists convey their influences through their notable works?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-realism-artists-convey-their-influences-through-their-notable-
 url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
 score: -1.0
 related_article1:
-    id: 166531
-    title: How does art influence society and provide cultural commentary?
+    id: 166517
+    title: >-
+        How do lighting and composition play a role in Baroque Art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
+    url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
 related_article2:
-    id: 166516
-    title: What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
+    id: 166529
+    title: >-
+        How does art function as a commentary on society and culture?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
+    url: /learn/education-studies/questions/how-does-art-function-as-a-commentary-on-society-and-culture
 related_article3:
-    id: 166531
-    title: How does art influence society and provide cultural commentary?
+    id: 166529
+    title: >-
+        How does art function as a commentary on society and culture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
+    url: /learn/education-studies/questions/how-does-art-function-as-a-commentary-on-society-and-culture
 related_article4:
-    id: 166525
-    title: How does historical context influence art interpretation?
+    id: 166530
+    title: >-
+        What is the essence of art, and how do art movements and trends reflect this essence?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-historical-context-influence-art-interpretation
+    url: /learn/education-studies/questions/what-is-the-essence-of-art-and-how-do-art-movements-and-trends-reflect-this-essence
 related_article5:
-    id: 166525
-    title: How does historical context influence art interpretation?
+    id: 166533
+    title: >-
+        In what ways does art serve as a form of social and political commentary?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-historical-context-influence-art-interpretation
+    url: /learn/education-studies/questions/in-what-ways-does-art-serve-as-a-form-of-social-and-political-commentary
 ---
 
 &nbsp;

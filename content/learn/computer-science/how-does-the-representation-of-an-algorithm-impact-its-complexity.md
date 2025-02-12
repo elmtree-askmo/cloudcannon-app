@@ -2,8 +2,10 @@
 _schema: default
 id: 161088
 date: 2025-01-24
-title: How does the representation of an algorithm impact its complexity?
-article_title: How does the representation of an algorithm impact its complexity?
+title: >-
+    How does the representation of an algorithm impact its complexity?
+article_title: >-
+    How does the representation of an algorithm impact its complexity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-representation-of-an-algorithm-impact-its-complexity.md
 url: /learn/computer-science/questions/how-does-the-representation-of-an-algorithm-impact-its-complexity
 score: -1.0
 related_article1:
-    id: 161103
-    title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
+    id: 161136
+    title: >-
+        What defines an efficient algorithm in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
+    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 related_article2:
-    id: 161099
-    title: What are the mathematical implications of infinite sets in set theory?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article3:
-    id: 161135
-    title: Explain the traveling salesman problem and its role in NP-completeness.
+    id: 160801
+    title: >-
+        How can abstraction aid in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
+    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
 related_article4:
-    id: 160813
-    title: What techniques are used to prove the irrationality of numbers?
+    id: 161130
+    title: >-
+        What is the relationship between data structures and algorithms in terms of data representation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-techniques-are-used-to-prove-the-irrationality-of-numbers
+    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-algorithms-in-terms-of-data-representation
 related_article5:
-    id: 161148
-    title: What is the significance of cardinality in defining complexity and algorithm design?
+    id: 160812
+    title: >-
+        What distinguishes rational numbers from irrational numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
+    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
 ---
 
 &nbsp;

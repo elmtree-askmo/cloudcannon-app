@@ -2,8 +2,10 @@
 _schema: default
 id: 163866
 date: 2025-01-28
-title: What factors contributed to the emergence of cities and urban centers during industrialization?
-article_title: What factors contributed to the emergence of cities and urban centers during industrialization?
+title: >-
+    What factors contributed to the emergence of cities and urban centers during industrialization?
+article_title: >-
+    What factors contributed to the emergence of cities and urban centers during industrialization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-factors-contributed-to-the-emergence-of-cities-and-urban-centers
 url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
 score: -1.0
 related_article1:
-    id: 163864
-    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    id: 163870
+    title: >-
+        What role do multinational corporations play in the emergence of global markets and economic integration?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
 related_article2:
-    id: 163865
-    title: How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
+    id: 163867
+    title: >-
+        How did European exploration impact global trade routes and resource control?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
+    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
 related_article3:
-    id: 163869
-    title: How do military and economic influences contribute to the control of territory and resources in political economy?
+    id: 163871
+    title: >-
+        How has globalization impacted economic disparities and poverty levels worldwide?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
+    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
 related_article4:
-    id: 163868
-    title: What was the significance of the slave trade in the context of colonialism and specialized production?
+    id: 163872
+    title: >-
+        What are the main arguments of anti-globalization movements regarding cultural erosion and sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/what-was-the-significance-of-the-slave-trade-in-the-context-of-colonialism-and-specialized-production
-related_article5:
-    id: 163864
-    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+    url: /learn/sociology/questions/what-are-the-main-arguments-of-antiglobalization-movements-regarding-cultural-erosion-and-sovereignty
 ---
 
 &nbsp;

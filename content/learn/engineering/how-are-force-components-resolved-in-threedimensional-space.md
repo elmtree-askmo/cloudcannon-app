@@ -2,8 +2,10 @@
 _schema: default
 id: 166678
 date: 2025-01-31
-title: How are force components resolved in three-dimensional space?
-article_title: How are force components resolved in three-dimensional space?
+title: >-
+    How are force components resolved in three-dimensional space?
+article_title: >-
+    How are force components resolved in three-dimensional space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-force-components-resolved-in-threedimensional-space.md
 url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
 score: -1.0
 related_article1:
-    id: 166682
-    title: How is the spring constant calculated from displacement and force data?
+    id: 166677
+    title: >-
+        Explain the process of vector decomposition in force analysis.
     subject: Engineering
-    url: /learn/engineering/questions/how-is-the-spring-constant-calculated-from-displacement-and-force-data
+    url: /learn/engineering/questions/explain-the-process-of-vector-decomposition-in-force-analysis
 related_article2:
-    id: 166675
-    title: What is the magnitude of a force vector and how is it calculated?
+    id: 166676
+    title: >-
+        How do you determine the direction of a force using unit vectors?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
 related_article3:
-    id: 166680
-    title: How do you apply equilibrium equations to solve for unknown forces?
+    id: 166685
+    title: >-
+        What is the difference between kinematics and dynamics in mechanical systems?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
+    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
 related_article4:
-    id: 166689
-    title: How do you solve static problems using equilibrium equations?
+    id: 166686
+    title: >-
+        How can trigonometry be used to calculate angles in force analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-you-solve-static-problems-using-equilibrium-equations
+    url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
 related_article5:
-    id: 166684
-    title: How do you construct a free body diagram for a particle system?
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-you-construct-a-free-body-diagram-for-a-particle-system
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
 ---
 
 &nbsp;

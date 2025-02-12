@@ -2,8 +2,10 @@
 _schema: default
 id: 166079
 date: 2025-01-29
-title: How did Gauls use shields in battle, and what were the variations in their armor?
-article_title: How did Gauls use shields in battle, and what were the variations in their armor?
+title: >-
+    How did Gauls use shields in battle, and what were the variations in their armor?
+article_title: >-
+    How did Gauls use shields in battle, and what were the variations in their armor?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-gauls-use-shields-in-battle-and-what-were-the-variations-in-t
 url: /learn/history-of-the-world/questions/how-did-gauls-use-shields-in-battle-and-what-were-the-variations-in-their-armor
 score: 9.0
 related_article1:
-    id: 166085
-    title: What were the primary functions of Druids in Gaulish religious practices?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-functions-of-druids-in-gaulish-religious-practices
-related_article2:
     id: 166081
-    title: Explain the significance of helmets and decorations in Gaulish battle attire.
+    title: >-
+        Explain the significance of helmets and decorations in Gaulish battle attire.
     subject: History of the World
     url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
-related_article3:
-    id: 166080
-    title: What were the typical components of everyday Gaulish clothing?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-typical-components-of-everyday-gaulish-clothing
-related_article4:
-    id: 166075
-    title: How did Gauls utilize psychological warfare in combat?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-gauls-utilize-psychological-warfare-in-combat
-related_article5:
+related_article2:
     id: 166086
-    title: How did Druids influence Gaulish society both in peace and war?
+    title: >-
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
+related_article3:
+    id: 166085
+    title: >-
+        What were the primary functions of Druids in Gaulish religious practices?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-primary-functions-of-druids-in-gaulish-religious-practices
+related_article4:
+    id: 166082
+    title: >-
+        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
+related_article5:
+    id: 166074
+    title: >-
+        What were the primary tactics used by Gauls in chariotry during battle?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
 ---
 
 &nbsp;

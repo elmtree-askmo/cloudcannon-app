@@ -2,8 +2,10 @@
 _schema: default
 id: 168594
 date: 2025-02-03
-title: What is the effect of defining a variable inside a function in terms of scope?
-article_title: What is the effect of defining a variable inside a function in terms of scope?
+title: >-
+    What is the effect of defining a variable inside a function in terms of scope?
+article_title: >-
+    What is the effect of defining a variable inside a function in terms of scope?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-
 url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 score: -1.0
 related_article1:
-    id: 168597
-    title: How can you handle a specific error type using a try...except block?
+    id: 168596
+    title: >-
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article2:
-    id: 168593
-    title: Explain the difference between local and global scope in Python.
+    id: 168596
+    title: >-
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article3:
-    id: 168609
-    title: How does inheritance contribute to reusability in object-oriented programming?
+    id: 168603
+    title: >-
+        How can custom exceptions be created in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
+    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
 related_article4:
-    id: 168590
-    title: How do you call a function with parameters in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
-related_article5:
     id: 168591
-    title: Name two common functions available in Python's math module.
+    title: >-
+        Name two common functions available in Python's math module.
     subject: Computer Science
     url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
+related_article5:
+    id: 168604
+    title: >-
+        What are some best practices for writing Python functions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169189
 date: 2025-02-04
-title: Why are projection systems important in GIS, and what is a common issue associated with them?
-article_title: Why are projection systems important in GIS, and what is a common issue associated with them?
+title: >-
+    Why are projection systems important in GIS, and what is a common issue associated with them?
+article_title: >-
+    Why are projection systems important in GIS, and what is a common issue associated with them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-projection-systems-important-in-gis-and-what-is-a-common-issu
 url: /learn/education-studies/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
 score: -1.0
 related_article1:
-    id: 169194
-    title: How can you manage visual output in Grasshopper when working with 3D models?
+    id: 169196
+    title: >-
+        How does GIS facilitate mapping techniques, particularly in layering and time representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-manage-visual-output-in-grasshopper-when-working-with-3d-models
+    url: /learn/education-studies/questions/how-does-gis-facilitate-mapping-techniques-particularly-in-layering-and-time-representation
 related_article2:
-    id: 169198
-    title: How is random number generation used in design iteration within Grasshopper?
+    id: 169195
+    title: >-
+        Why is data visualization important in GIS, and what are two common methods used?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-random-number-generation-used-in-design-iteration-within-grasshopper
+    url: /learn/education-studies/questions/why-is-data-visualization-important-in-gis-and-what-are-two-common-methods-used
 related_article3:
-    id: 169190
-    title: What is Grasshopper, and how is it related to Rhino?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-grasshopper-and-how-is-it-related-to-rhino
-related_article4:
     id: 169191
-    title: Explain the role of nodes in Grasshopper's algorithmic modeling.
+    title: >-
+        Explain the role of nodes in Grasshopper's algorithmic modeling.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
-related_article5:
-    id: 169197
-    title: What are some applications of GIS in urban design and landscape architecture?
+related_article4:
+    id: 169201
+    title: >-
+        What are the functions of digital modeling tools in mapping and data visualization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
+    url: /learn/education-studies/questions/what-are-the-functions-of-digital-modeling-tools-in-mapping-and-data-visualization
+related_article5:
+    id: 169191
+    title: >-
+        Explain the role of nodes in Grasshopper's algorithmic modeling.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
 ---
 
 &nbsp;

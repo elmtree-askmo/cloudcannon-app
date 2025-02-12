@@ -2,8 +2,10 @@
 _schema: default
 id: 165527
 date: 2025-01-29
-title: What is the role of comprehension in advanced memorization techniques?
-article_title: What is the role of comprehension in advanced memorization techniques?
+title: >-
+    What is the role of comprehension in advanced memorization techniques?
+article_title: >-
+    What is the role of comprehension in advanced memorization techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-role-of-comprehension-in-advanced-memorization-techniques
 url: /learn/education-studies/questions/what-is-the-role-of-comprehension-in-advanced-memorization-techniques
 score: -1.0
 related_article1:
+    id: 165535
+    title: >-
+        What are some ways to personalize your study environment to improve learning outcomes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-ways-to-personalize-your-study-environment-to-improve-learning-outcomes
+related_article2:
     id: 165525
-    title: What are the drawbacks of passive learning methods such as re-reading notes and highlighting textbooks?
+    title: >-
+        What are the drawbacks of passive learning methods such as re-reading notes and highlighting textbooks?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-drawbacks-of-passive-learning-methods-such-as-rereading-notes-and-highlighting-textbooks
-related_article2:
-    id: 165528
-    title: How does spaced repetition aid in encoding information into long-term memory?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-spaced-repetition-aid-in-encoding-information-into-longterm-memory
 related_article3:
-    id: 165536
-    title: What are the limitations of Anki software, and how can they be addressed?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-limitations-of-anki-software-and-how-can-they-be-addressed
-related_article4:
     id: 165526
-    title: How does active recall enhance learning compared to passive learning techniques?
+    title: >-
+        How does active recall enhance learning compared to passive learning techniques?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
-related_article5:
-    id: 165539
-    title: How do active recall techniques contribute to memory consolidation?
+related_article4:
+    id: 165525
+    title: >-
+        What are the drawbacks of passive learning methods such as re-reading notes and highlighting textbooks?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-active-recall-techniques-contribute-to-memory-consolidation
+    url: /learn/education-studies/questions/what-are-the-drawbacks-of-passive-learning-methods-such-as-rereading-notes-and-highlighting-textbooks
 ---
 
 &nbsp;

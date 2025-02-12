@@ -2,8 +2,10 @@
 _schema: default
 id: 161981
 date: 2025-01-24
-title: Explain the formation of new substances when hydrogen and oxygen react to form water.
-article_title: Explain the formation of new substances when hydrogen and oxygen react to form water.
+title: >-
+    Explain the formation of new substances when hydrogen and oxygen react to form water.
+article_title: >-
+    Explain the formation of new substances when hydrogen and oxygen react to form water.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-reac
 url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
 score: -1.0
 related_article1:
-    id: 161750
-    title: What is the role of oxygen in combustion reactions?
+    id: 162047
+    title: >-
+        How does the reactivity of hydrogen differ from that of oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+related_article2:
+    id: 161965
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
-related_article2:
-    id: 161979
-    title: How does the process of evaporation differ from freezing in terms of physical changes?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-physical-changes
 related_article3:
-    id: 162053
-    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    id: 162028
+    title: >-
+        What are the characteristics of a liquid and provide an example.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
 related_article4:
-    id: 161941
-    title: What happens during the state transition from liquid to solid?
+    id: 161936
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 related_article5:
-    id: 161757
-    title: Explain the physical change that occurs when aluminum foil is crumbled.
+    id: 162051
+    title: >-
+        How does the removal of electrons lead to ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-ionization
 ---
 
 &nbsp;

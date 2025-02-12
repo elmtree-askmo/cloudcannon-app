@@ -2,8 +2,10 @@
 _schema: default
 id: 166165
 date: 2025-01-29
-title: What are the advantages of using observational studies in environmental science?
-article_title: What are the advantages of using observational studies in environmental science?
+title: >-
+    What are the advantages of using observational studies in environmental science?
+article_title: >-
+    What are the advantages of using observational studies in environmental science?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-observational-studies-in-environment
 url: /learn/education-studies/questions/what-are-the-advantages-of-using-observational-studies-in-environmental-science
 score: -1.0
 related_article1:
-    id: 166166
-    title: How do models help in predicting environmental changes?
+    id: 166157
+    title: >-
+        What are the characteristics of a good hypothesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-models-help-in-predicting-environmental-changes
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
 related_article2:
-    id: 166161
-    title: What is the peer review process and why is it important in scientific research?
+    id: 166154
+    title: >-
+        How do sensory observations contribute to hypothesis formation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
+    url: /learn/education-studies/questions/how-do-sensory-observations-contribute-to-hypothesis-formation
 related_article3:
-    id: 166171
-    title: Why are aquatic ecosystems important for biodiversity?
+    id: 166168
+    title: >-
+        What are the main types of research methodologies used in scientific inquiry?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-aquatic-ecosystems-important-for-biodiversity
+    url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 related_article4:
-    id: 166161
-    title: What is the peer review process and why is it important in scientific research?
+    id: 166163
+    title: >-
+        How does long-term ecological research contribute to understanding climate change impacts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
+    url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
 related_article5:
-    id: 166167
-    title: What is the purpose of a meta-analysis in scientific research?
+    id: 166155
+    title: >-
+        What is inductive reasoning and how is it applied in hypothesis creation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-a-metaanalysis-in-scientific-research
+    url: /learn/education-studies/questions/what-is-inductive-reasoning-and-how-is-it-applied-in-hypothesis-creation
 ---
 
 &nbsp;

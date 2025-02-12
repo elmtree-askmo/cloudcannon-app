@@ -2,8 +2,10 @@
 _schema: default
 id: 169995
 date: 2025-02-05
-title: How does informal outlining differ from formal outlining, and what are the benefits of each?
-article_title: How does informal outlining differ from formal outlining, and what are the benefits of each?
+title: >-
+    How does informal outlining differ from formal outlining, and what are the benefits of each?
+article_title: >-
+    How does informal outlining differ from formal outlining, and what are the benefits of each?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: how-does-informal-outlining-differ-from-formal-outlining-and-what-are
 url: /learn/education-studies/questions/how-does-informal-outlining-differ-from-formal-outlining-and-what-are-the-benefits-of-each
 score: -1.0
 related_article1:
+    id: 170000
+    title: >-
+        What are the main components of an essay, and how do they contribute to its overall structure?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-components-of-an-essay-and-how-do-they-contribute-to-its-overall-structure
+related_article2:
     id: 169990
-    title: What are the key components of the writing process, and why is recursive writing important?
+    title: >-
+        What are the key components of the writing process, and why is recursive writing important?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-the-writing-process-and-why-is-recursive-writing-important
-related_article2:
-    id: 169991
-    title: How do pre-writing techniques contribute to effective planning strategies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-prewriting-techniques-contribute-to-effective-planning-strategies
 related_article3:
-    id: 170001
-    title: How can you ensure logical flow and coherence in an essay?
+    id: 170003
+    title: >-
+        Why is it important to make essays relevant to others, and how can personal experience contribute to this?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-ensure-logical-flow-and-coherence-in-an-essay
+    url: /learn/education-studies/questions/why-is-it-important-to-make-essays-relevant-to-others-and-how-can-personal-experience-contribute-to-this
 related_article4:
+    id: 170002
+    title: >-
+        How does critical thinking enhance the writing process, particularly in analyzing and reflecting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-critical-thinking-enhance-the-writing-process-particularly-in-analyzing-and-reflecting
+related_article5:
     id: 170004
-    title: What are the characteristics of formal academic essays, and why is it important to adhere to academic standards?
+    title: >-
+        What are the characteristics of formal academic essays, and why is it important to adhere to academic standards?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-characteristics-of-formal-academic-essays-and-why-is-it-important-to-adhere-to-academic-standards
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 169771
 date: 2025-02-05
-title: How do simple and complex carbohydrates differ in their impact on blood sugar levels?
-article_title: How do simple and complex carbohydrates differ in their impact on blood sugar levels?
+title: >-
+    How do simple and complex carbohydrates differ in their impact on blood sugar levels?
+article_title: >-
+    How do simple and complex carbohydrates differ in their impact on blood sugar levels?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blo
 url: /learn/nursing/questions/how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels
 score: -1.0
 related_article1:
-    id: 169779
-    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    id: 169777
+    title: >-
+        What are the World Health Organization's recommendations regarding sugar and fat intake?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+    url: /learn/nursing/questions/what-are-the-world-health-organizations-recommendations-regarding-sugar-and-fat-intake
 related_article2:
-    id: 169769
-    title: How do the World Health Organization guidelines influence nutrition and hydration practices?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
-related_article3:
-    id: 169780
-    title: What are the health implications of overweight and obesity?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
-related_article4:
     id: 169784
-    title: How can cultural and religious considerations impact individual dietary needs in patient care?
+    title: >-
+        How can cultural and religious considerations impact individual dietary needs in patient care?
     subject: Nursing
     url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
-related_article5:
-    id: 169781
-    title: What are the causes and consequences of undernutrition, and which populations are most at risk?
+related_article3:
+    id: 169786
+    title: >-
+        What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
+    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+related_article4:
+    id: 169768
+    title: >-
+        What are the key roles of nutrition and hydration in physical and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
+related_article5:
+    id: 169770
+    title: >-
+        What are the primary functions of proteins in the body, and what are some common sources?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-functions-of-proteins-in-the-body-and-what-are-some-common-sources
 ---
 
 &nbsp;

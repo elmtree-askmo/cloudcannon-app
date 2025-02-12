@@ -2,8 +2,10 @@
 _schema: default
 id: 164863
 date: 2025-01-28
-title: What are the main characteristics of implicit and explicit memory, and how do they differ?
-article_title: What are the main characteristics of implicit and explicit memory, and how do they differ?
+title: >-
+    What are the main characteristics of implicit and explicit memory, and how do they differ?
+article_title: >-
+    What are the main characteristics of implicit and explicit memory, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/what-are-the-main-characteristics-of-implicit-a
 score: -1.0
 related_article1:
     id: 164864
-    title: What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
+    title: >-
+        What neuropsychological and fMRI evidence supports the distinction between implicit and explicit memory?
     subject: Psychology
     url: /learn/psychology/questions/what-neuropsychological-and-fmri-evidence-supports-the-distinction-between-implicit-and-explicit-memory
 related_article2:
-    id: 164866
-    title: How do short-term and long-term changes in brain plasticity affect memory?
+    id: 164857
+    title: >-
+        What is the role of the hippocampus in conscious and unconscious memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+    url: /learn/psychology/questions/what-is-the-role-of-the-hippocampus-in-conscious-and-unconscious-memory
 related_article3:
-    id: 164866
-    title: How do short-term and long-term changes in brain plasticity affect memory?
+    id: 164856
+    title: >-
+        How do theories and debates address the overlaps between short-term and long-term memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-shortterm-and-longterm-changes-in-brain-plasticity-affect-memory
+    url: /learn/psychology/questions/how-do-theories-and-debates-address-the-overlaps-between-shortterm-and-longterm-memory
 related_article4:
+    id: 164870
+    title: >-
+        What research findings highlight differences in memory function among neurodivergent individuals, and what are the implications for diagnosis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-differences-in-memory-function-among-neurodivergent-individuals-and-what-are-the-implications-for-diagnosis
+related_article5:
     id: 164867
-    title: What evidence supports the functional specialization of the brain in object recognition?
+    title: >-
+        What evidence supports the functional specialization of the brain in object recognition?
     subject: Psychology
     url: /learn/psychology/questions/what-evidence-supports-the-functional-specialization-of-the-brain-in-object-recognition
-related_article5:
-    id: 164861
-    title: How does brain damage affect memory impairments, and what role does brain plasticity play in recovery?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-damage-affect-memory-impairments-and-what-role-does-brain-plasticity-play-in-recovery
 ---
 
 &nbsp;

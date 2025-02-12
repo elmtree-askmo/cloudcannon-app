@@ -2,8 +2,10 @@
 _schema: default
 id: 170329
 date: 2025-02-06
-title: What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
-article_title: What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+title: >-
+    What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+article_title: >-
+    What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-c
 url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
 score: -1.0
 related_article1:
-    id: 170338
-    title: How do plankton contribute to the food chain and the carbon cycle?
-    subject: Biology
-    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
-related_article2:
     id: 170334
-    title: Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+    title: >-
+        Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
     subject: Biology
     url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
+related_article2:
+    id: 170333
+    title: >-
+        What components make up the biosphere, and how does it interact with other spheres in the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-components-make-up-the-biosphere-and-how-does-it-interact-with-other-spheres-in-the-carbon-cycle
 related_article3:
-    id: 170328
-    title: How do carbon sinks and sources impact climate change?
+    id: 170331
+    title: >-
+        What is the role of the atmosphere in the carbon cycle, and how does carbon dioxide impact it?
     subject: Biology
-    url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
+    url: /learn/biology/questions/what-is-the-role-of-the-atmosphere-in-the-carbon-cycle-and-how-does-carbon-dioxide-impact-it
 related_article4:
-    id: 170342
-    title: What are the differences between chemical energy and light energy in ecosystems, and how are they converted?
+    id: 170330
+    title: >-
+        How does cellular respiration interact with photosynthesis in the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-differences-between-chemical-energy-and-light-energy-in-ecosystems-and-how-are-they-converted
+    url: /learn/biology/questions/how-does-cellular-respiration-interact-with-photosynthesis-in-the-carbon-cycle
 related_article5:
-    id: 170343
-    title: How do keystone species influence ecosystem dynamics and the carbon cycle?
+    id: 170335
+    title: >-
+        What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
 ---
 
 &nbsp;

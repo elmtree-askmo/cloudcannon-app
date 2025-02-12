@@ -2,8 +2,10 @@
 _schema: default
 id: 169149
 date: 2025-02-04
-title: What were the dynamics of the African workforce in urban areas concerning the labor market?
-article_title: What were the dynamics of the African workforce in urban areas concerning the labor market?
+title: >-
+    What were the dynamics of the African workforce in urban areas concerning the labor market?
+article_title: >-
+    What were the dynamics of the African workforce in urban areas concerning the labor market?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-dynamics-of-the-african-workforce-in-urban-areas-concer
 url: /learn/sociology/questions/what-were-the-dynamics-of-the-african-workforce-in-urban-areas-concerning-the-labor-market
 score: -1.0
 related_article1:
-    id: 169146
-    title: How did segregationist policies affect racial identity and residential control in Johannesburg?
+    id: 169147
+    title: >-
+        What was the impact of racial discourse on social stratification in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg
+    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
 related_article2:
     id: 169150
-    title: What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    title: >-
+        What were the main challenges in urban planning related to slum conditions in Johannesburg?
     subject: Sociology
     url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
 related_article3:
-    id: 169139
-    title: How did mining and manufacturing influence urban segregation in Johannesburg?
+    id: 169151
+    title: >-
+        How did early 20th-century legislation impact urban segregation in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-mining-and-manufacturing-influence-urban-segregation-in-johannesburg
+    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
 related_article4:
     id: 169151
-    title: How did early 20th-century legislation impact urban segregation in Johannesburg?
+    title: >-
+        How did early 20th-century legislation impact urban segregation in Johannesburg?
     subject: Sociology
     url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
 related_article5:
-    id: 169148
-    title: How did the demand for African labor influence housing policies in Johannesburg?
+    id: 169138
+    title: >-
+        What were the key factors that contributed to early urban segregation in Johannesburg?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-demand-for-african-labor-influence-housing-policies-in-johannesburg
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
 ---
 
 &nbsp;

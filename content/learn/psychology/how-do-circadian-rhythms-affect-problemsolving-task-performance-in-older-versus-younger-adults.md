@@ -2,8 +2,10 @@
 _schema: default
 id: 168066
 date: 2025-02-02
-title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
-article_title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+title: >-
+    How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+article_title: >-
+    How do circadian rhythms affect problem-solving task performance in older versus younger adults?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-circadian-rhythms-affect-problemsolving-task-performance-in-ol
 url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
 score: -1.0
 related_article1:
-    id: 168076
-    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    id: 168075
+    title: >-
+        What are the age-related differences in morning versus evening performance for cognitive tasks?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+    url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
 related_article2:
-    id: 168070
-    title: How do memorable life events during adulthood influence personal identity development?
+    id: 168067
+    title: >-
+        What is the synchrony effect and how does it relate to age-related circadian differences?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 related_article3:
-    id: 168074
-    title: How does self-awareness influence memory recall and personal memory formation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
-related_article4:
     id: 168070
-    title: How do memorable life events during adulthood influence personal identity development?
+    title: >-
+        How do memorable life events during adulthood influence personal identity development?
     subject: Psychology
     url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
-related_article5:
-    id: 168064
-    title: How do life transitions contribute to identity formation during the reminiscence bump?
+related_article4:
+    id: 168071
+    title: >-
+        Why is adolescence considered important for memory recall and adult identity formation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
+    url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
+related_article5:
+    id: 168067
+    title: >-
+        What is the synchrony effect and how does it relate to age-related circadian differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161979
 date: 2025-01-24
-title: How does the process of evaporation differ from freezing in terms of physical changes?
-article_title: How does the process of evaporation differ from freezing in terms of physical changes?
+title: >-
+    How does the process of evaporation differ from freezing in terms of physical changes?
+article_title: >-
+    How does the process of evaporation differ from freezing in terms of physical changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-
 url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-physical-changes
 score: -1.0
 related_article1:
-    id: 161992
-    title: What are the characteristics of precipitation reactions?
+    id: 161751
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-precipitation-reactions
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 related_article2:
-    id: 161941
-    title: What happens during the state transition from liquid to solid?
+    id: 161987
+    title: >-
+        What are the characteristics of a liquid state of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-during-the-state-transition-from-liquid-to-solid
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-state-of-matter
 related_article3:
-    id: 161946
-    title: What are the observable indicators of a chemical change during a precipitation reaction?
+    id: 161752
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article4:
-    id: 162040
-    title: How does the reactivity of oxygen influence its chemical properties?
+    id: 161967
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article5:
-    id: 161933
-    title: What is the role of oxygen in combustion reactions?
+    id: 161761
+    title: >-
+        What are the characteristics of a solid state of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
 ---
 
 &nbsp;

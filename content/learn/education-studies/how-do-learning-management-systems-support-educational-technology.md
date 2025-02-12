@@ -2,8 +2,10 @@
 _schema: default
 id: 165050
 date: 2025-01-28
-title: How do learning management systems support educational technology?
-article_title: How do learning management systems support educational technology?
+title: >-
+    How do learning management systems support educational technology?
+article_title: >-
+    How do learning management systems support educational technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-learning-management-systems-support-educational-technology.md
 url: /learn/education-studies/questions/how-do-learning-management-systems-support-educational-technology
 score: -1.0
 related_article1:
-    id: 165039
-    title: How is a decision tree used in the decision-making process?
+    id: 165028
+    title: >-
+        What role do programming languages play in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-decision-tree-used-in-the-decisionmaking-process
+    url: /learn/education-studies/questions/what-role-do-programming-languages-play-in-data-analysis
 related_article2:
-    id: 165040
-    title: What are the benefits of using SWOT analysis in decision-making?
+    id: 165034
+    title: >-
+        What are the key steps in result interpretation during experiment analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-swot-analysis-in-decisionmaking
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-result-interpretation-during-experiment-analysis
 related_article3:
-    id: 165040
-    title: What are the benefits of using SWOT analysis in decision-making?
+    id: 165028
+    title: >-
+        What role do programming languages play in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-swot-analysis-in-decisionmaking
+    url: /learn/education-studies/questions/what-role-do-programming-languages-play-in-data-analysis
 related_article4:
-    id: 165047
-    title: How do virtual environments contribute to simulation in demonstration techniques?
+    id: 165026
+    title: >-
+        What is the importance of data cleaning in the data analysis process?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-virtual-environments-contribute-to-simulation-in-demonstration-techniques
+    url: /learn/education-studies/questions/what-is-the-importance-of-data-cleaning-in-the-data-analysis-process
 related_article5:
-    id: 165052
-    title: What features are essential for effective course management on learning platforms?
+    id: 165033
+    title: >-
+        How is data collection executed during experimentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-features-are-essential-for-effective-course-management-on-learning-platforms
+    url: /learn/education-studies/questions/how-is-data-collection-executed-during-experimentation
 ---
 
 &nbsp;

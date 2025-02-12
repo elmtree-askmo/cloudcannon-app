@@ -2,8 +2,10 @@
 _schema: default
 id: 169757
 date: 2025-02-05
-title: What are the regulations and storage requirements for controlled drugs?
-article_title: What are the regulations and storage requirements for controlled drugs?
+title: >-
+    What are the regulations and storage requirements for controlled drugs?
+article_title: >-
+    What are the regulations and storage requirements for controlled drugs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-
 score: -1.0
 related_article1:
     id: 169747
-    title: What are some management strategies for common bowel and bladder disorders?
+    title: >-
+        What are some management strategies for common bowel and bladder disorders?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
 related_article2:
-    id: 169753
-    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    id: 169767
+    title: >-
+        How do digital and print versions of the BNF differ, and how are updates and revisions managed?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 related_article3:
+    id: 169750
+    title: >-
+        What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+related_article4:
+    id: 169751
+    title: >-
+        What role do counseling techniques and support systems play in mental health patient support?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+related_article5:
     id: 169759
-    title: How can adverse drug reactions be identified and managed effectively?
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
     subject: Nursing
     url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
-related_article4:
-    id: 169742
-    title: What are the key developmental stages in lifespan development, and how do they impact health?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
-related_article5:
-    id: 169748
-    title: What tools and techniques are used for effective pain assessment?
-    subject: Nursing
-    url: /learn/nursing/questions/what-tools-and-techniques-are-used-for-effective-pain-assessment
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161334
 date: 2025-01-24
-title: What are the different types of actuators, and how are they applied in control technologies?
-article_title: What are the different types of actuators, and how are they applied in control technologies?
+title: >-
+    What are the different types of actuators, and how are they applied in control technologies?
+article_title: >-
+    What are the different types of actuators, and how are they applied in control technologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-actuators-and-how-are-they-applied-in
 url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
 score: -1.0
 related_article1:
-    id: 161532
-    title: What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
-related_article2:
-    id: 161354
-    title: Explain the components and process involved in car park barrier systems.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-process-involved-in-car-park-barrier-systems
-related_article3:
-    id: 161350
-    title: Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
-    subject: Computer Science
-    url: /learn/computer-science/questions/identify-the-sensors-and-actuators-used-in-greenhouse-environment-control-and-explain-the-feedback-mechanism-involved
-related_article4:
-    id: 161514
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+    id: 161329
+    title: >-
+        Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
-related_article5:
-    id: 161335
-    title: Define real-time processing and explain its importance in control systems.
+related_article2:
+    id: 161342
+    title: >-
+        What is one-point calibration, and what are its applications and limitations?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems
+    url: /learn/computer-science/questions/what-is-onepoint-calibration-and-what-are-its-applications-and-limitations
+related_article3:
+    id: 161532
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
+related_article4:
+    id: 161347
+    title: >-
+        What types of sensors are typically used in weather stations, and how is data collected and processed?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-sensors-are-typically-used-in-weather-stations-and-how-is-data-collected-and-processed
+related_article5:
+    id: 161343
+    title: >-
+        How does two-point calibration differ from one-point calibration, and what are its benefits?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
 ---
 
 &nbsp;

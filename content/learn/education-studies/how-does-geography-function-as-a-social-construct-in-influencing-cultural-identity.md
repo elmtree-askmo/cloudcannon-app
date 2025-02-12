@@ -2,8 +2,10 @@
 _schema: default
 id: 165916
 date: 2025-01-29
-title: How does geography function as a social construct in influencing cultural identity?
-article_title: How does geography function as a social construct in influencing cultural identity?
+title: >-
+    How does geography function as a social construct in influencing cultural identity?
+article_title: >-
+    How does geography function as a social construct in influencing cultural identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-geography-function-as-a-social-construct-in-influencing-cult
 url: /learn/education-studies/questions/how-does-geography-function-as-a-social-construct-in-influencing-cultural-identity
 score: -1.0
 related_article1:
-    id: 165909
-    title: How do arts and humanities contribute to the development of critical thinking skills?
+    id: 165914
+    title: >-
+        How can students effectively balance study and personal life through time management?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-arts-and-humanities-contribute-to-the-development-of-critical-thinking-skills
+    url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
 related_article2:
-    id: 165912
-    title: What is the relationship between language, communication, and social structures?
+    id: 165914
+    title: >-
+        How can students effectively balance study and personal life through time management?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-language-communication-and-social-structures
+    url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
 related_article3:
     id: 165908
-    title: What are the stages of academic progression in independent research?
+    title: >-
+        What are the stages of academic progression in independent research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-stages-of-academic-progression-in-independent-research
 related_article4:
     id: 165912
-    title: What is the relationship between language, communication, and social structures?
+    title: >-
+        What is the relationship between language, communication, and social structures?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-relationship-between-language-communication-and-social-structures
 related_article5:
-    id: 165917
-    title: What are the psychological aspects of learning that impact political and economic systems?
+    id: 165912
+    title: >-
+        What is the relationship between language, communication, and social structures?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-psychological-aspects-of-learning-that-impact-political-and-economic-systems
+    url: /learn/education-studies/questions/what-is-the-relationship-between-language-communication-and-social-structures
 ---
 
 &nbsp;

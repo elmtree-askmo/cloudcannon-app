@@ -2,8 +2,10 @@
 _schema: default
 id: 170476
 date: 2025-02-06
-title: What is the clinical significance of the dura mater in the meninges?
-article_title: What is the clinical significance of the dura mater in the meninges?
+title: >-
+    What is the clinical significance of the dura mater in the meninges?
+article_title: >-
+    What is the clinical significance of the dura mater in the meninges?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges.m
 url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
 score: -1.0
 related_article1:
-    id: 170462
-    title: What are the main functions of the cerebrum, diencephalon, and brainstem?
+    id: 170470
+    title: >-
+        What role do dopaminergic pathways play in Parkinson's disease?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
+    url: /learn/psychology/questions/what-role-do-dopaminergic-pathways-play-in-parkinsons-disease
 related_article2:
+    id: 170461
+    title: >-
+        How do gyri and sulci contribute to brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-gyri-and-sulci-contribute-to-brain-function
+related_article3:
     id: 170466
-    title: How do dorsal and ventral orientations differ in brain anatomy?
+    title: >-
+        How do dorsal and ventral orientations differ in brain anatomy?
     subject: Psychology
     url: /learn/psychology/questions/how-do-dorsal-and-ventral-orientations-differ-in-brain-anatomy
-related_article3:
-    id: 170484
-    title: How did Brodmann areas contribute to the understanding of brain mapping?
-    subject: Psychology
-    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
 related_article4:
-    id: 170474
-    title: What are the primary functions of the olfactory and optic nerves?
+    id: 170472
+    title: >-
+        What is the function of the amygdala in emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
+    url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
 related_article5:
-    id: 170463
-    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    id: 170462
+    title: >-
+        What are the main functions of the cerebrum, diencephalon, and brainstem?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
 ---
 
 &nbsp;

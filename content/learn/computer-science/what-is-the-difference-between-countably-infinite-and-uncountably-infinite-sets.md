@@ -2,8 +2,10 @@
 _schema: default
 id: 161281
 date: 2025-01-24
-title: What is the difference between countably infinite and uncountably infinite sets?
-article_title: What is the difference between countably infinite and uncountably infinite sets?
+title: >-
+    What is the difference between countably infinite and uncountably infinite sets?
+article_title: >-
+    What is the difference between countably infinite and uncountably infinite sets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-countably-infinite-and-uncountably-inf
 url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
 score: -1.0
 related_article1:
-    id: 161100
-    title: Describe the method of proof by contradiction and its application in mathematical proofs.
+    id: 161091
+    title: >-
+        What role does abstraction play in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-method-of-proof-by-contradiction-and-its-application-in-mathematical-proofs
+    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-algorithm-design
 related_article2:
-    id: 160963
-    title: What is the significance of the P vs NP problem in computational theory?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article3:
-    id: 161088
-    title: How does the representation of an algorithm impact its complexity?
+    id: 161103
+    title: >-
+        Explain the significance of the traveling salesman problem in the context of NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-representation-of-an-algorithm-impact-its-complexity
+    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
 related_article4:
-    id: 160816
-    title: What is the significance of the P vs NP problem in computational theory?
+    id: 161099
+    title: >-
+        What are the mathematical implications of infinite sets in set theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
+    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
 related_article5:
-    id: 161147
-    title: How do infinite sets impact computability and set theory?
+    id: 161129
+    title: >-
+        How does abstraction aid in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
+    url: /learn/computer-science/questions/how-does-abstraction-aid-in-algorithm-design
 ---
 
 &nbsp;

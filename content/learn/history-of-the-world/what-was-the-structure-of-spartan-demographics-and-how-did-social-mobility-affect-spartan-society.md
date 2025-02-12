@@ -2,8 +2,10 @@
 _schema: default
 id: 163605
 date: 2025-01-27
-title: What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
-article_title: What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+title: >-
+    What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+article_title: >-
+    What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-structure-of-spartan-demographics-and-how-did-social-mob
 url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
 score: 9.0
 related_article1:
-    id: 163591
-    title: How did Sparta's urban development compare to that of Athens?
+    id: 163588
+    title: >-
+        What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
+    url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
 related_article2:
-    id: 163586
-    title: What are some challenges in pronouncing Greek terms when using the Latin alphabet?
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
 related_article3:
     id: 163590
-    title: What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+    title: >-
+        What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
 related_article4:
-    id: 163597
-    title: Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
+    id: 163589
+    title: >-
+        How did non-Spartan authors contribute to the skewed perception of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
+    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
 related_article5:
-    id: 163591
-    title: How did Sparta's urban development compare to that of Athens?
+    id: 163599
+    title: >-
+        How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
+    url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
 ---
 
 &nbsp;

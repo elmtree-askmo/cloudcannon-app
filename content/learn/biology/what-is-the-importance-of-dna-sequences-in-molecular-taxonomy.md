@@ -2,8 +2,10 @@
 _schema: default
 id: 165811
 date: 2025-01-29
-title: What is the importance of DNA sequences in molecular taxonomy?
-article_title: What is the importance of DNA sequences in molecular taxonomy?
+title: >-
+    What is the importance of DNA sequences in molecular taxonomy?
+article_title: >-
+    What is the importance of DNA sequences in molecular taxonomy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-dna-sequences-in-molecular-taxonomy.md
 url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
 score: -1.0
 related_article1:
-    id: 165817
-    title: How do parasites evade the host's immune system?
-    subject: Biology
-    url: /learn/biology/questions/how-do-parasites-evade-the-hosts-immune-system
-related_article2:
-    id: 165818
-    title: Differentiate between endoparasites and ectoparasites.
-    subject: Biology
-    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
-related_article3:
-    id: 165813
-    title: How do parasites acquire nutrients from their hosts?
-    subject: Biology
-    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
-related_article4:
-    id: 165825
-    title: What are the differences between asexual and sexual reproduction in parasites?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
-related_article5:
     id: 165823
-    title: How does zoonosis affect epidemiology?
+    title: >-
+        How does zoonosis affect epidemiology?
     subject: Biology
     url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
+related_article2:
+    id: 165824
+    title: >-
+        Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
+related_article3:
+    id: 165808
+    title: >-
+        Provide an example of taxonomic classification for a specific organism.
+    subject: Biology
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+related_article4:
+    id: 165812
+    title: >-
+        Explain the role of cytochrome C oxidase in molecular classification.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-role-of-cytochrome-c-oxidase-in-molecular-classification
+related_article5:
+    id: 165824
+    title: >-
+        Compare and contrast macroepidemiology and microepidemiology.
+    subject: Biology
+    url: /learn/biology/questions/compare-and-contrast-macroepidemiology-and-microepidemiology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170210
 date: 2025-02-06
-title: Explain the concept of negation and its application in logical statements.
-article_title: Explain the concept of negation and its application in logical statements.
+title: >-
+    Explain the concept of negation and its application in logical statements.
+article_title: >-
+    Explain the concept of negation and its application in logical statements.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-negation-and-its-application-in-logical-statem
 url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
 score: -1.0
 related_article1:
-    id: 170213
-    title: What constitutes a logical argument and how is logical implication involved?
+    id: 170202
+    title: >-
+        How can truth tables be used to determine logical equivalency?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
+    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 related_article2:
-    id: 170213
-    title: What constitutes a logical argument and how is logical implication involved?
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 related_article3:
     id: 170217
-    title: What is a logical implication and how is it used in logical arguments?
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 related_article4:
-    id: 170213
-    title: What constitutes a logical argument and how is logical implication involved?
+    id: 170215
+    title: >-
+        What is the structure of propositional arguments and how are hypotheses involved?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-constitutes-a-logical-argument-and-how-is-logical-implication-involved
+    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
 related_article5:
-    id: 170212
-    title: State De Morgan’s Laws and provide an example of their application.
+    id: 170204
+    title: >-
+        Explain the associative laws with an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
+    url: /learn/mathematics/questions/explain-the-associative-laws-with-an-example
 ---
 
 &nbsp;

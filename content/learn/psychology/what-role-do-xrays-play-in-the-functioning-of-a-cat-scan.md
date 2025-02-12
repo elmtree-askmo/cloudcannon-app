@@ -2,8 +2,10 @@
 _schema: default
 id: 164349
 date: 2025-01-28
-title: What role do X-rays play in the functioning of a CAT scan?
-article_title: What role do X-rays play in the functioning of a CAT scan?
+title: >-
+    What role do X-rays play in the functioning of a CAT scan?
+article_title: >-
+    What role do X-rays play in the functioning of a CAT scan?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-xrays-play-in-the-functioning-of-a-cat-scan.md
 url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
 score: -1.0
 related_article1:
-    id: 164348
-    title: Describe the process of patient preparation for an MRI scan.
+    id: 164353
+    title: >-
+        Identify the structural components of the brain and their significance.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
 related_article2:
-    id: 164355
-    title: Compare the advantages of MRI over CAT scans.
+    id: 164350
+    title: >-
+        Explain the significance of tissue density analysis in CAT scans.
     subject: Psychology
-    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
 related_article3:
-    id: 164355
-    title: Compare the advantages of MRI over CAT scans.
+    id: 164352
+    title: >-
+        What is the importance of functional imaging in measuring blood flow?
     subject: Psychology
-    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+    url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
 related_article4:
-    id: 164355
-    title: Compare the advantages of MRI over CAT scans.
+    id: 164358
+    title: >-
+        What are the challenges associated with radiation exposure in medical imaging?
     subject: Psychology
-    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
 related_article5:
-    id: 164345
-    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
+    id: 164350
+    title: >-
+        Explain the significance of tissue density analysis in CAT scans.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
+    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
 ---
 
 &nbsp;

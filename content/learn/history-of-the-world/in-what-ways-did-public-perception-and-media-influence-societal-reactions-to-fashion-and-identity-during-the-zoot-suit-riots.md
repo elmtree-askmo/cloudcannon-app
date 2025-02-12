@@ -2,8 +2,10 @@
 _schema: default
 id: 161747
 date: 2025-01-24
-title: In what ways did public perception and media influence societal reactions to fashion and identity during the Zoot Suit Riots?
-article_title: In what ways did public perception and media influence societal reactions to fashion and identity during the Zoot Suit Riots?
+title: >-
+    In what ways did public perception and media influence societal reactions to fashion and identity during the Zoot Suit Riots?
+article_title: >-
+    In what ways did public perception and media influence societal reactions to fashion and identity during the Zoot Suit Riots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: in-what-ways-did-public-perception-and-media-influence-societal-react
 url: /learn/history-of-the-world/questions/in-what-ways-did-public-perception-and-media-influence-societal-reactions-to-fashion-and-identity-during-the-zoot-suit-riots
 score: 9.0
 related_article1:
-    id: 161748
-    title: What was the significance of the Sleepy Lagoon Murder Case in the context of the Zoot Suit Riots?
+    id: 161743
+    title: >-
+        What role did racial bias in the legal system play during the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-sleepy-lagoon-murder-case-in-the-context-of-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/what-role-did-racial-bias-in-the-legal-system-play-during-the-zoot-suit-riots
 related_article2:
-    id: 161749
-    title: How did the Zoot Suit Riots leave a legacy and impact historical memory?
+    id: 161745
+    title: >-
+        What were the societal prejudices against zoot suiters that fueled historical racism during the riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-zoot-suit-riots-leave-a-legacy-and-impact-historical-memory
+    url: /learn/history-of-the-world/questions/what-were-the-societal-prejudices-against-zoot-suiters-that-fueled-historical-racism-during-the-riots
 related_article3:
-    id: 161741
-    title: What limitations did Mexican-American youth face in expressing their cultural identity during the Zoot Suit Riots?
+    id: 161744
+    title: >-
+        How did Mexican-American youth resist and organize against racial discrimination during the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-limitations-did-mexicanamerican-youth-face-in-expressing-their-cultural-identity-during-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/how-did-mexicanamerican-youth-resist-and-organize-against-racial-discrimination-during-the-zoot-suit-riots
 related_article4:
-    id: 161746
-    title: How did the targeting of Mexican neighborhoods impact community dynamics during the Zoot Suit Riots?
+    id: 161736
+    title: >-
+        What were the main causes of daily skirmishes between sailors and zoot suiters during the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-targeting-of-mexican-neighborhoods-impact-community-dynamics-during-the-zoot-suit-riots
-related_article5:
-    id: 161741
-    title: What limitations did Mexican-American youth face in expressing their cultural identity during the Zoot Suit Riots?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-limitations-did-mexicanamerican-youth-face-in-expressing-their-cultural-identity-during-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-of-daily-skirmishes-between-sailors-and-zoot-suiters-during-the-zoot-suit-riots
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166388
 date: 2025-01-30
-title: How do phylogenetic trees help in understanding evolutionary relationships among species?
-article_title: How do phylogenetic trees help in understanding evolutionary relationships among species?
+title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships among species?
+article_title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships among species?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: how-do-phylogenetic-trees-help-in-understanding-evolutionary-relation
 url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
 score: -1.0
 related_article1:
-    id: 166384
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    id: 166385
+    title: >-
+        What are the different types of selection, and how do they affect allele frequencies in a population?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+    url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 related_article2:
     id: 166383
-    title: How is fitness defined and measured in the context of animal behavior?
+    title: >-
+        How is fitness defined and measured in the context of animal behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
 related_article3:
-    id: 166393
-    title: What are the effects of sensory input and integration on animal behavior?
+    id: 166375
+    title: >-
+        How do behavioral adaptations enhance an animal's survival and reproduction?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
-related_article4:
-    id: 166384
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
-related_article5:
-    id: 166377
-    title: Differentiate between proximate and ultimate questions in the context of animal behavior.
-    subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
 ---
 
 &nbsp;

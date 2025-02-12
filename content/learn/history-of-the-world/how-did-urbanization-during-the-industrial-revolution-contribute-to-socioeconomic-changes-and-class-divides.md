@@ -2,8 +2,10 @@
 _schema: default
 id: 163981
 date: 2025-01-28
-title: How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
-article_title: How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
+title: >-
+    How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
+article_title: >-
+    How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-urbanization-during-the-industrial-revolution-contribute-to-s
 url: /learn/history-of-the-world/questions/how-did-urbanization-during-the-industrial-revolution-contribute-to-socioeconomic-changes-and-class-divides
 score: 9.0
 related_article1:
-    id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    id: 163995
+    title: >-
+        How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
 related_article2:
+    id: 163990
+    title: >-
+        What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
+related_article3:
+    id: 163990
+    title: >-
+        What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
+related_article4:
+    id: 163995
+    title: >-
+        How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
+related_article5:
     id: 163985
-    title: What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
+    title: >-
+        What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-victorian-sensibilities-play-in-shaping-museum-culture-particularly-in-terms-of-moral-values-and-public-education
-related_article3:
-    id: 163982
-    title: In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
-related_article4:
-    id: 163986
-    title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
-related_article5:
-    id: 163992
-    title: How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherness-and-create-an-ideological-space
 ---
 
 &nbsp;

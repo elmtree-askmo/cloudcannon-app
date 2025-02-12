@@ -2,8 +2,10 @@
 _schema: default
 id: 165210
 date: 2025-01-28
-title: What are the primary benefits of conducting a randomized control trial?
-article_title: What are the primary benefits of conducting a randomized control trial?
+title: >-
+    What are the primary benefits of conducting a randomized control trial?
+article_title: >-
+    What are the primary benefits of conducting a randomized control trial?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-primary-benefits-of-conducting-a-randomized-control-tria
 url: /learn/psychology/questions/what-are-the-primary-benefits-of-conducting-a-randomized-control-trial
 score: -1.0
 related_article1:
-    id: 165221
-    title: What techniques can be used for effective abstract analysis?
+    id: 165218
+    title: >-
+        What is semantic analysis and how does it enhance data interpretation in research?
     subject: Psychology
-    url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
+    url: /learn/psychology/questions/what-is-semantic-analysis-and-how-does-it-enhance-data-interpretation-in-research
 related_article2:
-    id: 165221
-    title: What techniques can be used for effective abstract analysis?
+    id: 165215
+    title: >-
+        What are the common steps involved in conducting a literature review?
     subject: Psychology
-    url: /learn/psychology/questions/what-techniques-can-be-used-for-effective-abstract-analysis
+    url: /learn/psychology/questions/what-are-the-common-steps-involved-in-conducting-a-literature-review
 related_article3:
     id: 165223
-    title: What is the word length effect and how does it impact memory research?
+    title: >-
+        What is the word length effect and how does it impact memory research?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
 related_article4:
-    id: 165224
-    title: How is FITS Law relevant in psychology and what are its applications?
+    id: 165223
+    title: >-
+        What is the word length effect and how does it impact memory research?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-fits-law-relevant-in-psychology-and-what-are-its-applications
+    url: /learn/psychology/questions/what-is-the-word-length-effect-and-how-does-it-impact-memory-research
 related_article5:
     id: 165214
-    title: What is the primary purpose of conducting a literature review in research?
+    title: >-
+        What is the primary purpose of conducting a literature review in research?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
 ---

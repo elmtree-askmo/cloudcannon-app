@@ -2,8 +2,10 @@
 _schema: default
 id: 165926
 date: 2025-01-29
-title: What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
-article_title: What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
+title: >-
+    What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
+article_title: >-
+    What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-architectural-features-and-engineering-challenges-assoc
 url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
 score: 9.5
 related_article1:
+    id: 165938
+    title: >-
+        How has the Fons Americanus been interpreted and critiqued by the public and critics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
+related_article2:
+    id: 165929
+    title: >-
+        What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
+related_article3:
+    id: 165932
+    title: >-
+        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
+related_article4:
+    id: 165920
+    title: >-
+        What were the main objectives and goals of the initial conceptualization of the Great Exhibition?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-objectives-and-goals-of-the-initial-conceptualization-of-the-great-exhibition
+related_article5:
     id: 165933
-    title: What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
+    title: >-
+        What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-logistical-challenges-faced-during-the-planning-and-organization-of-the-great-exhibition-of-1851
-related_article2:
-    id: 165928
-    title: What influence did the 1844 Paris Industry Exposition have on future exhibitions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-influence-did-the-1844-paris-industry-exposition-have-on-future-exhibitions
-related_article3:
-    id: 165928
-    title: What influence did the 1844 Paris Industry Exposition have on future exhibitions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-influence-did-the-1844-paris-industry-exposition-have-on-future-exhibitions
-related_article4:
-    id: 165937
-    title: What themes and artistic techniques are explored in the Fons Americanus?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
-related_article5:
-    id: 165927
-    title: How was the Crystal Palace received by the public during the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
 ---
 
 &nbsp;

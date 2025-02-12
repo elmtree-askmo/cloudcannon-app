@@ -2,8 +2,10 @@
 _schema: default
 id: 163873
 date: 2025-01-28
-title: What are the key factors that influence interpersonal relationships among Greek gods?
-article_title: What are the key factors that influence interpersonal relationships among Greek gods?
+title: >-
+    What are the key factors that influence interpersonal relationships among Greek gods?
+article_title: >-
+    What are the key factors that influence interpersonal relationships among Greek gods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-factors-that-influence-interpersonal-relationships-a
 url: /learn/art-history-and-literature/questions/what-are-the-key-factors-that-influence-interpersonal-relationships-among-greek-gods
 score: 9.0
 related_article1:
-    id: 163886
-    title: What is the role of inventions in mythological stories?
+    id: 163876
+    title: >-
+        How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
+    url: /learn/art-history-and-literature/questions/how-does-shapeshifting-contribute-to-the-cunning-nature-of-trickster-gods-in-mythology
 related_article2:
+    id: 163874
+    title: >-
+        How do familial ties among gods reflect human-like interactions in Greek mythology?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-familial-ties-among-gods-reflect-humanlike-interactions-in-greek-mythology
+related_article3:
+    id: 163885
+    title: >-
+        How do common themes in myths connect different cultures?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-common-themes-in-myths-connect-different-cultures
+related_article4:
+    id: 163878
+    title: >-
+        How is fire portrayed in Greek mythology, and what roles does it play?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play
+related_article5:
     id: 163887
-    title: How do trickster gods use humor to impact mythological narratives?
+    title: >-
+        How do trickster gods use humor to impact mythological narratives?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
-related_article3:
-    id: 163875
-    title: What are the defining characteristics of Hermes as a trickster god?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-hermes-as-a-trickster-god
-related_article4:
-    id: 163882
-    title: In what ways do myths reflect power struggles and their resolutions?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-do-myths-reflect-power-struggles-and-their-resolutions
-related_article5:
-    id: 163879
-    title: How do inventions in mythology symbolize human advancement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-inventions-in-mythology-symbolize-human-advancement
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165233
 date: 2025-01-28
-title: Why are STEM skills important for students studying organic chemistry?
-article_title: Why are STEM skills important for students studying organic chemistry?
+title: >-
+    Why are STEM skills important for students studying organic chemistry?
+article_title: >-
+    Why are STEM skills important for students studying organic chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-stem-skills-important-for-students-studying-organic-chemistry
 url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
 score: -1.0
 related_article1:
+    id: 165244
+    title: >-
+        What are the key steps in designing a cognitive experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
+related_article2:
+    id: 165227
+    title: >-
+        How does playing Tetris improve spatial reasoning skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
+related_article3:
+    id: 165237
+    title: >-
+        How does FITS law relate to task complexity and reaction time in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
+related_article4:
+    id: 165235
+    title: >-
+        How is SciToolkit used in data analysis for psychological research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
+related_article5:
     id: 165238
-    title: What statistical tools are commonly used in cognitive psychology data analysis?
+    title: >-
+        What statistical tools are commonly used in cognitive psychology data analysis?
     subject: Psychology
     url: /learn/psychology/questions/what-statistical-tools-are-commonly-used-in-cognitive-psychology-data-analysis
-related_article2:
-    id: 165241
-    title: What factors influence the complexity levels in cognitive task design?
-    subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
-related_article3:
-    id: 165231
-    title: How is spatial reasoning applied in real-world tasks like parking and packing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
-related_article4:
-    id: 165232
-    title: What role does molecular visualization play in understanding organic chemistry?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-molecular-visualization-play-in-understanding-organic-chemistry
-related_article5:
-    id: 165230
-    title: What cognitive skills are essential for effective spatial reasoning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
 ---
 
 &nbsp;

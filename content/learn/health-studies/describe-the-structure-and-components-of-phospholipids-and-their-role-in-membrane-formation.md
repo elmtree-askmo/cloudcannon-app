@@ -2,8 +2,10 @@
 _schema: default
 id: 168948
 date: 2025-02-04
-title: Describe the structure and components of phospholipids and their role in membrane formation.
-article_title: Describe the structure and components of phospholipids and their role in membrane formation.
+title: >-
+    Describe the structure and components of phospholipids and their role in membrane formation.
+article_title: >-
+    Describe the structure and components of phospholipids and their role in membrane formation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-and-components-of-phospholipids-and-their-role
 url: /learn/health-studies/questions/describe-the-structure-and-components-of-phospholipids-and-their-role-in-membrane-formation
 score: -1.0
 related_article1:
-    id: 168946
-    title: Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
+    id: 168960
+    title: >-
+        Define endocytosis and exocytosis and explain their roles in cellular transport.
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-structurefunction-relationship-in-biomolecules-and-how-it-relates-to-their-levels-of-structure
+    url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
 related_article2:
-    id: 168956
-    title: How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
+    id: 168951
+    title: >-
+        Explain the fluid mosaic model of membrane structure and its significance in cellular function.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-specificity-and-saturation-in-this-context
+    url: /learn/health-studies/questions/explain-the-fluid-mosaic-model-of-membrane-structure-and-its-significance-in-cellular-function
 related_article3:
-    id: 168958
-    title: Describe the mechanism and function of the sodium-potassium pump in active transport.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-active-transport
-related_article4:
-    id: 168944
-    title: What are the key functional groups found in biomolecules, and how do they influence molecular properties?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-they-influence-molecular-properties
-related_article5:
     id: 168949
-    title: How do saturated and unsaturated fatty acids influence membrane fluidity?
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
+related_article4:
+    id: 168945
+    title: >-
+        How do polar and non-polar groups affect the solubility and interaction of biomolecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
+related_article5:
+    id: 168946
+    title: >-
+        Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-structurefunction-relationship-in-biomolecules-and-how-it-relates-to-their-levels-of-structure
 ---
 
 &nbsp;

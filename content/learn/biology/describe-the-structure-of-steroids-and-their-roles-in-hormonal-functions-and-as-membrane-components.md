@@ -2,8 +2,10 @@
 _schema: default
 id: 167212
 date: 2025-01-31
-title: Describe the structure of steroids and their roles in hormonal functions and as membrane components.
-article_title: Describe the structure of steroids and their roles in hormonal functions and as membrane components.
+title: >-
+    Describe the structure of steroids and their roles in hormonal functions and as membrane components.
+article_title: >-
+    Describe the structure of steroids and their roles in hormonal functions and as membrane components.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: describe-the-structure-of-steroids-and-their-roles-in-hormonal-functi
 url: /learn/biology/questions/describe-the-structure-of-steroids-and-their-roles-in-hormonal-functions-and-as-membrane-components
 score: -1.0
 related_article1:
-    id: 167208
-    title: What are the biological functions of proteins, nucleic acids, and carbohydrates?
+    id: 167202
+    title: >-
+        What is the difference between saturated and unsaturated fatty acids in terms of molecular structure?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-biological-functions-of-proteins-nucleic-acids-and-carbohydrates
+    url: /learn/biology/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-molecular-structure
 related_article2:
-    id: 167207
-    title: How do peptide bonds, glycosidic bonds, and phosphodiester bonds contribute to the structure of biomolecules?
+    id: 167200
+    title: >-
+        What are the main structural components of fats, phospholipids, and steroids, and how do these structures relate to their functions?
     subject: Biology
-    url: /learn/biology/questions/how-do-peptide-bonds-glycosidic-bonds-and-phosphodiester-bonds-contribute-to-the-structure-of-biomolecules
+    url: /learn/biology/questions/what-are-the-main-structural-components-of-fats-phospholipids-and-steroids-and-how-do-these-structures-relate-to-their-functions
 related_article3:
     id: 167211
-    title: What are the structural components of phospholipids, and how do they contribute to membrane formation?
+    title: >-
+        What are the structural components of phospholipids, and how do they contribute to membrane formation?
     subject: Biology
     url: /learn/biology/questions/what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation
 related_article4:
     id: 167211
-    title: What are the structural components of phospholipids, and how do they contribute to membrane formation?
+    title: >-
+        What are the structural components of phospholipids, and how do they contribute to membrane formation?
     subject: Biology
     url: /learn/biology/questions/what-are-the-structural-components-of-phospholipids-and-how-do-they-contribute-to-membrane-formation
 related_article5:
     id: 167209
-    title: How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
+    title: >-
+        How do the chemical properties of biological molecules impact their function, particularly in terms of structure and shape?
     subject: Biology
     url: /learn/biology/questions/how-do-the-chemical-properties-of-biological-molecules-impact-their-function-particularly-in-terms-of-structure-and-shape
 ---

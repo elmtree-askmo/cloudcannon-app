@@ -2,8 +2,10 @@
 _schema: default
 id: 161700
 date: 2025-01-24
-title: What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
-article_title: What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
+title: >-
+    What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
+article_title: >-
+    What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-
 url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
 score: -1.0
 related_article1:
-    id: 161506
-    title: What is a parity check and what are its limitations in error detection?
+    id: 161694
+    title: >-
+        What is the difference between symmetric and asymmetric encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
+    url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
 related_article2:
-    id: 161706
-    title: What are the main components of an information system, and how do they interact?
+    id: 161427
+    title: >-
+        What is the difference between data and information, and why is raw data considered meaningless?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
+related_article3:
+    id: 161433
+    title: >-
+        What factors influence the relevance of information, and why is it important?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+related_article4:
+    id: 161505
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
+related_article5:
+    id: 161450
+    title: >-
+        What are the main components of an information system, and how do they interact?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
-related_article3:
-    id: 161429
-    title: What are the main characteristics of direct data, and what are its advantages and disadvantages?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
-related_article4:
-    id: 161492
-    title: How does indirect data differ from direct data and what are its potential uses?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-its-potential-uses
-related_article5:
-    id: 161437
-    title: What are the risks associated with data transmission, and how does encryption mitigate these risks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160384
 date: 2025-01-24
-title: What are the key features of Celtic metalwork and jewelry?
-article_title: What are the key features of Celtic metalwork and jewelry?
+title: >-
+    What are the key features of Celtic metalwork and jewelry?
+article_title: >-
+    What are the key features of Celtic metalwork and jewelry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-features-of-celtic-metalwork-and-jewelry.md
 url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
 score: 9.0
 related_article1:
-    id: 159908
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 159926
+    title: >-
+        How did geography influence the cultural development and migration patterns of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
 related_article2:
-    id: 159891
-    title: What were the primary military tactics and weaponry used by the Celts?
+    id: 159924
+    title: >-
+        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
+    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
 related_article3:
-    id: 159912
-    title: How have Celtic languages influenced modern European languages?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
-related_article4:
-    id: 160261
-    title: How have the Celts contributed to European heritage and modern perceptions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
-related_article5:
-    id: 159917
-    title: What was the tribal organization and social hierarchy in Celtic society?
+    id: 160250
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+related_article4:
+    id: 160178
+    title: >-
+        What were the key trading centers in Celtic trade networks?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+related_article5:
+    id: 160376
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 ---
 
 &nbsp;

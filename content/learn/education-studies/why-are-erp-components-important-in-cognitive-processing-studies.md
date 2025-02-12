@@ -2,8 +2,10 @@
 _schema: default
 id: 164510
 date: 2025-01-28
-title: Why are ERP components important in cognitive processing studies?
-article_title: Why are ERP components important in cognitive processing studies?
+title: >-
+    Why are ERP components important in cognitive processing studies?
+article_title: >-
+    Why are ERP components important in cognitive processing studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-erp-components-important-in-cognitive-processing-studies.md
 url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
 score: -1.0
 related_article1:
-    id: 164512
-    title: How does Wernicke's aphasia affect speech comprehension?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
-related_article2:
     id: 164508
-    title: How does TMS contribute to understanding vision and motion detection?
+    title: >-
+        How does TMS contribute to understanding vision and motion detection?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
+related_article2:
+    id: 164513
+    title: >-
+        What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
 related_article3:
-    id: 164522
-    title: Which brain regions are involved in speech production, and how does aphasia affect this process?
+    id: 164526
+    title: >-
+        What contributions have neuroimaging studies made to understanding aphasia in language processing research?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-brain-regions-are-involved-in-speech-production-and-how-does-aphasia-affect-this-process
+    url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
 related_article4:
-    id: 164526
-    title: What contributions have neuroimaging studies made to understanding aphasia in language processing research?
+    id: 164514
+    title: >-
+        How does damage to anterior language regions impact syntax processing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
+    url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
 related_article5:
-    id: 164526
-    title: What contributions have neuroimaging studies made to understanding aphasia in language processing research?
+    id: 164513
+    title: >-
+        What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
+    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
 ---
 
 &nbsp;

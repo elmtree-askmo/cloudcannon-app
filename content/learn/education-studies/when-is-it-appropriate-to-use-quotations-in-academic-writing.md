@@ -2,8 +2,10 @@
 _schema: default
 id: 168676
 date: 2025-02-03
-title: When is it appropriate to use quotations in academic writing?
-article_title: When is it appropriate to use quotations in academic writing?
+title: >-
+    When is it appropriate to use quotations in academic writing?
+article_title: >-
+    When is it appropriate to use quotations in academic writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: when-is-it-appropriate-to-use-quotations-in-academic-writing.md
 url: /learn/education-studies/questions/when-is-it-appropriate-to-use-quotations-in-academic-writing
 score: -1.0
 related_article1:
+    id: 168663
+    title: >-
+        What are the key differences between APA style and other citation styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-apa-style-and-other-citation-styles
+related_article2:
     id: 168667
-    title: What are the main components of an APA references page?
+    title: >-
+        What are the main components of an APA references page?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-components-of-an-apa-references-page
-related_article2:
-    id: 168679
-    title: What factors should be considered when determining when to cite a source?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-determining-when-to-cite-a-source
 related_article3:
-    id: 168675
-    title: How do citations support arguments in academic writing?
+    id: 168671
+    title: >-
+        How can standardized presentation enhance the clarity of research documentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-citations-support-arguments-in-academic-writing
+    url: /learn/education-studies/questions/how-can-standardized-presentation-enhance-the-clarity-of-research-documentation
 related_article4:
-    id: 168678
-    title: How can one efficiently organize references using citation management software?
+    id: 168665
+    title: >-
+        What is the purpose of in-text citations in APA style?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-efficiently-organize-references-using-citation-management-software
+    url: /learn/education-studies/questions/what-is-the-purpose-of-intext-citations-in-apa-style
 related_article5:
-    id: 168674
-    title: How does giving credit to original sources enhance citation integrity?
+    id: 168666
+    title: >-
+        How do parenthetical citations differ from narrative style citations in APA format?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-giving-credit-to-original-sources-enhance-citation-integrity
+    url: /learn/education-studies/questions/how-do-parenthetical-citations-differ-from-narrative-style-citations-in-apa-format
 ---
 
 &nbsp;

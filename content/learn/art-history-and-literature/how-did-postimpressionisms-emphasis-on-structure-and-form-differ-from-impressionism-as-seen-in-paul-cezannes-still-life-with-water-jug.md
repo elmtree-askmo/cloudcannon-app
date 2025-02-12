@@ -2,8 +2,10 @@
 _schema: default
 id: 165976
 date: 2025-01-29
-title: How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
-article_title: How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
+title: >-
+    How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
+article_title: >-
+    How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from
 url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
 score: 9.0
 related_article1:
-    id: 165963
-    title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+    id: 165977
+    title: >-
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 related_article2:
-    id: 165974
-    title: How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+    id: 165967
+    title: >-
+        What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
+    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
 related_article3:
-    id: 165972
-    title: How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
-related_article4:
     id: 165970
-    title: How did artists respond to political systems through their depiction of social realities?
+    title: >-
+        How did artists respond to political systems through their depiction of social realities?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
+related_article4:
+    id: 165963
+    title: >-
+        How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
+related_article5:
+    id: 165965
+    title: >-
+        What are the key characteristics of Realism and how do they differ from Romanticism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
 ---
 
 &nbsp;

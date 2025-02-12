@@ -2,8 +2,10 @@
 _schema: default
 id: 165711
 date: 2025-01-29
-title: Explain the concept of a subnet prefix and its notation in dotted decimal format.
-article_title: Explain the concept of a subnet prefix and its notation in dotted decimal format.
+title: >-
+    Explain the concept of a subnet prefix and its notation in dotted decimal format.
+article_title: >-
+    Explain the concept of a subnet prefix and its notation in dotted decimal format.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-dec
 url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
 score: -1.0
 related_article1:
+    id: 165721
+    title: >-
+        What is the role of the network portion in hierarchical IP addressing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
+related_article2:
     id: 165705
-    title: Explain the significance of base 2 digits in the binary number system.
+    title: >-
+        Explain the significance of base 2 digits in the binary number system.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
-related_article2:
-    id: 165709
-    title: How does a subnet mask help in identifying the network and host portions of an IPv4 address?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
 related_article3:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
+    id: 165705
+    title: >-
+        Explain the significance of base 2 digits in the binary number system.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
+    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
 related_article4:
-    id: 165707
-    title: What are the steps involved in converting a decimal number to binary?
+    id: 165715
+    title: >-
+        What is unicast addressing and in what scenarios is it typically used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
+    url: /learn/computer-science/questions/what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
 related_article5:
-    id: 165708
-    title: Describe the 32-bit structure of an IPv4 address and its division into octets.
+    id: 165712
+    title: >-
+        What is a network address and how is it represented when the host portion is all 0s?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into-octets
+    url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
 ---
 
 &nbsp;

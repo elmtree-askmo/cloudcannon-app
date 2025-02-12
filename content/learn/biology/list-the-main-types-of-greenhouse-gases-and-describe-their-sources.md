@@ -2,8 +2,10 @@
 _schema: default
 id: 170428
 date: 2025-02-06
-title: List the main types of greenhouse gases and describe their sources.
-article_title: List the main types of greenhouse gases and describe their sources.
+title: >-
+    List the main types of greenhouse gases and describe their sources.
+article_title: >-
+    List the main types of greenhouse gases and describe their sources.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: list-the-main-types-of-greenhouse-gases-and-describe-their-sources.md
 url: /learn/biology/questions/list-the-main-types-of-greenhouse-gases-and-describe-their-sources
 score: -1.0
 related_article1:
-    id: 170438
-    title: What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    id: 170435
+    title: >-
+        What geological processes are involved in carbon storage within sediments?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
+    url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
 related_article2:
-    id: 170421
-    title: What are the main natural and human-induced processes that release carbon into the atmosphere?
+    id: 170430
+    title: >-
+        What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
 related_article3:
-    id: 170432
-    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    id: 170439
+    title: >-
+        Explain the unique properties of carbon that make it vital for biological processes.
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+    url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
 related_article4:
-    id: 170433
-    title: How do marine organisms contribute to carbon storage in the ocean?
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
+related_article5:
+    id: 170423
+    title: >-
+        Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    subject: Biology
+    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
 ---
 
 &nbsp;

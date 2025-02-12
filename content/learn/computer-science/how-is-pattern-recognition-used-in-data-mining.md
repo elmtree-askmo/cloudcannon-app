@@ -2,8 +2,10 @@
 _schema: default
 id: 160712
 date: 2025-01-24
-title: How is pattern recognition used in data mining?
-article_title: How is pattern recognition used in data mining?
+title: >-
+    How is pattern recognition used in data mining?
+article_title: >-
+    How is pattern recognition used in data mining?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-pattern-recognition-used-in-data-mining.md
 url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
 score: -1.0
 related_article1:
-    id: 160727
-    title: What are the principles of usability in user interface design?
+    id: 161051
+    title: >-
+        What are the applications of machine learning in artificial intelligence?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/what-are-the-applications-of-machine-learning-in-artificial-intelligence
 related_article2:
-    id: 160906
-    title: What is the role of process management in operating systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
-related_article3:
-    id: 160727
-    title: What are the principles of usability in user interface design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
-related_article4:
-    id: 160707
-    title: How does problem analysis contribute to computational problem solving?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
-related_article5:
     id: 160703
-    title: Why is algorithm efficiency important in computational problem solving?
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
+related_article3:
+    id: 161049
+    title: >-
+        What principles are essential for effective user interface design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-principles-are-essential-for-effective-user-interface-design
+related_article4:
+    id: 160725
+    title: >-
+        What is the role of process management in operating systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
+related_article5:
+    id: 160700
+    title: >-
+        How does abstraction help in simplifying complex computing problems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
 ---
 
 &nbsp;

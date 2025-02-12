@@ -2,8 +2,10 @@
 _schema: default
 id: 163012
 date: 2025-01-26
-title: Who are some key figures in the historical development of epidemiology, and what were their contributions?
-article_title: Who are some key figures in the historical development of epidemiology, and what were their contributions?
+title: >-
+    Who are some key figures in the historical development of epidemiology, and what were their contributions?
+article_title: >-
+    Who are some key figures in the historical development of epidemiology, and what were their contributions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-are-some-key-figures-in-the-historical-development-of-epidemiolog
 url: /learn/health-studies/questions/who-are-some-key-figures-in-the-historical-development-of-epidemiology-and-what-were-their-contributions
 score: -1.0
 related_article1:
-    id: 163023
-    title: How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
+    id: 162957
+    title: >-
+        What role do genetic makeup and lifestyle play in individual determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-confidence-intervals-used-to-interpret-the-precision-of-an-estimate-in-epidemiologic-research
+    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
 related_article2:
-    id: 162971
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    id: 163018
+    title: >-
+        What are the key components of data interpretation in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
 related_article3:
     id: 163011
-    title: What is the definition of epidemiology and how does it apply to public health?
+    title: >-
+        What is the definition of epidemiology and how does it apply to public health?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-definition-of-epidemiology-and-how-does-it-apply-to-public-health
 related_article4:
-    id: 163023
-    title: How are confidence intervals used to interpret the precision of an estimate in epidemiologic research?
+    id: 162973
+    title: >-
+        What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-confidence-intervals-used-to-interpret-the-precision-of-an-estimate-in-epidemiologic-research
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 related_article5:
-    id: 163011
-    title: What is the definition of epidemiology and how does it apply to public health?
+    id: 163019
+    title: >-
+        What are the differences between primary and secondary data in epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-definition-of-epidemiology-and-how-does-it-apply-to-public-health
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
 ---
 
 &nbsp;

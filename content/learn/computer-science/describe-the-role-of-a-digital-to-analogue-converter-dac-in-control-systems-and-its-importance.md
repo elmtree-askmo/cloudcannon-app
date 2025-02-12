@@ -2,8 +2,10 @@
 _schema: default
 id: 161515
 date: 2025-01-24
-title: Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
-article_title: Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
+title: >-
+    Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
+article_title: >-
+    Describe the role of a Digital to Analogue Converter (DAC) in control systems and its importance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-a-digital-to-analogue-converter-dac-in-control-s
 url: /learn/computer-science/questions/describe-the-role-of-a-digital-to-analogue-converter-dac-in-control-systems-and-its-importance
 score: -1.0
 related_article1:
-    id: 161343
-    title: How does two-point calibration differ from one-point calibration, and what are its benefits?
+    id: 161335
+    title: >-
+        Define real-time processing and explain its importance in control systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems
 related_article2:
-    id: 161529
-    title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+    id: 161352
+    title: >-
+        Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/describe-the-process-and-feedback-mechanism-of-a-burglar-alarm-system-including-the-sensors-and-actuators-used
 related_article3:
-    id: 161357
-    title: How do monitoring technologies enhance safety and cost-effectiveness, particularly in hazardous conditions?
+    id: 161525
+    title: >-
+        Explain the components and functionality of central heating systems, including the process and feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-monitoring-technologies-enhance-safety-and-costeffectiveness-particularly-in-hazardous-conditions
+    url: /learn/computer-science/questions/explain-the-components-and-functionality-of-central-heating-systems-including-the-process-and-feedback-mechanism
 related_article4:
-    id: 161343
-    title: How does two-point calibration differ from one-point calibration, and what are its benefits?
+    id: 161519
+    title: >-
+        Explain the process and benefits of two-point calibration in monitoring technologies.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
+    url: /learn/computer-science/questions/explain-the-process-and-benefits-of-twopoint-calibration-in-monitoring-technologies
 related_article5:
-    id: 161329
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+    id: 161335
+    title: >-
+        Define real-time processing and explain its importance in control systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems
 ---
 
 &nbsp;

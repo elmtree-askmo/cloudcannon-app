@@ -2,8 +2,10 @@
 _schema: default
 id: 170796
 date: 2025-02-07
-title: How does the frequency of a strategy impact fitness dynamics?
-article_title: How does the frequency of a strategy impact fitness dynamics?
+title: >-
+    How does the frequency of a strategy impact fitness dynamics?
+article_title: >-
+    How does the frequency of a strategy impact fitness dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-frequency-of-a-strategy-impact-fitness-dynamics.md
 url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
 score: -1.0
 related_article1:
-    id: 170800
-    title: What are the characteristics of a pure strategy in evolutionary games?
+    id: 170808
+    title: >-
+        What factors influence the development and adaptation of evolutionary strategies?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-characteristics-of-a-pure-strategy-in-evolutionary-games
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
 related_article2:
-    id: 170791
-    title: How do pure and mixed strategies differ in the context of a paleo matrix?
+    id: 170807
+    title: >-
+        How does phenotypic variation impact long-term evolutionary trends?
     subject: Biology
-    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
+    url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
 related_article3:
-    id: 170805
-    title: How can equilibrium points be determined in the context of strategy success?
+    id: 170808
+    title: >-
+        What factors influence the development and adaptation of evolutionary strategies?
     subject: Biology
-    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
 related_article4:
-    id: 170805
-    title: How can equilibrium points be determined in the context of strategy success?
+    id: 170807
+    title: >-
+        How does phenotypic variation impact long-term evolutionary trends?
     subject: Biology
-    url: /learn/biology/questions/how-can-equilibrium-points-be-determined-in-the-context-of-strategy-success
+    url: /learn/biology/questions/how-does-phenotypic-variation-impact-longterm-evolutionary-trends
 related_article5:
-    id: 170793
-    title: How does phenotypic variation influence frequency-dependent selection?
+    id: 170798
+    title: >-
+        Define a mixed strategy and explain its characteristics in evolutionary games.
     subject: Biology
-    url: /learn/biology/questions/how-does-phenotypic-variation-influence-frequencydependent-selection
+    url: /learn/biology/questions/define-a-mixed-strategy-and-explain-its-characteristics-in-evolutionary-games
 ---
 
 &nbsp;

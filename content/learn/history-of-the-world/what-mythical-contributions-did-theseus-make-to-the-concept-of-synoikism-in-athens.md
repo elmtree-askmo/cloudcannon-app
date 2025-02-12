@@ -2,8 +2,10 @@
 _schema: default
 id: 166036
 date: 2025-01-29
-title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
-article_title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
+title: >-
+    What mythical contributions did Theseus make to the concept of synoikism in Athens?
+article_title: >-
+    What mythical contributions did Theseus make to the concept of synoikism in Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-mythical-contributions-did-theseus-make-to-the-concept-of-synoik
 url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
 score: 9.0
 related_article1:
-    id: 166021
-    title: How did the concept of direct democracy function in ancient Athens?
+    id: 166035
+    title: >-
+        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
+    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
 related_article2:
-    id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+    id: 166031
+    title: >-
+        How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+    url: /learn/history-of-the-world/questions/how-did-pseudoaristotle-contribute-to-our-understanding-of-the-athenian-constitution
 related_article3:
     id: 166033
-    title: How did the political language of ancient Athens influence modern political terminology?
+    title: >-
+        How did the political language of ancient Athens influence modern political terminology?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
 related_article4:
-    id: 166018
-    title: How did the geographical location of Athens contribute to its economic importance?
+    id: 166033
+    title: >-
+        How did the political language of ancient Athens influence modern political terminology?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-geographical-location-of-athens-contribute-to-its-economic-importance
+    url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
 related_article5:
-    id: 166020
-    title: What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
+    id: 166017
+    title: >-
+        What was the historical significance of Athens as an urban center in ancient times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
 ---
 
 &nbsp;

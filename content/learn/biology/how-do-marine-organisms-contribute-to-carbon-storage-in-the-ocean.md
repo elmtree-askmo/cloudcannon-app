@@ -2,8 +2,10 @@
 _schema: default
 id: 170433
 date: 2025-02-06
-title: How do marine organisms contribute to carbon storage in the ocean?
-article_title: How do marine organisms contribute to carbon storage in the ocean?
+title: >-
+    How do marine organisms contribute to carbon storage in the ocean?
+article_title: >-
+    How do marine organisms contribute to carbon storage in the ocean?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean.md
 url: /learn/biology/questions/how-do-marine-organisms-contribute-to-carbon-storage-in-the-ocean
 score: -1.0
 related_article1:
-    id: 170425
-    title: Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    id: 170436
+    title: >-
+        Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
 related_article2:
+    id: 170436
+    title: >-
+        Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
+related_article3:
+    id: 170439
+    title: >-
+        Explain the unique properties of carbon that make it vital for biological processes.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-unique-properties-of-carbon-that-make-it-vital-for-biological-processes
+related_article4:
     id: 170431
-    title: How does carbon exchange between the atmosphere and other reservoirs affect the climate?
+    title: >-
+        How does carbon exchange between the atmosphere and other reservoirs affect the climate?
     subject: Biology
     url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
-related_article3:
+related_article5:
     id: 170438
-    title: What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    title: >-
+        What are the key carbon compounds found in living organisms, and why is carbon essential for life?
     subject: Biology
     url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
-related_article4:
-    id: 170426
-    title: How does the carbon footprint of human activities impact global warming?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
-related_article5:
-    id: 170427
-    title: What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
-    subject: Biology
-    url: /learn/biology/questions/what-are-some-strategies-for-climate-intervention-aimed-at-carbon-storage-and-what-challenges-do-they-face
 ---
 
 &nbsp;

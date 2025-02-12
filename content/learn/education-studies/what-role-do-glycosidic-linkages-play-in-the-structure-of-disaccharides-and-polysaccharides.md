@@ -2,8 +2,10 @@
 _schema: default
 id: 161784
 date: 2025-01-24
-title: What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
-article_title: What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+title: >-
+    What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+article_title: >-
+    What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharid
 url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
 score: -1.0
 related_article1:
-    id: 161782
-    title: What is the difference between dehydration reactions and hydrolysis reactions in the polymerization process?
+    id: 161791
+    title: >-
+        What is the role of carbohydrates and lipids in energy storage?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dehydration-reactions-and-hydrolysis-reactions-in-the-polymerization-process
+    url: /learn/education-studies/questions/what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage
 related_article2:
-    id: 161794
-    title: How does molecular structure facilitate function in biological molecules?
+    id: 161787
+    title: >-
+        How do the structures of DNA and RNA differ, and what are their respective functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
+    url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
 related_article3:
-    id: 161793
-    title: What is the role of proteins and nucleic acids in cell signaling?
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 related_article4:
     id: 161783
-    title: Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+    title: >-
+        Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
 related_article5:
-    id: 161796
-    title: How do enzymes function as catalysts in biological processes?
+    id: 161789
+    title: >-
+        Why are functional groups important in determining the chemical properties of biological molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
+    url: /learn/education-studies/questions/why-are-functional-groups-important-in-determining-the-chemical-properties-of-biological-molecules
 ---
 
 &nbsp;

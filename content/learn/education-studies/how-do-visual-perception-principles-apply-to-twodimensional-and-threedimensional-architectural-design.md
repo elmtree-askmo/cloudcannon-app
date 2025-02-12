@@ -2,8 +2,10 @@
 _schema: default
 id: 169178
 date: 2025-02-04
-title: How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
-article_title: How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
+title: >-
+    How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
+article_title: >-
+    How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-do-visual-perception-principles-appl
 score: -1.0
 related_article1:
     id: 169175
-    title: What role does materiality play in the structural conundrums of architecture?
+    title: >-
+        What role does materiality play in the structural conundrums of architecture?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-does-materiality-play-in-the-structural-conundrums-of-architecture
 related_article2:
-    id: 169183
-    title: What are the different types of technical drawings used in architecture, and how do they differ?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-technical-drawings-used-in-architecture-and-how-do-they-differ
-related_article3:
     id: 169180
-    title: How do sustainability principles in design address the conservation of resources and healthful buildings?
+    title: >-
+        How do sustainability principles in design address the conservation of resources and healthful buildings?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-sustainability-principles-in-design-address-the-conservation-of-resources-and-healthful-buildings
+related_article3:
+    id: 169171
+    title: >-
+        What is the significance of corner conditions in architectural design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-corner-conditions-in-architectural-design
 related_article4:
-    id: 169182
-    title: How do cultural factors influence architectural design and the consideration of diverse needs and values?
+    id: 169176
+    title: >-
+        How does nonobjectivity in art contribute to the understanding of abstract volumetric space?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-factors-influence-architectural-design-and-the-consideration-of-diverse-needs-and-values
+    url: /learn/education-studies/questions/how-does-nonobjectivity-in-art-contribute-to-the-understanding-of-abstract-volumetric-space
 related_article5:
-    id: 169181
-    title: What is the relationship between architectural theories and the design process?
+    id: 169176
+    title: >-
+        How does nonobjectivity in art contribute to the understanding of abstract volumetric space?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+    url: /learn/education-studies/questions/how-does-nonobjectivity-in-art-contribute-to-the-understanding-of-abstract-volumetric-space
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164685
 date: 2025-01-28
-title: How do individual differences affect cognitive abilities?
-article_title: How do individual differences affect cognitive abilities?
+title: >-
+    How do individual differences affect cognitive abilities?
+article_title: >-
+    How do individual differences affect cognitive abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-individual-differences-affect-cognitive-abilities.md
 url: /learn/psychology/questions/how-do-individual-differences-affect-cognitive-abilities
 score: -1.0
 related_article1:
-    id: 164677
-    title: How does language processing relate to cognitive functions?
+    id: 164675
+    title: >-
+        How does EEG differ from MRI in terms of brain imaging?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
 related_article2:
-    id: 164688
-    title: What are the ethical considerations in the development of neurotechnology?
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-the-development-of-neurotechnology
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
 related_article3:
-    id: 164683
-    title: What role do subconscious processes play in influencing behavior?
+    id: 164682
+    title: >-
+        How does the brain adapt following an injury?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
+    url: /learn/psychology/questions/how-does-the-brain-adapt-following-an-injury
 related_article4:
-    id: 164674
-    title: What are the main cognitive functions studied in neuroscience?
+    id: 164670
+    title: >-
+        What are the key functions of different brain regions in cognitive neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+    url: /learn/psychology/questions/what-are-the-key-functions-of-different-brain-regions-in-cognitive-neuroscience
 related_article5:
-    id: 164693
-    title: What factors contribute to cognitive aging?
+    id: 164678
+    title: >-
+        What are common language disorders and their impact on cognition?
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-contribute-to-cognitive-aging
+    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
 ---
 
 &nbsp;

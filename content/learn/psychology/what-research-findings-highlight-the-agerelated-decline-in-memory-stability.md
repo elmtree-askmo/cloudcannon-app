@@ -2,8 +2,10 @@
 _schema: default
 id: 168040
 date: 2025-02-02
-title: What research findings highlight the age-related decline in memory stability?
-article_title: What research findings highlight the age-related decline in memory stability?
+title: >-
+    What research findings highlight the age-related decline in memory stability?
+article_title: >-
+    What research findings highlight the age-related decline in memory stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-research-findings-highlight-the-agerelated-decline-in-memory-sta
 url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
 score: -1.0
 related_article1:
-    id: 168043
-    title: Why are memory encoding strategies particularly important for older adults?
+    id: 168044
+    title: >-
+        How does emotional intensity influence the vividness of self-defining memories?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-memory-encoding-strategies-particularly-important-for-older-adults
+    url: /learn/psychology/questions/how-does-emotional-intensity-influence-the-vividness-of-selfdefining-memories
 related_article2:
-    id: 168046
-    title: How does automatic retrieval in procedural memory differ from declarative memory retrieval?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
-related_article3:
-    id: 168043
-    title: Why are memory encoding strategies particularly important for older adults?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-memory-encoding-strategies-particularly-important-for-older-adults
-related_article4:
-    id: 168048
-    title: How does semantic memory stability compare to episodic memory across the lifespan?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan
-related_article5:
     id: 168038
-    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    title: >-
+        How does procedural memory differ from classical conditioning in non-declarative memory?
     subject: Psychology
     url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article3:
+    id: 168038
+    title: >-
+        How does procedural memory differ from classical conditioning in non-declarative memory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article4:
+    id: 168041
+    title: >-
+        How does emotional intensity contribute to the vividness of self-defining memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
+related_article5:
+    id: 168036
+    title: >-
+        How does primary memory differ from secondary memory in terms of stability with age?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-primary-memory-differ-from-secondary-memory-in-terms-of-stability-with-age
 ---
 
 &nbsp;

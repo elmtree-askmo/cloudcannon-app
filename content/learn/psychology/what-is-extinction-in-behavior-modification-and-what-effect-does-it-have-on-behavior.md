@@ -2,8 +2,10 @@
 _schema: default
 id: 169324
 date: 2025-02-05
-title: What is extinction in behavior modification and what effect does it have on behavior?
-article_title: What is extinction in behavior modification and what effect does it have on behavior?
+title: >-
+    What is extinction in behavior modification and what effect does it have on behavior?
+article_title: >-
+    What is extinction in behavior modification and what effect does it have on behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-extinction-in-behavior-modification-and-what-effect-does-it-h
 url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
 score: -1.0
 related_article1:
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article2:
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
+related_article3:
     id: 169322
-    title: How are behavior change procedures implemented and monitored?
+    title: >-
+        How are behavior change procedures implemented and monitored?
     subject: Psychology
     url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
-related_article2:
-    id: 169321
-    title: What are the main tools and techniques used in behavior analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
-related_article3:
-    id: 169321
-    title: What are the main tools and techniques used in behavior analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 related_article4:
-    id: 169318
-    title: Why is measuring the duration of behavior relevant to behavior modification?
+    id: 169323
+    title: >-
+        What is positive reinforcement and how does it aid in behavior shaping?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+    url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
 related_article5:
     id: 169325
-    title: How are target behaviors identified and why are they crucial in behavior programs?
+    title: >-
+        How are target behaviors identified and why are they crucial in behavior programs?
     subject: Psychology
     url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 163314
 date: 2025-01-26
-title: Why are age-adjusted rates important in epidemiological studies?
-article_title: Why are age-adjusted rates important in epidemiological studies?
+title: >-
+    Why are age-adjusted rates important in epidemiological studies?
+article_title: >-
+    Why are age-adjusted rates important in epidemiological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-ageadjusted-rates-important-in-epidemiological-studies.md
 url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
 score: -1.0
 related_article1:
+    id: 163310
+    title: >-
+        What is the difference between crude rates and specific rates in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-crude-rates-and-specific-rates-in-epidemiology
+related_article2:
+    id: 162992
+    title: >-
+        How do positive and negative associations differ in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
+related_article3:
+    id: 162986
+    title: >-
+        What role do epidemiologic questions play in generating public health hypotheses?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
+related_article4:
+    id: 163324
+    title: >-
+        How is the Pearson correlation coefficient used in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
+related_article5:
     id: 163315
-    title: What is the process of direct standardization in calculating age-adjusted rates?
+    title: >-
+        What is the process of direct standardization in calculating age-adjusted rates?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
-related_article2:
-    id: 163319
-    title: How does public health surveillance aid in identifying and responding to outbreaks?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-public-health-surveillance-aid-in-identifying-and-responding-to-outbreaks
-related_article3:
-    id: 163308
-    title: What are the primary purposes of descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
-related_article4:
-    id: 163309
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
-related_article5:
-    id: 162991
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 ---
 
 &nbsp;

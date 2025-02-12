@@ -2,8 +2,10 @@
 _schema: default
 id: 169610
 date: 2025-02-05
-title: How can nurses manage emotionally charged situations to build trust with patients?
-article_title: How can nurses manage emotionally charged situations to build trust with patients?
+title: >-
+    How can nurses manage emotionally charged situations to build trust with patients?
+article_title: >-
+    How can nurses manage emotionally charged situations to build trust with patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,29 @@ file_name: how-can-nurses-manage-emotionally-charged-situations-to-build-trust-w
 url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
 score: -1.0
 related_article1:
-    id: 169612
-    title: How can social awareness and relationship management improve interactions in healthcare settings?
+    id: 169609
+    title: >-
+        What is cultural competence in nursing, and why is it important for understanding patient needs?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings
+    url: /learn/nursing/questions/what-is-cultural-competence-in-nursing-and-why-is-it-important-for-understanding-patient-needs
 related_article2:
     id: 169612
-    title: How can social awareness and relationship management improve interactions in healthcare settings?
+    title: >-
+        How can social awareness and relationship management improve interactions in healthcare settings?
     subject: Nursing
     url: /learn/nursing/questions/how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings
 related_article3:
-    id: 169603
-    title: What role does self-awareness play in enhancing emotional intelligence in healthcare settings?
+    id: 169605
+    title: >-
+        What are the differences between routine and complex decision-making in nursing, and how does critical thinking apply to each?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-selfawareness-play-in-enhancing-emotional-intelligence-in-healthcare-settings
+    url: /learn/nursing/questions/what-are-the-differences-between-routine-and-complex-decisionmaking-in-nursing-and-how-does-critical-thinking-apply-to-each
 related_article4:
-    id: 169601
-    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    id: 169605
+    title: >-
+        What are the differences between routine and complex decision-making in nursing, and how does critical thinking apply to each?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+    url: /learn/nursing/questions/what-are-the-differences-between-routine-and-complex-decisionmaking-in-nursing-and-how-does-critical-thinking-apply-to-each
 ---
 
 &nbsp;

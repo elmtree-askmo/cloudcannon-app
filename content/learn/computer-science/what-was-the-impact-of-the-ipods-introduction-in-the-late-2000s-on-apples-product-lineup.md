@@ -2,8 +2,10 @@
 _schema: default
 id: 160601
 date: 2025-01-24
-title: What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
-article_title: What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
+title: >-
+    What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
+article_title: >-
+    What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-ap
 url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
 score: -1.0
 related_article1:
-    id: 160522
-    title: What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
+    id: 160516
+    title: >-
+        How did the introduction of the PowerBook G4 in the mid-2000s influence Apple's product line?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-it-from-earlier-versions
+    url: /learn/computer-science/questions/how-did-the-introduction-of-the-powerbook-g4-in-the-mid2000s-influence-apples-product-line
 related_article2:
-    id: 160418
-    title: What were the key features of the first beta release of Mac OS X?
+    id: 160421
+    title: >-
+        What was the significance of the release of Mac OS X 10.0 Cheetah?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-first-beta-release-of-mac-os-x
+    url: /learn/computer-science/questions/what-was-the-significance-of-the-release-of-mac-os-x-100-cheetah
 related_article3:
-    id: 160418
-    title: What were the key features of the first beta release of Mac OS X?
+    id: 160514
+    title: >-
+        How did the first beta release of Mac OS X impact Apple's software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-first-beta-release-of-mac-os-x
+    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 related_article4:
-    id: 160513
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    id: 160430
+    title: >-
+        What were the implications of Apple's transition to Intel processors for product performance and compatibility?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance-and-compatibility
 related_article5:
-    id: 160433
-    title: How did Apple differentiate itself from competitors through its market positioning strategies?
+    id: 160524
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apple-differentiate-itself-from-competitors-through-its-market-positioning-strategies
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 ---
 
 &nbsp;

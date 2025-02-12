@@ -2,8 +2,10 @@
 _schema: default
 id: 168300
 date: 2025-02-03
-title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
-article_title: Describe the process of prime factorization and its application in simplifying polynomial expressions.
+title: >-
+    Describe the process of prime factorization and its application in simplifying polynomial expressions.
+article_title: >-
+    Describe the process of prime factorization and its application in simplifying polynomial expressions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-prime-factorization-and-its-application-in-si
 url: /learn/mathematics/questions/describe-the-process-of-prime-factorization-and-its-application-in-simplifying-polynomial-expressions
 score: -1.0
 related_article1:
-    id: 168305
-    title: What is the significance of understanding the roots of variables in algebra?
+    id: 168294
+    title: >-
+        What is the process for simplifying square roots, cube roots, and higher order roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
+    url: /learn/mathematics/questions/what-is-the-process-for-simplifying-square-roots-cube-roots-and-higher-order-roots
 related_article2:
-    id: 168307
-    title: What is the impact of coefficients on the behavior of polynomial graphs?
+    id: 168299
+    title: >-
+        What are the characteristics of prime numbers, and how can they be identified?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-coefficients-on-the-behavior-of-polynomial-graphs
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
 related_article3:
-    id: 168301
-    title: How do you simplify algebraic expressions using the distributive property?
+    id: 168295
+    title: >-
+        How do you apply the product of powers property to simplify expressions with exponents?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-simplify-algebraic-expressions-using-the-distributive-property
+    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
 related_article4:
-    id: 168309
-    title: How do you combine like radicals to simplify complex expressions?
+    id: 168297
+    title: >-
+        What is the structure of a polynomial, and how do you identify its terms and coefficients?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
+    url: /learn/mathematics/questions/what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients
 related_article5:
-    id: 168309
-    title: How do you combine like radicals to simplify complex expressions?
+    id: 168296
+    title: >-
+        Explain how negative exponents are simplified and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-combine-like-radicals-to-simplify-complex-expressions
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
 ---
 
 &nbsp;

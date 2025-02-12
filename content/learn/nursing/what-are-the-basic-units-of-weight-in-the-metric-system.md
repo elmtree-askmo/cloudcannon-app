@@ -2,8 +2,10 @@
 _schema: default
 id: 169729
 date: 2025-02-05
-title: What are the basic units of weight in the metric system?
-article_title: What are the basic units of weight in the metric system?
+title: >-
+    What are the basic units of weight in the metric system?
+article_title: >-
+    What are the basic units of weight in the metric system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/what-are-the-basic-units-of-weight-in-the-metric-s
 score: -1.0
 related_article1:
     id: 169731
-    title: What is the formula for calculating oral medication dosage?
+    title: >-
+        What is the formula for calculating oral medication dosage?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-formula-for-calculating-oral-medication-dosage
 related_article2:
-    id: 169738
-    title: What are the ethical considerations in medication management for nurses?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
-related_article3:
-    id: 169737
-    title: How can nurses ensure patient safety when administering medication?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-nurses-ensure-patient-safety-when-administering-medication
-related_article4:
-    id: 169732
-    title: How do you calculate the drop rate for an IV infusion?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
-related_article5:
     id: 169733
-    title: What are the key risks associated with IV medication administration?
+    title: >-
+        What are the key risks associated with IV medication administration?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
+related_article3:
+    id: 169734
+    title: >-
+        How do you calculate the number of drops per minute for an IV infusion?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
+related_article4:
+    id: 169738
+    title: >-
+        What are the ethical considerations in medication management for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
+related_article5:
+    id: 169738
+    title: >-
+        What are the ethical considerations in medication management for nurses?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
 ---
 
 &nbsp;

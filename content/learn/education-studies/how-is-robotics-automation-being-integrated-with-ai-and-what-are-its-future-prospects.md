@@ -2,8 +2,10 @@
 _schema: default
 id: 166717
 date: 2025-01-31
-title: How is robotics automation being integrated with AI, and what are its future prospects?
-article_title: How is robotics automation being integrated with AI, and what are its future prospects?
+title: >-
+    How is robotics automation being integrated with AI, and what are its future prospects?
+article_title: >-
+    How is robotics automation being integrated with AI, and what are its future prospects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,24 +25,34 @@ url: /learn/education-studies/questions/how-is-robotics-automation-being-integra
 score: -1.0
 related_article1:
     id: 166702
-    title: How does torque relate to the moment of force?
+    title: >-
+        How does torque relate to the moment of force?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
 related_article2:
-    id: 166693
-    title: How does the right-hand rule help determine the direction of a vector cross product?
+    id: 166710
+    title: >-
+        What are the eligibility criteria for engineering scholarships?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
+    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
 related_article3:
-    id: 166699
-    title: Define the moment of force and explain how it is calculated.
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article4:
-    id: 166693
-    title: How does the right-hand rule help determine the direction of a vector cross product?
+    id: 166709
+    title: >-
+        How can engineering certifications impact a professional's career?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
+    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
+related_article5:
+    id: 166714
+    title: >-
+        What are the current job market trends for consulting opportunities in engineering?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
 ---
 
 &nbsp;

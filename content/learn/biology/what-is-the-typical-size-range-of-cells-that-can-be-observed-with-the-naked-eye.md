@@ -2,8 +2,10 @@
 _schema: default
 id: 170942
 date: 2025-02-07
-title: What is the typical size range of cells that can be observed with the naked eye?
-article_title: What is the typical size range of cells that can be observed with the naked eye?
+title: >-
+    What is the typical size range of cells that can be observed with the naked eye?
+article_title: >-
+    What is the typical size range of cells that can be observed with the naked eye?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the
 url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
 score: -1.0
 related_article1:
+    id: 170941
+    title: >-
+        How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
+related_article2:
+    id: 170954
+    title: >-
+        What are the main advantages and limitations of light microscopy compared to electron microscopy?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy
+related_article3:
     id: 170955
-    title: How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
+    title: >-
+        How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
     subject: Biology
     url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
-related_article2:
-    id: 170940
-    title: What are the key structural differences between bacterial and eukaryotic cells?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
-related_article3:
-    id: 170952
-    title: How is GFP used to study protein localization in cells?
-    subject: Biology
-    url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
 related_article4:
-    id: 170944
-    title: What are the main differences between bright field microscopy and phase contrast microscopy?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-differences-between-bright-field-microscopy-and-phase-contrast-microscopy
-related_article5:
     id: 170947
-    title: What are the advantages of superresolution microscopy over conventional microscopy techniques?
+    title: >-
+        What are the advantages of superresolution microscopy over conventional microscopy techniques?
     subject: Biology
     url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
+related_article5:
+    id: 170941
+    title: >-
+        How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+    subject: Biology
+    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
 ---
 
 &nbsp;

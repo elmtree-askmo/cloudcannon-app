@@ -2,8 +2,10 @@
 _schema: default
 id: 165931
 date: 2025-01-29
-title: What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
-article_title: What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
+title: >-
+    What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
+article_title: >-
+    What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-public-perceptions-of-the-colonial-power-dynamics-displ
 url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
 score: 9.0
 related_article1:
-    id: 165929
-    title: What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
+    id: 165934
+    title: >-
+        What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
 related_article2:
-    id: 165930
-    title: How were art and artifacts from India culturally represented at the Great Exhibition?
+    id: 165923
+    title: >-
+        How did the Great Exhibition change public perception and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
 related_article3:
-    id: 165933
-    title: What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
+    id: 165921
+    title: >-
+        How did the Great Exhibition impact technological advancements in society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-logistical-challenges-faced-during-the-planning-and-organization-of-the-great-exhibition-of-1851
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article4:
-    id: 165928
-    title: What influence did the 1844 Paris Industry Exposition have on future exhibitions?
+    id: 165934
+    title: >-
+        What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-influence-did-the-1844-paris-industry-exposition-have-on-future-exhibitions
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
 related_article5:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165925
+    title: >-
+        How did the Great Exhibition serve as a display of imperial power and colonial narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
 ---
 
 &nbsp;

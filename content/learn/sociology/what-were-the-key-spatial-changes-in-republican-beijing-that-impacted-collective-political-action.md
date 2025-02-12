@@ -2,8 +2,10 @@
 _schema: default
 id: 169039
 date: 2025-02-04
-title: What were the key spatial changes in Republican Beijing that impacted collective political action?
-article_title: What were the key spatial changes in Republican Beijing that impacted collective political action?
+title: >-
+    What were the key spatial changes in Republican Beijing that impacted collective political action?
+article_title: >-
+    What were the key spatial changes in Republican Beijing that impacted collective political action?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-spatial-changes-in-republican-beijing-that-impacted
 url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
 score: -1.0
 related_article1:
-    id: 169054
-    title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+    id: 169046
+    title: >-
+        What are the different types of collective political actions, and how do they utilize space in Beijing?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
 related_article2:
-    id: 169042
-    title: How did Tiananmen Square evolve into a political public space over time?
+    id: 169046
+    title: >-
+        What are the different types of collective political actions, and how do they utilize space in Beijing?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
 related_article3:
-    id: 169040
-    title: How did the opening of roads and public parks influence political public space in Beijing?
+    id: 169053
+    title: >-
+        What is the role of human agency in Arendt's concept of public space, and why is collective action important?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
 related_article4:
+    id: 169041
+    title: >-
+        What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+related_article5:
     id: 169048
-    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    title: >-
+        Describe the transformation of Tiananmen Square from an empty space to a political symbol.
     subject: Sociology
     url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
-related_article5:
-    id: 169050
-    title: How did the May Fourth Movement serve as a turning point in modern Chinese history?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
 ---
 
 &nbsp;

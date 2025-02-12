@@ -2,8 +2,10 @@
 _schema: default
 id: 170336
 date: 2025-02-06
-title: How does biomass interact with decomposition in the carbon cycle?
-article_title: How does biomass interact with decomposition in the carbon cycle?
+title: >-
+    How does biomass interact with decomposition in the carbon cycle?
+article_title: >-
+    How does biomass interact with decomposition in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-biomass-interact-with-decomposition-in-the-carbon-cycle.md
 url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170342
-    title: What are the differences between chemical energy and light energy in ecosystems, and how are they converted?
+    id: 170343
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-differences-between-chemical-energy-and-light-energy-in-ecosystems-and-how-are-they-converted
+    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
 related_article2:
-    id: 170341
-    title: Explain the process of decomposition and its importance in the carbon cycle.
+    id: 170329
+    title: >-
+        What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-decomposition-and-its-importance-in-the-carbon-cycle
+    url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
 related_article3:
-    id: 170339
-    title: What is the role of nitrogen in the atmosphere, and how does it interact with the carbon cycle?
+    id: 170335
+    title: >-
+        What is a keystone species, and how does it affect ecosystem dynamics and the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-nitrogen-in-the-atmosphere-and-how-does-it-interact-with-the-carbon-cycle
+    url: /learn/biology/questions/what-is-a-keystone-species-and-how-does-it-affect-ecosystem-dynamics-and-the-carbon-cycle
 related_article4:
+    id: 170343
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
+related_article5:
     id: 170334
-    title: Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
+    title: >-
+        Describe the role of the geosphere in the carbon cycle and its interaction with the biosphere.
     subject: Biology
     url: /learn/biology/questions/describe-the-role-of-the-geosphere-in-the-carbon-cycle-and-its-interaction-with-the-biosphere
-related_article5:
-    id: 170328
-    title: How do carbon sinks and sources impact climate change?
-    subject: Biology
-    url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
 ---
 
 &nbsp;

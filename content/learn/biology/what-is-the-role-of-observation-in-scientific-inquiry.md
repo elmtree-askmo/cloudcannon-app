@@ -2,8 +2,10 @@
 _schema: default
 id: 166907
 date: 2025-01-31
-title: What is the role of observation in scientific inquiry?
-article_title: What is the role of observation in scientific inquiry?
+title: >-
+    What is the role of observation in scientific inquiry?
+article_title: >-
+    What is the role of observation in scientific inquiry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-observation-in-scientific-inquiry.md
 url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
 score: -1.0
 related_article1:
-    id: 166917
-    title: What mechanisms do organisms use for regulation, and why is it important for their function?
+    id: 166908
+    title: >-
+        How does formulating a question contribute to scientific research?
     subject: Biology
-    url: /learn/biology/questions/what-mechanisms-do-organisms-use-for-regulation-and-why-is-it-important-for-their-function
+    url: /learn/biology/questions/how-does-formulating-a-question-contribute-to-scientific-research
 related_article2:
-    id: 166925
-    title: How is a phylogenetic tree constructed, and why is it important in biology?
+    id: 166909
+    title: >-
+        What are the key characteristics of a hypothesis in scientific investigation?
     subject: Biology
-    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
 related_article3:
-    id: 166919
-    title: How do organisms acquire and utilize energy for their metabolic processes?
+    id: 166913
+    title: >-
+        What is the hierarchical structure of cellular organization in living organisms?
     subject: Biology
-    url: /learn/biology/questions/how-do-organisms-acquire-and-utilize-energy-for-their-metabolic-processes
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
 related_article4:
-    id: 166928
-    title: What are the mechanisms and processes involved in sexual reproduction?
+    id: 166932
+    title: >-
+        What are the sources and types of genetic variation, and why are they important for evolution?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
+    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
 related_article5:
-    id: 166922
-    title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+    id: 166913
+    title: >-
+        What is the hierarchical structure of cellular organization in living organisms?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
 ---
 
 &nbsp;

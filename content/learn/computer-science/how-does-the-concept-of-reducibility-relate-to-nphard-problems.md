@@ -2,8 +2,10 @@
 _schema: default
 id: 170780
 date: 2025-02-06
-title: How does the concept of reducibility relate to NP-hard problems?
-article_title: How does the concept of reducibility relate to NP-hard problems?
+title: >-
+    How does the concept of reducibility relate to NP-hard problems?
+article_title: >-
+    How does the concept of reducibility relate to NP-hard problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-concept-of-reducibility-relate-to-nphard-problems.md
 url: /learn/computer-science/questions/how-does-the-concept-of-reducibility-relate-to-nphard-problems
 score: -1.0
 related_article1:
-    id: 170779
-    title: What is an NP-complete problem and why is the satisfiability problem significant in this context?
+    id: 170786
+    title: >-
+        How does the RSA algorithm utilize public and private key encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-npcomplete-problem-and-why-is-the-satisfiability-problem-significant-in-this-context
+    url: /learn/computer-science/questions/how-does-the-rsa-algorithm-utilize-public-and-private-key-encryption
 related_article2:
-    id: 170783
-    title: Describe the key components of algorithm representation.
+    id: 170782
+    title: >-
+        What are the characteristics of non-deterministic polynomial time?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-key-components-of-algorithm-representation
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
 related_article3:
-    id: 170788
-    title: What are the key steps in problem analysis for effective problem-solving?
+    id: 170787
+    title: >-
+        Explain the Euclidean algorithm for finding the greatest common divisor.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-in-problem-analysis-for-effective-problemsolving
+    url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
 related_article4:
-    id: 170776
-    title: Explain the significance of the halting problem in computability theory.
+    id: 170789
+    title: >-
+        How does data representation impact algorithm development and testing?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-halting-problem-in-computability-theory
+    url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
 related_article5:
-    id: 170777
-    title: What distinguishes polynomial time algorithms from exponential time algorithms in complexity theory?
+    id: 170789
+    title: >-
+        How does data representation impact algorithm development and testing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-polynomial-time-algorithms-from-exponential-time-algorithms-in-complexity-theory
+    url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
 ---
 
 &nbsp;

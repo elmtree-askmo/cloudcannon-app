@@ -2,8 +2,10 @@
 _schema: default
 id: 169020
 date: 2025-02-04
-title: How are historical events represented in cultural narratives within architecture?
-article_title: How are historical events represented in cultural narratives within architecture?
+title: >-
+    How are historical events represented in cultural narratives within architecture?
+article_title: >-
+    How are historical events represented in cultural narratives within architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-historical-events-represented-in-cultural-narratives-within-a
 url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 score: 9.5
 related_article1:
-    id: 169008
-    title: How have women's roles been represented in historical narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-womens-roles-been-represented-in-historical-narratives
-related_article2:
-    id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
-related_article3:
     id: 169023
-    title: What are the gendered and anti-revolutionary filters present in media representations?
+    title: >-
+        What are the gendered and anti-revolutionary filters present in media representations?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
+related_article2:
+    id: 169008
+    title: >-
+        How have women's roles been represented in historical narratives?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-have-womens-roles-been-represented-in-historical-narratives
+related_article3:
+    id: 169008
+    title: >-
+        How have women's roles been represented in historical narratives?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-have-womens-roles-been-represented-in-historical-narratives
 related_article4:
-    id: 169016
-    title: How can buildings serve as symbols of revolutionary movements?
+    id: 169007
+    title: >-
+        How is architecture strategically used in different contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
 related_article5:
-    id: 169001
-    title: How does collective work influence architectural history beyond individual builders?
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-collective-work-influence-architectural-history-beyond-individual-builders
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 ---
 
 &nbsp;

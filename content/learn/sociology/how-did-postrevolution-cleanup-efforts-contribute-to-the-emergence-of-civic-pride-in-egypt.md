@@ -2,8 +2,10 @@
 _schema: default
 id: 168983
 date: 2025-02-04
-title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
-article_title: How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+title: >-
+    How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
+article_title: >-
+    How did post-revolution clean-up efforts contribute to the emergence of civic pride in Egypt?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of
 url: /learn/sociology/questions/how-did-postrevolution-cleanup-efforts-contribute-to-the-emergence-of-civic-pride-in-egypt
 score: -1.0
 related_article1:
+    id: 168979
+    title: >-
+        Why was the physical occupation of urban space, such as Tahrir Square, crucial during the Arab Spring?
+    subject: Sociology
+    url: /learn/sociology/questions/why-was-the-physical-occupation-of-urban-space-such-as-tahrir-square-crucial-during-the-arab-spring
+related_article2:
+    id: 168975
+    title: >-
+        What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
+related_article3:
     id: 168977
-    title: In what ways did Tahrir Square serve as a symbol of daily life and political assembly before and during the revolution?
+    title: >-
+        In what ways did Tahrir Square serve as a symbol of daily life and political assembly before and during the revolution?
     subject: Sociology
     url: /learn/sociology/questions/in-what-ways-did-tahrir-square-serve-as-a-symbol-of-daily-life-and-political-assembly-before-and-during-the-revolution
-related_article2:
-    id: 168982
-    title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
+related_article4:
+    id: 168975
+    title: >-
+        What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
-related_article3:
+    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
+related_article5:
     id: 168978
-    title: How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
     subject: Sociology
     url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
-related_article4:
-    id: 168982
-    title: What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
-related_article5:
-    id: 168986
-    title: What is the relationship between democracy and public assembly, and how did the military's role support demonstrations in Egypt?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-relationship-between-democracy-and-public-assembly-and-how-did-the-militarys-role-support-demonstrations-in-egypt
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170779
 date: 2025-02-06
-title: What is an NP-complete problem and why is the satisfiability problem significant in this context?
-article_title: What is an NP-complete problem and why is the satisfiability problem significant in this context?
+title: >-
+    What is an NP-complete problem and why is the satisfiability problem significant in this context?
+article_title: >-
+    What is an NP-complete problem and why is the satisfiability problem significant in this context?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-an-npcomplete-problem-and-why-is-the-satisfiability-problem-s
 url: /learn/computer-science/questions/what-is-an-npcomplete-problem-and-why-is-the-satisfiability-problem-significant-in-this-context
 score: -1.0
 related_article1:
-    id: 170786
-    title: How does the RSA algorithm utilize public and private key encryption?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-rsa-algorithm-utilize-public-and-private-key-encryption
-related_article2:
     id: 170789
-    title: How does data representation impact algorithm development and testing?
+    title: >-
+        How does data representation impact algorithm development and testing?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
+related_article2:
+    id: 170775
+    title: >-
+        What is the scope of computability theory and how does it relate to problem solvability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-scope-of-computability-theory-and-how-does-it-relate-to-problem-solvability
 related_article3:
     id: 170781
-    title: Differentiate between deterministic and non-deterministic approaches in computational theory.
+    title: >-
+        Differentiate between deterministic and non-deterministic approaches in computational theory.
     subject: Computer Science
     url: /learn/computer-science/questions/differentiate-between-deterministic-and-nondeterministic-approaches-in-computational-theory
 related_article4:
-    id: 170782
-    title: What are the characteristics of non-deterministic polynomial time?
+    id: 170786
+    title: >-
+        How does the RSA algorithm utilize public and private key encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
+    url: /learn/computer-science/questions/how-does-the-rsa-algorithm-utilize-public-and-private-key-encryption
 related_article5:
-    id: 170784
-    title: What factors contribute to the efficiency of an algorithm?
+    id: 170778
+    title: >-
+        Define the P vs NP problem and explain its importance in computational theory.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-contribute-to-the-efficiency-of-an-algorithm
+    url: /learn/computer-science/questions/define-the-p-vs-np-problem-and-explain-its-importance-in-computational-theory
 ---
 
 &nbsp;

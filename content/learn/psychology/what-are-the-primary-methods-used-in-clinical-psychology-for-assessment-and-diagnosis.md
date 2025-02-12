@@ -2,8 +2,10 @@
 _schema: default
 id: 167709
 date: 2025-01-31
-title: What are the primary methods used in clinical psychology for assessment and diagnosis?
-article_title: What are the primary methods used in clinical psychology for assessment and diagnosis?
+title: >-
+    What are the primary methods used in clinical psychology for assessment and diagnosis?
+article_title: >-
+    What are the primary methods used in clinical psychology for assessment and diagnosis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-methods-used-in-clinical-psychology-for-assessme
 url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
 score: -1.0
 related_article1:
-    id: 167706
-    title: What is the role of sensory perception in influencing human behavior?
+    id: 167711
+    title: >-
+        What is the significance of cultural anthropology in understanding psychological practices?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
+    url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
 related_article2:
-    id: 167689
-    title: How is ASL utilized in psychological studies and what barriers exist?
+    id: 167684
+    title: >-
+        What are some challenges in defining normalcy in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
+    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
 related_article3:
-    id: 167696
-    title: What are the psychological perspectives on free will?
+    id: 167694
+    title: >-
+        How do neurobiological processes influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 related_article4:
-    id: 167695
-    title: What are the modern views on dualism in neuroscience?
+    id: 167702
+    title: >-
+        What role does emotional intelligence play in personal and professional life?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+    url: /learn/psychology/questions/what-role-does-emotional-intelligence-play-in-personal-and-professional-life
 related_article5:
-    id: 167699
-    title: What statistical techniques are commonly used in data analysis for psychological studies?
+    id: 167691
+    title: >-
+        How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
 ---
 
 &nbsp;

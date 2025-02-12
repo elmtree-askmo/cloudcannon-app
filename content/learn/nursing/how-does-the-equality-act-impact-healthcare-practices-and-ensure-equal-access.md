@@ -2,8 +2,10 @@
 _schema: default
 id: 169656
 date: 2025-02-05
-title: How does the Equality Act impact healthcare practices and ensure equal access?
-article_title: How does the Equality Act impact healthcare practices and ensure equal access?
+title: >-
+    How does the Equality Act impact healthcare practices and ensure equal access?
+article_title: >-
+    How does the Equality Act impact healthcare practices and ensure equal access?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practi
 score: -1.0
 related_article1:
     id: 169641
-    title: What are some common barriers to healthcare for transgender individuals?
+    title: >-
+        What are some common barriers to healthcare for transgender individuals?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-common-barriers-to-healthcare-for-transgender-individuals
 related_article2:
-    id: 169660
-    title: What lessons have been learned from historical discrimination in healthcare?
+    id: 169651
+    title: >-
+        Who are some notable figures in the history of transgender advocacy?
     subject: Nursing
-    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+    url: /learn/nursing/questions/who-are-some-notable-figures-in-the-history-of-transgender-advocacy
 related_article3:
-    id: 169659
-    title: What are some inclusive healthcare practices that create safe environments for patients?
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
 related_article4:
-    id: 169660
-    title: What lessons have been learned from historical discrimination in healthcare?
+    id: 169658
+    title: >-
+        What is the role of nurses in combating discrimination within healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
 related_article5:
-    id: 169652
-    title: What societal changes have occurred in the legal and social context of transgender issues?
+    id: 169662
+    title: >-
+        What strategies can be used to provide compassionate care in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169124
 date: 2025-02-04
-title: What contributions have women made to urban development and public housing?
-article_title: What contributions have women made to urban development and public housing?
+title: >-
+    What contributions have women made to urban development and public housing?
+article_title: >-
+    What contributions have women made to urban development and public housing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-contributions-have-women-made-to-urban-development-and-public-ho
 url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
 score: 9.0
 related_article1:
-    id: 169117
-    title: How did colonial patriarchy influence architectural practices and gender roles?
+    id: 169111
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
+    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
 related_article2:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    id: 169119
+    title: >-
+        How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
 related_article3:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    id: 169118
+    title: >-
+        What are the effects of transnational capitalism on gender dynamics in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
 related_article4:
-    id: 169112
-    title: How have feminist archival methodologies contributed to the understanding of architectural histories?
+    id: 169107
+    title: >-
+        How did postwar developments impact gendered labor dynamics in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
+    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
 related_article5:
-    id: 169106
-    title: What were some of the challenges faced by women in architecture during the early 20th century?
+    id: 169111
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
+    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
 ---
 
 &nbsp;

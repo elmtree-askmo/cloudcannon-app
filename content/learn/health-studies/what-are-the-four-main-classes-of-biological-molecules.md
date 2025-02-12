@@ -2,8 +2,10 @@
 _schema: default
 id: 167089
 date: 2025-01-31
-title: What are the four main classes of biological molecules?
-article_title: What are the four main classes of biological molecules?
+title: >-
+    What are the four main classes of biological molecules?
+article_title: >-
+    What are the four main classes of biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-four-main-classes-of-biological-molecules.md
 url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
 score: -1.0
 related_article1:
-    id: 167104
-    title: What is the general structure of an amino acid and how do side chains affect their properties?
+    id: 167108
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in protein folding?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
+    url: /learn/health-studies/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-protein-folding
 related_article2:
-    id: 167113
-    title: How does amino acid classification affect protein function and interaction?
+    id: 167107
+    title: >-
+        How do proteins contribute to structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-amino-acid-classification-affect-protein-function-and-interaction
+    url: /learn/health-studies/questions/how-do-proteins-contribute-to-structural-support-in-cells
 related_article3:
-    id: 167099
-    title: What roles do lipids play in energy storage and cell membrane structure?
+    id: 167106
+    title: >-
+        What roles do enzymes play in catalysis and reaction facilitation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
+    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
 related_article4:
-    id: 167111
-    title: What types of molecules provide structural support in cells?
+    id: 167090
+    title: >-
+        How do macromolecules differ in their structural and chemical properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
+    url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
 related_article5:
-    id: 167109
-    title: What are the main types of enzymes and their functions?
+    id: 167093
+    title: >-
+        What is the process of polymerization and why is it important in macromolecule formation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-enzymes-and-their-functions
+    url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
 ---
 
 &nbsp;

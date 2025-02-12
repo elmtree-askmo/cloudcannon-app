@@ -2,8 +2,10 @@
 _schema: default
 id: 163846
 date: 2025-01-27
-title: How can functions be used in mathematical modeling for real-world applications?
-article_title: How can functions be used in mathematical modeling for real-world applications?
+title: >-
+    How can functions be used in mathematical modeling for real-world applications?
+article_title: >-
+    How can functions be used in mathematical modeling for real-world applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-functions-be-used-in-mathematical-modeling-for-realworld-appl
 url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
 score: -1.0
 related_article1:
-    id: 163848
-    title: How can you manually plot a function, and what tools can assist in this process?
+    id: 163843
+    title: >-
+        What are horizontal and vertical asymptotes, and how do they differ?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
+    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
 related_article2:
-    id: 163844
-    title: How do exponential functions differ from linear functions in terms of growth patterns?
+    id: 163849
+    title: >-
+        What are the key features to identify when analyzing the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+    url: /learn/mathematics/questions/what-are-the-key-features-to-identify-when-analyzing-the-graph-of-a-function
 related_article3:
     id: 163838
-    title: What are the key differences in the domain and range of exponential and cubic functions?
+    title: >-
+        What are the key differences in the domain and range of exponential and cubic functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
 related_article4:
-    id: 163832
-    title: How can you find the minimum value of a quadratic function from its graph?
+    id: 163847
+    title: >-
+        What is the importance of graphical representation in understanding functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
 related_article5:
-    id: 163842
-    title: How do you find the x-intercepts and y-intercepts of a function?
+    id: 163836
+    title: >-
+        Why do cubic functions not have a maximum or minimum value?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-find-the-xintercepts-and-yintercepts-of-a-function
+    url: /learn/mathematics/questions/why-do-cubic-functions-not-have-a-maximum-or-minimum-value
 ---
 
 &nbsp;

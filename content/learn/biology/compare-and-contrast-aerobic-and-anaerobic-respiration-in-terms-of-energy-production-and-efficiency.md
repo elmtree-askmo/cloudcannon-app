@@ -2,8 +2,10 @@
 _schema: default
 id: 170347
 date: 2025-02-06
-title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
-article_title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+title: >-
+    Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+article_title: >-
+    Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-en
 url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
 score: -1.0
 related_article1:
-    id: 170346
-    title: What is cellular respiration, and why is it important for organisms?
+    id: 170357
+    title: >-
+        How does the principle of matter conservation apply to biological processes and ecosystem stability?
     subject: Biology
-    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+    url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
 related_article2:
-    id: 170348
-    title: How is chemical energy stored in glucose and converted to ATP in organisms?
-    subject: Biology
-    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
-related_article3:
-    id: 170345
-    title: How does photosynthesis contribute to the balance of ecosystems?
-    subject: Biology
-    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
-related_article4:
     id: 170344
-    title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    title: >-
+        What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
-related_article5:
-    id: 170352
-    title: How is ATP formed, and what is its role in energy transfer within cells?
+related_article3:
+    id: 170346
+    title: >-
+        What is cellular respiration, and why is it important for organisms?
     subject: Biology
-    url: /learn/biology/questions/how-is-atp-formed-and-what-is-its-role-in-energy-transfer-within-cells
+    url: /learn/biology/questions/what-is-cellular-respiration-and-why-is-it-important-for-organisms
+related_article4:
+    id: 170354
+    title: >-
+        How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
+related_article5:
+    id: 170344
+    title: >-
+        What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166607
 date: 2025-01-30
-title: Identify two common Greek roots found in English vocabulary and their meanings.
-article_title: Identify two common Greek roots found in English vocabulary and their meanings.
+title: >-
+    Identify two common Greek roots found in English vocabulary and their meanings.
+article_title: >-
+    Identify two common Greek roots found in English vocabulary and their meanings.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: identify-two-common-greek-roots-found-in-english-vocabulary-and-their
 url: /learn/education-studies/questions/identify-two-common-greek-roots-found-in-english-vocabulary-and-their-meanings
 score: -1.0
 related_article1:
-    id: 166603
-    title: Name two notable Greek authors and describe their contributions to history.
+    id: 166602
+    title: >-
+        What are the meanings of the political terms 'Basilius' and 'Archon' in ancient Greece?
     subject: Education Studies
-    url: /learn/education-studies/questions/name-two-notable-greek-authors-and-describe-their-contributions-to-history
+    url: /learn/education-studies/questions/what-are-the-meanings-of-the-political-terms-basilius-and-archon-in-ancient-greece
 related_article2:
-    id: 166600
-    title: What are some challenges faced in the transliteration of Greek names into English?
+    id: 166604
+    title: >-
+        What was the role of a 'Stratagos' in ancient Greek city-states?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-challenges-faced-in-the-transliteration-of-greek-names-into-english
+    url: /learn/education-studies/questions/what-was-the-role-of-a-stratagos-in-ancient-greek-citystates
 related_article3:
-    id: 166601
-    title: Who are the major Greek gods and goddesses, and what are their relationships?
+    id: 166608
+    title: >-
+        Describe the roles of Zeus and Hera in Greek mythology.
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
+    url: /learn/education-studies/questions/describe-the-roles-of-zeus-and-hera-in-greek-mythology
 related_article4:
-    id: 166601
-    title: Who are the major Greek gods and goddesses, and what are their relationships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
-related_article5:
     id: 166606
-    title: What was the significance of rhetoric in ancient Greek politics and society?
+    title: >-
+        What was the significance of rhetoric in ancient Greek politics and society?
     subject: Education Studies
     url: /learn/education-studies/questions/what-was-the-significance-of-rhetoric-in-ancient-greek-politics-and-society
 ---

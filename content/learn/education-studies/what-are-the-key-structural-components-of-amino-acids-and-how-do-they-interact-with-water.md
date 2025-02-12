@@ -2,8 +2,10 @@
 _schema: default
 id: 167001
 date: 2025-01-31
-title: What are the key structural components of amino acids and how do they interact with water?
-article_title: What are the key structural components of amino acids and how do they interact with water?
+title: >-
+    What are the key structural components of amino acids and how do they interact with water?
+article_title: >-
+    What are the key structural components of amino acids and how do they interact with water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-structural-components-of-amino-acids-and-how-do-they
 url: /learn/education-studies/questions/what-are-the-key-structural-components-of-amino-acids-and-how-do-they-interact-with-water
 score: -1.0
 related_article1:
-    id: 167011
-    title: What are the basic structural components of nucleotides?
+    id: 167004
+    title: >-
+        What is the role of covalent bonding in the formation of peptide bonds?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-basic-structural-components-of-nucleotides
+    url: /learn/education-studies/questions/what-is-the-role-of-covalent-bonding-in-the-formation-of-peptide-bonds
 related_article2:
+    id: 167013
+    title: >-
+        What are the types of nitrogenous bases and how do they pair in nucleic acids?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-types-of-nitrogenous-bases-and-how-do-they-pair-in-nucleic-acids
+related_article3:
     id: 167006
-    title: How does the quaternary structure of proteins differ from the tertiary structure in terms of chemical bonding?
+    title: >-
+        How does the quaternary structure of proteins differ from the tertiary structure in terms of chemical bonding?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-quaternary-structure-of-proteins-differ-from-the-tertiary-structure-in-terms-of-chemical-bonding
-related_article3:
-    id: 167005
-    title: Explain the importance of the tertiary structure for protein function and the types of bonding involved.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-importance-of-the-tertiary-structure-for-protein-function-and-the-types-of-bonding-involved
 related_article4:
-    id: 167008
-    title: How do ionic bonds contribute to the tertiary structure of proteins?
+    id: 167004
+    title: >-
+        What is the role of covalent bonding in the formation of peptide bonds?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins
+    url: /learn/education-studies/questions/what-is-the-role-of-covalent-bonding-in-the-formation-of-peptide-bonds
 related_article5:
-    id: 167002
-    title: How do polar and non-polar side chains affect the properties of amino acids?
+    id: 167014
+    title: >-
+        Explain the role of the phosphate group in the structure of nucleotides and nucleic acid backbones.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-polar-and-nonpolar-side-chains-affect-the-properties-of-amino-acids
+    url: /learn/education-studies/questions/explain-the-role-of-the-phosphate-group-in-the-structure-of-nucleotides-and-nucleic-acid-backbones
 ---
 
 &nbsp;

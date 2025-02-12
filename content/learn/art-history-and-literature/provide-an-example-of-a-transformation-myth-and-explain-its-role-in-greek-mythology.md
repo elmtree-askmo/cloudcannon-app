@@ -2,8 +2,10 @@
 _schema: default
 id: 163902
 date: 2025-01-28
-title: Provide an example of a transformation myth and explain its role in Greek mythology.
-article_title: Provide an example of a transformation myth and explain its role in Greek mythology.
+title: >-
+    Provide an example of a transformation myth and explain its role in Greek mythology.
+article_title: >-
+    Provide an example of a transformation myth and explain its role in Greek mythology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-a-transformation-myth-and-explain-its-role-in-g
 url: /learn/art-history-and-literature/questions/provide-an-example-of-a-transformation-myth-and-explain-its-role-in-greek-mythology
 score: 9.0
 related_article1:
-    id: 163895
-    title: What role did bards play in the preservation and dissemination of Greek myths?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
-related_article2:
-    id: 163900
-    title: What are some common themes found in mythological narratives?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
-related_article3:
-    id: 163904
-    title: In what ways did Greek myths influence the values and beliefs of ancient Greek society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
-related_article4:
     id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
+    title: >-
+        What are the key structural elements of the Homeric Hymns?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
-related_article5:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
+related_article2:
+    id: 163907
+    title: >-
+        How did historical events influence the development and interpretation of Greek myths over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/how-did-historical-events-influence-the-development-and-interpretation-of-greek-myths-over-time
+related_article3:
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+related_article4:
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
+related_article5:
+    id: 163905
+    title: >-
+        How have Greek myths been preserved and evolved over time through storytelling traditions?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
 ---
 
 &nbsp;

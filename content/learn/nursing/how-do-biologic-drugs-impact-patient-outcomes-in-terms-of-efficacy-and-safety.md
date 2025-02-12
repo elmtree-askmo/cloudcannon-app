@@ -2,8 +2,10 @@
 _schema: default
 id: 166478
 date: 2025-01-30
-title: How do biologic drugs impact patient outcomes in terms of efficacy and safety?
-article_title: How do biologic drugs impact patient outcomes in terms of efficacy and safety?
+title: >-
+    How do biologic drugs impact patient outcomes in terms of efficacy and safety?
+article_title: >-
+    How do biologic drugs impact patient outcomes in terms of efficacy and safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-an
 url: /learn/nursing/questions/how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety
 score: -1.0
 related_article1:
+    id: 166483
+    title: >-
+        How do somatic and visceral pain differ in terms of origin and sensation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
+related_article2:
+    id: 166482
+    title: >-
+        What are the potential fetal risks associated with Category D and X drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
+related_article3:
+    id: 166481
+    title: >-
+        What are Category D and X drugs, and why are they significant in pregnancy?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
+related_article4:
+    id: 166476
+    title: >-
+        How does pharmacogenomics influence the customization of treatment plans?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
+related_article5:
     id: 166479
-    title: What physiological variables must be considered when administering medication to patients?
+    title: >-
+        What physiological variables must be considered when administering medication to patients?
     subject: Nursing
     url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
-related_article2:
-    id: 166486
-    title: What distinguishes physical dependence on opioids from psychological dependence?
-    subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
-related_article3:
-    id: 166488
-    title: How does pain tolerance vary among individuals and what factors contribute to this variability?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
-related_article4:
-    id: 166486
-    title: What distinguishes physical dependence on opioids from psychological dependence?
-    subject: Nursing
-    url: /learn/nursing/questions/what-distinguishes-physical-dependence-on-opioids-from-psychological-dependence
-related_article5:
-    id: 166485
-    title: How does opioid tolerance affect pain management strategies?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-opioid-tolerance-affect-pain-management-strategies
 ---
 
 &nbsp;

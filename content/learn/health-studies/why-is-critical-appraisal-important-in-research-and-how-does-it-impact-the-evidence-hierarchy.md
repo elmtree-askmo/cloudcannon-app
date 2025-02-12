@@ -2,8 +2,10 @@
 _schema: default
 id: 163260
 date: 2025-01-26
-title: Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
-article_title: Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
+title: >-
+    Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
+article_title: >-
+    Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-critical-appraisal-important-in-research-and-how-does-it-impac
 url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
 score: -1.0
 related_article1:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    id: 163253
+    title: >-
+        What are the components of a Directed Acyclic Graph (DAG) and their significance?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
 related_article2:
-    id: 163262
-    title: What are point of care tools and how are they used in clinical settings?
+    id: 163259
+    title: >-
+        What role do systematic reviews and meta-analyses play in evidence appraisal?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
+    url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
 related_article3:
-    id: 163255
-    title: What is the difference between prevalence and incidence in descriptive studies?
+    id: 163254
+    title: >-
+        How can a DAG be used to identify confounders in a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
+    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
 related_article4:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
+    id: 163254
+    title: >-
+        How can a DAG be used to identify confounders in a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
+    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
 related_article5:
-    id: 163251
-    title: What are the primary objectives of clinical studies?
+    id: 163254
+    title: >-
+        How can a DAG be used to identify confounders in a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
+    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
 ---
 
 &nbsp;

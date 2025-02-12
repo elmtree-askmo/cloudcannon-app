@@ -2,8 +2,10 @@
 _schema: default
 id: 167822
 date: 2025-02-01
-title: What are the basic structural components of prokaryotic cells?
-article_title: What are the basic structural components of prokaryotic cells?
+title: >-
+    What are the basic structural components of prokaryotic cells?
+article_title: >-
+    What are the basic structural components of prokaryotic cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-basic-structural-components-of-prokaryotic-cells.md
 url: /learn/biology/questions/what-are-the-basic-structural-components-of-prokaryotic-cells
 score: -1.0
 related_article1:
-    id: 167828
-    title: How do mitosis and meiosis differ in terms of genetic outcomes?
+    id: 167815
+    title: >-
+        How does DNA replication ensure genetic consistency?
     subject: Biology
-    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 related_article2:
-    id: 167827
-    title: What are the primary types and functions of biological macromolecules?
+    id: 167815
+    title: >-
+        How does DNA replication ensure genetic consistency?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 related_article3:
-    id: 167812
-    title: What is the structure and composition of chromosomes?
+    id: 167814
+    title: >-
+        What is the significance of the double helix structure of DNA?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+    url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
 related_article4:
-    id: 167823
-    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    id: 167829
+    title: >-
+        What role does cell division play in genetic transmission?
     subject: Biology
-    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
 related_article5:
-    id: 167809
-    title: Why is DNA considered the genetic material?
+    id: 167829
+    title: >-
+        What role does cell division play in genetic transmission?
     subject: Biology
-    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
 ---
 
 &nbsp;

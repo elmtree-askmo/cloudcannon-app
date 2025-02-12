@@ -2,8 +2,10 @@
 _schema: default
 id: 165935
 date: 2025-01-29
-title: What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
-article_title: What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+title: >-
+    What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+article_title: >-
+    What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they
 url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 score: 9.0
 related_article1:
-    id: 165936
-    title: How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    id: 165931
+    title: >-
+        What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
+    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
 related_article2:
-    id: 165927
-    title: How was the Crystal Palace received by the public during the Great Exhibition?
+    id: 165926
+    title: >-
+        What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
+    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
 related_article3:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165921
+    title: >-
+        How did the Great Exhibition impact technological advancements in society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article4:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165931
+    title: >-
+        What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
 related_article5:
-    id: 165933
-    title: What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
+    id: 165931
+    title: >-
+        What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-logistical-challenges-faced-during-the-planning-and-organization-of-the-great-exhibition-of-1851
+    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
 ---
 
 &nbsp;

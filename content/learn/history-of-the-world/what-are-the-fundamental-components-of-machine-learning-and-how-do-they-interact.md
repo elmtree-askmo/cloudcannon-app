@@ -2,8 +2,10 @@
 _schema: default
 id: 166217
 date: 2025-01-29
-title: What are the fundamental components of machine learning, and how do they interact?
-article_title: What are the fundamental components of machine learning, and how do they interact?
+title: >-
+    What are the fundamental components of machine learning, and how do they interact?
+article_title: >-
+    What are the fundamental components of machine learning, and how do they interact?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-fundamental-components-of-machine-learning-and-how-do-th
 url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
 score: 9.5
 related_article1:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article2:
+    id: 166234
+    title: >-
+        What are the main debates and controversies in historiography, such as objectivity vs. subjectivity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-debates-and-controversies-in-historiography-such-as-objectivity-vs-subjectivity
+related_article3:
     id: 166216
-    title: What are the common challenges faced when implementing iClicker technology in classrooms?
+    title: >-
+        What are the common challenges faced when implementing iClicker technology in classrooms?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-common-challenges-faced-when-implementing-iclicker-technology-in-classrooms
-related_article3:
-    id: 166237
-    title: What are the main components involved in constructing historical narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
 related_article4:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
+    id: 166224
+    title: >-
+        How does sustainable development integrate economic considerations into environmental sustainability?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+    url: /learn/history-of-the-world/questions/how-does-sustainable-development-integrate-economic-considerations-into-environmental-sustainability
 related_article5:
-    id: 166235
-    title: What are the primary environmental impacts of human activities like deforestation and pollution?
+    id: 166220
+    title: >-
+        What are the main challenges associated with the interpretation of primary sources?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-environmental-impacts-of-human-activities-like-deforestation-and-pollution
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-associated-with-the-interpretation-of-primary-sources
 ---
 
 &nbsp;

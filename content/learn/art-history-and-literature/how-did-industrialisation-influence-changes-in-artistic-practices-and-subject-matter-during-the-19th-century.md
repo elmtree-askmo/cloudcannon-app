@@ -2,8 +2,10 @@
 _schema: default
 id: 160110
 date: 2025-01-23
-title: How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
-article_title: How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
+title: >-
+    How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
+article_title: >-
+    How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-industrialisation-influence-changes-in-artistic-practices-and
 url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-changes-in-artistic-practices-and-subject-matter-during-the-19th-century
 score: 9.0
 related_article1:
-    id: 159834
-    title: In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-were-some-key-artists-associated-with-this-movement
-related_article2:
-    id: 159842
-    title: How did queer art develop in modern society, and who were some key figures and movements in this area?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
-related_article3:
-    id: 159841
-    title: What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
-related_article4:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
-related_article5:
     id: 160201
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+related_article2:
+    id: 159844
+    title: >-
+        How did technological advances influence the depiction of modern life in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
+related_article3:
+    id: 160111
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
+related_article4:
+    id: 160201
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+related_article5:
+    id: 159844
+    title: >-
+        How did technological advances influence the depiction of modern life in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
 ---
 
 &nbsp;

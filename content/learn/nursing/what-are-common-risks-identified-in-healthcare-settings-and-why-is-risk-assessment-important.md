@@ -2,8 +2,10 @@
 _schema: default
 id: 169663
 date: 2025-02-05
-title: What are common risks identified in healthcare settings, and why is risk assessment important?
-article_title: What are common risks identified in healthcare settings, and why is risk assessment important?
+title: >-
+    What are common risks identified in healthcare settings, and why is risk assessment important?
+article_title: >-
+    What are common risks identified in healthcare settings, and why is risk assessment important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-common-risks-identified-in-healthcare-settings-and-why-is-ri
 url: /learn/nursing/questions/what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important
 score: -1.0
 related_article1:
+    id: 169666
+    title: >-
+        How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
+related_article2:
+    id: 169664
+    title: >-
+        How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
+related_article3:
+    id: 169683
+    title: >-
+        What techniques are effective in managing aggressive patients and ensuring staff safety?
+    subject: Nursing
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
+related_article4:
     id: 169682
-    title: What strategies can be implemented to prevent patient falls in hospitals?
+    title: >-
+        What strategies can be implemented to prevent patient falls in hospitals?
     subject: Nursing
     url: /learn/nursing/questions/what-strategies-can-be-implemented-to-prevent-patient-falls-in-hospitals
-related_article2:
-    id: 169671
-    title: What procedures are essential for preventing hospital-acquired infections?
-    subject: Nursing
-    url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
-related_article3:
-    id: 169667
-    title: What are the best practices for safe medication prescription and administration to avoid errors?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-best-practices-for-safe-medication-prescription-and-administration-to-avoid-errors
-related_article4:
-    id: 169674
-    title: What are the recommended practices for the safe disposal of sharps to prevent injuries?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
 related_article5:
-    id: 169675
-    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
+    id: 169670
+    title: >-
+        How is the safety of medical devices ensured under medications and healthcare products regulation?
     subject: Nursing
-    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
+    url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
 ---
 
 &nbsp;

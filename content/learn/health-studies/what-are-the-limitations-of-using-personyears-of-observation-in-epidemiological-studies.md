@@ -2,8 +2,10 @@
 _schema: default
 id: 163338
 date: 2025-01-26
-title: What are the limitations of using person-years of observation in epidemiological studies?
-article_title: What are the limitations of using person-years of observation in epidemiological studies?
+title: >-
+    What are the limitations of using person-years of observation in epidemiological studies?
+article_title: >-
+    What are the limitations of using person-years of observation in epidemiological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-limitations-of-using-personyears-of-observation-in-epide
 url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
 score: -1.0
 related_article1:
-    id: 163071
-    title: How do prevalence and incidence differ in terms of existing and new cases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
-related_article2:
-    id: 163067
-    title: What is a rate in epidemiology, and how can it be misunderstood?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
-related_article3:
-    id: 163065
-    title: How is a ratio different from a proportion in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
-related_article4:
     id: 163336
-    title: What is the relationship between prevalence, incidence rate, and disease duration?
+    title: >-
+        What is the relationship between prevalence, incidence rate, and disease duration?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
-related_article5:
-    id: 163325
-    title: What is the difference between fixed and dynamic populations in epidemiology?
+related_article2:
+    id: 163334
+    title: >-
+        Explain the concept of person-time in the context of incidence rate calculation.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+related_article3:
+    id: 163342
+    title: >-
+        What is the risk difference, and how is it calculated using a 2x2 table?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
+related_article4:
+    id: 163238
+    title: >-
+        How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
+related_article5:
+    id: 163236
+    title: >-
+        How is person-years of observation calculated, and why is it important in dynamic populations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
 ---
 
 &nbsp;

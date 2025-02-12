@@ -2,8 +2,10 @@
 _schema: default
 id: 160536
 date: 2025-01-24
-title: What were the key developments in operating systems that Apple introduced in the early 2000s?
-article_title: What were the key developments in operating systems that Apple introduced in the early 2000s?
+title: >-
+    What were the key developments in operating systems that Apple introduced in the early 2000s?
+article_title: >-
+    What were the key developments in operating systems that Apple introduced in the early 2000s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-were-the-key-developments-in-operating-systems-that-apple-introd
 url: /learn/computer-science/questions/what-were-the-key-developments-in-operating-systems-that-apple-introduced-in-the-early-2000s
 score: -1.0
 related_article1:
-    id: 160514
-    title: How did the first beta release of Mac OS X impact Apple's software development?
+    id: 160436
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
+    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
 related_article2:
-    id: 160429
-    title: What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
+    id: 160513
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 related_article3:
-    id: 160424
-    title: How did the introduction of the iPhone in 2007 transform the smartphone market?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
-related_article4:
-    id: 160521
-    title: How did Mac OS X 10.2 Jaguar improve upon previous versions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
-related_article5:
     id: 160538
-    title: What innovations did Apple introduce with the development of lightweight notebooks?
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
+related_article4:
+    id: 160419
+    title: >-
+        How did the launch of Apple's first retail store impact its business strategy?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-launch-of-apples-first-retail-store-impact-its-business-strategy
+related_article5:
+    id: 160436
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
     subject: Computer Science
     url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
 ---

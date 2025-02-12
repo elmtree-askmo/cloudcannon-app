@@ -2,8 +2,10 @@
 _schema: default
 id: 167126
 date: 2025-01-31
-title: How is the concentration of hydroxide ions related to hydrogen ions in a solution?
-article_title: How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+title: >-
+    How is the concentration of hydroxide ions related to hydrogen ions in a solution?
+article_title: >-
+    How is the concentration of hydroxide ions related to hydrogen ions in a solution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-i
 url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 score: -1.0
 related_article1:
-    id: 167115
-    title: How does the dissociation of substances occur during the dissolution process in water?
+    id: 167118
+    title: >-
+        Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-dissociation-of-substances-occur-during-the-dissolution-process-in-water
+    url: /learn/chemistry/questions/explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder
 related_article2:
-    id: 167114
-    title: What are the polar characteristics of water molecules and how do they interact with ions?
+    id: 167120
+    title: >-
+        How is pH mathematically represented and what is the pH of pure water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
+    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
 related_article3:
-    id: 167122
-    title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+    id: 167127
+    title: >-
+        Provide an example calculation for determining hydroxide ion concentration from pH.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
+    url: /learn/chemistry/questions/provide-an-example-calculation-for-determining-hydroxide-ion-concentration-from-ph
 related_article4:
-    id: 167121
-    title: Compare the pH levels of human blood and soda in terms of proton concentration.
+    id: 167116
+    title: >-
+        What role does hydrogen bonding play in the cohesion of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-ph-levels-of-human-blood-and-soda-in-terms-of-proton-concentration
+    url: /learn/chemistry/questions/what-role-does-hydrogen-bonding-play-in-the-cohesion-of-water
 related_article5:
     id: 167116
-    title: What role does hydrogen bonding play in the cohesion of water?
+    title: >-
+        What role does hydrogen bonding play in the cohesion of water?
     subject: Chemistry
     url: /learn/chemistry/questions/what-role-does-hydrogen-bonding-play-in-the-cohesion-of-water
 ---

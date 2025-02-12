@@ -2,8 +2,10 @@
 _schema: default
 id: 169186
 date: 2025-02-04
-title: How are generative AI tools used in design, and what ethical considerations are associated with their use?
-article_title: How are generative AI tools used in design, and what ethical considerations are associated with their use?
+title: >-
+    How are generative AI tools used in design, and what ethical considerations are associated with their use?
+article_title: >-
+    How are generative AI tools used in design, and what ethical considerations are associated with their use?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,20 +24,35 @@ file_name: how-are-generative-ai-tools-used-in-design-and-what-ethical-considera
 url: /learn/education-studies/questions/how-are-generative-ai-tools-used-in-design-and-what-ethical-considerations-are-associated-with-their-use
 score: -1.0
 related_article1:
-    id: 169175
-    title: What role does materiality play in the structural conundrums of architecture?
+    id: 169176
+    title: >-
+        How does nonobjectivity in art contribute to the understanding of abstract volumetric space?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-materiality-play-in-the-structural-conundrums-of-architecture
+    url: /learn/education-studies/questions/how-does-nonobjectivity-in-art-contribute-to-the-understanding-of-abstract-volumetric-space
 related_article2:
-    id: 169174
-    title: How does human perception influence the interpretation of space in architecture?
+    id: 169182
+    title: >-
+        How do cultural factors influence architectural design and the consideration of diverse needs and values?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
+    url: /learn/education-studies/questions/how-do-cultural-factors-influence-architectural-design-and-the-consideration-of-diverse-needs-and-values
 related_article3:
-    id: 169171
-    title: What is the significance of corner conditions in architectural design?
+    id: 169185
+    title: >-
+        What are the fundamental principles of architectural composition in two-dimensional and three-dimensional design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-corner-conditions-in-architectural-design
+    url: /learn/education-studies/questions/what-are-the-fundamental-principles-of-architectural-composition-in-twodimensional-and-threedimensional-design
+related_article4:
+    id: 169181
+    title: >-
+        What is the relationship between architectural theories and the design process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+related_article5:
+    id: 169185
+    title: >-
+        What are the fundamental principles of architectural composition in two-dimensional and three-dimensional design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-fundamental-principles-of-architectural-composition-in-twodimensional-and-threedimensional-design
 ---
 
 &nbsp;

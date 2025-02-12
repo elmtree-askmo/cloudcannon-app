@@ -2,8 +2,10 @@
 _schema: default
 id: 160497
 date: 2025-01-24
-title: How do community dynamics and social inequality influence social structures?
-article_title: How do community dynamics and social inequality influence social structures?
+title: >-
+    How do community dynamics and social inequality influence social structures?
+article_title: >-
+    How do community dynamics and social inequality influence social structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-community-dynamics-and-social-inequality-influence-social-stru
 url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
 score: -1.0
 related_article1:
-    id: 160092
-    title: How do place and space contribute to regional analysis and regional attributes?
+    id: 160081
+    title: >-
+        Describe the role of economic forces and global commodity chains in shaping economic patterns.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
 related_article2:
     id: 160564
-    title: What is the significance of population distribution and cultural landscapes in human systems?
+    title: >-
+        What is the significance of population distribution and cultural landscapes in human systems?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
 related_article3:
-    id: 160216
-    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    id: 160510
+    title: >-
+        How do natural landscapes and environmental processes define physical systems in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
 related_article4:
-    id: 160628
-    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    id: 160219
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
 related_article5:
-    id: 160551
-    title: How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
+    id: 160087
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
 ---
 
 &nbsp;

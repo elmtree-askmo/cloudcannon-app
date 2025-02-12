@@ -2,8 +2,10 @@
 _schema: default
 id: 161545
 date: 2025-01-24
-title: Describe the cooling techniques used to maintain optimal temperatures in computing systems.
-article_title: Describe the cooling techniques used to maintain optimal temperatures in computing systems.
+title: >-
+    Describe the cooling techniques used to maintain optimal temperatures in computing systems.
+article_title: >-
+    Describe the cooling techniques used to maintain optimal temperatures in computing systems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-cooling-techniques-used-to-maintain-optimal-temperatures
 url: /learn/computer-science/questions/describe-the-cooling-techniques-used-to-maintain-optimal-temperatures-in-computing-systems
 score: -1.0
 related_article1:
-    id: 161541
-    title: How does memory bandwidth affect the performance of supercomputers?
+    id: 161543
+    title: >-
+        How does checkpointing contribute to fault tolerance in supercomputers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-memory-bandwidth-affect-the-performance-of-supercomputers
+    url: /learn/computer-science/questions/how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputers
 related_article2:
-    id: 161295
-    title: What does MIPS measure in mainframe performance metrics?
+    id: 161553
+    title: >-
+        What are the disadvantages of a gesture-based interface compared to other user interfaces?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-gesturebased-interface-compared-to-other-user-interfaces
 related_article3:
-    id: 161290
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161312
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
 related_article4:
-    id: 161293
-    title: What is the purpose of encryption in access control?
+    id: 161308
+    title: >-
+        What are the disadvantages of a graphical user interface?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-graphical-user-interface
 related_article5:
-    id: 161294
-    title: Why is disaster recovery an essential aspect of physical security in computing?
+    id: 161305
+    title: >-
+        What are the characteristics of open source software?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-aspect-of-physical-security-in-computing
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-open-source-software
 ---
 
 &nbsp;

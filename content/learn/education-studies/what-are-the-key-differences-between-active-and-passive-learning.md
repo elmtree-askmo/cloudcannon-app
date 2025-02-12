@@ -2,8 +2,10 @@
 _schema: default
 id: 165571
 date: 2025-01-29
-title: What are the key differences between active and passive learning?
-article_title: What are the key differences between active and passive learning?
+title: >-
+    What are the key differences between active and passive learning?
+article_title: >-
+    What are the key differences between active and passive learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-active-and-passive-learning.md
 url: /learn/education-studies/questions/what-are-the-key-differences-between-active-and-passive-learning
 score: -1.0
 related_article1:
-    id: 165577
-    title: How does the Pomodoro Technique help reduce procrastination and improve focus?
+    id: 165588
+    title: >-
+        How can daily review practices with flashcards be integrated into a study routine?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-pomodoro-technique-help-reduce-procrastination-and-improve-focus
+    url: /learn/education-studies/questions/how-can-daily-review-practices-with-flashcards-be-integrated-into-a-study-routine
 related_article2:
-    id: 165578
-    title: What are the benefits of writing notes by hand compared to typing them?
+    id: 165587
+    title: >-
+        What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-writing-notes-by-hand-compared-to-typing-them
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-flashcards-for-active-recall-and-what-are-the-limitations-of-recognition
 related_article3:
-    id: 165575
-    title: How can group study dynamics enhance learning, and what is the optimal group size?
+    id: 165582
+    title: >-
+        What role do summary sheets play in memorization techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-group-study-dynamics-enhance-learning-and-what-is-the-optimal-group-size
+    url: /learn/education-studies/questions/what-role-do-summary-sheets-play-in-memorization-techniques
 related_article4:
+    id: 165580
+    title: >-
+        How does attending lectures in person differ from listening to podcasts in terms of learning benefits?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-attending-lectures-in-person-differ-from-listening-to-podcasts-in-terms-of-learning-benefits
+related_article5:
     id: 165576
-    title: What is the Pomodoro Technique, and how is it structured?
+    title: >-
+        What is the Pomodoro Technique, and how is it structured?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-pomodoro-technique-and-how-is-it-structured
-related_article5:
-    id: 165598
-    title: What are the benefits of teaching others as a form of learning reinforcement?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-teaching-others-as-a-form-of-learning-reinforcement
 ---
 
 &nbsp;

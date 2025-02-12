@@ -2,8 +2,10 @@
 _schema: default
 id: 163720
 date: 2025-01-27
-title: Describe how scaling affects the graph of a quadratic function.
-article_title: Describe how scaling affects the graph of a quadratic function.
+title: >-
+    Describe how scaling affects the graph of a quadratic function.
+article_title: >-
+    Describe how scaling affects the graph of a quadratic function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-how-scaling-affects-the-graph-of-a-quadratic-function.md
 url: /learn/mathematics/questions/describe-how-scaling-affects-the-graph-of-a-quadratic-function
 score: -1.0
 related_article1:
-    id: 163724
-    title: Why is the negative domain excluded in the principal square root?
+    id: 163721
+    title: >-
+        What are the effects of horizontal shifts on the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
+    url: /learn/mathematics/questions/what-are-the-effects-of-horizontal-shifts-on-the-graph-of-a-function
 related_article2:
-    id: 163715
-    title: Explain the concept of symmetry in graphs and provide an example.
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-in-graphs-and-provide-an-example
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 related_article3:
-    id: 163723
-    title: What are the domain restrictions for the function y = √x, and why do they exist?
+    id: 163716
+    title: >-
+        What is an inverse function, and how can it be graphically represented?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-restrictions-for-the-function-y--x-and-why-do-they-exist
+    url: /learn/mathematics/questions/what-is-an-inverse-function-and-how-can-it-be-graphically-represented
 related_article4:
-    id: 163725
-    title: Explain the concept of symmetry around the y-axis and provide an example.
+    id: 163712
+    title: >-
+        How is radical notation used to represent square roots?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
+    url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
 related_article5:
-    id: 163719
-    title: How do you determine the direction in which a parabola opens?
+    id: 163722
+    title: >-
+        How do vertical shifts impact the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
+    url: /learn/mathematics/questions/how-do-vertical-shifts-impact-the-graph-of-a-function
 ---
 
 &nbsp;

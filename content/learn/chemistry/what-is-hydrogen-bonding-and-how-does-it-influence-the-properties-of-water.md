@@ -2,8 +2,10 @@
 _schema: default
 id: 167425
 date: 2025-01-31
-title: What is hydrogen bonding and how does it influence the properties of water?
-article_title: What is hydrogen bonding and how does it influence the properties of water?
+title: >-
+    What is hydrogen bonding and how does it influence the properties of water?
+article_title: >-
+    What is hydrogen bonding and how does it influence the properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-
 url: /learn/chemistry/questions/what-is-hydrogen-bonding-and-how-does-it-influence-the-properties-of-water
 score: -1.0
 related_article1:
-    id: 167431
-    title: What is surface tension and how is it explained at the molecular level?
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
 related_article2:
-    id: 167433
-    title: Explain the biological implications of surface tension with an example of an organism that utilizes it.
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-biological-implications-of-surface-tension-with-an-example-of-an-organism-that-utilizes-it
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
 related_article3:
-    id: 167428
-    title: How does cohesion contribute to natural phenomena such as water transport in plants?
+    id: 167423
+    title: >-
+        What is the molecular structure of water and how does it contribute to its polarity?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-cohesion-contribute-to-natural-phenomena-such-as-water-transport-in-plants
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
 related_article4:
-    id: 167442
-    title: What is the function of xylem in plants and how does it facilitate water transport against gravity?
+    id: 167438
+    title: >-
+        Describe the molecular arrangement of water molecules during the freezing process and its effect on ice density.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
+    url: /learn/chemistry/questions/describe-the-molecular-arrangement-of-water-molecules-during-the-freezing-process-and-its-effect-on-ice-density
 related_article5:
-    id: 167436
-    title: What is the specific heat of water and how is it measured?
+    id: 167429
+    title: >-
+        What is adhesion and how does it differ from cohesion in terms of mechanism?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+    url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161706
 date: 2025-01-24
-title: What are the main components of an information system, and how do they interact?
-article_title: What are the main components of an information system, and how do they interact?
+title: >-
+    What are the main components of an information system, and how do they interact?
+article_title: >-
+    What are the main components of an information system, and how do they interact?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-an-information-system-and-how-do-they
 url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 score: -1.0
 related_article1:
-    id: 161501
-    title: What are the characteristics of batch processing and what are its advantages and disadvantages?
+    id: 161686
+    title: >-
+        What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article2:
-    id: 161705
-    title: Why is data analysis important, and what techniques and tools are commonly used?
+    id: 161429
+    title: >-
+        What are the main characteristics of direct data, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-techniques-and-tools-are-commonly-used
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article3:
-    id: 161701
-    title: What is a parity check, and what are its limitations in error detection?
+    id: 161698
+    title: >-
+        What are the characteristics of real-time processing, and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-realtime-processing-and-why-is-it-important
 related_article4:
-    id: 161433
-    title: What factors influence the relevance of information, and why is it important?
+    id: 161489
+    title: >-
+        What is the definition of data and why is raw data considered meaningless?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
 related_article5:
-    id: 161504
-    title: What is the purpose of data validation and how do range checks and type checks function?
+    id: 161431
+    title: >-
+        How does indirect data differ from direct data, and what are some examples of its uses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
+    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-some-examples-of-its-uses
 ---
 
 &nbsp;

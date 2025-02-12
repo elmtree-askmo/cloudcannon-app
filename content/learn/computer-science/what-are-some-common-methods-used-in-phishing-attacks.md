@@ -2,8 +2,10 @@
 _schema: default
 id: 161465
 date: 2025-01-24
-title: What are some common methods used in phishing attacks?
-article_title: What are some common methods used in phishing attacks?
+title: >-
+    What are some common methods used in phishing attacks?
+article_title: >-
+    What are some common methods used in phishing attacks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-methods-used-in-phishing-attacks.md
 url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
 score: -1.0
 related_article1:
-    id: 161459
-    title: Why is it important to regularly update anti-virus software?
+    id: 161247
+    title: >-
+        How does biometric data differ from other types of personal data?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
+    url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
 related_article2:
-    id: 161248
-    title: What is the purpose of de-identification in data protection?
+    id: 161260
+    title: >-
+        How can users recognize and prevent pharming attempts?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
+    url: /learn/computer-science/questions/how-can-users-recognize-and-prevent-pharming-attempts
 related_article3:
-    id: 161468
-    title: What are the advantages of using biometric security for authentication?
+    id: 161258
+    title: >-
+        How can ransomware be prevented and removed?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
+    url: /learn/computer-science/questions/how-can-ransomware-be-prevented-and-removed
 related_article4:
-    id: 161392
-    title: How can individuals recognize and prevent pharming attempts?
+    id: 161466
+    title: >-
+        How can individuals recognize and prevent pharming attempts?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
 related_article5:
-    id: 161391
-    title: What are some common methods used in phishing attacks?
+    id: 161253
+    title: >-
+        Why is it important to regularly update anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
+    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168791
 date: 2025-02-04
-title: How does muscle contraction in the bronchial muscles affect breathing during an asthma attack?
-article_title: How does muscle contraction in the bronchial muscles affect breathing during an asthma attack?
+title: >-
+    How does muscle contraction in the bronchial muscles affect breathing during an asthma attack?
+article_title: >-
+    How does muscle contraction in the bronchial muscles affect breathing during an asthma attack?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/how-does-muscle-contraction-in-the-bronchia
 score: -1.0
 related_article1:
     id: 168787
-    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    title: >-
+        Identify the common symptoms of Tuberculosis and explain how they affect the body.
     subject: Health Studies
     url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
 related_article2:
-    id: 168788
-    title: What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-asthma-and-how-do-they-lead-to-an-asthma-attack
-related_article3:
-    id: 168795
-    title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
-    subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
-related_article4:
     id: 168787
-    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    title: >-
+        Identify the common symptoms of Tuberculosis and explain how they affect the body.
     subject: Health Studies
     url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
-related_article5:
-    id: 168795
-    title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
+related_article3:
+    id: 168785
+    title: >-
+        Describe the structure and function of alveoli and explain how dust and smoking can impact them.
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
+    url: /learn/health-studies/questions/describe-the-structure-and-function-of-alveoli-and-explain-how-dust-and-smoking-can-impact-them
+related_article4:
+    id: 168792
+    title: >-
+        What is the role of the immune response in maintaining respiratory health, particularly in response to dust and allergens?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-the-immune-response-in-maintaining-respiratory-health-particularly-in-response-to-dust-and-allergens
+related_article5:
+    id: 168789
+    title: >-
+        Describe the symptoms of asthma and discuss the role of inhalers in managing these symptoms.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-symptoms-of-asthma-and-discuss-the-role-of-inhalers-in-managing-these-symptoms
 ---
 
 &nbsp;

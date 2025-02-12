@@ -2,8 +2,10 @@
 _schema: default
 id: 160258
 date: 2025-01-23
-title: What were the geographic locations of major Celtic tribes and their natural resources?
-article_title: What were the geographic locations of major Celtic tribes and their natural resources?
+title: >-
+    What were the geographic locations of major Celtic tribes and their natural resources?
+article_title: >-
+    What were the geographic locations of major Celtic tribes and their natural resources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-geographic-locations-of-major-celtic-tribes-and-their-n
 url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 score: 8.5
 related_article1:
-    id: 159914
-    title: How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
+    id: 160379
+    title: >-
+        How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
 related_article2:
-    id: 159920
-    title: How did Celtic architectural styles reflect their settlement patterns?
+    id: 159901
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 related_article3:
-    id: 159862
-    title: What are the main characteristics of Halstatt Culture's art and material goods?
+    id: 159925
+    title: >-
+        What were the geographic locations of major Celtic tribes and their natural resources?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
 related_article4:
-    id: 159860
-    title: How did the burial practices of the Beaker People and Corded Ware People reflect their cultural characteristics?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-reflect-their-cultural-characteristics
-related_article5:
     id: 160380
-    title: What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
+    title: >-
+        What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
+related_article5:
+    id: 159903
+    title: >-
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 ---
 
 &nbsp;

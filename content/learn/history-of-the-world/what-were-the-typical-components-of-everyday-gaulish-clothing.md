@@ -2,8 +2,10 @@
 _schema: default
 id: 166080
 date: 2025-01-29
-title: What were the typical components of everyday Gaulish clothing?
-article_title: What were the typical components of everyday Gaulish clothing?
+title: >-
+    What were the typical components of everyday Gaulish clothing?
+article_title: >-
+    What were the typical components of everyday Gaulish clothing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-typical-components-of-everyday-gaulish-clothing.md
 url: /learn/history-of-the-world/questions/what-were-the-typical-components-of-everyday-gaulish-clothing
 score: 8.5
 related_article1:
-    id: 166084
-    title: Describe the characteristics of Gaulish speech and the role of bards in their society.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-characteristics-of-gaulish-speech-and-the-role-of-bards-in-their-society
-related_article2:
-    id: 166078
-    title: Identify the main types of weapons used by the Gauls and their characteristics.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
-related_article3:
-    id: 166081
-    title: Explain the significance of helmets and decorations in Gaulish battle attire.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
-related_article4:
     id: 166082
-    title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    title: >-
+        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
-related_article5:
+related_article2:
     id: 166086
-    title: How did Druids influence Gaulish society both in peace and war?
+    title: >-
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
+related_article3:
+    id: 166079
+    title: >-
+        How did Gauls use shields in battle, and what were the variations in their armor?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-gauls-use-shields-in-battle-and-what-were-the-variations-in-their-armor
+related_article4:
+    id: 166087
+    title: >-
+        What methods of divination were used by the Gauls, and how did they influence decision-making?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-methods-of-divination-were-used-by-the-gauls-and-how-did-they-influence-decisionmaking
+related_article5:
+    id: 166081
+    title: >-
+        Explain the significance of helmets and decorations in Gaulish battle attire.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
 ---
 
 &nbsp;

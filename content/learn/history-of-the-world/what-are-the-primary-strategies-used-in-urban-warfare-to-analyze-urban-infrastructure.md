@@ -2,8 +2,10 @@
 _schema: default
 id: 169098
 date: 2025-02-04
-title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
-article_title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
+title: >-
+    What are the primary strategies used in urban warfare to analyze urban infrastructure?
+article_title: >-
+    What are the primary strategies used in urban warfare to analyze urban infrastructure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-
 score: 9.0
 related_article1:
     id: 169093
-    title: What are the characteristics of non-linear warfare in military tactics?
+    title: >-
+        What are the characteristics of non-linear warfare in military tactics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
 related_article2:
-    id: 169101
-    title: How does geopolitical architecture affect urban infrastructure analysis?
+    id: 169100
+    title: >-
+        What is the impact of conflict on military architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
+    url: /learn/history-of-the-world/questions/what-is-the-impact-of-conflict-on-military-architecture
 related_article3:
-    id: 169104
-    title: What challenges do military training and education face in institutional conflicts?
+    id: 169085
+    title: >-
+        What role does spatial reinterpretation play in urban combat strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
+    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
 related_article4:
-    id: 169084
-    title: Explain the concept of 'walking through walls' in urban combat strategies.
+    id: 169095
+    title: >-
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 related_article5:
-    id: 169084
-    title: Explain the concept of 'walking through walls' in urban combat strategies.
+    id: 169082
+    title: >-
+        What are the key components of inverse geometry in urban warfare tactical maneuvers?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
 ---
 
 &nbsp;

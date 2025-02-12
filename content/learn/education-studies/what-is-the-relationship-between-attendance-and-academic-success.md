@@ -2,8 +2,10 @@
 _schema: default
 id: 160685
 date: 2025-01-24
-title: What is the relationship between attendance and academic success?
-article_title: What is the relationship between attendance and academic success?
+title: >-
+    What is the relationship between attendance and academic success?
+article_title: >-
+    What is the relationship between attendance and academic success?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-attendance-and-academic-success.md
 url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-academic-success
 score: -1.0
 related_article1:
-    id: 160679
-    title: Why is engagement in lectures important for academic success?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-engagement-in-lectures-important-for-academic-success
-related_article2:
-    id: 160688
-    title: What are the benefits of reflective practice for professional growth?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-reflective-practice-for-professional-growth
-related_article3:
-    id: 160673
-    title: What is the purpose of reflective writing in personal and academic contexts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-reflective-writing-in-personal-and-academic-contexts
-related_article4:
     id: 160690
-    title: How have educational institutions evolved from traditional to modern education?
+    title: >-
+        How have educational institutions evolved from traditional to modern education?
     subject: Education Studies
     url: /learn/education-studies/questions/how-have-educational-institutions-evolved-from-traditional-to-modern-education
-related_article5:
-    id: 160668
-    title: How can reflective practices improve metacognitive skills?
+related_article2:
+    id: 160680
+    title: >-
+        What are effective note-taking strategies during lectures?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-practices-improve-metacognitive-skills
+    url: /learn/education-studies/questions/what-are-effective-notetaking-strategies-during-lectures
+related_article3:
+    id: 160690
+    title: >-
+        How have educational institutions evolved from traditional to modern education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-have-educational-institutions-evolved-from-traditional-to-modern-education
+related_article4:
+    id: 160674
+    title: >-
+        How can journaling be used as a technique for reflective writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-journaling-be-used-as-a-technique-for-reflective-writing
+related_article5:
+    id: 160683
+    title: >-
+        What are the characteristics of traditional classroom environments compared to online learning platforms?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-traditional-classroom-environments-compared-to-online-learning-platforms
 ---
 
 &nbsp;

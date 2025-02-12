@@ -2,8 +2,10 @@
 _schema: default
 id: 169853
 date: 2025-02-05
-title: Explain the concept of active and reactive power in electrical circuits.
-article_title: Explain the concept of active and reactive power in electrical circuits.
+title: >-
+    Explain the concept of active and reactive power in electrical circuits.
+article_title: >-
+    Explain the concept of active and reactive power in electrical circuits.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-active-and-reactive-power-in-electrical-circui
 url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
 score: -1.0
 related_article1:
-    id: 169849
-    title: Define a bipole and explain its role in an electrical circuit.
+    id: 169859
+    title: >-
+        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
     subject: Engineering
-    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
 related_article2:
-    id: 169846
-    title: Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+    id: 169843
+    title: >-
+        What are the basic postulates and conventions used in the analysis of DC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
 related_article3:
-    id: 169855
-    title: What is the difference between series and parallel association of electrical bipoles?
+    id: 169844
+    title: >-
+        How do Kirchhoff's laws apply to the analysis of DC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
 related_article4:
-    id: 169845
-    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    id: 169854
+    title: >-
+        How is power factor correction achieved in electrical systems?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
 related_article5:
-    id: 169845
-    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    id: 169857
+    title: >-
+        Define impedance and its importance in AC circuit analysis.
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+    url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167810
 date: 2025-02-01
-title: What roles do chromosomes and chromatin play in genetic material organization?
-article_title: What roles do chromosomes and chromatin play in genetic material organization?
+title: >-
+    What roles do chromosomes and chromatin play in genetic material organization?
+article_title: >-
+    What roles do chromosomes and chromatin play in genetic material organization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-roles-do-chromosomes-and-chromatin-play-in-genetic-material-orga
 url: /learn/biology/questions/what-roles-do-chromosomes-and-chromatin-play-in-genetic-material-organization
 score: -1.0
 related_article1:
-    id: 167809
-    title: Why is DNA considered the genetic material?
+    id: 167829
+    title: >-
+        What role does cell division play in genetic transmission?
     subject: Biology
-    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+    url: /learn/biology/questions/what-role-does-cell-division-play-in-genetic-transmission
 related_article2:
-    id: 167818
-    title: How does transcription differ from translation in protein synthesis?
+    id: 167808
+    title: >-
+        How do genetic resemblance and variation contribute to the study of genetics?
     subject: Biology
-    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+    url: /learn/biology/questions/how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics
 related_article3:
-    id: 167813
-    title: How does chromatin differ in non-dividing cells compared to dividing cells?
-    subject: Biology
-    url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
-related_article4:
     id: 167816
-    title: What are the key differences between prokaryotic and eukaryotic DNA?
+    title: >-
+        What are the key differences between prokaryotic and eukaryotic DNA?
     subject: Biology
     url: /learn/biology/questions/what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna
-related_article5:
-    id: 167815
-    title: How does DNA replication ensure genetic consistency?
+related_article4:
+    id: 167811
+    title: >-
+        How do sister chromatids function during cell division?
     subject: Biology
-    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
+    url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
+related_article5:
+    id: 167828
+    title: >-
+        How do mitosis and meiosis differ in terms of genetic outcomes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163381
 date: 2025-01-26
-title: How is traditional knowledge transmitted within First Nations communities, and why is it important?
-article_title: How is traditional knowledge transmitted within First Nations communities, and why is it important?
+title: >-
+    How is traditional knowledge transmitted within First Nations communities, and why is it important?
+article_title: >-
+    How is traditional knowledge transmitted within First Nations communities, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-is-traditional-knowledge-transmitted-within-first-nations-communi
 url: /learn/health-studies/questions/how-is-traditional-knowledge-transmitted-within-first-nations-communities-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 163371
-    title: What were the impacts of European contact on the health status of First Nations?
+    id: 163382
+    title: >-
+        What are the challenges and benefits of integrating traditional knowledge systems with public health services?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-impacts-of-european-contact-on-the-health-status-of-first-nations
+    url: /learn/health-studies/questions/what-are-the-challenges-and-benefits-of-integrating-traditional-knowledge-systems-with-public-health-services
 related_article2:
-    id: 163376
-    title: How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
+    id: 163374
+    title: >-
+        How does the Four Worlds Institute Model define well-being, and what are its guiding principles?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
+    url: /learn/health-studies/questions/how-does-the-four-worlds-institute-model-define-wellbeing-and-what-are-its-guiding-principles
 related_article3:
+    id: 163378
+    title: >-
+        How have economic shifts contributed to socio-economic disadvantages for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-economic-shifts-contributed-to-socioeconomic-disadvantages-for-first-nations
+related_article4:
     id: 163386
-    title: Why is cultural integrity and identity important for the health and well-being of First Nations communities?
+    title: >-
+        Why is cultural integrity and identity important for the health and well-being of First Nations communities?
     subject: Health Studies
     url: /learn/health-studies/questions/why-is-cultural-integrity-and-identity-important-for-the-health-and-wellbeing-of-first-nations-communities
-related_article4:
-    id: 163373
-    title: What are the key determinants of health according to the Public Health Agency of Canada, and why might they be limited for First Nations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-determinants-of-health-according-to-the-public-health-agency-of-canada-and-why-might-they-be-limited-for-first-nations
-related_article5:
-    id: 163371
-    title: What were the impacts of European contact on the health status of First Nations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-impacts-of-european-contact-on-the-health-status-of-first-nations
 ---
 
 &nbsp;

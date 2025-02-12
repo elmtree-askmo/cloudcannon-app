@@ -2,8 +2,10 @@
 _schema: default
 id: 163662
 date: 2025-01-27
-title: What role does critical criminology play in understanding the criminalization of Indigenous people?
-article_title: What role does critical criminology play in understanding the criminalization of Indigenous people?
+title: >-
+    What role does critical criminology play in understanding the criminalization of Indigenous people?
+article_title: >-
+    What role does critical criminology play in understanding the criminalization of Indigenous people?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-critical-criminology-play-in-understanding-the-crimina
 url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
 score: -1.0
 related_article1:
-    id: 163672
-    title: How does primary data collection differ from secondary data analysis in research?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
-related_article2:
     id: 163671
-    title: What are the key components of a research strategy in methodology?
+    title: >-
+        What are the key components of a research strategy in methodology?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article2:
+    id: 163670
+    title: >-
+        What is the historical context of settler colonialism and its impact on Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
 related_article3:
     id: 163665
-    title: How do epistemological claims influence knowledge production in research?
+    title: >-
+        How do epistemological claims influence knowledge production in research?
     subject: Sociology
     url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
 related_article4:
-    id: 163658
-    title: What are the key differences between participant observation and interviews in qualitative research?
+    id: 163661
+    title: >-
+        How do social inequalities manifest within social hierarchies?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 related_article5:
-    id: 163665
-    title: How do epistemological claims influence knowledge production in research?
+    id: 163669
+    title: >-
+        How do race, class, and gender influence social relations and outcomes of social processes?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161009
 date: 2025-01-24
-title: What is the role of separating logic and control in algorithm development?
-article_title: What is the role of separating logic and control in algorithm development?
+title: >-
+    What is the role of separating logic and control in algorithm development?
+article_title: >-
+    What is the role of separating logic and control in algorithm development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-separating-logic-and-control-in-algorithm-develop
 url: /learn/computer-science/questions/what-is-the-role-of-separating-logic-and-control-in-algorithm-development
 score: -1.0
 related_article1:
-    id: 161030
-    title: How can constraints simplify algorithm design?
+    id: 160764
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article2:
-    id: 161031
-    title: What data is required for generating circular calendars?
+    id: 161005
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article3:
-    id: 160777
-    title: What is the purpose of abstraction in computing?
+    id: 160775
+    title: >-
+        Describe the divide and conquer strategy in algorithm development.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
 related_article4:
-    id: 160720
-    title: What data is required for generating a circular calendar?
+    id: 160692
+    title: >-
+        How does transitioning from a problem to a program aid in problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar
+    url: /learn/computer-science/questions/how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-solving
 related_article5:
-    id: 160793
-    title: How do indices convey information in data structures?
+    id: 160718
+    title: >-
+        How do constraints impact algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-indices-convey-information-in-data-structures
+    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design
 ---
 
 &nbsp;

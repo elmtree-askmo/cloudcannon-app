@@ -2,8 +2,10 @@
 _schema: default
 id: 166952
 date: 2025-01-31
-title: What is the fundamental structure of an amino acid?
-article_title: What is the fundamental structure of an amino acid?
+title: >-
+    What is the fundamental structure of an amino acid?
+article_title: >-
+    What is the fundamental structure of an amino acid?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-fundamental-structure-of-an-amino-acid.md
 url: /learn/biotechnology/questions/what-is-the-fundamental-structure-of-an-amino-acid
 score: -1.0
 related_article1:
-    id: 166953
-    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 related_article2:
-    id: 166955
-    title: How do positively charged R-groups differ from negatively charged R-groups?
+    id: 166964
+    title: >-
+        What are the causes and effects of protein denaturation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-positively-charged-rgroups-differ-from-negatively-charged-rgroups
+    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation
 related_article3:
-    id: 166965
-    title: How do molecular chaperones assist in protein folding?
+    id: 166959
+    title: >-
+        How do alpha helices and beta pleated sheets contribute to the secondary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-beta-pleated-sheets-contribute-to-the-secondary-structure-of-proteins
 related_article4:
-    id: 166965
-    title: How do molecular chaperones assist in protein folding?
+    id: 166954
+    title: >-
+        What are the characteristics of nonpolar aliphatic R-groups?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
 related_article5:
-    id: 166966
-    title: What is the role of the GroEL-GroES chaperone in protein folding?
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

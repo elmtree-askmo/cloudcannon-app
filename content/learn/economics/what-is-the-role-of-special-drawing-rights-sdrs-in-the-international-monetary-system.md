@@ -2,8 +2,10 @@
 _schema: default
 id: 159670
 date: 2025-01-23
-title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
-article_title: What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+title: >-
+    What is the role of Special Drawing Rights (SDRs) in the international monetary system?
+article_title: >-
+    What is the role of Special Drawing Rights (SDRs) in the international monetary system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-
 url: /learn/economics/questions/what-is-the-role-of-special-drawing-rights-sdrs-in-the-international-monetary-system
 score: -1.0
 related_article1:
+    id: 159683
+    title: >-
+        How does the WTO engage in outreach to enhance cooperation and awareness with NGOs and international organizations?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-engage-in-outreach-to-enhance-cooperation-and-awareness-with-ngos-and-international-organizations
+related_article2:
     id: 159669
-    title: How does the IMF contribute to capacity development in public finances and monetary policies?
+    title: >-
+        How does the IMF contribute to capacity development in public finances and monetary policies?
     subject: Economics
     url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
-related_article2:
-    id: 159679
-    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
 related_article3:
-    id: 159679
-    title: How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    id: 159674
+    title: >-
+        How is the World Bank organized, and what are the roles of the Board of Governors and Executive Directors?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+    url: /learn/economics/questions/how-is-the-world-bank-organized-and-what-are-the-roles-of-the-board-of-governors-and-executive-directors
 related_article4:
-    id: 159672
-    title: What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
+    id: 159677
+    title: >-
+        What is the financial structure of the World Bank, including the roles of the IBRD, IDA, and IFC?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-governance-structure-of-the-imf-including-the-roles-of-the-board-of-governors-and-the-executive-board
+    url: /learn/economics/questions/what-is-the-financial-structure-of-the-world-bank-including-the-roles-of-the-ibrd-ida-and-ifc
 related_article5:
     id: 159678
-    title: What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
     subject: Economics
     url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 ---

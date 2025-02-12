@@ -2,8 +2,10 @@
 _schema: default
 id: 170901
 date: 2025-02-07
-title: What cognitive processes are involved in animal decision-making?
-article_title: What cognitive processes are involved in animal decision-making?
+title: >-
+    What cognitive processes are involved in animal decision-making?
+article_title: >-
+    What cognitive processes are involved in animal decision-making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cognitive-processes-are-involved-in-animal-decisionmaking.md
 url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
 score: -1.0
 related_article1:
-    id: 170906
-    title: What are the limitations of mathematical models in ecological modeling?
+    id: 170893
+    title: >-
+        What are the key assumptions of foraging theory?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
+    url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
 related_article2:
-    id: 170899
-    title: What is the Marginal Value Theorem in optimal foraging theory?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-foraging-theory
-related_article3:
-    id: 170894
-    title: How is energy profitability calculated in foraging theory?
-    subject: Biology
-    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
-related_article4:
     id: 170897
-    title: What are some common predator strategies in predator-prey dynamics?
+    title: >-
+        What are some common predator strategies in predator-prey dynamics?
     subject: Biology
     url: /learn/biology/questions/what-are-some-common-predator-strategies-in-predatorprey-dynamics
-related_article5:
-    id: 170900
-    title: Can you provide an example of optimal foraging behavior in nature?
+related_article3:
+    id: 170898
+    title: >-
+        How do prey evasion tactics impact predator-prey interactions?
     subject: Biology
-    url: /learn/biology/questions/can-you-provide-an-example-of-optimal-foraging-behavior-in-nature
+    url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
+related_article4:
+    id: 170893
+    title: >-
+        What are the key assumptions of foraging theory?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
+related_article5:
+    id: 170907
+    title: >-
+        How does behavioral ecology relate to evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
 ---
 
 &nbsp;

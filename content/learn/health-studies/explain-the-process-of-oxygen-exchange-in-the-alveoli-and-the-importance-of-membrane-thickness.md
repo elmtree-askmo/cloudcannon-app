@@ -2,8 +2,10 @@
 _schema: default
 id: 168795
 date: 2025-02-04
-title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
-article_title: Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
+title: >-
+    Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
+article_title: >-
+    Explain the process of oxygen exchange in the alveoli and the importance of membrane thickness.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importa
 url: /learn/health-studies/questions/explain-the-process-of-oxygen-exchange-in-the-alveoli-and-the-importance-of-membrane-thickness
 score: -1.0
 related_article1:
-    id: 168788
-    title: What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
+    id: 168791
+    title: >-
+        How does muscle contraction in the bronchial muscles affect breathing during an asthma attack?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-asthma-and-how-do-they-lead-to-an-asthma-attack
+    url: /learn/health-studies/questions/how-does-muscle-contraction-in-the-bronchial-muscles-affect-breathing-during-an-asthma-attack
 related_article2:
-    id: 168788
-    title: What are the main causes and triggers of asthma, and how do they lead to an asthma attack?
+    id: 168786
+    title: >-
+        What are the primary causes and modes of transmission for Tuberculosis (TB)?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-causes-and-triggers-of-asthma-and-how-do-they-lead-to-an-asthma-attack
+    url: /learn/health-studies/questions/what-are-the-primary-causes-and-modes-of-transmission-for-tuberculosis-tb
 related_article3:
     id: 168787
-    title: Identify the common symptoms of Tuberculosis and explain how they affect the body.
+    title: >-
+        Identify the common symptoms of Tuberculosis and explain how they affect the body.
     subject: Health Studies
     url: /learn/health-studies/questions/identify-the-common-symptoms-of-tuberculosis-and-explain-how-they-affect-the-body
 related_article4:
-    id: 168785
-    title: Describe the structure and function of alveoli and explain how dust and smoking can impact them.
+    id: 168784
+    title: >-
+        How does the thickness of the diffusion membrane affect gas exchange in the lungs?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-alveoli-and-explain-how-dust-and-smoking-can-impact-them
+    url: /learn/health-studies/questions/how-does-the-thickness-of-the-diffusion-membrane-affect-gas-exchange-in-the-lungs
 related_article5:
-    id: 168793
-    title: Discuss the causes and symptoms of emphysema and its effects on the alveoli.
+    id: 168790
+    title: >-
+        Explain the structure and function of bronchial muscles and their role in breathing.
     subject: Health Studies
-    url: /learn/health-studies/questions/discuss-the-causes-and-symptoms-of-emphysema-and-its-effects-on-the-alveoli
+    url: /learn/health-studies/questions/explain-the-structure-and-function-of-bronchial-muscles-and-their-role-in-breathing
 ---
 
 &nbsp;

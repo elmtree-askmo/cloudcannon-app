@@ -2,8 +2,10 @@
 _schema: default
 id: 164041
 date: 2025-01-28
-title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
-article_title: What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+title: >-
+    What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
+article_title: >-
+    What are the implications of advancements in neuroscience for forensic assessment in the courtroom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-implications-of-advancements-in-neuroscience-for-forensi
 url: /learn/psychology/questions/what-are-the-implications-of-advancements-in-neuroscience-for-forensic-assessment-in-the-courtroom
 score: -1.0
 related_article1:
-    id: 164054
-    title: How are MRI and neuropsychological tests used in the consultation and clinical assessment within the Neuro Office?
+    id: 164052
+    title: >-
+        How does the multidisciplinary team approach function in the forensic assessment process at the Pieter Baan Center?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-mri-and-neuropsychological-tests-used-in-the-consultation-and-clinical-assessment-within-the-neuro-office
+    url: /learn/psychology/questions/how-does-the-multidisciplinary-team-approach-function-in-the-forensic-assessment-process-at-the-pieter-baan-center
 related_article2:
     id: 164042
-    title: How do neurobiological factors, such as brain development, influence delinquent behavior?
+    title: >-
+        How do neurobiological factors, such as brain development, influence delinquent behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
 related_article3:
-    id: 164039
-    title: What is the role of forensic assessment in Dutch criminal law?
+    id: 164040
+    title: >-
+        How do psychologists and psychiatrists function as forensic expert witnesses in the legal system?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
+    url: /learn/psychology/questions/how-do-psychologists-and-psychiatrists-function-as-forensic-expert-witnesses-in-the-legal-system
 related_article4:
-    id: 164044
-    title: How does the age-crime curve affect developmental considerations in sentencing?
+    id: 164050
+    title: >-
+        How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 related_article5:
-    id: 164044
-    title: How does the age-crime curve affect developmental considerations in sentencing?
+    id: 164049
+    title: >-
+        What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-agecrime-curve-affect-developmental-considerations-in-sentencing
+    url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
 ---
 
 &nbsp;

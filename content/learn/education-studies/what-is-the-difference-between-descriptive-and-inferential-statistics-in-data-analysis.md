@@ -2,8 +2,10 @@
 _schema: default
 id: 165139
 date: 2025-01-28
-title: What is the difference between descriptive and inferential statistics in data analysis?
-article_title: What is the difference between descriptive and inferential statistics in data analysis?
+title: >-
+    What is the difference between descriptive and inferential statistics in data analysis?
+article_title: >-
+    What is the difference between descriptive and inferential statistics in data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-descriptive-and-inferential-statistics
 url: /learn/education-studies/questions/what-is-the-difference-between-descriptive-and-inferential-statistics-in-data-analysis
 score: -1.0
 related_article1:
-    id: 165127
-    title: How do variables, hypotheses, and procedures contribute to experimental design?
+    id: 165130
+    title: >-
+        What is the purpose of a Latin square design in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-variables-hypotheses-and-procedures-contribute-to-experimental-design
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-latin-square-design-in-research
 related_article2:
     id: 165134
-    title: How can observer bias be minimized in research studies?
+    title: >-
+        How can observer bias be minimized in research studies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
 related_article3:
-    id: 165130
-    title: What is the purpose of a Latin square design in research?
+    id: 165142
+    title: >-
+        How is cortisol measured in stress research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-a-latin-square-design-in-research
+    url: /learn/education-studies/questions/how-is-cortisol-measured-in-stress-research
 related_article4:
-    id: 165128
-    title: What is simple randomization, and where is it typically applied?
+    id: 165137
+    title: >-
+        What are the advantages of using a between-subjects design in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
+    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
 related_article5:
-    id: 165123
-    title: How do questionnaires and interviews differ as tools for data collection?
+    id: 165150
+    title: >-
+        What are the key differences between thematic analysis and content analysis in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-questionnaires-and-interviews-differ-as-tools-for-data-collection
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
 ---
 
 &nbsp;

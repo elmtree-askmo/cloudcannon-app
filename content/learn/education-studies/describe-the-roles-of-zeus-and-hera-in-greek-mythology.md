@@ -2,8 +2,10 @@
 _schema: default
 id: 166608
 date: 2025-01-30
-title: Describe the roles of Zeus and Hera in Greek mythology.
-article_title: Describe the roles of Zeus and Hera in Greek mythology.
+title: >-
+    Describe the roles of Zeus and Hera in Greek mythology.
+article_title: >-
+    Describe the roles of Zeus and Hera in Greek mythology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-roles-of-zeus-and-hera-in-greek-mythology.md
 url: /learn/education-studies/questions/describe-the-roles-of-zeus-and-hera-in-greek-mythology
 score: -1.0
 related_article1:
-    id: 166598
-    title: What are the key differences between capital and lower case Greek letters, and how are they used in math and science?
+    id: 166600
+    title: >-
+        What are some challenges faced in the transliteration of Greek names into English?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-capital-and-lower-case-greek-letters-and-how-are-they-used-in-math-and-science
+    url: /learn/education-studies/questions/what-are-some-challenges-faced-in-the-transliteration-of-greek-names-into-english
 related_article2:
     id: 166605
-    title: How has the Greek language influenced modern English vocabulary?
+    title: >-
+        How has the Greek language influenced modern English vocabulary?
     subject: Education Studies
     url: /learn/education-studies/questions/how-has-the-greek-language-influenced-modern-english-vocabulary
 related_article3:
-    id: 166606
-    title: What was the significance of rhetoric in ancient Greek politics and society?
+    id: 166607
+    title: >-
+        Identify two common Greek roots found in English vocabulary and their meanings.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-was-the-significance-of-rhetoric-in-ancient-greek-politics-and-society
+    url: /learn/education-studies/questions/identify-two-common-greek-roots-found-in-english-vocabulary-and-their-meanings
 related_article4:
-    id: 166609
-    title: Who are the key characters in the Homeric epics, and what are the main themes of these stories?
+    id: 166611
+    title: >-
+        How did Socratic philosophy influence Western thought?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-key-characters-in-the-homeric-epics-and-what-are-the-main-themes-of-these-stories
-related_article5:
-    id: 166601
-    title: Who are the major Greek gods and goddesses, and what are their relationships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
+    url: /learn/education-studies/questions/how-did-socratic-philosophy-influence-western-thought
 ---
 
 &nbsp;

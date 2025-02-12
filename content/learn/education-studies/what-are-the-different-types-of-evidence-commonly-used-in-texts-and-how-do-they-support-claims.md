@@ -2,8 +2,10 @@
 _schema: default
 id: 162560
 date: 2025-01-25
-title: What are the different types of evidence commonly used in texts, and how do they support claims?
-article_title: What are the different types of evidence commonly used in texts, and how do they support claims?
+title: >-
+    What are the different types of evidence commonly used in texts, and how do they support claims?
+article_title: >-
+    What are the different types of evidence commonly used in texts, and how do they support claims?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-different-types-of-evidence-commonly-used-in-texts-and-h
 url: /learn/education-studies/questions/what-are-the-different-types-of-evidence-commonly-used-in-texts-and-how-do-they-support-claims
 score: -1.0
 related_article1:
-    id: 162272
-    title: What criteria should be used to evaluate an author's credibility and the quality of evidence in a text?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-should-be-used-to-evaluate-an-authors-credibility-and-the-quality-of-evidence-in-a-text
-related_article2:
     id: 162564
-    title: What strategies can be employed to identify bias and persuasive techniques in a text?
+    title: >-
+        What strategies can be employed to identify bias and persuasive techniques in a text?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
+related_article2:
+    id: 162255
+    title: >-
+        How can an author's professional affiliations and expert credentials influence their purpose in writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
 related_article3:
-    id: 162258
-    title: What are the different types of evidence commonly used in texts, and how do they support claims?
+    id: 162253
+    title: >-
+        What are some key questions to ask when determining an author's purpose?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-evidence-commonly-used-in-texts-and-how-do-they-support-claims
+    url: /learn/education-studies/questions/what-are-some-key-questions-to-ask-when-determining-an-authors-purpose
 related_article4:
-    id: 162266
-    title: What are the health benefits associated with a plant-based diet, and how do they contribute to disease prevention?
+    id: 162566
+    title: >-
+        What are the key components to consider when analyzing nutrition articles for health benefits and dietary guidelines?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-health-benefits-associated-with-a-plantbased-diet-and-how-do-they-contribute-to-disease-prevention
+    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-analyzing-nutrition-articles-for-health-benefits-and-dietary-guidelines
 related_article5:
     id: 162564
-    title: What strategies can be employed to identify bias and persuasive techniques in a text?
+    title: >-
+        What strategies can be employed to identify bias and persuasive techniques in a text?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
 ---

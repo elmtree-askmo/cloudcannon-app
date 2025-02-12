@@ -2,8 +2,10 @@
 _schema: default
 id: 168573
 date: 2025-02-03
-title: What role does sentence structure play in influencing a reader's understanding of seminal documents?
-article_title: What role does sentence structure play in influencing a reader's understanding of seminal documents?
+title: >-
+    What role does sentence structure play in influencing a reader's understanding of seminal documents?
+article_title: >-
+    What role does sentence structure play in influencing a reader's understanding of seminal documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-sentence-structure-play-in-influencing-a-readers-under
 url: /learn/art-history-and-literature/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
 score: 9.0
 related_article1:
-    id: 168585
-    title: What techniques are used in language and rhetoric analysis to identify key elements in seminal documents?
+    id: 168580
+    title: >-
+        How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-are-used-in-language-and-rhetoric-analysis-to-identify-key-elements-in-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
 related_article2:
-    id: 168576
-    title: How do emotional appeals (pathos) impact the effectiveness of seminal documents?
+    id: 168577
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 related_article3:
-    id: 168584
-    title: How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
+    id: 168578
+    title: >-
+        How does tone shape the understanding of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
+    url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
 related_article4:
-    id: 168579
-    title: What is the tone of the Gettysburg Address, and how does it contribute to its message?
+    id: 168575
+    title: >-
+        What is the role of logical appeals (logos) in the argumentation of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
 related_article5:
-    id: 168565
-    title: What are the key characteristics that define a seminal document?
+    id: 168569
+    title: >-
+        In what ways is the theme of freedom represented in seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-the-theme-of-freedom-represented-in-seminal-documents
 ---
 
 &nbsp;

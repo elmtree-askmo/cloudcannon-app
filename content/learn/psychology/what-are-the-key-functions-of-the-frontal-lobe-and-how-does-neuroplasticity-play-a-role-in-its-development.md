@@ -2,8 +2,10 @@
 _schema: default
 id: 170528
 date: 2025-02-06
-title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
-article_title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+title: >-
+    What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+article_title: >-
+    What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplas
 url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
 score: -1.0
 related_article1:
-    id: 170545
-    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
+    id: 170539
+    title: >-
+        How does the development of object permanence in infancy and early childhood contribute to cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
 related_article2:
+    id: 170536
+    title: >-
+        How do first and second order neurons function in afferent sensory pathways?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
+related_article3:
+    id: 170544
+    title: >-
+        What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
+related_article4:
     id: 170541
-    title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+    title: >-
+        How is the motor homunculus represented in the motor cortex, and what is its functional significance?
     subject: Psychology
     url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
-related_article3:
-    id: 170537
-    title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
-related_article4:
-    id: 170538
-    title: What are the critical periods in neurodevelopment, and why are they important for language acquisition?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition
 related_article5:
-    id: 170523
-    title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
 ---
 
 &nbsp;

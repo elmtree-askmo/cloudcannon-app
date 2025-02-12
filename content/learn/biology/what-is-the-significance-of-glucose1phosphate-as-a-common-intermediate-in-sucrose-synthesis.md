@@ -2,8 +2,10 @@
 _schema: default
 id: 170987
 date: 2025-02-07
-title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
-article_title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+title: >-
+    What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+article_title: >-
+    What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-glucose1phosphate-as-a-common-intermediat
 url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
 score: -1.0
 related_article1:
-    id: 170978
-    title: What is the role of common intermediates in coupling mechanisms?
+    id: 170991
+    title: >-
+        What is the impact of positive and negative delta G on reaction favorability?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
 related_article2:
-    id: 170989
-    title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    id: 170986
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
     subject: Biology
-    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
 related_article3:
-    id: 170989
-    title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    id: 170983
+    title: >-
+        What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
     subject: Biology
-    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
 related_article4:
-    id: 170981
-    title: What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
+    id: 170979
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
 related_article5:
-    id: 170989
-    title: What energy input is required for nucleotide activation in nucleic acid biosynthesis?
+    id: 170975
+    title: >-
+        How do coupling reactions make unfavorable reactions proceed?
     subject: Biology
-    url: /learn/biology/questions/what-energy-input-is-required-for-nucleotide-activation-in-nucleic-acid-biosynthesis
+    url: /learn/biology/questions/how-do-coupling-reactions-make-unfavorable-reactions-proceed
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159789
 date: 2025-01-23
-title: Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
-article_title: Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
+title: >-
+    Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
+article_title: >-
+    Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-avantgarde-movements-and-discuss-their-key-figures-and-works-a
 url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-figures-and-works-as-well-as-their-impact-on-the-art-world
 score: -1.0
 related_article1:
-    id: 159792
-    title: What is Orientalism in art, and how did it influence Western art?
+    id: 159763
+    title: >-
+        Describe the characteristics of Orientalism in art and its influence on Western art, including key artists and works.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-orientalism-in-art-and-how-did-it-influence-western-art
+    url: /learn/education-studies/questions/describe-the-characteristics-of-orientalism-in-art-and-its-influence-on-western-art-including-key-artists-and-works
 related_article2:
-    id: 159794
-    title: Who were the key figures of Impressionism, and what were the main characteristics of this movement?
+    id: 159757
+    title: >-
+        What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-were-the-key-figures-of-impressionism-and-what-were-the-main-characteristics-of-this-movement
+    url: /learn/education-studies/questions/what-were-the-origins-and-establishment-of-the-paris-salon-and-how-did-the-monarchy-influence-its-development
 related_article3:
-    id: 159768
-    title: Discuss the role of artists in society and how social movements influenced art during the evolution of artistic professionalism.
+    id: 159799
+    title: >-
+        How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
     subject: Education Studies
-    url: /learn/education-studies/questions/discuss-the-role-of-artists-in-society-and-how-social-movements-influenced-art-during-the-evolution-of-artistic-professionalism
+    url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
 related_article4:
-    id: 159795
-    title: What was the purpose of the Salon of the Refused and the Salon of Independents, and how did they influence modern art?
+    id: 159797
+    title: >-
+        What role did artists play in society, and how did social movements influence art during the evolution of artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-was-the-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-how-did-they-influence-modern-art
+    url: /learn/education-studies/questions/what-role-did-artists-play-in-society-and-how-did-social-movements-influence-art-during-the-evolution-of-artistic-practices
 related_article5:
-    id: 159795
-    title: What was the purpose of the Salon of the Refused and the Salon of Independents, and how did they influence modern art?
+    id: 159769
+    title: >-
+        Identify key movements and figures in 19th-century art history and their influence on contemporary art.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-was-the-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-how-did-they-influence-modern-art
+    url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-their-influence-on-contemporary-art
 ---
 
 &nbsp;

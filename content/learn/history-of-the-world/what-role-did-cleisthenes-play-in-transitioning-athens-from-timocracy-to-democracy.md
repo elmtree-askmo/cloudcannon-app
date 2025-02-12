@@ -2,8 +2,10 @@
 _schema: default
 id: 163969
 date: 2025-01-28
-title: What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
-article_title: What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+title: >-
+    What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+article_title: >-
+    What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy
 url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
 score: 9.0
 related_article1:
-    id: 163966
-    title: Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+    id: 163976
+    title: >-
+        What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
 related_article2:
-    id: 163965
-    title: What were the roles and selection methods of Athenian archons and generals?
+    id: 163961
+    title: >-
+        What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-roles-and-selection-methods-of-athenian-archons-and-generals
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
 related_article3:
-    id: 163975
-    title: How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
+    id: 163977
+    title: >-
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-oligarchic-regimes-of-411-bc-challenge-athenian-democracy-and-what-were-the-subsequent-reforms
+    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 related_article4:
-    id: 163971
-    title: How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
+    id: 163967
+    title: >-
+        Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
+    url: /learn/history-of-the-world/questions/explain-the-concept-of-timocracy-as-introduced-by-solon-and-its-impact-on-athenian-society
 related_article5:
     id: 163966
-    title: Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+    title: >-
+        Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
     subject: History of the World
     url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
 ---

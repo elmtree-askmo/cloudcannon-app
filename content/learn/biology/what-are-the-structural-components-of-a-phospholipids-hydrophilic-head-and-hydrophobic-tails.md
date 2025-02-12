@@ -2,8 +2,10 @@
 _schema: default
 id: 167355
 date: 2025-01-31
-title: What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
-article_title: What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
+title: >-
+    What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
+article_title: >-
+    What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-structural-components-of-a-phospholipids-hydrophilic-hea
 url: /learn/biology/questions/what-are-the-structural-components-of-a-phospholipids-hydrophilic-head-and-hydrophobic-tails
 score: -1.0
 related_article1:
-    id: 167363
-    title: What is the mechanism of simple diffusion and how is it driven by concentration gradients?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
-related_article2:
-    id: 167357
-    title: Why do phospholipids spontaneously form bilayers in aqueous environments?
-    subject: Biology
-    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
-related_article3:
-    id: 167357
-    title: Why do phospholipids spontaneously form bilayers in aqueous environments?
-    subject: Biology
-    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
-related_article4:
-    id: 167357
-    title: Why do phospholipids spontaneously form bilayers in aqueous environments?
-    subject: Biology
-    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
-related_article5:
     id: 167368
-    title: Describe the fluid mosaic model and its significance in understanding membrane structure.
+    title: >-
+        Describe the fluid mosaic model and its significance in understanding membrane structure.
     subject: Biology
     url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-membrane-structure
+related_article2:
+    id: 167363
+    title: >-
+        What is the mechanism of simple diffusion and how is it driven by concentration gradients?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-simple-diffusion-and-how-is-it-driven-by-concentration-gradients
+related_article3:
+    id: 167361
+    title: >-
+        What factors affect the fluidity of cell membranes?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-affect-the-fluidity-of-cell-membranes
+related_article4:
+    id: 167364
+    title: >-
+        Which types of molecules are able to diffuse across the cell membrane via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/which-types-of-molecules-are-able-to-diffuse-across-the-cell-membrane-via-simple-diffusion
+related_article5:
+    id: 167370
+    title: >-
+        What is osmolarity and how does it impact osmotic pressure and cell function?
+    subject: Biology
+    url: /learn/biology/questions/what-is-osmolarity-and-how-does-it-impact-osmotic-pressure-and-cell-function
 ---
 
 &nbsp;

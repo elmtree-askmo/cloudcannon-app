@@ -2,8 +2,10 @@
 _schema: default
 id: 164394
 date: 2025-01-28
-title: What cognitive functions are associated with auditory processing?
-article_title: What cognitive functions are associated with auditory processing?
+title: >-
+    What cognitive functions are associated with auditory processing?
+article_title: >-
+    What cognitive functions are associated with auditory processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cognitive-functions-are-associated-with-auditory-processing.md
 url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 score: -1.0
 related_article1:
-    id: 164401
-    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    id: 164384
+    title: >-
+        How do cognitive functions influence grammar processing in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+    url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
 related_article2:
-    id: 164399
-    title: What is the role of cognitive psychology in language comprehension?
+    id: 164398
+    title: >-
+        Explain how information is integrated during language comprehension.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
 related_article3:
-    id: 164389
-    title: Which neural pathways are involved in communication disorders?
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
     subject: Psychology
-    url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 related_article4:
-    id: 164383
-    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 related_article5:
-    id: 164380
-    title: What are the primary functions associated with the left brain hemisphere in language processing?
+    id: 164402
+    title: >-
+        Discuss the impact of Freud's theories on cognitive psychology.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
+    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
 ---
 
 &nbsp;

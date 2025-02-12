@@ -2,8 +2,10 @@
 _schema: default
 id: 166614
 date: 2025-01-31
-title: What types of internship opportunities are available, and what is the Direct Intelligence Support Unit Training?
-article_title: What types of internship opportunities are available, and what is the Direct Intelligence Support Unit Training?
+title: >-
+    What types of internship opportunities are available, and what is the Direct Intelligence Support Unit Training?
+article_title: >-
+    What types of internship opportunities are available, and what is the Direct Intelligence Support Unit Training?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-internship-opportunities-are-available-and-what-is-the-
 url: /learn/education-studies/questions/what-types-of-internship-opportunities-are-available-and-what-is-the-direct-intelligence-support-unit-training
 score: -1.0
 related_article1:
-    id: 166616
-    title: What are the daily availability and service hours for career services, and how do company visits fit into this schedule?
+    id: 166622
+    title: >-
+        How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-daily-availability-and-service-hours-for-career-services-and-how-do-company-visits-fit-into-this-schedule
+    url: /learn/education-studies/questions/how-do-you-find-position-vectors-and-how-is-the-cross-product-with-force-vectors-used-in-vector-analysis
 related_article2:
+    id: 166618
+    title: >-
+        How are force vectors represented in vector form, and how is the cross product calculated?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-force-vectors-represented-in-vector-form-and-how-is-the-cross-product-calculated
+related_article3:
     id: 166623
-    title: How are forces added to find resultant forces, and how is the resultant moment calculated?
+    title: >-
+        How are forces added to find resultant forces, and how is the resultant moment calculated?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-forces-added-to-find-resultant-forces-and-how-is-the-resultant-moment-calculated
-related_article3:
-    id: 166615
-    title: What is the Yellow Belt Certification, and how does it enhance a consulting career path?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-yellow-belt-certification-and-how-does-it-enhance-a-consulting-career-path
 related_article4:
-    id: 166618
-    title: How are force vectors represented in vector form, and how is the cross product calculated?
+    id: 166622
+    title: >-
+        How do you find position vectors, and how is the cross product with force vectors used in vector analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-force-vectors-represented-in-vector-form-and-how-is-the-cross-product-calculated
+    url: /learn/education-studies/questions/how-do-you-find-position-vectors-and-how-is-the-cross-product-with-force-vectors-used-in-vector-analysis
 related_article5:
-    id: 166618
-    title: How are force vectors represented in vector form, and how is the cross product calculated?
+    id: 166621
+    title: >-
+        What defines a couple system, and how do couple forces create moments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-force-vectors-represented-in-vector-form-and-how-is-the-cross-product-calculated
+    url: /learn/education-studies/questions/what-defines-a-couple-system-and-how-do-couple-forces-create-moments
 ---
 
 &nbsp;

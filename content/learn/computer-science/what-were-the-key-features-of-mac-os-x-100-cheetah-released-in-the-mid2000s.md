@@ -2,8 +2,10 @@
 _schema: default
 id: 160517
 date: 2025-01-24
-title: What were the key features of Mac OS X 10.0 Cheetah released in the mid-2000s?
-article_title: What were the key features of Mac OS X 10.0 Cheetah released in the mid-2000s?
+title: >-
+    What were the key features of Mac OS X 10.0 Cheetah released in the mid-2000s?
+article_title: >-
+    What were the key features of Mac OS X 10.0 Cheetah released in the mid-2000s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-features-of-mac-os-x-100-cheetah-released-in-the-mi
 url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-100-cheetah-released-in-the-mid2000s
 score: -1.0
 related_article1:
-    id: 160603
-    title: What were the major updates introduced with Mac OS X 10.4 Tiger?
+    id: 160531
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article2:
-    id: 160525
-    title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+    id: 160538
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
+    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
 related_article3:
-    id: 160604
-    title: How did the introduction of the iPhone in 2007 transform the smartphone market?
+    id: 160538
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
+    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
 related_article4:
-    id: 160419
-    title: How did the launch of Apple's first retail store impact its business strategy?
+    id: 160429
+    title: >-
+        What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-launch-of-apples-first-retail-store-impact-its-business-strategy
+    url: /learn/computer-science/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
 related_article5:
-    id: 160420
-    title: What advancements did the PowerBook G4 bring to Apple's product line in the mid-2000s?
+    id: 160528
+    title: >-
+        What was the significance of Apple's first retail store opening in terms of consumer engagement?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-advancements-did-the-powerbook-g4-bring-to-apples-product-line-in-the-mid2000s
+    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
 ---
 
 &nbsp;

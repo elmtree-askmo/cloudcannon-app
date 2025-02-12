@@ -2,8 +2,10 @@
 _schema: default
 id: 165914
 date: 2025-01-29
-title: How can students effectively balance study and personal life through time management?
-article_title: How can students effectively balance study and personal life through time management?
+title: >-
+    How can students effectively balance study and personal life through time management?
+article_title: >-
+    How can students effectively balance study and personal life through time management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-students-effectively-balance-study-and-personal-life-through-
 url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
 score: -1.0
 related_article1:
-    id: 165907
-    title: How can students become involved in the research community at a university?
+    id: 165913
+    title: >-
+        Why is lifelong learning important for personal and professional life?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-become-involved-in-the-research-community-at-a-university
+    url: /learn/education-studies/questions/why-is-lifelong-learning-important-for-personal-and-professional-life
 related_article2:
-    id: 165915
-    title: What is the significance of the Bologna Accord in understanding academic credit systems?
+    id: 165918
+    title: >-
+        What skills are required for different types of assessments in exam preparation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-the-bologna-accord-in-understanding-academic-credit-systems
+    url: /learn/education-studies/questions/what-skills-are-required-for-different-types-of-assessments-in-exam-preparation
 related_article3:
+    id: 165916
+    title: >-
+        How does geography function as a social construct in influencing cultural identity?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-geography-function-as-a-social-construct-in-influencing-cultural-identity
+related_article4:
     id: 165911
-    title: How do cultural artifacts reflect literature and oral traditions?
+    title: >-
+        How do cultural artifacts reflect literature and oral traditions?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-cultural-artifacts-reflect-literature-and-oral-traditions
-related_article4:
-    id: 165912
-    title: What is the relationship between language, communication, and social structures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-language-communication-and-social-structures
 related_article5:
     id: 165908
-    title: What are the stages of academic progression in independent research?
+    title: >-
+        What are the stages of academic progression in independent research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-stages-of-academic-progression-in-independent-research
 ---

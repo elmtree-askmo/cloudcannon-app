@@ -2,8 +2,10 @@
 _schema: default
 id: 169196
 date: 2025-02-04
-title: How does GIS facilitate mapping techniques, particularly in layering and time representation?
-article_title: How does GIS facilitate mapping techniques, particularly in layering and time representation?
+title: >-
+    How does GIS facilitate mapping techniques, particularly in layering and time representation?
+article_title: >-
+    How does GIS facilitate mapping techniques, particularly in layering and time representation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-does-gis-facilitate-mapping-techniqu
 score: -1.0
 related_article1:
     id: 169192
-    title: What are the benefits of using parametric design in Grasshopper?
+    title: >-
+        What are the benefits of using parametric design in Grasshopper?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-using-parametric-design-in-grasshopper
 related_article2:
-    id: 169191
-    title: Explain the role of nodes in Grasshopper's algorithmic modeling.
+    id: 169195
+    title: >-
+        Why is data visualization important in GIS, and what are two common methods used?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
+    url: /learn/education-studies/questions/why-is-data-visualization-important-in-gis-and-what-are-two-common-methods-used
 related_article3:
     id: 169189
-    title: Why are projection systems important in GIS, and what is a common issue associated with them?
+    title: >-
+        Why are projection systems important in GIS, and what is a common issue associated with them?
     subject: Education Studies
     url: /learn/education-studies/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
 related_article4:
-    id: 169189
-    title: Why are projection systems important in GIS, and what is a common issue associated with them?
+    id: 169192
+    title: >-
+        What are the benefits of using parametric design in Grasshopper?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-parametric-design-in-grasshopper
 related_article5:
-    id: 169187
-    title: What is the primary purpose of Geographic Information Systems (GIS)?
+    id: 169191
+    title: >-
+        Explain the role of nodes in Grasshopper's algorithmic modeling.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-geographic-information-systems-gis
+    url: /learn/education-studies/questions/explain-the-role-of-nodes-in-grasshoppers-algorithmic-modeling
 ---
 
 &nbsp;

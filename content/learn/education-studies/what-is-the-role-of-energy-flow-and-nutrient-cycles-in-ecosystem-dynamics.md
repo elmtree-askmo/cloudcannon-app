@@ -2,8 +2,10 @@
 _schema: default
 id: 166201
 date: 2025-01-29
-title: What is the role of energy flow and nutrient cycles in ecosystem dynamics?
-article_title: What is the role of energy flow and nutrient cycles in ecosystem dynamics?
+title: >-
+    What is the role of energy flow and nutrient cycles in ecosystem dynamics?
+article_title: >-
+    What is the role of energy flow and nutrient cycles in ecosystem dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dyna
 url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
 score: -1.0
 related_article1:
-    id: 166199
-    title: What are the main components of the human cardiovascular system and their functions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
-related_article2:
     id: 166208
-    title: Describe the process of absorption in the digestive system.
+    title: >-
+        Describe the process of absorption in the digestive system.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-process-of-absorption-in-the-digestive-system
+related_article2:
+    id: 166200
+    title: >-
+        How have humans evolved over time according to fossil evidence?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
 related_article3:
-    id: 166203
-    title: What is the significance of taxonomy in organism classification?
+    id: 166207
+    title: >-
+        What are the differences between macronutrients and micronutrients in human nutrition?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-taxonomy-in-organism-classification
+    url: /learn/education-studies/questions/what-are-the-differences-between-macronutrients-and-micronutrients-in-human-nutrition
 related_article4:
-    id: 166195
-    title: What evidence supports the concept of common ancestry among species?
+    id: 166211
+    title: >-
+        What are the main components of the visual system in sensory systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-evidence-supports-the-concept-of-common-ancestry-among-species
+    url: /learn/education-studies/questions/what-are-the-main-components-of-the-visual-system-in-sensory-systems
 related_article5:
-    id: 166183
-    title: How do carbohydrates and proteins differ in their roles within the body?
+    id: 166192
+    title: >-
+        What is Mendelian genetics and how does it explain genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
+    url: /learn/education-studies/questions/what-is-mendelian-genetics-and-how-does-it-explain-genetic-variation
 ---
 
 &nbsp;

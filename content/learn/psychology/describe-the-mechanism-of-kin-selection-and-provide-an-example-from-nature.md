@@ -2,8 +2,10 @@
 _schema: default
 id: 170914
 date: 2025-02-07
-title: Describe the mechanism of kin selection and provide an example from nature.
-article_title: Describe the mechanism of kin selection and provide an example from nature.
+title: >-
+    Describe the mechanism of kin selection and provide an example from nature.
+article_title: >-
+    Describe the mechanism of kin selection and provide an example from nature.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-mechanism-of-kin-selection-and-provide-an-example-from-n
 url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
 score: -1.0
 related_article1:
-    id: 170911
-    title: Define inclusive fitness and explain its components.
+    id: 170917
+    title: >-
+        How do cooperation and competition influence the evolution of social behavior in animals?
     subject: Psychology
-    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+    url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-the-evolution-of-social-behavior-in-animals
 related_article2:
-    id: 170915
-    title: What conditions are necessary for reciprocal altruism to evolve in animal populations?
+    id: 170913
+    title: >-
+        What is altruism in animals and how can it be explained through Hamilton's Rule?
     subject: Psychology
-    url: /learn/psychology/questions/what-conditions-are-necessary-for-reciprocal-altruism-to-evolve-in-animal-populations
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
 related_article3:
-    id: 170920
-    title: What strategies do organisms use to maximize fitness in terms of reproductive success and survival?
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-do-organisms-use-to-maximize-fitness-in-terms-of-reproductive-success-and-survival
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
 related_article4:
     id: 170917
-    title: How do cooperation and competition influence the evolution of social behavior in animals?
+    title: >-
+        How do cooperation and competition influence the evolution of social behavior in animals?
     subject: Psychology
     url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-the-evolution-of-social-behavior-in-animals
 related_article5:
-    id: 170911
-    title: Define inclusive fitness and explain its components.
+    id: 170913
+    title: >-
+        What is altruism in animals and how can it be explained through Hamilton's Rule?
     subject: Psychology
-    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
 ---
 
 &nbsp;

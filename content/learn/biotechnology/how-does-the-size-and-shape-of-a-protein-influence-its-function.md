@@ -2,8 +2,10 @@
 _schema: default
 id: 166962
 date: 2025-01-31
-title: How does the size and shape of a protein influence its function?
-article_title: How does the size and shape of a protein influence its function?
+title: >-
+    How does the size and shape of a protein influence its function?
+article_title: >-
+    How does the size and shape of a protein influence its function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-size-and-shape-of-a-protein-influence-its-function.md
 url: /learn/biotechnology/questions/how-does-the-size-and-shape-of-a-protein-influence-its-function
 score: -1.0
 related_article1:
-    id: 166951
-    title: How do proteins contribute to enzyme catalysis?
+    id: 166956
+    title: >-
+        What is the role of dehydration synthesis in peptide bond formation?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-synthesis-in-peptide-bond-formation
 related_article2:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166969
+    title: >-
+        What mechanisms are involved in protein folding pathways?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+    url: /learn/biotechnology/questions/what-mechanisms-are-involved-in-protein-folding-pathways
 related_article3:
-    id: 166953
-    title: How does the side chain (R-group) affect the chemical properties of an amino acid?
+    id: 166967
+    title: >-
+        How do hydrophilic and hydrophobic R-groups interact with water?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-side-chain-rgroup-affect-the-chemical-properties-of-an-amino-acid
+    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
 related_article4:
-    id: 166950
-    title: What are the general functions of proteins in biological systems?
+    id: 166960
+    title: >-
+        What types of chemical interactions are involved in the tertiary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
+    url: /learn/biotechnology/questions/what-types-of-chemical-interactions-are-involved-in-the-tertiary-structure-of-proteins
 related_article5:
-    id: 166951
-    title: How do proteins contribute to enzyme catalysis?
+    id: 166954
+    title: >-
+        What are the characteristics of nonpolar aliphatic R-groups?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
+    url: /learn/biotechnology/questions/what-are-the-characteristics-of-nonpolar-aliphatic-rgroups
 ---
 
 &nbsp;

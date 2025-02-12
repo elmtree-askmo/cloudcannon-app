@@ -2,8 +2,10 @@
 _schema: default
 id: 169238
 date: 2025-02-04
-title: What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
-article_title: What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
+title: >-
+    What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
+article_title: >-
+    What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-the-major-political-parties-in-canada-such-as-the-
 url: /learn/history-of-the-world/questions/what-distinguishes-the-major-political-parties-in-canada-such-as-the-liberal-and-conservative-parties-from-regional-parties-like-the-bloc-qubcois
 score: 9.5
 related_article1:
-    id: 169232
-    title: How do fixed election dates differ between the federal and provincial systems in Canada?
+    id: 169240
+    title: >-
+        How does strategic voting affect election outcomes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-fixed-election-dates-differ-between-the-federal-and-provincial-systems-in-canada
+    url: /learn/history-of-the-world/questions/how-does-strategic-voting-affect-election-outcomes
 related_article2:
-    id: 169245
-    title: What is the significance of vote distribution in determining political efficiency and electoral outcomes?
+    id: 169236
+    title: >-
+        How does the First Past the Post system differ from a majority voting system?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-vote-distribution-in-determining-political-efficiency-and-electoral-outcomes
+    url: /learn/history-of-the-world/questions/how-does-the-first-past-the-post-system-differ-from-a-majority-voting-system
 related_article3:
-    id: 169245
-    title: What is the significance of vote distribution in determining political efficiency and electoral outcomes?
+    id: 169234
+    title: >-
+        How did the introduction of women's suffrage impact voting rights historically?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-vote-distribution-in-determining-political-efficiency-and-electoral-outcomes
+    url: /learn/history-of-the-world/questions/how-did-the-introduction-of-womens-suffrage-impact-voting-rights-historically
 related_article4:
-    id: 169245
-    title: What is the significance of vote distribution in determining political efficiency and electoral outcomes?
+    id: 169231
+    title: >-
+        What is the primary purpose of an election system in linking political authorities?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-vote-distribution-in-determining-political-efficiency-and-electoral-outcomes
+    url: /learn/history-of-the-world/questions/what-is-the-primary-purpose-of-an-election-system-in-linking-political-authorities
 related_article5:
-    id: 169232
-    title: How do fixed election dates differ between the federal and provincial systems in Canada?
+    id: 169246
+    title: >-
+        How has the franchise history shaped the current Canadian political landscape?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-fixed-election-dates-differ-between-the-federal-and-provincial-systems-in-canada
+    url: /learn/history-of-the-world/questions/how-has-the-franchise-history-shaped-the-current-canadian-political-landscape
 ---
 
 &nbsp;

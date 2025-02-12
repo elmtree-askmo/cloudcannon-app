@@ -2,8 +2,10 @@
 _schema: default
 id: 170835
 date: 2025-02-07
-title: Explain the concept of Nash Equilibrium in classical game theory.
-article_title: Explain the concept of Nash Equilibrium in classical game theory.
+title: >-
+    Explain the concept of Nash Equilibrium in classical game theory.
+article_title: >-
+    Explain the concept of Nash Equilibrium in classical game theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-nash-equilibrium-in-classical-game-theory.md
 url: /learn/psychology/questions/explain-the-concept-of-nash-equilibrium-in-classical-game-theory
 score: -1.0
 related_article1:
-    id: 170840
-    title: How do theoretical frameworks in biology utilize mathematical modeling?
+    id: 170842
+    title: >-
+        What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
+    url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
 related_article2:
-    id: 170837
-    title: Describe frequency-dependent selection in evolutionary game theory.
+    id: 170833
+    title: >-
+        What is the role of a payoff matrix in determining optimal strategies in game theory?
     subject: Psychology
-    url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
+    url: /learn/psychology/questions/what-is-the-role-of-a-payoff-matrix-in-determining-optimal-strategies-in-game-theory
 related_article3:
-    id: 170836
-    title: What are competitive interactions, and how do they relate to rational choice theory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
-related_article4:
-    id: 170834
-    title: How does cost-benefit analysis influence decision-making processes in game theory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-costbenefit-analysis-influence-decisionmaking-processes-in-game-theory
-related_article5:
     id: 170844
-    title: What is the importance of optimal strategies in competitive interactions?
+    title: >-
+        What is the importance of optimal strategies in competitive interactions?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-importance-of-optimal-strategies-in-competitive-interactions
+related_article4:
+    id: 170833
+    title: >-
+        What is the role of a payoff matrix in determining optimal strategies in game theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-a-payoff-matrix-in-determining-optimal-strategies-in-game-theory
+related_article5:
+    id: 170838
+    title: >-
+        How does strategy evolution occur in the context of fitness landscapes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169556
 date: 2025-02-05
-title: How does supervision contribute to accountability in healthcare?
-article_title: How does supervision contribute to accountability in healthcare?
+title: >-
+    How does supervision contribute to accountability in healthcare?
+article_title: >-
+    How does supervision contribute to accountability in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-supervision-contribute-to-accountability-in-healthcare.md
 url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
 score: -1.0
 related_article1:
-    id: 169565
-    title: How is competence defined and assessed in healthcare?
+    id: 169554
+    title: >-
+        What tasks are suitable for delegation to student nurses?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
 related_article2:
-    id: 169568
-    title: How does professional responsibility impact patient assessment?
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article3:
-    id: 169568
-    title: How does professional responsibility impact patient assessment?
+    id: 169553
+    title: >-
+        What is the definition of delegation in healthcare, and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-professional-responsibility-impact-patient-assessment
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
 related_article4:
-    id: 169569
-    title: What are the safe practices for medication administration?
+    id: 169581
+    title: >-
+        What is the importance of understanding team dynamics in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
 related_article5:
-    id: 169564
-    title: Why is supervision particularly important for student nurses?
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168391
 date: 2025-02-03
-title: What role did kinship play in the social structures of early societies?
-article_title: What role did kinship play in the social structures of early societies?
+title: >-
+    What role did kinship play in the social structures of early societies?
+article_title: >-
+    What role did kinship play in the social structures of early societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-kinship-play-in-the-social-structures-of-early-societie
 url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
 score: -1.0
 related_article1:
+    id: 168380
+    title: >-
+        How did early metallurgical practices impact ancient societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
+related_article2:
+    id: 168382
+    title: >-
+        What are the key developments in the timeline of human evolution?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-developments-in-the-timeline-of-human-evolution
+related_article3:
+    id: 168392
+    title: >-
+        How did hunting and gathering societies organize themselves socially?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
+related_article4:
+    id: 168380
+    title: >-
+        How did early metallurgical practices impact ancient societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
+related_article5:
     id: 168387
-    title: What were the main characteristics and tools of the Paleolithic Era?
+    title: >-
+        What were the main characteristics and tools of the Paleolithic Era?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-main-characteristics-and-tools-of-the-paleolithic-era
-related_article2:
-    id: 168393
-    title: How did prehistoric societies adapt to environmental changes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
-related_article3:
-    id: 168394
-    title: What can artifacts and symbolism tell us about prehistoric societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
-related_article4:
-    id: 168394
-    title: What can artifacts and symbolism tell us about prehistoric societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
-related_article5:
-    id: 168394
-    title: What can artifacts and symbolism tell us about prehistoric societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
 ---
 
 &nbsp;

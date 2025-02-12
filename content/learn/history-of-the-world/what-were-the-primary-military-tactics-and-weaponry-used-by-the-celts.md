@@ -2,8 +2,10 @@
 _schema: default
 id: 160386
 date: 2025-01-24
-title: What were the primary military tactics and weaponry used by the Celts?
-article_title: What were the primary military tactics and weaponry used by the Celts?
+title: >-
+    What were the primary military tactics and weaponry used by the Celts?
+article_title: >-
+    What were the primary military tactics and weaponry used by the Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
 url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
 score: 9.0
 related_article1:
-    id: 160177
-    title: How did the Celts interact with Romans in notable conflicts?
+    id: 159911
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 related_article2:
-    id: 159876
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 159911
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 related_article3:
-    id: 160391
-    title: How did geography influence the cultural development and migration patterns of the Celts?
+    id: 159916
+    title: >-
+        How did Diodorus Siculus and Athenaeus describe Celtic customs?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
 related_article4:
-    id: 160369
-    title: How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+    id: 159917
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
 related_article5:
-    id: 160393
-    title: How have the Celts contributed to European heritage and modern perceptions?
+    id: 160368
+    title: >-
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166047
 date: 2025-01-29
-title: What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
-article_title: What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
+title: >-
+    What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
+article_title: >-
+    What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-influence-did-posidonius-have-on-caesars-ethnographic-descriptio
 url: /learn/others/questions/what-influence-did-posidonius-have-on-caesars-ethnographic-descriptions-in-de-bello-gallico
 score: -1.0
 related_article1:
-    id: 166053
-    title: What were the main interactions between Celtic tribes and Romans?
+    id: 166056
+    title: >-
+        What were Pliny the Elder's observations about the Celts?
     subject: Others
-    url: /learn/others/questions/what-were-the-main-interactions-between-celtic-tribes-and-romans
+    url: /learn/others/questions/what-were-pliny-the-elders-observations-about-the-celts
 related_article2:
-    id: 166046
-    title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
-    subject: Others
-    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
-related_article3:
-    id: 166046
-    title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
-    subject: Others
-    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
-related_article4:
-    id: 166042
-    title: What was the significance of the First Triumvirate in Julius Caesar's political alliances?
-    subject: Others
-    url: /learn/others/questions/what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-political-alliances
-related_article5:
     id: 166040
-    title: What regions were identified as Celtic by Greek sources?
+    title: >-
+        What regions were identified as Celtic by Greek sources?
     subject: Others
     url: /learn/others/questions/what-regions-were-identified-as-celtic-by-greek-sources
+related_article3:
+    id: 166055
+    title: >-
+        How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
+    subject: Others
+    url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
+related_article4:
+    id: 166045
+    title: >-
+        Who were Vercingetorix and Ambiorix, and what was their role in the Gallic Wars?
+    subject: Others
+    url: /learn/others/questions/who-were-vercingetorix-and-ambiorix-and-what-was-their-role-in-the-gallic-wars
+related_article5:
+    id: 166046
+    title: >-
+        How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
+    subject: Others
+    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170498
 date: 2025-02-06
-title: What mechanisms are involved in the modulation of pain perception?
-article_title: What mechanisms are involved in the modulation of pain perception?
+title: >-
+    What mechanisms are involved in the modulation of pain perception?
+article_title: >-
+    What mechanisms are involved in the modulation of pain perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-mechanisms-are-involved-in-the-modulation-of-pain-perception.md
 url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
 score: -1.0
 related_article1:
+    id: 170492
+    title: >-
+        What is the difference between excitatory and inhibitory neurotransmitters?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
+related_article2:
     id: 170494
-    title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
-related_article2:
+related_article3:
     id: 170496
-    title: What is the clinical significance of the Babinski test in neurological assessment?
+    title: >-
+        What is the clinical significance of the Babinski test in neurological assessment?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
-related_article3:
-    id: 170490
-    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
 related_article4:
-    id: 170497
-    title: Describe the functional differences between the central and peripheral nervous systems.
+    id: 170494
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
 related_article5:
-    id: 170495
-    title: How does the herpes simplex virus remain dormant and what triggers its reactivation?
+    id: 170489
+    title: >-
+        What roles do axons and dendrites play in neuron function?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
+    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
 ---
 
 &nbsp;

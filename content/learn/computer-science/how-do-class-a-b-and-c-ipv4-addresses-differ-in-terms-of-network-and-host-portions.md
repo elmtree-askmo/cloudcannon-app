@@ -2,8 +2,10 @@
 _schema: default
 id: 165723
 date: 2025-01-29
-title: How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
-article_title: How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
+title: >-
+    How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
+article_title: >-
+    How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-
 url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 score: -1.0
 related_article1:
-    id: 165732
-    title: What are the configuration requirements for using public IPv4 address space in a DMZ?
+    id: 165725
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-requirements-for-using-public-ipv4-address-space-in-a-dmz
+    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
 related_article2:
-    id: 165728
-    title: How do subnet masks help in identifying network and host portions of an IP address?
+    id: 165733
+    title: >-
+        How does subnetting contribute to reducing broadcast traffic and improving network performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-subnet-masks-help-in-identifying-network-and-host-portions-of-an-ip-address
+    url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
 related_article3:
-    id: 165736
-    title: What strategies can be used to minimize unused addresses in a subnet?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
-related_article4:
     id: 165731
-    title: What is the significance of using private IPv4 address space within intranets?
+    title: >-
+        What is the significance of using private IPv4 address space within intranets?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
-related_article5:
-    id: 165724
-    title: What is the primary purpose of subnetting in a network?
+related_article4:
+    id: 165727
+    title: >-
+        What are the potential problems associated with large broadcast domains?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
+    url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
+related_article5:
+    id: 165725
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
 ---
 
 &nbsp;

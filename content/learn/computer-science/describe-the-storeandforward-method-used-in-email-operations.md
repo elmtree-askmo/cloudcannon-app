@@ -2,8 +2,10 @@
 _schema: default
 id: 165649
 date: 2025-01-29
-title: Describe the store-and-forward method used in email operations.
-article_title: Describe the store-and-forward method used in email operations.
+title: >-
+    Describe the store-and-forward method used in email operations.
+article_title: >-
+    Describe the store-and-forward method used in email operations.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-storeandforward-method-used-in-email-operations.md
 url: /learn/computer-science/questions/describe-the-storeandforward-method-used-in-email-operations
 score: -1.0
 related_article1:
-    id: 165653
-    title: How do FTP clients and servers interact during a file transfer?
+    id: 165650
+    title: >-
+        What are the differences between POP and IMAP protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-ftp-clients-and-servers-interact-during-a-file-transfer
+    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
 related_article2:
-    id: 165648
-    title: What are the main differences between HTTP and HTTPS in terms of security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-differences-between-http-and-https-in-terms-of-security
-related_article3:
-    id: 165648
-    title: What are the main differences between HTTP and HTTPS in terms of security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-differences-between-http-and-https-in-terms-of-security
-related_article4:
     id: 165643
-    title: How does DNS facilitate domain name resolution?
+    title: >-
+        How does DNS facilitate domain name resolution?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
-related_article5:
-    id: 165654
-    title: What functions does the Server Message Block (SMB) protocol provide?
+related_article3:
+    id: 165639
+    title: >-
+        What is the primary role of the Application Layer in the OSI model?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functions-does-the-server-message-block-smb-protocol-provide
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-application-layer-in-the-osi-model
+related_article4:
+    id: 165650
+    title: >-
+        What are the differences between POP and IMAP protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
+related_article5:
+    id: 165652
+    title: >-
+        What are the steps involved in the DHCP process for dynamic address assignment?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168996
 date: 2025-02-04
-title: How do ideological frameworks shape the representation of history in museums?
-article_title: How do ideological frameworks shape the representation of history in museums?
+title: >-
+    How do ideological frameworks shape the representation of history in museums?
+article_title: >-
+    How do ideological frameworks shape the representation of history in museums?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ideological-frameworks-shape-the-representation-of-history-in-
 url: /learn/history-of-the-world/questions/how-do-ideological-frameworks-shape-the-representation-of-history-in-museums
 score: 9.0
 related_article1:
-    id: 168991
-    title: How do museums construct historical narratives through exhibitions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-museums-construct-historical-narratives-through-exhibitions
-related_article2:
     id: 168995
-    title: What are the economic and political motivations behind heritage destruction?
+    title: >-
+        What are the economic and political motivations behind heritage destruction?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-economic-and-political-motivations-behind-heritage-destruction
+related_article2:
+    id: 168999
+    title: >-
+        What narratives are emphasized in the Israel Museum's exhibitions, particularly regarding Jewish heritage?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-narratives-are-emphasized-in-the-israel-museums-exhibitions-particularly-regarding-jewish-heritage
 related_article3:
+    id: 168991
+    title: >-
+        How do museums construct historical narratives through exhibitions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-museums-construct-historical-narratives-through-exhibitions
+related_article4:
     id: 168998
-    title: How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
+    title: >-
+        How did the Palestine Archaeological Museum shift its focus from religious to cultural narratives?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-palestine-archaeological-museum-shift-its-focus-from-religious-to-cultural-narratives
-related_article4:
-    id: 168997
-    title: What was the focus of Patrick Geddes' unrealized museum project?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-focus-of-patrick-geddes-unrealized-museum-project
 related_article5:
-    id: 168997
-    title: What was the focus of Patrick Geddes' unrealized museum project?
+    id: 168993
+    title: >-
+        What is the role of historical context in interpreting artifacts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-focus-of-patrick-geddes-unrealized-museum-project
+    url: /learn/history-of-the-world/questions/what-is-the-role-of-historical-context-in-interpreting-artifacts
 ---
 
 &nbsp;

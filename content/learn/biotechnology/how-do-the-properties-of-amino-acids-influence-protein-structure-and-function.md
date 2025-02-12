@@ -2,8 +2,10 @@
 _schema: default
 id: 166840
 date: 2025-01-31
-title: How do the properties of amino acids influence protein structure and function?
-article_title: How do the properties of amino acids influence protein structure and function?
+title: >-
+    How do the properties of amino acids influence protein structure and function?
+article_title: >-
+    How do the properties of amino acids influence protein structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-the-properties-of-amino-acids-influence-protein-structure-and-
 url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
 score: -1.0
 related_article1:
-    id: 166846
-    title: What are the causes and effects of protein denaturation on its function?
+    id: 166837
+    title: >-
+        How do enzymes facilitate metabolic pathways in cellular processes?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-causes-and-effects-of-protein-denaturation-on-its-function
+    url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
 related_article2:
-    id: 166852
-    title: What chemical properties of proteins affect their solubility and reactivity?
+    id: 166844
+    title: >-
+        What interactions are involved in the tertiary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-chemical-properties-of-proteins-affect-their-solubility-and-reactivity
+    url: /learn/biotechnology/questions/what-interactions-are-involved-in-the-tertiary-structure-of-proteins
 related_article3:
-    id: 166845
-    title: How do multiple polypeptide chains form a functional quaternary structure?
+    id: 166843
+    title: >-
+        How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
+    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
 related_article4:
     id: 166845
-    title: How do multiple polypeptide chains form a functional quaternary structure?
+    title: >-
+        How do multiple polypeptide chains form a functional quaternary structure?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
 related_article5:
     id: 166843
-    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
+    title: >-
+        How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
 ---

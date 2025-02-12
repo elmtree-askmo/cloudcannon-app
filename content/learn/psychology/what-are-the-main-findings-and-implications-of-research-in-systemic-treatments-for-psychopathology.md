@@ -2,8 +2,10 @@
 _schema: default
 id: 164061
 date: 2025-01-28
-title: What are the main findings and implications of research in systemic treatments for psychopathology?
-article_title: What are the main findings and implications of research in systemic treatments for psychopathology?
+title: >-
+    What are the main findings and implications of research in systemic treatments for psychopathology?
+article_title: >-
+    What are the main findings and implications of research in systemic treatments for psychopathology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/what-are-the-main-findings-and-implications-of-
 score: -1.0
 related_article1:
     id: 164068
-    title: Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
     subject: Psychology
     url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
 related_article2:
-    id: 164056
-    title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
 related_article3:
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
+related_article4:
+    id: 164068
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
+related_article5:
     id: 164060
-    title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+    title: >-
+        Define psychopathology and explain the importance of diagnostic criteria in its treatment.
     subject: Psychology
     url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
-related_article4:
-    id: 164059
-    title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
-related_article5:
-    id: 164059
-    title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
 ---
 
 &nbsp;

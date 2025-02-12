@@ -2,8 +2,10 @@
 _schema: default
 id: 160728
 date: 2025-01-24
-title: What are the main components of a robot's mechanical system?
-article_title: What are the main components of a robot's mechanical system?
+title: >-
+    What are the main components of a robot's mechanical system?
+article_title: >-
+    What are the main components of a robot's mechanical system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-main-components-of-a-robots-mechanical-system.md
 url: /learn/computer-science/questions/what-are-the-main-components-of-a-robots-mechanical-system
 score: -1.0
 related_article1:
-    id: 160906
-    title: What is the role of process management in operating systems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
-related_article2:
-    id: 160700
-    title: How does abstraction help in simplifying complex computing problems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
-related_article3:
-    id: 160730
-    title: What is the significance of heuristic algorithms in solving complex problems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
-related_article4:
     id: 160707
-    title: How does problem analysis contribute to computational problem solving?
+    title: >-
+        How does problem analysis contribute to computational problem solving?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
+related_article2:
+    id: 160704
+    title: >-
+        What are the key steps in the software engineering design process?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-steps-in-the-software-engineering-design-process
+related_article3:
+    id: 161052
+    title: >-
+        How do heuristic algorithms differ from Euclid’s algorithm?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
+related_article4:
+    id: 160727
+    title: >-
+        What are the principles of usability in user interface design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
 related_article5:
     id: 160906
-    title: What is the role of process management in operating systems?
+    title: >-
+        What is the role of process management in operating systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
 ---

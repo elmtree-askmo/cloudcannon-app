@@ -2,8 +2,10 @@
 _schema: default
 id: 168229
 date: 2025-02-03
-title: What instructions should be given to students after they submit their exams?
-article_title: What instructions should be given to students after they submit their exams?
+title: >-
+    What instructions should be given to students after they submit their exams?
+article_title: >-
+    What instructions should be given to students after they submit their exams?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-instructions-should-be-given-to-students-after-they-submit-their
 url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
 score: -1.0
 related_article1:
-    id: 168230
-    title: How should seating arrangements be managed in the exam room?
+    id: 168232
+    title: >-
+        What roles do invigilators play in supervising an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
+    url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
 related_article2:
-    id: 168220
-    title: How should time be managed effectively during an exam?
+    id: 168219
+    title: >-
+        What are the key responsibilities of an invigilator during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-an-invigilator-during-the-exam
 related_article3:
-    id: 168230
-    title: How should seating arrangements be managed in the exam room?
+    id: 168221
+    title: >-
+        What is the correct procedure for submitting response sheets after the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
+    url: /learn/education-studies/questions/what-is-the-correct-procedure-for-submitting-response-sheets-after-the-exam
 related_article4:
-    id: 168231
-    title: What strategies can be used to minimize distractions in the exam environment?
+    id: 168228
+    title: >-
+        How should queries be addressed during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
+    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
 related_article5:
-    id: 168220
-    title: How should time be managed effectively during an exam?
+    id: 168226
+    title: >-
+        How should students handle writing on exam sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
+    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
 ---
 
 &nbsp;

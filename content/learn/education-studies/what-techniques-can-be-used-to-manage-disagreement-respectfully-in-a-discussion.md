@@ -2,8 +2,10 @@
 _schema: default
 id: 168550
 date: 2025-02-03
-title: What techniques can be used to manage disagreement respectfully in a discussion?
-article_title: What techniques can be used to manage disagreement respectfully in a discussion?
+title: >-
+    What techniques can be used to manage disagreement respectfully in a discussion?
+article_title: >-
+    What techniques can be used to manage disagreement respectfully in a discussion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-
 url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
 score: -1.0
 related_article1:
-    id: 168548
-    title: How can reasoning enhance the credibility of a speech?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reasoning-enhance-the-credibility-of-a-speech
-related_article2:
-    id: 168532
-    title: Why is it important to identify and understand your audience before delivering a speech?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
-related_article3:
     id: 168533
-    title: What techniques can be used to engage an audience effectively?
+    title: >-
+        What techniques can be used to engage an audience effectively?
     subject: Education Studies
     url: /learn/education-studies/questions/what-techniques-can-be-used-to-engage-an-audience-effectively
+related_article2:
+    id: 168534
+    title: >-
+        What are the key elements of providing constructive criticism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-providing-constructive-criticism
+related_article3:
+    id: 168538
+    title: >-
+        What are some techniques for active listening and how do they benefit discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-techniques-for-active-listening-and-how-do-they-benefit-discussions
 related_article4:
-    id: 168535
-    title: How can diction and syntax be evaluated in a speech critique?
+    id: 168530
+    title: >-
+        What are some common rhetorical strategies used in speeches?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-diction-and-syntax-be-evaluated-in-a-speech-critique
+    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
 related_article5:
-    id: 168540
-    title: Why is it important to incorporate diverse perspectives in discussions?
+    id: 168531
+    title: >-
+        How can emotional appeal impact an audience during a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-incorporate-diverse-perspectives-in-discussions
+    url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
 ---
 
 &nbsp;

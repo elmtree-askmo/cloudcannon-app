@@ -2,8 +2,10 @@
 _schema: default
 id: 166730
 date: 2025-01-31
-title: What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
-article_title: What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
+title: >-
+    What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
+article_title: >-
+    What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-commutative-and-distributive-properties-of-vectors-and-h
 url: /learn/education-studies/questions/what-are-the-commutative-and-distributive-properties-of-vectors-and-how-do-they-apply-to-vector-calculations
 score: -1.0
 related_article1:
-    id: 166737
-    title: What is angular momentum and how is it related to torque?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-angular-momentum-and-how-is-it-related-to-torque
-related_article2:
-    id: 166725
-    title: Explain the relationship between force, distance, and angle in moment equations.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-relationship-between-force-distance-and-angle-in-moment-equations
-related_article3:
-    id: 166728
-    title: Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
-related_article4:
     id: 166732
-    title: How is the projection of one vector onto another calculated using scalar products?
+    title: >-
+        How is the projection of one vector onto another calculated using scalar products?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
-related_article5:
-    id: 166734
-    title: Explain the geometric interpretation of the mixed triple product.
+related_article2:
+    id: 166728
+    title: >-
+        Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-geometric-interpretation-of-the-mixed-triple-product
+    url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
+related_article3:
+    id: 166732
+    title: >-
+        How is the projection of one vector onto another calculated using scalar products?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
+related_article4:
+    id: 166723
+    title: >-
+        What conditions must be met for a system to be in mechanical equilibrium?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
+related_article5:
+    id: 166729
+    title: >-
+        How are vectors decomposed into components and what are the properties of vector addition and subtraction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164665
 date: 2025-01-28
-title: What are the key factors in assessing behavioral changes post-injury?
-article_title: What are the key factors in assessing behavioral changes post-injury?
+title: >-
+    What are the key factors in assessing behavioral changes post-injury?
+article_title: >-
+    What are the key factors in assessing behavioral changes post-injury?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-factors-in-assessing-behavioral-changes-postinjury.m
 url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
 score: -1.0
 related_article1:
-    id: 164661
-    title: What are the limitations of self-report methods in memory assessment?
+    id: 164659
+    title: >-
+        What were some of the early observations that contributed to the development of neuropsychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
 related_article2:
-    id: 164662
-    title: How does MRI technology contribute to the visualization of brain damage?
+    id: 164659
+    title: >-
+        What were some of the early observations that contributed to the development of neuropsychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-mri-technology-contribute-to-the-visualization-of-brain-damage
+    url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-contributed-to-the-development-of-neuropsychology
 related_article3:
-    id: 164668
-    title: What are the advantages of using non-invasive techniques in anatomical imaging?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
-related_article4:
-    id: 164667
-    title: How does long-term monitoring help in understanding the cognitive impact of concussions?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
-related_article5:
     id: 164660
-    title: How have ethical considerations influenced research on natural brain lesions?
+    title: >-
+        How have ethical considerations influenced research on natural brain lesions?
     subject: Psychology
     url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
+related_article4:
+    id: 164661
+    title: >-
+        What are the limitations of self-report methods in memory assessment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-limitations-of-selfreport-methods-in-memory-assessment
+related_article5:
+    id: 164663
+    title: >-
+        What is the significance of mapping brain functions in understanding functional specialization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166237
 date: 2025-01-29
-title: What are the main components involved in constructing historical narratives?
-article_title: What are the main components involved in constructing historical narratives?
+title: >-
+    What are the main components involved in constructing historical narratives?
+article_title: >-
+    What are the main components involved in constructing historical narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-involved-in-constructing-historical-narr
 url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
 score: 9.0
 related_article1:
-    id: 166238
-    title: How do data analysis techniques like statistical methods and data visualization aid in historical research?
+    id: 166226
+    title: >-
+        How can stress management techniques improve mental health?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-data-analysis-techniques-like-statistical-methods-and-data-visualization-aid-in-historical-research
+    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
 related_article2:
+    id: 166241
+    title: >-
+        What are the key developments in prehistory that led to the transition to recorded history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
+related_article3:
     id: 166214
-    title: How has classical Arabic literature influenced modern Arabic literature?
+    title: >-
+        How has classical Arabic literature influenced modern Arabic literature?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-has-classical-arabic-literature-influenced-modern-arabic-literature
-related_article3:
-    id: 166236
-    title: How do natural disasters like earthquakes and hurricanes affect human societies?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
 related_article4:
-    id: 166233
-    title: How has historiography evolved from ancient to modern times?
+    id: 166232
+    title: >-
+        How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
+    url: /learn/history-of-the-world/questions/how-did-ancient-civilizations-like-mesopotamia-and-ancient-egypt-influence-modern-society
 related_article5:
-    id: 166240
-    title: How do language barriers and contextual understanding affect the interpretation of historical documents?
+    id: 166217
+    title: >-
+        What are the fundamental components of machine learning, and how do they interact?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
+    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
 ---
 
 &nbsp;

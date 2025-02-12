@@ -2,8 +2,10 @@
 _schema: default
 id: 166722
 date: 2025-01-31
-title: What are the fundamental concepts of statics and why are they important in mechanics?
-article_title: What are the fundamental concepts of statics and why are they important in mechanics?
+title: >-
+    What are the fundamental concepts of statics and why are they important in mechanics?
+article_title: >-
+    What are the fundamental concepts of statics and why are they important in mechanics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-fundamental-concepts-of-statics-and-why-are-they-importa
 url: /learn/education-studies/questions/what-are-the-fundamental-concepts-of-statics-and-why-are-they-important-in-mechanics
 score: -1.0
 related_article1:
-    id: 166727
-    title: How is the mechanical advantage of a lever determined and what are the types of levers?
+    id: 166731
+    title: >-
+        Define the dot product and explain how it is used to calculate scalar products.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-mechanical-advantage-of-a-lever-determined-and-what-are-the-types-of-levers
+    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
 related_article2:
-    id: 166725
-    title: Explain the relationship between force, distance, and angle in moment equations.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-relationship-between-force-distance-and-angle-in-moment-equations
-related_article3:
-    id: 166733
-    title: What is the cross product of two vectors and what are its properties?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
-related_article4:
     id: 166734
-    title: Explain the geometric interpretation of the mixed triple product.
+    title: >-
+        Explain the geometric interpretation of the mixed triple product.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-geometric-interpretation-of-the-mixed-triple-product
-related_article5:
-    id: 166724
-    title: How is the moment of a force calculated and what role does the moment arm play in this calculation?
+related_article3:
+    id: 166739
+    title: >-
+        How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment-arm-play-in-this-calculation
+    url: /learn/education-studies/questions/how-are-coordinate-transformations-performed-between-cartesian-and-cylindrical-coordinate-systems
+related_article4:
+    id: 166735
+    title: >-
+        What is a unit vector and why is it important in vector representation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-a-unit-vector-and-why-is-it-important-in-vector-representation
+related_article5:
+    id: 166725
+    title: >-
+        Explain the relationship between force, distance, and angle in moment equations.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-relationship-between-force-distance-and-angle-in-moment-equations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170577
 date: 2025-02-06
-title: How do local auto-regulation mechanisms affect blood vessel response?
-article_title: How do local auto-regulation mechanisms affect blood vessel response?
+title: >-
+    How do local auto-regulation mechanisms affect blood vessel response?
+article_title: >-
+    How do local auto-regulation mechanisms affect blood vessel response?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-local-autoregulation-mechanisms-affect-blood-vessel-response.m
 url: /learn/health-studies/questions/how-do-local-autoregulation-mechanisms-affect-blood-vessel-response
 score: -1.0
 related_article1:
-    id: 170560
-    title: What are the primary pathophysiological features of Parkinson's disease?
+    id: 170553
+    title: >-
+        How does neurotransmitter blockage affect nervous system function?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
+    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
 related_article2:
-    id: 170551
-    title: How do positive and negative feedback mechanisms differ in physiological processes?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-feedback-mechanisms-differ-in-physiological-processes
-related_article3:
     id: 170546
-    title: What are the primary functions of the cellular level in anatomy and physiology?
+    title: >-
+        What are the primary functions of the cellular level in anatomy and physiology?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-cellular-level-in-anatomy-and-physiology
+related_article3:
+    id: 170572
+    title: >-
+        What are the benefits of using clinical vignettes in research methodologies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
 related_article4:
-    id: 170559
-    title: How have innovations in medical devices improved pain management?
+    id: 170575
+    title: >-
+        What is the role of calcium ions in muscle contraction mechanisms?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-have-innovations-in-medical-devices-improved-pain-management
+    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 related_article5:
-    id: 170568
-    title: What are the clinical implications of hemophilia in blood clotting disorders?
+    id: 170555
+    title: >-
+        Describe the function of the sodium-potassium pump in neuron activity.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-implications-of-hemophilia-in-blood-clotting-disorders
+    url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
 ---
 
 &nbsp;

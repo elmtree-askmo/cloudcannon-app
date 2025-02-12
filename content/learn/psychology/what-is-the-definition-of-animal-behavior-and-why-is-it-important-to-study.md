@@ -2,8 +2,10 @@
 _schema: default
 id: 165287
 date: 2025-01-28
-title: What is the definition of animal behavior and why is it important to study?
-article_title: What is the definition of animal behavior and why is it important to study?
+title: >-
+    What is the definition of animal behavior and why is it important to study?
+article_title: >-
+    What is the definition of animal behavior and why is it important to study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-
 url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
 score: -1.0
 related_article1:
-    id: 165302
-    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    id: 165294
+    title: >-
+        Describe the process of cultural transmission in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
 related_article2:
-    id: 165310
-    title: How do genetic and neurobiological changes contribute to the mechanism of behavior?
+    id: 165311
+    title: >-
+        What is the influence of hormones on animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-and-neurobiological-changes-contribute-to-the-mechanism-of-behavior
+    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
 related_article3:
-    id: 165309
-    title: What is the role of phylogenetic analysis in understanding evolutionary history?
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-phylogenetic-analysis-in-understanding-evolutionary-history
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
 related_article4:
-    id: 165300
-    title: Why is genetic variation important for evolution?
+    id: 165298
+    title: >-
+        What is the difference between phenotype and genotype, and how do they relate to natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
+    url: /learn/psychology/questions/what-is-the-difference-between-phenotype-and-genotype-and-how-do-they-relate-to-natural-selection
 related_article5:
-    id: 165302
-    title: Explain the interaction between genetic factors and environmental influences on behavior.
+    id: 165308
+    title: >-
+        Provide an example of a case study that illustrates behavioral selection.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
+    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
 ---
 
 &nbsp;

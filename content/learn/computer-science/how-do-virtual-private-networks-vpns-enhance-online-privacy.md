@@ -2,8 +2,10 @@
 _schema: default
 id: 161469
 date: 2025-01-24
-title: How do Virtual Private Networks (VPNs) enhance online privacy?
-article_title: How do Virtual Private Networks (VPNs) enhance online privacy?
+title: >-
+    How do Virtual Private Networks (VPNs) enhance online privacy?
+article_title: >-
+    How do Virtual Private Networks (VPNs) enhance online privacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-virtual-private-networks-vpns-enhance-online-privacy.md
 url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
 score: -1.0
 related_article1:
-    id: 161257
-    title: What is the primary function of spyware?
+    id: 161392
+    title: >-
+        How can individuals recognize and prevent pharming attempts?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+    url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
 related_article2:
     id: 161260
-    title: How can users recognize and prevent pharming attempts?
+    title: >-
+        How can users recognize and prevent pharming attempts?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-users-recognize-and-prevent-pharming-attempts
 related_article3:
-    id: 161452
-    title: What are some examples of basic identification information considered as personal data?
+    id: 161246
+    title: >-
+        What are some examples of basic identification information considered as personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
 related_article4:
-    id: 161260
-    title: How can users recognize and prevent pharming attempts?
+    id: 161388
+    title: >-
+        What distinguishes a virus from a worm in terms of malware?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-users-recognize-and-prevent-pharming-attempts
+    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
 related_article5:
-    id: 161393
-    title: What is the difference between smishing and vishing?
+    id: 161249
+    title: >-
+        What are some common methods used for pseudonymization?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-smishing-and-vishing
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
 ---
 
 &nbsp;

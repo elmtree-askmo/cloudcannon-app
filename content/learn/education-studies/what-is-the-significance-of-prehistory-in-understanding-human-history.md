@@ -2,8 +2,10 @@
 _schema: default
 id: 168374
 date: 2025-02-03
-title: What is the significance of prehistory in understanding human history?
-article_title: What is the significance of prehistory in understanding human history?
+title: >-
+    What is the significance of prehistory in understanding human history?
+article_title: >-
+    What is the significance of prehistory in understanding human history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-prehistory-in-understanding-human-history
 url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
 score: -1.0
 related_article1:
-    id: 168392
-    title: How did hunting and gathering societies organize themselves socially?
+    id: 168378
+    title: >-
+        How do cultural and physical anthropology differ in their study of human societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
+    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
 related_article2:
-    id: 168393
-    title: How did prehistoric societies adapt to environmental changes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
-related_article3:
-    id: 168382
-    title: What are the key developments in the timeline of human evolution?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-developments-in-the-timeline-of-human-evolution
-related_article4:
     id: 168381
-    title: What were the effects of glacial and interglacial periods on human evolution?
+    title: >-
+        What were the effects of glacial and interglacial periods on human evolution?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-effects-of-glacial-and-interglacial-periods-on-human-evolution
-related_article5:
-    id: 168384
-    title: What were the major impacts of the development and spread of agriculture on societies?
+related_article3:
+    id: 168380
+    title: >-
+        How did early metallurgical practices impact ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
+    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
+related_article4:
+    id: 168386
+    title: >-
+        What methods are used to date historical events and artifacts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
+related_article5:
+    id: 168390
+    title: >-
+        How does genetic data help in tracing human migration patterns?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
 ---
 
 &nbsp;

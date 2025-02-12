@@ -2,8 +2,10 @@
 _schema: default
 id: 162352
 date: 2025-01-25
-title: What contributions did Ron Draper make to health promotion and public health leadership?
-article_title: What contributions did Ron Draper make to health promotion and public health leadership?
+title: >-
+    What contributions did Ron Draper make to health promotion and public health leadership?
+article_title: >-
+    What contributions did Ron Draper make to health promotion and public health leadership?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-contributions-did-ron-draper-make-to-health-promotion-and-public
 url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 score: -1.0
 related_article1:
-    id: 162349
-    title: What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
+    id: 162338
+    title: >-
+        What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
+    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
 related_article2:
-    id: 162333
-    title: What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
+    id: 162340
+    title: >-
+        What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-was-the-role-of-charitable-organizations-in-responding-to-tuberculosis-and-polio-control-efforts-in-the-1920s
+    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
 related_article3:
+    id: 162321
+    title: >-
+        How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-the-establishment-of-the-canadian-public-health-association
+related_article4:
     id: 162351
-    title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
+    title: >-
+        What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
-related_article4:
-    id: 162347
-    title: What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
 related_article5:
-    id: 162333
-    title: What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
+    id: 162341
+    title: >-
+        What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-was-the-role-of-charitable-organizations-in-responding-to-tuberculosis-and-polio-control-efforts-in-the-1920s
+    url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
 ---
 
 &nbsp;

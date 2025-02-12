@@ -2,8 +2,10 @@
 _schema: default
 id: 166666
 date: 2025-01-31
-title: How are trigonometric identities used in solving engineering problems involving vector analysis?
-article_title: How are trigonometric identities used in solving engineering problems involving vector analysis?
+title: >-
+    How are trigonometric identities used in solving engineering problems involving vector analysis?
+article_title: >-
+    How are trigonometric identities used in solving engineering problems involving vector analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-trigonometric-identities-used-in-solving-engineering-problems
 url: /learn/engineering/questions/how-are-trigonometric-identities-used-in-solving-engineering-problems-involving-vector-analysis
 score: -1.0
 related_article1:
-    id: 166659
-    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    id: 166662
+    title: >-
+        How is the spring force calculated based on displacement, and what are its applications in mechanical systems?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+    url: /learn/engineering/questions/how-is-the-spring-force-calculated-based-on-displacement-and-what-are-its-applications-in-mechanical-systems
 related_article2:
     id: 166663
-    title: What are the properties of tension in cables, and how does directionality affect tension analysis?
+    title: >-
+        What are the properties of tension in cables, and how does directionality affect tension analysis?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
 related_article3:
-    id: 166659
-    title: How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
+    id: 166674
+    title: >-
+        What are the core principles of engineering design, and how do they ensure functionality and safety?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
+    url: /learn/engineering/questions/what-are-the-core-principles-of-engineering-design-and-how-do-they-ensure-functionality-and-safety
 related_article4:
-    id: 166652
-    title: How do consulting programs support engineers through networking and community engagement?
+    id: 166668
+    title: >-
+        How are kinematic equations used in the analysis of motion in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+    url: /learn/engineering/questions/how-are-kinematic-equations-used-in-the-analysis-of-motion-in-engineering
 related_article5:
-    id: 166671
-    title: How is mathematical modeling used for predictive analysis and system simulation in engineering?
+    id: 166664
+    title: >-
+        How is equilibrium maintained in cable systems, and what methods are used to solve for unknown tensions?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-mathematical-modeling-used-for-predictive-analysis-and-system-simulation-in-engineering
+    url: /learn/engineering/questions/how-is-equilibrium-maintained-in-cable-systems-and-what-methods-are-used-to-solve-for-unknown-tensions
 ---
 
 &nbsp;

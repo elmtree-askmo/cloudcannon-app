@@ -2,8 +2,10 @@
 _schema: default
 id: 161277
 date: 2025-01-24
-title: What are the implications of the halting problem on static and dynamic analysis?
-article_title: What are the implications of the halting problem on static and dynamic analysis?
+title: >-
+    What are the implications of the halting problem on static and dynamic analysis?
+article_title: >-
+    What are the implications of the halting problem on static and dynamic analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-implications-of-the-halting-problem-on-static-and-dynami
 url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 score: -1.0
 related_article1:
-    id: 161147
-    title: How do infinite sets impact computability and set theory?
+    id: 160801
+    title: >-
+        How can abstraction aid in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
+    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
 related_article2:
-    id: 161273
-    title: What is the P vs NP problem, and why is it important in computational theory?
+    id: 161127
+    title: >-
+        How does the level of representation impact algorithm complexity?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
+related_article3:
+    id: 161145
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
+related_article4:
+    id: 160813
+    title: >-
+        What techniques are used to prove the irrationality of numbers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-techniques-are-used-to-prove-the-irrationality-of-numbers
+related_article5:
+    id: 160806
+    title: >-
+        What is the P vs NP problem, and why is it important in computational theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
-related_article3:
-    id: 161279
-    title: What distinguishes rational numbers from irrational numbers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
-related_article4:
-    id: 161098
-    title: What is the halting problem, and why is it significant in computability theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
-related_article5:
-    id: 161130
-    title: What is the relationship between data structures and algorithms in terms of data representation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-algorithms-in-terms-of-data-representation
 ---
 
 &nbsp;

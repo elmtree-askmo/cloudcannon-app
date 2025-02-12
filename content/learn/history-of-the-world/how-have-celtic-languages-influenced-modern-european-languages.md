@@ -2,8 +2,10 @@
 _schema: default
 id: 160377
 date: 2025-01-24
-title: How have Celtic languages influenced modern European languages?
-article_title: How have Celtic languages influenced modern European languages?
+title: >-
+    How have Celtic languages influenced modern European languages?
+article_title: >-
+    How have Celtic languages influenced modern European languages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-celtic-languages-influenced-modern-european-languages.md
 url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
 score: 8.5
 related_article1:
-    id: 159917
-    title: What was the tribal organization and social hierarchy in Celtic society?
+    id: 159923
+    title: >-
+        What were the key trading centers in Celtic trade networks?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
 related_article2:
-    id: 159862
-    title: What are the main characteristics of Halstatt Culture's art and material goods?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
-related_article3:
-    id: 160183
-    title: How have the Celts contributed to European heritage and modern perceptions?
+    id: 160393
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
+related_article3:
+    id: 160375
+    title: >-
+        How did the La Tène Culture expand and settle in new regions?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
 related_article4:
-    id: 159916
-    title: How did Diodorus Siculus and Athenaeus describe Celtic customs?
+    id: 160251
+    title: >-
+        What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article5:
-    id: 159866
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 160257
+    title: >-
+        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163322
 date: 2025-01-26
-title: How can ecological fallacy affect the interpretation of ecological studies?
-article_title: How can ecological fallacy affect the interpretation of ecological studies?
+title: >-
+    How can ecological fallacy affect the interpretation of ecological studies?
+article_title: >-
+    How can ecological fallacy affect the interpretation of ecological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-ecological-fallacy-affect-the-interpretation-of-ecological-st
 url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
 score: -1.0
 related_article1:
-    id: 163311
-    title: How are age-specific rates calculated and why are they important?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
-related_article2:
-    id: 162991
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
-related_article3:
     id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+    title: >-
+        What is the purpose of direct standardization in calculating age-adjusted rates?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+related_article2:
+    id: 163323
+    title: >-
+        What is the difference between positive and negative associations in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
+related_article3:
+    id: 162987
+    title: >-
+        How do outbreaks differ from epidemics in terms of their definitions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article4:
+    id: 163151
+    title: >-
+        What are the primary purposes of public health surveillance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+related_article5:
     id: 162992
-    title: How do positive and negative associations differ in epidemiology?
+    title: >-
+        How do positive and negative associations differ in epidemiology?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
-related_article5:
-    id: 162985
-    title: How do descriptive and analytic epidemiologic questions differ in their objectives?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
 ---
 
 &nbsp;

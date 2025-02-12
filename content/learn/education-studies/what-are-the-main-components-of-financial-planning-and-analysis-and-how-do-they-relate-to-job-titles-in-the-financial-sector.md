@@ -2,8 +2,10 @@
 _schema: default
 id: 168506
 date: 2025-02-03
-title: What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
-article_title: What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
+title: >-
+    What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
+article_title: >-
+    What are the main components of financial planning and analysis, and how do they relate to job titles in the financial sector?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-financial-planning-and-analysis-and-h
 url: /learn/education-studies/questions/what-are-the-main-components-of-financial-planning-and-analysis-and-how-do-they-relate-to-job-titles-in-the-financial-sector
 score: -1.0
 related_article1:
-    id: 168487
-    title: What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-personal-interests-and-evaluating-natural-talents-for-career-suitability
-related_article2:
-    id: 168496
-    title: What are the key components of persuasive communication, and how can they be applied in career paths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-persuasive-communication-and-how-can-they-be-applied-in-career-paths
-related_article3:
-    id: 168487
-    title: What are the key steps in identifying personal interests and evaluating natural talents for career suitability?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-personal-interests-and-evaluating-natural-talents-for-career-suitability
-related_article4:
     id: 168493
-    title: What technical skills and tools are commonly used in medical professions?
+    title: >-
+        What technical skills and tools are commonly used in medical professions?
     subject: Education Studies
     url: /learn/education-studies/questions/what-technical-skills-and-tools-are-commonly-used-in-medical-professions
-related_article5:
+related_article2:
+    id: 168501
+    title: >-
+        How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
+related_article3:
+    id: 168504
+    title: >-
+        What are the essential qualities of assertiveness in the workplace, and how can they be developed?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-essential-qualities-of-assertiveness-in-the-workplace-and-how-can-they-be-developed
+related_article4:
     id: 168489
-    title: What are the routine duties and responsibilities associated with business administration roles?
+    title: >-
+        What are the routine duties and responsibilities associated with business administration roles?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-routine-duties-and-responsibilities-associated-with-business-administration-roles
+related_article5:
+    id: 168509
+    title: >-
+        What technical skills and tools are essential for medical professions, and what career opportunities exist in this field?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-technical-skills-and-tools-are-essential-for-medical-professions-and-what-career-opportunities-exist-in-this-field
 ---
 
 &nbsp;

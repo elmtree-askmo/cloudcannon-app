@@ -2,8 +2,10 @@
 _schema: default
 id: 169130
 date: 2025-02-04
-title: In what ways has fascist architecture been normalized within Italian cityscapes?
-article_title: In what ways has fascist architecture been normalized within Italian cityscapes?
+title: >-
+    In what ways has fascist architecture been normalized within Italian cityscapes?
+article_title: >-
+    In what ways has fascist architecture been normalized within Italian cityscapes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-has-fascist-architecture-been-normalized-within-italian-
 url: /learn/others/questions/in-what-ways-has-fascist-architecture-been-normalized-within-italian-cityscapes
 score: -1.0
 related_article1:
+    id: 169126
+    title: >-
+        What were the key architectural features of Modernist Fascist-Colonial Architecture in Asmara?
+    subject: Others
+    url: /learn/others/questions/what-were-the-key-architectural-features-of-modernist-fascistcolonial-architecture-in-asmara
+related_article2:
+    id: 169129
+    title: >-
+        How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
+    subject: Others
+    url: /learn/others/questions/how-did-italian-colonialism-and-military-defeats-influence-the-process-of-defascistization-and-decolonization
+related_article3:
     id: 169137
-    title: What are the new trajectories in heritage that subvert fascist and modernist heritage?
+    title: >-
+        What are the new trajectories in heritage that subvert fascist and modernist heritage?
     subject: Others
     url: /learn/others/questions/what-are-the-new-trajectories-in-heritage-that-subvert-fascist-and-modernist-heritage
-related_article2:
+related_article4:
     id: 169132
-    title: How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
+    title: >-
+        How does the concept of repair in architecture incorporate postcolonial non-Western knowledge?
     subject: Others
     url: /learn/others/questions/how-does-the-concept-of-repair-in-architecture-incorporate-postcolonial-nonwestern-knowledge
-related_article3:
-    id: 169135
-    title: What does architectural demodernization entail in the context of decolonizing preservation?
-    subject: Others
-    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
-related_article4:
-    id: 169137
-    title: What are the new trajectories in heritage that subvert fascist and modernist heritage?
-    subject: Others
-    url: /learn/others/questions/what-are-the-new-trajectories-in-heritage-that-subvert-fascist-and-modernist-heritage
 related_article5:
-    id: 169131
-    title: What are the challenges associated with the Eurocentric paradigm in preservation theory?
+    id: 169134
+    title: >-
+        How does reuse as reparation go beyond traditional reparation models in postcolonial contexts?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-associated-with-the-eurocentric-paradigm-in-preservation-theory
+    url: /learn/others/questions/how-does-reuse-as-reparation-go-beyond-traditional-reparation-models-in-postcolonial-contexts
 ---
 
 &nbsp;

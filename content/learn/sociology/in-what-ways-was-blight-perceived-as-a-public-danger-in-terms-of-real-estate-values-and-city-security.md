@@ -2,8 +2,10 @@
 _schema: default
 id: 168963
 date: 2025-02-04
-title: In what ways was blight perceived as a public danger in terms of real estate values and city security?
-article_title: In what ways was blight perceived as a public danger in terms of real estate values and city security?
+title: >-
+    In what ways was blight perceived as a public danger in terms of real estate values and city security?
+article_title: >-
+    In what ways was blight perceived as a public danger in terms of real estate values and city security?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real
 url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
 score: -1.0
 related_article1:
-    id: 168966
-    title: How do racialized economic systems perpetuate white privilege and anti-black racism in urban contexts?
+    id: 168962
+    title: >-
+        How did post-WWII deindustrialization impact urban neighborhoods?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-racialized-economic-systems-perpetuate-white-privilege-and-antiblack-racism-in-urban-contexts
+    url: /learn/sociology/questions/how-did-postwwii-deindustrialization-impact-urban-neighborhoods
 related_article2:
-    id: 168969
-    title: What historical practices contributed to racial segregation in urban areas?
+    id: 168961
+    title: >-
+        What were the main factors contributing to urban decline in the early 20th century?
     subject: Sociology
-    url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
+    url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
 related_article3:
-    id: 168970
-    title: How did post-war urban policies address urban renewal and redevelopment?
+    id: 168971
+    title: >-
+        What role does municipal governance play in the governmentalization of blight?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
+    url: /learn/sociology/questions/what-role-does-municipal-governance-play-in-the-governmentalization-of-blight
 related_article4:
-    id: 168965
-    title: What role does racial identity play in the political and economic orders of urban spaces?
+    id: 168964
+    title: >-
+        How does racial capitalism intersect with the concept of blight in urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
+    url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
 related_article5:
-    id: 168970
-    title: How did post-war urban policies address urban renewal and redevelopment?
+    id: 168972
+    title: >-
+        How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-postwar-urban-policies-address-urban-renewal-and-redevelopment
+    url: /learn/sociology/questions/how-does-neoliberal-urbanism-influence-the-privatization-of-public-tasks-related-to-blight-removal
 ---
 
 &nbsp;

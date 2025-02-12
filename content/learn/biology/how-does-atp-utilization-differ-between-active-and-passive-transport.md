@@ -2,8 +2,10 @@
 _schema: default
 id: 168906
 date: 2025-02-04
-title: How does ATP utilization differ between active and passive transport?
-article_title: How does ATP utilization differ between active and passive transport?
+title: >-
+    How does ATP utilization differ between active and passive transport?
+article_title: >-
+    How does ATP utilization differ between active and passive transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-atp-utilization-differ-between-active-and-passive-transport.
 url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
 score: -1.0
 related_article1:
-    id: 168904
-    title: What is the role of ATP in the sodium-potassium pump?
+    id: 168902
+    title: >-
+        Explain the process of exocytosis and its role in cellular waste removal.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
+    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
 related_article2:
     id: 168900
-    title: Describe the process of endocytosis and its significance in cellular intake.
+    title: >-
+        Describe the process of endocytosis and its significance in cellular intake.
     subject: Biology
     url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
 related_article3:
-    id: 168900
-    title: Describe the process of endocytosis and its significance in cellular intake.
+    id: 168904
+    title: >-
+        What is the role of ATP in the sodium-potassium pump?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
 related_article4:
-    id: 168900
-    title: Describe the process of endocytosis and its significance in cellular intake.
+    id: 168897
+    title: >-
+        Why is energy required for active transport processes?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
-related_article5:
-    id: 168902
-    title: Explain the process of exocytosis and its role in cellular waste removal.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
 ---
 
 &nbsp;

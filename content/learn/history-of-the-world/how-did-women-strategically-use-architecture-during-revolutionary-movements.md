@@ -2,8 +2,10 @@
 _schema: default
 id: 169019
 date: 2025-02-04
-title: How did women strategically use architecture during revolutionary movements?
-article_title: How did women strategically use architecture during revolutionary movements?
+title: >-
+    How did women strategically use architecture during revolutionary movements?
+article_title: >-
+    How did women strategically use architecture during revolutionary movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-women-strategically-use-architecture-during-revolutionary-mov
 url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 score: 9.0
 related_article1:
-    id: 169013
-    title: What strategies and tactics were employed during the Mexican Revolution?
+    id: 169015
+    title: >-
+        What cultural understandings are associated with revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
+    url: /learn/history-of-the-world/questions/what-cultural-understandings-are-associated-with-revolutionary-movements
 related_article2:
-    id: 169012
-    title: Who were some key figures in the Mexican Revolution, and what were their contributions?
+    id: 169001
+    title: >-
+        How does collective work influence architectural history beyond individual builders?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
+    url: /learn/history-of-the-world/questions/how-does-collective-work-influence-architectural-history-beyond-individual-builders
 related_article3:
     id: 169022
-    title: How have newspaper accounts influenced the historical narratives of revolutionary events?
+    title: >-
+        How have newspaper accounts influenced the historical narratives of revolutionary events?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influenced-the-historical-narratives-of-revolutionary-events
 related_article4:
-    id: 169016
-    title: How can buildings serve as symbols of revolutionary movements?
+    id: 169022
+    title: >-
+        How have newspaper accounts influenced the historical narratives of revolutionary events?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influenced-the-historical-narratives-of-revolutionary-events
 related_article5:
-    id: 169021
-    title: What role do cultural understandings play in architectural spaces?
+    id: 169009
+    title: >-
+        What actions did women take during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-cultural-understandings-play-in-architectural-spaces
+    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
 ---
 
 &nbsp;

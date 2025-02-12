@@ -2,8 +2,10 @@
 _schema: default
 id: 164690
 date: 2025-01-28
-title: What were some key discoveries in the historical development of neuroscience?
-article_title: What were some key discoveries in the historical development of neuroscience?
+title: >-
+    What were some key discoveries in the historical development of neuroscience?
+article_title: >-
+    What were some key discoveries in the historical development of neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-some-key-discoveries-in-the-historical-development-of-neuro
 url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
 score: -1.0
 related_article1:
-    id: 164673
-    title: Describe the stages involved in memory processes.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-stages-involved-in-memory-processes
-related_article2:
-    id: 164671
-    title: How do brain networks contribute to overall brain function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
-related_article3:
     id: 164679
-    title: How does emotion influence cognitive processes?
+    title: >-
+        How does emotion influence cognitive processes?
     subject: Psychology
     url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
+related_article2:
+    id: 164675
+    title: >-
+        How does EEG differ from MRI in terms of brain imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+related_article3:
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 related_article4:
     id: 164692
-    title: How are cognitive disorders diagnosed and treated?
+    title: >-
+        How are cognitive disorders diagnosed and treated?
     subject: Psychology
     url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
 related_article5:
-    id: 164692
-    title: How are cognitive disorders diagnosed and treated?
+    id: 164689
+    title: >-
+        How is artificial intelligence applied in cognitive neuroscience research?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
 ---
 
 &nbsp;

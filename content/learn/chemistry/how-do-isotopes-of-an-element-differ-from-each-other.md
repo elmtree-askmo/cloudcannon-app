@@ -2,8 +2,10 @@
 _schema: default
 id: 167060
 date: 2025-01-31
-title: How do isotopes of an element differ from each other?
-article_title: How do isotopes of an element differ from each other?
+title: >-
+    How do isotopes of an element differ from each other?
+article_title: >-
+    How do isotopes of an element differ from each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-isotopes-of-an-element-differ-from-each-other.md
 url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
 score: -1.0
 related_article1:
-    id: 167056
-    title: How do electron shells relate to energy levels in an atom?
+    id: 167058
+    title: >-
+        How is atomic mass calculated, and what role do isotopes play in this calculation?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-what-role-do-isotopes-play-in-this-calculation
 related_article2:
     id: 167067
-    title: What is a functional group and why is it important in organic chemistry?
+    title: >-
+        What is a functional group and why is it important in organic chemistry?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
 related_article3:
-    id: 167062
-    title: What are valence electrons and why are they important for chemical stability?
+    id: 167065
+    title: >-
+        What role do hydrogen bonds play in molecular interactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
 related_article4:
+    id: 167066
+    title: >-
+        How do covalent and ionic compounds differ in terms of molecular structure?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+related_article5:
     id: 167062
-    title: What are valence electrons and why are they important for chemical stability?
+    title: >-
+        What are valence electrons and why are they important for chemical stability?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
-related_article5:
-    id: 167057
-    title: What is the atomic number and how is it determined for an element?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167022
 date: 2025-01-31
-title: What are some common examples of disaccharides?
-article_title: What are some common examples of disaccharides?
+title: >-
+    What are some common examples of disaccharides?
+article_title: >-
+    What are some common examples of disaccharides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-examples-of-disaccharides.md
 url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
 score: -1.0
 related_article1:
-    id: 167016
-    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    id: 167018
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
     subject: Biology
-    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
 related_article2:
-    id: 167016
-    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    id: 167029
+    title: >-
+        How do carbohydrates participate in cellular communication?
     subject: Biology
-    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+    url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
 related_article3:
-    id: 167019
-    title: How are monosaccharides classified based on the number of carbon atoms?
+    id: 167033
+    title: >-
+        What are the different types of starch, and how do they contribute to plant energy storage?
     subject: Biology
-    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
 related_article4:
-    id: 167017
-    title: What is the significance of hydrolysis reactions in the breakdown of biological polymers?
+    id: 167028
+    title: >-
+        What is the function of chitin in fungal cell walls and arthropod exoskeletons?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-hydrolysis-reactions-in-the-breakdown-of-biological-polymers
+    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 related_article5:
-    id: 167026
-    title: What role does starch play in plant energy storage?
+    id: 167033
+    title: >-
+        What are the different types of starch, and how do they contribute to plant energy storage?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160452
 date: 2025-01-24
-title: What statistical models are commonly used for interpreting environmental data in ecology?
-article_title: What statistical models are commonly used for interpreting environmental data in ecology?
+title: >-
+    What statistical models are commonly used for interpreting environmental data in ecology?
+article_title: >-
+    What statistical models are commonly used for interpreting environmental data in ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-statistical-models-are-commonly-use
 score: -1.0
 related_article1:
     id: 160437
-    title: What is the significance of energy loss between trophic levels in an ecosystem?
+    title: >-
+        What is the significance of energy loss between trophic levels in an ecosystem?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-energy-loss-between-trophic-levels-in-an-ecosystem
 related_article2:
-    id: 160440
-    title: How does high net primary productivity influence biodiversity in an ecosystem?
+    id: 160450
+    title: >-
+        What Excel features are most useful for creating effective data visualizations?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-high-net-primary-productivity-influence-biodiversity-in-an-ecosystem
+    url: /learn/education-studies/questions/what-excel-features-are-most-useful-for-creating-effective-data-visualizations
 related_article3:
-    id: 160448
-    title: What are the key considerations when interpreting spatial patterns in ecological data?
+    id: 160451
+    title: >-
+        How can species richness be assessed in a biodiversity study?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-considerations-when-interpreting-spatial-patterns-in-ecological-data
+    url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
 related_article4:
     id: 160448
-    title: What are the key considerations when interpreting spatial patterns in ecological data?
+    title: >-
+        What are the key considerations when interpreting spatial patterns in ecological data?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-considerations-when-interpreting-spatial-patterns-in-ecological-data
 related_article5:
-    id: 160438
-    title: How does the width of the energy base impact the trophic levels in an ecosystem?
+    id: 160442
+    title: >-
+        How should zero values be handled when calculating the Shannon Diversity Index?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
+    url: /learn/education-studies/questions/how-should-zero-values-be-handled-when-calculating-the-shannon-diversity-index
 ---
 
 &nbsp;

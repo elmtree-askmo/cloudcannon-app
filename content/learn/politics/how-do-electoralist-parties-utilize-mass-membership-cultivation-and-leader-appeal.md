@@ -2,8 +2,10 @@
 _schema: default
 id: 169269
 date: 2025-02-04
-title: How do electoralist parties utilize mass membership cultivation and leader appeal?
-article_title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+title: >-
+    How do electoralist parties utilize mass membership cultivation and leader appeal?
+article_title: >-
+    How do electoralist parties utilize mass membership cultivation and leader appeal?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membersh
 score: -1.0
 related_article1:
     id: 169272
-    title: What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
+    title: >-
+        What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
     subject: Politics
     url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
 related_article2:
-    id: 169276
-    title: How do federal and provincial party relationships affect party integration and dynamics in Canada?
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
     subject: Politics
-    url: /learn/politics/questions/how-do-federal-and-provincial-party-relationships-affect-party-integration-and-dynamics-in-canada
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
 related_article3:
-    id: 169273
-    title: How does democratic socialism propose to address capitalist inequalities?
+    id: 169266
+    title: >-
+        What role do political parties play in the recruitment of candidates and campaign infrastructure?
     subject: Politics
-    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
+    url: /learn/politics/questions/what-role-do-political-parties-play-in-the-recruitment-of-candidates-and-campaign-infrastructure
 related_article4:
-    id: 169278
-    title: What are the major political parties in the Canadian political system, and what roles do they play?
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
 related_article5:
-    id: 169268
-    title: What is the pragmatic and opportunistic nature of brokerage theory in political parties?
+    id: 169272
+    title: >-
+        What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
     subject: Politics
-    url: /learn/politics/questions/what-is-the-pragmatic-and-opportunistic-nature-of-brokerage-theory-in-political-parties
+    url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
 ---
 
 &nbsp;

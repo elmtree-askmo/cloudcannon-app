@@ -2,8 +2,10 @@
 _schema: default
 id: 161161
 date: 2025-01-24
-title: How do machine learning algorithms differ from traditional algorithms in terms of design and application?
-article_title: How do machine learning algorithms differ from traditional algorithms in terms of design and application?
+title: >-
+    How do machine learning algorithms differ from traditional algorithms in terms of design and application?
+article_title: >-
+    How do machine learning algorithms differ from traditional algorithms in terms of design and application?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-machine-learning-algorithms-differ-from-traditional-algorithms
 url: /learn/computer-science/questions/how-do-machine-learning-algorithms-differ-from-traditional-algorithms-in-terms-of-design-and-application
 score: -1.0
 related_article1:
-    id: 161062
-    title: What are NP-complete problems and why are they significant in computational theory?
+    id: 160943
+    title: >-
+        Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-npcomplete-problems-and-why-are-they-significant-in-computational-theory
+    url: /learn/computer-science/questions/describe-an-approximation-algorithm-and-its-use-in-solving-the-traveling-salesperson-problem
 related_article2:
-    id: 161068
-    title: What is the primary goal of clustering algorithms in data analysis?
+    id: 161055
+    title: >-
+        What are some applications of algorithms in biological fields?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-goal-of-clustering-algorithms-in-data-analysis
+    url: /learn/computer-science/questions/what-are-some-applications-of-algorithms-in-biological-fields
 related_article3:
-    id: 160932
-    title: Compare the efficiency of insertion sort and merge sort with respect to input size.
+    id: 161069
+    title: >-
+        Describe a technique used in graph algorithms to find the shortest path.
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-with-respect-to-input-size
+    url: /learn/computer-science/questions/describe-a-technique-used-in-graph-algorithms-to-find-the-shortest-path
 related_article4:
     id: 160943
-    title: Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
+    title: >-
+        Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-an-approximation-algorithm-and-its-use-in-solving-the-traveling-salesperson-problem
 related_article5:
-    id: 161062
-    title: What are NP-complete problems and why are they significant in computational theory?
+    id: 161068
+    title: >-
+        What is the primary goal of clustering algorithms in data analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-npcomplete-problems-and-why-are-they-significant-in-computational-theory
+    url: /learn/computer-science/questions/what-is-the-primary-goal-of-clustering-algorithms-in-data-analysis
 ---
 
 &nbsp;

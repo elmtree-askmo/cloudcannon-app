@@ -2,8 +2,10 @@
 _schema: default
 id: 160606
 date: 2025-01-24
-title: What was innovative about the design of the Power Mac G4 Cube?
-article_title: What was innovative about the design of the Power Mac G4 Cube?
+title: >-
+    What was innovative about the design of the Power Mac G4 Cube?
+article_title: >-
+    What was innovative about the design of the Power Mac G4 Cube?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-innovative-about-the-design-of-the-power-mac-g4-cube.md
 url: /learn/computer-science/questions/what-was-innovative-about-the-design-of-the-power-mac-g4-cube
 score: -1.0
 related_article1:
-    id: 160525
-    title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+    id: 160528
+    title: >-
+        What was the significance of Apple's first retail store opening in terms of consumer engagement?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
+    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
 related_article2:
-    id: 160417
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    id: 160519
+    title: >-
+        What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+    url: /learn/computer-science/questions/what-advancements-did-the-flatpanel-imac-bring-to-apples-product-offerings-in-the-late-2000s
 related_article3:
-    id: 160523
-    title: How did the introduction of the iPhone in 2007 transform the smartphone market?
+    id: 160529
+    title: >-
+        How did Apple's store design and layout contribute to its retail success?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
+    url: /learn/computer-science/questions/how-did-apples-store-design-and-layout-contribute-to-its-retail-success
 related_article4:
-    id: 160419
-    title: How did the launch of Apple's first retail store impact its business strategy?
+    id: 160515
+    title: >-
+        What was the significance of Apple's first retail store launch in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-launch-of-apples-first-retail-store-impact-its-business-strategy
+    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-launch-in-the-early-2000s
 related_article5:
-    id: 160425
-    title: What were the technological advancements introduced with the iPhone 3G?
+    id: 160428
+    title: >-
+        How did the transition to aluminum cases affect Apple's product design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163600
 date: 2025-01-27
-title: What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
-article_title: What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
+title: >-
+    What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
+article_title: >-
+    What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-wh
 url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
 score: 9.0
 related_article1:
-    id: 163599
-    title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+    id: 163591
+    title: >-
+        How did Sparta's urban development compare to that of Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
+    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
 related_article2:
-    id: 163594
-    title: What was the Agoge system, and what role did it play in Spartan education and training?
+    id: 163596
+    title: >-
+        How did the Dorian dialect influence the Greek language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
+    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
 related_article3:
-    id: 163604
-    title: How did the agricultural basis of the Spartan economy rely on the Helots?
+    id: 163596
+    title: >-
+        How did the Dorian dialect influence the Greek language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
+    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
 related_article4:
-    id: 163607
-    title: What themes and motifs are prevalent in Spartan literature and poetry?
+    id: 163588
+    title: >-
+        What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
+    url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
 related_article5:
-    id: 163594
-    title: What was the Agoge system, and what role did it play in Spartan education and training?
+    id: 163598
+    title: >-
+        What was the significance of Spartan military training in Greek warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
 ---
 
 &nbsp;

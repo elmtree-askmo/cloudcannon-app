@@ -2,8 +2,10 @@
 _schema: default
 id: 166495
 date: 2025-01-30
-title: What is the role of preclinical trials in the drug development process?
-article_title: What is the role of preclinical trials in the drug development process?
+title: >-
+    What is the role of preclinical trials in the drug development process?
+article_title: >-
+    What is the role of preclinical trials in the drug development process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-preclinical-trials-in-the-drug-development-proces
 url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
 score: -1.0
 related_article1:
-    id: 166499
-    title: What is the Controlled Substance Act and how does it classify narcotics?
+    id: 166507
+    title: >-
+        How do healthcare providers monitor adverse effects to ensure drug safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
 related_article2:
-    id: 166493
-    title: What are the key components of pharmacokinetics?
+    id: 166509
+    title: >-
+        What are the advantages and disadvantages of oral and parenteral medication administration routes?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
 related_article3:
-    id: 166508
-    title: What is a black box warning and what are its implications for prescribers?
+    id: 166492
+    title: >-
+        How is the minimum effective concentration related to trough levels in drug dosing?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+    url: /learn/nursing/questions/how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing
 related_article4:
-    id: 166494
-    title: Explain the concept of drug-receptor interactions in pharmacodynamics.
+    id: 166491
+    title: >-
+        Define minimum effective concentration and explain its importance in therapeutic effectiveness.
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-concept-of-drugreceptor-interactions-in-pharmacodynamics
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 related_article5:
-    id: 166500
-    title: What are the implications of the Controlled Substance Act for healthcare providers?
+    id: 166511
+    title: >-
+        What strategies can be used to manage drug interactions effectively?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-implications-of-the-controlled-substance-act-for-healthcare-providers
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
 ---
 
 &nbsp;

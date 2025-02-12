@@ -2,8 +2,10 @@
 _schema: default
 id: 167550
 date: 2025-01-31
-title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
-article_title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+title: >-
+    How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+article_title: >-
+    How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors
 url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
 score: -1.0
 related_article1:
-    id: 167545
-    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
     subject: Biology
-    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
 related_article2:
-    id: 167542
-    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    id: 167551
+    title: >-
+        What is passive transport and how does it differ from active transport in terms of energy requirements?
     subject: Biology
-    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+    url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
 related_article3:
-    id: 167542
-    title: Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
+    id: 167551
+    title: >-
+        What is passive transport and how does it differ from active transport in terms of energy requirements?
     subject: Biology
-    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
+    url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
 related_article4:
-    id: 167545
-    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    id: 167555
+    title: >-
+        How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
     subject: Biology
-    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+    url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
 related_article5:
-    id: 167540
-    title: Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
 ---
 
 &nbsp;

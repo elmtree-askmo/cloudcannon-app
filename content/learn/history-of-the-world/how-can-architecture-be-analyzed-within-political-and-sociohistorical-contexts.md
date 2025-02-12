@@ -2,8 +2,10 @@
 _schema: default
 id: 169003
 date: 2025-02-04
-title: How can architecture be analyzed within political and socio-historical contexts?
-article_title: How can architecture be analyzed within political and socio-historical contexts?
+title: >-
+    How can architecture be analyzed within political and socio-historical contexts?
+article_title: >-
+    How can architecture be analyzed within political and socio-historical contexts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-architecture-be-analyzed-within-political-and-sociohistorical
 url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
 score: 9.0
 related_article1:
-    id: 169019
-    title: How did women strategically use architecture during revolutionary movements?
+    id: 169022
+    title: >-
+        How have newspaper accounts influenced the historical narratives of revolutionary events?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influenced-the-historical-narratives-of-revolutionary-events
 related_article2:
-    id: 169019
-    title: How did women strategically use architecture during revolutionary movements?
+    id: 169018
+    title: >-
+        What contributions did Carmen Serdan make to the revolutionary movement?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/what-contributions-did-carmen-serdan-make-to-the-revolutionary-movement
 related_article3:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    id: 169020
+    title: >-
+        How are historical events represented in cultural narratives within architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 related_article4:
-    id: 169002
-    title: What role does spatial analysis play in understanding the untold stories of architecture?
+    id: 169023
+    title: >-
+        What are the gendered and anti-revolutionary filters present in media representations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
+    url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
 related_article5:
-    id: 169006
-    title: What are gendered spaces in architecture, and why are they significant?
+    id: 169007
+    title: >-
+        How is architecture strategically used in different contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
+    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
 ---
 
 &nbsp;

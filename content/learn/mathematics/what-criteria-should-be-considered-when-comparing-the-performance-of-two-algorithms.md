@@ -2,8 +2,10 @@
 _schema: default
 id: 170716
 date: 2025-02-06
-title: What criteria should be considered when comparing the performance of two algorithms?
-article_title: What criteria should be considered when comparing the performance of two algorithms?
+title: >-
+    What criteria should be considered when comparing the performance of two algorithms?
+article_title: >-
+    What criteria should be considered when comparing the performance of two algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-criteria-should-be-considered-when-comparing-the-performance-of-
 url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
 score: -1.0
 related_article1:
-    id: 170707
-    title: What is the base case in regular induction, and why is it important?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
-related_article2:
-    id: 170720
-    title: How does memoization improve the efficiency of solving problems using dynamic programming?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
-related_article3:
-    id: 170717
-    title: What are the characteristics of recursive functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-characteristics-of-recursive-functions
-related_article4:
-    id: 170714
-    title: What are some common classes of Big O notation, and what do they represent?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
-related_article5:
     id: 170709
-    title: What distinguishes strong induction from regular induction?
+    title: >-
+        What distinguishes strong induction from regular induction?
     subject: Mathematics
     url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
+related_article2:
+    id: 170707
+    title: >-
+        What is the base case in regular induction, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
+related_article3:
+    id: 170718
+    title: >-
+        How do divide and conquer algorithms work, and what are their advantages?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+related_article4:
+    id: 170721
+    title: >-
+        What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+related_article5:
+    id: 170720
+    title: >-
+        How does memoization improve the efficiency of solving problems using dynamic programming?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
 ---
 
 &nbsp;

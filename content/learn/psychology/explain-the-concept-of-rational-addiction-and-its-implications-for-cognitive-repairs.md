@@ -2,8 +2,10 @@
 _schema: default
 id: 168895
 date: 2025-02-04
-title: Explain the concept of rational addiction and its implications for cognitive repairs.
-article_title: Explain the concept of rational addiction and its implications for cognitive repairs.
+title: >-
+    Explain the concept of rational addiction and its implications for cognitive repairs.
+article_title: >-
+    Explain the concept of rational addiction and its implications for cognitive repairs.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-i
 score: -1.0
 related_article1:
     id: 168882
-    title: Under what conditions can expert intuition be considered trustworthy?
+    title: >-
+        Under what conditions can expert intuition be considered trustworthy?
     subject: Psychology
     url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 related_article2:
-    id: 168887
-    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    id: 168891
+    title: >-
+        How is experienced well-being measured using the Day Reconstruction Method?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
 related_article3:
-    id: 168883
-    title: What is the planning fallacy and how does it affect project forecasts?
+    id: 168882
+    title: >-
+        Under what conditions can expert intuition be considered trustworthy?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
 related_article4:
-    id: 168893
-    title: How can behavioral economics influence public policy?
+    id: 168891
+    title: >-
+        How is experienced well-being measured using the Day Reconstruction Method?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
 related_article5:
-    id: 168878
-    title: What is the narrative fallacy and how does it affect our understanding of past events?
+    id: 168885
+    title: >-
+        What role does overconfidence play in financial forecasting?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 ---
 
 &nbsp;

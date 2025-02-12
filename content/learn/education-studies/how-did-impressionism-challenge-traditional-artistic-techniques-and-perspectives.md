@@ -2,8 +2,10 @@
 _schema: default
 id: 159803
 date: 2025-01-23
-title: How did Impressionism challenge traditional artistic techniques and perspectives?
-article_title: How did Impressionism challenge traditional artistic techniques and perspectives?
+title: >-
+    How did Impressionism challenge traditional artistic techniques and perspectives?
+article_title: >-
+    How did Impressionism challenge traditional artistic techniques and perspectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-impressionism-challenge-traditional-artistic-techniques-and-p
 url: /learn/education-studies/questions/how-did-impressionism-challenge-traditional-artistic-techniques-and-perspectives
 score: -1.0
 related_article1:
-    id: 159815
-    title: What are the key components of formal analysis when visually analyzing artworks?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
-related_article2:
-    id: 160026
-    title: What role did colonialism play in shaping European art during the 19th century?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-colonialism-play-in-shaping-european-art-during-the-19th-century
-related_article3:
-    id: 160017
-    title: How did Impressionism differ from previous artistic movements in terms of technique and subject matter?
+    id: 159741
+    title: >-
+        How did Impressionism differ from previous artistic movements in terms of technique and subject matter?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-impressionism-differ-from-previous-artistic-movements-in-terms-of-technique-and-subject-matter
+related_article2:
+    id: 159746
+    title: >-
+        How did Victorian society influence the representation of gender in art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+related_article3:
+    id: 159744
+    title: >-
+        In what ways did the transition from traditional to modern art manifest in the late 19th and early 20th centuries?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-did-the-transition-from-traditional-to-modern-art-manifest-in-the-late-19th-and-early-20th-centuries
 related_article4:
-    id: 159750
-    title: What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
+    id: 159746
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
 related_article5:
-    id: 159800
-    title: How did technological advancements during the Industrial Revolution influence modern art?
+    id: 159742
+    title: >-
+        What are the defining features of Post-Impressionism, and how did it build on Impressionism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-postimpressionism-and-how-did-it-build-on-impressionism
 ---
 
 &nbsp;

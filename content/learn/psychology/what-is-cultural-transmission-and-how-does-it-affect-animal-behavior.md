@@ -2,8 +2,10 @@
 _schema: default
 id: 166402
 date: 2025-01-30
-title: What is cultural transmission and how does it affect animal behavior?
-article_title: What is cultural transmission and how does it affect animal behavior?
+title: >-
+    What is cultural transmission and how does it affect animal behavior?
+article_title: >-
+    What is cultural transmission and how does it affect animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-cultural-transmission-and-how-does-it-affect-animal-behavior.
 url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
 score: -1.0
 related_article1:
-    id: 166408
-    title: Define fitness in the context of animal behavior and explain how it is measured.
-    subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured
-related_article2:
     id: 166416
-    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    title: >-
+        Explain the differences between directional, stabilizing, and disruptive selection.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article2:
+    id: 166418
+    title: >-
+        How does phylogeny contribute to our understanding of evolutionary history?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
 related_article3:
+    id: 166406
+    title: >-
+        What are the three main approaches to studying animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+related_article4:
     id: 166401
-    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    title: >-
+        Describe the role of learning in animal behavior and its impact on adaptation.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
-related_article4:
-    id: 166397
-    title: What are the key components of animal behavior as defined in the course?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
 related_article5:
-    id: 166409
-    title: How do phenotype and genotype interact to influence an organism's fitness?
+    id: 166407
+    title: >-
+        Summarize Darwin's four postulates and their relevance to natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
+    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
 ---
 
 &nbsp;

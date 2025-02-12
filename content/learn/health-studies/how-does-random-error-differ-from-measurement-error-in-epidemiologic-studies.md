@@ -2,8 +2,10 @@
 _schema: default
 id: 162963
 date: 2025-01-26
-title: How does random error differ from measurement error in epidemiologic studies?
-article_title: How does random error differ from measurement error in epidemiologic studies?
+title: >-
+    How does random error differ from measurement error in epidemiologic studies?
+article_title: >-
+    How does random error differ from measurement error in epidemiologic studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-random-error-differ-from-measurement-error-in-epidemiologic-
 url: /learn/health-studies/questions/how-does-random-error-differ-from-measurement-error-in-epidemiologic-studies
 score: -1.0
 related_article1:
-    id: 162976
-    title: How is a null hypothesis specified and tested in hypothesis testing?
+    id: 163015
+    title: >-
+        How do income and education function as social determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-null-hypothesis-specified-and-tested-in-hypothesis-testing
+    url: /learn/health-studies/questions/how-do-income-and-education-function-as-social-determinants-of-health
 related_article2:
-    id: 163022
-    title: What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
+    id: 163014
+    title: >-
+        What role do political and economic factors play in environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
+    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 related_article3:
-    id: 162969
-    title: How do political and economic factors serve as environmental and societal determinants of health?
+    id: 163011
+    title: >-
+        What is the definition of epidemiology and how does it apply to public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-definition-of-epidemiology-and-how-does-it-apply-to-public-health
+related_article4:
+    id: 162958
+    title: >-
+        How do political and economic factors serve as environmental and societal determinants of health?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
-related_article4:
-    id: 162966
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
 related_article5:
-    id: 162964
-    title: What is the significance of the null hypothesis in hypothesis testing?
+    id: 162960
+    title: >-
+        How can the validity and causality of associations be evaluated in epidemiologic investigations?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
+    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
 ---
 
 &nbsp;

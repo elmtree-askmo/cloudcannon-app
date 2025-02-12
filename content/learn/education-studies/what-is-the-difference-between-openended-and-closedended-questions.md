@@ -2,8 +2,10 @@
 _schema: default
 id: 164879
 date: 2025-01-28
-title: What is the difference between open-ended and closed-ended questions?
-article_title: What is the difference between open-ended and closed-ended questions?
+title: >-
+    What is the difference between open-ended and closed-ended questions?
+article_title: >-
+    What is the difference between open-ended and closed-ended questions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-openended-and-closedended-questions.md
 url: /learn/education-studies/questions/what-is-the-difference-between-openended-and-closedended-questions
 score: -1.0
 related_article1:
+    id: 164871
+    title: >-
+        What is the primary purpose of assessment in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-assessment-in-education
+related_article2:
+    id: 164876
+    title: >-
+        What are the essential components of an effective presentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-essential-components-of-an-effective-presentation
+related_article3:
+    id: 164883
+    title: >-
+        How can consistency be maintained in grading systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
+related_article4:
     id: 164872
-    title: How can assessment criteria be aligned with learning objectives?
+    title: >-
+        How can assessment criteria be aligned with learning objectives?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-assessment-criteria-be-aligned-with-learning-objectives
-related_article2:
-    id: 164881
-    title: What strategies can be used to handle challenging questions during a Q&A session?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
-related_article3:
-    id: 164877
-    title: How can practice and rehearsal improve presentation skills?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-practice-and-rehearsal-improve-presentation-skills
-related_article4:
-    id: 164878
-    title: What criteria are used to evaluate presentation skills?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-are-used-to-evaluate-presentation-skills
 related_article5:
-    id: 164880
-    title: How can clarity and precision enhance questioning techniques?
+    id: 164883
+    title: >-
+        How can consistency be maintained in grading systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-clarity-and-precision-enhance-questioning-techniques
+    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
 ---
 
 &nbsp;

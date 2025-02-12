@@ -2,8 +2,10 @@
 _schema: default
 id: 170643
 date: 2025-02-06
-title: What are the key differences between qualitative and quantitative research methods?
-article_title: What are the key differences between qualitative and quantitative research methods?
+title: >-
+    What are the key differences between qualitative and quantitative research methods?
+article_title: >-
+    What are the key differences between qualitative and quantitative research methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-qualitative-and-quantitative-res
 url: /learn/education-studies/questions/what-are-the-key-differences-between-qualitative-and-quantitative-research-methods
 score: -1.0
 related_article1:
-    id: 170640
-    title: How does civic engagement contribute to personal growth and social awareness?
+    id: 170636
+    title: >-
+        Why is prioritizing tasks crucial for effective time management?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-civic-engagement-contribute-to-personal-growth-and-social-awareness
+    url: /learn/education-studies/questions/why-is-prioritizing-tasks-crucial-for-effective-time-management
 related_article2:
-    id: 170648
-    title: What is the impact of emotional regulation on academic performance and stress management?
+    id: 170645
+    title: >-
+        What strategies can improve academic performance through goal setting and self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-impact-of-emotional-regulation-on-academic-performance-and-stress-management
+    url: /learn/education-studies/questions/what-strategies-can-improve-academic-performance-through-goal-setting-and-selfassessment
 related_article3:
+    id: 170637
+    title: >-
+        What is the two-minute rule and how does it aid in time management?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-twominute-rule-and-how-does-it-aid-in-time-management
+related_article4:
     id: 170635
-    title: How can breaking tasks into smaller steps help manage procrastination?
+    title: >-
+        How can breaking tasks into smaller steps help manage procrastination?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-breaking-tasks-into-smaller-steps-help-manage-procrastination
-related_article4:
-    id: 170650
-    title: How can personalized instruction adapt to different learning styles?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-personalized-instruction-adapt-to-different-learning-styles
 related_article5:
-    id: 170658
-    title: How can active learning techniques contribute to developing effective study habits?
+    id: 170640
+    title: >-
+        How does civic engagement contribute to personal growth and social awareness?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-active-learning-techniques-contribute-to-developing-effective-study-habits
+    url: /learn/education-studies/questions/how-does-civic-engagement-contribute-to-personal-growth-and-social-awareness
 ---
 
 &nbsp;

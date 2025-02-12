@@ -2,8 +2,10 @@
 _schema: default
 id: 162720
 date: 2025-01-25
-title: What are the primary techniques used in data mining, and how do they apply to fraud detection?
-article_title: What are the primary techniques used in data mining, and how do they apply to fraud detection?
+title: >-
+    What are the primary techniques used in data mining, and how do they apply to fraud detection?
+article_title: >-
+    What are the primary techniques used in data mining, and how do they apply to fraud detection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-techniques-used-in-data-mining-and-how-do-they-a
 url: /learn/others/questions/what-are-the-primary-techniques-used-in-data-mining-and-how-do-they-apply-to-fraud-detection
 score: -1.0
 related_article1:
-    id: 162771
-    title: How do TensorFlow, Scikit-learn, and PyTorch support machine learning applications like image recognition?
+    id: 162358
+    title: >-
+        What ethical considerations and challenges are associated with artificial intelligence?
     subject: Others
-    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-support-machine-learning-applications-like-image-recognition
+    url: /learn/others/questions/what-ethical-considerations-and-challenges-are-associated-with-artificial-intelligence
 related_article2:
-    id: 162731
-    title: How do Scrum and Kanban differ as Agile frameworks?
+    id: 162371
+    title: >-
+        What are the common cybersecurity threats, and what measures can be taken to protect against them?
     subject: Others
-    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-frameworks
+    url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-what-measures-can-be-taken-to-protect-against-them
 related_article3:
-    id: 162836
-    title: What are the challenges of overfitting and model validation in predictive modeling?
+    id: 162353
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 related_article4:
-    id: 162374
-    title: What principles of user experience design ensure usability and accessibility?
+    id: 162353
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/what-principles-of-user-experience-design-ensure-usability-and-accessibility
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 related_article5:
-    id: 162776
-    title: What is the role of hypothesis testing in inferential statistics?
+    id: 162648
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-hypothesis-testing-in-inferential-statistics
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 ---
 
 &nbsp;

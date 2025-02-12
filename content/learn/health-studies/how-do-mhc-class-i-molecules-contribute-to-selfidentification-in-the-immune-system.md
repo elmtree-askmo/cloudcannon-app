@@ -2,8 +2,10 @@
 _schema: default
 id: 165870
 date: 2025-01-29
-title: How do MHC Class I molecules contribute to self-identification in the immune system?
-article_title: How do MHC Class I molecules contribute to self-identification in the immune system?
+title: >-
+    How do MHC Class I molecules contribute to self-identification in the immune system?
+article_title: >-
+    How do MHC Class I molecules contribute to self-identification in the immune system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-
 url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
 score: -1.0
 related_article1:
-    id: 165874
-    title: How does concomitant immunity provide protection against re-infection?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
-related_article2:
-    id: 165878
-    title: How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
-related_article3:
     id: 165857
-    title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
+    title: >-
+        What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
+related_article2:
+    id: 165874
+    title: >-
+        How does concomitant immunity provide protection against re-infection?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
+related_article3:
+    id: 165869
+    title: >-
+        What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
 related_article4:
-    id: 165869
-    title: What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
+    id: 165872
+    title: >-
+        How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
+    url: /learn/health-studies/questions/how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cellular-immune-response
 related_article5:
-    id: 165869
-    title: What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
+    id: 165861
+    title: >-
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
+    url: /learn/health-studies/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 ---
 
 &nbsp;

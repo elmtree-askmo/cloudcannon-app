@@ -2,8 +2,10 @@
 _schema: default
 id: 161025
 date: 2025-01-24
-title: How do Turing machines contribute to the theoretical foundations of computability?
-article_title: How do Turing machines contribute to the theoretical foundations of computability?
+title: >-
+    How do Turing machines contribute to the theoretical foundations of computability?
+article_title: >-
+    How do Turing machines contribute to the theoretical foundations of computability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-turing-machines-contribute-to-the-theoretical-foundations-of-c
 url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
 score: -1.0
 related_article1:
-    id: 160872
-    title: Compare linear search with depth-first search in terms of their approach and use cases.
-    subject: Computer Science
-    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
-related_article2:
-    id: 161028
-    title: How do indices convey information in data structures?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-indices-convey-information-in-data-structures
-related_article3:
-    id: 160859
-    title: What is the significance of understanding the origin of problems in computational problem solving?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
-related_article4:
-    id: 160780
-    title: Explain the concept of lists and how they are implemented as arrays.
+    id: 160865
+    title: >-
+        Explain the concept of lists and how they are implemented as arrays.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
-related_article5:
-    id: 160698
-    title: What is the role of abstraction in computing?
+related_article2:
+    id: 161031
+    title: >-
+        What data is required for generating circular calendars?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-abstraction-in-computing
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
+related_article3:
+    id: 160789
+    title: >-
+        How do Turing machines contribute to the theoretical foundations of computability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
+related_article4:
+    id: 160866
+    title: >-
+        What are associative arrays and how do they utilize non-numeric indices?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
+related_article5:
+    id: 160691
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 ---
 
 &nbsp;

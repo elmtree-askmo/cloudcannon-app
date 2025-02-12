@@ -2,8 +2,10 @@
 _schema: default
 id: 167965
 date: 2025-02-02
-title: What is the relationship between private speech and problem solving?
-article_title: What is the relationship between private speech and problem solving?
+title: >-
+    What is the relationship between private speech and problem solving?
+article_title: >-
+    What is the relationship between private speech and problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,20 +24,35 @@ file_name: what-is-the-relationship-between-private-speech-and-problem-solving.m
 url: /learn/education-studies/questions/what-is-the-relationship-between-private-speech-and-problem-solving
 score: -1.0
 related_article1:
-    id: 167964
-    title: How does private speech contribute to cognitive development?
+    id: 167966
+    title: >-
+        Describe the concept of the Zone of Proximal Development and its significance in learning.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-private-speech-contribute-to-cognitive-development
+    url: /learn/education-studies/questions/describe-the-concept-of-the-zone-of-proximal-development-and-its-significance-in-learning
 related_article2:
     id: 167966
-    title: Describe the concept of the Zone of Proximal Development and its significance in learning.
+    title: >-
+        Describe the concept of the Zone of Proximal Development and its significance in learning.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-concept-of-the-zone-of-proximal-development-and-its-significance-in-learning
 related_article3:
-    id: 167964
-    title: How does private speech contribute to cognitive development?
+    id: 167966
+    title: >-
+        Describe the concept of the Zone of Proximal Development and its significance in learning.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-private-speech-contribute-to-cognitive-development
+    url: /learn/education-studies/questions/describe-the-concept-of-the-zone-of-proximal-development-and-its-significance-in-learning
+related_article4:
+    id: 167969
+    title: >-
+        In what ways does symbolic play enhance social and cognitive skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-does-symbolic-play-enhance-social-and-cognitive-skills
+related_article5:
+    id: 167963
+    title: >-
+        Explain the transition from the interpersonal to the intrapersonal level of development.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-transition-from-the-interpersonal-to-the-intrapersonal-level-of-development
 ---
 
 &nbsp;

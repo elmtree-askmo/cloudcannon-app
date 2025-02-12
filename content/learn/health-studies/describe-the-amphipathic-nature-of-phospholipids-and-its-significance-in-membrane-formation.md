@@ -2,8 +2,10 @@
 _schema: default
 id: 167217
 date: 2025-01-31
-title: Describe the amphipathic nature of phospholipids and its significance in membrane formation.
-article_title: Describe the amphipathic nature of phospholipids and its significance in membrane formation.
+title: >-
+    Describe the amphipathic nature of phospholipids and its significance in membrane formation.
+article_title: >-
+    Describe the amphipathic nature of phospholipids and its significance in membrane formation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-amphipathic-nature-of-phospholipids-and-its-significance
 url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
 score: -1.0
 related_article1:
-    id: 167222
-    title: How do the physical properties of saturated fatty acids differ from those of unsaturated fatty acids?
+    id: 167231
+    title: >-
+        How does the unique shape of an enzyme's active site contribute to its catalytic efficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-physical-properties-of-saturated-fatty-acids-differ-from-those-of-unsaturated-fatty-acids
+    url: /learn/health-studies/questions/how-does-the-unique-shape-of-an-enzymes-active-site-contribute-to-its-catalytic-efficiency
 related_article2:
-    id: 167222
-    title: How do the physical properties of saturated fatty acids differ from those of unsaturated fatty acids?
+    id: 167227
+    title: >-
+        Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-physical-properties-of-saturated-fatty-acids-differ-from-those-of-unsaturated-fatty-acids
+    url: /learn/health-studies/questions/compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
 related_article3:
-    id: 167221
-    title: What is the difference between saturated and unsaturated fatty acids in terms of chemical structure?
+    id: 167220
+    title: >-
+        How do steroids function as signaling molecules in the body?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-chemical-structure
+    url: /learn/health-studies/questions/how-do-steroids-function-as-signaling-molecules-in-the-body
 related_article4:
-    id: 167230
-    title: What role do beta glycosidic linkages play in the structure of cellulose?
+    id: 167228
+    title: >-
+        What are the major classes of biological macromolecules and their elemental composition?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structure-of-cellulose
-related_article5:
-    id: 167216
-    title: How do triglycerides function in energy storage?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-triglycerides-function-in-energy-storage
+    url: /learn/health-studies/questions/what-are-the-major-classes-of-biological-macromolecules-and-their-elemental-composition
 ---
 
 &nbsp;

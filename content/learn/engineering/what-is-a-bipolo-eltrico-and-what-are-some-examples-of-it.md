@@ -2,8 +2,10 @@
 _schema: default
 id: 169825
 date: 2025-02-05
-title: What is a bipolo elétrico and what are some examples of it?
-article_title: What is a bipolo elétrico and what are some examples of it?
+title: >-
+    What is a bipolo elétrico and what are some examples of it?
+article_title: >-
+    What is a bipolo elétrico and what are some examples of it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it.md
 url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
 score: -1.0
 related_article1:
+    id: 169826
+    title: >-
+        How can a bipolo elétrico be compared to a plumbing system?
+    subject: Engineering
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+related_article2:
+    id: 169828
+    title: >-
+        What happens to the flow of current in a circuito elétrico when there is a broken wire?
+    subject: Engineering
+    url: /learn/engineering/questions/what-happens-to-the-flow-of-current-in-a-circuito-eltrico-when-there-is-a-broken-wire
+related_article3:
+    id: 169830
+    title: >-
+        How does a malha differ from a laço in terms of internal paths?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+related_article4:
+    id: 169837
+    title: >-
+        State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article5:
     id: 169838
-    title: What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
+    title: >-
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
     subject: Engineering
     url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
-related_article2:
-    id: 169826
-    title: How can a bipolo elétrico be compared to a plumbing system?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
-related_article3:
-    id: 169827
-    title: What constitutes a circuito elétrico and how does it function?
-    subject: Engineering
-    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
-related_article4:
-    id: 169831
-    title: What is tensão elétrica and how is it measured?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
-related_article5:
-    id: 169826
-    title: How can a bipolo elétrico be compared to a plumbing system?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170424
 date: 2025-02-06
-title: What are carbon sinks, and how do they function within the carbon cycle?
-article_title: What are carbon sinks, and how do they function within the carbon cycle?
+title: >-
+    What are carbon sinks, and how do they function within the carbon cycle?
+article_title: >-
+    What are carbon sinks, and how do they function within the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycl
 url: /learn/biology/questions/what-are-carbon-sinks-and-how-do-they-function-within-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170423
-    title: Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    id: 170436
+    title: >-
+        Describe the role of carbohydrates in the carbon cycle, particularly in photosynthesis.
     subject: Biology
-    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+    url: /learn/biology/questions/describe-the-role-of-carbohydrates-in-the-carbon-cycle-particularly-in-photosynthesis
 related_article2:
-    id: 170423
-    title: Identify the major carbon reservoirs and explain their role in the carbon cycle.
+    id: 170430
+    title: >-
+        What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
     subject: Biology
-    url: /learn/biology/questions/identify-the-major-carbon-reservoirs-and-explain-their-role-in-the-carbon-cycle
+    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
 related_article3:
-    id: 170437
-    title: Differentiate between simple sugars and complex carbohydrates in terms of their structure and function.
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-simple-sugars-and-complex-carbohydrates-in-terms-of-their-structure-and-function
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
 related_article4:
-    id: 170425
-    title: Explain the process of photosynthesis and its significance in carbon storage within living organisms.
+    id: 170429
+    title: >-
+        Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-photosynthesis-and-its-significance-in-carbon-storage-within-living-organisms
+    url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
 related_article5:
-    id: 170432
-    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    id: 170431
+    title: >-
+        How does carbon exchange between the atmosphere and other reservoirs affect the climate?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+    url: /learn/biology/questions/how-does-carbon-exchange-between-the-atmosphere-and-other-reservoirs-affect-the-climate
 ---
 
 &nbsp;

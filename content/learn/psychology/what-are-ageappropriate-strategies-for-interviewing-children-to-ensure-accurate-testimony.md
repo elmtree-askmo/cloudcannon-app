@@ -2,8 +2,10 @@
 _schema: default
 id: 168028
 date: 2025-02-02
-title: What are age-appropriate strategies for interviewing children to ensure accurate testimony?
-article_title: What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+title: >-
+    What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+article_title: >-
+    What are age-appropriate strategies for interviewing children to ensure accurate testimony?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-ageappropriate-strategies-for-interviewing-children-to-ensur
 url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
 score: -1.0
 related_article1:
-    id: 168031
-    title: What have studies revealed about the reliability of children's eyewitness testimony?
+    id: 168018
+    title: >-
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article2:
-    id: 168025
-    title: What are the age-related changes in cognitive development that affect memory?
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 related_article3:
+    id: 168017
+    title: >-
+        What factors influence memory accuracy in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
+related_article4:
+    id: 168016
+    title: >-
+        What are the age-related variations in susceptibility to the misinformation effect?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
+related_article5:
     id: 168027
-    title: How can misinformation be avoided during interviews with children?
+    title: >-
+        How can misinformation be avoided during interviews with children?
     subject: Psychology
     url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
-related_article4:
-    id: 168014
-    title: What is the reverse developmental trend in memory accuracy?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
-related_article5:
-    id: 168015
-    title: How does the misinformation effect impact memory recall?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
 ---
 
 &nbsp;

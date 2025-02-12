@@ -2,8 +2,10 @@
 _schema: default
 id: 160368
 date: 2025-01-24
-title: What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
-article_title: What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+title: >-
+    What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+article_title: >-
+    What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-moder
 url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 score: 9.0
 related_article1:
-    id: 160370
-    title: What are the distinctive pottery styles associated with the Beaker People and Corded Ware People?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-distinctive-pottery-styles-associated-with-the-beaker-people-and-corded-ware-people
-related_article2:
-    id: 160388
-    title: What were the key trading centers in Celtic trade networks?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
-related_article3:
-    id: 160183
-    title: How have the Celts contributed to European heritage and modern perceptions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
-related_article4:
-    id: 160378
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
-related_article5:
-    id: 160386
-    title: What were the primary military tactics and weaponry used by the Celts?
+    id: 160254
+    title: >-
+        What were the primary military tactics and weaponry used by the Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
+related_article2:
+    id: 160376
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
+related_article3:
+    id: 160383
+    title: >-
+        What were the typical clothing and dining habits in Celtic daily life?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
+related_article4:
+    id: 159890
+    title: >-
+        How did Celtic architectural styles reflect their settlement patterns?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+related_article5:
+    id: 159901
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 ---
 
 &nbsp;

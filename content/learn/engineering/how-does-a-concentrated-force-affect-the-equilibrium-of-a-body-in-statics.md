@@ -2,8 +2,10 @@
 _schema: default
 id: 166640
 date: 2025-01-31
-title: How does a concentrated force affect the equilibrium of a body in statics?
-article_title: How does a concentrated force affect the equilibrium of a body in statics?
+title: >-
+    How does a concentrated force affect the equilibrium of a body in statics?
+article_title: >-
+    How does a concentrated force affect the equilibrium of a body in statics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-sta
 url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
 score: -1.0
 related_article1:
-    id: 166643
-    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    id: 166638
+    title: >-
+        What are the main types of fluids and what forces act on them?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
 related_article2:
-    id: 166637
-    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
+    id: 166647
+    title: >-
+        How are unit vectors used in the Cartesian coordinate system to resolve vectors?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
+    url: /learn/engineering/questions/how-are-unit-vectors-used-in-the-cartesian-coordinate-system-to-resolve-vectors
 related_article3:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
+related_article4:
+    id: 166639
+    title: >-
+        What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
+related_article5:
     id: 166641
-    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    title: >-
+        Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
     subject: Engineering
     url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
-related_article4:
-    id: 166637
-    title: How do rigid bodies differ from deformable bodies in terms of characteristics and applications?
-    subject: Engineering
-    url: /learn/engineering/questions/how-do-rigid-bodies-differ-from-deformable-bodies-in-terms-of-characteristics-and-applications
-related_article5:
-    id: 166642
-    title: Why are length, mass, and time considered fundamental quantities in the context of units of measurement?
-    subject: Engineering
-    url: /learn/engineering/questions/why-are-length-mass-and-time-considered-fundamental-quantities-in-the-context-of-units-of-measurement
 ---
 
 &nbsp;

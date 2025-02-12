@@ -2,8 +2,10 @@
 _schema: default
 id: 163633
 date: 2025-01-27
-title: What are the core symptoms of conduct disorder related to aggression and intimidation?
-article_title: What are the core symptoms of conduct disorder related to aggression and intimidation?
+title: >-
+    What are the core symptoms of conduct disorder related to aggression and intimidation?
+article_title: >-
+    What are the core symptoms of conduct disorder related to aggression and intimidation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-
 url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
 score: -1.0
 related_article1:
-    id: 163641
-    title: What role does the absence of empathy and guilt play in psychopathic behavior?
+    id: 163630
+    title: >-
+        How do neurodevelopmental disorders influence the juvenile antisocial brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
+    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
 related_article2:
-    id: 163630
-    title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
+    id: 163639
+    title: >-
+        What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
+    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
 related_article3:
-    id: 163630
-    title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
+    id: 163629
+    title: >-
+        What are the key findings from brain imaging studies on clinically antisocial youth?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
+    url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
 related_article4:
-    id: 163638
-    title: How do cultural and social criteria influence the definition of antisociality?
+    id: 163631
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
+    url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 related_article5:
     id: 163631
-    title: What are the cultural and social criteria used to define abnormal behavior?
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 ---

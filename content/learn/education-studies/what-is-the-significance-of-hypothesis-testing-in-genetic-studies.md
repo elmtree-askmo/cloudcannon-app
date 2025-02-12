@@ -2,8 +2,10 @@
 _schema: default
 id: 167798
 date: 2025-02-01
-title: What is the significance of hypothesis testing in genetic studies?
-article_title: What is the significance of hypothesis testing in genetic studies?
+title: >-
+    What is the significance of hypothesis testing in genetic studies?
+article_title: >-
+    What is the significance of hypothesis testing in genetic studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-hypothesis-testing-in-genetic-studies.md
 url: /learn/education-studies/questions/what-is-the-significance-of-hypothesis-testing-in-genetic-studies
 score: -1.0
 related_article1:
-    id: 167803
-    title: What are point mutations and how do they differ from chromosomal alterations?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article2:
-    id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    id: 167785
+    title: >-
+        How are Punnett squares used to predict the outcomes of dihybrid crosses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
+    url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
 related_article3:
-    id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    id: 167790
+    title: >-
+        How is co-dominance exemplified in human blood types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
+    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
 related_article4:
-    id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
-related_article5:
     id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    title: >-
+        What is incomplete penetrance and how does it affect genetic predictions at the population level?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
+related_article5:
+    id: 167800
+    title: >-
+        How does the environment influence the phenotype of individuals with phenylketonuria?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
 ---
 
 &nbsp;

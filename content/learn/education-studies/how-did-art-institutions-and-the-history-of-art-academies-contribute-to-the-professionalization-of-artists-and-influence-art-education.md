@@ -2,8 +2,10 @@
 _schema: default
 id: 159761
 date: 2025-01-23
-title: How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
-article_title: How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
+title: >-
+    How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
+article_title: >-
+    How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-art-institutions-and-the-history-of-art-academies-contribute-
 url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
 score: -1.0
 related_article1:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+    id: 159759
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
+related_article2:
+    id: 159787
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
-related_article2:
-    id: 159768
-    title: Discuss the role of artists in society and how social movements influenced art during the evolution of artistic professionalism.
-    subject: Education Studies
-    url: /learn/education-studies/questions/discuss-the-role-of-artists-in-society-and-how-social-movements-influenced-art-during-the-evolution-of-artistic-professionalism
 related_article3:
-    id: 159765
-    title: What are the origins and key characteristics of Impressionism, and how did it impact art criticism?
+    id: 159759
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-origins-and-key-characteristics-of-impressionism-and-how-did-it-impact-art-criticism
+    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
 related_article4:
-    id: 159760
-    title: Define avant-garde movements and discuss their key characteristics and impact on the art world.
+    id: 159759
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-characteristics-and-impact-on-the-art-world
+    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
 related_article5:
-    id: 159789
-    title: Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
+    id: 159786
+    title: >-
+        What were the origins and establishment of the Paris Salon, and how did the monarchy influence its development?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-figures-and-works-as-well-as-their-impact-on-the-art-world
+    url: /learn/education-studies/questions/what-were-the-origins-and-establishment-of-the-paris-salon-and-how-did-the-monarchy-influence-its-development
 ---
 
 &nbsp;

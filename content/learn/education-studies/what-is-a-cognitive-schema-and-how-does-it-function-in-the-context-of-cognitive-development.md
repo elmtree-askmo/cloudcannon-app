@@ -2,8 +2,10 @@
 _schema: default
 id: 167988
 date: 2025-02-02
-title: What is a cognitive schema, and how does it function in the context of cognitive development?
-article_title: What is a cognitive schema, and how does it function in the context of cognitive development?
+title: >-
+    What is a cognitive schema, and how does it function in the context of cognitive development?
+article_title: >-
+    What is a cognitive schema, and how does it function in the context of cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-cognitive-schema-and-how-does-it-function-in-the-context-of
 url: /learn/education-studies/questions/what-is-a-cognitive-schema-and-how-does-it-function-in-the-context-of-cognitive-development
 score: -1.0
 related_article1:
-    id: 167987
-    title: Explain the processes of assimilation and accommodation in cognitive development.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
-related_article2:
-    id: 167990
-    title: Describe the discontinuous nature of Piaget's universal stages of development.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-discontinuous-nature-of-piagets-universal-stages-of-development
-related_article3:
-    id: 167990
-    title: Describe the discontinuous nature of Piaget's universal stages of development.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-discontinuous-nature-of-piagets-universal-stages-of-development
-related_article4:
     id: 167991
-    title: How do culture and environment influence the onset and progression of Piaget's stages of development?
+    title: >-
+        How do culture and environment influence the onset and progression of Piaget's stages of development?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-culture-and-environment-influence-the-onset-and-progression-of-piagets-stages-of-development
-related_article5:
+related_article2:
+    id: 167993
+    title: >-
+        How do social interactions, particularly with peers, impact cognitive development according to critiques of Piaget's theory?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-social-interactions-particularly-with-peers-impact-cognitive-development-according-to-critiques-of-piagets-theory
+related_article3:
+    id: 167992
+    title: >-
+        What are some critiques of Piaget's theory regarding the underestimation of infants' and young children's abilities?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-critiques-of-piagets-theory-regarding-the-underestimation-of-infants-and-young-childrens-abilities
+related_article4:
     id: 167986
-    title: What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
+    title: >-
+        What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-innate-drive-for-equilibrium-in-cognitive-development-and-how-does-it-motivate-adaptation
+related_article5:
+    id: 167993
+    title: >-
+        How do social interactions, particularly with peers, impact cognitive development according to critiques of Piaget's theory?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-social-interactions-particularly-with-peers-impact-cognitive-development-according-to-critiques-of-piagets-theory
 ---
 
 &nbsp;

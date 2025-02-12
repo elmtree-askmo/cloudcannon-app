@@ -2,8 +2,10 @@
 _schema: default
 id: 163310
 date: 2025-01-26
-title: What is the difference between crude rates and specific rates in epidemiology?
-article_title: What is the difference between crude rates and specific rates in epidemiology?
+title: >-
+    What is the difference between crude rates and specific rates in epidemiology?
+article_title: >-
+    What is the difference between crude rates and specific rates in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-crude-rates-and-specific-rates-in-epid
 url: /learn/health-studies/questions/what-is-the-difference-between-crude-rates-and-specific-rates-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163151
-    title: What are the primary purposes of public health surveillance?
+    id: 163322
+    title: >-
+        How can ecological fallacy affect the interpretation of ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
 related_article2:
-    id: 162988
-    title: What is the role of public health surveillance in responding to outbreaks?
+    id: 163317
+    title: >-
+        How do epidemiologic questions contribute to public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
 related_article3:
-    id: 163206
-    title: What does a Pearson correlation coefficient indicate in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
-related_article4:
     id: 162986
-    title: What role do epidemiologic questions play in generating public health hypotheses?
+    title: >-
+        What role do epidemiologic questions play in generating public health hypotheses?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
-related_article5:
-    id: 163315
-    title: What is the process of direct standardization in calculating age-adjusted rates?
+related_article4:
+    id: 163321
+    title: >-
+        What are the strengths and limitations of ecological studies in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+related_article5:
+    id: 162982
+    title: >-
+        What is the difference between a case fatality rate and a mortality rate?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-rate
 ---
 
 &nbsp;

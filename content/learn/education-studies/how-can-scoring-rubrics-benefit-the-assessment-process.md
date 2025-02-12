@@ -2,8 +2,10 @@
 _schema: default
 id: 164874
 date: 2025-01-28
-title: How can scoring rubrics benefit the assessment process?
-article_title: How can scoring rubrics benefit the assessment process?
+title: >-
+    How can scoring rubrics benefit the assessment process?
+article_title: >-
+    How can scoring rubrics benefit the assessment process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-scoring-rubrics-benefit-the-assessment-process.md
 url: /learn/education-studies/questions/how-can-scoring-rubrics-benefit-the-assessment-process
 score: -1.0
 related_article1:
-    id: 164880
-    title: How can clarity and precision enhance questioning techniques?
+    id: 164878
+    title: >-
+        What criteria are used to evaluate presentation skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-clarity-and-precision-enhance-questioning-techniques
+    url: /learn/education-studies/questions/what-criteria-are-used-to-evaluate-presentation-skills
 related_article2:
-    id: 164883
-    title: How can consistency be maintained in grading systems?
+    id: 164881
+    title: >-
+        What strategies can be used to handle challenging questions during a Q&A session?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
 related_article3:
-    id: 164873
-    title: What are the key components of objective scoring in test scoring?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-objective-scoring-in-test-scoring
-related_article4:
-    id: 164873
-    title: What are the key components of objective scoring in test scoring?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-objective-scoring-in-test-scoring
-related_article5:
     id: 164882
-    title: What are the differences between norm-referenced and criterion-referenced grading systems?
+    title: >-
+        What are the differences between norm-referenced and criterion-referenced grading systems?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-differences-between-normreferenced-and-criterionreferenced-grading-systems
+related_article4:
+    id: 164881
+    title: >-
+        What strategies can be used to handle challenging questions during a Q&A session?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
+related_article5:
+    id: 164883
+    title: >-
+        How can consistency be maintained in grading systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
 ---
 
 &nbsp;

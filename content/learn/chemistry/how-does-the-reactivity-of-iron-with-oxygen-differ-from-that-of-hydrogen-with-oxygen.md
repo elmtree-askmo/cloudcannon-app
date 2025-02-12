@@ -2,8 +2,10 @@
 _schema: default
 id: 161983
 date: 2025-01-24
-title: How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
-article_title: How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
+title: >-
+    How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
+article_title: >-
+    How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydro
 url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
 score: -1.0
 related_article1:
-    id: 161944
-    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    id: 162016
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 related_article2:
-    id: 162048
-    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    id: 162034
+    title: >-
+        Describe the process of shaving wood and its classification as a physical change.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/describe-the-process-of-shaving-wood-and-its-classification-as-a-physical-change
 related_article3:
-    id: 161944
-    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    id: 161751
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 related_article4:
-    id: 161994
-    title: How does the reactivity of oxygen influence its chemical properties?
+    id: 161984
+    title: >-
+        What are the characteristics of liquids that differentiate them from solids and gases?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-oxygen-influence-its-chemical-properties
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases
 related_article5:
-    id: 162018
-    title: How does the reactivity of hydrogen differ from that of oxygen?
+    id: 162067
+    title: >-
+        What are the characteristics of a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-differ-from-that-of-oxygen
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
 ---
 
 &nbsp;

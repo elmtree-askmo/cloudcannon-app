@@ -2,8 +2,10 @@
 _schema: default
 id: 159844
 date: 2025-01-23
-title: How did technological advances influence the depiction of modern life in art?
-article_title: How did technological advances influence the depiction of modern life in art?
+title: >-
+    How did technological advances influence the depiction of modern life in art?
+article_title: >-
+    How did technological advances influence the depiction of modern life in art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-technological-advances-influence-the-depiction-of-modern-life
 url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
 score: 9.0
 related_article1:
-    id: 159843
-    title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+    id: 160201
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
+    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
 related_article2:
+    id: 159847
+    title: >-
+        What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-imperialism-and-how-did-artists-critique-and-reinterpret-the-representation-of-colonized-peoples
+related_article3:
+    id: 160108
+    title: >-
+        In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
+related_article4:
+    id: 159850
+    title: >-
+        How did scientific developments influence environmental themes in Victorian art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
+related_article5:
     id: 159845
-    title: What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
+    title: >-
+        What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-and-artists-of-the-victorian-radicals-and-how-did-they-respond-to-the-social-and-political-context-of-their-time
-related_article3:
-    id: 159851
-    title: In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
-related_article4:
-    id: 160111
-    title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
-related_article5:
-    id: 159852
-    title: What were the distinctive characteristics and developments of American and Eastern European modernities in art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164680
 date: 2025-01-28
-title: What are the effects of emotional disorders on cognition?
-article_title: What are the effects of emotional disorders on cognition?
+title: >-
+    What are the effects of emotional disorders on cognition?
+article_title: >-
+    What are the effects of emotional disorders on cognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-emotional-disorders-on-cognition.md
 url: /learn/psychology/questions/what-are-the-effects-of-emotional-disorders-on-cognition
 score: -1.0
 related_article1:
-    id: 164671
-    title: How do brain networks contribute to overall brain function?
+    id: 164677
+    title: >-
+        How does language processing relate to cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
 related_article2:
-    id: 164689
-    title: How is artificial intelligence applied in cognitive neuroscience research?
+    id: 164675
+    title: >-
+        How does EEG differ from MRI in terms of brain imaging?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
 related_article3:
     id: 164682
-    title: How does the brain adapt following an injury?
+    title: >-
+        How does the brain adapt following an injury?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-brain-adapt-following-an-injury
 related_article4:
-    id: 164674
-    title: What are the main cognitive functions studied in neuroscience?
+    id: 164683
+    title: >-
+        What role do subconscious processes play in influencing behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
 related_article5:
-    id: 164676
-    title: What is the role of PET scans in brain imaging?
+    id: 164677
+    title: >-
+        How does language processing relate to cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
+    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
 ---
 
 &nbsp;

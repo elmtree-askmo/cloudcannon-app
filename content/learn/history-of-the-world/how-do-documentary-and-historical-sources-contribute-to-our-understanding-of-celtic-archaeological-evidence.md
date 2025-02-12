@@ -2,8 +2,10 @@
 _schema: default
 id: 159731
 date: 2025-01-23
-title: How do documentary and historical sources contribute to our understanding of Celtic archaeological evidence?
-article_title: How do documentary and historical sources contribute to our understanding of Celtic archaeological evidence?
+title: >-
+    How do documentary and historical sources contribute to our understanding of Celtic archaeological evidence?
+article_title: >-
+    How do documentary and historical sources contribute to our understanding of Celtic archaeological evidence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-documentary-and-historical-sources-contribute-to-our-understan
 url: /learn/history-of-the-world/questions/how-do-documentary-and-historical-sources-contribute-to-our-understanding-of-celtic-archaeological-evidence
 score: 9.0
 related_article1:
-    id: 159695
-    title: How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
-related_article2:
-    id: 159695
-    title: How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
-related_article3:
-    id: 159732
-    title: What is the significance of the Beaker and Corded Ware cultures in the chronology of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-beaker-and-corded-ware-cultures-in-the-chronology-of-the-celts
-related_article4:
     id: 159729
-    title: How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+    title: >-
+        How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
-related_article5:
-    id: 159695
-    title: How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
+related_article2:
+    id: 159732
+    title: >-
+        What is the significance of the Beaker and Corded Ware cultures in the chronology of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-beaker-and-corded-ware-cultures-in-the-chronology-of-the-celts
+related_article3:
+    id: 159729
+    title: >-
+        How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
+related_article4:
+    id: 159692
+    title: >-
+        What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-their-militaristic-and-stratified-society
+related_article5:
+    id: 159685
+    title: >-
+        How did Druidic practices influence Celtic religions and beliefs?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-druidic-practices-influence-celtic-religions-and-beliefs
 ---
 
 &nbsp;

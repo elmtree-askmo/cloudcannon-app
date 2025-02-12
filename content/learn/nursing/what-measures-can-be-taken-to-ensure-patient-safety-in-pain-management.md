@@ -2,8 +2,10 @@
 _schema: default
 id: 169799
 date: 2025-02-05
-title: What measures can be taken to ensure patient safety in pain management?
-article_title: What measures can be taken to ensure patient safety in pain management?
+title: >-
+    What measures can be taken to ensure patient safety in pain management?
+article_title: >-
+    What measures can be taken to ensure patient safety in pain management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-measures-can-be-taken-to-ensure-patient-safety-in-pain-managemen
 url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
 score: -1.0
 related_article1:
-    id: 169791
-    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    id: 169787
+    title: >-
+        What are the key characteristics that differentiate acute pain from chronic pain?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
 related_article2:
-    id: 169787
-    title: What are the key characteristics that differentiate acute pain from chronic pain?
+    id: 169788
+    title: >-
+        List some common causes of neuropathic pain and describe its management strategies.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
+    url: /learn/nursing/questions/list-some-common-causes-of-neuropathic-pain-and-describe-its-management-strategies
 related_article3:
-    id: 169789
-    title: Explain how the Numerical Rating Scale is used in pain assessment.
+    id: 169800
+    title: >-
+        How can healthcare providers identify and assess drug-seeking behavior in patients?
     subject: Nursing
-    url: /learn/nursing/questions/explain-how-the-numerical-rating-scale-is-used-in-pain-assessment
+    url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
 related_article4:
-    id: 169787
-    title: What are the key characteristics that differentiate acute pain from chronic pain?
+    id: 169797
+    title: >-
+        What is the holistic approach to pain management, and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-characteristics-that-differentiate-acute-pain-from-chronic-pain
+    url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
 related_article5:
-    id: 169801
-    title: What management strategies can be employed to address drug-seeking behavior?
+    id: 169793
+    title: >-
+        What are the potential side effects of opioid use in pain management?
     subject: Nursing
-    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
 ---
 
 &nbsp;

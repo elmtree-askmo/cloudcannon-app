@@ -2,8 +2,10 @@
 _schema: default
 id: 168471
 date: 2025-02-03
-title: Why might values change over time?
-article_title: Why might values change over time?
+title: >-
+    Why might values change over time?
+article_title: >-
+    Why might values change over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-might-values-change-over-time.md
 url: /learn/education-studies/questions/why-might-values-change-over-time
 score: -1.0
 related_article1:
-    id: 168457
-    title: What are subject-specific skills and how do they differ from general skills?
+    id: 168459
+    title: >-
+        Why is it important to reflect on interests and aptitudes during self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-subjectspecific-skills-and-how-do-they-differ-from-general-skills
+    url: /learn/education-studies/questions/why-is-it-important-to-reflect-on-interests-and-aptitudes-during-selfassessment
 related_article2:
     id: 168463
-    title: What are some online resources available for career planning?
+    title: >-
+        What are some online resources available for career planning?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
 related_article3:
+    id: 168468
+    title: >-
+        How can family and friends influence an individual's values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
+related_article4:
     id: 168461
-    title: What traits are commonly suited for specific careers?
+    title: >-
+        What traits are commonly suited for specific careers?
     subject: Education Studies
     url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
-related_article4:
-    id: 168456
-    title: Define skills and explain their importance in career choice.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
 related_article5:
-    id: 168469
-    title: What is the role of media in shaping values?
+    id: 168458
+    title: >-
+        How can the Skills Matcher Tool assist in self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
+    url: /learn/education-studies/questions/how-can-the-skills-matcher-tool-assist-in-selfassessment
 ---
 
 &nbsp;

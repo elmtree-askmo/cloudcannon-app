@@ -2,8 +2,10 @@
 _schema: default
 id: 166184
 date: 2025-01-29
-title: How do classification systems reflect evolutionary relationships among species?
-article_title: How do classification systems reflect evolutionary relationships among species?
+title: >-
+    How do classification systems reflect evolutionary relationships among species?
+article_title: >-
+    How do classification systems reflect evolutionary relationships among species?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-classification-systems-reflect-evolutionary-relationships-amon
 url: /learn/biotechnology/questions/how-do-classification-systems-reflect-evolutionary-relationships-among-species
 score: -1.0
 related_article1:
-    id: 166197
-    title: How do control and experimental groups differ in scientific experimentation?
+    id: 166186
+    title: >-
+        What are the main differences between the domains Bacteria, Archaea, and Eukarya?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+    url: /learn/biotechnology/questions/what-are-the-main-differences-between-the-domains-bacteria-archaea-and-eukarya
 related_article2:
-    id: 166176
-    title: Explain the role of evolution in the growth and reproduction of living organisms.
+    id: 166174
+    title: >-
+        What are the key structural components of living cells that contain DNA?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms
+    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
 related_article3:
-    id: 166196
-    title: What is the importance of observations in the scientific method?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-importance-of-observations-in-the-scientific-method
-related_article4:
     id: 166187
-    title: Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
+    title: >-
+        Describe the characteristics of prokaryotic cells found in Bacteria and Archaea.
     subject: Biotechnology
     url: /learn/biotechnology/questions/describe-the-characteristics-of-prokaryotic-cells-found-in-bacteria-and-archaea
-related_article5:
-    id: 166175
-    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+related_article4:
+    id: 166188
+    title: >-
+        What distinguishes eukaryotic cells from prokaryotic cells in terms of structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+    url: /learn/biotechnology/questions/what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure
+related_article5:
+    id: 166174
+    title: >-
+        What are the key structural components of living cells that contain DNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
 ---
 
 &nbsp;

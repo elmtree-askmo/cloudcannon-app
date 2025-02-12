@@ -2,8 +2,10 @@
 _schema: default
 id: 169660
 date: 2025-02-05
-title: What lessons have been learned from historical discrimination in healthcare?
-article_title: What lessons have been learned from historical discrimination in healthcare?
+title: >-
+    What lessons have been learned from historical discrimination in healthcare?
+article_title: >-
+    What lessons have been learned from historical discrimination in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-lessons-have-been-learned-from-historical-discrimination-in-heal
 url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
 score: -1.0
 related_article1:
-    id: 169643
-    title: What are the different types of discrimination that can occur in healthcare settings?
+    id: 169649
+    title: >-
+        What mental health issues are prevalent among transgender individuals due to discrimination?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
 related_article2:
-    id: 169648
-    title: Why is it important to use correct terminology when discussing gender identity?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
-related_article3:
-    id: 169652
-    title: What societal changes have occurred in the legal and social context of transgender issues?
-    subject: Nursing
-    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
-related_article4:
     id: 169659
-    title: What are some inclusive healthcare practices that create safe environments for patients?
+    title: >-
+        What are some inclusive healthcare practices that create safe environments for patients?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
+related_article3:
+    id: 169642
+    title: >-
+        How can healthcare providers practice inclusivity when caring for transgender patients?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-practice-inclusivity-when-caring-for-transgender-patients
+related_article4:
+    id: 169662
+    title: >-
+        What strategies can be used to provide compassionate care in nursing?
+    subject: Nursing
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
+related_article5:
+    id: 169643
+    title: >-
+        What are the different types of discrimination that can occur in healthcare settings?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
 ---
 
 &nbsp;

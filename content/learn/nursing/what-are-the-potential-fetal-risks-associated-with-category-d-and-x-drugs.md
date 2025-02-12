@@ -2,8 +2,10 @@
 _schema: default
 id: 166482
 date: 2025-01-30
-title: What are the potential fetal risks associated with Category D and X drugs?
-article_title: What are the potential fetal risks associated with Category D and X drugs?
+title: >-
+    What are the potential fetal risks associated with Category D and X drugs?
+article_title: >-
+    What are the potential fetal risks associated with Category D and X drugs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-fetal-risks-associated-with-category-d-and-x-d
 url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
 score: -1.0
 related_article1:
-    id: 166473
-    title: What is the primary purpose of empiric treatment in clinical practice?
+    id: 166488
+    title: >-
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-primary-purpose-of-empiric-treatment-in-clinical-practice
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 related_article2:
-    id: 166477
-    title: What are the key differences between biologic drugs and traditional drugs?
+    id: 166476
+    title: >-
+        How does pharmacogenomics influence the customization of treatment plans?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+    url: /learn/nursing/questions/how-does-pharmacogenomics-influence-the-customization-of-treatment-plans
 related_article3:
-    id: 166487
-    title: What factors can influence an individual's pain threshold?
+    id: 166481
+    title: >-
+        What are Category D and X drugs, and why are they significant in pregnancy?
     subject: Nursing
-    url: /learn/nursing/questions/what-factors-can-influence-an-individuals-pain-threshold
+    url: /learn/nursing/questions/what-are-category-d-and-x-drugs-and-why-are-they-significant-in-pregnancy
 related_article4:
-    id: 166484
-    title: What is the role of nociceptors in pain processing?
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 related_article5:
-    id: 166483
-    title: How do somatic and visceral pain differ in terms of origin and sensation?
+    id: 166480
+    title: >-
+        Why is it important to adjust medication dosing for pediatric and elderly patients?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
+    url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 ---
 
 &nbsp;

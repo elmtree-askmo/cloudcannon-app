@@ -2,8 +2,10 @@
 _schema: default
 id: 169161
 date: 2025-02-04
-title: What is the significance of addressing hard truths and moving toward reconciliation in museums?
-article_title: What is the significance of addressing hard truths and moving toward reconciliation in museums?
+title: >-
+    What is the significance of addressing hard truths and moving toward reconciliation in museums?
+article_title: >-
+    What is the significance of addressing hard truths and moving toward reconciliation in museums?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-addressing-hard-truths-and-moving-toward-
 url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
 score: -1.0
 related_article1:
+    id: 169163
+    title: >-
+        What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
+related_article2:
+    id: 169166
+    title: >-
+        How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+related_article3:
+    id: 169168
+    title: >-
+        How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
+related_article4:
+    id: 169169
+    title: >-
+        What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
+related_article5:
     id: 169167
-    title: What role do public historians play in challenging colonial narratives and decolonizing interpretation?
+    title: >-
+        What role do public historians play in challenging colonial narratives and decolonizing interpretation?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-public-historians-play-in-challenging-colonial-narratives-and-decolonizing-interpretation
-related_article2:
-    id: 169158
-    title: How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
-related_article3:
-    id: 169165
-    title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
-related_article4:
-    id: 169159
-    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
-    subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
-related_article5:
-    id: 169153
-    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
 ---
 
 &nbsp;

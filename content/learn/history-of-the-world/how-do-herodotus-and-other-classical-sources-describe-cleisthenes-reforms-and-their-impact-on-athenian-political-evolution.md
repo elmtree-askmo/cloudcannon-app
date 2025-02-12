@@ -2,8 +2,10 @@
 _schema: default
 id: 163977
 date: 2025-01-28
-title: How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
-article_title: How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
+title: >-
+    How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
+article_title: >-
+    How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-herodotus-and-other-classical-sources-describe-cleisthenes-ref
 url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
 score: 9.0
 related_article1:
+    id: 163971
+    title: >-
+        How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
+related_article2:
     id: 163967
-    title: Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
+    title: >-
+        Explain the concept of timocracy as introduced by Solon and its impact on Athenian society.
     subject: History of the World
     url: /learn/history-of-the-world/questions/explain-the-concept-of-timocracy-as-introduced-by-solon-and-its-impact-on-athenian-society
-related_article2:
-    id: 163962
-    title: How did the synoikism of Attica under Theseus contribute to the centralization of government in Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-synoikism-of-attica-under-theseus-contribute-to-the-centralization-of-government-in-athens
 related_article3:
-    id: 163970
-    title: Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
+    id: 163961
+    title: >-
+        What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
 related_article4:
-    id: 163962
-    title: How did the synoikism of Attica under Theseus contribute to the centralization of government in Athens?
+    id: 163976
+    title: >-
+        What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-synoikism-of-attica-under-theseus-contribute-to-the-centralization-of-government-in-athens
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
 related_article5:
-    id: 163969
-    title: What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    id: 163966
+    title: >-
+        Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
+    url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
 ---
 
 &nbsp;

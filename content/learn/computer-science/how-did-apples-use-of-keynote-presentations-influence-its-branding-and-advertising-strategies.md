@@ -2,8 +2,10 @@
 _schema: default
 id: 160533
 date: 2025-01-24
-title: How did Apple's use of keynote presentations influence its branding and advertising strategies?
-article_title: How did Apple's use of keynote presentations influence its branding and advertising strategies?
+title: >-
+    How did Apple's use of keynote presentations influence its branding and advertising strategies?
+article_title: >-
+    How did Apple's use of keynote presentations influence its branding and advertising strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-apples-use-of-keynote-presentations-influence-its-branding-an
 url: /learn/computer-science/questions/how-did-apples-use-of-keynote-presentations-influence-its-branding-and-advertising-strategies
 score: -1.0
 related_article1:
-    id: 160432
-    title: What role did Apple's keynote presentations play in its marketing strategy?
+    id: 160436
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
+    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
 related_article2:
-    id: 160520
-    title: What were the major updates introduced in Mac OS X 10.1?
+    id: 160425
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-in-mac-os-x-101
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 related_article3:
-    id: 160537
-    title: How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
+    id: 160530
+    title: >-
+        What were the implications of Apple's transition to Intel processors for product performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
+    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance
 related_article4:
-    id: 160432
-    title: What role did Apple's keynote presentations play in its marketing strategy?
+    id: 160536
+    title: >-
+        What were the key developments in operating systems that Apple introduced in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
+    url: /learn/computer-science/questions/what-were-the-key-developments-in-operating-systems-that-apple-introduced-in-the-early-2000s
 related_article5:
-    id: 160603
-    title: What were the major updates introduced with Mac OS X 10.4 Tiger?
+    id: 160597
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 ---
 
 &nbsp;

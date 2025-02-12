@@ -2,8 +2,10 @@
 _schema: default
 id: 169578
 date: 2025-02-05
-title: How does communication impact delegation and accountability?
-article_title: How does communication impact delegation and accountability?
+title: >-
+    How does communication impact delegation and accountability?
+article_title: >-
+    How does communication impact delegation and accountability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-communication-impact-delegation-and-accountability.md
 url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
 score: -1.0
 related_article1:
-    id: 169557
-    title: What is the duty of care, and how does it apply to various healthcare roles?
+    id: 169573
+    title: >-
+        What are the steps involved in identifying and managing risks in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
+    url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 related_article2:
-    id: 169565
-    title: How is competence defined and assessed in healthcare?
+    id: 169559
+    title: >-
+        What is the NMC Code, and how does it apply to registered nurses?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+    url: /learn/nursing/questions/what-is-the-nmc-code-and-how-does-it-apply-to-registered-nurses
 related_article3:
-    id: 169560
-    title: How should student nurses apply the NMC Code in their practice?
+    id: 169561
+    title: >-
+        Why is patient safety a critical concern in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-student-nurses-apply-the-nmc-code-in-their-practice
+    url: /learn/nursing/questions/why-is-patient-safety-a-critical-concern-in-healthcare
 related_article4:
-    id: 169575
-    title: What are the different roles within a healthcare team, and how do they interact?
+    id: 169576
+    title: >-
+        What is the role of student nurses within the healthcare team?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+    url: /learn/nursing/questions/what-is-the-role-of-student-nurses-within-the-healthcare-team
 related_article5:
-    id: 169554
-    title: What tasks are suitable for delegation to student nurses?
+    id: 169558
+    title: >-
+        Why is the duty of care important for patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167617
 date: 2025-01-31
-title: How do college support services enhance student engagement and academic success?
-article_title: How do college support services enhance student engagement and academic success?
+title: >-
+    How do college support services enhance student engagement and academic success?
+article_title: >-
+    How do college support services enhance student engagement and academic success?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-college-support-services-enhance-student-engagement-and-academ
 url: /learn/education-studies/questions/how-do-college-support-services-enhance-student-engagement-and-academic-success
 score: -1.0
 related_article1:
-    id: 167602
-    title: How can students effectively schedule and utilize weekend and online support for tutoring?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-schedule-and-utilize-weekend-and-online-support-for-tutoring
-related_article2:
-    id: 167615
-    title: How can online support services be accessed and utilized effectively by students?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-online-support-services-be-accessed-and-utilized-effectively-by-students
-related_article3:
-    id: 167602
-    title: How can students effectively schedule and utilize weekend and online support for tutoring?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-schedule-and-utilize-weekend-and-online-support-for-tutoring
-related_article4:
-    id: 167618
-    title: What strategies can be used to build a supportive community that encourages peer interaction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-a-supportive-community-that-encourages-peer-interaction
-related_article5:
     id: 167607
-    title: What strategies can be employed to balance academic and personal life effectively?
+    title: >-
+        What strategies can be employed to balance academic and personal life effectively?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-employed-to-balance-academic-and-personal-life-effectively
+related_article2:
+    id: 167607
+    title: >-
+        What strategies can be employed to balance academic and personal life effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-balance-academic-and-personal-life-effectively
+related_article3:
+    id: 167618
+    title: >-
+        What strategies can be used to build a supportive community that encourages peer interaction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-a-supportive-community-that-encourages-peer-interaction
+related_article4:
+    id: 167610
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships among organisms?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-organisms
+related_article5:
+    id: 167602
+    title: >-
+        How can students effectively schedule and utilize weekend and online support for tutoring?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-effectively-schedule-and-utilize-weekend-and-online-support-for-tutoring
 ---
 
 &nbsp;

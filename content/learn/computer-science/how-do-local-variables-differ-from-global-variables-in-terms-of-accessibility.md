@@ -2,8 +2,10 @@
 _schema: default
 id: 168595
 date: 2025-02-03
-title: How do local variables differ from global variables in terms of accessibility?
-article_title: How do local variables differ from global variables in terms of accessibility?
+title: >-
+    How do local variables differ from global variables in terms of accessibility?
+article_title: >-
+    How do local variables differ from global variables in terms of accessibility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-local-variables-differ-from-global-variables-in-terms-of-acces
 url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
 score: -1.0
 related_article1:
-    id: 168609
-    title: How does inheritance contribute to reusability in object-oriented programming?
+    id: 168599
+    title: >-
+        How can you provide default values for function parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
+    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
 related_article2:
-    id: 168607
-    title: What is modular programming and how does it enhance reusability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
-related_article3:
-    id: 168607
-    title: What is modular programming and how does it enhance reusability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
-related_article4:
-    id: 168597
-    title: How can you handle a specific error type using a try...except block?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
-related_article5:
     id: 168589
-    title: What is the syntax for defining a function in Python?
+    title: >-
+        What is the syntax for defining a function in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+related_article3:
+    id: 168602
+    title: >-
+        What is the purpose of raising exceptions in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
+related_article4:
+    id: 168589
+    title: >-
+        What is the syntax for defining a function in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+related_article5:
+    id: 168607
+    title: >-
+        What is modular programming and how does it enhance reusability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161557
 date: 2025-01-24
-title: How does encryption contribute to access control in computing security?
-article_title: How does encryption contribute to access control in computing security?
+title: >-
+    How does encryption contribute to access control in computing security?
+article_title: >-
+    How does encryption contribute to access control in computing security?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-encryption-contribute-to-access-control-in-computing-securit
 url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
 score: -1.0
 related_article1:
-    id: 161543
-    title: How does checkpointing contribute to fault tolerance in supercomputers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputers
-related_article2:
-    id: 161543
-    title: How does checkpointing contribute to fault tolerance in supercomputers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputers
-related_article3:
-    id: 161562
-    title: What is the role of device drivers in system software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
-related_article4:
-    id: 161562
-    title: What is the role of device drivers in system software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
-related_article5:
-    id: 161556
-    title: What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+    id: 161312
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
+related_article2:
+    id: 161322
+    title: >-
+        What are the main characteristics of open source software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
+related_article3:
+    id: 161306
+    title: >-
+        How does licensing differ between open source and proprietary software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+related_article4:
+    id: 161295
+    title: >-
+        What does MIPS measure in mainframe performance metrics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
+related_article5:
+    id: 161315
+    title: >-
+        How does checkpointing enhance fault tolerance in supercomputers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-checkpointing-enhance-fault-tolerance-in-supercomputers
 ---
 
 &nbsp;

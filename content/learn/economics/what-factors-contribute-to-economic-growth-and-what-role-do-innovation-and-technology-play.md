@@ -2,8 +2,10 @@
 _schema: default
 id: 169928
 date: 2025-02-05
-title: What factors contribute to economic growth, and what role do innovation and technology play?
-article_title: What factors contribute to economic growth, and what role do innovation and technology play?
+title: >-
+    What factors contribute to economic growth, and what role do innovation and technology play?
+article_title: >-
+    What factors contribute to economic growth, and what role do innovation and technology play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-contribute-to-economic-growth-and-what-role-do-innovatio
 url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
 score: -1.0
 related_article1:
-    id: 169931
-    title: What are the economic impacts of bilateral and multilateral agreements on national economies?
+    id: 169926
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-economic-impacts-of-bilateral-and-multilateral-agreements-on-national-economies
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
 related_article2:
-    id: 169918
-    title: How does commodification impact the perception of labor and nature in economic terms?
+    id: 169924
+    title: >-
+        What is comparative advantage, and how does it affect trade policies?
     subject: Economics
-    url: /learn/economics/questions/how-does-commodification-impact-the-perception-of-labor-and-nature-in-economic-terms
+    url: /learn/economics/questions/what-is-comparative-advantage-and-how-does-it-affect-trade-policies
 related_article3:
-    id: 169917
-    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
+    id: 169922
+    title: >-
+        How do marginal cost and benefit influence consumer choices?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
+    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
 related_article4:
-    id: 169922
-    title: How do marginal cost and benefit influence consumer choices?
+    id: 169930
+    title: >-
+        How does education function as an investment in the labor market?
     subject: Economics
-    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+    url: /learn/economics/questions/how-does-education-function-as-an-investment-in-the-labor-market
 related_article5:
-    id: 169922
-    title: How do marginal cost and benefit influence consumer choices?
+    id: 169919
+    title: >-
+        Explain the concept of scarcity and its economic implications.
     subject: Economics
-    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
 ---
 
 &nbsp;

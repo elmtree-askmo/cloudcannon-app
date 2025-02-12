@@ -2,8 +2,10 @@
 _schema: default
 id: 168094
 date: 2025-02-02
-title: What are primary circular reactions, and at what age do they typically occur?
-article_title: What are primary circular reactions, and at what age do they typically occur?
+title: >-
+    What are primary circular reactions, and at what age do they typically occur?
+article_title: >-
+    What are primary circular reactions, and at what age do they typically occur?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-primary-circular-reactions-and-at-what-age-do-they-typically
 url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
 score: -1.0
 related_article1:
-    id: 168093
-    title: Describe the cognitive development that occurs during the sensorimotor stage.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
-related_article2:
-    id: 168095
-    title: Provide an example of a primary circular reaction.
-    subject: Psychology
-    url: /learn/psychology/questions/provide-an-example-of-a-primary-circular-reaction
-related_article3:
     id: 168106
-    title: How do sensory input and motor actions contribute to cognitive development?
+    title: >-
+        How do sensory input and motor actions contribute to cognitive development?
     subject: Psychology
     url: /learn/psychology/questions/how-do-sensory-input-and-motor-actions-contribute-to-cognitive-development
+related_article2:
+    id: 168097
+    title: >-
+        At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+related_article3:
+    id: 168100
+    title: >-
+        Define internalization of schemas and give an example.
+    subject: Psychology
+    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
 related_article4:
-    id: 168096
-    title: What distinguishes secondary circular reactions from primary circular reactions?
+    id: 168108
+    title: >-
+        What are mental representations, and how do they aid in problem-solving?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
+    url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
 related_article5:
-    id: 168093
-    title: Describe the cognitive development that occurs during the sensorimotor stage.
+    id: 168098
+    title: >-
+        Explain the coordination of secondary circular reactions and provide an example.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-cognitive-development-that-occurs-during-the-sensorimotor-stage
+    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168949
 date: 2025-02-04
-title: How do saturated and unsaturated fatty acids influence membrane fluidity?
-article_title: How do saturated and unsaturated fatty acids influence membrane fluidity?
+title: >-
+    How do saturated and unsaturated fatty acids influence membrane fluidity?
+article_title: >-
+    How do saturated and unsaturated fatty acids influence membrane fluidity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acid
 score: -1.0
 related_article1:
     id: 168955
-    title: Define simple diffusion and provide examples of substances that move across membranes via this process.
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
     subject: Health Studies
     url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 related_article2:
-    id: 168955
-    title: Define simple diffusion and provide examples of substances that move across membranes via this process.
+    id: 168960
+    title: >-
+        Define endocytosis and exocytosis and explain their roles in cellular transport.
     subject: Health Studies
-    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
+    url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
 related_article3:
-    id: 168946
-    title: Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
+    id: 168945
+    title: >-
+        How do polar and non-polar groups affect the solubility and interaction of biomolecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-structurefunction-relationship-in-biomolecules-and-how-it-relates-to-their-levels-of-structure
+    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
 related_article4:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
+    id: 168956
+    title: >-
+        How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
+    url: /learn/health-studies/questions/how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-specificity-and-saturation-in-this-context
 related_article5:
-    id: 168958
-    title: Describe the mechanism and function of the sodium-potassium pump in active transport.
+    id: 168952
+    title: >-
+        How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-active-transport
+    url: /learn/health-studies/questions/how-does-temperature-affect-membrane-fluidity-and-what-role-does-cholesterol-play-in-this-process
 ---
 
 &nbsp;

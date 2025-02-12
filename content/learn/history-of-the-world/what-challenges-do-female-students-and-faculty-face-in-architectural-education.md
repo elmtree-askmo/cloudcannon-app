@@ -2,8 +2,10 @@
 _schema: default
 id: 169115
 date: 2025-02-04
-title: What challenges do female students and faculty face in architectural education?
-article_title: What challenges do female students and faculty face in architectural education?
+title: >-
+    What challenges do female students and faculty face in architectural education?
+article_title: >-
+    What challenges do female students and faculty face in architectural education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-female-students-and-faculty-face-in-architectural-
 url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
 score: 9.0
 related_article1:
-    id: 169107
-    title: How did postwar developments impact gendered labor dynamics in architecture?
+    id: 169111
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
 related_article2:
-    id: 169112
-    title: How have feminist archival methodologies contributed to the understanding of architectural histories?
+    id: 169124
+    title: >-
+        What contributions have women made to urban development and public housing?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
+    url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
 related_article3:
     id: 169122
-    title: What are some common stereotypes about women in architecture portrayed in media?
+    title: >-
+        What are some common stereotypes about women in architecture portrayed in media?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
 related_article4:
-    id: 169106
-    title: What were some of the challenges faced by women in architecture during the early 20th century?
+    id: 169107
+    title: >-
+        How did postwar developments impact gendered labor dynamics in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
+    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
 related_article5:
-    id: 169109
-    title: What are some key architectural projects led by women that have gained recognition?
+    id: 169123
+    title: >-
+        How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-key-architectural-projects-led-by-women-that-have-gained-recognition
+    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
 ---
 
 &nbsp;

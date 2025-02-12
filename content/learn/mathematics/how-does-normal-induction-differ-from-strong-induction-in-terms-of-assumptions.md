@@ -2,8 +2,10 @@
 _schema: default
 id: 170692
 date: 2025-02-06
-title: How does normal induction differ from strong induction in terms of assumptions?
-article_title: How does normal induction differ from strong induction in terms of assumptions?
+title: >-
+    How does normal induction differ from strong induction in terms of assumptions?
+article_title: >-
+    How does normal induction differ from strong induction in terms of assumptions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-normal-induction-differ-from-strong-induction-in-terms-of-as
 url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
 score: -1.0
 related_article1:
-    id: 170696
-    title: How does the base case function in both strong and normal induction?
+    id: 170698
+    title: >-
+        What is the significance of the base case in the Fibonacci sequence?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-base-case-function-in-both-strong-and-normal-induction
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-base-case-in-the-fibonacci-sequence
 related_article2:
-    id: 170693
-    title: Describe how normal induction can be applied to the Coin Change Problem.
+    id: 170690
+    title: >-
+        How can strong induction be used to prove properties of the Fibonacci sequence?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
 related_article3:
-    id: 170689
-    title: In what way is strong induction applied to solve the Coin Change Problem?
+    id: 170705
+    title: >-
+        What is the importance of comparing Big O Notation with other notations?
     subject: Mathematics
-    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
+    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
 related_article4:
-    id: 170693
-    title: Describe how normal induction can be applied to the Coin Change Problem.
+    id: 170690
+    title: >-
+        How can strong induction be used to prove properties of the Fibonacci sequence?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
+    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
 related_article5:
-    id: 170695
-    title: Why is establishing a base case crucial in induction proofs?
+    id: 170702
+    title: >-
+        Why are base cases important in the Fibonacci sequence?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-establishing-a-base-case-crucial-in-induction-proofs
+    url: /learn/mathematics/questions/why-are-base-cases-important-in-the-fibonacci-sequence
 ---
 
 &nbsp;

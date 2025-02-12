@@ -2,8 +2,10 @@
 _schema: default
 id: 167896
 date: 2025-02-01
-title: What are the key chromosomal abnormalities associated with Down Syndrome?
-article_title: What are the key chromosomal abnormalities associated with Down Syndrome?
+title: >-
+    What are the key chromosomal abnormalities associated with Down Syndrome?
+article_title: >-
+    What are the key chromosomal abnormalities associated with Down Syndrome?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-chromosomal-abnormalities-associated-with-down-syndr
 url: /learn/education-studies/questions/what-are-the-key-chromosomal-abnormalities-associated-with-down-syndrome
 score: -1.0
 related_article1:
-    id: 167909
-    title: How can smart book technology enhance learning in genetics?
+    id: 167904
+    title: >-
+        How do amino acids contribute to protein structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-smart-book-technology-enhance-learning-in-genetics
+    url: /learn/education-studies/questions/how-do-amino-acids-contribute-to-protein-structure-and-function
 related_article2:
-    id: 167913
-    title: What is the importance of genetic counseling in the context of genetic testing?
+    id: 167895
+    title: >-
+        How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-genetic-counseling-in-the-context-of-genetic-testing
+    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
 related_article3:
-    id: 167901
-    title: How do ribosomes facilitate the translation process from RNA to protein?
+    id: 167899
+    title: >-
+        Explain the process of meiosis and its significance in genetic variation.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ribosomes-facilitate-the-translation-process-from-rna-to-protein
+    url: /learn/education-studies/questions/explain-the-process-of-meiosis-and-its-significance-in-genetic-variation
 related_article4:
-    id: 167897
-    title: How does DNA packaging affect gene accessibility in chromosomes?
+    id: 167907
+    title: >-
+        Explain Mendelian inheritance and the significance of dihybrid crosses.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-dna-packaging-affect-gene-accessibility-in-chromosomes
+    url: /learn/education-studies/questions/explain-mendelian-inheritance-and-the-significance-of-dihybrid-crosses
 related_article5:
-    id: 167894
-    title: What are the main types of genetic variation and how do they differ?
+    id: 167902
+    title: >-
+        Describe the double helix model of DNA and the importance of base pairing.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-genetic-variation-and-how-do-they-differ
+    url: /learn/education-studies/questions/describe-the-double-helix-model-of-dna-and-the-importance-of-base-pairing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163888
 date: 2025-01-28
-title: Who are the major Olympian deities in Greek mythology, and what are their primary domains?
-article_title: Who are the major Olympian deities in Greek mythology, and what are their primary domains?
+title: >-
+    Who are the major Olympian deities in Greek mythology, and what are their primary domains?
+article_title: >-
+    Who are the major Olympian deities in Greek mythology, and what are their primary domains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-th
 url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
 score: 9.5
 related_article1:
-    id: 163898
-    title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article2:
-    id: 163905
-    title: How have Greek myths been preserved and evolved over time through storytelling traditions?
+    id: 163889
+    title: >-
+        What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
+    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
 related_article3:
-    id: 163907
-    title: How did historical events influence the development and interpretation of Greek myths over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-historical-events-influence-the-development-and-interpretation-of-greek-myths-over-time
-related_article4:
     id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
+    title: >-
+        What are the key structural elements of the Homeric Hymns?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
-related_article5:
-    id: 163899
-    title: Describe a literary technique commonly used in ancient Greek literature and its purpose.
+related_article4:
+    id: 163902
+    title: >-
+        Provide an example of a transformation myth and explain its role in Greek mythology.
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose
+    url: /learn/art-history-and-literature/questions/provide-an-example-of-a-transformation-myth-and-explain-its-role-in-greek-mythology
+related_article5:
+    id: 163895
+    title: >-
+        What role did bards play in the preservation and dissemination of Greek myths?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
 ---
 
 &nbsp;

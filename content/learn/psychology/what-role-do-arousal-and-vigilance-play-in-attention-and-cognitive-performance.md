@@ -2,8 +2,10 @@
 _schema: default
 id: 164565
 date: 2025-01-28
-title: What role do arousal and vigilance play in attention and cognitive performance?
-article_title: What role do arousal and vigilance play in attention and cognitive performance?
+title: >-
+    What role do arousal and vigilance play in attention and cognitive performance?
+article_title: >-
+    What role do arousal and vigilance play in attention and cognitive performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-pe
 url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
 score: -1.0
 related_article1:
-    id: 164551
-    title: Which brain regions are primarily involved in executive function, and what roles do they play?
+    id: 164559
+    title: >-
+        How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-primarily-involved-in-executive-function-and-what-roles-do-they-play
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
 related_article2:
-    id: 164561
-    title: How do ADHD and attention networks interact in cognitive processing?
+    id: 164546
+    title: >-
+        How does procedural memory differ from semantic and episodic memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
 related_article3:
-    id: 164545
-    title: What roles do the parietal and frontal lobes play in attention processes?
+    id: 164559
+    title: >-
+        How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
     subject: Psychology
-    url: /learn/psychology/questions/what-roles-do-the-parietal-and-frontal-lobes-play-in-attention-processes
+    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
 related_article4:
-    id: 164556
-    title: How do the superior and inferior parietal lobes differ in function?
+    id: 164544
+    title: >-
+        How do the default mode network and potential control network contribute to attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
+    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
 related_article5:
-    id: 164560
-    title: What are the symptoms and causes of perseveration and environmental dependency syndrome?
+    id: 164543
+    title: >-
+        What are the key differences between spatial attention and object-based attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
 ---
 
 &nbsp;

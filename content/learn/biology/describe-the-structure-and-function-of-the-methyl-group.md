@@ -2,8 +2,10 @@
 _schema: default
 id: 167410
 date: 2025-01-31
-title: Describe the structure and function of the methyl group.
-article_title: Describe the structure and function of the methyl group.
+title: >-
+    Describe the structure and function of the methyl group.
+article_title: >-
+    Describe the structure and function of the methyl group.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-and-function-of-the-methyl-group.md
 url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
 score: -1.0
 related_article1:
-    id: 167401
-    title: What is the role of the nucleus in an atom?
+    id: 167407
+    title: >-
+        What are the unique properties of carbon that make it versatile in forming compounds?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
 related_article2:
-    id: 167398
-    title: What is the definition of matter and how does it differ from elements?
+    id: 167413
+    title: >-
+        What is the function of the carboxyl group in biological molecules?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+    url: /learn/biology/questions/what-is-the-function-of-the-carboxyl-group-in-biological-molecules
 related_article3:
-    id: 167409
-    title: What is the structure and function of the amino group in biological molecules?
+    id: 167404
+    title: >-
+        What distinguishes polar covalent bonds from non-polar covalent bonds?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
+    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 related_article4:
-    id: 167405
-    title: How do ionic bonds form and what are cations and anions?
-    subject: Biology
-    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
-related_article5:
     id: 167401
-    title: What is the role of the nucleus in an atom?
+    title: >-
+        What is the role of the nucleus in an atom?
     subject: Biology
     url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article5:
+    id: 167416
+    title: >-
+        Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169141
 date: 2025-02-04
-title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
-article_title: How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+title: >-
+    How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
+article_title: >-
+    How did economic interests and power shifts affect racial integration dynamics in Johannesburg?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-economic-interests-and-power-shifts-affect-racial-integration
 url: /learn/sociology/questions/how-did-economic-interests-and-power-shifts-affect-racial-integration-dynamics-in-johannesburg
 score: -1.0
 related_article1:
-    id: 169152
-    title: What were the municipal strategies and reforms aimed at addressing housing and location policies?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-municipal-strategies-and-reforms-aimed-at-addressing-housing-and-location-policies
-related_article2:
-    id: 169144
-    title: What role did the Medical Officer of Health play in addressing public health concerns in slum-yards?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-did-the-medical-officer-of-health-play-in-addressing-public-health-concerns-in-slumyards
-related_article3:
-    id: 169147
-    title: What was the impact of racial discourse on social stratification in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/what-was-the-impact-of-racial-discourse-on-social-stratification-in-johannesburg
-related_article4:
-    id: 169138
-    title: What were the key factors that contributed to early urban segregation in Johannesburg?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
-related_article5:
     id: 169146
-    title: How did segregationist policies affect racial identity and residential control in Johannesburg?
+    title: >-
+        How did segregationist policies affect racial identity and residential control in Johannesburg?
     subject: Sociology
     url: /learn/sociology/questions/how-did-segregationist-policies-affect-racial-identity-and-residential-control-in-johannesburg
+related_article2:
+    id: 169151
+    title: >-
+        How did early 20th-century legislation impact urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/how-did-early-20thcentury-legislation-impact-urban-segregation-in-johannesburg
+related_article3:
+    id: 169138
+    title: >-
+        What were the key factors that contributed to early urban segregation in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-early-urban-segregation-in-johannesburg
+related_article4:
+    id: 169145
+    title: >-
+        What were the main sanitary conditions and health concerns in Johannesburg's slum-yards?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-sanitary-conditions-and-health-concerns-in-johannesburgs-slumyards
+related_article5:
+    id: 169150
+    title: >-
+        What were the main challenges in urban planning related to slum conditions in Johannesburg?
+    subject: Sociology
+    url: /learn/sociology/questions/what-were-the-main-challenges-in-urban-planning-related-to-slum-conditions-in-johannesburg
 ---
 
 &nbsp;

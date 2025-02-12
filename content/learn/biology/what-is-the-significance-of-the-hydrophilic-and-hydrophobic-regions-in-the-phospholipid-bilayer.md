@@ -2,8 +2,10 @@
 _schema: default
 id: 169951
 date: 2025-02-05
-title: What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
-article_title: What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+title: >-
+    What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+article_title: >-
+    What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-i
 url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
 score: -1.0
 related_article1:
-    id: 169952
-    title: What is the relationship between monomers and polymers in biological molecules?
+    id: 169950
+    title: >-
+        How does ATP function as an energy carrier in cells?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+    url: /learn/biology/questions/how-does-atp-function-as-an-energy-carrier-in-cells
 related_article2:
-    id: 169952
-    title: What is the relationship between monomers and polymers in biological molecules?
+    id: 169960
+    title: >-
+        How does selective permeability contribute to homeostasis in cells?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+    url: /learn/biology/questions/how-does-selective-permeability-contribute-to-homeostasis-in-cells
 related_article3:
-    id: 169962
-    title: How does active transport differ from passive transport in terms of energy usage?
+    id: 169941
+    title: >-
+        What role do electrolytes play in chemical reactions?
     subject: Biology
-    url: /learn/biology/questions/how-does-active-transport-differ-from-passive-transport-in-terms-of-energy-usage
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
 related_article4:
-    id: 169953
-    title: What is the primary structure of a protein?
+    id: 169954
+    title: >-
+        How do enzymes exhibit specificity for their substrates?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
-related_article5:
-    id: 169937
-    title: What are the three main subatomic particles and their charges?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-three-main-subatomic-particles-and-their-charges
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
 ---
 
 &nbsp;

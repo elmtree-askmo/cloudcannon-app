@@ -2,8 +2,10 @@
 _schema: default
 id: 170497
 date: 2025-02-06
-title: Describe the functional differences between the central and peripheral nervous systems.
-article_title: Describe the functional differences between the central and peripheral nervous systems.
+title: >-
+    Describe the functional differences between the central and peripheral nervous systems.
+article_title: >-
+    Describe the functional differences between the central and peripheral nervous systems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-functional-differences-between-the-central-and-periphera
 url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
 score: -1.0
 related_article1:
-    id: 170500
-    title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    id: 170488
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
 related_article2:
-    id: 170490
-    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+    id: 170488
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
     subject: Nursing
-    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
 related_article3:
-    id: 170486
-    title: What are the main components of the spinal cord anatomy and their functions?
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
 related_article4:
-    id: 170498
-    title: What mechanisms are involved in the modulation of pain perception?
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
     subject: Nursing
-    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
 related_article5:
-    id: 170498
-    title: What mechanisms are involved in the modulation of pain perception?
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
     subject: Nursing
-    url: /learn/nursing/questions/what-mechanisms-are-involved-in-the-modulation-of-pain-perception
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 ---
 
 &nbsp;

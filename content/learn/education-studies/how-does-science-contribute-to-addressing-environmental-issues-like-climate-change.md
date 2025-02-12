@@ -2,8 +2,10 @@
 _schema: default
 id: 166169
 date: 2025-01-29
-title: How does science contribute to addressing environmental issues like climate change?
-article_title: How does science contribute to addressing environmental issues like climate change?
+title: >-
+    How does science contribute to addressing environmental issues like climate change?
+article_title: >-
+    How does science contribute to addressing environmental issues like climate change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-science-contribute-to-addressing-environmental-issues-like-c
 url: /learn/education-studies/questions/how-does-science-contribute-to-addressing-environmental-issues-like-climate-change
 score: -1.0
 related_article1:
-    id: 166161
-    title: What is the peer review process and why is it important in scientific research?
+    id: 166156
+    title: >-
+        How does deductive reasoning validate scientific hypotheses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-peer-review-process-and-why-is-it-important-in-scientific-research
+    url: /learn/education-studies/questions/how-does-deductive-reasoning-validate-scientific-hypotheses
 related_article2:
-    id: 166171
-    title: Why are aquatic ecosystems important for biodiversity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-are-aquatic-ecosystems-important-for-biodiversity
-related_article3:
     id: 166155
-    title: What is inductive reasoning and how is it applied in hypothesis creation?
+    title: >-
+        What is inductive reasoning and how is it applied in hypothesis creation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-inductive-reasoning-and-how-is-it-applied-in-hypothesis-creation
+related_article3:
+    id: 166168
+    title: >-
+        What are the main types of research methodologies used in scientific inquiry?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 related_article4:
-    id: 166157
-    title: What are the characteristics of a good hypothesis?
+    id: 166159
+    title: >-
+        What is the role of control groups in scientific experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
+    url: /learn/education-studies/questions/what-is-the-role-of-control-groups-in-scientific-experiments
 related_article5:
-    id: 166173
-    title: How do scientific theories differ from scientific laws?
+    id: 166170
+    title: >-
+        What are the impacts of climate change on ecosystems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-scientific-theories-differ-from-scientific-laws
+    url: /learn/education-studies/questions/what-are-the-impacts-of-climate-change-on-ecosystems
 ---
 
 &nbsp;

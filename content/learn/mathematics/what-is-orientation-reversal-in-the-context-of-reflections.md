@@ -2,8 +2,10 @@
 _schema: default
 id: 162914
 date: 2025-01-25
-title: What is orientation reversal in the context of reflections?
-article_title: What is orientation reversal in the context of reflections?
+title: >-
+    What is orientation reversal in the context of reflections?
+article_title: >-
+    What is orientation reversal in the context of reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-orientation-reversal-in-the-context-of-reflections.md
 url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
 score: -1.0
 related_article1:
-    id: 162646
-    title: Why is distance preservation important in reflections?
+    id: 162390
+    title: >-
+        How do you reflect a point across the x-axis?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
+    url: /learn/mathematics/questions/how-do-you-reflect-a-point-across-the-xaxis
 related_article2:
-    id: 162763
-    title: What misunderstandings might arise regarding symmetry in reflections?
+    id: 162644
+    title: >-
+        What are some misunderstandings about symmetry in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+    url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 related_article3:
-    id: 162910
-    title: How can orientation changes lead to confusion in reflections?
+    id: 162824
+    title: >-
+        What role do reflections play in symmetry analysis?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+    url: /learn/mathematics/questions/what-role-do-reflections-play-in-symmetry-analysis
 related_article4:
-    id: 162406
-    title: What is the mirror image concept in reflections?
+    id: 162704
+    title: >-
+        How is congruence maintained in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 related_article5:
-    id: 162813
-    title: What are the effects of reflections on the position and orientation of figures?
+    id: 162396
+    title: >-
+        How do coordinates change when a point is reflected?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-the-position-and-orientation-of-figures
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-reflected
 ---
 
 &nbsp;

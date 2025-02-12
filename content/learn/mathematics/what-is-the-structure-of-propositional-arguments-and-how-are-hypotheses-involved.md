@@ -2,8 +2,10 @@
 _schema: default
 id: 170215
 date: 2025-02-06
-title: What is the structure of propositional arguments and how are hypotheses involved?
-article_title: What is the structure of propositional arguments and how are hypotheses involved?
+title: >-
+    What is the structure of propositional arguments and how are hypotheses involved?
+article_title: >-
+    What is the structure of propositional arguments and how are hypotheses involved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/what-is-the-structure-of-propositional-argumen
 score: -1.0
 related_article1:
     id: 170217
-    title: What is a logical implication and how is it used in logical arguments?
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 related_article2:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170207
+    title: >-
+        How do conditional identities apply in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
 related_article3:
-    id: 170209
-    title: What is the purpose of counter-examples in logical equivalency?
+    id: 170211
+    title: >-
+        What is double negation and how does it relate to logical equivalency?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
+    url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
 related_article4:
-    id: 170205
-    title: Describe the distributive laws and provide an example of their application.
+    id: 170203
+    title: >-
+        What are the commutative laws in propositional logic and how are they applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
+    url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
 related_article5:
-    id: 170205
-    title: Describe the distributive laws and provide an example of their application.
+    id: 170214
+    title: >-
+        How can logical arguments be translated from English to logical form?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
+    url: /learn/mathematics/questions/how-can-logical-arguments-be-translated-from-english-to-logical-form
 ---
 
 &nbsp;

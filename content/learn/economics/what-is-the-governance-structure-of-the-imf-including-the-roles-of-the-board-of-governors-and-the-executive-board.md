@@ -2,8 +2,10 @@
 _schema: default
 id: 159672
 date: 2025-01-23
-title: What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
-article_title: What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
+title: >-
+    What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
+article_title: >-
+    What is the governance structure of the IMF, including the roles of the Board of Governors and the Executive Board?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-governance-structure-of-the-imf-including-the-roles-of-th
 url: /learn/economics/questions/what-is-the-governance-structure-of-the-imf-including-the-roles-of-the-board-of-governors-and-the-executive-board
 score: -1.0
 related_article1:
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article2:
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
+related_article3:
+    id: 159675
+    title: >-
+        What types of financial assistance does the World Bank provide to support development projects?
+    subject: Economics
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
+related_article4:
+    id: 159662
+    title: >-
+        What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
+related_article5:
     id: 159666
-    title: What was the significance of the Bretton Woods Conference in the founding of the IMF?
+    title: >-
+        What was the significance of the Bretton Woods Conference in the founding of the IMF?
     subject: Economics
     url: /learn/economics/questions/what-was-the-significance-of-the-bretton-woods-conference-in-the-founding-of-the-imf
-related_article2:
-    id: 159668
-    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
-    subject: Economics
-    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
-related_article3:
-    id: 159668
-    title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
-    subject: Economics
-    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
-related_article4:
-    id: 159669
-    title: How does the IMF contribute to capacity development in public finances and monetary policies?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-imf-contribute-to-capacity-development-in-public-finances-and-monetary-policies
-related_article5:
-    id: 159676
-    title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
-    subject: Economics
-    url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
 ---
 
 &nbsp;

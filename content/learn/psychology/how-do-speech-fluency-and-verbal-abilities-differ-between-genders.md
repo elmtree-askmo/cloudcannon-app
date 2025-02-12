@@ -2,8 +2,10 @@
 _schema: default
 id: 168112
 date: 2025-02-02
-title: How do speech fluency and verbal abilities differ between genders?
-article_title: How do speech fluency and verbal abilities differ between genders?
+title: >-
+    How do speech fluency and verbal abilities differ between genders?
+article_title: >-
+    How do speech fluency and verbal abilities differ between genders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-speech-fluency-and-verbal-abilities-differ-between-genders.md
 url: /learn/psychology/questions/how-do-speech-fluency-and-verbal-abilities-differ-between-genders
 score: -1.0
 related_article1:
+    id: 168135
+    title: >-
+        How does parental influence affect the decline in gender stereotypes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-influence-affect-the-decline-in-gender-stereotypes
+related_article2:
+    id: 168121
+    title: >-
+        How do cultural and methodological influences affect relational aggression?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
+related_article3:
+    id: 168117
+    title: >-
+        What is spatial perception, and how does it vary by gender?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-spatial-perception-and-how-does-it-vary-by-gender
+related_article4:
     id: 168109
-    title: What are the key differences in computational skills between genders?
+    title: >-
+        What are the key differences in computational skills between genders?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
-related_article2:
-    id: 168137
-    title: How do gender-based interests influence career choices?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
-related_article3:
-    id: 168119
-    title: How do gender differences manifest in physical aggression?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
-related_article4:
-    id: 168122
-    title: What is the gender gap in self-esteem, and how does it change with age?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
 related_article5:
-    id: 168119
-    title: How do gender differences manifest in physical aggression?
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 ---
 
 &nbsp;

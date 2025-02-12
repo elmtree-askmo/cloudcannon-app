@@ -2,8 +2,10 @@
 _schema: default
 id: 159668
 date: 2025-01-23
-title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
-article_title: What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+title: >-
+    What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
+article_title: >-
+    What types of financial assistance does the IMF provide to member countries facing balance of payments issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-financial-assistance-does-the-imf-provide-to-member-cou
 url: /learn/economics/questions/what-types-of-financial-assistance-does-the-imf-provide-to-member-countries-facing-balance-of-payments-issues
 score: -1.0
 related_article1:
-    id: 159662
-    title: What are the primary purposes and functions of multilateral institutions in solving common global problems?
+    id: 159675
+    title: >-
+        What types of financial assistance does the World Bank provide to support development projects?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-primary-purposes-and-functions-of-multilateral-institutions-in-solving-common-global-problems
+    url: /learn/economics/questions/what-types-of-financial-assistance-does-the-world-bank-provide-to-support-development-projects
 related_article2:
-    id: 159676
-    title: How does the World Bank contribute to human capital development through projects like the Human Capital Project and National Immunization Support Project?
+    id: 159665
+    title: >-
+        How do multilateral institutions contribute to maintaining peace and security, sustainable development, and human rights?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-world-bank-contribute-to-human-capital-development-through-projects-like-the-human-capital-project-and-national-immunization-support-project
+    url: /learn/economics/questions/how-do-multilateral-institutions-contribute-to-maintaining-peace-and-security-sustainable-development-and-human-rights
 related_article3:
-    id: 159671
-    title: How are member quotas and credit arrangements significant to the IMF's resources?
+    id: 159663
+    title: >-
+        How do multilateral institutions create favorable circumstances for global priorities?
     subject: Economics
-    url: /learn/economics/questions/how-are-member-quotas-and-credit-arrangements-significant-to-the-imfs-resources
+    url: /learn/economics/questions/how-do-multilateral-institutions-create-favorable-circumstances-for-global-priorities
 related_article4:
-    id: 159682
-    title: What special provisions does the WTO have for building trade capacity in developing countries?
+    id: 159678
+    title: >-
+        What are the main objectives of the World Trade Organization (WTO) in promoting global trade rules and economic growth?
     subject: Economics
-    url: /learn/economics/questions/what-special-provisions-does-the-wto-have-for-building-trade-capacity-in-developing-countries
+    url: /learn/economics/questions/what-are-the-main-objectives-of-the-world-trade-organization-wto-in-promoting-global-trade-rules-and-economic-growth
 related_article5:
-    id: 159664
-    title: What are the key roles of the International Monetary Fund (IMF), World Bank, and World Trade Organization (WTO) in global governance?
+    id: 159679
+    title: >-
+        How does the WTO negotiate trade rules to reduce trade barriers and support economic development?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-key-roles-of-the-international-monetary-fund-imf-world-bank-and-world-trade-organization-wto-in-global-governance
+    url: /learn/economics/questions/how-does-the-wto-negotiate-trade-rules-to-reduce-trade-barriers-and-support-economic-development
 ---
 
 &nbsp;

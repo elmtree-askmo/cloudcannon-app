@@ -2,8 +2,10 @@
 _schema: default
 id: 164838
 date: 2025-01-28
-title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
-article_title: What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+title: >-
+    What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
+article_title: >-
+    What role does the cerebral cortex play in higher-order functions and sensory processing related to consciousness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-
 url: /learn/psychology/questions/what-role-does-the-cerebral-cortex-play-in-higherorder-functions-and-sensory-processing-related-to-consciousness
 score: -1.0
 related_article1:
-    id: 164851
-    title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    id: 164849
+    title: >-
+        How do executive function disorders impact decision-making and behavioral regulation, and which brain regions are involved?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
+    url: /learn/psychology/questions/how-do-executive-function-disorders-impact-decisionmaking-and-behavioral-regulation-and-which-brain-regions-are-involved
 related_article2:
-    id: 164848
-    title: What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
+    id: 164846
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
 related_article3:
-    id: 164840
-    title: How do thalamocortical interactions facilitate conscious perception through signal integration?
+    id: 164833
+    title: >-
+        What are the main components of consciousness, and how do they relate to awareness and responsiveness?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
+    url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
 related_article4:
-    id: 164837
-    title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+    id: 164846
+    title: >-
+        What are the differences between the geniculostriate and tectopulvinar pathways in terms of conscious and unconscious vision?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
+    url: /learn/psychology/questions/what-are-the-differences-between-the-geniculostriate-and-tectopulvinar-pathways-in-terms-of-conscious-and-unconscious-vision
 related_article5:
-    id: 164841
-    title: In what ways does consciousness affect decision-making and self-consciousness, particularly in relation to anxiety and depression?
+    id: 164845
+    title: >-
+        Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
     subject: Psychology
-    url: /learn/psychology/questions/in-what-ways-does-consciousness-affect-decisionmaking-and-selfconsciousness-particularly-in-relation-to-anxiety-and-depression
+    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
 ---
 
 &nbsp;

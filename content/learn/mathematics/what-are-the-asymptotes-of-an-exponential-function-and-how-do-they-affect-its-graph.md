@@ -2,8 +2,10 @@
 _schema: default
 id: 163834
 date: 2025-01-27
-title: What are the asymptotes of an exponential function, and how do they affect its graph?
-article_title: What are the asymptotes of an exponential function, and how do they affect its graph?
+title: >-
+    What are the asymptotes of an exponential function, and how do they affect its graph?
+article_title: >-
+    What are the asymptotes of an exponential function, and how do they affect its graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-af
 url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
 score: -1.0
 related_article1:
-    id: 163831
-    title: What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+    id: 163838
+    title: >-
+        What are the key differences in the domain and range of exponential and cubic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape
+    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
 related_article2:
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article3:
+    id: 163829
+    title: >-
+        What is the slope-intercept form of a linear function, and how does it help in graphing the function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
+related_article4:
     id: 163848
-    title: How can you manually plot a function, and what tools can assist in this process?
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
-related_article3:
-    id: 163839
-    title: What techniques can be used to graph functions manually and with software?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
-related_article4:
-    id: 163832
-    title: How can you find the minimum value of a quadratic function from its graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 related_article5:
-    id: 163833
-    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
+    id: 163840
+    title: >-
+        How can you identify key features such as intercepts and intersections from a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 ---
 
 &nbsp;

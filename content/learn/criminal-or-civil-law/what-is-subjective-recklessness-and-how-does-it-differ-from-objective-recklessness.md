@@ -2,8 +2,10 @@
 _schema: default
 id: 162173
 date: 2025-01-25
-title: What is subjective recklessness and how does it differ from objective recklessness?
-article_title: What is subjective recklessness and how does it differ from objective recklessness?
+title: >-
+    What is subjective recklessness and how does it differ from objective recklessness?
+article_title: >-
+    What is subjective recklessness and how does it differ from objective recklessness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/criminal-or-civil-law/questions/what-is-subjective-recklessness-and-
 score: -1.0
 related_article1:
     id: 162177
-    title: What distinguishes first degree murder from manslaughter in terms of legal classification?
+    title: >-
+        What distinguishes first degree murder from manslaughter in terms of legal classification?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
 related_article2:
-    id: 162187
-    title: What constitutes joint possession under possession laws?
+    id: 162199
+    title: >-
+        How do social norms influence moral blameworthiness in legal contexts?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-joint-possession-under-possession-laws
+    url: /learn/criminal-or-civil-law/questions/how-do-social-norms-influence-moral-blameworthiness-in-legal-contexts
 related_article3:
-    id: 162169
-    title: Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-minimal-causation-in-law-and-its-significance-in-determining-criminal-responsibility
-related_article4:
     id: 162177
-    title: What distinguishes first degree murder from manslaughter in terms of legal classification?
+    title: >-
+        What distinguishes first degree murder from manslaughter in terms of legal classification?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
-related_article5:
-    id: 162190
-    title: Explain the concept of willful blindness in the context of possession laws.
+related_article4:
+    id: 162182
+    title: >-
+        What responsibilities do medical professionals have in impacting legal outcomes related to medical treatment?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
+    url: /learn/criminal-or-civil-law/questions/what-responsibilities-do-medical-professionals-have-in-impacting-legal-outcomes-related-to-medical-treatment
+related_article5:
+    id: 162166
+    title: >-
+        What are the key medical indicators used to determine the cause of death?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-medical-indicators-used-to-determine-the-cause-of-death
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170388
 date: 2025-02-06
-title: What is the role of decomposers in the breakdown of organic material in the geosphere?
-article_title: What is the role of decomposers in the breakdown of organic material in the geosphere?
+title: >-
+    What is the role of decomposers in the breakdown of organic material in the geosphere?
+article_title: >-
+    What is the role of decomposers in the breakdown of organic material in the geosphere?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-
 url: /learn/biology/questions/what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-in-the-geosphere
 score: -1.0
 related_article1:
-    id: 170385
-    title: Why are keystone species important for ecosystem stability and the carbon cycle?
+    id: 170383
+    title: >-
+        Explain the composition of biomass and how it relates to living and formerly living material.
     subject: Biology
-    url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
+    url: /learn/biology/questions/explain-the-composition-of-biomass-and-how-it-relates-to-living-and-formerly-living-material
 related_article2:
+    id: 170380
+    title: >-
+        Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
+related_article3:
     id: 170379
-    title: What role does chlorophyll play in the conversion of light energy during photosynthesis?
+    title: >-
+        What role does chlorophyll play in the conversion of light energy during photosynthesis?
     subject: Biology
     url: /learn/biology/questions/what-role-does-chlorophyll-play-in-the-conversion-of-light-energy-during-photosynthesis
-related_article3:
-    id: 170386
-    title: What is marine snow, and how does it contribute to carbon transfer in marine environments?
-    subject: Biology
-    url: /learn/biology/questions/what-is-marine-snow-and-how-does-it-contribute-to-carbon-transfer-in-marine-environments
 related_article4:
-    id: 170385
-    title: Why are keystone species important for ecosystem stability and the carbon cycle?
-    subject: Biology
-    url: /learn/biology/questions/why-are-keystone-species-important-for-ecosystem-stability-and-the-carbon-cycle
-related_article5:
     id: 170377
-    title: What are the main interactions involved in the carbon exchange process within the carbon cycle?
+    title: >-
+        What are the main interactions involved in the carbon exchange process within the carbon cycle?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-interactions-involved-in-the-carbon-exchange-process-within-the-carbon-cycle
+related_article5:
+    id: 170392
+    title: >-
+        Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
 ---
 
 &nbsp;

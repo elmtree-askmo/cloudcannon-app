@@ -2,8 +2,10 @@
 _schema: default
 id: 164186
 date: 2025-01-28
-title: What are the challenges of multilingual processing in NLP?
-article_title: What are the challenges of multilingual processing in NLP?
+title: >-
+    What are the challenges of multilingual processing in NLP?
+article_title: >-
+    What are the challenges of multilingual processing in NLP?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-of-multilingual-processing-in-nlp.md
 url: /learn/others/questions/what-are-the-challenges-of-multilingual-processing-in-nlp
 score: -1.0
 related_article1:
-    id: 164174
-    title: Differentiate between batch processing and real-time processing in data processing.
+    id: 164172
+    title: >-
+        What are the main challenges associated with knowledge transfer?
     subject: Others
-    url: /learn/others/questions/differentiate-between-batch-processing-and-realtime-processing-in-data-processing
+    url: /learn/others/questions/what-are-the-main-challenges-associated-with-knowledge-transfer
 related_article2:
-    id: 164175
-    title: What are the applications of digital signal processing?
+    id: 164178
+    title: >-
+        Describe a common use case for clustering in unsupervised learning.
     subject: Others
-    url: /learn/others/questions/what-are-the-applications-of-digital-signal-processing
+    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
 related_article3:
+    id: 164183
+    title: >-
+        How do forecasting models contribute to predictive analysis?
+    subject: Others
+    url: /learn/others/questions/how-do-forecasting-models-contribute-to-predictive-analysis
+related_article4:
     id: 164167
-    title: Explain the significance of operating systems in software systems.
+    title: >-
+        Explain the significance of operating systems in software systems.
     subject: Others
     url: /learn/others/questions/explain-the-significance-of-operating-systems-in-software-systems
-related_article4:
-    id: 164180
-    title: How do search algorithms contribute to AI algorithms?
-    subject: Others
-    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
 related_article5:
-    id: 164164
-    title: What are the primary functions of processors and memory in hardware components?
+    id: 164157
+    title: >-
+        What are the key considerations for ensuring data quality during data collection?
     subject: Others
-    url: /learn/others/questions/what-are-the-primary-functions-of-processors-and-memory-in-hardware-components
+    url: /learn/others/questions/what-are-the-key-considerations-for-ensuring-data-quality-during-data-collection
 ---
 
 &nbsp;

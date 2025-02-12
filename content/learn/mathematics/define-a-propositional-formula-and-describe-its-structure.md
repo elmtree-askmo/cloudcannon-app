@@ -2,8 +2,10 @@
 _schema: default
 id: 170254
 date: 2025-02-06
-title: Define a propositional formula and describe its structure.
-article_title: Define a propositional formula and describe its structure.
+title: >-
+    Define a propositional formula and describe its structure.
+article_title: >-
+    Define a propositional formula and describe its structure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-a-propositional-formula-and-describe-its-structure.md
 url: /learn/mathematics/questions/define-a-propositional-formula-and-describe-its-structure
 score: -1.0
 related_article1:
-    id: 170243
-    title: What is the role of order of precedence in resolving logical operators?
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-order-of-precedence-in-resolving-logical-operators
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
 related_article2:
-    id: 170250
-    title: Why are logical equivalencies important in propositional logic?
+    id: 170256
+    title: >-
+        List the operators by precedence and explain their application in logical expressions.
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-logical-equivalencies-important-in-propositional-logic
+    url: /learn/mathematics/questions/list-the-operators-by-precedence-and-explain-their-application-in-logical-expressions
 related_article3:
+    id: 170238
+    title: >-
+        What distinguishes a proposition from a non-proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
+related_article4:
     id: 170255
-    title: How does the order of precedence affect the resolution of complex logical formulae?
+    title: >-
+        How does the order of precedence affect the resolution of complex logical formulae?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
-related_article4:
-    id: 170237
-    title: Define a proposition and provide an example.
-    subject: Mathematics
-    url: /learn/mathematics/questions/define-a-proposition-and-provide-an-example
 related_article5:
-    id: 170249
-    title: Define bi-implication and explain its truth table.
+    id: 170241
+    title: >-
+        Explain the concept of truth value in propositional logic.
     subject: Mathematics
-    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
+    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
 ---
 
 &nbsp;

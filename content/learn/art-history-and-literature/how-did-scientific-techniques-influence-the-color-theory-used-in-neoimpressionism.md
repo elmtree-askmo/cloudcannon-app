@@ -2,8 +2,10 @@
 _schema: default
 id: 170262
 date: 2025-02-06
-title: How did scientific techniques influence the color theory used in Neo-Impressionism?
-article_title: How did scientific techniques influence the color theory used in Neo-Impressionism?
+title: >-
+    How did scientific techniques influence the color theory used in Neo-Impressionism?
+article_title: >-
+    How did scientific techniques influence the color theory used in Neo-Impressionism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-scientific-techniques-influence-the-color-theory-used-in-neoi
 url: /learn/art-history-and-literature/questions/how-did-scientific-techniques-influence-the-color-theory-used-in-neoimpressionism
 score: 9.0
 related_article1:
+    id: 170263
+    title: >-
+        In what ways did Neo-Impressionist artists use geometric composition in their works?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-neoimpressionist-artists-use-geometric-composition-in-their-works
+related_article2:
     id: 170264
-    title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+    title: >-
+        How did Neo-Impressionism differ from Impressionism in terms of subject matter?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subject-matter
-related_article2:
+related_article3:
+    id: 170261
+    title: >-
+        What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
+related_article4:
+    id: 170273
+    title: >-
+        What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
+related_article5:
     id: 170270
-    title: How did Emile Bernard's depictions of rural life influence Neo-Impressionism?
+    title: >-
+        How did Emile Bernard's depictions of rural life influence Neo-Impressionism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-emile-bernards-depictions-of-rural-life-influence-neoimpressionism
-related_article3:
-    id: 170265
-    title: What were the main similarities and differences between Neo-Impressionism and Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-similarities-and-differences-between-neoimpressionism-and-impressionism
-related_article4:
-    id: 170268
-    title: How did political symbolism manifest in Neo-Impressionist artworks?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-political-symbolism-manifest-in-neoimpressionist-artworks
-related_article5:
-    id: 170272
-    title: How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-compare-with-other-art-movements-like-fauvism-and-postimpressionism
 ---
 
 &nbsp;

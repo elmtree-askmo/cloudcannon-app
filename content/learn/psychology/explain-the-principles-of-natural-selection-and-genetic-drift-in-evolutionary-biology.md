@@ -2,8 +2,10 @@
 _schema: default
 id: 170916
 date: 2025-02-07
-title: Explain the principles of natural selection and genetic drift in evolutionary biology.
-article_title: Explain the principles of natural selection and genetic drift in evolutionary biology.
+title: >-
+    Explain the principles of natural selection and genetic drift in evolutionary biology.
+article_title: >-
+    Explain the principles of natural selection and genetic drift in evolutionary biology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-principles-of-natural-selection-and-genetic-drift-in-evol
 url: /learn/psychology/questions/explain-the-principles-of-natural-selection-and-genetic-drift-in-evolutionary-biology
 score: -1.0
 related_article1:
-    id: 170918
-    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    id: 170924
+    title: >-
+        How do genetic sharing and sibling relationships influence behavior among full and half siblings?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+    url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
 related_article2:
-    id: 170923
-    title: Differentiate between innate and learned behaviors in animals.
-    subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
-related_article3:
-    id: 170921
-    title: How do genetic relationships impact gene flow and genetic drift in populations?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-relationships-impact-gene-flow-and-genetic-drift-in-populations
-related_article4:
     id: 170919
-    title: Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
+    title: >-
+        Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
     subject: Psychology
     url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
-related_article5:
+related_article3:
     id: 170911
-    title: Define inclusive fitness and explain its components.
+    title: >-
+        Define inclusive fitness and explain its components.
     subject: Psychology
     url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
+related_article4:
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article5:
+    id: 170909
+    title: >-
+        What is the role of gene-environment interaction in shaping behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-geneenvironment-interaction-in-shaping-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164937
 date: 2025-01-28
-title: What role do advocacy groups play in influencing policy?
-article_title: What role do advocacy groups play in influencing policy?
+title: >-
+    What role do advocacy groups play in influencing policy?
+article_title: >-
+    What role do advocacy groups play in influencing policy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-advocacy-groups-play-in-influencing-policy.md
 url: /learn/education-studies/questions/what-role-do-advocacy-groups-play-in-influencing-policy
 score: -1.0
 related_article1:
+    id: 164933
+    title: >-
+        What are the primary methods of data collection in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
+related_article2:
     id: 164936
-    title: What are the different types of questions used in surveys, and how can bias be avoided?
+    title: >-
+        What are the different types of questions used in surveys, and how can bias be avoided?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
-related_article2:
-    id: 164932
-    title: How can you evaluate the quality of a research article?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-evaluate-the-quality-of-a-research-article
 related_article3:
     id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    title: >-
+        What are some key strategies used in counterterrorism efforts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 related_article4:
-    id: 164935
-    title: How does question order affect survey design?
+    id: 164938
+    title: >-
+        What are the main types of advocacy groups and their focus areas?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-question-order-affect-survey-design
+    url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
 related_article5:
-    id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    id: 164943
+    title: >-
+        What historical events marked the rise and fall of communism?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
+    url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
 ---
 
 &nbsp;

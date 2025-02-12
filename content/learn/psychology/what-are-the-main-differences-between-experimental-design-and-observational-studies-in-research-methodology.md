@@ -2,8 +2,10 @@
 _schema: default
 id: 165078
 date: 2025-01-28
-title: What are the main differences between experimental design and observational studies in research methodology?
-article_title: What are the main differences between experimental design and observational studies in research methodology?
+title: >-
+    What are the main differences between experimental design and observational studies in research methodology?
+article_title: >-
+    What are the main differences between experimental design and observational studies in research methodology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-differences-between-experimental-design-and-observa
 url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
 score: -1.0
 related_article1:
-    id: 165069
-    title: How do you define and classify independent and dependent variables in a research study?
+    id: 165088
+    title: >-
+        What strategies can be used to address sample size limitations in research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
 related_article2:
-    id: 165075
-    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 related_article3:
-    id: 165070
-    title: What are the different measurement scales used for variables, and why is reliability and validity important?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
-related_article4:
     id: 165079
-    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    title: >-
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
     subject: Psychology
     url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
-related_article5:
-    id: 165081
-    title: What is the difference between qualitative and quantitative analysis in data interpretation?
+related_article4:
+    id: 165067
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+related_article5:
+    id: 165069
+    title: >-
+        How do you define and classify independent and dependent variables in a research study?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-you-define-and-classify-independent-and-dependent-variables-in-a-research-study
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165116
 date: 2025-01-28
-title: What are some common pitfalls in reporting experimental outcomes?
-article_title: What are some common pitfalls in reporting experimental outcomes?
+title: >-
+    What are some common pitfalls in reporting experimental outcomes?
+article_title: >-
+    What are some common pitfalls in reporting experimental outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-pitfalls-in-reporting-experimental-outcomes.md
 url: /learn/education-studies/questions/what-are-some-common-pitfalls-in-reporting-experimental-outcomes
 score: -1.0
 related_article1:
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
+related_article2:
     id: 165115
-    title: How can validity be ensured in research studies?
+    title: >-
+        How can validity be ensured in research studies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-studies
-related_article2:
-    id: 165099
-    title: What are the characteristics of nominal measurement types?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
 related_article3:
-    id: 165120
-    title: What are the biological and environmental factors affecting taste perception?
+    id: 165118
+    title: >-
+        What are the challenges in data interpretation and how can bias be overcome?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
+    url: /learn/education-studies/questions/what-are-the-challenges-in-data-interpretation-and-how-can-bias-be-overcome
 related_article4:
-    id: 165112
-    title: How can participant bias be mitigated in research studies?
+    id: 165102
+    title: >-
+        What are the key differences between between-subjects and within-subjects experimental designs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participant-bias-be-mitigated-in-research-studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
 related_article5:
-    id: 165100
-    title: Provide examples of ordinal measurement types and their characteristics.
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 ---
 
 &nbsp;

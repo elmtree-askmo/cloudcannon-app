@@ -2,8 +2,10 @@
 _schema: default
 id: 167978
 date: 2025-02-02
-title: How do individuals differentiate between reality and belief, and how does this influence behavior?
-article_title: How do individuals differentiate between reality and belief, and how does this influence behavior?
+title: >-
+    How do individuals differentiate between reality and belief, and how does this influence behavior?
+article_title: >-
+    How do individuals differentiate between reality and belief, and how does this influence behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-individuals-differentiate-between-reality-and-belief-and-how-d
 url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
 score: -1.0
 related_article1:
-    id: 167972
-    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    id: 167982
+    title: >-
+        How do cognitive processes differentiate between true and false beliefs?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
+    url: /learn/psychology/questions/how-do-cognitive-processes-differentiate-between-true-and-false-beliefs
 related_article2:
-    id: 167974
-    title: What cognitive milestones are associated with understanding mental states in child development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
-related_article3:
-    id: 167975
-    title: How does play contribute to social cognition development in children?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
-related_article4:
-    id: 167976
-    title: Explain the concept of mental state attribution in cognitive psychology.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-mental-state-attribution-in-cognitive-psychology
-related_article5:
     id: 167980
-    title: How does empathy and perspective taking contribute to interpersonal understanding?
+    title: >-
+        How does empathy and perspective taking contribute to interpersonal understanding?
     subject: Psychology
     url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+related_article3:
+    id: 167971
+    title: >-
+        At what age range does Theory of Mind typically develop in children, and what factors influence its development?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
+related_article4:
+    id: 167971
+    title: >-
+        At what age range does Theory of Mind typically develop in children, and what factors influence its development?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
+related_article5:
+    id: 167979
+    title: >-
+        What is the role of beliefs and desires in decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 ---
 
 &nbsp;

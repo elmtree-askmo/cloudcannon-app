@@ -2,8 +2,10 @@
 _schema: default
 id: 170946
 date: 2025-02-07
-title: How do fluorescent molecules function in fluorescence microscopy?
-article_title: How do fluorescent molecules function in fluorescence microscopy?
+title: >-
+    How do fluorescent molecules function in fluorescence microscopy?
+article_title: >-
+    How do fluorescent molecules function in fluorescence microscopy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-fluorescent-molecules-function-in-fluorescence-microscopy.md
 url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
 score: -1.0
 related_article1:
-    id: 170948
-    title: How does confocal microscopy achieve optical sectioning?
+    id: 170953
+    title: >-
+        What are some techniques used to overcome the physical constraints of microscopic resolution limits?
     subject: Biology
-    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
 related_article2:
-    id: 170948
-    title: How does confocal microscopy achieve optical sectioning?
+    id: 170953
+    title: >-
+        What are some techniques used to overcome the physical constraints of microscopic resolution limits?
     subject: Biology
-    url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
 related_article3:
-    id: 170942
-    title: What is the typical size range of cells that can be observed with the naked eye?
+    id: 170955
+    title: >-
+        How do fluorescence microscopy and confocal microscopy differ in their imaging capabilities?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+    url: /learn/biology/questions/how-do-fluorescence-microscopy-and-confocal-microscopy-differ-in-their-imaging-capabilities
 related_article4:
-    id: 170940
-    title: What are the key structural differences between bacterial and eukaryotic cells?
+    id: 170947
+    title: >-
+        What are the advantages of superresolution microscopy over conventional microscopy techniques?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
-related_article5:
-    id: 170943
-    title: How does light microscopy differ from electron microscopy in terms of resolution limits?
-    subject: Biology
-    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
+    url: /learn/biology/questions/what-are-the-advantages-of-superresolution-microscopy-over-conventional-microscopy-techniques
 ---
 
 &nbsp;

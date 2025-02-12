@@ -2,8 +2,10 @@
 _schema: default
 id: 170053
 date: 2025-02-05
-title: What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
-article_title: What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
+title: >-
+    What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
+article_title: >-
+    What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-environmental-impacts-of-resource-use-in-ancient-societ
 url: /learn/education-studies/questions/what-were-the-environmental-impacts-of-resource-use-in-ancient-societies-and-how-do-they-compare-to-modern-practices
 score: -1.0
 related_article1:
-    id: 170044
-    title: What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
+    id: 170035
+    title: >-
+        What are the differences between online resources and print articles when citing sources in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-defines-the-paleolithic-era-and-what-were-the-key-characteristics-of-tool-technology-during-this-time
+    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
 related_article2:
+    id: 170038
+    title: >-
+        How can you ensure that your paraphrasing maintains the original meaning of the text?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-you-ensure-that-your-paraphrasing-maintains-the-original-meaning-of-the-text
+related_article3:
     id: 170048
-    title: What factors influenced population density in pre-agricultural societies, and how did these change over time?
+    title: >-
+        What factors influenced population density in pre-agricultural societies, and how did these change over time?
     subject: Education Studies
     url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
-related_article3:
-    id: 170036
-    title: What is the importance of footnotes and references in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 related_article4:
-    id: 170047
-    title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+    id: 170050
+    title: >-
+        How did ancient societies manage resources to ensure sustainability and environmental balance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/how-did-ancient-societies-manage-resources-to-ensure-sustainability-and-environmental-balance
 related_article5:
-    id: 170049
-    title: What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
+    id: 170051
+    title: >-
+        What contributions did women make to food production and child-rearing in ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
+    url: /learn/education-studies/questions/what-contributions-did-women-make-to-food-production-and-childrearing-in-ancient-societies
 ---
 
 &nbsp;

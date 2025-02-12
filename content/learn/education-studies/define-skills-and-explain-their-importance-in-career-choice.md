@@ -2,8 +2,10 @@
 _schema: default
 id: 168456
 date: 2025-02-03
-title: Define skills and explain their importance in career choice.
-article_title: Define skills and explain their importance in career choice.
+title: >-
+    Define skills and explain their importance in career choice.
+article_title: >-
+    Define skills and explain their importance in career choice.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: define-skills-and-explain-their-importance-in-career-choice.md
 url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
 score: -1.0
 related_article1:
+    id: 168463
+    title: >-
+        What are some online resources available for career planning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
+related_article2:
+    id: 168464
+    title: >-
+        What are the general categories of skills and why are they important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-general-categories-of-skills-and-why-are-they-important
+related_article3:
     id: 168467
-    title: What is the significance of work values in career choices?
+    title: >-
+        What is the significance of work values in career choices?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-work-values-in-career-choices
-related_article2:
-    id: 168462
-    title: How can aligning skills and values with careers benefit career planning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
-related_article3:
-    id: 168460
-    title: How do personal traits influence career choice?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-personal-traits-influence-career-choice
 related_article4:
-    id: 168469
-    title: What is the role of media in shaping values?
+    id: 168468
+    title: >-
+        How can family and friends influence an individual's values?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
+    url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
 related_article5:
     id: 168469
-    title: What is the role of media in shaping values?
+    title: >-
+        What is the role of media in shaping values?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 163206
 date: 2025-01-26
-title: What does a Pearson correlation coefficient indicate in epidemiological studies?
-article_title: What does a Pearson correlation coefficient indicate in epidemiological studies?
+title: >-
+    What does a Pearson correlation coefficient indicate in epidemiological studies?
+article_title: >-
+    What does a Pearson correlation coefficient indicate in epidemiological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-does-a-pearson-correlation-coefficient-indicate-in-epidemiologic
 url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 score: -1.0
 related_article1:
-    id: 163204
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    id: 163321
+    title: >-
+        What are the strengths and limitations of ecological studies in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
 related_article2:
+    id: 163321
+    title: >-
+        What are the strengths and limitations of ecological studies in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+related_article3:
+    id: 162983
+    title: >-
+        Why is age-adjustment important when comparing mortality rates across different populations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
+related_article4:
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
+related_article5:
     id: 162989
-    title: What are the primary purposes of public health surveillance?
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
-related_article3:
-    id: 163317
-    title: How do epidemiologic questions contribute to public health interventions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
-related_article4:
-    id: 163309
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
-related_article5:
-    id: 163308
-    title: What are the primary purposes of descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164420
 date: 2025-01-28
-title: What role does competition and inhibition play in brain structure and emotional regulation?
-article_title: What role does competition and inhibition play in brain structure and emotional regulation?
+title: >-
+    What role does competition and inhibition play in brain structure and emotional regulation?
+article_title: >-
+    What role does competition and inhibition play in brain structure and emotional regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-competition-and-inhibition-play-in-brain-structure-and
 url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
 score: -1.0
 related_article1:
-    id: 164426
-    title: Which brain regions are involved in emotional regulation, and how do they manage stress?
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 related_article2:
-    id: 164425
-    title: How does stress affect cortisol levels and cognitive performance?
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 related_article3:
-    id: 164436
-    title: What are the cultural variations in diagnostic criteria for mental health?
+    id: 164435
+    title: >-
+        How do developmental stages affect executive functions in children?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
 related_article4:
-    id: 164431
-    title: Why is early language exposure important for vocabulary and grammar development?
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
 related_article5:
-    id: 164430
-    title: How do neural pathways influence competition and inhibition in cognitive processing?
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
 ---
 
 &nbsp;

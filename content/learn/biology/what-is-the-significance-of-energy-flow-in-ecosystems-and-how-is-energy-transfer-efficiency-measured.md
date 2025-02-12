@@ -2,8 +2,10 @@
 _schema: default
 id: 167759
 date: 2025-02-01
-title: What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
-article_title: What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+title: >-
+    What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
+article_title: >-
+    What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-ener
 url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
 score: -1.0
 related_article1:
-    id: 167749
-    title: Describe the biological species concept and how it differs from other species concepts.
+    id: 167743
+    title: >-
+        What is adaptation and why is it important in the process of evolution?
     subject: Biology
-    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
 related_article2:
-    id: 167747
-    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    id: 167742
+    title: >-
+        How does natural selection operate as a mechanism of evolution?
     subject: Biology
-    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
 related_article3:
     id: 167763
-    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    title: >-
+        What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
     subject: Biology
     url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
 related_article4:
-    id: 167748
-    title: What are the mechanisms of speciation and can you provide examples?
+    id: 167745
+    title: >-
+        What role does the fossil record play in understanding phylogeny and what are transitional fossils?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
+    url: /learn/biology/questions/what-role-does-the-fossil-record-play-in-understanding-phylogeny-and-what-are-transitional-fossils
 related_article5:
-    id: 167753
-    title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+    id: 167761
+    title: >-
+        Why is biodiversity important and what are the major threats to it?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
+    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
 ---
 
 &nbsp;

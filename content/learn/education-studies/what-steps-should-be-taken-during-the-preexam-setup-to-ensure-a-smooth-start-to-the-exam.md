@@ -2,8 +2,10 @@
 _schema: default
 id: 168217
 date: 2025-02-03
-title: What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
-article_title: What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+title: >-
+    What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+article_title: >-
+    What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smoot
 url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
 score: -1.0
 related_article1:
-    id: 168231
-    title: What strategies can be used to minimize distractions in the exam environment?
+    id: 168226
+    title: >-
+        How should students handle writing on exam sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
+    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
 related_article2:
-    id: 168220
-    title: How should time be managed effectively during an exam?
+    id: 168223
+    title: >-
+        What actions are prohibited when using response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
+    url: /learn/education-studies/questions/what-actions-are-prohibited-when-using-response-sheets
 related_article3:
     id: 168227
-    title: What should be included in pre-exam announcements to students?
+    title: >-
+        What should be included in pre-exam announcements to students?
     subject: Education Studies
     url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
 related_article4:
-    id: 168229
-    title: What instructions should be given to students after they submit their exams?
+    id: 168233
+    title: >-
+        What criteria are used in the grading rubric for assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
+    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
 related_article5:
-    id: 168231
-    title: What strategies can be used to minimize distractions in the exam environment?
+    id: 168223
+    title: >-
+        What actions are prohibited when using response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
+    url: /learn/education-studies/questions/what-actions-are-prohibited-when-using-response-sheets
 ---
 
 &nbsp;

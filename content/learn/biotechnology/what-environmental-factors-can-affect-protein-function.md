@@ -2,8 +2,10 @@
 _schema: default
 id: 166963
 date: 2025-01-31
-title: What environmental factors can affect protein function?
-article_title: What environmental factors can affect protein function?
+title: >-
+    What environmental factors can affect protein function?
+article_title: >-
+    What environmental factors can affect protein function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-environmental-factors-can-affect-protein-function.md
 url: /learn/biotechnology/questions/what-environmental-factors-can-affect-protein-function
 score: -1.0
 related_article1:
-    id: 166950
-    title: What are the general functions of proteins in biological systems?
+    id: 166965
+    title: >-
+        How do molecular chaperones assist in protein folding?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-general-functions-of-proteins-in-biological-systems
+    url: /learn/biotechnology/questions/how-do-molecular-chaperones-assist-in-protein-folding
 related_article2:
-    id: 166968
-    title: What is the difference between essential and non-essential amino acids?
+    id: 166966
+    title: >-
+        What is the role of the GroEL-GroES chaperone in protein folding?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-essential-and-nonessential-amino-acids
+    url: /learn/biotechnology/questions/what-is-the-role-of-the-groelgroes-chaperone-in-protein-folding
 related_article3:
-    id: 166967
-    title: How do hydrophilic and hydrophobic R-groups interact with water?
+    id: 166961
+    title: >-
+        How do multiple polypeptide chains contribute to the quaternary structure of proteins?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-hydrophilic-and-hydrophobic-rgroups-interact-with-water
+    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-contribute-to-the-quaternary-structure-of-proteins
 related_article4:
-    id: 166962
-    title: How does the size and shape of a protein influence its function?
+    id: 166951
+    title: >-
+        How do proteins contribute to enzyme catalysis?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-size-and-shape-of-a-protein-influence-its-function
-related_article5:
-    id: 166952
-    title: What is the fundamental structure of an amino acid?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-fundamental-structure-of-an-amino-acid
+    url: /learn/biotechnology/questions/how-do-proteins-contribute-to-enzyme-catalysis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166204
 date: 2025-01-29
-title: How do phylogenetic trees help in understanding evolutionary relationships?
-article_title: How do phylogenetic trees help in understanding evolutionary relationships?
+title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships?
+article_title: >-
+    How do phylogenetic trees help in understanding evolutionary relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-phylogenetic-trees-help-in-understanding-evolutionary-relation
 url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 score: -1.0
 related_article1:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
-related_article2:
-    id: 166183
-    title: How do carbohydrates and proteins differ in their roles within the body?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
-related_article3:
-    id: 166195
-    title: What evidence supports the concept of common ancestry among species?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-evidence-supports-the-concept-of-common-ancestry-among-species
-related_article4:
     id: 166179
-    title: What are the fundamental traits that define living organisms?
+    title: >-
+        What are the fundamental traits that define living organisms?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
-related_article5:
-    id: 166180
-    title: How do metabolism and homeostasis contribute to the biological processes of life?
+related_article2:
+    id: 166189
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
+    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+related_article3:
+    id: 166185
+    title: >-
+        What is the structure of a cell membrane and its function in cellular biology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
+related_article4:
+    id: 166193
+    title: >-
+        How does natural selection lead to adaptations in species?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+related_article5:
+    id: 166202
+    title: >-
+        How do human activities impact the environment and what are some conservation efforts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
 ---
 
 &nbsp;

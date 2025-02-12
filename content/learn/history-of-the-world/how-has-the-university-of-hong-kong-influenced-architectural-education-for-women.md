@@ -2,8 +2,10 @@
 _schema: default
 id: 169114
 date: 2025-02-04
-title: How has the University of Hong Kong influenced architectural education for women?
-article_title: How has the University of Hong Kong influenced architectural education for women?
+title: >-
+    How has the University of Hong Kong influenced architectural education for women?
+article_title: >-
+    How has the University of Hong Kong influenced architectural education for women?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-the-university-of-hong-kong-influenced-architectural-educatio
 url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 score: 9.0
 related_article1:
-    id: 169110
-    title: How did migration patterns affect gender inequality in Hong Kong's workforce?
+    id: 169112
+    title: >-
+        How have feminist archival methodologies contributed to the understanding of architectural histories?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
+    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
 related_article2:
-    id: 169107
-    title: How did postwar developments impact gendered labor dynamics in architecture?
+    id: 169116
+    title: >-
+        What are some challenges in the historical archiving of women's work in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
 related_article3:
-    id: 169118
-    title: What are the effects of transnational capitalism on gender dynamics in architecture?
+    id: 169122
+    title: >-
+        What are some common stereotypes about women in architecture portrayed in media?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
 related_article4:
     id: 169115
-    title: What challenges do female students and faculty face in architectural education?
+    title: >-
+        What challenges do female students and faculty face in architectural education?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
 related_article5:
-    id: 169110
-    title: How did migration patterns affect gender inequality in Hong Kong's workforce?
+    id: 169121
+    title: >-
+        How is interior design considered a gendered field within architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
+    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
 ---
 
 &nbsp;

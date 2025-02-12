@@ -2,8 +2,10 @@
 _schema: default
 id: 166008
 date: 2025-01-29
-title: How do myths explain natural phenomena and serve as etiological narratives?
-article_title: How do myths explain natural phenomena and serve as etiological narratives?
+title: >-
+    How do myths explain natural phenomena and serve as etiological narratives?
+article_title: >-
+    How do myths explain natural phenomena and serve as etiological narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-do-myths-explain-natural-phenomena-a
 score: -1.0
 related_article1:
     id: 166003
-    title: What are the primary differences between literary sources and inscriptions as ancient texts?
+    title: >-
+        What are the primary differences between literary sources and inscriptions as ancient texts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
 related_article2:
-    id: 166003
-    title: What are the primary differences between literary sources and inscriptions as ancient texts?
+    id: 166009
+    title: >-
+        In what ways did the Renaissance influence the reception of classical myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
+    url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
 related_article3:
-    id: 166016
-    title: What were the key factors in the expansion and influence of the Roman Empire?
+    id: 166011
+    title: >-
+        What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-factors-in-the-expansion-and-influence-of-the-roman-empire
+    url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
 related_article4:
     id: 166015
-    title: How did the city-states and the Olympic Games shape Greek civilization?
+    title: >-
+        How did the city-states and the Olympic Games shape Greek civilization?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-citystates-and-the-olympic-games-shape-greek-civilization
 related_article5:
-    id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    id: 166015
+    title: >-
+        How did the city-states and the Olympic Games shape Greek civilization?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
+    url: /learn/education-studies/questions/how-did-the-citystates-and-the-olympic-games-shape-greek-civilization
 ---
 
 &nbsp;

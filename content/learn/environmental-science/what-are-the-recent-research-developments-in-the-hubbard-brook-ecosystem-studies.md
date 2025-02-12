@@ -2,8 +2,10 @@
 _schema: default
 id: 169989
 date: 2025-02-05
-title: What are the recent research developments in the Hubbard Brook Ecosystem studies?
-article_title: What are the recent research developments in the Hubbard Brook Ecosystem studies?
+title: >-
+    What are the recent research developments in the Hubbard Brook Ecosystem studies?
+article_title: >-
+    What are the recent research developments in the Hubbard Brook Ecosystem studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-recent-research-developments-in-the-hubbard-brook-ecosys
 url: /learn/environmental-science/questions/what-are-the-recent-research-developments-in-the-hubbard-brook-ecosystem-studies
 score: -1.0
 related_article1:
-    id: 169985
-    title: How does climate change affect biodiversity in forest ecosystems?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/how-does-climate-change-affect-biodiversity-in-forest-ecosystems
-related_article2:
-    id: 169984
-    title: What are the key components of experimental design in ecological research?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-key-components-of-experimental-design-in-ecological-research
-related_article3:
     id: 169982
-    title: How do carbon and nitrogen cycles contribute to ecosystem productivity?
+    title: >-
+        How do carbon and nitrogen cycles contribute to ecosystem productivity?
     subject: Environmental Science
     url: /learn/environmental-science/questions/how-do-carbon-and-nitrogen-cycles-contribute-to-ecosystem-productivity
+related_article2:
+    id: 169981
+    title: >-
+        What is cultural eutrophication, and what are its primary causes?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
+related_article3:
+    id: 169986
+    title: >-
+        What techniques are used for hydrological measurements in environmental science?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-techniques-are-used-for-hydrological-measurements-in-environmental-science
 related_article4:
     id: 169981
-    title: What is cultural eutrophication, and what are its primary causes?
+    title: >-
+        What is cultural eutrophication, and what are its primary causes?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
 related_article5:
-    id: 169974
-    title: How does the Hubbard Brook Ecosystem contribute to long-term ecological research?
+    id: 169975
+    title: >-
+        What are the effects of global climate change on the seasonal variations of water temperature in freshwater lakes?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/how-does-the-hubbard-brook-ecosystem-contribute-to-longterm-ecological-research
+    url: /learn/environmental-science/questions/what-are-the-effects-of-global-climate-change-on-the-seasonal-variations-of-water-temperature-in-freshwater-lakes
 ---
 
 &nbsp;

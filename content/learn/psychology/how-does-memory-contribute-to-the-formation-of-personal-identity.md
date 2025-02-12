@@ -2,8 +2,10 @@
 _schema: default
 id: 164502
 date: 2025-01-28
-title: How does memory contribute to the formation of personal identity?
-article_title: How does memory contribute to the formation of personal identity?
+title: >-
+    How does memory contribute to the formation of personal identity?
+article_title: >-
+    How does memory contribute to the formation of personal identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-memory-contribute-to-the-formation-of-personal-identity.md
 url: /learn/psychology/questions/how-does-memory-contribute-to-the-formation-of-personal-identity
 score: -1.0
 related_article1:
-    id: 164494
-    title: How do repetition and practice influence memory retention?
+    id: 164498
+    title: >-
+        What are the effects of brain damage on memory, and what rehabilitation strategies are available?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
+    url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-memory-and-what-rehabilitation-strategies-are-available
 related_article2:
-    id: 164495
-    title: What are some effective techniques to improve memory retention?
+    id: 164505
+    title: >-
+        What are the causes of memory impairment, and how can they be addressed?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+    url: /learn/psychology/questions/what-are-the-causes-of-memory-impairment-and-how-can-they-be-addressed
 related_article3:
-    id: 164485
-    title: What are the key findings from studies on explicit memory?
+    id: 164479
+    title: >-
+        What are the main differences between retrograde and anterograde amnesia?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+    url: /learn/psychology/questions/what-are-the-main-differences-between-retrograde-and-anterograde-amnesia
 related_article4:
-    id: 164492
-    title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+    id: 164503
+    title: >-
+        What is the impact of memory loss on identity, and what coping mechanisms are available?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
+    url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
 related_article5:
-    id: 164487
-    title: How do biological factors affect memory formation?
+    id: 164506
+    title: >-
+        What are the key brain regions involved in memory, and what are their functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
 ---
 
 &nbsp;

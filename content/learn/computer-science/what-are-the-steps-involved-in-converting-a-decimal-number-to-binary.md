@@ -2,8 +2,10 @@
 _schema: default
 id: 165707
 date: 2025-01-29
-title: What are the steps involved in converting a decimal number to binary?
-article_title: What are the steps involved in converting a decimal number to binary?
+title: >-
+    What are the steps involved in converting a decimal number to binary?
+article_title: >-
+    What are the steps involved in converting a decimal number to binary?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: what-are-the-steps-involved-in-converting-a-decimal-number-to-binary.
 url: /learn/computer-science/questions/what-are-the-steps-involved-in-converting-a-decimal-number-to-binary
 score: -1.0
 related_article1:
-    id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+    id: 165708
+    title: >-
+        Describe the 32-bit structure of an IPv4 address and its division into octets.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
+    url: /learn/computer-science/questions/describe-the-32bit-structure-of-an-ipv4-address-and-its-division-into-octets
 related_article2:
-    id: 165705
-    title: Explain the significance of base 2 digits in the binary number system.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits-in-the-binary-number-system
-related_article3:
-    id: 165712
-    title: What is a network address and how is it represented when the host portion is all 0s?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
-related_article4:
     id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
+    title: >-
+        What is the binary representation of a subnet mask and how does it divide the network and host portions?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
-related_article5:
-    id: 165718
-    title: What are the configuration steps for static IP address assignment?
+related_article3:
+    id: 165715
+    title: >-
+        What is unicast addressing and in what scenarios is it typically used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
+    url: /learn/computer-science/questions/what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
 ---
 
 &nbsp;

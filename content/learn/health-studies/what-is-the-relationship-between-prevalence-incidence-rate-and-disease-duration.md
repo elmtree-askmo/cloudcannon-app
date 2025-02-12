@@ -2,8 +2,10 @@
 _schema: default
 id: 163336
 date: 2025-01-26
-title: What is the relationship between prevalence, incidence rate, and disease duration?
-article_title: What is the relationship between prevalence, incidence rate, and disease duration?
+title: >-
+    What is the relationship between prevalence, incidence rate, and disease duration?
+article_title: >-
+    What is the relationship between prevalence, incidence rate, and disease duration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-prevalence-incidence-rate-and-diseas
 url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
 score: -1.0
 related_article1:
-    id: 163334
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163071
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 related_article2:
-    id: 163334
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163345
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
 related_article3:
-    id: 163073
-    title: How is person-years of observation calculated, and why is it important in dynamic populations?
+    id: 163340
+    title: >-
+        What is the difference between absolute and relative measures of association?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
+    url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
 related_article4:
-    id: 163230
-    title: What is a rate in epidemiology, and how can it be misunderstood?
+    id: 163063
+    title: >-
+        Why is the denominator important in measures of disease frequency, and how can it vary across populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
+    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
 related_article5:
-    id: 163070
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163325
+    title: >-
+        What is the difference between fixed and dynamic populations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
 ---
 
 &nbsp;

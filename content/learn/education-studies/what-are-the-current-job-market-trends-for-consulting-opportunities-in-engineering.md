@@ -2,8 +2,10 @@
 _schema: default
 id: 166714
 date: 2025-01-31
-title: What are the current job market trends for consulting opportunities in engineering?
-article_title: What are the current job market trends for consulting opportunities in engineering?
+title: >-
+    What are the current job market trends for consulting opportunities in engineering?
+article_title: >-
+    What are the current job market trends for consulting opportunities in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-current-job-market-trends-f
 score: -1.0
 related_article1:
     id: 166708
-    title: What are the requirements for obtaining a certification for consulting in engineering?
+    title: >-
+        What are the requirements for obtaining a certification for consulting in engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
 related_article2:
-    id: 166717
-    title: How is robotics automation being integrated with AI, and what are its future prospects?
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-robotics-automation-being-integrated-with-ai-and-what-are-its-future-prospects
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article3:
-    id: 166719
-    title: How do engineering organizations support networking and professional development?
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article4:
-    id: 166701
-    title: Explain the concept of torque and its importance in engineering.
+    id: 166716
+    title: >-
+        What are some current trends in artificial intelligence research?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
+    url: /learn/education-studies/questions/what-are-some-current-trends-in-artificial-intelligence-research
 related_article5:
-    id: 166699
-    title: Define the moment of force and explain how it is calculated.
+    id: 166708
+    title: >-
+        What are the requirements for obtaining a certification for consulting in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
+    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
 ---
 
 &nbsp;

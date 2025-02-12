@@ -2,8 +2,10 @@
 _schema: default
 id: 168410
 date: 2025-02-03
-title: What are the key transformations to identify when analyzing function graphs?
-article_title: What are the key transformations to identify when analyzing function graphs?
+title: >-
+    What are the key transformations to identify when analyzing function graphs?
+article_title: >-
+    What are the key transformations to identify when analyzing function graphs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-transformations-to-identify-when-analyzing-function-
 url: /learn/mathematics/questions/what-are-the-key-transformations-to-identify-when-analyzing-function-graphs
 score: -1.0
 related_article1:
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article2:
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
+related_article3:
     id: 168408
-    title: What is the difference between the outputs of an original function and its transformed version?
+    title: >-
+        What is the difference between the outputs of an original function and its transformed version?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-difference-between-the-outputs-of-an-original-function-and-its-transformed-version
-related_article2:
-    id: 168406
-    title: What is the role of input-output tables in evaluating function models?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
-related_article3:
-    id: 168403
-    title: What are parent functions, and can you give an example of a quadratic parent function?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 related_article4:
-    id: 168415
-    title: What are the general rules for function transformations, including reflection?
+    id: 168409
+    title: >-
+        How do you plot a quadratic function on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
 related_article5:
-    id: 168399
-    title: What is the graphical representation of a reflection about the x-axis?
+    id: 168398
+    title: >-
+        How does a reflection over the x-axis affect the graph of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-graphical-representation-of-a-reflection-about-the-xaxis
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-affect-the-graph-of-a-function
 ---
 
 &nbsp;

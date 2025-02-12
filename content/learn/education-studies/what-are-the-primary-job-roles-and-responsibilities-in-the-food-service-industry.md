@@ -2,8 +2,10 @@
 _schema: default
 id: 168491
 date: 2025-02-03
-title: What are the primary job roles and responsibilities in the food service industry?
-article_title: What are the primary job roles and responsibilities in the food service industry?
+title: >-
+    What are the primary job roles and responsibilities in the food service industry?
+article_title: >-
+    What are the primary job roles and responsibilities in the food service industry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-job-roles-and-responsibilities-in-the-food-servi
 url: /learn/education-studies/questions/what-are-the-primary-job-roles-and-responsibilities-in-the-food-service-industry
 score: -1.0
 related_article1:
-    id: 168500
-    title: What problem-solving and reasoning skills are necessary for technology-related job roles?
+    id: 168501
+    title: >-
+        How do financial processes and analysis contribute to career opportunities in the business and finance cluster?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-problemsolving-and-reasoning-skills-are-necessary-for-technologyrelated-job-roles
+    url: /learn/education-studies/questions/how-do-financial-processes-and-analysis-contribute-to-career-opportunities-in-the-business-and-finance-cluster
 related_article2:
-    id: 168503
-    title: What skills are necessary for effective product and service promotion in sales and marketing?
+    id: 168511
+    title: >-
+        What are the main responsibilities and skills required for teaching and social service roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-are-necessary-for-effective-product-and-service-promotion-in-sales-and-marketing
+    url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
 related_article3:
-    id: 168503
-    title: What skills are necessary for effective product and service promotion in sales and marketing?
+    id: 168494
+    title: >-
+        What are the career opportunities available in the medical field?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-are-necessary-for-effective-product-and-service-promotion-in-sales-and-marketing
+    url: /learn/education-studies/questions/what-are-the-career-opportunities-available-in-the-medical-field
 related_article4:
-    id: 168502
-    title: What are the key responsibilities of administrative duties in a business setting?
+    id: 168510
+    title: >-
+        What interpersonal and communication skills are necessary for success in sales roles, and what career opportunities are available?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-administrative-duties-in-a-business-setting
+    url: /learn/education-studies/questions/what-interpersonal-and-communication-skills-are-necessary-for-success-in-sales-roles-and-what-career-opportunities-are-available
 related_article5:
-    id: 168497
-    title: What are the characteristics of systematic work preferences, and what career options are suitable for individuals with these preferences?
+    id: 168511
+    title: >-
+        What are the main responsibilities and skills required for teaching and social service roles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-systematic-work-preferences-and-what-career-options-are-suitable-for-individuals-with-these-preferences
+    url: /learn/education-studies/questions/what-are-the-main-responsibilities-and-skills-required-for-teaching-and-social-service-roles
 ---
 
 &nbsp;

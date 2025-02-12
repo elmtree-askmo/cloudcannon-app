@@ -2,8 +2,10 @@
 _schema: default
 id: 162538
 date: 2025-01-25
-title: How do you apply combined translations to a geometric figure?
-article_title: How do you apply combined translations to a geometric figure?
+title: >-
+    How do you apply combined translations to a geometric figure?
+article_title: >-
+    How do you apply combined translations to a geometric figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/how-do-you-apply-combined-translations-to-a-ge
 score: -1.0
 related_article1:
     id: 162295
-    title: How can graphs be used to verify translations?
+    title: >-
+        How can graphs be used to verify translations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
 related_article2:
-    id: 162541
-    title: What patterns can be observed in vertical translations?
+    id: 162535
+    title: >-
+        What is a translation in the context of geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
 related_article3:
-    id: 162293
-    title: How do you add and subtract coordinates to achieve directional movement in translations?
+    id: 162283
+    title: >-
+        How do coordinates change during horizontal translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
+    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
 related_article4:
-    id: 162290
-    title: What is an example of a vertical translation?
+    id: 162543
+    title: >-
+        What changes occur in coordinates during vertical translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-an-example-of-a-vertical-translation
+    url: /learn/mathematics/questions/what-changes-occur-in-coordinates-during-vertical-translations
 related_article5:
-    id: 162291
-    title: How do you perform a horizontal translation on a geometric figure?
+    id: 162295
+    title: >-
+        How can graphs be used to verify translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-perform-a-horizontal-translation-on-a-geometric-figure
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
 ---
 
 &nbsp;

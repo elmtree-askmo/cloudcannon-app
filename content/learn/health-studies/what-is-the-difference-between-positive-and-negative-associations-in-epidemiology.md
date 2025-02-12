@@ -2,8 +2,10 @@
 _schema: default
 id: 163323
 date: 2025-01-26
-title: What is the difference between positive and negative associations in epidemiology?
-article_title: What is the difference between positive and negative associations in epidemiology?
+title: >-
+    What is the difference between positive and negative associations in epidemiology?
+article_title: >-
+    What is the difference between positive and negative associations in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-positive-and-negative-associations-in-
 url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
 score: -1.0
 related_article1:
-    id: 162983
-    title: Why is age-adjustment important when comparing mortality rates across different populations?
+    id: 163311
+    title: >-
+        How are age-specific rates calculated and why are they important?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
+    url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
 related_article2:
-    id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+    id: 163205
+    title: >-
+        How do positive and negative associations differ in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
 related_article3:
-    id: 162987
-    title: How do outbreaks differ from epidemics in terms of their definitions?
+    id: 162988
+    title: >-
+        What is the role of public health surveillance in responding to outbreaks?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
 related_article4:
-    id: 163324
-    title: How is the Pearson correlation coefficient used in epidemiology?
+    id: 163151
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article5:
-    id: 162986
-    title: What role do epidemiologic questions play in generating public health hypotheses?
+    id: 163314
+    title: >-
+        Why are age-adjusted rates important in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
+    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170268
 date: 2025-02-06
-title: How did political symbolism manifest in Neo-Impressionist artworks?
-article_title: How did political symbolism manifest in Neo-Impressionist artworks?
+title: >-
+    How did political symbolism manifest in Neo-Impressionist artworks?
+article_title: >-
+    How did political symbolism manifest in Neo-Impressionist artworks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-political-symbolism-manifest-in-neoimpressionist-artworks.md
 url: /learn/art-history-and-literature/questions/how-did-political-symbolism-manifest-in-neoimpressionist-artworks
 score: 9.0
 related_article1:
-    id: 170272
-    title: How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
+    id: 170260
+    title: >-
+        How did Georges Seurat contribute to the development of Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-compare-with-other-art-movements-like-fauvism-and-postimpressionism
+    url: /learn/art-history-and-literature/questions/how-did-georges-seurat-contribute-to-the-development-of-neoimpressionism
 related_article2:
-    id: 170259
-    title: What were the key factors that led to the emergence of Neo-Impressionism in Paris?
+    id: 170271
+    title: >-
+        What themes did Paul Signac explore in his works, and how did his style evolve over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-factors-that-led-to-the-emergence-of-neoimpressionism-in-paris
+    url: /learn/art-history-and-literature/questions/what-themes-did-paul-signac-explore-in-his-works-and-how-did-his-style-evolve-over-time
 related_article3:
-    id: 170265
-    title: What were the main similarities and differences between Neo-Impressionism and Impressionism?
+    id: 170267
+    title: >-
+        What social classes were represented in Neo-Impressionist art, and how were they depicted?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-similarities-and-differences-between-neoimpressionism-and-impressionism
+    url: /learn/art-history-and-literature/questions/what-social-classes-were-represented-in-neoimpressionist-art-and-how-were-they-depicted
 related_article4:
+    id: 170271
+    title: >-
+        What themes did Paul Signac explore in his works, and how did his style evolve over time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-themes-did-paul-signac-explore-in-his-works-and-how-did-his-style-evolve-over-time
+related_article5:
     id: 170273
-    title: What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
+    title: >-
+        What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
-related_article5:
-    id: 170272
-    title: How did Neo-Impressionism compare with other art movements like Fauvism and Post-Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-compare-with-other-art-movements-like-fauvism-and-postimpressionism
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161554
 date: 2025-01-24
-title: What are the key characteristics of mainframe computers?
-article_title: What are the key characteristics of mainframe computers?
+title: >-
+    What are the key characteristics of mainframe computers?
+article_title: >-
+    What are the key characteristics of mainframe computers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-mainframe-computers.md
 url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
 score: -1.0
 related_article1:
+    id: 161296
+    title: >-
+        How is FLOPS used to evaluate supercomputer performance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-flops-used-to-evaluate-supercomputer-performance
+related_article2:
+    id: 161546
+    title: >-
+        What is the role of device drivers in system software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+related_article3:
+    id: 161542
+    title: >-
+        What is the function of failover mechanisms in mainframe fault tolerance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
+related_article4:
+    id: 161539
+    title: >-
+        Why is disaster recovery an essential component of physical security in computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-component-of-physical-security-in-computing
+related_article5:
     id: 161291
-    title: What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
-related_article2:
-    id: 161542
-    title: What is the function of failover mechanisms in mainframe fault tolerance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
-related_article3:
-    id: 161311
-    title: How do supercomputers differ in their uses compared to mainframe computers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
-related_article4:
-    id: 161297
-    title: What is the function of failover mechanisms in mainframe fault tolerance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
-related_article5:
-    id: 161649
-    title: What is the purpose of encryption in access control?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
 ---
 
 &nbsp;

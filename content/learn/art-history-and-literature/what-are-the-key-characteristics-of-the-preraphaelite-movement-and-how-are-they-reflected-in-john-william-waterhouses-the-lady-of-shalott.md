@@ -2,8 +2,10 @@
 _schema: default
 id: 165973
 date: 2025-01-29
-title: What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
-article_title: What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+title: >-
+    What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+article_title: >-
+    What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/what-are-the-key-characteristic
 score: 9.0
 related_article1:
     id: 165964
-    title: In what ways did artists intellectually engage with industrial innovations and societal changes?
+    title: >-
+        In what ways did artists intellectually engage with industrial innovations and societal changes?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-artists-intellectually-engage-with-industrial-innovations-and-societal-changes
 related_article2:
-    id: 165970
-    title: How did artists respond to political systems through their depiction of social realities?
+    id: 165975
+    title: >-
+        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
+    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
 related_article3:
-    id: 165971
-    title: What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+    id: 165967
+    title: >-
+        What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
+    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
 related_article4:
-    id: 165968
-    title: How did the rise of social consciousness during the Industrial Revolution influence art?
+    id: 165966
+    title: >-
+        How did the Pre-Raphaelite movement oppose the academic style of its time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
+    url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
 related_article5:
-    id: 165972
-    title: How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
+    id: 165965
+    title: >-
+        What are the key characteristics of Realism and how do they differ from Romanticism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
 ---
 
 &nbsp;

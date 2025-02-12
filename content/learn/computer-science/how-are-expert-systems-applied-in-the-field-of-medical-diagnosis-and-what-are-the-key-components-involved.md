@@ -2,8 +2,10 @@
 _schema: default
 id: 161411
 date: 2025-01-24
-title: How are expert systems applied in the field of medical diagnosis, and what are the key components involved?
-article_title: How are expert systems applied in the field of medical diagnosis, and what are the key components involved?
+title: >-
+    How are expert systems applied in the field of medical diagnosis, and what are the key components involved?
+article_title: >-
+    How are expert systems applied in the field of medical diagnosis, and what are the key components involved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-expert-systems-applied-in-the-field-of-medical-diagnosis-and-
 url: /learn/computer-science/questions/how-are-expert-systems-applied-in-the-field-of-medical-diagnosis-and-what-are-the-key-components-involved
 score: -1.0
 related_article1:
-    id: 161402
-    title: Explain the process of forward chaining and provide an example of its application.
+    id: 161399
+    title: >-
+        Differentiate between factual knowledge and heuristic knowledge in the context of a knowledge base.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-of-forward-chaining-and-provide-an-example-of-its-application
+    url: /learn/computer-science/questions/differentiate-between-factual-knowledge-and-heuristic-knowledge-in-the-context-of-a-knowledge-base
 related_article2:
-    id: 161400
-    title: What is the role of the inference engine in an expert system, and how does it utilize inference rules?
+    id: 161211
+    title: >-
+        Differentiate between factual knowledge and heuristic knowledge in the context of a knowledge base.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-inference-engine-in-an-expert-system-and-how-does-it-utilize-inference-rules
+    url: /learn/computer-science/questions/differentiate-between-factual-knowledge-and-heuristic-knowledge-in-the-context-of-a-knowledge-base
 related_article3:
-    id: 161398
-    title: Identify the main components of an expert system and briefly describe their roles.
+    id: 161218
+    title: >-
+        Describe the process of backward chaining and give an example of where it might be used.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-process-of-backward-chaining-and-give-an-example-of-where-it-might-be-used
+related_article4:
+    id: 161209
+    title: >-
+        Identify the main components of an expert system and briefly describe their roles.
     subject: Computer Science
     url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-roles
-related_article4:
-    id: 161215
-    title: Explain the process of forward chaining and provide an example of its application.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-of-forward-chaining-and-provide-an-example-of-its-application
 related_article5:
-    id: 161409
-    title: Discuss two disadvantages of expert systems concerning training and costs.
+    id: 161208
+    title: >-
+        What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
     subject: Computer Science
-    url: /learn/computer-science/questions/discuss-two-disadvantages-of-expert-systems-concerning-training-and-costs
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
 ---
 
 &nbsp;

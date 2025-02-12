@@ -2,8 +2,10 @@
 _schema: default
 id: 163763
 date: 2025-01-27
-title: What is the general form of an exponential function and how does it differ from a linear function?
-article_title: What is the general form of an exponential function and how does it differ from a linear function?
+title: >-
+    What is the general form of an exponential function and how does it differ from a linear function?
+article_title: >-
+    What is the general form of an exponential function and how does it differ from a linear function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-general-form-of-an-exponential-function-and-how-does-it-d
 url: /learn/mathematics/questions/what-is-the-general-form-of-an-exponential-function-and-how-does-it-differ-from-a-linear-function
 score: -1.0
 related_article1:
+    id: 163782
+    title: >-
+        What method can be used to write the equation of an exponential function when the y-intercept is not given?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
+related_article2:
     id: 163784
-    title: Explain the negative exponent rule and provide an example.
+    title: >-
+        Explain the negative exponent rule and provide an example.
     subject: Mathematics
     url: /learn/mathematics/questions/explain-the-negative-exponent-rule-and-provide-an-example
-related_article2:
-    id: 163778
-    title: What is a real-world example of exponential decay, and how is it mathematically represented?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
 related_article3:
-    id: 163766
-    title: What steps are involved in graphing an exponential function using a table of values?
+    id: 163789
+    title: >-
+        Describe a method for solving real-world problems using exponential models.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
+    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
 related_article4:
-    id: 163787
-    title: What are the key differences between the equations of linear and exponential functions?
+    id: 163782
+    title: >-
+        What method can be used to write the equation of an exponential function when the y-intercept is not given?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-between-the-equations-of-linear-and-exponential-functions
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
 related_article5:
-    id: 163765
-    title: How does the constant multiplier effect influence the behavior of an exponential function?
+    id: 163782
+    title: >-
+        What method can be used to write the equation of an exponential function when the y-intercept is not given?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-constant-multiplier-effect-influence-the-behavior-of-an-exponential-function
+    url: /learn/mathematics/questions/what-method-can-be-used-to-write-the-equation-of-an-exponential-function-when-the-yintercept-is-not-given
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165429
 date: 2025-01-29
-title: How does regular calibration of equipment impact measurement results?
-article_title: How does regular calibration of equipment impact measurement results?
+title: >-
+    How does regular calibration of equipment impact measurement results?
+article_title: >-
+    How does regular calibration of equipment impact measurement results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-regular-calibration-of-equipment-impact-measurement-results.
 url: /learn/education-studies/questions/how-does-regular-calibration-of-equipment-impact-measurement-results
 score: -1.0
 related_article1:
-    id: 165431
-    title: How are positive exponents used in expressing large numbers in scientific notation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
-related_article2:
-    id: 165431
-    title: How are positive exponents used in expressing large numbers in scientific notation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
-related_article3:
-    id: 165432
-    title: How are negative exponents used in expressing small numbers in scientific notation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
-related_article4:
     id: 165425
-    title: What are the smallest units marked on a metric ruler, and how are they used in measurement?
+    title: >-
+        What are the smallest units marked on a metric ruler, and how are they used in measurement?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-smallest-units-marked-on-a-metric-ruler-and-how-are-they-used-in-measurement
-related_article5:
-    id: 165418
-    title: What is the basic formula for converting units, and how is the conversion factor used?
+related_article2:
+    id: 165421
+    title: >-
+        Explain how scientific notation is applied to small numbers using negative exponents.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-basic-formula-for-converting-units-and-how-is-the-conversion-factor-used
+    url: /learn/education-studies/questions/explain-how-scientific-notation-is-applied-to-small-numbers-using-negative-exponents
+related_article3:
+    id: 165426
+    title: >-
+        What are the volume ranges for P20, P200, and P1000 mechanical pipettes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-volume-ranges-for-p20-p200-and-p1000-mechanical-pipettes
+related_article4:
+    id: 165420
+    title: >-
+        How is scientific notation used to express large numbers, and what role do positive exponents play?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-scientific-notation-used-to-express-large-numbers-and-what-role-do-positive-exponents-play
+related_article5:
+    id: 165423
+    title: >-
+        Why is it important to zero a scale before weighing, and how does it affect accuracy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
 ---
 
 &nbsp;

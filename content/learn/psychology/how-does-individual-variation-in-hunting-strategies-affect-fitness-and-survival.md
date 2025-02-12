@@ -2,8 +2,10 @@
 _schema: default
 id: 165315
 date: 2025-01-28
-title: How does individual variation in hunting strategies affect fitness and survival?
-article_title: How does individual variation in hunting strategies affect fitness and survival?
+title: >-
+    How does individual variation in hunting strategies affect fitness and survival?
+article_title: >-
+    How does individual variation in hunting strategies affect fitness and survival?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-individual-variation-in-hunting-strategies-affect-fitness-an
 url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
 score: -1.0
 related_article1:
-    id: 165304
-    title: Describe the process of directional selection and provide an example.
+    id: 165299
+    title: >-
+        Identify and describe the sources of genetic variation.
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+    url: /learn/psychology/questions/identify-and-describe-the-sources-of-genetic-variation
 related_article2:
-    id: 165288
-    title: How can understanding animal behavior be applied in research?
+    id: 165302
+    title: >-
+        Explain the interaction between genetic factors and environmental influences on behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+    url: /learn/psychology/questions/explain-the-interaction-between-genetic-factors-and-environmental-influences-on-behavior
 related_article3:
-    id: 165311
-    title: What is the influence of hormones on animal behavior?
+    id: 165296
+    title: >-
+        How do variation and heritability contribute to differential survival in natural selection?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-hormones-on-animal-behavior
+    url: /learn/psychology/questions/how-do-variation-and-heritability-contribute-to-differential-survival-in-natural-selection
 related_article4:
-    id: 165307
-    title: How does behavioral selection influence animal populations?
+    id: 165287
+    title: >-
+        What is the definition of animal behavior and why is it important to study?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-behavioral-selection-influence-animal-populations
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
 related_article5:
-    id: 165313
-    title: How do early experiences influence the development of behavior in animals?
+    id: 165290
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-early-experiences-influence-the-development-of-behavior-in-animals
+    url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
 ---
 
 &nbsp;

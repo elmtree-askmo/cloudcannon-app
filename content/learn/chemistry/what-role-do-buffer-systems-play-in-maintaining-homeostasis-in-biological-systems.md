@@ -2,8 +2,10 @@
 _schema: default
 id: 168320
 date: 2025-02-03
-title: What role do buffer systems play in maintaining homeostasis in biological systems?
-article_title: What role do buffer systems play in maintaining homeostasis in biological systems?
+title: >-
+    What role do buffer systems play in maintaining homeostasis in biological systems?
+article_title: >-
+    What role do buffer systems play in maintaining homeostasis in biological systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biolog
 url: /learn/chemistry/questions/what-role-do-buffer-systems-play-in-maintaining-homeostasis-in-biological-systems
 score: -1.0
 related_article1:
-    id: 168321
-    title: What is the relationship between polymers and monomers in biological macromolecules?
+    id: 168317
+    title: >-
+        How does water's kinetic energy contribute to temperature moderation?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-relationship-between-polymers-and-monomers-in-biological-macromolecules
+    url: /learn/chemistry/questions/how-does-waters-kinetic-energy-contribute-to-temperature-moderation
 related_article2:
-    id: 168314
-    title: What causes the polar nature of a water molecule?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-polar-nature-of-a-water-molecule
-related_article3:
-    id: 168322
-    title: What are the structural differences between monosaccharides and polysaccharides?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-structural-differences-between-monosaccharides-and-polysaccharides
-related_article4:
-    id: 168323
-    title: How do triglycerides differ from phospholipids in terms of structure and function?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
-related_article5:
     id: 168312
-    title: What is the primary difference between ionic and covalent bonds?
+    title: >-
+        What is the primary difference between ionic and covalent bonds?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-primary-difference-between-ionic-and-covalent-bonds
+related_article3:
+    id: 168311
+    title: >-
+        How do electron orbitals relate to energy levels in an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-electron-orbitals-relate-to-energy-levels-in-an-atom
+related_article4:
+    id: 168318
+    title: >-
+        What are the three physical states of water, and how do they differ in terms of molecular arrangement?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-physical-states-of-water-and-how-do-they-differ-in-terms-of-molecular-arrangement
+related_article5:
+    id: 168323
+    title: >-
+        How do triglycerides differ from phospholipids in terms of structure and function?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-triglycerides-differ-from-phospholipids-in-terms-of-structure-and-function
 ---
 
 &nbsp;

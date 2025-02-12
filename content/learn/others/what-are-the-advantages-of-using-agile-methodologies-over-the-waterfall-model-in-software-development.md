@@ -2,8 +2,10 @@
 _schema: default
 id: 162783
 date: 2025-01-25
-title: What are the advantages of using Agile methodologies over the Waterfall model in software development?
-article_title: What are the advantages of using Agile methodologies over the Waterfall model in software development?
+title: >-
+    What are the advantages of using Agile methodologies over the Waterfall model in software development?
+article_title: >-
+    What are the advantages of using Agile methodologies over the Waterfall model in software development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-agile-methodologies-over-the-waterfa
 url: /learn/others/questions/what-are-the-advantages-of-using-agile-methodologies-over-the-waterfall-model-in-software-development
 score: -1.0
 related_article1:
-    id: 162374
-    title: What principles of user experience design ensure usability and accessibility?
+    id: 162849
+    title: >-
+        How do Scrum and Kanban frameworks differ in Agile methodologies?
     subject: Others
-    url: /learn/others/questions/what-principles-of-user-experience-design-ensure-usability-and-accessibility
+    url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
 related_article2:
-    id: 162655
-    title: How do Tableau, Power BI, and D3.js differ in their data visualization capabilities?
+    id: 162380
+    title: >-
+        What are the key technologies and applications of augmented reality?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-data-visualization-capabilities
+    url: /learn/others/questions/what-are-the-key-technologies-and-applications-of-augmented-reality
 related_article3:
-    id: 162353
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+    id: 162731
+    title: >-
+        How do Scrum and Kanban differ as Agile frameworks?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-frameworks
 related_article4:
-    id: 162728
-    title: How do LAN and WAN differ in terms of network architecture?
+    id: 162354
+    title: >-
+        How can Excel, R, and Python be utilized in data analysis?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
+    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis
 related_article5:
-    id: 162656
-    title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162773
+    title: >-
+        What ethical considerations are associated with the development of autonomous vehicles?
     subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/what-ethical-considerations-are-associated-with-the-development-of-autonomous-vehicles
 ---
 
 &nbsp;

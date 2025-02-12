@@ -2,8 +2,10 @@
 _schema: default
 id: 169359
 date: 2025-02-05
-title: How can assistive devices and communication systems foster independence in learning?
-article_title: How can assistive devices and communication systems foster independence in learning?
+title: >-
+    How can assistive devices and communication systems foster independence in learning?
+article_title: >-
+    How can assistive devices and communication systems foster independence in learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-assistive-devices-and-communication-systems-foster-independen
 url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
 score: -1.0
 related_article1:
-    id: 169331
-    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    id: 169356
+    title: >-
+        What are the types and characteristics of learning disabilities, and how do they impact learning?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
 related_article2:
-    id: 169354
-    title: What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    id: 169353
+    title: >-
+        What are some age-appropriate strategies for designing interventions in developmental psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
+    url: /learn/psychology/questions/what-are-some-ageappropriate-strategies-for-designing-interventions-in-developmental-psychology
 related_article3:
-    id: 169331
-    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    id: 169342
+    title: >-
+        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
 related_article4:
+    id: 169342
+    title: >-
+        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
+    subject: Psychology
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
+related_article5:
     id: 169349
-    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    title: >-
+        How can data collection be used to monitor progress and adjust instruction in skill acquisition?
     subject: Psychology
     url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
-related_article5:
-    id: 169340
-    title: How does observational learning contribute to social development, and what role does imitation play?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 ---
 
 &nbsp;

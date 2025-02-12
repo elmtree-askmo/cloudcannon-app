@@ -2,8 +2,10 @@
 _schema: default
 id: 162052
 date: 2025-01-24
-title: What happens during the evaporation process in terms of state transition?
-article_title: What happens during the evaporation process in terms of state transition?
+title: >-
+    What happens during the evaporation process in terms of state transition?
+article_title: >-
+    What happens during the evaporation process in terms of state transition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-happens-during-the-evaporation-process-in-terms-of-state-transit
 url: /learn/chemistry/questions/what-happens-during-the-evaporation-process-in-terms-of-state-transition
 score: -1.0
 related_article1:
-    id: 161976
-    title: What are the indicators of a chemical change during a precipitation reaction?
+    id: 162037
+    title: >-
+        How can the formation of ions be described in the context of ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
 related_article2:
-    id: 161971
-    title: What are the characteristics of a solid state of matter?
+    id: 162042
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 related_article3:
-    id: 161947
-    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    id: 161760
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article4:
-    id: 161944
-    title: What are the characteristics of a solid that differentiate it from other states of matter?
+    id: 161979
+    title: >-
+        How does the process of evaporation differ from freezing in terms of physical changes?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
+    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-physical-changes
 related_article5:
-    id: 162019
-    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    id: 161986
+    title: >-
+        What is the role of charged particles in the process of ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+    url: /learn/chemistry/questions/what-is-the-role-of-charged-particles-in-the-process-of-ionization
 ---
 
 &nbsp;

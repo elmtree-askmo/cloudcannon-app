@@ -2,8 +2,10 @@
 _schema: default
 id: 168383
 date: 2025-02-03
-title: How did nomadic societies adapt to their environments?
-article_title: How did nomadic societies adapt to their environments?
+title: >-
+    How did nomadic societies adapt to their environments?
+article_title: >-
+    How did nomadic societies adapt to their environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-nomadic-societies-adapt-to-their-environments.md
 url: /learn/education-studies/questions/how-did-nomadic-societies-adapt-to-their-environments
 score: -1.0
 related_article1:
-    id: 168382
-    title: What are the key developments in the timeline of human evolution?
+    id: 168374
+    title: >-
+        What is the significance of prehistory in understanding human history?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-developments-in-the-timeline-of-human-evolution
+    url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
 related_article2:
-    id: 168391
-    title: What role did kinship play in the social structures of early societies?
+    id: 168381
+    title: >-
+        What were the effects of glacial and interglacial periods on human evolution?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
+    url: /learn/education-studies/questions/what-were-the-effects-of-glacial-and-interglacial-periods-on-human-evolution
 related_article3:
-    id: 168387
-    title: What were the main characteristics and tools of the Paleolithic Era?
+    id: 168378
+    title: >-
+        How do cultural and physical anthropology differ in their study of human societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-main-characteristics-and-tools-of-the-paleolithic-era
+    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
 related_article4:
-    id: 168388
-    title: How did the development of bronze tools influence the transition to urbanization?
+    id: 168394
+    title: >-
+        What can artifacts and symbolism tell us about prehistoric societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-development-of-bronze-tools-influence-the-transition-to-urbanization
+    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
 related_article5:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
+    id: 168384
+    title: >-
+        What were the major impacts of the development and spread of agriculture on societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
+    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
 ---
 
 &nbsp;

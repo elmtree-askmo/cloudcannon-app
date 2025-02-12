@@ -2,8 +2,10 @@
 _schema: default
 id: 164876
 date: 2025-01-28
-title: What are the essential components of an effective presentation?
-article_title: What are the essential components of an effective presentation?
+title: >-
+    What are the essential components of an effective presentation?
+article_title: >-
+    What are the essential components of an effective presentation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-essential-components-of-an-effective-presentation.md
 url: /learn/education-studies/questions/what-are-the-essential-components-of-an-effective-presentation
 score: -1.0
 related_article1:
-    id: 164882
-    title: What are the differences between norm-referenced and criterion-referenced grading systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-normreferenced-and-criterionreferenced-grading-systems
-related_article2:
     id: 164873
-    title: What are the key components of objective scoring in test scoring?
+    title: >-
+        What are the key components of objective scoring in test scoring?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-objective-scoring-in-test-scoring
+related_article2:
+    id: 164875
+    title: >-
+        What are the main challenges associated with subjective scoring?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-challenges-associated-with-subjective-scoring
 related_article3:
-    id: 164874
-    title: How can scoring rubrics benefit the assessment process?
+    id: 164875
+    title: >-
+        What are the main challenges associated with subjective scoring?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-scoring-rubrics-benefit-the-assessment-process
+    url: /learn/education-studies/questions/what-are-the-main-challenges-associated-with-subjective-scoring
 related_article4:
-    id: 164878
-    title: What criteria are used to evaluate presentation skills?
+    id: 164871
+    title: >-
+        What is the primary purpose of assessment in education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-are-used-to-evaluate-presentation-skills
-related_article5:
-    id: 164883
-    title: How can consistency be maintained in grading systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-assessment-in-education
 ---
 
 &nbsp;

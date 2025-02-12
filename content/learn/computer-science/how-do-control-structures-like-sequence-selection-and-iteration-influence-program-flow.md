@@ -2,8 +2,10 @@
 _schema: default
 id: 161488
 date: 2025-01-24
-title: How do control structures like sequence, selection, and iteration influence program flow?
-article_title: How do control structures like sequence, selection, and iteration influence program flow?
+title: >-
+    How do control structures like sequence, selection, and iteration influence program flow?
+article_title: >-
+    How do control structures like sequence, selection, and iteration influence program flow?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-control-structures-like-sequence-selection-and-iteration-influ
 url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
 score: -1.0
 related_article1:
-    id: 161197
-    title: How do control structures like sequence, selection, and iteration influence program flow?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
-related_article2:
-    id: 161482
-    title: What is the significance of counter variables in count-controlled loops?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
-related_article3:
     id: 161474
-    title: What symbol is used in flowcharts to represent the start or end of a process?
+    title: >-
+        What symbol is used in flowcharts to represent the start or end of a process?
     subject: Computer Science
     url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
-related_article4:
-    id: 161192
-    title: How does user input control affect condition-controlled loops?
+related_article2:
+    id: 161483
+    title: >-
+        How does user input control affect condition-controlled loops?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-user-input-control-affect-conditioncontrolled-loops
-related_article5:
-    id: 161197
-    title: How do control structures like sequence, selection, and iteration influence program flow?
+related_article3:
+    id: 161480
+    title: >-
+        What is the purpose of mathematical operators in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
+    url: /learn/computer-science/questions/what-is-the-purpose-of-mathematical-operators-in-programming
+related_article4:
+    id: 161474
+    title: >-
+        What symbol is used in flowcharts to represent the start or end of a process?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
+related_article5:
+    id: 161185
+    title: >-
+        What role do comparison operators play in decision making?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
 ---
 
 &nbsp;

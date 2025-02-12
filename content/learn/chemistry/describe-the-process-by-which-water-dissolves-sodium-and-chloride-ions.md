@@ -2,8 +2,10 @@
 _schema: default
 id: 167138
 date: 2025-01-31
-title: Describe the process by which water dissolves sodium and chloride ions.
-article_title: Describe the process by which water dissolves sodium and chloride ions.
+title: >-
+    Describe the process by which water dissolves sodium and chloride ions.
+article_title: >-
+    Describe the process by which water dissolves sodium and chloride ions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-by-which-water-dissolves-sodium-and-chloride-ion
 url: /learn/chemistry/questions/describe-the-process-by-which-water-dissolves-sodium-and-chloride-ions
 score: -1.0
 related_article1:
-    id: 167130
-    title: Describe the atomic arrangement and type of bonds present in a water molecule.
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-atomic-arrangement-and-type-of-bonds-present-in-a-water-molecule
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
 related_article2:
-    id: 167130
-    title: Describe the atomic arrangement and type of bonds present in a water molecule.
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-atomic-arrangement-and-type-of-bonds-present-in-a-water-molecule
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
 related_article3:
-    id: 167134
-    title: Explain the significance of positive and negative charges in water molecules.
+    id: 167133
+    title: >-
+        What defines a polar molecule and how does this relate to the structure of H2O?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
+    url: /learn/chemistry/questions/what-defines-a-polar-molecule-and-how-does-this-relate-to-the-structure-of-h2o
 related_article4:
-    id: 167140
-    title: How do hydrogen bonds affect the cohesion and adhesion properties of water?
+    id: 167132
+    title: >-
+        How does the density of water differ between its liquid and solid states?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water
+    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
 related_article5:
-    id: 167139
-    title: What role do hydrogen bonds play in the molecular structure of water?
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
 ---
 
 &nbsp;

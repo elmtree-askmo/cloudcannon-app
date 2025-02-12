@@ -2,8 +2,10 @@
 _schema: default
 id: 163576
 date: 2025-01-27
-title: What were the main causes and outcomes of the Messenian Wars?
-article_title: What were the main causes and outcomes of the Messenian Wars?
+title: >-
+    What were the main causes and outcomes of the Messenian Wars?
+article_title: >-
+    What were the main causes and outcomes of the Messenian Wars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-were-the-main-causes-and-outcomes-of-the-messenian-wars.md
 url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
 score: 9.0
 related_article1:
-    id: 163578
-    title: What archaeological evidence supports our understanding of Spartan society?
+    id: 163572
+    title: >-
+        What role did the Spartan Acropolis play in the city-state's religious and political life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
+    url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
 related_article2:
-    id: 163579
-    title: Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
+    id: 163573
+    title: >-
+        Identify two key literary sources for studying ancient Sparta and describe their contributions.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
+    url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for-studying-ancient-sparta-and-describe-their-contributions
 related_article3:
-    id: 163570
-    title: What was the significance of the Lycurgan Constitution in shaping Spartan society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
-related_article4:
     id: 163582
-    title: What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
+    title: >-
+        What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the-spartan-dyarchy-and-how-did-it-affect-governance
-related_article5:
-    id: 163583
-    title: Describe the military and religious responsibilities of the Spartan kings.
+related_article4:
+    id: 163581
+    title: >-
+        Explain the purpose and structure of the Spartan agoge.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-military-and-religious-responsibilities-of-the-spartan-kings
+    url: /learn/history-of-the-world/questions/explain-the-purpose-and-structure-of-the-spartan-agoge
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167593
 date: 2025-01-31
-title: How do eukaryotic cells differ from prokaryotic cells?
-article_title: How do eukaryotic cells differ from prokaryotic cells?
+title: >-
+    How do eukaryotic cells differ from prokaryotic cells?
+article_title: >-
+    How do eukaryotic cells differ from prokaryotic cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-eukaryotic-cells-differ-from-prokaryotic-cells.md
 url: /learn/biotechnology/questions/how-do-eukaryotic-cells-differ-from-prokaryotic-cells
 score: -1.0
 related_article1:
-    id: 167596
-    title: What are the differences between asexual and sexual reproduction?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
-related_article2:
-    id: 167582
-    title: What are the key characteristics that define life?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
-related_article3:
-    id: 167583
-    title: How do organisms adapt and evolve in response to their environment?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
-related_article4:
-    id: 167588
-    title: What is the difference between a hypothesis and a theory in scientific inquiry?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
-related_article5:
     id: 167600
-    title: What evidence supports the theory of evolution?
+    title: >-
+        What evidence supports the theory of evolution?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
+related_article2:
+    id: 167598
+    title: >-
+        What are some branches of biology and their significance?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+related_article3:
+    id: 167599
+    title: >-
+        How does natural science relate to other scientific disciplines?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
+related_article4:
+    id: 167590
+    title: >-
+        What are the principles of natural selection and how do they lead to adaptation?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+related_article5:
+    id: 167585
+    title: >-
+        How is data analyzed and interpreted in scientific research?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-is-data-analyzed-and-interpreted-in-scientific-research
 ---
 
 &nbsp;

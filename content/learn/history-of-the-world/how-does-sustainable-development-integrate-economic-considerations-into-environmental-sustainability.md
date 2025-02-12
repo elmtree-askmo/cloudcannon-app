@@ -2,8 +2,10 @@
 _schema: default
 id: 166224
 date: 2025-01-29
-title: How does sustainable development integrate economic considerations into environmental sustainability?
-article_title: How does sustainable development integrate economic considerations into environmental sustainability?
+title: >-
+    How does sustainable development integrate economic considerations into environmental sustainability?
+article_title: >-
+    How does sustainable development integrate economic considerations into environmental sustainability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-sustainable-development-integrate-economic-considerations-in
 url: /learn/history-of-the-world/questions/how-does-sustainable-development-integrate-economic-considerations-into-environmental-sustainability
 score: 9.0
 related_article1:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
+    id: 166225
+    title: >-
+        What are the main components of physical health that contribute to overall well-being?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
 related_article2:
-    id: 166221
-    title: How do different historical interpretation theories, such as positivism and postmodernism, approach the study of history?
+    id: 166228
+    title: >-
+        What are the limitations of using archaeological finds as historical evidence?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-different-historical-interpretation-theories-such-as-positivism-and-postmodernism-approach-the-study-of-history
+    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
 related_article3:
-    id: 166223
-    title: What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
+    id: 166218
+    title: >-
+        How is machine learning applied in natural language processing?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
+    url: /learn/history-of-the-world/questions/how-is-machine-learning-applied-in-natural-language-processing
 related_article4:
-    id: 166242
-    title: What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
+    id: 166228
+    title: >-
+        What are the limitations of using archaeological finds as historical evidence?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-theories-and-debates-surrounding-human-evolution-and-migration-patterns-in-prehistory
+    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
 related_article5:
-    id: 166215
-    title: What are the primary benefits of using iClicker technology in educational settings?
+    id: 166219
+    title: >-
+        What is the significance of primary sources in historical research?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-primary-sources-in-historical-research
 ---
 
 &nbsp;

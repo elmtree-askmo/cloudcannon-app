@@ -2,8 +2,10 @@
 _schema: default
 id: 161473
 date: 2025-01-24
-title: What is pseudocode and how is it used in programming?
-article_title: What is pseudocode and how is it used in programming?
+title: >-
+    What is pseudocode and how is it used in programming?
+article_title: >-
+    What is pseudocode and how is it used in programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-pseudocode-and-how-is-it-used-in-programming.md
 url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
 score: -1.0
 related_article1:
-    id: 161375
-    title: Why are data types important in programming?
+    id: 161480
+    title: >-
+        What is the purpose of mathematical operators in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+    url: /learn/computer-science/questions/what-is-the-purpose-of-mathematical-operators-in-programming
 related_article2:
-    id: 161472
-    title: How do flowcharts help in communicating system processes?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
-related_article3:
-    id: 161481
-    title: How do comparison operators facilitate decision making in algorithms?
+    id: 161190
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+related_article3:
+    id: 161181
+    title: >-
+        How do flowcharts help in communicating system processes?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
 related_article4:
+    id: 161481
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+related_article5:
     id: 161476
-    title: What role do comparison operators play in decision making?
+    title: >-
+        What role do comparison operators play in decision making?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
-related_article5:
-    id: 161482
-    title: What is the significance of counter variables in count-controlled loops?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
 ---
 
 &nbsp;

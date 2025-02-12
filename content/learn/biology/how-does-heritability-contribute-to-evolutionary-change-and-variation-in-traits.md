@@ -2,8 +2,10 @@
 _schema: default
 id: 166331
 date: 2025-01-30
-title: How does heritability contribute to evolutionary change and variation in traits?
-article_title: How does heritability contribute to evolutionary change and variation in traits?
+title: >-
+    How does heritability contribute to evolutionary change and variation in traits?
+article_title: >-
+    How does heritability contribute to evolutionary change and variation in traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-heritability-contribute-to-evolutionary-change-and-variation
 url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
 score: -1.0
 related_article1:
+    id: 166332
+    title: >-
+        What are Darwin's four postulates, and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-four-postulates-and-how-do-they-relate-to-natural-selection
+related_article2:
     id: 166323
-    title: What role does natural selection play in the evolutionary change of animal behavior?
+    title: >-
+        What role does natural selection play in the evolutionary change of animal behavior?
     subject: Biology
     url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
-related_article2:
-    id: 166333
-    title: How do predator-prey interactions influence the phenotypes and survival strategies of animals?
-    subject: Biology
-    url: /learn/biology/questions/how-do-predatorprey-interactions-influence-the-phenotypes-and-survival-strategies-of-animals
 related_article3:
     id: 166329
-    title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    title: >-
+        How do learning processes, such as individual and social learning, impact the development of behavior in animals?
     subject: Biology
     url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
 related_article4:
-    id: 166323
-    title: What role does natural selection play in the evolutionary change of animal behavior?
+    id: 166330
+    title: >-
+        What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
 related_article5:
-    id: 166329
-    title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    id: 166322
+    title: >-
+        How do ultimate questions differ from proximate questions in the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
+    url: /learn/biology/questions/how-do-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
 ---
 
 &nbsp;

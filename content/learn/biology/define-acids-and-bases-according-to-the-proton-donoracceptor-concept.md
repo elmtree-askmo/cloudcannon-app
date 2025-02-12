@@ -2,8 +2,10 @@
 _schema: default
 id: 167456
 date: 2025-01-31
-title: Define acids and bases according to the proton donor-acceptor concept.
-article_title: Define acids and bases according to the proton donor-acceptor concept.
+title: >-
+    Define acids and bases according to the proton donor-acceptor concept.
+article_title: >-
+    Define acids and bases according to the proton donor-acceptor concept.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-acids-and-bases-according-to-the-proton-donoracceptor-concept.
 url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
 score: -1.0
 related_article1:
-    id: 167446
-    title: What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
+    id: 167465
+    title: >-
+        Describe the types of molecular interactions and their significance in protein folding.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
+    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
 related_article2:
-    id: 167444
-    title: What is the primary characteristic of covalent bonds in terms of electron sharing?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
-related_article3:
     id: 167452
-    title: What is the purpose of Lewis dot structures in representing molecules?
+    title: >-
+        What is the purpose of Lewis dot structures in representing molecules?
     subject: Biology
     url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+related_article3:
+    id: 167454
+    title: >-
+        What are the defining characteristics of organic compounds?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 related_article4:
-    id: 167463
-    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    id: 167445
+    title: >-
+        How do polar covalent bonds differ from nonpolar covalent bonds?
     subject: Biology
-    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
 related_article5:
-    id: 167448
-    title: How do hydrogen bonds influence the properties of water?
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
     subject: Biology
-    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 ---
 
 &nbsp;

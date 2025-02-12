@@ -2,8 +2,10 @@
 _schema: default
 id: 169338
 date: 2025-02-05
-title: What are the types of augmentative communication, and how might they impact verbal language development?
-article_title: What are the types of augmentative communication, and how might they impact verbal language development?
+title: >-
+    What are the types of augmentative communication, and how might they impact verbal language development?
+article_title: >-
+    What are the types of augmentative communication, and how might they impact verbal language development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-types-of-augmentative-communication-and-how-might-they-i
 url: /learn/psychology/questions/what-are-the-types-of-augmentative-communication-and-how-might-they-impact-verbal-language-development
 score: -1.0
 related_article1:
-    id: 169355
-    title: Discuss the role of augmentative communication as an intervention strategy for ASD.
+    id: 169342
+    title: >-
+        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
 related_article2:
-    id: 169359
-    title: How can assistive devices and communication systems foster independence in learning?
+    id: 169349
+    title: >-
+        How can data collection be used to monitor progress and adjust instruction in skill acquisition?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
 related_article3:
-    id: 169348
-    title: What techniques are used in teaching new skills, and how do prompting and fading play a role?
+    id: 169336
+    title: >-
+        What is errorless learning, and how does it differ from trial and error learning?
     subject: Psychology
-    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
 related_article4:
-    id: 169346
-    title: How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
-    subject: Psychology
-    url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
-related_article5:
     id: 169340
-    title: How does observational learning contribute to social development, and what role does imitation play?
+    title: >-
+        How does observational learning contribute to social development, and what role does imitation play?
     subject: Psychology
     url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
+related_article5:
+    id: 169336
+    title: >-
+        What is errorless learning, and how does it differ from trial and error learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
 ---
 
 &nbsp;

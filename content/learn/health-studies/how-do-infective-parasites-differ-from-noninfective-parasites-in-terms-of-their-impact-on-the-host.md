@@ -2,8 +2,10 @@
 _schema: default
 id: 165858
 date: 2025-01-29
-title: How do infective parasites differ from non-infective parasites in terms of their impact on the host?
-article_title: How do infective parasites differ from non-infective parasites in terms of their impact on the host?
+title: >-
+    How do infective parasites differ from non-infective parasites in terms of their impact on the host?
+article_title: >-
+    How do infective parasites differ from non-infective parasites in terms of their impact on the host?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-infective-parasites-differ-from-noninfective-parasites-in-term
 url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
 score: -1.0
 related_article1:
-    id: 165868
-    title: How do B cells and T cells differ in their roles within the immune system?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article2:
-    id: 165874
-    title: How does concomitant immunity provide protection against re-infection?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article3:
-    id: 165881
-    title: What mechanisms are involved in the sustained immune response during secondary exposure?
+    id: 165860
+    title: >-
+        How do B and T cells contribute to the specificity and memory of adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
+    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
 related_article4:
-    id: 165874
-    title: How does concomitant immunity provide protection against re-infection?
+    id: 165875
+    title: >-
+        What is the significance of clonal expansion in immune memory?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
+    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
 related_article5:
-    id: 165870
-    title: How do MHC Class I molecules contribute to self-identification in the immune system?
+    id: 165871
+    title: >-
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167226
 date: 2025-01-31
-title: What is the importance of active site specificity in enzyme function?
-article_title: What is the importance of active site specificity in enzyme function?
+title: >-
+    What is the importance of active site specificity in enzyme function?
+article_title: >-
+    What is the importance of active site specificity in enzyme function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-active-site-specificity-in-enzyme-function.
 url: /learn/health-studies/questions/what-is-the-importance-of-active-site-specificity-in-enzyme-function
 score: -1.0
 related_article1:
-    id: 167216
-    title: How do triglycerides function in energy storage?
+    id: 167215
+    title: >-
+        What is the role of the glycerol backbone in triglyceride structure?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-triglycerides-function-in-energy-storage
+    url: /learn/health-studies/questions/what-is-the-role-of-the-glycerol-backbone-in-triglyceride-structure
 related_article2:
-    id: 167218
-    title: What structural components make up a phospholipid?
+    id: 167225
+    title: >-
+        How do the chemical properties of biomolecules impact their function?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-structural-components-make-up-a-phospholipid
+    url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
 related_article3:
-    id: 167216
-    title: How do triglycerides function in energy storage?
+    id: 167222
+    title: >-
+        How do the physical properties of saturated fatty acids differ from those of unsaturated fatty acids?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-triglycerides-function-in-energy-storage
+    url: /learn/health-studies/questions/how-do-the-physical-properties-of-saturated-fatty-acids-differ-from-those-of-unsaturated-fatty-acids
 related_article4:
-    id: 167219
-    title: Explain the significance of closed-carbon rings in steroid structure.
+    id: 167224
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-significance-of-closedcarbon-rings-in-steroid-structure
+    url: /learn/health-studies/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-selective-permeability-in-membranes
 related_article5:
-    id: 167229
-    title: How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
+    id: 167228
+    title: >-
+        What are the major classes of biological macromolecules and their elemental composition?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
+    url: /learn/health-studies/questions/what-are-the-major-classes-of-biological-macromolecules-and-their-elemental-composition
 ---
 
 &nbsp;

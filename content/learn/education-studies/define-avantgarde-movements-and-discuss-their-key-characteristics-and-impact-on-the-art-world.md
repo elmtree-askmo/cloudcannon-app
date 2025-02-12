@@ -2,8 +2,10 @@
 _schema: default
 id: 159760
 date: 2025-01-23
-title: Define avant-garde movements and discuss their key characteristics and impact on the art world.
-article_title: Define avant-garde movements and discuss their key characteristics and impact on the art world.
+title: >-
+    Define avant-garde movements and discuss their key characteristics and impact on the art world.
+article_title: >-
+    Define avant-garde movements and discuss their key characteristics and impact on the art world.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-avantgarde-movements-and-discuss-their-key-characteristics-and
 url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-characteristics-and-impact-on-the-art-world
 score: -1.0
 related_article1:
-    id: 159764
-    title: How did gender studies and colonialism influence the representation of gender and race in art?
+    id: 159769
+    title: >-
+        Identify key movements and figures in 19th-century art history and their influence on contemporary art.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
+    url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-their-influence-on-contemporary-art
 related_article2:
-    id: 159764
-    title: How did gender studies and colonialism influence the representation of gender and race in art?
+    id: 159759
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-gender-studies-and-colonialism-influence-the-representation-of-gender-and-race-in-art
+    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
 related_article3:
-    id: 159762
-    title: What were the significant changes in the curriculum and focus of art academies, and how did these changes impact artistic development?
+    id: 159799
+    title: >-
+        How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-significant-changes-in-the-curriculum-and-focus-of-art-academies-and-how-did-these-changes-impact-artistic-development
+    url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
 related_article4:
-    id: 159790
-    title: What was the purpose of art institutions and academies, and how did they contribute to the professionalization of artists?
+    id: 159761
+    title: >-
+        How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-was-the-purpose-of-art-institutions-and-academies-and-how-did-they-contribute-to-the-professionalization-of-artists
+    url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
 related_article5:
-    id: 159798
-    title: Identify key movements and figures in 19th-century art history and discuss their influence on contemporary art.
+    id: 159767
+    title: >-
+        How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
     subject: Education Studies
-    url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19thcentury-art-history-and-discuss-their-influence-on-contemporary-art
+    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles-and-what-were-some-key-innovations
 ---
 
 &nbsp;

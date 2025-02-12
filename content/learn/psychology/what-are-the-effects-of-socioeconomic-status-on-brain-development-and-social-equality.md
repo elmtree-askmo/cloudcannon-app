@@ -2,8 +2,10 @@
 _schema: default
 id: 164429
 date: 2025-01-28
-title: What are the effects of socioeconomic status on brain development and social equality?
-article_title: What are the effects of socioeconomic status on brain development and social equality?
+title: >-
+    What are the effects of socioeconomic status on brain development and social equality?
+article_title: >-
+    What are the effects of socioeconomic status on brain development and social equality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-socioeconomic-status-on-brain-development-and
 url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 score: -1.0
 related_article1:
-    id: 164425
-    title: How does stress affect cortisol levels and cognitive performance?
+    id: 164430
+    title: >-
+        How do neural pathways influence competition and inhibition in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
 related_article2:
-    id: 164426
-    title: Which brain regions are involved in emotional regulation, and how do they manage stress?
+    id: 164427
+    title: >-
+        What is prediction error in reward processing, and how does it relate to dopamine release?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
 related_article3:
-    id: 164421
-    title: How do cultural differences impact mental health diagnosis and treatment?
+    id: 164435
+    title: >-
+        How do developmental stages affect executive functions in children?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
+    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
 related_article4:
-    id: 164423
-    title: How does the frontal lobe contribute to executive functions and speech production?
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 related_article5:
-    id: 164420
-    title: What role does competition and inhibition play in brain structure and emotional regulation?
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 ---
 
 &nbsp;

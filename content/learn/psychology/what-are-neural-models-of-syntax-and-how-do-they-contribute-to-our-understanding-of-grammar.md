@@ -2,8 +2,10 @@
 _schema: default
 id: 164383
 date: 2025-01-28
-title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
-article_title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
+title: >-
+    What are neural models of syntax, and how do they contribute to our understanding of grammar?
+article_title: >-
+    What are neural models of syntax, and how do they contribute to our understanding of grammar?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-un
 url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
 score: -1.0
 related_article1:
-    id: 164390
-    title: What are the neural mechanisms involved in speech production?
+    id: 164403
+    title: >-
+        How are Freud's theories relevant to language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+    url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 related_article2:
-    id: 164386
-    title: What role do facial expressions play in communication?
+    id: 164394
+    title: >-
+        What cognitive functions are associated with auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 related_article3:
-    id: 164392
-    title: Identify the brain regions involved in speech production.
+    id: 164399
+    title: >-
+        What is the role of cognitive psychology in language comprehension?
     subject: Psychology
-    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+    url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
 related_article4:
-    id: 164392
-    title: Identify the brain regions involved in speech production.
+    id: 164382
+    title: >-
+        Explain the specialization of brain hemispheres in language processing.
     subject: Psychology
-    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
+    url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
 related_article5:
-    id: 164395
-    title: What psychological theories are relevant to auditory processing?
+    id: 164394
+    title: >-
+        What cognitive functions are associated with auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 ---
 
 &nbsp;

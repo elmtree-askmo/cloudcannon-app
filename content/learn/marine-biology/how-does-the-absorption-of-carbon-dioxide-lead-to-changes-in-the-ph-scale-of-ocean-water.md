@@ -2,8 +2,10 @@
 _schema: default
 id: 167342
 date: 2025-01-31
-title: How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
-article_title: How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
+title: >-
+    How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
+article_title: >-
+    How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-absorption-of-carbon-dioxide-lead-to-changes-in-the-ph-s
 url: /learn/marine-biology/questions/how-does-the-absorption-of-carbon-dioxide-lead-to-changes-in-the-ph-scale-of-ocean-water
 score: -1.0
 related_article1:
-    id: 167348
-    title: How is long-term data collection important for monitoring ocean chemistry changes?
+    id: 167351
+    title: >-
+        What are the predicted changes in future pH levels based on different emission scenarios?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-is-longterm-data-collection-important-for-monitoring-ocean-chemistry-changes
+    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
 related_article2:
-    id: 167354
-    title: How does ocean acidification potentially impact fisheries and coastal communities?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-ocean-acidification-potentially-impact-fisheries-and-coastal-communities
-related_article3:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
-related_article4:
     id: 167344
-    title: How does ocean acidification affect the availability of calcium carbonate for marine organisms?
+    title: >-
+        How does ocean acidification affect the availability of calcium carbonate for marine organisms?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-does-ocean-acidification-affect-the-availability-of-calcium-carbonate-for-marine-organisms
-related_article5:
-    id: 167346
-    title: How does ocean acidification impact the shells of marine terrapods?
+related_article3:
+    id: 167349
+    title: >-
+        What impact does ocean acidification have on shell-building organisms like corals and shellfish?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
+    url: /learn/marine-biology/questions/what-impact-does-ocean-acidification-have-on-shellbuilding-organisms-like-corals-and-shellfish
+related_article4:
+    id: 167343
+    title: >-
+        What are the effects of decreased pH levels on ocean chemistry?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
+related_article5:
+    id: 167345
+    title: >-
+        What role do marine terrapods play in marine ecosystems?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169505
 date: 2025-02-05
-title: What are the employee's duties in reporting faulty equipment under the duty of care?
-article_title: What are the employee's duties in reporting faulty equipment under the duty of care?
+title: >-
+    What are the employee's duties in reporting faulty equipment under the duty of care?
+article_title: >-
+    What are the employee's duties in reporting faulty equipment under the duty of care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-employees-duties-in-reporting-faulty-equipment-under-the
 url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
 score: -1.0
 related_article1:
-    id: 169499
-    title: What are the main strategies to avoid manual handling according to the Manual Handling Operations Regulation?
+    id: 169511
+    title: >-
+        What are the guidelines for safe operation of hoist and sit to stand equipment?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-strategies-to-avoid-manual-handling-according-to-the-manual-handling-operations-regulation
+    url: /learn/nursing/questions/what-are-the-guidelines-for-safe-operation-of-hoist-and-sit-to-stand-equipment
 related_article2:
-    id: 169509
-    title: How should patient dignity be maintained during handling in care settings?
+    id: 169508
+    title: >-
+        How can hazards be identified and controlled in a risk assessment?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-patient-dignity-be-maintained-during-handling-in-care-settings
+    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
 related_article3:
-    id: 169506
-    title: What training responsibilities do employers have under the duty of care?
+    id: 169503
+    title: >-
+        What is the role of the Health and Safety Executive in workplace safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-training-responsibilities-do-employers-have-under-the-duty-of-care
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 related_article4:
-    id: 169501
-    title: What are the safe lifting techniques to maintain proper body positioning in ergonomics?
+    id: 169514
+    title: >-
+        How can compliance with safety regulations be ensured during equipment servicing?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-safe-lifting-techniques-to-maintain-proper-body-positioning-in-ergonomics
+    url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
 related_article5:
-    id: 169504
-    title: Why is regular servicing and maintenance of equipment crucial for safety?
+    id: 169503
+    title: >-
+        What is the role of the Health and Safety Executive in workplace safety?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-regular-servicing-and-maintenance-of-equipment-crucial-for-safety
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 ---
 
 &nbsp;

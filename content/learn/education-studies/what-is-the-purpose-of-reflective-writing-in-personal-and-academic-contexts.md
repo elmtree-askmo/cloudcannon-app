@@ -2,8 +2,10 @@
 _schema: default
 id: 160673
 date: 2025-01-24
-title: What is the purpose of reflective writing in personal and academic contexts?
-article_title: What is the purpose of reflective writing in personal and academic contexts?
+title: >-
+    What is the purpose of reflective writing in personal and academic contexts?
+article_title: >-
+    What is the purpose of reflective writing in personal and academic contexts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-purpose-of-reflective-writing-in-personal-and-academic-co
 url: /learn/education-studies/questions/what-is-the-purpose-of-reflective-writing-in-personal-and-academic-contexts
 score: -1.0
 related_article1:
-    id: 160680
-    title: What are effective note-taking strategies during lectures?
+    id: 160677
+    title: >-
+        What are the differences between cognitive learning and constructivist approaches?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-notetaking-strategies-during-lectures
+    url: /learn/education-studies/questions/what-are-the-differences-between-cognitive-learning-and-constructivist-approaches
 related_article2:
     id: 160664
-    title: How does clarity and precision enhance academic writing?
+    title: >-
+        How does clarity and precision enhance academic writing?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-clarity-and-precision-enhance-academic-writing
 related_article3:
-    id: 160668
-    title: How can reflective practices improve metacognitive skills?
+    id: 160690
+    title: >-
+        How have educational institutions evolved from traditional to modern education?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-practices-improve-metacognitive-skills
+    url: /learn/education-studies/questions/how-have-educational-institutions-evolved-from-traditional-to-modern-education
 related_article4:
-    id: 160670
-    title: How can questioning assumptions enhance critical thinking skills?
+    id: 160682
+    title: >-
+        How can mnemonic devices enhance memory retention?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-questioning-assumptions-enhance-critical-thinking-skills
+    url: /learn/education-studies/questions/how-can-mnemonic-devices-enhance-memory-retention
 related_article5:
     id: 160658
-    title: What are the key benefits of effective time management in an academic setting?
+    title: >-
+        What are the key benefits of effective time management in an academic setting?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-benefits-of-effective-time-management-in-an-academic-setting
 ---

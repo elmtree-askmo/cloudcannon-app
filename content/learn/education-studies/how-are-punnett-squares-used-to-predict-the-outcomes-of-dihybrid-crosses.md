@@ -2,8 +2,10 @@
 _schema: default
 id: 167785
 date: 2025-02-01
-title: How are Punnett squares used to predict the outcomes of dihybrid crosses?
-article_title: How are Punnett squares used to predict the outcomes of dihybrid crosses?
+title: >-
+    How are Punnett squares used to predict the outcomes of dihybrid crosses?
+article_title: >-
+    How are Punnett squares used to predict the outcomes of dihybrid crosses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-cros
 url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
 score: -1.0
 related_article1:
-    id: 167802
-    title: How does the norm of reaction illustrate the effect of temperature on phenotype?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-norm-of-reaction-illustrate-the-effect-of-temperature-on-phenotype
-related_article2:
-    id: 167804
-    title: How can genetic mutations lead to a loss of function in an organism?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
-related_article3:
     id: 167783
-    title: How do genotype and phenotype differ in genetic expression?
+    title: >-
+        How do genotype and phenotype differ in genetic expression?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
-related_article4:
+related_article2:
     id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    title: >-
+        What is polygenic inheritance and how does it differ from Mendelian inheritance?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
-related_article5:
-    id: 167798
-    title: What is the significance of hypothesis testing in genetic studies?
+related_article3:
+    id: 167800
+    title: >-
+        How does the environment influence the phenotype of individuals with phenylketonuria?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-hypothesis-testing-in-genetic-studies
+    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
+related_article4:
+    id: 167794
+    title: >-
+        What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
+related_article5:
+    id: 167801
+    title: >-
+        What is the ABO blood group system and how does it relate to genotype and phenotype?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
 ---
 
 &nbsp;

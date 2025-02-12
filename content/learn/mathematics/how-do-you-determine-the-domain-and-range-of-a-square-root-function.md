@@ -2,8 +2,10 @@
 _schema: default
 id: 163791
 date: 2025-01-27
-title: How do you determine the domain and range of a square root function?
-article_title: How do you determine the domain and range of a square root function?
+title: >-
+    How do you determine the domain and range of a square root function?
+article_title: >-
+    How do you determine the domain and range of a square root function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a
 score: -1.0
 related_article1:
     id: 163793
-    title: How do squaring and square root operations serve as inverse operations?
+    title: >-
+        How do squaring and square root operations serve as inverse operations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-squaring-and-square-root-operations-serve-as-inverse-operations
 related_article2:
-    id: 163795
-    title: What techniques can be used to graph functions effectively?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-effectively
-related_article3:
-    id: 163790
-    title: What is the relationship between square root functions and quadratic functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-square-root-functions-and-quadratic-functions
-related_article4:
     id: 163803
-    title: How do translations and reflections transform a function's graph?
+    title: >-
+        How do translations and reflections transform a function's graph?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
-related_article5:
-    id: 163799
-    title: How do quadratic functions relate to square root functions graphically?
+related_article3:
+    id: 163801
+    title: >-
+        What are the key features of a function that can be identified from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-quadratic-functions-relate-to-square-root-functions-graphically
+    url: /learn/mathematics/questions/what-are-the-key-features-of-a-function-that-can-be-identified-from-its-graph
+related_article4:
+    id: 163797
+    title: >-
+        Why is understanding the domain and range of a function important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-of-a-function-important
+related_article5:
+    id: 163803
+    title: >-
+        How do translations and reflections transform a function's graph?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-translations-and-reflections-transform-a-functions-graph
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170492
 date: 2025-02-06
-title: What is the difference between excitatory and inhibitory neurotransmitters?
-article_title: What is the difference between excitatory and inhibitory neurotransmitters?
+title: >-
+    What is the difference between excitatory and inhibitory neurotransmitters?
+article_title: >-
+    What is the difference between excitatory and inhibitory neurotransmitters?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-excitatory-and-inhibitory-neurotransmi
 url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
 score: -1.0
 related_article1:
-    id: 170489
-    title: What roles do axons and dendrites play in neuron function?
+    id: 170487
+    title: >-
+        How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
     subject: Nursing
-    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 related_article2:
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
+related_article3:
+    id: 170495
+    title: >-
+        How does the herpes simplex virus remain dormant and what triggers its reactivation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
+related_article4:
     id: 170489
-    title: What roles do axons and dendrites play in neuron function?
+    title: >-
+        What roles do axons and dendrites play in neuron function?
     subject: Nursing
     url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
-related_article3:
-    id: 170488
-    title: Describe the structure and function of motor neurons, sensory neurons, and interneurons.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
-related_article4:
+related_article5:
     id: 170499
-    title: How does synaptic plasticity contribute to neuroplasticity?
+    title: >-
+        How does synaptic plasticity contribute to neuroplasticity?
     subject: Nursing
     url: /learn/nursing/questions/how-does-synaptic-plasticity-contribute-to-neuroplasticity
-related_article5:
-    id: 170490
-    title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
 ---
 
 &nbsp;

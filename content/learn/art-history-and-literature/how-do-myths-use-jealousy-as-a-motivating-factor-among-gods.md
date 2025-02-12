@@ -2,8 +2,10 @@
 _schema: default
 id: 163881
 date: 2025-01-28
-title: How do myths use jealousy as a motivating factor among gods?
-article_title: How do myths use jealousy as a motivating factor among gods?
+title: >-
+    How do myths use jealousy as a motivating factor among gods?
+article_title: >-
+    How do myths use jealousy as a motivating factor among gods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-myths-use-jealousy-as-a-motivating-factor-among-gods.md
 url: /learn/art-history-and-literature/questions/how-do-myths-use-jealousy-as-a-motivating-factor-among-gods
 score: 9.5
 related_article1:
-    id: 163878
-    title: How is fire portrayed in Greek mythology, and what roles does it play?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play
-related_article2:
     id: 163885
-    title: How do common themes in myths connect different cultures?
+    title: >-
+        How do common themes in myths connect different cultures?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-common-themes-in-myths-connect-different-cultures
+related_article2:
+    id: 163882
+    title: >-
+        In what ways do myths reflect power struggles and their resolutions?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-do-myths-reflect-power-struggles-and-their-resolutions
 related_article3:
-    id: 163886
-    title: What is the role of inventions in mythological stories?
+    id: 163879
+    title: >-
+        How do inventions in mythology symbolize human advancement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
+    url: /learn/art-history-and-literature/questions/how-do-inventions-in-mythology-symbolize-human-advancement
 related_article4:
-    id: 163883
-    title: How do Greek myths influence cultural values and human traits?
+    id: 163874
+    title: >-
+        How do familial ties among gods reflect human-like interactions in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-greek-myths-influence-cultural-values-and-human-traits
+    url: /learn/art-history-and-literature/questions/how-do-familial-ties-among-gods-reflect-humanlike-interactions-in-greek-mythology
 related_article5:
-    id: 163880
-    title: What are etiological myths, and how do they explain cultural elements?
+    id: 163878
+    title: >-
+        How is fire portrayed in Greek mythology, and what roles does it play?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-etiological-myths-and-how-do-they-explain-cultural-elements
+    url: /learn/art-history-and-literature/questions/how-is-fire-portrayed-in-greek-mythology-and-what-roles-does-it-play
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167090
 date: 2025-01-31
-title: How do macromolecules differ in their structural and chemical properties?
-article_title: How do macromolecules differ in their structural and chemical properties?
+title: >-
+    How do macromolecules differ in their structural and chemical properties?
+article_title: >-
+    How do macromolecules differ in their structural and chemical properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-macromolecules-differ-in-their-structural-and-chemical-propert
 url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
 score: -1.0
 related_article1:
+    id: 167092
+    title: >-
+        Why is carbon essential in the formation of organic molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
+related_article2:
+    id: 167096
+    title: >-
+        How are glycosidic bonds formed in carbohydrates?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
+related_article3:
+    id: 167094
+    title: >-
+        How do dehydration reactions and hydrolysis reactions differ in the polymerization process?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-dehydration-reactions-and-hydrolysis-reactions-differ-in-the-polymerization-process
+related_article4:
+    id: 167088
+    title: >-
+        Why are functional groups important in biological molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+related_article5:
     id: 167105
-    title: How are amino acids classified based on polarity and charge?
+    title: >-
+        How are amino acids classified based on polarity and charge?
     subject: Health Studies
     url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
-related_article2:
-    id: 167099
-    title: What roles do lipids play in energy storage and cell membrane structure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
-related_article3:
-    id: 167108
-    title: What is the significance of hydrophilic and hydrophobic interactions in protein folding?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-protein-folding
-related_article4:
-    id: 167089
-    title: What are the four main classes of biological molecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
-related_article5:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
 ---
 
 &nbsp;

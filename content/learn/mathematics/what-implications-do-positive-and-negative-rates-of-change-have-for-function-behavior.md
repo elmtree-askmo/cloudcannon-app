@@ -2,8 +2,10 @@
 _schema: default
 id: 163822
 date: 2025-01-27
-title: What implications do positive and negative rates of change have for function behavior?
-article_title: What implications do positive and negative rates of change have for function behavior?
+title: >-
+    What implications do positive and negative rates of change have for function behavior?
+article_title: >-
+    What implications do positive and negative rates of change have for function behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-implications-do-positive-and-negative-rates-of-change-have-for-f
 url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
 score: -1.0
 related_article1:
-    id: 163824
-    title: Why is accurate rate of change calculation important in mathematical modeling?
+    id: 163813
+    title: >-
+        What is a piecewise linear function and why are intervals important in its structure?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+    url: /learn/mathematics/questions/what-is-a-piecewise-linear-function-and-why-are-intervals-important-in-its-structure
 related_article2:
-    id: 163816
-    title: How does the average rate of change of a quadratic function vary over different intervals?
+    id: 163826
+    title: >-
+        How do function intervals impact the calculation of the rate of change?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
+    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
 related_article3:
     id: 163808
-    title: How can the average rate of change be calculated using a graph?
+    title: >-
+        How can the average rate of change be calculated using a graph?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 related_article4:
-    id: 163826
-    title: How do function intervals impact the calculation of the rate of change?
+    id: 163824
+    title: >-
+        Why is accurate rate of change calculation important in mathematical modeling?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
 related_article5:
-    id: 163809
-    title: What distinguishes non-linear functions from linear functions?
+    id: 163808
+    title: >-
+        How can the average rate of change be calculated using a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 ---
 
 &nbsp;

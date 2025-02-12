@@ -2,8 +2,10 @@
 _schema: default
 id: 162564
 date: 2025-01-25
-title: What strategies can be employed to identify bias and persuasive techniques in a text?
-article_title: What strategies can be employed to identify bias and persuasive techniques in a text?
+title: >-
+    What strategies can be employed to identify bias and persuasive techniques in a text?
+article_title: >-
+    What strategies can be employed to identify bias and persuasive techniques in a text?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-employed-to-identify-bias-and-persuasive-techn
 url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
 score: -1.0
 related_article1:
-    id: 162256
-    title: What questions can help identify an author's point of view in a text?
+    id: 162571
+    title: >-
+        What are the key health considerations for maintaining nutritional balance and adequate protein sources in a vegetarian diet?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/what-are-the-key-health-considerations-for-maintaining-nutritional-balance-and-adequate-protein-sources-in-a-vegetarian-diet
 related_article2:
-    id: 162558
-    title: What questions can help identify an author's point of view in a text?
+    id: 162258
+    title: >-
+        What are the different types of evidence commonly used in texts, and how do they support claims?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/what-are-the-different-types-of-evidence-commonly-used-in-texts-and-how-do-they-support-claims
 related_article3:
-    id: 162558
-    title: What questions can help identify an author's point of view in a text?
+    id: 162265
+    title: >-
+        How does the ecological footprint of a diet impact environmental sustainability?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-impact-environmental-sustainability
 related_article4:
-    id: 162257
-    title: How does word choice, including loaded language, impact the point of view presented in a text?
+    id: 162566
+    title: >-
+        What are the key components to consider when analyzing nutrition articles for health benefits and dietary guidelines?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
+    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-analyzing-nutrition-articles-for-health-benefits-and-dietary-guidelines
 related_article5:
-    id: 162256
-    title: What questions can help identify an author's point of view in a text?
+    id: 162574
+    title: >-
+        What criteria should be used to evaluate an author's credibility and the quality of evidence in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/what-criteria-should-be-used-to-evaluate-an-authors-credibility-and-the-quality-of-evidence-in-a-text
 ---
 
 &nbsp;

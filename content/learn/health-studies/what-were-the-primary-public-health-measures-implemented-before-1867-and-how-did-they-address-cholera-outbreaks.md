@@ -2,8 +2,10 @@
 _schema: default
 id: 162316
 date: 2025-01-25
-title: What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
-article_title: What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
+title: >-
+    What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
+article_title: >-
+    What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-primary-public-health-measures-implemented-before-1867-
 url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-before-1867-and-how-did-they-address-cholera-outbreaks
 score: -1.0
 related_article1:
-    id: 162336
-    title: What were the key nutrition initiatives and food safety programs expanded during World War II?
+    id: 162347
+    title: >-
+        What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
+    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
 related_article2:
-    id: 162339
-    title: How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
+    id: 162319
+    title: >-
+        What role did public health laboratories play in the introduction of bacteriology and disease control?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
+    url: /learn/health-studies/questions/what-role-did-public-health-laboratories-play-in-the-introduction-of-bacteriology-and-disease-control
 related_article3:
-    id: 162318
-    title: How did Edward Playter influence sanitary reforms in the late 19th century?
+    id: 162341
+    title: >-
+        What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
+    url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
 related_article4:
-    id: 162344
-    title: How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
+    id: 162319
+    title: >-
+        What role did public health laboratories play in the introduction of bacteriology and disease control?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
+    url: /learn/health-studies/questions/what-role-did-public-health-laboratories-play-in-the-introduction-of-bacteriology-and-disease-control
 related_article5:
-    id: 162321
-    title: How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
+    id: 162319
+    title: >-
+        What role did public health laboratories play in the introduction of bacteriology and disease control?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-the-establishment-of-the-canadian-public-health-association
+    url: /learn/health-studies/questions/what-role-did-public-health-laboratories-play-in-the-introduction-of-bacteriology-and-disease-control
 ---
 
 &nbsp;

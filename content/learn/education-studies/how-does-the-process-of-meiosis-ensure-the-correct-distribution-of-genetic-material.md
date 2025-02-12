@@ -2,8 +2,10 @@
 _schema: default
 id: 167778
 date: 2025-02-01
-title: How does the process of meiosis ensure the correct distribution of genetic material?
-article_title: How does the process of meiosis ensure the correct distribution of genetic material?
+title: >-
+    How does the process of meiosis ensure the correct distribution of genetic material?
+article_title: >-
+    How does the process of meiosis ensure the correct distribution of genetic material?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-process-of-meiosis-ensure-the-correct-distribution-of-ge
 url: /learn/education-studies/questions/how-does-the-process-of-meiosis-ensure-the-correct-distribution-of-genetic-material
 score: -1.0
 related_article1:
-    id: 167781
-    title: What are polygenic traits, and how do they differ from Mendelian traits?
+    id: 167775
+    title: >-
+        Describe Thomas Morgan's contribution to the understanding of X-linked traits.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-polygenic-traits-and-how-do-they-differ-from-mendelian-traits
+    url: /learn/education-studies/questions/describe-thomas-morgans-contribution-to-the-understanding-of-xlinked-traits
 related_article2:
-    id: 167781
-    title: What are polygenic traits, and how do they differ from Mendelian traits?
+    id: 167772
+    title: >-
+        Explain the difference between homozygous and heterozygous genotypes.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-polygenic-traits-and-how-do-they-differ-from-mendelian-traits
+    url: /learn/education-studies/questions/explain-the-difference-between-homozygous-and-heterozygous-genotypes
 related_article3:
-    id: 167776
-    title: How does sickle cell disease illustrate the concept of genetic disorders?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-sickle-cell-disease-illustrate-the-concept-of-genetic-disorders
-related_article4:
     id: 167781
-    title: What are polygenic traits, and how do they differ from Mendelian traits?
+    title: >-
+        What are polygenic traits, and how do they differ from Mendelian traits?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-polygenic-traits-and-how-do-they-differ-from-mendelian-traits
-related_article5:
-    id: 167770
-    title: How does the chromosomal theory of inheritance relate to Mendel's laws?
+related_article4:
+    id: 167768
+    title: >-
+        How do Mendel's laws of segregation and independent assortment explain genetic inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chromosomal-theory-of-inheritance-relate-to-mendels-laws
+    url: /learn/education-studies/questions/how-do-mendels-laws-of-segregation-and-independent-assortment-explain-genetic-inheritance
+related_article5:
+    id: 167772
+    title: >-
+        Explain the difference between homozygous and heterozygous genotypes.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-difference-between-homozygous-and-heterozygous-genotypes
 ---
 
 &nbsp;

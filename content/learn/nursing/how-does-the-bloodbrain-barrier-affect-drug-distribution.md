@@ -2,8 +2,10 @@
 _schema: default
 id: 166456
 date: 2025-01-30
-title: How does the blood-brain barrier affect drug distribution?
-article_title: How does the blood-brain barrier affect drug distribution?
+title: >-
+    How does the blood-brain barrier affect drug distribution?
+article_title: >-
+    How does the blood-brain barrier affect drug distribution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-bloodbrain-barrier-affect-drug-distribution.md
 url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 score: -1.0
 related_article1:
-    id: 166466
-    title: What are therapeutic uses and clinical applications in the context of drug indications?
+    id: 166461
+    title: >-
+        How do genetic factors influence drug metabolism?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-therapeutic-uses-and-clinical-applications-in-the-context-of-drug-indications
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
 related_article2:
-    id: 166467
-    title: What are the potential risks associated with drug contraindications?
+    id: 166470
+    title: >-
+        What is the role of prophylactic treatment in pharmacotherapeutics?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
+    url: /learn/nursing/questions/what-is-the-role-of-prophylactic-treatment-in-pharmacotherapeutics
 related_article3:
     id: 166462
-    title: What are the primary routes of drug excretion?
+    title: >-
+        What are the primary routes of drug excretion?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
 related_article4:
-    id: 166462
-    title: What are the primary routes of drug excretion?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-routes-of-drug-excretion
-related_article5:
     id: 166472
-    title: What is the focus of palliative care in pharmacotherapeutics?
+    title: >-
+        What is the focus of palliative care in pharmacotherapeutics?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+related_article5:
+    id: 166461
+    title: >-
+        How do genetic factors influence drug metabolism?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-genetic-factors-influence-drug-metabolism
 ---
 
 &nbsp;

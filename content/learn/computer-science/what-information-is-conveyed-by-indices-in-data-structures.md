@@ -2,8 +2,10 @@
 _schema: default
 id: 160873
 date: 2025-01-24
-title: What information is conveyed by indices in data structures?
-article_title: What information is conveyed by indices in data structures?
+title: >-
+    What information is conveyed by indices in data structures?
+article_title: >-
+    What information is conveyed by indices in data structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-information-is-conveyed-by-indices-in-data-structures.md
 url: /learn/computer-science/questions/what-information-is-conveyed-by-indices-in-data-structures
 score: -1.0
 related_article1:
-    id: 160796
-    title: What data is required for generating circular calendars?
+    id: 160698
+    title: >-
+        What is the role of abstraction in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
+    url: /learn/computer-science/questions/what-is-the-role-of-abstraction-in-computing
 related_article2:
-    id: 160860
-    title: How does testing differ from proving solutions in problem-solving?
+    id: 160721
+    title: >-
+        How does abstraction simplify calendar algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
+    url: /learn/computer-science/questions/how-does-abstraction-simplify-calendar-algorithms
 related_article3:
-    id: 160771
-    title: What is the role of separating logic and control in algorithm development?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-separating-logic-and-control-in-algorithm-development
-related_article4:
-    id: 160777
-    title: What is the purpose of abstraction in computing?
+    id: 160864
+    title: >-
+        What is the purpose of abstraction in computing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
-related_article5:
-    id: 160710
-    title: What constraints must be considered for binary search to be effective?
+related_article4:
+    id: 160793
+    title: >-
+        How do indices convey information in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
+    url: /learn/computer-science/questions/how-do-indices-convey-information-in-data-structures
+related_article5:
+    id: 161030
+    title: >-
+        How can constraints simplify algorithm design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
 ---
 
 &nbsp;

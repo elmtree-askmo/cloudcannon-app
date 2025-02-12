@@ -2,8 +2,10 @@
 _schema: default
 id: 169669
 date: 2025-02-05
-title: What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
-article_title: What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+title: >-
+    What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+article_title: >-
+    What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-responsibilities-of-the-health-and-safety-executive-in-m
 url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
 score: -1.0
 related_article1:
-    id: 169680
-    title: What are the essential components of an emergency response plan in a healthcare setting?
+    id: 169670
+    title: >-
+        How is the safety of medical devices ensured under medications and healthcare products regulation?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-essential-components-of-an-emergency-response-plan-in-a-healthcare-setting
+    url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
 related_article2:
     id: 169677
-    title: What are the key components of an effective emergency evacuation plan in case of a fire?
+    title: >-
+        What are the key components of an effective emergency evacuation plan in case of a fire?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
 related_article3:
-    id: 169678
-    title: How should medical equipment be maintained to ensure its functionality and safety?
+    id: 169675
+    title: >-
+        What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
 related_article4:
-    id: 169670
-    title: How is the safety of medical devices ensured under medications and healthcare products regulation?
+    id: 169663
+    title: >-
+        What are common risks identified in healthcare settings, and why is risk assessment important?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
+    url: /learn/nursing/questions/what-are-common-risks-identified-in-healthcare-settings-and-why-is-risk-assessment-important
 related_article5:
-    id: 169679
-    title: What strategies can be implemented to maintain a safe and hygienic hospital environment?
+    id: 169683
+    title: >-
+        What techniques are effective in managing aggressive patients and ensuring staff safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-implemented-to-maintain-a-safe-and-hygienic-hospital-environment
+    url: /learn/nursing/questions/what-techniques-are-effective-in-managing-aggressive-patients-and-ensuring-staff-safety
 ---
 
 &nbsp;

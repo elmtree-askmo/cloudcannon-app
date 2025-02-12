@@ -2,8 +2,10 @@
 _schema: default
 id: 163002
 date: 2025-01-26
-title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
-article_title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+title: >-
+    What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+article_title: >-
+    What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-goaldirected-behavior-in-understanding-hu
 url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
 score: -1.0
 related_article1:
-    id: 163004
-    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
-related_article2:
     id: 162997
-    title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    title: >-
+        How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
     subject: Psychology
     url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+related_article2:
+    id: 163005
+    title: >-
+        What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
 related_article3:
-    id: 163001
-    title: How does lifestyle assessment in Adlerian therapy incorporate family constellation and early recollections?
+    id: 163004
+    title: >-
+        What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-lifestyle-assessment-in-adlerian-therapy-incorporate-family-constellation-and-early-recollections
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
 related_article4:
-    id: 163007
-    title: What are the psychological positions and characteristics associated with birth order theory in Adlerian therapy?
+    id: 162994
+    title: >-
+        What were the key influences in Alfred Adler's early life that shaped his development of Individual Psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-psychological-positions-and-characteristics-associated-with-birth-order-theory-in-adlerian-therapy
+    url: /learn/psychology/questions/what-were-the-key-influences-in-alfred-adlers-early-life-that-shaped-his-development-of-individual-psychology
 related_article5:
-    id: 162996
-    title: What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    id: 163004
+    title: >-
+        What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
+    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164087
 date: 2025-01-28
-title: What are the key components of an effective to-do list for time management?
-article_title: What are the key components of an effective to-do list for time management?
+title: >-
+    What are the key components of an effective to-do list for time management?
+article_title: >-
+    What are the key components of an effective to-do list for time management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-an-effective-todo-list-for-time-manage
 url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-todo-list-for-time-management
 score: -1.0
 related_article1:
+    id: 164097
+    title: >-
+        What is the role of self-assessment in metacognition, and how can it be applied?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-selfassessment-in-metacognition-and-how-can-it-be-applied
+related_article2:
+    id: 164111
+    title: >-
+        How does university structure differ from college, particularly in terms of independent learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-university-structure-differ-from-college-particularly-in-terms-of-independent-learning
+related_article3:
+    id: 164099
+    title: >-
+        What factors should be considered when forming a study group?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-a-study-group
+related_article4:
     id: 164109
-    title: Why is lifelong learning important in today's rapidly changing world?
+    title: >-
+        Why is lifelong learning important in today's rapidly changing world?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-lifelong-learning-important-in-todays-rapidly-changing-world
-related_article2:
-    id: 164113
-    title: How can reflective writing be used to learn from personal experiences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-be-used-to-learn-from-personal-experiences
-related_article3:
-    id: 164091
-    title: What are the essential elements of a well-structured academic essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-academic-essay
-related_article4:
-    id: 164095
-    title: What strategies can be used to evaluate arguments critically?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-evaluate-arguments-critically
 related_article5:
-    id: 164096
-    title: How does identifying bias contribute to critical thinking?
+    id: 164109
+    title: >-
+        Why is lifelong learning important in today's rapidly changing world?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-identifying-bias-contribute-to-critical-thinking
+    url: /learn/education-studies/questions/why-is-lifelong-learning-important-in-todays-rapidly-changing-world
 ---
 
 &nbsp;

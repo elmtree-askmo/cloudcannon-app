@@ -2,8 +2,10 @@
 _schema: default
 id: 165029
 date: 2025-01-28
-title: How is business intelligence applied in data analysis?
-article_title: How is business intelligence applied in data analysis?
+title: >-
+    How is business intelligence applied in data analysis?
+article_title: >-
+    How is business intelligence applied in data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-business-intelligence-applied-in-data-analysis.md
 url: /learn/education-studies/questions/how-is-business-intelligence-applied-in-data-analysis
 score: -1.0
 related_article1:
-    id: 165052
-    title: What features are essential for effective course management on learning platforms?
+    id: 165043
+    title: >-
+        What is the function of reward systems in reinforcement learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-features-are-essential-for-effective-course-management-on-learning-platforms
+    url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
 related_article2:
-    id: 165028
-    title: What role do programming languages play in data analysis?
+    id: 165024
+    title: >-
+        What are the key statistical methods used in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-programming-languages-play-in-data-analysis
+    url: /learn/education-studies/questions/what-are-the-key-statistical-methods-used-in-data-analysis
 related_article3:
-    id: 165044
-    title: How does Q-Learning differ from Deep Q-Networks in reinforcement learning?
+    id: 165046
+    title: >-
+        What are effective techniques for audience engagement during a presentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-qlearning-differ-from-deep-qnetworks-in-reinforcement-learning
+    url: /learn/education-studies/questions/what-are-effective-techniques-for-audience-engagement-during-a-presentation
 related_article4:
-    id: 165032
-    title: What is the significance of control and variables in an experimental setup?
+    id: 165035
+    title: >-
+        What are the main elements to consider when creating a character's backstory?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-control-and-variables-in-an-experimental-setup
+    url: /learn/education-studies/questions/what-are-the-main-elements-to-consider-when-creating-a-characters-backstory
 related_article5:
-    id: 165045
-    title: What are the applications of reinforcement learning in robotics?
+    id: 165025
+    title: >-
+        How do machine learning algorithms contribute to data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-applications-of-reinforcement-learning-in-robotics
+    url: /learn/education-studies/questions/how-do-machine-learning-algorithms-contribute-to-data-analysis
 ---
 
 &nbsp;

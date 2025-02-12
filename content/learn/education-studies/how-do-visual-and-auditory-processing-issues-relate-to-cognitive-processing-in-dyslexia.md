@@ -2,8 +2,10 @@
 _schema: default
 id: 164519
 date: 2025-01-28
-title: How do visual and auditory processing issues relate to cognitive processing in dyslexia?
-article_title: How do visual and auditory processing issues relate to cognitive processing in dyslexia?
+title: >-
+    How do visual and auditory processing issues relate to cognitive processing in dyslexia?
+article_title: >-
+    How do visual and auditory processing issues relate to cognitive processing in dyslexia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-visual-and-auditory-processing-issues-relate-to-cognitive-proc
 url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
 score: -1.0
 related_article1:
-    id: 164522
-    title: Which brain regions are involved in speech production, and how does aphasia affect this process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/which-brain-regions-are-involved-in-speech-production-and-how-does-aphasia-affect-this-process
-related_article2:
-    id: 164518
-    title: What are the defining characteristics of dyslexia, and how prevalent is it?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
-related_article3:
     id: 164508
-    title: How does TMS contribute to understanding vision and motion detection?
+    title: >-
+        How does TMS contribute to understanding vision and motion detection?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
+related_article2:
+    id: 164507
+    title: >-
+        What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-of-using-transcranial-magnetic-stimulation-tms-in-cognitive-studies
+related_article3:
+    id: 164515
+    title: >-
+        What is the significance of semantics in language, and how does damage to posterior language regions affect it?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
 related_article4:
-    id: 164517
-    title: How do different brain imaging techniques compare in their application to cognitive neuroscience?
+    id: 164526
+    title: >-
+        What contributions have neuroimaging studies made to understanding aphasia in language processing research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
+    url: /learn/education-studies/questions/what-contributions-have-neuroimaging-studies-made-to-understanding-aphasia-in-language-processing-research
 related_article5:
-    id: 164514
-    title: How does damage to anterior language regions impact syntax processing?
+    id: 164507
+    title: >-
+        What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
+    url: /learn/education-studies/questions/what-are-the-advantages-of-using-transcranial-magnetic-stimulation-tms-in-cognitive-studies
 ---
 
 &nbsp;

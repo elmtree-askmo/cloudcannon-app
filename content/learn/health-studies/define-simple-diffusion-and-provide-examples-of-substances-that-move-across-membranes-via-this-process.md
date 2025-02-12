@@ -2,8 +2,10 @@
 _schema: default
 id: 168955
 date: 2025-02-04
-title: Define simple diffusion and provide examples of substances that move across membranes via this process.
-article_title: Define simple diffusion and provide examples of substances that move across membranes via this process.
+title: >-
+    Define simple diffusion and provide examples of substances that move across membranes via this process.
+article_title: >-
+    Define simple diffusion and provide examples of substances that move across membranes via this process.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-simple-diffusion-and-provide-examples-of-substances-that-move-
 url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 score: -1.0
 related_article1:
-    id: 168949
-    title: How do saturated and unsaturated fatty acids influence membrane fluidity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
-related_article2:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
-related_article3:
     id: 168958
-    title: Describe the mechanism and function of the sodium-potassium pump in active transport.
+    title: >-
+        Describe the mechanism and function of the sodium-potassium pump in active transport.
     subject: Health Studies
     url: /learn/health-studies/questions/describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-active-transport
-related_article4:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
+related_article2:
+    id: 168944
+    title: >-
+        What are the key functional groups found in biomolecules, and how do they influence molecular properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
-related_article5:
+    url: /learn/health-studies/questions/what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-they-influence-molecular-properties
+related_article3:
     id: 168952
-    title: How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
+    title: >-
+        How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-temperature-affect-membrane-fluidity-and-what-role-does-cholesterol-play-in-this-process
+related_article4:
+    id: 168948
+    title: >-
+        Describe the structure and components of phospholipids and their role in membrane formation.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-structure-and-components-of-phospholipids-and-their-role-in-membrane-formation
+related_article5:
+    id: 168950
+    title: >-
+        What are amphipathic molecules, and why are they important in membrane formation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-formation
 ---
 
 &nbsp;

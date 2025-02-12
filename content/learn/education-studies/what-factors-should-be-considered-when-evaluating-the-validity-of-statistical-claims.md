@@ -2,8 +2,10 @@
 _schema: default
 id: 165165
 date: 2025-01-28
-title: What factors should be considered when evaluating the validity of statistical claims?
-article_title: What factors should be considered when evaluating the validity of statistical claims?
+title: >-
+    What factors should be considered when evaluating the validity of statistical claims?
+article_title: >-
+    What factors should be considered when evaluating the validity of statistical claims?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-should-be-considered-when-evaluating-the-validity-of-sta
 url: /learn/education-studies/questions/what-factors-should-be-considered-when-evaluating-the-validity-of-statistical-claims
 score: -1.0
 related_article1:
-    id: 165162
-    title: How can you debug and test code in SciToolkit?
+    id: 165158
+    title: >-
+        What are some alternative explanations for causal claims in nature and health?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-debug-and-test-code-in-scitoolkit
+    url: /learn/education-studies/questions/what-are-some-alternative-explanations-for-causal-claims-in-nature-and-health
 related_article2:
-    id: 165162
-    title: How can you debug and test code in SciToolkit?
+    id: 165155
+    title: >-
+        How do photoreceptors contribute to the visual effects of afterimages?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-debug-and-test-code-in-scitoolkit
+    url: /learn/education-studies/questions/how-do-photoreceptors-contribute-to-the-visual-effects-of-afterimages
 related_article3:
-    id: 165153
-    title: How can SciToolkit be used for experimentation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-scitoolkit-be-used-for-experimentation
-related_article4:
     id: 165157
-    title: Provide an example of how correlation can be misinterpreted as causation.
+    title: >-
+        Provide an example of how correlation can be misinterpreted as causation.
     subject: Education Studies
     url: /learn/education-studies/questions/provide-an-example-of-how-correlation-can-be-misinterpreted-as-causation
-related_article5:
-    id: 165160
-    title: What are the main characteristics of observational studies?
+related_article4:
+    id: 165167
+    title: >-
+        What are the essential steps in formulating a hypothesis for an experiment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-observational-studies
+    url: /learn/education-studies/questions/what-are-the-essential-steps-in-formulating-a-hypothesis-for-an-experiment
+related_article5:
+    id: 165168
+    title: >-
+        What techniques are used to analyze experimental results and draw conclusions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-are-used-to-analyze-experimental-results-and-draw-conclusions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164032
 date: 2025-01-28
-title: What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
-article_title: What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+title: >-
+    What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+article_title: >-
+    What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-corticolimbic-interactions-in-the-role-of
 url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
 score: -1.0
 related_article1:
-    id: 164035
-    title: What are the behavioral and cognitive implications of neurodevelopmental disorders?
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-behavioral-and-cognitive-implications-of-neurodevelopmental-disorders
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 related_article2:
-    id: 164027
-    title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
+    id: 164031
+    title: >-
+        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
 related_article3:
-    id: 164030
-    title: What neural anomalies are highlighted in the Paralimbic System Dysfunction Model beyond the amygdala?
+    id: 164033
+    title: >-
+        How can brain data be utilized to predict antisocial behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-neural-anomalies-are-highlighted-in-the-paralimbic-system-dysfunction-model-beyond-the-amygdala
+    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
 related_article4:
-    id: 164027
-    title: How do maternal substance abuse and parenting styles influence gene x environment interactions?
+    id: 164029
+    title: >-
+        How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
+    url: /learn/psychology/questions/how-does-dr-james-blairs-integrated-emotion-systems-model-explain-emotional-and-behavioral-outcomes
 related_article5:
-    id: 164028
-    title: What is the role of amygdala hyporesponsiveness in affective processing deficits?
+    id: 164024
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
 ---
 
 &nbsp;

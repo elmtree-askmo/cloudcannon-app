@@ -2,8 +2,10 @@
 _schema: default
 id: 170512
 date: 2025-02-06
-title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
-article_title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+title: >-
+    What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+article_title: >-
+    What mechanisms regulate heart rate in cardiac muscle under involuntary control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involunta
 url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 score: -1.0
 related_article1:
-    id: 170509
-    title: How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
 related_article2:
-    id: 170520
-    title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    id: 170507
+    title: >-
+        Explain the role of muscarinic receptors in the parasympathetic nervous system.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+    url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
 related_article3:
-    id: 170520
-    title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    id: 170507
+    title: >-
+        Explain the role of muscarinic receptors in the parasympathetic nervous system.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+    url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
 related_article4:
-    id: 170508
-    title: What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
-related_article5:
     id: 170515
-    title: What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+    title: >-
+        What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
+related_article5:
+    id: 170521
+    title: >-
+        How can drug interactions modulate heart rate and influence blood vessel diameter?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
 ---
 
 &nbsp;

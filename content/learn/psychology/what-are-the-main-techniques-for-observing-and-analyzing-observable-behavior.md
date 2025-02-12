@@ -2,8 +2,10 @@
 _schema: default
 id: 167700
 date: 2025-01-31
-title: What are the main techniques for observing and analyzing observable behavior?
-article_title: What are the main techniques for observing and analyzing observable behavior?
+title: >-
+    What are the main techniques for observing and analyzing observable behavior?
+article_title: >-
+    What are the main techniques for observing and analyzing observable behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-techniques-for-observing-and-analyzing-observable-b
 url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
 score: -1.0
 related_article1:
-    id: 167698
-    title: What are the key components of experimental design in psychological research?
+    id: 167685
+    title: >-
+        How do perceptions of normalcy influence human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
 related_article2:
-    id: 167709
-    title: What are the primary methods used in clinical psychology for assessment and diagnosis?
+    id: 167704
+    title: >-
+        What methods are used to study animal behavior in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
+    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
 related_article3:
-    id: 167692
-    title: What are the core principles of Cognitive Behavioral Therapy?
+    id: 167694
+    title: >-
+        How do neurobiological processes influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 related_article4:
-    id: 167707
-    title: How do memory processes like encoding and retrieval affect memory disorders?
+    id: 167693
+    title: >-
+        What are some limitations and challenges associated with the effectiveness of CBT?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+    url: /learn/psychology/questions/what-are-some-limitations-and-challenges-associated-with-the-effectiveness-of-cbt
 related_article5:
-    id: 167710
-    title: How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
+    id: 167701
+    title: >-
+        How does classical conditioning differ from operant conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
 ---
 
 &nbsp;

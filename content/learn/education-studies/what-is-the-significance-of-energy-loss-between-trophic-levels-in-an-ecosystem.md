@@ -2,8 +2,10 @@
 _schema: default
 id: 160437
 date: 2025-01-24
-title: What is the significance of energy loss between trophic levels in an ecosystem?
-article_title: What is the significance of energy loss between trophic levels in an ecosystem?
+title: >-
+    What is the significance of energy loss between trophic levels in an ecosystem?
+article_title: >-
+    What is the significance of energy loss between trophic levels in an ecosystem?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-energy-loss-between-trophic-levels-in-an-
 url: /learn/education-studies/questions/what-is-the-significance-of-energy-loss-between-trophic-levels-in-an-ecosystem
 score: -1.0
 related_article1:
+    id: 160450
+    title: >-
+        What Excel features are most useful for creating effective data visualizations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-excel-features-are-most-useful-for-creating-effective-data-visualizations
+related_article2:
+    id: 160450
+    title: >-
+        What Excel features are most useful for creating effective data visualizations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-excel-features-are-most-useful-for-creating-effective-data-visualizations
+related_article3:
+    id: 160441
+    title: >-
+        What are the key components of the Shannon Diversity Index formula?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-the-shannon-diversity-index-formula
+related_article4:
     id: 160447
-    title: How can temporal trends be analyzed in ecological data?
+    title: >-
+        How can temporal trends be analyzed in ecological data?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-temporal-trends-be-analyzed-in-ecological-data
-related_article2:
+related_article5:
     id: 160446
-    title: What are the primary sources and methods for collecting spatial and temporal data in ecology?
+    title: >-
+        What are the primary sources and methods for collecting spatial and temporal data in ecology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-primary-sources-and-methods-for-collecting-spatial-and-temporal-data-in-ecology
-related_article3:
-    id: 160451
-    title: How can species richness be assessed in a biodiversity study?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
-related_article4:
-    id: 160448
-    title: What are the key considerations when interpreting spatial patterns in ecological data?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-considerations-when-interpreting-spatial-patterns-in-ecological-data
-related_article5:
-    id: 160443
-    title: How is species richness assessed using the Shannon Diversity Index?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
 ---
 
 &nbsp;

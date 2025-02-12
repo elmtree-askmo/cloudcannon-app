@@ -2,8 +2,10 @@
 _schema: default
 id: 160548
 date: 2025-01-24
-title: What strategies do states employ to maintain territorial control and sovereignty?
-article_title: What strategies do states employ to maintain territorial control and sovereignty?
+title: >-
+    What strategies do states employ to maintain territorial control and sovereignty?
+article_title: >-
+    What strategies do states employ to maintain territorial control and sovereignty?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-do-states-employ-to-maintain-territorial-control-and-
 url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
 score: -1.0
 related_article1:
-    id: 160099
-    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    id: 160092
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 related_article2:
-    id: 160620
-    title: How do economic forces and political actions influence urban transformations in human geography?
+    id: 160103
+    title: >-
+        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
 related_article3:
-    id: 160235
-    title: Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    id: 160085
+    title: >-
+        What strategies do states use to maintain territorial control and sovereignty in political actions?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
 related_article4:
-    id: 160553
-    title: What are the main factors contributing to social inequality within social structures?
+    id: 160547
+    title: >-
+        Discuss the impact of global markets on local economies and economic inequality.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
+    url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
 related_article5:
-    id: 160222
-    title: What role do community dynamics and social inequality play in shaping social structures?
+    id: 160638
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

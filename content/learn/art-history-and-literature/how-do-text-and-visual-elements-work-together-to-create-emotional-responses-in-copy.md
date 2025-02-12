@@ -2,8 +2,10 @@
 _schema: default
 id: 166750
 date: 2025-01-31
-title: How do text and visual elements work together to create emotional responses in copy?
-article_title: How do text and visual elements work together to create emotional responses in copy?
+title: >-
+    How do text and visual elements work together to create emotional responses in copy?
+article_title: >-
+    How do text and visual elements work together to create emotional responses in copy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-text-and-visual-elements-work-together-to-create-emotional-res
 url: /learn/art-history-and-literature/questions/how-do-text-and-visual-elements-work-together-to-create-emotional-responses-in-copy
 score: 9.5
 related_article1:
-    id: 166743
-    title: How can imagery be used to evoke emotional appeals in advertising?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-imagery-be-used-to-evoke-emotional-appeals-in-advertising
-related_article2:
-    id: 166752
-    title: What are some common grammar mistakes to watch for in copywriting?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-common-grammar-mistakes-to-watch-for-in-copywriting
-related_article3:
-    id: 166745
-    title: What factors should be considered when analyzing the demographics of an audience?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-factors-should-be-considered-when-analyzing-the-demographics-of-an-audience
-related_article4:
-    id: 166749
-    title: Why is it important to avoid clichés and redundancy in writing?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-it-important-to-avoid-clichs-and-redundancy-in-writing
-related_article5:
     id: 166753
-    title: Why is proofreading crucial for spelling accuracy in copywriting?
+    title: >-
+        Why is proofreading crucial for spelling accuracy in copywriting?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/why-is-proofreading-crucial-for-spelling-accuracy-in-copywriting
+related_article2:
+    id: 166745
+    title: >-
+        What factors should be considered when analyzing the demographics of an audience?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-factors-should-be-considered-when-analyzing-the-demographics-of-an-audience
+related_article3:
+    id: 166753
+    title: >-
+        Why is proofreading crucial for spelling accuracy in copywriting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-proofreading-crucial-for-spelling-accuracy-in-copywriting
+related_article4:
+    id: 166751
+    title: >-
+        What is the significance of maintaining a consistent brand tone in copywriting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-significance-of-maintaining-a-consistent-brand-tone-in-copywriting
+related_article5:
+    id: 166755
+    title: >-
+        What are some effective strategies for generating ideas during the writing process?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-effective-strategies-for-generating-ideas-during-the-writing-process
 ---
 
 &nbsp;

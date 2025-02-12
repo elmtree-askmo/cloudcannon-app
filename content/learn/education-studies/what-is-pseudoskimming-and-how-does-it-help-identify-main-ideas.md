@@ -2,8 +2,10 @@
 _schema: default
 id: 165603
 date: 2025-01-29
-title: What is pseudo-skimming, and how does it help identify main ideas?
-article_title: What is pseudo-skimming, and how does it help identify main ideas?
+title: >-
+    What is pseudo-skimming, and how does it help identify main ideas?
+article_title: >-
+    What is pseudo-skimming, and how does it help identify main ideas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-pseudoskimming-and-how-does-it-help-identify-main-ideas.md
 url: /learn/education-studies/questions/what-is-pseudoskimming-and-how-does-it-help-identify-main-ideas
 score: -1.0
 related_article1:
-    id: 165610
-    title: What techniques can be used to prioritize reading assignments?
+    id: 165612
+    title: >-
+        What are the key concepts to identify in text structure analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-prioritize-reading-assignments
+    url: /learn/education-studies/questions/what-are-the-key-concepts-to-identify-in-text-structure-analysis
 related_article2:
-    id: 165591
-    title: How do regressions in reading impact comprehension?
+    id: 165611
+    title: >-
+        How does skimming help in understanding text structure?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-regressions-in-reading-impact-comprehension
+    url: /learn/education-studies/questions/how-does-skimming-help-in-understanding-text-structure
 related_article3:
-    id: 165589
-    title: What is chunking, and how does it help with working memory constraints?
+    id: 165586
+    title: >-
+        How does subvocalization affect reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-chunking-and-how-does-it-help-with-working-memory-constraints
+    url: /learn/education-studies/questions/how-does-subvocalization-affect-reading-comprehension
 related_article4:
-    id: 165615
-    title: How can note-taking enhance reading comprehension?
+    id: 165579
+    title: >-
+        What are the roles of eye movements and saccades in visual processing during reading?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-notetaking-enhance-reading-comprehension
+    url: /learn/education-studies/questions/what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing-during-reading
 related_article5:
-    id: 165593
-    title: What is the role of the fovea, parafovea, and periphery in text processing?
+    id: 165616
+    title: >-
+        What are the benefits of summarizing key points in reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-the-fovea-parafovea-and-periphery-in-text-processing
+    url: /learn/education-studies/questions/what-are-the-benefits-of-summarizing-key-points-in-reading-comprehension
 ---
 
 &nbsp;

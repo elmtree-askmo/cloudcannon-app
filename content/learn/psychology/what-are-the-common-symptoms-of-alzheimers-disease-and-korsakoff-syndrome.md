@@ -2,8 +2,10 @@
 _schema: default
 id: 164492
 date: 2025-01-28
-title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
-article_title: What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+title: >-
+    What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
+article_title: >-
+    What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-synd
 url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
 score: -1.0
 related_article1:
-    id: 164505
-    title: What are the causes of memory impairment, and how can they be addressed?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-of-memory-impairment-and-how-can-they-be-addressed
-related_article2:
-    id: 164480
-    title: What are the neurological causes of amnesia?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
-related_article3:
-    id: 164494
-    title: How do repetition and practice influence memory retention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-repetition-and-practice-influence-memory-retention
-related_article4:
-    id: 164483
-    title: How does skill acquisition relate to implicit memory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
-related_article5:
     id: 164496
-    title: What is the Information Processing Model in cognitive psychology?
+    title: >-
+        What is the Information Processing Model in cognitive psychology?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
+related_article2:
+    id: 164491
+    title: >-
+        What is the role of acetylcholine in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
+related_article3:
+    id: 164480
+    title: >-
+        What are the neurological causes of amnesia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neurological-causes-of-amnesia
+related_article4:
+    id: 164489
+    title: >-
+        How does Alzheimer's disease affect consciousness?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
 ---
 
 &nbsp;

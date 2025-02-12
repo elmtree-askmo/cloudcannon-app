@@ -2,8 +2,10 @@
 _schema: default
 id: 168198
 date: 2025-02-03
-title: Why is quality control important in data annotation?
-article_title: Why is quality control important in data annotation?
+title: >-
+    Why is quality control important in data annotation?
+article_title: >-
+    Why is quality control important in data annotation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/others/questions/why-is-quality-control-important-in-data-annotation
 score: -1.0
 related_article1:
     id: 168204
-    title: How does reinforcement learning differ from other types of machine learning?
+    title: >-
+        How does reinforcement learning differ from other types of machine learning?
     subject: Others
     url: /learn/others/questions/how-does-reinforcement-learning-differ-from-other-types-of-machine-learning
 related_article2:
     id: 168212
-    title: How do regression techniques contribute to predictive analysis?
+    title: >-
+        How do regression techniques contribute to predictive analysis?
     subject: Others
     url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
 related_article3:
-    id: 168214
-    title: What are the potential applications of quantum computing in emerging technologies?
+    id: 168206
+    title: >-
+        Explain the difference between stemming and lemmatization.
     subject: Others
-    url: /learn/others/questions/what-are-the-potential-applications-of-quantum-computing-in-emerging-technologies
+    url: /learn/others/questions/explain-the-difference-between-stemming-and-lemmatization
 related_article4:
-    id: 168204
-    title: How does reinforcement learning differ from other types of machine learning?
+    id: 168212
+    title: >-
+        How do regression techniques contribute to predictive analysis?
     subject: Others
-    url: /learn/others/questions/how-does-reinforcement-learning-differ-from-other-types-of-machine-learning
+    url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
 related_article5:
-    id: 168215
-    title: How does AutoML impact the field of AI and machine learning?
+    id: 168197
+    title: >-
+        What are some common labeling techniques used in data annotation?
     subject: Others
-    url: /learn/others/questions/how-does-automl-impact-the-field-of-ai-and-machine-learning
+    url: /learn/others/questions/what-are-some-common-labeling-techniques-used-in-data-annotation
 ---
 
 &nbsp;

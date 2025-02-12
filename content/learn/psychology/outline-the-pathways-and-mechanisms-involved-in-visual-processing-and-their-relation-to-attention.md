@@ -2,8 +2,10 @@
 _schema: default
 id: 164707
 date: 2025-01-28
-title: Outline the pathways and mechanisms involved in visual processing and their relation to attention.
-article_title: Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+title: >-
+    Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+article_title: >-
+    Outline the pathways and mechanisms involved in visual processing and their relation to attention.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: outline-the-pathways-and-mechanisms-involved-in-visual-processing-and
 url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
 score: -1.0
 related_article1:
+    id: 164698
+    title: >-
+        What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
+related_article2:
+    id: 164699
+    title: >-
+        How does space-based attention operate, and what experiments have demonstrated its characteristics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-spacebased-attention-operate-and-what-experiments-have-demonstrated-its-characteristics
+related_article3:
+    id: 164698
+    title: >-
+        What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
+related_article4:
     id: 164703
-    title: What processes are involved in memory retrieval, and how does attention influence these processes?
+    title: >-
+        What processes are involved in memory retrieval, and how does attention influence these processes?
     subject: Psychology
     url: /learn/psychology/questions/what-processes-are-involved-in-memory-retrieval-and-how-does-attention-influence-these-processes
-related_article2:
+related_article5:
     id: 164706
-    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    title: >-
+        What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
-related_article3:
-    id: 164700
-    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
-related_article4:
-    id: 164700
-    title: Explain the stages of Feature Integration Theory and how they relate to pop-out and conjunction searches.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-stages-of-feature-integration-theory-and-how-they-relate-to-popout-and-conjunction-searches
-related_article5:
-    id: 164704
-    title: Describe the factors that affect vigilance and explain the principles of Signal Detection Theory.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-factors-that-affect-vigilance-and-explain-the-principles-of-signal-detection-theory
 ---
 
 &nbsp;

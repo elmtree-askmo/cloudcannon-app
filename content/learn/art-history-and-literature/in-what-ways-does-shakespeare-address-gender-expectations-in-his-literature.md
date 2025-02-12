@@ -2,8 +2,10 @@
 _schema: default
 id: 168281
 date: 2025-02-03
-title: In what ways does Shakespeare address gender expectations in his literature?
-article_title: In what ways does Shakespeare address gender expectations in his literature?
+title: >-
+    In what ways does Shakespeare address gender expectations in his literature?
+article_title: >-
+    In what ways does Shakespeare address gender expectations in his literature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-does-shakespeare-address-gender-expectations-in-his-lite
 url: /learn/art-history-and-literature/questions/in-what-ways-does-shakespeare-address-gender-expectations-in-his-literature
 score: 9.0
 related_article1:
+    id: 168289
+    title: >-
+        What are the main themes and character dynamics in 'Much Ado About Nothing'?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-themes-and-character-dynamics-in-much-ado-about-nothing
+related_article2:
     id: 168285
-    title: What are common sources of misunderstanding and conflict in Shakespeare's plays?
+    title: >-
+        What are common sources of misunderstanding and conflict in Shakespeare's plays?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-common-sources-of-misunderstanding-and-conflict-in-shakespeares-plays
-related_article2:
-    id: 168283
-    title: What role does language play in shaping perception in Shakespeare's works?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-language-play-in-shaping-perception-in-shakespeares-works
 related_article3:
-    id: 168282
-    title: How does trust and deception interplay in Shakespearean narratives?
+    id: 168286
+    title: >-
+        How do words shape relationships in Shakespeare's narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-trust-and-deception-interplay-in-shakespearean-narratives
+    url: /learn/art-history-and-literature/questions/how-do-words-shape-relationships-in-shakespeares-narratives
 related_article4:
-    id: 168283
-    title: What role does language play in shaping perception in Shakespeare's works?
+    id: 168287
+    title: >-
+        What are the key components of developing an arguable thesis in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-language-play-in-shaping-perception-in-shakespeares-works
+    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-developing-an-arguable-thesis-in-literary-analysis
 related_article5:
-    id: 168279
-    title: What are the central themes explored in Shakespeare's works, and how do they reflect societal issues?
+    id: 168291
+    title: >-
+        How is forgiveness portrayed in literature, and what are its implications for character development?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-central-themes-explored-in-shakespeares-works-and-how-do-they-reflect-societal-issues
+    url: /learn/art-history-and-literature/questions/how-is-forgiveness-portrayed-in-literature-and-what-are-its-implications-for-character-development
 ---
 
 &nbsp;

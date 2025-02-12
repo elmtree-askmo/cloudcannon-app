@@ -2,8 +2,10 @@
 _schema: default
 id: 167827
 date: 2025-02-01
-title: What are the primary types and functions of biological macromolecules?
-article_title: What are the primary types and functions of biological macromolecules?
+title: >-
+    What are the primary types and functions of biological macromolecules?
+article_title: >-
+    What are the primary types and functions of biological macromolecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biolog
 score: -1.0
 related_article1:
     id: 167828
-    title: How do mitosis and meiosis differ in terms of genetic outcomes?
+    title: >-
+        How do mitosis and meiosis differ in terms of genetic outcomes?
     subject: Biology
     url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
 related_article2:
-    id: 167825
-    title: What are the main sources of genetic variation?
+    id: 167811
+    title: >-
+        How do sister chromatids function during cell division?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
+    url: /learn/biology/questions/how-do-sister-chromatids-function-during-cell-division
 related_article3:
-    id: 167813
-    title: How does chromatin differ in non-dividing cells compared to dividing cells?
+    id: 167814
+    title: >-
+        What is the significance of the double helix structure of DNA?
     subject: Biology
-    url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
+    url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
 related_article4:
-    id: 167826
-    title: How do mutations contribute to evolutionary changes?
-    subject: Biology
-    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
-related_article5:
     id: 167816
-    title: What are the key differences between prokaryotic and eukaryotic DNA?
+    title: >-
+        What are the key differences between prokaryotic and eukaryotic DNA?
     subject: Biology
     url: /learn/biology/questions/what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna
+related_article5:
+    id: 167814
+    title: >-
+        What is the significance of the double helix structure of DNA?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
 ---
 
 &nbsp;

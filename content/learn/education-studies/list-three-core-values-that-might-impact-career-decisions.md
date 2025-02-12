@@ -2,8 +2,10 @@
 _schema: default
 id: 168455
 date: 2025-02-03
-title: List three core values that might impact career decisions.
-article_title: List three core values that might impact career decisions.
+title: >-
+    List three core values that might impact career decisions.
+article_title: >-
+    List three core values that might impact career decisions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: list-three-core-values-that-might-impact-career-decisions.md
 url: /learn/education-studies/questions/list-three-core-values-that-might-impact-career-decisions
 score: -1.0
 related_article1:
-    id: 168461
-    title: What traits are commonly suited for specific careers?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
-related_article2:
     id: 168460
-    title: How do personal traits influence career choice?
+    title: >-
+        How do personal traits influence career choice?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-personal-traits-influence-career-choice
-related_article3:
-    id: 168462
-    title: How can aligning skills and values with careers benefit career planning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
-related_article4:
-    id: 168469
-    title: What is the role of media in shaping values?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
-related_article5:
+related_article2:
     id: 168464
-    title: What are the general categories of skills and why are they important?
+    title: >-
+        What are the general categories of skills and why are they important?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-general-categories-of-skills-and-why-are-they-important
+related_article3:
+    id: 168467
+    title: >-
+        What is the significance of work values in career choices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-work-values-in-career-choices
+related_article4:
+    id: 168457
+    title: >-
+        What are subject-specific skills and how do they differ from general skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-subjectspecific-skills-and-how-do-they-differ-from-general-skills
+related_article5:
+    id: 168463
+    title: >-
+        What are some online resources available for career planning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
 ---
 
 &nbsp;

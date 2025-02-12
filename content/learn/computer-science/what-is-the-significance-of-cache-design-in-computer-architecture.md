@@ -2,8 +2,10 @@
 _schema: default
 id: 161048
 date: 2025-01-24
-title: What is the significance of cache design in computer architecture?
-article_title: What is the significance of cache design in computer architecture?
+title: >-
+    What is the significance of cache design in computer architecture?
+article_title: >-
+    What is the significance of cache design in computer architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-cache-design-in-computer-architecture.md
 url: /learn/computer-science/questions/what-is-the-significance-of-cache-design-in-computer-architecture
 score: -1.0
 related_article1:
-    id: 160712
-    title: How is pattern recognition used in data mining?
+    id: 161038
+    title: >-
+        What are the primary functions of database management systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
 related_article2:
-    id: 160987
-    title: What are the principles of usability in user interface design?
+    id: 160727
+    title: >-
+        What are the principles of usability in user interface design?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
 related_article3:
-    id: 160722
-    title: What is the difference between discrete event simulation and continuous simulation?
+    id: 160719
+    title: >-
+        How is image processing utilized in computer graphics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
+    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
 related_article4:
-    id: 160726
-    title: How does cache design impact computer architecture performance?
+    id: 160719
+    title: >-
+        How is image processing utilized in computer graphics?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-cache-design-impact-computer-architecture-performance
+    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
 related_article5:
-    id: 161033
-    title: What are the key components of computational problem solving?
+    id: 160724
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-components-of-computational-problem-solving
+    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 ---
 
 &nbsp;

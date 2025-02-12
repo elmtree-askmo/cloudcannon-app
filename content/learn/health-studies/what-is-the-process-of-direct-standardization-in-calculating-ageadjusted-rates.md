@@ -2,8 +2,10 @@
 _schema: default
 id: 163315
 date: 2025-01-26
-title: What is the process of direct standardization in calculating age-adjusted rates?
-article_title: What is the process of direct standardization in calculating age-adjusted rates?
+title: >-
+    What is the process of direct standardization in calculating age-adjusted rates?
+article_title: >-
+    What is the process of direct standardization in calculating age-adjusted rates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-direct-standardization-in-calculating-ageadjus
 url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
 score: -1.0
 related_article1:
-    id: 163309
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+    id: 163313
+    title: >-
+        How is the case fatality rate calculated and how does it differ from the mortality rate?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
+    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
 related_article2:
-    id: 163321
-    title: What are the strengths and limitations of ecological studies in epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
-related_article3:
-    id: 162986
-    title: What role do epidemiologic questions play in generating public health hypotheses?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
-related_article4:
-    id: 162983
-    title: Why is age-adjustment important when comparing mortality rates across different populations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
-related_article5:
     id: 163314
-    title: Why are age-adjusted rates important in epidemiological studies?
+    title: >-
+        Why are age-adjusted rates important in epidemiological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
+related_article3:
+    id: 163321
+    title: >-
+        What are the strengths and limitations of ecological studies in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-strengths-and-limitations-of-ecological-studies-in-epidemiology
+related_article4:
+    id: 162981
+    title: >-
+        How do age-specific rates differ from crude rates in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-agespecific-rates-differ-from-crude-rates-in-epidemiology
+related_article5:
+    id: 162989
+    title: >-
+        What are the primary purposes of public health surveillance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 ---
 
 &nbsp;

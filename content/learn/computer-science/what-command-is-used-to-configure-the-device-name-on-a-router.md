@@ -2,8 +2,10 @@
 _schema: default
 id: 165668
 date: 2025-01-29
-title: What command is used to configure the device name on a router?
-article_title: What command is used to configure the device name on a router?
+title: >-
+    What command is used to configure the device name on a router?
+article_title: >-
+    What command is used to configure the device name on a router?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-command-is-used-to-configure-the-device-name-on-a-router.md
 url: /learn/computer-science/questions/what-command-is-used-to-configure-the-device-name-on-a-router
 score: -1.0
 related_article1:
-    id: 165680
-    title: Which command provides a brief overview of the status of all interfaces on a router?
-    subject: Computer Science
-    url: /learn/computer-science/questions/which-command-provides-a-brief-overview-of-the-status-of-all-interfaces-on-a-router
-related_article2:
     id: 165681
-    title: How can you verify the routing table on a router?
+    title: >-
+        How can you verify the routing table on a router?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-verify-the-routing-table-on-a-router
-related_article3:
-    id: 165674
-    title: What is the purpose of the 'no shutdown' command in router interface configuration?
+related_article2:
+    id: 165673
+    title: >-
+        Which command saves the current configuration on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-no-shutdown-command-in-router-interface-configuration
+    url: /learn/computer-science/questions/which-command-saves-the-current-configuration-on-a-router
+related_article3:
+    id: 165676
+    title: >-
+        What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-an-ipv4-subnet-mask-and-an-ipv6-prefix-length
 related_article4:
     id: 165674
-    title: What is the purpose of the 'no shutdown' command in router interface configuration?
+    title: >-
+        What is the purpose of the 'no shutdown' command in router interface configuration?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-purpose-of-the-no-shutdown-command-in-router-interface-configuration
 related_article5:
-    id: 165681
-    title: How can you verify the routing table on a router?
+    id: 165677
+    title: >-
+        Which command is used to set the hostname of a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-verify-the-routing-table-on-a-router
+    url: /learn/computer-science/questions/which-command-is-used-to-set-the-hostname-of-a-router
 ---
 
 &nbsp;

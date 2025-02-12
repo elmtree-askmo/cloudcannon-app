@@ -2,8 +2,10 @@
 _schema: default
 id: 167817
 date: 2025-02-01
-title: What is the central dogma of molecular biology?
-article_title: What is the central dogma of molecular biology?
+title: >-
+    What is the central dogma of molecular biology?
+article_title: >-
+    What is the central dogma of molecular biology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-central-dogma-of-molecular-biology.md
 url: /learn/biology/questions/what-is-the-central-dogma-of-molecular-biology
 score: -1.0
 related_article1:
-    id: 167826
-    title: How do mutations contribute to evolutionary changes?
-    subject: Biology
-    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
-related_article2:
-    id: 167810
-    title: What roles do chromosomes and chromatin play in genetic material organization?
-    subject: Biology
-    url: /learn/biology/questions/what-roles-do-chromosomes-and-chromatin-play-in-genetic-material-organization
-related_article3:
-    id: 167825
-    title: What are the main sources of genetic variation?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
-related_article4:
-    id: 167814
-    title: What is the significance of the double helix structure of DNA?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-double-helix-structure-of-dna
-related_article5:
     id: 167812
-    title: What is the structure and composition of chromosomes?
+    title: >-
+        What is the structure and composition of chromosomes?
     subject: Biology
     url: /learn/biology/questions/what-is-the-structure-and-composition-of-chromosomes
+related_article2:
+    id: 167819
+    title: >-
+        What is differential gene expression and why is it important?
+    subject: Biology
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
+related_article3:
+    id: 167826
+    title: >-
+        How do mutations contribute to evolutionary changes?
+    subject: Biology
+    url: /learn/biology/questions/how-do-mutations-contribute-to-evolutionary-changes
+related_article4:
+    id: 167809
+    title: >-
+        Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+related_article5:
+    id: 167809
+    title: >-
+        Why is DNA considered the genetic material?
+    subject: Biology
+    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
 ---
 
 &nbsp;

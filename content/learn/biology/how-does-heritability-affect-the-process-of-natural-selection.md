@@ -2,8 +2,10 @@
 _schema: default
 id: 165257
 date: 2025-01-28
-title: How does heritability affect the process of natural selection?
-article_title: How does heritability affect the process of natural selection?
+title: >-
+    How does heritability affect the process of natural selection?
+article_title: >-
+    How does heritability affect the process of natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-heritability-affect-the-process-of-natural-selection.md
 url: /learn/biology/questions/how-does-heritability-affect-the-process-of-natural-selection
 score: -1.0
 related_article1:
-    id: 165261
-    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    id: 165259
+    title: >-
+        What is the purpose of a cross-fostering experiment in studying heritability?
     subject: Biology
-    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+    url: /learn/biology/questions/what-is-the-purpose-of-a-crossfostering-experiment-in-studying-heritability
 related_article2:
-    id: 165267
-    title: What is directional selection and how does it affect a population's traits?
+    id: 165263
+    title: >-
+        What is convergent evolution and how does it relate to natural selection?
     subject: Biology
-    url: /learn/biology/questions/what-is-directional-selection-and-how-does-it-affect-a-populations-traits
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-relate-to-natural-selection
 related_article3:
-    id: 165261
-    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    id: 165260
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
     subject: Biology
-    url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 related_article4:
     id: 165261
-    title: How can phylogenetic trees be used to understand evolutionary relationships among species?
+    title: >-
+        How can phylogenetic trees be used to understand evolutionary relationships among species?
     subject: Biology
     url: /learn/biology/questions/how-can-phylogenetic-trees-be-used-to-understand-evolutionary-relationships-among-species
 related_article5:
-    id: 165266
-    title: Explain the relationship between phenotype and genotype and their influence on behavior.
+    id: 165260
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
     subject: Biology
-    url: /learn/biology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
+    url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168828
 date: 2025-02-04
-title: How does the branching in amelopectin affect its hydrolysis efficiency?
-article_title: How does the branching in amelopectin affect its hydrolysis efficiency?
+title: >-
+    How does the branching in amelopectin affect its hydrolysis efficiency?
+article_title: >-
+    How does the branching in amelopectin affect its hydrolysis efficiency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficienc
 url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
 score: -1.0
 related_article1:
+    id: 168829
+    title: >-
+        What role do enzymes play in the hydrolysis of amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
+related_article2:
+    id: 168840
+    title: >-
+        What are the mechanisms involved in glucose transport across the intestinal epithelium?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
+related_article3:
+    id: 168827
+    title: >-
+        What is the structural difference between amylose and amelopectin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structural-difference-between-amylose-and-amelopectin
+related_article4:
+    id: 168832
+    title: >-
+        How do exopeptidases contribute to the breakdown of polypeptides?
+    subject: Biology
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
+related_article5:
     id: 168839
-    title: Why is mitochondria important for active transport in nutrient absorption?
+    title: >-
+        Why is mitochondria important for active transport in nutrient absorption?
     subject: Biology
     url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
-related_article2:
-    id: 168831
-    title: What is the function of endopeptidases in protein digestion?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
-related_article3:
-    id: 168837
-    title: What is the role of the sodium-potassium pump in creating a concentration gradient?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-creating-a-concentration-gradient
-related_article4:
-    id: 168830
-    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
-related_article5:
-    id: 168841
-    title: How do villi adaptations maximize nutrient absorption in the small intestine?
-    subject: Biology
-    url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
 ---
 
 &nbsp;

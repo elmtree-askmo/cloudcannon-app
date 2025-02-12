@@ -2,8 +2,10 @@
 _schema: default
 id: 163597
 date: 2025-01-27
-title: Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
-article_title: Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
+title: >-
+    Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
+article_title: >-
+    Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-mixed-constitution-of-spartan-governance-including-the-ro
 url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
 score: 9.5
 related_article1:
-    id: 163601
-    title: What challenges are faced in interpreting archaeological evidence from Sparta?
+    id: 163589
+    title: >-
+        How did non-Spartan authors contribute to the skewed perception of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
+    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
 related_article2:
-    id: 163603
-    title: What was the role of religion and mythology in Spartan culture, particularly the worship of Athena?
+    id: 163605
+    title: >-
+        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-religion-and-mythology-in-spartan-culture-particularly-the-worship-of-athena
+    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
 related_article3:
+    id: 163606
+    title: >-
+        How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
+related_article4:
+    id: 163596
+    title: >-
+        How did the Dorian dialect influence the Greek language?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
+related_article5:
     id: 163601
-    title: What challenges are faced in interpreting archaeological evidence from Sparta?
+    title: >-
+        What challenges are faced in interpreting archaeological evidence from Sparta?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
-related_article4:
-    id: 163595
-    title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
-related_article5:
-    id: 163604
-    title: How did the agricultural basis of the Spartan economy rely on the Helots?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
 ---
 
 &nbsp;

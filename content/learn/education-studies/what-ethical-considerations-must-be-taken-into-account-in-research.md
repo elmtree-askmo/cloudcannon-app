@@ -2,8 +2,10 @@
 _schema: default
 id: 163688
 date: 2025-01-27
-title: What ethical considerations must be taken into account in research?
-article_title: What ethical considerations must be taken into account in research?
+title: >-
+    What ethical considerations must be taken into account in research?
+article_title: >-
+    What ethical considerations must be taken into account in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-ethical-considerations-must-be-taken-into-account-in-research.md
 url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
 score: -1.0
 related_article1:
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
+related_article2:
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
+related_article3:
+    id: 163689
+    title: >-
+        What is the process of inductive reasoning, and how is it applied in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
+related_article4:
+    id: 163693
+    title: >-
+        What is holism, and why is it important in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+related_article5:
     id: 163675
-    title: What is the difference between objective and subjective knowledge in epistemology?
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
-related_article2:
-    id: 163678
-    title: How does inductive reasoning play a role in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
-related_article3:
-    id: 163694
-    title: What is naturalism, and why is it important in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
-related_article4:
-    id: 163692
-    title: How does objective knowledge contribute to quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
-related_article5:
-    id: 163692
-    title: How does objective knowledge contribute to quantitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 ---
 
 &nbsp;

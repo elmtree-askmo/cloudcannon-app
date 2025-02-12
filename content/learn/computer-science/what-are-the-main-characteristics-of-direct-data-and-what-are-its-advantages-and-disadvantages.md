@@ -2,8 +2,10 @@
 _schema: default
 id: 161429
 date: 2025-01-24
-title: What are the main characteristics of direct data, and what are its advantages and disadvantages?
-article_title: What are the main characteristics of direct data, and what are its advantages and disadvantages?
+title: >-
+    What are the main characteristics of direct data, and what are its advantages and disadvantages?
+article_title: >-
+    What are the main characteristics of direct data, and what are its advantages and disadvantages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-of-direct-data-and-what-are-its-adv
 url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
 score: -1.0
 related_article1:
-    id: 161500
-    title: What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
+    id: 161695
+    title: >-
+        What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-and-tlsssl-in-encryption-protocols
+    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
 related_article2:
-    id: 161494
-    title: What factors influence the relevance of information and why is it important?
+    id: 161690
+    title: >-
+        Why is the age of information important, and what factors can affect its timeliness?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-the-age-of-information-important-and-what-factors-can-affect-its-timeliness
+related_article3:
+    id: 161433
+    title: >-
+        What factors influence the relevance of information, and why is it important?
     subject: Computer Science
     url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
-related_article3:
-    id: 161504
-    title: What is the purpose of data validation and how do range checks and type checks function?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
 related_article4:
-    id: 161697
-    title: What are the characteristics of online processing, and what are its advantages and disadvantages?
+    id: 161434
+    title: >-
+        Why is the age of information crucial, and what factors can affect how up-to-date information is?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
 related_article5:
-    id: 161504
-    title: What is the purpose of data validation and how do range checks and type checks function?
+    id: 161668
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
+    url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
 ---
 
 &nbsp;

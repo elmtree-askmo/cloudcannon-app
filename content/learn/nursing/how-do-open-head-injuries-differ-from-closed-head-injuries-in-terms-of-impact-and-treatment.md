@@ -2,8 +2,10 @@
 _schema: default
 id: 164442
 date: 2025-01-28
-title: How do open head injuries differ from closed head injuries in terms of impact and treatment?
-article_title: How do open head injuries differ from closed head injuries in terms of impact and treatment?
+title: >-
+    How do open head injuries differ from closed head injuries in terms of impact and treatment?
+article_title: >-
+    How do open head injuries differ from closed head injuries in terms of impact and treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-o
 url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
 score: -1.0
 related_article1:
-    id: 164446
-    title: How does the temporal lobe contribute to memory and learning processes?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-the-temporal-lobe-contribute-to-memory-and-learning-processes
-related_article2:
     id: 164454
-    title: Which populations are at higher risk for brain injury, and why?
+    title: >-
+        Which populations are at higher risk for brain injury, and why?
     subject: Nursing
     url: /learn/nursing/questions/which-populations-are-at-higher-risk-for-brain-injury-and-why
+related_article2:
+    id: 164440
+    title: >-
+        How do anoxic and hypoxic injuries impact brain function?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-anoxic-and-hypoxic-injuries-impact-brain-function
 related_article3:
-    id: 164452
-    title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+    id: 164453
+    title: >-
+        Describe the role of outpatient services in long-term rehabilitation for brain injury.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
+    url: /learn/nursing/questions/describe-the-role-of-outpatient-services-in-longterm-rehabilitation-for-brain-injury
 related_article4:
-    id: 164448
-    title: What challenges might individuals face with attention and information processing after a brain injury?
+    id: 164443
+    title: >-
+        What internal factors can lead to brain injury, and how do they affect the brain?
     subject: Nursing
-    url: /learn/nursing/questions/what-challenges-might-individuals-face-with-attention-and-information-processing-after-a-brain-injury
+    url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
 related_article5:
-    id: 164441
-    title: What are the main causes and risk factors associated with traumatic brain injury (TBI)?
+    id: 164458
+    title: >-
+        How do physical forces impact brain structure and function in the context of neuroanatomy?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-causes-and-risk-factors-associated-with-traumatic-brain-injury-tbi
+    url: /learn/nursing/questions/how-do-physical-forces-impact-brain-structure-and-function-in-the-context-of-neuroanatomy
 ---
 
 &nbsp;

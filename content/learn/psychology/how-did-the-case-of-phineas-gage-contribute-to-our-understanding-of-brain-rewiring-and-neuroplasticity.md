@@ -2,8 +2,10 @@
 _schema: default
 id: 170578
 date: 2025-02-06
-title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
-article_title: How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+title: >-
+    How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
+article_title: >-
+    How did the case of Phineas Gage contribute to our understanding of brain rewiring and neuroplasticity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-b
 url: /learn/psychology/questions/how-did-the-case-of-phineas-gage-contribute-to-our-understanding-of-brain-rewiring-and-neuroplasticity
 score: -1.0
 related_article1:
-    id: 170576
-    title: What is the role of the prefrontal cortex in working memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-prefrontal-cortex-in-working-memory
-related_article2:
     id: 170561
-    title: What are the primary functions of the amygdala within the limbic system?
+    title: >-
+        What are the primary functions of the amygdala within the limbic system?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+related_article2:
+    id: 170588
+    title: >-
+        How does the occipital lobe process visual information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
 related_article3:
-    id: 170581
-    title: What insights have split-brain research provided about hemispheric functions?
+    id: 170589
+    title: >-
+        What is the role of serotonin in mood regulation and behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+    url: /learn/psychology/questions/what-is-the-role-of-serotonin-in-mood-regulation-and-behavior
 related_article4:
-    id: 170564
-    title: How does the hippocampus contribute to long-term memory formation?
+    id: 170588
+    title: >-
+        How does the occipital lobe process visual information?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
+    url: /learn/psychology/questions/how-does-the-occipital-lobe-process-visual-information
 related_article5:
-    id: 170564
-    title: How does the hippocampus contribute to long-term memory formation?
+    id: 170590
+    title: >-
+        How is dopamine involved in the brain's reward system and its connection to psychopathy?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-hippocampus-contribute-to-longterm-memory-formation
+    url: /learn/psychology/questions/how-is-dopamine-involved-in-the-brains-reward-system-and-its-connection-to-psychopathy
 ---
 
 &nbsp;

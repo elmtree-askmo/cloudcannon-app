@@ -2,8 +2,10 @@
 _schema: default
 id: 167491
 date: 2025-01-31
-title: What career paths are available in biology for research and academia?
-article_title: What career paths are available in biology for research and academia?
+title: >-
+    What career paths are available in biology for research and academia?
+article_title: >-
+    What career paths are available in biology for research and academia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-career-paths-are-available-in-biology-for-research-and-academia.
 url: /learn/biology/questions/what-career-paths-are-available-in-biology-for-research-and-academia
 score: -1.0
 related_article1:
-    id: 167487
-    title: Why is STEM education important in the modern curriculum?
+    id: 167476
+    title: >-
+        How do practice exams on the Codon Learning Platform help students prepare for exams?
     subject: Biology
-    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
 related_article2:
-    id: 167488
-    title: What are some challenges in STEM education and their potential solutions?
+    id: 167468
+    title: >-
+        How does biology apply to everyday life?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+    url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
 related_article3:
-    id: 167469
-    title: Describe the structure and function of a typical cell.
+    id: 167490
+    title: >-
+        How are students assessed through exams and quizzes in this course?
     subject: Biology
-    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
+    url: /learn/biology/questions/how-are-students-assessed-through-exams-and-quizzes-in-this-course
 related_article4:
     id: 167480
-    title: What communication tools are available on the D2L Learning Management System?
+    title: >-
+        What communication tools are available on the D2L Learning Management System?
     subject: Biology
     url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
 related_article5:
-    id: 167478
-    title: What are the subscription options available for iClicker technology?
+    id: 167476
+    title: >-
+        How do practice exams on the Codon Learning Platform help students prepare for exams?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
 ---
 
 &nbsp;

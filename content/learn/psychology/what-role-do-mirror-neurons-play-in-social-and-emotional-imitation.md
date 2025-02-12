@@ -2,8 +2,10 @@
 _schema: default
 id: 164531
 date: 2025-01-28
-title: What role do mirror neurons play in social and emotional imitation?
-article_title: What role do mirror neurons play in social and emotional imitation?
+title: >-
+    What role do mirror neurons play in social and emotional imitation?
+article_title: >-
+    What role do mirror neurons play in social and emotional imitation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-mirror-neurons-play-in-social-and-emotional-imitation.md
 url: /learn/psychology/questions/what-role-do-mirror-neurons-play-in-social-and-emotional-imitation
 score: -1.0
 related_article1:
-    id: 164529
-    title: What is the relationship between arousal and valence in emotional classification?
+    id: 164533
+    title: >-
+        What have neuroimaging studies revealed about the correlation between physical and social pain?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
+    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
 related_article2:
-    id: 164541
-    title: What is brain plasticity, and how does it facilitate adaptation and learning?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-brain-plasticity-and-how-does-it-facilitate-adaptation-and-learning
-related_article3:
     id: 164530
-    title: How do approach and withdrawal emotions differ in terms of brain activation?
+    title: >-
+        How do approach and withdrawal emotions differ in terms of brain activation?
     subject: Psychology
     url: /learn/psychology/questions/how-do-approach-and-withdrawal-emotions-differ-in-terms-of-brain-activation
+related_article3:
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
 related_article4:
-    id: 164532
-    title: How does social connectedness influence emotional perception and experience?
+    id: 164533
+    title: >-
+        What have neuroimaging studies revealed about the correlation between physical and social pain?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
+    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
 related_article5:
-    id: 164528
-    title: How are basic and advanced emotional processes differentiated in the brain?
+    id: 164536
+    title: >-
+        How does aging affect cognitive performance, and what role does physical activity play in maintaining cognitive health?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-basic-and-advanced-emotional-processes-differentiated-in-the-brain
+    url: /learn/psychology/questions/how-does-aging-affect-cognitive-performance-and-what-role-does-physical-activity-play-in-maintaining-cognitive-health
 ---
 
 &nbsp;

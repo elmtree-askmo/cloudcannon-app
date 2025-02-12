@@ -2,8 +2,10 @@
 _schema: default
 id: 161141
 date: 2025-01-24
-title: How can the irrationality of a number be proven?
-article_title: How can the irrationality of a number be proven?
+title: >-
+    How can the irrationality of a number be proven?
+article_title: >-
+    How can the irrationality of a number be proven?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-irrationality-of-a-number-be-proven.md
 url: /learn/computer-science/questions/how-can-the-irrationality-of-a-number-be-proven
 score: -1.0
 related_article1:
-    id: 160800
-    title: What role does abstraction play in simplifying complex computing problems?
+    id: 160798
+    title: >-
+        What is the importance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 related_article2:
-    id: 161091
-    title: What role does abstraction play in algorithm design?
+    id: 161139
+    title: >-
+        How is proof by contradiction used in mathematical proofs?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-algorithm-design
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-in-mathematical-proofs
 related_article3:
-    id: 160965
-    title: What breakthroughs have been made in primality testing algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
-related_article4:
-    id: 160809
-    title: What are the characteristics of intractable problems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-intractable-problems
-related_article5:
     id: 160968
-    title: How does understanding cardinality impact set theory and computability?
+    title: >-
+        How does understanding cardinality impact set theory and computability?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
+related_article4:
+    id: 160802
+    title: >-
+        How do data structures influence the efficiency of algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-data-structures-influence-the-efficiency-of-algorithms
+related_article5:
+    id: 160803
+    title: >-
+        What is the relationship between data structures and problem representation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-problem-representation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165938
 date: 2025-01-29
-title: How has the Fons Americanus been interpreted and critiqued by the public and critics?
-article_title: How has the Fons Americanus been interpreted and critiqued by the public and critics?
+title: >-
+    How has the Fons Americanus been interpreted and critiqued by the public and critics?
+article_title: >-
+    How has the Fons Americanus been interpreted and critiqued by the public and critics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-pub
 url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
 score: 9.0
 related_article1:
-    id: 165925
-    title: How did the Great Exhibition serve as a display of imperial power and colonial narratives?
+    id: 165933
+    title: >-
+        What were the key logistical challenges faced during the planning and organization of the Great Exhibition of 1851?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
+    url: /learn/history-of-the-world/questions/what-were-the-key-logistical-challenges-faced-during-the-planning-and-organization-of-the-great-exhibition-of-1851
 related_article2:
-    id: 165937
-    title: What themes and artistic techniques are explored in the Fons Americanus?
+    id: 165923
+    title: >-
+        How did the Great Exhibition change public perception and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
 related_article3:
-    id: 165934
-    title: What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
+    id: 165926
+    title: >-
+        What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
+    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
 related_article4:
-    id: 165936
-    title: How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    id: 165935
+    title: >-
+        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
+    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 related_article5:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165931
+    title: >-
+        What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170656
 date: 2025-02-06
-title: What are the key components of setting SMART goals?
-article_title: What are the key components of setting SMART goals?
+title: >-
+    What are the key components of setting SMART goals?
+article_title: >-
+    What are the key components of setting SMART goals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-setting-smart-goals.md
 url: /learn/education-studies/questions/what-are-the-key-components-of-setting-smart-goals
 score: -1.0
 related_article1:
-    id: 170669
-    title: How do disability services ensure equal access and support for students with disabilities?
+    id: 170663
+    title: >-
+        Why are personal values important in decision making and career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-disability-services-ensure-equal-access-and-support-for-students-with-disabilities
+    url: /learn/education-studies/questions/why-are-personal-values-important-in-decision-making-and-career-choices
 related_article2:
-    id: 170664
-    title: How can observing daily actions help in demonstrating values in action?
+    id: 170672
+    title: >-
+        How can participating in honors and research programs support academic pursuits?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-observing-daily-actions-help-in-demonstrating-values-in-action
+    url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
 related_article3:
-    id: 170652
-    title: What strategies can be used to build relationships with community organizations?
+    id: 170660
+    title: >-
+        What is intrinsic motivation, and how does it contribute to long-term sustainability?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
+    url: /learn/education-studies/questions/what-is-intrinsic-motivation-and-how-does-it-contribute-to-longterm-sustainability
 related_article4:
-    id: 170664
-    title: How can observing daily actions help in demonstrating values in action?
+    id: 170662
+    title: >-
+        How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-observing-daily-actions-help-in-demonstrating-values-in-action
+    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
 related_article5:
-    id: 170652
-    title: What strategies can be used to build relationships with community organizations?
+    id: 170662
+    title: >-
+        How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
+    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162852
 date: 2025-01-25
-title: How do distributed ledgers and smart contracts function in blockchain technology?
-article_title: How do distributed ledgers and smart contracts function in blockchain technology?
+title: >-
+    How do distributed ledgers and smart contracts function in blockchain technology?
+article_title: >-
+    How do distributed ledgers and smart contracts function in blockchain technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain
 url: /learn/others/questions/how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain-technology
 score: -1.0
 related_article1:
-    id: 162667
-    title: What are the components of an information system, and how do they interact?
+    id: 162658
+    title: >-
+        What are the challenges of overfitting and model validation in predictive modeling?
     subject: Others
-    url: /learn/others/questions/what-are-the-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
 related_article2:
-    id: 162382
-    title: How are tokenization and sentiment analysis used in natural language processing?
+    id: 162427
+    title: >-
+        How can Excel, R, and Python be utilized in data analysis for business intelligence and market research?
     subject: Others
-    url: /learn/others/questions/how-are-tokenization-and-sentiment-analysis-used-in-natural-language-processing
+    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence-and-market-research
 related_article3:
-    id: 162785
-    title: What are the most common cybersecurity threats, and how can encryption help mitigate them?
+    id: 162827
+    title: >-
+        How can Excel, R, and Python be utilized in data analysis for business intelligence?
     subject: Others
-    url: /learn/others/questions/what-are-the-most-common-cybersecurity-threats-and-how-can-encryption-help-mitigate-them
+    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence
 related_article4:
-    id: 162668
-    title: What are the common cybersecurity threats, and how can they be mitigated?
+    id: 162782
+    title: >-
+        How does Python's versatility make it suitable for both web development and data science?
     subject: Others
-    url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-how-can-they-be-mitigated
+    url: /learn/others/questions/how-does-pythons-versatility-make-it-suitable-for-both-web-development-and-data-science
 related_article5:
-    id: 162656
-    title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162661
+    title: >-
+        How do IaaS, PaaS, and SaaS differ in cloud computing service models?
     subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/how-do-iaas-paas-and-saas-differ-in-cloud-computing-service-models
 ---
 
 &nbsp;

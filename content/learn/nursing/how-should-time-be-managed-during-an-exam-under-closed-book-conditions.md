@@ -2,8 +2,10 @@
 _schema: default
 id: 169707
 date: 2025-02-05
-title: How should time be managed during an exam under closed book conditions?
-article_title: How should time be managed during an exam under closed book conditions?
+title: >-
+    How should time be managed during an exam under closed book conditions?
+article_title: >-
+    How should time be managed during an exam under closed book conditions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-time-be-managed-during-an-exam-under-closed-book-condition
 url: /learn/nursing/questions/how-should-time-be-managed-during-an-exam-under-closed-book-conditions
 score: -1.0
 related_article1:
-    id: 169719
-    title: What is the significance of vitamins and minerals as micronutrients?
+    id: 169722
+    title: >-
+        What are the health impacts of sleep deprivation?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-significance-of-vitamins-and-minerals-as-micronutrients
+    url: /learn/nursing/questions/what-are-the-health-impacts-of-sleep-deprivation
 related_article2:
-    id: 169727
-    title: What is the composition of blood in terms of red and white blood cells?
+    id: 169709
+    title: >-
+        What role do the pulmonary artery and vein play in blood circulation?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-composition-of-blood-in-terms-of-red-and-white-blood-cells
+    url: /learn/nursing/questions/what-role-do-the-pulmonary-artery-and-vein-play-in-blood-circulation
 related_article3:
+    id: 169711
+    title: >-
+        What is the difference between the sympathetic and parasympathetic nervous systems?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-difference-between-the-sympathetic-and-parasympathetic-nervous-systems
+related_article4:
+    id: 169704
+    title: >-
+        What is the structure of a multiple choice question in an exam format?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-structure-of-a-multiple-choice-question-in-an-exam-format
+related_article5:
     id: 169724
-    title: What is referred pain and what are some common examples?
+    title: >-
+        What is referred pain and what are some common examples?
     subject: Nursing
     url: /learn/nursing/questions/what-is-referred-pain-and-what-are-some-common-examples
-related_article4:
-    id: 169718
-    title: What are the primary macronutrients and their functions?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-macronutrients-and-their-functions
-related_article5:
-    id: 169710
-    title: How do dendrites and axons function in nerve cells?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-dendrites-and-axons-function-in-nerve-cells
 ---
 
 &nbsp;

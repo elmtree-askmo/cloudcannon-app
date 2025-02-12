@@ -2,8 +2,10 @@
 _schema: default
 id: 163333
 date: 2025-01-26
-title: What are the critical assumptions when calculating cumulative incidence?
-article_title: What are the critical assumptions when calculating cumulative incidence?
+title: >-
+    What are the critical assumptions when calculating cumulative incidence?
+article_title: >-
+    What are the critical assumptions when calculating cumulative incidence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-critical-assumptions-when-calculating-cumulative-inciden
 url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
 score: -1.0
 related_article1:
-    id: 163073
-    title: How is person-years of observation calculated, and why is it important in dynamic populations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
-related_article2:
-    id: 163334
-    title: Explain the concept of person-time in the context of incidence rate calculation.
-    subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
-related_article3:
-    id: 163076
-    title: What is the purpose of a 2x2 table in epidemiologic data analysis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-a-2x2-table-in-epidemiologic-data-analysis
-related_article4:
-    id: 163063
-    title: Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+    id: 163327
+    title: >-
+        Why is the denominator important in measures of disease frequency, and how can it vary across populations?
     subject: Health Studies
     url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
-related_article5:
-    id: 163227
-    title: What is the significance of measuring disease frequency over a consistent time interval?
+related_article2:
+    id: 163230
+    title: >-
+        What is a rate in epidemiology, and how can it be misunderstood?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
+    url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
+related_article3:
+    id: 163238
+    title: >-
+        How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
+related_article4:
+    id: 163340
+    title: >-
+        What is the difference between absolute and relative measures of association?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
+related_article5:
+    id: 163225
+    title: >-
+        How is the numerator used in measures of disease frequency determined?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 ---
 
 &nbsp;

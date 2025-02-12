@@ -2,8 +2,10 @@
 _schema: default
 id: 161159
 date: 2025-01-24
-title: How do multicore processors influence parallel computing and algorithm design?
-article_title: How do multicore processors influence parallel computing and algorithm design?
+title: >-
+    How do multicore processors influence parallel computing and algorithm design?
+article_title: >-
+    How do multicore processors influence parallel computing and algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-multicore-processors-influence-parallel-computing-and-algorith
 url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallel-computing-and-algorithm-design
 score: -1.0
 related_article1:
-    id: 161053
-    title: What is the informal definition of an algorithm and why is it important in problem-solving?
+    id: 160928
+    title: >-
+        How can you determine if an algorithm is correct or incorrect?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-informal-definition-of-an-algorithm-and-why-is-it-important-in-problemsolving
+    url: /learn/computer-science/questions/how-can-you-determine-if-an-algorithm-is-correct-or-incorrect
 related_article2:
-    id: 160936
-    title: What are NP-complete problems and why are they significant in computational theory?
+    id: 161063
+    title: >-
+        How do multicore processors influence parallel computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-npcomplete-problems-and-why-are-they-significant-in-computational-theory
+    url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallel-computing
 related_article3:
-    id: 161055
-    title: What are some applications of algorithms in biological fields?
+    id: 161066
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-applications-of-algorithms-in-biological-fields
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article4:
-    id: 161069
-    title: Describe a technique used in graph algorithms to find the shortest path.
+    id: 161164
+    title: >-
+        What is the significance of graph representation in graph algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-a-technique-used-in-graph-algorithms-to-find-the-shortest-path
+    url: /learn/computer-science/questions/what-is-the-significance-of-graph-representation-in-graph-algorithms
 related_article5:
-    id: 161070
-    title: What is an approximation algorithm and when is it used?
+    id: 161071
+    title: >-
+        Why is algorithm analysis important in understanding the efficiency of an algorithm?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-approximation-algorithm-and-when-is-it-used
+    url: /learn/computer-science/questions/why-is-algorithm-analysis-important-in-understanding-the-efficiency-of-an-algorithm
 ---
 
 &nbsp;

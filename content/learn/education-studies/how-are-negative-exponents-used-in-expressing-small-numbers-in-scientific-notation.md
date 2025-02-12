@@ -2,8 +2,10 @@
 _schema: default
 id: 165432
 date: 2025-01-29
-title: How are negative exponents used in expressing small numbers in scientific notation?
-article_title: How are negative exponents used in expressing small numbers in scientific notation?
+title: >-
+    How are negative exponents used in expressing small numbers in scientific notation?
+article_title: >-
+    How are negative exponents used in expressing small numbers in scientific notation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-negative-exponents-used-in-expressing-small-numbers-in-scient
 url: /learn/education-studies/questions/how-are-negative-exponents-used-in-expressing-small-numbers-in-scientific-notation
 score: -1.0
 related_article1:
-    id: 165426
-    title: What are the volume ranges for P20, P200, and P1000 mechanical pipettes?
+    id: 165431
+    title: >-
+        How are positive exponents used in expressing large numbers in scientific notation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-volume-ranges-for-p20-p200-and-p1000-mechanical-pipettes
+    url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
 related_article2:
-    id: 165425
-    title: What are the smallest units marked on a metric ruler, and how are they used in measurement?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-smallest-units-marked-on-a-metric-ruler-and-how-are-they-used-in-measurement
-related_article3:
-    id: 165421
-    title: Explain how scientific notation is applied to small numbers using negative exponents.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-how-scientific-notation-is-applied-to-small-numbers-using-negative-exponents
-related_article4:
-    id: 165421
-    title: Explain how scientific notation is applied to small numbers using negative exponents.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-how-scientific-notation-is-applied-to-small-numbers-using-negative-exponents
-related_article5:
     id: 165430
-    title: What are the common units for mass, length, and volume, and how can they be converted within the metric system?
+    title: >-
+        What are the common units for mass, length, and volume, and how can they be converted within the metric system?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-common-units-for-mass-length-and-volume-and-how-can-they-be-converted-within-the-metric-system
+related_article3:
+    id: 165418
+    title: >-
+        What is the basic formula for converting units, and how is the conversion factor used?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-basic-formula-for-converting-units-and-how-is-the-conversion-factor-used
+related_article4:
+    id: 165422
+    title: >-
+        What are the boiling and freezing points of water on the Celsius scale?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-boiling-and-freezing-points-of-water-on-the-celsius-scale
+related_article5:
+    id: 165422
+    title: >-
+        What are the boiling and freezing points of water on the Celsius scale?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-boiling-and-freezing-points-of-water-on-the-celsius-scale
 ---
 
 &nbsp;

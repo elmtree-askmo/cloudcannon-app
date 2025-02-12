@@ -2,8 +2,10 @@
 _schema: default
 id: 160073
 date: 2025-01-23
-title: What principles guide effective curriculum design, and how can student feedback be used to evaluate its effectiveness?
-article_title: What principles guide effective curriculum design, and how can student feedback be used to evaluate its effectiveness?
+title: >-
+    What principles guide effective curriculum design, and how can student feedback be used to evaluate its effectiveness?
+article_title: >-
+    What principles guide effective curriculum design, and how can student feedback be used to evaluate its effectiveness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-principles-guide-effective-curriculum-design-and-how-can-student
 url: /learn/education-studies/questions/what-principles-guide-effective-curriculum-design-and-how-can-student-feedback-be-used-to-evaluate-its-effectiveness
 score: -1.0
 related_article1:
-    id: 160157
-    title: What principles should be considered in curriculum design to ensure it aligns with learning outcomes?
+    id: 160150
+    title: >-
+        What are the different types of assessments, and how can students prepare effectively for them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-principles-should-be-considered-in-curriculum-design-to-ensure-it-aligns-with-learning-outcomes
+    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
 related_article2:
-    id: 159967
-    title: What are the benefits of study groups, and how do they contribute to collaborative learning?
+    id: 160478
+    title: >-
+        What are the main learning theories, and how can they be applied to enhance the educational experience?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-study-groups-and-how-do-they-contribute-to-collaborative-learning
+    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-enhance-the-educational-experience
 related_article3:
-    id: 159966
-    title: What techniques can be used to overcome presentation anxiety and engage the audience effectively?
+    id: 160069
+    title: >-
+        What are the main learning theories, and how can they be applied to enhance educational experiences?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-overcome-presentation-anxiety-and-engage-the-audience-effectively
+    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-enhance-educational-experiences
 related_article4:
-    id: 160341
-    title: How can understanding different learning styles improve study techniques and academic performance?
+    id: 160145
+    title: >-
+        How can students identify their learning style and leverage their strengths to improve academic performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-understanding-different-learning-styles-improve-study-techniques-and-academic-performance
+    url: /learn/education-studies/questions/how-can-students-identify-their-learning-style-and-leverage-their-strengths-to-improve-academic-performance
 related_article5:
-    id: 159969
-    title: What strategies can be employed for effective exam preparation, and how do practice exams aid in this process?
+    id: 160568
+    title: >-
+        How can students prioritize tasks to improve their time management skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-employed-for-effective-exam-preparation-and-how-do-practice-exams-aid-in-this-process
+    url: /learn/education-studies/questions/how-can-students-prioritize-tasks-to-improve-their-time-management-skills
 ---
 
 &nbsp;

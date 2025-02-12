@@ -2,8 +2,10 @@
 _schema: default
 id: 160369
 date: 2025-01-24
-title: How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
-article_title: How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+title: >-
+    How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+article_title: >-
+    How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-set
 url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
 score: 9.0
 related_article1:
-    id: 159898
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
+    id: 160251
+    title: >-
+        What were the typical clothing and dining habits in Celtic daily life?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
+    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 related_article2:
-    id: 159876
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 160374
+    title: >-
+        What are the defining decorative styles of La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 related_article3:
-    id: 160176
-    title: What were the primary military tactics and weaponry used by the Celts?
+    id: 159871
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 related_article4:
-    id: 160176
-    title: What were the primary military tactics and weaponry used by the Celts?
+    id: 160390
+    title: >-
+        What were the geographic locations of major Celtic tribes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
+    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes
 related_article5:
-    id: 159913
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 160378
+    title: >-
+        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
 ---

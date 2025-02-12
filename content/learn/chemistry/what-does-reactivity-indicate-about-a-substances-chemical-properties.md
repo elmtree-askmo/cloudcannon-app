@@ -2,8 +2,10 @@
 _schema: default
 id: 161726
 date: 2025-01-24
-title: What does reactivity indicate about a substance's chemical properties?
-article_title: What does reactivity indicate about a substance's chemical properties?
+title: >-
+    What does reactivity indicate about a substance's chemical properties?
+article_title: >-
+    What does reactivity indicate about a substance's chemical properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-does-reactivity-indicate-about-a-substances-chemical-properties.
 url: /learn/chemistry/questions/what-does-reactivity-indicate-about-a-substances-chemical-properties
 score: -1.0
 related_article1:
-    id: 161838
-    title: What are the physical properties of matter, and how are mass and volume related to them?
+    id: 161911
+    title: >-
+        Provide examples of compounds and their chemical formulas.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
+    url: /learn/chemistry/questions/provide-examples-of-compounds-and-their-chemical-formulas
 related_article2:
+    id: 161890
+    title: >-
+        How do chemical properties such as reactivity and composition define matter?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-chemical-properties-such-as-reactivity-and-composition-define-matter
+related_article3:
+    id: 161909
+    title: >-
+        How are chemical formulas used to represent compounds?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-are-chemical-formulas-used-to-represent-compounds
+related_article4:
     id: 161887
-    title: What are the defining characteristics of heterogeneous mixtures?
+    title: >-
+        What are the defining characteristics of heterogeneous mixtures?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-heterogeneous-mixtures
-related_article3:
-    id: 161815
-    title: What distinguishes a homogeneous mixture from a heterogeneous mixture?
+related_article5:
+    id: 161833
+    title: >-
+        What distinguishes a homogeneous mixture from a heterogeneous mixture?
     subject: Chemistry
     url: /learn/chemistry/questions/what-distinguishes-a-homogeneous-mixture-from-a-heterogeneous-mixture
-related_article4:
-    id: 161820
-    title: What are the physical properties of matter, and how are mass and volume related to them?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-physical-properties-of-matter-and-how-are-mass-and-volume-related-to-them
-related_article5:
-    id: 161718
-    title: How are pure substances classified in terms of elements and compounds?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-pure-substances-classified-in-terms-of-elements-and-compounds
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161991
 date: 2025-01-24
-title: How does the process of shaving wood represent a physical change?
-article_title: How does the process of shaving wood represent a physical change?
+title: >-
+    How does the process of shaving wood represent a physical change?
+article_title: >-
+    How does the process of shaving wood represent a physical change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-process-of-shaving-wood-represent-a-physical-change.md
 url: /learn/chemistry/questions/how-does-the-process-of-shaving-wood-represent-a-physical-change
 score: -1.0
 related_article1:
-    id: 162057
-    title: Describe the physical change that occurs when aluminum foil is crumbled.
+    id: 161760
+    title: >-
+        How does the removal of electrons lead to the formation of ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/how-does-the-removal-of-electrons-lead-to-the-formation-of-ions
 related_article2:
-    id: 161936
-    title: Describe the process of ionization and its effects on the charge of particles.
+    id: 161759
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 related_article3:
-    id: 161757
-    title: Explain the physical change that occurs when aluminum foil is crumbled.
+    id: 161976
+    title: >-
+        What are the indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-during-a-precipitation-reaction
 related_article4:
-    id: 161931
-    title: What are the characteristics of a solid state of matter?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
-related_article5:
     id: 161969
-    title: What is a precipitation reaction and how can it be identified?
+    title: >-
+        What is a precipitation reaction and how can it be identified?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+related_article5:
+    id: 162043
+    title: >-
+        How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167012
 date: 2025-01-31
-title: How do the five carbon sugars differ in nucleotides, and what is their role?
-article_title: How do the five carbon sugars differ in nucleotides, and what is their role?
+title: >-
+    How do the five carbon sugars differ in nucleotides, and what is their role?
+article_title: >-
+    How do the five carbon sugars differ in nucleotides, and what is their role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: how-do-the-five-carbon-sugars-differ-in-nucleotides-and-what-is-their
 url: /learn/education-studies/questions/how-do-the-five-carbon-sugars-differ-in-nucleotides-and-what-is-their-role
 score: -1.0
 related_article1:
-    id: 167008
-    title: How do ionic bonds contribute to the tertiary structure of proteins?
+    id: 167005
+    title: >-
+        Explain the importance of the tertiary structure for protein function and the types of bonding involved.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins
+    url: /learn/education-studies/questions/explain-the-importance-of-the-tertiary-structure-for-protein-function-and-the-types-of-bonding-involved
 related_article2:
-    id: 167005
-    title: Explain the importance of the tertiary structure for protein function and the types of bonding involved.
+    id: 167013
+    title: >-
+        What are the types of nitrogenous bases and how do they pair in nucleic acids?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-importance-of-the-tertiary-structure-for-protein-function-and-the-types-of-bonding-involved
+    url: /learn/education-studies/questions/what-are-the-types-of-nitrogenous-bases-and-how-do-they-pair-in-nucleic-acids
 related_article3:
-    id: 167003
-    title: Describe the process of peptide bond formation and its significance in protein structure.
+    id: 167007
+    title: >-
+        What role does hydrogen bonding play in the secondary structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-process-of-peptide-bond-formation-and-its-significance-in-protein-structure
-related_article4:
-    id: 167002
-    title: How do polar and non-polar side chains affect the properties of amino acids?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-polar-and-nonpolar-side-chains-affect-the-properties-of-amino-acids
-related_article5:
-    id: 167005
-    title: Explain the importance of the tertiary structure for protein function and the types of bonding involved.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-importance-of-the-tertiary-structure-for-protein-function-and-the-types-of-bonding-involved
+    url: /learn/education-studies/questions/what-role-does-hydrogen-bonding-play-in-the-secondary-structure-of-proteins
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161038
 date: 2025-01-24
-title: What are the primary functions of database management systems?
-article_title: What are the primary functions of database management systems?
+title: >-
+    What are the primary functions of database management systems?
+article_title: >-
+    What are the primary functions of database management systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-are-the-primary-functions-of-databas
 score: -1.0
 related_article1:
     id: 160911
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
 related_article2:
-    id: 160730
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    id: 160719
+    title: >-
+        How is image processing utilized in computer graphics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
 related_article3:
-    id: 160727
-    title: What are the principles of usability in user interface design?
+    id: 160707
+    title: >-
+        How does problem analysis contribute to computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
 related_article4:
-    id: 161052
-    title: How do heuristic algorithms differ from Euclid’s algorithm?
+    id: 160707
+    title: >-
+        How does problem analysis contribute to computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
+    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
 related_article5:
-    id: 161052
-    title: How do heuristic algorithms differ from Euclid’s algorithm?
+    id: 160726
+    title: >-
+        How does cache design impact computer architecture performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
+    url: /learn/computer-science/questions/how-does-cache-design-impact-computer-architecture-performance
 ---
 
 &nbsp;

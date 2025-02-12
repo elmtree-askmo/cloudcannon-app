@@ -2,8 +2,10 @@
 _schema: default
 id: 168029
 date: 2025-02-02
-title: How do misinformation and suggestibility affect memory recall?
-article_title: How do misinformation and suggestibility affect memory recall?
+title: >-
+    How do misinformation and suggestibility affect memory recall?
+article_title: >-
+    How do misinformation and suggestibility affect memory recall?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-misinformation-and-suggestibility-affect-memory-recall.md
 url: /learn/psychology/questions/how-do-misinformation-and-suggestibility-affect-memory-recall
 score: -1.0
 related_article1:
+    id: 168012
+    title: >-
+        What are the developmental trends in age-related differences in memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
+related_article2:
     id: 168020
-    title: What conditions are necessary for accurate memory recall in children?
+    title: >-
+        What conditions are necessary for accurate memory recall in children?
     subject: Psychology
     url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
-related_article2:
-    id: 168019
-    title: How does suggestibility in children change with age?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
 related_article3:
+    id: 168018
+    title: >-
+        How do age and memory recall relate to the formation of false memories?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
+related_article4:
+    id: 168010
+    title: >-
+        What is the misinformation effect and how does it contribute to inaccuracies in eyewitness testimony?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-misinformation-effect-and-how-does-it-contribute-to-inaccuracies-in-eyewitness-testimony
+related_article5:
     id: 168013
-    title: How do knowledge and false memories interact in different age groups?
+    title: >-
+        How do knowledge and false memories interact in different age groups?
     subject: Psychology
     url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
-related_article4:
-    id: 168030
-    title: What are the developmental differences that affect memory recall?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
-related_article5:
-    id: 168017
-    title: What factors influence memory accuracy in eyewitness testimony?
-    subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
 ---
 
 &nbsp;

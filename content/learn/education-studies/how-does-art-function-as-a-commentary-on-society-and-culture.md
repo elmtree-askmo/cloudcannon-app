@@ -2,8 +2,10 @@
 _schema: default
 id: 166529
 date: 2025-01-30
-title: How does art function as a commentary on society and culture?
-article_title: How does art function as a commentary on society and culture?
+title: >-
+    How does art function as a commentary on society and culture?
+article_title: >-
+    How does art function as a commentary on society and culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-art-function-as-a-commentary-on-society-and-culture.md
 url: /learn/education-studies/questions/how-does-art-function-as-a-commentary-on-society-and-culture
 score: -1.0
 related_article1:
-    id: 166519
-    title: What is the role of visual analysis in art criticism?
+    id: 166528
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-visual-analysis-in-art-criticism
+    url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 related_article2:
-    id: 166516
-    title: What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
-related_article3:
-    id: 166517
-    title: How do lighting and composition play a role in Baroque Art?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
-related_article4:
     id: 166531
-    title: How does art influence society and provide cultural commentary?
+    title: >-
+        How does art influence society and provide cultural commentary?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
-related_article5:
-    id: 166521
-    title: What distinguishes Abstract Art from other artistic movements?
+related_article3:
+    id: 166531
+    title: >-
+        How does art influence society and provide cultural commentary?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-abstract-art-from-other-artistic-movements
+    url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
+related_article4:
+    id: 166518
+    title: >-
+        How did the evolution of art lead to the development of new artistic movements?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-evolution-of-art-lead-to-the-development-of-new-artistic-movements
+related_article5:
+    id: 166528
+    title: >-
+        What is the role of the artist in expressing artistic intention and subject matter?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 ---
 
 &nbsp;

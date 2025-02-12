@@ -45,9 +45,9 @@ export default function LearnSubjest({ subject, title, pages, language = "en" })
 }
 
 export async function getStaticPaths() {
-  const subjects = await filer.listItemSlugs('/learn');
-  const paths = subjects.map(subject => ({
-    params: { subject },
+  // const subjects = await filer.listItemSlugs('/learn');
+  const paths = TOP_QUESTIONS_SUBJECTS.map(subject => ({
+    params: { subject: subject.key },
   }));
 
   return { paths, fallback: false };
@@ -61,7 +61,6 @@ export async function getStaticProps({ params }) {
 
   const folderPath = `learn/${currtentSubject?.key}`;
   const files = await filer.listItemSlugs(folderPath);
-  console.log('files', files);
   if (!files) {
     return {
       notFound: true,

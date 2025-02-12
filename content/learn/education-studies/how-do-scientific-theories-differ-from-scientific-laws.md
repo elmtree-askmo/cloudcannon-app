@@ -2,8 +2,10 @@
 _schema: default
 id: 166173
 date: 2025-01-29
-title: How do scientific theories differ from scientific laws?
-article_title: How do scientific theories differ from scientific laws?
+title: >-
+    How do scientific theories differ from scientific laws?
+article_title: >-
+    How do scientific theories differ from scientific laws?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-scientific-theories-differ-from-scientific-laws.md
 url: /learn/education-studies/questions/how-do-scientific-theories-differ-from-scientific-laws
 score: -1.0
 related_article1:
-    id: 166159
-    title: What is the role of control groups in scientific experiments?
+    id: 166157
+    title: >-
+        What are the characteristics of a good hypothesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-control-groups-in-scientific-experiments
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
 related_article2:
-    id: 166170
-    title: What are the impacts of climate change on ecosystems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-impacts-of-climate-change-on-ecosystems
-related_article3:
-    id: 166160
-    title: How do independent and dependent variables establish cause and effect in experiments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-establish-cause-and-effect-in-experiments
-related_article4:
     id: 166156
-    title: How does deductive reasoning validate scientific hypotheses?
+    title: >-
+        How does deductive reasoning validate scientific hypotheses?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-deductive-reasoning-validate-scientific-hypotheses
+related_article3:
+    id: 166155
+    title: >-
+        What is inductive reasoning and how is it applied in hypothesis creation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-inductive-reasoning-and-how-is-it-applied-in-hypothesis-creation
+related_article4:
+    id: 166165
+    title: >-
+        What are the advantages of using observational studies in environmental science?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-of-using-observational-studies-in-environmental-science
+related_article5:
+    id: 166160
+    title: >-
+        How do independent and dependent variables establish cause and effect in experiments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-establish-cause-and-effect-in-experiments
 ---
 
 &nbsp;

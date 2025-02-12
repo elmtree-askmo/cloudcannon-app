@@ -2,8 +2,10 @@
 _schema: default
 id: 164881
 date: 2025-01-28
-title: What strategies can be used to handle challenging questions during a Q&A session?
-article_title: What strategies can be used to handle challenging questions during a Q&A session?
+title: >-
+    What strategies can be used to handle challenging questions during a Q&A session?
+article_title: >-
+    What strategies can be used to handle challenging questions during a Q&A session?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-strategies-can-be-used-to-handle-challenging-questions-during-a-
 url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
 score: -1.0
 related_article1:
-    id: 164876
-    title: What are the essential components of an effective presentation?
+    id: 164875
+    title: >-
+        What are the main challenges associated with subjective scoring?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-an-effective-presentation
+    url: /learn/education-studies/questions/what-are-the-main-challenges-associated-with-subjective-scoring
 related_article2:
+    id: 164877
+    title: >-
+        How can practice and rehearsal improve presentation skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-practice-and-rehearsal-improve-presentation-skills
+related_article3:
     id: 164873
-    title: What are the key components of objective scoring in test scoring?
+    title: >-
+        What are the key components of objective scoring in test scoring?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-objective-scoring-in-test-scoring
-related_article3:
-    id: 164884
-    title: What are the potential effects of grade inflation on student perceptions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-potential-effects-of-grade-inflation-on-student-perceptions
 related_article4:
-    id: 164872
-    title: How can assessment criteria be aligned with learning objectives?
+    id: 164879
+    title: >-
+        What is the difference between open-ended and closed-ended questions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assessment-criteria-be-aligned-with-learning-objectives
+    url: /learn/education-studies/questions/what-is-the-difference-between-openended-and-closedended-questions
+related_article5:
+    id: 164877
+    title: >-
+        How can practice and rehearsal improve presentation skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-practice-and-rehearsal-improve-presentation-skills
 ---
 
 &nbsp;

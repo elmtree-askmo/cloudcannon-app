@@ -2,8 +2,10 @@
 _schema: default
 id: 166787
 date: 2025-01-31
-title: When is it most appropriate to use a line graph?
-article_title: When is it most appropriate to use a line graph?
+title: >-
+    When is it most appropriate to use a line graph?
+article_title: >-
+    When is it most appropriate to use a line graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: when-is-it-most-appropriate-to-use-a-line-graph.md
 url: /learn/education-studies/questions/when-is-it-most-appropriate-to-use-a-line-graph
 score: -1.0
 related_article1:
-    id: 166791
-    title: What are some effective data visualization techniques that ensure clarity and simplicity?
+    id: 166783
+    title: >-
+        How does discipline-based education research align with course structure?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-data-visualization-techniques-that-ensure-clarity-and-simplicity
+    url: /learn/education-studies/questions/how-does-disciplinebased-education-research-align-with-course-structure
 related_article2:
-    id: 166779
-    title: In what scenarios is a pie chart most effectively used?
+    id: 166775
+    title: >-
+        What are the key elements to consider when interpreting the axis labels on a graph?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-scenarios-is-a-pie-chart-most-effectively-used
+    url: /learn/education-studies/questions/what-are-the-key-elements-to-consider-when-interpreting-the-axis-labels-on-a-graph
 related_article3:
-    id: 166778
-    title: What are the main differences between bar graphs and line graphs?
+    id: 166783
+    title: >-
+        How does discipline-based education research align with course structure?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-differences-between-bar-graphs-and-line-graphs
+    url: /learn/education-studies/questions/how-does-disciplinebased-education-research-align-with-course-structure
 related_article4:
-    id: 166776
-    title: How can legends be used to enhance the understanding of a graph?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-legends-be-used-to-enhance-the-understanding-of-a-graph
-related_article5:
     id: 166788
-    title: What are the key components of a pie chart, and how should they be interpreted?
+    title: >-
+        What are the key components of a pie chart, and how should they be interpreted?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-a-pie-chart-and-how-should-they-be-interpreted
 ---

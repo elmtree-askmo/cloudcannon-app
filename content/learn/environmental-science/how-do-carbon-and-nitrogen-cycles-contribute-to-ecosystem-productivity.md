@@ -2,8 +2,10 @@
 _schema: default
 id: 169982
 date: 2025-02-05
-title: How do carbon and nitrogen cycles contribute to ecosystem productivity?
-article_title: How do carbon and nitrogen cycles contribute to ecosystem productivity?
+title: >-
+    How do carbon and nitrogen cycles contribute to ecosystem productivity?
+article_title: >-
+    How do carbon and nitrogen cycles contribute to ecosystem productivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-carbon-and-nitrogen-cycles-contribute-to-ecosystem-productivit
 url: /learn/environmental-science/questions/how-do-carbon-and-nitrogen-cycles-contribute-to-ecosystem-productivity
 score: -1.0
 related_article1:
-    id: 169974
-    title: How does the Hubbard Brook Ecosystem contribute to long-term ecological research?
+    id: 169988
+    title: >-
+        What is the historical significance of the Experimental Lakes Area in ecological research?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/how-does-the-hubbard-brook-ecosystem-contribute-to-longterm-ecological-research
+    url: /learn/environmental-science/questions/what-is-the-historical-significance-of-the-experimental-lakes-area-in-ecological-research
 related_article2:
     id: 169973
-    title: What are the key roles of long-term ecological research areas in understanding global climate change?
+    title: >-
+        What are the key roles of long-term ecological research areas in understanding global climate change?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
 related_article3:
-    id: 169975
-    title: What are the effects of global climate change on the seasonal variations of water temperature in freshwater lakes?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-effects-of-global-climate-change-on-the-seasonal-variations-of-water-temperature-in-freshwater-lakes
-related_article4:
     id: 169984
-    title: What are the key components of experimental design in ecological research?
+    title: >-
+        What are the key components of experimental design in ecological research?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-are-the-key-components-of-experimental-design-in-ecological-research
-related_article5:
-    id: 169987
-    title: What factors influence aquatic ecosystem productivity?
+related_article4:
+    id: 169980
+    title: >-
+        How does deforestation affect the nitrogen and carbon cycles in ecosystems?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-factors-influence-aquatic-ecosystem-productivity
+    url: /learn/environmental-science/questions/how-does-deforestation-affect-the-nitrogen-and-carbon-cycles-in-ecosystems
+related_article5:
+    id: 169973
+    title: >-
+        What are the key roles of long-term ecological research areas in understanding global climate change?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
 ---
 
 &nbsp;

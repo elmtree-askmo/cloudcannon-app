@@ -2,8 +2,10 @@
 _schema: default
 id: 170693
 date: 2025-02-06
-title: Describe how normal induction can be applied to the Coin Change Problem.
-article_title: Describe how normal induction can be applied to the Coin Change Problem.
+title: >-
+    Describe how normal induction can be applied to the Coin Change Problem.
+article_title: >-
+    Describe how normal induction can be applied to the Coin Change Problem.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-how-normal-induction-can-be-applied-to-the-coin-change-probl
 url: /learn/mathematics/questions/describe-how-normal-induction-can-be-applied-to-the-coin-change-problem
 score: -1.0
 related_article1:
-    id: 170688
-    title: How does the assumption of all values before n play a role in strong induction?
+    id: 170699
+    title: >-
+        What is the problem statement for the Coin Change Problem involving 3 and 7 cent coins?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-assumption-of-all-values-before-n-play-a-role-in-strong-induction
+    url: /learn/mathematics/questions/what-is-the-problem-statement-for-the-coin-change-problem-involving-3-and-7-cent-coins
 related_article2:
+    id: 170692
+    title: >-
+        How does normal induction differ from strong induction in terms of assumptions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-normal-induction-differ-from-strong-induction-in-terms-of-assumptions
+related_article3:
     id: 170703
-    title: What are the steps involved in an inductive proof of the Fibonacci sequence?
+    title: >-
+        What are the steps involved in an inductive proof of the Fibonacci sequence?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-steps-involved-in-an-inductive-proof-of-the-fibonacci-sequence
-related_article3:
-    id: 170690
-    title: How can strong induction be used to prove properties of the Fibonacci sequence?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-strong-induction-be-used-to-prove-properties-of-the-fibonacci-sequence
 related_article4:
-    id: 170704
-    title: How is Big O Notation used to measure algorithm efficiency?
+    id: 170689
+    title: >-
+        In what way is strong induction applied to solve the Coin Change Problem?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-big-o-notation-used-to-measure-algorithm-efficiency
+    url: /learn/mathematics/questions/in-what-way-is-strong-induction-applied-to-solve-the-coin-change-problem
 related_article5:
-    id: 170705
-    title: What is the importance of comparing Big O Notation with other notations?
+    id: 170691
+    title: >-
+        What is the base case in normal induction, and why is it important?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-comparing-big-o-notation-with-other-notations
+    url: /learn/mathematics/questions/what-is-the-base-case-in-normal-induction-and-why-is-it-important
 ---
 
 &nbsp;

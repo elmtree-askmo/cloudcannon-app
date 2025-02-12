@@ -2,8 +2,10 @@
 _schema: default
 id: 165083
 date: 2025-01-28
-title: What are the key components of a well-structured research report?
-article_title: What are the key components of a well-structured research report?
+title: >-
+    What are the key components of a well-structured research report?
+article_title: >-
+    What are the key components of a well-structured research report?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-a-wellstructured-research-report.md
 url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
 score: -1.0
 related_article1:
-    id: 165079
-    title: How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
+    id: 165068
+    title: >-
+        What is the role of descriptive statistics in data interpretation?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
+    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
 related_article2:
-    id: 165080
-    title: What ethical considerations must be taken into account when conducting research?
+    id: 165082
+    title: >-
+        How do you draw conclusions from research findings, and what are the implications of these conclusions?
     subject: Psychology
-    url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
+    url: /learn/psychology/questions/how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions
 related_article3:
-    id: 165075
-    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    id: 165085
+    title: >-
+        How do you identify and analyze interaction effects in experimental data?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 related_article4:
-    id: 165081
-    title: What is the difference between qualitative and quantitative analysis in data interpretation?
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-qualitative-and-quantitative-analysis-in-data-interpretation
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 related_article5:
-    id: 165089
-    title: How can data visualization enhance the presentation of research results?
+    id: 165070
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 ---
 
 &nbsp;

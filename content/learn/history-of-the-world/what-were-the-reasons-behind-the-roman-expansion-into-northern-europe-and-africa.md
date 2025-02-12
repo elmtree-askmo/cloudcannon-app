@@ -2,8 +2,10 @@
 _schema: default
 id: 166112
 date: 2025-01-29
-title: What were the reasons behind the Roman expansion into Northern Europe and Africa?
-article_title: What were the reasons behind the Roman expansion into Northern Europe and Africa?
+title: >-
+    What were the reasons behind the Roman expansion into Northern Europe and Africa?
+article_title: >-
+    What were the reasons behind the Roman expansion into Northern Europe and Africa?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-reasons-behind-the-roman-expansion-into-northern-europe
 url: /learn/history-of-the-world/questions/what-were-the-reasons-behind-the-roman-expansion-into-northern-europe-and-africa
 score: 9.0
 related_article1:
-    id: 166114
-    title: What were the characteristics of Roman urbanization in Britain?
+    id: 166104
+    title: >-
+        How did Julius Caesar's campaigns in Britain impact his legacy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
+    url: /learn/history-of-the-world/questions/how-did-julius-caesars-campaigns-in-britain-impact-his-legacy
 related_article2:
-    id: 166116
-    title: What were the consequences of the withdrawal of Roman troops from Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
-related_article3:
-    id: 166116
-    title: What were the consequences of the withdrawal of Roman troops from Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
-related_article4:
     id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    title: >-
+        How did Roman architecture influence local British housing styles?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
-related_article5:
-    id: 166117
-    title: How has Roman Britain influenced modern British culture?
+related_article3:
+    id: 166113
+    title: >-
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
+related_article4:
+    id: 166107
+    title: >-
+        What role did Boudica play in the resistance against Roman rule in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-boudica-play-in-the-resistance-against-roman-rule-in-britain
+related_article5:
+    id: 166115
+    title: >-
+        How did Roman architecture influence local British housing styles?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
 ---
 
 &nbsp;

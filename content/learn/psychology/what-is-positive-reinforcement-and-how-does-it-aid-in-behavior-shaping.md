@@ -2,8 +2,10 @@
 _schema: default
 id: 169323
 date: 2025-02-05
-title: What is positive reinforcement and how does it aid in behavior shaping?
-article_title: What is positive reinforcement and how does it aid in behavior shaping?
+title: >-
+    What is positive reinforcement and how does it aid in behavior shaping?
+article_title: >-
+    What is positive reinforcement and how does it aid in behavior shaping?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shapin
 url: /learn/psychology/questions/what-is-positive-reinforcement-and-how-does-it-aid-in-behavior-shaping
 score: -1.0
 related_article1:
-    id: 169321
-    title: What are the main tools and techniques used in behavior analysis?
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 related_article2:
-    id: 169322
-    title: How are behavior change procedures implemented and monitored?
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 related_article3:
-    id: 169311
-    title: What is shaping and why is it important in behavior development?
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 related_article4:
-    id: 169322
-    title: How are behavior change procedures implemented and monitored?
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 related_article5:
-    id: 169328
-    title: What are some common data collection techniques used in behavior analysis?
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 ---
 
 &nbsp;

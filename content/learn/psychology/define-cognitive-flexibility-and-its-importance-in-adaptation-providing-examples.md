@@ -2,8 +2,10 @@
 _schema: default
 id: 164914
 date: 2025-01-28
-title: Define cognitive flexibility and its importance in adaptation, providing examples.
-article_title: Define cognitive flexibility and its importance in adaptation, providing examples.
+title: >-
+    Define cognitive flexibility and its importance in adaptation, providing examples.
+article_title: >-
+    Define cognitive flexibility and its importance in adaptation, providing examples.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-cognitive-flexibility-and-its-importance-in-adaptation-providi
 url: /learn/psychology/questions/define-cognitive-flexibility-and-its-importance-in-adaptation-providing-examples
 score: -1.0
 related_article1:
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
+related_article2:
+    id: 164915
+    title: >-
+        What is reversal learning, and which brain regions and neurotransmitter systems are involved?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
+related_article3:
+    id: 164910
+    title: >-
+        What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory
+related_article4:
     id: 164919
-    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    title: >-
+        What are the major cognitive theories, and how are they applied in education and artificial intelligence?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
-related_article2:
-    id: 164911
-    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
-related_article3:
-    id: 164913
-    title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
-related_article4:
-    id: 164911
-    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
 related_article5:
-    id: 164901
-    title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
+    id: 164902
+    title: >-
+        Explain the difference between top-down and bottom-up processing with examples.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
+    url: /learn/psychology/questions/explain-the-difference-between-topdown-and-bottomup-processing-with-examples
 ---
 
 &nbsp;

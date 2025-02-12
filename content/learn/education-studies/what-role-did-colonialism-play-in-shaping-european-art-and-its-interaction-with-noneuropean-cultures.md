@@ -2,8 +2,10 @@
 _schema: default
 id: 159808
 date: 2025-01-23
-title: What role did colonialism play in shaping European art and its interaction with non-European cultures?
-article_title: What role did colonialism play in shaping European art and its interaction with non-European cultures?
+title: >-
+    What role did colonialism play in shaping European art and its interaction with non-European cultures?
+article_title: >-
+    What role did colonialism play in shaping European art and its interaction with non-European cultures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-colonialism-play-in-shaping-european-art-and-its-intera
 url: /learn/education-studies/questions/what-role-did-colonialism-play-in-shaping-european-art-and-its-interaction-with-noneuropean-cultures
 score: -1.0
 related_article1:
-    id: 159745
-    title: What role did salons and academies play in the development of art history?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
-related_article2:
-    id: 160021
-    title: How did the Industrial Revolution contribute to the evolution of visual culture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
-related_article3:
-    id: 159739
-    title: What were the main artistic responses to urbanization and cultural shifts caused by the Industrial Revolution?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-main-artistic-responses-to-urbanization-and-cultural-shifts-caused-by-the-industrial-revolution
-related_article4:
-    id: 160025
-    title: How did Victorian society influence the representation of gender in art?
+    id: 159807
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
-related_article5:
-    id: 159743
-    title: How did the Industrial Revolution contribute to the evolution of visual culture?
+related_article2:
+    id: 159746
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+related_article3:
+    id: 159750
+    title: >-
+        What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-major-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
+related_article4:
+    id: 159739
+    title: >-
+        What were the main artistic responses to urbanization and cultural shifts caused by the Industrial Revolution?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-main-artistic-responses-to-urbanization-and-cultural-shifts-caused-by-the-industrial-revolution
+related_article5:
+    id: 159815
+    title: >-
+        What are the key components of formal analysis when visually analyzing artworks?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
 ---
 
 &nbsp;

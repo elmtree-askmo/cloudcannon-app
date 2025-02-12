@@ -2,8 +2,10 @@
 _schema: default
 id: 168904
 date: 2025-02-04
-title: What is the role of ATP in the sodium-potassium pump?
-article_title: What is the role of ATP in the sodium-potassium pump?
+title: >-
+    What is the role of ATP in the sodium-potassium pump?
+article_title: >-
+    What is the role of ATP in the sodium-potassium pump?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-atp-in-the-sodiumpotassium-pump.md
 url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
 score: -1.0
 related_article1:
-    id: 168902
-    title: Explain the process of exocytosis and its role in cellular waste removal.
+    id: 168905
+    title: >-
+        Define concentration gradient and its importance in active transport.
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+    url: /learn/biology/questions/define-concentration-gradient-and-its-importance-in-active-transport
 related_article2:
     id: 168897
-    title: Why is energy required for active transport processes?
+    title: >-
+        Why is energy required for active transport processes?
     subject: Biology
     url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
 related_article3:
-    id: 168906
-    title: How does ATP utilization differ between active and passive transport?
+    id: 168905
+    title: >-
+        Define concentration gradient and its importance in active transport.
     subject: Biology
-    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
+    url: /learn/biology/questions/define-concentration-gradient-and-its-importance-in-active-transport
 related_article4:
-    id: 168902
-    title: Explain the process of exocytosis and its role in cellular waste removal.
+    id: 168897
+    title: >-
+        Why is energy required for active transport processes?
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
+    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
 related_article5:
-    id: 168903
-    title: How do protein pumps function in active transport?
+    id: 168899
+    title: >-
+        What are the main types of active transport?
     subject: Biology
-    url: /learn/biology/questions/how-do-protein-pumps-function-in-active-transport
+    url: /learn/biology/questions/what-are-the-main-types-of-active-transport
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167708
 date: 2025-01-31
-title: What are the main stages of cognitive and social development in childhood and adolescence?
-article_title: What are the main stages of cognitive and social development in childhood and adolescence?
+title: >-
+    What are the main stages of cognitive and social development in childhood and adolescence?
+article_title: >-
+    What are the main stages of cognitive and social development in childhood and adolescence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-stages-of-cognitive-and-social-development-in-child
 url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
 score: -1.0
 related_article1:
-    id: 167707
-    title: How do memory processes like encoding and retrieval affect memory disorders?
+    id: 167701
+    title: >-
+        How does classical conditioning differ from operant conditioning?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
+    url: /learn/psychology/questions/how-does-classical-conditioning-differ-from-operant-conditioning
 related_article2:
-    id: 167704
-    title: What methods are used to study animal behavior in psychology?
+    id: 167710
+    title: >-
+        How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-methods-are-used-to-study-animal-behavior-in-psychology
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
 related_article3:
-    id: 167709
-    title: What are the primary methods used in clinical psychology for assessment and diagnosis?
+    id: 167710
+    title: >-
+        How do neurobiological foundations contribute to understanding neurodevelopmental disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
+    url: /learn/psychology/questions/how-do-neurobiological-foundations-contribute-to-understanding-neurodevelopmental-disorders
 related_article4:
-    id: 167685
-    title: How do perceptions of normalcy influence human behavior?
+    id: 167699
+    title: >-
+        What statistical techniques are commonly used in data analysis for psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
 related_article5:
-    id: 167706
-    title: What is the role of sensory perception in influencing human behavior?
+    id: 167699
+    title: >-
+        What statistical techniques are commonly used in data analysis for psychological studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-sensory-perception-in-influencing-human-behavior
+    url: /learn/psychology/questions/what-statistical-techniques-are-commonly-used-in-data-analysis-for-psychological-studies
 ---
 
 &nbsp;

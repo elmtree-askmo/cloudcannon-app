@@ -2,8 +2,10 @@
 _schema: default
 id: 161569
 date: 2025-01-24
-title: What are the disadvantages of a gesture-based interface compared to other user interfaces?
-article_title: What are the disadvantages of a gesture-based interface compared to other user interfaces?
+title: >-
+    What are the disadvantages of a gesture-based interface compared to other user interfaces?
+article_title: >-
+    What are the disadvantages of a gesture-based interface compared to other user interfaces?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-disadvantages-of-a-gesturebased-interface-compared-to-ot
 url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-gesturebased-interface-compared-to-other-user-interfaces
 score: -1.0
 related_article1:
-    id: 161544
-    title: What are the primary functions of IBM's z/OS operating system for mainframes?
+    id: 161301
+    title: >-
+        What is the role of device drivers in system software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
+    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
 related_article2:
-    id: 161671
-    title: What is the difference between lossless and lossy data compression?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
-related_article3:
-    id: 161560
-    title: What are the primary functions of IBM's z/OS operating system for mainframes?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
-related_article4:
-    id: 161567
-    title: How does licensing differ between open source and proprietary software?
+    id: 161551
+    title: >-
+        How does licensing differ between open source and proprietary software?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+related_article3:
+    id: 161678
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
+related_article4:
+    id: 161299
+    title: >-
+        What are the primary functions of IBM's z/OS operating system for mainframes?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
 related_article5:
-    id: 161546
-    title: What is the role of device drivers in system software?
+    id: 161318
+    title: >-
+        What is the role of device drivers in system software?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
 ---

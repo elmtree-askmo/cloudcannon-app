@@ -2,8 +2,10 @@
 _schema: default
 id: 167291
 date: 2025-01-31
-title: Why is carbon considered versatile in biological molecules?
-article_title: Why is carbon considered versatile in biological molecules?
+title: >-
+    Why is carbon considered versatile in biological molecules?
+article_title: >-
+    Why is carbon considered versatile in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-carbon-considered-versatile-in-biological-molecules.md
 url: /learn/chemistry/questions/why-is-carbon-considered-versatile-in-biological-molecules
 score: -1.0
 related_article1:
-    id: 167285
-    title: How is atomic mass calculated and why is it important?
+    id: 167283
+    title: >-
+        How do covalent bonds contribute to the formation of molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
 related_article2:
-    id: 167287
-    title: How are ions formed and what determines their electrical charge?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
-related_article3:
     id: 167289
-    title: Where are valence electrons located and why are they important in chemical bonding?
+    title: >-
+        Where are valence electrons located and why are they important in chemical bonding?
     subject: Chemistry
     url: /learn/chemistry/questions/where-are-valence-electrons-located-and-why-are-they-important-in-chemical-bonding
+related_article3:
+    id: 167281
+    title: >-
+        How do protons, neutrons, and electrons contribute to the structure of an atom?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
 related_article4:
-    id: 167285
-    title: How is atomic mass calculated and why is it important?
+    id: 167288
+    title: >-
+        What is electronegativity and how does it influence chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+    url: /learn/chemistry/questions/what-is-electronegativity-and-how-does-it-influence-chemical-bonding
 related_article5:
-    id: 167294
-    title: How do functional groups affect the properties and reactions of biological molecules?
+    id: 167293
+    title: >-
+        What distinguishes polar covalent bonds from nonpolar covalent bonds?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-functional-groups-affect-the-properties-and-reactions-of-biological-molecules
+    url: /learn/chemistry/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
 ---
 
 &nbsp;

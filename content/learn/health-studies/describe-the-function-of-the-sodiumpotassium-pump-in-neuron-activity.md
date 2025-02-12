@@ -2,8 +2,10 @@
 _schema: default
 id: 170555
 date: 2025-02-06
-title: Describe the function of the sodium-potassium pump in neuron activity.
-article_title: Describe the function of the sodium-potassium pump in neuron activity.
+title: >-
+    Describe the function of the sodium-potassium pump in neuron activity.
+article_title: >-
+    Describe the function of the sodium-potassium pump in neuron activity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity.
 url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
 score: -1.0
 related_article1:
-    id: 170548
-    title: Explain the role of biochemical pathways in cellular function.
+    id: 170565
+    title: >-
+        What is the process of DNA transcription in genetic pathways?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-role-of-biochemical-pathways-in-cellular-function
+    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
 related_article2:
-    id: 170554
-    title: Explain the role of baroreceptors in blood pressure regulation.
+    id: 170579
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-role-of-baroreceptors-in-blood-pressure-regulation
+    url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 related_article3:
-    id: 170556
-    title: What is the role of the hypothalamus in the nervous system?
+    id: 170579
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
+    url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 related_article4:
-    id: 170562
-    title: What pharmacological interventions are available for treating Parkinson's disease?
+    id: 170577
+    title: >-
+        How do local auto-regulation mechanisms affect blood vessel response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
+    url: /learn/health-studies/questions/how-do-local-autoregulation-mechanisms-affect-blood-vessel-response
 related_article5:
-    id: 170558
-    title: What are the roles of insulin and glucagon in hormonal regulation?
+    id: 170553
+    title: >-
+        How does neurotransmitter blockage affect nervous system function?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
+    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
 ---
 
 &nbsp;

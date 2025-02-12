@@ -2,8 +2,10 @@
 _schema: default
 id: 167346
 date: 2025-01-31
-title: How does ocean acidification impact the shells of marine terrapods?
-article_title: How does ocean acidification impact the shells of marine terrapods?
+title: >-
+    How does ocean acidification impact the shells of marine terrapods?
+article_title: >-
+    How does ocean acidification impact the shells of marine terrapods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-ocean-acidification-impact-the-shells-of-marine-terrapods.md
 url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
 score: -1.0
 related_article1:
-    id: 167344
-    title: How does ocean acidification affect the availability of calcium carbonate for marine organisms?
+    id: 167343
+    title: >-
+        What are the effects of decreased pH levels on ocean chemistry?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-ocean-acidification-affect-the-availability-of-calcium-carbonate-for-marine-organisms
+    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
 related_article2:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+    id: 167349
+    title: >-
+        What impact does ocean acidification have on shell-building organisms like corals and shellfish?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
+    url: /learn/marine-biology/questions/what-impact-does-ocean-acidification-have-on-shellbuilding-organisms-like-corals-and-shellfish
 related_article3:
-    id: 167342
-    title: How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
+    id: 167347
+    title: >-
+        What are the key research methodologies used by NOAA to study ocean acidification?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-the-absorption-of-carbon-dioxide-lead-to-changes-in-the-ph-scale-of-ocean-water
+    url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
 related_article4:
     id: 167347
-    title: What are the key research methodologies used by NOAA to study ocean acidification?
+    title: >-
+        What are the key research methodologies used by NOAA to study ocean acidification?
     subject: Marine Biology
     url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
 related_article5:
-    id: 167351
-    title: What are the predicted changes in future pH levels based on different emission scenarios?
+    id: 167343
+    title: >-
+        What are the effects of decreased pH levels on ocean chemistry?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
+    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168361
 date: 2025-02-03
-title: What are the ethical concerns associated with artificial intelligence and job displacement?
-article_title: What are the ethical concerns associated with artificial intelligence and job displacement?
+title: >-
+    What are the ethical concerns associated with artificial intelligence and job displacement?
+article_title: >-
+    What are the ethical concerns associated with artificial intelligence and job displacement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-ethical-concerns-associated-with-artificial-intelligence
 url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
 score: -1.0
 related_article1:
-    id: 168365
-    title: What challenges do immigrants face in cultural integration, and how does prejudice affect this process?
+    id: 168364
+    title: >-
+        How do historical religious and ethnic tensions impact community dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/what-challenges-do-immigrants-face-in-cultural-integration-and-how-does-prejudice-affect-this-process
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
 related_article2:
-    id: 168366
-    title: How does urban development influence infrastructure changes and livability in communities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
-related_article3:
-    id: 168370
-    title: How does emotional intelligence impact social interactions and adaptation to change?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
-related_article4:
-    id: 168359
-    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
-related_article5:
     id: 168360
-    title: How do technological advancements change communication and lead to technological dependency?
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
     subject: Sociology
     url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article3:
+    id: 168367
+    title: >-
+        What are the community reactions to new public transit projects?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
+related_article4:
+    id: 168369
+    title: >-
+        What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
+related_article5:
+    id: 168371
+    title: >-
+        What are the implications of digital communication on social interactions and relationships?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 ---
 
 &nbsp;

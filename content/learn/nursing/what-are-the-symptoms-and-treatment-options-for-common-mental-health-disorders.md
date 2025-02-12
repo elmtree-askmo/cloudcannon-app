@@ -2,8 +2,10 @@
 _schema: default
 id: 169750
 date: 2025-02-05
-title: What are the symptoms and treatment options for common mental health disorders?
-article_title: What are the symptoms and treatment options for common mental health disorders?
+title: >-
+    What are the symptoms and treatment options for common mental health disorders?
+article_title: >-
+    What are the symptoms and treatment options for common mental health disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-symptoms-and-treatment-options-for-common-mental-health-
 url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
 score: -1.0
 related_article1:
-    id: 169761
-    title: What are the nursing responsibilities and legal obligations in medication administration?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
-related_article2:
     id: 169743
-    title: What are some age-specific health considerations that nurses should be aware of?
+    title: >-
+        What are some age-specific health considerations that nurses should be aware of?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+related_article2:
+    id: 169754
+    title: >-
+        What are the main categories of drug classifications in pharmacology?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
 related_article3:
-    id: 169753
-    title: Why is accuracy in drug calculations important, and what are common errors to avoid?
+    id: 169767
+    title: >-
+        How do digital and print versions of the BNF differ, and how are updates and revisions managed?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accuracy-in-drug-calculations-important-and-what-are-common-errors-to-avoid
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
 related_article4:
-    id: 169758
-    title: What are common causes of medication errors, and how can they be prevented?
+    id: 169746
+    title: >-
+        What are common assessment methods for bowel and bladder management?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-common-causes-of-medication-errors-and-how-can-they-be-prevented
-related_article5:
-    id: 169763
-    title: What are patient group directions, and how are they applied in clinical practice?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+    url: /learn/nursing/questions/what-are-common-assessment-methods-for-bowel-and-bladder-management
 ---
 
 &nbsp;

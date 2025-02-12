@@ -2,8 +2,10 @@
 _schema: default
 id: 164228
 date: 2025-01-28
-title: What cultural biases are present in Colberg's theory of moral development?
-article_title: What cultural biases are present in Colberg's theory of moral development?
+title: >-
+    What cultural biases are present in Colberg's theory of moral development?
+article_title: >-
+    What cultural biases are present in Colberg's theory of moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cultural-biases-are-present-in-colbergs-theory-of-moral-developm
 url: /learn/psychology/questions/what-cultural-biases-are-present-in-colbergs-theory-of-moral-development
 score: -1.0
 related_article1:
-    id: 164222
-    title: How does cognitive development relate to moral development in Colberg's theory?
+    id: 164216
+    title: >-
+        What is the definition of moral reasoning according to Colberg's theory, and why is it important?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
+    url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
 related_article2:
-    id: 164226
-    title: What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
+    id: 164221
+    title: >-
+        Explain the stages of post morality in Colberg's theory.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
+    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
 related_article3:
-    id: 164226
-    title: What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
+    id: 164225
+    title: >-
+        How does Colberg's theory address the rigidity and linearity of moral development stages?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
 related_article4:
+    id: 164225
+    title: >-
+        How does Colberg's theory address the rigidity and linearity of moral development stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
+related_article5:
     id: 164222
-    title: How does cognitive development relate to moral development in Colberg's theory?
+    title: >-
+        How does cognitive development relate to moral development in Colberg's theory?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
-related_article5:
-    id: 164230
-    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169402
 date: 2025-02-05
-title: How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
-article_title: How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
+title: >-
+    How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
+article_title: >-
+    How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through
 url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
 score: -1.0
 related_article1:
-    id: 169415
-    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    id: 169417
+    title: >-
+        How have regional design projects in Japan influenced international design trends?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
 related_article2:
-    id: 169406
-    title: How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+    id: 169408
+    title: >-
+        How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
     subject: Architecture
-    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
 related_article3:
     id: 169412
-    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    title: >-
+        How does architectural design serve as a corporate identity, and what are some successful examples?
     subject: Architecture
     url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
 related_article4:
-    id: 169415
-    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    id: 169405
+    title: >-
+        What role do natural elements play in modern interior design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
 related_article5:
-    id: 169410
-    title: How can architecture serve as a community icon and contribute to community revitalization?
+    id: 169408
+    title: >-
+        How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
     subject: Architecture
-    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
 ---
 
 &nbsp;

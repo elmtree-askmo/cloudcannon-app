@@ -2,8 +2,10 @@
 _schema: default
 id: 162898
 date: 2025-01-25
-title: How do coordinates change when a figure is reflected?
-article_title: How do coordinates change when a figure is reflected?
+title: >-
+    How do coordinates change when a figure is reflected?
+article_title: >-
+    How do coordinates change when a figure is reflected?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-coordinates-change-when-a-figure-is-reflected.md
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
 score: -1.0
 related_article1:
-    id: 162703
-    title: What misunderstandings might arise regarding symmetry in reflections?
+    id: 162634
+    title: >-
+        How does reflecting a triangle differ from reflecting a quadrilateral?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
 related_article2:
-    id: 162822
-    title: What is orientation reversal in the context of reflections?
+    id: 162906
+    title: >-
+        How can visualizing reflections help in understanding them?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-can-visualizing-reflections-help-in-understanding-them
 related_article3:
-    id: 162530
-    title: What misunderstandings might arise regarding symmetry in reflections?
+    id: 162387
+    title: >-
+        How do reflections ensure that figures remain congruent?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-misunderstandings-might-arise-regarding-symmetry-in-reflections
+    url: /learn/mathematics/questions/how-do-reflections-ensure-that-figures-remain-congruent
 related_article4:
-    id: 162517
-    title: How do coordinates change when a figure is reflected?
+    id: 162633
+    title: >-
+        What are opposite coordinates in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-figure-is-reflected
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 related_article5:
-    id: 162392
-    title: What changes occur when reflecting a point across both axes?
+    id: 162644
+    title: >-
+        What are some misunderstandings about symmetry in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-changes-occur-when-reflecting-a-point-across-both-axes
+    url: /learn/mathematics/questions/what-are-some-misunderstandings-about-symmetry-in-reflections
 ---
 
 &nbsp;

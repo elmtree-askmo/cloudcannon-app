@@ -2,8 +2,10 @@
 _schema: default
 id: 164184
 date: 2025-01-28
-title: What are decision models used for in prescriptive analysis?
-article_title: What are decision models used for in prescriptive analysis?
+title: >-
+    What are decision models used for in prescriptive analysis?
+article_title: >-
+    What are decision models used for in prescriptive analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-decision-models-used-for-in-prescriptive-analysis.md
 url: /learn/others/questions/what-are-decision-models-used-for-in-prescriptive-analysis
 score: -1.0
 related_article1:
-    id: 164179
-    title: What is the role of Markov Decision Processes in reinforcement learning?
+    id: 164180
+    title: >-
+        How do search algorithms contribute to AI algorithms?
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
+    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
 related_article2:
-    id: 164179
-    title: What is the role of Markov Decision Processes in reinforcement learning?
+    id: 164182
+    title: >-
+        What is the purpose of statistical measures in descriptive analysis?
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
+    url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
 related_article3:
-    id: 164170
-    title: What is the purpose of ontologies in knowledge representation?
+    id: 164177
+    title: >-
+        What is the difference between classification and regression in supervised learning?
     subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
+    url: /learn/others/questions/what-is-the-difference-between-classification-and-regression-in-supervised-learning
 related_article4:
-    id: 164175
-    title: What are the applications of digital signal processing?
+    id: 164158
+    title: >-
+        Describe the role of data preprocessing in data training.
     subject: Others
-    url: /learn/others/questions/what-are-the-applications-of-digital-signal-processing
+    url: /learn/others/questions/describe-the-role-of-data-preprocessing-in-data-training
 related_article5:
-    id: 164170
-    title: What is the purpose of ontologies in knowledge representation?
+    id: 164171
+    title: >-
+        How do expert systems serve as a knowledge source?
     subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
+    url: /learn/others/questions/how-do-expert-systems-serve-as-a-knowledge-source
 ---
 
 &nbsp;

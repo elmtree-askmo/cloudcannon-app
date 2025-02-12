@@ -2,8 +2,10 @@
 _schema: default
 id: 161780
 date: 2025-01-24
-title: What are the four main classes of biological molecules?
-article_title: What are the four main classes of biological molecules?
+title: >-
+    What are the four main classes of biological molecules?
+article_title: >-
+    What are the four main classes of biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-four-main-classes-of-biological-molecules.md
 url: /learn/education-studies/questions/what-are-the-four-main-classes-of-biological-molecules
 score: -1.0
 related_article1:
-    id: 161795
-    title: What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
+    id: 161783
+    title: >-
+        Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
+    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
 related_article2:
+    id: 161785
+    title: >-
+        Explain the significance of amino acid structure in determining protein properties.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-significance-of-amino-acid-structure-in-determining-protein-properties
+related_article3:
     id: 161784
-    title: What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+    title: >-
+        What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
-related_article3:
-    id: 161788
-    title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
 related_article4:
-    id: 161791
-    title: What is the role of carbohydrates and lipids in energy storage?
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
 related_article5:
-    id: 161788
-    title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+    id: 161793
+    title: >-
+        What is the role of proteins and nucleic acids in cell signaling?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
+    url: /learn/education-studies/questions/what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling
 ---
 
 &nbsp;

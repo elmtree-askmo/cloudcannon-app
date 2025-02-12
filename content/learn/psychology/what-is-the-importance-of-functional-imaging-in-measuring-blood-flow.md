@@ -2,8 +2,10 @@
 _schema: default
 id: 164352
 date: 2025-01-28
-title: What is the importance of functional imaging in measuring blood flow?
-article_title: What is the importance of functional imaging in measuring blood flow?
+title: >-
+    What is the importance of functional imaging in measuring blood flow?
+article_title: >-
+    What is the importance of functional imaging in measuring blood flow?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-functional-imaging-in-measuring-blood-flow.
 url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
 score: -1.0
 related_article1:
+    id: 164356
+    title: >-
+        What advancements have been made in high-resolution imaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-advancements-have-been-made-in-highresolution-imaging-techniques
+related_article2:
+    id: 164353
+    title: >-
+        Identify the structural components of the brain and their significance.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
+related_article3:
     id: 164357
-    title: How does functional imaging contribute to cognitive research?
+    title: >-
+        How does functional imaging contribute to cognitive research?
     subject: Psychology
     url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
-related_article2:
-    id: 164354
-    title: What are the main functional areas of the brain and their roles?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
-related_article3:
-    id: 164351
-    title: How do radioactive tracers function in PET scans?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
 related_article4:
-    id: 164351
-    title: How do radioactive tracers function in PET scans?
+    id: 164353
+    title: >-
+        Identify the structural components of the brain and their significance.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+    url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
 related_article5:
-    id: 164354
-    title: What are the main functional areas of the brain and their roles?
+    id: 164348
+    title: >-
+        Describe the process of patient preparation for an MRI scan.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
+    url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
 ---
 
 &nbsp;

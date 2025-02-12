@@ -2,8 +2,10 @@
 _schema: default
 id: 165032
 date: 2025-01-28
-title: What is the significance of control and variables in an experimental setup?
-article_title: What is the significance of control and variables in an experimental setup?
+title: >-
+    What is the significance of control and variables in an experimental setup?
+article_title: >-
+    What is the significance of control and variables in an experimental setup?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-control-and-variables-in-an-experimental-
 url: /learn/education-studies/questions/what-is-the-significance-of-control-and-variables-in-an-experimental-setup
 score: -1.0
 related_article1:
-    id: 165039
-    title: How is a decision tree used in the decision-making process?
+    id: 165051
+    title: >-
+        What challenges does the digital divide present in educational technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-a-decision-tree-used-in-the-decisionmaking-process
+    url: /learn/education-studies/questions/what-challenges-does-the-digital-divide-present-in-educational-technology
 related_article2:
-    id: 165042
-    title: How do interactive dashboards enhance data visualization?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-interactive-dashboards-enhance-data-visualization
-related_article3:
     id: 165038
-    title: What distinguishes rational decision-making from intuitive decision-making?
+    title: >-
+        What distinguishes rational decision-making from intuitive decision-making?
     subject: Education Studies
     url: /learn/education-studies/questions/what-distinguishes-rational-decisionmaking-from-intuitive-decisionmaking
+related_article3:
+    id: 165051
+    title: >-
+        What challenges does the digital divide present in educational technology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-challenges-does-the-digital-divide-present-in-educational-technology
 related_article4:
-    id: 165045
-    title: What are the applications of reinforcement learning in robotics?
+    id: 165049
+    title: >-
+        What is the role of metadata management in data governance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-applications-of-reinforcement-learning-in-robotics
+    url: /learn/education-studies/questions/what-is-the-role-of-metadata-management-in-data-governance
 related_article5:
-    id: 165045
-    title: What are the applications of reinforcement learning in robotics?
+    id: 165029
+    title: >-
+        How is business intelligence applied in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-applications-of-reinforcement-learning-in-robotics
+    url: /learn/education-studies/questions/how-is-business-intelligence-applied-in-data-analysis
 ---
 
 &nbsp;

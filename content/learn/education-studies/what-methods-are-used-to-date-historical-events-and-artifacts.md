@@ -2,8 +2,10 @@
 _schema: default
 id: 168386
 date: 2025-02-03
-title: What methods are used to date historical events and artifacts?
-article_title: What methods are used to date historical events and artifacts?
+title: >-
+    What methods are used to date historical events and artifacts?
+article_title: >-
+    What methods are used to date historical events and artifacts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-methods-are-used-to-date-historical-events-and-artifacts.md
 url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
 score: -1.0
 related_article1:
-    id: 168379
-    title: What are the key differences between stone tools and composite tools in tool technology?
+    id: 168384
+    title: >-
+        What were the major impacts of the development and spread of agriculture on societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
+    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
 related_article2:
-    id: 168380
-    title: How did early metallurgical practices impact ancient societies?
+    id: 168376
+    title: >-
+        What role do oral histories play in shaping our understanding of the past?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
+    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
 related_article3:
     id: 168379
-    title: What are the key differences between stone tools and composite tools in tool technology?
+    title: >-
+        What are the key differences between stone tools and composite tools in tool technology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
 related_article4:
-    id: 168394
-    title: What can artifacts and symbolism tell us about prehistoric societies?
+    id: 168388
+    title: >-
+        How did the development of bronze tools influence the transition to urbanization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
+    url: /learn/education-studies/questions/how-did-the-development-of-bronze-tools-influence-the-transition-to-urbanization
 related_article5:
-    id: 168391
-    title: What role did kinship play in the social structures of early societies?
+    id: 168376
+    title: >-
+        What role do oral histories play in shaping our understanding of the past?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
+    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
 ---
 
 &nbsp;

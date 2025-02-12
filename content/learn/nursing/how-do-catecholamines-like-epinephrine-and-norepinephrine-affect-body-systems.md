@@ -2,8 +2,10 @@
 _schema: default
 id: 170505
 date: 2025-02-06
-title: How do catecholamines like epinephrine and norepinephrine affect body systems?
-article_title: How do catecholamines like epinephrine and norepinephrine affect body systems?
+title: >-
+    How do catecholamines like epinephrine and norepinephrine affect body systems?
+article_title: >-
+    How do catecholamines like epinephrine and norepinephrine affect body systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body
 url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
 score: -1.0
 related_article1:
-    id: 170503
-    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    id: 170520
+    title: >-
+        What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
 related_article2:
-    id: 170517
-    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    id: 170521
+    title: >-
+        How can drug interactions modulate heart rate and influence blood vessel diameter?
     subject: Nursing
-    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
 related_article3:
-    id: 170512
-    title: What mechanisms regulate heart rate in cardiac muscle under involuntary control?
+    id: 170506
+    title: >-
+        Where are nicotinic receptors located, and what is their function in the nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
+    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
 related_article4:
-    id: 170511
-    title: How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+    id: 170509
+    title: >-
+        How does sympathetic activation influence heart rate and blood pressure during the fight or flight response?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
+    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-heart-rate-and-blood-pressure-during-the-fight-or-flight-response
 related_article5:
-    id: 170511
-    title: How is voluntary control of skeletal muscle achieved, and what is its role in movement?
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
 ---
 
 &nbsp;

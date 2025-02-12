@@ -2,8 +2,10 @@
 _schema: default
 id: 160602
 date: 2025-01-24
-title: How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
-article_title: How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
+title: >-
+    How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
+article_title: >-
+    How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-mac-os-x-102-jaguar-improve-upon-previous-versions-of-the-ope
 url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions-of-the-operating-system
 score: -1.0
 related_article1:
-    id: 160531
-    title: How did the introduction of Boot Camp enhance the functionality of Mac computers?
+    id: 160598
+    title: >-
+        How did the launch of the first Apple retail store impact the company's sales strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
+    url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
 related_article2:
-    id: 160601
-    title: What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
+    id: 160417
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 related_article3:
     id: 160525
-    title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+    title: >-
+        How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
     subject: Computer Science
     url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
 related_article4:
-    id: 160601
-    title: What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
+    id: 160532
+    title: >-
+        What role did iLife and iWork updates play in Apple's software ecosystem?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
+    url: /learn/computer-science/questions/what-role-did-ilife-and-iwork-updates-play-in-apples-software-ecosystem
 related_article5:
-    id: 160526
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
+    id: 160528
+    title: >-
+        What was the significance of Apple's first retail store opening in terms of consumer engagement?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
+    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
 ---
 
 &nbsp;

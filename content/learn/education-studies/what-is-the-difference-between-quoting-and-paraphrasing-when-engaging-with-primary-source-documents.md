@@ -2,8 +2,10 @@
 _schema: default
 id: 170040
 date: 2025-02-05
-title: What is the difference between quoting and paraphrasing when engaging with primary source documents?
-article_title: What is the difference between quoting and paraphrasing when engaging with primary source documents?
+title: >-
+    What is the difference between quoting and paraphrasing when engaging with primary source documents?
+article_title: >-
+    What is the difference between quoting and paraphrasing when engaging with primary source documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-quoting-and-paraphrasing-when-engaging
 url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
 score: -1.0
 related_article1:
-    id: 170046
-    title: What impact did agriculture have on population density and the support of non-food producers?
+    id: 170037
+    title: >-
+        What are some effective techniques for paraphrasing to avoid direct copying?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-impact-did-agriculture-have-on-population-density-and-the-support-of-nonfood-producers
+    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-paraphrasing-to-avoid-direct-copying
 related_article2:
-    id: 170033
-    title: What are the key components to consider when commenting on primary source documents in writing assignments?
+    id: 170043
+    title: >-
+        How did the role of women in food collection impact hunting and gathering societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-commenting-on-primary-source-documents-in-writing-assignments
+    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
 related_article3:
-    id: 170052
-    title: How did the evolution of tool technology impact daily life and societal development in ancient times?
+    id: 170035
+    title: >-
+        What are the differences between online resources and print articles when citing sources in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-evolution-of-tool-technology-impact-daily-life-and-societal-development-in-ancient-times
+    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
 related_article4:
-    id: 170055
-    title: How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
+    id: 170043
+    title: >-
+        How did the role of women in food collection impact hunting and gathering societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-hunting-and-gathering-practices-influence-the-longterm-ecological-balance-of-ancient-societies
+    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
 related_article5:
-    id: 170053
-    title: What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
+    id: 170048
+    title: >-
+        What factors influenced population density in pre-agricultural societies, and how did these change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-environmental-impacts-of-resource-use-in-ancient-societies-and-how-do-they-compare-to-modern-practices
+    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
 ---
 
 &nbsp;

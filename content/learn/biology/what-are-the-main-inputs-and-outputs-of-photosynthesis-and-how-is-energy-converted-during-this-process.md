@@ -2,8 +2,10 @@
 _schema: default
 id: 170344
 date: 2025-02-06
-title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
-article_title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+title: >-
+    What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+article_title: >-
+    What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-ene
 url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
 score: -1.0
 related_article1:
-    id: 170356
-    title: Describe the chemical reactions involved in photosynthesis and cellular respiration.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
-related_article2:
     id: 170347
-    title: Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
+    title: >-
+        Compare and contrast aerobic and anaerobic respiration in terms of energy production and efficiency.
     subject: Biology
     url: /learn/biology/questions/compare-and-contrast-aerobic-and-anaerobic-respiration-in-terms-of-energy-production-and-efficiency
-related_article3:
-    id: 170348
-    title: How is chemical energy stored in glucose and converted to ATP in organisms?
+related_article2:
+    id: 170351
+    title: >-
+        Explain the process of fermentation and its significance in anaerobic respiration.
     subject: Biology
-    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
+    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+related_article3:
+    id: 170354
+    title: >-
+        How is glucose formed during photosynthesis, and what is its role in cellular respiration?
+    subject: Biology
+    url: /learn/biology/questions/how-is-glucose-formed-during-photosynthesis-and-what-is-its-role-in-cellular-respiration
 related_article4:
     id: 170357
-    title: How does the principle of matter conservation apply to biological processes and ecosystem stability?
+    title: >-
+        How does the principle of matter conservation apply to biological processes and ecosystem stability?
     subject: Biology
     url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
 related_article5:
-    id: 170351
-    title: Explain the process of fermentation and its significance in anaerobic respiration.
+    id: 170345
+    title: >-
+        How does photosynthesis contribute to the balance of ecosystems?
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167657
 date: 2025-01-31
-title: How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
-article_title: How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
+title: >-
+    How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
+article_title: >-
+    How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-archaeological-sources-like-pottery-and-artifacts-contribute-t
 url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
 score: -1.0
 related_article1:
+    id: 167661
+    title: >-
+        How have Greek myths influenced modern art and literature?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
+related_article2:
     id: 167649
-    title: What is the significance of chaos in Greek creation myths?
+    title: >-
+        What is the significance of chaos in Greek creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
-related_article2:
-    id: 167660
-    title: What are the key contributions of Hesiod and Ovid to ancient Greek literature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-contributions-of-hesiod-and-ovid-to-ancient-greek-literature
 related_article3:
-    id: 167652
-    title: How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
+    id: 167651
+    title: >-
+        What are the main themes of Hesiod's Theogony?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-creation-myths
+    url: /learn/education-studies/questions/what-are-the-main-themes-of-hesiods-theogony
 related_article4:
+    id: 167656
+    title: >-
+        What role do myths play in ancient Greek religion and worship practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-myths-play-in-ancient-greek-religion-and-worship-practices
+related_article5:
     id: 167652
-    title: How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
+    title: >-
+        How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-creation-myths
-related_article5:
-    id: 167663
-    title: How do myths function socially and culturally in ancient societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-myths-function-socially-and-culturally-in-ancient-societies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169973
 date: 2025-02-05
-title: What are the key roles of long-term ecological research areas in understanding global climate change?
-article_title: What are the key roles of long-term ecological research areas in understanding global climate change?
+title: >-
+    What are the key roles of long-term ecological research areas in understanding global climate change?
+article_title: >-
+    What are the key roles of long-term ecological research areas in understanding global climate change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-roles-of-longterm-ecological-research-areas-in-under
 url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
 score: -1.0
 related_article1:
-    id: 169984
-    title: What are the key components of experimental design in ecological research?
+    id: 169978
+    title: >-
+        How is technology utilized in the analysis of environmental science data?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-key-components-of-experimental-design-in-ecological-research
+    url: /learn/environmental-science/questions/how-is-technology-utilized-in-the-analysis-of-environmental-science-data
 related_article2:
-    id: 169985
-    title: How does climate change affect biodiversity in forest ecosystems?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/how-does-climate-change-affect-biodiversity-in-forest-ecosystems
-related_article3:
-    id: 169977
-    title: What are the primary techniques used in hydrological measurements for environmental science data collection?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-primary-techniques-used-in-hydrological-measurements-for-environmental-science-data-collection
-related_article4:
     id: 169980
-    title: How does deforestation affect the nitrogen and carbon cycles in ecosystems?
+    title: >-
+        How does deforestation affect the nitrogen and carbon cycles in ecosystems?
     subject: Environmental Science
     url: /learn/environmental-science/questions/how-does-deforestation-affect-the-nitrogen-and-carbon-cycles-in-ecosystems
-related_article5:
-    id: 169985
-    title: How does climate change affect biodiversity in forest ecosystems?
+related_article3:
+    id: 169988
+    title: >-
+        What is the historical significance of the Experimental Lakes Area in ecological research?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/how-does-climate-change-affect-biodiversity-in-forest-ecosystems
+    url: /learn/environmental-science/questions/what-is-the-historical-significance-of-the-experimental-lakes-area-in-ecological-research
+related_article4:
+    id: 169986
+    title: >-
+        What techniques are used for hydrological measurements in environmental science?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-techniques-are-used-for-hydrological-measurements-in-environmental-science
+related_article5:
+    id: 169980
+    title: >-
+        How does deforestation affect the nitrogen and carbon cycles in ecosystems?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/how-does-deforestation-affect-the-nitrogen-and-carbon-cycles-in-ecosystems
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165784
 date: 2025-01-29
-title: What is the process of the three-way handshake in TCP connection establishment?
-article_title: What is the process of the three-way handshake in TCP connection establishment?
+title: >-
+    What is the process of the three-way handshake in TCP connection establishment?
+article_title: >-
+    What is the process of the three-way handshake in TCP connection establishment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-of-the-threeway-handshake-in-tcp-connection-estab
 url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
 score: -1.0
 related_article1:
-    id: 165767
-    title: How does the transport layer handle segmenting and reassembling data?
+    id: 165775
+    title: >-
+        What mechanisms does TCP use for flow control and congestion avoidance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
+    url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
 related_article2:
-    id: 165782
-    title: What are the trade-offs between low overhead and reliability in UDP communication?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
-related_article3:
-    id: 165781
-    title: How does the TCP communication process establish and terminate sessions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
-related_article4:
     id: 165766
-    title: What are the main responsibilities of the transport layer in data communication?
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
-related_article5:
-    id: 165781
-    title: How does the TCP communication process establish and terminate sessions?
+related_article3:
+    id: 165765
+    title: >-
+        How does the transport layer ensure logical communication between applications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
+    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+related_article4:
+    id: 165771
+    title: >-
+        How does TCP ensure reliable and same-order delivery of data?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
+related_article5:
+    id: 165777
+    title: >-
+        How do socket pairs facilitate communication between devices?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
 ---
 
 &nbsp;

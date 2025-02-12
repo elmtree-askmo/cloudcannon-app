@@ -2,8 +2,10 @@
 _schema: default
 id: 166247
 date: 2025-01-29
-title: How did Roman provincial governance function in Britain, and what was the role of governors?
-article_title: How did Roman provincial governance function in Britain, and what was the role of governors?
+title: >-
+    How did Roman provincial governance function in Britain, and what was the role of governors?
+article_title: >-
+    How did Roman provincial governance function in Britain, and what was the role of governors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-roman-provincial-governance-function-in-britain-and-what-was-
 url: /learn/history-of-the-world/questions/how-did-roman-provincial-governance-function-in-britain-and-what-was-the-role-of-governors
 score: 9.0
 related_article1:
-    id: 166243
-    title: What were the key objectives of Julius Caesar's first and second invasions of Britain?
+    id: 166252
+    title: >-
+        What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-julius-caesars-first-and-second-invasions-of-britain
+    url: /learn/history-of-the-world/questions/what-evidence-exists-of-early-christian-communities-in-roman-britain-and-how-did-trade-routes-facilitate-the-spread-of-christianity
 related_article2:
-    id: 166246
-    title: What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
-related_article3:
-    id: 166251
-    title: In what ways did Roman syncretism manifest in Britain, particularly with the integration of British gods?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-roman-syncretism-manifest-in-britain-particularly-with-the-integration-of-british-gods
-related_article4:
     id: 166250
-    title: How did Roman settlements like London and York develop, and what architectural features were prominent?
+    title: >-
+        How did Roman settlements like London and York develop, and what architectural features were prominent?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-settlements-like-london-and-york-develop-and-what-architectural-features-were-prominent
-related_article5:
-    id: 166246
-    title: What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
+related_article3:
+    id: 166249
+    title: >-
+        What were the motivations behind Boudicca's revolt, and what impact did it have on Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
+    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-boudiccas-revolt-and-what-impact-did-it-have-on-roman-britain
+related_article4:
+    id: 166249
+    title: >-
+        What were the motivations behind Boudicca's revolt, and what impact did it have on Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-boudiccas-revolt-and-what-impact-did-it-have-on-roman-britain
+related_article5:
+    id: 166253
+    title: >-
+        What was the Edict of Caracalla, and how did it affect Roman citizenship in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-edict-of-caracalla-and-how-did-it-affect-roman-citizenship-in-britain
 ---
 
 &nbsp;

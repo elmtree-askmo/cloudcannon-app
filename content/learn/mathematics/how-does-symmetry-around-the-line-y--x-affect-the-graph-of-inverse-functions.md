@@ -2,8 +2,10 @@
 _schema: default
 id: 163728
 date: 2025-01-27
-title: How does symmetry around the line y = x affect the graph of inverse functions?
-article_title: How does symmetry around the line y = x affect the graph of inverse functions?
+title: >-
+    How does symmetry around the line y = x affect the graph of inverse functions?
+article_title: >-
+    How does symmetry around the line y = x affect the graph of inverse functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/mathematics/questions/how-does-symmetry-around-the-line-y--x-affect-
 score: -1.0
 related_article1:
     id: 163724
-    title: Why is the negative domain excluded in the principal square root?
+    title: >-
+        Why is the negative domain excluded in the principal square root?
     subject: Mathematics
     url: /learn/mathematics/questions/why-is-the-negative-domain-excluded-in-the-principal-square-root
 related_article2:
-    id: 163725
-    title: Explain the concept of symmetry around the y-axis and provide an example.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-symmetry-around-the-yaxis-and-provide-an-example
-related_article3:
     id: 163712
-    title: How is radical notation used to represent square roots?
+    title: >-
+        How is radical notation used to represent square roots?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-radical-notation-used-to-represent-square-roots
+related_article3:
+    id: 163713
+    title: >-
+        Describe the graph of the function y = x^2 and its key features.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-graph-of-the-function-y--x2-and-its-key-features
 related_article4:
-    id: 163718
-    title: What is the standard form of a quadratic function, and how can you identify its vertex and axis of symmetry?
+    id: 163717
+    title: >-
+        How does the graph of an inverse function relate to the line y = x?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-can-you-identify-its-vertex-and-axis-of-symmetry
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 related_article5:
-    id: 163719
-    title: How do you determine the direction in which a parabola opens?
+    id: 163717
+    title: >-
+        How does the graph of an inverse function relate to the line y = x?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-direction-in-which-a-parabola-opens
+    url: /learn/mathematics/questions/how-does-the-graph-of-an-inverse-function-relate-to-the-line-y--x
 ---
 
 &nbsp;

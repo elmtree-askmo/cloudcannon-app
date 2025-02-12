@@ -2,8 +2,10 @@
 _schema: default
 id: 161271
 date: 2025-01-24
-title: What is the halting problem, and why is it significant in computability theory?
-article_title: What is the halting problem, and why is it significant in computability theory?
+title: >-
+    What is the halting problem, and why is it significant in computability theory?
+article_title: >-
+    What is the halting problem, and why is it significant in computability theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-halting-problem-and-why-is-it-significant-in-computabilit
 url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 score: -1.0
 related_article1:
+    id: 160817
+    title: >-
+        What challenges are associated with solving the traveling salesman problem?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
+related_article2:
+    id: 160966
+    title: >-
+        How do static and dynamic analysis techniques differ in algorithm development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+related_article3:
+    id: 161103
+    title: >-
+        Explain the significance of the traveling salesman problem in the context of NP-completeness.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
+related_article4:
     id: 161086
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    title: >-
+        What is the difference between countably infinite and uncountably infinite sets?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
-related_article2:
-    id: 161088
-    title: How does the representation of an algorithm impact its complexity?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-representation-of-an-algorithm-impact-its-complexity
-related_article3:
-    id: 161131
-    title: How do advanced data structures impact algorithm efficiency?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-advanced-data-structures-impact-algorithm-efficiency
-related_article4:
-    id: 160808
-    title: What defines an efficient algorithm in complexity theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 related_article5:
-    id: 160804
-    title: What is the halting problem, and why is it significant in computability theory?
+    id: 161132
+    title: >-
+        What is the halting problem and why is it significant in computability theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 ---

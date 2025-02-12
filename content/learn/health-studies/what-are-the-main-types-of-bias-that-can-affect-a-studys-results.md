@@ -2,8 +2,10 @@
 _schema: default
 id: 163248
 date: 2025-01-26
-title: What are the main types of bias that can affect a study's results?
-article_title: What are the main types of bias that can affect a study's results?
+title: >-
+    What are the main types of bias that can affect a study's results?
+article_title: >-
+    What are the main types of bias that can affect a study's results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-main-types-of-bias-that-can-affect-a-studys-results.md
 url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
 score: -1.0
 related_article1:
-    id: 163246
-    title: What is internal validity and why is it important in research studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
-related_article2:
     id: 163253
-    title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    title: >-
+        What are the components of a Directed Acyclic Graph (DAG) and their significance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
-related_article3:
-    id: 163259
-    title: What role do systematic reviews and meta-analyses play in evidence appraisal?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
-related_article4:
+related_article2:
     id: 163254
-    title: How can a DAG be used to identify confounders in a study?
+    title: >-
+        How can a DAG be used to identify confounders in a study?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
-related_article5:
-    id: 163253
-    title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+related_article3:
+    id: 163254
+    title: >-
+        How can a DAG be used to identify confounders in a study?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
+    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
+related_article4:
+    id: 163263
+    title: >-
+        How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
 ---
 
 &nbsp;

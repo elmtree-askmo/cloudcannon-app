@@ -2,8 +2,10 @@
 _schema: default
 id: 163582
 date: 2025-01-27
-title: What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
-article_title: What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
+title: >-
+    What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
+article_title: >-
+    What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the
 score: 9.0
 related_article1:
     id: 163580
-    title: What were the main social divisions in Spartan society, and how did they function?
+    title: >-
+        What were the main social divisions in Spartan society, and how did they function?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-social-divisions-in-spartan-society-and-how-did-they-function
 related_article2:
-    id: 163580
-    title: What were the main social divisions in Spartan society, and how did they function?
+    id: 163576
+    title: >-
+        What were the main causes and outcomes of the Messenian Wars?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-social-divisions-in-spartan-society-and-how-did-they-function
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-and-outcomes-of-the-messenian-wars
 related_article3:
-    id: 163579
-    title: Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
-related_article4:
     id: 163570
-    title: What was the significance of the Lycurgan Constitution in shaping Spartan society?
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
-related_article5:
-    id: 163578
-    title: What archaeological evidence supports our understanding of Spartan society?
+related_article4:
+    id: 163579
+    title: >-
+        Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
+related_article5:
+    id: 163579
+    title: >-
+        Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
 ---
 
 &nbsp;

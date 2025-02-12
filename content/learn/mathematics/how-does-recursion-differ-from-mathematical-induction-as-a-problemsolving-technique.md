@@ -2,8 +2,10 @@
 _schema: default
 id: 170747
 date: 2025-02-06
-title: How does recursion differ from mathematical induction as a problem-solving technique?
-article_title: How does recursion differ from mathematical induction as a problem-solving technique?
+title: >-
+    How does recursion differ from mathematical induction as a problem-solving technique?
+article_title: >-
+    How does recursion differ from mathematical induction as a problem-solving technique?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-recursion-differ-from-mathematical-induction-as-a-problemsol
 url: /learn/mathematics/questions/how-does-recursion-differ-from-mathematical-induction-as-a-problemsolving-technique
 score: -1.0
 related_article1:
-    id: 170748
-    title: What is the formula for the sum of a geometric series?
+    id: 170745
+    title: >-
+        How are truth tables used to evaluate logical implications?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-the-sum-of-a-geometric-series
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 related_article2:
-    id: 170754
-    title: How can inductive proofs be applied to the natural logarithm of factorial?
+    id: 170746
+    title: >-
+        What is the significance of implication statements in logical reasoning?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-inductive-proofs-be-applied-to-the-natural-logarithm-of-factorial
+    url: /learn/mathematics/questions/what-is-the-significance-of-implication-statements-in-logical-reasoning
 related_article3:
+    id: 170750
+    title: >-
+        What is the binomial series and how is it expanded?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-binomial-series-and-how-is-it-expanded
+related_article4:
     id: 170743
-    title: How can integer properties be used in inductive proofs?
+    title: >-
+        How can integer properties be used in inductive proofs?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-integer-properties-be-used-in-inductive-proofs
-related_article4:
-    id: 170749
-    title: How do you determine the common ratio and first term in a geometric series?
+related_article5:
+    id: 170745
+    title: >-
+        How are truth tables used to evaluate logical implications?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-determine-the-common-ratio-and-first-term-in-a-geometric-series
+    url: /learn/mathematics/questions/how-are-truth-tables-used-to-evaluate-logical-implications
 ---
 
 &nbsp;

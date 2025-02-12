@@ -2,8 +2,10 @@
 _schema: default
 id: 166403
 date: 2025-01-30
-title: Identify and explain the three types of natural selection.
-article_title: Identify and explain the three types of natural selection.
+title: >-
+    Identify and explain the three types of natural selection.
+article_title: >-
+    Identify and explain the three types of natural selection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-and-explain-the-three-types-of-natural-selection.md
 url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 score: -1.0
 related_article1:
-    id: 166415
-    title: Compare artificial selection with natural selection in terms of process and outcomes.
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
     subject: Psychology
-    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
 related_article2:
     id: 166402
-    title: What is cultural transmission and how does it affect animal behavior?
+    title: >-
+        What is cultural transmission and how does it affect animal behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
 related_article3:
-    id: 166409
-    title: How do phenotype and genotype interact to influence an organism's fitness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
-related_article4:
     id: 166401
-    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    title: >-
+        Describe the role of learning in animal behavior and its impact on adaptation.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
-related_article5:
-    id: 166419
-    title: What biological processes are involved in the mechanisms of animal behavior?
+related_article4:
+    id: 166399
+    title: >-
+        Differentiate between proximate and ultimate explanations in animal behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
+    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+related_article5:
+    id: 166411
+    title: >-
+        Explain how environmental factors can influence animal behavior and interact with genetics.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
 ---
 
 &nbsp;

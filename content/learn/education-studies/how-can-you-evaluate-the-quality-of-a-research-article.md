@@ -2,8 +2,10 @@
 _schema: default
 id: 164932
 date: 2025-01-28
-title: How can you evaluate the quality of a research article?
-article_title: How can you evaluate the quality of a research article?
+title: >-
+    How can you evaluate the quality of a research article?
+article_title: >-
+    How can you evaluate the quality of a research article?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-can-you-evaluate-the-quality-of-a-re
 score: -1.0
 related_article1:
     id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
+    title: >-
+        What are the main types of advocacy groups and their focus areas?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
 related_article2:
-    id: 164941
-    title: How do media and cultural factors influence political views?
+    id: 164933
+    title: >-
+        What are the primary methods of data collection in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
+    url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
 related_article3:
-    id: 164942
-    title: What are the core principles of communism?
+    id: 164933
+    title: >-
+        What are the primary methods of data collection in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
+    url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
 related_article4:
-    id: 164942
-    title: What are the core principles of communism?
+    id: 164936
+    title: >-
+        What are the different types of questions used in surveys, and how can bias be avoided?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
+    url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
 related_article5:
-    id: 164937
-    title: What role do advocacy groups play in influencing policy?
+    id: 164945
+    title: >-
+        What are some key strategies used in counterterrorism efforts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-advocacy-groups-play-in-influencing-policy
+    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
 ---
 
 &nbsp;

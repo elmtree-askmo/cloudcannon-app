@@ -2,8 +2,10 @@
 _schema: default
 id: 161196
 date: 2025-01-24
-title: What is the significance of variables in data storage and manipulation?
-article_title: What is the significance of variables in data storage and manipulation?
+title: >-
+    What is the significance of variables in data storage and manipulation?
+article_title: >-
+    What is the significance of variables in data storage and manipulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-variables-in-data-storage-and-manipulatio
 url: /learn/computer-science/questions/what-is-the-significance-of-variables-in-data-storage-and-manipulation
 score: -1.0
 related_article1:
-    id: 161474
-    title: What symbol is used in flowcharts to represent the start or end of a process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
-related_article2:
-    id: 161487
-    title: What is the role of variables in data storage and manipulation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-variables-in-data-storage-and-manipulation
-related_article3:
-    id: 161193
-    title: What is iteration and how does it differ from simple repetition?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
-related_article4:
-    id: 161481
-    title: How do comparison operators facilitate decision making in algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
-related_article5:
     id: 161183
-    title: What symbol in a flowchart represents the start or end of a process?
+    title: >-
+        What symbol in a flowchart represents the start or end of a process?
     subject: Computer Science
     url: /learn/computer-science/questions/what-symbol-in-a-flowchart-represents-the-start-or-end-of-a-process
+related_article2:
+    id: 161481
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+related_article3:
+    id: 161197
+    title: >-
+        How do control structures like sequence, selection, and iteration influence program flow?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
+related_article4:
+    id: 161478
+    title: >-
+        What is string manipulation and why is it important in programming?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
+related_article5:
+    id: 161475
+    title: >-
+        How are input and output represented in a flowchart?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169926
 date: 2025-02-05
-title: What are the different types of incentives in economics, and how do they affect consumer behavior?
-article_title: What are the different types of incentives in economics, and how do they affect consumer behavior?
+title: >-
+    What are the different types of incentives in economics, and how do they affect consumer behavior?
+article_title: >-
+    What are the different types of incentives in economics, and how do they affect consumer behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-incentives-in-economics-and-how-do-th
 url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
 score: -1.0
 related_article1:
-    id: 169933
-    title: What factors influence consumer behavior, and how do branding and marketing play a role?
+    id: 169935
+    title: >-
+        Explain the fundamental economic concepts of scarcity and choice.
     subject: Economics
-    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+    url: /learn/economics/questions/explain-the-fundamental-economic-concepts-of-scarcity-and-choice
 related_article2:
-    id: 169928
-    title: What factors contribute to economic growth, and what role do innovation and technology play?
+    id: 169920
+    title: >-
+        How is opportunity cost calculated, and why is it important in decision making?
     subject: Economics
-    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
+    url: /learn/economics/questions/how-is-opportunity-cost-calculated-and-why-is-it-important-in-decision-making
 related_article3:
-    id: 169927
-    title: Describe the process of cost-benefit analysis and its application in policy making.
+    id: 169917
+    title: >-
+        What is the primary purpose of tariffs, and how do they affect import and export activities?
     subject: Economics
-    url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
+    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
 related_article4:
-    id: 169933
-    title: What factors influence consumer behavior, and how do branding and marketing play a role?
+    id: 169919
+    title: >-
+        Explain the concept of scarcity and its economic implications.
     subject: Economics
-    url: /learn/economics/questions/what-factors-influence-consumer-behavior-and-how-do-branding-and-marketing-play-a-role
+    url: /learn/economics/questions/explain-the-concept-of-scarcity-and-its-economic-implications
 related_article5:
-    id: 169922
-    title: How do marginal cost and benefit influence consumer choices?
+    id: 169932
+    title: >-
+        Identify current trends and challenges in global trade.
     subject: Economics
-    url: /learn/economics/questions/how-do-marginal-cost-and-benefit-influence-consumer-choices
+    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 ---
 
 &nbsp;

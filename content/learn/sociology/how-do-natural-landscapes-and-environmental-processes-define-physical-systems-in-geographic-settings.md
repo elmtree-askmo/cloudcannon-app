@@ -2,8 +2,10 @@
 _schema: default
 id: 160510
 date: 2025-01-24
-title: How do natural landscapes and environmental processes define physical systems in geographic settings?
-article_title: How do natural landscapes and environmental processes define physical systems in geographic settings?
+title: >-
+    How do natural landscapes and environmental processes define physical systems in geographic settings?
+article_title: >-
+    How do natural landscapes and environmental processes define physical systems in geographic settings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-natural-landscapes-and-environmental-processes-define-physical
 url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
 score: -1.0
 related_article1:
-    id: 160629
-    title: How has the COVID-19 pandemic influenced global political events and vaccine nationalism?
+    id: 160223
+    title: >-
+        How do physical geography and human geography contribute to spatial organization?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
 related_article2:
-    id: 160208
-    title: What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    id: 160539
+    title: >-
+        What are the major approaches in human geography for understanding spatial organization?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+    url: /learn/sociology/questions/what-are-the-major-approaches-in-human-geography-for-understanding-spatial-organization
 related_article3:
-    id: 160549
-    title: How has the COVID-19 pandemic influenced global political actions, particularly in terms of vaccine nationalism?
+    id: 160223
+    title: >-
+        How do physical geography and human geography contribute to spatial organization?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-actions-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
 related_article4:
-    id: 160220
-    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    id: 160564
+    title: >-
+        What is the significance of population distribution and cultural landscapes in human systems?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
 related_article5:
-    id: 160098
-    title: How do communication technologies and transportation networks contribute to global connectivity in time-space compression?
+    id: 160493
+    title: >-
+        How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-communication-technologies-and-transportation-networks-contribute-to-global-connectivity-in-timespace-compression
+    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
 ---
 
 &nbsp;

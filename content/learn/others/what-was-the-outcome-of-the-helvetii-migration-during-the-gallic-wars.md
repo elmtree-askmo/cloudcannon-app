@@ -2,8 +2,10 @@
 _schema: default
 id: 166044
 date: 2025-01-29
-title: What was the outcome of the Helvetii migration during the Gallic Wars?
-article_title: What was the outcome of the Helvetii migration during the Gallic Wars?
+title: >-
+    What was the outcome of the Helvetii migration during the Gallic Wars?
+article_title: >-
+    What was the outcome of the Helvetii migration during the Gallic Wars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-outcome-of-the-helvetii-migration-during-the-gallic-wars
 url: /learn/others/questions/what-was-the-outcome-of-the-helvetii-migration-during-the-gallic-wars
 score: -1.0
 related_article1:
-    id: 166049
-    title: Why were Druids exempt from war, and what was the significance of their oral tradition?
+    id: 166046
+    title: >-
+        How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
     subject: Others
-    url: /learn/others/questions/why-were-druids-exempt-from-war-and-what-was-the-significance-of-their-oral-tradition
+    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
 related_article2:
-    id: 166056
-    title: What were Pliny the Elder's observations about the Celts?
+    id: 166041
+    title: >-
+        How did Greek sources describe the martial prowess of the Celts?
     subject: Others
-    url: /learn/others/questions/what-were-pliny-the-elders-observations-about-the-celts
+    url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
 related_article3:
     id: 166041
-    title: How did Greek sources describe the martial prowess of the Celts?
+    title: >-
+        How did Greek sources describe the martial prowess of the Celts?
     subject: Others
     url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
 related_article4:
-    id: 166056
-    title: What were Pliny the Elder's observations about the Celts?
+    id: 166048
+    title: >-
+        What were the sacred duties of the Druids in Celtic society?
     subject: Others
-    url: /learn/others/questions/what-were-pliny-the-elders-observations-about-the-celts
+    url: /learn/others/questions/what-were-the-sacred-duties-of-the-druids-in-celtic-society
 related_article5:
-    id: 166049
-    title: Why were Druids exempt from war, and what was the significance of their oral tradition?
+    id: 166057
+    title: >-
+        How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
     subject: Others
-    url: /learn/others/questions/why-were-druids-exempt-from-war-and-what-was-the-significance-of-their-oral-tradition
+    url: /learn/others/questions/how-did-roman-perspectives-such-as-caesars-narratives-shape-the-historical-accounts-of-the-celts
 ---
 
 &nbsp;

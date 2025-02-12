@@ -2,8 +2,10 @@
 _schema: default
 id: 165662
 date: 2025-01-29
-title: What information can be obtained from the 'show running-config' command?
-article_title: What information can be obtained from the 'show running-config' command?
+title: >-
+    What information can be obtained from the 'show running-config' command?
+article_title: >-
+    What information can be obtained from the 'show running-config' command?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-information-can-be-obtained-from-the
 score: -1.0
 related_article1:
     id: 165655
-    title: What are the key considerations when selecting devices for a small network?
+    title: >-
+        What are the key considerations when selecting devices for a small network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
 related_article2:
     id: 165667
-    title: What tools can be used to troubleshoot DNS issues effectively?
+    title: >-
+        What tools can be used to troubleshoot DNS issues effectively?
     subject: Computer Science
     url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
 related_article3:
-    id: 165655
-    title: What are the key considerations when selecting devices for a small network?
+    id: 165665
+    title: >-
+        What are common causes of IP addressing issues on IOS devices?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
 related_article4:
-    id: 165655
-    title: What are the key considerations when selecting devices for a small network?
+    id: 165661
+    title: >-
+        How can the ARP command be used to manage the ARP cache?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+    url: /learn/computer-science/questions/how-can-the-arp-command-be-used-to-manage-the-arp-cache
 related_article5:
-    id: 165667
-    title: What tools can be used to troubleshoot DNS issues effectively?
+    id: 165656
+    title: >-
+        How does redundancy improve the reliability of a small network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+    url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
 ---
 
 &nbsp;

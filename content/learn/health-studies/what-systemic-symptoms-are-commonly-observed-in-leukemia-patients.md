@@ -2,8 +2,10 @@
 _schema: default
 id: 166299
 date: 2025-01-30
-title: What systemic symptoms are commonly observed in leukemia patients?
-article_title: What systemic symptoms are commonly observed in leukemia patients?
+title: >-
+    What systemic symptoms are commonly observed in leukemia patients?
+article_title: >-
+    What systemic symptoms are commonly observed in leukemia patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-systemic-symptoms-are-commonly-observed-in-leukemia-patients.md
 url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 score: -1.0
 related_article1:
-    id: 166304
-    title: What are the distinguishing characteristics of Hodgkin's lymphoma?
+    id: 166300
+    title: >-
+        How does organ infiltration present in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma
+    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
 related_article2:
-    id: 166306
-    title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    id: 166318
+    title: >-
+        What is the significance of the Philadelphia chromosome in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
 related_article3:
-    id: 166292
-    title: What biopsy techniques are commonly used in the diagnosis of leukemia?
+    id: 166301
+    title: >-
+        What is the goal of the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
+    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 related_article4:
-    id: 166309
-    title: What constitutional symptoms are associated with lymphoma?
+    id: 166289
+    title: >-
+        What are the key changes in the bone marrow associated with leukemia pathophysiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
 related_article5:
-    id: 166291
-    title: What are the main types of leukemia and their distinguishing features?
+    id: 166307
+    title: >-
+        How do solid tumors form in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
+    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
 ---
 
 &nbsp;

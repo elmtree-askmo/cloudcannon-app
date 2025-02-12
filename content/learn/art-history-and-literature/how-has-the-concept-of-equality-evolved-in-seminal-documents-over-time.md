@@ -2,8 +2,10 @@
 _schema: default
 id: 168570
 date: 2025-02-03
-title: How has the concept of equality evolved in seminal documents over time?
-article_title: How has the concept of equality evolved in seminal documents over time?
+title: >-
+    How has the concept of equality evolved in seminal documents over time?
+article_title: >-
+    How has the concept of equality evolved in seminal documents over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-the-concept-of-equality-evolved-in-seminal-documents-over-tim
 url: /learn/art-history-and-literature/questions/how-has-the-concept-of-equality-evolved-in-seminal-documents-over-time
 score: 9.0
 related_article1:
-    id: 168566
-    title: How have seminal documents influenced American culture?
+    id: 168582
+    title: >-
+        How are American ideals represented in seminal texts, and how have they evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
+    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
 related_article2:
-    id: 168579
-    title: What is the tone of the Gettysburg Address, and how does it contribute to its message?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
-related_article3:
     id: 168575
-    title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+    title: >-
+        What is the role of logical appeals (logos) in the argumentation of seminal documents?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
+related_article3:
+    id: 168568
+    title: >-
+        How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
 related_article4:
-    id: 168584
-    title: How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
+    id: 168565
+    title: >-
+        What are the key characteristics that define a seminal document?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
 related_article5:
-    id: 168579
-    title: What is the tone of the Gettysburg Address, and how does it contribute to its message?
+    id: 168582
+    title: >-
+        How are American ideals represented in seminal texts, and how have they evolved over time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
+    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169209
 date: 2025-02-04
-title: How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
-article_title: How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+title: >-
+    How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
+article_title: >-
+    How does territorialisation of antagonism manifest in political violence and ethnic nationalism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-territorialisation-of-antagonism-manifest-in-political-viole
 url: /learn/sociology/questions/how-does-territorialisation-of-antagonism-manifest-in-political-violence-and-ethnic-nationalism
 score: -1.0
 related_article1:
-    id: 169205
-    title: What is the systematic nature of urbicide in the context of urban destruction?
+    id: 169204
+    title: >-
+        Define urbicide and explain its relationship with genocide.
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 related_article2:
-    id: 169208
-    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    id: 169203
+    title: >-
+        How does urbicide differ conceptually from other forms of destruction?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+    url: /learn/sociology/questions/how-does-urbicide-differ-conceptually-from-other-forms-of-destruction
 related_article3:
-    id: 169214
-    title: What are the ontopolitical claims related to ethnic nationalism and identity?
+    id: 169207
+    title: >-
+        Explain the concept of Mitsein and its relevance to community and shared experience.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ontopolitical-claims-related-to-ethnic-nationalism-and-identity
+    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
 related_article4:
     id: 169208
-    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+    title: >-
+        What are the political stakes of urbicide in the context of agonism and antagonism?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
 related_article5:
-    id: 169205
-    title: What is the systematic nature of urbicide in the context of urban destruction?
+    id: 169204
+    title: >-
+        Define urbicide and explain its relationship with genocide.
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
+    url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 ---
 
 &nbsp;

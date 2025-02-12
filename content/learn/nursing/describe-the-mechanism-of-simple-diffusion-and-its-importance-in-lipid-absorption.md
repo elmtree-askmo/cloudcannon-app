@@ -2,8 +2,10 @@
 _schema: default
 id: 168826
 date: 2025-02-04
-title: Describe the mechanism of simple diffusion and its importance in lipid absorption.
-article_title: Describe the mechanism of simple diffusion and its importance in lipid absorption.
+title: >-
+    Describe the mechanism of simple diffusion and its importance in lipid absorption.
+article_title: >-
+    Describe the mechanism of simple diffusion and its importance in lipid absorption.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipi
 url: /learn/nursing/questions/describe-the-mechanism-of-simple-diffusion-and-its-importance-in-lipid-absorption
 score: -1.0
 related_article1:
-    id: 168815
-    title: Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+    id: 168812
+    title: >-
+        How does bile contribute to the emulsification of lipids?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
 related_article2:
-    id: 168819
-    title: Describe the structure and function of lacteals in the lymphatic system.
+    id: 168824
+    title: >-
+        How are chylomicrons transported through the lymphatic vessels?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-function-of-lacteals-in-the-lymphatic-system
+    url: /learn/nursing/questions/how-are-chylomicrons-transported-through-the-lymphatic-vessels
 related_article3:
-    id: 168820
-    title: How does the lymphatic system function in lipid transport compared to the circulatory system?
+    id: 168822
+    title: >-
+        How does the Golgi apparatus function in the packaging of lipids into chylomicrons?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system
+    url: /learn/nursing/questions/how-does-the-golgi-apparatus-function-in-the-packaging-of-lipids-into-chylomicrons
 related_article4:
-    id: 168816
-    title: How do bile salts enhance the solubility of lipids during micelle formation?
+    id: 168814
+    title: >-
+        What is the role of lipase in the breakdown of lipids?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
+    url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lipids
 related_article5:
-    id: 168816
-    title: How do bile salts enhance the solubility of lipids during micelle formation?
+    id: 168818
+    title: >-
+        How do epithelial cells interact with micelles during lipid absorption?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-bile-salts-enhance-the-solubility-of-lipids-during-micelle-formation
+    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160114
 date: 2025-01-23
-title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
-article_title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+title: >-
+    How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+article_title: >-
+    How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-orientalism-and-colonialism-affect-the-representation-of-nonw
 url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 score: 9.5
 related_article1:
-    id: 160106
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    id: 159852
+    title: >-
+        What were the distinctive characteristics and developments of American and Eastern European modernities in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
 related_article2:
-    id: 159846
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    id: 159835
+    title: >-
+        What were the origins of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
 related_article3:
-    id: 159842
-    title: How did queer art develop in modern society, and who were some key figures and movements in this area?
+    id: 159834
+    title: >-
+        In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-were-some-key-artists-associated-with-this-movement
 related_article4:
-    id: 160201
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    id: 160109
+    title: >-
+        What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
 related_article5:
-    id: 160108
-    title: In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+    id: 159833
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 ---
 
 &nbsp;

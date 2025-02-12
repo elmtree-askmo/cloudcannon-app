@@ -2,8 +2,10 @@
 _schema: default
 id: 163973
 date: 2025-01-28
-title: How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
-article_title: How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
+title: >-
+    How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
+article_title: >-
+    How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-role-and-selection-of-dikastai-reflect-the-sovereignty-of
 url: /learn/history-of-the-world/questions/how-did-the-role-and-selection-of-dikastai-reflect-the-sovereignty-of-athenian-law-courts
 score: 9.0
 related_article1:
-    id: 163974
-    title: What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
+    id: 163966
+    title: >-
+        Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
+    url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
 related_article2:
-    id: 163968
-    title: How did Solon's reforms influence the eligibility for political office in Athens?
+    id: 163975
+    title: >-
+        How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-influence-the-eligibility-for-political-office-in-athens
+    url: /learn/history-of-the-world/questions/how-did-the-oligarchic-regimes-of-411-bc-challenge-athenian-democracy-and-what-were-the-subsequent-reforms
 related_article3:
-    id: 163972
-    title: What were the voting procedures in the Athenian Assembly, and how did they compare to those in Sparta?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-voting-procedures-in-the-athenian-assembly-and-how-did-they-compare-to-those-in-sparta
-related_article4:
-    id: 163977
-    title: How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
-related_article5:
     id: 163976
-    title: What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
+    title: >-
+        What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
+related_article4:
+    id: 163969
+    title: >-
+        What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
+related_article5:
+    id: 163963
+    title: >-
+        What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
 ---
 
 &nbsp;

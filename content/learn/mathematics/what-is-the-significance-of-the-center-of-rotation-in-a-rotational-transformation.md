@@ -2,8 +2,10 @@
 _schema: default
 id: 162487
 date: 2025-01-25
-title: What is the significance of the center of rotation in a rotational transformation?
-article_title: What is the significance of the center of rotation in a rotational transformation?
+title: >-
+    What is the significance of the center of rotation in a rotational transformation?
+article_title: >-
+    What is the significance of the center of rotation in a rotational transformation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-center-of-rotation-in-a-rotational-tr
 url: /learn/mathematics/questions/what-is-the-significance-of-the-center-of-rotation-in-a-rotational-transformation
 score: -1.0
 related_article1:
-    id: 162252
-    title: Why are transformations important in the study of geometry?
+    id: 162495
+    title: >-
+        How does translation affect the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-transformations-important-in-the-study-of-geometry
+    url: /learn/mathematics/questions/how-does-translation-affect-the-orientation-of-a-geometric-figure
 related_article2:
-    id: 162503
-    title: What are the key properties of two-dimensional transformations?
+    id: 162497
+    title: >-
+        What is the impact of vertex transformations on the orientation of parallelograms?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
+    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
 related_article3:
-    id: 162503
-    title: What are the key properties of two-dimensional transformations?
+    id: 162239
+    title: >-
+        What is the significance of the prime symbol notation in rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-prime-symbol-notation-in-rotations
 related_article4:
+    id: 162598
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+related_article5:
     id: 162486
-    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    title: >-
+        How do clockwise and counterclockwise rotations differ in terms of direction?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
-related_article5:
-    id: 162603
-    title: How is the length of a line segment affected by rotation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 ---
 
 &nbsp;

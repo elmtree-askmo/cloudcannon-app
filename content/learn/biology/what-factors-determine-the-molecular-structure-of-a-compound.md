@@ -2,8 +2,10 @@
 _schema: default
 id: 167460
 date: 2025-01-31
-title: What factors determine the molecular structure of a compound?
-article_title: What factors determine the molecular structure of a compound?
+title: >-
+    What factors determine the molecular structure of a compound?
+article_title: >-
+    What factors determine the molecular structure of a compound?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-determine-the-molecular-structure-of-a-compound.md
 url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
 score: -1.0
 related_article1:
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+related_article2:
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+related_article3:
     id: 167455
-    title: Why is carbon chemistry crucial for the formation of complex organic structures?
+    title: >-
+        Why is carbon chemistry crucial for the formation of complex organic structures?
     subject: Biology
     url: /learn/biology/questions/why-is-carbon-chemistry-crucial-for-the-formation-of-complex-organic-structures
-related_article2:
-    id: 167466
-    title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
-related_article3:
-    id: 167456
-    title: Define acids and bases according to the proton donor-acceptor concept.
-    subject: Biology
-    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
 related_article4:
-    id: 167445
-    title: How do polar covalent bonds differ from nonpolar covalent bonds?
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
     subject: Biology
-    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 related_article5:
-    id: 167463
-    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    id: 167447
+    title: >-
+        Describe the properties and reactions of sodium chloride as a common ionic compound.
     subject: Biology
-    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
 ---
 
 &nbsp;

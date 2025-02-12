@@ -2,8 +2,10 @@
 _schema: default
 id: 160714
 date: 2025-01-24
-title: What are the main components of network architecture?
-article_title: What are the main components of network architecture?
+title: >-
+    What are the main components of network architecture?
+article_title: >-
+    What are the main components of network architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-network-architecture.md
 url: /learn/computer-science/questions/what-are-the-main-components-of-network-architecture
 score: -1.0
 related_article1:
-    id: 161036
-    title: What are the main stages of the software engineering design process?
+    id: 161052
+    title: >-
+        How do heuristic algorithms differ from Euclid’s algorithm?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-stages-of-the-software-engineering-design-process
+    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
 related_article2:
-    id: 160700
-    title: How does abstraction help in simplifying complex computing problems?
+    id: 161038
+    title: >-
+        What are the primary functions of database management systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
 related_article3:
-    id: 161035
-    title: Why is algorithm efficiency important in computational problem solving?
+    id: 160711
+    title: >-
+        What are the primary functions of database management systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
 related_article4:
-    id: 161043
-    title: How do rendering techniques impact computer graphics?
+    id: 161040
+    title: >-
+        What are the essential elements of network architecture?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-rendering-techniques-impact-computer-graphics
+    url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
 related_article5:
-    id: 160727
-    title: What are the principles of usability in user interface design?
+    id: 161047
+    title: >-
+        How do operating systems manage processes and memory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/how-do-operating-systems-manage-processes-and-memory
 ---
 
 &nbsp;

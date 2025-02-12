@@ -2,8 +2,10 @@
 _schema: default
 id: 165077
 date: 2025-01-28
-title: What are some limitations of relying solely on p-values for statistical significance?
-article_title: What are some limitations of relying solely on p-values for statistical significance?
+title: >-
+    What are some limitations of relying solely on p-values for statistical significance?
+article_title: >-
+    What are some limitations of relying solely on p-values for statistical significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-limitations-of-relying-solely-on-pvalues-for-statistica
 url: /learn/psychology/questions/what-are-some-limitations-of-relying-solely-on-pvalues-for-statistical-significance
 score: -1.0
 related_article1:
-    id: 165075
-    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
 related_article2:
-    id: 165093
-    title: Why is replication important in research, and what challenges might arise?
+    id: 165078
+    title: >-
+        What are the main differences between experimental design and observational studies in research methodology?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
+    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
 related_article3:
-    id: 165088
-    title: What strategies can be used to address sample size limitations in research?
+    id: 165092
+    title: >-
+        How do design principles influence the effectiveness of data visualizations?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-used-to-address-sample-size-limitations-in-research
+    url: /learn/psychology/questions/how-do-design-principles-influence-the-effectiveness-of-data-visualizations
 related_article4:
-    id: 165083
-    title: What are the key components of a well-structured research report?
+    id: 165067
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
 related_article5:
-    id: 165075
-    title: How is a p-value calculated, and why is it important in hypothesis testing?
+    id: 165072
+    title: >-
+        What is the difference between a null hypothesis and an alternative hypothesis?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-a-pvalue-calculated-and-why-is-it-important-in-hypothesis-testing
+    url: /learn/psychology/questions/what-is-the-difference-between-a-null-hypothesis-and-an-alternative-hypothesis
 ---
 
 &nbsp;

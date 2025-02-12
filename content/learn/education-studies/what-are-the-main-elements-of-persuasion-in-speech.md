@@ -2,8 +2,10 @@
 _schema: default
 id: 168536
 date: 2025-02-03
-title: What are the main elements of persuasion in speech?
-article_title: What are the main elements of persuasion in speech?
+title: >-
+    What are the main elements of persuasion in speech?
+article_title: >-
+    What are the main elements of persuasion in speech?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-elements-of-persuasion-in-speech.md
 url: /learn/education-studies/questions/what-are-the-main-elements-of-persuasion-in-speech
 score: -1.0
 related_article1:
-    id: 168528
-    title: What is diction and why is it important in speech?
+    id: 168549
+    title: >-
+        What are the characteristics of a collegial discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-diction-and-why-is-it-important-in-speech
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
 related_article2:
-    id: 168552
-    title: How do diverse perspectives enrich discussions and encourage open-mindedness?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-diverse-perspectives-enrich-discussions-and-encourage-openmindedness
-related_article3:
-    id: 168544
-    title: What types of evidence are commonly used in speeches to support claims?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-evidence-are-commonly-used-in-speeches-to-support-claims
-related_article4:
-    id: 168529
-    title: How does syntax contribute to persuasion in speech?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
-related_article5:
     id: 168535
-    title: How can diction and syntax be evaluated in a speech critique?
+    title: >-
+        How can diction and syntax be evaluated in a speech critique?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-diction-and-syntax-be-evaluated-in-a-speech-critique
+related_article3:
+    id: 168532
+    title: >-
+        Why is it important to identify and understand your audience before delivering a speech?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
+related_article4:
+    id: 168552
+    title: >-
+        How do diverse perspectives enrich discussions and encourage open-mindedness?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-diverse-perspectives-enrich-discussions-and-encourage-openmindedness
+related_article5:
+    id: 168550
+    title: >-
+        What techniques can be used to manage disagreement respectfully in a discussion?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
 ---
 
 &nbsp;

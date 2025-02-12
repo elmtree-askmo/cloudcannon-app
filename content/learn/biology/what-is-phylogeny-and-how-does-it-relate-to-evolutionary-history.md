@@ -2,8 +2,10 @@
 _schema: default
 id: 166369
 date: 2025-01-30
-title: What is phylogeny and how does it relate to evolutionary history?
-article_title: What is phylogeny and how does it relate to evolutionary history?
+title: >-
+    What is phylogeny and how does it relate to evolutionary history?
+article_title: >-
+    What is phylogeny and how does it relate to evolutionary history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history.md
 url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
 score: -1.0
 related_article1:
-    id: 166358
-    title: What is the purpose of a truncation selection experiment in studying heritability?
+    id: 166372
+    title: >-
+        How is the selection differential calculated and what does it indicate?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
+    url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
 related_article2:
-    id: 166355
-    title: What are Darwin's postulates and how do they relate to natural selection?
+    id: 166354
+    title: >-
+        How do ultimate and proximate questions differ in the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
 related_article3:
     id: 166361
-    title: Define adaptation and explain its importance in evolutionary biology.
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
     subject: Biology
     url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 related_article4:
-    id: 166359
-    title: How does parent-offspring regression help in understanding heritability?
+    id: 166364
+    title: >-
+        Differentiate between homology and homoplasy in comparative biology.
     subject: Biology
-    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
+    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
 related_article5:
-    id: 166372
-    title: How is the selection differential calculated and what does it indicate?
+    id: 166358
+    title: >-
+        What is the purpose of a truncation selection experiment in studying heritability?
     subject: Biology
-    url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
+    url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
 ---
 
 &nbsp;

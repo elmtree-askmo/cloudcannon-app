@@ -2,8 +2,10 @@
 _schema: default
 id: 166527
 date: 2025-01-30
-title: In what ways does Modern Art serve as a form of social commentary?
-article_title: In what ways does Modern Art serve as a form of social commentary?
+title: >-
+    In what ways does Modern Art serve as a form of social commentary?
+article_title: >-
+    In what ways does Modern Art serve as a form of social commentary?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-does-modern-art-serve-as-a-form-of-social-commentary.md
 url: /learn/education-studies/questions/in-what-ways-does-modern-art-serve-as-a-form-of-social-commentary
 score: -1.0
 related_article1:
-    id: 166517
-    title: How do lighting and composition play a role in Baroque Art?
+    id: 166514
+    title: >-
+        What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-modern-art-and-how-do-they-differ-from-previous-art-movements
 related_article2:
-    id: 166530
-    title: What is the essence of art, and how do art movements and trends reflect this essence?
+    id: 166524
+    title: >-
+        What techniques are commonly used in visual analysis for art criticism?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-essence-of-art-and-how-do-art-movements-and-trends-reflect-this-essence
+    url: /learn/education-studies/questions/what-techniques-are-commonly-used-in-visual-analysis-for-art-criticism
 related_article3:
-    id: 166515
-    title: How did historical context influence the development of Modern Art?
+    id: 166526
+    title: >-
+        How did historical context shape the development of Modern Art and Baroque Art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-historical-context-influence-the-development-of-modern-art
+    url: /learn/education-studies/questions/how-did-historical-context-shape-the-development-of-modern-art-and-baroque-art
 related_article4:
-    id: 166525
-    title: How does historical context influence art interpretation?
+    id: 166519
+    title: >-
+        What is the role of visual analysis in art criticism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-historical-context-influence-art-interpretation
+    url: /learn/education-studies/questions/what-is-the-role-of-visual-analysis-in-art-criticism
 related_article5:
-    id: 166516
-    title: What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
+    id: 166522
+    title: >-
+        What are the defining characteristics of Realism, and how did it emerge as a response to its historical context?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-realism-and-how-did-it-emerge-as-a-response-to-its-historical-context
 ---
 
 &nbsp;

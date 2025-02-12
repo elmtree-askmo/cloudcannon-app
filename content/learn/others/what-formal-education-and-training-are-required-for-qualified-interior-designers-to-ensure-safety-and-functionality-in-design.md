@@ -2,8 +2,10 @@
 _schema: default
 id: 168661
 date: 2025-02-03
-title: What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
-article_title: What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
+title: >-
+    What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
+article_title: >-
+    What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-formal-education-and-training-are-required-for-qualified-interio
 url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
 score: -1.0
 related_article1:
-    id: 168653
-    title: What are the key components of drafting construction documents in compliance with state and local building codes?
+    id: 168658
+    title: >-
+        How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-components-of-drafting-construction-documents-in-compliance-with-state-and-local-building-codes
+    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
 related_article2:
-    id: 168656
-    title: How do non load-bearing walls and room partitions contribute to interior construction features?
+    id: 168658
+    title: >-
+        How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
     subject: Others
-    url: /learn/others/questions/how-do-non-loadbearing-walls-and-room-partitions-contribute-to-interior-construction-features
+    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
 related_article3:
+    id: 168652
+    title: >-
+        How do interior designers collaborate with architects and engineers in the design and construction team?
+    subject: Others
+    url: /learn/others/questions/how-do-interior-designers-collaborate-with-architects-and-engineers-in-the-design-and-construction-team
+related_article4:
+    id: 168651
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
+    subject: Others
+    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
+related_article5:
     id: 168657
-    title: What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
+    title: >-
+        What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
     subject: Others
     url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
-related_article4:
-    id: 168658
-    title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
-    subject: Others
-    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
-related_article5:
-    id: 168658
-    title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
-    subject: Others
-    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
 ---
 
 &nbsp;

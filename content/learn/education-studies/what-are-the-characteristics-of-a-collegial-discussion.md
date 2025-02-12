@@ -2,8 +2,10 @@
 _schema: default
 id: 168549
 date: 2025-02-03
-title: What are the characteristics of a collegial discussion?
-article_title: What are the characteristics of a collegial discussion?
+title: >-
+    What are the characteristics of a collegial discussion?
+article_title: >-
+    What are the characteristics of a collegial discussion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-characteristics-of-a-collegial-discussion.md
 url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
 score: -1.0
 related_article1:
-    id: 168542
-    title: What are effective summarization techniques and how can personal bias be avoided?
+    id: 168538
+    title: >-
+        What are some techniques for active listening and how do they benefit discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-summarization-techniques-and-how-can-personal-bias-be-avoided
+    url: /learn/education-studies/questions/what-are-some-techniques-for-active-listening-and-how-do-they-benefit-discussions
 related_article2:
-    id: 168536
-    title: What are the main elements of persuasion in speech?
+    id: 168550
+    title: >-
+        What techniques can be used to manage disagreement respectfully in a discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-elements-of-persuasion-in-speech
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
 related_article3:
-    id: 168532
-    title: Why is it important to identify and understand your audience before delivering a speech?
+    id: 168553
+    title: >-
+        What strategies can be employed for conflict resolution while maintaining respectful dialogue?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-for-conflict-resolution-while-maintaining-respectful-dialogue
 related_article4:
     id: 168539
-    title: How can active listening enhance understanding during a critique?
+    title: >-
+        How can active listening enhance understanding during a critique?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-active-listening-enhance-understanding-during-a-critique
 related_article5:
     id: 168531
-    title: How can emotional appeal impact an audience during a speech?
+    title: >-
+        How can emotional appeal impact an audience during a speech?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
 ---

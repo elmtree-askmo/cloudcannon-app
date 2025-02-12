@@ -2,8 +2,10 @@
 _schema: default
 id: 168711
 date: 2025-02-04
-title: Compare the speed and precision of CNC lathes with mechanical lathes.
-article_title: Compare the speed and precision of CNC lathes with mechanical lathes.
+title: >-
+    Compare the speed and precision of CNC lathes with mechanical lathes.
+article_title: >-
+    Compare the speed and precision of CNC lathes with mechanical lathes.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes.
 url: /learn/engineering/questions/compare-the-speed-and-precision-of-cnc-lathes-with-mechanical-lathes
 score: -1.0
 related_article1:
-    id: 168713
-    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
+    id: 168697
+    title: >-
+        What are the key characteristics of parts with a geometry of revolution, such as shafts and cylindrical parts?
     subject: Engineering
-    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
+    url: /learn/engineering/questions/what-are-the-key-characteristics-of-parts-with-a-geometry-of-revolution-such-as-shafts-and-cylindrical-parts
 related_article2:
-    id: 168700
-    title: How does the geometry of a cutting tool influence the final shape of a machined part?
+    id: 168712
+    title: >-
+        What are the benefits of CNC machining in terms of heavy machining and operation diversity?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+    url: /learn/engineering/questions/what-are-the-benefits-of-cnc-machining-in-terms-of-heavy-machining-and-operation-diversity
 related_article3:
-    id: 168707
-    title: What are the advantages of using modern cutting tools for external and groove machining?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-advantages-of-using-modern-cutting-tools-for-external-and-groove-machining
-related_article4:
-    id: 168713
-    title: List the basic and mandatory personal protective equipment (PPE) required in machining environments.
-    subject: Engineering
-    url: /learn/engineering/questions/list-the-basic-and-mandatory-personal-protective-equipment-ppe-required-in-machining-environments
-related_article5:
     id: 168700
-    title: How does the geometry of a cutting tool influence the final shape of a machined part?
+    title: >-
+        How does the geometry of a cutting tool influence the final shape of a machined part?
     subject: Engineering
     url: /learn/engineering/questions/how-does-the-geometry-of-a-cutting-tool-influence-the-final-shape-of-a-machined-part
+related_article4:
+    id: 168703
+    title: >-
+        Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
+related_article5:
+    id: 168703
+    title: >-
+        Why is cutting speed important in machining, and what factors influence it?
+    subject: Engineering
+    url: /learn/engineering/questions/why-is-cutting-speed-important-in-machining-and-what-factors-influence-it
 ---
 
 &nbsp;

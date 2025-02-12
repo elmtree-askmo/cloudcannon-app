@@ -2,8 +2,10 @@
 _schema: default
 id: 170886
 date: 2025-02-07
-title: Explain the concept of the law of diminishing returns in the context of behavior.
-article_title: Explain the concept of the law of diminishing returns in the context of behavior.
+title: >-
+    Explain the concept of the law of diminishing returns in the context of behavior.
+article_title: >-
+    Explain the concept of the law of diminishing returns in the context of behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-
 url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
 score: -1.0
 related_article1:
+    id: 170887
+    title: >-
+        What are the optimal investment points in investment strategies related to behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-optimal-investment-points-in-investment-strategies-related-to-behavior
+related_article2:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
+related_article3:
+    id: 170884
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
+related_article4:
     id: 170882
-    title: What challenges are associated with measuring quantitative traits in behavior?
+    title: >-
+        What challenges are associated with measuring quantitative traits in behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
-related_article2:
+related_article5:
     id: 170892
-    title: How do mathematical models contribute to optimization in biological systems?
+    title: >-
+        How do mathematical models contribute to optimization in biological systems?
     subject: Psychology
     url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
-related_article3:
-    id: 170890
-    title: How does energy expenditure relate to behavioral traits?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
-related_article4:
-    id: 170880
-    title: What are the key differences between voluntary and involuntary actions in behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-voluntary-and-involuntary-actions-in-behavior
-related_article5:
-    id: 170891
-    title: What are the adaptive strategies in behavioral ecology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166938
 date: 2025-01-31
-title: What is the difference between channel proteins and carrier proteins in terms of their function?
-article_title: What is the difference between channel proteins and carrier proteins in terms of their function?
+title: >-
+    What is the difference between channel proteins and carrier proteins in terms of their function?
+article_title: >-
+    What is the difference between channel proteins and carrier proteins in terms of their function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-difference-between-channel-proteins-and-carrier-proteins-
 url: /learn/biology/questions/what-is-the-difference-between-channel-proteins-and-carrier-proteins-in-terms-of-their-function
 score: -1.0
 related_article1:
-    id: 166939
-    title: How does passive transport differ from active transport in terms of energy requirements?
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
 related_article2:
+    id: 166949
+    title: >-
+        What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+related_article3:
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
+related_article4:
     id: 166936
-    title: How does facilitated diffusion differ from active transport in terms of energy usage?
+    title: >-
+        How does facilitated diffusion differ from active transport in terms of energy usage?
     subject: Biology
     url: /learn/biology/questions/how-does-facilitated-diffusion-differ-from-active-transport-in-terms-of-energy-usage
-related_article3:
-    id: 166944
-    title: How does exocytosis function in the transport of substances out of the cell?
-    subject: Biology
-    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
-related_article4:
-    id: 166940
-    title: What is the role of the Na+ - K+ pump in active transport?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
 related_article5:
     id: 166948
-    title: How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+    title: >-
+        How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
     subject: Biology
     url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
 ---

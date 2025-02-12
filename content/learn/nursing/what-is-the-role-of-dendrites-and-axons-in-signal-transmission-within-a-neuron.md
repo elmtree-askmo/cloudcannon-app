@@ -2,8 +2,10 @@
 _schema: default
 id: 170450
 date: 2025-02-06
-title: What is the role of dendrites and axons in signal transmission within a neuron?
-article_title: What is the role of dendrites and axons in signal transmission within a neuron?
+title: >-
+    What is the role of dendrites and axons in signal transmission within a neuron?
+article_title: >-
+    What is the role of dendrites and axons in signal transmission within a neuron?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within
 url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
 score: -1.0
 related_article1:
-    id: 170448
-    title: What is the clinical significance of the subarachnoid space and CSF?
+    id: 170443
+    title: >-
+        Describe the challenges in the treatment and management of Alzheimer's and Parkinson's diseases.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-subarachnoid-space-and-csf
+    url: /learn/nursing/questions/describe-the-challenges-in-the-treatment-and-management-of-alzheimers-and-parkinsons-diseases
 related_article2:
-    id: 170444
-    title: What are the potential genetic and viral components associated with schizophrenia?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
-related_article3:
-    id: 170455
-    title: What are the treatment options for hydrocephalus, and how do they work?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
-related_article4:
-    id: 170442
-    title: What are the primary causes and consequences of a stroke?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
-related_article5:
     id: 170453
-    title: Why is myelination important for signal transmission in neurons?
+    title: >-
+        Why is myelination important for signal transmission in neurons?
     subject: Nursing
     url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
+related_article3:
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
+related_article4:
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
+related_article5:
+    id: 170442
+    title: >-
+        What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
 ---
 
 &nbsp;

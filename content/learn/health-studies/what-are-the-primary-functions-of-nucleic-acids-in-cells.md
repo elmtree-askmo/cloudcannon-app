@@ -2,8 +2,10 @@
 _schema: default
 id: 167098
 date: 2025-01-31
-title: What are the primary functions of nucleic acids in cells?
-article_title: What are the primary functions of nucleic acids in cells?
+title: >-
+    What are the primary functions of nucleic acids in cells?
+article_title: >-
+    What are the primary functions of nucleic acids in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-nucleic-acids-in-cells.md
 url: /learn/health-studies/questions/what-are-the-primary-functions-of-nucleic-acids-in-cells
 score: -1.0
 related_article1:
-    id: 167111
-    title: What types of molecules provide structural support in cells?
+    id: 167095
+    title: >-
+        What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-monosaccharides-disaccharides-and-polysaccharides
 related_article2:
-    id: 167101
-    title: What are the common examples of disaccharides and their functions?
+    id: 167088
+    title: >-
+        Why are functional groups important in biological molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-examples-of-disaccharides-and-their-functions
+    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
 related_article3:
-    id: 167113
-    title: How does amino acid classification affect protein function and interaction?
+    id: 167100
+    title: >-
+        How are monosaccharides classified based on carbon number and functional group?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-amino-acid-classification-affect-protein-function-and-interaction
+    url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
 related_article4:
-    id: 167105
-    title: How are amino acids classified based on polarity and charge?
+    id: 167095
+    title: >-
+        What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
+    url: /learn/health-studies/questions/what-are-the-structural-differences-between-monosaccharides-disaccharides-and-polysaccharides
 related_article5:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
+    id: 167103
+    title: >-
+        How do functional groups influence the chemical properties of molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
+    url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
 ---
 
 &nbsp;

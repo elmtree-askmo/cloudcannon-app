@@ -2,8 +2,10 @@
 _schema: default
 id: 169591
 date: 2025-02-05
-title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
-article_title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+title: >-
+    What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+article_title: >-
+    What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthc
 url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
 score: -1.0
 related_article1:
-    id: 169583
-    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    id: 169594
+    title: >-
+        How do socio-economic factors influence access to healthcare services and health outcomes?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
 related_article2:
-    id: 169587
-    title: What impact do stereotypes and biases have on the quality of care provided by nurses?
+    id: 169584
+    title: >-
+        How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-impact-do-stereotypes-and-biases-have-on-the-quality-of-care-provided-by-nurses
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
 related_article3:
-    id: 169592
-    title: How does institutional racism affect healthcare access for ethnic minorities?
+    id: 169598
+    title: >-
+        How can language barriers affect patient care, and what strategies can be implemented to overcome them?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 related_article4:
-    id: 169592
-    title: How does institutional racism affect healthcare access for ethnic minorities?
+    id: 169588
+    title: >-
+        What strategies can be employed to overcome biases in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
 related_article5:
-    id: 169586
-    title: How does the social model of disability promote patient-centered care?
+    id: 169589
+    title: >-
+        What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
+    url: /learn/nursing/questions/what-were-florence-nightingales-major-contributions-to-the-field-of-nursing-and-what-criticisms-has-she-faced
 ---
 
 &nbsp;

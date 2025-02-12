@@ -2,8 +2,10 @@
 _schema: default
 id: 163606
 date: 2025-01-27
-title: How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
-article_title: How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
+title: >-
+    How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
+article_title: >-
+    How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what
 url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
 score: 9.0
 related_article1:
-    id: 163586
-    title: What are some challenges in pronouncing Greek terms when using the Latin alphabet?
+    id: 163588
+    title: >-
+        What is the 'Spartan Mirage' and how did it originate according to French scholar Allier?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
+    url: /learn/history-of-the-world/questions/what-is-the-spartan-mirage-and-how-did-it-originate-according-to-french-scholar-allier
 related_article2:
-    id: 163594
-    title: What was the Agoge system, and what role did it play in Spartan education and training?
+    id: 163605
+    title: >-
+        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
+    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
 related_article3:
-    id: 163597
-    title: Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
+    id: 163598
+    title: >-
+        What was the significance of Spartan military training in Greek warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
 related_article4:
+    id: 163589
+    title: >-
+        How did non-Spartan authors contribute to the skewed perception of Sparta?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
+related_article5:
     id: 163587
-    title: Why are certain Greek terms left untranslated in English scholarship?
+    title: >-
+        Why are certain Greek terms left untranslated in English scholarship?
     subject: History of the World
     url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
-related_article5:
-    id: 163602
-    title: How did Spartan art and architecture influence Greek art?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160344
 date: 2025-01-24
-title: What factors influence academic performance, and how can students improve their study habits?
-article_title: What factors influence academic performance, and how can students improve their study habits?
+title: >-
+    What factors influence academic performance, and how can students improve their study habits?
+article_title: >-
+    What factors influence academic performance, and how can students improve their study habits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-academic-performance-and-how-can-students-impr
 url: /learn/education-studies/questions/what-factors-influence-academic-performance-and-how-can-students-improve-their-study-habits
 score: -1.0
 related_article1:
-    id: 160263
-    title: How can students prioritize tasks to improve their time management skills?
+    id: 160151
+    title: >-
+        What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-prioritize-tasks-to-improve-their-time-management-skills
+    url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
 related_article2:
     id: 160152
-    title: How can students apply their knowledge in real-world contexts to enhance their learning experience?
+    title: >-
+        How can students apply their knowledge in real-world contexts to enhance their learning experience?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-students-apply-their-knowledge-in-realworld-contexts-to-enhance-their-learning-experience
 related_article3:
-    id: 160144
-    title: What are the different learning styles, and how can students adapt their study techniques to suit their style?
+    id: 159978
+    title: >-
+        What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-learning-styles-and-how-can-students-adapt-their-study-techniques-to-suit-their-style
+    url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
 related_article4:
-    id: 160052
-    title: What are some effective techniques for making notes, and how do they help in organizing information?
+    id: 160148
+    title: >-
+        What should students consider when selecting courses to align with their career goals and balance their workload?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-making-notes-and-how-do-they-help-in-organizing-information
+    url: /learn/education-studies/questions/what-should-students-consider-when-selecting-courses-to-align-with-their-career-goals-and-balance-their-workload
 related_article5:
-    id: 159966
-    title: What techniques can be used to overcome presentation anxiety and engage the audience effectively?
+    id: 160263
+    title: >-
+        How can students prioritize tasks to improve their time management skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-overcome-presentation-anxiety-and-engage-the-audience-effectively
+    url: /learn/education-studies/questions/how-can-students-prioritize-tasks-to-improve-their-time-management-skills
 ---
 
 &nbsp;

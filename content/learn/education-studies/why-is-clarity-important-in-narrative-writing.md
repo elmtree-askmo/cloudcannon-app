@@ -2,8 +2,10 @@
 _schema: default
 id: 168614
 date: 2025-02-03
-title: Why is clarity important in narrative writing?
-article_title: Why is clarity important in narrative writing?
+title: >-
+    Why is clarity important in narrative writing?
+article_title: >-
+    Why is clarity important in narrative writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: why-is-clarity-important-in-narrative-writing.md
 url: /learn/education-studies/questions/why-is-clarity-important-in-narrative-writing
 score: -1.0
 related_article1:
+    id: 168624
+    title: >-
+        How does writing style influence audience engagement in narratives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-writing-style-influence-audience-engagement-in-narratives
+related_article2:
+    id: 168615
+    title: >-
+        What is the significance of emotional appeal in personal narratives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-emotional-appeal-in-personal-narratives
+related_article3:
     id: 168612
-    title: What role do sensory details play in narrative writing?
+    title: >-
+        What role do sensory details play in narrative writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-sensory-details-play-in-narrative-writing
-related_article2:
-    id: 168616
-    title: How does perspective influence a personal narrative?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-perspective-influence-a-personal-narrative
-related_article3:
-    id: 168613
-    title: How can the organization of a narrative affect its overall impact?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-organization-of-a-narrative-affect-its-overall-impact
 related_article4:
+    id: 168618
+    title: >-
+        How does objective language contribute to the effectiveness of narrative reports?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-objective-language-contribute-to-the-effectiveness-of-narrative-reports
+related_article5:
     id: 168612
-    title: What role do sensory details play in narrative writing?
+    title: >-
+        What role do sensory details play in narrative writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-sensory-details-play-in-narrative-writing
 ---

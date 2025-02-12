@@ -2,8 +2,10 @@
 _schema: default
 id: 168856
 date: 2025-02-04
-title: Explain the process of starch digestion and its importance as a source of glucose.
-article_title: Explain the process of starch digestion and its importance as a source of glucose.
+title: >-
+    Explain the process of starch digestion and its importance as a source of glucose.
+article_title: >-
+    Explain the process of starch digestion and its importance as a source of glucose.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-process-of-starch-digestion-and-its-importance-as-a-sourc
 url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
 score: -1.0
 related_article1:
+    id: 168844
+    title: >-
+        Identify the types of disaccharides and describe the role of glycosidic bonds in their formation and breakdown.
+    subject: Health Studies
+    url: /learn/health-studies/questions/identify-the-types-of-disaccharides-and-describe-the-role-of-glycosidic-bonds-in-their-formation-and-breakdown
+related_article2:
     id: 168842
-    title: What is hydrolysis and how does it contribute to the digestion process?
+    title: >-
+        What is hydrolysis and how does it contribute to the digestion process?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-process
-related_article2:
-    id: 168851
-    title: Outline the process of ATP production through cellular respiration and its role as an energy currency.
-    subject: Health Studies
-    url: /learn/health-studies/questions/outline-the-process-of-atp-production-through-cellular-respiration-and-its-role-as-an-energy-currency
 related_article3:
     id: 168852
-    title: How is glucose absorbed in the small intestine, and why is this process important for metabolism?
+    title: >-
+        How is glucose absorbed in the small intestine, and why is this process important for metabolism?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
 related_article4:
     id: 168852
-    title: How is glucose absorbed in the small intestine, and why is this process important for metabolism?
+    title: >-
+        How is glucose absorbed in the small intestine, and why is this process important for metabolism?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
 related_article5:
-    id: 168853
-    title: Define concentration gradient and explain its role in diffusion and cellular processes.
+    id: 168857
+    title: >-
+        What is the structure of the small intestine, and how does it facilitate nutrient absorption?
     subject: Health Studies
-    url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
+    url: /learn/health-studies/questions/what-is-the-structure-of-the-small-intestine-and-how-does-it-facilitate-nutrient-absorption
 ---
 
 &nbsp;

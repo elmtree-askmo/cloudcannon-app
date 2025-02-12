@@ -2,8 +2,10 @@
 _schema: default
 id: 161008
 date: 2025-01-24
-title: How does testing differ from proving solutions in problem-solving?
-article_title: How does testing differ from proving solutions in problem-solving?
+title: >-
+    How does testing differ from proving solutions in problem-solving?
+article_title: >-
+    How does testing differ from proving solutions in problem-solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-testing-differ-from-proving-solutions-in-problemsolving.md
 url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
 score: -1.0
 related_article1:
-    id: 160702
-    title: What is the importance of time complexity in evaluating algorithm efficiency?
+    id: 161010
+    title: >-
+        Describe the divide and conquer strategy in algorithm development.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-time-complexity-in-evaluating-algorithm-efficiency
+    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
 related_article2:
-    id: 160692
-    title: How does transitioning from a problem to a program aid in problem solving?
+    id: 161028
+    title: >-
+        How do indices convey information in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-solving
+    url: /learn/computer-science/questions/how-do-indices-convey-information-in-data-structures
 related_article3:
-    id: 160865
-    title: Explain the concept of lists and how they are implemented as arrays.
+    id: 160872
+    title: >-
+        Compare linear search with depth-first search in terms of their approach and use cases.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
+    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
 related_article4:
-    id: 160797
-    title: How do day of the week calculation algorithms utilize reference dates?
+    id: 160791
+    title: >-
+        What constraints must be considered for binary search to be effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
+    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
 related_article5:
-    id: 160867
-    title: Define time complexity and its importance in evaluating algorithm efficiency.
+    id: 160695
+    title: >-
+        Describe the divide and conquer strategy in algorithm development.
     subject: Computer Science
-    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
+    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
 ---
 
 &nbsp;

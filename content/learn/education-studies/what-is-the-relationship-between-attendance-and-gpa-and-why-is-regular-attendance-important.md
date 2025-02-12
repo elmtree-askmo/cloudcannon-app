@@ -2,8 +2,10 @@
 _schema: default
 id: 166903
 date: 2025-01-31
-title: What is the relationship between attendance and GPA, and why is regular attendance important?
-article_title: What is the relationship between attendance and GPA, and why is regular attendance important?
+title: >-
+    What is the relationship between attendance and GPA, and why is regular attendance important?
+article_title: >-
+    What is the relationship between attendance and GPA, and why is regular attendance important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-relationship-between-attendance-and-gpa-and-why-is-regula
 url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
 score: -1.0
 related_article1:
-    id: 166893
-    title: What is the scope of discipline-based educational research and why is it important in biology education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-scope-of-disciplinebased-educational-research-and-why-is-it-important-in-biology-education
-related_article2:
-    id: 166901
-    title: What are the principles of active learning and how do they engage students in meaningful activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
-related_article3:
-    id: 166901
-    title: What are the principles of active learning and how do they engage students in meaningful activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
-related_article4:
     id: 166894
-    title: How does cognitive load theory influence teaching strategies in cognitive science?
+    title: >-
+        How does cognitive load theory influence teaching strategies in cognitive science?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-cognitive-load-theory-influence-teaching-strategies-in-cognitive-science
+related_article2:
+    id: 166900
+    title: >-
+        How do Desire2Learn D2L features support course administration and content delivery?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-desire2learn-d2l-features-support-course-administration-and-content-delivery
+related_article3:
+    id: 166902
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
+related_article4:
+    id: 166904
+    title: >-
+        What strategies can be implemented to improve student attendance in lectures?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-implemented-to-improve-student-attendance-in-lectures
 related_article5:
     id: 166895
-    title: What are the key components of a graph and why are they important for data interpretation?
+    title: >-
+        What are the key components of a graph and why are they important for data interpretation?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-a-graph-and-why-are-they-important-for-data-interpretation
 ---

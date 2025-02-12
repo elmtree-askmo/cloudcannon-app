@@ -2,8 +2,10 @@
 _schema: default
 id: 161521
 date: 2025-01-24
-title: What types of sensors are commonly used in weather stations, and how is data collected and processed?
-article_title: What types of sensors are commonly used in weather stations, and how is data collected and processed?
+title: >-
+    What types of sensors are commonly used in weather stations, and how is data collected and processed?
+article_title: >-
+    What types of sensors are commonly used in weather stations, and how is data collected and processed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-types-of-sensors-are-commonly-used-in-weather-stations-and-how-i
 url: /learn/computer-science/questions/what-types-of-sensors-are-commonly-used-in-weather-stations-and-how-is-data-collected-and-processed
 score: -1.0
 related_article1:
-    id: 161520
-    title: Describe multi-point calibration and its advantages in various applications.
+    id: 161529
+    title: >-
+        Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
+    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
 related_article2:
-    id: 161347
-    title: What types of sensors are typically used in weather stations, and how is data collected and processed?
+    id: 161343
+    title: >-
+        How does two-point calibration differ from one-point calibration, and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-sensors-are-typically-used-in-weather-stations-and-how-is-data-collected-and-processed
+    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
 related_article3:
-    id: 161526
-    title: Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-sensors-and-actuators-used-in-burglar-alarm-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article4:
-    id: 161513
-    title: What are the main types of sensors used in monitoring technologies, and what are their primary functions?
+    id: 161530
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-what-are-their-primary-functions
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
+related_article5:
+    id: 161350
+    title: >-
+        Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
+    subject: Computer Science
+    url: /learn/computer-science/questions/identify-the-sensors-and-actuators-used-in-greenhouse-environment-control-and-explain-the-feedback-mechanism-involved
 ---
 
 &nbsp;

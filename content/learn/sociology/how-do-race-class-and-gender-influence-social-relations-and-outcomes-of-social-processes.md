@@ -2,8 +2,10 @@
 _schema: default
 id: 163669
 date: 2025-01-27
-title: How do race, class, and gender influence social relations and outcomes of social processes?
-article_title: How do race, class, and gender influence social relations and outcomes of social processes?
+title: >-
+    How do race, class, and gender influence social relations and outcomes of social processes?
+article_title: >-
+    How do race, class, and gender influence social relations and outcomes of social processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-race-class-and-gender-influence-social-relations-and-outcomes-
 url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 score: -1.0
 related_article1:
-    id: 163661
-    title: How do social inequalities manifest within social hierarchies?
+    id: 163667
+    title: >-
+        What are the ethical considerations related to power relations in research ethics?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
 related_article2:
     id: 163662
-    title: What role does critical criminology play in understanding the criminalization of Indigenous people?
+    title: >-
+        What role does critical criminology play in understanding the criminalization of Indigenous people?
     subject: Sociology
     url: /learn/sociology/questions/what-role-does-critical-criminology-play-in-understanding-the-criminalization-of-indigenous-people
 related_article3:
+    id: 163663
+    title: >-
+        How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+related_article4:
+    id: 163671
+    title: >-
+        What are the key components of a research strategy in methodology?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
+related_article5:
     id: 163665
-    title: How do epistemological claims influence knowledge production in research?
+    title: >-
+        How do epistemological claims influence knowledge production in research?
     subject: Sociology
     url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
-related_article4:
-    id: 163661
-    title: How do social inequalities manifest within social hierarchies?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
-related_article5:
-    id: 163664
-    title: What are the main goals of decolonial processes in the context of reconciliation and land ownership?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
 ---
 
 &nbsp;

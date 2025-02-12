@@ -2,8 +2,10 @@
 _schema: default
 id: 165853
 date: 2025-01-29
-title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
-article_title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+title: >-
+    Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+article_title: >-
+    Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-d
 url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
 score: -1.0
 related_article1:
-    id: 165854
-    title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 related_article2:
-    id: 165855
-    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 related_article3:
-    id: 165839
-    title: What molecular techniques are advancing research in parasitology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
-related_article4:
     id: 165845
-    title: What modern technological advancements are being applied in parasitology research?
+    title: >-
+        What modern technological advancements are being applied in parasitology research?
     subject: Psychology
     url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
+related_article4:
+    id: 165837
+    title: >-
+        What are some challenges associated with vector control in the spread of parasitic diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-challenges-associated-with-vector-control-in-the-spread-of-parasitic-diseases
 related_article5:
     id: 165839
-    title: What molecular techniques are advancing research in parasitology?
+    title: >-
+        What molecular techniques are advancing research in parasitology?
     subject: Psychology
     url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 ---

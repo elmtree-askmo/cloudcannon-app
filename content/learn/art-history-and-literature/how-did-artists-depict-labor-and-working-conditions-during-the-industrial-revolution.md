@@ -2,8 +2,10 @@
 _schema: default
 id: 168728
 date: 2025-02-04
-title: How did artists depict labor and working conditions during the Industrial Revolution?
-article_title: How did artists depict labor and working conditions during the Industrial Revolution?
+title: >-
+    How did artists depict labor and working conditions during the Industrial Revolution?
+article_title: >-
+    How did artists depict labor and working conditions during the Industrial Revolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-artists-depict-labor-and-working-conditions-during-the-indust
 url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
 score: 9.0
 related_article1:
-    id: 168718
-    title: How did photography influence the development of Realism in art?
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
 related_article2:
-    id: 168731
-    title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
-related_article3:
-    id: 168731
-    title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
-related_article4:
-    id: 168730
-    title: How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
-related_article5:
     id: 168732
-    title: How did socialist ideas influence art and the representation of the working class in the 19th century?
+    title: >-
+        How did socialist ideas influence art and the representation of the working class in the 19th century?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-socialist-ideas-influence-art-and-the-representation-of-the-working-class-in-the-19th-century
+related_article3:
+    id: 168721
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
+related_article4:
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
+related_article5:
+    id: 168721
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
 ---
 
 &nbsp;

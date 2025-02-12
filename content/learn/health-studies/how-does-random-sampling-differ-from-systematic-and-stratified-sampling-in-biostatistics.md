@@ -2,8 +2,10 @@
 _schema: default
 id: 162974
 date: 2025-01-26
-title: How does random sampling differ from systematic and stratified sampling in biostatistics?
-article_title: How does random sampling differ from systematic and stratified sampling in biostatistics?
+title: >-
+    How does random sampling differ from systematic and stratified sampling in biostatistics?
+article_title: >-
+    How does random sampling differ from systematic and stratified sampling in biostatistics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-random-sampling-differ-from-systematic-and-stratified-sampli
 url: /learn/health-studies/questions/how-does-random-sampling-differ-from-systematic-and-stratified-sampling-in-biostatistics
 score: -1.0
 related_article1:
-    id: 163012
-    title: Who are some key figures in the historical development of epidemiology, and what were their contributions?
+    id: 162959
+    title: >-
+        What are the main components of the PICO framework in clinical research?
     subject: Health Studies
-    url: /learn/health-studies/questions/who-are-some-key-figures-in-the-historical-development-of-epidemiology-and-what-were-their-contributions
+    url: /learn/health-studies/questions/what-are-the-main-components-of-the-pico-framework-in-clinical-research
 related_article2:
-    id: 163018
-    title: What are the key components of data interpretation in epidemiology?
+    id: 163014
+    title: >-
+        What role do political and economic factors play in environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
+    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 related_article3:
-    id: 162960
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    id: 162968
+    title: >-
+        What role do genetic makeup and lifestyle play in individual determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
+    url: /learn/health-studies/questions/what-role-do-genetic-makeup-and-lifestyle-play-in-individual-determinants-of-health
 related_article4:
-    id: 162969
-    title: How do political and economic factors serve as environmental and societal determinants of health?
+    id: 163014
+    title: >-
+        What role do political and economic factors play in environmental and societal determinants of health?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+    url: /learn/health-studies/questions/what-role-do-political-and-economic-factors-play-in-environmental-and-societal-determinants-of-health
 related_article5:
-    id: 162956
-    title: How have key figures and milestones influenced the historical development of epidemiology?
+    id: 162977
+    title: >-
+        What is the significance of confidence intervals in the estimation process of epidemiologic research?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
+    url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166158
 date: 2025-01-29
-title: Why is replication important in experimental design?
-article_title: Why is replication important in experimental design?
+title: >-
+    Why is replication important in experimental design?
+article_title: >-
+    Why is replication important in experimental design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-replication-important-in-experimental-design.md
 url: /learn/education-studies/questions/why-is-replication-important-in-experimental-design
 score: -1.0
 related_article1:
-    id: 166170
-    title: What are the impacts of climate change on ecosystems?
+    id: 166168
+    title: >-
+        What are the main types of research methodologies used in scientific inquiry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-impacts-of-climate-change-on-ecosystems
+    url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 related_article2:
     id: 166164
-    title: What are the key areas of study in environmental science?
+    title: >-
+        What are the key areas of study in environmental science?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
 related_article3:
-    id: 166163
-    title: How does long-term ecological research contribute to understanding climate change impacts?
+    id: 166153
+    title: >-
+        What is the purpose of the scientific method in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
+    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 related_article4:
-    id: 166157
-    title: What are the characteristics of a good hypothesis?
+    id: 166172
+    title: >-
+        What are the main threats to brook trout habitats?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
-related_article5:
-    id: 166157
-    title: What are the characteristics of a good hypothesis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-brook-trout-habitats
 ---
 
 &nbsp;

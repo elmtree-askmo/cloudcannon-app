@@ -2,8 +2,10 @@
 _schema: default
 id: 164581
 date: 2025-01-28
-title: What is the role of the Sonic Hedgehog protein in early embryonic development?
-article_title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+title: >-
+    What is the role of the Sonic Hedgehog protein in early embryonic development?
+article_title: >-
+    What is the role of the Sonic Hedgehog protein in early embryonic development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-dev
 url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
 score: -1.0
 related_article1:
-    id: 164579
-    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    id: 164570
+    title: >-
+        What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
 related_article2:
-    id: 164586
-    title: What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    id: 164584
+    title: >-
+        What are the main differences in brain structure and function between the two hemispheres?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
 related_article3:
     id: 164566
-    title: What is the role of the notochord in neural tube formation?
+    title: >-
+        What is the role of the notochord in neural tube formation?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
 related_article4:
-    id: 164578
-    title: What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    id: 164586
+    title: >-
+        What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
     subject: Psychology
-    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
 related_article5:
-    id: 164575
-    title: What are the genetic and environmental factors that influence the development of neural tube defects?
+    id: 164580
+    title: >-
+        What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
 ---
 
 &nbsp;

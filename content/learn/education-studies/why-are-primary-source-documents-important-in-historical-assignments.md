@@ -2,8 +2,10 @@
 _schema: default
 id: 170039
 date: 2025-02-05
-title: Why are primary source documents important in historical assignments?
-article_title: Why are primary source documents important in historical assignments?
+title: >-
+    Why are primary source documents important in historical assignments?
+article_title: >-
+    Why are primary source documents important in historical assignments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-primary-source-documents-important-in-historical-assignments.
 url: /learn/education-studies/questions/why-are-primary-source-documents-important-in-historical-assignments
 score: -1.0
 related_article1:
-    id: 170048
-    title: What factors influenced population density in pre-agricultural societies, and how did these change over time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
-related_article2:
-    id: 170033
-    title: What are the key components to consider when commenting on primary source documents in writing assignments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-commenting-on-primary-source-documents-in-writing-assignments
-related_article3:
     id: 170056
-    title: What methods and approaches are used in historical anthropology to study ancient societies?
+    title: >-
+        What methods and approaches are used in historical anthropology to study ancient societies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-methods-and-approaches-are-used-in-historical-anthropology-to-study-ancient-societies
+related_article2:
+    id: 170057
+    title: >-
+        How can lessons from ancient societies contribute to our modern understanding of cultural and societal evolution?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-lessons-from-ancient-societies-contribute-to-our-modern-understanding-of-cultural-and-societal-evolution
+related_article3:
+    id: 170040
+    title: >-
+        What is the difference between quoting and paraphrasing when engaging with primary source documents?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
 related_article4:
-    id: 170043
-    title: How did the role of women in food collection impact hunting and gathering societies?
+    id: 170056
+    title: >-
+        What methods and approaches are used in historical anthropology to study ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/what-methods-and-approaches-are-used-in-historical-anthropology-to-study-ancient-societies
 related_article5:
-    id: 170047
-    title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+    id: 170045
+    title: >-
+        How did gender roles and leadership manifest in Paleolithic societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/how-did-gender-roles-and-leadership-manifest-in-paleolithic-societies
 ---
 
 &nbsp;

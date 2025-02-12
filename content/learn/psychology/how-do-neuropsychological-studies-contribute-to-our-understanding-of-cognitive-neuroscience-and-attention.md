@@ -2,8 +2,10 @@
 _schema: default
 id: 164764
 date: 2025-01-28
-title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
-article_title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+title: >-
+    How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+article_title: >-
+    How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-neuropsychological-studies-contribute-to-our-understanding-of-
 url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
 score: -1.0
 related_article1:
-    id: 164749
-    title: How does attention allocation affect performance in divided attention tasks?
+    id: 164766
+    title: >-
+        How does TMS-induced disruption of the visual cortex affect attention and behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
 related_article2:
-    id: 164767
-    title: What are phosphenes, and how are they related to TMS studies of attention?
+    id: 164771
+    title: >-
+        What neuropsychological evidence exists for hemispheric neglect following right hemisphere damage?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
+    url: /learn/psychology/questions/what-neuropsychological-evidence-exists-for-hemispheric-neglect-following-right-hemisphere-damage
 related_article3:
-    id: 164768
-    title: How does salience detection contribute to attention allocation in the brain?
+    id: 164756
+    title: >-
+        What is the influence of endogenous cues on top-down attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
+    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
 related_article4:
-    id: 164769
-    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    id: 164765
+    title: >-
+        What patterns of brain activity are observed in fMRI studies of spatial attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
 related_article5:
-    id: 164755
-    title: How does the visual cortex contribute to bottom-up attention processes?
+    id: 164753
+    title: >-
+        How do reaction times relate to vigilance in attention tasks?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
 ---
 
 &nbsp;

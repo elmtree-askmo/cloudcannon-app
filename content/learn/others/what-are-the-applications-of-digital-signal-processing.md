@@ -2,8 +2,10 @@
 _schema: default
 id: 164175
 date: 2025-01-28
-title: What are the applications of digital signal processing?
-article_title: What are the applications of digital signal processing?
+title: >-
+    What are the applications of digital signal processing?
+article_title: >-
+    What are the applications of digital signal processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-applications-of-digital-signal-processing.md
 url: /learn/others/questions/what-are-the-applications-of-digital-signal-processing
 score: -1.0
 related_article1:
-    id: 164170
-    title: What is the purpose of ontologies in knowledge representation?
+    id: 164182
+    title: >-
+        What is the purpose of statistical measures in descriptive analysis?
     subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-ontologies-in-knowledge-representation
+    url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
 related_article2:
-    id: 164172
-    title: What are the main challenges associated with knowledge transfer?
+    id: 164184
+    title: >-
+        What are decision models used for in prescriptive analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-main-challenges-associated-with-knowledge-transfer
+    url: /learn/others/questions/what-are-decision-models-used-for-in-prescriptive-analysis
 related_article3:
-    id: 164178
-    title: Describe a common use case for clustering in unsupervised learning.
+    id: 164179
+    title: >-
+        What is the role of Markov Decision Processes in reinforcement learning?
     subject: Others
-    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
+    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
 related_article4:
-    id: 164157
-    title: What are the key considerations for ensuring data quality during data collection?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-considerations-for-ensuring-data-quality-during-data-collection
-related_article5:
     id: 164181
-    title: What are the ethical considerations in AI development?
+    title: >-
+        What are the ethical considerations in AI development?
     subject: Others
     url: /learn/others/questions/what-are-the-ethical-considerations-in-ai-development
+related_article5:
+    id: 164168
+    title: >-
+        How does the Internet of Things (IoT) impact emerging technologies?
+    subject: Others
+    url: /learn/others/questions/how-does-the-internet-of-things-iot-impact-emerging-technologies
 ---
 
 &nbsp;

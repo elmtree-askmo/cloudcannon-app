@@ -2,8 +2,10 @@
 _schema: default
 id: 161037
 date: 2025-01-24
-title: How does problem analysis contribute to effective computational problem solving?
-article_title: How does problem analysis contribute to effective computational problem solving?
+title: >-
+    How does problem analysis contribute to effective computational problem solving?
+article_title: >-
+    How does problem analysis contribute to effective computational problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-problem-analysis-contribute-to-effective-computational-probl
 url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-effective-computational-problem-solving
 score: -1.0
 related_article1:
-    id: 160724
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    id: 161035
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 related_article2:
-    id: 160711
-    title: What are the primary functions of database management systems?
+    id: 161035
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 related_article3:
-    id: 161052
-    title: How do heuristic algorithms differ from Euclid’s algorithm?
+    id: 160729
+    title: >-
+        How is machine learning applied in artificial intelligence?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
+    url: /learn/computer-science/questions/how-is-machine-learning-applied-in-artificial-intelligence
 related_article4:
     id: 161040
-    title: What are the essential elements of network architecture?
+    title: >-
+        What are the essential elements of network architecture?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
 related_article5:
-    id: 160719
-    title: How is image processing utilized in computer graphics?
+    id: 160987
+    title: >-
+        What are the principles of usability in user interface design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
+    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
 ---
 
 &nbsp;

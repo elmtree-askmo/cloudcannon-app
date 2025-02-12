@@ -2,8 +2,10 @@
 _schema: default
 id: 165632
 date: 2025-01-29
-title: How do media and polls influence public opinion during election campaigns?
-article_title: How do media and polls influence public opinion during election campaigns?
+title: >-
+    How do media and polls influence public opinion during election campaigns?
+article_title: >-
+    How do media and polls influence public opinion during election campaigns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-media-and-polls-influence-public-opinion-during-election-campa
 url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
 score: -1.0
 related_article1:
-    id: 165637
-    title: What lessons can be learned from past elections in terms of political strategy?
+    id: 165635
+    title: >-
+        How do economic and social policies interconnect in political dynamics?
     subject: Politics
-    url: /learn/politics/questions/what-lessons-can-be-learned-from-past-elections-in-terms-of-political-strategy
+    url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
 related_article2:
-    id: 165621
-    title: What is the role of minor parties in the House of Commons, and how do they influence major parties?
+    id: 165619
+    title: >-
+        What roles do Members of Parliament (MPs) play in rural versus urban areas in Canadian politics?
     subject: Politics
-    url: /learn/politics/questions/what-is-the-role-of-minor-parties-in-the-house-of-commons-and-how-do-they-influence-major-parties
+    url: /learn/politics/questions/what-roles-do-members-of-parliament-mps-play-in-rural-versus-urban-areas-in-canadian-politics
 related_article3:
-    id: 165618
-    title: How do multi-party systems compare to two-party systems in terms of representation and stability?
+    id: 165622
+    title: >-
+        How do economic and social issues influence voting behavior in Canada?
     subject: Politics
-    url: /learn/politics/questions/how-do-multiparty-systems-compare-to-twoparty-systems-in-terms-of-representation-and-stability
+    url: /learn/politics/questions/how-do-economic-and-social-issues-influence-voting-behavior-in-canada
 related_article4:
-    id: 165638
-    title: How have historical events influenced current political systems and party dynamics?
+    id: 165631
+    title: >-
+        What are the political calculations and risks involved in timing an election call?
     subject: Politics
-    url: /learn/politics/questions/how-have-historical-events-influenced-current-political-systems-and-party-dynamics
+    url: /learn/politics/questions/what-are-the-political-calculations-and-risks-involved-in-timing-an-election-call
 related_article5:
-    id: 165633
-    title: What measures can be taken to ensure fairness and public trust in electoral processes?
+    id: 165620
+    title: >-
+        How do leadership campaigns and strategies influence public perception of political leaders in Canada?
     subject: Politics
-    url: /learn/politics/questions/what-measures-can-be-taken-to-ensure-fairness-and-public-trust-in-electoral-processes
+    url: /learn/politics/questions/how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada
 ---
 
 &nbsp;

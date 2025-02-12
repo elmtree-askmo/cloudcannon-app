@@ -2,8 +2,10 @@
 _schema: default
 id: 167869
 date: 2025-02-01
-title: What is incomplete dominance and how does it differ from complete dominance?
-article_title: What is incomplete dominance and how does it differ from complete dominance?
+title: >-
+    What is incomplete dominance and how does it differ from complete dominance?
+article_title: >-
+    What is incomplete dominance and how does it differ from complete dominance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dom
 url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
 score: -1.0
 related_article1:
-    id: 167881
-    title: What are the characteristics of X-linked recessive disorders?
+    id: 167880
+    title: >-
+        Describe the difference between autosomal recessive and autosomal dominant disorders.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-characteristics-of-xlinked-recessive-disorders
+    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
 related_article2:
-    id: 167874
-    title: How do antigen variations contribute to blood type differences?
+    id: 167884
+    title: >-
+        What are the types and causes of genetic mutations?
     subject: Biology
-    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+    url: /learn/biology/questions/what-are-the-types-and-causes-of-genetic-mutations
 related_article3:
-    id: 167873
-    title: Define multiple alleles and give an example involving blood types.
+    id: 167872
+    title: >-
+        What is overdominance and how does it manifest in phenotypic outcomes?
     subject: Biology
-    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+    url: /learn/biology/questions/what-is-overdominance-and-how-does-it-manifest-in-phenotypic-outcomes
 related_article4:
-    id: 167887
-    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    id: 167875
+    title: >-
+        What is codominance and how does it differ from incomplete dominance?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
-related_article5:
-    id: 167879
-    title: What are the key symbols used in pedigree analysis and what do they represent?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
 ---
 
 &nbsp;

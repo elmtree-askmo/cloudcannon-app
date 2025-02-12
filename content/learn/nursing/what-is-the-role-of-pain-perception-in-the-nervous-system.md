@@ -2,8 +2,10 @@
 _schema: default
 id: 164802
 date: 2025-01-28
-title: What is the role of pain perception in the nervous system?
-article_title: What is the role of pain perception in the nervous system?
+title: >-
+    What is the role of pain perception in the nervous system?
+article_title: >-
+    What is the role of pain perception in the nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-pain-perception-in-the-nervous-system.md
 url: /learn/nursing/questions/what-is-the-role-of-pain-perception-in-the-nervous-system
 score: -1.0
 related_article1:
+    id: 164808
+    title: >-
+        What is the significance of neuroanatomical terminology in studying the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
+related_article2:
     id: 164803
-    title: How do motor neurons facilitate movement in the body?
+    title: >-
+        How do motor neurons facilitate movement in the body?
     subject: Nursing
     url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
-related_article2:
-    id: 164801
-    title: How do temperature neurons contribute to sensory information processing?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
 related_article3:
-    id: 164801
-    title: How do temperature neurons contribute to sensory information processing?
+    id: 164808
+    title: >-
+        What is the significance of neuroanatomical terminology in studying the nervous system?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
+    url: /learn/nursing/questions/what-is-the-significance-of-neuroanatomical-terminology-in-studying-the-nervous-system
 related_article4:
     id: 164810
-    title: What is the role of the dorsal and ventral parts of the spine in neural communication?
+    title: >-
+        What is the role of the dorsal and ventral parts of the spine in neural communication?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-role-of-the-dorsal-and-ventral-parts-of-the-spine-in-neural-communication
 related_article5:
-    id: 164800
-    title: Explain the significance of neuron connections in neural communication.
+    id: 164812
+    title: >-
+        What are the key factors that contribute to neuron connections in neuroplasticity?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-significance-of-neuron-connections-in-neural-communication
+    url: /learn/nursing/questions/what-are-the-key-factors-that-contribute-to-neuron-connections-in-neuroplasticity
 ---
 
 &nbsp;

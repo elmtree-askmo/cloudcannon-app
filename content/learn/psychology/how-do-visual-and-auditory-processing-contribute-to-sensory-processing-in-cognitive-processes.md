@@ -2,8 +2,10 @@
 _schema: default
 id: 164554
 date: 2025-01-28
-title: How do visual and auditory processing contribute to sensory processing in cognitive processes?
-article_title: How do visual and auditory processing contribute to sensory processing in cognitive processes?
+title: >-
+    How do visual and auditory processing contribute to sensory processing in cognitive processes?
+article_title: >-
+    How do visual and auditory processing contribute to sensory processing in cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-visual-and-auditory-processing-contribute-to-sensory-processin
 url: /learn/psychology/questions/how-do-visual-and-auditory-processing-contribute-to-sensory-processing-in-cognitive-processes
 score: -1.0
 related_article1:
-    id: 164557
-    title: What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+    id: 164562
+    title: >-
+        What are the key characteristics of automatic processes compared to controlled processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-automatic-processes-compared-to-controlled-processes
 related_article2:
-    id: 164547
-    title: What are the characteristics and causes of amnesia and environmental dependency syndrome?
+    id: 164565
+    title: >-
+        What role do arousal and vigilance play in attention and cognitive performance?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
+    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
 related_article3:
-    id: 164559
-    title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+    id: 164550
+    title: >-
+        What are the main components of executive function, and how do they contribute to cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 related_article4:
-    id: 164564
-    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    id: 164553
+    title: >-
+        What is the significance of competition and integration between neural networks in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
 related_article5:
-    id: 164564
-    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    id: 164561
+    title: >-
+        How do ADHD and attention networks interact in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
+    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
 ---
 
 &nbsp;

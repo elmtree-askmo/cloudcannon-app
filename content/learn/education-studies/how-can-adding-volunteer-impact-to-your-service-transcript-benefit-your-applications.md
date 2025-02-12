@@ -2,8 +2,10 @@
 _schema: default
 id: 170651
 date: 2025-02-06
-title: How can adding volunteer impact to your service transcript benefit your applications?
-article_title: How can adding volunteer impact to your service transcript benefit your applications?
+title: >-
+    How can adding volunteer impact to your service transcript benefit your applications?
+article_title: >-
+    How can adding volunteer impact to your service transcript benefit your applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-adding-volunteer-impact-to-your-service-transcript-benefit-yo
 url: /learn/education-studies/questions/how-can-adding-volunteer-impact-to-your-service-transcript-benefit-your-applications
 score: -1.0
 related_article1:
+    id: 170659
+    title: >-
+        How do process goals differ from outcome goals, and why is it important to align actions with them?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-process-goals-differ-from-outcome-goals-and-why-is-it-important-to-align-actions-with-them
+related_article2:
     id: 170668
-    title: What are some effective stress management techniques for balancing academic pressure?
+    title: >-
+        What are some effective stress management techniques for balancing academic pressure?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-effective-stress-management-techniques-for-balancing-academic-pressure
-related_article2:
-    id: 170662
-    title: How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
 related_article3:
-    id: 170654
-    title: How can participating in community events enhance personal connections?
+    id: 170649
+    title: >-
+        What are some effective ways to find volunteer events in your community?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participating-in-community-events-enhance-personal-connections
+    url: /learn/education-studies/questions/what-are-some-effective-ways-to-find-volunteer-events-in-your-community
 related_article4:
     id: 170665
-    title: What types of tutoring services are available for science and math students?
+    title: >-
+        What types of tutoring services are available for science and math students?
     subject: Education Studies
     url: /learn/education-studies/questions/what-types-of-tutoring-services-are-available-for-science-and-math-students
 related_article5:
-    id: 170662
-    title: How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
+    id: 170663
+    title: >-
+        Why are personal values important in decision making and career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
+    url: /learn/education-studies/questions/why-are-personal-values-important-in-decision-making-and-career-choices
 ---
 
 &nbsp;

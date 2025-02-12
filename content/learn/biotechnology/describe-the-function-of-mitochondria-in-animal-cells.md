@@ -2,8 +2,10 @@
 _schema: default
 id: 170312
 date: 2025-02-06
-title: Describe the function of mitochondria in animal cells.
-article_title: Describe the function of mitochondria in animal cells.
+title: >-
+    Describe the function of mitochondria in animal cells.
+article_title: >-
+    Describe the function of mitochondria in animal cells.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-function-of-mitochondria-in-animal-cells.md
 url: /learn/biotechnology/questions/describe-the-function-of-mitochondria-in-animal-cells
 score: -1.0
 related_article1:
-    id: 170311
-    title: What role does the nucleolus play within the nucleus of an animal cell?
+    id: 170320
+    title: >-
+        What are the main functional differences between photosynthesis and cellular respiration?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-role-does-the-nucleolus-play-within-the-nucleus-of-an-animal-cell
+    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
 related_article2:
-    id: 170315
-    title: What is the role of ribosomes in plant cells?
+    id: 170325
+    title: >-
+        What is the role of chlorophyll in photosynthesis?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+    url: /learn/biotechnology/questions/what-is-the-role-of-chlorophyll-in-photosynthesis
 related_article3:
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
+related_article4:
     id: 170316
-    title: Outline the main steps of glycolysis in cellular respiration.
+    title: >-
+        Outline the main steps of glycolysis in cellular respiration.
     subject: Biotechnology
     url: /learn/biotechnology/questions/outline-the-main-steps-of-glycolysis-in-cellular-respiration
-related_article4:
-    id: 170321
-    title: What structural characteristic distinguishes prokaryotic cells from eukaryotic cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-structural-characteristic-distinguishes-prokaryotic-cells-from-eukaryotic-cells
 related_article5:
-    id: 170313
-    title: What is the primary function of the cytoskeleton in animal cells?
+    id: 170324
+    title: >-
+        How does decomposition contribute to carbon release in the carbon cycle?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
+    url: /learn/biotechnology/questions/how-does-decomposition-contribute-to-carbon-release-in-the-carbon-cycle
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163905
 date: 2025-01-28
-title: How have Greek myths been preserved and evolved over time through storytelling traditions?
-article_title: How have Greek myths been preserved and evolved over time through storytelling traditions?
+title: >-
+    How have Greek myths been preserved and evolved over time through storytelling traditions?
+article_title: >-
+    How have Greek myths been preserved and evolved over time through storytelling traditions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-greek-myths-been-preserved-and-evolved-over-time-through-sto
 url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
 score: 9.0
 related_article1:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
-related_article2:
-    id: 163900
-    title: What are some common themes found in mythological narratives?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
-related_article3:
     id: 163901
-    title: How do character epithets function within Greek mythology, and why are they significant?
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
-related_article4:
+related_article2:
+    id: 163902
+    title: >-
+        Provide an example of a transformation myth and explain its role in Greek mythology.
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/provide-an-example-of-a-transformation-myth-and-explain-its-role-in-greek-mythology
+related_article3:
     id: 163899
-    title: Describe a literary technique commonly used in ancient Greek literature and its purpose.
+    title: >-
+        Describe a literary technique commonly used in ancient Greek literature and its purpose.
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/describe-a-literary-technique-commonly-used-in-ancient-greek-literature-and-its-purpose
-related_article5:
-    id: 163888
-    title: Who are the major Olympian deities in Greek mythology, and what are their primary domains?
+related_article4:
+    id: 163892
+    title: >-
+        What are the key structural elements of the Homeric Hymns?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
+    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
+related_article5:
+    id: 163898
+    title: >-
+        What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
 ---
 
 &nbsp;

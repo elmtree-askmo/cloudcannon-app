@@ -2,8 +2,10 @@
 _schema: default
 id: 168101
 date: 2025-02-02
-title: What is object permanence, and why is it important in cognitive development?
-article_title: What is object permanence, and why is it important in cognitive development?
+title: >-
+    What is object permanence, and why is it important in cognitive development?
+article_title: >-
+    What is object permanence, and why is it important in cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-object-permanence-and-why-is-it-important-in-cognitive-develo
 url: /learn/psychology/questions/what-is-object-permanence-and-why-is-it-important-in-cognitive-development
 score: -1.0
 related_article1:
-    id: 168098
-    title: Explain the coordination of secondary circular reactions and provide an example.
+    id: 168095
+    title: >-
+        Provide an example of a primary circular reaction.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+    url: /learn/psychology/questions/provide-an-example-of-a-primary-circular-reaction
 related_article2:
-    id: 168097
-    title: At what age do secondary circular reactions typically develop?
+    id: 168094
+    title: >-
+        What are primary circular reactions, and at what age do they typically occur?
     subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
 related_article3:
-    id: 168099
-    title: What is the significance of tertiary circular reactions in cognitive development?
+    id: 168107
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-tertiary-circular-reactions-in-cognitive-development
+    url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
 related_article4:
-    id: 168097
-    title: At what age do secondary circular reactions typically develop?
+    id: 168104
+    title: >-
+        What is make-believe play, and why is it important for cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+    url: /learn/psychology/questions/what-is-makebelieve-play-and-why-is-it-important-for-cognitive-development
 related_article5:
     id: 168108
-    title: What are mental representations, and how do they aid in problem-solving?
+    title: >-
+        What are mental representations, and how do they aid in problem-solving?
     subject: Psychology
     url: /learn/psychology/questions/what-are-mental-representations-and-how-do-they-aid-in-problemsolving
 ---

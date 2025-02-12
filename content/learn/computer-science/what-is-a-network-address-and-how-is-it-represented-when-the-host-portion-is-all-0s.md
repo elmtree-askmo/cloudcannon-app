@@ -2,8 +2,10 @@
 _schema: default
 id: 165712
 date: 2025-01-29
-title: What is a network address and how is it represented when the host portion is all 0s?
-article_title: What is a network address and how is it represented when the host portion is all 0s?
+title: >-
+    What is a network address and how is it represented when the host portion is all 0s?
+article_title: >-
+    What is a network address and how is it represented when the host portion is all 0s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-network-address-and-how-is-it-represented-when-the-host-por
 url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
 score: -1.0
 related_article1:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
+    id: 165716
+    title: >-
+        Define broadcast addressing and provide an example scenario where it is used.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
+    url: /learn/computer-science/questions/define-broadcast-addressing-and-provide-an-example-scenario-where-it-is-used
 related_article2:
-    id: 165714
-    title: Describe the representation of a broadcast address when the host portion is all 1s.
+    id: 165721
+    title: >-
+        What is the role of the network portion in hierarchical IP addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-representation-of-a-broadcast-address-when-the-host-portion-is-all-1s
+    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
 related_article3:
-    id: 165718
-    title: What are the configuration steps for static IP address assignment?
+    id: 165709
+    title: >-
+        How does a subnet mask help in identifying the network and host portions of an IPv4 address?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
+    url: /learn/computer-science/questions/how-does-a-subnet-mask-help-in-identifying-the-network-and-host-portions-of-an-ipv4-address
 related_article4:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
+    id: 165711
+    title: >-
+        Explain the concept of a subnet prefix and its notation in dotted decimal format.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
+    url: /learn/computer-science/questions/explain-the-concept-of-a-subnet-prefix-and-its-notation-in-dotted-decimal-format
 related_article5:
-    id: 165706
-    title: How do you convert a binary number to a decimal number? Provide an example.
+    id: 165720
+    title: >-
+        How does hierarchical IP addressing facilitate subnetwork division?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-convert-a-binary-number-to-a-decimal-number-provide-an-example
+    url: /learn/computer-science/questions/how-does-hierarchical-ip-addressing-facilitate-subnetwork-division
 ---
 
 &nbsp;

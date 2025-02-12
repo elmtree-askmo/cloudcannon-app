@@ -2,8 +2,10 @@
 _schema: default
 id: 167600
 date: 2025-01-31
-title: What evidence supports the theory of evolution?
-article_title: What evidence supports the theory of evolution?
+title: >-
+    What evidence supports the theory of evolution?
+article_title: >-
+    What evidence supports the theory of evolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-evidence-supports-the-theory-of-evolution.md
 url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
 score: -1.0
 related_article1:
-    id: 167593
-    title: How do eukaryotic cells differ from prokaryotic cells?
+    id: 167592
+    title: >-
+        What are the main characteristics of prokaryotic cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-eukaryotic-cells-differ-from-prokaryotic-cells
+    url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
 related_article2:
-    id: 167591
-    title: Why is homeostasis important for living organisms?
+    id: 167583
+    title: >-
+        How do organisms adapt and evolve in response to their environment?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
 related_article3:
-    id: 167597
-    title: What is the structure and function of the nucleus in eukaryotic cells?
+    id: 167583
+    title: >-
+        How do organisms adapt and evolve in response to their environment?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
 related_article4:
-    id: 167595
-    title: What are the primary sources of biological energy?
+    id: 167585
+    title: >-
+        How is data analyzed and interpreted in scientific research?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
+    url: /learn/biotechnology/questions/how-is-data-analyzed-and-interpreted-in-scientific-research
 related_article5:
-    id: 167597
-    title: What is the structure and function of the nucleus in eukaryotic cells?
+    id: 167598
+    title: >-
+        What are some branches of biology and their significance?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161556
 date: 2025-01-24
-title: What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
-article_title: What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+title: >-
+    What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+article_title: >-
+    What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-redundant-components-play-in-ras-reliability-availabilit
 url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
 score: -1.0
 related_article1:
-    id: 161541
-    title: How does memory bandwidth affect the performance of supercomputers?
+    id: 161560
+    title: >-
+        What are the primary functions of IBM's z/OS operating system for mainframes?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-memory-bandwidth-affect-the-performance-of-supercomputers
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
 related_article2:
+    id: 161301
+    title: >-
+        What is the role of device drivers in system software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+related_article3:
     id: 161319
-    title: How do compilers differ from interpreters in the context of translators?
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
-related_article3:
-    id: 161566
-    title: What are the main characteristics of open source software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article4:
-    id: 161567
-    title: How does licensing differ between open source and proprietary software?
+    id: 161300
+    title: >-
+        What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/what-cooling-techniques-are-commonly-used-to-maintain-optimal-temperatures-in-computing-systems
 related_article5:
-    id: 161549
-    title: What is the difference between lossless and lossy data compression?
+    id: 161536
+    title: >-
+        What role do redundant components play in enhancing the reliability of a computing system?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-enhancing-the-reliability-of-a-computing-system
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161997
 date: 2025-01-24
-title: What is the legal framework governing search and seizure?
-article_title: What is the legal framework governing search and seizure?
+title: >-
+    What is the legal framework governing search and seizure?
+article_title: >-
+    What is the legal framework governing search and seizure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-legal-framework-governing-search-and-seizure.md
 url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
 score: -1.0
 related_article1:
+    id: 161995
+    title: >-
+        What are the legal requirements for obtaining an arrest warrant?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-obtaining-an-arrest-warrant
+related_article2:
     id: 161999
-    title: Define investigative detention and its legal standards.
+    title: >-
+        Define investigative detention and its legal standards.
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
-related_article2:
-    id: 162012
-    title: What are the legal standards for a search incident to arrest?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
 related_article3:
-    id: 162011
-    title: Explain the police authority as defined in the Criminal Code.
+    id: 162006
+    title: >-
+        Discuss the privacy considerations involved in DNA collection.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
+    url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
 related_article4:
-    id: 162007
-    title: Define reasonable grounds and its importance in legal standards.
+    id: 162005
+    title: >-
+        What are the legal requirements for issuing production orders?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-reasonable-grounds-and-its-importance-in-legal-standards
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-issuing-production-orders
 related_article5:
-    id: 162000
-    title: Discuss the application of common law in modern investigative detention.
+    id: 162002
+    title: >-
+        Outline the judicial process for obtaining information to obtain.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
+    url: /learn/criminal-or-civil-law/questions/outline-the-judicial-process-for-obtaining-information-to-obtain
 ---
 
 &nbsp;

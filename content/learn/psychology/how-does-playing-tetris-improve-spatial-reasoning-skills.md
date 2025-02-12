@@ -2,8 +2,10 @@
 _schema: default
 id: 165227
 date: 2025-01-28
-title: How does playing Tetris improve spatial reasoning skills?
-article_title: How does playing Tetris improve spatial reasoning skills?
+title: >-
+    How does playing Tetris improve spatial reasoning skills?
+article_title: >-
+    How does playing Tetris improve spatial reasoning skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-playing-tetris-improve-spatial-reasoning-skills.md
 url: /learn/psychology/questions/how-does-playing-tetris-improve-spatial-reasoning-skills
 score: -1.0
 related_article1:
-    id: 165231
-    title: How is spatial reasoning applied in real-world tasks like parking and packing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
-related_article2:
-    id: 165231
-    title: How is spatial reasoning applied in real-world tasks like parking and packing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
-related_article3:
-    id: 165240
-    title: How do perceptual afterimages affect visual perception and cognitive processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
-related_article4:
-    id: 165228
-    title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
-related_article5:
     id: 165244
-    title: What are the key steps in designing a cognitive experiment?
+    title: >-
+        What are the key steps in designing a cognitive experiment?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
+related_article2:
+    id: 165242
+    title: >-
+        How is visual perception studied through task design and data collection?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-visual-perception-studied-through-task-design-and-data-collection
+related_article3:
+    id: 165241
+    title: >-
+        What factors influence the complexity levels in cognitive task design?
+    subject: Psychology
+    url: /learn/psychology/questions/what-factors-influence-the-complexity-levels-in-cognitive-task-design
+related_article4:
+    id: 165244
+    title: >-
+        What are the key steps in designing a cognitive experiment?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
+related_article5:
+    id: 165231
+    title: >-
+        How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
 ---
 
 &nbsp;

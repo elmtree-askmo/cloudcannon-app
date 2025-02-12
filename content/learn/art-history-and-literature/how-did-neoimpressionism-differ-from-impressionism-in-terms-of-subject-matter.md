@@ -2,8 +2,10 @@
 _schema: default
 id: 170264
 date: 2025-02-06
-title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
-article_title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+title: >-
+    How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+article_title: >-
+    How did Neo-Impressionism differ from Impressionism in terms of subject matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subjec
 url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subject-matter
 score: 9.0
 related_article1:
-    id: 170263
-    title: In what ways did Neo-Impressionist artists use geometric composition in their works?
+    id: 170268
+    title: >-
+        How did political symbolism manifest in Neo-Impressionist artworks?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-neoimpressionist-artists-use-geometric-composition-in-their-works
+    url: /learn/art-history-and-literature/questions/how-did-political-symbolism-manifest-in-neoimpressionist-artworks
 related_article2:
     id: 170266
-    title: How did Neo-Impressionism influence modern art movements?
+    title: >-
+        How did Neo-Impressionism influence modern art movements?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-influence-modern-art-movements
 related_article3:
-    id: 170261
-    title: What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    id: 170266
+    title: >-
+        How did Neo-Impressionism influence modern art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
+    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-influence-modern-art-movements
 related_article4:
-    id: 170273
-    title: What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
+    id: 170263
+    title: >-
+        In what ways did Neo-Impressionist artists use geometric composition in their works?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-neoimpressionist-artists-use-geometric-composition-in-their-works
 related_article5:
-    id: 170259
-    title: What were the key factors that led to the emergence of Neo-Impressionism in Paris?
+    id: 170263
+    title: >-
+        In what ways did Neo-Impressionist artists use geometric composition in their works?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-factors-that-led-to-the-emergence-of-neoimpressionism-in-paris
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-neoimpressionist-artists-use-geometric-composition-in-their-works
 ---
 
 &nbsp;

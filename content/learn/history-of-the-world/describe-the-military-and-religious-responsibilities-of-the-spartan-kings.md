@@ -2,8 +2,10 @@
 _schema: default
 id: 163583
 date: 2025-01-27
-title: Describe the military and religious responsibilities of the Spartan kings.
-article_title: Describe the military and religious responsibilities of the Spartan kings.
+title: >-
+    Describe the military and religious responsibilities of the Spartan kings.
+article_title: >-
+    Describe the military and religious responsibilities of the Spartan kings.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-military-and-religious-responsibilities-of-the-spartan-k
 url: /learn/history-of-the-world/questions/describe-the-military-and-religious-responsibilities-of-the-spartan-kings
 score: 8.5
 related_article1:
-    id: 163585
-    title: How did the Gerousia and Apella function within the Spartan political system?
+    id: 163577
+    title: >-
+        How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
+    url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
 related_article2:
-    id: 163571
-    title: How did the regions of Laconia and Messenia contribute to Sparta's development as a Greek polis?
+    id: 163578
+    title: >-
+        What archaeological evidence supports our understanding of Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-regions-of-laconia-and-messenia-contribute-to-spartas-development-as-a-greek-polis
+    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
 related_article3:
     id: 163570
-    title: What was the significance of the Lycurgan Constitution in shaping Spartan society?
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 related_article4:
-    id: 163584
-    title: What was the role of the ephors in Spartan government, and how were they elected?
+    id: 163570
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 related_article5:
-    id: 163578
-    title: What archaeological evidence supports our understanding of Spartan society?
+    id: 163585
+    title: >-
+        How did the Gerousia and Apella function within the Spartan political system?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
+    url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
 ---
 
 &nbsp;

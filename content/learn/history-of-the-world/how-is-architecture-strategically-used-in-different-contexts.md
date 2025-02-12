@@ -2,8 +2,10 @@
 _schema: default
 id: 169007
 date: 2025-02-04
-title: How is architecture strategically used in different contexts?
-article_title: How is architecture strategically used in different contexts?
+title: >-
+    How is architecture strategically used in different contexts?
+article_title: >-
+    How is architecture strategically used in different contexts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-architecture-strategically-used-in-different-contexts.md
 url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
 score: 9.0
 related_article1:
-    id: 169006
-    title: What are gendered spaces in architecture, and why are they significant?
+    id: 169023
+    title: >-
+        What are the gendered and anti-revolutionary filters present in media representations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
+    url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
 related_article2:
-    id: 169011
-    title: What are feminized spaces, and how do they relate to identity strategies?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
-related_article3:
-    id: 169005
-    title: How can cross-reading architecture and history provide new insights?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
-related_article4:
     id: 169014
-    title: How have media and public perception shaped cultural representations of revolution?
+    title: >-
+        How have media and public perception shaped cultural representations of revolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-have-media-and-public-perception-shaped-cultural-representations-of-revolution
-related_article5:
-    id: 169021
-    title: What role do cultural understandings play in architectural spaces?
+related_article3:
+    id: 169013
+    title: >-
+        What strategies and tactics were employed during the Mexican Revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-cultural-understandings-play-in-architectural-spaces
+    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
+related_article4:
+    id: 169013
+    title: >-
+        What strategies and tactics were employed during the Mexican Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
+related_article5:
+    id: 169018
+    title: >-
+        What contributions did Carmen Serdan make to the revolutionary movement?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-carmen-serdan-make-to-the-revolutionary-movement
 ---
 
 &nbsp;

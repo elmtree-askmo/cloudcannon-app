@@ -2,8 +2,10 @@
 _schema: default
 id: 165152
 date: 2025-01-28
-title: What are the key features and capabilities of SciToolkit?
-article_title: What are the key features and capabilities of SciToolkit?
+title: >-
+    What are the key features and capabilities of SciToolkit?
+article_title: >-
+    What are the key features and capabilities of SciToolkit?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-features-and-capabilities-of-scitoolkit.md
 url: /learn/education-studies/questions/what-are-the-key-features-and-capabilities-of-scitoolkit
 score: -1.0
 related_article1:
-    id: 165156
-    title: What is the difference between correlation and causation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
-related_article2:
     id: 165161
-    title: What are the basic coding functions available in SciToolkit for creating experiments?
+    title: >-
+        What are the basic coding functions available in SciToolkit for creating experiments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-basic-coding-functions-available-in-scitoolkit-for-creating-experiments
+related_article2:
+    id: 165163
+    title: >-
+        What are the different types of survey questions that can be designed for data collection?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-survey-questions-that-can-be-designed-for-data-collection
 related_article3:
-    id: 165156
-    title: What is the difference between correlation and causation?
+    id: 165161
+    title: >-
+        What are the basic coding functions available in SciToolkit for creating experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
+    url: /learn/education-studies/questions/what-are-the-basic-coding-functions-available-in-scitoolkit-for-creating-experiments
 related_article4:
-    id: 165156
-    title: What is the difference between correlation and causation?
+    id: 165161
+    title: >-
+        What are the basic coding functions available in SciToolkit for creating experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
+    url: /learn/education-studies/questions/what-are-the-basic-coding-functions-available-in-scitoolkit-for-creating-experiments
 related_article5:
-    id: 165166
-    title: How can alternative explanations be explored when analyzing causal claims?
+    id: 165157
+    title: >-
+        Provide an example of how correlation can be misinterpreted as causation.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-alternative-explanations-be-explored-when-analyzing-causal-claims
+    url: /learn/education-studies/questions/provide-an-example-of-how-correlation-can-be-misinterpreted-as-causation
 ---
 
 &nbsp;

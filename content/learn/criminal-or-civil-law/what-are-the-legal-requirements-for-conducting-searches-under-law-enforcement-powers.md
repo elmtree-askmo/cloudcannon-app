@@ -2,8 +2,10 @@
 _schema: default
 id: 162010
 date: 2025-01-24
-title: What are the legal requirements for conducting searches under law enforcement powers?
-article_title: What are the legal requirements for conducting searches under law enforcement powers?
+title: >-
+    What are the legal requirements for conducting searches under law enforcement powers?
+article_title: >-
+    What are the legal requirements for conducting searches under law enforcement powers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-legal-requirements-for-conducting-searches-under-law-enf
 url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
 score: -1.0
 related_article1:
-    id: 161997
-    title: What is the legal framework governing search and seizure?
+    id: 162000
+    title: >-
+        Discuss the application of common law in modern investigative detention.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
 related_article2:
-    id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    id: 162008
+    title: >-
+        What are Charter remedies and how do they apply in court interpretations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
 related_article3:
     id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    title: >-
+        How does the Charter protect privacy rights during search and seizure?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
 related_article4:
-    id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    id: 161995
+    title: >-
+        What are the legal requirements for obtaining an arrest warrant?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-obtaining-an-arrest-warrant
 related_article5:
-    id: 162009
-    title: Describe the legal standards for evidence collection by law enforcement.
+    id: 162012
+    title: >-
+        What are the legal standards for a search incident to arrest?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
 ---
 
 &nbsp;

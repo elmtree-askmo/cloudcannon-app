@@ -2,8 +2,10 @@
 _schema: default
 id: 169584
 date: 2025-02-05
-title: How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
-article_title: How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+title: >-
+    How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
+article_title: >-
+    How have societal attitudes towards aging influenced the historical value of elderly individuals in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-societal-attitudes-towards-aging-influenced-the-historical-v
 url: /learn/nursing/questions/how-have-societal-attitudes-towards-aging-influenced-the-historical-value-of-elderly-individuals-in-healthcare
 score: -1.0
 related_article1:
-    id: 169596
-    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    id: 169598
+    title: >-
+        How can language barriers affect patient care, and what strategies can be implemented to overcome them?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 related_article2:
-    id: 169583
-    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    id: 169590
+    title: >-
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article3:
-    id: 169600
-    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    id: 169590
+    title: >-
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
 related_article4:
-    id: 169600
-    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    id: 169593
+    title: >-
+        What is the 'Snowy White Peak' phenomenon, and how does it relate to leadership representation in healthcare professions?
     subject: Nursing
-    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
+    url: /learn/nursing/questions/what-is-the-snowy-white-peak-phenomenon-and-how-does-it-relate-to-leadership-representation-in-healthcare-professions
 related_article5:
-    id: 169599
-    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    id: 169589
+    title: >-
+        What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+    url: /learn/nursing/questions/what-were-florence-nightingales-major-contributions-to-the-field-of-nursing-and-what-criticisms-has-she-faced
 ---
 
 &nbsp;

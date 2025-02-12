@@ -2,8 +2,10 @@
 _schema: default
 id: 167329
 date: 2025-01-31
-title: Explain the concept of complementary base pairing and its importance in DNA stability.
-article_title: Explain the concept of complementary base pairing and its importance in DNA stability.
+title: >-
+    Explain the concept of complementary base pairing and its importance in DNA stability.
+article_title: >-
+    Explain the concept of complementary base pairing and its importance in DNA stability.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-complementary-base-pairing-and-its-importance-
 url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
 score: -1.0
 related_article1:
-    id: 167326
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    id: 167328
+    title: >-
+        What is the role of hydrogen bonding in the secondary structure of DNA?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+    url: /learn/biology/questions/what-is-the-role-of-hydrogen-bonding-in-the-secondary-structure-of-dna
 related_article2:
-    id: 167325
-    title: How does a dehydration reaction contribute to the formation of nucleic acids?
+    id: 167340
+    title: >-
+        How do lipids contribute to membrane structure and function?
     subject: Biology
-    url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
+    url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
 related_article3:
-    id: 167333
-    title: What is the structural difference between saturated and unsaturated fatty acids?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-structural-difference-between-saturated-and-unsaturated-fatty-acids
-related_article4:
     id: 167331
-    title: How do the nitrogenous bases differ between DNA and RNA?
+    title: >-
+        How do the nitrogenous bases differ between DNA and RNA?
     subject: Biology
     url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
-related_article5:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
+related_article4:
+    id: 167336
+    title: >-
+        Explain the amphipathic nature of phospholipids and its significance.
     subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
+related_article5:
+    id: 167338
+    title: >-
+        How do polymers form from monomers in biological molecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-polymers-form-from-monomers-in-biological-molecules
 ---
 
 &nbsp;

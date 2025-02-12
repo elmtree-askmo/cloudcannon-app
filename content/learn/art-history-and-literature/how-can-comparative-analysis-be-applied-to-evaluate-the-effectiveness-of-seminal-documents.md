@@ -2,8 +2,10 @@
 _schema: default
 id: 168586
 date: 2025-02-03
-title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
-article_title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+title: >-
+    How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+article_title: >-
+    How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness
 url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
 score: 9.0
 related_article1:
-    id: 168571
-    title: What are the legal and social perspectives of justice as depicted in seminal texts?
+    id: 168574
+    title: >-
+        How do allusions in historical texts enhance meaning and context?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
+    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
 related_article2:
-    id: 168572
-    title: How does word choice in seminal documents affect tone and meaning?
+    id: 168580
+    title: >-
+        How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
+    url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
 related_article3:
-    id: 168569
-    title: In what ways is the theme of freedom represented in seminal documents?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-the-theme-of-freedom-represented-in-seminal-documents
-related_article4:
     id: 168576
-    title: How do emotional appeals (pathos) impact the effectiveness of seminal documents?
+    title: >-
+        How do emotional appeals (pathos) impact the effectiveness of seminal documents?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
+related_article4:
+    id: 168583
+    title: >-
+        What are the historical foundations of freedom, equality, and justice as reflected in seminal documents?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-historical-foundations-of-freedom-equality-and-justice-as-reflected-in-seminal-documents
+related_article5:
+    id: 168566
+    title: >-
+        How have seminal documents influenced American culture?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
 ---
 
 &nbsp;

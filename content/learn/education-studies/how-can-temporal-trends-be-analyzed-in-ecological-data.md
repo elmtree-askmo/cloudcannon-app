@@ -2,8 +2,10 @@
 _schema: default
 id: 160447
 date: 2025-01-24
-title: How can temporal trends be analyzed in ecological data?
-article_title: How can temporal trends be analyzed in ecological data?
+title: >-
+    How can temporal trends be analyzed in ecological data?
+article_title: >-
+    How can temporal trends be analyzed in ecological data?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-temporal-trends-be-analyzed-in-ecological-data.md
 url: /learn/education-studies/questions/how-can-temporal-trends-be-analyzed-in-ecological-data
 score: -1.0
 related_article1:
-    id: 160440
-    title: How does high net primary productivity influence biodiversity in an ecosystem?
+    id: 160446
+    title: >-
+        What are the primary sources and methods for collecting spatial and temporal data in ecology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-high-net-primary-productivity-influence-biodiversity-in-an-ecosystem
+    url: /learn/education-studies/questions/what-are-the-primary-sources-and-methods-for-collecting-spatial-and-temporal-data-in-ecology
 related_article2:
-    id: 160440
-    title: How does high net primary productivity influence biodiversity in an ecosystem?
+    id: 160452
+    title: >-
+        What statistical models are commonly used for interpreting environmental data in ecology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-high-net-primary-productivity-influence-biodiversity-in-an-ecosystem
+    url: /learn/education-studies/questions/what-statistical-models-are-commonly-used-for-interpreting-environmental-data-in-ecology
 related_article3:
-    id: 160438
-    title: How does the width of the energy base impact the trophic levels in an ecosystem?
+    id: 160452
+    title: >-
+        What statistical models are commonly used for interpreting environmental data in ecology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
+    url: /learn/education-studies/questions/what-statistical-models-are-commonly-used-for-interpreting-environmental-data-in-ecology
 related_article4:
-    id: 160445
-    title: How can the natural logarithm be applied in Excel for ecological data analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-natural-logarithm-be-applied-in-excel-for-ecological-data-analysis
-related_article5:
     id: 160438
-    title: How does the width of the energy base impact the trophic levels in an ecosystem?
+    title: >-
+        How does the width of the energy base impact the trophic levels in an ecosystem?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
+related_article5:
+    id: 160448
+    title: >-
+        What are the key considerations when interpreting spatial patterns in ecological data?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-considerations-when-interpreting-spatial-patterns-in-ecological-data
 ---
 
 &nbsp;

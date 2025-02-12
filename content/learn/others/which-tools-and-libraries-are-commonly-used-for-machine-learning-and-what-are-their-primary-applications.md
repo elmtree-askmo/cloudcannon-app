@@ -2,8 +2,10 @@
 _schema: default
 id: 162356
 date: 2025-01-25
-title: Which tools and libraries are commonly used for machine learning, and what are their primary applications?
-article_title: Which tools and libraries are commonly used for machine learning, and what are their primary applications?
+title: >-
+    Which tools and libraries are commonly used for machine learning, and what are their primary applications?
+article_title: >-
+    Which tools and libraries are commonly used for machine learning, and what are their primary applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: which-tools-and-libraries-are-commonly-used-for-machine-learning-and-
 url: /learn/others/questions/which-tools-and-libraries-are-commonly-used-for-machine-learning-and-what-are-their-primary-applications
 score: -1.0
 related_article1:
-    id: 162655
-    title: How do Tableau, Power BI, and D3.js differ in their data visualization capabilities?
+    id: 162776
+    title: >-
+        What is the role of hypothesis testing in inferential statistics?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-data-visualization-capabilities
+    url: /learn/others/questions/what-is-the-role-of-hypothesis-testing-in-inferential-statistics
 related_article2:
-    id: 162786
-    title: How do LAN and WAN differ in terms of network architecture?
+    id: 162733
+    title: >-
+        What are the main components of the Internet of Things, and what challenges do they present?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
+    url: /learn/others/questions/what-are-the-main-components-of-the-internet-of-things-and-what-challenges-do-they-present
 related_article3:
-    id: 162829
-    title: How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
+    id: 162732
+    title: >-
+        What are the benefits of continuous integration and continuous deployment in DevOps practices?
     subject: Others
-    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-differ-in-their-applications-for-machine-learning
+    url: /learn/others/questions/what-are-the-benefits-of-continuous-integration-and-continuous-deployment-in-devops-practices
 related_article4:
-    id: 162648
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+    id: 162736
+    title: >-
+        How is augmented reality used in retail, and what challenges does it face in user adoption?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+    url: /learn/others/questions/how-is-augmented-reality-used-in-retail-and-what-challenges-does-it-face-in-user-adoption
 related_article5:
-    id: 162786
-    title: How do LAN and WAN differ in terms of network architecture?
+    id: 162849
+    title: >-
+        How do Scrum and Kanban frameworks differ in Agile methodologies?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
+    url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
 ---
 
 &nbsp;

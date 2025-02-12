@@ -2,8 +2,10 @@
 _schema: default
 id: 168601
 date: 2025-02-03
-title: How can you access a function's docstring in Python?
-article_title: How can you access a function's docstring in Python?
+title: >-
+    How can you access a function's docstring in Python?
+article_title: >-
+    How can you access a function's docstring in Python?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-access-a-functions-docstring-in-python.md
 url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
 score: -1.0
 related_article1:
+    id: 168604
+    title: >-
+        What are some best practices for writing Python functions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
+related_article2:
+    id: 168589
+    title: >-
+        What is the syntax for defining a function in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+related_article3:
+    id: 168594
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+related_article4:
+    id: 168605
+    title: >-
+        How can you import and use a module in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
+related_article5:
     id: 168587
-    title: What are the benefits of using functions in software development?
+    title: >-
+        What are the benefits of using functions in software development?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
-related_article2:
-    id: 168588
-    title: How does object-oriented programming contribute to software reusability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
-related_article3:
-    id: 168588
-    title: How does object-oriented programming contribute to software reusability?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
-related_article4:
-    id: 168599
-    title: How can you provide default values for function parameters in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
-related_article5:
-    id: 168598
-    title: What is the difference between positional and keyword parameters in Python functions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
 ---
 
 &nbsp;

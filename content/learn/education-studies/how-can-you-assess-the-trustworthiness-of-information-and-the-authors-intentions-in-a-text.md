@@ -2,8 +2,10 @@
 _schema: default
 id: 162565
 date: 2025-01-25
-title: How can you assess the trustworthiness of information and the author's intentions in a text?
-article_title: How can you assess the trustworthiness of information and the author's intentions in a text?
+title: >-
+    How can you assess the trustworthiness of information and the author's intentions in a text?
+article_title: >-
+    How can you assess the trustworthiness of information and the author's intentions in a text?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-assess-the-trustworthiness-of-information-and-the-authors
 url: /learn/education-studies/questions/how-can-you-assess-the-trustworthiness-of-information-and-the-authors-intentions-in-a-text
 score: -1.0
 related_article1:
-    id: 162570
-    title: What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
+    id: 162272
+    title: >-
+        What criteria should be used to evaluate an author's credibility and the quality of evidence in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-environmental-benefits-of-a-vegetarian-diet-in-terms-of-resource-efficiency-and-greenhouse-gas-emissions
+    url: /learn/education-studies/questions/what-criteria-should-be-used-to-evaluate-an-authors-credibility-and-the-quality-of-evidence-in-a-text
 related_article2:
-    id: 162260
-    title: What is the purpose of using different text structures, such as cause-and-effect or compare and contrast, in writing?
+    id: 162266
+    title: >-
+        What are the health benefits associated with a plant-based diet, and how do they contribute to disease prevention?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-using-different-text-structures-such-as-causeandeffect-or-compare-and-contrast-in-writing
+    url: /learn/education-studies/questions/what-are-the-health-benefits-associated-with-a-plantbased-diet-and-how-do-they-contribute-to-disease-prevention
 related_article3:
-    id: 162265
-    title: How does the ecological footprint of a diet impact environmental sustainability?
+    id: 162257
+    title: >-
+        How does word choice, including loaded language, impact the point of view presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-impact-environmental-sustainability
+    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
 related_article4:
-    id: 162557
-    title: How can an author's professional affiliations and expert credentials influence their purpose in writing?
+    id: 162561
+    title: >-
+        How can you evaluate the credibility and relevance of evidence presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
 related_article5:
-    id: 162256
-    title: What questions can help identify an author's point of view in a text?
+    id: 162272
+    title: >-
+        What criteria should be used to evaluate an author's credibility and the quality of evidence in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-questions-can-help-identify-an-authors-point-of-view-in-a-text
+    url: /learn/education-studies/questions/what-criteria-should-be-used-to-evaluate-an-authors-credibility-and-the-quality-of-evidence-in-a-text
 ---
 
 &nbsp;

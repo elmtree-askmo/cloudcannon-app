@@ -2,8 +2,10 @@
 _schema: default
 id: 170022
 date: 2025-02-05
-title: What are the foundational experiments of Classical Conditioning and their implications?
-article_title: What are the foundational experiments of Classical Conditioning and their implications?
+title: >-
+    What are the foundational experiments of Classical Conditioning and their implications?
+article_title: >-
+    What are the foundational experiments of Classical Conditioning and their implications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-foundational-experiments-of-classical-conditioning-and-t
 url: /learn/psychology/questions/what-are-the-foundational-experiments-of-classical-conditioning-and-their-implications
 score: -1.0
 related_article1:
-    id: 170023
-    title: How does Operant Conditioning differ from Classical Conditioning in terms of behavior modification?
+    id: 170031
+    title: >-
+        How do modern theories of personality differ from Freud's psychoanalytic theory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-operant-conditioning-differ-from-classical-conditioning-in-terms-of-behavior-modification
+    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
 related_article2:
-    id: 170026
-    title: What role does the unconscious mind play in modern psychological theories?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
-related_article3:
     id: 170016
-    title: How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    title: >-
+        How does Evolutionary Psychology integrate Darwinian theory into its framework?
     subject: Psychology
     url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
-related_article4:
-    id: 170010
-    title: What are the core principles of Behaviorism as proposed by John Watson and B.F. Skinner?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-principles-of-behaviorism-as-proposed-by-john-watson-and-bf-skinner
-related_article5:
+related_article3:
     id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    title: >-
+        What are the key contributions of Sigmund Freud to Psychoanalysis?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+related_article4:
+    id: 170028
+    title: >-
+        What are the ethical considerations in experimental psychology research methods?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-in-experimental-psychology-research-methods
+related_article5:
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
 ---
 
 &nbsp;

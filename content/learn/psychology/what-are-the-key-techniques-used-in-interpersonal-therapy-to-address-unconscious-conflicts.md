@@ -2,8 +2,10 @@
 _schema: default
 id: 170020
 date: 2025-02-05
-title: What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
-article_title: What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+title: >-
+    What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
+article_title: >-
+    What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-
 url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
 score: -1.0
 related_article1:
-    id: 170019
-    title: How have modern interpretations criticized Freud's developmental stages?
+    id: 170016
+    title: >-
+        How does Evolutionary Psychology integrate Darwinian theory into its framework?
     subject: Psychology
-    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
 related_article2:
-    id: 170013
-    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    id: 170025
+    title: >-
+        How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
 related_article3:
     id: 170016
-    title: How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    title: >-
+        How does Evolutionary Psychology integrate Darwinian theory into its framework?
     subject: Psychology
     url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
 related_article4:
-    id: 170017
-    title: What is the significance of adaptation and survival in Evolutionary Psychology?
+    id: 170025
+    title: >-
+        How has the understanding of consciousness evolved with cognitive and neuroscientific approaches?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
+    url: /learn/psychology/questions/how-has-the-understanding-of-consciousness-evolved-with-cognitive-and-neuroscientific-approaches
 related_article5:
-    id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    id: 170031
+    title: >-
+        How do modern theories of personality differ from Freud's psychoanalytic theory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
 ---
 
 &nbsp;

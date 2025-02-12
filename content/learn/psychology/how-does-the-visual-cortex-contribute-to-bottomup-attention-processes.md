@@ -2,8 +2,10 @@
 _schema: default
 id: 164755
 date: 2025-01-28
-title: How does the visual cortex contribute to bottom-up attention processes?
-article_title: How does the visual cortex contribute to bottom-up attention processes?
+title: >-
+    How does the visual cortex contribute to bottom-up attention processes?
+article_title: >-
+    How does the visual cortex contribute to bottom-up attention processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 score: -1.0
 related_article1:
-    id: 164756
-    title: What is the influence of endogenous cues on top-down attention?
+    id: 164770
+    title: >-
+        How does Alzheimer's disease lead to attention deficits and memory impairment?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
 related_article2:
-    id: 164762
-    title: How does Alzheimer's disease affect memory formation and attention?
+    id: 164759
+    title: >-
+        How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+    url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
 related_article3:
-    id: 164765
-    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+    id: 164769
+    title: >-
+        What is the role of the visual cortex in determining reaction times during attention tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
 related_article4:
-    id: 164769
-    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    id: 164758
+    title: >-
+        What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+    url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
 related_article5:
-    id: 164769
-    title: What is the role of the visual cortex in determining reaction times during attention tasks?
+    id: 164761
+    title: >-
+        How does neuropsychological evidence support the concept of object-based attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-visual-cortex-in-determining-reaction-times-during-attention-tasks
+    url: /learn/psychology/questions/how-does-neuropsychological-evidence-support-the-concept-of-objectbased-attention
 ---
 
 &nbsp;

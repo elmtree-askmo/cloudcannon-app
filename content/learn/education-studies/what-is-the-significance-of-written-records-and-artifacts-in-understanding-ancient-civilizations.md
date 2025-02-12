@@ -2,8 +2,10 @@
 _schema: default
 id: 166562
 date: 2025-01-30
-title: What is the significance of written records and artifacts in understanding ancient civilizations?
-article_title: What is the significance of written records and artifacts in understanding ancient civilizations?
+title: >-
+    What is the significance of written records and artifacts in understanding ancient civilizations?
+article_title: >-
+    What is the significance of written records and artifacts in understanding ancient civilizations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-written-records-and-artifacts-in-understa
 url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
 score: -1.0
 related_article1:
-    id: 166551
-    title: How does the Chicago Manual of Style differ from MLA and APA citation formats?
+    id: 166552
+    title: >-
+        What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chicago-manual-of-style-differ-from-mla-and-apa-citation-formats
+    url: /learn/education-studies/questions/what-is-the-purpose-of-footnotes-in-historical-writing-and-how-do-they-differ-from-bibliographic-information
 related_article2:
-    id: 166551
-    title: How does the Chicago Manual of Style differ from MLA and APA citation formats?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chicago-manual-of-style-differ-from-mla-and-apa-citation-formats
-related_article3:
-    id: 166555
-    title: What are the main types of evidence used in historical research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-evidence-used-in-historical-research
-related_article4:
     id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
+    title: >-
+        How do social structures influence historical narratives, and how have these dynamics evolved over time?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
-related_article5:
-    id: 166560
-    title: How can new evidence influence historical interpretation?
+related_article3:
+    id: 166561
+    title: >-
+        What are some characteristics of early urban centers like the City of Uruk and Egyptian civilization?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
+    url: /learn/education-studies/questions/what-are-some-characteristics-of-early-urban-centers-like-the-city-of-uruk-and-egyptian-civilization
+related_article4:
+    id: 166552
+    title: >-
+        What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-footnotes-in-historical-writing-and-how-do-they-differ-from-bibliographic-information
+related_article5:
+    id: 166563
+    title: >-
+        How do social structures influence historical narratives, and how have these dynamics evolved over time?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
 ---
 
 &nbsp;

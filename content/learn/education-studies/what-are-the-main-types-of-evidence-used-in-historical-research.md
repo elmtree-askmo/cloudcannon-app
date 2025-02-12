@@ -2,8 +2,10 @@
 _schema: default
 id: 166555
 date: 2025-01-30
-title: What are the main types of evidence used in historical research?
-article_title: What are the main types of evidence used in historical research?
+title: >-
+    What are the main types of evidence used in historical research?
+article_title: >-
+    What are the main types of evidence used in historical research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-evidence-used-in-historical-research.md
 url: /learn/education-studies/questions/what-are-the-main-types-of-evidence-used-in-historical-research
 score: -1.0
 related_article1:
-    id: 166556
-    title: How do archaeology and anthropology contribute to the historical narrative, and what is the role of carbon dating in this context?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archaeology-and-anthropology-contribute-to-the-historical-narrative-and-what-is-the-role-of-carbon-dating-in-this-context
-related_article2:
     id: 166562
-    title: What is the significance of written records and artifacts in understanding ancient civilizations?
+    title: >-
+        What is the significance of written records and artifacts in understanding ancient civilizations?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-written-records-and-artifacts-in-understanding-ancient-civilizations
+related_article2:
+    id: 166560
+    title: >-
+        How can new evidence influence historical interpretation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
 related_article3:
-    id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
+    id: 166558
+    title: >-
+        What methodologies are used in studying the day-to-day lives of women in history?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
+    url: /learn/education-studies/questions/what-methodologies-are-used-in-studying-the-daytoday-lives-of-women-in-history
 related_article4:
-    id: 166563
-    title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
+    id: 166564
+    title: >-
+        What methodologies do historians use to analyze social dynamics in history?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
+    url: /learn/education-studies/questions/what-methodologies-do-historians-use-to-analyze-social-dynamics-in-history
 related_article5:
-    id: 166551
-    title: How does the Chicago Manual of Style differ from MLA and APA citation formats?
+    id: 166560
+    title: >-
+        How can new evidence influence historical interpretation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chicago-manual-of-style-differ-from-mla-and-apa-citation-formats
+    url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
 ---
 
 &nbsp;

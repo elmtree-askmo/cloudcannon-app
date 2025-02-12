@@ -2,8 +2,10 @@
 _schema: default
 id: 169784
 date: 2025-02-05
-title: How can cultural and religious considerations impact individual dietary needs in patient care?
-article_title: How can cultural and religious considerations impact individual dietary needs in patient care?
+title: >-
+    How can cultural and religious considerations impact individual dietary needs in patient care?
+article_title: >-
+    How can cultural and religious considerations impact individual dietary needs in patient care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-cultural-and-religious-considerations-impact-individual-dieta
 url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
 score: -1.0
 related_article1:
-    id: 169771
-    title: How do simple and complex carbohydrates differ in their impact on blood sugar levels?
+    id: 169785
+    title: >-
+        What is food fortification, and how does it support nutritional needs?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-simple-and-complex-carbohydrates-differ-in-their-impact-on-blood-sugar-levels
+    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
 related_article2:
-    id: 169775
-    title: What are the nutritional benefits of including dairy in the diet?
+    id: 169783
+    title: >-
+        What are the symptoms of dehydration, and which populations are most at risk?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
+    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
 related_article3:
-    id: 169769
-    title: How do the World Health Organization guidelines influence nutrition and hydration practices?
+    id: 169776
+    title: >-
+        Why is fiber important in the diet, and which food groups are rich in fiber?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
+    url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
 related_article4:
+    id: 169779
+    title: >-
+        What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article5:
     id: 169775
-    title: What are the nutritional benefits of including dairy in the diet?
+    title: >-
+        What are the nutritional benefits of including dairy in the diet?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
-related_article5:
-    id: 169773
-    title: What is the role of vitamins in body functions, and what are some common sources?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
 ---
 
 &nbsp;

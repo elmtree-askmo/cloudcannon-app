@@ -2,8 +2,10 @@
 _schema: default
 id: 169120
 date: 2025-02-04
-title: What contributions did women make to the economic development of postwar Hong Kong?
-article_title: What contributions did women make to the economic development of postwar Hong Kong?
+title: >-
+    What contributions did women make to the economic development of postwar Hong Kong?
+article_title: >-
+    What contributions did women make to the economic development of postwar Hong Kong?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-contributions-did-women-make-to-the-economic-development-of-post
 url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 score: 8.5
 related_article1:
-    id: 169112
-    title: How have feminist archival methodologies contributed to the understanding of architectural histories?
+    id: 169117
+    title: >-
+        How did colonial patriarchy influence architectural practices and gender roles?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
+    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
 related_article2:
     id: 169121
-    title: How is interior design considered a gendered field within architecture?
+    title: >-
+        How is interior design considered a gendered field within architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
 related_article3:
-    id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    id: 169117
+    title: >-
+        How did colonial patriarchy influence architectural practices and gender roles?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
 related_article4:
-    id: 169109
-    title: What are some key architectural projects led by women that have gained recognition?
+    id: 169125
+    title: >-
+        How does feminist historiography aim to rewrite women's roles in architectural history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-key-architectural-projects-led-by-women-that-have-gained-recognition
+    url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
 related_article5:
-    id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    id: 169122
+    title: >-
+        What are some common stereotypes about women in architecture portrayed in media?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
 ---
 
 &nbsp;

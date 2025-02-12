@@ -2,8 +2,10 @@
 _schema: default
 id: 168854
 date: 2025-02-04
-title: What is the function of carrier proteins in facilitated diffusion and active transport?
-article_title: What is the function of carrier proteins in facilitated diffusion and active transport?
+title: >-
+    What is the function of carrier proteins in facilitated diffusion and active transport?
+article_title: >-
+    What is the function of carrier proteins in facilitated diffusion and active transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and
 url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
 score: -1.0
 related_article1:
-    id: 168853
-    title: Define concentration gradient and explain its role in diffusion and cellular processes.
+    id: 168844
+    title: >-
+        Identify the types of disaccharides and describe the role of glycosidic bonds in their formation and breakdown.
     subject: Health Studies
-    url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
+    url: /learn/health-studies/questions/identify-the-types-of-disaccharides-and-describe-the-role-of-glycosidic-bonds-in-their-formation-and-breakdown
 related_article2:
     id: 168852
-    title: How is glucose absorbed in the small intestine, and why is this process important for metabolism?
+    title: >-
+        How is glucose absorbed in the small intestine, and why is this process important for metabolism?
     subject: Health Studies
     url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
 related_article3:
-    id: 168842
-    title: What is hydrolysis and how does it contribute to the digestion process?
+    id: 168856
+    title: >-
+        Explain the process of starch digestion and its importance as a source of glucose.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-process
+    url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
 related_article4:
-    id: 168852
-    title: How is glucose absorbed in the small intestine, and why is this process important for metabolism?
+    id: 168843
+    title: >-
+        Explain the importance of hydrolysis in metabolism, particularly in energy release.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
+    url: /learn/health-studies/questions/explain-the-importance-of-hydrolysis-in-metabolism-particularly-in-energy-release
 related_article5:
-    id: 168852
-    title: How is glucose absorbed in the small intestine, and why is this process important for metabolism?
+    id: 168843
+    title: >-
+        Explain the importance of hydrolysis in metabolism, particularly in energy release.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
+    url: /learn/health-studies/questions/explain-the-importance-of-hydrolysis-in-metabolism-particularly-in-energy-release
 ---
 
 &nbsp;

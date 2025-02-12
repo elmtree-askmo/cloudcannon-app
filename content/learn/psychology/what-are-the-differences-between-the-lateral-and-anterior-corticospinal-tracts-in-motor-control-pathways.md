@@ -2,8 +2,10 @@
 _schema: default
 id: 170535
 date: 2025-02-06
-title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
-article_title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+title: >-
+    What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+article_title: >-
+    What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-the-lateral-and-anterior-corticospin
 url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
 score: -1.0
 related_article1:
-    id: 170523
-    title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+    id: 170526
+    title: >-
+        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
 related_article2:
-    id: 170541
-    title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+    id: 170526
+    title: >-
+        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
 related_article3:
-    id: 170524
-    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
     subject: Psychology
-    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 related_article4:
-    id: 170524
-    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    id: 170530
+    title: >-
+        What are the common symptoms and consequences of traumatic brain injury and stroke?
     subject: Psychology
-    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
 related_article5:
-    id: 170543
-    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    id: 170538
+    title: >-
+        What are the critical periods in neurodevelopment, and why are they important for language acquisition?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
+    url: /learn/psychology/questions/what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159900
 date: 2025-01-23
-title: What impact did natural resources and landscapes have on Celtic society?
-article_title: What impact did natural resources and landscapes have on Celtic society?
+title: >-
+    What impact did natural resources and landscapes have on Celtic society?
+article_title: >-
+    What impact did natural resources and landscapes have on Celtic society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-impact-did-natural-resources-and-landscapes-have-on-celtic-socie
 url: /learn/history-of-the-world/questions/what-impact-did-natural-resources-and-landscapes-have-on-celtic-society
 score: 9.0
 related_article1:
-    id: 159907
-    title: What are the main characteristics of Halstatt Culture's art and material goods?
+    id: 159919
+    title: >-
+        What are the key features of Celtic metalwork and jewelry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
+    url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
 related_article2:
-    id: 159912
-    title: How have Celtic languages influenced modern European languages?
+    id: 160260
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 related_article3:
-    id: 159910
-    title: How did the La Tène Culture expand and settle in new regions?
+    id: 160183
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+    url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 related_article4:
-    id: 159860
-    title: How did the burial practices of the Beaker People and Corded Ware People reflect their cultural characteristics?
+    id: 160369
+    title: >-
+        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-reflect-their-cultural-characteristics
+    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
 related_article5:
-    id: 159873
-    title: How have Celtic languages influenced modern European languages?
+    id: 160178
+    title: >-
+        What were the key trading centers in Celtic trade networks?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
+    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166229
 date: 2025-01-29
-title: What are the main disciplines within social sciences, and how do they contribute to understanding society?
-article_title: What are the main disciplines within social sciences, and how do they contribute to understanding society?
+title: >-
+    What are the main disciplines within social sciences, and how do they contribute to understanding society?
+article_title: >-
+    What are the main disciplines within social sciences, and how do they contribute to understanding society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-disciplines-within-social-sciences-and-how-do-they-
 url: /learn/history-of-the-world/questions/what-are-the-main-disciplines-within-social-sciences-and-how-do-they-contribute-to-understanding-society
 score: 9.0
 related_article1:
-    id: 166234
-    title: What are the main debates and controversies in historiography, such as objectivity vs. subjectivity?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-debates-and-controversies-in-historiography-such-as-objectivity-vs-subjectivity
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article2:
-    id: 166227
-    title: What are the primary types of historical evidence, and how are they evaluated for reliability?
+    id: 166231
+    title: >-
+        What were the key technological innovations in ancient civilizations, and how did they impact their development?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
+    url: /learn/history-of-the-world/questions/what-were-the-key-technological-innovations-in-ancient-civilizations-and-how-did-they-impact-their-development
 related_article3:
-    id: 166221
-    title: How do different historical interpretation theories, such as positivism and postmodernism, approach the study of history?
+    id: 166219
+    title: >-
+        What is the significance of primary sources in historical research?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-different-historical-interpretation-theories-such-as-positivism-and-postmodernism-approach-the-study-of-history
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-primary-sources-in-historical-research
 related_article4:
-    id: 166233
-    title: How has historiography evolved from ancient to modern times?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article5:
-    id: 166227
-    title: What are the primary types of historical evidence, and how are they evaluated for reliability?
+    id: 166219
+    title: >-
+        What is the significance of primary sources in historical research?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-primary-sources-in-historical-research
 ---
 
 &nbsp;

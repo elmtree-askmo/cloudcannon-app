@@ -2,8 +2,10 @@
 _schema: default
 id: 162553
 date: 2025-01-25
-title: How can graphs be used to verify translations?
-article_title: How can graphs be used to verify translations?
+title: >-
+    How can graphs be used to verify translations?
+article_title: >-
+    How can graphs be used to verify translations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-graphs-be-used-to-verify-translations.md
 url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
 score: -1.0
 related_article1:
-    id: 162278
-    title: What are the rules for vertical movement in translations?
+    id: 162281
+    title: >-
+        How do horizontal translation patterns differ from vertical translation patterns?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+    url: /learn/mathematics/questions/how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns
 related_article2:
-    id: 162293
-    title: How do you add and subtract coordinates to achieve directional movement in translations?
+    id: 162295
+    title: >-
+        How can graphs be used to verify translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
 related_article3:
-    id: 162547
-    title: How do you identify vertices on a coordinate plane?
+    id: 162280
+    title: >-
+        What patterns can be observed in vertical translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
+    url: /learn/mathematics/questions/what-patterns-can-be-observed-in-vertical-translations
 related_article4:
-    id: 162292
-    title: What is the process for applying combined translation rules?
+    id: 162281
+    title: >-
+        How do horizontal translation patterns differ from vertical translation patterns?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-process-for-applying-combined-translation-rules
+    url: /learn/mathematics/questions/how-do-horizontal-translation-patterns-differ-from-vertical-translation-patterns
 related_article5:
-    id: 162539
-    title: What are the rules for vertical movement in translations?
+    id: 162284
+    title: >-
+        What is the significance of maintaining size and shape in geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
 ---
 
 &nbsp;

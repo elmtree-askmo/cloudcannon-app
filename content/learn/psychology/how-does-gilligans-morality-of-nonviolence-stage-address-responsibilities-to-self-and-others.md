@@ -2,8 +2,10 @@
 _schema: default
 id: 164207
 date: 2025-01-28
-title: How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
-article_title: How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
+title: >-
+    How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
+article_title: >-
+    How does Gilligan's 'Morality of Nonviolence' stage address responsibilities to self and others?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-gilligans-morality-of-nonviolence-stage-address-responsibili
 url: /learn/psychology/questions/how-does-gilligans-morality-of-nonviolence-stage-address-responsibilities-to-self-and-others
 score: -1.0
 related_article1:
-    id: 164206
-    title: Describe the transition from 'Goodness to Truth' in Gilligan's theory of moral development.
+    id: 164202
+    title: >-
+        How does Gilligan's theory describe the influence of caring and responsibility on moral development?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
+    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
 related_article2:
+    id: 164210
+    title: >-
+        What are the foremost considerations in moral reasoning according to Gilligan's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-foremost-considerations-in-moral-reasoning-according-to-gilligans-theory
+related_article3:
+    id: 164214
+    title: >-
+        How does the onset of gender differences during adolescence impact moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-onset-of-gender-differences-during-adolescence-impact-moral-development
+related_article4:
+    id: 164208
+    title: >-
+        What role does compassion play in Gilligan's emphasis on caring and moral reasoning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-compassion-play-in-gilligans-emphasis-on-caring-and-moral-reasoning
+related_article5:
     id: 164205
-    title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+    title: >-
+        What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
-related_article3:
-    id: 164201
-    title: What are the main critiques of Gilligan's theory regarding gender differences in moral judgments?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-critiques-of-gilligans-theory-regarding-gender-differences-in-moral-judgments
-related_article4:
-    id: 164212
-    title: How do studies confirming gender differences support Gilligan's theory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-studies-confirming-gender-differences-support-gilligans-theory
-related_article5:
-    id: 164209
-    title: How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
 ---
 
 &nbsp;

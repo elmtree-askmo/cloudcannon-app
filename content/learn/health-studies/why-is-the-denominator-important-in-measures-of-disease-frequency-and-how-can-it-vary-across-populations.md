@@ -2,8 +2,10 @@
 _schema: default
 id: 163327
 date: 2025-01-26
-title: Why is the denominator important in measures of disease frequency, and how can it vary across populations?
-article_title: Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+title: >-
+    Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+article_title: >-
+    Why is the denominator important in measures of disease frequency, and how can it vary across populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-denominator-important-in-measures-of-disease-frequency-and
 url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
 score: -1.0
 related_article1:
-    id: 163338
-    title: What are the limitations of using person-years of observation in epidemiological studies?
+    id: 163345
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
 related_article2:
-    id: 163063
-    title: Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+    id: 163073
+    title: >-
+        How is person-years of observation calculated, and why is it important in dynamic populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
+    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
 related_article3:
-    id: 163341
-    title: How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+    id: 163287
+    title: >-
+        How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
+    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
 related_article4:
     id: 163325
-    title: What is the difference between fixed and dynamic populations in epidemiology?
+    title: >-
+        What is the difference between fixed and dynamic populations in epidemiology?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
 related_article5:
-    id: 163286
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163330
+    title: >-
+        Why is it crucial to use the correct denominator when calculating a proportion?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164871
 date: 2025-01-28
-title: What is the primary purpose of assessment in education?
-article_title: What is the primary purpose of assessment in education?
+title: >-
+    What is the primary purpose of assessment in education?
+article_title: >-
+    What is the primary purpose of assessment in education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-purpose-of-assessment-in-education.md
 url: /learn/education-studies/questions/what-is-the-primary-purpose-of-assessment-in-education
 score: -1.0
 related_article1:
-    id: 164875
-    title: What are the main challenges associated with subjective scoring?
+    id: 164881
+    title: >-
+        What strategies can be used to handle challenging questions during a Q&A session?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-challenges-associated-with-subjective-scoring
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
 related_article2:
-    id: 164874
-    title: How can scoring rubrics benefit the assessment process?
+    id: 164880
+    title: >-
+        How can clarity and precision enhance questioning techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-scoring-rubrics-benefit-the-assessment-process
+    url: /learn/education-studies/questions/how-can-clarity-and-precision-enhance-questioning-techniques
 related_article3:
     id: 164879
-    title: What is the difference between open-ended and closed-ended questions?
+    title: >-
+        What is the difference between open-ended and closed-ended questions?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-openended-and-closedended-questions
 related_article4:
-    id: 164880
-    title: How can clarity and precision enhance questioning techniques?
+    id: 164873
+    title: >-
+        What are the key components of objective scoring in test scoring?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-clarity-and-precision-enhance-questioning-techniques
+    url: /learn/education-studies/questions/what-are-the-key-components-of-objective-scoring-in-test-scoring
 related_article5:
-    id: 164881
-    title: What strategies can be used to handle challenging questions during a Q&A session?
+    id: 164883
+    title: >-
+        How can consistency be maintained in grading systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
+    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
 ---
 
 &nbsp;

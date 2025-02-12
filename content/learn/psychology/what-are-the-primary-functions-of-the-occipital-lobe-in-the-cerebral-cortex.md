@@ -2,8 +2,10 @@
 _schema: default
 id: 164411
 date: 2025-01-28
-title: What are the primary functions of the occipital lobe in the cerebral cortex?
-article_title: What are the primary functions of the occipital lobe in the cerebral cortex?
+title: >-
+    What are the primary functions of the occipital lobe in the cerebral cortex?
+article_title: >-
+    What are the primary functions of the occipital lobe in the cerebral cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
 score: -1.0
 related_article1:
-    id: 164410
-    title: What is the involvement of the basal ganglia in Parkinson's disease?
+    id: 164413
+    title: >-
+        What role does the parietal lobe play in spatial awareness and attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
 related_article2:
-    id: 164409
-    title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+    id: 164414
+    title: >-
+        What cognitive functions are associated with the frontal lobe?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 related_article3:
-    id: 164413
-    title: What role does the parietal lobe play in spatial awareness and attention?
+    id: 164416
+    title: >-
+        What is the difference between distal and proximal in anatomical terminology?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
+    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
 related_article4:
-    id: 164413
-    title: What role does the parietal lobe play in spatial awareness and attention?
+    id: 164417
+    title: >-
+        How are directional terms applied to understand brain orientation and reference points in anatomy?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
 related_article5:
-    id: 164406
-    title: What is the general anatomy of the basal ganglia and how is it related to the thalamus?
+    id: 164408
+    title: >-
+        What role does the basal ganglia play in implicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus
+    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
 ---
 
 &nbsp;

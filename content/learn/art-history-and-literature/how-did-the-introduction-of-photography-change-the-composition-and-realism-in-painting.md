@@ -2,8 +2,10 @@
 _schema: default
 id: 168722
 date: 2025-02-04
-title: How did the introduction of photography change the composition and realism in painting?
-article_title: How did the introduction of photography change the composition and realism in painting?
+title: >-
+    How did the introduction of photography change the composition and realism in painting?
+article_title: >-
+    How did the introduction of photography change the composition and realism in painting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-introduction-of-photography-change-the-composition-and-re
 url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
 score: 9.0
 related_article1:
-    id: 168733
-    title: What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
+    id: 168731
+    title: >-
+        What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
+    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
 related_article2:
-    id: 168727
-    title: Who were the key representatives of Realism, and what were their contributions to the movement?
+    id: 168720
+    title: >-
+        How did Realism artists reject traditional Academic Painting styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
+    url: /learn/art-history-and-literature/questions/how-did-realism-artists-reject-traditional-academic-painting-styles
 related_article3:
-    id: 168715
-    title: What were the main causes of social unrest leading to the French Revolution?
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-causes-of-social-unrest-leading-to-the-french-revolution
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
 related_article4:
+    id: 168720
+    title: >-
+        How did Realism artists reject traditional Academic Painting styles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-realism-artists-reject-traditional-academic-painting-styles
+related_article5:
     id: 168721
-    title: In what ways did 19th-century art provide social commentary on labor and industrialization?
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
-related_article5:
-    id: 168719
-    title: What are the defining features of Romanticism, and how did it react to industrialization?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
 ---
 
 &nbsp;

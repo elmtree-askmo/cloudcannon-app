@@ -2,8 +2,10 @@
 _schema: default
 id: 168268
 date: 2025-02-03
-title: What role do love and trust play in character motivations within relationships?
-article_title: What role do love and trust play in character motivations within relationships?
+title: >-
+    What role do love and trust play in character motivations within relationships?
+article_title: >-
+    What role do love and trust play in character motivations within relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-love-and-trust-play-in-character-motivations-within-rela
 url: /learn/art-history-and-literature/questions/what-role-do-love-and-trust-play-in-character-motivations-within-relationships
 score: 9.5
 related_article1:
-    id: 168251
-    title: How does language blur the line between reality and perception?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-blur-the-line-between-reality-and-perception
-related_article2:
-    id: 168264
-    title: What are the consequences of miscommunication in relationships?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-consequences-of-miscommunication-in-relationships
-related_article3:
-    id: 168263
-    title: How does language shape perception and reality in society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
-related_article4:
     id: 168259
-    title: How does Shakespeare use irony to enhance miscommunication in his plots?
+    title: >-
+        How does Shakespeare use irony to enhance miscommunication in his plots?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-shakespeare-use-irony-to-enhance-miscommunication-in-his-plots
-related_article5:
-    id: 168265
-    title: How does deception impact trust and relationships in literature?
+related_article2:
+    id: 168257
+    title: >-
+        What are Don John's motivations and how do they impact other characters?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-deception-impact-trust-and-relationships-in-literature
+    url: /learn/art-history-and-literature/questions/what-are-don-johns-motivations-and-how-do-they-impact-other-characters
+related_article3:
+    id: 168267
+    title: >-
+        How do jealousy and envy motivate characters to deceive others?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-jealousy-and-envy-motivate-characters-to-deceive-others
+related_article4:
+    id: 168263
+    title: >-
+        How does language shape perception and reality in society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
+related_article5:
+    id: 168261
+    title: >-
+        What are the key elements that differentiate Shakespearean comedy from tragedy?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-that-differentiate-shakespearean-comedy-from-tragedy
 ---
 
 &nbsp;

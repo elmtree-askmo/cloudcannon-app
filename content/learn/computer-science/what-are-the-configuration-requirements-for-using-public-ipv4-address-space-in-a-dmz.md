@@ -2,8 +2,10 @@
 _schema: default
 id: 165732
 date: 2025-01-29
-title: What are the configuration requirements for using public IPv4 address space in a DMZ?
-article_title: What are the configuration requirements for using public IPv4 address space in a DMZ?
+title: >-
+    What are the configuration requirements for using public IPv4 address space in a DMZ?
+article_title: >-
+    What are the configuration requirements for using public IPv4 address space in a DMZ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-configuration-requirements-for-using-public-ipv4-address
 url: /learn/computer-science/questions/what-are-the-configuration-requirements-for-using-public-ipv4-address-space-in-a-dmz
 score: -1.0
 related_article1:
-    id: 165726
-    title: What is a broadcast domain and how do routers affect them?
+    id: 165725
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
+    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
 related_article2:
-    id: 165725
-    title: Explain the difference between subnetting on an octet boundary and within an octet boundary.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
-related_article3:
-    id: 165724
-    title: What is the primary purpose of subnetting in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
-related_article4:
-    id: 165725
-    title: Explain the difference between subnetting on an octet boundary and within an octet boundary.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
-related_article5:
     id: 165731
-    title: What is the significance of using private IPv4 address space within intranets?
+    title: >-
+        What is the significance of using private IPv4 address space within intranets?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
+related_article3:
+    id: 165723
+    title: >-
+        How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
+related_article4:
+    id: 165727
+    title: >-
+        What are the potential problems associated with large broadcast domains?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
 ---
 
 &nbsp;

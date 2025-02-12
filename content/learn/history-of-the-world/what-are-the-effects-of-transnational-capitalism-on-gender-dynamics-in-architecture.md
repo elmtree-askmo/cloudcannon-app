@@ -2,8 +2,10 @@
 _schema: default
 id: 169118
 date: 2025-02-04
-title: What are the effects of transnational capitalism on gender dynamics in architecture?
-article_title: What are the effects of transnational capitalism on gender dynamics in architecture?
+title: >-
+    What are the effects of transnational capitalism on gender dynamics in architecture?
+article_title: >-
+    What are the effects of transnational capitalism on gender dynamics in architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-i
 url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
 score: 9.0
 related_article1:
-    id: 169115
-    title: What challenges do female students and faculty face in architectural education?
+    id: 169110
+    title: >-
+        How did migration patterns affect gender inequality in Hong Kong's workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
+    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
 related_article2:
-    id: 169124
-    title: What contributions have women made to urban development and public housing?
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 related_article3:
-    id: 169109
-    title: What are some key architectural projects led by women that have gained recognition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-key-architectural-projects-led-by-women-that-have-gained-recognition
-related_article4:
     id: 169106
-    title: What were some of the challenges faced by women in architecture during the early 20th century?
+    title: >-
+        What were some of the challenges faced by women in architecture during the early 20th century?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
-related_article5:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+related_article4:
+    id: 169107
+    title: >-
+        How did postwar developments impact gendered labor dynamics in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+related_article5:
+    id: 169120
+    title: >-
+        What contributions did women make to the economic development of postwar Hong Kong?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 ---
 
 &nbsp;

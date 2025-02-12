@@ -2,8 +2,10 @@
 _schema: default
 id: 163347
 date: 2025-01-26
-title: What are the key steps involved in the scientific method process?
-article_title: What are the key steps involved in the scientific method process?
+title: >-
+    What are the key steps involved in the scientific method process?
+article_title: >-
+    What are the key steps involved in the scientific method process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-steps-involved-in-the-scientific-method-process.md
 url: /learn/science/questions/what-are-the-key-steps-involved-in-the-scientific-method-process
 score: -1.0
 related_article1:
-    id: 163351
-    title: Why is it important to keep constants in an experiment?
-    subject: Science
-    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
-related_article2:
     id: 163352
-    title: What are the key considerations for unbiased data collection in scientific research?
+    title: >-
+        What are the key considerations for unbiased data collection in scientific research?
     subject: Science
     url: /learn/science/questions/what-are-the-key-considerations-for-unbiased-data-collection-in-scientific-research
+related_article2:
+    id: 163353
+    title: >-
+        How can statistical analysis be used to support or reject a hypothesis?
+    subject: Science
+    url: /learn/science/questions/how-can-statistical-analysis-be-used-to-support-or-reject-a-hypothesis
 related_article3:
+    id: 163350
+    title: >-
+        How do independent and dependent variables differ in an experiment?
+    subject: Science
+    url: /learn/science/questions/how-do-independent-and-dependent-variables-differ-in-an-experiment
+related_article4:
     id: 163351
-    title: Why is it important to keep constants in an experiment?
+    title: >-
+        Why is it important to keep constants in an experiment?
     subject: Science
     url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
-related_article4:
-    id: 163355
-    title: Why is the peer review process crucial in scientific communication?
-    subject: Science
-    url: /learn/science/questions/why-is-the-peer-review-process-crucial-in-scientific-communication
 related_article5:
-    id: 163355
-    title: Why is the peer review process crucial in scientific communication?
+    id: 163351
+    title: >-
+        Why is it important to keep constants in an experiment?
     subject: Science
-    url: /learn/science/questions/why-is-the-peer-review-process-crucial-in-scientific-communication
+    url: /learn/science/questions/why-is-it-important-to-keep-constants-in-an-experiment
 ---
 
 &nbsp;

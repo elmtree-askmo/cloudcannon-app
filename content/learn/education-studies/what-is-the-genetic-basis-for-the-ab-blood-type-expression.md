@@ -2,8 +2,10 @@
 _schema: default
 id: 167791
 date: 2025-02-01
-title: What is the genetic basis for the AB blood type expression?
-article_title: What is the genetic basis for the AB blood type expression?
+title: >-
+    What is the genetic basis for the AB blood type expression?
+article_title: >-
+    What is the genetic basis for the AB blood type expression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-genetic-basis-for-the-ab-blood-type-expression.md
 url: /learn/education-studies/questions/what-is-the-genetic-basis-for-the-ab-blood-type-expression
 score: -1.0
 related_article1:
-    id: 167796
-    title: What is the purpose of chi-square analysis in genetics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
-related_article2:
-    id: 167782
-    title: What is the difference between dominant and recessive traits in Mendelian inheritance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
-related_article3:
     id: 167785
-    title: How are Punnett squares used to predict the outcomes of dihybrid crosses?
+    title: >-
+        How are Punnett squares used to predict the outcomes of dihybrid crosses?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
+related_article2:
+    id: 167806
+    title: >-
+        How is genetic counseling used to assess risk and analyze family history?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
+related_article3:
+    id: 167806
+    title: >-
+        How is genetic counseling used to assess risk and analyze family history?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
 related_article4:
-    id: 167792
-    title: How does incomplete dominance differ from complete dominance?
+    id: 167790
+    title: >-
+        How is co-dominance exemplified in human blood types?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance
+    url: /learn/education-studies/questions/how-is-codominance-exemplified-in-human-blood-types
 related_article5:
-    id: 167800
-    title: How does the environment influence the phenotype of individuals with phenylketonuria?
+    id: 167783
+    title: >-
+        How do genotype and phenotype differ in genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
+    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
 ---
 
 &nbsp;

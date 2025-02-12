@@ -2,8 +2,10 @@
 _schema: default
 id: 169573
 date: 2025-02-05
-title: What are the steps involved in identifying and managing risks in healthcare?
-article_title: What are the steps involved in identifying and managing risks in healthcare?
+title: >-
+    What are the steps involved in identifying and managing risks in healthcare?
+article_title: >-
+    What are the steps involved in identifying and managing risks in healthcare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-steps-involved-in-identifying-and-managing-risks-in-heal
 url: /learn/nursing/questions/what-are-the-steps-involved-in-identifying-and-managing-risks-in-healthcare
 score: -1.0
 related_article1:
-    id: 169581
-    title: What is the importance of understanding team dynamics in healthcare?
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
 related_article2:
-    id: 169575
-    title: What are the different roles within a healthcare team, and how do they interact?
+    id: 169558
+    title: >-
+        Why is the duty of care important for patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
+    url: /learn/nursing/questions/why-is-the-duty-of-care-important-for-patient-safety
 related_article3:
-    id: 169557
-    title: What is the duty of care, and how does it apply to various healthcare roles?
+    id: 169553
+    title: >-
+        What is the definition of delegation in healthcare, and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
 related_article4:
+    id: 169565
+    title: >-
+        How is competence defined and assessed in healthcare?
+    subject: Nursing
+    url: /learn/nursing/questions/how-is-competence-defined-and-assessed-in-healthcare
+related_article5:
     id: 169569
-    title: What are the safe practices for medication administration?
+    title: >-
+        What are the safe practices for medication administration?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-safe-practices-for-medication-administration
-related_article5:
-    id: 169575
-    title: What are the different roles within a healthcare team, and how do they interact?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168647
 date: 2025-02-03
-title: What are some common techniques used in creative writing to develop characters?
-article_title: What are some common techniques used in creative writing to develop characters?
+title: >-
+    What are some common techniques used in creative writing to develop characters?
+article_title: >-
+    What are some common techniques used in creative writing to develop characters?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-techniques-used-in-creative-writing-to-develop-c
 url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-creative-writing-to-develop-characters
 score: -1.0
 related_article1:
+    id: 168639
+    title: >-
+        How does storytelling enhance communication and audience engagement?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-storytelling-enhance-communication-and-audience-engagement
+related_article2:
+    id: 168644
+    title: >-
+        Why is evidence important in persuasive writing, and how does it enhance credibility?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-evidence-important-in-persuasive-writing-and-how-does-it-enhance-credibility
+related_article3:
+    id: 168630
+    title: >-
+        How can narrative writing be effectively integrated with other writing styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-narrative-writing-be-effectively-integrated-with-other-writing-styles
+related_article4:
+    id: 168638
+    title: >-
+        In what professional settings are narrative reports commonly utilized?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-professional-settings-are-narrative-reports-commonly-utilized
+related_article5:
     id: 168641
-    title: What techniques can be used to maintain audience engagement in writing?
+    title: >-
+        What techniques can be used to maintain audience engagement in writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-techniques-can-be-used-to-maintain-audience-engagement-in-writing
-related_article2:
-    id: 168648
-    title: How does grammar impact the clarity and professionalism of writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
-related_article3:
-    id: 168634
-    title: In what professional contexts is expository writing most commonly used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-professional-contexts-is-expository-writing-most-commonly-used
-related_article4:
-    id: 168632
-    title: How does the purpose of persuasive writing influence its effectiveness?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-purpose-of-persuasive-writing-influence-its-effectiveness
-related_article5:
-    id: 168648
-    title: How does grammar impact the clarity and professionalism of writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
 ---
 
 &nbsp;

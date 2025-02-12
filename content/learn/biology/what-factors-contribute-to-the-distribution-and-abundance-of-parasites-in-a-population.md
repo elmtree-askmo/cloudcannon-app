@@ -2,8 +2,10 @@
 _schema: default
 id: 165822
 date: 2025-01-29
-title: What factors contribute to the distribution and abundance of parasites in a population?
-article_title: What factors contribute to the distribution and abundance of parasites in a population?
+title: >-
+    What factors contribute to the distribution and abundance of parasites in a population?
+article_title: >-
+    What factors contribute to the distribution and abundance of parasites in a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-factors-contribute-to-the-distribution-and-ab
 score: -1.0
 related_article1:
     id: 165821
-    title: Explain the concept of a natural focus of disease.
+    title: >-
+        Explain the concept of a natural focus of disease.
     subject: Biology
     url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
 related_article2:
-    id: 165823
-    title: How does zoonosis affect epidemiology?
-    subject: Biology
-    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
-related_article3:
     id: 165818
-    title: Differentiate between endoparasites and ectoparasites.
+    title: >-
+        Differentiate between endoparasites and ectoparasites.
     subject: Biology
     url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+related_article3:
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 related_article4:
-    id: 165808
-    title: Provide an example of taxonomic classification for a specific organism.
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
     subject: Biology
-    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 related_article5:
-    id: 165814
-    title: What are the main methods of disease transmission in parasite ecology?
+    id: 165812
+    title: >-
+        Explain the role of cytochrome C oxidase in molecular classification.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+    url: /learn/biology/questions/explain-the-role-of-cytochrome-c-oxidase-in-molecular-classification
 ---
 
 &nbsp;

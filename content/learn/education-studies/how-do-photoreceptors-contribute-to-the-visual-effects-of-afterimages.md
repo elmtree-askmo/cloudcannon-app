@@ -2,8 +2,10 @@
 _schema: default
 id: 165155
 date: 2025-01-28
-title: How do photoreceptors contribute to the visual effects of afterimages?
-article_title: How do photoreceptors contribute to the visual effects of afterimages?
+title: >-
+    How do photoreceptors contribute to the visual effects of afterimages?
+article_title: >-
+    How do photoreceptors contribute to the visual effects of afterimages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-photoreceptors-contribute-to-the-visual-effects-of-afterimages
 url: /learn/education-studies/questions/how-do-photoreceptors-contribute-to-the-visual-effects-of-afterimages
 score: -1.0
 related_article1:
-    id: 165158
-    title: What are some alternative explanations for causal claims in nature and health?
+    id: 165152
+    title: >-
+        What are the key features and capabilities of SciToolkit?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-alternative-explanations-for-causal-claims-in-nature-and-health
+    url: /learn/education-studies/questions/what-are-the-key-features-and-capabilities-of-scitoolkit
 related_article2:
-    id: 165157
-    title: Provide an example of how correlation can be misinterpreted as causation.
+    id: 165162
+    title: >-
+        How can you debug and test code in SciToolkit?
     subject: Education Studies
-    url: /learn/education-studies/questions/provide-an-example-of-how-correlation-can-be-misinterpreted-as-causation
+    url: /learn/education-studies/questions/how-can-you-debug-and-test-code-in-scitoolkit
 related_article3:
-    id: 165154
-    title: What are the steps involved in resizing and inverting images using SciToolkit?
+    id: 165164
+    title: >-
+        How is timing and response analysis conducted in data collection techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-involved-in-resizing-and-inverting-images-using-scitoolkit
+    url: /learn/education-studies/questions/how-is-timing-and-response-analysis-conducted-in-data-collection-techniques
 related_article4:
-    id: 165156
-    title: What is the difference between correlation and causation?
+    id: 165163
+    title: >-
+        What are the different types of survey questions that can be designed for data collection?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
+    url: /learn/education-studies/questions/what-are-the-different-types-of-survey-questions-that-can-be-designed-for-data-collection
 related_article5:
-    id: 165154
-    title: What are the steps involved in resizing and inverting images using SciToolkit?
+    id: 165152
+    title: >-
+        What are the key features and capabilities of SciToolkit?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-involved-in-resizing-and-inverting-images-using-scitoolkit
+    url: /learn/education-studies/questions/what-are-the-key-features-and-capabilities-of-scitoolkit
 ---
 
 &nbsp;

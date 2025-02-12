@@ -2,8 +2,10 @@
 _schema: default
 id: 164658
 date: 2025-01-28
-title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
-article_title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+title: >-
+    How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+article_title: >-
+    How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-i
 url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
 score: -1.0
 related_article1:
-    id: 164650
-    title: What are the symptoms of hemianopia and how does it affect daily life?
+    id: 164646
+    title: >-
+        What is the role of the nose in the organization of visual pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
 related_article2:
-    id: 164652
-    title: What is blindsight and how is it demonstrated experimentally?
+    id: 164656
+    title: >-
+        What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
 related_article3:
-    id: 164648
-    title: What are the primary functions of the occipital lobe in visual processing?
+    id: 164649
+    title: >-
+        How is hemianopia related to occipital lobe disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
 related_article4:
-    id: 164653
-    title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+    id: 164656
+    title: >-
+        What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
-related_article5:
-    id: 164653
-    title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
 ---
 
 &nbsp;

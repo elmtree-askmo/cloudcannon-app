@@ -2,8 +2,10 @@
 _schema: default
 id: 162187
 date: 2025-01-25
-title: What constitutes joint possession under possession laws?
-article_title: What constitutes joint possession under possession laws?
+title: >-
+    What constitutes joint possession under possession laws?
+article_title: >-
+    What constitutes joint possession under possession laws?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-constitutes-joint-possession-under-possession-laws.md
 url: /learn/criminal-or-civil-law/questions/what-constitutes-joint-possession-under-possession-laws
 score: -1.0
 related_article1:
-    id: 162174
-    title: How does foreseeability impact legal responsibility in criminal cases?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-foreseeability-impact-legal-responsibility-in-criminal-cases
-related_article2:
     id: 162184
-    title: How do firearm laws influence police conduct regarding the use of force?
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
+related_article2:
+    id: 162166
+    title: >-
+        What are the key medical indicators used to determine the cause of death?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-medical-indicators-used-to-determine-the-cause-of-death
 related_article3:
-    id: 162168
-    title: How does antisocial behavior relate to assaultive behavior and its consequences?
+    id: 162184
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-consequences
+    url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
 related_article4:
-    id: 162169
-    title: Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
+    id: 162166
+    title: >-
+        What are the key medical indicators used to determine the cause of death?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-minimal-causation-in-law-and-its-significance-in-determining-criminal-responsibility
+    url: /learn/criminal-or-civil-law/questions/what-are-the-key-medical-indicators-used-to-determine-the-cause-of-death
 related_article5:
     id: 162168
-    title: How does antisocial behavior relate to assaultive behavior and its consequences?
+    title: >-
+        How does antisocial behavior relate to assaultive behavior and its consequences?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-consequences
 ---

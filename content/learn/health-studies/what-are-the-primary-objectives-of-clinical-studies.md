@@ -2,8 +2,10 @@
 _schema: default
 id: 163251
 date: 2025-01-26
-title: What are the primary objectives of clinical studies?
-article_title: What are the primary objectives of clinical studies?
+title: >-
+    What are the primary objectives of clinical studies?
+article_title: >-
+    What are the primary objectives of clinical studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-objectives-of-clinical-studies.md
 url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
 score: -1.0
 related_article1:
+    id: 163246
+    title: >-
+        What is internal validity and why is it important in research studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
+related_article2:
     id: 163261
-    title: What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
+    title: >-
+        What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
     subject: Health Studies
     url: /learn/health-studies/questions/what-tools-and-techniques-are-used-in-the-critical-appraisal-of-systematic-reviews-and-metaanalyses
-related_article2:
-    id: 163259
-    title: What role do systematic reviews and meta-analyses play in evidence appraisal?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
 related_article3:
-    id: 163249
-    title: What strategies can be employed to reduce bias in research?
+    id: 163256
+    title: >-
+        Why is a representative sample important in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
+    url: /learn/health-studies/questions/why-is-a-representative-sample-important-in-epidemiological-studies
 related_article4:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    id: 163261
+    title: >-
+        What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+    url: /learn/health-studies/questions/what-tools-and-techniques-are-used-in-the-critical-appraisal-of-systematic-reviews-and-metaanalyses
 related_article5:
-    id: 163253
-    title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    id: 163248
+    title: >-
+        What are the main types of bias that can affect a study's results?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
+    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
 ---
 
 &nbsp;

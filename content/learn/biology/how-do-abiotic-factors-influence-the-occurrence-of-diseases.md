@@ -2,8 +2,10 @@
 _schema: default
 id: 165820
 date: 2025-01-29
-title: How do abiotic factors influence the occurrence of diseases?
-article_title: How do abiotic factors influence the occurrence of diseases?
+title: >-
+    How do abiotic factors influence the occurrence of diseases?
+article_title: >-
+    How do abiotic factors influence the occurrence of diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-abiotic-factors-influence-the-occurrence-of-diseases.md
 url: /learn/biology/questions/how-do-abiotic-factors-influence-the-occurrence-of-diseases
 score: -1.0
 related_article1:
-    id: 165809
-    title: What are the key advancements in genomics that have impacted scientific techniques?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
-related_article2:
-    id: 165821
-    title: Explain the concept of a natural focus of disease.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
-related_article3:
-    id: 165805
-    title: How do classification systems contribute to the organization of biological diversity?
-    subject: Biology
-    url: /learn/biology/questions/how-do-classification-systems-contribute-to-the-organization-of-biological-diversity
-related_article4:
-    id: 165818
-    title: Differentiate between endoparasites and ectoparasites.
-    subject: Biology
-    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
-related_article5:
     id: 165808
-    title: Provide an example of taxonomic classification for a specific organism.
+    title: >-
+        Provide an example of taxonomic classification for a specific organism.
     subject: Biology
     url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+related_article2:
+    id: 165811
+    title: >-
+        What is the importance of DNA sequences in molecular taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
+related_article3:
+    id: 165815
+    title: >-
+        Describe the concept of epidemiology in the context of parasite ecology.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
+related_article4:
+    id: 165809
+    title: >-
+        What are the key advancements in genomics that have impacted scientific techniques?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
+related_article5:
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 ---
 
 &nbsp;

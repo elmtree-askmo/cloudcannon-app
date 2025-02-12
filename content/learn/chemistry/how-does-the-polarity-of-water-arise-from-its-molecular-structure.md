@@ -2,8 +2,10 @@
 _schema: default
 id: 167142
 date: 2025-01-31
-title: How does the polarity of water arise from its molecular structure?
-article_title: How does the polarity of water arise from its molecular structure?
+title: >-
+    How does the polarity of water arise from its molecular structure?
+article_title: >-
+    How does the polarity of water arise from its molecular structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-the-polarity-of-water-arise-from-its-molecular-structure.md
 url: /learn/chemistry/questions/how-does-the-polarity-of-water-arise-from-its-molecular-structure
 score: -1.0
 related_article1:
-    id: 167150
-    title: What are the implications of ice's lower density for aquatic ecosystems?
+    id: 167154
+    title: >-
+        How does water contribute to climate regulation through oceanic heat sinks?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-implications-of-ices-lower-density-for-aquatic-ecosystems
+    url: /learn/chemistry/questions/how-does-water-contribute-to-climate-regulation-through-oceanic-heat-sinks
 related_article2:
-    id: 167152
-    title: What role does evaporation play in the cooling effect of sweating?
+    id: 167149
+    title: >-
+        How does the crystalline structure of ice affect its density compared to liquid water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-does-evaporation-play-in-the-cooling-effect-of-sweating
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 related_article3:
-    id: 167153
-    title: Why is water essential for sustaining life on Earth?
+    id: 167148
+    title: >-
+        What is the difference between hydrophilic and hydrophobic substances in relation to water?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-water-essential-for-sustaining-life-on-earth
+    url: /learn/chemistry/questions/what-is-the-difference-between-hydrophilic-and-hydrophobic-substances-in-relation-to-water
 related_article4:
-    id: 167155
-    title: What was Cavendish's contribution to the understanding of water's composition?
+    id: 167149
+    title: >-
+        How does the crystalline structure of ice affect its density compared to liquid water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-was-cavendishs-contribution-to-the-understanding-of-waters-composition
-related_article5:
-    id: 167144
-    title: Why are hydrogen bonds important for the properties of water such as cohesion and adhesion?
-    subject: Chemistry
-    url: /learn/chemistry/questions/why-are-hydrogen-bonds-important-for-the-properties-of-water-such-as-cohesion-and-adhesion
+    url: /learn/chemistry/questions/how-does-the-crystalline-structure-of-ice-affect-its-density-compared-to-liquid-water
 ---
 
 &nbsp;

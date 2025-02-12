@@ -2,8 +2,10 @@
 _schema: default
 id: 162340
 date: 2025-01-25
-title: What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
-article_title: What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
+title: >-
+    What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
+article_title: >-
+    What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-policy-shifts-occurred-in-response-to-the-recognition-of-social-
 url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
 score: -1.0
 related_article1:
+    id: 162341
+    title: >-
+        What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
+related_article2:
+    id: 162318
+    title: >-
+        How did Edward Playter influence sanitary reforms in the late 19th century?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
+related_article3:
+    id: 162343
+    title: >-
+        What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
+related_article4:
+    id: 162345
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
+related_article5:
     id: 162334
-    title: How did the Great Depression affect public health funding and services in the 1930s?
+    title: >-
+        How did the Great Depression affect public health funding and services in the 1930s?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
-related_article2:
-    id: 162351
-    title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
-related_article3:
-    id: 162323
-    title: What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
-related_article4:
-    id: 162348
-    title: How did the 1985 Non-Smokers Health Act address smoking prohibition in federal buildings and workplaces?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-1985-nonsmokers-health-act-address-smoking-prohibition-in-federal-buildings-and-workplaces
-related_article5:
-    id: 162349
-    title: What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
 ---
 
 &nbsp;

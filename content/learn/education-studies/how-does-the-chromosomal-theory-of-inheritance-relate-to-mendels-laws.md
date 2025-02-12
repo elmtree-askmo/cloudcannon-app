@@ -2,8 +2,10 @@
 _schema: default
 id: 167770
 date: 2025-02-01
-title: How does the chromosomal theory of inheritance relate to Mendel's laws?
-article_title: How does the chromosomal theory of inheritance relate to Mendel's laws?
+title: >-
+    How does the chromosomal theory of inheritance relate to Mendel's laws?
+article_title: >-
+    How does the chromosomal theory of inheritance relate to Mendel's laws?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-chromosomal-theory-of-inheritance-relate-to-mendels-laws
 url: /learn/education-studies/questions/how-does-the-chromosomal-theory-of-inheritance-relate-to-mendels-laws
 score: -1.0
 related_article1:
-    id: 167779
-    title: What is the difference between Mendelian and non-Mendelian inheritance patterns?
+    id: 167778
+    title: >-
+        How does the process of meiosis ensure the correct distribution of genetic material?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-mendelian-and-nonmendelian-inheritance-patterns
+    url: /learn/education-studies/questions/how-does-the-process-of-meiosis-ensure-the-correct-distribution-of-genetic-material
 related_article2:
-    id: 167771
-    title: What is the role of homologous chromosomes in genetic inheritance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-homologous-chromosomes-in-genetic-inheritance
-related_article3:
-    id: 167773
-    title: How do Punnett squares help predict the outcomes of genetic crosses?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-punnett-squares-help-predict-the-outcomes-of-genetic-crosses
-related_article4:
-    id: 167777
-    title: What are the key stages of meiosis, and how do they contribute to genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-stages-of-meiosis-and-how-do-they-contribute-to-genetic-variation
-related_article5:
     id: 167769
-    title: What are the differences between phenotypic and genotypic ratios in genetic crosses?
+    title: >-
+        What are the differences between phenotypic and genotypic ratios in genetic crosses?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-differences-between-phenotypic-and-genotypic-ratios-in-genetic-crosses
+related_article3:
+    id: 167774
+    title: >-
+        What is the product rule in probability, and how is it applied in genetics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-product-rule-in-probability-and-how-is-it-applied-in-genetics
+related_article4:
+    id: 167771
+    title: >-
+        What is the role of homologous chromosomes in genetic inheritance?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-homologous-chromosomes-in-genetic-inheritance
+related_article5:
+    id: 167780
+    title: >-
+        How do linkage and crossing over affect genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-linkage-and-crossing-over-affect-genetic-variation
 ---
 
 &nbsp;

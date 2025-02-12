@@ -2,8 +2,10 @@
 _schema: default
 id: 167341
 date: 2025-01-31
-title: What is the primary cause of ocean acidification?
-article_title: What is the primary cause of ocean acidification?
+title: >-
+    What is the primary cause of ocean acidification?
+article_title: >-
+    What is the primary cause of ocean acidification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-cause-of-ocean-acidification.md
 url: /learn/marine-biology/questions/what-is-the-primary-cause-of-ocean-acidification
 score: -1.0
 related_article1:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
-related_article2:
-    id: 167353
-    title: Why are phytoplankton and zooplankton crucial to oceanic food chains?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains
-related_article3:
-    id: 167347
-    title: What are the key research methodologies used by NOAA to study ocean acidification?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
-related_article4:
     id: 167342
-    title: How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
+    title: >-
+        How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-does-the-absorption-of-carbon-dioxide-lead-to-changes-in-the-ph-scale-of-ocean-water
-related_article5:
-    id: 167353
-    title: Why are phytoplankton and zooplankton crucial to oceanic food chains?
+related_article2:
+    id: 167351
+    title: >-
+        What are the predicted changes in future pH levels based on different emission scenarios?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains
+    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
+related_article3:
+    id: 167345
+    title: >-
+        What role do marine terrapods play in marine ecosystems?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
+related_article4:
+    id: 167343
+    title: >-
+        What are the effects of decreased pH levels on ocean chemistry?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
+related_article5:
+    id: 167344
+    title: >-
+        How does ocean acidification affect the availability of calcium carbonate for marine organisms?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-affect-the-availability-of-calcium-carbonate-for-marine-organisms
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169519
 date: 2025-02-05
-title: Why has there been an increasing focus on diastolic blood pressure in recent trends?
-article_title: Why has there been an increasing focus on diastolic blood pressure in recent trends?
+title: >-
+    Why has there been an increasing focus on diastolic blood pressure in recent trends?
+article_title: >-
+    Why has there been an increasing focus on diastolic blood pressure in recent trends?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in
 url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
 score: -1.0
 related_article1:
-    id: 169521
-    title: How do age-related changes affect misconceptions about normal blood pressure ranges?
+    id: 169524
+    title: >-
+        What are the differences between manual and automated blood pressure monitoring devices?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
+    url: /learn/nursing/questions/what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices
 related_article2:
-    id: 169532
-    title: What are the phases of Korotkoff sounds, and why are they clinically significant?
+    id: 169518
+    title: >-
+        What is the difference between systolic and diastolic blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
 related_article3:
     id: 169536
-    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    title: >-
+        What are the neural and hormonal controls involved in blood pressure regulation?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
 related_article4:
-    id: 169517
-    title: How does proper cuff sizing affect blood pressure measurement accuracy?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
-related_article5:
     id: 169530
-    title: What is the auscultatory method of manual blood pressure measurement?
+    title: >-
+        What is the auscultatory method of manual blood pressure measurement?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-auscultatory-method-of-manual-blood-pressure-measurement
+related_article5:
+    id: 169525
+    title: >-
+        Why is proper technique crucial for the accuracy and reliability of blood pressure monitoring devices?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-proper-technique-crucial-for-the-accuracy-and-reliability-of-blood-pressure-monitoring-devices
 ---
 
 &nbsp;

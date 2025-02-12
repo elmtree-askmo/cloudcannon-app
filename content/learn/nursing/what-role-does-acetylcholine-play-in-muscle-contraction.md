@@ -2,8 +2,10 @@
 _schema: default
 id: 170504
 date: 2025-02-06
-title: What role does acetylcholine play in muscle contraction?
-article_title: What role does acetylcholine play in muscle contraction?
+title: >-
+    What role does acetylcholine play in muscle contraction?
+article_title: >-
+    What role does acetylcholine play in muscle contraction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-acetylcholine-play-in-muscle-contraction.md
 url: /learn/nursing/questions/what-role-does-acetylcholine-play-in-muscle-contraction
 score: -1.0
 related_article1:
-    id: 170519
-    title: How does sympathetic activation influence metabolic rate and energy expenditure?
+    id: 170508
+    title: >-
+        What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-sympathetic-activation-influence-metabolic-rate-and-energy-expenditure
+    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
 related_article2:
-    id: 170517
-    title: In what ways does hormonal regulation interact with the nervous system to affect metabolic rate?
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
     subject: Nursing
-    url: /learn/nursing/questions/in-what-ways-does-hormonal-regulation-interact-with-the-nervous-system-to-affect-metabolic-rate
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 related_article3:
-    id: 170516
-    title: How does the adrenal medulla contribute to the stress response through the release of catecholamines?
+    id: 170520
+    title: >-
+        What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-adrenal-medulla-contribute-to-the-stress-response-through-the-release-of-catecholamines
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
 related_article4:
-    id: 170503
-    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
+    id: 170505
+    title: >-
+        How do catecholamines like epinephrine and norepinephrine affect body systems?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
+    url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
 related_article5:
-    id: 170521
-    title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+    id: 170512
+    title: >-
+        What mechanisms regulate heart rate in cardiac muscle under involuntary control?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
+    url: /learn/nursing/questions/what-mechanisms-regulate-heart-rate-in-cardiac-muscle-under-involuntary-control
 ---
 
 &nbsp;

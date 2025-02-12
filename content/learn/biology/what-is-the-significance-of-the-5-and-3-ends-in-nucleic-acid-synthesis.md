@@ -2,8 +2,10 @@
 _schema: default
 id: 166875
 date: 2025-01-31
-title: What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
-article_title: What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+title: >-
+    What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+article_title: >-
+    What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesi
 url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
 score: -1.0
 related_article1:
-    id: 166866
-    title: Where are DNA and RNA located within eukaryotic and prokaryotic cells?
-    subject: Biology
-    url: /learn/biology/questions/where-are-dna-and-rna-located-within-eukaryotic-and-prokaryotic-cells
-related_article2:
     id: 166879
-    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    title: >-
+        Explain the central dogma of life and its significance in gene expression and cellular function.
     subject: Biology
     url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
+related_article2:
+    id: 166865
+    title: >-
+        What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
 related_article3:
-    id: 166868
-    title: Describe the components of a nucleotide and explain the significance of the sugar carbon numbering system.
+    id: 166873
+    title: >-
+        What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
     subject: Biology
-    url: /learn/biology/questions/describe-the-components-of-a-nucleotide-and-explain-the-significance-of-the-sugar-carbon-numbering-system
+    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
 related_article4:
-    id: 166871
-    title: What are Chargoff’s rules, and how do they apply to DNA base pairing?
+    id: 166874
+    title: >-
+        Describe the antiparallel orientation of DNA strands and its implications for DNA function.
     subject: Biology
-    url: /learn/biology/questions/what-are-chargoffs-rules-and-how-do-they-apply-to-dna-base-pairing
+    url: /learn/biology/questions/describe-the-antiparallel-orientation-of-dna-strands-and-its-implications-for-dna-function
 related_article5:
-    id: 166869
-    title: How do phosphodiester bonds form, and what is their role in the structure of nucleic acids?
+    id: 166865
+    title: >-
+        What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
     subject: Biology
-    url: /learn/biology/questions/how-do-phosphodiester-bonds-form-and-what-is-their-role-in-the-structure-of-nucleic-acids
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
 ---
 
 &nbsp;

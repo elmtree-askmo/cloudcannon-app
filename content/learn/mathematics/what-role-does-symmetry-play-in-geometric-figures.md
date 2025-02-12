@@ -2,8 +2,10 @@
 _schema: default
 id: 162897
 date: 2025-01-25
-title: What role does symmetry play in geometric figures?
-article_title: What role does symmetry play in geometric figures?
+title: >-
+    What role does symmetry play in geometric figures?
+article_title: >-
+    What role does symmetry play in geometric figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-symmetry-play-in-geometric-figures.md
 url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
 score: -1.0
 related_article1:
-    id: 162509
-    title: How do reflections preserve congruence between figures?
+    id: 162887
+    title: >-
+        How is a reflection defined in geometric terms?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+    url: /learn/mathematics/questions/how-is-a-reflection-defined-in-geometric-terms
 related_article2:
-    id: 162808
-    title: How can symmetry be identified in geometric figures?
+    id: 162399
+    title: >-
+        How are triangles affected by reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-symmetry-be-identified-in-geometric-figures
+    url: /learn/mathematics/questions/how-are-triangles-affected-by-reflections
 related_article3:
-    id: 162389
-    title: What happens to the orientation of a figure after a reflection?
+    id: 162758
+    title: >-
+        How can one visualize reflections in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-happens-to-the-orientation-of-a-figure-after-a-reflection
+    url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
 related_article4:
-    id: 162687
-    title: What is vertical symmetry in the context of reflections?
+    id: 162405
+    title: >-
+        How can one visualize reflections in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
+    url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
 related_article5:
-    id: 162810
-    title: How do reflections maintain the size and shape of geometric figures?
+    id: 162507
+    title: >-
+        What is the line of reflection in a reflection transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-maintain-the-size-and-shape-of-geometric-figures
+    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
 ---
 
 &nbsp;

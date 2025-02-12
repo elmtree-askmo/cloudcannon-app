@@ -2,8 +2,10 @@
 _schema: default
 id: 170640
 date: 2025-02-06
-title: How does civic engagement contribute to personal growth and social awareness?
-article_title: How does civic engagement contribute to personal growth and social awareness?
+title: >-
+    How does civic engagement contribute to personal growth and social awareness?
+article_title: >-
+    How does civic engagement contribute to personal growth and social awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-civic-engagement-contribute-to-personal-growth-and-social-aw
 url: /learn/education-studies/questions/how-does-civic-engagement-contribute-to-personal-growth-and-social-awareness
 score: -1.0
 related_article1:
+    id: 170648
+    title: >-
+        What is the impact of emotional regulation on academic performance and stress management?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-impact-of-emotional-regulation-on-academic-performance-and-stress-management
+related_article2:
+    id: 170657
+    title: >-
+        What are the challenges and opportunities associated with technology integration in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-challenges-and-opportunities-associated-with-technology-integration-in-education
+related_article3:
     id: 170636
-    title: Why is prioritizing tasks crucial for effective time management?
+    title: >-
+        Why is prioritizing tasks crucial for effective time management?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-prioritizing-tasks-crucial-for-effective-time-management
-related_article2:
+related_article4:
+    id: 170644
+    title: >-
+        How do learning management systems enhance engagement in digital education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-learning-management-systems-enhance-engagement-in-digital-education
+related_article5:
     id: 170661
-    title: Why is mental health support crucial for well-being in education?
+    title: >-
+        Why is mental health support crucial for well-being in education?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-mental-health-support-crucial-for-wellbeing-in-education
-related_article3:
-    id: 170643
-    title: What are the key differences between qualitative and quantitative research methods?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-qualitative-and-quantitative-research-methods
-related_article4:
-    id: 170634
-    title: What are the main emotional factors that contribute to procrastination?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-emotional-factors-that-contribute-to-procrastination
-related_article5:
-    id: 170639
-    title: What is incremental learning and how does it enhance student success?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incremental-learning-and-how-does-it-enhance-student-success
 ---
 
 &nbsp;

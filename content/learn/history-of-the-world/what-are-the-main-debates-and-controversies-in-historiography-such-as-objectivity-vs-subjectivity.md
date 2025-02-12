@@ -2,8 +2,10 @@
 _schema: default
 id: 166234
 date: 2025-01-29
-title: What are the main debates and controversies in historiography, such as objectivity vs. subjectivity?
-article_title: What are the main debates and controversies in historiography, such as objectivity vs. subjectivity?
+title: >-
+    What are the main debates and controversies in historiography, such as objectivity vs. subjectivity?
+article_title: >-
+    What are the main debates and controversies in historiography, such as objectivity vs. subjectivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-debates-and-controversies-in-historiography-such-as
 url: /learn/history-of-the-world/questions/what-are-the-main-debates-and-controversies-in-historiography-such-as-objectivity-vs-subjectivity
 score: 9.0
 related_article1:
-    id: 166215
-    title: What are the primary benefits of using iClicker technology in educational settings?
+    id: 166224
+    title: >-
+        How does sustainable development integrate economic considerations into environmental sustainability?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
+    url: /learn/history-of-the-world/questions/how-does-sustainable-development-integrate-economic-considerations-into-environmental-sustainability
 related_article2:
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
+related_article3:
     id: 166223
-    title: What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
+    title: >-
+        What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
-related_article3:
-    id: 166225
-    title: What are the main components of physical health that contribute to overall well-being?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
 related_article4:
+    id: 166230
+    title: >-
+        How do qualitative and quantitative research methods differ in social sciences?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+related_article5:
     id: 166227
-    title: What are the primary types of historical evidence, and how are they evaluated for reliability?
+    title: >-
+        What are the primary types of historical evidence, and how are they evaluated for reliability?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
-related_article5:
-    id: 166225
-    title: What are the main components of physical health that contribute to overall well-being?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
 ---
 
 &nbsp;

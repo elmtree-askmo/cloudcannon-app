@@ -2,8 +2,10 @@
 _schema: default
 id: 168483
 date: 2025-02-03
-title: What are the main types of mechanical systems used in construction, and how do they differ?
-article_title: What are the main types of mechanical systems used in construction, and how do they differ?
+title: >-
+    What are the main types of mechanical systems used in construction, and how do they differ?
+article_title: >-
+    What are the main types of mechanical systems used in construction, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-mechanical-systems-used-in-construction-an
 url: /learn/education-studies/questions/what-are-the-main-types-of-mechanical-systems-used-in-construction-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 168482
-    title: Why is technical communication important in the architecture and construction industries?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-technical-communication-important-in-the-architecture-and-construction-industries
-related_article2:
-    id: 168484
-    title: What are the key components of effective safety training in the construction industry?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
-related_article3:
-    id: 168485
-    title: How does vocational education contribute to career development in architecture and construction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
-related_article4:
     id: 168472
-    title: What are the primary responsibilities of architects in the design and planning process?
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
-related_article5:
+related_article2:
+    id: 168472
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
+related_article3:
     id: 168484
-    title: What are the key components of effective safety training in the construction industry?
+    title: >-
+        What are the key components of effective safety training in the construction industry?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
+related_article4:
+    id: 168485
+    title: >-
+        How does vocational education contribute to career development in architecture and construction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
+related_article5:
+    id: 168479
+    title: >-
+        How do zoning laws impact construction projects and what legal considerations must be taken into account?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
 ---
 
 &nbsp;

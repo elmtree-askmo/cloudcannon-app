@@ -2,8 +2,10 @@
 _schema: default
 id: 161791
 date: 2025-01-24
-title: What is the role of carbohydrates and lipids in energy storage?
-article_title: What is the role of carbohydrates and lipids in energy storage?
+title: >-
+    What is the role of carbohydrates and lipids in energy storage?
+article_title: >-
+    What is the role of carbohydrates and lipids in energy storage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage.md
 url: /learn/education-studies/questions/what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage
 score: -1.0
 related_article1:
-    id: 161789
-    title: Why are functional groups important in determining the chemical properties of biological molecules?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-are-functional-groups-important-in-determining-the-chemical-properties-of-biological-molecules
-related_article2:
-    id: 161786
-    title: What are the primary functions of proteins in biological systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-functions-of-proteins-in-biological-systems
-related_article3:
-    id: 161794
-    title: How does molecular structure facilitate function in biological molecules?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
-related_article4:
-    id: 161796
-    title: How do enzymes function as catalysts in biological processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
-related_article5:
     id: 161787
-    title: How do the structures of DNA and RNA differ, and what are their respective functions?
+    title: >-
+        How do the structures of DNA and RNA differ, and what are their respective functions?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
+related_article2:
+    id: 161797
+    title: >-
+        What is the importance of transport proteins in membrane transport?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-transport-proteins-in-membrane-transport
+related_article3:
+    id: 161788
+    title: >-
+        What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
+related_article4:
+    id: 161784
+    title: >-
+        What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
+related_article5:
+    id: 161796
+    title: >-
+        How do enzymes function as catalysts in biological processes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
 ---
 
 &nbsp;

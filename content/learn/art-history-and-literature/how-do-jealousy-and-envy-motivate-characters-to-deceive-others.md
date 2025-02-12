@@ -2,8 +2,10 @@
 _schema: default
 id: 168267
 date: 2025-02-03
-title: How do jealousy and envy motivate characters to deceive others?
-article_title: How do jealousy and envy motivate characters to deceive others?
+title: >-
+    How do jealousy and envy motivate characters to deceive others?
+article_title: >-
+    How do jealousy and envy motivate characters to deceive others?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-jealousy-and-envy-motivate-characters-to-deceive-others.md
 url: /learn/art-history-and-literature/questions/how-do-jealousy-and-envy-motivate-characters-to-deceive-others
 score: 9.0
 related_article1:
-    id: 168254
-    title: What role does Don John's deception play in creating conflict?
+    id: 168266
+    title: >-
+        What are the effects of miscommunication on dialogue and resolution in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-don-johns-deception-play-in-creating-conflict
+    url: /learn/art-history-and-literature/questions/what-are-the-effects-of-miscommunication-on-dialogue-and-resolution-in-literature
 related_article2:
     id: 168251
-    title: How does language blur the line between reality and perception?
+    title: >-
+        How does language blur the line between reality and perception?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-language-blur-the-line-between-reality-and-perception
 related_article3:
+    id: 168263
+    title: >-
+        How does language shape perception and reality in society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
+related_article4:
+    id: 168253
+    title: >-
+        How does jealousy contribute to deception in literature?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-jealousy-contribute-to-deception-in-literature
+related_article5:
     id: 168255
-    title: How does Shakespeare explore human nature through the theme of jealousy?
+    title: >-
+        How does Shakespeare explore human nature through the theme of jealousy?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-shakespeare-explore-human-nature-through-the-theme-of-jealousy
-related_article4:
-    id: 168252
-    title: In what ways can language manipulation lead to misperception in relationships?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
-related_article5:
-    id: 168257
-    title: What are Don John's motivations and how do they impact other characters?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-don-johns-motivations-and-how-do-they-impact-other-characters
 ---
 
 &nbsp;

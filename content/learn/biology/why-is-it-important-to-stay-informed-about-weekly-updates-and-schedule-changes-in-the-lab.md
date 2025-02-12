@@ -2,8 +2,10 @@
 _schema: default
 id: 163368
 date: 2025-01-26
-title: Why is it important to stay informed about weekly updates and schedule changes in the lab?
-article_title: Why is it important to stay informed about weekly updates and schedule changes in the lab?
+title: >-
+    Why is it important to stay informed about weekly updates and schedule changes in the lab?
+article_title: >-
+    Why is it important to stay informed about weekly updates and schedule changes in the lab?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-it-important-to-stay-informed-about-weekly-updates-and-schedul
 url: /learn/biology/questions/why-is-it-important-to-stay-informed-about-weekly-updates-and-schedule-changes-in-the-lab
 score: -1.0
 related_article1:
-    id: 163360
-    title: How can the scientific method handout be utilized effectively in lab settings?
+    id: 163359
+    title: >-
+        What are the steps of the scientific method and how are they applied in experiments?
     subject: Biology
-    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+    url: /learn/biology/questions/what-are-the-steps-of-the-scientific-method-and-how-are-they-applied-in-experiments
 related_article2:
+    id: 163365
+    title: >-
+        What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+related_article3:
+    id: 163369
+    title: >-
+        What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article4:
     id: 163366
-    title: How can students effectively prepare for and review lab modules?
+    title: >-
+        How can students effectively prepare for and review lab modules?
     subject: Biology
     url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
-related_article3:
-    id: 163358
-    title: List the types of personal protective equipment (PPE) and describe their proper usage.
-    subject: Biology
-    url: /learn/biology/questions/list-the-types-of-personal-protective-equipment-ppe-and-describe-their-proper-usage
-related_article4:
-    id: 163367
-    title: What are the primary communication channels for lab announcements and updates?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
-related_article5:
-    id: 163357
-    title: What are the key safety protocols that must be followed in the lab?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-safety-protocols-that-must-be-followed-in-the-lab
 ---
 
 &nbsp;

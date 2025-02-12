@@ -2,8 +2,10 @@
 _schema: default
 id: 163891
 date: 2025-01-28
-title: How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
-article_title: How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
+title: >-
+    How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
+article_title: >-
+    How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-female-heroes-in-greek-mythology-differ-from-their-male-counte
 url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
 score: 8.5
 related_article1:
-    id: 163894
-    title: How did the oral tradition contribute to the transmission of Greek myths?
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article2:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article3:
-    id: 163905
-    title: How have Greek myths been preserved and evolved over time through storytelling traditions?
+    id: 163895
+    title: >-
+        What role did bards play in the preservation and dissemination of Greek myths?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
+    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
 related_article4:
-    id: 163906
-    title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
+    id: 163904
+    title: >-
+        In what ways did Greek myths influence the values and beliefs of ancient Greek society?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
 related_article5:
     id: 163901
-    title: How do character epithets function within Greek mythology, and why are they significant?
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 ---

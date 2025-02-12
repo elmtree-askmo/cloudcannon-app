@@ -2,8 +2,10 @@
 _schema: default
 id: 164182
 date: 2025-01-28
-title: What is the purpose of statistical measures in descriptive analysis?
-article_title: What is the purpose of statistical measures in descriptive analysis?
+title: >-
+    What is the purpose of statistical measures in descriptive analysis?
+article_title: >-
+    What is the purpose of statistical measures in descriptive analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-desc
 score: -1.0
 related_article1:
     id: 164186
-    title: What are the challenges of multilingual processing in NLP?
+    title: >-
+        What are the challenges of multilingual processing in NLP?
     subject: Others
     url: /learn/others/questions/what-are-the-challenges-of-multilingual-processing-in-nlp
 related_article2:
-    id: 164167
-    title: Explain the significance of operating systems in software systems.
+    id: 164158
+    title: >-
+        Describe the role of data preprocessing in data training.
     subject: Others
-    url: /learn/others/questions/explain-the-significance-of-operating-systems-in-software-systems
+    url: /learn/others/questions/describe-the-role-of-data-preprocessing-in-data-training
 related_article3:
-    id: 164167
-    title: Explain the significance of operating systems in software systems.
-    subject: Others
-    url: /learn/others/questions/explain-the-significance-of-operating-systems-in-software-systems
-related_article4:
-    id: 164178
-    title: Describe a common use case for clustering in unsupervised learning.
-    subject: Others
-    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
-related_article5:
     id: 164157
-    title: What are the key considerations for ensuring data quality during data collection?
+    title: >-
+        What are the key considerations for ensuring data quality during data collection?
     subject: Others
     url: /learn/others/questions/what-are-the-key-considerations-for-ensuring-data-quality-during-data-collection
+related_article4:
+    id: 164168
+    title: >-
+        How does the Internet of Things (IoT) impact emerging technologies?
+    subject: Others
+    url: /learn/others/questions/how-does-the-internet-of-things-iot-impact-emerging-technologies
+related_article5:
+    id: 164178
+    title: >-
+        Describe a common use case for clustering in unsupervised learning.
+    subject: Others
+    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170981
 date: 2025-02-07
-title: What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
-article_title: What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
+title: >-
+    What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
+article_title: >-
+    What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers
 url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
 score: -1.0
 related_article1:
-    id: 170987
-    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    id: 170974
+    title: >-
+        What is the difference between favorable and unfavorable reactions in energy conversions?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
+    url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
 related_article2:
-    id: 170977
-    title: How do enzymes lower activation energy in reaction coupling?
+    id: 170990
+    title: >-
+        How are equilibrium constants calculated, and what do they indicate about delta G zero values?
     subject: Biology
-    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+    url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
 related_article3:
-    id: 170993
-    title: What role does phosphorylation play in active transport and muscle contraction?
+    id: 170992
+    title: >-
+        How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
+    url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
 related_article4:
-    id: 170993
-    title: What role does phosphorylation play in active transport and muscle contraction?
+    id: 170984
+    title: >-
+        Outline the sequential reactions and energy changes that occur during glycolysis.
     subject: Biology
-    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
+    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
 related_article5:
-    id: 170994
-    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    id: 170986
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
     subject: Biology
-    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
+    url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
 ---
 
 &nbsp;

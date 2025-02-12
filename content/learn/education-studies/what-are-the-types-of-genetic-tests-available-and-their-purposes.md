@@ -2,8 +2,10 @@
 _schema: default
 id: 167912
 date: 2025-02-01
-title: What are the types of genetic tests available and their purposes?
-article_title: What are the types of genetic tests available and their purposes?
+title: >-
+    What are the types of genetic tests available and their purposes?
+article_title: >-
+    What are the types of genetic tests available and their purposes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-types-of-genetic-tests-available-and-their-purposes.md
 url: /learn/education-studies/questions/what-are-the-types-of-genetic-tests-available-and-their-purposes
 score: -1.0
 related_article1:
-    id: 167911
-    title: How does the genotype-phenotype relationship explain the genetic basis of traits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-genotypephenotype-relationship-explain-the-genetic-basis-of-traits
-related_article2:
     id: 167900
-    title: What is the role of RNA polymerase in transcription?
+    title: >-
+        What is the role of RNA polymerase in transcription?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-rna-polymerase-in-transcription
+related_article2:
+    id: 167905
+    title: >-
+        What is the genetic cause of cystic fibrosis and how is it treated?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-genetic-cause-of-cystic-fibrosis-and-how-is-it-treated
 related_article3:
-    id: 167908
-    title: What is the role of concept maps in organizing genetic information?
+    id: 167911
+    title: >-
+        How does the genotype-phenotype relationship explain the genetic basis of traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-concept-maps-in-organizing-genetic-information
+    url: /learn/education-studies/questions/how-does-the-genotypephenotype-relationship-explain-the-genetic-basis-of-traits
 related_article4:
-    id: 167908
-    title: What is the role of concept maps in organizing genetic information?
+    id: 167909
+    title: >-
+        How can smart book technology enhance learning in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-concept-maps-in-organizing-genetic-information
+    url: /learn/education-studies/questions/how-can-smart-book-technology-enhance-learning-in-genetics
 related_article5:
-    id: 167895
-    title: How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
+    id: 167898
+    title: >-
+        Describe the stages of mitosis and its role in cellular growth.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
+    url: /learn/education-studies/questions/describe-the-stages-of-mitosis-and-its-role-in-cellular-growth
 ---
 
 &nbsp;

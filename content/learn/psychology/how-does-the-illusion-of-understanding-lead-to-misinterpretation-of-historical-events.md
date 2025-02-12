@@ -2,8 +2,10 @@
 _schema: default
 id: 168879
 date: 2025-02-04
-title: How does the illusion of understanding lead to misinterpretation of historical events?
-article_title: How does the illusion of understanding lead to misinterpretation of historical events?
+title: >-
+    How does the illusion of understanding lead to misinterpretation of historical events?
+article_title: >-
+    How does the illusion of understanding lead to misinterpretation of historical events?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-h
 url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
 score: -1.0
 related_article1:
-    id: 168888
-    title: What is the disposition effect and how does it affect investment decisions?
+    id: 168893
+    title: >-
+        How can behavioral economics influence public policy?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 related_article2:
-    id: 168893
-    title: How can behavioral economics influence public policy?
+    id: 168881
+    title: >-
+        Why are statistical predictions often more reliable than clinical predictions?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
 related_article3:
-    id: 168893
-    title: How can behavioral economics influence public policy?
+    id: 168885
+    title: >-
+        What role does overconfidence play in financial forecasting?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 related_article4:
-    id: 168878
-    title: What is the narrative fallacy and how does it affect our understanding of past events?
+    id: 168886
+    title: >-
+        Describe the premortem strategy and its purpose in decision-making.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
 related_article5:
-    id: 168889
-    title: How do framing effects influence decision outcomes?
+    id: 168885
+    title: >-
+        What role does overconfidence play in financial forecasting?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
+    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 ---
 
 &nbsp;

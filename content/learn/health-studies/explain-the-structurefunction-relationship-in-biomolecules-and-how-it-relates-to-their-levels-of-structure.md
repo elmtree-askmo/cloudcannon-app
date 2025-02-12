@@ -2,8 +2,10 @@
 _schema: default
 id: 168946
 date: 2025-02-04
-title: Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
-article_title: Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
+title: >-
+    Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
+article_title: >-
+    Explain the structure-function relationship in biomolecules and how it relates to their levels of structure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-structurefunction-relationship-in-biomolecules-and-how-it
 url: /learn/health-studies/questions/explain-the-structurefunction-relationship-in-biomolecules-and-how-it-relates-to-their-levels-of-structure
 score: -1.0
 related_article1:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
+    id: 168944
+    title: >-
+        What are the key functional groups found in biomolecules, and how do they influence molecular properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
+    url: /learn/health-studies/questions/what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-they-influence-molecular-properties
 related_article2:
     id: 168956
-    title: How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
+    title: >-
+        How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-specificity-and-saturation-in-this-context
 related_article3:
-    id: 168956
-    title: How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
+    id: 168954
+    title: >-
+        What factors influence membrane permeability, and how does phospholipid composition play a role?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-specificity-and-saturation-in-this-context
+    url: /learn/health-studies/questions/what-factors-influence-membrane-permeability-and-how-does-phospholipid-composition-play-a-role
 related_article4:
-    id: 168952
-    title: How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
+    id: 168950
+    title: >-
+        What are amphipathic molecules, and why are they important in membrane formation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-temperature-affect-membrane-fluidity-and-what-role-does-cholesterol-play-in-this-process
+    url: /learn/health-studies/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-formation
 related_article5:
-    id: 168948
-    title: Describe the structure and components of phospholipids and their role in membrane formation.
+    id: 168955
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-components-of-phospholipids-and-their-role-in-membrane-formation
+    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 ---
 
 &nbsp;

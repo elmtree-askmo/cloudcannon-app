@@ -2,8 +2,10 @@
 _schema: default
 id: 165582
 date: 2025-01-29
-title: What role do summary sheets play in memorization techniques?
-article_title: What role do summary sheets play in memorization techniques?
+title: >-
+    What role do summary sheets play in memorization techniques?
+article_title: >-
+    What role do summary sheets play in memorization techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-summary-sheets-play-in-memorization-techniques.md
 url: /learn/education-studies/questions/what-role-do-summary-sheets-play-in-memorization-techniques
 score: -1.0
 related_article1:
-    id: 165592
-    title: How do practice questions and application exercises reinforce information retention?
+    id: 165598
+    title: >-
+        What are the benefits of teaching others as a form of learning reinforcement?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-practice-questions-and-application-exercises-reinforce-information-retention
+    url: /learn/education-studies/questions/what-are-the-benefits-of-teaching-others-as-a-form-of-learning-reinforcement
 related_article2:
     id: 165576
-    title: What is the Pomodoro Technique, and how is it structured?
+    title: >-
+        What is the Pomodoro Technique, and how is it structured?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-pomodoro-technique-and-how-is-it-structured
 related_article3:
-    id: 165574
-    title: What are the advantages and disadvantages of studying at home versus public spaces?
+    id: 165585
+    title: >-
+        How does spaced repetition enhance memorization, and what tools can be used to implement it?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-studying-at-home-versus-public-spaces
+    url: /learn/education-studies/questions/how-does-spaced-repetition-enhance-memorization-and-what-tools-can-be-used-to-implement-it
 related_article4:
-    id: 165572
-    title: How does information organization contribute to active learning?
+    id: 165573
+    title: >-
+        What are some challenges associated with passive learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-information-organization-contribute-to-active-learning
+    url: /learn/education-studies/questions/what-are-some-challenges-associated-with-passive-learning
 related_article5:
-    id: 165575
-    title: How can group study dynamics enhance learning, and what is the optimal group size?
+    id: 165576
+    title: >-
+        What is the Pomodoro Technique, and how is it structured?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-group-study-dynamics-enhance-learning-and-what-is-the-optimal-group-size
+    url: /learn/education-studies/questions/what-is-the-pomodoro-technique-and-how-is-it-structured
 ---
 
 &nbsp;

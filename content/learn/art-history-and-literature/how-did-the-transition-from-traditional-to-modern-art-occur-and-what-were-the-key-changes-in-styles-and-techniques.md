@@ -2,8 +2,10 @@
 _schema: default
 id: 165961
 date: 2025-01-29
-title: How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
-article_title: How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
+title: >-
+    How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
+article_title: >-
+    How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-transition-from-traditional-to-modern-art-occur-and-what-
 url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 score: 9.0
 related_article1:
-    id: 165949
-    title: What were the goals of the Salon d’Automne, and who were its key organizers?
+    id: 165943
+    title: >-
+        What was the historical context behind the creation of the Salon des Refusés?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
+    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 related_article2:
+    id: 165940
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+related_article3:
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+related_article4:
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+related_article5:
     id: 165954
-    title: How did Cubism influence subsequent art movements?
+    title: >-
+        How did Cubism influence subsequent art movements?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
-related_article3:
-    id: 165955
-    title: What were the major 19th-century art movements, and how did they transition into 20th-century styles?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-major-19thcentury-art-movements-and-how-did-they-transition-into-20thcentury-styles
-related_article4:
-    id: 165946
-    title: How did the First Impressionist Exhibition influence the development of Impressionist techniques?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
-related_article5:
-    id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
 ---
 
 &nbsp;

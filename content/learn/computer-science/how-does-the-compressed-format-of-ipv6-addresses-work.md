@@ -2,8 +2,10 @@
 _schema: default
 id: 165761
 date: 2025-01-29
-title: How does the compressed format of IPv6 addresses work?
-article_title: How does the compressed format of IPv6 addresses work?
+title: >-
+    How does the compressed format of IPv6 addresses work?
+article_title: >-
+    How does the compressed format of IPv6 addresses work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-the-compressed-format-of-ipv6-addresses-work.md
 url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 score: -1.0
 related_article1:
-    id: 165749
-    title: What is the EUI-64 method in the context of IPv6 addressing?
+    id: 165739
+    title: >-
+        Explain the concept of dual stack in IPv4 and IPv6 coexistence.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
+    url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
 related_article2:
-    id: 165755
-    title: How does the dual stack technique facilitate IPv6 coexistence with IPv4?
+    id: 165754
+    title: >-
+        What are the characteristics of a Unique Local Address (ULA) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
 related_article3:
-    id: 165743
-    title: What is the recommended prefix length for IPv6 addresses and why?
+    id: 165744
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 related_article4:
-    id: 165742
-    title: Differentiate between unicast, multicast, and anycast IPv6 address types.
+    id: 165762
+    title: >-
+        What is the rule for omitting leading zeros in IPv6 address notation?
     subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
-related_article5:
-    id: 165740
-    title: How is an IPv6 address represented in terms of length and notation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
+    url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
 ---
 
 &nbsp;

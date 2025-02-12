@@ -2,8 +2,10 @@
 _schema: default
 id: 166733
 date: 2025-01-31
-title: What is the cross product of two vectors and what are its properties?
-article_title: What is the cross product of two vectors and what are its properties?
+title: >-
+    What is the cross product of two vectors and what are its properties?
+article_title: >-
+    What is the cross product of two vectors and what are its properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-cross-product-of-two-vectors-and-what-are-its-properties.
 url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
 score: -1.0
 related_article1:
-    id: 166729
-    title: How are vectors decomposed into components and what are the properties of vector addition and subtraction?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
-related_article2:
-    id: 166732
-    title: How is the projection of one vector onto another calculated using scalar products?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
-related_article3:
-    id: 166723
-    title: What conditions must be met for a system to be in mechanical equilibrium?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
-related_article4:
     id: 166726
-    title: What are the different types of forces and how do they affect the equilibrium of a system?
+    title: >-
+        What are the different types of forces and how do they affect the equilibrium of a system?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-different-types-of-forces-and-how-do-they-affect-the-equilibrium-of-a-system
-related_article5:
-    id: 166734
-    title: Explain the geometric interpretation of the mixed triple product.
+related_article2:
+    id: 166737
+    title: >-
+        What is angular momentum and how is it related to torque?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-geometric-interpretation-of-the-mixed-triple-product
+    url: /learn/education-studies/questions/what-is-angular-momentum-and-how-is-it-related-to-torque
+related_article3:
+    id: 166731
+    title: >-
+        Define the dot product and explain how it is used to calculate scalar products.
+    subject: Education Studies
+    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
+related_article4:
+    id: 166737
+    title: >-
+        What is angular momentum and how is it related to torque?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-angular-momentum-and-how-is-it-related-to-torque
+related_article5:
+    id: 166723
+    title: >-
+        What conditions must be met for a system to be in mechanical equilibrium?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
 ---
 
 &nbsp;

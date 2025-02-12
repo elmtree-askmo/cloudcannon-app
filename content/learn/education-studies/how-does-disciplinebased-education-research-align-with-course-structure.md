@@ -2,8 +2,10 @@
 _schema: default
 id: 166783
 date: 2025-01-31
-title: How does discipline-based education research align with course structure?
-article_title: How does discipline-based education research align with course structure?
+title: >-
+    How does discipline-based education research align with course structure?
+article_title: >-
+    How does discipline-based education research align with course structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-disciplinebased-education-research-align-with-course-structu
 url: /learn/education-studies/questions/how-does-disciplinebased-education-research-align-with-course-structure
 score: -1.0
 related_article1:
-    id: 166778
-    title: What are the main differences between bar graphs and line graphs?
+    id: 166780
+    title: >-
+        How can trends be identified in a graph?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-differences-between-bar-graphs-and-line-graphs
+    url: /learn/education-studies/questions/how-can-trends-be-identified-in-a-graph
 related_article2:
-    id: 166788
-    title: What are the key components of a pie chart, and how should they be interpreted?
+    id: 166779
+    title: >-
+        In what scenarios is a pie chart most effectively used?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-pie-chart-and-how-should-they-be-interpreted
+    url: /learn/education-studies/questions/in-what-scenarios-is-a-pie-chart-most-effectively-used
 related_article3:
-    id: 166790
-    title: What are the main components of a scatter plot, and how are they used to interpret data?
+    id: 166785
+    title: >-
+        What is the difference between short-term and long-term memory in cognitive science?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-a-scatter-plot-and-how-are-they-used-to-interpret-data
+    url: /learn/education-studies/questions/what-is-the-difference-between-shortterm-and-longterm-memory-in-cognitive-science
 related_article4:
-    id: 166790
-    title: What are the main components of a scatter plot, and how are they used to interpret data?
+    id: 166777
+    title: >-
+        What is the importance of analyzing the title of a graph?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-a-scatter-plot-and-how-are-they-used-to-interpret-data
+    url: /learn/education-studies/questions/what-is-the-importance-of-analyzing-the-title-of-a-graph
 related_article5:
-    id: 166787
-    title: When is it most appropriate to use a line graph?
+    id: 166785
+    title: >-
+        What is the difference between short-term and long-term memory in cognitive science?
     subject: Education Studies
-    url: /learn/education-studies/questions/when-is-it-most-appropriate-to-use-a-line-graph
+    url: /learn/education-studies/questions/what-is-the-difference-between-shortterm-and-longterm-memory-in-cognitive-science
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170891
 date: 2025-02-07
-title: What are the adaptive strategies in behavioral ecology?
-article_title: What are the adaptive strategies in behavioral ecology?
+title: >-
+    What are the adaptive strategies in behavioral ecology?
+article_title: >-
+    What are the adaptive strategies in behavioral ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-adaptive-strategies-in-behavioral-ecology.md
 url: /learn/psychology/questions/what-are-the-adaptive-strategies-in-behavioral-ecology
 score: -1.0
 related_article1:
-    id: 170889
-    title: What mechanisms drive the evolution of behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
-related_article2:
     id: 170890
-    title: How does energy expenditure relate to behavioral traits?
+    title: >-
+        How does energy expenditure relate to behavioral traits?
     subject: Psychology
     url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
+related_article2:
+    id: 170881
+    title: >-
+        How do internal and external stimuli influence behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-internal-and-external-stimuli-influence-behavior
 related_article3:
+    id: 170892
+    title: >-
+        How do mathematical models contribute to optimization in biological systems?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
+related_article4:
     id: 170884
-    title: What is the role of mathematical optimization in optimal behavior theory?
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
-related_article4:
-    id: 170889
-    title: What mechanisms drive the evolution of behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
 related_article5:
-    id: 170886
-    title: Explain the concept of the law of diminishing returns in the context of behavior.
+    id: 170888
+    title: >-
+        How do fitness trade-offs affect resource allocation in behavior?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+    url: /learn/psychology/questions/how-do-fitness-tradeoffs-affect-resource-allocation-in-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168850
 date: 2025-02-04
-title: Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
-article_title: Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
+title: >-
+    Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
+article_title: >-
+    Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-mechanism-of-the-sodiumpotassium-pump-and-its-importance
 url: /learn/health-studies/questions/describe-the-mechanism-of-the-sodiumpotassium-pump-and-its-importance-in-maintaining-cellular-homeostasis
 score: -1.0
 related_article1:
-    id: 168853
-    title: Define concentration gradient and explain its role in diffusion and cellular processes.
+    id: 168854
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
     subject: Health Studies
-    url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
+    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
 related_article2:
     id: 168844
-    title: Identify the types of disaccharides and describe the role of glycosidic bonds in their formation and breakdown.
+    title: >-
+        Identify the types of disaccharides and describe the role of glycosidic bonds in their formation and breakdown.
     subject: Health Studies
     url: /learn/health-studies/questions/identify-the-types-of-disaccharides-and-describe-the-role-of-glycosidic-bonds-in-their-formation-and-breakdown
 related_article3:
-    id: 168843
-    title: Explain the importance of hydrolysis in metabolism, particularly in energy release.
+    id: 168854
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-importance-of-hydrolysis-in-metabolism-particularly-in-energy-release
+    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
 related_article4:
-    id: 168847
-    title: What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
+    id: 168842
+    title: >-
+        What is hydrolysis and how does it contribute to the digestion process?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-membranebound-disaccharidases-and-how-do-they-function-in-the-digestion-of-disaccharides
+    url: /learn/health-studies/questions/what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-process
 related_article5:
-    id: 168855
-    title: Describe the role of maltase in the hydrolysis of maltose and its location in the body.
+    id: 168853
+    title: >-
+        Define concentration gradient and explain its role in diffusion and cellular processes.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-role-of-maltase-in-the-hydrolysis-of-maltose-and-its-location-in-the-body
+    url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
 ---
 
 &nbsp;

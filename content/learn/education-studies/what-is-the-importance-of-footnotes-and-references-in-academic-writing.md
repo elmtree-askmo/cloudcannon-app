@@ -2,8 +2,10 @@
 _schema: default
 id: 170036
 date: 2025-02-05
-title: What is the importance of footnotes and references in academic writing?
-article_title: What is the importance of footnotes and references in academic writing?
+title: >-
+    What is the importance of footnotes and references in academic writing?
+article_title: >-
+    What is the importance of footnotes and references in academic writing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-footnotes-and-references-in-academic-writin
 url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 score: -1.0
 related_article1:
-    id: 170034
-    title: How should quotations be incorporated into writing assignments to support arguments effectively?
+    id: 170043
+    title: >-
+        How did the role of women in food collection impact hunting and gathering societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
+    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
 related_article2:
     id: 170034
-    title: How should quotations be incorporated into writing assignments to support arguments effectively?
+    title: >-
+        How should quotations be incorporated into writing assignments to support arguments effectively?
     subject: Education Studies
     url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
 related_article3:
-    id: 170055
-    title: How did hunting and gathering practices influence the long-term ecological balance of ancient societies?
+    id: 170053
+    title: >-
+        What were the environmental impacts of resource use in ancient societies, and how do they compare to modern practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-hunting-and-gathering-practices-influence-the-longterm-ecological-balance-of-ancient-societies
+    url: /learn/education-studies/questions/what-were-the-environmental-impacts-of-resource-use-in-ancient-societies-and-how-do-they-compare-to-modern-practices
 related_article4:
-    id: 170044
-    title: What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
+    id: 170035
+    title: >-
+        What are the differences between online resources and print articles when citing sources in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-defines-the-paleolithic-era-and-what-were-the-key-characteristics-of-tool-technology-during-this-time
+    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
 related_article5:
-    id: 170043
-    title: How did the role of women in food collection impact hunting and gathering societies?
+    id: 170040
+    title: >-
+        What is the difference between quoting and paraphrasing when engaging with primary source documents?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162862
 date: 2025-01-25
-title: How is criminal negligence defined in the context of driving?
-article_title: How is criminal negligence defined in the context of driving?
+title: >-
+    How is criminal negligence defined in the context of driving?
+article_title: >-
+    How is criminal negligence defined in the context of driving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-criminal-negligence-defined-in-the-context-of-driving.md
 url: /learn/criminal-or-civil-law/questions/how-is-criminal-negligence-defined-in-the-context-of-driving
 score: -1.0
 related_article1:
-    id: 162867
-    title: Why is compliance with traffic regulations important, and what are common violations?
+    id: 162864
+    title: >-
+        How does moral blameworthiness differ from legal standards in driving cases?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
+    url: /learn/criminal-or-civil-law/questions/how-does-moral-blameworthiness-differ-from-legal-standards-in-driving-cases
 related_article2:
-    id: 162884
-    title: How is liability determined in traffic accidents, and what role does evidence play?
+    id: 162864
+    title: >-
+        How does moral blameworthiness differ from legal standards in driving cases?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-liability-determined-in-traffic-accidents-and-what-role-does-evidence-play
+    url: /learn/criminal-or-civil-law/questions/how-does-moral-blameworthiness-differ-from-legal-standards-in-driving-cases
 related_article3:
-    id: 162870
-    title: How is recklessness legally defined in traffic law, and what are its consequences?
+    id: 162883
+    title: >-
+        What are the fundamental principles of criminal law, and how do they apply to traffic law?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-recklessness-legally-defined-in-traffic-law-and-what-are-its-consequences
+    url: /learn/criminal-or-civil-law/questions/what-are-the-fundamental-principles-of-criminal-law-and-how-do-they-apply-to-traffic-law
 related_article4:
-    id: 162870
-    title: How is recklessness legally defined in traffic law, and what are its consequences?
+    id: 162881
+    title: >-
+        What are the common traffic offenses and their legal consequences?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-recklessness-legally-defined-in-traffic-law-and-what-are-its-consequences
+    url: /learn/criminal-or-civil-law/questions/what-are-the-common-traffic-offenses-and-their-legal-consequences
 related_article5:
-    id: 162860
-    title: What constitutes dangerous driving under the legal framework?
+    id: 162882
+    title: >-
+        How are legal standards of care applied in traffic law?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-dangerous-driving-under-the-legal-framework
+    url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168582
 date: 2025-02-03
-title: How are American ideals represented in seminal texts, and how have they evolved over time?
-article_title: How are American ideals represented in seminal texts, and how have they evolved over time?
+title: >-
+    How are American ideals represented in seminal texts, and how have they evolved over time?
+article_title: >-
+    How are American ideals represented in seminal texts, and how have they evolved over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-american-ideals-represented-in-seminal-texts-and-how-have-the
 url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
 score: 9.5
 related_article1:
-    id: 168584
-    title: How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
+    id: 168574
+    title: >-
+        How do allusions in historical texts enhance meaning and context?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
+    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
 related_article2:
-    id: 168567
-    title: What historical context surrounds the Gettysburg Address and its impact on American history?
+    id: 168569
+    title: >-
+        In what ways is the theme of freedom represented in seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-historical-context-surrounds-the-gettysburg-address-and-its-impact-on-american-history
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-the-theme-of-freedom-represented-in-seminal-documents
 related_article3:
     id: 168577
-    title: How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 related_article4:
-    id: 168573
-    title: What role does sentence structure play in influencing a reader's understanding of seminal documents?
+    id: 168576
+    title: >-
+        How do emotional appeals (pathos) impact the effectiveness of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
 related_article5:
-    id: 168581
-    title: What role have seminal documents played in shaping civil rights movements?
+    id: 168577
+    title: >-
+        How is credibility (ethos) established in seminal documents, and what role does it play in persuasion?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-have-seminal-documents-played-in-shaping-civil-rights-movements
+    url: /learn/art-history-and-literature/questions/how-is-credibility-ethos-established-in-seminal-documents-and-what-role-does-it-play-in-persuasion
 ---
 
 &nbsp;

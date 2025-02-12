@@ -2,8 +2,10 @@
 _schema: default
 id: 164507
 date: 2025-01-28
-title: What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
-article_title: What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
+title: >-
+    What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
+article_title: >-
+    What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-advantages-of-using-transcr
 score: -1.0
 related_article1:
     id: 164517
-    title: How do different brain imaging techniques compare in their application to cognitive neuroscience?
+    title: >-
+        How do different brain imaging techniques compare in their application to cognitive neuroscience?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
 related_article2:
-    id: 164521
-    title: What processes are involved in language comprehension, and how can aphasia impact these processes?
+    id: 164517
+    title: >-
+        How do different brain imaging techniques compare in their application to cognitive neuroscience?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-processes-are-involved-in-language-comprehension-and-how-can-aphasia-impact-these-processes
+    url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
 related_article3:
-    id: 164514
-    title: How does damage to anterior language regions impact syntax processing?
+    id: 164517
+    title: >-
+        How do different brain imaging techniques compare in their application to cognitive neuroscience?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
+    url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
 related_article4:
-    id: 164508
-    title: How does TMS contribute to understanding vision and motion detection?
+    id: 164518
+    title: >-
+        What are the defining characteristics of dyslexia, and how prevalent is it?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 related_article5:
-    id: 164520
-    title: What tools and techniques are used in cognitive assessment, and why are they important in language studies?
+    id: 164518
+    title: >-
+        What are the defining characteristics of dyslexia, and how prevalent is it?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 ---
 
 &nbsp;

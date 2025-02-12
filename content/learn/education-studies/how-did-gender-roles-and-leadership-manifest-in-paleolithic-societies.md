@@ -2,8 +2,10 @@
 _schema: default
 id: 170045
 date: 2025-02-05
-title: How did gender roles and leadership manifest in Paleolithic societies?
-article_title: How did gender roles and leadership manifest in Paleolithic societies?
+title: >-
+    How did gender roles and leadership manifest in Paleolithic societies?
+article_title: >-
+    How did gender roles and leadership manifest in Paleolithic societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-gender-roles-and-leadership-manifest-in-paleolithic-societies
 url: /learn/education-studies/questions/how-did-gender-roles-and-leadership-manifest-in-paleolithic-societies
 score: -1.0
 related_article1:
-    id: 170040
-    title: What is the difference between quoting and paraphrasing when engaging with primary source documents?
+    id: 170048
+    title: >-
+        What factors influenced population density in pre-agricultural societies, and how did these change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
+    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
 related_article2:
-    id: 170042
-    title: What are the characteristics of hunting and gathering societies in terms of population density and food resources?
+    id: 170051
+    title: >-
+        What contributions did women make to food production and child-rearing in ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
+    url: /learn/education-studies/questions/what-contributions-did-women-make-to-food-production-and-childrearing-in-ancient-societies
 related_article3:
+    id: 170052
+    title: >-
+        How did the evolution of tool technology impact daily life and societal development in ancient times?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-evolution-of-tool-technology-impact-daily-life-and-societal-development-in-ancient-times
+related_article4:
+    id: 170056
+    title: >-
+        What methods and approaches are used in historical anthropology to study ancient societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-and-approaches-are-used-in-historical-anthropology-to-study-ancient-societies
+related_article5:
     id: 170042
-    title: What are the characteristics of hunting and gathering societies in terms of population density and food resources?
+    title: >-
+        What are the characteristics of hunting and gathering societies in terms of population density and food resources?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
-related_article4:
-    id: 170039
-    title: Why are primary source documents important in historical assignments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-are-primary-source-documents-important-in-historical-assignments
-related_article5:
-    id: 170050
-    title: How did ancient societies manage resources to ensure sustainability and environmental balance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-ancient-societies-manage-resources-to-ensure-sustainability-and-environmental-balance
 ---
 
 &nbsp;

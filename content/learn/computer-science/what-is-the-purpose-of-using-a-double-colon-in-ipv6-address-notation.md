@@ -2,8 +2,10 @@
 _schema: default
 id: 165741
 date: 2025-01-29
-title: What is the purpose of using a double colon in IPv6 address notation?
-article_title: What is the purpose of using a double colon in IPv6 address notation?
+title: >-
+    What is the purpose of using a double colon in IPv6 address notation?
+article_title: >-
+    What is the purpose of using a double colon in IPv6 address notation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation.
 url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
 score: -1.0
 related_article1:
+    id: 165761
+    title: >-
+        How does the compressed format of IPv6 addresses work?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
+related_article2:
+    id: 165758
+    title: >-
+        How is static IPv6 address configuration performed on a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
+related_article3:
     id: 165744
-    title: Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
-related_article2:
-    id: 165740
-    title: How is an IPv6 address represented in terms of length and notation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-an-ipv6-address-represented-in-terms-of-length-and-notation
-related_article3:
-    id: 165750
-    title: What are solicited-node multicast addresses used for in IPv6?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-solicitednode-multicast-addresses-used-for-in-ipv6
 related_article4:
+    id: 165738
+    title: >-
+        What are the primary reasons for the transition from IPv4 to IPv6?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-reasons-for-the-transition-from-ipv4-to-ipv6
+related_article5:
     id: 165762
-    title: What is the rule for omitting leading zeros in IPv6 address notation?
+    title: >-
+        What is the rule for omitting leading zeros in IPv6 address notation?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
-related_article5:
-    id: 165749
-    title: What is the EUI-64 method in the context of IPv6 addressing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
 ---
 
 &nbsp;

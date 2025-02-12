@@ -2,8 +2,10 @@
 _schema: default
 id: 160687
 date: 2025-01-24
-title: What is the role of memory consolidation in learning?
-article_title: What is the role of memory consolidation in learning?
+title: >-
+    What is the role of memory consolidation in learning?
+article_title: >-
+    What is the role of memory consolidation in learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-role-of-memory-consolidation-in-learning.md
 url: /learn/education-studies/questions/what-is-the-role-of-memory-consolidation-in-learning
 score: -1.0
 related_article1:
-    id: 160672
-    title: How does immersive practice aid in language learning?
+    id: 160668
+    title: >-
+        How can reflective practices improve metacognitive skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-immersive-practice-aid-in-language-learning
+    url: /learn/education-studies/questions/how-can-reflective-practices-improve-metacognitive-skills
 related_article2:
-    id: 160674
-    title: How can journaling be used as a technique for reflective writing?
+    id: 160668
+    title: >-
+        How can reflective practices improve metacognitive skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-journaling-be-used-as-a-technique-for-reflective-writing
+    url: /learn/education-studies/questions/how-can-reflective-practices-improve-metacognitive-skills
 related_article3:
-    id: 160669
-    title: What are the main elements of critical thinking?
+    id: 160690
+    title: >-
+        How have educational institutions evolved from traditional to modern education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-elements-of-critical-thinking
+    url: /learn/education-studies/questions/how-have-educational-institutions-evolved-from-traditional-to-modern-education
 related_article4:
     id: 160658
-    title: What are the key benefits of effective time management in an academic setting?
+    title: >-
+        What are the key benefits of effective time management in an academic setting?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-benefits-of-effective-time-management-in-an-academic-setting
 related_article5:
     id: 160684
-    title: How can educational research inform teaching practices?
+    title: >-
+        How can educational research inform teaching practices?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-educational-research-inform-teaching-practices
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 165991
 date: 2025-01-29
-title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
-article_title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+title: >-
+    How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+article_title: >-
+    How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-communication-technologies-advanced-in-recent-years-and-what
 url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
 score: -1.0
 related_article1:
-    id: 165986
-    title: What are the characteristics of post-industrial economic diversification?
+    id: 165988
+    title: >-
+        What are the modern implications of neocolonial practices in terms of economic influence?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
+    url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
 related_article2:
-    id: 165992
-    title: In what ways do media and entertainment influence cultural connectivity on a global scale?
+    id: 165988
+    title: >-
+        What are the modern implications of neocolonial practices in terms of economic influence?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+    url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
 related_article3:
-    id: 165990
-    title: What is the significance of global production networks in commodity chains?
+    id: 165982
+    title: >-
+        How has technological integration influenced contemporary globalization?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+    url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 related_article4:
-    id: 165983
-    title: Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+    id: 165994
+    title: >-
+        How does international cooperation address global health concerns such as disease transmission?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
+    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
 related_article5:
-    id: 165990
-    title: What is the significance of global production networks in commodity chains?
+    id: 165999
+    title: >-
+        What role does global media play in cultural diffusion?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166703
 date: 2025-01-31
-title: What are some engineering applications of torque?
-article_title: What are some engineering applications of torque?
+title: >-
+    What are some engineering applications of torque?
+article_title: >-
+    What are some engineering applications of torque?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-engineering-applications-of-torque.md
 url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
 score: -1.0
 related_article1:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
+    id: 166700
+    title: >-
+        What is the relationship between force and distance in the context of moment of force?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
 related_article2:
     id: 166715
-    title: What skills and qualifications are typically required for consulting roles in engineering?
+    title: >-
+        What skills and qualifications are typically required for consulting roles in engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
 related_article3:
-    id: 166702
-    title: How does torque relate to the moment of force?
+    id: 166692
+    title: >-
+        What is the vector cross product and how is it calculated?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
+    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
 related_article4:
-    id: 166713
-    title: How do consulting companies impact the engineering industry?
+    id: 166711
+    title: >-
+        How do engineering scholarships provide financial support to students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
+    url: /learn/education-studies/questions/how-do-engineering-scholarships-provide-financial-support-to-students
 related_article5:
-    id: 166699
-    title: Define the moment of force and explain how it is calculated.
+    id: 166693
+    title: >-
+        How does the right-hand rule help determine the direction of a vector cross product?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
+    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161460
 date: 2025-01-24
-title: What is the primary purpose of a firewall in cybersecurity?
-article_title: What is the primary purpose of a firewall in cybersecurity?
+title: >-
+    What is the primary purpose of a firewall in cybersecurity?
+article_title: >-
+    What is the primary purpose of a firewall in cybersecurity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-purpose-of-a-firewall-in-cybersecurity.md
 url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
 score: -1.0
 related_article1:
-    id: 161254
-    title: What is the primary purpose of a firewall in cybersecurity?
+    id: 161250
+    title: >-
+        What is online impersonation in the context of identity theft?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
+    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
 related_article2:
-    id: 161394
-    title: What are the advantages of using biometric security for authentication?
+    id: 161466
+    title: >-
+        How can individuals recognize and prevent pharming attempts?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
+    url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
 related_article3:
-    id: 161468
-    title: What are the advantages of using biometric security for authentication?
+    id: 161465
+    title: >-
+        What are some common methods used in phishing attacks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
 related_article4:
-    id: 161390
-    title: How can ransomware be prevented and removed?
+    id: 161455
+    title: >-
+        What are some common methods used for pseudonymization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
+related_article5:
+    id: 161258
+    title: >-
+        How can ransomware be prevented and removed?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-ransomware-be-prevented-and-removed
-related_article5:
-    id: 161461
-    title: How does encryption enhance data security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-encryption-enhance-data-security
 ---
 
 &nbsp;

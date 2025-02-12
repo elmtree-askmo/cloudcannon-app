@@ -2,8 +2,10 @@
 _schema: default
 id: 160646
 date: 2025-01-24
-title: Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
-article_title: Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+title: >-
+    Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+article_title: >-
+    Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-doreen-masseys-theoretical-contributions-to-timespace-compres
 url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 score: -1.0
 related_article1:
-    id: 160228
-    title: Explain the concept of time-space compression and its impact on global connectivity.
+    id: 160085
+    title: >-
+        What strategies do states use to maintain territorial control and sovereignty in political actions?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
 related_article2:
-    id: 160222
-    title: What role do community dynamics and social inequality play in shaping social structures?
+    id: 160077
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 related_article3:
-    id: 160094
-    title: How do independent thinking skills, such as critical reading and writing, enhance critical thinking?
+    id: 160504
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-independent-thinking-skills-such-as-critical-reading-and-writing-enhance-critical-thinking
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article4:
-    id: 160637
-    title: What practical tools are essential for data collection and analysis techniques in research?
+    id: 160564
+    title: >-
+        What is the significance of population distribution and cultural landscapes in human systems?
     subject: Sociology
-    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
+    url: /learn/sociology/questions/what-is-the-significance-of-population-distribution-and-cultural-landscapes-in-human-systems
 related_article5:
-    id: 160547
-    title: Discuss the impact of global markets on local economies and economic inequality.
+    id: 160223
+    title: >-
+        How do physical geography and human geography contribute to spatial organization?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-the-impact-of-global-markets-on-local-economies-and-economic-inequality
+    url: /learn/sociology/questions/how-do-physical-geography-and-human-geography-contribute-to-spatial-organization
 ---
 
 &nbsp;

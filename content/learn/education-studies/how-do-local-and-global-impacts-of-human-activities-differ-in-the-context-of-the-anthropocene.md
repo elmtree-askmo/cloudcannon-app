@@ -2,8 +2,10 @@
 _schema: default
 id: 168149
 date: 2025-02-02
-title: How do local and global impacts of human activities differ in the context of the Anthropocene?
-article_title: How do local and global impacts of human activities differ in the context of the Anthropocene?
+title: >-
+    How do local and global impacts of human activities differ in the context of the Anthropocene?
+article_title: >-
+    How do local and global impacts of human activities differ in the context of the Anthropocene?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-local-and-global-impacts-of-human-activities-differ-in-the-con
 url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
 score: -1.0
 related_article1:
-    id: 168162
-    title: What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
+    id: 168155
+    title: >-
+        What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-assumptions-about-sensory-perception-and-predictability-are-made-in-scientific-studies-of-environmental-systems
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-coral-reefs-and-what-conservation-strategies-are-employed-to-protect-them
 related_article2:
-    id: 168150
-    title: What are the core principles of environmental justice, and how do they relate to sustainability?
+    id: 168157
+    title: >-
+        What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-environmental-justice-and-how-do-they-relate-to-sustainability
+    url: /learn/education-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
 related_article3:
-    id: 168148
-    title: What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
+    id: 168161
+    title: >-
+        How do multiple stressors, such as fisheries and nutrient levels, affect ecosystems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-the-anthropocene-and-how-do-they-illustrate-human-effects-on-the-biosphere
+    url: /learn/education-studies/questions/how-do-multiple-stressors-such-as-fisheries-and-nutrient-levels-affect-ecosystems
 related_article4:
-    id: 168161
-    title: How do multiple stressors, such as fisheries and nutrient levels, affect ecosystems?
+    id: 168155
+    title: >-
+        What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-stressors-such-as-fisheries-and-nutrient-levels-affect-ecosystems
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-coral-reefs-and-what-conservation-strategies-are-employed-to-protect-them
 related_article5:
-    id: 168161
-    title: How do multiple stressors, such as fisheries and nutrient levels, affect ecosystems?
+    id: 168156
+    title: >-
+        How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-stressors-such-as-fisheries-and-nutrient-levels-affect-ecosystems
+    url: /learn/education-studies/questions/how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to-economic-and-ecological-benefits
 ---
 
 &nbsp;

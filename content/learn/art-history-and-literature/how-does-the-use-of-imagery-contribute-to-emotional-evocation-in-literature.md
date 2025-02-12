@@ -2,8 +2,10 @@
 _schema: default
 id: 161901
 date: 2025-01-24
-title: How does the use of imagery contribute to emotional evocation in literature?
-article_title: How does the use of imagery contribute to emotional evocation in literature?
+title: >-
+    How does the use of imagery contribute to emotional evocation in literature?
+article_title: >-
+    How does the use of imagery contribute to emotional evocation in literature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-lite
 url: /learn/art-history-and-literature/questions/how-does-the-use-of-imagery-contribute-to-emotional-evocation-in-literature
 score: 9.0
 related_article1:
-    id: 161898
-    title: What rhetorical techniques does Shakespeare use to critique social norms?
+    id: 161892
+    title: >-
+        How does breaking down texts help in uncovering an author's intent?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
+    url: /learn/art-history-and-literature/questions/how-does-breaking-down-texts-help-in-uncovering-an-authors-intent
 related_article2:
-    id: 161902
-    title: What strategies can be employed to structure a logical argument in literary analysis?
+    id: 161900
+    title: >-
+        What methods can be used to understand a character's motivations in a text?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-structure-a-logical-argument-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
 related_article3:
-    id: 161899
-    title: How can logical reasoning be used to identify cause and effect relationships in literary analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-logical-reasoning-be-used-to-identify-cause-and-effect-relationships-in-literary-analysis
-related_article4:
     id: 161894
-    title: Why is close reading essential in literary analysis?
+    title: >-
+        Why is close reading essential in literary analysis?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/why-is-close-reading-essential-in-literary-analysis
-related_article5:
-    id: 161898
-    title: What rhetorical techniques does Shakespeare use to critique social norms?
+related_article4:
+    id: 161895
+    title: >-
+        How can diction and tone influence the interpretation of a text?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-rhetorical-techniques-does-shakespeare-use-to-critique-social-norms
+    url: /learn/art-history-and-literature/questions/how-can-diction-and-tone-influence-the-interpretation-of-a-text
+related_article5:
+    id: 161900
+    title: >-
+        What methods can be used to understand a character's motivations in a text?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
 ---
 
 &nbsp;

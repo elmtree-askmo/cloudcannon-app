@@ -2,8 +2,10 @@
 _schema: default
 id: 165785
 date: 2025-01-29
-title: How does UDP handle port number assignment and datagram forwarding?
-article_title: How does UDP handle port number assignment and datagram forwarding?
+title: >-
+    How does UDP handle port number assignment and datagram forwarding?
+article_title: >-
+    How does UDP handle port number assignment and datagram forwarding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-udp-handle-port-number-assignment-and-datagram-forwarding.md
 url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
 score: -1.0
 related_article1:
+    id: 165767
+    title: >-
+        How does the transport layer handle segmenting and reassembling data?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
+related_article2:
+    id: 165765
+    title: >-
+        How does the transport layer ensure logical communication between applications?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+related_article3:
+    id: 165780
+    title: >-
+        What is the role of the length and checksum fields in the UDP header?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
+related_article4:
     id: 165770
-    title: What are the basic operations of the TCP protocol in managing data transmission?
+    title: >-
+        What are the basic operations of the TCP protocol in managing data transmission?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-tcp-protocol-in-managing-data-transmission
-related_article2:
-    id: 165783
-    title: How does TCP use sequence numbers for data reassembly?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-data-reassembly
-related_article3:
-    id: 165774
-    title: How does TCP guarantee ordered delivery and handle data loss?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
-related_article4:
-    id: 165779
-    title: What information is contained in the TCP header fields related to sequence and acknowledgment?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article5:
     id: 165774
-    title: How does TCP guarantee ordered delivery and handle data loss?
+    title: >-
+        How does TCP guarantee ordered delivery and handle data loss?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 ---

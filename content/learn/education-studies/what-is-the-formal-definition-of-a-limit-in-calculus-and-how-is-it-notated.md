@@ -2,8 +2,10 @@
 _schema: default
 id: 169282
 date: 2025-02-05
-title: What is the formal definition of a limit in calculus, and how is it notated?
-article_title: What is the formal definition of a limit in calculus, and how is it notated?
+title: >-
+    What is the formal definition of a limit in calculus, and how is it notated?
+article_title: >-
+    What is the formal definition of a limit in calculus, and how is it notated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-formal-definition-of-a-limit-in-calculus-and-how-is-it-no
 url: /learn/education-studies/questions/what-is-the-formal-definition-of-a-limit-in-calculus-and-how-is-it-notated
 score: -1.0
 related_article1:
-    id: 169287
-    title: How are vectors used in physics and engineering applications?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-used-in-physics-and-engineering-applications
-related_article2:
-    id: 169309
-    title: How are algebraic manipulation and calculus-based approaches used in mathematical analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-algebraic-manipulation-and-calculusbased-approaches-used-in-mathematical-analysis
-related_article3:
-    id: 169305
-    title: Why is mathematical notation important in calculus, and what are some common symbols used?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-mathematical-notation-important-in-calculus-and-what-are-some-common-symbols-used
-related_article4:
-    id: 169284
-    title: How is the instantaneous rate of change of a function at a point related to its derivative?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-instantaneous-rate-of-change-of-a-function-at-a-point-related-to-its-derivative
-related_article5:
     id: 169297
-    title: How is continuity at transition points in piecewise functions analyzed?
+    title: >-
+        How is continuity at transition points in piecewise functions analyzed?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
+related_article2:
+    id: 169297
+    title: >-
+        How is continuity at transition points in piecewise functions analyzed?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-continuity-at-transition-points-in-piecewise-functions-analyzed
+related_article3:
+    id: 169293
+    title: >-
+        How do Leibniz and Lagrange notations differ in representing derivatives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-leibniz-and-lagrange-notations-differ-in-representing-derivatives
+related_article4:
+    id: 169303
+    title: >-
+        How does the Fundamental Theorem of Calculus connect derivatives and integrals?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-fundamental-theorem-of-calculus-connect-derivatives-and-integrals
+related_article5:
+    id: 169290
+    title: >-
+        What are jump discontinuities and infinite discontinuities in functions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-jump-discontinuities-and-infinite-discontinuities-in-functions
 ---
 
 &nbsp;

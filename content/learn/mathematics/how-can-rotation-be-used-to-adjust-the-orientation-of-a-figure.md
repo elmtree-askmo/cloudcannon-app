@@ -2,8 +2,10 @@
 _schema: default
 id: 162226
 date: 2025-01-25
-title: How can rotation be used to adjust the orientation of a figure?
-article_title: How can rotation be used to adjust the orientation of a figure?
+title: >-
+    How can rotation be used to adjust the orientation of a figure?
+article_title: >-
+    How can rotation be used to adjust the orientation of a figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-rotation-be-used-to-adjust-the-orientation-of-a-figure.md
 url: /learn/mathematics/questions/how-can-rotation-be-used-to-adjust-the-orientation-of-a-figure
 score: -1.0
 related_article1:
-    id: 162320
-    title: What is the significance of the order of operations in a sequence of transformations?
+    id: 162231
+    title: >-
+        Why is it important to connect vertices when forming geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
+    url: /learn/mathematics/questions/why-is-it-important-to-connect-vertices-when-forming-geometric-figures
 related_article2:
-    id: 162317
-    title: How can a sequence of transformations be used to prove congruence between two figures?
+    id: 162313
+    title: >-
+        Why are rigid transformations important in determining congruence?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 related_article3:
-    id: 162312
-    title: What are the criteria for two figures to be considered congruent?
+    id: 162222
+    title: >-
+        How do you plot a point on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
+    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
 related_article4:
-    id: 162224
-    title: How does the center of rotation affect the outcome of a rotation transformation?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
-related_article5:
     id: 162229
-    title: What is the role of the center of rotation in a rotation transformation?
+    title: >-
+        What is the role of the center of rotation in a rotation transformation?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-role-of-the-center-of-rotation-in-a-rotation-transformation
+related_article5:
+    id: 162221
+    title: >-
+        What is the significance of the order of operations in a sequence of transformations?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
 ---
 
 &nbsp;

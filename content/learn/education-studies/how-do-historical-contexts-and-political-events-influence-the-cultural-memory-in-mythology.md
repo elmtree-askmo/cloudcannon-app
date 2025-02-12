@@ -2,8 +2,10 @@
 _schema: default
 id: 166002
 date: 2025-01-29
-title: How do historical contexts and political events influence the cultural memory in mythology?
-article_title: How do historical contexts and political events influence the cultural memory in mythology?
+title: >-
+    How do historical contexts and political events influence the cultural memory in mythology?
+article_title: >-
+    How do historical contexts and political events influence the cultural memory in mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-historical-contexts-and-political-events-influence-the-cultura
 url: /learn/education-studies/questions/how-do-historical-contexts-and-political-events-influence-the-cultural-memory-in-mythology
 score: -1.0
 related_article1:
-    id: 166012
-    title: What is the significance of temples and sanctuaries in ancient ritual practices?
+    id: 166011
+    title: >-
+        What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-temples-and-sanctuaries-in-ancient-ritual-practices
+    url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
 related_article2:
-    id: 166016
-    title: What were the key factors in the expansion and influence of the Roman Empire?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-factors-in-the-expansion-and-influence-of-the-roman-empire
-related_article3:
     id: 166009
-    title: In what ways did the Renaissance influence the reception of classical myths?
+    title: >-
+        In what ways did the Renaissance influence the reception of classical myths?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
+related_article3:
+    id: 166015
+    title: >-
+        How did the city-states and the Olympic Games shape Greek civilization?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-citystates-and-the-olympic-games-shape-greek-civilization
 related_article4:
     id: 166006
-    title: How do archetypes function in comparative mythology according to Carl Jung?
+    title: >-
+        How do archetypes function in comparative mythology according to Carl Jung?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
+related_article5:
+    id: 166005
+    title: >-
+        What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology-and-how-did-claude-lvistrauss-contribute-to-this-field
 ---
 
 &nbsp;

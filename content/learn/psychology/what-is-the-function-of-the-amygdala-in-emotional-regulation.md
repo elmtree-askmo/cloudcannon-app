@@ -2,8 +2,10 @@
 _schema: default
 id: 170472
 date: 2025-02-06
-title: What is the function of the amygdala in emotional regulation?
-article_title: What is the function of the amygdala in emotional regulation?
+title: >-
+    What is the function of the amygdala in emotional regulation?
+article_title: >-
+    What is the function of the amygdala in emotional regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-the-amygdala-in-emotional-regulation.md
 url: /learn/psychology/questions/what-is-the-function-of-the-amygdala-in-emotional-regulation
 score: -1.0
 related_article1:
-    id: 170460
-    title: What are the primary differences between gray matter and white matter in the brain?
+    id: 170480
+    title: >-
+        What are the pathophysiological features of Alzheimer's disease?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+    url: /learn/psychology/questions/what-are-the-pathophysiological-features-of-alzheimers-disease
 related_article2:
-    id: 170460
-    title: What are the primary differences between gray matter and white matter in the brain?
+    id: 170483
+    title: >-
+        What are the components of a reflex arc in neural pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
 related_article3:
-    id: 170476
-    title: What is the clinical significance of the dura mater in the meninges?
+    id: 170467
+    title: >-
+        What are the characteristics of sagittal, coronal, and horizontal brain sections?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-clinical-significance-of-the-dura-mater-in-the-meninges
+    url: /learn/psychology/questions/what-are-the-characteristics-of-sagittal-coronal-and-horizontal-brain-sections
 related_article4:
-    id: 170475
-    title: What are the causes and symptoms of an epidural hematoma?
+    id: 170462
+    title: >-
+        What are the main functions of the cerebrum, diencephalon, and brainstem?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-causes-and-symptoms-of-an-epidural-hematoma
+    url: /learn/psychology/questions/what-are-the-main-functions-of-the-cerebrum-diencephalon-and-brainstem
 related_article5:
-    id: 170460
-    title: What are the primary differences between gray matter and white matter in the brain?
+    id: 170469
+    title: >-
+        How do the sympathetic and parasympathetic divisions of the autonomic nervous system differ in function?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
+    url: /learn/psychology/questions/how-do-the-sympathetic-and-parasympathetic-divisions-of-the-autonomic-nervous-system-differ-in-function
 ---
 
 &nbsp;

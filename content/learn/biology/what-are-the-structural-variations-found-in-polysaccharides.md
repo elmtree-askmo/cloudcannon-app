@@ -2,8 +2,10 @@
 _schema: default
 id: 167023
 date: 2025-01-31
-title: What are the structural variations found in polysaccharides?
-article_title: What are the structural variations found in polysaccharides?
+title: >-
+    What are the structural variations found in polysaccharides?
+article_title: >-
+    What are the structural variations found in polysaccharides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-structural-variations-found-in-polysaccharides.md
 url: /learn/biology/questions/what-are-the-structural-variations-found-in-polysaccharides
 score: -1.0
 related_article1:
-    id: 167020
-    title: What is the difference between alpha and beta ring structures in monosaccharides?
+    id: 167018
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
 related_article2:
-    id: 167016
-    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    id: 167022
+    title: >-
+        What are some common examples of disaccharides?
     subject: Biology
-    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+    url: /learn/biology/questions/what-are-some-common-examples-of-disaccharides
 related_article3:
-    id: 167030
-    title: What is the structure and function of glycogen in animals?
+    id: 167029
+    title: >-
+        How do carbohydrates participate in cellular communication?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
+    url: /learn/biology/questions/how-do-carbohydrates-participate-in-cellular-communication
 related_article4:
-    id: 167019
-    title: How are monosaccharides classified based on the number of carbon atoms?
+    id: 167015
+    title: >-
+        What is the role of dehydration reactions in the synthesis of biological polymers?
     subject: Biology
-    url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-number-of-carbon-atoms
+    url: /learn/biology/questions/what-is-the-role-of-dehydration-reactions-in-the-synthesis-of-biological-polymers
 related_article5:
-    id: 167016
-    title: How do glycosidic bonds form during the synthesis of carbohydrates?
+    id: 167018
+    title: >-
+        How do hydrolysis reactions contribute to metabolism?
     subject: Biology
-    url: /learn/biology/questions/how-do-glycosidic-bonds-form-during-the-synthesis-of-carbohydrates
+    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
 ---
 
 &nbsp;

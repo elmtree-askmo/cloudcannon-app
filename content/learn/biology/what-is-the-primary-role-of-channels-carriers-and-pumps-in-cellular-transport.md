@@ -2,8 +2,10 @@
 _schema: default
 id: 166935
 date: 2025-01-31
-title: What is the primary role of channels, carriers, and pumps in cellular transport?
-article_title: What is the primary role of channels, carriers, and pumps in cellular transport?
+title: >-
+    What is the primary role of channels, carriers, and pumps in cellular transport?
+article_title: >-
+    What is the primary role of channels, carriers, and pumps in cellular transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-t
 url: /learn/biology/questions/what-is-the-primary-role-of-channels-carriers-and-pumps-in-cellular-transport
 score: -1.0
 related_article1:
-    id: 166948
-    title: How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+    id: 166947
+    title: >-
+        What are the main types of transport proteins, and how do they differ in function?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
 related_article2:
-    id: 166949
-    title: What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    id: 166942
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
 related_article3:
-    id: 166941
-    title: What are the characteristics of substances that can be transported via simple diffusion?
+    id: 166947
+    title: >-
+        What are the main types of transport proteins, and how do they differ in function?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+    url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
 related_article4:
     id: 166942
-    title: How do transport proteins facilitate diffusion across the cell membrane?
+    title: >-
+        How do transport proteins facilitate diffusion across the cell membrane?
     subject: Biology
     url: /learn/biology/questions/how-do-transport-proteins-facilitate-diffusion-across-the-cell-membrane
 related_article5:
-    id: 166944
-    title: How does exocytosis function in the transport of substances out of the cell?
+    id: 166941
+    title: >-
+        What are the characteristics of substances that can be transported via simple diffusion?
     subject: Biology
-    url: /learn/biology/questions/how-does-exocytosis-function-in-the-transport-of-substances-out-of-the-cell
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
 ---
 
 &nbsp;

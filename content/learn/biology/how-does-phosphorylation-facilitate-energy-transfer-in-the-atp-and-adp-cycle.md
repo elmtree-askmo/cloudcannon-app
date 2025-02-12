@@ -2,8 +2,10 @@
 _schema: default
 id: 170992
 date: 2025-02-07
-title: How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
-article_title: How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
+title: >-
+    How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
+article_title: >-
+    How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-ad
 url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
 score: -1.0
 related_article1:
-    id: 170983
-    title: What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    id: 170981
+    title: >-
+        What are the roles of ATP, NADPH, and NADH as activated energy carriers in cells?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
+    url: /learn/biology/questions/what-are-the-roles-of-atp-nadph-and-nadh-as-activated-energy-carriers-in-cells
 related_article2:
-    id: 170979
-    title: Describe the structure of ATP and the significance of phosphoanhydride bonds.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
-related_article3:
     id: 170977
-    title: How do enzymes lower activation energy in reaction coupling?
+    title: >-
+        How do enzymes lower activation energy in reaction coupling?
     subject: Biology
     url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
-related_article4:
-    id: 170984
-    title: Outline the sequential reactions and energy changes that occur during glycolysis.
+related_article3:
+    id: 170987
+    title: >-
+        What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
     subject: Biology
-    url: /learn/biology/questions/outline-the-sequential-reactions-and-energy-changes-that-occur-during-glycolysis
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
+related_article4:
+    id: 170990
+    title: >-
+        How are equilibrium constants calculated, and what do they indicate about delta G zero values?
+    subject: Biology
+    url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
 related_article5:
     id: 170980
-    title: Explain the ATP cycle in terms of hydrolysis and phosphorylation.
+    title: >-
+        Explain the ATP cycle in terms of hydrolysis and phosphorylation.
     subject: Biology
     url: /learn/biology/questions/explain-the-atp-cycle-in-terms-of-hydrolysis-and-phosphorylation
 ---

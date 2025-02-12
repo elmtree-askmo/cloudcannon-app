@@ -2,8 +2,10 @@
 _schema: default
 id: 168737
 date: 2025-02-04
-title: What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
-article_title: What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
+title: >-
+    What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
+article_title: >-
+    What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-o
 url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
 score: 9.0
 related_article1:
-    id: 168748
-    title: What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
+    id: 168745
+    title: >-
+        How have historical narratives and family histories contributed to our understanding of Japanese internment?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-civil-liberties-act-of-1988-and-what-did-it-achieve
+    url: /learn/history-of-the-world/questions/how-have-historical-narratives-and-family-histories-contributed-to-our-understanding-of-japanese-internment
 related_article2:
-    id: 168744
-    title: What challenges did first-generation immigrants face in terms of cultural identity and assimilation?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-did-firstgeneration-immigrants-face-in-terms-of-cultural-identity-and-assimilation
-related_article3:
     id: 168747
-    title: How has the Japanese internment experience influenced modern civil rights movements?
+    title: >-
+        How has the Japanese internment experience influenced modern civil rights movements?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
+related_article3:
+    id: 168741
+    title: >-
+        What was the significance of the Manzanar internment camp in the context of Japanese American internment?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
 related_article4:
-    id: 168740
-    title: Describe the living conditions and daily life in Japanese American internment camps.
+    id: 168746
+    title: >-
+        What role does oral history play in preserving personal testimonies of Japanese internment?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-living-conditions-and-daily-life-in-japanese-american-internment-camps
+    url: /learn/history-of-the-world/questions/what-role-does-oral-history-play-in-preserving-personal-testimonies-of-japanese-internment
 related_article5:
-    id: 168744
-    title: What challenges did first-generation immigrants face in terms of cultural identity and assimilation?
+    id: 168747
+    title: >-
+        How has the Japanese internment experience influenced modern civil rights movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-did-firstgeneration-immigrants-face-in-terms-of-cultural-identity-and-assimilation
+    url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
 ---
 
 &nbsp;

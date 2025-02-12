@@ -2,8 +2,10 @@
 _schema: default
 id: 169535
 date: 2025-02-05
-title: How is blood pressure related to the risk of heart disease?
-article_title: How is blood pressure related to the risk of heart disease?
+title: >-
+    How is blood pressure related to the risk of heart disease?
+article_title: >-
+    How is blood pressure related to the risk of heart disease?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-blood-pressure-related-to-the-risk-of-heart-disease.md
 url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
 score: -1.0
 related_article1:
-    id: 169532
-    title: What are the phases of Korotkoff sounds, and why are they clinically significant?
+    id: 169520
+    title: >-
+        What are the typical blood pressure ranges for adults, and how can they vary by demographics?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
+    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
 related_article2:
-    id: 169522
-    title: What are some common causes and risk factors for hypertension?
+    id: 169520
+    title: >-
+        What are the typical blood pressure ranges for adults, and how can they vary by demographics?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
+    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
 related_article3:
-    id: 169519
-    title: Why has there been an increasing focus on diastolic blood pressure in recent trends?
+    id: 169516
+    title: >-
+        Why is it important to hear Korotkoff sounds during manual blood pressure measurement?
     subject: Nursing
-    url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
+    url: /learn/nursing/questions/why-is-it-important-to-hear-korotkoff-sounds-during-manual-blood-pressure-measurement
 related_article4:
-    id: 169515
-    title: What are the potential consequences of false blood pressure readings?
+    id: 169518
+    title: >-
+        What is the difference between systolic and diastolic blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
 related_article5:
-    id: 169533
-    title: How do age-related changes naturally affect blood pressure?
+    id: 169517
+    title: >-
+        How does proper cuff sizing affect blood pressure measurement accuracy?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-agerelated-changes-naturally-affect-blood-pressure
+    url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
 ---
 
 &nbsp;

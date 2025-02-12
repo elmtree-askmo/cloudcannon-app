@@ -2,8 +2,10 @@
 _schema: default
 id: 164956
 date: 2025-01-28
-title: What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
-article_title: What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
+title: >-
+    What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
+article_title: >-
+    What are the primary causes of acquired dyslexia and alexia, and how is the angular gyrus involved?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/psychology/questions/what-are-the-primary-causes-of-acquired-dyslexi
 score: -1.0
 related_article1:
     id: 164977
-    title: Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
+    title: >-
+        Where is the visual word form area located in the brain, and what is its role in word and letter recognition?
     subject: Psychology
     url: /learn/psychology/questions/where-is-the-visual-word-form-area-located-in-the-brain-and-what-is-its-role-in-word-and-letter-recognition
 related_article2:
-    id: 164968
-    title: What are the challenges of irregular spelling in relation to surface alexia?
+    id: 164957
+    title: >-
+        Describe the symptoms and characteristics of acquired dyslexia, focusing on reading difficulties and letter recognition issues.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-of-irregular-spelling-in-relation-to-surface-alexia
+    url: /learn/psychology/questions/describe-the-symptoms-and-characteristics-of-acquired-dyslexia-focusing-on-reading-difficulties-and-letter-recognition-issues
 related_article3:
-    id: 164958
-    title: Explain the phonological route to reading and how it relates to phonological dyslexia.
+    id: 164970
+    title: >-
+        Describe the phonological and logographic systems of the Japanese language structure.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-phonological-route-to-reading-and-how-it-relates-to-phonological-dyslexia
+    url: /learn/psychology/questions/describe-the-phonological-and-logographic-systems-of-the-japanese-language-structure
 related_article4:
-    id: 164979
-    title: How does the right hemisphere contribute to the causes of deep dyslexia?
+    id: 164961
+    title: >-
+        What is the direct route to reading, and how does it relate to surface alexia?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-the-causes-of-deep-dyslexia
-related_article5:
-    id: 164966
-    title: What challenges are associated with phonological agrarcia in writing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-phonological-agrarcia-in-writing
+    url: /learn/psychology/questions/what-is-the-direct-route-to-reading-and-how-does-it-relate-to-surface-alexia
 ---
 
 &nbsp;

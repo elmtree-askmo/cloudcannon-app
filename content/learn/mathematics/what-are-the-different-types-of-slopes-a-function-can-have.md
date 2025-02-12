@@ -2,8 +2,10 @@
 _schema: default
 id: 163811
 date: 2025-01-27
-title: What are the different types of slopes a function can have?
-article_title: What are the different types of slopes a function can have?
+title: >-
+    What are the different types of slopes a function can have?
+article_title: >-
+    What are the different types of slopes a function can have?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-slopes-a-function-can-have.md
 url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
 score: -1.0
 related_article1:
-    id: 163809
-    title: What distinguishes non-linear functions from linear functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
-related_article2:
     id: 163822
-    title: What implications do positive and negative rates of change have for function behavior?
+    title: >-
+        What implications do positive and negative rates of change have for function behavior?
     subject: Mathematics
     url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
-related_article3:
+related_article2:
     id: 163821
-    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    title: >-
+        Why is interval selection important when applying the rate of change formula to non-linear functions?
     subject: Mathematics
     url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+related_article3:
+    id: 163824
+    title: >-
+        Why is accurate rate of change calculation important in mathematical modeling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
 related_article4:
-    id: 163820
-    title: How can the average rate of change be interpreted for cube root functions over different intervals?
+    id: 163822
+    title: >-
+        What implications do positive and negative rates of change have for function behavior?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
 related_article5:
-    id: 163816
-    title: How does the average rate of change of a quadratic function vary over different intervals?
+    id: 163809
+    title: >-
+        What distinguishes non-linear functions from linear functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
+    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
 ---
 
 &nbsp;

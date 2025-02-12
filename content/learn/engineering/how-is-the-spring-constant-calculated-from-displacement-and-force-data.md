@@ -2,8 +2,10 @@
 _schema: default
 id: 166682
 date: 2025-01-31
-title: How is the spring constant calculated from displacement and force data?
-article_title: How is the spring constant calculated from displacement and force data?
+title: >-
+    How is the spring constant calculated from displacement and force data?
+article_title: >-
+    How is the spring constant calculated from displacement and force data?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-spring-constant-calculated-from-displacement-and-force-dat
 url: /learn/engineering/questions/how-is-the-spring-constant-calculated-from-displacement-and-force-data
 score: -1.0
 related_article1:
-    id: 166676
-    title: How do you determine the direction of a force using unit vectors?
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
 related_article2:
-    id: 166675
-    title: What is the magnitude of a force vector and how is it calculated?
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
 related_article3:
-    id: 166679
-    title: What are the conditions necessary for static equilibrium?
+    id: 166680
+    title: >-
+        How do you apply equilibrium equations to solve for unknown forces?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
+    url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
 related_article4:
-    id: 166685
-    title: What is the difference between kinematics and dynamics in mechanical systems?
+    id: 166684
+    title: >-
+        How do you construct a free body diagram for a particle system?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
+    url: /learn/engineering/questions/how-do-you-construct-a-free-body-diagram-for-a-particle-system
 related_article5:
-    id: 166678
-    title: How are force components resolved in three-dimensional space?
+    id: 166688
+    title: >-
+        What steps are involved in breaking down forces for static analysis?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
+    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
 ---
 
 &nbsp;

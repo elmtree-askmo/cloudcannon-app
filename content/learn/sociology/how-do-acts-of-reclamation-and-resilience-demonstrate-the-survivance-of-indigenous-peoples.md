@@ -2,8 +2,10 @@
 _schema: default
 id: 169166
 date: 2025-02-04
-title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
-article_title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+title: >-
+    How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+article_title: >-
+    How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-
 url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
 score: -1.0
 related_article1:
-    id: 169160
-    title: How is Indigenous knowledge and worldview represented in museum exhibitions?
-    subject: Sociology
-    url: /learn/sociology/questions/how-is-indigenous-knowledge-and-worldview-represented-in-museum-exhibitions
-related_article2:
-    id: 169159
-    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
-    subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
-related_article3:
-    id: 169163
-    title: What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
-related_article4:
     id: 169156
-    title: How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
     subject: Sociology
     url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
-related_article5:
-    id: 169165
-    title: What is the importance of archives in supporting Indigenous self-determination and cultural reclamation?
+related_article2:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-importance-of-archives-in-supporting-indigenous-selfdetermination-and-cultural-reclamation
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article3:
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
+related_article4:
+    id: 169162
+    title: >-
+        How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
+related_article5:
+    id: 169156
+    title: >-
+        How do interpretative programs challenge stereotypical representations and share authority in Indigenous public history?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-interpretative-programs-challenge-stereotypical-representations-and-share-authority-in-indigenous-public-history
 ---
 
 &nbsp;

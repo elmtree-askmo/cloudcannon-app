@@ -2,8 +2,10 @@
 _schema: default
 id: 163074
 date: 2025-01-26
-title: What is the significance of years of potential life lost (YPLL) in public health?
-article_title: What is the significance of years of potential life lost (YPLL) in public health?
+title: >-
+    What is the significance of years of potential life lost (YPLL) in public health?
+article_title: >-
+    What is the significance of years of potential life lost (YPLL) in public health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-years-of-potential-life-lost-ypll-in-publ
 url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
 score: -1.0
 related_article1:
-    id: 163331
-    title: What is a common misunderstanding about rates in epidemiology?
+    id: 163330
+    title: >-
+        Why is it crucial to use the correct denominator when calculating a proportion?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-a-common-misunderstanding-about-rates-in-epidemiology
+    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 related_article2:
-    id: 163339
-    title: How is Years of Potential Life Lost (YPLL) calculated, and why is it important in public health?
+    id: 163069
+    title: >-
+        What are the critical assumptions when calculating cumulative incidence?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-important-in-public-health
+    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
 related_article3:
-    id: 163224
-    title: What is the difference between fixed and dynamic populations in epidemiology?
+    id: 163231
+    title: >-
+        How is prevalence calculated, and what does it indicate about a population?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
 related_article4:
-    id: 163327
-    title: Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+    id: 163340
+    title: >-
+        What is the difference between absolute and relative measures of association?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
+    url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
 related_article5:
-    id: 163335
-    title: How do prevalence and incidence differ in terms of existing and new cases?
+    id: 163075
+    title: >-
+        How do absolute measures of association differ from relative measures in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
+    url: /learn/health-studies/questions/how-do-absolute-measures-of-association-differ-from-relative-measures-in-epidemiology
 ---
 
 &nbsp;

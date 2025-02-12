@@ -2,8 +2,10 @@
 _schema: default
 id: 168154
 date: 2025-02-02
-title: What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
-article_title: What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
+title: >-
+    What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
+article_title: >-
+    What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and
 url: /learn/education-studies/questions/what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and-how-do-symbiotic-relationships-play-a-role
 score: -1.0
 related_article1:
-    id: 168153
-    title: How do control experiments and the use of treatment and control groups contribute to effective experimental design?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
-related_article2:
-    id: 168159
-    title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
-related_article3:
-    id: 168149
-    title: How do local and global impacts of human activities differ in the context of the Anthropocene?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
-related_article4:
-    id: 168151
-    title: How does the scientific method guide the process of inquiry and hypothesis formation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
-related_article5:
     id: 168152
-    title: What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
+    title: >-
+        What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
     subject: Education Studies
     url: /learn/education-studies/questions/what-characteristics-make-a-hypothesis-testable-and-falsifiable-and-why-is-repeatability-important-in-science
+related_article2:
+    id: 168152
+    title: >-
+        What characteristics make a hypothesis testable and falsifiable, and why is repeatability important in science?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-characteristics-make-a-hypothesis-testable-and-falsifiable-and-why-is-repeatability-important-in-science
+related_article3:
+    id: 168155
+    title: >-
+        What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-coral-reefs-and-what-conservation-strategies-are-employed-to-protect-them
+related_article4:
+    id: 168149
+    title: >-
+        How do local and global impacts of human activities differ in the context of the Anthropocene?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
+related_article5:
+    id: 168151
+    title: >-
+        How does the scientific method guide the process of inquiry and hypothesis formation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
 ---
 
 &nbsp;

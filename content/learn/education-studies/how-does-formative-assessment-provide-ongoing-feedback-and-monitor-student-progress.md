@@ -2,8 +2,10 @@
 _schema: default
 id: 166902
 date: 2025-01-31
-title: How does formative assessment provide ongoing feedback and monitor student progress?
-article_title: How does formative assessment provide ongoing feedback and monitor student progress?
+title: >-
+    How does formative assessment provide ongoing feedback and monitor student progress?
+article_title: >-
+    How does formative assessment provide ongoing feedback and monitor student progress?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-formative-assessment-provide-ongoing-feedback-and-monitor-st
 url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
 score: -1.0
 related_article1:
-    id: 166893
-    title: What is the scope of discipline-based educational research and why is it important in biology education?
+    id: 166896
+    title: >-
+        How can trend analysis be used to interpret data effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-scope-of-disciplinebased-educational-research-and-why-is-it-important-in-biology-education
+    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
 related_article2:
-    id: 166897
-    title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+    id: 166899
+    title: >-
+        What are the benefits of using Codon Learning courseware in biology education?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
 related_article3:
-    id: 166897
-    title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+    id: 166903
+    title: >-
+        What is the relationship between attendance and GPA, and why is regular attendance important?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
+    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
 related_article4:
     id: 166906
-    title: How can distractions from cell phone use during lectures be reduced to promote focus?
+    title: >-
+        How can distractions from cell phone use during lectures be reduced to promote focus?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-distractions-from-cell-phone-use-during-lectures-be-reduced-to-promote-focus
 related_article5:
-    id: 166897
-    title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+    id: 166905
+    title: >-
+        What are the negative impacts of cell phone use during lectures on student grades?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
+    url: /learn/education-studies/questions/what-are-the-negative-impacts-of-cell-phone-use-during-lectures-on-student-grades
 ---
 
 &nbsp;

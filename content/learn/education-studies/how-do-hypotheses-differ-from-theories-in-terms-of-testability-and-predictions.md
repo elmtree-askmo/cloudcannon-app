@@ -2,8 +2,10 @@
 _schema: default
 id: 166891
 date: 2025-01-31
-title: How do hypotheses differ from theories in terms of testability and predictions?
-article_title: How do hypotheses differ from theories in terms of testability and predictions?
+title: >-
+    How do hypotheses differ from theories in terms of testability and predictions?
+article_title: >-
+    How do hypotheses differ from theories in terms of testability and predictions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-hypotheses-differ-from-theories-in-terms-of-testability-and-pr
 url: /learn/education-studies/questions/how-do-hypotheses-differ-from-theories-in-terms-of-testability-and-predictions
 score: -1.0
 related_article1:
-    id: 166888
-    title: What is the difference between correlation and causation when analyzing trends in graphs?
+    id: 166885
+    title: >-
+        How do whiteboards and study guides complement PowerPoints and recordings in D2L content management?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation-when-analyzing-trends-in-graphs
+    url: /learn/education-studies/questions/how-do-whiteboards-and-study-guides-complement-powerpoints-and-recordings-in-d2l-content-management
 related_article2:
-    id: 166883
-    title: How can pre-class assignments and supplementary materials be integrated with course content to enhance learning?
+    id: 166882
+    title: >-
+        Why is specificity important in learning objectives and how can they be used as study resources?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-preclass-assignments-and-supplementary-materials-be-integrated-with-course-content-to-enhance-learning
+    url: /learn/education-studies/questions/why-is-specificity-important-in-learning-objectives-and-how-can-they-be-used-as-study-resources
 related_article3:
     id: 166882
-    title: Why is specificity important in learning objectives and how can they be used as study resources?
+    title: >-
+        Why is specificity important in learning objectives and how can they be used as study resources?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-specificity-important-in-learning-objectives-and-how-can-they-be-used-as-study-resources
 related_article4:
-    id: 166884
-    title: What is the importance of organizing course content into modules on D2L and how can students access course tools?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-organizing-course-content-into-modules-on-d2l-and-how-can-students-access-course-tools
-related_article5:
     id: 166890
-    title: What is biological fitness and why is it important for survival and reproduction in different environments?
+    title: >-
+        What is biological fitness and why is it important for survival and reproduction in different environments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-biological-fitness-and-why-is-it-important-for-survival-and-reproduction-in-different-environments
+related_article5:
+    id: 166884
+    title: >-
+        What is the importance of organizing course content into modules on D2L and how can students access course tools?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-organizing-course-content-into-modules-on-d2l-and-how-can-students-access-course-tools
 ---
 
 &nbsp;

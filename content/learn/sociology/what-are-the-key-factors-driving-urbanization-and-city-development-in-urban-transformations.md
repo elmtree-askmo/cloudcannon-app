@@ -2,8 +2,10 @@
 _schema: default
 id: 160630
 date: 2025-01-24
-title: What are the key factors driving urbanization and city development in urban transformations?
-article_title: What are the key factors driving urbanization and city development in urban transformations?
+title: >-
+    What are the key factors driving urbanization and city development in urban transformations?
+article_title: >-
+    What are the key factors driving urbanization and city development in urban transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-factors-driving-urbanization-and-city-development-in
 url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
 score: -1.0
 related_article1:
-    id: 160559
-    title: Explain the significance of communication technologies and transportation networks in global connectivity.
-    subject: Sociology
-    url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
-related_article2:
-    id: 160625
-    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
-related_article3:
-    id: 160212
-    title: How do socio-cultural impacts affect cultural attributes and social dynamics in development?
+    id: 160623
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
     subject: Sociology
     url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
+related_article2:
+    id: 160208
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
+related_article3:
+    id: 160620
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 related_article4:
-    id: 160553
-    title: What are the main factors contributing to social inequality within social structures?
+    id: 160102
+    title: >-
+        How do natural landscapes and environmental processes define physical systems in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-define-physical-systems-in-geographic-settings
 related_article5:
-    id: 160551
-    title: How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
+    id: 160497
+    title: >-
+        How do community dynamics and social inequality influence social structures?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
+    url: /learn/sociology/questions/how-do-community-dynamics-and-social-inequality-influence-social-structures
 ---
 
 &nbsp;

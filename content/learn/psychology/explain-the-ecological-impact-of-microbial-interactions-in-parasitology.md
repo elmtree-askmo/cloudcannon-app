@@ -2,8 +2,10 @@
 _schema: default
 id: 165851
 date: 2025-01-29
-title: Explain the ecological impact of microbial interactions in parasitology.
-article_title: Explain the ecological impact of microbial interactions in parasitology.
+title: >-
+    Explain the ecological impact of microbial interactions in parasitology.
+article_title: >-
+    Explain the ecological impact of microbial interactions in parasitology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-ecological-impact-of-microbial-interactions-in-parasitolo
 url: /learn/psychology/questions/explain-the-ecological-impact-of-microbial-interactions-in-parasitology
 score: -1.0
 related_article1:
-    id: 165841
-    title: How does the immune response contribute to the pathological effects of parasitic infections?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
-related_article2:
-    id: 165844
-    title: How have historical research models using nematodes contributed to the field of parasitology?
-    subject: Psychology
-    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
-related_article3:
-    id: 165840
-    title: What are the clinical implications of identifying parasitic infections?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
-related_article4:
-    id: 165832
-    title: Describe the Linnaean classification system and its significance in descriptive parasitology.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
-related_article5:
     id: 165843
-    title: What are the ecological consequences of habitat disruption caused by parasites?
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article2:
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
+related_article3:
+    id: 165829
+    title: >-
+        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
+related_article4:
+    id: 165853
+    title: >-
+        Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+related_article5:
+    id: 165835
+    title: >-
+        Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168544
 date: 2025-02-03
-title: What types of evidence are commonly used in speeches to support claims?
-article_title: What types of evidence are commonly used in speeches to support claims?
+title: >-
+    What types of evidence are commonly used in speeches to support claims?
+article_title: >-
+    What types of evidence are commonly used in speeches to support claims?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-evidence-are-commonly-used-in-speeches-to-support-claim
 url: /learn/education-studies/questions/what-types-of-evidence-are-commonly-used-in-speeches-to-support-claims
 score: -1.0
 related_article1:
-    id: 168549
-    title: What are the characteristics of a collegial discussion?
+    id: 168530
+    title: >-
+        What are some common rhetorical strategies used in speeches?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-collegial-discussion
+    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
 related_article2:
-    id: 168553
-    title: What strategies can be employed for conflict resolution while maintaining respectful dialogue?
+    id: 168528
+    title: >-
+        What is diction and why is it important in speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-employed-for-conflict-resolution-while-maintaining-respectful-dialogue
+    url: /learn/education-studies/questions/what-is-diction-and-why-is-it-important-in-speech
 related_article3:
-    id: 168529
-    title: How does syntax contribute to persuasion in speech?
+    id: 168530
+    title: >-
+        What are some common rhetorical strategies used in speeches?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
+    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
 related_article4:
-    id: 168540
-    title: Why is it important to incorporate diverse perspectives in discussions?
+    id: 168537
+    title: >-
+        How can a speaker align their content with the purpose of their speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-incorporate-diverse-perspectives-in-discussions
+    url: /learn/education-studies/questions/how-can-a-speaker-align-their-content-with-the-purpose-of-their-speech
 related_article5:
-    id: 168548
-    title: How can reasoning enhance the credibility of a speech?
+    id: 168530
+    title: >-
+        What are some common rhetorical strategies used in speeches?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reasoning-enhance-the-credibility-of-a-speech
+    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168088
 date: 2025-02-02
-title: Why are mental representations important for symbolic thought in cognitive development?
-article_title: Why are mental representations important for symbolic thought in cognitive development?
+title: >-
+    Why are mental representations important for symbolic thought in cognitive development?
+article_title: >-
+    Why are mental representations important for symbolic thought in cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-mental-representations-important-for-symbolic-thought-in-cogn
 url: /learn/psychology/questions/why-are-mental-representations-important-for-symbolic-thought-in-cognitive-development
 score: -1.0
 related_article1:
+    id: 168087
+    title: >-
+        What distinguishes gross motor skills from fine motor skills in the context of cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-distinguishes-gross-motor-skills-from-fine-motor-skills-in-the-context-of-cognitive-development
+related_article2:
     id: 168081
-    title: What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
+    title: >-
+        What is the significance of goal-oriented actions in the coordination of secondary circular reactions?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-goaloriented-actions-in-the-coordination-of-secondary-circular-reactions
-related_article2:
-    id: 168084
-    title: How does sensory input facilitate cognitive development in infants?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-sensory-input-facilitate-cognitive-development-in-infants
 related_article3:
-    id: 168090
-    title: What is Piaget's theory of cognitive development and how does it differ from alternative theories?
+    id: 168086
+    title: >-
+        How do motor actions contribute to an infant's exploration and manipulation of their environment?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-piagets-theory-of-cognitive-development-and-how-does-it-differ-from-alternative-theories
+    url: /learn/psychology/questions/how-do-motor-actions-contribute-to-an-infants-exploration-and-manipulation-of-their-environment
 related_article4:
-    id: 168089
-    title: How does visual imagery contribute to the development of mental representations?
+    id: 168091
+    title: >-
+        What are the advantages of using observational studies in developmental psychology research?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-visual-imagery-contribute-to-the-development-of-mental-representations
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-observational-studies-in-developmental-psychology-research
 related_article5:
-    id: 168079
-    title: What characterizes primary circular reactions in the sensorimotor stage?
+    id: 168083
+    title: >-
+        What role does the internalization of schemas play in problem-solving during the sensorimotor stage?
     subject: Psychology
-    url: /learn/psychology/questions/what-characterizes-primary-circular-reactions-in-the-sensorimotor-stage
+    url: /learn/psychology/questions/what-role-does-the-internalization-of-schemas-play-in-problemsolving-during-the-sensorimotor-stage
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166604
 date: 2025-01-30
-title: What was the role of a 'Stratagos' in ancient Greek city-states?
-article_title: What was the role of a 'Stratagos' in ancient Greek city-states?
+title: >-
+    What was the role of a 'Stratagos' in ancient Greek city-states?
+article_title: >-
+    What was the role of a 'Stratagos' in ancient Greek city-states?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-was-the-role-of-a-stratagos-in-ancient-greek-citystates.md
 url: /learn/education-studies/questions/what-was-the-role-of-a-stratagos-in-ancient-greek-citystates
 score: -1.0
 related_article1:
-    id: 166611
-    title: How did Socratic philosophy influence Western thought?
+    id: 166610
+    title: >-
+        What were the contributions of Alexander the Great to Greek history?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-socratic-philosophy-influence-western-thought
+    url: /learn/education-studies/questions/what-were-the-contributions-of-alexander-the-great-to-greek-history
 related_article2:
-    id: 166609
-    title: Who are the key characters in the Homeric epics, and what are the main themes of these stories?
+    id: 166599
+    title: >-
+        How do diacritics in Greek affect the pronunciation of names like Helen and Hermes?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-key-characters-in-the-homeric-epics-and-what-are-the-main-themes-of-these-stories
+    url: /learn/education-studies/questions/how-do-diacritics-in-greek-affect-the-pronunciation-of-names-like-helen-and-hermes
 related_article3:
-    id: 166602
-    title: What are the meanings of the political terms 'Basilius' and 'Archon' in ancient Greece?
+    id: 166599
+    title: >-
+        How do diacritics in Greek affect the pronunciation of names like Helen and Hermes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-meanings-of-the-political-terms-basilius-and-archon-in-ancient-greece
+    url: /learn/education-studies/questions/how-do-diacritics-in-greek-affect-the-pronunciation-of-names-like-helen-and-hermes
 related_article4:
     id: 166603
-    title: Name two notable Greek authors and describe their contributions to history.
+    title: >-
+        Name two notable Greek authors and describe their contributions to history.
     subject: Education Studies
     url: /learn/education-studies/questions/name-two-notable-greek-authors-and-describe-their-contributions-to-history
-related_article5:
-    id: 166601
-    title: Who are the major Greek gods and goddesses, and what are their relationships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
 ---
 
 &nbsp;

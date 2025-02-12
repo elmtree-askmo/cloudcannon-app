@@ -2,8 +2,10 @@
 _schema: default
 id: 162323
 date: 2025-01-25
-title: What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
-article_title: What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
+title: >-
+    What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
+article_title: >-
+    What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-educational-initiatives-were-introduced-to-address-the-challenge
 url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
 score: -1.0
 related_article1:
-    id: 162350
-    title: How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
+    id: 162345
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
+    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
 related_article2:
-    id: 162318
-    title: How did Edward Playter influence sanitary reforms in the late 19th century?
+    id: 162345
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
+    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
 related_article3:
-    id: 162349
-    title: What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
+    id: 162337
+    title: >-
+        How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
+    url: /learn/health-studies/questions/how-did-the-federal-government-contribute-to-the-establishment-of-aboriginal-health-services-in-the-1940s
 related_article4:
     id: 162352
-    title: What contributions did Ron Draper make to health promotion and public health leadership?
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
     url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 related_article5:
-    id: 162337
-    title: How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
+    id: 162351
+    title: >-
+        What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-federal-government-contribute-to-the-establishment-of-aboriginal-health-services-in-the-1940s
+    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
 ---
 
 &nbsp;

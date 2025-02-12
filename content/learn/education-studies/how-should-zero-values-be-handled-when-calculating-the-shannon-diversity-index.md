@@ -2,8 +2,10 @@
 _schema: default
 id: 160442
 date: 2025-01-24
-title: How should zero values be handled when calculating the Shannon Diversity Index?
-article_title: How should zero values be handled when calculating the Shannon Diversity Index?
+title: >-
+    How should zero values be handled when calculating the Shannon Diversity Index?
+article_title: >-
+    How should zero values be handled when calculating the Shannon Diversity Index?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-zero-values-be-handled-when-calculating-the-shannon-divers
 url: /learn/education-studies/questions/how-should-zero-values-be-handled-when-calculating-the-shannon-diversity-index
 score: -1.0
 related_article1:
-    id: 160447
-    title: How can temporal trends be analyzed in ecological data?
+    id: 160446
+    title: >-
+        What are the primary sources and methods for collecting spatial and temporal data in ecology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-temporal-trends-be-analyzed-in-ecological-data
+    url: /learn/education-studies/questions/what-are-the-primary-sources-and-methods-for-collecting-spatial-and-temporal-data-in-ecology
 related_article2:
-    id: 160443
-    title: How is species richness assessed using the Shannon Diversity Index?
+    id: 160451
+    title: >-
+        How can species richness be assessed in a biodiversity study?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
+    url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
 related_article3:
     id: 160443
-    title: How is species richness assessed using the Shannon Diversity Index?
+    title: >-
+        How is species richness assessed using the Shannon Diversity Index?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
 related_article4:
-    id: 160448
-    title: What are the key considerations when interpreting spatial patterns in ecological data?
+    id: 160439
+    title: >-
+        What factors contribute to high net primary productivity in an ecosystem?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-considerations-when-interpreting-spatial-patterns-in-ecological-data
+    url: /learn/education-studies/questions/what-factors-contribute-to-high-net-primary-productivity-in-an-ecosystem
 related_article5:
-    id: 160445
-    title: How can the natural logarithm be applied in Excel for ecological data analysis?
+    id: 160447
+    title: >-
+        How can temporal trends be analyzed in ecological data?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-natural-logarithm-be-applied-in-excel-for-ecological-data-analysis
+    url: /learn/education-studies/questions/how-can-temporal-trends-be-analyzed-in-ecological-data
 ---
 
 &nbsp;

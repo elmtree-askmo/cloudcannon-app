@@ -2,8 +2,10 @@
 _schema: default
 id: 166038
 date: 2025-01-29
-title: What significant discoveries have been made through excavations of the Classical Acropolis?
-article_title: What significant discoveries have been made through excavations of the Classical Acropolis?
+title: >-
+    What significant discoveries have been made through excavations of the Classical Acropolis?
+article_title: >-
+    What significant discoveries have been made through excavations of the Classical Acropolis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-significant-discoveries-have-been-made-through-excavations-of-th
 url: /learn/history-of-the-world/questions/what-significant-discoveries-have-been-made-through-excavations-of-the-classical-acropolis
 score: 8.5
 related_article1:
+    id: 166039
+    title: >-
+        What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-do-archaeologists-face-in-preserving-and-interpreting-ancient-athenian-sites
+related_article2:
+    id: 166034
+    title: >-
+        What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
+related_article3:
+    id: 166037
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
+related_article4:
+    id: 166025
+    title: >-
+        How did Solon's reforms impact the socioeconomic classes in Athens?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
+related_article5:
     id: 166021
-    title: How did the concept of direct democracy function in ancient Athens?
+    title: >-
+        How did the concept of direct democracy function in ancient Athens?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
-related_article2:
-    id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
-related_article3:
-    id: 166019
-    title: What is the myth of Synoikism, and how does it relate to the Attica region?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
-related_article4:
-    id: 166020
-    title: What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
-related_article5:
-    id: 166023
-    title: Who were the Archons, and what was their function in Athenian political institutions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
 ---
 
 &nbsp;

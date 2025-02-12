@@ -2,8 +2,10 @@
 _schema: default
 id: 166696
 date: 2025-01-31
-title: What is the process of force decomposition in vector mathematics?
-article_title: What is the process of force decomposition in vector mathematics?
+title: >-
+    What is the process of force decomposition in vector mathematics?
+article_title: >-
+    What is the process of force decomposition in vector mathematics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-process-of-force-decomposition-in-vector-mathematics.md
 url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 score: -1.0
 related_article1:
-    id: 166720
-    title: What types of events do engineering organizations typically host?
+    id: 166721
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
+    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
 related_article2:
-    id: 166695
-    title: How are position vectors used in 3D vector analysis?
+    id: 166719
+    title: >-
+        How do engineering organizations support networking and professional development?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
+    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 related_article3:
-    id: 166710
-    title: What are the eligibility criteria for engineering scholarships?
+    id: 166721
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
+    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
 related_article4:
     id: 166717
-    title: How is robotics automation being integrated with AI, and what are its future prospects?
+    title: >-
+        How is robotics automation being integrated with AI, and what are its future prospects?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-robotics-automation-being-integrated-with-ai-and-what-are-its-future-prospects
 related_article5:
     id: 166702
-    title: How does torque relate to the moment of force?
+    title: >-
+        How does torque relate to the moment of force?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
 ---

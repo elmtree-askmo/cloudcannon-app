@@ -2,8 +2,10 @@
 _schema: default
 id: 162004
 date: 2025-01-24
-title: Explain the plain view doctrine and its legal standards.
-article_title: Explain the plain view doctrine and its legal standards.
+title: >-
+    Explain the plain view doctrine and its legal standards.
+article_title: >-
+    Explain the plain view doctrine and its legal standards.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-plain-view-doctrine-and-its-legal-standards.md
 url: /learn/criminal-or-civil-law/questions/explain-the-plain-view-doctrine-and-its-legal-standards
 score: -1.0
 related_article1:
-    id: 162001
-    title: What constitutes exigent circumstances in legal terms?
+    id: 162008
+    title: >-
+        What are Charter remedies and how do they apply in court interpretations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
+    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
 related_article2:
-    id: 161995
-    title: What are the legal requirements for obtaining an arrest warrant?
+    id: 162003
+    title: >-
+        What are the legal standards for conducting consent searches?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-obtaining-an-arrest-warrant
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
 related_article3:
-    id: 162005
-    title: What are the legal requirements for issuing production orders?
+    id: 162006
+    title: >-
+        Discuss the privacy considerations involved in DNA collection.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-issuing-production-orders
+    url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
 related_article4:
-    id: 161997
-    title: What is the legal framework governing search and seizure?
+    id: 162003
+    title: >-
+        What are the legal standards for conducting consent searches?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
 related_article5:
-    id: 162012
-    title: What are the legal standards for a search incident to arrest?
+    id: 162003
+    title: >-
+        What are the legal standards for conducting consent searches?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
 ---
 
 &nbsp;

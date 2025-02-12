@@ -2,8 +2,10 @@
 _schema: default
 id: 170284
 date: 2025-02-06
-title: What are the main components of the carbon cycle?
-article_title: What are the main components of the carbon cycle?
+title: >-
+    What are the main components of the carbon cycle?
+article_title: >-
+    What are the main components of the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-the-carbon-cycle.md
 url: /learn/education-studies/questions/what-are-the-main-components-of-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170287
-    title: What is carbon sequestration and why is it important?
+    id: 170285
+    title: >-
+        How does fossil fuel combustion impact the carbon cycle?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-carbon-sequestration-and-why-is-it-important
+    url: /learn/education-studies/questions/how-does-fossil-fuel-combustion-impact-the-carbon-cycle
 related_article2:
+    id: 170291
+    title: >-
+        What techniques can be used for self-testing in preparation for assessments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-can-be-used-for-selftesting-in-preparation-for-assessments
+related_article3:
+    id: 170291
+    title: >-
+        What techniques can be used for self-testing in preparation for assessments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-can-be-used-for-selftesting-in-preparation-for-assessments
+related_article4:
+    id: 170293
+    title: >-
+        What strategies can be implemented for continuous improvement in understanding the carbon cycle?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-implemented-for-continuous-improvement-in-understanding-the-carbon-cycle
+related_article5:
     id: 170290
-    title: How can online practice tests aid in assessment preparation?
+    title: >-
+        How can online practice tests aid in assessment preparation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-online-practice-tests-aid-in-assessment-preparation
-related_article3:
-    id: 170288
-    title: What challenges might students face when understanding the carbon cycle?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-might-students-face-when-understanding-the-carbon-cycle
-related_article4:
-    id: 170288
-    title: What challenges might students face when understanding the carbon cycle?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-might-students-face-when-understanding-the-carbon-cycle
-related_article5:
-    id: 170286
-    title: Explain the role of photosynthesis in the carbon cycle.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
 ---
 
 &nbsp;

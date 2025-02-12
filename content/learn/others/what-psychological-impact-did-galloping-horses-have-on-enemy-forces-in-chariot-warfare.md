@@ -2,8 +2,10 @@
 _schema: default
 id: 166060
 date: 2025-01-29
-title: What psychological impact did galloping horses have on enemy forces in chariot warfare?
-article_title: What psychological impact did galloping horses have on enemy forces in chariot warfare?
+title: >-
+    What psychological impact did galloping horses have on enemy forces in chariot warfare?
+article_title: >-
+    What psychological impact did galloping horses have on enemy forces in chariot warfare?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-psychological-impact-did-galloping-horses-have-on-enemy-forces-i
 url: /learn/others/questions/what-psychological-impact-did-galloping-horses-have-on-enemy-forces-in-chariot-warfare
 score: -1.0
 related_article1:
-    id: 166062
-    title: How did chariot drivers support infantry during transitions in combat?
+    id: 166070
+    title: >-
+        How did chariots disrupt enemy formations and facilitate tactical retreats?
     subject: Others
-    url: /learn/others/questions/how-did-chariot-drivers-support-infantry-during-transitions-in-combat
+    url: /learn/others/questions/how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-retreats
 related_article2:
     id: 166067
-    title: How did chariot drivers execute quick stops and turns effectively?
+    title: >-
+        How did chariot drivers execute quick stops and turns effectively?
     subject: Others
     url: /learn/others/questions/how-did-chariot-drivers-execute-quick-stops-and-turns-effectively
 related_article3:
-    id: 166072
-    title: How did drivers and horses coordinate effectively during battle maneuvers?
+    id: 166073
+    title: >-
+        What techniques were used to navigate difficult terrain with chariots?
     subject: Others
-    url: /learn/others/questions/how-did-drivers-and-horses-coordinate-effectively-during-battle-maneuvers
+    url: /learn/others/questions/what-techniques-were-used-to-navigate-difficult-terrain-with-chariots
 related_article4:
-    id: 166068
-    title: Explain the advanced maneuver of running along the yoke in chariot driving.
+    id: 166073
+    title: >-
+        What techniques were used to navigate difficult terrain with chariots?
     subject: Others
-    url: /learn/others/questions/explain-the-advanced-maneuver-of-running-along-the-yoke-in-chariot-driving
+    url: /learn/others/questions/what-techniques-were-used-to-navigate-difficult-terrain-with-chariots
 related_article5:
-    id: 166061
-    title: Describe the initial engagement and mobility strategies used in chariot combat.
+    id: 166070
+    title: >-
+        How did chariots disrupt enemy formations and facilitate tactical retreats?
     subject: Others
-    url: /learn/others/questions/describe-the-initial-engagement-and-mobility-strategies-used-in-chariot-combat
+    url: /learn/others/questions/how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-retreats
 ---
 
 &nbsp;

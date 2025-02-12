@@ -2,8 +2,10 @@
 _schema: default
 id: 165731
 date: 2025-01-29
-title: What is the significance of using private IPv4 address space within intranets?
-article_title: What is the significance of using private IPv4 address space within intranets?
+title: >-
+    What is the significance of using private IPv4 address space within intranets?
+article_title: >-
+    What is the significance of using private IPv4 address space within intranets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-using-private-ipv4-address-space-within-i
 url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
 score: -1.0
 related_article1:
-    id: 165724
-    title: What is the primary purpose of subnetting in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
-related_article2:
-    id: 165728
-    title: How do subnet masks help in identifying network and host portions of an IP address?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-subnet-masks-help-in-identifying-network-and-host-portions-of-an-ip-address
-related_article3:
-    id: 165732
-    title: What are the configuration requirements for using public IPv4 address space in a DMZ?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-requirements-for-using-public-ipv4-address-space-in-a-dmz
-related_article4:
     id: 165735
-    title: How do you determine the number of hosts required per subnet and allocate addresses efficiently?
+    title: >-
+        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
-related_article5:
-    id: 165726
-    title: What is a broadcast domain and how do routers affect them?
+related_article2:
+    id: 165734
+    title: >-
+        What role do security policies play in managing network traffic between subnets?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
+    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
+related_article3:
+    id: 165734
+    title: >-
+        What role do security policies play in managing network traffic between subnets?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
+related_article4:
+    id: 165725
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
+related_article5:
+    id: 165730
+    title: >-
+        How does prefix length relate to subnet masks and impact the number of available hosts?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
 ---
 
 &nbsp;

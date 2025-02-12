@@ -2,8 +2,10 @@
 _schema: default
 id: 167437
 date: 2025-01-31
-title: How does the specific heat of water contribute to environmental temperature stabilization?
-article_title: How does the specific heat of water contribute to environmental temperature stabilization?
+title: >-
+    How does the specific heat of water contribute to environmental temperature stabilization?
+article_title: >-
+    How does the specific heat of water contribute to environmental temperature stabilization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-the-specific-heat-of-water-contribute-to-environmental-tempe
 url: /learn/chemistry/questions/how-does-the-specific-heat-of-water-contribute-to-environmental-temperature-stabilization
 score: -1.0
 related_article1:
-    id: 167426
-    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    id: 167442
+    title: >-
+        What is the function of xylem in plants and how does it facilitate water transport against gravity?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+    url: /learn/chemistry/questions/what-is-the-function-of-xylem-in-plants-and-how-does-it-facilitate-water-transport-against-gravity
 related_article2:
-    id: 167430
-    title: Describe the role of adhesion in plant transport systems.
+    id: 167429
+    title: >-
+        What is adhesion and how does it differ from cohesion in terms of mechanism?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-role-of-adhesion-in-plant-transport-systems
+    url: /learn/chemistry/questions/what-is-adhesion-and-how-does-it-differ-from-cohesion-in-terms-of-mechanism
 related_article3:
-    id: 167426
-    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    id: 167439
+    title: >-
+        What is the biological significance of the lower density of ice compared to liquid water?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
 related_article4:
-    id: 167440
-    title: Explain the mechanism of evaporative cooling and its role in heat removal.
+    id: 167439
+    title: >-
+        What is the biological significance of the lower density of ice compared to liquid water?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-mechanism-of-evaporative-cooling-and-its-role-in-heat-removal
+    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
 related_article5:
     id: 167426
-    title: Explain the role of hydrogen bonding in molecular interactions within water.
+    title: >-
+        Explain the role of hydrogen bonding in molecular interactions within water.
     subject: Chemistry
     url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
 ---

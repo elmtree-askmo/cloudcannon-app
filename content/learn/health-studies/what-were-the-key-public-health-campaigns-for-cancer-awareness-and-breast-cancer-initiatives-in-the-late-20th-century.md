@@ -2,8 +2,10 @@
 _schema: default
 id: 162345
 date: 2025-01-25
-title: What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
-article_title: What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+title: >-
+    What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+article_title: >-
+    What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-public-health-campaigns-for-cancer-awareness-and-br
 url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
 score: -1.0
 related_article1:
-    id: 162329
-    title: How did public health nursing contribute to maternal and child health in the 1920s?
+    id: 162339
+    title: >-
+        How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-public-health-nursing-contribute-to-maternal-and-child-health-in-the-1920s
+    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
 related_article2:
-    id: 162342
-    title: How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
+    id: 162318
+    title: >-
+        How did Edward Playter influence sanitary reforms in the late 19th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
+    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
 related_article3:
-    id: 162321
-    title: How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
+    id: 162350
+    title: >-
+        How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-the-establishment-of-the-canadian-public-health-association
+    url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
 related_article4:
-    id: 162334
-    title: How did the Great Depression affect public health funding and services in the 1930s?
+    id: 162338
+    title: >-
+        What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
+    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
 related_article5:
-    id: 162319
-    title: What role did public health laboratories play in the introduction of bacteriology and disease control?
+    id: 162338
+    title: >-
+        What were the major public health campaigns and vaccination strategies developed in response to the polio crises of the 1950s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-public-health-laboratories-play-in-the-introduction-of-bacteriology-and-disease-control
+    url: /learn/health-studies/questions/what-were-the-major-public-health-campaigns-and-vaccination-strategies-developed-in-response-to-the-polio-crises-of-the-1950s
 ---
 
 &nbsp;

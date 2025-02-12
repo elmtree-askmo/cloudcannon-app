@@ -2,8 +2,10 @@
 _schema: default
 id: 169014
 date: 2025-02-04
-title: How have media and public perception shaped cultural representations of revolution?
-article_title: How have media and public perception shaped cultural representations of revolution?
+title: >-
+    How have media and public perception shaped cultural representations of revolution?
+article_title: >-
+    How have media and public perception shaped cultural representations of revolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-media-and-public-perception-shaped-cultural-representations-
 url: /learn/history-of-the-world/questions/how-have-media-and-public-perception-shaped-cultural-representations-of-revolution
 score: 8.5
 related_article1:
-    id: 169010
-    title: How do gendered constructs influence societal understandings of space?
+    id: 169012
+    title: >-
+        Who were some key figures in the Mexican Revolution, and what were their contributions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-gendered-constructs-influence-societal-understandings-of-space
+    url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
 related_article2:
+    id: 169015
+    title: >-
+        What cultural understandings are associated with revolutionary movements?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-cultural-understandings-are-associated-with-revolutionary-movements
+related_article3:
+    id: 169021
+    title: >-
+        What role do cultural understandings play in architectural spaces?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-do-cultural-understandings-play-in-architectural-spaces
+related_article4:
     id: 169016
-    title: How can buildings serve as symbols of revolutionary movements?
+    title: >-
+        How can buildings serve as symbols of revolutionary movements?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
-related_article3:
-    id: 169007
-    title: How is architecture strategically used in different contexts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
-related_article4:
-    id: 169013
-    title: What strategies and tactics were employed during the Mexican Revolution?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
 related_article5:
-    id: 169001
-    title: How does collective work influence architectural history beyond individual builders?
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-collective-work-influence-architectural-history-beyond-individual-builders
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 ---
 
 &nbsp;

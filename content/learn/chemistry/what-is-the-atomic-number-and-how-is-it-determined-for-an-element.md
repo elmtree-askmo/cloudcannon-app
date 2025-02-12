@@ -2,8 +2,10 @@
 _schema: default
 id: 167057
 date: 2025-01-31
-title: What is the atomic number and how is it determined for an element?
-article_title: What is the atomic number and how is it determined for an element?
+title: >-
+    What is the atomic number and how is it determined for an element?
+article_title: >-
+    What is the atomic number and how is it determined for an element?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-atomic-number-and-how-is-it-determined-for-an-element.md
 url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
 score: -1.0
 related_article1:
-    id: 167059
-    title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
-related_article2:
-    id: 167056
-    title: How do electron shells relate to energy levels in an atom?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
-related_article3:
-    id: 167066
-    title: How do covalent and ionic compounds differ in terms of molecular structure?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
-related_article4:
-    id: 167055
-    title: What are the three main subatomic particles and their respective charges?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
-related_article5:
     id: 167070
-    title: What is the difference between isotopes and ions in terms of atomic and molecular terms?
+    title: >-
+        What is the difference between isotopes and ions in terms of atomic and molecular terms?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-difference-between-isotopes-and-ions-in-terms-of-atomic-and-molecular-terms
+related_article2:
+    id: 167063
+    title: >-
+        How does electronegativity influence chemical bonding?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
+related_article3:
+    id: 167068
+    title: >-
+        What are the characteristics of carbon that make it versatile in forming organic molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-carbon-that-make-it-versatile-in-forming-organic-molecules
+related_article4:
+    id: 167065
+    title: >-
+        What role do hydrogen bonds play in molecular interactions?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
+related_article5:
+    id: 167055
+    title: >-
+        What are the three main subatomic particles and their respective charges?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 ---
 
 &nbsp;

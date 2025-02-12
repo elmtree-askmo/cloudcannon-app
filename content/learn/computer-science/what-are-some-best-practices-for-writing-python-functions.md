@@ -2,8 +2,10 @@
 _schema: default
 id: 168604
 date: 2025-02-03
-title: What are some best practices for writing Python functions?
-article_title: What are some best practices for writing Python functions?
+title: >-
+    What are some best practices for writing Python functions?
+article_title: >-
+    What are some best practices for writing Python functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-best-practices-for-writing-python-functions.md
 url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
 score: -1.0
 related_article1:
-    id: 168609
-    title: How does inheritance contribute to reusability in object-oriented programming?
+    id: 168594
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
+    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 related_article2:
-    id: 168605
-    title: How can you import and use a module in Python?
+    id: 168596
+    title: >-
+        What is the purpose of using the try...except statement in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-import-and-use-a-module-in-python
+    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 related_article3:
-    id: 168602
-    title: What is the purpose of raising exceptions in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
-related_article4:
-    id: 168590
-    title: How do you call a function with parameters in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
-related_article5:
     id: 168601
-    title: How can you access a function's docstring in Python?
+    title: >-
+        How can you access a function's docstring in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
+related_article4:
+    id: 168592
+    title: >-
+        How can you use the math module to calculate the square root of a number?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
+related_article5:
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 ---
 
 &nbsp;

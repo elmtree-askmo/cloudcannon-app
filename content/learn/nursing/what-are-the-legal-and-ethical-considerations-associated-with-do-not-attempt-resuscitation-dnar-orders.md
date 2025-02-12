@@ -2,8 +2,10 @@
 _schema: default
 id: 169457
 date: 2025-02-05
-title: What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
-article_title: What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+title: >-
+    What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
+article_title: >-
+    What are the legal and ethical considerations associated with Do Not Attempt Resuscitation (DNAR) orders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-legal-and-ethical-considerations-associated-with-do-not-
 url: /learn/nursing/questions/what-are-the-legal-and-ethical-considerations-associated-with-do-not-attempt-resuscitation-dnar-orders
 score: -1.0
 related_article1:
-    id: 169456
-    title: Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
+    id: 169461
+    title: >-
+        What are the initial steps in emergency response protocols for assessing scene safety?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
+    url: /learn/nursing/questions/what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety
 related_article2:
-    id: 169450
-    title: What are the key steps in the Adult Basic Life Support Algorithm for recognizing cardiac arrest?
+    id: 169460
+    title: >-
+        What are the common causes of cardiac arrest related to heart rhythm abnormalities?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-steps-in-the-adult-basic-life-support-algorithm-for-recognizing-cardiac-arrest
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
 related_article3:
-    id: 169456
-    title: Why is early recognition and intervention crucial in the chain of survival for cardiac arrest?
+    id: 169461
+    title: >-
+        What are the initial steps in emergency response protocols for assessing scene safety?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-early-recognition-and-intervention-crucial-in-the-chain-of-survival-for-cardiac-arrest
+    url: /learn/nursing/questions/what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety
 related_article4:
-    id: 169458
-    title: How does an Advanced Decision to Refuse Treatment (ADRT) differ from a DNAR order?
+    id: 169461
+    title: >-
+        What are the initial steps in emergency response protocols for assessing scene safety?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-an-advanced-decision-to-refuse-treatment-adrt-differ-from-a-dnar-order
+    url: /learn/nursing/questions/what-are-the-initial-steps-in-emergency-response-protocols-for-assessing-scene-safety
 related_article5:
-    id: 169455
-    title: What are the differences between shockable and non-shockable rhythms in cardiac arrest?
+    id: 169460
+    title: >-
+        What are the common causes of cardiac arrest related to heart rhythm abnormalities?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-shockable-and-nonshockable-rhythms-in-cardiac-arrest
+    url: /learn/nursing/questions/what-are-the-common-causes-of-cardiac-arrest-related-to-heart-rhythm-abnormalities
 ---
 
 &nbsp;

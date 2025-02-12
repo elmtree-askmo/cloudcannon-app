@@ -2,8 +2,10 @@
 _schema: default
 id: 163664
 date: 2025-01-27
-title: What are the main goals of decolonial processes in the context of reconciliation and land ownership?
-article_title: What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+title: >-
+    What are the main goals of decolonial processes in the context of reconciliation and land ownership?
+article_title: >-
+    What are the main goals of decolonial processes in the context of reconciliation and land ownership?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-
 score: -1.0
 related_article1:
     id: 163670
-    title: What is the historical context of settler colonialism and its impact on Indigenous communities?
+    title: >-
+        What is the historical context of settler colonialism and its impact on Indigenous communities?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
 related_article2:
-    id: 163672
-    title: How does primary data collection differ from secondary data analysis in research?
+    id: 163661
+    title: >-
+        How do social inequalities manifest within social hierarchies?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 related_article3:
-    id: 163672
-    title: How does primary data collection differ from secondary data analysis in research?
+    id: 163666
+    title: >-
+        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+    url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 related_article4:
     id: 163671
-    title: What are the key components of a research strategy in methodology?
+    title: >-
+        What are the key components of a research strategy in methodology?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-components-of-a-research-strategy-in-methodology
 related_article5:
-    id: 163669
-    title: How do race, class, and gender influence social relations and outcomes of social processes?
+    id: 163665
+    title: >-
+        How do epistemological claims influence knowledge production in research?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
+    url: /learn/sociology/questions/how-do-epistemological-claims-influence-knowledge-production-in-research
 ---
 
 &nbsp;

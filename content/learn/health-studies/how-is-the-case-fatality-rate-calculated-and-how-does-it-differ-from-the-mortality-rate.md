@@ -2,8 +2,10 @@
 _schema: default
 id: 163313
 date: 2025-01-26
-title: How is the case fatality rate calculated and how does it differ from the mortality rate?
-article_title: How is the case fatality rate calculated and how does it differ from the mortality rate?
+title: >-
+    How is the case fatality rate calculated and how does it differ from the mortality rate?
+article_title: >-
+    How is the case fatality rate calculated and how does it differ from the mortality rate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-
 url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
 score: -1.0
 related_article1:
-    id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+    id: 162987
+    title: >-
+        How do outbreaks differ from epidemics in terms of their definitions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article2:
-    id: 163312
-    title: What distinguishes a crude mortality rate from a specific mortality rate?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-rate
-related_article3:
     id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+    title: >-
+        What is the purpose of direct standardization in calculating age-adjusted rates?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+related_article3:
+    id: 162992
+    title: >-
+        How do positive and negative associations differ in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
 related_article4:
-    id: 163323
-    title: What is the difference between positive and negative associations in epidemiology?
+    id: 162985
+    title: >-
+        How do descriptive and analytic epidemiologic questions differ in their objectives?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
+    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
 related_article5:
-    id: 163204
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    id: 163310
+    title: >-
+        What is the difference between crude rates and specific rates in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+    url: /learn/health-studies/questions/what-is-the-difference-between-crude-rates-and-specific-rates-in-epidemiology
 ---
 
 &nbsp;

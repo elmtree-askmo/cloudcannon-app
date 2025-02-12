@@ -2,8 +2,10 @@
 _schema: default
 id: 164389
 date: 2025-01-28
-title: Which neural pathways are involved in communication disorders?
-article_title: Which neural pathways are involved in communication disorders?
+title: >-
+    Which neural pathways are involved in communication disorders?
+article_title: >-
+    Which neural pathways are involved in communication disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: which-neural-pathways-are-involved-in-communication-disorders.md
 url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
 score: -1.0
 related_article1:
-    id: 164385
-    title: Differentiate between syntax and grammar in the context of language processing.
+    id: 164390
+    title: >-
+        What are the neural mechanisms involved in speech production?
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-syntax-and-grammar-in-the-context-of-language-processing
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
 related_article2:
-    id: 164396
-    title: How does the left hemisphere contribute to language comprehension?
+    id: 164395
+    title: >-
+        What psychological theories are relevant to auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
+    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
 related_article3:
-    id: 164401
-    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
+    id: 164388
+    title: >-
+        What are some common types of communication disorders, and how do they affect language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
+    url: /learn/psychology/questions/what-are-some-common-types-of-communication-disorders-and-how-do-they-affect-language-processing
 related_article4:
     id: 164390
-    title: What are the neural mechanisms involved in speech production?
+    title: >-
+        What are the neural mechanisms involved in speech production?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
 related_article5:
-    id: 164391
-    title: How does cognitive psychology contribute to our understanding of speech production?
+    id: 164392
+    title: >-
+        Identify the brain regions involved in speech production.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
+    url: /learn/psychology/questions/identify-the-brain-regions-involved-in-speech-production
 ---
 
 &nbsp;

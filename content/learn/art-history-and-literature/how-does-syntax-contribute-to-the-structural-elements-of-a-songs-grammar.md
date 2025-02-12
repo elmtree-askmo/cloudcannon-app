@@ -2,8 +2,10 @@
 _schema: default
 id: 164623
 date: 2025-01-28
-title: How does syntax contribute to the structural elements of a song's grammar?
-article_title: How does syntax contribute to the structural elements of a song's grammar?
+title: >-
+    How does syntax contribute to the structural elements of a song's grammar?
+article_title: >-
+    How does syntax contribute to the structural elements of a song's grammar?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-syntax-contribute-to-the-structural-elements-of-a-songs-gram
 url: /learn/art-history-and-literature/questions/how-does-syntax-contribute-to-the-structural-elements-of-a-songs-grammar
 score: 8.5
 related_article1:
-    id: 164617
-    title: What are the phonetic elements of language music?
+    id: 164626
+    title: >-
+        How does emotional energy in music affect listeners psychologically?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
+    url: /learn/art-history-and-literature/questions/how-does-emotional-energy-in-music-affect-listeners-psychologically
 related_article2:
-    id: 164617
-    title: What are the phonetic elements of language music?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
-related_article3:
     id: 164620
-    title: What are the stages of speech sound development in children?
+    title: >-
+        What are the stages of speech sound development in children?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-stages-of-speech-sound-development-in-children
+related_article3:
+    id: 164626
+    title: >-
+        How does emotional energy in music affect listeners psychologically?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-emotional-energy-in-music-affect-listeners-psychologically
 related_article4:
-    id: 164629
-    title: How does melody vary across different musical genres?
+    id: 164615
+    title: >-
+        What distinguishes language music from traditional music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-melody-vary-across-different-musical-genres
+    url: /learn/art-history-and-literature/questions/what-distinguishes-language-music-from-traditional-music
 related_article5:
-    id: 164618
-    title: How do rhythmic patterns contribute to the structure of language music?
+    id: 164620
+    title: >-
+        What are the stages of speech sound development in children?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-rhythmic-patterns-contribute-to-the-structure-of-language-music
+    url: /learn/art-history-and-literature/questions/what-are-the-stages-of-speech-sound-development-in-children
 ---
 
 &nbsp;

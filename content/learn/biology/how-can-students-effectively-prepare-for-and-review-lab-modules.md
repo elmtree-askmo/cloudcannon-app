@@ -2,8 +2,10 @@
 _schema: default
 id: 163366
 date: 2025-01-26
-title: How can students effectively prepare for and review lab modules?
-article_title: How can students effectively prepare for and review lab modules?
+title: >-
+    How can students effectively prepare for and review lab modules?
+article_title: >-
+    How can students effectively prepare for and review lab modules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-students-effectively-prepare-for-and-review-lab-modules.md
 url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
 score: -1.0
 related_article1:
-    id: 163368
-    title: Why is it important to stay informed about weekly updates and schedule changes in the lab?
+    id: 163364
+    title: >-
+        How should students prepare for lab practicals, and what materials are required?
     subject: Biology
-    url: /learn/biology/questions/why-is-it-important-to-stay-informed-about-weekly-updates-and-schedule-changes-in-the-lab
+    url: /learn/biology/questions/how-should-students-prepare-for-lab-practicals-and-what-materials-are-required
 related_article2:
-    id: 163369
-    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    id: 163370
+    title: >-
+        How should lab handouts be organized and stored for easy accessibility during labs?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+    url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
 related_article3:
-    id: 163362
-    title: Describe the types of questions typically found in lab quizzes and how often they occur.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
-related_article4:
-    id: 163362
-    title: Describe the types of questions typically found in lab quizzes and how often they occur.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
-related_article5:
     id: 163369
-    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    title: >-
+        What is the purpose of lab handouts, and how should they be integrated with lab activities?
     subject: Biology
     url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+related_article4:
+    id: 163370
+    title: >-
+        How should lab handouts be organized and stored for easy accessibility during labs?
+    subject: Biology
+    url: /learn/biology/questions/how-should-lab-handouts-be-organized-and-stored-for-easy-accessibility-during-labs
+related_article5:
+    id: 163365
+    title: >-
+        What is the purpose of lab modules, and how do they contribute to learning objectives?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
 ---
 
 &nbsp;

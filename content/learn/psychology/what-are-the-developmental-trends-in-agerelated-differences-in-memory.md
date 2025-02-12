@@ -2,8 +2,10 @@
 _schema: default
 id: 168012
 date: 2025-02-02
-title: What are the developmental trends in age-related differences in memory?
-article_title: What are the developmental trends in age-related differences in memory?
+title: >-
+    What are the developmental trends in age-related differences in memory?
+article_title: >-
+    What are the developmental trends in age-related differences in memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-developmental-trends-in-agerelated-differences-in-memory
 url: /learn/psychology/questions/what-are-the-developmental-trends-in-agerelated-differences-in-memory
 score: -1.0
 related_article1:
-    id: 168025
-    title: What are the age-related changes in cognitive development that affect memory?
+    id: 168018
+    title: >-
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article2:
     id: 168027
-    title: How can misinformation be avoided during interviews with children?
+    title: >-
+        How can misinformation be avoided during interviews with children?
     subject: Psychology
     url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
 related_article3:
-    id: 168025
-    title: What are the age-related changes in cognitive development that affect memory?
+    id: 168021
+    title: >-
+        What interview techniques can be used to reduce suggestibility in children?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-agerelated-changes-in-cognitive-development-that-affect-memory
+    url: /learn/psychology/questions/what-interview-techniques-can-be-used-to-reduce-suggestibility-in-children
 related_article4:
-    id: 168019
-    title: How does suggestibility in children change with age?
+    id: 168024
+    title: >-
+        How does cognitive development impact memory recall?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+    url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
 related_article5:
-    id: 168028
-    title: What are age-appropriate strategies for interviewing children to ensure accurate testimony?
+    id: 168022
+    title: >-
+        How are false memories generated from suggestive information?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
+    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
 ---
 
 &nbsp;

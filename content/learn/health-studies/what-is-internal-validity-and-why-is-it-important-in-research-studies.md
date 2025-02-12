@@ -2,8 +2,10 @@
 _schema: default
 id: 163246
 date: 2025-01-26
-title: What is internal validity and why is it important in research studies?
-article_title: What is internal validity and why is it important in research studies?
+title: >-
+    What is internal validity and why is it important in research studies?
+article_title: >-
+    What is internal validity and why is it important in research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-internal-validity-and-why-is-it-important-in-research-studies
 url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
 score: -1.0
 related_article1:
-    id: 163256
-    title: Why is a representative sample important in epidemiological studies?
+    id: 163248
+    title: >-
+        What are the main types of bias that can affect a study's results?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-a-representative-sample-important-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
 related_article2:
+    id: 163249
+    title: >-
+        What strategies can be employed to reduce bias in research?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
+related_article3:
+    id: 163251
+    title: >-
+        What are the primary objectives of clinical studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
+related_article4:
+    id: 163254
+    title: >-
+        How can a DAG be used to identify confounders in a study?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
+related_article5:
     id: 163250
-    title: How can confounders be identified and adjusted for in a study?
+    title: >-
+        How can confounders be identified and adjusted for in a study?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-confounders-be-identified-and-adjusted-for-in-a-study
-related_article3:
-    id: 163252
-    title: How do descriptive studies differ from analytic studies in terms of study design?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-descriptive-studies-differ-from-analytic-studies-in-terms-of-study-design
-related_article4:
-    id: 163247
-    title: How can researchers minimize the role of chance in their studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
-related_article5:
-    id: 163262
-    title: What are point of care tools and how are they used in clinical settings?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
 ---
 
 &nbsp;

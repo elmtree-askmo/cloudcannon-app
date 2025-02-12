@@ -2,8 +2,10 @@
 _schema: default
 id: 165871
 date: 2025-01-29
-title: What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
-article_title: What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
+title: >-
+    What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
+article_title: >-
+    What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-an
 url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
 score: -1.0
 related_article1:
-    id: 165875
-    title: What is the significance of clonal expansion in immune memory?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
-related_article2:
-    id: 165865
-    title: What is the role of Toll-Like Receptors in the activation of innate immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
-related_article3:
     id: 165881
-    title: What mechanisms are involved in the sustained immune response during secondary exposure?
+    title: >-
+        What mechanisms are involved in the sustained immune response during secondary exposure?
     subject: Health Studies
     url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
+related_article2:
+    id: 165876
+    title: >-
+        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
+related_article3:
+    id: 165873
+    title: >-
+        What is the process of memory cell formation in the humoral immune response?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-process-of-memory-cell-formation-in-the-humoral-immune-response
 related_article4:
-    id: 165860
-    title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
+    id: 165865
+    title: >-
+        What is the role of Toll-Like Receptors in the activation of innate immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
+    url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
 related_article5:
-    id: 165866
-    title: How do monocytes and macrophages differ from neutrophils and eosinophils in their phagocytic functions?
+    id: 165864
+    title: >-
+        How does the NF Kappa B pathway contribute to immune cell activation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-monocytes-and-macrophages-differ-from-neutrophils-and-eosinophils-in-their-phagocytic-functions
+    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
 ---
 
 &nbsp;

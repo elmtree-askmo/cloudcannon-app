@@ -2,8 +2,10 @@
 _schema: default
 id: 160598
 date: 2025-01-24
-title: How did the launch of the first Apple retail store impact the company's sales strategy?
-article_title: How did the launch of the first Apple retail store impact the company's sales strategy?
+title: >-
+    How did the launch of the first Apple retail store impact the company's sales strategy?
+article_title: >-
+    How did the launch of the first Apple retail store impact the company's sales strategy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-launch-of-the-first-apple-retail-store-impact-the-company
 url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
 score: -1.0
 related_article1:
-    id: 160525
-    title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+    id: 160421
+    title: >-
+        What was the significance of the release of Mac OS X 10.0 Cheetah?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
+    url: /learn/computer-science/questions/what-was-the-significance-of-the-release-of-mac-os-x-100-cheetah
 related_article2:
+    id: 160524
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+related_article3:
+    id: 160522
+    title: >-
+        What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-it-from-earlier-versions
+related_article4:
+    id: 160523
+    title: >-
+        How did the introduction of the iPhone in 2007 transform the smartphone market?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
+related_article5:
     id: 160602
-    title: How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
     subject: Computer Science
     url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions-of-the-operating-system
-related_article3:
-    id: 160423
-    title: What were the major updates included in Mac OS X 10.2 Jaguar?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-included-in-mac-os-x-102-jaguar
-related_article4:
-    id: 160428
-    title: How did the transition to aluminum cases affect Apple's product design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
-related_article5:
-    id: 160606
-    title: What was innovative about the design of the Power Mac G4 Cube?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-innovative-about-the-design-of-the-power-mac-g4-cube
 ---
 
 &nbsp;

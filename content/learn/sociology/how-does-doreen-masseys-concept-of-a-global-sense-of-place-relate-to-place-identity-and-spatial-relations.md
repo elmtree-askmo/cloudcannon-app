@@ -2,8 +2,10 @@
 _schema: default
 id: 160565
 date: 2025-01-24
-title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
-article_title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+title: >-
+    How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+article_title: >-
+    How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-
 url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 score: -1.0
 related_article1:
-    id: 160632
-    title: Explain the interaction between global cultures and local traditions in socio-cultural impacts.
+    id: 160081
+    title: >-
+        Describe the role of economic forces and global commodity chains in shaping economic patterns.
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-interaction-between-global-cultures-and-local-traditions-in-sociocultural-impacts
+    url: /learn/sociology/questions/describe-the-role-of-economic-forces-and-global-commodity-chains-in-shaping-economic-patterns
 related_article2:
-    id: 160216
-    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    id: 160235
+    title: >-
+        Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
     subject: Sociology
-    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
 related_article3:
-    id: 160093
-    title: What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
+    id: 160234
+    title: >-
+        What is Doreen Massey's concept of a global sense of place and how does it relate to place identity?
     subject: Sociology
-    url: /learn/sociology/questions/what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving
+    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-how-does-it-relate-to-place-identity
 related_article4:
-    id: 160220
-    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    id: 160078
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
 related_article5:
-    id: 160225
-    title: Describe the methodologies used in qualitative and quantitative research for research skills.
+    id: 160227
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

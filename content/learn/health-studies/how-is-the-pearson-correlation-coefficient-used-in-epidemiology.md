@@ -2,8 +2,10 @@
 _schema: default
 id: 163324
 date: 2025-01-26
-title: How is the Pearson correlation coefficient used in epidemiology?
-article_title: How is the Pearson correlation coefficient used in epidemiology?
+title: >-
+    How is the Pearson correlation coefficient used in epidemiology?
+article_title: >-
+    How is the Pearson correlation coefficient used in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-pearson-correlation-coefficient-used-in-epidemiology.md
 url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
 score: -1.0
 related_article1:
-    id: 162992
-    title: How do positive and negative associations differ in epidemiology?
+    id: 163315
+    title: >-
+        What is the process of direct standardization in calculating age-adjusted rates?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
+    url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
 related_article2:
-    id: 162980
-    title: What is the main limitation of using crude rates in epidemiological studies?
+    id: 163320
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article3:
-    id: 162983
-    title: Why is age-adjustment important when comparing mortality rates across different populations?
+    id: 162978
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 related_article4:
-    id: 162985
-    title: How do descriptive and analytic epidemiologic questions differ in their objectives?
+    id: 162991
+    title: >-
+        What is the ecological fallacy, and why is it a limitation in ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
 related_article5:
-    id: 162979
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
 ---
 
 &nbsp;

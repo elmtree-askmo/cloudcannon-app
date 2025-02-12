@@ -2,8 +2,10 @@
 _schema: default
 id: 169795
 date: 2025-02-05
-title: How can physical therapy contribute to non-pharmacological pain management?
-article_title: How can physical therapy contribute to non-pharmacological pain management?
+title: >-
+    How can physical therapy contribute to non-pharmacological pain management?
+article_title: >-
+    How can physical therapy contribute to non-pharmacological pain management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-physical-therapy-contribute-to-nonpharmacological-pain-manage
 url: /learn/nursing/questions/how-can-physical-therapy-contribute-to-nonpharmacological-pain-management
 score: -1.0
 related_article1:
-    id: 169794
-    title: Describe the role of gabapentin in managing neuropathic pain.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-role-of-gabapentin-in-managing-neuropathic-pain
-related_article2:
     id: 169798
-    title: Outline the stepwise approach of the World Health Organization Pain Ladder.
+    title: >-
+        Outline the stepwise approach of the World Health Organization Pain Ladder.
     subject: Nursing
     url: /learn/nursing/questions/outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder
-related_article3:
+related_article2:
     id: 169791
-    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    title: >-
+        Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
     subject: Nursing
     url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article3:
+    id: 169794
+    title: >-
+        Describe the role of gabapentin in managing neuropathic pain.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-role-of-gabapentin-in-managing-neuropathic-pain
 related_article4:
-    id: 169792
-    title: Compare the uses and risks of non-opioid analgesics such as paracetamol and NSAIDs.
+    id: 169797
+    title: >-
+        What is the holistic approach to pain management, and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/compare-the-uses-and-risks-of-nonopioid-analgesics-such-as-paracetamol-and-nsaids
+    url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
 related_article5:
-    id: 169798
-    title: Outline the stepwise approach of the World Health Organization Pain Ladder.
+    id: 169791
+    title: >-
+        Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
     subject: Nursing
-    url: /learn/nursing/questions/outline-the-stepwise-approach-of-the-world-health-organization-pain-ladder
+    url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
 ---
 
 &nbsp;

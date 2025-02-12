@@ -2,8 +2,10 @@
 _schema: default
 id: 160065
 date: 2025-01-23
-title: Why are elective modules important, and how can they be selected to broaden knowledge and explore interests?
-article_title: Why are elective modules important, and how can they be selected to broaden knowledge and explore interests?
+title: >-
+    Why are elective modules important, and how can they be selected to broaden knowledge and explore interests?
+article_title: >-
+    Why are elective modules important, and how can they be selected to broaden knowledge and explore interests?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-elective-modules-important-and-how-can-they-be-selected-to-br
 url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-be-selected-to-broaden-knowledge-and-explore-interests
 score: -1.0
 related_article1:
-    id: 160269
-    title: How do digital and traditional note-making methods compare, and what are their respective advantages?
+    id: 160463
+    title: >-
+        What are the key elements of preparing for a presentation, and how can practicing delivery improve performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-digital-and-traditional-notemaking-methods-compare-and-what-are-their-respective-advantages
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-preparing-for-a-presentation-and-how-can-practicing-delivery-improve-performance
 related_article2:
-    id: 159978
-    title: What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
+    id: 159976
+    title: >-
+        Why are elective modules important, and how can they help in broadening knowledge and exploring interests?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
+    url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-help-in-broadening-knowledge-and-exploring-interests
 related_article3:
-    id: 159960
-    title: What are common barriers to critical thinking, and how can they be overcome?
+    id: 160139
+    title: >-
+        How can visualization techniques help overcome presentation anxiety?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-common-barriers-to-critical-thinking-and-how-can-they-be-overcome
+    url: /learn/education-studies/questions/how-can-visualization-techniques-help-overcome-presentation-anxiety
 related_article4:
-    id: 160321
-    title: How can setting reading goals and reflecting on content enhance reading strategies?
+    id: 159967
+    title: >-
+        What are the benefits of study groups, and how do they contribute to collaborative learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-enhance-reading-strategies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-study-groups-and-how-do-they-contribute-to-collaborative-learning
 related_article5:
-    id: 160277
-    title: How can students manage their time and stress effectively during exams?
+    id: 160055
+    title: >-
+        How can setting reading goals and reflecting on content improve reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-manage-their-time-and-stress-effectively-during-exams
+    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-improve-reading-comprehension
 ---
 
 &nbsp;

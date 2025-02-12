@@ -2,8 +2,10 @@
 _schema: default
 id: 163367
 date: 2025-01-26
-title: What are the primary communication channels for lab announcements and updates?
-article_title: What are the primary communication channels for lab announcements and updates?
+title: >-
+    What are the primary communication channels for lab announcements and updates?
+article_title: >-
+    What are the primary communication channels for lab announcements and updates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-are-the-primary-communication-channels-for-la
 score: -1.0
 related_article1:
     id: 163363
-    title: What are the evaluation criteria for lab practical exams?
+    title: >-
+        What are the evaluation criteria for lab practical exams?
     subject: Biology
     url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
 related_article2:
-    id: 163363
-    title: What are the evaluation criteria for lab practical exams?
+    id: 163359
+    title: >-
+        What are the steps of the scientific method and how are they applied in experiments?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
+    url: /learn/biology/questions/what-are-the-steps-of-the-scientific-method-and-how-are-they-applied-in-experiments
 related_article3:
-    id: 163365
-    title: What is the purpose of lab modules, and how do they contribute to learning objectives?
+    id: 163368
+    title: >-
+        Why is it important to stay informed about weekly updates and schedule changes in the lab?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
+    url: /learn/biology/questions/why-is-it-important-to-stay-informed-about-weekly-updates-and-schedule-changes-in-the-lab
 related_article4:
-    id: 163360
-    title: How can the scientific method handout be utilized effectively in lab settings?
+    id: 163358
+    title: >-
+        List the types of personal protective equipment (PPE) and describe their proper usage.
     subject: Biology
-    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+    url: /learn/biology/questions/list-the-types-of-personal-protective-equipment-ppe-and-describe-their-proper-usage
 related_article5:
-    id: 163360
-    title: How can the scientific method handout be utilized effectively in lab settings?
+    id: 163362
+    title: >-
+        Describe the types of questions typically found in lab quizzes and how often they occur.
     subject: Biology
-    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+    url: /learn/biology/questions/describe-the-types-of-questions-typically-found-in-lab-quizzes-and-how-often-they-occur
 ---
 
 &nbsp;

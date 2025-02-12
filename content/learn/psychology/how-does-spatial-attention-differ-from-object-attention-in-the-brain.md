@@ -2,8 +2,10 @@
 _schema: default
 id: 164419
 date: 2025-01-28
-title: How does spatial attention differ from object attention in the brain?
-article_title: How does spatial attention differ from object attention in the brain?
+title: >-
+    How does spatial attention differ from object attention in the brain?
+article_title: >-
+    How does spatial attention differ from object attention in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-spatial-attention-differ-from-object-attention-in-the-brain.
 url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
 score: -1.0
 related_article1:
-    id: 164435
-    title: How do developmental stages affect executive functions in children?
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
 related_article2:
-    id: 164426
-    title: Which brain regions are involved in emotional regulation, and how do they manage stress?
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
     subject: Psychology
-    url: /learn/psychology/questions/which-brain-regions-are-involved-in-emotional-regulation-and-how-do-they-manage-stress
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 related_article3:
-    id: 164427
-    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    id: 164421
+    title: >-
+        How do cultural differences impact mental health diagnosis and treatment?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+    url: /learn/psychology/questions/how-do-cultural-differences-impact-mental-health-diagnosis-and-treatment
 related_article4:
-    id: 164433
-    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
 related_article5:
-    id: 164437
-    title: How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 ---
 
 &nbsp;

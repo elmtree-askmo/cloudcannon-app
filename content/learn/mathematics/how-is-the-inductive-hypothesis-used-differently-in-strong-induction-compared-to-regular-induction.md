@@ -2,8 +2,10 @@
 _schema: default
 id: 170710
 date: 2025-02-06
-title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
-article_title: How is the inductive hypothesis used differently in strong induction compared to regular induction?
+title: >-
+    How is the inductive hypothesis used differently in strong induction compared to regular induction?
+article_title: >-
+    How is the inductive hypothesis used differently in strong induction compared to regular induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-inductive-hypothesis-used-differently-in-strong-induction-
 url: /learn/mathematics/questions/how-is-the-inductive-hypothesis-used-differently-in-strong-induction-compared-to-regular-induction
 score: -1.0
 related_article1:
-    id: 170720
-    title: How does memoization improve the efficiency of solving problems using dynamic programming?
+    id: 170709
+    title: >-
+        What distinguishes strong induction from regular induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-memoization-improve-the-efficiency-of-solving-problems-using-dynamic-programming
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
 related_article2:
-    id: 170718
-    title: How do divide and conquer algorithms work, and what are their advantages?
+    id: 170711
+    title: >-
+        What is the general structure of a proof by mathematical induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-divide-and-conquer-algorithms-work-and-what-are-their-advantages
+    url: /learn/mathematics/questions/what-is-the-general-structure-of-a-proof-by-mathematical-induction
 related_article3:
-    id: 170716
-    title: What criteria should be considered when comparing the performance of two algorithms?
+    id: 170714
+    title: >-
+        What are some common classes of Big O notation, and what do they represent?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-criteria-should-be-considered-when-comparing-the-performance-of-two-algorithms
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
 related_article4:
-    id: 170721
-    title: What are the advantages and disadvantages of using recursive solutions over iterative ones?
+    id: 170711
+    title: >-
+        What is the general structure of a proof by mathematical induction?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-advantages-and-disadvantages-of-using-recursive-solutions-over-iterative-ones
+    url: /learn/mathematics/questions/what-is-the-general-structure-of-a-proof-by-mathematical-induction
 related_article5:
-    id: 170715
-    title: What are the key techniques for measuring the performance of an algorithm?
+    id: 170717
+    title: >-
+        What are the characteristics of recursive functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
+    url: /learn/mathematics/questions/what-are-the-characteristics-of-recursive-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163179
 date: 2025-01-26
-title: What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
-article_title: What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
+title: >-
+    What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
+article_title: >-
+    What is the purpose of clinical guidelines, and how is evidence systematically reviewed in their development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-clinical-guidelines-and-how-is-evidence-system
 url: /learn/medicine/questions/what-is-the-purpose-of-clinical-guidelines-and-how-is-evidence-systematically-reviewed-in-their-development
 score: -1.0
 related_article1:
-    id: 163175
-    title: What is the Chads 2 score used for in atrial fibrillation patients, and what are its recommendations for anticoagulation?
+    id: 163174
+    title: >-
+        How do risk prediction tools assist in therapy or prevention, and what are their limitations?
     subject: Medicine
-    url: /learn/medicine/questions/what-is-the-chads-2-score-used-for-in-atrial-fibrillation-patients-and-what-are-its-recommendations-for-anticoagulation
+    url: /learn/medicine/questions/how-do-risk-prediction-tools-assist-in-therapy-or-prevention-and-what-are-their-limitations
 related_article2:
+    id: 163173
+    title: >-
+        What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
+related_article3:
+    id: 163181
+    title: >-
+        What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
+    subject: Medicine
+    url: /learn/medicine/questions/what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity
+related_article4:
+    id: 163183
+    title: >-
+        Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+    subject: Medicine
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
+related_article5:
     id: 163186
-    title: How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
+    title: >-
+        How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
     subject: Medicine
     url: /learn/medicine/questions/how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism
-related_article3:
-    id: 163185
-    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
-related_article4:
-    id: 163189
-    title: What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
-related_article5:
-    id: 163180
-    title: Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
-    subject: Medicine
-    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
 ---
 
 &nbsp;

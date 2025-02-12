@@ -2,8 +2,10 @@
 _schema: default
 id: 169880
 date: 2025-02-05
-title: What were the main factors leading to the Roman withdrawal from Scotland?
-article_title: What were the main factors leading to the Roman withdrawal from Scotland?
+title: >-
+    What were the main factors leading to the Roman withdrawal from Scotland?
+article_title: >-
+    What were the main factors leading to the Roman withdrawal from Scotland?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-factors-leading-to-the-roman-withdrawal-from-scotl
 url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-roman-withdrawal-from-scotland
 score: 9.0
 related_article1:
+    id: 169883
+    title: >-
+        What influence did Greek and Roman texts have on medieval historical narratives, such as Bede's Histories?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-influence-did-greek-and-roman-texts-have-on-medieval-historical-narratives-such-as-bedes-histories
+related_article2:
     id: 169864
-    title: What were the key objectives of Agricola's campaigns in Britain?
+    title: >-
+        What were the key objectives of Agricola's campaigns in Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-agricolas-campaigns-in-britain
-related_article2:
-    id: 169876
-    title: In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
 related_article3:
+    id: 169874
+    title: >-
+        What insights do the Vindolanda Tablets provide about Roman daily life and military strategies?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-roman-daily-life-and-military-strategies
+related_article4:
+    id: 169872
+    title: >-
+        What evidence exists for cultural continuity among the Picts from the Iron Age to medieval times?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-evidence-exists-for-cultural-continuity-among-the-picts-from-the-iron-age-to-medieval-times
+related_article5:
     id: 169869
-    title: What role did ancient biographies play in shaping the historical narrative of Roman Britain?
+    title: >-
+        What role did ancient biographies play in shaping the historical narrative of Roman Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-ancient-biographies-play-in-shaping-the-historical-narrative-of-roman-britain
-related_article4:
-    id: 169882
-    title: How do classical sources compare the Celts with other tribes of the ancient world?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-classical-sources-compare-the-celts-with-other-tribes-of-the-ancient-world
-related_article5:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
 ---
 
 &nbsp;

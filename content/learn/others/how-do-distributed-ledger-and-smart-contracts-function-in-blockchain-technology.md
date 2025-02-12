@@ -2,8 +2,10 @@
 _schema: default
 id: 162378
 date: 2025-01-25
-title: How do distributed ledger and smart contracts function in blockchain technology?
-article_title: How do distributed ledger and smart contracts function in blockchain technology?
+title: >-
+    How do distributed ledger and smart contracts function in blockchain technology?
+article_title: >-
+    How do distributed ledger and smart contracts function in blockchain technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-distributed-ledger-and-smart-contracts-function-in-blockchain-
 url: /learn/others/questions/how-do-distributed-ledger-and-smart-contracts-function-in-blockchain-technology
 score: -1.0
 related_article1:
-    id: 162355
-    title: What are the main types of machine learning algorithms, and how do they differ?
-    subject: Others
-    url: /learn/others/questions/what-are-the-main-types-of-machine-learning-algorithms-and-how-do-they-differ
-related_article2:
-    id: 162358
-    title: What ethical considerations and challenges are associated with artificial intelligence?
-    subject: Others
-    url: /learn/others/questions/what-ethical-considerations-and-challenges-are-associated-with-artificial-intelligence
-related_article3:
-    id: 162827
-    title: How can Excel, R, and Python be utilized in data analysis for business intelligence?
-    subject: Others
-    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence
-related_article4:
-    id: 162651
-    title: How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
+    id: 162829
+    title: >-
+        How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
     subject: Others
     url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-differ-in-their-applications-for-machine-learning
-related_article5:
-    id: 162732
-    title: What are the benefits of continuous integration and continuous deployment in DevOps practices?
+related_article2:
+    id: 162708
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-continuous-integration-and-continuous-deployment-in-devops-practices
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+related_article3:
+    id: 162359
+    title: >-
+        What are the best practices for creating effective data visualizations?
+    subject: Others
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
+related_article4:
+    id: 162654
+    title: >-
+        What are the best practices for creating effective data visualizations?
+    subject: Others
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
+related_article5:
+    id: 162660
+    title: >-
+        What are the main differences between Hadoop and Spark in big data technologies?
+    subject: Others
+    url: /learn/others/questions/what-are-the-main-differences-between-hadoop-and-spark-in-big-data-technologies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170636
 date: 2025-02-06
-title: Why is prioritizing tasks crucial for effective time management?
-article_title: Why is prioritizing tasks crucial for effective time management?
+title: >-
+    Why is prioritizing tasks crucial for effective time management?
+article_title: >-
+    Why is prioritizing tasks crucial for effective time management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-prioritizing-tasks-crucial-for-effective-time-management.md
 url: /learn/education-studies/questions/why-is-prioritizing-tasks-crucial-for-effective-time-management
 score: -1.0
 related_article1:
-    id: 170637
-    title: What is the two-minute rule and how does it aid in time management?
+    id: 170644
+    title: >-
+        How do learning management systems enhance engagement in digital education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-twominute-rule-and-how-does-it-aid-in-time-management
+    url: /learn/education-studies/questions/how-do-learning-management-systems-enhance-engagement-in-digital-education
 related_article2:
     id: 170647
-    title: How do inclusive environments enhance the learning experience and social cohesion?
+    title: >-
+        How do inclusive environments enhance the learning experience and social cohesion?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-inclusive-environments-enhance-the-learning-experience-and-social-cohesion
 related_article3:
-    id: 170640
-    title: How does civic engagement contribute to personal growth and social awareness?
+    id: 170645
+    title: >-
+        What strategies can improve academic performance through goal setting and self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-civic-engagement-contribute-to-personal-growth-and-social-awareness
+    url: /learn/education-studies/questions/what-strategies-can-improve-academic-performance-through-goal-setting-and-selfassessment
 related_article4:
-    id: 170640
-    title: How does civic engagement contribute to personal growth and social awareness?
+    id: 170642
+    title: >-
+        Why is the validity and reliability of peer-reviewed articles important in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-civic-engagement-contribute-to-personal-growth-and-social-awareness
+    url: /learn/education-studies/questions/why-is-the-validity-and-reliability-of-peerreviewed-articles-important-in-research
 related_article5:
-    id: 170641
-    title: What role do digital tools play in the integration of technology in education?
+    id: 170638
+    title: >-
+        How do study habits influence student success?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-digital-tools-play-in-the-integration-of-technology-in-education
+    url: /learn/education-studies/questions/how-do-study-habits-influence-student-success
 ---
 
 &nbsp;

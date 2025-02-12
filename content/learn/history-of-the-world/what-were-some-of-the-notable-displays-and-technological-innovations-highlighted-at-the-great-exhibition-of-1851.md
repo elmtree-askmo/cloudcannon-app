@@ -2,8 +2,10 @@
 _schema: default
 id: 165934
 date: 2025-01-29
-title: What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
-article_title: What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
+title: >-
+    What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
+article_title: >-
+    What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-some-of-the-notable-displays-and-technological-innovations-
 url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
 score: 9.0
 related_article1:
-    id: 165926
-    title: What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
+    id: 165923
+    title: >-
+        How did the Great Exhibition change public perception and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-change-public-perception-and-influence-future-exhibitions
 related_article2:
     id: 165935
-    title: What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
+    title: >-
+        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 related_article3:
-    id: 165926
-    title: What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
+    id: 165935
+    title: >-
+        What are the symbolic elements of the Albert Memorial, and how do they commemorate Prince Albert?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
+    url: /learn/history-of-the-world/questions/what-are-the-symbolic-elements-of-the-albert-memorial-and-how-do-they-commemorate-prince-albert
 related_article4:
-    id: 165922
-    title: In what ways did the Great Exhibition influence global architectural trends?
+    id: 165921
+    title: >-
+        How did the Great Exhibition impact technological advancements in society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-influence-global-architectural-trends
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
 related_article5:
-    id: 165927
-    title: How was the Crystal Palace received by the public during the Great Exhibition?
+    id: 165930
+    title: >-
+        How were art and artifacts from India culturally represented at the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-was-the-crystal-palace-received-by-the-public-during-the-great-exhibition
+    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
 ---
 
 &nbsp;

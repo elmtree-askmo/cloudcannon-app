@@ -2,8 +2,10 @@
 _schema: default
 id: 163337
 date: 2025-01-26
-title: How is person-years of observation calculated, and why is it important in dynamic populations?
-article_title: How is person-years of observation calculated, and why is it important in dynamic populations?
+title: >-
+    How is person-years of observation calculated, and why is it important in dynamic populations?
+article_title: >-
+    How is person-years of observation calculated, and why is it important in dynamic populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-personyears-of-observation-calculated-and-why-is-it-important-
 url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
 score: -1.0
 related_article1:
-    id: 163230
-    title: What is a rate in epidemiology, and how can it be misunderstood?
+    id: 163243
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
 related_article2:
-    id: 163070
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163333
+    title: >-
+        What are the critical assumptions when calculating cumulative incidence?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
 related_article3:
-    id: 163061
-    title: What is the difference between fixed and dynamic populations in epidemiology?
+    id: 163234
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 related_article4:
-    id: 163231
-    title: How is prevalence calculated, and what does it indicate about a population?
+    id: 163341
+    title: >-
+        How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
+    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
 related_article5:
-    id: 163241
-    title: What is the risk difference, and how is it calculated using a 2x2 table?
+    id: 163336
+    title: >-
+        What is the relationship between prevalence, incidence rate, and disease duration?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
+    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
 ---
 
 &nbsp;

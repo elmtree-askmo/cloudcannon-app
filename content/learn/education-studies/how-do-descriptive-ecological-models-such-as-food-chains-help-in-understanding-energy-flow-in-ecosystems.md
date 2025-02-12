@@ -2,8 +2,10 @@
 _schema: default
 id: 168159
 date: 2025-02-02
-title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
-article_title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+title: >-
+    How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+article_title: >-
+    How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-descriptive-ecological-models-such-as-food-chains-help-in-unde
 url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
 score: -1.0
 related_article1:
-    id: 168158
-    title: What are the primary causes of deforestation, and how does it impact biodiversity and human activities?
+    id: 168160
+    title: >-
+        What is the role of predictive modeling in ecological studies, and how do hindcasting and forecasting differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-causes-of-deforestation-and-how-does-it-impact-biodiversity-and-human-activities
+    url: /learn/education-studies/questions/what-is-the-role-of-predictive-modeling-in-ecological-studies-and-how-do-hindcasting-and-forecasting-differ
 related_article2:
     id: 168155
-    title: What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
+    title: >-
+        What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-threats-to-coral-reefs-and-what-conservation-strategies-are-employed-to-protect-them
 related_article3:
+    id: 168151
+    title: >-
+        How does the scientific method guide the process of inquiry and hypothesis formation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
+related_article4:
     id: 168155
-    title: What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
+    title: >-
+        What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-threats-to-coral-reefs-and-what-conservation-strategies-are-employed-to-protect-them
-related_article4:
-    id: 168158
-    title: What are the primary causes of deforestation, and how does it impact biodiversity and human activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-causes-of-deforestation-and-how-does-it-impact-biodiversity-and-human-activities
 related_article5:
-    id: 168158
-    title: What are the primary causes of deforestation, and how does it impact biodiversity and human activities?
+    id: 168148
+    title: >-
+        What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-causes-of-deforestation-and-how-does-it-impact-biodiversity-and-human-activities
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-the-anthropocene-and-how-do-they-illustrate-human-effects-on-the-biosphere
 ---
 
 &nbsp;

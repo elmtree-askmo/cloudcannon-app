@@ -2,8 +2,10 @@
 _schema: default
 id: 166071
 date: 2025-01-29
-title: What training practices were crucial for maintaining control of horses at high speeds?
-article_title: What training practices were crucial for maintaining control of horses at high speeds?
+title: >-
+    What training practices were crucial for maintaining control of horses at high speeds?
+article_title: >-
+    What training practices were crucial for maintaining control of horses at high speeds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-training-practices-were-crucial-for-maintaining-control-of-horse
 url: /learn/others/questions/what-training-practices-were-crucial-for-maintaining-control-of-horses-at-high-speeds
 score: -1.0
 related_article1:
-    id: 166069
-    title: What are the strategic advantages of chariot mobility in warfare?
-    subject: Others
-    url: /learn/others/questions/what-are-the-strategic-advantages-of-chariot-mobility-in-warfare
-related_article2:
-    id: 166066
-    title: What techniques were essential for mastering control of a chariot on steep slopes?
-    subject: Others
-    url: /learn/others/questions/what-techniques-were-essential-for-mastering-control-of-a-chariot-on-steep-slopes
-related_article3:
-    id: 166059
-    title: How did British chariots create chaos in enemy ranks during battle?
-    subject: Others
-    url: /learn/others/questions/how-did-british-chariots-create-chaos-in-enemy-ranks-during-battle
-related_article4:
     id: 166065
-    title: Discuss the evolution of chariot warfare and its influence on later military tactics.
+    title: >-
+        Discuss the evolution of chariot warfare and its influence on later military tactics.
     subject: Others
     url: /learn/others/questions/discuss-the-evolution-of-chariot-warfare-and-its-influence-on-later-military-tactics
-related_article5:
-    id: 166066
-    title: What techniques were essential for mastering control of a chariot on steep slopes?
+related_article2:
+    id: 166069
+    title: >-
+        What are the strategic advantages of chariot mobility in warfare?
     subject: Others
-    url: /learn/others/questions/what-techniques-were-essential-for-mastering-control-of-a-chariot-on-steep-slopes
+    url: /learn/others/questions/what-are-the-strategic-advantages-of-chariot-mobility-in-warfare
+related_article3:
+    id: 166062
+    title: >-
+        How did chariot drivers support infantry during transitions in combat?
+    subject: Others
+    url: /learn/others/questions/how-did-chariot-drivers-support-infantry-during-transitions-in-combat
+related_article4:
+    id: 166072
+    title: >-
+        How did drivers and horses coordinate effectively during battle maneuvers?
+    subject: Others
+    url: /learn/others/questions/how-did-drivers-and-horses-coordinate-effectively-during-battle-maneuvers
+related_article5:
+    id: 166067
+    title: >-
+        How did chariot drivers execute quick stops and turns effectively?
+    subject: Others
+    url: /learn/others/questions/how-did-chariot-drivers-execute-quick-stops-and-turns-effectively
 ---
 
 &nbsp;

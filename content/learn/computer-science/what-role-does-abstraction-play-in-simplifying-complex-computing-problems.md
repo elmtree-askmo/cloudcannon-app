@@ -2,8 +2,10 @@
 _schema: default
 id: 160800
 date: 2025-01-24
-title: What role does abstraction play in simplifying complex computing problems?
-article_title: What role does abstraction play in simplifying complex computing problems?
+title: >-
+    What role does abstraction play in simplifying complex computing problems?
+article_title: >-
+    What role does abstraction play in simplifying complex computing problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-abstraction-play-in-simplifying-complex-computing-prob
 url: /learn/computer-science/questions/what-role-does-abstraction-play-in-simplifying-complex-computing-problems
 score: -1.0
 related_article1:
-    id: 161135
-    title: Explain the traveling salesman problem and its role in NP-completeness.
+    id: 161143
+    title: >-
+        How does the concept of cardinality apply to comparing infinite sets?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
+    url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
 related_article2:
-    id: 160801
-    title: How can abstraction aid in algorithm design?
+    id: 160966
+    title: >-
+        How do static and dynamic analysis techniques differ in algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
+    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
 related_article3:
-    id: 161098
-    title: What is the halting problem, and why is it significant in computability theory?
+    id: 160798
+    title: >-
+        What is the importance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 related_article4:
-    id: 160818
-    title: What breakthroughs have been made in primality testing algorithms?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article5:
-    id: 160965
-    title: What breakthroughs have been made in primality testing algorithms?
+    id: 161283
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 ---
 
 &nbsp;

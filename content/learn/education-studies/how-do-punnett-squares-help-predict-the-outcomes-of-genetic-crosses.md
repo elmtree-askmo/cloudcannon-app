@@ -2,8 +2,10 @@
 _schema: default
 id: 167773
 date: 2025-02-01
-title: How do Punnett squares help predict the outcomes of genetic crosses?
-article_title: How do Punnett squares help predict the outcomes of genetic crosses?
+title: >-
+    How do Punnett squares help predict the outcomes of genetic crosses?
+article_title: >-
+    How do Punnett squares help predict the outcomes of genetic crosses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-punnett-squares-help-predict-the-outcomes-of-genetic-crosses.m
 url: /learn/education-studies/questions/how-do-punnett-squares-help-predict-the-outcomes-of-genetic-crosses
 score: -1.0
 related_article1:
-    id: 167769
-    title: What are the differences between phenotypic and genotypic ratios in genetic crosses?
+    id: 167780
+    title: >-
+        How do linkage and crossing over affect genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-phenotypic-and-genotypic-ratios-in-genetic-crosses
+    url: /learn/education-studies/questions/how-do-linkage-and-crossing-over-affect-genetic-variation
 related_article2:
-    id: 167770
-    title: How does the chromosomal theory of inheritance relate to Mendel's laws?
+    id: 167779
+    title: >-
+        What is the difference between Mendelian and non-Mendelian inheritance patterns?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chromosomal-theory-of-inheritance-relate-to-mendels-laws
+    url: /learn/education-studies/questions/what-is-the-difference-between-mendelian-and-nonmendelian-inheritance-patterns
 related_article3:
-    id: 167770
-    title: How does the chromosomal theory of inheritance relate to Mendel's laws?
+    id: 167780
+    title: >-
+        How do linkage and crossing over affect genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chromosomal-theory-of-inheritance-relate-to-mendels-laws
+    url: /learn/education-studies/questions/how-do-linkage-and-crossing-over-affect-genetic-variation
 related_article4:
-    id: 167778
-    title: How does the process of meiosis ensure the correct distribution of genetic material?
+    id: 167768
+    title: >-
+        How do Mendel's laws of segregation and independent assortment explain genetic inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-process-of-meiosis-ensure-the-correct-distribution-of-genetic-material
+    url: /learn/education-studies/questions/how-do-mendels-laws-of-segregation-and-independent-assortment-explain-genetic-inheritance
 related_article5:
-    id: 167771
-    title: What is the role of homologous chromosomes in genetic inheritance?
+    id: 167779
+    title: >-
+        What is the difference between Mendelian and non-Mendelian inheritance patterns?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-homologous-chromosomes-in-genetic-inheritance
+    url: /learn/education-studies/questions/what-is-the-difference-between-mendelian-and-nonmendelian-inheritance-patterns
 ---
 
 &nbsp;

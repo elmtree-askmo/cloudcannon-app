@@ -2,8 +2,10 @@
 _schema: default
 id: 165982
 date: 2025-01-29
-title: How has technological integration influenced contemporary globalization?
-article_title: How has technological integration influenced contemporary globalization?
+title: >-
+    How has technological integration influenced contemporary globalization?
+article_title: >-
+    How has technological integration influenced contemporary globalization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-technological-integration-influenced-contemporary-globalizati
 url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
 score: -1.0
 related_article1:
-    id: 165991
-    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    id: 165998
+    title: >-
+        How does wealth distribution affect economic inequality on a global scale?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+    url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
 related_article2:
+    id: 166000
+    title: >-
+        How do cultural resistance movements work to preserve traditions in the face of globalization?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
+related_article3:
+    id: 165994
+    title: >-
+        How does international cooperation address global health concerns such as disease transmission?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
+related_article4:
+    id: 165992
+    title: >-
+        In what ways do media and entertainment influence cultural connectivity on a global scale?
+    subject: Sociology
+    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+related_article5:
     id: 165996
-    title: How do regional disparities contribute to economic inequality?
+    title: >-
+        How do regional disparities contribute to economic inequality?
     subject: Sociology
     url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
-related_article3:
-    id: 165999
-    title: What role does global media play in cultural diffusion?
-    subject: Sociology
-    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
-related_article4:
-    id: 165986
-    title: What are the characteristics of post-industrial economic diversification?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
-related_article5:
-    id: 165981
-    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 ---
 
 &nbsp;

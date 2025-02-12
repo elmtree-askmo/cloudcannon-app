@@ -2,8 +2,10 @@
 _schema: default
 id: 165181
 date: 2025-01-28
-title: What is Fitts' Law, and how does it apply to human-computer interaction design?
-article_title: What is Fitts' Law, and how does it apply to human-computer interaction design?
+title: >-
+    What is Fitts' Law, and how does it apply to human-computer interaction design?
+article_title: >-
+    What is Fitts' Law, and how does it apply to human-computer interaction design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-fitts-law-and-how-does-it-apply-to-humancomputer-interaction-
 url: /learn/education-studies/questions/what-is-fitts-law-and-how-does-it-apply-to-humancomputer-interaction-design
 score: -1.0
 related_article1:
-    id: 165182
-    title: Why is data visualization important in research, and what are some effective types of figures used to communicate data?
+    id: 165172
+    title: >-
+        How do true experiments differ from quasi-experiments in terms of design and control?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-research-and-what-are-some-effective-types-of-figures-used-to-communicate-data
+    url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
 related_article2:
-    id: 165174
-    title: How can independent and dependent variables be identified and differentiated in an experiment?
+    id: 165172
+    title: >-
+        How do true experiments differ from quasi-experiments in terms of design and control?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-and-dependent-variables-be-identified-and-differentiated-in-an-experiment
+    url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
 related_article3:
-    id: 165186
-    title: How can the study of animal behavior provide insights into evolutionary processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-study-of-animal-behavior-provide-insights-into-evolutionary-processes
-related_article4:
-    id: 165169
-    title: What are the key components of a scientific article, and how do they contribute to the overall structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
-related_article5:
     id: 165171
-    title: What is the primary purpose of an abstract in a research paper, and what are its key elements?
+    title: >-
+        What is the primary purpose of an abstract in a research paper, and what are its key elements?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-primary-purpose-of-an-abstract-in-a-research-paper-and-what-are-its-key-elements
+related_article4:
+    id: 165172
+    title: >-
+        How do true experiments differ from quasi-experiments in terms of design and control?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
+related_article5:
+    id: 165184
+    title: >-
+        What are alternative explanations in research, and how can they impact the validity of a study?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-alternative-explanations-in-research-and-how-can-they-impact-the-validity-of-a-study
 ---
 
 &nbsp;

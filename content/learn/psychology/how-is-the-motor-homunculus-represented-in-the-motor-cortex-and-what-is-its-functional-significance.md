@@ -2,8 +2,10 @@
 _schema: default
 id: 170541
 date: 2025-02-06
-title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
-article_title: How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+title: >-
+    How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+article_title: >-
+    How is the motor homunculus represented in the motor cortex, and what is its functional significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-
 score: -1.0
 related_article1:
     id: 170535
-    title: What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
+    title: >-
+        What are the differences between the lateral and anterior corticospinal tracts in motor control pathways?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-differences-between-the-lateral-and-anterior-corticospinal-tracts-in-motor-control-pathways
 related_article2:
-    id: 170524
-    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    id: 170527
+    title: >-
+        What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
     subject: Psychology
-    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
 related_article3:
-    id: 170529
-    title: How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    id: 170534
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
 related_article4:
-    id: 170524
-    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
+    id: 170528
+    title: >-
+        What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
     subject: Psychology
-    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
 related_article5:
-    id: 170539
-    title: How does the development of object permanence in infancy and early childhood contribute to cognitive development?
+    id: 170536
+    title: >-
+        How do first and second order neurons function in afferent sensory pathways?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
 ---
 
 &nbsp;

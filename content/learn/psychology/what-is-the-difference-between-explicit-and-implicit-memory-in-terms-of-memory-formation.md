@@ -2,8 +2,10 @@
 _schema: default
 id: 164718
 date: 2025-01-28
-title: What is the difference between explicit and implicit memory in terms of memory formation?
-article_title: What is the difference between explicit and implicit memory in terms of memory formation?
+title: >-
+    What is the difference between explicit and implicit memory in terms of memory formation?
+article_title: >-
+    What is the difference between explicit and implicit memory in terms of memory formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-explicit-and-implicit-memory-in-terms-
 url: /learn/psychology/questions/what-is-the-difference-between-explicit-and-implicit-memory-in-terms-of-memory-formation
 score: -1.0
 related_article1:
-    id: 164714
-    title: What role does the P-600 component play in syntactic processing?
+    id: 164721
+    title: >-
+        How do anterograde and retrograde amnesia differ in terms of memory loss?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+    url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
 related_article2:
-    id: 164735
-    title: What are the primary functions of the frontal lobe in the brain?
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-frontal-lobe-in-the-brain
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
 related_article3:
-    id: 164714
-    title: What role does the P-600 component play in syntactic processing?
+    id: 164712
+    title: >-
+        What is the difference between syntax and semantics in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
 related_article4:
-    id: 164738
-    title: What are the common causes and effects of traumatic brain injury on cognitive function?
+    id: 164719
+    title: >-
+        How does procedural memory differ from declarative memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-declarative-memory
 related_article5:
-    id: 164737
-    title: How does dopamine function as a neurotransmitter in the brain?
+    id: 164712
+    title: >-
+        What is the difference between syntax and semantics in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-dopamine-function-as-a-neurotransmitter-in-the-brain
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
 ---
 
 &nbsp;

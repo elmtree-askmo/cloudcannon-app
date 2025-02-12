@@ -2,8 +2,10 @@
 _schema: default
 id: 166520
 date: 2025-01-30
-title: Who are some key artists associated with Modernism, and what were their influences?
-article_title: Who are some key artists associated with Modernism, and what were their influences?
+title: >-
+    Who are some key artists associated with Modernism, and what were their influences?
+article_title: >-
+    Who are some key artists associated with Modernism, and what were their influences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-are-some-key-artists-associated-with-modernism-and-what-were-thei
 url: /learn/education-studies/questions/who-are-some-key-artists-associated-with-modernism-and-what-were-their-influences
 score: -1.0
 related_article1:
-    id: 166531
-    title: How does art influence society and provide cultural commentary?
+    id: 166517
+    title: >-
+        How do lighting and composition play a role in Baroque Art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
+    url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
 related_article2:
-    id: 166518
-    title: How did the evolution of art lead to the development of new artistic movements?
+    id: 166525
+    title: >-
+        How does historical context influence art interpretation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-evolution-of-art-lead-to-the-development-of-new-artistic-movements
+    url: /learn/education-studies/questions/how-does-historical-context-influence-art-interpretation
 related_article3:
+    id: 166523
+    title: >-
+        How do Realism artists convey their influences through their notable works?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
+related_article4:
+    id: 166533
+    title: >-
+        In what ways does art serve as a form of social and political commentary?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-does-art-serve-as-a-form-of-social-and-political-commentary
+related_article5:
     id: 166530
-    title: What is the essence of art, and how do art movements and trends reflect this essence?
+    title: >-
+        What is the essence of art, and how do art movements and trends reflect this essence?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-essence-of-art-and-how-do-art-movements-and-trends-reflect-this-essence
-related_article4:
-    id: 166521
-    title: What distinguishes Abstract Art from other artistic movements?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-abstract-art-from-other-artistic-movements
-related_article5:
-    id: 166532
-    title: How have key art movements evolved over time, and what influences have shaped them?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-have-key-art-movements-evolved-over-time-and-what-influences-have-shaped-them
 ---
 
 &nbsp;

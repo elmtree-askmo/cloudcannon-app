@@ -2,8 +2,10 @@
 _schema: default
 id: 163601
 date: 2025-01-27
-title: What challenges are faced in interpreting archaeological evidence from Sparta?
-article_title: What challenges are faced in interpreting archaeological evidence from Sparta?
+title: >-
+    What challenges are faced in interpreting archaeological evidence from Sparta?
+article_title: >-
+    What challenges are faced in interpreting archaeological evidence from Sparta?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-are-faced-in-interpreting-archaeological-evidence-fro
 url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
 score: 9.0
 related_article1:
-    id: 163597
-    title: Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
-related_article2:
-    id: 163587
-    title: Why are certain Greek terms left untranslated in English scholarship?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
-related_article3:
-    id: 163587
-    title: Why are certain Greek terms left untranslated in English scholarship?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
-related_article4:
-    id: 163606
-    title: How did Spartan mythology integrate with broader Greek myths, and what role did it play in Greek culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-mythology-integrate-with-broader-greek-myths-and-what-role-did-it-play-in-greek-culture
-related_article5:
     id: 163608
-    title: What were some key historical events in Spartan history, and how did they influence the Greek world?
+    title: >-
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
+related_article2:
+    id: 163605
+    title: >-
+        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
+related_article3:
+    id: 163608
+    title: >-
+        What were some key historical events in Spartan history, and how did they influence the Greek world?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-some-key-historical-events-in-spartan-history-and-how-did-they-influence-the-greek-world
+related_article4:
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
+related_article5:
+    id: 163600
+    title: >-
+        What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
 ---
 
 &nbsp;

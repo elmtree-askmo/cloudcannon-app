@@ -2,8 +2,10 @@
 _schema: default
 id: 162940
 date: 2025-01-26
-title: How do city-states and shanty-states function as loci of geopolitical control?
-article_title: How do city-states and shanty-states function as loci of geopolitical control?
+title: >-
+    How do city-states and shanty-states function as loci of geopolitical control?
+article_title: >-
+    How do city-states and shanty-states function as loci of geopolitical control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-c
 url: /learn/sociology/questions/how-do-citystates-and-shantystates-function-as-loci-of-geopolitical-control
 score: -1.0
 related_article1:
-    id: 162953
-    title: How do informal settlements challenge the global military security apparatus?
+    id: 162950
+    title: >-
+        How do three-dimensional models assist in understanding volumetric conflict environments?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-informal-settlements-challenge-the-global-military-security-apparatus
+    url: /learn/sociology/questions/how-do-threedimensional-models-assist-in-understanding-volumetric-conflict-environments
 related_article2:
     id: 162954
-    title: What are urban sustainment operations, and why are they important in urban planning strategies?
+    title: >-
+        What are urban sustainment operations, and why are they important in urban planning strategies?
     subject: Sociology
     url: /learn/sociology/questions/what-are-urban-sustainment-operations-and-why-are-they-important-in-urban-planning-strategies
 related_article3:
-    id: 162943
-    title: What role do security protocols play in urban analysis and warfare?
+    id: 162951
+    title: >-
+        What is the role of the securocratic state in managing urban security?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 related_article4:
-    id: 162943
-    title: What role do security protocols play in urban analysis and warfare?
+    id: 162936
+    title: >-
+        Explain the role of geostrategic power in the state of states and its impact on urban security.
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-security-protocols-play-in-urban-analysis-and-warfare
+    url: /learn/sociology/questions/explain-the-role-of-geostrategic-power-in-the-state-of-states-and-its-impact-on-urban-security
 related_article5:
-    id: 162947
-    title: Describe the purpose of training villages in simulated urban environments.
+    id: 162951
+    title: >-
+        What is the role of the securocratic state in managing urban security?
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-purpose-of-training-villages-in-simulated-urban-environments
+    url: /learn/sociology/questions/what-is-the-role-of-the-securocratic-state-in-managing-urban-security
 ---
 
 &nbsp;

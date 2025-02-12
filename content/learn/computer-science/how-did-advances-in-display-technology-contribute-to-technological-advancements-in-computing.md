@@ -2,8 +2,10 @@
 _schema: default
 id: 160535
 date: 2025-01-24
-title: How did advances in display technology contribute to technological advancements in computing?
-article_title: How did advances in display technology contribute to technological advancements in computing?
+title: >-
+    How did advances in display technology contribute to technological advancements in computing?
+article_title: >-
+    How did advances in display technology contribute to technological advancements in computing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-advances-in-display-technology-contribute-to-technological-ad
 url: /learn/computer-science/questions/how-did-advances-in-display-technology-contribute-to-technological-advancements-in-computing
 score: -1.0
 related_article1:
-    id: 160435
-    title: How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
+    id: 160426
+    title: >-
+        How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
+    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
 related_article2:
-    id: 160422
-    title: How did the introduction of the iPod in the late 2000s influence Apple's product lineup?
+    id: 160529
+    title: >-
+        How did Apple's store design and layout contribute to its retail success?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-influence-apples-product-lineup
+    url: /learn/computer-science/questions/how-did-apples-store-design-and-layout-contribute-to-its-retail-success
 related_article3:
-    id: 160422
-    title: How did the introduction of the iPod in the late 2000s influence Apple's product lineup?
+    id: 160521
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-influence-apples-product-lineup
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
 related_article4:
-    id: 160519
-    title: What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
+    id: 160597
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-advancements-did-the-flatpanel-imac-bring-to-apples-product-offerings-in-the-late-2000s
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 related_article5:
-    id: 160436
-    title: What innovations did Apple introduce with the development of lightweight notebooks?
+    id: 160603
+    title: >-
+        What were the major updates introduced with Mac OS X 10.4 Tiger?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
+    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
 ---
 
 &nbsp;

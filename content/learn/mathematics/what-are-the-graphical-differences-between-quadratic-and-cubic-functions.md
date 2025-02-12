@@ -2,8 +2,10 @@
 _schema: default
 id: 163845
 date: 2025-01-27
-title: What are the graphical differences between quadratic and cubic functions?
-article_title: What are the graphical differences between quadratic and cubic functions?
+title: >-
+    What are the graphical differences between quadratic and cubic functions?
+article_title: >-
+    What are the graphical differences between quadratic and cubic functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-graphical-differences-between-quadratic-and-cubic-functi
 url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
 score: -1.0
 related_article1:
-    id: 163843
-    title: What are horizontal and vertical asymptotes, and how do they differ?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
-related_article2:
-    id: 163840
-    title: How can you identify key features such as intercepts and intersections from a graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
-related_article3:
-    id: 163833
-    title: What characterizes exponential growth in exponential functions, and how is it represented in the standard form?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-characterizes-exponential-growth-in-exponential-functions-and-how-is-it-represented-in-the-standard-form
-related_article4:
     id: 163839
-    title: What techniques can be used to graph functions manually and with software?
+    title: >-
+        What techniques can be used to graph functions manually and with software?
     subject: Mathematics
     url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
-related_article5:
-    id: 163831
-    title: What is the standard form of a quadratic function, and how does it relate to its parabolic shape?
+related_article2:
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-does-it-relate-to-its-parabolic-shape
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article3:
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
+related_article4:
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
+related_article5:
+    id: 163839
+    title: >-
+        What techniques can be used to graph functions manually and with software?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-graph-functions-manually-and-with-software
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168416
 date: 2025-02-03
-title: What are the specific rules for reflecting a function over the x-axis?
-article_title: What are the specific rules for reflecting a function over the x-axis?
+title: >-
+    What are the specific rules for reflecting a function over the x-axis?
+article_title: >-
+    What are the specific rules for reflecting a function over the x-axis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis.
 url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
 score: -1.0
 related_article1:
-    id: 168397
-    title: What are the different types of transformations that can be applied to functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
-related_article2:
-    id: 168407
-    title: How do you evaluate a function at a specific point using a graph?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-evaluate-a-function-at-a-specific-point-using-a-graph
-related_article3:
     id: 168419
-    title: What techniques are used for graphing functions by plotting points and drawing curves?
+    title: >-
+        What techniques are used for graphing functions by plotting points and drawing curves?
     subject: Mathematics
     url: /learn/mathematics/questions/what-techniques-are-used-for-graphing-functions-by-plotting-points-and-drawing-curves
+related_article2:
+    id: 168414
+    title: >-
+        How does a reflection over the x-axis transform a quadratic function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-a-reflection-over-the-xaxis-transform-a-quadratic-function
+related_article3:
+    id: 168420
+    title: >-
+        How can you identify transformations by analyzing function graphs?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
 related_article4:
-    id: 168415
-    title: What are the general rules for function transformations, including reflection?
+    id: 168403
+    title: >-
+        What are parent functions, and can you give an example of a quadratic parent function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-general-rules-for-function-transformations-including-reflection
+    url: /learn/mathematics/questions/what-are-parent-functions-and-can-you-give-an-example-of-a-quadratic-parent-function
 related_article5:
-    id: 168400
-    title: How can you identify opposite outputs in a table comparison for reflections?
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-opposite-outputs-in-a-table-comparison-for-reflections
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 ---
 
 &nbsp;

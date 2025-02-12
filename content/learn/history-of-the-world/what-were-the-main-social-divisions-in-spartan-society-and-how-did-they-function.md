@@ -2,8 +2,10 @@
 _schema: default
 id: 163580
 date: 2025-01-27
-title: What were the main social divisions in Spartan society, and how did they function?
-article_title: What were the main social divisions in Spartan society, and how did they function?
+title: >-
+    What were the main social divisions in Spartan society, and how did they function?
+article_title: >-
+    What were the main social divisions in Spartan society, and how did they function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-social-divisions-in-spartan-society-and-how-did-th
 url: /learn/history-of-the-world/questions/what-were-the-main-social-divisions-in-spartan-society-and-how-did-they-function
 score: 9.0
 related_article1:
-    id: 163582
-    title: What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
+    id: 163571
+    title: >-
+        How did the regions of Laconia and Messenia contribute to Sparta's development as a Greek polis?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the-spartan-dyarchy-and-how-did-it-affect-governance
+    url: /learn/history-of-the-world/questions/how-did-the-regions-of-laconia-and-messenia-contribute-to-spartas-development-as-a-greek-polis
 related_article2:
-    id: 163572
-    title: What role did the Spartan Acropolis play in the city-state's religious and political life?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
-related_article3:
     id: 163579
-    title: Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
+    title: >-
+        Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
     subject: History of the World
     url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
+related_article3:
+    id: 163582
+    title: >-
+        What was the role of the kings in the Spartan dyarchy, and how did it affect governance?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-kings-in-the-spartan-dyarchy-and-how-did-it-affect-governance
 related_article4:
-    id: 163573
-    title: Identify two key literary sources for studying ancient Sparta and describe their contributions.
+    id: 163571
+    title: >-
+        How did the regions of Laconia and Messenia contribute to Sparta's development as a Greek polis?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for-studying-ancient-sparta-and-describe-their-contributions
+    url: /learn/history-of-the-world/questions/how-did-the-regions-of-laconia-and-messenia-contribute-to-spartas-development-as-a-greek-polis
 related_article5:
-    id: 163584
-    title: What was the role of the ephors in Spartan government, and how were they elected?
+    id: 163583
+    title: >-
+        Describe the military and religious responsibilities of the Spartan kings.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-the-ephors-in-spartan-government-and-how-were-they-elected
+    url: /learn/history-of-the-world/questions/describe-the-military-and-religious-responsibilities-of-the-spartan-kings
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165640
 date: 2025-01-29
-title: How does the Presentation Layer handle data encryption?
-article_title: How does the Presentation Layer handle data encryption?
+title: >-
+    How does the Presentation Layer handle data encryption?
+article_title: >-
+    How does the Presentation Layer handle data encryption?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-presentation-layer-handle-data-encryption.md
 url: /learn/computer-science/questions/how-does-the-presentation-layer-handle-data-encryption
 score: -1.0
 related_article1:
+    id: 165647
+    title: >-
+        How does HTTP interpret a URL?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-http-interpret-a-url
+related_article2:
     id: 165650
-    title: What are the differences between POP and IMAP protocols?
+    title: >-
+        What are the differences between POP and IMAP protocols?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
-related_article2:
-    id: 165641
-    title: What is the function of the Session Layer in managing information exchange?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-the-session-layer-in-managing-information-exchange
 related_article3:
-    id: 165643
-    title: How does DNS facilitate domain name resolution?
+    id: 165649
+    title: >-
+        Describe the store-and-forward method used in email operations.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
+    url: /learn/computer-science/questions/describe-the-storeandforward-method-used-in-email-operations
 related_article4:
-    id: 165652
-    title: What are the steps involved in the DHCP process for dynamic address assignment?
+    id: 165646
+    title: >-
+        What role do peers play in a peer-to-peer network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
+    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
 related_article5:
-    id: 165654
-    title: What functions does the Server Message Block (SMB) protocol provide?
+    id: 165649
+    title: >-
+        Describe the store-and-forward method used in email operations.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functions-does-the-server-message-block-smb-protocol-provide
+    url: /learn/computer-science/questions/describe-the-storeandforward-method-used-in-email-operations
 ---
 
 &nbsp;

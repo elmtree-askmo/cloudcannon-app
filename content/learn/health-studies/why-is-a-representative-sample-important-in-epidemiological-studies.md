@@ -2,8 +2,10 @@
 _schema: default
 id: 163256
 date: 2025-01-26
-title: Why is a representative sample important in epidemiological studies?
-article_title: Why is a representative sample important in epidemiological studies?
+title: >-
+    Why is a representative sample important in epidemiological studies?
+article_title: >-
+    Why is a representative sample important in epidemiological studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-a-representative-sample-important-in-epidemiological-studies.m
 url: /learn/health-studies/questions/why-is-a-representative-sample-important-in-epidemiological-studies
 score: -1.0
 related_article1:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
-related_article2:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
-related_article3:
     id: 163259
-    title: What role do systematic reviews and meta-analyses play in evidence appraisal?
+    title: >-
+        What role do systematic reviews and meta-analyses play in evidence appraisal?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
+related_article2:
+    id: 163263
+    title: >-
+        How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+related_article3:
+    id: 163253
+    title: >-
+        What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
 related_article4:
-    id: 163251
-    title: What are the primary objectives of clinical studies?
+    id: 163249
+    title: >-
+        What strategies can be employed to reduce bias in research?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
+    url: /learn/health-studies/questions/what-strategies-can-be-employed-to-reduce-bias-in-research
 related_article5:
-    id: 163255
-    title: What is the difference between prevalence and incidence in descriptive studies?
+    id: 163253
+    title: >-
+        What are the components of a Directed Acyclic Graph (DAG) and their significance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
+    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
 ---
 
 &nbsp;

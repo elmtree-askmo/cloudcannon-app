@@ -2,8 +2,10 @@
 _schema: default
 id: 169766
 date: 2025-02-05
-title: What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
-article_title: What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+title: >-
+    What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
+article_title: >-
+    What is the purpose of the British National Formulary (BNF), and how is it used in clinical practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-
 url: /learn/nursing/questions/what-is-the-purpose-of-the-british-national-formulary-bnf-and-how-is-it-used-in-clinical-practice
 score: -1.0
 related_article1:
-    id: 169745
-    title: What are the nutritional requirements and hydration standards for maintaining health?
+    id: 169763
+    title: >-
+        What are patient group directions, and how are they applied in clinical practice?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-nutritional-requirements-and-hydration-standards-for-maintaining-health
+    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
 related_article2:
-    id: 169739
-    title: What are the four principles of person-centered care?
+    id: 169765
+    title: >-
+        Why is medication adherence important, and what strategies can improve it?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
 related_article3:
-    id: 169741
-    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    id: 169764
+    title: >-
+        What are the best practices for prescribing medications, and what common pitfalls should be avoided?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
 related_article4:
-    id: 169742
-    title: What are the key developmental stages in lifespan development, and how do they impact health?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
-related_article5:
     id: 169757
-    title: What are the regulations and storage requirements for controlled drugs?
+    title: >-
+        What are the regulations and storage requirements for controlled drugs?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
+related_article5:
+    id: 169750
+    title: >-
+        What are the symptoms and treatment options for common mental health disorders?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
 ---
 
 &nbsp;

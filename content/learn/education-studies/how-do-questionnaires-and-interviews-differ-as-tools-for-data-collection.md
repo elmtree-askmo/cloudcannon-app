@@ -2,8 +2,10 @@
 _schema: default
 id: 165123
 date: 2025-01-28
-title: How do questionnaires and interviews differ as tools for data collection?
-article_title: How do questionnaires and interviews differ as tools for data collection?
+title: >-
+    How do questionnaires and interviews differ as tools for data collection?
+article_title: >-
+    How do questionnaires and interviews differ as tools for data collection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-questionnaires-and-interviews-differ-as-tools-for-data-collect
 url: /learn/education-studies/questions/how-do-questionnaires-and-interviews-differ-as-tools-for-data-collection
 score: -1.0
 related_article1:
-    id: 165137
-    title: What are the advantages of using a between-subjects design in research?
+    id: 165135
+    title: >-
+        What is the purpose of using control groups in experimental research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
 related_article2:
-    id: 165143
-    title: What are the positive effects of video games on stress?
+    id: 165130
+    title: >-
+        What is the purpose of a Latin square design in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-positive-effects-of-video-games-on-stress
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-latin-square-design-in-research
 related_article3:
-    id: 165126
-    title: What distinguishes descriptive, correlational, and experimental designs in research?
+    id: 165122
+    title: >-
+        What are the key differences between surveys, observations, and experiments in data collection?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-descriptive-correlational-and-experimental-designs-in-research
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-surveys-observations-and-experiments-in-data-collection
 related_article4:
-    id: 165151
-    title: How do regression analysis and ANOVA differ in quantitative data analysis?
+    id: 165125
+    title: >-
+        How can task management and progress tracking be effectively executed in project management?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/how-can-task-management-and-progress-tracking-be-effectively-executed-in-project-management
 related_article5:
-    id: 165149
-    title: Why is study replication important in research, and what challenges does it face?
+    id: 165136
+    title: >-
+        How do placebo and active control groups differ in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-study-replication-important-in-research-and-what-challenges-does-it-face
+    url: /learn/education-studies/questions/how-do-placebo-and-active-control-groups-differ-in-research-studies
 ---
 
 &nbsp;

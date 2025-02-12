@@ -2,8 +2,10 @@
 _schema: default
 id: 165110
 date: 2025-01-28
-title: Explain the process of hypothesis testing in inferential statistics.
-article_title: Explain the process of hypothesis testing in inferential statistics.
+title: >-
+    Explain the process of hypothesis testing in inferential statistics.
+article_title: >-
+    Explain the process of hypothesis testing in inferential statistics.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: explain-the-process-of-hypothesis-testing-in-inferential-statistics.m
 url: /learn/education-studies/questions/explain-the-process-of-hypothesis-testing-in-inferential-statistics
 score: -1.0
 related_article1:
-    id: 165100
-    title: Provide examples of ordinal measurement types and their characteristics.
-    subject: Education Studies
-    url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
-related_article2:
-    id: 165102
-    title: What are the key differences between between-subjects and within-subjects experimental designs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
-related_article3:
-    id: 165102
-    title: What are the key differences between between-subjects and within-subjects experimental designs?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
-related_article4:
     id: 165104
-    title: What are the differences between open-ended and closed-ended survey questions?
+    title: >-
+        What are the differences between open-ended and closed-ended survey questions?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-differences-between-openended-and-closedended-survey-questions
+related_article2:
+    id: 165099
+    title: >-
+        What are the characteristics of nominal measurement types?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
+related_article3:
+    id: 165098
+    title: >-
+        How can independent variables be manipulated to impact experimental outcomes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
+related_article4:
+    id: 165114
+    title: >-
+        Why is reliability important in research and what are the types of reliability?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-reliability-important-in-research-and-what-are-the-types-of-reliability
+related_article5:
+    id: 165111
+    title: >-
+        What is the difference between continuous and categorical variables?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 ---
 
 &nbsp;

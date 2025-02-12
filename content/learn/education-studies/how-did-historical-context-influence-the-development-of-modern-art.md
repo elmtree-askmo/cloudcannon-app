@@ -2,8 +2,10 @@
 _schema: default
 id: 166515
 date: 2025-01-30
-title: How did historical context influence the development of Modern Art?
-article_title: How did historical context influence the development of Modern Art?
+title: >-
+    How did historical context influence the development of Modern Art?
+article_title: >-
+    How did historical context influence the development of Modern Art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-historical-context-influence-the-development-of-modern-art.md
 url: /learn/education-studies/questions/how-did-historical-context-influence-the-development-of-modern-art
 score: -1.0
 related_article1:
-    id: 166529
-    title: How does art function as a commentary on society and culture?
+    id: 166533
+    title: >-
+        In what ways does art serve as a form of social and political commentary?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-art-function-as-a-commentary-on-society-and-culture
+    url: /learn/education-studies/questions/in-what-ways-does-art-serve-as-a-form-of-social-and-political-commentary
 related_article2:
-    id: 166523
-    title: How do Realism artists convey their influences through their notable works?
+    id: 166519
+    title: >-
+        What is the role of visual analysis in art criticism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
+    url: /learn/education-studies/questions/what-is-the-role-of-visual-analysis-in-art-criticism
 related_article3:
+    id: 166517
+    title: >-
+        How do lighting and composition play a role in Baroque Art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
+related_article4:
     id: 166531
-    title: How does art influence society and provide cultural commentary?
+    title: >-
+        How does art influence society and provide cultural commentary?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
-related_article4:
-    id: 166523
-    title: How do Realism artists convey their influences through their notable works?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-realism-artists-convey-their-influences-through-their-notable-works
 related_article5:
     id: 166517
-    title: How do lighting and composition play a role in Baroque Art?
+    title: >-
+        How do lighting and composition play a role in Baroque Art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-lighting-and-composition-play-a-role-in-baroque-art
 ---

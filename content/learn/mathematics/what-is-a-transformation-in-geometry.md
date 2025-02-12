@@ -2,8 +2,10 @@
 _schema: default
 id: 162886
 date: 2025-01-25
-title: What is a transformation in geometry?
-article_title: What is a transformation in geometry?
+title: >-
+    What is a transformation in geometry?
+article_title: >-
+    What is a transformation in geometry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-transformation-in-geometry.md
 url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 score: -1.0
 related_article1:
-    id: 162636
-    title: What similarities exist between original and reflected figures?
+    id: 162815
+    title: >-
+        What is the mirror image concept in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-similarities-exist-between-original-and-reflected-figures
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 related_article2:
-    id: 162707
-    title: How are reflections used in geometric proofs?
+    id: 162800
+    title: >-
+        What does rigid motion mean in the context of reflections?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
+related_article3:
+    id: 162699
+    title: >-
+        Explain the mirror image concept in reflections.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-mirror-image-concept-in-reflections
+related_article4:
+    id: 162905
+    title: >-
+        What impact do reflections have on the coordinates of a figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
+related_article5:
+    id: 162915
+    title: >-
+        How are reflections used in geometric proofs?
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
-related_article3:
-    id: 162766
-    title: What is orientation reversal in the context of reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
-related_article4:
-    id: 162631
-    title: What changes occur to the coordinates of a point when it is reflected?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
-related_article5:
-    id: 162913
-    title: Why is distance preservation important in reflections?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 ---
 
 &nbsp;

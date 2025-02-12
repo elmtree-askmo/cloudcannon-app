@@ -2,8 +2,10 @@
 _schema: default
 id: 169198
 date: 2025-02-04
-title: How is random number generation used in design iteration within Grasshopper?
-article_title: How is random number generation used in design iteration within Grasshopper?
+title: >-
+    How is random number generation used in design iteration within Grasshopper?
+article_title: >-
+    How is random number generation used in design iteration within Grasshopper?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-random-number-generation-used-in-design-iteration-within-grass
 url: /learn/education-studies/questions/how-is-random-number-generation-used-in-design-iteration-within-grasshopper
 score: -1.0
 related_article1:
-    id: 169201
-    title: What are the functions of digital modeling tools in mapping and data visualization?
+    id: 169188
+    title: >-
+        List three common file formats used in GIS for data layers.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-functions-of-digital-modeling-tools-in-mapping-and-data-visualization
+    url: /learn/education-studies/questions/list-three-common-file-formats-used-in-gis-for-data-layers
 related_article2:
-    id: 169195
-    title: Why is data visualization important in GIS, and what are two common methods used?
+    id: 169197
+    title: >-
+        What are some applications of GIS in urban design and landscape architecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-gis-and-what-are-two-common-methods-used
+    url: /learn/education-studies/questions/what-are-some-applications-of-gis-in-urban-design-and-landscape-architecture
 related_article3:
-    id: 169189
-    title: Why are projection systems important in GIS, and what is a common issue associated with them?
+    id: 169193
+    title: >-
+        Describe the basic steps to create geometry in Grasshopper.
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-projection-systems-important-in-gis-and-what-is-a-common-issue-associated-with-them
+    url: /learn/education-studies/questions/describe-the-basic-steps-to-create-geometry-in-grasshopper
 related_article4:
-    id: 169190
-    title: What is Grasshopper, and how is it related to Rhino?
+    id: 169199
+    title: >-
+        What is metadata in GIS, and why is it important for spatial analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-grasshopper-and-how-is-it-related-to-rhino
+    url: /learn/education-studies/questions/what-is-metadata-in-gis-and-why-is-it-important-for-spatial-analysis
 related_article5:
-    id: 169201
-    title: What are the functions of digital modeling tools in mapping and data visualization?
+    id: 169196
+    title: >-
+        How does GIS facilitate mapping techniques, particularly in layering and time representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-functions-of-digital-modeling-tools-in-mapping-and-data-visualization
+    url: /learn/education-studies/questions/how-does-gis-facilitate-mapping-techniques-particularly-in-layering-and-time-representation
 ---
 
 &nbsp;

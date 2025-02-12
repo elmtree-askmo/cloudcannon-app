@@ -2,8 +2,10 @@
 _schema: default
 id: 170557
 date: 2025-02-06
-title: How do steroids and opioids differ in their pharmacological effects?
-article_title: How do steroids and opioids differ in their pharmacological effects?
+title: >-
+    How do steroids and opioids differ in their pharmacological effects?
+article_title: >-
+    How do steroids and opioids differ in their pharmacological effects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-steroids-and-opioids-differ-in-their-pharmacological-effects.m
 url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
 score: -1.0
 related_article1:
-    id: 170548
-    title: Explain the role of biochemical pathways in cellular function.
+    id: 170550
+    title: >-
+        What mechanisms are involved in temperature regulation within the human body?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-role-of-biochemical-pathways-in-cellular-function
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
 related_article2:
-    id: 170555
-    title: Describe the function of the sodium-potassium pump in neuron activity.
+    id: 170550
+    title: >-
+        What mechanisms are involved in temperature regulation within the human body?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
 related_article3:
     id: 170556
-    title: What is the role of the hypothalamus in the nervous system?
+    title: >-
+        What is the role of the hypothalamus in the nervous system?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
 related_article4:
-    id: 170568
-    title: What are the clinical implications of hemophilia in blood clotting disorders?
+    id: 170573
+    title: >-
+        How does electron microscopy differ from light microscopy in imaging applications?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-implications-of-hemophilia-in-blood-clotting-disorders
+    url: /learn/health-studies/questions/how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-applications
 related_article5:
-    id: 170548
-    title: Explain the role of biochemical pathways in cellular function.
+    id: 170553
+    title: >-
+        How does neurotransmitter blockage affect nervous system function?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-role-of-biochemical-pathways-in-cellular-function
+    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166900
 date: 2025-01-31
-title: How do Desire2Learn D2L features support course administration and content delivery?
-article_title: How do Desire2Learn D2L features support course administration and content delivery?
+title: >-
+    How do Desire2Learn D2L features support course administration and content delivery?
+article_title: >-
+    How do Desire2Learn D2L features support course administration and content delivery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-desire2learn-d2l-features-support-course-administration-and-co
 url: /learn/education-studies/questions/how-do-desire2learn-d2l-features-support-course-administration-and-content-delivery
 score: -1.0
 related_article1:
-    id: 166896
-    title: How can trend analysis be used to interpret data effectively?
+    id: 166901
+    title: >-
+        What are the principles of active learning and how do they engage students in meaningful activities?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
+    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
 related_article2:
     id: 166901
-    title: What are the principles of active learning and how do they engage students in meaningful activities?
+    title: >-
+        What are the principles of active learning and how do they engage students in meaningful activities?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
 related_article3:
-    id: 166898
-    title: How do learning objectives guide student study practices and enhance understanding?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
-related_article4:
     id: 166897
-    title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+    title: >-
+        Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
-related_article5:
-    id: 166898
-    title: How do learning objectives guide student study practices and enhance understanding?
+related_article4:
+    id: 166895
+    title: >-
+        What are the key components of a graph and why are they important for data interpretation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-graph-and-why-are-they-important-for-data-interpretation
+related_article5:
+    id: 166903
+    title: >-
+        What is the relationship between attendance and GPA, and why is regular attendance important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166628
 date: 2025-01-31
-title: What are the advantages of participating in engineering clubs for career development?
-article_title: What are the advantages of participating in engineering clubs for career development?
+title: >-
+    What are the advantages of participating in engineering clubs for career development?
+article_title: >-
+    What are the advantages of participating in engineering clubs for career development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-advantages-of-participating
 score: -1.0
 related_article1:
     id: 166629
-    title: Why is static analysis important in engineering, and how is it applied in structures?
+    title: >-
+        Why is static analysis important in engineering, and how is it applied in structures?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-static-analysis-important-in-engineering-and-how-is-it-applied-in-structures
 related_article2:
-    id: 166634
-    title: What is Jamatrix, and how is it applied in engineering problem-solving?
+    id: 166627
+    title: >-
+        How can career services assist in improving your resume and cover letter?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-jamatrix-and-how-is-it-applied-in-engineering-problemsolving
+    url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
 related_article3:
     id: 166632
-    title: What are the algebraic methods used to solve systems of equations in engineering?
+    title: >-
+        What are the algebraic methods used to solve systems of equations in engineering?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-algebraic-methods-used-to-solve-systems-of-equations-in-engineering
 related_article4:
-    id: 166633
-    title: Describe the application of the law of cosines and sines in engineering statics.
+    id: 166627
+    title: >-
+        How can career services assist in improving your resume and cover letter?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-application-of-the-law-of-cosines-and-sines-in-engineering-statics
+    url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
 related_article5:
-    id: 166632
-    title: What are the algebraic methods used to solve systems of equations in engineering?
+    id: 166629
+    title: >-
+        Why is static analysis important in engineering, and how is it applied in structures?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-algebraic-methods-used-to-solve-systems-of-equations-in-engineering
+    url: /learn/education-studies/questions/why-is-static-analysis-important-in-engineering-and-how-is-it-applied-in-structures
 ---
 
 &nbsp;

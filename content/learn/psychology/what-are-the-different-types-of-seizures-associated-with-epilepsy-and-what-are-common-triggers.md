@@ -2,8 +2,10 @@
 _schema: default
 id: 164325
 date: 2025-01-28
-title: What are the different types of seizures associated with epilepsy, and what are common triggers?
-article_title: What are the different types of seizures associated with epilepsy, and what are common triggers?
+title: >-
+    What are the different types of seizures associated with epilepsy, and what are common triggers?
+article_title: >-
+    What are the different types of seizures associated with epilepsy, and what are common triggers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-seizures-associated-with-epilepsy-and
 url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
 score: -1.0
 related_article1:
-    id: 164320
-    title: How are recording techniques applied in data collection and analysis?
+    id: 164315
+    title: >-
+        What are some common challenges faced in virtual projects, and how can pressure be managed effectively?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+    url: /learn/psychology/questions/what-are-some-common-challenges-faced-in-virtual-projects-and-how-can-pressure-be-managed-effectively
 related_article2:
-    id: 164320
-    title: How are recording techniques applied in data collection and analysis?
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
 related_article3:
-    id: 164320
-    title: How are recording techniques applied in data collection and analysis?
+    id: 164324
+    title: >-
+        What are the risks associated with magnetic field exposure and the use of contrast agents in MRI procedures?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+    url: /learn/psychology/questions/what-are-the-risks-associated-with-magnetic-field-exposure-and-the-use-of-contrast-agents-in-mri-procedures
 related_article4:
-    id: 164326
-    title: How is participant screening conducted to ensure safety in epilepsy research studies?
+    id: 164322
+    title: >-
+        How do attention disorders impact academic performance and social interactions?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-participant-screening-conducted-to-ensure-safety-in-epilepsy-research-studies
+    url: /learn/psychology/questions/how-do-attention-disorders-impact-academic-performance-and-social-interactions
 related_article5:
-    id: 164316
-    title: What tools are essential for successful virtual project management, and how do they facilitate team coordination?
+    id: 164319
+    title: >-
+        What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
     subject: Psychology
-    url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
+    url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
 ---
 
 &nbsp;

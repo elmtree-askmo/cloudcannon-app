@@ -2,8 +2,10 @@
 _schema: default
 id: 168578
 date: 2025-02-03
-title: How does tone shape the understanding of seminal documents?
-article_title: How does tone shape the understanding of seminal documents?
+title: >-
+    How does tone shape the understanding of seminal documents?
+article_title: >-
+    How does tone shape the understanding of seminal documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-tone-shape-the-understanding-of-seminal-documents.md
 url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
 score: 9.0
 related_article1:
+    id: 168579
+    title: >-
+        What is the tone of the Gettysburg Address, and how does it contribute to its message?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
+related_article2:
+    id: 168574
+    title: >-
+        How do allusions in historical texts enhance meaning and context?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
+related_article3:
     id: 168575
-    title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+    title: >-
+        What is the role of logical appeals (logos) in the argumentation of seminal documents?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
-related_article2:
-    id: 168586
-    title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
-related_article3:
-    id: 168582
-    title: How are American ideals represented in seminal texts, and how have they evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
 related_article4:
-    id: 168582
-    title: How are American ideals represented in seminal texts, and how have they evolved over time?
+    id: 168572
+    title: >-
+        How does word choice in seminal documents affect tone and meaning?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
+    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
 related_article5:
-    id: 168576
-    title: How do emotional appeals (pathos) impact the effectiveness of seminal documents?
+    id: 168573
+    title: >-
+        What role does sentence structure play in influencing a reader's understanding of seminal documents?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/what-role-does-sentence-structure-play-in-influencing-a-readers-understanding-of-seminal-documents
 ---
 
 &nbsp;

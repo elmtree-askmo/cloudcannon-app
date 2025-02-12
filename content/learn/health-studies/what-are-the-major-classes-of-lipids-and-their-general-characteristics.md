@@ -2,8 +2,10 @@
 _schema: default
 id: 167223
 date: 2025-01-31
-title: What are the major classes of lipids and their general characteristics?
-article_title: What are the major classes of lipids and their general characteristics?
+title: >-
+    What are the major classes of lipids and their general characteristics?
+article_title: >-
+    What are the major classes of lipids and their general characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/what-are-the-major-classes-of-lipids-and-th
 score: -1.0
 related_article1:
     id: 167220
-    title: How do steroids function as signaling molecules in the body?
+    title: >-
+        How do steroids function as signaling molecules in the body?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-steroids-function-as-signaling-molecules-in-the-body
 related_article2:
-    id: 167227
-    title: Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
-    subject: Health Studies
-    url: /learn/health-studies/questions/compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
-related_article3:
     id: 167226
-    title: What is the importance of active site specificity in enzyme function?
+    title: >-
+        What is the importance of active site specificity in enzyme function?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-importance-of-active-site-specificity-in-enzyme-function
+related_article3:
+    id: 167216
+    title: >-
+        How do triglycerides function in energy storage?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-triglycerides-function-in-energy-storage
 related_article4:
-    id: 167224
-    title: How does the amphipathic nature of phospholipids contribute to selective permeability in membranes?
+    id: 167228
+    title: >-
+        What are the major classes of biological macromolecules and their elemental composition?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-selective-permeability-in-membranes
+    url: /learn/health-studies/questions/what-are-the-major-classes-of-biological-macromolecules-and-their-elemental-composition
 related_article5:
-    id: 167218
-    title: What structural components make up a phospholipid?
+    id: 167231
+    title: >-
+        How does the unique shape of an enzyme's active site contribute to its catalytic efficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-structural-components-make-up-a-phospholipid
+    url: /learn/health-studies/questions/how-does-the-unique-shape-of-an-enzymes-active-site-contribute-to-its-catalytic-efficiency
 ---
 
 &nbsp;

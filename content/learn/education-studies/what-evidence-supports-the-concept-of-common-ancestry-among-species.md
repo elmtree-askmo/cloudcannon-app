@@ -2,8 +2,10 @@
 _schema: default
 id: 166195
 date: 2025-01-29
-title: What evidence supports the concept of common ancestry among species?
-article_title: What evidence supports the concept of common ancestry among species?
+title: >-
+    What evidence supports the concept of common ancestry among species?
+article_title: >-
+    What evidence supports the concept of common ancestry among species?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-evidence-supports-the-concept-of-common-ancestry-among-species.m
 url: /learn/education-studies/questions/what-evidence-supports-the-concept-of-common-ancestry-among-species
 score: -1.0
 related_article1:
-    id: 166185
-    title: What is the structure of a cell membrane and its function in cellular biology?
+    id: 166189
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
+    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
 related_article2:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
+    id: 166183
+    title: >-
+        How do carbohydrates and proteins differ in their roles within the body?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 related_article3:
-    id: 166185
-    title: What is the structure of a cell membrane and its function in cellular biology?
+    id: 166209
+    title: >-
+        What are the key differences between sexual and asexual reproduction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
 related_article4:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
+    id: 166211
+    title: >-
+        What are the main components of the visual system in sensory systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+    url: /learn/education-studies/questions/what-are-the-main-components-of-the-visual-system-in-sensory-systems
 related_article5:
-    id: 166190
-    title: Describe the structure of DNA and its role in genetic inheritance.
+    id: 166204
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
+    url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 ---
 
 &nbsp;

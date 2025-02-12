@@ -2,8 +2,10 @@
 _schema: default
 id: 165875
 date: 2025-01-29
-title: What is the significance of clonal expansion in immune memory?
-article_title: What is the significance of clonal expansion in immune memory?
+title: >-
+    What is the significance of clonal expansion in immune memory?
+article_title: >-
+    What is the significance of clonal expansion in immune memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-clonal-expansion-in-immune-memory.md
 url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
 score: -1.0
 related_article1:
+    id: 165863
+    title: >-
+        What are the differences between autocrine, paracrine, and endocrine signaling in cytokine communication?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-differences-between-autocrine-paracrine-and-endocrine-signaling-in-cytokine-communication
+related_article2:
+    id: 165871
+    title: >-
+        What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
+related_article3:
+    id: 165872
+    title: >-
+        How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cellular-immune-response
+related_article4:
+    id: 165868
+    title: >-
+        How do B cells and T cells differ in their roles within the immune system?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
+related_article5:
     id: 165881
-    title: What mechanisms are involved in the sustained immune response during secondary exposure?
+    title: >-
+        What mechanisms are involved in the sustained immune response during secondary exposure?
     subject: Health Studies
     url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
-related_article2:
-    id: 165859
-    title: What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
-related_article3:
-    id: 165859
-    title: What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
-related_article4:
-    id: 165860
-    title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
-related_article5:
-    id: 165857
-    title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
 ---
 
 &nbsp;

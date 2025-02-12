@@ -2,8 +2,10 @@
 _schema: default
 id: 169702
 date: 2025-02-05
-title: What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
-article_title: What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+title: >-
+    What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
+article_title: >-
+    What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-
 url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
 score: -1.0
 related_article1:
+    id: 169700
+    title: >-
+        Why is maintaining a consistent bedtime routine important for sleep hygiene?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-maintaining-a-consistent-bedtime-routine-important-for-sleep-hygiene
+related_article2:
+    id: 169701
+    title: >-
+        How can environmental factors such as bedroom setup and noise control influence sleep quality?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-environmental-factors-such-as-bedroom-setup-and-noise-control-influence-sleep-quality
+related_article3:
     id: 169695
-    title: What are the risks and considerations associated with the use of sedatives for sleep?
+    title: >-
+        What are the risks and considerations associated with the use of sedatives for sleep?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-risks-and-considerations-associated-with-the-use-of-sedatives-for-sleep
-related_article2:
-    id: 169699
-    title: What are the benefits and applications of light therapy in managing sleep disorders?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-and-applications-of-light-therapy-in-managing-sleep-disorders
-related_article3:
-    id: 169697
-    title: What role do circadian rhythms play in sleep regulation, and how can modern technology impact these rhythms?
-    subject: Nursing
-    url: /learn/nursing/questions/what-role-do-circadian-rhythms-play-in-sleep-regulation-and-how-can-modern-technology-impact-these-rhythms
 related_article4:
+    id: 169689
+    title: >-
+        In what ways does sleep contribute to emotional stability and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health
+related_article5:
     id: 169687
-    title: What are the key restorative processes that occur during sleep, and how do they contribute to physical and mental health?
+    title: >-
+        What are the key restorative processes that occur during sleep, and how do they contribute to physical and mental health?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-restorative-processes-that-occur-during-sleep-and-how-do-they-contribute-to-physical-and-mental-health
 ---

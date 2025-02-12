@@ -2,8 +2,10 @@
 _schema: default
 id: 168560
 date: 2025-02-03
-title: What are some methods to verify the truthfulness and accuracy of information in discussions?
-article_title: What are some methods to verify the truthfulness and accuracy of information in discussions?
+title: >-
+    What are some methods to verify the truthfulness and accuracy of information in discussions?
+article_title: >-
+    What are some methods to verify the truthfulness and accuracy of information in discussions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-methods-to-verify-the-truthfulness-and-accuracy-of-info
 url: /learn/education-studies/questions/what-are-some-methods-to-verify-the-truthfulness-and-accuracy-of-information-in-discussions
 score: -1.0
 related_article1:
-    id: 168546
-    title: How does engaging in collegial discussions help in discovering new perspectives?
+    id: 168556
+    title: >-
+        What are some techniques to foster empathy in discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-engaging-in-collegial-discussions-help-in-discovering-new-perspectives
+    url: /learn/education-studies/questions/what-are-some-techniques-to-foster-empathy-in-discussions
 related_article2:
+    id: 168559
+    title: >-
+        How can clarification techniques help in addressing misunderstandings during discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-clarification-techniques-help-in-addressing-misunderstandings-during-discussions
+related_article3:
+    id: 168558
+    title: >-
+        What types of evidence can be used to support arguments effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-evidence-can-be-used-to-support-arguments-effectively
+related_article4:
+    id: 168551
+    title: >-
+        What techniques can be used to effectively justify personal views in a discussion?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-effectively-justify-personal-views-in-a-discussion
+related_article5:
     id: 168546
-    title: How does engaging in collegial discussions help in discovering new perspectives?
+    title: >-
+        How does engaging in collegial discussions help in discovering new perspectives?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-engaging-in-collegial-discussions-help-in-discovering-new-perspectives
-related_article3:
-    id: 168555
-    title: What role does empathy play in building better relationships during discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-empathy-play-in-building-better-relationships-during-discussions
-related_article4:
-    id: 168561
-    title: Why is drawing conclusions important in decision-making processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-drawing-conclusions-important-in-decisionmaking-processes
-related_article5:
-    id: 168554
-    title: How can understanding diverse perspectives lead to personal growth?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-understanding-diverse-perspectives-lead-to-personal-growth
 ---
 
 &nbsp;

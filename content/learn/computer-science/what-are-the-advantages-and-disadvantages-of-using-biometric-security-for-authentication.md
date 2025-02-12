@@ -2,8 +2,10 @@
 _schema: default
 id: 161262
 date: 2025-01-24
-title: What are the advantages and disadvantages of using biometric security for authentication?
-article_title: What are the advantages and disadvantages of using biometric security for authentication?
+title: >-
+    What are the advantages and disadvantages of using biometric security for authentication?
+article_title: >-
+    What are the advantages and disadvantages of using biometric security for authentication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-and-disadvantages-of-using-biometric-security
 url: /learn/computer-science/questions/what-are-the-advantages-and-disadvantages-of-using-biometric-security-for-authentication
 score: -1.0
 related_article1:
-    id: 161462
-    title: What distinguishes a virus from a worm in terms of malware?
+    id: 161457
+    title: >-
+        How can strong passwords help prevent identity theft?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
+    url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
 related_article2:
-    id: 161261
-    title: What is the difference between smishing and vishing?
+    id: 161384
+    title: >-
+        What are the key features of anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-smishing-and-vishing
+    url: /learn/computer-science/questions/what-are-the-key-features-of-antivirus-software
 related_article3:
-    id: 161465
-    title: What are some common methods used in phishing attacks?
+    id: 161381
+    title: >-
+        What are some common methods used for pseudonymization?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
 related_article4:
-    id: 161463
-    title: What is the primary function of spyware?
+    id: 161452
+    title: >-
+        What are some examples of basic identification information considered as personal data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+    url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
 related_article5:
-    id: 161468
-    title: What are the advantages of using biometric security for authentication?
+    id: 161386
+    title: >-
+        What is the primary function of a firewall in cybersecurity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
+    url: /learn/computer-science/questions/what-is-the-primary-function-of-a-firewall-in-cybersecurity
 ---
 
 &nbsp;

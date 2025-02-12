@@ -2,8 +2,10 @@
 _schema: default
 id: 167796
 date: 2025-02-01
-title: What is the purpose of chi-square analysis in genetics?
-article_title: What is the purpose of chi-square analysis in genetics?
+title: >-
+    What is the purpose of chi-square analysis in genetics?
+article_title: >-
+    What is the purpose of chi-square analysis in genetics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-chisquare-analysis-in-genetics.md
 url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 score: -1.0
 related_article1:
-    id: 167783
-    title: How do genotype and phenotype differ in genetic expression?
+    id: 167793
+    title: >-
+        Provide an example of incomplete dominance in flower color.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-genotype-and-phenotype-differ-in-genetic-expression
+    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
 related_article2:
-    id: 167782
-    title: What is the difference between dominant and recessive traits in Mendelian inheritance?
+    id: 167805
+    title: >-
+        What are the key differences between Mendelian and non-Mendelian patterns of heredity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
 related_article3:
-    id: 167784
-    title: What role do alleles play in determining an organism's traits?
+    id: 167785
+    title: >-
+        How are Punnett squares used to predict the outcomes of dihybrid crosses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-alleles-play-in-determining-an-organisms-traits
+    url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
 related_article4:
-    id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    id: 167797
+    title: >-
+        How do you determine the degrees of freedom in a chi-square test?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
+    url: /learn/education-studies/questions/how-do-you-determine-the-degrees-of-freedom-in-a-chisquare-test
 related_article5:
-    id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    id: 167805
+    title: >-
+        What are the key differences between Mendelian and non-Mendelian patterns of heredity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
 ---
 
 &nbsp;

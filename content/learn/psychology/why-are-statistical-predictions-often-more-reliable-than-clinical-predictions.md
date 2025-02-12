@@ -2,8 +2,10 @@
 _schema: default
 id: 168881
 date: 2025-02-04
-title: Why are statistical predictions often more reliable than clinical predictions?
-article_title: Why are statistical predictions often more reliable than clinical predictions?
+title: >-
+    Why are statistical predictions often more reliable than clinical predictions?
+article_title: >-
+    Why are statistical predictions often more reliable than clinical predictions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-statistical-predictions-often-more-reliable-than-clinical-pre
 url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
 score: -1.0
 related_article1:
-    id: 168895
-    title: Explain the concept of rational addiction and its implications for cognitive repairs.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
-related_article2:
-    id: 168885
-    title: What role does overconfidence play in financial forecasting?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
-related_article3:
     id: 168892
-    title: What is the difference between life satisfaction and happiness in the context of well-being?
+    title: >-
+        What is the difference between life satisfaction and happiness in the context of well-being?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-difference-between-life-satisfaction-and-happiness-in-the-context-of-wellbeing
-related_article4:
+related_article2:
     id: 168878
-    title: What is the narrative fallacy and how does it affect our understanding of past events?
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
-related_article5:
-    id: 168893
-    title: How can behavioral economics influence public policy?
+related_article3:
+    id: 168880
+    title: >-
+        Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
     subject: Psychology
-    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
+    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
+related_article4:
+    id: 168891
+    title: >-
+        How is experienced well-being measured using the Day Reconstruction Method?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+related_article5:
+    id: 168895
+    title: >-
+        Explain the concept of rational addiction and its implications for cognitive repairs.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-rational-addiction-and-its-implications-for-cognitive-repairs
 ---
 
 &nbsp;

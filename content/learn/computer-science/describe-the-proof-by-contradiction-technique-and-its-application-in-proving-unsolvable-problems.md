@@ -2,8 +2,10 @@
 _schema: default
 id: 161133
 date: 2025-01-24
-title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
-article_title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
+title: >-
+    Describe the proof by contradiction technique and its application in proving unsolvable problems.
+article_title: >-
+    Describe the proof by contradiction technique and its application in proving unsolvable problems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-proof-by-contradiction-technique-and-its-application-in-
 url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
 score: -1.0
 related_article1:
-    id: 161137
-    title: What are the characteristics of intractable problems in complexity theory?
+    id: 160810
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-intractable-problems-in-complexity-theory
+    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 related_article2:
-    id: 161148
-    title: What is the significance of cardinality in defining complexity and algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
-related_article3:
-    id: 161148
-    title: What is the significance of cardinality in defining complexity and algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
-related_article4:
-    id: 161279
-    title: What distinguishes rational numbers from irrational numbers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
-related_article5:
-    id: 161281
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 160814
+    title: >-
+        What is the difference between countably infinite and uncountably infinite sets?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+related_article3:
+    id: 161141
+    title: >-
+        How can the irrationality of a number be proven?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-irrationality-of-a-number-be-proven
+related_article4:
+    id: 161287
+    title: >-
+        How do infinite sets impact computability and set theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
+related_article5:
+    id: 160819
+    title: >-
+        How do static and dynamic analysis techniques differ in algorithm development?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
 ---
 
 &nbsp;

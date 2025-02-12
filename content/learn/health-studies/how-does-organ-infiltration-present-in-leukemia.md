@@ -2,8 +2,10 @@
 _schema: default
 id: 166300
 date: 2025-01-30
-title: How does organ infiltration present in leukemia?
-article_title: How does organ infiltration present in leukemia?
+title: >-
+    How does organ infiltration present in leukemia?
+article_title: >-
+    How does organ infiltration present in leukemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-organ-infiltration-present-in-leukemia.md
 url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
 score: -1.0
 related_article1:
-    id: 166299
-    title: What systemic symptoms are commonly observed in leukemia patients?
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 related_article2:
-    id: 166297
-    title: What viral infections are associated with an increased risk of leukemia?
+    id: 166316
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
+    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 related_article3:
-    id: 166315
-    title: What are the causes and symptoms of leukopenia and neutropenia?
+    id: 166298
+    title: >-
+        What are the symptoms of bone marrow overcrowding in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 related_article4:
-    id: 166309
-    title: What constitutional symptoms are associated with lymphoma?
+    id: 166292
+    title: >-
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 related_article5:
-    id: 166315
-    title: What are the causes and symptoms of leukopenia and neutropenia?
+    id: 166313
+    title: >-
+        What are the common causes and symptoms of anemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
 ---
 
 &nbsp;

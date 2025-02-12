@@ -2,8 +2,10 @@
 _schema: default
 id: 161564
 date: 2025-01-24
-title: What are the benefits of real-time protection in anti-virus utility software?
-article_title: What are the benefits of real-time protection in anti-virus utility software?
+title: >-
+    What are the benefits of real-time protection in anti-virus utility software?
+article_title: >-
+    What are the benefits of real-time protection in anti-virus utility software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-realtime-protection-in-antivirus-utility-sof
 url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
 score: -1.0
 related_article1:
-    id: 161534
-    title: What are the key characteristics of mainframe computers that distinguish them from other types of computers?
+    id: 161549
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers-that-distinguish-them-from-other-types-of-computers
+    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
 related_article2:
-    id: 161536
-    title: What role do redundant components play in enhancing the reliability of a computing system?
+    id: 161312
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-enhancing-the-reliability-of-a-computing-system
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
 related_article3:
-    id: 161311
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161669
+    title: >-
+        What are the advantages of using real-time protection in anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-realtime-protection-in-antivirus-software
 related_article4:
-    id: 161562
-    title: What is the role of device drivers in system software?
+    id: 161302
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 related_article5:
-    id: 161290
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161293
+    title: >-
+        What is the purpose of encryption in access control?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
 ---
 
 &nbsp;

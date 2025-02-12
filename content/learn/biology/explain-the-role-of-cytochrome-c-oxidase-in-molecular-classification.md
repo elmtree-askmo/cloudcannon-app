@@ -2,8 +2,10 @@
 _schema: default
 id: 165812
 date: 2025-01-29
-title: Explain the role of cytochrome C oxidase in molecular classification.
-article_title: Explain the role of cytochrome C oxidase in molecular classification.
+title: >-
+    Explain the role of cytochrome C oxidase in molecular classification.
+article_title: >-
+    Explain the role of cytochrome C oxidase in molecular classification.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-role-of-cytochrome-c-oxidase-in-molecular-classification.
 url: /learn/biology/questions/explain-the-role-of-cytochrome-c-oxidase-in-molecular-classification
 score: -1.0
 related_article1:
-    id: 165809
-    title: What are the key advancements in genomics that have impacted scientific techniques?
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-advancements-in-genomics-that-have-impacted-scientific-techniques
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 related_article2:
-    id: 165819
-    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    id: 165813
+    title: >-
+        How do parasites acquire nutrients from their hosts?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+    url: /learn/biology/questions/how-do-parasites-acquire-nutrients-from-their-hosts
 related_article3:
-    id: 165825
-    title: What are the differences between asexual and sexual reproduction in parasites?
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 related_article4:
-    id: 165804
-    title: What is the significance of biological diversity in systematics and taxonomy?
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 related_article5:
-    id: 165821
-    title: Explain the concept of a natural focus of disease.
+    id: 165805
+    title: >-
+        How do classification systems contribute to the organization of biological diversity?
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-a-natural-focus-of-disease
+    url: /learn/biology/questions/how-do-classification-systems-contribute-to-the-organization-of-biological-diversity
 ---
 
 &nbsp;

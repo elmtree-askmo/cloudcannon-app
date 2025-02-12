@@ -2,8 +2,10 @@
 _schema: default
 id: 161691
 date: 2025-01-24
-title: Why is the level of detail important in information, and what factors can affect it?
-article_title: Why is the level of detail important in information, and what factors can affect it?
+title: >-
+    Why is the level of detail important in information, and what factors can affect it?
+article_title: >-
+    Why is the level of detail important in information, and what factors can affect it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-level-of-detail-important-in-information-and-what-factors-
 url: /learn/computer-science/questions/why-is-the-level-of-detail-important-in-information-and-what-factors-can-affect-it
 score: -1.0
 related_article1:
-    id: 161505
-    title: How does data verification ensure data accuracy and what are the methods used?
+    id: 161427
+    title: >-
+        What is the difference between data and information, and why is raw data considered meaningless?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
+related_article2:
+    id: 161427
+    title: >-
+        What is the difference between data and information, and why is raw data considered meaningless?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
+related_article3:
+    id: 161492
+    title: >-
+        How does indirect data differ from direct data and what are its potential uses?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-its-potential-uses
+related_article4:
+    id: 161685
+    title: >-
+        How does data transform into information, and why is context important in this process?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
+related_article5:
+    id: 161668
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
-related_article2:
-    id: 161686
-    title: What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-direct-data-and-what-are-its-advantages-and-disadvantages
-related_article3:
-    id: 161503
-    title: What are the key features of real-time processing and why is it important in certain use cases?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-features-of-realtime-processing-and-why-is-it-important-in-certain-use-cases
-related_article4:
-    id: 161495
-    title: Why is the age of information crucial and what factors can affect its timeliness?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
-related_article5:
-    id: 161511
-    title: What are the main components of an information system and how do they interact?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 ---
 
 &nbsp;

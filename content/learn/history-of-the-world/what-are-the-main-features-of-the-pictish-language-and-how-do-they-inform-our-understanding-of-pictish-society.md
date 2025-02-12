@@ -2,8 +2,10 @@
 _schema: default
 id: 169873
 date: 2025-02-05
-title: What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
-article_title: What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
+title: >-
+    What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
+article_title: >-
+    What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-features-of-the-pictish-language-and-how-do-they-in
 url: /learn/history-of-the-world/questions/what-are-the-main-features-of-the-pictish-language-and-how-do-they-inform-our-understanding-of-pictish-society
 score: 9.0
 related_article1:
-    id: 169879
-    title: How did the Roman administration manage the provinces of Roman Britain?
+    id: 169880
+    title: >-
+        What were the main factors leading to the Roman withdrawal from Scotland?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-roman-administration-manage-the-provinces-of-roman-britain
+    url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-roman-withdrawal-from-scotland
 related_article2:
-    id: 169876
-    title: In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
+    id: 169870
+    title: >-
+        What are the key characteristics of Iron Age settlements in Scotland based on archaeological evidence?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-iron-age-settlements-in-scotland-based-on-archaeological-evidence
 related_article3:
-    id: 169871
-    title: How did the Roman naming of the Caledonians influence historical perceptions of these tribes?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-roman-naming-of-the-caledonians-influence-historical-perceptions-of-these-tribes
-related_article4:
-    id: 169881
-    title: What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-tacitus-agricola-and-how-does-it-contribute-to-our-understanding-of-roman-britain
-related_article5:
     id: 169869
-    title: What role did ancient biographies play in shaping the historical narrative of Roman Britain?
+    title: >-
+        What role did ancient biographies play in shaping the historical narrative of Roman Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-ancient-biographies-play-in-shaping-the-historical-narrative-of-roman-britain
+related_article4:
+    id: 169875
+    title: >-
+        How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-tacitus-perspective-in-agricolas-biography-reflect-roman-historiography-biases
+related_article5:
+    id: 169870
+    title: >-
+        What are the key characteristics of Iron Age settlements in Scotland based on archaeological evidence?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-iron-age-settlements-in-scotland-based-on-archaeological-evidence
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165705
 date: 2025-01-29
-title: Explain the significance of base 2 digits in the binary number system.
-article_title: Explain the significance of base 2 digits in the binary number system.
+title: >-
+    Explain the significance of base 2 digits in the binary number system.
+article_title: >-
+    Explain the significance of base 2 digits in the binary number system.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/explain-the-significance-of-base-2-digits
 score: -1.0
 related_article1:
     id: 165712
-    title: What is a network address and how is it represented when the host portion is all 0s?
+    title: >-
+        What is a network address and how is it represented when the host portion is all 0s?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-a-network-address-and-how-is-it-represented-when-the-host-portion-is-all-0s
 related_article2:
+    id: 165715
+    title: >-
+        What is unicast addressing and in what scenarios is it typically used?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-unicast-addressing-and-in-what-scenarios-is-it-typically-used
+related_article3:
+    id: 165713
+    title: >-
+        How is a host address represented using a combination of 0s and 1s?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-a-host-address-represented-using-a-combination-of-0s-and-1s
+related_article4:
     id: 165718
-    title: What are the configuration steps for static IP address assignment?
+    title: >-
+        What are the configuration steps for static IP address assignment?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
-related_article3:
-    id: 165721
-    title: What is the role of the network portion in hierarchical IP addressing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-network-portion-in-hierarchical-ip-addressing
-related_article4:
-    id: 165710
-    title: What is the binary representation of a subnet mask and how does it divide the network and host portions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-binary-representation-of-a-subnet-mask-and-how-does-it-divide-the-network-and-host-portions
 related_article5:
-    id: 165719
-    title: Explain the benefits of using DHCP for dynamic IP address assignment.
+    id: 165718
+    title: >-
+        What are the configuration steps for static IP address assignment?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-benefits-of-using-dhcp-for-dynamic-ip-address-assignment
+    url: /learn/computer-science/questions/what-are-the-configuration-steps-for-static-ip-address-assignment
 ---
 
 &nbsp;

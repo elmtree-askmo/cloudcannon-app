@@ -2,8 +2,10 @@
 _schema: default
 id: 169329
 date: 2025-02-05
-title: How does learning history impact current behavior and what considerations should be made in behavior analysis?
-article_title: How does learning history impact current behavior and what considerations should be made in behavior analysis?
+title: >-
+    How does learning history impact current behavior and what considerations should be made in behavior analysis?
+article_title: >-
+    How does learning history impact current behavior and what considerations should be made in behavior analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-learning-history-impact-current-behavior-and-what-considerat
 url: /learn/psychology/questions/how-does-learning-history-impact-current-behavior-and-what-considerations-should-be-made-in-behavior-analysis
 score: -1.0
 related_article1:
-    id: 169316
-    title: What is the topography of behavior and why is it significant in behavior analysis?
+    id: 169322
+    title: >-
+        How are behavior change procedures implemented and monitored?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
+    url: /learn/psychology/questions/how-are-behavior-change-procedures-implemented-and-monitored
 related_article2:
     id: 169316
-    title: What is the topography of behavior and why is it significant in behavior analysis?
+    title: >-
+        What is the topography of behavior and why is it significant in behavior analysis?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
 related_article3:
-    id: 169318
-    title: Why is measuring the duration of behavior relevant to behavior modification?
+    id: 169326
+    title: >-
+        What are the steps involved in skill acquisition and how does reinforcement play a role?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
 related_article4:
-    id: 169328
-    title: What are some common data collection techniques used in behavior analysis?
+    id: 169315
+    title: >-
+        How can reinforcement schedules be adjusted based on progress in differential reinforcement?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 related_article5:
-    id: 169316
-    title: What is the topography of behavior and why is it significant in behavior analysis?
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 ---
 
 &nbsp;

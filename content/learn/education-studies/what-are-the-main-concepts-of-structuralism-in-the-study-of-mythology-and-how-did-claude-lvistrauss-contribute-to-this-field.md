@@ -2,8 +2,10 @@
 _schema: default
 id: 166005
 date: 2025-01-29
-title: What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
-article_title: What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
+title: >-
+    What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
+article_title: >-
+    What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology
 url: /learn/education-studies/questions/what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology-and-how-did-claude-lvistrauss-contribute-to-this-field
 score: -1.0
 related_article1:
-    id: 166002
-    title: How do historical contexts and political events influence the cultural memory in mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-historical-contexts-and-political-events-influence-the-cultural-memory-in-mythology
-related_article2:
     id: 166012
-    title: What is the significance of temples and sanctuaries in ancient ritual practices?
+    title: >-
+        What is the significance of temples and sanctuaries in ancient ritual practices?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-temples-and-sanctuaries-in-ancient-ritual-practices
+related_article2:
+    id: 166004
+    title: >-
+        How does vase painting contribute to our understanding of ancient iconography?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-vase-painting-contribute-to-our-understanding-of-ancient-iconography
 related_article3:
     id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    title: >-
+        Who are some of the key gods, goddesses, heroes, and monsters in mythology?
     subject: Education Studies
     url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
 related_article4:
-    id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    id: 166006
+    title: >-
+        How do archetypes function in comparative mythology according to Carl Jung?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
+    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
 related_article5:
-    id: 166008
-    title: How do myths explain natural phenomena and serve as etiological narratives?
+    id: 166001
+    title: >-
+        What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-myths-explain-natural-phenomena-and-serve-as-etiological-narratives
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
 ---
 
 &nbsp;

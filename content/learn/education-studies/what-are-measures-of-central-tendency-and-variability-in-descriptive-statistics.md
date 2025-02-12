@@ -2,8 +2,10 @@
 _schema: default
 id: 165109
 date: 2025-01-28
-title: What are measures of central tendency and variability in descriptive statistics?
-article_title: What are measures of central tendency and variability in descriptive statistics?
+title: >-
+    What are measures of central tendency and variability in descriptive statistics?
+article_title: >-
+    What are measures of central tendency and variability in descriptive statistics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-measures-of-central-tendency-and-variability-in-descriptive-
 url: /learn/education-studies/questions/what-are-measures-of-central-tendency-and-variability-in-descriptive-statistics
 score: -1.0
 related_article1:
-    id: 165111
-    title: What is the difference between continuous and categorical variables?
+    id: 165121
+    title: >-
+        What are the key steps in the scientific methodology and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
 related_article2:
-    id: 165118
-    title: What are the challenges in data interpretation and how can bias be overcome?
+    id: 165106
+    title: >-
+        What are some common challenges in data collection related to participant and observer bias?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-in-data-interpretation-and-how-can-bias-be-overcome
+    url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
 related_article3:
-    id: 165107
-    title: Why is accurate data coding important and what are some common coding errors?
+    id: 165097
+    title: >-
+        What role do independent variables play in experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-accurate-data-coding-important-and-what-are-some-common-coding-errors
+    url: /learn/education-studies/questions/what-role-do-independent-variables-play-in-experiments
 related_article4:
-    id: 165118
-    title: What are the challenges in data interpretation and how can bias be overcome?
+    id: 165098
+    title: >-
+        How can independent variables be manipulated to impact experimental outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-in-data-interpretation-and-how-can-bias-be-overcome
+    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
 related_article5:
-    id: 165102
-    title: What are the key differences between between-subjects and within-subjects experimental designs?
+    id: 165115
+    title: >-
+        How can validity be ensured in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
+    url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-studies
 ---
 
 &nbsp;

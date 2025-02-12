@@ -2,8 +2,10 @@
 _schema: default
 id: 166345
 date: 2025-01-30
-title: What is the significance of individual learning in the context of animal behavior and fitness?
-article_title: What is the significance of individual learning in the context of animal behavior and fitness?
+title: >-
+    What is the significance of individual learning in the context of animal behavior and fitness?
+article_title: >-
+    What is the significance of individual learning in the context of animal behavior and fitness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-individual-learning-in-the-context-of-ani
 url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 score: -1.0
 related_article1:
-    id: 166350
-    title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
+    id: 166343
+    title: >-
+        Describe the difference between associative and non-associative learning in animals.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
+    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
 related_article2:
-    id: 166348
-    title: How can animal behavior serve as an indicator of environmental disturbances in conservation biology?
+    id: 166346
+    title: >-
+        How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
     subject: Sociology
-    url: /learn/sociology/questions/how-can-animal-behavior-serve-as-an-indicator-of-environmental-disturbances-in-conservation-biology
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
 related_article3:
     id: 166338
-    title: How does the study of animal behavior contribute to our understanding of ecology?
+    title: >-
+        How does the study of animal behavior contribute to our understanding of ecology?
     subject: Sociology
     url: /learn/sociology/questions/how-does-the-study-of-animal-behavior-contribute-to-our-understanding-of-ecology
 related_article4:
-    id: 166343
-    title: Describe the difference between associative and non-associative learning in animals.
+    id: 166339
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
+    url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 related_article5:
-    id: 166344
-    title: How does cultural transmission occur in animals, and what role does social learning play?
+    id: 166339
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
+    url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168071
 date: 2025-02-02
-title: Why is adolescence considered important for memory recall and adult identity formation?
-article_title: Why is adolescence considered important for memory recall and adult identity formation?
+title: >-
+    Why is adolescence considered important for memory recall and adult identity formation?
+article_title: >-
+    Why is adolescence considered important for memory recall and adult identity formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-adolescence-considered-important-for-memory-recall-and-adult-i
 url: /learn/psychology/questions/why-is-adolescence-considered-important-for-memory-recall-and-adult-identity-formation
 score: -1.0
 related_article1:
+    id: 168062
+    title: >-
+        How does language development influence memory encoding in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
+related_article2:
+    id: 168066
+    title: >-
+        How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
+related_article3:
+    id: 168073
+    title: >-
+        What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article4:
+    id: 168068
+    title: >-
+        How does peak circadian arousal differ between older and younger adults in terms of memory performance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-peak-circadian-arousal-differ-between-older-and-younger-adults-in-terms-of-memory-performance
+related_article5:
     id: 168070
-    title: How do memorable life events during adulthood influence personal identity development?
+    title: >-
+        How do memorable life events during adulthood influence personal identity development?
     subject: Psychology
     url: /learn/psychology/questions/how-do-memorable-life-events-during-adulthood-influence-personal-identity-development
-related_article2:
-    id: 168072
-    title: How does language acquisition affect the development of personal memories in young children?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
-related_article3:
-    id: 168067
-    title: What is the synchrony effect and how does it relate to age-related circadian differences?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
-related_article4:
-    id: 168065
-    title: What are the optimal performance times for visual and verbal memory tasks in different age groups?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-optimal-performance-times-for-visual-and-verbal-memory-tasks-in-different-age-groups
-related_article5:
-    id: 168069
-    title: What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
 ---
 
 &nbsp;

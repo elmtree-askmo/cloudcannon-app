@@ -2,8 +2,10 @@
 _schema: default
 id: 168357
 date: 2025-02-03
-title: What strategies might governments employ in response to tariff impositions?
-article_title: What strategies might governments employ in response to tariff impositions?
+title: >-
+    What strategies might governments employ in response to tariff impositions?
+article_title: >-
+    What strategies might governments employ in response to tariff impositions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-might-governments-employ-in-response-to-tariff-imposi
 url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
 score: -1.0
 related_article1:
-    id: 168364
-    title: How do historical religious and ethnic tensions impact community dynamics?
+    id: 168370
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
 related_article2:
-    id: 168371
-    title: What are the implications of digital communication on social interactions and relationships?
+    id: 168372
+    title: >-
+        What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+    url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
 related_article3:
-    id: 168366
-    title: How does urban development influence infrastructure changes and livability in communities?
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
 related_article4:
-    id: 168366
-    title: How does urban development influence infrastructure changes and livability in communities?
+    id: 168358
+    title: >-
+        How does globalization contribute to economic interconnectedness and global market dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+    url: /learn/sociology/questions/how-does-globalization-contribute-to-economic-interconnectedness-and-global-market-dynamics
 related_article5:
-    id: 168367
-    title: What are the community reactions to new public transit projects?
+    id: 168370
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
 ---
 
 &nbsp;

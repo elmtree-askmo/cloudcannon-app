@@ -2,8 +2,10 @@
 _schema: default
 id: 166480
 date: 2025-01-30
-title: Why is it important to adjust medication dosing for pediatric and elderly patients?
-article_title: Why is it important to adjust medication dosing for pediatric and elderly patients?
+title: >-
+    Why is it important to adjust medication dosing for pediatric and elderly patients?
+article_title: >-
+    Why is it important to adjust medication dosing for pediatric and elderly patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-eld
 url: /learn/nursing/questions/why-is-it-important-to-adjust-medication-dosing-for-pediatric-and-elderly-patients
 score: -1.0
 related_article1:
-    id: 166478
-    title: How do biologic drugs impact patient outcomes in terms of efficacy and safety?
+    id: 166479
+    title: >-
+        What physiological variables must be considered when administering medication to patients?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-biologic-drugs-impact-patient-outcomes-in-terms-of-efficacy-and-safety
+    url: /learn/nursing/questions/what-physiological-variables-must-be-considered-when-administering-medication-to-patients
 related_article2:
-    id: 166483
-    title: How do somatic and visceral pain differ in terms of origin and sensation?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-somatic-and-visceral-pain-differ-in-terms-of-origin-and-sensation
-related_article3:
     id: 166477
-    title: What are the key differences between biologic drugs and traditional drugs?
+    title: >-
+        What are the key differences between biologic drugs and traditional drugs?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-differences-between-biologic-drugs-and-traditional-drugs
+related_article3:
+    id: 166488
+    title: >-
+        How does pain tolerance vary among individuals and what factors contribute to this variability?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-pain-tolerance-vary-among-individuals-and-what-factors-contribute-to-this-variability
 related_article4:
-    id: 166484
-    title: What is the role of nociceptors in pain processing?
+    id: 166482
+    title: >-
+        What are the potential fetal risks associated with Category D and X drugs?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
-related_article5:
-    id: 166484
-    title: What is the role of nociceptors in pain processing?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-nociceptors-in-pain-processing
+    url: /learn/nursing/questions/what-are-the-potential-fetal-risks-associated-with-category-d-and-x-drugs
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170180
 date: 2025-02-06
-title: What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
-article_title: What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
+title: >-
+    What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
+article_title: >-
+    What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-archaeological-significance-of-hadrians-wall-and-what-eff
 url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
 score: 9.5
 related_article1:
-    id: 170179
-    title: Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
+    id: 170186
+    title: >-
+        How did Roman-British relations evolve during the initial contact and conquest period?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
+    url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
 related_article2:
-    id: 170170
-    title: What were the tactical elements and historical significance of the Battle of Mons Graupius?
+    id: 170184
+    title: >-
+        Who was Calgacus, and what was his influence on Caledonian warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-tactical-elements-and-historical-significance-of-the-battle-of-mons-graupius
+    url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
 related_article3:
     id: 170169
-    title: Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
     url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article4:
-    id: 170173
-    title: What are the main themes and historical context of Tacitus' 'Annals'?
+    id: 170172
+    title: >-
+        How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
+    url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
 related_article5:
-    id: 170174
-    title: Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
+    id: 170171
+    title: >-
+        Explain the strategic importance of Roman marching camps and the archaeological discoveries associated with them.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/compare-the-contributions-of-cornelius-nepos-to-the-biography-genre-with-those-of-tacitus
+    url: /learn/history-of-the-world/questions/explain-the-strategic-importance-of-roman-marching-camps-and-the-archaeological-discoveries-associated-with-them
 ---
 
 &nbsp;

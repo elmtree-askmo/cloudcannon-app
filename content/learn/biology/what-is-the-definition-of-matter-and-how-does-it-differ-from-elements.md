@@ -2,8 +2,10 @@
 _schema: default
 id: 167398
 date: 2025-01-31
-title: What is the definition of matter and how does it differ from elements?
-article_title: What is the definition of matter and how does it differ from elements?
+title: >-
+    What is the definition of matter and how does it differ from elements?
+article_title: >-
+    What is the definition of matter and how does it differ from elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
 score: -1.0
 related_article1:
-    id: 167407
-    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    id: 167410
+    title: >-
+        Describe the structure and function of the methyl group.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-methyl-group
 related_article2:
-    id: 167405
-    title: How do ionic bonds form and what are cations and anions?
+    id: 167414
+    title: >-
+        Describe the structure and function of the phosphate group.
     subject: Biology
-    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
+    url: /learn/biology/questions/describe-the-structure-and-function-of-the-phosphate-group
 related_article3:
-    id: 167400
-    title: How is atomic mass different from atomic number?
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
     subject: Biology
-    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 related_article4:
-    id: 167417
-    title: What are isotopes and how do they differ from each other?
+    id: 167415
+    title: >-
+        What is the significance of the sulfhydryl group in proteins?
     subject: Biology
-    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+    url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
 related_article5:
-    id: 167406
-    title: What is hydrogen bonding and why is it important in biological systems?
+    id: 167418
+    title: >-
+        Explain the difference between cations and anions.
     subject: Biology
-    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
+    url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
 ---
 
 &nbsp;

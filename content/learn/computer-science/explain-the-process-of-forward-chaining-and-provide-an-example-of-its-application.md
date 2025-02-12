@@ -2,8 +2,10 @@
 _schema: default
 id: 161402
 date: 2025-01-24
-title: Explain the process of forward chaining and provide an example of its application.
-article_title: Explain the process of forward chaining and provide an example of its application.
+title: >-
+    Explain the process of forward chaining and provide an example of its application.
+article_title: >-
+    Explain the process of forward chaining and provide an example of its application.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-process-of-forward-chaining-and-provide-an-example-of-its
 url: /learn/computer-science/questions/explain-the-process-of-forward-chaining-and-provide-an-example-of-its-application
 score: -1.0
 related_article1:
-    id: 161397
-    title: What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
+    id: 161409
+    title: >-
+        Discuss two disadvantages of expert systems concerning training and costs.
+    subject: Computer Science
+    url: /learn/computer-science/questions/discuss-two-disadvantages-of-expert-systems-concerning-training-and-costs
+related_article2:
+    id: 161411
+    title: >-
+        How are expert systems applied in the field of medical diagnosis, and what are the key components involved?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-are-expert-systems-applied-in-the-field-of-medical-diagnosis-and-what-are-the-key-components-involved
+related_article3:
+    id: 161411
+    title: >-
+        How are expert systems applied in the field of medical diagnosis, and what are the key components involved?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-are-expert-systems-applied-in-the-field-of-medical-diagnosis-and-what-are-the-key-components-involved
+related_article4:
+    id: 161208
+    title: >-
+        What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
-related_article2:
-    id: 161209
-    title: Identify the main components of an expert system and briefly describe their roles.
-    subject: Computer Science
-    url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-roles
-related_article3:
-    id: 161224
-    title: Identify the main components of an expert system and briefly describe their functions.
-    subject: Computer Science
-    url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-functions
-related_article4:
-    id: 161400
-    title: What is the role of the inference engine in an expert system, and how does it utilize inference rules?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-inference-engine-in-an-expert-system-and-how-does-it-utilize-inference-rules
 related_article5:
-    id: 161405
-    title: What are the key steps involved in setting up an expert system, particularly in terms of knowledge base and rules base creation?
+    id: 161208
+    title: >-
+        What is the primary purpose of expert systems in problem solving, diagnosis, and reasoning?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-involved-in-setting-up-an-expert-system-particularly-in-terms-of-knowledge-base-and-rules-base-creation
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-expert-systems-in-problem-solving-diagnosis-and-reasoning
 ---
 
 &nbsp;

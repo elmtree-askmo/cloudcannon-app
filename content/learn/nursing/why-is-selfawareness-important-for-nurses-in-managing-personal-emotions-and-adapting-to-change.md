@@ -2,8 +2,10 @@
 _schema: default
 id: 169611
 date: 2025-02-05
-title: Why is self-awareness important for nurses in managing personal emotions and adapting to change?
-article_title: Why is self-awareness important for nurses in managing personal emotions and adapting to change?
+title: >-
+    Why is self-awareness important for nurses in managing personal emotions and adapting to change?
+article_title: >-
+    Why is self-awareness important for nurses in managing personal emotions and adapting to change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-selfawareness-important-for-nurses-in-managing-personal-emotio
 url: /learn/nursing/questions/why-is-selfawareness-important-for-nurses-in-managing-personal-emotions-and-adapting-to-change
 score: -1.0
 related_article1:
-    id: 169607
-    title: What are some effective communication strategies for nurses when interacting with patients and their families?
+    id: 169608
+    title: >-
+        How can teamwork and collaboration be improved in healthcare settings to enhance patient care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
+    url: /learn/nursing/questions/how-can-teamwork-and-collaboration-be-improved-in-healthcare-settings-to-enhance-patient-care
 related_article2:
     id: 169601
-    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    title: >-
+        What are some key strategies for building resilience in nursing, especially during long shifts?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
 related_article3:
-    id: 169601
-    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    id: 169610
+    title: >-
+        How can nurses manage emotionally charged situations to build trust with patients?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
 related_article4:
-    id: 169607
-    title: What are some effective communication strategies for nurses when interacting with patients and their families?
+    id: 169603
+    title: >-
+        What role does self-awareness play in enhancing emotional intelligence in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-effective-communication-strategies-for-nurses-when-interacting-with-patients-and-their-families
+    url: /learn/nursing/questions/what-role-does-selfawareness-play-in-enhancing-emotional-intelligence-in-healthcare-settings
 related_article5:
-    id: 169601
-    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    id: 169603
+    title: >-
+        What role does self-awareness play in enhancing emotional intelligence in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+    url: /learn/nursing/questions/what-role-does-selfawareness-play-in-enhancing-emotional-intelligence-in-healthcare-settings
 ---
 
 &nbsp;

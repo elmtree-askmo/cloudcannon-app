@@ -2,8 +2,10 @@
 _schema: default
 id: 164913
 date: 2025-01-28
-title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
-article_title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+title: >-
+    What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+article_title: >-
+    What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-common-problemsolving-strategies-and-how-do-barriers-like-me
 url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
 score: -1.0
 related_article1:
-    id: 164905
-    title: How does metacognition contribute to effective learning strategies and problem solving?
+    id: 164909
+    title: >-
+        Compare Piaget’s and Vygotsky’s theories of cognitive development.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
+    url: /learn/psychology/questions/compare-piagets-and-vygotskys-theories-of-cognitive-development
 related_article2:
-    id: 164905
-    title: How does metacognition contribute to effective learning strategies and problem solving?
+    id: 164902
+    title: >-
+        Explain the difference between top-down and bottom-up processing with examples.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
+    url: /learn/psychology/questions/explain-the-difference-between-topdown-and-bottomup-processing-with-examples
 related_article3:
-    id: 164916
-    title: How is cognitive load measured, and what are its implications for learning and task performance?
+    id: 164908
+    title: >-
+        How do frontal lobe functions relate to executive function and decision making?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance
+    url: /learn/psychology/questions/how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making
 related_article4:
-    id: 164911
-    title: Explain the role of sensory processing in integrating sensory modalities and its disorders.
+    id: 164906
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
 related_article5:
-    id: 164903
-    title: What is inhibitory control, and why is it important in cognitive processes?
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
 ---
 
 &nbsp;

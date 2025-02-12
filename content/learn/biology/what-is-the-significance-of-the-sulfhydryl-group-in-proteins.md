@@ -2,8 +2,10 @@
 _schema: default
 id: 167415
 date: 2025-01-31
-title: What is the significance of the sulfhydryl group in proteins?
-article_title: What is the significance of the sulfhydryl group in proteins?
+title: >-
+    What is the significance of the sulfhydryl group in proteins?
+article_title: >-
+    What is the significance of the sulfhydryl group in proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-sulfhydryl-group-in-proteins.md
 url: /learn/biology/questions/what-is-the-significance-of-the-sulfhydryl-group-in-proteins
 score: -1.0
 related_article1:
-    id: 167404
-    title: What distinguishes polar covalent bonds from non-polar covalent bonds?
+    id: 167419
+    title: >-
+        What is the difference between molecules and compounds?
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-polar-covalent-bonds-from-nonpolar-covalent-bonds
+    url: /learn/biology/questions/what-is-the-difference-between-molecules-and-compounds
 related_article2:
-    id: 167400
-    title: How is atomic mass different from atomic number?
+    id: 167409
+    title: >-
+        What is the structure and function of the amino group in biological molecules?
     subject: Biology
-    url: /learn/biology/questions/how-is-atomic-mass-different-from-atomic-number
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
 related_article3:
-    id: 167417
-    title: What are isotopes and how do they differ from each other?
+    id: 167412
+    title: >-
+        Explain the structure and function of the hydroxyl group.
     subject: Biology
-    url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
+    url: /learn/biology/questions/explain-the-structure-and-function-of-the-hydroxyl-group
 related_article4:
-    id: 167398
-    title: What is the definition of matter and how does it differ from elements?
+    id: 167408
+    title: >-
+        Define hydrocarbons and list the types of hydrocarbons.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+    url: /learn/biology/questions/define-hydrocarbons-and-list-the-types-of-hydrocarbons
 related_article5:
-    id: 167416
-    title: Define atoms and describe their basic structure.
+    id: 167406
+    title: >-
+        What is hydrogen bonding and why is it important in biological systems?
     subject: Biology
-    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+    url: /learn/biology/questions/what-is-hydrogen-bonding-and-why-is-it-important-in-biological-systems
 ---
 
 &nbsp;

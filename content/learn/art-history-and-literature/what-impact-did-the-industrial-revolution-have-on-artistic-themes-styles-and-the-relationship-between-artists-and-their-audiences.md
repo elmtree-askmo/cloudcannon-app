@@ -2,8 +2,10 @@
 _schema: default
 id: 159849
 date: 2025-01-23
-title: What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
-article_title: What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
+title: >-
+    What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
+article_title: >-
+    What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-impact-did-the-industrial-revolution-have-on-artistic-themes-sty
 url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
 score: 9.0
 related_article1:
-    id: 159835
-    title: What were the origins of Cubism, and how did it impact modern art?
+    id: 160107
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 related_article2:
-    id: 159851
-    title: In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
+    id: 159833
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 related_article3:
-    id: 160112
-    title: How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
-related_article4:
-    id: 159837
-    title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
-related_article5:
     id: 160115
-    title: What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+    title: >-
+        What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
+related_article4:
+    id: 160115
+    title: >-
+        What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
+related_article5:
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 ---
 
 &nbsp;

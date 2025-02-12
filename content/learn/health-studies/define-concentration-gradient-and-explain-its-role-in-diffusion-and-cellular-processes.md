@@ -2,8 +2,10 @@
 _schema: default
 id: 168853
 date: 2025-02-04
-title: Define concentration gradient and explain its role in diffusion and cellular processes.
-article_title: Define concentration gradient and explain its role in diffusion and cellular processes.
+title: >-
+    Define concentration gradient and explain its role in diffusion and cellular processes.
+article_title: >-
+    Define concentration gradient and explain its role in diffusion and cellular processes.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-concentration-gradient-and-explain-its-role-in-diffusion-and-c
 url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
 score: -1.0
 related_article1:
-    id: 168850
-    title: Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
+    id: 168849
+    title: >-
+        How do epithelial cells in the small intestine adapt to maximize nutrient absorption?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-of-the-sodiumpotassium-pump-and-its-importance-in-maintaining-cellular-homeostasis
+    url: /learn/health-studies/questions/how-do-epithelial-cells-in-the-small-intestine-adapt-to-maximize-nutrient-absorption
 related_article2:
-    id: 168845
-    title: How do enzymes facilitate the digestion process through substrate specificity and catalysis?
+    id: 168856
+    title: >-
+        Explain the process of starch digestion and its importance as a source of glucose.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-enzymes-facilitate-the-digestion-process-through-substrate-specificity-and-catalysis
+    url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
 related_article3:
-    id: 168844
-    title: Identify the types of disaccharides and describe the role of glycosidic bonds in their formation and breakdown.
+    id: 168846
+    title: >-
+        Describe the structure of the phospholipid bilayer and its role in selective permeability.
     subject: Health Studies
-    url: /learn/health-studies/questions/identify-the-types-of-disaccharides-and-describe-the-role-of-glycosidic-bonds-in-their-formation-and-breakdown
+    url: /learn/health-studies/questions/describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-selective-permeability
 related_article4:
+    id: 168843
+    title: >-
+        Explain the importance of hydrolysis in metabolism, particularly in energy release.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-importance-of-hydrolysis-in-metabolism-particularly-in-energy-release
+related_article5:
     id: 168845
-    title: How do enzymes facilitate the digestion process through substrate specificity and catalysis?
+    title: >-
+        How do enzymes facilitate the digestion process through substrate specificity and catalysis?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-enzymes-facilitate-the-digestion-process-through-substrate-specificity-and-catalysis
-related_article5:
-    id: 168842
-    title: What is hydrolysis and how does it contribute to the digestion process?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-process
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160108
 date: 2025-01-23
-title: In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
-article_title: In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+title: >-
+    In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+article_title: >-
+    In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-postimpressionism-transition-from-impressionism-and-
 url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
 score: 9.0
 related_article1:
-    id: 159841
-    title: What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
+    id: 160112
+    title: >-
+        How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
+    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
 related_article2:
-    id: 159835
-    title: What were the origins of Cubism, and how did it impact modern art?
+    id: 159843
+    title: >-
+        In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
 related_article3:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
-related_article4:
     id: 160110
-    title: How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
+    title: >-
+        How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-changes-in-artistic-practices-and-subject-matter-during-the-19th-century
-related_article5:
-    id: 160115
-    title: What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
+related_article4:
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+related_article5:
+    id: 159843
+    title: >-
+        In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
 ---
 
 &nbsp;

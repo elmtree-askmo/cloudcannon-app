@@ -2,8 +2,10 @@
 _schema: default
 id: 160525
 date: 2025-01-24
-title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
-article_title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+title: >-
+    How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+article_title: >-
+    How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-i
 url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
 score: -1.0
 related_article1:
-    id: 160602
-    title: How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
+    id: 160522
+    title: >-
+        What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions-of-the-operating-system
+    url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-it-from-earlier-versions
 related_article2:
-    id: 160533
-    title: How did Apple's use of keynote presentations influence its branding and advertising strategies?
+    id: 160531
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apples-use-of-keynote-presentations-influence-its-branding-and-advertising-strategies
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article3:
-    id: 160429
-    title: What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
-related_article4:
-    id: 160526
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
-related_article5:
     id: 160427
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
+    title: >-
+        What was the impact of the MacBook Air's introduction on the laptop market?
     subject: Computer Science
     url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
+related_article4:
+    id: 160425
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+related_article5:
+    id: 160530
+    title: >-
+        What were the implications of Apple's transition to Intel processors for product performance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance
 ---
 
 &nbsp;

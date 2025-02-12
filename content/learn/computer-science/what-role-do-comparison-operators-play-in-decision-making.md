@@ -2,8 +2,10 @@
 _schema: default
 id: 161476
 date: 2025-01-24
-title: What role do comparison operators play in decision making?
-article_title: What role do comparison operators play in decision making?
+title: >-
+    What role do comparison operators play in decision making?
+article_title: >-
+    What role do comparison operators play in decision making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-comparison-operators-play-in-decision-making.md
 url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
 score: -1.0
 related_article1:
-    id: 161475
-    title: How are input and output represented in a flowchart?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
-related_article2:
-    id: 161486
-    title: Why are data types important in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
-related_article3:
     id: 161187
-    title: What is string manipulation and why is it important in programming?
+    title: >-
+        What is string manipulation and why is it important in programming?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
+related_article2:
+    id: 161194
+    title: >-
+        How does process flow ensure the correct sequence of actions in a program?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-program
+related_article3:
+    id: 161471
+    title: >-
+        What is the primary purpose of an algorithm in problem-solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-an-algorithm-in-problemsolving
 related_article4:
-    id: 161375
-    title: Why are data types important in programming?
+    id: 161180
+    title: >-
+        What is the primary purpose of an algorithm in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-an-algorithm-in-problemsolving
 related_article5:
-    id: 161482
-    title: What is the significance of counter variables in count-controlled loops?
+    id: 161194
+    title: >-
+        How does process flow ensure the correct sequence of actions in a program?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-program
 ---
 
 &nbsp;

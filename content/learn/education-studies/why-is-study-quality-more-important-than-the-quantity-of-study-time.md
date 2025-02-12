@@ -2,8 +2,10 @@
 _schema: default
 id: 165530
 date: 2025-01-29
-title: Why is study quality more important than the quantity of study time?
-article_title: Why is study quality more important than the quantity of study time?
+title: >-
+    Why is study quality more important than the quantity of study time?
+article_title: >-
+    Why is study quality more important than the quantity of study time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-study-quality-more-important-than-the-quantity-of-study-time.m
 url: /learn/education-studies/questions/why-is-study-quality-more-important-than-the-quantity-of-study-time
 score: -1.0
 related_article1:
-    id: 165526
-    title: How does active recall enhance learning compared to passive learning techniques?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
-related_article2:
-    id: 165534
-    title: How does the study environment influence energy levels and focus during learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-study-environment-influence-energy-levels-and-focus-during-learning
-related_article3:
     id: 165535
-    title: What are some ways to personalize your study environment to improve learning outcomes?
+    title: >-
+        What are some ways to personalize your study environment to improve learning outcomes?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-ways-to-personalize-your-study-environment-to-improve-learning-outcomes
-related_article4:
-    id: 165529
-    title: What are the benefits of using Anki software for spaced repetition?
+related_article2:
+    id: 165526
+    title: >-
+        How does active recall enhance learning compared to passive learning techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-anki-software-for-spaced-repetition
-related_article5:
+    url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
+related_article3:
+    id: 165526
+    title: >-
+        How does active recall enhance learning compared to passive learning techniques?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
+related_article4:
     id: 165536
-    title: What are the limitations of Anki software, and how can they be addressed?
+    title: >-
+        What are the limitations of Anki software, and how can they be addressed?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-limitations-of-anki-software-and-how-can-they-be-addressed
+related_article5:
+    id: 165539
+    title: >-
+        How do active recall techniques contribute to memory consolidation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-active-recall-techniques-contribute-to-memory-consolidation
 ---
 
 &nbsp;

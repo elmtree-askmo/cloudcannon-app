@@ -2,8 +2,10 @@
 _schema: default
 id: 164465
 date: 2025-01-28
-title: What is the significance of interval and ratio scales in understanding metrics for relationships?
-article_title: What is the significance of interval and ratio scales in understanding metrics for relationships?
+title: >-
+    What is the significance of interval and ratio scales in understanding metrics for relationships?
+article_title: >-
+    What is the significance of interval and ratio scales in understanding metrics for relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-interval-and-ratio-scales-in-understandin
 url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
 score: -1.0
 related_article1:
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+related_article2:
+    id: 164468
+    title: >-
+        How does functional specialization relate to neuropsychology and memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+related_article3:
     id: 164471
-    title: What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
+    title: >-
+        What is the role of the parahippocampal place area in landmark recognition and route-based navigation?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-the-parahippocampal-place-area-in-landmark-recognition-and-routebased-navigation
-related_article2:
-    id: 164473
-    title: What is the function of the geniculostriate pathway in conscious vision?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
-related_article3:
-    id: 164478
-    title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
 related_article4:
-    id: 164464
-    title: How does aphantasia affect cognitive map strategy and navigation?
+    id: 164460
+    title: >-
+        How do patient studies provide evidence for understanding object relationships?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
+    url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
 related_article5:
-    id: 164462
-    title: How does brain damage affect motion perception and what are the implications for the motion cortex?
+    id: 164463
+    title: >-
+        What are the main differences between route-based and cognitive map navigation strategies?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-brain-damage-affect-motion-perception-and-what-are-the-implications-for-the-motion-cortex
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169016
 date: 2025-02-04
-title: How can buildings serve as symbols of revolutionary movements?
-article_title: How can buildings serve as symbols of revolutionary movements?
+title: >-
+    How can buildings serve as symbols of revolutionary movements?
+article_title: >-
+    How can buildings serve as symbols of revolutionary movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-buildings-serve-as-symbols-of-revolutionary-movements.md
 url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
 score: 9.0
 related_article1:
-    id: 169004
-    title: In what ways does critical theory reframe architectural narratives?
+    id: 169009
+    title: >-
+        What actions did women take during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-does-critical-theory-reframe-architectural-narratives
+    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
 related_article2:
-    id: 169020
-    title: How are historical events represented in cultural narratives within architecture?
+    id: 169002
+    title: >-
+        What role does spatial analysis play in understanding the untold stories of architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
+    url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
 related_article3:
-    id: 169022
-    title: How have newspaper accounts influenced the historical narratives of revolutionary events?
+    id: 169007
+    title: >-
+        How is architecture strategically used in different contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influenced-the-historical-narratives-of-revolutionary-events
+    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
 related_article4:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    id: 169006
+    title: >-
+        What are gendered spaces in architecture, and why are they significant?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
 related_article5:
     id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 ---

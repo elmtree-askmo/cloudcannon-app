@@ -2,8 +2,10 @@
 _schema: default
 id: 166736
 date: 2025-01-31
-title: How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
-article_title: How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
+title: >-
+    How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
+article_title: >-
+    How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-coordinate-systems-used-in-vector-calculations-and-what-are-t
 url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
 score: -1.0
 related_article1:
-    id: 166733
-    title: What is the cross product of two vectors and what are its properties?
+    id: 166728
+    title: >-
+        Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
+    url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
 related_article2:
-    id: 166733
-    title: What is the cross product of two vectors and what are its properties?
+    id: 166738
+    title: >-
+        Describe the conservation of angular momentum and its applications in rotational motion.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
+    url: /learn/education-studies/questions/describe-the-conservation-of-angular-momentum-and-its-applications-in-rotational-motion
 related_article3:
-    id: 166730
-    title: What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
+    id: 166735
+    title: >-
+        What is a unit vector and why is it important in vector representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-commutative-and-distributive-properties-of-vectors-and-how-do-they-apply-to-vector-calculations
+    url: /learn/education-studies/questions/what-is-a-unit-vector-and-why-is-it-important-in-vector-representation
 related_article4:
-    id: 166727
-    title: How is the mechanical advantage of a lever determined and what are the types of levers?
+    id: 166731
+    title: >-
+        Define the dot product and explain how it is used to calculate scalar products.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-mechanical-advantage-of-a-lever-determined-and-what-are-the-types-of-levers
+    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
 related_article5:
-    id: 166737
-    title: What is angular momentum and how is it related to torque?
+    id: 166732
+    title: >-
+        How is the projection of one vector onto another calculated using scalar products?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-angular-momentum-and-how-is-it-related-to-torque
+    url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
 ---
 
 &nbsp;

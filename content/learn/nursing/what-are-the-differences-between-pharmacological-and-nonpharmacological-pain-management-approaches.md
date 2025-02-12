@@ -2,8 +2,10 @@
 _schema: default
 id: 169749
 date: 2025-02-05
-title: What are the differences between pharmacological and non-pharmacological pain management approaches?
-article_title: What are the differences between pharmacological and non-pharmacological pain management approaches?
+title: >-
+    What are the differences between pharmacological and non-pharmacological pain management approaches?
+article_title: >-
+    What are the differences between pharmacological and non-pharmacological pain management approaches?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-pharmacological-and-nonpharmacologic
 url: /learn/nursing/questions/what-are-the-differences-between-pharmacological-and-nonpharmacological-pain-management-approaches
 score: -1.0
 related_article1:
-    id: 169747
-    title: What are some management strategies for common bowel and bladder disorders?
+    id: 169759
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
 related_article2:
-    id: 169762
-    title: What are the requirements for proper medication storage, including temperature control and security measures?
+    id: 169740
+    title: >-
+        How does shared decision making enhance person-centered care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-proper-medication-storage-including-temperature-control-and-security-measures
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
 related_article3:
-    id: 169754
-    title: What are the main categories of drug classifications in pharmacology?
+    id: 169752
+    title: >-
+        What are the key legal aspects of medicines management that nurses must be aware of?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
+    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
 related_article4:
-    id: 169751
-    title: What role do counseling techniques and support systems play in mental health patient support?
+    id: 169764
+    title: >-
+        What are the best practices for prescribing medications, and what common pitfalls should be avoided?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-counseling-techniques-and-support-systems-play-in-mental-health-patient-support
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
 related_article5:
-    id: 169743
-    title: What are some age-specific health considerations that nurses should be aware of?
+    id: 169756
+    title: >-
+        What are the national standards for medication administration, and how do they relate to trust policies?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
+    url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
 ---
 
 &nbsp;

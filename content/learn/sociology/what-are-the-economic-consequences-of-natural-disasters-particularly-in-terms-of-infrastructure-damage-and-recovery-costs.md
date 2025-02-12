@@ -2,8 +2,10 @@
 _schema: default
 id: 163619
 date: 2025-01-27
-title: What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
-article_title: What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
+title: >-
+    What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
+article_title: >-
+    What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-economic-consequences-of-natural-disasters-particularly-
 url: /learn/sociology/questions/what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs
 score: -1.0
 related_article1:
-    id: 163613
-    title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
+    id: 163627
+    title: >-
+        How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
+    url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
 related_article2:
-    id: 163609
-    title: How does interconnectedness influence global opportunities and conditions?
+    id: 163623
+    title: >-
+        What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-interconnectedness-influence-global-opportunities-and-conditions
+    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
 related_article3:
+    id: 163617
+    title: >-
+        What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
+related_article4:
     id: 163626
-    title: What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
+    title: >-
+        What strategies are used in risk management to address supply chain challenges, such as contingency planning and diversification?
     subject: Sociology
     url: /learn/sociology/questions/what-strategies-are-used-in-risk-management-to-address-supply-chain-challenges-such-as-contingency-planning-and-diversification
-related_article4:
-    id: 163613
-    title: What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
-    subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
 related_article5:
-    id: 163622
-    title: What are the economic disruptions caused by pandemics, specifically regarding employment challenges and market instability?
+    id: 163616
+    title: >-
+        How did colonialism lead to economic exploitation through resource extraction and labor systems?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-economic-disruptions-caused-by-pandemics-specifically-regarding-employment-challenges-and-market-instability
+    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
 ---
 
 &nbsp;

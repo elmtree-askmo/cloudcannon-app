@@ -2,8 +2,10 @@
 _schema: default
 id: 168424
 date: 2025-02-03
-title: How can skills inventories help in identifying skill gaps relevant to career requirements?
-article_title: How can skills inventories help in identifying skill gaps relevant to career requirements?
+title: >-
+    How can skills inventories help in identifying skill gaps relevant to career requirements?
+article_title: >-
+    How can skills inventories help in identifying skill gaps relevant to career requirements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-skills-inventories-help-in-identifying-skill-gaps-relevant-to
 url: /learn/education-studies/questions/how-can-skills-inventories-help-in-identifying-skill-gaps-relevant-to-career-requirements
 score: -1.0
 related_article1:
-    id: 168421
-    title: What are the key components of personality inventories used in self-assessment questionnaires?
+    id: 168427
+    title: >-
+        What factors should be considered when analyzing the suitability of recommended career paths?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-personality-inventories-used-in-selfassessment-questionnaires
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-analyzing-the-suitability-of-recommended-career-paths
 related_article2:
-    id: 168427
-    title: What factors should be considered when analyzing the suitability of recommended career paths?
+    id: 168431
+    title: >-
+        What criteria are important when ranking career options and how do they influence career choice?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-analyzing-the-suitability-of-recommended-career-paths
+    url: /learn/education-studies/questions/what-criteria-are-important-when-ranking-career-options-and-how-do-they-influence-career-choice
 related_article3:
-    id: 168422
-    title: How can understanding personality types influence career choices?
+    id: 168430
+    title: >-
+        How can one create a skill development plan to address identified areas for improvement?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-understanding-personality-types-influence-career-choices
+    url: /learn/education-studies/questions/how-can-one-create-a-skill-development-plan-to-address-identified-areas-for-improvement
 related_article4:
-    id: 168421
-    title: What are the key components of personality inventories used in self-assessment questionnaires?
+    id: 168423
+    title: >-
+        What is the significance of aligning personal interests and values with career options?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-personality-inventories-used-in-selfassessment-questionnaires
+    url: /learn/education-studies/questions/what-is-the-significance-of-aligning-personal-interests-and-values-with-career-options
 related_article5:
-    id: 168427
-    title: What factors should be considered when analyzing the suitability of recommended career paths?
+    id: 168428
+    title: >-
+        What methods can be used to research and understand job roles and responsibilities in recommended careers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-analyzing-the-suitability-of-recommended-career-paths
+    url: /learn/education-studies/questions/what-methods-can-be-used-to-research-and-understand-job-roles-and-responsibilities-in-recommended-careers
 ---
 
 &nbsp;

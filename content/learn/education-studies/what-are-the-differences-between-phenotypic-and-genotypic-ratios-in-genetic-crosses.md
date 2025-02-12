@@ -2,8 +2,10 @@
 _schema: default
 id: 167769
 date: 2025-02-01
-title: What are the differences between phenotypic and genotypic ratios in genetic crosses?
-article_title: What are the differences between phenotypic and genotypic ratios in genetic crosses?
+title: >-
+    What are the differences between phenotypic and genotypic ratios in genetic crosses?
+article_title: >-
+    What are the differences between phenotypic and genotypic ratios in genetic crosses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-phenotypic-and-genotypic-ratios-in-g
 url: /learn/education-studies/questions/what-are-the-differences-between-phenotypic-and-genotypic-ratios-in-genetic-crosses
 score: -1.0
 related_article1:
-    id: 167775
-    title: Describe Thomas Morgan's contribution to the understanding of X-linked traits.
+    id: 167772
+    title: >-
+        Explain the difference between homozygous and heterozygous genotypes.
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-thomas-morgans-contribution-to-the-understanding-of-xlinked-traits
+    url: /learn/education-studies/questions/explain-the-difference-between-homozygous-and-heterozygous-genotypes
 related_article2:
+    id: 167780
+    title: >-
+        How do linkage and crossing over affect genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-linkage-and-crossing-over-affect-genetic-variation
+related_article3:
     id: 167779
-    title: What is the difference between Mendelian and non-Mendelian inheritance patterns?
+    title: >-
+        What is the difference between Mendelian and non-Mendelian inheritance patterns?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-mendelian-and-nonmendelian-inheritance-patterns
-related_article3:
-    id: 167777
-    title: What are the key stages of meiosis, and how do they contribute to genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-stages-of-meiosis-and-how-do-they-contribute-to-genetic-variation
 related_article4:
-    id: 167776
-    title: How does sickle cell disease illustrate the concept of genetic disorders?
+    id: 167781
+    title: >-
+        What are polygenic traits, and how do they differ from Mendelian traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-sickle-cell-disease-illustrate-the-concept-of-genetic-disorders
+    url: /learn/education-studies/questions/what-are-polygenic-traits-and-how-do-they-differ-from-mendelian-traits
 related_article5:
-    id: 167770
-    title: How does the chromosomal theory of inheritance relate to Mendel's laws?
+    id: 167778
+    title: >-
+        How does the process of meiosis ensure the correct distribution of genetic material?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chromosomal-theory-of-inheritance-relate-to-mendels-laws
+    url: /learn/education-studies/questions/how-does-the-process-of-meiosis-ensure-the-correct-distribution-of-genetic-material
 ---
 
 &nbsp;

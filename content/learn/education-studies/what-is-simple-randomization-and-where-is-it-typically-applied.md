@@ -2,8 +2,10 @@
 _schema: default
 id: 165128
 date: 2025-01-28
-title: What is simple randomization, and where is it typically applied?
-article_title: What is simple randomization, and where is it typically applied?
+title: >-
+    What is simple randomization, and where is it typically applied?
+article_title: >-
+    What is simple randomization, and where is it typically applied?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-simple-randomization-and-where-is-it-typically-applied.md
 url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
 score: -1.0
 related_article1:
-    id: 165133
-    title: What strategies can be used to mitigate participant bias in research?
+    id: 165150
+    title: >-
+        What are the key differences between thematic analysis and content analysis in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-mitigate-participant-bias-in-research
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-thematic-analysis-and-content-analysis-in-qualitative-research
 related_article2:
-    id: 165135
-    title: What is the purpose of using control groups in experimental research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
-related_article3:
-    id: 165132
-    title: How can external validity be threatened in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-external-validity-be-threatened-in-research
-related_article4:
     id: 165145
-    title: How do qualitative and quantitative research methodologies differ?
+    title: >-
+        How do qualitative and quantitative research methodologies differ?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-qualitative-and-quantitative-research-methodologies-differ
-related_article5:
-    id: 165140
-    title: How do SPSS and R differ as software tools for statistical analysis?
+related_article3:
+    id: 165122
+    title: >-
+        What are the key differences between surveys, observations, and experiments in data collection?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-surveys-observations-and-experiments-in-data-collection
+related_article4:
+    id: 165133
+    title: >-
+        What strategies can be used to mitigate participant bias in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-mitigate-participant-bias-in-research
+related_article5:
+    id: 165135
+    title: >-
+        What is the purpose of using control groups in experimental research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
 ---
 
 &nbsp;

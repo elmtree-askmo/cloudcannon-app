@@ -2,8 +2,10 @@
 _schema: default
 id: 164533
 date: 2025-01-28
-title: What have neuroimaging studies revealed about the correlation between physical and social pain?
-article_title: What have neuroimaging studies revealed about the correlation between physical and social pain?
+title: >-
+    What have neuroimaging studies revealed about the correlation between physical and social pain?
+article_title: >-
+    What have neuroimaging studies revealed about the correlation between physical and social pain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-have-neuroimaging-studies-revealed-about-the-correlation-between
 url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
 score: -1.0
 related_article1:
-    id: 164535
-    title: What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
 related_article2:
-    id: 164534
-    title: How does stress impact cognitive functions and mental health?
+    id: 164529
+    title: >-
+        What is the relationship between arousal and valence in emotional classification?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-stress-impact-cognitive-functions-and-mental-health
+    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
 related_article3:
-    id: 164537
-    title: What are the primary neuroimaging techniques used to study attention and perception, and how do they work?
+    id: 164540
+    title: >-
+        How do neurotransmitter systems influence emotion regulation and cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-neuroimaging-techniques-used-to-study-attention-and-perception-and-how-do-they-work
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
 related_article4:
-    id: 164532
-    title: How does social connectedness influence emotional perception and experience?
+    id: 164525
+    title: >-
+        How does the orbital cortex contribute to advanced emotional processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-social-connectedness-influence-emotional-perception-and-experience
+    url: /learn/psychology/questions/how-does-the-orbital-cortex-contribute-to-advanced-emotional-processing
 related_article5:
-    id: 164527
-    title: What is the significance of the cingulate cortex in emotion monitoring?
+    id: 164539
+    title: >-
+        What are the strengths and limitations of using converging methods in psychological research?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
+    url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-using-converging-methods-in-psychological-research
 ---
 
 &nbsp;

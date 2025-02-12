@@ -2,8 +2,10 @@
 _schema: default
 id: 169823
 date: 2025-02-05
-title: What is the role of self-reflection in personal growth and development?
-article_title: What is the role of self-reflection in personal growth and development?
+title: >-
+    What is the role of self-reflection in personal growth and development?
+article_title: >-
+    What is the role of self-reflection in personal growth and development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-selfreflection-in-personal-growth-and-development
 url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
 score: -1.0
 related_article1:
-    id: 169817
-    title: How does body language influence interpersonal communication?
+    id: 169803
+    title: >-
+        How can one assess personal feelings to identify areas for improvement?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-body-language-influence-interpersonal-communication
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 related_article2:
-    id: 169815
-    title: How can personal biases be identified and overcome?
+    id: 169809
+    title: >-
+        Why is empathy important in understanding others?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-personal-biases-be-identified-and-overcome
+    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
 related_article3:
     id: 169818
-    title: What techniques can be used for self-assessment to identify personal strengths?
+    title: >-
+        What techniques can be used for self-assessment to identify personal strengths?
     subject: Nursing
     url: /learn/nursing/questions/what-techniques-can-be-used-for-selfassessment-to-identify-personal-strengths
 related_article4:
-    id: 169811
-    title: How can reflection models be applied to enhance professional values?
+    id: 169812
+    title: >-
+        What are effective ways to receive and respond to feedback for personal growth?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-reflection-models-be-applied-to-enhance-professional-values
+    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
 related_article5:
-    id: 169802
-    title: What is the definition of self-reflection and why is it important?
+    id: 169803
+    title: >-
+        How can one assess personal feelings to identify areas for improvement?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-selfreflection-and-why-is-it-important
+    url: /learn/nursing/questions/how-can-one-assess-personal-feelings-to-identify-areas-for-improvement
 ---
 
 &nbsp;

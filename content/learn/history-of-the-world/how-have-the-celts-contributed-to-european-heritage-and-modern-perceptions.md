@@ -2,8 +2,10 @@
 _schema: default
 id: 160393
 date: 2025-01-24
-title: How have the Celts contributed to European heritage and modern perceptions?
-article_title: How have the Celts contributed to European heritage and modern perceptions?
+title: >-
+    How have the Celts contributed to European heritage and modern perceptions?
+article_title: >-
+    How have the Celts contributed to European heritage and modern perceptions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-the-celts-contributed-to-european-heritage-and-modern-percep
 url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
 score: 9.0
 related_article1:
-    id: 159912
-    title: How have Celtic languages influenced modern European languages?
+    id: 159871
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 related_article2:
+    id: 160260
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
+related_article3:
+    id: 159913
+    title: >-
+        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+related_article4:
+    id: 159855
+    title: >-
+        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+related_article5:
     id: 159883
-    title: What was the tribal organization and social hierarchy in Celtic society?
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
-related_article3:
-    id: 160179
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
-related_article4:
-    id: 159853
-    title: What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
-related_article5:
-    id: 159898
-    title: How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
 ---
 
 &nbsp;

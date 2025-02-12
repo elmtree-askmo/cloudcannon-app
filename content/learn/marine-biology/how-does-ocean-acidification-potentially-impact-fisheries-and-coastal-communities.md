@@ -2,8 +2,10 @@
 _schema: default
 id: 167354
 date: 2025-01-31
-title: How does ocean acidification potentially impact fisheries and coastal communities?
-article_title: How does ocean acidification potentially impact fisheries and coastal communities?
+title: >-
+    How does ocean acidification potentially impact fisheries and coastal communities?
+article_title: >-
+    How does ocean acidification potentially impact fisheries and coastal communities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-ocean-acidification-potentially-impact-fisheries-and-coastal
 url: /learn/marine-biology/questions/how-does-ocean-acidification-potentially-impact-fisheries-and-coastal-communities
 score: -1.0
 related_article1:
-    id: 167345
-    title: What role do marine terrapods play in marine ecosystems?
+    id: 167348
+    title: >-
+        How is long-term data collection important for monitoring ocean chemistry changes?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
+    url: /learn/marine-biology/questions/how-is-longterm-data-collection-important-for-monitoring-ocean-chemistry-changes
 related_article2:
     id: 167345
-    title: What role do marine terrapods play in marine ecosystems?
+    title: >-
+        What role do marine terrapods play in marine ecosystems?
     subject: Marine Biology
     url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
 related_article3:
-    id: 167345
-    title: What role do marine terrapods play in marine ecosystems?
+    id: 167341
+    title: >-
+        What is the primary cause of ocean acidification?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
+    url: /learn/marine-biology/questions/what-is-the-primary-cause-of-ocean-acidification
 related_article4:
-    id: 167348
-    title: How is long-term data collection important for monitoring ocean chemistry changes?
+    id: 167346
+    title: >-
+        How does ocean acidification impact the shells of marine terrapods?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-is-longterm-data-collection-important-for-monitoring-ocean-chemistry-changes
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
+related_article5:
+    id: 167343
+    title: >-
+        What are the effects of decreased pH levels on ocean chemistry?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
 ---
 
 &nbsp;

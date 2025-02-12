@@ -2,8 +2,10 @@
 _schema: default
 id: 170917
 date: 2025-02-07
-title: How do cooperation and competition influence the evolution of social behavior in animals?
-article_title: How do cooperation and competition influence the evolution of social behavior in animals?
+title: >-
+    How do cooperation and competition influence the evolution of social behavior in animals?
+article_title: >-
+    How do cooperation and competition influence the evolution of social behavior in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-do-cooperation-and-competition-influence-th
 score: -1.0
 related_article1:
     id: 170924
-    title: How do genetic sharing and sibling relationships influence behavior among full and half siblings?
+    title: >-
+        How do genetic sharing and sibling relationships influence behavior among full and half siblings?
     subject: Psychology
     url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
 related_article2:
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article3:
+    id: 170923
+    title: >-
+        Differentiate between innate and learned behaviors in animals.
+    subject: Psychology
+    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+related_article4:
+    id: 170910
+    title: >-
+        How does natural selection influence behavioral traits in animals?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
+related_article5:
     id: 170918
-    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    title: >-
+        What are the sources of genetic variation and how do they contribute to adaptation?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
-related_article3:
-    id: 170919
-    title: Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
-related_article4:
-    id: 170911
-    title: Define inclusive fitness and explain its components.
-    subject: Psychology
-    url: /learn/psychology/questions/define-inclusive-fitness-and-explain-its-components
-related_article5:
-    id: 170924
-    title: How do genetic sharing and sibling relationships influence behavior among full and half siblings?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
 ---
 
 &nbsp;

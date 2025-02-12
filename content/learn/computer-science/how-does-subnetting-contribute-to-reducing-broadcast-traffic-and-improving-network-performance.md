@@ -2,8 +2,10 @@
 _schema: default
 id: 165733
 date: 2025-01-29
-title: How does subnetting contribute to reducing broadcast traffic and improving network performance?
-article_title: How does subnetting contribute to reducing broadcast traffic and improving network performance?
+title: >-
+    How does subnetting contribute to reducing broadcast traffic and improving network performance?
+article_title: >-
+    How does subnetting contribute to reducing broadcast traffic and improving network performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-impr
 url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
 score: -1.0
 related_article1:
-    id: 165734
-    title: What role do security policies play in managing network traffic between subnets?
+    id: 165725
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
+    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
 related_article2:
-    id: 165729
-    title: What are the differences between common subnet masks such as /8, /16, and /24?
+    id: 165737
+    title: >-
+        How does slash 16 subnetting differ from slash 8 subnetting in terms of subnet creation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
+    url: /learn/computer-science/questions/how-does-slash-16-subnetting-differ-from-slash-8-subnetting-in-terms-of-subnet-creation
 related_article3:
-    id: 165728
-    title: How do subnet masks help in identifying network and host portions of an IP address?
+    id: 165731
+    title: >-
+        What is the significance of using private IPv4 address space within intranets?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-subnet-masks-help-in-identifying-network-and-host-portions-of-an-ip-address
+    url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
 related_article4:
     id: 165724
-    title: What is the primary purpose of subnetting in a network?
+    title: >-
+        What is the primary purpose of subnetting in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
-related_article5:
-    id: 165732
-    title: What are the configuration requirements for using public IPv4 address space in a DMZ?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-requirements-for-using-public-ipv4-address-space-in-a-dmz
 ---
 
 &nbsp;

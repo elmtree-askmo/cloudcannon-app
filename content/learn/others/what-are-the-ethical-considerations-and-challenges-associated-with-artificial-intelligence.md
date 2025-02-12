@@ -2,8 +2,10 @@
 _schema: default
 id: 162652
 date: 2025-01-25
-title: What are the ethical considerations and challenges associated with artificial intelligence?
-article_title: What are the ethical considerations and challenges associated with artificial intelligence?
+title: >-
+    What are the ethical considerations and challenges associated with artificial intelligence?
+article_title: >-
+    What are the ethical considerations and challenges associated with artificial intelligence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-ethical-considerations-and-challenges-associated-with-ar
 url: /learn/others/questions/what-are-the-ethical-considerations-and-challenges-associated-with-artificial-intelligence
 score: -1.0
 related_article1:
-    id: 162721
-    title: How do Hadoop and Spark differ in their approach to big data processing?
+    id: 162672
+    title: >-
+        How do Scrum and Kanban differ as agile methodologies?
+    subject: Others
+    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-methodologies
+related_article2:
+    id: 162772
+    title: >-
+        What are the primary components of neural networks in artificial intelligence?
+    subject: Others
+    url: /learn/others/questions/what-are-the-primary-components-of-neural-networks-in-artificial-intelligence
+related_article3:
+    id: 162727
+    title: >-
+        What are the most common cybersecurity threats, and how can they be mitigated?
+    subject: Others
+    url: /learn/others/questions/what-are-the-most-common-cybersecurity-threats-and-how-can-they-be-mitigated
+related_article4:
+    id: 162357
+    title: >-
+        What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
+    subject: Others
+    url: /learn/others/questions/what-are-the-core-concepts-of-artificial-intelligence-and-how-do-they-apply-to-autonomous-vehicles-and-virtual-assistants
+related_article5:
+    id: 162839
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
     subject: Others
     url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
-related_article2:
-    id: 162666
-    title: How do Git and Jenkins support software development processes?
-    subject: Others
-    url: /learn/others/questions/how-do-git-and-jenkins-support-software-development-processes
-related_article3:
-    id: 162725
-    title: How do Agile methodologies differ from the Waterfall model in software development?
-    subject: Others
-    url: /learn/others/questions/how-do-agile-methodologies-differ-from-the-waterfall-model-in-software-development
-related_article4:
-    id: 162773
-    title: What ethical considerations are associated with the development of autonomous vehicles?
-    subject: Others
-    url: /learn/others/questions/what-ethical-considerations-are-associated-with-the-development-of-autonomous-vehicles
-related_article5:
-    id: 162661
-    title: How do IaaS, PaaS, and SaaS differ in cloud computing service models?
-    subject: Others
-    url: /learn/others/questions/how-do-iaas-paas-and-saas-differ-in-cloud-computing-service-models
 ---
 
 &nbsp;

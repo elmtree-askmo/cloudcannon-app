@@ -2,8 +2,10 @@
 _schema: default
 id: 168239
 date: 2025-02-03
-title: What are the differences between quantitative, qualitative, and mixed methods in data analysis?
-article_title: What are the differences between quantitative, qualitative, and mixed methods in data analysis?
+title: >-
+    What are the differences between quantitative, qualitative, and mixed methods in data analysis?
+article_title: >-
+    What are the differences between quantitative, qualitative, and mixed methods in data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-differences-between-quantitative-qualitative-and-mixed-m
 url: /learn/art-history-and-literature/questions/what-are-the-differences-between-quantitative-qualitative-and-mixed-methods-in-data-analysis
 score: 9.0
 related_article1:
+    id: 168235
+    title: >-
+        What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-used-in-literary-analysis-and-how-does-groupbased-analysis-enhance-understanding
+related_article2:
+    id: 168240
+    title: >-
+        How does software utilization aid in data visualization and statistical analysis?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-software-utilization-aid-in-data-visualization-and-statistical-analysis
+related_article3:
     id: 168242
-    title: What challenges might arise in name recognition due to cultural differences, and how can they be addressed?
+    title: >-
+        What challenges might arise in name recognition due to cultural differences, and how can they be addressed?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-challenges-might-arise-in-name-recognition-due-to-cultural-differences-and-how-can-they-be-addressed
-related_article2:
-    id: 168241
-    title: What strategies can be employed to improve name recognition in large groups?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-improve-name-recognition-in-large-groups
-related_article3:
-    id: 168245
-    title: What are the key elements of effective verbal communication, and how does active listening enhance this process?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-of-effective-verbal-communication-and-how-does-active-listening-enhance-this-process
 related_article4:
-    id: 168247
-    title: What are the benefits of collaborative learning, and how does it contribute to skill development?
+    id: 168244
+    title: >-
+        How can privacy concerns be mitigated when using biometric methods for attendance tracking?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-benefits-of-collaborative-learning-and-how-does-it-contribute-to-skill-development
+    url: /learn/art-history-and-literature/questions/how-can-privacy-concerns-be-mitigated-when-using-biometric-methods-for-attendance-tracking
+related_article5:
+    id: 168235
+    title: >-
+        What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-used-in-literary-analysis-and-how-does-groupbased-analysis-enhance-understanding
 ---
 
 &nbsp;

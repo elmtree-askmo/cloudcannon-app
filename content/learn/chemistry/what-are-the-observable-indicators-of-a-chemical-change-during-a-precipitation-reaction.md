@@ -2,8 +2,10 @@
 _schema: default
 id: 161946
 date: 2025-01-24
-title: What are the observable indicators of a chemical change during a precipitation reaction?
-article_title: What are the observable indicators of a chemical change during a precipitation reaction?
+title: >-
+    What are the observable indicators of a chemical change during a precipitation reaction?
+article_title: >-
+    What are the observable indicators of a chemical change during a precipitation reaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-observable-indicators-of-a-chemical-change-during-a-prec
 url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 score: -1.0
 related_article1:
-    id: 162025
-    title: Describe the characteristics of a solid and provide an example.
-    subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
-related_article2:
     id: 162050
-    title: What are the characteristics of gases that distinguish them from liquids and solids?
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
+related_article2:
+    id: 162046
+    title: >-
+        What is a precipitation reaction and how can you identify it?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 related_article3:
-    id: 162037
-    title: How can the formation of ions be described in the context of ionization?
+    id: 161929
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article4:
-    id: 161936
-    title: Describe the process of ionization and its effects on the charge of particles.
+    id: 162020
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
 related_article5:
-    id: 161972
-    title: Explain the chemical change that occurs when iron reacts with oxygen to form rust.
+    id: 162017
+    title: >-
+        What is a precipitation reaction and how can it be identified?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-chemical-change-that-occurs-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
 ---
 
 &nbsp;

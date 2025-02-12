@@ -2,8 +2,10 @@
 _schema: default
 id: 166408
 date: 2025-01-30
-title: Define fitness in the context of animal behavior and explain how it is measured.
-article_title: Define fitness in the context of animal behavior and explain how it is measured.
+title: >-
+    Define fitness in the context of animal behavior and explain how it is measured.
+article_title: >-
+    Define fitness in the context of animal behavior and explain how it is measured.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-i
 url: /learn/psychology/questions/define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured
 score: -1.0
 related_article1:
-    id: 166405
-    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    id: 166411
+    title: >-
+        Explain how environmental factors can influence animal behavior and interact with genetics.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+    url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
 related_article2:
-    id: 166405
-    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    id: 166414
+    title: >-
+        How does migration impact genetic diversity and population dynamics?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
 related_article3:
-    id: 166421
-    title: How does the genetic component of behavior influence evolutionary processes?
+    id: 166403
+    title: >-
+        Identify and explain the three types of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 related_article4:
-    id: 166413
-    title: What mechanisms contribute to genetic recombination and how do they affect genetic diversity?
+    id: 166419
+    title: >-
+        What biological processes are involved in the mechanisms of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-contribute-to-genetic-recombination-and-how-do-they-affect-genetic-diversity
+    url: /learn/psychology/questions/what-biological-processes-are-involved-in-the-mechanisms-of-animal-behavior
 related_article5:
-    id: 166417
-    title: What is behavioral selection and what are its potential consequences?
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-behavioral-selection-and-what-are-its-potential-consequences
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
 ---
 
 &nbsp;

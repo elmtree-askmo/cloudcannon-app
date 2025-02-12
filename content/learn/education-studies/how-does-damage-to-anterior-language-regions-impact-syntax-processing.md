@@ -2,8 +2,10 @@
 _schema: default
 id: 164514
 date: 2025-01-28
-title: How does damage to anterior language regions impact syntax processing?
-article_title: How does damage to anterior language regions impact syntax processing?
+title: >-
+    How does damage to anterior language regions impact syntax processing?
+article_title: >-
+    How does damage to anterior language regions impact syntax processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-damage-to-anterior-language-regions-impact-syntax-processing
 url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
 score: -1.0
 related_article1:
-    id: 164524
-    title: How do learning disabilities impact cognitive development, particularly in relation to language processing?
+    id: 164515
+    title: >-
+        What is the significance of semantics in language, and how does damage to posterior language regions affect it?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-disabilities-impact-cognitive-development-particularly-in-relation-to-language-processing
+    url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
 related_article2:
-    id: 164509
-    title: What are the basic principles of EEG signal recording?
+    id: 164521
+    title: >-
+        What processes are involved in language comprehension, and how can aphasia impact these processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-basic-principles-of-eeg-signal-recording
+    url: /learn/education-studies/questions/what-processes-are-involved-in-language-comprehension-and-how-can-aphasia-impact-these-processes
 related_article3:
+    id: 164512
+    title: >-
+        How does Wernicke's aphasia affect speech comprehension?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
+related_article4:
     id: 164524
-    title: How do learning disabilities impact cognitive development, particularly in relation to language processing?
+    title: >-
+        How do learning disabilities impact cognitive development, particularly in relation to language processing?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-learning-disabilities-impact-cognitive-development-particularly-in-relation-to-language-processing
-related_article4:
-    id: 164516
-    title: Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-brain-connectivity-crucial-in-cognitive-processing-and-what-are-the-effects-of-disconnection-syndromes
 related_article5:
-    id: 164519
-    title: How do visual and auditory processing issues relate to cognitive processing in dyslexia?
+    id: 164511
+    title: >-
+        What are the main characteristics and symptoms of Broca's aphasia?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-and-symptoms-of-brocas-aphasia
 ---
 
 &nbsp;

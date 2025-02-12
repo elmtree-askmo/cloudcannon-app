@@ -2,8 +2,10 @@
 _schema: default
 id: 170608
 date: 2025-02-06
-title: How does myelination affect the speed of nerve impulse conduction?
-article_title: How does myelination affect the speed of nerve impulse conduction?
+title: >-
+    How does myelination affect the speed of nerve impulse conduction?
+article_title: >-
+    How does myelination affect the speed of nerve impulse conduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-myelination-affect-the-speed-of-nerve-impulse-conduction.md
 url: /learn/nursing/questions/how-does-myelination-affect-the-speed-of-nerve-impulse-conduction
 score: -1.0
 related_article1:
-    id: 170615
-    title: What is synaptic plasticity and how does it contribute to learning and memory?
+    id: 170618
+    title: >-
+        What is the structure of the blood-brain barrier and how does it affect drug delivery to the brain?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-synaptic-plasticity-and-how-does-it-contribute-to-learning-and-memory
+    url: /learn/nursing/questions/what-is-the-structure-of-the-bloodbrain-barrier-and-how-does-it-affect-drug-delivery-to-the-brain
 related_article2:
-    id: 170601
-    title: Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    id: 170605
+    title: >-
+        What is the difference between ionotropic and metabotropic neurotransmitter receptors?
     subject: Nursing
-    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
 related_article3:
-    id: 170601
-    title: Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    id: 170611
+    title: >-
+        Explain the role of the sodium-potassium pump in action potential recovery.
     subject: Nursing
-    url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 related_article4:
-    id: 170606
-    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    id: 170611
+    title: >-
+        Explain the role of the sodium-potassium pump in action potential recovery.
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 related_article5:
-    id: 170597
-    title: What are the main structural components of a neuron and their functions?
+    id: 170612
+    title: >-
+        What are the common symptoms and neuronal impacts of Alzheimer's and Parkinson's diseases?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-structural-components-of-a-neuron-and-their-functions
+    url: /learn/nursing/questions/what-are-the-common-symptoms-and-neuronal-impacts-of-alzheimers-and-parkinsons-diseases
 ---
 
 &nbsp;

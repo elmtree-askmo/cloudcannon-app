@@ -2,8 +2,10 @@
 _schema: default
 id: 169407
 date: 2025-02-05
-title: What are the key influences of traditional Japanese design on modern architecture?
-article_title: What are the key influences of traditional Japanese design on modern architecture?
+title: >-
+    What are the key influences of traditional Japanese design on modern architecture?
+article_title: >-
+    What are the key influences of traditional Japanese design on modern architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-influences-of-traditional-japanese-design-on-modern-
 url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
 score: -1.0
 related_article1:
-    id: 169411
-    title: What are the essential components of creating a brand through architectural design?
+    id: 169400
+    title: >-
+        How does color integration enhance community engagement in architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
+    url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
 related_article2:
-    id: 169399
-    title: What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+    id: 169414
+    title: >-
+        What are some key terms in interior design that are essential for understanding design concepts?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
 related_article3:
-    id: 169409
-    title: What are some innovations in modern architectural design that have emerged recently?
+    id: 169403
+    title: >-
+        What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
+    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
 related_article4:
-    id: 169415
-    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    id: 169401
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 related_article5:
-    id: 169416
-    title: What resources are available for interior designers seeking job opportunities and professional development?
+    id: 169414
+    title: >-
+        What are some key terms in interior design that are essential for understanding design concepts?
     subject: Architecture
-    url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
+    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
 ---
 
 &nbsp;

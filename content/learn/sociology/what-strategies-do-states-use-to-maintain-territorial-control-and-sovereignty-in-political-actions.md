@@ -2,8 +2,10 @@
 _schema: default
 id: 160628
 date: 2025-01-24
-title: What strategies do states use to maintain territorial control and sovereignty in political actions?
-article_title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+title: >-
+    What strategies do states use to maintain territorial control and sovereignty in political actions?
+article_title: >-
+    What strategies do states use to maintain territorial control and sovereignty in political actions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-do-states-use-to-maintain-territorial-control-and-sov
 url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
 score: -1.0
 related_article1:
-    id: 160216
-    title: Discuss the impact of global economic interdependence on local regional economies and economic inequality.
+    id: 160209
+    title: >-
+        How do economic forces and political actions influence urban transformations in human geography?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
+    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
 related_article2:
-    id: 160542
-    title: What are the key factors contributing to regional disparities in terms of inequality and prosperity?
+    id: 160220
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in cities?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
 related_article3:
-    id: 160637
-    title: What practical tools are essential for data collection and analysis techniques in research?
+    id: 160560
+    title: >-
+        What are the local impacts of cultural exchange and economic integration due to time-space compression?
     subject: Sociology
-    url: /learn/sociology/questions/what-practical-tools-are-essential-for-data-collection-and-analysis-techniques-in-research
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
 related_article4:
-    id: 160645
-    title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+    id: 160103
+    title: >-
+        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
 related_article5:
-    id: 160104
-    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    id: 160563
+    title: >-
+        How do natural landscapes and environmental processes shape physical systems in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+    url: /learn/sociology/questions/how-do-natural-landscapes-and-environmental-processes-shape-physical-systems-in-geographic-settings
 ---
 
 &nbsp;

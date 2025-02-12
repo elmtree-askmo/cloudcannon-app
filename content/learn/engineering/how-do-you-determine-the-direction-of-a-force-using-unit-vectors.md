@@ -2,8 +2,10 @@
 _schema: default
 id: 166676
 date: 2025-01-31
-title: How do you determine the direction of a force using unit vectors?
-article_title: How do you determine the direction of a force using unit vectors?
+title: >-
+    How do you determine the direction of a force using unit vectors?
+article_title: >-
+    How do you determine the direction of a force using unit vectors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-determine-the-direction-of-a-force-using-unit-vectors.md
 url: /learn/engineering/questions/how-do-you-determine-the-direction-of-a-force-using-unit-vectors
 score: -1.0
 related_article1:
-    id: 166685
-    title: What is the difference between kinematics and dynamics in mechanical systems?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
-related_article2:
     id: 166679
-    title: What are the conditions necessary for static equilibrium?
+    title: >-
+        What are the conditions necessary for static equilibrium?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-conditions-necessary-for-static-equilibrium
+related_article2:
+    id: 166675
+    title: >-
+        What is the magnitude of a force vector and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
 related_article3:
-    id: 166690
-    title: What is the vector representation of displacement in three-dimensional space?
+    id: 166691
+    title: >-
+        How does displacement relate to equilibrium in force analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
+    url: /learn/engineering/questions/how-does-displacement-relate-to-equilibrium-in-force-analysis
 related_article4:
-    id: 166690
-    title: What is the vector representation of displacement in three-dimensional space?
+    id: 166681
+    title: >-
+        Describe Hooke's Law and its relation to displacement and force.
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-vector-representation-of-displacement-in-threedimensional-space
+    url: /learn/engineering/questions/describe-hookes-law-and-its-relation-to-displacement-and-force
 related_article5:
-    id: 166678
-    title: How are force components resolved in three-dimensional space?
+    id: 166680
+    title: >-
+        How do you apply equilibrium equations to solve for unknown forces?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
+    url: /learn/engineering/questions/how-do-you-apply-equilibrium-equations-to-solve-for-unknown-forces
 ---
 
 &nbsp;

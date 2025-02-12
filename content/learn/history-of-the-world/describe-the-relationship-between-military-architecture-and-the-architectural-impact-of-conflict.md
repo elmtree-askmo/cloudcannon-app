@@ -2,8 +2,10 @@
 _schema: default
 id: 169087
 date: 2025-02-04
-title: Describe the relationship between military architecture and the architectural impact of conflict.
-article_title: Describe the relationship between military architecture and the architectural impact of conflict.
+title: >-
+    Describe the relationship between military architecture and the architectural impact of conflict.
+article_title: >-
+    Describe the relationship between military architecture and the architectural impact of conflict.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-relationship-between-military-architecture-and-the-archi
 url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
 score: 9.0
 related_article1:
-    id: 169088
-    title: What is the significance of geopolitical architecture in the military-architectural relationship?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
-related_article2:
-    id: 169104
-    title: What challenges do military training and education face in institutional conflicts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
-related_article3:
-    id: 169082
-    title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
-related_article4:
     id: 169098
-    title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
+    title: >-
+        What are the primary strategies used in urban warfare to analyze urban infrastructure?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
-related_article5:
-    id: 169090
-    title: What is the role of theoretical language in warfare within the context of architectural theory?
+related_article2:
+    id: 169091
+    title: >-
+        How do swarming tactics enhance military tactics in urban environments?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-military-tactics-in-urban-environments
+related_article3:
+    id: 169089
+    title: >-
+        How does post-modern theory influence spatial interpretation in architectural theory?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-postmodern-theory-influence-spatial-interpretation-in-architectural-theory
+related_article4:
+    id: 169102
+    title: >-
+        What are the ethical implications of warfare in military practice?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
+related_article5:
+    id: 169098
+    title: >-
+        What are the primary strategies used in urban warfare to analyze urban infrastructure?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
 ---
 
 &nbsp;

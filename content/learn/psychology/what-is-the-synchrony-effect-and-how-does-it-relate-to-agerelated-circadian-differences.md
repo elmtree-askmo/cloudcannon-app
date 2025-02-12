@@ -2,8 +2,10 @@
 _schema: default
 id: 168067
 date: 2025-02-02
-title: What is the synchrony effect and how does it relate to age-related circadian differences?
-article_title: What is the synchrony effect and how does it relate to age-related circadian differences?
+title: >-
+    What is the synchrony effect and how does it relate to age-related circadian differences?
+article_title: >-
+    What is the synchrony effect and how does it relate to age-related circadian differences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-cir
 url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 score: -1.0
 related_article1:
-    id: 168063
-    title: What is the reminiscence bump and what age range does it typically cover?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-reminiscence-bump-and-what-age-range-does-it-typically-cover
-related_article2:
-    id: 168075
-    title: What are the age-related differences in morning versus evening performance for cognitive tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
-related_article3:
     id: 168073
-    title: What role does the development of a sense of self play in the formation of personal memories?
+    title: >-
+        What role does the development of a sense of self play in the formation of personal memories?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article2:
+    id: 168073
+    title: >-
+        What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
+related_article3:
+    id: 168076
+    title: >-
+        How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
 related_article4:
-    id: 168076
-    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    id: 168062
+    title: >-
+        How does language development influence memory encoding in young children?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+    url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
 related_article5:
-    id: 168076
-    title: How do circadian rhythms impact task-specific performance in visual and verbal tasks?
+    id: 168062
+    title: >-
+        How does language development influence memory encoding in young children?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-circadian-rhythms-impact-taskspecific-performance-in-visual-and-verbal-tasks
+    url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
 ---
 
 &nbsp;

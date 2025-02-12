@@ -2,8 +2,10 @@
 _schema: default
 id: 162357
 date: 2025-01-25
-title: What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
-article_title: What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
+title: >-
+    What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
+article_title: >-
+    What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-core-concepts-of-artificial-intelligence-and-how-do-they
 url: /learn/others/questions/what-are-the-core-concepts-of-artificial-intelligence-and-how-do-they-apply-to-autonomous-vehicles-and-virtual-assistants
 score: -1.0
 related_article1:
-    id: 162786
-    title: How do LAN and WAN differ in terms of network architecture?
+    id: 162653
+    title: >-
+        How do neural networks contribute to the development of autonomous vehicles?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-terms-of-network-architecture
+    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
 related_article2:
-    id: 162716
-    title: What is the difference between measures of central tendency and measures of variability in descriptive statistics?
+    id: 162365
+    title: >-
+        What are the primary applications of Hadoop and Spark in big data technologies?
     subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/what-are-the-primary-applications-of-hadoop-and-spark-in-big-data-technologies
 related_article3:
-    id: 162674
-    title: What are the main components of the Internet of Things (IoT), and what challenges do they face?
+    id: 162369
+    title: >-
+        What are the differences between the Waterfall and Agile methodologies in software development?
     subject: Others
-    url: /learn/others/questions/what-are-the-main-components-of-the-internet-of-things-iot-and-what-challenges-do-they-face
+    url: /learn/others/questions/what-are-the-differences-between-the-waterfall-and-agile-methodologies-in-software-development
 related_article4:
-    id: 162781
-    title: What are the differences between relational and NoSQL databases in terms of data management?
+    id: 162852
+    title: >-
+        How do distributed ledgers and smart contracts function in blockchain technology?
     subject: Others
-    url: /learn/others/questions/what-are-the-differences-between-relational-and-nosql-databases-in-terms-of-data-management
+    url: /learn/others/questions/how-do-distributed-ledgers-and-smart-contracts-function-in-blockchain-technology
 related_article5:
-    id: 162729
-    title: What are the best practices for ensuring responsive design in web development?
+    id: 162719
+    title: >-
+        How do decision trees differ from neural networks in predictive modeling?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-ensuring-responsive-design-in-web-development
+    url: /learn/others/questions/how-do-decision-trees-differ-from-neural-networks-in-predictive-modeling
 ---
 
 &nbsp;

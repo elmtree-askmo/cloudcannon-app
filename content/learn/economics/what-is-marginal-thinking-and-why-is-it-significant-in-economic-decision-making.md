@@ -2,8 +2,10 @@
 _schema: default
 id: 169921
 date: 2025-02-05
-title: What is marginal thinking, and why is it significant in economic decision making?
-article_title: What is marginal thinking, and why is it significant in economic decision making?
+title: >-
+    What is marginal thinking, and why is it significant in economic decision making?
+article_title: >-
+    What is marginal thinking, and why is it significant in economic decision making?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-marginal-thinking-and-why-is-it-significant-in-economic-decis
 url: /learn/economics/questions/what-is-marginal-thinking-and-why-is-it-significant-in-economic-decision-making
 score: -1.0
 related_article1:
+    id: 169926
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article2:
+    id: 169934
+    title: >-
+        What are some common pricing strategies, and how do they impact sales and revenue?
+    subject: Economics
+    url: /learn/economics/questions/what-are-some-common-pricing-strategies-and-how-do-they-impact-sales-and-revenue
+related_article3:
+    id: 169928
+    title: >-
+        What factors contribute to economic growth, and what role do innovation and technology play?
+    subject: Economics
+    url: /learn/economics/questions/what-factors-contribute-to-economic-growth-and-what-role-do-innovation-and-technology-play
+related_article4:
+    id: 169926
+    title: >-
+        What are the different types of incentives in economics, and how do they affect consumer behavior?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-different-types-of-incentives-in-economics-and-how-do-they-affect-consumer-behavior
+related_article5:
     id: 169927
-    title: Describe the process of cost-benefit analysis and its application in policy making.
+    title: >-
+        Describe the process of cost-benefit analysis and its application in policy making.
     subject: Economics
     url: /learn/economics/questions/describe-the-process-of-costbenefit-analysis-and-its-application-in-policy-making
-related_article2:
-    id: 169917
-    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
-related_article3:
-    id: 169917
-    title: What is the primary purpose of tariffs, and how do they affect import and export activities?
-    subject: Economics
-    url: /learn/economics/questions/what-is-the-primary-purpose-of-tariffs-and-how-do-they-affect-import-and-export-activities
-related_article4:
-    id: 169932
-    title: Identify current trends and challenges in global trade.
-    subject: Economics
-    url: /learn/economics/questions/identify-current-trends-and-challenges-in-global-trade
 ---
 
 &nbsp;

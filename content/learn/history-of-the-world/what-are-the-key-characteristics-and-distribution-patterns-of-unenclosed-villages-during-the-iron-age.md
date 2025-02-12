@@ -2,8 +2,10 @@
 _schema: default
 id: 170166
 date: 2025-02-06
-title: What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
-article_title: What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
+title: >-
+    What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
+article_title: >-
+    What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-and-distribution-patterns-of-unenclo
 url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-and-distribution-patterns-of-unenclosed-villages-during-the-iron-age
 score: 9.0
 related_article1:
+    id: 170175
+    title: >-
+        What are the historical theories regarding the origins and identity of the Pictish culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
+related_article2:
     id: 170183
-    title: What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
+    title: >-
+        What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-did-they-adapt-to-roman-tactics
-related_article2:
-    id: 170179
-    title: Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
 related_article3:
-    id: 170187
-    title: What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
+    id: 170169
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
+    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article4:
-    id: 170168
-    title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+    id: 170175
+    title: >-
+        What are the historical theories regarding the origins and identity of the Pictish culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
+    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
 related_article5:
-    id: 170168
-    title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+    id: 170167
+    title: >-
+        Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
+    url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
 ---
 
 &nbsp;

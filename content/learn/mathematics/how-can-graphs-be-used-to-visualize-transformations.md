@@ -2,8 +2,10 @@
 _schema: default
 id: 162311
 date: 2025-01-25
-title: How can graphs be used to visualize transformations?
-article_title: How can graphs be used to visualize transformations?
+title: >-
+    How can graphs be used to visualize transformations?
+article_title: >-
+    How can graphs be used to visualize transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-graphs-be-used-to-visualize-transformations.md
 url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
 score: -1.0
 related_article1:
-    id: 162165
-    title: What techniques can be used to visualize transformations on graphs?
+    id: 162156
+    title: >-
+        How is translation considered a type of rigid motion?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
+    url: /learn/mathematics/questions/how-is-translation-considered-a-type-of-rigid-motion
 related_article2:
-    id: 162306
-    title: How do you measure the distance from a point to a line on the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
-related_article3:
     id: 162310
-    title: What changes occur in the coordinates of a point when it is reflected?
+    title: >-
+        What changes occur in the coordinates of a point when it is reflected?
     subject: Mathematics
     url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
-related_article4:
-    id: 162308
-    title: How do you translate a line on the coordinate plane?
+related_article3:
+    id: 162154
+    title: >-
+        What is rigid motion and how does it relate to transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-translate-a-line-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
+related_article4:
+    id: 162303
+    title: >-
+        What is rigid motion and what are its characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
 related_article5:
     id: 162306
-    title: How do you measure the distance from a point to a line on the coordinate plane?
+    title: >-
+        How do you measure the distance from a point to a line on the coordinate plane?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-measure-the-distance-from-a-point-to-a-line-on-the-coordinate-plane
 ---

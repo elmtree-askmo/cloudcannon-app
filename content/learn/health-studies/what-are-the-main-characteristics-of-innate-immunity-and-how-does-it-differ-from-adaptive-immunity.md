@@ -2,8 +2,10 @@
 _schema: default
 id: 165859
 date: 2025-01-29
-title: What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
-article_title: What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
+title: >-
+    What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
+article_title: >-
+    What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-
 url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
 score: -1.0
 related_article1:
-    id: 165867
-    title: What is the significance of the membrane attack complex in the complement system?
+    id: 165880
+    title: >-
+        How is the initial immune response triggered by pathogen recognition and signal transduction?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
+    url: /learn/health-studies/questions/how-is-the-initial-immune-response-triggered-by-pathogen-recognition-and-signal-transduction
 related_article2:
-    id: 165869
-    title: What is the structure of an antibody, and how do its light and heavy chains contribute to antigen binding?
+    id: 165861
+    title: >-
+        What roles do skin and mucous membranes play as physical barriers in the immune system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-structure-of-an-antibody-and-how-do-its-light-and-heavy-chains-contribute-to-antigen-binding
+    url: /learn/health-studies/questions/what-roles-do-skin-and-mucous-membranes-play-as-physical-barriers-in-the-immune-system
 related_article3:
-    id: 165864
-    title: How does the NF Kappa B pathway contribute to immune cell activation?
+    id: 165876
+    title: >-
+        How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
+    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
 related_article4:
-    id: 165866
-    title: How do monocytes and macrophages differ from neutrophils and eosinophils in their phagocytic functions?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-monocytes-and-macrophages-differ-from-neutrophils-and-eosinophils-in-their-phagocytic-functions
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article5:
-    id: 165872
-    title: How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
+    id: 165874
+    title: >-
+        How does concomitant immunity provide protection against re-infection?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cellular-immune-response
+    url: /learn/health-studies/questions/how-does-concomitant-immunity-provide-protection-against-reinfection
 ---
 
 &nbsp;

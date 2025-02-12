@@ -2,8 +2,10 @@
 _schema: default
 id: 166207
 date: 2025-01-29
-title: What are the differences between macronutrients and micronutrients in human nutrition?
-article_title: What are the differences between macronutrients and micronutrients in human nutrition?
+title: >-
+    What are the differences between macronutrients and micronutrients in human nutrition?
+article_title: >-
+    What are the differences between macronutrients and micronutrients in human nutrition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-macronutrients-and-micronutrients-in
 url: /learn/education-studies/questions/what-are-the-differences-between-macronutrients-and-micronutrients-in-human-nutrition
 score: -1.0
 related_article1:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
+    id: 166209
+    title: >-
+        What are the key differences between sexual and asexual reproduction?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
 related_article2:
-    id: 166203
-    title: What is the significance of taxonomy in organism classification?
+    id: 166205
+    title: >-
+        What role do enzymes play in biochemical reactions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-taxonomy-in-organism-classification
+    url: /learn/education-studies/questions/what-role-do-enzymes-play-in-biochemical-reactions
 related_article3:
-    id: 166202
-    title: How do human activities impact the environment and what are some conservation efforts?
+    id: 166212
+    title: >-
+        How is blood circulation regulated in the cardiovascular system?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
+    url: /learn/education-studies/questions/how-is-blood-circulation-regulated-in-the-cardiovascular-system
 related_article4:
-    id: 166208
-    title: Describe the process of absorption in the digestive system.
+    id: 166201
+    title: >-
+        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-process-of-absorption-in-the-digestive-system
+    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
 related_article5:
-    id: 166193
-    title: How does natural selection lead to adaptations in species?
+    id: 166180
+    title: >-
+        How do metabolism and homeostasis contribute to the biological processes of life?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
 ---
 
 &nbsp;

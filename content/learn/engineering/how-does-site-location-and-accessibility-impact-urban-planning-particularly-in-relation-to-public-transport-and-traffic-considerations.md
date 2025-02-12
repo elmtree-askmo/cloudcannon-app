@@ -2,8 +2,10 @@
 _schema: default
 id: 169423
 date: 2025-02-05
-title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
-article_title: How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+title: >-
+    How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
+article_title: >-
+    How does site location and accessibility impact urban planning, particularly in relation to public transport and traffic considerations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-site-location-and-accessibility-impact-urban-planning-partic
 url: /learn/engineering/questions/how-does-site-location-and-accessibility-impact-urban-planning-particularly-in-relation-to-public-transport-and-traffic-considerations
 score: -1.0
 related_article1:
-    id: 169419
-    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    id: 169422
+    title: >-
+        What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
 related_article2:
-    id: 169419
-    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    id: 169422
+    title: >-
+        What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
 related_article3:
-    id: 169419
-    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    id: 169425
+    title: >-
+        How does the selection of trees and flowers in garden design on façades contribute to seasonal variations and environmental benefits?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
+    url: /learn/engineering/questions/how-does-the-selection-of-trees-and-flowers-in-garden-design-on-faades-contribute-to-seasonal-variations-and-environmental-benefits
 related_article4:
-    id: 169420
-    title: What role does façade design play in the architectural aesthetics of a building?
+    id: 169418
+    title: >-
+        What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
     subject: Engineering
-    url: /learn/engineering/questions/what-role-does-faade-design-play-in-the-architectural-aesthetics-of-a-building
+    url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
 related_article5:
     id: 169419
-    title: How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
+    title: >-
+        How does the implementation of steel structures influence the building dimensions and layout in structural engineering?
     subject: Engineering
     url: /learn/engineering/questions/how-does-the-implementation-of-steel-structures-influence-the-building-dimensions-and-layout-in-structural-engineering
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168846
 date: 2025-02-04
-title: Describe the structure of the phospholipid bilayer and its role in selective permeability.
-article_title: Describe the structure of the phospholipid bilayer and its role in selective permeability.
+title: >-
+    Describe the structure of the phospholipid bilayer and its role in selective permeability.
+article_title: >-
+    Describe the structure of the phospholipid bilayer and its role in selective permeability.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-se
 url: /learn/health-studies/questions/describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-selective-permeability
 score: -1.0
 related_article1:
-    id: 168856
-    title: Explain the process of starch digestion and its importance as a source of glucose.
+    id: 168854
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
+    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
 related_article2:
-    id: 168853
-    title: Define concentration gradient and explain its role in diffusion and cellular processes.
+    id: 168852
+    title: >-
+        How is glucose absorbed in the small intestine, and why is this process important for metabolism?
     subject: Health Studies
-    url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
+    url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
 related_article3:
-    id: 168845
-    title: How do enzymes facilitate the digestion process through substrate specificity and catalysis?
+    id: 168854
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-enzymes-facilitate-the-digestion-process-through-substrate-specificity-and-catalysis
+    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
 related_article4:
     id: 168857
-    title: What is the structure of the small intestine, and how does it facilitate nutrient absorption?
+    title: >-
+        What is the structure of the small intestine, and how does it facilitate nutrient absorption?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-structure-of-the-small-intestine-and-how-does-it-facilitate-nutrient-absorption
 related_article5:
-    id: 168850
-    title: Describe the mechanism of the sodium-potassium pump and its importance in maintaining cellular homeostasis.
+    id: 168856
+    title: >-
+        Explain the process of starch digestion and its importance as a source of glucose.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-of-the-sodiumpotassium-pump-and-its-importance-in-maintaining-cellular-homeostasis
+    url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
 ---
 
 &nbsp;

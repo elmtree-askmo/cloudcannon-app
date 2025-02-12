@@ -2,8 +2,10 @@
 _schema: default
 id: 162497
 date: 2025-01-25
-title: What is the impact of vertex transformations on the orientation of parallelograms?
-article_title: What is the impact of vertex transformations on the orientation of parallelograms?
+title: >-
+    What is the impact of vertex transformations on the orientation of parallelograms?
+article_title: >-
+    What is the impact of vertex transformations on the orientation of parallelograms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-impact-of-vertex-transformations-on-the-orientation-of-pa
 url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
 score: -1.0
 related_article1:
+    id: 162493
+    title: >-
+        How does the line of reflection affect the position of a reflected figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
+related_article2:
+    id: 162250
+    title: >-
+        What is the definition of dimensions in the context of two-dimensional objects?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-dimensions-in-the-context-of-twodimensional-objects
+related_article3:
+    id: 162236
+    title: >-
+        Explain the difference between clockwise and counterclockwise rotation.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-difference-between-clockwise-and-counterclockwise-rotation
+related_article4:
     id: 162240
-    title: How is the length of a line segment affected by rotation?
+    title: >-
+        How is the length of a line segment affected by rotation?
     subject: Mathematics
     url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
-related_article2:
-    id: 162486
-    title: How do clockwise and counterclockwise rotations differ in terms of direction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
-related_article3:
+related_article5:
     id: 162237
-    title: What is the center of rotation, and why is it important in transformations?
+    title: >-
+        What is the center of rotation, and why is it important in transformations?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
-related_article4:
-    id: 162499
-    title: How do transformations affect the identification of quadrants in the coordinate system?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-transformations-affect-the-identification-of-quadrants-in-the-coordinate-system
-related_article5:
-    id: 162598
-    title: What is the angle of rotation, and how does it affect the rotation of a figure?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
 ---
 
 &nbsp;

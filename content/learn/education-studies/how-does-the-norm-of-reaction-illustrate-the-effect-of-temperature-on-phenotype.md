@@ -2,8 +2,10 @@
 _schema: default
 id: 167802
 date: 2025-02-01
-title: How does the norm of reaction illustrate the effect of temperature on phenotype?
-article_title: How does the norm of reaction illustrate the effect of temperature on phenotype?
+title: >-
+    How does the norm of reaction illustrate the effect of temperature on phenotype?
+article_title: >-
+    How does the norm of reaction illustrate the effect of temperature on phenotype?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-norm-of-reaction-illustrate-the-effect-of-temperature-on
 url: /learn/education-studies/questions/how-does-the-norm-of-reaction-illustrate-the-effect-of-temperature-on-phenotype
 score: -1.0
 related_article1:
-    id: 167805
-    title: What are the key differences between Mendelian and non-Mendelian patterns of heredity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
-related_article2:
     id: 167806
-    title: How is genetic counseling used to assess risk and analyze family history?
+    title: >-
+        How is genetic counseling used to assess risk and analyze family history?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
+related_article2:
+    id: 167788
+    title: >-
+        How do genetic mutations contribute to genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-genetic-mutations-contribute-to-genetic-variation
 related_article3:
-    id: 167785
-    title: How are Punnett squares used to predict the outcomes of dihybrid crosses?
+    id: 167801
+    title: >-
+        What is the ABO blood group system and how does it relate to genotype and phenotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-punnett-squares-used-to-predict-the-outcomes-of-dihybrid-crosses
+    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
 related_article4:
-    id: 167794
-    title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article5:
-    id: 167804
-    title: How can genetic mutations lead to a loss of function in an organism?
+    id: 167793
+    title: >-
+        Provide an example of incomplete dominance in flower color.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
+    url: /learn/education-studies/questions/provide-an-example-of-incomplete-dominance-in-flower-color
 ---
 
 &nbsp;

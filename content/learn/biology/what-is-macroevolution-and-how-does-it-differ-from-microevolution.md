@@ -2,8 +2,10 @@
 _schema: default
 id: 167728
 date: 2025-02-01
-title: What is macroevolution and how does it differ from microevolution?
-article_title: What is macroevolution and how does it differ from microevolution?
+title: >-
+    What is macroevolution and how does it differ from microevolution?
+article_title: >-
+    What is macroevolution and how does it differ from microevolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-is-macroevolution-and-how-does-it-differ-from
 score: -1.0
 related_article1:
     id: 167727
-    title: Describe the process of speciation and its significance in the origin of species.
+    title: >-
+        Describe the process of speciation and its significance in the origin of species.
     subject: Biology
     url: /learn/biology/questions/describe-the-process-of-speciation-and-its-significance-in-the-origin-of-species
 related_article2:
-    id: 167737
-    title: Describe the three-domain system and its significance in classifying life forms.
+    id: 167740
+    title: >-
+        How have technological advances impacted the revision of phylogenetic trees?
     subject: Biology
-    url: /learn/biology/questions/describe-the-threedomain-system-and-its-significance-in-classifying-life-forms
+    url: /learn/biology/questions/how-have-technological-advances-impacted-the-revision-of-phylogenetic-trees
 related_article3:
-    id: 167739
-    title: What is convergent evolution and how can it be distinguished from homology?
+    id: 167726
+    title: >-
+        What role does genetic variation play in the evolution of populations?
     subject: Biology
-    url: /learn/biology/questions/what-is-convergent-evolution-and-how-can-it-be-distinguished-from-homology
+    url: /learn/biology/questions/what-role-does-genetic-variation-play-in-the-evolution-of-populations
 related_article4:
-    id: 167725
-    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    id: 167735
+    title: >-
+        Differentiate between homologous and analogous structures with examples.
     subject: Biology
-    url: /learn/biology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+    url: /learn/biology/questions/differentiate-between-homologous-and-analogous-structures-with-examples
 related_article5:
-    id: 167732
-    title: How are shared characters used in the construction and interpretation of phylogenetic trees?
+    id: 167734
+    title: >-
+        Define cladistics and explain its purpose in evolutionary biology.
     subject: Biology
-    url: /learn/biology/questions/how-are-shared-characters-used-in-the-construction-and-interpretation-of-phylogenetic-trees
+    url: /learn/biology/questions/define-cladistics-and-explain-its-purpose-in-evolutionary-biology
 ---
 
 &nbsp;

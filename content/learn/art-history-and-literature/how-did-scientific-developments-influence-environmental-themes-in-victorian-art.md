@@ -2,8 +2,10 @@
 _schema: default
 id: 159850
 date: 2025-01-23
-title: How did scientific developments influence environmental themes in Victorian art?
-article_title: How did scientific developments influence environmental themes in Victorian art?
+title: >-
+    How did scientific developments influence environmental themes in Victorian art?
+article_title: >-
+    How did scientific developments influence environmental themes in Victorian art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-scientific-developments-influence-environmental-themes-in-vic
 url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
 score: 9.5
 related_article1:
-    id: 159832
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    id: 159851
+    title: >-
+        In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
 related_article2:
-    id: 160113
-    title: In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+    id: 160114
+    title: >-
+        How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 related_article3:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+    id: 160115
+    title: >-
+        What was the impact of migration and cultural exchange on the École de Paris and the diversity of artistic techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/what-was-the-impact-of-migration-and-cultural-exchange-on-the-cole-de-paris-and-the-diversity-of-artistic-techniques
 related_article4:
-    id: 159849
-    title: What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
+    id: 159835
+    title: >-
+        What were the origins of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
 related_article5:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+    id: 159833
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 ---
 
 &nbsp;

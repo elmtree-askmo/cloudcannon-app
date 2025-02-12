@@ -2,8 +2,10 @@
 _schema: default
 id: 163184
 date: 2025-01-26
-title: How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
-article_title: How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
+title: >-
+    How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
+article_title: >-
+    How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/medicine/questions/how-do-patient-characteristics-and-chronic-diseas
 score: -1.0
 related_article1:
     id: 163185
-    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    title: >-
+        What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
 related_article2:
-    id: 163188
-    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    id: 163186
+    title: >-
+        How do clinical guidelines and patient preferences influence medication decisions in arterial thromboembolism?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+    url: /learn/medicine/questions/how-do-clinical-guidelines-and-patient-preferences-influence-medication-decisions-in-arterial-thromboembolism
 related_article3:
     id: 163187
-    title: What role do methodological and content experts play in the development of clinical guidelines?
+    title: >-
+        What role do methodological and content experts play in the development of clinical guidelines?
     subject: Medicine
     url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
 related_article4:
-    id: 163173
-    title: What are clinical decision rules and how do they facilitate diagnosis or prognosis?
+    id: 163180
+    title: >-
+        Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
     subject: Medicine
-    url: /learn/medicine/questions/what-are-clinical-decision-rules-and-how-do-they-facilitate-diagnosis-or-prognosis
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
 related_article5:
-    id: 163188
-    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    id: 163183
+    title: >-
+        Why is risk stratification important in clinical decision making, and how does it inform management decisions?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+    url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
 ---
 
 &nbsp;

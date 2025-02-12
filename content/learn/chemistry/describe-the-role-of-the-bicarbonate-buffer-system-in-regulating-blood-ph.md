@@ -2,8 +2,10 @@
 _schema: default
 id: 167320
 date: 2025-01-31
-title: Describe the role of the bicarbonate buffer system in regulating blood pH.
-article_title: Describe the role of the bicarbonate buffer system in regulating blood pH.
+title: >-
+    Describe the role of the bicarbonate buffer system in regulating blood pH.
+article_title: >-
+    Describe the role of the bicarbonate buffer system in regulating blood pH.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-bloo
 url: /learn/chemistry/questions/describe-the-role-of-the-bicarbonate-buffer-system-in-regulating-blood-ph
 score: -1.0
 related_article1:
-    id: 167317
-    title: Explain how the pH scale is used to measure acidity and alkalinity.
+    id: 167313
+    title: >-
+        Why is water considered an excellent solvent for ionic compounds and polar molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-the-ph-scale-is-used-to-measure-acidity-and-alkalinity
+    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
 related_article2:
-    id: 167323
-    title: Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
+    id: 167318
+    title: >-
+        What effect do acids have on the concentration of hydrogen ions in a solution?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
+    url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
 related_article3:
-    id: 167314
-    title: What causes the formation of a meniscus in a container of water?
+    id: 167321
+    title: >-
+        What happens to ionic compounds like NaCl when they dissolve in water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
+    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
 related_article4:
-    id: 167321
-    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
 related_article5:
-    id: 167321
-    title: What happens to ionic compounds like NaCl when they dissolve in water?
+    id: 167311
+    title: >-
+        What type of bond is responsible for the partial charges in a water molecule?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-happens-to-ionic-compounds-like-nacl-when-they-dissolve-in-water
+    url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
 ---
 
 &nbsp;

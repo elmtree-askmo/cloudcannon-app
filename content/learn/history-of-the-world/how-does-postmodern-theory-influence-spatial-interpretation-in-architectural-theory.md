@@ -2,8 +2,10 @@
 _schema: default
 id: 169089
 date: 2025-02-04
-title: How does post-modern theory influence spatial interpretation in architectural theory?
-article_title: How does post-modern theory influence spatial interpretation in architectural theory?
+title: >-
+    How does post-modern theory influence spatial interpretation in architectural theory?
+article_title: >-
+    How does post-modern theory influence spatial interpretation in architectural theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-postmodern-theory-influence-spatial-interpretation-in-archit
 url: /learn/history-of-the-world/questions/how-does-postmodern-theory-influence-spatial-interpretation-in-architectural-theory
 score: 9.5
 related_article1:
-    id: 169085
-    title: What role does spatial reinterpretation play in urban combat strategies?
+    id: 169093
+    title: >-
+        What are the characteristics of non-linear warfare in military tactics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
 related_article2:
-    id: 169084
-    title: Explain the concept of 'walking through walls' in urban combat strategies.
+    id: 169097
+    title: >-
+        How is theoretical language in warfare applied in contemporary military doctrine?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine
 related_article3:
+    id: 169094
+    title: >-
+        What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
+related_article4:
     id: 169095
-    title: How does the military-architectural relationship influence military training and education?
+    title: >-
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
-related_article4:
-    id: 169098
-    title: What are the primary strategies used in urban warfare to analyze urban infrastructure?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-strategies-used-in-urban-warfare-to-analyze-urban-infrastructure
 related_article5:
     id: 169101
-    title: How does geopolitical architecture affect urban infrastructure analysis?
+    title: >-
+        How does geopolitical architecture affect urban infrastructure analysis?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 161459
 date: 2025-01-24
-title: Why is it important to regularly update anti-virus software?
-article_title: Why is it important to regularly update anti-virus software?
+title: >-
+    Why is it important to regularly update anti-virus software?
+article_title: >-
+    Why is it important to regularly update anti-virus software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-it-important-to-regularly-update-antivirus-software.md
 url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
 score: -1.0
 related_article1:
+    id: 161383
+    title: >-
+        How can strong passwords help prevent identity theft?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
+related_article2:
     id: 161467
-    title: What is the difference between smishing and vishing?
+    title: >-
+        What is the difference between smishing and vishing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-smishing-and-vishing
-related_article2:
-    id: 161256
-    title: What distinguishes a virus from a worm in terms of malware?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
 related_article3:
-    id: 161264
-    title: What are the benefits of using a personal VPN?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
-related_article4:
-    id: 161469
-    title: How do Virtual Private Networks (VPNs) enhance online privacy?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
-related_article5:
     id: 161462
-    title: What distinguishes a virus from a worm in terms of malware?
+    title: >-
+        What distinguishes a virus from a worm in terms of malware?
     subject: Computer Science
     url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
+related_article4:
+    id: 161455
+    title: >-
+        What are some common methods used for pseudonymization?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
+related_article5:
+    id: 161394
+    title: >-
+        What are the advantages of using biometric security for authentication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169263
 date: 2025-02-04
-title: What identification is required for the test, and what items are prohibited?
-article_title: What identification is required for the test, and what items are prohibited?
+title: >-
+    What identification is required for the test, and what items are prohibited?
+article_title: >-
+    What identification is required for the test, and what items are prohibited?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-identification-is-required-for-the-test-and-what-items-are-prohi
 url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
 score: -1.0
 related_article1:
-    id: 169257
-    title: What are the sources of course content, and how do they relate to the quiz?
+    id: 169255
+    title: >-
+        How many short essay questions are included, and what is the process for their selection?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-sources-of-course-content-and-how-do-they-relate-to-the-quiz
+    url: /learn/education-studies/questions/how-many-short-essay-questions-are-included-and-what-is-the-process-for-their-selection
 related_article2:
-    id: 169252
-    title: What is the focus of the content in the multiple choice questions?
+    id: 169250
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-focus-of-the-content-in-the-multiple-choice-questions
+    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
 related_article3:
-    id: 169251
-    title: How many multiple choice questions are there, and what is the marking scheme?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-many-multiple-choice-questions-are-there-and-what-is-the-marking-scheme
-related_article4:
-    id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
-related_article5:
     id: 169249
-    title: What are the requirements for conducting the quiz in-class and the use of computers?
+    title: >-
+        What are the requirements for conducting the quiz in-class and the use of computers?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-requirements-for-conducting-the-quiz-inclass-and-the-use-of-computers
+related_article4:
+    id: 169250
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
+related_article5:
+    id: 169252
+    title: >-
+        What is the focus of the content in the multiple choice questions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-focus-of-the-content-in-the-multiple-choice-questions
 ---
 
 &nbsp;

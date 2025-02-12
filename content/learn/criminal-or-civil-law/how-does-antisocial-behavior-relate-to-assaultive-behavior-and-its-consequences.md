@@ -2,8 +2,10 @@
 _schema: default
 id: 162168
 date: 2025-01-25
-title: How does antisocial behavior relate to assaultive behavior and its consequences?
-article_title: How does antisocial behavior relate to assaultive behavior and its consequences?
+title: >-
+    How does antisocial behavior relate to assaultive behavior and its consequences?
+article_title: >-
+    How does antisocial behavior relate to assaultive behavior and its consequences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-co
 url: /learn/criminal-or-civil-law/questions/how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-consequences
 score: -1.0
 related_article1:
+    id: 162184
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
+related_article2:
+    id: 162194
+    title: >-
+        How does recklessness contribute to criminal harassment?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-recklessness-contribute-to-criminal-harassment
+related_article3:
+    id: 162177
+    title: >-
+        What distinguishes first degree murder from manslaughter in terms of legal classification?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
+related_article4:
+    id: 162187
+    title: >-
+        What constitutes joint possession under possession laws?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-joint-possession-under-possession-laws
+related_article5:
     id: 162182
-    title: What responsibilities do medical professionals have in impacting legal outcomes related to medical treatment?
+    title: >-
+        What responsibilities do medical professionals have in impacting legal outcomes related to medical treatment?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-responsibilities-do-medical-professionals-have-in-impacting-legal-outcomes-related-to-medical-treatment
-related_article2:
-    id: 162180
-    title: Define fraudulent intent and its role in criminal offenses.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-fraudulent-intent-and-its-role-in-criminal-offenses
-related_article3:
-    id: 162180
-    title: Define fraudulent intent and its role in criminal offenses.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-fraudulent-intent-and-its-role-in-criminal-offenses
-related_article4:
-    id: 162177
-    title: What distinguishes first degree murder from manslaughter in terms of legal classification?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
-related_article5:
-    id: 162177
-    title: What distinguishes first degree murder from manslaughter in terms of legal classification?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
 ---
 
 &nbsp;

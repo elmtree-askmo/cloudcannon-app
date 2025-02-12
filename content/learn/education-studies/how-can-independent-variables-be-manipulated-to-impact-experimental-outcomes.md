@@ -2,8 +2,10 @@
 _schema: default
 id: 165098
 date: 2025-01-28
-title: How can independent variables be manipulated to impact experimental outcomes?
-article_title: How can independent variables be manipulated to impact experimental outcomes?
+title: >-
+    How can independent variables be manipulated to impact experimental outcomes?
+article_title: >-
+    How can independent variables be manipulated to impact experimental outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-independent-variables-be-manipulated-to-impact-experimental-o
 url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
 score: -1.0
 related_article1:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
+    id: 165106
+    title: >-
+        What are some common challenges in data collection related to participant and observer bias?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
+    url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
 related_article2:
-    id: 165095
-    title: What is a dependent variable and why is it important in research?
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 related_article3:
-    id: 165112
-    title: How can participant bias be mitigated in research studies?
+    id: 165110
+    title: >-
+        Explain the process of hypothesis testing in inferential statistics.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participant-bias-be-mitigated-in-research-studies
+    url: /learn/education-studies/questions/explain-the-process-of-hypothesis-testing-in-inferential-statistics
 related_article4:
+    id: 165107
+    title: >-
+        Why is accurate data coding important and what are some common coding errors?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-accurate-data-coding-important-and-what-are-some-common-coding-errors
+related_article5:
     id: 165105
-    title: How can the order of questions in a survey impact responses?
+    title: >-
+        How can the order of questions in a survey impact responses?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
-related_article5:
-    id: 165101
-    title: Explain the difference between interval and ratio measurement types with examples.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
 ---
 
 &nbsp;

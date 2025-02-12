@@ -2,8 +2,10 @@
 _schema: default
 id: 167849
 date: 2025-02-01
-title: What is the difference between incomplete dominance and incomplete penetrance?
-article_title: What is the difference between incomplete dominance and incomplete penetrance?
+title: >-
+    What is the difference between incomplete dominance and incomplete penetrance?
+article_title: >-
+    What is the difference between incomplete dominance and incomplete penetrance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-incomplete-dominance-and-incomplete-pe
 url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
 score: -1.0
 related_article1:
-    id: 167842
-    title: How do environmental factors influence genetic potential in polygenic inheritance?
+    id: 167832
+    title: >-
+        How does incomplete dominance differ from complete dominance, and what are its genetic implications?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-environmental-factors-influence-genetic-potential-in-polygenic-inheritance
+    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance-and-what-are-its-genetic-implications
 related_article2:
-    id: 167840
-    title: What are gene modification effects, and how can they impact genetic expression?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-gene-modification-effects-and-how-can-they-impact-genetic-expression
-related_article3:
-    id: 167848
-    title: How do multiple alleles contribute to genetic diversity within a population?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
-related_article4:
     id: 167837
-    title: How do conditional lethal alleles demonstrate environmental influence on genetic expression?
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
-related_article5:
-    id: 167843
-    title: What is the significance of quantitative traits in genetics, and how are they measured?
+related_article3:
+    id: 167846
+    title: >-
+        What is the role of standard deviation and variance in analyzing genetic data?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
+    url: /learn/education-studies/questions/what-is-the-role-of-standard-deviation-and-variance-in-analyzing-genetic-data
+related_article4:
+    id: 167840
+    title: >-
+        What are gene modification effects, and how can they impact genetic expression?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-gene-modification-effects-and-how-can-they-impact-genetic-expression
+related_article5:
+    id: 167845
+    title: >-
+        How do correlation coefficients relate to genetic studies of complex traits?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
 ---
 
 &nbsp;

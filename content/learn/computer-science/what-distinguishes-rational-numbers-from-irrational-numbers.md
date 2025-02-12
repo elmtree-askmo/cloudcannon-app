@@ -2,8 +2,10 @@
 _schema: default
 id: 161279
 date: 2025-01-24
-title: What distinguishes rational numbers from irrational numbers?
-article_title: What distinguishes rational numbers from irrational numbers?
+title: >-
+    What distinguishes rational numbers from irrational numbers?
+article_title: >-
+    What distinguishes rational numbers from irrational numbers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-rational-numbers-from-irrational-numbers.md
 url: /learn/computer-science/questions/what-distinguishes-rational-numbers-from-irrational-numbers
 score: -1.0
 related_article1:
-    id: 160800
-    title: What role does abstraction play in simplifying complex computing problems?
+    id: 161133
+    title: >-
+        Describe the proof by contradiction technique and its application in proving unsolvable problems.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
 related_article2:
-    id: 160809
-    title: What are the characteristics of intractable problems?
+    id: 161135
+    title: >-
+        Explain the traveling salesman problem and its role in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-intractable-problems
+    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
 related_article3:
-    id: 160821
-    title: How does understanding cardinality impact set theory and computability?
+    id: 161139
+    title: >-
+        How is proof by contradiction used in mathematical proofs?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-in-mathematical-proofs
 related_article4:
-    id: 160810
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 160804
+    title: >-
+        What is the halting problem, and why is it significant in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 related_article5:
-    id: 160816
-    title: What is the significance of the P vs NP problem in computational theory?
+    id: 160819
+    title: >-
+        How do static and dynamic analysis techniques differ in algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
+    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
 ---
 
 &nbsp;

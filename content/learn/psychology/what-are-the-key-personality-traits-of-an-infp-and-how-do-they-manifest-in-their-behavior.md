@@ -2,8 +2,10 @@
 _schema: default
 id: 170619
 date: 2025-02-06
-title: What are the key personality traits of an INFP, and how do they manifest in their behavior?
-article_title: What are the key personality traits of an INFP, and how do they manifest in their behavior?
+title: >-
+    What are the key personality traits of an INFP, and how do they manifest in their behavior?
+article_title: >-
+    What are the key personality traits of an INFP, and how do they manifest in their behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manife
 url: /learn/psychology/questions/what-are-the-key-personality-traits-of-an-infp-and-how-do-they-manifest-in-their-behavior
 score: -1.0
 related_article1:
-    id: 170624
-    title: Describe the differences between introversion and extroversion, and how these traits might manifest in an individual's behavior.
+    id: 170630
+    title: >-
+        In what ways do INFPs express their creativity, and how does this relate to their self-reflection and pursuit of the greater good?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-differences-between-introversion-and-extroversion-and-how-these-traits-might-manifest-in-an-individuals-behavior
+    url: /learn/psychology/questions/in-what-ways-do-infps-express-their-creativity-and-how-does-this-relate-to-their-selfreflection-and-pursuit-of-the-greater-good
 related_article2:
-    id: 170631
-    title: What are some popular career paths for INFPs, and why might these careers align with their personality traits?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-popular-career-paths-for-infps-and-why-might-these-careers-align-with-their-personality-traits
-related_article3:
     id: 170623
-    title: What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
+    title: >-
+        What are the four dichotomies of personality according to Jungian psychology, and how do they help in determining personality types?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-four-dichotomies-of-personality-according-to-jungian-psychology-and-how-do-they-help-in-determining-personality-types
-related_article4:
-    id: 170621
-    title: Identify the main strengths and weaknesses of INFPs, focusing on their humanitarian inclinations and potential for overexertion.
+related_article3:
+    id: 170633
+    title: >-
+        What are the least popular career paths for INFPs, and what aspects of these careers might conflict with their personality traits?
     subject: Psychology
-    url: /learn/psychology/questions/identify-the-main-strengths-and-weaknesses-of-infps-focusing-on-their-humanitarian-inclinations-and-potential-for-overexertion
+    url: /learn/psychology/questions/what-are-the-least-popular-career-paths-for-infps-and-what-aspects-of-these-careers-might-conflict-with-their-personality-traits
+related_article4:
+    id: 170620
+    title: >-
+        How do INFPs typically respond to criticism and stress, and what strategies can they use to handle these emotional responses constructively?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-infps-typically-respond-to-criticism-and-stress-and-what-strategies-can-they-use-to-handle-these-emotional-responses-constructively
+related_article5:
+    id: 170624
+    title: >-
+        Describe the differences between introversion and extroversion, and how these traits might manifest in an individual's behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-differences-between-introversion-and-extroversion-and-how-these-traits-might-manifest-in-an-individuals-behavior
 ---
 
 &nbsp;

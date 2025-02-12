@@ -2,8 +2,10 @@
 _schema: default
 id: 166139
 date: 2025-01-29
-title: What distinguishes exponential growth from logistic growth in population dynamics?
-article_title: What distinguishes exponential growth from logistic growth in population dynamics?
+title: >-
+    What distinguishes exponential growth from logistic growth in population dynamics?
+article_title: >-
+    What distinguishes exponential growth from logistic growth in population dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-exponential-growth-from-logistic-growth-in-populat
 url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
 score: -1.0
 related_article1:
-    id: 166143
-    title: What are the main components of the SIR model in epidemiology?
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
 related_article2:
-    id: 166140
-    title: How does habitat fragmentation affect metapopulation dynamics?
+    id: 166150
+    title: >-
+        How do direct and indirect transmission methods differ in parasite transmission?
     subject: Biology
-    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+    url: /learn/biology/questions/how-do-direct-and-indirect-transmission-methods-differ-in-parasite-transmission
 related_article3:
-    id: 166135
-    title: What are the main sources of genetic variation in a population?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
-related_article4:
     id: 166151
-    title: What is the significance of measuring prevalence in infection dynamics?
+    title: >-
+        What is the significance of measuring prevalence in infection dynamics?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
-related_article5:
-    id: 166149
-    title: What are the primary transmission pathways for zoonotic diseases?
+related_article4:
+    id: 166143
+    title: >-
+        What are the main components of the SIR model in epidemiology?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-transmission-pathways-for-zoonotic-diseases
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+related_article5:
+    id: 166143
+    title: >-
+        What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
 ---
 
 &nbsp;

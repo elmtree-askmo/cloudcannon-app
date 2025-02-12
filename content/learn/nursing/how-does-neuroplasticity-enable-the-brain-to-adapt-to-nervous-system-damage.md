@@ -2,8 +2,10 @@
 _schema: default
 id: 164811
 date: 2025-01-28
-title: How does neuroplasticity enable the brain to adapt to nervous system damage?
-article_title: How does neuroplasticity enable the brain to adapt to nervous system damage?
+title: >-
+    How does neuroplasticity enable the brain to adapt to nervous system damage?
+article_title: >-
+    How does neuroplasticity enable the brain to adapt to nervous system damage?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-
 url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
 score: -1.0
 related_article1:
-    id: 164816
-    title: How does an epidural provide pain management during medical procedures?
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
 related_article2:
-    id: 164807
-    title: How does subconscious processing influence behavior and decision-making?
+    id: 164815
+    title: >-
+        What is the relationship between photographic memory and cognitive load?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-subconscious-processing-influence-behavior-and-decisionmaking
+    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
 related_article3:
-    id: 164814
-    title: How does cerebrospinal fluid contribute to neural nourishment?
+    id: 164812
+    title: >-
+        What are the key factors that contribute to neuron connections in neuroplasticity?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
+    url: /learn/nursing/questions/what-are-the-key-factors-that-contribute-to-neuron-connections-in-neuroplasticity
 related_article4:
-    id: 164796
-    title: What roles do sensory neurons and motor neurons play in the peripheral nervous system?
+    id: 164813
+    title: >-
+        Describe the structure and function of brain ventricles.
     subject: Nursing
-    url: /learn/nursing/questions/what-roles-do-sensory-neurons-and-motor-neurons-play-in-the-peripheral-nervous-system
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-brain-ventricles
 related_article5:
-    id: 164805
-    title: Describe the process of neural processing in the brain.
+    id: 164801
+    title: >-
+        How do temperature neurons contribute to sensory information processing?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-process-of-neural-processing-in-the-brain
+    url: /learn/nursing/questions/how-do-temperature-neurons-contribute-to-sensory-information-processing
 ---
 
 &nbsp;

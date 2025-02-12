@@ -2,8 +2,10 @@
 _schema: default
 id: 168673
 date: 2025-02-03
-title: What are the common causes of plagiarism, and how can it be avoided?
-article_title: What are the common causes of plagiarism, and how can it be avoided?
+title: >-
+    What are the common causes of plagiarism, and how can it be avoided?
+article_title: >-
+    What are the common causes of plagiarism, and how can it be avoided?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-causes-of-plagiarism-and-how-can-it-be-avoided.md
 url: /learn/education-studies/questions/what-are-the-common-causes-of-plagiarism-and-how-can-it-be-avoided
 score: -1.0
 related_article1:
-    id: 168664
-    title: Why is APA style particularly important in the social sciences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-apa-style-particularly-important-in-the-social-sciences
-related_article2:
-    id: 168664
-    title: Why is APA style particularly important in the social sciences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-apa-style-particularly-important-in-the-social-sciences
-related_article3:
     id: 168671
-    title: How can standardized presentation enhance the clarity of research documentation?
+    title: >-
+        How can standardized presentation enhance the clarity of research documentation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-standardized-presentation-enhance-the-clarity-of-research-documentation
-related_article4:
+related_article2:
+    id: 168679
+    title: >-
+        What factors should be considered when determining when to cite a source?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-determining-when-to-cite-a-source
+related_article3:
     id: 168664
-    title: Why is APA style particularly important in the social sciences?
+    title: >-
+        Why is APA style particularly important in the social sciences?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-apa-style-particularly-important-in-the-social-sciences
-related_article5:
-    id: 168674
-    title: How does giving credit to original sources enhance citation integrity?
+related_article4:
+    id: 168666
+    title: >-
+        How do parenthetical citations differ from narrative style citations in APA format?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-giving-credit-to-original-sources-enhance-citation-integrity
+    url: /learn/education-studies/questions/how-do-parenthetical-citations-differ-from-narrative-style-citations-in-apa-format
+related_article5:
+    id: 168677
+    title: >-
+        What are some popular citation tools, and what features do they offer?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-popular-citation-tools-and-what-features-do-they-offer
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163901
 date: 2025-01-28
-title: How do character epithets function within Greek mythology, and why are they significant?
-article_title: How do character epithets function within Greek mythology, and why are they significant?
+title: >-
+    How do character epithets function within Greek mythology, and why are they significant?
+article_title: >-
+    How do character epithets function within Greek mythology, and why are they significant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-character-epithets-function-within-greek-mythology-and-why-are
 url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 score: 9.0
 related_article1:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
+    id: 163895
+    title: >-
+        What role did bards play in the preservation and dissemination of Greek myths?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
 related_article2:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
-related_article3:
     id: 163896
-    title: List the defining characteristics of epic poetry in ancient Greek literature.
+    title: >-
+        List the defining characteristics of epic poetry in ancient Greek literature.
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
-related_article4:
-    id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
-related_article5:
+related_article3:
     id: 163906
-    title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
+    title: >-
+        Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
+related_article4:
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
+related_article5:
+    id: 163890
+    title: >-
+        Identify a notable Greek hero and describe their main achievements or adventures.
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
 ---
 
 &nbsp;

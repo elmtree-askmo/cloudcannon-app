@@ -2,8 +2,10 @@
 _schema: default
 id: 164264
 date: 2025-01-28
-title: What factors are considered in the material selection for bionic prosthetics?
-article_title: What factors are considered in the material selection for bionic prosthetics?
+title: >-
+    What factors are considered in the material selection for bionic prosthetics?
+article_title: >-
+    What factors are considered in the material selection for bionic prosthetics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-are-considered-in-the-material-selection-for-bionic-pros
 url: /learn/health-studies/questions/what-factors-are-considered-in-the-material-selection-for-bionic-prosthetics
 score: -1.0
 related_article1:
-    id: 164263
-    title: What role does neuroplasticity play in the advancement of neural control systems?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-does-neuroplasticity-play-in-the-advancement-of-neural-control-systems
-related_article2:
-    id: 164261
-    title: Describe the structure and function of neural pathways in neural control systems.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-neural-pathways-in-neural-control-systems
-related_article3:
     id: 164258
-    title: What are the primary components of biomechanical systems, and how do they function together?
+    title: >-
+        What are the primary components of biomechanical systems, and how do they function together?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
+related_article2:
+    id: 164274
+    title: >-
+        What potential does AI integration hold for the future of personalized rehabilitation engineering?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-potential-does-ai-integration-hold-for-the-future-of-personalized-rehabilitation-engineering
+related_article3:
+    id: 164267
+    title: >-
+        What are the key differences between wearable and implantable devices in human-machine interfaces?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-wearable-and-implantable-devices-in-humanmachine-interfaces
 related_article4:
-    id: 164261
-    title: Describe the structure and function of neural pathways in neural control systems.
+    id: 164258
+    title: >-
+        What are the primary components of biomechanical systems, and how do they function together?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-and-function-of-neural-pathways-in-neural-control-systems
+    url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
 related_article5:
-    id: 164259
-    title: How do prosthetics and orthotics differ in their application within biomechanical technology?
+    id: 164258
+    title: >-
+        What are the primary components of biomechanical systems, and how do they function together?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-prosthetics-and-orthotics-differ-in-their-application-within-biomechanical-technology
+    url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
 ---
 
 &nbsp;

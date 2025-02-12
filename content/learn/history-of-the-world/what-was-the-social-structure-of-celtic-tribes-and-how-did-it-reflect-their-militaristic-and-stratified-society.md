@@ -2,8 +2,10 @@
 _schema: default
 id: 159692
 date: 2025-01-23
-title: What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
-article_title: What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
+title: >-
+    What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
+article_title: >-
+    What was the social structure of Celtic tribes and how did it reflect their militaristic and stratified society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect
 url: /learn/history-of-the-world/questions/what-was-the-social-structure-of-celtic-tribes-and-how-did-it-reflect-their-militaristic-and-stratified-society
 score: 9.0
 related_article1:
-    id: 159687
-    title: How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
-related_article2:
-    id: 159686
-    title: What role did the comparative method in linguistics play in understanding the evolution of Celtic languages?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-comparative-method-in-linguistics-play-in-understanding-the-evolution-of-celtic-languages
-related_article3:
-    id: 159733
-    title: How did the origins in Hallstatt contribute to the Celtic migration and influence in Europe?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-origins-in-hallstatt-contribute-to-the-celtic-migration-and-influence-in-europe
-related_article4:
     id: 159684
-    title: What are some common misconceptions about ancient Celts?
+    title: >-
+        What are some common misconceptions about ancient Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-common-misconceptions-about-ancient-celts
-related_article5:
-    id: 159732
-    title: What is the significance of the Beaker and Corded Ware cultures in the chronology of the Celts?
+related_article2:
+    id: 159737
+    title: >-
+        How is modern interest in Celtic culture reflected in the preservation of archaeological sites and finds?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-beaker-and-corded-ware-cultures-in-the-chronology-of-the-celts
+    url: /learn/history-of-the-world/questions/how-is-modern-interest-in-celtic-culture-reflected-in-the-preservation-of-archaeological-sites-and-finds
+related_article3:
+    id: 159687
+    title: >-
+        How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
+related_article4:
+    id: 159687
+    title: >-
+        How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
+related_article5:
+    id: 159729
+    title: >-
+        How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
 ---
 
 &nbsp;

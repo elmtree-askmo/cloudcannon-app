@@ -2,8 +2,10 @@
 _schema: default
 id: 163075
 date: 2025-01-26
-title: How do absolute measures of association differ from relative measures in epidemiology?
-article_title: How do absolute measures of association differ from relative measures in epidemiology?
+title: >-
+    How do absolute measures of association differ from relative measures in epidemiology?
+article_title: >-
+    How do absolute measures of association differ from relative measures in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-absolute-measures-of-association-differ-from-relative-measures
 url: /learn/health-studies/questions/how-do-absolute-measures-of-association-differ-from-relative-measures-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163245
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
-related_article2:
-    id: 163238
-    title: How is Years of Potential Life Lost (YPLL) calculated, and why is it significant in public health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-years-of-potential-life-lost-ypll-calculated-and-why-is-it-significant-in-public-health
-related_article3:
-    id: 163226
-    title: Why is the denominator important in measures of disease frequency, and how can it vary?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary
-related_article4:
-    id: 163335
-    title: How do prevalence and incidence differ in terms of existing and new cases?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
-related_article5:
     id: 163340
-    title: What is the difference between absolute and relative measures of association?
+    title: >-
+        What is the difference between absolute and relative measures of association?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
+related_article2:
+    id: 163342
+    title: >-
+        What is the risk difference, and how is it calculated using a 2x2 table?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
+related_article3:
+    id: 163241
+    title: >-
+        What is the risk difference, and how is it calculated using a 2x2 table?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
+related_article4:
+    id: 163076
+    title: >-
+        What is the purpose of a 2x2 table in epidemiologic data analysis?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-a-2x2-table-in-epidemiologic-data-analysis
+related_article5:
+    id: 163237
+    title: >-
+        What are the limitations of using person-years of observation in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
 ---
 
 &nbsp;

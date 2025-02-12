@@ -2,8 +2,10 @@
 _schema: default
 id: 162874
 date: 2025-01-25
-title: What distinguishes civil liability from criminal liability in traffic accidents?
-article_title: What distinguishes civil liability from criminal liability in traffic accidents?
+title: >-
+    What distinguishes civil liability from criminal liability in traffic accidents?
+article_title: >-
+    What distinguishes civil liability from criminal liability in traffic accidents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-civil-liability-from-criminal-liability-in-traffic
 url: /learn/criminal-or-civil-law/questions/what-distinguishes-civil-liability-from-criminal-liability-in-traffic-accidents
 score: -1.0
 related_article1:
-    id: 162862
-    title: How is criminal negligence defined in the context of driving?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-criminal-negligence-defined-in-the-context-of-driving
-related_article2:
     id: 162858
-    title: How does case law influence the determination of reasonable behavior in traffic cases?
+    title: >-
+        How does case law influence the determination of reasonable behavior in traffic cases?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-case-law-influence-the-determination-of-reasonable-behavior-in-traffic-cases
-related_article3:
-    id: 162880
-    title: What factors influence judicial decision-making in traffic cases?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-factors-influence-judicial-decisionmaking-in-traffic-cases
-related_article4:
+related_article2:
     id: 162867
-    title: Why is compliance with traffic regulations important, and what are common violations?
+    title: >-
+        Why is compliance with traffic regulations important, and what are common violations?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
-related_article5:
-    id: 162856
-    title: What is objective liability and how does it apply in traffic law?
+related_article3:
+    id: 162881
+    title: >-
+        What are the common traffic offenses and their legal consequences?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-objective-liability-and-how-does-it-apply-in-traffic-law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-common-traffic-offenses-and-their-legal-consequences
+related_article4:
+    id: 162885
+    title: >-
+        What is the impact of liability on legal proceedings in traffic accidents?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-impact-of-liability-on-legal-proceedings-in-traffic-accidents
+related_article5:
+    id: 162882
+    title: >-
+        How are legal standards of care applied in traffic law?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
 ---
 
 &nbsp;

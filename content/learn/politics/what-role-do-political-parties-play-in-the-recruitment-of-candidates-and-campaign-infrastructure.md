@@ -2,8 +2,10 @@
 _schema: default
 id: 169266
 date: 2025-02-04
-title: What role do political parties play in the recruitment of candidates and campaign infrastructure?
-article_title: What role do political parties play in the recruitment of candidates and campaign infrastructure?
+title: >-
+    What role do political parties play in the recruitment of candidates and campaign infrastructure?
+article_title: >-
+    What role do political parties play in the recruitment of candidates and campaign infrastructure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-political-parties-play-in-the-recruitment-of-candidates-
 url: /learn/politics/questions/what-role-do-political-parties-play-in-the-recruitment-of-candidates-and-campaign-infrastructure
 score: -1.0
 related_article1:
-    id: 169279
-    title: How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
+    id: 169272
+    title: >-
+        What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
     subject: Politics
-    url: /learn/politics/questions/how-do-regional-and-fringe-parties-like-the-bloc-qubcois-and-green-party-influence-canadian-politics
+    url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
 related_article2:
-    id: 169271
-    title: How does classical liberalism view the free market economy and competition?
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
     subject: Politics
-    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
 related_article3:
-    id: 169279
-    title: How do regional and fringe parties like the Bloc Québécois and Green Party influence Canadian politics?
+    id: 169273
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
     subject: Politics
-    url: /learn/politics/questions/how-do-regional-and-fringe-parties-like-the-bloc-qubcois-and-green-party-influence-canadian-politics
+    url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
 related_article4:
-    id: 169274
-    title: What is the libertarian perspective on state intervention and individual responsibility?
+    id: 169276
+    title: >-
+        How do federal and provincial party relationships affect party integration and dynamics in Canada?
     subject: Politics
-    url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
+    url: /learn/politics/questions/how-do-federal-and-provincial-party-relationships-affect-party-integration-and-dynamics-in-canada
 related_article5:
-    id: 169274
-    title: What is the libertarian perspective on state intervention and individual responsibility?
+    id: 169272
+    title: >-
+        What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
     subject: Politics
-    url: /learn/politics/questions/what-is-the-libertarian-perspective-on-state-intervention-and-individual-responsibility
+    url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
 ---
 
 &nbsp;

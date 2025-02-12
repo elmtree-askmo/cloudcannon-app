@@ -2,8 +2,10 @@
 _schema: default
 id: 168468
 date: 2025-02-03
-title: How can family and friends influence an individual's values?
-article_title: How can family and friends influence an individual's values?
+title: >-
+    How can family and friends influence an individual's values?
+article_title: >-
+    How can family and friends influence an individual's values?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-family-and-friends-influence-an-individuals-values.md
 url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
 score: -1.0
 related_article1:
-    id: 168461
-    title: What traits are commonly suited for specific careers?
+    id: 168471
+    title: >-
+        Why might values change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
+    url: /learn/education-studies/questions/why-might-values-change-over-time
 related_article2:
-    id: 168460
-    title: How do personal traits influence career choice?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-personal-traits-influence-career-choice
-related_article3:
     id: 168464
-    title: What are the general categories of skills and why are they important?
+    title: >-
+        What are the general categories of skills and why are they important?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-general-categories-of-skills-and-why-are-they-important
+related_article3:
+    id: 168458
+    title: >-
+        How can the Skills Matcher Tool assist in self-assessment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-the-skills-matcher-tool-assist-in-selfassessment
 related_article4:
-    id: 168463
-    title: What are some online resources available for career planning?
+    id: 168469
+    title: >-
+        What is the role of media in shaping values?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
+    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
 related_article5:
-    id: 168457
-    title: What are subject-specific skills and how do they differ from general skills?
+    id: 168459
+    title: >-
+        Why is it important to reflect on interests and aptitudes during self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-subjectspecific-skills-and-how-do-they-differ-from-general-skills
+    url: /learn/education-studies/questions/why-is-it-important-to-reflect-on-interests-and-aptitudes-during-selfassessment
 ---
 
 &nbsp;

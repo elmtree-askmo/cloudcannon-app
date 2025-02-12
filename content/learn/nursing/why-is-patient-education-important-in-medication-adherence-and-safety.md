@@ -2,8 +2,10 @@
 _schema: default
 id: 166513
 date: 2025-01-30
-title: Why is patient education important in medication adherence and safety?
-article_title: Why is patient education important in medication adherence and safety?
+title: >-
+    Why is patient education important in medication adherence and safety?
+article_title: >-
+    Why is patient education important in medication adherence and safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-patient-education-important-in-medication-adherence-and-safety
 url: /learn/nursing/questions/why-is-patient-education-important-in-medication-adherence-and-safety
 score: -1.0
 related_article1:
-    id: 166489
-    title: What is the primary purpose of trough level monitoring in antibiotics?
+    id: 166496
+    title: >-
+        Describe the phases of clinical trials and their significance in drug development.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
+    url: /learn/nursing/questions/describe-the-phases-of-clinical-trials-and-their-significance-in-drug-development
 related_article2:
-    id: 166503
-    title: What is the importance of randomized controlled trials in clinical research?
+    id: 166491
+    title: >-
+        Define minimum effective concentration and explain its importance in therapeutic effectiveness.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
+    url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 related_article3:
     id: 166506
-    title: What are the differences between generic and trade names of drugs?
+    title: >-
+        What are the differences between generic and trade names of drugs?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
 related_article4:
     id: 166491
-    title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+    title: >-
+        Define minimum effective concentration and explain its importance in therapeutic effectiveness.
     subject: Nursing
     url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 related_article5:
-    id: 166511
-    title: What strategies can be used to manage drug interactions effectively?
+    id: 166510
+    title: >-
+        How do pharmacokinetic and pharmacodynamic interactions differ?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168745
 date: 2025-02-04
-title: How have historical narratives and family histories contributed to our understanding of Japanese internment?
-article_title: How have historical narratives and family histories contributed to our understanding of Japanese internment?
+title: >-
+    How have historical narratives and family histories contributed to our understanding of Japanese internment?
+article_title: >-
+    How have historical narratives and family histories contributed to our understanding of Japanese internment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-historical-narratives-and-family-histories-contributed-to-ou
 url: /learn/history-of-the-world/questions/how-have-historical-narratives-and-family-histories-contributed-to-our-understanding-of-japanese-internment
 score: 9.0
 related_article1:
-    id: 168743
-    title: What were the key legal arguments and outcomes of the Korematsu case?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case
-related_article2:
-    id: 168747
-    title: How has the Japanese internment experience influenced modern civil rights movements?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
-related_article3:
-    id: 168741
-    title: What was the significance of the Manzanar internment camp in the context of Japanese American internment?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-manzanar-internment-camp-in-the-context-of-japanese-american-internment
-related_article4:
     id: 168738
-    title: How did Executive Order 9066 legally justify the internment of Japanese Americans?
+    title: >-
+        How did Executive Order 9066 legally justify the internment of Japanese Americans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-executive-order-9066-legally-justify-the-internment-of-japanese-americans
-related_article5:
-    id: 168750
-    title: What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
+related_article2:
+    id: 168749
+    title: >-
+        What were the government and military justifications for the internment of Japanese Americans during World War II?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
+    url: /learn/history-of-the-world/questions/what-were-the-government-and-military-justifications-for-the-internment-of-japanese-americans-during-world-war-ii
+related_article3:
+    id: 168749
+    title: >-
+        What were the government and military justifications for the internment of Japanese Americans during World War II?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-government-and-military-justifications-for-the-internment-of-japanese-americans-during-world-war-ii
+related_article4:
+    id: 168744
+    title: >-
+        What challenges did first-generation immigrants face in terms of cultural identity and assimilation?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-did-firstgeneration-immigrants-face-in-terms-of-cultural-identity-and-assimilation
+related_article5:
+    id: 168739
+    title: >-
+        What were the immediate impacts of forced relocation and internment on Japanese Americans?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
 ---
 
 &nbsp;

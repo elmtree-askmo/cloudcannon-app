@@ -2,8 +2,10 @@
 _schema: default
 id: 166743
 date: 2025-01-31
-title: How can imagery be used to evoke emotional appeals in advertising?
-article_title: How can imagery be used to evoke emotional appeals in advertising?
+title: >-
+    How can imagery be used to evoke emotional appeals in advertising?
+article_title: >-
+    How can imagery be used to evoke emotional appeals in advertising?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-imagery-be-used-to-evoke-emotional-appeals-in-advertising.md
 url: /learn/art-history-and-literature/questions/how-can-imagery-be-used-to-evoke-emotional-appeals-in-advertising
 score: 9.0
 related_article1:
-    id: 166749
-    title: Why is it important to avoid clichés and redundancy in writing?
+    id: 166748
+    title: >-
+        How can parallel structure and repetition enhance copywriting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-it-important-to-avoid-clichs-and-redundancy-in-writing
+    url: /learn/art-history-and-literature/questions/how-can-parallel-structure-and-repetition-enhance-copywriting
 related_article2:
     id: 166750
-    title: How do text and visual elements work together to create emotional responses in copy?
+    title: >-
+        How do text and visual elements work together to create emotional responses in copy?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-text-and-visual-elements-work-together-to-create-emotional-responses-in-copy
 related_article3:
-    id: 166747
-    title: What are the key differences between complexity and simplicity in writing style?
+    id: 166744
+    title: >-
+        Why is it important to respect audience intelligence in copywriting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-differences-between-complexity-and-simplicity-in-writing-style
+    url: /learn/art-history-and-literature/questions/why-is-it-important-to-respect-audience-intelligence-in-copywriting
 related_article4:
-    id: 166741
-    title: How does celebrity endorsement enhance the ethos of an advertisement?
+    id: 166740
+    title: >-
+        What is the role of the writer, text, and audience in the rhetorical situation of an advertisement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-celebrity-endorsement-enhance-the-ethos-of-an-advertisement
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-the-writer-text-and-audience-in-the-rhetorical-situation-of-an-advertisement
 related_article5:
-    id: 166745
-    title: What factors should be considered when analyzing the demographics of an audience?
+    id: 166755
+    title: >-
+        What are some effective strategies for generating ideas during the writing process?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-factors-should-be-considered-when-analyzing-the-demographics-of-an-audience
+    url: /learn/art-history-and-literature/questions/what-are-some-effective-strategies-for-generating-ideas-during-the-writing-process
 ---
 
 &nbsp;

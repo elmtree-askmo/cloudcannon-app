@@ -2,8 +2,10 @@
 _schema: default
 id: 161542
 date: 2025-01-24
-title: What is the function of failover mechanisms in mainframe fault tolerance?
-article_title: What is the function of failover mechanisms in mainframe fault tolerance?
+title: >-
+    What is the function of failover mechanisms in mainframe fault tolerance?
+article_title: >-
+    What is the function of failover mechanisms in mainframe fault tolerance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolera
 url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
 score: -1.0
 related_article1:
-    id: 161549
-    title: What is the difference between lossless and lossy data compression?
+    id: 161554
+    title: >-
+        What are the key characteristics of mainframe computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
 related_article2:
-    id: 161535
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161534
+    title: >-
+        What are the key characteristics of mainframe computers that distinguish them from other types of computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers-that-distinguish-them-from-other-types-of-computers
 related_article3:
-    id: 161551
-    title: How does licensing differ between open source and proprietary software?
+    id: 161312
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
 related_article4:
-    id: 161649
-    title: What is the purpose of encryption in access control?
+    id: 161324
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
 related_article5:
-    id: 161323
-    title: How does licensing differ between open source and proprietary software?
+    id: 161561
+    title: >-
+        What are the advantages of water cooling over air cooling in heat maintenance?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/what-are-the-advantages-of-water-cooling-over-air-cooling-in-heat-maintenance
 ---
 
 &nbsp;

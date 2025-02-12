@@ -2,8 +2,10 @@
 _schema: default
 id: 164513
 date: 2025-01-28
-title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
-article_title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+title: >-
+    What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+article_title: >-
+    What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-role-of-phonology-in-language-processing-and-how-can-phon
 url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
 score: -1.0
 related_article1:
-    id: 164524
-    title: How do learning disabilities impact cognitive development, particularly in relation to language processing?
+    id: 164510
+    title: >-
+        Why are ERP components important in cognitive processing studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-disabilities-impact-cognitive-development-particularly-in-relation-to-language-processing
+    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
 related_article2:
+    id: 164510
+    title: >-
+        Why are ERP components important in cognitive processing studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
+related_article3:
+    id: 164516
+    title: >-
+        Why is brain connectivity crucial in cognitive processing, and what are the effects of disconnection syndromes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-brain-connectivity-crucial-in-cognitive-processing-and-what-are-the-effects-of-disconnection-syndromes
+related_article4:
     id: 164509
-    title: What are the basic principles of EEG signal recording?
+    title: >-
+        What are the basic principles of EEG signal recording?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-basic-principles-of-eeg-signal-recording
-related_article3:
-    id: 164524
-    title: How do learning disabilities impact cognitive development, particularly in relation to language processing?
+related_article5:
+    id: 164512
+    title: >-
+        How does Wernicke's aphasia affect speech comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-disabilities-impact-cognitive-development-particularly-in-relation-to-language-processing
-related_article4:
-    id: 164519
-    title: How do visual and auditory processing issues relate to cognitive processing in dyslexia?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
+    url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
 ---
 
 &nbsp;

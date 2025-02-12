@@ -2,8 +2,10 @@
 _schema: default
 id: 169280
 date: 2025-02-04
-title: How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
-article_title: How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
+title: >-
+    How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
+article_title: >-
+    How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-media-influence-public-opinion-and-election-campaigns-in-the
 url: /learn/politics/questions/how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior
 score: -1.0
 related_article1:
-    id: 169278
-    title: What are the major political parties in the Canadian political system, and what roles do they play?
+    id: 169269
+    title: >-
+        How do electoralist parties utilize mass membership cultivation and leader appeal?
     subject: Politics
-    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
+    url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
 related_article2:
-    id: 169277
-    title: What is the significance of curvilinear disparity in party ideology?
-    subject: Politics
-    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
-related_article3:
-    id: 169278
-    title: What are the major political parties in the Canadian political system, and what roles do they play?
-    subject: Politics
-    url: /learn/politics/questions/what-are-the-major-political-parties-in-the-canadian-political-system-and-what-roles-do-they-play
-related_article4:
-    id: 169277
-    title: What is the significance of curvilinear disparity in party ideology?
-    subject: Politics
-    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
-related_article5:
     id: 169273
-    title: How does democratic socialism propose to address capitalist inequalities?
+    title: >-
+        How does democratic socialism propose to address capitalist inequalities?
     subject: Politics
     url: /learn/politics/questions/how-does-democratic-socialism-propose-to-address-capitalist-inequalities
+related_article3:
+    id: 169271
+    title: >-
+        How does classical liberalism view the free market economy and competition?
+    subject: Politics
+    url: /learn/politics/questions/how-does-classical-liberalism-view-the-free-market-economy-and-competition
+related_article4:
+    id: 169270
+    title: >-
+        What is the role of the Liberal Party in the one-party dominance theory?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
+related_article5:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
 ---
 
 &nbsp;

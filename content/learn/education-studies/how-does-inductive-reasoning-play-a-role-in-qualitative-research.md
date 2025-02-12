@@ -2,8 +2,10 @@
 _schema: default
 id: 163678
 date: 2025-01-27
-title: How does inductive reasoning play a role in qualitative research?
-article_title: How does inductive reasoning play a role in qualitative research?
+title: >-
+    How does inductive reasoning play a role in qualitative research?
+article_title: >-
+    How does inductive reasoning play a role in qualitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-inductive-reasoning-play-a-role-in-qualitative-research.md
 url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
 score: -1.0
 related_article1:
-    id: 163675
-    title: What is the difference between objective and subjective knowledge in epistemology?
+    id: 163688
+    title: >-
+        What ethical considerations must be taken into account in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
 related_article2:
-    id: 163691
-    title: How does subjective knowledge contribute to qualitative research?
+    id: 163694
+    title: >-
+        What is naturalism, and why is it important in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
+    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
 related_article3:
-    id: 163675
-    title: What is the difference between objective and subjective knowledge in epistemology?
+    id: 163673
+    title: >-
+        What is ontology, and why is it important in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+    url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
 related_article4:
-    id: 163677
-    title: What are the key characteristics of qualitative research paradigms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
-related_article5:
     id: 163675
-    title: What is the difference between objective and subjective knowledge in epistemology?
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+related_article5:
+    id: 163680
+    title: >-
+        How is deductive reasoning used in quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164476
 date: 2025-01-28
-title: How do converging methods in neuroscience validate findings across different evidence sources?
-article_title: How do converging methods in neuroscience validate findings across different evidence sources?
+title: >-
+    How do converging methods in neuroscience validate findings across different evidence sources?
+article_title: >-
+    How do converging methods in neuroscience validate findings across different evidence sources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-converging-methods-in-neuroscience-validate-findings-across-di
 url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
 score: -1.0
 related_article1:
-    id: 164468
-    title: How does functional specialization relate to neuropsychology and memory formation?
+    id: 164463
+    title: >-
+        What are the main differences between route-based and cognitive map navigation strategies?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
 related_article2:
-    id: 164475
-    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
-related_article3:
     id: 164460
-    title: How do patient studies provide evidence for understanding object relationships?
+    title: >-
+        How do patient studies provide evidence for understanding object relationships?
     subject: Psychology
     url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
+related_article3:
+    id: 164465
+    title: >-
+        What is the significance of interval and ratio scales in understanding metrics for relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
 related_article4:
-    id: 164464
-    title: How does aphantasia affect cognitive map strategy and navigation?
+    id: 164463
+    title: >-
+        What are the main differences between route-based and cognitive map navigation strategies?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
+    url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
 related_article5:
-    id: 164467
-    title: What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
 ---
 
 &nbsp;

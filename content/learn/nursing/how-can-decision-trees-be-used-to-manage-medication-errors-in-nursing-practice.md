@@ -2,8 +2,10 @@
 _schema: default
 id: 169606
 date: 2025-02-05
-title: How can decision trees be used to manage medication errors in nursing practice?
-article_title: How can decision trees be used to manage medication errors in nursing practice?
+title: >-
+    How can decision trees be used to manage medication errors in nursing practice?
+article_title: >-
+    How can decision trees be used to manage medication errors in nursing practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-decision-trees-be-used-to-manage-medication-errors-in-nursing
 url: /learn/nursing/questions/how-can-decision-trees-be-used-to-manage-medication-errors-in-nursing-practice
 score: -1.0
 related_article1:
-    id: 169610
-    title: How can nurses manage emotionally charged situations to build trust with patients?
+    id: 169605
+    title: >-
+        What are the differences between routine and complex decision-making in nursing, and how does critical thinking apply to each?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
+    url: /learn/nursing/questions/what-are-the-differences-between-routine-and-complex-decisionmaking-in-nursing-and-how-does-critical-thinking-apply-to-each
 related_article2:
-    id: 169601
-    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    id: 169608
+    title: >-
+        How can teamwork and collaboration be improved in healthcare settings to enhance patient care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
+    url: /learn/nursing/questions/how-can-teamwork-and-collaboration-be-improved-in-healthcare-settings-to-enhance-patient-care
 related_article3:
-    id: 169612
-    title: How can social awareness and relationship management improve interactions in healthcare settings?
+    id: 169602
+    title: >-
+        How can nurses effectively manage stress to prevent burnout and its impact on patient care?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-social-awareness-and-relationship-management-improve-interactions-in-healthcare-settings
+    url: /learn/nursing/questions/how-can-nurses-effectively-manage-stress-to-prevent-burnout-and-its-impact-on-patient-care
 related_article4:
     id: 169610
-    title: How can nurses manage emotionally charged situations to build trust with patients?
+    title: >-
+        How can nurses manage emotionally charged situations to build trust with patients?
     subject: Nursing
     url: /learn/nursing/questions/how-can-nurses-manage-emotionally-charged-situations-to-build-trust-with-patients
 related_article5:
     id: 169601
-    title: What are some key strategies for building resilience in nursing, especially during long shifts?
+    title: >-
+        What are some key strategies for building resilience in nursing, especially during long shifts?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-key-strategies-for-building-resilience-in-nursing-especially-during-long-shifts
 ---

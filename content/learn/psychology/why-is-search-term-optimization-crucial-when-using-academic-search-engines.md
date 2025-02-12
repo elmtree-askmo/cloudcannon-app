@@ -2,8 +2,10 @@
 _schema: default
 id: 165213
 date: 2025-01-28
-title: Why is search term optimization crucial when using academic search engines?
-article_title: Why is search term optimization crucial when using academic search engines?
+title: >-
+    Why is search term optimization crucial when using academic search engines?
+article_title: >-
+    Why is search term optimization crucial when using academic search engines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/why-is-search-term-optimization-crucial-when-us
 score: -1.0
 related_article1:
     id: 165214
-    title: What is the primary purpose of conducting a literature review in research?
+    title: >-
+        What is the primary purpose of conducting a literature review in research?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-primary-purpose-of-conducting-a-literature-review-in-research
 related_article2:
-    id: 165220
-    title: Why are abstracts important in academic papers and how do they guide research decisions?
+    id: 165211
+    title: >-
+        What are the main features and benefits of using Google Scholar for academic research?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-abstracts-important-in-academic-papers-and-how-do-they-guide-research-decisions
+    url: /learn/psychology/questions/what-are-the-main-features-and-benefits-of-using-google-scholar-for-academic-research
 related_article3:
-    id: 165219
-    title: What are the challenges associated with semantic analysis in research?
+    id: 165216
+    title: >-
+        What are some common mistakes to avoid in APA citation format?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-associated-with-semantic-analysis-in-research
+    url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
 related_article4:
-    id: 165209
-    title: How do independent and dependent variables influence research design?
+    id: 165212
+    title: >-
+        How does PubMed specialize in its focus compared to other search engines?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-independent-and-dependent-variables-influence-research-design
+    url: /learn/psychology/questions/how-does-pubmed-specialize-in-its-focus-compared-to-other-search-engines
 related_article5:
-    id: 165224
-    title: How is FITS Law relevant in psychology and what are its applications?
+    id: 165216
+    title: >-
+        What are some common mistakes to avoid in APA citation format?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-fits-law-relevant-in-psychology-and-what-are-its-applications
+    url: /learn/psychology/questions/what-are-some-common-mistakes-to-avoid-in-apa-citation-format
 ---
 
 &nbsp;

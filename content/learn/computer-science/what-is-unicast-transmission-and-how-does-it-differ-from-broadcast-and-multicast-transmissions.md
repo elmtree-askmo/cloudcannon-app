@@ -2,8 +2,10 @@
 _schema: default
 id: 165692
 date: 2025-01-29
-title: What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
-article_title: What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
+title: >-
+    What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
+article_title: >-
+    What is unicast transmission, and how does it differ from broadcast and multicast transmissions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-unicast-transmission-and-how-does-it-differ-from-broadcast-an
 url: /learn/computer-science/questions/what-is-unicast-transmission-and-how-does-it-differ-from-broadcast-and-multicast-transmissions
 score: -1.0
 related_article1:
-    id: 165698
-    title: Describe the prefix and address range of Class B IPv4 addresses.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
-related_article2:
-    id: 165691
-    title: Why is the subnet mask important in determining the number of hosts in a network?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-subnet-mask-important-in-determining-the-number-of-hosts-in-a-network
-related_article3:
-    id: 165698
-    title: Describe the prefix and address range of Class B IPv4 addresses.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
-related_article4:
     id: 165696
-    title: Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
+    title: >-
+        Identify special use IPv4 addresses and their purposes, including network, broadcast, loopback, and link-local addresses.
     subject: Computer Science
     url: /learn/computer-science/questions/identify-special-use-ipv4-addresses-and-their-purposes-including-network-broadcast-loopback-and-linklocal-addresses
-related_article5:
+related_article2:
     id: 165687
-    title: What is a subnet mask, and how does it define the network and host portions of an IPv4 address?
+    title: >-
+        What is a subnet mask, and how does it define the network and host portions of an IPv4 address?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-a-subnet-mask-and-how-does-it-define-the-network-and-host-portions-of-an-ipv4-address
+related_article3:
+    id: 165688
+    title: >-
+        Explain the binary representation of a subnet mask and how it divides the network.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-binary-representation-of-a-subnet-mask-and-how-it-divides-the-network
+related_article4:
+    id: 165687
+    title: >-
+        What is a subnet mask, and how does it define the network and host portions of an IPv4 address?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-subnet-mask-and-how-does-it-define-the-network-and-host-portions-of-an-ipv4-address
+related_article5:
+    id: 165702
+    title: >-
+        How does classless IPv4 addressing utilize the subnet mask, and what is its current usage in networks?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-classless-ipv4-addressing-utilize-the-subnet-mask-and-what-is-its-current-usage-in-networks
 ---
 
 &nbsp;

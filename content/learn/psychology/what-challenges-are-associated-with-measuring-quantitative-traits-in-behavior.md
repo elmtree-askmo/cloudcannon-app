@@ -2,8 +2,10 @@
 _schema: default
 id: 170882
 date: 2025-02-07
-title: What challenges are associated with measuring quantitative traits in behavior?
-article_title: What challenges are associated with measuring quantitative traits in behavior?
+title: >-
+    What challenges are associated with measuring quantitative traits in behavior?
+article_title: >-
+    What challenges are associated with measuring quantitative traits in behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-are-associated-with-measuring-quantitative-traits-in-
 url: /learn/psychology/questions/what-challenges-are-associated-with-measuring-quantitative-traits-in-behavior
 score: -1.0
 related_article1:
-    id: 170883
-    title: How does natural selection influence fitness-enhancing behaviors?
+    id: 170890
+    title: >-
+        How does energy expenditure relate to behavioral traits?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
+    url: /learn/psychology/questions/how-does-energy-expenditure-relate-to-behavioral-traits
 related_article2:
-    id: 170883
-    title: How does natural selection influence fitness-enhancing behaviors?
+    id: 170886
+    title: >-
+        Explain the concept of the law of diminishing returns in the context of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-influence-fitnessenhancing-behaviors
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
 related_article3:
-    id: 170885
-    title: How does cost-benefit analysis apply to fitness costs and benefits in behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-costbenefit-analysis-apply-to-fitness-costs-and-benefits-in-behavior
-related_article4:
     id: 170889
-    title: What mechanisms drive the evolution of behavior?
+    title: >-
+        What mechanisms drive the evolution of behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-mechanisms-drive-the-evolution-of-behavior
-related_article5:
-    id: 170892
-    title: How do mathematical models contribute to optimization in biological systems?
+related_article4:
+    id: 170886
+    title: >-
+        Explain the concept of the law of diminishing returns in the context of behavior.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-mathematical-models-contribute-to-optimization-in-biological-systems
+    url: /learn/psychology/questions/explain-the-concept-of-the-law-of-diminishing-returns-in-the-context-of-behavior
+related_article5:
+    id: 170884
+    title: >-
+        What is the role of mathematical optimization in optimal behavior theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-mathematical-optimization-in-optimal-behavior-theory
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161688
 date: 2025-01-24
-title: Why is accuracy important in the quality of information, and what factors can affect it?
-article_title: Why is accuracy important in the quality of information, and what factors can affect it?
+title: >-
+    Why is accuracy important in the quality of information, and what factors can affect it?
+article_title: >-
+    Why is accuracy important in the quality of information, and what factors can affect it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-accuracy-important-in-the-quality-of-information-and-what-fact
 url: /learn/computer-science/questions/why-is-accuracy-important-in-the-quality-of-information-and-what-factors-can-affect-it
 score: -1.0
 related_article1:
-    id: 161428
-    title: How does context contribute to transforming data into useful information?
+    id: 161491
+    title: >-
+        What are the characteristics of direct data and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-context-contribute-to-transforming-data-into-useful-information
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article2:
-    id: 161504
-    title: What is the purpose of data validation and how do range checks and type checks function?
+    id: 161511
+    title: >-
+        What are the main components of an information system and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article3:
-    id: 161668
-    title: How does data verification ensure data accuracy and what are the methods used?
+    id: 161705
+    title: >-
+        Why is data analysis important, and what techniques and tools are commonly used?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
+    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-techniques-and-tools-are-commonly-used
 related_article4:
-    id: 161489
-    title: What is the definition of data and why is raw data considered meaningless?
+    id: 161684
+    title: >-
+        What is the definition of data and why is raw data considered meaningless?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
 related_article5:
-    id: 161706
-    title: What are the main components of an information system, and how do they interact?
+    id: 161428
+    title: >-
+        How does context contribute to transforming data into useful information?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/computer-science/questions/how-does-context-contribute-to-transforming-data-into-useful-information
 ---
 
 &nbsp;

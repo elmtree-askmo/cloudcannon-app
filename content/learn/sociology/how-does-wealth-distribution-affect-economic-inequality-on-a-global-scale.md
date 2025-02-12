@@ -2,8 +2,10 @@
 _schema: default
 id: 165998
 date: 2025-01-29
-title: How does wealth distribution affect economic inequality on a global scale?
-article_title: How does wealth distribution affect economic inequality on a global scale?
+title: >-
+    How does wealth distribution affect economic inequality on a global scale?
+article_title: >-
+    How does wealth distribution affect economic inequality on a global scale?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-wealth-distribution-affect-economic-inequality-on-a-global-s
 url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-on-a-global-scale
 score: -1.0
 related_article1:
-    id: 166000
-    title: How do cultural resistance movements work to preserve traditions in the face of globalization?
+    id: 165995
+    title: >-
+        What are the primary security concerns related to political instability and terrorism?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
+    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
 related_article2:
-    id: 165981
-    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
 related_article3:
-    id: 165988
-    title: What are the modern implications of neocolonial practices in terms of economic influence?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-modern-implications-of-neocolonial-practices-in-terms-of-economic-influence
-related_article4:
     id: 165982
-    title: How has technological integration influenced contemporary globalization?
+    title: >-
+        How has technological integration influenced contemporary globalization?
     subject: Sociology
     url: /learn/sociology/questions/how-has-technological-integration-influenced-contemporary-globalization
-related_article5:
-    id: 165992
-    title: In what ways do media and entertainment influence cultural connectivity on a global scale?
+related_article4:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-media-and-entertainment-influence-cultural-connectivity-on-a-global-scale
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
+related_article5:
+    id: 165993
+    title: >-
+        What are the major environmental challenges associated with climate change?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-major-environmental-challenges-associated-with-climate-change
 ---
 
 &nbsp;

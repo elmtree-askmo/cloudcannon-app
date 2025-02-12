@@ -2,8 +2,10 @@
 _schema: default
 id: 167658
 date: 2025-01-31
-title: What are the similarities and differences between Greek and Egyptian creation myths?
-article_title: What are the similarities and differences between Greek and Egyptian creation myths?
+title: >-
+    What are the similarities and differences between Greek and Egyptian creation myths?
+article_title: >-
+    What are the similarities and differences between Greek and Egyptian creation myths?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-similarities-and-differences-between-greek-and-egyptian-
 url: /learn/education-studies/questions/what-are-the-similarities-and-differences-between-greek-and-egyptian-creation-myths
 score: -1.0
 related_article1:
-    id: 167650
-    title: How do divine beings contribute to the emergence of order in Greek mythology?
+    id: 167659
+    title: >-
+        What is the role of Prometheus in the creation of humans according to Greek mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-divine-beings-contribute-to-the-emergence-of-order-in-greek-mythology
+    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
 related_article2:
-    id: 167649
-    title: What is the significance of chaos in Greek creation myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
-related_article3:
-    id: 167661
-    title: How have Greek myths influenced modern art and literature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-have-greek-myths-influenced-modern-art-and-literature
-related_article4:
     id: 167651
-    title: What are the main themes of Hesiod's Theogony?
+    title: >-
+        What are the main themes of Hesiod's Theogony?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-themes-of-hesiods-theogony
-related_article5:
-    id: 167654
-    title: What is structuralism, and how is it applied to the analysis of Greek myths?
+related_article3:
+    id: 167663
+    title: >-
+        How do myths function socially and culturally in ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-structuralism-and-how-is-it-applied-to-the-analysis-of-greek-myths
+    url: /learn/education-studies/questions/how-do-myths-function-socially-and-culturally-in-ancient-societies
+related_article4:
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
+related_article5:
+    id: 167656
+    title: >-
+        What role do myths play in ancient Greek religion and worship practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-myths-play-in-ancient-greek-religion-and-worship-practices
 ---
 
 &nbsp;

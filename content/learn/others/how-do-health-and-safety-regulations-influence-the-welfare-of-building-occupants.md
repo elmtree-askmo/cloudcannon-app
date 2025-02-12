@@ -2,8 +2,10 @@
 _schema: default
 id: 168654
 date: 2025-02-03
-title: How do health and safety regulations influence the welfare of building occupants?
-article_title: How do health and safety regulations influence the welfare of building occupants?
+title: >-
+    How do health and safety regulations influence the welfare of building occupants?
+article_title: >-
+    How do health and safety regulations influence the welfare of building occupants?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-health-and-safety-regulations-influence-the-welfare-of-buildin
 url: /learn/others/questions/how-do-health-and-safety-regulations-influence-the-welfare-of-building-occupants
 score: -1.0
 related_article1:
-    id: 168652
-    title: How do interior designers collaborate with architects and engineers in the design and construction team?
+    id: 168660
+    title: >-
+        What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
     subject: Others
-    url: /learn/others/questions/how-do-interior-designers-collaborate-with-architects-and-engineers-in-the-design-and-construction-team
+    url: /learn/others/questions/what-are-the-essential-elements-of-emergency-egress-planning-particularly-regarding-corridors-and-aisles
 related_article2:
     id: 168656
-    title: How do non load-bearing walls and room partitions contribute to interior construction features?
+    title: >-
+        How do non load-bearing walls and room partitions contribute to interior construction features?
     subject: Others
     url: /learn/others/questions/how-do-non-loadbearing-walls-and-room-partitions-contribute-to-interior-construction-features
 related_article3:
-    id: 168651
-    title: What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
+    id: 168662
+    title: >-
+        How do qualified interior designers contribute to creating safe and functional environments?
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
+    url: /learn/others/questions/how-do-qualified-interior-designers-contribute-to-creating-safe-and-functional-environments
 related_article4:
-    id: 168659
-    title: What materials are considered appropriate for walls and ceilings to ensure fire safety?
+    id: 168653
+    title: >-
+        What are the key components of drafting construction documents in compliance with state and local building codes?
     subject: Others
-    url: /learn/others/questions/what-materials-are-considered-appropriate-for-walls-and-ceilings-to-ensure-fire-safety
+    url: /learn/others/questions/what-are-the-key-components-of-drafting-construction-documents-in-compliance-with-state-and-local-building-codes
 related_article5:
-    id: 168655
-    title: What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
+    id: 168660
+    title: >-
+        What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
     subject: Others
-    url: /learn/others/questions/what-are-the-considerations-for-selecting-materials-based-on-fire-separation-requirements-and-flammability-ratings
+    url: /learn/others/questions/what-are-the-essential-elements-of-emergency-egress-planning-particularly-regarding-corridors-and-aisles
 ---
 
 &nbsp;

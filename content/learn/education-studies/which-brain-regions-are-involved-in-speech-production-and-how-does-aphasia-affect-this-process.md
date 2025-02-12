@@ -2,8 +2,10 @@
 _schema: default
 id: 164522
 date: 2025-01-28
-title: Which brain regions are involved in speech production, and how does aphasia affect this process?
-article_title: Which brain regions are involved in speech production, and how does aphasia affect this process?
+title: >-
+    Which brain regions are involved in speech production, and how does aphasia affect this process?
+article_title: >-
+    Which brain regions are involved in speech production, and how does aphasia affect this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: which-brain-regions-are-involved-in-speech-production-and-how-does-ap
 url: /learn/education-studies/questions/which-brain-regions-are-involved-in-speech-production-and-how-does-aphasia-affect-this-process
 score: -1.0
 related_article1:
-    id: 164513
-    title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+    id: 164515
+    title: >-
+        What is the significance of semantics in language, and how does damage to posterior language regions affect it?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
+    url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
 related_article2:
-    id: 164513
-    title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
-related_article3:
-    id: 164517
-    title: How do different brain imaging techniques compare in their application to cognitive neuroscience?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-different-brain-imaging-techniques-compare-in-their-application-to-cognitive-neuroscience
-related_article4:
     id: 164508
-    title: How does TMS contribute to understanding vision and motion detection?
+    title: >-
+        How does TMS contribute to understanding vision and motion detection?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
-related_article5:
-    id: 164512
-    title: How does Wernicke's aphasia affect speech comprehension?
+related_article3:
+    id: 164515
+    title: >-
+        What is the significance of semantics in language, and how does damage to posterior language regions affect it?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-wernickes-aphasia-affect-speech-comprehension
+    url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
+related_article4:
+    id: 164510
+    title: >-
+        Why are ERP components important in cognitive processing studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
+related_article5:
+    id: 164518
+    title: >-
+        What are the defining characteristics of dyslexia, and how prevalent is it?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 ---
 
 &nbsp;

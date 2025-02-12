@@ -2,8 +2,10 @@
 _schema: default
 id: 166611
 date: 2025-01-30
-title: How did Socratic philosophy influence Western thought?
-article_title: How did Socratic philosophy influence Western thought?
+title: >-
+    How did Socratic philosophy influence Western thought?
+article_title: >-
+    How did Socratic philosophy influence Western thought?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-socratic-philosophy-influence-western-thought.md
 url: /learn/education-studies/questions/how-did-socratic-philosophy-influence-western-thought
 score: -1.0
 related_article1:
+    id: 166602
+    title: >-
+        What are the meanings of the political terms 'Basilius' and 'Archon' in ancient Greece?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-meanings-of-the-political-terms-basilius-and-archon-in-ancient-greece
+related_article2:
+    id: 166602
+    title: >-
+        What are the meanings of the political terms 'Basilius' and 'Archon' in ancient Greece?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-meanings-of-the-political-terms-basilius-and-archon-in-ancient-greece
+related_article3:
     id: 166605
-    title: How has the Greek language influenced modern English vocabulary?
+    title: >-
+        How has the Greek language influenced modern English vocabulary?
     subject: Education Studies
     url: /learn/education-studies/questions/how-has-the-greek-language-influenced-modern-english-vocabulary
-related_article2:
-    id: 166612
-    title: What is the role of a 'Hoplite' in ancient Greek military terminology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-a-hoplite-in-ancient-greek-military-terminology
-related_article3:
-    id: 166600
-    title: What are some challenges faced in the transliteration of Greek names into English?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-challenges-faced-in-the-transliteration-of-greek-names-into-english
 related_article4:
-    id: 166612
-    title: What is the role of a 'Hoplite' in ancient Greek military terminology?
+    id: 166601
+    title: >-
+        Who are the major Greek gods and goddesses, and what are their relationships?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-a-hoplite-in-ancient-greek-military-terminology
+    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
 related_article5:
-    id: 166599
-    title: How do diacritics in Greek affect the pronunciation of names like Helen and Hermes?
+    id: 166601
+    title: >-
+        Who are the major Greek gods and goddesses, and what are their relationships?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-diacritics-in-greek-affect-the-pronunciation-of-names-like-helen-and-hermes
+    url: /learn/education-studies/questions/who-are-the-major-greek-gods-and-goddesses-and-what-are-their-relationships
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161134
 date: 2025-01-24
-title: What is the P vs NP problem and why is it significant in computational theory?
-article_title: What is the P vs NP problem and why is it significant in computational theory?
+title: >-
+    What is the P vs NP problem and why is it significant in computational theory?
+article_title: >-
+    What is the P vs NP problem and why is it significant in computational theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-p-vs-np-problem-and-why-is-it-significant-in-computationa
 url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-significant-in-computational-theory
 score: -1.0
 related_article1:
-    id: 160966
-    title: How do static and dynamic analysis techniques differ in algorithm development?
+    id: 160801
+    title: >-
+        How can abstraction aid in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
 related_article2:
-    id: 161133
-    title: Describe the proof by contradiction technique and its application in proving unsolvable problems.
+    id: 161145
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-proof-by-contradiction-technique-and-its-application-in-proving-unsolvable-problems
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
 related_article3:
-    id: 160814
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 160965
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
 related_article4:
-    id: 161102
-    title: What is the P vs NP problem, and why is it important in computational theory?
+    id: 161091
+    title: >-
+        What role does abstraction play in algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
+    url: /learn/computer-science/questions/what-role-does-abstraction-play-in-algorithm-design
 related_article5:
-    id: 161275
-    title: What defines an efficient algorithm in complexity theory?
+    id: 161143
+    title: >-
+        How does the concept of cardinality apply to comparing infinite sets?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
+    url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
 ---
 
 &nbsp;

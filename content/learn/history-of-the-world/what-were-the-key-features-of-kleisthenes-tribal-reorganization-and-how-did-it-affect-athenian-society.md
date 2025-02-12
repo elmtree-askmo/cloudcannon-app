@@ -2,8 +2,10 @@
 _schema: default
 id: 166026
 date: 2025-01-29
-title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
-article_title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+title: >-
+    What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+article_title: >-
+    What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-h
 url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
 score: 9.0
 related_article1:
-    id: 166027
-    title: What were the main characteristics of the mythical kingship and aristocracy in Athens' historical context?
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-mythical-kingship-and-aristocracy-in-athens-historical-context
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 related_article2:
-    id: 166035
-    title: How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
+    id: 166037
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
+    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
 related_article3:
-    id: 166036
-    title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    id: 166017
+    title: >-
+        What was the historical significance of Athens as an urban center in ancient times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
+    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
 related_article4:
     id: 166029
-    title: What were the defining characteristics of oligarchic factions in ancient Athens?
+    title: >-
+        What were the defining characteristics of oligarchic factions in ancient Athens?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
 related_article5:
-    id: 166017
-    title: What was the historical significance of Athens as an urban center in ancient times?
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163595
 date: 2025-01-27
-title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
-article_title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
+title: >-
+    What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
+article_title: >-
+    What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-mythological-background-of-the-dorian-invasion-and-how-di
 url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
 score: 8.5
 related_article1:
-    id: 163587
-    title: Why are certain Greek terms left untranslated in English scholarship?
+    id: 163593
+    title: >-
+        Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
+    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
 related_article2:
-    id: 163600
-    title: What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
+    id: 163601
+    title: >-
+        What challenges are faced in interpreting archaeological evidence from Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
+    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
 related_article3:
-    id: 163594
-    title: What was the Agoge system, and what role did it play in Spartan education and training?
+    id: 163599
+    title: >-
+        How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
+    url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
 related_article4:
-    id: 163591
-    title: How did Sparta's urban development compare to that of Athens?
+    id: 163586
+    title: >-
+        What are some challenges in pronouncing Greek terms when using the Latin alphabet?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
+    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
 related_article5:
-    id: 163604
-    title: How did the agricultural basis of the Spartan economy rely on the Helots?
+    id: 163586
+    title: >-
+        What are some challenges in pronouncing Greek terms when using the Latin alphabet?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
+    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
 ---
 
 &nbsp;

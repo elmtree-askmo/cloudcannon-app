@@ -2,8 +2,10 @@
 _schema: default
 id: 169237
 date: 2025-02-04
-title: What are the potential effects of proportional representation on political stability?
-article_title: What are the potential effects of proportional representation on political stability?
+title: >-
+    What are the potential effects of proportional representation on political stability?
+article_title: >-
+    What are the potential effects of proportional representation on political stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-effects-of-proportional-representation-on-poli
 url: /learn/history-of-the-world/questions/what-are-the-potential-effects-of-proportional-representation-on-political-stability
 score: 8.5
 related_article1:
+    id: 169234
+    title: >-
+        How did the introduction of women's suffrage impact voting rights historically?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-introduction-of-womens-suffrage-impact-voting-rights-historically
+related_article2:
     id: 169232
-    title: How do fixed election dates differ between the federal and provincial systems in Canada?
+    title: >-
+        How do fixed election dates differ between the federal and provincial systems in Canada?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-fixed-election-dates-differ-between-the-federal-and-provincial-systems-in-canada
-related_article2:
-    id: 169245
-    title: What is the significance of vote distribution in determining political efficiency and electoral outcomes?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-vote-distribution-in-determining-political-efficiency-and-electoral-outcomes
 related_article3:
-    id: 169247
-    title: What are some recent trends in the Canadian political landscape that could influence future election projections?
+    id: 169241
+    title: >-
+        What are the main challenges faced by minority governments in forming coalitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-recent-trends-in-the-canadian-political-landscape-that-could-influence-future-election-projections
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-by-minority-governments-in-forming-coalitions
 related_article4:
     id: 169235
-    title: What are the implications of lowering the voting age on voter turnout?
+    title: >-
+        What are the implications of lowering the voting age on voter turnout?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-implications-of-lowering-the-voting-age-on-voter-turnout
 related_article5:
-    id: 169241
-    title: What are the main challenges faced by minority governments in forming coalitions?
+    id: 169240
+    title: >-
+        How does strategic voting affect election outcomes?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-by-minority-governments-in-forming-coalitions
+    url: /learn/history-of-the-world/questions/how-does-strategic-voting-affect-election-outcomes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169817
 date: 2025-02-05
-title: How does body language influence interpersonal communication?
-article_title: How does body language influence interpersonal communication?
+title: >-
+    How does body language influence interpersonal communication?
+article_title: >-
+    How does body language influence interpersonal communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-body-language-influence-interpersonal-communication.md
 url: /learn/nursing/questions/how-does-body-language-influence-interpersonal-communication
 score: -1.0
 related_article1:
-    id: 169814
-    title: What steps can be taken to enhance cultural competence?
+    id: 169813
+    title: >-
+        How does cultural awareness impact patient care?
     subject: Nursing
-    url: /learn/nursing/questions/what-steps-can-be-taken-to-enhance-cultural-competence
+    url: /learn/nursing/questions/how-does-cultural-awareness-impact-patient-care
 related_article2:
-    id: 169812
-    title: What are effective ways to receive and respond to feedback for personal growth?
+    id: 169820
+    title: >-
+        What strategies can improve decision-making skills?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+    url: /learn/nursing/questions/what-strategies-can-improve-decisionmaking-skills
 related_article3:
-    id: 169808
-    title: What strategies can be used to build strong interpersonal relationships?
+    id: 169809
+    title: >-
+        Why is empathy important in understanding others?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-used-to-build-strong-interpersonal-relationships
+    url: /learn/nursing/questions/why-is-empathy-important-in-understanding-others
 related_article4:
-    id: 169812
-    title: What are effective ways to receive and respond to feedback for personal growth?
+    id: 169823
+    title: >-
+        What is the role of self-reflection in personal growth and development?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+    url: /learn/nursing/questions/what-is-the-role-of-selfreflection-in-personal-growth-and-development
 related_article5:
-    id: 169812
-    title: What are effective ways to receive and respond to feedback for personal growth?
+    id: 169822
+    title: >-
+        How can reflection models benefit professional development?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-effective-ways-to-receive-and-respond-to-feedback-for-personal-growth
+    url: /learn/nursing/questions/how-can-reflection-models-benefit-professional-development
 ---
 
 &nbsp;

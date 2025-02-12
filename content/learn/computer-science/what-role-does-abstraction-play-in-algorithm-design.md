@@ -2,8 +2,10 @@
 _schema: default
 id: 161091
 date: 2025-01-24
-title: What role does abstraction play in algorithm design?
-article_title: What role does abstraction play in algorithm design?
+title: >-
+    What role does abstraction play in algorithm design?
+article_title: >-
+    What role does abstraction play in algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-abstraction-play-in-algorithm-design.md
 url: /learn/computer-science/questions/what-role-does-abstraction-play-in-algorithm-design
 score: -1.0
 related_article1:
-    id: 161148
-    title: What is the significance of cardinality in defining complexity and algorithm design?
+    id: 160818
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
+    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
 related_article2:
-    id: 160807
-    title: Describe the traveling salesman problem and its significance in NP-completeness.
+    id: 161102
+    title: >-
+        What is the P vs NP problem, and why is it important in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-traveling-salesman-problem-and-its-significance-in-npcompleteness
+    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
 related_article3:
-    id: 161287
-    title: How do infinite sets impact computability and set theory?
+    id: 161273
+    title: >-
+        What is the P vs NP problem, and why is it important in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-infinite-sets-impact-computability-and-set-theory
+    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
 related_article4:
-    id: 161084
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 160806
+    title: >-
+        What is the P vs NP problem, and why is it important in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
 related_article5:
-    id: 161148
-    title: What is the significance of cardinality in defining complexity and algorithm design?
+    id: 160968
+    title: >-
+        How does understanding cardinality impact set theory and computability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
+    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
 ---
 
 &nbsp;

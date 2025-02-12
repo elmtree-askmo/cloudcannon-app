@@ -2,8 +2,10 @@
 _schema: default
 id: 164656
 date: 2025-01-28
-title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
-article_title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+title: >-
+    What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+article_title: >-
+    What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it
 url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
 score: -1.0
 related_article1:
-    id: 164647
-    title: How does damage to the occipital lobe affect visual pathways?
+    id: 164658
+    title: >-
+        How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
+    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
 related_article2:
-    id: 164650
-    title: What are the symptoms of hemianopia and how does it affect daily life?
+    id: 164653
+    title: >-
+        How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
+    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
 related_article3:
-    id: 164650
-    title: What are the symptoms of hemianopia and how does it affect daily life?
+    id: 164655
+    title: >-
+        How does the fovea contribute to the portable magnification factor?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
+    url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
 related_article4:
-    id: 164651
-    title: What causes scotoma and how does it differ from hemianopia?
+    id: 164658
+    title: >-
+        How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
     subject: Psychology
-    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
+    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
 related_article5:
-    id: 164654
-    title: What is the portable magnification factor and why is it important in visual perception?
+    id: 164653
+    title: >-
+        How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
+    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
 ---
 
 &nbsp;

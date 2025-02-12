@@ -2,8 +2,10 @@
 _schema: default
 id: 166137
 date: 2025-01-29
-title: What is the role of payoff matrices in game theory?
-article_title: What is the role of payoff matrices in game theory?
+title: >-
+    What is the role of payoff matrices in game theory?
+article_title: >-
+    What is the role of payoff matrices in game theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-payoff-matrices-in-game-theory.md
 url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
 score: -1.0
 related_article1:
-    id: 166140
-    title: How does habitat fragmentation affect metapopulation dynamics?
+    id: 166138
+    title: >-
+        How do foraging behaviors influence an animal's fitness in behavioral ecology?
     subject: Biology
-    url: /learn/biology/questions/how-does-habitat-fragmentation-affect-metapopulation-dynamics
+    url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
 related_article2:
-    id: 166141
-    title: What are the key differences between endoparasites and ectoparasites?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
-related_article3:
-    id: 166151
-    title: What is the significance of measuring prevalence in infection dynamics?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
-related_article4:
-    id: 166142
-    title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
-    subject: Biology
-    url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
-related_article5:
     id: 166139
-    title: What distinguishes exponential growth from logistic growth in population dynamics?
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
     subject: Biology
     url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
+related_article3:
+    id: 166152
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
+    subject: Biology
+    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
+related_article4:
+    id: 166144
+    title: >-
+        How do transmission dynamics of COVID-19 differ from other infectious diseases?
+    subject: Biology
+    url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
+related_article5:
+    id: 166147
+    title: >-
+        What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    subject: Biology
+    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
 ---
 
 &nbsp;

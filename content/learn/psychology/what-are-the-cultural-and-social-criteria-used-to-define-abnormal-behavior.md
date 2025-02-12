@@ -2,8 +2,10 @@
 _schema: default
 id: 163631
 date: 2025-01-27
-title: What are the cultural and social criteria used to define abnormal behavior?
-article_title: What are the cultural and social criteria used to define abnormal behavior?
+title: >-
+    What are the cultural and social criteria used to define abnormal behavior?
+article_title: >-
+    What are the cultural and social criteria used to define abnormal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-cultural-and-social-criteria-used-to-define-abnormal-beh
 url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
 score: -1.0
 related_article1:
-    id: 163636
-    title: How prevalent is psychopathy in the general population compared to the incarcerated population?
+    id: 163637
+    title: >-
+        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
     subject: Psychology
-    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 related_article2:
-    id: 163633
-    title: What are the core symptoms of conduct disorder related to aggression and intimidation?
+    id: 163635
+    title: >-
+        What are the key signs of psychopathy related to lack of empathy and guilt?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-symptoms-of-conduct-disorder-related-to-aggression-and-intimidation
+    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
 related_article3:
-    id: 163642
-    title: What are the developmental aspects of empathy and guilt in childhood?
+    id: 163637
+    title: >-
+        What is the societal impact of antisocial behavior in terms of economic and emotional burden?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-aspects-of-empathy-and-guilt-in-childhood
+    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
 related_article4:
-    id: 163639
-    title: What are the biological, psychological, and social influences in the neuro-bio-psychosocial model?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-biological-psychological-and-social-influences-in-the-neurobiopsychosocial-model
-related_article5:
     id: 163629
-    title: What are the key findings from brain imaging studies on clinically antisocial youth?
+    title: >-
+        What are the key findings from brain imaging studies on clinically antisocial youth?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-findings-from-brain-imaging-studies-on-clinically-antisocial-youth
+related_article5:
+    id: 163636
+    title: >-
+        How prevalent is psychopathy in the general population compared to the incarcerated population?
+    subject: Psychology
+    url: /learn/psychology/questions/how-prevalent-is-psychopathy-in-the-general-population-compared-to-the-incarcerated-population
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167698
 date: 2025-01-31
-title: What are the key components of experimental design in psychological research?
-article_title: What are the key components of experimental design in psychological research?
+title: >-
+    What are the key components of experimental design in psychological research?
+article_title: >-
+    What are the key components of experimental design in psychological research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-experimental-design-in-psychological-r
 url: /learn/psychology/questions/what-are-the-key-components-of-experimental-design-in-psychological-research
 score: -1.0
 related_article1:
-    id: 167684
-    title: What are some challenges in defining normalcy in psychology?
+    id: 167687
+    title: >-
+        How can healthy behaviors be differentiated from unhealthy ones?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
 related_article2:
-    id: 167684
-    title: What are some challenges in defining normalcy in psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-challenges-in-defining-normalcy-in-psychology
-related_article3:
-    id: 167695
-    title: What are the modern views on dualism in neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
-related_article4:
     id: 167689
-    title: How is ASL utilized in psychological studies and what barriers exist?
+    title: >-
+        How is ASL utilized in psychological studies and what barriers exist?
     subject: Psychology
     url: /learn/psychology/questions/how-is-asl-utilized-in-psychological-studies-and-what-barriers-exist
-related_article5:
-    id: 167692
-    title: What are the core principles of Cognitive Behavioral Therapy?
+related_article3:
+    id: 167687
+    title: >-
+        How can healthy behaviors be differentiated from unhealthy ones?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+related_article4:
+    id: 167685
+    title: >-
+        How do perceptions of normalcy influence human behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+related_article5:
+    id: 167711
+    title: >-
+        What is the significance of cultural anthropology in understanding psychological practices?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-cultural-anthropology-in-understanding-psychological-practices
 ---
 
 &nbsp;

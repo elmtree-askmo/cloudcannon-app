@@ -2,8 +2,10 @@
 _schema: default
 id: 166148
 date: 2025-01-29
-title: How does niche partitioning facilitate coexistence among species?
-article_title: How does niche partitioning facilitate coexistence among species?
+title: >-
+    How does niche partitioning facilitate coexistence among species?
+article_title: >-
+    How does niche partitioning facilitate coexistence among species?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-niche-partitioning-facilitate-coexistence-among-species.md
 url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
 score: -1.0
 related_article1:
+    id: 166146
+    title: >-
+        How does carrying capacity influence population regulation in density-dependent growth?
+    subject: Biology
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
+related_article2:
+    id: 166143
+    title: >-
+        What are the main components of the SIR model in epidemiology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-components-of-the-sir-model-in-epidemiology
+related_article3:
     id: 166136
-    title: How does natural selection lead to the development of adaptive traits?
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
     subject: Biology
     url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
-related_article2:
-    id: 166141
-    title: What are the key differences between endoparasites and ectoparasites?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
-related_article3:
-    id: 166138
-    title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
-    subject: Biology
-    url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
 related_article4:
+    id: 166139
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
+related_article5:
     id: 166152
-    title: How can parasites manipulate host behavior to enhance their own transmission?
+    title: >-
+        How can parasites manipulate host behavior to enhance their own transmission?
     subject: Biology
     url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
-related_article5:
-    id: 166137
-    title: What is the role of payoff matrices in game theory?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
 ---
 
 &nbsp;

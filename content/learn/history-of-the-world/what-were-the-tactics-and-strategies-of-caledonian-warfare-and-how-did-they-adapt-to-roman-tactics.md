@@ -2,8 +2,10 @@
 _schema: default
 id: 170183
 date: 2025-02-06
-title: What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
-article_title: What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
+title: >-
+    What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
+article_title: >-
+    What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-di
 url: /learn/history-of-the-world/questions/what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-did-they-adapt-to-roman-tactics
 score: 8.5
 related_article1:
-    id: 170182
-    title: Describe the types and purposes of Roman inscriptions and the challenges in translating them.
+    id: 170187
+    title: >-
+        What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
+    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
 related_article2:
-    id: 170173
-    title: What are the main themes and historical context of Tacitus' 'Annals'?
+    id: 170181
+    title: >-
+        What insights into Roman life do the Vindolanda Tablets provide, and how are they preserved and studied?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
+    url: /learn/history-of-the-world/questions/what-insights-into-roman-life-do-the-vindolanda-tablets-provide-and-how-are-they-preserved-and-studied
 related_article3:
-    id: 170186
-    title: How did Roman-British relations evolve during the initial contact and conquest period?
+    id: 170185
+    title: >-
+        Analyze the structure and historical significance of Tacitus' 'Agricola'.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
+    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
 related_article4:
-    id: 170168
-    title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+    id: 170177
+    title: >-
+        What is the significance of Pictish stones in understanding Pictish art and symbolism?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
 related_article5:
-    id: 170173
-    title: What are the main themes and historical context of Tacitus' 'Annals'?
+    id: 170180
+    title: >-
+        What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
+    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
 ---
 
 &nbsp;

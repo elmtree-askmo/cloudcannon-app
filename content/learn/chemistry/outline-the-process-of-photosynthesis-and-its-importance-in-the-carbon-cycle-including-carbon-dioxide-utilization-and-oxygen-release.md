@@ -2,8 +2,10 @@
 _schema: default
 id: 170403
 date: 2025-02-06
-title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
-article_title: Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+title: >-
+    Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
+article_title: >-
+    Outline the process of photosynthesis and its importance in the carbon cycle, including carbon dioxide utilization and oxygen release.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: outline-the-process-of-photosynthesis-and-its-importance-in-the-carbo
 url: /learn/chemistry/questions/outline-the-process-of-photosynthesis-and-its-importance-in-the-carbon-cycle-including-carbon-dioxide-utilization-and-oxygen-release
 score: -1.0
 related_article1:
-    id: 170397
-    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    id: 170396
+    title: >-
+        How does carbon move between living and nonliving parts of Earth's subsystems, and what is the human influence on this movement?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+    url: /learn/chemistry/questions/how-does-carbon-move-between-living-and-nonliving-parts-of-earths-subsystems-and-what-is-the-human-influence-on-this-movement
 related_article2:
-    id: 170397
-    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    id: 170412
+    title: >-
+        How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+    url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
 related_article3:
-    id: 170416
-    title: Identify the main sources of carbon emissions and discuss strategies for their reduction.
-    subject: Chemistry
-    url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
-related_article4:
-    id: 170399
-    title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
-related_article5:
     id: 170394
-    title: What are the main components of the carbon cycle, and how do they interact with each other?
+    title: >-
+        What are the main components of the carbon cycle, and how do they interact with each other?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-main-components-of-the-carbon-cycle-and-how-do-they-interact-with-each-other
+related_article4:
+    id: 170415
+    title: >-
+        How does carbon flow affect ecosystem dynamics and health, and what is the impact of human influence?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-carbon-flow-affect-ecosystem-dynamics-and-health-and-what-is-the-impact-of-human-influence
+related_article5:
+    id: 170418
+    title: >-
+        Describe the methods and technologies involved in carbon capture and storage, and discuss the challenges and benefits.
+    subject: Chemistry
+    url: /learn/chemistry/questions/describe-the-methods-and-technologies-involved-in-carbon-capture-and-storage-and-discuss-the-challenges-and-benefits
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165951
 date: 2025-01-29
-title: What are the main characteristics and techniques associated with Impressionism?
-article_title: What are the main characteristics and techniques associated with Impressionism?
+title: >-
+    What are the main characteristics and techniques associated with Impressionism?
+article_title: >-
+    What are the main characteristics and techniques associated with Impressionism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-and-techniques-associated-with-impr
 url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
 score: 9.0
 related_article1:
-    id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
+    id: 165961
+    title: >-
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article2:
-    id: 165946
-    title: How did the First Impressionist Exhibition influence the development of Impressionist techniques?
+    id: 165961
+    title: >-
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article3:
-    id: 165941
-    title: What were the main reasons for the emergence of alternative art exhibitions in Paris?
+    id: 165961
+    title: >-
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article4:
-    id: 165956
-    title: How did Paris serve as an art hub and influence exhibition practices in the 19th century?
+    id: 165962
+    title: >-
+        What is the legacy of 19th-century art movements on contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
+    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
 related_article5:
-    id: 165957
-    title: What social and political influences affected art during the 19th century?
+    id: 165945
+    title: >-
+        Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-social-and-political-influences-affected-art-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169044
 date: 2025-02-04
-title: How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
-article_title: How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
+title: >-
+    How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
+article_title: >-
+    How did the nested spatial layout of Imperial Beijing transition into the Republican period, and what was its impact on public space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into
 url: /learn/sociology/questions/how-did-the-nested-spatial-layout-of-imperial-beijing-transition-into-the-republican-period-and-what-was-its-impact-on-public-space
 score: -1.0
 related_article1:
-    id: 169055
-    title: What is the political significance of spatial transformation in shaping public space and political action?
+    id: 169048
+    title: >-
+        Describe the transformation of Tiananmen Square from an empty space to a political symbol.
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
 related_article2:
-    id: 169054
-    title: How did the origin of Tiananmen Square contribute to its transformation into a political public space?
+    id: 169049
+    title: >-
+        What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-origin-of-tiananmen-square-contribute-to-its-transformation-into-a-political-public-space
+    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
 related_article3:
-    id: 169049
-    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    id: 169040
+    title: >-
+        How did the opening of roads and public parks influence political public space in Beijing?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+    url: /learn/sociology/questions/how-did-the-opening-of-roads-and-public-parks-influence-political-public-space-in-beijing
 related_article4:
-    id: 169049
-    title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+    id: 169047
+    title: >-
+        How does the choice of space for demonstrations affect the creation of public space?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
+    url: /learn/sociology/questions/how-does-the-choice-of-space-for-demonstrations-affect-the-creation-of-public-space
 related_article5:
-    id: 169043
-    title: Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
+    id: 169050
+    title: >-
+        How did the May Fourth Movement serve as a turning point in modern Chinese history?
     subject: Sociology
-    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
+    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
 ---
 
 &nbsp;

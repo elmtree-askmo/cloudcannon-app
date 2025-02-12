@@ -2,8 +2,10 @@
 _schema: default
 id: 168662
 date: 2025-02-03
-title: How do qualified interior designers contribute to creating safe and functional environments?
-article_title: How do qualified interior designers contribute to creating safe and functional environments?
+title: >-
+    How do qualified interior designers contribute to creating safe and functional environments?
+article_title: >-
+    How do qualified interior designers contribute to creating safe and functional environments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-qualified-interior-designers-contribute-to-creating-safe-and-f
 url: /learn/others/questions/how-do-qualified-interior-designers-contribute-to-creating-safe-and-functional-environments
 score: -1.0
 related_article1:
-    id: 168654
-    title: How do health and safety regulations influence the welfare of building occupants?
+    id: 168659
+    title: >-
+        What materials are considered appropriate for walls and ceilings to ensure fire safety?
     subject: Others
-    url: /learn/others/questions/how-do-health-and-safety-regulations-influence-the-welfare-of-building-occupants
+    url: /learn/others/questions/what-materials-are-considered-appropriate-for-walls-and-ceilings-to-ensure-fire-safety
 related_article2:
-    id: 168658
-    title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
+    id: 168661
+    title: >-
+        What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
     subject: Others
-    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
+    url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
 related_article3:
-    id: 168660
-    title: What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
+    id: 168657
+    title: >-
+        What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
     subject: Others
-    url: /learn/others/questions/what-are-the-essential-elements-of-emergency-egress-planning-particularly-regarding-corridors-and-aisles
+    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
 related_article4:
     id: 168652
-    title: How do interior designers collaborate with architects and engineers in the design and construction team?
+    title: >-
+        How do interior designers collaborate with architects and engineers in the design and construction team?
     subject: Others
     url: /learn/others/questions/how-do-interior-designers-collaborate-with-architects-and-engineers-in-the-design-and-construction-team
 related_article5:
-    id: 168661
-    title: What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
+    id: 168657
+    title: >-
+        What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
     subject: Others
-    url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
+    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
 ---
 
 &nbsp;

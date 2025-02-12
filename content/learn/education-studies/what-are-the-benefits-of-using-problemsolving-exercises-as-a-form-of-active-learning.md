@@ -2,8 +2,10 @@
 _schema: default
 id: 167386
 date: 2025-01-31
-title: What are the benefits of using problem-solving exercises as a form of active learning?
-article_title: What are the benefits of using problem-solving exercises as a form of active learning?
+title: >-
+    What are the benefits of using problem-solving exercises as a form of active learning?
+article_title: >-
+    What are the benefits of using problem-solving exercises as a form of active learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-using-problemsolving-exercises-as-a-form-of-
 url: /learn/education-studies/questions/what-are-the-benefits-of-using-problemsolving-exercises-as-a-form-of-active-learning
 score: -1.0
 related_article1:
-    id: 167395
-    title: What is the impact of cell phone use on class performance and classroom etiquette?
+    id: 167397
+    title: >-
+        How does student engagement affect performance and attendance tracking?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-impact-of-cell-phone-use-on-class-performance-and-classroom-etiquette
+    url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
 related_article2:
-    id: 167396
-    title: What features of OpenStax Biology make it a valuable course resource?
+    id: 167394
+    title: >-
+        How can trends and patterns be identified in data interpretation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-features-of-openstax-biology-make-it-a-valuable-course-resource
+    url: /learn/education-studies/questions/how-can-trends-and-patterns-be-identified-in-data-interpretation
 related_article3:
-    id: 167383
-    title: What are the key components of pre-class preparation in the course structure?
+    id: 167389
+    title: >-
+        Explain the structure of a concept map and its role in organizing information.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-preclass-preparation-in-the-course-structure
+    url: /learn/education-studies/questions/explain-the-structure-of-a-concept-map-and-its-role-in-organizing-information
 related_article4:
-    id: 167388
-    title: What is the purpose of formative assessments in the learning process?
+    id: 167394
+    title: >-
+        How can trends and patterns be identified in data interpretation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-formative-assessments-in-the-learning-process
+    url: /learn/education-studies/questions/how-can-trends-and-patterns-be-identified-in-data-interpretation
 related_article5:
-    id: 167387
-    title: How does random call benefit student engagement in the classroom?
+    id: 167393
+    title: >-
+        What are the differences between line graphs and bar graphs in terms of graph reading principles?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-random-call-benefit-student-engagement-in-the-classroom
+    url: /learn/education-studies/questions/what-are-the-differences-between-line-graphs-and-bar-graphs-in-terms-of-graph-reading-principles
 ---
 
 &nbsp;

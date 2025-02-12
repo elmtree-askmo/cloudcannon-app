@@ -2,8 +2,10 @@
 _schema: default
 id: 167535
 date: 2025-01-31
-title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
-article_title: How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+title: >-
+    How do pyrimidines and purines differ in their contribution to nucleic acid stability?
+article_title: >-
+    How do pyrimidines and purines differ in their contribution to nucleic acid stability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nuclei
 url: /learn/biotechnology/questions/how-do-pyrimidines-and-purines-differ-in-their-contribution-to-nucleic-acid-stability
 score: -1.0
 related_article1:
-    id: 167529
-    title: What are the three main components of a nucleotide?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
-related_article2:
-    id: 167537
-    title: How do hydrogen bonds contribute to the specificity of base pairing in DNA?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-hydrogen-bonds-contribute-to-the-specificity-of-base-pairing-in-dna
-related_article3:
     id: 167532
-    title: What are the base pairing rules for DNA, and why are they important for its structure?
+    title: >-
+        What are the base pairing rules for DNA, and why are they important for its structure?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-base-pairing-rules-for-dna-and-why-are-they-important-for-its-structure
-related_article4:
+related_article2:
+    id: 167530
+    title: >-
+        What distinguishes pyrimidines from purines in terms of structure?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-distinguishes-pyrimidines-from-purines-in-terms-of-structure
+related_article3:
     id: 167527
-    title: What are the key differences between the nucleotide components of RNA and DNA?
+    title: >-
+        What are the key differences between the nucleotide components of RNA and DNA?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-key-differences-between-the-nucleotide-components-of-rna-and-dna
-related_article5:
-    id: 167528
-    title: How does the single-stranded nature of RNA affect its function compared to DNA?
+related_article4:
+    id: 167525
+    title: >-
+        How does the antiparallel orientation of DNA strands contribute to its function?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-singlestranded-nature-of-rna-affect-its-function-compared-to-dna
+    url: /learn/biotechnology/questions/how-does-the-antiparallel-orientation-of-dna-strands-contribute-to-its-function
+related_article5:
+    id: 167524
+    title: >-
+        What are the main components of a DNA nucleotide?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-components-of-a-dna-nucleotide
 ---
 
 &nbsp;

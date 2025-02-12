@@ -2,8 +2,10 @@
 _schema: default
 id: 166512
 date: 2025-01-30
-title: What procedures ensure accurate dosing in medication administration?
-article_title: What procedures ensure accurate dosing in medication administration?
+title: >-
+    What procedures ensure accurate dosing in medication administration?
+article_title: >-
+    What procedures ensure accurate dosing in medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-procedures-ensure-accurate-dosing-in-medication-administration.m
 url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
 score: -1.0
 related_article1:
-    id: 166502
-    title: What are the requirements for drug labeling under FDA regulations?
+    id: 166493
+    title: >-
+        What are the key components of pharmacokinetics?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
 related_article2:
-    id: 166495
-    title: What is the role of preclinical trials in the drug development process?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-preclinical-trials-in-the-drug-development-process
-related_article3:
     id: 166490
-    title: How do healthcare professionals use trough level monitoring to avoid drug toxicity?
+    title: >-
+        How do healthcare professionals use trough level monitoring to avoid drug toxicity?
     subject: Nursing
     url: /learn/nursing/questions/how-do-healthcare-professionals-use-trough-level-monitoring-to-avoid-drug-toxicity
+related_article3:
+    id: 166509
+    title: >-
+        What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
 related_article4:
+    id: 166508
+    title: >-
+        What is a black box warning and what are its implications for prescribers?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-are-its-implications-for-prescribers
+related_article5:
     id: 166492
-    title: How is the minimum effective concentration related to trough levels in drug dosing?
+    title: >-
+        How is the minimum effective concentration related to trough levels in drug dosing?
     subject: Nursing
     url: /learn/nursing/questions/how-is-the-minimum-effective-concentration-related-to-trough-levels-in-drug-dosing
-related_article5:
-    id: 166489
-    title: What is the primary purpose of trough level monitoring in antibiotics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-primary-purpose-of-trough-level-monitoring-in-antibiotics
 ---
 
 &nbsp;

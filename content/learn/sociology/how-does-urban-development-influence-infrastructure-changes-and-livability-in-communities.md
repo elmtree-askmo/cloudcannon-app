@@ -2,8 +2,10 @@
 _schema: default
 id: 168366
 date: 2025-02-03
-title: How does urban development influence infrastructure changes and livability in communities?
-article_title: How does urban development influence infrastructure changes and livability in communities?
+title: >-
+    How does urban development influence infrastructure changes and livability in communities?
+article_title: >-
+    How does urban development influence infrastructure changes and livability in communities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-urban-development-influence-infrastructure-changes-and-livab
 url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
 score: -1.0
 related_article1:
-    id: 168353
-    title: How do changes in political leadership contribute to political uncertainty and affect society?
+    id: 168356
+    title: >-
+        In what ways do tariffs influence the cost of goods and consumer prices?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-changes-in-political-leadership-contribute-to-political-uncertainty-and-affect-society
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 related_article2:
-    id: 168352
-    title: What are some examples of forced social changes, and how do they impact daily life?
+    id: 168364
+    title: >-
+        How do historical religious and ethnic tensions impact community dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-some-examples-of-forced-social-changes-and-how-do-they-impact-daily-life
+    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
 related_article3:
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
+related_article4:
     id: 168359
-    title: What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
-related_article4:
-    id: 168354
-    title: What impact did NAFTA have on the car industry and job security in North America?
-    subject: Sociology
-    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 related_article5:
-    id: 168371
-    title: What are the implications of digital communication on social interactions and relationships?
+    id: 168367
+    title: >-
+        What are the community reactions to new public transit projects?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
+    url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 ---
 
 &nbsp;

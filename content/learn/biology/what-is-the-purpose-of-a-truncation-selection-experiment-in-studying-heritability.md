@@ -2,8 +2,10 @@
 _schema: default
 id: 166358
 date: 2025-01-30
-title: What is the purpose of a truncation selection experiment in studying heritability?
-article_title: What is the purpose of a truncation selection experiment in studying heritability?
+title: >-
+    What is the purpose of a truncation selection experiment in studying heritability?
+article_title: >-
+    What is the purpose of a truncation selection experiment in studying heritability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-
 url: /learn/biology/questions/what-is-the-purpose-of-a-truncation-selection-experiment-in-studying-heritability
 score: -1.0
 related_article1:
-    id: 166366
-    title: How do genetic influences affect animal behavior?
+    id: 166356
+    title: >-
+        Explain the concept of heritability and its significance in natural selection.
     subject: Biology
-    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
+    url: /learn/biology/questions/explain-the-concept-of-heritability-and-its-significance-in-natural-selection
 related_article2:
-    id: 166370
-    title: How is fitness defined and measured in the context of natural selection?
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
     subject: Biology
-    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
 related_article3:
-    id: 166371
-    title: What are the sources of genetic variation and why are they important for evolution?
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
 related_article4:
     id: 166368
-    title: Explain the impact of hormonal influences on behavior.
+    title: >-
+        Explain the impact of hormonal influences on behavior.
     subject: Biology
     url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
 related_article5:
-    id: 166365
-    title: What is convergent evolution and how does it differ from homology?
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
     subject: Biology
-    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
 ---
 
 &nbsp;

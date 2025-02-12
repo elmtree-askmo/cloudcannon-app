@@ -2,8 +2,10 @@
 _schema: default
 id: 168207
 date: 2025-02-03
-title: What are transformer models, and how do they differ from traditional neural network models?
-article_title: What are transformer models, and how do they differ from traditional neural network models?
+title: >-
+    What are transformer models, and how do they differ from traditional neural network models?
+article_title: >-
+    What are transformer models, and how do they differ from traditional neural network models?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-transformer-models-and-how-do-they-differ-from-traditional-n
 url: /learn/others/questions/what-are-transformer-models-and-how-do-they-differ-from-traditional-neural-network-models
 score: -1.0
 related_article1:
+    id: 168201
+    title: >-
+        What is the difference between supervised and unsupervised learning?
+    subject: Others
+    url: /learn/others/questions/what-is-the-difference-between-supervised-and-unsupervised-learning
+related_article2:
+    id: 168199
+    title: >-
+        What are the benefits and challenges of data augmentation?
+    subject: Others
+    url: /learn/others/questions/what-are-the-benefits-and-challenges-of-data-augmentation
+related_article3:
     id: 168215
-    title: How does AutoML impact the field of AI and machine learning?
+    title: >-
+        How does AutoML impact the field of AI and machine learning?
     subject: Others
     url: /learn/others/questions/how-does-automl-impact-the-field-of-ai-and-machine-learning
-related_article2:
+related_article4:
     id: 168208
-    title: What are some common applications of sentiment analysis?
+    title: >-
+        What are some common applications of sentiment analysis?
     subject: Others
     url: /learn/others/questions/what-are-some-common-applications-of-sentiment-analysis
-related_article3:
-    id: 168202
-    title: List three common evaluation metrics used in supervised learning.
-    subject: Others
-    url: /learn/others/questions/list-three-common-evaluation-metrics-used-in-supervised-learning
-related_article4:
-    id: 168195
-    title: What are the key sources of data used in data collection?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-sources-of-data-used-in-data-collection
 related_article5:
     id: 168214
-    title: What are the potential applications of quantum computing in emerging technologies?
+    title: >-
+        What are the potential applications of quantum computing in emerging technologies?
     subject: Others
     url: /learn/others/questions/what-are-the-potential-applications-of-quantum-computing-in-emerging-technologies
 ---

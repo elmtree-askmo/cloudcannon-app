@@ -2,8 +2,10 @@
 _schema: default
 id: 169659
 date: 2025-02-05
-title: What are some inclusive healthcare practices that create safe environments for patients?
-article_title: What are some inclusive healthcare practices that create safe environments for patients?
+title: >-
+    What are some inclusive healthcare practices that create safe environments for patients?
+article_title: >-
+    What are some inclusive healthcare practices that create safe environments for patients?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-inclusive-healthcare-practices-that-create-safe-environ
 url: /learn/nursing/questions/what-are-some-inclusive-healthcare-practices-that-create-safe-environments-for-patients
 score: -1.0
 related_article1:
-    id: 169643
-    title: What are the different types of discrimination that can occur in healthcare settings?
+    id: 169660
+    title: >-
+        What lessons have been learned from historical discrimination in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
+    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
 related_article2:
-    id: 169653
-    title: What systemic barriers do marginalized groups face in accessing healthcare?
+    id: 169646
+    title: >-
+        How have societal attitudes towards LGBTQ+ rights evolved over time?
     subject: Nursing
-    url: /learn/nursing/questions/what-systemic-barriers-do-marginalized-groups-face-in-accessing-healthcare
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 related_article3:
-    id: 169657
-    title: How do societal norms and media influence healthcare policies and practices?
+    id: 169661
+    title: >-
+        How does intersectionality affect health outcomes and care strategies?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
 related_article4:
-    id: 169649
-    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    id: 169645
+    title: >-
+        What legal protections are provided under the Equality Act for LGBTQ+ individuals?
     subject: Nursing
-    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+    url: /learn/nursing/questions/what-legal-protections-are-provided-under-the-equality-act-for-lgbtq-individuals
 related_article5:
-    id: 169652
-    title: What societal changes have occurred in the legal and social context of transgender issues?
+    id: 169654
+    title: >-
+        Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
     subject: Nursing
-    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+    url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
 ---
 
 &nbsp;

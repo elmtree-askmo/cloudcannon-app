@@ -2,8 +2,10 @@
 _schema: default
 id: 167974
 date: 2025-02-02
-title: What cognitive milestones are associated with understanding mental states in child development?
-article_title: What cognitive milestones are associated with understanding mental states in child development?
+title: >-
+    What cognitive milestones are associated with understanding mental states in child development?
+article_title: >-
+    What cognitive milestones are associated with understanding mental states in child development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-cognitive-milestones-are-associated-with-understanding-mental-st
 url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
 score: -1.0
 related_article1:
-    id: 167983
-    title: What is the role of beliefs in predicting behavior in social settings?
+    id: 167980
+    title: >-
+        How does empathy and perspective taking contribute to interpersonal understanding?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
 related_article2:
-    id: 167975
-    title: How does play contribute to social cognition development in children?
+    id: 167979
+    title: >-
+        What is the role of beliefs and desires in decision making?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 related_article3:
+    id: 167976
+    title: >-
+        Explain the concept of mental state attribution in cognitive psychology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mental-state-attribution-in-cognitive-psychology
+related_article4:
+    id: 167979
+    title: >-
+        What is the role of beliefs and desires in decision making?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
+related_article5:
     id: 167981
-    title: What are some key theories and models in developmental psychology related to social cognition?
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
-related_article4:
-    id: 167970
-    title: What is the Theory of Mind and why is it significant in cognitive psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
-related_article5:
-    id: 167971
-    title: At what age range does Theory of Mind typically develop in children, and what factors influence its development?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
 ---
 
 &nbsp;

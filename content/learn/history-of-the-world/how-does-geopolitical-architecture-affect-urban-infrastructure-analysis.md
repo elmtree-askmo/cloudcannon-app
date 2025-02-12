@@ -2,8 +2,10 @@
 _schema: default
 id: 169101
 date: 2025-02-04
-title: How does geopolitical architecture affect urban infrastructure analysis?
-article_title: How does geopolitical architecture affect urban infrastructure analysis?
+title: >-
+    How does geopolitical architecture affect urban infrastructure analysis?
+article_title: >-
+    How does geopolitical architecture affect urban infrastructure analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-geopolitical-architecture-affect-urban-infrastructure-analys
 url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
 score: 9.0
 related_article1:
-    id: 169094
-    title: What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
+    id: 169087
+    title: >-
+        Describe the relationship between military architecture and the architectural impact of conflict.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
+    url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
 related_article2:
-    id: 169082
-    title: What are the key components of inverse geometry in urban warfare tactical maneuvers?
+    id: 169103
+    title: >-
+        How does critical theory apply to military practice in the context of ethical implications?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
+    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
 related_article3:
-    id: 169105
-    title: What role do military research institutes play in addressing institutional conflicts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
-related_article4:
     id: 169099
-    title: How does urban infrastructure analysis contribute to urban combat strategies?
+    title: >-
+        How does urban infrastructure analysis contribute to urban combat strategies?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
-related_article5:
-    id: 169094
-    title: What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
+related_article4:
+    id: 169082
+    title: >-
+        What are the key components of inverse geometry in urban warfare tactical maneuvers?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
+    url: /learn/history-of-the-world/questions/what-are-the-key-components-of-inverse-geometry-in-urban-warfare-tactical-maneuvers
+related_article5:
+    id: 169091
+    title: >-
+        How do swarming tactics enhance military tactics in urban environments?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-military-tactics-in-urban-environments
 ---
 
 &nbsp;

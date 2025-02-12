@@ -2,8 +2,10 @@
 _schema: default
 id: 166398
 date: 2025-01-30
-title: Explain Tinbergen's four questions and their significance in studying animal behavior.
-article_title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+title: >-
+    Explain Tinbergen's four questions and their significance in studying animal behavior.
+article_title: >-
+    Explain Tinbergen's four questions and their significance in studying animal behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-tinbergens-four-questions-and-their-significance-in-studying-
 url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
 score: -1.0
 related_article1:
-    id: 166397
-    title: What are the key components of animal behavior as defined in the course?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
-related_article2:
-    id: 166403
-    title: Identify and explain the three types of natural selection.
-    subject: Psychology
-    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
-related_article3:
     id: 166405
-    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    title: >-
+        Discuss the mechanisms of cultural transmission and their impact on social structures.
     subject: Psychology
     url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+related_article2:
+    id: 166415
+    title: >-
+        Compare artificial selection with natural selection in terms of process and outcomes.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-artificial-selection-with-natural-selection-in-terms-of-process-and-outcomes
+related_article3:
+    id: 166408
+    title: >-
+        Define fitness in the context of animal behavior and explain how it is measured.
+    subject: Psychology
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured
 related_article4:
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
+related_article5:
     id: 166411
-    title: Explain how environmental factors can influence animal behavior and interact with genetics.
+    title: >-
+        Explain how environmental factors can influence animal behavior and interact with genetics.
     subject: Psychology
     url: /learn/psychology/questions/explain-how-environmental-factors-can-influence-animal-behavior-and-interact-with-genetics
-related_article5:
-    id: 166405
-    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
 ---
 
 &nbsp;

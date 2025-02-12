@@ -2,8 +2,10 @@
 _schema: default
 id: 165646
 date: 2025-01-29
-title: What role do peers play in a peer-to-peer network?
-article_title: What role do peers play in a peer-to-peer network?
+title: >-
+    What role do peers play in a peer-to-peer network?
+article_title: >-
+    What role do peers play in a peer-to-peer network?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-peers-play-in-a-peertopeer-network.md
 url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
 score: -1.0
 related_article1:
-    id: 165639
-    title: What is the primary role of the Application Layer in the OSI model?
+    id: 165652
+    title: >-
+        What are the steps involved in the DHCP process for dynamic address assignment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-application-layer-in-the-osi-model
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
 related_article2:
-    id: 165653
-    title: How do FTP clients and servers interact during a file transfer?
+    id: 165643
+    title: >-
+        How does DNS facilitate domain name resolution?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-ftp-clients-and-servers-interact-during-a-file-transfer
+    url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
 related_article3:
-    id: 165640
-    title: How does the Presentation Layer handle data encryption?
+    id: 165650
+    title: >-
+        What are the differences between POP and IMAP protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-presentation-layer-handle-data-encryption
+    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
 related_article4:
-    id: 165653
-    title: How do FTP clients and servers interact during a file transfer?
+    id: 165644
+    title: >-
+        What is the primary function of DHCP in host configuration?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-ftp-clients-and-servers-interact-during-a-file-transfer
+    url: /learn/computer-science/questions/what-is-the-primary-function-of-dhcp-in-host-configuration
 related_article5:
-    id: 165641
-    title: What is the function of the Session Layer in managing information exchange?
+    id: 165647
+    title: >-
+        How does HTTP interpret a URL?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-the-session-layer-in-managing-information-exchange
+    url: /learn/computer-science/questions/how-does-http-interpret-a-url
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168179
 date: 2025-02-02
-title: What are the expectations and guidelines for writing assignments like personal and argumentative essays?
-article_title: What are the expectations and guidelines for writing assignments like personal and argumentative essays?
+title: >-
+    What are the expectations and guidelines for writing assignments like personal and argumentative essays?
+article_title: >-
+    What are the expectations and guidelines for writing assignments like personal and argumentative essays?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-expectations-and-guidelines-for-writing-assignments-like
 url: /learn/education-studies/questions/what-are-the-expectations-and-guidelines-for-writing-assignments-like-personal-and-argumentative-essays
 score: -1.0
 related_article1:
+    id: 168164
+    title: >-
+        How can subtle humor, such as self-deprecation and exaggeration, enhance writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-subtle-humor-such-as-selfdeprecation-and-exaggeration-enhance-writing
+related_article2:
+    id: 168173
+    title: >-
+        What is the importance of connecting personal stories to broader issues in investigative writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-connecting-personal-stories-to-broader-issues-in-investigative-writing
+related_article3:
+    id: 168171
+    title: >-
+        What is the significance of generative writing in the creative process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-significance-of-generative-writing-in-the-creative-process
+related_article4:
+    id: 168173
+    title: >-
+        What is the importance of connecting personal stories to broader issues in investigative writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-connecting-personal-stories-to-broader-issues-in-investigative-writing
+related_article5:
     id: 168172
-    title: How does the definition of an essay as an 'attempt' influence its structure and purpose?
+    title: >-
+        How does the definition of an essay as an 'attempt' influence its structure and purpose?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-definition-of-an-essay-as-an-attempt-influence-its-structure-and-purpose
-related_article2:
-    id: 168164
-    title: How can subtle humor, such as self-deprecation and exaggeration, enhance writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-subtle-humor-such-as-selfdeprecation-and-exaggeration-enhance-writing
-related_article3:
-    id: 168164
-    title: How can subtle humor, such as self-deprecation and exaggeration, enhance writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-subtle-humor-such-as-selfdeprecation-and-exaggeration-enhance-writing
-related_article4:
-    id: 168165
-    title: What are the psychological mechanisms that suggest animals have interior lives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-psychological-mechanisms-that-suggest-animals-have-interior-lives
-related_article5:
-    id: 168175
-    title: What are the ethical considerations involved in the human-animal connection?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-ethical-considerations-involved-in-the-humananimal-connection
 ---
 
 &nbsp;

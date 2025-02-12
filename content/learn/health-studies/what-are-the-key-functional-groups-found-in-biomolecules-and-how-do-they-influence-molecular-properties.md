@@ -2,8 +2,10 @@
 _schema: default
 id: 168944
 date: 2025-02-04
-title: What are the key functional groups found in biomolecules, and how do they influence molecular properties?
-article_title: What are the key functional groups found in biomolecules, and how do they influence molecular properties?
+title: >-
+    What are the key functional groups found in biomolecules, and how do they influence molecular properties?
+article_title: >-
+    What are the key functional groups found in biomolecules, and how do they influence molecular properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-t
 url: /learn/health-studies/questions/what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-they-influence-molecular-properties
 score: -1.0
 related_article1:
-    id: 168960
-    title: Define endocytosis and exocytosis and explain their roles in cellular transport.
+    id: 168958
+    title: >-
+        Describe the mechanism and function of the sodium-potassium pump in active transport.
     subject: Health Studies
-    url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
+    url: /learn/health-studies/questions/describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-active-transport
 related_article2:
     id: 168953
-    title: Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
+    title: >-
+        Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
     subject: Health Studies
     url: /learn/health-studies/questions/discuss-the-effects-of-cholesterol-on-membrane-fluidity-at-high-and-low-temperatures
 related_article3:
-    id: 168959
-    title: What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
+    id: 168955
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-is-it-necessary-for-cellular-function
+    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 related_article4:
-    id: 168953
-    title: Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
+    id: 168954
+    title: >-
+        What factors influence membrane permeability, and how does phospholipid composition play a role?
     subject: Health Studies
-    url: /learn/health-studies/questions/discuss-the-effects-of-cholesterol-on-membrane-fluidity-at-high-and-low-temperatures
+    url: /learn/health-studies/questions/what-factors-influence-membrane-permeability-and-how-does-phospholipid-composition-play-a-role
 related_article5:
-    id: 168958
-    title: Describe the mechanism and function of the sodium-potassium pump in active transport.
+    id: 168955
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-mechanism-and-function-of-the-sodiumpotassium-pump-in-active-transport
+    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 ---
 
 &nbsp;

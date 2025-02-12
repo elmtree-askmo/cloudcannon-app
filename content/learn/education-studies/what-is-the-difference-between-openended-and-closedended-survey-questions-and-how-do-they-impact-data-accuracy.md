@@ -2,8 +2,10 @@
 _schema: default
 id: 165056
 date: 2025-01-28
-title: What is the difference between open-ended and closed-ended survey questions, and how do they impact data accuracy?
-article_title: What is the difference between open-ended and closed-ended survey questions, and how do they impact data accuracy?
+title: >-
+    What is the difference between open-ended and closed-ended survey questions, and how do they impact data accuracy?
+article_title: >-
+    What is the difference between open-ended and closed-ended survey questions, and how do they impact data accuracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-openended-and-closedended-survey-quest
 url: /learn/education-studies/questions/what-is-the-difference-between-openended-and-closedended-survey-questions-and-how-do-they-impact-data-accuracy
 score: -1.0
 related_article1:
-    id: 165060
-    title: How does color play a role in influencing taste perception?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-color-play-a-role-in-influencing-taste-perception
-related_article2:
-    id: 165057
-    title: How can blinding techniques be implemented in surveys to reduce bias?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-blinding-techniques-be-implemented-in-surveys-to-reduce-bias
-related_article3:
-    id: 165063
-    title: What are some challenges faced when implementing blinding in studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-challenges-faced-when-implementing-blinding-in-studies
-related_article4:
-    id: 165057
-    title: How can blinding techniques be implemented in surveys to reduce bias?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-blinding-techniques-be-implemented-in-surveys-to-reduce-bias
-related_article5:
     id: 165058
-    title: Why is statistical accuracy important in data analysis, particularly in color studies?
+    title: >-
+        Why is statistical accuracy important in data analysis, particularly in color studies?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-statistical-accuracy-important-in-data-analysis-particularly-in-color-studies
+related_article2:
+    id: 165055
+    title: >-
+        What are the challenges associated with setting up experiments in color studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-challenges-associated-with-setting-up-experiments-in-color-studies
+related_article3:
+    id: 165055
+    title: >-
+        What are the challenges associated with setting up experiments in color studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-challenges-associated-with-setting-up-experiments-in-color-studies
+related_article4:
+    id: 165060
+    title: >-
+        How does color play a role in influencing taste perception?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-color-play-a-role-in-influencing-taste-perception
+related_article5:
+    id: 165063
+    title: >-
+        What are some challenges faced when implementing blinding in studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-challenges-faced-when-implementing-blinding-in-studies
 ---
 
 &nbsp;

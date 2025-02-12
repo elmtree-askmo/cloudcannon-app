@@ -2,8 +2,10 @@
 _schema: default
 id: 166011
 date: 2025-01-29
-title: What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
-article_title: What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
+title: >-
+    What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
+article_title: >-
+    What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-a
 url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
 score: -1.0
 related_article1:
-    id: 166014
-    title: What are the defining features of creation myths and trickster myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-creation-myths-and-trickster-myths
-related_article2:
-    id: 166006
-    title: How do archetypes function in comparative mythology according to Carl Jung?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
-related_article3:
-    id: 166005
-    title: What are the main concepts of structuralism in the study of mythology, and how did Claude Lévi-Strauss contribute to this field?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-concepts-of-structuralism-in-the-study-of-mythology-and-how-did-claude-lvistrauss-contribute-to-this-field
-related_article4:
     id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    title: >-
+        Who are some of the key gods, goddesses, heroes, and monsters in mythology?
     subject: Education Studies
     url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
-related_article5:
-    id: 166001
-    title: What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
+related_article2:
+    id: 166007
+    title: >-
+        What are the traditional definitions of myth, and how do they involve supernatural beings?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
+    url: /learn/education-studies/questions/what-are-the-traditional-definitions-of-myth-and-how-do-they-involve-supernatural-beings
+related_article3:
+    id: 166013
+    title: >-
+        Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    subject: Education Studies
+    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
+related_article4:
+    id: 166003
+    title: >-
+        What are the primary differences between literary sources and inscriptions as ancient texts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
+related_article5:
+    id: 166004
+    title: >-
+        How does vase painting contribute to our understanding of ancient iconography?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-vase-painting-contribute-to-our-understanding-of-ancient-iconography
 ---
 
 &nbsp;

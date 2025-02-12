@@ -2,8 +2,10 @@
 _schema: default
 id: 161689
 date: 2025-01-24
-title: Why is relevance important in the quality of information, and what factors can affect it?
-article_title: Why is relevance important in the quality of information, and what factors can affect it?
+title: >-
+    Why is relevance important in the quality of information, and what factors can affect it?
+article_title: >-
+    Why is relevance important in the quality of information, and what factors can affect it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-relevance-important-in-the-quality-of-information-and-what-fac
 url: /learn/computer-science/questions/why-is-relevance-important-in-the-quality-of-information-and-what-factors-can-affect-it
 score: -1.0
 related_article1:
-    id: 161495
-    title: Why is the age of information crucial and what factors can affect its timeliness?
+    id: 161501
+    title: >-
+        What are the characteristics of batch processing and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
 related_article2:
-    id: 161489
-    title: What is the definition of data and why is raw data considered meaningless?
+    id: 161697
+    title: >-
+        What are the characteristics of online processing, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-processing-and-what-are-its-advantages-and-disadvantages
 related_article3:
-    id: 161490
-    title: How does data transform into information and why is context important in this process?
+    id: 161695
+    title: >-
+        What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
+    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
 related_article4:
     id: 161490
-    title: How does data transform into information and why is context important in this process?
+    title: >-
+        How does data transform into information and why is context important in this process?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
 related_article5:
-    id: 161705
-    title: Why is data analysis important, and what techniques and tools are commonly used?
+    id: 161699
+    title: >-
+        What is the purpose of data validation, and how do range checks and type checks work?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-techniques-and-tools-are-commonly-used
+    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-work
 ---
 
 &nbsp;

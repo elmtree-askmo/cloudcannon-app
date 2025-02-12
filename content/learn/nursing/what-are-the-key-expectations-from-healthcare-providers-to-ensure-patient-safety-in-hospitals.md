@@ -2,8 +2,10 @@
 _schema: default
 id: 169665
 date: 2025-02-05
-title: What are the key expectations from healthcare providers to ensure patient safety in hospitals?
-article_title: What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+title: >-
+    What are the key expectations from healthcare providers to ensure patient safety in hospitals?
+article_title: >-
+    What are the key expectations from healthcare providers to ensure patient safety in hospitals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-expectations-from-healthcare-providers-to-ensure-pat
 url: /learn/nursing/questions/what-are-the-key-expectations-from-healthcare-providers-to-ensure-patient-safety-in-hospitals
 score: -1.0
 related_article1:
+    id: 169674
+    title: >-
+        What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
+related_article2:
     id: 169666
-    title: How should nurses handle drug errors to maintain professional standards and ensure patient safety?
+    title: >-
+        How should nurses handle drug errors to maintain professional standards and ensure patient safety?
     subject: Nursing
     url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
-related_article2:
-    id: 169672
-    title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
 related_article3:
-    id: 169670
-    title: How is the safety of medical devices ensured under medications and healthcare products regulation?
+    id: 169673
+    title: >-
+        What safety protocols should be followed to prevent exposure to hazardous substances?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
+    url: /learn/nursing/questions/what-safety-protocols-should-be-followed-to-prevent-exposure-to-hazardous-substances
 related_article4:
-    id: 169671
-    title: What procedures are essential for preventing hospital-acquired infections?
+    id: 169668
+    title: >-
+        How should controlled substances be handled and stored to ensure regulatory compliance?
     subject: Nursing
-    url: /learn/nursing/questions/what-procedures-are-essential-for-preventing-hospitalacquired-infections
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
 related_article5:
-    id: 169676
-    title: What are the risks associated with bedrails, and what are the alternatives to their use?
+    id: 169666
+    title: >-
+        How should nurses handle drug errors to maintain professional standards and ensure patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
+    url: /learn/nursing/questions/how-should-nurses-handle-drug-errors-to-maintain-professional-standards-and-ensure-patient-safety
 ---
 
 &nbsp;

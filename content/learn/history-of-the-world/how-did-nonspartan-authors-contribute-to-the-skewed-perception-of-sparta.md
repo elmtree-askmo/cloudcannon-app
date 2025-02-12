@@ -2,8 +2,10 @@
 _schema: default
 id: 163589
 date: 2025-01-27
-title: How did non-Spartan authors contribute to the skewed perception of Sparta?
-article_title: How did non-Spartan authors contribute to the skewed perception of Sparta?
+title: >-
+    How did non-Spartan authors contribute to the skewed perception of Sparta?
+article_title: >-
+    How did non-Spartan authors contribute to the skewed perception of Sparta?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-spa
 url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
 score: 9.0
 related_article1:
-    id: 163591
-    title: How did Sparta's urban development compare to that of Athens?
+    id: 163597
+    title: >-
+        Explain the mixed constitution of Spartan governance, including the roles of the Kings, Ephors, and Gerousia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
+    url: /learn/history-of-the-world/questions/explain-the-mixed-constitution-of-spartan-governance-including-the-roles-of-the-kings-ephors-and-gerousia
 related_article2:
-    id: 163593
-    title: Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
+    id: 163601
+    title: >-
+        What challenges are faced in interpreting archaeological evidence from Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
+    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
 related_article3:
-    id: 163593
-    title: Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
+    id: 163601
+    title: >-
+        What challenges are faced in interpreting archaeological evidence from Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
+    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
 related_article4:
     id: 163607
-    title: What themes and motifs are prevalent in Spartan literature and poetry?
+    title: >-
+        What themes and motifs are prevalent in Spartan literature and poetry?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-themes-and-motifs-are-prevalent-in-spartan-literature-and-poetry
 related_article5:
-    id: 163599
-    title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+    id: 163598
+    title: >-
+        What was the significance of Spartan military training in Greek warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
 ---
 
 &nbsp;

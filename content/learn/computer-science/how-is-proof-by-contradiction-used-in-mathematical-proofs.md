@@ -2,8 +2,10 @@
 _schema: default
 id: 161139
 date: 2025-01-24
-title: How is proof by contradiction used in mathematical proofs?
-article_title: How is proof by contradiction used in mathematical proofs?
+title: >-
+    How is proof by contradiction used in mathematical proofs?
+article_title: >-
+    How is proof by contradiction used in mathematical proofs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-proof-by-contradiction-used-in-mathematical-proofs.md
 url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-in-mathematical-proofs
 score: -1.0
 related_article1:
-    id: 161098
-    title: What is the halting problem, and why is it significant in computability theory?
+    id: 161087
+    title: >-
+        What is the significance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+    url: /learn/computer-science/questions/what-is-the-significance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 related_article2:
-    id: 161271
-    title: What is the halting problem, and why is it significant in computability theory?
+    id: 160964
+    title: >-
+        What challenges are associated with solving the traveling salesman problem?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
 related_article3:
-    id: 161099
-    title: What are the mathematical implications of infinite sets in set theory?
+    id: 160798
+    title: >-
+        What is the importance of algorithm representation in the initial step of algorithm development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+    url: /learn/computer-science/questions/what-is-the-importance-of-algorithm-representation-in-the-initial-step-of-algorithm-development
 related_article4:
-    id: 160965
-    title: What breakthroughs have been made in primality testing algorithms?
+    id: 160815
+    title: >-
+        How does cardinality relate to the comparison of infinite sets?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
+    url: /learn/computer-science/questions/how-does-cardinality-relate-to-the-comparison-of-infinite-sets
 related_article5:
-    id: 161271
-    title: What is the halting problem, and why is it significant in computability theory?
+    id: 160808
+    title: >-
+        What defines an efficient algorithm in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 ---
 
 &nbsp;

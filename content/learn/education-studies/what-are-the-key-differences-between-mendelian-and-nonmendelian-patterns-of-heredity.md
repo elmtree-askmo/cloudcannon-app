@@ -2,8 +2,10 @@
 _schema: default
 id: 167805
 date: 2025-02-01
-title: What are the key differences between Mendelian and non-Mendelian patterns of heredity?
-article_title: What are the key differences between Mendelian and non-Mendelian patterns of heredity?
+title: >-
+    What are the key differences between Mendelian and non-Mendelian patterns of heredity?
+article_title: >-
+    What are the key differences between Mendelian and non-Mendelian patterns of heredity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-mendelian-and-nonmendelian-patte
 url: /learn/education-studies/questions/what-are-the-key-differences-between-mendelian-and-nonmendelian-patterns-of-heredity
 score: -1.0
 related_article1:
-    id: 167782
-    title: What is the difference between dominant and recessive traits in Mendelian inheritance?
+    id: 167801
+    title: >-
+        What is the ABO blood group system and how does it relate to genotype and phenotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
+    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
 related_article2:
-    id: 167782
-    title: What is the difference between dominant and recessive traits in Mendelian inheritance?
+    id: 167802
+    title: >-
+        How does the norm of reaction illustrate the effect of temperature on phenotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dominant-and-recessive-traits-in-mendelian-inheritance
+    url: /learn/education-studies/questions/how-does-the-norm-of-reaction-illustrate-the-effect-of-temperature-on-phenotype
 related_article3:
-    id: 167800
-    title: How does the environment influence the phenotype of individuals with phenylketonuria?
+    id: 167804
+    title: >-
+        How can genetic mutations lead to a loss of function in an organism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-environment-influence-the-phenotype-of-individuals-with-phenylketonuria
+    url: /learn/education-studies/questions/how-can-genetic-mutations-lead-to-a-loss-of-function-in-an-organism
 related_article4:
-    id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article5:
-    id: 167803
-    title: What are point mutations and how do they differ from chromosomal alterations?
+    id: 167806
+    title: >-
+        How is genetic counseling used to assess risk and analyze family history?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-point-mutations-and-how-do-they-differ-from-chromosomal-alterations
+    url: /learn/education-studies/questions/how-is-genetic-counseling-used-to-assess-risk-and-analyze-family-history
 ---
 
 &nbsp;

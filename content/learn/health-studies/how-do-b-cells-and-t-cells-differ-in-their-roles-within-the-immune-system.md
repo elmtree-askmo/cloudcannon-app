@@ -2,8 +2,10 @@
 _schema: default
 id: 165868
 date: 2025-01-29
-title: How do B cells and T cells differ in their roles within the immune system?
-article_title: How do B cells and T cells differ in their roles within the immune system?
+title: >-
+    How do B cells and T cells differ in their roles within the immune system?
+article_title: >-
+    How do B cells and T cells differ in their roles within the immune system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-sy
 url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
 score: -1.0
 related_article1:
-    id: 165859
-    title: What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
+    id: 165860
+    title: >-
+        How do B and T cells contribute to the specificity and memory of adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
+    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
 related_article2:
-    id: 165880
-    title: How is the initial immune response triggered by pathogen recognition and signal transduction?
+    id: 165864
+    title: >-
+        How does the NF Kappa B pathway contribute to immune cell activation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-initial-immune-response-triggered-by-pathogen-recognition-and-signal-transduction
+    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
 related_article3:
     id: 165870
-    title: How do MHC Class I molecules contribute to self-identification in the immune system?
+    title: >-
+        How do MHC Class I molecules contribute to self-identification in the immune system?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-mhc-class-i-molecules-contribute-to-selfidentification-in-the-immune-system
 related_article4:
-    id: 165860
-    title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
+    id: 165859
+    title: >-
+        What are the main characteristics of innate immunity, and how does it differ from adaptive immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
+    url: /learn/health-studies/questions/what-are-the-main-characteristics-of-innate-immunity-and-how-does-it-differ-from-adaptive-immunity
 related_article5:
-    id: 165879
-    title: What is the importance of clonality in the immune response?
+    id: 165867
+    title: >-
+        What is the significance of the membrane attack complex in the complement system?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
 ---
 
 &nbsp;

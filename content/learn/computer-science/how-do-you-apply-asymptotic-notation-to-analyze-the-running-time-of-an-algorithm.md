@@ -2,8 +2,10 @@
 _schema: default
 id: 160752
 date: 2025-01-24
-title: How do you apply asymptotic notation to analyze the running time of an algorithm?
-article_title: How do you apply asymptotic notation to analyze the running time of an algorithm?
+title: >-
+    How do you apply asymptotic notation to analyze the running time of an algorithm?
+article_title: >-
+    How do you apply asymptotic notation to analyze the running time of an algorithm?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-apply-asymptotic-notation-to-analyze-the-running-time-of-a
 url: /learn/computer-science/questions/how-do-you-apply-asymptotic-notation-to-analyze-the-running-time-of-an-algorithm
 score: -1.0
 related_article1:
-    id: 160756
-    title: What is the role of asymptotic notation in comparing the efficiency of sorting algorithms?
+    id: 160757
+    title: >-
+        What is probabilistic analysis and how is it applied to running time with probability distributions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-asymptotic-notation-in-comparing-the-efficiency-of-sorting-algorithms
+    url: /learn/computer-science/questions/what-is-probabilistic-analysis-and-how-is-it-applied-to-running-time-with-probability-distributions
 related_article2:
-    id: 160834
-    title: Why is running time analysis crucial in algorithm design?
+    id: 160924
+    title: >-
+        Why is running time analysis crucial in algorithm design?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
 related_article3:
-    id: 160761
-    title: Why is running time analysis crucial in algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
-related_article4:
     id: 160918
-    title: How does the running time of insertion sort compare to merge sort?
+    title: >-
+        How does the running time of insertion sort compare to merge sort?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-running-time-of-insertion-sort-compare-to-merge-sort
-related_article5:
-    id: 160751
-    title: What are the commonly used asymptotic notations and their informal definitions?
+related_article4:
+    id: 160832
+    title: >-
+        Why is mathematical notation important in algorithm analysis?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-commonly-used-asymptotic-notations-and-their-informal-definitions
+    url: /learn/computer-science/questions/why-is-mathematical-notation-important-in-algorithm-analysis
+related_article5:
+    id: 160761
+    title: >-
+        Why is running time analysis crucial in algorithm design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
 ---
 
 &nbsp;

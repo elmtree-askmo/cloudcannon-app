@@ -2,8 +2,10 @@
 _schema: default
 id: 170584
 date: 2025-02-06
-title: How does the olfactory bulb process sensory input related to smell?
-article_title: How does the olfactory bulb process sensory input related to smell?
+title: >-
+    How does the olfactory bulb process sensory input related to smell?
+article_title: >-
+    How does the olfactory bulb process sensory input related to smell?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-olfactory-bulb-process-sensory-input-related-to-smell.md
 url: /learn/psychology/questions/how-does-the-olfactory-bulb-process-sensory-input-related-to-smell
 score: -1.0
 related_article1:
-    id: 170581
-    title: What insights have split-brain research provided about hemispheric functions?
+    id: 170594
+    title: >-
+        How do genetic and environmental factors contribute to schizophrenia?
     subject: Psychology
-    url: /learn/psychology/questions/what-insights-have-splitbrain-research-provided-about-hemispheric-functions
+    url: /learn/psychology/questions/how-do-genetic-and-environmental-factors-contribute-to-schizophrenia
 related_article2:
-    id: 170582
-    title: How does the corpus callosum facilitate communication between the brain's hemispheres?
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-corpus-callosum-facilitate-communication-between-the-brains-hemispheres
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
 related_article3:
-    id: 170561
-    title: What are the primary functions of the amygdala within the limbic system?
+    id: 170574
+    title: >-
+        How does Alzheimer's disease impact the hippocampus and long-term memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+    url: /learn/psychology/questions/how-does-alzheimers-disease-impact-the-hippocampus-and-longterm-memory
 related_article4:
-    id: 170561
-    title: What are the primary functions of the amygdala within the limbic system?
+    id: 170596
+    title: >-
+        How does modern technology impact the sleep-wake cycle and internal clock regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+    url: /learn/psychology/questions/how-does-modern-technology-impact-the-sleepwake-cycle-and-internal-clock-regulation
 related_article5:
-    id: 170561
-    title: What are the primary functions of the amygdala within the limbic system?
+    id: 170580
+    title: >-
+        What are the effects of trauma on epigenetic changes in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-amygdala-within-the-limbic-system
+    url: /learn/psychology/questions/what-are-the-effects-of-trauma-on-epigenetic-changes-in-the-brain
 ---
 
 &nbsp;

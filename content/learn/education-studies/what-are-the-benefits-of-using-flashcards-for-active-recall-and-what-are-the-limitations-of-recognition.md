@@ -2,8 +2,10 @@
 _schema: default
 id: 165587
 date: 2025-01-29
-title: What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
-article_title: What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
+title: >-
+    What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
+article_title: >-
+    What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-using-flashcards-for-active-recall-and-what-
 url: /learn/education-studies/questions/what-are-the-benefits-of-using-flashcards-for-active-recall-and-what-are-the-limitations-of-recognition
 score: -1.0
 related_article1:
-    id: 165597
-    title: How can personal understanding be enhanced through information synthesis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-personal-understanding-be-enhanced-through-information-synthesis
-related_article2:
-    id: 165585
-    title: How does spaced repetition enhance memorization, and what tools can be used to implement it?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-spaced-repetition-enhance-memorization-and-what-tools-can-be-used-to-implement-it
-related_article3:
-    id: 165585
-    title: How does spaced repetition enhance memorization, and what tools can be used to implement it?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-spaced-repetition-enhance-memorization-and-what-tools-can-be-used-to-implement-it
-related_article4:
-    id: 165574
-    title: What are the advantages and disadvantages of studying at home versus public spaces?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-studying-at-home-versus-public-spaces
-related_article5:
     id: 165600
-    title: How can key points be identified and organized for better understanding during information assessment?
+    title: >-
+        How can key points be identified and organized for better understanding during information assessment?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-key-points-be-identified-and-organized-for-better-understanding-during-information-assessment
+related_article2:
+    id: 165600
+    title: >-
+        How can key points be identified and organized for better understanding during information assessment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-key-points-be-identified-and-organized-for-better-understanding-during-information-assessment
+related_article3:
+    id: 165576
+    title: >-
+        What is the Pomodoro Technique, and how is it structured?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-pomodoro-technique-and-how-is-it-structured
+related_article4:
+    id: 165597
+    title: >-
+        How can personal understanding be enhanced through information synthesis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-personal-understanding-be-enhanced-through-information-synthesis
+related_article5:
+    id: 165574
+    title: >-
+        What are the advantages and disadvantages of studying at home versus public spaces?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-studying-at-home-versus-public-spaces
 ---
 
 &nbsp;

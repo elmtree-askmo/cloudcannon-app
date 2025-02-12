@@ -2,8 +2,10 @@
 _schema: default
 id: 160324
 date: 2025-01-24
-title: What are the benefits of collaborative learning in study groups?
-article_title: What are the benefits of collaborative learning in study groups?
+title: >-
+    What are the benefits of collaborative learning in study groups?
+article_title: >-
+    What are the benefits of collaborative learning in study groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-collaborative-learning-in-study-groups.md
 url: /learn/education-studies/questions/what-are-the-benefits-of-collaborative-learning-in-study-groups
 score: -1.0
 related_article1:
-    id: 160297
-    title: How can you balance academic and personal life when developing a timetable?
+    id: 160332
+    title: >-
+        How does APA style differ from MLA style in citation systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-balance-academic-and-personal-life-when-developing-a-timetable
+    url: /learn/education-studies/questions/how-does-apa-style-differ-from-mla-style-in-citation-systems
 related_article2:
-    id: 160330
-    title: What are the consequences of plagiarism in academic settings?
+    id: 160332
+    title: >-
+        How does APA style differ from MLA style in citation systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-consequences-of-plagiarism-in-academic-settings
+    url: /learn/education-studies/questions/how-does-apa-style-differ-from-mla-style-in-citation-systems
 related_article3:
-    id: 160299
-    title: What is the difference between skimming and scanning in reading strategies?
+    id: 160302
+    title: >-
+        How does the Cornell Method help in note-making?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-skimming-and-scanning-in-reading-strategies
+    url: /learn/education-studies/questions/how-does-the-cornell-method-help-in-notemaking
 related_article4:
     id: 160294
-    title: What are the key techniques for effective time management?
+    title: >-
+        What are the key techniques for effective time management?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-techniques-for-effective-time-management
 related_article5:
-    id: 160309
-    title: How can you engage the audience during a presentation?
+    id: 160338
+    title: >-
+        What should you do to review your exam performance effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-engage-the-audience-during-a-presentation
+    url: /learn/education-studies/questions/what-should-you-do-to-review-your-exam-performance-effectively
 ---
 
 &nbsp;

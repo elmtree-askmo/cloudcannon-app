@@ -2,8 +2,10 @@
 _schema: default
 id: 165171
 date: 2025-01-28
-title: What is the primary purpose of an abstract in a research paper, and what are its key elements?
-article_title: What is the primary purpose of an abstract in a research paper, and what are its key elements?
+title: >-
+    What is the primary purpose of an abstract in a research paper, and what are its key elements?
+article_title: >-
+    What is the primary purpose of an abstract in a research paper, and what are its key elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-purpose-of-an-abstract-in-a-research-paper-and-wh
 url: /learn/education-studies/questions/what-is-the-primary-purpose-of-an-abstract-in-a-research-paper-and-what-are-its-key-elements
 score: -1.0
 related_article1:
-    id: 165173
-    title: What are operational definitions, and why are they crucial in experimental design?
+    id: 165169
+    title: >-
+        What are the key components of a scientific article, and how do they contribute to the overall structure?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-operational-definitions-and-why-are-they-crucial-in-experimental-design
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
 related_article2:
+    id: 165172
+    title: >-
+        How do true experiments differ from quasi-experiments in terms of design and control?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
+related_article3:
     id: 165176
-    title: What criteria must be met to establish causation in research, and how can alternative explanations be ruled out?
+    title: >-
+        What criteria must be met to establish causation in research, and how can alternative explanations be ruled out?
     subject: Education Studies
     url: /learn/education-studies/questions/what-criteria-must-be-met-to-establish-causation-in-research-and-how-can-alternative-explanations-be-ruled-out
-related_article3:
-    id: 165182
-    title: Why is data visualization important in research, and what are some effective types of figures used to communicate data?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-data-visualization-important-in-research-and-what-are-some-effective-types-of-figures-used-to-communicate-data
 related_article4:
-    id: 165174
-    title: How can independent and dependent variables be identified and differentiated in an experiment?
+    id: 165169
+    title: >-
+        What are the key components of a scientific article, and how do they contribute to the overall structure?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-and-dependent-variables-be-identified-and-differentiated-in-an-experiment
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-scientific-article-and-how-do-they-contribute-to-the-overall-structure
 related_article5:
-    id: 165186
-    title: How can the study of animal behavior provide insights into evolutionary processes?
+    id: 165179
+    title: >-
+        What is the difference between reliability and validity in research, and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-study-of-animal-behavior-provide-insights-into-evolutionary-processes
+    url: /learn/education-studies/questions/what-is-the-difference-between-reliability-and-validity-in-research-and-why-are-they-important
 ---
 
 &nbsp;

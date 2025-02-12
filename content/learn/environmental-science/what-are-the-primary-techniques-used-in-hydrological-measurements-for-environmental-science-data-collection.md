@@ -2,8 +2,10 @@
 _schema: default
 id: 169977
 date: 2025-02-05
-title: What are the primary techniques used in hydrological measurements for environmental science data collection?
-article_title: What are the primary techniques used in hydrological measurements for environmental science data collection?
+title: >-
+    What are the primary techniques used in hydrological measurements for environmental science data collection?
+article_title: >-
+    What are the primary techniques used in hydrological measurements for environmental science data collection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-techniques-used-in-hydrological-measurements-for
 url: /learn/environmental-science/questions/what-are-the-primary-techniques-used-in-hydrological-measurements-for-environmental-science-data-collection
 score: -1.0
 related_article1:
-    id: 169975
-    title: What are the effects of global climate change on the seasonal variations of water temperature in freshwater lakes?
+    id: 169981
+    title: >-
+        What is cultural eutrophication, and what are its primary causes?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-effects-of-global-climate-change-on-the-seasonal-variations-of-water-temperature-in-freshwater-lakes
+    url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
 related_article2:
-    id: 169973
-    title: What are the key roles of long-term ecological research areas in understanding global climate change?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
-related_article3:
-    id: 169974
-    title: How does the Hubbard Brook Ecosystem contribute to long-term ecological research?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/how-does-the-hubbard-brook-ecosystem-contribute-to-longterm-ecological-research
-related_article4:
-    id: 169976
-    title: How do changes in water temperature influence aquatic ecosystem productivity?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/how-do-changes-in-water-temperature-influence-aquatic-ecosystem-productivity
-related_article5:
     id: 169988
-    title: What is the historical significance of the Experimental Lakes Area in ecological research?
+    title: >-
+        What is the historical significance of the Experimental Lakes Area in ecological research?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-is-the-historical-significance-of-the-experimental-lakes-area-in-ecological-research
+related_article3:
+    id: 169983
+    title: >-
+        What role does vegetation play in influencing water temperature dynamics in watersheds?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-role-does-vegetation-play-in-influencing-water-temperature-dynamics-in-watersheds
+related_article4:
+    id: 169981
+    title: >-
+        What is cultural eutrophication, and what are its primary causes?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
+related_article5:
+    id: 169983
+    title: >-
+        What role does vegetation play in influencing water temperature dynamics in watersheds?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-role-does-vegetation-play-in-influencing-water-temperature-dynamics-in-watersheds
 ---
 
 &nbsp;

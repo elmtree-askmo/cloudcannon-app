@@ -2,8 +2,10 @@
 _schema: default
 id: 167944
 date: 2025-02-02
-title: Explain the concept of energy conservation in electrical circuits.
-article_title: Explain the concept of energy conservation in electrical circuits.
+title: >-
+    Explain the concept of energy conservation in electrical circuits.
+article_title: >-
+    Explain the concept of energy conservation in electrical circuits.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-energy-conservation-in-electrical-circuits.md
 url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
 score: -1.0
 related_article1:
-    id: 167949
-    title: Why is circuit analysis important in electrical engineering?
+    id: 167938
+    title: >-
+        What is Ohm's Law and how is it used to calculate current in a circuit?
     subject: Engineering
-    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
+    url: /learn/engineering/questions/what-is-ohms-law-and-how-is-it-used-to-calculate-current-in-a-circuit
 related_article2:
-    id: 167942
-    title: What is the difference between power absorbed and power delivered in resistors?
+    id: 167939
+    title: >-
+        How do you calculate the total resistance in a parallel circuit?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-power-absorbed-and-power-delivered-in-resistors
+    url: /learn/engineering/questions/how-do-you-calculate-the-total-resistance-in-a-parallel-circuit
 related_article3:
-    id: 167935
-    title: What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
-related_article4:
-    id: 167949
-    title: Why is circuit analysis important in electrical engineering?
-    subject: Engineering
-    url: /learn/engineering/questions/why-is-circuit-analysis-important-in-electrical-engineering
-related_article5:
     id: 167936
-    title: Explain the concept of conventional current and its direction in a circuit.
+    title: >-
+        Explain the concept of conventional current and its direction in a circuit.
     subject: Engineering
     url: /learn/engineering/questions/explain-the-concept-of-conventional-current-and-its-direction-in-a-circuit
+related_article4:
+    id: 167935
+    title: >-
+        What is the role of resistors in a circuit, and how do they affect the brightness of light bulbs?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-resistors-in-a-circuit-and-how-do-they-affect-the-brightness-of-light-bulbs
+related_article5:
+    id: 167948
+    title: >-
+        What are the key differences between series and parallel circuits in terms of current pathways?
+    subject: Engineering
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
 ---
 
 &nbsp;

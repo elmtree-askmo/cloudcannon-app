@@ -2,8 +2,10 @@
 _schema: default
 id: 163808
 date: 2025-01-27
-title: How can the average rate of change be calculated using a graph?
-article_title: How can the average rate of change be calculated using a graph?
+title: >-
+    How can the average rate of change be calculated using a graph?
+article_title: >-
+    How can the average rate of change be calculated using a graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-average-rate-of-change-be-calculated-using-a-graph.md
 url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-using-a-graph
 score: -1.0
 related_article1:
-    id: 163809
-    title: What distinguishes non-linear functions from linear functions?
+    id: 163812
+    title: >-
+        How is the slope formula adapted for non-linear functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-nonlinear-functions-from-linear-functions
+    url: /learn/mathematics/questions/how-is-the-slope-formula-adapted-for-nonlinear-functions
 related_article2:
-    id: 163824
-    title: Why is accurate rate of change calculation important in mathematical modeling?
+    id: 163822
+    title: >-
+        What implications do positive and negative rates of change have for function behavior?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
 related_article3:
-    id: 163821
-    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    id: 163816
+    title: >-
+        How does the average rate of change of a quadratic function vary over different intervals?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+    url: /learn/mathematics/questions/how-does-the-average-rate-of-change-of-a-quadratic-function-vary-over-different-intervals
 related_article4:
-    id: 163814
-    title: How can the average rate of change be calculated for piecewise linear functions using tables?
+    id: 163810
+    title: >-
+        Name three types of non-linear functions.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-calculated-for-piecewise-linear-functions-using-tables
+    url: /learn/mathematics/questions/name-three-types-of-nonlinear-functions
 related_article5:
-    id: 163821
-    title: Why is interval selection important when applying the rate of change formula to non-linear functions?
+    id: 163819
+    title: >-
+        What are the domain and range characteristics of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-square-root-functions
 ---
 
 &nbsp;

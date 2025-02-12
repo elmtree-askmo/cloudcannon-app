@@ -2,8 +2,10 @@
 _schema: default
 id: 161400
 date: 2025-01-24
-title: What is the role of the inference engine in an expert system, and how does it utilize inference rules?
-article_title: What is the role of the inference engine in an expert system, and how does it utilize inference rules?
+title: >-
+    What is the role of the inference engine in an expert system, and how does it utilize inference rules?
+article_title: >-
+    What is the role of the inference engine in an expert system, and how does it utilize inference rules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-is-the-role-of-the-inference-engine-
 score: -1.0
 related_article1:
     id: 161402
-    title: Explain the process of forward chaining and provide an example of its application.
+    title: >-
+        Explain the process of forward chaining and provide an example of its application.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-process-of-forward-chaining-and-provide-an-example-of-its-application
 related_article2:
-    id: 161408
-    title: List and explain two advantages of expert systems related to expertise and accuracy.
+    id: 161224
+    title: >-
+        Identify the main components of an expert system and briefly describe their functions.
     subject: Computer Science
-    url: /learn/computer-science/questions/list-and-explain-two-advantages-of-expert-systems-related-to-expertise-and-accuracy
+    url: /learn/computer-science/questions/identify-the-main-components-of-an-expert-system-and-briefly-describe-their-functions
 related_article3:
     id: 161213
-    title: What is the role of the inference engine in an expert system, and how does it utilize inference rules?
+    title: >-
+        What is the role of the inference engine in an expert system, and how does it utilize inference rules?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-the-inference-engine-in-an-expert-system-and-how-does-it-utilize-inference-rules
 related_article4:
-    id: 161408
-    title: List and explain two advantages of expert systems related to expertise and accuracy.
-    subject: Computer Science
-    url: /learn/computer-science/questions/list-and-explain-two-advantages-of-expert-systems-related-to-expertise-and-accuracy
-related_article5:
     id: 161402
-    title: Explain the process of forward chaining and provide an example of its application.
+    title: >-
+        Explain the process of forward chaining and provide an example of its application.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-process-of-forward-chaining-and-provide-an-example-of-its-application
+related_article5:
+    id: 161409
+    title: >-
+        Discuss two disadvantages of expert systems concerning training and costs.
+    subject: Computer Science
+    url: /learn/computer-science/questions/discuss-two-disadvantages-of-expert-systems-concerning-training-and-costs
 ---
 
 &nbsp;

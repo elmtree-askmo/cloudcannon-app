@@ -2,8 +2,10 @@
 _schema: default
 id: 170669
 date: 2025-02-06
-title: How do disability services ensure equal access and support for students with disabilities?
-article_title: How do disability services ensure equal access and support for students with disabilities?
+title: >-
+    How do disability services ensure equal access and support for students with disabilities?
+article_title: >-
+    How do disability services ensure equal access and support for students with disabilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-disability-services-ensure-equal-access-and-support-for-studen
 url: /learn/education-studies/questions/how-do-disability-services-ensure-equal-access-and-support-for-students-with-disabilities
 score: -1.0
 related_article1:
-    id: 170670
-    title: What are the key components of understanding financial aid, including scholarships and grants?
+    id: 170671
+    title: >-
+        What types of extracurricular activities are available through campus recreation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-understanding-financial-aid-including-scholarships-and-grants
+    url: /learn/education-studies/questions/what-types-of-extracurricular-activities-are-available-through-campus-recreation
 related_article2:
-    id: 170656
-    title: What are the key components of setting SMART goals?
+    id: 170671
+    title: >-
+        What types of extracurricular activities are available through campus recreation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-setting-smart-goals
+    url: /learn/education-studies/questions/what-types-of-extracurricular-activities-are-available-through-campus-recreation
 related_article3:
-    id: 170652
-    title: What strategies can be used to build relationships with community organizations?
+    id: 170651
+    title: >-
+        How can adding volunteer impact to your service transcript benefit your applications?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
+    url: /learn/education-studies/questions/how-can-adding-volunteer-impact-to-your-service-transcript-benefit-your-applications
 related_article4:
-    id: 170667
-    title: What services are offered by counseling services to promote student wellness?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-services-are-offered-by-counseling-services-to-promote-student-wellness
-related_article5:
     id: 170660
-    title: What is intrinsic motivation, and how does it contribute to long-term sustainability?
+    title: >-
+        What is intrinsic motivation, and how does it contribute to long-term sustainability?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-intrinsic-motivation-and-how-does-it-contribute-to-longterm-sustainability
+related_article5:
+    id: 170652
+    title: >-
+        What strategies can be used to build relationships with community organizations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
 ---
 
 &nbsp;

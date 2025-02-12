@@ -2,8 +2,10 @@
 _schema: default
 id: 159744
 date: 2025-01-23
-title: In what ways did the transition from traditional to modern art manifest in the late 19th and early 20th centuries?
-article_title: In what ways did the transition from traditional to modern art manifest in the late 19th and early 20th centuries?
+title: >-
+    In what ways did the transition from traditional to modern art manifest in the late 19th and early 20th centuries?
+article_title: >-
+    In what ways did the transition from traditional to modern art manifest in the late 19th and early 20th centuries?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-the-transition-from-traditional-to-modern-art-manife
 url: /learn/education-studies/questions/in-what-ways-did-the-transition-from-traditional-to-modern-art-manifest-in-the-late-19th-and-early-20th-centuries
 score: -1.0
 related_article1:
-    id: 160021
-    title: How did the Industrial Revolution contribute to the evolution of visual culture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
-related_article2:
     id: 159809
-    title: What innovations in the use of light and color were introduced during the development of new artistic techniques?
+    title: >-
+        What innovations in the use of light and color were introduced during the development of new artistic techniques?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
+related_article2:
+    id: 160031
+    title: >-
+        What innovations in the use of light and color were introduced during the development of new artistic techniques?
     subject: Education Studies
     url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
 related_article3:
-    id: 160025
-    title: How did Victorian society influence the representation of gender in art?
+    id: 159748
+    title: >-
+        What innovations in the use of light and color were introduced during the development of new artistic techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+    url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
 related_article4:
     id: 159804
-    title: In what ways did Post-Impressionism expand upon the ideas of Impressionism?
+    title: >-
+        In what ways did Post-Impressionism expand upon the ideas of Impressionism?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-did-postimpressionism-expand-upon-the-ideas-of-impressionism
 related_article5:
-    id: 159813
-    title: In what ways can art serve as a tool for social change?
+    id: 159748
+    title: >-
+        What innovations in the use of light and color were introduced during the development of new artistic techniques?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
+    url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
 ---
 
 &nbsp;

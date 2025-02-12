@@ -2,8 +2,10 @@
 _schema: default
 id: 170199
 date: 2025-02-06
-title: How do you determine the correct order of variables in a logical expression?
-article_title: How do you determine the correct order of variables in a logical expression?
+title: >-
+    How do you determine the correct order of variables in a logical expression?
+article_title: >-
+    How do you determine the correct order of variables in a logical expression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-determine-the-correct-order-of-variables-in-a-logical-expr
 url: /learn/mathematics/questions/how-do-you-determine-the-correct-order-of-variables-in-a-logical-expression
 score: -1.0
 related_article1:
-    id: 170198
-    title: What are the key logical operators to recognize when translating English into propositional logic?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
-related_article2:
-    id: 170200
-    title: What steps are involved in translating propositional logic back into English while maintaining logical meaning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-steps-are-involved-in-translating-propositional-logic-back-into-english-while-maintaining-logical-meaning
-related_article3:
     id: 170196
-    title: What is a bi-conditional, and how is it used to express equivalence in logic?
+    title: >-
+        What is a bi-conditional, and how is it used to express equivalence in logic?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-a-biconditional-and-how-is-it-used-to-express-equivalence-in-logic
-related_article4:
+related_article2:
     id: 170195
-    title: Provide an example of a logical equivalence and explain its significance.
+    title: >-
+        Provide an example of a logical equivalence and explain its significance.
     subject: Mathematics
     url: /learn/mathematics/questions/provide-an-example-of-a-logical-equivalence-and-explain-its-significance
-related_article5:
-    id: 170198
-    title: What are the key logical operators to recognize when translating English into propositional logic?
+related_article3:
+    id: 170197
+    title: >-
+        How do you identify atomic propositions when translating English sentences into propositional logic?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-logical-operators-to-recognize-when-translating-english-into-propositional-logic
+    url: /learn/mathematics/questions/how-do-you-identify-atomic-propositions-when-translating-english-sentences-into-propositional-logic
+related_article4:
+    id: 170193
+    title: >-
+        What is the role of implication in propositional logic, and how is it typically represented?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-role-of-implication-in-propositional-logic-and-how-is-it-typically-represented
+related_article5:
+    id: 170190
+    title: >-
+        How does negation affect the truth value of a proposition?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-does-negation-affect-the-truth-value-of-a-proposition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170930
 date: 2025-02-07
-title: How is energy captured and stored in cells?
-article_title: How is energy captured and stored in cells?
+title: >-
+    How is energy captured and stored in cells?
+article_title: >-
+    How is energy captured and stored in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-is-energy-captured-and-stored-in-cells.md
 url: /learn/biology/questions/how-is-energy-captured-and-stored-in-cells
 score: -1.0
 related_article1:
-    id: 170934
-    title: Outline the steps involved in glycolysis.
+    id: 170937
+    title: >-
+        Explain the significance of the carbon cycle in ecosystems.
     subject: Biology
-    url: /learn/biology/questions/outline-the-steps-involved-in-glycolysis
+    url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
 related_article2:
-    id: 170939
-    title: How do organisms adapt to varying levels of oxygen availability?
-    subject: Biology
-    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
-related_article3:
-    id: 170928
-    title: Which organisms are capable of respiration?
-    subject: Biology
-    url: /learn/biology/questions/which-organisms-are-capable-of-respiration
-related_article4:
     id: 170935
-    title: What is the role of the Krebs cycle in sugar breakdown?
+    title: >-
+        What is the role of the Krebs cycle in sugar breakdown?
     subject: Biology
     url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
-related_article5:
-    id: 170927
-    title: Describe the process of light absorption in photosynthesis.
+related_article3:
+    id: 170926
+    title: >-
+        What are the main types of organisms capable of photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/describe-the-process-of-light-absorption-in-photosynthesis
+    url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
+related_article4:
+    id: 170932
+    title: >-
+        Differentiate between anabolic and catabolic pathways in cellular processes.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-anabolic-and-catabolic-pathways-in-cellular-processes
 ---
 
 &nbsp;

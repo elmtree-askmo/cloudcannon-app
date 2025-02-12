@@ -2,8 +2,10 @@
 _schema: default
 id: 167867
 date: 2025-02-01
-title: What are the phases of the cell cycle and their significance?
-article_title: What are the phases of the cell cycle and their significance?
+title: >-
+    What are the phases of the cell cycle and their significance?
+article_title: >-
+    What are the phases of the cell cycle and their significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-phases-of-the-cell-cycle-and-their-significance.md
 url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
 score: -1.0
 related_article1:
-    id: 167858
-    title: How does meiosis contribute to genetic variation?
+    id: 167859
+    title: >-
+        Describe the structure of a chromosome and its components.
     subject: Nursing
-    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
+    url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
 related_article2:
-    id: 167853
-    title: What are the key sources for finding recent research articles on genetic diseases?
+    id: 167863
+    title: >-
+        How does oogenesis differ from spermatogenesis in terms of process and outcome?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
+    url: /learn/nursing/questions/how-does-oogenesis-differ-from-spermatogenesis-in-terms-of-process-and-outcome
 related_article3:
-    id: 167864
-    title: What is the role of DNA polymerase in DNA replication?
+    id: 167866
+    title: >-
+        How do alleles contribute to genetic variation within a population?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-dna-polymerase-in-dna-replication
+    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
 related_article4:
-    id: 167865
-    title: Why is accurate DNA replication crucial for genetic stability?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
-related_article5:
     id: 167868
-    title: How do haploid and diploid cells differ in terms of their role in reproduction?
+    title: >-
+        How do haploid and diploid cells differ in terms of their role in reproduction?
     subject: Nursing
     url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
+related_article5:
+    id: 167854
+    title: >-
+        How does the peer review process contribute to the quality of research articles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
 ---
 
 &nbsp;

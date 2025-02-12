@@ -2,8 +2,10 @@
 _schema: default
 id: 161005
 date: 2025-01-24
-title: What is the significance of understanding the origin of problems in computational problem solving?
-article_title: What is the significance of understanding the origin of problems in computational problem solving?
+title: >-
+    What is the significance of understanding the origin of problems in computational problem solving?
+article_title: >-
+    What is the significance of understanding the origin of problems in computational problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-understanding-the-origin-of-problems-in-c
 url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 score: -1.0
 related_article1:
-    id: 160710
-    title: What constraints must be considered for binary search to be effective?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
-related_article2:
-    id: 160868
-    title: What is the difference between solvable and unsolvable problems in computability theory?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
-related_article3:
-    id: 160870
-    title: What are the challenges in proving software solutions compared to testing them?
+    id: 160790
+    title: >-
+        What are the challenges in proving software solutions compared to testing them?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
+related_article2:
+    id: 160789
+    title: >-
+        How do Turing machines contribute to the theoretical foundations of computability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
+related_article3:
+    id: 160871
+    title: >-
+        What constraints must be considered for binary search to be effective?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
 related_article4:
-    id: 160713
-    title: Compare linear search with depth-first search in terms of their application.
+    id: 160866
+    title: >-
+        What are associative arrays and how do they utilize non-numeric indices?
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-application
+    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
 related_article5:
-    id: 160708
-    title: How can analyzing problem specifications aid in problem-solving strategies in software engineering?
+    id: 160716
+    title: >-
+        What information is conveyed by indices in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-analyzing-problem-specifications-aid-in-problemsolving-strategies-in-software-engineering
+    url: /learn/computer-science/questions/what-information-is-conveyed-by-indices-in-data-structures
 ---
 
 &nbsp;

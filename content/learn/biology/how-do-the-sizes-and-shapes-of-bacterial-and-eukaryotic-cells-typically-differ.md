@@ -2,8 +2,10 @@
 _schema: default
 id: 170941
 date: 2025-02-07
-title: How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
-article_title: How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+title: >-
+    How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+article_title: >-
+    How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typical
 url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
 score: -1.0
 related_article1:
-    id: 170943
-    title: How does light microscopy differ from electron microscopy in terms of resolution limits?
+    id: 170954
+    title: >-
+        What are the main advantages and limitations of light microscopy compared to electron microscopy?
     subject: Biology
-    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
+    url: /learn/biology/questions/what-are-the-main-advantages-and-limitations-of-light-microscopy-compared-to-electron-microscopy
 related_article2:
     id: 170948
-    title: How does confocal microscopy achieve optical sectioning?
+    title: >-
+        How does confocal microscopy achieve optical sectioning?
     subject: Biology
     url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
 related_article3:
-    id: 170946
-    title: How do fluorescent molecules function in fluorescence microscopy?
+    id: 170940
+    title: >-
+        What are the key structural differences between bacterial and eukaryotic cells?
     subject: Biology
-    url: /learn/biology/questions/how-do-fluorescent-molecules-function-in-fluorescence-microscopy
+    url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
 related_article4:
-    id: 170949
-    title: What were some key contributions of early scientists to the development of microscopy?
+    id: 170950
+    title: >-
+        How did the cell theory postulates contribute to advances in microscopy during the 19th century?
     subject: Biology
-    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
+    url: /learn/biology/questions/how-did-the-cell-theory-postulates-contribute-to-advances-in-microscopy-during-the-19th-century
 related_article5:
     id: 170951
-    title: What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
+    title: >-
+        What is the source organism of Green Fluorescent Protein (GFP) and what are its fluorescence characteristics?
     subject: Biology
     url: /learn/biology/questions/what-is-the-source-organism-of-green-fluorescent-protein-gfp-and-what-are-its-fluorescence-characteristics
 ---

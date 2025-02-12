@@ -2,8 +2,10 @@
 _schema: default
 id: 159745
 date: 2025-01-23
-title: What role did salons and academies play in the development of art history?
-article_title: What role did salons and academies play in the development of art history?
+title: >-
+    What role did salons and academies play in the development of art history?
+article_title: >-
+    What role did salons and academies play in the development of art history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-salons-and-academies-play-in-the-development-of-art-his
 url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
 score: -1.0
 related_article1:
-    id: 160012
-    title: How did technological advancements during the Industrial Revolution influence modern art?
+    id: 159750
+    title: >-
+        What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
+    url: /learn/education-studies/questions/what-were-the-major-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
 related_article2:
-    id: 159806
-    title: What were the major changes in artistic representation during the transition from traditional to modern art?
+    id: 159752
+    title: >-
+        In what ways can art serve as a tool for social change?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-changes-in-artistic-representation-during-the-transition-from-traditional-to-modern-art
+    url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
 related_article3:
-    id: 160015
-    title: Describe the main characteristics of Realism as an artistic movement.
+    id: 159740
+    title: >-
+        Describe the key characteristics of Realism as an artistic movement.
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-main-characteristics-of-realism-as-an-artistic-movement
+    url: /learn/education-studies/questions/describe-the-key-characteristics-of-realism-as-an-artistic-movement
 related_article4:
-    id: 159747
-    title: What impact did colonialism have on European art and its interaction with non-European cultures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-impact-did-colonialism-have-on-european-art-and-its-interaction-with-noneuropean-cultures
-related_article5:
-    id: 159746
-    title: How did Victorian society influence the representation of gender in art?
+    id: 160025
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+related_article5:
+    id: 159750
+    title: >-
+        What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-major-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
 ---
 
 &nbsp;

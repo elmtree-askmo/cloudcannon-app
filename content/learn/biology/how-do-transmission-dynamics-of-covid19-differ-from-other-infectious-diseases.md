@@ -2,8 +2,10 @@
 _schema: default
 id: 166144
 date: 2025-01-29
-title: How do transmission dynamics of COVID-19 differ from other infectious diseases?
-article_title: How do transmission dynamics of COVID-19 differ from other infectious diseases?
+title: >-
+    How do transmission dynamics of COVID-19 differ from other infectious diseases?
+article_title: >-
+    How do transmission dynamics of COVID-19 differ from other infectious diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-
 url: /learn/biology/questions/how-do-transmission-dynamics-of-covid19-differ-from-other-infectious-diseases
 score: -1.0
 related_article1:
-    id: 166147
-    title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
-    subject: Biology
-    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
-related_article2:
-    id: 166135
-    title: What are the main sources of genetic variation in a population?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
-related_article3:
     id: 166142
-    title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    title: >-
+        How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
     subject: Biology
     url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
+related_article2:
+    id: 166137
+    title: >-
+        What is the role of payoff matrices in game theory?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-payoff-matrices-in-game-theory
+related_article3:
+    id: 166151
+    title: >-
+        What is the significance of measuring prevalence in infection dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-in-infection-dynamics
 related_article4:
-    id: 166146
-    title: How does carrying capacity influence population regulation in density-dependent growth?
+    id: 166136
+    title: >-
+        How does natural selection lead to the development of adaptive traits?
     subject: Biology
-    url: /learn/biology/questions/how-does-carrying-capacity-influence-population-regulation-in-densitydependent-growth
+    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
 related_article5:
-    id: 166147
-    title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+    id: 166145
+    title: >-
+        What role do oncogenes and tumor suppressors play in cancer progression?
     subject: Biology
-    url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
+    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
 ---
 
 &nbsp;

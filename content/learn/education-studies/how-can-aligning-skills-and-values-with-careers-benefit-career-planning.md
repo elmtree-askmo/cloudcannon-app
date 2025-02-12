@@ -2,8 +2,10 @@
 _schema: default
 id: 168462
 date: 2025-02-03
-title: How can aligning skills and values with careers benefit career planning?
-article_title: How can aligning skills and values with careers benefit career planning?
+title: >-
+    How can aligning skills and values with careers benefit career planning?
+article_title: >-
+    How can aligning skills and values with careers benefit career planning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-aligning-skills-and-values-with-careers-benefit-career-planni
 url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
 score: -1.0
 related_article1:
+    id: 168468
+    title: >-
+        How can family and friends influence an individual's values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
+related_article2:
+    id: 168457
+    title: >-
+        What are subject-specific skills and how do they differ from general skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-subjectspecific-skills-and-how-do-they-differ-from-general-skills
+related_article3:
+    id: 168454
+    title: >-
+        What are values and how do they influence career choices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
+related_article4:
+    id: 168455
+    title: >-
+        List three core values that might impact career decisions.
+    subject: Education Studies
+    url: /learn/education-studies/questions/list-three-core-values-that-might-impact-career-decisions
+related_article5:
     id: 168466
-    title: Why is creativity important in certain careers?
+    title: >-
+        Why is creativity important in certain careers?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-creativity-important-in-certain-careers
-related_article2:
-    id: 168461
-    title: What traits are commonly suited for specific careers?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
-related_article3:
-    id: 168471
-    title: Why might values change over time?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-might-values-change-over-time
-related_article4:
-    id: 168456
-    title: Define skills and explain their importance in career choice.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
-related_article5:
-    id: 168459
-    title: Why is it important to reflect on interests and aptitudes during self-assessment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-reflect-on-interests-and-aptitudes-during-selfassessment
 ---
 
 &nbsp;

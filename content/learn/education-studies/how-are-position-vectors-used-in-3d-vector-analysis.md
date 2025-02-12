@@ -2,8 +2,10 @@
 _schema: default
 id: 166695
 date: 2025-01-31
-title: How are position vectors used in 3D vector analysis?
-article_title: How are position vectors used in 3D vector analysis?
+title: >-
+    How are position vectors used in 3D vector analysis?
+article_title: >-
+    How are position vectors used in 3D vector analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-position-vectors-used-in-3d-vector-analysis.md
 url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
 score: -1.0
 related_article1:
-    id: 166714
-    title: What are the current job market trends for consulting opportunities in engineering?
+    id: 166710
+    title: >-
+        What are the eligibility criteria for engineering scholarships?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
+    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
 related_article2:
-    id: 166715
-    title: What skills and qualifications are typically required for consulting roles in engineering?
+    id: 166692
+    title: >-
+        What is the vector cross product and how is it calculated?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
+    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
 related_article3:
-    id: 166721
-    title: How do engineering conferences and workshops contribute to professional growth?
+    id: 166702
+    title: >-
+        How does torque relate to the moment of force?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+    url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
 related_article4:
-    id: 166707
-    title: What factors affect energy transfer and efficiency in engineering systems?
+    id: 166709
+    title: >-
+        How can engineering certifications impact a professional's career?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-affect-energy-transfer-and-efficiency-in-engineering-systems
+    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
 related_article5:
-    id: 166701
-    title: Explain the concept of torque and its importance in engineering.
+    id: 166709
+    title: >-
+        How can engineering certifications impact a professional's career?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
+    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
 ---
 
 &nbsp;

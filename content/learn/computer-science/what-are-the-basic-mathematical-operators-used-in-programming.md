@@ -2,8 +2,10 @@
 _schema: default
 id: 161189
 date: 2025-01-24
-title: What are the basic mathematical operators used in programming?
-article_title: What are the basic mathematical operators used in programming?
+title: >-
+    What are the basic mathematical operators used in programming?
+article_title: >-
+    What are the basic mathematical operators used in programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-basic-mathematical-operators-used-in-programming.md
 url: /learn/computer-science/questions/what-are-the-basic-mathematical-operators-used-in-programming
 score: -1.0
 related_article1:
-    id: 161481
-    title: How do comparison operators facilitate decision making in algorithms?
+    id: 161474
+    title: >-
+        What symbol is used in flowcharts to represent the start or end of a process?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+    url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
 related_article2:
-    id: 161188
-    title: Differentiate between procedures and functions in subroutines.
+    id: 161196
+    title: >-
+        What is the significance of variables in data storage and manipulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
+    url: /learn/computer-science/questions/what-is-the-significance-of-variables-in-data-storage-and-manipulation
 related_article3:
-    id: 161184
-    title: How are input and output operations represented in a flowchart?
+    id: 161183
+    title: >-
+        What symbol in a flowchart represents the start or end of a process?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-operations-represented-in-a-flowchart
+    url: /learn/computer-science/questions/what-symbol-in-a-flowchart-represents-the-start-or-end-of-a-process
 related_article4:
-    id: 161182
-    title: What is pseudocode and how is it used in programming?
+    id: 161186
+    title: >-
+        Explain the difference between count-controlled and condition-controlled loops.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
+    url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
 related_article5:
-    id: 161488
-    title: How do control structures like sequence, selection, and iteration influence program flow?
+    id: 161484
+    title: >-
+        What is iteration and how does it differ from simple repetition?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
+    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
 ---
 
 &nbsp;

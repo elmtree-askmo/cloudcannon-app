@@ -2,8 +2,10 @@
 _schema: default
 id: 170993
 date: 2025-02-07
-title: What role does phosphorylation play in active transport and muscle contraction?
-article_title: What role does phosphorylation play in active transport and muscle contraction?
+title: >-
+    What role does phosphorylation play in active transport and muscle contraction?
+article_title: >-
+    What role does phosphorylation play in active transport and muscle contraction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-phosphorylation-play-in-active-transport-and-muscle-co
 url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
 score: -1.0
 related_article1:
-    id: 170975
-    title: How do coupling reactions make unfavorable reactions proceed?
+    id: 170978
+    title: >-
+        What is the role of common intermediates in coupling mechanisms?
     subject: Biology
-    url: /learn/biology/questions/how-do-coupling-reactions-make-unfavorable-reactions-proceed
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
 related_article2:
-    id: 170974
-    title: What is the difference between favorable and unfavorable reactions in energy conversions?
+    id: 170977
+    title: >-
+        How do enzymes lower activation energy in reaction coupling?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-favorable-and-unfavorable-reactions-in-energy-conversions
+    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
 related_article3:
-    id: 170994
-    title: How can energy diagrams be used to interpret favorable versus unfavorable reactions?
+    id: 170987
+    title: >-
+        What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
     subject: Biology
-    url: /learn/biology/questions/how-can-energy-diagrams-be-used-to-interpret-favorable-versus-unfavorable-reactions
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
 related_article4:
+    id: 170991
+    title: >-
+        What is the impact of positive and negative delta G on reaction favorability?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-impact-of-positive-and-negative-delta-g-on-reaction-favorability
+related_article5:
     id: 170992
-    title: How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
+    title: >-
+        How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
     subject: Biology
     url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
-related_article5:
-    id: 170985
-    title: How do equilibrium constants relate to chemical equilibrium in glycolysis?
-    subject: Biology
-    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
 ---
 
 &nbsp;

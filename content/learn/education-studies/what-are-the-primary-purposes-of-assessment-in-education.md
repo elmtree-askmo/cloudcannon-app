@@ -2,8 +2,10 @@
 _schema: default
 id: 166578
 date: 2025-01-30
-title: What are the primary purposes of assessment in education?
-article_title: What are the primary purposes of assessment in education?
+title: >-
+    What are the primary purposes of assessment in education?
+article_title: >-
+    What are the primary purposes of assessment in education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: what-are-the-primary-purposes-of-assessment-in-education.md
 url: /learn/education-studies/questions/what-are-the-primary-purposes-of-assessment-in-education
 score: -1.0
 related_article1:
-    id: 166588
-    title: How does formative assessment contribute to enhancing learning outcomes?
+    id: 166594
+    title: >-
+        What barriers might impede knowledge acquisition, and how can they be overcome?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-formative-assessment-contribute-to-enhancing-learning-outcomes
+    url: /learn/education-studies/questions/what-barriers-might-impede-knowledge-acquisition-and-how-can-they-be-overcome
 related_article2:
     id: 166593
-    title: How can reflective practices deepen understanding and enhance critical thinking?
+    title: >-
+        How can reflective practices deepen understanding and enhance critical thinking?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-reflective-practices-deepen-understanding-and-enhance-critical-thinking
 related_article3:
-    id: 166580
-    title: What are the key components of an effective self-assessment technique?
+    id: 166582
+    title: >-
+        What strategies can be used to adapt study techniques to different learning styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-selfassessment-technique
-related_article4:
-    id: 166585
-    title: What are the essential elements of a well-structured essay?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-essay
-related_article5:
-    id: 166596
-    title: How do academic standards influence curriculum design and course objectives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-academic-standards-influence-curriculum-design-and-course-objectives
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-adapt-study-techniques-to-different-learning-styles
 ---
 
 &nbsp;

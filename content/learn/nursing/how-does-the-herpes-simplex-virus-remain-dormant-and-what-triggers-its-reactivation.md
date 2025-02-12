@@ -2,8 +2,10 @@
 _schema: default
 id: 170495
 date: 2025-02-06
-title: How does the herpes simplex virus remain dormant and what triggers its reactivation?
-article_title: How does the herpes simplex virus remain dormant and what triggers its reactivation?
+title: >-
+    How does the herpes simplex virus remain dormant and what triggers its reactivation?
+article_title: >-
+    How does the herpes simplex virus remain dormant and what triggers its reactivation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-it
 url: /learn/nursing/questions/how-does-the-herpes-simplex-virus-remain-dormant-and-what-triggers-its-reactivation
 score: -1.0
 related_article1:
-    id: 170489
-    title: What roles do axons and dendrites play in neuron function?
+    id: 170488
+    title: >-
+        Describe the structure and function of motor neurons, sensory neurons, and interneurons.
     subject: Nursing
-    url: /learn/nursing/questions/what-roles-do-axons-and-dendrites-play-in-neuron-function
+    url: /learn/nursing/questions/describe-the-structure-and-function-of-motor-neurons-sensory-neurons-and-interneurons
 related_article2:
-    id: 170500
-    title: What are some rehabilitation strategies that utilize neuroplasticity for recovery?
+    id: 170486
+    title: >-
+        What are the main components of the spinal cord anatomy and their functions?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-rehabilitation-strategies-that-utilize-neuroplasticity-for-recovery
+    url: /learn/nursing/questions/what-are-the-main-components-of-the-spinal-cord-anatomy-and-their-functions
 related_article3:
-    id: 170496
-    title: What is the clinical significance of the Babinski test in neurological assessment?
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 related_article4:
+    id: 170494
+    title: >-
+        What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+related_article5:
     id: 170497
-    title: Describe the functional differences between the central and peripheral nervous systems.
+    title: >-
+        Describe the functional differences between the central and peripheral nervous systems.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
-related_article5:
-    id: 170492
-    title: What is the difference between excitatory and inhibitory neurotransmitters?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-excitatory-and-inhibitory-neurotransmitters
 ---
 
 &nbsp;

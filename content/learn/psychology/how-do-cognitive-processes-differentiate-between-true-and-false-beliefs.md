@@ -2,8 +2,10 @@
 _schema: default
 id: 167982
 date: 2025-02-02
-title: How do cognitive processes differentiate between true and false beliefs?
-article_title: How do cognitive processes differentiate between true and false beliefs?
+title: >-
+    How do cognitive processes differentiate between true and false beliefs?
+article_title: >-
+    How do cognitive processes differentiate between true and false beliefs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-cognitive-processes-differentiate-between-true-and-false-belie
 url: /learn/psychology/questions/how-do-cognitive-processes-differentiate-between-true-and-false-beliefs
 score: -1.0
 related_article1:
-    id: 167974
-    title: What cognitive milestones are associated with understanding mental states in child development?
+    id: 167981
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
     subject: Psychology
-    url: /learn/psychology/questions/what-cognitive-milestones-are-associated-with-understanding-mental-states-in-child-development
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 related_article2:
-    id: 167977
-    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    id: 167975
+    title: >-
+        How does play contribute to social cognition development in children?
     subject: Psychology
-    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+    url: /learn/psychology/questions/how-does-play-contribute-to-social-cognition-development-in-children
 related_article3:
-    id: 167978
-    title: How do individuals differentiate between reality and belief, and how does this influence behavior?
+    id: 167971
+    title: >-
+        At what age range does Theory of Mind typically develop in children, and what factors influence its development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
 related_article4:
-    id: 167980
-    title: How does empathy and perspective taking contribute to interpersonal understanding?
+    id: 167970
+    title: >-
+        What is the Theory of Mind and why is it significant in cognitive psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 related_article5:
-    id: 167977
-    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    id: 167971
+    title: >-
+        At what age range does Theory of Mind typically develop in children, and what factors influence its development?
     subject: Psychology
-    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+    url: /learn/psychology/questions/at-what-age-range-does-theory-of-mind-typically-develop-in-children-and-what-factors-influence-its-development
 ---
 
 &nbsp;

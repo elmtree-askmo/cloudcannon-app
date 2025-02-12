@@ -2,8 +2,10 @@
 _schema: default
 id: 165847
 date: 2025-01-29
-title: What are the key public health implications of parasitic diseases?
-article_title: What are the key public health implications of parasitic diseases?
+title: >-
+    What are the key public health implications of parasitic diseases?
+article_title: >-
+    What are the key public health implications of parasitic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-public-health-implications-of-parasitic-diseases.md
 url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 score: -1.0
 related_article1:
-    id: 165843
-    title: What are the ecological consequences of habitat disruption caused by parasites?
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 related_article2:
-    id: 165831
-    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
     subject: Psychology
-    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
 related_article3:
-    id: 165854
-    title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
+    id: 165839
+    title: >-
+        What molecular techniques are advancing research in parasitology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
 related_article4:
-    id: 165856
-    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
 related_article5:
-    id: 165844
-    title: How have historical research models using nematodes contributed to the field of parasitology?
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 ---
 
 &nbsp;

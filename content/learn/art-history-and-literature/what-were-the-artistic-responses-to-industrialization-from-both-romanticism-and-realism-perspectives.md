@@ -2,8 +2,10 @@
 _schema: default
 id: 168729
 date: 2025-02-04
-title: What were the artistic responses to industrialization from both Romanticism and Realism perspectives?
-article_title: What were the artistic responses to industrialization from both Romanticism and Realism perspectives?
+title: >-
+    What were the artistic responses to industrialization from both Romanticism and Realism perspectives?
+article_title: >-
+    What were the artistic responses to industrialization from both Romanticism and Realism perspectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-artistic-responses-to-industrialization-from-both-roman
 url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-industrialization-from-both-romanticism-and-realism-perspectives
 score: 9.5
 related_article1:
-    id: 168724
-    title: How did political upheavals influence art and the role of artists in society during the 19th century?
+    id: 168722
+    title: >-
+        How did the introduction of photography change the composition and realism in painting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
 related_article2:
-    id: 168726
-    title: How did 19th-century art address social issues such as poverty and gender identity?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
-related_article3:
-    id: 168728
-    title: How did artists depict labor and working conditions during the Industrial Revolution?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
-related_article4:
     id: 168731
-    title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+    title: >-
+        What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
-related_article5:
+related_article3:
     id: 168719
-    title: What are the defining features of Romanticism, and how did it react to industrialization?
+    title: >-
+        What are the defining features of Romanticism, and how did it react to industrialization?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
+related_article4:
+    id: 168735
+    title: >-
+        What role did women play in art during the 19th century, and how was gender identity explored?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
+related_article5:
+    id: 168715
+    title: >-
+        What were the main causes of social unrest leading to the French Revolution?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-main-causes-of-social-unrest-leading-to-the-french-revolution
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168835
 date: 2025-02-04
-title: What is the significance of epithelial cells in the absorption process?
-article_title: What is the significance of epithelial cells in the absorption process?
+title: >-
+    What is the significance of epithelial cells in the absorption process?
+article_title: >-
+    What is the significance of epithelial cells in the absorption process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-epithelial-cells-in-the-absorption-proces
 url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
 score: -1.0
 related_article1:
-    id: 168836
-    title: How do villi enhance the absorption of nutrients in the small intestine?
-    subject: Biology
-    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
-related_article2:
     id: 168831
-    title: What is the function of endopeptidases in protein digestion?
+    title: >-
+        What is the function of endopeptidases in protein digestion?
     subject: Biology
     url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+related_article2:
+    id: 168832
+    title: >-
+        How do exopeptidases contribute to the breakdown of polypeptides?
+    subject: Biology
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
 related_article3:
-    id: 168836
-    title: How do villi enhance the absorption of nutrients in the small intestine?
+    id: 168840
+    title: >-
+        What are the mechanisms involved in glucose transport across the intestinal epithelium?
     subject: Biology
-    url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
 related_article4:
-    id: 168830
-    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    id: 168832
+    title: >-
+        How do exopeptidases contribute to the breakdown of polypeptides?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
 related_article5:
-    id: 168830
-    title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+    id: 168827
+    title: >-
+        What is the structural difference between amylose and amelopectin?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
+    url: /learn/biology/questions/what-is-the-structural-difference-between-amylose-and-amelopectin
 ---
 
 &nbsp;

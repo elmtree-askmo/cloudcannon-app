@@ -2,8 +2,10 @@
 _schema: default
 id: 159842
 date: 2025-01-23
-title: How did queer art develop in modern society, and who were some key figures and movements in this area?
-article_title: How did queer art develop in modern society, and who were some key figures and movements in this area?
+title: >-
+    How did queer art develop in modern society, and who were some key figures and movements in this area?
+article_title: >-
+    How did queer art develop in modern society, and who were some key figures and movements in this area?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-queer-art-develop-in-modern-society-and-who-were-some-key-fig
 url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
 score: 9.0
 related_article1:
-    id: 159835
-    title: What were the origins of Cubism, and how did it impact modern art?
+    id: 159836
+    title: >-
+        How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
 related_article2:
-    id: 159841
-    title: What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
+    id: 159832
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 related_article3:
-    id: 160106
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 related_article4:
-    id: 159851
-    title: In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
-related_article5:
-    id: 160106
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    id: 159832
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
+related_article5:
+    id: 159839
+    title: >-
+        In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 ---
 
 &nbsp;

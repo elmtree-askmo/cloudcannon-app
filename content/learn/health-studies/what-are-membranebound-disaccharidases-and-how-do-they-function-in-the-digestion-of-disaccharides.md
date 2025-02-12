@@ -2,8 +2,10 @@
 _schema: default
 id: 168847
 date: 2025-02-04
-title: What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
-article_title: What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
+title: >-
+    What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
+article_title: >-
+    What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-membranebound-disaccharidases-and-how-do-they-function-in-th
 url: /learn/health-studies/questions/what-are-membranebound-disaccharidases-and-how-do-they-function-in-the-digestion-of-disaccharides
 score: -1.0
 related_article1:
-    id: 168852
-    title: How is glucose absorbed in the small intestine, and why is this process important for metabolism?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
-related_article2:
-    id: 168848
-    title: Explain the mechanism of co-transporters and their role in nutrient absorption, particularly sodium-glucose co-transport.
-    subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-mechanism-of-cotransporters-and-their-role-in-nutrient-absorption-particularly-sodiumglucose-cotransport
-related_article3:
-    id: 168842
-    title: What is hydrolysis and how does it contribute to the digestion process?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-hydrolysis-and-how-does-it-contribute-to-the-digestion-process
-related_article4:
-    id: 168855
-    title: Describe the role of maltase in the hydrolysis of maltose and its location in the body.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-role-of-maltase-in-the-hydrolysis-of-maltose-and-its-location-in-the-body
-related_article5:
     id: 168849
-    title: How do epithelial cells in the small intestine adapt to maximize nutrient absorption?
+    title: >-
+        How do epithelial cells in the small intestine adapt to maximize nutrient absorption?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-epithelial-cells-in-the-small-intestine-adapt-to-maximize-nutrient-absorption
+related_article2:
+    id: 168854
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
+related_article3:
+    id: 168851
+    title: >-
+        Outline the process of ATP production through cellular respiration and its role as an energy currency.
+    subject: Health Studies
+    url: /learn/health-studies/questions/outline-the-process-of-atp-production-through-cellular-respiration-and-its-role-as-an-energy-currency
+related_article4:
+    id: 168851
+    title: >-
+        Outline the process of ATP production through cellular respiration and its role as an energy currency.
+    subject: Health Studies
+    url: /learn/health-studies/questions/outline-the-process-of-atp-production-through-cellular-respiration-and-its-role-as-an-energy-currency
+related_article5:
+    id: 168857
+    title: >-
+        What is the structure of the small intestine, and how does it facilitate nutrient absorption?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-structure-of-the-small-intestine-and-how-does-it-facilitate-nutrient-absorption
 ---
 
 &nbsp;

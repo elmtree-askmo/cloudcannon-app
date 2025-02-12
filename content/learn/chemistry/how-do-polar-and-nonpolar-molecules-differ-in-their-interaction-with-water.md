@@ -2,8 +2,10 @@
 _schema: default
 id: 166991
 date: 2025-01-31
-title: How do polar and nonpolar molecules differ in their interaction with water?
-article_title: How do polar and nonpolar molecules differ in their interaction with water?
+title: >-
+    How do polar and nonpolar molecules differ in their interaction with water?
+article_title: >-
+    How do polar and nonpolar molecules differ in their interaction with water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-
 url: /learn/chemistry/questions/how-do-polar-and-nonpolar-molecules-differ-in-their-interaction-with-water
 score: -1.0
 related_article1:
-    id: 166992
-    title: What defines a substance as an acid or a base in terms of pH?
+    id: 166993
+    title: >-
+        How does the pH scale categorize strong acids and bases?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+    url: /learn/chemistry/questions/how-does-the-ph-scale-categorize-strong-acids-and-bases
 related_article2:
-    id: 166994
-    title: What is the function of the bicarbonate buffer system in human blood?
+    id: 166990
+    title: >-
+        What is capillary action and how does it relate to adhesion?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
+    url: /learn/chemistry/questions/what-is-capillary-action-and-how-does-it-relate-to-adhesion
 related_article3:
-    id: 166992
-    title: What defines a substance as an acid or a base in terms of pH?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
-related_article4:
     id: 166989
-    title: How does surface tension arise from the cohesive properties of water?
+    title: >-
+        How does surface tension arise from the cohesive properties of water?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-surface-tension-arise-from-the-cohesive-properties-of-water
-related_article5:
-    id: 166992
-    title: What defines a substance as an acid or a base in terms of pH?
+related_article4:
+    id: 166997
+    title: >-
+        How do electronegativity differences lead to polar and nonpolar bonds?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-a-substance-as-an-acid-or-a-base-in-terms-of-ph
+    url: /learn/chemistry/questions/how-do-electronegativity-differences-lead-to-polar-and-nonpolar-bonds
+related_article5:
+    id: 166994
+    title: >-
+        What is the function of the bicarbonate buffer system in human blood?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-function-of-the-bicarbonate-buffer-system-in-human-blood
 ---
 
 &nbsp;

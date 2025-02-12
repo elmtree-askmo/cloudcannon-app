@@ -2,8 +2,10 @@
 _schema: default
 id: 166049
 date: 2025-01-29
-title: Why were Druids exempt from war, and what was the significance of their oral tradition?
-article_title: Why were Druids exempt from war, and what was the significance of their oral tradition?
+title: >-
+    Why were Druids exempt from war, and what was the significance of their oral tradition?
+article_title: >-
+    Why were Druids exempt from war, and what was the significance of their oral tradition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-were-druids-exempt-from-war-and-what-was-the-significance-of-thei
 url: /learn/others/questions/why-were-druids-exempt-from-war-and-what-was-the-significance-of-their-oral-tradition
 score: -1.0
 related_article1:
-    id: 166051
-    title: What were the sacrificial rites associated with Gallic deities?
+    id: 166040
+    title: >-
+        What regions were identified as Celtic by Greek sources?
     subject: Others
-    url: /learn/others/questions/what-were-the-sacrificial-rites-associated-with-gallic-deities
+    url: /learn/others/questions/what-regions-were-identified-as-celtic-by-greek-sources
 related_article2:
-    id: 166041
-    title: How did Greek sources describe the martial prowess of the Celts?
+    id: 166053
+    title: >-
+        What were the main interactions between Celtic tribes and Romans?
     subject: Others
-    url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
+    url: /learn/others/questions/what-were-the-main-interactions-between-celtic-tribes-and-romans
 related_article3:
+    id: 166044
+    title: >-
+        What was the outcome of the Helvetii migration during the Gallic Wars?
+    subject: Others
+    url: /learn/others/questions/what-was-the-outcome-of-the-helvetii-migration-during-the-gallic-wars
+related_article4:
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
+    subject: Others
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
+related_article5:
     id: 166041
-    title: How did Greek sources describe the martial prowess of the Celts?
+    title: >-
+        How did Greek sources describe the martial prowess of the Celts?
     subject: Others
     url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
-related_article4:
-    id: 166057
-    title: How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
-    subject: Others
-    url: /learn/others/questions/how-did-roman-perspectives-such-as-caesars-narratives-shape-the-historical-accounts-of-the-celts
-related_article5:
-    id: 166051
-    title: What were the sacrificial rites associated with Gallic deities?
-    subject: Others
-    url: /learn/others/questions/what-were-the-sacrificial-rites-associated-with-gallic-deities
 ---
 
 &nbsp;

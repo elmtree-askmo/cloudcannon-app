@@ -2,8 +2,10 @@
 _schema: default
 id: 171000
 date: 2025-02-07
-title: How does mate choice influence sexual selection and competition among males?
-article_title: How does mate choice influence sexual selection and competition among males?
+title: >-
+    How does mate choice influence sexual selection and competition among males?
+article_title: >-
+    How does mate choice influence sexual selection and competition among males?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-mate-choice-influence-sexual-selection-and-competition-among
 url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
 score: -1.0
 related_article1:
-    id: 171009
-    title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+    id: 171016
+    title: >-
+        What role does behavior play in evolutionary strategies for survival and reproductive success?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
+    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
 related_article2:
-    id: 170998
-    title: How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+    id: 170997
+    title: >-
+        What role do computer simulations play in understanding real-world cooperation strategies?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
 related_article3:
     id: 171012
-    title: How does data analysis contribute to understanding behavior in biological systems?
+    title: >-
+        How does data analysis contribute to understanding behavior in biological systems?
     subject: Psychology
     url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
 related_article4:
-    id: 171012
-    title: How does data analysis contribute to understanding behavior in biological systems?
+    id: 170999
+    title: >-
+        What are the main disadvantages of sexual reproduction in terms of energy and time investment?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
+    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
 related_article5:
-    id: 171015
-    title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    id: 171001
+    title: >-
+        What is anisogamy, and how does it affect reproductive strategies in different species?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+    url: /learn/psychology/questions/what-is-anisogamy-and-how-does-it-affect-reproductive-strategies-in-different-species
 ---
 
 &nbsp;

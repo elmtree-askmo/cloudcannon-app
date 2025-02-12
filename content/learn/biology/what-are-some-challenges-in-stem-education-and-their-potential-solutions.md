@@ -2,8 +2,10 @@
 _schema: default
 id: 167488
 date: 2025-01-31
-title: What are some challenges in STEM education and their potential solutions?
-article_title: What are some challenges in STEM education and their potential solutions?
+title: >-
+    What are some challenges in STEM education and their potential solutions?
+article_title: >-
+    What are some challenges in STEM education and their potential solutions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-some-challenges-in-stem-education-and-their-potential-soluti
 url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
 score: -1.0
 related_article1:
-    id: 167475
-    title: What is the structure of pre-class assignments on the Codon Learning Platform?
+    id: 167489
+    title: >-
+        What are the primary learning goals of this course?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
+    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
 related_article2:
-    id: 167477
-    title: How does iClicker technology enhance class participation?
+    id: 167494
+    title: >-
+        What are the benefits of using interactive learning tools in education?
     subject: Biology
-    url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
+    url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
 related_article3:
-    id: 167473
-    title: What are the typical pre-medical coursework requirements for medical school?
+    id: 167479
+    title: >-
+        How is the D2L Learning Management System organized to facilitate course access?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
+    url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
 related_article4:
-    id: 167492
-    title: How can networking opportunities benefit biology professionals?
+    id: 167480
+    title: >-
+        What communication tools are available on the D2L Learning Management System?
     subject: Biology
-    url: /learn/biology/questions/how-can-networking-opportunities-benefit-biology-professionals
+    url: /learn/biology/questions/what-communication-tools-are-available-on-the-d2l-learning-management-system
 related_article5:
     id: 167470
-    title: What are the main cellular processes essential for life?
+    title: >-
+        What are the main cellular processes essential for life?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-cellular-processes-essential-for-life
 ---

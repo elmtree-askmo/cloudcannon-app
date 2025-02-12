@@ -2,8 +2,10 @@
 _schema: default
 id: 161671
 date: 2025-01-24
-title: What is the difference between lossless and lossy data compression?
-article_title: What is the difference between lossless and lossy data compression?
+title: >-
+    What is the difference between lossless and lossy data compression?
+article_title: >-
+    What is the difference between lossless and lossy data compression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-lossless-and-lossy-data-compression.md
 url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
 score: -1.0
 related_article1:
-    id: 161556
-    title: What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+    id: 161291
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
 related_article2:
-    id: 161290
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161295
+    title: >-
+        What does MIPS measure in mainframe performance metrics?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
 related_article3:
-    id: 161320
-    title: What are the benefits of real-time protection in anti-virus utility software?
+    id: 161560
+    title: >-
+        What are the primary functions of IBM's z/OS operating system for mainframes?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
 related_article4:
-    id: 161552
-    title: What are the advantages of using a command line interface over a graphical user interface?
+    id: 161295
+    title: >-
+        What does MIPS measure in mainframe performance metrics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
+    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
 related_article5:
-    id: 161566
-    title: What are the main characteristics of open source software?
+    id: 161560
+    title: >-
+        What are the primary functions of IBM's z/OS operating system for mainframes?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
 ---
 
 &nbsp;

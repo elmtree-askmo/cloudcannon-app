@@ -2,8 +2,10 @@
 _schema: default
 id: 167065
 date: 2025-01-31
-title: What role do hydrogen bonds play in molecular interactions?
-article_title: What role do hydrogen bonds play in molecular interactions?
+title: >-
+    What role do hydrogen bonds play in molecular interactions?
+article_title: >-
+    What role do hydrogen bonds play in molecular interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-hydrogen-bonds-play-in-molecular-interactions.md
 url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-molecular-interactions
 score: -1.0
 related_article1:
-    id: 167059
-    title: What is the chemical symbol for oxygen, and how is it used in the periodic table?
+    id: 167061
+    title: >-
+        What are radioactive isotopes and what are some of their applications?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-chemical-symbol-for-oxygen-and-how-is-it-used-in-the-periodic-table
+    url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
 related_article2:
-    id: 167066
-    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    id: 167062
+    title: >-
+        What are valence electrons and why are they important for chemical stability?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
+    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
 related_article3:
     id: 167066
-    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    title: >-
+        How do covalent and ionic compounds differ in terms of molecular structure?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
 related_article4:
+    id: 167057
+    title: >-
+        What is the atomic number and how is it determined for an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-atomic-number-and-how-is-it-determined-for-an-element
+related_article5:
     id: 167062
-    title: What are valence electrons and why are they important for chemical stability?
+    title: >-
+        What are valence electrons and why are they important for chemical stability?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
-related_article5:
-    id: 167055
-    title: What are the three main subatomic particles and their respective charges?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-and-their-respective-charges
 ---
 
 &nbsp;

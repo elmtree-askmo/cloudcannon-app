@@ -2,8 +2,10 @@
 _schema: default
 id: 170556
 date: 2025-02-06
-title: What is the role of the hypothalamus in the nervous system?
-article_title: What is the role of the hypothalamus in the nervous system?
+title: >-
+    What is the role of the hypothalamus in the nervous system?
+article_title: >-
+    What is the role of the hypothalamus in the nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-hypothalamus-in-the-nervous-system.md
 url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
 score: -1.0
 related_article1:
-    id: 170568
-    title: What are the clinical implications of hemophilia in blood clotting disorders?
+    id: 170571
+    title: >-
+        How can AI hallucinations impact the use of large language models in education?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-implications-of-hemophilia-in-blood-clotting-disorders
+    url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
 related_article2:
-    id: 170562
-    title: What pharmacological interventions are available for treating Parkinson's disease?
+    id: 170572
+    title: >-
+        What are the benefits of using clinical vignettes in research methodologies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
+    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
 related_article3:
-    id: 170566
-    title: Describe the coagulation cascade involved in blood clotting mechanisms.
+    id: 170560
+    title: >-
+        What are the primary pathophysiological features of Parkinson's disease?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
+    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
 related_article4:
     id: 170563
-    title: How does cognitive dissonance influence behavior according to psychological theories?
+    title: >-
+        How does cognitive dissonance influence behavior according to psychological theories?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
 related_article5:
-    id: 170555
-    title: Describe the function of the sodium-potassium pump in neuron activity.
+    id: 170558
+    title: >-
+        What are the roles of insulin and glucagon in hormonal regulation?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
+    url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
 ---
 
 &nbsp;

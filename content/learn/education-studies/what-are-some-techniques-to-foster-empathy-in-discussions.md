@@ -2,8 +2,10 @@
 _schema: default
 id: 168556
 date: 2025-02-03
-title: What are some techniques to foster empathy in discussions?
-article_title: What are some techniques to foster empathy in discussions?
+title: >-
+    What are some techniques to foster empathy in discussions?
+article_title: >-
+    What are some techniques to foster empathy in discussions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-techniques-to-foster-empathy-in-discussions.md
 url: /learn/education-studies/questions/what-are-some-techniques-to-foster-empathy-in-discussions
 score: -1.0
 related_article1:
-    id: 168559
-    title: How can clarification techniques help in addressing misunderstandings during discussions?
+    id: 168554
+    title: >-
+        How can understanding diverse perspectives lead to personal growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-clarification-techniques-help-in-addressing-misunderstandings-during-discussions
+    url: /learn/education-studies/questions/how-can-understanding-diverse-perspectives-lead-to-personal-growth
 related_article2:
-    id: 168563
-    title: How does summarizing discussions ensure understanding among participants?
+    id: 168562
+    title: >-
+        What strategies can be employed to handle disagreements respectfully?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-summarizing-discussions-ensure-understanding-among-participants
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-handle-disagreements-respectfully
 related_article3:
-    id: 168560
-    title: What are some methods to verify the truthfulness and accuracy of information in discussions?
+    id: 168547
+    title: >-
+        Why is it important to justify opinions with evidence and logical reasoning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-methods-to-verify-the-truthfulness-and-accuracy-of-information-in-discussions
+    url: /learn/education-studies/questions/why-is-it-important-to-justify-opinions-with-evidence-and-logical-reasoning
 related_article4:
-    id: 168563
-    title: How does summarizing discussions ensure understanding among participants?
+    id: 168564
+    title: >-
+        What techniques can be used to summarize discussions effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-summarizing-discussions-ensure-understanding-among-participants
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-summarize-discussions-effectively
 related_article5:
-    id: 168546
-    title: How does engaging in collegial discussions help in discovering new perspectives?
+    id: 168564
+    title: >-
+        What techniques can be used to summarize discussions effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-engaging-in-collegial-discussions-help-in-discovering-new-perspectives
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-summarize-discussions-effectively
 ---
 
 &nbsp;

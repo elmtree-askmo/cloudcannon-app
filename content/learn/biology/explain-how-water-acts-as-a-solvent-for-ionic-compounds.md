@@ -2,8 +2,10 @@
 _schema: default
 id: 167573
 date: 2025-01-31
-title: Explain how water acts as a solvent for ionic compounds.
-article_title: Explain how water acts as a solvent for ionic compounds.
+title: >-
+    Explain how water acts as a solvent for ionic compounds.
+article_title: >-
+    Explain how water acts as a solvent for ionic compounds.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-how-water-acts-as-a-solvent-for-ionic-compounds.md
 url: /learn/biology/questions/explain-how-water-acts-as-a-solvent-for-ionic-compounds
 score: -1.0
 related_article1:
-    id: 167574
-    title: What is the role of cohesion and adhesion in water's surface tension?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
-related_article2:
-    id: 167579
-    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
-related_article3:
     id: 167571
-    title: What is the significance of polar covalent bonds in the chemical structure of water?
+    title: >-
+        What is the significance of polar covalent bonds in the chemical structure of water?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-polar-covalent-bonds-in-the-chemical-structure-of-water
+related_article2:
+    id: 167576
+    title: >-
+        How does the pH scale measure the acidity or basicity of a solution?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution
+related_article3:
+    id: 167581
+    title: >-
+        What are the effects of ocean acidification on marine life, particularly on calcium carbonate shells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-effects-of-ocean-acidification-on-marine-life-particularly-on-calcium-carbonate-shells
 related_article4:
     id: 167575
-    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    title: >-
+        Differentiate between hydrophilic and hydrophobic substances with examples.
     subject: Biology
     url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
 related_article5:
-    id: 167575
-    title: Differentiate between hydrophilic and hydrophobic substances with examples.
+    id: 167580
+    title: >-
+        How does the dissolution of CO2 in the ocean affect marine carbonate systems?
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
+    url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
 ---
 
 &nbsp;

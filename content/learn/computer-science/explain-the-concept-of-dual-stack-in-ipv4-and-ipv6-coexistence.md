@@ -2,8 +2,10 @@
 _schema: default
 id: 165739
 date: 2025-01-29
-title: Explain the concept of dual stack in IPv4 and IPv6 coexistence.
-article_title: Explain the concept of dual stack in IPv4 and IPv6 coexistence.
+title: >-
+    Explain the concept of dual stack in IPv4 and IPv6 coexistence.
+article_title: >-
+    Explain the concept of dual stack in IPv4 and IPv6 coexistence.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence.md
 url: /learn/computer-science/questions/explain-the-concept-of-dual-stack-in-ipv4-and-ipv6-coexistence
 score: -1.0
 related_article1:
-    id: 165759
-    title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+    id: 165744
+    title: >-
+        Describe the characteristics of a Global Unicast Address (GUA) in IPv6.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
+    url: /learn/computer-science/questions/describe-the-characteristics-of-a-global-unicast-address-gua-in-ipv6
 related_article2:
-    id: 165746
-    title: What is the primary purpose of a Link-Local Address (LLA) in IPv6?
+    id: 165762
+    title: >-
+        What is the rule for omitting leading zeros in IPv6 address notation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-linklocal-address-lla-in-ipv6
+    url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
 related_article3:
-    id: 165758
-    title: How is static IPv6 address configuration performed on a router?
+    id: 165738
+    title: >-
+        What are the primary reasons for the transition from IPv4 to IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
+    url: /learn/computer-science/questions/what-are-the-primary-reasons-for-the-transition-from-ipv4-to-ipv6
 related_article4:
-    id: 165757
-    title: What is the purpose of NAT64 in IPv6 translation?
+    id: 165756
+    title: >-
+        Describe the encapsulation process in IPv6 tunneling.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-nat64-in-ipv6-translation
+    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
 related_article5:
-    id: 165752
-    title: How is subnetting achieved in IPv6 using the Subnet ID?
+    id: 165749
+    title: >-
+        What is the EUI-64 method in the context of IPv6 addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-subnetting-achieved-in-ipv6-using-the-subnet-id
+    url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
 ---
 
 &nbsp;

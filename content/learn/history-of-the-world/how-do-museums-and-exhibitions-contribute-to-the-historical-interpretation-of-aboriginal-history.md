@@ -2,8 +2,10 @@
 _schema: default
 id: 169037
 date: 2025-02-04
-title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
-article_title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
+title: >-
+    How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
+article_title: >-
+    How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-museums-and-exhibitions-contribute-to-the-historical-interpret
 url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
 score: 9.0
 related_article1:
-    id: 169026
-    title: How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
+    id: 169034
+    title: >-
+        What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-punitive-expeditions-contribute-to-the-conflict-between-settlers-and-aboriginal-people-during-colonial-history
+    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
 related_article2:
     id: 169030
-    title: What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+    title: >-
+        What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
 related_article3:
-    id: 169024
-    title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
-related_article4:
-    id: 169024
-    title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
-related_article5:
     id: 169038
-    title: What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
+    title: >-
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
+related_article4:
+    id: 169031
+    title: >-
+        Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
+related_article5:
+    id: 169031
+    title: >-
+        Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
 ---
 
 &nbsp;

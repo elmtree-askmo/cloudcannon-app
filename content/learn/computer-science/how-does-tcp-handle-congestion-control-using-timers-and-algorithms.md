@@ -2,8 +2,10 @@
 _schema: default
 id: 165787
 date: 2025-01-29
-title: How does TCP handle congestion control using timers and algorithms?
-article_title: How does TCP handle congestion control using timers and algorithms?
+title: >-
+    How does TCP handle congestion control using timers and algorithms?
+article_title: >-
+    How does TCP handle congestion control using timers and algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-tcp-handle-congestion-control-using-timers-and-algorithms.md
 url: /learn/computer-science/questions/how-does-tcp-handle-congestion-control-using-timers-and-algorithms
 score: -1.0
 related_article1:
-    id: 165782
-    title: What are the trade-offs between low overhead and reliability in UDP communication?
+    id: 165788
+    title: >-
+        What is the responsibility of applications in handling congestion in UDP?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
+    url: /learn/computer-science/questions/what-is-the-responsibility-of-applications-in-handling-congestion-in-udp
 related_article2:
-    id: 165781
-    title: How does the TCP communication process establish and terminate sessions?
+    id: 165786
+    title: >-
+        What is the purpose of selective acknowledgment (SACK) in TCP?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
+    url: /learn/computer-science/questions/what-is-the-purpose-of-selective-acknowledgment-sack-in-tcp
 related_article3:
-    id: 165766
-    title: What are the main responsibilities of the transport layer in data communication?
+    id: 165768
+    title: >-
+        What is the difference between TCP and UDP in terms of reliability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
+    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
 related_article4:
-    id: 165776
-    title: What is the purpose of port numbers in managing multiple separate communications?
+    id: 165769
+    title: >-
+        How does data segmentation enable multiple conversations in network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
+    url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
 related_article5:
-    id: 165767
-    title: How does the transport layer handle segmenting and reassembling data?
+    id: 165765
+    title: >-
+        How does the transport layer ensure logical communication between applications?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
+    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
 ---
 
 &nbsp;

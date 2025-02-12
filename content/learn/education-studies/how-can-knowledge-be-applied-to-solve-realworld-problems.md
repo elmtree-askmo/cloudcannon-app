@@ -2,8 +2,10 @@
 _schema: default
 id: 165483
 date: 2025-01-29
-title: How can knowledge be applied to solve real-world problems?
-article_title: How can knowledge be applied to solve real-world problems?
+title: >-
+    How can knowledge be applied to solve real-world problems?
+article_title: >-
+    How can knowledge be applied to solve real-world problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-knowledge-be-applied-to-solve-realworld-problems.md
 url: /learn/education-studies/questions/how-can-knowledge-be-applied-to-solve-realworld-problems
 score: -1.0
 related_article1:
-    id: 165476
-    title: How does the spectrum of understanding relate to higher order learning?
+    id: 165485
+    title: >-
+        How do memory and recall contribute to cognitive processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-spectrum-of-understanding-relate-to-higher-order-learning
+    url: /learn/education-studies/questions/how-do-memory-and-recall-contribute-to-cognitive-processes
 related_article2:
-    id: 165494
-    title: How can evaluating information critically improve decision making?
+    id: 165482
+    title: >-
+        What is the process of integrating multiple concepts to create a bigger picture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-evaluating-information-critically-improve-decision-making
+    url: /learn/education-studies/questions/what-is-the-process-of-integrating-multiple-concepts-to-create-a-bigger-picture
 related_article3:
-    id: 165491
-    title: What strategies can be used to connect new knowledge with existing knowledge?
+    id: 165502
+    title: >-
+        What are some innovations in learning strategies that could shape the future of learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-connect-new-knowledge-with-existing-knowledge
+    url: /learn/education-studies/questions/what-are-some-innovations-in-learning-strategies-that-could-shape-the-future-of-learning
 related_article4:
-    id: 165497
-    title: What types of questions can enhance learning and encourage curiosity?
+    id: 165478
+    title: >-
+        Why is contextual learning important in the framework for learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-questions-can-enhance-learning-and-encourage-curiosity
+    url: /learn/education-studies/questions/why-is-contextual-learning-important-in-the-framework-for-learning
 related_article5:
-    id: 165480
-    title: What is the significance of conceptual relationships in understanding concepts?
+    id: 165475
+    title: >-
+        What is higher order learning and why is it important?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-conceptual-relationships-in-understanding-concepts
+    url: /learn/education-studies/questions/what-is-higher-order-learning-and-why-is-it-important
 ---
 
 &nbsp;

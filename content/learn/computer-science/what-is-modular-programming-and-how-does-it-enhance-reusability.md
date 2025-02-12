@@ -2,8 +2,10 @@
 _schema: default
 id: 168607
 date: 2025-02-03
-title: What is modular programming and how does it enhance reusability?
-article_title: What is modular programming and how does it enhance reusability?
+title: >-
+    What is modular programming and how does it enhance reusability?
+article_title: >-
+    What is modular programming and how does it enhance reusability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-modular-programming-and-how-does-it-enhance-reusability.md
 url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
 score: -1.0
 related_article1:
-    id: 168601
-    title: How can you access a function's docstring in Python?
+    id: 168587
+    title: >-
+        What are the benefits of using functions in software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 related_article2:
     id: 168594
-    title: What is the effect of defining a variable inside a function in terms of scope?
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
 related_article3:
-    id: 168588
-    title: How does object-oriented programming contribute to software reusability?
+    id: 168587
+    title: >-
+        What are the benefits of using functions in software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 related_article4:
-    id: 168594
-    title: What is the effect of defining a variable inside a function in terms of scope?
+    id: 168606
+    title: >-
+        Why is software reusability important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
 related_article5:
-    id: 168603
-    title: How can custom exceptions be created in Python?
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 ---
 
 &nbsp;

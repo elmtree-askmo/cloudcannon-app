@@ -2,8 +2,10 @@
 _schema: default
 id: 160706
 date: 2025-01-24
-title: What is the role of Turing machines in the theoretical foundations of computability?
-article_title: What is the role of Turing machines in the theoretical foundations of computability?
+title: >-
+    What is the role of Turing machines in the theoretical foundations of computability?
+article_title: >-
+    What is the role of Turing machines in the theoretical foundations of computability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-turing-machines-in-the-theoretical-foundations-of
 url: /learn/computer-science/questions/what-is-the-role-of-turing-machines-in-the-theoretical-foundations-of-computability
 score: -1.0
 related_article1:
-    id: 160776
-    title: How does representation influence algorithm complexity?
+    id: 160693
+    title: >-
+        What is the difference between testing and proving solutions in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/what-is-the-difference-between-testing-and-proving-solutions-in-computing
 related_article2:
-    id: 160864
-    title: What is the purpose of abstraction in computing?
+    id: 160695
+    title: >-
+        Describe the divide and conquer strategy in algorithm development.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
 related_article3:
-    id: 160777
-    title: What is the purpose of abstraction in computing?
+    id: 160780
+    title: >-
+        Explain the concept of lists and how they are implemented as arrays.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
+    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
 related_article4:
-    id: 160872
-    title: Compare linear search with depth-first search in terms of their approach and use cases.
-    subject: Computer Science
-    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
-related_article5:
-    id: 160771
-    title: What is the role of separating logic and control in algorithm development?
+    id: 160861
+    title: >-
+        What is the role of separating logic and control in algorithm development?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-role-of-separating-logic-and-control-in-algorithm-development
+related_article5:
+    id: 160873
+    title: >-
+        What information is conveyed by indices in data structures?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-information-is-conveyed-by-indices-in-data-structures
 ---
 
 &nbsp;

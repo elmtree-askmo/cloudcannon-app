@@ -2,8 +2,10 @@
 _schema: default
 id: 166725
 date: 2025-01-31
-title: Explain the relationship between force, distance, and angle in moment equations.
-article_title: Explain the relationship between force, distance, and angle in moment equations.
+title: >-
+    Explain the relationship between force, distance, and angle in moment equations.
+article_title: >-
+    Explain the relationship between force, distance, and angle in moment equations.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-relationship-between-force-distance-and-angle-in-moment-e
 url: /learn/education-studies/questions/explain-the-relationship-between-force-distance-and-angle-in-moment-equations
 score: -1.0
 related_article1:
-    id: 166732
-    title: How is the projection of one vector onto another calculated using scalar products?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
-related_article2:
-    id: 166731
-    title: Define the dot product and explain how it is used to calculate scalar products.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
-related_article3:
-    id: 166722
-    title: What are the fundamental concepts of statics and why are they important in mechanics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-concepts-of-statics-and-why-are-they-important-in-mechanics
-related_article4:
     id: 166736
-    title: How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
+    title: >-
+        How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
-related_article5:
+related_article2:
     id: 166728
-    title: Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
+    title: >-
+        Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
+related_article3:
+    id: 166724
+    title: >-
+        How is the moment of a force calculated and what role does the moment arm play in this calculation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment-arm-play-in-this-calculation
+related_article4:
+    id: 166731
+    title: >-
+        Define the dot product and explain how it is used to calculate scalar products.
+    subject: Education Studies
+    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
+related_article5:
+    id: 166732
+    title: >-
+        How is the projection of one vector onto another calculated using scalar products?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
 ---
 
 &nbsp;

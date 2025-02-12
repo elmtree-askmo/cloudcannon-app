@@ -2,8 +2,10 @@
 _schema: default
 id: 168734
 date: 2025-02-04
-title: How did political and social changes in the 19th century influence artistic movements?
-article_title: How did political and social changes in the 19th century influence artistic movements?
+title: >-
+    How did political and social changes in the 19th century influence artistic movements?
+article_title: >-
+    How did political and social changes in the 19th century influence artistic movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-political-and-social-changes-in-the-19th-century-influence-ar
 url: /learn/art-history-and-literature/questions/how-did-political-and-social-changes-in-the-19th-century-influence-artistic-movements
 score: 9.0
 related_article1:
-    id: 168731
-    title: What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+    id: 168733
+    title: >-
+        What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
+    url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
 related_article2:
-    id: 168719
-    title: What are the defining features of Romanticism, and how did it react to industrialization?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
-related_article3:
-    id: 168721
-    title: In what ways did 19th-century art provide social commentary on labor and industrialization?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
-related_article4:
-    id: 168721
-    title: In what ways did 19th-century art provide social commentary on labor and industrialization?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
-related_article5:
     id: 168720
-    title: How did Realism artists reject traditional Academic Painting styles?
+    title: >-
+        How did Realism artists reject traditional Academic Painting styles?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-realism-artists-reject-traditional-academic-painting-styles
+related_article3:
+    id: 168722
+    title: >-
+        How did the introduction of photography change the composition and realism in painting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-introduction-of-photography-change-the-composition-and-realism-in-painting
+related_article4:
+    id: 168735
+    title: >-
+        What role did women play in art during the 19th century, and how was gender identity explored?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
+related_article5:
+    id: 168719
+    title: >-
+        What are the defining features of Romanticism, and how did it react to industrialization?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
 ---
 
 &nbsp;

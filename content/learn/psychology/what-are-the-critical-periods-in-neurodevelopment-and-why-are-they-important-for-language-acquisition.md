@@ -2,8 +2,10 @@
 _schema: default
 id: 170538
 date: 2025-02-06
-title: What are the critical periods in neurodevelopment, and why are they important for language acquisition?
-article_title: What are the critical periods in neurodevelopment, and why are they important for language acquisition?
+title: >-
+    What are the critical periods in neurodevelopment, and why are they important for language acquisition?
+article_title: >-
+    What are the critical periods in neurodevelopment, and why are they important for language acquisition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-im
 url: /learn/psychology/questions/what-are-the-critical-periods-in-neurodevelopment-and-why-are-they-important-for-language-acquisition
 score: -1.0
 related_article1:
-    id: 170527
-    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    id: 170526
+    title: >-
+        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
 related_article2:
-    id: 170530
-    title: What are the common symptoms and consequences of traumatic brain injury and stroke?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-symptoms-and-consequences-of-traumatic-brain-injury-and-stroke
-related_article3:
-    id: 170545
-    title: How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
-    subject: Psychology
-    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
-related_article4:
-    id: 170524
-    title: Who developed the lobotomy procedure, and what recognition did they receive for it?
-    subject: Psychology
-    url: /learn/psychology/questions/who-developed-the-lobotomy-procedure-and-what-recognition-did-they-receive-for-it
-related_article5:
     id: 170537
-    title: What is diffusion tensor imaging, and how is it used to study brain connectivity?
+    title: >-
+        What is diffusion tensor imaging, and how is it used to study brain connectivity?
     subject: Psychology
     url: /learn/psychology/questions/what-is-diffusion-tensor-imaging-and-how-is-it-used-to-study-brain-connectivity
+related_article3:
+    id: 170528
+    title: >-
+        What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+related_article4:
+    id: 170526
+    title: >-
+        How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    subject: Psychology
+    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+related_article5:
+    id: 170541
+    title: >-
+        How is the motor homunculus represented in the motor cortex, and what is its functional significance?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-the-motor-homunculus-represented-in-the-motor-cortex-and-what-is-its-functional-significance
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160605
 date: 2025-01-24
-title: What technological advancements were introduced with the iPhone 3G?
-article_title: What technological advancements were introduced with the iPhone 3G?
+title: >-
+    What technological advancements were introduced with the iPhone 3G?
+article_title: >-
+    What technological advancements were introduced with the iPhone 3G?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-technological-advancements-were-introduced-with-the-iphone-3g.md
 url: /learn/computer-science/questions/what-technological-advancements-were-introduced-with-the-iphone-3g
 score: -1.0
 related_article1:
-    id: 160524
-    title: What were the technological advancements introduced with the iPhone 3G?
+    id: 160529
+    title: >-
+        How did Apple's store design and layout contribute to its retail success?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+    url: /learn/computer-science/questions/how-did-apples-store-design-and-layout-contribute-to-its-retail-success
 related_article2:
-    id: 160513
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    id: 160531
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article3:
-    id: 160422
-    title: How did the introduction of the iPod in the late 2000s influence Apple's product lineup?
+    id: 160431
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-influence-apples-product-lineup
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article4:
-    id: 160515
-    title: What was the significance of Apple's first retail store launch in the early 2000s?
+    id: 160600
+    title: >-
+        How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-launch-in-the-early-2000s
+    url: /learn/computer-science/questions/how-did-the-release-of-mac-os-x-100-cheetah-mark-a-turning-point-for-apples-operating-systems
 related_article5:
-    id: 160602
-    title: How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
+    id: 160598
+    title: >-
+        How did the launch of the first Apple retail store impact the company's sales strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions-of-the-operating-system
+    url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
 ---
 
 &nbsp;

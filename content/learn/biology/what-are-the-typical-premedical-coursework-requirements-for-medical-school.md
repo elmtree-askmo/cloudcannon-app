@@ -2,8 +2,10 @@
 _schema: default
 id: 167473
 date: 2025-01-31
-title: What are the typical pre-medical coursework requirements for medical school?
-article_title: What are the typical pre-medical coursework requirements for medical school?
+title: >-
+    What are the typical pre-medical coursework requirements for medical school?
+article_title: >-
+    What are the typical pre-medical coursework requirements for medical school?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-typical-premedical-coursework-requirements-for-medical-s
 url: /learn/biology/questions/what-are-the-typical-premedical-coursework-requirements-for-medical-school
 score: -1.0
 related_article1:
-    id: 167488
-    title: What are some challenges in STEM education and their potential solutions?
+    id: 167475
+    title: >-
+        What is the structure of pre-class assignments on the Codon Learning Platform?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-challenges-in-stem-education-and-their-potential-solutions
+    url: /learn/biology/questions/what-is-the-structure-of-preclass-assignments-on-the-codon-learning-platform
 related_article2:
-    id: 167485
-    title: What components contribute to the final grade in this course?
-    subject: Biology
-    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
-related_article3:
-    id: 167472
-    title: What skills are essential for a career in physical therapy?
-    subject: Biology
-    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
-related_article4:
-    id: 167489
-    title: What are the primary learning goals of this course?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-learning-goals-of-this-course
-related_article5:
     id: 167494
-    title: What are the benefits of using interactive learning tools in education?
+    title: >-
+        What are the benefits of using interactive learning tools in education?
     subject: Biology
     url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learning-tools-in-education
+related_article3:
+    id: 167491
+    title: >-
+        What career paths are available in biology for research and academia?
+    subject: Biology
+    url: /learn/biology/questions/what-career-paths-are-available-in-biology-for-research-and-academia
+related_article4:
+    id: 167485
+    title: >-
+        What components contribute to the final grade in this course?
+    subject: Biology
+    url: /learn/biology/questions/what-components-contribute-to-the-final-grade-in-this-course
+related_article5:
+    id: 167486
+    title: >-
+        How is the grading scale structured in terms of letter grades and point distribution?
+    subject: Biology
+    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166834
 date: 2025-01-31
-title: Describe the double helix structure of DNA and its antiparallel orientation.
-article_title: Describe the double helix structure of DNA and its antiparallel orientation.
+title: >-
+    Describe the double helix structure of DNA and its antiparallel orientation.
+article_title: >-
+    Describe the double helix structure of DNA and its antiparallel orientation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-double-helix-structure-of-dna-and-its-antiparallel-orien
 url: /learn/biotechnology/questions/describe-the-double-helix-structure-of-dna-and-its-antiparallel-orientation
 score: -1.0
 related_article1:
-    id: 166829
-    title: What are the pyrimidine bases found in DNA and RNA, and how do they differ?
+    id: 166825
+    title: >-
+        Describe the biological function of RNA and its location within cells.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-pyrimidine-bases-found-in-dna-and-rna-and-how-do-they-differ
+    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
 related_article2:
-    id: 166835
-    title: What is the structural difference between DNA and RNA?
+    id: 166830
+    title: >-
+        How are phosphodiester linkages formed between nucleotides?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-dna-and-rna
+    url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
 related_article3:
-    id: 166831
-    title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
-related_article4:
-    id: 166827
-    title: Explain the importance of the sugar carbon numbering system in nucleotide structure.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/explain-the-importance-of-the-sugar-carbon-numbering-system-in-nucleotide-structure
-related_article5:
     id: 166832
-    title: Explain the base pairing rules for DNA, including the specific pairs involved.
+    title: >-
+        Explain the base pairing rules for DNA, including the specific pairs involved.
     subject: Biotechnology
     url: /learn/biotechnology/questions/explain-the-base-pairing-rules-for-dna-including-the-specific-pairs-involved
+related_article4:
+    id: 166825
+    title: >-
+        Describe the biological function of RNA and its location within cells.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
+related_article5:
+    id: 166835
+    title: >-
+        What is the structural difference between DNA and RNA?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-dna-and-rna
 ---
 
 &nbsp;

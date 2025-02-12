@@ -2,8 +2,10 @@
 _schema: default
 id: 166731
 date: 2025-01-31
-title: Define the dot product and explain how it is used to calculate scalar products.
-article_title: Define the dot product and explain how it is used to calculate scalar products.
+title: >-
+    Define the dot product and explain how it is used to calculate scalar products.
+article_title: >-
+    Define the dot product and explain how it is used to calculate scalar products.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-i
 score: -1.0
 related_article1:
     id: 166728
-    title: Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
+    title: >-
+        Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
 related_article2:
-    id: 166739
-    title: How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
+    id: 166728
+    title: >-
+        Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-coordinate-transformations-performed-between-cartesian-and-cylindrical-coordinate-systems
+    url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
 related_article3:
-    id: 166735
-    title: What is a unit vector and why is it important in vector representation?
+    id: 166728
+    title: >-
+        Describe the process of calculating moments in lever mechanics and the significance of lever arm length.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-unit-vector-and-why-is-it-important-in-vector-representation
+    url: /learn/education-studies/questions/describe-the-process-of-calculating-moments-in-lever-mechanics-and-the-significance-of-lever-arm-length
 related_article4:
-    id: 166724
-    title: How is the moment of a force calculated and what role does the moment arm play in this calculation?
+    id: 166734
+    title: >-
+        Explain the geometric interpretation of the mixed triple product.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment-arm-play-in-this-calculation
-related_article5:
-    id: 166723
-    title: What conditions must be met for a system to be in mechanical equilibrium?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
+    url: /learn/education-studies/questions/explain-the-geometric-interpretation-of-the-mixed-triple-product
 ---
 
 &nbsp;

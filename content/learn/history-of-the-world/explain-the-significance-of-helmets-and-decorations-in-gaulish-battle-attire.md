@@ -2,8 +2,10 @@
 _schema: default
 id: 166081
 date: 2025-01-29
-title: Explain the significance of helmets and decorations in Gaulish battle attire.
-article_title: Explain the significance of helmets and decorations in Gaulish battle attire.
+title: >-
+    Explain the significance of helmets and decorations in Gaulish battle attire.
+article_title: >-
+    Explain the significance of helmets and decorations in Gaulish battle attire.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-significance-of-helmets-and-decorations-in-gaulish-battle
 url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
 score: 9.0
 related_article1:
-    id: 166082
-    title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    id: 166077
+    title: >-
+        What strategies did Gauls employ during the initial engagement in battle using chariots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
+    url: /learn/history-of-the-world/questions/what-strategies-did-gauls-employ-during-the-initial-engagement-in-battle-using-chariots
 related_article2:
-    id: 166088
-    title: Explain the class structure of Gaulish society and the roles of free men and warriors.
+    id: 166078
+    title: >-
+        Identify the main types of weapons used by the Gauls and their characteristics.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-class-structure-of-gaulish-society-and-the-roles-of-free-men-and-warriors
+    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
 related_article3:
+    id: 166076
+    title: >-
+        Describe the design and function of Gaulish chariots.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-design-and-function-of-gaulish-chariots
+related_article4:
+    id: 166087
+    title: >-
+        What methods of divination were used by the Gauls, and how did they influence decision-making?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-methods-of-divination-were-used-by-the-gauls-and-how-did-they-influence-decisionmaking
+related_article5:
     id: 166082
-    title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    title: >-
+        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
-related_article4:
-    id: 166074
-    title: What were the primary tactics used by Gauls in chariotry during battle?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-gauls-in-chariotry-during-battle
-related_article5:
-    id: 166075
-    title: How did Gauls utilize psychological warfare in combat?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-gauls-utilize-psychological-warfare-in-combat
 ---
 
 &nbsp;

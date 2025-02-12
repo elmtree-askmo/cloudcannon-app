@@ -2,8 +2,10 @@
 _schema: default
 id: 163205
 date: 2025-01-26
-title: How do positive and negative associations differ in epidemiology?
-article_title: How do positive and negative associations differ in epidemiology?
+title: >-
+    How do positive and negative associations differ in epidemiology?
+article_title: >-
+    How do positive and negative associations differ in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-positive-and-negative-associations-differ-in-epidemiology.md
 url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163310
-    title: What is the difference between crude rates and specific rates in epidemiology?
+    id: 162978
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-crude-rates-and-specific-rates-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 related_article2:
-    id: 162991
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    id: 163151
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article3:
-    id: 163315
-    title: What is the process of direct standardization in calculating age-adjusted rates?
+    id: 163322
+    title: >-
+        How can ecological fallacy affect the interpretation of ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
 related_article4:
-    id: 163204
-    title: What is the ecological fallacy, and why is it a limitation in ecological studies?
+    id: 162989
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article5:
-    id: 163312
-    title: What distinguishes a crude mortality rate from a specific mortality rate?
+    id: 163313
+    title: >-
+        How is the case fatality rate calculated and how does it differ from the mortality rate?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-rate
+    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
 ---
 
 &nbsp;

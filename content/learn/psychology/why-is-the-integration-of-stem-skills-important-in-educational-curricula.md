@@ -2,8 +2,10 @@
 _schema: default
 id: 165243
 date: 2025-01-28
-title: Why is the integration of STEM skills important in educational curricula?
-article_title: Why is the integration of STEM skills important in educational curricula?
+title: >-
+    Why is the integration of STEM skills important in educational curricula?
+article_title: >-
+    Why is the integration of STEM skills important in educational curricula?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-the-integration-of-stem-skills-important-in-educational-curric
 url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
 score: -1.0
 related_article1:
-    id: 165231
-    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    id: 165244
+    title: >-
+        What are the key steps in designing a cognitive experiment?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
 related_article2:
-    id: 165244
-    title: What are the key steps in designing a cognitive experiment?
+    id: 165229
+    title: >-
+        How does aphantasia affect spatial reasoning and problem-solving abilities?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
+    url: /learn/psychology/questions/how-does-aphantasia-affect-spatial-reasoning-and-problemsolving-abilities
 related_article3:
-    id: 165231
-    title: How is spatial reasoning applied in real-world tasks like parking and packing?
+    id: 165235
+    title: >-
+        How is SciToolkit used in data analysis for psychological research?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
 related_article4:
-    id: 165244
-    title: What are the key steps in designing a cognitive experiment?
+    id: 165235
+    title: >-
+        How is SciToolkit used in data analysis for psychological research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
-related_article5:
-    id: 165240
-    title: How do perceptual afterimages affect visual perception and cognitive processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
+    url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
 ---
 
 &nbsp;

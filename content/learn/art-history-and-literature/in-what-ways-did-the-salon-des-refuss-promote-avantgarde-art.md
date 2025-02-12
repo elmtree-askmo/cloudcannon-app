@@ -2,8 +2,10 @@
 _schema: default
 id: 165944
 date: 2025-01-29
-title: In what ways did the Salon des Refusés promote avant-garde art?
-article_title: In what ways did the Salon des Refusés promote avant-garde art?
+title: >-
+    In what ways did the Salon des Refusés promote avant-garde art?
+article_title: >-
+    In what ways did the Salon des Refusés promote avant-garde art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art.md
 url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
 score: 9.0
 related_article1:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
-related_article2:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
-related_article3:
-    id: 165945
-    title: Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
-related_article4:
-    id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
-related_article5:
     id: 165940
-    title: How did criticisms of the Official Salons contribute to their decline?
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+related_article2:
+    id: 165949
+    title: >-
+        What were the goals of the Salon d’Automne, and who were its key organizers?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
+related_article3:
+    id: 165939
+    title: >-
+        What was the primary purpose of the Official Paris Salon when it was first established?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
+related_article4:
+    id: 165955
+    title: >-
+        What were the major 19th-century art movements, and how did they transition into 20th-century styles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-major-19thcentury-art-movements-and-how-did-they-transition-into-20thcentury-styles
+related_article5:
+    id: 165951
+    title: >-
+        What are the main characteristics and techniques associated with Impressionism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
 ---
 
 &nbsp;

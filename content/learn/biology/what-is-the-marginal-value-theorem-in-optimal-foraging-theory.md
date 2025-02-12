@@ -2,8 +2,10 @@
 _schema: default
 id: 170899
 date: 2025-02-07
-title: What is the Marginal Value Theorem in optimal foraging theory?
-article_title: What is the Marginal Value Theorem in optimal foraging theory?
+title: >-
+    What is the Marginal Value Theorem in optimal foraging theory?
+article_title: >-
+    What is the Marginal Value Theorem in optimal foraging theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-fora
 score: -1.0
 related_article1:
     id: 170895
-    title: What factors influence search time in foraging animals?
+    title: >-
+        What factors influence search time in foraging animals?
     subject: Biology
     url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
 related_article2:
-    id: 170901
-    title: What cognitive processes are involved in animal decision-making?
-    subject: Biology
-    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
-related_article3:
     id: 170898
-    title: How do prey evasion tactics impact predator-prey interactions?
+    title: >-
+        How do prey evasion tactics impact predator-prey interactions?
     subject: Biology
     url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
+related_article3:
+    id: 170907
+    title: >-
+        How does behavioral ecology relate to evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
 related_article4:
-    id: 170906
-    title: What are the limitations of mathematical models in ecological modeling?
+    id: 170893
+    title: >-
+        What are the key assumptions of foraging theory?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
+    url: /learn/biology/questions/what-are-the-key-assumptions-of-foraging-theory
 related_article5:
-    id: 170901
-    title: What cognitive processes are involved in animal decision-making?
+    id: 170902
+    title: >-
+        How do environmental variables influence animal decision-making?
     subject: Biology
-    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+    url: /learn/biology/questions/how-do-environmental-variables-influence-animal-decisionmaking
 ---
 
 &nbsp;

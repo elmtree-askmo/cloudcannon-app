@@ -2,8 +2,10 @@
 _schema: default
 id: 166339
 date: 2025-01-30
-title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
-article_title: What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+title: >-
+    What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+article_title: >-
+    What are Tinbergen's four questions, and how do they help in understanding animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-tinbergens-four-questions-and-how-do-they-help-in-understand
 url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
 score: -1.0
 related_article1:
-    id: 166341
-    title: Explain how natural selection leads to evolutionary change through differential survival and reproduction.
+    id: 166337
+    title: >-
+        What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
     subject: Sociology
-    url: /learn/sociology/questions/explain-how-natural-selection-leads-to-evolutionary-change-through-differential-survival-and-reproduction
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
 related_article2:
-    id: 166343
-    title: Describe the difference between associative and non-associative learning in animals.
-    subject: Sociology
-    url: /learn/sociology/questions/describe-the-difference-between-associative-and-nonassociative-learning-in-animals
-related_article3:
-    id: 166345
-    title: What is the significance of individual learning in the context of animal behavior and fitness?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
-related_article4:
-    id: 166350
-    title: What are the key differences between observational and experimental studies in empirical approaches to animal behavior?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-differences-between-observational-and-experimental-studies-in-empirical-approaches-to-animal-behavior
-related_article5:
     id: 166346
-    title: How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
+    title: >-
+        How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
     subject: Sociology
     url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
+related_article3:
+    id: 166337
+    title: >-
+        What are some examples of brood parasitism involving the Red-backed Fairywren and the Brush Cuckoo?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-examples-of-brood-parasitism-involving-the-redbacked-fairywren-and-the-brush-cuckoo
+related_article4:
+    id: 166352
+    title: >-
+        What is kin selection, and how does it relate to conceptual approaches in animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
+related_article5:
+    id: 166347
+    title: >-
+        What are some behavioral responses animals might exhibit in response to environmental changes?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
 ---
 
 &nbsp;

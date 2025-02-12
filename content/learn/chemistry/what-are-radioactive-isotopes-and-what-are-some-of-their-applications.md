@@ -2,8 +2,10 @@
 _schema: default
 id: 167061
 date: 2025-01-31
-title: What are radioactive isotopes and what are some of their applications?
-article_title: What are radioactive isotopes and what are some of their applications?
+title: >-
+    What are radioactive isotopes and what are some of their applications?
+article_title: >-
+    What are radioactive isotopes and what are some of their applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-radioactive-isotopes-and-what-are-some-of-their-applications
 url: /learn/chemistry/questions/what-are-radioactive-isotopes-and-what-are-some-of-their-applications
 score: -1.0
 related_article1:
+    id: 167067
+    title: >-
+        What is a functional group and why is it important in organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-a-functional-group-and-why-is-it-important-in-organic-chemistry
+related_article2:
     id: 167056
-    title: How do electron shells relate to energy levels in an atom?
+    title: >-
+        How do electron shells relate to energy levels in an atom?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-electron-shells-relate-to-energy-levels-in-an-atom
-related_article2:
+related_article3:
     id: 167066
-    title: How do covalent and ionic compounds differ in terms of molecular structure?
+    title: >-
+        How do covalent and ionic compounds differ in terms of molecular structure?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-covalent-and-ionic-compounds-differ-in-terms-of-molecular-structure
-related_article3:
-    id: 167062
-    title: What are valence electrons and why are they important for chemical stability?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-are-valence-electrons-and-why-are-they-important-for-chemical-stability
 related_article4:
-    id: 167060
-    title: How do isotopes of an element differ from each other?
+    id: 167063
+    title: >-
+        How does electronegativity influence chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-isotopes-of-an-element-differ-from-each-other
+    url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
 related_article5:
     id: 167063
-    title: How does electronegativity influence chemical bonding?
+    title: >-
+        How does electronegativity influence chemical bonding?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-electronegativity-influence-chemical-bonding
 ---

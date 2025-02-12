@@ -2,8 +2,10 @@
 _schema: default
 id: 162986
 date: 2025-01-26
-title: What role do epidemiologic questions play in generating public health hypotheses?
-article_title: What role do epidemiologic questions play in generating public health hypotheses?
+title: >-
+    What role do epidemiologic questions play in generating public health hypotheses?
+article_title: >-
+    What role do epidemiologic questions play in generating public health hypotheses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-epidemiologic-questions-play-in-generating-public-health
 url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
 score: -1.0
 related_article1:
-    id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+    id: 163322
+    title: >-
+        How can ecological fallacy affect the interpretation of ecological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/how-can-ecological-fallacy-affect-the-interpretation-of-ecological-studies
 related_article2:
-    id: 163323
-    title: What is the difference between positive and negative associations in epidemiology?
+    id: 162978
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-positive-and-negative-associations-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 related_article3:
-    id: 163313
-    title: How is the case fatality rate calculated and how does it differ from the mortality rate?
+    id: 162983
+    title: >-
+        Why is age-adjustment important when comparing mortality rates across different populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
+    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
 related_article4:
-    id: 163313
-    title: How is the case fatality rate calculated and how does it differ from the mortality rate?
+    id: 162987
+    title: >-
+        How do outbreaks differ from epidemics in terms of their definitions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
+    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
 related_article5:
-    id: 162993
-    title: What does a Pearson correlation coefficient indicate in epidemiological studies?
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
 ---
 
 &nbsp;

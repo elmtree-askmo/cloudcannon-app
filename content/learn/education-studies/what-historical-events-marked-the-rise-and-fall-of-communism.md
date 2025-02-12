@@ -2,8 +2,10 @@
 _schema: default
 id: 164943
 date: 2025-01-28
-title: What historical events marked the rise and fall of communism?
-article_title: What historical events marked the rise and fall of communism?
+title: >-
+    What historical events marked the rise and fall of communism?
+article_title: >-
+    What historical events marked the rise and fall of communism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-historical-events-marked-the-rise-and-fall-of-communism.md
 url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
 score: -1.0
 related_article1:
-    id: 164937
-    title: What role do advocacy groups play in influencing policy?
+    id: 164941
+    title: >-
+        How do media and cultural factors influence political views?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-advocacy-groups-play-in-influencing-policy
+    url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
 related_article2:
     id: 164939
-    title: What is the primary purpose of military aid?
+    title: >-
+        What is the primary purpose of military aid?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
 related_article3:
-    id: 164932
-    title: How can you evaluate the quality of a research article?
+    id: 164931
+    title: >-
+        What are the key steps in identifying relevant sources for research articles?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-you-evaluate-the-quality-of-a-research-article
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-relevant-sources-for-research-articles
 related_article4:
-    id: 164942
-    title: What are the core principles of communism?
+    id: 164933
+    title: >-
+        What are the primary methods of data collection in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
+    url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
 related_article5:
-    id: 164934
-    title: What ethical considerations should be taken into account during participant recruitment?
+    id: 164939
+    title: >-
+        What is the primary purpose of military aid?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
 ---
 
 &nbsp;

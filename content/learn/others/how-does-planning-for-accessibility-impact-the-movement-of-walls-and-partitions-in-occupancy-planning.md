@@ -2,8 +2,10 @@
 _schema: default
 id: 168658
 date: 2025-02-03
-title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
-article_title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
+title: >-
+    How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
+article_title: >-
+    How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-planning-for-accessibility-impact-the-movement-of-walls-and-
 url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
 score: -1.0
 related_article1:
+    id: 168661
+    title: >-
+        What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
+    subject: Others
+    url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
+related_article2:
     id: 168654
-    title: How do health and safety regulations influence the welfare of building occupants?
+    title: >-
+        How do health and safety regulations influence the welfare of building occupants?
     subject: Others
     url: /learn/others/questions/how-do-health-and-safety-regulations-influence-the-welfare-of-building-occupants
-related_article2:
+related_article3:
     id: 168651
-    title: What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
     subject: Others
     url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
-related_article3:
-    id: 168655
-    title: What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
-    subject: Others
-    url: /learn/others/questions/what-are-the-considerations-for-selecting-materials-based-on-fire-separation-requirements-and-flammability-ratings
 related_article4:
-    id: 168654
-    title: How do health and safety regulations influence the welfare of building occupants?
+    id: 168653
+    title: >-
+        What are the key components of drafting construction documents in compliance with state and local building codes?
     subject: Others
-    url: /learn/others/questions/how-do-health-and-safety-regulations-influence-the-welfare-of-building-occupants
+    url: /learn/others/questions/what-are-the-key-components-of-drafting-construction-documents-in-compliance-with-state-and-local-building-codes
 related_article5:
-    id: 168656
-    title: How do non load-bearing walls and room partitions contribute to interior construction features?
+    id: 168659
+    title: >-
+        What materials are considered appropriate for walls and ceilings to ensure fire safety?
     subject: Others
-    url: /learn/others/questions/how-do-non-loadbearing-walls-and-room-partitions-contribute-to-interior-construction-features
+    url: /learn/others/questions/what-materials-are-considered-appropriate-for-walls-and-ceilings-to-ensure-fire-safety
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165994
 date: 2025-01-29
-title: How does international cooperation address global health concerns such as disease transmission?
-article_title: How does international cooperation address global health concerns such as disease transmission?
+title: >-
+    How does international cooperation address global health concerns such as disease transmission?
+article_title: >-
+    How does international cooperation address global health concerns such as disease transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-international-cooperation-address-global-health-concerns-suc
 url: /learn/sociology/questions/how-does-international-cooperation-address-global-health-concerns-such-as-disease-transmission
 score: -1.0
 related_article1:
+    id: 165999
+    title: >-
+        What role does global media play in cultural diffusion?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+related_article2:
     id: 165996
-    title: How do regional disparities contribute to economic inequality?
+    title: >-
+        How do regional disparities contribute to economic inequality?
     subject: Sociology
     url: /learn/sociology/questions/how-do-regional-disparities-contribute-to-economic-inequality
-related_article2:
-    id: 165986
-    title: What are the characteristics of post-industrial economic diversification?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
 related_article3:
-    id: 165991
-    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    id: 165981
+    title: >-
+        What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 related_article4:
-    id: 165990
-    title: What is the significance of global production networks in commodity chains?
+    id: 165981
+    title: >-
+        What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-global-production-networks-in-commodity-chains
+    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
 related_article5:
-    id: 165991
-    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    id: 166000
+    title: >-
+        How do cultural resistance movements work to preserve traditions in the face of globalization?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
+    url: /learn/sociology/questions/how-do-cultural-resistance-movements-work-to-preserve-traditions-in-the-face-of-globalization
 ---
 
 &nbsp;

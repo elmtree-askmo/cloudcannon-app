@@ -2,8 +2,10 @@
 _schema: default
 id: 162026
 date: 2025-01-24
-title: What is the importance of balancing chemical equations in chemical reactions?
-article_title: What is the importance of balancing chemical equations in chemical reactions?
+title: >-
+    What is the importance of balancing chemical equations in chemical reactions?
+article_title: >-
+    What is the importance of balancing chemical equations in chemical reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-balancing-chemical-equations-in-chemical-re
 url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
 score: -1.0
 related_article1:
-    id: 162043
-    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    id: 161945
+    title: >-
+        What is the significance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
 related_article2:
-    id: 161974
-    title: How does the appearance of a substance relate to its physical properties?
+    id: 161946
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 related_article3:
-    id: 162049
-    title: Explain the process of a liquid changing to a solid and provide an example.
+    id: 162020
+    title: >-
+        Explain the process of a liquid changing to a solid and provide an example.
     subject: Chemistry
     url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
 related_article4:
-    id: 161949
-    title: Describe the chemical change that occurs when hydrogen and oxygen form water.
+    id: 161763
+    title: >-
+        What are the observable indicators of a chemical change during a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-chemical-change-that-occurs-when-hydrogen-and-oxygen-form-water
+    url: /learn/chemistry/questions/what-are-the-observable-indicators-of-a-chemical-change-during-a-precipitation-reaction
 related_article5:
-    id: 161948
-    title: What are the characteristics of liquids that distinguish them from gases and solids?
+    id: 161938
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-distinguish-them-from-gases-and-solids
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
 ---
 
 &nbsp;

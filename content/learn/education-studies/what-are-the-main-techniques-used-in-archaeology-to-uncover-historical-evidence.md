@@ -2,8 +2,10 @@
 _schema: default
 id: 168377
 date: 2025-02-03
-title: What are the main techniques used in archaeology to uncover historical evidence?
-article_title: What are the main techniques used in archaeology to uncover historical evidence?
+title: >-
+    What are the main techniques used in archaeology to uncover historical evidence?
+article_title: >-
+    What are the main techniques used in archaeology to uncover historical evidence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-techniques-used-in-archaeology-to-uncover-historica
 url: /learn/education-studies/questions/what-are-the-main-techniques-used-in-archaeology-to-uncover-historical-evidence
 score: -1.0
 related_article1:
-    id: 168379
-    title: What are the key differences between stone tools and composite tools in tool technology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
-related_article2:
-    id: 168386
-    title: What methods are used to date historical events and artifacts?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
-related_article3:
     id: 168374
-    title: What is the significance of prehistory in understanding human history?
+    title: >-
+        What is the significance of prehistory in understanding human history?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
+related_article2:
+    id: 168378
+    title: >-
+        How do cultural and physical anthropology differ in their study of human societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
+related_article3:
+    id: 168382
+    title: >-
+        What are the key developments in the timeline of human evolution?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-developments-in-the-timeline-of-human-evolution
 related_article4:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
+    id: 168396
+    title: >-
+        How did technological advancements influence social structures in ancient times?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
+    url: /learn/education-studies/questions/how-did-technological-advancements-influence-social-structures-in-ancient-times
 related_article5:
-    id: 168375
-    title: How do primary sources contribute to historical research, and what are their limitations?
+    id: 168380
+    title: >-
+        How did early metallurgical practices impact ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-primary-sources-contribute-to-historical-research-and-what-are-their-limitations
+    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
 ---
 
 &nbsp;

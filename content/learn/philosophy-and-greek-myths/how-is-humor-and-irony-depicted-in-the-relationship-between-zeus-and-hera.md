@@ -2,8 +2,10 @@
 _schema: default
 id: 166543
 date: 2025-01-30
-title: How is humor and irony depicted in the relationship between Zeus and Hera?
-article_title: How is humor and irony depicted in the relationship between Zeus and Hera?
+title: >-
+    How is humor and irony depicted in the relationship between Zeus and Hera?
+article_title: >-
+    How is humor and irony depicted in the relationship between Zeus and Hera?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-
 url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
 score: -1.0
 related_article1:
-    id: 166540
-    title: What is the significance of Gaia and Uranus in Greek creation stories?
+    id: 166549
+    title: >-
+        How does Greek mythology explain natural events and their connection to the environment?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-gaia-and-uranus-in-greek-creation-stories
+    url: /learn/philosophy-and-greek-myths/questions/how-does-greek-mythology-explain-natural-events-and-their-connection-to-the-environment
 related_article2:
-    id: 166534
-    title: What are the main attributes and symbols associated with Zeus in Greek mythology?
+    id: 166544
+    title: >-
+        What are some examples of how natural phenomena are symbolized in Greek mythology?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-main-attributes-and-symbols-associated-with-zeus-in-greek-mythology
+    url: /learn/philosophy-and-greek-myths/questions/what-are-some-examples-of-how-natural-phenomena-are-symbolized-in-greek-mythology
 related_article3:
-    id: 166548
-    title: In what ways has Greek mythology influenced modern art and literature?
+    id: 166542
+    title: >-
+        What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/in-what-ways-has-greek-mythology-influenced-modern-art-and-literature
-related_article4:
-    id: 166548
-    title: In what ways has Greek mythology influenced modern art and literature?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/in-what-ways-has-greek-mythology-influenced-modern-art-and-literature
-related_article5:
-    id: 166538
-    title: What role do satyrs play in Greek mythology, and what do they symbolize?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-do-satyrs-play-in-greek-mythology-and-what-do-they-symbolize
+    url: /learn/philosophy-and-greek-myths/questions/what-role-does-tiresias-play-in-greek-mythology-particularly-concerning-prophecy-and-fate
 ---
 
 &nbsp;

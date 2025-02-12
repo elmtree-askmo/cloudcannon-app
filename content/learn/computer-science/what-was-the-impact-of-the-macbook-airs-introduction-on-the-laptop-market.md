@@ -2,8 +2,10 @@
 _schema: default
 id: 160526
 date: 2025-01-24
-title: What was the impact of the MacBook Air's introduction on the laptop market?
-article_title: What was the impact of the MacBook Air's introduction on the laptop market?
+title: >-
+    What was the impact of the MacBook Air's introduction on the laptop market?
+article_title: >-
+    What was the impact of the MacBook Air's introduction on the laptop market?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-ma
 url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
 score: -1.0
 related_article1:
-    id: 160428
-    title: How did the transition to aluminum cases affect Apple's product design?
+    id: 160519
+    title: >-
+        What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
+    url: /learn/computer-science/questions/what-advancements-did-the-flatpanel-imac-bring-to-apples-product-offerings-in-the-late-2000s
 related_article2:
-    id: 160604
-    title: How did the introduction of the iPhone in 2007 transform the smartphone market?
+    id: 160521
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
 related_article3:
-    id: 160600
-    title: How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
+    id: 160422
+    title: >-
+        How did the introduction of the iPod in the late 2000s influence Apple's product lineup?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-release-of-mac-os-x-100-cheetah-mark-a-turning-point-for-apples-operating-systems
+    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-influence-apples-product-lineup
 related_article4:
-    id: 160601
-    title: What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
+    id: 160418
+    title: >-
+        What were the key features of the first beta release of Mac OS X?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-first-beta-release-of-mac-os-x
 related_article5:
-    id: 160529
-    title: How did Apple's store design and layout contribute to its retail success?
+    id: 160520
+    title: >-
+        What were the major updates introduced in Mac OS X 10.1?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apples-store-design-and-layout-contribute-to-its-retail-success
+    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-in-mac-os-x-101
 ---
 
 &nbsp;

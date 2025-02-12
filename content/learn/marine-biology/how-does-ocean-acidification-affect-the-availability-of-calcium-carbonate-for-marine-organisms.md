@@ -2,8 +2,10 @@
 _schema: default
 id: 167344
 date: 2025-01-31
-title: How does ocean acidification affect the availability of calcium carbonate for marine organisms?
-article_title: How does ocean acidification affect the availability of calcium carbonate for marine organisms?
+title: >-
+    How does ocean acidification affect the availability of calcium carbonate for marine organisms?
+article_title: >-
+    How does ocean acidification affect the availability of calcium carbonate for marine organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-ocean-acidification-affect-the-availability-of-calcium-carbo
 url: /learn/marine-biology/questions/how-does-ocean-acidification-affect-the-availability-of-calcium-carbonate-for-marine-organisms
 score: -1.0
 related_article1:
-    id: 167354
-    title: How does ocean acidification potentially impact fisheries and coastal communities?
+    id: 167346
+    title: >-
+        How does ocean acidification impact the shells of marine terrapods?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-ocean-acidification-potentially-impact-fisheries-and-coastal-communities
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
 related_article2:
-    id: 167354
-    title: How does ocean acidification potentially impact fisheries and coastal communities?
+    id: 167350
+    title: >-
+        How can changes in marine biodiversity due to ocean acidification affect ecosystems?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-does-ocean-acidification-potentially-impact-fisheries-and-coastal-communities
+    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
 related_article3:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+    id: 167348
+    title: >-
+        How is long-term data collection important for monitoring ocean chemistry changes?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
+    url: /learn/marine-biology/questions/how-is-longterm-data-collection-important-for-monitoring-ocean-chemistry-changes
 related_article4:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+    id: 167341
+    title: >-
+        What is the primary cause of ocean acidification?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
+    url: /learn/marine-biology/questions/what-is-the-primary-cause-of-ocean-acidification
 related_article5:
-    id: 167349
-    title: What impact does ocean acidification have on shell-building organisms like corals and shellfish?
+    id: 167347
+    title: >-
+        What are the key research methodologies used by NOAA to study ocean acidification?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-impact-does-ocean-acidification-have-on-shellbuilding-organisms-like-corals-and-shellfish
+    url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
 ---
 
 &nbsp;

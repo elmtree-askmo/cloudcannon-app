@@ -2,8 +2,10 @@
 _schema: default
 id: 166338
 date: 2025-01-30
-title: How does the study of animal behavior contribute to our understanding of ecology?
-article_title: How does the study of animal behavior contribute to our understanding of ecology?
+title: >-
+    How does the study of animal behavior contribute to our understanding of ecology?
+article_title: >-
+    How does the study of animal behavior contribute to our understanding of ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-study-of-animal-behavior-contribute-to-our-understanding
 url: /learn/sociology/questions/how-does-the-study-of-animal-behavior-contribute-to-our-understanding-of-ecology
 score: -1.0
 related_article1:
-    id: 166344
-    title: How does cultural transmission occur in animals, and what role does social learning play?
+    id: 166352
+    title: >-
+        What is kin selection, and how does it relate to conceptual approaches in animal behavior?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-cultural-transmission-occur-in-animals-and-what-role-does-social-learning-play
+    url: /learn/sociology/questions/what-is-kin-selection-and-how-does-it-relate-to-conceptual-approaches-in-animal-behavior
 related_article2:
-    id: 166340
-    title: Differentiate between proximate and ultimate causation in animal behavior.
+    id: 166349
+    title: >-
+        What role do genetic mutations play in the evolution of animal behavior?
     subject: Sociology
-    url: /learn/sociology/questions/differentiate-between-proximate-and-ultimate-causation-in-animal-behavior
+    url: /learn/sociology/questions/what-role-do-genetic-mutations-play-in-the-evolution-of-animal-behavior
 related_article3:
+    id: 166339
+    title: >-
+        What are Tinbergen's four questions, and how do they help in understanding animal behavior?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
+related_article4:
     id: 166347
-    title: What are some behavioral responses animals might exhibit in response to environmental changes?
+    title: >-
+        What are some behavioral responses animals might exhibit in response to environmental changes?
     subject: Sociology
     url: /learn/sociology/questions/what-are-some-behavioral-responses-animals-might-exhibit-in-response-to-environmental-changes
-related_article4:
-    id: 166345
-    title: What is the significance of individual learning in the context of animal behavior and fitness?
-    subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-individual-learning-in-the-context-of-animal-behavior-and-fitness
 related_article5:
-    id: 166342
-    title: What are Darwin's postulates, and how do they relate to natural selection?
+    id: 166346
+    title: >-
+        How does the optimal foraging theory use cost-benefit analysis to predict animal foraging behavior?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+    url: /learn/sociology/questions/how-does-the-optimal-foraging-theory-use-costbenefit-analysis-to-predict-animal-foraging-behavior
 ---
 
 &nbsp;

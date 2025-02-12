@@ -2,8 +2,10 @@
 _schema: default
 id: 167994
 date: 2025-02-02
-title: What are the key characteristics of the formal operational stage in Piaget's theory?
-article_title: What are the key characteristics of the formal operational stage in Piaget's theory?
+title: >-
+    What are the key characteristics of the formal operational stage in Piaget's theory?
+article_title: >-
+    What are the key characteristics of the formal operational stage in Piaget's theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-characteristics-of-the-formal-operational-stage-in-p
 url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 score: -1.0
 related_article1:
-    id: 167995
-    title: How does abstract thinking manifest in the formal operational stage?
+    id: 168002
+    title: >-
+        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 related_article2:
-    id: 167999
-    title: How does the concept of the imaginary audience relate to adolescent behavior?
+    id: 168001
+    title: >-
+        List and briefly describe the stages of cognitive development according to Piaget.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+    url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
 related_article3:
     id: 168002
-    title: What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
+    title: >-
+        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
     subject: Psychology
     url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 related_article4:
-    id: 168000
-    title: What is the personal fable, and how does it affect adolescent thinking?
+    id: 168009
+    title: >-
+        What is the Information Processing Theory, and how does it differ from Piaget's approach?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
+    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
 related_article5:
-    id: 168008
-    title: Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    id: 168002
+    title: >-
+        What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
     subject: Psychology
-    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
 ---
 
 &nbsp;

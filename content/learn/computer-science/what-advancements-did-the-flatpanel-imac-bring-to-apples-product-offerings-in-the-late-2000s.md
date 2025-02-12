@@ -2,8 +2,10 @@
 _schema: default
 id: 160519
 date: 2025-01-24
-title: What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
-article_title: What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
+title: >-
+    What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
+article_title: >-
+    What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-advancements-did-the-flatpanel-imac-bring-to-apples-product-offe
 url: /learn/computer-science/questions/what-advancements-did-the-flatpanel-imac-bring-to-apples-product-offerings-in-the-late-2000s
 score: -1.0
 related_article1:
-    id: 160604
-    title: How did the introduction of the iPhone in 2007 transform the smartphone market?
+    id: 160597
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 related_article2:
-    id: 160429
-    title: What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
+    id: 160527
+    title: >-
+        How did the transition to aluminum cases affect Apple's product design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
+    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
 related_article3:
-    id: 160427
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
+    id: 160417
+    title: >-
+        What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
+    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 related_article4:
-    id: 160529
-    title: How did Apple's store design and layout contribute to its retail success?
+    id: 160514
+    title: >-
+        How did the first beta release of Mac OS X impact Apple's software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apples-store-design-and-layout-contribute-to-its-retail-success
+    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 related_article5:
-    id: 160599
-    title: What were the key features of the PowerBook G4 introduced in the mid-2000s?
+    id: 160432
+    title: >-
+        What role did Apple's keynote presentations play in its marketing strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-powerbook-g4-introduced-in-the-mid2000s
+    url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
 ---
 
 &nbsp;

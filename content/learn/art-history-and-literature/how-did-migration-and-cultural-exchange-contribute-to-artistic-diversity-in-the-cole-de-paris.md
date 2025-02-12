@@ -2,8 +2,10 @@
 _schema: default
 id: 159840
 date: 2025-01-23
-title: How did migration and cultural exchange contribute to artistic diversity in the École de Paris?
-article_title: How did migration and cultural exchange contribute to artistic diversity in the École de Paris?
+title: >-
+    How did migration and cultural exchange contribute to artistic diversity in the École de Paris?
+article_title: >-
+    How did migration and cultural exchange contribute to artistic diversity in the École de Paris?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-migration-and-cultural-exchange-contribute-to-artistic-divers
 url: /learn/art-history-and-literature/questions/how-did-migration-and-cultural-exchange-contribute-to-artistic-diversity-in-the-cole-de-paris
 score: 9.0
 related_article1:
-    id: 159844
-    title: How did technological advances influence the depiction of modern life in art?
+    id: 159852
+    title: >-
+        What were the distinctive characteristics and developments of American and Eastern European modernities in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
+    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
 related_article2:
     id: 159847
-    title: What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
+    title: >-
+        What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-imperialism-and-how-did-artists-critique-and-reinterpret-the-representation-of-colonized-peoples
 related_article3:
-    id: 159843
-    title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+    id: 160111
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
 related_article4:
-    id: 159850
-    title: How did scientific developments influence environmental themes in Victorian art?
+    id: 159846
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
+    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
 related_article5:
     id: 160107
-    title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 ---

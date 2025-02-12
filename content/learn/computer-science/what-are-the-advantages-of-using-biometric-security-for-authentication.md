@@ -2,8 +2,10 @@
 _schema: default
 id: 161468
 date: 2025-01-24
-title: What are the advantages of using biometric security for authentication?
-article_title: What are the advantages of using biometric security for authentication?
+title: >-
+    What are the advantages of using biometric security for authentication?
+article_title: >-
+    What are the advantages of using biometric security for authentication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-biometric-security-for-authenticatio
 url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
 score: -1.0
 related_article1:
-    id: 161385
-    title: Why is it important to regularly update anti-virus software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
-related_article2:
     id: 161252
-    title: What are the key features and functions of anti-virus software?
+    title: >-
+        What are the key features and functions of anti-virus software?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-features-and-functions-of-antivirus-software
+related_article2:
+    id: 161256
+    title: >-
+        What distinguishes a virus from a worm in terms of malware?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-distinguishes-a-virus-from-a-worm-in-terms-of-malware
 related_article3:
-    id: 161453
-    title: How does biometric data differ from other types of personal data?
+    id: 161379
+    title: >-
+        How does biometric data differ from other types of personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
 related_article4:
-    id: 161463
-    title: What is the primary function of spyware?
+    id: 161252
+    title: >-
+        What are the key features and functions of anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-spyware
+    url: /learn/computer-science/questions/what-are-the-key-features-and-functions-of-antivirus-software
 related_article5:
-    id: 161382
-    title: What is online impersonation in the context of identity theft?
+    id: 161383
+    title: >-
+        How can strong passwords help prevent identity theft?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
+    url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
 ---
 
 &nbsp;

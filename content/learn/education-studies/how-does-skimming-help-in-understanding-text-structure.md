@@ -2,8 +2,10 @@
 _schema: default
 id: 165611
 date: 2025-01-29
-title: How does skimming help in understanding text structure?
-article_title: How does skimming help in understanding text structure?
+title: >-
+    How does skimming help in understanding text structure?
+article_title: >-
+    How does skimming help in understanding text structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-skimming-help-in-understanding-text-structure.md
 url: /learn/education-studies/questions/how-does-skimming-help-in-understanding-text-structure
 score: -1.0
 related_article1:
-    id: 165606
-    title: What strategies can be used to avoid daydreaming while reading?
+    id: 165591
+    title: >-
+        How do regressions in reading impact comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-avoid-daydreaming-while-reading
+    url: /learn/education-studies/questions/how-do-regressions-in-reading-impact-comprehension
 related_article2:
-    id: 165605
-    title: How can setting time goals improve time management in reading?
+    id: 165584
+    title: >-
+        Why is rapid serial visual processing often ineffective for comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-time-goals-improve-time-management-in-reading
+    url: /learn/education-studies/questions/why-is-rapid-serial-visual-processing-often-ineffective-for-comprehension
 related_article3:
-    id: 165608
-    title: Why is summarization important in reviewing and reciting information?
+    id: 165602
+    title: >-
+        How does the Morse Code method assist in highlighting important information?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-summarization-important-in-reviewing-and-reciting-information
+    url: /learn/education-studies/questions/how-does-the-morse-code-method-assist-in-highlighting-important-information
 related_article4:
-    id: 165599
-    title: How does the SQ3R method facilitate active reading?
+    id: 165609
+    title: >-
+        How can effective review strategies enhance information retention?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-sq3r-method-facilitate-active-reading
+    url: /learn/education-studies/questions/how-can-effective-review-strategies-enhance-information-retention
 related_article5:
-    id: 165612
-    title: What are the key concepts to identify in text structure analysis?
+    id: 165586
+    title: >-
+        How does subvocalization affect reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-concepts-to-identify-in-text-structure-analysis
+    url: /learn/education-studies/questions/how-does-subvocalization-affect-reading-comprehension
 ---
 
 &nbsp;

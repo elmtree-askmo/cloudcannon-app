@@ -2,8 +2,10 @@
 _schema: default
 id: 170573
 date: 2025-02-06
-title: How does electron microscopy differ from light microscopy in imaging applications?
-article_title: How does electron microscopy differ from light microscopy in imaging applications?
+title: >-
+    How does electron microscopy differ from light microscopy in imaging applications?
+article_title: >-
+    How does electron microscopy differ from light microscopy in imaging applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-
 url: /learn/health-studies/questions/how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-applications
 score: -1.0
 related_article1:
-    id: 170549
-    title: Describe the process of glucose regulation in maintaining homeostasis.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-process-of-glucose-regulation-in-maintaining-homeostasis
-related_article2:
-    id: 170553
-    title: How does neurotransmitter blockage affect nervous system function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
-related_article3:
     id: 170568
-    title: What are the clinical implications of hemophilia in blood clotting disorders?
+    title: >-
+        What are the clinical implications of hemophilia in blood clotting disorders?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-clinical-implications-of-hemophilia-in-blood-clotting-disorders
+related_article2:
+    id: 170572
+    title: >-
+        What are the benefits of using clinical vignettes in research methodologies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
+related_article3:
+    id: 170566
+    title: >-
+        Describe the coagulation cascade involved in blood clotting mechanisms.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-coagulation-cascade-involved-in-blood-clotting-mechanisms
 related_article4:
-    id: 170557
-    title: How do steroids and opioids differ in their pharmacological effects?
+    id: 170562
+    title: >-
+        What pharmacological interventions are available for treating Parkinson's disease?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
+    url: /learn/health-studies/questions/what-pharmacological-interventions-are-available-for-treating-parkinsons-disease
 related_article5:
-    id: 170557
-    title: How do steroids and opioids differ in their pharmacological effects?
+    id: 170549
+    title: >-
+        Describe the process of glucose regulation in maintaining homeostasis.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
+    url: /learn/health-studies/questions/describe-the-process-of-glucose-regulation-in-maintaining-homeostasis
 ---
 
 &nbsp;

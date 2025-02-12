@@ -2,8 +2,10 @@
 _schema: default
 id: 166116
 date: 2025-01-29
-title: What were the consequences of the withdrawal of Roman troops from Britain?
-article_title: What were the consequences of the withdrawal of Roman troops from Britain?
+title: >-
+    What were the consequences of the withdrawal of Roman troops from Britain?
+article_title: >-
+    What were the consequences of the withdrawal of Roman troops from Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-bri
 url: /learn/history-of-the-world/questions/what-were-the-consequences-of-the-withdrawal-of-roman-troops-from-britain
 score: 9.0
 related_article1:
-    id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    id: 166106
+    title: >-
+        How did the Britonic languages develop during the Roman period in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
+    url: /learn/history-of-the-world/questions/how-did-the-britonic-languages-develop-during-the-roman-period-in-britain
 related_article2:
-    id: 166109
-    title: What strategies did the Roman military employ to maintain control over Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
-related_article3:
-    id: 166109
-    title: What strategies did the Roman military employ to maintain control over Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
-related_article4:
-    id: 166109
-    title: What strategies did the Roman military employ to maintain control over Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
-related_article5:
     id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    title: >-
+        How did Roman architecture influence local British housing styles?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
+related_article3:
+    id: 166117
+    title: >-
+        How has Roman Britain influenced modern British culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-has-roman-britain-influenced-modern-british-culture
+related_article4:
+    id: 166106
+    title: >-
+        How did the Britonic languages develop during the Roman period in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-britonic-languages-develop-during-the-roman-period-in-britain
+related_article5:
+    id: 166108
+    title: >-
+        How did Roman religious practices integrate with Celtic traditions in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-roman-religious-practices-integrate-with-celtic-traditions-in-britain
 ---
 
 &nbsp;

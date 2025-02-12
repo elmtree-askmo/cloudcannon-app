@@ -2,8 +2,10 @@
 _schema: default
 id: 166218
 date: 2025-01-29
-title: How is machine learning applied in natural language processing?
-article_title: How is machine learning applied in natural language processing?
+title: >-
+    How is machine learning applied in natural language processing?
+article_title: >-
+    How is machine learning applied in natural language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-is-machine-learning-applied-in-natural-language-processing.md
 url: /learn/history-of-the-world/questions/how-is-machine-learning-applied-in-natural-language-processing
 score: 9.0
 related_article1:
-    id: 166217
-    title: What are the fundamental components of machine learning, and how do they interact?
+    id: 166215
+    title: >-
+        What are the primary benefits of using iClicker technology in educational settings?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
+    url: /learn/history-of-the-world/questions/what-are-the-primary-benefits-of-using-iclicker-technology-in-educational-settings
 related_article2:
-    id: 166225
-    title: What are the main components of physical health that contribute to overall well-being?
+    id: 166233
+    title: >-
+        How has historiography evolved from ancient to modern times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
+    url: /learn/history-of-the-world/questions/how-has-historiography-evolved-from-ancient-to-modern-times
 related_article3:
-    id: 166238
-    title: How do data analysis techniques like statistical methods and data visualization aid in historical research?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-data-analysis-techniques-like-statistical-methods-and-data-visualization-aid-in-historical-research
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article4:
-    id: 166236
-    title: How do natural disasters like earthquakes and hurricanes affect human societies?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article5:
     id: 166240
-    title: How do language barriers and contextual understanding affect the interpretation of historical documents?
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 ---

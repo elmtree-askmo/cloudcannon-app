@@ -2,8 +2,10 @@
 _schema: default
 id: 162035
 date: 2025-01-24
-title: What are the effects of ionization on the state of matter?
-article_title: What are the effects of ionization on the state of matter?
+title: >-
+    What are the effects of ionization on the state of matter?
+article_title: >-
+    What are the effects of ionization on the state of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-ionization-on-the-state-of-matter.md
 url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
 score: -1.0
 related_article1:
-    id: 161977
-    title: Describe the process and result of the reaction between silver ions and chloride ions.
+    id: 161935
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-and-result-of-the-reaction-between-silver-ions-and-chloride-ions
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article2:
-    id: 162023
-    title: How does the process of evaporation differ from freezing in terms of state transitions?
+    id: 162026
+    title: >-
+        What is the importance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-process-of-evaporation-differ-from-freezing-in-terms-of-state-transitions
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
 related_article3:
-    id: 162059
-    title: What is the process of ionization and how does it affect the charge of particles?
+    id: 161985
+    title: >-
+        Describe the physical change that occurs when aluminum foil is crumbled.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles
+    url: /learn/chemistry/questions/describe-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 related_article4:
-    id: 162013
-    title: What is the role of oxygen in combustion reactions?
+    id: 161937
+    title: >-
+        What is a precipitation reaction and how can you identify it?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 related_article5:
-    id: 162017
-    title: What is a precipitation reaction and how can it be identified?
+    id: 161938
+    title: >-
+        How does the reactivity of hydrogen compare to that of oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-it-be-identified
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-hydrogen-compare-to-that-of-oxygen
 ---
 
 &nbsp;

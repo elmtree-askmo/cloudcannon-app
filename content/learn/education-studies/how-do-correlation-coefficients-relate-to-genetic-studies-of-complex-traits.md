@@ -2,8 +2,10 @@
 _schema: default
 id: 167845
 date: 2025-02-01
-title: How do correlation coefficients relate to genetic studies of complex traits?
-article_title: How do correlation coefficients relate to genetic studies of complex traits?
+title: >-
+    How do correlation coefficients relate to genetic studies of complex traits?
+article_title: >-
+    How do correlation coefficients relate to genetic studies of complex traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-
 url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
 score: -1.0
 related_article1:
-    id: 167831
-    title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
+    id: 167833
+    title: >-
+        What is incomplete penetrance, and how does it affect phenotypic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-principle-of-independent-assortment-in-mendelian-genetics-and-can-you-provide-an-example
+    url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-phenotypic-expression
 related_article2:
-    id: 167849
-    title: What is the difference between incomplete dominance and incomplete penetrance?
+    id: 167836
+    title: >-
+        Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
+    url: /learn/education-studies/questions/explain-the-concept-of-lethal-alleles-and-differentiate-between-dominant-and-recessive-lethal-alleles
 related_article3:
-    id: 167832
-    title: How does incomplete dominance differ from complete dominance, and what are its genetic implications?
+    id: 167837
+    title: >-
+        How do conditional lethal alleles demonstrate environmental influence on genetic expression?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-incomplete-dominance-differ-from-complete-dominance-and-what-are-its-genetic-implications
+    url: /learn/education-studies/questions/how-do-conditional-lethal-alleles-demonstrate-environmental-influence-on-genetic-expression
 related_article4:
     id: 167831
-    title: What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
+    title: >-
+        What is the principle of independent assortment in Mendelian genetics, and can you provide an example?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-principle-of-independent-assortment-in-mendelian-genetics-and-can-you-provide-an-example
 related_article5:
-    id: 167841
-    title: Describe polygenic inheritance and provide an example of how multiple genes contribute additively to a trait.
+    id: 167836
+    title: >-
+        Explain the concept of lethal alleles and differentiate between dominant and recessive lethal alleles.
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-polygenic-inheritance-and-provide-an-example-of-how-multiple-genes-contribute-additively-to-a-trait
+    url: /learn/education-studies/questions/explain-the-concept-of-lethal-alleles-and-differentiate-between-dominant-and-recessive-lethal-alleles
 ---
 
 &nbsp;

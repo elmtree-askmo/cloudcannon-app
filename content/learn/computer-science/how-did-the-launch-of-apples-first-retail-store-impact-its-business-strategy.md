@@ -2,8 +2,10 @@
 _schema: default
 id: 160419
 date: 2025-01-24
-title: How did the launch of Apple's first retail store impact its business strategy?
-article_title: How did the launch of Apple's first retail store impact its business strategy?
+title: >-
+    How did the launch of Apple's first retail store impact its business strategy?
+article_title: >-
+    How did the launch of Apple's first retail store impact its business strategy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-launch-of-apples-first-retail-store-impact-its-business-s
 url: /learn/computer-science/questions/how-did-the-launch-of-apples-first-retail-store-impact-its-business-strategy
 score: -1.0
 related_article1:
-    id: 160432
-    title: What role did Apple's keynote presentations play in its marketing strategy?
+    id: 160601
+    title: >-
+        What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
+    url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
 related_article2:
-    id: 160528
-    title: What was the significance of Apple's first retail store opening in terms of consumer engagement?
+    id: 160514
+    title: >-
+        How did the first beta release of Mac OS X impact Apple's software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
+    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 related_article3:
-    id: 160427
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
+    id: 160430
+    title: >-
+        What were the implications of Apple's transition to Intel processors for product performance and compatibility?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
+    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance-and-compatibility
 related_article4:
-    id: 160417
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+    id: 160524
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 related_article5:
-    id: 160434
-    title: What were the key technological advancements in computing that Apple contributed to in the early 2000s?
+    id: 160423
+    title: >-
+        What were the major updates included in Mac OS X 10.2 Jaguar?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-technological-advancements-in-computing-that-apple-contributed-to-in-the-early-2000s
+    url: /learn/computer-science/questions/what-were-the-major-updates-included-in-mac-os-x-102-jaguar
 ---
 
 &nbsp;

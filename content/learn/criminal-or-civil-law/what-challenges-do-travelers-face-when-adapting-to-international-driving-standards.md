@@ -2,8 +2,10 @@
 _schema: default
 id: 162878
 date: 2025-01-25
-title: What challenges do travelers face when adapting to international driving standards?
-article_title: What challenges do travelers face when adapting to international driving standards?
+title: >-
+    What challenges do travelers face when adapting to international driving standards?
+article_title: >-
+    What challenges do travelers face when adapting to international driving standards?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-challenges-do-travelers-face-when-adapting-to-international-driv
 url: /learn/criminal-or-civil-law/questions/what-challenges-do-travelers-face-when-adapting-to-international-driving-standards
 score: -1.0
 related_article1:
-    id: 162863
-    title: What role does intent play in cases of criminal negligence in driving?
+    id: 162857
+    title: >-
+        What are the challenges in proving objective liability in court?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-role-does-intent-play-in-cases-of-criminal-negligence-in-driving
+    url: /learn/criminal-or-civil-law/questions/what-are-the-challenges-in-proving-objective-liability-in-court
 related_article2:
-    id: 162862
-    title: How is criminal negligence defined in the context of driving?
+    id: 162882
+    title: >-
+        How are legal standards of care applied in traffic law?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-criminal-negligence-defined-in-the-context-of-driving
+    url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
 related_article3:
-    id: 162883
-    title: What are the fundamental principles of criminal law, and how do they apply to traffic law?
+    id: 162869
+    title: >-
+        What are the consequences of breaching a legal duty in driving?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-fundamental-principles-of-criminal-law-and-how-do-they-apply-to-traffic-law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-consequences-of-breaching-a-legal-duty-in-driving
 related_article4:
-    id: 162884
-    title: How is liability determined in traffic accidents, and what role does evidence play?
+    id: 162859
+    title: >-
+        What factors are considered when assessing the reasonableness of a driver's behavior?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-liability-determined-in-traffic-accidents-and-what-role-does-evidence-play
+    url: /learn/criminal-or-civil-law/questions/what-factors-are-considered-when-assessing-the-reasonableness-of-a-drivers-behavior
 related_article5:
     id: 162882
-    title: How are legal standards of care applied in traffic law?
+    title: >-
+        How are legal standards of care applied in traffic law?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168597
 date: 2025-02-03
-title: How can you handle a specific error type using a try...except block?
-article_title: How can you handle a specific error type using a try...except block?
+title: >-
+    How can you handle a specific error type using a try...except block?
+article_title: >-
+    How can you handle a specific error type using a try...except block?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-
 score: -1.0
 related_article1:
     id: 168603
-    title: How can custom exceptions be created in Python?
+    title: >-
+        How can custom exceptions be created in Python?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
 related_article2:
-    id: 168600
-    title: What is a function docstring and why is it important?
+    id: 168587
+    title: >-
+        What are the benefits of using functions in software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
 related_article3:
-    id: 168596
-    title: What is the purpose of using the try...except statement in Python?
+    id: 168589
+    title: >-
+        What is the syntax for defining a function in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 related_article4:
-    id: 168590
-    title: How do you call a function with parameters in Python?
+    id: 168593
+    title: >-
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 related_article5:
-    id: 168600
-    title: What is a function docstring and why is it important?
+    id: 168589
+    title: >-
+        What is the syntax for defining a function in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 ---
 
 &nbsp;

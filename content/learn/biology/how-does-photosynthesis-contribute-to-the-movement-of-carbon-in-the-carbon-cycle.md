@@ -2,8 +2,10 @@
 _schema: default
 id: 170359
 date: 2025-02-06
-title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
-article_title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+title: >-
+    How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+article_title: >-
+    How does photosynthesis contribute to the movement of carbon in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement
 score: -1.0
 related_article1:
     id: 170375
-    title: How does light energy get converted into chemical energy during photosynthesis?
+    title: >-
+        How does light energy get converted into chemical energy during photosynthesis?
     subject: Biology
     url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
 related_article2:
-    id: 170369
-    title: How do chloroplasts contribute to glucose production?
+    id: 170376
+    title: >-
+        What is the relationship between photosynthesis and cellular respiration in ecosystem energy cycling?
     subject: Biology
-    url: /learn/biology/questions/how-do-chloroplasts-contribute-to-glucose-production
+    url: /learn/biology/questions/what-is-the-relationship-between-photosynthesis-and-cellular-respiration-in-ecosystem-energy-cycling
 related_article3:
-    id: 170373
-    title: How do stomata regulate gas exchange in plants?
+    id: 170370
+    title: >-
+        Describe the structure of mitochondria and its role in ATP synthesis.
     subject: Biology
-    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
+    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
 related_article4:
-    id: 170371
-    title: What happens to glucose during cellular respiration?
+    id: 170364
+    title: >-
+        Describe the chemical equation for cellular respiration, including reactants and products.
     subject: Biology
-    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
 related_article5:
-    id: 170367
-    title: How is ATP produced in the mitochondria?
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 ---
 
 &nbsp;

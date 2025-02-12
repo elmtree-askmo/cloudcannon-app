@@ -2,8 +2,10 @@
 _schema: default
 id: 165686
 date: 2025-01-29
-title: How many bits are there in an IPv4 address, and what is the decimal range of each octet?
-article_title: How many bits are there in an IPv4 address, and what is the decimal range of each octet?
+title: >-
+    How many bits are there in an IPv4 address, and what is the decimal range of each octet?
+article_title: >-
+    How many bits are there in an IPv4 address, and what is the decimal range of each octet?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-many-bits-are-there-in-an-ipv4-address-and-what-is-the-decimal-ra
 url: /learn/computer-science/questions/how-many-bits-are-there-in-an-ipv4-address-and-what-is-the-decimal-range-of-each-octet
 score: -1.0
 related_article1:
-    id: 165693
-    title: Define broadcast transmission and explain the concept of directed broadcast.
+    id: 165697
+    title: >-
+        What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-broadcast-transmission-and-explain-the-concept-of-directed-broadcast
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-class-a-ipv4-addresses-including-their-prefix-and-address-range
 related_article2:
+    id: 165697
+    title: >-
+        What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-class-a-ipv4-addresses-including-their-prefix-and-address-range
+related_article3:
     id: 165699
-    title: What is the prefix and address range of Class C IPv4 addresses?
+    title: >-
+        What is the prefix and address range of Class C IPv4 addresses?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-prefix-and-address-range-of-class-c-ipv4-addresses
-related_article3:
-    id: 165700
-    title: What problems were associated with legacy classful addressing, particularly regarding address blocks and wastage?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-problems-were-associated-with-legacy-classful-addressing-particularly-regarding-address-blocks-and-wastage
 related_article4:
-    id: 165698
-    title: Describe the prefix and address range of Class B IPv4 addresses.
+    id: 165697
+    title: >-
+        What are the characteristics of Class A IPv4 addresses, including their prefix and address range?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-prefix-and-address-range-of-class-b-ipv4-addresses
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-class-a-ipv4-addresses-including-their-prefix-and-address-range
 related_article5:
     id: 165685
-    title: What is the dotted decimal format in IPv4 addressing, and how are octets represented?
+    title: >-
+        What is the dotted decimal format in IPv4 addressing, and how are octets represented?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-dotted-decimal-format-in-ipv4-addressing-and-how-are-octets-represented
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 166713
 date: 2025-01-31
-title: How do consulting companies impact the engineering industry?
-article_title: How do consulting companies impact the engineering industry?
+title: >-
+    How do consulting companies impact the engineering industry?
+article_title: >-
+    How do consulting companies impact the engineering industry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-consulting-companies-impact-the-engineering-industry.md
 url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
 score: -1.0
 related_article1:
-    id: 166700
-    title: What is the relationship between force and distance in the context of moment of force?
+    id: 166703
+    title: >-
+        What are some engineering applications of torque?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
 related_article2:
-    id: 166696
-    title: What is the process of force decomposition in vector mathematics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
-related_article3:
     id: 166701
-    title: Explain the concept of torque and its importance in engineering.
+    title: >-
+        Explain the concept of torque and its importance in engineering.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
+related_article3:
+    id: 166719
+    title: >-
+        How do engineering organizations support networking and professional development?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 related_article4:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
+    id: 166695
+    title: >-
+        How are position vectors used in 3D vector analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+    url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
 related_article5:
-    id: 166718
-    title: What benefits do professional engineering societies offer to their members?
+    id: 166707
+    title: >-
+        What factors affect energy transfer and efficiency in engineering systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
+    url: /learn/education-studies/questions/what-factors-affect-energy-transfer-and-efficiency-in-engineering-systems
 ---
 
 &nbsp;

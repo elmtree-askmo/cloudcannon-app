@@ -2,8 +2,10 @@
 _schema: default
 id: 167929
 date: 2025-02-01
-title: What is aneuploidy and how can it lead to genetic disorders?
-article_title: What is aneuploidy and how can it lead to genetic disorders?
+title: >-
+    What is aneuploidy and how can it lead to genetic disorders?
+article_title: >-
+    What is aneuploidy and how can it lead to genetic disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-aneuploidy-and-how-can-it-lead-to-genetic-disorders.md
 url: /learn/education-studies/questions/what-is-aneuploidy-and-how-can-it-lead-to-genetic-disorders
 score: -1.0
 related_article1:
-    id: 167924
-    title: What is the significance of phenotypic and genotypic ratios in genetic crosses?
+    id: 167931
+    title: >-
+        What is crossing over and how does it contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-phenotypic-and-genotypic-ratios-in-genetic-crosses
+    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
 related_article2:
-    id: 167918
-    title: What is the significance of homologous chromosomes during meiosis?
+    id: 167931
+    title: >-
+        What is crossing over and how does it contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-homologous-chromosomes-during-meiosis
+    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
 related_article3:
-    id: 167914
-    title: What are the main phases of mitosis and what occurs during each phase?
+    id: 167919
+    title: >-
+        Explain the concept of synapsis and its role in meiosis.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
+    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
 related_article4:
-    id: 167916
-    title: What are the key differences between mitosis and meiosis?
+    id: 167920
+    title: >-
+        What is the chromosomal theory of inheritance and how does it relate to Mendel's laws?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-mitosis-and-meiosis
+    url: /learn/education-studies/questions/what-is-the-chromosomal-theory-of-inheritance-and-how-does-it-relate-to-mendels-laws
 related_article5:
-    id: 167914
-    title: What are the main phases of mitosis and what occurs during each phase?
+    id: 167931
+    title: >-
+        What is crossing over and how does it contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
+    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
 ---
 
 &nbsp;

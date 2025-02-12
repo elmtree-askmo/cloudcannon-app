@@ -2,8 +2,10 @@
 _schema: default
 id: 166059
 date: 2025-01-29
-title: How did British chariots create chaos in enemy ranks during battle?
-article_title: How did British chariots create chaos in enemy ranks during battle?
+title: >-
+    How did British chariots create chaos in enemy ranks during battle?
+article_title: >-
+    How did British chariots create chaos in enemy ranks during battle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-british-chariots-create-chaos-in-enemy-ranks-during-battle.md
 url: /learn/others/questions/how-did-british-chariots-create-chaos-in-enemy-ranks-during-battle
 score: -1.0
 related_article1:
-    id: 166072
-    title: How did drivers and horses coordinate effectively during battle maneuvers?
+    id: 166070
+    title: >-
+        How did chariots disrupt enemy formations and facilitate tactical retreats?
     subject: Others
-    url: /learn/others/questions/how-did-drivers-and-horses-coordinate-effectively-during-battle-maneuvers
+    url: /learn/others/questions/how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-retreats
 related_article2:
-    id: 166058
-    title: What were the key spear throwing techniques used in British chariot warfare?
-    subject: Others
-    url: /learn/others/questions/what-were-the-key-spear-throwing-techniques-used-in-british-chariot-warfare
-related_article3:
-    id: 166071
-    title: What training practices were crucial for maintaining control of horses at high speeds?
-    subject: Others
-    url: /learn/others/questions/what-training-practices-were-crucial-for-maintaining-control-of-horses-at-high-speeds
-related_article4:
-    id: 166060
-    title: What psychological impact did galloping horses have on enemy forces in chariot warfare?
-    subject: Others
-    url: /learn/others/questions/what-psychological-impact-did-galloping-horses-have-on-enemy-forces-in-chariot-warfare
-related_article5:
     id: 166063
-    title: What are the benefits of integrating cavalry and infantry in British military tactics?
+    title: >-
+        What are the benefits of integrating cavalry and infantry in British military tactics?
     subject: Others
     url: /learn/others/questions/what-are-the-benefits-of-integrating-cavalry-and-infantry-in-british-military-tactics
+related_article3:
+    id: 166065
+    title: >-
+        Discuss the evolution of chariot warfare and its influence on later military tactics.
+    subject: Others
+    url: /learn/others/questions/discuss-the-evolution-of-chariot-warfare-and-its-influence-on-later-military-tactics
+related_article4:
+    id: 166073
+    title: >-
+        What techniques were used to navigate difficult terrain with chariots?
+    subject: Others
+    url: /learn/others/questions/what-techniques-were-used-to-navigate-difficult-terrain-with-chariots
+related_article5:
+    id: 166070
+    title: >-
+        How did chariots disrupt enemy formations and facilitate tactical retreats?
+    subject: Others
+    url: /learn/others/questions/how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-retreats
 ---
 
 &nbsp;

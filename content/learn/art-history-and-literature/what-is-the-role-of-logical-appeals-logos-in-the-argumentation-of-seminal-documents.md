@@ -2,8 +2,10 @@
 _schema: default
 id: 168575
 date: 2025-02-03
-title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
-article_title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+title: >-
+    What is the role of logical appeals (logos) in the argumentation of seminal documents?
+article_title: >-
+    What is the role of logical appeals (logos) in the argumentation of seminal documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-sem
 url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
 score: 9.5
 related_article1:
-    id: 168581
-    title: What role have seminal documents played in shaping civil rights movements?
+    id: 168572
+    title: >-
+        How does word choice in seminal documents affect tone and meaning?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-have-seminal-documents-played-in-shaping-civil-rights-movements
+    url: /learn/art-history-and-literature/questions/how-does-word-choice-in-seminal-documents-affect-tone-and-meaning
 related_article2:
-    id: 168565
-    title: What are the key characteristics that define a seminal document?
+    id: 168574
+    title: >-
+        How do allusions in historical texts enhance meaning and context?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
+    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
 related_article3:
-    id: 168584
-    title: How do seminal documents reflect ongoing struggles in the civil rights movement and their modern implications?
+    id: 168580
+    title: >-
+        How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-seminal-documents-reflect-ongoing-struggles-in-the-civil-rights-movement-and-their-modern-implications
+    url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
 related_article4:
-    id: 168578
-    title: How does tone shape the understanding of seminal documents?
+    id: 168568
+    title: >-
+        How does the 'Letter from Birmingham Jail' reflect its historical context and influence American history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-tone-shape-the-understanding-of-seminal-documents
-related_article5:
-    id: 168582
-    title: How are American ideals represented in seminal texts, and how have they evolved over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-are-american-ideals-represented-in-seminal-texts-and-how-have-they-evolved-over-time
+    url: /learn/art-history-and-literature/questions/how-does-the-letter-from-birmingham-jail-reflect-its-historical-context-and-influence-american-history
 ---
 
 &nbsp;

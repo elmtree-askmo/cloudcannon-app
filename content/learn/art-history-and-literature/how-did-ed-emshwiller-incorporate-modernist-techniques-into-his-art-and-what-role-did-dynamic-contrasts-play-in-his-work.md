@@ -2,8 +2,10 @@
 _schema: default
 id: 170131
 date: 2025-02-05
-title: How did Ed Emshwiller incorporate modernist techniques into his art, and what role did dynamic contrasts play in his work?
-article_title: How did Ed Emshwiller incorporate modernist techniques into his art, and what role did dynamic contrasts play in his work?
+title: >-
+    How did Ed Emshwiller incorporate modernist techniques into his art, and what role did dynamic contrasts play in his work?
+article_title: >-
+    How did Ed Emshwiller incorporate modernist techniques into his art, and what role did dynamic contrasts play in his work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/how-did-ed-emshwiller-incorpora
 score: 9.0
 related_article1:
     id: 170130
-    title: In what ways did surrealism influence Ed Emshwiller's cover art, and how does it compare to other artists of the time?
+    title: >-
+        In what ways did surrealism influence Ed Emshwiller's cover art, and how does it compare to other artists of the time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-surrealism-influence-ed-emshwillers-cover-art-and-how-does-it-compare-to-other-artists-of-the-time
 related_article2:
+    id: 170129
+    title: >-
+        How did Ed Emshwiller's work in science fiction art begin, and what were some of his notable early works?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-ed-emshwillers-work-in-science-fiction-art-begin-and-what-were-some-of-his-notable-early-works
+related_article3:
+    id: 170134
+    title: >-
+        What impact did Ed Emshwiller's cover art have on science fiction publications, and how did he collaborate with editors and writers?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-impact-did-ed-emshwillers-cover-art-have-on-science-fiction-publications-and-how-did-he-collaborate-with-editors-and-writers
+related_article4:
+    id: 170132
+    title: >-
+        What narrative elements did Ed Emshwiller use in his visual storytelling, and how did he employ symbolism and allegory?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-narrative-elements-did-ed-emshwiller-use-in-his-visual-storytelling-and-how-did-he-employ-symbolism-and-allegory
+related_article5:
     id: 170137
-    title: How has Ed Emshwiller's work been recognized and collected, and what influence has he had on future generations of artists?
+    title: >-
+        How has Ed Emshwiller's work been recognized and collected, and what influence has he had on future generations of artists?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-has-ed-emshwillers-work-been-recognized-and-collected-and-what-influence-has-he-had-on-future-generations-of-artists
-related_article3:
-    id: 170136
-    title: What contributions did Ed Emshwiller make to cinema and video art, and what are some notable works in experimental film?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-contributions-did-ed-emshwiller-make-to-cinema-and-video-art-and-what-are-some-notable-works-in-experimental-film
-related_article4:
-    id: 170130
-    title: In what ways did surrealism influence Ed Emshwiller's cover art, and how does it compare to other artists of the time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-surrealism-influence-ed-emshwillers-cover-art-and-how-does-it-compare-to-other-artists-of-the-time
-related_article5:
-    id: 170133
-    title: How did Ed Emshwiller depict futuristic worlds in his art, particularly in terms of architectural and technological imagery?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-ed-emshwiller-depict-futuristic-worlds-in-his-art-particularly-in-terms-of-architectural-and-technological-imagery
 ---
 
 &nbsp;

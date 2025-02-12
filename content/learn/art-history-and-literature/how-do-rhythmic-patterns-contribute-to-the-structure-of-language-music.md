@@ -2,8 +2,10 @@
 _schema: default
 id: 164618
 date: 2025-01-28
-title: How do rhythmic patterns contribute to the structure of language music?
-article_title: How do rhythmic patterns contribute to the structure of language music?
+title: >-
+    How do rhythmic patterns contribute to the structure of language music?
+article_title: >-
+    How do rhythmic patterns contribute to the structure of language music?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-rhythmic-patterns-contribute-to-the-structure-of-language-musi
 url: /learn/art-history-and-literature/questions/how-do-rhythmic-patterns-contribute-to-the-structure-of-language-music
 score: 9.0
 related_article1:
-    id: 164619
-    title: What is the difference between phonetics and phonology in the study of speech sounds?
+    id: 164617
+    title: >-
+        What are the phonetic elements of language music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-difference-between-phonetics-and-phonology-in-the-study-of-speech-sounds
+    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
 related_article2:
     id: 164620
-    title: What are the stages of speech sound development in children?
+    title: >-
+        What are the stages of speech sound development in children?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-stages-of-speech-sound-development-in-children
 related_article3:
-    id: 164617
-    title: What are the phonetic elements of language music?
+    id: 164624
+    title: >-
+        What role does figurative language play in the semantic elements of song lyrics?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
+    url: /learn/art-history-and-literature/questions/what-role-does-figurative-language-play-in-the-semantic-elements-of-song-lyrics
 related_article4:
-    id: 164617
-    title: What are the phonetic elements of language music?
+    id: 164630
+    title: >-
+        What is the role of harmony in music composition?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
 related_article5:
-    id: 164617
-    title: What are the phonetic elements of language music?
+    id: 164622
+    title: >-
+        What is code-switching and how does it relate to linguistic diversity in urban areas?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
+    url: /learn/art-history-and-literature/questions/what-is-codeswitching-and-how-does-it-relate-to-linguistic-diversity-in-urban-areas
 ---
 
 &nbsp;

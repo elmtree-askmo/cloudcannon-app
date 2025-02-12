@@ -2,8 +2,10 @@
 _schema: default
 id: 164037
 date: 2025-01-28
-title: What are the implications of trait impulsivity on reward-related brain activity?
-article_title: What are the implications of trait impulsivity on reward-related brain activity?
+title: >-
+    What are the implications of trait impulsivity on reward-related brain activity?
+article_title: >-
+    What are the implications of trait impulsivity on reward-related brain activity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain
 url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
 score: -1.0
 related_article1:
-    id: 164025
-    title: How do genetic risk factors and environmental triggers interact during specific developmental stages?
+    id: 164031
+    title: >-
+        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genetic-risk-factors-and-environmental-triggers-interact-during-specific-developmental-stages
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
 related_article2:
-    id: 164036
-    title: How does amygdala hyporesponsiveness affect response to negative stimuli?
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-amygdala-hyporesponsiveness-affect-response-to-negative-stimuli
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 related_article3:
-    id: 164033
-    title: How can brain data be utilized to predict antisocial behavior?
+    id: 164026
+    title: >-
+        What are the bio-psycho-social risk factors associated with conduct disorder and psychopathy in youth?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-brain-data-be-utilized-to-predict-antisocial-behavior
+    url: /learn/psychology/questions/what-are-the-biopsychosocial-risk-factors-associated-with-conduct-disorder-and-psychopathy-in-youth
 related_article4:
     id: 164038
-    title: What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
+    title: >-
+        What challenges are faced in subtyping disorders like ADHD, mood disorders, and schizophrenia?
     subject: Psychology
     url: /learn/psychology/questions/what-challenges-are-faced-in-subtyping-disorders-like-adhd-mood-disorders-and-schizophrenia
 related_article5:
-    id: 164024
-    title: What are the key differences in brain structure and function associated with abnormal neurodevelopment?
+    id: 164029
+    title: >-
+        How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
+    url: /learn/psychology/questions/how-does-dr-james-blairs-integrated-emotion-systems-model-explain-emotional-and-behavioral-outcomes
 ---
 
 &nbsp;

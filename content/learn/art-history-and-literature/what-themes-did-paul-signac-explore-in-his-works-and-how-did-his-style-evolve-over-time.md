@@ -2,8 +2,10 @@
 _schema: default
 id: 170271
 date: 2025-02-06
-title: What themes did Paul Signac explore in his works, and how did his style evolve over time?
-article_title: What themes did Paul Signac explore in his works, and how did his style evolve over time?
+title: >-
+    What themes did Paul Signac explore in his works, and how did his style evolve over time?
+article_title: >-
+    What themes did Paul Signac explore in his works, and how did his style evolve over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-themes-did-paul-signac-explore-in-his-works-and-how-did-his-styl
 url: /learn/art-history-and-literature/questions/what-themes-did-paul-signac-explore-in-his-works-and-how-did-his-style-evolve-over-time
 score: 9.0
 related_article1:
-    id: 170261
-    title: What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    id: 170262
+    title: >-
+        How did scientific techniques influence the color theory used in Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
+    url: /learn/art-history-and-literature/questions/how-did-scientific-techniques-influence-the-color-theory-used-in-neoimpressionism
 related_article2:
-    id: 170264
-    title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+    id: 170270
+    title: >-
+        How did Emile Bernard's depictions of rural life influence Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subject-matter
+    url: /learn/art-history-and-literature/questions/how-did-emile-bernards-depictions-of-rural-life-influence-neoimpressionism
 related_article3:
-    id: 170264
-    title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+    id: 170263
+    title: >-
+        In what ways did Neo-Impressionist artists use geometric composition in their works?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subject-matter
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-neoimpressionist-artists-use-geometric-composition-in-their-works
 related_article4:
-    id: 170261
-    title: What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    id: 170265
+    title: >-
+        What were the main similarities and differences between Neo-Impressionism and Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
+    url: /learn/art-history-and-literature/questions/what-were-the-main-similarities-and-differences-between-neoimpressionism-and-impressionism
 related_article5:
     id: 170261
-    title: What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    title: >-
+        What is Pointillism, and how did Georges Seurat apply this technique in his work?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 167754
 date: 2025-02-01
-title: What is the endosymbiotic theory and what evidence supports it?
-article_title: What is the endosymbiotic theory and what evidence supports it?
+title: >-
+    What is the endosymbiotic theory and what evidence supports it?
+article_title: >-
+    What is the endosymbiotic theory and what evidence supports it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-endosymbiotic-theory-and-what-evidence-supports-it.md
 url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
 score: -1.0
 related_article1:
-    id: 167753
-    title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+    id: 167748
+    title: >-
+        What are the mechanisms of speciation and can you provide examples?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
+    url: /learn/biology/questions/what-are-the-mechanisms-of-speciation-and-can-you-provide-examples
 related_article2:
-    id: 167758
-    title: How do species interactions shape community structure and what are trophic levels?
+    id: 167751
+    title: >-
+        Define macroevolution and provide examples of patterns and processes involved.
     subject: Biology
-    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
 related_article3:
-    id: 167758
-    title: How do species interactions shape community structure and what are trophic levels?
+    id: 167742
+    title: >-
+        How does natural selection operate as a mechanism of evolution?
     subject: Biology
-    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
 related_article4:
-    id: 167753
-    title: What are the major hypotheses regarding the origin of life and what conditions on early Earth supported these hypotheses?
+    id: 167757
+    title: >-
+        What factors affect population dynamics and how do growth models help in understanding these dynamics?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-major-hypotheses-regarding-the-origin-of-life-and-what-conditions-on-early-earth-supported-these-hypotheses
+    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
 related_article5:
-    id: 167765
-    title: What was the Darwinian Revolution and what were its key ideas and evidence?
+    id: 167756
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
     subject: Biology
-    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
 ---
 
 &nbsp;

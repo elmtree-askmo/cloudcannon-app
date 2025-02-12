@@ -2,8 +2,10 @@
 _schema: default
 id: 164659
 date: 2025-01-28
-title: What were some of the early observations that contributed to the development of neuropsychology?
-article_title: What were some of the early observations that contributed to the development of neuropsychology?
+title: >-
+    What were some of the early observations that contributed to the development of neuropsychology?
+article_title: >-
+    What were some of the early observations that contributed to the development of neuropsychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/what-were-some-of-the-early-observations-that-c
 score: -1.0
 related_article1:
     id: 164663
-    title: What is the significance of mapping brain functions in understanding functional specialization?
+    title: >-
+        What is the significance of mapping brain functions in understanding functional specialization?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
 related_article2:
-    id: 164665
-    title: What are the key factors in assessing behavioral changes post-injury?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
-related_article3:
     id: 164667
-    title: How does long-term monitoring help in understanding the cognitive impact of concussions?
+    title: >-
+        How does long-term monitoring help in understanding the cognitive impact of concussions?
     subject: Psychology
     url: /learn/psychology/questions/how-does-longterm-monitoring-help-in-understanding-the-cognitive-impact-of-concussions
+related_article3:
+    id: 164668
+    title: >-
+        What are the advantages of using non-invasive techniques in anatomical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
 related_article4:
-    id: 164665
-    title: What are the key factors in assessing behavioral changes post-injury?
+    id: 164668
+    title: >-
+        What are the advantages of using non-invasive techniques in anatomical imaging?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-factors-in-assessing-behavioral-changes-postinjury
+    url: /learn/psychology/questions/what-are-the-advantages-of-using-noninvasive-techniques-in-anatomical-imaging
 related_article5:
-    id: 164660
-    title: How have ethical considerations influenced research on natural brain lesions?
+    id: 164663
+    title: >-
+        What is the significance of mapping brain functions in understanding functional specialization?
     subject: Psychology
-    url: /learn/psychology/questions/how-have-ethical-considerations-influenced-research-on-natural-brain-lesions
+    url: /learn/psychology/questions/what-is-the-significance-of-mapping-brain-functions-in-understanding-functional-specialization
 ---
 
 &nbsp;

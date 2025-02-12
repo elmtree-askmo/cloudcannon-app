@@ -2,8 +2,10 @@
 _schema: default
 id: 163590
 date: 2025-01-27
-title: What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
-article_title: What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+title: >-
+    What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+article_title: >-
+    What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-regions-did-ancient-sparta-control-and-why-was-it-considered-the
 url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
 score: 9.0
 related_article1:
-    id: 163598
-    title: What was the significance of Spartan military training in Greek warfare?
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-spartan-military-training-in-greek-warfare
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
 related_article2:
-    id: 163595
-    title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
+    id: 163596
+    title: >-
+        How did the Dorian dialect influence the Greek language?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
+    url: /learn/history-of-the-world/questions/how-did-the-dorian-dialect-influence-the-greek-language
 related_article3:
-    id: 163602
-    title: How did Spartan art and architecture influence Greek art?
+    id: 163589
+    title: >-
+        How did non-Spartan authors contribute to the skewed perception of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-spartan-art-and-architecture-influence-greek-art
+    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
 related_article4:
-    id: 163594
-    title: What was the Agoge system, and what role did it play in Spartan education and training?
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
+related_article5:
+    id: 163601
+    title: >-
+        What challenges are faced in interpreting archaeological evidence from Sparta?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-are-faced-in-interpreting-archaeological-evidence-from-sparta
 ---
 
 &nbsp;

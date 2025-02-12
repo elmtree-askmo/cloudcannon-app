@@ -2,8 +2,10 @@
 _schema: default
 id: 164317
 date: 2025-01-28
-title: Why are technical controls important in ensuring safety and enhancing efficiency in projects?
-article_title: Why are technical controls important in ensuring safety and enhancing efficiency in projects?
+title: >-
+    Why are technical controls important in ensuring safety and enhancing efficiency in projects?
+article_title: >-
+    Why are technical controls important in ensuring safety and enhancing efficiency in projects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-technical-controls-important-in-ensuring-safety-and-enhancing
 url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
 score: -1.0
 related_article1:
-    id: 164330
-    title: What are the developmental stages of language acquisition, and what factors influence this process?
+    id: 164319
+    title: >-
+        What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
+    url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
 related_article2:
-    id: 164321
-    title: What are the common symptoms of attention disorders, and how are they diagnosed?
+    id: 164316
+    title: >-
+        What tools are essential for successful virtual project management, and how do they facilitate team coordination?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
+    url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
 related_article3:
     id: 164330
-    title: What are the developmental stages of language acquisition, and what factors influence this process?
+    title: >-
+        What are the developmental stages of language acquisition, and what factors influence this process?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
 related_article4:
-    id: 164325
-    title: What are the different types of seizures associated with epilepsy, and what are common triggers?
+    id: 164328
+    title: >-
+        What safety and ethical considerations must be addressed in TMS studies, particularly regarding participant selection and potential side effects?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
+    url: /learn/psychology/questions/what-safety-and-ethical-considerations-must-be-addressed-in-tms-studies-particularly-regarding-participant-selection-and-potential-side-effects
 related_article5:
-    id: 164318
-    title: How do monitoring systems and control protocols contribute to the implementation of technical controls?
+    id: 164329
+    title: >-
+        What are the components of language, and how do phonetics and syntax contribute to language structure?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-monitoring-systems-and-control-protocols-contribute-to-the-implementation-of-technical-controls
+    url: /learn/psychology/questions/what-are-the-components-of-language-and-how-do-phonetics-and-syntax-contribute-to-language-structure
 ---
 
 &nbsp;

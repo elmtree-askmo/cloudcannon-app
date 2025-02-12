@@ -2,8 +2,10 @@
 _schema: default
 id: 166095
 date: 2025-01-29
-title: What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
-article_title: What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
+title: >-
+    What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
+article_title: >-
+    What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-interactive-learning-tools-play-in-improving-exam-perfor
 url: /learn/education-studies/questions/what-role-do-interactive-learning-tools-play-in-improving-exam-performance-in-inquisitive-learning-technology
 score: -1.0
 related_article1:
-    id: 166100
-    title: What are the sources and types of contaminants that impact aquatic life and human health?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-life-and-human-health
-related_article2:
-    id: 166102
-    title: How does the use of Brightspace support communication between students and instructors?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
-related_article3:
     id: 166093
-    title: How do contaminants affect aquatic life and human health in aquatic toxicology?
+    title: >-
+        How do contaminants affect aquatic life and human health in aquatic toxicology?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-contaminants-affect-aquatic-life-and-human-health-in-aquatic-toxicology
+related_article2:
+    id: 166094
+    title: >-
+        What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-effects-of-harmful-algal-blooms-on-human-health-and-what-strategies-can-be-used-for-their-management
+related_article3:
+    id: 166097
+    title: >-
+        In what ways does Top Hat enhance student engagement and participation in class?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-does-top-hat-enhance-student-engagement-and-participation-in-class
 related_article4:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+    id: 166102
+    title: >-
+        How does the use of Brightspace support communication between students and instructors?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
 related_article5:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+    id: 166097
+    title: >-
+        In what ways does Top Hat enhance student engagement and participation in class?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/in-what-ways-does-top-hat-enhance-student-engagement-and-participation-in-class
 ---
 
 &nbsp;

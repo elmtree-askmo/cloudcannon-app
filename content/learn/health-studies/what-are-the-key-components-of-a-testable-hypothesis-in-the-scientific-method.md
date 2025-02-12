@@ -2,8 +2,10 @@
 _schema: default
 id: 168180
 date: 2025-02-02
-title: What are the key components of a testable hypothesis in the scientific method?
-article_title: What are the key components of a testable hypothesis in the scientific method?
+title: >-
+    What are the key components of a testable hypothesis in the scientific method?
+article_title: >-
+    What are the key components of a testable hypothesis in the scientific method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-components-of-a-testable-hypothesis-in-the-scientifi
 url: /learn/health-studies/questions/what-are-the-key-components-of-a-testable-hypothesis-in-the-scientific-method
 score: -1.0
 related_article1:
-    id: 168182
-    title: What distinguishes a control group from a treatment group in an experimental setup?
+    id: 168194
+    title: >-
+        Explain the levels of biological organization from atoms to molecules and their importance in biology.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-a-control-group-from-a-treatment-group-in-an-experimental-setup
+    url: /learn/health-studies/questions/explain-the-levels-of-biological-organization-from-atoms-to-molecules-and-their-importance-in-biology
 related_article2:
-    id: 168182
-    title: What distinguishes a control group from a treatment group in an experimental setup?
+    id: 168189
+    title: >-
+        What is the difference between covalent and ionic bonds in terms of electron interaction?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-a-control-group-from-a-treatment-group-in-an-experimental-setup
+    url: /learn/health-studies/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
 related_article3:
-    id: 168188
-    title: How do chemical bonds contribute to the formation and properties of compounds?
+    id: 168193
+    title: >-
+        What are isotopes, and how are they relevant in medical technology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-chemical-bonds-contribute-to-the-formation-and-properties-of-compounds
+    url: /learn/health-studies/questions/what-are-isotopes-and-how-are-they-relevant-in-medical-technology
 related_article4:
-    id: 168182
-    title: What distinguishes a control group from a treatment group in an experimental setup?
+    id: 168191
+    title: >-
+        How does the molecular structure of water contribute to its unique properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-distinguishes-a-control-group-from-a-treatment-group-in-an-experimental-setup
+    url: /learn/health-studies/questions/how-does-the-molecular-structure-of-water-contribute-to-its-unique-properties
 related_article5:
-    id: 168185
-    title: Describe the structure of an atom, including the roles of the nucleus and orbitals.
+    id: 168192
+    title: >-
+        Why are chemical formulas important in representing molecules, especially in biological contexts?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-of-an-atom-including-the-roles-of-the-nucleus-and-orbitals
+    url: /learn/health-studies/questions/why-are-chemical-formulas-important-in-representing-molecules-especially-in-biological-contexts
 ---
 
 &nbsp;

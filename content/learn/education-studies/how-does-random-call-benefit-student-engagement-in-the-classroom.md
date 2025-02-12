@@ -2,8 +2,10 @@
 _schema: default
 id: 167387
 date: 2025-01-31
-title: How does random call benefit student engagement in the classroom?
-article_title: How does random call benefit student engagement in the classroom?
+title: >-
+    How does random call benefit student engagement in the classroom?
+article_title: >-
+    How does random call benefit student engagement in the classroom?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-random-call-benefit-student-engagement-in-the-classroom.md
 url: /learn/education-studies/questions/how-does-random-call-benefit-student-engagement-in-the-classroom
 score: -1.0
 related_article1:
-    id: 167385
-    title: Define active learning and explain its importance in student engagement.
+    id: 167397
+    title: >-
+        How does student engagement affect performance and attendance tracking?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-active-learning-and-explain-its-importance-in-student-engagement
+    url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
 related_article2:
     id: 167391
-    title: What is Bloom's Taxonomy and how does it relate to learning objectives?
+    title: >-
+        What is Bloom's Taxonomy and how does it relate to learning objectives?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-blooms-taxonomy-and-how-does-it-relate-to-learning-objectives
 related_article3:
-    id: 167392
-    title: How can keyed learning objectives guide study focus and assessment alignment?
+    id: 167396
+    title: >-
+        What features of OpenStax Biology make it a valuable course resource?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-keyed-learning-objectives-guide-study-focus-and-assessment-alignment
+    url: /learn/education-studies/questions/what-features-of-openstax-biology-make-it-a-valuable-course-resource
 related_article4:
-    id: 167394
-    title: How can trends and patterns be identified in data interpretation?
+    id: 167386
+    title: >-
+        What are the benefits of using problem-solving exercises as a form of active learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-trends-and-patterns-be-identified-in-data-interpretation
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-problemsolving-exercises-as-a-form-of-active-learning
 related_article5:
-    id: 167397
-    title: How does student engagement affect performance and attendance tracking?
+    id: 167396
+    title: >-
+        What features of OpenStax Biology make it a valuable course resource?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
+    url: /learn/education-studies/questions/what-features-of-openstax-biology-make-it-a-valuable-course-resource
 ---
 
 &nbsp;

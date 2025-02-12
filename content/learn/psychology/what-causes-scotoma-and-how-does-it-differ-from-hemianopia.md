@@ -2,8 +2,10 @@
 _schema: default
 id: 164651
 date: 2025-01-28
-title: What causes scotoma and how does it differ from hemianopia?
-article_title: What causes scotoma and how does it differ from hemianopia?
+title: >-
+    What causes scotoma and how does it differ from hemianopia?
+article_title: >-
+    What causes scotoma and how does it differ from hemianopia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-causes-scotoma-and-how-does-it-differ-from-hemianopia.md
 url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
 score: -1.0
 related_article1:
-    id: 164657
-    title: What causes cortical blindness and how does it relate to the phenomenon of blindsight?
+    id: 164655
+    title: >-
+        How does the fovea contribute to the portable magnification factor?
     subject: Psychology
-    url: /learn/psychology/questions/what-causes-cortical-blindness-and-how-does-it-relate-to-the-phenomenon-of-blindsight
+    url: /learn/psychology/questions/how-does-the-fovea-contribute-to-the-portable-magnification-factor
 related_article2:
-    id: 164649
-    title: How is hemianopia related to occipital lobe disorders?
+    id: 164650
+    title: >-
+        What are the symptoms of hemianopia and how does it affect daily life?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
+    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
 related_article3:
     id: 164647
-    title: How does damage to the occipital lobe affect visual pathways?
+    title: >-
+        How does damage to the occipital lobe affect visual pathways?
     subject: Psychology
     url: /learn/psychology/questions/how-does-damage-to-the-occipital-lobe-affect-visual-pathways
 related_article4:
-    id: 164658
-    title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
-related_article5:
     id: 164648
-    title: What are the primary functions of the occipital lobe in visual processing?
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
+related_article5:
+    id: 164650
+    title: >-
+        What are the symptoms of hemianopia and how does it affect daily life?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
 ---
 
 &nbsp;

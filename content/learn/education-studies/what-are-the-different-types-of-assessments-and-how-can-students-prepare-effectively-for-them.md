@@ -2,8 +2,10 @@
 _schema: default
 id: 160590
 date: 2025-01-24
-title: What are the different types of assessments, and how can students prepare effectively for them?
-article_title: What are the different types of assessments, and how can students prepare effectively for them?
+title: >-
+    What are the different types of assessments, and how can students prepare effectively for them?
+article_title: >-
+    What are the different types of assessments, and how can students prepare effectively for them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-assessments-and-how-can-students-prep
 url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
 score: -1.0
 related_article1:
-    id: 160596
-    title: What role does educational psychology play in understanding student behavior and enhancing learning environments?
+    id: 160586
+    title: >-
+        How can students effectively communicate within the university to utilize resources and engage with faculty?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
+    url: /learn/education-studies/questions/how-can-students-effectively-communicate-within-the-university-to-utilize-resources-and-engage-with-faculty
 related_article2:
-    id: 160055
-    title: How can setting reading goals and reflecting on content improve reading comprehension?
+    id: 160336
+    title: >-
+        What strategies can be employed for effective exam preparation and stress management on exam day?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-improve-reading-comprehension
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-for-effective-exam-preparation-and-stress-management-on-exam-day
 related_article3:
-    id: 160353
-    title: What are the main learning theories, and how can they be applied to improve educational outcomes?
+    id: 160586
+    title: >-
+        How can students effectively communicate within the university to utilize resources and engage with faculty?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-improve-educational-outcomes
+    url: /learn/education-studies/questions/how-can-students-effectively-communicate-within-the-university-to-utilize-resources-and-engage-with-faculty
 related_article4:
-    id: 160067
-    title: What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
+    id: 159977
+    title: >-
+        What are the different types of assessments, and how can students prepare effectively for them?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
+related_article5:
+    id: 160285
+    title: >-
+        What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
     subject: Education Studies
     url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
-related_article5:
-    id: 160329
-    title: What are the benefits of study groups, and how do they contribute to collaborative learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-study-groups-and-how-do-they-contribute-to-collaborative-learning
 ---
 
 &nbsp;

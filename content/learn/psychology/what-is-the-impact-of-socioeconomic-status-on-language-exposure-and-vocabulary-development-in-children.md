@@ -2,8 +2,10 @@
 _schema: default
 id: 164424
 date: 2025-01-28
-title: What is the impact of socioeconomic status on language exposure and vocabulary development in children?
-article_title: What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+title: >-
+    What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+article_title: >-
+    What is the impact of socioeconomic status on language exposure and vocabulary development in children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-v
 url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
 score: -1.0
 related_article1:
-    id: 164422
-    title: What are the primary functions of the temporal lobe in language processing?
+    id: 164432
+    title: >-
+        What impact does cortisol have on memory and learning during stress?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
+    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
 related_article2:
-    id: 164425
-    title: How does stress affect cortisol levels and cognitive performance?
+    id: 164419
+    title: >-
+        How does spatial attention differ from object attention in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
 related_article3:
-    id: 164433
-    title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+    id: 164430
+    title: >-
+        How do neural pathways influence competition and inhibition in cognitive processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
+    url: /learn/psychology/questions/how-do-neural-pathways-influence-competition-and-inhibition-in-cognitive-processing
 related_article4:
-    id: 164427
-    title: What is prediction error in reward processing, and how does it relate to dopamine release?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
-related_article5:
     id: 164436
-    title: What are the cultural variations in diagnostic criteria for mental health?
+    title: >-
+        What are the cultural variations in diagnostic criteria for mental health?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
+related_article5:
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
 ---
 
 &nbsp;

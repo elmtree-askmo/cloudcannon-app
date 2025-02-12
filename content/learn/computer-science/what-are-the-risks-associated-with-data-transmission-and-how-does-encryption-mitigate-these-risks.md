@@ -2,8 +2,10 @@
 _schema: default
 id: 161693
 date: 2025-01-24
-title: What are the risks associated with data transmission, and how does encryption mitigate these risks?
-article_title: What are the risks associated with data transmission, and how does encryption mitigate these risks?
+title: >-
+    What are the risks associated with data transmission, and how does encryption mitigate these risks?
+article_title: >-
+    What are the risks associated with data transmission, and how does encryption mitigate these risks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-risks-associated-with-data-transmission-and-how-does-enc
 url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 score: -1.0
 related_article1:
-    id: 161705
-    title: Why is data analysis important, and what techniques and tools are commonly used?
+    id: 161504
+    title: >-
+        What is the purpose of data validation and how do range checks and type checks function?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-techniques-and-tools-are-commonly-used
+    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
 related_article2:
-    id: 161429
-    title: What are the main characteristics of direct data, and what are its advantages and disadvantages?
+    id: 161450
+    title: >-
+        What are the main components of an information system, and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article3:
-    id: 161688
-    title: Why is accuracy important in the quality of information, and what factors can affect it?
+    id: 161433
+    title: >-
+        What factors influence the relevance of information, and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-accuracy-important-in-the-quality-of-information-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
 related_article4:
-    id: 161510
-    title: Why is data analysis important and what are some techniques and tools used in this process?
+    id: 161435
+    title: >-
+        How does the level of detail impact the usefulness of information, and what factors determine the appropriate level of detail?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-are-some-techniques-and-tools-used-in-this-process
+    url: /learn/computer-science/questions/how-does-the-level-of-detail-impact-the-usefulness-of-information-and-what-factors-determine-the-appropriate-level-of-detail
 related_article5:
-    id: 161694
-    title: What is the difference between symmetric and asymmetric encryption?
+    id: 161691
+    title: >-
+        Why is the level of detail important in information, and what factors can affect it?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
+    url: /learn/computer-science/questions/why-is-the-level-of-detail-important-in-information-and-what-factors-can-affect-it
 ---
 
 &nbsp;

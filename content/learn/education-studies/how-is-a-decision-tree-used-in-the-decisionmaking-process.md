@@ -2,8 +2,10 @@
 _schema: default
 id: 165039
 date: 2025-01-28
-title: How is a decision tree used in the decision-making process?
-article_title: How is a decision tree used in the decision-making process?
+title: >-
+    How is a decision tree used in the decision-making process?
+article_title: >-
+    How is a decision tree used in the decision-making process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-decision-tree-used-in-the-decisionmaking-process.md
 url: /learn/education-studies/questions/how-is-a-decision-tree-used-in-the-decisionmaking-process
 score: -1.0
 related_article1:
-    id: 165053
-    title: How do MOOC platforms differ from corporate training solutions in learning platforms?
+    id: 165044
+    title: >-
+        How does Q-Learning differ from Deep Q-Networks in reinforcement learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-mooc-platforms-differ-from-corporate-training-solutions-in-learning-platforms
+    url: /learn/education-studies/questions/how-does-qlearning-differ-from-deep-qnetworks-in-reinforcement-learning
 related_article2:
-    id: 165050
-    title: How do learning management systems support educational technology?
+    id: 165027
+    title: >-
+        Name two software applications commonly used for data analysis.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-learning-management-systems-support-educational-technology
+    url: /learn/education-studies/questions/name-two-software-applications-commonly-used-for-data-analysis
 related_article3:
+    id: 165027
+    title: >-
+        Name two software applications commonly used for data analysis.
+    subject: Education Studies
+    url: /learn/education-studies/questions/name-two-software-applications-commonly-used-for-data-analysis
+related_article4:
+    id: 165049
+    title: >-
+        What is the role of metadata management in data governance?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-metadata-management-in-data-governance
+related_article5:
     id: 165042
-    title: How do interactive dashboards enhance data visualization?
+    title: >-
+        How do interactive dashboards enhance data visualization?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-interactive-dashboards-enhance-data-visualization
-related_article4:
-    id: 165038
-    title: What distinguishes rational decision-making from intuitive decision-making?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-rational-decisionmaking-from-intuitive-decisionmaking
-related_article5:
-    id: 165036
-    title: How does feedback incorporation influence character development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-feedback-incorporation-influence-character-development
 ---
 
 &nbsp;

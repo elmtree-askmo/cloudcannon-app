@@ -2,8 +2,10 @@
 _schema: default
 id: 166076
 date: 2025-01-29
-title: Describe the design and function of Gaulish chariots.
-article_title: Describe the design and function of Gaulish chariots.
+title: >-
+    Describe the design and function of Gaulish chariots.
+article_title: >-
+    Describe the design and function of Gaulish chariots.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: describe-the-design-and-function-of-gaulish-chariots.md
 url: /learn/history-of-the-world/questions/describe-the-design-and-function-of-gaulish-chariots
 score: 8.5
 related_article1:
-    id: 166087
-    title: What methods of divination were used by the Gauls, and how did they influence decision-making?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-methods-of-divination-were-used-by-the-gauls-and-how-did-they-influence-decisionmaking
-related_article2:
-    id: 166088
-    title: Explain the class structure of Gaulish society and the roles of free men and warriors.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-class-structure-of-gaulish-society-and-the-roles-of-free-men-and-warriors
-related_article3:
     id: 166082
-    title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    title: >-
+        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
+related_article2:
+    id: 166078
+    title: >-
+        Identify the main types of weapons used by the Gauls and their characteristics.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/identify-the-main-types-of-weapons-used-by-the-gauls-and-their-characteristics
+related_article3:
+    id: 166085
+    title: >-
+        What were the primary functions of Druids in Gaulish religious practices?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-primary-functions-of-druids-in-gaulish-religious-practices
 related_article4:
+    id: 166081
+    title: >-
+        Explain the significance of helmets and decorations in Gaulish battle attire.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
+related_article5:
     id: 166082
-    title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+    title: >-
+        How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 163748
 date: 2025-01-27
-title: What steps are involved in graphing a cube root function?
-article_title: What steps are involved in graphing a cube root function?
+title: >-
+    What steps are involved in graphing a cube root function?
+article_title: >-
+    What steps are involved in graphing a cube root function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-steps-are-involved-in-graphing-a-cube-root-function.md
 url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 score: -1.0
 related_article1:
-    id: 163764
-    title: What impact do coefficients have on the graphs of cube root functions?
+    id: 163751
+    title: >-
+        What are the domain and range characteristics of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
 related_article2:
-    id: 163779
-    title: How do reflections across axes transform cube root functions?
+    id: 163768
+    title: >-
+        How are cube root functions used in real-world applications?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+    url: /learn/mathematics/questions/how-are-cube-root-functions-used-in-realworld-applications
 related_article3:
     id: 163771
-    title: What is the shape and direction of a typical cube root graph?
+    title: >-
+        What is the shape and direction of a typical cube root graph?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
 related_article4:
-    id: 163758
-    title: What are the key features of cube root functions in terms of intercepts and symmetry?
+    id: 163750
+    title: >-
+        How can you identify key features on the graph of a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-features-of-cube-root-functions-in-terms-of-intercepts-and-symmetry
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-on-the-graph-of-a-cube-root-function
 related_article5:
-    id: 163780
-    title: What does it mean for a function to be continuous?
+    id: 163771
+    title: >-
+        What is the shape and direction of a typical cube root graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-does-it-mean-for-a-function-to-be-continuous
+    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
 ---
 
 &nbsp;

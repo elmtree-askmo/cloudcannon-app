@@ -2,8 +2,10 @@
 _schema: default
 id: 160792
 date: 2025-01-24
-title: How can computational knowledge be applied across various domains?
-article_title: How can computational knowledge be applied across various domains?
+title: >-
+    How can computational knowledge be applied across various domains?
+article_title: >-
+    How can computational knowledge be applied across various domains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-computational-knowledge-be-applied-across-various-domains.md
 url: /learn/computer-science/questions/how-can-computational-knowledge-be-applied-across-various-domains
 score: -1.0
 related_article1:
+    id: 160650
+    title: >-
+        How does dynamic programming differ from other advanced data structures?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-dynamic-programming-differ-from-other-advanced-data-structures
+related_article2:
+    id: 160662
+    title: >-
+        Why is the correct representation of problems crucial in problem-solving?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-the-correct-representation-of-problems-crucial-in-problemsolving
+related_article3:
     id: 160657
-    title: What role do logarithms and exponents play in complexity analysis?
+    title: >-
+        What role do logarithms and exponents play in complexity analysis?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
-related_article2:
-    id: 160667
-    title: How can computational knowledge be applied across various domains?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-computational-knowledge-be-applied-across-various-domains
-related_article3:
-    id: 160652
-    title: Why is it important to ask 'Why' when developing problem-solving skills?
+related_article4:
+    id: 160772
+    title: >-
+        Why is it important to ask 'Why' when developing problem-solving skills?
     subject: Computer Science
     url: /learn/computer-science/questions/why-is-it-important-to-ask-why-when-developing-problemsolving-skills
-related_article4:
-    id: 160656
-    title: How do Kruskal's and Prim's algorithms differ in finding minimum spanning trees?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-kruskals-and-prims-algorithms-differ-in-finding-minimum-spanning-trees
 related_article5:
-    id: 160657
-    title: What role do logarithms and exponents play in complexity analysis?
+    id: 160647
+    title: >-
+        What are the key characteristics that define an algorithm?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-that-define-an-algorithm
 ---
 
 &nbsp;

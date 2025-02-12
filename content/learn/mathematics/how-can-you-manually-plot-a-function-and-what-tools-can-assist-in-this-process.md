@@ -2,8 +2,10 @@
 _schema: default
 id: 163848
 date: 2025-01-27
-title: How can you manually plot a function, and what tools can assist in this process?
-article_title: How can you manually plot a function, and what tools can assist in this process?
+title: >-
+    How can you manually plot a function, and what tools can assist in this process?
+article_title: >-
+    How can you manually plot a function, and what tools can assist in this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-thi
 url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
 score: -1.0
 related_article1:
-    id: 163846
-    title: How can functions be used in mathematical modeling for real-world applications?
+    id: 163840
+    title: >-
+        How can you identify key features such as intercepts and intersections from a graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
 related_article2:
-    id: 163838
-    title: What are the key differences in the domain and range of exponential and cubic functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-key-differences-in-the-domain-and-range-of-exponential-and-cubic-functions
-related_article3:
     id: 163832
-    title: How can you find the minimum value of a quadratic function from its graph?
+    title: >-
+        How can you find the minimum value of a quadratic function from its graph?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
+related_article3:
+    id: 163835
+    title: >-
+        Describe the general shape of a cubic function and its standard form.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-the-general-shape-of-a-cubic-function-and-its-standard-form
 related_article4:
-    id: 163844
-    title: How do exponential functions differ from linear functions in terms of growth patterns?
+    id: 163832
+    title: >-
+        How can you find the minimum value of a quadratic function from its graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+    url: /learn/mathematics/questions/how-can-you-find-the-minimum-value-of-a-quadratic-function-from-its-graph
 related_article5:
-    id: 163844
-    title: How do exponential functions differ from linear functions in terms of growth patterns?
+    id: 163837
+    title: >-
+        How can you compare the shapes of linear and quadratic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
+    url: /learn/mathematics/questions/how-can-you-compare-the-shapes-of-linear-and-quadratic-functions
 ---
 
 &nbsp;

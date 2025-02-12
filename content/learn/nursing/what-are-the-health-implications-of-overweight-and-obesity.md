@@ -2,8 +2,10 @@
 _schema: default
 id: 169780
 date: 2025-02-05
-title: What are the health implications of overweight and obesity?
-article_title: What are the health implications of overweight and obesity?
+title: >-
+    What are the health implications of overweight and obesity?
+article_title: >-
+    What are the health implications of overweight and obesity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-health-implications-of-overweight-and-obesity.md
 url: /learn/nursing/questions/what-are-the-health-implications-of-overweight-and-obesity
 score: -1.0
 related_article1:
-    id: 169774
-    title: Identify essential minerals and their functions in the body.
+    id: 169775
+    title: >-
+        What are the nutritional benefits of including dairy in the diet?
     subject: Nursing
-    url: /learn/nursing/questions/identify-essential-minerals-and-their-functions-in-the-body
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
 related_article2:
-    id: 169773
-    title: What is the role of vitamins in body functions, and what are some common sources?
+    id: 169775
+    title: >-
+        What are the nutritional benefits of including dairy in the diet?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-vitamins-in-body-functions-and-what-are-some-common-sources
+    url: /learn/nursing/questions/what-are-the-nutritional-benefits-of-including-dairy-in-the-diet
 related_article3:
-    id: 169784
-    title: How can cultural and religious considerations impact individual dietary needs in patient care?
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-cultural-and-religious-considerations-impact-individual-dietary-needs-in-patient-care
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
 related_article4:
-    id: 169783
-    title: What are the symptoms of dehydration, and which populations are most at risk?
+    id: 169778
+    title: >-
+        How does the Body Mass Index (BMI) categorize individuals, and what are its limitations?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-of-dehydration-and-which-populations-are-most-at-risk
+    url: /learn/nursing/questions/how-does-the-body-mass-index-bmi-categorize-individuals-and-what-are-its-limitations
 related_article5:
-    id: 169779
-    title: What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
+    id: 169782
+    title: >-
+        Why is water essential for the body, and what are the main sources of hydration?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+    url: /learn/nursing/questions/why-is-water-essential-for-the-body-and-what-are-the-main-sources-of-hydration
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166160
 date: 2025-01-29
-title: How do independent and dependent variables establish cause and effect in experiments?
-article_title: How do independent and dependent variables establish cause and effect in experiments?
+title: >-
+    How do independent and dependent variables establish cause and effect in experiments?
+article_title: >-
+    How do independent and dependent variables establish cause and effect in experiments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-independent-and-dependent-variables-establish-cause-and-effect
 url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-establish-cause-and-effect-in-experiments
 score: -1.0
 related_article1:
+    id: 166157
+    title: >-
+        What are the characteristics of a good hypothesis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
+related_article2:
     id: 166166
-    title: How do models help in predicting environmental changes?
+    title: >-
+        How do models help in predicting environmental changes?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-models-help-in-predicting-environmental-changes
-related_article2:
-    id: 166153
-    title: What is the purpose of the scientific method in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
 related_article3:
     id: 166163
-    title: How does long-term ecological research contribute to understanding climate change impacts?
+    title: >-
+        How does long-term ecological research contribute to understanding climate change impacts?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-longterm-ecological-research-contribute-to-understanding-climate-change-impacts
 related_article4:
+    id: 166153
+    title: >-
+        What is the purpose of the scientific method in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-the-scientific-method-in-research
+related_article5:
     id: 166170
-    title: What are the impacts of climate change on ecosystems?
+    title: >-
+        What are the impacts of climate change on ecosystems?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-impacts-of-climate-change-on-ecosystems
-related_article5:
-    id: 166164
-    title: What are the key areas of study in environmental science?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
 ---
 
 &nbsp;

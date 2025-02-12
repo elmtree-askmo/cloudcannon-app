@@ -2,8 +2,10 @@
 _schema: default
 id: 163894
 date: 2025-01-28
-title: How did the oral tradition contribute to the transmission of Greek myths?
-article_title: How did the oral tradition contribute to the transmission of Greek myths?
+title: >-
+    How did the oral tradition contribute to the transmission of Greek myths?
+article_title: >-
+    How did the oral tradition contribute to the transmission of Greek myths?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-my
 url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
 score: 9.5
 related_article1:
-    id: 163907
-    title: How did historical events influence the development and interpretation of Greek myths over time?
+    id: 163889
+    title: >-
+        What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-historical-events-influence-the-development-and-interpretation-of-greek-myths-over-time
+    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
 related_article2:
-    id: 163895
-    title: What role did bards play in the preservation and dissemination of Greek myths?
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
 related_article3:
-    id: 163902
-    title: Provide an example of a transformation myth and explain its role in Greek mythology.
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/provide-an-example-of-a-transformation-myth-and-explain-its-role-in-greek-mythology
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article4:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article5:
-    id: 163888
-    title: Who are the major Olympian deities in Greek mythology, and what are their primary domains?
+    id: 163889
+    title: >-
+        What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-are-the-major-olympian-deities-in-greek-mythology-and-what-are-their-primary-domains
+    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
 ---
 
 &nbsp;

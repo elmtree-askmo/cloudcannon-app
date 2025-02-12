@@ -2,8 +2,10 @@
 _schema: default
 id: 170534
 date: 2025-02-06
-title: How does the cerebellum contribute to motor coordination and cognitive functions?
-article_title: How does the cerebellum contribute to motor coordination and cognitive functions?
+title: >-
+    How does the cerebellum contribute to motor coordination and cognitive functions?
+article_title: >-
+    How does the cerebellum contribute to motor coordination and cognitive functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitiv
 url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
 score: -1.0
 related_article1:
-    id: 170528
-    title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    id: 170533
+    title: >-
+        What is the genetic basis of Huntington's disease, and how is it inherited?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
 related_article2:
     id: 170543
-    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    title: >-
+        What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
 related_article3:
-    id: 170527
-    title: What were some historical approaches to treating psychosis before modern medication, and what challenges do modern treatments face?
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-some-historical-approaches-to-treating-psychosis-before-modern-medication-and-what-challenges-do-modern-treatments-face
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 related_article4:
-    id: 170533
-    title: What is the genetic basis of Huntington's disease, and how is it inherited?
+    id: 170544
+    title: >-
+        What are the major neurotransmitter pathways in the brain, and what functions do dopamine and serotonin serve?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
+    url: /learn/psychology/questions/what-are-the-major-neurotransmitter-pathways-in-the-brain-and-what-functions-do-dopamine-and-serotonin-serve
 related_article5:
-    id: 170526
-    title: How was lobotomy historically used in the treatment of psychosis, and what were its side effects?
+    id: 170532
+    title: >-
+        What are the primary symptoms of Parkinson's disease, and what treatments are available?
     subject: Psychology
-    url: /learn/psychology/questions/how-was-lobotomy-historically-used-in-the-treatment-of-psychosis-and-what-were-its-side-effects
+    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
 ---
 
 &nbsp;

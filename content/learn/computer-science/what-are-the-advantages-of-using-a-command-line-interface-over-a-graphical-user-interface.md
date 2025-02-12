@@ -2,8 +2,10 @@
 _schema: default
 id: 161678
 date: 2025-01-24
-title: What are the advantages of using a command line interface over a graphical user interface?
-article_title: What are the advantages of using a command line interface over a graphical user interface?
+title: >-
+    What are the advantages of using a command line interface over a graphical user interface?
+article_title: >-
+    What are the advantages of using a command line interface over a graphical user interface?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-a-command-line-interface-over-a-grap
 url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
 score: -1.0
 related_article1:
-    id: 161311
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161649
+    title: >-
+        What is the purpose of encryption in access control?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
 related_article2:
-    id: 161295
-    title: What does MIPS measure in mainframe performance metrics?
+    id: 161554
+    title: >-
+        What are the key characteristics of mainframe computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
 related_article3:
-    id: 161675
-    title: How does licensing differ between open source and proprietary software?
+    id: 161294
+    title: >-
+        Why is disaster recovery an essential aspect of physical security in computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-aspect-of-physical-security-in-computing
 related_article4:
-    id: 161561
-    title: What are the advantages of water cooling over air cooling in heat maintenance?
+    id: 161557
+    title: >-
+        How does encryption contribute to access control in computing security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-water-cooling-over-air-cooling-in-heat-maintenance
+    url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
 related_article5:
-    id: 161544
-    title: What are the primary functions of IBM's z/OS operating system for mainframes?
+    id: 161541
+    title: >-
+        How does memory bandwidth affect the performance of supercomputers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
+    url: /learn/computer-science/questions/how-does-memory-bandwidth-affect-the-performance-of-supercomputers
 ---
 
 &nbsp;

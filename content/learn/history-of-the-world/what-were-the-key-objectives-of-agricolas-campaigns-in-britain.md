@@ -2,8 +2,10 @@
 _schema: default
 id: 169864
 date: 2025-02-05
-title: What were the key objectives of Agricola's campaigns in Britain?
-article_title: What were the key objectives of Agricola's campaigns in Britain?
+title: >-
+    What were the key objectives of Agricola's campaigns in Britain?
+article_title: >-
+    What were the key objectives of Agricola's campaigns in Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-objectives-of-agricolas-campaigns-in-britain.md
 url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-agricolas-campaigns-in-britain
 score: 9.0
 related_article1:
-    id: 169878
-    title: What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
+    id: 169882
+    title: >-
+        How do classical sources compare the Celts with other tribes of the ancient world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal-warfare-against-the-romans
+    url: /learn/history-of-the-world/questions/how-do-classical-sources-compare-the-celts-with-other-tribes-of-the-ancient-world
 related_article2:
-    id: 169883
-    title: What influence did Greek and Roman texts have on medieval historical narratives, such as Bede's Histories?
+    id: 169880
+    title: >-
+        What were the main factors leading to the Roman withdrawal from Scotland?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-influence-did-greek-and-roman-texts-have-on-medieval-historical-narratives-such-as-bedes-histories
+    url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-roman-withdrawal-from-scotland
 related_article3:
     id: 169866
-    title: What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
+    title: >-
+        What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-primary-purpose-of-hadrians-wall-during-the-roman-occupation-of-britain
 related_article4:
-    id: 169876
-    title: In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
+    id: 169865
+    title: >-
+        How did the Battle of Mons Graupius impact Roman military strategy in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
+    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
 related_article5:
-    id: 169870
-    title: What are the key characteristics of Iron Age settlements in Scotland based on archaeological evidence?
+    id: 169866
+    title: >-
+        What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-iron-age-settlements-in-scotland-based-on-archaeological-evidence
+    url: /learn/history-of-the-world/questions/what-was-the-primary-purpose-of-hadrians-wall-during-the-roman-occupation-of-britain
 ---
 
 &nbsp;

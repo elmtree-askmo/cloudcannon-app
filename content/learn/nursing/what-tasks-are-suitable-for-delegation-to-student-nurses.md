@@ -2,8 +2,10 @@
 _schema: default
 id: 169554
 date: 2025-02-05
-title: What tasks are suitable for delegation to student nurses?
-article_title: What tasks are suitable for delegation to student nurses?
+title: >-
+    What tasks are suitable for delegation to student nurses?
+article_title: >-
+    What tasks are suitable for delegation to student nurses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-tasks-are-suitable-for-delegation-to-student-nurses.md
 url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
 score: -1.0
 related_article1:
-    id: 169566
-    title: What are some ways to build competence through experience?
+    id: 169581
+    title: >-
+        What is the importance of understanding team dynamics in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-ways-to-build-competence-through-experience
+    url: /learn/nursing/questions/what-is-the-importance-of-understanding-team-dynamics-in-healthcare
 related_article2:
-    id: 169580
-    title: How does supervision support student nurses in fulfilling their responsibilities?
+    id: 169572
+    title: >-
+        How does patient assessment contribute to ensuring patient safety?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
+    url: /learn/nursing/questions/how-does-patient-assessment-contribute-to-ensuring-patient-safety
 related_article3:
-    id: 169556
-    title: How does supervision contribute to accountability in healthcare?
+    id: 169578
+    title: >-
+        How does communication impact delegation and accountability?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-supervision-contribute-to-accountability-in-healthcare
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
 related_article4:
-    id: 169553
-    title: What is the definition of delegation in healthcare, and why is it important?
+    id: 169571
+    title: >-
+        Why is accurate patient assessment crucial for risk management?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
+    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+related_article5:
+    id: 169557
+    title: >-
+        What is the duty of care, and how does it apply to various healthcare roles?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-duty-of-care-and-how-does-it-apply-to-various-healthcare-roles
 ---
 
 &nbsp;

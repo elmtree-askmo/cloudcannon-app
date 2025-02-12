@@ -2,8 +2,10 @@
 _schema: default
 id: 166810
 date: 2025-01-31
-title: What is the chemical structure of sodium chloride and how is it formed?
-article_title: What is the chemical structure of sodium chloride and how is it formed?
+title: >-
+    What is the chemical structure of sodium chloride and how is it formed?
+article_title: >-
+    What is the chemical structure of sodium chloride and how is it formed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-forme
 url: /learn/chemistry/questions/what-is-the-chemical-structure-of-sodium-chloride-and-how-is-it-formed
 score: -1.0
 related_article1:
-    id: 166801
-    title: What is the significance of the atomic number in the periodic table?
+    id: 166805
+    title: >-
+        Explain the octet rule and its significance in chemical stability.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+    url: /learn/chemistry/questions/explain-the-octet-rule-and-its-significance-in-chemical-stability
 related_article2:
-    id: 166799
-    title: What is the role of neutrons in the atomic nucleus?
+    id: 166812
+    title: >-
+        What are the two main types of chemical bonds and how do they contribute to the formation of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
 related_article3:
-    id: 166804
-    title: What is a valence shell and why is it important in chemical bonding?
+    id: 166806
+    title: >-
+        How are ions formed in the context of ionic bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
+    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
 related_article4:
-    id: 166800
-    title: How does the atomic number relate to the number of protons in an atom?
+    id: 166808
+    title: >-
+        What is the main difference between ionic and covalent bonds in terms of electron interaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
+    url: /learn/chemistry/questions/what-is-the-main-difference-between-ionic-and-covalent-bonds-in-terms-of-electron-interaction
 related_article5:
-    id: 166801
-    title: What is the significance of the atomic number in the periodic table?
+    id: 166797
+    title: >-
+        How do molecules form from atoms?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
+    url: /learn/chemistry/questions/how-do-molecules-form-from-atoms
 ---
 
 &nbsp;

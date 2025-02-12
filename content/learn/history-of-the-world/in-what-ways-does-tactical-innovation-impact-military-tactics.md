@@ -2,8 +2,10 @@
 _schema: default
 id: 169092
 date: 2025-02-04
-title: In what ways does tactical innovation impact military tactics?
-article_title: In what ways does tactical innovation impact military tactics?
+title: >-
+    In what ways does tactical innovation impact military tactics?
+article_title: >-
+    In what ways does tactical innovation impact military tactics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-does-tactical-innovation-impact-military-tactics.md
 url: /learn/history-of-the-world/questions/in-what-ways-does-tactical-innovation-impact-military-tactics
 score: 9.0
 related_article1:
-    id: 169099
-    title: How does urban infrastructure analysis contribute to urban combat strategies?
+    id: 169084
+    title: >-
+        Explain the concept of 'walking through walls' in urban combat strategies.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/explain-the-concept-of-walking-through-walls-in-urban-combat-strategies
 related_article2:
-    id: 169099
-    title: How does urban infrastructure analysis contribute to urban combat strategies?
+    id: 169103
+    title: >-
+        How does critical theory apply to military practice in the context of ethical implications?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
 related_article3:
-    id: 169105
-    title: What role do military research institutes play in addressing institutional conflicts?
+    id: 169091
+    title: >-
+        How do swarming tactics enhance military tactics in urban environments?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-military-research-institutes-play-in-addressing-institutional-conflicts
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-enhance-military-tactics-in-urban-environments
 related_article4:
-    id: 169099
-    title: How does urban infrastructure analysis contribute to urban combat strategies?
+    id: 169095
+    title: >-
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-urban-infrastructure-analysis-contribute-to-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 related_article5:
-    id: 169085
-    title: What role does spatial reinterpretation play in urban combat strategies?
+    id: 169097
+    title: >-
+        How is theoretical language in warfare applied in contemporary military doctrine?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
+    url: /learn/history-of-the-world/questions/how-is-theoretical-language-in-warfare-applied-in-contemporary-military-doctrine
 ---
 
 &nbsp;

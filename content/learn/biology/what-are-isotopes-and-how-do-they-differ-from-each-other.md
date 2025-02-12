@@ -2,8 +2,10 @@
 _schema: default
 id: 167417
 date: 2025-01-31
-title: What are isotopes and how do they differ from each other?
-article_title: What are isotopes and how do they differ from each other?
+title: >-
+    What are isotopes and how do they differ from each other?
+article_title: >-
+    What are isotopes and how do they differ from each other?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-isotopes-and-how-do-they-differ-from-each-other.md
 url: /learn/biology/questions/what-are-isotopes-and-how-do-they-differ-from-each-other
 score: -1.0
 related_article1:
+    id: 167401
+    title: >-
+        What is the role of the nucleus in an atom?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-nucleus-in-an-atom
+related_article2:
+    id: 167416
+    title: >-
+        Define atoms and describe their basic structure.
+    subject: Biology
+    url: /learn/biology/questions/define-atoms-and-describe-their-basic-structure
+related_article3:
     id: 167407
-    title: What are the unique properties of carbon that make it versatile in forming compounds?
+    title: >-
+        What are the unique properties of carbon that make it versatile in forming compounds?
     subject: Biology
     url: /learn/biology/questions/what-are-the-unique-properties-of-carbon-that-make-it-versatile-in-forming-compounds
-related_article2:
-    id: 167411
-    title: What is the role of the carbonyl group in biological molecules?
+related_article4:
+    id: 167398
+    title: >-
+        What is the definition of matter and how does it differ from elements?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-carbonyl-group-in-biological-molecules
-related_article3:
+    url: /learn/biology/questions/what-is-the-definition-of-matter-and-how-does-it-differ-from-elements
+related_article5:
     id: 167409
-    title: What is the structure and function of the amino group in biological molecules?
+    title: >-
+        What is the structure and function of the amino group in biological molecules?
     subject: Biology
     url: /learn/biology/questions/what-is-the-structure-and-function-of-the-amino-group-in-biological-molecules
-related_article4:
-    id: 167418
-    title: Explain the difference between cations and anions.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-difference-between-cations-and-anions
-related_article5:
-    id: 167405
-    title: How do ionic bonds form and what are cations and anions?
-    subject: Biology
-    url: /learn/biology/questions/how-do-ionic-bonds-form-and-what-are-cations-and-anions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162154
 date: 2025-01-25
-title: What is rigid motion and how does it relate to transformations?
-article_title: What is rigid motion and how does it relate to transformations?
+title: >-
+    What is rigid motion and how does it relate to transformations?
+article_title: >-
+    What is rigid motion and how does it relate to transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-rigid-motion-and-how-does-it-relate-to-transformations.md
 url: /learn/mathematics/questions/what-is-rigid-motion-and-how-does-it-relate-to-transformations
 score: -1.0
 related_article1:
-    id: 162160
-    title: How is the distance from a line measured in the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-distance-from-a-line-measured-in-the-coordinate-plane
-related_article2:
     id: 162161
-    title: What are the properties of line segments in geometric figures?
+    title: >-
+        What are the properties of line segments in geometric figures?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-properties-of-line-segments-in-geometric-figures
+related_article2:
+    id: 162142
+    title: >-
+        What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
 related_article3:
-    id: 162310
-    title: What changes occur in the coordinates of a point when it is reflected?
+    id: 162158
+    title: >-
+        What are the roles of the x-axis and y-axis in the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-changes-occur-in-the-coordinates-of-a-point-when-it-is-reflected
+    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
 related_article4:
-    id: 162298
-    title: How can transformations be visualized using the coordinate plane?
+    id: 162311
+    title: >-
+        How can graphs be used to visualize transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+    url: /learn/mathematics/questions/how-can-graphs-be-used-to-visualize-transformations
 related_article5:
-    id: 162300
-    title: How does translating a line segment affect its endpoints?
+    id: 162152
+    title: >-
+        How does reflecting a point across the x-axis affect its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164916
 date: 2025-01-28
-title: How is cognitive load measured, and what are its implications for learning and task performance?
-article_title: How is cognitive load measured, and what are its implications for learning and task performance?
+title: >-
+    How is cognitive load measured, and what are its implications for learning and task performance?
+article_title: >-
+    How is cognitive load measured, and what are its implications for learning and task performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-is-cognitive-load-measured-and-what-are-its-implications-for-lear
 url: /learn/psychology/questions/how-is-cognitive-load-measured-and-what-are-its-implications-for-learning-and-task-performance
 score: -1.0
 related_article1:
-    id: 164915
-    title: What is reversal learning, and which brain regions and neurotransmitter systems are involved?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-reversal-learning-and-which-brain-regions-and-neurotransmitter-systems-are-involved
-related_article2:
-    id: 164905
-    title: How does metacognition contribute to effective learning strategies and problem solving?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
-related_article3:
     id: 164919
-    title: What are the major cognitive theories, and how are they applied in education and artificial intelligence?
+    title: >-
+        What are the major cognitive theories, and how are they applied in education and artificial intelligence?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-major-cognitive-theories-and-how-are-they-applied-in-education-and-artificial-intelligence
-related_article4:
-    id: 164912
-    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
+related_article2:
+    id: 164902
+    title: >-
+        Explain the difference between top-down and bottom-up processing with examples.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
+    url: /learn/psychology/questions/explain-the-difference-between-topdown-and-bottomup-processing-with-examples
+related_article3:
+    id: 164906
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
+related_article4:
+    id: 164917
+    title: >-
+        What are the cognitive processes involved in task switching, and what are the associated costs?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
+related_article5:
+    id: 164909
+    title: >-
+        Compare Piaget’s and Vygotsky’s theories of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-piagets-and-vygotskys-theories-of-cognitive-development
 ---
 
 &nbsp;

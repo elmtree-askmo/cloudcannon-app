@@ -2,8 +2,10 @@
 _schema: default
 id: 164542
 date: 2025-01-28
-title: How are memory and learning affected by neurological disorders?
-article_title: How are memory and learning affected by neurological disorders?
+title: >-
+    How are memory and learning affected by neurological disorders?
+article_title: >-
+    How are memory and learning affected by neurological disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-memory-and-learning-affected-by-neurological-disorders.md
 url: /learn/psychology/questions/how-are-memory-and-learning-affected-by-neurological-disorders
 score: -1.0
 related_article1:
-    id: 164535
-    title: What are the cognitive benefits of physical exercise, and how does it affect neuroplasticity?
+    id: 164527
+    title: >-
+        What is the significance of the cingulate cortex in emotion monitoring?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-benefits-of-physical-exercise-and-how-does-it-affect-neuroplasticity
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
 related_article2:
-    id: 164533
-    title: What have neuroimaging studies revealed about the correlation between physical and social pain?
+    id: 164540
+    title: >-
+        How do neurotransmitter systems influence emotion regulation and cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-have-neuroimaging-studies-revealed-about-the-correlation-between-physical-and-social-pain
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
 related_article3:
-    id: 164529
-    title: What is the relationship between arousal and valence in emotional classification?
+    id: 164527
+    title: >-
+        What is the significance of the cingulate cortex in emotion monitoring?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
+    url: /learn/psychology/questions/what-is-the-significance-of-the-cingulate-cortex-in-emotion-monitoring
 related_article4:
-    id: 164538
-    title: How do executive functions like cognitive control and flexibility contribute to effective decision-making?
+    id: 164540
+    title: >-
+        How do neurotransmitter systems influence emotion regulation and cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-executive-functions-like-cognitive-control-and-flexibility-contribute-to-effective-decisionmaking
+    url: /learn/psychology/questions/how-do-neurotransmitter-systems-influence-emotion-regulation-and-cognitive-functions
 related_article5:
-    id: 164529
-    title: What is the relationship between arousal and valence in emotional classification?
+    id: 164530
+    title: >-
+        How do approach and withdrawal emotions differ in terms of brain activation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-relationship-between-arousal-and-valence-in-emotional-classification
+    url: /learn/psychology/questions/how-do-approach-and-withdrawal-emotions-differ-in-terms-of-brain-activation
 ---
 
 &nbsp;

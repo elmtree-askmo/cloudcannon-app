@@ -2,8 +2,10 @@
 _schema: default
 id: 167545
 date: 2025-01-31
-title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
-article_title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+title: >-
+    What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+article_title: >-
+    What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-
 url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
 score: -1.0
 related_article1:
-    id: 167548
-    title: What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    id: 167538
+    title: >-
+        What is simple diffusion and how does it occur in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
 related_article2:
-    id: 167553
-    title: What are the structural and functional roles of integral membrane proteins in transport and signaling?
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-and-functional-roles-of-integral-membrane-proteins-in-transport-and-signaling
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
 related_article3:
-    id: 167544
-    title: Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
     subject: Biology
-    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
 related_article4:
-    id: 167548
-    title: What is the role of cholesterol in maintaining membrane fluidity and how does it adapt to temperature changes?
+    id: 167539
+    title: >-
+        What factors can affect the rate of simple diffusion across a membrane?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-cholesterol-in-maintaining-membrane-fluidity-and-how-does-it-adapt-to-temperature-changes
+    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
 related_article5:
-    id: 167550
-    title: How do nonpolar molecules permeate the cell membrane, and what factors affect their permeability?
+    id: 167542
+    title: >-
+        Explain the formation and structure of phospholipid bilayers and their role in cell membranes.
     subject: Biology
-    url: /learn/biology/questions/how-do-nonpolar-molecules-permeate-the-cell-membrane-and-what-factors-affect-their-permeability
+    url: /learn/biology/questions/explain-the-formation-and-structure-of-phospholipid-bilayers-and-their-role-in-cell-membranes
 ---
 
 &nbsp;

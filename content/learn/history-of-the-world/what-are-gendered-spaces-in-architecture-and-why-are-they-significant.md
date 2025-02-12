@@ -2,8 +2,10 @@
 _schema: default
 id: 169006
 date: 2025-02-04
-title: What are gendered spaces in architecture, and why are they significant?
-article_title: What are gendered spaces in architecture, and why are they significant?
+title: >-
+    What are gendered spaces in architecture, and why are they significant?
+article_title: >-
+    What are gendered spaces in architecture, and why are they significant?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-gendered-spaces-in-architecture-and-why-are-they-significant
 url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
 score: 9.0
 related_article1:
-    id: 169007
-    title: How is architecture strategically used in different contexts?
+    id: 169000
+    title: >-
+        What are the key elements that define traditional architectural history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
+    url: /learn/history-of-the-world/questions/what-are-the-key-elements-that-define-traditional-architectural-history
 related_article2:
-    id: 169021
-    title: What role do cultural understandings play in architectural spaces?
+    id: 169002
+    title: >-
+        What role does spatial analysis play in understanding the untold stories of architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-do-cultural-understandings-play-in-architectural-spaces
+    url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
 related_article3:
-    id: 169010
-    title: How do gendered constructs influence societal understandings of space?
+    id: 169009
+    title: >-
+        What actions did women take during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-gendered-constructs-influence-societal-understandings-of-space
+    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
 related_article4:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 related_article5:
-    id: 169005
-    title: How can cross-reading architecture and history provide new insights?
+    id: 169018
+    title: >-
+        What contributions did Carmen Serdan make to the revolutionary movement?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
+    url: /learn/history-of-the-world/questions/what-contributions-did-carmen-serdan-make-to-the-revolutionary-movement
 ---
 
 &nbsp;

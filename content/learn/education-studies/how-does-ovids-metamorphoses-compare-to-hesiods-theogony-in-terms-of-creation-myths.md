@@ -2,8 +2,10 @@
 _schema: default
 id: 167652
 date: 2025-01-31
-title: How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
-article_title: How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
+title: >-
+    How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
+article_title: >-
+    How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-
 url: /learn/education-studies/questions/how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-creation-myths
 score: -1.0
 related_article1:
-    id: 167657
-    title: How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
-related_article2:
-    id: 167660
-    title: What are the key contributions of Hesiod and Ovid to ancient Greek literature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-contributions-of-hesiod-and-ovid-to-ancient-greek-literature
-related_article3:
     id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
+    title: >-
+        What is the role of Prometheus in the creation of humans according to Greek mythology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
+related_article2:
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
+related_article3:
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
 related_article4:
-    id: 167655
-    title: How do themes of power and generation manifest in Greek myths?
+    id: 167657
+    title: >-
+        How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
+    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
 related_article5:
-    id: 167655
-    title: How do themes of power and generation manifest in Greek myths?
+    id: 167653
+    title: >-
+        Who are the key divine couples in Greek mythology, and what roles do they play?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
+    url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166034
 date: 2025-01-29
-title: What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
-article_title: What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
+title: >-
+    What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
+article_title: >-
+    What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-civic-responsibilities-of-athenian-citizens-particularl
 url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
 score: 9.0
 related_article1:
-    id: 166025
-    title: How did Solon's reforms impact the socioeconomic classes in Athens?
+    id: 166031
+    title: >-
+        How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
+    url: /learn/history-of-the-world/questions/how-did-pseudoaristotle-contribute-to-our-understanding-of-the-athenian-constitution
 related_article2:
-    id: 166029
-    title: What were the defining characteristics of oligarchic factions in ancient Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
-related_article3:
     id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+    title: >-
+        What role does archaeological evidence play in understanding ancient Athenian political structures?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+related_article3:
+    id: 166027
+    title: >-
+        What were the main characteristics of the mythical kingship and aristocracy in Athens' historical context?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-mythical-kingship-and-aristocracy-in-athens-historical-context
 related_article4:
-    id: 166028
-    title: How did the reforms of Ephialtes contribute to the development of radical democracy in Athens?
+    id: 166026
+    title: >-
+        What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-reforms-of-ephialtes-contribute-to-the-development-of-radical-democracy-in-athens
+    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
 related_article5:
-    id: 166038
-    title: What significant discoveries have been made through excavations of the Classical Acropolis?
+    id: 166023
+    title: >-
+        Who were the Archons, and what was their function in Athenian political institutions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-significant-discoveries-have-been-made-through-excavations-of-the-classical-acropolis
+    url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
 ---
 
 &nbsp;

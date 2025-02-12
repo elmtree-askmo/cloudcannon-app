@@ -2,8 +2,10 @@
 _schema: default
 id: 160214
 date: 2025-01-23
-title: What are the physical and human systems that define geographic settings in regional disparities?
-article_title: What are the physical and human systems that define geographic settings in regional disparities?
+title: >-
+    What are the physical and human systems that define geographic settings in regional disparities?
+article_title: >-
+    What are the physical and human systems that define geographic settings in regional disparities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-physical-and-human-systems-that-define-geographic-settin
 url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-define-geographic-settings-in-regional-disparities
 score: -1.0
 related_article1:
-    id: 160507
-    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    id: 160097
+    title: >-
+        What is the role of political geography in understanding borders and boundaries within territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+    url: /learn/sociology/questions/what-is-the-role-of-political-geography-in-understanding-borders-and-boundaries-within-territoriality
 related_article2:
-    id: 160548
-    title: What strategies do states employ to maintain territorial control and sovereignty?
+    id: 160626
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 related_article3:
-    id: 160553
-    title: What are the main factors contributing to social inequality within social structures?
+    id: 160638
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article4:
-    id: 160103
-    title: What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
+    id: 160565
+    title: >-
+        How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
+    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 related_article5:
-    id: 160079
-    title: What are the main factors contributing to regional disparities in terms of inequality and prosperity?
+    id: 160639
+    title: >-
+        Explain the concept of time-space compression and its impact on global connectivity.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
 ---
 
 &nbsp;

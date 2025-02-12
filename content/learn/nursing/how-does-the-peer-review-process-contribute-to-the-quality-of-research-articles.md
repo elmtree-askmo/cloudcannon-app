@@ -2,8 +2,10 @@
 _schema: default
 id: 167854
 date: 2025-02-01
-title: How does the peer review process contribute to the quality of research articles?
-article_title: How does the peer review process contribute to the quality of research articles?
+title: >-
+    How does the peer review process contribute to the quality of research articles?
+article_title: >-
+    How does the peer review process contribute to the quality of research articles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the
 score: -1.0
 related_article1:
     id: 167853
-    title: What are the key sources for finding recent research articles on genetic diseases?
+    title: >-
+        What are the key sources for finding recent research articles on genetic diseases?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
 related_article2:
-    id: 167861
-    title: How does chromosomal crossover contribute to genetic diversity?
+    id: 167857
+    title: >-
+        What are the main differences between mitosis and meiosis?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
+    url: /learn/nursing/questions/what-are-the-main-differences-between-mitosis-and-meiosis
 related_article3:
-    id: 167858
-    title: How does meiosis contribute to genetic variation?
+    id: 167865
+    title: >-
+        Why is accurate DNA replication crucial for genetic stability?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
+    url: /learn/nursing/questions/why-is-accurate-dna-replication-crucial-for-genetic-stability
 related_article4:
-    id: 167860
-    title: What is the role of homologous chromosomes during meiosis?
+    id: 167866
+    title: >-
+        How do alleles contribute to genetic variation within a population?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
+    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
 related_article5:
-    id: 167858
-    title: How does meiosis contribute to genetic variation?
+    id: 167862
+    title: >-
+        What are the stages of spermatogenesis and their outcomes?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
+    url: /learn/nursing/questions/what-are-the-stages-of-spermatogenesis-and-their-outcomes
 ---
 
 &nbsp;

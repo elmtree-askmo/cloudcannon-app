@@ -2,8 +2,10 @@
 _schema: default
 id: 167095
 date: 2025-01-31
-title: What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
-article_title: What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
+title: >-
+    What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
+article_title: >-
+    What are the structural differences between monosaccharides, disaccharides, and polysaccharides?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-structural-differences-between-monosaccharides-disacchar
 url: /learn/health-studies/questions/what-are-the-structural-differences-between-monosaccharides-disaccharides-and-polysaccharides
 score: -1.0
 related_article1:
-    id: 167109
-    title: What are the main types of enzymes and their functions?
+    id: 167110
+    title: >-
+        Why is energy storage crucial for cellular metabolism and homeostasis?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-enzymes-and-their-functions
+    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
 related_article2:
     id: 167111
-    title: What types of molecules provide structural support in cells?
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
     url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 related_article3:
-    id: 167110
-    title: Why is energy storage crucial for cellular metabolism and homeostasis?
+    id: 167103
+    title: >-
+        How do functional groups influence the chemical properties of molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
+    url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
 related_article4:
-    id: 167106
-    title: What roles do enzymes play in catalysis and reaction facilitation?
+    id: 167087
+    title: >-
+        What are the main roles of biological molecules in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
+    url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
 related_article5:
-    id: 167092
-    title: Why is carbon essential in the formation of organic molecules?
+    id: 167102
+    title: >-
+        What are the structural and functional differences between starch, glycogen, and cellulose?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
+    url: /learn/health-studies/questions/what-are-the-structural-and-functional-differences-between-starch-glycogen-and-cellulose
 ---
 
 &nbsp;

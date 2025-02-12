@@ -2,8 +2,10 @@
 _schema: default
 id: 167390
 date: 2025-01-31
-title: How do concept maps enhance retention of information?
-article_title: How do concept maps enhance retention of information?
+title: >-
+    How do concept maps enhance retention of information?
+article_title: >-
+    How do concept maps enhance retention of information?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-concept-maps-enhance-retention-of-information.md
 url: /learn/education-studies/questions/how-do-concept-maps-enhance-retention-of-information
 score: -1.0
 related_article1:
+    id: 167385
+    title: >-
+        Define active learning and explain its importance in student engagement.
+    subject: Education Studies
+    url: /learn/education-studies/questions/define-active-learning-and-explain-its-importance-in-student-engagement
+related_article2:
     id: 167388
-    title: What is the purpose of formative assessments in the learning process?
+    title: >-
+        What is the purpose of formative assessments in the learning process?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-purpose-of-formative-assessments-in-the-learning-process
-related_article2:
-    id: 167383
-    title: What are the key components of pre-class preparation in the course structure?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-preclass-preparation-in-the-course-structure
 related_article3:
-    id: 167387
-    title: How does random call benefit student engagement in the classroom?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-random-call-benefit-student-engagement-in-the-classroom
-related_article4:
     id: 167384
-    title: How does group work contribute to class engagement?
+    title: >-
+        How does group work contribute to class engagement?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-group-work-contribute-to-class-engagement
-related_article5:
-    id: 167397
-    title: How does student engagement affect performance and attendance tracking?
+related_article4:
+    id: 167389
+    title: >-
+        Explain the structure of a concept map and its role in organizing information.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
+    url: /learn/education-studies/questions/explain-the-structure-of-a-concept-map-and-its-role-in-organizing-information
+related_article5:
+    id: 167384
+    title: >-
+        How does group work contribute to class engagement?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-group-work-contribute-to-class-engagement
 ---
 
 &nbsp;

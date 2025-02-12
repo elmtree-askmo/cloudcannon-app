@@ -2,8 +2,10 @@
 _schema: default
 id: 168593
 date: 2025-02-03
-title: Explain the difference between local and global scope in Python.
-article_title: Explain the difference between local and global scope in Python.
+title: >-
+    Explain the difference between local and global scope in Python.
+article_title: >-
+    Explain the difference between local and global scope in Python.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-difference-between-local-and-global-scope-in-python.md
 url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 score: -1.0
 related_article1:
-    id: 168608
-    title: What is encapsulation in object-oriented programming?
+    id: 168599
+    title: >-
+        How can you provide default values for function parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
+    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
 related_article2:
-    id: 168600
-    title: What is a function docstring and why is it important?
+    id: 168599
+    title: >-
+        How can you provide default values for function parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
+    url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
 related_article3:
-    id: 168607
-    title: What is modular programming and how does it enhance reusability?
+    id: 168591
+    title: >-
+        Name two common functions available in Python's math module.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
+    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
 related_article4:
-    id: 168600
-    title: What is a function docstring and why is it important?
+    id: 168604
+    title: >-
+        What are some best practices for writing Python functions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
+    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
 related_article5:
-    id: 168594
-    title: What is the effect of defining a variable inside a function in terms of scope?
+    id: 168589
+    title: >-
+        What is the syntax for defining a function in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 ---
 
 &nbsp;

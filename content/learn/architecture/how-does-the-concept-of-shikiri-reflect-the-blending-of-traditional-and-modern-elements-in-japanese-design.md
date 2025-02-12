@@ -2,8 +2,10 @@
 _schema: default
 id: 169408
 date: 2025-02-05
-title: How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
-article_title: How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+title: >-
+    How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+article_title: >-
+    How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-a
 url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
 score: -1.0
 related_article1:
+    id: 169399
+    title: >-
+        What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
+related_article2:
+    id: 169400
+    title: >-
+        How does color integration enhance community engagement in architectural design?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
+related_article3:
+    id: 169399
+    title: >-
+        What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
+related_article4:
     id: 169409
-    title: What are some innovations in modern architectural design that have emerged recently?
+    title: >-
+        What are some innovations in modern architectural design that have emerged recently?
     subject: Architecture
     url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
-related_article2:
-    id: 169404
-    title: How can the integration of interior and exterior spaces create depth and layers in architectural design?
-    subject: Architecture
-    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
-related_article3:
-    id: 169417
-    title: How have regional design projects in Japan influenced international design trends?
-    subject: Architecture
-    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
-related_article4:
-    id: 169401
-    title: In what ways can architectural design contribute to corporate identity and branding?
-    subject: Architecture
-    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 related_article5:
-    id: 169412
-    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    id: 169407
+    title: >-
+        What are the key influences of traditional Japanese design on modern architecture?
     subject: Architecture
-    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
 ---
 
 &nbsp;

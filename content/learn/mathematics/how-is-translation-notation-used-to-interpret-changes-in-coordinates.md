@@ -2,8 +2,10 @@
 _schema: default
 id: 162328
 date: 2025-01-25
-title: How is translation notation used to interpret changes in coordinates?
-article_title: How is translation notation used to interpret changes in coordinates?
+title: >-
+    How is translation notation used to interpret changes in coordinates?
+article_title: >-
+    How is translation notation used to interpret changes in coordinates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-translation-notation-used-to-interpret-changes-in-coordinates.
 url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
 score: -1.0
 related_article1:
-    id: 162227
-    title: What is the standard notation for translation in transformations?
+    id: 162320
+    title: >-
+        What is the significance of the order of operations in a sequence of transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+    url: /learn/mathematics/questions/what-is-the-significance-of-the-order-of-operations-in-a-sequence-of-transformations
 related_article2:
-    id: 162331
-    title: Why is identifying vertices important in transformations?
+    id: 162228
+    title: >-
+        How do you interpret changes in coordinates when a figure is translated?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 related_article3:
-    id: 162216
-    title: What are the criteria for two figures to be considered congruent?
+    id: 162230
+    title: >-
+        How do you identify the vertices of a geometric figure?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-identify-the-vertices-of-a-geometric-figure
+related_article4:
+    id: 162312
+    title: >-
+        What are the criteria for two figures to be considered congruent?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-criteria-for-two-figures-to-be-considered-congruent
-related_article4:
-    id: 162322
-    title: How do you plot a point on the coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
 related_article5:
-    id: 162326
-    title: How can transformations impact the orientation of a geometric figure?
+    id: 162315
+    title: >-
+        How do rigid transformations affect the orientation of a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-transformations-impact-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/how-do-rigid-transformations-affect-the-orientation-of-a-figure
 ---
 
 &nbsp;

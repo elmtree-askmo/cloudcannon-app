@@ -2,8 +2,10 @@
 _schema: default
 id: 168072
 date: 2025-02-02
-title: How does language acquisition affect the development of personal memories in young children?
-article_title: How does language acquisition affect the development of personal memories in young children?
+title: >-
+    How does language acquisition affect the development of personal memories in young children?
+article_title: >-
+    How does language acquisition affect the development of personal memories in young children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-language-acquisition-affect-the-development-of-personal-memo
 url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
 score: -1.0
 related_article1:
-    id: 168068
-    title: How does peak circadian arousal differ between older and younger adults in terms of memory performance?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-peak-circadian-arousal-differ-between-older-and-younger-adults-in-terms-of-memory-performance
-related_article2:
-    id: 168073
-    title: What role does the development of a sense of self play in the formation of personal memories?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
-related_article3:
     id: 168064
-    title: How do life transitions contribute to identity formation during the reminiscence bump?
+    title: >-
+        How do life transitions contribute to identity formation during the reminiscence bump?
     subject: Psychology
     url: /learn/psychology/questions/how-do-life-transitions-contribute-to-identity-formation-during-the-reminiscence-bump
+related_article2:
+    id: 168062
+    title: >-
+        How does language development influence memory encoding in young children?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
+related_article3:
+    id: 168073
+    title: >-
+        What role does the development of a sense of self play in the formation of personal memories?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
 related_article4:
-    id: 168069
-    title: What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
+    id: 168073
+    title: >-
+        What role does the development of a sense of self play in the formation of personal memories?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
+    url: /learn/psychology/questions/what-role-does-the-development-of-a-sense-of-self-play-in-the-formation-of-personal-memories
 related_article5:
-    id: 168066
-    title: How do circadian rhythms affect problem-solving task performance in older versus younger adults?
+    id: 168067
+    title: >-
+        What is the synchrony effect and how does it relate to age-related circadian differences?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-circadian-rhythms-affect-problemsolving-task-performance-in-older-versus-younger-adults
+    url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 ---
 
 &nbsp;

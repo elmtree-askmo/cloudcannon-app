@@ -2,8 +2,10 @@
 _schema: default
 id: 166010
 date: 2025-01-29
-title: How have myths influenced modern art and literature?
-article_title: How have myths influenced modern art and literature?
+title: >-
+    How have myths influenced modern art and literature?
+article_title: >-
+    How have myths influenced modern art and literature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-have-myths-influenced-modern-art-and-literature.md
 url: /learn/education-studies/questions/how-have-myths-influenced-modern-art-and-literature
 score: -1.0
 related_article1:
-    id: 166013
-    title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+    id: 166001
+    title: >-
+        What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
 related_article2:
-    id: 166009
-    title: In what ways did the Renaissance influence the reception of classical myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-did-the-renaissance-influence-the-reception-of-classical-myths
-related_article3:
     id: 166011
-    title: What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
+    title: >-
+        What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
+related_article3:
+    id: 166004
+    title: >-
+        How does vase painting contribute to our understanding of ancient iconography?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-vase-painting-contribute-to-our-understanding-of-ancient-iconography
 related_article4:
-    id: 166016
-    title: What were the key factors in the expansion and influence of the Roman Empire?
+    id: 166001
+    title: >-
+        What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-factors-in-the-expansion-and-influence-of-the-roman-empire
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
 related_article5:
-    id: 166015
-    title: How did the city-states and the Olympic Games shape Greek civilization?
+    id: 166011
+    title: >-
+        What role do sacrificial practices and the pantheon of gods play in ancient religious beliefs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-citystates-and-the-olympic-games-shape-greek-civilization
+    url: /learn/education-studies/questions/what-role-do-sacrificial-practices-and-the-pantheon-of-gods-play-in-ancient-religious-beliefs
 ---
 
 &nbsp;

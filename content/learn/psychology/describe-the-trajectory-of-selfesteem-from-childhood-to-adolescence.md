@@ -2,8 +2,10 @@
 _schema: default
 id: 168124
 date: 2025-02-02
-title: Describe the trajectory of self-esteem from childhood to adolescence.
-article_title: Describe the trajectory of self-esteem from childhood to adolescence.
+title: >-
+    Describe the trajectory of self-esteem from childhood to adolescence.
+article_title: >-
+    Describe the trajectory of self-esteem from childhood to adolescence.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence.m
 url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
 score: -1.0
 related_article1:
-    id: 168111
-    title: What strategies are commonly used in mathematical problem-solving, and how do they differ by gender?
+    id: 168128
+    title: >-
+        What are the common developmental problems associated with autism spectrum disorder?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-are-commonly-used-in-mathematical-problemsolving-and-how-do-they-differ-by-gender
+    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
 related_article2:
-    id: 168121
-    title: How do cultural and methodological influences affect relational aggression?
+    id: 168118
+    title: >-
+        What patterns of physical aggression are typically observed in early childhood?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
+    url: /learn/psychology/questions/what-patterns-of-physical-aggression-are-typically-observed-in-early-childhood
 related_article3:
-    id: 168125
-    title: What changes in self-esteem are observed during adulthood?
+    id: 168119
+    title: >-
+        How do gender differences manifest in physical aggression?
     subject: Psychology
-    url: /learn/psychology/questions/what-changes-in-selfesteem-are-observed-during-adulthood
+    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
 related_article4:
-    id: 168129
-    title: How does attention deficit/hyperactivity disorder present differently in males and females?
+    id: 168126
+    title: >-
+        What are the gender differences in prenatal and perinatal vulnerability?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-attention-deficithyperactivity-disorder-present-differently-in-males-and-females
+    url: /learn/psychology/questions/what-are-the-gender-differences-in-prenatal-and-perinatal-vulnerability
 related_article5:
-    id: 168137
-    title: How do gender-based interests influence career choices?
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165797
 date: 2025-01-29
-title: How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
-article_title: How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
+title: >-
+    How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
+article_title: >-
+    How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-a-host-determine-whether-to-send-a-packet-to-a-local-or-remo
 url: /learn/computer-science/questions/how-does-a-host-determine-whether-to-send-a-packet-to-a-local-or-remote-host-and-what-role-does-the-default-gateway-play-in-this-process
 score: -1.0
 related_article1:
-    id: 165799
-    title: What are the main differences between static and dynamic routing, and how do they impact network management?
+    id: 165803
+    title: >-
+        What are the potential issues associated with ARP broadcasting, and how can ARP spoofing attacks be mitigated?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-differences-between-static-and-dynamic-routing-and-how-do-they-impact-network-management
+    url: /learn/computer-science/questions/what-are-the-potential-issues-associated-with-arp-broadcasting-and-how-can-arp-spoofing-attacks-be-mitigated
 related_article2:
-    id: 165800
-    title: How do MAC and IP addresses work together to facilitate communication within and between networks?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mac-and-ip-addresses-work-together-to-facilitate-communication-within-and-between-networks
-related_article3:
     id: 165789
-    title: What are the basic operations of the network layer, and how do they contribute to data transmission?
+    title: >-
+        What are the basic operations of the network layer, and how do they contribute to data transmission?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-basic-operations-of-the-network-layer-and-how-do-they-contribute-to-data-transmission
-related_article4:
+related_article3:
     id: 165793
-    title: Describe the key fields in the IPv4 packet header and their functions.
+    title: >-
+        Describe the key fields in the IPv4 packet header and their functions.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-key-fields-in-the-ipv4-packet-header-and-their-functions
-related_article5:
-    id: 165792
-    title: What is the significance of the Maximum Transmission Unit (MTU) in media independence, and how does fragmentation address MTU limitations?
+related_article4:
+    id: 165799
+    title: >-
+        What are the main differences between static and dynamic routing, and how do they impact network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-maximum-transmission-unit-mtu-in-media-independence-and-how-does-fragmentation-address-mtu-limitations
+    url: /learn/computer-science/questions/what-are-the-main-differences-between-static-and-dynamic-routing-and-how-do-they-impact-network-management
 ---
 
 &nbsp;

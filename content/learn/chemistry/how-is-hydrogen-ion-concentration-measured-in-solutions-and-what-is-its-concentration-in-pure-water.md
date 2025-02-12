@@ -2,8 +2,10 @@
 _schema: default
 id: 167623
 date: 2025-01-31
-title: How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
-article_title: How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+title: >-
+    How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
+article_title: >-
+    How is hydrogen ion concentration measured in solutions, and what is its concentration in pure water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-i
 url: /learn/chemistry/questions/how-is-hydrogen-ion-concentration-measured-in-solutions-and-what-is-its-concentration-in-pure-water
 score: -1.0
 related_article1:
-    id: 167630
-    title: Describe the characteristics of basic solutions and their pH range.
+    id: 167622
+    title: >-
+        Explain how hydroxide ions form and acquire a negative charge.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-characteristics-of-basic-solutions-and-their-ph-range
+    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
 related_article2:
-    id: 167626
-    title: Compare the pH of pure water, orange juice, and bleach.
+    id: 167627
+    title: >-
+        Why is the logarithmic scale important in understanding pH and concentration differences?
     subject: Chemistry
-    url: /learn/chemistry/questions/compare-the-ph-of-pure-water-orange-juice-and-bleach
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
 related_article3:
-    id: 167624
-    title: Define molarity and explain its relation to moles in a solution.
+    id: 167622
+    title: >-
+        Explain how hydroxide ions form and acquire a negative charge.
     subject: Chemistry
-    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
+    url: /learn/chemistry/questions/explain-how-hydroxide-ions-form-and-acquire-a-negative-charge
 related_article4:
-    id: 167624
-    title: Define molarity and explain its relation to moles in a solution.
-    subject: Chemistry
-    url: /learn/chemistry/questions/define-molarity-and-explain-its-relation-to-moles-in-a-solution
-related_article5:
     id: 167631
-    title: How does the hydrogen ion concentration in pure water compare to other solutions?
+    title: >-
+        How does the hydrogen ion concentration in pure water compare to other solutions?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-hydrogen-ion-concentration-in-pure-water-compare-to-other-solutions
+related_article5:
+    id: 167627
+    title: >-
+        Why is the logarithmic scale important in understanding pH and concentration differences?
+    subject: Chemistry
+    url: /learn/chemistry/questions/why-is-the-logarithmic-scale-important-in-understanding-ph-and-concentration-differences
 ---
 
 &nbsp;

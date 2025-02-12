@@ -2,8 +2,10 @@
 _schema: default
 id: 164982
 date: 2025-01-28
-title: How does randomization contribute to the validity of an experimental design?
-article_title: How does randomization contribute to the validity of an experimental design?
+title: >-
+    How does randomization contribute to the validity of an experimental design?
+article_title: >-
+    How does randomization contribute to the validity of an experimental design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-randomization-contribute-to-the-validity-of-an-experimental-
 url: /learn/psychology/questions/how-does-randomization-contribute-to-the-validity-of-an-experimental-design
 score: -1.0
 related_article1:
-    id: 164992
-    title: How can graphical representation aid in the interpretation of experimental data?
+    id: 164986
+    title: >-
+        How does the Stroop Test measure reaction time?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-graphical-representation-aid-in-the-interpretation-of-experimental-data
+    url: /learn/psychology/questions/how-does-the-stroop-test-measure-reaction-time
 related_article2:
-    id: 164991
-    title: What are some common biases to look for when analyzing survey results?
+    id: 164988
+    title: >-
+        What is synesthesia, and how does it affect perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 related_article3:
-    id: 164989
-    title: What are the essential components of a well-structured presentation?
+    id: 164981
+    title: >-
+        What is a double-barrel question, and why should it be avoided in survey design?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+    url: /learn/psychology/questions/what-is-a-doublebarrel-question-and-why-should-it-be-avoided-in-survey-design
 related_article4:
-    id: 164991
-    title: What are some common biases to look for when analyzing survey results?
+    id: 164988
+    title: >-
+        What is synesthesia, and how does it affect perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 related_article5:
-    id: 164989
-    title: What are the essential components of a well-structured presentation?
+    id: 164988
+    title: >-
+        What is synesthesia, and how does it affect perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 ---
 
 &nbsp;

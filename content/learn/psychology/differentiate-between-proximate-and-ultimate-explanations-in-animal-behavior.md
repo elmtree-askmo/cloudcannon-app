@@ -2,8 +2,10 @@
 _schema: default
 id: 166399
 date: 2025-01-30
-title: Differentiate between proximate and ultimate explanations in animal behavior.
-article_title: Differentiate between proximate and ultimate explanations in animal behavior.
+title: >-
+    Differentiate between proximate and ultimate explanations in animal behavior.
+article_title: >-
+    Differentiate between proximate and ultimate explanations in animal behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-proximate-and-ultimate-explanations-in-animal-b
 url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
 score: -1.0
 related_article1:
-    id: 166414
-    title: How does migration impact genetic diversity and population dynamics?
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
 related_article2:
-    id: 166420
-    title: Discuss the role of development in shaping animal behavior.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
-related_article3:
     id: 166398
-    title: Explain Tinbergen's four questions and their significance in studying animal behavior.
+    title: >-
+        Explain Tinbergen's four questions and their significance in studying animal behavior.
     subject: Psychology
     url: /learn/psychology/questions/explain-tinbergens-four-questions-and-their-significance-in-studying-animal-behavior
+related_article3:
+    id: 166412
+    title: >-
+        Describe the role of mutation in genetic variation and evolution.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-role-of-mutation-in-genetic-variation-and-evolution
 related_article4:
     id: 166401
-    title: Describe the role of learning in animal behavior and its impact on adaptation.
+    title: >-
+        Describe the role of learning in animal behavior and its impact on adaptation.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-role-of-learning-in-animal-behavior-and-its-impact-on-adaptation
 related_article5:
-    id: 166406
-    title: What are the three main approaches to studying animal behavior?
+    id: 166402
+    title: >-
+        What is cultural transmission and how does it affect animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-three-main-approaches-to-studying-animal-behavior
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
 ---
 
 &nbsp;

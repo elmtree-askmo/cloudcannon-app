@@ -2,8 +2,10 @@
 _schema: default
 id: 166289
 date: 2025-01-30
-title: What are the key changes in the bone marrow associated with leukemia pathophysiology?
-article_title: What are the key changes in the bone marrow associated with leukemia pathophysiology?
+title: >-
+    What are the key changes in the bone marrow associated with leukemia pathophysiology?
+article_title: >-
+    What are the key changes in the bone marrow associated with leukemia pathophysiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-
 url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
 score: -1.0
 related_article1:
+    id: 166301
+    title: >-
+        What is the goal of the induction phase in leukemia treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
+related_article2:
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+related_article3:
+    id: 166311
+    title: >-
+        What is the role of chemotherapy in the treatment of lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
+related_article4:
     id: 166294
-    title: How do imaging studies contribute to the diagnosis of leukemia?
+    title: >-
+        How do imaging studies contribute to the diagnosis of leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-imaging-studies-contribute-to-the-diagnosis-of-leukemia
-related_article2:
-    id: 166301
-    title: What is the goal of the induction phase in leukemia treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
-related_article3:
-    id: 166312
-    title: How does monoclonal antibody therapy work in treating lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
-related_article4:
-    id: 166316
-    title: How is thrombocytopenia diagnosed and treated?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 related_article5:
-    id: 166301
-    title: What is the goal of the induction phase in leukemia treatment?
+    id: 166306
+    title: >-
+        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
 ---
 
 &nbsp;

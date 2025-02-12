@@ -2,8 +2,10 @@
 _schema: default
 id: 166741
 date: 2025-01-31
-title: How does celebrity endorsement enhance the ethos of an advertisement?
-article_title: How does celebrity endorsement enhance the ethos of an advertisement?
+title: >-
+    How does celebrity endorsement enhance the ethos of an advertisement?
+article_title: >-
+    How does celebrity endorsement enhance the ethos of an advertisement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-celebrity-endorsement-enhance-the-ethos-of-an-advertisement.
 url: /learn/art-history-and-literature/questions/how-does-celebrity-endorsement-enhance-the-ethos-of-an-advertisement
 score: 9.0
 related_article1:
-    id: 166755
-    title: What are some effective strategies for generating ideas during the writing process?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-effective-strategies-for-generating-ideas-during-the-writing-process
-related_article2:
-    id: 166745
-    title: What factors should be considered when analyzing the demographics of an audience?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-factors-should-be-considered-when-analyzing-the-demographics-of-an-audience
-related_article3:
     id: 166748
-    title: How can parallel structure and repetition enhance copywriting?
+    title: >-
+        How can parallel structure and repetition enhance copywriting?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-can-parallel-structure-and-repetition-enhance-copywriting
-related_article4:
-    id: 166749
-    title: Why is it important to avoid clichés and redundancy in writing?
+related_article2:
+    id: 166748
+    title: >-
+        How can parallel structure and repetition enhance copywriting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-it-important-to-avoid-clichs-and-redundancy-in-writing
+    url: /learn/art-history-and-literature/questions/how-can-parallel-structure-and-repetition-enhance-copywriting
+related_article3:
+    id: 166744
+    title: >-
+        Why is it important to respect audience intelligence in copywriting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-it-important-to-respect-audience-intelligence-in-copywriting
+related_article4:
+    id: 166752
+    title: >-
+        What are some common grammar mistakes to watch for in copywriting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-common-grammar-mistakes-to-watch-for-in-copywriting
 related_article5:
     id: 166742
-    title: What is the difference between logical appeals and causal relationships in logos?
+    title: >-
+        What is the difference between logical appeals and causal relationships in logos?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-difference-between-logical-appeals-and-causal-relationships-in-logos
 ---

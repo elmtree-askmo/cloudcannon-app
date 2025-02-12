@@ -2,8 +2,10 @@
 _schema: default
 id: 168188
 date: 2025-02-02
-title: How do chemical bonds contribute to the formation and properties of compounds?
-article_title: How do chemical bonds contribute to the formation and properties of compounds?
+title: >-
+    How do chemical bonds contribute to the formation and properties of compounds?
+article_title: >-
+    How do chemical bonds contribute to the formation and properties of compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-chemical-bonds-contribute-to-the-formation-and-properties-of-c
 url: /learn/health-studies/questions/how-do-chemical-bonds-contribute-to-the-formation-and-properties-of-compounds
 score: -1.0
 related_article1:
-    id: 168189
-    title: What is the difference between covalent and ionic bonds in terms of electron interaction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
-related_article2:
-    id: 168186
-    title: What are the three main subatomic particles, and how do they contribute to the atomic number and mass?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-three-main-subatomic-particles-and-how-do-they-contribute-to-the-atomic-number-and-mass
-related_article3:
     id: 168182
-    title: What distinguishes a control group from a treatment group in an experimental setup?
+    title: >-
+        What distinguishes a control group from a treatment group in an experimental setup?
     subject: Health Studies
     url: /learn/health-studies/questions/what-distinguishes-a-control-group-from-a-treatment-group-in-an-experimental-setup
+related_article2:
+    id: 168190
+    title: >-
+        Describe the characteristics of polar covalent bonds and provide an example of a polar molecule.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-characteristics-of-polar-covalent-bonds-and-provide-an-example-of-a-polar-molecule
+related_article3:
+    id: 168192
+    title: >-
+        Why are chemical formulas important in representing molecules, especially in biological contexts?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-are-chemical-formulas-important-in-representing-molecules-especially-in-biological-contexts
 related_article4:
-    id: 168186
-    title: What are the three main subatomic particles, and how do they contribute to the atomic number and mass?
+    id: 168194
+    title: >-
+        Explain the levels of biological organization from atoms to molecules and their importance in biology.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-three-main-subatomic-particles-and-how-do-they-contribute-to-the-atomic-number-and-mass
+    url: /learn/health-studies/questions/explain-the-levels-of-biological-organization-from-atoms-to-molecules-and-their-importance-in-biology
 related_article5:
-    id: 168185
-    title: Describe the structure of an atom, including the roles of the nucleus and orbitals.
+    id: 168190
+    title: >-
+        Describe the characteristics of polar covalent bonds and provide an example of a polar molecule.
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-structure-of-an-atom-including-the-roles-of-the-nucleus-and-orbitals
+    url: /learn/health-studies/questions/describe-the-characteristics-of-polar-covalent-bonds-and-provide-an-example-of-a-polar-molecule
 ---
 
 &nbsp;

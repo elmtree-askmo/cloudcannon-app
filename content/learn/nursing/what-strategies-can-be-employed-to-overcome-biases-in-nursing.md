@@ -2,8 +2,10 @@
 _schema: default
 id: 169588
 date: 2025-02-05
-title: What strategies can be employed to overcome biases in nursing?
-article_title: What strategies can be employed to overcome biases in nursing?
+title: >-
+    What strategies can be employed to overcome biases in nursing?
+article_title: >-
+    What strategies can be employed to overcome biases in nursing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-employed-to-overcome-biases-in-nursing.md
 url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
 score: -1.0
 related_article1:
+    id: 169590
+    title: >-
+        How did Mary Seacole's contributions to nursing become recognized despite being initially overlooked?
+    subject: Nursing
+    url: /learn/nursing/questions/how-did-mary-seacoles-contributions-to-nursing-become-recognized-despite-being-initially-overlooked
+related_article2:
     id: 169600
-    title: How have societal norms historically influenced healthcare practices, and what is their impact today?
+    title: >-
+        How have societal norms historically influenced healthcare practices, and what is their impact today?
     subject: Nursing
     url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
-related_article2:
-    id: 169592
-    title: How does institutional racism affect healthcare access for ethnic minorities?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
 related_article3:
-    id: 169592
-    title: How does institutional racism affect healthcare access for ethnic minorities?
+    id: 169596
+    title: >-
+        What role does education and health literacy play in managing health, and what barriers exist to accessing education?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-institutional-racism-affect-healthcare-access-for-ethnic-minorities
+    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
 related_article4:
-    id: 169591
-    title: What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
+    id: 169586
+    title: >-
+        How does the social model of disability promote patient-centered care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
+    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
 related_article5:
-    id: 169598
-    title: How can language barriers affect patient care, and what strategies can be implemented to overcome them?
+    id: 169585
+    title: >-
+        What are the limitations and criticisms of the medical model of disability?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
 ---
 
 &nbsp;

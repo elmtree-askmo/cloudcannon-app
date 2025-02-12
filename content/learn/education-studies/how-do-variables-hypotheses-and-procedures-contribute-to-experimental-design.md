@@ -2,8 +2,10 @@
 _schema: default
 id: 165127
 date: 2025-01-28
-title: How do variables, hypotheses, and procedures contribute to experimental design?
-article_title: How do variables, hypotheses, and procedures contribute to experimental design?
+title: >-
+    How do variables, hypotheses, and procedures contribute to experimental design?
+article_title: >-
+    How do variables, hypotheses, and procedures contribute to experimental design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-variables-hypotheses-and-procedures-contribute-to-experimental
 url: /learn/education-studies/questions/how-do-variables-hypotheses-and-procedures-contribute-to-experimental-design
 score: -1.0
 related_article1:
-    id: 165126
-    title: What distinguishes descriptive, correlational, and experimental designs in research?
+    id: 165142
+    title: >-
+        How is cortisol measured in stress research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-descriptive-correlational-and-experimental-designs-in-research
+    url: /learn/education-studies/questions/how-is-cortisol-measured-in-stress-research
 related_article2:
-    id: 165145
-    title: How do qualitative and quantitative research methodologies differ?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-qualitative-and-quantitative-research-methodologies-differ
-related_article3:
     id: 165122
-    title: What are the key differences between surveys, observations, and experiments in data collection?
+    title: >-
+        What are the key differences between surveys, observations, and experiments in data collection?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-differences-between-surveys-observations-and-experiments-in-data-collection
+related_article3:
+    id: 165143
+    title: >-
+        What are the positive effects of video games on stress?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-positive-effects-of-video-games-on-stress
 related_article4:
     id: 165139
-    title: What is the difference between descriptive and inferential statistics in data analysis?
+    title: >-
+        What is the difference between descriptive and inferential statistics in data analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-descriptive-and-inferential-statistics-in-data-analysis
 related_article5:
-    id: 165137
-    title: What are the advantages of using a between-subjects design in research?
+    id: 165145
+    title: >-
+        How do qualitative and quantitative research methodologies differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
+    url: /learn/education-studies/questions/how-do-qualitative-and-quantitative-research-methodologies-differ
 ---
 
 &nbsp;

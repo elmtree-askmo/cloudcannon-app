@@ -2,8 +2,10 @@
 _schema: default
 id: 166364
 date: 2025-01-30
-title: Differentiate between homology and homoplasy in comparative biology.
-article_title: Differentiate between homology and homoplasy in comparative biology.
+title: >-
+    Differentiate between homology and homoplasy in comparative biology.
+article_title: >-
+    Differentiate between homology and homoplasy in comparative biology.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-homology-and-homoplasy-in-comparative-biology.m
 url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
 score: -1.0
 related_article1:
-    id: 166368
-    title: Explain the impact of hormonal influences on behavior.
+    id: 166370
+    title: >-
+        How is fitness defined and measured in the context of natural selection?
     subject: Biology
-    url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
 related_article2:
+    id: 166356
+    title: >-
+        Explain the concept of heritability and its significance in natural selection.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-heritability-and-its-significance-in-natural-selection
+related_article3:
+    id: 166370
+    title: >-
+        How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+related_article4:
+    id: 166373
+    title: >-
+        What factors influence the response to selection in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
+related_article5:
     id: 166361
-    title: Define adaptation and explain its importance in evolutionary biology.
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
     subject: Biology
     url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
-related_article3:
-    id: 166366
-    title: How do genetic influences affect animal behavior?
-    subject: Biology
-    url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
-related_article4:
-    id: 166362
-    title: How does the environment influence adaptation?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
-related_article5:
-    id: 166362
-    title: How does the environment influence adaptation?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
 ---
 
 &nbsp;

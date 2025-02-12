@@ -2,8 +2,10 @@
 _schema: default
 id: 165115
 date: 2025-01-28
-title: How can validity be ensured in research studies?
-article_title: How can validity be ensured in research studies?
+title: >-
+    How can validity be ensured in research studies?
+article_title: >-
+    How can validity be ensured in research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-
 score: -1.0
 related_article1:
     id: 165105
-    title: How can the order of questions in a survey impact responses?
+    title: >-
+        How can the order of questions in a survey impact responses?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
 related_article2:
-    id: 165108
-    title: What are some popular software tools used for data coding and what are best practices?
+    id: 165095
+    title: >-
+        What is a dependent variable and why is it important in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-popular-software-tools-used-for-data-coding-and-what-are-best-practices
+    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
 related_article3:
-    id: 165111
-    title: What is the difference between continuous and categorical variables?
+    id: 165121
+    title: >-
+        What are the key steps in the scientific methodology and why are they important?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
+    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
 related_article4:
-    id: 165101
-    title: Explain the difference between interval and ratio measurement types with examples.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
-related_article5:
     id: 165102
-    title: What are the key differences between between-subjects and within-subjects experimental designs?
+    title: >-
+        What are the key differences between between-subjects and within-subjects experimental designs?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
+related_article5:
+    id: 165120
+    title: >-
+        What are the biological and environmental factors affecting taste perception?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
 ---
 
 &nbsp;

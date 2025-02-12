@@ -2,8 +2,10 @@
 _schema: default
 id: 167454
 date: 2025-01-31
-title: What are the defining characteristics of organic compounds?
-article_title: What are the defining characteristics of organic compounds?
+title: >-
+    What are the defining characteristics of organic compounds?
+article_title: >-
+    What are the defining characteristics of organic compounds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-characteristics-of-organic-compounds.md
 url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 score: -1.0
 related_article1:
-    id: 167457
-    title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
     subject: Biology
-    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 related_article2:
-    id: 167444
-    title: What is the primary characteristic of covalent bonds in terms of electron sharing?
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 related_article3:
-    id: 167453
-    title: How did Gilbert Lewis contribute to the development of Lewis dot structures?
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
     subject: Biology
-    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 related_article4:
-    id: 167447
-    title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+    id: 167459
+    title: >-
+        How do chemical reactions facilitate energy transfer in biological systems?
     subject: Biology
-    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
 related_article5:
-    id: 167445
-    title: How do polar covalent bonds differ from nonpolar covalent bonds?
+    id: 167446
+    title: >-
+        What is the process of electron transfer in ionic bonds, and how does it lead to ion formation?
     subject: Biology
-    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
+    url: /learn/biology/questions/what-is-the-process-of-electron-transfer-in-ionic-bonds-and-how-does-it-lead-to-ion-formation
 ---
 
 &nbsp;

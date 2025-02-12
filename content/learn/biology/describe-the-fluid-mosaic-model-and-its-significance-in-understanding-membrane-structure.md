@@ -2,8 +2,10 @@
 _schema: default
 id: 167368
 date: 2025-01-31
-title: Describe the fluid mosaic model and its significance in understanding membrane structure.
-article_title: Describe the fluid mosaic model and its significance in understanding membrane structure.
+title: >-
+    Describe the fluid mosaic model and its significance in understanding membrane structure.
+article_title: >-
+    Describe the fluid mosaic model and its significance in understanding membrane structure.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-fluid-mosaic-model-and-its-significance-in-understanding
 url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-membrane-structure
 score: -1.0
 related_article1:
-    id: 167369
-    title: How do concentration gradients drive diffusion and contribute to cellular processes?
-    subject: Biology
-    url: /learn/biology/questions/how-do-concentration-gradients-drive-diffusion-and-contribute-to-cellular-processes
-related_article2:
     id: 167358
-    title: How does cholesterol influence the properties of the phospholipid bilayer?
+    title: >-
+        How does cholesterol influence the properties of the phospholipid bilayer?
     subject: Biology
     url: /learn/biology/questions/how-does-cholesterol-influence-the-properties-of-the-phospholipid-bilayer
+related_article2:
+    id: 167356
+    title: >-
+        How does the amphipathic nature of phospholipids contribute to membrane formation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-amphipathic-nature-of-phospholipids-contribute-to-membrane-formation
 related_article3:
-    id: 167355
-    title: What are the structural components of a phospholipid's hydrophilic head and hydrophobic tails?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-components-of-a-phospholipids-hydrophilic-head-and-hydrophobic-tails
-related_article4:
-    id: 167357
-    title: Why do phospholipids spontaneously form bilayers in aqueous environments?
-    subject: Biology
-    url: /learn/biology/questions/why-do-phospholipids-spontaneously-form-bilayers-in-aqueous-environments
-related_article5:
     id: 167365
-    title: Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
+    title: >-
+        Define tonicity and describe the effects of hypertonic, hypotonic, and isotonic solutions on cells.
     subject: Biology
     url: /learn/biology/questions/define-tonicity-and-describe-the-effects-of-hypertonic-hypotonic-and-isotonic-solutions-on-cells
+related_article4:
+    id: 167367
+    title: >-
+        What is turgor pressure and how does it relate to osmosis in plant cells?
+    subject: Biology
+    url: /learn/biology/questions/what-is-turgor-pressure-and-how-does-it-relate-to-osmosis-in-plant-cells
+related_article5:
+    id: 167362
+    title: >-
+        Explain the concept of selective permeability and its importance to cellular function.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-selective-permeability-and-its-importance-to-cellular-function
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164880
 date: 2025-01-28
-title: How can clarity and precision enhance questioning techniques?
-article_title: How can clarity and precision enhance questioning techniques?
+title: >-
+    How can clarity and precision enhance questioning techniques?
+article_title: >-
+    How can clarity and precision enhance questioning techniques?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-clarity-and-precision-enhance-questioning-techniques.md
 url: /learn/education-studies/questions/how-can-clarity-and-precision-enhance-questioning-techniques
 score: -1.0
 related_article1:
-    id: 164882
-    title: What are the differences between norm-referenced and criterion-referenced grading systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-normreferenced-and-criterionreferenced-grading-systems
-related_article2:
-    id: 164883
-    title: How can consistency be maintained in grading systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
-related_article3:
-    id: 164872
-    title: How can assessment criteria be aligned with learning objectives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assessment-criteria-be-aligned-with-learning-objectives
-related_article4:
-    id: 164883
-    title: How can consistency be maintained in grading systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
-related_article5:
     id: 164874
-    title: How can scoring rubrics benefit the assessment process?
+    title: >-
+        How can scoring rubrics benefit the assessment process?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-scoring-rubrics-benefit-the-assessment-process
+related_article2:
+    id: 164879
+    title: >-
+        What is the difference between open-ended and closed-ended questions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-openended-and-closedended-questions
+related_article3:
+    id: 164871
+    title: >-
+        What is the primary purpose of assessment in education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-assessment-in-education
+related_article4:
+    id: 164881
+    title: >-
+        What strategies can be used to handle challenging questions during a Q&A session?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-handle-challenging-questions-during-a-qa-session
+related_article5:
+    id: 164883
+    title: >-
+        How can consistency be maintained in grading systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-consistency-be-maintained-in-grading-systems
 ---
 
 &nbsp;

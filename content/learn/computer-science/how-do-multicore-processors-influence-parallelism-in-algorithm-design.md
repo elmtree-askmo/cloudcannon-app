@@ -2,8 +2,10 @@
 _schema: default
 id: 160937
 date: 2025-01-24
-title: How do multicore processors influence parallelism in algorithm design?
-article_title: How do multicore processors influence parallelism in algorithm design?
+title: >-
+    How do multicore processors influence parallelism in algorithm design?
+article_title: >-
+    How do multicore processors influence parallelism in algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-multicore-processors-influence-parallelism-in-algorithm-design
 url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallelism-in-algorithm-design
 score: -1.0
 related_article1:
-    id: 160935
-    title: Explain the concept of dynamic programming and provide an example of its application.
+    id: 160939
+    title: >-
+        How do machine learning algorithms differ from traditional algorithms in terms of design and application?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-dynamic-programming-and-provide-an-example-of-its-application
+    url: /learn/computer-science/questions/how-do-machine-learning-algorithms-differ-from-traditional-algorithms-in-terms-of-design-and-application
 related_article2:
-    id: 161158
-    title: What are NP-complete problems and why are they significant in computational theory?
+    id: 161061
+    title: >-
+        Explain the significance of dynamic programming in algorithm design.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-npcomplete-problems-and-why-are-they-significant-in-computational-theory
+    url: /learn/computer-science/questions/explain-the-significance-of-dynamic-programming-in-algorithm-design
 related_article3:
-    id: 161060
-    title: What is the divide-and-conquer technique and give an example of its application.
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-give-an-example-of-its-application
-related_article4:
     id: 161058
-    title: Compare the efficiency of insertion sort and merge sort in terms of input size.
+    title: >-
+        Compare the efficiency of insertion sort and merge sort in terms of input size.
     subject: Computer Science
     url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-in-terms-of-input-size
-related_article5:
-    id: 160932
-    title: Compare the efficiency of insertion sort and merge sort with respect to input size.
+related_article4:
+    id: 161160
+    title: >-
+        What are the characteristics of online algorithms and how do they differ from traditional algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-with-respect-to-input-size
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-online-algorithms-and-how-do-they-differ-from-traditional-algorithms
+related_article5:
+    id: 161152
+    title: >-
+        What factors should be considered when choosing a sorting algorithm?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-factors-should-be-considered-when-choosing-a-sorting-algorithm
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167588
 date: 2025-01-31
-title: What is the difference between a hypothesis and a theory in scientific inquiry?
-article_title: What is the difference between a hypothesis and a theory in scientific inquiry?
+title: >-
+    What is the difference between a hypothesis and a theory in scientific inquiry?
+article_title: >-
+    What is the difference between a hypothesis and a theory in scientific inquiry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientifi
 url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
 score: -1.0
 related_article1:
-    id: 167600
-    title: What evidence supports the theory of evolution?
+    id: 167582
+    title: >-
+        What are the key characteristics that define life?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 related_article2:
-    id: 167593
-    title: How do eukaryotic cells differ from prokaryotic cells?
+    id: 167598
+    title: >-
+        What are some branches of biology and their significance?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-eukaryotic-cells-differ-from-prokaryotic-cells
+    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
 related_article3:
-    id: 167597
-    title: What is the structure and function of the nucleus in eukaryotic cells?
+    id: 167596
+    title: >-
+        What are the differences between asexual and sexual reproduction?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-structure-and-function-of-the-nucleus-in-eukaryotic-cells
+    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
 related_article4:
-    id: 167600
-    title: What evidence supports the theory of evolution?
+    id: 167599
+    title: >-
+        How does natural science relate to other scientific disciplines?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
+    url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
 related_article5:
-    id: 167586
-    title: What are the unique characteristics of Archaea that differentiate them from other domains?
+    id: 167591
+    title: >-
+        Why is homeostasis important for living organisms?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
+    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
 ---
 
 &nbsp;

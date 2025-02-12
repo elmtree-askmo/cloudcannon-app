@@ -2,8 +2,10 @@
 _schema: default
 id: 165305
 date: 2025-01-28
-title: What is stabilizing selection and how does it affect a population?
-article_title: What is stabilizing selection and how does it affect a population?
+title: >-
+    What is stabilizing selection and how does it affect a population?
+article_title: >-
+    What is stabilizing selection and how does it affect a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-stabilizing-selection-and-how-does-it-affect-a-population.md
 url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
 score: -1.0
 related_article1:
-    id: 165297
-    title: Define fitness in the context of natural selection and explain its importance.
+    id: 165288
+    title: >-
+        How can understanding animal behavior be applied in research?
     subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
 related_article2:
+    id: 165304
+    title: >-
+        Describe the process of directional selection and provide an example.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-directional-selection-and-provide-an-example
+related_article3:
+    id: 165294
+    title: >-
+        Describe the process of cultural transmission in animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-process-of-cultural-transmission-in-animal-behavior
+related_article4:
     id: 165314
-    title: What are the genetic bases and advantages of pack hunting behavior?
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
-related_article3:
-    id: 165301
-    title: How do environmental factors influence animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-environmental-factors-influence-animal-behavior
-related_article4:
+related_article5:
     id: 165291
-    title: What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
+    title: >-
+        What is the significance of distinguishing between proximate and ultimate causes in behavioral studies?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-distinguishing-between-proximate-and-ultimate-causes-in-behavioral-studies
-related_article5:
-    id: 165300
-    title: Why is genetic variation important for evolution?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
 ---
 
 &nbsp;

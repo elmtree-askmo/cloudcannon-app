@@ -2,8 +2,10 @@
 _schema: default
 id: 170986
 date: 2025-02-07
-title: How is ATP hydrolysis used to drive the synthesis of sucrose?
-article_title: How is ATP hydrolysis used to drive the synthesis of sucrose?
+title: >-
+    How is ATP hydrolysis used to drive the synthesis of sucrose?
+article_title: >-
+    How is ATP hydrolysis used to drive the synthesis of sucrose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose.md
 url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
 score: -1.0
 related_article1:
+    id: 170979
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article2:
+    id: 170978
+    title: >-
+        What is the role of common intermediates in coupling mechanisms?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+related_article3:
+    id: 170979
+    title: >-
+        Describe the structure of ATP and the significance of phosphoanhydride bonds.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-atp-and-the-significance-of-phosphoanhydride-bonds
+related_article4:
+    id: 170983
+    title: >-
+        What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
+related_article5:
     id: 170987
-    title: What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
+    title: >-
+        What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
-related_article2:
-    id: 170990
-    title: How are equilibrium constants calculated, and what do they indicate about delta G zero values?
-    subject: Biology
-    url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
-related_article3:
-    id: 170985
-    title: How do equilibrium constants relate to chemical equilibrium in glycolysis?
-    subject: Biology
-    url: /learn/biology/questions/how-do-equilibrium-constants-relate-to-chemical-equilibrium-in-glycolysis
-related_article4:
-    id: 170992
-    title: How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
-    subject: Biology
-    url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
-related_article5:
-    id: 170982
-    title: How do oxidation and reduction reactions facilitate electron transfer?
-    subject: Biology
-    url: /learn/biology/questions/how-do-oxidation-and-reduction-reactions-facilitate-electron-transfer
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164576
 date: 2025-01-28
-title: How is reaction time used to measure cognitive processing in neurologically intact individuals?
-article_title: How is reaction time used to measure cognitive processing in neurologically intact individuals?
+title: >-
+    How is reaction time used to measure cognitive processing in neurologically intact individuals?
+article_title: >-
+    How is reaction time used to measure cognitive processing in neurologically intact individuals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-reaction-time-used-to-measure-cognitive-processing-in-neurolog
 url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
 score: -1.0
 related_article1:
-    id: 164575
-    title: What are the genetic and environmental factors that influence the development of neural tube defects?
+    id: 164573
+    title: >-
+        How do divided visual field techniques and dichotic listening contribute to our understanding of hemispheric specialization?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
+    url: /learn/psychology/questions/how-do-divided-visual-field-techniques-and-dichotic-listening-contribute-to-our-understanding-of-hemispheric-specialization
 related_article2:
-    id: 164572
-    title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
-related_article3:
-    id: 164579
-    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
-related_article4:
-    id: 164579
-    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
-related_article5:
     id: 164586
-    title: What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    title: >-
+        What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
+related_article3:
+    id: 164570
+    title: >-
+        What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
+related_article4:
+    id: 164580
+    title: >-
+        What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
+related_article5:
+    id: 164570
+    title: >-
+        What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
 ---
 
 &nbsp;

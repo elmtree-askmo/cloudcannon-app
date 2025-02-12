@@ -2,8 +2,10 @@
 _schema: default
 id: 170521
 date: 2025-02-06
-title: How can drug interactions modulate heart rate and influence blood vessel diameter?
-article_title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+title: >-
+    How can drug interactions modulate heart rate and influence blood vessel diameter?
+article_title: >-
+    How can drug interactions modulate heart rate and influence blood vessel diameter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-drug-interactions-modulate-heart-rate-and-influence-blood-ves
 url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
 score: -1.0
 related_article1:
-    id: 170520
-    title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    id: 170505
+    title: >-
+        How do catecholamines like epinephrine and norepinephrine affect body systems?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+    url: /learn/nursing/questions/how-do-catecholamines-like-epinephrine-and-norepinephrine-affect-body-systems
 related_article2:
-    id: 170515
-    title: What is the role of the vagus nerve in the parasympathetic nervous system, particularly concerning the heart and lungs?
+    id: 170502
+    title: >-
+        How does the somatic nervous system facilitate voluntary control of skeletal muscles?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-the-vagus-nerve-in-the-parasympathetic-nervous-system-particularly-concerning-the-heart-and-lungs
+    url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
 related_article3:
-    id: 170508
-    title: What are the differences between alpha and beta adrenergic receptors in terms of their physiological effects?
+    id: 170513
+    title: >-
+        Describe the role of smooth muscle in the function of visceral organs.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-alpha-and-beta-adrenergic-receptors-in-terms-of-their-physiological-effects
+    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
 related_article4:
-    id: 170507
-    title: Explain the role of muscarinic receptors in the parasympathetic nervous system.
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
 related_article5:
-    id: 170518
-    title: Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
+    id: 170514
+    title: >-
+        How does the baroreceptor reflex contribute to blood pressure regulation?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+    url: /learn/nursing/questions/how-does-the-baroreceptor-reflex-contribute-to-blood-pressure-regulation
 ---
 
 &nbsp;

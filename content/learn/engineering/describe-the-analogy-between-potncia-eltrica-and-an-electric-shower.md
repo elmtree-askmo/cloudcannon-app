@@ -2,8 +2,10 @@
 _schema: default
 id: 169836
 date: 2025-02-05
-title: Describe the analogy between potência elétrica and an electric shower.
-article_title: Describe the analogy between potência elétrica and an electric shower.
+title: >-
+    Describe the analogy between potência elétrica and an electric shower.
+article_title: >-
+    Describe the analogy between potência elétrica and an electric shower.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-a
 score: -1.0
 related_article1:
     id: 169835
-    title: What is potência elétrica and how is it calculated?
+    title: >-
+        What is potência elétrica and how is it calculated?
     subject: Engineering
     url: /learn/engineering/questions/what-is-potncia-eltrica-and-how-is-it-calculated
 related_article2:
+    id: 169839
+    title: >-
+        Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+related_article3:
     id: 169829
-    title: Define a laço and explain how it differs from a malha in an electrical circuit.
+    title: >-
+        Define a laço and explain how it differs from a malha in an electrical circuit.
     subject: Engineering
     url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
-related_article3:
-    id: 169834
-    title: How can corrente elétrica be compared to a hydraulic system?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
 related_article4:
-    id: 169826
-    title: How can a bipolo elétrico be compared to a plumbing system?
+    id: 169825
+    title: >-
+        What is a bipolo elétrico and what are some examples of it?
     subject: Engineering
-    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
 related_article5:
-    id: 169827
-    title: What constitutes a circuito elétrico and how does it function?
+    id: 169825
+    title: >-
+        What is a bipolo elétrico and what are some examples of it?
     subject: Engineering
-    url: /learn/engineering/questions/what-constitutes-a-circuito-eltrico-and-how-does-it-function
+    url: /learn/engineering/questions/what-is-a-bipolo-eltrico-and-what-are-some-examples-of-it
 ---
 
 &nbsp;

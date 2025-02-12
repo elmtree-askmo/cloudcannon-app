@@ -2,8 +2,10 @@
 _schema: default
 id: 167466
 date: 2025-01-31
-title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
-article_title: What is the scope of biochemistry, and why is it important in the study of life chemistry?
+title: >-
+    What is the scope of biochemistry, and why is it important in the study of life chemistry?
+article_title: >-
+    What is the scope of biochemistry, and why is it important in the study of life chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-stud
 url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
 score: -1.0
 related_article1:
-    id: 167447
-    title: Describe the properties and reactions of sodium chloride as a common ionic compound.
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
     subject: Biology
-    url: /learn/biology/questions/describe-the-properties-and-reactions-of-sodium-chloride-as-a-common-ionic-compound
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 related_article2:
-    id: 167460
-    title: What factors determine the molecular structure of a compound?
+    id: 167453
+    title: >-
+        How did Gilbert Lewis contribute to the development of Lewis dot structures?
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
 related_article3:
-    id: 167452
-    title: What is the purpose of Lewis dot structures in representing molecules?
+    id: 167464
+    title: >-
+        What is the role of chemical compounds in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
 related_article4:
-    id: 167451
-    title: How does the octet rule contribute to the stability of atoms in chemical bonding?
+    id: 167463
+    title: >-
+        How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding
+    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
 related_article5:
-    id: 167458
-    title: What are the main types of chemical reactions, and how do they differ?
+    id: 167456
+    title: >-
+        Define acids and bases according to the proton donor-acceptor concept.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
 ---
 
 &nbsp;

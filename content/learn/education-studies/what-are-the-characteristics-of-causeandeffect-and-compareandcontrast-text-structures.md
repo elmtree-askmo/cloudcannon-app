@@ -2,8 +2,10 @@
 _schema: default
 id: 162562
 date: 2025-01-25
-title: What are the characteristics of cause-and-effect and compare-and-contrast text structures?
-article_title: What are the characteristics of cause-and-effect and compare-and-contrast text structures?
+title: >-
+    What are the characteristics of cause-and-effect and compare-and-contrast text structures?
+article_title: >-
+    What are the characteristics of cause-and-effect and compare-and-contrast text structures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-causeandeffect-and-compareandcontrast
 url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
 score: -1.0
 related_article1:
-    id: 162255
-    title: How can an author's professional affiliations and expert credentials influence their purpose in writing?
+    id: 162262
+    title: >-
+        What strategies can be employed to identify bias and persuasive techniques in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-identify-bias-and-persuasive-techniques-in-a-text
 related_article2:
-    id: 162265
-    title: How does the ecological footprint of a diet impact environmental sustainability?
+    id: 162261
+    title: >-
+        How can analyzing text structures improve the effectiveness of communication in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-impact-environmental-sustainability
+    url: /learn/education-studies/questions/how-can-analyzing-text-structures-improve-the-effectiveness-of-communication-in-a-text
 related_article3:
-    id: 162270
-    title: What techniques are commonly used in persuasive writing to appeal to emotions and logic?
+    id: 162263
+    title: >-
+        How can you evaluate the trustworthiness of information and the author's intentions in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-are-commonly-used-in-persuasive-writing-to-appeal-to-emotions-and-logic
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-trustworthiness-of-information-and-the-authors-intentions-in-a-text
 related_article4:
-    id: 162253
-    title: What are some key questions to ask when determining an author's purpose?
+    id: 162267
+    title: >-
+        Why is variety important in the dietary components of a plant-based diet?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-key-questions-to-ask-when-determining-an-authors-purpose
+    url: /learn/education-studies/questions/why-is-variety-important-in-the-dietary-components-of-a-plantbased-diet
 related_article5:
-    id: 162567
-    title: How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
+    id: 162259
+    title: >-
+        How can you evaluate the credibility and relevance of evidence presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-relate-to-its-environmental-impact-and-sustainable-eating-practices
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-credibility-and-relevance-of-evidence-presented-in-a-text
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168972
 date: 2025-02-04
-title: How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
-article_title: How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
+title: >-
+    How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
+article_title: >-
+    How does neoliberal urbanism influence the privatization of public tasks related to blight removal?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-neoliberal-urbanism-influence-the-privatization-of-public-ta
 url: /learn/sociology/questions/how-does-neoliberal-urbanism-influence-the-privatization-of-public-tasks-related-to-blight-removal
 score: -1.0
 related_article1:
-    id: 168966
-    title: How do racialized economic systems perpetuate white privilege and anti-black racism in urban contexts?
+    id: 168969
+    title: >-
+        What historical practices contributed to racial segregation in urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-racialized-economic-systems-perpetuate-white-privilege-and-antiblack-racism-in-urban-contexts
+    url: /learn/sociology/questions/what-historical-practices-contributed-to-racial-segregation-in-urban-areas
 related_article2:
-    id: 168971
-    title: What role does municipal governance play in the governmentalization of blight?
+    id: 168965
+    title: >-
+        What role does racial identity play in the political and economic orders of urban spaces?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-does-municipal-governance-play-in-the-governmentalization-of-blight
+    url: /learn/sociology/questions/what-role-does-racial-identity-play-in-the-political-and-economic-orders-of-urban-spaces
 related_article3:
-    id: 168963
-    title: In what ways was blight perceived as a public danger in terms of real estate values and city security?
+    id: 168964
+    title: >-
+        How does racial capitalism intersect with the concept of blight in urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-was-blight-perceived-as-a-public-danger-in-terms-of-real-estate-values-and-city-security
+    url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
 related_article4:
-    id: 168968
-    title: How have the origins of blight transitioned from agricultural to urban contexts?
+    id: 168964
+    title: >-
+        How does racial capitalism intersect with the concept of blight in urban areas?
     subject: Sociology
-    url: /learn/sociology/questions/how-have-the-origins-of-blight-transitioned-from-agricultural-to-urban-contexts
+    url: /learn/sociology/questions/how-does-racial-capitalism-intersect-with-the-concept-of-blight-in-urban-areas
 related_article5:
-    id: 168961
-    title: What were the main factors contributing to urban decline in the early 20th century?
+    id: 168967
+    title: >-
+        What are the responsibilities of urban planners and real estate developers in addressing urban blight?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-main-factors-contributing-to-urban-decline-in-the-early-20th-century
+    url: /learn/sociology/questions/what-are-the-responsibilities-of-urban-planners-and-real-estate-developers-in-addressing-urban-blight
 ---
 
 &nbsp;

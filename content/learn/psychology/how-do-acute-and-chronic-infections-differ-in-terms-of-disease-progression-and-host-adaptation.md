@@ -2,8 +2,10 @@
 _schema: default
 id: 165854
 date: 2025-01-29
-title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
-article_title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
+title: >-
+    How do acute and chronic infections differ in terms of disease progression and host adaptation?
+article_title: >-
+    How do acute and chronic infections differ in terms of disease progression and host adaptation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progre
 url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
 score: -1.0
 related_article1:
-    id: 165831
-    title: What public health measures are essential for the control and prevention of parasitic diseases?
+    id: 165841
+    title: >-
+        How does the immune response contribute to the pathological effects of parasitic infections?
     subject: Psychology
-    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
+    url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
 related_article2:
-    id: 165845
-    title: What modern technological advancements are being applied in parasitology research?
+    id: 165847
+    title: >-
+        What are the key public health implications of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 related_article3:
-    id: 165839
-    title: What molecular techniques are advancing research in parasitology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
-related_article4:
     id: 165846
-    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
     subject: Psychology
     url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
-related_article5:
-    id: 165839
-    title: What molecular techniques are advancing research in parasitology?
+related_article4:
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
     subject: Psychology
-    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+related_article5:
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 ---
 
 &nbsp;

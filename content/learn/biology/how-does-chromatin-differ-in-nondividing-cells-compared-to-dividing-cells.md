@@ -2,8 +2,10 @@
 _schema: default
 id: 167813
 date: 2025-02-01
-title: How does chromatin differ in non-dividing cells compared to dividing cells?
-article_title: How does chromatin differ in non-dividing cells compared to dividing cells?
+title: >-
+    How does chromatin differ in non-dividing cells compared to dividing cells?
+article_title: >-
+    How does chromatin differ in non-dividing cells compared to dividing cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-c
 url: /learn/biology/questions/how-does-chromatin-differ-in-nondividing-cells-compared-to-dividing-cells
 score: -1.0
 related_article1:
-    id: 167818
-    title: How does transcription differ from translation in protein synthesis?
+    id: 167819
+    title: >-
+        What is differential gene expression and why is it important?
     subject: Biology
-    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
 related_article2:
-    id: 167808
-    title: How do genetic resemblance and variation contribute to the study of genetics?
+    id: 167824
+    title: >-
+        What are the unique features of plant cells compared to animal cells?
     subject: Biology
-    url: /learn/biology/questions/how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics
+    url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
 related_article3:
-    id: 167818
-    title: How does transcription differ from translation in protein synthesis?
+    id: 167815
+    title: >-
+        How does DNA replication ensure genetic consistency?
     subject: Biology
-    url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
+    url: /learn/biology/questions/how-does-dna-replication-ensure-genetic-consistency
 related_article4:
-    id: 167809
-    title: Why is DNA considered the genetic material?
+    id: 167819
+    title: >-
+        What is differential gene expression and why is it important?
     subject: Biology
-    url: /learn/biology/questions/why-is-dna-considered-the-genetic-material
+    url: /learn/biology/questions/what-is-differential-gene-expression-and-why-is-it-important
 related_article5:
-    id: 167807
-    title: What is the mechanism of inheritance in transmission genetics?
+    id: 167825
+    title: >-
+        What are the main sources of genetic variation?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation
 ---
 
 &nbsp;

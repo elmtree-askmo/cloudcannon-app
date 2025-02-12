@@ -2,8 +2,10 @@
 _schema: default
 id: 166878
 date: 2025-01-31
-title: What role do nucleic acids play in information storage and protein synthesis?
-article_title: What role do nucleic acids play in information storage and protein synthesis?
+title: >-
+    What role do nucleic acids play in information storage and protein synthesis?
+article_title: >-
+    What role do nucleic acids play in information storage and protein synthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-nucleic-acids-play-in-information-storage-and-protein-sy
 url: /learn/biology/questions/what-role-do-nucleic-acids-play-in-information-storage-and-protein-synthesis
 score: -1.0
 related_article1:
-    id: 166875
-    title: What is the significance of the 5’ and 3’ ends in nucleic acid synthesis?
+    id: 166870
+    title: >-
+        Explain the 5’ to 3’ directionality of nucleic acids and its impact on nucleic acid structure.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-5-and-3-ends-in-nucleic-acid-synthesis
+    url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
 related_article2:
     id: 166879
-    title: Explain the central dogma of life and its significance in gene expression and cellular function.
+    title: >-
+        Explain the central dogma of life and its significance in gene expression and cellular function.
     subject: Biology
     url: /learn/biology/questions/explain-the-central-dogma-of-life-and-its-significance-in-gene-expression-and-cellular-function
 related_article3:
-    id: 166873
-    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    id: 166870
+    title: >-
+        Explain the 5’ to 3’ directionality of nucleic acids and its impact on nucleic acid structure.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
+    url: /learn/biology/questions/explain-the-5-to-3-directionality-of-nucleic-acids-and-its-impact-on-nucleic-acid-structure
 related_article4:
-    id: 166877
-    title: Compare the structure and function of DNA and RNA, and identify their locations in cells.
+    id: 166865
+    title: >-
+        What are the building blocks of DNA and RNA, and what are the types of pentose sugars involved?
     subject: Biology
-    url: /learn/biology/questions/compare-the-structure-and-function-of-dna-and-rna-and-identify-their-locations-in-cells
+    url: /learn/biology/questions/what-are-the-building-blocks-of-dna-and-rna-and-what-are-the-types-of-pentose-sugars-involved
 related_article5:
-    id: 166873
-    title: What are the categories of nitrogenous bases, and how do they pair specifically in DNA and RNA?
+    id: 166876
+    title: >-
+        How does the directionality of nucleic acids impact transcription and replication?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-categories-of-nitrogenous-bases-and-how-do-they-pair-specifically-in-dna-and-rna
+    url: /learn/biology/questions/how-does-the-directionality-of-nucleic-acids-impact-transcription-and-replication
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164353
 date: 2025-01-28
-title: Identify the structural components of the brain and their significance.
-article_title: Identify the structural components of the brain and their significance.
+title: >-
+    Identify the structural components of the brain and their significance.
+article_title: >-
+    Identify the structural components of the brain and their significance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-the-structural-components-of-the-brain-and-their-significanc
 url: /learn/psychology/questions/identify-the-structural-components-of-the-brain-and-their-significance
 score: -1.0
 related_article1:
-    id: 164346
-    title: How do anatomical imaging techniques contribute to medical applications?
+    id: 164356
+    title: >-
+        What advancements have been made in high-resolution imaging techniques?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
+    url: /learn/psychology/questions/what-advancements-have-been-made-in-highresolution-imaging-techniques
 related_article2:
-    id: 164357
-    title: How does functional imaging contribute to cognitive research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
-related_article3:
-    id: 164350
-    title: Explain the significance of tissue density analysis in CAT scans.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
-related_article4:
     id: 164346
-    title: How do anatomical imaging techniques contribute to medical applications?
+    title: >-
+        How do anatomical imaging techniques contribute to medical applications?
     subject: Psychology
     url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
-related_article5:
-    id: 164357
-    title: How does functional imaging contribute to cognitive research?
+related_article3:
+    id: 164355
+    title: >-
+        Compare the advantages of MRI over CAT scans.
     subject: Psychology
-    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article4:
+    id: 164359
+    title: >-
+        How does neuroimaging enhance the understanding of neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuroimaging-enhance-the-understanding-of-neurological-disorders
+related_article5:
+    id: 164356
+    title: >-
+        What advancements have been made in high-resolution imaging techniques?
+    subject: Psychology
+    url: /learn/psychology/questions/what-advancements-have-been-made-in-highresolution-imaging-techniques
 ---
 
 &nbsp;

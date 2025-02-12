@@ -2,8 +2,10 @@
 _schema: default
 id: 160068
 date: 2025-01-23
-title: How can knowledge be applied in real-world contexts, and what role do problem-solving skills play?
-article_title: How can knowledge be applied in real-world contexts, and what role do problem-solving skills play?
+title: >-
+    How can knowledge be applied in real-world contexts, and what role do problem-solving skills play?
+article_title: >-
+    How can knowledge be applied in real-world contexts, and what role do problem-solving skills play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-knowledge-be-applied-in-realworld-contexts-and-what-role-do-p
 url: /learn/education-studies/questions/how-can-knowledge-be-applied-in-realworld-contexts-and-what-role-do-problemsolving-skills-play
 score: -1.0
 related_article1:
-    id: 160058
-    title: What are the benefits of study groups, and how do they contribute to collaborative learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-study-groups-and-how-do-they-contribute-to-collaborative-learning
-related_article2:
-    id: 160482
-    title: What principles should be considered in curriculum design to align with learning outcomes and incorporate diverse perspectives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-principles-should-be-considered-in-curriculum-design-to-align-with-learning-outcomes-and-incorporate-diverse-perspectives
-related_article3:
-    id: 159999
-    title: How can prioritizing tasks and avoiding procrastination improve time management?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-prioritizing-tasks-and-avoiding-procrastination-improve-time-management
-related_article4:
-    id: 160468
-    title: What techniques can be used to manage time and stress during exams?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-time-and-stress-during-exams
-related_article5:
-    id: 160285
-    title: What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
+    id: 160476
+    title: >-
+        What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
     subject: Education Studies
     url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
+related_article2:
+    id: 160576
+    title: >-
+        How can setting reading goals improve a student's understanding of the material?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-setting-reading-goals-improve-a-students-understanding-of-the-material
+related_article3:
+    id: 160133
+    title: >-
+        How can biases and authority influence critical thinking, and what strategies can be used to overcome these barriers?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-biases-and-authority-influence-critical-thinking-and-what-strategies-can-be-used-to-overcome-these-barriers
+related_article4:
+    id: 160006
+    title: >-
+        What are active reading techniques, and how do they assist in identifying key information?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-active-reading-techniques-and-how-do-they-assist-in-identifying-key-information
+related_article5:
+    id: 160131
+    title: >-
+        How can students apply metacognitive strategies to evaluate and adjust their study habits?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-apply-metacognitive-strategies-to-evaluate-and-adjust-their-study-habits
 ---
 
 &nbsp;

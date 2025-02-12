@@ -2,8 +2,10 @@
 _schema: default
 id: 165940
 date: 2025-01-29
-title: How did criticisms of the Official Salons contribute to their decline?
-article_title: How did criticisms of the Official Salons contribute to their decline?
+title: >-
+    How did criticisms of the Official Salons contribute to their decline?
+article_title: >-
+    How did criticisms of the Official Salons contribute to their decline?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-criticisms-of-the-official-salons-contribute-to-their-decline
 url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
 score: 9.0
 related_article1:
-    id: 165950
-    title: How did the Salon d’Automne support the development of Cubism?
+    id: 165960
+    title: >-
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-salon-dautomne-support-the-development-of-cubism
+    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 related_article2:
-    id: 165962
-    title: What is the legacy of 19th-century art movements on contemporary art?
+    id: 165943
+    title: >-
+        What was the historical context behind the creation of the Salon des Refusés?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
+    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 related_article3:
-    id: 165947
-    title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
-related_article4:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
-related_article5:
     id: 165955
-    title: What were the major 19th-century art movements, and how did they transition into 20th-century styles?
+    title: >-
+        What were the major 19th-century art movements, and how did they transition into 20th-century styles?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-major-19thcentury-art-movements-and-how-did-they-transition-into-20thcentury-styles
+related_article4:
+    id: 165957
+    title: >-
+        What social and political influences affected art during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-social-and-political-influences-affected-art-during-the-19th-century
+related_article5:
+    id: 165951
+    title: >-
+        What are the main characteristics and techniques associated with Impressionism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
 ---
 
 &nbsp;

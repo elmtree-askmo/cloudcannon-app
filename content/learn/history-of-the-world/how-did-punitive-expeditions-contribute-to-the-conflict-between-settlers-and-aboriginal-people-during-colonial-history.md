@@ -2,8 +2,10 @@
 _schema: default
 id: 169026
 date: 2025-02-04
-title: How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
-article_title: How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
+title: >-
+    How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
+article_title: >-
+    How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-did-punitive-expeditions-contribu
 score: 9.0
 related_article1:
     id: 169024
-    title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+    title: >-
+        What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
 related_article2:
-    id: 169036
-    title: What are the main challenges faced in the preservation of Aboriginal heritage sites?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
-related_article3:
-    id: 169029
-    title: How do historical narratives influence public memory and commemoration practices?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
-related_article4:
-    id: 169037
-    title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
-related_article5:
     id: 169025
-    title: Identify and describe the significance of one notable memorial related to Aboriginal massacres.
+    title: >-
+        Identify and describe the significance of one notable memorial related to Aboriginal massacres.
     subject: History of the World
     url: /learn/history-of-the-world/questions/identify-and-describe-the-significance-of-one-notable-memorial-related-to-aboriginal-massacres
+related_article3:
+    id: 169028
+    title: >-
+        Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-of-aboriginal-people
+related_article4:
+    id: 169025
+    title: >-
+        Identify and describe the significance of one notable memorial related to Aboriginal massacres.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/identify-and-describe-the-significance-of-one-notable-memorial-related-to-aboriginal-massacres
+related_article5:
+    id: 169030
+    title: >-
+        What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167648
 date: 2025-01-31
-title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
-article_title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+title: >-
+    What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+article_title: >-
+    What are the functional implications of the structural differences between ribose and deoxyribose sugars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-functional-implications-of-the-structural-differences-be
 url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
 score: -1.0
 related_article1:
+    id: 167647
+    title: >-
+        List the nitrogenous bases found in DNA and RNA.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
+related_article2:
     id: 167646
-    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
+    title: >-
+        How do covalent bonds differ from hydrogen bonds in biological macromolecules?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
-related_article2:
-    id: 167634
-    title: What are the three main components of a nucleotide?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article3:
-    id: 167643
-    title: How do triglycerides differ from phospholipids in structure and function?
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
 related_article4:
+    id: 167640
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+related_article5:
     id: 167635
-    title: How do ribose and deoxyribose sugars differ structurally?
+    title: >-
+        How do ribose and deoxyribose sugars differ structurally?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
-related_article5:
-    id: 167638
-    title: What role does the hydroxyl group play in RNA structure?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
 ---
 
 &nbsp;

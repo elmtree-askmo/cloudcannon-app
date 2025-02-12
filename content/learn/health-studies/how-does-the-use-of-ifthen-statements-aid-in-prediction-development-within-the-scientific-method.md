@@ -2,8 +2,10 @@
 _schema: default
 id: 168181
 date: 2025-02-02
-title: How does the use of 'if-then' statements aid in prediction development within the scientific method?
-article_title: How does the use of 'if-then' statements aid in prediction development within the scientific method?
+title: >-
+    How does the use of 'if-then' statements aid in prediction development within the scientific method?
+article_title: >-
+    How does the use of 'if-then' statements aid in prediction development within the scientific method?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-use-of-ifthen-statements-aid-in-prediction-development-w
 url: /learn/health-studies/questions/how-does-the-use-of-ifthen-statements-aid-in-prediction-development-within-the-scientific-method
 score: -1.0
 related_article1:
-    id: 168189
-    title: What is the difference between covalent and ionic bonds in terms of electron interaction?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
-related_article2:
-    id: 168186
-    title: What are the three main subatomic particles, and how do they contribute to the atomic number and mass?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-three-main-subatomic-particles-and-how-do-they-contribute-to-the-atomic-number-and-mass
-related_article3:
-    id: 168190
-    title: Describe the characteristics of polar covalent bonds and provide an example of a polar molecule.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-characteristics-of-polar-covalent-bonds-and-provide-an-example-of-a-polar-molecule
-related_article4:
     id: 168180
-    title: What are the key components of a testable hypothesis in the scientific method?
+    title: >-
+        What are the key components of a testable hypothesis in the scientific method?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-components-of-a-testable-hypothesis-in-the-scientific-method
-related_article5:
-    id: 168187
-    title: Explain the significance of the periodic table in understanding elements and their properties.
+related_article2:
+    id: 168180
+    title: >-
+        What are the key components of a testable hypothesis in the scientific method?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-significance-of-the-periodic-table-in-understanding-elements-and-their-properties
+    url: /learn/health-studies/questions/what-are-the-key-components-of-a-testable-hypothesis-in-the-scientific-method
+related_article3:
+    id: 168185
+    title: >-
+        Describe the structure of an atom, including the roles of the nucleus and orbitals.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-structure-of-an-atom-including-the-roles-of-the-nucleus-and-orbitals
+related_article4:
+    id: 168185
+    title: >-
+        Describe the structure of an atom, including the roles of the nucleus and orbitals.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-structure-of-an-atom-including-the-roles-of-the-nucleus-and-orbitals
+related_article5:
+    id: 168191
+    title: >-
+        How does the molecular structure of water contribute to its unique properties?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-molecular-structure-of-water-contribute-to-its-unique-properties
 ---
 
 &nbsp;

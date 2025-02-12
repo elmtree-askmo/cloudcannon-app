@@ -2,8 +2,10 @@
 _schema: default
 id: 159750
 date: 2025-01-23
-title: What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
-article_title: What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
+title: >-
+    What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
+article_title: >-
+    What were the major historical events in the 19th and early 20th centuries that influenced artistic production?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-historical-events-in-the-19th-and-early-20th-cent
 url: /learn/education-studies/questions/what-were-the-major-historical-events-in-the-19th-and-early-20th-centuries-that-influenced-artistic-production
 score: -1.0
 related_article1:
-    id: 160025
-    title: How did Victorian society influence the representation of gender in art?
+    id: 159815
+    title: >-
+        What are the key components of formal analysis when visually analyzing artworks?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
+related_article2:
+    id: 159752
+    title: >-
+        In what ways can art serve as a tool for social change?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
+related_article3:
+    id: 159747
+    title: >-
+        What impact did colonialism have on European art and its interaction with non-European cultures?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-impact-did-colonialism-have-on-european-art-and-its-interaction-with-noneuropean-cultures
+related_article4:
+    id: 159807
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
-related_article2:
-    id: 159745
-    title: What role did salons and academies play in the development of art history?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-salons-and-academies-play-in-the-development-of-art-history
-related_article3:
-    id: 159742
-    title: What are the defining features of Post-Impressionism, and how did it build on Impressionism?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-postimpressionism-and-how-did-it-build-on-impressionism
-related_article4:
-    id: 160015
-    title: Describe the main characteristics of Realism as an artistic movement.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-main-characteristics-of-realism-as-an-artistic-movement
 related_article5:
-    id: 160012
-    title: How did technological advancements during the Industrial Revolution influence modern art?
+    id: 159746
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
 ---
 
 &nbsp;

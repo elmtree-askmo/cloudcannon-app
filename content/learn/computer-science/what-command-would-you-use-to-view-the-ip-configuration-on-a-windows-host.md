@@ -2,8 +2,10 @@
 _schema: default
 id: 165660
 date: 2025-01-29
-title: What command would you use to view the IP configuration on a Windows host?
-article_title: What command would you use to view the IP configuration on a Windows host?
+title: >-
+    What command would you use to view the IP configuration on a Windows host?
+article_title: >-
+    What command would you use to view the IP configuration on a Windows host?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,24 +25,34 @@ url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip
 score: -1.0
 related_article1:
     id: 165665
-    title: What are common causes of IP addressing issues on IOS devices?
+    title: >-
+        What are common causes of IP addressing issues on IOS devices?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
 related_article2:
-    id: 165662
-    title: What information can be obtained from the 'show running-config' command?
+    id: 165666
+    title: >-
+        Why is the default gateway important in a network, and how can you verify its configuration?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-can-be-obtained-from-the-show-runningconfig-command
+    url: /learn/computer-science/questions/why-is-the-default-gateway-important-in-a-network-and-how-can-you-verify-its-configuration
 related_article3:
-    id: 165667
-    title: What tools can be used to troubleshoot DNS issues effectively?
+    id: 165656
+    title: >-
+        How does redundancy improve the reliability of a small network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+    url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
 related_article4:
-    id: 165655
-    title: What are the key considerations when selecting devices for a small network?
+    id: 165663
+    title: >-
+        What is the primary purpose of the debug command in network troubleshooting?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-the-debug-command-in-network-troubleshooting
+related_article5:
+    id: 165663
+    title: >-
+        What is the primary purpose of the debug command in network troubleshooting?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-the-debug-command-in-network-troubleshooting
 ---
 
 &nbsp;

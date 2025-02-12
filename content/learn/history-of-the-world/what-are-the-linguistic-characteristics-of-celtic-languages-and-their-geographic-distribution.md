@@ -2,8 +2,10 @@
 _schema: default
 id: 160376
 date: 2025-01-24
-title: What are the linguistic characteristics of Celtic languages and their geographic distribution?
-article_title: What are the linguistic characteristics of Celtic languages and their geographic distribution?
+title: >-
+    What are the linguistic characteristics of Celtic languages and their geographic distribution?
+article_title: >-
+    What are the linguistic characteristics of Celtic languages and their geographic distribution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-linguistic-characteristics-of-celtic-languages-and-their
 url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
 score: 9.0
 related_article1:
-    id: 160254
-    title: What were the primary military tactics and weaponry used by the Celts?
+    id: 159868
+    title: >-
+        What are the defining decorative styles of La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
+    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 related_article2:
+    id: 159862
+    title: >-
+        What are the main characteristics of Halstatt Culture's art and material goods?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
+related_article3:
     id: 160183
-    title: How have the Celts contributed to European heritage and modern perceptions?
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
-related_article3:
-    id: 160385
-    title: How did Celtic architectural styles reflect their settlement patterns?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
 related_article4:
-    id: 160181
-    title: How did geography influence the cultural development and migration patterns of the Celts?
+    id: 160380
+    title: >-
+        What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
+    url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
 related_article5:
-    id: 160251
-    title: What were the typical clothing and dining habits in Celtic daily life?
+    id: 159901
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
+    url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 ---
 
 &nbsp;

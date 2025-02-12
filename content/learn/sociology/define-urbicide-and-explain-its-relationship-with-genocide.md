@@ -2,8 +2,10 @@
 _schema: default
 id: 169204
 date: 2025-02-04
-title: Define urbicide and explain its relationship with genocide.
-article_title: Define urbicide and explain its relationship with genocide.
+title: >-
+    Define urbicide and explain its relationship with genocide.
+article_title: >-
+    Define urbicide and explain its relationship with genocide.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: define-urbicide-and-explain-its-relationship-with-genocide.md
 url: /learn/sociology/questions/define-urbicide-and-explain-its-relationship-with-genocide
 score: -1.0
 related_article1:
-    id: 169210
-    title: Discuss the role of anthropocentrism in the conceptual stakes of urbicide.
+    id: 169206
+    title: >-
+        How does the concept of 'being-in-the-world as em-placement' relate to spatiality and the built environment?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-the-role-of-anthropocentrism-in-the-conceptual-stakes-of-urbicide
+    url: /learn/sociology/questions/how-does-the-concept-of-beingintheworld-as-emplacement-relate-to-spatiality-and-the-built-environment
 related_article2:
-    id: 169211
-    title: What are the political implications of house-burning in post-war Bosnia?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
-related_article3:
-    id: 169207
-    title: Explain the concept of Mitsein and its relevance to community and shared experience.
-    subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-mitsein-and-its-relevance-to-community-and-shared-experience
-related_article4:
     id: 169205
-    title: What is the systematic nature of urbicide in the context of urban destruction?
+    title: >-
+        What is the systematic nature of urbicide in the context of urban destruction?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
-related_article5:
-    id: 169208
-    title: What are the political stakes of urbicide in the context of agonism and antagonism?
+related_article3:
+    id: 169211
+    title: >-
+        What are the political implications of house-burning in post-war Bosnia?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-political-stakes-of-urbicide-in-the-context-of-agonism-and-antagonism
+    url: /learn/sociology/questions/what-are-the-political-implications-of-houseburning-in-postwar-bosnia
+related_article4:
+    id: 169205
+    title: >-
+        What is the systematic nature of urbicide in the context of urban destruction?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-systematic-nature-of-urbicide-in-the-context-of-urban-destruction
 ---
 
 &nbsp;

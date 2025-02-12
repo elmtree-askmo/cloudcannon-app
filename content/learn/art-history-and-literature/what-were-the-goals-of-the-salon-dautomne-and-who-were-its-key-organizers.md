@@ -2,8 +2,10 @@
 _schema: default
 id: 165949
 date: 2025-01-29
-title: What were the goals of the Salon d’Automne, and who were its key organizers?
-article_title: What were the goals of the Salon d’Automne, and who were its key organizers?
+title: >-
+    What were the goals of the Salon d’Automne, and who were its key organizers?
+article_title: >-
+    What were the goals of the Salon d’Automne, and who were its key organizers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organi
 url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 score: 9.0
 related_article1:
-    id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
+    id: 165948
+    title: >-
+        How did the Salon des Independantes contribute to the promotion of diverse art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
+    url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
 related_article2:
-    id: 165951
-    title: What are the main characteristics and techniques associated with Impressionism?
+    id: 165950
+    title: >-
+        How did the Salon d’Automne support the development of Cubism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
+    url: /learn/art-history-and-literature/questions/how-did-the-salon-dautomne-support-the-development-of-cubism
 related_article3:
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+related_article4:
+    id: 165945
+    title: >-
+        Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
+related_article5:
     id: 165952
-    title: How did Claude Monet influence the Impressionist movement?
+    title: >-
+        How did Claude Monet influence the Impressionist movement?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
-related_article4:
-    id: 165955
-    title: What were the major 19th-century art movements, and how did they transition into 20th-century styles?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-major-19thcentury-art-movements-and-how-did-they-transition-into-20thcentury-styles
-related_article5:
-    id: 165947
-    title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
 ---
 
 &nbsp;

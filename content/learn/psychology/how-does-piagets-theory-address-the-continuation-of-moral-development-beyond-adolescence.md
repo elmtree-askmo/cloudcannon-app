@@ -2,8 +2,10 @@
 _schema: default
 id: 164161
 date: 2025-01-28
-title: How does Piaget's theory address the continuation of moral development beyond adolescence?
-article_title: How does Piaget's theory address the continuation of moral development beyond adolescence?
+title: >-
+    How does Piaget's theory address the continuation of moral development beyond adolescence?
+article_title: >-
+    How does Piaget's theory address the continuation of moral development beyond adolescence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-piagets-theory-address-the-continuation-of-moral-development
 url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
 score: -1.0
 related_article1:
-    id: 164156
-    title: What distinguishes the autonomous stage in Piaget's theory of moral development?
+    id: 164163
+    title: >-
+        What role do game rules play in Piaget's research on moral development?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
+    url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
 related_article2:
+    id: 164159
+    title: >-
+        What are some criticisms regarding Piaget's underestimation of young children's cognitive abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-criticisms-regarding-piagets-underestimation-of-young-childrens-cognitive-abilities
+related_article3:
     id: 164153
-    title: What are the similarities between understanding game rules and moral development?
+    title: >-
+        What are the similarities between understanding game rules and moral development?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-similarities-between-understanding-game-rules-and-moral-development
-related_article3:
-    id: 164152
-    title: How does cognitive development serve as a foundation for moral development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
 related_article4:
-    id: 164152
-    title: How does cognitive development serve as a foundation for moral development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
-related_article5:
     id: 164156
-    title: What distinguishes the autonomous stage in Piaget's theory of moral development?
+    title: >-
+        What distinguishes the autonomous stage in Piaget's theory of moral development?
     subject: Psychology
     url: /learn/psychology/questions/what-distinguishes-the-autonomous-stage-in-piagets-theory-of-moral-development
+related_article5:
+    id: 164152
+    title: >-
+        How does cognitive development serve as a foundation for moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
 ---
 
 &nbsp;

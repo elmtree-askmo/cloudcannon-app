@@ -2,8 +2,10 @@
 _schema: default
 id: 163627
 date: 2025-01-27
-title: How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
-article_title: How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+title: >-
+    How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
+article_title: >-
+    How do diplomatic tensions manifest in international relations through trade disputes and political alliances?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-diplomatic-tensions-manifest-in-international-relations-throug
 url: /learn/sociology/questions/how-do-diplomatic-tensions-manifest-in-international-relations-through-trade-disputes-and-political-alliances
 score: -1.0
 related_article1:
-    id: 163623
-    title: What are the main transportation challenges caused by travel disruptions, and how do they affect air travel and supply chains?
+    id: 163616
+    title: >-
+        How did colonialism lead to economic exploitation through resource extraction and labor systems?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-transportation-challenges-caused-by-travel-disruptions-and-how-do-they-affect-air-travel-and-supply-chains
+    url: /learn/sociology/questions/how-did-colonialism-lead-to-economic-exploitation-through-resource-extraction-and-labor-systems
 related_article2:
-    id: 163611
-    title: How does economic integration under globalization affect trade networks and financial systems?
+    id: 163613
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-economic-integration-under-globalization-affect-trade-networks-and-financial-systems
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
 related_article3:
-    id: 163628
-    title: What role do international organizations play in global cooperation and peacekeeping efforts?
+    id: 163617
+    title: >-
+        What is the core-periphery model in dependency theory, and how does it explain economic disparities and power dynamics?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-international-organizations-play-in-global-cooperation-and-peacekeeping-efforts
+    url: /learn/sociology/questions/what-is-the-coreperiphery-model-in-dependency-theory-and-how-does-it-explain-economic-disparities-and-power-dynamics
 related_article4:
-    id: 163624
-    title: How do travel disruptions economically impact tourism and business travel?
+    id: 163619
+    title: >-
+        What are the economic consequences of natural disasters, particularly in terms of infrastructure damage and recovery costs?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-travel-disruptions-economically-impact-tourism-and-business-travel
+    url: /learn/sociology/questions/what-are-the-economic-consequences-of-natural-disasters-particularly-in-terms-of-infrastructure-damage-and-recovery-costs
 related_article5:
-    id: 163614
-    title: How did the Industrial Revolution contribute to urbanization and shifts in labor?
+    id: 163613
+    title: >-
+        What were the key technological advancements during the Industrial Revolution, and how did they lead to mechanization and innovation?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-the-industrial-revolution-contribute-to-urbanization-and-shifts-in-labor
+    url: /learn/sociology/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-lead-to-mechanization-and-innovation
 ---
 
 &nbsp;

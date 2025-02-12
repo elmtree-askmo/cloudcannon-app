@@ -2,8 +2,10 @@
 _schema: default
 id: 161996
 date: 2025-01-24
-title: Explain the judicial process involved in issuing a search warrant.
-article_title: Explain the judicial process involved in issuing a search warrant.
+title: >-
+    Explain the judicial process involved in issuing a search warrant.
+article_title: >-
+    Explain the judicial process involved in issuing a search warrant.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-judicial-process-involved-in-issuing-a-search-warrant.md
 url: /learn/criminal-or-civil-law/questions/explain-the-judicial-process-involved-in-issuing-a-search-warrant
 score: -1.0
 related_article1:
-    id: 162010
-    title: What are the legal requirements for conducting searches under law enforcement powers?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
-related_article2:
-    id: 162009
-    title: Describe the legal standards for evidence collection by law enforcement.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
-related_article3:
-    id: 162012
-    title: What are the legal standards for a search incident to arrest?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-a-search-incident-to-arrest
-related_article4:
-    id: 161997
-    title: What is the legal framework governing search and seizure?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
-related_article5:
     id: 162000
-    title: Discuss the application of common law in modern investigative detention.
+    title: >-
+        Discuss the application of common law in modern investigative detention.
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
+related_article2:
+    id: 161997
+    title: >-
+        What is the legal framework governing search and seizure?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
+related_article3:
+    id: 162000
+    title: >-
+        Discuss the application of common law in modern investigative detention.
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
+related_article4:
+    id: 161999
+    title: >-
+        Define investigative detention and its legal standards.
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
+related_article5:
+    id: 162008
+    title: >-
+        What are Charter remedies and how do they apply in court interpretations?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
 ---
 
 &nbsp;

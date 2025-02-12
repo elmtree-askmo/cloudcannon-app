@@ -2,8 +2,10 @@
 _schema: default
 id: 169110
 date: 2025-02-04
-title: How did migration patterns affect gender inequality in Hong Kong's workforce?
-article_title: How did migration patterns affect gender inequality in Hong Kong's workforce?
+title: >-
+    How did migration patterns affect gender inequality in Hong Kong's workforce?
+article_title: >-
+    How did migration patterns affect gender inequality in Hong Kong's workforce?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-wor
 url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
 score: 9.0
 related_article1:
-    id: 169108
-    title: Name a few notable female architects and describe their contributions to the field.
+    id: 169120
+    title: >-
+        What contributions did women make to the economic development of postwar Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 related_article2:
-    id: 169106
-    title: What were some of the challenges faced by women in architecture during the early 20th century?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
-related_article3:
-    id: 169108
-    title: Name a few notable female architects and describe their contributions to the field.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
-related_article4:
     id: 169116
-    title: What are some challenges in the historical archiving of women's work in architecture?
+    title: >-
+        What are some challenges in the historical archiving of women's work in architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
-related_article5:
-    id: 169124
-    title: What contributions have women made to urban development and public housing?
+related_article3:
+    id: 169122
+    title: >-
+        What are some common stereotypes about women in architecture portrayed in media?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
+    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
+related_article4:
+    id: 169125
+    title: >-
+        How does feminist historiography aim to rewrite women's roles in architectural history?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
+related_article5:
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 ---
 
 &nbsp;

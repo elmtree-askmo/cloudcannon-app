@@ -2,8 +2,10 @@
 _schema: default
 id: 166023
 date: 2025-01-29
-title: Who were the Archons, and what was their function in Athenian political institutions?
-article_title: Who were the Archons, and what was their function in Athenian political institutions?
+title: >-
+    Who were the Archons, and what was their function in Athenian political institutions?
+article_title: >-
+    Who were the Archons, and what was their function in Athenian political institutions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-were-the-archons-and-what-was-their-function-in-athenian-politica
 url: /learn/history-of-the-world/questions/who-were-the-archons-and-what-was-their-function-in-athenian-political-institutions
 score: 9.0
 related_article1:
-    id: 166035
-    title: How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
+    id: 166025
+    title: >-
+        How did Solon's reforms impact the socioeconomic classes in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
+    url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
 related_article2:
+    id: 166017
+    title: >-
+        What was the historical significance of Athens as an urban center in ancient times?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
+related_article3:
+    id: 166026
+    title: >-
+        What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
+related_article4:
     id: 166031
-    title: How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
+    title: >-
+        How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-pseudoaristotle-contribute-to-our-understanding-of-the-athenian-constitution
-related_article3:
-    id: 166037
-    title: What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
-related_article4:
-    id: 166035
-    title: How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
 related_article5:
-    id: 166018
-    title: How did the geographical location of Athens contribute to its economic importance?
+    id: 166029
+    title: >-
+        What were the defining characteristics of oligarchic factions in ancient Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-geographical-location-of-athens-contribute-to-its-economic-importance
+    url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164728
 date: 2025-01-28
-title: What is the role of selective attention in visual search tasks?
-article_title: What is the role of selective attention in visual search tasks?
+title: >-
+    What is the role of selective attention in visual search tasks?
+article_title: >-
+    What is the role of selective attention in visual search tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-role-of-selective-attention-in-visual-search-tasks.md
 url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
 score: -1.0
 related_article1:
-    id: 164721
-    title: How do anterograde and retrograde amnesia differ in terms of memory loss?
+    id: 164740
+    title: >-
+        How are neuropsychological tests used in the assessment and diagnosis of cognitive impairment?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
+    url: /learn/psychology/questions/how-are-neuropsychological-tests-used-in-the-assessment-and-diagnosis-of-cognitive-impairment
 related_article2:
-    id: 164715
-    title: How is the N400 component related to semantic processing and contextual integration?
+    id: 164720
+    title: >-
+        What are the key symptoms and neuropathological features of Alzheimer's disease?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-the-n400-component-related-to-semantic-processing-and-contextual-integration
+    url: /learn/psychology/questions/what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease
 related_article3:
-    id: 164738
-    title: What are the common causes and effects of traumatic brain injury on cognitive function?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
-related_article4:
     id: 164726
-    title: How does the amygdala contribute to emotional processing in the brain?
+    title: >-
+        How does the amygdala contribute to emotional processing in the brain?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
+related_article4:
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
+related_article5:
+    id: 164716
+    title: >-
+        What are the primary language deficits associated with Broca's aphasia?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
 ---
 
 &nbsp;

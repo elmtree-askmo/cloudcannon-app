@@ -2,8 +2,10 @@
 _schema: default
 id: 161050
 date: 2025-01-24
-title: How do mechanical and control systems contribute to robot design?
-article_title: How do mechanical and control systems contribute to robot design?
+title: >-
+    How do mechanical and control systems contribute to robot design?
+article_title: >-
+    How do mechanical and control systems contribute to robot design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-mechanical-and-control-systems-contribute-to-robot-design.md
 url: /learn/computer-science/questions/how-do-mechanical-and-control-systems-contribute-to-robot-design
 score: -1.0
 related_article1:
-    id: 160715
-    title: What measures can be taken to enhance network security?
+    id: 161043
+    title: >-
+        How do rendering techniques impact computer graphics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
+    url: /learn/computer-science/questions/how-do-rendering-techniques-impact-computer-graphics
 related_article2:
-    id: 160700
-    title: How does abstraction help in simplifying complex computing problems?
+    id: 161039
+    title: >-
+        How is pattern recognition utilized in data mining?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/how-is-pattern-recognition-utilized-in-data-mining
 related_article3:
-    id: 160715
-    title: What measures can be taken to enhance network security?
+    id: 161044
+    title: >-
+        What is the role of simulation models in computer simulation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
+related_article4:
+    id: 161041
+    title: >-
+        What measures can be taken to enhance network security?
     subject: Computer Science
     url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
-related_article4:
-    id: 161034
-    title: How does abstraction help in simplifying complex computing problems?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
 related_article5:
-    id: 160905
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    id: 161046
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 ---

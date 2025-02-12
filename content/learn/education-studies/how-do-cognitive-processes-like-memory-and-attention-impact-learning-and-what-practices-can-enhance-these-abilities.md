@@ -2,8 +2,10 @@
 _schema: default
 id: 160071
 date: 2025-01-23
-title: How do cognitive processes like memory and attention impact learning, and what practices can enhance these abilities?
-article_title: How do cognitive processes like memory and attention impact learning, and what practices can enhance these abilities?
+title: >-
+    How do cognitive processes like memory and attention impact learning, and what practices can enhance these abilities?
+article_title: >-
+    How do cognitive processes like memory and attention impact learning, and what practices can enhance these abilities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-cognitive-processes-like-memory-and-attention-impact-learning-
 url: /learn/education-studies/questions/how-do-cognitive-processes-like-memory-and-attention-impact-learning-and-what-practices-can-enhance-these-abilities
 score: -1.0
 related_article1:
-    id: 160568
-    title: How can students prioritize tasks to improve their time management skills?
+    id: 160366
+    title: >-
+        What types of student support services are available, and how can students access them effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-prioritize-tasks-to-improve-their-time-management-skills
+    url: /learn/education-studies/questions/what-types-of-student-support-services-are-available-and-how-can-students-access-them-effectively
 related_article2:
-    id: 160576
-    title: How can setting reading goals improve a student's understanding of the material?
+    id: 160056
+    title: >-
+        What are the key elements of preparing for a presentation, and how can they help in delivering effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-reading-goals-improve-a-students-understanding-of-the-material
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-preparing-for-a-presentation-and-how-can-they-help-in-delivering-effectively
 related_article3:
-    id: 160137
-    title: How can setting reading goals and reflecting on content improve reading comprehension?
+    id: 159998
+    title: >-
+        What are the key components of effective time management, and how do they contribute to academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-improve-reading-comprehension
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-time-management-and-how-do-they-contribute-to-academic-success
 related_article4:
-    id: 159964
-    title: How can setting reading goals and reflecting on content enhance reading comprehension?
+    id: 160353
+    title: >-
+        What are the main learning theories, and how can they be applied to improve educational outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-enhance-reading-comprehension
+    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-improve-educational-outcomes
 related_article5:
-    id: 160072
-    title: What role does educational psychology play in understanding student behavior and enhancing learning environments?
+    id: 160290
+    title: >-
+        What role does educational psychology play in understanding student behavior and enhancing learning environments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
 ---

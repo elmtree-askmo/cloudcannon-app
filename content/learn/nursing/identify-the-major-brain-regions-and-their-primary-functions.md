@@ -2,8 +2,10 @@
 _schema: default
 id: 164742
 date: 2025-01-28
-title: Identify the major brain regions and their primary functions.
-article_title: Identify the major brain regions and their primary functions.
+title: >-
+    Identify the major brain regions and their primary functions.
+article_title: >-
+    Identify the major brain regions and their primary functions.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-the-major-brain-regions-and-their-primary-functions.md
 url: /learn/nursing/questions/identify-the-major-brain-regions-and-their-primary-functions
 score: -1.0
 related_article1:
-    id: 164733
-    title: How does the corpus callosum contribute to brain connectivity?
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 related_article2:
+    id: 164750
+    title: >-
+        Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article3:
     id: 164733
-    title: How does the corpus callosum contribute to brain connectivity?
+    title: >-
+        How does the corpus callosum contribute to brain connectivity?
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-corpus-callosum-contribute-to-brain-connectivity
-related_article3:
-    id: 164723
-    title: How do superior and inferior directional terms apply in clinical settings?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
 related_article4:
-    id: 164734
-    title: What are Broadman's areas and how do they correlate with brain functions?
+    id: 164725
+    title: >-
+        Explain the anatomical context of rostral and caudal directional terms.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-broadmans-areas-and-how-do-they-correlate-with-brain-functions
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
 related_article5:
-    id: 164723
-    title: How do superior and inferior directional terms apply in clinical settings?
+    id: 164745
+    title: >-
+        What are the different types of neurons and their roles in neural architecture?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
+    url: /learn/nursing/questions/what-are-the-different-types-of-neurons-and-their-roles-in-neural-architecture
 ---
 
 &nbsp;

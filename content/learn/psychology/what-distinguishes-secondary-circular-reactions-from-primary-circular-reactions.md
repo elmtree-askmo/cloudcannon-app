@@ -2,8 +2,10 @@
 _schema: default
 id: 168096
 date: 2025-02-02
-title: What distinguishes secondary circular reactions from primary circular reactions?
-article_title: What distinguishes secondary circular reactions from primary circular reactions?
+title: >-
+    What distinguishes secondary circular reactions from primary circular reactions?
+article_title: >-
+    What distinguishes secondary circular reactions from primary circular reactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-secondary-circular-reactions-from-primary-circular
 url: /learn/psychology/questions/what-distinguishes-secondary-circular-reactions-from-primary-circular-reactions
 score: -1.0
 related_article1:
-    id: 168098
-    title: Explain the coordination of secondary circular reactions and provide an example.
+    id: 168100
+    title: >-
+        Define internalization of schemas and give an example.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-coordination-of-secondary-circular-reactions-and-provide-an-example
+    url: /learn/psychology/questions/define-internalization-of-schemas-and-give-an-example
 related_article2:
-    id: 168094
-    title: What are primary circular reactions, and at what age do they typically occur?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-primary-circular-reactions-and-at-what-age-do-they-typically-occur
-related_article3:
-    id: 168102
-    title: At what age do children typically develop object permanence?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
-related_article4:
-    id: 168097
-    title: At what age do secondary circular reactions typically develop?
-    subject: Psychology
-    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
-related_article5:
     id: 168107
-    title: Explain how exploration and learning through actions interact with the environment.
+    title: >-
+        Explain how exploration and learning through actions interact with the environment.
     subject: Psychology
     url: /learn/psychology/questions/explain-how-exploration-and-learning-through-actions-interact-with-the-environment
+related_article3:
+    id: 168097
+    title: >-
+        At what age do secondary circular reactions typically develop?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-secondary-circular-reactions-typically-develop
+related_article4:
+    id: 168102
+    title: >-
+        At what age do children typically develop object permanence?
+    subject: Psychology
+    url: /learn/psychology/questions/at-what-age-do-children-typically-develop-object-permanence
+related_article5:
+    id: 168092
+    title: >-
+        What is the age range for the sensorimotor stage in cognitive development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-age-range-for-the-sensorimotor-stage-in-cognitive-development
 ---
 
 &nbsp;

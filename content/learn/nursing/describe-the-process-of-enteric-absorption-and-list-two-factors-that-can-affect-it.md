@@ -2,8 +2,10 @@
 _schema: default
 id: 166424
 date: 2025-01-30
-title: Describe the process of enteric absorption and list two factors that can affect it.
-article_title: Describe the process of enteric absorption and list two factors that can affect it.
+title: >-
+    Describe the process of enteric absorption and list two factors that can affect it.
+article_title: >-
+    Describe the process of enteric absorption and list two factors that can affect it.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-enteric-absorption-and-list-two-factors-that-
 url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
 score: -1.0
 related_article1:
-    id: 166428
-    title: Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
+    id: 166437
+    title: >-
+        What are the types of drug interactions, and what are their clinical implications?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
+    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
 related_article2:
-    id: 166426
-    title: Define bioavailability and identify two factors that influence it.
+    id: 166438
+    title: >-
+        What is a black box warning, and what is its purpose in pharmacology?
     subject: Nursing
-    url: /learn/nursing/questions/define-bioavailability-and-identify-two-factors-that-influence-it
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
 related_article3:
-    id: 166423
-    title: What is the definition of 'onset of action' in pharmacology, and why is it important?
+    id: 166434
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
 related_article4:
-    id: 166436
-    title: List the routes of drug excretion and discuss one factor that affects excretion.
+    id: 166435
+    title: >-
+        Define dissolution and explain its importance in drug absorption.
     subject: Nursing
-    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
+    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
 related_article5:
-    id: 166432
-    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    id: 166435
+    title: >-
+        Define dissolution and explain its importance in drug absorption.
     subject: Nursing
-    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+    url: /learn/nursing/questions/define-dissolution-and-explain-its-importance-in-drug-absorption
 ---
 
 &nbsp;

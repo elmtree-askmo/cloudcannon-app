@@ -2,8 +2,10 @@
 _schema: default
 id: 165484
 date: 2025-01-29
-title: What are effective methods for testing and evaluating the practical use of information?
-article_title: What are effective methods for testing and evaluating the practical use of information?
+title: >-
+    What are effective methods for testing and evaluating the practical use of information?
+article_title: >-
+    What are effective methods for testing and evaluating the practical use of information?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-effective-methods-for-testing-and-evaluating-the-practical-u
 url: /learn/education-studies/questions/what-are-effective-methods-for-testing-and-evaluating-the-practical-use-of-information
 score: -1.0
 related_article1:
-    id: 165477
-    title: What are critical questions for learning and how do they apply to the learning framework?
+    id: 165498
+    title: >-
+        How can learning outcomes be effectively measured and improved?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-critical-questions-for-learning-and-how-do-they-apply-to-the-learning-framework
+    url: /learn/education-studies/questions/how-can-learning-outcomes-be-effectively-measured-and-improved
 related_article2:
-    id: 165503
-    title: How can technology be leveraged to improve learning experiences?
+    id: 165476
+    title: >-
+        How does the spectrum of understanding relate to higher order learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-leveraged-to-improve-learning-experiences
+    url: /learn/education-studies/questions/how-does-the-spectrum-of-understanding-relate-to-higher-order-learning
 related_article3:
-    id: 165503
-    title: How can technology be leveraged to improve learning experiences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-leveraged-to-improve-learning-experiences
-related_article4:
-    id: 165491
-    title: What strategies can be used to connect new knowledge with existing knowledge?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-connect-new-knowledge-with-existing-knowledge
-related_article5:
     id: 165480
-    title: What is the significance of conceptual relationships in understanding concepts?
+    title: >-
+        What is the significance of conceptual relationships in understanding concepts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-conceptual-relationships-in-understanding-concepts
+related_article4:
+    id: 165496
+    title: >-
+        Why is it important to ask questions in the learning process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-to-ask-questions-in-the-learning-process
+related_article5:
+    id: 165497
+    title: >-
+        What types of questions can enhance learning and encourage curiosity?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-questions-can-enhance-learning-and-encourage-curiosity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168142
 date: 2025-02-02
-title: Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
-article_title: Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
+title: >-
+    Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
+article_title: >-
+    Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: why-is-context-important-in-the-interpretation-of-historical-events-a
 url: /learn/education-studies/questions/why-is-context-important-in-the-interpretation-of-historical-events-and-how-do-historians-evaluate-evidence-within-this-context
 score: -1.0
 related_article1:
-    id: 168147
-    title: What methods are used in the analysis of historical documents, and how do historians evaluate the credibility of historical claims?
+    id: 168146
+    title: >-
+        What role do material conditions play in shaping historical narratives, and how do they influence historical events?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-in-the-analysis-of-historical-documents-and-how-do-historians-evaluate-the-credibility-of-historical-claims
+    url: /learn/education-studies/questions/what-role-do-material-conditions-play-in-shaping-historical-narratives-and-how-do-they-influence-historical-events
 related_article2:
-    id: 168144
-    title: In what ways has technology impacted the preservation and accessibility of historical sources, and how does it influence the methods of documentation?
+    id: 168145
+    title: >-
+        How can bias in historical documents be identified, and what strategies can historians use to address it in their studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-has-technology-impacted-the-preservation-and-accessibility-of-historical-sources-and-how-does-it-influence-the-methods-of-documentation
+    url: /learn/education-studies/questions/how-can-bias-in-historical-documents-be-identified-and-what-strategies-can-historians-use-to-address-it-in-their-studies
 related_article3:
     id: 168139
-    title: What are the key characteristics that differentiate primary sources from secondary sources in historical research?
+    title: >-
+        What are the key characteristics that differentiate primary sources from secondary sources in historical research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-characteristics-that-differentiate-primary-sources-from-secondary-sources-in-historical-research
-related_article4:
-    id: 168147
-    title: What methods are used in the analysis of historical documents, and how do historians evaluate the credibility of historical claims?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-in-the-analysis-of-historical-documents-and-how-do-historians-evaluate-the-credibility-of-historical-claims
-related_article5:
-    id: 168138
-    title: What is the distinction between an event and historical knowledge, and how do historians act as storytellers in constructing narratives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-distinction-between-an-event-and-historical-knowledge-and-how-do-historians-act-as-storytellers-in-constructing-narratives
 ---
 
 &nbsp;

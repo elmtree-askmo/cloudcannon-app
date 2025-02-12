@@ -2,8 +2,10 @@
 _schema: default
 id: 165857
 date: 2025-01-29
-title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
-article_title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
+title: >-
+    What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
+article_title: >-
+    What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-susceptible-and-resistant-host-m
 url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
 score: -1.0
 related_article1:
-    id: 165877
-    title: What is the role of the NF Kappa B pathway in the inflammatory response?
+    id: 165878
+    title: >-
+        How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
+    url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
 related_article2:
     id: 165877
-    title: What is the role of the NF Kappa B pathway in the inflammatory response?
+    title: >-
+        What is the role of the NF Kappa B pathway in the inflammatory response?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
 related_article3:
-    id: 165865
-    title: What is the role of Toll-Like Receptors in the activation of innate immunity?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article4:
-    id: 165871
-    title: What is the role of MHC Class II molecules in antigen presentation and adaptive immunity?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-mhc-class-ii-molecules-in-antigen-presentation-and-adaptive-immunity
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article5:
-    id: 165868
-    title: How do B cells and T cells differ in their roles within the immune system?
+    id: 165867
+    title: >-
+        What is the significance of the membrane attack complex in the complement system?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-cells-and-t-cells-differ-in-their-roles-within-the-immune-system
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-membrane-attack-complex-in-the-complement-system
 ---
 
 &nbsp;

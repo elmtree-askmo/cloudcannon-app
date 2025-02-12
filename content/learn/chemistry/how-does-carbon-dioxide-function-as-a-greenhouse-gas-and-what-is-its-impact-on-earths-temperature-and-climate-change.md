@@ -2,8 +2,10 @@
 _schema: default
 id: 170399
 date: 2025-02-06
-title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
-article_title: How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+title: >-
+    How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
+article_title: >-
+    How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse
 score: -1.0
 related_article1:
     id: 170413
-    title: What are the sources of atmospheric carbon, and how do they impact climate?
+    title: >-
+        What are the sources of atmospheric carbon, and how do they impact climate?
     subject: Chemistry
     url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
 related_article2:
-    id: 170402
-    title: Why is maintaining a balance of carbon important for ecosystem stability, and what are the impacts of an imbalance?
+    id: 170395
+    title: >-
+        Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-maintaining-a-balance-of-carbon-important-for-ecosystem-stability-and-what-are-the-impacts-of-an-imbalance
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 related_article3:
-    id: 170417
-    title: What role does renewable energy play in reducing carbon emissions, and what are the challenges and opportunities in transitioning to renewable sources?
+    id: 170405
+    title: >-
+        How does cellular respiration differ from breathing and gas exchange in terms of oxygen intake and carbon dioxide expulsion?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-does-renewable-energy-play-in-reducing-carbon-emissions-and-what-are-the-challenges-and-opportunities-in-transitioning-to-renewable-sources
+    url: /learn/chemistry/questions/how-does-cellular-respiration-differ-from-breathing-and-gas-exchange-in-terms-of-oxygen-intake-and-carbon-dioxide-expulsion
 related_article4:
-    id: 170419
-    title: Why is soil carbon important in the carbon cycle, and what management practices can enhance soil carbon storage?
+    id: 170420
+    title: >-
+        Explain the role of the marine carbon cycle in oceanic carbon storage and the impact of climate change on marine ecosystems.
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-soil-carbon-important-in-the-carbon-cycle-and-what-management-practices-can-enhance-soil-carbon-storage
+    url: /learn/chemistry/questions/explain-the-role-of-the-marine-carbon-cycle-in-oceanic-carbon-storage-and-the-impact-of-climate-change-on-marine-ecosystems
 related_article5:
-    id: 170397
-    title: Explain the role of carbon dioxide in photosynthesis and respiration within the carbon cycle.
+    id: 170414
+    title: >-
+        What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-carbon-dioxide-in-photosynthesis-and-respiration-within-the-carbon-cycle
+    url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
 ---
 
 &nbsp;

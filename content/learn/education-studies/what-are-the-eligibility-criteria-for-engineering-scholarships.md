@@ -2,8 +2,10 @@
 _schema: default
 id: 166710
 date: 2025-01-31
-title: What are the eligibility criteria for engineering scholarships?
-article_title: What are the eligibility criteria for engineering scholarships?
+title: >-
+    What are the eligibility criteria for engineering scholarships?
+article_title: >-
+    What are the eligibility criteria for engineering scholarships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-eligibility-criteria-for-engineering-scholarships.md
 url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
 score: -1.0
 related_article1:
-    id: 166701
-    title: Explain the concept of torque and its importance in engineering.
+    id: 166695
+    title: >-
+        How are position vectors used in 3D vector analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
+    url: /learn/education-studies/questions/how-are-position-vectors-used-in-3d-vector-analysis
 related_article2:
-    id: 166700
-    title: What is the relationship between force and distance in the context of moment of force?
+    id: 166697
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+    url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
 related_article3:
-    id: 166708
-    title: What are the requirements for obtaining a certification for consulting in engineering?
+    id: 166714
+    title: >-
+        What are the current job market trends for consulting opportunities in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
+    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
 related_article4:
-    id: 166693
-    title: How does the right-hand rule help determine the direction of a vector cross product?
+    id: 166719
+    title: >-
+        How do engineering organizations support networking and professional development?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
+    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 related_article5:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
+    id: 166715
+    title: >-
+        What skills and qualifications are typically required for consulting roles in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170266
 date: 2025-02-06
-title: How did Neo-Impressionism influence modern art movements?
-article_title: How did Neo-Impressionism influence modern art movements?
+title: >-
+    How did Neo-Impressionism influence modern art movements?
+article_title: >-
+    How did Neo-Impressionism influence modern art movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-neoimpressionism-influence-modern-art-movements.md
 url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-influence-modern-art-movements
 score: 9.0
 related_article1:
+    id: 170260
+    title: >-
+        How did Georges Seurat contribute to the development of Neo-Impressionism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-georges-seurat-contribute-to-the-development-of-neoimpressionism
+related_article2:
+    id: 170261
+    title: >-
+        What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
+related_article3:
     id: 170262
-    title: How did scientific techniques influence the color theory used in Neo-Impressionism?
+    title: >-
+        How did scientific techniques influence the color theory used in Neo-Impressionism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-scientific-techniques-influence-the-color-theory-used-in-neoimpressionism
-related_article2:
-    id: 170269
-    title: What were the key artistic techniques used by Georges Seurat in his paintings?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-artistic-techniques-used-by-georges-seurat-in-his-paintings
-related_article3:
-    id: 170271
-    title: What themes did Paul Signac explore in his works, and how did his style evolve over time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-themes-did-paul-signac-explore-in-his-works-and-how-did-his-style-evolve-over-time
 related_article4:
-    id: 170269
-    title: What were the key artistic techniques used by Georges Seurat in his paintings?
+    id: 170273
+    title: >-
+        What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-artistic-techniques-used-by-georges-seurat-in-his-paintings
+    url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
 related_article5:
     id: 170260
-    title: How did Georges Seurat contribute to the development of Neo-Impressionism?
+    title: >-
+        How did Georges Seurat contribute to the development of Neo-Impressionism?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-georges-seurat-contribute-to-the-development-of-neoimpressionism
 ---

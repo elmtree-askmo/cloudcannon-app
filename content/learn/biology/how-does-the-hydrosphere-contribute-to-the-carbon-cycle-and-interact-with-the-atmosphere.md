@@ -2,8 +2,10 @@
 _schema: default
 id: 170332
 date: 2025-02-06
-title: How does the hydrosphere contribute to the carbon cycle and interact with the atmosphere?
-article_title: How does the hydrosphere contribute to the carbon cycle and interact with the atmosphere?
+title: >-
+    How does the hydrosphere contribute to the carbon cycle and interact with the atmosphere?
+article_title: >-
+    How does the hydrosphere contribute to the carbon cycle and interact with the atmosphere?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-the-hydrosphere-contribute-to-the-carbon-cycle-and-interact-
 url: /learn/biology/questions/how-does-the-hydrosphere-contribute-to-the-carbon-cycle-and-interact-with-the-atmosphere
 score: -1.0
 related_article1:
-    id: 170336
-    title: How does biomass interact with decomposition in the carbon cycle?
-    subject: Biology
-    url: /learn/biology/questions/how-does-biomass-interact-with-decomposition-in-the-carbon-cycle
-related_article2:
     id: 170328
-    title: How do carbon sinks and sources impact climate change?
+    title: >-
+        How do carbon sinks and sources impact climate change?
     subject: Biology
     url: /learn/biology/questions/how-do-carbon-sinks-and-sources-impact-climate-change
+related_article2:
+    id: 170337
+    title: >-
+        What is marine snow, and what role does it play in marine ecosystems and the carbon cycle?
+    subject: Biology
+    url: /learn/biology/questions/what-is-marine-snow-and-what-role-does-it-play-in-marine-ecosystems-and-the-carbon-cycle
 related_article3:
-    id: 170329
-    title: What is the chemical equation for photosynthesis, and what role does chlorophyll play in this process?
+    id: 170338
+    title: >-
+        How do plankton contribute to the food chain and the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-chemical-equation-for-photosynthesis-and-what-role-does-chlorophyll-play-in-this-process
+    url: /learn/biology/questions/how-do-plankton-contribute-to-the-food-chain-and-the-carbon-cycle
 related_article4:
-    id: 170339
-    title: What is the role of nitrogen in the atmosphere, and how does it interact with the carbon cycle?
+    id: 170333
+    title: >-
+        What components make up the biosphere, and how does it interact with other spheres in the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-nitrogen-in-the-atmosphere-and-how-does-it-interact-with-the-carbon-cycle
+    url: /learn/biology/questions/what-components-make-up-the-biosphere-and-how-does-it-interact-with-other-spheres-in-the-carbon-cycle
 related_article5:
     id: 170343
-    title: How do keystone species influence ecosystem dynamics and the carbon cycle?
+    title: >-
+        How do keystone species influence ecosystem dynamics and the carbon cycle?
     subject: Biology
     url: /learn/biology/questions/how-do-keystone-species-influence-ecosystem-dynamics-and-the-carbon-cycle
 ---

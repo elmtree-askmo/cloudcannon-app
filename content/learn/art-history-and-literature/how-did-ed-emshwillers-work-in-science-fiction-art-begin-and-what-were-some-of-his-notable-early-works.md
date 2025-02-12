@@ -2,8 +2,10 @@
 _schema: default
 id: 170129
 date: 2025-02-05
-title: How did Ed Emshwiller's work in science fiction art begin, and what were some of his notable early works?
-article_title: How did Ed Emshwiller's work in science fiction art begin, and what were some of his notable early works?
+title: >-
+    How did Ed Emshwiller's work in science fiction art begin, and what were some of his notable early works?
+article_title: >-
+    How did Ed Emshwiller's work in science fiction art begin, and what were some of his notable early works?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/how-did-ed-emshwillers-work-in-
 score: 8.5
 related_article1:
     id: 170130
-    title: In what ways did surrealism influence Ed Emshwiller's cover art, and how does it compare to other artists of the time?
+    title: >-
+        In what ways did surrealism influence Ed Emshwiller's cover art, and how does it compare to other artists of the time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-surrealism-influence-ed-emshwillers-cover-art-and-how-does-it-compare-to-other-artists-of-the-time
 related_article2:
-    id: 170130
-    title: In what ways did surrealism influence Ed Emshwiller's cover art, and how does it compare to other artists of the time?
+    id: 170136
+    title: >-
+        What contributions did Ed Emshwiller make to cinema and video art, and what are some notable works in experimental film?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-surrealism-influence-ed-emshwillers-cover-art-and-how-does-it-compare-to-other-artists-of-the-time
+    url: /learn/art-history-and-literature/questions/what-contributions-did-ed-emshwiller-make-to-cinema-and-video-art-and-what-are-some-notable-works-in-experimental-film
 related_article3:
     id: 170131
-    title: How did Ed Emshwiller incorporate modernist techniques into his art, and what role did dynamic contrasts play in his work?
+    title: >-
+        How did Ed Emshwiller incorporate modernist techniques into his art, and what role did dynamic contrasts play in his work?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-ed-emshwiller-incorporate-modernist-techniques-into-his-art-and-what-role-did-dynamic-contrasts-play-in-his-work
 related_article4:
-    id: 170135
-    title: How did the style and technique of science fiction illustration evolve over time, and what influence did Ed Emshwiller have on contemporary artists?
+    id: 170137
+    title: >-
+        How has Ed Emshwiller's work been recognized and collected, and what influence has he had on future generations of artists?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-style-and-technique-of-science-fiction-illustration-evolve-over-time-and-what-influence-did-ed-emshwiller-have-on-contemporary-artists
+    url: /learn/art-history-and-literature/questions/how-has-ed-emshwillers-work-been-recognized-and-collected-and-what-influence-has-he-had-on-future-generations-of-artists
 related_article5:
-    id: 170128
-    title: What were the key influences in Ed Emshwiller's early life that shaped his artistic journey?
+    id: 170136
+    title: >-
+        What contributions did Ed Emshwiller make to cinema and video art, and what are some notable works in experimental film?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-influences-in-ed-emshwillers-early-life-that-shaped-his-artistic-journey
+    url: /learn/art-history-and-literature/questions/what-contributions-did-ed-emshwiller-make-to-cinema-and-video-art-and-what-are-some-notable-works-in-experimental-film
 ---
 
 &nbsp;

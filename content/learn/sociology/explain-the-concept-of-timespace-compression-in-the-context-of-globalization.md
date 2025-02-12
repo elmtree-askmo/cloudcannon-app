@@ -2,8 +2,10 @@
 _schema: default
 id: 160541
 date: 2025-01-24
-title: Explain the concept of time-space compression in the context of globalization.
-article_title: Explain the concept of time-space compression in the context of globalization.
+title: >-
+    Explain the concept of time-space compression in the context of globalization.
+article_title: >-
+    Explain the concept of time-space compression in the context of globalization.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-timespace-compression-in-the-context-of-global
 url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-in-the-context-of-globalization
 score: -1.0
 related_article1:
-    id: 160644
-    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    id: 160080
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
 related_article2:
-    id: 160641
-    title: How do trade relations and global supply chains contribute to global economic networks?
+    id: 160504
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article3:
-    id: 160082
-    title: What are the physical and human systems that contribute to regional disparities in geographic settings?
+    id: 160095
+    title: >-
+        What are the differences between qualitative and quantitative research methodologies in research skills?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
+    url: /learn/sociology/questions/what-are-the-differences-between-qualitative-and-quantitative-research-methodologies-in-research-skills
 related_article4:
-    id: 160222
-    title: What role do community dynamics and social inequality play in shaping social structures?
+    id: 160619
+    title: >-
+        What are the key concepts in human geography that explain dynamic relations and spatial organization?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-community-dynamics-and-social-inequality-play-in-shaping-social-structures
+    url: /learn/sociology/questions/what-are-the-key-concepts-in-human-geography-that-explain-dynamic-relations-and-spatial-organization
 related_article5:
-    id: 160629
-    title: How has the COVID-19 pandemic influenced global political events and vaccine nationalism?
+    id: 160638
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-and-vaccine-nationalism
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 ---
 
 &nbsp;

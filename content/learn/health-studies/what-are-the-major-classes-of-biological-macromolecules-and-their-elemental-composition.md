@@ -2,8 +2,10 @@
 _schema: default
 id: 167228
 date: 2025-01-31
-title: What are the major classes of biological macromolecules and their elemental composition?
-article_title: What are the major classes of biological macromolecules and their elemental composition?
+title: >-
+    What are the major classes of biological macromolecules and their elemental composition?
+article_title: >-
+    What are the major classes of biological macromolecules and their elemental composition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-major-classes-of-biological-macromolecules-and-their-ele
 url: /learn/health-studies/questions/what-are-the-major-classes-of-biological-macromolecules-and-their-elemental-composition
 score: -1.0
 related_article1:
-    id: 167217
-    title: Describe the amphipathic nature of phospholipids and its significance in membrane formation.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
-related_article2:
-    id: 167230
-    title: What role do beta glycosidic linkages play in the structure of cellulose?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structure-of-cellulose
-related_article3:
-    id: 167229
-    title: How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
-related_article4:
-    id: 167223
-    title: What are the major classes of lipids and their general characteristics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-classes-of-lipids-and-their-general-characteristics
-related_article5:
     id: 167215
-    title: What is the role of the glycerol backbone in triglyceride structure?
+    title: >-
+        What is the role of the glycerol backbone in triglyceride structure?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-role-of-the-glycerol-backbone-in-triglyceride-structure
+related_article2:
+    id: 167220
+    title: >-
+        How do steroids function as signaling molecules in the body?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-steroids-function-as-signaling-molecules-in-the-body
+related_article3:
+    id: 167231
+    title: >-
+        How does the unique shape of an enzyme's active site contribute to its catalytic efficiency?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-unique-shape-of-an-enzymes-active-site-contribute-to-its-catalytic-efficiency
+related_article4:
+    id: 167217
+    title: >-
+        Describe the amphipathic nature of phospholipids and its significance in membrane formation.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
+related_article5:
+    id: 167229
+    title: >-
+        How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
 ---
 
 &nbsp;

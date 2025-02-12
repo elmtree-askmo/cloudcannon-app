@@ -99,20 +99,25 @@ export default function TopQuestion({ page, subject, subjectTitle, question, lan
 }
 
 export async function getStaticPaths() {
-  let subjects = await filer.listItemSlugs('/learn');
-  subjects = subjects.filter(file => !file.includes('.DS_Store'));
+  // let subjects = await filer.listItemSlugs('/learn');
+  // subjects = subjects.filter(file => !file.includes('.DS_Store'));
 
   const paths = [];
-  for (let subject of subjects) {
-    const folderPath = `learn/${subject}`;
+  for (let subject of TOP_QUESTIONS_SUBJECTS) {
+    const folderPath = `learn/${subject.key}`;
     const files = await filer.listItemSlugs(folderPath);
+    if (!files) {
+      return {
+        notFound: true,
+      };
+    }
     const filteredFiles = files.filter(file => !file.includes('.DS_Store'));
 
     filteredFiles.forEach(file => {
       const question = file.replace('.md', '');
 
       paths.push({
-        params: { subject, question },
+        params: { subject: subject.key, question },
       });
     });
   }

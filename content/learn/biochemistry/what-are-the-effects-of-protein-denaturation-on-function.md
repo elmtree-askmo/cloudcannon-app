@@ -2,8 +2,10 @@
 _schema: default
 id: 167244
 date: 2025-01-31
-title: What are the effects of protein denaturation on function?
-article_title: What are the effects of protein denaturation on function?
+title: >-
+    What are the effects of protein denaturation on function?
+article_title: >-
+    What are the effects of protein denaturation on function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-protein-denaturation-on-function.md
 url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
 score: -1.0
 related_article1:
-    id: 167247
-    title: How do R-group properties affect protein solubility?
+    id: 167245
+    title: >-
+        What is the role of heat shock proteins in protein folding?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
+    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
 related_article2:
-    id: 167232
-    title: What are the primary functions of proteins in cells?
+    id: 167240
+    title: >-
+        How does the variability of R-groups affect protein structure?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
+    url: /learn/biochemistry/questions/how-does-the-variability-of-rgroups-affect-protein-structure
 related_article3:
+    id: 167245
+    title: >-
+        What is the role of heat shock proteins in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
+related_article4:
     id: 167238
-    title: What is the significance of quaternary structure in proteins?
+    title: >-
+        What is the significance of quaternary structure in proteins?
     subject: Biochemistry
     url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
-related_article4:
+related_article5:
     id: 167232
-    title: What are the primary functions of proteins in cells?
+    title: >-
+        What are the primary functions of proteins in cells?
     subject: Biochemistry
     url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
-related_article5:
-    id: 167248
-    title: What are the common structural features of amino acids?
-    subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-common-structural-features-of-amino-acids
 ---
 
 &nbsp;

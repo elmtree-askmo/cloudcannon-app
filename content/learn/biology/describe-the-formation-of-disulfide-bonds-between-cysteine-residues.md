@@ -2,8 +2,10 @@
 _schema: default
 id: 165344
 date: 2025-01-29
-title: Describe the formation of disulfide bonds between cysteine residues.
-article_title: Describe the formation of disulfide bonds between cysteine residues.
+title: >-
+    Describe the formation of disulfide bonds between cysteine residues.
+article_title: >-
+    Describe the formation of disulfide bonds between cysteine residues.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: describe-the-formation-of-disulfide-bonds-between-cysteine-residues.m
 url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
 score: -1.0
 related_article1:
-    id: 165341
-    title: How do multimeric proteins differ in their quaternary structure compared to single polypeptide chains?
+    id: 165338
+    title: >-
+        What is the significance of the unique sequence of amino acids in the primary structure of proteins?
     subject: Biology
-    url: /learn/biology/questions/how-do-multimeric-proteins-differ-in-their-quaternary-structure-compared-to-single-polypeptide-chains
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
 related_article2:
-    id: 165349
-    title: Why are proteins considered an important class of biomolecules?
+    id: 165336
+    title: >-
+        Describe the process of peptide bond formation through dehydration reactions.
     subject: Biology
-    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+    url: /learn/biology/questions/describe-the-process-of-peptide-bond-formation-through-dehydration-reactions
 related_article3:
-    id: 165349
-    title: Why are proteins considered an important class of biomolecules?
+    id: 165339
+    title: >-
+        Explain the role of hydrogen bonds in the formation of alpha helices and beta pleated sheets in secondary protein structure.
     subject: Biology
-    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+    url: /learn/biology/questions/explain-the-role-of-hydrogen-bonds-in-the-formation-of-alpha-helices-and-beta-pleated-sheets-in-secondary-protein-structure
 related_article4:
-    id: 165349
-    title: Why are proteins considered an important class of biomolecules?
+    id: 165334
+    title: >-
+        What are the key properties of amino acids that affect their interaction with water?
     subject: Biology
-    url: /learn/biology/questions/why-are-proteins-considered-an-important-class-of-biomolecules
+    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
 related_article5:
     id: 165334
-    title: What are the key properties of amino acids that affect their interaction with water?
+    title: >-
+        What are the key properties of amino acids that affect their interaction with water?
     subject: Biology
     url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168460
 date: 2025-02-03
-title: How do personal traits influence career choice?
-article_title: How do personal traits influence career choice?
+title: >-
+    How do personal traits influence career choice?
+article_title: >-
+    How do personal traits influence career choice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-personal-traits-influence-career-choice.md
 url: /learn/education-studies/questions/how-do-personal-traits-influence-career-choice
 score: -1.0
 related_article1:
-    id: 168466
-    title: Why is creativity important in certain careers?
+    id: 168454
+    title: >-
+        What are values and how do they influence career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-creativity-important-in-certain-careers
+    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
 related_article2:
-    id: 168465
-    title: How do interpersonal skills contribute to career success?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-interpersonal-skills-contribute-to-career-success
-related_article3:
-    id: 168458
-    title: How can the Skills Matcher Tool assist in self-assessment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-skills-matcher-tool-assist-in-selfassessment
-related_article4:
-    id: 168462
-    title: How can aligning skills and values with careers benefit career planning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-aligning-skills-and-values-with-careers-benefit-career-planning
-related_article5:
     id: 168464
-    title: What are the general categories of skills and why are they important?
+    title: >-
+        What are the general categories of skills and why are they important?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-general-categories-of-skills-and-why-are-they-important
+related_article3:
+    id: 168461
+    title: >-
+        What traits are commonly suited for specific careers?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
+related_article4:
+    id: 168466
+    title: >-
+        Why is creativity important in certain careers?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-creativity-important-in-certain-careers
+related_article5:
+    id: 168457
+    title: >-
+        What are subject-specific skills and how do they differ from general skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-subjectspecific-skills-and-how-do-they-differ-from-general-skills
 ---
 
 &nbsp;

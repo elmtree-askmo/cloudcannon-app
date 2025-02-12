@@ -2,8 +2,10 @@
 _schema: default
 id: 161952
 date: 2025-01-24
-title: What are the potential criminal charges and civil liabilities associated with criminal negligence?
-article_title: What are the potential criminal charges and civil liabilities associated with criminal negligence?
+title: >-
+    What are the potential criminal charges and civil liabilities associated with criminal negligence?
+article_title: >-
+    What are the potential criminal charges and civil liabilities associated with criminal negligence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-potential-criminal-charges-and-civil-liabilities-associa
 url: /learn/criminal-or-civil-law/questions/what-are-the-potential-criminal-charges-and-civil-liabilities-associated-with-criminal-negligence
 score: -1.0
 related_article1:
+    id: 161956
+    title: >-
+        What challenges do law enforcement face during high-speed pursuits, and what technological interventions are available to mitigate these challenges?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-challenges-do-law-enforcement-face-during-highspeed-pursuits-and-what-technological-interventions-are-available-to-mitigate-these-challenges
+related_article2:
+    id: 161956
+    title: >-
+        What challenges do law enforcement face during high-speed pursuits, and what technological interventions are available to mitigate these challenges?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-challenges-do-law-enforcement-face-during-highspeed-pursuits-and-what-technological-interventions-are-available-to-mitigate-these-challenges
+related_article3:
     id: 161954
-    title: What criteria must be met for the initiation and termination of police pursuits according to standard protocols?
+    title: >-
+        What criteria must be met for the initiation and termination of police pursuits according to standard protocols?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-criteria-must-be-met-for-the-initiation-and-termination-of-police-pursuits-according-to-standard-protocols
-related_article2:
-    id: 161953
-    title: What are the legal justifications for police pursuits, and how is risk assessed before initiating a pursuit?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-justifications-for-police-pursuits-and-how-is-risk-assessed-before-initiating-a-pursuit
-related_article3:
-    id: 161959
-    title: What environmental conditions and suspect behaviors can influence the dynamics of police pursuits?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-environmental-conditions-and-suspect-behaviors-can-influence-the-dynamics-of-police-pursuits
 related_article4:
-    id: 161963
-    title: What are the initial steps in emergency response procedures, and how is coordination with other agencies achieved?
+    id: 161958
+    title: >-
+        How do radio systems and dispatch centers facilitate effective communication in police operations?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-initial-steps-in-emergency-response-procedures-and-how-is-coordination-with-other-agencies-achieved
+    url: /learn/criminal-or-civil-law/questions/how-do-radio-systems-and-dispatch-centers-facilitate-effective-communication-in-police-operations
+related_article5:
+    id: 161961
+    title: >-
+        What are the fundamental criminal law principles of mens rea and actus reus, and how do they apply in pursuit cases?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-fundamental-criminal-law-principles-of-mens-rea-and-actus-reus-and-how-do-they-apply-in-pursuit-cases
 ---
 
 &nbsp;

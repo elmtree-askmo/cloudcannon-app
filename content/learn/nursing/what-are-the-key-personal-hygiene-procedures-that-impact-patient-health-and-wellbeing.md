@@ -2,8 +2,10 @@
 _schema: default
 id: 169479
 date: 2025-02-05
-title: What are the key personal hygiene procedures that impact patient health and well-being?
-article_title: What are the key personal hygiene procedures that impact patient health and well-being?
+title: >-
+    What are the key personal hygiene procedures that impact patient health and well-being?
+article_title: >-
+    What are the key personal hygiene procedures that impact patient health and well-being?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-personal-hygiene-procedures-that-impact-patient-heal
 url: /learn/nursing/questions/what-are-the-key-personal-hygiene-procedures-that-impact-patient-health-and-wellbeing
 score: -1.0
 related_article1:
-    id: 169480
-    title: What factors affect skin health, and what are proper skin care techniques in nursing?
+    id: 169475
+    title: >-
+        What is the definition of patient dignity and why is it important in healthcare?
     subject: Nursing
-    url: /learn/nursing/questions/what-factors-affect-skin-health-and-what-are-proper-skin-care-techniques-in-nursing
+    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
 related_article2:
+    id: 169488
+    title: >-
+        How can healthcare providers assess patient capabilities to balance assistance and independence?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-healthcare-providers-assess-patient-capabilities-to-balance-assistance-and-independence
+related_article3:
     id: 169482
-    title: How can healthcare providers balance care and patient autonomy?
+    title: >-
+        How can healthcare providers balance care and patient autonomy?
     subject: Nursing
     url: /learn/nursing/questions/how-can-healthcare-providers-balance-care-and-patient-autonomy
-related_article3:
-    id: 169476
-    title: How can healthcare providers maintain patient dignity through consent and communication?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-maintain-patient-dignity-through-consent-and-communication
 related_article4:
     id: 169492
-    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    title: >-
+        What types of assistive devices are used in patient care, and how should they be used safely?
     subject: Nursing
     url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
 related_article5:
-    id: 169478
-    title: How does respecting patient autonomy contribute to patient-centered care?
+    id: 169495
+    title: >-
+        Why is cultural awareness important in healthcare, and how can care be adapted to cultural needs?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
+    url: /learn/nursing/questions/why-is-cultural-awareness-important-in-healthcare-and-how-can-care-be-adapted-to-cultural-needs
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166193
 date: 2025-01-29
-title: How does natural selection lead to adaptations in species?
-article_title: How does natural selection lead to adaptations in species?
+title: >-
+    How does natural selection lead to adaptations in species?
+article_title: >-
+    How does natural selection lead to adaptations in species?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-natural-selection-lead-to-adaptations-in-species.md
 url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
 score: -1.0
 related_article1:
+    id: 166212
+    title: >-
+        How is blood circulation regulated in the cardiovascular system?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-blood-circulation-regulated-in-the-cardiovascular-system
+related_article2:
+    id: 166182
+    title: >-
+        What are the primary types of biological molecules and their functions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-primary-types-of-biological-molecules-and-their-functions
+related_article3:
+    id: 166189
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+related_article4:
     id: 166211
-    title: What are the main components of the visual system in sensory systems?
+    title: >-
+        What are the main components of the visual system in sensory systems?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-components-of-the-visual-system-in-sensory-systems
-related_article2:
-    id: 166179
-    title: What are the fundamental traits that define living organisms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
-related_article3:
-    id: 166179
-    title: What are the fundamental traits that define living organisms?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
-related_article4:
+related_article5:
     id: 166185
-    title: What is the structure of a cell membrane and its function in cellular biology?
+    title: >-
+        What is the structure of a cell membrane and its function in cellular biology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
-related_article5:
-    id: 166199
-    title: What are the main components of the human cardiovascular system and their functions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
 ---
 
 &nbsp;

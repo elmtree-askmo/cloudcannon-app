@@ -2,8 +2,10 @@
 _schema: default
 id: 169033
 date: 2025-02-04
-title: How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
-article_title: How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
+title: >-
+    How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
+article_title: >-
+    How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-oral-histories-contribute-to-the-understanding-of-aboriginal-p
 url: /learn/history-of-the-world/questions/how-do-oral-histories-contribute-to-the-understanding-of-aboriginal-perspectives-on-historical-narratives
 score: 9.5
 related_article1:
-    id: 169024
-    title: What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+    id: 169028
+    title: >-
+        Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
+    url: /learn/history-of-the-world/questions/discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-of-aboriginal-people
 related_article2:
-    id: 169025
-    title: Identify and describe the significance of one notable memorial related to Aboriginal massacres.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-and-describe-the-significance-of-one-notable-memorial-related-to-aboriginal-massacres
-related_article3:
     id: 169037
-    title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
+    title: >-
+        How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
-related_article4:
-    id: 169038
-    title: What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
+related_article3:
+    id: 169029
+    title: >-
+        How do historical narratives influence public memory and commemoration practices?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
+    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
+related_article4:
+    id: 169029
+    title: >-
+        How do historical narratives influence public memory and commemoration practices?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-historical-narratives-influence-public-memory-and-commemoration-practices
+related_article5:
+    id: 169030
+    title: >-
+        What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
 ---
 
 &nbsp;

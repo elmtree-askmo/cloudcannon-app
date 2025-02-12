@@ -2,8 +2,10 @@
 _schema: default
 id: 166801
 date: 2025-01-31
-title: What is the significance of the atomic number in the periodic table?
-article_title: What is the significance of the atomic number in the periodic table?
+title: >-
+    What is the significance of the atomic number in the periodic table?
+article_title: >-
+    What is the significance of the atomic number in the periodic table?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-atomic-number-in-the-periodic-table.m
 url: /learn/chemistry/questions/what-is-the-significance-of-the-atomic-number-in-the-periodic-table
 score: -1.0
 related_article1:
-    id: 166809
-    title: How does electron sharing occur in covalent bonds?
+    id: 166800
+    title: >-
+        How does the atomic number relate to the number of protons in an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+    url: /learn/chemistry/questions/how-does-the-atomic-number-relate-to-the-number-of-protons-in-an-atom
 related_article2:
-    id: 166809
-    title: How does electron sharing occur in covalent bonds?
+    id: 166798
+    title: >-
+        What are the three main subatomic particles in an atom?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-electron-sharing-occur-in-covalent-bonds
+    url: /learn/chemistry/questions/what-are-the-three-main-subatomic-particles-in-an-atom
 related_article3:
-    id: 166799
-    title: What is the role of neutrons in the atomic nucleus?
+    id: 166804
+    title: >-
+        What is a valence shell and why is it important in chemical bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-neutrons-in-the-atomic-nucleus
+    url: /learn/chemistry/questions/what-is-a-valence-shell-and-why-is-it-important-in-chemical-bonding
 related_article4:
-    id: 166796
-    title: What are the building blocks of matter?
+    id: 166806
+    title: >-
+        How are ions formed in the context of ionic bonding?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-building-blocks-of-matter
+    url: /learn/chemistry/questions/how-are-ions-formed-in-the-context-of-ionic-bonding
 related_article5:
-    id: 166812
-    title: What are the two main types of chemical bonds and how do they contribute to the formation of matter?
+    id: 166807
+    title: >-
+        Describe the process of ionic bond formation between sodium and chlorine.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-two-main-types-of-chemical-bonds-and-how-do-they-contribute-to-the-formation-of-matter
+    url: /learn/chemistry/questions/describe-the-process-of-ionic-bond-formation-between-sodium-and-chlorine
 ---
 
 &nbsp;

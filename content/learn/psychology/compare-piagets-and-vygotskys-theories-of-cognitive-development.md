@@ -2,8 +2,10 @@
 _schema: default
 id: 164909
 date: 2025-01-28
-title: Compare Piaget’s and Vygotsky’s theories of cognitive development.
-article_title: Compare Piaget’s and Vygotsky’s theories of cognitive development.
+title: >-
+    Compare Piaget’s and Vygotsky’s theories of cognitive development.
+article_title: >-
+    Compare Piaget’s and Vygotsky’s theories of cognitive development.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: compare-piagets-and-vygotskys-theories-of-cognitive-development.md
 url: /learn/psychology/questions/compare-piagets-and-vygotskys-theories-of-cognitive-development
 score: -1.0
 related_article1:
-    id: 164918
-    title: Describe the components and capacity of working memory according to Baddeley’s and Cowan’s models.
+    id: 164900
+    title: >-
+        What are the key components of executive function, and how do they contribute to cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-components-and-capacity-of-working-memory-according-to-baddeleys-and-cowans-models
+    url: /learn/psychology/questions/what-are-the-key-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 related_article2:
-    id: 164902
-    title: Explain the difference between top-down and bottom-up processing with examples.
+    id: 164907
+    title: >-
+        What are the main mechanisms of attention, and how do selective and divided attention differ?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-difference-between-topdown-and-bottomup-processing-with-examples
+    url: /learn/psychology/questions/what-are-the-main-mechanisms-of-attention-and-how-do-selective-and-divided-attention-differ
 related_article3:
     id: 164906
-    title: Describe the feature integration theory and its application in visual search and attention mechanisms.
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
     subject: Psychology
     url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
 related_article4:
-    id: 164912
-    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
+    id: 164900
+    title: >-
+        What are the key components of executive function, and how do they contribute to cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
-related_article5:
-    id: 164901
-    title: How does automatic processing differ from controlled processing in terms of characteristics and examples?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-automatic-processing-differ-from-controlled-processing-in-terms-of-characteristics-and-examples
+    url: /learn/psychology/questions/what-are-the-key-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
 ---
 
 &nbsp;

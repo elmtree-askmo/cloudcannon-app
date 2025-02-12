@@ -2,8 +2,10 @@
 _schema: default
 id: 168596
 date: 2025-02-03
-title: What is the purpose of using the try...except statement in Python?
-article_title: What is the purpose of using the try...except statement in Python?
+title: >-
+    What is the purpose of using the try...except statement in Python?
+article_title: >-
+    What is the purpose of using the try...except statement in Python?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-using-the-tryexcept-statement-in-python.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-using-the-tryexcept-statement-in-python
 score: -1.0
 related_article1:
-    id: 168591
-    title: Name two common functions available in Python's math module.
+    id: 168593
+    title: >-
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
-    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 related_article2:
-    id: 168598
-    title: What is the difference between positional and keyword parameters in Python functions?
+    id: 168588
+    title: >-
+        How does object-oriented programming contribute to software reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
+    url: /learn/computer-science/questions/how-does-objectoriented-programming-contribute-to-software-reusability
 related_article3:
+    id: 168593
+    title: >-
+        Explain the difference between local and global scope in Python.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
+related_article4:
+    id: 168589
+    title: >-
+        What is the syntax for defining a function in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+related_article5:
     id: 168594
-    title: What is the effect of defining a variable inside a function in terms of scope?
+    title: >-
+        What is the effect of defining a variable inside a function in terms of scope?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-effect-of-defining-a-variable-inside-a-function-in-terms-of-scope
-related_article4:
-    id: 168601
-    title: How can you access a function's docstring in Python?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
-related_article5:
-    id: 168600
-    title: What is a function docstring and why is it important?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 ---
 
 &nbsp;

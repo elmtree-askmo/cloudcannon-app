@@ -2,8 +2,10 @@
 _schema: default
 id: 163683
 date: 2025-01-27
-title: What are some common qualitative data collection methods?
-article_title: What are some common qualitative data collection methods?
+title: >-
+    What are some common qualitative data collection methods?
+article_title: >-
+    What are some common qualitative data collection methods?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-qualitative-data-collection-methods.md
 url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
 score: -1.0
 related_article1:
-    id: 163680
-    title: How is deductive reasoning used in quantitative research?
+    id: 163677
+    title: >-
+        What are the key characteristics of qualitative research paradigms?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
+    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-qualitative-research-paradigms
 related_article2:
+    id: 163682
+    title: >-
+        What are the key elements of a research design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
+related_article3:
     id: 163681
-    title: Why is research design important in the research process?
+    title: >-
+        Why is research design important in the research process?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
-related_article3:
-    id: 163679
-    title: What are the main characteristics of quantitative research methodologies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
 related_article4:
-    id: 163679
-    title: What are the main characteristics of quantitative research methodologies?
+    id: 163678
+    title: >-
+        How does inductive reasoning play a role in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
 related_article5:
-    id: 163693
-    title: What is holism, and why is it important in qualitative research?
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 ---
 
 &nbsp;

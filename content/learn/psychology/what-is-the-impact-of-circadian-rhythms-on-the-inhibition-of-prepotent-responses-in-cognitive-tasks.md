@@ -2,8 +2,10 @@
 _schema: default
 id: 168069
 date: 2025-02-02
-title: What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
-article_title: What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
+title: >-
+    What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
+article_title: >-
+    What is the impact of circadian rhythms on the inhibition of prepotent responses in cognitive tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepoten
 url: /learn/psychology/questions/what-is-the-impact-of-circadian-rhythms-on-the-inhibition-of-prepotent-responses-in-cognitive-tasks
 score: -1.0
 related_article1:
-    id: 168072
-    title: How does language acquisition affect the development of personal memories in young children?
+    id: 168062
+    title: >-
+        How does language development influence memory encoding in young children?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-language-acquisition-affect-the-development-of-personal-memories-in-young-children
+    url: /learn/psychology/questions/how-does-language-development-influence-memory-encoding-in-young-children
 related_article2:
     id: 168067
-    title: What is the synchrony effect and how does it relate to age-related circadian differences?
+    title: >-
+        What is the synchrony effect and how does it relate to age-related circadian differences?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-synchrony-effect-and-how-does-it-relate-to-agerelated-circadian-differences
 related_article3:
-    id: 168074
-    title: How does self-awareness influence memory recall and personal memory formation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
-related_article4:
-    id: 168074
-    title: How does self-awareness influence memory recall and personal memory formation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-selfawareness-influence-memory-recall-and-personal-memory-formation
-related_article5:
     id: 168075
-    title: What are the age-related differences in morning versus evening performance for cognitive tasks?
+    title: >-
+        What are the age-related differences in morning versus evening performance for cognitive tasks?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
+related_article4:
+    id: 168075
+    title: >-
+        What are the age-related differences in morning versus evening performance for cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-agerelated-differences-in-morning-versus-evening-performance-for-cognitive-tasks
+related_article5:
+    id: 168061
+    title: >-
+        What is childhood amnesia and how does it relate to memory development in infancy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-childhood-amnesia-and-how-does-it-relate-to-memory-development-in-infancy
 ---
 
 &nbsp;

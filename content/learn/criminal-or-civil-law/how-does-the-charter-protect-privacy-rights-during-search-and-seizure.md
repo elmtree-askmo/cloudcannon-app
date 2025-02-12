@@ -2,8 +2,10 @@
 _schema: default
 id: 161998
 date: 2025-01-24
-title: How does the Charter protect privacy rights during search and seizure?
-article_title: How does the Charter protect privacy rights during search and seizure?
+title: >-
+    How does the Charter protect privacy rights during search and seizure?
+article_title: >-
+    How does the Charter protect privacy rights during search and seizure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-charter-protect-privacy-rights-during-search-and-seizure
 url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
 score: -1.0
 related_article1:
-    id: 162008
-    title: What are Charter remedies and how do they apply in court interpretations?
+    id: 162011
+    title: >-
+        Explain the police authority as defined in the Criminal Code.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
+    url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
 related_article2:
-    id: 161999
-    title: Define investigative detention and its legal standards.
+    id: 162007
+    title: >-
+        Define reasonable grounds and its importance in legal standards.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
+    url: /learn/criminal-or-civil-law/questions/define-reasonable-grounds-and-its-importance-in-legal-standards
 related_article3:
+    id: 162003
+    title: >-
+        What are the legal standards for conducting consent searches?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
+related_article4:
     id: 161997
-    title: What is the legal framework governing search and seizure?
+    title: >-
+        What is the legal framework governing search and seizure?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-is-the-legal-framework-governing-search-and-seizure
-related_article4:
-    id: 162001
-    title: What constitutes exigent circumstances in legal terms?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
 related_article5:
-    id: 162010
-    title: What are the legal requirements for conducting searches under law enforcement powers?
+    id: 162005
+    title: >-
+        What are the legal requirements for issuing production orders?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-issuing-production-orders
 ---
 
 &nbsp;

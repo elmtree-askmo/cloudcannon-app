@@ -2,8 +2,10 @@
 _schema: default
 id: 169340
 date: 2025-02-05
-title: How does observational learning contribute to social development, and what role does imitation play?
-article_title: How does observational learning contribute to social development, and what role does imitation play?
+title: >-
+    How does observational learning contribute to social development, and what role does imitation play?
+article_title: >-
+    How does observational learning contribute to social development, and what role does imitation play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-observational-learning-contribute-to-social-development-and-
 url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
 score: -1.0
 related_article1:
-    id: 169349
-    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    id: 169342
+    title: >-
+        Define stimulus control and explain the role of a discriminative stimulus (SD) in this process.
     subject: Psychology
-    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+    url: /learn/psychology/questions/define-stimulus-control-and-explain-the-role-of-a-discriminative-stimulus-sd-in-this-process
 related_article2:
-    id: 169341
-    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    id: 169339
+    title: >-
+        What are some common misconceptions about augmentative communication, particularly regarding parental concerns?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-augmentative-communication-particularly-regarding-parental-concerns
 related_article3:
-    id: 169331
-    title: What are the different types of prompts used in teaching, and how do they differ from each other?
+    id: 169337
+    title: >-
+        Discuss the pros and cons of errorless learning compared to trial and error learning.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
+    url: /learn/psychology/questions/discuss-the-pros-and-cons-of-errorless-learning-compared-to-trial-and-error-learning
 related_article4:
-    id: 169354
-    title: What are the main characteristics and challenges associated with Autism Spectrum Disorder?
+    id: 169335
+    title: >-
+        Why is data collection important in the fading process, and how can it be used to adjust fading procedures?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-characteristics-and-challenges-associated-with-autism-spectrum-disorder
+    url: /learn/psychology/questions/why-is-data-collection-important-in-the-fading-process-and-how-can-it-be-used-to-adjust-fading-procedures
 related_article5:
-    id: 169349
-    title: How can data collection be used to monitor progress and adjust instruction in skill acquisition?
+    id: 169348
+    title: >-
+        What techniques are used in teaching new skills, and how do prompting and fading play a role?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-data-collection-be-used-to-monitor-progress-and-adjust-instruction-in-skill-acquisition
+    url: /learn/psychology/questions/what-techniques-are-used-in-teaching-new-skills-and-how-do-prompting-and-fading-play-a-role
 ---
 
 &nbsp;

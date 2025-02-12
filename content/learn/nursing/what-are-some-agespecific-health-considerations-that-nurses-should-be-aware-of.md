@@ -2,8 +2,10 @@
 _schema: default
 id: 169743
 date: 2025-02-05
-title: What are some age-specific health considerations that nurses should be aware of?
-article_title: What are some age-specific health considerations that nurses should be aware of?
+title: >-
+    What are some age-specific health considerations that nurses should be aware of?
+article_title: >-
+    What are some age-specific health considerations that nurses should be aware of?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-agespecific-health-considerations-that-nurses-should-be
 url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
 score: -1.0
 related_article1:
-    id: 169739
-    title: What are the four principles of person-centered care?
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-four-principles-of-personcentered-care
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 related_article2:
-    id: 169756
-    title: What are the national standards for medication administration, and how do they relate to trust policies?
+    id: 169765
+    title: >-
+        Why is medication adherence important, and what strategies can improve it?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-national-standards-for-medication-administration-and-how-do-they-relate-to-trust-policies
+    url: /learn/nursing/questions/why-is-medication-adherence-important-and-what-strategies-can-improve-it
 related_article3:
-    id: 169747
-    title: What are some management strategies for common bowel and bladder disorders?
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 related_article4:
-    id: 169750
-    title: What are the symptoms and treatment options for common mental health disorders?
+    id: 169759
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-symptoms-and-treatment-options-for-common-mental-health-disorders
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
 related_article5:
-    id: 169767
-    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    id: 169755
+    title: >-
+        How do pharmacokinetics and pharmacodynamics apply to medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
+    url: /learn/nursing/questions/how-do-pharmacokinetics-and-pharmacodynamics-apply-to-medication-administration
 ---
 
 &nbsp;

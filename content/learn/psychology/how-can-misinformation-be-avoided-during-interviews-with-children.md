@@ -2,8 +2,10 @@
 _schema: default
 id: 168027
 date: 2025-02-02
-title: How can misinformation be avoided during interviews with children?
-article_title: How can misinformation be avoided during interviews with children?
+title: >-
+    How can misinformation be avoided during interviews with children?
+article_title: >-
+    How can misinformation be avoided during interviews with children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-can-misinformation-be-avoided-during-interviews-with-children.md
 url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
 score: -1.0
 related_article1:
-    id: 168020
-    title: What conditions are necessary for accurate memory recall in children?
+    id: 168017
+    title: >-
+        What factors influence memory accuracy in eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-conditions-are-necessary-for-accurate-memory-recall-in-children
+    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
 related_article2:
-    id: 168024
-    title: How does cognitive development impact memory recall?
+    id: 168018
+    title: >-
+        How do age and memory recall relate to the formation of false memories?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-development-impact-memory-recall
+    url: /learn/psychology/questions/how-do-age-and-memory-recall-relate-to-the-formation-of-false-memories
 related_article3:
-    id: 168014
-    title: What is the reverse developmental trend in memory accuracy?
+    id: 168019
+    title: >-
+        How does suggestibility in children change with age?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-reverse-developmental-trend-in-memory-accuracy
+    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
 related_article4:
-    id: 168015
-    title: How does the misinformation effect impact memory recall?
+    id: 168016
+    title: >-
+        What are the age-related variations in susceptibility to the misinformation effect?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-misinformation-effect-impact-memory-recall
+    url: /learn/psychology/questions/what-are-the-agerelated-variations-in-susceptibility-to-the-misinformation-effect
+related_article5:
+    id: 168022
+    title: >-
+        How are false memories generated from suggestive information?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-false-memories-generated-from-suggestive-information
 ---
 
 &nbsp;

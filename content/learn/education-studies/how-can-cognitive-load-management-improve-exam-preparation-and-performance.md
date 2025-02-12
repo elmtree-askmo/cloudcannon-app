@@ -2,8 +2,10 @@
 _schema: default
 id: 166584
 date: 2025-01-30
-title: How can cognitive load management improve exam preparation and performance?
-article_title: How can cognitive load management improve exam preparation and performance?
+title: >-
+    How can cognitive load management improve exam preparation and performance?
+article_title: >-
+    How can cognitive load management improve exam preparation and performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-cognitive-load-management-improve-exam-preparation-and-perfor
 url: /learn/education-studies/questions/how-can-cognitive-load-management-improve-exam-preparation-and-performance
 score: -1.0
 related_article1:
-    id: 166589
-    title: What is the role of summative assessment in determining academic performance?
+    id: 166579
+    title: >-
+        How do formative and summative assessments differ in their approach and objectives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-summative-assessment-in-determining-academic-performance
+    url: /learn/education-studies/questions/how-do-formative-and-summative-assessments-differ-in-their-approach-and-objectives
 related_article2:
-    id: 166591
-    title: What factors most significantly influence academic performance, and how can they be improved?
+    id: 166585
+    title: >-
+        What are the essential elements of a well-structured essay?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-most-significantly-influence-academic-performance-and-how-can-they-be-improved
+    url: /learn/education-studies/questions/what-are-the-essential-elements-of-a-wellstructured-essay
 related_article3:
-    id: 166596
-    title: How do academic standards influence curriculum design and course objectives?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-academic-standards-influence-curriculum-design-and-course-objectives
-related_article4:
     id: 166587
-    title: What strategies can be employed to improve performance on multiple choice tests?
+    title: >-
+        What strategies can be employed to improve performance on multiple choice tests?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-employed-to-improve-performance-on-multiple-choice-tests
-related_article5:
-    id: 166586
-    title: What study techniques are most effective for exam preparation?
+related_article4:
+    id: 166582
+    title: >-
+        What strategies can be used to adapt study techniques to different learning styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-study-techniques-are-most-effective-for-exam-preparation
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-adapt-study-techniques-to-different-learning-styles
+related_article5:
+    id: 166579
+    title: >-
+        How do formative and summative assessments differ in their approach and objectives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-formative-and-summative-assessments-differ-in-their-approach-and-objectives
 ---
 
 &nbsp;

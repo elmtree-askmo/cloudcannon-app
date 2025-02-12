@@ -2,8 +2,10 @@
 _schema: default
 id: 165928
 date: 2025-01-29
-title: What influence did the 1844 Paris Industry Exposition have on future exhibitions?
-article_title: What influence did the 1844 Paris Industry Exposition have on future exhibitions?
+title: >-
+    What influence did the 1844 Paris Industry Exposition have on future exhibitions?
+article_title: >-
+    What influence did the 1844 Paris Industry Exposition have on future exhibitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-influence-did-the-1844-paris-industry-exposition-have-on-future-
 url: /learn/history-of-the-world/questions/what-influence-did-the-1844-paris-industry-exposition-have-on-future-exhibitions
 score: 9.0
 related_article1:
-    id: 165936
-    title: How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    id: 165932
+    title: >-
+        What was the mechanism and function of the Tempest Prognosticator, and why was it significant?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
+    url: /learn/history-of-the-world/questions/what-was-the-mechanism-and-function-of-the-tempest-prognosticator-and-why-was-it-significant
 related_article2:
     id: 165938
-    title: How has the Fons Americanus been interpreted and critiqued by the public and critics?
+    title: >-
+        How has the Fons Americanus been interpreted and critiqued by the public and critics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
 related_article3:
-    id: 165934
-    title: What were some of the notable displays and technological innovations highlighted at the Great Exhibition of 1851?
+    id: 165925
+    title: >-
+        How did the Great Exhibition serve as a display of imperial power and colonial narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-notable-displays-and-technological-innovations-highlighted-at-the-great-exhibition-of-1851
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-serve-as-a-display-of-imperial-power-and-colonial-narratives
 related_article4:
-    id: 165926
-    title: What were the architectural features and engineering challenges associated with the design and construction of the Crystal Palace?
+    id: 165930
+    title: >-
+        How were art and artifacts from India culturally represented at the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-architectural-features-and-engineering-challenges-associated-with-the-design-and-construction-of-the-crystal-palace
+    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
 related_article5:
-    id: 165921
-    title: How did the Great Exhibition impact technological advancements in society?
+    id: 165924
+    title: >-
+        What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
+    url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
 ---
 
 &nbsp;

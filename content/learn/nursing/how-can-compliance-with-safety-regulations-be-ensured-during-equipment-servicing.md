@@ -2,8 +2,10 @@
 _schema: default
 id: 169514
 date: 2025-02-05
-title: How can compliance with safety regulations be ensured during equipment servicing?
-article_title: How can compliance with safety regulations be ensured during equipment servicing?
+title: >-
+    How can compliance with safety regulations be ensured during equipment servicing?
+article_title: >-
+    How can compliance with safety regulations be ensured during equipment servicing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-compliance-with-safety-regulations-be-ensured-during-equipmen
 url: /learn/nursing/questions/how-can-compliance-with-safety-regulations-be-ensured-during-equipment-servicing
 score: -1.0
 related_article1:
-    id: 169500
-    title: How can risks be assessed and reduced in manual handling operations?
+    id: 169503
+    title: >-
+        What is the role of the Health and Safety Executive in workplace safety?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 related_article2:
-    id: 169512
-    title: Why is it important to keep manual handling training up-to-date?
+    id: 169508
+    title: >-
+        How can hazards be identified and controlled in a risk assessment?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-it-important-to-keep-manual-handling-training-uptodate
+    url: /learn/nursing/questions/how-can-hazards-be-identified-and-controlled-in-a-risk-assessment
 related_article3:
-    id: 169510
-    title: What is the importance of ensuring patient consent in care environments?
+    id: 169503
+    title: >-
+        What is the role of the Health and Safety Executive in workplace safety?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-importance-of-ensuring-patient-consent-in-care-environments
+    url: /learn/nursing/questions/what-is-the-role-of-the-health-and-safety-executive-in-workplace-safety
 related_article4:
-    id: 169500
-    title: How can risks be assessed and reduced in manual handling operations?
+    id: 169505
+    title: >-
+        What are the employee's duties in reporting faulty equipment under the duty of care?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-risks-be-assessed-and-reduced-in-manual-handling-operations
+    url: /learn/nursing/questions/what-are-the-employees-duties-in-reporting-faulty-equipment-under-the-duty-of-care
 related_article5:
-    id: 169498
-    title: How should employees report risks and incidents according to the Health and Safety at Work Act?
+    id: 169507
+    title: >-
+        What is the hierarchy of control and how does it help in minimizing manual handling?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-employees-report-risks-and-incidents-according-to-the-health-and-safety-at-work-act
+    url: /learn/nursing/questions/what-is-the-hierarchy-of-control-and-how-does-it-help-in-minimizing-manual-handling
 ---
 
 &nbsp;

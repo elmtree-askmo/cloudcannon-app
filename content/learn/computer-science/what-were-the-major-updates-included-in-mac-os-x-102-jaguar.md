@@ -2,8 +2,10 @@
 _schema: default
 id: 160423
 date: 2025-01-24
-title: What were the major updates included in Mac OS X 10.2 Jaguar?
-article_title: What were the major updates included in Mac OS X 10.2 Jaguar?
+title: >-
+    What were the major updates included in Mac OS X 10.2 Jaguar?
+article_title: >-
+    What were the major updates included in Mac OS X 10.2 Jaguar?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-updates-included-in-mac-os-x-102-jaguar.md
 url: /learn/computer-science/questions/what-were-the-major-updates-included-in-mac-os-x-102-jaguar
 score: -1.0
 related_article1:
-    id: 160606
-    title: What was innovative about the design of the Power Mac G4 Cube?
+    id: 160600
+    title: >-
+        How did the release of Mac OS X 10.0 Cheetah mark a turning point for Apple's operating systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-innovative-about-the-design-of-the-power-mac-g4-cube
+    url: /learn/computer-science/questions/how-did-the-release-of-mac-os-x-100-cheetah-mark-a-turning-point-for-apples-operating-systems
 related_article2:
-    id: 160606
-    title: What was innovative about the design of the Power Mac G4 Cube?
+    id: 160427
+    title: >-
+        What was the impact of the MacBook Air's introduction on the laptop market?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-innovative-about-the-design-of-the-power-mac-g4-cube
+    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
 related_article3:
-    id: 160426
-    title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+    id: 160418
+    title: >-
+        What were the key features of the first beta release of Mac OS X?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-first-beta-release-of-mac-os-x
 related_article4:
-    id: 160532
-    title: What role did iLife and iWork updates play in Apple's software ecosystem?
+    id: 160598
+    title: >-
+        How did the launch of the first Apple retail store impact the company's sales strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-ilife-and-iwork-updates-play-in-apples-software-ecosystem
+    url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
 related_article5:
-    id: 160516
-    title: How did the introduction of the PowerBook G4 in the mid-2000s influence Apple's product line?
+    id: 160521
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-powerbook-g4-in-the-mid2000s-influence-apples-product-line
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
 ---
 
 &nbsp;

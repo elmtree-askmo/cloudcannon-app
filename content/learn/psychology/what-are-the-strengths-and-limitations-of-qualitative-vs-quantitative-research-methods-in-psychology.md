@@ -2,8 +2,10 @@
 _schema: default
 id: 170030
 date: 2025-02-05
-title: What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
-article_title: What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
+title: >-
+    What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
+article_title: >-
+    What are the strengths and limitations of qualitative vs. quantitative research methods in psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative
 url: /learn/psychology/questions/what-are-the-strengths-and-limitations-of-qualitative-vs-quantitative-research-methods-in-psychology
 score: -1.0
 related_article1:
-    id: 170029
-    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
-related_article2:
-    id: 170029
-    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
-related_article3:
-    id: 170032
-    title: What is the role of the social environment in shaping behavior according to environmental influence theories?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
-related_article4:
-    id: 170027
-    title: How does Maslow's Hierarchy of Needs define self-actualization?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-maslows-hierarchy-of-needs-define-selfactualization
-related_article5:
     id: 170013
-    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    title: >-
+        How does the concept of the unconscious mind play a role in Psychoanalysis?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+related_article2:
+    id: 170019
+    title: >-
+        How have modern interpretations criticized Freud's developmental stages?
+    subject: Psychology
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
+related_article3:
+    id: 170016
+    title: >-
+        How does Evolutionary Psychology integrate Darwinian theory into its framework?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-evolutionary-psychology-integrate-darwinian-theory-into-its-framework
+related_article4:
+    id: 170009
+    title: >-
+        How did Functionalism contribute to the development of Evolutionary Psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-did-functionalism-contribute-to-the-development-of-evolutionary-psychology
+related_article5:
+    id: 170014
+    title: >-
+        What are the main principles of Humanistic Psychology according to Abraham Maslow and Carl Rogers?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-principles-of-humanistic-psychology-according-to-abraham-maslow-and-carl-rogers
 ---
 
 &nbsp;

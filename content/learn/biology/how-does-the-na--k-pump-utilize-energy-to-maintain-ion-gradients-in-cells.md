@@ -2,8 +2,10 @@
 _schema: default
 id: 166948
 date: 2025-01-31
-title: How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
-article_title: How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+title: >-
+    How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
+article_title: >-
+    How does the Na+ - K+ pump utilize energy to maintain ion gradients in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-c
 url: /learn/biology/questions/how-does-the-na--k-pump-utilize-energy-to-maintain-ion-gradients-in-cells
 score: -1.0
 related_article1:
-    id: 166946
-    title: How do concentration gradients influence passive and active transport?
+    id: 166937
+    title: >-
+        Why are transport proteins necessary for the movement of ions and polar molecules across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/how-do-concentration-gradients-influence-passive-and-active-transport
+    url: /learn/biology/questions/why-are-transport-proteins-necessary-for-the-movement-of-ions-and-polar-molecules-across-the-cell-membrane
 related_article2:
-    id: 166949
-    title: What is the significance of the hydrophobic barrier of the cell membrane in relation to ion and polar molecule transport?
+    id: 166939
+    title: >-
+        How does passive transport differ from active transport in terms of energy requirements?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophobic-barrier-of-the-cell-membrane-in-relation-to-ion-and-polar-molecule-transport
+    url: /learn/biology/questions/how-does-passive-transport-differ-from-active-transport-in-terms-of-energy-requirements
 related_article3:
-    id: 166945
-    title: Why are concentration gradients important for cellular transport processes?
-    subject: Biology
-    url: /learn/biology/questions/why-are-concentration-gradients-important-for-cellular-transport-processes
-related_article4:
-    id: 166940
-    title: What is the role of the Na+ - K+ pump in active transport?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
-related_article5:
     id: 166947
-    title: What are the main types of transport proteins, and how do they differ in function?
+    title: >-
+        What are the main types of transport proteins, and how do they differ in function?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-types-of-transport-proteins-and-how-do-they-differ-in-function
+related_article4:
+    id: 166941
+    title: >-
+        What are the characteristics of substances that can be transported via simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-characteristics-of-substances-that-can-be-transported-via-simple-diffusion
+related_article5:
+    id: 166940
+    title: >-
+        What is the role of the Na+ - K+ pump in active transport?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-the-na--k-pump-in-active-transport
 ---
 
 &nbsp;

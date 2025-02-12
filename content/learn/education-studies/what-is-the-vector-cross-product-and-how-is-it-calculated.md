@@ -2,8 +2,10 @@
 _schema: default
 id: 166692
 date: 2025-01-31
-title: What is the vector cross product and how is it calculated?
-article_title: What is the vector cross product and how is it calculated?
+title: >-
+    What is the vector cross product and how is it calculated?
+article_title: >-
+    What is the vector cross product and how is it calculated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-vector-cross-product-and-how-is-it-calculated.md
 url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
 score: -1.0
 related_article1:
-    id: 166694
-    title: What role do unit vectors play in the vector cross product?
+    id: 166717
+    title: >-
+        How is robotics automation being integrated with AI, and what are its future prospects?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-unit-vectors-play-in-the-vector-cross-product
+    url: /learn/education-studies/questions/how-is-robotics-automation-being-integrated-with-ai-and-what-are-its-future-prospects
 related_article2:
-    id: 166707
-    title: What factors affect energy transfer and efficiency in engineering systems?
+    id: 166704
+    title: >-
+        What are the equilibrium conditions in statics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-affect-energy-transfer-and-efficiency-in-engineering-systems
+    url: /learn/education-studies/questions/what-are-the-equilibrium-conditions-in-statics
 related_article3:
-    id: 166699
-    title: Define the moment of force and explain how it is calculated.
+    id: 166720
+    title: >-
+        What types of events do engineering organizations typically host?
     subject: Education Studies
-    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
+    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
 related_article4:
-    id: 166718
-    title: What benefits do professional engineering societies offer to their members?
+    id: 166698
+    title: >-
+        How is the conservation of energy principle applied in rigid body dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
+    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
 related_article5:
-    id: 166719
-    title: How do engineering organizations support networking and professional development?
+    id: 166702
+    title: >-
+        How does torque relate to the moment of force?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
+    url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
 ---
 
 &nbsp;

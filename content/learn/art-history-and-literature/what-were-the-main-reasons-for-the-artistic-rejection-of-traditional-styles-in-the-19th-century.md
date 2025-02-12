@@ -2,8 +2,10 @@
 _schema: default
 id: 168725
 date: 2025-02-04
-title: What were the main reasons for the artistic rejection of traditional styles in the 19th century?
-article_title: What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+title: >-
+    What were the main reasons for the artistic rejection of traditional styles in the 19th century?
+article_title: >-
+    What were the main reasons for the artistic rejection of traditional styles in the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-
 url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-artistic-rejection-of-traditional-styles-in-the-19th-century
 score: 9.0
 related_article1:
+    id: 168723
+    title: >-
+        What impact did the modernization of Paris have on artistic representation during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-modernization-of-paris-have-on-artistic-representation-during-the-19th-century
+related_article2:
     id: 168724
-    title: How did political upheavals influence art and the role of artists in society during the 19th century?
+    title: >-
+        How did political upheavals influence art and the role of artists in society during the 19th century?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
-related_article2:
-    id: 168726
-    title: How did 19th-century art address social issues such as poverty and gender identity?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
 related_article3:
+    id: 168724
+    title: >-
+        How did political upheavals influence art and the role of artists in society during the 19th century?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
+related_article4:
+    id: 168731
+    title: >-
+        What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
+related_article5:
     id: 168732
-    title: How did socialist ideas influence art and the representation of the working class in the 19th century?
+    title: >-
+        How did socialist ideas influence art and the representation of the working class in the 19th century?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-socialist-ideas-influence-art-and-the-representation-of-the-working-class-in-the-19th-century
-related_article4:
-    id: 168724
-    title: How did political upheavals influence art and the role of artists in society during the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-political-upheavals-influence-art-and-the-role-of-artists-in-society-during-the-19th-century
-related_article5:
-    id: 168730
-    title: How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
 ---
 
 &nbsp;

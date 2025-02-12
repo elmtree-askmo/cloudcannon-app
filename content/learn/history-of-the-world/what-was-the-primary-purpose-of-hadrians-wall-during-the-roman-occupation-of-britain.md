@@ -2,8 +2,10 @@
 _schema: default
 id: 169866
 date: 2025-02-05
-title: What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
-article_title: What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
+title: >-
+    What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
+article_title: >-
+    What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-primary-purpose-of-hadrians-wall-during-the-roman-occupa
 url: /learn/history-of-the-world/questions/what-was-the-primary-purpose-of-hadrians-wall-during-the-roman-occupation-of-britain
 score: 9.5
 related_article1:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+    id: 169878
+    title: >-
+        What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
+    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal-warfare-against-the-romans
 related_article2:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
-related_article3:
     id: 169883
-    title: What influence did Greek and Roman texts have on medieval historical narratives, such as Bede's Histories?
+    title: >-
+        What influence did Greek and Roman texts have on medieval historical narratives, such as Bede's Histories?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-influence-did-greek-and-roman-texts-have-on-medieval-historical-narratives-such-as-bedes-histories
+related_article3:
+    id: 169881
+    title: >-
+        What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-tacitus-agricola-and-how-does-it-contribute-to-our-understanding-of-roman-britain
 related_article4:
-    id: 169873
-    title: What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
+    id: 169880
+    title: >-
+        What were the main factors leading to the Roman withdrawal from Scotland?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-features-of-the-pictish-language-and-how-do-they-inform-our-understanding-of-pictish-society
+    url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-roman-withdrawal-from-scotland
 related_article5:
-    id: 169872
-    title: What evidence exists for cultural continuity among the Picts from the Iron Age to medieval times?
+    id: 169883
+    title: >-
+        What influence did Greek and Roman texts have on medieval historical narratives, such as Bede's Histories?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-evidence-exists-for-cultural-continuity-among-the-picts-from-the-iron-age-to-medieval-times
+    url: /learn/history-of-the-world/questions/what-influence-did-greek-and-roman-texts-have-on-medieval-historical-narratives-such-as-bedes-histories
 ---
 
 &nbsp;

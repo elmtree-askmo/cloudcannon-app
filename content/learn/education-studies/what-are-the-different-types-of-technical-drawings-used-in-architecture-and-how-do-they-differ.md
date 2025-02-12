@@ -2,8 +2,10 @@
 _schema: default
 id: 169183
 date: 2025-02-04
-title: What are the different types of technical drawings used in architecture, and how do they differ?
-article_title: What are the different types of technical drawings used in architecture, and how do they differ?
+title: >-
+    What are the different types of technical drawings used in architecture, and how do they differ?
+article_title: >-
+    What are the different types of technical drawings used in architecture, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-technical-drawings-used-in-architectu
 url: /learn/education-studies/questions/what-are-the-different-types-of-technical-drawings-used-in-architecture-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 169174
-    title: How does human perception influence the interpretation of space in architecture?
+    id: 169175
+    title: >-
+        What role does materiality play in the structural conundrums of architecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
+    url: /learn/education-studies/questions/what-role-does-materiality-play-in-the-structural-conundrums-of-architecture
 related_article2:
-    id: 169172
-    title: How do aesthetic and formal conditions influence the meeting of planes in architecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-planes-in-architecture
-related_article3:
     id: 169184
-    title: How does conceptual analysis in design address ecological and economic factors?
+    title: >-
+        How does conceptual analysis in design address ecological and economic factors?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-conceptual-analysis-in-design-address-ecological-and-economic-factors
+related_article3:
+    id: 169177
+    title: >-
+        What are the key principles of urban design that relate to the intersection of corners?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-principles-of-urban-design-that-relate-to-the-intersection-of-corners
 related_article4:
-    id: 169186
-    title: How are generative AI tools used in design, and what ethical considerations are associated with their use?
+    id: 169172
+    title: >-
+        How do aesthetic and formal conditions influence the meeting of planes in architecture?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-generative-ai-tools-used-in-design-and-what-ethical-considerations-are-associated-with-their-use
+    url: /learn/education-studies/questions/how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-planes-in-architecture
 related_article5:
-    id: 169181
-    title: What is the relationship between architectural theories and the design process?
+    id: 169179
+    title: >-
+        What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+    url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
 ---
 
 &nbsp;

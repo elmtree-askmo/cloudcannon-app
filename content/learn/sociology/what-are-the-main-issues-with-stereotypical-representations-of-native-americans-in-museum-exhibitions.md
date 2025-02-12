@@ -2,8 +2,10 @@
 _schema: default
 id: 169157
 date: 2025-02-04
-title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
-article_title: What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+title: >-
+    What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
+article_title: >-
+    What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-issues-with-stereotypical-representations-of-native
 url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
 score: -1.0
 related_article1:
-    id: 169162
-    title: How do memoryscapes contribute to the reassertion of Indigenous presence and the celebration of survivance?
+    id: 169169
+    title: >-
+        What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-memoryscapes-contribute-to-the-reassertion-of-indigenous-presence-and-the-celebration-of-survivance
+    url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
 related_article2:
     id: 169153
-    title: What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
+    title: >-
+        What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
 related_article3:
-    id: 169155
-    title: What role do national and tribal museums play in Indigenous public history?
+    id: 169164
+    title: >-
+        How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
+    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
 related_article4:
-    id: 169166
-    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
 related_article5:
-    id: 169159
-    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    id: 169153
+    title: >-
+        What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
 ---
 
 &nbsp;

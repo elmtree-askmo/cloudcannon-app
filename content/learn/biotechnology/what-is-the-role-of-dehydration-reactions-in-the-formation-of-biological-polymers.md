@@ -2,8 +2,10 @@
 _schema: default
 id: 167496
 date: 2025-01-31
-title: What is the role of dehydration reactions in the formation of biological polymers?
-article_title: What is the role of dehydration reactions in the formation of biological polymers?
+title: >-
+    What is the role of dehydration reactions in the formation of biological polymers?
+article_title: >-
+    What is the role of dehydration reactions in the formation of biological polymers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-dehydration-reactions-in-the-formation-of-biologi
 url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
 score: -1.0
 related_article1:
-    id: 167499
-    title: How do monosaccharides differ in their linear and circular forms?
+    id: 167497
+    title: >-
+        How does a hydrolysis reaction contribute to the breakdown of polymers?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-monosaccharides-differ-in-their-linear-and-circular-forms
+    url: /learn/biotechnology/questions/how-does-a-hydrolysis-reaction-contribute-to-the-breakdown-of-polymers
 related_article2:
-    id: 167500
-    title: What is the primary function of starch in plants?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
-related_article3:
     id: 167502
-    title: What structural role does cellulose play in plant cell walls?
+    title: >-
+        What structural role does cellulose play in plant cell walls?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
-related_article4:
+related_article3:
     id: 167500
-    title: What is the primary function of starch in plants?
+    title: >-
+        What is the primary function of starch in plants?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
-related_article5:
-    id: 167501
-    title: How does glycogen function as an energy storage molecule in animals?
+related_article4:
+    id: 167499
+    title: >-
+        How do monosaccharides differ in their linear and circular forms?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+    url: /learn/biotechnology/questions/how-do-monosaccharides-differ-in-their-linear-and-circular-forms
+related_article5:
+    id: 167499
+    title: >-
+        How do monosaccharides differ in their linear and circular forms?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-monosaccharides-differ-in-their-linear-and-circular-forms
 ---
 
 &nbsp;

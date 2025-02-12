@@ -2,8 +2,10 @@
 _schema: default
 id: 168385
 date: 2025-02-03
-title: What are the defining characteristics of a civilization?
-article_title: What are the defining characteristics of a civilization?
+title: >-
+    What are the defining characteristics of a civilization?
+article_title: >-
+    What are the defining characteristics of a civilization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-characteristics-of-a-civilization.md
 url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
 score: -1.0
 related_article1:
-    id: 168391
-    title: What role did kinship play in the social structures of early societies?
+    id: 168379
+    title: >-
+        What are the key differences between stone tools and composite tools in tool technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
 related_article2:
-    id: 168386
-    title: What methods are used to date historical events and artifacts?
+    id: 168388
+    title: >-
+        How did the development of bronze tools influence the transition to urbanization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
+    url: /learn/education-studies/questions/how-did-the-development-of-bronze-tools-influence-the-transition-to-urbanization
 related_article3:
-    id: 168393
-    title: How did prehistoric societies adapt to environmental changes?
+    id: 168377
+    title: >-
+        What are the main techniques used in archaeology to uncover historical evidence?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
+    url: /learn/education-studies/questions/what-are-the-main-techniques-used-in-archaeology-to-uncover-historical-evidence
 related_article4:
-    id: 168396
-    title: How did technological advancements influence social structures in ancient times?
+    id: 168380
+    title: >-
+        How did early metallurgical practices impact ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-influence-social-structures-in-ancient-times
+    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
 related_article5:
-    id: 168384
-    title: What were the major impacts of the development and spread of agriculture on societies?
+    id: 168380
+    title: >-
+        How did early metallurgical practices impact ancient societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
+    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
 ---
 
 &nbsp;

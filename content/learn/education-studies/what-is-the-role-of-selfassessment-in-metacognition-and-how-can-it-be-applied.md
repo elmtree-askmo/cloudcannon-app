@@ -2,8 +2,10 @@
 _schema: default
 id: 164097
 date: 2025-01-28
-title: What is the role of self-assessment in metacognition, and how can it be applied?
-article_title: What is the role of self-assessment in metacognition, and how can it be applied?
+title: >-
+    What is the role of self-assessment in metacognition, and how can it be applied?
+article_title: >-
+    What is the role of self-assessment in metacognition, and how can it be applied?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-selfassessment-in-metacognition-and-how-can-it-be
 url: /learn/education-studies/questions/what-is-the-role-of-selfassessment-in-metacognition-and-how-can-it-be-applied
 score: -1.0
 related_article1:
-    id: 164113
-    title: How can reflective writing be used to learn from personal experiences?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-be-used-to-learn-from-personal-experiences
-related_article2:
-    id: 164093
-    title: What are the key steps in preparing a presentation to ensure it is well-organized?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-preparing-a-presentation-to-ensure-it-is-wellorganized
-related_article3:
-    id: 164100
-    title: How can group discussions enhance collaborative learning in study groups?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-group-discussions-enhance-collaborative-learning-in-study-groups
-related_article4:
-    id: 164092
-    title: How can reflective writing enhance personal and academic growth?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-reflective-writing-enhance-personal-and-academic-growth
-related_article5:
     id: 164102
-    title: How do citation styles differ, and why is it important to use them correctly in bibliographies?
+    title: >-
+        How do citation styles differ, and why is it important to use them correctly in bibliographies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-citation-styles-differ-and-why-is-it-important-to-use-them-correctly-in-bibliographies
+related_article2:
+    id: 164106
+    title: >-
+        How can developing research questions guide independent research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-developing-research-questions-guide-independent-research
+related_article3:
+    id: 164101
+    title: >-
+        What are the different types of plagiarism, and what are their consequences?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-different-types-of-plagiarism-and-what-are-their-consequences
+related_article4:
+    id: 164096
+    title: >-
+        How does identifying bias contribute to critical thinking?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-identifying-bias-contribute-to-critical-thinking
+related_article5:
+    id: 164110
+    title: >-
+        What skills are essential for adapting to new technologies in lifelong learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-skills-are-essential-for-adapting-to-new-technologies-in-lifelong-learning
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160786
 date: 2025-01-24
-title: How is data represented in computational music, and why is it important?
-article_title: How is data represented in computational music, and why is it important?
+title: >-
+    How is data represented in computational music, and why is it important?
+article_title: >-
+    How is data represented in computational music, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-data-represented-in-computational-music-and-why-is-it-importan
 url: /learn/computer-science/questions/how-is-data-represented-in-computational-music-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 160651
-    title: What distinguishes computational problem solving from general problem solving?
+    id: 160661
+    title: >-
+        How is data represented in computational music, and why is it important?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
+    url: /learn/computer-science/questions/how-is-data-represented-in-computational-music-and-why-is-it-important
 related_article2:
-    id: 160667
-    title: How can computational knowledge be applied across various domains?
+    id: 160652
+    title: >-
+        Why is it important to ask 'Why' when developing problem-solving skills?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-computational-knowledge-be-applied-across-various-domains
+    url: /learn/computer-science/questions/why-is-it-important-to-ask-why-when-developing-problemsolving-skills
 related_article3:
-    id: 160792
-    title: How can computational knowledge be applied across various domains?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-computational-knowledge-be-applied-across-various-domains
-related_article4:
     id: 160770
-    title: What distinguishes computational problem solving from general problem solving?
+    title: >-
+        What distinguishes computational problem solving from general problem solving?
     subject: Computer Science
     url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
-related_article5:
-    id: 160649
-    title: What are the differences between trees and graphs as data structures?
+related_article4:
+    id: 160665
+    title: >-
+        What are the steps involved in algorithm development according to software engineering principles?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-trees-and-graphs-as-data-structures
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-algorithm-development-according-to-software-engineering-principles
+related_article5:
+    id: 160659
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 ---
 
 &nbsp;

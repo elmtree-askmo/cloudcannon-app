@@ -2,8 +2,10 @@
 _schema: default
 id: 164065
 date: 2025-01-28
-title: What are the primary techniques and tools used in biofeedback therapy?
-article_title: What are the primary techniques and tools used in biofeedback therapy?
+title: >-
+    What are the primary techniques and tools used in biofeedback therapy?
+article_title: >-
+    What are the primary techniques and tools used in biofeedback therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
 url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
 score: -1.0
 related_article1:
-    id: 164061
-    title: What are the main findings and implications of research in systemic treatments for psychopathology?
+    id: 164062
+    title: >-
+        How does Multidimensional Family Therapy (MDFT) differ in its theoretical framework and treatment phases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-findings-and-implications-of-research-in-systemic-treatments-for-psychopathology
+    url: /learn/psychology/questions/how-does-multidimensional-family-therapy-mdft-differ-in-its-theoretical-framework-and-treatment-phases
 related_article2:
-    id: 164064
-    title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+    id: 164068
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
     subject: Psychology
-    url: /learn/psychology/questions/outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
 related_article3:
-    id: 164059
-    title: What are the common risk factors associated with youth violence incidents such as stabbings and shootings?
+    id: 164057
+    title: >-
+        What are the core principles of Functional Family Therapy (FFT) and how are they implemented?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-risk-factors-associated-with-youth-violence-incidents-such-as-stabbings-and-shootings
+    url: /learn/psychology/questions/what-are-the-core-principles-of-functional-family-therapy-fft-and-how-are-they-implemented
 related_article4:
-    id: 164056
-    title: How do individual therapy techniques compare to group therapy dynamics in forensic settings?
+    id: 164068
+    title: >-
+        Discuss the ethical considerations and cultural sensitivity challenges in forensic treatments.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-individual-therapy-techniques-compare-to-group-therapy-dynamics-in-forensic-settings
+    url: /learn/psychology/questions/discuss-the-ethical-considerations-and-cultural-sensitivity-challenges-in-forensic-treatments
 related_article5:
-    id: 164066
-    title: How is virtual reality integrated into therapeutic practices and what are its potential benefits?
+    id: 164063
+    title: >-
+        What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-virtual-reality-integrated-into-therapeutic-practices-and-what-are-its-potential-benefits
+    url: /learn/psychology/questions/what-is-the-systemic-approach-of-multisystemic-therapy-mst-and-which-populations-does-it-target
 ---
 
 &nbsp;

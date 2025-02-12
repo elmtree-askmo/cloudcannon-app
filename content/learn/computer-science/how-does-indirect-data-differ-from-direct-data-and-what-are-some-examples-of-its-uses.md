@@ -2,8 +2,10 @@
 _schema: default
 id: 161431
 date: 2025-01-24
-title: How does indirect data differ from direct data, and what are some examples of its uses?
-article_title: How does indirect data differ from direct data, and what are some examples of its uses?
+title: >-
+    How does indirect data differ from direct data, and what are some examples of its uses?
+article_title: >-
+    How does indirect data differ from direct data, and what are some examples of its uses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-indirect-data-differ-from-direct-data-and-what-are-some-exam
 url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-some-examples-of-its-uses
 score: -1.0
 related_article1:
-    id: 161685
-    title: How does data transform into information, and why is context important in this process?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 related_article2:
-    id: 161491
-    title: What are the characteristics of direct data and what are its advantages and disadvantages?
+    id: 161668
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
 related_article3:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161502
+    title: >-
+        How does online processing differ from batch processing and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/how-does-online-processing-differ-from-batch-processing-and-what-are-its-benefits
 related_article4:
-    id: 161494
-    title: What factors influence the relevance of information and why is it important?
+    id: 161700
+    title: >-
+        What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
 related_article5:
-    id: 161436
-    title: What is the significance of completeness in information quality, and what factors can affect it?
+    id: 161700
+    title: >-
+        What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-completeness-in-information-quality-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
 ---
 
 &nbsp;

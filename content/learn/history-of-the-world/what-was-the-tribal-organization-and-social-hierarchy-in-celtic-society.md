@@ -2,8 +2,10 @@
 _schema: default
 id: 160382
 date: 2025-01-24
-title: What was the tribal organization and social hierarchy in Celtic society?
-article_title: What was the tribal organization and social hierarchy in Celtic society?
+title: >-
+    What was the tribal organization and social hierarchy in Celtic society?
+article_title: >-
+    What was the tribal organization and social hierarchy in Celtic society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-was-the-tribal-organization-and-social-hierarchy-in-celtic-socie
 url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
 score: 9.0
 related_article1:
-    id: 159917
-    title: What was the tribal organization and social hierarchy in Celtic society?
+    id: 159903
+    title: >-
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
 related_article2:
-    id: 160373
-    title: How did the Halstatt Culture transition into the La Tène Culture?
+    id: 160259
+    title: >-
+        How did geography influence the cultural development and migration patterns of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
 related_article3:
-    id: 159860
-    title: How did the burial practices of the Beaker People and Corded Ware People reflect their cultural characteristics?
+    id: 159913
+    title: >-
+        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-reflect-their-cultural-characteristics
+    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
 related_article4:
-    id: 160250
-    title: What was the tribal organization and social hierarchy in Celtic society?
+    id: 160259
+    title: >-
+        How did geography influence the cultural development and migration patterns of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
 related_article5:
-    id: 160182
-    title: What were the distinctive physical and behavioral traits of the Celts?
+    id: 160260
+    title: >-
+        What were the distinctive physical and behavioral traits of the Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 ---

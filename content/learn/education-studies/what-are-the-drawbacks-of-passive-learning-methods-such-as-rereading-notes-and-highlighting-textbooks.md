@@ -2,8 +2,10 @@
 _schema: default
 id: 165525
 date: 2025-01-29
-title: What are the drawbacks of passive learning methods such as re-reading notes and highlighting textbooks?
-article_title: What are the drawbacks of passive learning methods such as re-reading notes and highlighting textbooks?
+title: >-
+    What are the drawbacks of passive learning methods such as re-reading notes and highlighting textbooks?
+article_title: >-
+    What are the drawbacks of passive learning methods such as re-reading notes and highlighting textbooks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-drawbacks-of-passive-learning-methods-such-as-rereading-
 url: /learn/education-studies/questions/what-are-the-drawbacks-of-passive-learning-methods-such-as-rereading-notes-and-highlighting-textbooks
 score: -1.0
 related_article1:
-    id: 165526
-    title: How does active recall enhance learning compared to passive learning techniques?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
-related_article2:
-    id: 165526
-    title: How does active recall enhance learning compared to passive learning techniques?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
-related_article3:
-    id: 165526
-    title: How does active recall enhance learning compared to passive learning techniques?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
-related_article4:
-    id: 165526
-    title: How does active recall enhance learning compared to passive learning techniques?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-active-recall-enhance-learning-compared-to-passive-learning-techniques
-related_article5:
     id: 165536
-    title: What are the limitations of Anki software, and how can they be addressed?
+    title: >-
+        What are the limitations of Anki software, and how can they be addressed?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-limitations-of-anki-software-and-how-can-they-be-addressed
+related_article2:
+    id: 165532
+    title: >-
+        What are some methods to develop critical thinking skills for test-taking?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-methods-to-develop-critical-thinking-skills-for-testtaking
+related_article3:
+    id: 165529
+    title: >-
+        What are the benefits of using Anki software for spaced repetition?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-anki-software-for-spaced-repetition
+related_article4:
+    id: 165528
+    title: >-
+        How does spaced repetition aid in encoding information into long-term memory?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-spaced-repetition-aid-in-encoding-information-into-longterm-memory
+related_article5:
+    id: 165528
+    title: >-
+        How does spaced repetition aid in encoding information into long-term memory?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-spaced-repetition-aid-in-encoding-information-into-longterm-memory
 ---
 
 &nbsp;

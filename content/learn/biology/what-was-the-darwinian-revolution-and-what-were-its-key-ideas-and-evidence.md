@@ -2,8 +2,10 @@
 _schema: default
 id: 167765
 date: 2025-02-01
-title: What was the Darwinian Revolution and what were its key ideas and evidence?
-article_title: What was the Darwinian Revolution and what were its key ideas and evidence?
+title: >-
+    What was the Darwinian Revolution and what were its key ideas and evidence?
+article_title: >-
+    What was the Darwinian Revolution and what were its key ideas and evidence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evi
 url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
 score: -1.0
 related_article1:
-    id: 167758
-    title: How do species interactions shape community structure and what are trophic levels?
+    id: 167759
+    title: >-
+        What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
     subject: Biology
-    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
 related_article2:
-    id: 167766
-    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    id: 167750
+    title: >-
+        What is allopatric speciation and how does it differ from sympatric speciation?
     subject: Biology
-    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+    url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
 related_article3:
-    id: 167752
-    title: What is adaptive radiation and how does it contribute to biodiversity?
+    id: 167756
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
     subject: Biology
-    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
 related_article4:
-    id: 167754
-    title: What is the endosymbiotic theory and what evidence supports it?
+    id: 167763
+    title: >-
+        What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-endosymbiotic-theory-and-what-evidence-supports-it
+    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
 related_article5:
-    id: 167762
-    title: How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    id: 167757
+    title: >-
+        What factors affect population dynamics and how do growth models help in understanding these dynamics?
     subject: Biology
-    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
+    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
 ---
 
 &nbsp;

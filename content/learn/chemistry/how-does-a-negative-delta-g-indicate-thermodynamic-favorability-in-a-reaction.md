@@ -2,8 +2,10 @@
 _schema: default
 id: 170819
 date: 2025-02-07
-title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
-article_title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+title: >-
+    How does a negative Delta G indicate thermodynamic favorability in a reaction?
+article_title: >-
+    How does a negative Delta G indicate thermodynamic favorability in a reaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-
 url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
 score: -1.0
 related_article1:
+    id: 170817
+    title: >-
+        How does the standard free energy change (Delta G Zero) relate to reaction spontaneity?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-the-standard-free-energy-change-delta-g-zero-relate-to-reaction-spontaneity
+related_article2:
     id: 170813
-    title: How does the electron density in methane indicate its reduced form?
+    title: >-
+        How does the electron density in methane indicate its reduced form?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
-related_article2:
-    id: 170810
-    title: What is the role of electron transfer in oxidation and reduction reactions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
 related_article3:
+    id: 170812
+    title: >-
+        What is the significance of partial charges in polar molecules?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
+related_article4:
     id: 170810
-    title: What is the role of electron transfer in oxidation and reduction reactions?
+    title: >-
+        What is the role of electron transfer in oxidation and reduction reactions?
     subject: Chemistry
     url: /learn/chemistry/questions/what-is-the-role-of-electron-transfer-in-oxidation-and-reduction-reactions
-related_article4:
-    id: 170822
-    title: How do enzymes influence the energy barriers in chemical reactions?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-enzymes-influence-the-energy-barriers-in-chemical-reactions
 related_article5:
-    id: 170820
-    title: What role do enzymes play in directing molecules through metabolic pathways?
+    id: 170816
+    title: >-
+        What is the concept of activation energy and how is it represented in reaction pathway diagrams?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
+    url: /learn/chemistry/questions/what-is-the-concept-of-activation-energy-and-how-is-it-represented-in-reaction-pathway-diagrams
 ---
 
 &nbsp;

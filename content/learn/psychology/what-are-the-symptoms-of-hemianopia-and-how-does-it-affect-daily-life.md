@@ -2,8 +2,10 @@
 _schema: default
 id: 164650
 date: 2025-01-28
-title: What are the symptoms of hemianopia and how does it affect daily life?
-article_title: What are the symptoms of hemianopia and how does it affect daily life?
+title: >-
+    What are the symptoms of hemianopia and how does it affect daily life?
+article_title: >-
+    What are the symptoms of hemianopia and how does it affect daily life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
 url: /learn/psychology/questions/what-are-the-symptoms-of-hemianopia-and-how-does-it-affect-daily-life
 score: -1.0
 related_article1:
-    id: 164649
-    title: How is hemianopia related to occipital lobe disorders?
+    id: 164652
+    title: >-
+        What is blindsight and how is it demonstrated experimentally?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
+    url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
 related_article2:
-    id: 164653
-    title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+    id: 164657
+    title: >-
+        What causes cortical blindness and how does it relate to the phenomenon of blindsight?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
+    url: /learn/psychology/questions/what-causes-cortical-blindness-and-how-does-it-relate-to-the-phenomenon-of-blindsight
 related_article3:
-    id: 164658
-    title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 related_article4:
-    id: 164656
-    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    id: 164654
+    title: >-
+        What is the portable magnification factor and why is it important in visual perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
+    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
 related_article5:
-    id: 164651
-    title: What causes scotoma and how does it differ from hemianopia?
+    id: 164652
+    title: >-
+        What is blindsight and how is it demonstrated experimentally?
     subject: Psychology
-    url: /learn/psychology/questions/what-causes-scotoma-and-how-does-it-differ-from-hemianopia
+    url: /learn/psychology/questions/what-is-blindsight-and-how-is-it-demonstrated-experimentally
 ---
 
 &nbsp;

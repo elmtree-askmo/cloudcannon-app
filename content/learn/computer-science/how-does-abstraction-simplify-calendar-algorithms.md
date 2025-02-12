@@ -2,8 +2,10 @@
 _schema: default
 id: 160721
 date: 2025-01-24
-title: How does abstraction simplify calendar algorithms?
-article_title: How does abstraction simplify calendar algorithms?
+title: >-
+    How does abstraction simplify calendar algorithms?
+article_title: >-
+    How does abstraction simplify calendar algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/how-does-abstraction-simplify-calendar-al
 score: -1.0
 related_article1:
     id: 160710
-    title: What constraints must be considered for binary search to be effective?
+    title: >-
+        What constraints must be considered for binary search to be effective?
     subject: Computer Science
     url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
 related_article2:
-    id: 160706
-    title: What is the role of Turing machines in the theoretical foundations of computability?
+    id: 160709
+    title: >-
+        What are the challenges associated with proving solutions in software testing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-turing-machines-in-the-theoretical-foundations-of-computability
+    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-proving-solutions-in-software-testing
 related_article3:
-    id: 160705
-    title: Explain the concept of solvable vs. unsolvable problems in computability theory.
+    id: 160869
+    title: >-
+        How do Turing machines contribute to the theoretical foundations of computability?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-solvable-vs-unsolvable-problems-in-computability-theory
+    url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
 related_article4:
-    id: 161029
-    title: What are the advantages of using non-numeric indices in associative arrays?
+    id: 160691
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article5:
-    id: 160706
-    title: What is the role of Turing machines in the theoretical foundations of computability?
+    id: 160701
+    title: >-
+        How do associative arrays utilize non-numeric indices?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-turing-machines-in-the-theoretical-foundations-of-computability
+    url: /learn/computer-science/questions/how-do-associative-arrays-utilize-nonnumeric-indices
 ---
 
 &nbsp;

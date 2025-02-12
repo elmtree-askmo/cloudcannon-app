@@ -2,8 +2,10 @@
 _schema: default
 id: 165884
 date: 2025-01-29
-title: What are the key stages of academic progression in a university setting?
-article_title: What are the key stages of academic progression in a university setting?
+title: >-
+    What are the key stages of academic progression in a university setting?
+article_title: >-
+    What are the key stages of academic progression in a university setting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-key-stages-of-academic-prog
 score: -1.0
 related_article1:
     id: 165891
-    title: How does the complexity of research requirements increase with academic progression?
+    title: >-
+        How does the complexity of research requirements increase with academic progression?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-complexity-of-research-requirements-increase-with-academic-progression
 related_article2:
-    id: 165882
-    title: What is the primary role of a university as a research institution?
+    id: 165894
+    title: >-
+        What is the significance of studying material, cultural, and social artefacts in the arts and humanities?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
+    url: /learn/education-studies/questions/what-is-the-significance-of-studying-material-cultural-and-social-artefacts-in-the-arts-and-humanities
 related_article3:
-    id: 165887
-    title: How does lifelong learning contribute to the development of a research community?
+    id: 165902
+    title: >-
+        How can individuals adapt to change through lifelong learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-lifelong-learning-contribute-to-the-development-of-a-research-community
+    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
 related_article4:
-    id: 165891
-    title: How does the complexity of research requirements increase with academic progression?
+    id: 165902
+    title: >-
+        How can individuals adapt to change through lifelong learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-complexity-of-research-requirements-increase-with-academic-progression
+    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
 related_article5:
-    id: 165896
-    title: What is the role of archaeology and history in understanding material artefacts?
+    id: 165899
+    title: >-
+        How can planning and scheduling improve a student's academic performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+    url: /learn/education-studies/questions/how-can-planning-and-scheduling-improve-a-students-academic-performance
 ---
 
 &nbsp;

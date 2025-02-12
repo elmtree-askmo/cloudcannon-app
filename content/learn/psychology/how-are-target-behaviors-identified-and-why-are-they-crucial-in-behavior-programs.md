@@ -2,8 +2,10 @@
 _schema: default
 id: 169325
 date: 2025-02-05
-title: How are target behaviors identified and why are they crucial in behavior programs?
-article_title: How are target behaviors identified and why are they crucial in behavior programs?
+title: >-
+    How are target behaviors identified and why are they crucial in behavior programs?
+article_title: >-
+    How are target behaviors identified and why are they crucial in behavior programs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-are-target-behaviors-identified-and-why-are-they-crucial-in-behav
 url: /learn/psychology/questions/how-are-target-behaviors-identified-and-why-are-they-crucial-in-behavior-programs
 score: -1.0
 related_article1:
+    id: 169314
+    title: >-
+        What is differential reinforcement and what is its primary purpose?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-differential-reinforcement-and-what-is-its-primary-purpose
+related_article2:
     id: 169316
-    title: What is the topography of behavior and why is it significant in behavior analysis?
+    title: >-
+        What is the topography of behavior and why is it significant in behavior analysis?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-topography-of-behavior-and-why-is-it-significant-in-behavior-analysis
-related_article2:
-    id: 169315
-    title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
 related_article3:
-    id: 169315
-    title: How can reinforcement schedules be adjusted based on progress in differential reinforcement?
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-reinforcement-schedules-be-adjusted-based-on-progress-in-differential-reinforcement
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 related_article4:
-    id: 169319
-    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    id: 169328
+    title: >-
+        What are some common data collection techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+    url: /learn/psychology/questions/what-are-some-common-data-collection-techniques-used-in-behavior-analysis
+related_article5:
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162129
 date: 2025-01-25
-title: List the criteria used to determine if two triangles are congruent.
-article_title: List the criteria used to determine if two triangles are congruent.
+title: >-
+    List the criteria used to determine if two triangles are congruent.
+article_title: >-
+    List the criteria used to determine if two triangles are congruent.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: list-the-criteria-used-to-determine-if-two-triangles-are-congruent.md
 url: /learn/mathematics/questions/list-the-criteria-used-to-determine-if-two-triangles-are-congruent
 score: -1.0
 related_article1:
-    id: 162130
-    title: What are the properties of a triangle that can be used to determine its congruence?
+    id: 162131
+    title: >-
+        How does reflecting a point across the x-axis change its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-properties-of-a-triangle-that-can-be-used-to-determine-its-congruence
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-change-its-coordinates
 related_article2:
-    id: 162133
-    title: What is the result of translating a geometric figure in terms of its shape and size?
+    id: 162128
+    title: >-
+        What is the definition of congruent figures in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-result-of-translating-a-geometric-figure-in-terms-of-its-shape-and-size
+    url: /learn/mathematics/questions/what-is-the-definition-of-congruent-figures-in-geometry
 related_article3:
-    id: 162126
-    title: What are the three main types of geometric transformations?
+    id: 162128
+    title: >-
+        What is the definition of congruent figures in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
+    url: /learn/mathematics/questions/what-is-the-definition-of-congruent-figures-in-geometry
 related_article4:
-    id: 162126
-    title: What are the three main types of geometric transformations?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-main-types-of-geometric-transformations
-related_article5:
     id: 162127
-    title: How does a reflection transformation affect the coordinates of a point?
+    title: >-
+        How does a reflection transformation affect the coordinates of a point?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-a-reflection-transformation-affect-the-coordinates-of-a-point
+related_article5:
+    id: 162136
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168376
 date: 2025-02-03
-title: What role do oral histories play in shaping our understanding of the past?
-article_title: What role do oral histories play in shaping our understanding of the past?
+title: >-
+    What role do oral histories play in shaping our understanding of the past?
+article_title: >-
+    What role do oral histories play in shaping our understanding of the past?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-
 url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
 score: -1.0
 related_article1:
-    id: 168390
-    title: How does genetic data help in tracing human migration patterns?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
-related_article2:
-    id: 168387
-    title: What were the main characteristics and tools of the Paleolithic Era?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-main-characteristics-and-tools-of-the-paleolithic-era
-related_article3:
     id: 168392
-    title: How did hunting and gathering societies organize themselves socially?
+    title: >-
+        How did hunting and gathering societies organize themselves socially?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
+related_article2:
+    id: 168395
+    title: >-
+        What types of historical evidence are used to study past societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-historical-evidence-are-used-to-study-past-societies
+related_article3:
+    id: 168386
+    title: >-
+        What methods are used to date historical events and artifacts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-are-used-to-date-historical-events-and-artifacts
 related_article4:
-    id: 168382
-    title: What are the key developments in the timeline of human evolution?
+    id: 168374
+    title: >-
+        What is the significance of prehistory in understanding human history?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-developments-in-the-timeline-of-human-evolution
-related_article5:
-    id: 168378
-    title: How do cultural and physical anthropology differ in their study of human societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
+    url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
 ---
 
 &nbsp;

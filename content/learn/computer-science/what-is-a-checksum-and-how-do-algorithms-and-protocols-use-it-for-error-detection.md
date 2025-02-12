@@ -2,8 +2,10 @@
 _schema: default
 id: 161702
 date: 2025-01-24
-title: What is a checksum, and how do algorithms and protocols use it for error detection?
-article_title: What is a checksum, and how do algorithms and protocols use it for error detection?
+title: >-
+    What is a checksum, and how do algorithms and protocols use it for error detection?
+article_title: >-
+    What is a checksum, and how do algorithms and protocols use it for error detection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-checksum-and-how-do-algorithms-and-protocols-use-it-for-err
 url: /learn/computer-science/questions/what-is-a-checksum-and-how-do-algorithms-and-protocols-use-it-for-error-detection
 score: -1.0
 related_article1:
-    id: 161692
-    title: Why is completeness important in information, and what factors can affect it?
+    id: 161427
+    title: >-
+        What is the difference between data and information, and why is raw data considered meaningless?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-completeness-important-in-information-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
 related_article2:
-    id: 161684
-    title: What is the definition of data and why is raw data considered meaningless?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-definition-of-data-and-why-is-raw-data-considered-meaningless
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 related_article3:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161686
+    title: >-
+        What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article4:
-    id: 161431
-    title: How does indirect data differ from direct data, and what are some examples of its uses?
+    id: 161498
+    title: >-
+        What are the risks associated with data transmission and how does encryption mitigate these risks?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-some-examples-of-its-uses
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 related_article5:
-    id: 161433
-    title: What factors influence the relevance of information, and why is it important?
+    id: 161507
+    title: >-
+        How does a checksum function in error detection and what are some common algorithms used?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+    url: /learn/computer-science/questions/how-does-a-checksum-function-in-error-detection-and-what-are-some-common-algorithms-used
 ---
 
 &nbsp;

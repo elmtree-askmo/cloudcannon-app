@@ -2,8 +2,10 @@
 _schema: default
 id: 169036
 date: 2025-02-04
-title: What are the main challenges faced in the preservation of Aboriginal heritage sites?
-article_title: What are the main challenges faced in the preservation of Aboriginal heritage sites?
+title: >-
+    What are the main challenges faced in the preservation of Aboriginal heritage sites?
+article_title: >-
+    What are the main challenges faced in the preservation of Aboriginal heritage sites?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-
 url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
 score: 8.5
 related_article1:
-    id: 169035
-    title: Explain the role of the Native Title Act in the legal framework for Aboriginal land rights.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-the-native-title-act-in-the-legal-framework-for-aboriginal-land-rights
-related_article2:
-    id: 169038
-    title: What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
-related_article3:
     id: 169031
-    title: Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+    title: >-
+        Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
     subject: History of the World
     url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
+related_article2:
+    id: 169032
+    title: >-
+        What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-contemporary-challenges-faced-by-aboriginal-communities-in-preserving-their-cultural-identity
+related_article3:
+    id: 169024
+    title: >-
+        What were the main challenges faced in the memorialization of Aboriginal resistance during the colonial period?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-in-the-memorialization-of-aboriginal-resistance-during-the-colonial-period
 related_article4:
-    id: 169028
-    title: Discuss the impact of modern-day challenges on the cultural identity of Aboriginal people.
+    id: 169038
+    title: >-
+        What are the main reconciliation challenges faced in contested spaces related to Aboriginal memorial sites?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-impact-of-modernday-challenges-on-the-cultural-identity-of-aboriginal-people
-related_article5:
-    id: 169037
-    title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
+    url: /learn/history-of-the-world/questions/what-are-the-main-reconciliation-challenges-faced-in-contested-spaces-related-to-aboriginal-memorial-sites
 ---
 
 &nbsp;

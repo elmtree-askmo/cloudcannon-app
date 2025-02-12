@@ -2,8 +2,10 @@
 _schema: default
 id: 165140
 date: 2025-01-28
-title: How do SPSS and R differ as software tools for statistical analysis?
-article_title: How do SPSS and R differ as software tools for statistical analysis?
+title: >-
+    How do SPSS and R differ as software tools for statistical analysis?
+article_title: >-
+    How do SPSS and R differ as software tools for statistical analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis.m
 url: /learn/education-studies/questions/how-do-spss-and-r-differ-as-software-tools-for-statistical-analysis
 score: -1.0
 related_article1:
-    id: 165122
-    title: What are the key differences between surveys, observations, and experiments in data collection?
+    id: 165134
+    title: >-
+        How can observer bias be minimized in research studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-surveys-observations-and-experiments-in-data-collection
+    url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
 related_article2:
-    id: 165132
-    title: How can external validity be threatened in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-external-validity-be-threatened-in-research
-related_article3:
-    id: 165137
-    title: What are the advantages of using a between-subjects design in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
-related_article4:
-    id: 165149
-    title: Why is study replication important in research, and what challenges does it face?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-study-replication-important-in-research-and-what-challenges-does-it-face
-related_article5:
     id: 165148
-    title: What are the types of measurement instruments used in research, and how is reliability assessed?
+    title: >-
+        What are the types of measurement instruments used in research, and how is reliability assessed?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-types-of-measurement-instruments-used-in-research-and-how-is-reliability-assessed
+related_article3:
+    id: 165128
+    title: >-
+        What is simple randomization, and where is it typically applied?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-simple-randomization-and-where-is-it-typically-applied
+related_article4:
+    id: 165137
+    title: >-
+        What are the advantages of using a between-subjects design in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-advantages-of-using-a-betweensubjects-design-in-research
+related_article5:
+    id: 165146
+    title: >-
+        What is the distinction between causation and correlation in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
 ---
 
 &nbsp;

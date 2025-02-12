@@ -2,8 +2,10 @@
 _schema: default
 id: 166178
 date: 2025-01-29
-title: How do branching diagrams help in understanding phylogeny?
-article_title: How do branching diagrams help in understanding phylogeny?
+title: >-
+    How do branching diagrams help in understanding phylogeny?
+article_title: >-
+    How do branching diagrams help in understanding phylogeny?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-branching-diagrams-help-in-understanding-phylogeny.md
 url: /learn/biotechnology/questions/how-do-branching-diagrams-help-in-understanding-phylogeny
 score: -1.0
 related_article1:
-    id: 166198
-    title: What distinguishes a scientific theory from a hypothesis?
+    id: 166184
+    title: >-
+        How do classification systems reflect evolutionary relationships among species?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-distinguishes-a-scientific-theory-from-a-hypothesis
+    url: /learn/biotechnology/questions/how-do-classification-systems-reflect-evolutionary-relationships-among-species
 related_article2:
-    id: 166175
-    title: How do metabolism and homeostasis contribute to the survival of living organisms?
+    id: 166184
+    title: >-
+        How do classification systems reflect evolutionary relationships among species?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-metabolism-and-homeostasis-contribute-to-the-survival-of-living-organisms
+    url: /learn/biotechnology/questions/how-do-classification-systems-reflect-evolutionary-relationships-among-species
 related_article3:
-    id: 166174
-    title: What are the key structural components of living cells that contain DNA?
+    id: 166188
+    title: >-
+        What distinguishes eukaryotic cells from prokaryotic cells in terms of structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-structural-components-of-living-cells-that-contain-dna
+    url: /learn/biotechnology/questions/what-distinguishes-eukaryotic-cells-from-prokaryotic-cells-in-terms-of-structure
 related_article4:
-    id: 166197
-    title: How do control and experimental groups differ in scientific experimentation?
+    id: 166176
+    title: >-
+        Explain the role of evolution in the growth and reproduction of living organisms.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-control-and-experimental-groups-differ-in-scientific-experimentation
+    url: /learn/biotechnology/questions/explain-the-role-of-evolution-in-the-growth-and-reproduction-of-living-organisms
 related_article5:
     id: 166184
-    title: How do classification systems reflect evolutionary relationships among species?
+    title: >-
+        How do classification systems reflect evolutionary relationships among species?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-classification-systems-reflect-evolutionary-relationships-among-species
 ---

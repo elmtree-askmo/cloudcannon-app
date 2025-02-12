@@ -2,8 +2,10 @@
 _schema: default
 id: 164705
 date: 2025-01-28
-title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
-article_title: Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+title: >-
+    Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
+article_title: >-
+    Which brain regions are involved in attention, and how do the right and left parietal lobes contribute to attention control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: which-brain-regions-are-involved-in-attention-and-how-do-the-right-an
 url: /learn/psychology/questions/which-brain-regions-are-involved-in-attention-and-how-do-the-right-and-left-parietal-lobes-contribute-to-attention-control
 score: -1.0
 related_article1:
-    id: 164706
-    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    id: 164701
+    title: >-
+        What factors affect reaction time in visual search, and how does set size influence this process?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
+    url: /learn/psychology/questions/what-factors-affect-reaction-time-in-visual-search-and-how-does-set-size-influence-this-process
 related_article2:
-    id: 164707
-    title: Outline the pathways and mechanisms involved in visual processing and their relation to attention.
+    id: 164698
+    title: >-
+        What distinguishes object-based attention from space-based attention, and what evidence supports these differences?
     subject: Psychology
-    url: /learn/psychology/questions/outline-the-pathways-and-mechanisms-involved-in-visual-processing-and-their-relation-to-attention
+    url: /learn/psychology/questions/what-distinguishes-objectbased-attention-from-spacebased-attention-and-what-evidence-supports-these-differences
 related_article3:
     id: 164709
-    title: What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
+    title: >-
+        What are the pathways and mechanisms of tactile processing, and how do they relate to attention?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-pathways-and-mechanisms-of-tactile-processing-and-how-do-they-relate-to-attention
 related_article4:
-    id: 164706
-    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    id: 164708
+    title: >-
+        Discuss the pathways and mechanisms of auditory processing and how disorders in this area can affect attention.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
+    url: /learn/psychology/questions/discuss-the-pathways-and-mechanisms-of-auditory-processing-and-how-disorders-in-this-area-can-affect-attention
 related_article5:
     id: 164706
-    title: What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
+    title: >-
+        What are the symptoms and causes of hemispatial neglect, and how can recovery and adaptation occur?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-hemispatial-neglect-and-how-can-recovery-and-adaptation-occur
 ---

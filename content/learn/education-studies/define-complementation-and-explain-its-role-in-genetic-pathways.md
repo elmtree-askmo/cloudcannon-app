@@ -2,8 +2,10 @@
 _schema: default
 id: 167839
 date: 2025-02-01
-title: Define complementation and explain its role in genetic pathways.
-article_title: Define complementation and explain its role in genetic pathways.
+title: >-
+    Define complementation and explain its role in genetic pathways.
+article_title: >-
+    Define complementation and explain its role in genetic pathways.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-complementation-and-explain-its-role-in-genetic-pathways.md
 url: /learn/education-studies/questions/define-complementation-and-explain-its-role-in-genetic-pathways
 score: -1.0
 related_article1:
-    id: 167845
-    title: How do correlation coefficients relate to genetic studies of complex traits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
-related_article2:
     id: 167838
-    title: What is epistasis, and how does it affect genetic pathways? Provide an example.
+    title: >-
+        What is epistasis, and how does it affect genetic pathways? Provide an example.
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-epistasis-and-how-does-it-affect-genetic-pathways-provide-an-example
+related_article2:
+    id: 167844
+    title: >-
+        Explain the concept of heritability and its importance in understanding genetic variance.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-concept-of-heritability-and-its-importance-in-understanding-genetic-variance
 related_article3:
-    id: 167848
-    title: How do multiple alleles contribute to genetic diversity within a population?
+    id: 167849
+    title: >-
+        What is the difference between incomplete dominance and incomplete penetrance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
+    url: /learn/education-studies/questions/what-is-the-difference-between-incomplete-dominance-and-incomplete-penetrance
 related_article4:
-    id: 167848
-    title: How do multiple alleles contribute to genetic diversity within a population?
+    id: 167851
+    title: >-
+        How does genetic potential relate to the normal distribution of quantitative traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
+    url: /learn/education-studies/questions/how-does-genetic-potential-relate-to-the-normal-distribution-of-quantitative-traits
 related_article5:
-    id: 167843
-    title: What is the significance of quantitative traits in genetics, and how are they measured?
+    id: 167845
+    title: >-
+        How do correlation coefficients relate to genetic studies of complex traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
+    url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
 ---
 
 &nbsp;

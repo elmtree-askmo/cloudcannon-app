@@ -2,8 +2,10 @@
 _schema: default
 id: 163335
 date: 2025-01-26
-title: How do prevalence and incidence differ in terms of existing and new cases?
-article_title: How do prevalence and incidence differ in terms of existing and new cases?
+title: >-
+    How do prevalence and incidence differ in terms of existing and new cases?
+article_title: >-
+    How do prevalence and incidence differ in terms of existing and new cases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-c
 url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 score: -1.0
 related_article1:
-    id: 163227
-    title: What is the significance of measuring disease frequency over a consistent time interval?
+    id: 163229
+    title: >-
+        Why is it crucial to use the correct denominator when calculating a proportion?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
+    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 related_article2:
-    id: 163063
-    title: Why is the denominator important in measures of disease frequency, and how can it vary across populations?
+    id: 163341
+    title: >-
+        How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
+    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
 related_article3:
-    id: 163245
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
+    id: 163330
+    title: >-
+        Why is it crucial to use the correct denominator when calculating a proportion?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
+    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 related_article4:
-    id: 163070
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163240
+    title: >-
+        How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-is-its-purpose
 related_article5:
-    id: 163069
-    title: What are the critical assumptions when calculating cumulative incidence?
+    id: 163066
+    title: >-
+        Why is it crucial to use the correct denominator when calculating a proportion?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
+    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
 ---
 
 &nbsp;

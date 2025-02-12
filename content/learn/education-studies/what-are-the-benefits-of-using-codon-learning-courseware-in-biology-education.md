@@ -2,8 +2,10 @@
 _schema: default
 id: 166899
 date: 2025-01-31
-title: What are the benefits of using Codon Learning courseware in biology education?
-article_title: What are the benefits of using Codon Learning courseware in biology education?
+title: >-
+    What are the benefits of using Codon Learning courseware in biology education?
+article_title: >-
+    What are the benefits of using Codon Learning courseware in biology education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-using-codon-learning-courseware-in-biology-e
 url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
 score: -1.0
 related_article1:
-    id: 166903
-    title: What is the relationship between attendance and GPA, and why is regular attendance important?
+    id: 166893
+    title: >-
+        What is the scope of discipline-based educational research and why is it important in biology education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
+    url: /learn/education-studies/questions/what-is-the-scope-of-disciplinebased-educational-research-and-why-is-it-important-in-biology-education
 related_article2:
+    id: 166898
+    title: >-
+        How do learning objectives guide student study practices and enhance understanding?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
+related_article3:
+    id: 166894
+    title: >-
+        How does cognitive load theory influence teaching strategies in cognitive science?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-cognitive-load-theory-influence-teaching-strategies-in-cognitive-science
+related_article4:
     id: 166900
-    title: How do Desire2Learn D2L features support course administration and content delivery?
+    title: >-
+        How do Desire2Learn D2L features support course administration and content delivery?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-desire2learn-d2l-features-support-course-administration-and-content-delivery
-related_article3:
-    id: 166906
-    title: How can distractions from cell phone use during lectures be reduced to promote focus?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-distractions-from-cell-phone-use-during-lectures-be-reduced-to-promote-focus
-related_article4:
-    id: 166897
-    title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
 related_article5:
-    id: 166901
-    title: What are the principles of active learning and how do they engage students in meaningful activities?
+    id: 166898
+    title: >-
+        How do learning objectives guide student study practices and enhance understanding?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
+    url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
 ---
 
 &nbsp;

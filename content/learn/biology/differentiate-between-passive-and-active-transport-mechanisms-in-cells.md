@@ -2,8 +2,10 @@
 _schema: default
 id: 168926
 date: 2025-02-04
-title: Differentiate between passive and active transport mechanisms in cells.
-article_title: Differentiate between passive and active transport mechanisms in cells.
+title: >-
+    Differentiate between passive and active transport mechanisms in cells.
+article_title: >-
+    Differentiate between passive and active transport mechanisms in cells.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-passive-and-active-transport-mechanisms-in-cell
 url: /learn/biology/questions/differentiate-between-passive-and-active-transport-mechanisms-in-cells
 score: -1.0
 related_article1:
-    id: 168923
-    title: How do peripheral proteins assist in cell signaling and communication?
+    id: 168919
+    title: >-
+        Describe the arrangement of phospholipids in the bilayer and the significance of hydrophilic and hydrophobic interactions.
     subject: Biology
-    url: /learn/biology/questions/how-do-peripheral-proteins-assist-in-cell-signaling-and-communication
+    url: /learn/biology/questions/describe-the-arrangement-of-phospholipids-in-the-bilayer-and-the-significance-of-hydrophilic-and-hydrophobic-interactions
 related_article2:
-    id: 168927
-    title: What is the role of protein channels and pumps in cell transport mechanisms?
+    id: 168921
+    title: >-
+        How does cholesterol regulate membrane fluidity and stability?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
+    url: /learn/biology/questions/how-does-cholesterol-regulate-membrane-fluidity-and-stability
 related_article3:
+    id: 168924
+    title: >-
+        What is the role of glycoproteins in cell recognition and immune response?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-glycoproteins-in-cell-recognition-and-immune-response
+related_article4:
+    id: 168921
+    title: >-
+        How does cholesterol regulate membrane fluidity and stability?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cholesterol-regulate-membrane-fluidity-and-stability
+related_article5:
     id: 168918
-    title: How do phospholipids contribute to the structure of the cell membrane?
+    title: >-
+        How do phospholipids contribute to the structure of the cell membrane?
     subject: Biology
     url: /learn/biology/questions/how-do-phospholipids-contribute-to-the-structure-of-the-cell-membrane
-related_article4:
-    id: 168929
-    title: Explain the hydrophobic nature of phospholipid tails and their role in membrane structure.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-hydrophobic-nature-of-phospholipid-tails-and-their-role-in-membrane-structure
-related_article5:
-    id: 168925
-    title: How do phospholipids and cholesterol influence cell membrane permeability?
-    subject: Biology
-    url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
 ---
 
 &nbsp;

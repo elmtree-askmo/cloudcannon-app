@@ -2,8 +2,10 @@
 _schema: default
 id: 169761
 date: 2025-02-05
-title: What are the nursing responsibilities and legal obligations in medication administration?
-article_title: What are the nursing responsibilities and legal obligations in medication administration?
+title: >-
+    What are the nursing responsibilities and legal obligations in medication administration?
+article_title: >-
+    What are the nursing responsibilities and legal obligations in medication administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-nursing-responsibilities-and-legal-obligations-in-medica
 url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
 score: -1.0
 related_article1:
-    id: 169760
-    title: What are the national guidelines for healthcare regulations, and how are they implemented?
+    id: 169740
+    title: >-
+        How does shared decision making enhance person-centered care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-national-guidelines-for-healthcare-regulations-and-how-are-they-implemented
+    url: /learn/nursing/questions/how-does-shared-decision-making-enhance-personcentered-care
 related_article2:
-    id: 169741
-    title: Why is patient consent crucial in healthcare, and what are the considerations for minors?
+    id: 169754
+    title: >-
+        What are the main categories of drug classifications in pharmacology?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-patient-consent-crucial-in-healthcare-and-what-are-the-considerations-for-minors
+    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
 related_article3:
-    id: 169742
-    title: What are the key developmental stages in lifespan development, and how do they impact health?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-developmental-stages-in-lifespan-development-and-how-do-they-impact-health
-related_article4:
-    id: 169752
-    title: What are the key legal aspects of medicines management that nurses must be aware of?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-legal-aspects-of-medicines-management-that-nurses-must-be-aware-of
-related_article5:
     id: 169757
-    title: What are the regulations and storage requirements for controlled drugs?
+    title: >-
+        What are the regulations and storage requirements for controlled drugs?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
+related_article4:
+    id: 169767
+    title: >-
+        How do digital and print versions of the BNF differ, and how are updates and revisions managed?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
+related_article5:
+    id: 169764
+    title: >-
+        What are the best practices for prescribing medications, and what common pitfalls should be avoided?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
 ---
 
 &nbsp;

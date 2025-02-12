@@ -2,8 +2,10 @@
 _schema: default
 id: 165828
 date: 2025-01-29
-title: What are the different types of parasites and how do they differ in their relationships with hosts?
-article_title: What are the different types of parasites and how do they differ in their relationships with hosts?
+title: >-
+    What are the different types of parasites and how do they differ in their relationships with hosts?
+article_title: >-
+    What are the different types of parasites and how do they differ in their relationships with hosts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-parasites-and-how-do-they-differ-in-t
 url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
 score: -1.0
 related_article1:
-    id: 165855
-    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 related_article2:
+    id: 165836
+    title: >-
+        Identify common vectors of disease and explain their role in disease transmission.
+    subject: Psychology
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
+related_article3:
+    id: 165833
+    title: >-
+        How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
+related_article4:
+    id: 165829
+    title: >-
+        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
+related_article5:
     id: 165840
-    title: What are the clinical implications of identifying parasitic infections?
+    title: >-
+        What are the clinical implications of identifying parasitic infections?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
-related_article3:
-    id: 165849
-    title: What are parasitoids and how do they differ from other parasitic insects?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
-related_article4:
-    id: 165841
-    title: How does the immune response contribute to the pathological effects of parasitic infections?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-immune-response-contribute-to-the-pathological-effects-of-parasitic-infections
-related_article5:
-    id: 165846
-    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 ---
 
 &nbsp;

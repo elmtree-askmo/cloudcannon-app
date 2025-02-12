@@ -2,8 +2,10 @@
 _schema: default
 id: 164235
 date: 2025-01-28
-title: What role does fMRI play in cognitive neuroscience research?
-article_title: What role does fMRI play in cognitive neuroscience research?
+title: >-
+    What role does fMRI play in cognitive neuroscience research?
+article_title: >-
+    What role does fMRI play in cognitive neuroscience research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-fmri-play-in-cognitive-neuroscience-research.md
 url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
 score: -1.0
 related_article1:
-    id: 164231
-    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    id: 164241
+    title: >-
+        What is neuronal firing and how does it relate to neural activity?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
 related_article2:
     id: 164242
-    title: How do imaging techniques measure neural activity?
+    title: >-
+        How do imaging techniques measure neural activity?
     subject: Psychology
     url: /learn/psychology/questions/how-do-imaging-techniques-measure-neural-activity
 related_article3:
-    id: 164238
-    title: How do association areas in the brain contribute to cognitive processes?
+    id: 164241
+    title: >-
+        What is neuronal firing and how does it relate to neural activity?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
 related_article4:
-    id: 164239
-    title: Why are dependent variables crucial in experimental research?
+    id: 164240
+    title: >-
+        What are the differences between behavioral, physiological, and neural measures as types of dependent variables?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
+    url: /learn/psychology/questions/what-are-the-differences-between-behavioral-physiological-and-neural-measures-as-types-of-dependent-variables
 related_article5:
-    id: 164231
-    title: What is the principle behind Magnetic Resonance Imaging (MRI) in fMRI technology?
+    id: 164237
+    title: >-
+        What is the function of the motor cortex in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-principle-behind-magnetic-resonance-imaging-mri-in-fmri-technology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
 ---
 
 &nbsp;

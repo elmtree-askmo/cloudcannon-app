@@ -2,8 +2,10 @@
 _schema: default
 id: 163041
 date: 2025-01-26
-title: Why is past behavior considered a strong predictor of future behavior in therapy?
-article_title: Why is past behavior considered a strong predictor of future behavior in therapy?
+title: >-
+    Why is past behavior considered a strong predictor of future behavior in therapy?
+article_title: >-
+    Why is past behavior considered a strong predictor of future behavior in therapy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-past-behavior-considered-a-strong-predictor-of-future-behavior
 url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
 score: -1.0
 related_article1:
-    id: 163024
-    title: What are the primary purposes of theories in psychotherapy?
+    id: 163025
+    title: >-
+        How can cultural significance limit the effectiveness of psychological theories?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-purposes-of-theories-in-psychotherapy
+    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
 related_article2:
-    id: 163029
-    title: Why is empirical support crucial for the validity of psychological theories?
+    id: 163042
+    title: >-
+        How do client views and perspectives influence the therapeutic process?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
+    url: /learn/psychology/questions/how-do-client-views-and-perspectives-influence-the-therapeutic-process
 related_article3:
-    id: 163035
-    title: How can transference and countertransference impact the therapeutic process?
+    id: 163027
+    title: >-
+        How does eclectic practice contribute to the integration of therapeutic approaches?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-transference-and-countertransference-impact-the-therapeutic-process
+    url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
 related_article4:
-    id: 163033
-    title: How do power imbalances affect cultural safety in therapy?
+    id: 163039
+    title: >-
+        Why is construct validity important in psychological theories?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+    url: /learn/psychology/questions/why-is-construct-validity-important-in-psychological-theories
 related_article5:
-    id: 163038
-    title: What therapist factors can negatively impact the therapeutic process?
+    id: 163026
+    title: >-
+        What are the key components of a conceptual framework in therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-therapist-factors-can-negatively-impact-the-therapeutic-process
+    url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
 ---
 
 &nbsp;

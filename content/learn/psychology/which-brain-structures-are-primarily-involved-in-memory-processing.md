@@ -2,8 +2,10 @@
 _schema: default
 id: 164490
 date: 2025-01-28
-title: Which brain structures are primarily involved in memory processing?
-article_title: Which brain structures are primarily involved in memory processing?
+title: >-
+    Which brain structures are primarily involved in memory processing?
+article_title: >-
+    Which brain structures are primarily involved in memory processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: which-brain-structures-are-primarily-involved-in-memory-processing.md
 url: /learn/psychology/questions/which-brain-structures-are-primarily-involved-in-memory-processing
 score: -1.0
 related_article1:
-    id: 164483
-    title: How does skill acquisition relate to implicit memory?
+    id: 164492
+    title: >-
+        What are the common symptoms of Alzheimer's disease and Korsakoff syndrome?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-alzheimers-disease-and-korsakoff-syndrome
 related_article2:
-    id: 164497
-    title: How does synaptic plasticity contribute to memory?
+    id: 164501
+    title: >-
+        What are the current trends in memory research, particularly in neuroimaging studies?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-synaptic-plasticity-contribute-to-memory
+    url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
 related_article3:
-    id: 164500
-    title: What are the educational implications of understanding learning and memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-educational-implications-of-understanding-learning-and-memory
-related_article4:
     id: 164499
-    title: How are learning processes related to memory consolidation?
+    title: >-
+        How are learning processes related to memory consolidation?
     subject: Psychology
     url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
-related_article5:
-    id: 164485
-    title: What are the key findings from studies on explicit memory?
+related_article4:
+    id: 164482
+    title: >-
+        What is the role of unconscious learning in implicit memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+    url: /learn/psychology/questions/what-is-the-role-of-unconscious-learning-in-implicit-memory
 ---
 
 &nbsp;

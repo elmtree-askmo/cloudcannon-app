@@ -2,8 +2,10 @@
 _schema: default
 id: 167644
 date: 2025-01-31
-title: What distinguishes saturated fatty acids from unsaturated fatty acids?
-article_title: What distinguishes saturated fatty acids from unsaturated fatty acids?
+title: >-
+    What distinguishes saturated fatty acids from unsaturated fatty acids?
+article_title: >-
+    What distinguishes saturated fatty acids from unsaturated fatty acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-saturated-fatty-acids-from-unsaturated-fatty-acids
 url: /learn/biotechnology/questions/what-distinguishes-saturated-fatty-acids-from-unsaturated-fatty-acids
 score: -1.0
 related_article1:
+    id: 167637
+    title: >-
+        Describe the structure of the DNA double helix.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
+related_article2:
+    id: 167637
+    title: >-
+        Describe the structure of the DNA double helix.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
+related_article3:
+    id: 167635
+    title: >-
+        How do ribose and deoxyribose sugars differ structurally?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
+related_article4:
     id: 167638
-    title: What role does the hydroxyl group play in RNA structure?
+    title: >-
+        What role does the hydroxyl group play in RNA structure?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-role-does-the-hydroxyl-group-play-in-rna-structure
-related_article2:
-    id: 167647
-    title: List the nitrogenous bases found in DNA and RNA.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
-related_article3:
+related_article5:
     id: 167634
-    title: What are the three main components of a nucleotide?
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
-related_article4:
-    id: 167648
-    title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
-related_article5:
-    id: 167645
-    title: What are the main classes of biological macromolecules?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167130
 date: 2025-01-31
-title: Describe the atomic arrangement and type of bonds present in a water molecule.
-article_title: Describe the atomic arrangement and type of bonds present in a water molecule.
+title: >-
+    Describe the atomic arrangement and type of bonds present in a water molecule.
+article_title: >-
+    Describe the atomic arrangement and type of bonds present in a water molecule.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-atomic-arrangement-and-type-of-bonds-present-in-a-water-
 url: /learn/chemistry/questions/describe-the-atomic-arrangement-and-type-of-bonds-present-in-a-water-molecule
 score: -1.0
 related_article1:
-    id: 167134
-    title: Explain the significance of positive and negative charges in water molecules.
+    id: 167131
+    title: >-
+        What are the three states of matter in which water can exist?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
+    url: /learn/chemistry/questions/what-are-the-three-states-of-matter-in-which-water-can-exist
 related_article2:
-    id: 167138
-    title: Describe the process by which water dissolves sodium and chloride ions.
+    id: 167140
+    title: >-
+        How do hydrogen bonds affect the cohesion and adhesion properties of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-by-which-water-dissolves-sodium-and-chloride-ions
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water
 related_article3:
-    id: 167138
-    title: Describe the process by which water dissolves sodium and chloride ions.
+    id: 167131
+    title: >-
+        What are the three states of matter in which water can exist?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-by-which-water-dissolves-sodium-and-chloride-ions
+    url: /learn/chemistry/questions/what-are-the-three-states-of-matter-in-which-water-can-exist
 related_article4:
     id: 167136
-    title: How does adhesion in water facilitate interaction with surfaces?
+    title: >-
+        How does adhesion in water facilitate interaction with surfaces?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
 related_article5:
-    id: 167134
-    title: Explain the significance of positive and negative charges in water molecules.
+    id: 167137
+    title: >-
+        Why is water considered a universal solvent and how does it interact with different molecules?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
+    url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-how-does-it-interact-with-different-molecules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165644
 date: 2025-01-29
-title: What is the primary function of DHCP in host configuration?
-article_title: What is the primary function of DHCP in host configuration?
+title: >-
+    What is the primary function of DHCP in host configuration?
+article_title: >-
+    What is the primary function of DHCP in host configuration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-function-of-dhcp-in-host-configuration.md
 url: /learn/computer-science/questions/what-is-the-primary-function-of-dhcp-in-host-configuration
 score: -1.0
 related_article1:
-    id: 165643
-    title: How does DNS facilitate domain name resolution?
+    id: 165650
+    title: >-
+        What are the differences between POP and IMAP protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
+    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
 related_article2:
-    id: 165645
-    title: Explain the difference between the client-server model and peer-to-peer networks.
+    id: 165649
+    title: >-
+        Describe the store-and-forward method used in email operations.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-the-clientserver-model-and-peertopeer-networks
+    url: /learn/computer-science/questions/describe-the-storeandforward-method-used-in-email-operations
 related_article3:
-    id: 165648
-    title: What are the main differences between HTTP and HTTPS in terms of security?
+    id: 165642
+    title: >-
+        What are the key specifications of TCP/IP Application Layer protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-differences-between-http-and-https-in-terms-of-security
+    url: /learn/computer-science/questions/what-are-the-key-specifications-of-tcpip-application-layer-protocols
 related_article4:
-    id: 165646
-    title: What role do peers play in a peer-to-peer network?
+    id: 165654
+    title: >-
+        What functions does the Server Message Block (SMB) protocol provide?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
+    url: /learn/computer-science/questions/what-functions-does-the-server-message-block-smb-protocol-provide
 related_article5:
-    id: 165646
-    title: What role do peers play in a peer-to-peer network?
+    id: 165649
+    title: >-
+        Describe the store-and-forward method used in email operations.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
+    url: /learn/computer-science/questions/describe-the-storeandforward-method-used-in-email-operations
 ---
 
 &nbsp;

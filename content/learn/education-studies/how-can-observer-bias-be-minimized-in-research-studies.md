@@ -2,8 +2,10 @@
 _schema: default
 id: 165134
 date: 2025-01-28
-title: How can observer bias be minimized in research studies?
-article_title: How can observer bias be minimized in research studies?
+title: >-
+    How can observer bias be minimized in research studies?
+article_title: >-
+    How can observer bias be minimized in research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-observer-bias-be-minimized-in-research-studies.md
 url: /learn/education-studies/questions/how-can-observer-bias-be-minimized-in-research-studies
 score: -1.0
 related_article1:
+    id: 165142
+    title: >-
+        How is cortisol measured in stress research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-cortisol-measured-in-stress-research
+related_article2:
     id: 165151
-    title: How do regression analysis and ANOVA differ in quantitative data analysis?
+    title: >-
+        How do regression analysis and ANOVA differ in quantitative data analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
-related_article2:
-    id: 165136
-    title: How do placebo and active control groups differ in research studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-placebo-and-active-control-groups-differ-in-research-studies
 related_article3:
-    id: 165141
-    title: What role does dopamine play in stress and behavior?
+    id: 165127
+    title: >-
+        How do variables, hypotheses, and procedures contribute to experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-dopamine-play-in-stress-and-behavior
+    url: /learn/education-studies/questions/how-do-variables-hypotheses-and-procedures-contribute-to-experimental-design
 related_article4:
-    id: 165139
-    title: What is the difference between descriptive and inferential statistics in data analysis?
+    id: 165130
+    title: >-
+        What is the purpose of a Latin square design in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-descriptive-and-inferential-statistics-in-data-analysis
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-latin-square-design-in-research
 related_article5:
-    id: 165146
-    title: What is the distinction between causation and correlation in research?
+    id: 165148
+    title: >-
+        What are the types of measurement instruments used in research, and how is reliability assessed?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
+    url: /learn/education-studies/questions/what-are-the-types-of-measurement-instruments-used-in-research-and-how-is-reliability-assessed
 ---
 
 &nbsp;

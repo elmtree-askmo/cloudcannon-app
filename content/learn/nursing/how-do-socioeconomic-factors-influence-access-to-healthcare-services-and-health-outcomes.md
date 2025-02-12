@@ -2,8 +2,10 @@
 _schema: default
 id: 169594
 date: 2025-02-05
-title: How do socio-economic factors influence access to healthcare services and health outcomes?
-article_title: How do socio-economic factors influence access to healthcare services and health outcomes?
+title: >-
+    How do socio-economic factors influence access to healthcare services and health outcomes?
+article_title: >-
+    How do socio-economic factors influence access to healthcare services and health outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-socioeconomic-factors-influence-access-to-healthcare-services-
 url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
 score: -1.0
 related_article1:
-    id: 169596
-    title: What role does education and health literacy play in managing health, and what barriers exist to accessing education?
+    id: 169598
+    title: >-
+        How can language barriers affect patient care, and what strategies can be implemented to overcome them?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-education-and-health-literacy-play-in-managing-health-and-what-barriers-exist-to-accessing-education
+    url: /learn/nursing/questions/how-can-language-barriers-affect-patient-care-and-what-strategies-can-be-implemented-to-overcome-them
 related_article2:
-    id: 169599
-    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
+    id: 169586
+    title: >-
+        How does the social model of disability promote patient-centered care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
+    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
 related_article3:
-    id: 169585
-    title: What are the limitations and criticisms of the medical model of disability?
+    id: 169591
+    title: >-
+        What are the barriers faced by ethnic minorities in accessing healthcare, particularly related to language and communication?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
+    url: /learn/nursing/questions/what-are-the-barriers-faced-by-ethnic-minorities-in-accessing-healthcare-particularly-related-to-language-and-communication
 related_article4:
-    id: 169588
-    title: What strategies can be employed to overcome biases in nursing?
+    id: 169595
+    title: >-
+        Why is cultural competence important in nursing, and how can it be improved through training and education?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
 related_article5:
-    id: 169588
-    title: What strategies can be employed to overcome biases in nursing?
+    id: 169600
+    title: >-
+        How have societal norms historically influenced healthcare practices, and what is their impact today?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
 ---
 
 &nbsp;

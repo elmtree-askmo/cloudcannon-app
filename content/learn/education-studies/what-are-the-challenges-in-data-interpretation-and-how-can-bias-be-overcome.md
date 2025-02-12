@@ -2,8 +2,10 @@
 _schema: default
 id: 165118
 date: 2025-01-28
-title: What are the challenges in data interpretation and how can bias be overcome?
-article_title: What are the challenges in data interpretation and how can bias be overcome?
+title: >-
+    What are the challenges in data interpretation and how can bias be overcome?
+article_title: >-
+    What are the challenges in data interpretation and how can bias be overcome?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-challenges-in-data-interpretation-and-how-can-bias-be-ov
 url: /learn/education-studies/questions/what-are-the-challenges-in-data-interpretation-and-how-can-bias-be-overcome
 score: -1.0
 related_article1:
-    id: 165096
-    title: Describe the different types of measurement scales used for dependent variables.
+    id: 165095
+    title: >-
+        What is a dependent variable and why is it important in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-different-types-of-measurement-scales-used-for-dependent-variables
+    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
 related_article2:
-    id: 165098
-    title: How can independent variables be manipulated to impact experimental outcomes?
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-variables-be-manipulated-to-impact-experimental-outcomes
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 related_article3:
-    id: 165096
-    title: Describe the different types of measurement scales used for dependent variables.
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-different-types-of-measurement-scales-used-for-dependent-variables
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 related_article4:
-    id: 165111
-    title: What is the difference between continuous and categorical variables?
+    id: 165099
+    title: >-
+        What are the characteristics of nominal measurement types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
 related_article5:
     id: 165095
-    title: What is a dependent variable and why is it important in research?
+    title: >-
+        What is a dependent variable and why is it important in research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
 ---

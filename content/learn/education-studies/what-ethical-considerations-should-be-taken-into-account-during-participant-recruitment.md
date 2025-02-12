@@ -2,8 +2,10 @@
 _schema: default
 id: 164934
 date: 2025-01-28
-title: What ethical considerations should be taken into account during participant recruitment?
-article_title: What ethical considerations should be taken into account during participant recruitment?
+title: >-
+    What ethical considerations should be taken into account during participant recruitment?
+article_title: >-
+    What ethical considerations should be taken into account during participant recruitment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-ethical-considerations-should-be-taken-into-account-during-parti
 url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
 score: -1.0
 related_article1:
-    id: 164937
-    title: What role do advocacy groups play in influencing policy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-advocacy-groups-play-in-influencing-policy
-related_article2:
-    id: 164941
-    title: How do media and cultural factors influence political views?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-media-and-cultural-factors-influence-political-views
-related_article3:
-    id: 164944
-    title: How is terrorism defined based on political and religious motivations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-terrorism-defined-based-on-political-and-religious-motivations
-related_article4:
     id: 164945
-    title: What are some key strategies used in counterterrorism efforts?
+    title: >-
+        What are some key strategies used in counterterrorism efforts?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
+related_article2:
+    id: 164935
+    title: >-
+        How does question order affect survey design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-question-order-affect-survey-design
+related_article3:
+    id: 164942
+    title: >-
+        What are the core principles of communism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
+related_article4:
+    id: 164933
+    title: >-
+        What are the primary methods of data collection in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
 related_article5:
     id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
+    title: >-
+        What are the main types of advocacy groups and their focus areas?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
 ---

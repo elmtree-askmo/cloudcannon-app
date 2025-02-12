@@ -2,8 +2,10 @@
 _schema: default
 id: 168845
 date: 2025-02-04
-title: How do enzymes facilitate the digestion process through substrate specificity and catalysis?
-article_title: How do enzymes facilitate the digestion process through substrate specificity and catalysis?
+title: >-
+    How do enzymes facilitate the digestion process through substrate specificity and catalysis?
+article_title: >-
+    How do enzymes facilitate the digestion process through substrate specificity and catalysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-enzymes-facilitate-the-digestion-process-through-substrate-spe
 url: /learn/health-studies/questions/how-do-enzymes-facilitate-the-digestion-process-through-substrate-specificity-and-catalysis
 score: -1.0
 related_article1:
-    id: 168852
-    title: How is glucose absorbed in the small intestine, and why is this process important for metabolism?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-glucose-absorbed-in-the-small-intestine-and-why-is-this-process-important-for-metabolism
-related_article2:
-    id: 168843
-    title: Explain the importance of hydrolysis in metabolism, particularly in energy release.
-    subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-importance-of-hydrolysis-in-metabolism-particularly-in-energy-release
-related_article3:
     id: 168855
-    title: Describe the role of maltase in the hydrolysis of maltose and its location in the body.
+    title: >-
+        Describe the role of maltase in the hydrolysis of maltose and its location in the body.
     subject: Health Studies
     url: /learn/health-studies/questions/describe-the-role-of-maltase-in-the-hydrolysis-of-maltose-and-its-location-in-the-body
+related_article2:
+    id: 168853
+    title: >-
+        Define concentration gradient and explain its role in diffusion and cellular processes.
+    subject: Health Studies
+    url: /learn/health-studies/questions/define-concentration-gradient-and-explain-its-role-in-diffusion-and-cellular-processes
+related_article3:
+    id: 168856
+    title: >-
+        Explain the process of starch digestion and its importance as a source of glucose.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-process-of-starch-digestion-and-its-importance-as-a-source-of-glucose
 related_article4:
+    id: 168846
+    title: >-
+        Describe the structure of the phospholipid bilayer and its role in selective permeability.
+    subject: Health Studies
+    url: /learn/health-studies/questions/describe-the-structure-of-the-phospholipid-bilayer-and-its-role-in-selective-permeability
+related_article5:
     id: 168854
-    title: What is the function of carrier proteins in facilitated diffusion and active transport?
+    title: >-
+        What is the function of carrier proteins in facilitated diffusion and active transport?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-function-of-carrier-proteins-in-facilitated-diffusion-and-active-transport
-related_article5:
-    id: 168847
-    title: What are membrane-bound disaccharidases, and how do they function in the digestion of disaccharides?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-membranebound-disaccharidases-and-how-do-they-function-in-the-digestion-of-disaccharides
 ---
 
 &nbsp;

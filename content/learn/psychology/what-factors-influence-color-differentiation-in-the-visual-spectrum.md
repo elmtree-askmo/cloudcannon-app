@@ -2,8 +2,10 @@
 _schema: default
 id: 164310
 date: 2025-01-28
-title: What factors influence color differentiation in the visual spectrum?
-article_title: What factors influence color differentiation in the visual spectrum?
+title: >-
+    What factors influence color differentiation in the visual spectrum?
+article_title: >-
+    What factors influence color differentiation in the visual spectrum?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-factors-influence-color-differentiation-in-the-visual-spectrum.m
 url: /learn/psychology/questions/what-factors-influence-color-differentiation-in-the-visual-spectrum
 score: -1.0
 related_article1:
-    id: 164293
-    title: What are the primary symptoms of neurodysplasia?
+    id: 164292
+    title: >-
+        How do social dynamics affect socio-physical interactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 related_article2:
-    id: 164293
-    title: What are the primary symptoms of neurodysplasia?
+    id: 164288
+    title: >-
+        What are the key components of cognitive engagement in brain activity?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
+    url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
 related_article3:
+    id: 164309
+    title: >-
+        How does perceptual learning contribute to object recognition?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-perceptual-learning-contribute-to-object-recognition
+related_article4:
     id: 164301
-    title: What are the main processes involved in auditory perception?
+    title: >-
+        What are the main processes involved in auditory perception?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-processes-involved-in-auditory-perception
-related_article4:
-    id: 164290
-    title: What role does color perception play in visual processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
-related_article5:
-    id: 164290
-    title: What role does color perception play in visual processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 ---
 
 &nbsp;

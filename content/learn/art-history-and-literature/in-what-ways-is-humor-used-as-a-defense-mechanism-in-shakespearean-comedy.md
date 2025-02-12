@@ -2,8 +2,10 @@
 _schema: default
 id: 168260
 date: 2025-02-03
-title: In what ways is humor used as a defense mechanism in Shakespearean comedy?
-article_title: In what ways is humor used as a defense mechanism in Shakespearean comedy?
+title: >-
+    In what ways is humor used as a defense mechanism in Shakespearean comedy?
+article_title: >-
+    In what ways is humor used as a defense mechanism in Shakespearean comedy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-is-humor-used-as-a-defense-mechanism-in-shakespearean-co
 url: /learn/art-history-and-literature/questions/in-what-ways-is-humor-used-as-a-defense-mechanism-in-shakespearean-comedy
 score: 9.0
 related_article1:
-    id: 168254
-    title: What role does Don John's deception play in creating conflict?
+    id: 168261
+    title: >-
+        What are the key elements that differentiate Shakespearean comedy from tragedy?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-don-johns-deception-play-in-creating-conflict
+    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-that-differentiate-shakespearean-comedy-from-tragedy
 related_article2:
-    id: 168256
-    title: What lessons about humanity can be learned from the theme of trust and betrayal in Shakespeare's works?
+    id: 168253
+    title: >-
+        How does jealousy contribute to deception in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-lessons-about-humanity-can-be-learned-from-the-theme-of-trust-and-betrayal-in-shakespeares-works
+    url: /learn/art-history-and-literature/questions/how-does-jealousy-contribute-to-deception-in-literature
 related_article3:
-    id: 168267
-    title: How do jealousy and envy motivate characters to deceive others?
+    id: 168262
+    title: >-
+        How do courtship dynamics contribute to conflict and resolution in Shakespearean plays?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-jealousy-and-envy-motivate-characters-to-deceive-others
+    url: /learn/art-history-and-literature/questions/how-do-courtship-dynamics-contribute-to-conflict-and-resolution-in-shakespearean-plays
 related_article4:
-    id: 168263
-    title: How does language shape perception and reality in society?
+    id: 168253
+    title: >-
+        How does jealousy contribute to deception in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
+    url: /learn/art-history-and-literature/questions/how-does-jealousy-contribute-to-deception-in-literature
 related_article5:
-    id: 168263
-    title: How does language shape perception and reality in society?
+    id: 168257
+    title: >-
+        What are Don John's motivations and how do they impact other characters?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
+    url: /learn/art-history-and-literature/questions/what-are-don-johns-motivations-and-how-do-they-impact-other-characters
 ---
 
 &nbsp;

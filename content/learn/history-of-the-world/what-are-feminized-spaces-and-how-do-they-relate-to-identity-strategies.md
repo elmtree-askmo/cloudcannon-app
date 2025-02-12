@@ -2,8 +2,10 @@
 _schema: default
 id: 169011
 date: 2025-02-04
-title: What are feminized spaces, and how do they relate to identity strategies?
-article_title: What are feminized spaces, and how do they relate to identity strategies?
+title: >-
+    What are feminized spaces, and how do they relate to identity strategies?
+article_title: >-
+    What are feminized spaces, and how do they relate to identity strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategi
 url: /learn/history-of-the-world/questions/what-are-feminized-spaces-and-how-do-they-relate-to-identity-strategies
 score: 9.0
 related_article1:
-    id: 169009
-    title: What actions did women take during revolutionary movements?
+    id: 169021
+    title: >-
+        What role do cultural understandings play in architectural spaces?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/what-role-do-cultural-understandings-play-in-architectural-spaces
 related_article2:
-    id: 169009
-    title: What actions did women take during revolutionary movements?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
-related_article3:
-    id: 169016
-    title: How can buildings serve as symbols of revolutionary movements?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-buildings-serve-as-symbols-of-revolutionary-movements
-related_article4:
     id: 169007
-    title: How is architecture strategically used in different contexts?
+    title: >-
+        How is architecture strategically used in different contexts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
-related_article5:
-    id: 169022
-    title: How have newspaper accounts influenced the historical narratives of revolutionary events?
+related_article3:
+    id: 169010
+    title: >-
+        How do gendered constructs influence societal understandings of space?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influenced-the-historical-narratives-of-revolutionary-events
+    url: /learn/history-of-the-world/questions/how-do-gendered-constructs-influence-societal-understandings-of-space
+related_article4:
+    id: 169023
+    title: >-
+        What are the gendered and anti-revolutionary filters present in media representations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
+related_article5:
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 ---
 
 &nbsp;

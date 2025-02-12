@@ -2,8 +2,10 @@
 _schema: default
 id: 165080
 date: 2025-01-28
-title: What ethical considerations must be taken into account when conducting research?
-article_title: What ethical considerations must be taken into account when conducting research?
+title: >-
+    What ethical considerations must be taken into account when conducting research?
+article_title: >-
+    What ethical considerations must be taken into account when conducting research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-ethical-considerations-must-be-taken-into-account-when-conductin
 url: /learn/psychology/questions/what-ethical-considerations-must-be-taken-into-account-when-conducting-research
 score: -1.0
 related_article1:
-    id: 165083
-    title: What are the key components of a well-structured research report?
+    id: 165070
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+    url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 related_article2:
-    id: 165068
-    title: What is the role of descriptive statistics in data interpretation?
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-descriptive-statistics-in-data-interpretation
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
 related_article3:
-    id: 165078
-    title: What are the main differences between experimental design and observational studies in research methodology?
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 related_article4:
-    id: 165073
-    title: How do you select the appropriate test for hypothesis testing?
+    id: 165085
+    title: >-
+        How do you identify and analyze interaction effects in experimental data?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-you-select-the-appropriate-test-for-hypothesis-testing
+    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 related_article5:
-    id: 165084
-    title: What distinguishes randomized controlled trials from quasi-experimental designs?
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/what-distinguishes-randomized-controlled-trials-from-quasiexperimental-designs
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 ---
 
 &nbsp;

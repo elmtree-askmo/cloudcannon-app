@@ -2,8 +2,10 @@
 _schema: default
 id: 167458
 date: 2025-01-31
-title: What are the main types of chemical reactions, and how do they differ?
-article_title: What are the main types of chemical reactions, and how do they differ?
+title: >-
+    What are the main types of chemical reactions, and how do they differ?
+article_title: >-
+    What are the main types of chemical reactions, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ.
 url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 167457
-    title: What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    id: 167465
+    title: >-
+        Describe the types of molecular interactions and their significance in protein folding.
     subject: Biology
-    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
+    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
 related_article2:
-    id: 167463
-    title: How do covalent, ionic, and hydrogen bonds differ in terms of strength and stability?
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
     subject: Biology
-    url: /learn/biology/questions/how-do-covalent-ionic-and-hydrogen-bonds-differ-in-terms-of-strength-and-stability
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 related_article3:
-    id: 167450
-    title: Explain the significance of electron orbitals in covalent bond formation.
+    id: 167454
+    title: >-
+        What are the defining characteristics of organic compounds?
     subject: Biology
-    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
 related_article4:
-    id: 167450
-    title: Explain the significance of electron orbitals in covalent bond formation.
+    id: 167451
+    title: >-
+        How does the octet rule contribute to the stability of atoms in chemical bonding?
     subject: Biology
-    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
+    url: /learn/biology/questions/how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding
 related_article5:
-    id: 167460
-    title: What factors determine the molecular structure of a compound?
+    id: 167464
+    title: >-
+        What is the role of chemical compounds in cellular processes?
     subject: Biology
-    url: /learn/biology/questions/what-factors-determine-the-molecular-structure-of-a-compound
+    url: /learn/biology/questions/what-is-the-role-of-chemical-compounds-in-cellular-processes
 ---
 
 &nbsp;

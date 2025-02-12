@@ -2,8 +2,10 @@
 _schema: default
 id: 170323
 date: 2025-02-06
-title: Explain the role of photosynthesis in the carbon cycle.
-article_title: Explain the role of photosynthesis in the carbon cycle.
+title: >-
+    Explain the role of photosynthesis in the carbon cycle.
+article_title: >-
+    Explain the role of photosynthesis in the carbon cycle.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-role-of-photosynthesis-in-the-carbon-cycle.md
 url: /learn/biotechnology/questions/explain-the-role-of-photosynthesis-in-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170315
-    title: What is the role of ribosomes in plant cells?
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-ribosomes-in-plant-cells
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
 related_article2:
-    id: 170313
-    title: What is the primary function of the cytoskeleton in animal cells?
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-primary-function-of-the-cytoskeleton-in-animal-cells
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
 related_article3:
-    id: 170319
-    title: Compare the membrane structure of chloroplasts and mitochondria.
+    id: 170326
+    title: >-
+        How does fermentation serve as an alternative energy source in cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/compare-the-membrane-structure-of-chloroplasts-and-mitochondria
+    url: /learn/biotechnology/questions/how-does-fermentation-serve-as-an-alternative-energy-source-in-cells
 related_article4:
-    id: 170310
-    title: How does the Golgi apparatus contribute to protein processing in animal cells?
+    id: 170320
+    title: >-
+        What are the main functional differences between photosynthesis and cellular respiration?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-the-golgi-apparatus-contribute-to-protein-processing-in-animal-cells
+    url: /learn/biotechnology/questions/what-are-the-main-functional-differences-between-photosynthesis-and-cellular-respiration
 related_article5:
     id: 170314
-    title: How do vacuoles contribute to the storage and support in plant cells?
+    title: >-
+        How do vacuoles contribute to the storage and support in plant cells?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-vacuoles-contribute-to-the-storage-and-support-in-plant-cells
 ---

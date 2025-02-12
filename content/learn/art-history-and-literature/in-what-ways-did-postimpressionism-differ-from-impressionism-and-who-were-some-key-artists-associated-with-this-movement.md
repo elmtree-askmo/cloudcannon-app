@@ -2,8 +2,10 @@
 _schema: default
 id: 159834
 date: 2025-01-23
-title: In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
-article_title: In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
+title: >-
+    In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
+article_title: >-
+    In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-
 url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-were-some-key-artists-associated-with-this-movement
 score: 9.0
 related_article1:
-    id: 160113
-    title: In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+    id: 160201
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
 related_article2:
     id: 159832
-    title: What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 related_article3:
-    id: 160114
-    title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 159837
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
 related_article4:
-    id: 159839
-    title: In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 159852
+    title: >-
+        What were the distinctive characteristics and developments of American and Eastern European modernities in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
 related_article5:
-    id: 160111
-    title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
+    id: 160109
+    title: >-
+        What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
 ---
 
 &nbsp;

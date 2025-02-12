@@ -2,8 +2,10 @@
 _schema: default
 id: 165399
 date: 2025-01-29
-title: What is the relationship between the prefix 'centi' and the central unit in the metric system?
-article_title: What is the relationship between the prefix 'centi' and the central unit in the metric system?
+title: >-
+    What is the relationship between the prefix 'centi' and the central unit in the metric system?
+article_title: >-
+    What is the relationship between the prefix 'centi' and the central unit in the metric system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-the-prefix-centi-and-the-central-uni
 url: /learn/mathematics/questions/what-is-the-relationship-between-the-prefix-centi-and-the-central-unit-in-the-metric-system
 score: -1.0
 related_article1:
-    id: 165393
-    title: How do larger prefixes in the metric system relate to the central unit?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
-related_article2:
-    id: 165398
-    title: How does the prefix 'deci' relate to the central unit in the metric system?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-prefix-deci-relate-to-the-central-unit-in-the-metric-system
-related_article3:
-    id: 165414
-    title: What is the conversion process from grams to milligrams?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
-related_article4:
     id: 165401
-    title: What is the first step in the unit conversion process?
+    title: >-
+        What is the first step in the unit conversion process?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-first-step-in-the-unit-conversion-process
-related_article5:
-    id: 165414
-    title: What is the conversion process from grams to milligrams?
+related_article2:
+    id: 165404
+    title: >-
+        When converting units, when should you move the decimal point to the right?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-conversion-process-from-grams-to-milligrams
+    url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
+related_article3:
+    id: 165404
+    title: >-
+        When converting units, when should you move the decimal point to the right?
+    subject: Mathematics
+    url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
+related_article4:
+    id: 165413
+    title: >-
+        What steps are involved in converting milliliters to liters?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-converting-milliliters-to-liters
+related_article5:
+    id: 165392
+    title: >-
+        What is the central unit in the metric system number line?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-central-unit-in-the-metric-system-number-line
 ---
 
 &nbsp;

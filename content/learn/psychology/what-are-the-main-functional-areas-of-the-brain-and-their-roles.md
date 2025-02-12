@@ -2,8 +2,10 @@
 _schema: default
 id: 164354
 date: 2025-01-28
-title: What are the main functional areas of the brain and their roles?
-article_title: What are the main functional areas of the brain and their roles?
+title: >-
+    What are the main functional areas of the brain and their roles?
+article_title: >-
+    What are the main functional areas of the brain and their roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-functional-areas-of-the-brain-and-their-roles.md
 url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
 score: -1.0
 related_article1:
-    id: 164350
-    title: Explain the significance of tissue density analysis in CAT scans.
+    id: 164349
+    title: >-
+        What role do X-rays play in the functioning of a CAT scan?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
 related_article2:
-    id: 164347
-    title: What are the basic principles behind MRI technology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
-related_article3:
     id: 164357
-    title: How does functional imaging contribute to cognitive research?
+    title: >-
+        How does functional imaging contribute to cognitive research?
     subject: Psychology
     url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
+related_article3:
+    id: 164358
+    title: >-
+        What are the challenges associated with radiation exposure in medical imaging?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
 related_article4:
-    id: 164352
-    title: What is the importance of functional imaging in measuring blood flow?
+    id: 164347
+    title: >-
+        What are the basic principles behind MRI technology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-importance-of-functional-imaging-in-measuring-blood-flow
+    url: /learn/psychology/questions/what-are-the-basic-principles-behind-mri-technology
 related_article5:
-    id: 164350
-    title: Explain the significance of tissue density analysis in CAT scans.
+    id: 164346
+    title: >-
+        How do anatomical imaging techniques contribute to medical applications?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165734
 date: 2025-01-29
-title: What role do security policies play in managing network traffic between subnets?
-article_title: What role do security policies play in managing network traffic between subnets?
+title: >-
+    What role do security policies play in managing network traffic between subnets?
+article_title: >-
+    What role do security policies play in managing network traffic between subnets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-security-policies-play-in-managing-network-traffic-betwe
 url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
 score: -1.0
 related_article1:
-    id: 165731
-    title: What is the significance of using private IPv4 address space within intranets?
+    id: 165735
+    title: >-
+        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
+    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
 related_article2:
-    id: 165729
-    title: What are the differences between common subnet masks such as /8, /16, and /24?
+    id: 165730
+    title: >-
+        How does prefix length relate to subnet masks and impact the number of available hosts?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
+    url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
 related_article3:
-    id: 165736
-    title: What strategies can be used to minimize unused addresses in a subnet?
+    id: 165725
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
+    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
 related_article4:
-    id: 165726
-    title: What is a broadcast domain and how do routers affect them?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
-related_article5:
     id: 165733
-    title: How does subnetting contribute to reducing broadcast traffic and improving network performance?
+    title: >-
+        How does subnetting contribute to reducing broadcast traffic and improving network performance?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
+related_article5:
+    id: 165727
+    title: >-
+        What are the potential problems associated with large broadcast domains?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
 ---
 
 &nbsp;

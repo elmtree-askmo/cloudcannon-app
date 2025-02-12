@@ -2,8 +2,10 @@
 _schema: default
 id: 160332
 date: 2025-01-24
-title: How does APA style differ from MLA style in citation systems?
-article_title: How does APA style differ from MLA style in citation systems?
+title: >-
+    How does APA style differ from MLA style in citation systems?
+article_title: >-
+    How does APA style differ from MLA style in citation systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-apa-style-differ-from-mla-style-in-citation-systems.md
 url: /learn/education-studies/questions/how-does-apa-style-differ-from-mla-style-in-citation-systems
 score: -1.0
 related_article1:
-    id: 160303
-    title: What are the essential components of a thesis statement in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-thesis-statement-in-academic-writing
-related_article2:
-    id: 160303
-    title: What are the essential components of a thesis statement in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-thesis-statement-in-academic-writing
-related_article3:
-    id: 160302
-    title: How does the Cornell Method help in note-making?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-cornell-method-help-in-notemaking
-related_article4:
     id: 160309
-    title: How can you engage the audience during a presentation?
+    title: >-
+        How can you engage the audience during a presentation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-you-engage-the-audience-during-a-presentation
-related_article5:
-    id: 160303
-    title: What are the essential components of a thesis statement in academic writing?
+related_article2:
+    id: 160302
+    title: >-
+        How does the Cornell Method help in note-making?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-components-of-a-thesis-statement-in-academic-writing
+    url: /learn/education-studies/questions/how-does-the-cornell-method-help-in-notemaking
+related_article3:
+    id: 160327
+    title: >-
+        What factors should be considered when forming effective study groups?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-effective-study-groups
+related_article4:
+    id: 160327
+    title: >-
+        What factors should be considered when forming effective study groups?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-effective-study-groups
+related_article5:
+    id: 160327
+    title: >-
+        What factors should be considered when forming effective study groups?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-effective-study-groups
 ---
 
 &nbsp;

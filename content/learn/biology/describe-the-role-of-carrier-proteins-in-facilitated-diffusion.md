@@ -2,8 +2,10 @@
 _schema: default
 id: 167188
 date: 2025-01-31
-title: Describe the role of carrier proteins in facilitated diffusion.
-article_title: Describe the role of carrier proteins in facilitated diffusion.
+title: >-
+    Describe the role of carrier proteins in facilitated diffusion.
+article_title: >-
+    Describe the role of carrier proteins in facilitated diffusion.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-of-carrier-proteins-in-facilitated-diffusion.md
 url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
 score: -1.0
 related_article1:
-    id: 167190
-    title: How do pumps function in active transport, and what is their energy source?
-    subject: Biology
-    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
-related_article2:
     id: 167196
-    title: Compare the energy requirements of passive and active transport.
+    title: >-
+        Compare the energy requirements of passive and active transport.
     subject: Biology
     url: /learn/biology/questions/compare-the-energy-requirements-of-passive-and-active-transport
-related_article3:
-    id: 167194
-    title: Define concentration gradients and explain their importance in membrane transport.
+related_article2:
+    id: 167197
+    title: >-
+        What considerations are there for energy use in bulk transport methods like exocytosis and endocytosis?
     subject: Biology
-    url: /learn/biology/questions/define-concentration-gradients-and-explain-their-importance-in-membrane-transport
+    url: /learn/biology/questions/what-considerations-are-there-for-energy-use-in-bulk-transport-methods-like-exocytosis-and-endocytosis
+related_article3:
+    id: 167183
+    title: >-
+        What is facilitated diffusion and how does it differ from simple diffusion?
+    subject: Biology
+    url: /learn/biology/questions/what-is-facilitated-diffusion-and-how-does-it-differ-from-simple-diffusion
 related_article4:
+    id: 167184
+    title: >-
+        In passive transport, how does the movement of molecules relate to the concentration gradient?
+    subject: Biology
+    url: /learn/biology/questions/in-passive-transport-how-does-the-movement-of-molecules-relate-to-the-concentration-gradient
+related_article5:
     id: 167190
-    title: How do pumps function in active transport, and what is their energy source?
+    title: >-
+        How do pumps function in active transport, and what is their energy source?
     subject: Biology
     url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
-related_article5:
-    id: 167199
-    title: How are large molecules and particles transported across the cell membrane?
-    subject: Biology
-    url: /learn/biology/questions/how-are-large-molecules-and-particles-transported-across-the-cell-membrane
 ---
 
 &nbsp;

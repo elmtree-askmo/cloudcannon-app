@@ -2,8 +2,10 @@
 _schema: default
 id: 164804
 date: 2025-01-28
-title: What is the importance of directional terms in understanding neural signals?
-article_title: What is the importance of directional terms in understanding neural signals?
+title: >-
+    What is the importance of directional terms in understanding neural signals?
+article_title: >-
+    What is the importance of directional terms in understanding neural signals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-directional-terms-in-understanding-neural-s
 url: /learn/nursing/questions/what-is-the-importance-of-directional-terms-in-understanding-neural-signals
 score: -1.0
 related_article1:
-    id: 164809
-    title: How do cranial nerves differ from spinal nerves in terms of function and location?
+    id: 164798
+    title: >-
+        What is the primary function of an axon in a neuron?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-cranial-nerves-differ-from-spinal-nerves-in-terms-of-function-and-location
+    url: /learn/nursing/questions/what-is-the-primary-function-of-an-axon-in-a-neuron
 related_article2:
-    id: 164794
-    title: What are the main components of the central nervous system and their primary functions?
+    id: 164815
+    title: >-
+        What is the relationship between photographic memory and cognitive load?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-main-components-of-the-central-nervous-system-and-their-primary-functions
+    url: /learn/nursing/questions/what-is-the-relationship-between-photographic-memory-and-cognitive-load
 related_article3:
-    id: 164814
-    title: How does cerebrospinal fluid contribute to neural nourishment?
+    id: 164816
+    title: >-
+        How does an epidural provide pain management during medical procedures?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-cerebrospinal-fluid-contribute-to-neural-nourishment
+    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
 related_article4:
-    id: 164811
-    title: How does neuroplasticity enable the brain to adapt to nervous system damage?
+    id: 164816
+    title: >-
+        How does an epidural provide pain management during medical procedures?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-neuroplasticity-enable-the-brain-to-adapt-to-nervous-system-damage
+    url: /learn/nursing/questions/how-does-an-epidural-provide-pain-management-during-medical-procedures
 related_article5:
-    id: 164803
-    title: How do motor neurons facilitate movement in the body?
+    id: 164797
+    title: >-
+        Describe the function of the ulnar nerve in the peripheral nervous system.
     subject: Nursing
-    url: /learn/nursing/questions/how-do-motor-neurons-facilitate-movement-in-the-body
+    url: /learn/nursing/questions/describe-the-function-of-the-ulnar-nerve-in-the-peripheral-nervous-system
 ---
 
 &nbsp;

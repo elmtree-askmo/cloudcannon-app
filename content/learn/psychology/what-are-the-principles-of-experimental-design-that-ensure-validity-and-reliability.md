@@ -2,8 +2,10 @@
 _schema: default
 id: 165019
 date: 2025-01-28
-title: What are the principles of experimental design that ensure validity and reliability?
-article_title: What are the principles of experimental design that ensure validity and reliability?
+title: >-
+    What are the principles of experimental design that ensure validity and reliability?
+article_title: >-
+    What are the principles of experimental design that ensure validity and reliability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-principles-of-experimental-design-that-ensure-validity-a
 url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
 score: -1.0
 related_article1:
-    id: 165020
-    title: What are the key findings and significance of the GIANT study in cognitive psychology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
-related_article2:
-    id: 165015
-    title: What are the cognitive processes involved in number perception?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
-related_article3:
-    id: 165010
-    title: How do different experimental approaches contribute to our understanding of depth of processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-different-experimental-approaches-contribute-to-our-understanding-of-depth-of-processing
-related_article4:
     id: 165021
-    title: How does the size congruence effect impact everyday cognition and educational settings?
+    title: >-
+        How does the size congruence effect impact everyday cognition and educational settings?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
-related_article5:
-    id: 165015
-    title: What are the cognitive processes involved in number perception?
+related_article2:
+    id: 165023
+    title: >-
+        What are the challenges in designing cognitive experiments and how can they be addressed?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+    url: /learn/psychology/questions/what-are-the-challenges-in-designing-cognitive-experiments-and-how-can-they-be-addressed
+related_article3:
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
+related_article4:
+    id: 165012
+    title: >-
+        How is reaction time measured and what tools are commonly used?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
+related_article5:
+    id: 165020
+    title: >-
+        What are the key findings and significance of the GIANT study in cognitive psychology?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-findings-and-significance-of-the-giant-study-in-cognitive-psychology
 ---
 
 &nbsp;

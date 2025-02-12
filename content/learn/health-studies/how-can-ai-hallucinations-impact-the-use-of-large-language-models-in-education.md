@@ -2,8 +2,10 @@
 _schema: default
 id: 170571
 date: 2025-02-06
-title: How can AI hallucinations impact the use of large language models in education?
-article_title: How can AI hallucinations impact the use of large language models in education?
+title: >-
+    How can AI hallucinations impact the use of large language models in education?
+article_title: >-
+    How can AI hallucinations impact the use of large language models in education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-
 url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
 score: -1.0
 related_article1:
-    id: 170554
-    title: Explain the role of baroreceptors in blood pressure regulation.
+    id: 170555
+    title: >-
+        Describe the function of the sodium-potassium pump in neuron activity.
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-role-of-baroreceptors-in-blood-pressure-regulation
+    url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
 related_article2:
-    id: 170550
-    title: What mechanisms are involved in temperature regulation within the human body?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
-related_article3:
     id: 170568
-    title: What are the clinical implications of hemophilia in blood clotting disorders?
+    title: >-
+        What are the clinical implications of hemophilia in blood clotting disorders?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-clinical-implications-of-hemophilia-in-blood-clotting-disorders
-related_article4:
-    id: 170563
-    title: How does cognitive dissonance influence behavior according to psychological theories?
+related_article3:
+    id: 170556
+    title: >-
+        What is the role of the hypothalamus in the nervous system?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
+    url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
+related_article4:
+    id: 170553
+    title: >-
+        How does neurotransmitter blockage affect nervous system function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
 related_article5:
     id: 170579
-    title: What factors influence blood flow regulation in circulatory dynamics?
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
     subject: Health Studies
     url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 ---

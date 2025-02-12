@@ -2,8 +2,10 @@
 _schema: default
 id: 163965
 date: 2025-01-28
-title: What were the roles and selection methods of Athenian archons and generals?
-article_title: What were the roles and selection methods of Athenian archons and generals?
+title: >-
+    What were the roles and selection methods of Athenian archons and generals?
+article_title: >-
+    What were the roles and selection methods of Athenian archons and generals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-roles-and-selection-methods-of-athenian-archons-and-gen
 url: /learn/history-of-the-world/questions/what-were-the-roles-and-selection-methods-of-athenian-archons-and-generals
 score: 9.0
 related_article1:
-    id: 163976
-    title: What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
+    id: 163970
+    title: >-
+        Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
+    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
 related_article2:
+    id: 163969
+    title: >-
+        What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
+related_article3:
+    id: 163962
+    title: >-
+        How did the synoikism of Attica under Theseus contribute to the centralization of government in Athens?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-synoikism-of-attica-under-theseus-contribute-to-the-centralization-of-government-in-athens
+related_article4:
     id: 163977
-    title: How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
+    title: >-
+        How do Herodotus and other classical sources describe Cleisthenes' reforms and their impact on Athenian political evolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-herodotus-and-other-classical-sources-describe-cleisthenes-reforms-and-their-impact-on-athenian-political-evolution
-related_article3:
-    id: 163970
-    title: Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
-related_article4:
-    id: 163970
-    title: Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
 related_article5:
-    id: 163970
-    title: Describe the reorganization of tribes and demes under Cleisthenes and its implications for Athenian society.
+    id: 163976
+    title: >-
+        What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-reorganization-of-tribes-and-demes-under-cleisthenes-and-its-implications-for-athenian-society
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161129
 date: 2025-01-24
-title: How does abstraction aid in algorithm design?
-article_title: How does abstraction aid in algorithm design?
+title: >-
+    How does abstraction aid in algorithm design?
+article_title: >-
+    How does abstraction aid in algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-abstraction-aid-in-algorithm-design.md
 url: /learn/computer-science/questions/how-does-abstraction-aid-in-algorithm-design
 score: -1.0
 related_article1:
-    id: 161142
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 161097
+    title: >-
+        What is the relationship between data structures and the representation of initial data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+    url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-the-representation-of-initial-data
 related_article2:
-    id: 161275
-    title: What defines an efficient algorithm in complexity theory?
+    id: 160805
+    title: >-
+        How is proof by contradiction used to demonstrate unsolvable problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
+    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
 related_article3:
-    id: 160810
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 161084
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
 related_article4:
-    id: 161103
-    title: Explain the significance of the traveling salesman problem in the context of NP-completeness.
+    id: 160807
+    title: >-
+        Describe the traveling salesman problem and its significance in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-traveling-salesman-problem-in-the-context-of-npcompleteness
+    url: /learn/computer-science/questions/describe-the-traveling-salesman-problem-and-its-significance-in-npcompleteness
 related_article5:
-    id: 161102
-    title: What is the P vs NP problem, and why is it important in computational theory?
+    id: 160802
+    title: >-
+        How do data structures influence the efficiency of algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-p-vs-np-problem-and-why-is-it-important-in-computational-theory
+    url: /learn/computer-science/questions/how-do-data-structures-influence-the-efficiency-of-algorithms
 ---
 
 &nbsp;

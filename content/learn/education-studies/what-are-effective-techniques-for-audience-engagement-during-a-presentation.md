@@ -2,8 +2,10 @@
 _schema: default
 id: 165046
 date: 2025-01-28
-title: What are effective techniques for audience engagement during a presentation?
-article_title: What are effective techniques for audience engagement during a presentation?
+title: >-
+    What are effective techniques for audience engagement during a presentation?
+article_title: >-
+    What are effective techniques for audience engagement during a presentation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-effective-techniques-for-audience-engagement-during-a-presen
 url: /learn/education-studies/questions/what-are-effective-techniques-for-audience-engagement-during-a-presentation
 score: -1.0
 related_article1:
-    id: 165043
-    title: What is the function of reward systems in reinforcement learning?
+    id: 165035
+    title: >-
+        What are the main elements to consider when creating a character's backstory?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
+    url: /learn/education-studies/questions/what-are-the-main-elements-to-consider-when-creating-a-characters-backstory
 related_article2:
-    id: 165042
-    title: How do interactive dashboards enhance data visualization?
+    id: 165028
+    title: >-
+        What role do programming languages play in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-interactive-dashboards-enhance-data-visualization
+    url: /learn/education-studies/questions/what-role-do-programming-languages-play-in-data-analysis
 related_article3:
-    id: 165025
-    title: How do machine learning algorithms contribute to data analysis?
+    id: 165030
+    title: >-
+        What are the essential components of experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-machine-learning-algorithms-contribute-to-data-analysis
+    url: /learn/education-studies/questions/what-are-the-essential-components-of-experimental-design
 related_article4:
-    id: 165043
-    title: What is the function of reward systems in reinforcement learning?
+    id: 165033
+    title: >-
+        How is data collection executed during experimentation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
+    url: /learn/education-studies/questions/how-is-data-collection-executed-during-experimentation
 related_article5:
-    id: 165052
-    title: What features are essential for effective course management on learning platforms?
+    id: 165041
+    title: >-
+        What are the best practices for ensuring clarity and simplicity in data visualization?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-features-are-essential-for-effective-course-management-on-learning-platforms
+    url: /learn/education-studies/questions/what-are-the-best-practices-for-ensuring-clarity-and-simplicity-in-data-visualization
 ---
 
 &nbsp;

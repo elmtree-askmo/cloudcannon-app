@@ -2,8 +2,10 @@
 _schema: default
 id: 162977
 date: 2025-01-26
-title: What is the significance of confidence intervals in the estimation process of epidemiologic research?
-article_title: What is the significance of confidence intervals in the estimation process of epidemiologic research?
+title: >-
+    What is the significance of confidence intervals in the estimation process of epidemiologic research?
+article_title: >-
+    What is the significance of confidence intervals in the estimation process of epidemiologic research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-significance-of-confidence-intervals-in-the-estimation-pr
 url: /learn/health-studies/questions/what-is-the-significance-of-confidence-intervals-in-the-estimation-process-of-epidemiologic-research
 score: -1.0
 related_article1:
+    id: 162958
+    title: >-
+        How do political and economic factors serve as environmental and societal determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
+related_article2:
+    id: 163017
+    title: >-
+        How is the PICO framework used to structure clinical research questions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-is-the-pico-framework-used-to-structure-clinical-research-questions
+related_article3:
+    id: 162973
+    title: >-
+        What are the differences between primary and secondary data in epidemiologic research?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
+related_article4:
     id: 163011
-    title: What is the definition of epidemiology and how does it apply to public health?
+    title: >-
+        What is the definition of epidemiology and how does it apply to public health?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-definition-of-epidemiology-and-how-does-it-apply-to-public-health
-related_article2:
-    id: 162971
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
-related_article3:
-    id: 162971
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
-related_article4:
-    id: 162956
-    title: How have key figures and milestones influenced the historical development of epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-have-key-figures-and-milestones-influenced-the-historical-development-of-epidemiology
 related_article5:
-    id: 162966
-    title: What is the primary focus of epidemiology in terms of disease frequency and distribution?
+    id: 162955
+    title: >-
+        What is the primary focus of epidemiology in terms of disease frequency and distribution?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-primary-focus-of-epidemiology-in-terms-of-disease-frequency-and-distribution
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 166491
 date: 2025-01-30
-title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
-article_title: Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+title: >-
+    Define minimum effective concentration and explain its importance in therapeutic effectiveness.
+article_title: >-
+    Define minimum effective concentration and explain its importance in therapeutic effectiveness.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-minimum-effective-concentration-and-explain-its-importance-in-
 url: /learn/nursing/questions/define-minimum-effective-concentration-and-explain-its-importance-in-therapeutic-effectiveness
 score: -1.0
 related_article1:
-    id: 166505
-    title: How do different drug formulations impact drug absorption and bioavailability?
+    id: 166503
+    title: >-
+        What is the importance of randomized controlled trials in clinical research?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-different-drug-formulations-impact-drug-absorption-and-bioavailability
+    url: /learn/nursing/questions/what-is-the-importance-of-randomized-controlled-trials-in-clinical-research
 related_article2:
+    id: 166507
+    title: >-
+        How do healthcare providers monitor adverse effects to ensure drug safety?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-healthcare-providers-monitor-adverse-effects-to-ensure-drug-safety
+related_article3:
     id: 166506
-    title: What are the differences between generic and trade names of drugs?
+    title: >-
+        What are the differences between generic and trade names of drugs?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
-related_article3:
-    id: 166499
-    title: What is the Controlled Substance Act and how does it classify narcotics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 related_article4:
+    id: 166510
+    title: >-
+        How do pharmacokinetic and pharmacodynamic interactions differ?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
+related_article5:
     id: 166509
-    title: What are the advantages and disadvantages of oral and parenteral medication administration routes?
+    title: >-
+        What are the advantages and disadvantages of oral and parenteral medication administration routes?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-advantages-and-disadvantages-of-oral-and-parenteral-medication-administration-routes
-related_article5:
-    id: 166499
-    title: What is the Controlled Substance Act and how does it classify narcotics?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164296
 date: 2025-01-28
-title: What were some of the early studies that contributed to the development of PET technology?
-article_title: What were some of the early studies that contributed to the development of PET technology?
+title: >-
+    What were some of the early studies that contributed to the development of PET technology?
+article_title: >-
+    What were some of the early studies that contributed to the development of PET technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/psychology/questions/what-were-some-of-the-early-studies-that-contri
 score: -1.0
 related_article1:
     id: 164302
-    title: What is functional specialization in the context of brain activity measurement?
+    title: >-
+        What is functional specialization in the context of brain activity measurement?
     subject: Psychology
     url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
 related_article2:
-    id: 164307
-    title: What are the limitations of neuroimaging methods in terms of temporal and spatial resolution?
+    id: 164305
+    title: >-
+        What are the main advantages of fMRI over PET in neuroimaging?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-limitations-of-neuroimaging-methods-in-terms-of-temporal-and-spatial-resolution
+    url: /learn/psychology/questions/what-are-the-main-advantages-of-fmri-over-pet-in-neuroimaging
 related_article3:
-    id: 164314
-    title: What challenges are associated with interpreting data on brain activation in neuroimaging research?
+    id: 164313
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
     subject: Psychology
-    url: /learn/psychology/questions/what-challenges-are-associated-with-interpreting-data-on-brain-activation-in-neuroimaging-research
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 related_article4:
-    id: 164303
-    title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+    id: 164308
+    title: >-
+        How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
 related_article5:
     id: 164302
-    title: What is functional specialization in the context of brain activity measurement?
+    title: >-
+        What is functional specialization in the context of brain activity measurement?
     subject: Psychology
     url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
 ---

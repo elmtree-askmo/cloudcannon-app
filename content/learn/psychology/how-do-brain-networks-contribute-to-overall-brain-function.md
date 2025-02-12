@@ -2,8 +2,10 @@
 _schema: default
 id: 164671
 date: 2025-01-28
-title: How do brain networks contribute to overall brain function?
-article_title: How do brain networks contribute to overall brain function?
+title: >-
+    How do brain networks contribute to overall brain function?
+article_title: >-
+    How do brain networks contribute to overall brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-brain-networks-contribute-to-overall-brain-function.md
 url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
 score: -1.0
 related_article1:
-    id: 164675
-    title: How does EEG differ from MRI in terms of brain imaging?
+    id: 164676
+    title: >-
+        What is the role of PET scans in brain imaging?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-eeg-differ-from-mri-in-terms-of-brain-imaging
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 related_article2:
-    id: 164687
-    title: Describe the role of brain-computer interfaces in modern neuroscience.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-role-of-braincomputer-interfaces-in-modern-neuroscience
-related_article3:
     id: 164690
-    title: What were some key discoveries in the historical development of neuroscience?
+    title: >-
+        What were some key discoveries in the historical development of neuroscience?
     subject: Psychology
     url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
+related_article3:
+    id: 164672
+    title: >-
+        What are the primary mechanisms of attention in cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-mechanisms-of-attention-in-cognitive-processes
 related_article4:
-    id: 164689
-    title: How is artificial intelligence applied in cognitive neuroscience research?
+    id: 164686
+    title: >-
+        What are the common neurological disorders treated with neuroscience applications?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
 related_article5:
-    id: 164689
-    title: How is artificial intelligence applied in cognitive neuroscience research?
+    id: 164683
+    title: >-
+        What role do subconscious processes play in influencing behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
+    url: /learn/psychology/questions/what-role-do-subconscious-processes-play-in-influencing-behavior
 ---
 
 &nbsp;

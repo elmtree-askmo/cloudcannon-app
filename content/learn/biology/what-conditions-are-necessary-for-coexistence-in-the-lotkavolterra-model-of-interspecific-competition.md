@@ -2,8 +2,10 @@
 _schema: default
 id: 166147
 date: 2025-01-29
-title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
-article_title: What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+title: >-
+    What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
+article_title: >-
+    What conditions are necessary for coexistence in the Lotka-Volterra model of interspecific competition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-mo
 url: /learn/biology/questions/what-conditions-are-necessary-for-coexistence-in-the-lotkavolterra-model-of-interspecific-competition
 score: -1.0
 related_article1:
+    id: 166141
+    title: >-
+        What are the key differences between endoparasites and ectoparasites?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-endoparasites-and-ectoparasites
+related_article2:
+    id: 166139
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
+related_article3:
+    id: 166135
+    title: >-
+        What are the main sources of genetic variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
+related_article4:
     id: 166142
-    title: How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
+    title: >-
+        How do predation strategies and prey defense mechanisms interact in predator-prey dynamics?
     subject: Biology
     url: /learn/biology/questions/how-do-predation-strategies-and-prey-defense-mechanisms-interact-in-predatorprey-dynamics
-related_article2:
-    id: 166148
-    title: How does niche partitioning facilitate coexistence among species?
-    subject: Biology
-    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
-related_article3:
-    id: 166148
-    title: How does niche partitioning facilitate coexistence among species?
-    subject: Biology
-    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
-related_article4:
-    id: 166148
-    title: How does niche partitioning facilitate coexistence among species?
-    subject: Biology
-    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
 related_article5:
-    id: 166136
-    title: How does natural selection lead to the development of adaptive traits?
+    id: 166135
+    title: >-
+        What are the main sources of genetic variation in a population?
     subject: Biology
-    url: /learn/biology/questions/how-does-natural-selection-lead-to-the-development-of-adaptive-traits
+    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
 ---
 
 &nbsp;

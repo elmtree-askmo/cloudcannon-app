@@ -2,8 +2,10 @@
 _schema: default
 id: 167009
 date: 2025-01-31
-title: Describe the formation and significance of disulfide bonds in protein stabilization.
-article_title: Describe the formation and significance of disulfide bonds in protein stabilization.
+title: >-
+    Describe the formation and significance of disulfide bonds in protein stabilization.
+article_title: >-
+    Describe the formation and significance of disulfide bonds in protein stabilization.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-formation-and-significance-of-disulfide-bonds-in-protein
 url: /learn/education-studies/questions/describe-the-formation-and-significance-of-disulfide-bonds-in-protein-stabilization
 score: -1.0
 related_article1:
-    id: 167012
-    title: How do the five carbon sugars differ in nucleotides, and what is their role?
+    id: 167004
+    title: >-
+        What is the role of covalent bonding in the formation of peptide bonds?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-the-five-carbon-sugars-differ-in-nucleotides-and-what-is-their-role
+    url: /learn/education-studies/questions/what-is-the-role-of-covalent-bonding-in-the-formation-of-peptide-bonds
 related_article2:
+    id: 167007
+    title: >-
+        What role does hydrogen bonding play in the secondary structure of proteins?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-does-hydrogen-bonding-play-in-the-secondary-structure-of-proteins
+related_article3:
+    id: 167008
+    title: >-
+        How do ionic bonds contribute to the tertiary structure of proteins?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins
+related_article4:
+    id: 167011
+    title: >-
+        What are the basic structural components of nucleotides?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-basic-structural-components-of-nucleotides
+related_article5:
     id: 167005
-    title: Explain the importance of the tertiary structure for protein function and the types of bonding involved.
+    title: >-
+        Explain the importance of the tertiary structure for protein function and the types of bonding involved.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-importance-of-the-tertiary-structure-for-protein-function-and-the-types-of-bonding-involved
-related_article3:
-    id: 167010
-    title: What is the role of hydrophobic interactions in protein folding?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-hydrophobic-interactions-in-protein-folding
-related_article4:
-    id: 167008
-    title: How do ionic bonds contribute to the tertiary structure of proteins?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins
-related_article5:
-    id: 167008
-    title: How do ionic bonds contribute to the tertiary structure of proteins?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ionic-bonds-contribute-to-the-tertiary-structure-of-proteins
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169797
 date: 2025-02-05
-title: What is the holistic approach to pain management, and why is it important?
-article_title: What is the holistic approach to pain management, and why is it important?
+title: >-
+    What is the holistic approach to pain management, and why is it important?
+article_title: >-
+    What is the holistic approach to pain management, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-holistic-approach-to-pain-management-and-why-is-it-import
 url: /learn/nursing/questions/what-is-the-holistic-approach-to-pain-management-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 169793
-    title: What are the potential side effects of opioid use in pain management?
+    id: 169795
+    title: >-
+        How can physical therapy contribute to non-pharmacological pain management?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
+    url: /learn/nursing/questions/how-can-physical-therapy-contribute-to-nonpharmacological-pain-management
 related_article2:
-    id: 169800
-    title: How can healthcare providers identify and assess drug-seeking behavior in patients?
-    subject: Nursing
-    url: /learn/nursing/questions/how-can-healthcare-providers-identify-and-assess-drugseeking-behavior-in-patients
-related_article3:
     id: 169791
-    title: Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
+    title: >-
+        Why is patient-centered care important in pain assessment, and what are some effective communication strategies?
     subject: Nursing
     url: /learn/nursing/questions/why-is-patientcentered-care-important-in-pain-assessment-and-what-are-some-effective-communication-strategies
+related_article3:
+    id: 169795
+    title: >-
+        How can physical therapy contribute to non-pharmacological pain management?
+    subject: Nursing
+    url: /learn/nursing/questions/how-can-physical-therapy-contribute-to-nonpharmacological-pain-management
 related_article4:
-    id: 169794
-    title: Describe the role of gabapentin in managing neuropathic pain.
+    id: 169801
+    title: >-
+        What management strategies can be employed to address drug-seeking behavior?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-role-of-gabapentin-in-managing-neuropathic-pain
+    url: /learn/nursing/questions/what-management-strategies-can-be-employed-to-address-drugseeking-behavior
 related_article5:
-    id: 169799
-    title: What measures can be taken to ensure patient safety in pain management?
+    id: 169793
+    title: >-
+        What are the potential side effects of opioid use in pain management?
     subject: Nursing
-    url: /learn/nursing/questions/what-measures-can-be-taken-to-ensure-patient-safety-in-pain-management
+    url: /learn/nursing/questions/what-are-the-potential-side-effects-of-opioid-use-in-pain-management
 ---
 
 &nbsp;

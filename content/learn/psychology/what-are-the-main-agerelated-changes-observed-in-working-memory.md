@@ -2,8 +2,10 @@
 _schema: default
 id: 168035
 date: 2025-02-02
-title: What are the main age-related changes observed in working memory?
-article_title: What are the main age-related changes observed in working memory?
+title: >-
+    What are the main age-related changes observed in working memory?
+article_title: >-
+    What are the main age-related changes observed in working memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-i
 score: -1.0
 related_article1:
     id: 168045
-    title: What role does practice play in the stability of procedural memory with age?
+    title: >-
+        What role does practice play in the stability of procedural memory with age?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
 related_article2:
-    id: 168046
-    title: How does automatic retrieval in procedural memory differ from declarative memory retrieval?
+    id: 168045
+    title: >-
+        What role does practice play in the stability of procedural memory with age?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
+    url: /learn/psychology/questions/what-role-does-practice-play-in-the-stability-of-procedural-memory-with-age
 related_article3:
-    id: 168040
-    title: What research findings highlight the age-related decline in memory stability?
-    subject: Psychology
-    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
-related_article4:
     id: 168033
-    title: What are the key factors contributing to the decline of recent long-term memory in older adults?
+    title: >-
+        What are the key factors contributing to the decline of recent long-term memory in older adults?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-factors-contributing-to-the-decline-of-recent-longterm-memory-in-older-adults
-related_article5:
+related_article4:
     id: 168038
-    title: How does procedural memory differ from classical conditioning in non-declarative memory?
+    title: >-
+        How does procedural memory differ from classical conditioning in non-declarative memory?
     subject: Psychology
     url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
+related_article5:
+    id: 168040
+    title: >-
+        What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
 ---
 
 &nbsp;

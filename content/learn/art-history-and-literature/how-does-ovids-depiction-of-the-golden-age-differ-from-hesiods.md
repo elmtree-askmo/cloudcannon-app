@@ -2,8 +2,10 @@
 _schema: default
 id: 164001
 date: 2025-01-28
-title: How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
-article_title: How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
+title: >-
+    How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
+article_title: >-
+    How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-ovids-depiction-of-the-golden-age-differ-from-hesiods.md
 url: /learn/art-history-and-literature/questions/how-does-ovids-depiction-of-the-golden-age-differ-from-hesiods
 score: 9.0
 related_article1:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
-related_article2:
     id: 164002
-    title: What is the historical context in which Herodotus wrote his histories?
+    title: >-
+        What is the historical context in which Herodotus wrote his histories?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
-related_article3:
+related_article2:
     id: 163997
-    title: How did the Classical Period in Classical Studies come to an end?
+    title: >-
+        How did the Classical Period in Classical Studies come to an end?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-classical-period-in-classical-studies-come-to-an-end
+related_article3:
+    id: 164003
+    title: >-
+        How did Thucydides approach the recording of political events?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-thucydides-approach-the-recording-of-political-events
 related_article4:
-    id: 163996
-    title: What were the key developments during the Archaic Period in Classical Studies?
+    id: 164009
+    title: >-
+        What is the importance of sacred places in mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-developments-during-the-archaic-period-in-classical-studies
+    url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
 related_article5:
-    id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
+    id: 164004
+    title: >-
+        What are the key characteristics that define a myth?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-myth
 ---
 
 &nbsp;

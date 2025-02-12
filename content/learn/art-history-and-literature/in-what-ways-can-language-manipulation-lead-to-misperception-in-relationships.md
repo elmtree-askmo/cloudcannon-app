@@ -2,8 +2,10 @@
 _schema: default
 id: 168252
 date: 2025-02-03
-title: In what ways can language manipulation lead to misperception in relationships?
-article_title: In what ways can language manipulation lead to misperception in relationships?
+title: >-
+    In what ways can language manipulation lead to misperception in relationships?
+article_title: >-
+    In what ways can language manipulation lead to misperception in relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-can-language-manipulation-lead-to-misperception-in-relat
 url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
 score: 9.0
 related_article1:
-    id: 168263
-    title: How does language shape perception and reality in society?
+    id: 168266
+    title: >-
+        What are the effects of miscommunication on dialogue and resolution in literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
+    url: /learn/art-history-and-literature/questions/what-are-the-effects-of-miscommunication-on-dialogue-and-resolution-in-literature
 related_article2:
-    id: 168257
-    title: What are Don John's motivations and how do they impact other characters?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-don-johns-motivations-and-how-do-they-impact-other-characters
-related_article3:
-    id: 168265
-    title: How does deception impact trust and relationships in literature?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-deception-impact-trust-and-relationships-in-literature
-related_article4:
     id: 168260
-    title: In what ways is humor used as a defense mechanism in Shakespearean comedy?
+    title: >-
+        In what ways is humor used as a defense mechanism in Shakespearean comedy?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-is-humor-used-as-a-defense-mechanism-in-shakespearean-comedy
-related_article5:
-    id: 168262
-    title: How do courtship dynamics contribute to conflict and resolution in Shakespearean plays?
+related_article3:
+    id: 168264
+    title: >-
+        What are the consequences of miscommunication in relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-courtship-dynamics-contribute-to-conflict-and-resolution-in-shakespearean-plays
+    url: /learn/art-history-and-literature/questions/what-are-the-consequences-of-miscommunication-in-relationships
+related_article4:
+    id: 168251
+    title: >-
+        How does language blur the line between reality and perception?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-language-blur-the-line-between-reality-and-perception
+related_article5:
+    id: 168265
+    title: >-
+        How does deception impact trust and relationships in literature?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-does-deception-impact-trust-and-relationships-in-literature
 ---
 
 &nbsp;

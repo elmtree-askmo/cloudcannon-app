@@ -2,8 +2,10 @@
 _schema: default
 id: 165929
 date: 2025-01-29
-title: What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
-article_title: What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
+title: >-
+    What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
+article_title: >-
+    What were some notable displays and technological advances showcased at the 1844 Paris Industry Exposition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-some-notable-displays-and-technological-advances-showcased-
 url: /learn/history-of-the-world/questions/what-were-some-notable-displays-and-technological-advances-showcased-at-the-1844-paris-industry-exposition
 score: 8.5
 related_article1:
-    id: 165931
-    title: What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
+    id: 165938
+    title: >-
+        How has the Fons Americanus been interpreted and critiqued by the public and critics?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
+    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
 related_article2:
-    id: 165930
-    title: How were art and artifacts from India culturally represented at the Great Exhibition?
+    id: 165924
+    title: >-
+        What role did exhibits from colonized regions play in the representation of colonies at the Great Exhibition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-were-art-and-artifacts-from-india-culturally-represented-at-the-great-exhibition
+    url: /learn/history-of-the-world/questions/what-role-did-exhibits-from-colonized-regions-play-in-the-representation-of-colonies-at-the-great-exhibition
 related_article3:
-    id: 165931
-    title: What were the public perceptions of the colonial power dynamics displayed through the exhibits from India?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-public-perceptions-of-the-colonial-power-dynamics-displayed-through-the-exhibits-from-india
-related_article4:
-    id: 165921
-    title: How did the Great Exhibition impact technological advancements in society?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-technological-advancements-in-society
-related_article5:
     id: 165936
-    title: How did the public receive the Albert Memorial, and what cultural significance does it hold?
+    title: >-
+        How did the public receive the Albert Memorial, and what cultural significance does it hold?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-public-receive-the-albert-memorial-and-what-cultural-significance-does-it-hold
+related_article4:
+    id: 165937
+    title: >-
+        What themes and artistic techniques are explored in the Fons Americanus?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-themes-and-artistic-techniques-are-explored-in-the-fons-americanus
+related_article5:
+    id: 165938
+    title: >-
+        How has the Fons Americanus been interpreted and critiqued by the public and critics?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-has-the-fons-americanus-been-interpreted-and-critiqued-by-the-public-and-critics
 ---
 
 &nbsp;

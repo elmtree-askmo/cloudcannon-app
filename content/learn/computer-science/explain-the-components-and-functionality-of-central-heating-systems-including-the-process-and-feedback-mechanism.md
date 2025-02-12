@@ -2,8 +2,10 @@
 _schema: default
 id: 161525
 date: 2025-01-24
-title: Explain the components and functionality of central heating systems, including the process and feedback mechanism.
-article_title: Explain the components and functionality of central heating systems, including the process and feedback mechanism.
+title: >-
+    Explain the components and functionality of central heating systems, including the process and feedback mechanism.
+article_title: >-
+    Explain the components and functionality of central heating systems, including the process and feedback mechanism.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-components-and-functionality-of-central-heating-systems-i
 url: /learn/computer-science/questions/explain-the-components-and-functionality-of-central-heating-systems-including-the-process-and-feedback-mechanism
 score: -1.0
 related_article1:
-    id: 161329
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
+    id: 161352
+    title: >-
+        Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
+    url: /learn/computer-science/questions/describe-the-process-and-feedback-mechanism-of-a-burglar-alarm-system-including-the-sensors-and-actuators-used
 related_article2:
-    id: 161528
-    title: Explain the components and process of car park barrier systems, including the feedback mechanism.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-process-of-car-park-barrier-systems-including-the-feedback-mechanism
-related_article3:
     id: 161335
-    title: Define real-time processing and explain its importance in control systems.
+    title: >-
+        Define real-time processing and explain its importance in control systems.
     subject: Computer Science
     url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems
+related_article3:
+    id: 161326
+    title: >-
+        What are the main types of sensors used in monitoring technologies, and how do they function?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
 related_article4:
-    id: 161334
-    title: What are the different types of actuators, and how are they applied in control technologies?
+    id: 161329
+    title: >-
+        Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
+    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
 related_article5:
-    id: 161530
-    title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+    id: 161358
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166100
 date: 2025-01-29
-title: What are the sources and types of contaminants that impact aquatic life and human health?
-article_title: What are the sources and types of contaminants that impact aquatic life and human health?
+title: >-
+    What are the sources and types of contaminants that impact aquatic life and human health?
+article_title: >-
+    What are the sources and types of contaminants that impact aquatic life and human health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-li
 url: /learn/education-studies/questions/what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-life-and-human-health
 score: -1.0
 related_article1:
-    id: 166099
-    title: How do algal blooms affect the structure and dynamics of food webs in lakes?
+    id: 166102
+    title: >-
+        How does the use of Brightspace support communication between students and instructors?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
+    url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
 related_article2:
-    id: 166095
-    title: What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-interactive-learning-tools-play-in-improving-exam-performance-in-inquisitive-learning-technology
-related_article3:
-    id: 166092
-    title: What are the main causes of harmful algal blooms, and what impact do they have on aquatic ecosystems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-causes-of-harmful-algal-blooms-and-what-impact-do-they-have-on-aquatic-ecosystems
-related_article4:
-    id: 166092
-    title: What are the main causes of harmful algal blooms, and what impact do they have on aquatic ecosystems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-causes-of-harmful-algal-blooms-and-what-impact-do-they-have-on-aquatic-ecosystems
-related_article5:
     id: 166101
-    title: Why is lab and lecture integration important for students majoring in natural sciences?
+    title: >-
+        Why is lab and lecture integration important for students majoring in natural sciences?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-lab-and-lecture-integration-important-for-students-majoring-in-natural-sciences
+related_article3:
+    id: 166098
+    title: >-
+        What are the benefits of using electronic textbooks for exam preparation and course integration?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-electronic-textbooks-for-exam-preparation-and-course-integration
+related_article4:
+    id: 166097
+    title: >-
+        In what ways does Top Hat enhance student engagement and participation in class?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-does-top-hat-enhance-student-engagement-and-participation-in-class
+related_article5:
+    id: 166090
+    title: >-
+        How does the integration of course and lab work enhance natural science education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-integration-of-course-and-lab-work-enhance-natural-science-education
 ---
 
 &nbsp;

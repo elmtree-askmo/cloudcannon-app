@@ -2,8 +2,10 @@
 _schema: default
 id: 162808
 date: 2025-01-25
-title: How can symmetry be identified in geometric figures?
-article_title: How can symmetry be identified in geometric figures?
+title: >-
+    How can symmetry be identified in geometric figures?
+article_title: >-
+    How can symmetry be identified in geometric figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-symmetry-be-identified-in-geometric-figures.md
 url: /learn/mathematics/questions/how-can-symmetry-be-identified-in-geometric-figures
 score: -1.0
 related_article1:
-    id: 162620
-    title: What is the line of reflection in a reflection transformation?
+    id: 162886
+    title: >-
+        What is a transformation in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+    url: /learn/mathematics/questions/what-is-a-transformation-in-geometry
 related_article2:
-    id: 162385
-    title: What is the line of reflection in a reflection transformation?
+    id: 162758
+    title: >-
+        How can one visualize reflections in geometry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-line-of-reflection-in-a-reflection-transformation
+    url: /learn/mathematics/questions/how-can-one-visualize-reflections-in-geometry
 related_article3:
-    id: 162515
-    title: How is horizontal symmetry different from vertical symmetry in reflections?
+    id: 162809
+    title: >-
+        What changes occur to the coordinates of a point when it is reflected?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-horizontal-symmetry-different-from-vertical-symmetry-in-reflections
+    url: /learn/mathematics/questions/what-changes-occur-to-the-coordinates-of-a-point-when-it-is-reflected
 related_article4:
-    id: 162742
-    title: How do reflections preserve congruence between figures?
+    id: 162746
+    title: >-
+        Describe the result of reflecting a point across both the x-axis and y-axis.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+    url: /learn/mathematics/questions/describe-the-result-of-reflecting-a-point-across-both-the-xaxis-and-yaxis
 related_article5:
-    id: 162521
-    title: What are the effects of reflections on polygons other than triangles and quadrilaterals?
+    id: 162899
+    title: >-
+        Why do reflections maintain the size and shape of geometric figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-effects-of-reflections-on-polygons-other-than-triangles-and-quadrilaterals
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-geometric-figures
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165651
 date: 2025-01-29
-title: How does the DNS hierarchy organize domain names?
-article_title: How does the DNS hierarchy organize domain names?
+title: >-
+    How does the DNS hierarchy organize domain names?
+article_title: >-
+    How does the DNS hierarchy organize domain names?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-dns-hierarchy-organize-domain-names.md
 url: /learn/computer-science/questions/how-does-the-dns-hierarchy-organize-domain-names
 score: -1.0
 related_article1:
-    id: 165640
-    title: How does the Presentation Layer handle data encryption?
+    id: 165645
+    title: >-
+        Explain the difference between the client-server model and peer-to-peer networks.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-presentation-layer-handle-data-encryption
+    url: /learn/computer-science/questions/explain-the-difference-between-the-clientserver-model-and-peertopeer-networks
 related_article2:
-    id: 165652
-    title: What are the steps involved in the DHCP process for dynamic address assignment?
+    id: 165643
+    title: >-
+        How does DNS facilitate domain name resolution?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
+    url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
 related_article3:
-    id: 165647
-    title: How does HTTP interpret a URL?
+    id: 165639
+    title: >-
+        What is the primary role of the Application Layer in the OSI model?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-interpret-a-url
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-application-layer-in-the-osi-model
 related_article4:
-    id: 165646
-    title: What role do peers play in a peer-to-peer network?
+    id: 165650
+    title: >-
+        What are the differences between POP and IMAP protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
+    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
 related_article5:
-    id: 165646
-    title: What role do peers play in a peer-to-peer network?
+    id: 165639
+    title: >-
+        What is the primary role of the Application Layer in the OSI model?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-application-layer-in-the-osi-model
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167818
 date: 2025-02-01
-title: How does transcription differ from translation in protein synthesis?
-article_title: How does transcription differ from translation in protein synthesis?
+title: >-
+    How does transcription differ from translation in protein synthesis?
+article_title: >-
+    How does transcription differ from translation in protein synthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-transcription-differ-from-translation-in-protein-synthesis.m
 url: /learn/biology/questions/how-does-transcription-differ-from-translation-in-protein-synthesis
 score: -1.0
 related_article1:
-    id: 167808
-    title: How do genetic resemblance and variation contribute to the study of genetics?
+    id: 167824
+    title: >-
+        What are the unique features of plant cells compared to animal cells?
     subject: Biology
-    url: /learn/biology/questions/how-do-genetic-resemblance-and-variation-contribute-to-the-study-of-genetics
+    url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
 related_article2:
+    id: 167807
+    title: >-
+        What is the mechanism of inheritance in transmission genetics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-mechanism-of-inheritance-in-transmission-genetics
+related_article3:
     id: 167828
-    title: How do mitosis and meiosis differ in terms of genetic outcomes?
+    title: >-
+        How do mitosis and meiosis differ in terms of genetic outcomes?
     subject: Biology
     url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
-related_article3:
-    id: 167827
-    title: What are the primary types and functions of biological macromolecules?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-types-and-functions-of-biological-macromolecules
 related_article4:
-    id: 167816
-    title: What are the key differences between prokaryotic and eukaryotic DNA?
+    id: 167828
+    title: >-
+        How do mitosis and meiosis differ in terms of genetic outcomes?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-differences-between-prokaryotic-and-eukaryotic-dna
+    url: /learn/biology/questions/how-do-mitosis-and-meiosis-differ-in-terms-of-genetic-outcomes
 related_article5:
-    id: 167823
-    title: How do prokaryotic cells differ from eukaryotic cells in terms of genetic material organization?
+    id: 167824
+    title: >-
+        What are the unique features of plant cells compared to animal cells?
     subject: Biology
-    url: /learn/biology/questions/how-do-prokaryotic-cells-differ-from-eukaryotic-cells-in-terms-of-genetic-material-organization
+    url: /learn/biology/questions/what-are-the-unique-features-of-plant-cells-compared-to-animal-cells
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163252
 date: 2025-01-26
-title: How do descriptive studies differ from analytic studies in terms of study design?
-article_title: How do descriptive studies differ from analytic studies in terms of study design?
+title: >-
+    How do descriptive studies differ from analytic studies in terms of study design?
+article_title: >-
+    How do descriptive studies differ from analytic studies in terms of study design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/how-do-descriptive-studies-differ-from-anal
 score: -1.0
 related_article1:
     id: 163259
-    title: What role do systematic reviews and meta-analyses play in evidence appraisal?
+    title: >-
+        What role do systematic reviews and meta-analyses play in evidence appraisal?
     subject: Health Studies
     url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
 related_article2:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
+    id: 163251
+    title: >-
+        What are the primary objectives of clinical studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+    url: /learn/health-studies/questions/what-are-the-primary-objectives-of-clinical-studies
 related_article3:
-    id: 163265
-    title: How can healthcare professionals balance current evidence with clinical judgment in practice?
+    id: 163262
+    title: >-
+        What are point of care tools and how are they used in clinical settings?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
+    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
 related_article4:
+    id: 163261
+    title: >-
+        What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-tools-and-techniques-are-used-in-the-critical-appraisal-of-systematic-reviews-and-metaanalyses
+related_article5:
     id: 163260
-    title: Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
     subject: Health Studies
     url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
-related_article5:
-    id: 163250
-    title: How can confounders be identified and adjusted for in a study?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-confounders-be-identified-and-adjusted-for-in-a-study
 ---
 
 &nbsp;

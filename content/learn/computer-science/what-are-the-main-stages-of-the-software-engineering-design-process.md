@@ -2,8 +2,10 @@
 _schema: default
 id: 161036
 date: 2025-01-24
-title: What are the main stages of the software engineering design process?
-article_title: What are the main stages of the software engineering design process?
+title: >-
+    What are the main stages of the software engineering design process?
+article_title: >-
+    What are the main stages of the software engineering design process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-stages-of-the-software-engineering-design-process.m
 url: /learn/computer-science/questions/what-are-the-main-stages-of-the-software-engineering-design-process
 score: -1.0
 related_article1:
-    id: 160704
-    title: What are the key steps in the software engineering design process?
+    id: 160911
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-in-the-software-engineering-design-process
+    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
 related_article2:
-    id: 160707
-    title: How does problem analysis contribute to computational problem solving?
+    id: 161052
+    title: >-
+        How do heuristic algorithms differ from Euclid’s algorithm?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
+    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
 related_article3:
-    id: 161045
-    title: How is cryptography used to ensure information security?
+    id: 160717
+    title: >-
+        What are the differences between 2D and 3D graphics representation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
 related_article4:
-    id: 161050
-    title: How do mechanical and control systems contribute to robot design?
+    id: 160987
+    title: >-
+        What are the principles of usability in user interface design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mechanical-and-control-systems-contribute-to-robot-design
+    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
 related_article5:
-    id: 160700
-    title: How does abstraction help in simplifying complex computing problems?
+    id: 160717
+    title: >-
+        What are the differences between 2D and 3D graphics representation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
 ---
 
 &nbsp;

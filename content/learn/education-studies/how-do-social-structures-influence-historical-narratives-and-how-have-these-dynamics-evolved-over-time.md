@@ -2,8 +2,10 @@
 _schema: default
 id: 166563
 date: 2025-01-30
-title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
-article_title: How do social structures influence historical narratives, and how have these dynamics evolved over time?
+title: >-
+    How do social structures influence historical narratives, and how have these dynamics evolved over time?
+article_title: >-
+    How do social structures influence historical narratives, and how have these dynamics evolved over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-social-structures-influence-historical-narratives-and-how-have
 url: /learn/education-studies/questions/how-do-social-structures-influence-historical-narratives-and-how-have-these-dynamics-evolved-over-time
 score: -1.0
 related_article1:
-    id: 166553
-    title: How does storytelling contribute to the historical narrative?
+    id: 166550
+    title: >-
+        What are the key reasons for the importance of citation in academic writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-storytelling-contribute-to-the-historical-narrative
+    url: /learn/education-studies/questions/what-are-the-key-reasons-for-the-importance-of-citation-in-academic-writing
 related_article2:
-    id: 166553
-    title: How does storytelling contribute to the historical narrative?
+    id: 166551
+    title: >-
+        How does the Chicago Manual of Style differ from MLA and APA citation formats?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-storytelling-contribute-to-the-historical-narrative
+    url: /learn/education-studies/questions/how-does-the-chicago-manual-of-style-differ-from-mla-and-apa-citation-formats
 related_article3:
-    id: 166560
-    title: How can new evidence influence historical interpretation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-new-evidence-influence-historical-interpretation
-related_article4:
-    id: 166557
-    title: Why have women historically been invisible in traditional historical narratives, and how has this changed?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-have-women-historically-been-invisible-in-traditional-historical-narratives-and-how-has-this-changed
-related_article5:
     id: 166552
-    title: What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
+    title: >-
+        What is the purpose of footnotes in historical writing, and how do they differ from bibliographic information?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-purpose-of-footnotes-in-historical-writing-and-how-do-they-differ-from-bibliographic-information
+related_article4:
+    id: 166561
+    title: >-
+        What are some characteristics of early urban centers like the City of Uruk and Egyptian civilization?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-characteristics-of-early-urban-centers-like-the-city-of-uruk-and-egyptian-civilization
+related_article5:
+    id: 166550
+    title: >-
+        What are the key reasons for the importance of citation in academic writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-reasons-for-the-importance-of-citation-in-academic-writing
 ---
 
 &nbsp;

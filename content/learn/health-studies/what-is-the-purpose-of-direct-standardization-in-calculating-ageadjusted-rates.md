@@ -2,8 +2,10 @@
 _schema: default
 id: 162984
 date: 2025-01-26
-title: What is the purpose of direct standardization in calculating age-adjusted rates?
-article_title: What is the purpose of direct standardization in calculating age-adjusted rates?
+title: >-
+    What is the purpose of direct standardization in calculating age-adjusted rates?
+article_title: >-
+    What is the purpose of direct standardization in calculating age-adjusted rates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-direct-standardization-in-calculating-ageadjus
 url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
 score: -1.0
 related_article1:
-    id: 163317
-    title: How do epidemiologic questions contribute to public health interventions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-epidemiologic-questions-contribute-to-public-health-interventions
-related_article2:
     id: 163319
-    title: How does public health surveillance aid in identifying and responding to outbreaks?
+    title: >-
+        How does public health surveillance aid in identifying and responding to outbreaks?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-public-health-surveillance-aid-in-identifying-and-responding-to-outbreaks
+related_article2:
+    id: 162978
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 related_article3:
-    id: 162983
-    title: Why is age-adjustment important when comparing mortality rates across different populations?
+    id: 162985
+    title: >-
+        How do descriptive and analytic epidemiologic questions differ in their objectives?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
+    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
 related_article4:
-    id: 162993
-    title: What does a Pearson correlation coefficient indicate in epidemiological studies?
+    id: 163314
+    title: >-
+        Why are age-adjusted rates important in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+    url: /learn/health-studies/questions/why-are-ageadjusted-rates-important-in-epidemiological-studies
 related_article5:
-    id: 162986
-    title: What role do epidemiologic questions play in generating public health hypotheses?
+    id: 163309
+    title: >-
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 ---
 
 &nbsp;

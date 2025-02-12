@@ -2,8 +2,10 @@
 _schema: default
 id: 162331
 date: 2025-01-25
-title: Why is identifying vertices important in transformations?
-article_title: Why is identifying vertices important in transformations?
+title: >-
+    Why is identifying vertices important in transformations?
+article_title: >-
+    Why is identifying vertices important in transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-identifying-vertices-important-in-transformations.md
 url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
 score: -1.0
 related_article1:
-    id: 162232
-    title: How do transformations affect the positions of vertices in a figure?
+    id: 162317
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 related_article2:
-    id: 162222
-    title: How do you plot a point on the coordinate plane?
+    id: 162314
+    title: >-
+        What are the three types of rigid transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-plot-a-point-on-the-coordinate-plane
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
 related_article3:
-    id: 162325
-    title: How does the center of rotation affect the outcome of a rotation transformation?
+    id: 162313
+    title: >-
+        Why are rigid transformations important in determining congruence?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-center-of-rotation-affect-the-outcome-of-a-rotation-transformation
+    url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 related_article4:
-    id: 162327
-    title: What strategies can be used to match the orientation of two figures?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
-related_article5:
-    id: 162223
-    title: What is the notation for a translation on the coordinate plane?
+    id: 162324
+    title: >-
+        What is the notation for a translation on the coordinate plane?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-notation-for-a-translation-on-the-coordinate-plane
+related_article5:
+    id: 162317
+    title: >-
+        How can a sequence of transformations be used to prove congruence between two figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-can-a-sequence-of-transformations-be-used-to-prove-congruence-between-two-figures
 ---
 
 &nbsp;

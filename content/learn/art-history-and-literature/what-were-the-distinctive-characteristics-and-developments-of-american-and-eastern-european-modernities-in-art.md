@@ -2,8 +2,10 @@
 _schema: default
 id: 159852
 date: 2025-01-23
-title: What were the distinctive characteristics and developments of American and Eastern European modernities in art?
-article_title: What were the distinctive characteristics and developments of American and Eastern European modernities in art?
+title: >-
+    What were the distinctive characteristics and developments of American and Eastern European modernities in art?
+article_title: >-
+    What were the distinctive characteristics and developments of American and Eastern European modernities in art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-distinctive-characteristics-and-developments-of-america
 url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
 score: 9.0
 related_article1:
-    id: 160113
-    title: In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+    id: 159850
+    title: >-
+        How did scientific developments influence environmental themes in Victorian art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
 related_article2:
+    id: 160107
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
+related_article3:
+    id: 160107
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
+related_article4:
+    id: 159846
+    title: >-
+        How did Expressionism and Neo-Impressionism influence later art movements?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+related_article5:
     id: 160114
-    title: How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    title: >-
+        How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
-related_article3:
-    id: 159848
-    title: How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-european-colonisation-influence-african-artistic-practices-and-what-were-some-western-perceptions-and-misunderstandings
-related_article4:
-    id: 160112
-    title: How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
-related_article5:
-    id: 159843
-    title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
 ---
 
 &nbsp;

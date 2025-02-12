@@ -2,8 +2,10 @@
 _schema: default
 id: 168742
 date: 2025-02-04
-title: How did anti-Japanese sentiment during World War II compare to the treatment of other minority groups?
-article_title: How did anti-Japanese sentiment during World War II compare to the treatment of other minority groups?
+title: >-
+    How did anti-Japanese sentiment during World War II compare to the treatment of other minority groups?
+article_title: >-
+    How did anti-Japanese sentiment during World War II compare to the treatment of other minority groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-antijapanese-sentiment-during-world-war-ii-compare-to-the-tre
 url: /learn/history-of-the-world/questions/how-did-antijapanese-sentiment-during-world-war-ii-compare-to-the-treatment-of-other-minority-groups
 score: 9.0
 related_article1:
-    id: 168737
-    title: What was the role of President Franklin D. Roosevelt in the issuance of Executive Order 9066?
+    id: 168743
+    title: >-
+        What were the key legal arguments and outcomes of the Korematsu case?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-role-of-president-franklin-d-roosevelt-in-the-issuance-of-executive-order-9066
+    url: /learn/history-of-the-world/questions/what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case
 related_article2:
+    id: 168743
+    title: >-
+        What were the key legal arguments and outcomes of the Korematsu case?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case
+related_article3:
     id: 168750
-    title: What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
+    title: >-
+        What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
-related_article3:
-    id: 168749
-    title: What were the government and military justifications for the internment of Japanese Americans during World War II?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-government-and-military-justifications-for-the-internment-of-japanese-americans-during-world-war-ii
 related_article4:
     id: 168745
-    title: How have historical narratives and family histories contributed to our understanding of Japanese internment?
+    title: >-
+        How have historical narratives and family histories contributed to our understanding of Japanese internment?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-have-historical-narratives-and-family-histories-contributed-to-our-understanding-of-japanese-internment
 related_article5:
-    id: 168750
-    title: What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
+    id: 168740
+    title: >-
+        Describe the living conditions and daily life in Japanese American internment camps.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
+    url: /learn/history-of-the-world/questions/describe-the-living-conditions-and-daily-life-in-japanese-american-internment-camps
 ---
 
 &nbsp;

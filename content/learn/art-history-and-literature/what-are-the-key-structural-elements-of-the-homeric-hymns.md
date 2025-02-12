@@ -2,8 +2,10 @@
 _schema: default
 id: 163892
 date: 2025-01-28
-title: What are the key structural elements of the Homeric Hymns?
-article_title: What are the key structural elements of the Homeric Hymns?
+title: >-
+    What are the key structural elements of the Homeric Hymns?
+article_title: >-
+    What are the key structural elements of the Homeric Hymns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-structural-elements-of-the-homeric-hymns.md
 url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
 score: 9.0
 related_article1:
-    id: 163898
-    title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
-related_article2:
-    id: 163891
-    title: How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
-related_article3:
-    id: 163890
-    title: Identify a notable Greek hero and describe their main achievements or adventures.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
-related_article4:
     id: 163906
-    title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
+    title: >-
+        Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
-related_article5:
-    id: 163890
-    title: Identify a notable Greek hero and describe their main achievements or adventures.
+related_article2:
+    id: 163889
+    title: >-
+        What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
+    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
+related_article3:
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+related_article4:
+    id: 163904
+    title: >-
+        In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
+related_article5:
+    id: 163904
+    title: >-
+        In what ways did Greek myths influence the values and beliefs of ancient Greek society?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-greek-myths-influence-the-values-and-beliefs-of-ancient-greek-society
 ---
 
 &nbsp;

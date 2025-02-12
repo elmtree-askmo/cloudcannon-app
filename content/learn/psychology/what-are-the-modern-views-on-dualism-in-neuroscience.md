@@ -2,8 +2,10 @@
 _schema: default
 id: 167695
 date: 2025-01-31
-title: What are the modern views on dualism in neuroscience?
-article_title: What are the modern views on dualism in neuroscience?
+title: >-
+    What are the modern views on dualism in neuroscience?
+article_title: >-
+    What are the modern views on dualism in neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-modern-views-on-dualism-in-neuroscience.md
 url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
 score: -1.0
 related_article1:
-    id: 167687
-    title: How can healthy behaviors be differentiated from unhealthy ones?
+    id: 167709
+    title: >-
+        What are the primary methods used in clinical psychology for assessment and diagnosis?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+    url: /learn/psychology/questions/what-are-the-primary-methods-used-in-clinical-psychology-for-assessment-and-diagnosis
 related_article2:
     id: 167688
-    title: What are the basic components of American Sign Language (ASL) communication?
+    title: >-
+        What are the basic components of American Sign Language (ASL) communication?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-basic-components-of-american-sign-language-asl-communication
 related_article3:
-    id: 167685
-    title: How do perceptions of normalcy influence human behavior?
+    id: 167697
+    title: >-
+        How does the nature vs. nurture debate relate to determinism in psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
+    url: /learn/psychology/questions/how-does-the-nature-vs-nurture-debate-relate-to-determinism-in-psychology
 related_article4:
     id: 167700
-    title: What are the main techniques for observing and analyzing observable behavior?
+    title: >-
+        What are the main techniques for observing and analyzing observable behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
 related_article5:
-    id: 167692
-    title: What are the core principles of Cognitive Behavioral Therapy?
+    id: 167705
+    title: >-
+        How do major psychological theories apply to therapy and counseling?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-principles-of-cognitive-behavioral-therapy
+    url: /learn/psychology/questions/how-do-major-psychological-theories-apply-to-therapy-and-counseling
 ---
 
 &nbsp;

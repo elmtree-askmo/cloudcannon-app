@@ -2,8 +2,10 @@
 _schema: default
 id: 164716
 date: 2025-01-28
-title: What are the primary language deficits associated with Broca's aphasia?
-article_title: What are the primary language deficits associated with Broca's aphasia?
+title: >-
+    What are the primary language deficits associated with Broca's aphasia?
+article_title: >-
+    What are the primary language deficits associated with Broca's aphasia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-language-deficits-associated-with-brocas-aphasia
 url: /learn/psychology/questions/what-are-the-primary-language-deficits-associated-with-brocas-aphasia
 score: -1.0
 related_article1:
-    id: 164714
-    title: What role does the P-600 component play in syntactic processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
-related_article2:
-    id: 164714
-    title: What role does the P-600 component play in syntactic processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
-related_article3:
     id: 164712
-    title: What is the difference between syntax and semantics in language processing?
+    title: >-
+        What is the difference between syntax and semantics in language processing?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
+related_article2:
+    id: 164717
+    title: >-
+        How does Wernicke's aphasia affect language comprehension?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-wernickes-aphasia-affect-language-comprehension
+related_article3:
+    id: 164728
+    title: >-
+        What is the role of selective attention in visual search tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
 related_article4:
-    id: 164713
-    title: How does double dissociation provide evidence for the separation of syntax and semantics?
+    id: 164714
+    title: >-
+        What role does the P-600 component play in syntactic processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-double-dissociation-provide-evidence-for-the-separation-of-syntax-and-semantics
+    url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
 related_article5:
-    id: 164724
-    title: What functions are primarily associated with the hippocampus in cognitive neuroscience?
+    id: 164728
+    title: >-
+        What is the role of selective attention in visual search tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
+    url: /learn/psychology/questions/what-is-the-role-of-selective-attention-in-visual-search-tasks
 ---
 
 &nbsp;

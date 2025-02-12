@@ -2,8 +2,10 @@
 _schema: default
 id: 166317
 date: 2025-01-30
-title: What is the mechanism of action of chemotherapy in cancer treatment?
-article_title: What is the mechanism of action of chemotherapy in cancer treatment?
+title: >-
+    What is the mechanism of action of chemotherapy in cancer treatment?
+article_title: >-
+    What is the mechanism of action of chemotherapy in cancer treatment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment.m
 url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
 score: -1.0
 related_article1:
-    id: 166293
-    title: Which protein markers are significant in the diagnosis of leukemia?
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 related_article2:
     id: 166302
-    title: How does the consolidation phase differ from the induction phase in leukemia treatment?
+    title: >-
+        How does the consolidation phase differ from the induction phase in leukemia treatment?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
 related_article3:
+    id: 166297
+    title: >-
+        What viral infections are associated with an increased risk of leukemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-viral-infections-are-associated-with-an-increased-risk-of-leukemia
+related_article4:
     id: 166299
-    title: What systemic symptoms are commonly observed in leukemia patients?
+    title: >-
+        What systemic symptoms are commonly observed in leukemia patients?
     subject: Health Studies
     url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
-related_article4:
-    id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
 related_article5:
-    id: 166301
-    title: What is the goal of the induction phase in leukemia treatment?
+    id: 166298
+    title: >-
+        What are the symptoms of bone marrow overcrowding in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 ---
 
 &nbsp;

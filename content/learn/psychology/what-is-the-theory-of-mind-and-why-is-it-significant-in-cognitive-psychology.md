@@ -2,8 +2,10 @@
 _schema: default
 id: 167970
 date: 2025-02-02
-title: What is the Theory of Mind and why is it significant in cognitive psychology?
-article_title: What is the Theory of Mind and why is it significant in cognitive psychology?
+title: >-
+    What is the Theory of Mind and why is it significant in cognitive psychology?
+article_title: >-
+    What is the Theory of Mind and why is it significant in cognitive psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psy
 url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
 score: -1.0
 related_article1:
+    id: 167980
+    title: >-
+        How does empathy and perspective taking contribute to interpersonal understanding?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-empathy-and-perspective-taking-contribute-to-interpersonal-understanding
+related_article2:
     id: 167977
-    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    title: >-
+        What have studies on Theory of Mind revealed about the impact of false belief tasks?
     subject: Psychology
     url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
-related_article2:
-    id: 167983
-    title: What is the role of beliefs in predicting behavior in social settings?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
 related_article3:
     id: 167972
-    title: What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
+    title: >-
+        What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
 related_article4:
-    id: 167978
-    title: How do individuals differentiate between reality and belief, and how does this influence behavior?
+    id: 167981
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 related_article5:
-    id: 167983
-    title: What is the role of beliefs in predicting behavior in social settings?
+    id: 167981
+    title: >-
+        What are some key theories and models in developmental psychology related to social cognition?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-beliefs-in-predicting-behavior-in-social-settings
+    url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 ---
 
 &nbsp;

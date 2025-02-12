@@ -2,8 +2,10 @@
 _schema: default
 id: 170211
 date: 2025-02-06
-title: What is double negation and how does it relate to logical equivalency?
-article_title: What is double negation and how does it relate to logical equivalency?
+title: >-
+    What is double negation and how does it relate to logical equivalency?
+article_title: >-
+    What is double negation and how does it relate to logical equivalency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
 url: /learn/mathematics/questions/what-is-double-negation-and-how-does-it-relate-to-logical-equivalency
 score: -1.0
 related_article1:
-    id: 170205
-    title: Describe the distributive laws and provide an example of their application.
+    id: 170209
+    title: >-
+        What is the purpose of counter-examples in logical equivalency?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
+    url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
 related_article2:
+    id: 170206
+    title: >-
+        What are the different types of logical operators and their functions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
+related_article3:
     id: 170216
-    title: How are atomic propositions identified in logical statements?
+    title: >-
+        How are atomic propositions identified in logical statements?
     subject: Mathematics
     url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
-related_article3:
-    id: 170203
-    title: What are the commutative laws in propositional logic and how are they applied?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-commutative-laws-in-propositional-logic-and-how-are-they-applied
 related_article4:
-    id: 170202
-    title: How can truth tables be used to determine logical equivalency?
+    id: 170214
+    title: >-
+        How can logical arguments be translated from English to logical form?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
+    url: /learn/mathematics/questions/how-can-logical-arguments-be-translated-from-english-to-logical-form
 related_article5:
-    id: 170201
-    title: What is a logical equivalency and how is it represented in notation?
+    id: 170212
+    title: >-
+        State De Morgan’s Laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+    url: /learn/mathematics/questions/state-de-morgans-laws-and-provide-an-example-of-their-application
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162153
 date: 2025-01-25
-title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
-article_title: Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+title: >-
+    Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
+article_title: >-
+    Explain the quadrant movement when a point undergoes a 270 degrees clockwise rotation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-cl
 url: /learn/mathematics/questions/explain-the-quadrant-movement-when-a-point-undergoes-a-270-degrees-clockwise-rotation
 score: -1.0
 related_article1:
-    id: 162140
-    title: How are the coordinates of a point defined in relation to the origin on a coordinate plane?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-the-coordinates-of-a-point-defined-in-relation-to-the-origin-on-a-coordinate-plane
-related_article2:
-    id: 162159
-    title: What are the observable results of rotating geometric figures in terms of quadrant transitions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-observable-results-of-rotating-geometric-figures-in-terms-of-quadrant-transitions
-related_article3:
     id: 162074
-    title: What are the components of a coordinate plane?
+    title: >-
+        What are the components of a coordinate plane?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-components-of-a-coordinate-plane
-related_article4:
-    id: 162145
-    title: What is the coordinate rule for a 90 degrees clockwise rotation?
+related_article2:
+    id: 162143
+    title: >-
+        Describe the process of performing a 90 degrees clockwise rotation about the origin.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-clockwise-rotation
+    url: /learn/mathematics/questions/describe-the-process-of-performing-a-90-degrees-clockwise-rotation-about-the-origin
+related_article3:
+    id: 162072
+    title: >-
+        What are the four main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-four-main-types-of-transformations-in-geometry
+related_article4:
+    id: 162151
+    title: >-
+        What is the coordinate rule for a 90 degrees counterclockwise rotation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-coordinate-rule-for-a-90-degrees-counterclockwise-rotation
 related_article5:
     id: 162078
-    title: What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
+    title: >-
+        What are the similarities and differences between a 90 degrees clockwise rotation and a 270 degrees counterclockwise rotation?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-similarities-and-differences-between-a-90-degrees-clockwise-rotation-and-a-270-degrees-counterclockwise-rotation
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 164163
 date: 2025-01-28
-title: What role do game rules play in Piaget's research on moral development?
-article_title: What role do game rules play in Piaget's research on moral development?
+title: >-
+    What role do game rules play in Piaget's research on moral development?
+article_title: >-
+    What role do game rules play in Piaget's research on moral development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-role-do-game-rules-play-in-piagets-research-on-moral-development
 url: /learn/psychology/questions/what-role-do-game-rules-play-in-piagets-research-on-moral-development
 score: -1.0
 related_article1:
-    id: 164161
-    title: How does Piaget's theory address the continuation of moral development beyond adolescence?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
-related_article2:
-    id: 164161
-    title: How does Piaget's theory address the continuation of moral development beyond adolescence?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-piagets-theory-address-the-continuation-of-moral-development-beyond-adolescence
-related_article3:
     id: 164152
-    title: How does cognitive development serve as a foundation for moral development?
+    title: >-
+        How does cognitive development serve as a foundation for moral development?
     subject: Psychology
     url: /learn/psychology/questions/how-does-cognitive-development-serve-as-a-foundation-for-moral-development
+related_article2:
+    id: 164154
+    title: >-
+        What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
+related_article3:
+    id: 164154
+    title: >-
+        What are the key characteristics of the premoral stage in Piaget's theory of moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
 related_article4:
-    id: 164165
-    title: How do children's responses to dilemmas in Piaget's studies reflect their moral understanding?
+    id: 164154
+    title: >-
+        What are the key characteristics of the premoral stage in Piaget's theory of moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-childrens-responses-to-dilemmas-in-piagets-studies-reflect-their-moral-understanding
-related_article5:
-    id: 164169
-    title: How do children progress through developmental stages of moral understanding according to Piaget?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-children-progress-through-developmental-stages-of-moral-understanding-according-to-piaget
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-premoral-stage-in-piagets-theory-of-moral-development
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170847
 date: 2025-02-07
-title: How do you identify costs and benefits in a cost-benefit analysis?
-article_title: How do you identify costs and benefits in a cost-benefit analysis?
+title: >-
+    How do you identify costs and benefits in a cost-benefit analysis?
+article_title: >-
+    How do you identify costs and benefits in a cost-benefit analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-identify-costs-and-benefits-in-a-costbenefit-analysis.md
 url: /learn/economics/questions/how-do-you-identify-costs-and-benefits-in-a-costbenefit-analysis
 score: -1.0
 related_article1:
-    id: 170854
-    title: How does the interpretation of the cost curve affect economic decisions?
+    id: 170859
+    title: >-
+        Explain the concept of central prices theory and its role in market equilibrium.
     subject: Economics
-    url: /learn/economics/questions/how-does-the-interpretation-of-the-cost-curve-affect-economic-decisions
+    url: /learn/economics/questions/explain-the-concept-of-central-prices-theory-and-its-role-in-market-equilibrium
 related_article2:
-    id: 170846
-    title: What is cost-benefit analysis and why is it important in decision making?
+    id: 170860
+    title: >-
+        How does central prices theory impact pricing strategies in economics?
     subject: Economics
-    url: /learn/economics/questions/what-is-costbenefit-analysis-and-why-is-it-important-in-decision-making
+    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
 related_article3:
     id: 170851
-    title: Define the benefit curve and explain the factors that influence its shape.
+    title: >-
+        Define the benefit curve and explain the factors that influence its shape.
     subject: Economics
     url: /learn/economics/questions/define-the-benefit-curve-and-explain-the-factors-that-influence-its-shape
 related_article4:
-    id: 170852
-    title: How can the benefit curve be interpreted to make economic decisions?
+    id: 170863
+    title: >-
+        What are some common graphical methods used to represent costs and benefits?
     subject: Economics
-    url: /learn/economics/questions/how-can-the-benefit-curve-be-interpreted-to-make-economic-decisions
+    url: /learn/economics/questions/what-are-some-common-graphical-methods-used-to-represent-costs-and-benefits
 related_article5:
-    id: 170860
-    title: How does central prices theory impact pricing strategies in economics?
+    id: 170848
+    title: >-
+        Explain the role of cost-benefit analysis in economic decision making and its impact on resource allocation.
     subject: Economics
-    url: /learn/economics/questions/how-does-central-prices-theory-impact-pricing-strategies-in-economics
+    url: /learn/economics/questions/explain-the-role-of-costbenefit-analysis-in-economic-decision-making-and-its-impact-on-resource-allocation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161792
 date: 2025-01-24
-title: How do proteins and carbohydrates contribute to structural support in organisms?
-article_title: How do proteins and carbohydrates contribute to structural support in organisms?
+title: >-
+    How do proteins and carbohydrates contribute to structural support in organisms?
+article_title: >-
+    How do proteins and carbohydrates contribute to structural support in organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-proteins-and-carbohydrates-contribute-to-structural-support-in
 url: /learn/education-studies/questions/how-do-proteins-and-carbohydrates-contribute-to-structural-support-in-organisms
 score: -1.0
 related_article1:
-    id: 161788
-    title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+    id: 161785
+    title: >-
+        Explain the significance of amino acid structure in determining protein properties.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
+    url: /learn/education-studies/questions/explain-the-significance-of-amino-acid-structure-in-determining-protein-properties
 related_article2:
     id: 161787
-    title: How do the structures of DNA and RNA differ, and what are their respective functions?
+    title: >-
+        How do the structures of DNA and RNA differ, and what are their respective functions?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
 related_article3:
-    id: 161786
-    title: What are the primary functions of proteins in biological systems?
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-functions-of-proteins-in-biological-systems
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 related_article4:
     id: 161787
-    title: How do the structures of DNA and RNA differ, and what are their respective functions?
+    title: >-
+        How do the structures of DNA and RNA differ, and what are their respective functions?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
 related_article5:
-    id: 161794
-    title: How does molecular structure facilitate function in biological molecules?
+    id: 161786
+    title: >-
+        What are the primary functions of proteins in biological systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
+    url: /learn/education-studies/questions/what-are-the-primary-functions-of-proteins-in-biological-systems
 ---
 
 &nbsp;

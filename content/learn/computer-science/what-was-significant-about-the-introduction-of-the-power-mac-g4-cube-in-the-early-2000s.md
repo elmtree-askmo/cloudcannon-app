@@ -2,8 +2,10 @@
 _schema: default
 id: 160597
 date: 2025-01-24
-title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
-article_title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+title: >-
+    What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
+article_title: >-
+    What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-
 url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 score: -1.0
 related_article1:
-    id: 160529
-    title: How did Apple's store design and layout contribute to its retail success?
+    id: 160431
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apples-store-design-and-layout-contribute-to-its-retail-success
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article2:
-    id: 160532
-    title: What role did iLife and iWork updates play in Apple's software ecosystem?
+    id: 160429
+    title: >-
+        What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-ilife-and-iwork-updates-play-in-apples-software-ecosystem
+    url: /learn/computer-science/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
 related_article3:
-    id: 160535
-    title: How did advances in display technology contribute to technological advancements in computing?
+    id: 160521
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-advances-in-display-technology-contribute-to-technological-advancements-in-computing
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
 related_article4:
-    id: 160425
-    title: What were the technological advancements introduced with the iPhone 3G?
+    id: 160524
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
     subject: Computer Science
     url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 related_article5:
-    id: 160530
-    title: What were the implications of Apple's transition to Intel processors for product performance?
+    id: 160436
+    title: >-
+        What innovations did Apple introduce with the development of lightweight notebooks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance
+    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
 ---
 
 &nbsp;

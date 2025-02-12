@@ -2,8 +2,10 @@
 _schema: default
 id: 171015
 date: 2025-02-07
-title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
-article_title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+title: >-
+    How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+article_title: >-
+    How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-animals-adapt-their-behavior-in-response-to-environmental-pres
 url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
 score: -1.0
 related_article1:
-    id: 171009
-    title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
-related_article2:
-    id: 171011
-    title: Why are feedback mechanisms important in biological communication systems?
-    subject: Psychology
-    url: /learn/psychology/questions/why-are-feedback-mechanisms-important-in-biological-communication-systems
-related_article3:
-    id: 170999
-    title: What are the main disadvantages of sexual reproduction in terms of energy and time investment?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
-related_article4:
     id: 171005
-    title: What are the different types of polygyny, and can you provide examples from nature?
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
-related_article5:
-    id: 171007
-    title: What are the defining characteristics of promiscuity in the animal kingdom?
+related_article2:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
+related_article3:
+    id: 170998
+    title: >-
+        How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
+related_article4:
+    id: 171002
+    title: >-
+        How does parental investment impact offspring survival and resource allocation trade-offs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
+related_article5:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
 ---
 
 &nbsp;

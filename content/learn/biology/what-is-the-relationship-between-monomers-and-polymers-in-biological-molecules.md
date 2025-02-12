@@ -2,8 +2,10 @@
 _schema: default
 id: 169952
 date: 2025-02-05
-title: What is the relationship between monomers and polymers in biological molecules?
-article_title: What is the relationship between monomers and polymers in biological molecules?
+title: >-
+    What is the relationship between monomers and polymers in biological molecules?
+article_title: >-
+    What is the relationship between monomers and polymers in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-monomers-and-polymers-in-biological-
 url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
 score: -1.0
 related_article1:
-    id: 169945
-    title: What is the structural difference between cellulose and starch?
+    id: 169959
+    title: >-
+        What is the role of membrane proteins in the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+    url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
 related_article2:
-    id: 169945
-    title: What is the structural difference between cellulose and starch?
+    id: 169957
+    title: >-
+        What is the function of the nucleoid region in prokaryotic cells?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
+    url: /learn/biology/questions/what-is-the-function-of-the-nucleoid-region-in-prokaryotic-cells
 related_article3:
-    id: 169948
-    title: What is the role of phospholipids in cell membranes?
+    id: 169959
+    title: >-
+        What is the role of membrane proteins in the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
+    url: /learn/biology/questions/what-is-the-role-of-membrane-proteins-in-the-cell-membrane
 related_article4:
-    id: 169954
-    title: How do enzymes exhibit specificity for their substrates?
+    id: 169949
+    title: >-
+        What is the structural difference between DNA and RNA?
     subject: Biology
-    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
+    url: /learn/biology/questions/what-is-the-structural-difference-between-dna-and-rna
 related_article5:
-    id: 169946
-    title: What are the four levels of protein structure?
+    id: 169955
+    title: >-
+        What is the difference between anabolic and catabolic pathways in metabolism?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
 ---
 
 &nbsp;

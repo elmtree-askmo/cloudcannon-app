@@ -2,8 +2,10 @@
 _schema: default
 id: 164060
 date: 2025-01-28
-title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
-article_title: Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+title: >-
+    Define psychopathology and explain the importance of diagnostic criteria in its treatment.
+article_title: >-
+    Define psychopathology and explain the importance of diagnostic criteria in its treatment.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: define-psychopathology-and-explain-the-importance-of-diagnostic-crite
 url: /learn/psychology/questions/define-psychopathology-and-explain-the-importance-of-diagnostic-criteria-in-its-treatment
 score: -1.0
 related_article1:
-    id: 164065
-    title: What are the primary techniques and tools used in biofeedback therapy?
+    id: 164067
+    title: >-
+        What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-techniques-and-tools-used-in-biofeedback-therapy
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
 related_article2:
+    id: 164067
+    title: >-
+        What are the shared therapeutic techniques in forensic treatments and how do they contribute to relapse prevention?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-shared-therapeutic-techniques-in-forensic-treatments-and-how-do-they-contribute-to-relapse-prevention
+related_article3:
     id: 164063
-    title: What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
+    title: >-
+        What is the systemic approach of Multisystemic Therapy (MST) and which populations does it target?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-systemic-approach-of-multisystemic-therapy-mst-and-which-populations-does-it-target
-related_article3:
+related_article4:
     id: 164064
-    title: Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
+    title: >-
+        Outline the program structure and therapeutic goals of Multidimensional Treatment Foster Care (MTFC).
     subject: Psychology
     url: /learn/psychology/questions/outline-the-program-structure-and-therapeutic-goals-of-multidimensional-treatment-foster-care-mtfc
-related_article4:
-    id: 164061
-    title: What are the main findings and implications of research in systemic treatments for psychopathology?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-findings-and-implications-of-research-in-systemic-treatments-for-psychopathology
 related_article5:
     id: 164055
-    title: What are the key differences between early practices and modern approaches in forensic treatment?
+    title: >-
+        What are the key differences between early practices and modern approaches in forensic treatment?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-differences-between-early-practices-and-modern-approaches-in-forensic-treatment
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 161332
 date: 2025-01-24
-title: Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
-article_title: Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
+title: >-
+    Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
+article_title: >-
+    Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-role-and-importance-of-a-digital-to-analogue-converter-d
 url: /learn/computer-science/questions/describe-the-role-and-importance-of-a-digital-to-analogue-converter-dac-in-control-systems
 score: -1.0
 related_article1:
-    id: 161520
-    title: Describe multi-point calibration and its advantages in various applications.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
-related_article2:
-    id: 161529
-    title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
-related_article3:
     id: 161349
-    title: What vital signs are monitored in patient monitoring systems, and how is data processed to generate alerts?
+    title: >-
+        What vital signs are monitored in patient monitoring systems, and how is data processed to generate alerts?
     subject: Computer Science
     url: /learn/computer-science/questions/what-vital-signs-are-monitored-in-patient-monitoring-systems-and-how-is-data-processed-to-generate-alerts
+related_article2:
+    id: 161350
+    title: >-
+        Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
+    subject: Computer Science
+    url: /learn/computer-science/questions/identify-the-sensors-and-actuators-used-in-greenhouse-environment-control-and-explain-the-feedback-mechanism-involved
+related_article3:
+    id: 161352
+    title: >-
+        Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-process-and-feedback-mechanism-of-a-burglar-alarm-system-including-the-sensors-and-actuators-used
 related_article4:
-    id: 161517
-    title: Define real-time processing and explain its importance in control systems with examples.
+    id: 161520
+    title: >-
+        Describe multi-point calibration and its advantages in various applications.
     subject: Computer Science
-    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems-with-examples
+    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
 related_article5:
-    id: 161326
-    title: What are the main types of sensors used in monitoring technologies, and how do they function?
+    id: 161532
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
+    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
 ---
 
 &nbsp;

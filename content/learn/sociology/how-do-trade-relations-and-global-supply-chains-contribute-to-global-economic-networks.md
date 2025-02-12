@@ -2,8 +2,10 @@
 _schema: default
 id: 160641
 date: 2025-01-24
-title: How do trade relations and global supply chains contribute to global economic networks?
-article_title: How do trade relations and global supply chains contribute to global economic networks?
+title: >-
+    How do trade relations and global supply chains contribute to global economic networks?
+article_title: >-
+    How do trade relations and global supply chains contribute to global economic networks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-trade-relations-and-global-supply-chains-contribute-to-global-
 url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
 score: -1.0
 related_article1:
-    id: 160546
-    title: How do borders and boundaries influence territoriality and state sovereignty?
+    id: 160078
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
 related_article2:
-    id: 160086
-    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    id: 160499
+    title: >-
+        How do place and space contribute to regional analysis and regional attributes?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 related_article3:
-    id: 160228
-    title: Explain the concept of time-space compression and its impact on global connectivity.
+    id: 160082
+    title: >-
+        What are the physical and human systems that contribute to regional disparities in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-contribute-to-regional-disparities-in-geographic-settings
 related_article4:
-    id: 160540
-    title: How do economic forces and political actions influence urban transformations in human geography?
+    id: 160548
+    title: >-
+        What strategies do states employ to maintain territorial control and sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-economic-forces-and-political-actions-influence-urban-transformations-in-human-geography
-related_article5:
-    id: 160557
-    title: What are the practical tools necessary for effective data collection and analysis techniques?
-    subject: Sociology
-    url: /learn/sociology/questions/what-are-the-practical-tools-necessary-for-effective-data-collection-and-analysis-techniques
+    url: /learn/sociology/questions/what-strategies-do-states-employ-to-maintain-territorial-control-and-sovereignty
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170712
 date: 2025-02-06
-title: How can recursive thinking be applied to algorithm design?
-article_title: How can recursive thinking be applied to algorithm design?
+title: >-
+    How can recursive thinking be applied to algorithm design?
+article_title: >-
+    How can recursive thinking be applied to algorithm design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-recursive-thinking-be-applied-to-algorithm-design.md
 url: /learn/mathematics/questions/how-can-recursive-thinking-be-applied-to-algorithm-design
 score: -1.0
 related_article1:
-    id: 170714
-    title: What are some common classes of Big O notation, and what do they represent?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
-related_article2:
-    id: 170713
-    title: Why is time complexity important in algorithm analysis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-time-complexity-important-in-algorithm-analysis
-related_article3:
-    id: 170707
-    title: What is the base case in regular induction, and why is it important?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
-related_article4:
     id: 170719
-    title: What is the principle of optimal substructure in dynamic programming?
+    title: >-
+        What is the principle of optimal substructure in dynamic programming?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-principle-of-optimal-substructure-in-dynamic-programming
-related_article5:
-    id: 170707
-    title: What is the base case in regular induction, and why is it important?
+related_article2:
+    id: 170708
+    title: >-
+        How does the inductive step in regular induction help in proving statements?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-base-case-in-regular-induction-and-why-is-it-important
+    url: /learn/mathematics/questions/how-does-the-inductive-step-in-regular-induction-help-in-proving-statements
+related_article3:
+    id: 170715
+    title: >-
+        What are the key techniques for measuring the performance of an algorithm?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-techniques-for-measuring-the-performance-of-an-algorithm
+related_article4:
+    id: 170714
+    title: >-
+        What are some common classes of Big O notation, and what do they represent?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-some-common-classes-of-big-o-notation-and-what-do-they-represent
+related_article5:
+    id: 170709
+    title: >-
+        What distinguishes strong induction from regular induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-regular-induction
 ---
 
 &nbsp;

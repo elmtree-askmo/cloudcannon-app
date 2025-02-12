@@ -2,8 +2,10 @@
 _schema: default
 id: 163658
 date: 2025-01-27
-title: What are the key differences between participant observation and interviews in qualitative research?
-article_title: What are the key differences between participant observation and interviews in qualitative research?
+title: >-
+    What are the key differences between participant observation and interviews in qualitative research?
+article_title: >-
+    What are the key differences between participant observation and interviews in qualitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-differences-between-participant-observation-and-inte
 url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
 score: -1.0
 related_article1:
-    id: 163668
-    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    id: 163672
+    title: >-
+        How does primary data collection differ from secondary data analysis in research?
     subject: Sociology
-    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
 related_article2:
-    id: 163663
-    title: How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    id: 163670
+    title: >-
+        What is the historical context of settler colonialism and its impact on Indigenous communities?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
 related_article3:
-    id: 163663
-    title: How does traditional knowledge contribute to Indigenous sovereignty in research methods?
+    id: 163669
+    title: >-
+        How do race, class, and gender influence social relations and outcomes of social processes?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+    url: /learn/sociology/questions/how-do-race-class-and-gender-influence-social-relations-and-outcomes-of-social-processes
 related_article4:
-    id: 163668
-    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    id: 163661
+    title: >-
+        How do social inequalities manifest within social hierarchies?
     subject: Sociology
-    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
 related_article5:
     id: 163666
-    title: What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+    title: >-
+        What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
     subject: Sociology
     url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 ---

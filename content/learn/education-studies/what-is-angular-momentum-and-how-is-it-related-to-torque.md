@@ -2,8 +2,10 @@
 _schema: default
 id: 166737
 date: 2025-01-31
-title: What is angular momentum and how is it related to torque?
-article_title: What is angular momentum and how is it related to torque?
+title: >-
+    What is angular momentum and how is it related to torque?
+article_title: >-
+    What is angular momentum and how is it related to torque?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-angular-momentum-and-how-is-it-related-to-torque.md
 url: /learn/education-studies/questions/what-is-angular-momentum-and-how-is-it-related-to-torque
 score: -1.0
 related_article1:
-    id: 166724
-    title: How is the moment of a force calculated and what role does the moment arm play in this calculation?
+    id: 166736
+    title: >-
+        How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment-arm-play-in-this-calculation
+    url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
 related_article2:
-    id: 166733
-    title: What is the cross product of two vectors and what are its properties?
+    id: 166735
+    title: >-
+        What is a unit vector and why is it important in vector representation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
+    url: /learn/education-studies/questions/what-is-a-unit-vector-and-why-is-it-important-in-vector-representation
 related_article3:
-    id: 166724
-    title: How is the moment of a force calculated and what role does the moment arm play in this calculation?
+    id: 166732
+    title: >-
+        How is the projection of one vector onto another calculated using scalar products?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment-arm-play-in-this-calculation
+    url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
 related_article4:
-    id: 166739
-    title: How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
+    id: 166727
+    title: >-
+        How is the mechanical advantage of a lever determined and what are the types of levers?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-coordinate-transformations-performed-between-cartesian-and-cylindrical-coordinate-systems
+    url: /learn/education-studies/questions/how-is-the-mechanical-advantage-of-a-lever-determined-and-what-are-the-types-of-levers
 related_article5:
     id: 166729
-    title: How are vectors decomposed into components and what are the properties of vector addition and subtraction?
+    title: >-
+        How are vectors decomposed into components and what are the properties of vector addition and subtraction?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
 ---

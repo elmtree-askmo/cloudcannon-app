@@ -2,8 +2,10 @@
 _schema: default
 id: 163674
 date: 2025-01-27
-title: How does positivism differ from social constructivism in terms of ontology?
-article_title: How does positivism differ from social constructivism in terms of ontology?
+title: >-
+    How does positivism differ from social constructivism in terms of ontology?
+article_title: >-
+    How does positivism differ from social constructivism in terms of ontology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-positivism-differ-from-social-constructivism-in-terms-of-ont
 url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
 score: -1.0
 related_article1:
-    id: 163686
-    title: How is statistical analysis used in quantitative data analysis?
+    id: 163693
+    title: >-
+        What is holism, and why is it important in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
 related_article2:
-    id: 163683
-    title: What are some common qualitative data collection methods?
+    id: 163682
+    title: >-
+        What are the key elements of a research design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
 related_article3:
-    id: 163679
-    title: What are the main characteristics of quantitative research methodologies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
-related_article4:
     id: 163684
-    title: What are some common quantitative data collection methods?
+    title: >-
+        What are some common quantitative data collection methods?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
-related_article5:
-    id: 163694
-    title: What is naturalism, and why is it important in qualitative research?
+related_article4:
+    id: 163676
+    title: >-
+        How do ontology and epistemology influence research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
+related_article5:
+    id: 163678
+    title: >-
+        How does inductive reasoning play a role in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167853
 date: 2025-02-01
-title: What are the key sources for finding recent research articles on genetic diseases?
-article_title: What are the key sources for finding recent research articles on genetic diseases?
+title: >-
+    What are the key sources for finding recent research articles on genetic diseases?
+article_title: >-
+    What are the key sources for finding recent research articles on genetic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-sources-for-finding-recent-research-articles-on-gene
 url: /learn/nursing/questions/what-are-the-key-sources-for-finding-recent-research-articles-on-genetic-diseases
 score: -1.0
 related_article1:
+    id: 167867
+    title: >-
+        What are the phases of the cell cycle and their significance?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-phases-of-the-cell-cycle-and-their-significance
+related_article2:
+    id: 167861
+    title: >-
+        How does chromosomal crossover contribute to genetic diversity?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-chromosomal-crossover-contribute-to-genetic-diversity
+related_article3:
+    id: 167858
+    title: >-
+        How does meiosis contribute to genetic variation?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-meiosis-contribute-to-genetic-variation
+related_article4:
+    id: 167854
+    title: >-
+        How does the peer review process contribute to the quality of research articles?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-the-peer-review-process-contribute-to-the-quality-of-research-articles
+related_article5:
     id: 167859
-    title: Describe the structure of a chromosome and its components.
+    title: >-
+        Describe the structure of a chromosome and its components.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-structure-of-a-chromosome-and-its-components
-related_article2:
-    id: 167860
-    title: What is the role of homologous chromosomes during meiosis?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
-related_article3:
-    id: 167866
-    title: How do alleles contribute to genetic variation within a population?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-alleles-contribute-to-genetic-variation-within-a-population
-related_article4:
-    id: 167860
-    title: What is the role of homologous chromosomes during meiosis?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-homologous-chromosomes-during-meiosis
-related_article5:
-    id: 167868
-    title: How do haploid and diploid cells differ in terms of their role in reproduction?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-haploid-and-diploid-cells-differ-in-terms-of-their-role-in-reproduction
 ---
 
 &nbsp;

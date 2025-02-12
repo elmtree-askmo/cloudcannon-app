@@ -2,8 +2,10 @@
 _schema: default
 id: 160154
 date: 2025-01-23
-title: What techniques can be used for effective information retrieval, and how can students evaluate sources?
-article_title: What techniques can be used for effective information retrieval, and how can students evaluate sources?
+title: >-
+    What techniques can be used for effective information retrieval, and how can students evaluate sources?
+article_title: >-
+    What techniques can be used for effective information retrieval, and how can students evaluate sources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-can-be-used-for-effective-information-retrieval-and-h
 url: /learn/education-studies/questions/what-techniques-can-be-used-for-effective-information-retrieval-and-how-can-students-evaluate-sources
 score: -1.0
 related_article1:
-    id: 159980
-    title: What are the main learning theories, and how can they be applied to enhance the educational experience?
+    id: 160284
+    title: >-
+        What are the different types of assessments, and how can students prepare effectively for them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-enhance-the-educational-experience
+    url: /learn/education-studies/questions/what-are-the-different-types-of-assessments-and-how-can-students-prepare-effectively-for-them
 related_article2:
-    id: 160145
-    title: How can students identify their learning style and leverage their strengths to improve academic performance?
+    id: 160148
+    title: >-
+        What should students consider when selecting courses to align with their career goals and balance their workload?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-identify-their-learning-style-and-leverage-their-strengths-to-improve-academic-performance
+    url: /learn/education-studies/questions/what-should-students-consider-when-selecting-courses-to-align-with-their-career-goals-and-balance-their-workload
 related_article3:
-    id: 160367
-    title: How can students maximize the benefits of academic resources such as libraries and online platforms?
+    id: 160135
+    title: >-
+        How do digital and traditional note-making methods compare, and what are the advantages of each?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-maximize-the-benefits-of-academic-resources-such-as-libraries-and-online-platforms
+    url: /learn/education-studies/questions/how-do-digital-and-traditional-notemaking-methods-compare-and-what-are-the-advantages-of-each
 related_article4:
-    id: 160140
-    title: What are the benefits of participating in study groups, and how can they enhance learning?
+    id: 159981
+    title: >-
+        What techniques can be used for effective information retrieval, and how can students evaluate sources?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-participating-in-study-groups-and-how-can-they-enhance-learning
+    url: /learn/education-studies/questions/what-techniques-can-be-used-for-effective-information-retrieval-and-how-can-students-evaluate-sources
 related_article5:
-    id: 160290
-    title: What role does educational psychology play in understanding student behavior and enhancing learning environments?
+    id: 160055
+    title: >-
+        How can setting reading goals and reflecting on content improve reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-educational-psychology-play-in-understanding-student-behavior-and-enhancing-learning-environments
+    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-improve-reading-comprehension
 ---
 
 &nbsp;

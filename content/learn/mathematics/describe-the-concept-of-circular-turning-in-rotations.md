@@ -2,8 +2,10 @@
 _schema: default
 id: 162614
 date: 2025-01-25
-title: Describe the concept of circular turning in rotations.
-article_title: Describe the concept of circular turning in rotations.
+title: >-
+    Describe the concept of circular turning in rotations.
+article_title: >-
+    Describe the concept of circular turning in rotations.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-concept-of-circular-turning-in-rotations.md
 url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
 score: -1.0
 related_article1:
-    id: 162598
-    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    id: 162603
+    title: >-
+        How is the length of a line segment affected by rotation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
+    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
 related_article2:
-    id: 162237
-    title: What is the center of rotation, and why is it important in transformations?
+    id: 162493
+    title: >-
+        How does the line of reflection affect the position of a reflected figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
+    url: /learn/mathematics/questions/how-does-the-line-of-reflection-affect-the-position-of-a-reflected-figure
 related_article3:
-    id: 162242
-    title: How does reflection affect the orientation of a geometric figure?
+    id: 162249
+    title: >-
+        Describe the concept of circular turning in rotations.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/describe-the-concept-of-circular-turning-in-rotations
 related_article4:
-    id: 162606
-    title: How does reflection affect the orientation of a geometric figure?
+    id: 162600
+    title: >-
+        What is the center of rotation, and why is it important in rotations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
+    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-rotations
 related_article5:
-    id: 162492
-    title: What is a mirror image in the context of reflection transformations?
+    id: 162244
+    title: >-
+        How does translation affect the position of a figure without altering its size or shape?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection-transformations
+    url: /learn/mathematics/questions/how-does-translation-affect-the-position-of-a-figure-without-altering-its-size-or-shape
 ---
 
 &nbsp;

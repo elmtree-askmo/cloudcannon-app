@@ -2,8 +2,10 @@
 _schema: default
 id: 169850
 date: 2025-02-05
-title: What is the difference between a node and a loop in circuit analysis?
-article_title: What is the difference between a node and a loop in circuit analysis?
+title: >-
+    What is the difference between a node and a loop in circuit analysis?
+article_title: >-
+    What is the difference between a node and a loop in circuit analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis.
 url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 score: -1.0
 related_article1:
-    id: 169859
-    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 related_article2:
-    id: 169861
-    title: How are phasor diagrams used in the analysis of RLC circuits?
+    id: 169848
+    title: >-
+        What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
     subject: Engineering
-    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
 related_article3:
-    id: 169860
-    title: What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
+    id: 169863
+    title: >-
+        How is the capacitor value calculated for power factor correction in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
+    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
 related_article4:
-    id: 169859
-    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    id: 169843
+    title: >-
+        What are the basic postulates and conventions used in the analysis of DC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
 related_article5:
-    id: 169856
-    title: How does Kirchhoff's analysis differ from Maxwell's mesh analysis?
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-kirchhoffs-analysis-differ-from-maxwells-mesh-analysis
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 ---
 
 &nbsp;

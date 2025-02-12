@@ -2,8 +2,10 @@
 _schema: default
 id: 163673
 date: 2025-01-27
-title: What is ontology, and why is it important in research?
-article_title: What is ontology, and why is it important in research?
+title: >-
+    What is ontology, and why is it important in research?
+article_title: >-
+    What is ontology, and why is it important in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-ontology-and-why-is-it-important-in-research.md
 url: /learn/education-studies/questions/what-is-ontology-and-why-is-it-important-in-research
 score: -1.0
 related_article1:
-    id: 163681
-    title: Why is research design important in the research process?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-research-design-important-in-the-research-process
-related_article2:
-    id: 163694
-    title: What is naturalism, and why is it important in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
-related_article3:
     id: 163685
-    title: What is the process of coding and thematic analysis in qualitative data analysis?
+    title: >-
+        What is the process of coding and thematic analysis in qualitative data analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
-related_article4:
+related_article2:
     id: 163687
-    title: What is the importance of formulating research questions from a research problem?
+    title: >-
+        What is the importance of formulating research questions from a research problem?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
-related_article5:
-    id: 163685
-    title: What is the process of coding and thematic analysis in qualitative data analysis?
+related_article3:
+    id: 163693
+    title: >-
+        What is holism, and why is it important in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
+    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+related_article4:
+    id: 163694
+    title: >-
+        What is naturalism, and why is it important in qualitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-naturalism-and-why-is-it-important-in-qualitative-research
+related_article5:
+    id: 163692
+    title: >-
+        How does objective knowledge contribute to quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 ---
 
 &nbsp;

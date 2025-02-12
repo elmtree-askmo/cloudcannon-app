@@ -2,8 +2,10 @@
 _schema: default
 id: 166895
 date: 2025-01-31
-title: What are the key components of a graph and why are they important for data interpretation?
-article_title: What are the key components of a graph and why are they important for data interpretation?
+title: >-
+    What are the key components of a graph and why are they important for data interpretation?
+article_title: >-
+    What are the key components of a graph and why are they important for data interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-components-of-a-graph-and-why-are-they-important-for
 url: /learn/education-studies/questions/what-are-the-key-components-of-a-graph-and-why-are-they-important-for-data-interpretation
 score: -1.0
 related_article1:
+    id: 166896
+    title: >-
+        How can trend analysis be used to interpret data effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
+related_article2:
     id: 166894
-    title: How does cognitive load theory influence teaching strategies in cognitive science?
+    title: >-
+        How does cognitive load theory influence teaching strategies in cognitive science?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-cognitive-load-theory-influence-teaching-strategies-in-cognitive-science
-related_article2:
-    id: 166899
-    title: What are the benefits of using Codon Learning courseware in biology education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
 related_article3:
-    id: 166904
-    title: What strategies can be implemented to improve student attendance in lectures?
+    id: 166893
+    title: >-
+        What is the scope of discipline-based educational research and why is it important in biology education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-implemented-to-improve-student-attendance-in-lectures
+    url: /learn/education-studies/questions/what-is-the-scope-of-disciplinebased-educational-research-and-why-is-it-important-in-biology-education
 related_article4:
-    id: 166900
-    title: How do Desire2Learn D2L features support course administration and content delivery?
+    id: 166901
+    title: >-
+        What are the principles of active learning and how do they engage students in meaningful activities?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-desire2learn-d2l-features-support-course-administration-and-content-delivery
+    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
 related_article5:
     id: 166904
-    title: What strategies can be implemented to improve student attendance in lectures?
+    title: >-
+        What strategies can be implemented to improve student attendance in lectures?
     subject: Education Studies
     url: /learn/education-studies/questions/what-strategies-can-be-implemented-to-improve-student-attendance-in-lectures
 ---

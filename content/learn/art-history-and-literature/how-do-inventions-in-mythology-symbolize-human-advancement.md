@@ -2,8 +2,10 @@
 _schema: default
 id: 163879
 date: 2025-01-28
-title: How do inventions in mythology symbolize human advancement?
-article_title: How do inventions in mythology symbolize human advancement?
+title: >-
+    How do inventions in mythology symbolize human advancement?
+article_title: >-
+    How do inventions in mythology symbolize human advancement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-inventions-in-mythology-symbolize-human-advancement.md
 url: /learn/art-history-and-literature/questions/how-do-inventions-in-mythology-symbolize-human-advancement
 score: 8.5
 related_article1:
-    id: 163876
-    title: How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
+    id: 163875
+    title: >-
+        What are the defining characteristics of Hermes as a trickster god?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-shapeshifting-contribute-to-the-cunning-nature-of-trickster-gods-in-mythology
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-hermes-as-a-trickster-god
 related_article2:
     id: 163887
-    title: How do trickster gods use humor to impact mythological narratives?
+    title: >-
+        How do trickster gods use humor to impact mythological narratives?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
 related_article3:
-    id: 163876
-    title: How does shape-shifting contribute to the cunning nature of trickster gods in mythology?
+    id: 163886
+    title: >-
+        What is the role of inventions in mythological stories?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-shapeshifting-contribute-to-the-cunning-nature-of-trickster-gods-in-mythology
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
 related_article4:
-    id: 163885
-    title: How do common themes in myths connect different cultures?
+    id: 163886
+    title: >-
+        What is the role of inventions in mythological stories?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-common-themes-in-myths-connect-different-cultures
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-inventions-in-mythological-stories
 related_article5:
-    id: 163887
-    title: How do trickster gods use humor to impact mythological narratives?
+    id: 163884
+    title: >-
+        What role does shape-shifting play in mythological narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-trickster-gods-use-humor-to-impact-mythological-narratives
+    url: /learn/art-history-and-literature/questions/what-role-does-shapeshifting-play-in-mythological-narratives
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170502
 date: 2025-02-06
-title: How does the somatic nervous system facilitate voluntary control of skeletal muscles?
-article_title: How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+title: >-
+    How does the somatic nervous system facilitate voluntary control of skeletal muscles?
+article_title: >-
+    How does the somatic nervous system facilitate voluntary control of skeletal muscles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-s
 url: /learn/nursing/questions/how-does-the-somatic-nervous-system-facilitate-voluntary-control-of-skeletal-muscles
 score: -1.0
 related_article1:
-    id: 170520
-    title: What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    id: 170507
+    title: >-
+        Explain the role of muscarinic receptors in the parasympathetic nervous system.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
+    url: /learn/nursing/questions/explain-the-role-of-muscarinic-receptors-in-the-parasympathetic-nervous-system
 related_article2:
-    id: 170513
-    title: Describe the role of smooth muscle in the function of visceral organs.
+    id: 170511
+    title: >-
+        How is voluntary control of skeletal muscle achieved, and what is its role in movement?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-role-of-smooth-muscle-in-the-function-of-visceral-organs
+    url: /learn/nursing/questions/how-is-voluntary-control-of-skeletal-muscle-achieved-and-what-is-its-role-in-movement
 related_article3:
-    id: 170503
-    title: Describe the primary functions of the sympathetic nervous system in the autonomic nervous system.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-primary-functions-of-the-sympathetic-nervous-system-in-the-autonomic-nervous-system
-related_article4:
     id: 170521
-    title: How can drug interactions modulate heart rate and influence blood vessel diameter?
+    title: >-
+        How can drug interactions modulate heart rate and influence blood vessel diameter?
     subject: Nursing
     url: /learn/nursing/questions/how-can-drug-interactions-modulate-heart-rate-and-influence-blood-vessel-diameter
-related_article5:
-    id: 170506
-    title: Where are nicotinic receptors located, and what is their function in the nervous system?
+related_article4:
+    id: 170518
+    title: >-
+        Explain the role of the autonomic nervous system in maintaining blood pressure homeostasis.
     subject: Nursing
-    url: /learn/nursing/questions/where-are-nicotinic-receptors-located-and-what-is-their-function-in-the-nervous-system
+    url: /learn/nursing/questions/explain-the-role-of-the-autonomic-nervous-system-in-maintaining-blood-pressure-homeostasis
+related_article5:
+    id: 170520
+    title: >-
+        What are the effects of agonists and antagonists on neurotransmitter receptors, and how are they applied clinically?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-effects-of-agonists-and-antagonists-on-neurotransmitter-receptors-and-how-are-they-applied-clinically
 ---
 
 &nbsp;

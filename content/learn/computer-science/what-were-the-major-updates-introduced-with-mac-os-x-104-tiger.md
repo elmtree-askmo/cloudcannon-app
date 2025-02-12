@@ -2,8 +2,10 @@
 _schema: default
 id: 160603
 date: 2025-01-24
-title: What were the major updates introduced with Mac OS X 10.4 Tiger?
-article_title: What were the major updates introduced with Mac OS X 10.4 Tiger?
+title: >-
+    What were the major updates introduced with Mac OS X 10.4 Tiger?
+article_title: >-
+    What were the major updates introduced with Mac OS X 10.4 Tiger?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-updates-introduced-with-mac-os-x-104-tiger.md
 url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
 score: -1.0
 related_article1:
-    id: 160531
-    title: How did the introduction of Boot Camp enhance the functionality of Mac computers?
+    id: 160602
+    title: >-
+        How did Mac OS X 10.2 Jaguar improve upon previous versions of the operating system?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
+    url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions-of-the-operating-system
 related_article2:
-    id: 160518
-    title: How did the introduction of the iPod in the late 2000s change Apple's market presence?
+    id: 160515
+    title: >-
+        What was the significance of Apple's first retail store launch in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-change-apples-market-presence
+    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-launch-in-the-early-2000s
 related_article3:
-    id: 160599
-    title: What were the key features of the PowerBook G4 introduced in the mid-2000s?
+    id: 160519
+    title: >-
+        What advancements did the flat-panel iMac bring to Apple's product offerings in the late 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-powerbook-g4-introduced-in-the-mid2000s
+    url: /learn/computer-science/questions/what-advancements-did-the-flatpanel-imac-bring-to-apples-product-offerings-in-the-late-2000s
 related_article4:
-    id: 160533
-    title: How did Apple's use of keynote presentations influence its branding and advertising strategies?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-did-apples-use-of-keynote-presentations-influence-its-branding-and-advertising-strategies
-related_article5:
-    id: 160426
-    title: How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
+    id: 160525
+    title: >-
+        How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
     subject: Computer Science
     url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
+related_article5:
+    id: 160516
+    title: >-
+        How did the introduction of the PowerBook G4 in the mid-2000s influence Apple's product line?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-introduction-of-the-powerbook-g4-in-the-mid2000s-influence-apples-product-line
 ---
 
 &nbsp;

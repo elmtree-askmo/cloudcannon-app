@@ -2,8 +2,10 @@
 _schema: default
 id: 165957
 date: 2025-01-29
-title: What social and political influences affected art during the 19th century?
-article_title: What social and political influences affected art during the 19th century?
+title: >-
+    What social and political influences affected art during the 19th century?
+article_title: >-
+    What social and political influences affected art during the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-social-and-political-influences-affected-art-during-the-19th-cen
 url: /learn/art-history-and-literature/questions/what-social-and-political-influences-affected-art-during-the-19th-century
 score: 9.0
 related_article1:
-    id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
+    id: 165954
+    title: >-
+        How did Cubism influence subsequent art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
 related_article2:
-    id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
+    id: 165939
+    title: >-
+        What was the primary purpose of the Official Paris Salon when it was first established?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
+    url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
 related_article3:
     id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
+    title: >-
+        What was the historical context behind the creation of the Salon des Refusés?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 related_article4:
-    id: 165942
-    title: How did alternative exhibitions impact the development of new art styles?
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
 related_article5:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
+    id: 165941
+    title: >-
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 ---
 
 &nbsp;

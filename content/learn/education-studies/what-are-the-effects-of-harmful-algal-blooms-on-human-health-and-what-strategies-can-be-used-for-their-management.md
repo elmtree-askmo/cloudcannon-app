@@ -2,8 +2,10 @@
 _schema: default
 id: 166094
 date: 2025-01-29
-title: What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
-article_title: What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
+title: >-
+    What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
+article_title: >-
+    What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-are-the-effects-of-harmful-algal-bl
 score: -1.0
 related_article1:
     id: 166098
-    title: What are the benefits of using electronic textbooks for exam preparation and course integration?
+    title: >-
+        What are the benefits of using electronic textbooks for exam preparation and course integration?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-using-electronic-textbooks-for-exam-preparation-and-course-integration
 related_article2:
-    id: 166098
-    title: What are the benefits of using electronic textbooks for exam preparation and course integration?
+    id: 166095
+    title: >-
+        What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-electronic-textbooks-for-exam-preparation-and-course-integration
+    url: /learn/education-studies/questions/what-role-do-interactive-learning-tools-play-in-improving-exam-performance-in-inquisitive-learning-technology
 related_article3:
-    id: 166101
-    title: Why is lab and lecture integration important for students majoring in natural sciences?
+    id: 166102
+    title: >-
+        How does the use of Brightspace support communication between students and instructors?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-lab-and-lecture-integration-important-for-students-majoring-in-natural-sciences
+    url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
 related_article4:
     id: 166090
-    title: How does the integration of course and lab work enhance natural science education?
+    title: >-
+        How does the integration of course and lab work enhance natural science education?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-integration-of-course-and-lab-work-enhance-natural-science-education
 related_article5:
-    id: 166090
-    title: How does the integration of course and lab work enhance natural science education?
+    id: 166093
+    title: >-
+        How do contaminants affect aquatic life and human health in aquatic toxicology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-integration-of-course-and-lab-work-enhance-natural-science-education
+    url: /learn/education-studies/questions/how-do-contaminants-affect-aquatic-life-and-human-health-in-aquatic-toxicology
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160391
 date: 2025-01-24
-title: How did geography influence the cultural development and migration patterns of the Celts?
-article_title: How did geography influence the cultural development and migration patterns of the Celts?
+title: >-
+    How did geography influence the cultural development and migration patterns of the Celts?
+article_title: >-
+    How did geography influence the cultural development and migration patterns of the Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-geography-influence-the-cultural-development-and-migration-pa
 url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
 score: 9.0
 related_article1:
-    id: 159899
-    title: How did the geographic locations of Celtic tribes influence their cultural development?
+    id: 160381
+    title: >-
+        How did Diodorus Siculus and Athenaeus describe Celtic customs?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-geographic-locations-of-celtic-tribes-influence-their-cultural-development
+    url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
 related_article2:
-    id: 159891
-    title: What were the primary military tactics and weaponry used by the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
-related_article3:
-    id: 160368
-    title: What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
-related_article4:
     id: 159926
-    title: How did geography influence the cultural development and migration patterns of the Celts?
+    title: >-
+        How did geography influence the cultural development and migration patterns of the Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
-related_article5:
-    id: 160375
-    title: How did the La Tène Culture expand and settle in new regions?
+related_article3:
+    id: 160385
+    title: >-
+        How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+    url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+related_article4:
+    id: 160250
+    title: >-
+        What was the tribal organization and social hierarchy in Celtic society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+related_article5:
+    id: 160372
+    title: >-
+        What are the main characteristics of Halstatt Culture's art and material goods?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
 ---
 
 &nbsp;

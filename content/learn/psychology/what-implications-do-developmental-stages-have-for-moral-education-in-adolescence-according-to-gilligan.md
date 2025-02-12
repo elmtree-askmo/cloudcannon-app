@@ -2,8 +2,10 @@
 _schema: default
 id: 164215
 date: 2025-01-28
-title: What implications do developmental stages have for moral education in adolescence according to Gilligan?
-article_title: What implications do developmental stages have for moral education in adolescence according to Gilligan?
+title: >-
+    What implications do developmental stages have for moral education in adolescence according to Gilligan?
+article_title: >-
+    What implications do developmental stages have for moral education in adolescence according to Gilligan?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-implications-do-developmental-stages-have-for-moral-education-in
 url: /learn/psychology/questions/what-implications-do-developmental-stages-have-for-moral-education-in-adolescence-according-to-gilligan
 score: -1.0
 related_article1:
-    id: 164211
-    title: What do studies with no or small gender differences suggest about Gilligan's theory?
+    id: 164209
+    title: >-
+        How does Gilligan's theory suggest avoiding harm to self and others in moral decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/what-do-studies-with-no-or-small-gender-differences-suggest-about-gilligans-theory
+    url: /learn/psychology/questions/how-does-gilligans-theory-suggest-avoiding-harm-to-self-and-others-in-moral-decisionmaking
 related_article2:
-    id: 164206
-    title: Describe the transition from 'Goodness to Truth' in Gilligan's theory of moral development.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-transition-from-goodness-to-truth-in-gilligans-theory-of-moral-development
-related_article3:
     id: 164205
-    title: What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
+    title: >-
+        What is the significance of 'Goodness as Self-Sacrifice' in Gilligan's stages of moral reasoning?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-goodness-as-selfsacrifice-in-gilligans-stages-of-moral-reasoning
+related_article3:
+    id: 164202
+    title: >-
+        How does Gilligan's theory describe the influence of caring and responsibility on moral development?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-gilligans-theory-describe-the-influence-of-caring-and-responsibility-on-moral-development
 related_article4:
-    id: 164213
-    title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+    id: 164204
+    title: >-
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
 related_article5:
-    id: 164213
-    title: What is the significance of early adolescence in the context of moral development according to Gilligan?
+    id: 164204
+    title: >-
+        How does the transition from 'Selfishness to Responsibility' manifest in moral development according to Gilligan?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-early-adolescence-in-the-context-of-moral-development-according-to-gilligan
+    url: /learn/psychology/questions/how-does-the-transition-from-selfishness-to-responsibility-manifest-in-moral-development-according-to-gilligan
 ---
 
 &nbsp;

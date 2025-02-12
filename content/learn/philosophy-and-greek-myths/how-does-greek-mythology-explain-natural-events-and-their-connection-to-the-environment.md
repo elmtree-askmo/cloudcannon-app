@@ -2,8 +2,10 @@
 _schema: default
 id: 166549
 date: 2025-01-30
-title: How does Greek mythology explain natural events and their connection to the environment?
-article_title: How does Greek mythology explain natural events and their connection to the environment?
+title: >-
+    How does Greek mythology explain natural events and their connection to the environment?
+article_title: >-
+    How does Greek mythology explain natural events and their connection to the environment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-greek-mythology-explain-natural-events-and-their-connection-
 url: /learn/philosophy-and-greek-myths/questions/how-does-greek-mythology-explain-natural-events-and-their-connection-to-the-environment
 score: -1.0
 related_article1:
-    id: 166538
-    title: What role do satyrs play in Greek mythology, and what do they symbolize?
+    id: 166539
+    title: >-
+        How are Cyclopes depicted in Greek mythology, and what is their significance?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-do-satyrs-play-in-greek-mythology-and-what-do-they-symbolize
+    url: /learn/philosophy-and-greek-myths/questions/how-are-cyclopes-depicted-in-greek-mythology-and-what-is-their-significance
 related_article2:
-    id: 166542
-    title: What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-role-does-tiresias-play-in-greek-mythology-particularly-concerning-prophecy-and-fate
-related_article3:
-    id: 166535
-    title: How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-the-roman-equivalents-of-the-greek-gods-differ-in-terms-of-attributes-and-symbolism
-related_article4:
-    id: 166546
-    title: What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
-    subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how-do-they-influence-relationships-among-gods
-related_article5:
     id: 166543
-    title: How is humor and irony depicted in the relationship between Zeus and Hera?
+    title: >-
+        How is humor and irony depicted in the relationship between Zeus and Hera?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
+related_article3:
+    id: 166543
+    title: >-
+        How is humor and irony depicted in the relationship between Zeus and Hera?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
+related_article4:
+    id: 166539
+    title: >-
+        How are Cyclopes depicted in Greek mythology, and what is their significance?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/how-are-cyclopes-depicted-in-greek-mythology-and-what-is-their-significance
+related_article5:
+    id: 166540
+    title: >-
+        What is the significance of Gaia and Uranus in Greek creation stories?
+    subject: Philosophy and Greek Myths
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-gaia-and-uranus-in-greek-creation-stories
 ---
 
 &nbsp;

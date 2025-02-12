@@ -2,8 +2,10 @@
 _schema: default
 id: 169885
 date: 2025-02-05
-title: How do structural barriers in large economies affect bargaining processes?
-article_title: How do structural barriers in large economies affect bargaining processes?
+title: >-
+    How do structural barriers in large economies affect bargaining processes?
+article_title: >-
+    How do structural barriers in large economies affect bargaining processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-structural-barriers-in-large-economies-affect-bargaining-proce
 url: /learn/economics/questions/how-do-structural-barriers-in-large-economies-affect-bargaining-processes
 score: -1.0
 related_article1:
-    id: 169891
-    title: What is the role of consumer and producer interaction in value assignment in economics?
+    id: 169901
+    title: >-
+        What are the economic consequences of tariffs on US-Canada trade dynamics?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
+    url: /learn/economics/questions/what-are-the-economic-consequences-of-tariffs-on-uscanada-trade-dynamics
 related_article2:
-    id: 169889
-    title: How do tariffs influence international trade and economic relationships?
+    id: 169900
+    title: >-
+        How do private and public banking systems influence borrowing and lending practices?
     subject: Economics
-    url: /learn/economics/questions/how-do-tariffs-influence-international-trade-and-economic-relationships
+    url: /learn/economics/questions/how-do-private-and-public-banking-systems-influence-borrowing-and-lending-practices
 related_article3:
-    id: 169891
-    title: What is the role of consumer and producer interaction in value assignment in economics?
+    id: 169898
+    title: >-
+        Why is GDP an important measure of economic growth and how do policies affect it?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-role-of-consumer-and-producer-interaction-in-value-assignment-in-economics
+    url: /learn/economics/questions/why-is-gdp-an-important-measure-of-economic-growth-and-how-do-policies-affect-it
 related_article4:
-    id: 169897
-    title: How does the concept of scarcity influence economic structures and interactions?
+    id: 169898
+    title: >-
+        Why is GDP an important measure of economic growth and how do policies affect it?
     subject: Economics
-    url: /learn/economics/questions/how-does-the-concept-of-scarcity-influence-economic-structures-and-interactions
+    url: /learn/economics/questions/why-is-gdp-an-important-measure-of-economic-growth-and-how-do-policies-affect-it
 related_article5:
-    id: 169902
-    title: How do major economies influence global economic power dynamics and strategies?
+    id: 169895
+    title: >-
+        How do political economy strategies influence global economic supremacy?
     subject: Economics
-    url: /learn/economics/questions/how-do-major-economies-influence-global-economic-power-dynamics-and-strategies
+    url: /learn/economics/questions/how-do-political-economy-strategies-influence-global-economic-supremacy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169131
 date: 2025-02-04
-title: What are the challenges associated with the Eurocentric paradigm in preservation theory?
-article_title: What are the challenges associated with the Eurocentric paradigm in preservation theory?
+title: >-
+    What are the challenges associated with the Eurocentric paradigm in preservation theory?
+article_title: >-
+    What are the challenges associated with the Eurocentric paradigm in preservation theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-challenges-associated-with-the-eurocentric-paradigm-in-p
 url: /learn/others/questions/what-are-the-challenges-associated-with-the-eurocentric-paradigm-in-preservation-theory
 score: -1.0
 related_article1:
+    id: 169137
+    title: >-
+        What are the new trajectories in heritage that subvert fascist and modernist heritage?
+    subject: Others
+    url: /learn/others/questions/what-are-the-new-trajectories-in-heritage-that-subvert-fascist-and-modernist-heritage
+related_article2:
+    id: 169135
+    title: >-
+        What does architectural demodernization entail in the context of decolonizing preservation?
+    subject: Others
+    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
+related_article3:
+    id: 169135
+    title: >-
+        What does architectural demodernization entail in the context of decolonizing preservation?
+    subject: Others
+    url: /learn/others/questions/what-does-architectural-demodernization-entail-in-the-context-of-decolonizing-preservation
+related_article4:
+    id: 169137
+    title: >-
+        What are the new trajectories in heritage that subvert fascist and modernist heritage?
+    subject: Others
+    url: /learn/others/questions/what-are-the-new-trajectories-in-heritage-that-subvert-fascist-and-modernist-heritage
+related_article5:
     id: 169136
-    title: How do decolonial aesthetics challenge the control of knowledge and state power?
+    title: >-
+        How do decolonial aesthetics challenge the control of knowledge and state power?
     subject: Others
     url: /learn/others/questions/how-do-decolonial-aesthetics-challenge-the-control-of-knowledge-and-state-power
-related_article2:
-    id: 169133
-    title: What is the function of prosthesis in architecture, and how does it relate to historical narratives?
-    subject: Others
-    url: /learn/others/questions/what-is-the-function-of-prosthesis-in-architecture-and-how-does-it-relate-to-historical-narratives
-related_article3:
-    id: 169129
-    title: How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
-    subject: Others
-    url: /learn/others/questions/how-did-italian-colonialism-and-military-defeats-influence-the-process-of-defascistization-and-decolonization
-related_article4:
-    id: 169129
-    title: How did Italian colonialism and military defeats influence the process of defascistization and decolonization?
-    subject: Others
-    url: /learn/others/questions/how-did-italian-colonialism-and-military-defeats-influence-the-process-of-defascistization-and-decolonization
 ---
 
 &nbsp;

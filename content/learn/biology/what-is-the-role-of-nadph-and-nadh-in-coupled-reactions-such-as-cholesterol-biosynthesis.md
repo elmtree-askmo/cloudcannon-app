@@ -2,8 +2,10 @@
 _schema: default
 id: 170983
 date: 2025-02-07
-title: What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
-article_title: What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+title: >-
+    What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
+article_title: >-
+    What is the role of NADPH and NADH in coupled reactions such as cholesterol biosynthesis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-chole
 url: /learn/biology/questions/what-is-the-role-of-nadph-and-nadh-in-coupled-reactions-such-as-cholesterol-biosynthesis
 score: -1.0
 related_article1:
-    id: 170977
-    title: How do enzymes lower activation energy in reaction coupling?
+    id: 170987
+    title: >-
+        What is the significance of glucose-1-phosphate as a common intermediate in sucrose synthesis?
     subject: Biology
-    url: /learn/biology/questions/how-do-enzymes-lower-activation-energy-in-reaction-coupling
+    url: /learn/biology/questions/what-is-the-significance-of-glucose1phosphate-as-a-common-intermediate-in-sucrose-synthesis
 related_article2:
-    id: 170992
-    title: How does phosphorylation facilitate energy transfer in the ATP and ADP cycle?
-    subject: Biology
-    url: /learn/biology/questions/how-does-phosphorylation-facilitate-energy-transfer-in-the-atp-and-adp-cycle
-related_article3:
     id: 170986
-    title: How is ATP hydrolysis used to drive the synthesis of sucrose?
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
     subject: Biology
     url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
+related_article3:
+    id: 170990
+    title: >-
+        How are equilibrium constants calculated, and what do they indicate about delta G zero values?
+    subject: Biology
+    url: /learn/biology/questions/how-are-equilibrium-constants-calculated-and-what-do-they-indicate-about-delta-g-zero-values
 related_article4:
     id: 170986
-    title: How is ATP hydrolysis used to drive the synthesis of sucrose?
+    title: >-
+        How is ATP hydrolysis used to drive the synthesis of sucrose?
     subject: Biology
     url: /learn/biology/questions/how-is-atp-hydrolysis-used-to-drive-the-synthesis-of-sucrose
 related_article5:
-    id: 170978
-    title: What is the role of common intermediates in coupling mechanisms?
+    id: 170993
+    title: >-
+        What role does phosphorylation play in active transport and muscle contraction?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-common-intermediates-in-coupling-mechanisms
+    url: /learn/biology/questions/what-role-does-phosphorylation-play-in-active-transport-and-muscle-contraction
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161217
 date: 2025-01-24
-title: What is the purpose of the Discrete Fourier Transform in signal processing?
-article_title: What is the purpose of the Discrete Fourier Transform in signal processing?
+title: >-
+    What is the purpose of the Discrete Fourier Transform in signal processing?
+article_title: >-
+    What is the purpose of the Discrete Fourier Transform in signal processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-proce
 url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 score: -1.0
 related_article1:
-    id: 160942
-    title: What is the significance of graph representation in graph algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-graph-representation-in-graph-algorithms
-related_article2:
-    id: 160934
-    title: What is the divide-and-conquer technique and how is it applied in algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-how-is-it-applied-in-algorithm-design
-related_article3:
-    id: 161161
-    title: How do machine learning algorithms differ from traditional algorithms in terms of design and application?
+    id: 160939
+    title: >-
+        How do machine learning algorithms differ from traditional algorithms in terms of design and application?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-machine-learning-algorithms-differ-from-traditional-algorithms-in-terms-of-design-and-application
-related_article4:
+related_article2:
     id: 161165
-    title: Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
+    title: >-
+        Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-an-approximation-algorithm-and-its-use-in-solving-the-traveling-salesperson-problem
-related_article5:
-    id: 161070
-    title: What is an approximation algorithm and when is it used?
+related_article3:
+    id: 161060
+    title: >-
+        What is the divide-and-conquer technique and give an example of its application.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-an-approximation-algorithm-and-when-is-it-used
+    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-give-an-example-of-its-application
+related_article4:
+    id: 161161
+    title: >-
+        How do machine learning algorithms differ from traditional algorithms in terms of design and application?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-machine-learning-algorithms-differ-from-traditional-algorithms-in-terms-of-design-and-application
+related_article5:
+    id: 161067
+    title: >-
+        How does the Fast Fourier Transform improve upon the Discrete Fourier Transform?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-fast-fourier-transform-improve-upon-the-discrete-fourier-transform
 ---
 
 &nbsp;

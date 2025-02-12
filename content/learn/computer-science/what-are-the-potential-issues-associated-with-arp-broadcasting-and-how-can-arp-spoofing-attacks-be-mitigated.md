@@ -2,8 +2,10 @@
 _schema: default
 id: 165803
 date: 2025-01-29
-title: What are the potential issues associated with ARP broadcasting, and how can ARP spoofing attacks be mitigated?
-article_title: What are the potential issues associated with ARP broadcasting, and how can ARP spoofing attacks be mitigated?
+title: >-
+    What are the potential issues associated with ARP broadcasting, and how can ARP spoofing attacks be mitigated?
+article_title: >-
+    What are the potential issues associated with ARP broadcasting, and how can ARP spoofing attacks be mitigated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-issues-associated-with-arp-broadcasting-and-ho
 url: /learn/computer-science/questions/what-are-the-potential-issues-associated-with-arp-broadcasting-and-how-can-arp-spoofing-attacks-be-mitigated
 score: -1.0
 related_article1:
-    id: 165792
-    title: What is the significance of the Maximum Transmission Unit (MTU) in media independence, and how does fragmentation address MTU limitations?
+    id: 165799
+    title: >-
+        What are the main differences between static and dynamic routing, and how do they impact network management?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-maximum-transmission-unit-mtu-in-media-independence-and-how-does-fragmentation-address-mtu-limitations
+    url: /learn/computer-science/questions/what-are-the-main-differences-between-static-and-dynamic-routing-and-how-do-they-impact-network-management
 related_article2:
+    id: 165791
+    title: >-
+        Explain the concept of connectionless communication in IP and its implications for data transmission.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-concept-of-connectionless-communication-in-ip-and-its-implications-for-data-transmission
+related_article3:
+    id: 165794
+    title: >-
+        What are the primary limitations of IPv4, and how do they affect network performance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-limitations-of-ipv4-and-how-do-they-affect-network-performance
+related_article4:
     id: 165793
-    title: Describe the key fields in the IPv4 packet header and their functions.
+    title: >-
+        Describe the key fields in the IPv4 packet header and their functions.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-key-fields-in-the-ipv4-packet-header-and-their-functions
-related_article3:
-    id: 165797
-    title: How does a host determine whether to send a packet to a local or remote host, and what role does the default gateway play in this process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-a-host-determine-whether-to-send-a-packet-to-a-local-or-remote-host-and-what-role-does-the-default-gateway-play-in-this-process
-related_article4:
-    id: 165798
-    title: What information is typically displayed in a host's routing table, and why is it important for network communication?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-typically-displayed-in-a-hosts-routing-table-and-why-is-it-important-for-network-communication
 related_article5:
-    id: 165798
-    title: What information is typically displayed in a host's routing table, and why is it important for network communication?
+    id: 165794
+    title: >-
+        What are the primary limitations of IPv4, and how do they affect network performance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-typically-displayed-in-a-hosts-routing-table-and-why-is-it-important-for-network-communication
+    url: /learn/computer-science/questions/what-are-the-primary-limitations-of-ipv4-and-how-do-they-affect-network-performance
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166707
 date: 2025-01-31
-title: What factors affect energy transfer and efficiency in engineering systems?
-article_title: What factors affect energy transfer and efficiency in engineering systems?
+title: >-
+    What factors affect energy transfer and efficiency in engineering systems?
+article_title: >-
+    What factors affect energy transfer and efficiency in engineering systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-affect-energy-transfer-and-efficiency-in-engineering-sys
 url: /learn/education-studies/questions/what-factors-affect-energy-transfer-and-efficiency-in-engineering-systems
 score: -1.0
 related_article1:
-    id: 166711
-    title: How do engineering scholarships provide financial support to students?
+    id: 166705
+    title: >-
+        How is force analysis conducted in statics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-scholarships-provide-financial-support-to-students
+    url: /learn/education-studies/questions/how-is-force-analysis-conducted-in-statics
 related_article2:
-    id: 166698
-    title: How is the conservation of energy principle applied in rigid body dynamics?
+    id: 166719
+    title: >-
+        How do engineering organizations support networking and professional development?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
+    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 related_article3:
-    id: 166703
-    title: What are some engineering applications of torque?
+    id: 166699
+    title: >-
+        Define the moment of force and explain how it is calculated.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+    url: /learn/education-studies/questions/define-the-moment-of-force-and-explain-how-it-is-calculated
 related_article4:
-    id: 166706
-    title: Describe the principle of conservation of energy and its significance in engineering systems.
+    id: 166697
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
+    url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
 related_article5:
-    id: 166698
-    title: How is the conservation of energy principle applied in rigid body dynamics?
+    id: 166713
+    title: >-
+        How do consulting companies impact the engineering industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
+    url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
 ---
 
 &nbsp;

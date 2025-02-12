@@ -2,8 +2,10 @@
 _schema: default
 id: 160911
 date: 2025-01-24
-title: What is the significance of heuristic algorithms in solving complex problems?
-article_title: What is the significance of heuristic algorithms in solving complex problems?
+title: >-
+    What is the significance of heuristic algorithms in solving complex problems?
+article_title: >-
+    What is the significance of heuristic algorithms in solving complex problems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-heuristic-algorithms-in-solving-complex-p
 url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
 score: -1.0
 related_article1:
-    id: 161046
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    id: 160704
+    title: >-
+        What are the key steps in the software engineering design process?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
+    url: /learn/computer-science/questions/what-are-the-key-steps-in-the-software-engineering-design-process
 related_article2:
-    id: 161050
-    title: How do mechanical and control systems contribute to robot design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-mechanical-and-control-systems-contribute-to-robot-design
-related_article3:
-    id: 160714
-    title: What are the main components of network architecture?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-network-architecture
-related_article4:
     id: 161046
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
-related_article5:
-    id: 161040
-    title: What are the essential elements of network architecture?
+related_article3:
+    id: 161037
+    title: >-
+        How does problem analysis contribute to effective computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-essential-elements-of-network-architecture
+    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-effective-computational-problem-solving
+related_article4:
+    id: 160711
+    title: >-
+        What are the primary functions of database management systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
+related_article5:
+    id: 160730
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
 ---
 
 &nbsp;

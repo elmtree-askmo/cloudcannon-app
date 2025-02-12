@@ -2,8 +2,10 @@
 _schema: default
 id: 167034
 date: 2025-01-31
-title: What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
-article_title: What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+title: >-
+    What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
+article_title: >-
+    What are the key characteristics of hydrocarbons that make them suitable for fuel applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suita
 url: /learn/chemistry/questions/what-are-the-key-characteristics-of-hydrocarbons-that-make-them-suitable-for-fuel-applications
 score: -1.0
 related_article1:
-    id: 167050
-    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    id: 167048
+    title: >-
+        How do hydroxyl and carbonyl groups influence molecular polarity?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
+    url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
 related_article2:
-    id: 167042
-    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    id: 167041
+    title: >-
+        Explain why carbonyl groups are susceptible to nucleophilic attacks.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
 related_article3:
-    id: 167037
-    title: Why is the hydroxyl group considered polar and hydrophilic?
+    id: 167044
+    title: >-
+        How does the structure of an amino group contribute to its basic nature?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-the-hydroxyl-group-considered-polar-and-hydrophilic
+    url: /learn/chemistry/questions/how-does-the-structure-of-an-amino-group-contribute-to-its-basic-nature
 related_article4:
-    id: 167052
-    title: What is the role of the amino group in determining the basicity of a molecule?
+    id: 167049
+    title: >-
+        What is the significance of hydrophilic and hydrophobic interactions in molecular affinity?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-the-amino-group-in-determining-the-basicity-of-a-molecule
+    url: /learn/chemistry/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-molecular-affinity
 related_article5:
     id: 167035
-    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    title: >-
+        How do functional groups enhance the chemical diversity of hydrocarbons?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 166248
 date: 2025-01-29
-title: What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
-article_title: What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
+title: >-
+    What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
+article_title: >-
+    What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-strategies-did-caractacus-employ-in-his-resistance-against-roman
 url: /learn/history-of-the-world/questions/what-strategies-did-caractacus-employ-in-his-resistance-against-roman-rule-and-what-was-his-ultimate-fate
 score: 9.0
 related_article1:
-    id: 166244
-    title: How did the installation of the Trinovantes' king impact Roman-British relations?
+    id: 166245
+    title: >-
+        What insights do 'De Bello Gallico' and the works of Suetonius and Cassius Dio provide about Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-installation-of-the-trinovantes-king-impact-romanbritish-relations
+    url: /learn/history-of-the-world/questions/what-insights-do-de-bello-gallico-and-the-works-of-suetonius-and-cassius-dio-provide-about-roman-britain
 related_article2:
+    id: 166245
+    title: >-
+        What insights do 'De Bello Gallico' and the works of Suetonius and Cassius Dio provide about Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-insights-do-de-bello-gallico-and-the-works-of-suetonius-and-cassius-dio-provide-about-roman-britain
+related_article3:
+    id: 166255
+    title: >-
+        What do genetic studies of Roman-era burials reveal about intermarriage and the establishment of an elite class in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-do-genetic-studies-of-romanera-burials-reveal-about-intermarriage-and-the-establishment-of-an-elite-class-in-britain
+related_article4:
     id: 166254
-    title: What military strategies did the Romans use against British tribes, and what factors led to their eventual withdrawal from Britain?
+    title: >-
+        What military strategies did the Romans use against British tribes, and what factors led to their eventual withdrawal from Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-military-strategies-did-the-romans-use-against-british-tribes-and-what-factors-led-to-their-eventual-withdrawal-from-britain
-related_article3:
-    id: 166244
-    title: How did the installation of the Trinovantes' king impact Roman-British relations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-installation-of-the-trinovantes-king-impact-romanbritish-relations
-related_article4:
-    id: 166246
-    title: What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
 related_article5:
     id: 166246
-    title: What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
+    title: >-
+        What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
 ---

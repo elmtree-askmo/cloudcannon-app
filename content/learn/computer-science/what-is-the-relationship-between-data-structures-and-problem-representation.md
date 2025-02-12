@@ -2,8 +2,10 @@
 _schema: default
 id: 160803
 date: 2025-01-24
-title: What is the relationship between data structures and problem representation?
-article_title: What is the relationship between data structures and problem representation?
+title: >-
+    What is the relationship between data structures and problem representation?
+article_title: >-
+    What is the relationship between data structures and problem representation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-relationship-between-data-structures-and-problem-represen
 url: /learn/computer-science/questions/what-is-the-relationship-between-data-structures-and-problem-representation
 score: -1.0
 related_article1:
-    id: 161137
-    title: What are the characteristics of intractable problems in complexity theory?
+    id: 160816
+    title: >-
+        What is the significance of the P vs NP problem in computational theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-intractable-problems-in-complexity-theory
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 related_article2:
-    id: 161099
-    title: What are the mathematical implications of infinite sets in set theory?
+    id: 161141
+    title: >-
+        How can the irrationality of a number be proven?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+    url: /learn/computer-science/questions/how-can-the-irrationality-of-a-number-be-proven
 related_article3:
-    id: 161128
-    title: Explain the role of abstraction in simplifying complex computing problems.
+    id: 160804
+    title: >-
+        What is the halting problem, and why is it significant in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-role-of-abstraction-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
 related_article4:
-    id: 160801
-    title: How can abstraction aid in algorithm design?
+    id: 161100
+    title: >-
+        Describe the method of proof by contradiction and its application in mathematical proofs.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-abstraction-aid-in-algorithm-design
+    url: /learn/computer-science/questions/describe-the-method-of-proof-by-contradiction-and-its-application-in-mathematical-proofs
 related_article5:
-    id: 160966
-    title: How do static and dynamic analysis techniques differ in algorithm development?
+    id: 161281
+    title: >-
+        What is the difference between countably infinite and uncountably infinite sets?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-static-and-dynamic-analysis-techniques-differ-in-algorithm-development
+    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
 ---
 
 &nbsp;

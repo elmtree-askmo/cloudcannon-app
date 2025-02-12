@@ -2,8 +2,10 @@
 _schema: default
 id: 165411
 date: 2025-01-29
-title: What is the process for converting centimeters to meters?
-article_title: What is the process for converting centimeters to meters?
+title: >-
+    What is the process for converting centimeters to meters?
+article_title: >-
+    What is the process for converting centimeters to meters?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-process-for-converting-centimeters-to-meters.md
 url: /learn/mathematics/questions/what-is-the-process-for-converting-centimeters-to-meters
 score: -1.0
 related_article1:
-    id: 165394
-    title: What are the smaller prefixes in the metric system, and how do they relate to the central unit?
+    id: 165404
+    title: >-
+        When converting units, when should you move the decimal point to the right?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-smaller-prefixes-in-the-metric-system-and-how-do-they-relate-to-the-central-unit
+    url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
 related_article2:
-    id: 165408
-    title: What is the practical application of drawing a number line in metric conversions?
+    id: 165410
+    title: >-
+        How do you convert meters to centimeters?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-practical-application-of-drawing-a-number-line-in-metric-conversions
+    url: /learn/mathematics/questions/how-do-you-convert-meters-to-centimeters
 related_article3:
-    id: 165412
-    title: How do you convert liters to milliliters?
+    id: 165404
+    title: >-
+        When converting units, when should you move the decimal point to the right?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-convert-liters-to-milliliters
+    url: /learn/mathematics/questions/when-converting-units-when-should-you-move-the-decimal-point-to-the-right
 related_article4:
-    id: 165392
-    title: What is the central unit in the metric system number line?
+    id: 165402
+    title: >-
+        How do you determine the target unit in a unit conversion process?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-central-unit-in-the-metric-system-number-line
+    url: /learn/mathematics/questions/how-do-you-determine-the-target-unit-in-a-unit-conversion-process
 related_article5:
-    id: 165393
-    title: How do larger prefixes in the metric system relate to the central unit?
+    id: 165396
+    title: >-
+        How does the prefix 'hecto' compare to the central unit in the metric system?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-larger-prefixes-in-the-metric-system-relate-to-the-central-unit
+    url: /learn/mathematics/questions/how-does-the-prefix-hecto-compare-to-the-central-unit-in-the-metric-system
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161454
 date: 2025-01-24
-title: What is the purpose of de-identification in data protection?
-article_title: What is the purpose of de-identification in data protection?
+title: >-
+    What is the purpose of de-identification in data protection?
+article_title: >-
+    What is the purpose of de-identification in data protection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-purpose-of-deidentification-in-data-protection.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
 score: -1.0
 related_article1:
-    id: 161460
-    title: What is the primary purpose of a firewall in cybersecurity?
+    id: 161378
+    title: >-
+        What are some examples of basic identification information considered as personal data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
+    url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
 related_article2:
-    id: 161468
-    title: What are the advantages of using biometric security for authentication?
+    id: 161379
+    title: >-
+        How does biometric data differ from other types of personal data?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
+    url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
 related_article3:
-    id: 161381
-    title: What are some common methods used for pseudonymization?
+    id: 161383
+    title: >-
+        How can strong passwords help prevent identity theft?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
+    url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
 related_article4:
     id: 161263
-    title: How do Virtual Private Networks (VPNs) enhance online privacy?
+    title: >-
+        How do Virtual Private Networks (VPNs) enhance online privacy?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
 related_article5:
     id: 161378
-    title: What are some examples of basic identification information considered as personal data?
+    title: >-
+        What are some examples of basic identification information considered as personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
 ---

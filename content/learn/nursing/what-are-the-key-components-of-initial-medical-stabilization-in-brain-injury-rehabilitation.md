@@ -2,8 +2,10 @@
 _schema: default
 id: 164452
 date: 2025-01-28
-title: What are the key components of initial medical stabilization in brain injury rehabilitation?
-article_title: What are the key components of initial medical stabilization in brain injury rehabilitation?
+title: >-
+    What are the key components of initial medical stabilization in brain injury rehabilitation?
+article_title: >-
+    What are the key components of initial medical stabilization in brain injury rehabilitation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-key-components-of-initial-medical-stabilization-in-brain
 url: /learn/nursing/questions/what-are-the-key-components-of-initial-medical-stabilization-in-brain-injury-rehabilitation
 score: -1.0
 related_article1:
-    id: 164442
-    title: How do open head injuries differ from closed head injuries in terms of impact and treatment?
+    id: 164455
+    title: >-
+        What are some challenges in diagnosing brain injuries, particularly in undiagnosed populations?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
+    url: /learn/nursing/questions/what-are-some-challenges-in-diagnosing-brain-injuries-particularly-in-undiagnosed-populations
 related_article2:
-    id: 164449
-    title: Which types of memory are most commonly affected by brain injury, and what strategies can help improve them?
-    subject: Nursing
-    url: /learn/nursing/questions/which-types-of-memory-are-most-commonly-affected-by-brain-injury-and-what-strategies-can-help-improve-them
-related_article3:
     id: 164447
-    title: Describe the role of the parietal lobe in sensory integration.
+    title: >-
+        Describe the role of the parietal lobe in sensory integration.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-role-of-the-parietal-lobe-in-sensory-integration
+related_article3:
+    id: 164443
+    title: >-
+        What internal factors can lead to brain injury, and how do they affect the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-internal-factors-can-lead-to-brain-injury-and-how-do-they-affect-the-brain
 related_article4:
-    id: 164450
-    title: What are some long-term cognitive and physical challenges faced by individuals with brain injuries?
+    id: 164442
+    title: >-
+        How do open head injuries differ from closed head injuries in terms of impact and treatment?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-longterm-cognitive-and-physical-challenges-faced-by-individuals-with-brain-injuries
-related_article5:
-    id: 164444
-    title: Identify two external causes of brain injury and explain their potential impact.
-    subject: Nursing
-    url: /learn/nursing/questions/identify-two-external-causes-of-brain-injury-and-explain-their-potential-impact
+    url: /learn/nursing/questions/how-do-open-head-injuries-differ-from-closed-head-injuries-in-terms-of-impact-and-treatment
 ---
 
 &nbsp;

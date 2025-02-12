@@ -2,8 +2,10 @@
 _schema: default
 id: 163696
 date: 2025-01-27
-title: How does positivism influence quantitative research?
-article_title: How does positivism influence quantitative research?
+title: >-
+    How does positivism influence quantitative research?
+article_title: >-
+    How does positivism influence quantitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/how-does-positivism-influence-quantitati
 score: -1.0
 related_article1:
     id: 163689
-    title: What is the process of inductive reasoning, and how is it applied in qualitative research?
+    title: >-
+        What is the process of inductive reasoning, and how is it applied in qualitative research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
 related_article2:
-    id: 163675
-    title: What is the difference between objective and subjective knowledge in epistemology?
+    id: 163685
+    title: >-
+        What is the process of coding and thematic analysis in qualitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
 related_article3:
-    id: 163678
-    title: How does inductive reasoning play a role in qualitative research?
+    id: 163683
+    title: >-
+        What are some common qualitative data collection methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
+    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
 related_article4:
-    id: 163682
-    title: What are the key elements of a research design?
+    id: 163686
+    title: >-
+        How is statistical analysis used in quantitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
+    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
 related_article5:
-    id: 163680
-    title: How is deductive reasoning used in quantitative research?
+    id: 163686
+    title: >-
+        How is statistical analysis used in quantitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
+    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
 ---
 
 &nbsp;

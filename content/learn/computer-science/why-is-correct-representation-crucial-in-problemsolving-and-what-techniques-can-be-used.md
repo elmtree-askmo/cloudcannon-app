@@ -2,8 +2,10 @@
 _schema: default
 id: 160787
 date: 2025-01-24
-title: Why is correct representation crucial in problem-solving, and what techniques can be used?
-article_title: Why is correct representation crucial in problem-solving, and what techniques can be used?
+title: >-
+    Why is correct representation crucial in problem-solving, and what techniques can be used?
+article_title: >-
+    Why is correct representation crucial in problem-solving, and what techniques can be used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-correct-representation-crucial-in-problemsolving-and-what-tech
 url: /learn/computer-science/questions/why-is-correct-representation-crucial-in-problemsolving-and-what-techniques-can-be-used
 score: -1.0
 related_article1:
-    id: 160770
-    title: What distinguishes computational problem solving from general problem solving?
+    id: 160778
+    title: >-
+        What is the main difference between Dijkstra's and Bellman-Ford algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-distinguishes-computational-problem-solving-from-general-problem-solving
+    url: /learn/computer-science/questions/what-is-the-main-difference-between-dijkstras-and-bellmanford-algorithms
 related_article2:
-    id: 160784
-    title: What role do logarithms and exponents play in complexity analysis?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
-related_article3:
-    id: 160654
-    title: How do time complexity and space complexity trade-offs affect algorithm performance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-time-complexity-and-space-complexity-tradeoffs-affect-algorithm-performance
-related_article4:
-    id: 160653
-    title: What is Big O notation and why is it important in analyzing algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-big-o-notation-and-why-is-it-important-in-analyzing-algorithms
-related_article5:
     id: 160779
-    title: How do Kruskal's and Prim's algorithms differ in finding minimum spanning trees?
+    title: >-
+        How do Kruskal's and Prim's algorithms differ in finding minimum spanning trees?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-kruskals-and-prims-algorithms-differ-in-finding-minimum-spanning-trees
+related_article3:
+    id: 160788
+    title: >-
+        What are the steps involved in algorithm development according to software engineering principles?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-algorithm-development-according-to-software-engineering-principles
+related_article4:
+    id: 160657
+    title: >-
+        What role do logarithms and exponents play in complexity analysis?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-logarithms-and-exponents-play-in-complexity-analysis
+related_article5:
+    id: 160778
+    title: >-
+        What is the main difference between Dijkstra's and Bellman-Ford algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-main-difference-between-dijkstras-and-bellmanford-algorithms
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162581
 date: 2025-01-25
-title: How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
-article_title: How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
+title: >-
+    How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
+article_title: >-
+    How did Dr. John Snow's study of cholera contribute to the field of epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epi
 url: /learn/health-studies/questions/how-did-dr-john-snows-study-of-cholera-contribute-to-the-field-of-epidemiology
 score: -1.0
 related_article1:
+    id: 162578
+    title: >-
+        What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
+related_article2:
     id: 162580
-    title: What were the key public health responses to typhus during the Irish immigration period?
+    title: >-
+        What were the key public health responses to typhus during the Irish immigration period?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-key-public-health-responses-to-typhus-during-the-irish-immigration-period
-related_article2:
-    id: 162585
-    title: What are the main components of the Canada Health Act that support publicly-funded universal health care?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-canada-health-act-that-support-publiclyfunded-universal-health-care
 related_article3:
+    id: 162579
+    title: >-
+        How did the cholera epidemic influence sanitary measures and public health infrastructure?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-the-cholera-epidemic-influence-sanitary-measures-and-public-health-infrastructure
+related_article4:
+    id: 162580
+    title: >-
+        What were the key public health responses to typhus during the Irish immigration period?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-were-the-key-public-health-responses-to-typhus-during-the-irish-immigration-period
+related_article5:
     id: 162582
-    title: What is the significance of geographical epidemiology in modern public health practices?
+    title: >-
+        What is the significance of geographical epidemiology in modern public health practices?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-geographical-epidemiology-in-modern-public-health-practices
-related_article4:
-    id: 162578
-    title: What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
-related_article5:
-    id: 162578
-    title: What role did health officers and boards of health play in the development of public health infrastructure during epidemics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-health-officers-and-boards-of-health-play-in-the-development-of-public-health-infrastructure-during-epidemics
 ---
 
 &nbsp;

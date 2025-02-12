@@ -2,8 +2,10 @@
 _schema: default
 id: 165675
 date: 2025-01-29
-title: How do you assign an IPv4 address to a router interface?
-article_title: How do you assign an IPv4 address to a router interface?
+title: >-
+    How do you assign an IPv4 address to a router interface?
+article_title: >-
+    How do you assign an IPv4 address to a router interface?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-you-assign-an-ipv4-address-to-a-router-interface.md
 url: /learn/computer-science/questions/how-do-you-assign-an-ipv4-address-to-a-router-interface
 score: -1.0
 related_article1:
-    id: 165680
-    title: Which command provides a brief overview of the status of all interfaces on a router?
+    id: 165683
+    title: >-
+        How do you save the running configuration to the startup configuration on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/which-command-provides-a-brief-overview-of-the-status-of-all-interfaces-on-a-router
+    url: /learn/computer-science/questions/how-do-you-save-the-running-configuration-to-the-startup-configuration-on-a-router
 related_article2:
     id: 165676
-    title: What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
+    title: >-
+        What is the difference between an IPv4 subnet mask and an IPv6 prefix length?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-difference-between-an-ipv4-subnet-mask-and-an-ipv6-prefix-length
 related_article3:
-    id: 165683
-    title: How do you save the running configuration to the startup configuration on a router?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-save-the-running-configuration-to-the-startup-configuration-on-a-router
-related_article4:
     id: 165684
-    title: What is the significance of monitoring link status in network management?
+    title: >-
+        What is the significance of monitoring link status in network management?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-monitoring-link-status-in-network-management
+related_article4:
+    id: 165683
+    title: >-
+        How do you save the running configuration to the startup configuration on a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-save-the-running-configuration-to-the-startup-configuration-on-a-router
 related_article5:
     id: 165671
-    title: How do you encrypt plaintext passwords on a router?
+    title: >-
+        How do you encrypt plaintext passwords on a router?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-you-encrypt-plaintext-passwords-on-a-router
 ---

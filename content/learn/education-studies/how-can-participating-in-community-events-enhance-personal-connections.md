@@ -2,8 +2,10 @@
 _schema: default
 id: 170654
 date: 2025-02-06
-title: How can participating in community events enhance personal connections?
-article_title: How can participating in community events enhance personal connections?
+title: >-
+    How can participating in community events enhance personal connections?
+article_title: >-
+    How can participating in community events enhance personal connections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-participating-in-community-events-enhance-personal-connection
 url: /learn/education-studies/questions/how-can-participating-in-community-events-enhance-personal-connections
 score: -1.0
 related_article1:
-    id: 170659
-    title: How do process goals differ from outcome goals, and why is it important to align actions with them?
+    id: 170665
+    title: >-
+        What types of tutoring services are available for science and math students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-process-goals-differ-from-outcome-goals-and-why-is-it-important-to-align-actions-with-them
+    url: /learn/education-studies/questions/what-types-of-tutoring-services-are-available-for-science-and-math-students
 related_article2:
-    id: 170666
-    title: How can library resources be utilized for research project consultation?
+    id: 170669
+    title: >-
+        How do disability services ensure equal access and support for students with disabilities?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-library-resources-be-utilized-for-research-project-consultation
+    url: /learn/education-studies/questions/how-do-disability-services-ensure-equal-access-and-support-for-students-with-disabilities
 related_article3:
-    id: 170662
-    title: How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
+    id: 170660
+    title: >-
+        What is intrinsic motivation, and how does it contribute to long-term sustainability?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
+    url: /learn/education-studies/questions/what-is-intrinsic-motivation-and-how-does-it-contribute-to-longterm-sustainability
 related_article4:
     id: 170672
-    title: How can participating in honors and research programs support academic pursuits?
+    title: >-
+        How can participating in honors and research programs support academic pursuits?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
 related_article5:
-    id: 170662
-    title: How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
+    id: 170665
+    title: >-
+        What types of tutoring services are available for science and math students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
+    url: /learn/education-studies/questions/what-types-of-tutoring-services-are-available-for-science-and-math-students
 ---
 
 &nbsp;

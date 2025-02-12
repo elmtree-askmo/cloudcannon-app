@@ -2,8 +2,10 @@
 _schema: default
 id: 168902
 date: 2025-02-04
-title: Explain the process of exocytosis and its role in cellular waste removal.
-article_title: Explain the process of exocytosis and its role in cellular waste removal.
+title: >-
+    Explain the process of exocytosis and its role in cellular waste removal.
+article_title: >-
+    Explain the process of exocytosis and its role in cellular waste removal.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-remo
 url: /learn/biology/questions/explain-the-process-of-exocytosis-and-its-role-in-cellular-waste-removal
 score: -1.0
 related_article1:
-    id: 168904
-    title: What is the role of ATP in the sodium-potassium pump?
+    id: 168906
+    title: >-
+        How does ATP utilization differ between active and passive transport?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
+    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
 related_article2:
-    id: 168907
-    title: Why is active transport crucial for heart muscle cells?
+    id: 168899
+    title: >-
+        What are the main types of active transport?
     subject: Biology
-    url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
+    url: /learn/biology/questions/what-are-the-main-types-of-active-transport
 related_article3:
-    id: 168904
-    title: What is the role of ATP in the sodium-potassium pump?
+    id: 168901
+    title: >-
+        What is the difference between phagocytosis and pinocytosis?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
+    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
 related_article4:
     id: 168896
-    title: What is active transport and how does it differ from passive transport?
+    title: >-
+        What is active transport and how does it differ from passive transport?
     subject: Biology
     url: /learn/biology/questions/what-is-active-transport-and-how-does-it-differ-from-passive-transport
 related_article5:
-    id: 168897
-    title: Why is energy required for active transport processes?
+    id: 168898
+    title: >-
+        How does active transport contribute to cellular function?
     subject: Biology
-    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+    url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
 ---
 
 &nbsp;

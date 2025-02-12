@@ -2,8 +2,10 @@
 _schema: default
 id: 161026
 date: 2025-01-24
-title: What are the challenges in proving software solutions compared to testing them?
-article_title: What are the challenges in proving software solutions compared to testing them?
+title: >-
+    What are the challenges in proving software solutions compared to testing them?
+article_title: >-
+    What are the challenges in proving software solutions compared to testing them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-in-proving-software-solutions-compared-to-tes
 url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
 score: -1.0
 related_article1:
-    id: 160859
-    title: What is the significance of understanding the origin of problems in computational problem solving?
+    id: 160875
+    title: >-
+        What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar-and-how-is-abstraction-used-in-calendar-algorithms
 related_article2:
+    id: 160794
+    title: >-
+        What are the advantages of using non-numeric indices in associative arrays?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-nonnumeric-indices-in-associative-arrays
+related_article3:
     id: 161017
-    title: Explain the concept of lists and how they are implemented as arrays.
+    title: >-
+        Explain the concept of lists and how they are implemented as arrays.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
-related_article3:
-    id: 160795
-    title: How can constraints simplify algorithm design?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-constraints-simplify-algorithm-design
 related_article4:
-    id: 160701
-    title: How do associative arrays utilize non-numeric indices?
+    id: 160782
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-associative-arrays-utilize-nonnumeric-indices
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 related_article5:
-    id: 161027
-    title: What constraints must be considered for binary search to be effective?
+    id: 161020
+    title: >-
+        Define time complexity and its importance in evaluating algorithm efficiency.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
+    url: /learn/computer-science/questions/define-time-complexity-and-its-importance-in-evaluating-algorithm-efficiency
 ---
 
 &nbsp;

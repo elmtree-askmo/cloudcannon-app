@@ -2,8 +2,10 @@
 _schema: default
 id: 164433
 date: 2025-01-28
-title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
-article_title: How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+title: >-
+    How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
+article_title: >-
+    How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-a
 score: -1.0
 related_article1:
     id: 164431
-    title: Why is early language exposure important for vocabulary and grammar development?
+    title: >-
+        Why is early language exposure important for vocabulary and grammar development?
     subject: Psychology
     url: /learn/psychology/questions/why-is-early-language-exposure-important-for-vocabulary-and-grammar-development
 related_article2:
-    id: 164425
-    title: How does stress affect cortisol levels and cognitive performance?
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 related_article3:
-    id: 164437
-    title: How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    id: 164419
+    title: >-
+        How does spatial attention differ from object attention in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
 related_article4:
+    id: 164420
+    title: >-
+        What role does competition and inhibition play in brain structure and emotional regulation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
+related_article5:
     id: 164427
-    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    title: >-
+        What is prediction error in reward processing, and how does it relate to dopamine release?
     subject: Psychology
     url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
-related_article5:
-    id: 164436
-    title: What are the cultural variations in diagnostic criteria for mental health?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
 ---
 
 &nbsp;

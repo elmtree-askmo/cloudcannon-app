@@ -2,8 +2,10 @@
 _schema: default
 id: 163745
 date: 2025-01-27
-title: How can you determine the vertex of a parabola from a quadratic equation in standard form?
-article_title: How can you determine the vertex of a parabola from a quadratic equation in standard form?
+title: >-
+    How can you determine the vertex of a parabola from a quadratic equation in standard form?
+article_title: >-
+    How can you determine the vertex of a parabola from a quadratic equation in standard form?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-determine-the-vertex-of-a-parabola-from-a-quadratic-equat
 url: /learn/mathematics/questions/how-can-you-determine-the-vertex-of-a-parabola-from-a-quadratic-equation-in-standard-form
 score: -1.0
 related_article1:
-    id: 163757
-    title: Explain how the axis of symmetry acts as a mirror in the graph of a quadratic function.
+    id: 163752
+    title: >-
+        How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-how-the-axis-of-symmetry-acts-as-a-mirror-in-the-graph-of-a-quadratic-function
+    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
 related_article2:
+    id: 163752
+    title: >-
+        How do you graph a quadratic function when some terms are missing, such as in binomials or monomials?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-graph-a-quadratic-function-when-some-terms-are-missing-such-as-in-binomials-or-monomials
+related_article3:
     id: 163754
-    title: How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
+    title: >-
+        How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
     subject: Mathematics
     url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
-related_article3:
-    id: 163757
-    title: Explain how the axis of symmetry acts as a mirror in the graph of a quadratic function.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-how-the-axis-of-symmetry-acts-as-a-mirror-in-the-graph-of-a-quadratic-function
 related_article4:
     id: 163743
-    title: How does the leading coefficient affect the shape and direction of a parabola?
+    title: >-
+        How does the leading coefficient affect the shape and direction of a parabola?
     subject: Mathematics
     url: /learn/mathematics/questions/how-does-the-leading-coefficient-affect-the-shape-and-direction-of-a-parabola
 related_article5:
-    id: 163747
-    title: What is the axis of symmetry in a quadratic function, and how is it related to the vertex?
+    id: 163754
+    title: >-
+        How can you write a quadratic equation from a graph by identifying the vertex and axis of symmetry?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-axis-of-symmetry-in-a-quadratic-function-and-how-is-it-related-to-the-vertex
+    url: /learn/mathematics/questions/how-can-you-write-a-quadratic-equation-from-a-graph-by-identifying-the-vertex-and-axis-of-symmetry
 ---
 
 &nbsp;

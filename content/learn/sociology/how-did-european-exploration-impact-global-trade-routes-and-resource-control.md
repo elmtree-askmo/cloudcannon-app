@@ -2,8 +2,10 @@
 _schema: default
 id: 163867
 date: 2025-01-28
-title: How did European exploration impact global trade routes and resource control?
-article_title: How did European exploration impact global trade routes and resource control?
+title: >-
+    How did European exploration impact global trade routes and resource control?
+article_title: >-
+    How did European exploration impact global trade routes and resource control?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-european-exploration-impact-global-trade-routes-and-resource-
 url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
 score: -1.0
 related_article1:
-    id: 163861
-    title: How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
-related_article2:
     id: 163870
-    title: What role do multinational corporations play in the emergence of global markets and economic integration?
+    title: >-
+        What role do multinational corporations play in the emergence of global markets and economic integration?
     subject: Sociology
     url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
+related_article2:
+    id: 163871
+    title: >-
+        How has globalization impacted economic disparities and poverty levels worldwide?
+    subject: Sociology
+    url: /learn/sociology/questions/how-has-globalization-impacted-economic-disparities-and-poverty-levels-worldwide
 related_article3:
-    id: 163864
-    title: What role do multinational corporations play in the interdependency of global trade and economic integration?
+    id: 163861
+    title: >-
+        How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
+    url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
 related_article4:
-    id: 163862
-    title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+    id: 163865
+    title: >-
+        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
+    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 related_article5:
     id: 163861
-    title: How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
+    title: >-
+        How does neocolonialism manifest in the economic control of former colonies by wealthy nations?
     subject: Sociology
     url: /learn/sociology/questions/how-does-neocolonialism-manifest-in-the-economic-control-of-former-colonies-by-wealthy-nations
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 167981
 date: 2025-02-02
-title: What are some key theories and models in developmental psychology related to social cognition?
-article_title: What are some key theories and models in developmental psychology related to social cognition?
+title: >-
+    What are some key theories and models in developmental psychology related to social cognition?
+article_title: >-
+    What are some key theories and models in developmental psychology related to social cognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-key-theories-and-models-in-developmental-psychology-rel
 url: /learn/psychology/questions/what-are-some-key-theories-and-models-in-developmental-psychology-related-to-social-cognition
 score: -1.0
 related_article1:
-    id: 167978
-    title: How do individuals differentiate between reality and belief, and how does this influence behavior?
+    id: 167982
+    title: >-
+        How do cognitive processes differentiate between true and false beliefs?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-individuals-differentiate-between-reality-and-belief-and-how-does-this-influence-behavior
+    url: /learn/psychology/questions/how-do-cognitive-processes-differentiate-between-true-and-false-beliefs
 related_article2:
-    id: 167970
-    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    id: 167972
+    title: >-
+        What is the purpose of false belief tasks in understanding beliefs and predicting behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+    url: /learn/psychology/questions/what-is-the-purpose-of-false-belief-tasks-in-understanding-beliefs-and-predicting-behavior
 related_article3:
-    id: 167970
-    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    id: 167979
+    title: >-
+        What is the role of beliefs and desires in decision making?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 related_article4:
-    id: 167970
-    title: What is the Theory of Mind and why is it significant in cognitive psychology?
+    id: 167979
+    title: >-
+        What is the role of beliefs and desires in decision making?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-theory-of-mind-and-why-is-it-significant-in-cognitive-psychology
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 related_article5:
-    id: 167977
-    title: What have studies on Theory of Mind revealed about the impact of false belief tasks?
+    id: 167979
+    title: >-
+        What is the role of beliefs and desires in decision making?
     subject: Psychology
-    url: /learn/psychology/questions/what-have-studies-on-theory-of-mind-revealed-about-the-impact-of-false-belief-tasks
+    url: /learn/psychology/questions/what-is-the-role-of-beliefs-and-desires-in-decision-making
 ---
 
 &nbsp;

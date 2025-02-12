@@ -2,8 +2,10 @@
 _schema: default
 id: 169845
 date: 2025-02-05
-title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
-article_title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+title: >-
+    What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+article_title: >-
+    What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-analyzing-circuits-with-one-two-and-three
 url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
 score: -1.0
 related_article1:
-    id: 169843
-    title: What are the basic postulates and conventions used in the analysis of DC circuits?
+    id: 169854
+    title: >-
+        How is power factor correction achieved in electrical systems?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
+    url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
 related_article2:
-    id: 169844
-    title: How do Kirchhoff's laws apply to the analysis of DC circuits?
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-kirchhoffs-laws-apply-to-the-analysis-of-dc-circuits
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
 related_article3:
+    id: 169858
+    title: >-
+        What is the role of power factor in AC circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-role-of-power-factor-in-ac-circuits
+related_article4:
+    id: 169846
+    title: >-
+        Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
+related_article5:
     id: 169857
-    title: Define impedance and its importance in AC circuit analysis.
+    title: >-
+        Define impedance and its importance in AC circuit analysis.
     subject: Engineering
     url: /learn/engineering/questions/define-impedance-and-its-importance-in-ac-circuit-analysis
-related_article4:
-    id: 169843
-    title: What are the basic postulates and conventions used in the analysis of DC circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
-related_article5:
-    id: 169850
-    title: What is the difference between a node and a loop in circuit analysis?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-a-node-and-a-loop-in-circuit-analysis
 ---
 
 &nbsp;

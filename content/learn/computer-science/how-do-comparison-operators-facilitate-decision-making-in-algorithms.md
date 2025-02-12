@@ -2,8 +2,10 @@
 _schema: default
 id: 161481
 date: 2025-01-24
-title: How do comparison operators facilitate decision making in algorithms?
-article_title: How do comparison operators facilitate decision making in algorithms?
+title: >-
+    How do comparison operators facilitate decision making in algorithms?
+article_title: >-
+    How do comparison operators facilitate decision making in algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-comparison-operators-facilitate-decision-making-in-algorithms.
 url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
 score: -1.0
 related_article1:
-    id: 161186
-    title: Explain the difference between count-controlled and condition-controlled loops.
+    id: 161182
+    title: >-
+        What is pseudocode and how is it used in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
+    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
 related_article2:
-    id: 161485
-    title: How is process flow represented in a flowchart?
+    id: 161190
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-process-flow-represented-in-a-flowchart
+    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
 related_article3:
-    id: 161475
-    title: How are input and output represented in a flowchart?
+    id: 161487
+    title: >-
+        What is the role of variables in data storage and manipulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
+    url: /learn/computer-science/questions/what-is-the-role-of-variables-in-data-storage-and-manipulation
 related_article4:
-    id: 161482
-    title: What is the significance of counter variables in count-controlled loops?
+    id: 161375
+    title: >-
+        Why are data types important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
 related_article5:
-    id: 161482
-    title: What is the significance of counter variables in count-controlled loops?
+    id: 161471
+    title: >-
+        What is the primary purpose of an algorithm in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-an-algorithm-in-problemsolving
 ---
 
 &nbsp;

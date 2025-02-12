@@ -2,8 +2,10 @@
 _schema: default
 id: 169005
 date: 2025-02-04
-title: How can cross-reading architecture and history provide new insights?
-article_title: How can cross-reading architecture and history provide new insights?
+title: >-
+    How can cross-reading architecture and history provide new insights?
+article_title: >-
+    How can cross-reading architecture and history provide new insights?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-crossreading-architecture-and-history-provide-new-insights.md
 url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
 score: 9.0
 related_article1:
-    id: 169003
-    title: How can architecture be analyzed within political and socio-historical contexts?
+    id: 169007
+    title: >-
+        How is architecture strategically used in different contexts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
+    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
 related_article2:
-    id: 169020
-    title: How are historical events represented in cultural narratives within architecture?
+    id: 169023
+    title: >-
+        What are the gendered and anti-revolutionary filters present in media representations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
+    url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
 related_article3:
-    id: 169020
-    title: How are historical events represented in cultural narratives within architecture?
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 related_article4:
-    id: 169009
-    title: What actions did women take during revolutionary movements?
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 related_article5:
-    id: 169014
-    title: How have media and public perception shaped cultural representations of revolution?
+    id: 169017
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-media-and-public-perception-shaped-cultural-representations-of-revolution
+    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 ---
 
 &nbsp;

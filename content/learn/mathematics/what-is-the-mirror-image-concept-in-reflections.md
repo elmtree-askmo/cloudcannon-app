@@ -2,8 +2,10 @@
 _schema: default
 id: 162815
 date: 2025-01-25
-title: What is the mirror image concept in reflections?
-article_title: What is the mirror image concept in reflections?
+title: >-
+    What is the mirror image concept in reflections?
+article_title: >-
+    What is the mirror image concept in reflections?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-mirror-image-concept-in-reflections.md
 url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 score: -1.0
 related_article1:
-    id: 162910
-    title: How can orientation changes lead to confusion in reflections?
+    id: 162752
+    title: >-
+        What are opposite coordinates in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-orientation-changes-lead-to-confusion-in-reflections
+    url: /learn/mathematics/questions/what-are-opposite-coordinates-in-the-context-of-reflections
 related_article2:
-    id: 162812
-    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    id: 162411
+    title: >-
+        How is congruence maintained in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+    url: /learn/mathematics/questions/how-is-congruence-maintained-in-reflections
 related_article3:
-    id: 162701
-    title: What are common misconceptions about coordinate changes in reflections?
+    id: 162757
+    title: >-
+        What impact do reflections have on the coordinates of a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-common-misconceptions-about-coordinate-changes-in-reflections
+    url: /learn/mathematics/questions/what-impact-do-reflections-have-on-the-coordinates-of-a-figure
 related_article4:
-    id: 162753
-    title: How does reflecting a triangle differ from reflecting a quadrilateral?
+    id: 162403
+    title: >-
+        What differences in position and orientation occur after a reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-reflecting-a-triangle-differ-from-reflecting-a-quadrilateral
+    url: /learn/mathematics/questions/what-differences-in-position-and-orientation-occur-after-a-reflection
 related_article5:
-    id: 162407
-    title: How does the line of reflection act as a mirror?
+    id: 162706
+    title: >-
+        What is orientation reversal in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror
+    url: /learn/mathematics/questions/what-is-orientation-reversal-in-the-context-of-reflections
 ---
 
 &nbsp;

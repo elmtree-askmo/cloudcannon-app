@@ -2,8 +2,10 @@
 _schema: default
 id: 169664
 date: 2025-02-05
-title: How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
-article_title: How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+title: >-
+    How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
+article_title: >-
+    How can the effectiveness of risk management strategies be evaluated in a healthcare setting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-
 url: /learn/nursing/questions/how-can-the-effectiveness-of-risk-management-strategies-be-evaluated-in-a-healthcare-setting
 score: -1.0
 related_article1:
-    id: 169675
-    title: What techniques are recommended for safe patient handling to prevent musculoskeletal injuries?
-    subject: Nursing
-    url: /learn/nursing/questions/what-techniques-are-recommended-for-safe-patient-handling-to-prevent-musculoskeletal-injuries
-related_article2:
-    id: 169670
-    title: How is the safety of medical devices ensured under medications and healthcare products regulation?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-the-safety-of-medical-devices-ensured-under-medications-and-healthcare-products-regulation
-related_article3:
     id: 169677
-    title: What are the key components of an effective emergency evacuation plan in case of a fire?
+    title: >-
+        What are the key components of an effective emergency evacuation plan in case of a fire?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-components-of-an-effective-emergency-evacuation-plan-in-case-of-a-fire
+related_article2:
+    id: 169674
+    title: >-
+        What are the recommended practices for the safe disposal of sharps to prevent injuries?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-recommended-practices-for-the-safe-disposal-of-sharps-to-prevent-injuries
+related_article3:
+    id: 169669
+    title: >-
+        What are the responsibilities of the Health and Safety Executive in maintaining workplace safety standards?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-responsibilities-of-the-health-and-safety-executive-in-maintaining-workplace-safety-standards
 related_article4:
-    id: 169672
-    title: What are the safe disposal practices for clinical waste to comply with waste management regulations?
+    id: 169676
+    title: >-
+        What are the risks associated with bedrails, and what are the alternatives to their use?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-safe-disposal-practices-for-clinical-waste-to-comply-with-waste-management-regulations
+    url: /learn/nursing/questions/what-are-the-risks-associated-with-bedrails-and-what-are-the-alternatives-to-their-use
 related_article5:
-    id: 169678
-    title: How should medical equipment be maintained to ensure its functionality and safety?
+    id: 169668
+    title: >-
+        How should controlled substances be handled and stored to ensure regulatory compliance?
     subject: Nursing
-    url: /learn/nursing/questions/how-should-medical-equipment-be-maintained-to-ensure-its-functionality-and-safety
+    url: /learn/nursing/questions/how-should-controlled-substances-be-handled-and-stored-to-ensure-regulatory-compliance
 ---
 
 &nbsp;

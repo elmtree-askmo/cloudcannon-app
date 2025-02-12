@@ -2,8 +2,10 @@
 _schema: default
 id: 170960
 date: 2025-02-07
-title: What is the role of hydrogen bonds in molecular interactions?
-article_title: What is the role of hydrogen bonds in molecular interactions?
+title: >-
+    What is the role of hydrogen bonds in molecular interactions?
+article_title: >-
+    What is the role of hydrogen bonds in molecular interactions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-hydrogen-bonds-in-molecular-interactions.md
 url: /learn/biotechnology/questions/what-is-the-role-of-hydrogen-bonds-in-molecular-interactions
 score: -1.0
 related_article1:
-    id: 170962
-    title: What are the primary types of macromolecules, and what are their basic functions?
+    id: 170965
+    title: >-
+        How are peptide bonds formed, and what role do they play in protein structure?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-primary-types-of-macromolecules-and-what-are-their-basic-functions
+    url: /learn/biotechnology/questions/how-are-peptide-bonds-formed-and-what-role-do-they-play-in-protein-structure
 related_article2:
+    id: 170969
+    title: >-
+        How do non-covalent interactions contribute to protein conformation and molecular binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-noncovalent-interactions-contribute-to-protein-conformation-and-molecular-binding
+related_article3:
+    id: 170963
+    title: >-
+        How do condensation reactions and hydrolysis contribute to the synthesis and breakdown of macromolecules?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-condensation-reactions-and-hydrolysis-contribute-to-the-synthesis-and-breakdown-of-macromolecules
+related_article4:
     id: 170967
-    title: How do nucleotides function as energy carriers in cells?
+    title: >-
+        How do nucleotides function as energy carriers in cells?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-nucleotides-function-as-energy-carriers-in-cells
-related_article3:
-    id: 170968
-    title: What is the role of ATP in energy transfer within cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-role-of-atp-in-energy-transfer-within-cells
-related_article4:
-    id: 170972
-    title: How does molecular modeling aid in predicting molecular interactions?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
 related_article5:
-    id: 170972
-    title: How does molecular modeling aid in predicting molecular interactions?
+    id: 170957
+    title: >-
+        How do excitation and emission filters function in fluorescence microscopy?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-molecular-modeling-aid-in-predicting-molecular-interactions
+    url: /learn/biotechnology/questions/how-do-excitation-and-emission-filters-function-in-fluorescence-microscopy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161457
 date: 2025-01-24
-title: How can strong passwords help prevent identity theft?
-article_title: How can strong passwords help prevent identity theft?
+title: >-
+    How can strong passwords help prevent identity theft?
+article_title: >-
+    How can strong passwords help prevent identity theft?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-strong-passwords-help-prevent-identity-theft.md
 url: /learn/computer-science/questions/how-can-strong-passwords-help-prevent-identity-theft
 score: -1.0
 related_article1:
-    id: 161392
-    title: How can individuals recognize and prevent pharming attempts?
+    id: 161470
+    title: >-
+        What are the benefits of using a personal VPN?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
+    url: /learn/computer-science/questions/what-are-the-benefits-of-using-a-personal-vpn
 related_article2:
-    id: 161469
-    title: How do Virtual Private Networks (VPNs) enhance online privacy?
+    id: 161380
+    title: >-
+        What is the purpose of de-identification in data protection?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
+    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
 related_article3:
-    id: 161453
-    title: How does biometric data differ from other types of personal data?
+    id: 161247
+    title: >-
+        How does biometric data differ from other types of personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
 related_article4:
-    id: 161391
-    title: What are some common methods used in phishing attacks?
+    id: 161385
+    title: >-
+        Why is it important to regularly update anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
+    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
 related_article5:
-    id: 161263
-    title: How do Virtual Private Networks (VPNs) enhance online privacy?
+    id: 161378
+    title: >-
+        What are some examples of basic identification information considered as personal data?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
+    url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
 ---
 
 &nbsp;

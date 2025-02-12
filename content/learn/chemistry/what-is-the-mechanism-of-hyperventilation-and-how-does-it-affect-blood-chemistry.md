@@ -2,8 +2,10 @@
 _schema: default
 id: 167124
 date: 2025-01-31
-title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
-article_title: What is the mechanism of hyperventilation and how does it affect blood chemistry?
+title: >-
+    What is the mechanism of hyperventilation and how does it affect blood chemistry?
+article_title: >-
+    What is the mechanism of hyperventilation and how does it affect blood chemistry?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-bloo
 url: /learn/chemistry/questions/what-is-the-mechanism-of-hyperventilation-and-how-does-it-affect-blood-chemistry
 score: -1.0
 related_article1:
-    id: 167125
-    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    id: 167123
+    title: >-
+        How does the dissociation of carbonic acid influence blood pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-carbonic-acid-influence-blood-ph
 related_article2:
-    id: 167125
-    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    id: 167126
+    title: >-
+        How is the concentration of hydroxide ions related to hydrogen ions in a solution?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+    url: /learn/chemistry/questions/how-is-the-concentration-of-hydroxide-ions-related-to-hydrogen-ions-in-a-solution
 related_article3:
-    id: 167125
-    title: Explain how hyperventilation can lead to alkalosis and a shift in pH balance.
+    id: 167128
+    title: >-
+        How does a change in pH influence the concentration of hydroxide ions in a solution?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-hyperventilation-can-lead-to-alkalosis-and-a-shift-in-ph-balance
+    url: /learn/chemistry/questions/how-does-a-change-in-ph-influence-the-concentration-of-hydroxide-ions-in-a-solution
 related_article4:
-    id: 167114
-    title: What are the polar characteristics of water molecules and how do they interact with ions?
+    id: 167123
+    title: >-
+        How does the dissociation of carbonic acid influence blood pH?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-polar-characteristics-of-water-molecules-and-how-do-they-interact-with-ions
+    url: /learn/chemistry/questions/how-does-the-dissociation-of-carbonic-acid-influence-blood-ph
 related_article5:
-    id: 167118
-    title: Explain how adhesion and cohesion contribute to the formation of a meniscus in a glass cylinder.
+    id: 167120
+    title: >-
+        How is pH mathematically represented and what is the pH of pure water?
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-how-adhesion-and-cohesion-contribute-to-the-formation-of-a-meniscus-in-a-glass-cylinder
+    url: /learn/chemistry/questions/how-is-ph-mathematically-represented-and-what-is-the-ph-of-pure-water
 ---
 
 &nbsp;

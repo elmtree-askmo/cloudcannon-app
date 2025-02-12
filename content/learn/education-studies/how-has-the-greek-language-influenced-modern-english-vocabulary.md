@@ -2,8 +2,10 @@
 _schema: default
 id: 166605
 date: 2025-01-30
-title: How has the Greek language influenced modern English vocabulary?
-article_title: How has the Greek language influenced modern English vocabulary?
+title: >-
+    How has the Greek language influenced modern English vocabulary?
+article_title: >-
+    How has the Greek language influenced modern English vocabulary?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-the-greek-language-influenced-modern-english-vocabulary.md
 url: /learn/education-studies/questions/how-has-the-greek-language-influenced-modern-english-vocabulary
 score: -1.0
 related_article1:
-    id: 166599
-    title: How do diacritics in Greek affect the pronunciation of names like Helen and Hermes?
+    id: 166610
+    title: >-
+        What were the contributions of Alexander the Great to Greek history?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-diacritics-in-greek-affect-the-pronunciation-of-names-like-helen-and-hermes
+    url: /learn/education-studies/questions/what-were-the-contributions-of-alexander-the-great-to-greek-history
 related_article2:
-    id: 166603
-    title: Name two notable Greek authors and describe their contributions to history.
+    id: 166609
+    title: >-
+        Who are the key characters in the Homeric epics, and what are the main themes of these stories?
     subject: Education Studies
-    url: /learn/education-studies/questions/name-two-notable-greek-authors-and-describe-their-contributions-to-history
+    url: /learn/education-studies/questions/who-are-the-key-characters-in-the-homeric-epics-and-what-are-the-main-themes-of-these-stories
 related_article3:
-    id: 166599
-    title: How do diacritics in Greek affect the pronunciation of names like Helen and Hermes?
+    id: 166606
+    title: >-
+        What was the significance of rhetoric in ancient Greek politics and society?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-diacritics-in-greek-affect-the-pronunciation-of-names-like-helen-and-hermes
+    url: /learn/education-studies/questions/what-was-the-significance-of-rhetoric-in-ancient-greek-politics-and-society
 related_article4:
-    id: 166599
-    title: How do diacritics in Greek affect the pronunciation of names like Helen and Hermes?
+    id: 166609
+    title: >-
+        Who are the key characters in the Homeric epics, and what are the main themes of these stories?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-diacritics-in-greek-affect-the-pronunciation-of-names-like-helen-and-hermes
+    url: /learn/education-studies/questions/who-are-the-key-characters-in-the-homeric-epics-and-what-are-the-main-themes-of-these-stories
 related_article5:
-    id: 166607
-    title: Identify two common Greek roots found in English vocabulary and their meanings.
+    id: 166611
+    title: >-
+        How did Socratic philosophy influence Western thought?
     subject: Education Studies
-    url: /learn/education-studies/questions/identify-two-common-greek-roots-found-in-english-vocabulary-and-their-meanings
+    url: /learn/education-studies/questions/how-did-socratic-philosophy-influence-western-thought
 ---
 
 &nbsp;

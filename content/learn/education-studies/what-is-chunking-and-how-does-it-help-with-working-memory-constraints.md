@@ -2,8 +2,10 @@
 _schema: default
 id: 165589
 date: 2025-01-29
-title: What is chunking, and how does it help with working memory constraints?
-article_title: What is chunking, and how does it help with working memory constraints?
+title: >-
+    What is chunking, and how does it help with working memory constraints?
+article_title: >-
+    What is chunking, and how does it help with working memory constraints?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-chunking-and-how-does-it-help-with-working-memory-constraints
 url: /learn/education-studies/questions/what-is-chunking-and-how-does-it-help-with-working-memory-constraints
 score: -1.0
 related_article1:
-    id: 165602
-    title: How does the Morse Code method assist in highlighting important information?
+    id: 165591
+    title: >-
+        How do regressions in reading impact comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-morse-code-method-assist-in-highlighting-important-information
+    url: /learn/education-studies/questions/how-do-regressions-in-reading-impact-comprehension
 related_article2:
-    id: 165609
-    title: How can effective review strategies enhance information retention?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-effective-review-strategies-enhance-information-retention
-related_article3:
     id: 165586
-    title: How does subvocalization affect reading comprehension?
+    title: >-
+        How does subvocalization affect reading comprehension?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-subvocalization-affect-reading-comprehension
+related_article3:
+    id: 165595
+    title: >-
+        What is the difference between memory recall and recognition in the context of information retention?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-memory-recall-and-recognition-in-the-context-of-information-retention
 related_article4:
-    id: 165579
-    title: What are the roles of eye movements and saccades in visual processing during reading?
+    id: 165616
+    title: >-
+        What are the benefits of summarizing key points in reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing-during-reading
+    url: /learn/education-studies/questions/what-are-the-benefits-of-summarizing-key-points-in-reading-comprehension
 related_article5:
-    id: 165613
-    title: How does surveying and questioning improve reading comprehension?
+    id: 165610
+    title: >-
+        What techniques can be used to prioritize reading assignments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-surveying-and-questioning-improve-reading-comprehension
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-prioritize-reading-assignments
 ---
 
 &nbsp;

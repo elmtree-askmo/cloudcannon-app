@@ -2,8 +2,10 @@
 _schema: default
 id: 164403
 date: 2025-01-28
-title: How are Freud's theories relevant to language processing?
-article_title: How are Freud's theories relevant to language processing?
+title: >-
+    How are Freud's theories relevant to language processing?
+article_title: >-
+    How are Freud's theories relevant to language processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-freuds-theories-relevant-to-language-processing.md
 url: /learn/psychology/questions/how-are-freuds-theories-relevant-to-language-processing
 score: -1.0
 related_article1:
-    id: 164386
-    title: What role do facial expressions play in communication?
+    id: 164380
+    title: >-
+        What are the primary functions associated with the left brain hemisphere in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-facial-expressions-play-in-communication
+    url: /learn/psychology/questions/what-are-the-primary-functions-associated-with-the-left-brain-hemisphere-in-language-processing
 related_article2:
-    id: 164383
-    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
-related_article3:
-    id: 164383
-    title: What are neural models of syntax, and how do they contribute to our understanding of grammar?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-neural-models-of-syntax-and-how-do-they-contribute-to-our-understanding-of-grammar
-related_article4:
     id: 164396
-    title: How does the left hemisphere contribute to language comprehension?
+    title: >-
+        How does the left hemisphere contribute to language comprehension?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-left-hemisphere-contribute-to-language-comprehension
-related_article5:
+related_article3:
+    id: 164391
+    title: >-
+        How does cognitive psychology contribute to our understanding of speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-cognitive-psychology-contribute-to-our-understanding-of-speech-production
+related_article4:
     id: 164384
-    title: How do cognitive functions influence grammar processing in the brain?
+    title: >-
+        How do cognitive functions influence grammar processing in the brain?
     subject: Psychology
     url: /learn/psychology/questions/how-do-cognitive-functions-influence-grammar-processing-in-the-brain
+related_article5:
+    id: 164387
+    title: >-
+        Describe the neural basis of facial expressions and their cognitive interpretation.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-neural-basis-of-facial-expressions-and-their-cognitive-interpretation
 ---
 
 &nbsp;

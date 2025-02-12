@@ -2,8 +2,10 @@
 _schema: default
 id: 167043
 date: 2025-01-31
-title: What role does resonance stability play in the properties of carboxyl groups?
-article_title: What role does resonance stability play in the properties of carboxyl groups?
+title: >-
+    What role does resonance stability play in the properties of carboxyl groups?
+article_title: >-
+    What role does resonance stability play in the properties of carboxyl groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-resonance-stability-play-in-the-properties-of-carboxyl
 url: /learn/chemistry/questions/what-role-does-resonance-stability-play-in-the-properties-of-carboxyl-groups
 score: -1.0
 related_article1:
-    id: 167042
-    title: Describe the structure of a carboxyl group and explain its acidic nature.
+    id: 167053
+    title: >-
+        What defines organic chemistry and how does it relate to functional group diversity?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-structure-of-a-carboxyl-group-and-explain-its-acidic-nature
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 related_article2:
-    id: 167035
-    title: How do functional groups enhance the chemical diversity of hydrocarbons?
+    id: 167053
+    title: >-
+        What defines organic chemistry and how does it relate to functional group diversity?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-functional-groups-enhance-the-chemical-diversity-of-hydrocarbons
+    url: /learn/chemistry/questions/what-defines-organic-chemistry-and-how-does-it-relate-to-functional-group-diversity
 related_article3:
-    id: 167048
-    title: How do hydroxyl and carbonyl groups influence molecular polarity?
+    id: 167036
+    title: >-
+        Describe the structure of a hydroxyl group and its role in alcohol formation.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydroxyl-and-carbonyl-groups-influence-molecular-polarity
+    url: /learn/chemistry/questions/describe-the-structure-of-a-hydroxyl-group-and-its-role-in-alcohol-formation
 related_article4:
-    id: 167041
-    title: Explain why carbonyl groups are susceptible to nucleophilic attacks.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-why-carbonyl-groups-are-susceptible-to-nucleophilic-attacks
-related_article5:
     id: 167050
-    title: How do functional groups like hydroxyl and amino groups affect water solubility?
+    title: >-
+        How do functional groups like hydroxyl and amino groups affect water solubility?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-functional-groups-like-hydroxyl-and-amino-groups-affect-water-solubility
+related_article5:
+    id: 167054
+    title: >-
+        How do proteins and amino acids exemplify the principles of organic chemistry?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-proteins-and-amino-acids-exemplify-the-principles-of-organic-chemistry
 ---
 
 &nbsp;

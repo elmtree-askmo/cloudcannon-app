@@ -2,8 +2,10 @@
 _schema: default
 id: 170451
 date: 2025-02-06
-title: How are dermatomes mapped, and what is their clinical significance?
-article_title: How are dermatomes mapped, and what is their clinical significance?
+title: >-
+    How are dermatomes mapped, and what is their clinical significance?
+article_title: >-
+    How are dermatomes mapped, and what is their clinical significance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-dermatomes-mapped-and-what-is-their-clinical-significance.md
 url: /learn/nursing/questions/how-are-dermatomes-mapped-and-what-is-their-clinical-significance
 score: -1.0
 related_article1:
-    id: 170449
-    title: How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    id: 170446
+    title: >-
+        What is the role of the withdrawal reflex in motor function?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
 related_article2:
-    id: 170447
-    title: Describe the structure and function of the dura mater.
+    id: 170446
+    title: >-
+        What is the role of the withdrawal reflex in motor function?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
+    url: /learn/nursing/questions/what-is-the-role-of-the-withdrawal-reflex-in-motor-function
 related_article3:
-    id: 170441
-    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    id: 170450
+    title: >-
+        What is the role of dendrites and axons in signal transmission within a neuron?
     subject: Nursing
-    url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
+    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
 related_article4:
-    id: 170457
-    title: What are the types of stroke, and how can they be prevented and managed?
+    id: 170459
+    title: >-
+        What mechanisms underlie synaptic plasticity in the brain?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
+    url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
 related_article5:
-    id: 170455
-    title: What are the treatment options for hydrocephalus, and how do they work?
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 ---
 
 &nbsp;

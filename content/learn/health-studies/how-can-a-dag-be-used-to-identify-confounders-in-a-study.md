@@ -2,8 +2,10 @@
 _schema: default
 id: 163254
 date: 2025-01-26
-title: How can a DAG be used to identify confounders in a study?
-article_title: How can a DAG be used to identify confounders in a study?
+title: >-
+    How can a DAG be used to identify confounders in a study?
+article_title: >-
+    How can a DAG be used to identify confounders in a study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-a-dag-be-used-to-identify-confounders-in-a-study.md
 url: /learn/health-studies/questions/how-can-a-dag-be-used-to-identify-confounders-in-a-study
 score: -1.0
 related_article1:
-    id: 163247
-    title: How can researchers minimize the role of chance in their studies?
+    id: 163252
+    title: >-
+        How do descriptive studies differ from analytic studies in terms of study design?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
+    url: /learn/health-studies/questions/how-do-descriptive-studies-differ-from-analytic-studies-in-terms-of-study-design
 related_article2:
-    id: 163253
-    title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    id: 163260
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
+    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
 related_article3:
-    id: 163247
-    title: How can researchers minimize the role of chance in their studies?
+    id: 163265
+    title: >-
+        How can healthcare professionals balance current evidence with clinical judgment in practice?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
+    url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
 related_article4:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
+    id: 163259
+    title: >-
+        What role do systematic reviews and meta-analyses play in evidence appraisal?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+    url: /learn/health-studies/questions/what-role-do-systematic-reviews-and-metaanalyses-play-in-evidence-appraisal
 related_article5:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    id: 163255
+    title: >-
+        What is the difference between prevalence and incidence in descriptive studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+    url: /learn/health-studies/questions/what-is-the-difference-between-prevalence-and-incidence-in-descriptive-studies
 ---
 
 &nbsp;

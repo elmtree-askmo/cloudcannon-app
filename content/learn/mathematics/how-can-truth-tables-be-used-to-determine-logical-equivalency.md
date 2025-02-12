@@ -2,8 +2,10 @@
 _schema: default
 id: 170202
 date: 2025-02-06
-title: How can truth tables be used to determine logical equivalency?
-article_title: How can truth tables be used to determine logical equivalency?
+title: >-
+    How can truth tables be used to determine logical equivalency?
+article_title: >-
+    How can truth tables be used to determine logical equivalency?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-truth-tables-be-used-to-determine-logical-equivalency.md
 url: /learn/mathematics/questions/how-can-truth-tables-be-used-to-determine-logical-equivalency
 score: -1.0
 related_article1:
-    id: 170210
-    title: Explain the concept of negation and its application in logical statements.
+    id: 170217
+    title: >-
+        What is a logical implication and how is it used in logical arguments?
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-negation-and-its-application-in-logical-statements
+    url: /learn/mathematics/questions/what-is-a-logical-implication-and-how-is-it-used-in-logical-arguments
 related_article2:
-    id: 170216
-    title: How are atomic propositions identified in logical statements?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-are-atomic-propositions-identified-in-logical-statements
-related_article3:
     id: 170207
-    title: How do conditional identities apply in logical arguments?
+    title: >-
+        How do conditional identities apply in logical arguments?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-conditional-identities-apply-in-logical-arguments
+related_article3:
+    id: 170209
+    title: >-
+        What is the purpose of counter-examples in logical equivalency?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-purpose-of-counterexamples-in-logical-equivalency
 related_article4:
-    id: 170201
-    title: What is a logical equivalency and how is it represented in notation?
+    id: 170206
+    title: >-
+        What are the different types of logical operators and their functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-logical-equivalency-and-how-is-it-represented-in-notation
+    url: /learn/mathematics/questions/what-are-the-different-types-of-logical-operators-and-their-functions
 related_article5:
-    id: 170215
-    title: What is the structure of propositional arguments and how are hypotheses involved?
+    id: 170205
+    title: >-
+        Describe the distributive laws and provide an example of their application.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-structure-of-propositional-arguments-and-how-are-hypotheses-involved
+    url: /learn/mathematics/questions/describe-the-distributive-laws-and-provide-an-example-of-their-application
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161455
 date: 2025-01-24
-title: What are some common methods used for pseudonymization?
-article_title: What are some common methods used for pseudonymization?
+title: >-
+    What are some common methods used for pseudonymization?
+article_title: >-
+    What are some common methods used for pseudonymization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-methods-used-for-pseudonymization.md
 url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
 score: -1.0
 related_article1:
+    id: 161459
+    title: >-
+        Why is it important to regularly update anti-virus software?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
+related_article2:
     id: 161379
-    title: How does biometric data differ from other types of personal data?
+    title: >-
+        How does biometric data differ from other types of personal data?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-biometric-data-differ-from-other-types-of-personal-data
-related_article2:
-    id: 161466
-    title: How can individuals recognize and prevent pharming attempts?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
 related_article3:
-    id: 161393
-    title: What is the difference between smishing and vishing?
+    id: 161386
+    title: >-
+        What is the primary function of a firewall in cybersecurity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-smishing-and-vishing
+    url: /learn/computer-science/questions/what-is-the-primary-function-of-a-firewall-in-cybersecurity
 related_article4:
-    id: 161260
-    title: How can users recognize and prevent pharming attempts?
+    id: 161258
+    title: >-
+        How can ransomware be prevented and removed?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-users-recognize-and-prevent-pharming-attempts
+    url: /learn/computer-science/questions/how-can-ransomware-be-prevented-and-removed
 related_article5:
-    id: 161391
-    title: What are some common methods used in phishing attacks?
+    id: 161469
+    title: >-
+        How do Virtual Private Networks (VPNs) enhance online privacy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
+    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
 ---
 
 &nbsp;

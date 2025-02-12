@@ -2,8 +2,10 @@
 _schema: default
 id: 167750
 date: 2025-02-01
-title: What is allopatric speciation and how does it differ from sympatric speciation?
-article_title: What is allopatric speciation and how does it differ from sympatric speciation?
+title: >-
+    What is allopatric speciation and how does it differ from sympatric speciation?
+article_title: >-
+    What is allopatric speciation and how does it differ from sympatric speciation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-s
 url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
 score: -1.0
 related_article1:
-    id: 167766
-    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    id: 167759
+    title: >-
+        What is the significance of energy flow in ecosystems and how is energy transfer efficiency measured?
     subject: Biology
-    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+    url: /learn/biology/questions/what-is-the-significance-of-energy-flow-in-ecosystems-and-how-is-energy-transfer-efficiency-measured
 related_article2:
-    id: 167756
-    title: What were the causes and consequences of the Cambrian Explosion?
+    id: 167765
+    title: >-
+        What was the Darwinian Revolution and what were its key ideas and evidence?
     subject: Biology
-    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
 related_article3:
-    id: 167742
-    title: How does natural selection operate as a mechanism of evolution?
+    id: 167760
+    title: >-
+        What are biogeochemical cycles and how do human activities impact them?
     subject: Biology
-    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
 related_article4:
-    id: 167766
-    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    id: 167760
+    title: >-
+        What are biogeochemical cycles and how do human activities impact them?
     subject: Biology
-    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
 related_article5:
-    id: 167761
-    title: Why is biodiversity important and what are the major threats to it?
+    id: 167749
+    title: >-
+        Describe the biological species concept and how it differs from other species concepts.
     subject: Biology
-    url: /learn/biology/questions/why-is-biodiversity-important-and-what-are-the-major-threats-to-it
+    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
 ---
 
 &nbsp;

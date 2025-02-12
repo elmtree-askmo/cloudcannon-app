@@ -2,8 +2,10 @@
 _schema: default
 id: 169875
 date: 2025-02-05
-title: How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
-article_title: How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
+title: >-
+    How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
+article_title: >-
+    How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-tacitus-perspective-in-agricolas-biography-reflect-roman-his
 url: /learn/history-of-the-world/questions/how-does-tacitus-perspective-in-agricolas-biography-reflect-roman-historiography-biases
 score: 9.0
 related_article1:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+    id: 169882
+    title: >-
+        How do classical sources compare the Celts with other tribes of the ancient world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
+    url: /learn/history-of-the-world/questions/how-do-classical-sources-compare-the-celts-with-other-tribes-of-the-ancient-world
 related_article2:
-    id: 169880
-    title: What were the main factors leading to the Roman withdrawal from Scotland?
+    id: 169872
+    title: >-
+        What evidence exists for cultural continuity among the Picts from the Iron Age to medieval times?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-factors-leading-to-the-roman-withdrawal-from-scotland
+    url: /learn/history-of-the-world/questions/what-evidence-exists-for-cultural-continuity-among-the-picts-from-the-iron-age-to-medieval-times
 related_article3:
-    id: 169864
-    title: What were the key objectives of Agricola's campaigns in Britain?
+    id: 169876
+    title: >-
+        In what ways do ancient texts depict the cultural representations of Britons during the Roman era?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-objectives-of-agricolas-campaigns-in-britain
+    url: /learn/history-of-the-world/questions/in-what-ways-do-ancient-texts-depict-the-cultural-representations-of-britons-during-the-roman-era
 related_article4:
-    id: 169878
-    title: What were the primary tactics used by the Caledonians in their tribal warfare against the Romans?
+    id: 169882
+    title: >-
+        How do classical sources compare the Celts with other tribes of the ancient world?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-tactics-used-by-the-caledonians-in-their-tribal-warfare-against-the-romans
+    url: /learn/history-of-the-world/questions/how-do-classical-sources-compare-the-celts-with-other-tribes-of-the-ancient-world
+related_article5:
+    id: 169883
+    title: >-
+        What influence did Greek and Roman texts have on medieval historical narratives, such as Bede's Histories?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-influence-did-greek-and-roman-texts-have-on-medieval-historical-narratives-such-as-bedes-histories
 ---
 
 &nbsp;

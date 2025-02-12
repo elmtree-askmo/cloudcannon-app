@@ -2,8 +2,10 @@
 _schema: default
 id: 165154
 date: 2025-01-28
-title: What are the steps involved in resizing and inverting images using SciToolkit?
-article_title: What are the steps involved in resizing and inverting images using SciToolkit?
+title: >-
+    What are the steps involved in resizing and inverting images using SciToolkit?
+article_title: >-
+    What are the steps involved in resizing and inverting images using SciToolkit?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-steps-involved-in-resizing-and-inverting-images-using-sc
 url: /learn/education-studies/questions/what-are-the-steps-involved-in-resizing-and-inverting-images-using-scitoolkit
 score: -1.0
 related_article1:
-    id: 165159
-    title: How do independent and dependent variables function in an experimental study design?
+    id: 165163
+    title: >-
+        What are the different types of survey questions that can be designed for data collection?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-function-in-an-experimental-study-design
+    url: /learn/education-studies/questions/what-are-the-different-types-of-survey-questions-that-can-be-designed-for-data-collection
 related_article2:
-    id: 165168
-    title: What techniques are used to analyze experimental results and draw conclusions?
+    id: 165157
+    title: >-
+        Provide an example of how correlation can be misinterpreted as causation.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-are-used-to-analyze-experimental-results-and-draw-conclusions
+    url: /learn/education-studies/questions/provide-an-example-of-how-correlation-can-be-misinterpreted-as-causation
 related_article3:
-    id: 165158
-    title: What are some alternative explanations for causal claims in nature and health?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-alternative-explanations-for-causal-claims-in-nature-and-health
-related_article4:
-    id: 165153
-    title: How can SciToolkit be used for experimentation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-scitoolkit-be-used-for-experimentation
-related_article5:
     id: 165166
-    title: How can alternative explanations be explored when analyzing causal claims?
+    title: >-
+        How can alternative explanations be explored when analyzing causal claims?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-alternative-explanations-be-explored-when-analyzing-causal-claims
+related_article4:
+    id: 165157
+    title: >-
+        Provide an example of how correlation can be misinterpreted as causation.
+    subject: Education Studies
+    url: /learn/education-studies/questions/provide-an-example-of-how-correlation-can-be-misinterpreted-as-causation
+related_article5:
+    id: 165156
+    title: >-
+        What is the difference between correlation and causation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163862
 date: 2025-01-28
-title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
-article_title: What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+title: >-
+    What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
+article_title: >-
+    What are the main perspectives on globalization, and how do they describe the interconnectedness of global markets?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-main-perspectives-on-globalization-and-how-do-they-descr
 url: /learn/sociology/questions/what-are-the-main-perspectives-on-globalization-and-how-do-they-describe-the-interconnectedness-of-global-markets
 score: -1.0
 related_article1:
-    id: 163867
-    title: How did European exploration impact global trade routes and resource control?
+    id: 163865
+    title: >-
+        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-european-exploration-impact-global-trade-routes-and-resource-control
+    url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 related_article2:
-    id: 163860
-    title: What are the key characteristics of capitalism, and how does it influence global markets?
+    id: 163864
+    title: >-
+        What role do multinational corporations play in the interdependency of global trade and economic integration?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-interdependency-of-global-trade-and-economic-integration
 related_article3:
-    id: 163866
-    title: What factors contributed to the emergence of cities and urban centers during industrialization?
+    id: 163869
+    title: >-
+        How do military and economic influences contribute to the control of territory and resources in political economy?
     subject: Sociology
-    url: /learn/sociology/questions/what-factors-contributed-to-the-emergence-of-cities-and-urban-centers-during-industrialization
+    url: /learn/sociology/questions/how-do-military-and-economic-influences-contribute-to-the-control-of-territory-and-resources-in-political-economy
 related_article4:
-    id: 163860
-    title: What are the key characteristics of capitalism, and how does it influence global markets?
+    id: 163870
+    title: >-
+        What role do multinational corporations play in the emergence of global markets and economic integration?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-characteristics-of-capitalism-and-how-does-it-influence-global-markets
+    url: /learn/sociology/questions/what-role-do-multinational-corporations-play-in-the-emergence-of-global-markets-and-economic-integration
 related_article5:
     id: 163865
-    title: How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
+    title: >-
+        How have agricultural techniques and practices evolved, and what social and spatial changes have they prompted?
     subject: Sociology
     url: /learn/sociology/questions/how-have-agricultural-techniques-and-practices-evolved-and-what-social-and-spatial-changes-have-they-prompted
 ---

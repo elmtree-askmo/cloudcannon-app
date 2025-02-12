@@ -2,8 +2,10 @@
 _schema: default
 id: 169842
 date: 2025-02-05
-title: How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
-article_title: How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+title: >-
+    How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+article_title: >-
+    How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-c
 url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
 score: -1.0
 related_article1:
-    id: 169830
-    title: How does a malha differ from a laço in terms of internal paths?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
-related_article2:
-    id: 169832
-    title: Explain the analogy between tensão elétrica and water pressure.
-    subject: Engineering
-    url: /learn/engineering/questions/explain-the-analogy-between-tenso-eltrica-and-water-pressure
-related_article3:
     id: 169831
-    title: What is tensão elétrica and how is it measured?
+    title: >-
+        What is tensão elétrica and how is it measured?
     subject: Engineering
     url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article2:
+    id: 169831
+    title: >-
+        What is tensão elétrica and how is it measured?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+related_article3:
+    id: 169833
+    title: >-
+        Define corrente elétrica and its unit of measurement.
+    subject: Engineering
+    url: /learn/engineering/questions/define-corrente-eltrica-and-its-unit-of-measurement
 related_article4:
+    id: 169837
+    title: >-
+        State Kirchhoff's Current Law and provide an analogy to explain it.
+    subject: Engineering
+    url: /learn/engineering/questions/state-kirchhoffs-current-law-and-provide-an-analogy-to-explain-it
+related_article5:
     id: 169834
-    title: How can corrente elétrica be compared to a hydraulic system?
+    title: >-
+        How can corrente elétrica be compared to a hydraulic system?
     subject: Engineering
     url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
-related_article5:
-    id: 169840
-    title: How does resistência affect the flow of corrente in a circuit?
-    subject: Engineering
-    url: /learn/engineering/questions/how-does-resistncia-affect-the-flow-of-corrente-in-a-circuit
 ---
 
 &nbsp;

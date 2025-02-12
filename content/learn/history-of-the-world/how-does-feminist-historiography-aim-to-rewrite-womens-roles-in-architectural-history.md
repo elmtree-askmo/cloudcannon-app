@@ -2,8 +2,10 @@
 _schema: default
 id: 169125
 date: 2025-02-04
-title: How does feminist historiography aim to rewrite women's roles in architectural history?
-article_title: How does feminist historiography aim to rewrite women's roles in architectural history?
+title: >-
+    How does feminist historiography aim to rewrite women's roles in architectural history?
+article_title: >-
+    How does feminist historiography aim to rewrite women's roles in architectural history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-archi
 url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
 score: 9.5
 related_article1:
-    id: 169116
-    title: What are some challenges in the historical archiving of women's work in architecture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
-related_article2:
-    id: 169119
-    title: How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
-related_article3:
-    id: 169116
-    title: What are some challenges in the historical archiving of women's work in architecture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
-related_article4:
-    id: 169106
-    title: What were some of the challenges faced by women in architecture during the early 20th century?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
-related_article5:
     id: 169122
-    title: What are some common stereotypes about women in architecture portrayed in media?
+    title: >-
+        What are some common stereotypes about women in architecture portrayed in media?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
+related_article2:
+    id: 169110
+    title: >-
+        How did migration patterns affect gender inequality in Hong Kong's workforce?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
+related_article3:
+    id: 169107
+    title: >-
+        How did postwar developments impact gendered labor dynamics in architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+related_article4:
+    id: 169123
+    title: >-
+        How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+related_article5:
+    id: 169121
+    title: >-
+        How is interior design considered a gendered field within architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
 ---
 
 &nbsp;

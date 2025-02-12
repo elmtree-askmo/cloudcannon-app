@@ -2,8 +2,10 @@
 _schema: default
 id: 166432
 date: 2025-01-30
-title: What factors affect drug metabolism, and what are the clinical implications of these factors?
-article_title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+title: >-
+    What factors affect drug metabolism, and what are the clinical implications of these factors?
+article_title: >-
+    What factors affect drug metabolism, and what are the clinical implications of these factors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-t
 score: -1.0
 related_article1:
     id: 166423
-    title: What is the definition of 'onset of action' in pharmacology, and why is it important?
+    title: >-
+        What is the definition of 'onset of action' in pharmacology, and why is it important?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
 related_article2:
-    id: 166436
-    title: List the routes of drug excretion and discuss one factor that affects excretion.
+    id: 166424
+    title: >-
+        Describe the process of enteric absorption and list two factors that can affect it.
     subject: Nursing
-    url: /learn/nursing/questions/list-the-routes-of-drug-excretion-and-discuss-one-factor-that-affects-excretion
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
 related_article3:
-    id: 166437
-    title: What are the types of drug interactions, and what are their clinical implications?
+    id: 166434
+    title: >-
+        What is hepatic circulation, and how does it influence drug metabolism?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
+    url: /learn/nursing/questions/what-is-hepatic-circulation-and-how-does-it-influence-drug-metabolism
 related_article4:
     id: 166429
-    title: What are adverse effects, and what strategies can be used to manage them?
+    title: >-
+        What are adverse effects, and what strategies can be used to manage them?
     subject: Nursing
     url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
-related_article5:
-    id: 166423
-    title: What is the definition of 'onset of action' in pharmacology, and why is it important?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
 ---
 
 &nbsp;

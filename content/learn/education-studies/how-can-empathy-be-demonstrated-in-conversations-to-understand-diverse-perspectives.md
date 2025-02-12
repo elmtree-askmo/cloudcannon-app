@@ -2,8 +2,10 @@
 _schema: default
 id: 168521
 date: 2025-02-03
-title: How can empathy be demonstrated in conversations to understand diverse perspectives?
-article_title: How can empathy be demonstrated in conversations to understand diverse perspectives?
+title: >-
+    How can empathy be demonstrated in conversations to understand diverse perspectives?
+article_title: >-
+    How can empathy be demonstrated in conversations to understand diverse perspectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-empathy-be-demonstrated-in-conversations-to-understand-divers
 url: /learn/education-studies/questions/how-can-empathy-be-demonstrated-in-conversations-to-understand-diverse-perspectives
 score: -1.0
 related_article1:
-    id: 168515
-    title: What are the key differences in formality and structure between a debate and an oral discussion?
+    id: 168517
+    title: >-
+        What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-in-formality-and-structure-between-a-debate-and-an-oral-discussion
+    url: /learn/education-studies/questions/what-are-the-essential-rules-and-roles-in-collegial-discussions-to-ensure-a-collaborative-nature
 related_article2:
-    id: 168527
-    title: How does evidence and reasoning play a role in revising ideas and forming new understandings?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-evidence-and-reasoning-play-a-role-in-revising-ideas-and-forming-new-understandings
-related_article3:
     id: 168523
-    title: How can posing open-ended questions propel a conversation forward?
+    title: >-
+        How can posing open-ended questions propel a conversation forward?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
+related_article3:
+    id: 168517
+    title: >-
+        What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-essential-rules-and-roles-in-collegial-discussions-to-ensure-a-collaborative-nature
 related_article4:
-    id: 168524
-    title: In what ways can responding to broader themes help move conversations forward?
+    id: 168518
+    title: >-
+        How does diction and syntax contribute to clarity and precision in oral discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-responding-to-broader-themes-help-move-conversations-forward
+    url: /learn/education-studies/questions/how-does-diction-and-syntax-contribute-to-clarity-and-precision-in-oral-discussions
 related_article5:
-    id: 168525
-    title: How can acknowledging different views contribute to building consensus in discussions?
+    id: 168518
+    title: >-
+        How does diction and syntax contribute to clarity and precision in oral discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-acknowledging-different-views-contribute-to-building-consensus-in-discussions
+    url: /learn/education-studies/questions/how-does-diction-and-syntax-contribute-to-clarity-and-precision-in-oral-discussions
 ---
 
 &nbsp;

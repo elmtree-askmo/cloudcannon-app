@@ -2,8 +2,10 @@
 _schema: default
 id: 167551
 date: 2025-01-31
-title: What is passive transport and how does it differ from active transport in terms of energy requirements?
-article_title: What is passive transport and how does it differ from active transport in terms of energy requirements?
+title: >-
+    What is passive transport and how does it differ from active transport in terms of energy requirements?
+article_title: >-
+    What is passive transport and how does it differ from active transport in terms of energy requirements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-passive-transport-and-how-does-it-differ-from-active-transpor
 url: /learn/biology/questions/what-is-passive-transport-and-how-does-it-differ-from-active-transport-in-terms-of-energy-requirements
 score: -1.0
 related_article1:
-    id: 167545
-    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
-    subject: Biology
-    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
-related_article2:
-    id: 167545
-    title: What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
-    subject: Biology
-    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
-related_article3:
-    id: 167540
-    title: Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
-related_article4:
-    id: 167538
-    title: What is simple diffusion and how does it occur in cellular processes?
-    subject: Biology
-    url: /learn/biology/questions/what-is-simple-diffusion-and-how-does-it-occur-in-cellular-processes
-related_article5:
     id: 167546
-    title: Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
+    title: >-
+        Identify the lipid, protein, and carbohydrate components of the cell membrane and their respective roles.
     subject: Biology
     url: /learn/biology/questions/identify-the-lipid-protein-and-carbohydrate-components-of-the-cell-membrane-and-their-respective-roles
+related_article2:
+    id: 167547
+    title: >-
+        How do integral and peripheral membrane proteins differ in structure and function?
+    subject: Biology
+    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+related_article3:
+    id: 167554
+    title: >-
+        Describe the structure and function of glycolipids and glycoproteins in cell membranes.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-glycolipids-and-glycoproteins-in-cell-membranes
+related_article4:
+    id: 167545
+    title: >-
+        What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
+    subject: Biology
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
+related_article5:
+    id: 167552
+    title: >-
+        Define concentration gradient and explain its role as a driving force for diffusion.
+    subject: Biology
+    url: /learn/biology/questions/define-concentration-gradient-and-explain-its-role-as-a-driving-force-for-diffusion
 ---
 
 &nbsp;

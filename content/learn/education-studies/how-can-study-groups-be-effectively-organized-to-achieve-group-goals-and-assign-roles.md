@@ -2,8 +2,10 @@
 _schema: default
 id: 160466
 date: 2025-01-24
-title: How can study groups be effectively organized to achieve group goals and assign roles?
-article_title: How can study groups be effectively organized to achieve group goals and assign roles?
+title: >-
+    How can study groups be effectively organized to achieve group goals and assign roles?
+article_title: >-
+    How can study groups be effectively organized to achieve group goals and assign roles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-study-groups-be-effectively-organized-to-achieve-group-goals-
 url: /learn/education-studies/questions/how-can-study-groups-be-effectively-organized-to-achieve-group-goals-and-assign-roles
 score: -1.0
 related_article1:
-    id: 160129
-    title: How can students prioritize tasks to improve their time management skills?
+    id: 160313
+    title: >-
+        How can one overcome barriers such as authority influence and bias in critical thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-prioritize-tasks-to-improve-their-time-management-skills
+    url: /learn/education-studies/questions/how-can-one-overcome-barriers-such-as-authority-influence-and-bias-in-critical-thinking
 related_article2:
-    id: 160316
-    title: What are effective note-making techniques, and how do they aid in information retention?
+    id: 159978
+    title: >-
+        What challenges might students face when transitioning from secondary to tertiary education, and how can they overcome them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-notemaking-techniques-and-how-do-they-aid-in-information-retention
+    url: /learn/education-studies/questions/what-challenges-might-students-face-when-transitioning-from-secondary-to-tertiary-education-and-how-can-they-overcome-them
 related_article3:
-    id: 160276
-    title: What are some effective exam preparation strategies, and how can they improve performance?
+    id: 160286
+    title: >-
+        How can students apply their knowledge in real-world contexts to enhance their learning experience?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-exam-preparation-strategies-and-how-can-they-improve-performance
+    url: /learn/education-studies/questions/how-can-students-apply-their-knowledge-in-realworld-contexts-to-enhance-their-learning-experience
 related_article4:
-    id: 160140
-    title: What are the benefits of participating in study groups, and how can they enhance learning?
+    id: 160347
+    title: >-
+        Why are elective modules important, and how can they broaden a student's knowledge base?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-participating-in-study-groups-and-how-can-they-enhance-learning
+    url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-broaden-a-students-knowledge-base
 related_article5:
-    id: 159956
-    title: How can prioritizing tasks and avoiding procrastination improve time management?
+    id: 160353
+    title: >-
+        What are the main learning theories, and how can they be applied to improve educational outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-prioritizing-tasks-and-avoiding-procrastination-improve-time-management
+    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-improve-educational-outcomes
 ---
 
 &nbsp;

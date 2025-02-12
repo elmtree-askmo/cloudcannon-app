@@ -2,8 +2,10 @@
 _schema: default
 id: 167227
 date: 2025-01-31
-title: Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
-article_title: Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
+title: >-
+    Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
+article_title: >-
+    Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydra
 url: /learn/health-studies/questions/compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
 score: -1.0
 related_article1:
-    id: 167229
-    title: How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
+    id: 167217
+    title: >-
+        Describe the amphipathic nature of phospholipids and its significance in membrane formation.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
+    url: /learn/health-studies/questions/describe-the-amphipathic-nature-of-phospholipids-and-its-significance-in-membrane-formation
 related_article2:
-    id: 167223
-    title: What are the major classes of lipids and their general characteristics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-major-classes-of-lipids-and-their-general-characteristics
-related_article3:
     id: 167225
-    title: How do the chemical properties of biomolecules impact their function?
+    title: >-
+        How do the chemical properties of biomolecules impact their function?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
+related_article3:
+    id: 167222
+    title: >-
+        How do the physical properties of saturated fatty acids differ from those of unsaturated fatty acids?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-the-physical-properties-of-saturated-fatty-acids-differ-from-those-of-unsaturated-fatty-acids
 related_article4:
     id: 167229
-    title: How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
+    title: >-
+        How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
 related_article5:
-    id: 167219
-    title: Explain the significance of closed-carbon rings in steroid structure.
+    id: 167225
+    title: >-
+        How do the chemical properties of biomolecules impact their function?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-significance-of-closedcarbon-rings-in-steroid-structure
+    url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
 ---
 
 &nbsp;

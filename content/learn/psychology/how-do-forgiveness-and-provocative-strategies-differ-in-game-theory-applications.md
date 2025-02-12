@@ -2,8 +2,10 @@
 _schema: default
 id: 170996
 date: 2025-02-07
-title: How do forgiveness and provocative strategies differ in game theory applications?
-article_title: How do forgiveness and provocative strategies differ in game theory applications?
+title: >-
+    How do forgiveness and provocative strategies differ in game theory applications?
+article_title: >-
+    How do forgiveness and provocative strategies differ in game theory applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-a
 url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
 score: -1.0
 related_article1:
-    id: 171010
-    title: What criteria do females use for mate selection, and how does this impact male traits?
+    id: 171005
+    title: >-
+        What are the different types of polygyny, and can you provide examples from nature?
     subject: Psychology
-    url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
+    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
 related_article2:
-    id: 171015
-    title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    id: 171009
+    title: >-
+        What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
 related_article3:
-    id: 171008
-    title: How do evolutionary strategies in animals adapt to environmental influences on reproduction?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
-related_article4:
-    id: 170997
-    title: What role do computer simulations play in understanding real-world cooperation strategies?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
-related_article5:
     id: 171012
-    title: How does data analysis contribute to understanding behavior in biological systems?
+    title: >-
+        How does data analysis contribute to understanding behavior in biological systems?
     subject: Psychology
     url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
+related_article4:
+    id: 171007
+    title: >-
+        What are the defining characteristics of promiscuity in the animal kingdom?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-defining-characteristics-of-promiscuity-in-the-animal-kingdom
+related_article5:
+    id: 171000
+    title: >-
+        How does mate choice influence sexual selection and competition among males?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166693
 date: 2025-01-31
-title: How does the right-hand rule help determine the direction of a vector cross product?
-article_title: How does the right-hand rule help determine the direction of a vector cross product?
+title: >-
+    How does the right-hand rule help determine the direction of a vector cross product?
+article_title: >-
+    How does the right-hand rule help determine the direction of a vector cross product?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-
 url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 score: -1.0
 related_article1:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
+    id: 166720
+    title: >-
+        What types of events do engineering organizations typically host?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
 related_article2:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
+    id: 166719
+    title: >-
+        How do engineering organizations support networking and professional development?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 related_article3:
-    id: 166701
-    title: Explain the concept of torque and its importance in engineering.
+    id: 166714
+    title: >-
+        What are the current job market trends for consulting opportunities in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-torque-and-its-importance-in-engineering
+    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
 related_article4:
-    id: 166698
-    title: How is the conservation of energy principle applied in rigid body dynamics?
+    id: 166718
+    title: >-
+        What benefits do professional engineering societies offer to their members?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
+    url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
 related_article5:
-    id: 166712
-    title: What types of services do consulting companies offer?
+    id: 166715
+    title: >-
+        What skills and qualifications are typically required for consulting roles in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
+    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167794
 date: 2025-02-01
-title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
-article_title: What is incomplete penetrance and how does it affect genetic predictions at the population level?
+title: >-
+    What is incomplete penetrance and how does it affect genetic predictions at the population level?
+article_title: >-
+    What is incomplete penetrance and how does it affect genetic predictions at the population level?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predicti
 url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-genetic-predictions-at-the-population-level
 score: -1.0
 related_article1:
-    id: 167787
-    title: What are the main sources of genetic variation?
+    id: 167795
+    title: >-
+        How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-sources-of-genetic-variation
+    url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
 related_article2:
-    id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    id: 167798
+    title: >-
+        What is the significance of hypothesis testing in genetic studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
+    url: /learn/education-studies/questions/what-is-the-significance-of-hypothesis-testing-in-genetic-studies
 related_article3:
-    id: 167789
-    title: What is polygenic inheritance and how does it differ from Mendelian inheritance?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-polygenic-inheritance-and-how-does-it-differ-from-mendelian-inheritance
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article4:
-    id: 167801
-    title: What is the ABO blood group system and how does it relate to genotype and phenotype?
+    id: 167796
+    title: >-
+        What is the purpose of chi-square analysis in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-abo-blood-group-system-and-how-does-it-relate-to-genotype-and-phenotype
+    url: /learn/education-studies/questions/what-is-the-purpose-of-chisquare-analysis-in-genetics
 related_article5:
-    id: 167784
-    title: What role do alleles play in determining an organism's traits?
+    id: 167795
+    title: >-
+        How can variable expressivity lead to phenotypic variation among individuals with the same genotype?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-alleles-play-in-determining-an-organisms-traits
+    url: /learn/education-studies/questions/how-can-variable-expressivity-lead-to-phenotypic-variation-among-individuals-with-the-same-genotype
 ---
 
 &nbsp;

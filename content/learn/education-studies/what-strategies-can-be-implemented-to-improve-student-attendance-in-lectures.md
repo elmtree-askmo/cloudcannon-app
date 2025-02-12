@@ -2,8 +2,10 @@
 _schema: default
 id: 166904
 date: 2025-01-31
-title: What strategies can be implemented to improve student attendance in lectures?
-article_title: What strategies can be implemented to improve student attendance in lectures?
+title: >-
+    What strategies can be implemented to improve student attendance in lectures?
+article_title: >-
+    What strategies can be implemented to improve student attendance in lectures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-implemented-to-improve-student-attendance-in-l
 url: /learn/education-studies/questions/what-strategies-can-be-implemented-to-improve-student-attendance-in-lectures
 score: -1.0
 related_article1:
-    id: 166899
-    title: What are the benefits of using Codon Learning courseware in biology education?
+    id: 166894
+    title: >-
+        How does cognitive load theory influence teaching strategies in cognitive science?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
+    url: /learn/education-studies/questions/how-does-cognitive-load-theory-influence-teaching-strategies-in-cognitive-science
 related_article2:
     id: 166902
-    title: How does formative assessment provide ongoing feedback and monitor student progress?
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
 related_article3:
-    id: 166903
-    title: What is the relationship between attendance and GPA, and why is regular attendance important?
+    id: 166906
+    title: >-
+        How can distractions from cell phone use during lectures be reduced to promote focus?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
+    url: /learn/education-studies/questions/how-can-distractions-from-cell-phone-use-during-lectures-be-reduced-to-promote-focus
 related_article4:
     id: 166893
-    title: What is the scope of discipline-based educational research and why is it important in biology education?
+    title: >-
+        What is the scope of discipline-based educational research and why is it important in biology education?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-scope-of-disciplinebased-educational-research-and-why-is-it-important-in-biology-education
 related_article5:
-    id: 166893
-    title: What is the scope of discipline-based educational research and why is it important in biology education?
+    id: 166903
+    title: >-
+        What is the relationship between attendance and GPA, and why is regular attendance important?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-scope-of-disciplinebased-educational-research-and-why-is-it-important-in-biology-education
+    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
 ---
 
 &nbsp;

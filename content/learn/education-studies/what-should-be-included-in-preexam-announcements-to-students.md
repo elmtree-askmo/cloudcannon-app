@@ -2,8 +2,10 @@
 _schema: default
 id: 168227
 date: 2025-02-03
-title: What should be included in pre-exam announcements to students?
-article_title: What should be included in pre-exam announcements to students?
+title: >-
+    What should be included in pre-exam announcements to students?
+article_title: >-
+    What should be included in pre-exam announcements to students?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-should-be-included-in-preexam-announcements-to-students.md
 url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
 score: -1.0
 related_article1:
-    id: 168233
-    title: What criteria are used in the grading rubric for assessments?
+    id: 168223
+    title: >-
+        What actions are prohibited when using response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
+    url: /learn/education-studies/questions/what-actions-are-prohibited-when-using-response-sheets
 related_article2:
-    id: 168228
-    title: How should queries be addressed during the exam?
+    id: 168219
+    title: >-
+        What are the key responsibilities of an invigilator during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
+    url: /learn/education-studies/questions/what-are-the-key-responsibilities-of-an-invigilator-during-the-exam
 related_article3:
     id: 168232
-    title: What roles do invigilators play in supervising an exam?
+    title: >-
+        What roles do invigilators play in supervising an exam?
     subject: Education Studies
     url: /learn/education-studies/questions/what-roles-do-invigilators-play-in-supervising-an-exam
 related_article4:
-    id: 168220
-    title: How should time be managed effectively during an exam?
+    id: 168228
+    title: >-
+        How should queries be addressed during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
+    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
 related_article5:
-    id: 168231
-    title: What strategies can be used to minimize distractions in the exam environment?
+    id: 168228
+    title: >-
+        How should queries be addressed during the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
+    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
 ---
 
 &nbsp;

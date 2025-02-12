@@ -2,8 +2,10 @@
 _schema: default
 id: 168393
 date: 2025-02-03
-title: How did prehistoric societies adapt to environmental changes?
-article_title: How did prehistoric societies adapt to environmental changes?
+title: >-
+    How did prehistoric societies adapt to environmental changes?
+article_title: >-
+    How did prehistoric societies adapt to environmental changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-prehistoric-societies-adapt-to-environmental-changes.md
 url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
 score: -1.0
 related_article1:
-    id: 168389
-    title: What technological advancements were introduced during the Iron Age?
+    id: 168394
+    title: >-
+        What can artifacts and symbolism tell us about prehistoric societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technological-advancements-were-introduced-during-the-iron-age
+    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
 related_article2:
-    id: 168379
-    title: What are the key differences between stone tools and composite tools in tool technology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
-related_article3:
     id: 168387
-    title: What were the main characteristics and tools of the Paleolithic Era?
+    title: >-
+        What were the main characteristics and tools of the Paleolithic Era?
     subject: Education Studies
     url: /learn/education-studies/questions/what-were-the-main-characteristics-and-tools-of-the-paleolithic-era
+related_article3:
+    id: 168385
+    title: >-
+        What are the defining characteristics of a civilization?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
 related_article4:
-    id: 168383
-    title: How did nomadic societies adapt to their environments?
+    id: 168396
+    title: >-
+        How did technological advancements influence social structures in ancient times?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-nomadic-societies-adapt-to-their-environments
+    url: /learn/education-studies/questions/how-did-technological-advancements-influence-social-structures-in-ancient-times
 related_article5:
-    id: 168380
-    title: How did early metallurgical practices impact ancient societies?
+    id: 168391
+    title: >-
+        What role did kinship play in the social structures of early societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
+    url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
 ---
 
 &nbsp;

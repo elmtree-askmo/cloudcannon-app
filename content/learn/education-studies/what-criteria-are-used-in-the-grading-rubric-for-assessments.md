@@ -2,8 +2,10 @@
 _schema: default
 id: 168233
 date: 2025-02-03
-title: What criteria are used in the grading rubric for assessments?
-article_title: What criteria are used in the grading rubric for assessments?
+title: >-
+    What criteria are used in the grading rubric for assessments?
+article_title: >-
+    What criteria are used in the grading rubric for assessments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-criteria-are-used-in-the-grading-rubric-for-assessments.md
 url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
 score: -1.0
 related_article1:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
+    id: 168220
+    title: >-
+        How should time be managed effectively during an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
 related_article2:
-    id: 168228
-    title: How should queries be addressed during the exam?
+    id: 168234
+    title: >-
+        How should feedback be provided to students after assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
+    url: /learn/education-studies/questions/how-should-feedback-be-provided-to-students-after-assessments
 related_article3:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
+    id: 168223
+    title: >-
+        What actions are prohibited when using response sheets?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+    url: /learn/education-studies/questions/what-actions-are-prohibited-when-using-response-sheets
 related_article4:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
+    id: 168229
+    title: >-
+        What instructions should be given to students after they submit their exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
 related_article5:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
+    id: 168218
+    title: >-
+        How should electronics and personal items be managed before the exam begins?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
 ---
 
 &nbsp;

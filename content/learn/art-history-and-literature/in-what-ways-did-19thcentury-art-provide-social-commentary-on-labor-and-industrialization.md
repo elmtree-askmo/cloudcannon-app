@@ -2,8 +2,10 @@
 _schema: default
 id: 168721
 date: 2025-02-04
-title: In what ways did 19th-century art provide social commentary on labor and industrialization?
-article_title: In what ways did 19th-century art provide social commentary on labor and industrialization?
+title: >-
+    In what ways did 19th-century art provide social commentary on labor and industrialization?
+article_title: >-
+    In what ways did 19th-century art provide social commentary on labor and industrialization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-a
 url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
 score: 9.5
 related_article1:
-    id: 168728
-    title: How did artists depict labor and working conditions during the Industrial Revolution?
+    id: 168734
+    title: >-
+        How did political and social changes in the 19th century influence artistic movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
+    url: /learn/art-history-and-literature/questions/how-did-political-and-social-changes-in-the-19th-century-influence-artistic-movements
 related_article2:
+    id: 168717
+    title: >-
+        What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
+related_article3:
     id: 168730
-    title: How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
+    title: >-
+        How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
-related_article3:
-    id: 168732
-    title: How did socialist ideas influence art and the representation of the working class in the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-socialist-ideas-influence-art-and-the-representation-of-the-working-class-in-the-19th-century
 related_article4:
-    id: 168727
-    title: Who were the key representatives of Realism, and what were their contributions to the movement?
+    id: 168733
+    title: >-
+        What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
-related_article5:
-    id: 168726
-    title: How did 19th-century art address social issues such as poverty and gender identity?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
+    url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
 ---
 
 &nbsp;

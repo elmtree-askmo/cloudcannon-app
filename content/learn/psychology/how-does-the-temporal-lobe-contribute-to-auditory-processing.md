@@ -2,8 +2,10 @@
 _schema: default
 id: 164412
 date: 2025-01-28
-title: How does the temporal lobe contribute to auditory processing?
-article_title: How does the temporal lobe contribute to auditory processing?
+title: >-
+    How does the temporal lobe contribute to auditory processing?
+article_title: >-
+    How does the temporal lobe contribute to auditory processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-does-the-temporal-lobe-contribute-to-auditory-processing.md
 url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-auditory-processing
 score: -1.0
 related_article1:
-    id: 164417
-    title: How are directional terms applied to understand brain orientation and reference points in anatomy?
+    id: 164411
+    title: >-
+        What are the primary functions of the occipital lobe in the cerebral cortex?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
 related_article2:
-    id: 164416
-    title: What is the difference between distal and proximal in anatomical terminology?
+    id: 164407
+    title: >-
+        How does the basal ganglia contribute to motor coordination and involuntary motor control?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
+    url: /learn/psychology/questions/how-does-the-basal-ganglia-contribute-to-motor-coordination-and-involuntary-motor-control
 related_article3:
-    id: 164409
-    title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+    id: 164411
+    title: >-
+        What are the primary functions of the occipital lobe in the cerebral cortex?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-the-cerebral-cortex
 related_article4:
     id: 164413
-    title: What role does the parietal lobe play in spatial awareness and attention?
+    title: >-
+        What role does the parietal lobe play in spatial awareness and attention?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
 related_article5:
     id: 164408
-    title: What role does the basal ganglia play in implicit memory?
+    title: >-
+        What role does the basal ganglia play in implicit memory?
     subject: Psychology
     url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
 ---

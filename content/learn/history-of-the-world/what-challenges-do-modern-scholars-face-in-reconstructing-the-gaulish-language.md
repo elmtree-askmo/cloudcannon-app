@@ -2,8 +2,10 @@
 _schema: default
 id: 163656
 date: 2025-01-27
-title: What challenges do modern scholars face in reconstructing the Gaulish language?
-article_title: What challenges do modern scholars face in reconstructing the Gaulish language?
+title: >-
+    What challenges do modern scholars face in reconstructing the Gaulish language?
+article_title: >-
+    What challenges do modern scholars face in reconstructing the Gaulish language?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish
 url: /learn/history-of-the-world/questions/what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish-language
 score: 9.0
 related_article1:
-    id: 163647
-    title: What types of archaeological evidence provide insights into Celtic religious practices?
+    id: 163652
+    title: >-
+        How did Roman conquest during the Gallic Wars impact Celtic society and culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-types-of-archaeological-evidence-provide-insights-into-celtic-religious-practices
+    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
 related_article2:
-    id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    id: 163643
+    title: >-
+        What are the key differences between Greek and Roman perspectives on the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
+    url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
 related_article3:
-    id: 163644
-    title: How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
+    id: 163648
+    title: >-
+        How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
+    url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
 related_article4:
-    id: 163650
-    title: How did the use of Greek and Latin characters influence the preservation of the Gaulish language?
+    id: 163653
+    title: >-
+        What are some common stereotypes found in Greek and Roman ethnographic descriptions of the Celts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-use-of-greek-and-latin-characters-influence-the-preservation-of-the-gaulish-language
+    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-found-in-greek-and-roman-ethnographic-descriptions-of-the-celts
 related_article5:
-    id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    id: 163645
+    title: >-
+        What role did Druids play in Celtic society, and how were they perceived by the Romans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
+    url: /learn/history-of-the-world/questions/what-role-did-druids-play-in-celtic-society-and-how-were-they-perceived-by-the-romans
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161307
 date: 2025-01-24
-title: What are the advantages of using a command line interface?
-article_title: What are the advantages of using a command line interface?
+title: >-
+    What are the advantages of using a command line interface?
+article_title: >-
+    What are the advantages of using a command line interface?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-of-using-a-command-line-interface.md
 url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface
 score: -1.0
 related_article1:
-    id: 161541
-    title: How does memory bandwidth affect the performance of supercomputers?
+    id: 161551
+    title: >-
+        How does licensing differ between open source and proprietary software?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-memory-bandwidth-affect-the-performance-of-supercomputers
+    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
 related_article2:
-    id: 161311
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161295
+    title: >-
+        What does MIPS measure in mainframe performance metrics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
+related_article3:
+    id: 161554
+    title: >-
+        What are the key characteristics of mainframe computers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers
+related_article4:
+    id: 161555
+    title: >-
+        How do supercomputers differ in their uses compared to mainframe computers?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
-related_article3:
-    id: 161312
-    title: What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+related_article5:
+    id: 161291
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
     url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
-related_article4:
-    id: 161540
-    title: Explain the significance of MIPS as a performance metric for mainframe computers.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-mips-as-a-performance-metric-for-mainframe-computers
-related_article5:
-    id: 161296
-    title: How is FLOPS used to evaluate supercomputer performance?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-flops-used-to-evaluate-supercomputer-performance
 ---
 
 &nbsp;

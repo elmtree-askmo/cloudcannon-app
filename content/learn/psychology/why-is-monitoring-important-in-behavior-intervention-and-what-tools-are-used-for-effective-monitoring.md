@@ -2,8 +2,10 @@
 _schema: default
 id: 169327
 date: 2025-02-05
-title: Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
-article_title: Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
+title: >-
+    Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
+article_title: >-
+    Why is monitoring important in behavior intervention and what tools are used for effective monitoring?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-monitoring-important-in-behavior-intervention-and-what-tools-a
 url: /learn/psychology/questions/why-is-monitoring-important-in-behavior-intervention-and-what-tools-are-used-for-effective-monitoring
 score: -1.0
 related_article1:
-    id: 169324
-    title: What is extinction in behavior modification and what effect does it have on behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-extinction-in-behavior-modification-and-what-effect-does-it-have-on-behavior
-related_article2:
-    id: 169320
-    title: How is intensity measured in behavior assessment and what is its application?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-intensity-measured-in-behavior-assessment-and-what-is-its-application
-related_article3:
-    id: 169317
-    title: How is frequency measured in behavior tracking and why is it important?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
-related_article4:
-    id: 169311
-    title: What is shaping and why is it important in behavior development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-shaping-and-why-is-it-important-in-behavior-development
-related_article5:
     id: 169318
-    title: Why is measuring the duration of behavior relevant to behavior modification?
+    title: >-
+        Why is measuring the duration of behavior relevant to behavior modification?
     subject: Psychology
     url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
+related_article2:
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article3:
+    id: 169330
+    title: >-
+        What are some common behavior shaping techniques and how are they selected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-behavior-shaping-techniques-and-how-are-they-selected
+related_article4:
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
+related_article5:
+    id: 169326
+    title: >-
+        What are the steps involved in skill acquisition and how does reinforcement play a role?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
 ---
 
 &nbsp;

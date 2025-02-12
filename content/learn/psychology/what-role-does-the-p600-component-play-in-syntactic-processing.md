@@ -2,8 +2,10 @@
 _schema: default
 id: 164714
 date: 2025-01-28
-title: What role does the P-600 component play in syntactic processing?
-article_title: What role does the P-600 component play in syntactic processing?
+title: >-
+    What role does the P-600 component play in syntactic processing?
+article_title: >-
+    What role does the P-600 component play in syntactic processing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-the-p600-component-play-in-syntactic-processing.md
 url: /learn/psychology/questions/what-role-does-the-p600-component-play-in-syntactic-processing
 score: -1.0
 related_article1:
-    id: 164720
-    title: What are the key symptoms and neuropathological features of Alzheimer's disease?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-symptoms-and-neuropathological-features-of-alzheimers-disease
-related_article2:
-    id: 164712
-    title: What is the difference between syntax and semantics in language processing?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
-related_article3:
-    id: 164731
-    title: What is the significance of signal detection in vigilance tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-signal-detection-in-vigilance-tasks
-related_article4:
-    id: 164721
-    title: How do anterograde and retrograde amnesia differ in terms of memory loss?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-anterograde-and-retrograde-amnesia-differ-in-terms-of-memory-loss
-related_article5:
     id: 164738
-    title: What are the common causes and effects of traumatic brain injury on cognitive function?
+    title: >-
+        What are the common causes and effects of traumatic brain injury on cognitive function?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury-on-cognitive-function
+related_article2:
+    id: 164726
+    title: >-
+        How does the amygdala contribute to emotional processing in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-amygdala-contribute-to-emotional-processing-in-the-brain
+related_article3:
+    id: 164730
+    title: >-
+        How does divided attention impact multitasking abilities?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-divided-attention-impact-multitasking-abilities
+related_article4:
+    id: 164712
+    title: >-
+        What is the difference between syntax and semantics in language processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-syntax-and-semantics-in-language-processing
+related_article5:
+    id: 164724
+    title: >-
+        What functions are primarily associated with the hippocampus in cognitive neuroscience?
+    subject: Psychology
+    url: /learn/psychology/questions/what-functions-are-primarily-associated-with-the-hippocampus-in-cognitive-neuroscience
 ---
 
 &nbsp;

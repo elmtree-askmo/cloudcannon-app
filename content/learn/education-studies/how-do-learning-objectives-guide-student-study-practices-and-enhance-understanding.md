@@ -2,8 +2,10 @@
 _schema: default
 id: 166898
 date: 2025-01-31
-title: How do learning objectives guide student study practices and enhance understanding?
-article_title: How do learning objectives guide student study practices and enhance understanding?
+title: >-
+    How do learning objectives guide student study practices and enhance understanding?
+article_title: >-
+    How do learning objectives guide student study practices and enhance understanding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-learning-objectives-guide-student-study-practices-and-enhance-
 url: /learn/education-studies/questions/how-do-learning-objectives-guide-student-study-practices-and-enhance-understanding
 score: -1.0
 related_article1:
-    id: 166903
-    title: What is the relationship between attendance and GPA, and why is regular attendance important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
-related_article2:
-    id: 166893
-    title: What is the scope of discipline-based educational research and why is it important in biology education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-scope-of-disciplinebased-educational-research-and-why-is-it-important-in-biology-education
-related_article3:
-    id: 166903
-    title: What is the relationship between attendance and GPA, and why is regular attendance important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
-related_article4:
-    id: 166901
-    title: What are the principles of active learning and how do they engage students in meaningful activities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
-related_article5:
     id: 166902
-    title: How does formative assessment provide ongoing feedback and monitor student progress?
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
+related_article2:
+    id: 166899
+    title: >-
+        What are the benefits of using Codon Learning courseware in biology education?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
+related_article3:
+    id: 166896
+    title: >-
+        How can trend analysis be used to interpret data effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
+related_article4:
+    id: 166897
+    title: >-
+        Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
+related_article5:
+    id: 166903
+    title: >-
+        What is the relationship between attendance and GPA, and why is regular attendance important?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
 ---
 
 &nbsp;

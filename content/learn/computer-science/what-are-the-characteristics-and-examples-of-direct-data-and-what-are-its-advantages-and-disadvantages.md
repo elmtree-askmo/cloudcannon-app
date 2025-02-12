@@ -2,8 +2,10 @@
 _schema: default
 id: 161686
 date: 2025-01-24
-title: What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
-article_title: What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
+title: >-
+    What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
+article_title: >-
+    What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-and-examples-of-direct-data-and-what-are
 url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-direct-data-and-what-are-its-advantages-and-disadvantages
 score: -1.0
 related_article1:
-    id: 161506
-    title: What is a parity check and what are its limitations in error detection?
+    id: 161434
+    title: >-
+        Why is the age of information crucial, and what factors can affect how up-to-date information is?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
+    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
 related_article2:
-    id: 161698
-    title: What are the characteristics of real-time processing, and why is it important?
+    id: 161695
+    title: >-
+        What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-realtime-processing-and-why-is-it-important
+    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
 related_article3:
-    id: 161696
-    title: What are the characteristics of batch processing, and what are its advantages and disadvantages?
+    id: 161501
+    title: >-
+        What are the characteristics of batch processing and what are its advantages and disadvantages?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
 related_article4:
-    id: 161436
-    title: What is the significance of completeness in information quality, and what factors can affect it?
+    id: 161502
+    title: >-
+        How does online processing differ from batch processing and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-completeness-in-information-quality-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/how-does-online-processing-differ-from-batch-processing-and-what-are-its-benefits
 related_article5:
-    id: 161434
-    title: Why is the age of information crucial, and what factors can affect how up-to-date information is?
+    id: 161505
+    title: >-
+        How does data verification ensure data accuracy and what are the methods used?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
+    url: /learn/computer-science/questions/how-does-data-verification-ensure-data-accuracy-and-what-are-the-methods-used
 ---
 
 &nbsp;

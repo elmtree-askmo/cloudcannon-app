@@ -2,8 +2,10 @@
 _schema: default
 id: 162111
 date: 2025-01-25
-title: How do you perform multiplication with negative numbers?
-article_title: How do you perform multiplication with negative numbers?
+title: >-
+    How do you perform multiplication with negative numbers?
+article_title: >-
+    How do you perform multiplication with negative numbers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-you-perform-multiplication-with-negative-numbers.md
 url: /learn/mathematics/questions/how-do-you-perform-multiplication-with-negative-numbers
 score: -1.0
 related_article1:
-    id: 162102
-    title: What is the importance of understanding mathematical concepts in real life?
+    id: 162124
+    title: >-
+        What is the first step in problem-solving, and why is it important?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-first-step-in-problemsolving-and-why-is-it-important
+related_article2:
+    id: 162114
+    title: >-
+        What is the importance of understanding mathematical concepts in real life?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-importance-of-understanding-mathematical-concepts-in-real-life
-related_article2:
-    id: 162119
-    title: Explain the role of the 'X' value in equations.
-    subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-role-of-the-x-value-in-equations
 related_article3:
-    id: 162118
-    title: What is the significance of polynomials in advanced algebraic concepts?
+    id: 162106
+    title: >-
+        What is the role of variables in algebraic expressions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-polynomials-in-advanced-algebraic-concepts
+    url: /learn/mathematics/questions/what-is-the-role-of-variables-in-algebraic-expressions
 related_article4:
-    id: 162112
-    title: What is an example of a real-world application of negative numbers?
+    id: 162120
+    title: >-
+        Describe the isolation method for finding the value of X in an equation.
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-an-example-of-a-realworld-application-of-negative-numbers
+    url: /learn/mathematics/questions/describe-the-isolation-method-for-finding-the-value-of-x-in-an-equation
 related_article5:
     id: 162104
-    title: How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
+    title: >-
+        How do addition and subtraction differ from multiplication and division in terms of core mathematical operations?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-addition-and-subtraction-differ-from-multiplication-and-division-in-terms-of-core-mathematical-operations
 ---

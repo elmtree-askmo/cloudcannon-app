@@ -2,8 +2,10 @@
 _schema: default
 id: 170098
 date: 2025-02-05
-title: What innovations did Dr. Seuss introduce to children's book illustration post-World War II?
-article_title: What innovations did Dr. Seuss introduce to children's book illustration post-World War II?
+title: >-
+    What innovations did Dr. Seuss introduce to children's book illustration post-World War II?
+article_title: >-
+    What innovations did Dr. Seuss introduce to children's book illustration post-World War II?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-innovations-did-dr-seuss-introduce-to-childrens-book-illustratio
 url: /learn/education-studies/questions/what-innovations-did-dr-seuss-introduce-to-childrens-book-illustration-postworld-war-ii
 score: -1.0
 related_article1:
-    id: 170103
-    title: How have cultural and social changes influenced the diversity and representation in children's literature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-have-cultural-and-social-changes-influenced-the-diversity-and-representation-in-childrens-literature
-related_article2:
-    id: 170106
-    title: What role do pioneers in inclusive illustration play in representing ethnic and racial diversity in children's books?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-pioneers-in-inclusive-illustration-play-in-representing-ethnic-and-racial-diversity-in-childrens-books
-related_article3:
     id: 170099
-    title: How do Beatrix Potter's detailed illustrations differ from Gyo Fujikawa's inclusive art in classic children's book styles?
+    title: >-
+        How do Beatrix Potter's detailed illustrations differ from Gyo Fujikawa's inclusive art in classic children's book styles?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-beatrix-potters-detailed-illustrations-differ-from-gyo-fujikawas-inclusive-art-in-classic-childrens-book-styles
+related_article2:
+    id: 170101
+    title: >-
+        How does minimalism in children's book illustration convey emotion with simple character design?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-minimalism-in-childrens-book-illustration-convey-emotion-with-simple-character-design
+related_article3:
+    id: 170107
+    title: >-
+        How do painterly and realistic styles in children's literature differ from abstract and surreal styles?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-painterly-and-realistic-styles-in-childrens-literature-differ-from-abstract-and-surreal-styles
 related_article4:
-    id: 170104
-    title: What are the challenges and opportunities associated with the transition from print to digital children's books?
+    id: 170097
+    title: >-
+        How did John Newbery contribute to the rise of modern children's books?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-and-opportunities-associated-with-the-transition-from-print-to-digital-childrens-books
+    url: /learn/education-studies/questions/how-did-john-newbery-contribute-to-the-rise-of-modern-childrens-books
 related_article5:
-    id: 170104
-    title: What are the challenges and opportunities associated with the transition from print to digital children's books?
+    id: 170099
+    title: >-
+        How do Beatrix Potter's detailed illustrations differ from Gyo Fujikawa's inclusive art in classic children's book styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-and-opportunities-associated-with-the-transition-from-print-to-digital-childrens-books
+    url: /learn/education-studies/questions/how-do-beatrix-potters-detailed-illustrations-differ-from-gyo-fujikawas-inclusive-art-in-classic-childrens-book-styles
 ---
 
 &nbsp;

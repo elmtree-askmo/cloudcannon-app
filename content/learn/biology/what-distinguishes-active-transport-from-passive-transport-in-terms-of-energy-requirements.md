@@ -2,8 +2,10 @@
 _schema: default
 id: 167185
 date: 2025-01-31
-title: What distinguishes active transport from passive transport in terms of energy requirements?
-article_title: What distinguishes active transport from passive transport in terms of energy requirements?
+title: >-
+    What distinguishes active transport from passive transport in terms of energy requirements?
+article_title: >-
+    What distinguishes active transport from passive transport in terms of energy requirements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-active-transport-from-passive-transport-in-terms-o
 url: /learn/biology/questions/what-distinguishes-active-transport-from-passive-transport-in-terms-of-energy-requirements
 score: -1.0
 related_article1:
-    id: 167193
-    title: What factors affect membrane permeability and how do they influence transport?
+    id: 167187
+    title: >-
+        What factors determine the specificity and selectivity of channel proteins?
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-membrane-permeability-and-how-do-they-influence-transport
+    url: /learn/biology/questions/what-factors-determine-the-specificity-and-selectivity-of-channel-proteins
 related_article2:
-    id: 167181
-    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    id: 167188
+    title: >-
+        Describe the role of carrier proteins in facilitated diffusion.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+    url: /learn/biology/questions/describe-the-role-of-carrier-proteins-in-facilitated-diffusion
 related_article3:
-    id: 167190
-    title: How do pumps function in active transport, and what is their energy source?
+    id: 167189
+    title: >-
+        What is the mechanism of action for carrier proteins during facilitated diffusion?
     subject: Biology
-    url: /learn/biology/questions/how-do-pumps-function-in-active-transport-and-what-is-their-energy-source
+    url: /learn/biology/questions/what-is-the-mechanism-of-action-for-carrier-proteins-during-facilitated-diffusion
 related_article4:
-    id: 167181
-    title: What is the primary role of transport proteins in membrane transport mechanisms?
+    id: 167182
+    title: >-
+        How do transport proteins facilitate the movement of ions across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-role-of-transport-proteins-in-membrane-transport-mechanisms
+    url: /learn/biology/questions/how-do-transport-proteins-facilitate-the-movement-of-ions-across-the-cell-membrane
 related_article5:
-    id: 167195
-    title: How do concentration gradients influence the direction and rate of transport mechanisms?
+    id: 167192
+    title: >-
+        Describe the process of endocytosis and the types of materials it transports.
     subject: Biology
-    url: /learn/biology/questions/how-do-concentration-gradients-influence-the-direction-and-rate-of-transport-mechanisms
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-the-types-of-materials-it-transports
 ---
 
 &nbsp;

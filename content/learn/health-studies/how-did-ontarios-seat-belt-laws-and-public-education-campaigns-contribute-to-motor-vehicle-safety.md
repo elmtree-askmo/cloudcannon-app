@@ -2,8 +2,10 @@
 _schema: default
 id: 162342
 date: 2025-01-25
-title: How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
-article_title: How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
+title: >-
+    How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
+article_title: >-
+    How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contri
 url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
 score: -1.0
 related_article1:
-    id: 162318
-    title: How did Edward Playter influence sanitary reforms in the late 19th century?
+    id: 162345
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
+    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
 related_article2:
-    id: 162323
-    title: What educational initiatives were introduced to address the challenges of venereal diseases during the early 20th century?
+    id: 162348
+    title: >-
+        How did the 1985 Non-Smokers Health Act address smoking prohibition in federal buildings and workplaces?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-educational-initiatives-were-introduced-to-address-the-challenges-of-venereal-diseases-during-the-early-20th-century
+    url: /learn/health-studies/questions/how-did-the-1985-nonsmokers-health-act-address-smoking-prohibition-in-federal-buildings-and-workplaces
 related_article3:
-    id: 162340
-    title: What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
+    id: 162345
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
+    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
 related_article4:
-    id: 162333
-    title: What was the role of charitable organizations in responding to tuberculosis and polio control efforts in the 1920s?
+    id: 162349
+    title: >-
+        What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-was-the-role-of-charitable-organizations-in-responding-to-tuberculosis-and-polio-control-efforts-in-the-1920s
+    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
 related_article5:
-    id: 162336
-    title: What were the key nutrition initiatives and food safety programs expanded during World War II?
+    id: 162348
+    title: >-
+        How did the 1985 Non-Smokers Health Act address smoking prohibition in federal buildings and workplaces?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
+    url: /learn/health-studies/questions/how-did-the-1985-nonsmokers-health-act-address-smoking-prohibition-in-federal-buildings-and-workplaces
 ---
 
 &nbsp;

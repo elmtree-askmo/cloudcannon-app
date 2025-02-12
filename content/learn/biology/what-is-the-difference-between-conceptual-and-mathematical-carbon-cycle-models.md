@@ -2,8 +2,10 @@
 _schema: default
 id: 170305
 date: 2025-02-06
-title: What is the difference between conceptual and mathematical carbon cycle models?
-article_title: What is the difference between conceptual and mathematical carbon cycle models?
+title: >-
+    What is the difference between conceptual and mathematical carbon cycle models?
+article_title: >-
+    What is the difference between conceptual and mathematical carbon cycle models?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-conceptual-and-mathematical-carbon-cyc
 url: /learn/biology/questions/what-is-the-difference-between-conceptual-and-mathematical-carbon-cycle-models
 score: -1.0
 related_article1:
-    id: 170304
-    title: Why are carbon cycle models important for understanding and predicting environmental changes?
+    id: 170299
+    title: >-
+        How do natural and human-derived sources contribute to the global carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+    url: /learn/biology/questions/how-do-natural-and-humanderived-sources-contribute-to-the-global-carbon-cycle
 related_article2:
-    id: 170308
-    title: What are some conservation efforts aimed at mitigating climate change?
+    id: 170307
+    title: >-
+        What is the greenhouse effect, and how does it relate to global warming?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
+    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
 related_article3:
     id: 170298
-    title: What are the two main stages of photosynthesis, and where do they occur?
+    title: >-
+        What are the two main stages of photosynthesis, and where do they occur?
     subject: Biology
     url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
 related_article4:
-    id: 170301
-    title: How do producers and consumers contribute to energy flow in ecosystems?
+    id: 170304
+    title: >-
+        Why are carbon cycle models important for understanding and predicting environmental changes?
     subject: Biology
-    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
+    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
 related_article5:
-    id: 170297
-    title: Where in the cell does the Krebs cycle occur, and what is its primary function?
+    id: 170303
+    title: >-
+        How does deforestation affect carbon release and habitat loss?
     subject: Biology
-    url: /learn/biology/questions/where-in-the-cell-does-the-krebs-cycle-occur-and-what-is-its-primary-function
+    url: /learn/biology/questions/how-does-deforestation-affect-carbon-release-and-habitat-loss
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165648
 date: 2025-01-29
-title: What are the main differences between HTTP and HTTPS in terms of security?
-article_title: What are the main differences between HTTP and HTTPS in terms of security?
+title: >-
+    What are the main differences between HTTP and HTTPS in terms of security?
+article_title: >-
+    What are the main differences between HTTP and HTTPS in terms of security?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-differences-between-http-and-https-in-terms-of-secu
 url: /learn/computer-science/questions/what-are-the-main-differences-between-http-and-https-in-terms-of-security
 score: -1.0
 related_article1:
-    id: 165650
-    title: What are the differences between POP and IMAP protocols?
+    id: 165652
+    title: >-
+        What are the steps involved in the DHCP process for dynamic address assignment?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
 related_article2:
-    id: 165643
-    title: How does DNS facilitate domain name resolution?
+    id: 165642
+    title: >-
+        What are the key specifications of TCP/IP Application Layer protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-dns-facilitate-domain-name-resolution
+    url: /learn/computer-science/questions/what-are-the-key-specifications-of-tcpip-application-layer-protocols
 related_article3:
+    id: 165642
+    title: >-
+        What are the key specifications of TCP/IP Application Layer protocols?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-specifications-of-tcpip-application-layer-protocols
+related_article4:
     id: 165654
-    title: What functions does the Server Message Block (SMB) protocol provide?
+    title: >-
+        What functions does the Server Message Block (SMB) protocol provide?
     subject: Computer Science
     url: /learn/computer-science/questions/what-functions-does-the-server-message-block-smb-protocol-provide
-related_article4:
-    id: 165653
-    title: How do FTP clients and servers interact during a file transfer?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-ftp-clients-and-servers-interact-during-a-file-transfer
 related_article5:
-    id: 165647
-    title: How does HTTP interpret a URL?
+    id: 165641
+    title: >-
+        What is the function of the Session Layer in managing information exchange?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-http-interpret-a-url
+    url: /learn/computer-science/questions/what-is-the-function-of-the-session-layer-in-managing-information-exchange
 ---
 
 &nbsp;

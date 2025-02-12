@@ -2,8 +2,10 @@
 _schema: default
 id: 162873
 date: 2025-01-25
-title: What are the legal outcomes of dangerous driving and negligence in traffic offenses?
-article_title: What are the legal outcomes of dangerous driving and negligence in traffic offenses?
+title: >-
+    What are the legal outcomes of dangerous driving and negligence in traffic offenses?
+article_title: >-
+    What are the legal outcomes of dangerous driving and negligence in traffic offenses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-legal-outcomes-of-dangerous-driving-and-negligence-in-tr
 url: /learn/criminal-or-civil-law/questions/what-are-the-legal-outcomes-of-dangerous-driving-and-negligence-in-traffic-offenses
 score: -1.0
 related_article1:
-    id: 162877
-    title: How do cultural and legal differences impact international driving norms?
+    id: 162864
+    title: >-
+        How does moral blameworthiness differ from legal standards in driving cases?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-cultural-and-legal-differences-impact-international-driving-norms
+    url: /learn/criminal-or-civil-law/questions/how-does-moral-blameworthiness-differ-from-legal-standards-in-driving-cases
 related_article2:
-    id: 162871
-    title: What are the key differences between recklessness and negligence in traffic law?
+    id: 162876
+    title: >-
+        What legal measures can enhance traffic safety?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-recklessness-and-negligence-in-traffic-law
+    url: /learn/criminal-or-civil-law/questions/what-legal-measures-can-enhance-traffic-safety
 related_article3:
-    id: 162870
-    title: How is recklessness legally defined in traffic law, and what are its consequences?
+    id: 162881
+    title: >-
+        What are the common traffic offenses and their legal consequences?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-recklessness-legally-defined-in-traffic-law-and-what-are-its-consequences
+    url: /learn/criminal-or-civil-law/questions/what-are-the-common-traffic-offenses-and-their-legal-consequences
 related_article4:
+    id: 162880
+    title: >-
+        What factors influence judicial decision-making in traffic cases?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-factors-influence-judicial-decisionmaking-in-traffic-cases
+related_article5:
     id: 162871
-    title: What are the key differences between recklessness and negligence in traffic law?
+    title: >-
+        What are the key differences between recklessness and negligence in traffic law?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-key-differences-between-recklessness-and-negligence-in-traffic-law
-related_article5:
-    id: 162882
-    title: How are legal standards of care applied in traffic law?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-are-legal-standards-of-care-applied-in-traffic-law
 ---
 
 &nbsp;

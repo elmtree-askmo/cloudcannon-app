@@ -2,8 +2,10 @@
 _schema: default
 id: 169248
 date: 2025-02-04
-title: What is the start time and duration of the quiz?
-article_title: What is the start time and duration of the quiz?
+title: >-
+    What is the start time and duration of the quiz?
+article_title: >-
+    What is the start time and duration of the quiz?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-start-time-and-duration-of-the-quiz.md
 url: /learn/education-studies/questions/what-is-the-start-time-and-duration-of-the-quiz
 score: -1.0
 related_article1:
-    id: 169258
-    title: Which areas of course content are emphasized in the quiz, and which are excluded?
+    id: 169251
+    title: >-
+        How many multiple choice questions are there, and what is the marking scheme?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
+    url: /learn/education-studies/questions/how-many-multiple-choice-questions-are-there-and-what-is-the-marking-scheme
 related_article2:
-    id: 169258
-    title: Which areas of course content are emphasized in the quiz, and which are excluded?
+    id: 169260
+    title: >-
+        How is feedback provided to students based on the assessment criteria?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
+    url: /learn/education-studies/questions/how-is-feedback-provided-to-students-based-on-the-assessment-criteria
 related_article3:
-    id: 169256
-    title: What are the requirements for completeness and support in short essay answers?
+    id: 169261
+    title: >-
+        What constitutes academic misconduct in terms of remote participation and unauthorized computer use?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
+    url: /learn/education-studies/questions/what-constitutes-academic-misconduct-in-terms-of-remote-participation-and-unauthorized-computer-use
 related_article4:
-    id: 169253
-    title: How many terms are included in the definitions section, and what criteria are used for their selection?
+    id: 169254
+    title: >-
+        What are the two formats for answering definition questions, and how do they differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-many-terms-are-included-in-the-definitions-section-and-what-criteria-are-used-for-their-selection
+    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
 related_article5:
-    id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
+    id: 169249
+    title: >-
+        What are the requirements for conducting the quiz in-class and the use of computers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
+    url: /learn/education-studies/questions/what-are-the-requirements-for-conducting-the-quiz-inclass-and-the-use-of-computers
 ---
 
 &nbsp;

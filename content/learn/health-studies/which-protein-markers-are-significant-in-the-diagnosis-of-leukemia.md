@@ -2,8 +2,10 @@
 _schema: default
 id: 166293
 date: 2025-01-30
-title: Which protein markers are significant in the diagnosis of leukemia?
-article_title: Which protein markers are significant in the diagnosis of leukemia?
+title: >-
+    Which protein markers are significant in the diagnosis of leukemia?
+article_title: >-
+    Which protein markers are significant in the diagnosis of leukemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: which-protein-markers-are-significant-in-the-diagnosis-of-leukemia.md
 url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
 score: -1.0
 related_article1:
-    id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
+    id: 166296
+    title: >-
+        How do chemical and drug exposures increase the risk of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
+    url: /learn/health-studies/questions/how-do-chemical-and-drug-exposures-increase-the-risk-of-leukemia
 related_article2:
-    id: 166302
-    title: How does the consolidation phase differ from the induction phase in leukemia treatment?
+    id: 166292
+    title: >-
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 related_article3:
-    id: 166311
-    title: What is the role of chemotherapy in the treatment of lymphoma?
+    id: 166315
+    title: >-
+        What are the causes and symptoms of leukopenia and neutropenia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
+    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
 related_article4:
-    id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
+    id: 166307
+    title: >-
+        How do solid tumors form in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
+    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
 related_article5:
-    id: 166289
-    title: What are the key changes in the bone marrow associated with leukemia pathophysiology?
+    id: 166300
+    title: >-
+        How does organ infiltration present in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
+    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
 ---
 
 &nbsp;

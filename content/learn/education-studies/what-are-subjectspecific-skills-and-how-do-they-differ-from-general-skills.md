@@ -2,8 +2,10 @@
 _schema: default
 id: 168457
 date: 2025-02-03
-title: What are subject-specific skills and how do they differ from general skills?
-article_title: What are subject-specific skills and how do they differ from general skills?
+title: >-
+    What are subject-specific skills and how do they differ from general skills?
+article_title: >-
+    What are subject-specific skills and how do they differ from general skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-subjectspecific-skills-and-how-do-they-differ-from-general-s
 url: /learn/education-studies/questions/what-are-subjectspecific-skills-and-how-do-they-differ-from-general-skills
 score: -1.0
 related_article1:
-    id: 168465
-    title: How do interpersonal skills contribute to career success?
+    id: 168459
+    title: >-
+        Why is it important to reflect on interests and aptitudes during self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-interpersonal-skills-contribute-to-career-success
+    url: /learn/education-studies/questions/why-is-it-important-to-reflect-on-interests-and-aptitudes-during-selfassessment
 related_article2:
-    id: 168471
-    title: Why might values change over time?
+    id: 168461
+    title: >-
+        What traits are commonly suited for specific careers?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-might-values-change-over-time
+    url: /learn/education-studies/questions/what-traits-are-commonly-suited-for-specific-careers
 related_article3:
-    id: 168470
-    title: How can individuals identify their true values?
+    id: 168468
+    title: >-
+        How can family and friends influence an individual's values?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
+    url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
 related_article4:
-    id: 168458
-    title: How can the Skills Matcher Tool assist in self-assessment?
+    id: 168469
+    title: >-
+        What is the role of media in shaping values?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-skills-matcher-tool-assist-in-selfassessment
+    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
 related_article5:
-    id: 168454
-    title: What are values and how do they influence career choices?
+    id: 168469
+    title: >-
+        What is the role of media in shaping values?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
+    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
 ---
 
 &nbsp;

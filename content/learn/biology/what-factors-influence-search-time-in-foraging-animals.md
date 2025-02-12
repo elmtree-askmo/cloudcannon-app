@@ -2,8 +2,10 @@
 _schema: default
 id: 170895
 date: 2025-02-07
-title: What factors influence search time in foraging animals?
-article_title: What factors influence search time in foraging animals?
+title: >-
+    What factors influence search time in foraging animals?
+article_title: >-
+    What factors influence search time in foraging animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-search-time-in-foraging-animals.md
 url: /learn/biology/questions/what-factors-influence-search-time-in-foraging-animals
 score: -1.0
 related_article1:
-    id: 170897
-    title: What are some common predator strategies in predator-prey dynamics?
-    subject: Biology
-    url: /learn/biology/questions/what-are-some-common-predator-strategies-in-predatorprey-dynamics
-related_article2:
-    id: 170896
-    title: How does handling time relate to prey size in foraging theory?
-    subject: Biology
-    url: /learn/biology/questions/how-does-handling-time-relate-to-prey-size-in-foraging-theory
-related_article3:
     id: 170898
-    title: How do prey evasion tactics impact predator-prey interactions?
+    title: >-
+        How do prey evasion tactics impact predator-prey interactions?
     subject: Biology
     url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
-related_article4:
+related_article2:
     id: 170899
-    title: What is the Marginal Value Theorem in optimal foraging theory?
+    title: >-
+        What is the Marginal Value Theorem in optimal foraging theory?
     subject: Biology
     url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-foraging-theory
-related_article5:
-    id: 170903
-    title: What are some techniques used to measure energy expenditure in animals?
+related_article3:
+    id: 170901
+    title: >-
+        What cognitive processes are involved in animal decision-making?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-techniques-used-to-measure-energy-expenditure-in-animals
+    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
+related_article4:
+    id: 170908
+    title: >-
+        What is the significance of adaptation and fitness in behavioral ecology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
+related_article5:
+    id: 170907
+    title: >-
+        How does behavioral ecology relate to evolutionary biology?
+    subject: Biology
+    url: /learn/biology/questions/how-does-behavioral-ecology-relate-to-evolutionary-biology
 ---
 
 &nbsp;

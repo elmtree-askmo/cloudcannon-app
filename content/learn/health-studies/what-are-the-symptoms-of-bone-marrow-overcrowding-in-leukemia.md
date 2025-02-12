@@ -2,8 +2,10 @@
 _schema: default
 id: 166298
 date: 2025-01-30
-title: What are the symptoms of bone marrow overcrowding in leukemia?
-article_title: What are the symptoms of bone marrow overcrowding in leukemia?
+title: >-
+    What are the symptoms of bone marrow overcrowding in leukemia?
+article_title: >-
+    What are the symptoms of bone marrow overcrowding in leukemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia.md
 url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 score: -1.0
 related_article1:
-    id: 166312
-    title: How does monoclonal antibody therapy work in treating lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
-related_article2:
-    id: 166293
-    title: Which protein markers are significant in the diagnosis of leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
-related_article3:
-    id: 166311
-    title: What is the role of chemotherapy in the treatment of lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
-related_article4:
-    id: 166308
-    title: What are the clinical manifestations of lymph node enlargement in lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
-related_article5:
     id: 166315
-    title: What are the causes and symptoms of leukopenia and neutropenia?
+    title: >-
+        What are the causes and symptoms of leukopenia and neutropenia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+related_article2:
+    id: 166289
+    title: >-
+        What are the key changes in the bone marrow associated with leukemia pathophysiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-changes-in-the-bone-marrow-associated-with-leukemia-pathophysiology
+related_article3:
+    id: 166306
+    title: >-
+        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
+related_article4:
+    id: 166295
+    title: >-
+        What are the primary risk factors for developing leukemia related to radiation exposure?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
+related_article5:
+    id: 166293
+    title: >-
+        Which protein markers are significant in the diagnosis of leukemia?
+    subject: Health Studies
+    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
 ---
 
 &nbsp;

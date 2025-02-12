@@ -2,8 +2,10 @@
 _schema: default
 id: 167989
 date: 2025-02-02
-title: Provide an example of how a cognitive schema might be adapted through assimilation and accommodation.
-article_title: Provide an example of how a cognitive schema might be adapted through assimilation and accommodation.
+title: >-
+    Provide an example of how a cognitive schema might be adapted through assimilation and accommodation.
+article_title: >-
+    Provide an example of how a cognitive schema might be adapted through assimilation and accommodation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-how-a-cognitive-schema-might-be-adapted-through
 url: /learn/education-studies/questions/provide-an-example-of-how-a-cognitive-schema-might-be-adapted-through-assimilation-and-accommodation
 score: -1.0
 related_article1:
-    id: 167987
-    title: Explain the processes of assimilation and accommodation in cognitive development.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
-related_article2:
-    id: 167984
-    title: What is the role of biological maturation in cognitive development according to constructivist theory?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-biological-maturation-in-cognitive-development-according-to-constructivist-theory
-related_article3:
-    id: 167993
-    title: How do social interactions, particularly with peers, impact cognitive development according to critiques of Piaget's theory?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-interactions-particularly-with-peers-impact-cognitive-development-according-to-critiques-of-piagets-theory
-related_article4:
-    id: 167990
-    title: Describe the discontinuous nature of Piaget's universal stages of development.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-discontinuous-nature-of-piagets-universal-stages-of-development
-related_article5:
     id: 167992
-    title: What are some critiques of Piaget's theory regarding the underestimation of infants' and young children's abilities?
+    title: >-
+        What are some critiques of Piaget's theory regarding the underestimation of infants' and young children's abilities?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-critiques-of-piagets-theory-regarding-the-underestimation-of-infants-and-young-childrens-abilities
+related_article2:
+    id: 167990
+    title: >-
+        Describe the discontinuous nature of Piaget's universal stages of development.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-discontinuous-nature-of-piagets-universal-stages-of-development
+related_article3:
+    id: 167992
+    title: >-
+        What are some critiques of Piaget's theory regarding the underestimation of infants' and young children's abilities?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-critiques-of-piagets-theory-regarding-the-underestimation-of-infants-and-young-childrens-abilities
+related_article4:
+    id: 167987
+    title: >-
+        Explain the processes of assimilation and accommodation in cognitive development.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
+related_article5:
+    id: 167986
+    title: >-
+        What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-innate-drive-for-equilibrium-in-cognitive-development-and-how-does-it-motivate-adaptation
 ---
 
 &nbsp;

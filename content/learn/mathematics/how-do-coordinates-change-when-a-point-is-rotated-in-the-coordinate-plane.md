@@ -2,8 +2,10 @@
 _schema: default
 id: 162238
 date: 2025-01-25
-title: How do coordinates change when a point is rotated in the coordinate plane?
-article_title: How do coordinates change when a point is rotated in the coordinate plane?
+title: >-
+    How do coordinates change when a point is rotated in the coordinate plane?
+article_title: >-
+    How do coordinates change when a point is rotated in the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-p
 url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 score: -1.0
 related_article1:
-    id: 162237
-    title: What is the center of rotation, and why is it important in transformations?
+    id: 162606
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-center-of-rotation-and-why-is-it-important-in-transformations
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 related_article2:
-    id: 162497
-    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    id: 162242
+    title: >-
+        How does reflection affect the orientation of a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+    url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 related_article3:
-    id: 162596
-    title: What are the three main types of transformations in geometry?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-three-main-types-of-transformations-in-geometry
-related_article4:
     id: 162486
-    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    title: >-
+        How do clockwise and counterclockwise rotations differ in terms of direction?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
-related_article5:
-    id: 162484
-    title: How do transformations affect the size and shape of geometric figures?
+related_article4:
+    id: 162503
+    title: >-
+        What are the key properties of two-dimensional transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-transformations-affect-the-size-and-shape-of-geometric-figures
+    url: /learn/mathematics/questions/what-are-the-key-properties-of-twodimensional-transformations
+related_article5:
+    id: 162251
+    title: >-
+        How do two-dimensional transformations preserve the properties of geometric figures?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-twodimensional-transformations-preserve-the-properties-of-geometric-figures
 ---
 
 &nbsp;

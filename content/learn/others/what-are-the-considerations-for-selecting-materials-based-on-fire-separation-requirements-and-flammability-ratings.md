@@ -2,8 +2,10 @@
 _schema: default
 id: 168655
 date: 2025-02-03
-title: What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
-article_title: What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
+title: >-
+    What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
+article_title: >-
+    What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-considerations-for-selecting-materials-based-on-fire-sep
 url: /learn/others/questions/what-are-the-considerations-for-selecting-materials-based-on-fire-separation-requirements-and-flammability-ratings
 score: -1.0
 related_article1:
-    id: 168652
-    title: How do interior designers collaborate with architects and engineers in the design and construction team?
+    id: 168662
+    title: >-
+        How do qualified interior designers contribute to creating safe and functional environments?
     subject: Others
-    url: /learn/others/questions/how-do-interior-designers-collaborate-with-architects-and-engineers-in-the-design-and-construction-team
+    url: /learn/others/questions/how-do-qualified-interior-designers-contribute-to-creating-safe-and-functional-environments
 related_article2:
-    id: 168659
-    title: What materials are considered appropriate for walls and ceilings to ensure fire safety?
+    id: 168651
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
     subject: Others
-    url: /learn/others/questions/what-materials-are-considered-appropriate-for-walls-and-ceilings-to-ensure-fire-safety
+    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
 related_article3:
+    id: 168660
+    title: >-
+        What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
+    subject: Others
+    url: /learn/others/questions/what-are-the-essential-elements-of-emergency-egress-planning-particularly-regarding-corridors-and-aisles
+related_article4:
+    id: 168660
+    title: >-
+        What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
+    subject: Others
+    url: /learn/others/questions/what-are-the-essential-elements-of-emergency-egress-planning-particularly-regarding-corridors-and-aisles
+related_article5:
     id: 168654
-    title: How do health and safety regulations influence the welfare of building occupants?
+    title: >-
+        How do health and safety regulations influence the welfare of building occupants?
     subject: Others
     url: /learn/others/questions/how-do-health-and-safety-regulations-influence-the-welfare-of-building-occupants
-related_article4:
-    id: 168657
-    title: What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
-related_article5:
-    id: 168657
-    title: What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
 ---
 
 &nbsp;

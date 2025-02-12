@@ -2,8 +2,10 @@
 _schema: default
 id: 170052
 date: 2025-02-05
-title: How did the evolution of tool technology impact daily life and societal development in ancient times?
-article_title: How did the evolution of tool technology impact daily life and societal development in ancient times?
+title: >-
+    How did the evolution of tool technology impact daily life and societal development in ancient times?
+article_title: >-
+    How did the evolution of tool technology impact daily life and societal development in ancient times?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-evolution-of-tool-technology-impact-daily-life-and-societ
 url: /learn/education-studies/questions/how-did-the-evolution-of-tool-technology-impact-daily-life-and-societal-development-in-ancient-times
 score: -1.0
 related_article1:
-    id: 170056
-    title: What methods and approaches are used in historical anthropology to study ancient societies?
+    id: 170054
+    title: >-
+        What challenges and risks did ancient societies face in terms of environmental dependence and health?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-and-approaches-are-used-in-historical-anthropology-to-study-ancient-societies
+    url: /learn/education-studies/questions/what-challenges-and-risks-did-ancient-societies-face-in-terms-of-environmental-dependence-and-health
 related_article2:
-    id: 170057
-    title: How can lessons from ancient societies contribute to our modern understanding of cultural and societal evolution?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-lessons-from-ancient-societies-contribute-to-our-modern-understanding-of-cultural-and-societal-evolution
-related_article3:
     id: 170047
-    title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+    title: >-
+        How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
+related_article3:
+    id: 170056
+    title: >-
+        What methods and approaches are used in historical anthropology to study ancient societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-and-approaches-are-used-in-historical-anthropology-to-study-ancient-societies
 related_article4:
-    id: 170042
-    title: What are the characteristics of hunting and gathering societies in terms of population density and food resources?
+    id: 170045
+    title: >-
+        How did gender roles and leadership manifest in Paleolithic societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
+    url: /learn/education-studies/questions/how-did-gender-roles-and-leadership-manifest-in-paleolithic-societies
 related_article5:
-    id: 170044
-    title: What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
+    id: 170050
+    title: >-
+        How did ancient societies manage resources to ensure sustainability and environmental balance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-defines-the-paleolithic-era-and-what-were-the-key-characteristics-of-tool-technology-during-this-time
+    url: /learn/education-studies/questions/how-did-ancient-societies-manage-resources-to-ensure-sustainability-and-environmental-balance
 ---
 
 &nbsp;

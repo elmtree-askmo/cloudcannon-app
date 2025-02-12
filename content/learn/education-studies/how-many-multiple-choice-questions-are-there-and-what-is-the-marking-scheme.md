@@ -2,8 +2,10 @@
 _schema: default
 id: 169251
 date: 2025-02-04
-title: How many multiple choice questions are there, and what is the marking scheme?
-article_title: How many multiple choice questions are there, and what is the marking scheme?
+title: >-
+    How many multiple choice questions are there, and what is the marking scheme?
+article_title: >-
+    How many multiple choice questions are there, and what is the marking scheme?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-many-multiple-choice-questions-are-there-and-what-is-the-marking-
 url: /learn/education-studies/questions/how-many-multiple-choice-questions-are-there-and-what-is-the-marking-scheme
 score: -1.0
 related_article1:
-    id: 169255
-    title: How many short essay questions are included, and what is the process for their selection?
+    id: 169263
+    title: >-
+        What identification is required for the test, and what items are prohibited?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-many-short-essay-questions-are-included-and-what-is-the-process-for-their-selection
+    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
 related_article2:
-    id: 169258
-    title: Which areas of course content are emphasized in the quiz, and which are excluded?
+    id: 169259
+    title: >-
+        What are the key components of the marking guidelines in the assessment criteria?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
+    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
 related_article3:
-    id: 169256
-    title: What are the requirements for completeness and support in short essay answers?
+    id: 169257
+    title: >-
+        What are the sources of course content, and how do they relate to the quiz?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
+    url: /learn/education-studies/questions/what-are-the-sources-of-course-content-and-how-do-they-relate-to-the-quiz
 related_article4:
-    id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
+    id: 169264
+    title: >-
+        How do online readings integrate with lectures, and how are they relevant to assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
+    url: /learn/education-studies/questions/how-do-online-readings-integrate-with-lectures-and-how-are-they-relevant-to-assessments
 related_article5:
-    id: 169248
-    title: What is the start time and duration of the quiz?
+    id: 169260
+    title: >-
+        How is feedback provided to students based on the assessment criteria?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-start-time-and-duration-of-the-quiz
+    url: /learn/education-studies/questions/how-is-feedback-provided-to-students-based-on-the-assessment-criteria
 ---
 
 &nbsp;

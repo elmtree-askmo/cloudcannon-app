@@ -2,8 +2,10 @@
 _schema: default
 id: 162999
 date: 2025-01-26
-title: How do inferiority and superiority complexes impact human behavior?
-article_title: How do inferiority and superiority complexes impact human behavior?
+title: >-
+    How do inferiority and superiority complexes impact human behavior?
+article_title: >-
+    How do inferiority and superiority complexes impact human behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-do-inferiority-and-superiority-complexes-im
 score: -1.0
 related_article1:
     id: 163000
-    title: What is the role of social interest in mental health and personality development according to Adlerian therapy?
+    title: >-
+        What is the role of social interest in mental health and personality development according to Adlerian therapy?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
 related_article2:
-    id: 163002
-    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    id: 163005
+    title: >-
+        What are the phases of therapy in Adlerian therapy, and how do they contribute to behavioral change?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+    url: /learn/psychology/questions/what-are-the-phases-of-therapy-in-adlerian-therapy-and-how-do-they-contribute-to-behavioral-change
 related_article3:
-    id: 163008
-    title: How does emotional resilience relate to social connectedness and mental health in Adlerian therapy?
+    id: 163009
+    title: >-
+        What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-emotional-resilience-relate-to-social-connectedness-and-mental-health-in-adlerian-therapy
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
 related_article4:
-    id: 163002
-    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    id: 163009
+    title: >-
+        What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
 related_article5:
-    id: 162997
-    title: How does Adlerian therapy's optimistic view of human nature differ from the emphasis on instinctual drives?
+    id: 163003
+    title: >-
+        How does Adlerian therapy's holistic view of personality integrate thoughts, feelings, and values?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-adlerian-therapys-optimistic-view-of-human-nature-differ-from-the-emphasis-on-instinctual-drives
+    url: /learn/psychology/questions/how-does-adlerian-therapys-holistic-view-of-personality-integrate-thoughts-feelings-and-values
 ---
 
 &nbsp;

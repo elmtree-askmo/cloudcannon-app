@@ -2,8 +2,10 @@
 _schema: default
 id: 169416
 date: 2025-02-05
-title: What resources are available for interior designers seeking job opportunities and professional development?
-article_title: What resources are available for interior designers seeking job opportunities and professional development?
+title: >-
+    What resources are available for interior designers seeking job opportunities and professional development?
+article_title: >-
+    What resources are available for interior designers seeking job opportunities and professional development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-resources-are-available-for-interior-designers-seeking-job-oppor
 url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
 score: -1.0
 related_article1:
-    id: 169403
-    title: What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
+    id: 169399
+    title: >-
+        What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
     subject: Architecture
-    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
+    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
 related_article2:
     id: 169401
-    title: In what ways can architectural design contribute to corporate identity and branding?
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
     subject: Architecture
     url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 related_article3:
-    id: 169415
-    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    id: 169401
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 related_article4:
-    id: 169405
-    title: What role do natural elements play in modern interior design?
+    id: 169402
+    title: >-
+        How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
+    url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
 related_article5:
-    id: 169414
-    title: What are some key terms in interior design that are essential for understanding design concepts?
+    id: 169399
+    title: >-
+        What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
 ---
 
 &nbsp;

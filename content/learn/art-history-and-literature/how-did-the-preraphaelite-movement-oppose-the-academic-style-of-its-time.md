@@ -2,8 +2,10 @@
 _schema: default
 id: 165966
 date: 2025-01-29
-title: How did the Pre-Raphaelite movement oppose the academic style of its time?
-article_title: How did the Pre-Raphaelite movement oppose the academic style of its time?
+title: >-
+    How did the Pre-Raphaelite movement oppose the academic style of its time?
+article_title: >-
+    How did the Pre-Raphaelite movement oppose the academic style of its time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-t
 url: /learn/art-history-and-literature/questions/how-did-the-preraphaelite-movement-oppose-the-academic-style-of-its-time
 score: 9.0
 related_article1:
-    id: 165972
-    title: How does Romanticism's emphasis on emotion and nature manifest in Théodore Géricault's The Raft of Medusa?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-romanticisms-emphasis-on-emotion-and-nature-manifest-in-thodore-gricaults-the-raft-of-medusa
-related_article2:
-    id: 165975
-    title: What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
-related_article3:
     id: 165979
-    title: In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
+    title: >-
+        In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
-related_article4:
-    id: 165968
-    title: How did the rise of social consciousness during the Industrial Revolution influence art?
+related_article2:
+    id: 165973
+    title: >-
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
+related_article3:
+    id: 165967
+    title: >-
+        What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
+related_article4:
+    id: 165975
+    title: >-
+        What techniques define Neo-Impressionism, and how are they applied in George Seurat's A Sunday on La Grande Jatte?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-techniques-define-neoimpressionism-and-how-are-they-applied-in-george-seurats-a-sunday-on-la-grande-jatte
+related_article5:
+    id: 165964
+    title: >-
+        In what ways did artists intellectually engage with industrial innovations and societal changes?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-artists-intellectually-engage-with-industrial-innovations-and-societal-changes
 ---
 
 &nbsp;

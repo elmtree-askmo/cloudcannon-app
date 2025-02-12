@@ -2,8 +2,10 @@
 _schema: default
 id: 167501
 date: 2025-01-31
-title: How does glycogen function as an energy storage molecule in animals?
-article_title: How does glycogen function as an energy storage molecule in animals?
+title: >-
+    How does glycogen function as an energy storage molecule in animals?
+article_title: >-
+    How does glycogen function as an energy storage molecule in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-glycogen-function-as-an-energy-storage-molecule-in-animals.m
 url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
 score: -1.0
 related_article1:
-    id: 167497
-    title: How does a hydrolysis reaction contribute to the breakdown of polymers?
+    id: 167498
+    title: >-
+        What are the key differences between alpha and beta glycosidic bonds?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-a-hydrolysis-reaction-contribute-to-the-breakdown-of-polymers
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
 related_article2:
-    id: 167503
-    title: How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+    id: 167498
+    title: >-
+        What are the key differences between alpha and beta glycosidic bonds?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
 related_article3:
-    id: 167499
-    title: How do monosaccharides differ in their linear and circular forms?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-monosaccharides-differ-in-their-linear-and-circular-forms
-related_article4:
-    id: 167500
-    title: What is the primary function of starch in plants?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
-related_article5:
     id: 167496
-    title: What is the role of dehydration reactions in the formation of biological polymers?
+    title: >-
+        What is the role of dehydration reactions in the formation of biological polymers?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
+related_article4:
+    id: 167503
+    title: >-
+        How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
+related_article5:
+    id: 167498
+    title: >-
+        What are the key differences between alpha and beta glycosidic bonds?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
 ---
 
 &nbsp;

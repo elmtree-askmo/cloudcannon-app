@@ -2,8 +2,10 @@
 _schema: default
 id: 170549
 date: 2025-02-06
-title: Describe the process of glucose regulation in maintaining homeostasis.
-article_title: Describe the process of glucose regulation in maintaining homeostasis.
+title: >-
+    Describe the process of glucose regulation in maintaining homeostasis.
+article_title: >-
+    Describe the process of glucose regulation in maintaining homeostasis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-process-of-glucose-regulation-in-maintaining-homeostasis
 url: /learn/health-studies/questions/describe-the-process-of-glucose-regulation-in-maintaining-homeostasis
 score: -1.0
 related_article1:
-    id: 170547
-    title: How do organ systems contribute to maintaining homeostasis in the body?
+    id: 170550
+    title: >-
+        What mechanisms are involved in temperature regulation within the human body?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-organ-systems-contribute-to-maintaining-homeostasis-in-the-body
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
 related_article2:
-    id: 170551
-    title: How do positive and negative feedback mechanisms differ in physiological processes?
+    id: 170571
+    title: >-
+        How can AI hallucinations impact the use of large language models in education?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-feedback-mechanisms-differ-in-physiological-processes
+    url: /learn/health-studies/questions/how-can-ai-hallucinations-impact-the-use-of-large-language-models-in-education
 related_article3:
-    id: 170560
-    title: What are the primary pathophysiological features of Parkinson's disease?
+    id: 170557
+    title: >-
+        How do steroids and opioids differ in their pharmacological effects?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-pathophysiological-features-of-parkinsons-disease
+    url: /learn/health-studies/questions/how-do-steroids-and-opioids-differ-in-their-pharmacological-effects
 related_article4:
-    id: 170553
-    title: How does neurotransmitter blockage affect nervous system function?
+    id: 170550
+    title: >-
+        What mechanisms are involved in temperature regulation within the human body?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
 related_article5:
-    id: 170555
-    title: Describe the function of the sodium-potassium pump in neuron activity.
+    id: 170575
+    title: >-
+        What is the role of calcium ions in muscle contraction mechanisms?
     subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
+    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 ---
 
 &nbsp;

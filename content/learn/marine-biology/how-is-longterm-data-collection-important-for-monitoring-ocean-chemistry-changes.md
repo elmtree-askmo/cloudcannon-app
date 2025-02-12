@@ -2,8 +2,10 @@
 _schema: default
 id: 167348
 date: 2025-01-31
-title: How is long-term data collection important for monitoring ocean chemistry changes?
-article_title: How is long-term data collection important for monitoring ocean chemistry changes?
+title: >-
+    How is long-term data collection important for monitoring ocean chemistry changes?
+article_title: >-
+    How is long-term data collection important for monitoring ocean chemistry changes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-longterm-data-collection-important-for-monitoring-ocean-chemis
 url: /learn/marine-biology/questions/how-is-longterm-data-collection-important-for-monitoring-ocean-chemistry-changes
 score: -1.0
 related_article1:
-    id: 167341
-    title: What is the primary cause of ocean acidification?
+    id: 167354
+    title: >-
+        How does ocean acidification potentially impact fisheries and coastal communities?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-is-the-primary-cause-of-ocean-acidification
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-potentially-impact-fisheries-and-coastal-communities
 related_article2:
-    id: 167353
-    title: Why are phytoplankton and zooplankton crucial to oceanic food chains?
+    id: 167351
+    title: >-
+        What are the predicted changes in future pH levels based on different emission scenarios?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains
+    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
 related_article3:
+    id: 167349
+    title: >-
+        What impact does ocean acidification have on shell-building organisms like corals and shellfish?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-impact-does-ocean-acidification-have-on-shellbuilding-organisms-like-corals-and-shellfish
+related_article4:
+    id: 167346
+    title: >-
+        How does ocean acidification impact the shells of marine terrapods?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
+related_article5:
     id: 167352
-    title: How do global oceanic trends and regional variations contribute to environmental changes in oceans?
+    title: >-
+        How do global oceanic trends and regional variations contribute to environmental changes in oceans?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-do-global-oceanic-trends-and-regional-variations-contribute-to-environmental-changes-in-oceans
-related_article4:
-    id: 167347
-    title: What are the key research methodologies used by NOAA to study ocean acidification?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
-related_article5:
-    id: 167353
-    title: Why are phytoplankton and zooplankton crucial to oceanic food chains?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains
 ---
 
 &nbsp;

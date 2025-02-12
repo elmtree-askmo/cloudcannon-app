@@ -2,8 +2,10 @@
 _schema: default
 id: 170770
 date: 2025-02-06
-title: What is the logical basis for the justification of induction?
-article_title: What is the logical basis for the justification of induction?
+title: >-
+    What is the logical basis for the justification of induction?
+article_title: >-
+    What is the logical basis for the justification of induction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-logical-basis-for-the-justification-of-induction.md
 url: /learn/mathematics/questions/what-is-the-logical-basis-for-the-justification-of-induction
 score: -1.0
 related_article1:
-    id: 170764
-    title: Provide an example of an inductive proof related to divisibility.
-    subject: Mathematics
-    url: /learn/mathematics/questions/provide-an-example-of-an-inductive-proof-related-to-divisibility
-related_article2:
-    id: 170761
-    title: What is a direct proof, and how does it differ from a proof by contradiction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-direct-proof-and-how-does-it-differ-from-a-proof-by-contradiction
-related_article3:
-    id: 170767
-    title: Why is the base case crucial in a proof by induction?
-    subject: Mathematics
-    url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
-related_article4:
-    id: 170774
-    title: What is the relationship between mathematical axioms and the inductive principle?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-relationship-between-mathematical-axioms-and-the-inductive-principle
-related_article5:
     id: 170769
-    title: Describe a non-example of induction using the Fibonacci sequence.
+    title: >-
+        Describe a non-example of induction using the Fibonacci sequence.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
+related_article2:
+    id: 170759
+    title: >-
+        What distinguishes strong induction from simple induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-strong-induction-from-simple-induction
+related_article3:
+    id: 170763
+    title: >-
+        Define divisibility in mathematics and list its basic properties.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-divisibility-in-mathematics-and-list-its-basic-properties
+related_article4:
+    id: 170769
+    title: >-
+        Describe a non-example of induction using the Fibonacci sequence.
+    subject: Mathematics
+    url: /learn/mathematics/questions/describe-a-nonexample-of-induction-using-the-fibonacci-sequence
+related_article5:
+    id: 170767
+    title: >-
+        Why is the base case crucial in a proof by induction?
+    subject: Mathematics
+    url: /learn/mathematics/questions/why-is-the-base-case-crucial-in-a-proof-by-induction
 ---
 
 &nbsp;

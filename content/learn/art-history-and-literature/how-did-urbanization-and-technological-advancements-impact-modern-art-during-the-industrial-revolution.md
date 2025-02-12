@@ -2,8 +2,10 @@
 _schema: default
 id: 165963
 date: 2025-01-29
-title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
-article_title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+title: >-
+    How did urbanization and technological advancements impact modern art during the Industrial Revolution?
+article_title: >-
+    How did urbanization and technological advancements impact modern art during the Industrial Revolution?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-urbanization-and-technological-advancements-impact-modern-art
 url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
 score: 9.5
 related_article1:
-    id: 165969
-    title: In what ways did political upheaval lead to a shift in power structures and the development of political self-consciousness in art?
+    id: 165976
+    title: >-
+        How did Post-Impressionism's emphasis on structure and form differ from Impressionism, as seen in Paul Cezanne's Still Life with Water Jug?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-political-upheaval-lead-to-a-shift-in-power-structures-and-the-development-of-political-selfconsciousness-in-art
+    url: /learn/art-history-and-literature/questions/how-did-postimpressionisms-emphasis-on-structure-and-form-differ-from-impressionism-as-seen-in-paul-cezannes-still-life-with-water-jug
 related_article2:
-    id: 165965
-    title: What are the key characteristics of Realism and how do they differ from Romanticism?
+    id: 165970
+    title: >-
+        How did artists respond to political systems through their depiction of social realities?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
+    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-political-systems-through-their-depiction-of-social-realities
 related_article3:
-    id: 165974
-    title: How did Impressionism's focus on light and color influence works like Claude Monet's Impression (Sunrise)?
+    id: 165971
+    title: >-
+        What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionisms-focus-on-light-and-color-influence-works-like-claude-monets-impression-sunrise
+    url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
 related_article4:
-    id: 165967
-    title: What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
 related_article5:
     id: 165973
-    title: What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
+    title: >-
+        What are the key characteristics of the Pre-Raphaelite movement, and how are they reflected in John William Waterhouse's The Lady of Shalott?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-the-preraphaelite-movement-and-how-are-they-reflected-in-john-william-waterhouses-the-lady-of-shalott
 ---

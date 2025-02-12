@@ -2,8 +2,10 @@
 _schema: default
 id: 169122
 date: 2025-02-04
-title: What are some common stereotypes about women in architecture portrayed in media?
-article_title: What are some common stereotypes about women in architecture portrayed in media?
+title: >-
+    What are some common stereotypes about women in architecture portrayed in media?
+article_title: >-
+    What are some common stereotypes about women in architecture portrayed in media?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-common-stereotypes-about-women-in-architecture-portraye
 url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
 score: 9.0
 related_article1:
-    id: 169110
-    title: How did migration patterns affect gender inequality in Hong Kong's workforce?
+    id: 169125
+    title: >-
+        How does feminist historiography aim to rewrite women's roles in architectural history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
+    url: /learn/history-of-the-world/questions/how-does-feminist-historiography-aim-to-rewrite-womens-roles-in-architectural-history
 related_article2:
-    id: 169117
-    title: How did colonial patriarchy influence architectural practices and gender roles?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
-related_article3:
-    id: 169117
-    title: How did colonial patriarchy influence architectural practices and gender roles?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
-related_article4:
-    id: 169121
-    title: How is interior design considered a gendered field within architecture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
-related_article5:
     id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+related_article3:
+    id: 169111
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+related_article4:
+    id: 169107
+    title: >-
+        How did postwar developments impact gendered labor dynamics in architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+related_article5:
+    id: 169110
+    title: >-
+        How did migration patterns affect gender inequality in Hong Kong's workforce?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
 ---
 
 &nbsp;

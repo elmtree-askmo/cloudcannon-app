@@ -2,8 +2,10 @@
 _schema: default
 id: 160392
 date: 2025-01-24
-title: What were the distinctive physical and behavioral traits of the Celts?
-article_title: What were the distinctive physical and behavioral traits of the Celts?
+title: >-
+    What were the distinctive physical and behavioral traits of the Celts?
+article_title: >-
+    What were the distinctive physical and behavioral traits of the Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 url: /learn/history-of-the-world/questions/what-were-the-distinctive-physical-and-behavioral-traits-of-the-celts
 score: 9.0
 related_article1:
-    id: 159913
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 160374
+    title: >-
+        What are the defining decorative styles of La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
+    url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 related_article2:
-    id: 160254
-    title: What were the primary military tactics and weaponry used by the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
-related_article3:
-    id: 160386
-    title: What were the primary military tactics and weaponry used by the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-primary-military-tactics-and-weaponry-used-by-the-celts
-related_article4:
-    id: 159880
-    title: What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
-related_article5:
     id: 160175
-    title: How did Celtic architectural styles reflect their settlement patterns?
+    title: >-
+        How did Celtic architectural styles reflect their settlement patterns?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-celtic-architectural-styles-reflect-their-settlement-patterns
+related_article3:
+    id: 160178
+    title: >-
+        What were the key trading centers in Celtic trade networks?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+related_article4:
+    id: 160369
+    title: >-
+        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+related_article5:
+    id: 159900
+    title: >-
+        What impact did natural resources and landscapes have on Celtic society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-impact-did-natural-resources-and-landscapes-have-on-celtic-society
 ---
 
 &nbsp;

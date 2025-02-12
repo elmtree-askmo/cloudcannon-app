@@ -2,8 +2,10 @@
 _schema: default
 id: 168215
 date: 2025-02-03
-title: How does AutoML impact the field of AI and machine learning?
-article_title: How does AutoML impact the field of AI and machine learning?
+title: >-
+    How does AutoML impact the field of AI and machine learning?
+article_title: >-
+    How does AutoML impact the field of AI and machine learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-automl-impact-the-field-of-ai-and-machine-learning.md
 url: /learn/others/questions/how-does-automl-impact-the-field-of-ai-and-machine-learning
 score: -1.0
 related_article1:
-    id: 168200
-    title: Name two popular tools or libraries used for data augmentation.
-    subject: Others
-    url: /learn/others/questions/name-two-popular-tools-or-libraries-used-for-data-augmentation
-related_article2:
-    id: 168195
-    title: What are the key sources of data used in data collection?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-sources-of-data-used-in-data-collection
-related_article3:
-    id: 168200
-    title: Name two popular tools or libraries used for data augmentation.
-    subject: Others
-    url: /learn/others/questions/name-two-popular-tools-or-libraries-used-for-data-augmentation
-related_article4:
-    id: 168212
-    title: How do regression techniques contribute to predictive analysis?
-    subject: Others
-    url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
-related_article5:
     id: 168209
-    title: How do search algorithms contribute to AI problem-solving?
+    title: >-
+        How do search algorithms contribute to AI problem-solving?
     subject: Others
     url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-problemsolving
+related_article2:
+    id: 168208
+    title: >-
+        What are some common applications of sentiment analysis?
+    subject: Others
+    url: /learn/others/questions/what-are-some-common-applications-of-sentiment-analysis
+related_article3:
+    id: 168206
+    title: >-
+        Explain the difference between stemming and lemmatization.
+    subject: Others
+    url: /learn/others/questions/explain-the-difference-between-stemming-and-lemmatization
+related_article4:
+    id: 168200
+    title: >-
+        Name two popular tools or libraries used for data augmentation.
+    subject: Others
+    url: /learn/others/questions/name-two-popular-tools-or-libraries-used-for-data-augmentation
+related_article5:
+    id: 168210
+    title: >-
+        What are the ethical considerations related to bias and fairness in AI?
+    subject: Others
+    url: /learn/others/questions/what-are-the-ethical-considerations-related-to-bias-and-fairness-in-ai
 ---
 
 &nbsp;

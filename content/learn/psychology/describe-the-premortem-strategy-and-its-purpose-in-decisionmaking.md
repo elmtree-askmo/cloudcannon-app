@@ -2,8 +2,10 @@
 _schema: default
 id: 168886
 date: 2025-02-04
-title: Describe the premortem strategy and its purpose in decision-making.
-article_title: Describe the premortem strategy and its purpose in decision-making.
+title: >-
+    Describe the premortem strategy and its purpose in decision-making.
+article_title: >-
+    Describe the premortem strategy and its purpose in decision-making.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-premortem-strategy-and-its-purpose-in-decisionmaking.md
 url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
 score: -1.0
 related_article1:
-    id: 168885
-    title: What role does overconfidence play in financial forecasting?
+    id: 168883
+    title: >-
+        What is the planning fallacy and how does it affect project forecasts?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
+    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
 related_article2:
-    id: 168880
-    title: Explain the difference between System 1 and System 2 thinking in the context of the illusion of validity.
+    id: 168893
+    title: >-
+        How can behavioral economics influence public policy?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-difference-between-system-1-and-system-2-thinking-in-the-context-of-the-illusion-of-validity
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 related_article3:
-    id: 168881
-    title: Why are statistical predictions often more reliable than clinical predictions?
+    id: 168878
+    title: >-
+        What is the narrative fallacy and how does it affect our understanding of past events?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+    url: /learn/psychology/questions/what-is-the-narrative-fallacy-and-how-does-it-affect-our-understanding-of-past-events
 related_article4:
     id: 168884
-    title: How does reference class forecasting help mitigate the planning fallacy?
+    title: >-
+        How does reference class forecasting help mitigate the planning fallacy?
     subject: Psychology
     url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
 related_article5:
-    id: 168887
-    title: How do sunk costs influence decision-making in terms of attendance and financial decisions?
+    id: 168893
+    title: >-
+        How can behavioral economics influence public policy?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-sunk-costs-influence-decisionmaking-in-terms-of-attendance-and-financial-decisions
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 ---
 
 &nbsp;

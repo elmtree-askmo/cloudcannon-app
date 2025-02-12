@@ -2,8 +2,10 @@
 _schema: default
 id: 169879
 date: 2025-02-05
-title: How did the Roman administration manage the provinces of Roman Britain?
-article_title: How did the Roman administration manage the provinces of Roman Britain?
+title: >-
+    How did the Roman administration manage the provinces of Roman Britain?
+article_title: >-
+    How did the Roman administration manage the provinces of Roman Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-did-the-roman-administration-mana
 score: 9.0
 related_article1:
     id: 169873
-    title: What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
+    title: >-
+        What are the main features of the Pictish language, and how do they inform our understanding of Pictish society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-features-of-the-pictish-language-and-how-do-they-inform-our-understanding-of-pictish-society
 related_article2:
-    id: 169869
-    title: What role did ancient biographies play in shaping the historical narrative of Roman Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-ancient-biographies-play-in-shaping-the-historical-narrative-of-roman-britain
-related_article3:
-    id: 169874
-    title: What insights do the Vindolanda Tablets provide about Roman daily life and military strategies?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-roman-daily-life-and-military-strategies
-related_article4:
     id: 169866
-    title: What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
+    title: >-
+        What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-primary-purpose-of-hadrians-wall-during-the-roman-occupation-of-britain
-related_article5:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+related_article3:
+    id: 169870
+    title: >-
+        What are the key characteristics of Iron Age settlements in Scotland based on archaeological evidence?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-iron-age-settlements-in-scotland-based-on-archaeological-evidence
+related_article4:
+    id: 169869
+    title: >-
+        What role did ancient biographies play in shaping the historical narrative of Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-ancient-biographies-play-in-shaping-the-historical-narrative-of-roman-britain
+related_article5:
+    id: 169870
+    title: >-
+        What are the key characteristics of Iron Age settlements in Scotland based on archaeological evidence?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-iron-age-settlements-in-scotland-based-on-archaeological-evidence
 ---
 
 &nbsp;

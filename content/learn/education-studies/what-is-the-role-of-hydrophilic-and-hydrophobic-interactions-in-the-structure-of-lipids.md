@@ -2,8 +2,10 @@
 _schema: default
 id: 161788
 date: 2025-01-24
-title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
-article_title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+title: >-
+    What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+article_title: >-
+    What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-s
 url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
 score: -1.0
 related_article1:
-    id: 161783
-    title: Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
+    id: 161795
+    title: >-
+        What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
+    url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 related_article2:
-    id: 161785
-    title: Explain the significance of amino acid structure in determining protein properties.
+    id: 161789
+    title: >-
+        Why are functional groups important in determining the chemical properties of biological molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-significance-of-amino-acid-structure-in-determining-protein-properties
+    url: /learn/education-studies/questions/why-are-functional-groups-important-in-determining-the-chemical-properties-of-biological-molecules
 related_article3:
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
+related_article4:
     id: 161784
-    title: What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+    title: >-
+        What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
-related_article4:
-    id: 161796
-    title: How do enzymes function as catalysts in biological processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
 related_article5:
-    id: 161782
-    title: What is the difference between dehydration reactions and hydrolysis reactions in the polymerization process?
+    id: 161783
+    title: >-
+        Describe the structure and function of monosaccharides, providing examples such as glucose and ribose.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-dehydration-reactions-and-hydrolysis-reactions-in-the-polymerization-process
+    url: /learn/education-studies/questions/describe-the-structure-and-function-of-monosaccharides-providing-examples-such-as-glucose-and-ribose
 ---
 
 &nbsp;

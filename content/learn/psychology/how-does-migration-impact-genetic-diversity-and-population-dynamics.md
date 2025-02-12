@@ -2,8 +2,10 @@
 _schema: default
 id: 166414
 date: 2025-01-30
-title: How does migration impact genetic diversity and population dynamics?
-article_title: How does migration impact genetic diversity and population dynamics?
+title: >-
+    How does migration impact genetic diversity and population dynamics?
+article_title: >-
+    How does migration impact genetic diversity and population dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-migration-impact-genetic-diversity-and-population-dynamics.m
 url: /learn/psychology/questions/how-does-migration-impact-genetic-diversity-and-population-dynamics
 score: -1.0
 related_article1:
-    id: 166407
-    title: Summarize Darwin's four postulates and their relevance to natural selection.
+    id: 166417
+    title: >-
+        What is behavioral selection and what are its potential consequences?
     subject: Psychology
-    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
+    url: /learn/psychology/questions/what-is-behavioral-selection-and-what-are-its-potential-consequences
 related_article2:
-    id: 166416
-    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    id: 166400
+    title: >-
+        How does natural selection contribute to the foundations of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundations-of-animal-behavior
 related_article3:
-    id: 166416
-    title: Explain the differences between directional, stabilizing, and disruptive selection.
+    id: 166403
+    title: >-
+        Identify and explain the three types of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+    url: /learn/psychology/questions/identify-and-explain-the-three-types-of-natural-selection
 related_article4:
-    id: 166399
-    title: Differentiate between proximate and ultimate explanations in animal behavior.
+    id: 166421
+    title: >-
+        How does the genetic component of behavior influence evolutionary processes?
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-explanations-in-animal-behavior
+    url: /learn/psychology/questions/how-does-the-genetic-component-of-behavior-influence-evolutionary-processes
 related_article5:
-    id: 166405
-    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    id: 166408
+    title: >-
+        Define fitness in the context of animal behavior and explain how it is measured.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+    url: /learn/psychology/questions/define-fitness-in-the-context-of-animal-behavior-and-explain-how-it-is-measured
 ---
 
 &nbsp;

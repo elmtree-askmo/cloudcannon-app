@@ -2,8 +2,10 @@
 _schema: default
 id: 160107
 date: 2025-01-23
-title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
-article_title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+title: >-
+    How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+article_title: >-
+    How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-did-impressionist-artists-depict-the-modern-city-and-what-techniq
 url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 score: 9.0
 related_article1:
-    id: 159842
-    title: How did queer art develop in modern society, and who were some key figures and movements in this area?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-queer-art-develop-in-modern-society-and-who-were-some-key-figures-and-movements-in-this-area
-related_article2:
     id: 159849
-    title: What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
+    title: >-
+        What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
+related_article2:
+    id: 159847
+    title: >-
+        What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-imperialism-and-how-did-artists-critique-and-reinterpret-the-representation-of-colonized-peoples
 related_article3:
-    id: 159850
-    title: How did scientific developments influence environmental themes in Victorian art?
+    id: 160110
+    title: >-
+        How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-changes-in-artistic-practices-and-subject-matter-during-the-19th-century
 related_article4:
-    id: 159837
-    title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
+    id: 160114
+    title: >-
+        How did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
+    url: /learn/art-history-and-literature/questions/how-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+related_article5:
+    id: 159841
+    title: >-
+        What were the roles and representations of women in 19th-century art, and how did gender roles influence artistic production?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-roles-and-representations-of-women-in-19thcentury-art-and-how-did-gender-roles-influence-artistic-production
 ---
 
 &nbsp;

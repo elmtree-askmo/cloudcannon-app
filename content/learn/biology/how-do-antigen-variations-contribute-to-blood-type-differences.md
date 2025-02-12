@@ -2,8 +2,10 @@
 _schema: default
 id: 167874
 date: 2025-02-01
-title: How do antigen variations contribute to blood type differences?
-article_title: How do antigen variations contribute to blood type differences?
+title: >-
+    How do antigen variations contribute to blood type differences?
+article_title: >-
+    How do antigen variations contribute to blood type differences?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-antigen-variations-contribute-to-blood-type-differences.md
 url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
 score: -1.0
 related_article1:
-    id: 167880
-    title: Describe the difference between autosomal recessive and autosomal dominant disorders.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
-related_article2:
-    id: 167879
-    title: What are the key symbols used in pedigree analysis and what do they represent?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
-related_article3:
     id: 167873
-    title: Define multiple alleles and give an example involving blood types.
+    title: >-
+        Define multiple alleles and give an example involving blood types.
     subject: Biology
     url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
+related_article2:
+    id: 167886
+    title: >-
+        What is the genetic basis of cystic fibrosis?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+related_article3:
+    id: 167890
+    title: >-
+        What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
 related_article4:
-    id: 167893
-    title: Explain the role of antigens in determining blood types.
+    id: 167877
+    title: >-
+        Explain the concept of incomplete penetrance with an example.
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
 related_article5:
-    id: 167880
-    title: Describe the difference between autosomal recessive and autosomal dominant disorders.
+    id: 167875
+    title: >-
+        What is codominance and how does it differ from incomplete dominance?
     subject: Biology
-    url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
+    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
 ---
 
 &nbsp;

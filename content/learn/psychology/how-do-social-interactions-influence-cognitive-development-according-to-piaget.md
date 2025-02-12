@@ -2,8 +2,10 @@
 _schema: default
 id: 168005
 date: 2025-02-02
-title: How do social interactions influence cognitive development according to Piaget?
-article_title: How do social interactions influence cognitive development according to Piaget?
+title: >-
+    How do social interactions influence cognitive development according to Piaget?
+article_title: >-
+    How do social interactions influence cognitive development according to Piaget?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-social-interactions-influence-cognitive-development-according-
 url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
 score: -1.0
 related_article1:
-    id: 168007
-    title: How does adult influence contribute to cognitive development?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-adult-influence-contribute-to-cognitive-development
-related_article2:
-    id: 167997
-    title: Explain propositional thought and its significance in the formal operational stage.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
-related_article3:
-    id: 168003
-    title: How does deferred imitation challenge Piaget's theory?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-deferred-imitation-challenge-piagets-theory
-related_article4:
     id: 168004
-    title: Explain the concept of conservation skills and their role in Piaget's theory.
+    title: >-
+        Explain the concept of conservation skills and their role in Piaget's theory.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
-related_article5:
-    id: 167999
-    title: How does the concept of the imaginary audience relate to adolescent behavior?
+related_article2:
+    id: 167996
+    title: >-
+        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-imaginary-audience-relate-to-adolescent-behavior
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
+related_article3:
+    id: 168008
+    title: >-
+        Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
+related_article4:
+    id: 167994
+    title: >-
+        What are the key characteristics of the formal operational stage in Piaget's theory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
+related_article5:
+    id: 167998
+    title: >-
+        Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    subject: Psychology
+    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
 ---
 
 &nbsp;

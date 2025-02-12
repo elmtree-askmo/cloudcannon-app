@@ -2,8 +2,10 @@
 _schema: default
 id: 169123
 date: 2025-02-04
-title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
-article_title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+title: >-
+    How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+article_title: >-
+    How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-t
 url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
 score: 9.0
 related_article1:
-    id: 169109
-    title: What are some key architectural projects led by women that have gained recognition?
+    id: 169112
+    title: >-
+        How have feminist archival methodologies contributed to the understanding of architectural histories?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-key-architectural-projects-led-by-women-that-have-gained-recognition
+    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
 related_article2:
-    id: 169122
-    title: What are some common stereotypes about women in architecture portrayed in media?
+    id: 169120
+    title: >-
+        What contributions did women make to the economic development of postwar Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-common-stereotypes-about-women-in-architecture-portrayed-in-media
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 related_article3:
-    id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    id: 169120
+    title: >-
+        What contributions did women make to the economic development of postwar Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 related_article4:
     id: 169114
-    title: How has the University of Hong Kong influenced architectural education for women?
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 related_article5:
-    id: 169107
-    title: How did postwar developments impact gendered labor dynamics in architecture?
+    id: 169110
+    title: >-
+        How did migration patterns affect gender inequality in Hong Kong's workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/how-did-migration-patterns-affect-gender-inequality-in-hong-kongs-workforce
 ---
 
 &nbsp;

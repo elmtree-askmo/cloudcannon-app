@@ -2,8 +2,10 @@
 _schema: default
 id: 166242
 date: 2025-01-29
-title: What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
-article_title: What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
+title: >-
+    What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
+article_title: >-
+    What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/history-of-the-world/questions/what-are-the-main-theories-and-debate
 score: 9.0
 related_article1:
     id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
+    title: >-
+        How do qualitative and quantitative research methods differ in social sciences?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
 related_article2:
-    id: 166236
-    title: How do natural disasters like earthquakes and hurricanes affect human societies?
+    id: 166220
+    title: >-
+        What are the main challenges associated with the interpretation of primary sources?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
+    url: /learn/history-of-the-world/questions/what-are-the-main-challenges-associated-with-the-interpretation-of-primary-sources
 related_article3:
-    id: 166230
-    title: How do qualitative and quantitative research methods differ in social sciences?
+    id: 166223
+    title: >-
+        What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-qualitative-and-quantitative-research-methods-differ-in-social-sciences
+    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
 related_article4:
-    id: 166226
-    title: How can stress management techniques improve mental health?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-stress-management-techniques-improve-mental-health
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article5:
     id: 166241
-    title: What are the key developments in prehistory that led to the transition to recorded history?
+    title: >-
+        What are the key developments in prehistory that led to the transition to recorded history?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 160566
 date: 2025-01-24
-title: What are Doreen Massey's theoretical contributions to the understanding of time-space compression and place dynamics?
-article_title: What are Doreen Massey's theoretical contributions to the understanding of time-space compression and place dynamics?
+title: >-
+    What are Doreen Massey's theoretical contributions to the understanding of time-space compression and place dynamics?
+article_title: >-
+    What are Doreen Massey's theoretical contributions to the understanding of time-space compression and place dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-doreen-masseys-theoretical-contributions-to-the-understandin
 url: /learn/sociology/questions/what-are-doreen-masseys-theoretical-contributions-to-the-understanding-of-timespace-compression-and-place-dynamics
 score: -1.0
 related_article1:
-    id: 160224
-    title: What are the essential analytical skills needed for data interpretation and problem solving in critical thinking?
+    id: 160562
+    title: >-
+        What role do international cooperation and diplomatic relations play in political alliances?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-essential-analytical-skills-needed-for-data-interpretation-and-problem-solving-in-critical-thinking
+    url: /learn/sociology/questions/what-role-do-international-cooperation-and-diplomatic-relations-play-in-political-alliances
 related_article2:
-    id: 160550
-    title: What are the key components of urbanization that drive city development and infrastructure changes?
+    id: 160228
+    title: >-
+        Explain the concept of time-space compression and its impact on global connectivity.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-key-components-of-urbanization-that-drive-city-development-and-infrastructure-changes
+    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-and-its-impact-on-global-connectivity
 related_article3:
-    id: 160560
-    title: What are the local impacts of cultural exchange and economic integration due to time-space compression?
+    id: 160621
+    title: >-
+        Explain the concept of global interdependence and its relation to time-space compression in globalization.
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
+    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
 related_article4:
-    id: 160233
-    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    id: 160627
+    title: >-
+        Discuss the impact of global economic interdependence on local regional economies and economic inequality.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+    url: /learn/sociology/questions/discuss-the-impact-of-global-economic-interdependence-on-local-regional-economies-and-economic-inequality
 related_article5:
-    id: 160644
-    title: How do population distribution and cultural landscapes define human systems in geographic settings?
+    id: 160553
+    title: >-
+        What are the main factors contributing to social inequality within social structures?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-population-distribution-and-cultural-landscapes-define-human-systems-in-geographic-settings
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-social-inequality-within-social-structures
 ---
 
 &nbsp;

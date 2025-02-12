@@ -2,8 +2,10 @@
 _schema: default
 id: 162321
 date: 2025-01-25
-title: How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
-article_title: How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
+title: >-
+    How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
+article_title: >-
+    How did World War I impact the rise of infantile paralysis (polio) and the establishment of the Canadian Public Health Association?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-
 url: /learn/health-studies/questions/how-did-world-war-i-impact-the-rise-of-infantile-paralysis-polio-and-the-establishment-of-the-canadian-public-health-association
 score: -1.0
 related_article1:
-    id: 162339
-    title: How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
+    id: 162334
+    title: >-
+        How did the Great Depression affect public health funding and services in the 1930s?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
+    url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
 related_article2:
-    id: 162343
-    title: What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
+    id: 162350
+    title: >-
+        How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
+    url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
 related_article3:
-    id: 162341
-    title: What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
+    id: 162349
+    title: >-
+        What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
+    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
 related_article4:
-    id: 162339
-    title: How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
+    id: 162334
+    title: >-
+        How did the Great Depression affect public health funding and services in the 1930s?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
+    url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
 related_article5:
     id: 162334
-    title: How did the Great Depression affect public health funding and services in the 1930s?
+    title: >-
+        How did the Great Depression affect public health funding and services in the 1930s?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
 ---

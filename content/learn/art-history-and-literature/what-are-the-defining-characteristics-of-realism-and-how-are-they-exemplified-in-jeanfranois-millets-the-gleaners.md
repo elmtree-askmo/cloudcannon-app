@@ -2,8 +2,10 @@
 _schema: default
 id: 165971
 date: 2025-01-29
-title: What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
-article_title: What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+title: >-
+    What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
+article_title: >-
+    What are the defining characteristics of Realism, and how are they exemplified in Jean-François Millet's The Gleaners?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-characteristics-of-realism-and-how-are-they-exe
 url: /learn/art-history-and-literature/questions/what-are-the-defining-characteristics-of-realism-and-how-are-they-exemplified-in-jeanfranois-millets-the-gleaners
 score: 9.5
 related_article1:
-    id: 165963
-    title: How did urbanization and technological advancements impact modern art during the Industrial Revolution?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-urbanization-and-technological-advancements-impact-modern-art-during-the-industrial-revolution
-related_article2:
     id: 165978
-    title: How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
+related_article2:
+    id: 165965
+    title: >-
+        What are the key characteristics of Realism and how do they differ from Romanticism?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-and-how-do-they-differ-from-romanticism
 related_article3:
     id: 165977
-    title: What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
+    title: >-
+        What are the key characteristics of Expressionism, and how are they demonstrated in Edvard Munch's The Scream?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-expressionism-and-how-are-they-demonstrated-in-edvard-munchs-the-scream
 related_article4:
-    id: 165979
-    title: In what ways did philosophical contexts lead artists to explore human experience and question traditional values?
+    id: 165978
+    title: >-
+        How did social contexts influence art, particularly in terms of reflecting social issues and class struggles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-philosophical-contexts-lead-artists-to-explore-human-experience-and-question-traditional-values
+    url: /learn/art-history-and-literature/questions/how-did-social-contexts-influence-art-particularly-in-terms-of-reflecting-social-issues-and-class-struggles
 related_article5:
-    id: 165968
-    title: How did the rise of social consciousness during the Industrial Revolution influence art?
+    id: 165967
+    title: >-
+        What role did technological progress during the Industrial Revolution play in the development of new artistic techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-rise-of-social-consciousness-during-the-industrial-revolution-influence-art
+    url: /learn/art-history-and-literature/questions/what-role-did-technological-progress-during-the-industrial-revolution-play-in-the-development-of-new-artistic-techniques
 ---
 
 &nbsp;

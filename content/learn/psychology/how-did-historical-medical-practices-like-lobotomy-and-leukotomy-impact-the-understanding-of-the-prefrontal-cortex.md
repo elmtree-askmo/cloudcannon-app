@@ -2,8 +2,10 @@
 _schema: default
 id: 170523
 date: 2025-02-06
-title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
-article_title: How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+title: >-
+    How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
+article_title: >-
+    How did historical medical practices like lobotomy and leukotomy impact the understanding of the prefrontal cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impa
 url: /learn/psychology/questions/how-did-historical-medical-practices-like-lobotomy-and-leukotomy-impact-the-understanding-of-the-prefrontal-cortex
 score: -1.0
 related_article1:
-    id: 170533
-    title: What is the genetic basis of Huntington's disease, and how is it inherited?
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 related_article2:
-    id: 170528
-    title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
+    id: 170545
+    title: >-
+        How did ancient techniques like trepanation contribute to the evolution of neurosurgery?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
+    url: /learn/psychology/questions/how-did-ancient-techniques-like-trepanation-contribute-to-the-evolution-of-neurosurgery
 related_article3:
-    id: 170525
-    title: What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    id: 170534
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+    url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
 related_article4:
-    id: 170533
-    title: What is the genetic basis of Huntington's disease, and how is it inherited?
+    id: 170536
+    title: >-
+        How do first and second order neurons function in afferent sensory pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-genetic-basis-of-huntingtons-disease-and-how-is-it-inherited
+    url: /learn/psychology/questions/how-do-first-and-second-order-neurons-function-in-afferent-sensory-pathways
 related_article5:
-    id: 170542
-    title: What are the differences between hemorrhagic and ischemic strokes, and what are their neurological consequences?
+    id: 170540
+    title: >-
+        What role do muscle spindles and Golgi tendon organs play in proprioception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-hemorrhagic-and-ischemic-strokes-and-what-are-their-neurological-consequences
+    url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 ---
 
 &nbsp;

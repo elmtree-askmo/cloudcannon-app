@@ -2,8 +2,10 @@
 _schema: default
 id: 164817
 date: 2025-01-28
-title: What is the resting potential of a neuron and how is it measured?
-article_title: What is the resting potential of a neuron and how is it measured?
+title: >-
+    What is the resting potential of a neuron and how is it measured?
+article_title: >-
+    What is the resting potential of a neuron and how is it measured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured.md
 url: /learn/psychology/questions/what-is-the-resting-potential-of-a-neuron-and-how-is-it-measured
 score: -1.0
 related_article1:
-    id: 164822
-    title: What is the role of the sodium-potassium pump in maintaining ion concentration gradients?
+    id: 164830
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-maintaining-ion-concentration-gradients
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 related_article2:
-    id: 164832
-    title: How do synapses facilitate signal transmission between neurons?
+    id: 164827
+    title: >-
+        How does myelination affect the speed of neural signal transmission?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-synapses-facilitate-signal-transmission-between-neurons
+    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
 related_article3:
-    id: 164821
-    title: How do ion channels contribute to the generation and propagation of action potentials?
+    id: 164827
+    title: >-
+        How does myelination affect the speed of neural signal transmission?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-ion-channels-contribute-to-the-generation-and-propagation-of-action-potentials
+    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
 related_article4:
-    id: 164818
-    title: How do ion concentration differences contribute to the resting potential of a neuron?
+    id: 164820
+    title: >-
+        What is the threshold for an action potential and what are the refractory periods?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
+    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+related_article5:
+    id: 164828
+    title: >-
+        What is the function of the nodes of Ranvier in neural communication?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
 ---
 
 &nbsp;

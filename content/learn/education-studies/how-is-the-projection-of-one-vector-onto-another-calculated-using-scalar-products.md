@@ -2,8 +2,10 @@
 _schema: default
 id: 166732
 date: 2025-01-31
-title: How is the projection of one vector onto another calculated using scalar products?
-article_title: How is the projection of one vector onto another calculated using scalar products?
+title: >-
+    How is the projection of one vector onto another calculated using scalar products?
+article_title: >-
+    How is the projection of one vector onto another calculated using scalar products?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: how-is-the-projection-of-one-vector-onto-another-calculated-using-sca
 url: /learn/education-studies/questions/how-is-the-projection-of-one-vector-onto-another-calculated-using-scalar-products
 score: -1.0
 related_article1:
-    id: 166729
-    title: How are vectors decomposed into components and what are the properties of vector addition and subtraction?
+    id: 166724
+    title: >-
+        How is the moment of a force calculated and what role does the moment arm play in this calculation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
+    url: /learn/education-studies/questions/how-is-the-moment-of-a-force-calculated-and-what-role-does-the-moment-arm-play-in-this-calculation
 related_article2:
-    id: 166730
-    title: What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
+    id: 166739
+    title: >-
+        How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-commutative-and-distributive-properties-of-vectors-and-how-do-they-apply-to-vector-calculations
+    url: /learn/education-studies/questions/how-are-coordinate-transformations-performed-between-cartesian-and-cylindrical-coordinate-systems
 related_article3:
-    id: 166736
-    title: How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
+    id: 166731
+    title: >-
+        Define the dot product and explain how it is used to calculate scalar products.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
+    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
 related_article4:
+    id: 166731
+    title: >-
+        Define the dot product and explain how it is used to calculate scalar products.
+    subject: Education Studies
+    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
+related_article5:
     id: 166722
-    title: What are the fundamental concepts of statics and why are they important in mechanics?
+    title: >-
+        What are the fundamental concepts of statics and why are they important in mechanics?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-fundamental-concepts-of-statics-and-why-are-they-important-in-mechanics
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 167664
 date: 2025-01-31
-title: What is the significance of studying animal behavior in the context of ecology and conservation?
-article_title: What is the significance of studying animal behavior in the context of ecology and conservation?
+title: >-
+    What is the significance of studying animal behavior in the context of ecology and conservation?
+article_title: >-
+    What is the significance of studying animal behavior in the context of ecology and conservation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-studying-animal-behavior-in-the-context-o
 url: /learn/others/questions/what-is-the-significance-of-studying-animal-behavior-in-the-context-of-ecology-and-conservation
 score: -1.0
 related_article1:
-    id: 167671
-    title: Differentiate between phenotype and genotype and their influence on animal behavior.
+    id: 167683
+    title: >-
+        What methodologies are used in comparative studies of animal behavior, and why are they important?
     subject: Others
-    url: /learn/others/questions/differentiate-between-phenotype-and-genotype-and-their-influence-on-animal-behavior
+    url: /learn/others/questions/what-methodologies-are-used-in-comparative-studies-of-animal-behavior-and-why-are-they-important
 related_article2:
-    id: 167670
-    title: How is fitness measured, and why is it important in the context of natural selection?
+    id: 167668
+    title: >-
+        What are the different types of learning, and how do they contribute to an animal's survival?
     subject: Others
-    url: /learn/others/questions/how-is-fitness-measured-and-why-is-it-important-in-the-context-of-natural-selection
+    url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
 related_article3:
-    id: 167665
-    title: How do Tinbergen’s ultimate questions differ from proximate questions in the study of animal behavior?
+    id: 167680
+    title: >-
+        What is the role of glucocorticoids in stress management, and what are their behavioral implications?
     subject: Others
-    url: /learn/others/questions/how-do-tinbergens-ultimate-questions-differ-from-proximate-questions-in-the-study-of-animal-behavior
+    url: /learn/others/questions/what-is-the-role-of-glucocorticoids-in-stress-management-and-what-are-their-behavioral-implications
 related_article4:
-    id: 167673
-    title: Provide an example of adaptation in animal behavior and its role in evolution.
+    id: 167680
+    title: >-
+        What is the role of glucocorticoids in stress management, and what are their behavioral implications?
     subject: Others
-    url: /learn/others/questions/provide-an-example-of-adaptation-in-animal-behavior-and-its-role-in-evolution
+    url: /learn/others/questions/what-is-the-role-of-glucocorticoids-in-stress-management-and-what-are-their-behavioral-implications
 related_article5:
-    id: 167671
-    title: Differentiate between phenotype and genotype and their influence on animal behavior.
+    id: 167668
+    title: >-
+        What are the different types of learning, and how do they contribute to an animal's survival?
     subject: Others
-    url: /learn/others/questions/differentiate-between-phenotype-and-genotype-and-their-influence-on-animal-behavior
+    url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
 ---
 
 &nbsp;

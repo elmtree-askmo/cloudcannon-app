@@ -2,8 +2,10 @@
 _schema: default
 id: 168231
 date: 2025-02-03
-title: What strategies can be used to minimize distractions in the exam environment?
-article_title: What strategies can be used to minimize distractions in the exam environment?
+title: >-
+    What strategies can be used to minimize distractions in the exam environment?
+article_title: >-
+    What strategies can be used to minimize distractions in the exam environment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-used-to-minimize-distractions-in-the-exam-envi
 url: /learn/education-studies/questions/what-strategies-can-be-used-to-minimize-distractions-in-the-exam-environment
 score: -1.0
 related_article1:
-    id: 168227
-    title: What should be included in pre-exam announcements to students?
+    id: 168218
+    title: >-
+        How should electronics and personal items be managed before the exam begins?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-be-included-in-preexam-announcements-to-students
+    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
 related_article2:
-    id: 168229
-    title: What instructions should be given to students after they submit their exams?
+    id: 168224
+    title: >-
+        What items are allowed and prohibited during an exam according to general guidelines?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
+    url: /learn/education-studies/questions/what-items-are-allowed-and-prohibited-during-an-exam-according-to-general-guidelines
 related_article3:
-    id: 168230
-    title: How should seating arrangements be managed in the exam room?
+    id: 168234
+    title: >-
+        How should feedback be provided to students after assessments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
+    url: /learn/education-studies/questions/how-should-feedback-be-provided-to-students-after-assessments
 related_article4:
-    id: 168226
-    title: How should students handle writing on exam sheets?
+    id: 168217
+    title: >-
+        What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
+    url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
 related_article5:
-    id: 168228
-    title: How should queries be addressed during the exam?
+    id: 168218
+    title: >-
+        How should electronics and personal items be managed before the exam begins?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
+    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
 ---
 
 &nbsp;

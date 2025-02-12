@@ -2,8 +2,10 @@
 _schema: default
 id: 165620
 date: 2025-01-29
-title: How do leadership campaigns and strategies influence public perception of political leaders in Canada?
-article_title: How do leadership campaigns and strategies influence public perception of political leaders in Canada?
+title: >-
+    How do leadership campaigns and strategies influence public perception of political leaders in Canada?
+article_title: >-
+    How do leadership campaigns and strategies influence public perception of political leaders in Canada?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-leadership-campaigns-and-strategies-influence-public-perceptio
 url: /learn/politics/questions/how-do-leadership-campaigns-and-strategies-influence-public-perception-of-political-leaders-in-canada
 score: -1.0
 related_article1:
-    id: 165626
-    title: How do domestic climate policies differ from international climate policies in Canada?
+    id: 165624
+    title: >-
+        Why is economic stability considered a priority during elections?
     subject: Politics
-    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
+    url: /learn/politics/questions/why-is-economic-stability-considered-a-priority-during-elections
 related_article2:
+    id: 165636
+    title: >-
+        What strategies are effective for political communication and public engagement?
+    subject: Politics
+    url: /learn/politics/questions/what-strategies-are-effective-for-political-communication-and-public-engagement
+related_article3:
+    id: 165629
+    title: >-
+        How have Trump's tariff threats affected US-Canada trade relations?
+    subject: Politics
+    url: /learn/politics/questions/how-have-trumps-tariff-threats-affected-uscanada-trade-relations
+related_article4:
+    id: 165632
+    title: >-
+        How do media and polls influence public opinion during election campaigns?
+    subject: Politics
+    url: /learn/politics/questions/how-do-media-and-polls-influence-public-opinion-during-election-campaigns
+related_article5:
     id: 165635
-    title: How do economic and social policies interconnect in political dynamics?
+    title: >-
+        How do economic and social policies interconnect in political dynamics?
     subject: Politics
     url: /learn/politics/questions/how-do-economic-and-social-policies-interconnect-in-political-dynamics
-related_article3:
-    id: 165617
-    title: What are the main differences between majority rule and most votes in an electoral system?
-    subject: Politics
-    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
-related_article4:
-    id: 165617
-    title: What are the main differences between majority rule and most votes in an electoral system?
-    subject: Politics
-    url: /learn/politics/questions/what-are-the-main-differences-between-majority-rule-and-most-votes-in-an-electoral-system
-related_article5:
-    id: 165626
-    title: How do domestic climate policies differ from international climate policies in Canada?
-    subject: Politics
-    url: /learn/politics/questions/how-do-domestic-climate-policies-differ-from-international-climate-policies-in-canada
 ---
 
 &nbsp;

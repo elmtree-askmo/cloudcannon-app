@@ -2,8 +2,10 @@
 _schema: default
 id: 163783
 date: 2025-01-27
-title: Why are cube root functions considered continuous functions?
-article_title: Why are cube root functions considered continuous functions?
+title: >-
+    Why are cube root functions considered continuous functions?
+article_title: >-
+    Why are cube root functions considered continuous functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-cube-root-functions-considered-continuous-functions.md
 url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
 score: -1.0
 related_article1:
-    id: 163775
-    title: How do horizontal and vertical shifts affect cube root functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
-related_article2:
     id: 163761
-    title: How do the graphs of cube root functions differ from those of square root functions?
+    title: >-
+        How do the graphs of cube root functions differ from those of square root functions?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
+related_article2:
+    id: 163748
+    title: >-
+        What steps are involved in graphing a cube root function?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-a-cube-root-function
 related_article3:
-    id: 163751
-    title: What are the domain and range characteristics of cube root functions?
+    id: 163764
+    title: >-
+        What impact do coefficients have on the graphs of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+    url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
 related_article4:
-    id: 163751
-    title: What are the domain and range characteristics of cube root functions?
+    id: 163771
+    title: >-
+        What is the shape and direction of a typical cube root graph?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
+    url: /learn/mathematics/questions/what-is-the-shape-and-direction-of-a-typical-cube-root-graph
 related_article5:
-    id: 163770
-    title: What are the effects of transformations and translations on cube root functions?
+    id: 163773
+    title: >-
+        What are inflection points in the context of cube root graphs?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
+    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
 ---
 
 &nbsp;

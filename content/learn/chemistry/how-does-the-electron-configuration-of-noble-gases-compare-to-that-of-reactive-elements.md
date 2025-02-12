@@ -2,8 +2,10 @@
 _schema: default
 id: 166862
 date: 2025-01-31
-title: How does the electron configuration of noble gases compare to that of reactive elements?
-article_title: How does the electron configuration of noble gases compare to that of reactive elements?
+title: >-
+    How does the electron configuration of noble gases compare to that of reactive elements?
+article_title: >-
+    How does the electron configuration of noble gases compare to that of reactive elements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-electron-configuration-of-noble-gases-compare-to-that-of
 url: /learn/chemistry/questions/how-does-the-electron-configuration-of-noble-gases-compare-to-that-of-reactive-elements
 score: -1.0
 related_article1:
+    id: 166860
+    title: >-
+        What is the difference between a cation and an anion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
+related_article2:
+    id: 166860
+    title: >-
+        What is the difference between a cation and an anion?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-difference-between-a-cation-and-an-anion
+related_article3:
+    id: 166856
+    title: >-
+        How does electron configuration relate to the valence electrons of an element?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electron-configuration-relate-to-the-valence-electrons-of-an-element
+related_article4:
+    id: 166853
+    title: >-
+        What is the significance of the main groups in the periodic table?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-main-groups-in-the-periodic-table
+related_article5:
     id: 166857
-    title: What characteristics make alkali metals highly reactive?
+    title: >-
+        What characteristics make alkali metals highly reactive?
     subject: Chemistry
     url: /learn/chemistry/questions/what-characteristics-make-alkali-metals-highly-reactive
-related_article2:
-    id: 166864
-    title: How does the reactivity of alkali metals change as you move down the group?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-reactivity-of-alkali-metals-change-as-you-move-down-the-group
-related_article3:
-    id: 166855
-    title: Explain the process of writing the electron configuration for sodium.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-process-of-writing-the-electron-configuration-for-sodium
-related_article4:
-    id: 166858
-    title: Why are halogens highly reactive, and how do they achieve stability?
-    subject: Chemistry
-    url: /learn/chemistry/questions/why-are-halogens-highly-reactive-and-how-do-they-achieve-stability
-related_article5:
-    id: 166854
-    title: How can the group number of an element help determine its valence electrons?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-can-the-group-number-of-an-element-help-determine-its-valence-electrons
 ---
 
 &nbsp;

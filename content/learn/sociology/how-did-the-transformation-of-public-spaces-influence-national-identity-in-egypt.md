@@ -2,8 +2,10 @@
 _schema: default
 id: 168985
 date: 2025-02-04
-title: How did the transformation of public spaces influence national identity in Egypt?
-article_title: How did the transformation of public spaces influence national identity in Egypt?
+title: >-
+    How did the transformation of public spaces influence national identity in Egypt?
+article_title: >-
+    How did the transformation of public spaces influence national identity in Egypt?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-did-the-transformation-of-public-spaces-influence-national-identi
 url: /learn/sociology/questions/how-did-the-transformation-of-public-spaces-influence-national-identity-in-egypt
 score: -1.0
 related_article1:
-    id: 168975
-    title: What were the key characteristics of mid-20th century architecture in Egypt, and how did they reflect Pan-Arab socialism and modernist design?
+    id: 168982
+    title: >-
+        What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-characteristics-of-mid20th-century-architecture-in-egypt-and-how-did-they-reflect-panarab-socialism-and-modernist-design
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
 related_article2:
-    id: 168984
-    title: What was the role of artists and filmmakers in documenting the revolution, and how did their work impact cultural institutions?
+    id: 168982
+    title: >-
+        What role did community organizing and social activism play in creating a new community in post-revolution Egypt?
     subject: Sociology
-    url: /learn/sociology/questions/what-was-the-role-of-artists-and-filmmakers-in-documenting-the-revolution-and-how-did-their-work-impact-cultural-institutions
+    url: /learn/sociology/questions/what-role-did-community-organizing-and-social-activism-play-in-creating-a-new-community-in-postrevolution-egypt
 related_article3:
-    id: 168976
-    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
 related_article4:
-    id: 168976
-    title: How did urban planning policies under Mubarak influence the development of public spaces in Egypt?
+    id: 168978
+    title: >-
+        How did social media contribute to civic engagement during the Arab Spring, particularly in the context of initial online exhortations and the impact of the internet shutdown?
     subject: Sociology
-    url: /learn/sociology/questions/how-did-urban-planning-policies-under-mubarak-influence-the-development-of-public-spaces-in-egypt
-related_article5:
-    id: 168981
-    title: How did the January 25th Revolution lead to the symbolic reclamation of Tahrir Square?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-january-25th-revolution-lead-to-the-symbolic-reclamation-of-tahrir-square
+    url: /learn/sociology/questions/how-did-social-media-contribute-to-civic-engagement-during-the-arab-spring-particularly-in-the-context-of-initial-online-exhortations-and-the-impact-of-the-internet-shutdown
 ---
 
 &nbsp;

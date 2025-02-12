@@ -2,8 +2,10 @@
 _schema: default
 id: 169777
 date: 2025-02-05
-title: What are the World Health Organization's recommendations regarding sugar and fat intake?
-article_title: What are the World Health Organization's recommendations regarding sugar and fat intake?
+title: >-
+    What are the World Health Organization's recommendations regarding sugar and fat intake?
+article_title: >-
+    What are the World Health Organization's recommendations regarding sugar and fat intake?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-world-health-organizations-recommendations-regarding-sug
 url: /learn/nursing/questions/what-are-the-world-health-organizations-recommendations-regarding-sugar-and-fat-intake
 score: -1.0
 related_article1:
-    id: 169785
-    title: What is food fortification, and how does it support nutritional needs?
+    id: 169768
+    title: >-
+        What are the key roles of nutrition and hydration in physical and mental health?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-food-fortification-and-how-does-it-support-nutritional-needs
+    url: /learn/nursing/questions/what-are-the-key-roles-of-nutrition-and-hydration-in-physical-and-mental-health
 related_article2:
     id: 169769
-    title: How do the World Health Organization guidelines influence nutrition and hydration practices?
+    title: >-
+        How do the World Health Organization guidelines influence nutrition and hydration practices?
     subject: Nursing
     url: /learn/nursing/questions/how-do-the-world-health-organization-guidelines-influence-nutrition-and-hydration-practices
 related_article3:
-    id: 169781
-    title: What are the causes and consequences of undernutrition, and which populations are most at risk?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
-related_article4:
     id: 169776
-    title: Why is fiber important in the diet, and which food groups are rich in fiber?
+    title: >-
+        Why is fiber important in the diet, and which food groups are rich in fiber?
     subject: Nursing
     url: /learn/nursing/questions/why-is-fiber-important-in-the-diet-and-which-food-groups-are-rich-in-fiber
-related_article5:
-    id: 169786
-    title: What is the role of healthcare professionals in educating patients about nutrition and implementing dietary guidelines?
+related_article4:
+    id: 169779
+    title: >-
+        What is the Malnutrition Universal Screening Tool (MUST), and how is it used in nutritional assessment?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-healthcare-professionals-in-educating-patients-about-nutrition-and-implementing-dietary-guidelines
+    url: /learn/nursing/questions/what-is-the-malnutrition-universal-screening-tool-must-and-how-is-it-used-in-nutritional-assessment
+related_article5:
+    id: 169781
+    title: >-
+        What are the causes and consequences of undernutrition, and which populations are most at risk?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-causes-and-consequences-of-undernutrition-and-which-populations-are-most-at-risk
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163707
 date: 2025-01-27
-title: How do square root and cube root functions compare in terms of rate of change over different intervals?
-article_title: How do square root and cube root functions compare in terms of rate of change over different intervals?
+title: >-
+    How do square root and cube root functions compare in terms of rate of change over different intervals?
+article_title: >-
+    How do square root and cube root functions compare in terms of rate of change over different intervals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-o
 url: /learn/mathematics/questions/how-do-square-root-and-cube-root-functions-compare-in-terms-of-rate-of-change-over-different-intervals
 score: -1.0
 related_article1:
-    id: 163705
-    title: How do you choose points on a graph for accurate estimation?
+    id: 163703
+    title: >-
+        Why is mathematical modeling important in real-life situations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
+    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
 related_article2:
     id: 163706
-    title: What are the differences in graph interpretation between quadratic and exponential functions?
+    title: >-
+        What are the differences in graph interpretation between quadratic and exponential functions?
     subject: Mathematics
     url: /learn/mathematics/questions/what-are-the-differences-in-graph-interpretation-between-quadratic-and-exponential-functions
 related_article3:
-    id: 163702
-    title: How can exponential functions be used in real-world modeling?
+    id: 163704
+    title: >-
+        What techniques can be used to estimate values when modeling mathematically?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-in-realworld-modeling
+    url: /learn/mathematics/questions/what-techniques-can-be-used-to-estimate-values-when-modeling-mathematically
 related_article4:
     id: 163705
-    title: How do you choose points on a graph for accurate estimation?
+    title: >-
+        How do you choose points on a graph for accurate estimation?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-choose-points-on-a-graph-for-accurate-estimation
 related_article5:
-    id: 163708
-    title: What is the significance of defining intervals when analyzing functions?
+    id: 163703
+    title: >-
+        Why is mathematical modeling important in real-life situations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-defining-intervals-when-analyzing-functions
+    url: /learn/mathematics/questions/why-is-mathematical-modeling-important-in-reallife-situations
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166568
 date: 2025-01-30
-title: What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
-article_title: What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
+title: >-
+    What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
+article_title: >-
+    What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-margin
 url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
 score: 9.0
 related_article1:
+    id: 166569
+    title: >-
+        What are the key characteristics of Realism in art, and how did it address the class divide?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
+related_article2:
+    id: 166572
+    title: >-
+        How did the public initially react to the first Impressionist exhibition?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-public-initially-react-to-the-first-impressionist-exhibition
+related_article3:
     id: 166575
-    title: What social classes and power dynamics were critiqued through cultural commentary in art during this period?
+    title: >-
+        What social classes and power dynamics were critiqued through cultural commentary in art during this period?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-social-classes-and-power-dynamics-were-critiqued-through-cultural-commentary-in-art-during-this-period
-related_article2:
-    id: 166566
-    title: How did the Hausmann renovations impact the social patterns in Parisian society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
-related_article3:
-    id: 166577
-    title: What were the effects of changes in the urban fabric on city life and infrastructure in Paris?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-effects-of-changes-in-the-urban-fabric-on-city-life-and-infrastructure-in-paris
 related_article4:
-    id: 166577
-    title: What were the effects of changes in the urban fabric on city life and infrastructure in Paris?
+    id: 166565
+    title: >-
+        What were the main structural changes introduced during the Hausmann renovations of Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-effects-of-changes-in-the-urban-fabric-on-city-life-and-infrastructure-in-paris
+    url: /learn/art-history-and-literature/questions/what-were-the-main-structural-changes-introduced-during-the-hausmann-renovations-of-paris
 related_article5:
-    id: 166567
-    title: How did modernity influence the representation of Parisian society in modern art?
+    id: 166570
+    title: >-
+        How did photography influence the development of Realism in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-modernity-influence-the-representation-of-parisian-society-in-modern-art
+    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
 ---
 
 &nbsp;

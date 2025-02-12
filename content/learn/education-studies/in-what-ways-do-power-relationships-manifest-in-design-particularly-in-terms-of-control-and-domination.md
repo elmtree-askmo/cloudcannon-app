@@ -2,8 +2,10 @@
 _schema: default
 id: 169173
 date: 2025-02-04
-title: In what ways do power relationships manifest in design, particularly in terms of control and domination?
-article_title: In what ways do power relationships manifest in design, particularly in terms of control and domination?
+title: >-
+    In what ways do power relationships manifest in design, particularly in terms of control and domination?
+article_title: >-
+    In what ways do power relationships manifest in design, particularly in terms of control and domination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-do-power-relationships-manifest-in-design-particularly-i
 url: /learn/education-studies/questions/in-what-ways-do-power-relationships-manifest-in-design-particularly-in-terms-of-control-and-domination
 score: -1.0
 related_article1:
-    id: 169172
-    title: How do aesthetic and formal conditions influence the meeting of planes in architecture?
+    id: 169186
+    title: >-
+        How are generative AI tools used in design, and what ethical considerations are associated with their use?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-aesthetic-and-formal-conditions-influence-the-meeting-of-planes-in-architecture
+    url: /learn/education-studies/questions/how-are-generative-ai-tools-used-in-design-and-what-ethical-considerations-are-associated-with-their-use
 related_article2:
-    id: 169174
-    title: How does human perception influence the interpretation of space in architecture?
+    id: 169177
+    title: >-
+        What are the key principles of urban design that relate to the intersection of corners?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
+    url: /learn/education-studies/questions/what-are-the-key-principles-of-urban-design-that-relate-to-the-intersection-of-corners
 related_article3:
+    id: 169181
+    title: >-
+        What is the relationship between architectural theories and the design process?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
+related_article4:
     id: 169178
-    title: How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
+    title: >-
+        How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-visual-perception-principles-apply-to-twodimensional-and-threedimensional-architectural-design
-related_article4:
-    id: 169174
-    title: How does human perception influence the interpretation of space in architecture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-human-perception-influence-the-interpretation-of-space-in-architecture
 related_article5:
-    id: 169179
-    title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
+    id: 169183
+    title: >-
+        What are the different types of technical drawings used in architecture, and how do they differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
+    url: /learn/education-studies/questions/what-are-the-different-types-of-technical-drawings-used-in-architecture-and-how-do-they-differ
 ---
 
 &nbsp;

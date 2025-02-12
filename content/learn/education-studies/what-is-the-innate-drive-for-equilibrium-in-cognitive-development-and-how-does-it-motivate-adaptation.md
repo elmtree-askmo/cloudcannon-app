@@ -2,8 +2,10 @@
 _schema: default
 id: 167986
 date: 2025-02-02
-title: What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
-article_title: What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
+title: >-
+    What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
+article_title: >-
+    What is the innate drive for equilibrium in cognitive development, and how does it motivate adaptation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-innate-drive-for-equilibrium-in-cognitive-development-and
 url: /learn/education-studies/questions/what-is-the-innate-drive-for-equilibrium-in-cognitive-development-and-how-does-it-motivate-adaptation
 score: -1.0
 related_article1:
-    id: 167988
-    title: What is a cognitive schema, and how does it function in the context of cognitive development?
+    id: 167984
+    title: >-
+        What is the role of biological maturation in cognitive development according to constructivist theory?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-cognitive-schema-and-how-does-it-function-in-the-context-of-cognitive-development
+    url: /learn/education-studies/questions/what-is-the-role-of-biological-maturation-in-cognitive-development-according-to-constructivist-theory
 related_article2:
-    id: 167988
-    title: What is a cognitive schema, and how does it function in the context of cognitive development?
+    id: 167987
+    title: >-
+        Explain the processes of assimilation and accommodation in cognitive development.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-a-cognitive-schema-and-how-does-it-function-in-the-context-of-cognitive-development
+    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
 related_article3:
-    id: 167987
-    title: Explain the processes of assimilation and accommodation in cognitive development.
+    id: 167984
+    title: >-
+        What is the role of biological maturation in cognitive development according to constructivist theory?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
+    url: /learn/education-studies/questions/what-is-the-role-of-biological-maturation-in-cognitive-development-according-to-constructivist-theory
 related_article4:
-    id: 167992
-    title: What are some critiques of Piaget's theory regarding the underestimation of infants' and young children's abilities?
+    id: 167985
+    title: >-
+        How does environmental interaction contribute to the active learning process in constructivist theory?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-critiques-of-piagets-theory-regarding-the-underestimation-of-infants-and-young-childrens-abilities
+    url: /learn/education-studies/questions/how-does-environmental-interaction-contribute-to-the-active-learning-process-in-constructivist-theory
 related_article5:
-    id: 167987
-    title: Explain the processes of assimilation and accommodation in cognitive development.
+    id: 167993
+    title: >-
+        How do social interactions, particularly with peers, impact cognitive development according to critiques of Piaget's theory?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-processes-of-assimilation-and-accommodation-in-cognitive-development
+    url: /learn/education-studies/questions/how-do-social-interactions-particularly-with-peers-impact-cognitive-development-according-to-critiques-of-piagets-theory
 ---
 
 &nbsp;

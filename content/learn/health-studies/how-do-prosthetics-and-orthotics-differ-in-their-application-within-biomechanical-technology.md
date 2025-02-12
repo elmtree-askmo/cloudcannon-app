@@ -2,8 +2,10 @@
 _schema: default
 id: 164259
 date: 2025-01-28
-title: How do prosthetics and orthotics differ in their application within biomechanical technology?
-article_title: How do prosthetics and orthotics differ in their application within biomechanical technology?
+title: >-
+    How do prosthetics and orthotics differ in their application within biomechanical technology?
+article_title: >-
+    How do prosthetics and orthotics differ in their application within biomechanical technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: how-do-prosthetics-and-orthotics-differ-in-their-application-within-b
 url: /learn/health-studies/questions/how-do-prosthetics-and-orthotics-differ-in-their-application-within-biomechanical-technology
 score: -1.0
 related_article1:
-    id: 164268
-    title: How do wireless communication protocols facilitate data transmission in human-machine interfaces?
+    id: 164260
+    title: >-
+        What are the main challenges faced in the development of biomechanical systems, particularly regarding material constraints and energy efficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-wireless-communication-protocols-facilitate-data-transmission-in-humanmachine-interfaces
+    url: /learn/health-studies/questions/what-are-the-main-challenges-faced-in-the-development-of-biomechanical-systems-particularly-regarding-material-constraints-and-energy-efficiency
 related_article2:
-    id: 164274
-    title: What potential does AI integration hold for the future of personalized rehabilitation engineering?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-potential-does-ai-integration-hold-for-the-future-of-personalized-rehabilitation-engineering
-related_article3:
     id: 164273
-    title: How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
+    title: >-
+        How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation-in-the-context-of-therapy-and-recovery
+related_article3:
+    id: 164258
+    title: >-
+        What are the primary components of biomechanical systems, and how do they function together?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
 related_article4:
+    id: 164258
+    title: >-
+        What are the primary components of biomechanical systems, and how do they function together?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-primary-components-of-biomechanical-systems-and-how-do-they-function-together
+related_article5:
     id: 164273
-    title: How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
+    title: >-
+        How does cognitive rehabilitation differ from physical rehabilitation in the context of therapy and recovery?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-cognitive-rehabilitation-differ-from-physical-rehabilitation-in-the-context-of-therapy-and-recovery
 ---

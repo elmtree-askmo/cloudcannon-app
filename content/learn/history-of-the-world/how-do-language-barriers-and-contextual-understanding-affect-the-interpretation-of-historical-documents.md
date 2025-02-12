@@ -2,8 +2,10 @@
 _schema: default
 id: 166240
 date: 2025-01-29
-title: How do language barriers and contextual understanding affect the interpretation of historical documents?
-article_title: How do language barriers and contextual understanding affect the interpretation of historical documents?
+title: >-
+    How do language barriers and contextual understanding affect the interpretation of historical documents?
+article_title: >-
+    How do language barriers and contextual understanding affect the interpretation of historical documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-language-barriers-and-contextual-understanding-affect-the-inte
 url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 score: 8.5
 related_article1:
-    id: 166236
-    title: How do natural disasters like earthquakes and hurricanes affect human societies?
+    id: 166234
+    title: >-
+        What are the main debates and controversies in historiography, such as objectivity vs. subjectivity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
+    url: /learn/history-of-the-world/questions/what-are-the-main-debates-and-controversies-in-historiography-such-as-objectivity-vs-subjectivity
 related_article2:
-    id: 166218
-    title: How is machine learning applied in natural language processing?
+    id: 166227
+    title: >-
+        What are the primary types of historical evidence, and how are they evaluated for reliability?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-machine-learning-applied-in-natural-language-processing
+    url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
 related_article3:
-    id: 166222
-    title: What role does cultural context play in shaping historical interpretations?
+    id: 166241
+    title: >-
+        What are the key developments in prehistory that led to the transition to recorded history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-cultural-context-play-in-shaping-historical-interpretations
+    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
 related_article4:
-    id: 166223
-    title: What are the key environmental aspects of sustainability, and how do they contribute to climate change mitigation?
+    id: 166241
+    title: >-
+        What are the key developments in prehistory that led to the transition to recorded history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-environmental-aspects-of-sustainability-and-how-do-they-contribute-to-climate-change-mitigation
+    url: /learn/history-of-the-world/questions/what-are-the-key-developments-in-prehistory-that-led-to-the-transition-to-recorded-history
 related_article5:
-    id: 166228
-    title: What are the limitations of using archaeological finds as historical evidence?
+    id: 166229
+    title: >-
+        What are the main disciplines within social sciences, and how do they contribute to understanding society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
+    url: /learn/history-of-the-world/questions/what-are-the-main-disciplines-within-social-sciences-and-how-do-they-contribute-to-understanding-society
 ---
 
 &nbsp;

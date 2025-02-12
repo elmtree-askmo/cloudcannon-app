@@ -2,8 +2,10 @@
 _schema: default
 id: 168205
 date: 2025-02-03
-title: What is tokenization in text processing, and why is it important?
-article_title: What is tokenization in text processing, and why is it important?
+title: >-
+    What is tokenization in text processing, and why is it important?
+article_title: >-
+    What is tokenization in text processing, and why is it important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-tokenization-in-text-processing-and-why-is-it-important.md
 url: /learn/others/questions/what-is-tokenization-in-text-processing-and-why-is-it-important
 score: -1.0
 related_article1:
-    id: 168196
-    title: How does data preprocessing improve data quality?
+    id: 168201
+    title: >-
+        What is the difference between supervised and unsupervised learning?
     subject: Others
-    url: /learn/others/questions/how-does-data-preprocessing-improve-data-quality
+    url: /learn/others/questions/what-is-the-difference-between-supervised-and-unsupervised-learning
 related_article2:
-    id: 168215
-    title: How does AutoML impact the field of AI and machine learning?
+    id: 168195
+    title: >-
+        What are the key sources of data used in data collection?
     subject: Others
-    url: /learn/others/questions/how-does-automl-impact-the-field-of-ai-and-machine-learning
+    url: /learn/others/questions/what-are-the-key-sources-of-data-used-in-data-collection
 related_article3:
-    id: 168199
-    title: What are the benefits and challenges of data augmentation?
+    id: 168210
+    title: >-
+        What are the ethical considerations related to bias and fairness in AI?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-and-challenges-of-data-augmentation
+    url: /learn/others/questions/what-are-the-ethical-considerations-related-to-bias-and-fairness-in-ai
 related_article4:
-    id: 168213
-    title: What is the purpose of decision trees in prescriptive analysis?
+    id: 168202
+    title: >-
+        List three common evaluation metrics used in supervised learning.
     subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-decision-trees-in-prescriptive-analysis
-related_article5:
-    id: 168216
-    title: What are the key benefits of using cloud computing in data science?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-benefits-of-using-cloud-computing-in-data-science
+    url: /learn/others/questions/list-three-common-evaluation-metrics-used-in-supervised-learning
 ---
 
 &nbsp;

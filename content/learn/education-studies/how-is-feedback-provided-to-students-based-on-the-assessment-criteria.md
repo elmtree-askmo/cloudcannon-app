@@ -2,8 +2,10 @@
 _schema: default
 id: 169260
 date: 2025-02-04
-title: How is feedback provided to students based on the assessment criteria?
-article_title: How is feedback provided to students based on the assessment criteria?
+title: >-
+    How is feedback provided to students based on the assessment criteria?
+article_title: >-
+    How is feedback provided to students based on the assessment criteria?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-feedback-provided-to-students-based-on-the-assessment-criteria
 url: /learn/education-studies/questions/how-is-feedback-provided-to-students-based-on-the-assessment-criteria
 score: -1.0
 related_article1:
-    id: 169248
-    title: What is the start time and duration of the quiz?
+    id: 169250
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-start-time-and-duration-of-the-quiz
+    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
 related_article2:
-    id: 169253
-    title: How many terms are included in the definitions section, and what criteria are used for their selection?
+    id: 169263
+    title: >-
+        What identification is required for the test, and what items are prohibited?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-many-terms-are-included-in-the-definitions-section-and-what-criteria-are-used-for-their-selection
+    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
 related_article3:
+    id: 169263
+    title: >-
+        What identification is required for the test, and what items are prohibited?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
+related_article4:
+    id: 169250
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
+related_article5:
     id: 169251
-    title: How many multiple choice questions are there, and what is the marking scheme?
+    title: >-
+        How many multiple choice questions are there, and what is the marking scheme?
     subject: Education Studies
     url: /learn/education-studies/questions/how-many-multiple-choice-questions-are-there-and-what-is-the-marking-scheme
-related_article4:
-    id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
-related_article5:
-    id: 169264
-    title: How do online readings integrate with lectures, and how are they relevant to assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-online-readings-integrate-with-lectures-and-how-are-they-relevant-to-assessments
 ---
 
 &nbsp;

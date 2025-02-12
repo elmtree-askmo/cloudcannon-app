@@ -2,8 +2,10 @@
 _schema: default
 id: 166746
 date: 2025-01-31
-title: How can the use of jargon affect audience comprehension?
-article_title: How can the use of jargon affect audience comprehension?
+title: >-
+    How can the use of jargon affect audience comprehension?
+article_title: >-
+    How can the use of jargon affect audience comprehension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-use-of-jargon-affect-audience-comprehension.md
 url: /learn/art-history-and-literature/questions/how-can-the-use-of-jargon-affect-audience-comprehension
 score: 9.0
 related_article1:
-    id: 166753
-    title: Why is proofreading crucial for spelling accuracy in copywriting?
+    id: 166744
+    title: >-
+        Why is it important to respect audience intelligence in copywriting?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-proofreading-crucial-for-spelling-accuracy-in-copywriting
+    url: /learn/art-history-and-literature/questions/why-is-it-important-to-respect-audience-intelligence-in-copywriting
 related_article2:
-    id: 166748
-    title: How can parallel structure and repetition enhance copywriting?
+    id: 166743
+    title: >-
+        How can imagery be used to evoke emotional appeals in advertising?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-parallel-structure-and-repetition-enhance-copywriting
+    url: /learn/art-history-and-literature/questions/how-can-imagery-be-used-to-evoke-emotional-appeals-in-advertising
 related_article3:
-    id: 166755
-    title: What are some effective strategies for generating ideas during the writing process?
+    id: 166742
+    title: >-
+        What is the difference between logical appeals and causal relationships in logos?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-effective-strategies-for-generating-ideas-during-the-writing-process
+    url: /learn/art-history-and-literature/questions/what-is-the-difference-between-logical-appeals-and-causal-relationships-in-logos
 related_article4:
     id: 166750
-    title: How do text and visual elements work together to create emotional responses in copy?
+    title: >-
+        How do text and visual elements work together to create emotional responses in copy?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-text-and-visual-elements-work-together-to-create-emotional-responses-in-copy
 related_article5:
-    id: 166752
-    title: What are some common grammar mistakes to watch for in copywriting?
+    id: 166750
+    title: >-
+        How do text and visual elements work together to create emotional responses in copy?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-some-common-grammar-mistakes-to-watch-for-in-copywriting
+    url: /learn/art-history-and-literature/questions/how-do-text-and-visual-elements-work-together-to-create-emotional-responses-in-copy
 ---
 
 &nbsp;

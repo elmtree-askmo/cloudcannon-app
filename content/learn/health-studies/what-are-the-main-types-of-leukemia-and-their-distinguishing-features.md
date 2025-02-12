@@ -2,8 +2,10 @@
 _schema: default
 id: 166291
 date: 2025-01-30
-title: What are the main types of leukemia and their distinguishing features?
-article_title: What are the main types of leukemia and their distinguishing features?
+title: >-
+    What are the main types of leukemia and their distinguishing features?
+article_title: >-
+    What are the main types of leukemia and their distinguishing features?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-leukemia-and-their-distinguishing-features
 url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
 score: -1.0
 related_article1:
-    id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
-related_article2:
     id: 166303
-    title: What is the purpose of the maintenance phase in leukemia treatment?
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+related_article2:
+    id: 166311
+    title: >-
+        What is the role of chemotherapy in the treatment of lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-chemotherapy-in-the-treatment-of-lymphoma
 related_article3:
-    id: 166309
-    title: What constitutional symptoms are associated with lymphoma?
+    id: 166313
+    title: >-
+        What are the common causes and symptoms of anemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
 related_article4:
-    id: 166300
-    title: How does organ infiltration present in leukemia?
+    id: 166301
+    title: >-
+        What is the goal of the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
+    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 related_article5:
-    id: 166314
-    title: How is anemia diagnosed and treated?
+    id: 166305
+    title: >-
+        How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-anemia-diagnosed-and-treated
+    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
 ---
 
 &nbsp;

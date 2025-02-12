@@ -2,8 +2,10 @@
 _schema: default
 id: 166316
 date: 2025-01-30
-title: How is thrombocytopenia diagnosed and treated?
-article_title: How is thrombocytopenia diagnosed and treated?
+title: >-
+    How is thrombocytopenia diagnosed and treated?
+article_title: >-
+    How is thrombocytopenia diagnosed and treated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-thrombocytopenia-diagnosed-and-treated.md
 url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 score: -1.0
 related_article1:
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
+related_article2:
+    id: 166306
+    title: >-
+        What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
+related_article3:
+    id: 166304
+    title: >-
+        What are the distinguishing characteristics of Hodgkin's lymphoma?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-distinguishing-characteristics-of-hodgkins-lymphoma
+related_article4:
+    id: 166302
+    title: >-
+        How does the consolidation phase differ from the induction phase in leukemia treatment?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
+related_article5:
     id: 166318
-    title: What is the significance of the Philadelphia chromosome in leukemia?
+    title: >-
+        What is the significance of the Philadelphia chromosome in leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
-related_article2:
-    id: 166312
-    title: How does monoclonal antibody therapy work in treating lymphoma?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-monoclonal-antibody-therapy-work-in-treating-lymphoma
-related_article3:
-    id: 166293
-    title: Which protein markers are significant in the diagnosis of leukemia?
-    subject: Health Studies
-    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
-related_article4:
-    id: 166310
-    title: How is lymphoma diagnosed and classified through biopsy?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-through-biopsy
-related_article5:
-    id: 166317
-    title: What is the mechanism of action of chemotherapy in cancer treatment?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
 ---
 
 &nbsp;

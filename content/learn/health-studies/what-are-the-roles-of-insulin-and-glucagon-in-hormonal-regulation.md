@@ -2,8 +2,10 @@
 _schema: default
 id: 170558
 date: 2025-02-06
-title: What are the roles of insulin and glucagon in hormonal regulation?
-article_title: What are the roles of insulin and glucagon in hormonal regulation?
+title: >-
+    What are the roles of insulin and glucagon in hormonal regulation?
+article_title: >-
+    What are the roles of insulin and glucagon in hormonal regulation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation.md
 url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
 score: -1.0
 related_article1:
-    id: 170556
-    title: What is the role of the hypothalamus in the nervous system?
+    id: 170579
+    title: >-
+        What factors influence blood flow regulation in circulatory dynamics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
+    url: /learn/health-studies/questions/what-factors-influence-blood-flow-regulation-in-circulatory-dynamics
 related_article2:
-    id: 170559
-    title: How have innovations in medical devices improved pain management?
+    id: 170575
+    title: >-
+        What is the role of calcium ions in muscle contraction mechanisms?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-have-innovations-in-medical-devices-improved-pain-management
+    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
 related_article3:
+    id: 170565
+    title: >-
+        What is the process of DNA transcription in genetic pathways?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
+related_article4:
     id: 170553
-    title: How does neurotransmitter blockage affect nervous system function?
+    title: >-
+        How does neurotransmitter blockage affect nervous system function?
     subject: Health Studies
     url: /learn/health-studies/questions/how-does-neurotransmitter-blockage-affect-nervous-system-function
-related_article4:
-    id: 170572
-    title: What are the benefits of using clinical vignettes in research methodologies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-benefits-of-using-clinical-vignettes-in-research-methodologies
 related_article5:
     id: 170565
-    title: What is the process of DNA transcription in genetic pathways?
+    title: >-
+        What is the process of DNA transcription in genetic pathways?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-process-of-dna-transcription-in-genetic-pathways
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 168885
 date: 2025-02-04
-title: What role does overconfidence play in financial forecasting?
-article_title: What role does overconfidence play in financial forecasting?
+title: >-
+    What role does overconfidence play in financial forecasting?
+article_title: >-
+    What role does overconfidence play in financial forecasting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-overconfidence-play-in-financial-forecasting.md
 url: /learn/psychology/questions/what-role-does-overconfidence-play-in-financial-forecasting
 score: -1.0
 related_article1:
-    id: 168882
-    title: Under what conditions can expert intuition be considered trustworthy?
+    id: 168889
+    title: >-
+        How do framing effects influence decision outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+    url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
 related_article2:
-    id: 168886
-    title: Describe the premortem strategy and its purpose in decision-making.
+    id: 168888
+    title: >-
+        What is the disposition effect and how does it affect investment decisions?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
 related_article3:
-    id: 168881
-    title: Why are statistical predictions often more reliable than clinical predictions?
+    id: 168889
+    title: >-
+        How do framing effects influence decision outcomes?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+    url: /learn/psychology/questions/how-do-framing-effects-influence-decision-outcomes
 related_article4:
-    id: 168881
-    title: Why are statistical predictions often more reliable than clinical predictions?
+    id: 168894
+    title: >-
+        What is the availability heuristic and how does it affect decision-making?
     subject: Psychology
-    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
+    url: /learn/psychology/questions/what-is-the-availability-heuristic-and-how-does-it-affect-decisionmaking
 related_article5:
-    id: 168884
-    title: How does reference class forecasting help mitigate the planning fallacy?
+    id: 168879
+    title: >-
+        How does the illusion of understanding lead to misinterpretation of historical events?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
+    url: /learn/psychology/questions/how-does-the-illusion-of-understanding-lead-to-misinterpretation-of-historical-events
 ---
 
 &nbsp;

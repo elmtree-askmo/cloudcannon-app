@@ -2,8 +2,10 @@
 _schema: default
 id: 169048
 date: 2025-02-04
-title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
-article_title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+title: >-
+    Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+article_title: >-
+    Describe the transformation of Tiananmen Square from an empty space to a political symbol.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-transformation-of-tiananmen-square-from-an-empty-space-t
 url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
 score: -1.0
 related_article1:
-    id: 169051
-    title: What is the connection between urban geography and political movements in Beijing?
+    id: 169053
+    title: >-
+        What is the role of human agency in Arendt's concept of public space, and why is collective action important?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-connection-between-urban-geography-and-political-movements-in-beijing
+    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
 related_article2:
-    id: 169052
-    title: Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
-    subject: Sociology
-    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
-related_article3:
-    id: 169050
-    title: How did the May Fourth Movement serve as a turning point in modern Chinese history?
-    subject: Sociology
-    url: /learn/sociology/questions/how-did-the-may-fourth-movement-serve-as-a-turning-point-in-modern-chinese-history
-related_article4:
-    id: 169052
-    title: Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
-    subject: Sociology
-    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
-related_article5:
     id: 169042
-    title: How did Tiananmen Square evolve into a political public space over time?
+    title: >-
+        How did Tiananmen Square evolve into a political public space over time?
     subject: Sociology
     url: /learn/sociology/questions/how-did-tiananmen-square-evolve-into-a-political-public-space-over-time
+related_article3:
+    id: 169055
+    title: >-
+        What is the political significance of spatial transformation in shaping public space and political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+related_article4:
+    id: 169041
+    title: >-
+        What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
+related_article5:
+    id: 169045
+    title: >-
+        What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
 ---
 
 &nbsp;

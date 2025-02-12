@@ -2,8 +2,10 @@
 _schema: default
 id: 169649
 date: 2025-02-05
-title: What mental health issues are prevalent among transgender individuals due to discrimination?
-article_title: What mental health issues are prevalent among transgender individuals due to discrimination?
+title: >-
+    What mental health issues are prevalent among transgender individuals due to discrimination?
+article_title: >-
+    What mental health issues are prevalent among transgender individuals due to discrimination?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-tran
 score: -1.0
 related_article1:
     id: 169655
-    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    title: >-
+        What role do nurses play in advocating for vulnerable populations in healthcare?
     subject: Nursing
     url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
 related_article2:
-    id: 169660
-    title: What lessons have been learned from historical discrimination in healthcare?
+    id: 169650
+    title: >-
+        What are some barriers to accessing mental health services for transgender individuals?
     subject: Nursing
-    url: /learn/nursing/questions/what-lessons-have-been-learned-from-historical-discrimination-in-healthcare
+    url: /learn/nursing/questions/what-are-some-barriers-to-accessing-mental-health-services-for-transgender-individuals
 related_article3:
-    id: 169655
-    title: What role do nurses play in advocating for vulnerable populations in healthcare?
+    id: 169643
+    title: >-
+        What are the different types of discrimination that can occur in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-do-nurses-play-in-advocating-for-vulnerable-populations-in-healthcare
+    url: /learn/nursing/questions/what-are-the-different-types-of-discrimination-that-can-occur-in-healthcare-settings
 related_article4:
-    id: 169652
-    title: What societal changes have occurred in the legal and social context of transgender issues?
+    id: 169661
+    title: >-
+        How does intersectionality affect health outcomes and care strategies?
     subject: Nursing
-    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
+    url: /learn/nursing/questions/how-does-intersectionality-affect-health-outcomes-and-care-strategies
 related_article5:
-    id: 169662
-    title: What strategies can be used to provide compassionate care in nursing?
+    id: 169647
+    title: >-
+        What challenges do transgender and non-binary individuals face in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
+    url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
 ---
 
 &nbsp;

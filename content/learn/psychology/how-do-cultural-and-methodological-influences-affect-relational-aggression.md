@@ -2,8 +2,10 @@
 _schema: default
 id: 168121
 date: 2025-02-02
-title: How do cultural and methodological influences affect relational aggression?
-article_title: How do cultural and methodological influences affect relational aggression?
+title: >-
+    How do cultural and methodological influences affect relational aggression?
+article_title: >-
+    How do cultural and methodological influences affect relational aggression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-cultural-and-methodological-influences-affect-relational-aggre
 url: /learn/psychology/questions/how-do-cultural-and-methodological-influences-affect-relational-aggression
 score: -1.0
 related_article1:
-    id: 168128
-    title: What are the common developmental problems associated with autism spectrum disorder?
+    id: 168120
+    title: >-
+        What is relational aggression, and how does it differ from physical aggression?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+    url: /learn/psychology/questions/what-is-relational-aggression-and-how-does-it-differ-from-physical-aggression
 related_article2:
-    id: 168124
-    title: Describe the trajectory of self-esteem from childhood to adolescence.
+    id: 168137
+    title: >-
+        How do gender-based interests influence career choices?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-trajectory-of-selfesteem-from-childhood-to-adolescence
+    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
 related_article3:
-    id: 168131
-    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    id: 168119
+    title: >-
+        How do gender differences manifest in physical aggression?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+    url: /learn/psychology/questions/how-do-gender-differences-manifest-in-physical-aggression
 related_article4:
-    id: 168128
-    title: What are the common developmental problems associated with autism spectrum disorder?
+    id: 168127
+    title: >-
+        How do developmental disorders differ between genders?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-developmental-problems-associated-with-autism-spectrum-disorder
+    url: /learn/psychology/questions/how-do-developmental-disorders-differ-between-genders
 related_article5:
-    id: 168131
-    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    id: 168122
+    title: >-
+        What is the gender gap in self-esteem, and how does it change with age?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+    url: /learn/psychology/questions/what-is-the-gender-gap-in-selfesteem-and-how-does-it-change-with-age
 ---
 
 &nbsp;

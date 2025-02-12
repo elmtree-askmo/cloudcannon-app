@@ -2,8 +2,10 @@
 _schema: default
 id: 168465
 date: 2025-02-03
-title: How do interpersonal skills contribute to career success?
-article_title: How do interpersonal skills contribute to career success?
+title: >-
+    How do interpersonal skills contribute to career success?
+article_title: >-
+    How do interpersonal skills contribute to career success?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-interpersonal-skills-contribute-to-career-success.md
 url: /learn/education-studies/questions/how-do-interpersonal-skills-contribute-to-career-success
 score: -1.0
 related_article1:
-    id: 168466
-    title: Why is creativity important in certain careers?
+    id: 168470
+    title: >-
+        How can individuals identify their true values?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-creativity-important-in-certain-careers
+    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
 related_article2:
-    id: 168460
-    title: How do personal traits influence career choice?
+    id: 168469
+    title: >-
+        What is the role of media in shaping values?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-personal-traits-influence-career-choice
+    url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
 related_article3:
-    id: 168455
-    title: List three core values that might impact career decisions.
+    id: 168470
+    title: >-
+        How can individuals identify their true values?
     subject: Education Studies
-    url: /learn/education-studies/questions/list-three-core-values-that-might-impact-career-decisions
+    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
 related_article4:
     id: 168469
-    title: What is the role of media in shaping values?
+    title: >-
+        What is the role of media in shaping values?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-media-in-shaping-values
 related_article5:
-    id: 168463
-    title: What are some online resources available for career planning?
+    id: 168456
+    title: >-
+        Define skills and explain their importance in career choice.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-online-resources-available-for-career-planning
+    url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
 ---
 
 &nbsp;

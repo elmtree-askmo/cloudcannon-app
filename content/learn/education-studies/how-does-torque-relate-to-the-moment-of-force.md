@@ -2,8 +2,10 @@
 _schema: default
 id: 166702
 date: 2025-01-31
-title: How does torque relate to the moment of force?
-article_title: How does torque relate to the moment of force?
+title: >-
+    How does torque relate to the moment of force?
+article_title: >-
+    How does torque relate to the moment of force?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-torque-relate-to-the-moment-of-force.md
 url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
 score: -1.0
 related_article1:
-    id: 166721
-    title: How do engineering conferences and workshops contribute to professional growth?
+    id: 166710
+    title: >-
+        What are the eligibility criteria for engineering scholarships?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
 related_article2:
-    id: 166703
-    title: What are some engineering applications of torque?
+    id: 166698
+    title: >-
+        How is the conservation of energy principle applied in rigid body dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+    url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
 related_article3:
-    id: 166712
-    title: What types of services do consulting companies offer?
+    id: 166706
+    title: >-
+        Describe the principle of conservation of energy and its significance in engineering systems.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
+    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
 related_article4:
-    id: 166693
-    title: How does the right-hand rule help determine the direction of a vector cross product?
+    id: 166708
+    title: >-
+        What are the requirements for obtaining a certification for consulting in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
+    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
 related_article5:
-    id: 166705
-    title: How is force analysis conducted in statics?
+    id: 166709
+    title: >-
+        How can engineering certifications impact a professional's career?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-force-analysis-conducted-in-statics
+    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
 ---
 
 &nbsp;

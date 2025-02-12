@@ -2,8 +2,10 @@
 _schema: default
 id: 164463
 date: 2025-01-28
-title: What are the main differences between route-based and cognitive map navigation strategies?
-article_title: What are the main differences between route-based and cognitive map navigation strategies?
+title: >-
+    What are the main differences between route-based and cognitive map navigation strategies?
+article_title: >-
+    What are the main differences between route-based and cognitive map navigation strategies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-differences-between-routebased-and-cognitive-map-na
 url: /learn/psychology/questions/what-are-the-main-differences-between-routebased-and-cognitive-map-navigation-strategies
 score: -1.0
 related_article1:
-    id: 164475
-    title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+    id: 164474
+    title: >-
+        How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
 related_article2:
-    id: 164476
-    title: How do converging methods in neuroscience validate findings across different evidence sources?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
-related_article3:
-    id: 164478
-    title: How does damage to the parahippocampal place area impact landmark recognition and cognitive map formation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-damage-to-the-parahippocampal-place-area-impact-landmark-recognition-and-cognitive-map-formation
-related_article4:
     id: 164477
-    title: What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
+    title: >-
+        What are the effects of brain damage on egocentric and allocentric disorientation in navigation?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-effects-of-brain-damage-on-egocentric-and-allocentric-disorientation-in-navigation
-related_article5:
-    id: 164466
-    title: How do fMRI studies contribute to our understanding of categorical metrics?
+related_article3:
+    id: 164476
+    title: >-
+        How do converging methods in neuroscience validate findings across different evidence sources?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-fmri-studies-contribute-to-our-understanding-of-categorical-metrics
+    url: /learn/psychology/questions/how-do-converging-methods-in-neuroscience-validate-findings-across-different-evidence-sources
+related_article4:
+    id: 164474
+    title: >-
+        How does the tectopalpinar pathway contribute to motion detection and unconscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-tectopalpinar-pathway-contribute-to-motion-detection-and-unconscious-vision
+related_article5:
+    id: 164467
+    title: >-
+        What are the visual field methods used in fMRI studies and how do they provide evidence for brain damage effects?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-visual-field-methods-used-in-fmri-studies-and-how-do-they-provide-evidence-for-brain-damage-effects
 ---
 
 &nbsp;

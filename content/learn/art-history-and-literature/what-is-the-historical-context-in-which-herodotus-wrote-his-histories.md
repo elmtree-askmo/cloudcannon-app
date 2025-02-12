@@ -2,8 +2,10 @@
 _schema: default
 id: 164002
 date: 2025-01-28
-title: What is the historical context in which Herodotus wrote his histories?
-article_title: What is the historical context in which Herodotus wrote his histories?
+title: >-
+    What is the historical context in which Herodotus wrote his histories?
+article_title: >-
+    What is the historical context in which Herodotus wrote his histories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-historical-context-in-which-herodotus-wrote-his-histories
 url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
 score: 9.0
 related_article1:
+    id: 164010
+    title: >-
+        How do myths help in understanding human existence and religious practices?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-myths-help-in-understanding-human-existence-and-religious-practices
+related_article2:
+    id: 164008
+    title: >-
+        Why are stone inscriptions significant in Classical Studies?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-are-stone-inscriptions-significant-in-classical-studies
+related_article3:
     id: 163997
-    title: How did the Classical Period in Classical Studies come to an end?
+    title: >-
+        How did the Classical Period in Classical Studies come to an end?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-the-classical-period-in-classical-studies-come-to-an-end
-related_article2:
-    id: 164011
-    title: What is the structuralist interpretation of mythology?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-structuralist-interpretation-of-mythology
-related_article3:
+related_article4:
     id: 164006
-    title: What role did vase painting play in the iconography of Classical Mythology?
+    title: >-
+        What role did vase painting play in the iconography of Classical Mythology?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-did-vase-painting-play-in-the-iconography-of-classical-mythology
-related_article4:
+related_article5:
     id: 164003
-    title: How did Thucydides approach the recording of political events?
+    title: >-
+        How did Thucydides approach the recording of political events?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-thucydides-approach-the-recording-of-political-events
-related_article5:
-    id: 164007
-    title: What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-main-themes-explored-in-homeric-texts-like-the-iliad-and-the-odyssey
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164298
 date: 2025-01-28
-title: How does PET technology compare to fMRI in terms of pros and cons?
-article_title: How does PET technology compare to fMRI in terms of pros and cons?
+title: >-
+    How does PET technology compare to fMRI in terms of pros and cons?
+article_title: >-
+    How does PET technology compare to fMRI in terms of pros and cons?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons.md
 url: /learn/psychology/questions/how-does-pet-technology-compare-to-fmri-in-terms-of-pros-and-cons
 score: -1.0
 related_article1:
-    id: 164303
-    title: How does oxygen consumption relate to brain activity and what external factors can impact this relationship?
+    id: 164308
+    title: >-
+        How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-oxygen-consumption-relate-to-brain-activity-and-what-external-factors-can-impact-this-relationship
+    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
 related_article2:
-    id: 164305
-    title: What are the main advantages of fMRI over PET in neuroimaging?
+    id: 164313
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-advantages-of-fmri-over-pet-in-neuroimaging
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 related_article3:
     id: 164291
-    title: What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
+    title: >-
+        What is the principle of Blood Oxygen Level Dependence (BOLD) in fMRI technology?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-principle-of-blood-oxygen-level-dependence-bold-in-fmri-technology
 related_article4:
-    id: 164308
-    title: How does structural MRI differ from functional MRI in terms of imaging and safety considerations?
+    id: 164294
+    title: >-
+        How does the hemodynamic response function relate to neuroactivity and blood flow in fMRI?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-structural-mri-differ-from-functional-mri-in-terms-of-imaging-and-safety-considerations
+    url: /learn/psychology/questions/how-does-the-hemodynamic-response-function-relate-to-neuroactivity-and-blood-flow-in-fmri
 related_article5:
-    id: 164302
-    title: What is functional specialization in the context of brain activity measurement?
+    id: 164313
+    title: >-
+        What are the key considerations when designing neuroimaging experiments to isolate active ingredients and control baselines?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-functional-specialization-in-the-context-of-brain-activity-measurement
+    url: /learn/psychology/questions/what-are-the-key-considerations-when-designing-neuroimaging-experiments-to-isolate-active-ingredients-and-control-baselines
 ---
 
 &nbsp;

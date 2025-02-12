@@ -2,8 +2,10 @@
 _schema: default
 id: 165303
 date: 2025-01-28
-title: What is artificial selection and how does it differ from natural selection?
-article_title: What is artificial selection and how does it differ from natural selection?
+title: >-
+    What is artificial selection and how does it differ from natural selection?
+article_title: >-
+    What is artificial selection and how does it differ from natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-artificial-selection-and-how-does-it-differ-from-natural-sele
 url: /learn/psychology/questions/what-is-artificial-selection-and-how-does-it-differ-from-natural-selection
 score: -1.0
 related_article1:
-    id: 165288
-    title: How can understanding animal behavior be applied in research?
+    id: 165295
+    title: >-
+        List and explain Darwin’s four postulates of natural selection.
     subject: Psychology
-    url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+    url: /learn/psychology/questions/list-and-explain-darwins-four-postulates-of-natural-selection
 related_article2:
-    id: 165293
-    title: What role does individual learning play in the development of animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
-related_article3:
     id: 165288
-    title: How can understanding animal behavior be applied in research?
+    title: >-
+        How can understanding animal behavior be applied in research?
     subject: Psychology
     url: /learn/psychology/questions/how-can-understanding-animal-behavior-be-applied-in-research
+related_article3:
+    id: 165287
+    title: >-
+        What is the definition of animal behavior and why is it important to study?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
 related_article4:
-    id: 165315
-    title: How does individual variation in hunting strategies affect fitness and survival?
+    id: 165300
+    title: >-
+        Why is genetic variation important for evolution?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-individual-variation-in-hunting-strategies-affect-fitness-and-survival
+    url: /learn/psychology/questions/why-is-genetic-variation-important-for-evolution
 related_article5:
-    id: 165297
-    title: Define fitness in the context of natural selection and explain its importance.
+    id: 165292
+    title: >-
+        How does natural selection contribute to the foundation of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
 ---
 
 &nbsp;

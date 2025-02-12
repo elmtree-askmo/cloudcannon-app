@@ -2,8 +2,10 @@
 _schema: default
 id: 169943
 date: 2025-02-05
-title: How do peptide bonds form between amino acids?
-article_title: How do peptide bonds form between amino acids?
+title: >-
+    How do peptide bonds form between amino acids?
+article_title: >-
+    How do peptide bonds form between amino acids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/how-do-peptide-bonds-form-between-amino-acids
 score: -1.0
 related_article1:
     id: 169952
-    title: What is the relationship between monomers and polymers in biological molecules?
+    title: >-
+        What is the relationship between monomers and polymers in biological molecules?
     subject: Biology
     url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
 related_article2:
-    id: 169939
-    title: What is the difference between covalent and ionic bonds?
+    id: 169955
+    title: >-
+        What is the difference between anabolic and catabolic pathways in metabolism?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
 related_article3:
-    id: 169956
-    title: What are the key principles of cell theory?
+    id: 169954
+    title: >-
+        How do enzymes exhibit specificity for their substrates?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-principles-of-cell-theory
+    url: /learn/biology/questions/how-do-enzymes-exhibit-specificity-for-their-substrates
 related_article4:
-    id: 169951
-    title: What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    id: 169941
+    title: >-
+        What role do electrolytes play in chemical reactions?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
+    url: /learn/biology/questions/what-role-do-electrolytes-play-in-chemical-reactions
 related_article5:
-    id: 169944
-    title: What is the primary function of carbohydrates in living organisms?
+    id: 169961
+    title: >-
+        What is the difference between diffusion and osmosis in passive transport?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-function-of-carbohydrates-in-living-organisms
+    url: /learn/biology/questions/what-is-the-difference-between-diffusion-and-osmosis-in-passive-transport
 ---
 
 &nbsp;

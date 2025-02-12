@@ -2,8 +2,10 @@
 _schema: default
 id: 160514
 date: 2025-01-24
-title: How did the first beta release of Mac OS X impact Apple's software development?
-article_title: How did the first beta release of Mac OS X impact Apple's software development?
+title: >-
+    How did the first beta release of Mac OS X impact Apple's software development?
+article_title: >-
+    How did the first beta release of Mac OS X impact Apple's software development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-dev
 url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 score: -1.0
 related_article1:
-    id: 160418
-    title: What were the key features of the first beta release of Mac OS X?
+    id: 160435
+    title: >-
+        How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-first-beta-release-of-mac-os-x
+    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
 related_article2:
+    id: 160536
+    title: >-
+        What were the key developments in operating systems that Apple introduced in the early 2000s?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-key-developments-in-operating-systems-that-apple-introduced-in-the-early-2000s
+related_article3:
+    id: 160527
+    title: >-
+        How did the transition to aluminum cases affect Apple's product design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
+related_article4:
     id: 160424
-    title: How did the introduction of the iPhone in 2007 transform the smartphone market?
+    title: >-
+        How did the introduction of the iPhone in 2007 transform the smartphone market?
     subject: Computer Science
     url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
-related_article3:
-    id: 160421
-    title: What was the significance of the release of Mac OS X 10.0 Cheetah?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-significance-of-the-release-of-mac-os-x-100-cheetah
-related_article4:
-    id: 160597
-    title: What was significant about the introduction of the Power Mac G4 Cube in the early 2000s?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-significant-about-the-introduction-of-the-power-mac-g4-cube-in-the-early-2000s
 related_article5:
-    id: 160418
-    title: What were the key features of the first beta release of Mac OS X?
+    id: 160435
+    title: >-
+        How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-the-first-beta-release-of-mac-os-x
+    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
 ---
 
 &nbsp;

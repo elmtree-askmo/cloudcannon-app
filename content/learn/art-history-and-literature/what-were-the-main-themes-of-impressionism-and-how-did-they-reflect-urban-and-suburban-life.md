@@ -2,8 +2,10 @@
 _schema: default
 id: 166571
 date: 2025-01-30
-title: What were the main themes of Impressionism, and how did they reflect urban and suburban life?
-article_title: What were the main themes of Impressionism, and how did they reflect urban and suburban life?
+title: >-
+    What were the main themes of Impressionism, and how did they reflect urban and suburban life?
+article_title: >-
+    What were the main themes of Impressionism, and how did they reflect urban and suburban life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-were-the-main-themes-of-impressionism-and-how-did-they-reflect-u
 url: /learn/art-history-and-literature/questions/what-were-the-main-themes-of-impressionism-and-how-did-they-reflect-urban-and-suburban-life
 score: 9.0
 related_article1:
-    id: 166570
-    title: How did photography influence the development of Realism in art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
-related_article2:
-    id: 166566
-    title: How did the Hausmann renovations impact the social patterns in Parisian society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
-related_article3:
-    id: 166568
-    title: What role did the Avant-Garde movement play in the portrayal of marginalized groups in 19th century Paris?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-the-avantgarde-movement-play-in-the-portrayal-of-marginalized-groups-in-19th-century-paris
-related_article4:
     id: 166574
-    title: How did Impressionist artists represent women's perspectives and changing gender roles in their work?
+    title: >-
+        How did Impressionist artists represent women's perspectives and changing gender roles in their work?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-represent-womens-perspectives-and-changing-gender-roles-in-their-work
+related_article2:
+    id: 166570
+    title: >-
+        How did photography influence the development of Realism in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+related_article3:
+    id: 166570
+    title: >-
+        How did photography influence the development of Realism in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+related_article4:
+    id: 166570
+    title: >-
+        How did photography influence the development of Realism in art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+related_article5:
+    id: 166567
+    title: >-
+        How did modernity influence the representation of Parisian society in modern art?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-modernity-influence-the-representation-of-parisian-society-in-modern-art
 ---
 
 &nbsp;

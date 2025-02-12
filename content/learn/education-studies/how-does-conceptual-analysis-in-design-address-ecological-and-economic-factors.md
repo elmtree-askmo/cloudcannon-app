@@ -2,8 +2,10 @@
 _schema: default
 id: 169184
 date: 2025-02-04
-title: How does conceptual analysis in design address ecological and economic factors?
-article_title: How does conceptual analysis in design address ecological and economic factors?
+title: >-
+    How does conceptual analysis in design address ecological and economic factors?
+article_title: >-
+    How does conceptual analysis in design address ecological and economic factors?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-conceptual-analysis-in-design-address-ecological-and-economi
 url: /learn/education-studies/questions/how-does-conceptual-analysis-in-design-address-ecological-and-economic-factors
 score: -1.0
 related_article1:
-    id: 169183
-    title: What are the different types of technical drawings used in architecture, and how do they differ?
+    id: 169186
+    title: >-
+        How are generative AI tools used in design, and what ethical considerations are associated with their use?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-technical-drawings-used-in-architecture-and-how-do-they-differ
+    url: /learn/education-studies/questions/how-are-generative-ai-tools-used-in-design-and-what-ethical-considerations-are-associated-with-their-use
 related_article2:
     id: 169180
-    title: How do sustainability principles in design address the conservation of resources and healthful buildings?
+    title: >-
+        How do sustainability principles in design address the conservation of resources and healthful buildings?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-sustainability-principles-in-design-address-the-conservation-of-resources-and-healthful-buildings
 related_article3:
-    id: 169179
-    title: What are the technical aspects of architectural representation techniques, such as sketching and diagramming?
+    id: 169178
+    title: >-
+        How do visual perception principles apply to two-dimensional and three-dimensional architectural design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-technical-aspects-of-architectural-representation-techniques-such-as-sketching-and-diagramming
+    url: /learn/education-studies/questions/how-do-visual-perception-principles-apply-to-twodimensional-and-threedimensional-architectural-design
 related_article4:
     id: 169181
-    title: What is the relationship between architectural theories and the design process?
+    title: >-
+        What is the relationship between architectural theories and the design process?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-relationship-between-architectural-theories-and-the-design-process
 related_article5:
-    id: 169176
-    title: How does nonobjectivity in art contribute to the understanding of abstract volumetric space?
+    id: 169173
+    title: >-
+        In what ways do power relationships manifest in design, particularly in terms of control and domination?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-nonobjectivity-in-art-contribute-to-the-understanding-of-abstract-volumetric-space
+    url: /learn/education-studies/questions/in-what-ways-do-power-relationships-manifest-in-design-particularly-in-terms-of-control-and-domination
 ---
 
 &nbsp;

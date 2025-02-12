@@ -2,8 +2,10 @@
 _schema: default
 id: 165194
 date: 2025-01-28
-title: What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
-article_title: What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
+title: >-
+    What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
+article_title: >-
+    What are the key differences between recall and recognition tasks, and how do these differences impact memory research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-key-differences-between-recall-and-recognition-tasks-and
 url: /learn/psychology/questions/what-are-the-key-differences-between-recall-and-recognition-tasks-and-how-do-these-differences-impact-memory-research
 score: -1.0
 related_article1:
+    id: 165189
+    title: >-
+        How are independent and dependent variables used in the experimental design of the Stroop Effect, and what role does reaction time measurement play?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-independent-and-dependent-variables-used-in-the-experimental-design-of-the-stroop-effect-and-what-role-does-reaction-time-measurement-play
+related_article2:
+    id: 165192
+    title: >-
+        What ethical considerations must be addressed when designing experimental studies on birth order?
+    subject: Psychology
+    url: /learn/psychology/questions/what-ethical-considerations-must-be-addressed-when-designing-experimental-studies-on-birth-order
+related_article3:
+    id: 165203
+    title: >-
+        What are the main data collection methods used in psychological research, and what challenges must be considered to ensure validity and reliability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-data-collection-methods-used-in-psychological-research-and-what-challenges-must-be-considered-to-ensure-validity-and-reliability
+related_article4:
     id: 165199
-    title: What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
+    title: >-
+        What is the purpose of the Mental Rotation Test, and how is it used to assess spatial ability in cognitive psychology?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-purpose-of-the-mental-rotation-test-and-how-is-it-used-to-assess-spatial-ability-in-cognitive-psychology
-related_article2:
-    id: 165195
-    title: What are the advantages of using a within-subject design in research, and how do counterbalancing techniques address order effects?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-advantages-of-using-a-withinsubject-design-in-research-and-how-do-counterbalancing-techniques-address-order-effects
-related_article3:
-    id: 165193
-    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
-related_article4:
-    id: 165200
-    title: How does survival processing enhance memory, and what is the evolutionary psychology basis for this effect?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-survival-processing-enhance-memory-and-what-is-the-evolutionary-psychology-basis-for-this-effect
-related_article5:
-    id: 165193
-    title: How does depth of processing influence memory recall, and what are the independent and dependent variables in such experiments?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-depth-of-processing-influence-memory-recall-and-what-are-the-independent-and-dependent-variables-in-such-experiments
 ---
 
 &nbsp;

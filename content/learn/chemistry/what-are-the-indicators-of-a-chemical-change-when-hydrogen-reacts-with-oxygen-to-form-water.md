@@ -2,8 +2,10 @@
 _schema: default
 id: 162060
 date: 2025-01-24
-title: What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
-article_title: What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
+title: >-
+    What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
+article_title: >-
+    What are the indicators of a chemical change when hydrogen reacts with oxygen to form water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-wit
 url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-hydrogen-reacts-with-oxygen-to-form-water
 score: -1.0
 related_article1:
-    id: 161750
-    title: What is the role of oxygen in combustion reactions?
+    id: 161935
+    title: >-
+        What are the key differences between the physical states of matter: solid, liquid, and gas?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
 related_article2:
-    id: 161936
-    title: Describe the process of ionization and its effects on the charge of particles.
+    id: 162024
+    title: >-
+        What is the significance of electron removal in the ionization process?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 related_article3:
-    id: 162054
-    title: How can you identify a chemical change through the formation of new substances?
+    id: 161993
+    title: >-
+        What is the significance of the formation of ions in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
+    url: /learn/chemistry/questions/what-is-the-significance-of-the-formation-of-ions-in-chemical-reactions
 related_article4:
-    id: 161982
-    title: What are the effects of ionization on the state of matter?
+    id: 162037
+    title: >-
+        How can the formation of ions be described in the context of ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
 related_article5:
-    id: 162059
-    title: What is the process of ionization and how does it affect the charge of particles?
+    id: 161759
+    title: >-
+        What are the characteristics of gases that distinguish them from liquids and solids?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-process-of-ionization-and-how-does-it-affect-the-charge-of-particles
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 ---
 
 &nbsp;

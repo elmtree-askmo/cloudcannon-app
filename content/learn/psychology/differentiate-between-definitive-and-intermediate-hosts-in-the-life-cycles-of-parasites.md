@@ -2,8 +2,10 @@
 _schema: default
 id: 165835
 date: 2025-01-29
-title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
-article_title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+title: >-
+    Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+article_title: >-
+    Differentiate between definitive and intermediate hosts in the life cycles of parasites.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-definitive-and-intermediate-hosts-in-the-life-c
 url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
 score: -1.0
 related_article1:
-    id: 165838
-    title: How do pharmacological interventions target parasite pathways in drug design?
+    id: 165845
+    title: >-
+        What modern technological advancements are being applied in parasitology research?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 related_article2:
-    id: 165855
-    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    id: 165846
+    title: >-
+        Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
 related_article3:
-    id: 165836
-    title: Identify common vectors of disease and explain their role in disease transmission.
+    id: 165847
+    title: >-
+        What are the key public health implications of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 related_article4:
-    id: 165828
-    title: What are the different types of parasites and how do they differ in their relationships with hosts?
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 related_article5:
-    id: 165828
-    title: What are the different types of parasites and how do they differ in their relationships with hosts?
+    id: 165852
+    title: >-
+        What challenges do global health initiatives face in the eradication of tropical diseases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
 ---
 
 &nbsp;

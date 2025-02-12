@@ -2,8 +2,10 @@
 _schema: default
 id: 168287
 date: 2025-02-03
-title: What are the key components of developing an arguable thesis in literary analysis?
-article_title: What are the key components of developing an arguable thesis in literary analysis?
+title: >-
+    What are the key components of developing an arguable thesis in literary analysis?
+article_title: >-
+    What are the key components of developing an arguable thesis in literary analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-components-of-developing-an-arguable-thesis-in-liter
 url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-developing-an-arguable-thesis-in-literary-analysis
 score: 9.0
 related_article1:
-    id: 168288
-    title: How can central ideas in Shakespeare's works be identified and analyzed?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-central-ideas-in-shakespeares-works-be-identified-and-analyzed
-related_article2:
     id: 168283
-    title: What role does language play in shaping perception in Shakespeare's works?
+    title: >-
+        What role does language play in shaping perception in Shakespeare's works?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-does-language-play-in-shaping-perception-in-shakespeares-works
-related_article3:
+related_article2:
     id: 168280
-    title: How does Shakespeare use deception as a theme in his plays, and what purpose does it serve?
+    title: >-
+        How does Shakespeare use deception as a theme in his plays, and what purpose does it serve?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-shakespeare-use-deception-as-a-theme-in-his-plays-and-what-purpose-does-it-serve
-related_article4:
-    id: 168282
-    title: How does trust and deception interplay in Shakespearean narratives?
+related_article3:
+    id: 168284
+    title: >-
+        How does communication influence relationships in Shakespearean literature?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-trust-and-deception-interplay-in-shakespearean-narratives
+    url: /learn/art-history-and-literature/questions/how-does-communication-influence-relationships-in-shakespearean-literature
+related_article4:
+    id: 168293
+    title: >-
+        How do character interactions in Shakespeare's plays reveal underlying themes and conflicts?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-character-interactions-in-shakespeares-plays-reveal-underlying-themes-and-conflicts
 related_article5:
     id: 168284
-    title: How does communication influence relationships in Shakespearean literature?
+    title: >-
+        How does communication influence relationships in Shakespearean literature?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-communication-influence-relationships-in-shakespearean-literature
 ---

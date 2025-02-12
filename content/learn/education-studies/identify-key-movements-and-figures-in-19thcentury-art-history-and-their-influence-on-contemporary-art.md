@@ -2,8 +2,10 @@
 _schema: default
 id: 159769
 date: 2025-01-23
-title: Identify key movements and figures in 19th-century art history and their influence on contemporary art.
-article_title: Identify key movements and figures in 19th-century art history and their influence on contemporary art.
+title: >-
+    Identify key movements and figures in 19th-century art history and their influence on contemporary art.
+article_title: >-
+    Identify key movements and figures in 19th-century art history and their influence on contemporary art.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/identify-key-movements-and-figures-in-19
 score: -1.0
 related_article1:
     id: 159761
-    title: How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
+    title: >-
+        How did art institutions and the history of art academies contribute to the professionalization of artists and influence art education?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-art-institutions-and-the-history-of-art-academies-contribute-to-the-professionalization-of-artists-and-influence-art-education
 related_article2:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+    id: 159789
+    title: >-
+        Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
+    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-figures-and-works-as-well-as-their-impact-on-the-art-world
 related_article3:
-    id: 159793
-    title: Discuss the representation of gender and race in art and the impact of colonialism on artistic expression.
+    id: 159763
+    title: >-
+        Describe the characteristics of Orientalism in art and its influence on Western art, including key artists and works.
     subject: Education Studies
-    url: /learn/education-studies/questions/discuss-the-representation-of-gender-and-race-in-art-and-the-impact-of-colonialism-on-artistic-expression
+    url: /learn/education-studies/questions/describe-the-characteristics-of-orientalism-in-art-and-its-influence-on-western-art-including-key-artists-and-works
 related_article4:
+    id: 159799
+    title: >-
+        How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
+related_article5:
     id: 159766
-    title: Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
+    title: >-
+        Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
-related_article5:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 ---
 
 &nbsp;

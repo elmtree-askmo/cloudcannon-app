@@ -2,8 +2,10 @@
 _schema: default
 id: 166977
 date: 2025-01-31
-title: How do glycoproteins contribute to cell recognition and attachment functions?
-article_title: How do glycoproteins contribute to cell recognition and attachment functions?
+title: >-
+    How do glycoproteins contribute to cell recognition and attachment functions?
+article_title: >-
+    How do glycoproteins contribute to cell recognition and attachment functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-glycoproteins-contribute-to-cell-recognition-and-attachment-fu
 url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-and-attachment-functions
 score: -1.0
 related_article1:
-    id: 166976
-    title: Differentiate between integral and peripheral proteins in terms of structure and function.
+    id: 166972
+    title: >-
+        Define tonicity and explain how hypertonic, hypotonic, and isotonic solutions affect animal and plant cells.
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
+    url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
 related_article2:
-    id: 166982
-    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    id: 166980
+    title: >-
+        Define selective permeability and its importance in maintaining cellular homeostasis.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
+    url: /learn/biology/questions/define-selective-permeability-and-its-importance-in-maintaining-cellular-homeostasis
 related_article3:
-    id: 166983
-    title: How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
+    id: 166973
+    title: >-
+        Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
     subject: Biology
-    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
 related_article4:
-    id: 166981
-    title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+    id: 166970
+    title: >-
+        What is simple diffusion and which molecules typically undergo this process?
     subject: Biology
-    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
+    url: /learn/biology/questions/what-is-simple-diffusion-and-which-molecules-typically-undergo-this-process
 related_article5:
-    id: 166984
-    title: Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
+    id: 166973
+    title: >-
+        Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
 ---
 
 &nbsp;

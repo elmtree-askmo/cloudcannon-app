@@ -2,8 +2,10 @@
 _schema: default
 id: 167350
 date: 2025-01-31
-title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
-article_title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+title: >-
+    How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+article_title: >-
+    How can changes in marine biodiversity due to ocean acidification affect ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-aff
 url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
 score: -1.0
 related_article1:
-    id: 167341
-    title: What is the primary cause of ocean acidification?
+    id: 167344
+    title: >-
+        How does ocean acidification affect the availability of calcium carbonate for marine organisms?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-is-the-primary-cause-of-ocean-acidification
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-affect-the-availability-of-calcium-carbonate-for-marine-organisms
 related_article2:
-    id: 167351
-    title: What are the predicted changes in future pH levels based on different emission scenarios?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
-related_article3:
-    id: 167343
-    title: What are the effects of decreased pH levels on ocean chemistry?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
-related_article4:
     id: 167345
-    title: What role do marine terrapods play in marine ecosystems?
+    title: >-
+        What role do marine terrapods play in marine ecosystems?
     subject: Marine Biology
     url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
-related_article5:
-    id: 167349
-    title: What impact does ocean acidification have on shell-building organisms like corals and shellfish?
+related_article3:
+    id: 167348
+    title: >-
+        How is long-term data collection important for monitoring ocean chemistry changes?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/what-impact-does-ocean-acidification-have-on-shellbuilding-organisms-like-corals-and-shellfish
+    url: /learn/marine-biology/questions/how-is-longterm-data-collection-important-for-monitoring-ocean-chemistry-changes
+related_article4:
+    id: 167353
+    title: >-
+        Why are phytoplankton and zooplankton crucial to oceanic food chains?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains
+related_article5:
+    id: 167344
+    title: >-
+        How does ocean acidification affect the availability of calcium carbonate for marine organisms?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-affect-the-availability-of-calcium-carbonate-for-marine-organisms
 ---
 
 &nbsp;

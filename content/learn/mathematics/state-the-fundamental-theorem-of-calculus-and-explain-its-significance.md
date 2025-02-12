@@ -2,8 +2,10 @@
 _schema: default
 id: 168337
 date: 2025-02-03
-title: State the Fundamental Theorem of Calculus and explain its significance.
-article_title: State the Fundamental Theorem of Calculus and explain its significance.
+title: >-
+    State the Fundamental Theorem of Calculus and explain its significance.
+article_title: >-
+    State the Fundamental Theorem of Calculus and explain its significance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: state-the-fundamental-theorem-of-calculus-and-explain-its-significanc
 url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
 score: -1.0
 related_article1:
-    id: 168327
-    title: What is the formal definition of a limit and how is it notated?
+    id: 168331
+    title: >-
+        What is the product rule for derivatives and how is it applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article2:
-    id: 168341
-    title: How are linear approximations used in calculus problems?
+    id: 168335
+    title: >-
+        What is the substitution rule in integration and when is it used?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
+    url: /learn/mathematics/questions/what-is-the-substitution-rule-in-integration-and-when-is-it-used
 related_article3:
-    id: 168341
-    title: How are linear approximations used in calculus problems?
+    id: 168329
+    title: >-
+        What are the limit laws and how are they used to calculate limits?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-linear-approximations-used-in-calculus-problems
+    url: /learn/mathematics/questions/what-are-the-limit-laws-and-how-are-they-used-to-calculate-limits
 related_article4:
-    id: 168330
-    title: Describe the geometric interpretation of a derivative.
+    id: 168333
+    title: >-
+        What is the equation of a tangent line to a curve at a given point?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
 related_article5:
-    id: 168330
-    title: Describe the geometric interpretation of a derivative.
+    id: 168339
+    title: >-
+        Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+    url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165904
 date: 2025-01-29
-title: How does self-directed learning enhance independent research skills?
-article_title: How does self-directed learning enhance independent research skills?
+title: >-
+    How does self-directed learning enhance independent research skills?
+article_title: >-
+    How does self-directed learning enhance independent research skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-selfdirected-learning-enhance-independent-research-skills.md
 url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
 score: -1.0
 related_article1:
-    id: 165884
-    title: What are the key stages of academic progression in a university setting?
+    id: 165898
+    title: >-
+        What is the importance of time management in achieving academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-stages-of-academic-progression-in-a-university-setting
+    url: /learn/education-studies/questions/what-is-the-importance-of-time-management-in-achieving-academic-success
 related_article2:
-    id: 165905
-    title: What is the role of interpersonal communication in developing effective communication skills?
+    id: 165891
+    title: >-
+        How does the complexity of research requirements increase with academic progression?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-interpersonal-communication-in-developing-effective-communication-skills
+    url: /learn/education-studies/questions/how-does-the-complexity-of-research-requirements-increase-with-academic-progression
 related_article3:
-    id: 165902
-    title: How can individuals adapt to change through lifelong learning?
+    id: 165899
+    title: >-
+        How can planning and scheduling improve a student's academic performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-adapt-to-change-through-lifelong-learning
+    url: /learn/education-studies/questions/how-can-planning-and-scheduling-improve-a-students-academic-performance
 related_article4:
-    id: 165896
-    title: What is the role of archaeology and history in understanding material artefacts?
+    id: 165894
+    title: >-
+        What is the significance of studying material, cultural, and social artefacts in the arts and humanities?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
+    url: /learn/education-studies/questions/what-is-the-significance-of-studying-material-cultural-and-social-artefacts-in-the-arts-and-humanities
 related_article5:
-    id: 165892
-    title: What are the key components of effective academic writing?
+    id: 165899
+    title: >-
+        How can planning and scheduling improve a student's academic performance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-academic-writing
+    url: /learn/education-studies/questions/how-can-planning-and-scheduling-improve-a-students-academic-performance
 ---
 
 &nbsp;

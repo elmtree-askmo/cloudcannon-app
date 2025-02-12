@@ -2,8 +2,10 @@
 _schema: default
 id: 161560
 date: 2025-01-24
-title: What are the primary functions of IBM's z/OS operating system for mainframes?
-article_title: What are the primary functions of IBM's z/OS operating system for mainframes?
+title: >-
+    What are the primary functions of IBM's z/OS operating system for mainframes?
+article_title: >-
+    What are the primary functions of IBM's z/OS operating system for mainframes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainf
 url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
 score: -1.0
 related_article1:
-    id: 161300
-    title: What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
+    id: 161322
+    title: >-
+        What are the main characteristics of open source software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-cooling-techniques-are-commonly-used-to-maintain-optimal-temperatures-in-computing-systems
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article2:
-    id: 161295
-    title: What does MIPS measure in mainframe performance metrics?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
-related_article3:
-    id: 161294
-    title: Why is disaster recovery an essential aspect of physical security in computing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-aspect-of-physical-security-in-computing
-related_article4:
     id: 161317
-    title: What are the advantages of using water cooling over air cooling in heat maintenance?
+    title: >-
+        What are the advantages of using water cooling over air cooling in heat maintenance?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-of-using-water-cooling-over-air-cooling-in-heat-maintenance
-related_article5:
-    id: 161675
-    title: How does licensing differ between open source and proprietary software?
+related_article3:
+    id: 161293
+    title: >-
+        What is the purpose of encryption in access control?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
+related_article4:
+    id: 161291
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
+related_article5:
+    id: 161308
+    title: >-
+        What are the disadvantages of a graphical user interface?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-graphical-user-interface
 ---
 
 &nbsp;

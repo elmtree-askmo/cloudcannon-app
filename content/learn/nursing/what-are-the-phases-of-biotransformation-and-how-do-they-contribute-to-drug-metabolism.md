@@ -2,8 +2,10 @@
 _schema: default
 id: 166427
 date: 2025-01-30
-title: What are the phases of biotransformation, and how do they contribute to drug metabolism?
-article_title: What are the phases of biotransformation, and how do they contribute to drug metabolism?
+title: >-
+    What are the phases of biotransformation, and how do they contribute to drug metabolism?
+article_title: >-
+    What are the phases of biotransformation, and how do they contribute to drug metabolism?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/nursing/questions/what-are-the-phases-of-biotransformation-and-how-d
 score: -1.0
 related_article1:
     id: 166437
-    title: What are the types of drug interactions, and what are their clinical implications?
+    title: >-
+        What are the types of drug interactions, and what are their clinical implications?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-types-of-drug-interactions-and-what-are-their-clinical-implications
 related_article2:
-    id: 166432
-    title: What factors affect drug metabolism, and what are the clinical implications of these factors?
+    id: 166438
+    title: >-
+        What is a black box warning, and what is its purpose in pharmacology?
     subject: Nursing
-    url: /learn/nursing/questions/what-factors-affect-drug-metabolism-and-what-are-the-clinical-implications-of-these-factors
+    url: /learn/nursing/questions/what-is-a-black-box-warning-and-what-is-its-purpose-in-pharmacology
 related_article3:
-    id: 166423
-    title: What is the definition of 'onset of action' in pharmacology, and why is it important?
+    id: 166428
+    title: >-
+        Describe the function of the Cytochrome P-450 enzyme and its role in drug interactions.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-onset-of-action-in-pharmacology-and-why-is-it-important
+    url: /learn/nursing/questions/describe-the-function-of-the-cytochrome-p450-enzyme-and-its-role-in-drug-interactions
 related_article4:
-    id: 166425
-    title: Explain the mechanism of the first pass effect and its impact on drug efficacy.
+    id: 166430
+    title: >-
+        How is the peak level of a drug measured, and why is it clinically relevant?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-mechanism-of-the-first-pass-effect-and-its-impact-on-drug-efficacy
+    url: /learn/nursing/questions/how-is-the-peak-level-of-a-drug-measured-and-why-is-it-clinically-relevant
 related_article5:
-    id: 166429
-    title: What are adverse effects, and what strategies can be used to manage them?
+    id: 166424
+    title: >-
+        Describe the process of enteric absorption and list two factors that can affect it.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-adverse-effects-and-what-strategies-can-be-used-to-manage-them
+    url: /learn/nursing/questions/describe-the-process-of-enteric-absorption-and-list-two-factors-that-can-affect-it
 ---
 
 &nbsp;

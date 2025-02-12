@@ -2,8 +2,10 @@
 _schema: default
 id: 166831
 date: 2025-01-31
-title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
-article_title: What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+title: >-
+    What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
+article_title: >-
+    What is the significance of the 5’ to 3’ orientation in nucleic acid structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-st
 url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-orientation-in-nucleic-acid-structure
 score: -1.0
 related_article1:
-    id: 166833
-    title: How can you predict the complementary strand of a given DNA sequence?
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-can-you-predict-the-complementary-strand-of-a-given-dna-sequence
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article2:
-    id: 166830
-    title: How are phosphodiester linkages formed between nucleotides?
+    id: 166826
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-are-phosphodiester-linkages-formed-between-nucleotides
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article3:
-    id: 166825
-    title: Describe the biological function of RNA and its location within cells.
+    id: 166824
+    title: >-
+        What are the main chemical components of DNA and where is it located in cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
+    url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
 related_article4:
-    id: 166825
-    title: Describe the biological function of RNA and its location within cells.
+    id: 166824
+    title: >-
+        What are the main chemical components of DNA and where is it located in cells?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
+    url: /learn/biotechnology/questions/what-are-the-main-chemical-components-of-dna-and-where-is-it-located-in-cells
 related_article5:
-    id: 166825
-    title: Describe the biological function of RNA and its location within cells.
+    id: 166828
+    title: >-
+        Identify the purine bases and describe their role in nucleic acids.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-biological-function-of-rna-and-its-location-within-cells
+    url: /learn/biotechnology/questions/identify-the-purine-bases-and-describe-their-role-in-nucleic-acids
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169256
 date: 2025-02-04
-title: What are the requirements for completeness and support in short essay answers?
-article_title: What are the requirements for completeness and support in short essay answers?
+title: >-
+    What are the requirements for completeness and support in short essay answers?
+article_title: >-
+    What are the requirements for completeness and support in short essay answers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-requirements-for-completeness-and-support-in-short-essay
 url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
 score: -1.0
 related_article1:
-    id: 169265
-    title: What key topics are covered in lecture materials, and what supplementary information is provided?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-key-topics-are-covered-in-lecture-materials-and-what-supplementary-information-is-provided
-related_article2:
-    id: 169255
-    title: How many short essay questions are included, and what is the process for their selection?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-many-short-essay-questions-are-included-and-what-is-the-process-for-their-selection
-related_article3:
     id: 169250
-    title: How are the total marks distributed across different sections of the quiz?
+    title: >-
+        How are the total marks distributed across different sections of the quiz?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-the-total-marks-distributed-across-different-sections-of-the-quiz
-related_article4:
-    id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
-related_article5:
+related_article2:
     id: 169248
-    title: What is the start time and duration of the quiz?
+    title: >-
+        What is the start time and duration of the quiz?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-start-time-and-duration-of-the-quiz
+related_article3:
+    id: 169260
+    title: >-
+        How is feedback provided to students based on the assessment criteria?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-feedback-provided-to-students-based-on-the-assessment-criteria
+related_article4:
+    id: 169253
+    title: >-
+        How many terms are included in the definitions section, and what criteria are used for their selection?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-many-terms-are-included-in-the-definitions-section-and-what-criteria-are-used-for-their-selection
+related_article5:
+    id: 169258
+    title: >-
+        Which areas of course content are emphasized in the quiz, and which are excluded?
+    subject: Education Studies
+    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
 ---
 
 &nbsp;

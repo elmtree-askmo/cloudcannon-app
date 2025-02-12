@@ -2,8 +2,10 @@
 _schema: default
 id: 167905
 date: 2025-02-01
-title: What is the genetic cause of cystic fibrosis and how is it treated?
-article_title: What is the genetic cause of cystic fibrosis and how is it treated?
+title: >-
+    What is the genetic cause of cystic fibrosis and how is it treated?
+article_title: >-
+    What is the genetic cause of cystic fibrosis and how is it treated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-genetic-cause-of-cystic-fibrosis-and-how-is-it-treated.md
 url: /learn/education-studies/questions/what-is-the-genetic-cause-of-cystic-fibrosis-and-how-is-it-treated
 score: -1.0
 related_article1:
-    id: 167896
-    title: What are the key chromosomal abnormalities associated with Down Syndrome?
+    id: 167909
+    title: >-
+        How can smart book technology enhance learning in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-chromosomal-abnormalities-associated-with-down-syndrome
+    url: /learn/education-studies/questions/how-can-smart-book-technology-enhance-learning-in-genetics
 related_article2:
-    id: 167895
-    title: How does the environment influence genetic expression, particularly in the case of Phenylketonuria (PKU)?
+    id: 167904
+    title: >-
+        How do amino acids contribute to protein structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-environment-influence-genetic-expression-particularly-in-the-case-of-phenylketonuria-pku
+    url: /learn/education-studies/questions/how-do-amino-acids-contribute-to-protein-structure-and-function
 related_article3:
-    id: 167911
-    title: How does the genotype-phenotype relationship explain the genetic basis of traits?
+    id: 167912
+    title: >-
+        What are the types of genetic tests available and their purposes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-genotypephenotype-relationship-explain-the-genetic-basis-of-traits
+    url: /learn/education-studies/questions/what-are-the-types-of-genetic-tests-available-and-their-purposes
 related_article4:
-    id: 167903
-    title: What are the different types of RNA and their roles in protein synthesis?
+    id: 167907
+    title: >-
+        Explain Mendelian inheritance and the significance of dihybrid crosses.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-rna-and-their-roles-in-protein-synthesis
+    url: /learn/education-studies/questions/explain-mendelian-inheritance-and-the-significance-of-dihybrid-crosses
 related_article5:
-    id: 167902
-    title: Describe the double helix model of DNA and the importance of base pairing.
+    id: 167909
+    title: >-
+        How can smart book technology enhance learning in genetics?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-double-helix-model-of-dna-and-the-importance-of-base-pairing
+    url: /learn/education-studies/questions/how-can-smart-book-technology-enhance-learning-in-genetics
 ---
 
 &nbsp;

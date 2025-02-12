@@ -2,8 +2,10 @@
 _schema: default
 id: 161019
 date: 2025-01-24
-title: What are associative arrays and how do they utilize non-numeric indices?
-article_title: What are associative arrays and how do they utilize non-numeric indices?
+title: >-
+    What are associative arrays and how do they utilize non-numeric indices?
+article_title: >-
+    What are associative arrays and how do they utilize non-numeric indices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indice
 url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
 score: -1.0
 related_article1:
-    id: 160764
-    title: What is the significance of understanding the origin of problems in computational problem solving?
+    id: 161017
+    title: >-
+        Explain the concept of lists and how they are implemented as arrays.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
+    url: /learn/computer-science/questions/explain-the-concept-of-lists-and-how-they-are-implemented-as-arrays
 related_article2:
-    id: 160698
-    title: What is the role of abstraction in computing?
+    id: 160860
+    title: >-
+        How does testing differ from proving solutions in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-abstraction-in-computing
+    url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
 related_article3:
-    id: 160693
-    title: What is the difference between testing and proving solutions in computing?
+    id: 160872
+    title: >-
+        Compare linear search with depth-first search in terms of their approach and use cases.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-testing-and-proving-solutions-in-computing
+    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
 related_article4:
-    id: 160695
-    title: Describe the divide and conquer strategy in algorithm development.
+    id: 160709
+    title: >-
+        What are the challenges associated with proving solutions in software testing?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
+    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-proving-solutions-in-software-testing
 related_article5:
-    id: 160764
-    title: What is the significance of understanding the origin of problems in computational problem solving?
+    id: 160708
+    title: >-
+        How can analyzing problem specifications aid in problem-solving strategies in software engineering?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
+    url: /learn/computer-science/questions/how-can-analyzing-problem-specifications-aid-in-problemsolving-strategies-in-software-engineering
 ---
 
 &nbsp;

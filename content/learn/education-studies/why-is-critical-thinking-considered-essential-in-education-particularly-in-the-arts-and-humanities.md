@@ -2,8 +2,10 @@
 _schema: default
 id: 165888
 date: 2025-01-29
-title: Why is critical thinking considered essential in education, particularly in the arts and humanities?
-article_title: Why is critical thinking considered essential in education, particularly in the arts and humanities?
+title: >-
+    Why is critical thinking considered essential in education, particularly in the arts and humanities?
+article_title: >-
+    Why is critical thinking considered essential in education, particularly in the arts and humanities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-critical-thinking-considered-essential-in-education-particular
 url: /learn/education-studies/questions/why-is-critical-thinking-considered-essential-in-education-particularly-in-the-arts-and-humanities
 score: -1.0
 related_article1:
-    id: 165891
-    title: How does the complexity of research requirements increase with academic progression?
+    id: 165904
+    title: >-
+        How does self-directed learning enhance independent research skills?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-complexity-of-research-requirements-increase-with-academic-progression
+    url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
 related_article2:
-    id: 165905
-    title: What is the role of interpersonal communication in developing effective communication skills?
+    id: 165903
+    title: >-
+        What are the benefits of developing transferable skills such as problem-solving and decision-making?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-interpersonal-communication-in-developing-effective-communication-skills
+    url: /learn/education-studies/questions/what-are-the-benefits-of-developing-transferable-skills-such-as-problemsolving-and-decisionmaking
 related_article3:
-    id: 165890
-    title: What are the essential skills needed for conducting independent research?
+    id: 165900
+    title: >-
+        What are effective study techniques for exam preparation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-skills-needed-for-conducting-independent-research
+    url: /learn/education-studies/questions/what-are-effective-study-techniques-for-exam-preparation
 related_article4:
-    id: 165901
-    title: Why is continuous education important for personal and professional development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-continuous-education-important-for-personal-and-professional-development
-related_article5:
     id: 165897
-    title: How does literary criticism contribute to the analysis of cultural artefacts?
+    title: >-
+        How does literary criticism contribute to the analysis of cultural artefacts?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-literary-criticism-contribute-to-the-analysis-of-cultural-artefacts
+related_article5:
+    id: 165896
+    title: >-
+        What is the role of archaeology and history in understanding material artefacts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-archaeology-and-history-in-understanding-material-artefacts
 ---
 
 &nbsp;

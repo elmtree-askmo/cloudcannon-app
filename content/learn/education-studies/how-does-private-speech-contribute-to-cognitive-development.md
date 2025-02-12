@@ -2,8 +2,10 @@
 _schema: default
 id: 167964
 date: 2025-02-02
-title: How does private speech contribute to cognitive development?
-article_title: How does private speech contribute to cognitive development?
+title: >-
+    How does private speech contribute to cognitive development?
+article_title: >-
+    How does private speech contribute to cognitive development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-private-speech-contribute-to-cognitive-development.md
 url: /learn/education-studies/questions/how-does-private-speech-contribute-to-cognitive-development
 score: -1.0
 related_article1:
-    id: 167961
-    title: How do social interactions influence cognitive development according to Vygotsky's sociocultural theory?
+    id: 167965
+    title: >-
+        What is the relationship between private speech and problem solving?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-social-interactions-influence-cognitive-development-according-to-vygotskys-sociocultural-theory
+    url: /learn/education-studies/questions/what-is-the-relationship-between-private-speech-and-problem-solving
 related_article2:
-    id: 167962
-    title: What role do cultural tools and symbols play in cognitive processes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-cultural-tools-and-symbols-play-in-cognitive-processes
-related_article3:
     id: 167966
-    title: Describe the concept of the Zone of Proximal Development and its significance in learning.
+    title: >-
+        Describe the concept of the Zone of Proximal Development and its significance in learning.
     subject: Education Studies
     url: /learn/education-studies/questions/describe-the-concept-of-the-zone-of-proximal-development-and-its-significance-in-learning
-related_article4:
-    id: 167963
-    title: Explain the transition from the interpersonal to the intrapersonal level of development.
+related_article3:
+    id: 167968
+    title: >-
+        How does symbolic play create a Zone of Proximal Development for children?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-transition-from-the-interpersonal-to-the-intrapersonal-level-of-development
+    url: /learn/education-studies/questions/how-does-symbolic-play-create-a-zone-of-proximal-development-for-children
+related_article4:
+    id: 167968
+    title: >-
+        How does symbolic play create a Zone of Proximal Development for children?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-symbolic-play-create-a-zone-of-proximal-development-for-children
+related_article5:
+    id: 167967
+    title: >-
+        What is scaffolding, and how does it support learning within the Zone of Proximal Development?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-scaffolding-and-how-does-it-support-learning-within-the-zone-of-proximal-development
 ---
 
 &nbsp;

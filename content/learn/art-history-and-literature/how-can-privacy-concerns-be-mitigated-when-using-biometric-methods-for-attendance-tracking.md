@@ -2,8 +2,10 @@
 _schema: default
 id: 168244
 date: 2025-02-03
-title: How can privacy concerns be mitigated when using biometric methods for attendance tracking?
-article_title: How can privacy concerns be mitigated when using biometric methods for attendance tracking?
+title: >-
+    How can privacy concerns be mitigated when using biometric methods for attendance tracking?
+article_title: >-
+    How can privacy concerns be mitigated when using biometric methods for attendance tracking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-privacy-concerns-be-mitigated-when-using-biometric-methods-fo
 url: /learn/art-history-and-literature/questions/how-can-privacy-concerns-be-mitigated-when-using-biometric-methods-for-attendance-tracking
 score: 9.0
 related_article1:
-    id: 168247
-    title: What are the benefits of collaborative learning, and how does it contribute to skill development?
+    id: 168243
+    title: >-
+        What are the advantages and disadvantages of manual versus digital attendance tracking systems?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-benefits-of-collaborative-learning-and-how-does-it-contribute-to-skill-development
+    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
 related_article2:
-    id: 168245
-    title: What are the key elements of effective verbal communication, and how does active listening enhance this process?
+    id: 168238
+    title: >-
+        How can conflicts be resolved in group discussions to achieve consensus?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-of-effective-verbal-communication-and-how-does-active-listening-enhance-this-process
+    url: /learn/art-history-and-literature/questions/how-can-conflicts-be-resolved-in-group-discussions-to-achieve-consensus
 related_article3:
-    id: 168237
-    title: What are the essential components of structuring a group discussion, and how does role assignment contribute to effective dynamics?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-essential-components-of-structuring-a-group-discussion-and-how-does-role-assignment-contribute-to-effective-dynamics
-related_article4:
     id: 168249
-    title: What criteria should be considered when selecting a topic for study or discussion, and why is resource availability important?
+    title: >-
+        What criteria should be considered when selecting a topic for study or discussion, and why is resource availability important?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-criteria-should-be-considered-when-selecting-a-topic-for-study-or-discussion-and-why-is-resource-availability-important
-related_article5:
-    id: 168248
-    title: What challenges might arise in collaborative learning due to unequal participation, and how can they be managed?
+related_article4:
+    id: 168241
+    title: >-
+        What strategies can be employed to improve name recognition in large groups?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-challenges-might-arise-in-collaborative-learning-due-to-unequal-participation-and-how-can-they-be-managed
+    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-improve-name-recognition-in-large-groups
+related_article5:
+    id: 168243
+    title: >-
+        What are the advantages and disadvantages of manual versus digital attendance tracking systems?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161283
 date: 2025-01-24
-title: What is the significance of the P vs NP problem in computational theory?
-article_title: What is the significance of the P vs NP problem in computational theory?
+title: >-
+    What is the significance of the P vs NP problem in computational theory?
+article_title: >-
+    What is the significance of the P vs NP problem in computational theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-p-vs-np-problem-in-computational-theo
 url: /learn/computer-science/questions/what-is-the-significance-of-the-p-vs-np-problem-in-computational-theory
 score: -1.0
 related_article1:
-    id: 160815
-    title: How does cardinality relate to the comparison of infinite sets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-cardinality-relate-to-the-comparison-of-infinite-sets
-related_article2:
-    id: 160799
-    title: How does the level of representation impact algorithm complexity?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
-related_article3:
-    id: 161141
-    title: How can the irrationality of a number be proven?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-the-irrationality-of-a-number-be-proven
-related_article4:
-    id: 161145
-    title: What breakthroughs have been made in primality testing algorithms?
+    id: 160818
+    title: >-
+        What breakthroughs have been made in primality testing algorithms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-breakthroughs-have-been-made-in-primality-testing-algorithms
-related_article5:
-    id: 160967
-    title: What are the mathematical implications of infinite sets in set theory?
+related_article2:
+    id: 161135
+    title: >-
+        Explain the traveling salesman problem and its role in NP-completeness.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-mathematical-implications-of-infinite-sets-in-set-theory
+    url: /learn/computer-science/questions/explain-the-traveling-salesman-problem-and-its-role-in-npcompleteness
+related_article3:
+    id: 160810
+    title: >-
+        What are the implications of the halting problem on static and dynamic analysis?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+related_article4:
+    id: 161128
+    title: >-
+        Explain the role of abstraction in simplifying complex computing problems.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-role-of-abstraction-in-simplifying-complex-computing-problems
+related_article5:
+    id: 161141
+    title: >-
+        How can the irrationality of a number be proven?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-the-irrationality-of-a-number-be-proven
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161466
 date: 2025-01-24
-title: How can individuals recognize and prevent pharming attempts?
-article_title: How can individuals recognize and prevent pharming attempts?
+title: >-
+    How can individuals recognize and prevent pharming attempts?
+article_title: >-
+    How can individuals recognize and prevent pharming attempts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-individuals-recognize-and-prevent-pharming-attempts.md
 url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
 score: -1.0
 related_article1:
-    id: 161250
-    title: What is online impersonation in the context of identity theft?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-online-impersonation-in-the-context-of-identity-theft
-related_article2:
-    id: 161385
-    title: Why is it important to regularly update anti-virus software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-it-important-to-regularly-update-antivirus-software
-related_article3:
-    id: 161381
-    title: What are some common methods used for pseudonymization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
-related_article4:
-    id: 161381
-    title: What are some common methods used for pseudonymization?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-for-pseudonymization
-related_article5:
     id: 161468
-    title: What are the advantages of using biometric security for authentication?
+    title: >-
+        What are the advantages of using biometric security for authentication?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
+related_article2:
+    id: 161246
+    title: >-
+        What are some examples of basic identification information considered as personal data?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
+related_article3:
+    id: 161246
+    title: >-
+        What are some examples of basic identification information considered as personal data?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
+related_article4:
+    id: 161454
+    title: >-
+        What is the purpose of de-identification in data protection?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
+related_article5:
+    id: 161248
+    title: >-
+        What is the purpose of de-identification in data protection?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-purpose-of-deidentification-in-data-protection
 ---
 
 &nbsp;

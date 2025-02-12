@@ -2,8 +2,10 @@
 _schema: default
 id: 169059
 date: 2025-02-04
-title: How did the command economy shape the urban form of post-war Warsaw?
-article_title: How did the command economy shape the urban form of post-war Warsaw?
+title: >-
+    How did the command economy shape the urban form of post-war Warsaw?
+article_title: >-
+    How did the command economy shape the urban form of post-war Warsaw?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-did-the-command-economy-shape-the-urban-form-of-postwar-warsaw.md
 url: /learn/history-of-the-world/questions/how-did-the-command-economy-shape-the-urban-form-of-postwar-warsaw
 score: 9.0
 related_article1:
-    id: 169068
-    title: How did the government use reconstruction efforts to unify the populace in post-war Warsaw?
+    id: 169064
+    title: >-
+        In what ways was urban development used as a tool for political propaganda in Warsaw?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-government-use-reconstruction-efforts-to-unify-the-populace-in-postwar-warsaw
+    url: /learn/history-of-the-world/questions/in-what-ways-was-urban-development-used-as-a-tool-for-political-propaganda-in-warsaw
 related_article2:
-    id: 169062
-    title: What techniques were used in the reconstruction of Warsaw's historical buildings?
+    id: 169056
+    title: >-
+        What were the main challenges faced during the post-war recovery efforts in Warsaw?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-techniques-were-used-in-the-reconstruction-of-warsaws-historical-buildings
+    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-during-the-postwar-recovery-efforts-in-warsaw
 related_article3:
-    id: 169068
-    title: How did the government use reconstruction efforts to unify the populace in post-war Warsaw?
+    id: 169058
+    title: >-
+        What are the defining characteristics of Socialist Realism in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-government-use-reconstruction-efforts-to-unify-the-populace-in-postwar-warsaw
+    url: /learn/history-of-the-world/questions/what-are-the-defining-characteristics-of-socialist-realism-in-architecture
 related_article4:
-    id: 169060
-    title: What were the key differences between pre-war and post-war urban characteristics in Warsaw?
+    id: 169064
+    title: >-
+        In what ways was urban development used as a tool for political propaganda in Warsaw?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-differences-between-prewar-and-postwar-urban-characteristics-in-warsaw
+    url: /learn/history-of-the-world/questions/in-what-ways-was-urban-development-used-as-a-tool-for-political-propaganda-in-warsaw
 related_article5:
     id: 169064
-    title: In what ways was urban development used as a tool for political propaganda in Warsaw?
+    title: >-
+        In what ways was urban development used as a tool for political propaganda in Warsaw?
     subject: History of the World
     url: /learn/history-of-the-world/questions/in-what-ways-was-urban-development-used-as-a-tool-for-political-propaganda-in-warsaw
 ---

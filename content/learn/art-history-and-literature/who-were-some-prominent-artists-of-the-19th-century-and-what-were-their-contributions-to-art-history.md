@@ -2,8 +2,10 @@
 _schema: default
 id: 165960
 date: 2025-01-29
-title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
-article_title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
+title: >-
+    Who were some prominent artists of the 19th century, and what were their contributions to art history?
+article_title: >-
+    Who were some prominent artists of the 19th century, and what were their contributions to art history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-were-some-prominent-artists-of-the-19th-century-and-what-were-the
 url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 score: 9.0
 related_article1:
-    id: 165953
-    title: Who were the key artists involved in the development of Cubism, and what were their contributions?
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-artists-involved-in-the-development-of-cubism-and-what-were-their-contributions
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
 related_article2:
-    id: 165949
-    title: What were the goals of the Salon d’Automne, and who were its key organizers?
+    id: 165947
+    title: >-
+        What were the founding objectives of the Salon des Independantes, and who were its key figures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
+    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
 related_article3:
     id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
+    title: >-
+        What was the historical context behind the creation of the Salon des Refusés?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 related_article4:
-    id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
+    id: 165952
+    title: >-
+        How did Claude Monet influence the Impressionist movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
 related_article5:
-    id: 165945
-    title: Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
+    id: 165939
+    title: >-
+        What was the primary purpose of the Official Paris Salon when it was first established?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
+    url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
 ---
 
 &nbsp;

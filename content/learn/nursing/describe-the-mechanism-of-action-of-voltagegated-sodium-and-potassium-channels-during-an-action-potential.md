@@ -2,8 +2,10 @@
 _schema: default
 id: 170606
 date: 2025-02-06
-title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
-article_title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+title: >-
+    Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+article_title: >-
+    Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium
 url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
 score: -1.0
 related_article1:
-    id: 170599
-    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    id: 170605
+    title: >-
+        What is the difference between ionotropic and metabotropic neurotransmitter receptors?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
 related_article2:
-    id: 170616
-    title: How do calcium ions influence intracellular signaling pathways in neurons?
+    id: 170611
+    title: >-
+        Explain the role of the sodium-potassium pump in action potential recovery.
     subject: Nursing
-    url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
+    url: /learn/nursing/questions/explain-the-role-of-the-sodiumpotassium-pump-in-action-potential-recovery
 related_article3:
+    id: 170602
+    title: >-
+        What role do leak channels play in maintaining the resting membrane potential?
+    subject: Nursing
+    url: /learn/nursing/questions/what-role-do-leak-channels-play-in-maintaining-the-resting-membrane-potential
+related_article4:
+    id: 170607
+    title: >-
+        What are the roles of astrocytes, microglia, oligodendrocytes, and Schwann cells in the nervous system?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-roles-of-astrocytes-microglia-oligodendrocytes-and-schwann-cells-in-the-nervous-system
+related_article5:
     id: 170601
-    title: Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
+    title: >-
+        Explain how the sodium-potassium pump contributes to the establishment of the resting membrane potential.
     subject: Nursing
     url: /learn/nursing/questions/explain-how-the-sodiumpotassium-pump-contributes-to-the-establishment-of-the-resting-membrane-potential
-related_article4:
-    id: 170617
-    title: What are the characteristics of graded potentials and how do they differ from action potentials?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-characteristics-of-graded-potentials-and-how-do-they-differ-from-action-potentials
-related_article5:
-    id: 170600
-    title: What is the difference between the absolute and relative refractory periods in action potential propagation?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-in-action-potential-propagation
 ---
 
 &nbsp;

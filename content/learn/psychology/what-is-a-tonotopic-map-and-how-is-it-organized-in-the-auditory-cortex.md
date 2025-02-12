@@ -2,8 +2,10 @@
 _schema: default
 id: 164252
 date: 2025-01-28
-title: What is a tonotopic map and how is it organized in the auditory cortex?
-article_title: What is a tonotopic map and how is it organized in the auditory cortex?
+title: >-
+    What is a tonotopic map and how is it organized in the auditory cortex?
+article_title: >-
+    What is a tonotopic map and how is it organized in the auditory cortex?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-corte
 url: /learn/psychology/questions/what-is-a-tonotopic-map-and-how-is-it-organized-in-the-auditory-cortex
 score: -1.0
 related_article1:
-    id: 164250
-    title: Explain the concept of the portable magnification factor and its importance in visual acuity.
+    id: 164249
+    title: >-
+        How does the visual cortex contribute to depth and motion perception?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-the-portable-magnification-factor-and-its-importance-in-visual-acuity
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-depth-and-motion-perception
 related_article2:
-    id: 164257
-    title: What factors influence pitch perception and how does cochlear function play a role?
+    id: 164246
+    title: >-
+        What is a retinotropic map and how does it project onto the visual cortex?
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-pitch-perception-and-how-does-cochlear-function-play-a-role
+    url: /learn/psychology/questions/what-is-a-retinotropic-map-and-how-does-it-project-onto-the-visual-cortex
 related_article3:
+    id: 164249
+    title: >-
+        How does the visual cortex contribute to depth and motion perception?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-depth-and-motion-perception
+related_article4:
+    id: 164247
+    title: >-
+        How does the portable magnification factor emphasize central vision in the retinotropic map?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-portable-magnification-factor-emphasize-central-vision-in-the-retinotropic-map
+related_article5:
     id: 164248
-    title: What are the primary functions of the visual cortex in visual perception?
+    title: >-
+        What are the primary functions of the visual cortex in visual perception?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-primary-functions-of-the-visual-cortex-in-visual-perception
-related_article4:
-    id: 164254
-    title: What are single cell recordings and how are they used to map sensory inputs?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
-related_article5:
-    id: 164254
-    title: What are single cell recordings and how are they used to map sensory inputs?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-single-cell-recordings-and-how-are-they-used-to-map-sensory-inputs
 ---
 
 &nbsp;

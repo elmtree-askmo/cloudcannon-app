@@ -2,8 +2,10 @@
 _schema: default
 id: 167595
 date: 2025-01-31
-title: What are the primary sources of biological energy?
-article_title: What are the primary sources of biological energy?
+title: >-
+    What are the primary sources of biological energy?
+article_title: >-
+    What are the primary sources of biological energy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-the-primary-sources-of-biological-energy.md
 url: /learn/biotechnology/questions/what-are-the-primary-sources-of-biological-energy
 score: -1.0
 related_article1:
-    id: 167598
-    title: What are some branches of biology and their significance?
+    id: 167585
+    title: >-
+        How is data analyzed and interpreted in scientific research?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+    url: /learn/biotechnology/questions/how-is-data-analyzed-and-interpreted-in-scientific-research
 related_article2:
-    id: 167598
-    title: What are some branches of biology and their significance?
+    id: 167582
+    title: >-
+        What are the key characteristics that define life?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 related_article3:
-    id: 167598
-    title: What are some branches of biology and their significance?
+    id: 167600
+    title: >-
+        What evidence supports the theory of evolution?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
+    url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
 related_article4:
-    id: 167588
-    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    id: 167583
+    title: >-
+        How do organisms adapt and evolve in response to their environment?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+    url: /learn/biotechnology/questions/how-do-organisms-adapt-and-evolve-in-response-to-their-environment
+related_article5:
+    id: 167589
+    title: >-
+        What were Charles Darwin's contributions to the theory of evolution?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-were-charles-darwins-contributions-to-the-theory-of-evolution
 ---
 
 &nbsp;

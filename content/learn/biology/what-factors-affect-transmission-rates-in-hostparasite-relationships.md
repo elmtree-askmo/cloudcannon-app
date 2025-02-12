@@ -2,8 +2,10 @@
 _schema: default
 id: 166131
 date: 2025-01-29
-title: What factors affect transmission rates in host-parasite relationships?
-article_title: What factors affect transmission rates in host-parasite relationships?
+title: >-
+    What factors affect transmission rates in host-parasite relationships?
+article_title: >-
+    What factors affect transmission rates in host-parasite relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-affect-transmission-rates-in-hostparasite-relationships.
 url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
 score: -1.0
 related_article1:
-    id: 166129
-    title: What role does carrying capacity play in mathematical models of ecology?
-    subject: Biology
-    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
-related_article2:
-    id: 166123
-    title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
-    subject: Biology
-    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
-related_article3:
     id: 166128
-    title: Why are mathematical models important in understanding ecological interactions?
+    title: >-
+        Why are mathematical models important in understanding ecological interactions?
     subject: Biology
     url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
-related_article4:
-    id: 166124
-    title: What conditions can lead to host extinction in population growth models?
+related_article2:
+    id: 166128
+    title: >-
+        Why are mathematical models important in understanding ecological interactions?
     subject: Biology
-    url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
-related_article5:
+    url: /learn/biology/questions/why-are-mathematical-models-important-in-understanding-ecological-interactions
+related_article3:
+    id: 166119
+    title: >-
+        How can mathematical models represent host-parasite interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+related_article4:
     id: 166134
-    title: What challenges are associated with modeling habitat complexity in ecological models?
+    title: >-
+        What challenges are associated with modeling habitat complexity in ecological models?
     subject: Biology
     url: /learn/biology/questions/what-challenges-are-associated-with-modeling-habitat-complexity-in-ecological-models
+related_article5:
+    id: 166133
+    title: >-
+        What is the role of habitat complexity in influencing host-parasite dynamics?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
 ---
 
 &nbsp;

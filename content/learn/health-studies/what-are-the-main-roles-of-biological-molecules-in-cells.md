@@ -2,8 +2,10 @@
 _schema: default
 id: 167087
 date: 2025-01-31
-title: What are the main roles of biological molecules in cells?
-article_title: What are the main roles of biological molecules in cells?
+title: >-
+    What are the main roles of biological molecules in cells?
+article_title: >-
+    What are the main roles of biological molecules in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-roles-of-biological-molecules-in-cells.md
 url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
 score: -1.0
 related_article1:
-    id: 167111
-    title: What types of molecules provide structural support in cells?
+    id: 167094
+    title: >-
+        How do dehydration reactions and hydrolysis reactions differ in the polymerization process?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
+    url: /learn/health-studies/questions/how-do-dehydration-reactions-and-hydrolysis-reactions-differ-in-the-polymerization-process
 related_article2:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
+    id: 167089
+    title: >-
+        What are the four main classes of biological molecules?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
+    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
 related_article3:
+    id: 167092
+    title: >-
+        Why is carbon essential in the formation of organic molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
+related_article4:
+    id: 167089
+    title: >-
+        What are the four main classes of biological molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
+related_article5:
     id: 167099
-    title: What roles do lipids play in energy storage and cell membrane structure?
+    title: >-
+        What roles do lipids play in energy storage and cell membrane structure?
     subject: Health Studies
     url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
-related_article4:
-    id: 167108
-    title: What is the significance of hydrophilic and hydrophobic interactions in protein folding?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-protein-folding
-related_article5:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165391
 date: 2025-01-29
-title: How can celebrating small wins contribute to developing self-respect and confidence?
-article_title: How can celebrating small wins contribute to developing self-respect and confidence?
+title: >-
+    How can celebrating small wins contribute to developing self-respect and confidence?
+article_title: >-
+    How can celebrating small wins contribute to developing self-respect and confidence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: how-can-celebrating-small-wins-contribute-to-developing-selfrespect-a
 url: /learn/psychology/questions/how-can-celebrating-small-wins-contribute-to-developing-selfrespect-and-confidence
 score: -1.0
 related_article1:
-    id: 165387
-    title: How can gestures be matched to audience size to enhance communication?
+    id: 165385
+    title: >-
+        How can strategic use of eye contact balance confidence and intimidation?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-gestures-be-matched-to-audience-size-to-enhance-communication
+    url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
 related_article2:
-    id: 165389
-    title: How can pauses be used effectively to build anticipation and enhance speech clarity?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
-related_article3:
     id: 165387
-    title: How can gestures be matched to audience size to enhance communication?
+    title: >-
+        How can gestures be matched to audience size to enhance communication?
     subject: Psychology
     url: /learn/psychology/questions/how-can-gestures-be-matched-to-audience-size-to-enhance-communication
+related_article3:
+    id: 165390
+    title: >-
+        What techniques can be employed to recognize and address the motivations of others?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
 related_article4:
     id: 165386
-    title: What techniques can be used to maintain composure in stressful situations?
-    subject: Psychology
-    url: /learn/psychology/questions/what-techniques-can-be-used-to-maintain-composure-in-stressful-situations
-related_article5:
-    id: 165386
-    title: What techniques can be used to maintain composure in stressful situations?
+    title: >-
+        What techniques can be used to maintain composure in stressful situations?
     subject: Psychology
     url: /learn/psychology/questions/what-techniques-can-be-used-to-maintain-composure-in-stressful-situations
 ---

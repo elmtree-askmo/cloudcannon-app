@@ -2,8 +2,10 @@
 _schema: default
 id: 169414
 date: 2025-02-05
-title: What are some key terms in interior design that are essential for understanding design concepts?
-article_title: What are some key terms in interior design that are essential for understanding design concepts?
+title: >-
+    What are some key terms in interior design that are essential for understanding design concepts?
+article_title: >-
+    What are some key terms in interior design that are essential for understanding design concepts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-key-terms-in-interior-design-that-are-essential-for-und
 url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
 score: -1.0
 related_article1:
-    id: 169411
-    title: What are the essential components of creating a brand through architectural design?
+    id: 169401
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 related_article2:
-    id: 169407
-    title: What are the key influences of traditional Japanese design on modern architecture?
+    id: 169408
+    title: >-
+        How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
 related_article3:
-    id: 169406
-    title: How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+    id: 169403
+    title: >-
+        What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
     subject: Architecture
-    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
+    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
 related_article4:
-    id: 169416
-    title: What resources are available for interior designers seeking job opportunities and professional development?
+    id: 169417
+    title: >-
+        How have regional design projects in Japan influenced international design trends?
     subject: Architecture
-    url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
 related_article5:
-    id: 169405
-    title: What role do natural elements play in modern interior design?
+    id: 169402
+    title: >-
+        How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-interior-design
+    url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164483
 date: 2025-01-28
-title: How does skill acquisition relate to implicit memory?
-article_title: How does skill acquisition relate to implicit memory?
+title: >-
+    How does skill acquisition relate to implicit memory?
+article_title: >-
+    How does skill acquisition relate to implicit memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-skill-acquisition-relate-to-implicit-memory.md
 url: /learn/psychology/questions/how-does-skill-acquisition-relate-to-implicit-memory
 score: -1.0
 related_article1:
-    id: 164496
-    title: What is the Information Processing Model in cognitive psychology?
+    id: 164486
+    title: >-
+        What are the stages of memory formation and their functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-information-processing-model-in-cognitive-psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
 related_article2:
-    id: 164495
-    title: What are some effective techniques to improve memory retention?
+    id: 164491
+    title: >-
+        What is the role of acetylcholine in memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 related_article3:
+    id: 164487
+    title: >-
+        How do biological factors affect memory formation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-biological-factors-affect-memory-formation
+related_article4:
+    id: 164486
+    title: >-
+        What are the stages of memory formation and their functions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+related_article5:
     id: 164501
-    title: What are the current trends in memory research, particularly in neuroimaging studies?
+    title: >-
+        What are the current trends in memory research, particularly in neuroimaging studies?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-current-trends-in-memory-research-particularly-in-neuroimaging-studies
-related_article4:
-    id: 164489
-    title: How does Alzheimer's disease affect consciousness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
-related_article5:
-    id: 164506
-    title: What are the key brain regions involved in memory, and what are their functions?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-brain-regions-involved-in-memory-and-what-are-their-functions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167833
 date: 2025-02-01
-title: What is incomplete penetrance, and how does it affect phenotypic expression?
-article_title: What is incomplete penetrance, and how does it affect phenotypic expression?
+title: >-
+    What is incomplete penetrance, and how does it affect phenotypic expression?
+article_title: >-
+    What is incomplete penetrance, and how does it affect phenotypic expression?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-incomplete-penetrance-and-how-does-it-affect-phenotypic-expre
 url: /learn/education-studies/questions/what-is-incomplete-penetrance-and-how-does-it-affect-phenotypic-expression
 score: -1.0
 related_article1:
-    id: 167845
-    title: How do correlation coefficients relate to genetic studies of complex traits?
+    id: 167848
+    title: >-
+        How do multiple alleles contribute to genetic diversity within a population?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-correlation-coefficients-relate-to-genetic-studies-of-complex-traits
+    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
 related_article2:
     id: 167843
-    title: What is the significance of quantitative traits in genetics, and how are they measured?
+    title: >-
+        What is the significance of quantitative traits in genetics, and how are they measured?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-quantitative-traits-in-genetics-and-how-are-they-measured
 related_article3:
-    id: 167852
-    title: What are quantitative trait loci (QTL), and why are they important in genetic research?
+    id: 167842
+    title: >-
+        How do environmental factors influence genetic potential in polygenic inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-quantitative-trait-loci-qtl-and-why-are-they-important-in-genetic-research
+    url: /learn/education-studies/questions/how-do-environmental-factors-influence-genetic-potential-in-polygenic-inheritance
 related_article4:
-    id: 167848
-    title: How do multiple alleles contribute to genetic diversity within a population?
+    id: 167838
+    title: >-
+        What is epistasis, and how does it affect genetic pathways? Provide an example.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-alleles-contribute-to-genetic-diversity-within-a-population
-related_article5:
-    id: 167840
-    title: What are gene modification effects, and how can they impact genetic expression?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-gene-modification-effects-and-how-can-they-impact-genetic-expression
+    url: /learn/education-studies/questions/what-is-epistasis-and-how-does-it-affect-genetic-pathways-provide-an-example
 ---
 
 &nbsp;

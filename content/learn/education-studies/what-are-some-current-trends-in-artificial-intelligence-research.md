@@ -2,8 +2,10 @@
 _schema: default
 id: 166716
 date: 2025-01-31
-title: What are some current trends in artificial intelligence research?
-article_title: What are some current trends in artificial intelligence research?
+title: >-
+    What are some current trends in artificial intelligence research?
+article_title: >-
+    What are some current trends in artificial intelligence research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-current-trends-in-artificial-intelligence-research.md
 url: /learn/education-studies/questions/what-are-some-current-trends-in-artificial-intelligence-research
 score: -1.0
 related_article1:
-    id: 166718
-    title: What benefits do professional engineering societies offer to their members?
+    id: 166702
+    title: >-
+        How does torque relate to the moment of force?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-benefits-do-professional-engineering-societies-offer-to-their-members
+    url: /learn/education-studies/questions/how-does-torque-relate-to-the-moment-of-force
 related_article2:
-    id: 166708
-    title: What are the requirements for obtaining a certification for consulting in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
-related_article3:
-    id: 166696
-    title: What is the process of force decomposition in vector mathematics?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
-related_article4:
-    id: 166708
-    title: What are the requirements for obtaining a certification for consulting in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
-related_article5:
     id: 166700
-    title: What is the relationship between force and distance in the context of moment of force?
+    title: >-
+        What is the relationship between force and distance in the context of moment of force?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+related_article3:
+    id: 166708
+    title: >-
+        What are the requirements for obtaining a certification for consulting in engineering?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
+related_article4:
+    id: 166704
+    title: >-
+        What are the equilibrium conditions in statics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-equilibrium-conditions-in-statics
+related_article5:
+    id: 166717
+    title: >-
+        How is robotics automation being integrated with AI, and what are its future prospects?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-robotics-automation-being-integrated-with-ai-and-what-are-its-future-prospects
 ---
 
 &nbsp;

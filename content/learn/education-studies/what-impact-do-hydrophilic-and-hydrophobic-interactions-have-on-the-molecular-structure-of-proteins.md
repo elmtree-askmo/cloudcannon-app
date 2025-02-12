@@ -2,8 +2,10 @@
 _schema: default
 id: 161795
 date: 2025-01-24
-title: What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
-article_title: What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
+title: >-
+    What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
+article_title: >-
+    What impact do hydrophilic and hydrophobic interactions have on the molecular structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-m
 url: /learn/education-studies/questions/what-impact-do-hydrophilic-and-hydrophobic-interactions-have-on-the-molecular-structure-of-proteins
 score: -1.0
 related_article1:
-    id: 161793
-    title: What is the role of proteins and nucleic acids in cell signaling?
+    id: 161794
+    title: >-
+        How does molecular structure facilitate function in biological molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling
+    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
 related_article2:
-    id: 161794
-    title: How does molecular structure facilitate function in biological molecules?
+    id: 161782
+    title: >-
+        What is the difference between dehydration reactions and hydrolysis reactions in the polymerization process?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
+    url: /learn/education-studies/questions/what-is-the-difference-between-dehydration-reactions-and-hydrolysis-reactions-in-the-polymerization-process
 related_article3:
-    id: 161791
-    title: What is the role of carbohydrates and lipids in energy storage?
+    id: 161797
+    title: >-
+        What is the importance of transport proteins in membrane transport?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage
+    url: /learn/education-studies/questions/what-is-the-importance-of-transport-proteins-in-membrane-transport
 related_article4:
-    id: 161794
-    title: How does molecular structure facilitate function in biological molecules?
+    id: 161780
+    title: >-
+        What are the four main classes of biological molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-molecular-structure-facilitate-function-in-biological-molecules
+    url: /learn/education-studies/questions/what-are-the-four-main-classes-of-biological-molecules
 related_article5:
-    id: 161788
-    title: What is the role of hydrophilic and hydrophobic interactions in the structure of lipids?
+    id: 161785
+    title: >-
+        Explain the significance of amino acid structure in determining protein properties.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-hydrophilic-and-hydrophobic-interactions-in-the-structure-of-lipids
+    url: /learn/education-studies/questions/explain-the-significance-of-amino-acid-structure-in-determining-protein-properties
 ---
 
 &nbsp;

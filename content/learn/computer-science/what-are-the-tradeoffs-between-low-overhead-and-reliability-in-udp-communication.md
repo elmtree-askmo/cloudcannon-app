@@ -2,8 +2,10 @@
 _schema: default
 id: 165782
 date: 2025-01-29
-title: What are the trade-offs between low overhead and reliability in UDP communication?
-article_title: What are the trade-offs between low overhead and reliability in UDP communication?
+title: >-
+    What are the trade-offs between low overhead and reliability in UDP communication?
+article_title: >-
+    What are the trade-offs between low overhead and reliability in UDP communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-co
 url: /learn/computer-science/questions/what-are-the-tradeoffs-between-low-overhead-and-reliability-in-udp-communication
 score: -1.0
 related_article1:
-    id: 165779
-    title: What information is contained in the TCP header fields related to sequence and acknowledgment?
+    id: 165780
+    title: >-
+        What is the role of the length and checksum fields in the UDP header?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
+    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
 related_article2:
+    id: 165766
+    title: >-
+        What are the main responsibilities of the transport layer in data communication?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-responsibilities-of-the-transport-layer-in-data-communication
+related_article3:
+    id: 165777
+    title: >-
+        How do socket pairs facilitate communication between devices?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
+related_article4:
     id: 165767
-    title: How does the transport layer handle segmenting and reassembling data?
+    title: >-
+        How does the transport layer handle segmenting and reassembling data?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
-related_article3:
-    id: 165784
-    title: What is the process of the three-way handshake in TCP connection establishment?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-of-the-threeway-handshake-in-tcp-connection-establishment
-related_article4:
-    id: 165778
-    title: What are the differences between well-known, registered, and private port numbers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-wellknown-registered-and-private-port-numbers
 related_article5:
-    id: 165768
-    title: What is the difference between TCP and UDP in terms of reliability?
+    id: 165785
+    title: >-
+        How does UDP handle port number assignment and datagram forwarding?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
+    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
 ---
 
 &nbsp;

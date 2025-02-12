@@ -2,8 +2,10 @@
 _schema: default
 id: 167599
 date: 2025-01-31
-title: How does natural science relate to other scientific disciplines?
-article_title: How does natural science relate to other scientific disciplines?
+title: >-
+    How does natural science relate to other scientific disciplines?
+article_title: >-
+    How does natural science relate to other scientific disciplines?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-natural-science-relate-to-other-scientific-disciplines.md
 url: /learn/biotechnology/questions/how-does-natural-science-relate-to-other-scientific-disciplines
 score: -1.0
 related_article1:
-    id: 167592
-    title: What are the main characteristics of prokaryotic cells?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
-related_article2:
     id: 167600
-    title: What evidence supports the theory of evolution?
+    title: >-
+        What evidence supports the theory of evolution?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-evidence-supports-the-theory-of-evolution
-related_article3:
-    id: 167596
-    title: What are the differences between asexual and sexual reproduction?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
-related_article4:
+related_article2:
     id: 167598
-    title: What are some branches of biology and their significance?
+    title: >-
+        What are some branches of biology and their significance?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-some-branches-of-biology-and-their-significance
-related_article5:
-    id: 167585
-    title: How is data analyzed and interpreted in scientific research?
+related_article3:
+    id: 167586
+    title: >-
+        What are the unique characteristics of Archaea that differentiate them from other domains?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-is-data-analyzed-and-interpreted-in-scientific-research
+    url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
+related_article4:
+    id: 167596
+    title: >-
+        What are the differences between asexual and sexual reproduction?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
+related_article5:
+    id: 167582
+    title: >-
+        What are the key characteristics that define life?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 ---
 
 &nbsp;

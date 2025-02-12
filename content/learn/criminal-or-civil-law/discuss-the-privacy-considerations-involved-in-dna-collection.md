@@ -2,8 +2,10 @@
 _schema: default
 id: 162006
 date: 2025-01-24
-title: Discuss the privacy considerations involved in DNA collection.
-article_title: Discuss the privacy considerations involved in DNA collection.
+title: >-
+    Discuss the privacy considerations involved in DNA collection.
+article_title: >-
+    Discuss the privacy considerations involved in DNA collection.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-privacy-considerations-involved-in-dna-collection.md
 url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
 score: -1.0
 related_article1:
-    id: 162008
-    title: What are Charter remedies and how do they apply in court interpretations?
+    id: 161999
+    title: >-
+        Define investigative detention and its legal standards.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-charter-remedies-and-how-do-they-apply-in-court-interpretations
+    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 related_article2:
-    id: 162005
-    title: What are the legal requirements for issuing production orders?
+    id: 162011
+    title: >-
+        Explain the police authority as defined in the Criminal Code.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-issuing-production-orders
+    url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
 related_article3:
+    id: 162003
+    title: >-
+        What are the legal standards for conducting consent searches?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
+related_article4:
     id: 161998
-    title: How does the Charter protect privacy rights during search and seizure?
+    title: >-
+        How does the Charter protect privacy rights during search and seizure?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-the-charter-protect-privacy-rights-during-search-and-seizure
-related_article4:
-    id: 162004
-    title: Explain the plain view doctrine and its legal standards.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-plain-view-doctrine-and-its-legal-standards
 related_article5:
-    id: 162001
-    title: What constitutes exigent circumstances in legal terms?
+    id: 162011
+    title: >-
+        Explain the police authority as defined in the Criminal Code.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-constitutes-exigent-circumstances-in-legal-terms
+    url: /learn/criminal-or-civil-law/questions/explain-the-police-authority-as-defined-in-the-criminal-code
 ---
 
 &nbsp;

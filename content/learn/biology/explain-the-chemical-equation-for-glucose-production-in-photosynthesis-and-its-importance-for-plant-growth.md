@@ -2,8 +2,10 @@
 _schema: default
 id: 170392
 date: 2025-02-06
-title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
-article_title: Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+title: >-
+    Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
+article_title: >-
+    Explain the chemical equation for glucose production in photosynthesis and its importance for plant growth.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: explain-the-chemical-equation-for-glucose-production-in-photosynthesi
 url: /learn/biology/questions/explain-the-chemical-equation-for-glucose-production-in-photosynthesis-and-its-importance-for-plant-growth
 score: -1.0
 related_article1:
-    id: 170388
-    title: What is the role of decomposers in the breakdown of organic material in the geosphere?
+    id: 170380
+    title: >-
+        Describe the energy conversion process that occurs during cellular respiration.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-decomposers-in-the-breakdown-of-organic-material-in-the-geosphere
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
 related_article2:
-    id: 170390
-    title: How does the combustion of fossil fuels impact the carbon cycle and atmospheric carbon levels?
+    id: 170391
+    title: >-
+        What is the role of chlorophyll in light absorption during photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-combustion-of-fossil-fuels-impact-the-carbon-cycle-and-atmospheric-carbon-levels
+    url: /learn/biology/questions/what-is-the-role-of-chlorophyll-in-light-absorption-during-photosynthesis
 related_article3:
-    id: 170393
-    title: How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    id: 170382
+    title: >-
+        What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
     subject: Biology
-    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+    url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
 related_article4:
-    id: 170393
-    title: How does nitrogen interact with the carbon cycle, and what is its role in ecosystems?
+    id: 170382
+    title: >-
+        What is the significance of decomposition in the carbon source process, particularly in relation to fossil fuels?
     subject: Biology
-    url: /learn/biology/questions/how-does-nitrogen-interact-with-the-carbon-cycle-and-what-is-its-role-in-ecosystems
+    url: /learn/biology/questions/what-is-the-significance-of-decomposition-in-the-carbon-source-process-particularly-in-relation-to-fossil-fuels
+related_article5:
+    id: 170380
+    title: >-
+        Describe the energy conversion process that occurs during cellular respiration.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-energy-conversion-process-that-occurs-during-cellular-respiration
 ---
 
 &nbsp;

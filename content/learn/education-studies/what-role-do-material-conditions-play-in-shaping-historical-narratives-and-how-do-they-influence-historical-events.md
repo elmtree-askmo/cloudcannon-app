@@ -2,8 +2,10 @@
 _schema: default
 id: 168146
 date: 2025-02-02
-title: What role do material conditions play in shaping historical narratives, and how do they influence historical events?
-article_title: What role do material conditions play in shaping historical narratives, and how do they influence historical events?
+title: >-
+    What role do material conditions play in shaping historical narratives, and how do they influence historical events?
+article_title: >-
+    What role do material conditions play in shaping historical narratives, and how do they influence historical events?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-material-conditions-play-in-shaping-historical-narrative
 url: /learn/education-studies/questions/what-role-do-material-conditions-play-in-shaping-historical-narratives-and-how-do-they-influence-historical-events
 score: -1.0
 related_article1:
-    id: 168142
-    title: Why is context important in the interpretation of historical events, and how do historians evaluate evidence within this context?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-context-important-in-the-interpretation-of-historical-events-and-how-do-historians-evaluate-evidence-within-this-context
-related_article2:
     id: 168140
-    title: How do historians transform information into knowledge, and what role does interpretation play in this process?
+    title: >-
+        How do historians transform information into knowledge, and what role does interpretation play in this process?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-historians-transform-information-into-knowledge-and-what-role-does-interpretation-play-in-this-process
-related_article3:
-    id: 168144
-    title: In what ways has technology impacted the preservation and accessibility of historical sources, and how does it influence the methods of documentation?
+related_article2:
+    id: 168141
+    title: >-
+        What is contingency in historical knowledge, and how can new discoveries impact our understanding of history?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-has-technology-impacted-the-preservation-and-accessibility-of-historical-sources-and-how-does-it-influence-the-methods-of-documentation
+    url: /learn/education-studies/questions/what-is-contingency-in-historical-knowledge-and-how-can-new-discoveries-impact-our-understanding-of-history
+related_article3:
+    id: 168147
+    title: >-
+        What methods are used in the analysis of historical documents, and how do historians evaluate the credibility of historical claims?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-are-used-in-the-analysis-of-historical-documents-and-how-do-historians-evaluate-the-credibility-of-historical-claims
 related_article4:
     id: 168143
-    title: How do oral traditions serve as historical sources, and what are their limitations in terms of reliability and bias?
+    title: >-
+        How do oral traditions serve as historical sources, and what are their limitations in terms of reliability and bias?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-oral-traditions-serve-as-historical-sources-and-what-are-their-limitations-in-terms-of-reliability-and-bias
 related_article5:
-    id: 168144
-    title: In what ways has technology impacted the preservation and accessibility of historical sources, and how does it influence the methods of documentation?
+    id: 168140
+    title: >-
+        How do historians transform information into knowledge, and what role does interpretation play in this process?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-has-technology-impacted-the-preservation-and-accessibility-of-historical-sources-and-how-does-it-influence-the-methods-of-documentation
+    url: /learn/education-studies/questions/how-do-historians-transform-information-into-knowledge-and-what-role-does-interpretation-play-in-this-process
 ---
 
 &nbsp;

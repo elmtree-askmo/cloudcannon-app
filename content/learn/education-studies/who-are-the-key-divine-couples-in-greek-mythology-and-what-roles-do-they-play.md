@@ -2,8 +2,10 @@
 _schema: default
 id: 167653
 date: 2025-01-31
-title: Who are the key divine couples in Greek mythology, and what roles do they play?
-article_title: Who are the key divine couples in Greek mythology, and what roles do they play?
+title: >-
+    Who are the key divine couples in Greek mythology, and what roles do they play?
+article_title: >-
+    Who are the key divine couples in Greek mythology, and what roles do they play?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-t
 url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
 score: -1.0
 related_article1:
-    id: 167659
-    title: What is the role of Prometheus in the creation of humans according to Greek mythology?
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-prometheus-in-the-creation-of-humans-according-to-greek-mythology
+    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
 related_article2:
-    id: 167649
-    title: What is the significance of chaos in Greek creation myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
-related_article3:
-    id: 167649
-    title: What is the significance of chaos in Greek creation myths?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
-related_article4:
     id: 167656
-    title: What role do myths play in ancient Greek religion and worship practices?
+    title: >-
+        What role do myths play in ancient Greek religion and worship practices?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-myths-play-in-ancient-greek-religion-and-worship-practices
-related_article5:
+related_article3:
+    id: 167660
+    title: >-
+        What are the key contributions of Hesiod and Ovid to ancient Greek literature?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-contributions-of-hesiod-and-ovid-to-ancient-greek-literature
+related_article4:
     id: 167658
-    title: What are the similarities and differences between Greek and Egyptian creation myths?
+    title: >-
+        What are the similarities and differences between Greek and Egyptian creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-similarities-and-differences-between-greek-and-egyptian-creation-myths
+related_article5:
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
 ---
 
 &nbsp;

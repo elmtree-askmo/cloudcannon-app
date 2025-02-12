@@ -2,8 +2,10 @@
 _schema: default
 id: 163331
 date: 2025-01-26
-title: What is a common misunderstanding about rates in epidemiology?
-article_title: What is a common misunderstanding about rates in epidemiology?
+title: >-
+    What is a common misunderstanding about rates in epidemiology?
+article_title: >-
+    What is a common misunderstanding about rates in epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-a-common-misunderstanding-about-rates-in-epidemiology.md
 url: /learn/health-studies/questions/what-is-a-common-misunderstanding-about-rates-in-epidemiology
 score: -1.0
 related_article1:
-    id: 163077
-    title: How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+    id: 163062
+    title: >-
+        How is the numerator used in measures of disease frequency determined?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
+    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 related_article2:
-    id: 163228
-    title: How is a ratio different from a proportion in epidemiological studies?
+    id: 163069
+    title: >-
+        What are the critical assumptions when calculating cumulative incidence?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
 related_article3:
-    id: 163338
-    title: What are the limitations of using person-years of observation in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
-related_article4:
-    id: 163328
-    title: What is the significance of measuring disease frequency over a specific time interval?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-specific-time-interval
-related_article5:
-    id: 163244
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163345
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+related_article4:
+    id: 163244
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+related_article5:
+    id: 163233
+    title: >-
+        Explain the concept of person-time in the context of incidence rate calculation.
+    subject: Health Studies
+    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161496
 date: 2025-01-24
-title: What is the significance of the level of detail in information and what factors can influence it?
-article_title: What is the significance of the level of detail in information and what factors can influence it?
+title: >-
+    What is the significance of the level of detail in information and what factors can influence it?
+article_title: >-
+    What is the significance of the level of detail in information and what factors can influence it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-level-of-detail-in-information-and-wh
 url: /learn/computer-science/questions/what-is-the-significance-of-the-level-of-detail-in-information-and-what-factors-can-influence-it
 score: -1.0
 related_article1:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161492
+    title: >-
+        How does indirect data differ from direct data and what are its potential uses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-its-potential-uses
 related_article2:
-    id: 161502
-    title: How does online processing differ from batch processing and what are its benefits?
+    id: 161700
+    title: >-
+        What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-online-processing-differ-from-batch-processing-and-what-are-its-benefits
+    url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
 related_article3:
-    id: 161511
-    title: What are the main components of an information system and how do they interact?
+    id: 161500
+    title: >-
+        What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-and-tlsssl-in-encryption-protocols
 related_article4:
-    id: 161435
-    title: How does the level of detail impact the usefulness of information, and what factors determine the appropriate level of detail?
+    id: 161694
+    title: >-
+        What is the difference between symmetric and asymmetric encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-level-of-detail-impact-the-usefulness-of-information-and-what-factors-determine-the-appropriate-level-of-detail
+    url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
 related_article5:
-    id: 161674
-    title: What is the difference between a hash total and a control total in error detection?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 ---
 
 &nbsp;

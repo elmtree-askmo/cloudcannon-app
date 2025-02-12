@@ -2,8 +2,10 @@
 _schema: default
 id: 164475
 date: 2025-01-28
-title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
-article_title: What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+title: >-
+    What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
+article_title: >-
+    What is the concept of double dissociation in mental imagery and how does it provide evidence for distinct processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-
 url: /learn/psychology/questions/what-is-the-concept-of-double-dissociation-in-mental-imagery-and-how-does-it-provide-evidence-for-distinct-processes
 score: -1.0
 related_article1:
-    id: 164469
-    title: What are the challenges associated with egocentric disorientation in navigation?
+    id: 164465
+    title: >-
+        What is the significance of interval and ratio scales in understanding metrics for relationships?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-associated-with-egocentric-disorientation-in-navigation
+    url: /learn/psychology/questions/what-is-the-significance-of-interval-and-ratio-scales-in-understanding-metrics-for-relationships
 related_article2:
-    id: 164468
-    title: How does functional specialization relate to neuropsychology and memory formation?
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
 related_article3:
+    id: 164473
+    title: >-
+        What is the function of the geniculostriate pathway in conscious vision?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-geniculostriate-pathway-in-conscious-vision
+related_article4:
+    id: 164459
+    title: >-
+        What are the key differences between categorical terms and metrics for relationships in spatial relationships?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-categorical-terms-and-metrics-for-relationships-in-spatial-relationships
+related_article5:
     id: 164460
-    title: How do patient studies provide evidence for understanding object relationships?
+    title: >-
+        How do patient studies provide evidence for understanding object relationships?
     subject: Psychology
     url: /learn/psychology/questions/how-do-patient-studies-provide-evidence-for-understanding-object-relationships
-related_article4:
-    id: 164468
-    title: How does functional specialization relate to neuropsychology and memory formation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-functional-specialization-relate-to-neuropsychology-and-memory-formation
-related_article5:
-    id: 164464
-    title: How does aphantasia affect cognitive map strategy and navigation?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-aphantasia-affect-cognitive-map-strategy-and-navigation
 ---
 
 &nbsp;

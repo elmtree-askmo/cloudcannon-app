@@ -2,8 +2,10 @@
 _schema: default
 id: 169351
 date: 2025-02-05
-title: What are some strategies to improve social skills deficits in individuals with ASD?
-article_title: What are some strategies to improve social skills deficits in individuals with ASD?
+title: >-
+    What are some strategies to improve social skills deficits in individuals with ASD?
+article_title: >-
+    What are some strategies to improve social skills deficits in individuals with ASD?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-strategies-to-improve-social-skills-deficits-in-individ
 url: /learn/psychology/questions/what-are-some-strategies-to-improve-social-skills-deficits-in-individuals-with-asd
 score: -1.0
 related_article1:
-    id: 169340
-    title: How does observational learning contribute to social development, and what role does imitation play?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-observational-learning-contribute-to-social-development-and-what-role-does-imitation-play
-related_article2:
     id: 169341
-    title: What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
+    title: >-
+        What challenges do individuals with ASD face in observational learning, and what strategies can enhance their learning?
     subject: Psychology
     url: /learn/psychology/questions/what-challenges-do-individuals-with-asd-face-in-observational-learning-and-what-strategies-can-enhance-their-learning
+related_article2:
+    id: 169356
+    title: >-
+        What are the types and characteristics of learning disabilities, and how do they impact learning?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-types-and-characteristics-of-learning-disabilities-and-how-do-they-impact-learning
 related_article3:
-    id: 169358
-    title: What strategies can be used to reduce prompt dependency and encourage self-sufficiency in learning?
+    id: 169355
+    title: >-
+        Discuss the role of augmentative communication as an intervention strategy for ASD.
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-prompt-dependency-and-encourage-selfsufficiency-in-learning
+    url: /learn/psychology/questions/discuss-the-role-of-augmentative-communication-as-an-intervention-strategy-for-asd
 related_article4:
-    id: 169346
-    title: How are behavioral interventions applied in ASD, and what are their effectiveness and limitations?
+    id: 169336
+    title: >-
+        What is errorless learning, and how does it differ from trial and error learning?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-behavioral-interventions-applied-in-asd-and-what-are-their-effectiveness-and-limitations
+    url: /learn/psychology/questions/what-is-errorless-learning-and-how-does-it-differ-from-trial-and-error-learning
 related_article5:
-    id: 169359
-    title: How can assistive devices and communication systems foster independence in learning?
+    id: 169331
+    title: >-
+        What are the different types of prompts used in teaching, and how do they differ from each other?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-assistive-devices-and-communication-systems-foster-independence-in-learning
+    url: /learn/psychology/questions/what-are-the-different-types-of-prompts-used-in-teaching-and-how-do-they-differ-from-each-other
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170282
 date: 2025-02-06
-title: Describe the concept of distribution in statistics and its importance.
-article_title: Describe the concept of distribution in statistics and its importance.
+title: >-
+    Describe the concept of distribution in statistics and its importance.
+article_title: >-
+    Describe the concept of distribution in statistics and its importance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-concept-of-distribution-in-statistics-and-its-importance
 url: /learn/mathematics/questions/describe-the-concept-of-distribution-in-statistics-and-its-importance
 score: -1.0
 related_article1:
-    id: 170276
-    title: What is the significance of using a sample instead of a population in statistical analysis?
+    id: 170280
+    title: >-
+        How do quantitative variables differ from qualitative variables?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
+    url: /learn/mathematics/questions/how-do-quantitative-variables-differ-from-qualitative-variables
 related_article2:
+    id: 170278
+    title: >-
+        What are the key differences between systematic random sampling and stratified random sampling?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-key-differences-between-systematic-random-sampling-and-stratified-random-sampling
+related_article3:
+    id: 170280
+    title: >-
+        How do quantitative variables differ from qualitative variables?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-quantitative-variables-differ-from-qualitative-variables
+related_article4:
+    id: 170277
+    title: >-
+        Explain the concept of a simple random sample and its importance in statistics.
+    subject: Mathematics
+    url: /learn/mathematics/questions/explain-the-concept-of-a-simple-random-sample-and-its-importance-in-statistics
+related_article5:
     id: 170275
-    title: How do descriptive statistics differ from inferential statistics in terms of their purpose?
+    title: >-
+        How do descriptive statistics differ from inferential statistics in terms of their purpose?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-descriptive-statistics-differ-from-inferential-statistics-in-terms-of-their-purpose
-related_article3:
-    id: 170283
-    title: What distinguishes an observational study from a designed experiment?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
-related_article4:
-    id: 170283
-    title: What distinguishes an observational study from a designed experiment?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-distinguishes-an-observational-study-from-a-designed-experiment
-related_article5:
-    id: 170276
-    title: What is the significance of using a sample instead of a population in statistical analysis?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-significance-of-using-a-sample-instead-of-a-population-in-statistical-analysis
 ---
 
 &nbsp;

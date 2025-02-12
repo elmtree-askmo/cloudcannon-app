@@ -2,8 +2,10 @@
 _schema: default
 id: 160327
 date: 2025-01-24
-title: What factors should be considered when forming effective study groups?
-article_title: What factors should be considered when forming effective study groups?
+title: >-
+    What factors should be considered when forming effective study groups?
+article_title: >-
+    What factors should be considered when forming effective study groups?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-factors-should-be-considered-when-forming-effective-study-groups
 url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-effective-study-groups
 score: -1.0
 related_article1:
+    id: 160309
+    title: >-
+        How can you engage the audience during a presentation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-you-engage-the-audience-during-a-presentation
+related_article2:
     id: 160338
-    title: What should you do to review your exam performance effectively?
+    title: >-
+        What should you do to review your exam performance effectively?
     subject: Education Studies
     url: /learn/education-studies/questions/what-should-you-do-to-review-your-exam-performance-effectively
-related_article2:
-    id: 160332
-    title: How does APA style differ from MLA style in citation systems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-apa-style-differ-from-mla-style-in-citation-systems
 related_article3:
-    id: 160319
-    title: How can self-reflection techniques enhance metacognitive skills?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-selfreflection-techniques-enhance-metacognitive-skills
-related_article4:
     id: 160303
-    title: What are the essential components of a thesis statement in academic writing?
+    title: >-
+        What are the essential components of a thesis statement in academic writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-essential-components-of-a-thesis-statement-in-academic-writing
+related_article4:
+    id: 160332
+    title: >-
+        How does APA style differ from MLA style in citation systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-apa-style-differ-from-mla-style-in-citation-systems
 related_article5:
     id: 160299
-    title: What is the difference between skimming and scanning in reading strategies?
+    title: >-
+        What is the difference between skimming and scanning in reading strategies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-difference-between-skimming-and-scanning-in-reading-strategies
 ---

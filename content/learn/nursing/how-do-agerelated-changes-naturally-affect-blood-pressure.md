@@ -2,8 +2,10 @@
 _schema: default
 id: 169533
 date: 2025-02-05
-title: How do age-related changes naturally affect blood pressure?
-article_title: How do age-related changes naturally affect blood pressure?
+title: >-
+    How do age-related changes naturally affect blood pressure?
+article_title: >-
+    How do age-related changes naturally affect blood pressure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-agerelated-changes-naturally-affect-blood-pressure.md
 url: /learn/nursing/questions/how-do-agerelated-changes-naturally-affect-blood-pressure
 score: -1.0
 related_article1:
-    id: 169528
-    title: How can diet and exercise influence blood pressure levels?
+    id: 169518
+    title: >-
+        What is the difference between systolic and diastolic blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/how-can-diet-and-exercise-influence-blood-pressure-levels
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
 related_article2:
-    id: 169527
-    title: What role do blood vessels play in blood pressure regulation mechanisms?
-    subject: Nursing
-    url: /learn/nursing/questions/what-role-do-blood-vessels-play-in-blood-pressure-regulation-mechanisms
-related_article3:
     id: 169535
-    title: How is blood pressure related to the risk of heart disease?
+    title: >-
+        How is blood pressure related to the risk of heart disease?
     subject: Nursing
     url: /learn/nursing/questions/how-is-blood-pressure-related-to-the-risk-of-heart-disease
+related_article3:
+    id: 169522
+    title: >-
+        What are some common causes and risk factors for hypertension?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-some-common-causes-and-risk-factors-for-hypertension
 related_article4:
-    id: 169524
-    title: What are the differences between manual and automated blood pressure monitoring devices?
+    id: 169521
+    title: >-
+        How do age-related changes affect misconceptions about normal blood pressure ranges?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-differences-between-manual-and-automated-blood-pressure-monitoring-devices
+    url: /learn/nursing/questions/how-do-agerelated-changes-affect-misconceptions-about-normal-blood-pressure-ranges
 related_article5:
-    id: 169531
-    title: What are the health implications of inaccurate blood pressure readings?
+    id: 169523
+    title: >-
+        What health implications can arise from hypotension?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-health-implications-of-inaccurate-blood-pressure-readings
+    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
 ---
 
 &nbsp;

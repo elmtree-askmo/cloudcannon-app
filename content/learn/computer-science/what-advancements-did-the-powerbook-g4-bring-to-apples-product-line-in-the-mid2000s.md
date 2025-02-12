@@ -2,8 +2,10 @@
 _schema: default
 id: 160420
 date: 2025-01-24
-title: What advancements did the PowerBook G4 bring to Apple's product line in the mid-2000s?
-article_title: What advancements did the PowerBook G4 bring to Apple's product line in the mid-2000s?
+title: >-
+    What advancements did the PowerBook G4 bring to Apple's product line in the mid-2000s?
+article_title: >-
+    What advancements did the PowerBook G4 bring to Apple's product line in the mid-2000s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-advancements-did-the-powerbook-g4-bring-to-apples-product-line-i
 url: /learn/computer-science/questions/what-advancements-did-the-powerbook-g4-bring-to-apples-product-line-in-the-mid2000s
 score: -1.0
 related_article1:
-    id: 160429
-    title: What strategies did Apple employ in the design and layout of its retail stores to enhance customer experience?
+    id: 160517
+    title: >-
+        What were the key features of Mac OS X 10.0 Cheetah released in the mid-2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-did-apple-employ-in-the-design-and-layout-of-its-retail-stores-to-enhance-customer-experience
+    url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-100-cheetah-released-in-the-mid2000s
 related_article2:
-    id: 160522
-    title: What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
+    id: 160424
+    title: >-
+        How did the introduction of the iPhone in 2007 transform the smartphone market?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-it-from-earlier-versions
+    url: /learn/computer-science/questions/how-did-the-introduction-of-the-iphone-in-2007-transform-the-smartphone-market
 related_article3:
-    id: 160522
-    title: What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
+    id: 160423
+    title: >-
+        What were the major updates included in Mac OS X 10.2 Jaguar?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-it-from-earlier-versions
+    url: /learn/computer-science/questions/what-were-the-major-updates-included-in-mac-os-x-102-jaguar
 related_article4:
-    id: 160425
-    title: What were the technological advancements introduced with the iPhone 3G?
+    id: 160533
+    title: >-
+        How did Apple's use of keynote presentations influence its branding and advertising strategies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+    url: /learn/computer-science/questions/how-did-apples-use-of-keynote-presentations-influence-its-branding-and-advertising-strategies
 related_article5:
-    id: 160528
-    title: What was the significance of Apple's first retail store opening in terms of consumer engagement?
+    id: 160536
+    title: >-
+        What were the key developments in operating systems that Apple introduced in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
+    url: /learn/computer-science/questions/what-were-the-key-developments-in-operating-systems-that-apple-introduced-in-the-early-2000s
 ---
 
 &nbsp;

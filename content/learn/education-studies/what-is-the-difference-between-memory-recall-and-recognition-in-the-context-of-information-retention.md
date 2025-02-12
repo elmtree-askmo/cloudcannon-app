@@ -2,8 +2,10 @@
 _schema: default
 id: 165595
 date: 2025-01-29
-title: What is the difference between memory recall and recognition in the context of information retention?
-article_title: What is the difference between memory recall and recognition in the context of information retention?
+title: >-
+    What is the difference between memory recall and recognition in the context of information retention?
+article_title: >-
+    What is the difference between memory recall and recognition in the context of information retention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-memory-recall-and-recognition-in-the-c
 url: /learn/education-studies/questions/what-is-the-difference-between-memory-recall-and-recognition-in-the-context-of-information-retention
 score: -1.0
 related_article1:
-    id: 165605
-    title: How can setting time goals improve time management in reading?
+    id: 165579
+    title: >-
+        What are the roles of eye movements and saccades in visual processing during reading?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-setting-time-goals-improve-time-management-in-reading
+    url: /learn/education-studies/questions/what-are-the-roles-of-eye-movements-and-saccades-in-visual-processing-during-reading
 related_article2:
-    id: 165606
-    title: What strategies can be used to avoid daydreaming while reading?
+    id: 165607
+    title: >-
+        What is the difference between selective highlighting and recognition in information retention?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-avoid-daydreaming-while-reading
+    url: /learn/education-studies/questions/what-is-the-difference-between-selective-highlighting-and-recognition-in-information-retention
 related_article3:
+    id: 165601
+    title: >-
+        What are the differences between summarizing and taking detailed notes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-differences-between-summarizing-and-taking-detailed-notes
+related_article4:
+    id: 165609
+    title: >-
+        How can effective review strategies enhance information retention?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-effective-review-strategies-enhance-information-retention
+related_article5:
     id: 165594
-    title: How do photoreceptor cells contribute to detail perception in reading?
+    title: >-
+        How do photoreceptor cells contribute to detail perception in reading?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-photoreceptor-cells-contribute-to-detail-perception-in-reading
-related_article4:
-    id: 165614
-    title: What are effective pre-reading techniques for developing questions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-prereading-techniques-for-developing-questions
-related_article5:
-    id: 165613
-    title: How does surveying and questioning improve reading comprehension?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-surveying-and-questioning-improve-reading-comprehension
 ---
 
 &nbsp;

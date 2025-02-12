@@ -2,8 +2,10 @@
 _schema: default
 id: 164917
 date: 2025-01-28
-title: What are the cognitive processes involved in task switching, and what are the associated costs?
-article_title: What are the cognitive processes involved in task switching, and what are the associated costs?
+title: >-
+    What are the cognitive processes involved in task switching, and what are the associated costs?
+article_title: >-
+    What are the cognitive processes involved in task switching, and what are the associated costs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-cognitive-processes-involved-in-task-switching-and-what-
 url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-task-switching-and-what-are-the-associated-costs
 score: -1.0
 related_article1:
-    id: 164913
-    title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+    id: 164903
+    title: >-
+        What is inhibitory control, and why is it important in cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
+    url: /learn/psychology/questions/what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes
 related_article2:
-    id: 164913
-    title: What are common problem-solving strategies, and how do barriers like mental set and functional fixedness affect them?
+    id: 164911
+    title: >-
+        Explain the role of sensory processing in integrating sensory modalities and its disorders.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-common-problemsolving-strategies-and-how-do-barriers-like-mental-set-and-functional-fixedness-affect-them
+    url: /learn/psychology/questions/explain-the-role-of-sensory-processing-in-integrating-sensory-modalities-and-its-disorders
 related_article3:
-    id: 164912
-    title: Discuss the theories of decision making, focusing on rational choice theory and bounded rationality.
+    id: 164906
+    title: >-
+        Describe the feature integration theory and its application in visual search and attention mechanisms.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-theories-of-decision-making-focusing-on-rational-choice-theory-and-bounded-rationality
+    url: /learn/psychology/questions/describe-the-feature-integration-theory-and-its-application-in-visual-search-and-attention-mechanisms
 related_article4:
-    id: 164905
-    title: How does metacognition contribute to effective learning strategies and problem solving?
+    id: 164910
+    title: >-
+        What are the key cognitive processes involved in developmental psychology, particularly in learning and memory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-metacognition-contribute-to-effective-learning-strategies-and-problem-solving
+    url: /learn/psychology/questions/what-are-the-key-cognitive-processes-involved-in-developmental-psychology-particularly-in-learning-and-memory
 related_article5:
-    id: 164908
-    title: How do frontal lobe functions relate to executive function and decision making?
+    id: 164903
+    title: >-
+        What is inhibitory control, and why is it important in cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-frontal-lobe-functions-relate-to-executive-function-and-decision-making
+    url: /learn/psychology/questions/what-is-inhibitory-control-and-why-is-it-important-in-cognitive-processes
 ---
 
 &nbsp;

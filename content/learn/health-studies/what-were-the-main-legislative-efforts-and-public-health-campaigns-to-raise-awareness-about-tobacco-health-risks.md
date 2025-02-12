@@ -2,8 +2,10 @@
 _schema: default
 id: 162347
 date: 2025-01-25
-title: What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
-article_title: What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
+title: >-
+    What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
+article_title: >-
+    What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-main-legislative-efforts-and-public-health-campaigns-to
 url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
 score: -1.0
 related_article1:
-    id: 162342
-    title: How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
+    id: 162352
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
+    url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 related_article2:
-    id: 162316
-    title: What were the primary public health measures implemented before 1867, and how did they address cholera outbreaks?
+    id: 162339
+    title: >-
+        How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-primary-public-health-measures-implemented-before-1867-and-how-did-they-address-cholera-outbreaks
+    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
 related_article3:
-    id: 162343
-    title: What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
+    id: 162318
+    title: >-
+        How did Edward Playter influence sanitary reforms in the late 19th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
+    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
 related_article4:
-    id: 162341
-    title: What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
-related_article5:
     id: 162345
-    title: What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+    title: >-
+        What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
+related_article5:
+    id: 162340
+    title: >-
+        What policy shifts occurred in response to the recognition of social determinants of health in the 1970s and 1980s?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-policy-shifts-occurred-in-response-to-the-recognition-of-social-determinants-of-health-in-the-1970s-and-1980s
 ---
 
 &nbsp;

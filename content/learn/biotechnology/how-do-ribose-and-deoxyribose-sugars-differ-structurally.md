@@ -2,8 +2,10 @@
 _schema: default
 id: 167635
 date: 2025-01-31
-title: How do ribose and deoxyribose sugars differ structurally?
-article_title: How do ribose and deoxyribose sugars differ structurally?
+title: >-
+    How do ribose and deoxyribose sugars differ structurally?
+article_title: >-
+    How do ribose and deoxyribose sugars differ structurally?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ribose-and-deoxyribose-sugars-differ-structurally.md
 url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
 score: -1.0
 related_article1:
-    id: 167643
-    title: How do triglycerides differ from phospholipids in structure and function?
+    id: 167647
+    title: >-
+        List the nitrogenous bases found in DNA and RNA.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
+    url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
 related_article2:
-    id: 167640
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    id: 167641
+    title: >-
+        How does the primary structure of DNA differ from that of RNA?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
 related_article3:
     id: 167648
-    title: What are the functional implications of the structural differences between ribose and deoxyribose sugars?
+    title: >-
+        What are the functional implications of the structural differences between ribose and deoxyribose sugars?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-functional-implications-of-the-structural-differences-between-ribose-and-deoxyribose-sugars
 related_article4:
-    id: 167637
-    title: Describe the structure of the DNA double helix.
+    id: 167634
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 related_article5:
-    id: 167640
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    id: 167634
+    title: >-
+        What are the three main components of a nucleotide?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+    url: /learn/biotechnology/questions/what-are-the-three-main-components-of-a-nucleotide
 ---
 
 &nbsp;

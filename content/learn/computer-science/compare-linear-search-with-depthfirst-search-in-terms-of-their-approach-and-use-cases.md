@@ -2,8 +2,10 @@
 _schema: default
 id: 160872
 date: 2025-01-24
-title: Compare linear search with depth-first search in terms of their approach and use cases.
-article_title: Compare linear search with depth-first search in terms of their approach and use cases.
+title: >-
+    Compare linear search with depth-first search in terms of their approach and use cases.
+article_title: >-
+    Compare linear search with depth-first search in terms of their approach and use cases.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-linear-search-with-depthfirst-search-in-terms-of-their-approa
 url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
 score: -1.0
 related_article1:
-    id: 160874
-    title: How do constraints impact algorithm design and simplify algorithms?
+    id: 161005
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design-and-simplify-algorithms
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article2:
-    id: 160769
-    title: How does testing differ from proving solutions in problem-solving?
+    id: 160710
+    title: >-
+        What constraints must be considered for binary search to be effective?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
+    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
 related_article3:
-    id: 160864
-    title: What is the purpose of abstraction in computing?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-abstraction-in-computing
-related_article4:
     id: 161010
-    title: Describe the divide and conquer strategy in algorithm development.
+    title: >-
+        Describe the divide and conquer strategy in algorithm development.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
-related_article5:
-    id: 161019
-    title: What are associative arrays and how do they utilize non-numeric indices?
+related_article4:
+    id: 160713
+    title: >-
+        Compare linear search with depth-first search in terms of their application.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
+    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-application
+related_article5:
+    id: 160693
+    title: >-
+        What is the difference between testing and proving solutions in computing?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-difference-between-testing-and-proving-solutions-in-computing
 ---
 
 &nbsp;

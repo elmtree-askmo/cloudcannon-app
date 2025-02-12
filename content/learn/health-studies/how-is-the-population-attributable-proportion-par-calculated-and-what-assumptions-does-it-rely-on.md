@@ -2,8 +2,10 @@
 _schema: default
 id: 163242
 date: 2025-01-26
-title: How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
-article_title: How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
+title: >-
+    How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
+article_title: >-
+    How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-population-attributable-proportion-par-calculated-and-what
 url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-does-it-rely-on
 score: -1.0
 related_article1:
-    id: 163240
-    title: How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
+    id: 163338
+    title: >-
+        What are the limitations of using person-years of observation in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-is-its-purpose
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-personyears-of-observation-in-epidemiological-studies
 related_article2:
-    id: 163232
-    title: What are the critical assumptions when calculating cumulative incidence?
+    id: 163074
+    title: >-
+        What is the significance of years of potential life lost (YPLL) in public health?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-critical-assumptions-when-calculating-cumulative-incidence
+    url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
 related_article3:
-    id: 163229
-    title: Why is it crucial to use the correct denominator when calculating a proportion?
+    id: 163239
+    title: >-
+        What is the difference between absolute and relative measures of association?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/what-is-the-difference-between-absolute-and-relative-measures-of-association
 related_article4:
-    id: 163341
-    title: How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+    id: 163336
+    title: >-
+        What is the relationship between prevalence, incidence rate, and disease duration?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
+    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
 related_article5:
-    id: 163062
-    title: How is the numerator used in measures of disease frequency determined?
+    id: 163344
+    title: >-
+        Why is the Population Attributable Proportion (PAR%) important for public health interventions?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
+    url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
 ---
 
 &nbsp;

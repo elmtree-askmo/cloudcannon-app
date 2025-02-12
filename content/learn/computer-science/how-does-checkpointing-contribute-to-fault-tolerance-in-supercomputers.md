@@ -2,8 +2,10 @@
 _schema: default
 id: 161543
 date: 2025-01-24
-title: How does checkpointing contribute to fault tolerance in supercomputers?
-article_title: How does checkpointing contribute to fault tolerance in supercomputers?
+title: >-
+    How does checkpointing contribute to fault tolerance in supercomputers?
+article_title: >-
+    How does checkpointing contribute to fault tolerance in supercomputers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputer
 url: /learn/computer-science/questions/how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputers
 score: -1.0
 related_article1:
-    id: 161562
-    title: What is the role of device drivers in system software?
+    id: 161322
+    title: >-
+        What are the main characteristics of open source software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 related_article2:
-    id: 161294
-    title: Why is disaster recovery an essential aspect of physical security in computing?
+    id: 161563
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-aspect-of-physical-security-in-computing
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 related_article3:
-    id: 161564
-    title: What are the benefits of real-time protection in anti-virus utility software?
+    id: 161542
+    title: >-
+        What is the function of failover mechanisms in mainframe fault tolerance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
+    url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
 related_article4:
-    id: 161295
-    title: What does MIPS measure in mainframe performance metrics?
+    id: 161547
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 related_article5:
-    id: 161561
-    title: What are the advantages of water cooling over air cooling in heat maintenance?
+    id: 161312
+    title: >-
+        What role do redundant components play in RAS (Reliability, Availability, Serviceability)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-water-cooling-over-air-cooling-in-heat-maintenance
+    url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-ras-reliability-availability-serviceability
 ---
 
 &nbsp;

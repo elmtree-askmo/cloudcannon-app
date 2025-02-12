@@ -2,8 +2,10 @@
 _schema: default
 id: 163781
 date: 2025-01-27
-title: How can you determine the equation of an exponential function from its graph?
-article_title: How can you determine the equation of an exponential function from its graph?
+title: >-
+    How can you determine the equation of an exponential function from its graph?
+article_title: >-
+    How can you determine the equation of an exponential function from its graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-determine-the-equation-of-an-exponential-function-from-it
 url: /learn/mathematics/questions/how-can-you-determine-the-equation-of-an-exponential-function-from-its-graph
 score: -1.0
 related_article1:
+    id: 163766
+    title: >-
+        What steps are involved in graphing an exponential function using a table of values?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
+related_article2:
+    id: 163786
+    title: >-
+        How do linear and exponential functions differ in terms of their graphical representation?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-linear-and-exponential-functions-differ-in-terms-of-their-graphical-representation
+related_article3:
+    id: 163769
+    title: >-
+        What distinguishes exponential growth from exponential decay in terms of their mathematical characteristics?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-distinguishes-exponential-growth-from-exponential-decay-in-terms-of-their-mathematical-characteristics
+related_article4:
     id: 163767
-    title: How do you identify the asymptote of an exponential function from its graph?
+    title: >-
+        How do you identify the asymptote of an exponential function from its graph?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-you-identify-the-asymptote-of-an-exponential-function-from-its-graph
-related_article2:
-    id: 163785
-    title: What is the zero exponent rule and how does it apply to exponential functions?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-zero-exponent-rule-and-how-does-it-apply-to-exponential-functions
-related_article3:
-    id: 163788
-    title: How can exponential functions be used to model population growth in real-world scenarios?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-can-exponential-functions-be-used-to-model-population-growth-in-realworld-scenarios
-related_article4:
-    id: 163789
-    title: Describe a method for solving real-world problems using exponential models.
-    subject: Mathematics
-    url: /learn/mathematics/questions/describe-a-method-for-solving-realworld-problems-using-exponential-models
 related_article5:
-    id: 163778
-    title: What is a real-world example of exponential decay, and how is it mathematically represented?
+    id: 163766
+    title: >-
+        What steps are involved in graphing an exponential function using a table of values?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-a-realworld-example-of-exponential-decay-and-how-is-it-mathematically-represented
+    url: /learn/mathematics/questions/what-steps-are-involved-in-graphing-an-exponential-function-using-a-table-of-values
 ---
 
 &nbsp;

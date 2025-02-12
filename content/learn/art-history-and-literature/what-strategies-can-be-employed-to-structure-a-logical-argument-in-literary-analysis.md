@@ -2,8 +2,10 @@
 _schema: default
 id: 161902
 date: 2025-01-24
-title: What strategies can be employed to structure a logical argument in literary analysis?
-article_title: What strategies can be employed to structure a logical argument in literary analysis?
+title: >-
+    What strategies can be employed to structure a logical argument in literary analysis?
+article_title: >-
+    What strategies can be employed to structure a logical argument in literary analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed
 score: 8.5
 related_article1:
     id: 161896
-    title: What role does syntax play in reflecting a character's state of mind?
+    title: >-
+        What role does syntax play in reflecting a character's state of mind?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-does-syntax-play-in-reflecting-a-characters-state-of-mind
 related_article2:
-    id: 161899
-    title: How can logical reasoning be used to identify cause and effect relationships in literary analysis?
+    id: 161892
+    title: >-
+        How does breaking down texts help in uncovering an author's intent?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-logical-reasoning-be-used-to-identify-cause-and-effect-relationships-in-literary-analysis
+    url: /learn/art-history-and-literature/questions/how-does-breaking-down-texts-help-in-uncovering-an-authors-intent
 related_article3:
     id: 161891
-    title: What is the primary purpose of literary analysis?
+    title: >-
+        What is the primary purpose of literary analysis?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-is-the-primary-purpose-of-literary-analysis
 related_article4:
-    id: 161893
-    title: What are the key components of constructing a strong thesis statement in literary analysis?
+    id: 161894
+    title: >-
+        Why is close reading essential in literary analysis?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-components-of-constructing-a-strong-thesis-statement-in-literary-analysis
-related_article5:
-    id: 161900
-    title: What methods can be used to understand a character's motivations in a text?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-methods-can-be-used-to-understand-a-characters-motivations-in-a-text
+    url: /learn/art-history-and-literature/questions/why-is-close-reading-essential-in-literary-analysis
 ---
 
 &nbsp;

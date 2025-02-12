@@ -2,8 +2,10 @@
 _schema: default
 id: 165000
 date: 2025-01-28
-title: Explain the importance of measurement scales in statistical analysis.
-article_title: Explain the importance of measurement scales in statistical analysis.
+title: >-
+    Explain the importance of measurement scales in statistical analysis.
+article_title: >-
+    Explain the importance of measurement scales in statistical analysis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-importance-of-measurement-scales-in-statistical-analysis.
 url: /learn/education-studies/questions/explain-the-importance-of-measurement-scales-in-statistical-analysis
 score: -1.0
 related_article1:
-    id: 165008
-    title: How is election forecasting conducted using survey data?
+    id: 165006
+    title: >-
+        How does random sampling differ from stratified sampling, and when should each be used?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-election-forecasting-conducted-using-survey-data
+    url: /learn/education-studies/questions/how-does-random-sampling-differ-from-stratified-sampling-and-when-should-each-be-used
 related_article2:
-    id: 164998
-    title: How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
+    id: 165005
+    title: >-
+        What are the differences between experimental design and observational studies in research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-of-data-collection-effectiveness
+    url: /learn/education-studies/questions/what-are-the-differences-between-experimental-design-and-observational-studies-in-research-methodology
 related_article3:
     id: 165007
-    title: What are the key components of public opinion surveys in political polling?
+    title: >-
+        What are the key components of public opinion surveys in political polling?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-public-opinion-surveys-in-political-polling
 related_article4:
     id: 164996
-    title: Why is visual layout important in questionnaire design, and how can it affect survey responses?
+    title: >-
+        Why is visual layout important in questionnaire design, and how can it affect survey responses?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-visual-layout-important-in-questionnaire-design-and-how-can-it-affect-survey-responses
 related_article5:
-    id: 165004
-    title: What role does socioeconomic status play in demographic analysis?
+    id: 164998
+    title: >-
+        How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-socioeconomic-status-play-in-demographic-analysis
+    url: /learn/education-studies/questions/how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-of-data-collection-effectiveness
 ---
 
 &nbsp;

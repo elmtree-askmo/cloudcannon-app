@@ -2,8 +2,10 @@
 _schema: default
 id: 169235
 date: 2025-02-04
-title: What are the implications of lowering the voting age on voter turnout?
-article_title: What are the implications of lowering the voting age on voter turnout?
+title: >-
+    What are the implications of lowering the voting age on voter turnout?
+article_title: >-
+    What are the implications of lowering the voting age on voter turnout?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/what-are-the-implications-of-lowering
 score: 9.0
 related_article1:
     id: 169243
-    title: What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
+    title: >-
+        What are the characteristics of safe seats and swing ridings, and how do they impact campaign strategies?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-safe-seats-and-swing-ridings-and-how-do-they-impact-campaign-strategies
 related_article2:
-    id: 169233
-    title: What role does the Electoral Boundaries Commission play in the creation of electoral districts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-the-electoral-boundaries-commission-play-in-the-creation-of-electoral-districts
-related_article3:
-    id: 169234
-    title: How did the introduction of women's suffrage impact voting rights historically?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-introduction-of-womens-suffrage-impact-voting-rights-historically
-related_article4:
-    id: 169234
-    title: How did the introduction of women's suffrage impact voting rights historically?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-introduction-of-womens-suffrage-impact-voting-rights-historically
-related_article5:
     id: 169242
-    title: How do bellwether ridings influence political trends and electoral success?
+    title: >-
+        How do bellwether ridings influence political trends and electoral success?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-bellwether-ridings-influence-political-trends-and-electoral-success
+related_article3:
+    id: 169237
+    title: >-
+        What are the potential effects of proportional representation on political stability?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-potential-effects-of-proportional-representation-on-political-stability
+related_article4:
+    id: 169242
+    title: >-
+        How do bellwether ridings influence political trends and electoral success?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-bellwether-ridings-influence-political-trends-and-electoral-success
+related_article5:
+    id: 169238
+    title: >-
+        What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-distinguishes-the-major-political-parties-in-canada-such-as-the-liberal-and-conservative-parties-from-regional-parties-like-the-bloc-qubcois
 ---
 
 &nbsp;

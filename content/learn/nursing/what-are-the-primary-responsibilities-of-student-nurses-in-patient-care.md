@@ -2,8 +2,10 @@
 _schema: default
 id: 169579
 date: 2025-02-05
-title: What are the primary responsibilities of student nurses in patient care?
-article_title: What are the primary responsibilities of student nurses in patient care?
+title: >-
+    What are the primary responsibilities of student nurses in patient care?
+article_title: >-
+    What are the primary responsibilities of student nurses in patient care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-responsibilities-of-student-nurses-in-patient-ca
 url: /learn/nursing/questions/what-are-the-primary-responsibilities-of-student-nurses-in-patient-care
 score: -1.0
 related_article1:
-    id: 169554
-    title: What tasks are suitable for delegation to student nurses?
+    id: 169553
+    title: >-
+        What is the definition of delegation in healthcare, and why is it important?
     subject: Nursing
-    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+    url: /learn/nursing/questions/what-is-the-definition-of-delegation-in-healthcare-and-why-is-it-important
 related_article2:
-    id: 169571
-    title: Why is accurate patient assessment crucial for risk management?
+    id: 169555
+    title: >-
+        What are the key principles of accountability in healthcare practice?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-accurate-patient-assessment-crucial-for-risk-management
+    url: /learn/nursing/questions/what-are-the-key-principles-of-accountability-in-healthcare-practice
 related_article3:
-    id: 169554
-    title: What tasks are suitable for delegation to student nurses?
+    id: 169578
+    title: >-
+        How does communication impact delegation and accountability?
     subject: Nursing
-    url: /learn/nursing/questions/what-tasks-are-suitable-for-delegation-to-student-nurses
+    url: /learn/nursing/questions/how-does-communication-impact-delegation-and-accountability
 related_article4:
-    id: 169564
-    title: Why is supervision particularly important for student nurses?
+    id: 169575
+    title: >-
+        What are the different roles within a healthcare team, and how do they interact?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-supervision-particularly-important-for-student-nurses
+    url: /learn/nursing/questions/what-are-the-different-roles-within-a-healthcare-team-and-how-do-they-interact
 related_article5:
-    id: 169577
-    title: Why is effective communication important in healthcare?
+    id: 169580
+    title: >-
+        How does supervision support student nurses in fulfilling their responsibilities?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-important-in-healthcare
+    url: /learn/nursing/questions/how-does-supervision-support-student-nurses-in-fulfilling-their-responsibilities
 ---
 
 &nbsp;

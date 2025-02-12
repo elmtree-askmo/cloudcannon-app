@@ -2,8 +2,10 @@
 _schema: default
 id: 166068
 date: 2025-01-29
-title: Explain the advanced maneuver of running along the yoke in chariot driving.
-article_title: Explain the advanced maneuver of running along the yoke in chariot driving.
+title: >-
+    Explain the advanced maneuver of running along the yoke in chariot driving.
+article_title: >-
+    Explain the advanced maneuver of running along the yoke in chariot driving.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: explain-the-advanced-maneuver-of-running-along-the-yoke-in-chariot-dr
 url: /learn/others/questions/explain-the-advanced-maneuver-of-running-along-the-yoke-in-chariot-driving
 score: -1.0
 related_article1:
-    id: 166070
-    title: How did chariots disrupt enemy formations and facilitate tactical retreats?
-    subject: Others
-    url: /learn/others/questions/how-did-chariots-disrupt-enemy-formations-and-facilitate-tactical-retreats
-related_article2:
-    id: 166071
-    title: What training practices were crucial for maintaining control of horses at high speeds?
-    subject: Others
-    url: /learn/others/questions/what-training-practices-were-crucial-for-maintaining-control-of-horses-at-high-speeds
-related_article3:
-    id: 166063
-    title: What are the benefits of integrating cavalry and infantry in British military tactics?
-    subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-integrating-cavalry-and-infantry-in-british-military-tactics
-related_article4:
-    id: 166063
-    title: What are the benefits of integrating cavalry and infantry in British military tactics?
-    subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-integrating-cavalry-and-infantry-in-british-military-tactics
-related_article5:
     id: 166072
-    title: How did drivers and horses coordinate effectively during battle maneuvers?
+    title: >-
+        How did drivers and horses coordinate effectively during battle maneuvers?
     subject: Others
     url: /learn/others/questions/how-did-drivers-and-horses-coordinate-effectively-during-battle-maneuvers
+related_article2:
+    id: 166066
+    title: >-
+        What techniques were essential for mastering control of a chariot on steep slopes?
+    subject: Others
+    url: /learn/others/questions/what-techniques-were-essential-for-mastering-control-of-a-chariot-on-steep-slopes
+related_article3:
+    id: 166073
+    title: >-
+        What techniques were used to navigate difficult terrain with chariots?
+    subject: Others
+    url: /learn/others/questions/what-techniques-were-used-to-navigate-difficult-terrain-with-chariots
+related_article4:
+    id: 166061
+    title: >-
+        Describe the initial engagement and mobility strategies used in chariot combat.
+    subject: Others
+    url: /learn/others/questions/describe-the-initial-engagement-and-mobility-strategies-used-in-chariot-combat
 ---
 
 &nbsp;

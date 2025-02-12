@@ -2,8 +2,10 @@
 _schema: default
 id: 165141
 date: 2025-01-28
-title: What role does dopamine play in stress and behavior?
-article_title: What role does dopamine play in stress and behavior?
+title: >-
+    What role does dopamine play in stress and behavior?
+article_title: >-
+    What role does dopamine play in stress and behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-dopamine-play-in-stress-and-behavior.md
 url: /learn/education-studies/questions/what-role-does-dopamine-play-in-stress-and-behavior
 score: -1.0
 related_article1:
-    id: 165131
-    title: What are the main threats to internal validity in research studies?
+    id: 165135
+    title: >-
+        What is the purpose of using control groups in experimental research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-threats-to-internal-validity-in-research-studies
+    url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
 related_article2:
-    id: 165147
-    title: What are the implications of confusing causation with correlation in research findings?
+    id: 165126
+    title: >-
+        What distinguishes descriptive, correlational, and experimental designs in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-implications-of-confusing-causation-with-correlation-in-research-findings
+    url: /learn/education-studies/questions/what-distinguishes-descriptive-correlational-and-experimental-designs-in-research
 related_article3:
-    id: 165129
-    title: How does block randomization differ from simple randomization, and what are its applications?
+    id: 165127
+    title: >-
+        How do variables, hypotheses, and procedures contribute to experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-block-randomization-differ-from-simple-randomization-and-what-are-its-applications
+    url: /learn/education-studies/questions/how-do-variables-hypotheses-and-procedures-contribute-to-experimental-design
 related_article4:
-    id: 165148
-    title: What are the types of measurement instruments used in research, and how is reliability assessed?
+    id: 165123
+    title: >-
+        How do questionnaires and interviews differ as tools for data collection?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-types-of-measurement-instruments-used-in-research-and-how-is-reliability-assessed
+    url: /learn/education-studies/questions/how-do-questionnaires-and-interviews-differ-as-tools-for-data-collection
 related_article5:
-    id: 165125
-    title: How can task management and progress tracking be effectively executed in project management?
+    id: 165146
+    title: >-
+        What is the distinction between causation and correlation in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-task-management-and-progress-tracking-be-effectively-executed-in-project-management
+    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
 ---
 
 &nbsp;

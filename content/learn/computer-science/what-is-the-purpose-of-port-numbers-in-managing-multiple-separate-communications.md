@@ -2,8 +2,10 @@
 _schema: default
 id: 165776
 date: 2025-01-29
-title: What is the purpose of port numbers in managing multiple separate communications?
-article_title: What is the purpose of port numbers in managing multiple separate communications?
+title: >-
+    What is the purpose of port numbers in managing multiple separate communications?
+article_title: >-
+    What is the purpose of port numbers in managing multiple separate communications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-com
 url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 score: -1.0
 related_article1:
+    id: 165787
+    title: >-
+        How does TCP handle congestion control using timers and algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-tcp-handle-congestion-control-using-timers-and-algorithms
+related_article2:
+    id: 165774
+    title: >-
+        How does TCP guarantee ordered delivery and handle data loss?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
+related_article3:
+    id: 165774
+    title: >-
+        How does TCP guarantee ordered delivery and handle data loss?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
+related_article4:
     id: 165769
-    title: How does data segmentation enable multiple conversations in network communication?
+    title: >-
+        How does data segmentation enable multiple conversations in network communication?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
-related_article2:
-    id: 165773
-    title: What is the significance of the simplicity and low overhead of the UDP header?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-the-simplicity-and-low-overhead-of-the-udp-header
-related_article3:
-    id: 165781
-    title: How does the TCP communication process establish and terminate sessions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-tcp-communication-process-establish-and-terminate-sessions
-related_article4:
-    id: 165779
-    title: What information is contained in the TCP header fields related to sequence and acknowledgment?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-information-is-contained-in-the-tcp-header-fields-related-to-sequence-and-acknowledgment
 related_article5:
-    id: 165765
-    title: How does the transport layer ensure logical communication between applications?
+    id: 165777
+    title: >-
+        How do socket pairs facilitate communication between devices?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-ensure-logical-communication-between-applications
+    url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167503
 date: 2025-01-31
-title: How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
-article_title: How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+title: >-
+    How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
+article_title: >-
+    How do oligosaccharides contribute to cell signaling and identity in plasma membranes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-
 url: /learn/biotechnology/questions/how-do-oligosaccharides-contribute-to-cell-signaling-and-identity-in-plasma-membranes
 score: -1.0
 related_article1:
-    id: 167500
-    title: What is the primary function of starch in plants?
+    id: 167502
+    title: >-
+        What structural role does cellulose play in plant cell walls?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+    url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
 related_article2:
-    id: 167501
-    title: How does glycogen function as an energy storage molecule in animals?
+    id: 167502
+    title: >-
+        What structural role does cellulose play in plant cell walls?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+    url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
 related_article3:
-    id: 167500
-    title: What is the primary function of starch in plants?
+    id: 167502
+    title: >-
+        What structural role does cellulose play in plant cell walls?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-primary-function-of-starch-in-plants
+    url: /learn/biotechnology/questions/what-structural-role-does-cellulose-play-in-plant-cell-walls
 related_article4:
-    id: 167498
-    title: What are the key differences between alpha and beta glycosidic bonds?
+    id: 167496
+    title: >-
+        What is the role of dehydration reactions in the formation of biological polymers?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-key-differences-between-alpha-and-beta-glycosidic-bonds
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
+related_article5:
+    id: 167496
+    title: >-
+        What is the role of dehydration reactions in the formation of biological polymers?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-role-of-dehydration-reactions-in-the-formation-of-biological-polymers
 ---
 
 &nbsp;

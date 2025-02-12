@@ -2,8 +2,10 @@
 _schema: default
 id: 161507
 date: 2025-01-24
-title: How does a checksum function in error detection and what are some common algorithms used?
-article_title: How does a checksum function in error detection and what are some common algorithms used?
+title: >-
+    How does a checksum function in error detection and what are some common algorithms used?
+article_title: >-
+    How does a checksum function in error detection and what are some common algorithms used?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-a-checksum-function-in-error-detection-and-what-are-some-com
 url: /learn/computer-science/questions/how-does-a-checksum-function-in-error-detection-and-what-are-some-common-algorithms-used
 score: -1.0
 related_article1:
-    id: 161666
-    title: What is the purpose of data validation and how do range checks and type checks function?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-validation-and-how-do-range-checks-and-type-checks-function
-related_article2:
     id: 161431
-    title: How does indirect data differ from direct data, and what are some examples of its uses?
+    title: >-
+        How does indirect data differ from direct data, and what are some examples of its uses?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-indirect-data-differ-from-direct-data-and-what-are-some-examples-of-its-uses
+related_article2:
+    id: 161429
+    title: >-
+        What are the main characteristics of direct data, and what are its advantages and disadvantages?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article3:
-    id: 161490
-    title: How does data transform into information and why is context important in this process?
+    id: 161688
+    title: >-
+        Why is accuracy important in the quality of information, and what factors can affect it?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
+    url: /learn/computer-science/questions/why-is-accuracy-important-in-the-quality-of-information-and-what-factors-can-affect-it
 related_article4:
-    id: 161510
-    title: Why is data analysis important and what are some techniques and tools used in this process?
+    id: 161508
+    title: >-
+        What is the difference between a hash total and a control total in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-data-analysis-important-and-what-are-some-techniques-and-tools-used-in-this-process
+    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
 related_article5:
-    id: 161427
-    title: What is the difference between data and information, and why is raw data considered meaningless?
+    id: 161686
+    title: >-
+        What are the characteristics and examples of direct data, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-data-and-information-and-why-is-raw-data-considered-meaningless
+    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-direct-data-and-what-are-its-advantages-and-disadvantages
 ---
 
 &nbsp;

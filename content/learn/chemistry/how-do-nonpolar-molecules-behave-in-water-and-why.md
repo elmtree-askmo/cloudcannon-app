@@ -2,8 +2,10 @@
 _schema: default
 id: 167316
 date: 2025-01-31
-title: How do nonpolar molecules behave in water, and why?
-article_title: How do nonpolar molecules behave in water, and why?
+title: >-
+    How do nonpolar molecules behave in water, and why?
+article_title: >-
+    How do nonpolar molecules behave in water, and why?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-nonpolar-molecules-behave-in-water-and-why.md
 url: /learn/chemistry/questions/how-do-nonpolar-molecules-behave-in-water-and-why
 score: -1.0
 related_article1:
-    id: 167313
-    title: Why is water considered an excellent solvent for ionic compounds and polar molecules?
+    id: 167323
+    title: >-
+        Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
     subject: Chemistry
-    url: /learn/chemistry/questions/why-is-water-considered-an-excellent-solvent-for-ionic-compounds-and-polar-molecules
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
 related_article2:
-    id: 167312
-    title: How do hydrogen bonds contribute to the cohesion and adhesion properties of water?
+    id: 167323
+    title: >-
+        Why are hydrocarbons considered nonpolar, and how does this affect their solubility in water?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-hydrogen-bonds-contribute-to-the-cohesion-and-adhesion-properties-of-water
+    url: /learn/chemistry/questions/why-are-hydrocarbons-considered-nonpolar-and-how-does-this-affect-their-solubility-in-water
 related_article3:
-    id: 167318
-    title: What effect do acids have on the concentration of hydrogen ions in a solution?
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-effect-do-acids-have-on-the-concentration-of-hydrogen-ions-in-a-solution
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
 related_article4:
+    id: 167319
+    title: >-
+        How do buffers help maintain pH stability in biological systems?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-do-buffers-help-maintain-ph-stability-in-biological-systems
+related_article5:
     id: 167311
-    title: What type of bond is responsible for the partial charges in a water molecule?
+    title: >-
+        What type of bond is responsible for the partial charges in a water molecule?
     subject: Chemistry
     url: /learn/chemistry/questions/what-type-of-bond-is-responsible-for-the-partial-charges-in-a-water-molecule
-related_article5:
-    id: 167314
-    title: What causes the formation of a meniscus in a container of water?
-    subject: Chemistry
-    url: /learn/chemistry/questions/what-causes-the-formation-of-a-meniscus-in-a-container-of-water
 ---
 
 &nbsp;

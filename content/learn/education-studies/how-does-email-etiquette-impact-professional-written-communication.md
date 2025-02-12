@@ -2,8 +2,10 @@
 _schema: default
 id: 164108
 date: 2025-01-28
-title: How does email etiquette impact professional written communication?
-article_title: How does email etiquette impact professional written communication?
+title: >-
+    How does email etiquette impact professional written communication?
+article_title: >-
+    How does email etiquette impact professional written communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-email-etiquette-impact-professional-written-communication.md
 url: /learn/education-studies/questions/how-does-email-etiquette-impact-professional-written-communication
 score: -1.0
 related_article1:
-    id: 164114
-    title: What are some techniques for effective journaling in reflective writing?
+    id: 164103
+    title: >-
+        What are some effective techniques for managing time during exams?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-techniques-for-effective-journaling-in-reflective-writing
+    url: /learn/education-studies/questions/what-are-some-effective-techniques-for-managing-time-during-exams
 related_article2:
-    id: 164107
-    title: What are the key components of effective verbal communication in public speaking?
+    id: 164092
+    title: >-
+        How can reflective writing enhance personal and academic growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-verbal-communication-in-public-speaking
+    url: /learn/education-studies/questions/how-can-reflective-writing-enhance-personal-and-academic-growth
 related_article3:
-    id: 164095
-    title: What strategies can be used to evaluate arguments critically?
+    id: 164099
+    title: >-
+        What factors should be considered when forming a study group?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-evaluate-arguments-critically
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-a-study-group
 related_article4:
-    id: 164112
-    title: What are the stages of degree progression, and what are the research requirements for each?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-stages-of-degree-progression-and-what-are-the-research-requirements-for-each
-related_article5:
     id: 164111
-    title: How does university structure differ from college, particularly in terms of independent learning?
+    title: >-
+        How does university structure differ from college, particularly in terms of independent learning?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-university-structure-differ-from-college-particularly-in-terms-of-independent-learning
+related_article5:
+    id: 164099
+    title: >-
+        What factors should be considered when forming a study group?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-should-be-considered-when-forming-a-study-group
 ---
 
 &nbsp;

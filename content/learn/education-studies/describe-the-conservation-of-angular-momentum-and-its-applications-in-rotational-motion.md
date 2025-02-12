@@ -2,8 +2,10 @@
 _schema: default
 id: 166738
 date: 2025-01-31
-title: Describe the conservation of angular momentum and its applications in rotational motion.
-article_title: Describe the conservation of angular momentum and its applications in rotational motion.
+title: >-
+    Describe the conservation of angular momentum and its applications in rotational motion.
+article_title: >-
+    Describe the conservation of angular momentum and its applications in rotational motion.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: describe-the-conservation-of-angular-momentum-and-its-applications-in
 url: /learn/education-studies/questions/describe-the-conservation-of-angular-momentum-and-its-applications-in-rotational-motion
 score: -1.0
 related_article1:
-    id: 166726
-    title: What are the different types of forces and how do they affect the equilibrium of a system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-forces-and-how-do-they-affect-the-equilibrium-of-a-system
-related_article2:
-    id: 166726
-    title: What are the different types of forces and how do they affect the equilibrium of a system?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-forces-and-how-do-they-affect-the-equilibrium-of-a-system
-related_article3:
     id: 166733
-    title: What is the cross product of two vectors and what are its properties?
+    title: >-
+        What is the cross product of two vectors and what are its properties?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
+related_article2:
+    id: 166736
+    title: >-
+        How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
+related_article3:
+    id: 166739
+    title: >-
+        How are coordinate transformations performed between Cartesian and cylindrical coordinate systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-coordinate-transformations-performed-between-cartesian-and-cylindrical-coordinate-systems
 related_article4:
-    id: 166722
-    title: What are the fundamental concepts of statics and why are they important in mechanics?
+    id: 166733
+    title: >-
+        What is the cross product of two vectors and what are its properties?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-concepts-of-statics-and-why-are-they-important-in-mechanics
-related_article5:
-    id: 166731
-    title: Define the dot product and explain how it is used to calculate scalar products.
-    subject: Education Studies
-    url: /learn/education-studies/questions/define-the-dot-product-and-explain-how-it-is-used-to-calculate-scalar-products
+    url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
 ---
 
 &nbsp;

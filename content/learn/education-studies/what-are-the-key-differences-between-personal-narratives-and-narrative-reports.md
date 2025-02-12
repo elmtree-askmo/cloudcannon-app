@@ -2,8 +2,10 @@
 _schema: default
 id: 168626
 date: 2025-02-03
-title: What are the key differences between personal narratives and narrative reports?
-article_title: What are the key differences between personal narratives and narrative reports?
+title: >-
+    What are the key differences between personal narratives and narrative reports?
+article_title: >-
+    What are the key differences between personal narratives and narrative reports?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-personal-narratives-and-narrativ
 url: /learn/education-studies/questions/what-are-the-key-differences-between-personal-narratives-and-narrative-reports
 score: -1.0
 related_article1:
-    id: 168618
-    title: How does objective language contribute to the effectiveness of narrative reports?
+    id: 168625
+    title: >-
+        What is the purpose of a narrative, and how can it be effectively communicated?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-language-contribute-to-the-effectiveness-of-narrative-reports
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-narrative-and-how-can-it-be-effectively-communicated
 related_article2:
-    id: 168624
-    title: How does writing style influence audience engagement in narratives?
+    id: 168617
+    title: >-
+        What is the role of narrative voice in personal narratives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-writing-style-influence-audience-engagement-in-narratives
+    url: /learn/education-studies/questions/what-is-the-role-of-narrative-voice-in-personal-narratives
 related_article3:
-    id: 168613
-    title: How can the organization of a narrative affect its overall impact?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-organization-of-a-narrative-affect-its-overall-impact
-related_article4:
     id: 168616
-    title: How does perspective influence a personal narrative?
+    title: >-
+        How does perspective influence a personal narrative?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-perspective-influence-a-personal-narrative
-related_article5:
+related_article4:
     id: 168611
-    title: How does descriptive writing enhance a narrative?
+    title: >-
+        How does descriptive writing enhance a narrative?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-descriptive-writing-enhance-a-narrative
+related_article5:
+    id: 168618
+    title: >-
+        How does objective language contribute to the effectiveness of narrative reports?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-objective-language-contribute-to-the-effectiveness-of-narrative-reports
 ---
 
 &nbsp;

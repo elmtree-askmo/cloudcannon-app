@@ -2,8 +2,10 @@
 _schema: default
 id: 165119
 date: 2025-01-28
-title: How does color perception influence consumer behavior in marketing?
-article_title: How does color perception influence consumer behavior in marketing?
+title: >-
+    How does color perception influence consumer behavior in marketing?
+article_title: >-
+    How does color perception influence consumer behavior in marketing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-color-perception-influence-consumer-behavior-in-marketing.md
 url: /learn/education-studies/questions/how-does-color-perception-influence-consumer-behavior-in-marketing
 score: -1.0
 related_article1:
-    id: 165120
-    title: What are the biological and environmental factors affecting taste perception?
+    id: 165099
+    title: >-
+        What are the characteristics of nominal measurement types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
 related_article2:
-    id: 165107
-    title: Why is accurate data coding important and what are some common coding errors?
+    id: 165099
+    title: >-
+        What are the characteristics of nominal measurement types?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-accurate-data-coding-important-and-what-are-some-common-coding-errors
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
 related_article3:
-    id: 165115
-    title: How can validity be ensured in research studies?
+    id: 165102
+    title: >-
+        What are the key differences between between-subjects and within-subjects experimental designs?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
 related_article4:
-    id: 165110
-    title: Explain the process of hypothesis testing in inferential statistics.
+    id: 165099
+    title: >-
+        What are the characteristics of nominal measurement types?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-process-of-hypothesis-testing-in-inferential-statistics
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-nominal-measurement-types
 related_article5:
-    id: 165097
-    title: What role do independent variables play in experiments?
+    id: 165114
+    title: >-
+        Why is reliability important in research and what are the types of reliability?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-independent-variables-play-in-experiments
+    url: /learn/education-studies/questions/why-is-reliability-important-in-research-and-what-are-the-types-of-reliability
 ---
 
 &nbsp;

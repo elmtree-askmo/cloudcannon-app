@@ -2,8 +2,10 @@
 _schema: default
 id: 163903
 date: 2025-01-28
-title: How do transformation myths serve as etiological myths in Greek culture?
-article_title: How do transformation myths serve as etiological myths in Greek culture?
+title: >-
+    How do transformation myths serve as etiological myths in Greek culture?
+article_title: >-
+    How do transformation myths serve as etiological myths in Greek culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-transformation-myths-serve-as-etiological-myths-in-greek-cultu
 url: /learn/art-history-and-literature/questions/how-do-transformation-myths-serve-as-etiological-myths-in-greek-culture
 score: 9.0
 related_article1:
-    id: 163889
-    title: What distinguishes non-Olympian deities from Olympian gods in Greek mythology?
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-distinguishes-nonolympian-deities-from-olympian-gods-in-greek-mythology
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article2:
-    id: 163895
-    title: What role did bards play in the preservation and dissemination of Greek myths?
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-bards-play-in-the-preservation-and-dissemination-of-greek-myths
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
 related_article3:
-    id: 163898
-    title: What is the historical context of ancient Greek literature, and how did it influence the works produced during that time?
+    id: 163901
+    title: >-
+        How do character epithets function within Greek mythology, and why are they significant?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-of-ancient-greek-literature-and-how-did-it-influence-the-works-produced-during-that-time
+    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
 related_article4:
-    id: 163905
-    title: How have Greek myths been preserved and evolved over time through storytelling traditions?
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-greek-myths-been-preserved-and-evolved-over-time-through-storytelling-traditions
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+related_article5:
+    id: 163896
+    title: >-
+        List the defining characteristics of epic poetry in ancient Greek literature.
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
 ---
 
 &nbsp;

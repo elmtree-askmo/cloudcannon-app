@@ -2,8 +2,10 @@
 _schema: default
 id: 166373
 date: 2025-01-30
-title: What factors influence the response to selection in a population?
-article_title: What factors influence the response to selection in a population?
+title: >-
+    What factors influence the response to selection in a population?
+article_title: >-
+    What factors influence the response to selection in a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-the-response-to-selection-in-a-population.md
 url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
 score: -1.0
 related_article1:
-    id: 166364
-    title: Differentiate between homology and homoplasy in comparative biology.
+    id: 166359
+    title: >-
+        How does parent-offspring regression help in understanding heritability?
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
 related_article2:
     id: 166361
-    title: Define adaptation and explain its importance in evolutionary biology.
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
     subject: Biology
     url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
 related_article3:
-    id: 166355
-    title: What are Darwin's postulates and how do they relate to natural selection?
+    id: 166354
+    title: >-
+        How do ultimate and proximate questions differ in the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
 related_article4:
-    id: 166367
-    title: What role do neurobiological influences play in shaping behavior?
+    id: 166359
+    title: >-
+        How does parent-offspring regression help in understanding heritability?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-neurobiological-influences-play-in-shaping-behavior
+    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
 related_article5:
-    id: 166370
-    title: How is fitness defined and measured in the context of natural selection?
+    id: 166354
+    title: >-
+        How do ultimate and proximate questions differ in the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
 ---
 
 &nbsp;

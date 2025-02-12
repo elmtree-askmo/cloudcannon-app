@@ -2,8 +2,10 @@
 _schema: default
 id: 169595
 date: 2025-02-05
-title: Why is cultural competence important in nursing, and how can it be improved through training and education?
-article_title: Why is cultural competence important in nursing, and how can it be improved through training and education?
+title: >-
+    Why is cultural competence important in nursing, and how can it be improved through training and education?
+article_title: >-
+    Why is cultural competence important in nursing, and how can it be improved through training and education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-cultural-competence-important-in-nursing-and-how-can-it-be-imp
 url: /learn/nursing/questions/why-is-cultural-competence-important-in-nursing-and-how-can-it-be-improved-through-training-and-education
 score: -1.0
 related_article1:
+    id: 169585
+    title: >-
+        What are the limitations and criticisms of the medical model of disability?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-limitations-and-criticisms-of-the-medical-model-of-disability
+related_article2:
+    id: 169594
+    title: >-
+        How do socio-economic factors influence access to healthcare services and health outcomes?
+    subject: Nursing
+    url: /learn/nursing/questions/how-do-socioeconomic-factors-influence-access-to-healthcare-services-and-health-outcomes
+related_article3:
     id: 169586
-    title: How does the social model of disability promote patient-centered care?
+    title: >-
+        How does the social model of disability promote patient-centered care?
     subject: Nursing
     url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
-related_article2:
-    id: 169589
-    title: What were Florence Nightingale's major contributions to the field of nursing, and what criticisms has she faced?
-    subject: Nursing
-    url: /learn/nursing/questions/what-were-florence-nightingales-major-contributions-to-the-field-of-nursing-and-what-criticisms-has-she-faced
-related_article3:
-    id: 169599
-    title: What are the benefits of inclusive healthcare practices for patient outcomes and satisfaction?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-of-inclusive-healthcare-practices-for-patient-outcomes-and-satisfaction
 related_article4:
-    id: 169588
-    title: What strategies can be employed to overcome biases in nursing?
+    id: 169600
+    title: >-
+        How have societal norms historically influenced healthcare practices, and what is their impact today?
     subject: Nursing
-    url: /learn/nursing/questions/what-strategies-can-be-employed-to-overcome-biases-in-nursing
+    url: /learn/nursing/questions/how-have-societal-norms-historically-influenced-healthcare-practices-and-what-is-their-impact-today
 related_article5:
-    id: 169583
-    title: What are some common perceptions of elderly patients that contribute to discrimination in healthcare?
+    id: 169586
+    title: >-
+        How does the social model of disability promote patient-centered care?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-common-perceptions-of-elderly-patients-that-contribute-to-discrimination-in-healthcare
+    url: /learn/nursing/questions/how-does-the-social-model-of-disability-promote-patientcentered-care
 ---
 
 &nbsp;

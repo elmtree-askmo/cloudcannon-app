@@ -2,8 +2,10 @@
 _schema: default
 id: 164435
 date: 2025-01-28
-title: How do developmental stages affect executive functions in children?
-article_title: How do developmental stages affect executive functions in children?
+title: >-
+    How do developmental stages affect executive functions in children?
+article_title: >-
+    How do developmental stages affect executive functions in children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-developmental-stages-affect-executive-functions-in-children.md
 url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
 score: -1.0
 related_article1:
-    id: 164427
-    title: What is prediction error in reward processing, and how does it relate to dopamine release?
+    id: 164420
+    title: >-
+        What role does competition and inhibition play in brain structure and emotional regulation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-prediction-error-in-reward-processing-and-how-does-it-relate-to-dopamine-release
+    url: /learn/psychology/questions/what-role-does-competition-and-inhibition-play-in-brain-structure-and-emotional-regulation
 related_article2:
+    id: 164437
+    title: >-
+        How do wanting and liking differ in psychological terms, and what are their implications for behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-wanting-and-liking-differ-in-psychological-terms-and-what-are-their-implications-for-behavior
+related_article3:
     id: 164436
-    title: What are the cultural variations in diagnostic criteria for mental health?
+    title: >-
+        What are the cultural variations in diagnostic criteria for mental health?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
-related_article3:
-    id: 164434
-    title: What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 related_article4:
-    id: 164423
-    title: How does the frontal lobe contribute to executive functions and speech production?
+    id: 164424
+    title: >-
+        What is the impact of socioeconomic status on language exposure and vocabulary development in children?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
 related_article5:
-    id: 164432
-    title: What impact does cortisol have on memory and learning during stress?
+    id: 164425
+    title: >-
+        How does stress affect cortisol levels and cognitive performance?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+    url: /learn/psychology/questions/how-does-stress-affect-cortisol-levels-and-cognitive-performance
 ---
 
 &nbsp;

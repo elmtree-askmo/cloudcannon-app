@@ -2,8 +2,10 @@
 _schema: default
 id: 163379
 date: 2025-01-26
-title: Describe the components of the Medicine Wheel and their significance in the holistic health model.
-article_title: Describe the components of the Medicine Wheel and their significance in the holistic health model.
+title: >-
+    Describe the components of the Medicine Wheel and their significance in the holistic health model.
+article_title: >-
+    Describe the components of the Medicine Wheel and their significance in the holistic health model.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: describe-the-components-of-the-medicine-wheel-and-their-significance-
 url: /learn/health-studies/questions/describe-the-components-of-the-medicine-wheel-and-their-significance-in-the-holistic-health-model
 score: -1.0
 related_article1:
-    id: 163385
-    title: How does a connection to the Creator influence the spiritual and cultural knowledge of First Nations?
+    id: 163376
+    title: >-
+        How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-a-connection-to-the-creator-influence-the-spiritual-and-cultural-knowledge-of-first-nations
+    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
 related_article2:
+    id: 163380
+    title: >-
+        What role do community-driven health initiatives play in providing culturally appropriate services for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-role-do-communitydriven-health-initiatives-play-in-providing-culturally-appropriate-services-for-first-nations
+related_article3:
     id: 163377
-    title: What were the impacts of the British North America Act and the Indian Act on First Nations communities?
+    title: >-
+        What were the impacts of the British North America Act and the Indian Act on First Nations communities?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
-related_article3:
-    id: 163385
-    title: How does a connection to the Creator influence the spiritual and cultural knowledge of First Nations?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-a-connection-to-the-creator-influence-the-spiritual-and-cultural-knowledge-of-first-nations
 related_article4:
-    id: 163386
-    title: Why is cultural integrity and identity important for the health and well-being of First Nations communities?
+    id: 163381
+    title: >-
+        How is traditional knowledge transmitted within First Nations communities, and why is it important?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-cultural-integrity-and-identity-important-for-the-health-and-wellbeing-of-first-nations-communities
+    url: /learn/health-studies/questions/how-is-traditional-knowledge-transmitted-within-first-nations-communities-and-why-is-it-important
+related_article5:
+    id: 163378
+    title: >-
+        How have economic shifts contributed to socio-economic disadvantages for First Nations?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-have-economic-shifts-contributed-to-socioeconomic-disadvantages-for-first-nations
 ---
 
 &nbsp;

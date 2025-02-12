@@ -2,8 +2,10 @@
 _schema: default
 id: 162372
 date: 2025-01-25
-title: How do LAN and WAN differ in network architecture, and what are their typical components?
-article_title: How do LAN and WAN differ in network architecture, and what are their typical components?
+title: >-
+    How do LAN and WAN differ in network architecture, and what are their typical components?
+article_title: >-
+    How do LAN and WAN differ in network architecture, and what are their typical components?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-lan-and-wan-differ-in-network-architecture-and-what-are-their-
 url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture-and-what-are-their-typical-components
 score: -1.0
 related_article1:
-    id: 162380
-    title: What are the key technologies and applications of augmented reality?
+    id: 162378
+    title: >-
+        How do distributed ledger and smart contracts function in blockchain technology?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-technologies-and-applications-of-augmented-reality
+    url: /learn/others/questions/how-do-distributed-ledger-and-smart-contracts-function-in-blockchain-technology
 related_article2:
-    id: 162769
-    title: How can Excel, R, and Python be utilized in data analysis for business intelligence?
+    id: 162826
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/how-can-excel-r-and-python-be-utilized-in-data-analysis-for-business-intelligence
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 related_article3:
-    id: 162377
-    title: What are the main components and challenges of the Internet of Things (IoT)?
+    id: 162364
+    title: >-
+        How do clustering, association rule learning, and anomaly detection differ in data mining?
     subject: Others
-    url: /learn/others/questions/what-are-the-main-components-and-challenges-of-the-internet-of-things-iot
+    url: /learn/others/questions/how-do-clustering-association-rule-learning-and-anomaly-detection-differ-in-data-mining
 related_article4:
-    id: 162658
-    title: What are the challenges of overfitting and model validation in predictive modeling?
+    id: 162774
+    title: >-
+        What are the best practices for creating effective data visualizations using tools like Tableau and Power BI?
     subject: Others
-    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations-using-tools-like-tableau-and-power-bi
 related_article5:
-    id: 162832
-    title: What are the best practices for ensuring clarity and simplicity in data visualization?
+    id: 162723
+    title: >-
+        How do relational databases differ from NoSQL databases in terms of structure and use cases?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-ensuring-clarity-and-simplicity-in-data-visualization
+    url: /learn/others/questions/how-do-relational-databases-differ-from-nosql-databases-in-terms-of-structure-and-use-cases
 ---
 
 &nbsp;

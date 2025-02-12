@@ -2,8 +2,10 @@
 _schema: default
 id: 166636
 date: 2025-01-31
-title: What is the scope of mechanics and why is it important in engineering?
-article_title: What is the scope of mechanics and why is it important in engineering?
+title: >-
+    What is the scope of mechanics and why is it important in engineering?
+article_title: >-
+    What is the scope of mechanics and why is it important in engineering?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 url: /learn/engineering/questions/what-is-the-scope-of-mechanics-and-why-is-it-important-in-engineering
 score: -1.0
 related_article1:
-    id: 166643
-    title: What are the key differences between the International System of Units (SI) and the Imperial System?
+    id: 166638
+    title: >-
+        What are the main types of fluids and what forces act on them?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
 related_article2:
-    id: 166641
-    title: Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    id: 166638
+    title: >-
+        What are the main types of fluids and what forces act on them?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
+    url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
 related_article3:
-    id: 166649
-    title: Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
+    id: 166650
+    title: >-
+        What are derived units and why are they important in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+    url: /learn/engineering/questions/what-are-derived-units-and-why-are-they-important-in-engineering
 related_article4:
-    id: 166639
-    title: What is the principle of equilibrium in statics and how does it relate to constant velocity and acceleration?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-principle-of-equilibrium-in-statics-and-how-does-it-relate-to-constant-velocity-and-acceleration
-related_article5:
     id: 166648
-    title: What is a position vector and how is it used to determine force direction in mechanics?
+    title: >-
+        What is a position vector and how is it used to determine force direction in mechanics?
     subject: Engineering
     url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
+related_article5:
+    id: 166646
+    title: >-
+        Describe the parallelogram law of vector addition and its application in finding the resultant vector.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-parallelogram-law-of-vector-addition-and-its-application-in-finding-the-resultant-vector
 ---
 
 &nbsp;

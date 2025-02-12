@@ -2,8 +2,10 @@
 _schema: default
 id: 166631
 date: 2025-01-31
-title: How does unit conversion play a crucial role in engineering applications?
-article_title: How does unit conversion play a crucial role in engineering applications?
+title: >-
+    How does unit conversion play a crucial role in engineering applications?
+article_title: >-
+    How does unit conversion play a crucial role in engineering applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-unit-conversion-play-a-crucial-role-in-engineering-applicati
 url: /learn/education-studies/questions/how-does-unit-conversion-play-a-crucial-role-in-engineering-applications
 score: -1.0
 related_article1:
-    id: 166627
-    title: How can career services assist in improving your resume and cover letter?
+    id: 166632
+    title: >-
+        What are the algebraic methods used to solve systems of equations in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-career-services-assist-in-improving-your-resume-and-cover-letter
+    url: /learn/education-studies/questions/what-are-the-algebraic-methods-used-to-solve-systems-of-equations-in-engineering
 related_article2:
-    id: 166634
-    title: What is Jamatrix, and how is it applied in engineering problem-solving?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-jamatrix-and-how-is-it-applied-in-engineering-problemsolving
-related_article3:
     id: 166629
-    title: Why is static analysis important in engineering, and how is it applied in structures?
+    title: >-
+        Why is static analysis important in engineering, and how is it applied in structures?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-static-analysis-important-in-engineering-and-how-is-it-applied-in-structures
+related_article3:
+    id: 166635
+    title: >-
+        How do algebra and geometry combine to solve engineering problems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-algebra-and-geometry-combine-to-solve-engineering-problems
 related_article4:
-    id: 166626
-    title: What are the key benefits of using Discord for networking in an academic setting?
+    id: 166629
+    title: >-
+        Why is static analysis important in engineering, and how is it applied in structures?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-benefits-of-using-discord-for-networking-in-an-academic-setting
+    url: /learn/education-studies/questions/why-is-static-analysis-important-in-engineering-and-how-is-it-applied-in-structures
 related_article5:
-    id: 166634
-    title: What is Jamatrix, and how is it applied in engineering problem-solving?
+    id: 166633
+    title: >-
+        Describe the application of the law of cosines and sines in engineering statics.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-jamatrix-and-how-is-it-applied-in-engineering-problemsolving
+    url: /learn/education-studies/questions/describe-the-application-of-the-law-of-cosines-and-sines-in-engineering-statics
 ---
 
 &nbsp;

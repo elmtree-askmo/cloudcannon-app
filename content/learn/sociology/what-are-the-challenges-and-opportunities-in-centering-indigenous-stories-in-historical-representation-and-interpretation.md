@@ -2,8 +2,10 @@
 _schema: default
 id: 169169
 date: 2025-02-04
-title: What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
-article_title: What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+title: >-
+    What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
+article_title: >-
+    What are the challenges and opportunities in centering Indigenous stories in historical representation and interpretation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-challenges-and-opportunities-in-centering-indigenous-sto
 url: /learn/sociology/questions/what-are-the-challenges-and-opportunities-in-centering-indigenous-stories-in-historical-representation-and-interpretation
 score: -1.0
 related_article1:
-    id: 169161
-    title: What is the significance of addressing hard truths and moving toward reconciliation in museums?
+    id: 169157
+    title: >-
+        What are the main issues with stereotypical representations of Native Americans in museum exhibitions?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-addressing-hard-truths-and-moving-toward-reconciliation-in-museums
+    url: /learn/sociology/questions/what-are-the-main-issues-with-stereotypical-representations-of-native-americans-in-museum-exhibitions
 related_article2:
-    id: 169164
-    title: How does cultural reclamation empower Indigenous communities in reclaiming memorial spaces?
+    id: 169163
+    title: >-
+        What are the key elements of historical negotiations and collective memorialization in monuments and historic places?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-cultural-reclamation-empower-indigenous-communities-in-reclaiming-memorial-spaces
+    url: /learn/sociology/questions/what-are-the-key-elements-of-historical-negotiations-and-collective-memorialization-in-monuments-and-historic-places
 related_article3:
-    id: 169155
-    title: What role do national and tribal museums play in Indigenous public history?
+    id: 169153
+    title: >-
+        What are the key challenges and positive outcomes of inclusive and collaborative processes in the decolonization of museums?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-do-national-and-tribal-museums-play-in-indigenous-public-history
+    url: /learn/sociology/questions/what-are-the-key-challenges-and-positive-outcomes-of-inclusive-and-collaborative-processes-in-the-decolonization-of-museums
 related_article4:
-    id: 169159
-    title: In what ways do museums serve as sites of decolonization by honoring Indigenous worldviews?
+    id: 169168
+    title: >-
+        How does Indigenous activism contribute to the removal of colonial statues and the reclamation of spaces?
     subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-museums-serve-as-sites-of-decolonization-by-honoring-indigenous-worldviews
+    url: /learn/sociology/questions/how-does-indigenous-activism-contribute-to-the-removal-of-colonial-statues-and-the-reclamation-of-spaces
 related_article5:
-    id: 169166
-    title: How do acts of reclamation and resilience demonstrate the survivance of Indigenous peoples?
+    id: 169158
+    title: >-
+        How do collaborative processes in exhibition development involve Indigenous people and what are the challenges faced?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-acts-of-reclamation-and-resilience-demonstrate-the-survivance-of-indigenous-peoples
+    url: /learn/sociology/questions/how-do-collaborative-processes-in-exhibition-development-involve-indigenous-people-and-what-are-the-challenges-faced
 ---
 
 &nbsp;

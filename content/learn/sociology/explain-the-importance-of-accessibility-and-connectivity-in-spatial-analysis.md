@@ -2,8 +2,10 @@
 _schema: default
 id: 159827
 date: 2025-01-23
-title: Explain the importance of accessibility and connectivity in spatial analysis.
-article_title: Explain the importance of accessibility and connectivity in spatial analysis.
+title: >-
+    Explain the importance of accessibility and connectivity in spatial analysis.
+article_title: >-
+    Explain the importance of accessibility and connectivity in spatial analysis.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-importance-of-accessibility-and-connectivity-in-spatial-a
 url: /learn/sociology/questions/explain-the-importance-of-accessibility-and-connectivity-in-spatial-analysis
 score: -1.0
 related_article1:
-    id: 159821
-    title: Discuss the role of emotional attachment in identity formation related to place.
-    subject: Sociology
-    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
-related_article2:
-    id: 159831
-    title: How does geographical imagination help in understanding geographic change?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
-related_article3:
-    id: 159820
-    title: How do daily routines and social norms contribute to the social construction of place?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
-related_article4:
     id: 159825
-    title: What are the main types of map projections and their characteristics?
+    title: >-
+        What are the main types of map projections and their characteristics?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
-related_article5:
-    id: 159828
-    title: What is the significance of regionalization in regional analysis?
+related_article2:
+    id: 159819
+    title: >-
+        Explain the concept of social construction of place and its impact on collective memory.
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-significance-of-regionalization-in-regional-analysis
+    url: /learn/sociology/questions/explain-the-concept-of-social-construction-of-place-and-its-impact-on-collective-memory
+related_article3:
+    id: 159997
+    title: >-
+        How does geographical imagination help in understanding geographic change?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+related_article4:
+    id: 159820
+    title: >-
+        How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
+related_article5:
+    id: 159820
+    title: >-
+        How do daily routines and social norms contribute to the social construction of place?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
 ---
 
 &nbsp;

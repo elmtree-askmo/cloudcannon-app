@@ -2,8 +2,10 @@
 _schema: default
 id: 166129
 date: 2025-01-29
-title: What role does carrying capacity play in mathematical models of ecology?
-article_title: What role does carrying capacity play in mathematical models of ecology?
+title: >-
+    What role does carrying capacity play in mathematical models of ecology?
+article_title: >-
+    What role does carrying capacity play in mathematical models of ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-carrying-capacity-play-in-mathematical-models-of-ecolo
 url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
 score: -1.0
 related_article1:
-    id: 166126
-    title: What are some evolutionary adaptations hosts develop in response to parasitism?
+    id: 166124
+    title: >-
+        What conditions can lead to host extinction in population growth models?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
+    url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
 related_article2:
-    id: 166130
-    title: How does carrying capacity influence host and parasite populations in ecosystems?
+    id: 166118
+    title: >-
+        What are the key factors influencing host-parasite interactions?
     subject: Biology
-    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
+    url: /learn/biology/questions/what-are-the-key-factors-influencing-hostparasite-interactions
 related_article3:
+    id: 166123
+    title: >-
+        How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
+related_article4:
     id: 166131
-    title: What factors affect transmission rates in host-parasite relationships?
+    title: >-
+        What factors affect transmission rates in host-parasite relationships?
     subject: Biology
     url: /learn/biology/questions/what-factors-affect-transmission-rates-in-hostparasite-relationships
-related_article4:
-    id: 166122
-    title: What characterizes the regular cycling behavior in predator-prey dynamics?
-    subject: Biology
-    url: /learn/biology/questions/what-characterizes-the-regular-cycling-behavior-in-predatorprey-dynamics
 related_article5:
-    id: 166133
-    title: What is the role of habitat complexity in influencing host-parasite dynamics?
+    id: 166126
+    title: >-
+        What are some evolutionary adaptations hosts develop in response to parasitism?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-habitat-complexity-in-influencing-hostparasite-dynamics
+    url: /learn/biology/questions/what-are-some-evolutionary-adaptations-hosts-develop-in-response-to-parasitism
 ---
 
 &nbsp;

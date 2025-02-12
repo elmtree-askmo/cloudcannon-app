@@ -2,8 +2,10 @@
 _schema: default
 id: 170032
 date: 2025-02-05
-title: What is the role of the social environment in shaping behavior according to environmental influence theories?
-article_title: What is the role of the social environment in shaping behavior according to environmental influence theories?
+title: >-
+    What is the role of the social environment in shaping behavior according to environmental influence theories?
+article_title: >-
+    What is the role of the social environment in shaping behavior according to environmental influence theories?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-social-environment-in-shaping-behavior-accord
 url: /learn/psychology/questions/what-is-the-role-of-the-social-environment-in-shaping-behavior-according-to-environmental-influence-theories
 score: -1.0
 related_article1:
-    id: 170031
-    title: How do modern theories of personality differ from Freud's psychoanalytic theory?
+    id: 170026
+    title: >-
+        What role does the unconscious mind play in modern psychological theories?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-modern-theories-of-personality-differ-from-freuds-psychoanalytic-theory
+    url: /learn/psychology/questions/what-role-does-the-unconscious-mind-play-in-modern-psychological-theories
 related_article2:
-    id: 170012
-    title: What are the key contributions of Sigmund Freud to Psychoanalysis?
+    id: 170020
+    title: >-
+        What are the key techniques used in Interpersonal Therapy to address unconscious conflicts?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-contributions-of-sigmund-freud-to-psychoanalysis
+    url: /learn/psychology/questions/what-are-the-key-techniques-used-in-interpersonal-therapy-to-address-unconscious-conflicts
 related_article3:
-    id: 170013
-    title: How does the concept of the unconscious mind play a role in Psychoanalysis?
+    id: 170017
+    title: >-
+        What is the significance of adaptation and survival in Evolutionary Psychology?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-concept-of-the-unconscious-mind-play-a-role-in-psychoanalysis
+    url: /learn/psychology/questions/what-is-the-significance-of-adaptation-and-survival-in-evolutionary-psychology
 related_article4:
-    id: 170029
-    title: How is forensic psychology applied within the legal system, particularly in expert witness testimony?
+    id: 170021
+    title: >-
+        How does Interpersonal Therapy focus on improving relationships?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-forensic-psychology-applied-within-the-legal-system-particularly-in-expert-witness-testimony
+    url: /learn/psychology/questions/how-does-interpersonal-therapy-focus-on-improving-relationships
 related_article5:
-    id: 170024
-    title: What are the philosophical debates surrounding free will in the context of Behaviorism and Humanism?
+    id: 170019
+    title: >-
+        How have modern interpretations criticized Freud's developmental stages?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-philosophical-debates-surrounding-free-will-in-the-context-of-behaviorism-and-humanism
+    url: /learn/psychology/questions/how-have-modern-interpretations-criticized-freuds-developmental-stages
 ---
 
 &nbsp;

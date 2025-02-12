@@ -2,8 +2,10 @@
 _schema: default
 id: 166847
 date: 2025-01-31
-title: How does the active site of an enzyme facilitate substrate binding?
-article_title: How does the active site of an enzyme facilitate substrate binding?
+title: >-
+    How does the active site of an enzyme facilitate substrate binding?
+article_title: >-
+    How does the active site of an enzyme facilitate substrate binding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding.md
 url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
 score: -1.0
 related_article1:
-    id: 166849
-    title: How do protein-based hormones like insulin function through receptor binding?
+    id: 166840
+    title: >-
+        How do the properties of amino acids influence protein structure and function?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-proteinbased-hormones-like-insulin-function-through-receptor-binding
+    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
 related_article2:
-    id: 166849
-    title: How do protein-based hormones like insulin function through receptor binding?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-proteinbased-hormones-like-insulin-function-through-receptor-binding
-related_article3:
-    id: 166843
-    title: How do alpha helices and beta-pleated sheets contribute to a protein's secondary structure?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-alpha-helices-and-betapleated-sheets-contribute-to-a-proteins-secondary-structure
-related_article4:
-    id: 166838
-    title: What role do hormones play in the regulation of gene expression?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
-related_article5:
     id: 166836
-    title: What are the primary functions of proteins in providing structural support within cells?
+    title: >-
+        What are the primary functions of proteins in providing structural support within cells?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-primary-functions-of-proteins-in-providing-structural-support-within-cells
+related_article3:
+    id: 166848
+    title: >-
+        What factors can affect enzyme activity and how?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-factors-can-affect-enzyme-activity-and-how
+related_article4:
+    id: 166852
+    title: >-
+        What chemical properties of proteins affect their solubility and reactivity?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-chemical-properties-of-proteins-affect-their-solubility-and-reactivity
+related_article5:
+    id: 166842
+    title: >-
+        What is the importance of the primary structure in determining a protein's function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function
 ---
 
 &nbsp;

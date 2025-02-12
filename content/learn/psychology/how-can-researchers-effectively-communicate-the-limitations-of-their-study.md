@@ -2,8 +2,10 @@
 _schema: default
 id: 165094
 date: 2025-01-28
-title: How can researchers effectively communicate the limitations of their study?
-article_title: How can researchers effectively communicate the limitations of their study?
+title: >-
+    How can researchers effectively communicate the limitations of their study?
+article_title: >-
+    How can researchers effectively communicate the limitations of their study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-can-researchers-effectively-communicate-the-limitations-of-their-
 url: /learn/psychology/questions/how-can-researchers-effectively-communicate-the-limitations-of-their-study
 score: -1.0
 related_article1:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article2:
+    id: 165089
+    title: >-
+        How can data visualization enhance the presentation of research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-data-visualization-enhance-the-presentation-of-research-results
+related_article3:
     id: 165093
-    title: Why is replication important in research, and what challenges might arise?
+    title: >-
+        Why is replication important in research, and what challenges might arise?
     subject: Psychology
     url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
-related_article2:
-    id: 165091
-    title: What are the essential elements of academic writing standards in research papers?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
-related_article3:
-    id: 165085
-    title: How do you identify and analyze interaction effects in experimental data?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-you-identify-and-analyze-interaction-effects-in-experimental-data
 related_article4:
-    id: 165067
-    title: How does data cleaning contribute to data quality in statistical analysis?
+    id: 165079
+    title: >-
+        How do surveys and questionnaires differ from interviews and focus groups in data collection methods?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
+    url: /learn/psychology/questions/how-do-surveys-and-questionnaires-differ-from-interviews-and-focus-groups-in-data-collection-methods
 related_article5:
     id: 165070
-    title: What are the different measurement scales used for variables, and why is reliability and validity important?
+    title: >-
+        What are the different measurement scales used for variables, and why is reliability and validity important?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-different-measurement-scales-used-for-variables-and-why-is-reliability-and-validity-important
 ---

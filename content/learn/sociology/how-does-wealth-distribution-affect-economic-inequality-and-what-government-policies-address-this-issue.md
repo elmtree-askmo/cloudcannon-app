@@ -2,8 +2,10 @@
 _schema: default
 id: 168368
 date: 2025-02-03
-title: How does wealth distribution affect economic inequality and what government policies address this issue?
-article_title: How does wealth distribution affect economic inequality and what government policies address this issue?
+title: >-
+    How does wealth distribution affect economic inequality and what government policies address this issue?
+article_title: >-
+    How does wealth distribution affect economic inequality and what government policies address this issue?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-wealth-distribution-affect-economic-inequality-and-what-gove
 url: /learn/sociology/questions/how-does-wealth-distribution-affect-economic-inequality-and-what-government-policies-address-this-issue
 score: -1.0
 related_article1:
-    id: 168362
-    title: How does industrialization contribute to global warming, and what are the future predictions?
+    id: 168373
+    title: >-
+        How do global health concerns, such as pandemics, influence future preparedness strategies?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+    url: /learn/sociology/questions/how-do-global-health-concerns-such-as-pandemics-influence-future-preparedness-strategies
 related_article2:
+    id: 168363
+    title: >-
+        What role do renewable energy and environmental policies play in promoting sustainable practices?
+    subject: Sociology
+    url: /learn/sociology/questions/what-role-do-renewable-energy-and-environmental-policies-play-in-promoting-sustainable-practices
+related_article3:
+    id: 168359
+    title: >-
+        What are the cultural tensions that arise from immigration, and how do they affect local communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-cultural-tensions-that-arise-from-immigration-and-how-do-they-affect-local-communities
+related_article4:
+    id: 168361
+    title: >-
+        What are the ethical concerns associated with artificial intelligence and job displacement?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+related_article5:
     id: 168360
-    title: How do technological advancements change communication and lead to technological dependency?
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
     subject: Sociology
     url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
-related_article3:
-    id: 168356
-    title: In what ways do tariffs influence the cost of goods and consumer prices?
-    subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
-related_article4:
-    id: 168366
-    title: How does urban development influence infrastructure changes and livability in communities?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
-related_article5:
-    id: 168354
-    title: What impact did NAFTA have on the car industry and job security in North America?
-    subject: Sociology
-    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 ---
 
 &nbsp;

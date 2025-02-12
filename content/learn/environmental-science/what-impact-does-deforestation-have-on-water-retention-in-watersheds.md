@@ -2,8 +2,10 @@
 _schema: default
 id: 169979
 date: 2025-02-05
-title: What impact does deforestation have on water retention in watersheds?
-article_title: What impact does deforestation have on water retention in watersheds?
+title: >-
+    What impact does deforestation have on water retention in watersheds?
+article_title: >-
+    What impact does deforestation have on water retention in watersheds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-impact-does-deforestation-have-on-water-retention-in-watersheds.
 url: /learn/environmental-science/questions/what-impact-does-deforestation-have-on-water-retention-in-watersheds
 score: -1.0
 related_article1:
-    id: 169981
-    title: What is cultural eutrophication, and what are its primary causes?
+    id: 169976
+    title: >-
+        How do changes in water temperature influence aquatic ecosystem productivity?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
+    url: /learn/environmental-science/questions/how-do-changes-in-water-temperature-influence-aquatic-ecosystem-productivity
 related_article2:
     id: 169974
-    title: How does the Hubbard Brook Ecosystem contribute to long-term ecological research?
+    title: >-
+        How does the Hubbard Brook Ecosystem contribute to long-term ecological research?
     subject: Environmental Science
     url: /learn/environmental-science/questions/how-does-the-hubbard-brook-ecosystem-contribute-to-longterm-ecological-research
 related_article3:
     id: 169987
-    title: What factors influence aquatic ecosystem productivity?
+    title: >-
+        What factors influence aquatic ecosystem productivity?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-factors-influence-aquatic-ecosystem-productivity
 related_article4:
-    id: 169976
-    title: How do changes in water temperature influence aquatic ecosystem productivity?
+    id: 169988
+    title: >-
+        What is the historical significance of the Experimental Lakes Area in ecological research?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/how-do-changes-in-water-temperature-influence-aquatic-ecosystem-productivity
+    url: /learn/environmental-science/questions/what-is-the-historical-significance-of-the-experimental-lakes-area-in-ecological-research
 related_article5:
-    id: 169982
-    title: How do carbon and nitrogen cycles contribute to ecosystem productivity?
+    id: 169973
+    title: >-
+        What are the key roles of long-term ecological research areas in understanding global climate change?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/how-do-carbon-and-nitrogen-cycles-contribute-to-ecosystem-productivity
+    url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
 ---
 
 &nbsp;

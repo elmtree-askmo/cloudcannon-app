@@ -2,8 +2,10 @@
 _schema: default
 id: 170179
 date: 2025-02-06
-title: Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
-article_title: Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
+title: >-
+    Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
+article_title: >-
+    Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: discuss-the-defensive-strategies-and-garrison-life-associated-with-ha
 url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
 score: 9.0
 related_article1:
-    id: 170186
-    title: How did Roman-British relations evolve during the initial contact and conquest period?
+    id: 170177
+    title: >-
+        What is the significance of Pictish stones in understanding Pictish art and symbolism?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
 related_article2:
+    id: 170177
+    title: >-
+        What is the significance of Pictish stones in understanding Pictish art and symbolism?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
+related_article3:
+    id: 170182
+    title: >-
+        Describe the types and purposes of Roman inscriptions and the challenges in translating them.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
+related_article4:
+    id: 170175
+    title: >-
+        What are the historical theories regarding the origins and identity of the Pictish culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
+related_article5:
     id: 170172
-    title: How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
+    title: >-
+        How does Tacitus' 'Agricola' reflect his literary style and historical accuracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-does-tacitus-agricola-reflect-his-literary-style-and-historical-accuracy
-related_article3:
-    id: 170185
-    title: Analyze the structure and historical significance of Tacitus' 'Agricola'.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
-related_article4:
-    id: 170171
-    title: Explain the strategic importance of Roman marching camps and the archaeological discoveries associated with them.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-strategic-importance-of-roman-marching-camps-and-the-archaeological-discoveries-associated-with-them
-related_article5:
-    id: 170173
-    title: What are the main themes and historical context of Tacitus' 'Annals'?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
 ---
 
 &nbsp;

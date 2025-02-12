@@ -2,8 +2,10 @@
 _schema: default
 id: 162362
 date: 2025-01-25
-title: How is hypothesis testing used in inferential statistics, and what are its applications?
-article_title: How is hypothesis testing used in inferential statistics, and what are its applications?
+title: >-
+    How is hypothesis testing used in inferential statistics, and what are its applications?
+article_title: >-
+    How is hypothesis testing used in inferential statistics, and what are its applications?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are
 url: /learn/others/questions/how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are-its-applications
 score: -1.0
 related_article1:
-    id: 162774
-    title: What are the best practices for creating effective data visualizations using tools like Tableau and Power BI?
+    id: 162655
+    title: >-
+        How do Tableau, Power BI, and D3.js differ in their data visualization capabilities?
     subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations-using-tools-like-tableau-and-power-bi
+    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-data-visualization-capabilities
 related_article2:
-    id: 162725
-    title: How do Agile methodologies differ from the Waterfall model in software development?
+    id: 162717
+    title: >-
+        How is regression analysis used in inferential statistics, and what are its applications?
     subject: Others
-    url: /learn/others/questions/how-do-agile-methodologies-differ-from-the-waterfall-model-in-software-development
+    url: /learn/others/questions/how-is-regression-analysis-used-in-inferential-statistics-and-what-are-its-applications
 related_article3:
-    id: 162783
-    title: What are the advantages of using Agile methodologies over the Waterfall model in software development?
+    id: 162368
+    title: >-
+        What are the key features of Python, Java, and JavaScript that make them popular programming languages?
     subject: Others
-    url: /learn/others/questions/what-are-the-advantages-of-using-agile-methodologies-over-the-waterfall-model-in-software-development
+    url: /learn/others/questions/what-are-the-key-features-of-python-java-and-javascript-that-make-them-popular-programming-languages
 related_article4:
-    id: 162732
-    title: What are the benefits of continuous integration and continuous deployment in DevOps practices?
+    id: 162731
+    title: >-
+        How do Scrum and Kanban differ as Agile frameworks?
     subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-continuous-integration-and-continuous-deployment-in-devops-practices
+    url: /learn/others/questions/how-do-scrum-and-kanban-differ-as-agile-frameworks
 related_article5:
-    id: 162708
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+    id: 162361
+    title: >-
+        What are the differences between measures of central tendency and measures of variability in descriptive statistics?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
+    url: /learn/others/questions/what-are-the-differences-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
 ---
 
 &nbsp;

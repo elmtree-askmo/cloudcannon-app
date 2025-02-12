@@ -2,8 +2,10 @@
 _schema: default
 id: 168257
 date: 2025-02-03
-title: What are Don John's motivations and how do they impact other characters?
-article_title: What are Don John's motivations and how do they impact other characters?
+title: >-
+    What are Don John's motivations and how do they impact other characters?
+article_title: >-
+    What are Don John's motivations and how do they impact other characters?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-don-johns-motivations-and-how-do-they-impact-other-character
 url: /learn/art-history-and-literature/questions/what-are-don-johns-motivations-and-how-do-they-impact-other-characters
 score: 9.0
 related_article1:
-    id: 168258
-    title: How does Claudio's naivety affect his relationships and character growth?
+    id: 168252
+    title: >-
+        In what ways can language manipulation lead to misperception in relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-claudios-naivety-affect-his-relationships-and-character-growth
+    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
 related_article2:
-    id: 168261
-    title: What are the key elements that differentiate Shakespearean comedy from tragedy?
+    id: 168252
+    title: >-
+        In what ways can language manipulation lead to misperception in relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-that-differentiate-shakespearean-comedy-from-tragedy
+    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
 related_article3:
-    id: 168254
-    title: What role does Don John's deception play in creating conflict?
+    id: 168268
+    title: >-
+        What role do love and trust play in character motivations within relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-does-don-johns-deception-play-in-creating-conflict
+    url: /learn/art-history-and-literature/questions/what-role-do-love-and-trust-play-in-character-motivations-within-relationships
 related_article4:
-    id: 168251
-    title: How does language blur the line between reality and perception?
+    id: 168252
+    title: >-
+        In what ways can language manipulation lead to misperception in relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-blur-the-line-between-reality-and-perception
+    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
 related_article5:
-    id: 168256
-    title: What lessons about humanity can be learned from the theme of trust and betrayal in Shakespeare's works?
+    id: 168260
+    title: >-
+        In what ways is humor used as a defense mechanism in Shakespearean comedy?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-lessons-about-humanity-can-be-learned-from-the-theme-of-trust-and-betrayal-in-shakespeares-works
+    url: /learn/art-history-and-literature/questions/in-what-ways-is-humor-used-as-a-defense-mechanism-in-shakespearean-comedy
 ---
 
 &nbsp;

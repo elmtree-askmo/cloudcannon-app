@@ -2,8 +2,10 @@
 _schema: default
 id: 165736
 date: 2025-01-29
-title: What strategies can be used to minimize unused addresses in a subnet?
-article_title: What strategies can be used to minimize unused addresses in a subnet?
+title: >-
+    What strategies can be used to minimize unused addresses in a subnet?
+article_title: >-
+    What strategies can be used to minimize unused addresses in a subnet?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet.
 url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
 score: -1.0
 related_article1:
-    id: 165737
-    title: How does slash 16 subnetting differ from slash 8 subnetting in terms of subnet creation?
+    id: 165731
+    title: >-
+        What is the significance of using private IPv4 address space within intranets?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-slash-16-subnetting-differ-from-slash-8-subnetting-in-terms-of-subnet-creation
+    url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
 related_article2:
-    id: 165729
-    title: What are the differences between common subnet masks such as /8, /16, and /24?
+    id: 165726
+    title: >-
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article3:
-    id: 165734
-    title: What role do security policies play in managing network traffic between subnets?
+    id: 165723
+    title: >-
+        How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
+    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 related_article4:
-    id: 165733
-    title: How does subnetting contribute to reducing broadcast traffic and improving network performance?
+    id: 165726
+    title: >-
+        What is a broadcast domain and how do routers affect them?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article5:
-    id: 165724
-    title: What is the primary purpose of subnetting in a network?
+    id: 165735
+    title: >-
+        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
+    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
 ---
 
 &nbsp;

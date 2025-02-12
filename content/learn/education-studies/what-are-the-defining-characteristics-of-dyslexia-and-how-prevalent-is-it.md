@@ -2,8 +2,10 @@
 _schema: default
 id: 164518
 date: 2025-01-28
-title: What are the defining characteristics of dyslexia, and how prevalent is it?
-article_title: What are the defining characteristics of dyslexia, and how prevalent is it?
+title: >-
+    What are the defining characteristics of dyslexia, and how prevalent is it?
+article_title: >-
+    What are the defining characteristics of dyslexia, and how prevalent is it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-i
 url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 score: -1.0
 related_article1:
-    id: 164514
-    title: How does damage to anterior language regions impact syntax processing?
+    id: 164519
+    title: >-
+        How do visual and auditory processing issues relate to cognitive processing in dyslexia?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
+    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
 related_article2:
-    id: 164520
-    title: What tools and techniques are used in cognitive assessment, and why are they important in language studies?
+    id: 164519
+    title: >-
+        How do visual and auditory processing issues relate to cognitive processing in dyslexia?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
+    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
 related_article3:
-    id: 164513
-    title: What is the role of phonology in language processing, and how can phonemic errors manifest in aphasia?
+    id: 164519
+    title: >-
+        How do visual and auditory processing issues relate to cognitive processing in dyslexia?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-phonology-in-language-processing-and-how-can-phonemic-errors-manifest-in-aphasia
+    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
 related_article4:
-    id: 164509
-    title: What are the basic principles of EEG signal recording?
+    id: 164507
+    title: >-
+        What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-basic-principles-of-eeg-signal-recording
-related_article5:
-    id: 164514
-    title: How does damage to anterior language regions impact syntax processing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-damage-to-anterior-language-regions-impact-syntax-processing
+    url: /learn/education-studies/questions/what-are-the-advantages-of-using-transcranial-magnetic-stimulation-tms-in-cognitive-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166306
 date: 2025-01-30
-title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
-article_title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+title: >-
+    What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+article_title: >-
+    What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal
 score: -1.0
 related_article1:
     id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    title: >-
+        What are the symptoms of bone marrow overcrowding in leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
 related_article2:
-    id: 166298
-    title: What are the symptoms of bone marrow overcrowding in leukemia?
+    id: 166315
+    title: >-
+        What are the causes and symptoms of leukopenia and neutropenia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-symptoms-of-bone-marrow-overcrowding-in-leukemia
+    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
 related_article3:
-    id: 166316
-    title: How is thrombocytopenia diagnosed and treated?
+    id: 166294
+    title: >-
+        How do imaging studies contribute to the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
+    url: /learn/health-studies/questions/how-do-imaging-studies-contribute-to-the-diagnosis-of-leukemia
 related_article4:
-    id: 166317
-    title: What is the mechanism of action of chemotherapy in cancer treatment?
+    id: 166318
+    title: >-
+        What is the significance of the Philadelphia chromosome in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
 related_article5:
-    id: 166308
-    title: What are the clinical manifestations of lymph node enlargement in lymphoma?
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 ---
 
 &nbsp;

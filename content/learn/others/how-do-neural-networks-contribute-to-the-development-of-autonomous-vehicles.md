@@ -2,8 +2,10 @@
 _schema: default
 id: 162713
 date: 2025-01-25
-title: How do neural networks contribute to the development of autonomous vehicles?
-article_title: How do neural networks contribute to the development of autonomous vehicles?
+title: >-
+    How do neural networks contribute to the development of autonomous vehicles?
+article_title: >-
+    How do neural networks contribute to the development of autonomous vehicles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-neural-networks-contribute-to-the-development-of-autonomous-ve
 url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
 score: -1.0
 related_article1:
-    id: 162711
-    title: How do TensorFlow, Scikit-learn, and PyTorch differ in their use for machine learning?
+    id: 162836
+    title: >-
+        What are the challenges of overfitting and model validation in predictive modeling?
     subject: Others
-    url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-differ-in-their-use-for-machine-learning
+    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
 related_article2:
-    id: 162776
-    title: What is the role of hypothesis testing in inferential statistics?
+    id: 162652
+    title: >-
+        What are the ethical considerations and challenges associated with artificial intelligence?
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-hypothesis-testing-in-inferential-statistics
+    url: /learn/others/questions/what-are-the-ethical-considerations-and-challenges-associated-with-artificial-intelligence
 related_article3:
-    id: 162671
-    title: What are the principles of usability and accessibility in user experience design?
+    id: 162456
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
     subject: Others
-    url: /learn/others/questions/what-are-the-principles-of-usability-and-accessibility-in-user-experience-design
+    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
 related_article4:
-    id: 162726
-    title: What are the key components of an information system, and how do they interact?
+    id: 162826
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-components-of-an-information-system-and-how-do-they-interact
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 related_article5:
-    id: 162362
-    title: How is hypothesis testing used in inferential statistics, and what are its applications?
+    id: 162779
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
     subject: Others
-    url: /learn/others/questions/how-is-hypothesis-testing-used-in-inferential-statistics-and-what-are-its-applications
+    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
 ---
 
 &nbsp;

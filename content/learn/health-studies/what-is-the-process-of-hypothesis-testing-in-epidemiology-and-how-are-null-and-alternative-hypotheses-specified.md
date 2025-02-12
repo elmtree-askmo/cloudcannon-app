@@ -2,8 +2,10 @@
 _schema: default
 id: 163022
 date: 2025-01-26
-title: What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
-article_title: What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
+title: >-
+    What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
+article_title: >-
+    What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are
 url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
 score: -1.0
 related_article1:
-    id: 162971
-    title: How can the validity and causality of associations be evaluated in epidemiologic investigations?
+    id: 162972
+    title: >-
+        What are the main sources of epidemiologic data, and how do they contribute to public health research?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-main-sources-of-epidemiologic-data-and-how-do-they-contribute-to-public-health-research
+related_article2:
+    id: 163013
+    title: >-
+        How do genetic makeup and lifestyle behaviors influence individual determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
+related_article3:
+    id: 163015
+    title: >-
+        How do income and education function as social determinants of health?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-income-and-education-function-as-social-determinants-of-health
+related_article4:
+    id: 162960
+    title: >-
+        How can the validity and causality of associations be evaluated in epidemiologic investigations?
     subject: Health Studies
     url: /learn/health-studies/questions/how-can-the-validity-and-causality-of-associations-be-evaluated-in-epidemiologic-investigations
-related_article2:
-    id: 163019
-    title: What are the differences between primary and secondary data in epidemiologic research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-differences-between-primary-and-secondary-data-in-epidemiologic-research
-related_article3:
-    id: 162959
-    title: What are the main components of the PICO framework in clinical research?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-components-of-the-pico-framework-in-clinical-research
-related_article4:
-    id: 162958
-    title: How do political and economic factors serve as environmental and societal determinants of health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
 related_article5:
     id: 163016
-    title: What are the steps involved in forming a hypothesis for an epidemiologic investigation?
+    title: >-
+        What are the steps involved in forming a hypothesis for an epidemiologic investigation?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-steps-involved-in-forming-a-hypothesis-for-an-epidemiologic-investigation
 ---

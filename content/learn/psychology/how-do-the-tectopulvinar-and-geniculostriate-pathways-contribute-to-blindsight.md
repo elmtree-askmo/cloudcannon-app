@@ -2,8 +2,10 @@
 _schema: default
 id: 164653
 date: 2025-01-28
-title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
-article_title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+title: >-
+    How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+article_title: >-
+    How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-b
 url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
 score: -1.0
 related_article1:
-    id: 164654
-    title: What is the portable magnification factor and why is it important in visual perception?
+    id: 164656
+    title: >-
+        What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
+    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
 related_article2:
-    id: 164649
-    title: How is hemianopia related to occipital lobe disorders?
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 related_article3:
     id: 164656
-    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    title: >-
+        What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
 related_article4:
-    id: 164656
-    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    id: 164649
+    title: >-
+        How is hemianopia related to occipital lobe disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
-related_article5:
-    id: 164658
-    title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
+    url: /learn/psychology/questions/how-is-hemianopia-related-to-occipital-lobe-disorders
 ---
 
 &nbsp;

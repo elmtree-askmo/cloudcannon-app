@@ -2,8 +2,10 @@
 _schema: default
 id: 165228
 date: 2025-01-28
-title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
-article_title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+title: >-
+    What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+article_title: >-
+    What challenges do individuals with aphantasia face in tasks requiring mental imagery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-challenges-do-individuals-with-aphantasia-face-in-tasks-requirin
 url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
 score: -1.0
 related_article1:
-    id: 165236
-    title: What is the survival processing effect in depth processing experiments?
+    id: 165233
+    title: >-
+        Why are STEM skills important for students studying organic chemistry?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-survival-processing-effect-in-depth-processing-experiments
+    url: /learn/psychology/questions/why-are-stem-skills-important-for-students-studying-organic-chemistry
 related_article2:
-    id: 165243
-    title: Why is the integration of STEM skills important in educational curricula?
+    id: 165239
+    title: >-
+        What are the challenges in selecting appropriate visual stimuli for experiments?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
+    url: /learn/psychology/questions/what-are-the-challenges-in-selecting-appropriate-visual-stimuli-for-experiments
 related_article3:
+    id: 165231
+    title: >-
+        How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
+related_article4:
     id: 165235
-    title: How is SciToolkit used in data analysis for psychological research?
+    title: >-
+        How is SciToolkit used in data analysis for psychological research?
     subject: Psychology
     url: /learn/psychology/questions/how-is-scitoolkit-used-in-data-analysis-for-psychological-research
-related_article4:
-    id: 165243
-    title: Why is the integration of STEM skills important in educational curricula?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-the-integration-of-stem-skills-important-in-educational-curricula
-related_article5:
-    id: 165240
-    title: How do perceptual afterimages affect visual perception and cognitive processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
 ---
 
 &nbsp;

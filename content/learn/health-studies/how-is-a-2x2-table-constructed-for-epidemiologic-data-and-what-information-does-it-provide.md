@@ -2,8 +2,10 @@
 _schema: default
 id: 163341
 date: 2025-01-26
-title: How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
-article_title: How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+title: >-
+    How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
+article_title: >-
+    How is a 2x2 table constructed for epidemiologic data, and what information does it provide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-inform
 url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-information-does-it-provide
 score: -1.0
 related_article1:
-    id: 163228
-    title: How is a ratio different from a proportion in epidemiological studies?
+    id: 163227
+    title: >-
+        What is the significance of measuring disease frequency over a consistent time interval?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
 related_article2:
-    id: 163077
-    title: How is the population attributable proportion (PAR%) calculated, and why is it important in public health?
+    id: 163325
+    title: >-
+        What is the difference between fixed and dynamic populations in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-why-is-it-important-in-public-health
+    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
 related_article3:
-    id: 163235
-    title: What is the relationship between prevalence, incidence rate, and disease duration?
+    id: 163346
+    title: >-
+        How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-relationship-between-prevalence-incidence-rate-and-disease-duration
+    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
 related_article4:
-    id: 163330
-    title: Why is it crucial to use the correct denominator when calculating a proportion?
+    id: 163335
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 related_article5:
-    id: 163337
-    title: How is person-years of observation calculated, and why is it important in dynamic populations?
+    id: 163234
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
+    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 ---
 
 &nbsp;

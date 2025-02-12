@@ -2,8 +2,10 @@
 _schema: default
 id: 168130
 date: 2025-02-02
-title: How do parental expectations contribute to gender role stereotypes?
-article_title: How do parental expectations contribute to gender role stereotypes?
+title: >-
+    How do parental expectations contribute to gender role stereotypes?
+article_title: >-
+    How do parental expectations contribute to gender role stereotypes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-parental-expectations-contribute-to-gender-role-stereotypes.md
 url: /learn/psychology/questions/how-do-parental-expectations-contribute-to-gender-role-stereotypes
 score: -1.0
 related_article1:
-    id: 168131
-    title: What role do self-fulfilling prophecies play in reinforcing gender role stereotypes?
+    id: 168109
+    title: >-
+        What are the key differences in computational skills between genders?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-selffulfilling-prophecies-play-in-reinforcing-gender-role-stereotypes
+    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
 related_article2:
-    id: 168137
-    title: How do gender-based interests influence career choices?
+    id: 168132
+    title: >-
+        How do prenatal influences affect gender typing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-genderbased-interests-influence-career-choices
+    url: /learn/psychology/questions/how-do-prenatal-influences-affect-gender-typing
 related_article3:
-    id: 168136
-    title: What impact do gender stereotypes have on career choices, particularly in math-related fields?
+    id: 168115
+    title: >-
+        What are the gender differences observed in mental rotation tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-do-gender-stereotypes-have-on-career-choices-particularly-in-mathrelated-fields
+    url: /learn/psychology/questions/what-are-the-gender-differences-observed-in-mental-rotation-tasks
 related_article4:
-    id: 168109
-    title: What are the key differences in computational skills between genders?
+    id: 168116
+    title: >-
+        How do spatial visualization abilities differ between males and females?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
+    url: /learn/psychology/questions/how-do-spatial-visualization-abilities-differ-between-males-and-females
 related_article5:
-    id: 168109
-    title: What are the key differences in computational skills between genders?
+    id: 168123
+    title: >-
+        How do cultural variations impact the gender gap in self-esteem?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-in-computational-skills-between-genders
+    url: /learn/psychology/questions/how-do-cultural-variations-impact-the-gender-gap-in-selfesteem
 ---
 
 &nbsp;

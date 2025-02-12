@@ -2,8 +2,10 @@
 _schema: default
 id: 165297
 date: 2025-01-28
-title: Define fitness in the context of natural selection and explain its importance.
-article_title: Define fitness in the context of natural selection and explain its importance.
+title: >-
+    Define fitness in the context of natural selection and explain its importance.
+article_title: >-
+    Define fitness in the context of natural selection and explain its importance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-fitness-in-the-context-of-natural-selection-and-explain-its-im
 url: /learn/psychology/questions/define-fitness-in-the-context-of-natural-selection-and-explain-its-importance
 score: -1.0
 related_article1:
-    id: 165306
-    title: Explain disruptive selection and its potential impact on a species.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-disruptive-selection-and-its-potential-impact-on-a-species
-related_article2:
     id: 165290
-    title: Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
+    title: >-
+        Explain the difference between ultimate and proximate questions in the context of Tinbergen's framework.
     subject: Psychology
     url: /learn/psychology/questions/explain-the-difference-between-ultimate-and-proximate-questions-in-the-context-of-tinbergens-framework
-related_article3:
-    id: 165293
-    title: What role does individual learning play in the development of animal behavior?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-individual-learning-play-in-the-development-of-animal-behavior
-related_article4:
+related_article2:
     id: 165287
-    title: What is the definition of animal behavior and why is it important to study?
+    title: >-
+        What is the definition of animal behavior and why is it important to study?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-definition-of-animal-behavior-and-why-is-it-important-to-study
-related_article5:
-    id: 165308
-    title: Provide an example of a case study that illustrates behavioral selection.
+related_article3:
+    id: 165314
+    title: >-
+        What are the genetic bases and advantages of pack hunting behavior?
     subject: Psychology
-    url: /learn/psychology/questions/provide-an-example-of-a-case-study-that-illustrates-behavioral-selection
+    url: /learn/psychology/questions/what-are-the-genetic-bases-and-advantages-of-pack-hunting-behavior
+related_article4:
+    id: 165305
+    title: >-
+        What is stabilizing selection and how does it affect a population?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-stabilizing-selection-and-how-does-it-affect-a-population
+related_article5:
+    id: 165292
+    title: >-
+        How does natural selection contribute to the foundation of animal behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-natural-selection-contribute-to-the-foundation-of-animal-behavior
 ---
 
 &nbsp;

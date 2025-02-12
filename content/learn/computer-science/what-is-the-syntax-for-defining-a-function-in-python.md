@@ -2,8 +2,10 @@
 _schema: default
 id: 168589
 date: 2025-02-03
-title: What is the syntax for defining a function in Python?
-article_title: What is the syntax for defining a function in Python?
+title: >-
+    What is the syntax for defining a function in Python?
+article_title: >-
+    What is the syntax for defining a function in Python?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-syntax-for-defining-a-function-in-python.md
 url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
 score: -1.0
 related_article1:
-    id: 168595
-    title: How do local variables differ from global variables in terms of accessibility?
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-local-variables-differ-from-global-variables-in-terms-of-accessibility
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 related_article2:
-    id: 168606
-    title: Why is software reusability important in programming?
+    id: 168607
+    title: >-
+        What is modular programming and how does it enhance reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
+    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
 related_article3:
-    id: 168603
-    title: How can custom exceptions be created in Python?
+    id: 168592
+    title: >-
+        How can you use the math module to calculate the square root of a number?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
 related_article4:
-    id: 168602
-    title: What is the purpose of raising exceptions in Python?
+    id: 168609
+    title: >-
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 related_article5:
-    id: 168602
-    title: What is the purpose of raising exceptions in Python?
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 ---
 
 &nbsp;

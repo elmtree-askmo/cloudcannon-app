@@ -2,8 +2,10 @@
 _schema: default
 id: 163986
 date: 2025-01-28
-title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
-article_title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
+title: >-
+    What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
+article_title: >-
+    What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-some-of-the-key-inventions-displayed-at-the-great-exhibitio
 url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
 score: 9.5
 related_article1:
-    id: 163989
-    title: In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
+    id: 163978
+    title: >-
+        What were the origins of World Expos, and how did they evolve over time?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
+    url: /learn/history-of-the-world/questions/what-were-the-origins-of-world-expos-and-how-did-they-evolve-over-time
 related_article2:
     id: 163983
-    title: What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
+    title: >-
+        What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-some-criticisms-and-controversies-surrounding-the-great-exhibition-particularly-regarding-public-perception-and-abolitionist-demonstrations
 related_article3:
-    id: 163980
-    title: What were the key technological advancements during the Industrial Revolution, and how did they impact factory processes?
+    id: 163983
+    title: >-
+        What were some criticisms and controversies surrounding the Great Exhibition, particularly regarding public perception and abolitionist demonstrations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-technological-advancements-during-the-industrial-revolution-and-how-did-they-impact-factory-processes
+    url: /learn/history-of-the-world/questions/what-were-some-criticisms-and-controversies-surrounding-the-great-exhibition-particularly-regarding-public-perception-and-abolitionist-demonstrations
 related_article4:
-    id: 163984
-    title: How did the development of public museums transition from private collections, and what was their educational purpose?
+    id: 163987
+    title: >-
+        How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-development-of-public-museums-transition-from-private-collections-and-what-was-their-educational-purpose
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
 related_article5:
-    id: 163992
-    title: How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
+    id: 163994
+    title: >-
+        What lasting impact did the Great Exhibition have on modern museums and cultural education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherness-and-create-an-ideological-space
+    url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
 ---
 
 &nbsp;

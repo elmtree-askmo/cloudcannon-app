@@ -2,8 +2,10 @@
 _schema: default
 id: 163316
 date: 2025-01-26
-title: What are the key differences between descriptive and analytic epidemiologic questions?
-article_title: What are the key differences between descriptive and analytic epidemiologic questions?
+title: >-
+    What are the key differences between descriptive and analytic epidemiologic questions?
+article_title: >-
+    What are the key differences between descriptive and analytic epidemiologic questions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/health-studies/questions/what-are-the-key-differences-between-descri
 score: -1.0
 related_article1:
     id: 162978
-    title: What are the primary purposes of descriptive epidemiology?
+    title: >-
+        What are the primary purposes of descriptive epidemiology?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
 related_article2:
-    id: 162992
-    title: How do positive and negative associations differ in epidemiology?
+    id: 162989
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-positive-and-negative-associations-differ-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
 related_article3:
-    id: 162978
-    title: What are the primary purposes of descriptive epidemiology?
+    id: 163312
+    title: >-
+        What distinguishes a crude mortality rate from a specific mortality rate?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
+    url: /learn/health-studies/questions/what-distinguishes-a-crude-mortality-rate-from-a-specific-mortality-rate
 related_article4:
-    id: 162984
-    title: What is the purpose of direct standardization in calculating age-adjusted rates?
+    id: 163309
+    title: >-
+        How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-purpose-of-direct-standardization-in-calculating-ageadjusted-rates
+    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
 related_article5:
-    id: 162982
-    title: What is the difference between a case fatality rate and a mortality rate?
+    id: 162988
+    title: >-
+        What is the role of public health surveillance in responding to outbreaks?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-rate
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
 ---
 
 &nbsp;

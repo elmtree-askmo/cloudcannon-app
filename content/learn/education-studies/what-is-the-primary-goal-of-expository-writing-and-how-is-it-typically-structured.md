@@ -2,8 +2,10 @@
 _schema: default
 id: 168633
 date: 2025-02-03
-title: What is the primary goal of expository writing, and how is it typically structured?
-article_title: What is the primary goal of expository writing, and how is it typically structured?
+title: >-
+    What is the primary goal of expository writing, and how is it typically structured?
+article_title: >-
+    What is the primary goal of expository writing, and how is it typically structured?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-goal-of-expository-writing-and-how-is-it-typicall
 url: /learn/education-studies/questions/what-is-the-primary-goal-of-expository-writing-and-how-is-it-typically-structured
 score: -1.0
 related_article1:
-    id: 168641
-    title: What techniques can be used to maintain audience engagement in writing?
+    id: 168643
+    title: >-
+        What types of evidence are commonly used in writing to support arguments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-maintain-audience-engagement-in-writing
+    url: /learn/education-studies/questions/what-types-of-evidence-are-commonly-used-in-writing-to-support-arguments
 related_article2:
-    id: 168636
-    title: How do anecdotes and personal experiences enhance a personal narrative?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-anecdotes-and-personal-experiences-enhance-a-personal-narrative
-related_article3:
-    id: 168629
-    title: What are the key characteristics and purposes of narrative writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-and-purposes-of-narrative-writing
-related_article4:
     id: 168640
-    title: What are some ways storytelling is used across different media platforms?
+    title: >-
+        What are some ways storytelling is used across different media platforms?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-ways-storytelling-is-used-across-different-media-platforms
-related_article5:
-    id: 168649
-    title: What are the key guidelines of APA formatting, and why are they important in academic writing?
+related_article3:
+    id: 168648
+    title: >-
+        How does grammar impact the clarity and professionalism of writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-guidelines-of-apa-formatting-and-why-are-they-important-in-academic-writing
+    url: /learn/education-studies/questions/how-does-grammar-impact-the-clarity-and-professionalism-of-writing
+related_article4:
+    id: 168631
+    title: >-
+        What are some common techniques used in persuasive writing to engage the audience?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-common-techniques-used-in-persuasive-writing-to-engage-the-audience
+related_article5:
+    id: 168642
+    title: >-
+        How do supporting styles contribute to the main objective of a piece of writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-supporting-styles-contribute-to-the-main-objective-of-a-piece-of-writing
 ---
 
 &nbsp;

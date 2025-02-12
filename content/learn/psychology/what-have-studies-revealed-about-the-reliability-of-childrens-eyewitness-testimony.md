@@ -2,8 +2,10 @@
 _schema: default
 id: 168031
 date: 2025-02-02
-title: What have studies revealed about the reliability of children's eyewitness testimony?
-article_title: What have studies revealed about the reliability of children's eyewitness testimony?
+title: >-
+    What have studies revealed about the reliability of children's eyewitness testimony?
+article_title: >-
+    What have studies revealed about the reliability of children's eyewitness testimony?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-have-studies-revealed-about-the-reliability-of-childrens-eyewitn
 url: /learn/psychology/questions/what-have-studies-revealed-about-the-reliability-of-childrens-eyewitness-testimony
 score: -1.0
 related_article1:
-    id: 168027
-    title: How can misinformation be avoided during interviews with children?
+    id: 168028
+    title: >-
+        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-misinformation-be-avoided-during-interviews-with-children
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
 related_article2:
-    id: 168030
-    title: What are the developmental differences that affect memory recall?
+    id: 168011
+    title: >-
+        How does age affect the accuracy of eyewitness testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-developmental-differences-that-affect-memory-recall
+    url: /learn/psychology/questions/how-does-age-affect-the-accuracy-of-eyewitness-testimony
 related_article3:
-    id: 168017
-    title: What factors influence memory accuracy in eyewitness testimony?
+    id: 168026
+    title: >-
+        What strategies can be used to conduct non-suggestive interviews with children?
     subject: Psychology
-    url: /learn/psychology/questions/what-factors-influence-memory-accuracy-in-eyewitness-testimony
+    url: /learn/psychology/questions/what-strategies-can-be-used-to-conduct-nonsuggestive-interviews-with-children
 related_article4:
-    id: 168023
-    title: What role do age and knowledge play in the formation of false memories?
+    id: 168028
+    title: >-
+        What are age-appropriate strategies for interviewing children to ensure accurate testimony?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-age-and-knowledge-play-in-the-formation-of-false-memories
+    url: /learn/psychology/questions/what-are-ageappropriate-strategies-for-interviewing-children-to-ensure-accurate-testimony
 related_article5:
-    id: 168019
-    title: How does suggestibility in children change with age?
+    id: 168013
+    title: >-
+        How do knowledge and false memories interact in different age groups?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-suggestibility-in-children-change-with-age
+    url: /learn/psychology/questions/how-do-knowledge-and-false-memories-interact-in-different-age-groups
 ---
 
 &nbsp;

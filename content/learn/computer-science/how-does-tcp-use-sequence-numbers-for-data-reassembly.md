@@ -2,8 +2,10 @@
 _schema: default
 id: 165783
 date: 2025-01-29
-title: How does TCP use sequence numbers for data reassembly?
-article_title: How does TCP use sequence numbers for data reassembly?
+title: >-
+    How does TCP use sequence numbers for data reassembly?
+article_title: >-
+    How does TCP use sequence numbers for data reassembly?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/how-does-tcp-use-sequence-numbers-for-dat
 score: -1.0
 related_article1:
     id: 165775
-    title: What mechanisms does TCP use for flow control and congestion avoidance?
+    title: >-
+        What mechanisms does TCP use for flow control and congestion avoidance?
     subject: Computer Science
     url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
 related_article2:
     id: 165771
-    title: How does TCP ensure reliable and same-order delivery of data?
+    title: >-
+        How does TCP ensure reliable and same-order delivery of data?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-tcp-ensure-reliable-and-sameorder-delivery-of-data
 related_article3:
-    id: 165785
-    title: How does UDP handle port number assignment and datagram forwarding?
+    id: 165768
+    title: >-
+        What is the difference between TCP and UDP in terms of reliability?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
+    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
 related_article4:
-    id: 165767
-    title: How does the transport layer handle segmenting and reassembling data?
+    id: 165774
+    title: >-
+        How does TCP guarantee ordered delivery and handle data loss?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-transport-layer-handle-segmenting-and-reassembling-data
+    url: /learn/computer-science/questions/how-does-tcp-guarantee-ordered-delivery-and-handle-data-loss
 related_article5:
-    id: 165780
-    title: What is the role of the length and checksum fields in the UDP header?
+    id: 165787
+    title: >-
+        How does TCP handle congestion control using timers and algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
+    url: /learn/computer-science/questions/how-does-tcp-handle-congestion-control-using-timers-and-algorithms
 ---
 
 &nbsp;

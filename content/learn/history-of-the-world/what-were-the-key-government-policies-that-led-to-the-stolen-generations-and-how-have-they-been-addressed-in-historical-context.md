@@ -2,8 +2,10 @@
 _schema: default
 id: 169030
 date: 2025-02-04
-title: What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
-article_title: What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+title: >-
+    What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
+article_title: >-
+    What were the key government policies that led to the Stolen Generations, and how have they been addressed in historical context?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-government-policies-that-led-to-the-stolen-generati
 url: /learn/history-of-the-world/questions/what-were-the-key-government-policies-that-led-to-the-stolen-generations-and-how-have-they-been-addressed-in-historical-context
 score: 9.0
 related_article1:
-    id: 169035
-    title: Explain the role of the Native Title Act in the legal framework for Aboriginal land rights.
+    id: 169032
+    title: >-
+        What are the main contemporary challenges faced by Aboriginal communities in preserving their cultural identity?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-role-of-the-native-title-act-in-the-legal-framework-for-aboriginal-land-rights
+    url: /learn/history-of-the-world/questions/what-are-the-main-contemporary-challenges-faced-by-aboriginal-communities-in-preserving-their-cultural-identity
 related_article2:
-    id: 169034
-    title: What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
+    id: 169033
+    title: >-
+        How do oral histories contribute to the understanding of Aboriginal perspectives on historical narratives?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
+    url: /learn/history-of-the-world/questions/how-do-oral-histories-contribute-to-the-understanding-of-aboriginal-perspectives-on-historical-narratives
 related_article3:
     id: 169036
-    title: What are the main challenges faced in the preservation of Aboriginal heritage sites?
+    title: >-
+        What are the main challenges faced in the preservation of Aboriginal heritage sites?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-main-challenges-faced-in-the-preservation-of-aboriginal-heritage-sites
 related_article4:
-    id: 169037
-    title: How do museums and exhibitions contribute to the historical interpretation of Aboriginal history?
+    id: 169026
+    title: >-
+        How did punitive expeditions contribute to the conflict between settlers and Aboriginal people during colonial history?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-museums-and-exhibitions-contribute-to-the-historical-interpretation-of-aboriginal-history
+    url: /learn/history-of-the-world/questions/how-did-punitive-expeditions-contribute-to-the-conflict-between-settlers-and-aboriginal-people-during-colonial-history
 related_article5:
-    id: 169031
-    title: Describe the significance of community-led projects in the reconciliation efforts for the Stolen Generations.
+    id: 169034
+    title: >-
+        What is the educational value of commemorating massacre sites in the context of violence against Aboriginal people?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-communityled-projects-in-the-reconciliation-efforts-for-the-stolen-generations
+    url: /learn/history-of-the-world/questions/what-is-the-educational-value-of-commemorating-massacre-sites-in-the-context-of-violence-against-aboriginal-people
 ---
 
 &nbsp;

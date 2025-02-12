@@ -2,8 +2,10 @@
 _schema: default
 id: 169478
 date: 2025-02-05
-title: How does respecting patient autonomy contribute to patient-centered care?
-article_title: How does respecting patient autonomy contribute to patient-centered care?
+title: >-
+    How does respecting patient autonomy contribute to patient-centered care?
+article_title: >-
+    How does respecting patient autonomy contribute to patient-centered care?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-respecting-patient-autonomy-contribute-to-patientcentered-ca
 url: /learn/nursing/questions/how-does-respecting-patient-autonomy-contribute-to-patientcentered-care
 score: -1.0
 related_article1:
-    id: 169475
-    title: What is the definition of patient dignity and why is it important in healthcare?
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
 related_article2:
-    id: 169477
-    title: Why is effective communication crucial in addressing patient needs?
+    id: 169494
+    title: >-
+        What techniques can be implemented to reduce the spread of infection in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+    url: /learn/nursing/questions/what-techniques-can-be-implemented-to-reduce-the-spread-of-infection-in-healthcare-settings
 related_article3:
-    id: 169475
-    title: What is the definition of patient dignity and why is it important in healthcare?
+    id: 169487
+    title: >-
+        What are the benefits of encouraging patient independence during recovery?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-definition-of-patient-dignity-and-why-is-it-important-in-healthcare
+    url: /learn/nursing/questions/what-are-the-benefits-of-encouraging-patient-independence-during-recovery
 related_article4:
-    id: 169492
-    title: What types of assistive devices are used in patient care, and how should they be used safely?
+    id: 169493
+    title: >-
+        What are common sources of infection in healthcare, and why is hygiene important in prevention?
     subject: Nursing
-    url: /learn/nursing/questions/what-types-of-assistive-devices-are-used-in-patient-care-and-how-should-they-be-used-safely
+    url: /learn/nursing/questions/what-are-common-sources-of-infection-in-healthcare-and-why-is-hygiene-important-in-prevention
 related_article5:
-    id: 169477
-    title: Why is effective communication crucial in addressing patient needs?
+    id: 169491
+    title: >-
+        Why is it important to use proper manual handling techniques in patient care?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-effective-communication-crucial-in-addressing-patient-needs
+    url: /learn/nursing/questions/why-is-it-important-to-use-proper-manual-handling-techniques-in-patient-care
 ---
 
 &nbsp;

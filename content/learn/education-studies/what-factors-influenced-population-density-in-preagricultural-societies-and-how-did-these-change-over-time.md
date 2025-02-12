@@ -2,8 +2,10 @@
 _schema: default
 id: 170048
 date: 2025-02-05
-title: What factors influenced population density in pre-agricultural societies, and how did these change over time?
-article_title: What factors influenced population density in pre-agricultural societies, and how did these change over time?
+title: >-
+    What factors influenced population density in pre-agricultural societies, and how did these change over time?
+article_title: >-
+    What factors influenced population density in pre-agricultural societies, and how did these change over time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influenced-population-density-in-preagricultural-societi
 url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
 score: -1.0
 related_article1:
-    id: 170036
-    title: What is the importance of footnotes and references in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
-related_article2:
-    id: 170040
-    title: What is the difference between quoting and paraphrasing when engaging with primary source documents?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
-related_article3:
     id: 170033
-    title: What are the key components to consider when commenting on primary source documents in writing assignments?
+    title: >-
+        What are the key components to consider when commenting on primary source documents in writing assignments?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-commenting-on-primary-source-documents-in-writing-assignments
+related_article2:
+    id: 170034
+    title: >-
+        How should quotations be incorporated into writing assignments to support arguments effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
+related_article3:
+    id: 170036
+    title: >-
+        What is the importance of footnotes and references in academic writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-importance-of-footnotes-and-references-in-academic-writing
 related_article4:
-    id: 170050
-    title: How did ancient societies manage resources to ensure sustainability and environmental balance?
+    id: 170042
+    title: >-
+        What are the characteristics of hunting and gathering societies in terms of population density and food resources?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-ancient-societies-manage-resources-to-ensure-sustainability-and-environmental-balance
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
 related_article5:
-    id: 170044
-    title: What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
+    id: 170049
+    title: >-
+        What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-defines-the-paleolithic-era-and-what-were-the-key-characteristics-of-tool-technology-during-this-time
+    url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
 ---
 
 &nbsp;

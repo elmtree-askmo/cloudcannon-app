@@ -2,8 +2,10 @@
 _schema: default
 id: 160701
 date: 2025-01-24
-title: How do associative arrays utilize non-numeric indices?
-article_title: How do associative arrays utilize non-numeric indices?
+title: >-
+    How do associative arrays utilize non-numeric indices?
+article_title: >-
+    How do associative arrays utilize non-numeric indices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-associative-arrays-utilize-nonnumeric-indices.md
 url: /learn/computer-science/questions/how-do-associative-arrays-utilize-nonnumeric-indices
 score: -1.0
 related_article1:
-    id: 160713
-    title: Compare linear search with depth-first search in terms of their application.
+    id: 161031
+    title: >-
+        What data is required for generating circular calendars?
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-application
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
 related_article2:
-    id: 160693
-    title: What is the difference between testing and proving solutions in computing?
+    id: 161031
+    title: >-
+        What data is required for generating circular calendars?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-testing-and-proving-solutions-in-computing
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-circular-calendars
 related_article3:
-    id: 160705
-    title: Explain the concept of solvable vs. unsolvable problems in computability theory.
+    id: 161022
+    title: >-
+        What is the difference between solvable and unsolvable problems in computability theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-solvable-vs-unsolvable-problems-in-computability-theory
+    url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
 related_article4:
-    id: 160863
-    title: How does representation influence algorithm complexity?
+    id: 160875
+    title: >-
+        What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar-and-how-is-abstraction-used-in-calendar-algorithms
 related_article5:
-    id: 161032
-    title: How do day of the week calculation algorithms utilize reference dates?
+    id: 160699
+    title: >-
+        What are the key differences between lists and arrays in data structures?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
+    url: /learn/computer-science/questions/what-are-the-key-differences-between-lists-and-arrays-in-data-structures
 ---
 
 &nbsp;

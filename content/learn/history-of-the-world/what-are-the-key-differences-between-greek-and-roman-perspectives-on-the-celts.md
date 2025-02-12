@@ -2,8 +2,10 @@
 _schema: default
 id: 163643
 date: 2025-01-27
-title: What are the key differences between Greek and Roman perspectives on the Celts?
-article_title: What are the key differences between Greek and Roman perspectives on the Celts?
+title: >-
+    What are the key differences between Greek and Roman perspectives on the Celts?
+article_title: >-
+    What are the key differences between Greek and Roman perspectives on the Celts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-greek-and-roman-perspectives-on-
 url: /learn/history-of-the-world/questions/what-are-the-key-differences-between-greek-and-roman-perspectives-on-the-celts
 score: 9.0
 related_article1:
-    id: 163647
-    title: What types of archaeological evidence provide insights into Celtic religious practices?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-types-of-archaeological-evidence-provide-insights-into-celtic-religious-practices
-related_article2:
-    id: 163644
-    title: How did Julius Caesar's accounts influence Roman views of the Gaulish tribes?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-julius-caesars-accounts-influence-roman-views-of-the-gaulish-tribes
-related_article3:
-    id: 163652
-    title: How did Roman conquest during the Gallic Wars impact Celtic society and culture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
-related_article4:
     id: 163648
-    title: How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
+    title: >-
+        How do Strabo's and Pliny the Elder's accounts contribute to our understanding of Celtic culture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-do-strabos-and-pliny-the-elders-accounts-contribute-to-our-understanding-of-celtic-culture
-related_article5:
-    id: 163655
-    title: What are the main controversies surrounding the evidence of human sacrifice in Celtic culture?
+related_article2:
+    id: 163647
+    title: >-
+        What types of archaeological evidence provide insights into Celtic religious practices?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-controversies-surrounding-the-evidence-of-human-sacrifice-in-celtic-culture
+    url: /learn/history-of-the-world/questions/what-types-of-archaeological-evidence-provide-insights-into-celtic-religious-practices
+related_article3:
+    id: 163656
+    title: >-
+        What challenges do modern scholars face in reconstructing the Gaulish language?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-do-modern-scholars-face-in-reconstructing-the-gaulish-language
+related_article4:
+    id: 163649
+    title: >-
+        What were the main characteristics of the tribal structure among the Gaulish tribes?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-main-characteristics-of-the-tribal-structure-among-the-gaulish-tribes
+related_article5:
+    id: 163652
+    title: >-
+        How did Roman conquest during the Gallic Wars impact Celtic society and culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-roman-conquest-during-the-gallic-wars-impact-celtic-society-and-culture
 ---
 
 &nbsp;

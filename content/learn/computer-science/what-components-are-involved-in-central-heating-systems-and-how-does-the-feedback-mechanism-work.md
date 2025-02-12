@@ -2,8 +2,10 @@
 _schema: default
 id: 161351
 date: 2025-01-24
-title: What components are involved in central heating systems, and how does the feedback mechanism work?
-article_title: What components are involved in central heating systems, and how does the feedback mechanism work?
+title: >-
+    What components are involved in central heating systems, and how does the feedback mechanism work?
+article_title: >-
+    What components are involved in central heating systems, and how does the feedback mechanism work?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-components-are-involved-in-central-heating-systems-and-how-does-
 url: /learn/computer-science/questions/what-components-are-involved-in-central-heating-systems-and-how-does-the-feedback-mechanism-work
 score: -1.0
 related_article1:
-    id: 161355
-    title: What is the process and feedback mechanism of traffic lights control systems?
+    id: 161530
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-and-feedback-mechanism-of-traffic-lights-control-systems
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 related_article2:
-    id: 161518
-    title: What is one-point calibration, and what are its applications and limitations?
+    id: 161520
+    title: >-
+        Describe multi-point calibration and its advantages in various applications.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-onepoint-calibration-and-what-are-its-applications-and-limitations
+    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
 related_article3:
-    id: 161358
-    title: What are the potential risks and failures associated with dependence on monitoring technology?
+    id: 161525
+    title: >-
+        Explain the components and functionality of central heating systems, including the process and feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology
+    url: /learn/computer-science/questions/explain-the-components-and-functionality-of-central-heating-systems-including-the-process-and-feedback-mechanism
 related_article4:
-    id: 161532
-    title: What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
+    id: 161334
+    title: >-
+        What are the different types of actuators, and how are they applied in control technologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
+    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
 related_article5:
     id: 161355
-    title: What is the process and feedback mechanism of traffic lights control systems?
+    title: >-
+        What is the process and feedback mechanism of traffic lights control systems?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-process-and-feedback-mechanism-of-traffic-lights-control-systems
 ---

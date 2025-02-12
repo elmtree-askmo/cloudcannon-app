@@ -2,8 +2,10 @@
 _schema: default
 id: 169412
 date: 2025-02-05
-title: How does architectural design serve as a corporate identity, and what are some successful examples?
-article_title: How does architectural design serve as a corporate identity, and what are some successful examples?
+title: >-
+    How does architectural design serve as a corporate identity, and what are some successful examples?
+article_title: >-
+    How does architectural design serve as a corporate identity, and what are some successful examples?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-architectural-design-serve-as-a-corporate-identity-and-what-
 url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
 score: -1.0
 related_article1:
-    id: 169408
-    title: How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
+    id: 169406
+    title: >-
+        How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
     subject: Architecture
-    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
+    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
 related_article2:
-    id: 169407
-    title: What are the key influences of traditional Japanese design on modern architecture?
+    id: 169417
+    title: >-
+        How have regional design projects in Japan influenced international design trends?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+    url: /learn/architecture/questions/how-have-regional-design-projects-in-japan-influenced-international-design-trends
 related_article3:
-    id: 169410
-    title: How can architecture serve as a community icon and contribute to community revitalization?
+    id: 169402
+    title: >-
+        How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/how-can-architecture-serve-as-a-community-icon-and-contribute-to-community-revitalization
+    url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
 related_article4:
-    id: 169407
-    title: What are the key influences of traditional Japanese design on modern architecture?
+    id: 169404
+    title: >-
+        How can the integration of interior and exterior spaces create depth and layers in architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+    url: /learn/architecture/questions/how-can-the-integration-of-interior-and-exterior-spaces-create-depth-and-layers-in-architectural-design
 related_article5:
-    id: 169413
-    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    id: 169403
+    title: >-
+        What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
 ---
 
 &nbsp;

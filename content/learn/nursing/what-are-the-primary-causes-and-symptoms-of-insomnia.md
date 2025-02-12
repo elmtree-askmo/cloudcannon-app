@@ -2,8 +2,10 @@
 _schema: default
 id: 169690
 date: 2025-02-05
-title: What are the primary causes and symptoms of insomnia?
-article_title: What are the primary causes and symptoms of insomnia?
+title: >-
+    What are the primary causes and symptoms of insomnia?
+article_title: >-
+    What are the primary causes and symptoms of insomnia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-causes-and-symptoms-of-insomnia.md
 url: /learn/nursing/questions/what-are-the-primary-causes-and-symptoms-of-insomnia
 score: -1.0
 related_article1:
-    id: 169686
-    title: How do sleep patterns change across different age groups?
+    id: 169688
+    title: >-
+        How does sleep benefit the immune system, and what are the potential consequences of sleep deprivation on immune function?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
+    url: /learn/nursing/questions/how-does-sleep-benefit-the-immune-system-and-what-are-the-potential-consequences-of-sleep-deprivation-on-immune-function
 related_article2:
-    id: 169699
-    title: What are the benefits and applications of light therapy in managing sleep disorders?
+    id: 169702
+    title: >-
+        What lifestyle modifications can help manage sleep disorders, and how do diet and exercise play a role?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-benefits-and-applications-of-light-therapy-in-managing-sleep-disorders
+    url: /learn/nursing/questions/what-lifestyle-modifications-can-help-manage-sleep-disorders-and-how-do-diet-and-exercise-play-a-role
 related_article3:
+    id: 169689
+    title: >-
+        In what ways does sleep contribute to emotional stability and mental health?
+    subject: Nursing
+    url: /learn/nursing/questions/in-what-ways-does-sleep-contribute-to-emotional-stability-and-mental-health
+related_article4:
+    id: 169693
+    title: >-
+        What factors should be considered when assessing a patient's sleep patterns in a nursing context?
+    subject: Nursing
+    url: /learn/nursing/questions/what-factors-should-be-considered-when-assessing-a-patients-sleep-patterns-in-a-nursing-context
+related_article5:
     id: 169692
-    title: What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
+    title: >-
+        What are the symptoms of Restless Leg Syndrome, and what management strategies are typically recommended?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-symptoms-of-restless-leg-syndrome-and-what-management-strategies-are-typically-recommended
-related_article4:
-    id: 169686
-    title: How do sleep patterns change across different age groups?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-sleep-patterns-change-across-different-age-groups
-related_article5:
-    id: 169694
-    title: What are some non-pharmacological interventions that can improve sleep quality, and how do they work?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-some-nonpharmacological-interventions-that-can-improve-sleep-quality-and-how-do-they-work
 ---
 
 &nbsp;

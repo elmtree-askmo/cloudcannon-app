@@ -2,8 +2,10 @@
 _schema: default
 id: 167494
 date: 2025-01-31
-title: What are the benefits of using interactive learning tools in education?
-article_title: What are the benefits of using interactive learning tools in education?
+title: >-
+    What are the benefits of using interactive learning tools in education?
+article_title: >-
+    What are the benefits of using interactive learning tools in education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-are-the-benefits-of-using-interactive-learnin
 score: -1.0
 related_article1:
     id: 167479
-    title: How is the D2L Learning Management System organized to facilitate course access?
+    title: >-
+        How is the D2L Learning Management System organized to facilitate course access?
     subject: Biology
     url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
 related_article2:
-    id: 167483
-    title: What is the focus and content of lecture exams in this course?
+    id: 167484
+    title: >-
+        How should students prepare for the cumulative nature of the final exam?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
+    url: /learn/biology/questions/how-should-students-prepare-for-the-cumulative-nature-of-the-final-exam
 related_article3:
-    id: 167483
-    title: What is the focus and content of lecture exams in this course?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
-related_article4:
     id: 167468
-    title: How does biology apply to everyday life?
+    title: >-
+        How does biology apply to everyday life?
     subject: Biology
     url: /learn/biology/questions/how-does-biology-apply-to-everyday-life
-related_article5:
-    id: 167472
-    title: What skills are essential for a career in physical therapy?
+related_article4:
+    id: 167482
+    title: >-
+        What are the cost and availability options for online textbooks?
     subject: Biology
-    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
+    url: /learn/biology/questions/what-are-the-cost-and-availability-options-for-online-textbooks
+related_article5:
+    id: 167476
+    title: >-
+        How do practice exams on the Codon Learning Platform help students prepare for exams?
+    subject: Biology
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
 ---
 
 &nbsp;

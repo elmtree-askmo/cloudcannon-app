@@ -2,8 +2,10 @@
 _schema: default
 id: 165915
 date: 2025-01-29
-title: What is the significance of the Bologna Accord in understanding academic credit systems?
-article_title: What is the significance of the Bologna Accord in understanding academic credit systems?
+title: >-
+    What is the significance of the Bologna Accord in understanding academic credit systems?
+article_title: >-
+    What is the significance of the Bologna Accord in understanding academic credit systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-bologna-accord-in-understanding-acade
 url: /learn/education-studies/questions/what-is-the-significance-of-the-bologna-accord-in-understanding-academic-credit-systems
 score: -1.0
 related_article1:
-    id: 165916
-    title: How does geography function as a social construct in influencing cultural identity?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-geography-function-as-a-social-construct-in-influencing-cultural-identity
-related_article2:
-    id: 165914
-    title: How can students effectively balance study and personal life through time management?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
-related_article3:
-    id: 165914
-    title: How can students effectively balance study and personal life through time management?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-balance-study-and-personal-life-through-time-management
-related_article4:
     id: 165906
-    title: What is the role of lecturers as researchers in a university setting?
+    title: >-
+        What is the role of lecturers as researchers in a university setting?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-lecturers-as-researchers-in-a-university-setting
-related_article5:
-    id: 165908
-    title: What are the stages of academic progression in independent research?
+related_article2:
+    id: 165907
+    title: >-
+        How can students become involved in the research community at a university?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-stages-of-academic-progression-in-independent-research
+    url: /learn/education-studies/questions/how-can-students-become-involved-in-the-research-community-at-a-university
+related_article3:
+    id: 165919
+    title: >-
+        Why is the PDF document format preferred for academic submissions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-the-pdf-document-format-preferred-for-academic-submissions
+related_article4:
+    id: 165917
+    title: >-
+        What are the psychological aspects of learning that impact political and economic systems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-psychological-aspects-of-learning-that-impact-political-and-economic-systems
+related_article5:
+    id: 165906
+    title: >-
+        What is the role of lecturers as researchers in a university setting?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-lecturers-as-researchers-in-a-university-setting
 ---
 
 &nbsp;

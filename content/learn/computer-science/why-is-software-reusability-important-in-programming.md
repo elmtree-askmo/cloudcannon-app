@@ -2,8 +2,10 @@
 _schema: default
 id: 168606
 date: 2025-02-03
-title: Why is software reusability important in programming?
-article_title: Why is software reusability important in programming?
+title: >-
+    Why is software reusability important in programming?
+article_title: >-
+    Why is software reusability important in programming?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: why-is-software-reusability-important-in-programming.md
 url: /learn/computer-science/questions/why-is-software-reusability-important-in-programming
 score: -1.0
 related_article1:
-    id: 168597
-    title: How can you handle a specific error type using a try...except block?
+    id: 168590
+    title: >-
+        How do you call a function with parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
+    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 related_article2:
-    id: 168602
-    title: What is the purpose of raising exceptions in Python?
+    id: 168601
+    title: >-
+        How can you access a function's docstring in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-raising-exceptions-in-python
+    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
 related_article3:
     id: 168600
-    title: What is a function docstring and why is it important?
+    title: >-
+        What is a function docstring and why is it important?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
 related_article4:
-    id: 168608
-    title: What is encapsulation in object-oriented programming?
+    id: 168609
+    title: >-
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-encapsulation-in-objectoriented-programming
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
+related_article5:
+    id: 168593
+    title: >-
+        Explain the difference between local and global scope in Python.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 ---
 
 &nbsp;

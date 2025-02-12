@@ -2,8 +2,10 @@
 _schema: default
 id: 167668
 date: 2025-01-31
-title: What are the different types of learning, and how do they contribute to an animal's survival?
-article_title: What are the different types of learning, and how do they contribute to an animal's survival?
+title: >-
+    What are the different types of learning, and how do they contribute to an animal's survival?
+article_title: >-
+    What are the different types of learning, and how do they contribute to an animal's survival?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-learning-and-how-do-they-contribute-t
 url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
 score: -1.0
 related_article1:
-    id: 167683
-    title: What methodologies are used in comparative studies of animal behavior, and why are they important?
-    subject: Others
-    url: /learn/others/questions/what-methodologies-are-used-in-comparative-studies-of-animal-behavior-and-why-are-they-important
-related_article2:
-    id: 167671
-    title: Differentiate between phenotype and genotype and their influence on animal behavior.
-    subject: Others
-    url: /learn/others/questions/differentiate-between-phenotype-and-genotype-and-their-influence-on-animal-behavior
-related_article3:
-    id: 167682
-    title: What is the significance of receptor abundance in the evolution of animal behavior?
-    subject: Others
-    url: /learn/others/questions/what-is-the-significance-of-receptor-abundance-in-the-evolution-of-animal-behavior
-related_article4:
     id: 167675
-    title: What is the difference between homology and homoplasy, and how are they used in evolutionary analysis?
+    title: >-
+        What is the difference between homology and homoplasy, and how are they used in evolutionary analysis?
     subject: Others
     url: /learn/others/questions/what-is-the-difference-between-homology-and-homoplasy-and-how-are-they-used-in-evolutionary-analysis
-related_article5:
-    id: 167681
-    title: How does vasopressin influence parental behaviors, particularly in voles?
+related_article2:
+    id: 167670
+    title: >-
+        How is fitness measured, and why is it important in the context of natural selection?
     subject: Others
-    url: /learn/others/questions/how-does-vasopressin-influence-parental-behaviors-particularly-in-voles
+    url: /learn/others/questions/how-is-fitness-measured-and-why-is-it-important-in-the-context-of-natural-selection
+related_article3:
+    id: 167679
+    title: >-
+        How do environmental cues influence seasonal breeding behaviors in animals?
+    subject: Others
+    url: /learn/others/questions/how-do-environmental-cues-influence-seasonal-breeding-behaviors-in-animals
+related_article4:
+    id: 167672
+    title: >-
+        What are the different types of selection, and how do they affect genetic variation?
+    subject: Others
+    url: /learn/others/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-genetic-variation
+related_article5:
+    id: 167673
+    title: >-
+        Provide an example of adaptation in animal behavior and its role in evolution.
+    subject: Others
+    url: /learn/others/questions/provide-an-example-of-adaptation-in-animal-behavior-and-its-role-in-evolution
 ---
 
 &nbsp;

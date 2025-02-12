@@ -2,8 +2,10 @@
 _schema: default
 id: 160374
 date: 2025-01-24
-title: What are the defining decorative styles of La Tène Culture?
-article_title: What are the defining decorative styles of La Tène Culture?
+title: >-
+    What are the defining decorative styles of La Tène Culture?
+article_title: >-
+    What are the defining decorative styles of La Tène Culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-defining-decorative-styles-of-la-tne-culture.md
 url: /learn/history-of-the-world/questions/what-are-the-defining-decorative-styles-of-la-tne-culture
 score: 9.0
 related_article1:
-    id: 160384
-    title: What are the key features of Celtic metalwork and jewelry?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
-related_article2:
-    id: 159876
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
-related_article3:
-    id: 160375
-    title: How did the La Tène Culture expand and settle in new regions?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
-related_article4:
-    id: 160393
-    title: How have the Celts contributed to European heritage and modern perceptions?
+    id: 160183
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
-related_article5:
-    id: 159870
-    title: How did the La Tène Culture expand and settle in new regions?
+related_article2:
+    id: 160384
+    title: >-
+        What are the key features of Celtic metalwork and jewelry?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-la-tne-culture-expand-and-settle-in-new-regions
+    url: /learn/history-of-the-world/questions/what-are-the-key-features-of-celtic-metalwork-and-jewelry
+related_article3:
+    id: 159862
+    title: >-
+        What are the main characteristics of Halstatt Culture's art and material goods?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-main-characteristics-of-halstatt-cultures-art-and-material-goods
+related_article4:
+    id: 159896
+    title: >-
+        What were the key trading centers in Celtic trade networks?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+related_article5:
+    id: 159880
+    title: >-
+        What role did Hecataeus of Miletus and Posidonius play in early ethnography of the Celts?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-hecataeus-of-miletus-and-posidonius-play-in-early-ethnography-of-the-celts
 ---
 
 &nbsp;

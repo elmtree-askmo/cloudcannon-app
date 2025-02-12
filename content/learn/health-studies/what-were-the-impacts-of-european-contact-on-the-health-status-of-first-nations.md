@@ -2,8 +2,10 @@
 _schema: default
 id: 163371
 date: 2025-01-26
-title: What were the impacts of European contact on the health status of First Nations?
-article_title: What were the impacts of European contact on the health status of First Nations?
+title: >-
+    What were the impacts of European contact on the health status of First Nations?
+article_title: >-
+    What were the impacts of European contact on the health status of First Nations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-impacts-of-european-contact-on-the-health-status-of-fir
 url: /learn/health-studies/questions/what-were-the-impacts-of-european-contact-on-the-health-status-of-first-nations
 score: -1.0
 related_article1:
-    id: 163383
-    title: How does the transition from a traditional land-based economy to a wage-based economy affect economic sustainability for First Nations?
+    id: 163382
+    title: >-
+        What are the challenges and benefits of integrating traditional knowledge systems with public health services?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-transition-from-a-traditional-landbased-economy-to-a-wagebased-economy-affect-economic-sustainability-for-first-nations
+    url: /learn/health-studies/questions/what-are-the-challenges-and-benefits-of-integrating-traditional-knowledge-systems-with-public-health-services
 related_article2:
+    id: 163382
+    title: >-
+        What are the challenges and benefits of integrating traditional knowledge systems with public health services?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-challenges-and-benefits-of-integrating-traditional-knowledge-systems-with-public-health-services
+related_article3:
     id: 163377
-    title: What were the impacts of the British North America Act and the Indian Act on First Nations communities?
+    title: >-
+        What were the impacts of the British North America Act and the Indian Act on First Nations communities?
     subject: Health Studies
     url: /learn/health-studies/questions/what-were-the-impacts-of-the-british-north-america-act-and-the-indian-act-on-first-nations-communities
-related_article3:
-    id: 163379
-    title: Describe the components of the Medicine Wheel and their significance in the holistic health model.
-    subject: Health Studies
-    url: /learn/health-studies/questions/describe-the-components-of-the-medicine-wheel-and-their-significance-in-the-holistic-health-model
 related_article4:
-    id: 163384
-    title: What mechanisms can be used to promote social justice and equity for First Nations communities?
+    id: 163386
+    title: >-
+        Why is cultural integrity and identity important for the health and well-being of First Nations communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-mechanisms-can-be-used-to-promote-social-justice-and-equity-for-first-nations-communities
+    url: /learn/health-studies/questions/why-is-cultural-integrity-and-identity-important-for-the-health-and-wellbeing-of-first-nations-communities
 related_article5:
-    id: 163381
-    title: How is traditional knowledge transmitted within First Nations communities, and why is it important?
+    id: 163376
+    title: >-
+        How do spirituality and a sense of purpose contribute to cultural wisdom and identity in Indigenous communities?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-traditional-knowledge-transmitted-within-first-nations-communities-and-why-is-it-important
+    url: /learn/health-studies/questions/how-do-spirituality-and-a-sense-of-purpose-contribute-to-cultural-wisdom-and-identity-in-indigenous-communities
 ---
 
 &nbsp;

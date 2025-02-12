@@ -2,8 +2,10 @@
 _schema: default
 id: 165416
 date: 2025-01-29
-title: What are the base units of mass, length, and volume in the metric system?
-article_title: What are the base units of mass, length, and volume in the metric system?
+title: >-
+    What are the base units of mass, length, and volume in the metric system?
+article_title: >-
+    What are the base units of mass, length, and volume in the metric system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-base-units-of-mass-length-and-volume-in-the-metric-syste
 url: /learn/education-studies/questions/what-are-the-base-units-of-mass-length-and-volume-in-the-metric-system
 score: -1.0
 related_article1:
+    id: 165421
+    title: >-
+        Explain how scientific notation is applied to small numbers using negative exponents.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-how-scientific-notation-is-applied-to-small-numbers-using-negative-exponents
+related_article2:
     id: 165431
-    title: How are positive exponents used in expressing large numbers in scientific notation?
+    title: >-
+        How are positive exponents used in expressing large numbers in scientific notation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
-related_article2:
-    id: 165424
-    title: How should a meniscus be read when measuring volume with a graduated cylinder?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-a-meniscus-be-read-when-measuring-volume-with-a-graduated-cylinder
 related_article3:
-    id: 165426
-    title: What are the volume ranges for P20, P200, and P1000 mechanical pipettes?
+    id: 165423
+    title: >-
+        Why is it important to zero a scale before weighing, and how does it affect accuracy?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-volume-ranges-for-p20-p200-and-p1000-mechanical-pipettes
+    url: /learn/education-studies/questions/why-is-it-important-to-zero-a-scale-before-weighing-and-how-does-it-affect-accuracy
 related_article4:
-    id: 165427
-    title: Why is calibration important for mechanical pipettes, and how does it affect pipetting accuracy?
+    id: 165431
+    title: >-
+        How are positive exponents used in expressing large numbers in scientific notation?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-calibration-important-for-mechanical-pipettes-and-how-does-it-affect-pipetting-accuracy
+    url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
 related_article5:
     id: 165431
-    title: How are positive exponents used in expressing large numbers in scientific notation?
+    title: >-
+        How are positive exponents used in expressing large numbers in scientific notation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-are-positive-exponents-used-in-expressing-large-numbers-in-scientific-notation
 ---

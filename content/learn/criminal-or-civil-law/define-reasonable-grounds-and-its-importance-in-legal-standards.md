@@ -2,8 +2,10 @@
 _schema: default
 id: 162007
 date: 2025-01-24
-title: Define reasonable grounds and its importance in legal standards.
-article_title: Define reasonable grounds and its importance in legal standards.
+title: >-
+    Define reasonable grounds and its importance in legal standards.
+article_title: >-
+    Define reasonable grounds and its importance in legal standards.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-reasonable-grounds-and-its-importance-in-legal-standards.md
 url: /learn/criminal-or-civil-law/questions/define-reasonable-grounds-and-its-importance-in-legal-standards
 score: -1.0
 related_article1:
+    id: 162010
+    title: >-
+        What are the legal requirements for conducting searches under law enforcement powers?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-conducting-searches-under-law-enforcement-powers
+related_article2:
+    id: 162005
+    title: >-
+        What are the legal requirements for issuing production orders?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-are-the-legal-requirements-for-issuing-production-orders
+related_article3:
     id: 162003
-    title: What are the legal standards for conducting consent searches?
+    title: >-
+        What are the legal standards for conducting consent searches?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-are-the-legal-standards-for-conducting-consent-searches
-related_article2:
+related_article4:
     id: 162000
-    title: Discuss the application of common law in modern investigative detention.
+    title: >-
+        Discuss the application of common law in modern investigative detention.
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/discuss-the-application-of-common-law-in-modern-investigative-detention
-related_article3:
-    id: 162009
-    title: Describe the legal standards for evidence collection by law enforcement.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/describe-the-legal-standards-for-evidence-collection-by-law-enforcement
-related_article4:
-    id: 161999
-    title: Define investigative detention and its legal standards.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/define-investigative-detention-and-its-legal-standards
 related_article5:
-    id: 162006
-    title: Discuss the privacy considerations involved in DNA collection.
+    id: 162002
+    title: >-
+        Outline the judicial process for obtaining information to obtain.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/discuss-the-privacy-considerations-involved-in-dna-collection
+    url: /learn/criminal-or-civil-law/questions/outline-the-judicial-process-for-obtaining-information-to-obtain
 ---
 
 &nbsp;

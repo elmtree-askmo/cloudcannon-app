@@ -2,8 +2,10 @@
 _schema: default
 id: 161695
 date: 2025-01-24
-title: What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
-article_title: What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
+title: >-
+    What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
+article_title: >-
+    What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocol
 url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
 score: -1.0
 related_article1:
-    id: 161434
-    title: Why is the age of information crucial, and what factors can affect how up-to-date information is?
+    id: 161696
+    title: >-
+        What are the characteristics of batch processing, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-how-uptodate-information-is
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-batch-processing-and-what-are-its-advantages-and-disadvantages
 related_article2:
-    id: 161700
-    title: What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
+    id: 161693
+    title: >-
+        What are the risks associated with data transmission, and how does encryption mitigate these risks?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
+    url: /learn/computer-science/questions/what-are-the-risks-associated-with-data-transmission-and-how-does-encryption-mitigate-these-risks
 related_article3:
-    id: 161433
-    title: What factors influence the relevance of information, and why is it important?
+    id: 161429
+    title: >-
+        What are the main characteristics of direct data, and what are its advantages and disadvantages?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-direct-data-and-what-are-its-advantages-and-disadvantages
 related_article4:
-    id: 161436
-    title: What is the significance of completeness in information quality, and what factors can affect it?
+    id: 161674
+    title: >-
+        What is the difference between a hash total and a control total in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-completeness-in-information-quality-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
 related_article5:
-    id: 161698
-    title: What are the characteristics of real-time processing, and why is it important?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-realtime-processing-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 ---
 
 &nbsp;

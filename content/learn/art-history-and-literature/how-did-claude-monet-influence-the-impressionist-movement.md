@@ -2,8 +2,10 @@
 _schema: default
 id: 165952
 date: 2025-01-29
-title: How did Claude Monet influence the Impressionist movement?
-article_title: How did Claude Monet influence the Impressionist movement?
+title: >-
+    How did Claude Monet influence the Impressionist movement?
+article_title: >-
+    How did Claude Monet influence the Impressionist movement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-claude-monet-influence-the-impressionist-movement.md
 url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
 score: 9.0
 related_article1:
-    id: 165957
-    title: What social and political influences affected art during the 19th century?
+    id: 165945
+    title: >-
+        Who were some of the key artists involved in the First Impressionist Exhibition, and what were their contributions?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-social-and-political-influences-affected-art-during-the-19th-century
+    url: /learn/art-history-and-literature/questions/who-were-some-of-the-key-artists-involved-in-the-first-impressionist-exhibition-and-what-were-their-contributions
 related_article2:
-    id: 165962
-    title: What is the legacy of 19th-century art movements on contemporary art?
+    id: 165943
+    title: >-
+        What was the historical context behind the creation of the Salon des Refusés?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
+    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
 related_article3:
-    id: 165939
-    title: What was the primary purpose of the Official Paris Salon when it was first established?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
-related_article4:
     id: 165955
-    title: What were the major 19th-century art movements, and how did they transition into 20th-century styles?
+    title: >-
+        What were the major 19th-century art movements, and how did they transition into 20th-century styles?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-major-19thcentury-art-movements-and-how-did-they-transition-into-20thcentury-styles
-related_article5:
-    id: 165941
-    title: What were the main reasons for the emergence of alternative art exhibitions in Paris?
+related_article4:
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
+related_article5:
+    id: 165948
+    title: >-
+        How did the Salon des Independantes contribute to the promotion of diverse art styles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
 ---
 
 &nbsp;

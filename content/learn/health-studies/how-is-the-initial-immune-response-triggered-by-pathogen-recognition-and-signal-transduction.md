@@ -2,8 +2,10 @@
 _schema: default
 id: 165880
 date: 2025-01-29
-title: How is the initial immune response triggered by pathogen recognition and signal transduction?
-article_title: How is the initial immune response triggered by pathogen recognition and signal transduction?
+title: >-
+    How is the initial immune response triggered by pathogen recognition and signal transduction?
+article_title: >-
+    How is the initial immune response triggered by pathogen recognition and signal transduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-initial-immune-response-triggered-by-pathogen-recognition-
 url: /learn/health-studies/questions/how-is-the-initial-immune-response-triggered-by-pathogen-recognition-and-signal-transduction
 score: -1.0
 related_article1:
+    id: 165864
+    title: >-
+        How does the NF Kappa B pathway contribute to immune cell activation?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-does-the-nf-kappa-b-pathway-contribute-to-immune-cell-activation
+related_article2:
     id: 165857
-    title: What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
+    title: >-
+        What are the key differences between susceptible and resistant host mechanisms in host-parasite specificity?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-differences-between-susceptible-and-resistant-host-mechanisms-in-hostparasite-specificity
-related_article2:
-    id: 165875
-    title: What is the significance of clonal expansion in immune memory?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-clonal-expansion-in-immune-memory
 related_article3:
-    id: 165860
-    title: How do B and T cells contribute to the specificity and memory of adaptive immunity?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-b-and-t-cells-contribute-to-the-specificity-and-memory-of-adaptive-immunity
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article4:
-    id: 165876
-    title: How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
+    id: 165879
+    title: >-
+        What is the importance of clonality in the immune response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
+    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
 related_article5:
-    id: 165858
-    title: How do infective parasites differ from non-infective parasites in terms of their impact on the host?
+    id: 165877
+    title: >-
+        What is the role of the NF Kappa B pathway in the inflammatory response?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
+    url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
 ---
 
 &nbsp;

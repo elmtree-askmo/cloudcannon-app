@@ -2,8 +2,10 @@
 _schema: default
 id: 170175
 date: 2025-02-06
-title: What are the historical theories regarding the origins and identity of the Pictish culture?
-article_title: What are the historical theories regarding the origins and identity of the Pictish culture?
+title: >-
+    What are the historical theories regarding the origins and identity of the Pictish culture?
+article_title: >-
+    What are the historical theories regarding the origins and identity of the Pictish culture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-historical-theories-regarding-the-origins-and-identity-o
 url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
 score: 9.0
 related_article1:
-    id: 170166
-    title: What are the key characteristics and distribution patterns of unenclosed villages during the Iron Age?
+    id: 170187
+    title: >-
+        What were the factors leading to the decline and withdrawal of Roman rule in Britannia, and what was its impact on local populations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-and-distribution-patterns-of-unenclosed-villages-during-the-iron-age
+    url: /learn/history-of-the-world/questions/what-were-the-factors-leading-to-the-decline-and-withdrawal-of-roman-rule-in-britannia-and-what-was-its-impact-on-local-populations
 related_article2:
-    id: 170168
-    title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+    id: 170169
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
+    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article3:
-    id: 170173
-    title: What are the main themes and historical context of Tacitus' 'Annals'?
+    id: 170179
+    title: >-
+        Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-themes-and-historical-context-of-tacitus-annals
+    url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
 related_article4:
-    id: 170184
-    title: Who was Calgacus, and what was his influence on Caledonian warfare?
+    id: 170170
+    title: >-
+        What were the tactical elements and historical significance of the Battle of Mons Graupius?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
+    url: /learn/history-of-the-world/questions/what-were-the-tactical-elements-and-historical-significance-of-the-battle-of-mons-graupius
 related_article5:
-    id: 170177
-    title: What is the significance of Pictish stones in understanding Pictish art and symbolism?
+    id: 170180
+    title: >-
+        What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
+    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
 ---
 
 &nbsp;

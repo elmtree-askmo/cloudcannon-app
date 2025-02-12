@@ -2,8 +2,10 @@
 _schema: default
 id: 166180
 date: 2025-01-29
-title: How do metabolism and homeostasis contribute to the biological processes of life?
-article_title: How do metabolism and homeostasis contribute to the biological processes of life?
+title: >-
+    How do metabolism and homeostasis contribute to the biological processes of life?
+article_title: >-
+    How do metabolism and homeostasis contribute to the biological processes of life?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-metabolism-and-homeostasis-contribute-to-the-biological-proces
 url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
 score: -1.0
 related_article1:
-    id: 166195
-    title: What evidence supports the concept of common ancestry among species?
+    id: 166202
+    title: >-
+        How do human activities impact the environment and what are some conservation efforts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-evidence-supports-the-concept-of-common-ancestry-among-species
+    url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
 related_article2:
+    id: 166193
+    title: >-
+        How does natural selection lead to adaptations in species?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-natural-selection-lead-to-adaptations-in-species
+related_article3:
+    id: 166190
+    title: >-
+        Describe the structure of DNA and its role in genetic inheritance.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
+related_article4:
+    id: 166207
+    title: >-
+        What are the differences between macronutrients and micronutrients in human nutrition?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-differences-between-macronutrients-and-micronutrients-in-human-nutrition
+related_article5:
     id: 166204
-    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
-related_article3:
-    id: 166205
-    title: What role do enzymes play in biochemical reactions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-enzymes-play-in-biochemical-reactions
-related_article4:
-    id: 166206
-    title: How do structural adaptations enhance an organism's survival in its environment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
-related_article5:
-    id: 166189
-    title: How do red blood cells and white blood cells differ in structure and function?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
 ---
 
 &nbsp;

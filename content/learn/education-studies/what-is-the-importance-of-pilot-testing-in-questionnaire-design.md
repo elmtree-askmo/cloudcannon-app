@@ -2,8 +2,10 @@
 _schema: default
 id: 165117
 date: 2025-01-28
-title: What is the importance of pilot testing in questionnaire design?
-article_title: What is the importance of pilot testing in questionnaire design?
+title: >-
+    What is the importance of pilot testing in questionnaire design?
+article_title: >-
+    What is the importance of pilot testing in questionnaire design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-pilot-testing-in-questionnaire-design.md
 url: /learn/education-studies/questions/what-is-the-importance-of-pilot-testing-in-questionnaire-design
 score: -1.0
 related_article1:
-    id: 165097
-    title: What role do independent variables play in experiments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-independent-variables-play-in-experiments
-related_article2:
-    id: 165104
-    title: What are the differences between open-ended and closed-ended survey questions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-openended-and-closedended-survey-questions
-related_article3:
-    id: 165106
-    title: What are some common challenges in data collection related to participant and observer bias?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
-related_article4:
-    id: 165114
-    title: Why is reliability important in research and what are the types of reliability?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-reliability-important-in-research-and-what-are-the-types-of-reliability
-related_article5:
     id: 165100
-    title: Provide examples of ordinal measurement types and their characteristics.
+    title: >-
+        Provide examples of ordinal measurement types and their characteristics.
     subject: Education Studies
     url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
+related_article2:
+    id: 165109
+    title: >-
+        What are measures of central tendency and variability in descriptive statistics?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-measures-of-central-tendency-and-variability-in-descriptive-statistics
+related_article3:
+    id: 165095
+    title: >-
+        What is a dependent variable and why is it important in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
+related_article4:
+    id: 165119
+    title: >-
+        How does color perception influence consumer behavior in marketing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-color-perception-influence-consumer-behavior-in-marketing
+related_article5:
+    id: 165111
+    title: >-
+        What is the difference between continuous and categorical variables?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
 ---
 
 &nbsp;

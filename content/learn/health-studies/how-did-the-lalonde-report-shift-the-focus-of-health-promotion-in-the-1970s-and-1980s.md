@@ -2,8 +2,10 @@
 _schema: default
 id: 162339
 date: 2025-01-25
-title: How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
-article_title: How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
+title: >-
+    How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
+article_title: >-
+    How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the
 url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
 score: -1.0
 related_article1:
-    id: 162349
-    title: What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
+    id: 162336
+    title: >-
+        What were the key nutrition initiatives and food safety programs expanded during World War II?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
+    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
 related_article2:
     id: 162344
-    title: How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
+    title: >-
+        How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
     subject: Health Studies
     url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
 related_article3:
-    id: 162351
-    title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
+    id: 162341
+    title: >-
+        What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
+    url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
 related_article4:
-    id: 162349
-    title: What were the public health responses to measles outbreaks and vaccination campaigns in the late 20th century?
+    id: 162344
+    title: >-
+        How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-public-health-responses-to-measles-outbreaks-and-vaccination-campaigns-in-the-late-20th-century
+    url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
 related_article5:
-    id: 162351
-    title: What are the key components of the Ottawa Charter for Health Promotion, and how do they emphasize community participation?
+    id: 162318
+    title: >-
+        How did Edward Playter influence sanitary reforms in the late 19th century?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-components-of-the-ottawa-charter-for-health-promotion-and-how-do-they-emphasize-community-participation
+    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
 ---
 
 &nbsp;

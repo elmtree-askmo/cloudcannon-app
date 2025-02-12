@@ -2,8 +2,10 @@
 _schema: default
 id: 162355
 date: 2025-01-25
-title: What are the main types of machine learning algorithms, and how do they differ?
-article_title: What are the main types of machine learning algorithms, and how do they differ?
+title: >-
+    What are the main types of machine learning algorithms, and how do they differ?
+article_title: >-
+    What are the main types of machine learning algorithms, and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-machine-learning-algorithms-and-how-do-the
 url: /learn/others/questions/what-are-the-main-types-of-machine-learning-algorithms-and-how-do-they-differ
 score: -1.0
 related_article1:
+    id: 162361
+    title: >-
+        What are the differences between measures of central tendency and measures of variability in descriptive statistics?
+    subject: Others
+    url: /learn/others/questions/what-are-the-differences-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
+related_article2:
+    id: 162732
+    title: >-
+        What are the benefits of continuous integration and continuous deployment in DevOps practices?
+    subject: Others
+    url: /learn/others/questions/what-are-the-benefits-of-continuous-integration-and-continuous-deployment-in-devops-practices
+related_article3:
+    id: 162358
+    title: >-
+        What ethical considerations and challenges are associated with artificial intelligence?
+    subject: Others
+    url: /learn/others/questions/what-ethical-considerations-and-challenges-are-associated-with-artificial-intelligence
+related_article4:
     id: 162654
-    title: What are the best practices for creating effective data visualizations?
+    title: >-
+        What are the best practices for creating effective data visualizations?
     subject: Others
     url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
-related_article2:
-    id: 162722
-    title: What are the benefits of using cloud computing service models like IaaS, PaaS, and SaaS?
-    subject: Others
-    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-service-models-like-iaas-paas-and-saas
-related_article3:
-    id: 162839
-    title: How do Hadoop and Spark differ in their approach to big data processing?
-    subject: Others
-    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
-related_article4:
-    id: 162371
-    title: What are the common cybersecurity threats, and what measures can be taken to protect against them?
-    subject: Others
-    url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-what-measures-can-be-taken-to-protect-against-them
 related_article5:
-    id: 162381
-    title: What are the fundamental concepts of quantum computing, and what challenges does it face?
+    id: 162648
+    title: >-
+        What are the key differences between descriptive, inferential, and exploratory data analysis?
     subject: Others
-    url: /learn/others/questions/what-are-the-fundamental-concepts-of-quantum-computing-and-what-challenges-does-it-face
+    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 ---
 
 &nbsp;

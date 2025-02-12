@@ -2,8 +2,10 @@
 _schema: default
 id: 167705
 date: 2025-01-31
-title: How do major psychological theories apply to therapy and counseling?
-article_title: How do major psychological theories apply to therapy and counseling?
+title: >-
+    How do major psychological theories apply to therapy and counseling?
+article_title: >-
+    How do major psychological theories apply to therapy and counseling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-major-psychological-theories-apply-to-therapy-and-counseling.m
 url: /learn/psychology/questions/how-do-major-psychological-theories-apply-to-therapy-and-counseling
 score: -1.0
 related_article1:
-    id: 167708
-    title: What are the main stages of cognitive and social development in childhood and adolescence?
+    id: 167685
+    title: >-
+        How do perceptions of normalcy influence human behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-stages-of-cognitive-and-social-development-in-childhood-and-adolescence
+    url: /learn/psychology/questions/how-do-perceptions-of-normalcy-influence-human-behavior
 related_article2:
-    id: 167695
-    title: What are the modern views on dualism in neuroscience?
+    id: 167691
+    title: >-
+        How does Cognitive Behavioral Therapy (CBT) help in treating behavioral disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+    url: /learn/psychology/questions/how-does-cognitive-behavioral-therapy-cbt-help-in-treating-behavioral-disorders
 related_article3:
-    id: 167700
-    title: What are the main techniques for observing and analyzing observable behavior?
+    id: 167707
+    title: >-
+        How do memory processes like encoding and retrieval affect memory disorders?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-techniques-for-observing-and-analyzing-observable-behavior
+    url: /learn/psychology/questions/how-do-memory-processes-like-encoding-and-retrieval-affect-memory-disorders
 related_article4:
-    id: 167687
-    title: How can healthy behaviors be differentiated from unhealthy ones?
+    id: 167694
+    title: >-
+        How do neurobiological processes influence behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-healthy-behaviors-be-differentiated-from-unhealthy-ones
+    url: /learn/psychology/questions/how-do-neurobiological-processes-influence-behavior
 related_article5:
-    id: 167695
-    title: What are the modern views on dualism in neuroscience?
+    id: 167696
+    title: >-
+        What are the psychological perspectives on free will?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-modern-views-on-dualism-in-neuroscience
+    url: /learn/psychology/questions/what-are-the-psychological-perspectives-on-free-will
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163770
 date: 2025-01-27
-title: What are the effects of transformations and translations on cube root functions?
-article_title: What are the effects of transformations and translations on cube root functions?
+title: >-
+    What are the effects of transformations and translations on cube root functions?
+article_title: >-
+    What are the effects of transformations and translations on cube root functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-transformations-and-translations-on-cube-root
 url: /learn/mathematics/questions/what-are-the-effects-of-transformations-and-translations-on-cube-root-functions
 score: -1.0
 related_article1:
-    id: 163773
-    title: What are inflection points in the context of cube root graphs?
+    id: 163744
+    title: >-
+        What is the general form of a cube root function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-inflection-points-in-the-context-of-cube-root-graphs
+    url: /learn/mathematics/questions/what-is-the-general-form-of-a-cube-root-function
 related_article2:
-    id: 163779
-    title: How do reflections across axes transform cube root functions?
+    id: 163751
+    title: >-
+        What are the domain and range characteristics of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-across-axes-transform-cube-root-functions
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
 related_article3:
-    id: 163775
-    title: How do horizontal and vertical shifts affect cube root functions?
+    id: 163764
+    title: >-
+        What impact do coefficients have on the graphs of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+    url: /learn/mathematics/questions/what-impact-do-coefficients-have-on-the-graphs-of-cube-root-functions
 related_article4:
-    id: 163775
-    title: How do horizontal and vertical shifts affect cube root functions?
+    id: 163751
+    title: >-
+        What are the domain and range characteristics of cube root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-horizontal-and-vertical-shifts-affect-cube-root-functions
+    url: /learn/mathematics/questions/what-are-the-domain-and-range-characteristics-of-cube-root-functions
 related_article5:
-    id: 163783
-    title: Why are cube root functions considered continuous functions?
+    id: 163761
+    title: >-
+        How do the graphs of cube root functions differ from those of square root functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-are-cube-root-functions-considered-continuous-functions
+    url: /learn/mathematics/questions/how-do-the-graphs-of-cube-root-functions-differ-from-those-of-square-root-functions
 ---
 
 &nbsp;

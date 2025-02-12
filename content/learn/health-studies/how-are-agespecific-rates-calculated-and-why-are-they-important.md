@@ -2,8 +2,10 @@
 _schema: default
 id: 163311
 date: 2025-01-26
-title: How are age-specific rates calculated and why are they important?
-article_title: How are age-specific rates calculated and why are they important?
+title: >-
+    How are age-specific rates calculated and why are they important?
+article_title: >-
+    How are age-specific rates calculated and why are they important?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-are-agespecific-rates-calculated-and-why-are-they-important.md
 url: /learn/health-studies/questions/how-are-agespecific-rates-calculated-and-why-are-they-important
 score: -1.0
 related_article1:
-    id: 162990
-    title: What is an ecological study and what is its primary focus in epidemiology?
+    id: 162988
+    title: >-
+        What is the role of public health surveillance in responding to outbreaks?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
 related_article2:
-    id: 162990
-    title: What is an ecological study and what is its primary focus in epidemiology?
+    id: 163316
+    title: >-
+        What are the key differences between descriptive and analytic epidemiologic questions?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
+    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
 related_article3:
-    id: 162993
-    title: What does a Pearson correlation coefficient indicate in epidemiological studies?
+    id: 162980
+    title: >-
+        What is the main limitation of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-main-limitation-of-using-crude-rates-in-epidemiological-studies
 related_article4:
-    id: 162979
-    title: How do person, place, and time contribute to understanding disease patterns in descriptive epidemiology?
+    id: 162982
+    title: >-
+        What is the difference between a case fatality rate and a mortality rate?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-person-place-and-time-contribute-to-understanding-disease-patterns-in-descriptive-epidemiology
+    url: /learn/health-studies/questions/what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-rate
+related_article5:
+    id: 162981
+    title: >-
+        How do age-specific rates differ from crude rates in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-agespecific-rates-differ-from-crude-rates-in-epidemiology
 ---
 
 &nbsp;

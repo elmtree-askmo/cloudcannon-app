@@ -2,8 +2,10 @@
 _schema: default
 id: 166051
 date: 2025-01-29
-title: What were the sacrificial rites associated with Gallic deities?
-article_title: What were the sacrificial rites associated with Gallic deities?
+title: >-
+    What were the sacrificial rites associated with Gallic deities?
+article_title: >-
+    What were the sacrificial rites associated with Gallic deities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-were-the-sacrificial-rites-associated-with-gallic-deities.md
 url: /learn/others/questions/what-were-the-sacrificial-rites-associated-with-gallic-deities
 score: -1.0
 related_article1:
-    id: 166042
-    title: What was the significance of the First Triumvirate in Julius Caesar's political alliances?
+    id: 166054
+    title: >-
+        What were the religious beliefs of the Celts regarding human sacrifice?
     subject: Others
-    url: /learn/others/questions/what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-political-alliances
+    url: /learn/others/questions/what-were-the-religious-beliefs-of-the-celts-regarding-human-sacrifice
 related_article2:
-    id: 166046
-    title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
+    id: 166044
+    title: >-
+        What was the outcome of the Helvetii migration during the Gallic Wars?
     subject: Others
-    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
+    url: /learn/others/questions/what-was-the-outcome-of-the-helvetii-migration-during-the-gallic-wars
 related_article3:
-    id: 166042
-    title: What was the significance of the First Triumvirate in Julius Caesar's political alliances?
+    id: 166041
+    title: >-
+        How did Greek sources describe the martial prowess of the Celts?
     subject: Others
-    url: /learn/others/questions/what-was-the-significance-of-the-first-triumvirate-in-julius-caesars-political-alliances
+    url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
 related_article4:
-    id: 166046
-    title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
+    id: 166047
+    title: >-
+        What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
     subject: Others
-    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
+    url: /learn/others/questions/what-influence-did-posidonius-have-on-caesars-ethnographic-descriptions-in-de-bello-gallico
 related_article5:
     id: 166041
-    title: How did Greek sources describe the martial prowess of the Celts?
+    title: >-
+        How did Greek sources describe the martial prowess of the Celts?
     subject: Others
     url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
 ---

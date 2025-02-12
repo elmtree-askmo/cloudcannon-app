@@ -2,8 +2,10 @@
 _schema: default
 id: 168555
 date: 2025-02-03
-title: What role does empathy play in building better relationships during discussions?
-article_title: What role does empathy play in building better relationships during discussions?
+title: >-
+    What role does empathy play in building better relationships during discussions?
+article_title: >-
+    What role does empathy play in building better relationships during discussions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-empathy-play-in-building-better-relationships-during-d
 url: /learn/education-studies/questions/what-role-does-empathy-play-in-building-better-relationships-during-discussions
 score: -1.0
 related_article1:
-    id: 168554
-    title: How can understanding diverse perspectives lead to personal growth?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-understanding-diverse-perspectives-lead-to-personal-growth
-related_article2:
-    id: 168547
-    title: Why is it important to justify opinions with evidence and logical reasoning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-justify-opinions-with-evidence-and-logical-reasoning
-related_article3:
     id: 168543
-    title: How can open-ended questions improve active listening skills?
+    title: >-
+        How can open-ended questions improve active listening skills?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-openended-questions-improve-active-listening-skills
+related_article2:
+    id: 168543
+    title: >-
+        How can open-ended questions improve active listening skills?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-openended-questions-improve-active-listening-skills
+related_article3:
+    id: 168557
+    title: >-
+        Why is evidence crucial in strengthening claims during discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-evidence-crucial-in-strengthening-claims-during-discussions
 related_article4:
-    id: 168556
-    title: What are some techniques to foster empathy in discussions?
+    id: 168546
+    title: >-
+        How does engaging in collegial discussions help in discovering new perspectives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-techniques-to-foster-empathy-in-discussions
+    url: /learn/education-studies/questions/how-does-engaging-in-collegial-discussions-help-in-discovering-new-perspectives
 related_article5:
-    id: 168564
-    title: What techniques can be used to summarize discussions effectively?
+    id: 168561
+    title: >-
+        Why is drawing conclusions important in decision-making processes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-summarize-discussions-effectively
+    url: /learn/education-studies/questions/why-is-drawing-conclusions-important-in-decisionmaking-processes
 ---
 
 &nbsp;

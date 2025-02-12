@@ -2,8 +2,10 @@
 _schema: default
 id: 166926
 date: 2025-01-31
-title: What role do feedback systems play in maintaining homeostasis?
-article_title: What role do feedback systems play in maintaining homeostasis?
+title: >-
+    What role do feedback systems play in maintaining homeostasis?
+article_title: >-
+    What role do feedback systems play in maintaining homeostasis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-feedback-systems-play-in-maintaining-homeostasis.md
 url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
 score: -1.0
 related_article1:
-    id: 166910
-    title: Why is developing predictions important in experimentation?
+    id: 166916
+    title: >-
+        What processes are involved in growth and development, and how do nutrients play a role?
     subject: Biology
-    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
+    url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
 related_article2:
-    id: 166914
-    title: How do organisms respond to stimuli, and why is this important?
+    id: 166930
+    title: >-
+        How do hormonal regulation and nervous system control contribute to biological regulation?
     subject: Biology
-    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-important
+    url: /learn/biology/questions/how-do-hormonal-regulation-and-nervous-system-control-contribute-to-biological-regulation
 related_article3:
-    id: 166912
-    title: How do scientists analyze results to evaluate a hypothesis?
+    id: 166924
+    title: >-
+        What is the concept of fitness in the context of differential reproductive success?
     subject: Biology
-    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
 related_article4:
+    id: 166922
+    title: >-
+        What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
+related_article5:
     id: 166910
-    title: Why is developing predictions important in experimentation?
+    title: >-
+        Why is developing predictions important in experimentation?
     subject: Biology
     url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
-related_article5:
-    id: 166925
-    title: How is a phylogenetic tree constructed, and why is it important in biology?
-    subject: Biology
-    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
 ---
 
 &nbsp;

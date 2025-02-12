@@ -2,8 +2,10 @@
 _schema: default
 id: 169987
 date: 2025-02-05
-title: What factors influence aquatic ecosystem productivity?
-article_title: What factors influence aquatic ecosystem productivity?
+title: >-
+    What factors influence aquatic ecosystem productivity?
+article_title: >-
+    What factors influence aquatic ecosystem productivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-aquatic-ecosystem-productivity.md
 url: /learn/environmental-science/questions/what-factors-influence-aquatic-ecosystem-productivity
 score: -1.0
 related_article1:
-    id: 169984
-    title: What are the key components of experimental design in ecological research?
+    id: 169981
+    title: >-
+        What is cultural eutrophication, and what are its primary causes?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-key-components-of-experimental-design-in-ecological-research
+    url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
 related_article2:
-    id: 169973
-    title: What are the key roles of long-term ecological research areas in understanding global climate change?
+    id: 169983
+    title: >-
+        What role does vegetation play in influencing water temperature dynamics in watersheds?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
+    url: /learn/environmental-science/questions/what-role-does-vegetation-play-in-influencing-water-temperature-dynamics-in-watersheds
 related_article3:
+    id: 169981
+    title: >-
+        What is cultural eutrophication, and what are its primary causes?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
+related_article4:
     id: 169976
-    title: How do changes in water temperature influence aquatic ecosystem productivity?
+    title: >-
+        How do changes in water temperature influence aquatic ecosystem productivity?
     subject: Environmental Science
     url: /learn/environmental-science/questions/how-do-changes-in-water-temperature-influence-aquatic-ecosystem-productivity
-related_article4:
-    id: 169988
-    title: What is the historical significance of the Experimental Lakes Area in ecological research?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-is-the-historical-significance-of-the-experimental-lakes-area-in-ecological-research
 related_article5:
-    id: 169973
-    title: What are the key roles of long-term ecological research areas in understanding global climate change?
+    id: 169974
+    title: >-
+        How does the Hubbard Brook Ecosystem contribute to long-term ecological research?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
+    url: /learn/environmental-science/questions/how-does-the-hubbard-brook-ecosystem-contribute-to-longterm-ecological-research
 ---
 
 &nbsp;

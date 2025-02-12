@@ -2,8 +2,10 @@
 _schema: default
 id: 166597
 date: 2025-01-30
-title: What are the advantages and disadvantages of traditional versus innovative assessment types?
-article_title: What are the advantages and disadvantages of traditional versus innovative assessment types?
+title: >-
+    What are the advantages and disadvantages of traditional versus innovative assessment types?
+article_title: >-
+    What are the advantages and disadvantages of traditional versus innovative assessment types?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,27 @@ file_name: what-are-the-advantages-and-disadvantages-of-traditional-versus-innov
 url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-traditional-versus-innovative-assessment-types
 score: -1.0
 related_article1:
-    id: 166582
-    title: What strategies can be used to adapt study techniques to different learning styles?
+    id: 166596
+    title: >-
+        How do academic standards influence curriculum design and course objectives?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-used-to-adapt-study-techniques-to-different-learning-styles
+    url: /learn/education-studies/questions/how-do-academic-standards-influence-curriculum-design-and-course-objectives
 related_article2:
-    id: 166589
-    title: What is the role of summative assessment in determining academic performance?
+    id: 166581
+    title: >-
+        How does emotional intelligence influence academic performance and learning styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-summative-assessment-in-determining-academic-performance
+    url: /learn/education-studies/questions/how-does-emotional-intelligence-influence-academic-performance-and-learning-styles
 related_article3:
-    id: 166595
-    title: What considerations are important when designing effective assessment instruments?
+    id: 166588
+    title: >-
+        How does formative assessment contribute to enhancing learning outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-considerations-are-important-when-designing-effective-assessment-instruments
+    url: /learn/education-studies/questions/how-does-formative-assessment-contribute-to-enhancing-learning-outcomes
 related_article4:
-    id: 166586
-    title: What study techniques are most effective for exam preparation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-study-techniques-are-most-effective-for-exam-preparation
-related_article5:
     id: 166589
-    title: What is the role of summative assessment in determining academic performance?
+    title: >-
+        What is the role of summative assessment in determining academic performance?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-summative-assessment-in-determining-academic-performance
 ---

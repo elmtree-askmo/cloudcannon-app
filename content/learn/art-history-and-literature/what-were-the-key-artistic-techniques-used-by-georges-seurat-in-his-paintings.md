@@ -2,8 +2,10 @@
 _schema: default
 id: 170269
 date: 2025-02-06
-title: What were the key artistic techniques used by Georges Seurat in his paintings?
-article_title: What were the key artistic techniques used by Georges Seurat in his paintings?
+title: >-
+    What were the key artistic techniques used by Georges Seurat in his paintings?
+article_title: >-
+    What were the key artistic techniques used by Georges Seurat in his paintings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-artistic-techniques-used-by-georges-seurat-in-his-p
 url: /learn/art-history-and-literature/questions/what-were-the-key-artistic-techniques-used-by-georges-seurat-in-his-paintings
 score: 9.0
 related_article1:
-    id: 170261
-    title: What is Pointillism, and how did Georges Seurat apply this technique in his work?
+    id: 170273
+    title: >-
+        What role did industrialization and urbanization play in the historical context of Neo-Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-pointillism-and-how-did-georges-seurat-apply-this-technique-in-his-work
+    url: /learn/art-history-and-literature/questions/what-role-did-industrialization-and-urbanization-play-in-the-historical-context-of-neoimpressionism
 related_article2:
+    id: 170266
+    title: >-
+        How did Neo-Impressionism influence modern art movements?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-influence-modern-art-movements
+related_article3:
+    id: 170266
+    title: >-
+        How did Neo-Impressionism influence modern art movements?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-influence-modern-art-movements
+related_article4:
+    id: 170268
+    title: >-
+        How did political symbolism manifest in Neo-Impressionist artworks?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-political-symbolism-manifest-in-neoimpressionist-artworks
+related_article5:
     id: 170264
-    title: How did Neo-Impressionism differ from Impressionism in terms of subject matter?
+    title: >-
+        How did Neo-Impressionism differ from Impressionism in terms of subject matter?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-neoimpressionism-differ-from-impressionism-in-terms-of-subject-matter
-related_article3:
-    id: 170265
-    title: What were the main similarities and differences between Neo-Impressionism and Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-main-similarities-and-differences-between-neoimpressionism-and-impressionism
-related_article4:
-    id: 170262
-    title: How did scientific techniques influence the color theory used in Neo-Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-scientific-techniques-influence-the-color-theory-used-in-neoimpressionism
-related_article5:
-    id: 170260
-    title: How did Georges Seurat contribute to the development of Neo-Impressionism?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-georges-seurat-contribute-to-the-development-of-neoimpressionism
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165735
 date: 2025-01-29
-title: How do you determine the number of hosts required per subnet and allocate addresses efficiently?
-article_title: How do you determine the number of hosts required per subnet and allocate addresses efficiently?
+title: >-
+    How do you determine the number of hosts required per subnet and allocate addresses efficiently?
+article_title: >-
+    How do you determine the number of hosts required per subnet and allocate addresses efficiently?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allo
 url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
 score: -1.0
 related_article1:
+    id: 165733
+    title: >-
+        How does subnetting contribute to reducing broadcast traffic and improving network performance?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-subnetting-contribute-to-reducing-broadcast-traffic-and-improving-network-performance
+related_article2:
+    id: 165722
+    title: >-
+        What are the main components of an IPv4 address structure?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-ipv4-address-structure
+related_article3:
     id: 165736
-    title: What strategies can be used to minimize unused addresses in a subnet?
+    title: >-
+        What strategies can be used to minimize unused addresses in a subnet?
     subject: Computer Science
     url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
-related_article2:
-    id: 165734
-    title: What role do security policies play in managing network traffic between subnets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
-related_article3:
-    id: 165723
-    title: How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 related_article4:
-    id: 165732
-    title: What are the configuration requirements for using public IPv4 address space in a DMZ?
+    id: 165724
+    title: >-
+        What is the primary purpose of subnetting in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-requirements-for-using-public-ipv4-address-space-in-a-dmz
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
 related_article5:
-    id: 165734
-    title: What role do security policies play in managing network traffic between subnets?
+    id: 165729
+    title: >-
+        What are the differences between common subnet masks such as /8, /16, and /24?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
+    url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
 ---
 
 &nbsp;

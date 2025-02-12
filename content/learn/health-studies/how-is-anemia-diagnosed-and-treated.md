@@ -2,8 +2,10 @@
 _schema: default
 id: 166314
 date: 2025-01-30
-title: How is anemia diagnosed and treated?
-article_title: How is anemia diagnosed and treated?
+title: >-
+    How is anemia diagnosed and treated?
+article_title: >-
+    How is anemia diagnosed and treated?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-anemia-diagnosed-and-treated.md
 url: /learn/health-studies/questions/how-is-anemia-diagnosed-and-treated
 score: -1.0
 related_article1:
-    id: 166313
-    title: What are the common causes and symptoms of anemia?
+    id: 166295
+    title: >-
+        What are the primary risk factors for developing leukemia related to radiation exposure?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-causes-and-symptoms-of-anemia
+    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
 related_article2:
-    id: 166296
-    title: How do chemical and drug exposures increase the risk of leukemia?
+    id: 166302
+    title: >-
+        How does the consolidation phase differ from the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-chemical-and-drug-exposures-increase-the-risk-of-leukemia
+    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
 related_article3:
-    id: 166292
-    title: What biopsy techniques are commonly used in the diagnosis of leukemia?
+    id: 166301
+    title: >-
+        What is the goal of the induction phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
+    url: /learn/health-studies/questions/what-is-the-goal-of-the-induction-phase-in-leukemia-treatment
 related_article4:
-    id: 166306
-    title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    id: 166300
+    title: >-
+        How does organ infiltration present in leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
+    url: /learn/health-studies/questions/how-does-organ-infiltration-present-in-leukemia
 related_article5:
-    id: 166296
-    title: How do chemical and drug exposures increase the risk of leukemia?
+    id: 166316
+    title: >-
+        How is thrombocytopenia diagnosed and treated?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-chemical-and-drug-exposures-increase-the-risk-of-leukemia
+    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
 ---
 
 &nbsp;

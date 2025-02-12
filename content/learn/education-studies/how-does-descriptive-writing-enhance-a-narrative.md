@@ -2,8 +2,10 @@
 _schema: default
 id: 168611
 date: 2025-02-03
-title: How does descriptive writing enhance a narrative?
-article_title: How does descriptive writing enhance a narrative?
+title: >-
+    How does descriptive writing enhance a narrative?
+article_title: >-
+    How does descriptive writing enhance a narrative?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-descriptive-writing-enhance-a-narrative.md
 url: /learn/education-studies/questions/how-does-descriptive-writing-enhance-a-narrative
 score: -1.0
 related_article1:
-    id: 168617
-    title: What is the role of narrative voice in personal narratives?
+    id: 168625
+    title: >-
+        What is the purpose of a narrative, and how can it be effectively communicated?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-narrative-voice-in-personal-narratives
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-narrative-and-how-can-it-be-effectively-communicated
 related_article2:
-    id: 168624
-    title: How does writing style influence audience engagement in narratives?
+    id: 168612
+    title: >-
+        What role do sensory details play in narrative writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-writing-style-influence-audience-engagement-in-narratives
+    url: /learn/education-studies/questions/what-role-do-sensory-details-play-in-narrative-writing
 related_article3:
     id: 168622
-    title: How do mood and tone contribute to the reader's experience of a narrative?
+    title: >-
+        How do mood and tone contribute to the reader's experience of a narrative?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-mood-and-tone-contribute-to-the-readers-experience-of-a-narrative
 related_article4:
-    id: 168624
-    title: How does writing style influence audience engagement in narratives?
+    id: 168626
+    title: >-
+        What are the key differences between personal narratives and narrative reports?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-writing-style-influence-audience-engagement-in-narratives
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-personal-narratives-and-narrative-reports
+related_article5:
+    id: 168610
+    title: >-
+        What are some key storytelling techniques used in narrative writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-key-storytelling-techniques-used-in-narrative-writing
 ---
 
 &nbsp;

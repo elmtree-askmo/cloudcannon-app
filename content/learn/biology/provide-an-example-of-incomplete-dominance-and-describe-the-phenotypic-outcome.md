@@ -2,8 +2,10 @@
 _schema: default
 id: 167870
 date: 2025-02-01
-title: Provide an example of incomplete dominance and describe the phenotypic outcome.
-article_title: Provide an example of incomplete dominance and describe the phenotypic outcome.
+title: >-
+    Provide an example of incomplete dominance and describe the phenotypic outcome.
+article_title: >-
+    Provide an example of incomplete dominance and describe the phenotypic outcome.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: provide-an-example-of-incomplete-dominance-and-describe-the-phenotypi
 url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
 score: -1.0
 related_article1:
-    id: 167874
-    title: How do antigen variations contribute to blood type differences?
+    id: 167879
+    title: >-
+        What are the key symbols used in pedigree analysis and what do they represent?
     subject: Biology
-    url: /learn/biology/questions/how-do-antigen-variations-contribute-to-blood-type-differences
+    url: /learn/biology/questions/what-are-the-key-symbols-used-in-pedigree-analysis-and-what-do-they-represent
 related_article2:
-    id: 167886
-    title: What is the genetic basis of cystic fibrosis?
+    id: 167873
+    title: >-
+        Define multiple alleles and give an example involving blood types.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+    url: /learn/biology/questions/define-multiple-alleles-and-give-an-example-involving-blood-types
 related_article3:
-    id: 167888
-    title: What is genetic variation and why is it important in populations?
+    id: 167869
+    title: >-
+        What is incomplete dominance and how does it differ from complete dominance?
     subject: Biology
-    url: /learn/biology/questions/what-is-genetic-variation-and-why-is-it-important-in-populations
+    url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
 related_article4:
-    id: 167886
-    title: What is the genetic basis of cystic fibrosis?
+    id: 167892
+    title: >-
+        What are the different blood types and how are they determined?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
 related_article5:
-    id: 167891
-    title: How do genetic variations affect hemoglobin function?
+    id: 167877
+    title: >-
+        Explain the concept of incomplete penetrance with an example.
     subject: Biology
-    url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
+    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
 ---
 
 &nbsp;

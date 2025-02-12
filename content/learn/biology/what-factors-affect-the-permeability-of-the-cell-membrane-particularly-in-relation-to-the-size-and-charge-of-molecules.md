@@ -2,8 +2,10 @@
 _schema: default
 id: 168933
 date: 2025-02-04
-title: What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
-article_title: What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+title: >-
+    What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
+article_title: >-
+    What factors affect the permeability of the cell membrane, particularly in relation to the size and charge of molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-affect-the-permeability-of-the-cell-membrane-particularl
 url: /learn/biology/questions/what-factors-affect-the-permeability-of-the-cell-membrane-particularly-in-relation-to-the-size-and-charge-of-molecules
 score: -1.0
 related_article1:
-    id: 168934
-    title: Explain the process of diffusion and provide examples of substances that move by this method.
+    id: 168941
+    title: >-
+        How does the electrochemical gradient contribute to nerve impulse transmission and muscle contraction?
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
+    url: /learn/biology/questions/how-does-the-electrochemical-gradient-contribute-to-nerve-impulse-transmission-and-muscle-contraction
 related_article2:
-    id: 168937
-    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
-    subject: Biology
-    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
-related_article3:
     id: 168940
-    title: Define electrochemical gradient and explain its components.
+    title: >-
+        Define electrochemical gradient and explain its components.
     subject: Biology
     url: /learn/biology/questions/define-electrochemical-gradient-and-explain-its-components
+related_article3:
+    id: 168942
+    title: >-
+        What is the structure of ATP, and why is it considered the energy currency of the cell?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-of-atp-and-why-is-it-considered-the-energy-currency-of-the-cell
 related_article4:
-    id: 168937
-    title: How does the sodium-potassium pump function, and why is it important in nerve cells?
+    id: 168934
+    title: >-
+        Explain the process of diffusion and provide examples of substances that move by this method.
     subject: Biology
-    url: /learn/biology/questions/how-does-the-sodiumpotassium-pump-function-and-why-is-it-important-in-nerve-cells
+    url: /learn/biology/questions/explain-the-process-of-diffusion-and-provide-examples-of-substances-that-move-by-this-method
 related_article5:
-    id: 168939
-    title: What are the different types of endocytosis, and how do they function in cellular processes?
+    id: 168938
+    title: >-
+        Describe the process of exocytosis and provide examples of its role in neurotransmitter release.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-different-types-of-endocytosis-and-how-do-they-function-in-cellular-processes
+    url: /learn/biology/questions/describe-the-process-of-exocytosis-and-provide-examples-of-its-role-in-neurotransmitter-release
 ---
 
 &nbsp;

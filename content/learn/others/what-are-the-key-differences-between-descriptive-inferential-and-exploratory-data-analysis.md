@@ -2,8 +2,10 @@
 _schema: default
 id: 162826
 date: 2025-01-25
-title: What are the key differences between descriptive, inferential, and exploratory data analysis?
-article_title: What are the key differences between descriptive, inferential, and exploratory data analysis?
+title: >-
+    What are the key differences between descriptive, inferential, and exploratory data analysis?
+article_title: >-
+    What are the key differences between descriptive, inferential, and exploratory data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-descriptive-inferential-and-expl
 url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
 score: -1.0
 related_article1:
-    id: 162456
-    title: How do Hadoop and Spark differ in their approach to big data processing?
+    id: 162380
+    title: >-
+        What are the key technologies and applications of augmented reality?
     subject: Others
-    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
+    url: /learn/others/questions/what-are-the-key-technologies-and-applications-of-augmented-reality
 related_article2:
-    id: 162775
-    title: How do measures of central tendency differ from measures of variability in descriptive statistics?
+    id: 162776
+    title: >-
+        What is the role of hypothesis testing in inferential statistics?
     subject: Others
-    url: /learn/others/questions/how-do-measures-of-central-tendency-differ-from-measures-of-variability-in-descriptive-statistics
+    url: /learn/others/questions/what-is-the-role-of-hypothesis-testing-in-inferential-statistics
 related_article3:
-    id: 162365
-    title: What are the primary applications of Hadoop and Spark in big data technologies?
+    id: 162355
+    title: >-
+        What are the main types of machine learning algorithms, and how do they differ?
     subject: Others
-    url: /learn/others/questions/what-are-the-primary-applications-of-hadoop-and-spark-in-big-data-technologies
+    url: /learn/others/questions/what-are-the-main-types-of-machine-learning-algorithms-and-how-do-they-differ
 related_article4:
-    id: 162371
-    title: What are the common cybersecurity threats, and what measures can be taken to protect against them?
+    id: 162375
+    title: >-
+        How do Scrum and Kanban frameworks differ in Agile methodologies?
     subject: Others
-    url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-what-measures-can-be-taken-to-protect-against-them
+    url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
 related_article5:
-    id: 162357
-    title: What are the core concepts of artificial intelligence, and how do they apply to autonomous vehicles and virtual assistants?
+    id: 162378
+    title: >-
+        How do distributed ledger and smart contracts function in blockchain technology?
     subject: Others
-    url: /learn/others/questions/what-are-the-core-concepts-of-artificial-intelligence-and-how-do-they-apply-to-autonomous-vehicles-and-virtual-assistants
+    url: /learn/others/questions/how-do-distributed-ledger-and-smart-contracts-function-in-blockchain-technology
 ---
 
 &nbsp;

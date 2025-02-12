@@ -2,8 +2,10 @@
 _schema: default
 id: 165826
 date: 2025-01-29
-title: How do parasites manipulate host behavior to enhance transmission?
-article_title: How do parasites manipulate host behavior to enhance transmission?
+title: >-
+    How do parasites manipulate host behavior to enhance transmission?
+article_title: >-
+    How do parasites manipulate host behavior to enhance transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-parasites-manipulate-host-behavior-to-enhance-transmission.md
 url: /learn/biology/questions/how-do-parasites-manipulate-host-behavior-to-enhance-transmission
 score: -1.0
 related_article1:
-    id: 165822
-    title: What factors contribute to the distribution and abundance of parasites in a population?
+    id: 165807
+    title: >-
+        Describe the taxonomic hierarchy from kingdom to species.
     subject: Biology
-    url: /learn/biology/questions/what-factors-contribute-to-the-distribution-and-abundance-of-parasites-in-a-population
+    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
 related_article2:
-    id: 165815
-    title: Describe the concept of epidemiology in the context of parasite ecology.
+    id: 165827
+    title: >-
+        What survival strategies do parasites employ to ensure their persistence?
     subject: Biology
-    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
+    url: /learn/biology/questions/what-survival-strategies-do-parasites-employ-to-ensure-their-persistence
 related_article3:
-    id: 165818
-    title: Differentiate between endoparasites and ectoparasites.
+    id: 165808
+    title: >-
+        Provide an example of taxonomic classification for a specific organism.
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
+    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
 related_article4:
-    id: 165825
-    title: What are the differences between asexual and sexual reproduction in parasites?
+    id: 165823
+    title: >-
+        How does zoonosis affect epidemiology?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
+    url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 related_article5:
-    id: 165814
-    title: What are the main methods of disease transmission in parasite ecology?
+    id: 165806
+    title: >-
+        Explain the role of nomenclature in taxonomy.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+    url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
 ---
 
 &nbsp;

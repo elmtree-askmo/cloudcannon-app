@@ -2,8 +2,10 @@
 _schema: default
 id: 162014
 date: 2025-01-24
-title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
-article_title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+title: >-
+    How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+article_title: >-
+    How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydr
 url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
 score: -1.0
 related_article1:
-    id: 161750
-    title: What is the role of oxygen in combustion reactions?
+    id: 162037
+    title: >-
+        How can the formation of ions be described in the context of ionization?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
+    url: /learn/chemistry/questions/how-can-the-formation-of-ions-be-described-in-the-context-of-ionization
 related_article2:
-    id: 161966
-    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    id: 162028
+    title: >-
+        What are the characteristics of a liquid and provide an example.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
 related_article3:
-    id: 161931
-    title: What are the characteristics of a solid state of matter?
+    id: 161983
+    title: >-
+        How does the reactivity of iron with oxygen differ from that of hydrogen with oxygen?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+    url: /learn/chemistry/questions/how-does-the-reactivity-of-iron-with-oxygen-differ-from-that-of-hydrogen-with-oxygen
 related_article4:
-    id: 161945
-    title: What is the significance of balancing chemical equations in chemical reactions?
+    id: 162031
+    title: >-
+        What are the characteristics of a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-balancing-chemical-equations-in-chemical-reactions
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
 related_article5:
-    id: 162019
-    title: What are the indicators of a chemical change when silver ions react with chloride ions?
+    id: 162025
+    title: >-
+        Describe the characteristics of a solid and provide an example.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-silver-ions-react-with-chloride-ions
+    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
 ---
 
 &nbsp;

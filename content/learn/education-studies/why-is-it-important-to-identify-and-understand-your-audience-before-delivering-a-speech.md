@@ -2,8 +2,10 @@
 _schema: default
 id: 168532
 date: 2025-02-03
-title: Why is it important to identify and understand your audience before delivering a speech?
-article_title: Why is it important to identify and understand your audience before delivering a speech?
+title: >-
+    Why is it important to identify and understand your audience before delivering a speech?
+article_title: >-
+    Why is it important to identify and understand your audience before delivering a speech?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: why-is-it-important-to-identify-and-understand-your-audience-before-d
 url: /learn/education-studies/questions/why-is-it-important-to-identify-and-understand-your-audience-before-delivering-a-speech
 score: -1.0
 related_article1:
-    id: 168531
-    title: How can emotional appeal impact an audience during a speech?
+    id: 168542
+    title: >-
+        What are effective summarization techniques and how can personal bias be avoided?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
+    url: /learn/education-studies/questions/what-are-effective-summarization-techniques-and-how-can-personal-bias-be-avoided
 related_article2:
-    id: 168533
-    title: What techniques can be used to engage an audience effectively?
+    id: 168550
+    title: >-
+        What techniques can be used to manage disagreement respectfully in a discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-engage-an-audience-effectively
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
 related_article3:
-    id: 168529
-    title: How does syntax contribute to persuasion in speech?
+    id: 168535
+    title: >-
+        How can diction and syntax be evaluated in a speech critique?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
+    url: /learn/education-studies/questions/how-can-diction-and-syntax-be-evaluated-in-a-speech-critique
 related_article4:
-    id: 168538
-    title: What are some techniques for active listening and how do they benefit discussions?
+    id: 168534
+    title: >-
+        What are the key elements of providing constructive criticism?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-techniques-for-active-listening-and-how-do-they-benefit-discussions
-related_article5:
-    id: 168529
-    title: How does syntax contribute to persuasion in speech?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-syntax-contribute-to-persuasion-in-speech
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-providing-constructive-criticism
 ---
 
 &nbsp;

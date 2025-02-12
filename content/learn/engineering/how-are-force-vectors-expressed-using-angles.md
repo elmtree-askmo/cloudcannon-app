@@ -2,8 +2,10 @@
 _schema: default
 id: 166687
 date: 2025-01-31
-title: How are force vectors expressed using angles?
-article_title: How are force vectors expressed using angles?
+title: >-
+    How are force vectors expressed using angles?
+article_title: >-
+    How are force vectors expressed using angles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-force-vectors-expressed-using-angles.md
 url: /learn/engineering/questions/how-are-force-vectors-expressed-using-angles
 score: -1.0
 related_article1:
+    id: 166685
+    title: >-
+        What is the difference between kinematics and dynamics in mechanical systems?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-difference-between-kinematics-and-dynamics-in-mechanical-systems
+related_article2:
+    id: 166683
+    title: >-
+        What factors must be considered when analyzing tension in cables?
+    subject: Engineering
+    url: /learn/engineering/questions/what-factors-must-be-considered-when-analyzing-tension-in-cables
+related_article3:
+    id: 166675
+    title: >-
+        What is the magnitude of a force vector and how is it calculated?
+    subject: Engineering
+    url: /learn/engineering/questions/what-is-the-magnitude-of-a-force-vector-and-how-is-it-calculated
+related_article4:
+    id: 166677
+    title: >-
+        Explain the process of vector decomposition in force analysis.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-process-of-vector-decomposition-in-force-analysis
+related_article5:
     id: 166678
-    title: How are force components resolved in three-dimensional space?
+    title: >-
+        How are force components resolved in three-dimensional space?
     subject: Engineering
     url: /learn/engineering/questions/how-are-force-components-resolved-in-threedimensional-space
-related_article2:
-    id: 166686
-    title: How can trigonometry be used to calculate angles in force analysis?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
-related_article3:
-    id: 166681
-    title: Describe Hooke's Law and its relation to displacement and force.
-    subject: Engineering
-    url: /learn/engineering/questions/describe-hookes-law-and-its-relation-to-displacement-and-force
-related_article4:
-    id: 166686
-    title: How can trigonometry be used to calculate angles in force analysis?
-    subject: Engineering
-    url: /learn/engineering/questions/how-can-trigonometry-be-used-to-calculate-angles-in-force-analysis
-related_article5:
-    id: 166688
-    title: What steps are involved in breaking down forces for static analysis?
-    subject: Engineering
-    url: /learn/engineering/questions/what-steps-are-involved-in-breaking-down-forces-for-static-analysis
 ---
 
 &nbsp;

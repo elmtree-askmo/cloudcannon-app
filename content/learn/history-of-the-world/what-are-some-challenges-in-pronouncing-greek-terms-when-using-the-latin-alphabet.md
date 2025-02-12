@@ -2,8 +2,10 @@
 _schema: default
 id: 163586
 date: 2025-01-27
-title: What are some challenges in pronouncing Greek terms when using the Latin alphabet?
-article_title: What are some challenges in pronouncing Greek terms when using the Latin alphabet?
+title: >-
+    What are some challenges in pronouncing Greek terms when using the Latin alphabet?
+article_title: >-
+    What are some challenges in pronouncing Greek terms when using the Latin alphabet?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-la
 url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
 score: 8.5
 related_article1:
-    id: 163590
-    title: What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+    id: 163600
+    title: >-
+        What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
+    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
 related_article2:
-    id: 163589
-    title: How did non-Spartan authors contribute to the skewed perception of Sparta?
+    id: 163605
+    title: >-
+        What was the structure of Spartan demographics, and how did social mobility affect Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
+    url: /learn/history-of-the-world/questions/what-was-the-structure-of-spartan-demographics-and-how-did-social-mobility-affect-spartan-society
 related_article3:
-    id: 163593
-    title: Describe the social structure of Spartan society, including the roles of Spartiates, Perioikoi, and Helots.
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-social-structure-of-spartan-society-including-the-roles-of-spartiates-perioikoi-and-helots
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
 related_article4:
-    id: 163587
-    title: Why are certain Greek terms left untranslated in English scholarship?
+    id: 163594
+    title: >-
+        What was the Agoge system, and what role did it play in Spartan education and training?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
+    url: /learn/history-of-the-world/questions/what-was-the-agoge-system-and-what-role-did-it-play-in-spartan-education-and-training
 related_article5:
-    id: 163589
-    title: How did non-Spartan authors contribute to the skewed perception of Sparta?
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
 ---
 
 &nbsp;

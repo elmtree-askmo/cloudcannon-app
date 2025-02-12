@@ -2,8 +2,10 @@
 _schema: default
 id: 170174
 date: 2025-02-06
-title: Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
-article_title: Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
+title: >-
+    Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
+article_title: >-
+    Compare the contributions of Cornelius Nepos to the biography genre with those of Tacitus.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/compare-the-contributions-of-corneliu
 score: 9.0
 related_article1:
     id: 170177
-    title: What is the significance of Pictish stones in understanding Pictish art and symbolism?
+    title: >-
+        What is the significance of Pictish stones in understanding Pictish art and symbolism?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
 related_article2:
-    id: 170175
-    title: What are the historical theories regarding the origins and identity of the Pictish culture?
+    id: 170184
+    title: >-
+        Who was Calgacus, and what was his influence on Caledonian warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-historical-theories-regarding-the-origins-and-identity-of-the-pictish-culture
+    url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
 related_article3:
-    id: 170170
-    title: What were the tactical elements and historical significance of the Battle of Mons Graupius?
+    id: 170169
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-tactical-elements-and-historical-significance-of-the-battle-of-mons-graupius
+    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article4:
+    id: 170167
+    title: >-
+        Describe the construction techniques and cultural significance of round timber or stone houses in the Iron Age.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-construction-techniques-and-cultural-significance-of-round-timber-or-stone-houses-in-the-iron-age
+related_article5:
     id: 170177
-    title: What is the significance of Pictish stones in understanding Pictish art and symbolism?
+    title: >-
+        What is the significance of Pictish stones in understanding Pictish art and symbolism?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-significance-of-pictish-stones-in-understanding-pictish-art-and-symbolism
-related_article5:
-    id: 170180
-    title: What is the archaeological significance of Hadrian's Wall, and what efforts have been made for its preservation?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-archaeological-significance-of-hadrians-wall-and-what-efforts-have-been-made-for-its-preservation
 ---
 
 &nbsp;

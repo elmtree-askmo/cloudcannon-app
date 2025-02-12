@@ -2,8 +2,10 @@
 _schema: default
 id: 167330
 date: 2025-01-31
-title: What are the key differences between the sugar components of DNA and RNA?
-article_title: What are the key differences between the sugar components of DNA and RNA?
+title: >-
+    What are the key differences between the sugar components of DNA and RNA?
+article_title: >-
+    What are the key differences between the sugar components of DNA and RNA?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-the-sugar-components-of-dna-and-
 url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
 score: -1.0
 related_article1:
-    id: 167326
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    id: 167329
+    title: >-
+        Explain the concept of complementary base pairing and its importance in DNA stability.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
 related_article2:
-    id: 167327
-    title: Describe the primary structure of DNA and RNA and explain how they differ.
+    id: 167336
+    title: >-
+        Explain the amphipathic nature of phospholipids and its significance.
     subject: Biology
-    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 related_article3:
     id: 167326
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 related_article4:
-    id: 167324
-    title: What are the three main components of a nucleotide?
+    id: 167325
+    title: >-
+        How does a dehydration reaction contribute to the formation of nucleic acids?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-three-main-components-of-a-nucleotide
+    url: /learn/biology/questions/how-does-a-dehydration-reaction-contribute-to-the-formation-of-nucleic-acids
 related_article5:
-    id: 167326
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    id: 167336
+    title: >-
+        Explain the amphipathic nature of phospholipids and its significance.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
 ---
 
 &nbsp;

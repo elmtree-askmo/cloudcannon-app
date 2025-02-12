@@ -2,8 +2,10 @@
 _schema: default
 id: 161474
 date: 2025-01-24
-title: What symbol is used in flowcharts to represent the start or end of a process?
-article_title: What symbol is used in flowcharts to represent the start or end of a process?
+title: >-
+    What symbol is used in flowcharts to represent the start or end of a process?
+article_title: >-
+    What symbol is used in flowcharts to represent the start or end of a process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-
 url: /learn/computer-science/questions/what-symbol-is-used-in-flowcharts-to-represent-the-start-or-end-of-a-process
 score: -1.0
 related_article1:
-    id: 161194
-    title: How does process flow ensure the correct sequence of actions in a program?
+    id: 161479
+    title: >-
+        Differentiate between procedures and functions in subroutines.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-process-flow-ensure-the-correct-sequence-of-actions-in-a-program
+    url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
 related_article2:
-    id: 161197
-    title: How do control structures like sequence, selection, and iteration influence program flow?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
-related_article3:
-    id: 161189
-    title: What are the basic mathematical operators used in programming?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-basic-mathematical-operators-used-in-programming
-related_article4:
-    id: 161186
-    title: Explain the difference between count-controlled and condition-controlled loops.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
-related_article5:
-    id: 161190
-    title: How do comparison operators facilitate decision making in algorithms?
+    id: 161481
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+related_article3:
+    id: 161475
+    title: >-
+        How are input and output represented in a flowchart?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
+related_article4:
+    id: 161196
+    title: >-
+        What is the significance of variables in data storage and manipulation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-variables-in-data-storage-and-manipulation
+related_article5:
+    id: 161188
+    title: >-
+        Differentiate between procedures and functions in subroutines.
+    subject: Computer Science
+    url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
 ---
 
 &nbsp;

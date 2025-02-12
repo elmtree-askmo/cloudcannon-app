@@ -2,8 +2,10 @@
 _schema: default
 id: 168884
 date: 2025-02-04
-title: How does reference class forecasting help mitigate the planning fallacy?
-article_title: How does reference class forecasting help mitigate the planning fallacy?
+title: >-
+    How does reference class forecasting help mitigate the planning fallacy?
+article_title: >-
+    How does reference class forecasting help mitigate the planning fallacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-reference-class-forecasting-help-mitigate-the-planning-falla
 url: /learn/psychology/questions/how-does-reference-class-forecasting-help-mitigate-the-planning-fallacy
 score: -1.0
 related_article1:
-    id: 168882
-    title: Under what conditions can expert intuition be considered trustworthy?
+    id: 168881
+    title: >-
+        Why are statistical predictions often more reliable than clinical predictions?
     subject: Psychology
-    url: /learn/psychology/questions/under-what-conditions-can-expert-intuition-be-considered-trustworthy
+    url: /learn/psychology/questions/why-are-statistical-predictions-often-more-reliable-than-clinical-predictions
 related_article2:
-    id: 168891
-    title: How is experienced well-being measured using the Day Reconstruction Method?
+    id: 168886
+    title: >-
+        Describe the premortem strategy and its purpose in decision-making.
     subject: Psychology
-    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+    url: /learn/psychology/questions/describe-the-premortem-strategy-and-its-purpose-in-decisionmaking
 related_article3:
-    id: 168883
-    title: What is the planning fallacy and how does it affect project forecasts?
+    id: 168888
+    title: >-
+        What is the disposition effect and how does it affect investment decisions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-planning-fallacy-and-how-does-it-affect-project-forecasts
+    url: /learn/psychology/questions/what-is-the-disposition-effect-and-how-does-it-affect-investment-decisions
 related_article4:
-    id: 168890
-    title: What are preference reversals and how do they occur in decision-making?
+    id: 168893
+    title: >-
+        How can behavioral economics influence public policy?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-preference-reversals-and-how-do-they-occur-in-decisionmaking
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 related_article5:
-    id: 168891
-    title: How is experienced well-being measured using the Day Reconstruction Method?
+    id: 168893
+    title: >-
+        How can behavioral economics influence public policy?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-experienced-wellbeing-measured-using-the-day-reconstruction-method
+    url: /learn/psychology/questions/how-can-behavioral-economics-influence-public-policy
 ---
 
 &nbsp;

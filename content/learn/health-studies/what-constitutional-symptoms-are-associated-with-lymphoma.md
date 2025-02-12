@@ -2,8 +2,10 @@
 _schema: default
 id: 166309
 date: 2025-01-30
-title: What constitutional symptoms are associated with lymphoma?
-article_title: What constitutional symptoms are associated with lymphoma?
+title: >-
+    What constitutional symptoms are associated with lymphoma?
+article_title: >-
+    What constitutional symptoms are associated with lymphoma?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-constitutional-symptoms-are-associated-with-lymphoma.md
 url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
 score: -1.0
 related_article1:
-    id: 166316
-    title: How is thrombocytopenia diagnosed and treated?
+    id: 166303
+    title: >-
+        What is the purpose of the maintenance phase in leukemia treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-thrombocytopenia-diagnosed-and-treated
+    url: /learn/health-studies/questions/what-is-the-purpose-of-the-maintenance-phase-in-leukemia-treatment
 related_article2:
-    id: 166291
-    title: What are the main types of leukemia and their distinguishing features?
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
 related_article3:
-    id: 166308
-    title: What are the clinical manifestations of lymph node enlargement in lymphoma?
+    id: 166290
+    title: >-
+        How does pancytopenia manifest in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-clinical-manifestations-of-lymph-node-enlargement-in-lymphoma
+    url: /learn/health-studies/questions/how-does-pancytopenia-manifest-in-leukemia-patients
 related_article4:
-    id: 166315
-    title: What are the causes and symptoms of leukopenia and neutropenia?
+    id: 166295
+    title: >-
+        What are the primary risk factors for developing leukemia related to radiation exposure?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-causes-and-symptoms-of-leukopenia-and-neutropenia
+    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
 related_article5:
-    id: 166294
-    title: How do imaging studies contribute to the diagnosis of leukemia?
+    id: 166299
+    title: >-
+        What systemic symptoms are commonly observed in leukemia patients?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-imaging-studies-contribute-to-the-diagnosis-of-leukemia
+    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165513
 date: 2025-01-29
-title: Why is conceptual understanding important in math beyond memorization?
-article_title: Why is conceptual understanding important in math beyond memorization?
+title: >-
+    Why is conceptual understanding important in math beyond memorization?
+article_title: >-
+    Why is conceptual understanding important in math beyond memorization?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: why-is-conceptual-understanding-important-in-math-beyond-memorization
 url: /learn/education-studies/questions/why-is-conceptual-understanding-important-in-math-beyond-memorization
 score: -1.0
 related_article1:
-    id: 165518
-    title: What is the process of iterative note revision, and how does it help in condensing information?
+    id: 165515
+    title: >-
+        What are the stages of information processing, and how do they contribute to learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-iterative-note-revision-and-how-does-it-help-in-condensing-information
+    url: /learn/education-studies/questions/what-are-the-stages-of-information-processing-and-how-do-they-contribute-to-learning
 related_article2:
-    id: 165507
-    title: What is cognitive load and how does it impact learning?
+    id: 165520
+    title: >-
+        What techniques can be used to write effective questions for self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-cognitive-load-and-how-does-it-impact-learning
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-write-effective-questions-for-selfassessment
 related_article3:
-    id: 165523
-    title: What are the advantages of using digital note-taking tools for organization and accessibility?
+    id: 165516
+    title: >-
+        How can asking questions and making connections improve information processing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-digital-notetaking-tools-for-organization-and-accessibility
+    url: /learn/education-studies/questions/how-can-asking-questions-and-making-connections-improve-information-processing
 related_article4:
-    id: 165521
-    title: What are the steps involved in creating flowcharts, and how do they help visualize sequences?
+    id: 165520
+    title: >-
+        What techniques can be used to write effective questions for self-assessment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-involved-in-creating-flowcharts-and-how-do-they-help-visualize-sequences
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-write-effective-questions-for-selfassessment
 related_article5:
     id: 165521
-    title: What are the steps involved in creating flowcharts, and how do they help visualize sequences?
+    title: >-
+        What are the steps involved in creating flowcharts, and how do they help visualize sequences?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-steps-involved-in-creating-flowcharts-and-how-do-they-help-visualize-sequences
 ---

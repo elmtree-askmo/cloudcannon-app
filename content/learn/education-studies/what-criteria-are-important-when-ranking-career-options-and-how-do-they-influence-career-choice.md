@@ -2,8 +2,10 @@
 _schema: default
 id: 168431
 date: 2025-02-03
-title: What criteria are important when ranking career options and how do they influence career choice?
-article_title: What criteria are important when ranking career options and how do they influence career choice?
+title: >-
+    What criteria are important when ranking career options and how do they influence career choice?
+article_title: >-
+    What criteria are important when ranking career options and how do they influence career choice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-criteria-are-important-when-ranking-career-options-and-how-do-th
 url: /learn/education-studies/questions/what-criteria-are-important-when-ranking-career-options-and-how-do-they-influence-career-choice
 score: -1.0
 related_article1:
-    id: 168428
-    title: What methods can be used to research and understand job roles and responsibilities in recommended careers?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-can-be-used-to-research-and-understand-job-roles-and-responsibilities-in-recommended-careers
-related_article2:
     id: 168426
-    title: How can personality and career alignment lead to surprising career matches?
+    title: >-
+        How can personality and career alignment lead to surprising career matches?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-personality-and-career-alignment-lead-to-surprising-career-matches
+related_article2:
+    id: 168430
+    title: >-
+        How can one create a skill development plan to address identified areas for improvement?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-one-create-a-skill-development-plan-to-address-identified-areas-for-improvement
 related_article3:
-    id: 168430
-    title: How can one create a skill development plan to address identified areas for improvement?
+    id: 168421
+    title: >-
+        What are the key components of personality inventories used in self-assessment questionnaires?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-create-a-skill-development-plan-to-address-identified-areas-for-improvement
+    url: /learn/education-studies/questions/what-are-the-key-components-of-personality-inventories-used-in-selfassessment-questionnaires
 related_article4:
-    id: 168428
-    title: What methods can be used to research and understand job roles and responsibilities in recommended careers?
+    id: 168422
+    title: >-
+        How can understanding personality types influence career choices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-can-be-used-to-research-and-understand-job-roles-and-responsibilities-in-recommended-careers
+    url: /learn/education-studies/questions/how-can-understanding-personality-types-influence-career-choices
 related_article5:
-    id: 168430
-    title: How can one create a skill development plan to address identified areas for improvement?
+    id: 168423
+    title: >-
+        What is the significance of aligning personal interests and values with career options?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-one-create-a-skill-development-plan-to-address-identified-areas-for-improvement
+    url: /learn/education-studies/questions/what-is-the-significance-of-aligning-personal-interests-and-values-with-career-options
 ---
 
 &nbsp;

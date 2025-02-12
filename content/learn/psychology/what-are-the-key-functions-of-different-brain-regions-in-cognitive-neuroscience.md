@@ -2,8 +2,10 @@
 _schema: default
 id: 164670
 date: 2025-01-28
-title: What are the key functions of different brain regions in cognitive neuroscience?
-article_title: What are the key functions of different brain regions in cognitive neuroscience?
+title: >-
+    What are the key functions of different brain regions in cognitive neuroscience?
+article_title: >-
+    What are the key functions of different brain regions in cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-functions-of-different-brain-regions-in-cognitive-ne
 url: /learn/psychology/questions/what-are-the-key-functions-of-different-brain-regions-in-cognitive-neuroscience
 score: -1.0
 related_article1:
-    id: 164677
-    title: How does language processing relate to cognitive functions?
+    id: 164676
+    title: >-
+        What is the role of PET scans in brain imaging?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-language-processing-relate-to-cognitive-functions
+    url: /learn/psychology/questions/what-is-the-role-of-pet-scans-in-brain-imaging
 related_article2:
-    id: 164671
-    title: How do brain networks contribute to overall brain function?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
-related_article3:
-    id: 164678
-    title: What are common language disorders and their impact on cognition?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-common-language-disorders-and-their-impact-on-cognition
-related_article4:
-    id: 164694
-    title: What are the career paths available for students pursuing a neuroscience minor?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-career-paths-available-for-students-pursuing-a-neuroscience-minor
-related_article5:
     id: 164686
-    title: What are the common neurological disorders treated with neuroscience applications?
+    title: >-
+        What are the common neurological disorders treated with neuroscience applications?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
+related_article3:
+    id: 164686
+    title: >-
+        What are the common neurological disorders treated with neuroscience applications?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-neurological-disorders-treated-with-neuroscience-applications
+related_article4:
+    id: 164695
+    title: >-
+        How is data analytics used in the interpretation of neuroscience research results?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
+related_article5:
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169049
 date: 2025-02-04
-title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
-article_title: What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+title: >-
+    What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
+article_title: >-
+    What is the symbolic importance of Tianan Gate, and how does the state attempt to control public space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state
 url: /learn/sociology/questions/what-is-the-symbolic-importance-of-tianan-gate-and-how-does-the-state-attempt-to-control-public-space
 score: -1.0
 related_article1:
-    id: 169055
-    title: What is the political significance of spatial transformation in shaping public space and political action?
+    id: 169045
+    title: >-
+        What role did the development of public parks play in the spatial change of Beijing and its influence on political action?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-political-significance-of-spatial-transformation-in-shaping-public-space-and-political-action
+    url: /learn/sociology/questions/what-role-did-the-development-of-public-parks-play-in-the-spatial-change-of-beijing-and-its-influence-on-political-action
 related_article2:
-    id: 169053
-    title: What is the role of human agency in Arendt's concept of public space, and why is collective action important?
+    id: 169043
+    title: >-
+        Compare Arendt's conception of public space with Habermas's public sphere. What are the implications of their differences?
     subject: Sociology
-    url: /learn/sociology/questions/what-is-the-role-of-human-agency-in-arendts-concept-of-public-space-and-why-is-collective-action-important
+    url: /learn/sociology/questions/compare-arendts-conception-of-public-space-with-habermass-public-sphere-what-are-the-implications-of-their-differences
 related_article3:
-    id: 169052
-    title: Discuss the vulnerability of Habermas's public sphere to state pressure and its structural transformation.
+    id: 169041
+    title: >-
+        What is the historical significance of Tiananmen Square in the context of the May Fourth Movement?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-the-vulnerability-of-habermass-public-sphere-to-state-pressure-and-its-structural-transformation
+    url: /learn/sociology/questions/what-is-the-historical-significance-of-tiananmen-square-in-the-context-of-the-may-fourth-movement
 related_article4:
-    id: 169048
-    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    id: 169046
+    title: >-
+        What are the different types of collective political actions, and how do they utilize space in Beijing?
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+    url: /learn/sociology/questions/what-are-the-different-types-of-collective-political-actions-and-how-do-they-utilize-space-in-beijing
 related_article5:
-    id: 169048
-    title: Describe the transformation of Tiananmen Square from an empty space to a political symbol.
+    id: 169039
+    title: >-
+        What were the key spatial changes in Republican Beijing that impacted collective political action?
     subject: Sociology
-    url: /learn/sociology/questions/describe-the-transformation-of-tiananmen-square-from-an-empty-space-to-a-political-symbol
+    url: /learn/sociology/questions/what-were-the-key-spatial-changes-in-republican-beijing-that-impacted-collective-political-action
 ---
 
 &nbsp;

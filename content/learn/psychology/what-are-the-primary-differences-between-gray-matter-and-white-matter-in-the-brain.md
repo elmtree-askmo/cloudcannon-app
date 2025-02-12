@@ -2,8 +2,10 @@
 _schema: default
 id: 170460
 date: 2025-02-06
-title: What are the primary differences between gray matter and white matter in the brain?
-article_title: What are the primary differences between gray matter and white matter in the brain?
+title: >-
+    What are the primary differences between gray matter and white matter in the brain?
+article_title: >-
+    What are the primary differences between gray matter and white matter in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-differences-between-gray-matter-and-white-matter
 url: /learn/psychology/questions/what-are-the-primary-differences-between-gray-matter-and-white-matter-in-the-brain
 score: -1.0
 related_article1:
-    id: 170474
-    title: What are the primary functions of the olfactory and optic nerves?
+    id: 170483
+    title: >-
+        What are the components of a reflex arc in neural pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-olfactory-and-optic-nerves
+    url: /learn/psychology/questions/what-are-the-components-of-a-reflex-arc-in-neural-pathways
 related_article2:
-    id: 170463
-    title: Why is phrenology considered a pseudoscience, and what impact did it have on modern brain mapping techniques?
+    id: 170482
+    title: >-
+        What is the role of the primary motor cortex in motor control?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-phrenology-considered-a-pseudoscience-and-what-impact-did-it-have-on-modern-brain-mapping-techniques
+    url: /learn/psychology/questions/what-is-the-role-of-the-primary-motor-cortex-in-motor-control
 related_article3:
-    id: 170481
-    title: How do biological mechanisms influence pain tolerance?
+    id: 170478
+    title: >-
+        What are the differences between functional and structural neuroimaging techniques?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-biological-mechanisms-influence-pain-tolerance
+    url: /learn/psychology/questions/what-are-the-differences-between-functional-and-structural-neuroimaging-techniques
 related_article4:
-    id: 170484
-    title: How did Brodmann areas contribute to the understanding of brain mapping?
+    id: 170485
+    title: >-
+        What are the key stages of prenatal and postnatal neurodevelopment?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-brodmann-areas-contribute-to-the-understanding-of-brain-mapping
+    url: /learn/psychology/questions/what-are-the-key-stages-of-prenatal-and-postnatal-neurodevelopment
 related_article5:
-    id: 170479
-    title: What are the common causes and effects of traumatic brain injury?
+    id: 170473
+    title: >-
+        How do short-term and long-term memory systems differ in the limbic system?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-common-causes-and-effects-of-traumatic-brain-injury
+    url: /learn/psychology/questions/how-do-shortterm-and-longterm-memory-systems-differ-in-the-limbic-system
 ---
 
 &nbsp;

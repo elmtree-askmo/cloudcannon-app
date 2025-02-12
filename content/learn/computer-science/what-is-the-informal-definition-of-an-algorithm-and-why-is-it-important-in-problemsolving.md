@@ -2,8 +2,10 @@
 _schema: default
 id: 161149
 date: 2025-01-24
-title: What is the informal definition of an algorithm and why is it important in problem-solving?
-article_title: What is the informal definition of an algorithm and why is it important in problem-solving?
+title: >-
+    What is the informal definition of an algorithm and why is it important in problem-solving?
+article_title: >-
+    What is the informal definition of an algorithm and why is it important in problem-solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-informal-definition-of-an-algorithm-and-why-is-it-importa
 url: /learn/computer-science/questions/what-is-the-informal-definition-of-an-algorithm-and-why-is-it-important-in-problemsolving
 score: -1.0
 related_article1:
-    id: 161053
-    title: What is the informal definition of an algorithm and why is it important in problem-solving?
+    id: 161155
+    title: >-
+        Why are data structures crucial in algorithm design?
+    subject: Computer Science
+    url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
+related_article2:
+    id: 160932
+    title: >-
+        Compare the efficiency of insertion sort and merge sort with respect to input size.
+    subject: Computer Science
+    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-with-respect-to-input-size
+related_article3:
+    id: 160927
+    title: >-
+        What is the informal definition of an algorithm and why is it important in problem-solving?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-informal-definition-of-an-algorithm-and-why-is-it-important-in-problemsolving
-related_article2:
-    id: 161150
-    title: How can you determine if an algorithm is correct or incorrect?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-determine-if-an-algorithm-is-correct-or-incorrect
-related_article3:
-    id: 161154
-    title: Compare the efficiency of insertion sort and merge sort in terms of input size.
-    subject: Computer Science
-    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-in-terms-of-input-size
 related_article4:
-    id: 160939
-    title: How do machine learning algorithms differ from traditional algorithms in terms of design and application?
+    id: 160927
+    title: >-
+        What is the informal definition of an algorithm and why is it important in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-machine-learning-algorithms-differ-from-traditional-algorithms-in-terms-of-design-and-application
+    url: /learn/computer-science/questions/what-is-the-informal-definition-of-an-algorithm-and-why-is-it-important-in-problemsolving
 related_article5:
-    id: 161058
-    title: Compare the efficiency of insertion sort and merge sort in terms of input size.
+    id: 161163
+    title: >-
+        How do clustering algorithms assist in medical diagnosis?
     subject: Computer Science
-    url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-in-terms-of-input-size
+    url: /learn/computer-science/questions/how-do-clustering-algorithms-assist-in-medical-diagnosis
 ---
 
 &nbsp;

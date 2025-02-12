@@ -2,8 +2,10 @@
 _schema: default
 id: 166029
 date: 2025-01-29
-title: What were the defining characteristics of oligarchic factions in ancient Athens?
-article_title: What were the defining characteristics of oligarchic factions in ancient Athens?
+title: >-
+    What were the defining characteristics of oligarchic factions in ancient Athens?
+article_title: >-
+    What were the defining characteristics of oligarchic factions in ancient Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-defining-characteristics-of-oligarchic-factions-in-anci
 url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
 score: 8.0
 related_article1:
-    id: 166018
-    title: How did the geographical location of Athens contribute to its economic importance?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-geographical-location-of-athens-contribute-to-its-economic-importance
-related_article2:
-    id: 166036
-    title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
-related_article3:
-    id: 166017
-    title: What was the historical significance of Athens as an urban center in ancient times?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
-related_article4:
     id: 166034
-    title: What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
+    title: >-
+        What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
-related_article5:
-    id: 166021
-    title: How did the concept of direct democracy function in ancient Athens?
+related_article2:
+    id: 166037
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
+    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
+related_article3:
+    id: 166037
+    title: >-
+        What were the lasting impacts of Solon and Kleisthenes' reforms on Athenian democracy?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-lasting-impacts-of-solon-and-kleisthenes-reforms-on-athenian-democracy
+related_article4:
+    id: 166019
+    title: >-
+        What is the myth of Synoikism, and how does it relate to the Attica region?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
+related_article5:
+    id: 166034
+    title: >-
+        What were the civic responsibilities of Athenian citizens, particularly in terms of military obligations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-civic-responsibilities-of-athenian-citizens-particularly-in-terms-of-military-obligations
 ---
 
 &nbsp;

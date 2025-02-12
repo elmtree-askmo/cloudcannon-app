@@ -2,8 +2,10 @@
 _schema: default
 id: 170837
 date: 2025-02-07
-title: Describe frequency-dependent selection in evolutionary game theory.
-article_title: Describe frequency-dependent selection in evolutionary game theory.
+title: >-
+    Describe frequency-dependent selection in evolutionary game theory.
+article_title: >-
+    Describe frequency-dependent selection in evolutionary game theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-frequencydependent-selection-in-evolutionary-game-theory.md
 url: /learn/psychology/questions/describe-frequencydependent-selection-in-evolutionary-game-theory
 score: -1.0
 related_article1:
-    id: 170843
-    title: How does Nash Equilibrium apply to competitive interactions in economics?
+    id: 170836
+    title: >-
+        What are competitive interactions, and how do they relate to rational choice theory?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
+    url: /learn/psychology/questions/what-are-competitive-interactions-and-how-do-they-relate-to-rational-choice-theory
 related_article2:
-    id: 170838
-    title: How does strategy evolution occur in the context of fitness landscapes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-strategy-evolution-occur-in-the-context-of-fitness-landscapes
-related_article3:
-    id: 170840
-    title: How do theoretical frameworks in biology utilize mathematical modeling?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
-related_article4:
     id: 170842
-    title: What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
+    title: >-
+        What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
-related_article5:
-    id: 170841
-    title: In behavioral ecology, how do interactions in populations affect strategy evolution?
+related_article3:
+    id: 170842
+    title: >-
+        What is the relationship between cost-benefit analysis and rational choice theory in mathematical strategies in economics?
     subject: Psychology
-    url: /learn/psychology/questions/in-behavioral-ecology-how-do-interactions-in-populations-affect-strategy-evolution
+    url: /learn/psychology/questions/what-is-the-relationship-between-costbenefit-analysis-and-rational-choice-theory-in-mathematical-strategies-in-economics
+related_article4:
+    id: 170843
+    title: >-
+        How does Nash Equilibrium apply to competitive interactions in economics?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-nash-equilibrium-apply-to-competitive-interactions-in-economics
+related_article5:
+    id: 170840
+    title: >-
+        How do theoretical frameworks in biology utilize mathematical modeling?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-theoretical-frameworks-in-biology-utilize-mathematical-modeling
 ---
 
 &nbsp;

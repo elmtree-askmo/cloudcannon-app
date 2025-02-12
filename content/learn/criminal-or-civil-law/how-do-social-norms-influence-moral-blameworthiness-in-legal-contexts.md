@@ -2,8 +2,10 @@
 _schema: default
 id: 162199
 date: 2025-01-25
-title: How do social norms influence moral blameworthiness in legal contexts?
-article_title: How do social norms influence moral blameworthiness in legal contexts?
+title: >-
+    How do social norms influence moral blameworthiness in legal contexts?
+article_title: >-
+    How do social norms influence moral blameworthiness in legal contexts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-social-norms-influence-moral-blameworthiness-in-legal-contexts
 url: /learn/criminal-or-civil-law/questions/how-do-social-norms-influence-moral-blameworthiness-in-legal-contexts
 score: -1.0
 related_article1:
-    id: 162177
-    title: What distinguishes first degree murder from manslaughter in terms of legal classification?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
-related_article2:
-    id: 162168
-    title: How does antisocial behavior relate to assaultive behavior and its consequences?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-consequences
-related_article3:
-    id: 162184
-    title: How do firearm laws influence police conduct regarding the use of force?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
-related_article4:
-    id: 162190
-    title: Explain the concept of willful blindness in the context of possession laws.
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
-related_article5:
     id: 162174
-    title: How does foreseeability impact legal responsibility in criminal cases?
+    title: >-
+        How does foreseeability impact legal responsibility in criminal cases?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-does-foreseeability-impact-legal-responsibility-in-criminal-cases
+related_article2:
+    id: 162187
+    title: >-
+        What constitutes joint possession under possession laws?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-constitutes-joint-possession-under-possession-laws
+related_article3:
+    id: 162177
+    title: >-
+        What distinguishes first degree murder from manslaughter in terms of legal classification?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
+related_article4:
+    id: 162169
+    title: >-
+        Explain the concept of minimal causation in law and its significance in determining criminal responsibility.
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-minimal-causation-in-law-and-its-significance-in-determining-criminal-responsibility
+related_article5:
+    id: 162168
+    title: >-
+        How does antisocial behavior relate to assaultive behavior and its consequences?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-antisocial-behavior-relate-to-assaultive-behavior-and-its-consequences
 ---
 
 &nbsp;

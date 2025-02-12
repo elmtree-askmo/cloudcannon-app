@@ -2,8 +2,10 @@
 _schema: default
 id: 168157
 date: 2025-02-02
-title: What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
-article_title: What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
+title: >-
+    What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
+article_title: >-
+    What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-m
 url: /learn/education-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
 score: -1.0
 related_article1:
-    id: 168154
-    title: What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
+    id: 168149
+    title: >-
+        How do local and global impacts of human activities differ in the context of the Anthropocene?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and-how-do-symbiotic-relationships-play-a-role
+    url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
 related_article2:
-    id: 168150
-    title: What are the core principles of environmental justice, and how do they relate to sustainability?
+    id: 168155
+    title: >-
+        What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-environmental-justice-and-how-do-they-relate-to-sustainability
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-coral-reefs-and-what-conservation-strategies-are-employed-to-protect-them
 related_article3:
-    id: 168161
-    title: How do multiple stressors, such as fisheries and nutrient levels, affect ecosystems?
+    id: 168160
+    title: >-
+        What is the role of predictive modeling in ecological studies, and how do hindcasting and forecasting differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-multiple-stressors-such-as-fisheries-and-nutrient-levels-affect-ecosystems
+    url: /learn/education-studies/questions/what-is-the-role-of-predictive-modeling-in-ecological-studies-and-how-do-hindcasting-and-forecasting-differ
 related_article4:
-    id: 168158
-    title: What are the primary causes of deforestation, and how does it impact biodiversity and human activities?
+    id: 168148
+    title: >-
+        What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-causes-of-deforestation-and-how-does-it-impact-biodiversity-and-human-activities
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-the-anthropocene-and-how-do-they-illustrate-human-effects-on-the-biosphere
 related_article5:
-    id: 168150
-    title: What are the core principles of environmental justice, and how do they relate to sustainability?
+    id: 168151
+    title: >-
+        How does the scientific method guide the process of inquiry and hypothesis formation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-environmental-justice-and-how-do-they-relate-to-sustainability
+    url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
 ---
 
 &nbsp;

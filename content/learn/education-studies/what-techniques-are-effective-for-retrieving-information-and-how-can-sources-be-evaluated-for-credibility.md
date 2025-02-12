@@ -2,8 +2,10 @@
 _schema: default
 id: 160070
 date: 2025-01-23
-title: What techniques are effective for retrieving information, and how can sources be evaluated for credibility?
-article_title: What techniques are effective for retrieving information, and how can sources be evaluated for credibility?
+title: >-
+    What techniques are effective for retrieving information, and how can sources be evaluated for credibility?
+article_title: >-
+    What techniques are effective for retrieving information, and how can sources be evaluated for credibility?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-are-effective-for-retrieving-information-and-how-can-
 url: /learn/education-studies/questions/what-techniques-are-effective-for-retrieving-information-and-how-can-sources-be-evaluated-for-credibility
 score: -1.0
 related_article1:
-    id: 160587
-    title: What should students consider when selecting courses to align with their career goals and balance their workload?
+    id: 159971
+    title: >-
+        What are the different learning styles, and how can students adapt their study techniques to suit their personal style?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-should-students-consider-when-selecting-courses-to-align-with-their-career-goals-and-balance-their-workload
+    url: /learn/education-studies/questions/what-are-the-different-learning-styles-and-how-can-students-adapt-their-study-techniques-to-suit-their-personal-style
 related_article2:
-    id: 160291
-    title: What principles should be considered in curriculum design to ensure it aligns with learning outcomes?
+    id: 160000
+    title: >-
+        What is metacognition, and why is it important for self-awareness in learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-principles-should-be-considered-in-curriculum-design-to-ensure-it-aligns-with-learning-outcomes
+    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-selfawareness-in-learning
 related_article3:
-    id: 160567
-    title: What are the key components of effective time management, and how do they contribute to academic success?
+    id: 159999
+    title: >-
+        How can prioritizing tasks and avoiding procrastination improve time management?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-prioritizing-tasks-and-avoiding-procrastination-improve-time-management
+related_article4:
+    id: 159955
+    title: >-
+        What are the key components of effective time management, and how do they contribute to academic success?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-components-of-effective-time-management-and-how-do-they-contribute-to-academic-success
-related_article4:
-    id: 160283
-    title: Why are elective modules important, and how can they contribute to a student's education?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-are-elective-modules-important-and-how-can-they-contribute-to-a-students-education
 related_article5:
-    id: 160131
-    title: How can students apply metacognitive strategies to evaluate and adjust their study habits?
+    id: 160055
+    title: >-
+        How can setting reading goals and reflecting on content improve reading comprehension?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-apply-metacognitive-strategies-to-evaluate-and-adjust-their-study-habits
+    url: /learn/education-studies/questions/how-can-setting-reading-goals-and-reflecting-on-content-improve-reading-comprehension
 ---
 
 &nbsp;

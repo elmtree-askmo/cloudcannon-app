@@ -2,8 +2,10 @@
 _schema: default
 id: 166104
 date: 2025-01-29
-title: How did Julius Caesar's campaigns in Britain impact his legacy?
-article_title: How did Julius Caesar's campaigns in Britain impact his legacy?
+title: >-
+    How did Julius Caesar's campaigns in Britain impact his legacy?
+article_title: >-
+    How did Julius Caesar's campaigns in Britain impact his legacy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-julius-caesars-campaigns-in-britain-impact-his-legacy.md
 url: /learn/history-of-the-world/questions/how-did-julius-caesars-campaigns-in-britain-impact-his-legacy
 score: 9.0
 related_article1:
-    id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    id: 166113
+    title: >-
+        How do classical authors' accounts contribute to our understanding of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
+    url: /learn/history-of-the-world/questions/how-do-classical-authors-accounts-contribute-to-our-understanding-of-roman-britain
 related_article2:
-    id: 166109
-    title: What strategies did the Roman military employ to maintain control over Britain?
+    id: 166114
+    title: >-
+        What were the characteristics of Roman urbanization in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-the-roman-military-employ-to-maintain-control-over-britain
+    url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
 related_article3:
-    id: 166111
-    title: How did early Christian communities establish themselves in Roman Britain?
+    id: 166106
+    title: >-
+        How did the Britonic languages develop during the Roman period in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-early-christian-communities-establish-themselves-in-roman-britain
+    url: /learn/history-of-the-world/questions/how-did-the-britonic-languages-develop-during-the-roman-period-in-britain
 related_article4:
+    id: 166114
+    title: >-
+        What were the characteristics of Roman urbanization in Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-characteristics-of-roman-urbanization-in-britain
+related_article5:
     id: 166115
-    title: How did Roman architecture influence local British housing styles?
+    title: >-
+        How did Roman architecture influence local British housing styles?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-roman-architecture-influence-local-british-housing-styles
-related_article5:
-    id: 166112
-    title: What were the reasons behind the Roman expansion into Northern Europe and Africa?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-reasons-behind-the-roman-expansion-into-northern-europe-and-africa
 ---
 
 &nbsp;

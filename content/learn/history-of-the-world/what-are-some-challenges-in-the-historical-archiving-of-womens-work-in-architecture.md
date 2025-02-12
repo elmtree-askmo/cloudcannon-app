@@ -2,8 +2,10 @@
 _schema: default
 id: 169116
 date: 2025-02-04
-title: What are some challenges in the historical archiving of women's work in architecture?
-article_title: What are some challenges in the historical archiving of women's work in architecture?
+title: >-
+    What are some challenges in the historical archiving of women's work in architecture?
+article_title: >-
+    What are some challenges in the historical archiving of women's work in architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-challenges-in-the-historical-archiving-of-womens-work-i
 url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
 score: 9.0
 related_article1:
-    id: 169107
-    title: How did postwar developments impact gendered labor dynamics in architecture?
+    id: 169119
+    title: >-
+        How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
 related_article2:
-    id: 169120
-    title: What contributions did women make to the economic development of postwar Hong Kong?
+    id: 169108
+    title: >-
+        Name a few notable female architects and describe their contributions to the field.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
+    url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
 related_article3:
-    id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    id: 169119
+    title: >-
+        How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
 related_article4:
-    id: 169117
-    title: How did colonial patriarchy influence architectural practices and gender roles?
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 related_article5:
-    id: 169117
-    title: How did colonial patriarchy influence architectural practices and gender roles?
+    id: 169119
+    title: >-
+        How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
+    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
 ---
 
 &nbsp;

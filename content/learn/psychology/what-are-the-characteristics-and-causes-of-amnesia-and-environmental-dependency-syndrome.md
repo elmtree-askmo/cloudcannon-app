@@ -2,8 +2,10 @@
 _schema: default
 id: 164547
 date: 2025-01-28
-title: What are the characteristics and causes of amnesia and environmental dependency syndrome?
-article_title: What are the characteristics and causes of amnesia and environmental dependency syndrome?
+title: >-
+    What are the characteristics and causes of amnesia and environmental dependency syndrome?
+article_title: >-
+    What are the characteristics and causes of amnesia and environmental dependency syndrome?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-and-causes-of-amnesia-and-environmental-
 url: /learn/psychology/questions/what-are-the-characteristics-and-causes-of-amnesia-and-environmental-dependency-syndrome
 score: -1.0
 related_article1:
-    id: 164561
-    title: How do ADHD and attention networks interact in cognitive processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
-related_article2:
-    id: 164560
-    title: What are the symptoms and causes of perseveration and environmental dependency syndrome?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-symptoms-and-causes-of-perseveration-and-environmental-dependency-syndrome
-related_article3:
-    id: 164544
-    title: How do the default mode network and potential control network contribute to attention?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-the-default-mode-network-and-potential-control-network-contribute-to-attention
-related_article4:
-    id: 164565
-    title: What role do arousal and vigilance play in attention and cognitive performance?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
-related_article5:
     id: 164552
-    title: How do automatic and controlled processes differ in neural networks?
+    title: >-
+        How do automatic and controlled processes differ in neural networks?
     subject: Psychology
     url: /learn/psychology/questions/how-do-automatic-and-controlled-processes-differ-in-neural-networks
+related_article2:
+    id: 164553
+    title: >-
+        What is the significance of competition and integration between neural networks in cognitive processing?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-competition-and-integration-between-neural-networks-in-cognitive-processing
+related_article3:
+    id: 164549
+    title: >-
+        How does task difficulty influence visual search performance according to the Feature Integration Theory?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-task-difficulty-influence-visual-search-performance-according-to-the-feature-integration-theory
+related_article4:
+    id: 164550
+    title: >-
+        What are the main components of executive function, and how do they contribute to cognitive processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-components-of-executive-function-and-how-do-they-contribute-to-cognitive-processes
+related_article5:
+    id: 164564
+    title: >-
+        What mechanisms are involved in task switching, and how does cognitive load affect it?
+    subject: Psychology
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
 ---
 
 &nbsp;

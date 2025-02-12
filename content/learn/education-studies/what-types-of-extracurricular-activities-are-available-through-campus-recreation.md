@@ -2,8 +2,10 @@
 _schema: default
 id: 170671
 date: 2025-02-06
-title: What types of extracurricular activities are available through campus recreation?
-article_title: What types of extracurricular activities are available through campus recreation?
+title: >-
+    What types of extracurricular activities are available through campus recreation?
+article_title: >-
+    What types of extracurricular activities are available through campus recreation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-extracurricular-activities-are-available-through-campus
 url: /learn/education-studies/questions/what-types-of-extracurricular-activities-are-available-through-campus-recreation
 score: -1.0
 related_article1:
-    id: 170666
-    title: How can library resources be utilized for research project consultation?
+    id: 170665
+    title: >-
+        What types of tutoring services are available for science and math students?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-library-resources-be-utilized-for-research-project-consultation
+    url: /learn/education-studies/questions/what-types-of-tutoring-services-are-available-for-science-and-math-students
 related_article2:
-    id: 170663
-    title: Why are personal values important in decision making and career choices?
+    id: 170656
+    title: >-
+        What are the key components of setting SMART goals?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-personal-values-important-in-decision-making-and-career-choices
+    url: /learn/education-studies/questions/what-are-the-key-components-of-setting-smart-goals
 related_article3:
-    id: 170665
-    title: What types of tutoring services are available for science and math students?
+    id: 170672
+    title: >-
+        How can participating in honors and research programs support academic pursuits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-tutoring-services-are-available-for-science-and-math-students
+    url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
 related_article4:
-    id: 170663
-    title: Why are personal values important in decision making and career choices?
+    id: 170662
+    title: >-
+        How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-personal-values-important-in-decision-making-and-career-choices
+    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
 related_article5:
-    id: 170665
-    title: What types of tutoring services are available for science and math students?
+    id: 170672
+    title: >-
+        How can participating in honors and research programs support academic pursuits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-tutoring-services-are-available-for-science-and-math-students
+    url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
 ---
 
 &nbsp;

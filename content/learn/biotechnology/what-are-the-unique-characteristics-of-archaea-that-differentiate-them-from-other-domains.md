@@ -2,8 +2,10 @@
 _schema: default
 id: 167586
 date: 2025-01-31
-title: What are the unique characteristics of Archaea that differentiate them from other domains?
-article_title: What are the unique characteristics of Archaea that differentiate them from other domains?
+title: >-
+    What are the unique characteristics of Archaea that differentiate them from other domains?
+article_title: >-
+    What are the unique characteristics of Archaea that differentiate them from other domains?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-unique-characteristics-of-archaea-that-differentiate-the
 url: /learn/biotechnology/questions/what-are-the-unique-characteristics-of-archaea-that-differentiate-them-from-other-domains
 score: -1.0
 related_article1:
-    id: 167594
-    title: How is fitness measured in biological terms?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
-related_article2:
     id: 167591
-    title: Why is homeostasis important for living organisms?
+    title: >-
+        Why is homeostasis important for living organisms?
     subject: Biotechnology
     url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
+related_article2:
+    id: 167592
+    title: >-
+        What are the main characteristics of prokaryotic cells?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-main-characteristics-of-prokaryotic-cells
 related_article3:
-    id: 167590
-    title: What are the principles of natural selection and how do they lead to adaptation?
+    id: 167594
+    title: >-
+        How is fitness measured in biological terms?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-principles-of-natural-selection-and-how-do-they-lead-to-adaptation
+    url: /learn/biotechnology/questions/how-is-fitness-measured-in-biological-terms
 related_article4:
-    id: 167596
-    title: What are the differences between asexual and sexual reproduction?
+    id: 167591
+    title: >-
+        Why is homeostasis important for living organisms?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction
+    url: /learn/biotechnology/questions/why-is-homeostasis-important-for-living-organisms
 related_article5:
-    id: 167588
-    title: What is the difference between a hypothesis and a theory in scientific inquiry?
+    id: 167582
+    title: >-
+        What are the key characteristics that define life?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-difference-between-a-hypothesis-and-a-theory-in-scientific-inquiry
+    url: /learn/biotechnology/questions/what-are-the-key-characteristics-that-define-life
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166183
 date: 2025-01-29
-title: How do carbohydrates and proteins differ in their roles within the body?
-article_title: How do carbohydrates and proteins differ in their roles within the body?
+title: >-
+    How do carbohydrates and proteins differ in their roles within the body?
+article_title: >-
+    How do carbohydrates and proteins differ in their roles within the body?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-bo
 url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 score: -1.0
 related_article1:
-    id: 166200
-    title: How have humans evolved over time according to fossil evidence?
+    id: 166201
+    title: >-
+        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
+    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
 related_article2:
-    id: 166179
-    title: What are the fundamental traits that define living organisms?
+    id: 166206
+    title: >-
+        How do structural adaptations enhance an organism's survival in its environment?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
+    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
 related_article3:
-    id: 166204
-    title: How do phylogenetic trees help in understanding evolutionary relationships?
+    id: 166199
+    title: >-
+        What are the main components of the human cardiovascular system and their functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
+    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
 related_article4:
-    id: 166182
-    title: What are the primary types of biological molecules and their functions?
+    id: 166209
+    title: >-
+        What are the key differences between sexual and asexual reproduction?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-types-of-biological-molecules-and-their-functions
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
 related_article5:
-    id: 166202
-    title: How do human activities impact the environment and what are some conservation efforts?
+    id: 166195
+    title: >-
+        What evidence supports the concept of common ancestry among species?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
+    url: /learn/education-studies/questions/what-evidence-supports-the-concept-of-common-ancestry-among-species
 ---
 
 &nbsp;

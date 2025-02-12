@@ -2,8 +2,10 @@
 _schema: default
 id: 168599
 date: 2025-02-03
-title: How can you provide default values for function parameters in Python?
-article_title: How can you provide default values for function parameters in Python?
+title: >-
+    How can you provide default values for function parameters in Python?
+article_title: >-
+    How can you provide default values for function parameters in Python?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-you-provide-default-values-for-function-parameters-in-python.
 url: /learn/computer-science/questions/how-can-you-provide-default-values-for-function-parameters-in-python
 score: -1.0
 related_article1:
-    id: 168593
-    title: Explain the difference between local and global scope in Python.
+    id: 168604
+    title: >-
+        What are some best practices for writing Python functions?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
+    url: /learn/computer-science/questions/what-are-some-best-practices-for-writing-python-functions
 related_article2:
-    id: 168589
-    title: What is the syntax for defining a function in Python?
+    id: 168590
+    title: >-
+        How do you call a function with parameters in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-syntax-for-defining-a-function-in-python
+    url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 related_article3:
-    id: 168600
-    title: What is a function docstring and why is it important?
+    id: 168598
+    title: >-
+        What is the difference between positional and keyword parameters in Python functions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-function-docstring-and-why-is-it-important
+    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
 related_article4:
     id: 168593
-    title: Explain the difference between local and global scope in Python.
+    title: >-
+        Explain the difference between local and global scope in Python.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-difference-between-local-and-global-scope-in-python
 related_article5:
-    id: 168603
-    title: How can custom exceptions be created in Python?
+    id: 168597
+    title: >-
+        How can you handle a specific error type using a try...except block?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-custom-exceptions-be-created-in-python
+    url: /learn/computer-science/questions/how-can-you-handle-a-specific-error-type-using-a-tryexcept-block
 ---
 
 &nbsp;

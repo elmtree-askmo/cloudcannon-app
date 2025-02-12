@@ -2,8 +2,10 @@
 _schema: default
 id: 170775
 date: 2025-02-06
-title: What is the scope of computability theory and how does it relate to problem solvability?
-article_title: What is the scope of computability theory and how does it relate to problem solvability?
+title: >-
+    What is the scope of computability theory and how does it relate to problem solvability?
+article_title: >-
+    What is the scope of computability theory and how does it relate to problem solvability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-is-the-scope-of-computability-theory
 score: -1.0
 related_article1:
     id: 170787
-    title: Explain the Euclidean algorithm for finding the greatest common divisor.
+    title: >-
+        Explain the Euclidean algorithm for finding the greatest common divisor.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
 related_article2:
-    id: 170789
-    title: How does data representation impact algorithm development and testing?
+    id: 170777
+    title: >-
+        What distinguishes polynomial time algorithms from exponential time algorithms in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
+    url: /learn/computer-science/questions/what-distinguishes-polynomial-time-algorithms-from-exponential-time-algorithms-in-complexity-theory
 related_article3:
-    id: 170782
-    title: What are the characteristics of non-deterministic polynomial time?
+    id: 170786
+    title: >-
+        How does the RSA algorithm utilize public and private key encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
+    url: /learn/computer-science/questions/how-does-the-rsa-algorithm-utilize-public-and-private-key-encryption
 related_article4:
-    id: 170784
-    title: What factors contribute to the efficiency of an algorithm?
+    id: 170785
+    title: >-
+        What are heuristic algorithms and how are they applied in real-world scenarios?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-contribute-to-the-efficiency-of-an-algorithm
+    url: /learn/computer-science/questions/what-are-heuristic-algorithms-and-how-are-they-applied-in-realworld-scenarios
 related_article5:
-    id: 170787
-    title: Explain the Euclidean algorithm for finding the greatest common divisor.
+    id: 170776
+    title: >-
+        Explain the significance of the halting problem in computability theory.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
+    url: /learn/computer-science/questions/explain-the-significance-of-the-halting-problem-in-computability-theory
 ---
 
 &nbsp;

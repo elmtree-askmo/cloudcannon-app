@@ -2,8 +2,10 @@
 _schema: default
 id: 168235
 date: 2025-02-03
-title: What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
-article_title: What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
+title: >-
+    What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
+article_title: >-
+    What are the key techniques used in literary analysis, and how does group-based analysis enhance understanding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-techniques-used-in-literary-analysis-and-how-does-gr
 url: /learn/art-history-and-literature/questions/what-are-the-key-techniques-used-in-literary-analysis-and-how-does-groupbased-analysis-enhance-understanding
 score: 8.8
 related_article1:
+    id: 168237
+    title: >-
+        What are the essential components of structuring a group discussion, and how does role assignment contribute to effective dynamics?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-essential-components-of-structuring-a-group-discussion-and-how-does-role-assignment-contribute-to-effective-dynamics
+related_article2:
+    id: 168241
+    title: >-
+        What strategies can be employed to improve name recognition in large groups?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-strategies-can-be-employed-to-improve-name-recognition-in-large-groups
+related_article3:
+    id: 168245
+    title: >-
+        What are the key elements of effective verbal communication, and how does active listening enhance this process?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-the-key-elements-of-effective-verbal-communication-and-how-does-active-listening-enhance-this-process
+related_article4:
+    id: 168244
+    title: >-
+        How can privacy concerns be mitigated when using biometric methods for attendance tracking?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-privacy-concerns-be-mitigated-when-using-biometric-methods-for-attendance-tracking
+related_article5:
     id: 168246
-    title: How do non-verbal communication cues like body language and eye contact impact interpersonal interactions?
+    title: >-
+        How do non-verbal communication cues like body language and eye contact impact interpersonal interactions?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-nonverbal-communication-cues-like-body-language-and-eye-contact-impact-interpersonal-interactions
-related_article2:
-    id: 168240
-    title: How does software utilization aid in data visualization and statistical analysis?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-software-utilization-aid-in-data-visualization-and-statistical-analysis
-related_article3:
-    id: 168243
-    title: What are the advantages and disadvantages of manual versus digital attendance tracking systems?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
-related_article4:
-    id: 168248
-    title: What challenges might arise in collaborative learning due to unequal participation, and how can they be managed?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-challenges-might-arise-in-collaborative-learning-due-to-unequal-participation-and-how-can-they-be-managed
-related_article5:
-    id: 168243
-    title: What are the advantages and disadvantages of manual versus digital attendance tracking systems?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-advantages-and-disadvantages-of-manual-versus-digital-attendance-tracking-systems
 ---
 
 &nbsp;

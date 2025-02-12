@@ -2,8 +2,10 @@
 _schema: default
 id: 165016
 date: 2025-01-28
-title: How do symbolic and non-symbolic processing differ in numerical cognition?
-article_title: How do symbolic and non-symbolic processing differ in numerical cognition?
+title: >-
+    How do symbolic and non-symbolic processing differ in numerical cognition?
+article_title: >-
+    How do symbolic and non-symbolic processing differ in numerical cognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-do-symbolic-and-nonsymbolic-processing-diff
 score: -1.0
 related_article1:
     id: 165018
-    title: How do contextual effects influence visual perception?
+    title: >-
+        How do contextual effects influence visual perception?
     subject: Psychology
     url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
 related_article2:
-    id: 165015
-    title: What are the cognitive processes involved in number perception?
+    id: 165019
+    title: >-
+        What are the principles of experimental design that ensure validity and reliability?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-cognitive-processes-involved-in-number-perception
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
 related_article3:
-    id: 165018
-    title: How do contextual effects influence visual perception?
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-contextual-effects-influence-visual-perception
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 related_article4:
-    id: 165011
-    title: What are the main factors that influence reaction time in cognitive tasks?
+    id: 165021
+    title: >-
+        How does the size congruence effect impact everyday cognition and educational settings?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
+    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
 related_article5:
-    id: 165011
-    title: What are the main factors that influence reaction time in cognitive tasks?
+    id: 165019
+    title: >-
+        What are the principles of experimental design that ensure validity and reliability?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-factors-that-influence-reaction-time-in-cognitive-tasks
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
 ---
 
 &nbsp;

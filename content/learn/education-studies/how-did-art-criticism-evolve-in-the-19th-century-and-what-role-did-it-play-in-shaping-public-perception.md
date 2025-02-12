@@ -2,8 +2,10 @@
 _schema: default
 id: 159799
 date: 2025-01-23
-title: How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
-article_title: How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
+title: >-
+    How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
+article_title: >-
+    How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it
 url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
 score: -1.0
 related_article1:
-    id: 159758
-    title: How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+    id: 159795
+    title: >-
+        What was the purpose of the Salon of the Refused and the Salon of Independents, and how did they influence modern art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
+    url: /learn/education-studies/questions/what-was-the-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-how-did-they-influence-modern-art
 related_article2:
-    id: 159790
-    title: What was the purpose of art institutions and academies, and how did they contribute to the professionalization of artists?
+    id: 159796
+    title: >-
+        How did industrialization and modernization lead to changes in artistic techniques and styles?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-was-the-purpose-of-art-institutions-and-academies-and-how-did-they-contribute-to-the-professionalization-of-artists
+    url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles
 related_article3:
     id: 159759
-    title: In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
 related_article4:
-    id: 159766
-    title: Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
+    id: 159765
+    title: >-
+        What are the origins and key characteristics of Impressionism, and how did it impact art criticism?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
+    url: /learn/education-studies/questions/what-are-the-origins-and-key-characteristics-of-impressionism-and-how-did-it-impact-art-criticism
 related_article5:
-    id: 159795
-    title: What was the purpose of the Salon of the Refused and the Salon of Independents, and how did they influence modern art?
+    id: 159787
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-was-the-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-how-did-they-influence-modern-art
+    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 ---
 
 &nbsp;

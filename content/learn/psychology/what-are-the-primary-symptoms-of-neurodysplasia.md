@@ -2,8 +2,10 @@
 _schema: default
 id: 164293
 date: 2025-01-28
-title: What are the primary symptoms of neurodysplasia?
-article_title: What are the primary symptoms of neurodysplasia?
+title: >-
+    What are the primary symptoms of neurodysplasia?
+article_title: >-
+    What are the primary symptoms of neurodysplasia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-symptoms-of-neurodysplasia.md
 url: /learn/psychology/questions/what-are-the-primary-symptoms-of-neurodysplasia
 score: -1.0
 related_article1:
-    id: 164299
-    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    id: 164292
+    title: >-
+        How do social dynamics affect socio-physical interactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
+    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
 related_article2:
-    id: 164299
-    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
-    subject: Psychology
-    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
-related_article3:
     id: 164288
-    title: What are the key components of cognitive engagement in brain activity?
+    title: >-
+        What are the key components of cognitive engagement in brain activity?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-components-of-cognitive-engagement-in-brain-activity
+related_article3:
+    id: 164299
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    subject: Psychology
+    url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
 related_article4:
     id: 164299
-    title: What diagnostic tools are commonly used in the involvement of medical technology with diseases?
+    title: >-
+        What diagnostic tools are commonly used in the involvement of medical technology with diseases?
     subject: Psychology
     url: /learn/psychology/questions/what-diagnostic-tools-are-commonly-used-in-the-involvement-of-medical-technology-with-diseases
 related_article5:
-    id: 164292
-    title: How do social dynamics affect socio-physical interactions?
+    id: 164290
+    title: >-
+        What role does color perception play in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-social-dynamics-affect-sociophysical-interactions
+    url: /learn/psychology/questions/what-role-does-color-perception-play-in-visual-processing
 ---
 
 &nbsp;

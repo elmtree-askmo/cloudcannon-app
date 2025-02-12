@@ -2,8 +2,10 @@
 _schema: default
 id: 167907
 date: 2025-02-01
-title: Explain Mendelian inheritance and the significance of dihybrid crosses.
-article_title: Explain Mendelian inheritance and the significance of dihybrid crosses.
+title: >-
+    Explain Mendelian inheritance and the significance of dihybrid crosses.
+article_title: >-
+    Explain Mendelian inheritance and the significance of dihybrid crosses.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-mendelian-inheritance-and-the-significance-of-dihybrid-crosse
 url: /learn/education-studies/questions/explain-mendelian-inheritance-and-the-significance-of-dihybrid-crosses
 score: -1.0
 related_article1:
-    id: 167912
-    title: What are the types of genetic tests available and their purposes?
+    id: 167898
+    title: >-
+        Describe the stages of mitosis and its role in cellular growth.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-types-of-genetic-tests-available-and-their-purposes
+    url: /learn/education-studies/questions/describe-the-stages-of-mitosis-and-its-role-in-cellular-growth
 related_article2:
-    id: 167910
-    title: What are the ethical considerations in genetic disease research?
+    id: 167900
+    title: >-
+        What is the role of RNA polymerase in transcription?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
+    url: /learn/education-studies/questions/what-is-the-role-of-rna-polymerase-in-transcription
 related_article3:
-    id: 167894
-    title: What are the main types of genetic variation and how do they differ?
+    id: 167904
+    title: >-
+        How do amino acids contribute to protein structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-genetic-variation-and-how-do-they-differ
+    url: /learn/education-studies/questions/how-do-amino-acids-contribute-to-protein-structure-and-function
 related_article4:
-    id: 167896
-    title: What are the key chromosomal abnormalities associated with Down Syndrome?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-chromosomal-abnormalities-associated-with-down-syndrome
-related_article5:
     id: 167906
-    title: Differentiate between point mutations and frameshift mutations.
+    title: >-
+        Differentiate between point mutations and frameshift mutations.
     subject: Education Studies
     url: /learn/education-studies/questions/differentiate-between-point-mutations-and-frameshift-mutations
+related_article5:
+    id: 167899
+    title: >-
+        Explain the process of meiosis and its significance in genetic variation.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-process-of-meiosis-and-its-significance-in-genetic-variation
 ---
 
 &nbsp;

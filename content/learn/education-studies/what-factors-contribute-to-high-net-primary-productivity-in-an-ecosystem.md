@@ -2,8 +2,10 @@
 _schema: default
 id: 160439
 date: 2025-01-24
-title: What factors contribute to high net primary productivity in an ecosystem?
-article_title: What factors contribute to high net primary productivity in an ecosystem?
+title: >-
+    What factors contribute to high net primary productivity in an ecosystem?
+article_title: >-
+    What factors contribute to high net primary productivity in an ecosystem?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-contribute-to-high-net-primary-productivity-in-an-ecosys
 url: /learn/education-studies/questions/what-factors-contribute-to-high-net-primary-productivity-in-an-ecosystem
 score: -1.0
 related_article1:
-    id: 160451
-    title: How can species richness be assessed in a biodiversity study?
+    id: 160446
+    title: >-
+        What are the primary sources and methods for collecting spatial and temporal data in ecology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
+    url: /learn/education-studies/questions/what-are-the-primary-sources-and-methods-for-collecting-spatial-and-temporal-data-in-ecology
 related_article2:
     id: 160450
-    title: What Excel features are most useful for creating effective data visualizations?
+    title: >-
+        What Excel features are most useful for creating effective data visualizations?
     subject: Education Studies
     url: /learn/education-studies/questions/what-excel-features-are-most-useful-for-creating-effective-data-visualizations
 related_article3:
-    id: 160447
-    title: How can temporal trends be analyzed in ecological data?
+    id: 160442
+    title: >-
+        How should zero values be handled when calculating the Shannon Diversity Index?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-temporal-trends-be-analyzed-in-ecological-data
+    url: /learn/education-studies/questions/how-should-zero-values-be-handled-when-calculating-the-shannon-diversity-index
 related_article4:
-    id: 160445
-    title: How can the natural logarithm be applied in Excel for ecological data analysis?
+    id: 160451
+    title: >-
+        How can species richness be assessed in a biodiversity study?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-natural-logarithm-be-applied-in-excel-for-ecological-data-analysis
+    url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
 related_article5:
-    id: 160445
-    title: How can the natural logarithm be applied in Excel for ecological data analysis?
+    id: 160442
+    title: >-
+        How should zero values be handled when calculating the Shannon Diversity Index?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-natural-logarithm-be-applied-in-excel-for-ecological-data-analysis
+    url: /learn/education-studies/questions/how-should-zero-values-be-handled-when-calculating-the-shannon-diversity-index
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166740
 date: 2025-01-31
-title: What is the role of the writer, text, and audience in the rhetorical situation of an advertisement?
-article_title: What is the role of the writer, text, and audience in the rhetorical situation of an advertisement?
+title: >-
+    What is the role of the writer, text, and audience in the rhetorical situation of an advertisement?
+article_title: >-
+    What is the role of the writer, text, and audience in the rhetorical situation of an advertisement?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-writer-text-and-audience-in-the-rhetorical-si
 url: /learn/art-history-and-literature/questions/what-is-the-role-of-the-writer-text-and-audience-in-the-rhetorical-situation-of-an-advertisement
 score: 9.0
 related_article1:
-    id: 166747
-    title: What are the key differences between complexity and simplicity in writing style?
+    id: 166755
+    title: >-
+        What are some effective strategies for generating ideas during the writing process?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-differences-between-complexity-and-simplicity-in-writing-style
+    url: /learn/art-history-and-literature/questions/what-are-some-effective-strategies-for-generating-ideas-during-the-writing-process
 related_article2:
-    id: 166741
-    title: How does celebrity endorsement enhance the ethos of an advertisement?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-celebrity-endorsement-enhance-the-ethos-of-an-advertisement
-related_article3:
-    id: 166743
-    title: How can imagery be used to evoke emotional appeals in advertising?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-imagery-be-used-to-evoke-emotional-appeals-in-advertising
-related_article4:
-    id: 166749
-    title: Why is it important to avoid clichés and redundancy in writing?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/why-is-it-important-to-avoid-clichs-and-redundancy-in-writing
-related_article5:
     id: 166754
-    title: How can punctuation errors, such as comma splices, be corrected?
+    title: >-
+        How can punctuation errors, such as comma splices, be corrected?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-can-punctuation-errors-such-as-comma-splices-be-corrected
+related_article3:
+    id: 166754
+    title: >-
+        How can punctuation errors, such as comma splices, be corrected?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-can-punctuation-errors-such-as-comma-splices-be-corrected
+related_article4:
+    id: 166756
+    title: >-
+        What should be considered during the final review process of editing and proofreading?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-should-be-considered-during-the-final-review-process-of-editing-and-proofreading
+related_article5:
+    id: 166744
+    title: >-
+        Why is it important to respect audience intelligence in copywriting?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-is-it-important-to-respect-audience-intelligence-in-copywriting
 ---
 
 &nbsp;

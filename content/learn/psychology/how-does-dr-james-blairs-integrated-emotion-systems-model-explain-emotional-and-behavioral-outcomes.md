@@ -2,8 +2,10 @@
 _schema: default
 id: 164029
 date: 2025-01-28
-title: How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
-article_title: How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
+title: >-
+    How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
+article_title: >-
+    How does Dr. James Blair's Integrated Emotion Systems Model explain emotional and behavioral outcomes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-dr-james-blairs-integrated-emotion-systems-model-explain-emo
 url: /learn/psychology/questions/how-does-dr-james-blairs-integrated-emotion-systems-model-explain-emotional-and-behavioral-outcomes
 score: -1.0
 related_article1:
-    id: 164037
-    title: What are the implications of trait impulsivity on reward-related brain activity?
+    id: 164024
+    title: >-
+        What are the key differences in brain structure and function associated with abnormal neurodevelopment?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
+    url: /learn/psychology/questions/what-are-the-key-differences-in-brain-structure-and-function-associated-with-abnormal-neurodevelopment
 related_article2:
-    id: 164032
-    title: What is the significance of corticolimbic interactions in the role of the amygdaloid complex in antisociality?
+    id: 164027
+    title: >-
+        How do maternal substance abuse and parenting styles influence gene x environment interactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-corticolimbic-interactions-in-the-role-of-the-amygdaloid-complex-in-antisociality
+    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
 related_article3:
-    id: 164037
-    title: What are the implications of trait impulsivity on reward-related brain activity?
+    id: 164027
+    title: >-
+        How do maternal substance abuse and parenting styles influence gene x environment interactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
+    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
 related_article4:
-    id: 164028
-    title: What is the role of amygdala hyporesponsiveness in affective processing deficits?
+    id: 164031
+    title: >-
+        How do evolutionary aspects of the amygdaloid complex relate to socioemotional functions in humans?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-amygdala-hyporesponsiveness-in-affective-processing-deficits
+    url: /learn/psychology/questions/how-do-evolutionary-aspects-of-the-amygdaloid-complex-relate-to-socioemotional-functions-in-humans
 related_article5:
-    id: 164037
-    title: What are the implications of trait impulsivity on reward-related brain activity?
+    id: 164027
+    title: >-
+        How do maternal substance abuse and parenting styles influence gene x environment interactions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-implications-of-trait-impulsivity-on-rewardrelated-brain-activity
+    url: /learn/psychology/questions/how-do-maternal-substance-abuse-and-parenting-styles-influence-gene-x-environment-interactions
 ---
 
 &nbsp;

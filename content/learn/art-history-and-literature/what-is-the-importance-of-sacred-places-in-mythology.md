@@ -2,8 +2,10 @@
 _schema: default
 id: 164009
 date: 2025-01-28
-title: What is the importance of sacred places in mythology?
-article_title: What is the importance of sacred places in mythology?
+title: >-
+    What is the importance of sacred places in mythology?
+article_title: >-
+    What is the importance of sacred places in mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-sacred-places-in-mythology.md
 url: /learn/art-history-and-literature/questions/what-is-the-importance-of-sacred-places-in-mythology
 score: 9.0
 related_article1:
-    id: 164005
-    title: How do legends differ from fairy tales in terms of their connection to history?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-legends-differ-from-fairy-tales-in-terms-of-their-connection-to-history
-related_article2:
-    id: 163997
-    title: How did the Classical Period in Classical Studies come to an end?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-classical-period-in-classical-studies-come-to-an-end
-related_article3:
     id: 164001
-    title: How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
+    title: >-
+        How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-ovids-depiction-of-the-golden-age-differ-from-hesiods
-related_article4:
+related_article2:
     id: 164000
-    title: What distinguishes the Age of Heroes in Hesiod’s Five Ages of Man?
+    title: >-
+        What distinguishes the Age of Heroes in Hesiod’s Five Ages of Man?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-distinguishes-the-age-of-heroes-in-hesiods-five-ages-of-man
-related_article5:
-    id: 164002
-    title: What is the historical context in which Herodotus wrote his histories?
+related_article3:
+    id: 163996
+    title: >-
+        What were the key developments during the Archaic Period in Classical Studies?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
+    url: /learn/art-history-and-literature/questions/what-were-the-key-developments-during-the-archaic-period-in-classical-studies
+related_article4:
+    id: 164008
+    title: >-
+        Why are stone inscriptions significant in Classical Studies?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/why-are-stone-inscriptions-significant-in-classical-studies
+related_article5:
+    id: 164010
+    title: >-
+        How do myths help in understanding human existence and religious practices?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-myths-help-in-understanding-human-existence-and-religious-practices
 ---
 
 &nbsp;

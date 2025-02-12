@@ -2,8 +2,10 @@
 _schema: default
 id: 166973
 date: 2025-01-31
-title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
-article_title: Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+title: >-
+    Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+article_title: >-
+    Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-of-phospholipid-bilayers-and-the-significance-
 url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
 score: -1.0
 related_article1:
-    id: 166976
-    title: Differentiate between integral and peripheral proteins in terms of structure and function.
+    id: 166975
+    title: >-
+        List the main lipid components of the cell membrane and their functions.
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
+    url: /learn/biology/questions/list-the-main-lipid-components-of-the-cell-membrane-and-their-functions
 related_article2:
-    id: 166978
-    title: What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
+    id: 166984
+    title: >-
+        Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
+    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
 related_article3:
     id: 166981
-    title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+    title: >-
+        Describe the fluid mosaic model and its significance in understanding cell membrane structure.
     subject: Biology
     url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
 related_article4:
-    id: 166972
-    title: Define tonicity and explain how hypertonic, hypotonic, and isotonic solutions affect animal and plant cells.
+    id: 166976
+    title: >-
+        Differentiate between integral and peripheral proteins in terms of structure and function.
     subject: Biology
-    url: /learn/biology/questions/define-tonicity-and-explain-how-hypertonic-hypotonic-and-isotonic-solutions-affect-animal-and-plant-cells
+    url: /learn/biology/questions/differentiate-between-integral-and-peripheral-proteins-in-terms-of-structure-and-function
 related_article5:
-    id: 166983
-    title: How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
+    id: 166978
+    title: >-
+        What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
     subject: Biology
-    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
+    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
 ---
 
 &nbsp;

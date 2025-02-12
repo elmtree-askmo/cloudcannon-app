@@ -2,8 +2,10 @@
 _schema: default
 id: 161608
 date: 2025-01-24
-title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
-article_title: What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+title: >-
+    What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
+article_title: >-
+    What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-acc
 url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 score: -1.0
 related_article1:
-    id: 161353
-    title: What are the components and functionality of street lighting control systems, and how do they operate?
+    id: 161343
+    title: >-
+        How does two-point calibration differ from one-point calibration, and what are its benefits?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-and-functionality-of-street-lighting-control-systems-and-how-do-they-operate
+    url: /learn/computer-science/questions/how-does-twopoint-calibration-differ-from-onepoint-calibration-and-what-are-its-benefits
 related_article2:
-    id: 161334
-    title: What are the different types of actuators, and how are they applied in control technologies?
+    id: 161342
+    title: >-
+        What is one-point calibration, and what are its applications and limitations?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
+    url: /learn/computer-science/questions/what-is-onepoint-calibration-and-what-are-its-applications-and-limitations
 related_article3:
-    id: 161519
-    title: Explain the process and benefits of two-point calibration in monitoring technologies.
+    id: 161527
+    title: >-
+        What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-and-benefits-of-twopoint-calibration-in-monitoring-technologies
+    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
 related_article4:
-    id: 161332
-    title: Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
+    id: 161516
+    title: >-
+        What are the different types of actuators, and how do they function in control technologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-role-and-importance-of-a-digital-to-analogue-converter-dac-in-control-systems
+    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-do-they-function-in-control-technologies
 related_article5:
-    id: 161355
-    title: What is the process and feedback mechanism of traffic lights control systems?
+    id: 161518
+    title: >-
+        What is one-point calibration, and what are its applications and limitations?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-process-and-feedback-mechanism-of-traffic-lights-control-systems
+    url: /learn/computer-science/questions/what-is-onepoint-calibration-and-what-are-its-applications-and-limitations
 ---
 
 &nbsp;

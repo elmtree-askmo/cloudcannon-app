@@ -2,8 +2,10 @@
 _schema: default
 id: 168162
 date: 2025-02-02
-title: What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
-article_title: What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
+title: >-
+    What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
+article_title: >-
+    What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-assumptions-about-sensory-perception-and-predictability-are-made
 url: /learn/education-studies/questions/what-assumptions-about-sensory-perception-and-predictability-are-made-in-scientific-studies-of-environmental-systems
 score: -1.0
 related_article1:
-    id: 168157
-    title: What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
+    id: 168150
+    title: >-
+        What are the core principles of environmental justice, and how do they relate to sustainability?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
+    url: /learn/education-studies/questions/what-are-the-core-principles-of-environmental-justice-and-how-do-they-relate-to-sustainability
 related_article2:
-    id: 168157
-    title: What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
+    id: 168153
+    title: >-
+        How do control experiments and the use of treatment and control groups contribute to effective experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
+    url: /learn/education-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
 related_article3:
-    id: 168159
-    title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+    id: 168153
+    title: >-
+        How do control experiments and the use of treatment and control groups contribute to effective experimental design?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
+    url: /learn/education-studies/questions/how-do-control-experiments-and-the-use-of-treatment-and-control-groups-contribute-to-effective-experimental-design
 related_article4:
-    id: 168159
-    title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
-related_article5:
     id: 168157
-    title: What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
+    title: >-
+        What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
+related_article5:
+    id: 168156
+    title: >-
+        How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to-economic-and-ecological-benefits
 ---
 
 &nbsp;

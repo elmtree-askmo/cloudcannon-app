@@ -2,8 +2,10 @@
 _schema: default
 id: 166928
 date: 2025-01-31
-title: What are the mechanisms and processes involved in sexual reproduction?
-article_title: What are the mechanisms and processes involved in sexual reproduction?
+title: >-
+    What are the mechanisms and processes involved in sexual reproduction?
+article_title: >-
+    What are the mechanisms and processes involved in sexual reproduction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
 url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
 score: -1.0
 related_article1:
-    id: 166911
-    title: What are the essential steps in designing an experiment?
+    id: 166926
+    title: >-
+        What role do feedback systems play in maintaining homeostasis?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-essential-steps-in-designing-an-experiment
+    url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
 related_article2:
-    id: 166931
-    title: What are the sensory mechanisms involved in detecting stimuli?
+    id: 166916
+    title: >-
+        What processes are involved in growth and development, and how do nutrients play a role?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
+    url: /learn/biology/questions/what-processes-are-involved-in-growth-and-development-and-how-do-nutrients-play-a-role
 related_article3:
-    id: 166921
-    title: What distinguishes a hypothesis from a scientific theory in terms of testing and evidence?
+    id: 166924
+    title: >-
+        What is the concept of fitness in the context of differential reproductive success?
     subject: Biology
-    url: /learn/biology/questions/what-distinguishes-a-hypothesis-from-a-scientific-theory-in-terms-of-testing-and-evidence
+    url: /learn/biology/questions/what-is-the-concept-of-fitness-in-the-context-of-differential-reproductive-success
 related_article4:
-    id: 166910
-    title: Why is developing predictions important in experimentation?
+    id: 166934
+    title: >-
+        What factors influence differential reproductive success in natural selection?
     subject: Biology
-    url: /learn/biology/questions/why-is-developing-predictions-important-in-experimentation
+    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
 related_article5:
-    id: 166909
-    title: What are the key characteristics of a hypothesis in scientific investigation?
+    id: 166913
+    title: >-
+        What is the hierarchical structure of cellular organization in living organisms?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
+    url: /learn/biology/questions/what-is-the-hierarchical-structure-of-cellular-organization-in-living-organisms
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168196
 date: 2025-02-03
-title: How does data preprocessing improve data quality?
-article_title: How does data preprocessing improve data quality?
+title: >-
+    How does data preprocessing improve data quality?
+article_title: >-
+    How does data preprocessing improve data quality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-data-preprocessing-improve-data-quality.md
 url: /learn/others/questions/how-does-data-preprocessing-improve-data-quality
 score: -1.0
 related_article1:
-    id: 168200
-    title: Name two popular tools or libraries used for data augmentation.
+    id: 168201
+    title: >-
+        What is the difference between supervised and unsupervised learning?
     subject: Others
-    url: /learn/others/questions/name-two-popular-tools-or-libraries-used-for-data-augmentation
+    url: /learn/others/questions/what-is-the-difference-between-supervised-and-unsupervised-learning
 related_article2:
-    id: 168212
-    title: How do regression techniques contribute to predictive analysis?
+    id: 168211
+    title: >-
+        What role does data visualization play in descriptive analysis?
     subject: Others
-    url: /learn/others/questions/how-do-regression-techniques-contribute-to-predictive-analysis
+    url: /learn/others/questions/what-role-does-data-visualization-play-in-descriptive-analysis
 related_article3:
-    id: 168200
-    title: Name two popular tools or libraries used for data augmentation.
+    id: 168207
+    title: >-
+        What are transformer models, and how do they differ from traditional neural network models?
     subject: Others
-    url: /learn/others/questions/name-two-popular-tools-or-libraries-used-for-data-augmentation
+    url: /learn/others/questions/what-are-transformer-models-and-how-do-they-differ-from-traditional-neural-network-models
 related_article4:
-    id: 168208
-    title: What are some common applications of sentiment analysis?
+    id: 168199
+    title: >-
+        What are the benefits and challenges of data augmentation?
     subject: Others
-    url: /learn/others/questions/what-are-some-common-applications-of-sentiment-analysis
+    url: /learn/others/questions/what-are-the-benefits-and-challenges-of-data-augmentation
 related_article5:
-    id: 168213
-    title: What is the purpose of decision trees in prescriptive analysis?
+    id: 168209
+    title: >-
+        How do search algorithms contribute to AI problem-solving?
     subject: Others
-    url: /learn/others/questions/what-is-the-purpose-of-decision-trees-in-prescriptive-analysis
+    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-problemsolving
 ---
 
 &nbsp;

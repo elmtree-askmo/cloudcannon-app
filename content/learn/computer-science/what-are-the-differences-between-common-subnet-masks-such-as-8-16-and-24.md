@@ -2,8 +2,10 @@
 _schema: default
 id: 165729
 date: 2025-01-29
-title: What are the differences between common subnet masks such as /8, /16, and /24?
-article_title: What are the differences between common subnet masks such as /8, /16, and /24?
+title: >-
+    What are the differences between common subnet masks such as /8, /16, and /24?
+article_title: >-
+    What are the differences between common subnet masks such as /8, /16, and /24?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-common-subnet-masks-such-as-8-16-and
 url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
 score: -1.0
 related_article1:
-    id: 165722
-    title: What are the main components of an IPv4 address structure?
+    id: 165734
+    title: >-
+        What role do security policies play in managing network traffic between subnets?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-ipv4-address-structure
+    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
 related_article2:
-    id: 165724
-    title: What is the primary purpose of subnetting in a network?
+    id: 165725
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
+    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
 related_article3:
     id: 165725
-    title: Explain the difference between subnetting on an octet boundary and within an octet boundary.
+    title: >-
+        Explain the difference between subnetting on an octet boundary and within an octet boundary.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
 related_article4:
-    id: 165722
-    title: What are the main components of an IPv4 address structure?
+    id: 165727
+    title: >-
+        What are the potential problems associated with large broadcast domains?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-an-ipv4-address-structure
+    url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
 related_article5:
-    id: 165730
-    title: How does prefix length relate to subnet masks and impact the number of available hosts?
+    id: 165735
+    title: >-
+        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
+    url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
 ---
 
 &nbsp;

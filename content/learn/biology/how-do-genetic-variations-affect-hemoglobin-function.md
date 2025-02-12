@@ -2,8 +2,10 @@
 _schema: default
 id: 167891
 date: 2025-02-01
-title: How do genetic variations affect hemoglobin function?
-article_title: How do genetic variations affect hemoglobin function?
+title: >-
+    How do genetic variations affect hemoglobin function?
+article_title: >-
+    How do genetic variations affect hemoglobin function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-genetic-variations-affect-hemoglobin-function.md
 url: /learn/biology/questions/how-do-genetic-variations-affect-hemoglobin-function
 score: -1.0
 related_article1:
+    id: 167890
+    title: >-
+        What is the structure and function of hemoglobin?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-structure-and-function-of-hemoglobin
+related_article2:
     id: 167888
-    title: What is genetic variation and why is it important in populations?
+    title: >-
+        What is genetic variation and why is it important in populations?
     subject: Biology
     url: /learn/biology/questions/what-is-genetic-variation-and-why-is-it-important-in-populations
-related_article2:
+related_article3:
+    id: 167876
+    title: >-
+        Describe an example of codominance and its phenotypic outcome.
+    subject: Biology
+    url: /learn/biology/questions/describe-an-example-of-codominance-and-its-phenotypic-outcome
+related_article4:
     id: 167887
-    title: Explain the role of genetic models in understanding phenotypic outcomes.
+    title: >-
+        Explain the role of genetic models in understanding phenotypic outcomes.
     subject: Biology
     url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
-related_article3:
-    id: 167870
-    title: Provide an example of incomplete dominance and describe the phenotypic outcome.
-    subject: Biology
-    url: /learn/biology/questions/provide-an-example-of-incomplete-dominance-and-describe-the-phenotypic-outcome
-related_article4:
-    id: 167878
-    title: How does complete penetrance differ from incomplete penetrance?
-    subject: Biology
-    url: /learn/biology/questions/how-does-complete-penetrance-differ-from-incomplete-penetrance
 related_article5:
-    id: 167886
-    title: What is the genetic basis of cystic fibrosis?
+    id: 167869
+    title: >-
+        What is incomplete dominance and how does it differ from complete dominance?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-genetic-basis-of-cystic-fibrosis
+    url: /learn/biology/questions/what-is-incomplete-dominance-and-how-does-it-differ-from-complete-dominance
 ---
 
 &nbsp;

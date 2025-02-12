@@ -2,8 +2,10 @@
 _schema: default
 id: 166528
 date: 2025-01-30
-title: What is the role of the artist in expressing artistic intention and subject matter?
-article_title: What is the role of the artist in expressing artistic intention and subject matter?
+title: >-
+    What is the role of the artist in expressing artistic intention and subject matter?
+article_title: >-
+    What is the role of the artist in expressing artistic intention and subject matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-s
 url: /learn/education-studies/questions/what-is-the-role-of-the-artist-in-expressing-artistic-intention-and-subject-matter
 score: -1.0
 related_article1:
-    id: 166530
-    title: What is the essence of art, and how do art movements and trends reflect this essence?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-essence-of-art-and-how-do-art-movements-and-trends-reflect-this-essence
-related_article2:
-    id: 166514
-    title: What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-modern-art-and-how-do-they-differ-from-previous-art-movements
-related_article3:
     id: 166527
-    title: In what ways does Modern Art serve as a form of social commentary?
+    title: >-
+        In what ways does Modern Art serve as a form of social commentary?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-does-modern-art-serve-as-a-form-of-social-commentary
-related_article4:
+related_article2:
+    id: 166533
+    title: >-
+        In what ways does art serve as a form of social and political commentary?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-does-art-serve-as-a-form-of-social-and-political-commentary
+related_article3:
     id: 166514
-    title: What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
+    title: >-
+        What are the defining characteristics of Modern Art, and how do they differ from previous art movements?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-modern-art-and-how-do-they-differ-from-previous-art-movements
-related_article5:
-    id: 166516
-    title: What are the main characteristics of Baroque Art, and how do they reflect the historical context of the time?
+related_article4:
+    id: 166531
+    title: >-
+        How does art influence society and provide cultural commentary?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-baroque-art-and-how-do-they-reflect-the-historical-context-of-the-time
+    url: /learn/education-studies/questions/how-does-art-influence-society-and-provide-cultural-commentary
+related_article5:
+    id: 166519
+    title: >-
+        What is the role of visual analysis in art criticism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-visual-analysis-in-art-criticism
 ---
 
 &nbsp;

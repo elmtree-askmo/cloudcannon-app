@@ -2,8 +2,10 @@
 _schema: default
 id: 169121
 date: 2025-02-04
-title: How is interior design considered a gendered field within architecture?
-article_title: How is interior design considered a gendered field within architecture?
+title: >-
+    How is interior design considered a gendered field within architecture?
+article_title: >-
+    How is interior design considered a gendered field within architecture?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-interior-design-considered-a-gendered-field-within-architectur
 url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
 score: 8.5
 related_article1:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    id: 169106
+    title: >-
+        What were some of the challenges faced by women in architecture during the early 20th century?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
 related_article2:
-    id: 169108
-    title: Name a few notable female architects and describe their contributions to the field.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
-related_article3:
-    id: 169112
-    title: How have feminist archival methodologies contributed to the understanding of architectural histories?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
-related_article4:
-    id: 169108
-    title: Name a few notable female architects and describe their contributions to the field.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
-related_article5:
     id: 169109
-    title: What are some key architectural projects led by women that have gained recognition?
+    title: >-
+        What are some key architectural projects led by women that have gained recognition?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-some-key-architectural-projects-led-by-women-that-have-gained-recognition
+related_article3:
+    id: 169111
+    title: >-
+        What role did migrant women play in the postwar economic transformations of Hong Kong?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+related_article4:
+    id: 169112
+    title: >-
+        How have feminist archival methodologies contributed to the understanding of architectural histories?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
+related_article5:
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 ---
 
 &nbsp;

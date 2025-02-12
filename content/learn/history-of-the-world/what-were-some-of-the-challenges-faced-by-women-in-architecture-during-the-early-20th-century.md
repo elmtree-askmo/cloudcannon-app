@@ -2,8 +2,10 @@
 _schema: default
 id: 169106
 date: 2025-02-04
-title: What were some of the challenges faced by women in architecture during the early 20th century?
-article_title: What were some of the challenges faced by women in architecture during the early 20th century?
+title: >-
+    What were some of the challenges faced by women in architecture during the early 20th century?
+article_title: >-
+    What were some of the challenges faced by women in architecture during the early 20th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-some-of-the-challenges-faced-by-women-in-architecture-durin
 url: /learn/history-of-the-world/questions/what-were-some-of-the-challenges-faced-by-women-in-architecture-during-the-early-20th-century
 score: 9.0
 related_article1:
-    id: 169116
-    title: What are some challenges in the historical archiving of women's work in architecture?
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 related_article2:
-    id: 169115
-    title: What challenges do female students and faculty face in architectural education?
+    id: 169119
+    title: >-
+        How did factory work shape gender roles in postwar Hong Kong's industrial workforce?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
+    url: /learn/history-of-the-world/questions/how-did-factory-work-shape-gender-roles-in-postwar-hong-kongs-industrial-workforce
 related_article3:
-    id: 169117
-    title: How did colonial patriarchy influence architectural practices and gender roles?
+    id: 169120
+    title: >-
+        What contributions did women make to the economic development of postwar Hong Kong?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-colonial-patriarchy-influence-architectural-practices-and-gender-roles
+    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
 related_article4:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    id: 169112
+    title: >-
+        How have feminist archival methodologies contributed to the understanding of architectural histories?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/how-have-feminist-archival-methodologies-contributed-to-the-understanding-of-architectural-histories
 related_article5:
-    id: 169115
-    title: What challenges do female students and faculty face in architectural education?
+    id: 169109
+    title: >-
+        What are some key architectural projects led by women that have gained recognition?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-challenges-do-female-students-and-faculty-face-in-architectural-education
+    url: /learn/history-of-the-world/questions/what-are-some-key-architectural-projects-led-by-women-that-have-gained-recognition
 ---
 
 &nbsp;

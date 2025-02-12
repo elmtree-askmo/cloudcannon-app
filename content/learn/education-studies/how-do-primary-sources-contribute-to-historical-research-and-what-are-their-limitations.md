@@ -2,8 +2,10 @@
 _schema: default
 id: 168375
 date: 2025-02-03
-title: How do primary sources contribute to historical research, and what are their limitations?
-article_title: How do primary sources contribute to historical research, and what are their limitations?
+title: >-
+    How do primary sources contribute to historical research, and what are their limitations?
+article_title: >-
+    How do primary sources contribute to historical research, and what are their limitations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-primary-sources-contribute-to-historical-research-and-what-are
 url: /learn/education-studies/questions/how-do-primary-sources-contribute-to-historical-research-and-what-are-their-limitations
 score: -1.0
 related_article1:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
+    id: 168392
+    title: >-
+        How did hunting and gathering societies organize themselves socially?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
+    url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
 related_article2:
-    id: 168380
-    title: How did early metallurgical practices impact ancient societies?
+    id: 168395
+    title: >-
+        What types of historical evidence are used to study past societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-early-metallurgical-practices-impact-ancient-societies
+    url: /learn/education-studies/questions/what-types-of-historical-evidence-are-used-to-study-past-societies
 related_article3:
-    id: 168393
-    title: How did prehistoric societies adapt to environmental changes?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-prehistoric-societies-adapt-to-environmental-changes
-related_article4:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
-related_article5:
     id: 168390
-    title: How does genetic data help in tracing human migration patterns?
+    title: >-
+        How does genetic data help in tracing human migration patterns?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
+related_article4:
+    id: 168387
+    title: >-
+        What were the main characteristics and tools of the Paleolithic Era?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-main-characteristics-and-tools-of-the-paleolithic-era
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164792
 date: 2025-01-28
-title: How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
-article_title: How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+title: >-
+    How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
+article_title: >-
+    How do fMRI scanning and AI algorithms work together in the neural decoding of audio stimuli?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-de
 url: /learn/psychology/questions/how-do-fmri-scanning-and-ai-algorithms-work-together-in-the-neural-decoding-of-audio-stimuli
 score: -1.0
 related_article1:
-    id: 164791
-    title: What are the current regulations regarding brain data protection, and what ethical considerations are involved?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-current-regulations-regarding-brain-data-protection-and-what-ethical-considerations-are-involved
-related_article2:
     id: 164783
-    title: What are the implications of AI applications in mind reading research for mental privacy?
+    title: >-
+        What are the implications of AI applications in mind reading research for mental privacy?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-implications-of-ai-applications-in-mind-reading-research-for-mental-privacy
+related_article2:
+    id: 164786
+    title: >-
+        What are the recent findings from the University of Delaware regarding mind reading research, and what are their implications for mental privacy?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-recent-findings-from-the-university-of-delaware-regarding-mind-reading-research-and-what-are-their-implications-for-mental-privacy
 related_article3:
-    id: 164782
-    title: How does ChatGPT technology contribute to AI applications in neuroscience, specifically in audio decoding?
+    id: 164781
+    title: >-
+        What are the primary challenges faced in brain activity decoding, particularly concerning accuracy and data requirements?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-chatgpt-technology-contribute-to-ai-applications-in-neuroscience-specifically-in-audio-decoding
-related_article4:
-    id: 164789
-    title: How do AI algorithms in brain interpretation utilize large data sets, and what challenges do they face in terms of training duration and data accessibility?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-ai-algorithms-in-brain-interpretation-utilize-large-data-sets-and-what-challenges-do-they-face-in-terms-of-training-duration-and-data-accessibility
-related_article5:
-    id: 164780
-    title: What are the main techniques used for decoding brain activity, and how do they differ in their approach?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-techniques-used-for-decoding-brain-activity-and-how-do-they-differ-in-their-approach
+    url: /learn/psychology/questions/what-are-the-primary-challenges-faced-in-brain-activity-decoding-particularly-concerning-accuracy-and-data-requirements
 ---
 
 &nbsp;

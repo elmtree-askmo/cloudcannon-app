@@ -2,8 +2,10 @@
 _schema: default
 id: 163265
 date: 2025-01-26
-title: How can healthcare professionals balance current evidence with clinical judgment in practice?
-article_title: How can healthcare professionals balance current evidence with clinical judgment in practice?
+title: >-
+    How can healthcare professionals balance current evidence with clinical judgment in practice?
+article_title: >-
+    How can healthcare professionals balance current evidence with clinical judgment in practice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-healthcare-professionals-balance-current-evidence-with-clinic
 url: /learn/health-studies/questions/how-can-healthcare-professionals-balance-current-evidence-with-clinical-judgment-in-practice
 score: -1.0
 related_article1:
-    id: 163247
-    title: How can researchers minimize the role of chance in their studies?
+    id: 163260
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
+    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
 related_article2:
-    id: 163262
-    title: What are point of care tools and how are they used in clinical settings?
+    id: 163260
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
+    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
 related_article3:
     id: 163246
-    title: What is internal validity and why is it important in research studies?
+    title: >-
+        What is internal validity and why is it important in research studies?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-internal-validity-and-why-is-it-important-in-research-studies
 related_article4:
-    id: 163253
-    title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    id: 163260
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
+    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
 related_article5:
-    id: 163253
-    title: What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    id: 163262
+    title: >-
+        What are point of care tools and how are they used in clinical settings?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
+    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
 ---
 
 &nbsp;

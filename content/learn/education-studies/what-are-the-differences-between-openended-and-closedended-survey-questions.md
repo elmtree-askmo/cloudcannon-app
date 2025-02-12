@@ -2,8 +2,10 @@
 _schema: default
 id: 165104
 date: 2025-01-28
-title: What are the differences between open-ended and closed-ended survey questions?
-article_title: What are the differences between open-ended and closed-ended survey questions?
+title: >-
+    What are the differences between open-ended and closed-ended survey questions?
+article_title: >-
+    What are the differences between open-ended and closed-ended survey questions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-openended-and-closedended-survey-que
 url: /learn/education-studies/questions/what-are-the-differences-between-openended-and-closedended-survey-questions
 score: -1.0
 related_article1:
-    id: 165102
-    title: What are the key differences between between-subjects and within-subjects experimental designs?
+    id: 165114
+    title: >-
+        Why is reliability important in research and what are the types of reliability?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-betweensubjects-and-withinsubjects-experimental-designs
+    url: /learn/education-studies/questions/why-is-reliability-important-in-research-and-what-are-the-types-of-reliability
 related_article2:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
+    id: 165096
+    title: >-
+        Describe the different types of measurement scales used for dependent variables.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
+    url: /learn/education-studies/questions/describe-the-different-types-of-measurement-scales-used-for-dependent-variables
 related_article3:
-    id: 165111
-    title: What is the difference between continuous and categorical variables?
+    id: 165106
+    title: >-
+        What are some common challenges in data collection related to participant and observer bias?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
+    url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
 related_article4:
-    id: 165118
-    title: What are the challenges in data interpretation and how can bias be overcome?
+    id: 165105
+    title: >-
+        How can the order of questions in a survey impact responses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-challenges-in-data-interpretation-and-how-can-bias-be-overcome
+    url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
 related_article5:
-    id: 165112
-    title: How can participant bias be mitigated in research studies?
+    id: 165116
+    title: >-
+        What are some common pitfalls in reporting experimental outcomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participant-bias-be-mitigated-in-research-studies
+    url: /learn/education-studies/questions/what-are-some-common-pitfalls-in-reporting-experimental-outcomes
 ---
 
 &nbsp;

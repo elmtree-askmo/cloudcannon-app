@@ -2,8 +2,10 @@
 _schema: default
 id: 160559
 date: 2025-01-24
-title: Explain the significance of communication technologies and transportation networks in global connectivity.
-article_title: Explain the significance of communication technologies and transportation networks in global connectivity.
+title: >-
+    Explain the significance of communication technologies and transportation networks in global connectivity.
+article_title: >-
+    Explain the significance of communication technologies and transportation networks in global connectivity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-significance-of-communication-technologies-and-transporta
 url: /learn/sociology/questions/explain-the-significance-of-communication-technologies-and-transportation-networks-in-global-connectivity
 score: -1.0
 related_article1:
-    id: 160541
-    title: Explain the concept of time-space compression in the context of globalization.
+    id: 160091
+    title: >-
+        What is the significance of physical and human geography in understanding spatial organization?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-timespace-compression-in-the-context-of-globalization
+    url: /learn/sociology/questions/what-is-the-significance-of-physical-and-human-geography-in-understanding-spatial-organization
 related_article2:
-    id: 160626
-    title: How do borders and boundaries influence territoriality and state sovereignty?
+    id: 160494
+    title: >-
+        What are the key factors driving urbanization and city development in urban transformations?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+    url: /learn/sociology/questions/what-are-the-key-factors-driving-urbanization-and-city-development-in-urban-transformations
 related_article3:
-    id: 160235
-    title: Discuss Doreen Massey's theoretical contributions to time-space compression and place dynamics.
+    id: 160623
+    title: >-
+        How do socio-cultural impacts affect cultural attributes and social dynamics in development?
     subject: Sociology
-    url: /learn/sociology/questions/discuss-doreen-masseys-theoretical-contributions-to-timespace-compression-and-place-dynamics
+    url: /learn/sociology/questions/how-do-sociocultural-impacts-affect-cultural-attributes-and-social-dynamics-in-development
 related_article4:
-    id: 160492
-    title: What strategies do states use to maintain territorial control and sovereignty in political actions?
+    id: 160103
+    title: >-
+        What are the key elements of human systems, such as population distribution and cultural landscapes, in geographic settings?
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-do-states-use-to-maintain-territorial-control-and-sovereignty-in-political-actions
+    url: /learn/sociology/questions/what-are-the-key-elements-of-human-systems-such-as-population-distribution-and-cultural-landscapes-in-geographic-settings
 related_article5:
-    id: 160641
-    title: How do trade relations and global supply chains contribute to global economic networks?
+    id: 160560
+    title: >-
+        What are the local impacts of cultural exchange and economic integration due to time-space compression?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-economic-networks
+    url: /learn/sociology/questions/what-are-the-local-impacts-of-cultural-exchange-and-economic-integration-due-to-timespace-compression
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 161673
 date: 2025-01-24
-title: What are the main characteristics of open source software?
-article_title: What are the main characteristics of open source software?
+title: >-
+    What are the main characteristics of open source software?
+article_title: >-
+    What are the main characteristics of open source software?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-characteristics-of-open-source-software.md
 url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
 score: -1.0
 related_article1:
-    id: 161542
-    title: What is the function of failover mechanisms in mainframe fault tolerance?
+    id: 161300
+    title: >-
+        What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-function-of-failover-mechanisms-in-mainframe-fault-tolerance
+    url: /learn/computer-science/questions/what-cooling-techniques-are-commonly-used-to-maintain-optimal-temperatures-in-computing-systems
 related_article2:
-    id: 161308
-    title: What are the disadvantages of a graphical user interface?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-graphical-user-interface
-related_article3:
-    id: 161298
-    title: How does checkpointing enhance fault tolerance in supercomputers?
+    id: 161559
+    title: >-
+        How does checkpointing enhance fault tolerance in supercomputers?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-checkpointing-enhance-fault-tolerance-in-supercomputers
+related_article3:
+    id: 161295
+    title: >-
+        What does MIPS measure in mainframe performance metrics?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
 related_article4:
-    id: 161311
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161313
+    title: >-
+        How does encryption contribute to access control in computing security?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/how-does-encryption-contribute-to-access-control-in-computing-security
 related_article5:
-    id: 161649
-    title: What is the purpose of encryption in access control?
+    id: 161300
+    title: >-
+        What cooling techniques are commonly used to maintain optimal temperatures in computing systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
+    url: /learn/computer-science/questions/what-cooling-techniques-are-commonly-used-to-maintain-optimal-temperatures-in-computing-systems
 ---
 
 &nbsp;

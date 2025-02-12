@@ -2,8 +2,10 @@
 _schema: default
 id: 160719
 date: 2025-01-24
-title: How is image processing utilized in computer graphics?
-article_title: How is image processing utilized in computer graphics?
+title: >-
+    How is image processing utilized in computer graphics?
+article_title: >-
+    How is image processing utilized in computer graphics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-image-processing-utilized-in-computer-graphics.md
 url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
 score: -1.0
 related_article1:
-    id: 161036
-    title: What are the main stages of the software engineering design process?
+    id: 160911
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-stages-of-the-software-engineering-design-process
+    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
 related_article2:
-    id: 161037
-    title: How does problem analysis contribute to effective computational problem solving?
+    id: 160728
+    title: >-
+        What are the main components of a robot's mechanical system?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-effective-computational-problem-solving
+    url: /learn/computer-science/questions/what-are-the-main-components-of-a-robots-mechanical-system
 related_article3:
-    id: 160714
-    title: What are the main components of network architecture?
+    id: 161038
+    title: >-
+        What are the primary functions of database management systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-components-of-network-architecture
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
 related_article4:
-    id: 160987
-    title: What are the principles of usability in user interface design?
+    id: 161035
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 related_article5:
-    id: 161042
-    title: What are the differences between 2D and 3D graphics representation?
+    id: 160722
+    title: >-
+        What is the difference between discrete event simulation and continuous simulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
+    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
 ---
 
 &nbsp;

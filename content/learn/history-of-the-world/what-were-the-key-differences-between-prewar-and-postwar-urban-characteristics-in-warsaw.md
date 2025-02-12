@@ -2,8 +2,10 @@
 _schema: default
 id: 169060
 date: 2025-02-04
-title: What were the key differences between pre-war and post-war urban characteristics in Warsaw?
-article_title: What were the key differences between pre-war and post-war urban characteristics in Warsaw?
+title: >-
+    What were the key differences between pre-war and post-war urban characteristics in Warsaw?
+article_title: >-
+    What were the key differences between pre-war and post-war urban characteristics in Warsaw?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-differences-between-prewar-and-postwar-urban-charac
 url: /learn/history-of-the-world/questions/what-were-the-key-differences-between-prewar-and-postwar-urban-characteristics-in-warsaw
 score: 9.0
 related_article1:
-    id: 169064
-    title: In what ways was urban development used as a tool for political propaganda in Warsaw?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-was-urban-development-used-as-a-tool-for-political-propaganda-in-warsaw
-related_article2:
     id: 169068
-    title: How did the government use reconstruction efforts to unify the populace in post-war Warsaw?
+    title: >-
+        How did the government use reconstruction efforts to unify the populace in post-war Warsaw?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-government-use-reconstruction-efforts-to-unify-the-populace-in-postwar-warsaw
+related_article2:
+    id: 169057
+    title: >-
+        How did the Communist regime influence architectural reconstruction in Warsaw?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-communist-regime-influence-architectural-reconstruction-in-warsaw
 related_article3:
-    id: 169065
-    title: What were the main criticisms of capitalist architecture according to Socialist Realism?
+    id: 169056
+    title: >-
+        What were the main challenges faced during the post-war recovery efforts in Warsaw?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-main-criticisms-of-capitalist-architecture-according-to-socialist-realism
+    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-during-the-postwar-recovery-efforts-in-warsaw
 related_article4:
-    id: 169058
-    title: What are the defining characteristics of Socialist Realism in architecture?
+    id: 169056
+    title: >-
+        What were the main challenges faced during the post-war recovery efforts in Warsaw?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-characteristics-of-socialist-realism-in-architecture
+    url: /learn/history-of-the-world/questions/what-were-the-main-challenges-faced-during-the-postwar-recovery-efforts-in-warsaw
 related_article5:
-    id: 169058
-    title: What are the defining characteristics of Socialist Realism in architecture?
+    id: 169062
+    title: >-
+        What techniques were used in the reconstruction of Warsaw's historical buildings?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-defining-characteristics-of-socialist-realism-in-architecture
+    url: /learn/history-of-the-world/questions/what-techniques-were-used-in-the-reconstruction-of-warsaws-historical-buildings
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163976
 date: 2025-01-28
-title: What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
-article_title: What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
+title: >-
+    What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
+article_title: >-
+    What is the historical significance of Pseudo-Aristotle's 'Constitution of the Athenians' in understanding Athenian democracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-historical-significance-of-pseudoaristotles-constitution-
 url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-pseudoaristotles-constitution-of-the-athenians-in-understanding-athenian-democracy
 score: 9.0
 related_article1:
-    id: 163973
-    title: How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
+    id: 163971
+    title: >-
+        How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-role-and-selection-of-dikastai-reflect-the-sovereignty-of-athenian-law-courts
+    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
 related_article2:
-    id: 163966
-    title: Who authored the 'Constitution of the Athenians,' and why is it significant in understanding Athenian political systems?
+    id: 163974
+    title: >-
+        What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-authored-the-constitution-of-the-athenians-and-why-is-it-significant-in-understanding-athenian-political-systems
+    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
 related_article3:
     id: 163961
-    title: What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
+    title: >-
+        What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
 related_article4:
     id: 163961
-    title: What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
+    title: >-
+        What was the significance of the law against tyranny in Athenian democracy, and how was it preserved?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-law-against-tyranny-in-athenian-democracy-and-how-was-it-preserved
 related_article5:
-    id: 163971
-    title: How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
+    id: 163974
+    title: >-
+        What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
+    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
 ---
 
 &nbsp;

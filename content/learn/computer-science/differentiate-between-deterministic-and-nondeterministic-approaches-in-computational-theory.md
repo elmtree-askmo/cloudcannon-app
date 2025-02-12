@@ -2,8 +2,10 @@
 _schema: default
 id: 170781
 date: 2025-02-06
-title: Differentiate between deterministic and non-deterministic approaches in computational theory.
-article_title: Differentiate between deterministic and non-deterministic approaches in computational theory.
+title: >-
+    Differentiate between deterministic and non-deterministic approaches in computational theory.
+article_title: >-
+    Differentiate between deterministic and non-deterministic approaches in computational theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-deterministic-and-nondeterministic-approaches-i
 url: /learn/computer-science/questions/differentiate-between-deterministic-and-nondeterministic-approaches-in-computational-theory
 score: -1.0
 related_article1:
-    id: 170788
-    title: What are the key steps in problem analysis for effective problem-solving?
+    id: 170782
+    title: >-
+        What are the characteristics of non-deterministic polynomial time?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-in-problem-analysis-for-effective-problemsolving
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-nondeterministic-polynomial-time
 related_article2:
-    id: 170788
-    title: What are the key steps in problem analysis for effective problem-solving?
+    id: 170787
+    title: >-
+        Explain the Euclidean algorithm for finding the greatest common divisor.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-steps-in-problem-analysis-for-effective-problemsolving
+    url: /learn/computer-science/questions/explain-the-euclidean-algorithm-for-finding-the-greatest-common-divisor
 related_article3:
+    id: 170786
+    title: >-
+        How does the RSA algorithm utilize public and private key encryption?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-the-rsa-algorithm-utilize-public-and-private-key-encryption
+related_article4:
     id: 170789
-    title: How does data representation impact algorithm development and testing?
+    title: >-
+        How does data representation impact algorithm development and testing?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
-related_article4:
-    id: 170776
-    title: Explain the significance of the halting problem in computability theory.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-halting-problem-in-computability-theory
 related_article5:
-    id: 170775
-    title: What is the scope of computability theory and how does it relate to problem solvability?
+    id: 170789
+    title: >-
+        How does data representation impact algorithm development and testing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-scope-of-computability-theory-and-how-does-it-relate-to-problem-solvability
+    url: /learn/computer-science/questions/how-does-data-representation-impact-algorithm-development-and-testing
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167021
 date: 2025-01-31
-title: How are disaccharides formed through glycosidic bonds?
-article_title: How are disaccharides formed through glycosidic bonds?
+title: >-
+    How are disaccharides formed through glycosidic bonds?
+article_title: >-
+    How are disaccharides formed through glycosidic bonds?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-disaccharides-formed-through-glycosidic-bonds.md
 url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
 score: -1.0
 related_article1:
+    id: 167031
+    title: >-
+        How does cellulose resist hydrolysis, and why is this important for plants?
+    subject: Biology
+    url: /learn/biology/questions/how-does-cellulose-resist-hydrolysis-and-why-is-this-important-for-plants
+related_article2:
+    id: 167020
+    title: >-
+        What is the difference between alpha and beta ring structures in monosaccharides?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-difference-between-alpha-and-beta-ring-structures-in-monosaccharides
+related_article3:
     id: 167030
-    title: What is the structure and function of glycogen in animals?
+    title: >-
+        What is the structure and function of glycogen in animals?
     subject: Biology
     url: /learn/biology/questions/what-is-the-structure-and-function-of-glycogen-in-animals
-related_article2:
-    id: 167025
-    title: How does glycogen function as an energy storage molecule in animals?
-    subject: Biology
-    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
-related_article3:
-    id: 167024
-    title: Why are polysaccharides biologically important?
-    subject: Biology
-    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
 related_article4:
-    id: 167025
-    title: How does glycogen function as an energy storage molecule in animals?
+    id: 167033
+    title: >-
+        What are the different types of starch, and how do they contribute to plant energy storage?
     subject: Biology
-    url: /learn/biology/questions/how-does-glycogen-function-as-an-energy-storage-molecule-in-animals
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
 related_article5:
-    id: 167032
-    title: What is the composition and structure of chitin, and how does it function in fungi and arthropods?
+    id: 167027
+    title: >-
+        How does cellulose provide structural support in plant cell walls?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-composition-and-structure-of-chitin-and-how-does-it-function-in-fungi-and-arthropods
+    url: /learn/biology/questions/how-does-cellulose-provide-structural-support-in-plant-cell-walls
 ---
 
 &nbsp;

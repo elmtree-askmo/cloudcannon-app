@@ -2,8 +2,10 @@
 _schema: default
 id: 161471
 date: 2025-01-24
-title: What is the primary purpose of an algorithm in problem-solving?
-article_title: What is the primary purpose of an algorithm in problem-solving?
+title: >-
+    What is the primary purpose of an algorithm in problem-solving?
+article_title: >-
+    What is the primary purpose of an algorithm in problem-solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-purpose-of-an-algorithm-in-problemsolving.md
 url: /learn/computer-science/questions/what-is-the-primary-purpose-of-an-algorithm-in-problemsolving
 score: -1.0
 related_article1:
-    id: 161472
-    title: How do flowcharts help in communicating system processes?
+    id: 161487
+    title: >-
+        What is the role of variables in data storage and manipulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
+    url: /learn/computer-science/questions/what-is-the-role-of-variables-in-data-storage-and-manipulation
 related_article2:
     id: 161186
-    title: Explain the difference between count-controlled and condition-controlled loops.
+    title: >-
+        Explain the difference between count-controlled and condition-controlled loops.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
 related_article3:
-    id: 161488
-    title: How do control structures like sequence, selection, and iteration influence program flow?
+    id: 161187
+    title: >-
+        What is string manipulation and why is it important in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-control-structures-like-sequence-selection-and-iteration-influence-program-flow
+    url: /learn/computer-science/questions/what-is-string-manipulation-and-why-is-it-important-in-programming
 related_article4:
-    id: 161477
-    title: Explain the difference between count-controlled and condition-controlled loops.
+    id: 161182
+    title: >-
+        What is pseudocode and how is it used in programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
+    url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
 related_article5:
-    id: 161479
-    title: Differentiate between procedures and functions in subroutines.
+    id: 161472
+    title: >-
+        How do flowcharts help in communicating system processes?
     subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-procedures-and-functions-in-subroutines
+    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
 ---
 
 &nbsp;

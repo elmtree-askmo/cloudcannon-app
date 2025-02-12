@@ -2,8 +2,10 @@
 _schema: default
 id: 170358
 date: 2025-02-06
-title: What are the main carbon reservoirs in the carbon cycle?
-article_title: What are the main carbon reservoirs in the carbon cycle?
+title: >-
+    What are the main carbon reservoirs in the carbon cycle?
+article_title: >-
+    What are the main carbon reservoirs in the carbon cycle?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-carbon-reservoirs-in-the-carbon-cycle.md
 url: /learn/biology/questions/what-are-the-main-carbon-reservoirs-in-the-carbon-cycle
 score: -1.0
 related_article1:
-    id: 170367
-    title: How is ATP produced in the mitochondria?
+    id: 170364
+    title: >-
+        Describe the chemical equation for cellular respiration, including reactants and products.
     subject: Biology
-    url: /learn/biology/questions/how-is-atp-produced-in-the-mitochondria
+    url: /learn/biology/questions/describe-the-chemical-equation-for-cellular-respiration-including-reactants-and-products
 related_article2:
-    id: 170368
-    title: What is the function of chlorophyll in chloroplasts?
+    id: 170370
+    title: >-
+        Describe the structure of mitochondria and its role in ATP synthesis.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+    url: /learn/biology/questions/describe-the-structure-of-mitochondria-and-its-role-in-atp-synthesis
 related_article3:
-    id: 170374
-    title: Why are carbon sinks important in ecosystems?
+    id: 170373
+    title: >-
+        How do stomata regulate gas exchange in plants?
     subject: Biology
-    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
 related_article4:
-    id: 170368
-    title: What is the function of chlorophyll in chloroplasts?
+    id: 170361
+    title: >-
+        Write the balanced chemical equation for photosynthesis.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+    url: /learn/biology/questions/write-the-balanced-chemical-equation-for-photosynthesis
 related_article5:
-    id: 170366
-    title: Explain the role of ATP in cellular processes.
+    id: 170362
+    title: >-
+        How do large leaves in rainforest plants aid in photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
+    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
 ---
 
 &nbsp;

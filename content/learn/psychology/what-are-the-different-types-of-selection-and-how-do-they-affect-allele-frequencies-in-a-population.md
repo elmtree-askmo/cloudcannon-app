@@ -2,8 +2,10 @@
 _schema: default
 id: 166385
 date: 2025-01-30
-title: What are the different types of selection, and how do they affect allele frequencies in a population?
-article_title: What are the different types of selection, and how do they affect allele frequencies in a population?
+title: >-
+    What are the different types of selection, and how do they affect allele frequencies in a population?
+article_title: >-
+    What are the different types of selection, and how do they affect allele frequencies in a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-selection-and-how-do-they-affect-alle
 url: /learn/psychology/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-allele-frequencies-in-a-population
 score: -1.0
 related_article1:
-    id: 166380
-    title: How does natural selection influence the evolution of animal behavior?
+    id: 166394
+    title: >-
+        How do vertebrate organ systems interact to influence animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-natural-selection-influence-the-evolution-of-animal-behavior
+    url: /learn/psychology/questions/how-do-vertebrate-organ-systems-interact-to-influence-animal-behavior
 related_article2:
-    id: 166377
-    title: Differentiate between proximate and ultimate questions in the context of animal behavior.
+    id: 166384
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-proximate-and-ultimate-questions-in-the-context-of-animal-behavior
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
 related_article3:
-    id: 166389
-    title: Differentiate between homology and homoplasy with examples.
+    id: 166388
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships among species?
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-homology-and-homoplasy-with-examples
+    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
 related_article4:
-    id: 166393
-    title: What are the effects of sensory input and integration on animal behavior?
+    id: 166379
+    title: >-
+        Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-sensory-input-and-integration-on-animal-behavior
+    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
 related_article5:
-    id: 166375
-    title: How do behavioral adaptations enhance an animal's survival and reproduction?
+    id: 166387
+    title: >-
+        What is heritability, and how is it studied in behavioral traits?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
+    url: /learn/psychology/questions/what-is-heritability-and-how-is-it-studied-in-behavioral-traits
 ---
 
 &nbsp;

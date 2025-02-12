@@ -2,8 +2,10 @@
 _schema: default
 id: 165887
 date: 2025-01-29
-title: How does lifelong learning contribute to the development of a research community?
-article_title: How does lifelong learning contribute to the development of a research community?
+title: >-
+    How does lifelong learning contribute to the development of a research community?
+article_title: >-
+    How does lifelong learning contribute to the development of a research community?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-lifelong-learning-contribute-to-the-development-of-a-researc
 url: /learn/education-studies/questions/how-does-lifelong-learning-contribute-to-the-development-of-a-research-community
 score: -1.0
 related_article1:
-    id: 165900
-    title: What are effective study techniques for exam preparation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-study-techniques-for-exam-preparation
-related_article2:
-    id: 165890
-    title: What are the essential skills needed for conducting independent research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-skills-needed-for-conducting-independent-research
-related_article3:
     id: 165904
-    title: How does self-directed learning enhance independent research skills?
+    title: >-
+        How does self-directed learning enhance independent research skills?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-selfdirected-learning-enhance-independent-research-skills
+related_article2:
+    id: 165900
+    title: >-
+        What are effective study techniques for exam preparation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-effective-study-techniques-for-exam-preparation
+related_article3:
+    id: 165882
+    title: >-
+        What is the primary role of a university as a research institution?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 related_article4:
-    id: 165888
-    title: Why is critical thinking considered essential in education, particularly in the arts and humanities?
+    id: 165890
+    title: >-
+        What are the essential skills needed for conducting independent research?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-critical-thinking-considered-essential-in-education-particularly-in-the-arts-and-humanities
+    url: /learn/education-studies/questions/what-are-the-essential-skills-needed-for-conducting-independent-research
 related_article5:
-    id: 165883
-    title: How does a lecturer contribute to the research focus of a university?
+    id: 165882
+    title: >-
+        What is the primary role of a university as a research institution?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-lecturer-contribute-to-the-research-focus-of-a-university
+    url: /learn/education-studies/questions/what-is-the-primary-role-of-a-university-as-a-research-institution
 ---
 
 &nbsp;

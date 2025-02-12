@@ -2,8 +2,10 @@
 _schema: default
 id: 159820
 date: 2025-01-23
-title: How do daily routines and social norms contribute to the social construction of place?
-article_title: How do daily routines and social norms contribute to the social construction of place?
+title: >-
+    How do daily routines and social norms contribute to the social construction of place?
+article_title: >-
+    How do daily routines and social norms contribute to the social construction of place?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-daily-routines-and-social-norms-contribute-to-the-social-const
 url: /learn/sociology/questions/how-do-daily-routines-and-social-norms-contribute-to-the-social-construction-of-place
 score: -1.0
 related_article1:
-    id: 159819
-    title: Explain the concept of social construction of place and its impact on collective memory.
+    id: 159825
+    title: >-
+        What are the main types of map projections and their characteristics?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-social-construction-of-place-and-its-impact-on-collective-memory
+    url: /learn/sociology/questions/what-are-the-main-types-of-map-projections-and-their-characteristics
 related_article2:
-    id: 159997
-    title: How does geographical imagination help in understanding geographic change?
+    id: 159821
+    title: >-
+        Discuss the role of emotional attachment in identity formation related to place.
     subject: Sociology
-    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
+    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
 related_article3:
-    id: 159826
-    title: How do raster and vector maps differ in GIS applications?
+    id: 159821
+    title: >-
+        Discuss the role of emotional attachment in identity formation related to place.
     subject: Sociology
-    url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+    url: /learn/sociology/questions/discuss-the-role-of-emotional-attachment-in-identity-formation-related-to-place
 related_article4:
-    id: 159831
-    title: How does geographical imagination help in understanding geographic change?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-geographical-imagination-help-in-understanding-geographic-change
-related_article5:
     id: 159826
-    title: How do raster and vector maps differ in GIS applications?
+    title: >-
+        How do raster and vector maps differ in GIS applications?
     subject: Sociology
     url: /learn/sociology/questions/how-do-raster-and-vector-maps-differ-in-gis-applications
+related_article5:
+    id: 159830
+    title: >-
+        Describe the concept of sense of place and its importance to insiders and outsiders.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-concept-of-sense-of-place-and-its-importance-to-insiders-and-outsiders
 ---
 
 &nbsp;

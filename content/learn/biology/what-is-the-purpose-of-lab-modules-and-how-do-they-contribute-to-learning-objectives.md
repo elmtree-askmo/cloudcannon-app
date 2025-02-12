@@ -2,8 +2,10 @@
 _schema: default
 id: 163365
 date: 2025-01-26
-title: What is the purpose of lab modules, and how do they contribute to learning objectives?
-article_title: What is the purpose of lab modules, and how do they contribute to learning objectives?
+title: >-
+    What is the purpose of lab modules, and how do they contribute to learning objectives?
+article_title: >-
+    What is the purpose of lab modules, and how do they contribute to learning objectives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-lear
 url: /learn/biology/questions/what-is-the-purpose-of-lab-modules-and-how-do-they-contribute-to-learning-objectives
 score: -1.0
 related_article1:
-    id: 163369
-    title: What is the purpose of lab handouts, and how should they be integrated with lab activities?
+    id: 163361
+    title: >-
+        What materials are necessary for lab participation, and why is each important?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-purpose-of-lab-handouts-and-how-should-they-be-integrated-with-lab-activities
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
 related_article2:
-    id: 163360
-    title: How can the scientific method handout be utilized effectively in lab settings?
+    id: 163361
+    title: >-
+        What materials are necessary for lab participation, and why is each important?
     subject: Biology
-    url: /learn/biology/questions/how-can-the-scientific-method-handout-be-utilized-effectively-in-lab-settings
+    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
 related_article3:
-    id: 163361
-    title: What materials are necessary for lab participation, and why is each important?
+    id: 163363
+    title: >-
+        What are the evaluation criteria for lab practical exams?
     subject: Biology
-    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+    url: /learn/biology/questions/what-are-the-evaluation-criteria-for-lab-practical-exams
 related_article4:
-    id: 163367
-    title: What are the primary communication channels for lab announcements and updates?
+    id: 163366
+    title: >-
+        How can students effectively prepare for and review lab modules?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-primary-communication-channels-for-lab-announcements-and-updates
+    url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
 related_article5:
-    id: 163361
-    title: What materials are necessary for lab participation, and why is each important?
+    id: 163366
+    title: >-
+        How can students effectively prepare for and review lab modules?
     subject: Biology
-    url: /learn/biology/questions/what-materials-are-necessary-for-lab-participation-and-why-is-each-important
+    url: /learn/biology/questions/how-can-students-effectively-prepare-for-and-review-lab-modules
 ---
 
 &nbsp;

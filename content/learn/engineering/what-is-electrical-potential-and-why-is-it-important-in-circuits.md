@@ -2,8 +2,10 @@
 _schema: default
 id: 167945
 date: 2025-02-02
-title: What is electrical potential and why is it important in circuits?
-article_title: What is electrical potential and why is it important in circuits?
+title: >-
+    What is electrical potential and why is it important in circuits?
+article_title: >-
+    What is electrical potential and why is it important in circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-electrical-potential-and-why-is-it-important-in-circuits.md
 url: /learn/engineering/questions/what-is-electrical-potential-and-why-is-it-important-in-circuits
 score: -1.0
 related_article1:
-    id: 167937
-    title: How is voltage distributed across resistors in a series circuit?
+    id: 167946
+    title: >-
+        How does the voltage drop across a resistor affect circuit performance?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-voltage-distributed-across-resistors-in-a-series-circuit
+    url: /learn/engineering/questions/how-does-the-voltage-drop-across-a-resistor-affect-circuit-performance
 related_article2:
+    id: 167934
+    title: >-
+        How does current flow differ between series and parallel circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-does-current-flow-differ-between-series-and-parallel-circuits
+related_article3:
     id: 167948
-    title: What are the key differences between series and parallel circuits in terms of current pathways?
+    title: >-
+        What are the key differences between series and parallel circuits in terms of current pathways?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-circuits-in-terms-of-current-pathways
-related_article3:
-    id: 167947
-    title: What is the impact of resistive loads on the brightness of bulbs in series versus parallel circuits?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-impact-of-resistive-loads-on-the-brightness-of-bulbs-in-series-versus-parallel-circuits
 related_article4:
-    id: 167944
-    title: Explain the concept of energy conservation in electrical circuits.
+    id: 167941
+    title: >-
+        Describe Kirchhoff's Voltage Law and its application in circuit analysis.
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-concept-of-energy-conservation-in-electrical-circuits
+    url: /learn/engineering/questions/describe-kirchhoffs-voltage-law-and-its-application-in-circuit-analysis
 related_article5:
-    id: 167940
-    title: What is the formula for calculating electrical power in a circuit, and what are its units?
+    id: 167933
+    title: >-
+        What is the effect of adding resistors in series on the total resistance of the circuit?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-formula-for-calculating-electrical-power-in-a-circuit-and-what-are-its-units
+    url: /learn/engineering/questions/what-is-the-effect-of-adding-resistors-in-series-on-the-total-resistance-of-the-circuit
 ---
 
 &nbsp;

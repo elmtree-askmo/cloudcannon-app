@@ -2,8 +2,10 @@
 _schema: default
 id: 165730
 date: 2025-01-29
-title: How does prefix length relate to subnet masks and impact the number of available hosts?
-article_title: How does prefix length relate to subnet masks and impact the number of available hosts?
+title: >-
+    How does prefix length relate to subnet masks and impact the number of available hosts?
+article_title: >-
+    How does prefix length relate to subnet masks and impact the number of available hosts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-o
 url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
 score: -1.0
 related_article1:
-    id: 165736
-    title: What strategies can be used to minimize unused addresses in a subnet?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
-related_article2:
     id: 165727
-    title: What are the potential problems associated with large broadcast domains?
+    title: >-
+        What are the potential problems associated with large broadcast domains?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
-related_article3:
+related_article2:
     id: 165724
-    title: What is the primary purpose of subnetting in a network?
+    title: >-
+        What is the primary purpose of subnetting in a network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
+related_article3:
+    id: 165726
+    title: >-
+        What is a broadcast domain and how do routers affect them?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
 related_article4:
-    id: 165725
-    title: Explain the difference between subnetting on an octet boundary and within an octet boundary.
+    id: 165724
+    title: >-
+        What is the primary purpose of subnetting in a network?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-difference-between-subnetting-on-an-octet-boundary-and-within-an-octet-boundary
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-subnetting-in-a-network
 related_article5:
-    id: 165731
-    title: What is the significance of using private IPv4 address space within intranets?
+    id: 165729
+    title: >-
+        What are the differences between common subnet masks such as /8, /16, and /24?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
+    url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
 ---
 
 &nbsp;

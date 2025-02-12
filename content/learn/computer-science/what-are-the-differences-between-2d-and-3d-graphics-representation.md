@@ -2,8 +2,10 @@
 _schema: default
 id: 161042
 date: 2025-01-24
-title: What are the differences between 2D and 3D graphics representation?
-article_title: What are the differences between 2D and 3D graphics representation?
+title: >-
+    What are the differences between 2D and 3D graphics representation?
+article_title: >-
+    What are the differences between 2D and 3D graphics representation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-2d-and-3d-graphics-representation.md
 url: /learn/computer-science/questions/what-are-the-differences-between-2d-and-3d-graphics-representation
 score: -1.0
 related_article1:
-    id: 160726
-    title: How does cache design impact computer architecture performance?
+    id: 161049
+    title: >-
+        What principles are essential for effective user interface design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-cache-design-impact-computer-architecture-performance
+    url: /learn/computer-science/questions/what-principles-are-essential-for-effective-user-interface-design
 related_article2:
-    id: 160722
-    title: What is the difference between discrete event simulation and continuous simulation?
+    id: 161044
+    title: >-
+        What is the role of simulation models in computer simulation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
+    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
 related_article3:
-    id: 160711
-    title: What are the primary functions of database management systems?
+    id: 160712
+    title: >-
+        How is pattern recognition used in data mining?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-database-management-systems
+    url: /learn/computer-science/questions/how-is-pattern-recognition-used-in-data-mining
 related_article4:
-    id: 160700
-    title: How does abstraction help in simplifying complex computing problems?
+    id: 160704
+    title: >-
+        What are the key steps in the software engineering design process?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
+    url: /learn/computer-science/questions/what-are-the-key-steps-in-the-software-engineering-design-process
 related_article5:
-    id: 160719
-    title: How is image processing utilized in computer graphics?
+    id: 160704
+    title: >-
+        What are the key steps in the software engineering design process?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-image-processing-utilized-in-computer-graphics
+    url: /learn/computer-science/questions/what-are-the-key-steps-in-the-software-engineering-design-process
 ---
 
 &nbsp;

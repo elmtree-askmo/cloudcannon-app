@@ -2,8 +2,10 @@
 _schema: default
 id: 164123
 date: 2025-01-28
-title: What role does identity crisis play in contributing to emotional maladjustment during adolescence?
-article_title: What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+title: >-
+    What role does identity crisis play in contributing to emotional maladjustment during adolescence?
+article_title: >-
+    What role does identity crisis play in contributing to emotional maladjustment during adolescence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-identity-crisis-play-in-contributing-to-emotional-mala
 url: /learn/psychology/questions/what-role-does-identity-crisis-play-in-contributing-to-emotional-maladjustment-during-adolescence
 score: -1.0
 related_article1:
-    id: 164120
-    title: How does identity foreclosure differ from identity achievement in Marcia's framework?
+    id: 164125
+    title: >-
+        Why are support systems crucial in addressing psychological issues in adolescents?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
+    url: /learn/psychology/questions/why-are-support-systems-crucial-in-addressing-psychological-issues-in-adolescents
 related_article2:
     id: 164120
-    title: How does identity foreclosure differ from identity achievement in Marcia's framework?
+    title: >-
+        How does identity foreclosure differ from identity achievement in Marcia's framework?
     subject: Psychology
     url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
 related_article3:
-    id: 164118
-    title: What are the emotional and psychological implications of identity development during adolescence according to Erikson?
+    id: 164122
+    title: >-
+        How does Hall's concept of 'storm and stress' relate to emotional maladjustment in adolescence?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-emotional-and-psychological-implications-of-identity-development-during-adolescence-according-to-erikson
+    url: /learn/psychology/questions/how-does-halls-concept-of-storm-and-stress-relate-to-emotional-maladjustment-in-adolescence
 related_article4:
-    id: 164116
-    title: How did Erikson and Marcia contribute to the understanding of the adolescent identity crisis?
+    id: 164120
+    title: >-
+        How does identity foreclosure differ from identity achievement in Marcia's framework?
     subject: Psychology
-    url: /learn/psychology/questions/how-did-erikson-and-marcia-contribute-to-the-understanding-of-the-adolescent-identity-crisis
+    url: /learn/psychology/questions/how-does-identity-foreclosure-differ-from-identity-achievement-in-marcias-framework
 related_article5:
-    id: 164124
-    title: What are some common misconceptions about psychological disturbances in adolescents compared to other age groups?
+    id: 164117
+    title: >-
+        Why is adolescence considered a critical stage in Erikson's theory of identity development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-common-misconceptions-about-psychological-disturbances-in-adolescents-compared-to-other-age-groups
+    url: /learn/psychology/questions/why-is-adolescence-considered-a-critical-stage-in-eriksons-theory-of-identity-development
 ---
 
 &nbsp;

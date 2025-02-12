@@ -2,8 +2,10 @@
 _schema: default
 id: 165983
 date: 2025-01-29
-title: Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
-article_title: Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+title: >-
+    Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
+article_title: >-
+    Explain the core and periphery dynamics in the world system theory and their impact on economic disparities.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: explain-the-core-and-periphery-dynamics-in-the-world-system-theory-an
 url: /learn/sociology/questions/explain-the-core-and-periphery-dynamics-in-the-world-system-theory-and-their-impact-on-economic-disparities
 score: -1.0
 related_article1:
-    id: 165999
-    title: What role does global media play in cultural diffusion?
+    id: 165991
+    title: >-
+        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
     subject: Sociology
-    url: /learn/sociology/questions/what-role-does-global-media-play-in-cultural-diffusion
+    url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
 related_article2:
-    id: 165981
-    title: What were the key factors that contributed to the historical context of globalization in terms of travel and mobility?
+    id: 165986
+    title: >-
+        What are the characteristics of post-industrial economic diversification?
     subject: Sociology
-    url: /learn/sociology/questions/what-were-the-key-factors-that-contributed-to-the-historical-context-of-globalization-in-terms-of-travel-and-mobility
+    url: /learn/sociology/questions/what-are-the-characteristics-of-postindustrial-economic-diversification
 related_article3:
     id: 165991
-    title: How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
+    title: >-
+        How have communication technologies advanced in recent years, and what impact have they had on global connectivity?
     subject: Sociology
     url: /learn/sociology/questions/how-have-communication-technologies-advanced-in-recent-years-and-what-impact-have-they-had-on-global-connectivity
 related_article4:
-    id: 165995
-    title: What are the primary security concerns related to political instability and terrorism?
+    id: 165997
+    title: >-
+        What are the key components of trade dynamics in global trade agreements?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-primary-security-concerns-related-to-political-instability-and-terrorism
+    url: /learn/sociology/questions/what-are-the-key-components-of-trade-dynamics-in-global-trade-agreements
+related_article5:
+    id: 165989
+    title: >-
+        How do multinational corporations exert economic power through global operations?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-multinational-corporations-exert-economic-power-through-global-operations
 ---
 
 &nbsp;

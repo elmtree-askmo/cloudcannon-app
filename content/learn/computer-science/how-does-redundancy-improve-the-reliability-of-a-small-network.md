@@ -2,8 +2,10 @@
 _schema: default
 id: 165656
 date: 2025-01-29
-title: How does redundancy improve the reliability of a small network?
-article_title: How does redundancy improve the reliability of a small network?
+title: >-
+    How does redundancy improve the reliability of a small network?
+article_title: >-
+    How does redundancy improve the reliability of a small network?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-redundancy-improve-the-reliability-of-a-small-network.md
 url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
 score: -1.0
 related_article1:
-    id: 165658
-    title: How does the traceroute command help in diagnosing network issues?
+    id: 165661
+    title: >-
+        How can the ARP command be used to manage the ARP cache?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
+    url: /learn/computer-science/questions/how-can-the-arp-command-be-used-to-manage-the-arp-cache
 related_article2:
-    id: 165658
-    title: How does the traceroute command help in diagnosing network issues?
+    id: 165661
+    title: >-
+        How can the ARP command be used to manage the ARP cache?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-traceroute-command-help-in-diagnosing-network-issues
+    url: /learn/computer-science/questions/how-can-the-arp-command-be-used-to-manage-the-arp-cache
 related_article3:
-    id: 165660
-    title: What command would you use to view the IP configuration on a Windows host?
+    id: 165666
+    title: >-
+        Why is the default gateway important in a network, and how can you verify its configuration?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
+    url: /learn/computer-science/questions/why-is-the-default-gateway-important-in-a-network-and-how-can-you-verify-its-configuration
 related_article4:
     id: 165660
-    title: What command would you use to view the IP configuration on a Windows host?
+    title: >-
+        What command would you use to view the IP configuration on a Windows host?
     subject: Computer Science
     url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
 related_article5:
-    id: 165655
-    title: What are the key considerations when selecting devices for a small network?
+    id: 165665
+    title: >-
+        What are common causes of IP addressing issues on IOS devices?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
+    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169262
 date: 2025-02-04
-title: What are the consequences of academic misconduct?
-article_title: What are the consequences of academic misconduct?
+title: >-
+    What are the consequences of academic misconduct?
+article_title: >-
+    What are the consequences of academic misconduct?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-consequences-of-academic-misconduct.md
 url: /learn/education-studies/questions/what-are-the-consequences-of-academic-misconduct
 score: -1.0
 related_article1:
-    id: 169259
-    title: What are the key components of the marking guidelines in the assessment criteria?
+    id: 169249
+    title: >-
+        What are the requirements for conducting the quiz in-class and the use of computers?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
+    url: /learn/education-studies/questions/what-are-the-requirements-for-conducting-the-quiz-inclass-and-the-use-of-computers
 related_article2:
+    id: 169257
+    title: >-
+        What are the sources of course content, and how do they relate to the quiz?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-sources-of-course-content-and-how-do-they-relate-to-the-quiz
+related_article3:
+    id: 169265
+    title: >-
+        What key topics are covered in lecture materials, and what supplementary information is provided?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-key-topics-are-covered-in-lecture-materials-and-what-supplementary-information-is-provided
+related_article4:
+    id: 169260
+    title: >-
+        How is feedback provided to students based on the assessment criteria?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-feedback-provided-to-students-based-on-the-assessment-criteria
+related_article5:
     id: 169258
-    title: Which areas of course content are emphasized in the quiz, and which are excluded?
+    title: >-
+        Which areas of course content are emphasized in the quiz, and which are excluded?
     subject: Education Studies
     url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
-related_article3:
-    id: 169261
-    title: What constitutes academic misconduct in terms of remote participation and unauthorized computer use?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-constitutes-academic-misconduct-in-terms-of-remote-participation-and-unauthorized-computer-use
-related_article4:
-    id: 169263
-    title: What identification is required for the test, and what items are prohibited?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
-related_article5:
-    id: 169255
-    title: How many short essay questions are included, and what is the process for their selection?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-many-short-essay-questions-are-included-and-what-is-the-process-for-their-selection
 ---
 
 &nbsp;

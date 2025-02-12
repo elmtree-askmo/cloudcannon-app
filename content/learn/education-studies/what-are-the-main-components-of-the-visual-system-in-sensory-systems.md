@@ -2,8 +2,10 @@
 _schema: default
 id: 166211
 date: 2025-01-29
-title: What are the main components of the visual system in sensory systems?
-article_title: What are the main components of the visual system in sensory systems?
+title: >-
+    What are the main components of the visual system in sensory systems?
+article_title: >-
+    What are the main components of the visual system in sensory systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-the-visual-system-in-sensory-systems.
 url: /learn/education-studies/questions/what-are-the-main-components-of-the-visual-system-in-sensory-systems
 score: -1.0
 related_article1:
-    id: 166192
-    title: What is Mendelian genetics and how does it explain genetic variation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-mendelian-genetics-and-how-does-it-explain-genetic-variation
-related_article2:
     id: 166212
-    title: How is blood circulation regulated in the cardiovascular system?
+    title: >-
+        How is blood circulation regulated in the cardiovascular system?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-blood-circulation-regulated-in-the-cardiovascular-system
+related_article2:
+    id: 166183
+    title: >-
+        How do carbohydrates and proteins differ in their roles within the body?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-carbohydrates-and-proteins-differ-in-their-roles-within-the-body
 related_article3:
-    id: 166205
-    title: What role do enzymes play in biochemical reactions?
+    id: 166189
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-enzymes-play-in-biochemical-reactions
+    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
 related_article4:
-    id: 166182
-    title: What are the primary types of biological molecules and their functions?
+    id: 166201
+    title: >-
+        What is the role of energy flow and nutrient cycles in ecosystem dynamics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-primary-types-of-biological-molecules-and-their-functions
+    url: /learn/education-studies/questions/what-is-the-role-of-energy-flow-and-nutrient-cycles-in-ecosystem-dynamics
 related_article5:
-    id: 166180
-    title: How do metabolism and homeostasis contribute to the biological processes of life?
+    id: 166204
+    title: >-
+        How do phylogenetic trees help in understanding evolutionary relationships?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
+    url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 ---
 
 &nbsp;

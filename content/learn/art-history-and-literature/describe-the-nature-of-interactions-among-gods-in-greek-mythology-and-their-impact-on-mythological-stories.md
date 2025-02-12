@@ -2,8 +2,10 @@
 _schema: default
 id: 163906
 date: 2025-01-28
-title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
-article_title: Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
+title: >-
+    Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
+article_title: >-
+    Describe the nature of interactions among gods in Greek mythology and their impact on mythological stories.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-nature-of-interactions-among-gods-in-greek-mythology-and
 url: /learn/art-history-and-literature/questions/describe-the-nature-of-interactions-among-gods-in-greek-mythology-and-their-impact-on-mythological-stories
 score: 9.0
 related_article1:
-    id: 163896
-    title: List the defining characteristics of epic poetry in ancient Greek literature.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/list-the-defining-characteristics-of-epic-poetry-in-ancient-greek-literature
-related_article2:
-    id: 163892
-    title: What are the key structural elements of the Homeric Hymns?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-key-structural-elements-of-the-homeric-hymns
-related_article3:
-    id: 163901
-    title: How do character epithets function within Greek mythology, and why are they significant?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-character-epithets-function-within-greek-mythology-and-why-are-they-significant
-related_article4:
-    id: 163890
-    title: Identify a notable Greek hero and describe their main achievements or adventures.
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/identify-a-notable-greek-hero-and-describe-their-main-achievements-or-adventures
-related_article5:
     id: 163893
-    title: Discuss the main themes found in the Homeric Hymns.
+    title: >-
+        Discuss the main themes found in the Homeric Hymns.
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/discuss-the-main-themes-found-in-the-homeric-hymns
+related_article2:
+    id: 163897
+    title: >-
+        How do 'The Iliad' and 'The Odyssey' exemplify the features of epic poetry?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-the-iliad-and-the-odyssey-exemplify-the-features-of-epic-poetry
+related_article3:
+    id: 163891
+    title: >-
+        How do female heroes in Greek mythology differ from their male counterparts in terms of roles and narratives?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-do-female-heroes-in-greek-mythology-differ-from-their-male-counterparts-in-terms-of-roles-and-narratives
+related_article4:
+    id: 163894
+    title: >-
+        How did the oral tradition contribute to the transmission of Greek myths?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-oral-tradition-contribute-to-the-transmission-of-greek-myths
+related_article5:
+    id: 163900
+    title: >-
+        What are some common themes found in mythological narratives?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-are-some-common-themes-found-in-mythological-narratives
 ---
 
 &nbsp;

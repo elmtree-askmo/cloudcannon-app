@@ -2,8 +2,10 @@
 _schema: default
 id: 165833
 date: 2025-01-29
-title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
-article_title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+title: >-
+    How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+article_title: >-
+    How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-ph
 url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
 score: -1.0
 related_article1:
-    id: 165846
-    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
 related_article2:
-    id: 165851
-    title: Explain the ecological impact of microbial interactions in parasitology.
+    id: 165831
+    title: >-
+        What public health measures are essential for the control and prevention of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-ecological-impact-of-microbial-interactions-in-parasitology
+    url: /learn/psychology/questions/what-public-health-measures-are-essential-for-the-control-and-prevention-of-parasitic-diseases
 related_article3:
-    id: 165849
-    title: What are parasitoids and how do they differ from other parasitic insects?
+    id: 165836
+    title: >-
+        Identify common vectors of disease and explain their role in disease transmission.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
 related_article4:
-    id: 165854
-    title: How do acute and chronic infections differ in terms of disease progression and host adaptation?
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-acute-and-chronic-infections-differ-in-terms-of-disease-progression-and-host-adaptation
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
 related_article5:
-    id: 165846
-    title: Discuss the global burden of parasitic diseases and the regional differences in their prevalence.
+    id: 165836
+    title: >-
+        Identify common vectors of disease and explain their role in disease transmission.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-global-burden-of-parasitic-diseases-and-the-regional-differences-in-their-prevalence
+    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
 ---
 
 &nbsp;

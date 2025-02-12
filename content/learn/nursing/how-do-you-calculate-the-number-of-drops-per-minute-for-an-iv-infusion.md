@@ -2,8 +2,10 @@
 _schema: default
 id: 169734
 date: 2025-02-05
-title: How do you calculate the number of drops per minute for an IV infusion?
-article_title: How do you calculate the number of drops per minute for an IV infusion?
+title: >-
+    How do you calculate the number of drops per minute for an IV infusion?
+article_title: >-
+    How do you calculate the number of drops per minute for an IV infusion?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusio
 url: /learn/nursing/questions/how-do-you-calculate-the-number-of-drops-per-minute-for-an-iv-infusion
 score: -1.0
 related_article1:
-    id: 169735
-    title: What information is essential to understand on a drug label for calculating drug concentration?
+    id: 169733
+    title: >-
+        What are the key risks associated with IV medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
+    url: /learn/nursing/questions/what-are-the-key-risks-associated-with-iv-medication-administration
 related_article2:
     id: 169735
-    title: What information is essential to understand on a drug label for calculating drug concentration?
+    title: >-
+        What information is essential to understand on a drug label for calculating drug concentration?
     subject: Nursing
     url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
 related_article3:
     id: 169732
-    title: How do you calculate the drop rate for an IV infusion?
+    title: >-
+        How do you calculate the drop rate for an IV infusion?
     subject: Nursing
     url: /learn/nursing/questions/how-do-you-calculate-the-drop-rate-for-an-iv-infusion
 related_article4:
-    id: 169736
-    title: What are the potential legal consequences of medication errors in nursing?
+    id: 169738
+    title: >-
+        What are the ethical considerations in medication management for nurses?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-legal-consequences-of-medication-errors-in-nursing
+    url: /learn/nursing/questions/what-are-the-ethical-considerations-in-medication-management-for-nurses
+related_article5:
+    id: 169735
+    title: >-
+        What information is essential to understand on a drug label for calculating drug concentration?
+    subject: Nursing
+    url: /learn/nursing/questions/what-information-is-essential-to-understand-on-a-drug-label-for-calculating-drug-concentration
 ---
 
 &nbsp;

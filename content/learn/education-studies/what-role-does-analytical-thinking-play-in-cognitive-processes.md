@@ -2,8 +2,10 @@
 _schema: default
 id: 165486
 date: 2025-01-29
-title: What role does analytical thinking play in cognitive processes?
-article_title: What role does analytical thinking play in cognitive processes?
+title: >-
+    What role does analytical thinking play in cognitive processes?
+article_title: >-
+    What role does analytical thinking play in cognitive processes?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-analytical-thinking-play-in-cognitive-processes.md
 url: /learn/education-studies/questions/what-role-does-analytical-thinking-play-in-cognitive-processes
 score: -1.0
 related_article1:
-    id: 165503
-    title: How can technology be leveraged to improve learning experiences?
+    id: 165494
+    title: >-
+        How can evaluating information critically improve decision making?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-technology-be-leveraged-to-improve-learning-experiences
+    url: /learn/education-studies/questions/how-can-evaluating-information-critically-improve-decision-making
 related_article2:
-    id: 165485
-    title: How do memory and recall contribute to cognitive processes?
+    id: 165477
+    title: >-
+        What are critical questions for learning and how do they apply to the learning framework?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-memory-and-recall-contribute-to-cognitive-processes
+    url: /learn/education-studies/questions/what-are-critical-questions-for-learning-and-how-do-they-apply-to-the-learning-framework
 related_article3:
-    id: 165504
-    title: What approaches can be taken to promote lifelong learning?
+    id: 165478
+    title: >-
+        Why is contextual learning important in the framework for learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-approaches-can-be-taken-to-promote-lifelong-learning
+    url: /learn/education-studies/questions/why-is-contextual-learning-important-in-the-framework-for-learning
 related_article4:
-    id: 165502
-    title: What are some innovations in learning strategies that could shape the future of learning?
+    id: 165500
+    title: >-
+        How can collaborative learning contribute to a better learning experience?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-innovations-in-learning-strategies-that-could-shape-the-future-of-learning
+    url: /learn/education-studies/questions/how-can-collaborative-learning-contribute-to-a-better-learning-experience
 related_article5:
-    id: 165492
-    title: How can building a knowledge network enhance comprehension?
+    id: 165477
+    title: >-
+        What are critical questions for learning and how do they apply to the learning framework?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-building-a-knowledge-network-enhance-comprehension
+    url: /learn/education-studies/questions/what-are-critical-questions-for-learning-and-how-do-they-apply-to-the-learning-framework
 ---
 
 &nbsp;

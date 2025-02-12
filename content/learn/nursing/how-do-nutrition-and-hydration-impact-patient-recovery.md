@@ -2,8 +2,10 @@
 _schema: default
 id: 169744
 date: 2025-02-05
-title: How do nutrition and hydration impact patient recovery?
-article_title: How do nutrition and hydration impact patient recovery?
+title: >-
+    How do nutrition and hydration impact patient recovery?
+article_title: >-
+    How do nutrition and hydration impact patient recovery?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-nutrition-and-hydration-impact-patient-recovery.md
 url: /learn/nursing/questions/how-do-nutrition-and-hydration-impact-patient-recovery
 score: -1.0
 related_article1:
+    id: 169764
+    title: >-
+        What are the best practices for prescribing medications, and what common pitfalls should be avoided?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-best-practices-for-prescribing-medications-and-what-common-pitfalls-should-be-avoided
+related_article2:
+    id: 169757
+    title: >-
+        What are the regulations and storage requirements for controlled drugs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-regulations-and-storage-requirements-for-controlled-drugs
+related_article3:
     id: 169743
-    title: What are some age-specific health considerations that nurses should be aware of?
+    title: >-
+        What are some age-specific health considerations that nurses should be aware of?
     subject: Nursing
     url: /learn/nursing/questions/what-are-some-agespecific-health-considerations-that-nurses-should-be-aware-of
-related_article2:
-    id: 169767
-    title: How do digital and print versions of the BNF differ, and how are updates and revisions managed?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-digital-and-print-versions-of-the-bnf-differ-and-how-are-updates-and-revisions-managed
-related_article3:
-    id: 169761
-    title: What are the nursing responsibilities and legal obligations in medication administration?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-nursing-responsibilities-and-legal-obligations-in-medication-administration
 related_article4:
-    id: 169747
-    title: What are some management strategies for common bowel and bladder disorders?
+    id: 169759
+    title: >-
+        How can adverse drug reactions be identified and managed effectively?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-some-management-strategies-for-common-bowel-and-bladder-disorders
+    url: /learn/nursing/questions/how-can-adverse-drug-reactions-be-identified-and-managed-effectively
 related_article5:
-    id: 169763
-    title: What are patient group directions, and how are they applied in clinical practice?
+    id: 169754
+    title: >-
+        What are the main categories of drug classifications in pharmacology?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-patient-group-directions-and-how-are-they-applied-in-clinical-practice
+    url: /learn/nursing/questions/what-are-the-main-categories-of-drug-classifications-in-pharmacology
 ---
 
 &nbsp;

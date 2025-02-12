@@ -2,8 +2,10 @@
 _schema: default
 id: 164330
 date: 2025-01-28
-title: What are the developmental stages of language acquisition, and what factors influence this process?
-article_title: What are the developmental stages of language acquisition, and what factors influence this process?
+title: >-
+    What are the developmental stages of language acquisition, and what factors influence this process?
+article_title: >-
+    What are the developmental stages of language acquisition, and what factors influence this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-developmental-stages-of-language-acquisition-and-what-fa
 url: /learn/psychology/questions/what-are-the-developmental-stages-of-language-acquisition-and-what-factors-influence-this-process
 score: -1.0
 related_article1:
-    id: 164319
-    title: What are the key differences between audio and video recording techniques, and in what scenarios might each be used?
+    id: 164327
+    title: >-
+        What is the mechanism of action of Transcranial Magnetic Stimulation (TMS), and what are its research applications?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-differences-between-audio-and-video-recording-techniques-and-in-what-scenarios-might-each-be-used
+    url: /learn/psychology/questions/what-is-the-mechanism-of-action-of-transcranial-magnetic-stimulation-tms-and-what-are-its-research-applications
 related_article2:
-    id: 164320
-    title: How are recording techniques applied in data collection and analysis?
+    id: 164325
+    title: >-
+        What are the different types of seizures associated with epilepsy, and what are common triggers?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+    url: /learn/psychology/questions/what-are-the-different-types-of-seizures-associated-with-epilepsy-and-what-are-common-triggers
 related_article3:
-    id: 164316
-    title: What tools are essential for successful virtual project management, and how do they facilitate team coordination?
+    id: 164317
+    title: >-
+        Why are technical controls important in ensuring safety and enhancing efficiency in projects?
     subject: Psychology
-    url: /learn/psychology/questions/what-tools-are-essential-for-successful-virtual-project-management-and-how-do-they-facilitate-team-coordination
+    url: /learn/psychology/questions/why-are-technical-controls-important-in-ensuring-safety-and-enhancing-efficiency-in-projects
 related_article4:
-    id: 164320
-    title: How are recording techniques applied in data collection and analysis?
+    id: 164321
+    title: >-
+        What are the common symptoms of attention disorders, and how are they diagnosed?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
 related_article5:
-    id: 164320
-    title: How are recording techniques applied in data collection and analysis?
+    id: 164321
+    title: >-
+        What are the common symptoms of attention disorders, and how are they diagnosed?
     subject: Psychology
-    url: /learn/psychology/questions/how-are-recording-techniques-applied-in-data-collection-and-analysis
+    url: /learn/psychology/questions/what-are-the-common-symptoms-of-attention-disorders-and-how-are-they-diagnosed
 ---
 
 &nbsp;

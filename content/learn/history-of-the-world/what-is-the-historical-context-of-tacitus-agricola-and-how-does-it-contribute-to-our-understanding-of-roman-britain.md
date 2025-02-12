@@ -2,8 +2,10 @@
 _schema: default
 id: 169881
 date: 2025-02-05
-title: What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
-article_title: What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
+title: >-
+    What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
+article_title: >-
+    What is the historical context of Tacitus' Agricola, and how does it contribute to our understanding of Roman Britain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-historical-context-of-tacitus-agricola-and-how-does-it-co
 url: /learn/history-of-the-world/questions/what-is-the-historical-context-of-tacitus-agricola-and-how-does-it-contribute-to-our-understanding-of-roman-britain
 score: 9.0
 related_article1:
-    id: 169866
-    title: What was the primary purpose of Hadrian's Wall during the Roman occupation of Britain?
+    id: 169875
+    title: >-
+        How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-primary-purpose-of-hadrians-wall-during-the-roman-occupation-of-britain
+    url: /learn/history-of-the-world/questions/how-does-tacitus-perspective-in-agricolas-biography-reflect-roman-historiography-biases
 related_article2:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+    id: 169877
+    title: >-
+        How did Roman military techniques, such as the construction of Roman roads, facilitate their campaigns in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
+    url: /learn/history-of-the-world/questions/how-did-roman-military-techniques-such-as-the-construction-of-roman-roads-facilitate-their-campaigns-in-britain
 related_article3:
-    id: 169867
-    title: Describe the significance of the Vindolanda Fort in understanding Roman military presence in Britain.
+    id: 169869
+    title: >-
+        What role did ancient biographies play in shaping the historical narrative of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-significance-of-the-vindolanda-fort-in-understanding-roman-military-presence-in-britain
+    url: /learn/history-of-the-world/questions/what-role-did-ancient-biographies-play-in-shaping-the-historical-narrative-of-roman-britain
 related_article4:
-    id: 169882
-    title: How do classical sources compare the Celts with other tribes of the ancient world?
+    id: 169879
+    title: >-
+        How did the Roman administration manage the provinces of Roman Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-classical-sources-compare-the-celts-with-other-tribes-of-the-ancient-world
+    url: /learn/history-of-the-world/questions/how-did-the-roman-administration-manage-the-provinces-of-roman-britain
 related_article5:
-    id: 169865
-    title: How did the Battle of Mons Graupius impact Roman military strategy in Britain?
+    id: 169875
+    title: >-
+        How does Tacitus' perspective in Agricola's biography reflect Roman historiography biases?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-battle-of-mons-graupius-impact-roman-military-strategy-in-britain
+    url: /learn/history-of-the-world/questions/how-does-tacitus-perspective-in-agricolas-biography-reflect-roman-historiography-biases
 ---
 
 &nbsp;

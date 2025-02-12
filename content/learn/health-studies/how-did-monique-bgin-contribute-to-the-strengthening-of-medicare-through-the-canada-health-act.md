@@ -2,8 +2,10 @@
 _schema: default
 id: 162344
 date: 2025-01-25
-title: How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
-article_title: How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
+title: >-
+    How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
+article_title: >-
+    How did Monique Bégin contribute to the strengthening of Medicare through the Canada Health Act?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-thro
 url: /learn/health-studies/questions/how-did-monique-bgin-contribute-to-the-strengthening-of-medicare-through-the-canada-health-act
 score: -1.0
 related_article1:
-    id: 162329
-    title: How did public health nursing contribute to maternal and child health in the 1920s?
+    id: 162343
+    title: >-
+        What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-public-health-nursing-contribute-to-maternal-and-child-health-in-the-1920s
+    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
 related_article2:
-    id: 162335
-    title: What new public health policies were introduced to manage tuberculosis during the 1930s?
+    id: 162339
+    title: >-
+        How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-new-public-health-policies-were-introduced-to-manage-tuberculosis-during-the-1930s
+    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
 related_article3:
-    id: 162336
-    title: What were the key nutrition initiatives and food safety programs expanded during World War II?
+    id: 162339
+    title: >-
+        How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-nutrition-initiatives-and-food-safety-programs-expanded-during-world-war-ii
+    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
 related_article4:
-    id: 162350
-    title: How did Canada contribute to global health discussions through the World Federation of Public Health Associations?
+    id: 162341
+    title: >-
+        What impact did the 1971 Motor Vehicle Safety Act have on road injury reduction and fatality statistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-canada-contribute-to-global-health-discussions-through-the-world-federation-of-public-health-associations
+    url: /learn/health-studies/questions/what-impact-did-the-1971-motor-vehicle-safety-act-have-on-road-injury-reduction-and-fatality-statistics
+related_article5:
+    id: 162342
+    title: >-
+        How did Ontario's seat belt laws and public education campaigns contribute to motor vehicle safety?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-did-ontarios-seat-belt-laws-and-public-education-campaigns-contribute-to-motor-vehicle-safety
 ---
 
 &nbsp;

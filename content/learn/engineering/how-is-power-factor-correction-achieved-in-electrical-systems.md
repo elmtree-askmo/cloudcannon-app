@@ -2,8 +2,10 @@
 _schema: default
 id: 169854
 date: 2025-02-05
-title: How is power factor correction achieved in electrical systems?
-article_title: How is power factor correction achieved in electrical systems?
+title: >-
+    How is power factor correction achieved in electrical systems?
+article_title: >-
+    How is power factor correction achieved in electrical systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-power-factor-correction-achieved-in-electrical-systems.md
 url: /learn/engineering/questions/how-is-power-factor-correction-achieved-in-electrical-systems
 score: -1.0
 related_article1:
-    id: 169859
-    title: Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
-    subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
-related_article2:
-    id: 169849
-    title: Define a bipole and explain its role in an electrical circuit.
-    subject: Engineering
-    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
-related_article3:
     id: 169845
-    title: What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
+    title: >-
+        What is the significance of analyzing circuits with one, two, and three loops in DC circuit analysis?
     subject: Engineering
     url: /learn/engineering/questions/what-is-the-significance-of-analyzing-circuits-with-one-two-and-three-loops-in-dc-circuit-analysis
+related_article2:
+    id: 169859
+    title: >-
+        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
+    subject: Engineering
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
+related_article3:
+    id: 169851
+    title: >-
+        How do Kirchhoff's laws assist in the analysis of electrical circuits?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
 related_article4:
-    id: 169856
-    title: How does Kirchhoff's analysis differ from Maxwell's mesh analysis?
+    id: 169843
+    title: >-
+        What are the basic postulates and conventions used in the analysis of DC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-kirchhoffs-analysis-differ-from-maxwells-mesh-analysis
+    url: /learn/engineering/questions/what-are-the-basic-postulates-and-conventions-used-in-the-analysis-of-dc-circuits
 related_article5:
-    id: 169849
-    title: Define a bipole and explain its role in an electrical circuit.
+    id: 169861
+    title: >-
+        How are phasor diagrams used in the analysis of RLC circuits?
     subject: Engineering
-    url: /learn/engineering/questions/define-a-bipole-and-explain-its-role-in-an-electrical-circuit
+    url: /learn/engineering/questions/how-are-phasor-diagrams-used-in-the-analysis-of-rlc-circuits
 ---
 
 &nbsp;

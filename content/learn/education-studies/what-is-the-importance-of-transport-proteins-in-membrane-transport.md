@@ -2,8 +2,10 @@
 _schema: default
 id: 161797
 date: 2025-01-24
-title: What is the importance of transport proteins in membrane transport?
-article_title: What is the importance of transport proteins in membrane transport?
+title: >-
+    What is the importance of transport proteins in membrane transport?
+article_title: >-
+    What is the importance of transport proteins in membrane transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-transport-proteins-in-membrane-transport.md
 url: /learn/education-studies/questions/what-is-the-importance-of-transport-proteins-in-membrane-transport
 score: -1.0
 related_article1:
+    id: 161796
+    title: >-
+        How do enzymes function as catalysts in biological processes?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-enzymes-function-as-catalysts-in-biological-processes
+related_article2:
     id: 161784
-    title: What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
+    title: >-
+        What role do glycosidic linkages play in the structure of disaccharides and polysaccharides?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-do-glycosidic-linkages-play-in-the-structure-of-disaccharides-and-polysaccharides
-related_article2:
-    id: 161789
-    title: Why are functional groups important in determining the chemical properties of biological molecules?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-are-functional-groups-important-in-determining-the-chemical-properties-of-biological-molecules
 related_article3:
-    id: 161793
-    title: What is the role of proteins and nucleic acids in cell signaling?
+    id: 161787
+    title: >-
+        How do the structures of DNA and RNA differ, and what are their respective functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling
+    url: /learn/education-studies/questions/how-do-the-structures-of-dna-and-rna-differ-and-what-are-their-respective-functions
 related_article4:
-    id: 161793
-    title: What is the role of proteins and nucleic acids in cell signaling?
+    id: 161791
+    title: >-
+        What is the role of carbohydrates and lipids in energy storage?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-proteins-and-nucleic-acids-in-cell-signaling
+    url: /learn/education-studies/questions/what-is-the-role-of-carbohydrates-and-lipids-in-energy-storage
 related_article5:
-    id: 161789
-    title: Why are functional groups important in determining the chemical properties of biological molecules?
+    id: 161781
+    title: >-
+        How do functional groups affect the properties of organic molecules?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-are-functional-groups-important-in-determining-the-chemical-properties-of-biological-molecules
+    url: /learn/education-studies/questions/how-do-functional-groups-affect-the-properties-of-organic-molecules
 ---
 
 &nbsp;

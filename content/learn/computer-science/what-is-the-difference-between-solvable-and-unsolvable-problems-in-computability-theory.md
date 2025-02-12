@@ -2,8 +2,10 @@
 _schema: default
 id: 161022
 date: 2025-01-24
-title: What is the difference between solvable and unsolvable problems in computability theory?
-article_title: What is the difference between solvable and unsolvable problems in computability theory?
+title: >-
+    What is the difference between solvable and unsolvable problems in computability theory?
+article_title: >-
+    What is the difference between solvable and unsolvable problems in computability theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-solvable-and-unsolvable-problems-in-co
 url: /learn/computer-science/questions/what-is-the-difference-between-solvable-and-unsolvable-problems-in-computability-theory
 score: -1.0
 related_article1:
-    id: 160702
-    title: What is the importance of time complexity in evaluating algorithm efficiency?
+    id: 160872
+    title: >-
+        Compare linear search with depth-first search in terms of their approach and use cases.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-importance-of-time-complexity-in-evaluating-algorithm-efficiency
+    url: /learn/computer-science/questions/compare-linear-search-with-depthfirst-search-in-terms-of-their-approach-and-use-cases
 related_article2:
-    id: 160769
-    title: How does testing differ from proving solutions in problem-solving?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-testing-differ-from-proving-solutions-in-problemsolving
-related_article3:
-    id: 160696
-    title: How does representation influence algorithm complexity?
+    id: 160863
+    title: >-
+        How does representation influence algorithm complexity?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+related_article3:
+    id: 160721
+    title: >-
+        How does abstraction simplify calendar algorithms?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-abstraction-simplify-calendar-algorithms
 related_article4:
-    id: 160705
-    title: Explain the concept of solvable vs. unsolvable problems in computability theory.
+    id: 160721
+    title: >-
+        How does abstraction simplify calendar algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-concept-of-solvable-vs-unsolvable-problems-in-computability-theory
+    url: /learn/computer-science/questions/how-does-abstraction-simplify-calendar-algorithms
 related_article5:
-    id: 161025
-    title: How do Turing machines contribute to the theoretical foundations of computability?
+    id: 160718
+    title: >-
+        How do constraints impact algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-turing-machines-contribute-to-the-theoretical-foundations-of-computability
+    url: /learn/computer-science/questions/how-do-constraints-impact-algorithm-design
 ---
 
 &nbsp;

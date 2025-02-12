@@ -2,8 +2,10 @@
 _schema: default
 id: 165480
 date: 2025-01-29
-title: What is the significance of conceptual relationships in understanding concepts?
-article_title: What is the significance of conceptual relationships in understanding concepts?
+title: >-
+    What is the significance of conceptual relationships in understanding concepts?
+article_title: >-
+    What is the significance of conceptual relationships in understanding concepts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-conceptual-relationships-in-understanding
 url: /learn/education-studies/questions/what-is-the-significance-of-conceptual-relationships-in-understanding-concepts
 score: -1.0
 related_article1:
-    id: 165495
-    title: What are common obstacles in higher order learning and how can they be overcome?
+    id: 165483
+    title: >-
+        How can knowledge be applied to solve real-world problems?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-common-obstacles-in-higher-order-learning-and-how-can-they-be-overcome
+    url: /learn/education-studies/questions/how-can-knowledge-be-applied-to-solve-realworld-problems
 related_article2:
-    id: 165489
-    title: What techniques can be used to enhance information retention?
+    id: 165477
+    title: >-
+        What are critical questions for learning and how do they apply to the learning framework?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-enhance-information-retention
+    url: /learn/education-studies/questions/what-are-critical-questions-for-learning-and-how-do-they-apply-to-the-learning-framework
 related_article3:
-    id: 165487
-    title: What is the difference between lower order and higher order learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-lower-order-and-higher-order-learning
-related_article4:
-    id: 165481
-    title: How can comparing and contrasting information help in understanding the relationship between information?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-comparing-and-contrasting-information-help-in-understanding-the-relationship-between-information
-related_article5:
     id: 165489
-    title: What techniques can be used to enhance information retention?
+    title: >-
+        What techniques can be used to enhance information retention?
     subject: Education Studies
     url: /learn/education-studies/questions/what-techniques-can-be-used-to-enhance-information-retention
+related_article4:
+    id: 165482
+    title: >-
+        What is the process of integrating multiple concepts to create a bigger picture?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-process-of-integrating-multiple-concepts-to-create-a-bigger-picture
+related_article5:
+    id: 165479
+    title: >-
+        How can concepts be simplified for better understanding and problem solving?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-concepts-be-simplified-for-better-understanding-and-problem-solving
 ---
 
 &nbsp;

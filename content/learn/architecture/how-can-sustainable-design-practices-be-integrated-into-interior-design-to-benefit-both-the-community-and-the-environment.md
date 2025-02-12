@@ -2,8 +2,10 @@
 _schema: default
 id: 169406
 date: 2025-02-05
-title: How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
-article_title: How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+title: >-
+    How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
+article_title: >-
+    How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-sustainable-design-practices-be-integrated-into-interior-desi
 url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
 score: -1.0
 related_article1:
-    id: 169409
-    title: What are some innovations in modern architectural design that have emerged recently?
-    subject: Architecture
-    url: /learn/architecture/questions/what-are-some-innovations-in-modern-architectural-design-that-have-emerged-recently
-related_article2:
-    id: 169400
-    title: How does color integration enhance community engagement in architectural design?
-    subject: Architecture
-    url: /learn/architecture/questions/how-does-color-integration-enhance-community-engagement-in-architectural-design
-related_article3:
     id: 169412
-    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    title: >-
+        How does architectural design serve as a corporate identity, and what are some successful examples?
     subject: Architecture
     url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+related_article2:
+    id: 169399
+    title: >-
+        What are the key elements of iconic architectural design as demonstrated in the Sugamo Shinkin Bank case study?
+    subject: Architecture
+    url: /learn/architecture/questions/what-are-the-key-elements-of-iconic-architectural-design-as-demonstrated-in-the-sugamo-shinkin-bank-case-study
+related_article3:
+    id: 169401
+    title: >-
+        In what ways can architectural design contribute to corporate identity and branding?
+    subject: Architecture
+    url: /learn/architecture/questions/in-what-ways-can-architectural-design-contribute-to-corporate-identity-and-branding
 related_article4:
-    id: 169414
-    title: What are some key terms in interior design that are essential for understanding design concepts?
+    id: 169415
+    title: >-
+        What are some major exhibitions and design weeks that focus on architecture and design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-key-terms-in-interior-design-that-are-essential-for-understanding-design-concepts
+    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
 related_article5:
-    id: 169407
-    title: What are the key influences of traditional Japanese design on modern architecture?
+    id: 169413
+    title: >-
+        What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-influences-of-traditional-japanese-design-on-modern-architecture
+    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
 ---
 
 &nbsp;

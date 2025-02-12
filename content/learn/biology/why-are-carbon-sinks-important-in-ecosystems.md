@@ -2,8 +2,10 @@
 _schema: default
 id: 170374
 date: 2025-02-06
-title: Why are carbon sinks important in ecosystems?
-article_title: Why are carbon sinks important in ecosystems?
+title: >-
+    Why are carbon sinks important in ecosystems?
+article_title: >-
+    Why are carbon sinks important in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-carbon-sinks-important-in-ecosystems.md
 url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
 score: -1.0
 related_article1:
-    id: 170362
-    title: How do large leaves in rainforest plants aid in photosynthesis?
+    id: 170373
+    title: >-
+        How do stomata regulate gas exchange in plants?
     subject: Biology
-    url: /learn/biology/questions/how-do-large-leaves-in-rainforest-plants-aid-in-photosynthesis
+    url: /learn/biology/questions/how-do-stomata-regulate-gas-exchange-in-plants
 related_article2:
-    id: 170360
-    title: What is the role of chloroplasts in photosynthesis?
+    id: 170365
+    title: >-
+        What is the difference between lactic acid fermentation and alcohol fermentation?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
 related_article3:
-    id: 170359
-    title: How does photosynthesis contribute to the movement of carbon in the carbon cycle?
+    id: 170371
+    title: >-
+        What happens to glucose during cellular respiration?
     subject: Biology
-    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-movement-of-carbon-in-the-carbon-cycle
+    url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
 related_article4:
-    id: 170368
-    title: What is the function of chlorophyll in chloroplasts?
+    id: 170365
+    title: >-
+        What is the difference between lactic acid fermentation and alcohol fermentation?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
+    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
 related_article5:
-    id: 170363
-    title: What is the primary function of mitochondria in cellular respiration?
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-function-of-mitochondria-in-cellular-respiration
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 ---
 
 &nbsp;

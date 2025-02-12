@@ -2,8 +2,10 @@
 _schema: default
 id: 168523
 date: 2025-02-03
-title: How can posing open-ended questions propel a conversation forward?
-article_title: How can posing open-ended questions propel a conversation forward?
+title: >-
+    How can posing open-ended questions propel a conversation forward?
+article_title: >-
+    How can posing open-ended questions propel a conversation forward?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-posing-openended-questions-propel-a-conversation-forward.md
 url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
 score: -1.0
 related_article1:
-    id: 168525
-    title: How can acknowledging different views contribute to building consensus in discussions?
+    id: 168521
+    title: >-
+        How can empathy be demonstrated in conversations to understand diverse perspectives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-acknowledging-different-views-contribute-to-building-consensus-in-discussions
+    url: /learn/education-studies/questions/how-can-empathy-be-demonstrated-in-conversations-to-understand-diverse-perspectives
 related_article2:
-    id: 168525
-    title: How can acknowledging different views contribute to building consensus in discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-acknowledging-different-views-contribute-to-building-consensus-in-discussions
-related_article3:
     id: 168520
-    title: Why is active listening important in responding to questions during discussions?
+    title: >-
+        Why is active listening important in responding to questions during discussions?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
+related_article3:
+    id: 168526
+    title: >-
+        What are effective ways to challenge ideas while maintaining neutrality and factuality?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-effective-ways-to-challenge-ideas-while-maintaining-neutrality-and-factuality
 related_article4:
     id: 168521
-    title: How can empathy be demonstrated in conversations to understand diverse perspectives?
+    title: >-
+        How can empathy be demonstrated in conversations to understand diverse perspectives?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-empathy-be-demonstrated-in-conversations-to-understand-diverse-perspectives
 related_article5:
-    id: 168519
-    title: What rhetorical strategies can be used to engage an audience effectively?
+    id: 168520
+    title: >-
+        Why is active listening important in responding to questions during discussions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-rhetorical-strategies-can-be-used-to-engage-an-audience-effectively
+    url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
 ---
 
 &nbsp;

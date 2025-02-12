@@ -2,8 +2,10 @@
 _schema: default
 id: 161738
 date: 2025-01-24
-title: In what ways did military influence civilian life during the Zoot Suit Riots?
-article_title: In what ways did military influence civilian life during the Zoot Suit Riots?
+title: >-
+    In what ways did military influence civilian life during the Zoot Suit Riots?
+article_title: >-
+    In what ways did military influence civilian life during the Zoot Suit Riots?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-military-influence-civilian-life-during-the-zoot-sui
 url: /learn/history-of-the-world/questions/in-what-ways-did-military-influence-civilian-life-during-the-zoot-suit-riots
 score: 9.0
 related_article1:
-    id: 161747
-    title: In what ways did public perception and media influence societal reactions to fashion and identity during the Zoot Suit Riots?
+    id: 161736
+    title: >-
+        What were the main causes of daily skirmishes between sailors and zoot suiters during the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-did-public-perception-and-media-influence-societal-reactions-to-fashion-and-identity-during-the-zoot-suit-riots
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-of-daily-skirmishes-between-sailors-and-zoot-suiters-during-the-zoot-suit-riots
 related_article2:
-    id: 161745
-    title: What were the societal prejudices against zoot suiters that fueled historical racism during the riots?
+    id: 161740
+    title: >-
+        Why was the zoot suit considered a symbol of cultural identity and social justice for Mexican-American youth?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-societal-prejudices-against-zoot-suiters-that-fueled-historical-racism-during-the-riots
+    url: /learn/history-of-the-world/questions/why-was-the-zoot-suit-considered-a-symbol-of-cultural-identity-and-social-justice-for-mexicanamerican-youth
 related_article3:
-    id: 161746
-    title: How did the targeting of Mexican neighborhoods impact community dynamics during the Zoot Suit Riots?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-targeting-of-mexican-neighborhoods-impact-community-dynamics-during-the-zoot-suit-riots
-related_article4:
     id: 161739
-    title: How did World War II impact societal dynamics and contribute to the Zoot Suit Riots?
+    title: >-
+        How did World War II impact societal dynamics and contribute to the Zoot Suit Riots?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-world-war-ii-impact-societal-dynamics-and-contribute-to-the-zoot-suit-riots
-related_article5:
-    id: 161737
-    title: How did the initial conflict escalate into armed retaliation and expansion of the riots?
+related_article4:
+    id: 161736
+    title: >-
+        What were the main causes of daily skirmishes between sailors and zoot suiters during the Zoot Suit Riots?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-initial-conflict-escalate-into-armed-retaliation-and-expansion-of-the-riots
+    url: /learn/history-of-the-world/questions/what-were-the-main-causes-of-daily-skirmishes-between-sailors-and-zoot-suiters-during-the-zoot-suit-riots
+related_article5:
+    id: 161744
+    title: >-
+        How did Mexican-American youth resist and organize against racial discrimination during the Zoot Suit Riots?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-mexicanamerican-youth-resist-and-organize-against-racial-discrimination-during-the-zoot-suit-riots
 ---
 
 &nbsp;

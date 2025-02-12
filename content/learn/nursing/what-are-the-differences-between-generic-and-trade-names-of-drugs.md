@@ -2,8 +2,10 @@
 _schema: default
 id: 166506
 date: 2025-01-30
-title: What are the differences between generic and trade names of drugs?
-article_title: What are the differences between generic and trade names of drugs?
+title: >-
+    What are the differences between generic and trade names of drugs?
+article_title: >-
+    What are the differences between generic and trade names of drugs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-generic-and-trade-names-of-drugs.md
 url: /learn/nursing/questions/what-are-the-differences-between-generic-and-trade-names-of-drugs
 score: -1.0
 related_article1:
-    id: 166493
-    title: What are the key components of pharmacokinetics?
+    id: 166510
+    title: >-
+        How do pharmacokinetic and pharmacodynamic interactions differ?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
+    url: /learn/nursing/questions/how-do-pharmacokinetic-and-pharmacodynamic-interactions-differ
 related_article2:
-    id: 166502
-    title: What are the requirements for drug labeling under FDA regulations?
+    id: 166511
+    title: >-
+        What strategies can be used to manage drug interactions effectively?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-requirements-for-drug-labeling-under-fda-regulations
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-manage-drug-interactions-effectively
 related_article3:
-    id: 166498
-    title: How do biologic drugs contribute to the treatment of immune-related disorders?
+    id: 166499
+    title: >-
+        What is the Controlled Substance Act and how does it classify narcotics?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-biologic-drugs-contribute-to-the-treatment-of-immunerelated-disorders
+    url: /learn/nursing/questions/what-is-the-controlled-substance-act-and-how-does-it-classify-narcotics
 related_article4:
     id: 166493
-    title: What are the key components of pharmacokinetics?
+    title: >-
+        What are the key components of pharmacokinetics?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-key-components-of-pharmacokinetics
 related_article5:
-    id: 166501
-    title: What role does the FDA play in ensuring drug safety and efficacy?
+    id: 166512
+    title: >-
+        What procedures ensure accurate dosing in medication administration?
     subject: Nursing
-    url: /learn/nursing/questions/what-role-does-the-fda-play-in-ensuring-drug-safety-and-efficacy
+    url: /learn/nursing/questions/what-procedures-ensure-accurate-dosing-in-medication-administration
 ---
 
 &nbsp;

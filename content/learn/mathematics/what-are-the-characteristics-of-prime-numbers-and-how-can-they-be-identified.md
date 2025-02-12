@@ -2,8 +2,10 @@
 _schema: default
 id: 168299
 date: 2025-02-03
-title: What are the characteristics of prime numbers, and how can they be identified?
-article_title: What are the characteristics of prime numbers, and how can they be identified?
+title: >-
+    What are the characteristics of prime numbers, and how can they be identified?
+article_title: >-
+    What are the characteristics of prime numbers, and how can they be identified?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-ide
 url: /learn/mathematics/questions/what-are-the-characteristics-of-prime-numbers-and-how-can-they-be-identified
 score: -1.0
 related_article1:
-    id: 168302
-    title: What are common algebraic identities, and how are they used in problem-solving?
+    id: 168298
+    title: >-
+        How do you calculate the degree of a polynomial, and why is it important?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-common-algebraic-identities-and-how-are-they-used-in-problemsolving
+    url: /learn/mathematics/questions/how-do-you-calculate-the-degree-of-a-polynomial-and-why-is-it-important
 related_article2:
-    id: 168295
-    title: How do you apply the product of powers property to simplify expressions with exponents?
+    id: 168296
+    title: >-
+        Explain how negative exponents are simplified and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-apply-the-product-of-powers-property-to-simplify-expressions-with-exponents
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
 related_article3:
-    id: 168308
-    title: Describe the techniques for rationalizing denominators in expressions with radicals.
+    id: 168303
+    title: >-
+        Explain the rules for adding and subtracting exponents and provide an example of each.
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+    url: /learn/mathematics/questions/explain-the-rules-for-adding-and-subtracting-exponents-and-provide-an-example-of-each
 related_article4:
-    id: 168297
-    title: What is the structure of a polynomial, and how do you identify its terms and coefficients?
+    id: 168305
+    title: >-
+        What is the significance of understanding the roots of variables in algebra?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-structure-of-a-polynomial-and-how-do-you-identify-its-terms-and-coefficients
+    url: /learn/mathematics/questions/what-is-the-significance-of-understanding-the-roots-of-variables-in-algebra
 related_article5:
-    id: 168308
-    title: Describe the techniques for rationalizing denominators in expressions with radicals.
+    id: 168296
+    title: >-
+        Explain how negative exponents are simplified and provide an example.
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-techniques-for-rationalizing-denominators-in-expressions-with-radicals
+    url: /learn/mathematics/questions/explain-how-negative-exponents-are-simplified-and-provide-an-example
 ---
 
 &nbsp;

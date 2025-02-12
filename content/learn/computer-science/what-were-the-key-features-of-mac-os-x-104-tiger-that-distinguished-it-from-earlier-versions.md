@@ -2,8 +2,10 @@
 _schema: default
 id: 160522
 date: 2025-01-24
-title: What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
-article_title: What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
+title: >-
+    What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
+article_title: >-
+    What were the key features of Mac OS X 10.4 Tiger that distinguished it from earlier versions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-i
 url: /learn/computer-science/questions/what-were-the-key-features-of-mac-os-x-104-tiger-that-distinguished-it-from-earlier-versions
 score: -1.0
 related_article1:
-    id: 160432
-    title: What role did Apple's keynote presentations play in its marketing strategy?
+    id: 160599
+    title: >-
+        What were the key features of the PowerBook G4 introduced in the mid-2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-powerbook-g4-introduced-in-the-mid2000s
 related_article2:
-    id: 160432
-    title: What role did Apple's keynote presentations play in its marketing strategy?
+    id: 160598
+    title: >-
+        How did the launch of the first Apple retail store impact the company's sales strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
+    url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
 related_article3:
-    id: 160603
-    title: What were the major updates introduced with Mac OS X 10.4 Tiger?
+    id: 160422
+    title: >-
+        How did the introduction of the iPod in the late 2000s influence Apple's product lineup?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
+    url: /learn/computer-science/questions/how-did-the-introduction-of-the-ipod-in-the-late-2000s-influence-apples-product-lineup
 related_article4:
-    id: 160524
-    title: What were the technological advancements introduced with the iPhone 3G?
+    id: 160601
+    title: >-
+        What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
+    url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
 related_article5:
-    id: 160530
-    title: What were the implications of Apple's transition to Intel processors for product performance?
+    id: 160527
+    title: >-
+        How did the transition to aluminum cases affect Apple's product design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance
+    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
 ---
 
 &nbsp;

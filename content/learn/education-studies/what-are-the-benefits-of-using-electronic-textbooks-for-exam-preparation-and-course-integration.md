@@ -2,8 +2,10 @@
 _schema: default
 id: 166098
 date: 2025-01-29
-title: What are the benefits of using electronic textbooks for exam preparation and course integration?
-article_title: What are the benefits of using electronic textbooks for exam preparation and course integration?
+title: >-
+    What are the benefits of using electronic textbooks for exam preparation and course integration?
+article_title: >-
+    What are the benefits of using electronic textbooks for exam preparation and course integration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/education-studies/questions/what-are-the-benefits-of-using-electroni
 score: -1.0
 related_article1:
     id: 166094
-    title: What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
+    title: >-
+        What are the effects of harmful algal blooms on human health, and what strategies can be used for their management?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-effects-of-harmful-algal-blooms-on-human-health-and-what-strategies-can-be-used-for-their-management
 related_article2:
-    id: 166102
-    title: How does the use of Brightspace support communication between students and instructors?
+    id: 166095
+    title: >-
+        What role do interactive learning tools play in improving exam performance in inquisitive learning technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-use-of-brightspace-support-communication-between-students-and-instructors
+    url: /learn/education-studies/questions/what-role-do-interactive-learning-tools-play-in-improving-exam-performance-in-inquisitive-learning-technology
 related_article3:
-    id: 166089
-    title: What are the key strategies for achieving sustainability in environmental science?
+    id: 166099
+    title: >-
+        How do algal blooms affect the structure and dynamics of food webs in lakes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-strategies-for-achieving-sustainability-in-environmental-science
+    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
 related_article4:
-    id: 166090
-    title: How does the integration of course and lab work enhance natural science education?
+    id: 166099
+    title: >-
+        How do algal blooms affect the structure and dynamics of food webs in lakes?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-integration-of-course-and-lab-work-enhance-natural-science-education
-related_article5:
-    id: 166100
-    title: What are the sources and types of contaminants that impact aquatic life and human health?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-sources-and-types-of-contaminants-that-impact-aquatic-life-and-human-health
+    url: /learn/education-studies/questions/how-do-algal-blooms-affect-the-structure-and-dynamics-of-food-webs-in-lakes
 ---
 
 &nbsp;

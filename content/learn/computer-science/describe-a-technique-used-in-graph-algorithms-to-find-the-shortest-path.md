@@ -2,8 +2,10 @@
 _schema: default
 id: 161069
 date: 2025-01-24
-title: Describe a technique used in graph algorithms to find the shortest path.
-article_title: Describe a technique used in graph algorithms to find the shortest path.
+title: >-
+    Describe a technique used in graph algorithms to find the shortest path.
+article_title: >-
+    Describe a technique used in graph algorithms to find the shortest path.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-a-technique-used-in-graph-algorithms-to-find-the-shortest-pa
 url: /learn/computer-science/questions/describe-a-technique-used-in-graph-algorithms-to-find-the-shortest-path
 score: -1.0
 related_article1:
-    id: 161165
-    title: Describe an approximation algorithm and its use in solving the Traveling Salesperson Problem.
+    id: 161163
+    title: >-
+        How do clustering algorithms assist in medical diagnosis?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-an-approximation-algorithm-and-its-use-in-solving-the-traveling-salesperson-problem
+    url: /learn/computer-science/questions/how-do-clustering-algorithms-assist-in-medical-diagnosis
 related_article2:
-    id: 161164
-    title: What is the significance of graph representation in graph algorithms?
+    id: 160940
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-graph-representation-in-graph-algorithms
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article3:
-    id: 161057
-    title: How does time complexity differ from space complexity in measuring algorithm efficiency?
+    id: 161217
+    title: >-
+        What is the purpose of the Discrete Fourier Transform in signal processing?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-time-complexity-differ-from-space-complexity-in-measuring-algorithm-efficiency
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
 related_article4:
-    id: 160934
-    title: What is the divide-and-conquer technique and how is it applied in algorithm design?
+    id: 161061
+    title: >-
+        Explain the significance of dynamic programming in algorithm design.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-divideandconquer-technique-and-how-is-it-applied-in-algorithm-design
+    url: /learn/computer-science/questions/explain-the-significance-of-dynamic-programming-in-algorithm-design
 related_article5:
-    id: 161057
-    title: How does time complexity differ from space complexity in measuring algorithm efficiency?
+    id: 161166
+    title: >-
+        Why is algorithm analysis important in understanding the efficiency and correctness of algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-time-complexity-differ-from-space-complexity-in-measuring-algorithm-efficiency
+    url: /learn/computer-science/questions/why-is-algorithm-analysis-important-in-understanding-the-efficiency-and-correctness-of-algorithms
 ---
 
 &nbsp;

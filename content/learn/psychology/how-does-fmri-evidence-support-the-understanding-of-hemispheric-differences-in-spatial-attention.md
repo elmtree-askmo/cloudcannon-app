@@ -2,8 +2,10 @@
 _schema: default
 id: 164759
 date: 2025-01-28
-title: How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
-article_title: How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
+title: >-
+    How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
+article_title: >-
+    How does fMRI evidence support the understanding of hemispheric differences in spatial attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-fmri-evidence-support-the-understanding-of-hemispheric-diffe
 url: /learn/psychology/questions/how-does-fmri-evidence-support-the-understanding-of-hemispheric-differences-in-spatial-attention
 score: -1.0
 related_article1:
-    id: 164760
-    title: What is the role of object recognition in object-based attention?
+    id: 164768
+    title: >-
+        How does salience detection contribute to attention allocation in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-object-recognition-in-objectbased-attention
+    url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
 related_article2:
-    id: 164765
-    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+    id: 164753
+    title: >-
+        How do reaction times relate to vigilance in attention tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
 related_article3:
-    id: 164762
-    title: How does Alzheimer's disease affect memory formation and attention?
+    id: 164766
+    title: >-
+        How does TMS-induced disruption of the visual cortex affect attention and behavior?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
 related_article4:
-    id: 164770
-    title: How does Alzheimer's disease lead to attention deficits and memory impairment?
+    id: 164763
+    title: >-
+        What is the involvement of the frontal lobe in memory formation related to attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-lead-to-attention-deficits-and-memory-impairment
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
 related_article5:
-    id: 164764
-    title: How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
+    id: 164749
+    title: >-
+        How does attention allocation affect performance in divided attention tasks?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
+    url: /learn/psychology/questions/how-does-attention-allocation-affect-performance-in-divided-attention-tasks
 ---
 
 &nbsp;

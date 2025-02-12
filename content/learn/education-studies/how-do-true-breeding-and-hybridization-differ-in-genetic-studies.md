@@ -2,8 +2,10 @@
 _schema: default
 id: 167923
 date: 2025-02-01
-title: How do true breeding and hybridization differ in genetic studies?
-article_title: How do true breeding and hybridization differ in genetic studies?
+title: >-
+    How do true breeding and hybridization differ in genetic studies?
+article_title: >-
+    How do true breeding and hybridization differ in genetic studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-true-breeding-and-hybridization-differ-in-genetic-studies.md
 url: /learn/education-studies/questions/how-do-true-breeding-and-hybridization-differ-in-genetic-studies
 score: -1.0
 related_article1:
-    id: 167917
-    title: How does meiosis contribute to genetic variation?
+    id: 167931
+    title: >-
+        What is crossing over and how does it contribute to genetic variation?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-meiosis-contribute-to-genetic-variation
+    url: /learn/education-studies/questions/what-is-crossing-over-and-how-does-it-contribute-to-genetic-variation
 related_article2:
     id: 167914
-    title: What are the main phases of mitosis and what occurs during each phase?
+    title: >-
+        What are the main phases of mitosis and what occurs during each phase?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-phases-of-mitosis-and-what-occurs-during-each-phase
 related_article3:
-    id: 167932
-    title: Explain the process of independent assortment and its genetic significance.
+    id: 167926
+    title: >-
+        What is the 9:3:3:1 ratio and how is it derived in dihybrid crosses?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-process-of-independent-assortment-and-its-genetic-significance
+    url: /learn/education-studies/questions/what-is-the-9331-ratio-and-how-is-it-derived-in-dihybrid-crosses
 related_article4:
     id: 167918
-    title: What is the significance of homologous chromosomes during meiosis?
+    title: >-
+        What is the significance of homologous chromosomes during meiosis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-significance-of-homologous-chromosomes-during-meiosis
-related_article5:
-    id: 167919
-    title: Explain the concept of synapsis and its role in meiosis.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-concept-of-synapsis-and-its-role-in-meiosis
 ---
 
 &nbsp;

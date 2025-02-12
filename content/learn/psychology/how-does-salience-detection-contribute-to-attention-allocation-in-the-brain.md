@@ -2,8 +2,10 @@
 _schema: default
 id: 164768
 date: 2025-01-28
-title: How does salience detection contribute to attention allocation in the brain?
-article_title: How does salience detection contribute to attention allocation in the brain?
+title: >-
+    How does salience detection contribute to attention allocation in the brain?
+article_title: >-
+    How does salience detection contribute to attention allocation in the brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-salience-detection-contribute-to-attention-allocation-in-the
 url: /learn/psychology/questions/how-does-salience-detection-contribute-to-attention-allocation-in-the-brain
 score: -1.0
 related_article1:
-    id: 164766
-    title: How does TMS-induced disruption of the visual cortex affect attention and behavior?
+    id: 164763
+    title: >-
+        What is the involvement of the frontal lobe in memory formation related to attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-tmsinduced-disruption-of-the-visual-cortex-affect-attention-and-behavior
+    url: /learn/psychology/questions/what-is-the-involvement-of-the-frontal-lobe-in-memory-formation-related-to-attention
 related_article2:
-    id: 164753
-    title: How do reaction times relate to vigilance in attention tasks?
+    id: 164755
+    title: >-
+        How does the visual cortex contribute to bottom-up attention processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
 related_article3:
-    id: 164765
-    title: What patterns of brain activity are observed in fMRI studies of spatial attention?
+    id: 164748
+    title: >-
+        What is the impact of cognitive load on divided attention and multitasking?
     subject: Psychology
-    url: /learn/psychology/questions/what-patterns-of-brain-activity-are-observed-in-fmri-studies-of-spatial-attention
+    url: /learn/psychology/questions/what-is-the-impact-of-cognitive-load-on-divided-attention-and-multitasking
 related_article4:
-    id: 164756
-    title: What is the influence of endogenous cues on top-down attention?
+    id: 164758
+    title: >-
+        What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-influence-of-endogenous-cues-on-topdown-attention
+    url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
 related_article5:
-    id: 164753
-    title: How do reaction times relate to vigilance in attention tasks?
+    id: 164764
+    title: >-
+        How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
 ---
 
 &nbsp;

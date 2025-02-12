@@ -2,8 +2,10 @@
 _schema: default
 id: 168960
 date: 2025-02-04
-title: Define endocytosis and exocytosis and explain their roles in cellular transport.
-article_title: Define endocytosis and exocytosis and explain their roles in cellular transport.
+title: >-
+    Define endocytosis and exocytosis and explain their roles in cellular transport.
+article_title: >-
+    Define endocytosis and exocytosis and explain their roles in cellular transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular
 url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
 score: -1.0
 related_article1:
-    id: 168945
-    title: How do polar and non-polar groups affect the solubility and interaction of biomolecules?
+    id: 168953
+    title: >-
+        Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-polar-and-nonpolar-groups-affect-the-solubility-and-interaction-of-biomolecules
+    url: /learn/health-studies/questions/discuss-the-effects-of-cholesterol-on-membrane-fluidity-at-high-and-low-temperatures
 related_article2:
-    id: 168950
-    title: What are amphipathic molecules, and why are they important in membrane formation?
+    id: 168955
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-formation
+    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 related_article3:
-    id: 168956
-    title: How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
+    id: 168955
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-specificity-and-saturation-in-this-context
+    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 related_article4:
     id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
+    title: >-
+        What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
     subject: Health Studies
     url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
 related_article5:
-    id: 168952
-    title: How does temperature affect membrane fluidity, and what role does cholesterol play in this process?
+    id: 168955
+    title: >-
+        Define simple diffusion and provide examples of substances that move across membranes via this process.
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-temperature-affect-membrane-fluidity-and-what-role-does-cholesterol-play-in-this-process
+    url: /learn/health-studies/questions/define-simple-diffusion-and-provide-examples-of-substances-that-move-across-membranes-via-this-process
 ---
 
 &nbsp;

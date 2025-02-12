@@ -2,8 +2,10 @@
 _schema: default
 id: 164570
 date: 2025-01-28
-title: What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
-article_title: What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+title: >-
+    What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
+article_title: >-
+    What are the primary functions of the left hemisphere in terms of language processing and detail-oriented tasks?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,23 +24,33 @@ file_name: what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-lan
 url: /learn/psychology/questions/what-are-the-primary-functions-of-the-left-hemisphere-in-terms-of-language-processing-and-detailoriented-tasks
 score: -1.0
 related_article1:
-    id: 164581
-    title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+    id: 164569
+    title: >-
+        How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
 related_article2:
-    id: 164574
-    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+    id: 164567
+    title: >-
+        How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
+    url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
 related_article3:
-    id: 164579
-    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    id: 164572
+    title: >-
+        What is the role of the corpus callosum in interhemispheric interaction and information transfer?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
 related_article4:
+    id: 164586
+    title: >-
+        What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
+related_article5:
     id: 164571
-    title: How does the right hemisphere contribute to melodic recognition and global processing?
+    title: >-
+        How does the right hemisphere contribute to melodic recognition and global processing?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
 ---

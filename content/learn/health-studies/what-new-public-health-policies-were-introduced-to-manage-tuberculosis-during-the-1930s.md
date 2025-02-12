@@ -2,8 +2,10 @@
 _schema: default
 id: 162335
 date: 2025-01-25
-title: What new public health policies were introduced to manage tuberculosis during the 1930s?
-article_title: What new public health policies were introduced to manage tuberculosis during the 1930s?
+title: >-
+    What new public health policies were introduced to manage tuberculosis during the 1930s?
+article_title: >-
+    What new public health policies were introduced to manage tuberculosis during the 1930s?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-new-public-health-policies-were-introduced-to-manage-tuberculosi
 url: /learn/health-studies/questions/what-new-public-health-policies-were-introduced-to-manage-tuberculosis-during-the-1930s
 score: -1.0
 related_article1:
-    id: 162339
-    title: How did the Lalonde Report shift the focus of health promotion in the 1970s and 1980s?
+    id: 162343
+    title: >-
+        What role did ParticipACTION play in promoting physical activity through social marketing campaigns?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-lalonde-report-shift-the-focus-of-health-promotion-in-the-1970s-and-1980s
+    url: /learn/health-studies/questions/what-role-did-participaction-play-in-promoting-physical-activity-through-social-marketing-campaigns
 related_article2:
-    id: 162318
-    title: How did Edward Playter influence sanitary reforms in the late 19th century?
+    id: 162347
+    title: >-
+        What were the main legislative efforts and public health campaigns to raise awareness about tobacco health risks?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-edward-playter-influence-sanitary-reforms-in-the-late-19th-century
+    url: /learn/health-studies/questions/what-were-the-main-legislative-efforts-and-public-health-campaigns-to-raise-awareness-about-tobacco-health-risks
 related_article3:
     id: 162352
-    title: What contributions did Ron Draper make to health promotion and public health leadership?
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
     url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 related_article4:
-    id: 162337
-    title: How did the federal government contribute to the establishment of Aboriginal health services in the 1940s?
+    id: 162352
+    title: >-
+        What contributions did Ron Draper make to health promotion and public health leadership?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-did-the-federal-government-contribute-to-the-establishment-of-aboriginal-health-services-in-the-1940s
+    url: /learn/health-studies/questions/what-contributions-did-ron-draper-make-to-health-promotion-and-public-health-leadership
 related_article5:
-    id: 162345
-    title: What were the key public health campaigns for cancer awareness and breast cancer initiatives in the late 20th century?
+    id: 162334
+    title: >-
+        How did the Great Depression affect public health funding and services in the 1930s?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-were-the-key-public-health-campaigns-for-cancer-awareness-and-breast-cancer-initiatives-in-the-late-20th-century
+    url: /learn/health-studies/questions/how-did-the-great-depression-affect-public-health-funding-and-services-in-the-1930s
 ---
 
 &nbsp;

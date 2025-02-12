@@ -2,8 +2,10 @@
 _schema: default
 id: 169862
 date: 2025-02-05
-title: What is the difference between active and reactive power in AC circuits?
-article_title: What is the difference between active and reactive power in AC circuits?
+title: >-
+    What is the difference between active and reactive power in AC circuits?
+article_title: >-
+    What is the difference between active and reactive power in AC circuits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-active-and-reactive-power-in-ac-circui
 url: /learn/engineering/questions/what-is-the-difference-between-active-and-reactive-power-in-ac-circuits
 score: -1.0
 related_article1:
-    id: 169846
-    title: Describe the electrical characteristics of active and passive bipoles in AC sinusoidal circuits.
+    id: 169859
+    title: >-
+        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
     subject: Engineering
-    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-active-and-passive-bipoles-in-ac-sinusoidal-circuits
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
 related_article2:
-    id: 169863
-    title: How is the capacitor value calculated for power factor correction in AC circuits?
+    id: 169851
+    title: >-
+        How do Kirchhoff's laws assist in the analysis of electrical circuits?
     subject: Engineering
-    url: /learn/engineering/questions/how-is-the-capacitor-value-calculated-for-power-factor-correction-in-ac-circuits
+    url: /learn/engineering/questions/how-do-kirchhoffs-laws-assist-in-the-analysis-of-electrical-circuits
 related_article3:
-    id: 169847
-    title: Explain the behavior of a series RLC circuit in an AC sinusoidal regime.
+    id: 169848
+    title: >-
+        What are the key differences between series and parallel RLC circuits in AC sinusoidal conditions?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-behavior-of-a-series-rlc-circuit-in-an-ac-sinusoidal-regime
+    url: /learn/engineering/questions/what-are-the-key-differences-between-series-and-parallel-rlc-circuits-in-ac-sinusoidal-conditions
 related_article4:
-    id: 169855
-    title: What is the difference between series and parallel association of electrical bipoles?
+    id: 169860
+    title: >-
+        What are the electrical characteristics of an ideal capacitor in a sinusoidal AC regime?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-difference-between-series-and-parallel-association-of-electrical-bipoles
+    url: /learn/engineering/questions/what-are-the-electrical-characteristics-of-an-ideal-capacitor-in-a-sinusoidal-ac-regime
 related_article5:
-    id: 169853
-    title: Explain the concept of active and reactive power in electrical circuits.
+    id: 169859
+    title: >-
+        Describe the electrical characteristics of an ideal inductor in a sinusoidal AC regime.
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-concept-of-active-and-reactive-power-in-electrical-circuits
+    url: /learn/engineering/questions/describe-the-electrical-characteristics-of-an-ideal-inductor-in-a-sinusoidal-ac-regime
 ---
 
 &nbsp;

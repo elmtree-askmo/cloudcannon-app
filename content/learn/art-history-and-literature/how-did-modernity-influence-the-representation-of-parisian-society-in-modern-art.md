@@ -2,8 +2,10 @@
 _schema: default
 id: 166567
 date: 2025-01-30
-title: How did modernity influence the representation of Parisian society in modern art?
-article_title: How did modernity influence the representation of Parisian society in modern art?
+title: >-
+    How did modernity influence the representation of Parisian society in modern art?
+article_title: >-
+    How did modernity influence the representation of Parisian society in modern art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,23 @@ file_name: how-did-modernity-influence-the-representation-of-parisian-society-in
 url: /learn/art-history-and-literature/questions/how-did-modernity-influence-the-representation-of-parisian-society-in-modern-art
 score: 9.5
 related_article1:
-    id: 166570
-    title: How did photography influence the development of Realism in art?
+    id: 166565
+    title: >-
+        What were the main structural changes introduced during the Hausmann renovations of Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+    url: /learn/art-history-and-literature/questions/what-were-the-main-structural-changes-introduced-during-the-hausmann-renovations-of-paris
 related_article2:
-    id: 166576
-    title: How did artists respond to the themes of modernity and urbanization in their work?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-respond-to-the-themes-of-modernity-and-urbanization-in-their-work
-related_article3:
     id: 166569
-    title: What are the key characteristics of Realism in art, and how did it address the class divide?
+    title: >-
+        What are the key characteristics of Realism in art, and how did it address the class divide?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
-related_article4:
-    id: 166577
-    title: What were the effects of changes in the urban fabric on city life and infrastructure in Paris?
+related_article3:
+    id: 166569
+    title: >-
+        What are the key characteristics of Realism in art, and how did it address the class divide?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-effects-of-changes-in-the-urban-fabric-on-city-life-and-infrastructure-in-paris
-related_article5:
-    id: 166566
-    title: How did the Hausmann renovations impact the social patterns in Parisian society?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-hausmann-renovations-impact-the-social-patterns-in-parisian-society
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-of-realism-in-art-and-how-did-it-address-the-class-divide
 ---
 
 &nbsp;

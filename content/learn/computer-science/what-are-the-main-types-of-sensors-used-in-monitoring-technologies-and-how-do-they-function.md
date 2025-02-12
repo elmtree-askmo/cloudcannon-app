@@ -2,8 +2,10 @@
 _schema: default
 id: 161326
 date: 2025-01-24
-title: What are the main types of sensors used in monitoring technologies, and how do they function?
-article_title: What are the main types of sensors used in monitoring technologies, and how do they function?
+title: >-
+    What are the main types of sensors used in monitoring technologies, and how do they function?
+article_title: >-
+    What are the main types of sensors used in monitoring technologies, and how do they function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-sensors-used-in-monitoring-technologies-an
 url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
 score: -1.0
 related_article1:
-    id: 161529
-    title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+    id: 161347
+    title: >-
+        What types of sensors are typically used in weather stations, and how is data collected and processed?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/what-types-of-sensors-are-typically-used-in-weather-stations-and-how-is-data-collected-and-processed
 related_article2:
-    id: 161354
-    title: Explain the components and process involved in car park barrier systems.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-process-involved-in-car-park-barrier-systems
-related_article3:
-    id: 161527
-    title: What components and functionality are involved in street lighting control systems, and how do sensors and actuators contribute to the process?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-components-and-functionality-are-involved-in-street-lighting-control-systems-and-how-do-sensors-and-actuators-contribute-to-the-process
-related_article4:
     id: 161356
-    title: Discuss the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems.
+    title: >-
+        Discuss the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems.
     subject: Computer Science
     url: /learn/computer-science/questions/discuss-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
-related_article5:
-    id: 161332
-    title: Describe the role and importance of a Digital to Analogue Converter (DAC) in control systems.
+related_article3:
+    id: 161530
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-role-and-importance-of-a-digital-to-analogue-converter-dac-in-control-systems
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
+related_article4:
+    id: 161517
+    title: >-
+        Define real-time processing and explain its importance in control systems with examples.
+    subject: Computer Science
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems-with-examples
+related_article5:
+    id: 161520
+    title: >-
+        Describe multi-point calibration and its advantages in various applications.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163844
 date: 2025-01-27
-title: How do exponential functions differ from linear functions in terms of growth patterns?
-article_title: How do exponential functions differ from linear functions in terms of growth patterns?
+title: >-
+    How do exponential functions differ from linear functions in terms of growth patterns?
+article_title: >-
+    How do exponential functions differ from linear functions in terms of growth patterns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-exponential-functions-differ-from-linear-functions-in-terms-of
 url: /learn/mathematics/questions/how-do-exponential-functions-differ-from-linear-functions-in-terms-of-growth-patterns
 score: -1.0
 related_article1:
-    id: 163846
-    title: How can functions be used in mathematical modeling for real-world applications?
+    id: 163830
+    title: >-
+        How do you determine the domain and range of a linear function?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-functions-be-used-in-mathematical-modeling-for-realworld-applications
+    url: /learn/mathematics/questions/how-do-you-determine-the-domain-and-range-of-a-linear-function
 related_article2:
-    id: 163843
-    title: What are horizontal and vertical asymptotes, and how do they differ?
+    id: 163845
+    title: >-
+        What are the graphical differences between quadratic and cubic functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-horizontal-and-vertical-asymptotes-and-how-do-they-differ
+    url: /learn/mathematics/questions/what-are-the-graphical-differences-between-quadratic-and-cubic-functions
 related_article3:
-    id: 163847
-    title: What is the importance of graphical representation in understanding functions?
+    id: 163841
+    title: >-
+        Why is understanding the domain and range important when analyzing functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-importance-of-graphical-representation-in-understanding-functions
+    url: /learn/mathematics/questions/why-is-understanding-the-domain-and-range-important-when-analyzing-functions
 related_article4:
-    id: 163834
-    title: What are the asymptotes of an exponential function, and how do they affect its graph?
+    id: 163829
+    title: >-
+        What is the slope-intercept form of a linear function, and how does it help in graphing the function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-asymptotes-of-an-exponential-function-and-how-do-they-affect-its-graph
+    url: /learn/mathematics/questions/what-is-the-slopeintercept-form-of-a-linear-function-and-how-does-it-help-in-graphing-the-function
 related_article5:
-    id: 163840
-    title: How can you identify key features such as intercepts and intersections from a graph?
+    id: 163848
+    title: >-
+        How can you manually plot a function, and what tools can assist in this process?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-key-features-such-as-intercepts-and-intersections-from-a-graph
+    url: /learn/mathematics/questions/how-can-you-manually-plot-a-function-and-what-tools-can-assist-in-this-process
 ---
 
 &nbsp;

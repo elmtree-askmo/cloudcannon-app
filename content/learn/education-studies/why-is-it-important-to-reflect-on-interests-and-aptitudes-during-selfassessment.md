@@ -2,8 +2,10 @@
 _schema: default
 id: 168459
 date: 2025-02-03
-title: Why is it important to reflect on interests and aptitudes during self-assessment?
-article_title: Why is it important to reflect on interests and aptitudes during self-assessment?
+title: >-
+    Why is it important to reflect on interests and aptitudes during self-assessment?
+article_title: >-
+    Why is it important to reflect on interests and aptitudes during self-assessment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-it-important-to-reflect-on-interests-and-aptitudes-during-self
 url: /learn/education-studies/questions/why-is-it-important-to-reflect-on-interests-and-aptitudes-during-selfassessment
 score: -1.0
 related_article1:
-    id: 168470
-    title: How can individuals identify their true values?
+    id: 168465
+    title: >-
+        How do interpersonal skills contribute to career success?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
+    url: /learn/education-studies/questions/how-do-interpersonal-skills-contribute-to-career-success
 related_article2:
-    id: 168468
-    title: How can family and friends influence an individual's values?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
-related_article3:
-    id: 168454
-    title: What are values and how do they influence career choices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-values-and-how-do-they-influence-career-choices
-related_article4:
-    id: 168458
-    title: How can the Skills Matcher Tool assist in self-assessment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-skills-matcher-tool-assist-in-selfassessment
-related_article5:
     id: 168456
-    title: Define skills and explain their importance in career choice.
+    title: >-
+        Define skills and explain their importance in career choice.
     subject: Education Studies
     url: /learn/education-studies/questions/define-skills-and-explain-their-importance-in-career-choice
+related_article3:
+    id: 168470
+    title: >-
+        How can individuals identify their true values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
+related_article4:
+    id: 168468
+    title: >-
+        How can family and friends influence an individual's values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-family-and-friends-influence-an-individuals-values
+related_article5:
+    id: 168470
+    title: >-
+        How can individuals identify their true values?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-individuals-identify-their-true-values
 ---
 
 &nbsp;

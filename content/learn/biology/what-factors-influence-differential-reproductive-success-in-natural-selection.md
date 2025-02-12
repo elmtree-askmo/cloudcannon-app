@@ -2,8 +2,10 @@
 _schema: default
 id: 166934
 date: 2025-01-31
-title: What factors influence differential reproductive success in natural selection?
-article_title: What factors influence differential reproductive success in natural selection?
+title: >-
+    What factors influence differential reproductive success in natural selection?
+article_title: >-
+    What factors influence differential reproductive success in natural selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-differential-reproductive-success-in-natural-s
 url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
 score: -1.0
 related_article1:
-    id: 166923
-    title: How do phenotypic differences contribute to variation in a population?
-    subject: Biology
-    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
-related_article2:
-    id: 166909
-    title: What are the key characteristics of a hypothesis in scientific investigation?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-of-a-hypothesis-in-scientific-investigation
-related_article3:
-    id: 166925
-    title: How is a phylogenetic tree constructed, and why is it important in biology?
-    subject: Biology
-    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
-related_article4:
     id: 166928
-    title: What are the mechanisms and processes involved in sexual reproduction?
+    title: >-
+        What are the mechanisms and processes involved in sexual reproduction?
     subject: Biology
     url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
-related_article5:
-    id: 166932
-    title: What are the sources and types of genetic variation, and why are they important for evolution?
+related_article2:
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-sources-and-types-of-genetic-variation-and-why-are-they-important-for-evolution
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
+related_article3:
+    id: 166912
+    title: >-
+        How do scientists analyze results to evaluate a hypothesis?
+    subject: Biology
+    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+related_article4:
+    id: 166911
+    title: >-
+        What are the essential steps in designing an experiment?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-essential-steps-in-designing-an-experiment
+related_article5:
+    id: 166923
+    title: >-
+        How do phenotypic differences contribute to variation in a population?
+    subject: Biology
+    url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 ---
 
 &nbsp;

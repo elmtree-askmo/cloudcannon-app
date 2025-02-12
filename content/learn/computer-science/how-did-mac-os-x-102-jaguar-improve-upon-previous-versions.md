@@ -2,8 +2,10 @@
 _schema: default
 id: 160521
 date: 2025-01-24
-title: How did Mac OS X 10.2 Jaguar improve upon previous versions?
-article_title: How did Mac OS X 10.2 Jaguar improve upon previous versions?
+title: >-
+    How did Mac OS X 10.2 Jaguar improve upon previous versions?
+article_title: >-
+    How did Mac OS X 10.2 Jaguar improve upon previous versions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-mac-os-x-102-jaguar-improve-upon-previous-versions.md
 url: /learn/computer-science/questions/how-did-mac-os-x-102-jaguar-improve-upon-previous-versions
 score: -1.0
 related_article1:
-    id: 160427
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
+    id: 160435
+    title: >-
+        How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
+    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
 related_article2:
+    id: 160418
+    title: >-
+        What were the key features of the first beta release of Mac OS X?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-were-the-key-features-of-the-first-beta-release-of-mac-os-x
+related_article3:
     id: 160427
-    title: What was the impact of the MacBook Air's introduction on the laptop market?
+    title: >-
+        What was the impact of the MacBook Air's introduction on the laptop market?
     subject: Computer Science
     url: /learn/computer-science/questions/what-was-the-impact-of-the-macbook-airs-introduction-on-the-laptop-market
-related_article3:
-    id: 160603
-    title: What were the major updates introduced with Mac OS X 10.4 Tiger?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
 related_article4:
-    id: 160603
-    title: What were the major updates introduced with Mac OS X 10.4 Tiger?
+    id: 160520
+    title: >-
+        What were the major updates introduced in Mac OS X 10.1?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
+    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-in-mac-os-x-101
 related_article5:
-    id: 160428
-    title: How did the transition to aluminum cases affect Apple's product design?
+    id: 160514
+    title: >-
+        How did the first beta release of Mac OS X impact Apple's software development?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-did-the-transition-to-aluminum-cases-affect-apples-product-design
+    url: /learn/computer-science/questions/how-did-the-first-beta-release-of-mac-os-x-impact-apples-software-development
 ---
 
 &nbsp;

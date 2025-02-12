@@ -2,8 +2,10 @@
 _schema: default
 id: 163334
 date: 2025-01-26
-title: Explain the concept of person-time in the context of incidence rate calculation.
-article_title: Explain the concept of person-time in the context of incidence rate calculation.
+title: >-
+    Explain the concept of person-time in the context of incidence rate calculation.
+article_title: >-
+    Explain the concept of person-time in the context of incidence rate calculation.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-persontime-in-the-context-of-incidence-rate-ca
 url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
 score: -1.0
 related_article1:
-    id: 163233
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163242
+    title: >-
+        How is the Population Attributable Proportion (PAR%) calculated, and what assumptions does it rely on?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-does-it-rely-on
 related_article2:
-    id: 163345
-    title: What are the limitations of using crude rates in epidemiological studies?
+    id: 163071
+    title: >-
+        How do prevalence and incidence differ in terms of existing and new cases?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
+    url: /learn/health-studies/questions/how-do-prevalence-and-incidence-differ-in-terms-of-existing-and-new-cases
 related_article3:
-    id: 163343
-    title: How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
+    id: 163062
+    title: >-
+        How is the numerator used in measures of disease frequency determined?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-must-be-made
+    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 related_article4:
-    id: 163240
-    title: How is a 2x2 table constructed for epidemiologic data, and what is its purpose?
+    id: 163245
+    title: >-
+        How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-2x2-table-constructed-for-epidemiologic-data-and-what-is-its-purpose
+    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
 related_article5:
-    id: 163068
-    title: How is prevalence calculated, and what does it indicate about a population?
+    id: 163329
+    title: >-
+        How is a ratio different from a proportion in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
+    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
 ---
 
 &nbsp;

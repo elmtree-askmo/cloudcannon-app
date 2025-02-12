@@ -2,8 +2,10 @@
 _schema: default
 id: 165878
 date: 2025-01-29
-title: How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
-article_title: How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
+title: >-
+    How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
+article_title: >-
+    How do MHC molecules contribute to self vs. non-self recognition in tissue transplantation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tis
 url: /learn/health-studies/questions/how-do-mhc-molecules-contribute-to-self-vs-nonself-recognition-in-tissue-transplantation
 score: -1.0
 related_article1:
-    id: 165879
-    title: What is the importance of clonality in the immune response?
+    id: 165865
+    title: >-
+        What is the role of Toll-Like Receptors in the activation of innate immunity?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-importance-of-clonality-in-the-immune-response
+    url: /learn/health-studies/questions/what-is-the-role-of-tolllike-receptors-in-the-activation-of-innate-immunity
 related_article2:
+    id: 165881
+    title: >-
+        What mechanisms are involved in the sustained immune response during secondary exposure?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-the-sustained-immune-response-during-secondary-exposure
+related_article3:
+    id: 165872
+    title: >-
+        How do T-Helper 1 and T-Helper 2 cells differ in their roles in the cellular immune response?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-thelper-1-and-thelper-2-cells-differ-in-their-roles-in-the-cellular-immune-response
+related_article4:
+    id: 165866
+    title: >-
+        How do monocytes and macrophages differ from neutrophils and eosinophils in their phagocytic functions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-monocytes-and-macrophages-differ-from-neutrophils-and-eosinophils-in-their-phagocytic-functions
+related_article5:
     id: 165858
-    title: How do infective parasites differ from non-infective parasites in terms of their impact on the host?
+    title: >-
+        How do infective parasites differ from non-infective parasites in terms of their impact on the host?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-infective-parasites-differ-from-noninfective-parasites-in-terms-of-their-impact-on-the-host
-related_article3:
-    id: 165876
-    title: How does the JAK-STAT pathway facilitate gene transcription activation in response to cytokine binding?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-jakstat-pathway-facilitate-gene-transcription-activation-in-response-to-cytokine-binding
-related_article4:
-    id: 165873
-    title: What is the process of memory cell formation in the humoral immune response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-process-of-memory-cell-formation-in-the-humoral-immune-response
-related_article5:
-    id: 165877
-    title: What is the role of the NF Kappa B pathway in the inflammatory response?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-nf-kappa-b-pathway-in-the-inflammatory-response
 ---
 
 &nbsp;

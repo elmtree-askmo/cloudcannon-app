@@ -2,8 +2,10 @@
 _schema: default
 id: 160802
 date: 2025-01-24
-title: How do data structures influence the efficiency of algorithms?
-article_title: How do data structures influence the efficiency of algorithms?
+title: >-
+    How do data structures influence the efficiency of algorithms?
+article_title: >-
+    How do data structures influence the efficiency of algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-data-structures-influence-the-efficiency-of-algorithms.md
 url: /learn/computer-science/questions/how-do-data-structures-influence-the-efficiency-of-algorithms
 score: -1.0
 related_article1:
-    id: 160817
-    title: What challenges are associated with solving the traveling salesman problem?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
-related_article2:
     id: 161132
-    title: What is the halting problem and why is it significant in computability theory?
+    title: >-
+        What is the halting problem and why is it significant in computability theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
+related_article2:
+    id: 161140
+    title: >-
+        What are the properties of rational and irrational numbers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-properties-of-rational-and-irrational-numbers
 related_article3:
-    id: 161281
-    title: What is the difference between countably infinite and uncountably infinite sets?
+    id: 161136
+    title: >-
+        What defines an efficient algorithm in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
+    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 related_article4:
-    id: 160805
-    title: How is proof by contradiction used to demonstrate unsolvable problems?
+    id: 160808
+    title: >-
+        What defines an efficient algorithm in complexity theory?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-proof-by-contradiction-used-to-demonstrate-unsolvable-problems
+    url: /learn/computer-science/questions/what-defines-an-efficient-algorithm-in-complexity-theory
 related_article5:
-    id: 161138
-    title: What are the implications of the halting problem on static and dynamic analysis?
+    id: 160813
+    title: >-
+        What techniques are used to prove the irrationality of numbers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-implications-of-the-halting-problem-on-static-and-dynamic-analysis
+    url: /learn/computer-science/questions/what-techniques-are-used-to-prove-the-irrationality-of-numbers
 ---
 
 &nbsp;

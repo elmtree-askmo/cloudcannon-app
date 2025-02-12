@@ -2,8 +2,10 @@
 _schema: default
 id: 164744
 date: 2025-01-28
-title: What is the difference between feature and conjunction searches in selective attention?
-article_title: What is the difference between feature and conjunction searches in selective attention?
+title: >-
+    What is the difference between feature and conjunction searches in selective attention?
+article_title: >-
+    What is the difference between feature and conjunction searches in selective attention?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-feature-and-conjunction-searches-in-se
 url: /learn/psychology/questions/what-is-the-difference-between-feature-and-conjunction-searches-in-selective-attention
 score: -1.0
 related_article1:
-    id: 164753
-    title: How do reaction times relate to vigilance in attention tasks?
+    id: 164757
+    title: >-
+        How does the frontal lobe influence top-down attention processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-reaction-times-relate-to-vigilance-in-attention-tasks
+    url: /learn/psychology/questions/how-does-the-frontal-lobe-influence-topdown-attention-processes
 related_article2:
-    id: 164746
-    title: How does scene schema influence visual search in selective attention?
+    id: 164767
+    title: >-
+        What are phosphenes, and how are they related to TMS studies of attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-scene-schema-influence-visual-search-in-selective-attention
+    url: /learn/psychology/questions/what-are-phosphenes-and-how-are-they-related-to-tms-studies-of-attention
 related_article3:
-    id: 164755
-    title: How does the visual cortex contribute to bottom-up attention processes?
+    id: 164754
+    title: >-
+        What is the role of exogenous cues in bottom-up attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-visual-cortex-contribute-to-bottomup-attention-processes
+    url: /learn/psychology/questions/what-is-the-role-of-exogenous-cues-in-bottomup-attention
 related_article4:
-    id: 164758
-    title: What are the hemispheric differences in spatial attention, particularly regarding right hemisphere dominance?
+    id: 164764
+    title: >-
+        How do neuropsychological studies contribute to our understanding of cognitive neuroscience and attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-hemispheric-differences-in-spatial-attention-particularly-regarding-right-hemisphere-dominance
+    url: /learn/psychology/questions/how-do-neuropsychological-studies-contribute-to-our-understanding-of-cognitive-neuroscience-and-attention
 related_article5:
-    id: 164762
-    title: How does Alzheimer's disease affect memory formation and attention?
+    id: 164751
+    title: >-
+        What role does salience play in maintaining vigilance and alertness?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-alzheimers-disease-affect-memory-formation-and-attention
+    url: /learn/psychology/questions/what-role-does-salience-play-in-maintaining-vigilance-and-alertness
 ---
 
 &nbsp;

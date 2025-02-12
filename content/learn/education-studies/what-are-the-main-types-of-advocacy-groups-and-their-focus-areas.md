@@ -2,8 +2,10 @@
 _schema: default
 id: 164938
 date: 2025-01-28
-title: What are the main types of advocacy groups and their focus areas?
-article_title: What are the main types of advocacy groups and their focus areas?
+title: >-
+    What are the main types of advocacy groups and their focus areas?
+article_title: >-
+    What are the main types of advocacy groups and their focus areas?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-main-types-of-advocacy-groups-and-their-focus-areas.md
 url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
 score: -1.0
 related_article1:
-    id: 164943
-    title: What historical events marked the rise and fall of communism?
+    id: 164933
+    title: >-
+        What are the primary methods of data collection in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
+    url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
 related_article2:
-    id: 164936
-    title: What are the different types of questions used in surveys, and how can bias be avoided?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-questions-used-in-surveys-and-how-can-bias-be-avoided
-related_article3:
-    id: 164934
-    title: What ethical considerations should be taken into account during participant recruitment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
-related_article4:
     id: 164939
-    title: What is the primary purpose of military aid?
+    title: >-
+        What is the primary purpose of military aid?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
+related_article3:
+    id: 164932
+    title: >-
+        How can you evaluate the quality of a research article?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-you-evaluate-the-quality-of-a-research-article
+related_article4:
+    id: 164937
+    title: >-
+        What role do advocacy groups play in influencing policy?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-do-advocacy-groups-play-in-influencing-policy
 related_article5:
     id: 164934
-    title: What ethical considerations should be taken into account during participant recruitment?
+    title: >-
+        What ethical considerations should be taken into account during participant recruitment?
     subject: Education Studies
     url: /learn/education-studies/questions/what-ethical-considerations-should-be-taken-into-account-during-participant-recruitment
 ---

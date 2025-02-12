@@ -2,8 +2,10 @@
 _schema: default
 id: 163680
 date: 2025-01-27
-title: How is deductive reasoning used in quantitative research?
-article_title: How is deductive reasoning used in quantitative research?
+title: >-
+    How is deductive reasoning used in quantitative research?
+article_title: >-
+    How is deductive reasoning used in quantitative research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-deductive-reasoning-used-in-quantitative-research.md
 url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
 score: -1.0
 related_article1:
-    id: 163676
-    title: How do ontology and epistemology influence research methodology?
+    id: 163692
+    title: >-
+        How does objective knowledge contribute to quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
+    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
 related_article2:
-    id: 163687
-    title: What is the importance of formulating research questions from a research problem?
+    id: 163682
+    title: >-
+        What are the key elements of a research design?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
 related_article3:
-    id: 163683
-    title: What are some common qualitative data collection methods?
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-qualitative-data-collection-methods
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 related_article4:
-    id: 163691
-    title: How does subjective knowledge contribute to qualitative research?
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-subjective-knowledge-contribute-to-qualitative-research
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 related_article5:
-    id: 163686
-    title: How is statistical analysis used in quantitative data analysis?
+    id: 163685
+    title: >-
+        What is the process of coding and thematic analysis in qualitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
 ---
 
 &nbsp;

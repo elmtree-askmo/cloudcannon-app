@@ -2,8 +2,10 @@
 _schema: default
 id: 166310
 date: 2025-01-30
-title: How is lymphoma diagnosed and classified through biopsy?
-article_title: How is lymphoma diagnosed and classified through biopsy?
+title: >-
+    How is lymphoma diagnosed and classified through biopsy?
+article_title: >-
+    How is lymphoma diagnosed and classified through biopsy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/health-studies/questions/how-is-lymphoma-diagnosed-and-classified-th
 score: -1.0
 related_article1:
     id: 166292
-    title: What biopsy techniques are commonly used in the diagnosis of leukemia?
+    title: >-
+        What biopsy techniques are commonly used in the diagnosis of leukemia?
     subject: Health Studies
     url: /learn/health-studies/questions/what-biopsy-techniques-are-commonly-used-in-the-diagnosis-of-leukemia
 related_article2:
-    id: 166302
-    title: How does the consolidation phase differ from the induction phase in leukemia treatment?
+    id: 166291
+    title: >-
+        What are the main types of leukemia and their distinguishing features?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-the-consolidation-phase-differ-from-the-induction-phase-in-leukemia-treatment
+    url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
 related_article3:
-    id: 166314
-    title: How is anemia diagnosed and treated?
+    id: 166307
+    title: >-
+        How do solid tumors form in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-anemia-diagnosed-and-treated
+    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
 related_article4:
-    id: 166305
-    title: How does non-Hodgkin's lymphoma differ from Hodgkin's lymphoma?
+    id: 166291
+    title: >-
+        What are the main types of leukemia and their distinguishing features?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-nonhodgkins-lymphoma-differ-from-hodgkins-lymphoma
+    url: /learn/health-studies/questions/what-are-the-main-types-of-leukemia-and-their-distinguishing-features
 related_article5:
     id: 166295
-    title: What are the primary risk factors for developing leukemia related to radiation exposure?
+    title: >-
+        What are the primary risk factors for developing leukemia related to radiation exposure?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
 ---

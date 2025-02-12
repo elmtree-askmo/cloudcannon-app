@@ -2,8 +2,10 @@
 _schema: default
 id: 160446
 date: 2025-01-24
-title: What are the primary sources and methods for collecting spatial and temporal data in ecology?
-article_title: What are the primary sources and methods for collecting spatial and temporal data in ecology?
+title: >-
+    What are the primary sources and methods for collecting spatial and temporal data in ecology?
+article_title: >-
+    What are the primary sources and methods for collecting spatial and temporal data in ecology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-sources-and-methods-for-collecting-spatial-and-t
 url: /learn/education-studies/questions/what-are-the-primary-sources-and-methods-for-collecting-spatial-and-temporal-data-in-ecology
 score: -1.0
 related_article1:
-    id: 160451
-    title: How can species richness be assessed in a biodiversity study?
+    id: 160438
+    title: >-
+        How does the width of the energy base impact the trophic levels in an ecosystem?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
+    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
 related_article2:
+    id: 160438
+    title: >-
+        How does the width of the energy base impact the trophic levels in an ecosystem?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
+related_article3:
+    id: 160438
+    title: >-
+        How does the width of the energy base impact the trophic levels in an ecosystem?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
+related_article4:
     id: 160451
-    title: How can species richness be assessed in a biodiversity study?
+    title: >-
+        How can species richness be assessed in a biodiversity study?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-species-richness-be-assessed-in-a-biodiversity-study
-related_article3:
-    id: 160441
-    title: What are the key components of the Shannon Diversity Index formula?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-the-shannon-diversity-index-formula
-related_article4:
-    id: 160444
-    title: What are the best practices for organizing data in Excel for analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-organizing-data-in-excel-for-analysis
 related_article5:
-    id: 160443
-    title: How is species richness assessed using the Shannon Diversity Index?
+    id: 160438
+    title: >-
+        How does the width of the energy base impact the trophic levels in an ecosystem?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-species-richness-assessed-using-the-shannon-diversity-index
+    url: /learn/education-studies/questions/how-does-the-width-of-the-energy-base-impact-the-trophic-levels-in-an-ecosystem
 ---
 
 &nbsp;

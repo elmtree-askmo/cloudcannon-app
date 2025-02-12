@@ -2,8 +2,10 @@
 _schema: default
 id: 165953
 date: 2025-01-29
-title: Who were the key artists involved in the development of Cubism, and what were their contributions?
-article_title: Who were the key artists involved in the development of Cubism, and what were their contributions?
+title: >-
+    Who were the key artists involved in the development of Cubism, and what were their contributions?
+article_title: >-
+    Who were the key artists involved in the development of Cubism, and what were their contributions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-were-the-key-artists-involved-in-the-development-of-cubism-and-wh
 url: /learn/art-history-and-literature/questions/who-were-the-key-artists-involved-in-the-development-of-cubism-and-what-were-their-contributions
 score: 9.0
 related_article1:
-    id: 165947
-    title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
+    id: 165958
+    title: >-
+        How did technological advancements in the 19th century influence art techniques and materials?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
+    url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
 related_article2:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
 related_article3:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
+    id: 165961
+    title: >-
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article4:
-    id: 165952
-    title: How did Claude Monet influence the Impressionist movement?
+    id: 165944
+    title: >-
+        In what ways did the Salon des Refusés promote avant-garde art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
 related_article5:
-    id: 165952
-    title: How did Claude Monet influence the Impressionist movement?
+    id: 165941
+    title: >-
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 ---
 
 &nbsp;

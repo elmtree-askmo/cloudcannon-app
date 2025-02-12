@@ -2,8 +2,10 @@
 _schema: default
 id: 168716
 date: 2025-02-04
-title: How did the execution of King Louis XVI impact European monarchies?
-article_title: How did the execution of King Louis XVI impact European monarchies?
+title: >-
+    How did the execution of King Louis XVI impact European monarchies?
+article_title: >-
+    How did the execution of King Louis XVI impact European monarchies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-execution-of-king-louis-xvi-impact-european-monarchies.md
 url: /learn/art-history-and-literature/questions/how-did-the-execution-of-king-louis-xvi-impact-european-monarchies
 score: 8.5
 related_article1:
-    id: 168733
-    title: What artistic techniques were emphasized in Realism, and how did photography contribute to these techniques?
+    id: 168728
+    title: >-
+        How did artists depict labor and working conditions during the Industrial Revolution?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-artistic-techniques-were-emphasized-in-realism-and-how-did-photography-contribute-to-these-techniques
+    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
 related_article2:
-    id: 168736
-    title: How did artists represent the working class and critique working conditions in their art?
+    id: 168732
+    title: >-
+        How did socialist ideas influence art and the representation of the working class in the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
+    url: /learn/art-history-and-literature/questions/how-did-socialist-ideas-influence-art-and-the-representation-of-the-working-class-in-the-19th-century
 related_article3:
-    id: 168726
-    title: How did 19th-century art address social issues such as poverty and gender identity?
+    id: 168720
+    title: >-
+        How did Realism artists reject traditional Academic Painting styles?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-19thcentury-art-address-social-issues-such-as-poverty-and-gender-identity
+    url: /learn/art-history-and-literature/questions/how-did-realism-artists-reject-traditional-academic-painting-styles
 related_article4:
-    id: 168717
-    title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+    id: 168735
+    title: >-
+        What role did women play in art during the 19th century, and how was gender identity explored?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
+    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
 related_article5:
-    id: 168736
-    title: How did artists represent the working class and critique working conditions in their art?
+    id: 168727
+    title: >-
+        Who were the key representatives of Realism, and what were their contributions to the movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-artists-represent-the-working-class-and-critique-working-conditions-in-their-art
+    url: /learn/art-history-and-literature/questions/who-were-the-key-representatives-of-realism-and-what-were-their-contributions-to-the-movement
 ---
 
 &nbsp;

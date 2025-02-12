@@ -2,8 +2,10 @@
 _schema: default
 id: 159836
 date: 2025-01-23
-title: How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
-article_title: How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
+title: >-
+    How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
+article_title: >-
+    How did industrialisation influence the subject matter and technological advancements in art during the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-industrialisation-influence-the-subject-matter-and-technologi
 url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-the-subject-matter-and-technological-advancements-in-art-during-the-19th-century
 score: 9.0
 related_article1:
-    id: 159839
-    title: In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 160107
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 related_article2:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+    id: 159840
+    title: >-
+        How did migration and cultural exchange contribute to artistic diversity in the École de Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/how-did-migration-and-cultural-exchange-contribute-to-artistic-diversity-in-the-cole-de-paris
 related_article3:
-    id: 159839
-    title: In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+    id: 160107
+    title: >-
+        How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
+    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
 related_article4:
-    id: 159843
-    title: In what ways did art reflect social issues and contribute to social movements during the 19th and early 20th centuries?
+    id: 159852
+    title: >-
+        What were the distinctive characteristics and developments of American and Eastern European modernities in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-art-reflect-social-issues-and-contribute-to-social-movements-during-the-19th-and-early-20th-centuries
+    url: /learn/art-history-and-literature/questions/what-were-the-distinctive-characteristics-and-developments-of-american-and-eastern-european-modernities-in-art
 related_article5:
-    id: 159847
-    title: What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
+    id: 159848
+    title: >-
+        How did European colonisation influence African artistic practices, and what were some Western perceptions and misunderstandings?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-imperialism-and-how-did-artists-critique-and-reinterpret-the-representation-of-colonized-peoples
+    url: /learn/art-history-and-literature/questions/how-did-european-colonisation-influence-african-artistic-practices-and-what-were-some-western-perceptions-and-misunderstandings
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159660
 date: 2025-01-23
-title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
-article_title: What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+title: >-
+    What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
+article_title: >-
+    What are the risks associated with foreign bank penetration in terms of credit rationing to small firms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-
 url: /learn/economics/questions/what-are-the-risks-associated-with-foreign-bank-penetration-in-terms-of-credit-rationing-to-small-firms
 score: -1.0
 related_article1:
-    id: 159652
-    title: How does increased competition from financial integration improve banking system efficiency?
+    id: 159654
+    title: >-
+        What historical evidence exists regarding the concentration of capital flows as a cost of financial integration?
     subject: Economics
-    url: /learn/economics/questions/how-does-increased-competition-from-financial-integration-improve-banking-system-efficiency
+    url: /learn/economics/questions/what-historical-evidence-exists-regarding-the-concentration-of-capital-flows-as-a-cost-of-financial-integration
 related_article2:
     id: 159658
-    title: What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
+    title: >-
+        What are the risks to macroeconomic stability associated with monetary expansion and inflation due to financial integration?
     subject: Economics
     url: /learn/economics/questions/what-are-the-risks-to-macroeconomic-stability-associated-with-monetary-expansion-and-inflation-due-to-financial-integration
 related_article3:
-    id: 159654
-    title: What historical evidence exists regarding the concentration of capital flows as a cost of financial integration?
-    subject: Economics
-    url: /learn/economics/questions/what-historical-evidence-exists-regarding-the-concentration-of-capital-flows-as-a-cost-of-financial-integration
-related_article4:
-    id: 159659
-    title: How do exchange rate regime challenges pose risks to macroeconomic stability in the context of financial integration?
-    subject: Economics
-    url: /learn/economics/questions/how-do-exchange-rate-regime-challenges-pose-risks-to-macroeconomic-stability-in-the-context-of-financial-integration
-related_article5:
     id: 159652
-    title: How does increased competition from financial integration improve banking system efficiency?
+    title: >-
+        How does increased competition from financial integration improve banking system efficiency?
     subject: Economics
     url: /learn/economics/questions/how-does-increased-competition-from-financial-integration-improve-banking-system-efficiency
+related_article4:
+    id: 159656
+    title: >-
+        What are the effects of speculative investments on domestic capital allocation due to financial integration?
+    subject: Economics
+    url: /learn/economics/questions/what-are-the-effects-of-speculative-investments-on-domestic-capital-allocation-due-to-financial-integration
+related_article5:
+    id: 159655
+    title: >-
+        How does the concentration of capital flows impact low-income countries?
+    subject: Economics
+    url: /learn/economics/questions/how-does-the-concentration-of-capital-flows-impact-lowincome-countries
 ---
 
 &nbsp;

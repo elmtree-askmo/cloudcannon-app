@@ -2,8 +2,10 @@
 _schema: default
 id: 166673
 date: 2025-01-31
-title: How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
-article_title: How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+title: >-
+    How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
+article_title: >-
+    How are forces decomposed into X and Y components, and why is this decomposition important in engineering analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-dec
 url: /learn/engineering/questions/how-are-forces-decomposed-into-x-and-y-components-and-why-is-this-decomposition-important-in-engineering-analysis
 score: -1.0
 related_article1:
-    id: 166660
-    title: What is the process of vector addition, and how is it applied in force analysis?
+    id: 166654
+    title: >-
+        What resources are typically offered by career services to assist engineering students in securing internships?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-process-of-vector-addition-and-how-is-it-applied-in-force-analysis
+    url: /learn/engineering/questions/what-resources-are-typically-offered-by-career-services-to-assist-engineering-students-in-securing-internships
 related_article2:
-    id: 166656
-    title: What are the essential components of a free body diagram, and how do they aid in problem-solving?
+    id: 166659
+    title: >-
+        How are vector forces represented in terms of magnitude and direction, and why is this representation important in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-essential-components-of-a-free-body-diagram-and-how-do-they-aid-in-problemsolving
+    url: /learn/engineering/questions/how-are-vector-forces-represented-in-terms-of-magnitude-and-direction-and-why-is-this-representation-important-in-engineering
 related_article3:
-    id: 166669
-    title: What analytical methods are commonly used in engineering problem-solving, and how do they contribute to design optimization?
+    id: 166658
+    title: >-
+        How are systems of equations used to solve equilibrium problems in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/what-analytical-methods-are-commonly-used-in-engineering-problemsolving-and-how-do-they-contribute-to-design-optimization
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 related_article4:
-    id: 166672
-    title: What techniques are employed in mathematical modeling to solve engineering problems?
+    id: 166663
+    title: >-
+        What are the properties of tension in cables, and how does directionality affect tension analysis?
     subject: Engineering
-    url: /learn/engineering/questions/what-techniques-are-employed-in-mathematical-modeling-to-solve-engineering-problems
+    url: /learn/engineering/questions/what-are-the-properties-of-tension-in-cables-and-how-does-directionality-affect-tension-analysis
 related_article5:
-    id: 166652
-    title: How do consulting programs support engineers through networking and community engagement?
+    id: 166658
+    title: >-
+        How are systems of equations used to solve equilibrium problems in engineering?
     subject: Engineering
-    url: /learn/engineering/questions/how-do-consulting-programs-support-engineers-through-networking-and-community-engagement
+    url: /learn/engineering/questions/how-are-systems-of-equations-used-to-solve-equilibrium-problems-in-engineering
 ---
 
 &nbsp;

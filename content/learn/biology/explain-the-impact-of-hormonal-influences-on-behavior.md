@@ -2,8 +2,10 @@
 _schema: default
 id: 166368
 date: 2025-01-30
-title: Explain the impact of hormonal influences on behavior.
-article_title: Explain the impact of hormonal influences on behavior.
+title: >-
+    Explain the impact of hormonal influences on behavior.
+article_title: >-
+    Explain the impact of hormonal influences on behavior.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-impact-of-hormonal-influences-on-behavior.md
 url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
 score: -1.0
 related_article1:
-    id: 166371
-    title: What are the sources of genetic variation and why are they important for evolution?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
-related_article2:
-    id: 166364
-    title: Differentiate between homology and homoplasy in comparative biology.
-    subject: Biology
-    url: /learn/biology/questions/differentiate-between-homology-and-homoplasy-in-comparative-biology
-related_article3:
-    id: 166359
-    title: How does parent-offspring regression help in understanding heritability?
-    subject: Biology
-    url: /learn/biology/questions/how-does-parentoffspring-regression-help-in-understanding-heritability
-related_article4:
-    id: 166369
-    title: What is phylogeny and how does it relate to evolutionary history?
-    subject: Biology
-    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
-related_article5:
     id: 166361
-    title: Define adaptation and explain its importance in evolutionary biology.
+    title: >-
+        Define adaptation and explain its importance in evolutionary biology.
     subject: Biology
     url: /learn/biology/questions/define-adaptation-and-explain-its-importance-in-evolutionary-biology
+related_article2:
+    id: 166365
+    title: >-
+        What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
+related_article3:
+    id: 166355
+    title: >-
+        What are Darwin's postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article4:
+    id: 166371
+    title: >-
+        What are the sources of genetic variation and why are they important for evolution?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
+related_article5:
+    id: 166365
+    title: >-
+        What is convergent evolution and how does it differ from homology?
+    subject: Biology
+    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
 ---
 
 &nbsp;

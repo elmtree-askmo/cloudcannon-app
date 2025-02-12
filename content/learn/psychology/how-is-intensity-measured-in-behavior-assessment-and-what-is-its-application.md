@@ -2,8 +2,10 @@
 _schema: default
 id: 169320
 date: 2025-02-05
-title: How is intensity measured in behavior assessment and what is its application?
-article_title: How is intensity measured in behavior assessment and what is its application?
+title: >-
+    How is intensity measured in behavior assessment and what is its application?
+article_title: >-
+    How is intensity measured in behavior assessment and what is its application?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-intensity-measured-in-behavior-assessment-and-what-is-its-appl
 url: /learn/psychology/questions/how-is-intensity-measured-in-behavior-assessment-and-what-is-its-application
 score: -1.0
 related_article1:
-    id: 169326
-    title: What are the steps involved in skill acquisition and how does reinforcement play a role?
+    id: 169321
+    title: >-
+        What are the main tools and techniques used in behavior analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+    url: /learn/psychology/questions/what-are-the-main-tools-and-techniques-used-in-behavior-analysis
 related_article2:
-    id: 169319
-    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 related_article3:
-    id: 169319
-    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    id: 169312
+    title: >-
+        How do successive approximations contribute to shaping behavior?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+    url: /learn/psychology/questions/how-do-successive-approximations-contribute-to-shaping-behavior
 related_article4:
-    id: 169326
-    title: What are the steps involved in skill acquisition and how does reinforcement play a role?
+    id: 169317
+    title: >-
+        How is frequency measured in behavior tracking and why is it important?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-steps-involved-in-skill-acquisition-and-how-does-reinforcement-play-a-role
+    url: /learn/psychology/questions/how-is-frequency-measured-in-behavior-tracking-and-why-is-it-important
 related_article5:
-    id: 169319
-    title: What is latency in behavior analysis and how does it impact the understanding of behavior?
+    id: 169318
+    title: >-
+        Why is measuring the duration of behavior relevant to behavior modification?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-latency-in-behavior-analysis-and-how-does-it-impact-the-understanding-of-behavior
+    url: /learn/psychology/questions/why-is-measuring-the-duration-of-behavior-relevant-to-behavior-modification
 ---
 
 &nbsp;

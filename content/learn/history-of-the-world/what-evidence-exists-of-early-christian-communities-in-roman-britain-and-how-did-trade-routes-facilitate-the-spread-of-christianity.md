@@ -2,8 +2,10 @@
 _schema: default
 id: 166252
 date: 2025-01-29
-title: What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
-article_title: What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
+title: >-
+    What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
+article_title: >-
+    What evidence exists of early Christian communities in Roman Britain, and how did trade routes facilitate the spread of Christianity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-evidence-exists-of-early-christian-communities-in-roman-britain-
 url: /learn/history-of-the-world/questions/what-evidence-exists-of-early-christian-communities-in-roman-britain-and-how-did-trade-routes-facilitate-the-spread-of-christianity
 score: 9.0
 related_article1:
-    id: 166255
-    title: What do genetic studies of Roman-era burials reveal about intermarriage and the establishment of an elite class in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-do-genetic-studies-of-romanera-burials-reveal-about-intermarriage-and-the-establishment-of-an-elite-class-in-britain
-related_article2:
-    id: 166248
-    title: What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-caractacus-employ-in-his-resistance-against-roman-rule-and-what-was-his-ultimate-fate
-related_article3:
     id: 166254
-    title: What military strategies did the Romans use against British tribes, and what factors led to their eventual withdrawal from Britain?
+    title: >-
+        What military strategies did the Romans use against British tribes, and what factors led to their eventual withdrawal from Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-military-strategies-did-the-romans-use-against-british-tribes-and-what-factors-led-to-their-eventual-withdrawal-from-britain
+related_article2:
+    id: 166250
+    title: >-
+        How did Roman settlements like London and York develop, and what architectural features were prominent?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-roman-settlements-like-london-and-york-develop-and-what-architectural-features-were-prominent
+related_article3:
+    id: 166250
+    title: >-
+        How did Roman settlements like London and York develop, and what architectural features were prominent?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-roman-settlements-like-london-and-york-develop-and-what-architectural-features-were-prominent
 related_article4:
-    id: 166249
-    title: What were the motivations behind Boudicca's revolt, and what impact did it have on Roman Britain?
+    id: 166244
+    title: >-
+        How did the installation of the Trinovantes' king impact Roman-British relations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-motivations-behind-boudiccas-revolt-and-what-impact-did-it-have-on-roman-britain
+    url: /learn/history-of-the-world/questions/how-did-the-installation-of-the-trinovantes-king-impact-romanbritish-relations
 related_article5:
-    id: 166246
-    title: What was the significance of Claudius' invasion of Britain and the role of Aulus Plautius?
+    id: 166248
+    title: >-
+        What strategies did Caractacus employ in his resistance against Roman rule, and what was his ultimate fate?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-claudius-invasion-of-britain-and-the-role-of-aulus-plautius
+    url: /learn/history-of-the-world/questions/what-strategies-did-caractacus-employ-in-his-resistance-against-roman-rule-and-what-was-his-ultimate-fate
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165580
 date: 2025-01-29
-title: How does attending lectures in person differ from listening to podcasts in terms of learning benefits?
-article_title: How does attending lectures in person differ from listening to podcasts in terms of learning benefits?
+title: >-
+    How does attending lectures in person differ from listening to podcasts in terms of learning benefits?
+article_title: >-
+    How does attending lectures in person differ from listening to podcasts in terms of learning benefits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-attending-lectures-in-person-differ-from-listening-to-podcas
 url: /learn/education-studies/questions/how-does-attending-lectures-in-person-differ-from-listening-to-podcasts-in-terms-of-learning-benefits
 score: -1.0
 related_article1:
-    id: 165575
-    title: How can group study dynamics enhance learning, and what is the optimal group size?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-group-study-dynamics-enhance-learning-and-what-is-the-optimal-group-size
-related_article2:
-    id: 165592
-    title: How do practice questions and application exercises reinforce information retention?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-practice-questions-and-application-exercises-reinforce-information-retention
-related_article3:
-    id: 165572
-    title: How does information organization contribute to active learning?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-information-organization-contribute-to-active-learning
-related_article4:
     id: 165587
-    title: What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
+    title: >-
+        What are the benefits of using flashcards for active recall, and what are the limitations of recognition?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-benefits-of-using-flashcards-for-active-recall-and-what-are-the-limitations-of-recognition
-related_article5:
-    id: 165596
-    title: What strategies can improve information retention through novel stimuli?
+related_article2:
+    id: 165572
+    title: >-
+        How does information organization contribute to active learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-improve-information-retention-through-novel-stimuli
+    url: /learn/education-studies/questions/how-does-information-organization-contribute-to-active-learning
+related_article3:
+    id: 165588
+    title: >-
+        How can daily review practices with flashcards be integrated into a study routine?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-daily-review-practices-with-flashcards-be-integrated-into-a-study-routine
+related_article4:
+    id: 165577
+    title: >-
+        How does the Pomodoro Technique help reduce procrastination and improve focus?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-the-pomodoro-technique-help-reduce-procrastination-and-improve-focus
+related_article5:
+    id: 165588
+    title: >-
+        How can daily review practices with flashcards be integrated into a study routine?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-daily-review-practices-with-flashcards-be-integrated-into-a-study-routine
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166720
 date: 2025-01-31
-title: What types of events do engineering organizations typically host?
-article_title: What types of events do engineering organizations typically host?
+title: >-
+    What types of events do engineering organizations typically host?
+article_title: >-
+    What types of events do engineering organizations typically host?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-types-of-events-do-engineering-organizations-typically-host.md
 url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
 score: -1.0
 related_article1:
-    id: 166710
-    title: What are the eligibility criteria for engineering scholarships?
+    id: 166719
+    title: >-
+        How do engineering organizations support networking and professional development?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
+    url: /learn/education-studies/questions/how-do-engineering-organizations-support-networking-and-professional-development
 related_article2:
-    id: 166714
-    title: What are the current job market trends for consulting opportunities in engineering?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
-related_article3:
-    id: 166706
-    title: Describe the principle of conservation of energy and its significance in engineering systems.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-principle-of-conservation-of-energy-and-its-significance-in-engineering-systems
-related_article4:
-    id: 166717
-    title: How is robotics automation being integrated with AI, and what are its future prospects?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-robotics-automation-being-integrated-with-ai-and-what-are-its-future-prospects
-related_article5:
     id: 166698
-    title: How is the conservation of energy principle applied in rigid body dynamics?
+    title: >-
+        How is the conservation of energy principle applied in rigid body dynamics?
     subject: Education Studies
     url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
+related_article3:
+    id: 166712
+    title: >-
+        What types of services do consulting companies offer?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
+related_article4:
+    id: 166721
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
 ---
 
 &nbsp;

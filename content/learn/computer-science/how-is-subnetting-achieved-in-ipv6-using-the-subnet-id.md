@@ -2,8 +2,10 @@
 _schema: default
 id: 165752
 date: 2025-01-29
-title: How is subnetting achieved in IPv6 using the Subnet ID?
-article_title: How is subnetting achieved in IPv6 using the Subnet ID?
+title: >-
+    How is subnetting achieved in IPv6 using the Subnet ID?
+article_title: >-
+    How is subnetting achieved in IPv6 using the Subnet ID?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-subnetting-achieved-in-ipv6-using-the-subnet-id.md
 url: /learn/computer-science/questions/how-is-subnetting-achieved-in-ipv6-using-the-subnet-id
 score: -1.0
 related_article1:
-    id: 165763
-    title: When is the double colon notation used in IPv6 addresses, and what is its limitation?
+    id: 165745
+    title: >-
+        What are the components of the structure of a Global Unicast Address (GUA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/when-is-the-double-colon-notation-used-in-ipv6-addresses-and-what-is-its-limitation
+    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
 related_article2:
-    id: 165761
-    title: How does the compressed format of IPv6 addresses work?
+    id: 165743
+    title: >-
+        What is the recommended prefix length for IPv6 addresses and why?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
+    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
 related_article3:
-    id: 165742
-    title: Differentiate between unicast, multicast, and anycast IPv6 address types.
+    id: 165743
+    title: >-
+        What is the recommended prefix length for IPv6 addresses and why?
     subject: Computer Science
-    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
+    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
 related_article4:
+    id: 165760
+    title: >-
+        What is the preferred format for representing IPv6 addresses?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-preferred-format-for-representing-ipv6-addresses
+related_article5:
     id: 165749
-    title: What is the EUI-64 method in the context of IPv6 addressing?
+    title: >-
+        What is the EUI-64 method in the context of IPv6 addressing?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
-related_article5:
-    id: 165756
-    title: Describe the encapsulation process in IPv6 tunneling.
-    subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
 ---
 
 &nbsp;

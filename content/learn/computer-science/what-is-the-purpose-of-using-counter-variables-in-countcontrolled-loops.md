@@ -2,8 +2,10 @@
 _schema: default
 id: 161191
 date: 2025-01-24
-title: What is the purpose of using counter variables in count-controlled loops?
-article_title: What is the purpose of using counter variables in count-controlled loops?
+title: >-
+    What is the purpose of using counter variables in count-controlled loops?
+article_title: >-
+    What is the purpose of using counter variables in count-controlled loops?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loo
 url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
 score: -1.0
 related_article1:
-    id: 161476
-    title: What role do comparison operators play in decision making?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
-related_article2:
-    id: 161475
-    title: How are input and output represented in a flowchart?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-are-input-and-output-represented-in-a-flowchart
-related_article3:
-    id: 161472
-    title: How do flowcharts help in communicating system processes?
+    id: 161181
+    title: >-
+        How do flowcharts help in communicating system processes?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
+related_article2:
+    id: 161185
+    title: >-
+        What role do comparison operators play in decision making?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-role-do-comparison-operators-play-in-decision-making
+related_article3:
+    id: 161477
+    title: >-
+        Explain the difference between count-controlled and condition-controlled loops.
+    subject: Computer Science
+    url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
 related_article4:
     id: 161473
-    title: What is pseudocode and how is it used in programming?
+    title: >-
+        What is pseudocode and how is it used in programming?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-pseudocode-and-how-is-it-used-in-programming
 related_article5:
-    id: 161487
-    title: What is the role of variables in data storage and manipulation?
+    id: 161484
+    title: >-
+        What is iteration and how does it differ from simple repetition?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-variables-in-data-storage-and-manipulation
+    url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162712
 date: 2025-01-25
-title: What are the ethical considerations associated with artificial intelligence, and how can bias be addressed?
-article_title: What are the ethical considerations associated with artificial intelligence, and how can bias be addressed?
+title: >-
+    What are the ethical considerations associated with artificial intelligence, and how can bias be addressed?
+article_title: >-
+    What are the ethical considerations associated with artificial intelligence, and how can bias be addressed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-ethical-considerations-associated-with-artificial-intell
 url: /learn/others/questions/what-are-the-ethical-considerations-associated-with-artificial-intelligence-and-how-can-bias-be-addressed
 score: -1.0
 related_article1:
-    id: 162826
-    title: What are the key differences between descriptive, inferential, and exploratory data analysis?
-    subject: Others
-    url: /learn/others/questions/what-are-the-key-differences-between-descriptive-inferential-and-exploratory-data-analysis
-related_article2:
-    id: 162363
-    title: What are the challenges of overfitting and model validation in predictive modeling?
-    subject: Others
-    url: /learn/others/questions/what-are-the-challenges-of-overfitting-and-model-validation-in-predictive-modeling
-related_article3:
-    id: 162663
-    title: What are the differences between relational and NoSQL databases in database management?
-    subject: Others
-    url: /learn/others/questions/what-are-the-differences-between-relational-and-nosql-databases-in-database-management
-related_article4:
-    id: 162373
-    title: What are the best practices for responsive design and SEO optimization in web development?
-    subject: Others
-    url: /learn/others/questions/what-are-the-best-practices-for-responsive-design-and-seo-optimization-in-web-development
-related_article5:
-    id: 162829
-    title: How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
+    id: 162651
+    title: >-
+        How do TensorFlow, Scikit-learn, and PyTorch differ in their applications for machine learning?
     subject: Others
     url: /learn/others/questions/how-do-tensorflow-scikitlearn-and-pytorch-differ-in-their-applications-for-machine-learning
+related_article2:
+    id: 162721
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
+    subject: Others
+    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
+related_article3:
+    id: 162375
+    title: >-
+        How do Scrum and Kanban frameworks differ in Agile methodologies?
+    subject: Others
+    url: /learn/others/questions/how-do-scrum-and-kanban-frameworks-differ-in-agile-methodologies
+related_article4:
+    id: 162839
+    title: >-
+        How do Hadoop and Spark differ in their approach to big data processing?
+    subject: Others
+    url: /learn/others/questions/how-do-hadoop-and-spark-differ-in-their-approach-to-big-data-processing
+related_article5:
+    id: 162660
+    title: >-
+        What are the main differences between Hadoop and Spark in big data technologies?
+    subject: Others
+    url: /learn/others/questions/what-are-the-main-differences-between-hadoop-and-spark-in-big-data-technologies
 ---
 
 &nbsp;

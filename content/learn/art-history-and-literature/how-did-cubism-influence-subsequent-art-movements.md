@@ -2,8 +2,10 @@
 _schema: default
 id: 165954
 date: 2025-01-29
-title: How did Cubism influence subsequent art movements?
-article_title: How did Cubism influence subsequent art movements?
+title: >-
+    How did Cubism influence subsequent art movements?
+article_title: >-
+    How did Cubism influence subsequent art movements?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-cubism-influence-subsequent-art-movements.md
 url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
 score: 9.0
 related_article1:
-    id: 165940
-    title: How did criticisms of the Official Salons contribute to their decline?
+    id: 165962
+    title: >-
+        What is the legacy of 19th-century art movements on contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
+    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
 related_article2:
-    id: 165942
-    title: How did alternative exhibitions impact the development of new art styles?
+    id: 165961
+    title: >-
+        How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
 related_article3:
-    id: 165947
-    title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
+    id: 165949
+    title: >-
+        What were the goals of the Salon d’Automne, and who were its key organizers?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
 related_article4:
-    id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
+    id: 165962
+    title: >-
+        What is the legacy of 19th-century art movements on contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
+    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
 related_article5:
-    id: 165946
-    title: How did the First Impressionist Exhibition influence the development of Impressionist techniques?
+    id: 165952
+    title: >-
+        How did Claude Monet influence the Impressionist movement?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
+    url: /learn/art-history-and-literature/questions/how-did-claude-monet-influence-the-impressionist-movement
 ---
 
 &nbsp;

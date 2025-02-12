@@ -2,8 +2,10 @@
 _schema: default
 id: 165760
 date: 2025-01-29
-title: What is the preferred format for representing IPv6 addresses?
-article_title: What is the preferred format for representing IPv6 addresses?
+title: >-
+    What is the preferred format for representing IPv6 addresses?
+article_title: >-
+    What is the preferred format for representing IPv6 addresses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-preferred-format-for-representing-ipv6-addresses.md
 url: /learn/computer-science/questions/what-is-the-preferred-format-for-representing-ipv6-addresses
 score: -1.0
 related_article1:
-    id: 165759
-    title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+    id: 165761
+    title: >-
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article2:
-    id: 165745
-    title: What are the components of the structure of a Global Unicast Address (GUA)?
+    id: 165750
+    title: >-
+        What are solicited-node multicast addresses used for in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
+    url: /learn/computer-science/questions/what-are-solicitednode-multicast-addresses-used-for-in-ipv6
 related_article3:
-    id: 165741
-    title: What is the purpose of using a double colon in IPv6 address notation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-a-double-colon-in-ipv6-address-notation
-related_article4:
     id: 165758
-    title: How is static IPv6 address configuration performed on a router?
+    title: >-
+        How is static IPv6 address configuration performed on a router?
     subject: Computer Science
     url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
-related_article5:
-    id: 165743
-    title: What is the recommended prefix length for IPv6 addresses and why?
+related_article4:
+    id: 165756
+    title: >-
+        Describe the encapsulation process in IPv6 tunneling.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
+    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
+related_article5:
+    id: 165747
+    title: >-
+        How is a Link-Local Address (LLA) automatically created in IPv6?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
 ---
 
 &nbsp;

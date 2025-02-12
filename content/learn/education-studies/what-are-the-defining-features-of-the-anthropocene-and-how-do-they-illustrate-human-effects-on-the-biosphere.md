@@ -2,8 +2,10 @@
 _schema: default
 id: 168148
 date: 2025-02-02
-title: What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
-article_title: What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
+title: >-
+    What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
+article_title: >-
+    What are the defining features of the Anthropocene, and how do they illustrate human effects on the biosphere?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,27 +25,32 @@ url: /learn/education-studies/questions/what-are-the-defining-features-of-the-an
 score: -1.0
 related_article1:
     id: 168151
-    title: How does the scientific method guide the process of inquiry and hypothesis formation?
+    title: >-
+        How does the scientific method guide the process of inquiry and hypothesis formation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
 related_article2:
-    id: 168149
-    title: How do local and global impacts of human activities differ in the context of the Anthropocene?
+    id: 168162
+    title: >-
+        What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
+    url: /learn/education-studies/questions/what-assumptions-about-sensory-perception-and-predictability-are-made-in-scientific-studies-of-environmental-systems
 related_article3:
-    id: 168156
-    title: How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to-economic-and-ecological-benefits
-related_article4:
     id: 168159
-    title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
+    title: >-
+        How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
+related_article4:
+    id: 168156
+    title: >-
+        How do ecosystem services provided by marine ecosystems contribute to economic and ecological benefits?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-ecosystem-services-provided-by-marine-ecosystems-contribute-to-economic-and-ecological-benefits
 related_article5:
     id: 168154
-    title: What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
+    title: >-
+        What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and-how-do-symbiotic-relationships-play-a-role
 ---

@@ -2,8 +2,10 @@
 _schema: default
 id: 160645
 date: 2025-01-24
-title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
-article_title: What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+title: >-
+    What is Doreen Massey's concept of a global sense of place and its relation to place identity?
+article_title: >-
+    What is Doreen Massey's concept of a global sense of place and its relation to place identity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-rel
 url: /learn/sociology/questions/what-is-doreen-masseys-concept-of-a-global-sense-of-place-and-its-relation-to-place-identity
 score: -1.0
 related_article1:
-    id: 160088
-    title: How do urban planning and socio-economic changes affect spatial dynamics in cities?
+    id: 160546
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-cities
+    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
 related_article2:
-    id: 160230
-    title: How do trade relations and global supply chains contribute to global interdependence?
+    id: 160079
+    title: >-
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-trade-relations-and-global-supply-chains-contribute-to-global-interdependence
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 related_article3:
+    id: 160214
+    title: >-
+        What are the physical and human systems that define geographic settings in regional disparities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-physical-and-human-systems-that-define-geographic-settings-in-regional-disparities
+related_article4:
     id: 160638
-    title: How do political geography and state control relate to borders and boundaries in territoriality?
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
     url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
-related_article4:
-    id: 160512
-    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
 related_article5:
-    id: 160565
-    title: How does Doreen Massey's concept of a global sense of place relate to place identity and spatial relations?
+    id: 160079
+    title: >-
+        What are the main factors contributing to regional disparities in terms of inequality and prosperity?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-doreen-masseys-concept-of-a-global-sense-of-place-relate-to-place-identity-and-spatial-relations
+    url: /learn/sociology/questions/what-are-the-main-factors-contributing-to-regional-disparities-in-terms-of-inequality-and-prosperity
 ---
 
 &nbsp;

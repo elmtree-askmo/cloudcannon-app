@@ -2,8 +2,10 @@
 _schema: default
 id: 166179
 date: 2025-01-29
-title: What are the fundamental traits that define living organisms?
-article_title: What are the fundamental traits that define living organisms?
+title: >-
+    What are the fundamental traits that define living organisms?
+article_title: >-
+    What are the fundamental traits that define living organisms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-fundamental-traits-that-define-living-organisms.md
 url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
 score: -1.0
 related_article1:
-    id: 166185
-    title: What is the structure of a cell membrane and its function in cellular biology?
+    id: 166200
+    title: >-
+        How have humans evolved over time according to fossil evidence?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-structure-of-a-cell-membrane-and-its-function-in-cellular-biology
+    url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
 related_article2:
+    id: 166206
+    title: >-
+        How do structural adaptations enhance an organism's survival in its environment?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
+related_article3:
+    id: 166202
+    title: >-
+        How do human activities impact the environment and what are some conservation efforts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-human-activities-impact-the-environment-and-what-are-some-conservation-efforts
+related_article4:
     id: 166189
-    title: How do red blood cells and white blood cells differ in structure and function?
+    title: >-
+        How do red blood cells and white blood cells differ in structure and function?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
-related_article3:
-    id: 166206
-    title: How do structural adaptations enhance an organism's survival in its environment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
-related_article4:
-    id: 166204
-    title: How do phylogenetic trees help in understanding evolutionary relationships?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships
 related_article5:
-    id: 166206
-    title: How do structural adaptations enhance an organism's survival in its environment?
+    id: 166180
+    title: >-
+        How do metabolism and homeostasis contribute to the biological processes of life?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-structural-adaptations-enhance-an-organisms-survival-in-its-environment
+    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165004
 date: 2025-01-28
-title: What role does socioeconomic status play in demographic analysis?
-article_title: What role does socioeconomic status play in demographic analysis?
+title: >-
+    What role does socioeconomic status play in demographic analysis?
+article_title: >-
+    What role does socioeconomic status play in demographic analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-socioeconomic-status-play-in-demographic-analysis.md
 url: /learn/education-studies/questions/what-role-does-socioeconomic-status-play-in-demographic-analysis
 score: -1.0
 related_article1:
+    id: 165006
+    title: >-
+        How does random sampling differ from stratified sampling, and when should each be used?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-random-sampling-differ-from-stratified-sampling-and-when-should-each-be-used
+related_article2:
     id: 165003
-    title: How does demographic analysis of age and gender contribute to understanding survey results?
+    title: >-
+        How does demographic analysis of age and gender contribute to understanding survey results?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-demographic-analysis-of-age-and-gender-contribute-to-understanding-survey-results
-related_article2:
+related_article3:
     id: 165005
-    title: What are the differences between experimental design and observational studies in research methodology?
+    title: >-
+        What are the differences between experimental design and observational studies in research methodology?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-differences-between-experimental-design-and-observational-studies-in-research-methodology
-related_article3:
-    id: 164994
-    title: How can assumptions be avoided in survey question formulation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assumptions-be-avoided-in-survey-question-formulation
 related_article4:
-    id: 164999
-    title: What are the different types of statistical variables, and how do they impact data analysis?
+    id: 165005
+    title: >-
+        What are the differences between experimental design and observational studies in research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-statistical-variables-and-how-do-they-impact-data-analysis
+    url: /learn/education-studies/questions/what-are-the-differences-between-experimental-design-and-observational-studies-in-research-methodology
 related_article5:
-    id: 164993
-    title: What are the key elements to consider when formulating survey questions to ensure clarity and simplicity?
+    id: 165007
+    title: >-
+        What are the key components of public opinion surveys in political polling?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-to-consider-when-formulating-survey-questions-to-ensure-clarity-and-simplicity
+    url: /learn/education-studies/questions/what-are-the-key-components-of-public-opinion-surveys-in-political-polling
 ---
 
 &nbsp;

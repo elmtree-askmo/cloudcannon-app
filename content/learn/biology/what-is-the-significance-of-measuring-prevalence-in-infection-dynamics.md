@@ -2,8 +2,10 @@
 _schema: default
 id: 166151
 date: 2025-01-29
-title: What is the significance of measuring prevalence in infection dynamics?
-article_title: What is the significance of measuring prevalence in infection dynamics?
+title: >-
+    What is the significance of measuring prevalence in infection dynamics?
+article_title: >-
+    What is the significance of measuring prevalence in infection dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/what-is-the-significance-of-measuring-prevalence-i
 score: -1.0
 related_article1:
     id: 166138
-    title: How do foraging behaviors influence an animal's fitness in behavioral ecology?
+    title: >-
+        How do foraging behaviors influence an animal's fitness in behavioral ecology?
     subject: Biology
     url: /learn/biology/questions/how-do-foraging-behaviors-influence-an-animals-fitness-in-behavioral-ecology
 related_article2:
-    id: 166135
-    title: What are the main sources of genetic variation in a population?
+    id: 166148
+    title: >-
+        How does niche partitioning facilitate coexistence among species?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-sources-of-genetic-variation-in-a-population
+    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
 related_article3:
     id: 166148
-    title: How does niche partitioning facilitate coexistence among species?
+    title: >-
+        How does niche partitioning facilitate coexistence among species?
     subject: Biology
     url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
 related_article4:
-    id: 166145
-    title: What role do oncogenes and tumor suppressors play in cancer progression?
+    id: 166148
+    title: >-
+        How does niche partitioning facilitate coexistence among species?
     subject: Biology
-    url: /learn/biology/questions/what-role-do-oncogenes-and-tumor-suppressors-play-in-cancer-progression
+    url: /learn/biology/questions/how-does-niche-partitioning-facilitate-coexistence-among-species
 related_article5:
-    id: 166152
-    title: How can parasites manipulate host behavior to enhance their own transmission?
+    id: 166139
+    title: >-
+        What distinguishes exponential growth from logistic growth in population dynamics?
     subject: Biology
-    url: /learn/biology/questions/how-can-parasites-manipulate-host-behavior-to-enhance-their-own-transmission
+    url: /learn/biology/questions/what-distinguishes-exponential-growth-from-logistic-growth-in-population-dynamics
 ---
 
 &nbsp;

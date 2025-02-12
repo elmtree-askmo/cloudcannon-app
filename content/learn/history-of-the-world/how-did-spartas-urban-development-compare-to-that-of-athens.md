@@ -2,8 +2,10 @@
 _schema: default
 id: 163591
 date: 2025-01-27
-title: How did Sparta's urban development compare to that of Athens?
-article_title: How did Sparta's urban development compare to that of Athens?
+title: >-
+    How did Sparta's urban development compare to that of Athens?
+article_title: >-
+    How did Sparta's urban development compare to that of Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-spartas-urban-development-compare-to-that-of-athens.md
 url: /learn/history-of-the-world/questions/how-did-spartas-urban-development-compare-to-that-of-athens
 score: 9.0
 related_article1:
-    id: 163600
-    title: What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
+    id: 163587
+    title: >-
+        Why are certain Greek terms left untranslated in English scholarship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
+    url: /learn/history-of-the-world/questions/why-are-certain-greek-terms-left-untranslated-in-english-scholarship
 related_article2:
-    id: 163595
-    title: What is the mythological background of the Dorian invasion, and how did it impact the Peloponnese?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-mythological-background-of-the-dorian-invasion-and-how-did-it-impact-the-peloponnese
-related_article3:
-    id: 163600
-    title: What role did early Greek poetry play in shaping Greek culture, and which poets are notable for their historical accounts of Sparta?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-early-greek-poetry-play-in-shaping-greek-culture-and-which-poets-are-notable-for-their-historical-accounts-of-sparta
-related_article4:
-    id: 163589
-    title: How did non-Spartan authors contribute to the skewed perception of Sparta?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-nonspartan-authors-contribute-to-the-skewed-perception-of-sparta
-related_article5:
     id: 163599
-    title: How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
+    title: >-
+        How did the Helots contribute to the Spartan economy, and what were the social dynamics between them and the Spartans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-the-helots-contribute-to-the-spartan-economy-and-what-were-the-social-dynamics-between-them-and-the-spartans
+related_article3:
+    id: 163604
+    title: >-
+        How did the agricultural basis of the Spartan economy rely on the Helots?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-agricultural-basis-of-the-spartan-economy-rely-on-the-helots
+related_article4:
+    id: 163586
+    title: >-
+        What are some challenges in pronouncing Greek terms when using the Latin alphabet?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-pronouncing-greek-terms-when-using-the-latin-alphabet
+related_article5:
+    id: 163590
+    title: >-
+        What regions did ancient Sparta control, and why was it considered the largest Greek city-state?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-regions-did-ancient-sparta-control-and-why-was-it-considered-the-largest-greek-citystate
 ---
 
 &nbsp;

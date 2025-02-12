@@ -2,8 +2,10 @@
 _schema: default
 id: 162606
 date: 2025-01-25
-title: How does reflection affect the orientation of a geometric figure?
-article_title: How does reflection affect the orientation of a geometric figure?
+title: >-
+    How does reflection affect the orientation of a geometric figure?
+article_title: >-
+    How does reflection affect the orientation of a geometric figure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-reflection-affect-the-orientation-of-a-geometric-figure.md
 url: /learn/mathematics/questions/how-does-reflection-affect-the-orientation-of-a-geometric-figure
 score: -1.0
 related_article1:
-    id: 162497
-    title: What is the impact of vertex transformations on the orientation of parallelograms?
+    id: 162238
+    title: >-
+        How do coordinates change when a point is rotated in the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-impact-of-vertex-transformations-on-the-orientation-of-parallelograms
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 related_article2:
     id: 162598
-    title: What is the angle of rotation, and how does it affect the rotation of a figure?
+    title: >-
+        What is the angle of rotation, and how does it affect the rotation of a figure?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-the-angle-of-rotation-and-how-does-it-affect-the-rotation-of-a-figure
 related_article3:
-    id: 162604
-    title: What happens to a line when it is rotated around a point?
+    id: 162245
+    title: >-
+        How are the vertices of a triangle transformed during a geometric transformation?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-happens-to-a-line-when-it-is-rotated-around-a-point
+    url: /learn/mathematics/questions/how-are-the-vertices-of-a-triangle-transformed-during-a-geometric-transformation
 related_article4:
-    id: 162486
-    title: How do clockwise and counterclockwise rotations differ in terms of direction?
+    id: 162238
+    title: >-
+        How do coordinates change when a point is rotated in the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-clockwise-and-counterclockwise-rotations-differ-in-terms-of-direction
+    url: /learn/mathematics/questions/how-do-coordinates-change-when-a-point-is-rotated-in-the-coordinate-plane
 related_article5:
-    id: 162240
-    title: How is the length of a line segment affected by rotation?
+    id: 162605
+    title: >-
+        What is a mirror image in the context of reflection?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-the-length-of-a-line-segment-affected-by-rotation
+    url: /learn/mathematics/questions/what-is-a-mirror-image-in-the-context-of-reflection
 ---
 
 &nbsp;

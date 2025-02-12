@@ -2,8 +2,10 @@
 _schema: default
 id: 160987
 date: 2025-01-24
-title: What are the principles of usability in user interface design?
-article_title: What are the principles of usability in user interface design?
+title: >-
+    What are the principles of usability in user interface design?
+article_title: >-
+    What are the principles of usability in user interface design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-principles-of-usability-in-user-interface-design.md
 url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
 score: -1.0
 related_article1:
-    id: 160697
-    title: What is the role of representation in computational problem solving?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-representation-in-computational-problem-solving
-related_article2:
-    id: 160905
-    title: What are the key differences between procedural and object-oriented programming paradigms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
-related_article3:
-    id: 161045
-    title: How is cryptography used to ensure information security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
-related_article4:
-    id: 160722
-    title: What is the difference between discrete event simulation and continuous simulation?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
-related_article5:
     id: 160727
-    title: What are the principles of usability in user interface design?
+    title: >-
+        What are the principles of usability in user interface design?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+related_article2:
+    id: 160700
+    title: >-
+        How does abstraction help in simplifying complex computing problems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-abstraction-help-in-simplifying-complex-computing-problems
+related_article3:
+    id: 161052
+    title: >-
+        How do heuristic algorithms differ from Euclid’s algorithm?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
+related_article4:
+    id: 160906
+    title: >-
+        What is the role of process management in operating systems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-role-of-process-management-in-operating-systems
+related_article5:
+    id: 160911
+    title: >-
+        What is the significance of heuristic algorithms in solving complex problems?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
 ---
 
 &nbsp;

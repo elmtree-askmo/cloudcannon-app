@@ -2,8 +2,10 @@
 _schema: default
 id: 165722
 date: 2025-01-29
-title: What are the main components of an IPv4 address structure?
-article_title: What are the main components of an IPv4 address structure?
+title: >-
+    What are the main components of an IPv4 address structure?
+article_title: >-
+    What are the main components of an IPv4 address structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-main-components-of-an-ipv4-address-structure.md
 url: /learn/computer-science/questions/what-are-the-main-components-of-an-ipv4-address-structure
 score: -1.0
 related_article1:
+    id: 165737
+    title: >-
+        How does slash 16 subnetting differ from slash 8 subnetting in terms of subnet creation?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-slash-16-subnetting-differ-from-slash-8-subnetting-in-terms-of-subnet-creation
+related_article2:
+    id: 165730
+    title: >-
+        How does prefix length relate to subnet masks and impact the number of available hosts?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
+related_article3:
+    id: 165731
+    title: >-
+        What is the significance of using private IPv4 address space within intranets?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
+related_article4:
     id: 165729
-    title: What are the differences between common subnet masks such as /8, /16, and /24?
+    title: >-
+        What are the differences between common subnet masks such as /8, /16, and /24?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-differences-between-common-subnet-masks-such-as-8-16-and-24
-related_article2:
-    id: 165732
-    title: What are the configuration requirements for using public IPv4 address space in a DMZ?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-configuration-requirements-for-using-public-ipv4-address-space-in-a-dmz
-related_article3:
-    id: 165726
-    title: What is a broadcast domain and how do routers affect them?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-routers-affect-them
-related_article4:
-    id: 165734
-    title: What role do security policies play in managing network traffic between subnets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
 related_article5:
     id: 165735
-    title: How do you determine the number of hosts required per subnet and allocate addresses efficiently?
+    title: >-
+        How do you determine the number of hosts required per subnet and allocate addresses efficiently?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-you-determine-the-number-of-hosts-required-per-subnet-and-allocate-addresses-efficiently
 ---

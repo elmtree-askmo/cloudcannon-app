@@ -2,8 +2,10 @@
 _schema: default
 id: 166698
 date: 2025-01-31
-title: How is the conservation of energy principle applied in rigid body dynamics?
-article_title: How is the conservation of energy principle applied in rigid body dynamics?
+title: >-
+    How is the conservation of energy principle applied in rigid body dynamics?
+article_title: >-
+    How is the conservation of energy principle applied in rigid body dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dyn
 url: /learn/education-studies/questions/how-is-the-conservation-of-energy-principle-applied-in-rigid-body-dynamics
 score: -1.0
 related_article1:
-    id: 166707
-    title: What factors affect energy transfer and efficiency in engineering systems?
+    id: 166713
+    title: >-
+        How do consulting companies impact the engineering industry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-affect-energy-transfer-and-efficiency-in-engineering-systems
+    url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
 related_article2:
-    id: 166721
-    title: How do engineering conferences and workshops contribute to professional growth?
+    id: 166694
+    title: >-
+        What role do unit vectors play in the vector cross product?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+    url: /learn/education-studies/questions/what-role-do-unit-vectors-play-in-the-vector-cross-product
 related_article3:
-    id: 166716
-    title: What are some current trends in artificial intelligence research?
+    id: 166709
+    title: >-
+        How can engineering certifications impact a professional's career?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-current-trends-in-artificial-intelligence-research
+    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
 related_article4:
-    id: 166692
-    title: What is the vector cross product and how is it calculated?
+    id: 166697
+    title: >-
+        What assumptions are made in rigid body dynamics regarding stress and deformation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-vector-cross-product-and-how-is-it-calculated
+    url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
 related_article5:
-    id: 166700
-    title: What is the relationship between force and distance in the context of moment of force?
+    id: 166708
+    title: >-
+        What are the requirements for obtaining a certification for consulting in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-force-and-distance-in-the-context-of-moment-of-force
+    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
 ---
 
 &nbsp;

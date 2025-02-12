@@ -2,8 +2,10 @@
 _schema: default
 id: 163675
 date: 2025-01-27
-title: What is the difference between objective and subjective knowledge in epistemology?
-article_title: What is the difference between objective and subjective knowledge in epistemology?
+title: >-
+    What is the difference between objective and subjective knowledge in epistemology?
+article_title: >-
+    What is the difference between objective and subjective knowledge in epistemology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-objective-and-subjective-knowledge-in-
 url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 score: -1.0
 related_article1:
-    id: 163678
-    title: How does inductive reasoning play a role in qualitative research?
+    id: 163676
+    title: >-
+        How do ontology and epistemology influence research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
+    url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
 related_article2:
+    id: 163692
+    title: >-
+        How does objective knowledge contribute to quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
+related_article3:
+    id: 163679
+    title: >-
+        What are the main characteristics of quantitative research methodologies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article4:
+    id: 163680
+    title: >-
+        How is deductive reasoning used in quantitative research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
+related_article5:
     id: 163684
-    title: What are some common quantitative data collection methods?
+    title: >-
+        What are some common quantitative data collection methods?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
-related_article3:
-    id: 163689
-    title: What is the process of inductive reasoning, and how is it applied in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
-related_article4:
-    id: 163689
-    title: What is the process of inductive reasoning, and how is it applied in qualitative research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
-related_article5:
-    id: 163674
-    title: How does positivism differ from social constructivism in terms of ontology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-positivism-differ-from-social-constructivism-in-terms-of-ontology
 ---
 
 &nbsp;

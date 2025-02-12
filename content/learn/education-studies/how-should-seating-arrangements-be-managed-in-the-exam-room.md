@@ -2,8 +2,10 @@
 _schema: default
 id: 168230
 date: 2025-02-03
-title: How should seating arrangements be managed in the exam room?
-article_title: How should seating arrangements be managed in the exam room?
+title: >-
+    How should seating arrangements be managed in the exam room?
+article_title: >-
+    How should seating arrangements be managed in the exam room?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-seating-arrangements-be-managed-in-the-exam-room.md
 url: /learn/education-studies/questions/how-should-seating-arrangements-be-managed-in-the-exam-room
 score: -1.0
 related_article1:
-    id: 168226
-    title: How should students handle writing on exam sheets?
+    id: 168220
+    title: >-
+        How should time be managed effectively during an exam?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-should-students-handle-writing-on-exam-sheets
+    url: /learn/education-studies/questions/how-should-time-be-managed-effectively-during-an-exam
 related_article2:
-    id: 168217
-    title: What steps should be taken during the pre-exam setup to ensure a smooth start to the exam?
+    id: 168218
+    title: >-
+        How should electronics and personal items be managed before the exam begins?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-steps-should-be-taken-during-the-preexam-setup-to-ensure-a-smooth-start-to-the-exam
+    url: /learn/education-studies/questions/how-should-electronics-and-personal-items-be-managed-before-the-exam-begins
 related_article3:
+    id: 168228
+    title: >-
+        How should queries be addressed during the exam?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-queries-be-addressed-during-the-exam
+related_article4:
+    id: 168229
+    title: >-
+        What instructions should be given to students after they submit their exams?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-instructions-should-be-given-to-students-after-they-submit-their-exams
+related_article5:
     id: 168222
-    title: What are the guidelines for distributing and collecting response sheets?
+    title: >-
+        What are the guidelines for distributing and collecting response sheets?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-guidelines-for-distributing-and-collecting-response-sheets
-related_article4:
-    id: 168234
-    title: How should feedback be provided to students after assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-should-feedback-be-provided-to-students-after-assessments
-related_article5:
-    id: 168233
-    title: What criteria are used in the grading rubric for assessments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-are-used-in-the-grading-rubric-for-assessments
 ---
 
 &nbsp;

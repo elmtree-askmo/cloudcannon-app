@@ -2,8 +2,10 @@
 _schema: default
 id: 169829
 date: 2025-02-05
-title: Define a laço and explain how it differs from a malha in an electrical circuit.
-article_title: Define a laço and explain how it differs from a malha in an electrical circuit.
+title: >-
+    Define a laço and explain how it differs from a malha in an electrical circuit.
+article_title: >-
+    Define a laço and explain how it differs from a malha in an electrical circuit.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical
 url: /learn/engineering/questions/define-a-lao-and-explain-how-it-differs-from-a-malha-in-an-electrical-circuit
 score: -1.0
 related_article1:
-    id: 169841
-    title: What are the main components of a circuito elétrico?
+    id: 169826
+    title: >-
+        How can a bipolo elétrico be compared to a plumbing system?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-main-components-of-a-circuito-eltrico
+    url: /learn/engineering/questions/how-can-a-bipolo-eltrico-be-compared-to-a-plumbing-system
 related_article2:
-    id: 169839
-    title: Explain the relationship between tensão, corrente, and resistência as described by Ohm's Law.
+    id: 169838
+    title: >-
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
     subject: Engineering
-    url: /learn/engineering/questions/explain-the-relationship-between-tenso-corrente-and-resistncia-as-described-by-ohms-law
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 related_article3:
-    id: 169831
-    title: What is tensão elétrica and how is it measured?
+    id: 169834
+    title: >-
+        How can corrente elétrica be compared to a hydraulic system?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-tenso-eltrica-and-how-is-it-measured
+    url: /learn/engineering/questions/how-can-corrente-eltrica-be-compared-to-a-hydraulic-system
 related_article4:
-    id: 169842
-    title: How do the laws of Kirchhoff apply to the behavior of corrente in a circuit?
+    id: 169836
+    title: >-
+        Describe the analogy between potência elétrica and an electric shower.
     subject: Engineering
-    url: /learn/engineering/questions/how-do-the-laws-of-kirchhoff-apply-to-the-behavior-of-corrente-in-a-circuit
+    url: /learn/engineering/questions/describe-the-analogy-between-potncia-eltrica-and-an-electric-shower
 related_article5:
-    id: 169830
-    title: How does a malha differ from a laço in terms of internal paths?
+    id: 169838
+    title: >-
+        What does Kirchhoff's Voltage Law state about the sum of voltages in a closed loop?
     subject: Engineering
-    url: /learn/engineering/questions/how-does-a-malha-differ-from-a-lao-in-terms-of-internal-paths
+    url: /learn/engineering/questions/what-does-kirchhoffs-voltage-law-state-about-the-sum-of-voltages-in-a-closed-loop
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166418
 date: 2025-01-30
-title: How does phylogeny contribute to our understanding of evolutionary history?
-article_title: How does phylogeny contribute to our understanding of evolutionary history?
+title: >-
+    How does phylogeny contribute to our understanding of evolutionary history?
+article_title: >-
+    How does phylogeny contribute to our understanding of evolutionary history?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-hi
 url: /learn/psychology/questions/how-does-phylogeny-contribute-to-our-understanding-of-evolutionary-history
 score: -1.0
 related_article1:
-    id: 166405
-    title: Discuss the mechanisms of cultural transmission and their impact on social structures.
+    id: 166402
+    title: >-
+        What is cultural transmission and how does it affect animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-mechanisms-of-cultural-transmission-and-their-impact-on-social-structures
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
 related_article2:
-    id: 166420
-    title: Discuss the role of development in shaping animal behavior.
-    subject: Psychology
-    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
-related_article3:
-    id: 166409
-    title: How do phenotype and genotype interact to influence an organism's fitness?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-phenotype-and-genotype-interact-to-influence-an-organisms-fitness
-related_article4:
     id: 166397
-    title: What are the key components of animal behavior as defined in the course?
+    title: >-
+        What are the key components of animal behavior as defined in the course?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-components-of-animal-behavior-as-defined-in-the-course
-related_article5:
-    id: 166407
-    title: Summarize Darwin's four postulates and their relevance to natural selection.
+related_article3:
+    id: 166402
+    title: >-
+        What is cultural transmission and how does it affect animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/summarize-darwins-four-postulates-and-their-relevance-to-natural-selection
+    url: /learn/psychology/questions/what-is-cultural-transmission-and-how-does-it-affect-animal-behavior
+related_article4:
+    id: 166416
+    title: >-
+        Explain the differences between directional, stabilizing, and disruptive selection.
+    subject: Psychology
+    url: /learn/psychology/questions/explain-the-differences-between-directional-stabilizing-and-disruptive-selection
+related_article5:
+    id: 166420
+    title: >-
+        Discuss the role of development in shaping animal behavior.
+    subject: Psychology
+    url: /learn/psychology/questions/discuss-the-role-of-development-in-shaping-animal-behavior
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166082
 date: 2025-01-29
-title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
-article_title: How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+title: >-
+    How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
+article_title: >-
+    How did Gaulish social customs reflect their cultural values, particularly in boasting and status?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-did-gaulish-social-customs-reflect-their-cultural-values-particul
 url: /learn/history-of-the-world/questions/how-did-gaulish-social-customs-reflect-their-cultural-values-particularly-in-boasting-and-status
 score: 9.2
 related_article1:
-    id: 166077
-    title: What strategies did Gauls employ during the initial engagement in battle using chariots?
+    id: 166087
+    title: >-
+        What methods of divination were used by the Gauls, and how did they influence decision-making?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-strategies-did-gauls-employ-during-the-initial-engagement-in-battle-using-chariots
+    url: /learn/history-of-the-world/questions/what-methods-of-divination-were-used-by-the-gauls-and-how-did-they-influence-decisionmaking
 related_article2:
-    id: 166083
-    title: What role did artistic expression play in Gaulish culture, especially in clothing and armor design?
+    id: 166086
+    title: >-
+        How did Druids influence Gaulish society both in peace and war?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-artistic-expression-play-in-gaulish-culture-especially-in-clothing-and-armor-design
+    url: /learn/history-of-the-world/questions/how-did-druids-influence-gaulish-society-both-in-peace-and-war
 related_article3:
-    id: 166080
-    title: What were the typical components of everyday Gaulish clothing?
+    id: 166079
+    title: >-
+        How did Gauls use shields in battle, and what were the variations in their armor?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-typical-components-of-everyday-gaulish-clothing
+    url: /learn/history-of-the-world/questions/how-did-gauls-use-shields-in-battle-and-what-were-the-variations-in-their-armor
 related_article4:
-    id: 166076
-    title: Describe the design and function of Gaulish chariots.
+    id: 166075
+    title: >-
+        How did Gauls utilize psychological warfare in combat?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-design-and-function-of-gaulish-chariots
-related_article5:
-    id: 166081
-    title: Explain the significance of helmets and decorations in Gaulish battle attire.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/explain-the-significance-of-helmets-and-decorations-in-gaulish-battle-attire
+    url: /learn/history-of-the-world/questions/how-did-gauls-utilize-psychological-warfare-in-combat
 ---
 
 &nbsp;

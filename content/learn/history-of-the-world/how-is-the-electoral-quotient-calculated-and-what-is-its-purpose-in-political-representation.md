@@ -2,8 +2,10 @@
 _schema: default
 id: 169244
 date: 2025-02-04
-title: How is the electoral quotient calculated, and what is its purpose in political representation?
-article_title: How is the electoral quotient calculated, and what is its purpose in political representation?
+title: >-
+    How is the electoral quotient calculated, and what is its purpose in political representation?
+article_title: >-
+    How is the electoral quotient calculated, and what is its purpose in political representation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-electoral-quotient-calculated-and-what-is-its-purpose-in-p
 url: /learn/history-of-the-world/questions/how-is-the-electoral-quotient-calculated-and-what-is-its-purpose-in-political-representation
 score: 8.5
 related_article1:
-    id: 169233
-    title: What role does the Electoral Boundaries Commission play in the creation of electoral districts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-the-electoral-boundaries-commission-play-in-the-creation-of-electoral-districts
-related_article2:
     id: 169237
-    title: What are the potential effects of proportional representation on political stability?
+    title: >-
+        What are the potential effects of proportional representation on political stability?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-potential-effects-of-proportional-representation-on-political-stability
-related_article3:
-    id: 169245
-    title: What is the significance of vote distribution in determining political efficiency and electoral outcomes?
+related_article2:
+    id: 169239
+    title: >-
+        What are some key factors that influence voter turnout trends historically?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-vote-distribution-in-determining-political-efficiency-and-electoral-outcomes
-related_article4:
+    url: /learn/history-of-the-world/questions/what-are-some-key-factors-that-influence-voter-turnout-trends-historically
+related_article3:
     id: 169235
-    title: What are the implications of lowering the voting age on voter turnout?
+    title: >-
+        What are the implications of lowering the voting age on voter turnout?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-implications-of-lowering-the-voting-age-on-voter-turnout
-related_article5:
-    id: 169247
-    title: What are some recent trends in the Canadian political landscape that could influence future election projections?
+related_article4:
+    id: 169238
+    title: >-
+        What distinguishes the major political parties in Canada, such as the Liberal and Conservative parties, from regional parties like the Bloc Québécois?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-recent-trends-in-the-canadian-political-landscape-that-could-influence-future-election-projections
+    url: /learn/history-of-the-world/questions/what-distinguishes-the-major-political-parties-in-canada-such-as-the-liberal-and-conservative-parties-from-regional-parties-like-the-bloc-qubcois
+related_article5:
+    id: 169246
+    title: >-
+        How has the franchise history shaped the current Canadian political landscape?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-has-the-franchise-history-shaped-the-current-canadian-political-landscape
 ---
 
 &nbsp;

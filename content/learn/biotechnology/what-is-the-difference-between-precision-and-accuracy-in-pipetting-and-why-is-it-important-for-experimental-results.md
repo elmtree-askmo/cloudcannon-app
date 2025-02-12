@@ -2,8 +2,10 @@
 _schema: default
 id: 165364
 date: 2025-01-29
-title: What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
-article_title: What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+title: >-
+    What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
+article_title: >-
+    What is the difference between precision and accuracy in pipetting, and why is it important for experimental results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-the-difference-between-precision-and-accuracy-in-pipetting-an
 url: /learn/biotechnology/questions/what-is-the-difference-between-precision-and-accuracy-in-pipetting-and-why-is-it-important-for-experimental-results
 score: -1.0
 related_article1:
-    id: 165376
-    title: Describe the proper technique for attaching and ejecting pipet tips.
+    id: 165377
+    title: >-
+        What are some common solutions and reagents handled in biology labs, and what techniques are used to avoid contamination?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
+    url: /learn/biotechnology/questions/what-are-some-common-solutions-and-reagents-handled-in-biology-labs-and-what-techniques-are-used-to-avoid-contamination
 related_article2:
+    id: 165369
+    title: >-
+        How does selecting the correct pipet affect volume measurement accuracy?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-selecting-the-correct-pipet-affect-volume-measurement-accuracy
+related_article3:
+    id: 165374
+    title: >-
+        What are the benefits of using color-coded pipet tips?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
+related_article4:
     id: 165379
-    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
+    title: >-
+        Provide a step-by-step guide for setting up and performing a micro pipetting action.
     subject: Biotechnology
     url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
-related_article3:
-    id: 165383
-    title: What steps should be taken to identify and repair pipet malfunctions?
+related_article5:
+    id: 165373
+    title: >-
+        Outline the steps involved in the pipet calibration process.
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-steps-should-be-taken-to-identify-and-repair-pipet-malfunctions
-related_article4:
-    id: 165380
-    title: What are some common issues encountered during micro pipetting, and how can they be troubleshooted?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-some-common-issues-encountered-during-micro-pipetting-and-how-can-they-be-troubleshooted
+    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170938
 date: 2025-02-07
-title: What is the role of oxygen as an electron acceptor in respiration?
-article_title: What is the role of oxygen as an electron acceptor in respiration?
+title: >-
+    What is the role of oxygen as an electron acceptor in respiration?
+article_title: >-
+    What is the role of oxygen as an electron acceptor in respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration.md
 url: /learn/biology/questions/what-is-the-role-of-oxygen-as-an-electron-acceptor-in-respiration
 score: -1.0
 related_article1:
-    id: 170926
-    title: What are the main types of organisms capable of photosynthesis?
+    id: 170929
+    title: >-
+        Explain the role of oxygen in the respiration process.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-types-of-organisms-capable-of-photosynthesis
+    url: /learn/biology/questions/explain-the-role-of-oxygen-in-the-respiration-process
 related_article2:
-    id: 170931
-    title: What are the main uses of energy in cellular processes?
+    id: 170936
+    title: >-
+        How are carbon dioxide and water produced as byproducts of respiration?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-uses-of-energy-in-cellular-processes
+    url: /learn/biology/questions/how-are-carbon-dioxide-and-water-produced-as-byproducts-of-respiration
 related_article3:
-    id: 170933
-    title: What factors can affect an organism's metabolic rate?
+    id: 170937
+    title: >-
+        Explain the significance of the carbon cycle in ecosystems.
     subject: Biology
-    url: /learn/biology/questions/what-factors-can-affect-an-organisms-metabolic-rate
+    url: /learn/biology/questions/explain-the-significance-of-the-carbon-cycle-in-ecosystems
 related_article4:
-    id: 170935
-    title: What is the role of the Krebs cycle in sugar breakdown?
+    id: 170939
+    title: >-
+        How do organisms adapt to varying levels of oxygen availability?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-krebs-cycle-in-sugar-breakdown
+    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
 related_article5:
-    id: 170933
-    title: What factors can affect an organism's metabolic rate?
+    id: 170939
+    title: >-
+        How do organisms adapt to varying levels of oxygen availability?
     subject: Biology
-    url: /learn/biology/questions/what-factors-can-affect-an-organisms-metabolic-rate
+    url: /learn/biology/questions/how-do-organisms-adapt-to-varying-levels-of-oxygen-availability
 ---
 
 &nbsp;

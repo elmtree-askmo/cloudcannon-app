@@ -2,8 +2,10 @@
 _schema: default
 id: 167096
 date: 2025-01-31
-title: How are glycosidic bonds formed in carbohydrates?
-article_title: How are glycosidic bonds formed in carbohydrates?
+title: >-
+    How are glycosidic bonds formed in carbohydrates?
+article_title: >-
+    How are glycosidic bonds formed in carbohydrates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-are-glycosidic-bonds-formed-in-carbohydrates.md
 url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
 score: -1.0
 related_article1:
-    id: 167091
-    title: What are the key characteristics of organic molecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-characteristics-of-organic-molecules
-related_article2:
-    id: 167105
-    title: How are amino acids classified based on polarity and charge?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
-related_article3:
     id: 167097
-    title: What are the four levels of protein structure and how do they differ?
+    title: >-
+        What are the four levels of protein structure and how do they differ?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
+related_article2:
+    id: 167111
+    title: >-
+        What types of molecules provide structural support in cells?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
+related_article3:
+    id: 167101
+    title: >-
+        What are the common examples of disaccharides and their functions?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-common-examples-of-disaccharides-and-their-functions
 related_article4:
-    id: 167099
-    title: What roles do lipids play in energy storage and cell membrane structure?
+    id: 167111
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
+    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 related_article5:
-    id: 167092
-    title: Why is carbon essential in the formation of organic molecules?
+    id: 167110
+    title: >-
+        Why is energy storage crucial for cellular metabolism and homeostasis?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
+    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
 ---
 
 &nbsp;

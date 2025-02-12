@@ -2,8 +2,10 @@
 _schema: default
 id: 168038
 date: 2025-02-02
-title: How does procedural memory differ from classical conditioning in non-declarative memory?
-article_title: How does procedural memory differ from classical conditioning in non-declarative memory?
+title: >-
+    How does procedural memory differ from classical conditioning in non-declarative memory?
+article_title: >-
+    How does procedural memory differ from classical conditioning in non-declarative memory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-procedural-memory-differ-from-classical-conditioning-in-nond
 url: /learn/psychology/questions/how-does-procedural-memory-differ-from-classical-conditioning-in-nondeclarative-memory
 score: -1.0
 related_article1:
+    id: 168035
+    title: >-
+        What are the main age-related changes observed in working memory?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-main-agerelated-changes-observed-in-working-memory
+related_article2:
     id: 168034
-    title: How can encoding strategies benefit older adults in maintaining memory function?
+    title: >-
+        How can encoding strategies benefit older adults in maintaining memory function?
     subject: Psychology
     url: /learn/psychology/questions/how-can-encoding-strategies-benefit-older-adults-in-maintaining-memory-function
-related_article2:
-    id: 168046
-    title: How does automatic retrieval in procedural memory differ from declarative memory retrieval?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-automatic-retrieval-in-procedural-memory-differ-from-declarative-memory-retrieval
 related_article3:
+    id: 168040
+    title: >-
+        What research findings highlight the age-related decline in memory stability?
+    subject: Psychology
+    url: /learn/psychology/questions/what-research-findings-highlight-the-agerelated-decline-in-memory-stability
+related_article4:
+    id: 168047
+    title: >-
+        What strategies can improve memory retrieval processes in older adults?
+    subject: Psychology
+    url: /learn/psychology/questions/what-strategies-can-improve-memory-retrieval-processes-in-older-adults
+related_article5:
     id: 168048
-    title: How does semantic memory stability compare to episodic memory across the lifespan?
+    title: >-
+        How does semantic memory stability compare to episodic memory across the lifespan?
     subject: Psychology
     url: /learn/psychology/questions/how-does-semantic-memory-stability-compare-to-episodic-memory-across-the-lifespan
-related_article4:
-    id: 168049
-    title: What are the characteristics of implicit memory that contribute to its automaticity?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-implicit-memory-that-contribute-to-its-automaticity
-related_article5:
-    id: 168041
-    title: How does emotional intensity contribute to the vividness of self-defining memories?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-emotional-intensity-contribute-to-the-vividness-of-selfdefining-memories
 ---
 
 &nbsp;

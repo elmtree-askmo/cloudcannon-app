@@ -2,8 +2,10 @@
 _schema: default
 id: 165135
 date: 2025-01-28
-title: What is the purpose of using control groups in experimental research?
-article_title: What is the purpose of using control groups in experimental research?
+title: >-
+    What is the purpose of using control groups in experimental research?
+article_title: >-
+    What is the purpose of using control groups in experimental research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-using-control-groups-in-experimental-research.
 url: /learn/education-studies/questions/what-is-the-purpose-of-using-control-groups-in-experimental-research
 score: -1.0
 related_article1:
+    id: 165129
+    title: >-
+        How does block randomization differ from simple randomization, and what are its applications?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-block-randomization-differ-from-simple-randomization-and-what-are-its-applications
+related_article2:
+    id: 165143
+    title: >-
+        What are the positive effects of video games on stress?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-positive-effects-of-video-games-on-stress
+related_article3:
+    id: 165146
+    title: >-
+        What is the distinction between causation and correlation in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-distinction-between-causation-and-correlation-in-research
+related_article4:
     id: 165132
-    title: How can external validity be threatened in research?
+    title: >-
+        How can external validity be threatened in research?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-external-validity-be-threatened-in-research
-related_article2:
-    id: 165125
-    title: How can task management and progress tracking be effectively executed in project management?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-task-management-and-progress-tracking-be-effectively-executed-in-project-management
-related_article3:
-    id: 165130
-    title: What is the purpose of a Latin square design in research?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-purpose-of-a-latin-square-design-in-research
-related_article4:
-    id: 165151
-    title: How do regression analysis and ANOVA differ in quantitative data analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
 related_article5:
-    id: 165151
-    title: How do regression analysis and ANOVA differ in quantitative data analysis?
+    id: 165139
+    title: >-
+        What is the difference between descriptive and inferential statistics in data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-regression-analysis-and-anova-differ-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-is-the-difference-between-descriptive-and-inferential-statistics-in-data-analysis
 ---
 
 &nbsp;

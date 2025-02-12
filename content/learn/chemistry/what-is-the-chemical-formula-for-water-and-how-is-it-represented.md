@@ -2,8 +2,10 @@
 _schema: default
 id: 167129
 date: 2025-01-31
-title: What is the chemical formula for water and how is it represented?
-article_title: What is the chemical formula for water and how is it represented?
+title: >-
+    What is the chemical formula for water and how is it represented?
+article_title: >-
+    What is the chemical formula for water and how is it represented?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-chemical-formula-for-water-and-how-is-it-represented.md
 url: /learn/chemistry/questions/what-is-the-chemical-formula-for-water-and-how-is-it-represented
 score: -1.0
 related_article1:
-    id: 167132
-    title: How does the density of water differ between its liquid and solid states?
+    id: 167136
+    title: >-
+        How does adhesion in water facilitate interaction with surfaces?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-density-of-water-differ-between-its-liquid-and-solid-states
+    url: /learn/chemistry/questions/how-does-adhesion-in-water-facilitate-interaction-with-surfaces
 related_article2:
-    id: 167130
-    title: Describe the atomic arrangement and type of bonds present in a water molecule.
+    id: 167140
+    title: >-
+        How do hydrogen bonds affect the cohesion and adhesion properties of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-atomic-arrangement-and-type-of-bonds-present-in-a-water-molecule
+    url: /learn/chemistry/questions/how-do-hydrogen-bonds-affect-the-cohesion-and-adhesion-properties-of-water
 related_article3:
-    id: 167134
-    title: Explain the significance of positive and negative charges in water molecules.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-significance-of-positive-and-negative-charges-in-water-molecules
-related_article4:
     id: 167137
-    title: Why is water considered a universal solvent and how does it interact with different molecules?
+    title: >-
+        Why is water considered a universal solvent and how does it interact with different molecules?
     subject: Chemistry
     url: /learn/chemistry/questions/why-is-water-considered-a-universal-solvent-and-how-does-it-interact-with-different-molecules
-related_article5:
-    id: 167133
-    title: What defines a polar molecule and how does this relate to the structure of H2O?
+related_article4:
+    id: 167139
+    title: >-
+        What role do hydrogen bonds play in the molecular structure of water?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-defines-a-polar-molecule-and-how-does-this-relate-to-the-structure-of-h2o
+    url: /learn/chemistry/questions/what-role-do-hydrogen-bonds-play-in-the-molecular-structure-of-water
+related_article5:
+    id: 167135
+    title: >-
+        What is cohesion in water and how does it contribute to the formation of raindrops?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-cohesion-in-water-and-how-does-it-contribute-to-the-formation-of-raindrops
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170302
 date: 2025-02-06
-title: What is the impact of fossil fuel emissions on climate change?
-article_title: What is the impact of fossil fuel emissions on climate change?
+title: >-
+    What is the impact of fossil fuel emissions on climate change?
+article_title: >-
+    What is the impact of fossil fuel emissions on climate change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-impact-of-fossil-fuel-emissions-on-climate-change.md
 url: /learn/biology/questions/what-is-the-impact-of-fossil-fuel-emissions-on-climate-change
 score: -1.0
 related_article1:
-    id: 170304
-    title: Why are carbon cycle models important for understanding and predicting environmental changes?
+    id: 170301
+    title: >-
+        How do producers and consumers contribute to energy flow in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+    url: /learn/biology/questions/how-do-producers-and-consumers-contribute-to-energy-flow-in-ecosystems
 related_article2:
-    id: 170308
-    title: What are some conservation efforts aimed at mitigating climate change?
+    id: 170296
+    title: >-
+        What are the three main stages of cellular respiration?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-conservation-efforts-aimed-at-mitigating-climate-change
+    url: /learn/biology/questions/what-are-the-three-main-stages-of-cellular-respiration
 related_article3:
-    id: 170298
-    title: What are the two main stages of photosynthesis, and where do they occur?
+    id: 170306
+    title: >-
+        How are the carbon and nitrogen cycles interconnected in biogeochemical cycles?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-two-main-stages-of-photosynthesis-and-where-do-they-occur
+    url: /learn/biology/questions/how-are-the-carbon-and-nitrogen-cycles-interconnected-in-biogeochemical-cycles
 related_article4:
-    id: 170304
-    title: Why are carbon cycle models important for understanding and predicting environmental changes?
+    id: 170295
+    title: >-
+        How do plants contribute to carbon cycling in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/why-are-carbon-cycle-models-important-for-understanding-and-predicting-environmental-changes
+    url: /learn/biology/questions/how-do-plants-contribute-to-carbon-cycling-in-ecosystems
 related_article5:
-    id: 170307
-    title: What is the greenhouse effect, and how does it relate to global warming?
+    id: 170300
+    title: >-
+        What role do forests and oceans play as carbon sinks in the global carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-greenhouse-effect-and-how-does-it-relate-to-global-warming
+    url: /learn/biology/questions/what-role-do-forests-and-oceans-play-as-carbon-sinks-in-the-global-carbon-cycle
 ---
 
 &nbsp;

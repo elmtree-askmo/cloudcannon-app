@@ -2,8 +2,10 @@
 _schema: default
 id: 170940
 date: 2025-02-07
-title: What are the key structural differences between bacterial and eukaryotic cells?
-article_title: What are the key structural differences between bacterial and eukaryotic cells?
+title: >-
+    What are the key structural differences between bacterial and eukaryotic cells?
+article_title: >-
+    What are the key structural differences between bacterial and eukaryotic cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-structural-differences-between-bacterial-and-eukaryo
 url: /learn/biology/questions/what-are-the-key-structural-differences-between-bacterial-and-eukaryotic-cells
 score: -1.0
 related_article1:
-    id: 170953
-    title: What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+    id: 170949
+    title: >-
+        What were some key contributions of early scientists to the development of microscopy?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
+    url: /learn/biology/questions/what-were-some-key-contributions-of-early-scientists-to-the-development-of-microscopy
 related_article2:
-    id: 170943
-    title: How does light microscopy differ from electron microscopy in terms of resolution limits?
-    subject: Biology
-    url: /learn/biology/questions/how-does-light-microscopy-differ-from-electron-microscopy-in-terms-of-resolution-limits
-related_article3:
-    id: 170953
-    title: What are some techniques used to overcome the physical constraints of microscopic resolution limits?
-    subject: Biology
-    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
-related_article4:
     id: 170948
-    title: How does confocal microscopy achieve optical sectioning?
+    title: >-
+        How does confocal microscopy achieve optical sectioning?
     subject: Biology
     url: /learn/biology/questions/how-does-confocal-microscopy-achieve-optical-sectioning
-related_article5:
-    id: 170941
-    title: How do the sizes and shapes of bacterial and eukaryotic cells typically differ?
+related_article3:
+    id: 170942
+    title: >-
+        What is the typical size range of cells that can be observed with the naked eye?
     subject: Biology
-    url: /learn/biology/questions/how-do-the-sizes-and-shapes-of-bacterial-and-eukaryotic-cells-typically-differ
+    url: /learn/biology/questions/what-is-the-typical-size-range-of-cells-that-can-be-observed-with-the-naked-eye
+related_article4:
+    id: 170952
+    title: >-
+        How is GFP used to study protein localization in cells?
+    subject: Biology
+    url: /learn/biology/questions/how-is-gfp-used-to-study-protein-localization-in-cells
+related_article5:
+    id: 170953
+    title: >-
+        What are some techniques used to overcome the physical constraints of microscopic resolution limits?
+    subject: Biology
+    url: /learn/biology/questions/what-are-some-techniques-used-to-overcome-the-physical-constraints-of-microscopic-resolution-limits
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165437
 date: 2025-01-29
-title: What role do affirmations play in stress reduction and focus during studying?
-article_title: What role do affirmations play in stress reduction and focus during studying?
+title: >-
+    What role do affirmations play in stress reduction and focus during studying?
+article_title: >-
+    What role do affirmations play in stress reduction and focus during studying?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-affirmations-play-in-stress-reduction-and-focus-during-s
 url: /learn/education-studies/questions/what-role-do-affirmations-play-in-stress-reduction-and-focus-during-studying
 score: -1.0
 related_article1:
-    id: 165436
-    title: How does a positive mindset influence academic performance according to Harvard studies?
+    id: 165440
+    title: >-
+        How can reverse learning enhance comprehension and retention of information?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-a-positive-mindset-influence-academic-performance-according-to-harvard-studies
+    url: /learn/education-studies/questions/how-can-reverse-learning-enhance-comprehension-and-retention-of-information
 related_article2:
-    id: 165438
-    title: How does the Pomodoro Technique help in time management and reducing procrastination?
+    id: 165433
+    title: >-
+        What are the effects of sugar on cognitive function, and what are some brain-boosting alternatives?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-pomodoro-technique-help-in-time-management-and-reducing-procrastination
+    url: /learn/education-studies/questions/what-are-the-effects-of-sugar-on-cognitive-function-and-what-are-some-brainboosting-alternatives
 related_article3:
+    id: 165433
+    title: >-
+        What are the effects of sugar on cognitive function, and what are some brain-boosting alternatives?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-effects-of-sugar-on-cognitive-function-and-what-are-some-brainboosting-alternatives
+related_article4:
     id: 165442
-    title: How do AI tools function as personal tutors and enhance the learning process?
+    title: >-
+        How do AI tools function as personal tutors and enhance the learning process?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-ai-tools-function-as-personal-tutors-and-enhance-the-learning-process
-related_article4:
-    id: 165443
-    title: Why is nutrition important for brain health, and what are some alternatives to sugary snacks that benefit focus and energy?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-nutrition-important-for-brain-health-and-what-are-some-alternatives-to-sugary-snacks-that-benefit-focus-and-energy
 related_article5:
-    id: 165434
-    title: How does excessive sugar consumption impair memory retention, and what alternatives can improve it?
+    id: 165436
+    title: >-
+        How does a positive mindset influence academic performance according to Harvard studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-excessive-sugar-consumption-impair-memory-retention-and-what-alternatives-can-improve-it
+    url: /learn/education-studies/questions/how-does-a-positive-mindset-influence-academic-performance-according-to-harvard-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159899
 date: 2025-01-23
-title: How did the geographic locations of Celtic tribes influence their cultural development?
-article_title: How did the geographic locations of Celtic tribes influence their cultural development?
+title: >-
+    How did the geographic locations of Celtic tribes influence their cultural development?
+article_title: >-
+    How did the geographic locations of Celtic tribes influence their cultural development?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-geographic-locations-of-celtic-tribes-influence-their-cul
 url: /learn/history-of-the-world/questions/how-did-the-geographic-locations-of-celtic-tribes-influence-their-cultural-development
 score: 9.0
 related_article1:
-    id: 159925
-    title: What were the geographic locations of major Celtic tribes and their natural resources?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-geographic-locations-of-major-celtic-tribes-and-their-natural-resources
-related_article2:
-    id: 160378
-    title: What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
+    id: 159876
+    title: >-
+        What contributions did Hecataeus of Miletus and Herodotus make to the early mentions of Celts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-contributions-did-hecataeus-of-miletus-and-herodotus-make-to-the-early-mentions-of-celts
-related_article3:
-    id: 160259
-    title: How did geography influence the cultural development and migration patterns of the Celts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-geography-influence-the-cultural-development-and-migration-patterns-of-the-celts
-related_article4:
+related_article2:
     id: 160261
-    title: How have the Celts contributed to European heritage and modern perceptions?
+    title: >-
+        How have the Celts contributed to European heritage and modern perceptions?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-have-the-celts-contributed-to-european-heritage-and-modern-perceptions
-related_article5:
-    id: 160178
-    title: What were the key trading centers in Celtic trade networks?
+related_article3:
+    id: 159908
+    title: >-
+        How did the Halstatt Culture transition into the La Tène Culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-key-trading-centers-in-celtic-trade-networks
+    url: /learn/history-of-the-world/questions/how-did-the-halstatt-culture-transition-into-the-la-tne-culture
+related_article4:
+    id: 159853
+    title: >-
+        What are the key linguistic influences of Proto-Indo-Europeans on modern European languages?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-linguistic-influences-of-protoindoeuropeans-on-modern-european-languages
+related_article5:
+    id: 159900
+    title: >-
+        What impact did natural resources and landscapes have on Celtic society?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-impact-did-natural-resources-and-landscapes-have-on-celtic-society
 ---
 
 &nbsp;

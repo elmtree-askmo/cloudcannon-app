@@ -2,8 +2,10 @@
 _schema: default
 id: 162880
 date: 2025-01-25
-title: What factors influence judicial decision-making in traffic cases?
-article_title: What factors influence judicial decision-making in traffic cases?
+title: >-
+    What factors influence judicial decision-making in traffic cases?
+article_title: >-
+    What factors influence judicial decision-making in traffic cases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-factors-influence-judicial-decisionmaking-in-traffic-cases.md
 url: /learn/criminal-or-civil-law/questions/what-factors-influence-judicial-decisionmaking-in-traffic-cases
 score: -1.0
 related_article1:
-    id: 162864
-    title: How does moral blameworthiness differ from legal standards in driving cases?
+    id: 162884
+    title: >-
+        How is liability determined in traffic accidents, and what role does evidence play?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-does-moral-blameworthiness-differ-from-legal-standards-in-driving-cases
+    url: /learn/criminal-or-civil-law/questions/how-is-liability-determined-in-traffic-accidents-and-what-role-does-evidence-play
 related_article2:
-    id: 162870
-    title: How is recklessness legally defined in traffic law, and what are its consequences?
+    id: 162874
+    title: >-
+        What distinguishes civil liability from criminal liability in traffic accidents?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/how-is-recklessness-legally-defined-in-traffic-law-and-what-are-its-consequences
+    url: /learn/criminal-or-civil-law/questions/what-distinguishes-civil-liability-from-criminal-liability-in-traffic-accidents
 related_article3:
-    id: 162881
-    title: What are the common traffic offenses and their legal consequences?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-common-traffic-offenses-and-their-legal-consequences
-related_article4:
     id: 162863
-    title: What role does intent play in cases of criminal negligence in driving?
+    title: >-
+        What role does intent play in cases of criminal negligence in driving?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/what-role-does-intent-play-in-cases-of-criminal-negligence-in-driving
-related_article5:
-    id: 162867
-    title: Why is compliance with traffic regulations important, and what are common violations?
+related_article4:
+    id: 162858
+    title: >-
+        How does case law influence the determination of reasonable behavior in traffic cases?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/why-is-compliance-with-traffic-regulations-important-and-what-are-common-violations
+    url: /learn/criminal-or-civil-law/questions/how-does-case-law-influence-the-determination-of-reasonable-behavior-in-traffic-cases
+related_article5:
+    id: 162876
+    title: >-
+        What legal measures can enhance traffic safety?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/what-legal-measures-can-enhance-traffic-safety
 ---
 
 &nbsp;

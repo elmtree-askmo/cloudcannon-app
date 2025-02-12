@@ -2,8 +2,10 @@
 _schema: default
 id: 170363
 date: 2025-02-06
-title: What is the primary function of mitochondria in cellular respiration?
-article_title: What is the primary function of mitochondria in cellular respiration?
+title: >-
+    What is the primary function of mitochondria in cellular respiration?
+article_title: >-
+    What is the primary function of mitochondria in cellular respiration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-function-of-mitochondria-in-cellular-respiration.
 url: /learn/biology/questions/what-is-the-primary-function-of-mitochondria-in-cellular-respiration
 score: -1.0
 related_article1:
-    id: 170366
-    title: Explain the role of ATP in cellular processes.
+    id: 170368
+    title: >-
+        What is the function of chlorophyll in chloroplasts?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-atp-in-cellular-processes
+    url: /learn/biology/questions/what-is-the-function-of-chlorophyll-in-chloroplasts
 related_article2:
     id: 170371
-    title: What happens to glucose during cellular respiration?
+    title: >-
+        What happens to glucose during cellular respiration?
     subject: Biology
     url: /learn/biology/questions/what-happens-to-glucose-during-cellular-respiration
 related_article3:
     id: 170360
-    title: What is the role of chloroplasts in photosynthesis?
+    title: >-
+        What is the role of chloroplasts in photosynthesis?
     subject: Biology
     url: /learn/biology/questions/what-is-the-role-of-chloroplasts-in-photosynthesis
 related_article4:
-    id: 170375
-    title: How does light energy get converted into chemical energy during photosynthesis?
+    id: 170374
+    title: >-
+        Why are carbon sinks important in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/how-does-light-energy-get-converted-into-chemical-energy-during-photosynthesis
+    url: /learn/biology/questions/why-are-carbon-sinks-important-in-ecosystems
 related_article5:
-    id: 170365
-    title: What is the difference between lactic acid fermentation and alcohol fermentation?
+    id: 170372
+    title: >-
+        What is the role of carbon dioxide in photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-lactic-acid-fermentation-and-alcohol-fermentation
+    url: /learn/biology/questions/what-is-the-role-of-carbon-dioxide-in-photosynthesis
 ---
 
 &nbsp;

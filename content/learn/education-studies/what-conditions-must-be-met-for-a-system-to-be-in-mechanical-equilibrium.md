@@ -2,8 +2,10 @@
 _schema: default
 id: 166723
 date: 2025-01-31
-title: What conditions must be met for a system to be in mechanical equilibrium?
-article_title: What conditions must be met for a system to be in mechanical equilibrium?
+title: >-
+    What conditions must be met for a system to be in mechanical equilibrium?
+article_title: >-
+    What conditions must be met for a system to be in mechanical equilibrium?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibr
 url: /learn/education-studies/questions/what-conditions-must-be-met-for-a-system-to-be-in-mechanical-equilibrium
 score: -1.0
 related_article1:
-    id: 166726
-    title: What are the different types of forces and how do they affect the equilibrium of a system?
+    id: 166738
+    title: >-
+        Describe the conservation of angular momentum and its applications in rotational motion.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-forces-and-how-do-they-affect-the-equilibrium-of-a-system
+    url: /learn/education-studies/questions/describe-the-conservation-of-angular-momentum-and-its-applications-in-rotational-motion
 related_article2:
-    id: 166737
-    title: What is angular momentum and how is it related to torque?
+    id: 166734
+    title: >-
+        Explain the geometric interpretation of the mixed triple product.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-angular-momentum-and-how-is-it-related-to-torque
+    url: /learn/education-studies/questions/explain-the-geometric-interpretation-of-the-mixed-triple-product
 related_article3:
-    id: 166722
-    title: What are the fundamental concepts of statics and why are they important in mechanics?
+    id: 166730
+    title: >-
+        What are the commutative and distributive properties of vectors and how do they apply to vector calculations?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-fundamental-concepts-of-statics-and-why-are-they-important-in-mechanics
+    url: /learn/education-studies/questions/what-are-the-commutative-and-distributive-properties-of-vectors-and-how-do-they-apply-to-vector-calculations
 related_article4:
-    id: 166736
-    title: How are coordinate systems used in vector calculations and what are the differences between Cartesian and polar coordinates?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-are-coordinate-systems-used-in-vector-calculations-and-what-are-the-differences-between-cartesian-and-polar-coordinates
-related_article5:
     id: 166733
-    title: What is the cross product of two vectors and what are its properties?
+    title: >-
+        What is the cross product of two vectors and what are its properties?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-cross-product-of-two-vectors-and-what-are-its-properties
+related_article5:
+    id: 166729
+    title: >-
+        How are vectors decomposed into components and what are the properties of vector addition and subtraction?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-are-vectors-decomposed-into-components-and-what-are-the-properties-of-vector-addition-and-subtraction
 ---
 
 &nbsp;

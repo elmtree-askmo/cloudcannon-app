@@ -2,8 +2,10 @@
 _schema: default
 id: 163328
 date: 2025-01-26
-title: What is the significance of measuring disease frequency over a specific time interval?
-article_title: What is the significance of measuring disease frequency over a specific time interval?
+title: >-
+    What is the significance of measuring disease frequency over a specific time interval?
+article_title: >-
+    What is the significance of measuring disease frequency over a specific time interval?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-measuring-disease-frequency-over-a-specif
 url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-specific-time-interval
 score: -1.0
 related_article1:
-    id: 163224
-    title: What is the difference between fixed and dynamic populations in epidemiology?
+    id: 163062
+    title: >-
+        How is the numerator used in measures of disease frequency determined?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-fixed-and-dynamic-populations-in-epidemiology
+    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
 related_article2:
-    id: 163334
-    title: Explain the concept of person-time in the context of incidence rate calculation.
+    id: 163286
+    title: >-
+        What are the limitations of using crude rates in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
+    url: /learn/health-studies/questions/what-are-the-limitations-of-using-crude-rates-in-epidemiological-studies
 related_article3:
-    id: 163329
-    title: How is a ratio different from a proportion in epidemiological studies?
+    id: 163064
+    title: >-
+        What is the significance of measuring disease frequency over a consistent time interval?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-a-ratio-different-from-a-proportion-in-epidemiological-studies
+    url: /learn/health-studies/questions/what-is-the-significance-of-measuring-disease-frequency-over-a-consistent-time-interval
 related_article4:
-    id: 163342
-    title: What is the risk difference, and how is it calculated using a 2x2 table?
+    id: 163245
+    title: >-
+        How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-risk-difference-and-how-is-it-calculated-using-a-2x2-table
+    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
 related_article5:
-    id: 163229
-    title: Why is it crucial to use the correct denominator when calculating a proportion?
+    id: 163231
+    title: >-
+        How is prevalence calculated, and what does it indicate about a population?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/how-is-prevalence-calculated-and-what-does-it-indicate-about-a-population
 ---
 
 &nbsp;

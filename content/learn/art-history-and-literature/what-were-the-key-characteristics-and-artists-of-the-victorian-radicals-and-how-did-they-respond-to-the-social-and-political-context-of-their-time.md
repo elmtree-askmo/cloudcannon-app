@@ -2,8 +2,10 @@
 _schema: default
 id: 159845
 date: 2025-01-23
-title: What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
-article_title: What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
+title: >-
+    What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
+article_title: >-
+    What were the key characteristics and artists of the Victorian Radicals, and how did they respond to the social and political context of their time?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-characteristics-and-artists-of-the-victorian-radica
 url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-and-artists-of-the-victorian-radicals-and-how-did-they-respond-to-the-social-and-political-context-of-their-time
 score: 9.0
 related_article1:
-    id: 159834
-    title: In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
+    id: 159837
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-were-some-key-artists-associated-with-this-movement
+    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented
 related_article2:
-    id: 159846
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    id: 160106
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 related_article3:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+    id: 159835
+    title: >-
+        What were the origins of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-of-cubism-and-how-did-it-impact-modern-art
 related_article4:
-    id: 160111
-    title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
+    id: 160113
+    title: >-
+        In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 related_article5:
-    id: 160201
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    id: 159850
+    title: >-
+        How did scientific developments influence environmental themes in Victorian art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+    url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166542
 date: 2025-01-30
-title: What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
-article_title: What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
+title: >-
+    What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
+article_title: >-
+    What role does Tiresias play in Greek mythology, particularly concerning prophecy and fate?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-tiresias-play-in-greek-mythology-particularly-concerni
 url: /learn/philosophy-and-greek-myths/questions/what-role-does-tiresias-play-in-greek-mythology-particularly-concerning-prophecy-and-fate
 score: -1.0
 related_article1:
-    id: 166535
-    title: How do the Roman equivalents of the Greek gods differ in terms of attributes and symbolism?
+    id: 166546
+    title: >-
+        What are the typical gender roles depicted in Greek mythology, and how do they influence relationships among gods?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-do-the-roman-equivalents-of-the-greek-gods-differ-in-terms-of-attributes-and-symbolism
+    url: /learn/philosophy-and-greek-myths/questions/what-are-the-typical-gender-roles-depicted-in-greek-mythology-and-how-do-they-influence-relationships-among-gods
 related_article2:
     id: 166545
-    title: How do Greek myths convey lessons about punishment and justice?
+    title: >-
+        How do Greek myths convey lessons about punishment and justice?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-do-greek-myths-convey-lessons-about-punishment-and-justice
 related_article3:
     id: 166543
-    title: How is humor and irony depicted in the relationship between Zeus and Hera?
+    title: >-
+        How is humor and irony depicted in the relationship between Zeus and Hera?
     subject: Philosophy and Greek Myths
     url: /learn/philosophy-and-greek-myths/questions/how-is-humor-and-irony-depicted-in-the-relationship-between-zeus-and-hera
 related_article4:
-    id: 166537
-    title: How does Achilles' legacy influence Greek mythology and culture?
+    id: 166540
+    title: >-
+        What is the significance of Gaia and Uranus in Greek creation stories?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/how-does-achilles-legacy-influence-greek-mythology-and-culture
+    url: /learn/philosophy-and-greek-myths/questions/what-is-the-significance-of-gaia-and-uranus-in-greek-creation-stories
 related_article5:
-    id: 166534
-    title: What are the main attributes and symbols associated with Zeus in Greek mythology?
+    id: 166547
+    title: >-
+        How did the adaptation of Greek gods influence Roman culture?
     subject: Philosophy and Greek Myths
-    url: /learn/philosophy-and-greek-myths/questions/what-are-the-main-attributes-and-symbols-associated-with-zeus-in-greek-mythology
+    url: /learn/philosophy-and-greek-myths/questions/how-did-the-adaptation-of-greek-gods-influence-roman-culture
 ---
 
 &nbsp;

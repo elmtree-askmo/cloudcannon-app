@@ -2,8 +2,10 @@
 _schema: default
 id: 160267
 date: 2025-01-23
-title: How can individuals overcome barriers such as bias and authority influence in critical thinking?
-article_title: How can individuals overcome barriers such as bias and authority influence in critical thinking?
+title: >-
+    How can individuals overcome barriers such as bias and authority influence in critical thinking?
+article_title: >-
+    How can individuals overcome barriers such as bias and authority influence in critical thinking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-individuals-overcome-barriers-such-as-bias-and-authority-infl
 url: /learn/education-studies/questions/how-can-individuals-overcome-barriers-such-as-bias-and-authority-influence-in-critical-thinking
 score: -1.0
 related_article1:
-    id: 160323
-    title: What are the key elements of preparing for a presentation, and how can they improve delivery?
+    id: 159963
+    title: >-
+        What are active reading techniques, and how do they assist in identifying key information?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-preparing-for-a-presentation-and-how-can-they-improve-delivery
+    url: /learn/education-studies/questions/what-are-active-reading-techniques-and-how-do-they-assist-in-identifying-key-information
 related_article2:
-    id: 160478
-    title: What are the main learning theories, and how can they be applied to enhance the educational experience?
+    id: 160269
+    title: >-
+        How do digital and traditional note-making methods compare, and what are their respective advantages?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-learning-theories-and-how-can-they-be-applied-to-enhance-the-educational-experience
+    url: /learn/education-studies/questions/how-do-digital-and-traditional-notemaking-methods-compare-and-what-are-their-respective-advantages
 related_article3:
-    id: 160056
-    title: What are the key elements of preparing for a presentation, and how can they help in delivering effectively?
+    id: 160578
+    title: >-
+        How can visualization techniques help overcome presentation anxiety?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-of-preparing-for-a-presentation-and-how-can-they-help-in-delivering-effectively
+    url: /learn/education-studies/questions/how-can-visualization-techniques-help-overcome-presentation-anxiety
 related_article4:
-    id: 159981
-    title: What techniques can be used for effective information retrieval, and how can students evaluate sources?
+    id: 159979
+    title: >-
+        How can students apply knowledge in real-world contexts, and what role do problem-solving skills play in this process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-for-effective-information-retrieval-and-how-can-students-evaluate-sources
+    url: /learn/education-studies/questions/how-can-students-apply-knowledge-in-realworld-contexts-and-what-role-do-problemsolving-skills-play-in-this-process
 related_article5:
-    id: 160275
-    title: How can study groups be effectively organized to achieve group goals?
+    id: 160281
+    title: >-
+        How can students effectively communicate within the university system to enhance their academic experience?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-study-groups-be-effectively-organized-to-achieve-group-goals
+    url: /learn/education-studies/questions/how-can-students-effectively-communicate-within-the-university-system-to-enhance-their-academic-experience
 ---
 
 &nbsp;

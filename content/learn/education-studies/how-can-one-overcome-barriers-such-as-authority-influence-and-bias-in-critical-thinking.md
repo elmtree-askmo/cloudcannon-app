@@ -2,8 +2,10 @@
 _schema: default
 id: 160313
 date: 2025-01-24
-title: How can one overcome barriers such as authority influence and bias in critical thinking?
-article_title: How can one overcome barriers such as authority influence and bias in critical thinking?
+title: >-
+    How can one overcome barriers such as authority influence and bias in critical thinking?
+article_title: >-
+    How can one overcome barriers such as authority influence and bias in critical thinking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-one-overcome-barriers-such-as-authority-influence-and-bias-in
 url: /learn/education-studies/questions/how-can-one-overcome-barriers-such-as-authority-influence-and-bias-in-critical-thinking
 score: -1.0
 related_article1:
-    id: 160141
-    title: How can study groups be effectively organized to achieve group goals?
+    id: 160481
+    title: >-
+        How does educational psychology contribute to understanding student behavior and enhancing learning environments?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-study-groups-be-effectively-organized-to-achieve-group-goals
+    url: /learn/education-studies/questions/how-does-educational-psychology-contribute-to-understanding-student-behavior-and-enhancing-learning-environments
 related_article2:
-    id: 160047
-    title: How can prioritizing tasks and avoiding procrastination improve time management?
+    id: 160585
+    title: >-
+        What factors influence academic performance, and how can students set goals to improve it?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-factors-influence-academic-performance-and-how-can-students-set-goals-to-improve-it
+related_article3:
+    id: 160000
+    title: >-
+        What is metacognition, and why is it important for self-awareness in learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-metacognition-and-why-is-it-important-for-selfawareness-in-learning
+related_article4:
+    id: 159956
+    title: >-
+        How can prioritizing tasks and avoiding procrastination improve time management?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-prioritizing-tasks-and-avoiding-procrastination-improve-time-management
-related_article3:
-    id: 160472
-    title: How can students effectively navigate university systems and utilize available resources?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-effectively-navigate-university-systems-and-utilize-available-resources
-related_article4:
-    id: 160577
-    title: What are key strategies for preparing and delivering effective presentations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-key-strategies-for-preparing-and-delivering-effective-presentations
 related_article5:
-    id: 160142
-    title: What are some effective exam preparation strategies, and how can they help improve performance?
+    id: 160567
+    title: >-
+        What are the key components of effective time management, and how do they contribute to academic success?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-effective-exam-preparation-strategies-and-how-can-they-help-improve-performance
+    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-time-management-and-how-do-they-contribute-to-academic-success
 ---
 
 &nbsp;

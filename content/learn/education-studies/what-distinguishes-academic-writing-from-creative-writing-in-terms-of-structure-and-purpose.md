@@ -2,8 +2,10 @@
 _schema: default
 id: 165363
 date: 2025-01-29
-title: What distinguishes academic writing from creative writing in terms of structure and purpose?
-article_title: What distinguishes academic writing from creative writing in terms of structure and purpose?
+title: >-
+    What distinguishes academic writing from creative writing in terms of structure and purpose?
+article_title: >-
+    What distinguishes academic writing from creative writing in terms of structure and purpose?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-academic-writing-from-creative-writing-in-terms-of
 url: /learn/education-studies/questions/what-distinguishes-academic-writing-from-creative-writing-in-terms-of-structure-and-purpose
 score: -1.0
 related_article1:
-    id: 165356
-    title: How does thesis development contribute to the effectiveness of a research paper?
+    id: 165358
+    title: >-
+        How can students book feedback appointments through the online scheduling system?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-thesis-development-contribute-to-the-effectiveness-of-a-research-paper
+    url: /learn/education-studies/questions/how-can-students-book-feedback-appointments-through-the-online-scheduling-system
 related_article2:
-    id: 165359
-    title: What methods are used to identify and analyze themes in literary analysis?
+    id: 165352
+    title: >-
+        How do documentation guides assist in maintaining proper grammar?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-are-used-to-identify-and-analyze-themes-in-literary-analysis
+    url: /learn/education-studies/questions/how-do-documentation-guides-assist-in-maintaining-proper-grammar
 related_article3:
-    id: 165354
-    title: How can students access writing center services at the Greenlaw Library location?
+    id: 165351
+    title: >-
+        What are the key components of writing guides for different genres?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-access-writing-center-services-at-the-greenlaw-library-location
+    url: /learn/education-studies/questions/what-are-the-key-components-of-writing-guides-for-different-genres
 related_article4:
     id: 165361
-    title: What are the main stages of the writing process, and how do they contribute to effective writing?
+    title: >-
+        What are the main stages of the writing process, and how do they contribute to effective writing?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
 related_article5:
-    id: 165362
-    title: What techniques can enhance communication skills during presentations?
+    id: 165361
+    title: >-
+        What are the main stages of the writing process, and how do they contribute to effective writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-enhance-communication-skills-during-presentations
+    url: /learn/education-studies/questions/what-are-the-main-stages-of-the-writing-process-and-how-do-they-contribute-to-effective-writing
 ---
 
 &nbsp;

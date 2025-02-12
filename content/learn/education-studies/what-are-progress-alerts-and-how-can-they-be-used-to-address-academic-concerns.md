@@ -2,8 +2,10 @@
 _schema: default
 id: 167609
 date: 2025-01-31
-title: What are progress alerts, and how can they be used to address academic concerns?
-article_title: What are progress alerts, and how can they be used to address academic concerns?
+title: >-
+    What are progress alerts, and how can they be used to address academic concerns?
+article_title: >-
+    What are progress alerts, and how can they be used to address academic concerns?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-progress-alerts-and-how-can-they-be-used-to-address-academic
 url: /learn/education-studies/questions/what-are-progress-alerts-and-how-can-they-be-used-to-address-academic-concerns
 score: -1.0
 related_article1:
-    id: 167617
-    title: How do college support services enhance student engagement and academic success?
+    id: 167602
+    title: >-
+        How can students effectively schedule and utilize weekend and online support for tutoring?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-college-support-services-enhance-student-engagement-and-academic-success
+    url: /learn/education-studies/questions/how-can-students-effectively-schedule-and-utilize-weekend-and-online-support-for-tutoring
 related_article2:
-    id: 167612
-    title: Why is basic chemistry important in understanding biological processes?
+    id: 167603
+    title: >-
+        What are the key components of a personalized academic plan during academic consultations?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-basic-chemistry-important-in-understanding-biological-processes
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-personalized-academic-plan-during-academic-consultations
 related_article3:
-    id: 167608
-    title: How can students address time management challenges to improve their academic performance?
+    id: 167607
+    title: >-
+        What strategies can be employed to balance academic and personal life effectively?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-address-time-management-challenges-to-improve-their-academic-performance
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-balance-academic-and-personal-life-effectively
 related_article4:
-    id: 167606
-    title: How can students create a study schedule that optimizes exam preparation?
+    id: 167601
+    title: >-
+        What are the benefits of tutoring and peer coaching in academic success services?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-create-a-study-schedule-that-optimizes-exam-preparation
-related_article5:
-    id: 167608
-    title: How can students address time management challenges to improve their academic performance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-address-time-management-challenges-to-improve-their-academic-performance
+    url: /learn/education-studies/questions/what-are-the-benefits-of-tutoring-and-peer-coaching-in-academic-success-services
 ---
 
 &nbsp;

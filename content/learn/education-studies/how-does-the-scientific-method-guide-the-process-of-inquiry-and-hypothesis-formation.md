@@ -2,8 +2,10 @@
 _schema: default
 id: 168151
 date: 2025-02-02
-title: How does the scientific method guide the process of inquiry and hypothesis formation?
-article_title: How does the scientific method guide the process of inquiry and hypothesis formation?
+title: >-
+    How does the scientific method guide the process of inquiry and hypothesis formation?
+article_title: >-
+    How does the scientific method guide the process of inquiry and hypothesis formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypot
 url: /learn/education-studies/questions/how-does-the-scientific-method-guide-the-process-of-inquiry-and-hypothesis-formation
 score: -1.0
 related_article1:
-    id: 168149
-    title: How do local and global impacts of human activities differ in the context of the Anthropocene?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-local-and-global-impacts-of-human-activities-differ-in-the-context-of-the-anthropocene
-related_article2:
-    id: 168159
-    title: How do descriptive ecological models, such as food chains, help in understanding energy flow in ecosystems?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-descriptive-ecological-models-such-as-food-chains-help-in-understanding-energy-flow-in-ecosystems
-related_article3:
     id: 168160
-    title: What is the role of predictive modeling in ecological studies, and how do hindcasting and forecasting differ?
+    title: >-
+        What is the role of predictive modeling in ecological studies, and how do hindcasting and forecasting differ?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-predictive-modeling-in-ecological-studies-and-how-do-hindcasting-and-forecasting-differ
+related_article2:
+    id: 168161
+    title: >-
+        How do multiple stressors, such as fisheries and nutrient levels, affect ecosystems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-multiple-stressors-such-as-fisheries-and-nutrient-levels-affect-ecosystems
+related_article3:
+    id: 168161
+    title: >-
+        How do multiple stressors, such as fisheries and nutrient levels, affect ecosystems?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-multiple-stressors-such-as-fisheries-and-nutrient-levels-affect-ecosystems
 related_article4:
-    id: 168157
-    title: What are the effects of ocean acidification and temperature rise on marine life, and how do these factors interact?
+    id: 168154
+    title: >-
+        What are the key structural and functional aspects of coral reefs, and how do symbiotic relationships play a role?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-effects-of-ocean-acidification-and-temperature-rise-on-marine-life-and-how-do-these-factors-interact
+    url: /learn/education-studies/questions/what-are-the-key-structural-and-functional-aspects-of-coral-reefs-and-how-do-symbiotic-relationships-play-a-role
 related_article5:
-    id: 168162
-    title: What assumptions about sensory perception and predictability are made in scientific studies of environmental systems?
+    id: 168155
+    title: >-
+        What are the main threats to coral reefs, and what conservation strategies are employed to protect them?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-assumptions-about-sensory-perception-and-predictability-are-made-in-scientific-studies-of-environmental-systems
+    url: /learn/education-studies/questions/what-are-the-main-threats-to-coral-reefs-and-what-conservation-strategies-are-employed-to-protect-them
 ---
 
 &nbsp;

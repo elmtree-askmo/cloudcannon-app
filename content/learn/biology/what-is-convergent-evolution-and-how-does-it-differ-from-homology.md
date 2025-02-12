@@ -2,8 +2,10 @@
 _schema: default
 id: 166365
 date: 2025-01-30
-title: What is convergent evolution and how does it differ from homology?
-article_title: What is convergent evolution and how does it differ from homology?
+title: >-
+    What is convergent evolution and how does it differ from homology?
+article_title: >-
+    What is convergent evolution and how does it differ from homology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-convergent-evolution-and-how-does-it-differ-from-homology.md
 url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
 score: -1.0
 related_article1:
-    id: 166373
-    title: What factors influence the response to selection in a population?
+    id: 166354
+    title: >-
+        How do ultimate and proximate questions differ in the study of animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-factors-influence-the-response-to-selection-in-a-population
+    url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
 related_article2:
-    id: 166372
-    title: How is the selection differential calculated and what does it indicate?
+    id: 166357
+    title: >-
+        Describe the differences between directional, stabilizing, and disruptive selection.
     subject: Biology
-    url: /learn/biology/questions/how-is-the-selection-differential-calculated-and-what-does-it-indicate
+    url: /learn/biology/questions/describe-the-differences-between-directional-stabilizing-and-disruptive-selection
 related_article3:
-    id: 166362
-    title: How does the environment influence adaptation?
+    id: 166369
+    title: >-
+        What is phylogeny and how does it relate to evolutionary history?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
+    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-evolutionary-history
 related_article4:
     id: 166371
-    title: What are the sources of genetic variation and why are they important for evolution?
+    title: >-
+        What are the sources of genetic variation and why are they important for evolution?
     subject: Biology
     url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
 related_article5:
     id: 166368
-    title: Explain the impact of hormonal influences on behavior.
+    title: >-
+        Explain the impact of hormonal influences on behavior.
     subject: Biology
     url: /learn/biology/questions/explain-the-impact-of-hormonal-influences-on-behavior
 ---

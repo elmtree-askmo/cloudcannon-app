@@ -2,8 +2,10 @@
 _schema: default
 id: 170609
 date: 2025-02-06
-title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
-article_title: What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+title: >-
+    What is the impact of multiple sclerosis on myelination and nerve signal transmission?
+article_title: >-
+    What is the impact of multiple sclerosis on myelination and nerve signal transmission?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-sig
 url: /learn/nursing/questions/what-is-the-impact-of-multiple-sclerosis-on-myelination-and-nerve-signal-transmission
 score: -1.0
 related_article1:
-    id: 170604
-    title: How do calcium ions facilitate neurotransmitter release at the synaptic terminal?
+    id: 170616
+    title: >-
+        How do calcium ions influence intracellular signaling pathways in neurons?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-calcium-ions-facilitate-neurotransmitter-release-at-the-synaptic-terminal
+    url: /learn/nursing/questions/how-do-calcium-ions-influence-intracellular-signaling-pathways-in-neurons
 related_article2:
     id: 170599
-    title: Describe the phases of an action potential and the changes in membrane potential during each phase.
+    title: >-
+        Describe the phases of an action potential and the changes in membrane potential during each phase.
     subject: Nursing
     url: /learn/nursing/questions/describe-the-phases-of-an-action-potential-and-the-changes-in-membrane-potential-during-each-phase
 related_article3:
-    id: 170606
-    title: Describe the mechanism of action of voltage-gated sodium and potassium channels during an action potential.
+    id: 170605
+    title: >-
+        What is the difference between ionotropic and metabotropic neurotransmitter receptors?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-mechanism-of-action-of-voltagegated-sodium-and-potassium-channels-during-an-action-potential
+    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
 related_article4:
-    id: 170605
-    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
+    id: 170603
+    title: >-
+        Compare and contrast electrical synapses and chemical synapses in terms of structure and function.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
-related_article5:
-    id: 170605
-    title: What is the difference between ionotropic and metabotropic neurotransmitter receptors?
-    subject: Nursing
-    url: /learn/nursing/questions/what-is-the-difference-between-ionotropic-and-metabotropic-neurotransmitter-receptors
+    url: /learn/nursing/questions/compare-and-contrast-electrical-synapses-and-chemical-synapses-in-terms-of-structure-and-function
 ---
 
 &nbsp;

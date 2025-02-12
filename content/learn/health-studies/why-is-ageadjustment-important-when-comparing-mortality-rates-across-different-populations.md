@@ -2,8 +2,10 @@
 _schema: default
 id: 162983
 date: 2025-01-26
-title: Why is age-adjustment important when comparing mortality rates across different populations?
-article_title: Why is age-adjustment important when comparing mortality rates across different populations?
+title: >-
+    Why is age-adjustment important when comparing mortality rates across different populations?
+article_title: >-
+    Why is age-adjustment important when comparing mortality rates across different populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-ageadjustment-important-when-comparing-mortality-rates-across-
 url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
 score: -1.0
 related_article1:
+    id: 162988
+    title: >-
+        What is the role of public health surveillance in responding to outbreaks?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+related_article2:
+    id: 163204
+    title: >-
+        What is the ecological fallacy, and why is it a limitation in ecological studies?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-ecological-fallacy-and-why-is-it-a-limitation-in-ecological-studies
+related_article3:
+    id: 162988
+    title: >-
+        What is the role of public health surveillance in responding to outbreaks?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
+related_article4:
+    id: 162985
+    title: >-
+        How do descriptive and analytic epidemiologic questions differ in their objectives?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-descriptive-and-analytic-epidemiologic-questions-differ-in-their-objectives
+related_article5:
     id: 163202
-    title: What are the primary purposes of public health surveillance?
+    title: >-
+        What are the primary purposes of public health surveillance?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
-related_article2:
-    id: 162978
-    title: What are the primary purposes of descriptive epidemiology?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-descriptive-epidemiology
-related_article3:
-    id: 163316
-    title: What are the key differences between descriptive and analytic epidemiologic questions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-key-differences-between-descriptive-and-analytic-epidemiologic-questions
-related_article4:
-    id: 162987
-    title: How do outbreaks differ from epidemics in terms of their definitions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
-related_article5:
-    id: 163313
-    title: How is the case fatality rate calculated and how does it differ from the mortality rate?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-case-fatality-rate-calculated-and-how-does-it-differ-from-the-mortality-rate
 ---
 
 &nbsp;

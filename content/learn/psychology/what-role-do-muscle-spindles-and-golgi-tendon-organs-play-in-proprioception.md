@@ -2,8 +2,10 @@
 _schema: default
 id: 170540
 date: 2025-02-06
-title: What role do muscle spindles and Golgi tendon organs play in proprioception?
-article_title: What role do muscle spindles and Golgi tendon organs play in proprioception?
+title: >-
+    What role do muscle spindles and Golgi tendon organs play in proprioception?
+article_title: >-
+    What role do muscle spindles and Golgi tendon organs play in proprioception?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioc
 url: /learn/psychology/questions/what-role-do-muscle-spindles-and-golgi-tendon-organs-play-in-proprioception
 score: -1.0
 related_article1:
+    id: 170529
+    title: >-
+        How do the primary motor cortex and basal ganglia contribute to motor control in the frontal lobe?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-the-primary-motor-cortex-and-basal-ganglia-contribute-to-motor-control-in-the-frontal-lobe
+related_article2:
+    id: 170525
+    title: >-
+        What were the primary tools and techniques used in the lobotomy procedure, and which areas of the brain were targeted?
+    subject: Psychology
+    url: /learn/psychology/questions/what-were-the-primary-tools-and-techniques-used-in-the-lobotomy-procedure-and-which-areas-of-the-brain-were-targeted
+related_article3:
+    id: 170543
+    title: >-
+        What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
+related_article4:
     id: 170534
-    title: How does the cerebellum contribute to motor coordination and cognitive functions?
+    title: >-
+        How does the cerebellum contribute to motor coordination and cognitive functions?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-cerebellum-contribute-to-motor-coordination-and-cognitive-functions
-related_article2:
-    id: 170543
-    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
-related_article3:
-    id: 170532
-    title: What are the primary symptoms of Parkinson's disease, and what treatments are available?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-symptoms-of-parkinsons-disease-and-what-treatments-are-available
-related_article4:
-    id: 170528
-    title: What are the key functions of the frontal lobe, and how does neuroplasticity play a role in its development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-functions-of-the-frontal-lobe-and-how-does-neuroplasticity-play-a-role-in-its-development
 related_article5:
-    id: 170543
-    title: What are the major arteries supplying blood to the brain, and how do they relate to stroke risk?
+    id: 170539
+    title: >-
+        How does the development of object permanence in infancy and early childhood contribute to cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-major-arteries-supplying-blood-to-the-brain-and-how-do-they-relate-to-stroke-risk
+    url: /learn/psychology/questions/how-does-the-development-of-object-permanence-in-infancy-and-early-childhood-contribute-to-cognitive-development
 ---
 
 &nbsp;

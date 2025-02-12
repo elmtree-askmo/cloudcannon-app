@@ -2,8 +2,10 @@
 _schema: default
 id: 163344
 date: 2025-01-26
-title: Why is the Population Attributable Proportion (PAR%) important for public health interventions?
-article_title: Why is the Population Attributable Proportion (PAR%) important for public health interventions?
+title: >-
+    Why is the Population Attributable Proportion (PAR%) important for public health interventions?
+article_title: >-
+    Why is the Population Attributable Proportion (PAR%) important for public health interventions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-the-population-attributable-proportion-par-important-for-publi
 url: /learn/health-studies/questions/why-is-the-population-attributable-proportion-par-important-for-public-health-interventions
 score: -1.0
 related_article1:
-    id: 163074
-    title: What is the significance of years of potential life lost (YPLL) in public health?
+    id: 163334
+    title: >-
+        Explain the concept of person-time in the context of incidence rate calculation.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-significance-of-years-of-potential-life-lost-ypll-in-public-health
+    url: /learn/health-studies/questions/explain-the-concept-of-persontime-in-the-context-of-incidence-rate-calculation
 related_article2:
-    id: 163337
-    title: How is person-years of observation calculated, and why is it important in dynamic populations?
+    id: 163343
+    title: >-
+        How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-personyears-of-observation-calculated-and-why-is-it-important-in-dynamic-populations
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-must-be-made
 related_article3:
-    id: 163346
-    title: How do cause-specific and age-specific rates differ, and why are they important in risk assessment?
+    id: 163230
+    title: >-
+        What is a rate in epidemiology, and how can it be misunderstood?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-causespecific-and-agespecific-rates-differ-and-why-are-they-important-in-risk-assessment
+    url: /learn/health-studies/questions/what-is-a-rate-in-epidemiology-and-how-can-it-be-misunderstood
 related_article4:
-    id: 163066
-    title: Why is it crucial to use the correct denominator when calculating a proportion?
+    id: 163343
+    title: >-
+        How is the Population Attributable Proportion (PAR%) calculated, and what assumptions must be made?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-it-crucial-to-use-the-correct-denominator-when-calculating-a-proportion
+    url: /learn/health-studies/questions/how-is-the-population-attributable-proportion-par-calculated-and-what-assumptions-must-be-made
 related_article5:
-    id: 163225
-    title: How is the numerator used in measures of disease frequency determined?
+    id: 163063
+    title: >-
+        Why is the denominator important in measures of disease frequency, and how can it vary across populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-is-the-numerator-used-in-measures-of-disease-frequency-determined
+    url: /learn/health-studies/questions/why-is-the-denominator-important-in-measures-of-disease-frequency-and-how-can-it-vary-across-populations
 ---
 
 &nbsp;

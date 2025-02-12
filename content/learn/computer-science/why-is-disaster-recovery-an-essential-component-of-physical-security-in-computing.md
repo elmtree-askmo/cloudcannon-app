@@ -2,8 +2,10 @@
 _schema: default
 id: 161539
 date: 2025-01-24
-title: Why is disaster recovery an essential component of physical security in computing?
-article_title: Why is disaster recovery an essential component of physical security in computing?
+title: >-
+    Why is disaster recovery an essential component of physical security in computing?
+article_title: >-
+    Why is disaster recovery an essential component of physical security in computing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-disaster-recovery-an-essential-component-of-physical-security-
 url: /learn/computer-science/questions/why-is-disaster-recovery-an-essential-component-of-physical-security-in-computing
 score: -1.0
 related_article1:
-    id: 161671
-    title: What is the difference between lossless and lossy data compression?
+    id: 161317
+    title: >-
+        What are the advantages of using water cooling over air cooling in heat maintenance?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-water-cooling-over-air-cooling-in-heat-maintenance
 related_article2:
-    id: 161295
-    title: What does MIPS measure in mainframe performance metrics?
+    id: 161563
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 related_article3:
-    id: 161537
-    title: How does system-level monitoring contribute to the serviceability of a computing system?
+    id: 161551
+    title: >-
+        How does licensing differ between open source and proprietary software?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-systemlevel-monitoring-contribute-to-the-serviceability-of-a-computing-system
+    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
 related_article4:
-    id: 161316
-    title: What are the primary functions of IBM's z/OS operating system for mainframes?
+    id: 161320
+    title: >-
+        What are the benefits of real-time protection in anti-virus utility software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
+    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
 related_article5:
-    id: 161295
-    title: What does MIPS measure in mainframe performance metrics?
+    id: 161669
+    title: >-
+        What are the advantages of using real-time protection in anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-realtime-protection-in-antivirus-software
 ---
 
 &nbsp;

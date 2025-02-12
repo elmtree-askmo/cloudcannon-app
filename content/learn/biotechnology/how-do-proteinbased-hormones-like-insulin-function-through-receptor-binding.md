@@ -2,8 +2,10 @@
 _schema: default
 id: 166849
 date: 2025-01-31
-title: How do protein-based hormones like insulin function through receptor binding?
-article_title: How do protein-based hormones like insulin function through receptor binding?
+title: >-
+    How do protein-based hormones like insulin function through receptor binding?
+article_title: >-
+    How do protein-based hormones like insulin function through receptor binding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-proteinbased-hormones-like-insulin-function-through-receptor-b
 url: /learn/biotechnology/questions/how-do-proteinbased-hormones-like-insulin-function-through-receptor-binding
 score: -1.0
 related_article1:
-    id: 166840
-    title: How do the properties of amino acids influence protein structure and function?
+    id: 166852
+    title: >-
+        What chemical properties of proteins affect their solubility and reactivity?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
+    url: /learn/biotechnology/questions/what-chemical-properties-of-proteins-affect-their-solubility-and-reactivity
 related_article2:
     id: 166840
-    title: How do the properties of amino acids influence protein structure and function?
+    title: >-
+        How do the properties of amino acids influence protein structure and function?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-the-properties-of-amino-acids-influence-protein-structure-and-function
 related_article3:
+    id: 166847
+    title: >-
+        How does the active site of an enzyme facilitate substrate binding?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-does-the-active-site-of-an-enzyme-facilitate-substrate-binding
+related_article4:
     id: 166837
-    title: How do enzymes facilitate metabolic pathways in cellular processes?
+    title: >-
+        How do enzymes facilitate metabolic pathways in cellular processes?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-do-enzymes-facilitate-metabolic-pathways-in-cellular-processes
-related_article4:
-    id: 166845
-    title: How do multiple polypeptide chains form a functional quaternary structure?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-multiple-polypeptide-chains-form-a-functional-quaternary-structure
 related_article5:
-    id: 166842
-    title: What is the importance of the primary structure in determining a protein's function?
+    id: 166838
+    title: >-
+        What role do hormones play in the regulation of gene expression?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-importance-of-the-primary-structure-in-determining-a-proteins-function
+    url: /learn/biotechnology/questions/what-role-do-hormones-play-in-the-regulation-of-gene-expression
 ---
 
 &nbsp;

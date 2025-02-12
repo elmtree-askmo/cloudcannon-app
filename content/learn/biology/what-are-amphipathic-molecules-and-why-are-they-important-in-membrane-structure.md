@@ -2,8 +2,10 @@
 _schema: default
 id: 166974
 date: 2025-01-31
-title: What are amphipathic molecules, and why are they important in membrane structure?
-article_title: What are amphipathic molecules, and why are they important in membrane structure?
+title: >-
+    What are amphipathic molecules, and why are they important in membrane structure?
+article_title: >-
+    What are amphipathic molecules, and why are they important in membrane structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-amphipathic-molecules-and-why-are-they-important-in-membrane
 url: /learn/biology/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-structure
 score: -1.0
 related_article1:
+    id: 166984
+    title: >-
+        Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
+    subject: Biology
+    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
+related_article2:
+    id: 166973
+    title: >-
+        Describe the structure of phospholipid bilayers and the significance of hydrophilic heads and hydrophobic tails.
+    subject: Biology
+    url: /learn/biology/questions/describe-the-structure-of-phospholipid-bilayers-and-the-significance-of-hydrophilic-heads-and-hydrophobic-tails
+related_article3:
+    id: 166985
+    title: >-
+        What are hydrophilic and hydrophobic interactions, and how do they influence membrane structure and permeability?
+    subject: Biology
+    url: /learn/biology/questions/what-are-hydrophilic-and-hydrophobic-interactions-and-how-do-they-influence-membrane-structure-and-permeability
+related_article4:
     id: 166982
-    title: What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
+    title: >-
+        What are the structural differences between integral and peripheral proteins, and how do these differences relate to their functions?
     subject: Biology
     url: /learn/biology/questions/what-are-the-structural-differences-between-integral-and-peripheral-proteins-and-how-do-these-differences-relate-to-their-functions
-related_article2:
-    id: 166983
-    title: How do glycolipids and glycoproteins function in cell-to-cell recognition and signaling?
-    subject: Biology
-    url: /learn/biology/questions/how-do-glycolipids-and-glycoproteins-function-in-celltocell-recognition-and-signaling
-related_article3:
-    id: 166978
-    title: What factors affect membrane fluidity, and how does cholesterol act as a fluidity buffer?
-    subject: Biology
-    url: /learn/biology/questions/what-factors-affect-membrane-fluidity-and-how-does-cholesterol-act-as-a-fluidity-buffer
-related_article4:
-    id: 166981
-    title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
 related_article5:
-    id: 166981
-    title: Describe the fluid mosaic model and its significance in understanding cell membrane structure.
+    id: 166984
+    title: >-
+        Explain the concept of a concentration gradient and its role in passive and active transport mechanisms.
     subject: Biology
-    url: /learn/biology/questions/describe-the-fluid-mosaic-model-and-its-significance-in-understanding-cell-membrane-structure
+    url: /learn/biology/questions/explain-the-concept-of-a-concentration-gradient-and-its-role-in-passive-and-active-transport-mechanisms
 ---
 
 &nbsp;

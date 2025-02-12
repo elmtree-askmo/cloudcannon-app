@@ -2,8 +2,10 @@
 _schema: default
 id: 161500
 date: 2025-01-24
-title: What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
-article_title: What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
+title: >-
+    What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
+article_title: >-
+    What are the purposes of IPsec, SSH, and TLS/SSL in encryption protocols?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-purposes-of-ipsec-ssh-and-tlsssl-in-encryption-protocols
 url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-and-tlsssl-in-encryption-protocols
 score: -1.0
 related_article1:
-    id: 161687
-    title: What are the characteristics and examples of indirect data, and what are its advantages and disadvantages?
+    id: 161702
+    title: >-
+        What is a checksum, and how do algorithms and protocols use it for error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-and-examples-of-indirect-data-and-what-are-its-advantages-and-disadvantages
+    url: /learn/computer-science/questions/what-is-a-checksum-and-how-do-algorithms-and-protocols-use-it-for-error-detection
 related_article2:
-    id: 161490
-    title: How does data transform into information and why is context important in this process?
+    id: 161508
+    title: >-
+        What is the difference between a hash total and a control total in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
+    url: /learn/computer-science/questions/what-is-the-difference-between-a-hash-total-and-a-control-total-in-error-detection
 related_article3:
-    id: 161512
-    title: How do transaction processing systems differ from management information systems?
+    id: 161695
+    title: >-
+        What are the purposes of IPsec, SSH, TLS, and SSL in encryption protocols?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-transaction-processing-systems-differ-from-management-information-systems
+    url: /learn/computer-science/questions/what-are-the-purposes-of-ipsec-ssh-tls-and-ssl-in-encryption-protocols
 related_article4:
-    id: 161691
-    title: Why is the level of detail important in information, and what factors can affect it?
+    id: 161511
+    title: >-
+        What are the main components of an information system and how do they interact?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-level-of-detail-important-in-information-and-what-factors-can-affect-it
+    url: /learn/computer-science/questions/what-are-the-main-components-of-an-information-system-and-how-do-they-interact
 related_article5:
-    id: 161512
-    title: How do transaction processing systems differ from management information systems?
+    id: 161509
+    title: >-
+        What is data logging and what are some common methods and tools used for it?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-transaction-processing-systems-differ-from-management-information-systems
+    url: /learn/computer-science/questions/what-is-data-logging-and-what-are-some-common-methods-and-tools-used-for-it
 ---
 
 &nbsp;

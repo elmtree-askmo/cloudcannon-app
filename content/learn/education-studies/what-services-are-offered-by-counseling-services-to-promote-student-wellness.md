@@ -2,8 +2,10 @@
 _schema: default
 id: 170667
 date: 2025-02-06
-title: What services are offered by counseling services to promote student wellness?
-article_title: What services are offered by counseling services to promote student wellness?
+title: >-
+    What services are offered by counseling services to promote student wellness?
+article_title: >-
+    What services are offered by counseling services to promote student wellness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-services-are-offered-by-counseling-services-to-promote-student-w
 url: /learn/education-studies/questions/what-services-are-offered-by-counseling-services-to-promote-student-wellness
 score: -1.0
 related_article1:
+    id: 170652
+    title: >-
+        What strategies can be used to build relationships with community organizations?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-build-relationships-with-community-organizations
+related_article2:
+    id: 170671
+    title: >-
+        What types of extracurricular activities are available through campus recreation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-types-of-extracurricular-activities-are-available-through-campus-recreation
+related_article3:
+    id: 170662
+    title: >-
+        How do external rewards influence extrinsic motivation, and what are the potential drawbacks?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-external-rewards-influence-extrinsic-motivation-and-what-are-the-potential-drawbacks
+related_article4:
+    id: 170656
+    title: >-
+        What are the key components of setting SMART goals?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-setting-smart-goals
+related_article5:
     id: 170659
-    title: How do process goals differ from outcome goals, and why is it important to align actions with them?
+    title: >-
+        How do process goals differ from outcome goals, and why is it important to align actions with them?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-process-goals-differ-from-outcome-goals-and-why-is-it-important-to-align-actions-with-them
-related_article2:
-    id: 170669
-    title: How do disability services ensure equal access and support for students with disabilities?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-disability-services-ensure-equal-access-and-support-for-students-with-disabilities
-related_article3:
-    id: 170672
-    title: How can participating in honors and research programs support academic pursuits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
-related_article4:
-    id: 170672
-    title: How can participating in honors and research programs support academic pursuits?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-participating-in-honors-and-research-programs-support-academic-pursuits
-related_article5:
-    id: 170666
-    title: How can library resources be utilized for research project consultation?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-library-resources-be-utilized-for-research-project-consultation
 ---
 
 &nbsp;

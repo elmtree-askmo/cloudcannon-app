@@ -2,8 +2,10 @@
 _schema: default
 id: 161707
 date: 2025-01-24
-title: What are the differences between transaction processing systems, management information systems, and decision support systems?
-article_title: What are the differences between transaction processing systems, management information systems, and decision support systems?
+title: >-
+    What are the differences between transaction processing systems, management information systems, and decision support systems?
+article_title: >-
+    What are the differences between transaction processing systems, management information systems, and decision support systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-transaction-processing-systems-manag
 url: /learn/computer-science/questions/what-are-the-differences-between-transaction-processing-systems-management-information-systems-and-decision-support-systems
 score: -1.0
 related_article1:
-    id: 161700
-    title: What is the purpose of data verification, and how do double entry and visual checks ensure data accuracy?
+    id: 161694
+    title: >-
+        What is the difference between symmetric and asymmetric encryption?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-data-verification-and-how-do-double-entry-and-visual-checks-ensure-data-accuracy
+    url: /learn/computer-science/questions/what-is-the-difference-between-symmetric-and-asymmetric-encryption
 related_article2:
-    id: 161495
-    title: Why is the age of information crucial and what factors can affect its timeliness?
+    id: 161428
+    title: >-
+        How does context contribute to transforming data into useful information?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-the-age-of-information-crucial-and-what-factors-can-affect-its-timeliness
+    url: /learn/computer-science/questions/how-does-context-contribute-to-transforming-data-into-useful-information
 related_article3:
-    id: 161494
-    title: What factors influence the relevance of information and why is it important?
+    id: 161512
+    title: >-
+        How do transaction processing systems differ from management information systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-factors-influence-the-relevance-of-information-and-why-is-it-important
+    url: /learn/computer-science/questions/how-do-transaction-processing-systems-differ-from-management-information-systems
 related_article4:
-    id: 161499
-    title: How do symmetric and asymmetric encryption differ in terms of methodology?
+    id: 161432
+    title: >-
+        Why is accuracy important in the quality of information, and what factors can affect it?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-symmetric-and-asymmetric-encryption-differ-in-terms-of-methodology
+    url: /learn/computer-science/questions/why-is-accuracy-important-in-the-quality-of-information-and-what-factors-can-affect-it
 related_article5:
-    id: 161685
-    title: How does data transform into information, and why is context important in this process?
+    id: 161506
+    title: >-
+        What is a parity check and what are its limitations in error detection?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-data-transform-into-information-and-why-is-context-important-in-this-process
+    url: /learn/computer-science/questions/what-is-a-parity-check-and-what-are-its-limitations-in-error-detection
 ---
 
 &nbsp;

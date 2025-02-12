@@ -2,8 +2,10 @@
 _schema: default
 id: 168836
 date: 2025-02-04
-title: How do villi enhance the absorption of nutrients in the small intestine?
-article_title: How do villi enhance the absorption of nutrients in the small intestine?
+title: >-
+    How do villi enhance the absorption of nutrients in the small intestine?
+article_title: >-
+    How do villi enhance the absorption of nutrients in the small intestine?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intesti
 url: /learn/biology/questions/how-do-villi-enhance-the-absorption-of-nutrients-in-the-small-intestine
 score: -1.0
 related_article1:
-    id: 168834
-    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    id: 168838
+    title: >-
+        How does ATP hydrolysis contribute to nutrient transport across cell membranes?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 related_article2:
-    id: 168835
-    title: What is the significance of epithelial cells in the absorption process?
+    id: 168840
+    title: >-
+        What are the mechanisms involved in glucose transport across the intestinal epithelium?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
+    url: /learn/biology/questions/what-are-the-mechanisms-involved-in-glucose-transport-across-the-intestinal-epithelium
 related_article3:
     id: 168834
-    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    title: >-
+        How does the sodium co-transporter facilitate glucose and amino acid absorption?
     subject: Biology
     url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
 related_article4:
-    id: 168834
-    title: How does the sodium co-transporter facilitate glucose and amino acid absorption?
+    id: 168841
+    title: >-
+        How do villi adaptations maximize nutrient absorption in the small intestine?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-sodium-cotransporter-facilitate-glucose-and-amino-acid-absorption
+    url: /learn/biology/questions/how-do-villi-adaptations-maximize-nutrient-absorption-in-the-small-intestine
 related_article5:
-    id: 168831
-    title: What is the function of endopeptidases in protein digestion?
+    id: 168839
+    title: >-
+        Why is mitochondria important for active transport in nutrient absorption?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
+    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167647
 date: 2025-01-31
-title: List the nitrogenous bases found in DNA and RNA.
-article_title: List the nitrogenous bases found in DNA and RNA.
+title: >-
+    List the nitrogenous bases found in DNA and RNA.
+article_title: >-
+    List the nitrogenous bases found in DNA and RNA.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: list-the-nitrogenous-bases-found-in-dna-and-rna.md
 url: /learn/biotechnology/questions/list-the-nitrogenous-bases-found-in-dna-and-rna
 score: -1.0
 related_article1:
-    id: 167646
-    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
-related_article2:
-    id: 167646
-    title: How do covalent bonds differ from hydrogen bonds in biological macromolecules?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-do-covalent-bonds-differ-from-hydrogen-bonds-in-biological-macromolecules
-related_article3:
     id: 167641
-    title: How does the primary structure of DNA differ from that of RNA?
+    title: >-
+        How does the primary structure of DNA differ from that of RNA?
     subject: Biotechnology
     url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
+related_article2:
+    id: 167643
+    title: >-
+        How do triglycerides differ from phospholipids in structure and function?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-triglycerides-differ-from-phospholipids-in-structure-and-function
+related_article3:
+    id: 167639
+    title: >-
+        Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
 related_article4:
-    id: 167636
-    title: What is the structural difference between purines and pyrimidines?
+    id: 167641
+    title: >-
+        How does the primary structure of DNA differ from that of RNA?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+    url: /learn/biotechnology/questions/how-does-the-primary-structure-of-dna-differ-from-that-of-rna
 related_article5:
-    id: 167636
-    title: What is the structural difference between purines and pyrimidines?
+    id: 167640
+    title: >-
+        What is the significance of the 5' to 3' directionality in nucleic acids?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164559
 date: 2025-01-28
-title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
-article_title: How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+title: >-
+    How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
+article_title: >-
+    How do the Mesulam and Posner models contribute to our understanding of cognitive neuroscience?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-
 url: /learn/psychology/questions/how-do-the-mesulam-and-posner-models-contribute-to-our-understanding-of-cognitive-neuroscience
 score: -1.0
 related_article1:
-    id: 164557
-    title: What are the primary functions of the prefrontal cortex and motor cortex in the frontal lobe?
+    id: 164548
+    title: >-
+        What distinguishes feature search from conjunction search in visual search tasks?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-prefrontal-cortex-and-motor-cortex-in-the-frontal-lobe
+    url: /learn/psychology/questions/what-distinguishes-feature-search-from-conjunction-search-in-visual-search-tasks
 related_article2:
-    id: 164564
-    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
     subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
 related_article3:
-    id: 164565
-    title: What role do arousal and vigilance play in attention and cognitive performance?
+    id: 164546
+    title: >-
+        How does procedural memory differ from semantic and episodic memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-arousal-and-vigilance-play-in-attention-and-cognitive-performance
+    url: /learn/psychology/questions/how-does-procedural-memory-differ-from-semantic-and-episodic-memory
 related_article4:
-    id: 164564
-    title: What mechanisms are involved in task switching, and how does cognitive load affect it?
+    id: 164556
+    title: >-
+        How do the superior and inferior parietal lobes differ in function?
     subject: Psychology
-    url: /learn/psychology/questions/what-mechanisms-are-involved-in-task-switching-and-how-does-cognitive-load-affect-it
+    url: /learn/psychology/questions/how-do-the-superior-and-inferior-parietal-lobes-differ-in-function
 related_article5:
-    id: 164561
-    title: How do ADHD and attention networks interact in cognitive processing?
+    id: 164543
+    title: >-
+        What are the key differences between spatial attention and object-based attention?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-adhd-and-attention-networks-interact-in-cognitive-processing
+    url: /learn/psychology/questions/what-are-the-key-differences-between-spatial-attention-and-objectbased-attention
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162995
 date: 2025-01-26
-title: How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
-article_title: How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
+title: >-
+    How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
+article_title: >-
+    How did Alfred Adler's departure from Freudian Psychoanalysis contribute to the founding of Individual Psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribu
 url: /learn/psychology/questions/how-did-alfred-adlers-departure-from-freudian-psychoanalysis-contribute-to-the-founding-of-individual-psychology
 score: -1.0
 related_article1:
-    id: 163003
-    title: How does Adlerian therapy's holistic view of personality integrate thoughts, feelings, and values?
+    id: 163009
+    title: >-
+        What are some critiques of Adlerian concepts, particularly regarding empirical evidence and social factors?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-adlerian-therapys-holistic-view-of-personality-integrate-thoughts-feelings-and-values
+    url: /learn/psychology/questions/what-are-some-critiques-of-adlerian-concepts-particularly-regarding-empirical-evidence-and-social-factors
 related_article2:
-    id: 162998
-    title: What is the origin of inferiority and superiority complexes according to Adlerian therapy?
+    id: 163010
+    title: >-
+        How has Adlerian therapy influenced modern therapeutic approaches and its relevance to contemporary issues?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-origin-of-inferiority-and-superiority-complexes-according-to-adlerian-therapy
+    url: /learn/psychology/questions/how-has-adlerian-therapy-influenced-modern-therapeutic-approaches-and-its-relevance-to-contemporary-issues
 related_article3:
-    id: 163004
-    title: What is the role of the therapist and client in collaborative therapy within the Adlerian framework?
+    id: 163000
+    title: >-
+        What is the role of social interest in mental health and personality development according to Adlerian therapy?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-therapist-and-client-in-collaborative-therapy-within-the-adlerian-framework
+    url: /learn/psychology/questions/what-is-the-role-of-social-interest-in-mental-health-and-personality-development-according-to-adlerian-therapy
 related_article4:
-    id: 163006
-    title: How is Socratic questioning used as a therapeutic technique in Adlerian therapy?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-socratic-questioning-used-as-a-therapeutic-technique-in-adlerian-therapy
-related_article5:
     id: 163002
-    title: What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
+    title: >-
+        What is the significance of goal-directed behavior in understanding human motivation according to Adlerian therapy?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-significance-of-goaldirected-behavior-in-understanding-human-motivation-according-to-adlerian-therapy
+related_article5:
+    id: 162996
+    title: >-
+        What are the key philosophical differences between Adlerian therapy and Freudian psychoanalysis?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-philosophical-differences-between-adlerian-therapy-and-freudian-psychoanalysis
 ---
 
 &nbsp;

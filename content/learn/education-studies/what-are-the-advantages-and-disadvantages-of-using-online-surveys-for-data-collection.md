@@ -2,8 +2,10 @@
 _schema: default
 id: 164997
 date: 2025-01-28
-title: What are the advantages and disadvantages of using online surveys for data collection?
-article_title: What are the advantages and disadvantages of using online surveys for data collection?
+title: >-
+    What are the advantages and disadvantages of using online surveys for data collection?
+article_title: >-
+    What are the advantages and disadvantages of using online surveys for data collection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-advantages-and-disadvantages-of-using-online-surveys-for
 url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-using-online-surveys-for-data-collection
 score: -1.0
 related_article1:
-    id: 164998
-    title: How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
+    id: 165000
+    title: >-
+        Explain the importance of measurement scales in statistical analysis.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-of-data-collection-effectiveness
+    url: /learn/education-studies/questions/explain-the-importance-of-measurement-scales-in-statistical-analysis
 related_article2:
-    id: 164999
-    title: What are the different types of statistical variables, and how do they impact data analysis?
+    id: 165005
+    title: >-
+        What are the differences between experimental design and observational studies in research methodology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-different-types-of-statistical-variables-and-how-do-they-impact-data-analysis
+    url: /learn/education-studies/questions/what-are-the-differences-between-experimental-design-and-observational-studies-in-research-methodology
 related_article3:
-    id: 165002
-    title: What methods can be used to draw conclusions from data analysis?
+    id: 165007
+    title: >-
+        What are the key components of public opinion surveys in political polling?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-can-be-used-to-draw-conclusions-from-data-analysis
+    url: /learn/education-studies/questions/what-are-the-key-components-of-public-opinion-surveys-in-political-polling
 related_article4:
-    id: 165002
-    title: What methods can be used to draw conclusions from data analysis?
+    id: 165003
+    title: >-
+        How does demographic analysis of age and gender contribute to understanding survey results?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-can-be-used-to-draw-conclusions-from-data-analysis
+    url: /learn/education-studies/questions/how-does-demographic-analysis-of-age-and-gender-contribute-to-understanding-survey-results
 related_article5:
-    id: 164994
-    title: How can assumptions be avoided in survey question formulation?
+    id: 165008
+    title: >-
+        How is election forecasting conducted using survey data?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-assumptions-be-avoided-in-survey-question-formulation
+    url: /learn/education-studies/questions/how-is-election-forecasting-conducted-using-survey-data
 ---
 
 &nbsp;

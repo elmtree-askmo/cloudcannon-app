@@ -2,8 +2,10 @@
 _schema: default
 id: 165372
 date: 2025-01-29
-title: Why is regular calibration important for pipet accuracy and maintenance?
-article_title: Why is regular calibration important for pipet accuracy and maintenance?
+title: >-
+    Why is regular calibration important for pipet accuracy and maintenance?
+article_title: >-
+    Why is regular calibration important for pipet accuracy and maintenance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-regular-calibration-important-for-pipet-accuracy-and-maintenan
 url: /learn/biotechnology/questions/why-is-regular-calibration-important-for-pipet-accuracy-and-maintenance
 score: -1.0
 related_article1:
-    id: 165373
-    title: Outline the steps involved in the pipet calibration process.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
-related_article2:
-    id: 165379
-    title: Provide a step-by-step guide for setting up and performing a micro pipetting action.
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/provide-a-stepbystep-guide-for-setting-up-and-performing-a-micro-pipetting-action
-related_article3:
-    id: 165382
-    title: How should pipets be stored to maintain their functionality?
-    subject: Biotechnology
-    url: /learn/biotechnology/questions/how-should-pipets-be-stored-to-maintain-their-functionality
-related_article4:
     id: 165376
-    title: Describe the proper technique for attaching and ejecting pipet tips.
+    title: >-
+        Describe the proper technique for attaching and ejecting pipet tips.
     subject: Biotechnology
     url: /learn/biotechnology/questions/describe-the-proper-technique-for-attaching-and-ejecting-pipet-tips
-related_article5:
-    id: 165374
-    title: What are the benefits of using color-coded pipet tips?
+related_article2:
+    id: 165378
+    title: >-
+        What safety precautions should be taken when disposing of pipet tips?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-are-the-benefits-of-using-colorcoded-pipet-tips
+    url: /learn/biotechnology/questions/what-safety-precautions-should-be-taken-when-disposing-of-pipet-tips
+related_article3:
+    id: 165373
+    title: >-
+        Outline the steps involved in the pipet calibration process.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
+related_article4:
+    id: 165367
+    title: >-
+        What are the key differences between Endorf pipets and other popular pipet brands?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/what-are-the-key-differences-between-endorf-pipets-and-other-popular-pipet-brands
+related_article5:
+    id: 165373
+    title: >-
+        Outline the steps involved in the pipet calibration process.
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/outline-the-steps-involved-in-the-pipet-calibration-process
 ---
 
 &nbsp;

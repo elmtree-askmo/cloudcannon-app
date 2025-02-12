@@ -2,8 +2,10 @@
 _schema: default
 id: 170356
 date: 2025-02-06
-title: Describe the chemical reactions involved in photosynthesis and cellular respiration.
-article_title: Describe the chemical reactions involved in photosynthesis and cellular respiration.
+title: >-
+    Describe the chemical reactions involved in photosynthesis and cellular respiration.
+article_title: >-
+    Describe the chemical reactions involved in photosynthesis and cellular respiration.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-chemical-reactions-involved-in-photosynthesis-and-cellul
 url: /learn/biology/questions/describe-the-chemical-reactions-involved-in-photosynthesis-and-cellular-respiration
 score: -1.0
 related_article1:
-    id: 170351
-    title: Explain the process of fermentation and its significance in anaerobic respiration.
+    id: 170345
+    title: >-
+        How does photosynthesis contribute to the balance of ecosystems?
     subject: Biology
-    url: /learn/biology/questions/explain-the-process-of-fermentation-and-its-significance-in-anaerobic-respiration
+    url: /learn/biology/questions/how-does-photosynthesis-contribute-to-the-balance-of-ecosystems
 related_article2:
+    id: 170350
+    title: >-
+        What role do decomposers play in the recycling of matter within ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-decomposers-play-in-the-recycling-of-matter-within-ecosystems
+related_article3:
     id: 170349
-    title: Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
+    title: >-
+        Describe the path of carbon through the carbon cycle and its role in photosynthesis and respiration.
     subject: Biology
     url: /learn/biology/questions/describe-the-path-of-carbon-through-the-carbon-cycle-and-its-role-in-photosynthesis-and-respiration
-related_article3:
-    id: 170344
-    title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
 related_article4:
-    id: 170344
-    title: What are the main inputs and outputs of photosynthesis, and how is energy converted during this process?
+    id: 170357
+    title: >-
+        How does the principle of matter conservation apply to biological processes and ecosystem stability?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-inputs-and-outputs-of-photosynthesis-and-how-is-energy-converted-during-this-process
+    url: /learn/biology/questions/how-does-the-principle-of-matter-conservation-apply-to-biological-processes-and-ecosystem-stability
 related_article5:
-    id: 170348
-    title: How is chemical energy stored in glucose and converted to ATP in organisms?
+    id: 170353
+    title: >-
+        What is radiant energy, and how is it converted during photosynthesis?
     subject: Biology
-    url: /learn/biology/questions/how-is-chemical-energy-stored-in-glucose-and-converted-to-atp-in-organisms
+    url: /learn/biology/questions/what-is-radiant-energy-and-how-is-it-converted-during-photosynthesis
 ---
 
 &nbsp;

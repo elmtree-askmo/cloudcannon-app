@@ -2,8 +2,10 @@
 _schema: default
 id: 161484
 date: 2025-01-24
-title: What is iteration and how does it differ from simple repetition?
-article_title: What is iteration and how does it differ from simple repetition?
+title: >-
+    What is iteration and how does it differ from simple repetition?
+article_title: >-
+    What is iteration and how does it differ from simple repetition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-iteration-and-how-does-it-differ-from-simple-repetition.md
 url: /learn/computer-science/questions/what-is-iteration-and-how-does-it-differ-from-simple-repetition
 score: -1.0
 related_article1:
-    id: 161486
-    title: Why are data types important in programming?
+    id: 161180
+    title: >-
+        What is the primary purpose of an algorithm in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-types-important-in-programming
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-an-algorithm-in-problemsolving
 related_article2:
-    id: 161191
-    title: What is the purpose of using counter variables in count-controlled loops?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-using-counter-variables-in-countcontrolled-loops
-related_article3:
-    id: 161192
-    title: How does user input control affect condition-controlled loops?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-user-input-control-affect-conditioncontrolled-loops
-related_article4:
     id: 161186
-    title: Explain the difference between count-controlled and condition-controlled loops.
+    title: >-
+        Explain the difference between count-controlled and condition-controlled loops.
     subject: Computer Science
     url: /learn/computer-science/questions/explain-the-difference-between-countcontrolled-and-conditioncontrolled-loops
-related_article5:
-    id: 161482
-    title: What is the significance of counter variables in count-controlled loops?
+related_article3:
+    id: 161481
+    title: >-
+        How do comparison operators facilitate decision making in algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-counter-variables-in-countcontrolled-loops
+    url: /learn/computer-science/questions/how-do-comparison-operators-facilitate-decision-making-in-algorithms
+related_article4:
+    id: 161181
+    title: >-
+        How do flowcharts help in communicating system processes?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
+related_article5:
+    id: 161181
+    title: >-
+        How do flowcharts help in communicating system processes?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-flowcharts-help-in-communicating-system-processes
 ---
 
 &nbsp;

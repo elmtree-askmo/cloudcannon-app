@@ -2,8 +2,10 @@
 _schema: default
 id: 164752
 date: 2025-01-28
-title: What is the role of white matter tracts in brain connectivity?
-article_title: What is the role of white matter tracts in brain connectivity?
+title: >-
+    What is the role of white matter tracts in brain connectivity?
+article_title: >-
+    What is the role of white matter tracts in brain connectivity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-white-matter-tracts-in-brain-connectivity.md
 url: /learn/nursing/questions/what-is-the-role-of-white-matter-tracts-in-brain-connectivity
 score: -1.0
 related_article1:
-    id: 164743
-    title: Describe the structure and functional organization of the cerebral cortex.
-    subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
-related_article2:
-    id: 164736
-    title: How is EEG used in the diagnosis of epilepsy?
-    subject: Nursing
-    url: /learn/nursing/questions/how-is-eeg-used-in-the-diagnosis-of-epilepsy
-related_article3:
-    id: 164723
-    title: How do superior and inferior directional terms apply in clinical settings?
-    subject: Nursing
-    url: /learn/nursing/questions/how-do-superior-and-inferior-directional-terms-apply-in-clinical-settings
-related_article4:
     id: 164741
-    title: What are the common surgical techniques used in brain surgery and their potential complications?
+    title: >-
+        What are the common surgical techniques used in brain surgery and their potential complications?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-common-surgical-techniques-used-in-brain-surgery-and-their-potential-complications
-related_article5:
-    id: 164722
-    title: What are the key differences between dorsal and ventral directional terms in anatomical context?
+related_article2:
+    id: 164725
+    title: >-
+        Explain the anatomical context of rostral and caudal directional terms.
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-key-differences-between-dorsal-and-ventral-directional-terms-in-anatomical-context
+    url: /learn/nursing/questions/explain-the-anatomical-context-of-rostral-and-caudal-directional-terms
+related_article3:
+    id: 164750
+    title: >-
+        Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article4:
+    id: 164750
+    title: >-
+        Explain the importance of understanding neuroanatomy in clinical applications.
+    subject: Nursing
+    url: /learn/nursing/questions/explain-the-importance-of-understanding-neuroanatomy-in-clinical-applications
+related_article5:
+    id: 164743
+    title: >-
+        Describe the structure and functional organization of the cerebral cortex.
+    subject: Nursing
+    url: /learn/nursing/questions/describe-the-structure-and-functional-organization-of-the-cerebral-cortex
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164620
 date: 2025-01-28
-title: What are the stages of speech sound development in children?
-article_title: What are the stages of speech sound development in children?
+title: >-
+    What are the stages of speech sound development in children?
+article_title: >-
+    What are the stages of speech sound development in children?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-stages-of-speech-sound-development-in-children.md
 url: /learn/art-history-and-literature/questions/what-are-the-stages-of-speech-sound-development-in-children
 score: 9.0
 related_article1:
-    id: 164616
-    title: How does language music play a role in communication?
+    id: 164630
+    title: >-
+        What is the role of harmony in music composition?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-language-music-play-a-role-in-communication
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
 related_article2:
-    id: 164621
-    title: How does cultural blending contribute to urban mixture?
+    id: 164625
+    title: >-
+        What are the sources of acoustic energy in music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-cultural-blending-contribute-to-urban-mixture
+    url: /learn/art-history-and-literature/questions/what-are-the-sources-of-acoustic-energy-in-music
 related_article3:
-    id: 164627
-    title: How does historical context influence musical composition?
+    id: 164630
+    title: >-
+        What is the role of harmony in music composition?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-historical-context-influence-musical-composition
+    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
 related_article4:
-    id: 164630
-    title: What is the role of harmony in music composition?
+    id: 164624
+    title: >-
+        What role does figurative language play in the semantic elements of song lyrics?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
+    url: /learn/art-history-and-literature/questions/what-role-does-figurative-language-play-in-the-semantic-elements-of-song-lyrics
 related_article5:
-    id: 164630
-    title: What is the role of harmony in music composition?
+    id: 164617
+    title: >-
+        What are the phonetic elements of language music?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-harmony-in-music-composition
+    url: /learn/art-history-and-literature/questions/what-are-the-phonetic-elements-of-language-music
 ---
 
 &nbsp;

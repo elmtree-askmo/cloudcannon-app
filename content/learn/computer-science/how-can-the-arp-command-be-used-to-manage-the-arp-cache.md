@@ -2,8 +2,10 @@
 _schema: default
 id: 165661
 date: 2025-01-29
-title: How can the ARP command be used to manage the ARP cache?
-article_title: How can the ARP command be used to manage the ARP cache?
+title: >-
+    How can the ARP command be used to manage the ARP cache?
+article_title: >-
+    How can the ARP command be used to manage the ARP cache?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-arp-command-be-used-to-manage-the-arp-cache.md
 url: /learn/computer-science/questions/how-can-the-arp-command-be-used-to-manage-the-arp-cache
 score: -1.0
 related_article1:
-    id: 165667
-    title: What tools can be used to troubleshoot DNS issues effectively?
+    id: 165660
+    title: >-
+        What command would you use to view the IP configuration on a Windows host?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-tools-can-be-used-to-troubleshoot-dns-issues-effectively
+    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
 related_article2:
-    id: 165665
-    title: What are common causes of IP addressing issues on IOS devices?
+    id: 165656
+    title: >-
+        How does redundancy improve the reliability of a small network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-common-causes-of-ip-addressing-issues-on-ios-devices
+    url: /learn/computer-science/questions/how-does-redundancy-improve-the-reliability-of-a-small-network
 related_article3:
-    id: 165659
-    title: Why is establishing a network baseline important for network management?
-    subject: Computer Science
-    url: /learn/computer-science/questions/why-is-establishing-a-network-baseline-important-for-network-management
-related_article4:
     id: 165655
-    title: What are the key considerations when selecting devices for a small network?
+    title: >-
+        What are the key considerations when selecting devices for a small network?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-considerations-when-selecting-devices-for-a-small-network
-related_article5:
-    id: 165664
-    title: How can duplex mismatch issues affect network performance?
+related_article4:
+    id: 165663
+    title: >-
+        What is the primary purpose of the debug command in network troubleshooting?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-duplex-mismatch-issues-affect-network-performance
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-the-debug-command-in-network-troubleshooting
+related_article5:
+    id: 165660
+    title: >-
+        What command would you use to view the IP configuration on a Windows host?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-command-would-you-use-to-view-the-ip-configuration-on-a-windows-host
 ---
 
 &nbsp;

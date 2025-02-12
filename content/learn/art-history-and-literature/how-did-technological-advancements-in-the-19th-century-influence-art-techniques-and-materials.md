@@ -2,8 +2,10 @@
 _schema: default
 id: 165958
 date: 2025-01-29
-title: How did technological advancements in the 19th century influence art techniques and materials?
-article_title: How did technological advancements in the 19th century influence art techniques and materials?
+title: >-
+    How did technological advancements in the 19th century influence art techniques and materials?
+article_title: >-
+    How did technological advancements in the 19th century influence art techniques and materials?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-technological-advancements-in-the-19th-century-influence-art-
 url: /learn/art-history-and-literature/questions/how-did-technological-advancements-in-the-19th-century-influence-art-techniques-and-materials
 score: 9.0
 related_article1:
-    id: 165943
-    title: What was the historical context behind the creation of the Salon des Refusés?
+    id: 165941
+    title: >-
+        What were the main reasons for the emergence of alternative art exhibitions in Paris?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-was-the-historical-context-behind-the-creation-of-the-salon-des-refuss
+    url: /learn/art-history-and-literature/questions/what-were-the-main-reasons-for-the-emergence-of-alternative-art-exhibitions-in-paris
 related_article2:
+    id: 165946
+    title: >-
+        How did the First Impressionist Exhibition influence the development of Impressionist techniques?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-the-first-impressionist-exhibition-influence-the-development-of-impressionist-techniques
+related_article3:
     id: 165955
-    title: What were the major 19th-century art movements, and how did they transition into 20th-century styles?
+    title: >-
+        What were the major 19th-century art movements, and how did they transition into 20th-century styles?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-were-the-major-19thcentury-art-movements-and-how-did-they-transition-into-20thcentury-styles
-related_article3:
-    id: 165947
-    title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
 related_article4:
-    id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
+    id: 165962
+    title: >-
+        What is the legacy of 19th-century art movements on contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
+    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
 related_article5:
-    id: 165948
-    title: How did the Salon des Independantes contribute to the promotion of diverse art styles?
+    id: 165954
+    title: >-
+        How did Cubism influence subsequent art movements?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
+    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
 ---
 
 &nbsp;

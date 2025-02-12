@@ -2,8 +2,10 @@
 _schema: default
 id: 168802
 date: 2025-02-04
-title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
-article_title: Why is counter-current exchange important for maintaining the concentration gradient in fish?
+title: >-
+    Why is counter-current exchange important for maintaining the concentration gradient in fish?
+article_title: >-
+    Why is counter-current exchange important for maintaining the concentration gradient in fish?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,28 @@ url: /learn/biology/questions/why-is-countercurrent-exchange-important-for-maint
 score: -1.0
 related_article1:
     id: 168806
-    title: How does the open circulatory system function in nutrient and waste transport without oxygen transport?
+    title: >-
+        How does the open circulatory system function in nutrient and waste transport without oxygen transport?
     subject: Biology
     url: /learn/biology/questions/how-does-the-open-circulatory-system-function-in-nutrient-and-waste-transport-without-oxygen-transport
 related_article2:
+    id: 168798
+    title: >-
+        How do lamellae enhance the surface area in gills, and what is the analogy to villi?
+    subject: Biology
+    url: /learn/biology/questions/how-do-lamellae-enhance-the-surface-area-in-gills-and-what-is-the-analogy-to-villi
+related_article3:
     id: 168803
-    title: Describe the diffusion process and its role in gas exchange.
+    title: >-
+        Describe the diffusion process and its role in gas exchange.
     subject: Biology
     url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
-related_article3:
-    id: 168801
-    title: Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
 related_article4:
-    id: 168810
-    title: What adaptations in the tracheal system enhance efficiency and prevent water loss in insects?
+    id: 168803
+    title: >-
+        Describe the diffusion process and its role in gas exchange.
     subject: Biology
-    url: /learn/biology/questions/what-adaptations-in-the-tracheal-system-enhance-efficiency-and-prevent-water-loss-in-insects
-related_article5:
-    id: 168801
-    title: Explain the counter-current exchange mechanism and its efficiency compared to parallel flow.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-countercurrent-exchange-mechanism-and-its-efficiency-compared-to-parallel-flow
+    url: /learn/biology/questions/describe-the-diffusion-process-and-its-role-in-gas-exchange
 ---
 
 &nbsp;

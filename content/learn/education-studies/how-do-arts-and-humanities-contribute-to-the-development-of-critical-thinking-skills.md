@@ -2,8 +2,10 @@
 _schema: default
 id: 165909
 date: 2025-01-29
-title: How do arts and humanities contribute to the development of critical thinking skills?
-article_title: How do arts and humanities contribute to the development of critical thinking skills?
+title: >-
+    How do arts and humanities contribute to the development of critical thinking skills?
+article_title: >-
+    How do arts and humanities contribute to the development of critical thinking skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-arts-and-humanities-contribute-to-the-development-of-critical-
 url: /learn/education-studies/questions/how-do-arts-and-humanities-contribute-to-the-development-of-critical-thinking-skills
 score: -1.0
 related_article1:
-    id: 165907
-    title: How can students become involved in the research community at a university?
+    id: 165916
+    title: >-
+        How does geography function as a social construct in influencing cultural identity?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-become-involved-in-the-research-community-at-a-university
+    url: /learn/education-studies/questions/how-does-geography-function-as-a-social-construct-in-influencing-cultural-identity
 related_article2:
-    id: 165907
-    title: How can students become involved in the research community at a university?
+    id: 165910
+    title: >-
+        What is the transition process from expressive to communicative essays in writing?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-become-involved-in-the-research-community-at-a-university
+    url: /learn/education-studies/questions/what-is-the-transition-process-from-expressive-to-communicative-essays-in-writing
 related_article3:
-    id: 165919
-    title: Why is the PDF document format preferred for academic submissions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/why-is-the-pdf-document-format-preferred-for-academic-submissions
-related_article4:
-    id: 165912
-    title: What is the relationship between language, communication, and social structures?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-relationship-between-language-communication-and-social-structures
-related_article5:
     id: 165913
-    title: Why is lifelong learning important for personal and professional life?
+    title: >-
+        Why is lifelong learning important for personal and professional life?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-lifelong-learning-important-for-personal-and-professional-life
+related_article4:
+    id: 165913
+    title: >-
+        Why is lifelong learning important for personal and professional life?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-lifelong-learning-important-for-personal-and-professional-life
+related_article5:
+    id: 165910
+    title: >-
+        What is the transition process from expressive to communicative essays in writing?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-transition-process-from-expressive-to-communicative-essays-in-writing
 ---
 
 &nbsp;

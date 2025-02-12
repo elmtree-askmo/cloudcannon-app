@@ -2,8 +2,10 @@
 _schema: default
 id: 164837
 date: 2025-01-28
-title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
-article_title: How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+title: >-
+    How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
+article_title: >-
+    How does the thalamus function as a relay station for information and contribute to signal integration for awareness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-thalamus-function-as-a-relay-station-for-information-and
 url: /learn/psychology/questions/how-does-the-thalamus-function-as-a-relay-station-for-information-and-contribute-to-signal-integration-for-awareness
 score: -1.0
 related_article1:
-    id: 164836
-    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
-related_article2:
-    id: 164845
-    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
-    subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
-related_article3:
-    id: 164847
-    title: How does redundancy in visual pathways contribute to both conscious and unconscious vision processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-redundancy-in-visual-pathways-contribute-to-both-conscious-and-unconscious-vision-processing
-related_article4:
     id: 164851
-    title: How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
+    title: >-
+        How do psychoactive substances alter conscious states, and what are the potential long-term effects on brain function and consciousness?
     subject: Psychology
     url: /learn/psychology/questions/how-do-psychoactive-substances-alter-conscious-states-and-what-are-the-potential-longterm-effects-on-brain-function-and-consciousness
-related_article5:
+related_article2:
     id: 164836
-    title: What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
+    title: >-
+        What are the key functions of the reticular activating system in relation to wakefulness and attention regulation?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-functions-of-the-reticular-activating-system-in-relation-to-wakefulness-and-attention-regulation
+related_article3:
+    id: 164852
+    title: >-
+        What are the common types of brain injuries, and how do they impact consciousness and recovery processes?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-how-do-they-impact-consciousness-and-recovery-processes
+related_article4:
+    id: 164842
+    title: >-
+        What are the primary characteristics and causes of coma, and which brain regions are typically affected?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-characteristics-and-causes-of-coma-and-which-brain-regions-are-typically-affected
+related_article5:
+    id: 164839
+    title: >-
+        Describe the default mode network and its involvement in self-referential thought and introspection.
+    subject: Psychology
+    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170416
 date: 2025-02-06
-title: Identify the main sources of carbon emissions and discuss strategies for their reduction.
-article_title: Identify the main sources of carbon emissions and discuss strategies for their reduction.
+title: >-
+    Identify the main sources of carbon emissions and discuss strategies for their reduction.
+article_title: >-
+    Identify the main sources of carbon emissions and discuss strategies for their reduction.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-
 url: /learn/chemistry/questions/identify-the-main-sources-of-carbon-emissions-and-discuss-strategies-for-their-reduction
 score: -1.0
 related_article1:
-    id: 170401
-    title: How does carbon flow through ecosystems, and what roles do plant and animal interactions and decomposers play?
+    id: 170395
+    title: >-
+        Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-carbon-flow-through-ecosystems-and-what-roles-do-plant-and-animal-interactions-and-decomposers-play
+    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
 related_article2:
-    id: 170404
-    title: Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
+    id: 170414
+    title: >-
+        What are the different types of carbon reservoirs, and how do they function in the carbon cycle?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
+    url: /learn/chemistry/questions/what-are-the-different-types-of-carbon-reservoirs-and-how-do-they-function-in-the-carbon-cycle
 related_article3:
     id: 170412
-    title: How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
+    title: >-
+        How does organic matter decomposition contribute to the carbon cycle, and what roles do fungi and bacteria play?
     subject: Chemistry
     url: /learn/chemistry/questions/how-does-organic-matter-decomposition-contribute-to-the-carbon-cycle-and-what-roles-do-fungi-and-bacteria-play
 related_article4:
-    id: 170413
-    title: What are the sources of atmospheric carbon, and how do they impact climate?
+    id: 170399
+    title: >-
+        How does carbon dioxide function as a greenhouse gas, and what is its impact on Earth's temperature and climate change?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-sources-of-atmospheric-carbon-and-how-do-they-impact-climate
+    url: /learn/chemistry/questions/how-does-carbon-dioxide-function-as-a-greenhouse-gas-and-what-is-its-impact-on-earths-temperature-and-climate-change
 related_article5:
-    id: 170395
-    title: Describe the processes of photosynthesis, cellular respiration, and decomposition in the carbon cycle.
+    id: 170404
+    title: >-
+        Describe the process of cellular respiration and its role in energy release and carbon dioxide production.
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-processes-of-photosynthesis-cellular-respiration-and-decomposition-in-the-carbon-cycle
+    url: /learn/chemistry/questions/describe-the-process-of-cellular-respiration-and-its-role-in-energy-release-and-carbon-dioxide-production
 ---
 
 &nbsp;

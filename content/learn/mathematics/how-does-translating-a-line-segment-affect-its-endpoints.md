@@ -2,8 +2,10 @@
 _schema: default
 id: 162300
 date: 2025-01-25
-title: How does translating a line segment affect its endpoints?
-article_title: How does translating a line segment affect its endpoints?
+title: >-
+    How does translating a line segment affect its endpoints?
+article_title: >-
+    How does translating a line segment affect its endpoints?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-translating-a-line-segment-affect-its-endpoints.md
 url: /learn/mathematics/questions/how-does-translating-a-line-segment-affect-its-endpoints
 score: -1.0
 related_article1:
-    id: 162146
-    title: What is the concept of translation in transformations?
+    id: 162152
+    title: >-
+        How does reflecting a point across the x-axis affect its coordinates?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-concept-of-translation-in-transformations
+    url: /learn/mathematics/questions/how-does-reflecting-a-point-across-the-xaxis-affect-its-coordinates
 related_article2:
+    id: 162142
+    title: >-
+        What are the main types of transformations in geometry?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-main-types-of-transformations-in-geometry
+related_article3:
+    id: 162158
+    title: >-
+        What are the roles of the x-axis and y-axis in the coordinate plane?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-are-the-roles-of-the-xaxis-and-yaxis-in-the-coordinate-plane
+related_article4:
     id: 162303
-    title: What is rigid motion and what are its characteristics?
+    title: >-
+        What is rigid motion and what are its characteristics?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
-related_article3:
-    id: 162163
-    title: What is the algebraic representation of translating a point?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-algebraic-representation-of-translating-a-point
-related_article4:
-    id: 162165
-    title: What techniques can be used to visualize transformations on graphs?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-techniques-can-be-used-to-visualize-transformations-on-graphs
 related_article5:
-    id: 162298
-    title: How can transformations be visualized using the coordinate plane?
+    id: 162303
+    title: >-
+        What is rigid motion and what are its characteristics?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-transformations-be-visualized-using-the-coordinate-plane
+    url: /learn/mathematics/questions/what-is-rigid-motion-and-what-are-its-characteristics
 ---
 
 &nbsp;

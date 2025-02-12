@@ -2,8 +2,10 @@
 _schema: default
 id: 161536
 date: 2025-01-24
-title: What role do redundant components play in enhancing the reliability of a computing system?
-article_title: What role do redundant components play in enhancing the reliability of a computing system?
+title: >-
+    What role do redundant components play in enhancing the reliability of a computing system?
+article_title: >-
+    What role do redundant components play in enhancing the reliability of a computing system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-redundant-components-play-in-enhancing-the-reliability-o
 url: /learn/computer-science/questions/what-role-do-redundant-components-play-in-enhancing-the-reliability-of-a-computing-system
 score: -1.0
 related_article1:
-    id: 161551
-    title: How does licensing differ between open source and proprietary software?
+    id: 161293
+    title: >-
+        What is the purpose of encryption in access control?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-licensing-differ-between-open-source-and-proprietary-software
+    url: /learn/computer-science/questions/what-is-the-purpose-of-encryption-in-access-control
 related_article2:
-    id: 161543
-    title: How does checkpointing contribute to fault tolerance in supercomputers?
+    id: 161304
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-checkpointing-contribute-to-fault-tolerance-in-supercomputers
+    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
 related_article3:
-    id: 161550
-    title: What are the main characteristics of open source software?
+    id: 161544
+    title: >-
+        What are the primary functions of IBM's z/OS operating system for mainframes?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-characteristics-of-open-source-software
+    url: /learn/computer-science/questions/what-are-the-primary-functions-of-ibms-zos-operating-system-for-mainframes
 related_article4:
-    id: 161540
-    title: Explain the significance of MIPS as a performance metric for mainframe computers.
+    id: 161671
+    title: >-
+        What is the difference between lossless and lossy data compression?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-mips-as-a-performance-metric-for-mainframe-computers
+    url: /learn/computer-science/questions/what-is-the-difference-between-lossless-and-lossy-data-compression
 related_article5:
-    id: 161535
-    title: How do supercomputers differ in their uses compared to mainframe computers?
+    id: 161319
+    title: >-
+        How do compilers differ from interpreters in the context of translators?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-supercomputers-differ-in-their-uses-compared-to-mainframe-computers
+    url: /learn/computer-science/questions/how-do-compilers-differ-from-interpreters-in-the-context-of-translators
 ---
 
 &nbsp;

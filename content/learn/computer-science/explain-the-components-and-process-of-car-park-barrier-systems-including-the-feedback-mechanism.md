@@ -2,8 +2,10 @@
 _schema: default
 id: 161528
 date: 2025-01-24
-title: Explain the components and process of car park barrier systems, including the feedback mechanism.
-article_title: Explain the components and process of car park barrier systems, including the feedback mechanism.
+title: >-
+    Explain the components and process of car park barrier systems, including the feedback mechanism.
+article_title: >-
+    Explain the components and process of car park barrier systems, including the feedback mechanism.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-components-and-process-of-car-park-barrier-systems-includ
 url: /learn/computer-science/questions/explain-the-components-and-process-of-car-park-barrier-systems-including-the-feedback-mechanism
 score: -1.0
 related_article1:
-    id: 161351
-    title: What components are involved in central heating systems, and how does the feedback mechanism work?
+    id: 161587
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-components-are-involved-in-central-heating-systems-and-how-does-the-feedback-mechanism-work
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 related_article2:
-    id: 161349
-    title: What vital signs are monitored in patient monitoring systems, and how is data processed to generate alerts?
+    id: 161334
+    title: >-
+        What are the different types of actuators, and how are they applied in control technologies?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-vital-signs-are-monitored-in-patient-monitoring-systems-and-how-is-data-processed-to-generate-alerts
+    url: /learn/computer-science/questions/what-are-the-different-types-of-actuators-and-how-are-they-applied-in-control-technologies
 related_article3:
-    id: 161357
-    title: How do monitoring technologies enhance safety and cost-effectiveness, particularly in hazardous conditions?
+    id: 161587
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-monitoring-technologies-enhance-safety-and-costeffectiveness-particularly-in-hazardous-conditions
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 related_article4:
-    id: 161350
-    title: Identify the sensors and actuators used in greenhouse environment control and explain the feedback mechanism involved.
+    id: 161355
+    title: >-
+        What is the process and feedback mechanism of traffic lights control systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/identify-the-sensors-and-actuators-used-in-greenhouse-environment-control-and-explain-the-feedback-mechanism-involved
+    url: /learn/computer-science/questions/what-is-the-process-and-feedback-mechanism-of-traffic-lights-control-systems
 related_article5:
-    id: 161529
-    title: Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
+    id: 161526
+    title: >-
+        Describe the sensors and actuators used in burglar alarm systems and their process and feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
+    url: /learn/computer-science/questions/describe-the-sensors-and-actuators-used-in-burglar-alarm-systems-and-their-process-and-feedback-mechanism
 ---
 
 &nbsp;

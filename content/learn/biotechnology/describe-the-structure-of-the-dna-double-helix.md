@@ -2,8 +2,10 @@
 _schema: default
 id: 167637
 date: 2025-01-31
-title: Describe the structure of the DNA double helix.
-article_title: Describe the structure of the DNA double helix.
+title: >-
+    Describe the structure of the DNA double helix.
+article_title: >-
+    Describe the structure of the DNA double helix.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: describe-the-structure-of-the-dna-double-helix.md
 url: /learn/biotechnology/questions/describe-the-structure-of-the-dna-double-helix
 score: -1.0
 related_article1:
-    id: 167639
-    title: Explain how phosphodiester bonds are formed during nucleic acid polymerization.
+    id: 167645
+    title: >-
+        What are the main classes of biological macromolecules?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/explain-how-phosphodiester-bonds-are-formed-during-nucleic-acid-polymerization
+    url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 related_article2:
     id: 167645
-    title: What are the main classes of biological macromolecules?
+    title: >-
+        What are the main classes of biological macromolecules?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 related_article3:
     id: 167645
-    title: What are the main classes of biological macromolecules?
+    title: >-
+        What are the main classes of biological macromolecules?
     subject: Biotechnology
     url: /learn/biotechnology/questions/what-are-the-main-classes-of-biological-macromolecules
 related_article4:
-    id: 167640
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    id: 167636
+    title: >-
+        What is the structural difference between purines and pyrimidines?
     subject: Biotechnology
-    url: /learn/biotechnology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+    url: /learn/biotechnology/questions/what-is-the-structural-difference-between-purines-and-pyrimidines
+related_article5:
+    id: 167635
+    title: >-
+        How do ribose and deoxyribose sugars differ structurally?
+    subject: Biotechnology
+    url: /learn/biotechnology/questions/how-do-ribose-and-deoxyribose-sugars-differ-structurally
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166190
 date: 2025-01-29
-title: Describe the structure of DNA and its role in genetic inheritance.
-article_title: Describe the structure of DNA and its role in genetic inheritance.
+title: >-
+    Describe the structure of DNA and its role in genetic inheritance.
+article_title: >-
+    Describe the structure of DNA and its role in genetic inheritance.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-of-dna-and-its-role-in-genetic-inheritance.md
 url: /learn/education-studies/questions/describe-the-structure-of-dna-and-its-role-in-genetic-inheritance
 score: -1.0
 related_article1:
-    id: 166205
-    title: What role do enzymes play in biochemical reactions?
+    id: 166199
+    title: >-
+        What are the main components of the human cardiovascular system and their functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-enzymes-play-in-biochemical-reactions
+    url: /learn/education-studies/questions/what-are-the-main-components-of-the-human-cardiovascular-system-and-their-functions
 related_article2:
-    id: 166200
-    title: How have humans evolved over time according to fossil evidence?
+    id: 166209
+    title: >-
+        What are the key differences between sexual and asexual reproduction?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-have-humans-evolved-over-time-according-to-fossil-evidence
+    url: /learn/education-studies/questions/what-are-the-key-differences-between-sexual-and-asexual-reproduction
 related_article3:
-    id: 166207
-    title: What are the differences between macronutrients and micronutrients in human nutrition?
+    id: 166182
+    title: >-
+        What are the primary types of biological molecules and their functions?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-macronutrients-and-micronutrients-in-human-nutrition
+    url: /learn/education-studies/questions/what-are-the-primary-types-of-biological-molecules-and-their-functions
 related_article4:
-    id: 166207
-    title: What are the differences between macronutrients and micronutrients in human nutrition?
+    id: 166179
+    title: >-
+        What are the fundamental traits that define living organisms?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-macronutrients-and-micronutrients-in-human-nutrition
+    url: /learn/education-studies/questions/what-are-the-fundamental-traits-that-define-living-organisms
 related_article5:
-    id: 166189
-    title: How do red blood cells and white blood cells differ in structure and function?
+    id: 166180
+    title: >-
+        How do metabolism and homeostasis contribute to the biological processes of life?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-red-blood-cells-and-white-blood-cells-differ-in-structure-and-function
+    url: /learn/education-studies/questions/how-do-metabolism-and-homeostasis-contribute-to-the-biological-processes-of-life
 ---
 
 &nbsp;

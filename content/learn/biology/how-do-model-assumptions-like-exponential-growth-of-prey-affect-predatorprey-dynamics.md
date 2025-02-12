@@ -2,8 +2,10 @@
 _schema: default
 id: 166123
 date: 2025-01-29
-title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
-article_title: How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+title: >-
+    How do model assumptions like exponential growth of prey affect predator-prey dynamics?
+article_title: >-
+    How do model assumptions like exponential growth of prey affect predator-prey dynamics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-model-assumptions-like-exponential-growth-of-prey-affect-preda
 url: /learn/biology/questions/how-do-model-assumptions-like-exponential-growth-of-prey-affect-predatorprey-dynamics
 score: -1.0
 related_article1:
-    id: 166119
-    title: How can mathematical models represent host-parasite interactions?
+    id: 166132
+    title: >-
+        How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
     subject: Biology
-    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
 related_article2:
-    id: 166127
-    title: How do parasites adapt to host defenses in coevolutionary dynamics?
+    id: 166124
+    title: >-
+        What conditions can lead to host extinction in population growth models?
     subject: Biology
-    url: /learn/biology/questions/how-do-parasites-adapt-to-host-defenses-in-coevolutionary-dynamics
+    url: /learn/biology/questions/what-conditions-can-lead-to-host-extinction-in-population-growth-models
 related_article3:
-    id: 166119
-    title: How can mathematical models represent host-parasite interactions?
+    id: 166130
+    title: >-
+        How does carrying capacity influence host and parasite populations in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
 related_article4:
-    id: 166119
-    title: How can mathematical models represent host-parasite interactions?
+    id: 166130
+    title: >-
+        How does carrying capacity influence host and parasite populations in ecosystems?
     subject: Biology
-    url: /learn/biology/questions/how-can-mathematical-models-represent-hostparasite-interactions
+    url: /learn/biology/questions/how-does-carrying-capacity-influence-host-and-parasite-populations-in-ecosystems
 related_article5:
-    id: 166129
-    title: What role does carrying capacity play in mathematical models of ecology?
+    id: 166132
+    title: >-
+        How does non-lethal parasitism impact host fitness and contribute to ecosystem stability?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-carrying-capacity-play-in-mathematical-models-of-ecology
+    url: /learn/biology/questions/how-does-nonlethal-parasitism-impact-host-fitness-and-contribute-to-ecosystem-stability
 ---
 
 &nbsp;

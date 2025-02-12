@@ -2,8 +2,10 @@
 _schema: default
 id: 164657
 date: 2025-01-28
-title: What causes cortical blindness and how does it relate to the phenomenon of blindsight?
-article_title: What causes cortical blindness and how does it relate to the phenomenon of blindsight?
+title: >-
+    What causes cortical blindness and how does it relate to the phenomenon of blindsight?
+article_title: >-
+    What causes cortical blindness and how does it relate to the phenomenon of blindsight?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-causes-cortical-blindness-and-how-does-it-relate-to-the-phenomen
 url: /learn/psychology/questions/what-causes-cortical-blindness-and-how-does-it-relate-to-the-phenomenon-of-blindsight
 score: -1.0
 related_article1:
-    id: 164656
-    title: What are the characteristics of the somatosensory map and how does it compare to visual and auditory maps?
+    id: 164646
+    title: >-
+        What is the role of the nose in the organization of visual pathways?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-the-somatosensory-map-and-how-does-it-compare-to-visual-and-auditory-maps
+    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
 related_article2:
-    id: 164646
-    title: What is the role of the nose in the organization of visual pathways?
+    id: 164654
+    title: >-
+        What is the portable magnification factor and why is it important in visual perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+    url: /learn/psychology/questions/what-is-the-portable-magnification-factor-and-why-is-it-important-in-visual-perception
 related_article3:
-    id: 164658
-    title: How is the auditory cortex organized in terms of pitch and how does it compare to the visual cortex?
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-the-auditory-cortex-organized-in-terms-of-pitch-and-how-does-it-compare-to-the-visual-cortex
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 related_article4:
-    id: 164646
-    title: What is the role of the nose in the organization of visual pathways?
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-nose-in-the-organization-of-visual-pathways
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 related_article5:
-    id: 164653
-    title: How do the tectopulvinar and geniculostriate pathways contribute to blindsight?
+    id: 164648
+    title: >-
+        What are the primary functions of the occipital lobe in visual processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-the-tectopulvinar-and-geniculostriate-pathways-contribute-to-blindsight
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-occipital-lobe-in-visual-processing
 ---
 
 &nbsp;

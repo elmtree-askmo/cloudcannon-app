@@ -2,8 +2,10 @@
 _schema: default
 id: 163183
 date: 2025-01-26
-title: Why is risk stratification important in clinical decision making, and how does it inform management decisions?
-article_title: Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+title: >-
+    Why is risk stratification important in clinical decision making, and how does it inform management decisions?
+article_title: >-
+    Why is risk stratification important in clinical decision making, and how does it inform management decisions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-risk-stratification-important-in-clinical-decision-making-and-
 url: /learn/medicine/questions/why-is-risk-stratification-important-in-clinical-decision-making-and-how-does-it-inform-management-decisions
 score: -1.0
 related_article1:
-    id: 163178
-    title: What are the limitations of risk prediction tools like the Framingham Risk Score in terms of non-causal risk factors and population calibration?
-    subject: Medicine
-    url: /learn/medicine/questions/what-are-the-limitations-of-risk-prediction-tools-like-the-framingham-risk-score-in-terms-of-noncausal-risk-factors-and-population-calibration
-related_article2:
-    id: 163182
-    title: How can sources of bias and conflict of interest affect clinical guidelines, and what are some red flags to watch for?
-    subject: Medicine
-    url: /learn/medicine/questions/how-can-sources-of-bias-and-conflict-of-interest-affect-clinical-guidelines-and-what-are-some-red-flags-to-watch-for
-related_article3:
     id: 163185
-    title: What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
+    title: >-
+        What are the considerations in balancing thromboembolism and bleeding risks in anticoagulation therapy?
     subject: Medicine
     url: /learn/medicine/questions/what-are-the-considerations-in-balancing-thromboembolism-and-bleeding-risks-in-anticoagulation-therapy
+related_article2:
+    id: 163189
+    title: >-
+        What are some potential influences of conflict of interest on clinical guidelines, and how can they be identified?
+    subject: Medicine
+    url: /learn/medicine/questions/what-are-some-potential-influences-of-conflict-of-interest-on-clinical-guidelines-and-how-can-they-be-identified
+related_article3:
+    id: 163181
+    title: >-
+        What factors are considered in the appraisal of clinical guidelines to ensure internal and external validity?
+    subject: Medicine
+    url: /learn/medicine/questions/what-factors-are-considered-in-the-appraisal-of-clinical-guidelines-to-ensure-internal-and-external-validity
 related_article4:
-    id: 163187
-    title: What role do methodological and content experts play in the development of clinical guidelines?
+    id: 163180
+    title: >-
+        Differentiate between authority-based, evidence-based, and evidence-linked clinical guidelines.
     subject: Medicine
-    url: /learn/medicine/questions/what-role-do-methodological-and-content-experts-play-in-the-development-of-clinical-guidelines
+    url: /learn/medicine/questions/differentiate-between-authoritybased-evidencebased-and-evidencelinked-clinical-guidelines
 related_article5:
-    id: 163188
-    title: How is the quality of evidence assessed in clinical guidelines, and what systems are used for evidence grading?
+    id: 163184
+    title: >-
+        How do patient characteristics and chronic diseases impact treatment decisions in risk stratification?
     subject: Medicine
-    url: /learn/medicine/questions/how-is-the-quality-of-evidence-assessed-in-clinical-guidelines-and-what-systems-are-used-for-evidence-grading
+    url: /learn/medicine/questions/how-do-patient-characteristics-and-chronic-diseases-impact-treatment-decisions-in-risk-stratification
 ---
 
 &nbsp;

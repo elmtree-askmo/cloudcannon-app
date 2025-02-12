@@ -2,8 +2,10 @@
 _schema: default
 id: 167904
 date: 2025-02-01
-title: How do amino acids contribute to protein structure and function?
-article_title: How do amino acids contribute to protein structure and function?
+title: >-
+    How do amino acids contribute to protein structure and function?
+article_title: >-
+    How do amino acids contribute to protein structure and function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-amino-acids-contribute-to-protein-structure-and-function.md
 url: /learn/education-studies/questions/how-do-amino-acids-contribute-to-protein-structure-and-function
 score: -1.0
 related_article1:
+    id: 167908
+    title: >-
+        What is the role of concept maps in organizing genetic information?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-concept-maps-in-organizing-genetic-information
+related_article2:
+    id: 167899
+    title: >-
+        Explain the process of meiosis and its significance in genetic variation.
+    subject: Education Studies
+    url: /learn/education-studies/questions/explain-the-process-of-meiosis-and-its-significance-in-genetic-variation
+related_article3:
+    id: 167896
+    title: >-
+        What are the key chromosomal abnormalities associated with Down Syndrome?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-chromosomal-abnormalities-associated-with-down-syndrome
+related_article4:
+    id: 167894
+    title: >-
+        What are the main types of genetic variation and how do they differ?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-types-of-genetic-variation-and-how-do-they-differ
+related_article5:
     id: 167910
-    title: What are the ethical considerations in genetic disease research?
+    title: >-
+        What are the ethical considerations in genetic disease research?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
-related_article2:
-    id: 167898
-    title: Describe the stages of mitosis and its role in cellular growth.
-    subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-stages-of-mitosis-and-its-role-in-cellular-growth
-related_article3:
-    id: 167907
-    title: Explain Mendelian inheritance and the significance of dihybrid crosses.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-mendelian-inheritance-and-the-significance-of-dihybrid-crosses
-related_article4:
-    id: 167905
-    title: What is the genetic cause of cystic fibrosis and how is it treated?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-cause-of-cystic-fibrosis-and-how-is-it-treated
-related_article5:
-    id: 167905
-    title: What is the genetic cause of cystic fibrosis and how is it treated?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-cause-of-cystic-fibrosis-and-how-is-it-treated
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169104
 date: 2025-02-04
-title: What challenges do military training and education face in institutional conflicts?
-article_title: What challenges do military training and education face in institutional conflicts?
+title: >-
+    What challenges do military training and education face in institutional conflicts?
+article_title: >-
+    What challenges do military training and education face in institutional conflicts?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-challenges-do-military-training-and-education-face-in-institutio
 url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
 score: 8.5
 related_article1:
+    id: 169083
+    title: >-
+        How do swarming tactics differ from traditional military tactics in urban warfare?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-swarming-tactics-differ-from-traditional-military-tactics-in-urban-warfare
+related_article2:
+    id: 169089
+    title: >-
+        How does post-modern theory influence spatial interpretation in architectural theory?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-does-postmodern-theory-influence-spatial-interpretation-in-architectural-theory
+related_article3:
     id: 169087
-    title: Describe the relationship between military architecture and the architectural impact of conflict.
+    title: >-
+        Describe the relationship between military architecture and the architectural impact of conflict.
     subject: History of the World
     url: /learn/history-of-the-world/questions/describe-the-relationship-between-military-architecture-and-the-architectural-impact-of-conflict
-related_article2:
-    id: 169096
-    title: Discuss the ethical implications of warfare in contemporary military doctrine.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/discuss-the-ethical-implications-of-warfare-in-contemporary-military-doctrine
-related_article3:
-    id: 169101
-    title: How does geopolitical architecture affect urban infrastructure analysis?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-does-geopolitical-architecture-affect-urban-infrastructure-analysis
 related_article4:
-    id: 169092
-    title: In what ways does tactical innovation impact military tactics?
+    id: 169095
+    title: >-
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-does-tactical-innovation-impact-military-tactics
+    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 related_article5:
-    id: 169088
-    title: What is the significance of geopolitical architecture in the military-architectural relationship?
+    id: 169086
+    title: >-
+        How does tactical innovation contribute to non-linear warfare?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
+    url: /learn/history-of-the-world/questions/how-does-tactical-innovation-contribute-to-nonlinear-warfare
 ---
 
 &nbsp;

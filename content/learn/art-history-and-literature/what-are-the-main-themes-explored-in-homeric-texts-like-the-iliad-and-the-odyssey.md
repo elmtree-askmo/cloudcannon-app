@@ -2,8 +2,10 @@
 _schema: default
 id: 164007
 date: 2025-01-28
-title: What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
-article_title: What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
+title: >-
+    What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
+article_title: >-
+    What are the main themes explored in Homeric texts like the Iliad and the Odyssey?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/art-history-and-literature/questions/what-are-the-main-themes-explor
 score: 9.0
 related_article1:
     id: 164010
-    title: How do myths help in understanding human existence and religious practices?
+    title: >-
+        How do myths help in understanding human existence and religious practices?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-do-myths-help-in-understanding-human-existence-and-religious-practices
 related_article2:
-    id: 164002
-    title: What is the historical context in which Herodotus wrote his histories?
+    id: 163996
+    title: >-
+        What were the key developments during the Archaic Period in Classical Studies?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
+    url: /learn/art-history-and-literature/questions/what-were-the-key-developments-during-the-archaic-period-in-classical-studies
 related_article3:
     id: 164001
-    title: How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
+    title: >-
+        How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-ovids-depiction-of-the-golden-age-differ-from-hesiods
 related_article4:
-    id: 164001
-    title: How does Ovid’s depiction of the Golden Age differ from Hesiod’s?
+    id: 164002
+    title: >-
+        What is the historical context in which Herodotus wrote his histories?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-does-ovids-depiction-of-the-golden-age-differ-from-hesiods
+    url: /learn/art-history-and-literature/questions/what-is-the-historical-context-in-which-herodotus-wrote-his-histories
 related_article5:
-    id: 163999
-    title: Describe the characteristics and significance of the Golden Age in Hesiod’s Five Ages of Man.
+    id: 163998
+    title: >-
+        What significant event marked the transition from the Hellenistic Period to the Roman Period?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/describe-the-characteristics-and-significance-of-the-golden-age-in-hesiods-five-ages-of-man
+    url: /learn/art-history-and-literature/questions/what-significant-event-marked-the-transition-from-the-hellenistic-period-to-the-roman-period
 ---
 
 &nbsp;

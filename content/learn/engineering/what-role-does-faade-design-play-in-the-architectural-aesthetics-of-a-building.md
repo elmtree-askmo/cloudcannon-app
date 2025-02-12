@@ -2,8 +2,10 @@
 _schema: default
 id: 169420
 date: 2025-02-05
-title: What role does façade design play in the architectural aesthetics of a building?
-article_title: What role does façade design play in the architectural aesthetics of a building?
+title: >-
+    What role does façade design play in the architectural aesthetics of a building?
+article_title: >-
+    What role does façade design play in the architectural aesthetics of a building?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-faade-design-play-in-the-architectural-aesthetics-of-a
 url: /learn/engineering/questions/what-role-does-faade-design-play-in-the-architectural-aesthetics-of-a-building
 score: -1.0
 related_article1:
-    id: 169422
-    title: What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
-related_article2:
-    id: 169422
-    title: What is the concept behind the rhythmic façade design, and how does it incorporate gardens and greenery?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-the-concept-behind-the-rhythmic-faade-design-and-how-does-it-incorporate-gardens-and-greenery
-related_article3:
     id: 169421
-    title: How is natural light utilized in the interior design of customer spaces and employee facilities?
+    title: >-
+        How is natural light utilized in the interior design of customer spaces and employee facilities?
     subject: Engineering
     url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
-related_article4:
+related_article2:
     id: 169427
-    title: How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
+    title: >-
+        How does the 'Melody of the Rainbow' concept reflect architectural innovation through the use of color and space?
     subject: Engineering
     url: /learn/engineering/questions/how-does-the-melody-of-the-rainbow-concept-reflect-architectural-innovation-through-the-use-of-color-and-space
-related_article5:
-    id: 169418
-    title: What are the key design elements of the Sugamo Shinkin Bank that enhance customer experience and atmosphere?
+related_article3:
+    id: 169424
+    title: >-
+        What are the benefits of integrating gardens and green spaces into environmental design, and how do they affect urban aesthetics?
     subject: Engineering
-    url: /learn/engineering/questions/what-are-the-key-design-elements-of-the-sugamo-shinkin-bank-that-enhance-customer-experience-and-atmosphere
+    url: /learn/engineering/questions/what-are-the-benefits-of-integrating-gardens-and-green-spaces-into-environmental-design-and-how-do-they-affect-urban-aesthetics
+related_article4:
+    id: 169429
+    title: >-
+        How do architectural awards for bank architecture impact the architectural community and recognition of design excellence?
+    subject: Engineering
+    url: /learn/engineering/questions/how-do-architectural-awards-for-bank-architecture-impact-the-architectural-community-and-recognition-of-design-excellence
+related_article5:
+    id: 169421
+    title: >-
+        How is natural light utilized in the interior design of customer spaces and employee facilities?
+    subject: Engineering
+    url: /learn/engineering/questions/how-is-natural-light-utilized-in-the-interior-design-of-customer-spaces-and-employee-facilities
 ---
 
 &nbsp;

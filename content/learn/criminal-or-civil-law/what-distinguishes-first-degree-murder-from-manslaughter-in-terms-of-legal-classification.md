@@ -2,8 +2,10 @@
 _schema: default
 id: 162177
 date: 2025-01-25
-title: What distinguishes first degree murder from manslaughter in terms of legal classification?
-article_title: What distinguishes first degree murder from manslaughter in terms of legal classification?
+title: >-
+    What distinguishes first degree murder from manslaughter in terms of legal classification?
+article_title: >-
+    What distinguishes first degree murder from manslaughter in terms of legal classification?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-
 url: /learn/criminal-or-civil-law/questions/what-distinguishes-first-degree-murder-from-manslaughter-in-terms-of-legal-classification
 score: -1.0
 related_article1:
-    id: 162197
-    title: What are the foreseeable risks associated with organizing events in terms of event liability?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-foreseeable-risks-associated-with-organizing-events-in-terms-of-event-liability
-related_article2:
-    id: 162166
-    title: What are the key medical indicators used to determine the cause of death?
-    subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-key-medical-indicators-used-to-determine-the-cause-of-death
-related_article3:
     id: 162184
-    title: How do firearm laws influence police conduct regarding the use of force?
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
     subject: Criminal or Civil Law
     url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
+related_article2:
+    id: 162184
+    title: >-
+        How do firearm laws influence police conduct regarding the use of force?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-do-firearm-laws-influence-police-conduct-regarding-the-use-of-force
+related_article3:
+    id: 162174
+    title: >-
+        How does foreseeability impact legal responsibility in criminal cases?
+    subject: Criminal or Civil Law
+    url: /learn/criminal-or-civil-law/questions/how-does-foreseeability-impact-legal-responsibility-in-criminal-cases
 related_article4:
-    id: 162197
-    title: What are the foreseeable risks associated with organizing events in terms of event liability?
+    id: 162190
+    title: >-
+        Explain the concept of willful blindness in the context of possession laws.
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-are-the-foreseeable-risks-associated-with-organizing-events-in-terms-of-event-liability
+    url: /learn/criminal-or-civil-law/questions/explain-the-concept-of-willful-blindness-in-the-context-of-possession-laws
 related_article5:
-    id: 162182
-    title: What responsibilities do medical professionals have in impacting legal outcomes related to medical treatment?
+    id: 162173
+    title: >-
+        What is subjective recklessness and how does it differ from objective recklessness?
     subject: Criminal or Civil Law
-    url: /learn/criminal-or-civil-law/questions/what-responsibilities-do-medical-professionals-have-in-impacting-legal-outcomes-related-to-medical-treatment
+    url: /learn/criminal-or-civil-law/questions/what-is-subjective-recklessness-and-how-does-it-differ-from-objective-recklessness
 ---
 
 &nbsp;

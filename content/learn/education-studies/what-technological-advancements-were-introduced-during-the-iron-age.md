@@ -2,8 +2,10 @@
 _schema: default
 id: 168389
 date: 2025-02-03
-title: What technological advancements were introduced during the Iron Age?
-article_title: What technological advancements were introduced during the Iron Age?
+title: >-
+    What technological advancements were introduced during the Iron Age?
+article_title: >-
+    What technological advancements were introduced during the Iron Age?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-technological-advancements-were-introduced-during-the-iron-age.m
 url: /learn/education-studies/questions/what-technological-advancements-were-introduced-during-the-iron-age
 score: -1.0
 related_article1:
-    id: 168375
-    title: How do primary sources contribute to historical research, and what are their limitations?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-primary-sources-contribute-to-historical-research-and-what-are-their-limitations
-related_article2:
-    id: 168383
-    title: How did nomadic societies adapt to their environments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-nomadic-societies-adapt-to-their-environments
-related_article3:
-    id: 168390
-    title: How does genetic data help in tracing human migration patterns?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
-related_article4:
     id: 168378
-    title: How do cultural and physical anthropology differ in their study of human societies?
+    title: >-
+        How do cultural and physical anthropology differ in their study of human societies?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
-related_article5:
-    id: 168394
-    title: What can artifacts and symbolism tell us about prehistoric societies?
+related_article2:
+    id: 168384
+    title: >-
+        What were the major impacts of the development and spread of agriculture on societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
+    url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
+related_article3:
+    id: 168381
+    title: >-
+        What were the effects of glacial and interglacial periods on human evolution?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-effects-of-glacial-and-interglacial-periods-on-human-evolution
+related_article4:
+    id: 168391
+    title: >-
+        What role did kinship play in the social structures of early societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
+related_article5:
+    id: 168396
+    title: >-
+        How did technological advancements influence social structures in ancient times?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-technological-advancements-influence-social-structures-in-ancient-times
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168485
 date: 2025-02-03
-title: How does vocational education contribute to career development in architecture and construction?
-article_title: How does vocational education contribute to career development in architecture and construction?
+title: >-
+    How does vocational education contribute to career development in architecture and construction?
+article_title: >-
+    How does vocational education contribute to career development in architecture and construction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-vocational-education-contribute-to-career-development-in-arc
 url: /learn/education-studies/questions/how-does-vocational-education-contribute-to-career-development-in-architecture-and-construction
 score: -1.0
 related_article1:
-    id: 168481
-    title: What educational requirements and technical skills are necessary for a career as a wind turbine technician?
+    id: 168472
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-educational-requirements-and-technical-skills-are-necessary-for-a-career-as-a-wind-turbine-technician
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 related_article2:
-    id: 168484
-    title: What are the key components of effective safety training in the construction industry?
+    id: 168473
+    title: >-
+        How do construction careers differ in terms of work environment and job types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-effective-safety-training-in-the-construction-industry
+    url: /learn/education-studies/questions/how-do-construction-careers-differ-in-terms-of-work-environment-and-job-types
 related_article3:
-    id: 168476
-    title: Why is a high school diploma or GED important for career development in architecture and construction?
+    id: 168483
+    title: >-
+        What are the main types of mechanical systems used in construction, and how do they differ?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/what-are-the-main-types-of-mechanical-systems-used-in-construction-and-how-do-they-differ
 related_article4:
-    id: 168481
-    title: What educational requirements and technical skills are necessary for a career as a wind turbine technician?
+    id: 168472
+    title: >-
+        What are the primary responsibilities of architects in the design and planning process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-educational-requirements-and-technical-skills-are-necessary-for-a-career-as-a-wind-turbine-technician
+    url: /learn/education-studies/questions/what-are-the-primary-responsibilities-of-architects-in-the-design-and-planning-process
 related_article5:
-    id: 168476
-    title: Why is a high school diploma or GED important for career development in architecture and construction?
+    id: 168479
+    title: >-
+        How do zoning laws impact construction projects and what legal considerations must be taken into account?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-a-high-school-diploma-or-ged-important-for-career-development-in-architecture-and-construction
+    url: /learn/education-studies/questions/how-do-zoning-laws-impact-construction-projects-and-what-legal-considerations-must-be-taken-into-account
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160012
 date: 2025-01-23
-title: How did technological advancements during the Industrial Revolution influence modern art?
-article_title: How did technological advancements during the Industrial Revolution influence modern art?
+title: >-
+    How did technological advancements during the Industrial Revolution influence modern art?
+article_title: >-
+    How did technological advancements during the Industrial Revolution influence modern art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-technological-advancements-during-the-industrial-revolution-i
 url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
 score: -1.0
 related_article1:
+    id: 159746
+    title: >-
+        How did Victorian society influence the representation of gender in art?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+related_article2:
     id: 159751
-    title: How did modernism emerge as a significant movement in art, and what were its global influences?
+    title: >-
+        How did modernism emerge as a significant movement in art, and what were its global influences?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-modernism-emerge-as-a-significant-movement-in-art-and-what-were-its-global-influences
-related_article2:
-    id: 160023
-    title: In what ways did the transition from traditional to modern art impact the role of salons and academies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-did-the-transition-from-traditional-to-modern-art-impact-the-role-of-salons-and-academies
 related_article3:
-    id: 159815
-    title: What are the key components of formal analysis when visually analyzing artworks?
+    id: 159755
+    title: >-
+        How can contextual analysis enhance the understanding of an artwork's meaning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-formal-analysis-when-visually-analyzing-artworks
+    url: /learn/education-studies/questions/how-can-contextual-analysis-enhance-the-understanding-of-an-artworks-meaning
 related_article4:
-    id: 159748
-    title: What innovations in the use of light and color were introduced during the development of new artistic techniques?
+    id: 159809
+    title: >-
+        What innovations in the use of light and color were introduced during the development of new artistic techniques?
     subject: Education Studies
     url: /learn/education-studies/questions/what-innovations-in-the-use-of-light-and-color-were-introduced-during-the-development-of-new-artistic-techniques
 related_article5:
-    id: 160021
-    title: How did the Industrial Revolution contribute to the evolution of visual culture?
+    id: 160019
+    title: >-
+        What are the defining features of Post-Impressionism, and how did it build on Impressionism?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
+    url: /learn/education-studies/questions/what-are-the-defining-features-of-postimpressionism-and-how-did-it-build-on-impressionism
 ---
 
 &nbsp;

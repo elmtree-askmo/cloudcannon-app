@@ -2,8 +2,10 @@
 _schema: default
 id: 162570
 date: 2025-01-25
-title: What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
-article_title: What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
+title: >-
+    What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
+article_title: >-
+    What are the environmental benefits of a vegetarian diet in terms of resource efficiency and greenhouse gas emissions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-environmental-benefits-of-a-vegetarian-diet-in-terms-of-
 url: /learn/education-studies/questions/what-are-the-environmental-benefits-of-a-vegetarian-diet-in-terms-of-resource-efficiency-and-greenhouse-gas-emissions
 score: -1.0
 related_article1:
-    id: 162567
-    title: How does the ecological footprint of a diet relate to its environmental impact and sustainable eating practices?
+    id: 162566
+    title: >-
+        What are the key components to consider when analyzing nutrition articles for health benefits and dietary guidelines?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-relate-to-its-environmental-impact-and-sustainable-eating-practices
+    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-analyzing-nutrition-articles-for-health-benefits-and-dietary-guidelines
 related_article2:
-    id: 162557
-    title: How can an author's professional affiliations and expert credentials influence their purpose in writing?
+    id: 162562
+    title: >-
+        What are the characteristics of cause-and-effect and compare-and-contrast text structures?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-an-authors-professional-affiliations-and-expert-credentials-influence-their-purpose-in-writing
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-causeandeffect-and-compareandcontrast-text-structures
 related_article3:
-    id: 162272
-    title: What criteria should be used to evaluate an author's credibility and the quality of evidence in a text?
+    id: 162559
+    title: >-
+        How does word choice, including loaded language, impact the point of view presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-criteria-should-be-used-to-evaluate-an-authors-credibility-and-the-quality-of-evidence-in-a-text
+    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
 related_article4:
-    id: 162556
-    title: Why is understanding the author's purpose important when analyzing a text?
+    id: 162257
+    title: >-
+        How does word choice, including loaded language, impact the point of view presented in a text?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-understanding-the-authors-purpose-important-when-analyzing-a-text
+    url: /learn/education-studies/questions/how-does-word-choice-including-loaded-language-impact-the-point-of-view-presented-in-a-text
 related_article5:
-    id: 162265
-    title: How does the ecological footprint of a diet impact environmental sustainability?
+    id: 162273
+    title: >-
+        How can balancing different perspectives and recognizing limitations lead to more informed judgments when evaluating texts?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-ecological-footprint-of-a-diet-impact-environmental-sustainability
+    url: /learn/education-studies/questions/how-can-balancing-different-perspectives-and-recognizing-limitations-lead-to-more-informed-judgments-when-evaluating-texts
 ---
 
 &nbsp;

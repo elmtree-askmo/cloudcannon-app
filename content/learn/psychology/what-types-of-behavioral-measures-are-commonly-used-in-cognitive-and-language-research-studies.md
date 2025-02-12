@@ -2,8 +2,10 @@
 _schema: default
 id: 164904
 date: 2025-01-28
-title: What types of behavioral measures are commonly used in cognitive and language research studies?
-article_title: What types of behavioral measures are commonly used in cognitive and language research studies?
+title: >-
+    What types of behavioral measures are commonly used in cognitive and language research studies?
+article_title: >-
+    What types of behavioral measures are commonly used in cognitive and language research studies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-
 url: /learn/psychology/questions/what-types-of-behavioral-measures-are-commonly-used-in-cognitive-and-language-research-studies
 score: -1.0
 related_article1:
-    id: 164885
-    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    id: 164891
+    title: >-
+        What are the primary functions of EEG and ERP in measuring brain activity?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-eeg-and-erp-in-measuring-brain-activity
 related_article2:
-    id: 164885
-    title: What are the advantages of TMS over traditional neuropsychology methods in studying brain functions?
+    id: 164888
+    title: >-
+        How does a within-subject design help reduce statistical noise in research studies?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-advantages-of-tms-over-traditional-neuropsychology-methods-in-studying-brain-functions
+    url: /learn/psychology/questions/how-does-a-withinsubject-design-help-reduce-statistical-noise-in-research-studies
 related_article3:
+    id: 164889
+    title: >-
+        What is a key advantage of using a between-subject design in clinical trials?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-a-key-advantage-of-using-a-betweensubject-design-in-clinical-trials
+related_article4:
+    id: 164891
+    title: >-
+        What are the primary functions of EEG and ERP in measuring brain activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-eeg-and-erp-in-measuring-brain-activity
+related_article5:
     id: 164895
-    title: How does the brain process auditory information differently in the left and right hemispheres?
+    title: >-
+        How does the brain process auditory information differently in the left and right hemispheres?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-brain-process-auditory-information-differently-in-the-left-and-right-hemispheres
-related_article4:
-    id: 164892
-    title: What role does Broca's area play in language production, and what are the effects of its damage?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-brocas-area-play-in-language-production-and-what-are-the-effects-of-its-damage
-related_article5:
-    id: 164898
-    title: What strategies can be used to reduce statistical noise in research studies?
-    subject: Psychology
-    url: /learn/psychology/questions/what-strategies-can-be-used-to-reduce-statistical-noise-in-research-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168384
 date: 2025-02-03
-title: What were the major impacts of the development and spread of agriculture on societies?
-article_title: What were the major impacts of the development and spread of agriculture on societies?
+title: >-
+    What were the major impacts of the development and spread of agriculture on societies?
+article_title: >-
+    What were the major impacts of the development and spread of agriculture on societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-impacts-of-the-development-and-spread-of-agricult
 url: /learn/education-studies/questions/what-were-the-major-impacts-of-the-development-and-spread-of-agriculture-on-societies
 score: -1.0
 related_article1:
-    id: 168379
-    title: What are the key differences between stone tools and composite tools in tool technology?
+    id: 168390
+    title: >-
+        How does genetic data help in tracing human migration patterns?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-between-stone-tools-and-composite-tools-in-tool-technology
+    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
 related_article2:
-    id: 168377
-    title: What are the main techniques used in archaeology to uncover historical evidence?
+    id: 168387
+    title: >-
+        What were the main characteristics and tools of the Paleolithic Era?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-techniques-used-in-archaeology-to-uncover-historical-evidence
+    url: /learn/education-studies/questions/what-were-the-main-characteristics-and-tools-of-the-paleolithic-era
 related_article3:
-    id: 168388
-    title: How did the development of bronze tools influence the transition to urbanization?
+    id: 168378
+    title: >-
+        How do cultural and physical anthropology differ in their study of human societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-development-of-bronze-tools-influence-the-transition-to-urbanization
+    url: /learn/education-studies/questions/how-do-cultural-and-physical-anthropology-differ-in-their-study-of-human-societies
 related_article4:
-    id: 168389
-    title: What technological advancements were introduced during the Iron Age?
+    id: 168396
+    title: >-
+        How did technological advancements influence social structures in ancient times?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-technological-advancements-were-introduced-during-the-iron-age
+    url: /learn/education-studies/questions/how-did-technological-advancements-influence-social-structures-in-ancient-times
 related_article5:
-    id: 168374
-    title: What is the significance of prehistory in understanding human history?
+    id: 168381
+    title: >-
+        What were the effects of glacial and interglacial periods on human evolution?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-prehistory-in-understanding-human-history
+    url: /learn/education-studies/questions/what-were-the-effects-of-glacial-and-interglacial-periods-on-human-evolution
 ---
 
 &nbsp;

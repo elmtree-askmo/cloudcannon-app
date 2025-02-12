@@ -2,8 +2,10 @@
 _schema: default
 id: 169249
 date: 2025-02-04
-title: What are the requirements for conducting the quiz in-class and the use of computers?
-article_title: What are the requirements for conducting the quiz in-class and the use of computers?
+title: >-
+    What are the requirements for conducting the quiz in-class and the use of computers?
+article_title: >-
+    What are the requirements for conducting the quiz in-class and the use of computers?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-requirements-for-conducting-the-quiz-inclass-and-the-use
 url: /learn/education-studies/questions/what-are-the-requirements-for-conducting-the-quiz-inclass-and-the-use-of-computers
 score: -1.0
 related_article1:
-    id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
+    id: 169259
+    title: >-
+        What are the key components of the marking guidelines in the assessment criteria?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
+    url: /learn/education-studies/questions/what-are-the-key-components-of-the-marking-guidelines-in-the-assessment-criteria
 related_article2:
     id: 169248
-    title: What is the start time and duration of the quiz?
+    title: >-
+        What is the start time and duration of the quiz?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-start-time-and-duration-of-the-quiz
 related_article3:
-    id: 169256
-    title: What are the requirements for completeness and support in short essay answers?
+    id: 169263
+    title: >-
+        What identification is required for the test, and what items are prohibited?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-completeness-and-support-in-short-essay-answers
+    url: /learn/education-studies/questions/what-identification-is-required-for-the-test-and-what-items-are-prohibited
 related_article4:
-    id: 169258
-    title: Which areas of course content are emphasized in the quiz, and which are excluded?
+    id: 169252
+    title: >-
+        What is the focus of the content in the multiple choice questions?
     subject: Education Studies
-    url: /learn/education-studies/questions/which-areas-of-course-content-are-emphasized-in-the-quiz-and-which-are-excluded
+    url: /learn/education-studies/questions/what-is-the-focus-of-the-content-in-the-multiple-choice-questions
 related_article5:
     id: 169254
-    title: What are the two formats for answering definition questions, and how do they differ?
+    title: >-
+        What are the two formats for answering definition questions, and how do they differ?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-two-formats-for-answering-definition-questions-and-how-do-they-differ
 ---

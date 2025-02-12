@@ -2,8 +2,10 @@
 _schema: default
 id: 171002
 date: 2025-02-07
-title: How does parental investment impact offspring survival and resource allocation trade-offs?
-article_title: How does parental investment impact offspring survival and resource allocation trade-offs?
+title: >-
+    How does parental investment impact offspring survival and resource allocation trade-offs?
+article_title: >-
+    How does parental investment impact offspring survival and resource allocation trade-offs?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-s
 score: -1.0
 related_article1:
     id: 171000
-    title: How does mate choice influence sexual selection and competition among males?
+    title: >-
+        How does mate choice influence sexual selection and competition among males?
     subject: Psychology
     url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
 related_article2:
-    id: 171016
-    title: What role does behavior play in evolutionary strategies for survival and reproductive success?
+    id: 170995
+    title: >-
+        What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
 related_article3:
-    id: 171015
-    title: How do animals adapt their behavior in response to environmental pressures in behavioral ecology?
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-animals-adapt-their-behavior-in-response-to-environmental-pressures-in-behavioral-ecology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
 related_article4:
-    id: 170997
-    title: What role do computer simulations play in understanding real-world cooperation strategies?
+    id: 171012
+    title: >-
+        How does data analysis contribute to understanding behavior in biological systems?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
+    url: /learn/psychology/questions/how-does-data-analysis-contribute-to-understanding-behavior-in-biological-systems
 related_article5:
-    id: 171005
-    title: What are the different types of polygyny, and can you provide examples from nature?
+    id: 170996
+    title: >-
+        How do forgiveness and provocative strategies differ in game theory applications?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+    url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
 ---
 
 &nbsp;

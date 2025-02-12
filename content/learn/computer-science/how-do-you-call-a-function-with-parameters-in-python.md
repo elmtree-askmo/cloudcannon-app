@@ -2,8 +2,10 @@
 _schema: default
 id: 168590
 date: 2025-02-03
-title: How do you call a function with parameters in Python?
-article_title: How do you call a function with parameters in Python?
+title: >-
+    How do you call a function with parameters in Python?
+article_title: >-
+    How do you call a function with parameters in Python?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-you-call-a-function-with-parameters-in-python.md
 url: /learn/computer-science/questions/how-do-you-call-a-function-with-parameters-in-python
 score: -1.0
 related_article1:
-    id: 168598
-    title: What is the difference between positional and keyword parameters in Python functions?
+    id: 168591
+    title: >-
+        Name two common functions available in Python's math module.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
+    url: /learn/computer-science/questions/name-two-common-functions-available-in-pythons-math-module
 related_article2:
-    id: 168592
-    title: How can you use the math module to calculate the square root of a number?
+    id: 168609
+    title: >-
+        How does inheritance contribute to reusability in object-oriented programming?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-can-you-use-the-math-module-to-calculate-the-square-root-of-a-number
+    url: /learn/computer-science/questions/how-does-inheritance-contribute-to-reusability-in-objectoriented-programming
 related_article3:
-    id: 168587
-    title: What are the benefits of using functions in software development?
+    id: 168601
+    title: >-
+        How can you access a function's docstring in Python?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-using-functions-in-software-development
+    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
 related_article4:
-    id: 168598
-    title: What is the difference between positional and keyword parameters in Python functions?
+    id: 168607
+    title: >-
+        What is modular programming and how does it enhance reusability?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-positional-and-keyword-parameters-in-python-functions
+    url: /learn/computer-science/questions/what-is-modular-programming-and-how-does-it-enhance-reusability
+related_article5:
+    id: 168601
+    title: >-
+        How can you access a function's docstring in Python?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-access-a-functions-docstring-in-python
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167088
 date: 2025-01-31
-title: Why are functional groups important in biological molecules?
-article_title: Why are functional groups important in biological molecules?
+title: >-
+    Why are functional groups important in biological molecules?
+article_title: >-
+    Why are functional groups important in biological molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-functional-groups-important-in-biological-molecules.md
 url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
 score: -1.0
 related_article1:
-    id: 167101
-    title: What are the common examples of disaccharides and their functions?
+    id: 167111
+    title: >-
+        What types of molecules provide structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-common-examples-of-disaccharides-and-their-functions
+    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 related_article2:
-    id: 167090
-    title: How do macromolecules differ in their structural and chemical properties?
+    id: 167100
+    title: >-
+        How are monosaccharides classified based on carbon number and functional group?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
+    url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
 related_article3:
-    id: 167103
-    title: How do functional groups influence the chemical properties of molecules?
+    id: 167107
+    title: >-
+        How do proteins contribute to structural support in cells?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
+    url: /learn/health-studies/questions/how-do-proteins-contribute-to-structural-support-in-cells
 related_article4:
-    id: 167087
-    title: What are the main roles of biological molecules in cells?
+    id: 167104
+    title: >-
+        What is the general structure of an amino acid and how do side chains affect their properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-roles-of-biological-molecules-in-cells
+    url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
 related_article5:
-    id: 167090
-    title: How do macromolecules differ in their structural and chemical properties?
+    id: 167104
+    title: >-
+        What is the general structure of an amino acid and how do side chains affect their properties?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
+    url: /learn/health-studies/questions/what-is-the-general-structure-of-an-amino-acid-and-how-do-side-chains-affect-their-properties
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164239
 date: 2025-01-28
-title: Why are dependent variables crucial in experimental research?
-article_title: Why are dependent variables crucial in experimental research?
+title: >-
+    Why are dependent variables crucial in experimental research?
+article_title: >-
+    Why are dependent variables crucial in experimental research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-dependent-variables-crucial-in-experimental-research.md
 url: /learn/psychology/questions/why-are-dependent-variables-crucial-in-experimental-research
 score: -1.0
 related_article1:
-    id: 164243
-    title: What are the primary types of cognitive processes studied in neuroscience?
+    id: 164245
+    title: >-
+        What is neural plasticity and how does it affect cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
+    url: /learn/psychology/questions/what-is-neural-plasticity-and-how-does-it-affect-cognitive-processes
 related_article2:
-    id: 164238
-    title: How do association areas in the brain contribute to cognitive processes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-association-areas-in-the-brain-contribute-to-cognitive-processes
-related_article3:
-    id: 164235
-    title: What role does fMRI play in cognitive neuroscience research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
-related_article4:
-    id: 164235
-    title: What role does fMRI play in cognitive neuroscience research?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-does-fmri-play-in-cognitive-neuroscience-research
-related_article5:
     id: 164243
-    title: What are the primary types of cognitive processes studied in neuroscience?
+    title: >-
+        What are the primary types of cognitive processes studied in neuroscience?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-primary-types-of-cognitive-processes-studied-in-neuroscience
+related_article3:
+    id: 164241
+    title: >-
+        What is neuronal firing and how does it relate to neural activity?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-neuronal-firing-and-how-does-it-relate-to-neural-activity
+related_article4:
+    id: 164237
+    title: >-
+        What is the function of the motor cortex in the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-function-of-the-motor-cortex-in-the-brain
+related_article5:
+    id: 164236
+    title: >-
+        Which major brain region is primarily responsible for higher cognitive functions such as decision making and problem-solving?
+    subject: Psychology
+    url: /learn/psychology/questions/which-major-brain-region-is-primarily-responsible-for-higher-cognitive-functions-such-as-decision-making-and-problemsolving
 ---
 
 &nbsp;

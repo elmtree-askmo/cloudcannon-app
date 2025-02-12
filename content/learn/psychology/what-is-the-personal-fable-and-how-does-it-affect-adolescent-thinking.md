@@ -2,8 +2,10 @@
 _schema: default
 id: 168000
 date: 2025-02-02
-title: What is the personal fable, and how does it affect adolescent thinking?
-article_title: What is the personal fable, and how does it affect adolescent thinking?
+title: >-
+    What is the personal fable, and how does it affect adolescent thinking?
+article_title: >-
+    What is the personal fable, and how does it affect adolescent thinking?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
 url: /learn/psychology/questions/what-is-the-personal-fable-and-how-does-it-affect-adolescent-thinking
 score: -1.0
 related_article1:
-    id: 168001
-    title: List and briefly describe the stages of cognitive development according to Piaget.
+    id: 168007
+    title: >-
+        How does adult influence contribute to cognitive development?
     subject: Psychology
-    url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
+    url: /learn/psychology/questions/how-does-adult-influence-contribute-to-cognitive-development
 related_article2:
     id: 168005
-    title: How do social interactions influence cognitive development according to Piaget?
+    title: >-
+        How do social interactions influence cognitive development according to Piaget?
     subject: Psychology
     url: /learn/psychology/questions/how-do-social-interactions-influence-cognitive-development-according-to-piaget
 related_article3:
-    id: 167998
-    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    id: 168008
+    title: >-
+        Compare Vygotsky's Social Development Theory with Piaget's theory of cognitive development.
     subject: Psychology
-    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+    url: /learn/psychology/questions/compare-vygotskys-social-development-theory-with-piagets-theory-of-cognitive-development
 related_article4:
-    id: 167994
-    title: What are the key characteristics of the formal operational stage in Piaget's theory?
+    id: 167996
+    title: >-
+        What is hypothetical deductive reasoning, and how is it developed in the formal operational stage?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
+    url: /learn/psychology/questions/what-is-hypothetical-deductive-reasoning-and-how-is-it-developed-in-the-formal-operational-stage
 related_article5:
-    id: 168006
-    title: What role do peers play in cognitive development?
+    id: 168004
+    title: >-
+        Explain the concept of conservation skills and their role in Piaget's theory.
     subject: Psychology
-    url: /learn/psychology/questions/what-role-do-peers-play-in-cognitive-development
+    url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-their-role-in-piagets-theory
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169910
 date: 2025-02-05
-title: How do inflation and interest rates serve as economic indicators?
-article_title: How do inflation and interest rates serve as economic indicators?
+title: >-
+    How do inflation and interest rates serve as economic indicators?
+article_title: >-
+    How do inflation and interest rates serve as economic indicators?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/economics/questions/how-do-inflation-and-interest-rates-serve-as-eco
 score: -1.0
 related_article1:
     id: 169915
-    title: What role does innovation play in economic development and improving quality of life?
+    title: >-
+        What role does innovation play in economic development and improving quality of life?
     subject: Economics
     url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
 related_article2:
-    id: 169909
-    title: What is the role of collective bargaining in labor relations?
+    id: 169907
+    title: >-
+        What are the fundamental differences between capitalism and socialism as economic systems?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+    url: /learn/economics/questions/what-are-the-fundamental-differences-between-capitalism-and-socialism-as-economic-systems
 related_article3:
-    id: 169915
-    title: What role does innovation play in economic development and improving quality of life?
+    id: 169911
+    title: >-
+        What are the primary objectives of monetary and fiscal policies in economic management?
     subject: Economics
-    url: /learn/economics/questions/what-role-does-innovation-play-in-economic-development-and-improving-quality-of-life
+    url: /learn/economics/questions/what-are-the-primary-objectives-of-monetary-and-fiscal-policies-in-economic-management
 related_article4:
-    id: 169903
-    title: What are the key aspects of economics that define its study and application?
+    id: 169913
+    title: >-
+        What is the significance of resource utilization in achieving economic sustainability?
     subject: Economics
-    url: /learn/economics/questions/what-are-the-key-aspects-of-economics-that-define-its-study-and-application
+    url: /learn/economics/questions/what-is-the-significance-of-resource-utilization-in-achieving-economic-sustainability
 related_article5:
-    id: 169909
-    title: What is the role of collective bargaining in labor relations?
+    id: 169906
+    title: >-
+        How do supply and demand affect price signals and inflation in market structures?
     subject: Economics
-    url: /learn/economics/questions/what-is-the-role-of-collective-bargaining-in-labor-relations
+    url: /learn/economics/questions/how-do-supply-and-demand-affect-price-signals-and-inflation-in-market-structures
 ---
 
 &nbsp;

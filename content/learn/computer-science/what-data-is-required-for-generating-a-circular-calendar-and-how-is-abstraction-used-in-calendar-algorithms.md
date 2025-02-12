@@ -2,8 +2,10 @@
 _schema: default
 id: 160875
 date: 2025-01-24
-title: What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
-article_title: What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
+title: >-
+    What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
+article_title: >-
+    What data is required for generating a circular calendar and how is abstraction used in calendar algorithms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-data-is-required-for-generating-a-circular-calendar-and-how-is-a
 url: /learn/computer-science/questions/what-data-is-required-for-generating-a-circular-calendar-and-how-is-abstraction-used-in-calendar-algorithms
 score: -1.0
 related_article1:
-    id: 160695
-    title: Describe the divide and conquer strategy in algorithm development.
+    id: 161032
+    title: >-
+        How do day of the week calculation algorithms utilize reference dates?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-divide-and-conquer-strategy-in-algorithm-development
+    url: /learn/computer-science/questions/how-do-day-of-the-week-calculation-algorithms-utilize-reference-dates
 related_article2:
-    id: 161012
-    title: How does representation influence algorithm complexity?
+    id: 160870
+    title: >-
+        What are the challenges in proving software solutions compared to testing them?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-representation-influence-algorithm-complexity
+    url: /learn/computer-science/questions/what-are-the-challenges-in-proving-software-solutions-compared-to-testing-them
 related_article3:
-    id: 160866
-    title: What are associative arrays and how do they utilize non-numeric indices?
+    id: 160709
+    title: >-
+        What are the challenges associated with proving solutions in software testing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-associative-arrays-and-how-do-they-utilize-nonnumeric-indices
+    url: /learn/computer-science/questions/what-are-the-challenges-associated-with-proving-solutions-in-software-testing
 related_article4:
-    id: 160699
-    title: What are the key differences between lists and arrays in data structures?
+    id: 160764
+    title: >-
+        What is the significance of understanding the origin of problems in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-key-differences-between-lists-and-arrays-in-data-structures
+    url: /learn/computer-science/questions/what-is-the-significance-of-understanding-the-origin-of-problems-in-computational-problem-solving
 related_article5:
-    id: 161027
-    title: What constraints must be considered for binary search to be effective?
+    id: 160692
+    title: >-
+        How does transitioning from a problem to a program aid in problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-constraints-must-be-considered-for-binary-search-to-be-effective
+    url: /learn/computer-science/questions/how-does-transitioning-from-a-problem-to-a-program-aid-in-problem-solving
 ---
 
 &nbsp;

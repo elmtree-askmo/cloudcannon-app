@@ -2,8 +2,10 @@
 _schema: default
 id: 169070
 date: 2025-02-04
-title: How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
-article_title: How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+title: >-
+    How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
+article_title: >-
+    How did the UNESCO campaigns contribute to the international effort to salvage the Nubian Temples?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-unesco-campaigns-contribute-to-the-international-effort-t
 url: /learn/architecture/questions/how-did-the-unesco-campaigns-contribute-to-the-international-effort-to-salvage-the-nubian-temples
 score: -1.0
 related_article1:
-    id: 169071
-    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
-    subject: Architecture
-    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
-related_article2:
-    id: 169069
-    title: What were the main steps involved in the survey and dismantling of the Nubian Temples?
-    subject: Architecture
-    url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
-related_article3:
-    id: 169071
-    title: What is meant by 'cultural reciprocity' in the context of cultural restitution and international cooperation?
-    subject: Architecture
-    url: /learn/architecture/questions/what-is-meant-by-cultural-reciprocity-in-the-context-of-cultural-restitution-and-international-cooperation
-related_article4:
-    id: 169080
-    title: What is the concept of an open-air museum in the design of new oases?
-    subject: Architecture
-    url: /learn/architecture/questions/what-is-the-concept-of-an-openair-museum-in-the-design-of-new-oases
-related_article5:
     id: 169076
-    title: What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
+    title: >-
+        What role did UNESCO play in managing cultural heritage during the relocation of Nubian Temples?
     subject: Architecture
     url: /learn/architecture/questions/what-role-did-unesco-play-in-managing-cultural-heritage-during-the-relocation-of-nubian-temples
+related_article2:
+    id: 169072
+    title: >-
+        How did the Aswan High Dam impact the mobility of monuments?
+    subject: Architecture
+    url: /learn/architecture/questions/how-did-the-aswan-high-dam-impact-the-mobility-of-monuments
+related_article3:
+    id: 169081
+    title: >-
+        How does the bureaucratization of world politics affect cultural neutrality and architectural specificity?
+    subject: Architecture
+    url: /learn/architecture/questions/how-does-the-bureaucratization-of-world-politics-affect-cultural-neutrality-and-architectural-specificity
+related_article4:
+    id: 169069
+    title: >-
+        What were the main steps involved in the survey and dismantling of the Nubian Temples?
+    subject: Architecture
+    url: /learn/architecture/questions/what-were-the-main-steps-involved-in-the-survey-and-dismantling-of-the-nubian-temples
+related_article5:
+    id: 169078
+    title: >-
+        What challenges were faced in the resettlement of Nubian populations in terms of cultural identity?
+    subject: Architecture
+    url: /learn/architecture/questions/what-challenges-were-faced-in-the-resettlement-of-nubian-populations-in-terms-of-cultural-identity
 ---
 
 &nbsp;

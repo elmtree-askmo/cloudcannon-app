@@ -2,8 +2,10 @@
 _schema: default
 id: 167163
 date: 2025-01-31
-title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
-article_title: How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+title: >-
+    How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
+article_title: >-
+    How does endocytosis differ from exocytosis in terms of vesicle formation and substance transport?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-forma
 url: /learn/biology/questions/how-does-endocytosis-differ-from-exocytosis-in-terms-of-vesicle-formation-and-substance-transport
 score: -1.0
 related_article1:
-    id: 167160
-    title: Describe the function of the Na+-K+ pump in active transport.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-function-of-the-nak-pump-in-active-transport
-related_article2:
     id: 167166
-    title: Why is active transport necessary for moving substances against their concentration gradient?
+    title: >-
+        Why is active transport necessary for moving substances against their concentration gradient?
     subject: Biology
     url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+related_article2:
+    id: 167164
+    title: >-
+        What types of substances are typically transported via endocytosis?
+    subject: Biology
+    url: /learn/biology/questions/what-types-of-substances-are-typically-transported-via-endocytosis
 related_article3:
     id: 167157
-    title: How do channel proteins facilitate the movement of substances across the cell membrane?
+    title: >-
+        How do channel proteins facilitate the movement of substances across the cell membrane?
     subject: Biology
     url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
 related_article4:
-    id: 167166
-    title: Why is active transport necessary for moving substances against their concentration gradient?
+    id: 167156
+    title: >-
+        What is the main difference between simple diffusion and facilitated diffusion in passive transport?
     subject: Biology
-    url: /learn/biology/questions/why-is-active-transport-necessary-for-moving-substances-against-their-concentration-gradient
+    url: /learn/biology/questions/what-is-the-main-difference-between-simple-diffusion-and-facilitated-diffusion-in-passive-transport
 related_article5:
-    id: 167157
-    title: How do channel proteins facilitate the movement of substances across the cell membrane?
+    id: 167165
+    title: >-
+        Explain how the concentration gradient affects passive transport.
     subject: Biology
-    url: /learn/biology/questions/how-do-channel-proteins-facilitate-the-movement-of-substances-across-the-cell-membrane
+    url: /learn/biology/questions/explain-how-the-concentration-gradient-affects-passive-transport
 ---
 
 &nbsp;

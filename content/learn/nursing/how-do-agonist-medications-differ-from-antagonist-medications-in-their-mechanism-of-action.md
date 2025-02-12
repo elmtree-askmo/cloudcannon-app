@@ -2,8 +2,10 @@
 _schema: default
 id: 166465
 date: 2025-01-30
-title: How do agonist medications differ from antagonist medications in their mechanism of action?
-article_title: How do agonist medications differ from antagonist medications in their mechanism of action?
+title: >-
+    How do agonist medications differ from antagonist medications in their mechanism of action?
+article_title: >-
+    How do agonist medications differ from antagonist medications in their mechanism of action?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-agonist-medications-differ-from-antagonist-medications-in-thei
 url: /learn/nursing/questions/how-do-agonist-medications-differ-from-antagonist-medications-in-their-mechanism-of-action
 score: -1.0
 related_article1:
-    id: 166458
-    title: Why is bioavailability important in pharmacokinetics?
+    id: 166464
+    title: >-
+        What is the mechanism of action in pharmacodynamics?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-bioavailability-important-in-pharmacokinetics
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
 related_article2:
-    id: 166472
-    title: What is the focus of palliative care in pharmacotherapeutics?
+    id: 166464
+    title: >-
+        What is the mechanism of action in pharmacodynamics?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-focus-of-palliative-care-in-pharmacotherapeutics
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
 related_article3:
-    id: 166454
-    title: How do storage conditions affect the stability of pharmaceutical formulations?
+    id: 166464
+    title: >-
+        What is the mechanism of action in pharmacodynamics?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-storage-conditions-affect-the-stability-of-pharmaceutical-formulations
+    url: /learn/nursing/questions/what-is-the-mechanism-of-action-in-pharmacodynamics
 related_article4:
     id: 166467
-    title: What are the potential risks associated with drug contraindications?
+    title: >-
+        What are the potential risks associated with drug contraindications?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-potential-risks-associated-with-drug-contraindications
 related_article5:
-    id: 166463
-    title: How is the half-life of a drug calculated and why is it important in dosing?
+    id: 166456
+    title: >-
+        How does the blood-brain barrier affect drug distribution?
     subject: Nursing
-    url: /learn/nursing/questions/how-is-the-halflife-of-a-drug-calculated-and-why-is-it-important-in-dosing
+    url: /learn/nursing/questions/how-does-the-bloodbrain-barrier-affect-drug-distribution
 ---
 
 &nbsp;

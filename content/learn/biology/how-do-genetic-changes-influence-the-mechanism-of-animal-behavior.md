@@ -2,8 +2,10 @@
 _schema: default
 id: 166326
 date: 2025-01-30
-title: How do genetic changes influence the mechanism of animal behavior?
-article_title: How do genetic changes influence the mechanism of animal behavior?
+title: >-
+    How do genetic changes influence the mechanism of animal behavior?
+article_title: >-
+    How do genetic changes influence the mechanism of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-genetic-changes-influence-the-mechanism-of-animal-behavior.md
 url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
 score: -1.0
 related_article1:
-    id: 166330
-    title: What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
+    id: 166319
+    title: >-
+        What are the key characteristics that define animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
 related_article2:
-    id: 166320
-    title: How do adaptive responses in animals demonstrate problem-solving abilities?
+    id: 166334
+    title: >-
+        What is the evolutionary impact of selective pressures in predator-prey interactions?
     subject: Biology
-    url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
 related_article3:
-    id: 166330
-    title: What is phylogeny, and how does it relate to the appearance of behaviors in evolutionary history?
+    id: 166334
+    title: >-
+        What is the evolutionary impact of selective pressures in predator-prey interactions?
     subject: Biology
-    url: /learn/biology/questions/what-is-phylogeny-and-how-does-it-relate-to-the-appearance-of-behaviors-in-evolutionary-history
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
 related_article4:
-    id: 166329
-    title: How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    id: 166319
+    title: >-
+        What are the key characteristics that define animal behavior?
     subject: Biology
-    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
 related_article5:
-    id: 166328
-    title: What is ontogeny, and how does it affect the development of animal behavior over a lifetime?
+    id: 166319
+    title: >-
+        What are the key characteristics that define animal behavior?
     subject: Biology
-    url: /learn/biology/questions/what-is-ontogeny-and-how-does-it-affect-the-development-of-animal-behavior-over-a-lifetime
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-animal-behavior
 ---
 
 &nbsp;

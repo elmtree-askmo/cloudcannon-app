@@ -2,8 +2,10 @@
 _schema: default
 id: 167388
 date: 2025-01-31
-title: What is the purpose of formative assessments in the learning process?
-article_title: What is the purpose of formative assessments in the learning process?
+title: >-
+    What is the purpose of formative assessments in the learning process?
+article_title: >-
+    What is the purpose of formative assessments in the learning process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-formative-assessments-in-the-learning-process.
 url: /learn/education-studies/questions/what-is-the-purpose-of-formative-assessments-in-the-learning-process
 score: -1.0
 related_article1:
+    id: 167383
+    title: >-
+        What are the key components of pre-class preparation in the course structure?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-components-of-preclass-preparation-in-the-course-structure
+related_article2:
+    id: 167386
+    title: >-
+        What are the benefits of using problem-solving exercises as a form of active learning?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-problemsolving-exercises-as-a-form-of-active-learning
+related_article3:
     id: 167390
-    title: How do concept maps enhance retention of information?
+    title: >-
+        How do concept maps enhance retention of information?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-concept-maps-enhance-retention-of-information
-related_article2:
+related_article4:
     id: 167389
-    title: Explain the structure of a concept map and its role in organizing information.
+    title: >-
+        Explain the structure of a concept map and its role in organizing information.
     subject: Education Studies
     url: /learn/education-studies/questions/explain-the-structure-of-a-concept-map-and-its-role-in-organizing-information
-related_article3:
-    id: 167392
-    title: How can keyed learning objectives guide study focus and assessment alignment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-keyed-learning-objectives-guide-study-focus-and-assessment-alignment
-related_article4:
-    id: 167392
-    title: How can keyed learning objectives guide study focus and assessment alignment?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-keyed-learning-objectives-guide-study-focus-and-assessment-alignment
 related_article5:
-    id: 167397
-    title: How does student engagement affect performance and attendance tracking?
+    id: 167392
+    title: >-
+        How can keyed learning objectives guide study focus and assessment alignment?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-student-engagement-affect-performance-and-attendance-tracking
+    url: /learn/education-studies/questions/how-can-keyed-learning-objectives-guide-study-focus-and-assessment-alignment
 ---
 
 &nbsp;

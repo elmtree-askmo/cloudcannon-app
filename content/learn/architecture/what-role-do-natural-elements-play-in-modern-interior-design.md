@@ -2,8 +2,10 @@
 _schema: default
 id: 169405
 date: 2025-02-05
-title: What role do natural elements play in modern interior design?
-article_title: What role do natural elements play in modern interior design?
+title: >-
+    What role do natural elements play in modern interior design?
+article_title: >-
+    What role do natural elements play in modern interior design?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/architecture/questions/what-role-do-natural-elements-play-in-modern-
 score: -1.0
 related_article1:
     id: 169402
-    title: How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
+    title: >-
+        How does the Sugamo Shinkin Bank exemplify corporate identity through its architectural design?
     subject: Architecture
     url: /learn/architecture/questions/how-does-the-sugamo-shinkin-bank-exemplify-corporate-identity-through-its-architectural-design
 related_article2:
-    id: 169416
-    title: What resources are available for interior designers seeking job opportunities and professional development?
+    id: 169408
+    title: >-
+        How does the concept of 'Shikiri' reflect the blending of traditional and modern elements in Japanese design?
     subject: Architecture
-    url: /learn/architecture/questions/what-resources-are-available-for-interior-designers-seeking-job-opportunities-and-professional-development
+    url: /learn/architecture/questions/how-does-the-concept-of-shikiri-reflect-the-blending-of-traditional-and-modern-elements-in-japanese-design
 related_article3:
-    id: 169412
-    title: How does architectural design serve as a corporate identity, and what are some successful examples?
+    id: 169403
+    title: >-
+        What is Emmanuel Moureaux's approach to using color in architectural design, and how does it impact space perception?
     subject: Architecture
-    url: /learn/architecture/questions/how-does-architectural-design-serve-as-a-corporate-identity-and-what-are-some-successful-examples
+    url: /learn/architecture/questions/what-is-emmanuel-moureauxs-approach-to-using-color-in-architectural-design-and-how-does-it-impact-space-perception
 related_article4:
-    id: 169413
-    title: What are the key considerations in designing office and facility spaces to enhance functionality and aesthetics?
+    id: 169406
+    title: >-
+        How can sustainable design practices be integrated into interior design to benefit both the community and the environment?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-the-key-considerations-in-designing-office-and-facility-spaces-to-enhance-functionality-and-aesthetics
+    url: /learn/architecture/questions/how-can-sustainable-design-practices-be-integrated-into-interior-design-to-benefit-both-the-community-and-the-environment
 related_article5:
-    id: 169415
-    title: What are some major exhibitions and design weeks that focus on architecture and design?
+    id: 169411
+    title: >-
+        What are the essential components of creating a brand through architectural design?
     subject: Architecture
-    url: /learn/architecture/questions/what-are-some-major-exhibitions-and-design-weeks-that-focus-on-architecture-and-design
+    url: /learn/architecture/questions/what-are-the-essential-components-of-creating-a-brand-through-architectural-design
 ---
 
 &nbsp;

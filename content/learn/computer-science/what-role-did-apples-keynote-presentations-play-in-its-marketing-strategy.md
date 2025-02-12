@@ -2,8 +2,10 @@
 _schema: default
 id: 160432
 date: 2025-01-24
-title: What role did Apple's keynote presentations play in its marketing strategy?
-article_title: What role did Apple's keynote presentations play in its marketing strategy?
+title: >-
+    What role did Apple's keynote presentations play in its marketing strategy?
+article_title: >-
+    What role did Apple's keynote presentations play in its marketing strategy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-apples-keynote-presentations-play-in-its-marketing-stra
 url: /learn/computer-science/questions/what-role-did-apples-keynote-presentations-play-in-its-marketing-strategy
 score: -1.0
 related_article1:
-    id: 160528
-    title: What was the significance of Apple's first retail store opening in terms of consumer engagement?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-significance-of-apples-first-retail-store-opening-in-terms-of-consumer-engagement
-related_article2:
     id: 160598
-    title: How did the launch of the first Apple retail store impact the company's sales strategy?
+    title: >-
+        How did the launch of the first Apple retail store impact the company's sales strategy?
     subject: Computer Science
     url: /learn/computer-science/questions/how-did-the-launch-of-the-first-apple-retail-store-impact-the-companys-sales-strategy
+related_article2:
+    id: 160531
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article3:
-    id: 160606
-    title: What was innovative about the design of the Power Mac G4 Cube?
+    id: 160435
+    title: >-
+        How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-innovative-about-the-design-of-the-power-mac-g4-cube
+    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
 related_article4:
-    id: 160421
-    title: What was the significance of the release of Mac OS X 10.0 Cheetah?
+    id: 160435
+    title: >-
+        How did the transition from CRT to flat-panel displays impact the evolution of personal computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-was-the-significance-of-the-release-of-mac-os-x-100-cheetah
+    url: /learn/computer-science/questions/how-did-the-transition-from-crt-to-flatpanel-displays-impact-the-evolution-of-personal-computers
 related_article5:
-    id: 160436
-    title: What innovations did Apple introduce with the development of lightweight notebooks?
+    id: 160525
+    title: >-
+        How did the design of the Power Mac G4 Cube reflect Apple's hardware innovation strategy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-innovations-did-apple-introduce-with-the-development-of-lightweight-notebooks
+    url: /learn/computer-science/questions/how-did-the-design-of-the-power-mac-g4-cube-reflect-apples-hardware-innovation-strategy
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167483
 date: 2025-01-31
-title: What is the focus and content of lecture exams in this course?
-article_title: What is the focus and content of lecture exams in this course?
+title: >-
+    What is the focus and content of lecture exams in this course?
+article_title: >-
+    What is the focus and content of lecture exams in this course?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-focus-and-content-of-lecture-exams-in-this-course.md
 url: /learn/biology/questions/what-is-the-focus-and-content-of-lecture-exams-in-this-course
 score: -1.0
 related_article1:
-    id: 167486
-    title: How is the grading scale structured in terms of letter grades and point distribution?
-    subject: Biology
-    url: /learn/biology/questions/how-is-the-grading-scale-structured-in-terms-of-letter-grades-and-point-distribution
-related_article2:
-    id: 167487
-    title: Why is STEM education important in the modern curriculum?
-    subject: Biology
-    url: /learn/biology/questions/why-is-stem-education-important-in-the-modern-curriculum
-related_article3:
     id: 167477
-    title: How does iClicker technology enhance class participation?
+    title: >-
+        How does iClicker technology enhance class participation?
     subject: Biology
     url: /learn/biology/questions/how-does-iclicker-technology-enhance-class-participation
+related_article2:
+    id: 167471
+    title: >-
+        What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article3:
+    id: 167472
+    title: >-
+        What skills are essential for a career in physical therapy?
+    subject: Biology
+    url: /learn/biology/questions/what-skills-are-essential-for-a-career-in-physical-therapy
 related_article4:
-    id: 167476
-    title: How do practice exams on the Codon Learning Platform help students prepare for exams?
+    id: 167479
+    title: >-
+        How is the D2L Learning Management System organized to facilitate course access?
     subject: Biology
-    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
+    url: /learn/biology/questions/how-is-the-d2l-learning-management-system-organized-to-facilitate-course-access
 related_article5:
-    id: 167467
-    title: What are the key characteristics that define life in biology?
+    id: 167469
+    title: >-
+        Describe the structure and function of a typical cell.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
+    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
 ---
 
 &nbsp;

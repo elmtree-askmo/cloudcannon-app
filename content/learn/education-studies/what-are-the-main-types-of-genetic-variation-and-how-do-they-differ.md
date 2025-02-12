@@ -2,8 +2,10 @@
 _schema: default
 id: 167894
 date: 2025-02-01
-title: What are the main types of genetic variation and how do they differ?
-article_title: What are the main types of genetic variation and how do they differ?
+title: >-
+    What are the main types of genetic variation and how do they differ?
+article_title: >-
+    What are the main types of genetic variation and how do they differ?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-genetic-variation-and-how-do-they-differ.m
 url: /learn/education-studies/questions/what-are-the-main-types-of-genetic-variation-and-how-do-they-differ
 score: -1.0
 related_article1:
-    id: 167898
-    title: Describe the stages of mitosis and its role in cellular growth.
+    id: 167903
+    title: >-
+        What are the different types of RNA and their roles in protein synthesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-stages-of-mitosis-and-its-role-in-cellular-growth
+    url: /learn/education-studies/questions/what-are-the-different-types-of-rna-and-their-roles-in-protein-synthesis
 related_article2:
-    id: 167902
-    title: Describe the double helix model of DNA and the importance of base pairing.
+    id: 167897
+    title: >-
+        How does DNA packaging affect gene accessibility in chromosomes?
     subject: Education Studies
-    url: /learn/education-studies/questions/describe-the-double-helix-model-of-dna-and-the-importance-of-base-pairing
+    url: /learn/education-studies/questions/how-does-dna-packaging-affect-gene-accessibility-in-chromosomes
 related_article3:
+    id: 167910
+    title: >-
+        What are the ethical considerations in genetic disease research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-ethical-considerations-in-genetic-disease-research
+related_article4:
     id: 167900
-    title: What is the role of RNA polymerase in transcription?
+    title: >-
+        What is the role of RNA polymerase in transcription?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-role-of-rna-polymerase-in-transcription
-related_article4:
+related_article5:
     id: 167912
-    title: What are the types of genetic tests available and their purposes?
+    title: >-
+        What are the types of genetic tests available and their purposes?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-types-of-genetic-tests-available-and-their-purposes
-related_article5:
-    id: 167905
-    title: What is the genetic cause of cystic fibrosis and how is it treated?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-genetic-cause-of-cystic-fibrosis-and-how-is-it-treated
 ---
 
 &nbsp;

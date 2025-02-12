@@ -2,8 +2,10 @@
 _schema: default
 id: 169109
 date: 2025-02-04
-title: What are some key architectural projects led by women that have gained recognition?
-article_title: What are some key architectural projects led by women that have gained recognition?
+title: >-
+    What are some key architectural projects led by women that have gained recognition?
+article_title: >-
+    What are some key architectural projects led by women that have gained recognition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-some-key-architectural-projects-led-by-women-that-have-gaine
 url: /learn/history-of-the-world/questions/what-are-some-key-architectural-projects-led-by-women-that-have-gained-recognition
 score: 9.0
 related_article1:
-    id: 169123
-    title: How do pay disparities manifest in architectural labor, and what are the implications for gender inequality?
+    id: 169114
+    title: >-
+        How has the University of Hong Kong influenced architectural education for women?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-pay-disparities-manifest-in-architectural-labor-and-what-are-the-implications-for-gender-inequality
+    url: /learn/history-of-the-world/questions/how-has-the-university-of-hong-kong-influenced-architectural-education-for-women
 related_article2:
-    id: 169116
-    title: What are some challenges in the historical archiving of women's work in architecture?
+    id: 169118
+    title: >-
+        What are the effects of transnational capitalism on gender dynamics in architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-challenges-in-the-historical-archiving-of-womens-work-in-architecture
+    url: /learn/history-of-the-world/questions/what-are-the-effects-of-transnational-capitalism-on-gender-dynamics-in-architecture
 related_article3:
-    id: 169107
-    title: How did postwar developments impact gendered labor dynamics in architecture?
+    id: 169108
+    title: >-
+        Name a few notable female architects and describe their contributions to the field.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-postwar-developments-impact-gendered-labor-dynamics-in-architecture
+    url: /learn/history-of-the-world/questions/name-a-few-notable-female-architects-and-describe-their-contributions-to-the-field
 related_article4:
-    id: 169120
-    title: What contributions did women make to the economic development of postwar Hong Kong?
+    id: 169124
+    title: >-
+        What contributions have women made to urban development and public housing?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-women-make-to-the-economic-development-of-postwar-hong-kong
+    url: /learn/history-of-the-world/questions/what-contributions-have-women-made-to-urban-development-and-public-housing
 related_article5:
-    id: 169111
-    title: What role did migrant women play in the postwar economic transformations of Hong Kong?
+    id: 169121
+    title: >-
+        How is interior design considered a gendered field within architecture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-migrant-women-play-in-the-postwar-economic-transformations-of-hong-kong
+    url: /learn/history-of-the-world/questions/how-is-interior-design-considered-a-gendered-field-within-architecture
 ---
 
 &nbsp;

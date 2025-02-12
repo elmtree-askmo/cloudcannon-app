@@ -2,8 +2,10 @@
 _schema: default
 id: 165105
 date: 2025-01-28
-title: How can the order of questions in a survey impact responses?
-article_title: How can the order of questions in a survey impact responses?
+title: >-
+    How can the order of questions in a survey impact responses?
+article_title: >-
+    How can the order of questions in a survey impact responses?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-the-order-of-questions-in-a-survey-impact-responses.md
 url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
 score: -1.0
 related_article1:
-    id: 165111
-    title: What is the difference between continuous and categorical variables?
+    id: 165101
+    title: >-
+        Explain the difference between interval and ratio measurement types with examples.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-continuous-and-categorical-variables
+    url: /learn/education-studies/questions/explain-the-difference-between-interval-and-ratio-measurement-types-with-examples
 related_article2:
-    id: 165110
-    title: Explain the process of hypothesis testing in inferential statistics.
+    id: 165119
+    title: >-
+        How does color perception influence consumer behavior in marketing?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-process-of-hypothesis-testing-in-inferential-statistics
+    url: /learn/education-studies/questions/how-does-color-perception-influence-consumer-behavior-in-marketing
 related_article3:
-    id: 165110
-    title: Explain the process of hypothesis testing in inferential statistics.
+    id: 165113
+    title: >-
+        What is observer bias and how can it be reduced in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-process-of-hypothesis-testing-in-inferential-statistics
+    url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 related_article4:
-    id: 165114
-    title: Why is reliability important in research and what are the types of reliability?
+    id: 165095
+    title: >-
+        What is a dependent variable and why is it important in research?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-reliability-important-in-research-and-what-are-the-types-of-reliability
+    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
 related_article5:
-    id: 165115
-    title: How can validity be ensured in research studies?
+    id: 165100
+    title: >-
+        Provide examples of ordinal measurement types and their characteristics.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-studies
+    url: /learn/education-studies/questions/provide-examples-of-ordinal-measurement-types-and-their-characteristics
 ---
 
 &nbsp;

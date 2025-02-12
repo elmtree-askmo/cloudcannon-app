@@ -2,8 +2,10 @@
 _schema: default
 id: 168861
 date: 2025-02-04
-title: Why are co-curricular activities important in interviews, and how can they demonstrate personal qualities?
-article_title: Why are co-curricular activities important in interviews, and how can they demonstrate personal qualities?
+title: >-
+    Why are co-curricular activities important in interviews, and how can they demonstrate personal qualities?
+article_title: >-
+    Why are co-curricular activities important in interviews, and how can they demonstrate personal qualities?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-cocurricular-activities-important-in-interviews-and-how-can-t
 url: /learn/education-studies/questions/why-are-cocurricular-activities-important-in-interviews-and-how-can-they-demonstrate-personal-qualities
 score: -1.0
 related_article1:
-    id: 168859
-    title: How can practicing with peers help in preparing for oral exams?
+    id: 168876
+    title: >-
+        What techniques can be used to conclude a piece of writing with impact?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-practicing-with-peers-help-in-preparing-for-oral-exams
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-conclude-a-piece-of-writing-with-impact
 related_article2:
-    id: 168868
-    title: Why is it important to balance style and substance in writing?
+    id: 168866
+    title: >-
+        What does it mean to cross the threshold in understanding complex ideas?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-balance-style-and-substance-in-writing
+    url: /learn/education-studies/questions/what-does-it-mean-to-cross-the-threshold-in-understanding-complex-ideas
 related_article3:
-    id: 168868
-    title: Why is it important to balance style and substance in writing?
+    id: 168867
+    title: >-
+        How does slow thinking benefit essay writing compared to fast thinking?
     subject: Education Studies
-    url: /learn/education-studies/questions/why-is-it-important-to-balance-style-and-substance-in-writing
+    url: /learn/education-studies/questions/how-does-slow-thinking-benefit-essay-writing-compared-to-fast-thinking
 related_article4:
-    id: 168862
-    title: What techniques can be used to develop confidence in communication?
+    id: 168870
+    title: >-
+        What is lateral thinking and how can it be applied to problem-solving?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-techniques-can-be-used-to-develop-confidence-in-communication
+    url: /learn/education-studies/questions/what-is-lateral-thinking-and-how-can-it-be-applied-to-problemsolving
 related_article5:
-    id: 168859
-    title: How can practicing with peers help in preparing for oral exams?
+    id: 168873
+    title: >-
+        What strategies can be used to tailor communication for a specific audience?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-practicing-with-peers-help-in-preparing-for-oral-exams
+    url: /learn/education-studies/questions/what-strategies-can-be-used-to-tailor-communication-for-a-specific-audience
 ---
 
 &nbsp;

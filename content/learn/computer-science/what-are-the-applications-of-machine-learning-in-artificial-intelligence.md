@@ -2,8 +2,10 @@
 _schema: default
 id: 161051
 date: 2025-01-24
-title: What are the applications of machine learning in artificial intelligence?
-article_title: What are the applications of machine learning in artificial intelligence?
+title: >-
+    What are the applications of machine learning in artificial intelligence?
+article_title: >-
+    What are the applications of machine learning in artificial intelligence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-applications-of-machine-learning-in-artificial-intellige
 url: /learn/computer-science/questions/what-are-the-applications-of-machine-learning-in-artificial-intelligence
 score: -1.0
 related_article1:
-    id: 161045
-    title: How is cryptography used to ensure information security?
+    id: 161035
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-cryptography-used-to-ensure-information-security
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 related_article2:
-    id: 161044
-    title: What is the role of simulation models in computer simulation?
+    id: 160707
+    title: >-
+        How does problem analysis contribute to computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-simulation-models-in-computer-simulation
+    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
 related_article3:
-    id: 160724
-    title: What are the key differences between procedural and object-oriented programming paradigms?
+    id: 160905
+    title: >-
+        What are the key differences between procedural and object-oriented programming paradigms?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-key-differences-between-procedural-and-objectoriented-programming-paradigms
 related_article4:
-    id: 160911
-    title: What is the significance of heuristic algorithms in solving complex problems?
+    id: 161041
+    title: >-
+        What measures can be taken to enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-heuristic-algorithms-in-solving-complex-problems
+    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
 related_article5:
-    id: 160722
-    title: What is the difference between discrete event simulation and continuous simulation?
+    id: 161049
+    title: >-
+        What principles are essential for effective user interface design?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
+    url: /learn/computer-science/questions/what-principles-are-essential-for-effective-user-interface-design
 ---
 
 &nbsp;

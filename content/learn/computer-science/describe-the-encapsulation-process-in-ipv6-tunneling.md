@@ -2,8 +2,10 @@
 _schema: default
 id: 165756
 date: 2025-01-29
-title: Describe the encapsulation process in IPv6 tunneling.
-article_title: Describe the encapsulation process in IPv6 tunneling.
+title: >-
+    Describe the encapsulation process in IPv6 tunneling.
+article_title: >-
+    Describe the encapsulation process in IPv6 tunneling.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-encapsulation-process-in-ipv6-tunneling.md
 url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
 score: -1.0
 related_article1:
-    id: 165754
-    title: What are the characteristics of a Unique Local Address (ULA) in IPv6?
+    id: 165762
+    title: >-
+        What is the rule for omitting leading zeros in IPv6 address notation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
+    url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
 related_article2:
-    id: 165755
-    title: How does the dual stack technique facilitate IPv6 coexistence with IPv4?
+    id: 165761
+    title: >-
+        How does the compressed format of IPv6 addresses work?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
+    url: /learn/computer-science/questions/how-does-the-compressed-format-of-ipv6-addresses-work
 related_article3:
-    id: 165758
-    title: How is static IPv6 address configuration performed on a router?
+    id: 165747
+    title: >-
+        How is a Link-Local Address (LLA) automatically created in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
+    url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
 related_article4:
-    id: 165751
-    title: Explain the significance of the All-Nodes and All-Routers multicast groups in IPv6.
+    id: 165743
+    title: >-
+        What is the recommended prefix length for IPv6 addresses and why?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-significance-of-the-allnodes-and-allrouters-multicast-groups-in-ipv6
+    url: /learn/computer-science/questions/what-is-the-recommended-prefix-length-for-ipv6-addresses-and-why
 related_article5:
-    id: 165745
-    title: What are the components of the structure of a Global Unicast Address (GUA)?
+    id: 165753
+    title: >-
+        What is the role of the Global Routing Prefix in IPv6 subnetting?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
+    url: /learn/computer-science/questions/what-is-the-role-of-the-global-routing-prefix-in-ipv6-subnetting
 ---
 
 &nbsp;

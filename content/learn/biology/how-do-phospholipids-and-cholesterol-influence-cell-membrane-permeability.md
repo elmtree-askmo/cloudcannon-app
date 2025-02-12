@@ -2,8 +2,10 @@
 _schema: default
 id: 168925
 date: 2025-02-04
-title: How do phospholipids and cholesterol influence cell membrane permeability?
-article_title: How do phospholipids and cholesterol influence cell membrane permeability?
+title: >-
+    How do phospholipids and cholesterol influence cell membrane permeability?
+article_title: >-
+    How do phospholipids and cholesterol influence cell membrane permeability?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeabi
 url: /learn/biology/questions/how-do-phospholipids-and-cholesterol-influence-cell-membrane-permeability
 score: -1.0
 related_article1:
-    id: 168917
-    title: What is the primary function of the cell membrane as a protective barrier?
+    id: 168922
+    title: >-
+        What role do integral proteins play in the transport of molecules across the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
+    url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
 related_article2:
     id: 168922
-    title: What role do integral proteins play in the transport of molecules across the cell membrane?
+    title: >-
+        What role do integral proteins play in the transport of molecules across the cell membrane?
     subject: Biology
     url: /learn/biology/questions/what-role-do-integral-proteins-play-in-the-transport-of-molecules-across-the-cell-membrane
 related_article3:
-    id: 168917
-    title: What is the primary function of the cell membrane as a protective barrier?
+    id: 168927
+    title: >-
+        What is the role of protein channels and pumps in cell transport mechanisms?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
+    url: /learn/biology/questions/what-is-the-role-of-protein-channels-and-pumps-in-cell-transport-mechanisms
 related_article4:
-    id: 168926
-    title: Differentiate between passive and active transport mechanisms in cells.
+    id: 168918
+    title: >-
+        How do phospholipids contribute to the structure of the cell membrane?
     subject: Biology
-    url: /learn/biology/questions/differentiate-between-passive-and-active-transport-mechanisms-in-cells
-related_article5:
-    id: 168917
-    title: What is the primary function of the cell membrane as a protective barrier?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-function-of-the-cell-membrane-as-a-protective-barrier
+    url: /learn/biology/questions/how-do-phospholipids-contribute-to-the-structure-of-the-cell-membrane
 ---
 
 &nbsp;

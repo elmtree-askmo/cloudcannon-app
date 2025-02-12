@@ -2,8 +2,10 @@
 _schema: default
 id: 166040
 date: 2025-01-29
-title: What regions were identified as Celtic by Greek sources?
-article_title: What regions were identified as Celtic by Greek sources?
+title: >-
+    What regions were identified as Celtic by Greek sources?
+article_title: >-
+    What regions were identified as Celtic by Greek sources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-regions-were-identified-as-celtic-by-greek-sources.md
 url: /learn/others/questions/what-regions-were-identified-as-celtic-by-greek-sources
 score: -1.0
 related_article1:
-    id: 166055
-    title: How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
     subject: Others
-    url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 related_article2:
-    id: 166043
-    title: Describe the role of Julius Caesar as Proconsul of Cisalpine Gaul.
+    id: 166048
+    title: >-
+        What were the sacred duties of the Druids in Celtic society?
     subject: Others
-    url: /learn/others/questions/describe-the-role-of-julius-caesar-as-proconsul-of-cisalpine-gaul
+    url: /learn/others/questions/what-were-the-sacred-duties-of-the-druids-in-celtic-society
 related_article3:
-    id: 166046
-    title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
+    id: 166050
+    title: >-
+        Which deities were primarily worshipped by the Gauls, according to classical texts?
     subject: Others
-    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
+    url: /learn/others/questions/which-deities-were-primarily-worshipped-by-the-gauls-according-to-classical-texts
 related_article4:
-    id: 166057
-    title: How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
+    id: 166045
+    title: >-
+        Who were Vercingetorix and Ambiorix, and what was their role in the Gallic Wars?
     subject: Others
-    url: /learn/others/questions/how-did-roman-perspectives-such-as-caesars-narratives-shape-the-historical-accounts-of-the-celts
+    url: /learn/others/questions/who-were-vercingetorix-and-ambiorix-and-what-was-their-role-in-the-gallic-wars
 related_article5:
     id: 166055
-    title: How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
+    title: >-
+        How did Greek authors like Strabo contribute to the ethnographic accounts of the Celts?
     subject: Others
     url: /learn/others/questions/how-did-greek-authors-like-strabo-contribute-to-the-ethnographic-accounts-of-the-celts
 ---

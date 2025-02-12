@@ -2,8 +2,10 @@
 _schema: default
 id: 167432
 date: 2025-01-31
-title: How does the surface tension of water compare to that of other liquids?
-article_title: How does the surface tension of water compare to that of other liquids?
+title: >-
+    How does the surface tension of water compare to that of other liquids?
+article_title: >-
+    How does the surface tension of water compare to that of other liquids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-surface-tension-of-water-compare-to-that-of-other-liquid
 url: /learn/chemistry/questions/how-does-the-surface-tension-of-water-compare-to-that-of-other-liquids
 score: -1.0
 related_article1:
-    id: 167436
-    title: What is the specific heat of water and how is it measured?
+    id: 167423
+    title: >-
+        What is the molecular structure of water and how does it contribute to its polarity?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-specific-heat-of-water-and-how-is-it-measured
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
 related_article2:
+    id: 167424
+    title: >-
+        How does electronegativity affect the charge distribution in a water molecule?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-does-electronegativity-affect-the-charge-distribution-in-a-water-molecule
+related_article3:
+    id: 167431
+    title: >-
+        What is surface tension and how is it explained at the molecular level?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-is-surface-tension-and-how-is-it-explained-at-the-molecular-level
+related_article4:
     id: 167441
-    title: How do animals utilize evaporative cooling for temperature regulation?
+    title: >-
+        How do animals utilize evaporative cooling for temperature regulation?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-animals-utilize-evaporative-cooling-for-temperature-regulation
-related_article3:
-    id: 167435
-    title: Discuss the biological importance of water as a solvent, particularly in kidney function.
-    subject: Chemistry
-    url: /learn/chemistry/questions/discuss-the-biological-importance-of-water-as-a-solvent-particularly-in-kidney-function
-related_article4:
-    id: 167426
-    title: Explain the role of hydrogen bonding in molecular interactions within water.
-    subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-role-of-hydrogen-bonding-in-molecular-interactions-within-water
 related_article5:
-    id: 167439
-    title: What is the biological significance of the lower density of ice compared to liquid water?
+    id: 167423
+    title: >-
+        What is the molecular structure of water and how does it contribute to its polarity?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-biological-significance-of-the-lower-density-of-ice-compared-to-liquid-water
+    url: /learn/chemistry/questions/what-is-the-molecular-structure-of-water-and-how-does-it-contribute-to-its-polarity
 ---
 
 &nbsp;

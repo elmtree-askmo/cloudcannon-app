@@ -2,8 +2,10 @@
 _schema: default
 id: 168951
 date: 2025-02-04
-title: Explain the fluid mosaic model of membrane structure and its significance in cellular function.
-article_title: Explain the fluid mosaic model of membrane structure and its significance in cellular function.
+title: >-
+    Explain the fluid mosaic model of membrane structure and its significance in cellular function.
+article_title: >-
+    Explain the fluid mosaic model of membrane structure and its significance in cellular function.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-fluid-mosaic-model-of-membrane-structure-and-its-signific
 url: /learn/health-studies/questions/explain-the-fluid-mosaic-model-of-membrane-structure-and-its-significance-in-cellular-function
 score: -1.0
 related_article1:
-    id: 168959
-    title: What is the energy requirement for the sodium-potassium pump, and why is it necessary for cellular function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-energy-requirement-for-the-sodiumpotassium-pump-and-why-is-it-necessary-for-cellular-function
-related_article2:
-    id: 168947
-    title: What types of chemical bonds are crucial for biomolecule stability, and how do they contribute to the molecule's function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-chemical-bonds-are-crucial-for-biomolecule-stability-and-how-do-they-contribute-to-the-molecules-function
-related_article3:
-    id: 168956
-    title: How do carrier proteins facilitate diffusion, and what is meant by specificity and saturation in this context?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-carrier-proteins-facilitate-diffusion-and-what-is-meant-by-specificity-and-saturation-in-this-context
-related_article4:
-    id: 168949
-    title: How do saturated and unsaturated fatty acids influence membrane fluidity?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
-related_article5:
     id: 168950
-    title: What are amphipathic molecules, and why are they important in membrane formation?
+    title: >-
+        What are amphipathic molecules, and why are they important in membrane formation?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-amphipathic-molecules-and-why-are-they-important-in-membrane-formation
+related_article2:
+    id: 168949
+    title: >-
+        How do saturated and unsaturated fatty acids influence membrane fluidity?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-saturated-and-unsaturated-fatty-acids-influence-membrane-fluidity
+related_article3:
+    id: 168944
+    title: >-
+        What are the key functional groups found in biomolecules, and how do they influence molecular properties?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-functional-groups-found-in-biomolecules-and-how-do-they-influence-molecular-properties
+related_article4:
+    id: 168953
+    title: >-
+        Discuss the effects of cholesterol on membrane fluidity at high and low temperatures.
+    subject: Health Studies
+    url: /learn/health-studies/questions/discuss-the-effects-of-cholesterol-on-membrane-fluidity-at-high-and-low-temperatures
+related_article5:
+    id: 168960
+    title: >-
+        Define endocytosis and exocytosis and explain their roles in cellular transport.
+    subject: Health Studies
+    url: /learn/health-studies/questions/define-endocytosis-and-exocytosis-and-explain-their-roles-in-cellular-transport
 ---
 
 &nbsp;

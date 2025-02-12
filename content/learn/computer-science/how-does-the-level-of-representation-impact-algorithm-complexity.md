@@ -2,8 +2,10 @@
 _schema: default
 id: 161127
 date: 2025-01-24
-title: How does the level of representation impact algorithm complexity?
-article_title: How does the level of representation impact algorithm complexity?
+title: >-
+    How does the level of representation impact algorithm complexity?
+article_title: >-
+    How does the level of representation impact algorithm complexity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-level-of-representation-impact-algorithm-complexity.md
 url: /learn/computer-science/questions/how-does-the-level-of-representation-impact-algorithm-complexity
 score: -1.0
 related_article1:
-    id: 161143
-    title: How does the concept of cardinality apply to comparing infinite sets?
+    id: 161148
+    title: >-
+        What is the significance of cardinality in defining complexity and algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-concept-of-cardinality-apply-to-comparing-infinite-sets
+    url: /learn/computer-science/questions/what-is-the-significance-of-cardinality-in-defining-complexity-and-algorithm-design
 related_article2:
+    id: 161100
+    title: >-
+        Describe the method of proof by contradiction and its application in mathematical proofs.
+    subject: Computer Science
+    url: /learn/computer-science/questions/describe-the-method-of-proof-by-contradiction-and-its-application-in-mathematical-proofs
+related_article3:
+    id: 160968
+    title: >-
+        How does understanding cardinality impact set theory and computability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
+related_article4:
+    id: 160968
+    title: >-
+        How does understanding cardinality impact set theory and computability?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-understanding-cardinality-impact-set-theory-and-computability
+related_article5:
     id: 161132
-    title: What is the halting problem and why is it significant in computability theory?
+    title: >-
+        What is the halting problem and why is it significant in computability theory?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-halting-problem-and-why-is-it-significant-in-computability-theory
-related_article3:
-    id: 160814
-    title: What is the difference between countably infinite and uncountably infinite sets?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-countably-infinite-and-uncountably-infinite-sets
-related_article4:
-    id: 160964
-    title: What challenges are associated with solving the traveling salesman problem?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-challenges-are-associated-with-solving-the-traveling-salesman-problem
-related_article5:
-    id: 160813
-    title: What techniques are used to prove the irrationality of numbers?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-techniques-are-used-to-prove-the-irrationality-of-numbers
 ---
 
 &nbsp;

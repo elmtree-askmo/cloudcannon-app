@@ -2,8 +2,10 @@
 _schema: default
 id: 164580
 date: 2025-01-28
-title: What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
-article_title: What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+title: >-
+    What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
+article_title: >-
+    What are the behavioral consequences observed in split-brain patients due to disconnection of the corpus callosum?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-behavioral-consequences-observed-in-splitbrain-patients-
 url: /learn/psychology/questions/what-are-the-behavioral-consequences-observed-in-splitbrain-patients-due-to-disconnection-of-the-corpus-callosum
 score: -1.0
 related_article1:
-    id: 164569
-    title: How does the presentation of stimuli to different visual fields affect hemispheric response in split-brain patients?
+    id: 164584
+    title: >-
+        What are the main differences in brain structure and function between the two hemispheres?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-presentation-of-stimuli-to-different-visual-fields-affect-hemispheric-response-in-splitbrain-patients
+    url: /learn/psychology/questions/what-are-the-main-differences-in-brain-structure-and-function-between-the-two-hemispheres
 related_article2:
-    id: 164581
-    title: What is the role of the Sonic Hedgehog protein in early embryonic development?
+    id: 164576
+    title: >-
+        How is reaction time used to measure cognitive processing in neurologically intact individuals?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-sonic-hedgehog-protein-in-early-embryonic-development
+    url: /learn/psychology/questions/how-is-reaction-time-used-to-measure-cognitive-processing-in-neurologically-intact-individuals
 related_article3:
-    id: 164572
-    title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
-related_article4:
     id: 164567
-    title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+    title: >-
+        How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
     subject: Psychology
     url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
-related_article5:
-    id: 164574
-    title: Why is folic acid particularly important during early pregnancy for preventing neural tube defects?
+related_article4:
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-folic-acid-particularly-important-during-early-pregnancy-for-preventing-neural-tube-defects
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
+related_article5:
+    id: 164583
+    title: >-
+        What are the genetic and environmental influences on handedness and how do they affect brain lateralization?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-influences-on-handedness-and-how-do-they-affect-brain-lateralization
 ---
 
 &nbsp;

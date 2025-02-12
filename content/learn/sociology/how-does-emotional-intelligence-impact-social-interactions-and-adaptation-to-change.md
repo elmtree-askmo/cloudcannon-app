@@ -2,8 +2,10 @@
 _schema: default
 id: 168370
 date: 2025-02-03
-title: How does emotional intelligence impact social interactions and adaptation to change?
-article_title: How does emotional intelligence impact social interactions and adaptation to change?
+title: >-
+    How does emotional intelligence impact social interactions and adaptation to change?
+article_title: >-
+    How does emotional intelligence impact social interactions and adaptation to change?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-emotional-intelligence-impact-social-interactions-and-adapta
 url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
 score: -1.0
 related_article1:
-    id: 168366
-    title: How does urban development influence infrastructure changes and livability in communities?
+    id: 168371
+    title: >-
+        What are the implications of digital communication on social interactions and relationships?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+    url: /learn/sociology/questions/what-are-the-implications-of-digital-communication-on-social-interactions-and-relationships
 related_article2:
-    id: 168356
-    title: In what ways do tariffs influence the cost of goods and consumer prices?
-    subject: Sociology
-    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
-related_article3:
-    id: 168362
-    title: How does industrialization contribute to global warming, and what are the future predictions?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
-related_article4:
-    id: 168372
-    title: What challenges do urban areas face in healthcare infrastructure, and what initiatives are governments taking to address them?
-    subject: Sociology
-    url: /learn/sociology/questions/what-challenges-do-urban-areas-face-in-healthcare-infrastructure-and-what-initiatives-are-governments-taking-to-address-them
-related_article5:
     id: 168369
-    title: What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
+    title: >-
+        What are the effects of shifts in political ideologies, such as the rise of nationalism, on elections?
     subject: Sociology
     url: /learn/sociology/questions/what-are-the-effects-of-shifts-in-political-ideologies-such-as-the-rise-of-nationalism-on-elections
+related_article3:
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
+related_article4:
+    id: 168362
+    title: >-
+        How does industrialization contribute to global warming, and what are the future predictions?
+    subject: Sociology
+    url: /learn/sociology/questions/how-does-industrialization-contribute-to-global-warming-and-what-are-the-future-predictions
+related_article5:
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 160026
 date: 2025-01-23
-title: What role did colonialism play in shaping European art during the 19th century?
-article_title: What role did colonialism play in shaping European art during the 19th century?
+title: >-
+    What role did colonialism play in shaping European art during the 19th century?
+article_title: >-
+    What role did colonialism play in shaping European art during the 19th century?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-did-colonialism-play-in-shaping-european-art-during-the-19t
 url: /learn/education-studies/questions/what-role-did-colonialism-play-in-shaping-european-art-during-the-19th-century
 score: -1.0
 related_article1:
-    id: 159744
-    title: In what ways did the transition from traditional to modern art manifest in the late 19th and early 20th centuries?
+    id: 159756
+    title: >-
+        What is the importance of interpreting emotions in understanding an artist's intent?
     subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-did-the-transition-from-traditional-to-modern-art-manifest-in-the-late-19th-and-early-20th-centuries
+    url: /learn/education-studies/questions/what-is-the-importance-of-interpreting-emotions-in-understanding-an-artists-intent
 related_article2:
-    id: 159800
-    title: How did technological advancements during the Industrial Revolution influence modern art?
+    id: 159812
+    title: >-
+        How did the emergence of Modernism reflect global influences on art?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-technological-advancements-during-the-industrial-revolution-influence-modern-art
+    url: /learn/education-studies/questions/how-did-the-emergence-of-modernism-reflect-global-influences-on-art
 related_article3:
-    id: 159752
-    title: In what ways can art serve as a tool for social change?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
-related_article4:
-    id: 160021
-    title: How did the Industrial Revolution contribute to the evolution of visual culture?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-industrial-revolution-contribute-to-the-evolution-of-visual-culture
-related_article5:
-    id: 159746
-    title: How did Victorian society influence the representation of gender in art?
+    id: 159807
+    title: >-
+        How did Victorian society influence the representation of gender in art?
     subject: Education Studies
     url: /learn/education-studies/questions/how-did-victorian-society-influence-the-representation-of-gender-in-art
+related_article4:
+    id: 160015
+    title: >-
+        Describe the main characteristics of Realism as an artistic movement.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-main-characteristics-of-realism-as-an-artistic-movement
+related_article5:
+    id: 159813
+    title: >-
+        In what ways can art serve as a tool for social change?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-can-art-serve-as-a-tool-for-social-change
 ---
 
 &nbsp;

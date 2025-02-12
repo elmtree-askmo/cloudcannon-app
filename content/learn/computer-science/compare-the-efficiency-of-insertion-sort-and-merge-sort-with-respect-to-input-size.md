@@ -2,8 +2,10 @@
 _schema: default
 id: 160932
 date: 2025-01-24
-title: Compare the efficiency of insertion sort and merge sort with respect to input size.
-article_title: Compare the efficiency of insertion sort and merge sort with respect to input size.
+title: >-
+    Compare the efficiency of insertion sort and merge sort with respect to input size.
+article_title: >-
+    Compare the efficiency of insertion sort and merge sort with respect to input size.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: compare-the-efficiency-of-insertion-sort-and-merge-sort-with-respect-
 url: /learn/computer-science/questions/compare-the-efficiency-of-insertion-sort-and-merge-sort-with-respect-to-input-size
 score: -1.0
 related_article1:
-    id: 160942
-    title: What is the significance of graph representation in graph algorithms?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-graph-representation-in-graph-algorithms
-related_article2:
     id: 161159
-    title: How do multicore processors influence parallel computing and algorithm design?
+    title: >-
+        How do multicore processors influence parallel computing and algorithm design?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallel-computing-and-algorithm-design
-related_article3:
-    id: 161162
-    title: What is the purpose of the Discrete Fourier Transform in signal processing?
+related_article2:
+    id: 161063
+    title: >-
+        How do multicore processors influence parallel computing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-purpose-of-the-discrete-fourier-transform-in-signal-processing
-related_article4:
+    url: /learn/computer-science/questions/how-do-multicore-processors-influence-parallel-computing
+related_article3:
     id: 161065
-    title: How do machine learning algorithms differ from traditional algorithms in terms of design and application?
+    title: >-
+        How do machine learning algorithms differ from traditional algorithms in terms of design and application?
     subject: Computer Science
     url: /learn/computer-science/questions/how-do-machine-learning-algorithms-differ-from-traditional-algorithms-in-terms-of-design-and-application
-related_article5:
-    id: 161059
-    title: Why are data structures crucial in algorithm design?
+related_article4:
+    id: 161149
+    title: >-
+        What is the informal definition of an algorithm and why is it important in problem-solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-are-data-structures-crucial-in-algorithm-design
+    url: /learn/computer-science/questions/what-is-the-informal-definition-of-an-algorithm-and-why-is-it-important-in-problemsolving
+related_article5:
+    id: 161054
+    title: >-
+        How can you determine if an algorithm is correct or incorrect?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-can-you-determine-if-an-algorithm-is-correct-or-incorrect
 ---
 
 &nbsp;

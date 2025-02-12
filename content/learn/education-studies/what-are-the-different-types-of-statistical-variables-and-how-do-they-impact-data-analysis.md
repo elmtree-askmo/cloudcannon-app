@@ -2,8 +2,10 @@
 _schema: default
 id: 164999
 date: 2025-01-28
-title: What are the different types of statistical variables, and how do they impact data analysis?
-article_title: What are the different types of statistical variables, and how do they impact data analysis?
+title: >-
+    What are the different types of statistical variables, and how do they impact data analysis?
+article_title: >-
+    What are the different types of statistical variables, and how do they impact data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-statistical-variables-and-how-do-they
 url: /learn/education-studies/questions/what-are-the-different-types-of-statistical-variables-and-how-do-they-impact-data-analysis
 score: -1.0
 related_article1:
-    id: 164993
-    title: What are the key elements to consider when formulating survey questions to ensure clarity and simplicity?
+    id: 165008
+    title: >-
+        How is election forecasting conducted using survey data?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-elements-to-consider-when-formulating-survey-questions-to-ensure-clarity-and-simplicity
+    url: /learn/education-studies/questions/how-is-election-forecasting-conducted-using-survey-data
 related_article2:
-    id: 164995
-    title: What are the best practices for structuring questions in a questionnaire to maintain a logical flow?
+    id: 164994
+    title: >-
+        How can assumptions be avoided in survey question formulation?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-best-practices-for-structuring-questions-in-a-questionnaire-to-maintain-a-logical-flow
+    url: /learn/education-studies/questions/how-can-assumptions-be-avoided-in-survey-question-formulation
 related_article3:
-    id: 165004
-    title: What role does socioeconomic status play in demographic analysis?
+    id: 165001
+    title: >-
+        How can patterns be identified in data interpretation, and why is this important?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-role-does-socioeconomic-status-play-in-demographic-analysis
+    url: /learn/education-studies/questions/how-can-patterns-be-identified-in-data-interpretation-and-why-is-this-important
 related_article4:
+    id: 164998
+    title: >-
+        How do face-to-face interviews differ from telephone surveys in terms of data collection effectiveness?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-facetoface-interviews-differ-from-telephone-surveys-in-terms-of-data-collection-effectiveness
+related_article5:
     id: 165004
-    title: What role does socioeconomic status play in demographic analysis?
+    title: >-
+        What role does socioeconomic status play in demographic analysis?
     subject: Education Studies
     url: /learn/education-studies/questions/what-role-does-socioeconomic-status-play-in-demographic-analysis
-related_article5:
-    id: 165000
-    title: Explain the importance of measurement scales in statistical analysis.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-importance-of-measurement-scales-in-statistical-analysis
 ---
 
 &nbsp;

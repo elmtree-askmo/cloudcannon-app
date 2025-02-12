@@ -2,8 +2,10 @@
 _schema: default
 id: 165672
 date: 2025-01-29
-title: What command is used to display a legal notification message on a router?
-article_title: What command is used to display a legal notification message on a router?
+title: >-
+    What command is used to display a legal notification message on a router?
+article_title: >-
+    What command is used to display a legal notification message on a router?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-command-is-used-to-display-a-legal-notification-message-on-a-rou
 url: /learn/computer-science/questions/what-command-is-used-to-display-a-legal-notification-message-on-a-router
 score: -1.0
 related_article1:
-    id: 165683
-    title: How do you save the running configuration to the startup configuration on a router?
+    id: 165673
+    title: >-
+        Which command saves the current configuration on a router?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-save-the-running-configuration-to-the-startup-configuration-on-a-router
+    url: /learn/computer-science/questions/which-command-saves-the-current-configuration-on-a-router
 related_article2:
     id: 165673
-    title: Which command saves the current configuration on a router?
+    title: >-
+        Which command saves the current configuration on a router?
     subject: Computer Science
     url: /learn/computer-science/questions/which-command-saves-the-current-configuration-on-a-router
 related_article3:
-    id: 165668
-    title: What command is used to configure the device name on a router?
+    id: 165682
+    title: >-
+        What is the purpose of the 'show interfaces' command in router verification?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-command-is-used-to-configure-the-device-name-on-a-router
+    url: /learn/computer-science/questions/what-is-the-purpose-of-the-show-interfaces-command-in-router-verification
 related_article4:
-    id: 165675
-    title: How do you assign an IPv4 address to a router interface?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-assign-an-ipv4-address-to-a-router-interface
-related_article5:
     id: 165669
-    title: How can you secure privileged EXEC mode on a router?
+    title: >-
+        How can you secure privileged EXEC mode on a router?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-you-secure-privileged-exec-mode-on-a-router
+related_article5:
+    id: 165678
+    title: >-
+        How do you secure console access on a router?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-do-you-secure-console-access-on-a-router
 ---
 
 &nbsp;

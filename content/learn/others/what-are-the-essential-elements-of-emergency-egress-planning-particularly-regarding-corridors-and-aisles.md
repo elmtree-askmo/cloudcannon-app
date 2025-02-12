@@ -2,8 +2,10 @@
 _schema: default
 id: 168660
 date: 2025-02-03
-title: What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
-article_title: What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
+title: >-
+    What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
+article_title: >-
+    What are the essential elements of emergency egress planning, particularly regarding corridors and aisles?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-essential-elements-of-emergency-egress-planning-particul
 url: /learn/others/questions/what-are-the-essential-elements-of-emergency-egress-planning-particularly-regarding-corridors-and-aisles
 score: -1.0
 related_article1:
-    id: 168655
-    title: What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
+    id: 168658
+    title: >-
+        How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
     subject: Others
-    url: /learn/others/questions/what-are-the-considerations-for-selecting-materials-based-on-fire-separation-requirements-and-flammability-ratings
+    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
 related_article2:
-    id: 168656
-    title: How do non load-bearing walls and room partitions contribute to interior construction features?
+    id: 168651
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
     subject: Others
-    url: /learn/others/questions/how-do-non-loadbearing-walls-and-room-partitions-contribute-to-interior-construction-features
+    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
 related_article3:
-    id: 168658
-    title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
+    id: 168662
+    title: >-
+        How do qualified interior designers contribute to creating safe and functional environments?
     subject: Others
-    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
+    url: /learn/others/questions/how-do-qualified-interior-designers-contribute-to-creating-safe-and-functional-environments
 related_article4:
-    id: 168658
-    title: How does planning for accessibility impact the movement of walls and partitions in occupancy planning?
+    id: 168651
+    title: >-
+        What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
     subject: Others
-    url: /learn/others/questions/how-does-planning-for-accessibility-impact-the-movement-of-walls-and-partitions-in-occupancy-planning
+    url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
 related_article5:
-    id: 168653
-    title: What are the key components of drafting construction documents in compliance with state and local building codes?
+    id: 168652
+    title: >-
+        How do interior designers collaborate with architects and engineers in the design and construction team?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-components-of-drafting-construction-documents-in-compliance-with-state-and-local-building-codes
+    url: /learn/others/questions/how-do-interior-designers-collaborate-with-architects-and-engineers-in-the-design-and-construction-team
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 159860
 date: 2025-01-23
-title: How did the burial practices of the Beaker People and Corded Ware People reflect their cultural characteristics?
-article_title: How did the burial practices of the Beaker People and Corded Ware People reflect their cultural characteristics?
+title: >-
+    How did the burial practices of the Beaker People and Corded Ware People reflect their cultural characteristics?
+article_title: >-
+    How did the burial practices of the Beaker People and Corded Ware People reflect their cultural characteristics?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-peo
 url: /learn/history-of-the-world/questions/how-did-the-burial-practices-of-the-beaker-people-and-corded-ware-people-reflect-their-cultural-characteristics
 score: 9.0
 related_article1:
-    id: 159883
-    title: What was the tribal organization and social hierarchy in Celtic society?
+    id: 160389
+    title: >-
+        How did Celtic trade influence neighboring cultures and contribute to cultural exchange?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-tribal-organization-and-social-hierarchy-in-celtic-society
+    url: /learn/history-of-the-world/questions/how-did-celtic-trade-influence-neighboring-cultures-and-contribute-to-cultural-exchange
 related_article2:
-    id: 160255
-    title: How did the Celts interact with Romans in notable conflicts?
+    id: 159912
+    title: >-
+        How have Celtic languages influenced modern European languages?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-celts-interact-with-romans-in-notable-conflicts
+    url: /learn/history-of-the-world/questions/how-have-celtic-languages-influenced-modern-european-languages
 related_article3:
-    id: 160381
-    title: How did Diodorus Siculus and Athenaeus describe Celtic customs?
+    id: 159911
+    title: >-
+        What are the linguistic characteristics of Celtic languages and their geographic distribution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-linguistic-characteristics-of-celtic-languages-and-their-geographic-distribution
+related_article4:
+    id: 159855
+    title: >-
+        How did the migration patterns of Proto-Indo-Europeans affect their settlement in Britain and Ireland?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-migration-patterns-of-protoindoeuropeans-affect-their-settlement-in-britain-and-ireland
+related_article5:
+    id: 159881
+    title: >-
+        How did Diodorus Siculus and Athenaeus describe Celtic customs?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-diodorus-siculus-and-athenaeus-describe-celtic-customs
-related_article4:
-    id: 160379
-    title: How did Xenophon, Plato, and Aristotle describe the Celts in their accounts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-xenophon-plato-and-aristotle-describe-the-celts-in-their-accounts
-related_article5:
-    id: 160383
-    title: What were the typical clothing and dining habits in Celtic daily life?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-typical-clothing-and-dining-habits-in-celtic-daily-life
 ---
 
 &nbsp;

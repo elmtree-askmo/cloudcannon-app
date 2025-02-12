@@ -2,8 +2,10 @@
 _schema: default
 id: 162049
 date: 2025-01-24
-title: Explain the process of a liquid changing to a solid and provide an example.
-article_title: Explain the process of a liquid changing to a solid and provide an example.
+title: >-
+    Explain the process of a liquid changing to a solid and provide an example.
+article_title: >-
+    Explain the process of a liquid changing to a solid and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-ex
 url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 161934
-    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    id: 161940
+    title: >-
+        Explain the physical change that occurs when aluminum foil is crumbled.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/explain-the-physical-change-that-occurs-when-aluminum-foil-is-crumbled
 related_article2:
-    id: 162028
-    title: What are the characteristics of a liquid and provide an example.
+    id: 161973
+    title: >-
+        What is the significance of electron removal in the ionization process?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-liquid-and-provide-an-example
+    url: /learn/chemistry/questions/what-is-the-significance-of-electron-removal-in-the-ionization-process
 related_article3:
-    id: 162027
-    title: How does the appearance of a substance relate to its physical properties?
+    id: 161981
+    title: >-
+        Explain the formation of new substances when hydrogen and oxygen react to form water.
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-appearance-of-a-substance-relate-to-its-physical-properties
+    url: /learn/chemistry/questions/explain-the-formation-of-new-substances-when-hydrogen-and-oxygen-react-to-form-water
 related_article4:
-    id: 161754
-    title: What is a precipitation reaction and how can you identify it?
+    id: 161978
+    title: >-
+        What is the importance of balancing chemical equations in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+    url: /learn/chemistry/questions/what-is-the-importance-of-balancing-chemical-equations-in-chemical-reactions
 related_article5:
-    id: 162014
-    title: How do you balance a chemical equation involving the reaction of hydrogen and oxygen?
+    id: 161939
+    title: >-
+        What are the indicators of a chemical change when iron reacts with oxygen to form rust?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-involving-the-reaction-of-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
 ---
 
 &nbsp;

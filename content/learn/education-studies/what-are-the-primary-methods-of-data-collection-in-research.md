@@ -2,8 +2,10 @@
 _schema: default
 id: 164933
 date: 2025-01-28
-title: What are the primary methods of data collection in research?
-article_title: What are the primary methods of data collection in research?
+title: >-
+    What are the primary methods of data collection in research?
+article_title: >-
+    What are the primary methods of data collection in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-methods-of-data-collection-in-research.md
 url: /learn/education-studies/questions/what-are-the-primary-methods-of-data-collection-in-research
 score: -1.0
 related_article1:
-    id: 164931
-    title: What are the key steps in identifying relevant sources for research articles?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-identifying-relevant-sources-for-research-articles
-related_article2:
-    id: 164938
-    title: What are the main types of advocacy groups and their focus areas?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
-related_article3:
-    id: 164943
-    title: What historical events marked the rise and fall of communism?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
-related_article4:
-    id: 164942
-    title: What are the core principles of communism?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-core-principles-of-communism
-related_article5:
     id: 164939
-    title: What is the primary purpose of military aid?
+    title: >-
+        What is the primary purpose of military aid?
     subject: Education Studies
     url: /learn/education-studies/questions/what-is-the-primary-purpose-of-military-aid
+related_article2:
+    id: 164945
+    title: >-
+        What are some key strategies used in counterterrorism efforts?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-some-key-strategies-used-in-counterterrorism-efforts
+related_article3:
+    id: 164938
+    title: >-
+        What are the main types of advocacy groups and their focus areas?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-main-types-of-advocacy-groups-and-their-focus-areas
+related_article4:
+    id: 164943
+    title: >-
+        What historical events marked the rise and fall of communism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
+related_article5:
+    id: 164943
+    title: >-
+        What historical events marked the rise and fall of communism?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-historical-events-marked-the-rise-and-fall-of-communism
 ---
 
 &nbsp;

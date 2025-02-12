@@ -2,8 +2,10 @@
 _schema: default
 id: 164076
 date: 2025-01-28
-title: What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
-article_title: What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
+title: >-
+    What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
+article_title: >-
+    What are the limitations of the classic case-control approach in understanding heterogeneity in clinical populations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-limitations-of-the-classic-casecontrol-approach-in-under
 url: /learn/psychology/questions/what-are-the-limitations-of-the-classic-casecontrol-approach-in-understanding-heterogeneity-in-clinical-populations
 score: -1.0
 related_article1:
-    id: 164085
-    title: How does the paradigm shift in psychiatry from group to individual-level inferences impact diagnostics and prognostics?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics
-related_article2:
-    id: 164085
-    title: How does the paradigm shift in psychiatry from group to individual-level inferences impact diagnostics and prognostics?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics
-related_article3:
-    id: 164081
-    title: What are the key challenges in early detection and treatment of youth mental health issues?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
-related_article4:
-    id: 164077
-    title: How do normative models help in understanding disease-related variation in clinical populations?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-normative-models-help-in-understanding-diseaserelated-variation-in-clinical-populations
-related_article5:
     id: 164070
-    title: How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
+    title: >-
+        How does the neuro-bio-psychosocial model explain juvenile antisocial behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-explain-juvenile-antisocial-behavior
+related_article2:
+    id: 164069
+    title: >-
+        What are the societal implications of understanding the relationship between violence and the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
+related_article3:
+    id: 164073
+    title: >-
+        What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
+related_article4:
+    id: 164069
+    title: >-
+        What are the societal implications of understanding the relationship between violence and the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
+related_article5:
+    id: 164069
+    title: >-
+        What are the societal implications of understanding the relationship between violence and the brain?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-societal-implications-of-understanding-the-relationship-between-violence-and-the-brain
 ---
 
 &nbsp;

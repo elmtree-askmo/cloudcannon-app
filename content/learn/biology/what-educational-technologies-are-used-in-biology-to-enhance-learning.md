@@ -2,8 +2,10 @@
 _schema: default
 id: 167493
 date: 2025-01-31
-title: What educational technologies are used in biology to enhance learning?
-article_title: What educational technologies are used in biology to enhance learning?
+title: >-
+    What educational technologies are used in biology to enhance learning?
+article_title: >-
+    What educational technologies are used in biology to enhance learning?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-educational-technologies-are-used-in-biology-to-enhance-learning
 url: /learn/biology/questions/what-educational-technologies-are-used-in-biology-to-enhance-learning
 score: -1.0
 related_article1:
-    id: 167481
-    title: How can students access and navigate online textbooks effectively?
-    subject: Biology
-    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
-related_article2:
-    id: 167474
-    title: Why is gaining professional experience through internships important for medical school preparation?
-    subject: Biology
-    url: /learn/biology/questions/why-is-gaining-professional-experience-through-internships-important-for-medical-school-preparation
-related_article3:
-    id: 167469
-    title: Describe the structure and function of a typical cell.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-structure-and-function-of-a-typical-cell
-related_article4:
     id: 167478
-    title: What are the subscription options available for iClicker technology?
+    title: >-
+        What are the subscription options available for iClicker technology?
     subject: Biology
     url: /learn/biology/questions/what-are-the-subscription-options-available-for-iclicker-technology
-related_article5:
-    id: 167481
-    title: How can students access and navigate online textbooks effectively?
+related_article2:
+    id: 167491
+    title: >-
+        What career paths are available in biology for research and academia?
     subject: Biology
-    url: /learn/biology/questions/how-can-students-access-and-navigate-online-textbooks-effectively
+    url: /learn/biology/questions/what-career-paths-are-available-in-biology-for-research-and-academia
+related_article3:
+    id: 167467
+    title: >-
+        What are the key characteristics that define life in biology?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-characteristics-that-define-life-in-biology
+related_article4:
+    id: 167471
+    title: >-
+        What career opportunities are available in sports medicine?
+    subject: Biology
+    url: /learn/biology/questions/what-career-opportunities-are-available-in-sports-medicine
+related_article5:
+    id: 167476
+    title: >-
+        How do practice exams on the Codon Learning Platform help students prepare for exams?
+    subject: Biology
+    url: /learn/biology/questions/how-do-practice-exams-on-the-codon-learning-platform-help-students-prepare-for-exams
 ---
 
 &nbsp;

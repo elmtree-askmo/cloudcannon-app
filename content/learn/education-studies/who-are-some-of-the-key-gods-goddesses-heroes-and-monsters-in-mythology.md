@@ -2,8 +2,10 @@
 _schema: default
 id: 166013
 date: 2025-01-29
-title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
-article_title: Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+title: >-
+    Who are some of the key gods, goddesses, heroes, and monsters in mythology?
+article_title: >-
+    Who are some of the key gods, goddesses, heroes, and monsters in mythology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mytholo
 url: /learn/education-studies/questions/who-are-some-of-the-key-gods-goddesses-heroes-and-monsters-in-mythology
 score: -1.0
 related_article1:
-    id: 166014
-    title: What are the defining features of creation myths and trickster myths?
+    id: 166012
+    title: >-
+        What is the significance of temples and sanctuaries in ancient ritual practices?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-creation-myths-and-trickster-myths
+    url: /learn/education-studies/questions/what-is-the-significance-of-temples-and-sanctuaries-in-ancient-ritual-practices
 related_article2:
-    id: 166004
-    title: How does vase painting contribute to our understanding of ancient iconography?
+    id: 166016
+    title: >-
+        What were the key factors in the expansion and influence of the Roman Empire?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-vase-painting-contribute-to-our-understanding-of-ancient-iconography
+    url: /learn/education-studies/questions/what-were-the-key-factors-in-the-expansion-and-influence-of-the-roman-empire
 related_article3:
-    id: 166014
-    title: What are the defining features of creation myths and trickster myths?
+    id: 166003
+    title: >-
+        What are the primary differences between literary sources and inscriptions as ancient texts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-features-of-creation-myths-and-trickster-myths
+    url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
 related_article4:
-    id: 166001
-    title: What are the key characteristics of the Archaic, Classical, and Hellenistic periods in Greek archaeology?
+    id: 166003
+    title: >-
+        What are the primary differences between literary sources and inscriptions as ancient texts?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-characteristics-of-the-archaic-classical-and-hellenistic-periods-in-greek-archaeology
+    url: /learn/education-studies/questions/what-are-the-primary-differences-between-literary-sources-and-inscriptions-as-ancient-texts
 related_article5:
-    id: 166006
-    title: How do archetypes function in comparative mythology according to Carl Jung?
+    id: 166007
+    title: >-
+        What are the traditional definitions of myth, and how do they involve supernatural beings?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archetypes-function-in-comparative-mythology-according-to-carl-jung
+    url: /learn/education-studies/questions/what-are-the-traditional-definitions-of-myth-and-how-do-they-involve-supernatural-beings
 ---
 
 &nbsp;

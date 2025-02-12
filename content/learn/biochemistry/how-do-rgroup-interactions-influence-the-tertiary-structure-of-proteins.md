@@ -2,8 +2,10 @@
 _schema: default
 id: 167237
 date: 2025-01-31
-title: How do R-group interactions influence the tertiary structure of proteins?
-article_title: How do R-group interactions influence the tertiary structure of proteins?
+title: >-
+    How do R-group interactions influence the tertiary structure of proteins?
+article_title: >-
+    How do R-group interactions influence the tertiary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-rgroup-interactions-influence-the-tertiary-structure-of-protei
 url: /learn/biochemistry/questions/how-do-rgroup-interactions-influence-the-tertiary-structure-of-proteins
 score: -1.0
 related_article1:
-    id: 167246
-    title: Explain the process of peptide bond formation.
+    id: 167242
+    title: >-
+        What role do polar and nonpolar R-groups play in protein folding?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
+    url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
 related_article2:
     id: 167236
-    title: What are the key features of alpha helices and beta sheets in secondary protein structure?
+    title: >-
+        What are the key features of alpha helices and beta sheets in secondary protein structure?
     subject: Biochemistry
     url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
 related_article3:
-    id: 167244
-    title: What are the effects of protein denaturation on function?
+    id: 167246
+    title: >-
+        Explain the process of peptide bond formation.
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-effects-of-protein-denaturation-on-function
+    url: /learn/biochemistry/questions/explain-the-process-of-peptide-bond-formation
 related_article4:
-    id: 167241
-    title: Differentiate between acidic and basic R-groups.
+    id: 167234
+    title: >-
+        What is the primary structure of a protein and how is it determined?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/differentiate-between-acidic-and-basic-rgroups
+    url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
 related_article5:
-    id: 167236
-    title: What are the key features of alpha helices and beta sheets in secondary protein structure?
+    id: 167232
+    title: >-
+        What are the primary functions of proteins in cells?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
+    url: /learn/biochemistry/questions/what-are-the-primary-functions-of-proteins-in-cells
 ---
 
 &nbsp;

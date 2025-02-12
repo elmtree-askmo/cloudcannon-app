@@ -2,8 +2,10 @@
 _schema: default
 id: 165071
 date: 2025-01-28
-title: How do control variables and confounding variables affect the outcome of an experiment?
-article_title: How do control variables and confounding variables affect the outcome of an experiment?
+title: >-
+    How do control variables and confounding variables affect the outcome of an experiment?
+article_title: >-
+    How do control variables and confounding variables affect the outcome of an experiment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-control-variables-and-confounding-variables-affect-the-outcome
 url: /learn/psychology/questions/how-do-control-variables-and-confounding-variables-affect-the-outcome-of-an-experiment
 score: -1.0
 related_article1:
-    id: 165091
-    title: What are the essential elements of academic writing standards in research papers?
+    id: 165093
+    title: >-
+        Why is replication important in research, and what challenges might arise?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-essential-elements-of-academic-writing-standards-in-research-papers
+    url: /learn/psychology/questions/why-is-replication-important-in-research-and-what-challenges-might-arise
 related_article2:
-    id: 165083
-    title: What are the key components of a well-structured research report?
+    id: 165082
+    title: >-
+        How do you draw conclusions from research findings, and what are the implications of these conclusions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-components-of-a-wellstructured-research-report
+    url: /learn/psychology/questions/how-do-you-draw-conclusions-from-research-findings-and-what-are-the-implications-of-these-conclusions
 related_article3:
-    id: 165090
-    title: What is the importance of comparing research results with previous studies?
+    id: 165087
+    title: >-
+        How does sample size affect the statistical power and generalizability of a study?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-importance-of-comparing-research-results-with-previous-studies
+    url: /learn/psychology/questions/how-does-sample-size-affect-the-statistical-power-and-generalizability-of-a-study
 related_article4:
-    id: 165078
-    title: What are the main differences between experimental design and observational studies in research methodology?
+    id: 165067
+    title: >-
+        How does data cleaning contribute to data quality in statistical analysis?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-differences-between-experimental-design-and-observational-studies-in-research-methodology
+    url: /learn/psychology/questions/how-does-data-cleaning-contribute-to-data-quality-in-statistical-analysis
 related_article5:
-    id: 165074
-    title: What does statistical significance indicate in the interpretation of hypothesis testing results?
+    id: 165086
+    title: >-
+        What is the significance of main effects in research, and how are they identified?
     subject: Psychology
-    url: /learn/psychology/questions/what-does-statistical-significance-indicate-in-the-interpretation-of-hypothesis-testing-results
+    url: /learn/psychology/questions/what-is-the-significance-of-main-effects-in-research-and-how-are-they-identified
 ---
 
 &nbsp;

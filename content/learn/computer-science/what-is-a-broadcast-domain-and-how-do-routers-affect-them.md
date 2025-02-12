@@ -2,8 +2,10 @@
 _schema: default
 id: 165726
 date: 2025-01-29
-title: What is a broadcast domain and how do routers affect them?
-article_title: What is a broadcast domain and how do routers affect them?
+title: >-
+    What is a broadcast domain and how do routers affect them?
+article_title: >-
+    What is a broadcast domain and how do routers affect them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/what-is-a-broadcast-domain-and-how-do-rou
 score: -1.0
 related_article1:
     id: 165736
-    title: What strategies can be used to minimize unused addresses in a subnet?
+    title: >-
+        What strategies can be used to minimize unused addresses in a subnet?
     subject: Computer Science
     url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
 related_article2:
-    id: 165730
-    title: How does prefix length relate to subnet masks and impact the number of available hosts?
+    id: 165734
+    title: >-
+        What role do security policies play in managing network traffic between subnets?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-prefix-length-relate-to-subnet-masks-and-impact-the-number-of-available-hosts
+    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
 related_article3:
-    id: 165731
-    title: What is the significance of using private IPv4 address space within intranets?
+    id: 165734
+    title: >-
+        What role do security policies play in managing network traffic between subnets?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-using-private-ipv4-address-space-within-intranets
+    url: /learn/computer-science/questions/what-role-do-security-policies-play-in-managing-network-traffic-between-subnets
 related_article4:
-    id: 165727
-    title: What are the potential problems associated with large broadcast domains?
+    id: 165723
+    title: >-
+        How do Class A, B, and C IPv4 addresses differ in terms of network and host portions?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
+    url: /learn/computer-science/questions/how-do-class-a-b-and-c-ipv4-addresses-differ-in-terms-of-network-and-host-portions
 related_article5:
-    id: 165727
-    title: What are the potential problems associated with large broadcast domains?
+    id: 165736
+    title: >-
+        What strategies can be used to minimize unused addresses in a subnet?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-potential-problems-associated-with-large-broadcast-domains
+    url: /learn/computer-science/questions/what-strategies-can-be-used-to-minimize-unused-addresses-in-a-subnet
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169616
 date: 2025-02-05
-title: How does continuous professional development contribute to the effectiveness of nursing educators?
-article_title: How does continuous professional development contribute to the effectiveness of nursing educators?
+title: >-
+    How does continuous professional development contribute to the effectiveness of nursing educators?
+article_title: >-
+    How does continuous professional development contribute to the effectiveness of nursing educators?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-does-continuous-professional-development-contribute-to-the-effect
 url: /learn/nursing/questions/how-does-continuous-professional-development-contribute-to-the-effectiveness-of-nursing-educators
 score: -1.0
 related_article1:
-    id: 169620
-    title: What are the potential legal implications of substance use on a nurse's fitness to practice?
+    id: 169623
+    title: >-
+        How does effective communication contribute to building trust and confidence in healthcare settings?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-legal-implications-of-substance-use-on-a-nurses-fitness-to-practice
+    url: /learn/nursing/questions/how-does-effective-communication-contribute-to-building-trust-and-confidence-in-healthcare-settings
 related_article2:
-    id: 169622
-    title: What characteristics make a nurse an effective role model?
-    subject: Nursing
-    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
-related_article3:
     id: 169614
-    title: Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
+    title: >-
+        Why is collaboration with universities important for the NMC in ensuring quality standards in nursing education?
     subject: Nursing
     url: /learn/nursing/questions/why-is-collaboration-with-universities-important-for-the-nmc-in-ensuring-quality-standards-in-nursing-education
-related_article4:
-    id: 169619
-    title: Why is maintaining personal health important for nurses in their professional practice?
+related_article3:
+    id: 169622
+    title: >-
+        What characteristics make a nurse an effective role model?
     subject: Nursing
-    url: /learn/nursing/questions/why-is-maintaining-personal-health-important-for-nurses-in-their-professional-practice
+    url: /learn/nursing/questions/what-characteristics-make-a-nurse-an-effective-role-model
+related_article4:
+    id: 169613
+    title: >-
+        What is the role of the NMC in the approval and monitoring of nursing education programs?
+    subject: Nursing
+    url: /learn/nursing/questions/what-is-the-role-of-the-nmc-in-the-approval-and-monitoring-of-nursing-education-programs
+related_article5:
+    id: 169624
+    title: >-
+        Why is cultural competence important in providing patient-centered care?
+    subject: Nursing
+    url: /learn/nursing/questions/why-is-cultural-competence-important-in-providing-patientcentered-care
 ---
 
 &nbsp;

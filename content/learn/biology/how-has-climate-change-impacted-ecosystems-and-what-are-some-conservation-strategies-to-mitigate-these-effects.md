@@ -2,8 +2,10 @@
 _schema: default
 id: 167762
 date: 2025-02-01
-title: How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
-article_title: How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+title: >-
+    How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+article_title: >-
+    How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-has-climate-change-impacted-ecosystems-and-what-are-some-conserva
 url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
 score: -1.0
 related_article1:
-    id: 167749
-    title: Describe the biological species concept and how it differs from other species concepts.
+    id: 167755
+    title: >-
+        What were the key evolutionary innovations that allowed organisms to transition from water to land?
     subject: Biology
-    url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
+    url: /learn/biology/questions/what-were-the-key-evolutionary-innovations-that-allowed-organisms-to-transition-from-water-to-land
 related_article2:
-    id: 167750
-    title: What is allopatric speciation and how does it differ from sympatric speciation?
+    id: 167751
+    title: >-
+        Define macroevolution and provide examples of patterns and processes involved.
     subject: Biology
-    url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
 related_article3:
-    id: 167747
-    title: Explain the Hardy-Weinberg Principle and its significance in population genetics.
+    id: 167766
+    title: >-
+        What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
     subject: Biology
-    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
+    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
 related_article4:
-    id: 167752
-    title: What is adaptive radiation and how does it contribute to biodiversity?
+    id: 167765
+    title: >-
+        What was the Darwinian Revolution and what were its key ideas and evidence?
     subject: Biology
-    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+    url: /learn/biology/questions/what-was-the-darwinian-revolution-and-what-were-its-key-ideas-and-evidence
 related_article5:
-    id: 167743
-    title: What is adaptation and why is it important in the process of evolution?
+    id: 167760
+    title: >-
+        What are biogeochemical cycles and how do human activities impact them?
     subject: Biology
-    url: /learn/biology/questions/what-is-adaptation-and-why-is-it-important-in-the-process-of-evolution
+    url: /learn/biology/questions/what-are-biogeochemical-cycles-and-how-do-human-activities-impact-them
 ---
 
 &nbsp;

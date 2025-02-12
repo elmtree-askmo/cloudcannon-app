@@ -2,8 +2,10 @@
 _schema: default
 id: 164990
 date: 2025-01-28
-title: How can peer feedback improve presentation skills?
-article_title: How can peer feedback improve presentation skills?
+title: >-
+    How can peer feedback improve presentation skills?
+article_title: >-
+    How can peer feedback improve presentation skills?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-peer-feedback-improve-presentation-skills.md
 url: /learn/psychology/questions/how-can-peer-feedback-improve-presentation-skills
 score: -1.0
 related_article1:
-    id: 164989
-    title: What are the essential components of a well-structured presentation?
+    id: 164988
+    title: >-
+        What is synesthesia, and how does it affect perception?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+    url: /learn/psychology/questions/what-is-synesthesia-and-how-does-it-affect-perception
 related_article2:
-    id: 164983
-    title: What is the significance of a p-value in statistical analysis?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-significance-of-a-pvalue-in-statistical-analysis
-related_article3:
-    id: 164987
-    title: In what ways can music act as a cognitive enhancer?
-    subject: Psychology
-    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
-related_article4:
-    id: 164987
-    title: In what ways can music act as a cognitive enhancer?
-    subject: Psychology
-    url: /learn/psychology/questions/in-what-ways-can-music-act-as-a-cognitive-enhancer
-related_article5:
     id: 164985
-    title: What are the key differences between intrinsic and extrinsic motivation?
+    title: >-
+        What are the key differences between intrinsic and extrinsic motivation?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
+related_article3:
+    id: 164989
+    title: >-
+        What are the essential components of a well-structured presentation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-essential-components-of-a-wellstructured-presentation
+related_article4:
+    id: 164985
+    title: >-
+        What are the key differences between intrinsic and extrinsic motivation?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-differences-between-intrinsic-and-extrinsic-motivation
+related_article5:
+    id: 164991
+    title: >-
+        What are some common biases to look for when analyzing survey results?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-some-common-biases-to-look-for-when-analyzing-survey-results
 ---
 
 &nbsp;

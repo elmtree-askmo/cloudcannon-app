@@ -2,8 +2,10 @@
 _schema: default
 id: 164399
 date: 2025-01-28
-title: What is the role of cognitive psychology in language comprehension?
-article_title: What is the role of cognitive psychology in language comprehension?
+title: >-
+    What is the role of cognitive psychology in language comprehension?
+article_title: >-
+    What is the role of cognitive psychology in language comprehension?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-cognitive-psychology-in-language-comprehension.md
 url: /learn/psychology/questions/what-is-the-role-of-cognitive-psychology-in-language-comprehension
 score: -1.0
 related_article1:
-    id: 164402
-    title: Discuss the impact of Freud's theories on cognitive psychology.
+    id: 164382
+    title: >-
+        Explain the specialization of brain hemispheres in language processing.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-impact-of-freuds-theories-on-cognitive-psychology
+    url: /learn/psychology/questions/explain-the-specialization-of-brain-hemispheres-in-language-processing
 related_article2:
-    id: 164389
-    title: Which neural pathways are involved in communication disorders?
+    id: 164394
+    title: >-
+        What cognitive functions are associated with auditory processing?
     subject: Psychology
-    url: /learn/psychology/questions/which-neural-pathways-are-involved-in-communication-disorders
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-auditory-processing
 related_article3:
+    id: 164390
+    title: >-
+        What are the neural mechanisms involved in speech production?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-neural-mechanisms-involved-in-speech-production
+related_article4:
     id: 164398
-    title: Explain how information is integrated during language comprehension.
+    title: >-
+        Explain how information is integrated during language comprehension.
     subject: Psychology
     url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
-related_article4:
-    id: 164401
-    title: What are Freud's theories of the mind, and how have they influenced neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-freuds-theories-of-the-mind-and-how-have-they-influenced-neuroscience
 related_article5:
-    id: 164395
-    title: What psychological theories are relevant to auditory processing?
+    id: 164398
+    title: >-
+        Explain how information is integrated during language comprehension.
     subject: Psychology
-    url: /learn/psychology/questions/what-psychological-theories-are-relevant-to-auditory-processing
+    url: /learn/psychology/questions/explain-how-information-is-integrated-during-language-comprehension
 ---
 
 &nbsp;

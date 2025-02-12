@@ -2,8 +2,10 @@
 _schema: default
 id: 167656
 date: 2025-01-31
-title: What role do myths play in ancient Greek religion and worship practices?
-article_title: What role do myths play in ancient Greek religion and worship practices?
+title: >-
+    What role do myths play in ancient Greek religion and worship practices?
+article_title: >-
+    What role do myths play in ancient Greek religion and worship practices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-do-myths-play-in-ancient-greek-religion-and-worship-practic
 url: /learn/education-studies/questions/what-role-do-myths-play-in-ancient-greek-religion-and-worship-practices
 score: -1.0
 related_article1:
-    id: 167654
-    title: What is structuralism, and how is it applied to the analysis of Greek myths?
+    id: 167662
+    title: >-
+        What are the key elements and themes of Greek creation stories?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-structuralism-and-how-is-it-applied-to-the-analysis-of-greek-myths
+    url: /learn/education-studies/questions/what-are-the-key-elements-and-themes-of-greek-creation-stories
 related_article2:
-    id: 167653
-    title: Who are the key divine couples in Greek mythology, and what roles do they play?
+    id: 167649
+    title: >-
+        What is the significance of chaos in Greek creation myths?
     subject: Education Studies
-    url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
+    url: /learn/education-studies/questions/what-is-the-significance-of-chaos-in-greek-creation-myths
 related_article3:
     id: 167652
-    title: How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
+    title: >-
+        How does Ovid's Metamorphoses compare to Hesiod's Theogony in terms of creation myths?
     subject: Education Studies
     url: /learn/education-studies/questions/how-does-ovids-metamorphoses-compare-to-hesiods-theogony-in-terms-of-creation-myths
 related_article4:
-    id: 167657
-    title: How do archaeological sources like pottery and artifacts contribute to our understanding of Greek mythology?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-archaeological-sources-like-pottery-and-artifacts-contribute-to-our-understanding-of-greek-mythology
-related_article5:
     id: 167653
-    title: Who are the key divine couples in Greek mythology, and what roles do they play?
+    title: >-
+        Who are the key divine couples in Greek mythology, and what roles do they play?
     subject: Education Studies
     url: /learn/education-studies/questions/who-are-the-key-divine-couples-in-greek-mythology-and-what-roles-do-they-play
+related_article5:
+    id: 167655
+    title: >-
+        How do themes of power and generation manifest in Greek myths?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-themes-of-power-and-generation-manifest-in-greek-myths
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165163
 date: 2025-01-28
-title: What are the different types of survey questions that can be designed for data collection?
-article_title: What are the different types of survey questions that can be designed for data collection?
+title: >-
+    What are the different types of survey questions that can be designed for data collection?
+article_title: >-
+    What are the different types of survey questions that can be designed for data collection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-survey-questions-that-can-be-designed
 url: /learn/education-studies/questions/what-are-the-different-types-of-survey-questions-that-can-be-designed-for-data-collection
 score: -1.0
 related_article1:
-    id: 165156
-    title: What is the difference between correlation and causation?
+    id: 165160
+    title: >-
+        What are the main characteristics of observational studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-correlation-and-causation
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-observational-studies
 related_article2:
-    id: 165165
-    title: What factors should be considered when evaluating the validity of statistical claims?
+    id: 165155
+    title: >-
+        How do photoreceptors contribute to the visual effects of afterimages?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-factors-should-be-considered-when-evaluating-the-validity-of-statistical-claims
+    url: /learn/education-studies/questions/how-do-photoreceptors-contribute-to-the-visual-effects-of-afterimages
 related_article3:
-    id: 165154
-    title: What are the steps involved in resizing and inverting images using SciToolkit?
+    id: 165161
+    title: >-
+        What are the basic coding functions available in SciToolkit for creating experiments?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-steps-involved-in-resizing-and-inverting-images-using-scitoolkit
+    url: /learn/education-studies/questions/what-are-the-basic-coding-functions-available-in-scitoolkit-for-creating-experiments
 related_article4:
-    id: 165159
-    title: How do independent and dependent variables function in an experimental study design?
+    id: 165160
+    title: >-
+        What are the main characteristics of observational studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-independent-and-dependent-variables-function-in-an-experimental-study-design
+    url: /learn/education-studies/questions/what-are-the-main-characteristics-of-observational-studies
 related_article5:
-    id: 165167
-    title: What are the essential steps in formulating a hypothesis for an experiment?
+    id: 165155
+    title: >-
+        How do photoreceptors contribute to the visual effects of afterimages?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-steps-in-formulating-a-hypothesis-for-an-experiment
+    url: /learn/education-studies/questions/how-do-photoreceptors-contribute-to-the-visual-effects-of-afterimages
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165754
 date: 2025-01-29
-title: What are the characteristics of a Unique Local Address (ULA) in IPv6?
-article_title: What are the characteristics of a Unique Local Address (ULA) in IPv6?
+title: >-
+    What are the characteristics of a Unique Local Address (ULA) in IPv6?
+article_title: >-
+    What are the characteristics of a Unique Local Address (ULA) in IPv6?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6.md
 url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
 score: -1.0
 related_article1:
-    id: 165762
-    title: What is the rule for omitting leading zeros in IPv6 address notation?
+    id: 165745
+    title: >-
+        What are the components of the structure of a Global Unicast Address (GUA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-rule-for-omitting-leading-zeros-in-ipv6-address-notation
+    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
 related_article2:
-    id: 165752
-    title: How is subnetting achieved in IPv6 using the Subnet ID?
+    id: 165742
+    title: >-
+        Differentiate between unicast, multicast, and anycast IPv6 address types.
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-subnetting-achieved-in-ipv6-using-the-subnet-id
+    url: /learn/computer-science/questions/differentiate-between-unicast-multicast-and-anycast-ipv6-address-types
 related_article3:
-    id: 165760
-    title: What is the preferred format for representing IPv6 addresses?
+    id: 165757
+    title: >-
+        What is the purpose of NAT64 in IPv6 translation?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-preferred-format-for-representing-ipv6-addresses
+    url: /learn/computer-science/questions/what-is-the-purpose-of-nat64-in-ipv6-translation
 related_article4:
-    id: 165747
-    title: How is a Link-Local Address (LLA) automatically created in IPv6?
+    id: 165745
+    title: >-
+        What are the components of the structure of a Global Unicast Address (GUA)?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-a-linklocal-address-lla-automatically-created-in-ipv6
+    url: /learn/computer-science/questions/what-are-the-components-of-the-structure-of-a-global-unicast-address-gua
 related_article5:
-    id: 165748
-    title: What methods are used for dynamic addressing of Global Unicast Addresses (GUAs) in IPv6?
+    id: 165749
+    title: >-
+        What is the EUI-64 method in the context of IPv6 addressing?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-methods-are-used-for-dynamic-addressing-of-global-unicast-addresses-guas-in-ipv6
+    url: /learn/computer-science/questions/what-is-the-eui64-method-in-the-context-of-ipv6-addressing
 ---
 
 &nbsp;

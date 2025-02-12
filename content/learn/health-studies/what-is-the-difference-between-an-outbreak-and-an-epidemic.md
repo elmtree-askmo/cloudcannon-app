@@ -2,8 +2,10 @@
 _schema: default
 id: 163318
 date: 2025-01-26
-title: What is the difference between an outbreak and an epidemic?
-article_title: What is the difference between an outbreak and an epidemic?
+title: >-
+    What is the difference between an outbreak and an epidemic?
+article_title: >-
+    What is the difference between an outbreak and an epidemic?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-an-outbreak-and-an-epidemic.md
 url: /learn/health-studies/questions/what-is-the-difference-between-an-outbreak-and-an-epidemic
 score: -1.0
 related_article1:
-    id: 162982
-    title: What is the difference between a case fatality rate and a mortality rate?
+    id: 162988
+    title: >-
+        What is the role of public health surveillance in responding to outbreaks?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-rate
+    url: /learn/health-studies/questions/what-is-the-role-of-public-health-surveillance-in-responding-to-outbreaks
 related_article2:
-    id: 162982
-    title: What is the difference between a case fatality rate and a mortality rate?
+    id: 163324
+    title: >-
+        How is the Pearson correlation coefficient used in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-a-case-fatality-rate-and-a-mortality-rate
+    url: /learn/health-studies/questions/how-is-the-pearson-correlation-coefficient-used-in-epidemiology
 related_article3:
-    id: 162986
-    title: What role do epidemiologic questions play in generating public health hypotheses?
+    id: 162990
+    title: >-
+        What is an ecological study and what is its primary focus in epidemiology?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-epidemiologic-questions-play-in-generating-public-health-hypotheses
+    url: /learn/health-studies/questions/what-is-an-ecological-study-and-what-is-its-primary-focus-in-epidemiology
 related_article4:
-    id: 162987
-    title: How do outbreaks differ from epidemics in terms of their definitions?
+    id: 162983
+    title: >-
+        Why is age-adjustment important when comparing mortality rates across different populations?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-outbreaks-differ-from-epidemics-in-terms-of-their-definitions
+    url: /learn/health-studies/questions/why-is-ageadjustment-important-when-comparing-mortality-rates-across-different-populations
 related_article5:
-    id: 163202
-    title: What are the primary purposes of public health surveillance?
+    id: 162993
+    title: >-
+        What does a Pearson correlation coefficient indicate in epidemiological studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-purposes-of-public-health-surveillance
+    url: /learn/health-studies/questions/what-does-a-pearson-correlation-coefficient-indicate-in-epidemiological-studies
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167109
 date: 2025-01-31
-title: What are the main types of enzymes and their functions?
-article_title: What are the main types of enzymes and their functions?
+title: >-
+    What are the main types of enzymes and their functions?
+article_title: >-
+    What are the main types of enzymes and their functions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-types-of-enzymes-and-their-functions.md
 url: /learn/health-studies/questions/what-are-the-main-types-of-enzymes-and-their-functions
 score: -1.0
 related_article1:
-    id: 167088
-    title: Why are functional groups important in biological molecules?
+    id: 167112
+    title: >-
+        How do proteins and lipids function in cell signaling?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-are-functional-groups-important-in-biological-molecules
+    url: /learn/health-studies/questions/how-do-proteins-and-lipids-function-in-cell-signaling
 related_article2:
-    id: 167096
-    title: How are glycosidic bonds formed in carbohydrates?
+    id: 167110
+    title: >-
+        Why is energy storage crucial for cellular metabolism and homeostasis?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-glycosidic-bonds-formed-in-carbohydrates
+    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
 related_article3:
-    id: 167111
-    title: What types of molecules provide structural support in cells?
+    id: 167100
+    title: >-
+        How are monosaccharides classified based on carbon number and functional group?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
+    url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
 related_article4:
-    id: 167094
-    title: How do dehydration reactions and hydrolysis reactions differ in the polymerization process?
+    id: 167100
+    title: >-
+        How are monosaccharides classified based on carbon number and functional group?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-dehydration-reactions-and-hydrolysis-reactions-differ-in-the-polymerization-process
+    url: /learn/health-studies/questions/how-are-monosaccharides-classified-based-on-carbon-number-and-functional-group
 related_article5:
-    id: 167105
-    title: How are amino acids classified based on polarity and charge?
+    id: 167106
+    title: >-
+        What roles do enzymes play in catalysis and reaction facilitation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
+    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
 ---
 
 &nbsp;

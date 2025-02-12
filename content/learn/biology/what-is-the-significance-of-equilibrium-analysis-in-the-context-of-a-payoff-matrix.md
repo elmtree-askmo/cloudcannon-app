@@ -2,8 +2,10 @@
 _schema: default
 id: 170795
 date: 2025-02-07
-title: What is the significance of equilibrium analysis in the context of a payoff matrix?
-article_title: What is the significance of equilibrium analysis in the context of a payoff matrix?
+title: >-
+    What is the significance of equilibrium analysis in the context of a payoff matrix?
+article_title: >-
+    What is the significance of equilibrium analysis in the context of a payoff matrix?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-
 url: /learn/biology/questions/what-is-the-significance-of-equilibrium-analysis-in-the-context-of-a-payoff-matrix
 score: -1.0
 related_article1:
-    id: 170801
-    title: How does a pure strategy compare to a mixed strategy in terms of consistency and outcomes?
+    id: 170791
+    title: >-
+        How do pure and mixed strategies differ in the context of a paleo matrix?
     subject: Biology
-    url: /learn/biology/questions/how-does-a-pure-strategy-compare-to-a-mixed-strategy-in-terms-of-consistency-and-outcomes
+    url: /learn/biology/questions/how-do-pure-and-mixed-strategies-differ-in-the-context-of-a-paleo-matrix
 related_article2:
+    id: 170803
+    title: >-
+        How do cycles of increase and decline affect population dynamics?
+    subject: Biology
+    url: /learn/biology/questions/how-do-cycles-of-increase-and-decline-affect-population-dynamics
+related_article3:
     id: 170796
-    title: How does the frequency of a strategy impact fitness dynamics?
+    title: >-
+        How does the frequency of a strategy impact fitness dynamics?
     subject: Biology
     url: /learn/biology/questions/how-does-the-frequency-of-a-strategy-impact-fitness-dynamics
-related_article3:
-    id: 170804
-    title: What is equilibrium frequency and why is it important in evolutionary biology?
-    subject: Biology
-    url: /learn/biology/questions/what-is-equilibrium-frequency-and-why-is-it-important-in-evolutionary-biology
 related_article4:
+    id: 170809
+    title: >-
+        How does frequency-dependent selection impact the success and failure of evolutionary strategies?
+    subject: Biology
+    url: /learn/biology/questions/how-does-frequencydependent-selection-impact-the-success-and-failure-of-evolutionary-strategies
+related_article5:
     id: 170799
-    title: In what situations might a mixed strategy be more advantageous than a pure strategy?
+    title: >-
+        In what situations might a mixed strategy be more advantageous than a pure strategy?
     subject: Biology
     url: /learn/biology/questions/in-what-situations-might-a-mixed-strategy-be-more-advantageous-than-a-pure-strategy
-related_article5:
-    id: 170808
-    title: What factors influence the development and adaptation of evolutionary strategies?
-    subject: Biology
-    url: /learn/biology/questions/what-factors-influence-the-development-and-adaptation-of-evolutionary-strategies
 ---
 
 &nbsp;

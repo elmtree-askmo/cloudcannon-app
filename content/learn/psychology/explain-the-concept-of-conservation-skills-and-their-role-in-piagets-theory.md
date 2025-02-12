@@ -2,8 +2,10 @@
 _schema: default
 id: 168004
 date: 2025-02-02
-title: Explain the concept of conservation skills and their role in Piaget's theory.
-article_title: Explain the concept of conservation skills and their role in Piaget's theory.
+title: >-
+    Explain the concept of conservation skills and their role in Piaget's theory.
+article_title: >-
+    Explain the concept of conservation skills and their role in Piaget's theory.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/explain-the-concept-of-conservation-skills-and-
 score: -1.0
 related_article1:
     id: 167995
-    title: How does abstract thinking manifest in the formal operational stage?
+    title: >-
+        How does abstract thinking manifest in the formal operational stage?
     subject: Psychology
     url: /learn/psychology/questions/how-does-abstract-thinking-manifest-in-the-formal-operational-stage
 related_article2:
-    id: 168002
-    title: What are some criticisms of Piaget's theory regarding the underestimation of children's abilities?
+    id: 167997
+    title: >-
+        Explain propositional thought and its significance in the formal operational stage.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-criticisms-of-piagets-theory-regarding-the-underestimation-of-childrens-abilities
+    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
 related_article3:
-    id: 167997
-    title: Explain propositional thought and its significance in the formal operational stage.
+    id: 167994
+    title: >-
+        What are the key characteristics of the formal operational stage in Piaget's theory?
     subject: Psychology
-    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+    url: /learn/psychology/questions/what-are-the-key-characteristics-of-the-formal-operational-stage-in-piagets-theory
 related_article4:
-    id: 167998
-    title: Define ecocentrism and its components, such as the imaginary audience and personal fable.
+    id: 168001
+    title: >-
+        List and briefly describe the stages of cognitive development according to Piaget.
     subject: Psychology
-    url: /learn/psychology/questions/define-ecocentrism-and-its-components-such-as-the-imaginary-audience-and-personal-fable
+    url: /learn/psychology/questions/list-and-briefly-describe-the-stages-of-cognitive-development-according-to-piaget
 related_article5:
-    id: 167997
-    title: Explain propositional thought and its significance in the formal operational stage.
+    id: 168009
+    title: >-
+        What is the Information Processing Theory, and how does it differ from Piaget's approach?
     subject: Psychology
-    url: /learn/psychology/questions/explain-propositional-thought-and-its-significance-in-the-formal-operational-stage
+    url: /learn/psychology/questions/what-is-the-information-processing-theory-and-how-does-it-differ-from-piagets-approach
 ---
 
 &nbsp;

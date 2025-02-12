@@ -2,8 +2,10 @@
 _schema: default
 id: 161296
 date: 2025-01-24
-title: How is FLOPS used to evaluate supercomputer performance?
-article_title: How is FLOPS used to evaluate supercomputer performance?
+title: >-
+    How is FLOPS used to evaluate supercomputer performance?
+article_title: >-
+    How is FLOPS used to evaluate supercomputer performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-flops-used-to-evaluate-supercomputer-performance.md
 url: /learn/computer-science/questions/how-is-flops-used-to-evaluate-supercomputer-performance
 score: -1.0
 related_article1:
-    id: 161301
-    title: What is the role of device drivers in system software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-device-drivers-in-system-software
-related_article2:
-    id: 161320
-    title: What are the benefits of real-time protection in anti-virus utility software?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
-related_article3:
-    id: 161552
-    title: What are the advantages of using a command line interface over a graphical user interface?
+    id: 161324
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
+related_article2:
+    id: 161324
+    title: >-
+        What are the advantages of using a command line interface over a graphical user interface?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-advantages-of-using-a-command-line-interface-over-a-graphical-user-interface
+related_article3:
+    id: 161534
+    title: >-
+        What are the key characteristics of mainframe computers that distinguish them from other types of computers?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-are-the-key-characteristics-of-mainframe-computers-that-distinguish-them-from-other-types-of-computers
 related_article4:
-    id: 161317
-    title: What are the advantages of using water cooling over air cooling in heat maintenance?
+    id: 161308
+    title: >-
+        What are the disadvantages of a graphical user interface?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-water-cooling-over-air-cooling-in-heat-maintenance
+    url: /learn/computer-science/questions/what-are-the-disadvantages-of-a-graphical-user-interface
 related_article5:
-    id: 161320
-    title: What are the benefits of real-time protection in anti-virus utility software?
+    id: 161295
+    title: >-
+        What does MIPS measure in mainframe performance metrics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-benefits-of-realtime-protection-in-antivirus-utility-software
+    url: /learn/computer-science/questions/what-does-mips-measure-in-mainframe-performance-metrics
 ---
 
 &nbsp;

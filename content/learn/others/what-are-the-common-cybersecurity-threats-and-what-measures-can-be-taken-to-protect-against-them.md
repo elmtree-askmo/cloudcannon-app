@@ -2,8 +2,10 @@
 _schema: default
 id: 162371
 date: 2025-01-25
-title: What are the common cybersecurity threats, and what measures can be taken to protect against them?
-article_title: What are the common cybersecurity threats, and what measures can be taken to protect against them?
+title: >-
+    What are the common cybersecurity threats, and what measures can be taken to protect against them?
+article_title: >-
+    What are the common cybersecurity threats, and what measures can be taken to protect against them?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-common-cybersecurity-threats-and-what-measures-can-be-ta
 url: /learn/others/questions/what-are-the-common-cybersecurity-threats-and-what-measures-can-be-taken-to-protect-against-them
 score: -1.0
 related_article1:
-    id: 162442
-    title: How do Tableau, Power BI, and D3.js differ in their approach to data visualization?
+    id: 162361
+    title: >-
+        What are the differences between measures of central tendency and measures of variability in descriptive statistics?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-approach-to-data-visualization
+    url: /learn/others/questions/what-are-the-differences-between-measures-of-central-tendency-and-measures-of-variability-in-descriptive-statistics
 related_article2:
-    id: 162653
-    title: How do neural networks contribute to the development of autonomous vehicles?
+    id: 162359
+    title: >-
+        What are the best practices for creating effective data visualizations?
     subject: Others
-    url: /learn/others/questions/how-do-neural-networks-contribute-to-the-development-of-autonomous-vehicles
+    url: /learn/others/questions/what-are-the-best-practices-for-creating-effective-data-visualizations
 related_article3:
-    id: 162677
-    title: How do qubits and quantum entanglement contribute to quantum computing?
+    id: 162662
+    title: >-
+        What are the benefits of using cloud computing for scalability and cost efficiency?
     subject: Others
-    url: /learn/others/questions/how-do-qubits-and-quantum-entanglement-contribute-to-quantum-computing
+    url: /learn/others/questions/what-are-the-benefits-of-using-cloud-computing-for-scalability-and-cost-efficiency
 related_article4:
-    id: 162372
-    title: How do LAN and WAN differ in network architecture, and what are their typical components?
+    id: 162725
+    title: >-
+        How do Agile methodologies differ from the Waterfall model in software development?
     subject: Others
-    url: /learn/others/questions/how-do-lan-and-wan-differ-in-network-architecture-and-what-are-their-typical-components
+    url: /learn/others/questions/how-do-agile-methodologies-differ-from-the-waterfall-model-in-software-development
 related_article5:
-    id: 162655
-    title: How do Tableau, Power BI, and D3.js differ in their data visualization capabilities?
+    id: 162369
+    title: >-
+        What are the differences between the Waterfall and Agile methodologies in software development?
     subject: Others
-    url: /learn/others/questions/how-do-tableau-power-bi-and-d3js-differ-in-their-data-visualization-capabilities
+    url: /learn/others/questions/what-are-the-differences-between-the-waterfall-and-agile-methodologies-in-software-development
 ---
 
 &nbsp;

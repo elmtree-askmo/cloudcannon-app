@@ -2,8 +2,10 @@
 _schema: default
 id: 168746
 date: 2025-02-04
-title: What role does oral history play in preserving personal testimonies of Japanese internment?
-article_title: What role does oral history play in preserving personal testimonies of Japanese internment?
+title: >-
+    What role does oral history play in preserving personal testimonies of Japanese internment?
+article_title: >-
+    What role does oral history play in preserving personal testimonies of Japanese internment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-oral-history-play-in-preserving-personal-testimonies-o
 url: /learn/history-of-the-world/questions/what-role-does-oral-history-play-in-preserving-personal-testimonies-of-japanese-internment
 score: 9.0
 related_article1:
-    id: 168750
-    title: What are some of the ethical and legal debates surrounding the internment of Japanese Americans?
+    id: 168739
+    title: >-
+        What were the immediate impacts of forced relocation and internment on Japanese Americans?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-some-of-the-ethical-and-legal-debates-surrounding-the-internment-of-japanese-americans
+    url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
 related_article2:
-    id: 168748
-    title: What was the purpose of the Civil Liberties Act of 1988, and what did it achieve?
+    id: 168743
+    title: >-
+        What were the key legal arguments and outcomes of the Korematsu case?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-civil-liberties-act-of-1988-and-what-did-it-achieve
+    url: /learn/history-of-the-world/questions/what-were-the-key-legal-arguments-and-outcomes-of-the-korematsu-case
 related_article3:
+    id: 168739
+    title: >-
+        What were the immediate impacts of forced relocation and internment on Japanese Americans?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-immediate-impacts-of-forced-relocation-and-internment-on-japanese-americans
+related_article4:
     id: 168738
-    title: How did Executive Order 9066 legally justify the internment of Japanese Americans?
+    title: >-
+        How did Executive Order 9066 legally justify the internment of Japanese Americans?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-executive-order-9066-legally-justify-the-internment-of-japanese-americans
-related_article4:
-    id: 168747
-    title: How has the Japanese internment experience influenced modern civil rights movements?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-has-the-japanese-internment-experience-influenced-modern-civil-rights-movements
 related_article5:
-    id: 168740
-    title: Describe the living conditions and daily life in Japanese American internment camps.
+    id: 168742
+    title: >-
+        How did anti-Japanese sentiment during World War II compare to the treatment of other minority groups?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-living-conditions-and-daily-life-in-japanese-american-internment-camps
+    url: /learn/history-of-the-world/questions/how-did-antijapanese-sentiment-during-world-war-ii-compare-to-the-treatment-of-other-minority-groups
 ---
 
 &nbsp;

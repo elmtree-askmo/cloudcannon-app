@@ -2,8 +2,10 @@
 _schema: default
 id: 164359
 date: 2025-01-28
-title: How does neuroimaging enhance the understanding of neurological disorders?
-article_title: How does neuroimaging enhance the understanding of neurological disorders?
+title: >-
+    How does neuroimaging enhance the understanding of neurological disorders?
+article_title: >-
+    How does neuroimaging enhance the understanding of neurological disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-neuroimaging-enhance-the-understanding-of-neurological-disor
 url: /learn/psychology/questions/how-does-neuroimaging-enhance-the-understanding-of-neurological-disorders
 score: -1.0
 related_article1:
-    id: 164354
-    title: What are the main functional areas of the brain and their roles?
+    id: 164348
+    title: >-
+        Describe the process of patient preparation for an MRI scan.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
+    url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
 related_article2:
+    id: 164351
+    title: >-
+        How do radioactive tracers function in PET scans?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-radioactive-tracers-function-in-pet-scans
+related_article3:
     id: 164345
-    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
+    title: >-
+        What is the primary purpose of neuroimaging in cognitive neuroscience?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
-related_article3:
-    id: 164355
-    title: Compare the advantages of MRI over CAT scans.
-    subject: Psychology
-    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
 related_article4:
     id: 164349
-    title: What role do X-rays play in the functioning of a CAT scan?
+    title: >-
+        What role do X-rays play in the functioning of a CAT scan?
     subject: Psychology
     url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
 related_article5:
-    id: 164358
-    title: What are the challenges associated with radiation exposure in medical imaging?
+    id: 164355
+    title: >-
+        Compare the advantages of MRI over CAT scans.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-challenges-associated-with-radiation-exposure-in-medical-imaging
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
 ---
 
 &nbsp;

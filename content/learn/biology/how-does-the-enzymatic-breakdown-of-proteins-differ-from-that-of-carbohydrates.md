@@ -2,8 +2,10 @@
 _schema: default
 id: 168830
 date: 2025-02-04
-title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
-article_title: How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+title: >-
+    How does the enzymatic breakdown of proteins differ from that of carbohydrates?
+article_title: >-
+    How does the enzymatic breakdown of proteins differ from that of carbohydrates?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carb
 url: /learn/biology/questions/how-does-the-enzymatic-breakdown-of-proteins-differ-from-that-of-carbohydrates
 score: -1.0
 related_article1:
-    id: 168828
-    title: How does the branching in amelopectin affect its hydrolysis efficiency?
+    id: 168827
+    title: >-
+        What is the structural difference between amylose and amelopectin?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-branching-in-amelopectin-affect-its-hydrolysis-efficiency
+    url: /learn/biology/questions/what-is-the-structural-difference-between-amylose-and-amelopectin
 related_article2:
-    id: 168835
-    title: What is the significance of epithelial cells in the absorption process?
+    id: 168838
+    title: >-
+        How does ATP hydrolysis contribute to nutrient transport across cell membranes?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-epithelial-cells-in-the-absorption-process
+    url: /learn/biology/questions/how-does-atp-hydrolysis-contribute-to-nutrient-transport-across-cell-membranes
 related_article3:
-    id: 168839
-    title: Why is mitochondria important for active transport in nutrient absorption?
+    id: 168831
+    title: >-
+        What is the function of endopeptidases in protein digestion?
     subject: Biology
-    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+    url: /learn/biology/questions/what-is-the-function-of-endopeptidases-in-protein-digestion
 related_article4:
-    id: 168837
-    title: What is the role of the sodium-potassium pump in creating a concentration gradient?
+    id: 168832
+    title: >-
+        How do exopeptidases contribute to the breakdown of polypeptides?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-the-sodiumpotassium-pump-in-creating-a-concentration-gradient
+    url: /learn/biology/questions/how-do-exopeptidases-contribute-to-the-breakdown-of-polypeptides
 related_article5:
-    id: 168839
-    title: Why is mitochondria important for active transport in nutrient absorption?
+    id: 168829
+    title: >-
+        What role do enzymes play in the hydrolysis of amylose and amelopectin?
     subject: Biology
-    url: /learn/biology/questions/why-is-mitochondria-important-for-active-transport-in-nutrient-absorption
+    url: /learn/biology/questions/what-role-do-enzymes-play-in-the-hydrolysis-of-amylose-and-amelopectin
 ---
 
 &nbsp;

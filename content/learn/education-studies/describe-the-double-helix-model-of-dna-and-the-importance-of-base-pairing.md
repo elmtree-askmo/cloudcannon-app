@@ -2,8 +2,10 @@
 _schema: default
 id: 167902
 date: 2025-02-01
-title: Describe the double helix model of DNA and the importance of base pairing.
-article_title: Describe the double helix model of DNA and the importance of base pairing.
+title: >-
+    Describe the double helix model of DNA and the importance of base pairing.
+article_title: >-
+    Describe the double helix model of DNA and the importance of base pairing.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-double-helix-model-of-dna-and-the-importance-of-base-pai
 url: /learn/education-studies/questions/describe-the-double-helix-model-of-dna-and-the-importance-of-base-pairing
 score: -1.0
 related_article1:
-    id: 167906
-    title: Differentiate between point mutations and frameshift mutations.
+    id: 167904
+    title: >-
+        How do amino acids contribute to protein structure and function?
     subject: Education Studies
-    url: /learn/education-studies/questions/differentiate-between-point-mutations-and-frameshift-mutations
+    url: /learn/education-studies/questions/how-do-amino-acids-contribute-to-protein-structure-and-function
 related_article2:
-    id: 167908
-    title: What is the role of concept maps in organizing genetic information?
+    id: 167912
+    title: >-
+        What are the types of genetic tests available and their purposes?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-concept-maps-in-organizing-genetic-information
+    url: /learn/education-studies/questions/what-are-the-types-of-genetic-tests-available-and-their-purposes
 related_article3:
-    id: 167896
-    title: What are the key chromosomal abnormalities associated with Down Syndrome?
+    id: 167911
+    title: >-
+        How does the genotype-phenotype relationship explain the genetic basis of traits?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-chromosomal-abnormalities-associated-with-down-syndrome
+    url: /learn/education-studies/questions/how-does-the-genotypephenotype-relationship-explain-the-genetic-basis-of-traits
 related_article4:
-    id: 167894
-    title: What are the main types of genetic variation and how do they differ?
+    id: 167899
+    title: >-
+        Explain the process of meiosis and its significance in genetic variation.
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-types-of-genetic-variation-and-how-do-they-differ
+    url: /learn/education-studies/questions/explain-the-process-of-meiosis-and-its-significance-in-genetic-variation
 related_article5:
-    id: 167908
-    title: What is the role of concept maps in organizing genetic information?
+    id: 167900
+    title: >-
+        What is the role of RNA polymerase in transcription?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-concept-maps-in-organizing-genetic-information
+    url: /learn/education-studies/questions/what-is-the-role-of-rna-polymerase-in-transcription
 ---
 
 &nbsp;

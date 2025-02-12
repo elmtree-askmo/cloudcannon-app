@@ -2,8 +2,10 @@
 _schema: default
 id: 165248
 date: 2025-01-28
-title: How does bureaucratic inefficiency arise from an overemphasis on structure?
-article_title: How does bureaucratic inefficiency arise from an overemphasis on structure?
+title: >-
+    How does bureaucratic inefficiency arise from an overemphasis on structure?
+article_title: >-
+    How does bureaucratic inefficiency arise from an overemphasis on structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-stru
 url: /learn/sociology/questions/how-does-bureaucratic-inefficiency-arise-from-an-overemphasis-on-structure
 score: -1.0
 related_article1:
-    id: 165250
-    title: How does the merit principle protect against patronage in civil service?
+    id: 165249
+    title: >-
+        What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-the-merit-principle-protect-against-patronage-in-civil-service
+    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
 related_article2:
-    id: 165249
-    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
-    subject: Sociology
-    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
-related_article3:
-    id: 165246
-    title: How does traditional authority differ from charismatic authority in terms of legitimacy?
-    subject: Sociology
-    url: /learn/sociology/questions/how-does-traditional-authority-differ-from-charismatic-authority-in-terms-of-legitimacy
-related_article4:
-    id: 165249
-    title: What management strategies did Frederick Taylor propose to address worker motivation and cynicism?
-    subject: Sociology
-    url: /learn/sociology/questions/what-management-strategies-did-frederick-taylor-propose-to-address-worker-motivation-and-cynicism
-related_article5:
     id: 165247
-    title: What is the significance of specialization of labor in an ideal bureaucracy?
+    title: >-
+        What is the significance of specialization of labor in an ideal bureaucracy?
     subject: Sociology
     url: /learn/sociology/questions/what-is-the-significance-of-specialization-of-labor-in-an-ideal-bureaucracy
+related_article3:
+    id: 165253
+    title: >-
+        How do centralization and decentralization differ in terms of decision-making power distribution?
+    subject: Sociology
+    url: /learn/sociology/questions/how-do-centralization-and-decentralization-differ-in-terms-of-decisionmaking-power-distribution
+related_article4:
+    id: 165252
+    title: >-
+        What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
+related_article5:
+    id: 165252
+    title: >-
+        What are the trade-offs involved in determining the ideal span of control?
+    subject: Sociology
+    url: /learn/sociology/questions/what-are-the-tradeoffs-involved-in-determining-the-ideal-span-of-control
 ---
 
 &nbsp;

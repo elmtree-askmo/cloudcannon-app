@@ -2,8 +2,10 @@
 _schema: default
 id: 160754
 date: 2025-01-24
-title: Explain the master method for solving recurrences in divide-and-conquer algorithms.
-article_title: Explain the master method for solving recurrences in divide-and-conquer algorithms.
+title: >-
+    Explain the master method for solving recurrences in divide-and-conquer algorithms.
+article_title: >-
+    Explain the master method for solving recurrences in divide-and-conquer algorithms.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-master-method-for-solving-recurrences-in-divideandconquer
 url: /learn/computer-science/questions/explain-the-master-method-for-solving-recurrences-in-divideandconquer-algorithms
 score: -1.0
 related_article1:
-    id: 160752
-    title: How do you apply asymptotic notation to analyze the running time of an algorithm?
+    id: 160750
+    title: >-
+        How can mathematical tools be used in the design and analysis of algorithms?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-you-apply-asymptotic-notation-to-analyze-the-running-time-of-an-algorithm
+    url: /learn/computer-science/questions/how-can-mathematical-tools-be-used-in-the-design-and-analysis-of-algorithms
 related_article2:
-    id: 160761
-    title: Why is running time analysis crucial in algorithm design?
+    id: 160753
+    title: >-
+        What is the divide-and-conquer method and how does it utilize recursive techniques?
     subject: Computer Science
-    url: /learn/computer-science/questions/why-is-running-time-analysis-crucial-in-algorithm-design
+    url: /learn/computer-science/questions/what-is-the-divideandconquer-method-and-how-does-it-utilize-recursive-techniques
 related_article3:
-    id: 160836
-    title: Provide an example of pseudocode for insertion sort.
+    id: 160835
+    title: >-
+        How does pseudocode contribute to the clarity and structure of algorithm design?
     subject: Computer Science
-    url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
+    url: /learn/computer-science/questions/how-does-pseudocode-contribute-to-the-clarity-and-structure-of-algorithm-design
 related_article4:
-    id: 160836
-    title: Provide an example of pseudocode for insertion sort.
+    id: 160763
+    title: >-
+        Provide an example of pseudocode for insertion sort.
     subject: Computer Science
     url: /learn/computer-science/questions/provide-an-example-of-pseudocode-for-insertion-sort
 related_article5:
-    id: 160751
-    title: What are the commonly used asymptotic notations and their informal definitions?
+    id: 160918
+    title: >-
+        How does the running time of insertion sort compare to merge sort?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-commonly-used-asymptotic-notations-and-their-informal-definitions
+    url: /learn/computer-science/questions/how-does-the-running-time-of-insertion-sort-compare-to-merge-sort
 ---
 
 &nbsp;

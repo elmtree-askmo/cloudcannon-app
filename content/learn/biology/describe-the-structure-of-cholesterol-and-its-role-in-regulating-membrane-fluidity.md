@@ -2,8 +2,10 @@
 _schema: default
 id: 168916
 date: 2025-02-04
-title: Describe the structure of cholesterol and its role in regulating membrane fluidity.
-article_title: Describe the structure of cholesterol and its role in regulating membrane fluidity.
+title: >-
+    Describe the structure of cholesterol and its role in regulating membrane fluidity.
+article_title: >-
+    Describe the structure of cholesterol and its role in regulating membrane fluidity.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-structure-of-cholesterol-and-its-role-in-regulating-memb
 url: /learn/biology/questions/describe-the-structure-of-cholesterol-and-its-role-in-regulating-membrane-fluidity
 score: -1.0
 related_article1:
-    id: 168914
-    title: How do glycoproteins contribute to cell recognition processes?
+    id: 168911
+    title: >-
+        Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
     subject: Biology
-    url: /learn/biology/questions/how-do-glycoproteins-contribute-to-cell-recognition-processes
+    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 related_article2:
     id: 168915
-    title: What is the function of glycolipids in maintaining membrane stability?
+    title: >-
+        What is the function of glycolipids in maintaining membrane stability?
     subject: Biology
     url: /learn/biology/questions/what-is-the-function-of-glycolipids-in-maintaining-membrane-stability
 related_article3:
+    id: 168909
+    title: >-
+        How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
+related_article4:
     id: 168913
-    title: Where are peripheral proteins located in the plasma membrane, and what is their primary function?
+    title: >-
+        Where are peripheral proteins located in the plasma membrane, and what is their primary function?
     subject: Biology
     url: /learn/biology/questions/where-are-peripheral-proteins-located-in-the-plasma-membrane-and-what-is-their-primary-function
-related_article4:
-    id: 168911
-    title: Explain the fluid mosaic model and describe the movement of phospholipids and proteins within the membrane.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-fluid-mosaic-model-and-describe-the-movement-of-phospholipids-and-proteins-within-the-membrane
 related_article5:
-    id: 168912
-    title: What is the role of integral proteins in the plasma membrane, and how are they positioned within the membrane?
+    id: 168909
+    title: >-
+        How do hydrophilic heads and hydrophobic tails orient themselves in an aqueous environment to form a phospholipid bilayer?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-integral-proteins-in-the-plasma-membrane-and-how-are-they-positioned-within-the-membrane
+    url: /learn/biology/questions/how-do-hydrophilic-heads-and-hydrophobic-tails-orient-themselves-in-an-aqueous-environment-to-form-a-phospholipid-bilayer
 ---
 
 &nbsp;

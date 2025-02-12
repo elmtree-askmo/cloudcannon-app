@@ -2,8 +2,10 @@
 _schema: default
 id: 163630
 date: 2025-01-27
-title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
-article_title: How do neurodevelopmental disorders influence the juvenile antisocial brain?
+title: >-
+    How do neurodevelopmental disorders influence the juvenile antisocial brain?
+article_title: >-
+    How do neurodevelopmental disorders influence the juvenile antisocial brain?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial
 url: /learn/psychology/questions/how-do-neurodevelopmental-disorders-influence-the-juvenile-antisocial-brain
 score: -1.0
 related_article1:
-    id: 163637
-    title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
+    id: 163632
+    title: >-
+        How does the statistical model of abnormal behavior differ from the medical model?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
+    url: /learn/psychology/questions/how-does-the-statistical-model-of-abnormal-behavior-differ-from-the-medical-model
 related_article2:
-    id: 163637
-    title: What is the societal impact of antisocial behavior in terms of economic and emotional burden?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-societal-impact-of-antisocial-behavior-in-terms-of-economic-and-emotional-burden
-related_article3:
-    id: 163634
-    title: Why is conduct disorder considered challenging to treat?
-    subject: Psychology
-    url: /learn/psychology/questions/why-is-conduct-disorder-considered-challenging-to-treat
-related_article4:
     id: 163631
-    title: What are the cultural and social criteria used to define abnormal behavior?
+    title: >-
+        What are the cultural and social criteria used to define abnormal behavior?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-cultural-and-social-criteria-used-to-define-abnormal-behavior
-related_article5:
-    id: 163638
-    title: How do cultural and social criteria influence the definition of antisociality?
+related_article3:
+    id: 163640
+    title: >-
+        How does the neuro-bio-psychosocial model apply to the treatment of conduct disorder and psychopathy?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-cultural-and-social-criteria-influence-the-definition-of-antisociality
+    url: /learn/psychology/questions/how-does-the-neurobiopsychosocial-model-apply-to-the-treatment-of-conduct-disorder-and-psychopathy
+related_article4:
+    id: 163641
+    title: >-
+        What role does the absence of empathy and guilt play in psychopathic behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-role-does-the-absence-of-empathy-and-guilt-play-in-psychopathic-behavior
+related_article5:
+    id: 163635
+    title: >-
+        What are the key signs of psychopathy related to lack of empathy and guilt?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-key-signs-of-psychopathy-related-to-lack-of-empathy-and-guilt
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167682
 date: 2025-01-31
-title: What is the significance of receptor abundance in the evolution of animal behavior?
-article_title: What is the significance of receptor abundance in the evolution of animal behavior?
+title: >-
+    What is the significance of receptor abundance in the evolution of animal behavior?
+article_title: >-
+    What is the significance of receptor abundance in the evolution of animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-receptor-abundance-in-the-evolution-of-an
 url: /learn/others/questions/what-is-the-significance-of-receptor-abundance-in-the-evolution-of-animal-behavior
 score: -1.0
 related_article1:
-    id: 167674
-    title: How is heritability measured, and why is it important for understanding behavioral traits?
+    id: 167673
+    title: >-
+        Provide an example of adaptation in animal behavior and its role in evolution.
     subject: Others
-    url: /learn/others/questions/how-is-heritability-measured-and-why-is-it-important-for-understanding-behavioral-traits
+    url: /learn/others/questions/provide-an-example-of-adaptation-in-animal-behavior-and-its-role-in-evolution
 related_article2:
+    id: 167671
+    title: >-
+        Differentiate between phenotype and genotype and their influence on animal behavior.
+    subject: Others
+    url: /learn/others/questions/differentiate-between-phenotype-and-genotype-and-their-influence-on-animal-behavior
+related_article3:
+    id: 167681
+    title: >-
+        How does vasopressin influence parental behaviors, particularly in voles?
+    subject: Others
+    url: /learn/others/questions/how-does-vasopressin-influence-parental-behaviors-particularly-in-voles
+related_article4:
+    id: 167668
+    title: >-
+        What are the different types of learning, and how do they contribute to an animal's survival?
+    subject: Others
+    url: /learn/others/questions/what-are-the-different-types-of-learning-and-how-do-they-contribute-to-an-animals-survival
+related_article5:
     id: 167677
-    title: What are neurohormones, and how do they influence animal behavior?
+    title: >-
+        What are neurohormones, and how do they influence animal behavior?
     subject: Others
     url: /learn/others/questions/what-are-neurohormones-and-how-do-they-influence-animal-behavior
-related_article3:
-    id: 167672
-    title: What are the different types of selection, and how do they affect genetic variation?
-    subject: Others
-    url: /learn/others/questions/what-are-the-different-types-of-selection-and-how-do-they-affect-genetic-variation
-related_article4:
-    id: 167666
-    title: Provide an example of how proximate and ultimate causes are interconnected in animal behavior.
-    subject: Others
-    url: /learn/others/questions/provide-an-example-of-how-proximate-and-ultimate-causes-are-interconnected-in-animal-behavior
-related_article5:
-    id: 167675
-    title: What is the difference between homology and homoplasy, and how are they used in evolutionary analysis?
-    subject: Others
-    url: /learn/others/questions/what-is-the-difference-between-homology-and-homoplasy-and-how-are-they-used-in-evolutionary-analysis
 ---
 
 &nbsp;

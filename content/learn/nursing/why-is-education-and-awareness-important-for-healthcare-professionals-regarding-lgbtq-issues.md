@@ -2,8 +2,10 @@
 _schema: default
 id: 169654
 date: 2025-02-05
-title: Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
-article_title: Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+title: >-
+    Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
+article_title: >-
+    Why is education and awareness important for healthcare professionals regarding LGBTQ+ issues?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-education-and-awareness-important-for-healthcare-professionals
 url: /learn/nursing/questions/why-is-education-and-awareness-important-for-healthcare-professionals-regarding-lgbtq-issues
 score: -1.0
 related_article1:
-    id: 169647
-    title: What challenges do transgender and non-binary individuals face in healthcare settings?
+    id: 169662
+    title: >-
+        What strategies can be used to provide compassionate care in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/what-challenges-do-transgender-and-nonbinary-individuals-face-in-healthcare-settings
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
 related_article2:
-    id: 169657
-    title: How do societal norms and media influence healthcare policies and practices?
+    id: 169648
+    title: >-
+        Why is it important to use correct terminology when discussing gender identity?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-societal-norms-and-media-influence-healthcare-policies-and-practices
+    url: /learn/nursing/questions/why-is-it-important-to-use-correct-terminology-when-discussing-gender-identity
 related_article3:
-    id: 169656
-    title: How does the Equality Act impact healthcare practices and ensure equal access?
+    id: 169662
+    title: >-
+        What strategies can be used to provide compassionate care in nursing?
     subject: Nursing
-    url: /learn/nursing/questions/how-does-the-equality-act-impact-healthcare-practices-and-ensure-equal-access
+    url: /learn/nursing/questions/what-strategies-can-be-used-to-provide-compassionate-care-in-nursing
 related_article4:
-    id: 169658
-    title: What is the role of nurses in combating discrimination within healthcare settings?
+    id: 169652
+    title: >-
+        What societal changes have occurred in the legal and social context of transgender issues?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-nurses-in-combating-discrimination-within-healthcare-settings
+    url: /learn/nursing/questions/what-societal-changes-have-occurred-in-the-legal-and-social-context-of-transgender-issues
 related_article5:
-    id: 169649
-    title: What mental health issues are prevalent among transgender individuals due to discrimination?
+    id: 169646
+    title: >-
+        How have societal attitudes towards LGBTQ+ rights evolved over time?
     subject: Nursing
-    url: /learn/nursing/questions/what-mental-health-issues-are-prevalent-among-transgender-individuals-due-to-discrimination
+    url: /learn/nursing/questions/how-have-societal-attitudes-towards-lgbtq-rights-evolved-over-time
 ---
 
 &nbsp;

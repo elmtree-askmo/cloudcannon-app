@@ -2,8 +2,10 @@
 _schema: default
 id: 161358
 date: 2025-01-24
-title: What are the potential risks and failures associated with dependence on monitoring technology?
-article_title: What are the potential risks and failures associated with dependence on monitoring technology?
+title: >-
+    What are the potential risks and failures associated with dependence on monitoring technology?
+article_title: >-
+    What are the potential risks and failures associated with dependence on monitoring technology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-risks-and-failures-associated-with-dependence-
 url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology
 score: -1.0
 related_article1:
-    id: 161335
-    title: Define real-time processing and explain its importance in control systems.
+    id: 161352
+    title: >-
+        Describe the process and feedback mechanism of a burglar alarm system, including the sensors and actuators used.
     subject: Computer Science
-    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems
+    url: /learn/computer-science/questions/describe-the-process-and-feedback-mechanism-of-a-burglar-alarm-system-including-the-sensors-and-actuators-used
 related_article2:
-    id: 161517
-    title: Define real-time processing and explain its importance in control systems with examples.
+    id: 161326
+    title: >-
+        What are the main types of sensors used in monitoring technologies, and how do they function?
     subject: Computer Science
-    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems-with-examples
+    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
 related_article3:
-    id: 161353
-    title: What are the components and functionality of street lighting control systems, and how do they operate?
+    id: 161520
+    title: >-
+        Describe multi-point calibration and its advantages in various applications.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-components-and-functionality-of-street-lighting-control-systems-and-how-do-they-operate
+    url: /learn/computer-science/questions/describe-multipoint-calibration-and-its-advantages-in-various-applications
 related_article4:
-    id: 161345
-    title: Explain the process and advantages of multi-point calibration.
+    id: 161530
+    title: >-
+        What are the benefits of automated monitoring systems in terms of accuracy and efficiency compared to manual systems?
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-process-and-advantages-of-multipoint-calibration
+    url: /learn/computer-science/questions/what-are-the-benefits-of-automated-monitoring-systems-in-terms-of-accuracy-and-efficiency-compared-to-manual-systems
 related_article5:
-    id: 161521
-    title: What types of sensors are commonly used in weather stations, and how is data collected and processed?
+    id: 161528
+    title: >-
+        Explain the components and process of car park barrier systems, including the feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-types-of-sensors-are-commonly-used-in-weather-stations-and-how-is-data-collected-and-processed
+    url: /learn/computer-science/questions/explain-the-components-and-process-of-car-park-barrier-systems-including-the-feedback-mechanism
 ---
 
 &nbsp;

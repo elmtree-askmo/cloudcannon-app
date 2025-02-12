@@ -2,8 +2,10 @@
 _schema: default
 id: 169022
 date: 2025-02-04
-title: How have newspaper accounts influenced the historical narratives of revolutionary events?
-article_title: How have newspaper accounts influenced the historical narratives of revolutionary events?
+title: >-
+    How have newspaper accounts influenced the historical narratives of revolutionary events?
+article_title: >-
+    How have newspaper accounts influenced the historical narratives of revolutionary events?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/history-of-the-world/questions/how-have-newspaper-accounts-influence
 score: 9.0
 related_article1:
     id: 169005
-    title: How can cross-reading architecture and history provide new insights?
+    title: >-
+        How can cross-reading architecture and history provide new insights?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
 related_article2:
-    id: 169003
-    title: How can architecture be analyzed within political and socio-historical contexts?
+    id: 169009
+    title: >-
+        What actions did women take during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-architecture-be-analyzed-within-political-and-sociohistorical-contexts
+    url: /learn/history-of-the-world/questions/what-actions-did-women-take-during-revolutionary-movements
 related_article3:
-    id: 169004
-    title: In what ways does critical theory reframe architectural narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-does-critical-theory-reframe-architectural-narratives
-related_article4:
-    id: 169018
-    title: What contributions did Carmen Serdan make to the revolutionary movement?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-contributions-did-carmen-serdan-make-to-the-revolutionary-movement
-related_article5:
     id: 169019
-    title: How did women strategically use architecture during revolutionary movements?
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
+related_article4:
+    id: 169013
+    title: >-
+        What strategies and tactics were employed during the Mexican Revolution?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-strategies-and-tactics-were-employed-during-the-mexican-revolution
+related_article5:
+    id: 169020
+    title: >-
+        How are historical events represented in cultural narratives within architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 ---
 
 &nbsp;

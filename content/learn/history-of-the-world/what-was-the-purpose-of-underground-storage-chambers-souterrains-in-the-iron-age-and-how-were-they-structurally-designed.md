@@ -2,8 +2,10 @@
 _schema: default
 id: 170168
 date: 2025-02-06
-title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
-article_title: What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+title: >-
+    What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
+article_title: >-
+    What was the purpose of underground storage chambers (souterrains) in the Iron Age, and how were they structurally designed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-purpose-of-underground-storage-chambers-souterrains-in-t
 url: /learn/history-of-the-world/questions/what-was-the-purpose-of-underground-storage-chambers-souterrains-in-the-iron-age-and-how-were-they-structurally-designed
 score: 9.0
 related_article1:
-    id: 170186
-    title: How did Roman-British relations evolve during the initial contact and conquest period?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-romanbritish-relations-evolve-during-the-initial-contact-and-conquest-period
-related_article2:
     id: 170183
-    title: What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
+    title: >-
+        What were the tactics and strategies of Caledonian warfare, and how did they adapt to Roman tactics?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-tactics-and-strategies-of-caledonian-warfare-and-how-did-they-adapt-to-roman-tactics
+related_article2:
+    id: 170184
+    title: >-
+        Who was Calgacus, and what was his influence on Caledonian warfare?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/who-was-calgacus-and-what-was-his-influence-on-caledonian-warfare
 related_article3:
-    id: 170185
-    title: Analyze the structure and historical significance of Tacitus' 'Agricola'.
+    id: 170169
+    title: >-
+        Discuss the military strategies employed by Gnaeus Julius Agricola during his campaigns in Britannia.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/analyze-the-structure-and-historical-significance-of-tacitus-agricola
+    url: /learn/history-of-the-world/questions/discuss-the-military-strategies-employed-by-gnaeus-julius-agricola-during-his-campaigns-in-britannia
 related_article4:
-    id: 170182
-    title: Describe the types and purposes of Roman inscriptions and the challenges in translating them.
+    id: 170179
+    title: >-
+        Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
+    url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
 related_article5:
-    id: 170182
-    title: Describe the types and purposes of Roman inscriptions and the challenges in translating them.
+    id: 170179
+    title: >-
+        Discuss the defensive strategies and garrison life associated with Hadrian's Wall.
     subject: History of the World
-    url: /learn/history-of-the-world/questions/describe-the-types-and-purposes-of-roman-inscriptions-and-the-challenges-in-translating-them
+    url: /learn/history-of-the-world/questions/discuss-the-defensive-strategies-and-garrison-life-associated-with-hadrians-wall
 ---
 
 &nbsp;

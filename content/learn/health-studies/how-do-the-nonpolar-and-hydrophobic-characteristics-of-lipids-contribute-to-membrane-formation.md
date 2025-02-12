@@ -2,8 +2,10 @@
 _schema: default
 id: 167229
 date: 2025-01-31
-title: How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
-article_title: How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
+title: >-
+    How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
+article_title: >-
+    How do the nonpolar and hydrophobic characteristics of lipids contribute to membrane formation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contrib
 url: /learn/health-studies/questions/how-do-the-nonpolar-and-hydrophobic-characteristics-of-lipids-contribute-to-membrane-formation
 score: -1.0
 related_article1:
+    id: 167226
+    title: >-
+        What is the importance of active site specificity in enzyme function?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-importance-of-active-site-specificity-in-enzyme-function
+related_article2:
+    id: 167215
+    title: >-
+        What is the role of the glycerol backbone in triglyceride structure?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-is-the-role-of-the-glycerol-backbone-in-triglyceride-structure
+related_article3:
     id: 167218
-    title: What structural components make up a phospholipid?
+    title: >-
+        What structural components make up a phospholipid?
     subject: Health Studies
     url: /learn/health-studies/questions/what-structural-components-make-up-a-phospholipid
-related_article2:
-    id: 167225
-    title: How do the chemical properties of biomolecules impact their function?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-the-chemical-properties-of-biomolecules-impact-their-function
-related_article3:
-    id: 167221
-    title: What is the difference between saturated and unsaturated fatty acids in terms of chemical structure?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-difference-between-saturated-and-unsaturated-fatty-acids-in-terms-of-chemical-structure
 related_article4:
-    id: 167227
-    title: Compare the monomer subunits of proteins, nucleic acids, and carbohydrates.
+    id: 167223
+    title: >-
+        What are the major classes of lipids and their general characteristics?
     subject: Health Studies
-    url: /learn/health-studies/questions/compare-the-monomer-subunits-of-proteins-nucleic-acids-and-carbohydrates
+    url: /learn/health-studies/questions/what-are-the-major-classes-of-lipids-and-their-general-characteristics
 related_article5:
-    id: 167230
-    title: What role do beta glycosidic linkages play in the structure of cellulose?
+    id: 167231
+    title: >-
+        How does the unique shape of an enzyme's active site contribute to its catalytic efficiency?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-role-do-beta-glycosidic-linkages-play-in-the-structure-of-cellulose
+    url: /learn/health-studies/questions/how-does-the-unique-shape-of-an-enzymes-active-site-contribute-to-its-catalytic-efficiency
 ---
 
 &nbsp;

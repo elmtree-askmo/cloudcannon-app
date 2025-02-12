@@ -2,8 +2,10 @@
 _schema: default
 id: 163975
 date: 2025-01-28
-title: How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
-article_title: How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
+title: >-
+    How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
+article_title: >-
+    How did the oligarchic regimes of 411 BC challenge Athenian democracy, and what were the subsequent reforms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-oligarchic-regimes-of-411-bc-challenge-athenian-democracy
 url: /learn/history-of-the-world/questions/how-did-the-oligarchic-regimes-of-411-bc-challenge-athenian-democracy-and-what-were-the-subsequent-reforms
 score: 9.0
 related_article1:
-    id: 163969
-    title: What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    id: 163974
+    title: >-
+        What were the key developments in Athenian democracy during the Classical Period, particularly under Pericles?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
+    url: /learn/history-of-the-world/questions/what-were-the-key-developments-in-athenian-democracy-during-the-classical-period-particularly-under-pericles
 related_article2:
-    id: 163971
-    title: How did the Council of 500 evolve from the Solonic Boule, and what was its function in Athenian governance?
+    id: 163972
+    title: >-
+        What were the voting procedures in the Athenian Assembly, and how did they compare to those in Sparta?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-council-of-500-evolve-from-the-solonic-boule-and-what-was-its-function-in-athenian-governance
+    url: /learn/history-of-the-world/questions/what-were-the-voting-procedures-in-the-athenian-assembly-and-how-did-they-compare-to-those-in-sparta
 related_article3:
+    id: 163963
+    title: >-
+        What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
+related_article4:
     id: 163968
-    title: How did Solon's reforms influence the eligibility for political office in Athens?
+    title: >-
+        How did Solon's reforms influence the eligibility for political office in Athens?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-solons-reforms-influence-the-eligibility-for-political-office-in-athens
-related_article4:
-    id: 163973
-    title: How did the role and selection of dikastai reflect the sovereignty of Athenian law courts?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-role-and-selection-of-dikastai-reflect-the-sovereignty-of-athenian-law-courts
 related_article5:
-    id: 163969
-    title: What role did Cleisthenes play in transitioning Athens from timocracy to democracy?
+    id: 163963
+    title: >-
+        What were the key architectural developments on the Classical Acropolis following the Persian Wars, and what was their cultural significance?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-cleisthenes-play-in-transitioning-athens-from-timocracy-to-democracy
+    url: /learn/history-of-the-world/questions/what-were-the-key-architectural-developments-on-the-classical-acropolis-following-the-persian-wars-and-what-was-their-cultural-significance
 ---
 
 &nbsp;

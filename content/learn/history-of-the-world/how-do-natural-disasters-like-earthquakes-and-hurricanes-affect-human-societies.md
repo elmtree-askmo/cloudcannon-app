@@ -2,8 +2,10 @@
 _schema: default
 id: 166236
 date: 2025-01-29
-title: How do natural disasters like earthquakes and hurricanes affect human societies?
-article_title: How do natural disasters like earthquakes and hurricanes affect human societies?
+title: >-
+    How do natural disasters like earthquakes and hurricanes affect human societies?
+article_title: >-
+    How do natural disasters like earthquakes and hurricanes affect human societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human
 url: /learn/history-of-the-world/questions/how-do-natural-disasters-like-earthquakes-and-hurricanes-affect-human-societies
 score: 8.5
 related_article1:
-    id: 166237
-    title: What are the main components involved in constructing historical narratives?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-involved-in-constructing-historical-narratives
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article2:
-    id: 166227
-    title: What are the primary types of historical evidence, and how are they evaluated for reliability?
+    id: 166229
+    title: >-
+        What are the main disciplines within social sciences, and how do they contribute to understanding society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
+    url: /learn/history-of-the-world/questions/what-are-the-main-disciplines-within-social-sciences-and-how-do-they-contribute-to-understanding-society
 related_article3:
-    id: 166235
-    title: What are the primary environmental impacts of human activities like deforestation and pollution?
+    id: 166224
+    title: >-
+        How does sustainable development integrate economic considerations into environmental sustainability?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-environmental-impacts-of-human-activities-like-deforestation-and-pollution
+    url: /learn/history-of-the-world/questions/how-does-sustainable-development-integrate-economic-considerations-into-environmental-sustainability
 related_article4:
-    id: 166213
-    title: What were the key developments in the historical context of Arabic studies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-key-developments-in-the-historical-context-of-arabic-studies
-related_article5:
-    id: 166225
-    title: What are the main components of physical health that contribute to overall well-being?
+    id: 166229
+    title: >-
+        What are the main disciplines within social sciences, and how do they contribute to understanding society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-components-of-physical-health-that-contribute-to-overall-wellbeing
+    url: /learn/history-of-the-world/questions/what-are-the-main-disciplines-within-social-sciences-and-how-do-they-contribute-to-understanding-society
+related_article5:
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 ---
 
 &nbsp;

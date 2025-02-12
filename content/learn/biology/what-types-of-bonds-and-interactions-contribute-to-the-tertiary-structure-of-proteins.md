@@ -2,8 +2,10 @@
 _schema: default
 id: 165340
 date: 2025-01-29
-title: What types of bonds and interactions contribute to the tertiary structure of proteins?
-article_title: What types of bonds and interactions contribute to the tertiary structure of proteins?
+title: >-
+    What types of bonds and interactions contribute to the tertiary structure of proteins?
+article_title: >-
+    What types of bonds and interactions contribute to the tertiary structure of proteins?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-bonds-and-interactions-contribute-to-the-tertiary-struc
 url: /learn/biology/questions/what-types-of-bonds-and-interactions-contribute-to-the-tertiary-structure-of-proteins
 score: -1.0
 related_article1:
-    id: 165334
-    title: What are the key properties of amino acids that affect their interaction with water?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-key-properties-of-amino-acids-that-affect-their-interaction-with-water
-related_article2:
-    id: 165338
-    title: What is the significance of the unique sequence of amino acids in the primary structure of proteins?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
-related_article3:
-    id: 165344
-    title: Describe the formation of disulfide bonds between cysteine residues.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
-related_article4:
-    id: 165344
-    title: Describe the formation of disulfide bonds between cysteine residues.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-formation-of-disulfide-bonds-between-cysteine-residues
-related_article5:
     id: 165342
-    title: What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
+    title: >-
+        What role do hydrogen bonds play in the tertiary and quaternary structures of proteins?
     subject: Biology
     url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-tertiary-and-quaternary-structures-of-proteins
+related_article2:
+    id: 165347
+    title: >-
+        How do ribose and deoxyribose differ in structure and function in nucleic acids?
+    subject: Biology
+    url: /learn/biology/questions/how-do-ribose-and-deoxyribose-differ-in-structure-and-function-in-nucleic-acids
+related_article3:
+    id: 165338
+    title: >-
+        What is the significance of the unique sequence of amino acids in the primary structure of proteins?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-unique-sequence-of-amino-acids-in-the-primary-structure-of-proteins
+related_article4:
+    id: 165350
+    title: >-
+        How do monomers and polymers relate to the structure and function of biomolecules?
+    subject: Biology
+    url: /learn/biology/questions/how-do-monomers-and-polymers-relate-to-the-structure-and-function-of-biomolecules
+related_article5:
+    id: 165337
+    title: >-
+        How does the covalent bonding in peptide bonds compare to glycosidic linkages?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-covalent-bonding-in-peptide-bonds-compare-to-glycosidic-linkages
 ---
 
 &nbsp;

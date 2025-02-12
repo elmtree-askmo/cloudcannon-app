@@ -2,8 +2,10 @@
 _schema: default
 id: 168264
 date: 2025-02-03
-title: What are the consequences of miscommunication in relationships?
-article_title: What are the consequences of miscommunication in relationships?
+title: >-
+    What are the consequences of miscommunication in relationships?
+article_title: >-
+    What are the consequences of miscommunication in relationships?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-consequences-of-miscommunication-in-relationships.md
 url: /learn/art-history-and-literature/questions/what-are-the-consequences-of-miscommunication-in-relationships
 score: 8.5
 related_article1:
+    id: 168252
+    title: >-
+        In what ways can language manipulation lead to misperception in relationships?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/in-what-ways-can-language-manipulation-lead-to-misperception-in-relationships
+related_article2:
     id: 168253
-    title: How does jealousy contribute to deception in literature?
+    title: >-
+        How does jealousy contribute to deception in literature?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-jealousy-contribute-to-deception-in-literature
-related_article2:
-    id: 168260
-    title: In what ways is humor used as a defense mechanism in Shakespearean comedy?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-humor-used-as-a-defense-mechanism-in-shakespearean-comedy
 related_article3:
     id: 168263
-    title: How does language shape perception and reality in society?
+    title: >-
+        How does language shape perception and reality in society?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-does-language-shape-perception-and-reality-in-society
 related_article4:
-    id: 168262
-    title: How do courtship dynamics contribute to conflict and resolution in Shakespearean plays?
+    id: 168251
+    title: >-
+        How does language blur the line between reality and perception?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-do-courtship-dynamics-contribute-to-conflict-and-resolution-in-shakespearean-plays
+    url: /learn/art-history-and-literature/questions/how-does-language-blur-the-line-between-reality-and-perception
 related_article5:
-    id: 168260
-    title: In what ways is humor used as a defense mechanism in Shakespearean comedy?
+    id: 168268
+    title: >-
+        What role do love and trust play in character motivations within relationships?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-is-humor-used-as-a-defense-mechanism-in-shakespearean-comedy
+    url: /learn/art-history-and-literature/questions/what-role-do-love-and-trust-play-in-character-motivations-within-relationships
 ---
 
 &nbsp;

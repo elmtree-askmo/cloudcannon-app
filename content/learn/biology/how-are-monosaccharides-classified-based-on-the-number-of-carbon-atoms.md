@@ -2,8 +2,10 @@
 _schema: default
 id: 167019
 date: 2025-01-31
-title: How are monosaccharides classified based on the number of carbon atoms?
-article_title: How are monosaccharides classified based on the number of carbon atoms?
+title: >-
+    How are monosaccharides classified based on the number of carbon atoms?
+article_title: >-
+    How are monosaccharides classified based on the number of carbon atoms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/how-are-monosaccharides-classified-based-on-the-nu
 score: -1.0
 related_article1:
     id: 167021
-    title: How are disaccharides formed through glycosidic bonds?
+    title: >-
+        How are disaccharides formed through glycosidic bonds?
     subject: Biology
     url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
 related_article2:
+    id: 167024
+    title: >-
+        Why are polysaccharides biologically important?
+    subject: Biology
+    url: /learn/biology/questions/why-are-polysaccharides-biologically-important
+related_article3:
+    id: 167021
+    title: >-
+        How are disaccharides formed through glycosidic bonds?
+    subject: Biology
+    url: /learn/biology/questions/how-are-disaccharides-formed-through-glycosidic-bonds
+related_article4:
+    id: 167033
+    title: >-
+        What are the different types of starch, and how do they contribute to plant energy storage?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-different-types-of-starch-and-how-do-they-contribute-to-plant-energy-storage
+related_article5:
     id: 167023
-    title: What are the structural variations found in polysaccharides?
+    title: >-
+        What are the structural variations found in polysaccharides?
     subject: Biology
     url: /learn/biology/questions/what-are-the-structural-variations-found-in-polysaccharides
-related_article3:
-    id: 167026
-    title: What role does starch play in plant energy storage?
-    subject: Biology
-    url: /learn/biology/questions/what-role-does-starch-play-in-plant-energy-storage
-related_article4:
-    id: 167018
-    title: How do hydrolysis reactions contribute to metabolism?
-    subject: Biology
-    url: /learn/biology/questions/how-do-hydrolysis-reactions-contribute-to-metabolism
-related_article5:
-    id: 167028
-    title: What is the function of chitin in fungal cell walls and arthropod exoskeletons?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-chitin-in-fungal-cell-walls-and-arthropod-exoskeletons
 ---
 
 &nbsp;

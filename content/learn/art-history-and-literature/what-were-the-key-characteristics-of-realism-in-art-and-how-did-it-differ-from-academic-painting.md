@@ -2,8 +2,10 @@
 _schema: default
 id: 168717
 date: 2025-02-04
-title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
-article_title: What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+title: >-
+    What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
+article_title: >-
+    What were the key characteristics of Realism in art, and how did it differ from Academic Painting?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-di
 url: /learn/art-history-and-literature/questions/what-were-the-key-characteristics-of-realism-in-art-and-how-did-it-differ-from-academic-painting
 score: 9.0
 related_article1:
-    id: 168735
-    title: What role did women play in art during the 19th century, and how was gender identity explored?
+    id: 168728
+    title: >-
+        How did artists depict labor and working conditions during the Industrial Revolution?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-role-did-women-play-in-art-during-the-19th-century-and-how-was-gender-identity-explored
+    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
 related_article2:
-    id: 168719
-    title: What are the defining features of Romanticism, and how did it react to industrialization?
+    id: 168721
+    title: >-
+        In what ways did 19th-century art provide social commentary on labor and industrialization?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-defining-features-of-romanticism-and-how-did-it-react-to-industrialization
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-19thcentury-art-provide-social-commentary-on-labor-and-industrialization
 related_article3:
-    id: 168730
-    title: How did the role of the artist in society evolve in the 19th century, particularly concerning social and political engagement?
+    id: 168731
+    title: >-
+        What were the major artistic movements of the 19th century, and how did they reflect political and social changes?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-role-of-the-artist-in-society-evolve-in-the-19th-century-particularly-concerning-social-and-political-engagement
+    url: /learn/art-history-and-literature/questions/what-were-the-major-artistic-movements-of-the-19th-century-and-how-did-they-reflect-political-and-social-changes
 related_article4:
-    id: 168732
-    title: How did socialist ideas influence art and the representation of the working class in the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-socialist-ideas-influence-art-and-the-representation-of-the-working-class-in-the-19th-century
-related_article5:
     id: 168718
-    title: How did photography influence the development of Realism in art?
+    title: >-
+        How did photography influence the development of Realism in art?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-photography-influence-the-development-of-realism-in-art
+related_article5:
+    id: 168728
+    title: >-
+        How did artists depict labor and working conditions during the Industrial Revolution?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-artists-depict-labor-and-working-conditions-during-the-industrial-revolution
 ---
 
 &nbsp;

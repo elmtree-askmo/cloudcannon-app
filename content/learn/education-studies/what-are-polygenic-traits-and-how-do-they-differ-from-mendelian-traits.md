@@ -2,8 +2,10 @@
 _schema: default
 id: 167781
 date: 2025-02-01
-title: What are polygenic traits, and how do they differ from Mendelian traits?
-article_title: What are polygenic traits, and how do they differ from Mendelian traits?
+title: >-
+    What are polygenic traits, and how do they differ from Mendelian traits?
+article_title: >-
+    What are polygenic traits, and how do they differ from Mendelian traits?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-polygenic-traits-and-how-do-they-differ-from-mendelian-trait
 url: /learn/education-studies/questions/what-are-polygenic-traits-and-how-do-they-differ-from-mendelian-traits
 score: -1.0
 related_article1:
-    id: 167768
-    title: How do Mendel's laws of segregation and independent assortment explain genetic inheritance?
+    id: 167771
+    title: >-
+        What is the role of homologous chromosomes in genetic inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-mendels-laws-of-segregation-and-independent-assortment-explain-genetic-inheritance
+    url: /learn/education-studies/questions/what-is-the-role-of-homologous-chromosomes-in-genetic-inheritance
 related_article2:
-    id: 167774
-    title: What is the product rule in probability, and how is it applied in genetics?
+    id: 167769
+    title: >-
+        What are the differences between phenotypic and genotypic ratios in genetic crosses?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-product-rule-in-probability-and-how-is-it-applied-in-genetics
+    url: /learn/education-studies/questions/what-are-the-differences-between-phenotypic-and-genotypic-ratios-in-genetic-crosses
 related_article3:
-    id: 167767
-    title: What is the significance of Mendel's monohybrid and dihybrid crosses in understanding inheritance?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-mendels-monohybrid-and-dihybrid-crosses-in-understanding-inheritance
-related_article4:
     id: 167780
-    title: How do linkage and crossing over affect genetic variation?
+    title: >-
+        How do linkage and crossing over affect genetic variation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-linkage-and-crossing-over-affect-genetic-variation
-related_article5:
-    id: 167770
-    title: How does the chromosomal theory of inheritance relate to Mendel's laws?
+related_article4:
+    id: 167767
+    title: >-
+        What is the significance of Mendel's monohybrid and dihybrid crosses in understanding inheritance?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-the-chromosomal-theory-of-inheritance-relate-to-mendels-laws
+    url: /learn/education-studies/questions/what-is-the-significance-of-mendels-monohybrid-and-dihybrid-crosses-in-understanding-inheritance
+related_article5:
+    id: 167777
+    title: >-
+        What are the key stages of meiosis, and how do they contribute to genetic variation?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-stages-of-meiosis-and-how-do-they-contribute-to-genetic-variation
 ---
 
 &nbsp;

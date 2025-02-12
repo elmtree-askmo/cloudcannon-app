@@ -2,8 +2,10 @@
 _schema: default
 id: 171005
 date: 2025-02-07
-title: What are the different types of polygyny, and can you provide examples from nature?
-article_title: What are the different types of polygyny, and can you provide examples from nature?
+title: >-
+    What are the different types of polygyny, and can you provide examples from nature?
+article_title: >-
+    What are the different types of polygyny, and can you provide examples from nature?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-different-types-of-polygyny-and-can-you-provide-examples
 url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
 score: -1.0
 related_article1:
-    id: 171016
-    title: What role does behavior play in evolutionary strategies for survival and reproductive success?
+    id: 170995
+    title: >-
+        What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-behavior-play-in-evolutionary-strategies-for-survival-and-reproductive-success
+    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
 related_article2:
-    id: 171009
-    title: What strategies do males use in male-male competition, and how do these affect sexual dimorphism?
+    id: 170997
+    title: >-
+        What role do computer simulations play in understanding real-world cooperation strategies?
     subject: Psychology
-    url: /learn/psychology/questions/what-strategies-do-males-use-in-malemale-competition-and-how-do-these-affect-sexual-dimorphism
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
 related_article3:
-    id: 171000
-    title: How does mate choice influence sexual selection and competition among males?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-mate-choice-influence-sexual-selection-and-competition-among-males
-related_article4:
-    id: 170998
-    title: How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
-related_article5:
     id: 171011
-    title: Why are feedback mechanisms important in biological communication systems?
+    title: >-
+        Why are feedback mechanisms important in biological communication systems?
     subject: Psychology
     url: /learn/psychology/questions/why-are-feedback-mechanisms-important-in-biological-communication-systems
+related_article4:
+    id: 171010
+    title: >-
+        What criteria do females use for mate selection, and how does this impact male traits?
+    subject: Psychology
+    url: /learn/psychology/questions/what-criteria-do-females-use-for-mate-selection-and-how-does-this-impact-male-traits
+related_article5:
+    id: 171002
+    title: >-
+        How does parental investment impact offspring survival and resource allocation trade-offs?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
 ---
 
 &nbsp;

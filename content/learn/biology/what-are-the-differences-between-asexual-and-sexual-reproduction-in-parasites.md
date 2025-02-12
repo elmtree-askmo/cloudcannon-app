@@ -2,8 +2,10 @@
 _schema: default
 id: 165825
 date: 2025-01-29
-title: What are the differences between asexual and sexual reproduction in parasites?
-article_title: What are the differences between asexual and sexual reproduction in parasites?
+title: >-
+    What are the differences between asexual and sexual reproduction in parasites?
+article_title: >-
+    What are the differences between asexual and sexual reproduction in parasites?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-differences-between-asexual-and-sexual-reproduction-in-p
 url: /learn/biology/questions/what-are-the-differences-between-asexual-and-sexual-reproduction-in-parasites
 score: -1.0
 related_article1:
-    id: 165819
-    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
+    id: 165816
+    title: >-
+        What are the defense mechanisms employed by hosts against pathogens?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
+    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
 related_article2:
-    id: 165807
-    title: Describe the taxonomic hierarchy from kingdom to species.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-taxonomic-hierarchy-from-kingdom-to-species
-related_article3:
-    id: 165819
-    title: What is the ecological niche of a parasite, and how does it relate to host specificity?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-ecological-niche-of-a-parasite-and-how-does-it-relate-to-host-specificity
-related_article4:
     id: 165806
-    title: Explain the role of nomenclature in taxonomy.
+    title: >-
+        Explain the role of nomenclature in taxonomy.
     subject: Biology
     url: /learn/biology/questions/explain-the-role-of-nomenclature-in-taxonomy
-related_article5:
-    id: 165815
-    title: Describe the concept of epidemiology in the context of parasite ecology.
+related_article3:
+    id: 165816
+    title: >-
+        What are the defense mechanisms employed by hosts against pathogens?
     subject: Biology
-    url: /learn/biology/questions/describe-the-concept-of-epidemiology-in-the-context-of-parasite-ecology
+    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
+related_article4:
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
+related_article5:
+    id: 165822
+    title: >-
+        What factors contribute to the distribution and abundance of parasites in a population?
+    subject: Biology
+    url: /learn/biology/questions/what-factors-contribute-to-the-distribution-and-abundance-of-parasites-in-a-population
 ---
 
 &nbsp;

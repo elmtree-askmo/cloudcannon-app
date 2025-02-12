@@ -2,8 +2,10 @@
 _schema: default
 id: 166580
 date: 2025-01-30
-title: What are the key components of an effective self-assessment technique?
-article_title: What are the key components of an effective self-assessment technique?
+title: >-
+    What are the key components of an effective self-assessment technique?
+article_title: >-
+    What are the key components of an effective self-assessment technique?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-the-key-components-of-an-effective-selfassessment-technique.
 url: /learn/education-studies/questions/what-are-the-key-components-of-an-effective-selfassessment-technique
 score: -1.0
 related_article1:
-    id: 166595
-    title: What considerations are important when designing effective assessment instruments?
+    id: 166587
+    title: >-
+        What strategies can be employed to improve performance on multiple choice tests?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-considerations-are-important-when-designing-effective-assessment-instruments
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-improve-performance-on-multiple-choice-tests
 related_article2:
-    id: 166594
-    title: What barriers might impede knowledge acquisition, and how can they be overcome?
+    id: 166592
+    title: >-
+        What are the key components of a learning contract, and how do they support academic integrity?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-barriers-might-impede-knowledge-acquisition-and-how-can-they-be-overcome
+    url: /learn/education-studies/questions/what-are-the-key-components-of-a-learning-contract-and-how-do-they-support-academic-integrity
 related_article3:
-    id: 166584
-    title: How can cognitive load management improve exam preparation and performance?
+    id: 166587
+    title: >-
+        What strategies can be employed to improve performance on multiple choice tests?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-cognitive-load-management-improve-exam-preparation-and-performance
+    url: /learn/education-studies/questions/what-strategies-can-be-employed-to-improve-performance-on-multiple-choice-tests
 related_article4:
-    id: 166589
-    title: What is the role of summative assessment in determining academic performance?
+    id: 166597
+    title: >-
+        What are the advantages and disadvantages of traditional versus innovative assessment types?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-summative-assessment-in-determining-academic-performance
+    url: /learn/education-studies/questions/what-are-the-advantages-and-disadvantages-of-traditional-versus-innovative-assessment-types
 related_article5:
     id: 166590
-    title: How can learning outcomes be effectively measured and assessed?
+    title: >-
+        How can learning outcomes be effectively measured and assessed?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-learning-outcomes-be-effectively-measured-and-assessed
 ---

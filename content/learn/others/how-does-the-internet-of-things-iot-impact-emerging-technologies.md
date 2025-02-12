@@ -2,8 +2,10 @@
 _schema: default
 id: 164168
 date: 2025-01-28
-title: How does the Internet of Things (IoT) impact emerging technologies?
-article_title: How does the Internet of Things (IoT) impact emerging technologies?
+title: >-
+    How does the Internet of Things (IoT) impact emerging technologies?
+article_title: >-
+    How does the Internet of Things (IoT) impact emerging technologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-internet-of-things-iot-impact-emerging-technologies.md
 url: /learn/others/questions/how-does-the-internet-of-things-iot-impact-emerging-technologies
 score: -1.0
 related_article1:
-    id: 164180
-    title: How do search algorithms contribute to AI algorithms?
+    id: 164175
+    title: >-
+        What are the applications of digital signal processing?
     subject: Others
-    url: /learn/others/questions/how-do-search-algorithms-contribute-to-ai-algorithms
+    url: /learn/others/questions/what-are-the-applications-of-digital-signal-processing
 related_article2:
     id: 164177
-    title: What is the difference between classification and regression in supervised learning?
+    title: >-
+        What is the difference between classification and regression in supervised learning?
     subject: Others
     url: /learn/others/questions/what-is-the-difference-between-classification-and-regression-in-supervised-learning
 related_article3:
-    id: 164160
-    title: What are some common labeling techniques used in data annotation?
+    id: 164162
+    title: >-
+        How does synthetic data contribute to data augmentation?
     subject: Others
-    url: /learn/others/questions/what-are-some-common-labeling-techniques-used-in-data-annotation
+    url: /learn/others/questions/how-does-synthetic-data-contribute-to-data-augmentation
 related_article4:
-    id: 164179
-    title: What is the role of Markov Decision Processes in reinforcement learning?
-    subject: Others
-    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
-related_article5:
     id: 164171
-    title: How do expert systems serve as a knowledge source?
+    title: >-
+        How do expert systems serve as a knowledge source?
     subject: Others
     url: /learn/others/questions/how-do-expert-systems-serve-as-a-knowledge-source
+related_article5:
+    id: 164175
+    title: >-
+        What are the applications of digital signal processing?
+    subject: Others
+    url: /learn/others/questions/what-are-the-applications-of-digital-signal-processing
 ---
 
 &nbsp;

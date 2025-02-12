@@ -2,8 +2,10 @@
 _schema: default
 id: 168394
 date: 2025-02-03
-title: What can artifacts and symbolism tell us about prehistoric societies?
-article_title: What can artifacts and symbolism tell us about prehistoric societies?
+title: >-
+    What can artifacts and symbolism tell us about prehistoric societies?
+article_title: >-
+    What can artifacts and symbolism tell us about prehistoric societies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies.
 url: /learn/education-studies/questions/what-can-artifacts-and-symbolism-tell-us-about-prehistoric-societies
 score: -1.0
 related_article1:
+    id: 168381
+    title: >-
+        What were the effects of glacial and interglacial periods on human evolution?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-were-the-effects-of-glacial-and-interglacial-periods-on-human-evolution
+related_article2:
+    id: 168390
+    title: >-
+        How does genetic data help in tracing human migration patterns?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-genetic-data-help-in-tracing-human-migration-patterns
+related_article3:
+    id: 168391
+    title: >-
+        What role did kinship play in the social structures of early societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-role-did-kinship-play-in-the-social-structures-of-early-societies
+related_article4:
     id: 168375
-    title: How do primary sources contribute to historical research, and what are their limitations?
+    title: >-
+        How do primary sources contribute to historical research, and what are their limitations?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-primary-sources-contribute-to-historical-research-and-what-are-their-limitations
-related_article2:
-    id: 168389
-    title: What technological advancements were introduced during the Iron Age?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-technological-advancements-were-introduced-during-the-iron-age
-related_article3:
-    id: 168376
-    title: What role do oral histories play in shaping our understanding of the past?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-role-do-oral-histories-play-in-shaping-our-understanding-of-the-past
-related_article4:
-    id: 168385
-    title: What are the defining characteristics of a civilization?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-a-civilization
 related_article5:
-    id: 168392
-    title: How did hunting and gathering societies organize themselves socially?
+    id: 168395
+    title: >-
+        What types of historical evidence are used to study past societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-hunting-and-gathering-societies-organize-themselves-socially
+    url: /learn/education-studies/questions/what-types-of-historical-evidence-are-used-to-study-past-societies
 ---
 
 &nbsp;

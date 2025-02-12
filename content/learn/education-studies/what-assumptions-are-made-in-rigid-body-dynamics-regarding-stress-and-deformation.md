@@ -2,8 +2,10 @@
 _schema: default
 id: 166697
 date: 2025-01-31
-title: What assumptions are made in rigid body dynamics regarding stress and deformation?
-article_title: What assumptions are made in rigid body dynamics regarding stress and deformation?
+title: >-
+    What assumptions are made in rigid body dynamics regarding stress and deformation?
+article_title: >-
+    What assumptions are made in rigid body dynamics regarding stress and deformation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and
 url: /learn/education-studies/questions/what-assumptions-are-made-in-rigid-body-dynamics-regarding-stress-and-deformation
 score: -1.0
 related_article1:
-    id: 166709
-    title: How can engineering certifications impact a professional's career?
+    id: 166721
+    title: >-
+        How do engineering conferences and workshops contribute to professional growth?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
+    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
 related_article2:
-    id: 166713
-    title: How do consulting companies impact the engineering industry?
+    id: 166712
+    title: >-
+        What types of services do consulting companies offer?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-consulting-companies-impact-the-engineering-industry
+    url: /learn/education-studies/questions/what-types-of-services-do-consulting-companies-offer
 related_article3:
-    id: 166715
-    title: What skills and qualifications are typically required for consulting roles in engineering?
+    id: 166714
+    title: >-
+        What are the current job market trends for consulting opportunities in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-skills-and-qualifications-are-typically-required-for-consulting-roles-in-engineering
+    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
 related_article4:
-    id: 166703
-    title: What are some engineering applications of torque?
+    id: 166696
+    title: >-
+        What is the process of force decomposition in vector mathematics?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
+    url: /learn/education-studies/questions/what-is-the-process-of-force-decomposition-in-vector-mathematics
 related_article5:
-    id: 166720
-    title: What types of events do engineering organizations typically host?
+    id: 166710
+    title: >-
+        What are the eligibility criteria for engineering scholarships?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-types-of-events-do-engineering-organizations-typically-host
+    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
 ---
 
 &nbsp;

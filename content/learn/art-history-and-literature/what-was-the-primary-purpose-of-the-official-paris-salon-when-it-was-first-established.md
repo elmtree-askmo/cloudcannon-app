@@ -2,8 +2,10 @@
 _schema: default
 id: 165939
 date: 2025-01-29
-title: What was the primary purpose of the Official Paris Salon when it was first established?
-article_title: What was the primary purpose of the Official Paris Salon when it was first established?
+title: >-
+    What was the primary purpose of the Official Paris Salon when it was first established?
+article_title: >-
+    What was the primary purpose of the Official Paris Salon when it was first established?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-
 url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
 score: 9.0
 related_article1:
-    id: 165954
-    title: How did Cubism influence subsequent art movements?
+    id: 165951
+    title: >-
+        What are the main characteristics and techniques associated with Impressionism?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-cubism-influence-subsequent-art-movements
+    url: /learn/art-history-and-literature/questions/what-are-the-main-characteristics-and-techniques-associated-with-impressionism
 related_article2:
-    id: 165953
-    title: Who were the key artists involved in the development of Cubism, and what were their contributions?
+    id: 165947
+    title: >-
+        What were the founding objectives of the Salon des Independantes, and who were its key figures?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-the-key-artists-involved-in-the-development-of-cubism-and-what-were-their-contributions
+    url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
 related_article3:
-    id: 165961
-    title: How did the transition from traditional to modern art occur, and what were the key changes in styles and techniques?
+    id: 165962
+    title: >-
+        What is the legacy of 19th-century art movements on contemporary art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-transition-from-traditional-to-modern-art-occur-and-what-were-the-key-changes-in-styles-and-techniques
+    url: /learn/art-history-and-literature/questions/what-is-the-legacy-of-19thcentury-art-movements-on-contemporary-art
 related_article4:
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+related_article5:
     id: 165940
-    title: How did criticisms of the Official Salons contribute to their decline?
+    title: >-
+        How did criticisms of the Official Salons contribute to their decline?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/how-did-criticisms-of-the-official-salons-contribute-to-their-decline
-related_article5:
-    id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166897
 date: 2025-01-31
-title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
-article_title: Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+title: >-
+    Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
+article_title: >-
+    Why is it important for learning objectives to be clear and specific, and how should they align with assessments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-is-it-important-for-learning-objectives-to-be-clear-and-specific-
 url: /learn/education-studies/questions/why-is-it-important-for-learning-objectives-to-be-clear-and-specific-and-how-should-they-align-with-assessments
 score: -1.0
 related_article1:
-    id: 166901
-    title: What are the principles of active learning and how do they engage students in meaningful activities?
+    id: 166899
+    title: >-
+        What are the benefits of using Codon Learning courseware in biology education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-principles-of-active-learning-and-how-do-they-engage-students-in-meaningful-activities
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
 related_article2:
-    id: 166906
-    title: How can distractions from cell phone use during lectures be reduced to promote focus?
+    id: 166903
+    title: >-
+        What is the relationship between attendance and GPA, and why is regular attendance important?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-distractions-from-cell-phone-use-during-lectures-be-reduced-to-promote-focus
+    url: /learn/education-studies/questions/what-is-the-relationship-between-attendance-and-gpa-and-why-is-regular-attendance-important
 related_article3:
-    id: 166895
-    title: What are the key components of a graph and why are they important for data interpretation?
+    id: 166899
+    title: >-
+        What are the benefits of using Codon Learning courseware in biology education?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-of-a-graph-and-why-are-they-important-for-data-interpretation
+    url: /learn/education-studies/questions/what-are-the-benefits-of-using-codon-learning-courseware-in-biology-education
 related_article4:
+    id: 166902
+    title: >-
+        How does formative assessment provide ongoing feedback and monitor student progress?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-formative-assessment-provide-ongoing-feedback-and-monitor-student-progress
+related_article5:
     id: 166900
-    title: How do Desire2Learn D2L features support course administration and content delivery?
+    title: >-
+        How do Desire2Learn D2L features support course administration and content delivery?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-desire2learn-d2l-features-support-course-administration-and-content-delivery
-related_article5:
-    id: 166896
-    title: How can trend analysis be used to interpret data effectively?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-trend-analysis-be-used-to-interpret-data-effectively
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163666
 date: 2025-01-27
-title: What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
-article_title: What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+title: >-
+    What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
+article_title: >-
+    What distinguishes objective knowledge from subjective knowledge in quantitative and qualitative methodologies?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-distinguishes-objective-knowledge-from-subjective-knowledge-in-q
 url: /learn/sociology/questions/what-distinguishes-objective-knowledge-from-subjective-knowledge-in-quantitative-and-qualitative-methodologies
 score: -1.0
 related_article1:
-    id: 163667
-    title: What are the ethical considerations related to power relations in research ethics?
+    id: 163664
+    title: >-
+        What are the main goals of decolonial processes in the context of reconciliation and land ownership?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ethical-considerations-related-to-power-relations-in-research-ethics
+    url: /learn/sociology/questions/what-are-the-main-goals-of-decolonial-processes-in-the-context-of-reconciliation-and-land-ownership
 related_article2:
-    id: 163668
-    title: Why is respect for Indigenous knowledge crucial in Indigenous research ethics?
+    id: 163670
+    title: >-
+        What is the historical context of settler colonialism and its impact on Indigenous communities?
     subject: Sociology
-    url: /learn/sociology/questions/why-is-respect-for-indigenous-knowledge-crucial-in-indigenous-research-ethics
+    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
 related_article3:
-    id: 163672
-    title: How does primary data collection differ from secondary data analysis in research?
+    id: 163658
+    title: >-
+        What are the key differences between participant observation and interviews in qualitative research?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-primary-data-collection-differ-from-secondary-data-analysis-in-research
+    url: /learn/sociology/questions/what-are-the-key-differences-between-participant-observation-and-interviews-in-qualitative-research
 related_article4:
-    id: 163661
-    title: How do social inequalities manifest within social hierarchies?
+    id: 163663
+    title: >-
+        How does traditional knowledge contribute to Indigenous sovereignty in research methods?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-social-inequalities-manifest-within-social-hierarchies
+    url: /learn/sociology/questions/how-does-traditional-knowledge-contribute-to-indigenous-sovereignty-in-research-methods
+related_article5:
+    id: 163670
+    title: >-
+        What is the historical context of settler colonialism and its impact on Indigenous communities?
+    subject: Sociology
+    url: /learn/sociology/questions/what-is-the-historical-context-of-settler-colonialism-and-its-impact-on-indigenous-communities
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168525
 date: 2025-02-03
-title: How can acknowledging different views contribute to building consensus in discussions?
-article_title: How can acknowledging different views contribute to building consensus in discussions?
+title: >-
+    How can acknowledging different views contribute to building consensus in discussions?
+article_title: >-
+    How can acknowledging different views contribute to building consensus in discussions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-acknowledging-different-views-contribute-to-building-consensu
 url: /learn/education-studies/questions/how-can-acknowledging-different-views-contribute-to-building-consensus-in-discussions
 score: -1.0
 related_article1:
-    id: 168522
-    title: What is the significance of summarizing points of agreement and disagreement in discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-summarizing-points-of-agreement-and-disagreement-in-discussions
-related_article2:
-    id: 168524
-    title: In what ways can responding to broader themes help move conversations forward?
-    subject: Education Studies
-    url: /learn/education-studies/questions/in-what-ways-can-responding-to-broader-themes-help-move-conversations-forward
-related_article3:
-    id: 168522
-    title: What is the significance of summarizing points of agreement and disagreement in discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-summarizing-points-of-agreement-and-disagreement-in-discussions
-related_article4:
     id: 168520
-    title: Why is active listening important in responding to questions during discussions?
+    title: >-
+        Why is active listening important in responding to questions during discussions?
     subject: Education Studies
     url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
-related_article5:
+related_article2:
+    id: 168526
+    title: >-
+        What are effective ways to challenge ideas while maintaining neutrality and factuality?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-effective-ways-to-challenge-ideas-while-maintaining-neutrality-and-factuality
+related_article3:
     id: 168521
-    title: How can empathy be demonstrated in conversations to understand diverse perspectives?
+    title: >-
+        How can empathy be demonstrated in conversations to understand diverse perspectives?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-empathy-be-demonstrated-in-conversations-to-understand-diverse-perspectives
+related_article4:
+    id: 168518
+    title: >-
+        How does diction and syntax contribute to clarity and precision in oral discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-diction-and-syntax-contribute-to-clarity-and-precision-in-oral-discussions
+related_article5:
+    id: 168520
+    title: >-
+        Why is active listening important in responding to questions during discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/why-is-active-listening-important-in-responding-to-questions-during-discussions
 ---
 
 &nbsp;

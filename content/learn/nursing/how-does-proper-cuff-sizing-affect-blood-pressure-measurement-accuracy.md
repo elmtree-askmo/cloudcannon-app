@@ -2,8 +2,10 @@
 _schema: default
 id: 169517
 date: 2025-02-05
-title: How does proper cuff sizing affect blood pressure measurement accuracy?
-article_title: How does proper cuff sizing affect blood pressure measurement accuracy?
+title: >-
+    How does proper cuff sizing affect blood pressure measurement accuracy?
+article_title: >-
+    How does proper cuff sizing affect blood pressure measurement accuracy?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accurac
 url: /learn/nursing/questions/how-does-proper-cuff-sizing-affect-blood-pressure-measurement-accuracy
 score: -1.0
 related_article1:
-    id: 169526
-    title: How do heart function and blood flow contribute to blood circulation mechanics?
+    id: 169532
+    title: >-
+        What are the phases of Korotkoff sounds, and why are they clinically significant?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-heart-function-and-blood-flow-contribute-to-blood-circulation-mechanics
+    url: /learn/nursing/questions/what-are-the-phases-of-korotkoff-sounds-and-why-are-they-clinically-significant
 related_article2:
-    id: 169515
-    title: What are the potential consequences of false blood pressure readings?
+    id: 169518
+    title: >-
+        What is the difference between systolic and diastolic blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+    url: /learn/nursing/questions/what-is-the-difference-between-systolic-and-diastolic-blood-pressure
 related_article3:
-    id: 169536
-    title: What are the neural and hormonal controls involved in blood pressure regulation?
+    id: 169520
+    title: >-
+        What are the typical blood pressure ranges for adults, and how can they vary by demographics?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-neural-and-hormonal-controls-involved-in-blood-pressure-regulation
+    url: /learn/nursing/questions/what-are-the-typical-blood-pressure-ranges-for-adults-and-how-can-they-vary-by-demographics
 related_article4:
-    id: 169523
-    title: What health implications can arise from hypotension?
+    id: 169519
+    title: >-
+        Why has there been an increasing focus on diastolic blood pressure in recent trends?
     subject: Nursing
-    url: /learn/nursing/questions/what-health-implications-can-arise-from-hypotension
+    url: /learn/nursing/questions/why-has-there-been-an-increasing-focus-on-diastolic-blood-pressure-in-recent-trends
 related_article5:
-    id: 169515
-    title: What are the potential consequences of false blood pressure readings?
+    id: 169529
+    title: >-
+        What biological factors, such as age and gender, affect blood pressure?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-potential-consequences-of-false-blood-pressure-readings
+    url: /learn/nursing/questions/what-biological-factors-such-as-age-and-gender-affect-blood-pressure
 ---
 
 &nbsp;

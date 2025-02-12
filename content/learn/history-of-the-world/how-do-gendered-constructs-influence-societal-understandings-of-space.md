@@ -2,8 +2,10 @@
 _schema: default
 id: 169010
 date: 2025-02-04
-title: How do gendered constructs influence societal understandings of space?
-article_title: How do gendered constructs influence societal understandings of space?
+title: >-
+    How do gendered constructs influence societal understandings of space?
+article_title: >-
+    How do gendered constructs influence societal understandings of space?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-gendered-constructs-influence-societal-understandings-of-space
 url: /learn/history-of-the-world/questions/how-do-gendered-constructs-influence-societal-understandings-of-space
 score: 9.0
 related_article1:
-    id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    id: 169023
+    title: >-
+        What are the gendered and anti-revolutionary filters present in media representations?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
+    url: /learn/history-of-the-world/questions/what-are-the-gendered-and-antirevolutionary-filters-present-in-media-representations
 related_article2:
-    id: 169007
-    title: How is architecture strategically used in different contexts?
+    id: 169019
+    title: >-
+        How did women strategically use architecture during revolutionary movements?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
+    url: /learn/history-of-the-world/questions/how-did-women-strategically-use-architecture-during-revolutionary-movements
 related_article3:
-    id: 169004
-    title: In what ways does critical theory reframe architectural narratives?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-does-critical-theory-reframe-architectural-narratives
-related_article4:
     id: 169007
-    title: How is architecture strategically used in different contexts?
+    title: >-
+        How is architecture strategically used in different contexts?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
+related_article4:
+    id: 169020
+    title: >-
+        How are historical events represented in cultural narratives within architecture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-are-historical-events-represented-in-cultural-narratives-within-architecture
 related_article5:
     id: 169017
-    title: What is the historical significance of the Serdan House in the context of revolution?
+    title: >-
+        What is the historical significance of the Serdan House in the context of revolution?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-is-the-historical-significance-of-the-serdan-house-in-the-context-of-revolution
 ---

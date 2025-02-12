@@ -2,8 +2,10 @@
 _schema: default
 id: 166923
 date: 2025-01-31
-title: How do phenotypic differences contribute to variation in a population?
-article_title: How do phenotypic differences contribute to variation in a population?
+title: >-
+    How do phenotypic differences contribute to variation in a population?
+article_title: >-
+    How do phenotypic differences contribute to variation in a population?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-phenotypic-differences-contribute-to-variation-in-a-population
 url: /learn/biology/questions/how-do-phenotypic-differences-contribute-to-variation-in-a-population
 score: -1.0
 related_article1:
-    id: 166922
-    title: What are the main characteristics of the domain Bacteria, and what role do they play in ecosystems?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-main-characteristics-of-the-domain-bacteria-and-what-role-do-they-play-in-ecosystems
-related_article2:
     id: 166926
-    title: What role do feedback systems play in maintaining homeostasis?
+    title: >-
+        What role do feedback systems play in maintaining homeostasis?
     subject: Biology
     url: /learn/biology/questions/what-role-do-feedback-systems-play-in-maintaining-homeostasis
+related_article2:
+    id: 166907
+    title: >-
+        What is the role of observation in scientific inquiry?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-role-of-observation-in-scientific-inquiry
 related_article3:
-    id: 166914
-    title: How do organisms respond to stimuli, and why is this important?
+    id: 166931
+    title: >-
+        What are the sensory mechanisms involved in detecting stimuli?
     subject: Biology
-    url: /learn/biology/questions/how-do-organisms-respond-to-stimuli-and-why-is-this-important
+    url: /learn/biology/questions/what-are-the-sensory-mechanisms-involved-in-detecting-stimuli
 related_article4:
-    id: 166912
-    title: How do scientists analyze results to evaluate a hypothesis?
+    id: 166925
+    title: >-
+        How is a phylogenetic tree constructed, and why is it important in biology?
     subject: Biology
-    url: /learn/biology/questions/how-do-scientists-analyze-results-to-evaluate-a-hypothesis
+    url: /learn/biology/questions/how-is-a-phylogenetic-tree-constructed-and-why-is-it-important-in-biology
 related_article5:
-    id: 166934
-    title: What factors influence differential reproductive success in natural selection?
+    id: 166928
+    title: >-
+        What are the mechanisms and processes involved in sexual reproduction?
     subject: Biology
-    url: /learn/biology/questions/what-factors-influence-differential-reproductive-success-in-natural-selection
+    url: /learn/biology/questions/what-are-the-mechanisms-and-processes-involved-in-sexual-reproduction
 ---
 
 &nbsp;

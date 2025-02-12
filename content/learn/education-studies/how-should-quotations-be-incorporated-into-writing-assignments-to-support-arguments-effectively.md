@@ -2,8 +2,10 @@
 _schema: default
 id: 170034
 date: 2025-02-05
-title: How should quotations be incorporated into writing assignments to support arguments effectively?
-article_title: How should quotations be incorporated into writing assignments to support arguments effectively?
+title: >-
+    How should quotations be incorporated into writing assignments to support arguments effectively?
+article_title: >-
+    How should quotations be incorporated into writing assignments to support arguments effectively?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-should-quotations-be-incorporated-into-writing-assignments-to-sup
 url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
 score: -1.0
 related_article1:
-    id: 170035
-    title: What are the differences between online resources and print articles when citing sources in academic writing?
+    id: 170048
+    title: >-
+        What factors influenced population density in pre-agricultural societies, and how did these change over time?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
+    url: /learn/education-studies/questions/what-factors-influenced-population-density-in-preagricultural-societies-and-how-did-these-change-over-time
 related_article2:
-    id: 170047
-    title: How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+    id: 170041
+    title: >-
+        How does Voice Thread technology enhance student engagement and facilitate discussion in class?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
+    url: /learn/education-studies/questions/how-does-voice-thread-technology-enhance-student-engagement-and-facilitate-discussion-in-class
 related_article3:
-    id: 170040
-    title: What is the difference between quoting and paraphrasing when engaging with primary source documents?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-quoting-and-paraphrasing-when-engaging-with-primary-source-documents
-related_article4:
     id: 170042
-    title: What are the characteristics of hunting and gathering societies in terms of population density and food resources?
+    title: >-
+        What are the characteristics of hunting and gathering societies in terms of population density and food resources?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
-related_article5:
-    id: 170056
-    title: What methods and approaches are used in historical anthropology to study ancient societies?
+related_article4:
+    id: 170043
+    title: >-
+        How did the role of women in food collection impact hunting and gathering societies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-methods-and-approaches-are-used-in-historical-anthropology-to-study-ancient-societies
+    url: /learn/education-studies/questions/how-did-the-role-of-women-in-food-collection-impact-hunting-and-gathering-societies
+related_article5:
+    id: 170038
+    title: >-
+        How can you ensure that your paraphrasing maintains the original meaning of the text?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-you-ensure-that-your-paraphrasing-maintains-the-original-meaning-of-the-text
 ---
 
 &nbsp;

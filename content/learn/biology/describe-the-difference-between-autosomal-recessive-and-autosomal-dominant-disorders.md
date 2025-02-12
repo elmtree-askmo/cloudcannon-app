@@ -2,8 +2,10 @@
 _schema: default
 id: 167880
 date: 2025-02-01
-title: Describe the difference between autosomal recessive and autosomal dominant disorders.
-article_title: Describe the difference between autosomal recessive and autosomal dominant disorders.
+title: >-
+    Describe the difference between autosomal recessive and autosomal dominant disorders.
+article_title: >-
+    Describe the difference between autosomal recessive and autosomal dominant disorders.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-difference-between-autosomal-recessive-and-autosomal-dom
 url: /learn/biology/questions/describe-the-difference-between-autosomal-recessive-and-autosomal-dominant-disorders
 score: -1.0
 related_article1:
-    id: 167875
-    title: What is codominance and how does it differ from incomplete dominance?
+    id: 167871
+    title: >-
+        Explain the molecular mechanism behind complete dominance.
     subject: Biology
-    url: /learn/biology/questions/what-is-codominance-and-how-does-it-differ-from-incomplete-dominance
+    url: /learn/biology/questions/explain-the-molecular-mechanism-behind-complete-dominance
 related_article2:
-    id: 167881
-    title: What are the characteristics of X-linked recessive disorders?
+    id: 167887
+    title: >-
+        Explain the role of genetic models in understanding phenotypic outcomes.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-characteristics-of-xlinked-recessive-disorders
+    url: /learn/biology/questions/explain-the-role-of-genetic-models-in-understanding-phenotypic-outcomes
 related_article3:
-    id: 167876
-    title: Describe an example of codominance and its phenotypic outcome.
+    id: 167892
+    title: >-
+        What are the different blood types and how are they determined?
     subject: Biology
-    url: /learn/biology/questions/describe-an-example-of-codominance-and-its-phenotypic-outcome
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
 related_article4:
-    id: 167893
-    title: Explain the role of antigens in determining blood types.
+    id: 167888
+    title: >-
+        What is genetic variation and why is it important in populations?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-antigens-in-determining-blood-types
+    url: /learn/biology/questions/what-is-genetic-variation-and-why-is-it-important-in-populations
 related_article5:
-    id: 167877
-    title: Explain the concept of incomplete penetrance with an example.
+    id: 167892
+    title: >-
+        What are the different blood types and how are they determined?
     subject: Biology
-    url: /learn/biology/questions/explain-the-concept-of-incomplete-penetrance-with-an-example
+    url: /learn/biology/questions/what-are-the-different-blood-types-and-how-are-they-determined
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 162313
 date: 2025-01-25
-title: Why are rigid transformations important in determining congruence?
-article_title: Why are rigid transformations important in determining congruence?
+title: >-
+    Why are rigid transformations important in determining congruence?
+article_title: >-
+    Why are rigid transformations important in determining congruence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: why-are-rigid-transformations-important-in-determining-congruence.md
 url: /learn/mathematics/questions/why-are-rigid-transformations-important-in-determining-congruence
 score: -1.0
 related_article1:
-    id: 162327
-    title: What strategies can be used to match the orientation of two figures?
+    id: 162331
+    title: >-
+        Why is identifying vertices important in transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures
+    url: /learn/mathematics/questions/why-is-identifying-vertices-important-in-transformations
 related_article2:
-    id: 162225
-    title: What strategies can be used to match the orientation of two figures after a transformation?
+    id: 162314
+    title: >-
+        What are the three types of rigid transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-strategies-can-be-used-to-match-the-orientation-of-two-figures-after-a-transformation
+    url: /learn/mathematics/questions/what-are-the-three-types-of-rigid-transformations
 related_article3:
-    id: 162226
-    title: How can rotation be used to adjust the orientation of a figure?
+    id: 162228
+    title: >-
+        How do you interpret changes in coordinates when a figure is translated?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-rotation-be-used-to-adjust-the-orientation-of-a-figure
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 related_article4:
-    id: 162328
-    title: How is translation notation used to interpret changes in coordinates?
+    id: 162232
+    title: >-
+        How do transformations affect the positions of vertices in a figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-is-translation-notation-used-to-interpret-changes-in-coordinates
+    url: /learn/mathematics/questions/how-do-transformations-affect-the-positions-of-vertices-in-a-figure
 related_article5:
-    id: 162227
-    title: What is the standard notation for translation in transformations?
+    id: 162228
+    title: >-
+        How do you interpret changes in coordinates when a figure is translated?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-notation-for-translation-in-transformations
+    url: /learn/mathematics/questions/how-do-you-interpret-changes-in-coordinates-when-a-figure-is-translated
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169946
 date: 2025-02-05
-title: What are the four levels of protein structure?
-article_title: What are the four levels of protein structure?
+title: >-
+    What are the four levels of protein structure?
+article_title: >-
+    What are the four levels of protein structure?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-four-levels-of-protein-structure.md
 url: /learn/biology/questions/what-are-the-four-levels-of-protein-structure
 score: -1.0
 related_article1:
-    id: 169939
-    title: What is the difference between covalent and ionic bonds?
+    id: 169948
+    title: >-
+        What is the role of phospholipids in cell membranes?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-covalent-and-ionic-bonds
+    url: /learn/biology/questions/what-is-the-role-of-phospholipids-in-cell-membranes
 related_article2:
-    id: 169955
-    title: What is the difference between anabolic and catabolic pathways in metabolism?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-anabolic-and-catabolic-pathways-in-metabolism
-related_article3:
     id: 169952
-    title: What is the relationship between monomers and polymers in biological molecules?
+    title: >-
+        What is the relationship between monomers and polymers in biological molecules?
     subject: Biology
     url: /learn/biology/questions/what-is-the-relationship-between-monomers-and-polymers-in-biological-molecules
+related_article3:
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
 related_article4:
-    id: 169953
-    title: What is the primary structure of a protein?
+    id: 169945
+    title: >-
+        What is the structural difference between cellulose and starch?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-primary-structure-of-a-protein
+    url: /learn/biology/questions/what-is-the-structural-difference-between-cellulose-and-starch
 related_article5:
-    id: 169942
-    title: What are the building blocks of proteins?
+    id: 169951
+    title: >-
+        What is the significance of the hydrophilic and hydrophobic regions in the phospholipid bilayer?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-building-blocks-of-proteins
+    url: /learn/biology/questions/what-is-the-significance-of-the-hydrophilic-and-hydrophobic-regions-in-the-phospholipid-bilayer
 ---
 
 &nbsp;

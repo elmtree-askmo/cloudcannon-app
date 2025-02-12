@@ -2,8 +2,10 @@
 _schema: default
 id: 168651
 date: 2025-02-03
-title: What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
-article_title: What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
+title: >-
+    What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
+article_title: >-
+    What is the role of interior design in ensuring public safety in corporate offices, hospitals, and multifamily housing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corp
 url: /learn/others/questions/what-is-the-role-of-interior-design-in-ensuring-public-safety-in-corporate-offices-hospitals-and-multifamily-housing
 score: -1.0
 related_article1:
-    id: 168655
-    title: What are the considerations for selecting materials based on fire separation requirements and flammability ratings?
+    id: 168654
+    title: >-
+        How do health and safety regulations influence the welfare of building occupants?
     subject: Others
-    url: /learn/others/questions/what-are-the-considerations-for-selecting-materials-based-on-fire-separation-requirements-and-flammability-ratings
+    url: /learn/others/questions/how-do-health-and-safety-regulations-influence-the-welfare-of-building-occupants
 related_article2:
+    id: 168653
+    title: >-
+        What are the key components of drafting construction documents in compliance with state and local building codes?
+    subject: Others
+    url: /learn/others/questions/what-are-the-key-components-of-drafting-construction-documents-in-compliance-with-state-and-local-building-codes
+related_article3:
     id: 168662
-    title: How do qualified interior designers contribute to creating safe and functional environments?
+    title: >-
+        How do qualified interior designers contribute to creating safe and functional environments?
     subject: Others
     url: /learn/others/questions/how-do-qualified-interior-designers-contribute-to-creating-safe-and-functional-environments
-related_article3:
-    id: 168661
-    title: What formal education and training are required for qualified interior designers to ensure safety and functionality in design?
-    subject: Others
-    url: /learn/others/questions/what-formal-education-and-training-are-required-for-qualified-interior-designers-to-ensure-safety-and-functionality-in-design
 related_article4:
-    id: 168657
-    title: What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
+    id: 168654
+    title: >-
+        How do health and safety regulations influence the welfare of building occupants?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
+    url: /learn/others/questions/how-do-health-and-safety-regulations-influence-the-welfare-of-building-occupants
 related_article5:
-    id: 168657
-    title: What are the key aspects of creating accessible spaces in accordance with the Americans with Disabilities Act?
+    id: 168659
+    title: >-
+        What materials are considered appropriate for walls and ceilings to ensure fire safety?
     subject: Others
-    url: /learn/others/questions/what-are-the-key-aspects-of-creating-accessible-spaces-in-accordance-with-the-americans-with-disabilities-act
+    url: /learn/others/questions/what-materials-are-considered-appropriate-for-walls-and-ceilings-to-ensure-fire-safety
 ---
 
 &nbsp;

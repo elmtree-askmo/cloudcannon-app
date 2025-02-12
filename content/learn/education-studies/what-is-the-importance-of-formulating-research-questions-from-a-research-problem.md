@@ -2,8 +2,10 @@
 _schema: default
 id: 163687
 date: 2025-01-27
-title: What is the importance of formulating research questions from a research problem?
-article_title: What is the importance of formulating research questions from a research problem?
+title: >-
+    What is the importance of formulating research questions from a research problem?
+article_title: >-
+    What is the importance of formulating research questions from a research problem?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-formulating-research-questions-from-a-resea
 url: /learn/education-studies/questions/what-is-the-importance-of-formulating-research-questions-from-a-research-problem
 score: -1.0
 related_article1:
-    id: 163693
-    title: What is holism, and why is it important in qualitative research?
+    id: 163675
+    title: >-
+        What is the difference between objective and subjective knowledge in epistemology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
 related_article2:
-    id: 163693
-    title: What is holism, and why is it important in qualitative research?
+    id: 163680
+    title: >-
+        How is deductive reasoning used in quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-holism-and-why-is-it-important-in-qualitative-research
+    url: /learn/education-studies/questions/how-is-deductive-reasoning-used-in-quantitative-research
 related_article3:
-    id: 163690
-    title: What is the process of deductive reasoning, and how is it applied in quantitative research?
+    id: 163685
+    title: >-
+        What is the process of coding and thematic analysis in qualitative data analysis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-deductive-reasoning-and-how-is-it-applied-in-quantitative-research
+    url: /learn/education-studies/questions/what-is-the-process-of-coding-and-thematic-analysis-in-qualitative-data-analysis
 related_article4:
-    id: 163689
-    title: What is the process of inductive reasoning, and how is it applied in qualitative research?
+    id: 163684
+    title: >-
+        What are some common quantitative data collection methods?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-process-of-inductive-reasoning-and-how-is-it-applied-in-qualitative-research
+    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
 related_article5:
-    id: 163686
-    title: How is statistical analysis used in quantitative data analysis?
+    id: 163682
+    title: >-
+        What are the key elements of a research design?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
+    url: /learn/education-studies/questions/what-are-the-key-elements-of-a-research-design
 ---
 
 &nbsp;

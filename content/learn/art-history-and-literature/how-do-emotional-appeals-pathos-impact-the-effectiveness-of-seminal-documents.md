@@ -2,8 +2,10 @@
 _schema: default
 id: 168576
 date: 2025-02-03
-title: How do emotional appeals (pathos) impact the effectiveness of seminal documents?
-article_title: How do emotional appeals (pathos) impact the effectiveness of seminal documents?
+title: >-
+    How do emotional appeals (pathos) impact the effectiveness of seminal documents?
+article_title: >-
+    How do emotional appeals (pathos) impact the effectiveness of seminal documents?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-d
 url: /learn/art-history-and-literature/questions/how-do-emotional-appeals-pathos-impact-the-effectiveness-of-seminal-documents
 score: 9.0
 related_article1:
-    id: 168586
-    title: How can comparative analysis be applied to evaluate the effectiveness of seminal documents?
+    id: 168580
+    title: >-
+        How does the tone of 'Letter from Birmingham Jail' enhance its persuasive power?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-can-comparative-analysis-be-applied-to-evaluate-the-effectiveness-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-does-the-tone-of-letter-from-birmingham-jail-enhance-its-persuasive-power
 related_article2:
-    id: 168575
-    title: What is the role of logical appeals (logos) in the argumentation of seminal documents?
+    id: 168574
+    title: >-
+        How do allusions in historical texts enhance meaning and context?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-is-the-role-of-logical-appeals-logos-in-the-argumentation-of-seminal-documents
+    url: /learn/art-history-and-literature/questions/how-do-allusions-in-historical-texts-enhance-meaning-and-context
 related_article3:
-    id: 168571
-    title: What are the legal and social perspectives of justice as depicted in seminal texts?
+    id: 168565
+    title: >-
+        What are the key characteristics that define a seminal document?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/what-are-the-legal-and-social-perspectives-of-justice-as-depicted-in-seminal-texts
+    url: /learn/art-history-and-literature/questions/what-are-the-key-characteristics-that-define-a-seminal-document
 related_article4:
-    id: 168566
-    title: How have seminal documents influenced American culture?
+    id: 168579
+    title: >-
+        What is the tone of the Gettysburg Address, and how does it contribute to its message?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-have-seminal-documents-influenced-american-culture
+    url: /learn/art-history-and-literature/questions/what-is-the-tone-of-the-gettysburg-address-and-how-does-it-contribute-to-its-message
+related_article5:
+    id: 168585
+    title: >-
+        What techniques are used in language and rhetoric analysis to identify key elements in seminal documents?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-techniques-are-used-in-language-and-rhetoric-analysis-to-identify-key-elements-in-seminal-documents
 ---
 
 &nbsp;

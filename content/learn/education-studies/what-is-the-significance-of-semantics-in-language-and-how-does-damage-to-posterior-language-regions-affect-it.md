@@ -2,8 +2,10 @@
 _schema: default
 id: 164515
 date: 2025-01-28
-title: What is the significance of semantics in language, and how does damage to posterior language regions affect it?
-article_title: What is the significance of semantics in language, and how does damage to posterior language regions affect it?
+title: >-
+    What is the significance of semantics in language, and how does damage to posterior language regions affect it?
+article_title: >-
+    What is the significance of semantics in language, and how does damage to posterior language regions affect it?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-semantics-in-language-and-how-does-damage
 url: /learn/education-studies/questions/what-is-the-significance-of-semantics-in-language-and-how-does-damage-to-posterior-language-regions-affect-it
 score: -1.0
 related_article1:
-    id: 164508
-    title: How does TMS contribute to understanding vision and motion detection?
+    id: 164518
+    title: >-
+        What are the defining characteristics of dyslexia, and how prevalent is it?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-tms-contribute-to-understanding-vision-and-motion-detection
+    url: /learn/education-studies/questions/what-are-the-defining-characteristics-of-dyslexia-and-how-prevalent-is-it
 related_article2:
-    id: 164519
-    title: How do visual and auditory processing issues relate to cognitive processing in dyslexia?
+    id: 164509
+    title: >-
+        What are the basic principles of EEG signal recording?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-visual-and-auditory-processing-issues-relate-to-cognitive-processing-in-dyslexia
+    url: /learn/education-studies/questions/what-are-the-basic-principles-of-eeg-signal-recording
 related_article3:
     id: 164510
-    title: Why are ERP components important in cognitive processing studies?
+    title: >-
+        Why are ERP components important in cognitive processing studies?
     subject: Education Studies
     url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
 related_article4:
-    id: 164520
-    title: What tools and techniques are used in cognitive assessment, and why are they important in language studies?
+    id: 164510
+    title: >-
+        Why are ERP components important in cognitive processing studies?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-tools-and-techniques-are-used-in-cognitive-assessment-and-why-are-they-important-in-language-studies
+    url: /learn/education-studies/questions/why-are-erp-components-important-in-cognitive-processing-studies
 related_article5:
-    id: 164507
-    title: What are the advantages of using Transcranial Magnetic Stimulation (TMS) in cognitive studies?
+    id: 164522
+    title: >-
+        Which brain regions are involved in speech production, and how does aphasia affect this process?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-transcranial-magnetic-stimulation-tms-in-cognitive-studies
+    url: /learn/education-studies/questions/which-brain-regions-are-involved-in-speech-production-and-how-does-aphasia-affect-this-process
 ---
 
 &nbsp;

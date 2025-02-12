@@ -2,8 +2,10 @@
 _schema: default
 id: 164049
 date: 2025-01-28
-title: What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
-article_title: What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+title: >-
+    What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
+article_title: >-
+    What questions are typically addressed in forensic assessments regarding mental health disorders and crime?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-questions-are-typically-addressed-in-forensic-assessments-regard
 url: /learn/psychology/questions/what-questions-are-typically-addressed-in-forensic-assessments-regarding-mental-health-disorders-and-crime
 score: -1.0
 related_article1:
-    id: 164039
-    title: What is the role of forensic assessment in Dutch criminal law?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
-related_article2:
     id: 164042
-    title: How do neurobiological factors, such as brain development, influence delinquent behavior?
+    title: >-
+        How do neurobiological factors, such as brain development, influence delinquent behavior?
     subject: Psychology
     url: /learn/psychology/questions/how-do-neurobiological-factors-such-as-brain-development-influence-delinquent-behavior
+related_article2:
+    id: 164053
+    title: >-
+        What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    subject: Psychology
+    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
 related_article3:
-    id: 164053
-    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    id: 164039
+    title: >-
+        What is the role of forensic assessment in Dutch criminal law?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+    url: /learn/psychology/questions/what-is-the-role-of-forensic-assessment-in-dutch-criminal-law
 related_article4:
-    id: 164053
-    title: What are the goals of research and development in the forensic field concerning delayed development and delinquent behavior?
+    id: 164050
+    title: >-
+        How does the biopsychosocial model integrate neuro, psychological, and social factors in forensic assessment?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-goals-of-research-and-development-in-the-forensic-field-concerning-delayed-development-and-delinquent-behavior
+    url: /learn/psychology/questions/how-does-the-biopsychosocial-model-integrate-neuro-psychological-and-social-factors-in-forensic-assessment
 related_article5:
-    id: 164048
-    title: How is traumatic brain injury addressed in Pro Justitia reports, and what challenges are faced in treatment?
+    id: 164051
+    title: >-
+        What are the age limits and developmental considerations in juvenile criminal law within the Dutch criminal justice system?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-traumatic-brain-injury-addressed-in-pro-justitia-reports-and-what-challenges-are-faced-in-treatment
+    url: /learn/psychology/questions/what-are-the-age-limits-and-developmental-considerations-in-juvenile-criminal-law-within-the-dutch-criminal-justice-system
 ---
 
 &nbsp;

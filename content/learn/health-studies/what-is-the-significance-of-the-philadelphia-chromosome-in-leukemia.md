@@ -2,8 +2,10 @@
 _schema: default
 id: 166318
 date: 2025-01-30
-title: What is the significance of the Philadelphia chromosome in leukemia?
-article_title: What is the significance of the Philadelphia chromosome in leukemia?
+title: >-
+    What is the significance of the Philadelphia chromosome in leukemia?
+article_title: >-
+    What is the significance of the Philadelphia chromosome in leukemia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia.m
 url: /learn/health-studies/questions/what-is-the-significance-of-the-philadelphia-chromosome-in-leukemia
 score: -1.0
 related_article1:
-    id: 166309
-    title: What constitutional symptoms are associated with lymphoma?
+    id: 166317
+    title: >-
+        What is the mechanism of action of chemotherapy in cancer treatment?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-constitutional-symptoms-are-associated-with-lymphoma
+    url: /learn/health-studies/questions/what-is-the-mechanism-of-action-of-chemotherapy-in-cancer-treatment
 related_article2:
-    id: 166295
-    title: What are the primary risk factors for developing leukemia related to radiation exposure?
+    id: 166293
+    title: >-
+        Which protein markers are significant in the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-primary-risk-factors-for-developing-leukemia-related-to-radiation-exposure
+    url: /learn/health-studies/questions/which-protein-markers-are-significant-in-the-diagnosis-of-leukemia
 related_article3:
-    id: 166306
-    title: What is the pathophysiology behind abnormal lymphocyte growth in lymphoma?
+    id: 166294
+    title: >-
+        How do imaging studies contribute to the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiology-behind-abnormal-lymphocyte-growth-in-lymphoma
+    url: /learn/health-studies/questions/how-do-imaging-studies-contribute-to-the-diagnosis-of-leukemia
 related_article4:
-    id: 166299
-    title: What systemic symptoms are commonly observed in leukemia patients?
+    id: 166307
+    title: >-
+        How do solid tumors form in lymphoma?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-systemic-symptoms-are-commonly-observed-in-leukemia-patients
+    url: /learn/health-studies/questions/how-do-solid-tumors-form-in-lymphoma
 related_article5:
-    id: 166296
-    title: How do chemical and drug exposures increase the risk of leukemia?
+    id: 166294
+    title: >-
+        How do imaging studies contribute to the diagnosis of leukemia?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-chemical-and-drug-exposures-increase-the-risk-of-leukemia
+    url: /learn/health-studies/questions/how-do-imaging-studies-contribute-to-the-diagnosis-of-leukemia
 ---
 
 &nbsp;

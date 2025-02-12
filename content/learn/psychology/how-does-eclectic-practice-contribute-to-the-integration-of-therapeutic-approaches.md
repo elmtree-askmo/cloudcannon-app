@@ -2,8 +2,10 @@
 _schema: default
 id: 163027
 date: 2025-01-26
-title: How does eclectic practice contribute to the integration of therapeutic approaches?
-article_title: How does eclectic practice contribute to the integration of therapeutic approaches?
+title: >-
+    How does eclectic practice contribute to the integration of therapeutic approaches?
+article_title: >-
+    How does eclectic practice contribute to the integration of therapeutic approaches?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-eclectic-practice-contribute-to-the-integration-of-therapeut
 url: /learn/psychology/questions/how-does-eclectic-practice-contribute-to-the-integration-of-therapeutic-approaches
 score: -1.0
 related_article1:
-    id: 163029
-    title: Why is empirical support crucial for the validity of psychological theories?
+    id: 163036
+    title: >-
+        What is the significance of evidence-based practice in therapy?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-empirical-support-crucial-for-the-validity-of-psychological-theories
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
 related_article2:
-    id: 163033
-    title: How do power imbalances affect cultural safety in therapy?
+    id: 163036
+    title: >-
+        What is the significance of evidence-based practice in therapy?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-power-imbalances-affect-cultural-safety-in-therapy
+    url: /learn/psychology/questions/what-is-the-significance-of-evidencebased-practice-in-therapy
 related_article3:
-    id: 163025
-    title: How can cultural significance limit the effectiveness of psychological theories?
+    id: 163032
+    title: >-
+        Why is multicultural competence important in counseling?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-cultural-significance-limit-the-effectiveness-of-psychological-theories
+    url: /learn/psychology/questions/why-is-multicultural-competence-important-in-counseling
 related_article4:
     id: 163026
-    title: What are the key components of a conceptual framework in therapy?
+    title: >-
+        What are the key components of a conceptual framework in therapy?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-key-components-of-a-conceptual-framework-in-therapy
 related_article5:
-    id: 163041
-    title: Why is past behavior considered a strong predictor of future behavior in therapy?
+    id: 163030
+    title: >-
+        What are the ethical considerations regarding informed consent in therapy?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-past-behavior-considered-a-strong-predictor-of-future-behavior-in-therapy
+    url: /learn/psychology/questions/what-are-the-ethical-considerations-regarding-informed-consent-in-therapy
 ---
 
 &nbsp;

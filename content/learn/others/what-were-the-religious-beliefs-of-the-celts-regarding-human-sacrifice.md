@@ -2,8 +2,10 @@
 _schema: default
 id: 166054
 date: 2025-01-29
-title: What were the religious beliefs of the Celts regarding human sacrifice?
-article_title: What were the religious beliefs of the Celts regarding human sacrifice?
+title: >-
+    What were the religious beliefs of the Celts regarding human sacrifice?
+article_title: >-
+    What were the religious beliefs of the Celts regarding human sacrifice?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-were-the-religious-beliefs-of-the-celts-regarding-human-sacrific
 url: /learn/others/questions/what-were-the-religious-beliefs-of-the-celts-regarding-human-sacrifice
 score: -1.0
 related_article1:
-    id: 166046
-    title: How did Julius Caesar describe the division of Gaul in 'De Bello Gallico'?
-    subject: Others
-    url: /learn/others/questions/how-did-julius-caesar-describe-the-division-of-gaul-in-de-bello-gallico
-related_article2:
     id: 166053
-    title: What were the main interactions between Celtic tribes and Romans?
+    title: >-
+        What were the main interactions between Celtic tribes and Romans?
     subject: Others
     url: /learn/others/questions/what-were-the-main-interactions-between-celtic-tribes-and-romans
+related_article2:
+    id: 166047
+    title: >-
+        What influence did Posidonius have on Caesar's ethnographic descriptions in 'De Bello Gallico'?
+    subject: Others
+    url: /learn/others/questions/what-influence-did-posidonius-have-on-caesars-ethnographic-descriptions-in-de-bello-gallico
 related_article3:
-    id: 166041
-    title: How did Greek sources describe the martial prowess of the Celts?
+    id: 166056
+    title: >-
+        What were Pliny the Elder's observations about the Celts?
     subject: Others
-    url: /learn/others/questions/how-did-greek-sources-describe-the-martial-prowess-of-the-celts
+    url: /learn/others/questions/what-were-pliny-the-elders-observations-about-the-celts
 related_article4:
-    id: 166049
-    title: Why were Druids exempt from war, and what was the significance of their oral tradition?
+    id: 166057
+    title: >-
+        How did Roman perspectives, such as Caesar's narratives, shape the historical accounts of the Celts?
     subject: Others
-    url: /learn/others/questions/why-were-druids-exempt-from-war-and-what-was-the-significance-of-their-oral-tradition
-related_article5:
-    id: 166044
-    title: What was the outcome of the Helvetii migration during the Gallic Wars?
-    subject: Others
-    url: /learn/others/questions/what-was-the-outcome-of-the-helvetii-migration-during-the-gallic-wars
+    url: /learn/others/questions/how-did-roman-perspectives-such-as-caesars-narratives-shape-the-historical-accounts-of-the-celts
 ---
 
 &nbsp;

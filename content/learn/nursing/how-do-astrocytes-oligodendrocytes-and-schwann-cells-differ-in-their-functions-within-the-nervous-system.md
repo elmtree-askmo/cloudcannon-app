@@ -2,8 +2,10 @@
 _schema: default
 id: 170490
 date: 2025-02-06
-title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
-article_title: How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+title: >-
+    How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
+article_title: >-
+    How do astrocytes, oligodendrocytes, and Schwann cells differ in their functions within the nervous system?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-
 url: /learn/nursing/questions/how-do-astrocytes-oligodendrocytes-and-schwann-cells-differ-in-their-functions-within-the-nervous-system
 score: -1.0
 related_article1:
-    id: 170497
-    title: Describe the functional differences between the central and peripheral nervous systems.
+    id: 170496
+    title: >-
+        What is the clinical significance of the Babinski test in neurological assessment?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-functional-differences-between-the-central-and-peripheral-nervous-systems
+    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
 related_article2:
     id: 170487
-    title: How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    title: >-
+        How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
     subject: Nursing
     url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
 related_article3:
-    id: 170494
-    title: What are the primary symptoms of Amyotrophic Lateral Sclerosis (ALS) and how is it diagnosed?
+    id: 170493
+    title: >-
+        How does glutamate contribute to the pathology of Amyotrophic Lateral Sclerosis (ALS)?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-symptoms-of-amyotrophic-lateral-sclerosis-als-and-how-is-it-diagnosed
+    url: /learn/nursing/questions/how-does-glutamate-contribute-to-the-pathology-of-amyotrophic-lateral-sclerosis-als
 related_article4:
-    id: 170487
-    title: How do monosynaptic and polysynaptic reflexes differ in terms of neural pathways?
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
     subject: Nursing
-    url: /learn/nursing/questions/how-do-monosynaptic-and-polysynaptic-reflexes-differ-in-terms-of-neural-pathways
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 related_article5:
-    id: 170496
-    title: What is the clinical significance of the Babinski test in neurological assessment?
+    id: 170491
+    title: >-
+        Explain the role of glial cells in maintaining the blood-brain barrier.
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-clinical-significance-of-the-babinski-test-in-neurological-assessment
+    url: /learn/nursing/questions/explain-the-role-of-glial-cells-in-maintaining-the-bloodbrain-barrier
 ---
 
 &nbsp;

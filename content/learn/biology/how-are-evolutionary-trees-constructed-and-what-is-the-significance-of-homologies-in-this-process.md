@@ -2,8 +2,10 @@
 _schema: default
 id: 167744
 date: 2025-02-01
-title: How are evolutionary trees constructed and what is the significance of homologies in this process?
-article_title: How are evolutionary trees constructed and what is the significance of homologies in this process?
+title: >-
+    How are evolutionary trees constructed and what is the significance of homologies in this process?
+article_title: >-
+    How are evolutionary trees constructed and what is the significance of homologies in this process?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-are-evolutionary-trees-constructed-and-what-is-the-significance-o
 url: /learn/biology/questions/how-are-evolutionary-trees-constructed-and-what-is-the-significance-of-homologies-in-this-process
 score: -1.0
 related_article1:
-    id: 167766
-    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    id: 167762
+    title: >-
+        How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
     subject: Biology
-    url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
+    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
 related_article2:
-    id: 167742
-    title: How does natural selection operate as a mechanism of evolution?
-    subject: Biology
-    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
-related_article3:
     id: 167766
-    title: What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
+    title: >-
+        What types of scientific evidence support the theory of evolution and how are they integrated into the theory?
     subject: Biology
     url: /learn/biology/questions/what-types-of-scientific-evidence-support-the-theory-of-evolution-and-how-are-they-integrated-into-the-theory
-related_article4:
-    id: 167752
-    title: What is adaptive radiation and how does it contribute to biodiversity?
+related_article3:
+    id: 167756
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
     subject: Biology
-    url: /learn/biology/questions/what-is-adaptive-radiation-and-how-does-it-contribute-to-biodiversity
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
+related_article4:
+    id: 167750
+    title: >-
+        What is allopatric speciation and how does it differ from sympatric speciation?
+    subject: Biology
+    url: /learn/biology/questions/what-is-allopatric-speciation-and-how-does-it-differ-from-sympatric-speciation
 related_article5:
     id: 167749
-    title: Describe the biological species concept and how it differs from other species concepts.
+    title: >-
+        Describe the biological species concept and how it differs from other species concepts.
     subject: Biology
     url: /learn/biology/questions/describe-the-biological-species-concept-and-how-it-differs-from-other-species-concepts
 ---

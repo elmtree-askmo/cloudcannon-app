@@ -2,8 +2,10 @@
 _schema: default
 id: 167108
 date: 2025-01-31
-title: What is the significance of hydrophilic and hydrophobic interactions in protein folding?
-article_title: What is the significance of hydrophilic and hydrophobic interactions in protein folding?
+title: >-
+    What is the significance of hydrophilic and hydrophobic interactions in protein folding?
+article_title: >-
+    What is the significance of hydrophilic and hydrophobic interactions in protein folding?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-
 url: /learn/health-studies/questions/what-is-the-significance-of-hydrophilic-and-hydrophobic-interactions-in-protein-folding
 score: -1.0
 related_article1:
-    id: 167110
-    title: Why is energy storage crucial for cellular metabolism and homeostasis?
+    id: 167105
+    title: >-
+        How are amino acids classified based on polarity and charge?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
+    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
 related_article2:
-    id: 167092
-    title: Why is carbon essential in the formation of organic molecules?
+    id: 167099
+    title: >-
+        What roles do lipids play in energy storage and cell membrane structure?
     subject: Health Studies
-    url: /learn/health-studies/questions/why-is-carbon-essential-in-the-formation-of-organic-molecules
+    url: /learn/health-studies/questions/what-roles-do-lipids-play-in-energy-storage-and-cell-membrane-structure
 related_article3:
+    id: 167089
+    title: >-
+        What are the four main classes of biological molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
+related_article4:
+    id: 167089
+    title: >-
+        What are the four main classes of biological molecules?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-four-main-classes-of-biological-molecules
+related_article5:
     id: 167107
-    title: How do proteins contribute to structural support in cells?
+    title: >-
+        How do proteins contribute to structural support in cells?
     subject: Health Studies
     url: /learn/health-studies/questions/how-do-proteins-contribute-to-structural-support-in-cells
-related_article4:
-    id: 167102
-    title: What are the structural and functional differences between starch, glycogen, and cellulose?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-structural-and-functional-differences-between-starch-glycogen-and-cellulose
-related_article5:
-    id: 167110
-    title: Why is energy storage crucial for cellular metabolism and homeostasis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168814
 date: 2025-02-04
-title: What is the role of lipase in the breakdown of lipids?
-article_title: What is the role of lipase in the breakdown of lipids?
+title: >-
+    What is the role of lipase in the breakdown of lipids?
+article_title: >-
+    What is the role of lipase in the breakdown of lipids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,24 +25,34 @@ url: /learn/nursing/questions/what-is-the-role-of-lipase-in-the-breakdown-of-lip
 score: -1.0
 related_article1:
     id: 168821
-    title: What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
+    title: >-
+        What is the role of the smooth endoplasmic reticulum in the reassembly of lipids?
     subject: Nursing
     url: /learn/nursing/questions/what-is-the-role-of-the-smooth-endoplasmic-reticulum-in-the-reassembly-of-lipids
 related_article2:
-    id: 168815
-    title: Describe the process of triglyceride hydrolysis and the formation of fatty acids.
+    id: 168820
+    title: >-
+        How does the lymphatic system function in lipid transport compared to the circulatory system?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-process-of-triglyceride-hydrolysis-and-the-formation-of-fatty-acids
+    url: /learn/nursing/questions/how-does-the-lymphatic-system-function-in-lipid-transport-compared-to-the-circulatory-system
 related_article3:
-    id: 168818
-    title: How do epithelial cells interact with micelles during lipid absorption?
+    id: 168812
+    title: >-
+        How does bile contribute to the emulsification of lipids?
     subject: Nursing
-    url: /learn/nursing/questions/how-do-epithelial-cells-interact-with-micelles-during-lipid-absorption
+    url: /learn/nursing/questions/how-does-bile-contribute-to-the-emulsification-of-lipids
 related_article4:
-    id: 168813
-    title: Explain the mechanism of emulsification and its importance in digestion.
+    id: 168817
+    title: >-
+        What is the role of epithelial cells in the absorption of lipids?
     subject: Nursing
-    url: /learn/nursing/questions/explain-the-mechanism-of-emulsification-and-its-importance-in-digestion
+    url: /learn/nursing/questions/what-is-the-role-of-epithelial-cells-in-the-absorption-of-lipids
+related_article5:
+    id: 168825
+    title: >-
+        What are the characteristics of non-polar molecules and their role in lipid transport?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-characteristics-of-nonpolar-molecules-and-their-role-in-lipid-transport
 ---
 
 &nbsp;

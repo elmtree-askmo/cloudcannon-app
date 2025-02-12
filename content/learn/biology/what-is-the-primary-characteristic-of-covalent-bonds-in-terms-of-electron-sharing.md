@@ -2,8 +2,10 @@
 _schema: default
 id: 167444
 date: 2025-01-31
-title: What is the primary characteristic of covalent bonds in terms of electron sharing?
-article_title: What is the primary characteristic of covalent bonds in terms of electron sharing?
+title: >-
+    What is the primary characteristic of covalent bonds in terms of electron sharing?
+article_title: >-
+    What is the primary characteristic of covalent bonds in terms of electron sharing?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-elec
 url: /learn/biology/questions/what-is-the-primary-characteristic-of-covalent-bonds-in-terms-of-electron-sharing
 score: -1.0
 related_article1:
-    id: 167459
-    title: How do chemical reactions facilitate energy transfer in biological systems?
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
     subject: Biology
-    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 related_article2:
-    id: 167448
-    title: How do hydrogen bonds influence the properties of water?
+    id: 167466
+    title: >-
+        What is the scope of biochemistry, and why is it important in the study of life chemistry?
     subject: Biology
-    url: /learn/biology/questions/how-do-hydrogen-bonds-influence-the-properties-of-water
+    url: /learn/biology/questions/what-is-the-scope-of-biochemistry-and-why-is-it-important-in-the-study-of-life-chemistry
 related_article3:
-    id: 167456
-    title: Define acids and bases according to the proton donor-acceptor concept.
+    id: 167452
+    title: >-
+        What is the purpose of Lewis dot structures in representing molecules?
     subject: Biology
-    url: /learn/biology/questions/define-acids-and-bases-according-to-the-proton-donoracceptor-concept
+    url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
 related_article4:
-    id: 167465
-    title: Describe the types of molecular interactions and their significance in protein folding.
+    id: 167458
+    title: >-
+        What are the main types of chemical reactions, and how do they differ?
     subject: Biology
-    url: /learn/biology/questions/describe-the-types-of-molecular-interactions-and-their-significance-in-protein-folding
+    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
 related_article5:
-    id: 167454
-    title: What are the defining characteristics of organic compounds?
+    id: 167453
+    title: >-
+        How did Gilbert Lewis contribute to the development of Lewis dot structures?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-defining-characteristics-of-organic-compounds
+    url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
 ---
 
 &nbsp;

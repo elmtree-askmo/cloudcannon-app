@@ -2,8 +2,10 @@
 _schema: default
 id: 170906
 date: 2025-02-07
-title: What are the limitations of mathematical models in ecological modeling?
-article_title: What are the limitations of mathematical models in ecological modeling?
+title: >-
+    What are the limitations of mathematical models in ecological modeling?
+article_title: >-
+    What are the limitations of mathematical models in ecological modeling?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-limitations-of-mathematical-models-in-ecological-modelin
 url: /learn/biology/questions/what-are-the-limitations-of-mathematical-models-in-ecological-modeling
 score: -1.0
 related_article1:
+    id: 170905
+    title: >-
+        What is the purpose of ecological modeling in studying ecosystems?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-purpose-of-ecological-modeling-in-studying-ecosystems
+related_article2:
+    id: 170898
+    title: >-
+        How do prey evasion tactics impact predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/how-do-prey-evasion-tactics-impact-predatorprey-interactions
+related_article3:
+    id: 170902
+    title: >-
+        How do environmental variables influence animal decision-making?
+    subject: Biology
+    url: /learn/biology/questions/how-do-environmental-variables-influence-animal-decisionmaking
+related_article4:
     id: 170908
-    title: What is the significance of adaptation and fitness in behavioral ecology?
+    title: >-
+        What is the significance of adaptation and fitness in behavioral ecology?
     subject: Biology
     url: /learn/biology/questions/what-is-the-significance-of-adaptation-and-fitness-in-behavioral-ecology
-related_article2:
-    id: 170894
-    title: How is energy profitability calculated in foraging theory?
-    subject: Biology
-    url: /learn/biology/questions/how-is-energy-profitability-calculated-in-foraging-theory
-related_article3:
-    id: 170899
-    title: What is the Marginal Value Theorem in optimal foraging theory?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-marginal-value-theorem-in-optimal-foraging-theory
-related_article4:
-    id: 170903
-    title: What are some techniques used to measure energy expenditure in animals?
-    subject: Biology
-    url: /learn/biology/questions/what-are-some-techniques-used-to-measure-energy-expenditure-in-animals
-related_article5:
-    id: 170901
-    title: What cognitive processes are involved in animal decision-making?
-    subject: Biology
-    url: /learn/biology/questions/what-cognitive-processes-are-involved-in-animal-decisionmaking
 ---
 
 &nbsp;

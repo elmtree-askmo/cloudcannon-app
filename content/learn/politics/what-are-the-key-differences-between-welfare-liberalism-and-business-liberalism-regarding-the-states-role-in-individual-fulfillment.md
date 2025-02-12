@@ -2,8 +2,10 @@
 _schema: default
 id: 169272
 date: 2025-02-04
-title: What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
-article_title: What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
+title: >-
+    What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
+article_title: >-
+    What are the key differences between welfare liberalism and business liberalism regarding the state's role in individual fulfillment?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-welfare-liberalism-and-business-
 url: /learn/politics/questions/what-are-the-key-differences-between-welfare-liberalism-and-business-liberalism-regarding-the-states-role-in-individual-fulfillment
 score: -1.0
 related_article1:
-    id: 169276
-    title: How do federal and provincial party relationships affect party integration and dynamics in Canada?
+    id: 169280
+    title: >-
+        How does media influence public opinion and election campaigns in the context of political culture and voter behavior?
     subject: Politics
-    url: /learn/politics/questions/how-do-federal-and-provincial-party-relationships-affect-party-integration-and-dynamics-in-canada
+    url: /learn/politics/questions/how-does-media-influence-public-opinion-and-election-campaigns-in-the-context-of-political-culture-and-voter-behavior
 related_article2:
-    id: 169268
-    title: What is the pragmatic and opportunistic nature of brokerage theory in political parties?
+    id: 169266
+    title: >-
+        What role do political parties play in the recruitment of candidates and campaign infrastructure?
     subject: Politics
-    url: /learn/politics/questions/what-is-the-pragmatic-and-opportunistic-nature-of-brokerage-theory-in-political-parties
+    url: /learn/politics/questions/what-role-do-political-parties-play-in-the-recruitment-of-candidates-and-campaign-infrastructure
 related_article3:
+    id: 169275
+    title: >-
+        What is wedge politics, and how does it aim to attract and divide voters?
+    subject: Politics
+    url: /learn/politics/questions/what-is-wedge-politics-and-how-does-it-aim-to-attract-and-divide-voters
+related_article4:
+    id: 169277
+    title: >-
+        What is the significance of curvilinear disparity in party ideology?
+    subject: Politics
+    url: /learn/politics/questions/what-is-the-significance-of-curvilinear-disparity-in-party-ideology
+related_article5:
     id: 169269
-    title: How do electoralist parties utilize mass membership cultivation and leader appeal?
+    title: >-
+        How do electoralist parties utilize mass membership cultivation and leader appeal?
     subject: Politics
     url: /learn/politics/questions/how-do-electoralist-parties-utilize-mass-membership-cultivation-and-leader-appeal
-related_article4:
-    id: 169270
-    title: What is the role of the Liberal Party in the one-party dominance theory?
-    subject: Politics
-    url: /learn/politics/questions/what-is-the-role-of-the-liberal-party-in-the-oneparty-dominance-theory
-related_article5:
-    id: 169276
-    title: How do federal and provincial party relationships affect party integration and dynamics in Canada?
-    subject: Politics
-    url: /learn/politics/questions/how-do-federal-and-provincial-party-relationships-affect-party-integration-and-dynamics-in-canada
 ---
 
 &nbsp;

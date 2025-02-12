@@ -2,8 +2,10 @@
 _schema: default
 id: 164567
 date: 2025-01-28
-title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
-article_title: How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+title: >-
+    How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
+article_title: >-
+    How does folic acid help prevent neural tube defects such as spina bifida and anencephaly?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bi
 url: /learn/psychology/questions/how-does-folic-acid-help-prevent-neural-tube-defects-such-as-spina-bifida-and-anencephaly
 score: -1.0
 related_article1:
-    id: 164572
-    title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+    id: 164585
+    title: >-
+        How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
 related_article2:
-    id: 164572
-    title: What is the role of the corpus callosum in interhemispheric interaction and information transfer?
+    id: 164566
+    title: >-
+        What is the role of the notochord in neural tube formation?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-the-corpus-callosum-in-interhemispheric-interaction-and-information-transfer
+    url: /learn/psychology/questions/what-is-the-role-of-the-notochord-in-neural-tube-formation
 related_article3:
-    id: 164578
-    title: What anatomical differences exist between the frontal and occipital lobes in terms of lateralization of brain functions?
+    id: 164585
+    title: >-
+        How do unilateral and bilateral brain lesions impact cognitive functions such as speech and motor skills?
     subject: Psychology
-    url: /learn/psychology/questions/what-anatomical-differences-exist-between-the-frontal-and-occipital-lobes-in-terms-of-lateralization-of-brain-functions
+    url: /learn/psychology/questions/how-do-unilateral-and-bilateral-brain-lesions-impact-cognitive-functions-such-as-speech-and-motor-skills
 related_article4:
-    id: 164575
-    title: What are the genetic and environmental factors that influence the development of neural tube defects?
+    id: 164586
+    title: >-
+        What are the common causes and risk factors associated with neurodevelopmental disorders like autism spectrum disorders and ADHD?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-genetic-and-environmental-factors-that-influence-the-development-of-neural-tube-defects
+    url: /learn/psychology/questions/what-are-the-common-causes-and-risk-factors-associated-with-neurodevelopmental-disorders-like-autism-spectrum-disorders-and-adhd
 related_article5:
-    id: 164579
-    title: How does the corpus callosum affect the speed of information transfer between hemispheres?
+    id: 164571
+    title: >-
+        How does the right hemisphere contribute to melodic recognition and global processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-corpus-callosum-affect-the-speed-of-information-transfer-between-hemispheres
+    url: /learn/psychology/questions/how-does-the-right-hemisphere-contribute-to-melodic-recognition-and-global-processing
 ---
 
 &nbsp;

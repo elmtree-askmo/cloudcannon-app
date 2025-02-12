@@ -2,8 +2,10 @@
 _schema: default
 id: 168682
 date: 2025-02-04
-title: In what types of environments are Archaea typically found?
-article_title: In what types of environments are Archaea typically found?
+title: >-
+    In what types of environments are Archaea typically found?
+article_title: >-
+    In what types of environments are Archaea typically found?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-types-of-environments-are-archaea-typically-found.md
 url: /learn/biology/questions/in-what-types-of-environments-are-archaea-typically-found
 score: -1.0
 related_article1:
-    id: 168686
-    title: What is the difference between Gram-positive and Gram-negative bacteria in terms of cell wall composition?
+    id: 168685
+    title: >-
+        How do heterotrophic bacteria obtain their nutrients?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-grampositive-and-gramnegative-bacteria-in-terms-of-cell-wall-composition
+    url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
 related_article2:
-    id: 168694
-    title: What are the defining characteristics of Phylum Zygomycota?
+    id: 168691
+    title: >-
+        Describe the role of plasmodial slime molds in the ecosystem.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-defining-characteristics-of-phylum-zygomycota
+    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
 related_article3:
-    id: 168690
-    title: What is the function of pseudopodia in protozoans?
+    id: 168691
+    title: >-
+        Describe the role of plasmodial slime molds in the ecosystem.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-function-of-pseudopodia-in-protozoans
+    url: /learn/biology/questions/describe-the-role-of-plasmodial-slime-molds-in-the-ecosystem
 related_article4:
     id: 168685
-    title: How do heterotrophic bacteria obtain their nutrients?
+    title: >-
+        How do heterotrophic bacteria obtain their nutrients?
     subject: Biology
     url: /learn/biology/questions/how-do-heterotrophic-bacteria-obtain-their-nutrients
 related_article5:
-    id: 168692
-    title: What is the basic structure of fungi, and how do hyphae contribute to their growth?
+    id: 168688
+    title: >-
+        What are the main differences between plant-like, animal-like, and fungal-like protists?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-basic-structure-of-fungi-and-how-do-hyphae-contribute-to-their-growth
+    url: /learn/biology/questions/what-are-the-main-differences-between-plantlike-animallike-and-fungallike-protists
 ---
 
 &nbsp;

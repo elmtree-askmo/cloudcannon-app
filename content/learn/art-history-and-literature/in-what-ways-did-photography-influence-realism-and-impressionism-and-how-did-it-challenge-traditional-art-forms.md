@@ -2,8 +2,10 @@
 _schema: default
 id: 160113
 date: 2025-01-23
-title: In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
-article_title: In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+title: >-
+    In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
+article_title: >-
+    In what ways did photography influence Realism and Impressionism, and how did it challenge traditional art forms?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-photography-influence-realism-and-impressionism-and-
 url: /learn/art-history-and-literature/questions/in-what-ways-did-photography-influence-realism-and-impressionism-and-how-did-it-challenge-traditional-art-forms
 score: 8.5
 related_article1:
-    id: 159850
-    title: How did scientific developments influence environmental themes in Victorian art?
+    id: 160106
+    title: >-
+        What were the main characteristics and themes of Realism, and how did they reflect the social and historical context of the time?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-scientific-developments-influence-environmental-themes-in-victorian-art
+    url: /learn/art-history-and-literature/questions/what-were-the-main-characteristics-and-themes-of-realism-and-how-did-they-reflect-the-social-and-historical-context-of-the-time
 related_article2:
-    id: 159833
-    title: How did Impressionist artists depict the modern city, and what techniques and innovations did they use to capture urban life?
+    id: 159851
+    title: >-
+        In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-impressionist-artists-depict-the-modern-city-and-what-techniques-and-innovations-did-they-use-to-capture-urban-life
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
 related_article3:
-    id: 159834
-    title: In what ways did Post-Impressionism differ from Impressionism, and who were some key artists associated with this movement?
+    id: 159847
+    title: >-
+        What were the artistic responses to imperialism, and how did artists critique and reinterpret the representation of colonized peoples?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-differ-from-impressionism-and-who-were-some-key-artists-associated-with-this-movement
+    url: /learn/art-history-and-literature/questions/what-were-the-artistic-responses-to-imperialism-and-how-did-artists-critique-and-reinterpret-the-representation-of-colonized-peoples
 related_article4:
-    id: 160201
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
+    id: 159844
+    title: >-
+        How did technological advances influence the depiction of modern life in art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
+    url: /learn/art-history-and-literature/questions/how-did-technological-advances-influence-the-depiction-of-modern-life-in-art
 related_article5:
-    id: 159840
-    title: How did migration and cultural exchange contribute to artistic diversity in the École de Paris?
+    id: 160109
+    title: >-
+        What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-migration-and-cultural-exchange-contribute-to-artistic-diversity-in-the-cole-de-paris
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
 ---
 
 &nbsp;

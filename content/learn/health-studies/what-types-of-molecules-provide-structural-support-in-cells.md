@@ -2,8 +2,10 @@
 _schema: default
 id: 167111
 date: 2025-01-31
-title: What types of molecules provide structural support in cells?
-article_title: What types of molecules provide structural support in cells?
+title: >-
+    What types of molecules provide structural support in cells?
+article_title: >-
+    What types of molecules provide structural support in cells?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-types-of-molecules-provide-structural-support-in-cells.md
 url: /learn/health-studies/questions/what-types-of-molecules-provide-structural-support-in-cells
 score: -1.0
 related_article1:
-    id: 167106
-    title: What roles do enzymes play in catalysis and reaction facilitation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
-related_article2:
-    id: 167110
-    title: Why is energy storage crucial for cellular metabolism and homeostasis?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-energy-storage-crucial-for-cellular-metabolism-and-homeostasis
-related_article3:
-    id: 167106
-    title: What roles do enzymes play in catalysis and reaction facilitation?
-    subject: Health Studies
-    url: /learn/health-studies/questions/what-roles-do-enzymes-play-in-catalysis-and-reaction-facilitation
-related_article4:
-    id: 167103
-    title: How do functional groups influence the chemical properties of molecules?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-functional-groups-influence-the-chemical-properties-of-molecules
-related_article5:
     id: 167093
-    title: What is the process of polymerization and why is it important in macromolecule formation?
+    title: >-
+        What is the process of polymerization and why is it important in macromolecule formation?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-process-of-polymerization-and-why-is-it-important-in-macromolecule-formation
+related_article2:
+    id: 167097
+    title: >-
+        What are the four levels of protein structure and how do they differ?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
+related_article3:
+    id: 167105
+    title: >-
+        How are amino acids classified based on polarity and charge?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-are-amino-acids-classified-based-on-polarity-and-charge
+related_article4:
+    id: 167097
+    title: >-
+        What are the four levels of protein structure and how do they differ?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-four-levels-of-protein-structure-and-how-do-they-differ
+related_article5:
+    id: 167090
+    title: >-
+        How do macromolecules differ in their structural and chemical properties?
+    subject: Health Studies
+    url: /learn/health-studies/questions/how-do-macromolecules-differ-in-their-structural-and-chemical-properties
 ---
 
 &nbsp;

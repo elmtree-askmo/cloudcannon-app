@@ -2,8 +2,10 @@
 _schema: default
 id: 164073
 date: 2025-01-28
-title: What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
-article_title: What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+title: >-
+    What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
+article_title: >-
+    What role does modern statistics play in enhancing interdisciplinary team science in the context of antisociality?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-
 url: /learn/psychology/questions/what-role-does-modern-statistics-play-in-enhancing-interdisciplinary-team-science-in-the-context-of-antisociality
 score: -1.0
 related_article1:
-    id: 164081
-    title: What are the key challenges in early detection and treatment of youth mental health issues?
+    id: 164082
+    title: >-
+        What ethical issues arise from the use of AI in mental health, particularly regarding surveillance and systemic biases?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-challenges-in-early-detection-and-treatment-of-youth-mental-health-issues
+    url: /learn/psychology/questions/what-ethical-issues-arise-from-the-use-of-ai-in-mental-health-particularly-regarding-surveillance-and-systemic-biases
 related_article2:
-    id: 164072
-    title: How can big data analytics be used to make individual-level inferences in antisocial behavior studies?
+    id: 164085
+    title: >-
+        How does the paradigm shift in psychiatry from group to individual-level inferences impact diagnostics and prognostics?
     subject: Psychology
-    url: /learn/psychology/questions/how-can-big-data-analytics-be-used-to-make-individuallevel-inferences-in-antisocial-behavior-studies
+    url: /learn/psychology/questions/how-does-the-paradigm-shift-in-psychiatry-from-group-to-individuallevel-inferences-impact-diagnostics-and-prognostics
 related_article3:
-    id: 164071
-    title: What challenges does the reproducibility crisis pose to research on antisociality?
-    subject: Psychology
-    url: /learn/psychology/questions/what-challenges-does-the-reproducibility-crisis-pose-to-research-on-antisociality
-related_article4:
-    id: 164078
-    title: How can machine learning and AI uncover patterns in mental health data?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
-related_article5:
     id: 164083
-    title: How does brain morphology contribute to a transdiagnostic approach in mental health?
+    title: >-
+        How does brain morphology contribute to a transdiagnostic approach in mental health?
     subject: Psychology
     url: /learn/psychology/questions/how-does-brain-morphology-contribute-to-a-transdiagnostic-approach-in-mental-health
+related_article4:
+    id: 164084
+    title: >-
+        What is the significance of integrated data in developing personalized care solutions?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-significance-of-integrated-data-in-developing-personalized-care-solutions
+related_article5:
+    id: 164078
+    title: >-
+        How can machine learning and AI uncover patterns in mental health data?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-machine-learning-and-ai-uncover-patterns-in-mental-health-data
 ---
 
 &nbsp;

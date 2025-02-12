@@ -2,8 +2,10 @@
 _schema: default
 id: 169004
 date: 2025-02-04
-title: In what ways does critical theory reframe architectural narratives?
-article_title: In what ways does critical theory reframe architectural narratives?
+title: >-
+    In what ways does critical theory reframe architectural narratives?
+article_title: >-
+    In what ways does critical theory reframe architectural narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: in-what-ways-does-critical-theory-reframe-architectural-narratives.md
 url: /learn/history-of-the-world/questions/in-what-ways-does-critical-theory-reframe-architectural-narratives
 score: 9.5
 related_article1:
-    id: 169012
-    title: Who were some key figures in the Mexican Revolution, and what were their contributions?
+    id: 169010
+    title: >-
+        How do gendered constructs influence societal understandings of space?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/who-were-some-key-figures-in-the-mexican-revolution-and-what-were-their-contributions
+    url: /learn/history-of-the-world/questions/how-do-gendered-constructs-influence-societal-understandings-of-space
 related_article2:
-    id: 169007
-    title: How is architecture strategically used in different contexts?
+    id: 169006
+    title: >-
+        What are gendered spaces in architecture, and why are they significant?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-is-architecture-strategically-used-in-different-contexts
+    url: /learn/history-of-the-world/questions/what-are-gendered-spaces-in-architecture-and-why-are-they-significant
 related_article3:
-    id: 169005
-    title: How can cross-reading architecture and history provide new insights?
+    id: 169018
+    title: >-
+        What contributions did Carmen Serdan make to the revolutionary movement?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-can-crossreading-architecture-and-history-provide-new-insights
+    url: /learn/history-of-the-world/questions/what-contributions-did-carmen-serdan-make-to-the-revolutionary-movement
 related_article4:
     id: 169002
-    title: What role does spatial analysis play in understanding the untold stories of architecture?
+    title: >-
+        What role does spatial analysis play in understanding the untold stories of architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
 related_article5:
     id: 169002
-    title: What role does spatial analysis play in understanding the untold stories of architecture?
+    title: >-
+        What role does spatial analysis play in understanding the untold stories of architecture?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-does-spatial-analysis-play-in-understanding-the-untold-stories-of-architecture
 ---

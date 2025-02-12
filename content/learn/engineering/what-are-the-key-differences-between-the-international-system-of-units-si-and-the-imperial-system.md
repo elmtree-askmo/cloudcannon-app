@@ -2,8 +2,10 @@
 _schema: default
 id: 166643
 date: 2025-01-31
-title: What are the key differences between the International System of Units (SI) and the Imperial System?
-article_title: What are the key differences between the International System of Units (SI) and the Imperial System?
+title: >-
+    What are the key differences between the International System of Units (SI) and the Imperial System?
+article_title: >-
+    What are the key differences between the International System of Units (SI) and the Imperial System?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-differences-between-the-international-system-of-unit
 url: /learn/engineering/questions/what-are-the-key-differences-between-the-international-system-of-units-si-and-the-imperial-system
 score: -1.0
 related_article1:
-    id: 166648
-    title: What is a position vector and how is it used to determine force direction in mechanics?
-    subject: Engineering
-    url: /learn/engineering/questions/what-is-a-position-vector-and-how-is-it-used-to-determine-force-direction-in-mechanics
-related_article2:
     id: 166640
-    title: How does a concentrated force affect the equilibrium of a body in statics?
+    title: >-
+        How does a concentrated force affect the equilibrium of a body in statics?
     subject: Engineering
     url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
-related_article3:
+related_article2:
     id: 166638
-    title: What are the main types of fluids and what forces act on them?
+    title: >-
+        What are the main types of fluids and what forces act on them?
     subject: Engineering
     url: /learn/engineering/questions/what-are-the-main-types-of-fluids-and-what-forces-act-on-them
-related_article4:
-    id: 166645
-    title: What is the significance of vectors having both magnitude and direction in mechanics?
+related_article3:
+    id: 166649
+    title: >-
+        Why are significant figures important in numerical calculations, and what are the basic rules for rounding?
     subject: Engineering
-    url: /learn/engineering/questions/what-is-the-significance-of-vectors-having-both-magnitude-and-direction-in-mechanics
-related_article5:
+    url: /learn/engineering/questions/why-are-significant-figures-important-in-numerical-calculations-and-what-are-the-basic-rules-for-rounding
+related_article4:
     id: 166640
-    title: How does a concentrated force affect the equilibrium of a body in statics?
+    title: >-
+        How does a concentrated force affect the equilibrium of a body in statics?
     subject: Engineering
     url: /learn/engineering/questions/how-does-a-concentrated-force-affect-the-equilibrium-of-a-body-in-statics
+related_article5:
+    id: 166641
+    title: >-
+        Explain the relationship between dynamics and statics, particularly in terms of accelerated motion and Newton's Second Law.
+    subject: Engineering
+    url: /learn/engineering/questions/explain-the-relationship-between-dynamics-and-statics-particularly-in-terms-of-accelerated-motion-and-newtons-second-law
 ---
 
 &nbsp;

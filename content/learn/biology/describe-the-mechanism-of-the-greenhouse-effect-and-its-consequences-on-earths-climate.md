@@ -2,8 +2,10 @@
 _schema: default
 id: 170429
 date: 2025-02-06
-title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
-article_title: Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+title: >-
+    Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
+article_title: >-
+    Describe the mechanism of the greenhouse effect and its consequences on Earth's climate.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-
 url: /learn/biology/questions/describe-the-mechanism-of-the-greenhouse-effect-and-its-consequences-on-earths-climate
 score: -1.0
 related_article1:
-    id: 170432
-    title: Explain the role of the ocean as a carbon reservoir and its interaction with the atmosphere.
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/explain-the-role-of-the-ocean-as-a-carbon-reservoir-and-its-interaction-with-the-atmosphere
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
 related_article2:
-    id: 170438
-    title: What are the key carbon compounds found in living organisms, and why is carbon essential for life?
+    id: 170422
+    title: >-
+        How does carbon flux contribute to the carbon cycle?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-key-carbon-compounds-found-in-living-organisms-and-why-is-carbon-essential-for-life
+    url: /learn/biology/questions/how-does-carbon-flux-contribute-to-the-carbon-cycle
 related_article3:
-    id: 170430
-    title: What role does carbon dioxide play in the carbon cycle, and how is its atmospheric concentration measured?
+    id: 170435
+    title: >-
+        What geological processes are involved in carbon storage within sediments?
     subject: Biology
-    url: /learn/biology/questions/what-role-does-carbon-dioxide-play-in-the-carbon-cycle-and-how-is-its-atmospheric-concentration-measured
+    url: /learn/biology/questions/what-geological-processes-are-involved-in-carbon-storage-within-sediments
 related_article4:
-    id: 170427
-    title: What are some strategies for climate intervention aimed at carbon storage, and what challenges do they face?
+    id: 170421
+    title: >-
+        What are the main natural and human-induced processes that release carbon into the atmosphere?
     subject: Biology
-    url: /learn/biology/questions/what-are-some-strategies-for-climate-intervention-aimed-at-carbon-storage-and-what-challenges-do-they-face
+    url: /learn/biology/questions/what-are-the-main-natural-and-humaninduced-processes-that-release-carbon-into-the-atmosphere
 related_article5:
-    id: 170428
-    title: List the main types of greenhouse gases and describe their sources.
+    id: 170426
+    title: >-
+        How does the carbon footprint of human activities impact global warming?
     subject: Biology
-    url: /learn/biology/questions/list-the-main-types-of-greenhouse-gases-and-describe-their-sources
+    url: /learn/biology/questions/how-does-the-carbon-footprint-of-human-activities-impact-global-warming
 ---
 
 &nbsp;

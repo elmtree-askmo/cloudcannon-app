@@ -2,8 +2,10 @@
 _schema: default
 id: 168528
 date: 2025-02-03
-title: What is diction and why is it important in speech?
-article_title: What is diction and why is it important in speech?
+title: >-
+    What is diction and why is it important in speech?
+article_title: >-
+    What is diction and why is it important in speech?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-is-diction-and-why-is-it-important-
 score: -1.0
 related_article1:
     id: 168550
-    title: What techniques can be used to manage disagreement respectfully in a discussion?
+    title: >-
+        What techniques can be used to manage disagreement respectfully in a discussion?
     subject: Education Studies
     url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
 related_article2:
-    id: 168537
-    title: How can a speaker align their content with the purpose of their speech?
+    id: 168531
+    title: >-
+        How can emotional appeal impact an audience during a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-a-speaker-align-their-content-with-the-purpose-of-their-speech
+    url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
 related_article3:
-    id: 168553
-    title: What strategies can be employed for conflict resolution while maintaining respectful dialogue?
+    id: 168531
+    title: >-
+        How can emotional appeal impact an audience during a speech?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-strategies-can-be-employed-for-conflict-resolution-while-maintaining-respectful-dialogue
+    url: /learn/education-studies/questions/how-can-emotional-appeal-impact-an-audience-during-a-speech
 related_article4:
-    id: 168542
-    title: What are effective summarization techniques and how can personal bias be avoided?
+    id: 168539
+    title: >-
+        How can active listening enhance understanding during a critique?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-effective-summarization-techniques-and-how-can-personal-bias-be-avoided
+    url: /learn/education-studies/questions/how-can-active-listening-enhance-understanding-during-a-critique
 related_article5:
-    id: 168530
-    title: What are some common rhetorical strategies used in speeches?
+    id: 168550
+    title: >-
+        What techniques can be used to manage disagreement respectfully in a discussion?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-rhetorical-strategies-used-in-speeches
+    url: /learn/education-studies/questions/what-techniques-can-be-used-to-manage-disagreement-respectfully-in-a-discussion
 ---
 
 &nbsp;

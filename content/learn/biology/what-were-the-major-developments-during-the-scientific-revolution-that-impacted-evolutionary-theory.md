@@ -2,8 +2,10 @@
 _schema: default
 id: 167764
 date: 2025-02-01
-title: What were the major developments during the Scientific Revolution that impacted evolutionary theory?
-article_title: What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+title: >-
+    What were the major developments during the Scientific Revolution that impacted evolutionary theory?
+article_title: >-
+    What were the major developments during the Scientific Revolution that impacted evolutionary theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-developments-during-the-scientific-revolution-tha
 url: /learn/biology/questions/what-were-the-major-developments-during-the-scientific-revolution-that-impacted-evolutionary-theory
 score: -1.0
 related_article1:
-    id: 167742
-    title: How does natural selection operate as a mechanism of evolution?
+    id: 167756
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
     subject: Biology
-    url: /learn/biology/questions/how-does-natural-selection-operate-as-a-mechanism-of-evolution
+    url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
 related_article2:
     id: 167756
-    title: What were the causes and consequences of the Cambrian Explosion?
+    title: >-
+        What were the causes and consequences of the Cambrian Explosion?
     subject: Biology
     url: /learn/biology/questions/what-were-the-causes-and-consequences-of-the-cambrian-explosion
 related_article3:
-    id: 167762
-    title: How has climate change impacted ecosystems and what are some conservation strategies to mitigate these effects?
+    id: 167758
+    title: >-
+        How do species interactions shape community structure and what are trophic levels?
     subject: Biology
-    url: /learn/biology/questions/how-has-climate-change-impacted-ecosystems-and-what-are-some-conservation-strategies-to-mitigate-these-effects
+    url: /learn/biology/questions/how-do-species-interactions-shape-community-structure-and-what-are-trophic-levels
 related_article4:
-    id: 167763
-    title: What were the key figures and ideas from ancient to Renaissance periods that influenced modern biology?
+    id: 167751
+    title: >-
+        Define macroevolution and provide examples of patterns and processes involved.
     subject: Biology
-    url: /learn/biology/questions/what-were-the-key-figures-and-ideas-from-ancient-to-renaissance-periods-that-influenced-modern-biology
+    url: /learn/biology/questions/define-macroevolution-and-provide-examples-of-patterns-and-processes-involved
 related_article5:
-    id: 167757
-    title: What factors affect population dynamics and how do growth models help in understanding these dynamics?
+    id: 167747
+    title: >-
+        Explain the Hardy-Weinberg Principle and its significance in population genetics.
     subject: Biology
-    url: /learn/biology/questions/what-factors-affect-population-dynamics-and-how-do-growth-models-help-in-understanding-these-dynamics
+    url: /learn/biology/questions/explain-the-hardyweinberg-principle-and-its-significance-in-population-genetics
 ---
 
 &nbsp;

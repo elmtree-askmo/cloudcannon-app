@@ -2,8 +2,10 @@
 _schema: default
 id: 166024
 date: 2025-01-29
-title: What was the purpose of the Council of 500 in the governance of Athens?
-article_title: What was the purpose of the Council of 500 in the governance of Athens?
+title: >-
+    What was the purpose of the Council of 500 in the governance of Athens?
+article_title: >-
+    What was the purpose of the Council of 500 in the governance of Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athen
 url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-council-of-500-in-the-governance-of-athens
 score: 9.0
 related_article1:
+    id: 166029
+    title: >-
+        What were the defining characteristics of oligarchic factions in ancient Athens?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-the-defining-characteristics-of-oligarchic-factions-in-ancient-athens
+related_article2:
+    id: 166039
+    title: >-
+        What challenges do archaeologists face in preserving and interpreting ancient Athenian sites?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-challenges-do-archaeologists-face-in-preserving-and-interpreting-ancient-athenian-sites
+related_article3:
     id: 166026
-    title: What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
+    title: >-
+        What were the key features of Kleisthenes' tribal reorganization, and how did it affect Athenian society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-were-the-key-features-of-kleisthenes-tribal-reorganization-and-how-did-it-affect-athenian-society
-related_article2:
-    id: 166017
-    title: What was the historical significance of Athens as an urban center in ancient times?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-historical-significance-of-athens-as-an-urban-center-in-ancient-times
-related_article3:
-    id: 166033
-    title: How did the political language of ancient Athens influence modern political terminology?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-political-language-of-ancient-athens-influence-modern-political-terminology
 related_article4:
-    id: 166038
-    title: What significant discoveries have been made through excavations of the Classical Acropolis?
+    id: 166019
+    title: >-
+        What is the myth of Synoikism, and how does it relate to the Attica region?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-significant-discoveries-have-been-made-through-excavations-of-the-classical-acropolis
+    url: /learn/history-of-the-world/questions/what-is-the-myth-of-synoikism-and-how-does-it-relate-to-the-attica-region
 related_article5:
-    id: 166036
-    title: What mythical contributions did Theseus make to the concept of synoikism in Athens?
+    id: 166020
+    title: >-
+        What were the Eleusinian Mysteries, and why were they significant in ancient Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-mythical-contributions-did-theseus-make-to-the-concept-of-synoikism-in-athens
+    url: /learn/history-of-the-world/questions/what-were-the-eleusinian-mysteries-and-why-were-they-significant-in-ancient-athens
 ---
 
 &nbsp;

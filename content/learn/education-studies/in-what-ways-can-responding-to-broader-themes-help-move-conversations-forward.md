@@ -2,8 +2,10 @@
 _schema: default
 id: 168524
 date: 2025-02-03
-title: In what ways can responding to broader themes help move conversations forward?
-article_title: In what ways can responding to broader themes help move conversations forward?
+title: >-
+    In what ways can responding to broader themes help move conversations forward?
+article_title: >-
+    In what ways can responding to broader themes help move conversations forward?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-can-responding-to-broader-themes-help-move-conversations
 url: /learn/education-studies/questions/in-what-ways-can-responding-to-broader-themes-help-move-conversations-forward
 score: -1.0
 related_article1:
-    id: 168515
-    title: What are the key differences in formality and structure between a debate and an oral discussion?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-differences-in-formality-and-structure-between-a-debate-and-an-oral-discussion
-related_article2:
-    id: 168516
-    title: How do the goals and outcomes differ between debates and oral discussions?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-the-goals-and-outcomes-differ-between-debates-and-oral-discussions
-related_article3:
-    id: 168523
-    title: How can posing open-ended questions propel a conversation forward?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
-related_article4:
-    id: 168517
-    title: What are the essential rules and roles in collegial discussions to ensure a collaborative nature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-essential-rules-and-roles-in-collegial-discussions-to-ensure-a-collaborative-nature
-related_article5:
     id: 168521
-    title: How can empathy be demonstrated in conversations to understand diverse perspectives?
+    title: >-
+        How can empathy be demonstrated in conversations to understand diverse perspectives?
     subject: Education Studies
     url: /learn/education-studies/questions/how-can-empathy-be-demonstrated-in-conversations-to-understand-diverse-perspectives
+related_article2:
+    id: 168527
+    title: >-
+        How does evidence and reasoning play a role in revising ideas and forming new understandings?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-does-evidence-and-reasoning-play-a-role-in-revising-ideas-and-forming-new-understandings
+related_article3:
+    id: 168516
+    title: >-
+        How do the goals and outcomes differ between debates and oral discussions?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-the-goals-and-outcomes-differ-between-debates-and-oral-discussions
+related_article4:
+    id: 168515
+    title: >-
+        What are the key differences in formality and structure between a debate and an oral discussion?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-are-the-key-differences-in-formality-and-structure-between-a-debate-and-an-oral-discussion
+related_article5:
+    id: 168523
+    title: >-
+        How can posing open-ended questions propel a conversation forward?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-posing-openended-questions-propel-a-conversation-forward
 ---
 
 &nbsp;

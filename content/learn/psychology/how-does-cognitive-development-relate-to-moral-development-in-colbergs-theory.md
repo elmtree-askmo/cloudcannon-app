@@ -2,8 +2,10 @@
 _schema: default
 id: 164222
 date: 2025-01-28
-title: How does cognitive development relate to moral development in Colberg's theory?
-article_title: How does cognitive development relate to moral development in Colberg's theory?
+title: >-
+    How does cognitive development relate to moral development in Colberg's theory?
+article_title: >-
+    How does cognitive development relate to moral development in Colberg's theory?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-does-cognitive-development-relate-to-moral-development-in-colberg
 url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
 score: -1.0
 related_article1:
-    id: 164216
-    title: What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+    id: 164219
+    title: >-
+        Describe the stages of pre-conventional morality in Colberg's theory.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
+    url: /learn/psychology/questions/describe-the-stages-of-preconventional-morality-in-colbergs-theory
 related_article2:
     id: 164230
-    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    title: >-
+        What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
 related_article3:
-    id: 164230
-    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    id: 164218
+    title: >-
+        What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
 related_article4:
     id: 164226
-    title: What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
+    title: >-
+        What is androcentrism in moral reasoning, and how does it relate to Colberg's research?
     subject: Psychology
     url: /learn/psychology/questions/what-is-androcentrism-in-moral-reasoning-and-how-does-it-relate-to-colbergs-research
-related_article5:
-    id: 164220
-    title: What are the characteristics of conventional morality in Colberg's stages of moral development?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
 ---
 
 &nbsp;

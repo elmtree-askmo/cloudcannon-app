@@ -2,8 +2,10 @@
 _schema: default
 id: 168367
 date: 2025-02-03
-title: What are the community reactions to new public transit projects?
-article_title: What are the community reactions to new public transit projects?
+title: >-
+    What are the community reactions to new public transit projects?
+article_title: >-
+    What are the community reactions to new public transit projects?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-community-reactions-to-new-public-transit-projects.md
 url: /learn/sociology/questions/what-are-the-community-reactions-to-new-public-transit-projects
 score: -1.0
 related_article1:
-    id: 168366
-    title: How does urban development influence infrastructure changes and livability in communities?
+    id: 168370
+    title: >-
+        How does emotional intelligence impact social interactions and adaptation to change?
     subject: Sociology
-    url: /learn/sociology/questions/how-does-urban-development-influence-infrastructure-changes-and-livability-in-communities
+    url: /learn/sociology/questions/how-does-emotional-intelligence-impact-social-interactions-and-adaptation-to-change
 related_article2:
-    id: 168357
-    title: What strategies might governments employ in response to tariff impositions?
+    id: 168356
+    title: >-
+        In what ways do tariffs influence the cost of goods and consumer prices?
     subject: Sociology
-    url: /learn/sociology/questions/what-strategies-might-governments-employ-in-response-to-tariff-impositions
+    url: /learn/sociology/questions/in-what-ways-do-tariffs-influence-the-cost-of-goods-and-consumer-prices
 related_article3:
-    id: 168364
-    title: How do historical religious and ethnic tensions impact community dynamics?
+    id: 168354
+    title: >-
+        What impact did NAFTA have on the car industry and job security in North America?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-historical-religious-and-ethnic-tensions-impact-community-dynamics
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 related_article4:
-    id: 168361
-    title: What are the ethical concerns associated with artificial intelligence and job displacement?
+    id: 168360
+    title: >-
+        How do technological advancements change communication and lead to technological dependency?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+    url: /learn/sociology/questions/how-do-technological-advancements-change-communication-and-lead-to-technological-dependency
 related_article5:
-    id: 168361
-    title: What are the ethical concerns associated with artificial intelligence and job displacement?
+    id: 168354
+    title: >-
+        What impact did NAFTA have on the car industry and job security in North America?
     subject: Sociology
-    url: /learn/sociology/questions/what-are-the-ethical-concerns-associated-with-artificial-intelligence-and-job-displacement
+    url: /learn/sociology/questions/what-impact-did-nafta-have-on-the-car-industry-and-job-security-in-north-america
 ---
 
 &nbsp;

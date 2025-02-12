@@ -2,8 +2,10 @@
 _schema: default
 id: 166021
 date: 2025-01-29
-title: How did the concept of direct democracy function in ancient Athens?
-article_title: How did the concept of direct democracy function in ancient Athens?
+title: >-
+    How did the concept of direct democracy function in ancient Athens?
+article_title: >-
+    How did the concept of direct democracy function in ancient Athens?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-concept-of-direct-democracy-function-in-ancient-athens.md
 url: /learn/history-of-the-world/questions/how-did-the-concept-of-direct-democracy-function-in-ancient-athens
 score: 9.0
 related_article1:
-    id: 166025
-    title: How did Solon's reforms impact the socioeconomic classes in Athens?
+    id: 166022
+    title: >-
+        What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
+    url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
 related_article2:
     id: 166022
-    title: What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
+    title: >-
+        What roles did the Assembly of Citizens and the Law Courts play in Athenian democracy?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-roles-did-the-assembly-of-citizens-and-the-law-courts-play-in-athenian-democracy
 related_article3:
-    id: 166031
-    title: How did Pseudo-Aristotle contribute to our understanding of the Athenian Constitution?
+    id: 166035
+    title: >-
+        How did Athenian art and architecture contribute to its cultural heritage and influence Western civilization?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-pseudoaristotle-contribute-to-our-understanding-of-the-athenian-constitution
+    url: /learn/history-of-the-world/questions/how-did-athenian-art-and-architecture-contribute-to-its-cultural-heritage-and-influence-western-civilization
 related_article4:
-    id: 166038
-    title: What significant discoveries have been made through excavations of the Classical Acropolis?
+    id: 166030
+    title: >-
+        What internal conflicts posed threats to Athenian democracy?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-significant-discoveries-have-been-made-through-excavations-of-the-classical-acropolis
+    url: /learn/history-of-the-world/questions/what-internal-conflicts-posed-threats-to-athenian-democracy
 related_article5:
-    id: 166032
-    title: What role does archaeological evidence play in understanding ancient Athenian political structures?
+    id: 166025
+    title: >-
+        How did Solon's reforms impact the socioeconomic classes in Athens?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-does-archaeological-evidence-play-in-understanding-ancient-athenian-political-structures
+    url: /learn/history-of-the-world/questions/how-did-solons-reforms-impact-the-socioeconomic-classes-in-athens
 ---
 
 &nbsp;

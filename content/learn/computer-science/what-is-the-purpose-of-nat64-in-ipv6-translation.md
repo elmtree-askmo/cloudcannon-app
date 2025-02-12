@@ -2,8 +2,10 @@
 _schema: default
 id: 165757
 date: 2025-01-29
-title: What is the purpose of NAT64 in IPv6 translation?
-article_title: What is the purpose of NAT64 in IPv6 translation?
+title: >-
+    What is the purpose of NAT64 in IPv6 translation?
+article_title: >-
+    What is the purpose of NAT64 in IPv6 translation?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-nat64-in-ipv6-translation.md
 url: /learn/computer-science/questions/what-is-the-purpose-of-nat64-in-ipv6-translation
 score: -1.0
 related_article1:
-    id: 165759
-    title: What is the difference between DHCPv6 and SLAAC in dynamic IPv6 address configuration?
+    id: 165755
+    title: >-
+        How does the dual stack technique facilitate IPv6 coexistence with IPv4?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-dhcpv6-and-slaac-in-dynamic-ipv6-address-configuration
+    url: /learn/computer-science/questions/how-does-the-dual-stack-technique-facilitate-ipv6-coexistence-with-ipv4
 related_article2:
-    id: 165756
-    title: Describe the encapsulation process in IPv6 tunneling.
+    id: 165754
+    title: >-
+        What are the characteristics of a Unique Local Address (ULA) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
 related_article3:
-    id: 165756
-    title: Describe the encapsulation process in IPv6 tunneling.
+    id: 165738
+    title: >-
+        What are the primary reasons for the transition from IPv4 to IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/describe-the-encapsulation-process-in-ipv6-tunneling
+    url: /learn/computer-science/questions/what-are-the-primary-reasons-for-the-transition-from-ipv4-to-ipv6
 related_article4:
-    id: 165758
-    title: How is static IPv6 address configuration performed on a router?
+    id: 165754
+    title: >-
+        What are the characteristics of a Unique Local Address (ULA) in IPv6?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-is-static-ipv6-address-configuration-performed-on-a-router
+    url: /learn/computer-science/questions/what-are-the-characteristics-of-a-unique-local-address-ula-in-ipv6
 related_article5:
-    id: 165750
-    title: What are solicited-node multicast addresses used for in IPv6?
+    id: 165760
+    title: >-
+        What is the preferred format for representing IPv6 addresses?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-solicitednode-multicast-addresses-used-for-in-ipv6
+    url: /learn/computer-science/questions/what-is-the-preferred-format-for-representing-ipv6-addresses
 ---
 
 &nbsp;

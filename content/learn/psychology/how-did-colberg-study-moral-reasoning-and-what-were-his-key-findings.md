@@ -2,8 +2,10 @@
 _schema: default
 id: 164217
 date: 2025-01-28
-title: How did Colberg study moral reasoning, and what were his key findings?
-article_title: How did Colberg study moral reasoning, and what were his key findings?
+title: >-
+    How did Colberg study moral reasoning, and what were his key findings?
+article_title: >-
+    How did Colberg study moral reasoning, and what were his key findings?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings.
 url: /learn/psychology/questions/how-did-colberg-study-moral-reasoning-and-what-were-his-key-findings
 score: -1.0
 related_article1:
-    id: 164229
-    title: How do Western and non-Western perspectives differ in Colberg's stages of moral development?
+    id: 164222
+    title: >-
+        How does cognitive development relate to moral development in Colberg's theory?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-western-and-nonwestern-perspectives-differ-in-colbergs-stages-of-moral-development
+    url: /learn/psychology/questions/how-does-cognitive-development-relate-to-moral-development-in-colbergs-theory
 related_article2:
-    id: 164227
-    title: How does Colberg's theory differentiate between justice and care in moral judgments?
+    id: 164220
+    title: >-
+        What are the characteristics of conventional morality in Colberg's stages of moral development?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-colbergs-theory-differentiate-between-justice-and-care-in-moral-judgments
+    url: /learn/psychology/questions/what-are-the-characteristics-of-conventional-morality-in-colbergs-stages-of-moral-development
 related_article3:
-    id: 164221
-    title: Explain the stages of post morality in Colberg's theory.
+    id: 164225
+    title: >-
+        How does Colberg's theory address the rigidity and linearity of moral development stages?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-stages-of-post-morality-in-colbergs-theory
+    url: /learn/psychology/questions/how-does-colbergs-theory-address-the-rigidity-and-linearity-of-moral-development-stages
 related_article4:
     id: 164216
-    title: What is the definition of moral reasoning according to Colberg's theory, and why is it important?
+    title: >-
+        What is the definition of moral reasoning according to Colberg's theory, and why is it important?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-definition-of-moral-reasoning-according-to-colbergs-theory-and-why-is-it-important
 related_article5:
-    id: 164230
-    title: What are the broader implications of gender differences in justice and care in moral judgments according to Colberg?
+    id: 164218
+    title: >-
+        What is the purpose of moral dilemmas in Colberg's theory, and how is the Heinz dilemma used to analyze moral reasoning?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-broader-implications-of-gender-differences-in-justice-and-care-in-moral-judgments-according-to-colberg
+    url: /learn/psychology/questions/what-is-the-purpose-of-moral-dilemmas-in-colbergs-theory-and-how-is-the-heinz-dilemma-used-to-analyze-moral-reasoning
 ---
 
 &nbsp;

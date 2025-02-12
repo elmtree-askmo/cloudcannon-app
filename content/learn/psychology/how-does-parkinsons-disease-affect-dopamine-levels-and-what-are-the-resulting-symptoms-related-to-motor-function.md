@@ -2,8 +2,10 @@
 _schema: default
 id: 164409
 date: 2025-01-28
-title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
-article_title: How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+title: >-
+    How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
+article_title: >-
+    How does Parkinson's disease affect dopamine levels and what are the resulting symptoms related to motor function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-r
 url: /learn/psychology/questions/how-does-parkinsons-disease-affect-dopamine-levels-and-what-are-the-resulting-symptoms-related-to-motor-function
 score: -1.0
 related_article1:
-    id: 164408
-    title: What role does the basal ganglia play in implicit memory?
+    id: 164413
+    title: >-
+        What role does the parietal lobe play in spatial awareness and attention?
     subject: Psychology
-    url: /learn/psychology/questions/what-role-does-the-basal-ganglia-play-in-implicit-memory
+    url: /learn/psychology/questions/what-role-does-the-parietal-lobe-play-in-spatial-awareness-and-attention
 related_article2:
-    id: 164410
-    title: What is the involvement of the basal ganglia in Parkinson's disease?
+    id: 164417
+    title: >-
+        How are directional terms applied to understand brain orientation and reference points in anatomy?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+    url: /learn/psychology/questions/how-are-directional-terms-applied-to-understand-brain-orientation-and-reference-points-in-anatomy
 related_article3:
-    id: 164410
-    title: What is the involvement of the basal ganglia in Parkinson's disease?
+    id: 164416
+    title: >-
+        What is the difference between distal and proximal in anatomical terminology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-involvement-of-the-basal-ganglia-in-parkinsons-disease
+    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
 related_article4:
-    id: 164406
-    title: What is the general anatomy of the basal ganglia and how is it related to the thalamus?
+    id: 164416
+    title: >-
+        What is the difference between distal and proximal in anatomical terminology?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-general-anatomy-of-the-basal-ganglia-and-how-is-it-related-to-the-thalamus
+    url: /learn/psychology/questions/what-is-the-difference-between-distal-and-proximal-in-anatomical-terminology
 related_article5:
-    id: 164415
-    title: How do lateral and medial directional terms help in understanding brain anatomy?
+    id: 164414
+    title: >-
+        What cognitive functions are associated with the frontal lobe?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-lateral-and-medial-directional-terms-help-in-understanding-brain-anatomy
+    url: /learn/psychology/questions/what-cognitive-functions-are-associated-with-the-frontal-lobe
 ---
 
 &nbsp;

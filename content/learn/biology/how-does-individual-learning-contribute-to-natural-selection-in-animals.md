@@ -2,8 +2,10 @@
 _schema: default
 id: 166324
 date: 2025-01-30
-title: How does individual learning contribute to natural selection in animals?
-article_title: How does individual learning contribute to natural selection in animals?
+title: >-
+    How does individual learning contribute to natural selection in animals?
+article_title: >-
+    How does individual learning contribute to natural selection in animals?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-individual-learning-contribute-to-natural-selection-in-anima
 url: /learn/biology/questions/how-does-individual-learning-contribute-to-natural-selection-in-animals
 score: -1.0
 related_article1:
-    id: 166326
-    title: How do genetic changes influence the mechanism of animal behavior?
+    id: 166329
+    title: >-
+        How do learning processes, such as individual and social learning, impact the development of behavior in animals?
     subject: Biology
-    url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
 related_article2:
-    id: 166331
-    title: How does heritability contribute to evolutionary change and variation in traits?
-    subject: Biology
-    url: /learn/biology/questions/how-does-heritability-contribute-to-evolutionary-change-and-variation-in-traits
-related_article3:
-    id: 166320
-    title: How do adaptive responses in animals demonstrate problem-solving abilities?
-    subject: Biology
-    url: /learn/biology/questions/how-do-adaptive-responses-in-animals-demonstrate-problemsolving-abilities
-related_article4:
-    id: 166323
-    title: What role does natural selection play in the evolutionary change of animal behavior?
-    subject: Biology
-    url: /learn/biology/questions/what-role-does-natural-selection-play-in-the-evolutionary-change-of-animal-behavior
-related_article5:
     id: 166326
-    title: How do genetic changes influence the mechanism of animal behavior?
+    title: >-
+        How do genetic changes influence the mechanism of animal behavior?
     subject: Biology
     url: /learn/biology/questions/how-do-genetic-changes-influence-the-mechanism-of-animal-behavior
+related_article3:
+    id: 166334
+    title: >-
+        What is the evolutionary impact of selective pressures in predator-prey interactions?
+    subject: Biology
+    url: /learn/biology/questions/what-is-the-evolutionary-impact-of-selective-pressures-in-predatorprey-interactions
+related_article4:
+    id: 166335
+    title: >-
+        How does genetic transmission affect the heritability of traits from parent to offspring?
+    subject: Biology
+    url: /learn/biology/questions/how-does-genetic-transmission-affect-the-heritability-of-traits-from-parent-to-offspring
+related_article5:
+    id: 166329
+    title: >-
+        How do learning processes, such as individual and social learning, impact the development of behavior in animals?
+    subject: Biology
+    url: /learn/biology/questions/how-do-learning-processes-such-as-individual-and-social-learning-impact-the-development-of-behavior-in-animals
 ---
 
 &nbsp;

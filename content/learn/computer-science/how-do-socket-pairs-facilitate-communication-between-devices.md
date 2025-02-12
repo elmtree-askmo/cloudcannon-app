@@ -2,8 +2,10 @@
 _schema: default
 id: 165777
 date: 2025-01-29
-title: How do socket pairs facilitate communication between devices?
-article_title: How do socket pairs facilitate communication between devices?
+title: >-
+    How do socket pairs facilitate communication between devices?
+article_title: >-
+    How do socket pairs facilitate communication between devices?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-socket-pairs-facilitate-communication-between-devices.md
 url: /learn/computer-science/questions/how-do-socket-pairs-facilitate-communication-between-devices
 score: -1.0
 related_article1:
-    id: 165780
-    title: What is the role of the length and checksum fields in the UDP header?
+    id: 165776
+    title: >-
+        What is the purpose of port numbers in managing multiple separate communications?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-role-of-the-length-and-checksum-fields-in-the-udp-header
+    url: /learn/computer-science/questions/what-is-the-purpose-of-port-numbers-in-managing-multiple-separate-communications
 related_article2:
-    id: 165785
-    title: How does UDP handle port number assignment and datagram forwarding?
+    id: 165768
+    title: >-
+        What is the difference between TCP and UDP in terms of reliability?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-udp-handle-port-number-assignment-and-datagram-forwarding
+    url: /learn/computer-science/questions/what-is-the-difference-between-tcp-and-udp-in-terms-of-reliability
 related_article3:
     id: 165764
-    title: What is the primary role of the transport layer in network communication?
+    title: >-
+        What is the primary role of the transport layer in network communication?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
 related_article4:
-    id: 165775
-    title: What mechanisms does TCP use for flow control and congestion avoidance?
+    id: 165764
+    title: >-
+        What is the primary role of the transport layer in network communication?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-mechanisms-does-tcp-use-for-flow-control-and-congestion-avoidance
+    url: /learn/computer-science/questions/what-is-the-primary-role-of-the-transport-layer-in-network-communication
 related_article5:
     id: 165769
-    title: How does data segmentation enable multiple conversations in network communication?
+    title: >-
+        How does data segmentation enable multiple conversations in network communication?
     subject: Computer Science
     url: /learn/computer-science/questions/how-does-data-segmentation-enable-multiple-conversations-in-network-communication
 ---

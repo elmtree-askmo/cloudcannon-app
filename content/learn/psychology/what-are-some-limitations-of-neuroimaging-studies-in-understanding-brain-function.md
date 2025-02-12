@@ -2,8 +2,10 @@
 _schema: default
 id: 164339
 date: 2025-01-28
-title: What are some limitations of neuroimaging studies in understanding brain function?
-article_title: What are some limitations of neuroimaging studies in understanding brain function?
+title: >-
+    What are some limitations of neuroimaging studies in understanding brain function?
+article_title: >-
+    What are some limitations of neuroimaging studies in understanding brain function?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-are-some-limitations-of-neuroimaging-studies-in-understanding-br
 url: /learn/psychology/questions/what-are-some-limitations-of-neuroimaging-studies-in-understanding-brain-function
 score: -1.0
 related_article1:
+    id: 164338
+    title: >-
+        What is the difference between single dissociation and double dissociation in neuroimaging studies?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-single-dissociation-and-double-dissociation-in-neuroimaging-studies
+related_article2:
+    id: 164332
+    title: >-
+        How does the temporal lobe contribute to visual processing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-the-temporal-lobe-contribute-to-visual-processing
+related_article3:
     id: 164344
-    title: How can variability in brain regions impact research studies in cognitive neuroscience?
+    title: >-
+        How can variability in brain regions impact research studies in cognitive neuroscience?
     subject: Psychology
     url: /learn/psychology/questions/how-can-variability-in-brain-regions-impact-research-studies-in-cognitive-neuroscience
-related_article2:
-    id: 164343
-    title: What are some examples of individual differences in brain function, and how do they affect cognitive abilities?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-some-examples-of-individual-differences-in-brain-function-and-how-do-they-affect-cognitive-abilities
-related_article3:
-    id: 164334
-    title: How do object discrimination tasks differ from landmark discrimination tasks in sensory processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-object-discrimination-tasks-differ-from-landmark-discrimination-tasks-in-sensory-processing
 related_article4:
-    id: 164337
-    title: How does fMRI differ from EEG in studying brain region activation?
+    id: 164341
+    title: >-
+        In what ways do memory and attention pathways impact brain activity patterns?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-fmri-differ-from-eeg-in-studying-brain-region-activation
+    url: /learn/psychology/questions/in-what-ways-do-memory-and-attention-pathways-impact-brain-activity-patterns
+related_article5:
+    id: 164340
+    title: >-
+        How do memory and attention pathways influence cognitive tasks?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-memory-and-attention-pathways-influence-cognitive-tasks
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165024
 date: 2025-01-28
-title: What are the key statistical methods used in data analysis?
-article_title: What are the key statistical methods used in data analysis?
+title: >-
+    What are the key statistical methods used in data analysis?
+article_title: >-
+    What are the key statistical methods used in data analysis?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-key-statistical-methods-used-in-data-analysis.md
 url: /learn/education-studies/questions/what-are-the-key-statistical-methods-used-in-data-analysis
 score: -1.0
 related_article1:
-    id: 165025
-    title: How do machine learning algorithms contribute to data analysis?
+    id: 165050
+    title: >-
+        How do learning management systems support educational technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-machine-learning-algorithms-contribute-to-data-analysis
+    url: /learn/education-studies/questions/how-do-learning-management-systems-support-educational-technology
 related_article2:
-    id: 165033
-    title: How is data collection executed during experimentation?
+    id: 165048
+    title: >-
+        What are the key considerations for ensuring data security in data management?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-is-data-collection-executed-during-experimentation
+    url: /learn/education-studies/questions/what-are-the-key-considerations-for-ensuring-data-security-in-data-management
 related_article3:
-    id: 165038
-    title: What distinguishes rational decision-making from intuitive decision-making?
+    id: 165050
+    title: >-
+        How do learning management systems support educational technology?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-distinguishes-rational-decisionmaking-from-intuitive-decisionmaking
+    url: /learn/education-studies/questions/how-do-learning-management-systems-support-educational-technology
 related_article4:
-    id: 165032
-    title: What is the significance of control and variables in an experimental setup?
+    id: 165043
+    title: >-
+        What is the function of reward systems in reinforcement learning?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-significance-of-control-and-variables-in-an-experimental-setup
+    url: /learn/education-studies/questions/what-is-the-function-of-reward-systems-in-reinforcement-learning
 related_article5:
-    id: 165049
-    title: What is the role of metadata management in data governance?
+    id: 165035
+    title: >-
+        What are the main elements to consider when creating a character's backstory?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-role-of-metadata-management-in-data-governance
+    url: /learn/education-studies/questions/what-are-the-main-elements-to-consider-when-creating-a-characters-backstory
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 170238
 date: 2025-02-06
-title: What distinguishes a proposition from a non-proposition?
-article_title: What distinguishes a proposition from a non-proposition?
+title: >-
+    What distinguishes a proposition from a non-proposition?
+article_title: >-
+    What distinguishes a proposition from a non-proposition?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-distinguishes-a-proposition-from-a-nonproposition.md
 url: /learn/mathematics/questions/what-distinguishes-a-proposition-from-a-nonproposition
 score: -1.0
 related_article1:
-    id: 170241
-    title: Explain the concept of truth value in propositional logic.
+    id: 170249
+    title: >-
+        Define bi-implication and explain its truth table.
     subject: Mathematics
-    url: /learn/mathematics/questions/explain-the-concept-of-truth-value-in-propositional-logic
+    url: /learn/mathematics/questions/define-biimplication-and-explain-its-truth-table
 related_article2:
-    id: 170242
-    title: How do you construct a truth table for a given logical expression?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-construct-a-truth-table-for-a-given-logical-expression
-related_article3:
-    id: 170235
-    title: What is the historical significance of propositional logic in the development of logical reasoning?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-historical-significance-of-propositional-logic-in-the-development-of-logical-reasoning
-related_article4:
-    id: 170255
-    title: How does the order of precedence affect the resolution of complex logical formulae?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-order-of-precedence-affect-the-resolution-of-complex-logical-formulae
-related_article5:
     id: 170247
-    title: Describe the exclusive-or operator and its application in propositions.
+    title: >-
+        Describe the exclusive-or operator and its application in propositions.
     subject: Mathematics
     url: /learn/mathematics/questions/describe-the-exclusiveor-operator-and-its-application-in-propositions
+related_article3:
+    id: 170258
+    title: >-
+        How do you calculate the number of rows and columns needed for a truth table?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-do-you-calculate-the-number-of-rows-and-columns-needed-for-a-truth-table
+related_article4:
+    id: 170245
+    title: >-
+        How is conjunction applied in logical propositions?
+    subject: Mathematics
+    url: /learn/mathematics/questions/how-is-conjunction-applied-in-logical-propositions
+related_article5:
+    id: 170254
+    title: >-
+        Define a propositional formula and describe its structure.
+    subject: Mathematics
+    url: /learn/mathematics/questions/define-a-propositional-formula-and-describe-its-structure
 ---
 
 &nbsp;

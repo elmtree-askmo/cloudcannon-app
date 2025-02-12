@@ -2,8 +2,10 @@
 _schema: default
 id: 163676
 date: 2025-01-27
-title: How do ontology and epistemology influence research methodology?
-article_title: How do ontology and epistemology influence research methodology?
+title: >-
+    How do ontology and epistemology influence research methodology?
+article_title: >-
+    How do ontology and epistemology influence research methodology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-ontology-and-epistemology-influence-research-methodology.md
 url: /learn/education-studies/questions/how-do-ontology-and-epistemology-influence-research-methodology
 score: -1.0
 related_article1:
-    id: 163675
-    title: What is the difference between objective and subjective knowledge in epistemology?
+    id: 163690
+    title: >-
+        What is the process of deductive reasoning, and how is it applied in quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-difference-between-objective-and-subjective-knowledge-in-epistemology
+    url: /learn/education-studies/questions/what-is-the-process-of-deductive-reasoning-and-how-is-it-applied-in-quantitative-research
 related_article2:
-    id: 163692
-    title: How does objective knowledge contribute to quantitative research?
+    id: 163696
+    title: >-
+        How does positivism influence quantitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-does-objective-knowledge-contribute-to-quantitative-research
+    url: /learn/education-studies/questions/how-does-positivism-influence-quantitative-research
 related_article3:
-    id: 163684
-    title: What are some common quantitative data collection methods?
+    id: 163678
+    title: >-
+        How does inductive reasoning play a role in qualitative research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-common-quantitative-data-collection-methods
+    url: /learn/education-studies/questions/how-does-inductive-reasoning-play-a-role-in-qualitative-research
 related_article4:
-    id: 163686
-    title: How is statistical analysis used in quantitative data analysis?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-is-statistical-analysis-used-in-quantitative-data-analysis
-related_article5:
     id: 163679
-    title: What are the main characteristics of quantitative research methodologies?
+    title: >-
+        What are the main characteristics of quantitative research methodologies?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-the-main-characteristics-of-quantitative-research-methodologies
+related_article5:
+    id: 163688
+    title: >-
+        What ethical considerations must be taken into account in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-ethical-considerations-must-be-taken-into-account-in-research
 ---
 
 &nbsp;

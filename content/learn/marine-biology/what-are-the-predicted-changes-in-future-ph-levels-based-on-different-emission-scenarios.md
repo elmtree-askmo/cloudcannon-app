@@ -2,8 +2,10 @@
 _schema: default
 id: 167351
 date: 2025-01-31
-title: What are the predicted changes in future pH levels based on different emission scenarios?
-article_title: What are the predicted changes in future pH levels based on different emission scenarios?
+title: >-
+    What are the predicted changes in future pH levels based on different emission scenarios?
+article_title: >-
+    What are the predicted changes in future pH levels based on different emission scenarios?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-predicted-changes-in-future-ph-levels-based-on-different
 url: /learn/marine-biology/questions/what-are-the-predicted-changes-in-future-ph-levels-based-on-different-emission-scenarios
 score: -1.0
 related_article1:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+    id: 167347
+    title: >-
+        What are the key research methodologies used by NOAA to study ocean acidification?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
+    url: /learn/marine-biology/questions/what-are-the-key-research-methodologies-used-by-noaa-to-study-ocean-acidification
 related_article2:
-    id: 167350
-    title: How can changes in marine biodiversity due to ocean acidification affect ecosystems?
+    id: 167346
+    title: >-
+        How does ocean acidification impact the shells of marine terrapods?
     subject: Marine Biology
-    url: /learn/marine-biology/questions/how-can-changes-in-marine-biodiversity-due-to-ocean-acidification-affect-ecosystems
+    url: /learn/marine-biology/questions/how-does-ocean-acidification-impact-the-shells-of-marine-terrapods
 related_article3:
+    id: 167352
+    title: >-
+        How do global oceanic trends and regional variations contribute to environmental changes in oceans?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/how-do-global-oceanic-trends-and-regional-variations-contribute-to-environmental-changes-in-oceans
+related_article4:
+    id: 167345
+    title: >-
+        What role do marine terrapods play in marine ecosystems?
+    subject: Marine Biology
+    url: /learn/marine-biology/questions/what-role-do-marine-terrapods-play-in-marine-ecosystems
+related_article5:
     id: 167342
-    title: How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
+    title: >-
+        How does the absorption of carbon dioxide lead to changes in the pH scale of ocean water?
     subject: Marine Biology
     url: /learn/marine-biology/questions/how-does-the-absorption-of-carbon-dioxide-lead-to-changes-in-the-ph-scale-of-ocean-water
-related_article4:
-    id: 167353
-    title: Why are phytoplankton and zooplankton crucial to oceanic food chains?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/why-are-phytoplankton-and-zooplankton-crucial-to-oceanic-food-chains
-related_article5:
-    id: 167343
-    title: What are the effects of decreased pH levels on ocean chemistry?
-    subject: Marine Biology
-    url: /learn/marine-biology/questions/what-are-the-effects-of-decreased-ph-levels-on-ocean-chemistry
 ---
 
 &nbsp;

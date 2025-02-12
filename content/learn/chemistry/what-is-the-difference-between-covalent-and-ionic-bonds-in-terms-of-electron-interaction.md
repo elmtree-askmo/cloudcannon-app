@@ -2,8 +2,10 @@
 _schema: default
 id: 167282
 date: 2025-01-31
-title: What is the difference between covalent and ionic bonds in terms of electron interaction?
-article_title: What is the difference between covalent and ionic bonds in terms of electron interaction?
+title: >-
+    What is the difference between covalent and ionic bonds in terms of electron interaction?
+article_title: >-
+    What is the difference between covalent and ionic bonds in terms of electron interaction?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-e
 url: /learn/chemistry/questions/what-is-the-difference-between-covalent-and-ionic-bonds-in-terms-of-electron-interaction
 score: -1.0
 related_article1:
-    id: 167283
-    title: How do covalent bonds contribute to the formation of molecules?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
-related_article2:
-    id: 167281
-    title: How do protons, neutrons, and electrons contribute to the structure of an atom?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-do-protons-neutrons-and-electrons-contribute-to-the-structure-of-an-atom
-related_article3:
     id: 167290
-    title: How do valence electrons determine the chemical properties and reactivity of an element?
+    title: >-
+        How do valence electrons determine the chemical properties and reactivity of an element?
     subject: Chemistry
     url: /learn/chemistry/questions/how-do-valence-electrons-determine-the-chemical-properties-and-reactivity-of-an-element
-related_article4:
+related_article2:
+    id: 167285
+    title: >-
+        How is atomic mass calculated and why is it important?
+    subject: Chemistry
+    url: /learn/chemistry/questions/how-is-atomic-mass-calculated-and-why-is-it-important
+related_article3:
     id: 167287
-    title: How are ions formed and what determines their electrical charge?
+    title: >-
+        How are ions formed and what determines their electrical charge?
     subject: Chemistry
     url: /learn/chemistry/questions/how-are-ions-formed-and-what-determines-their-electrical-charge
-related_article5:
-    id: 167283
-    title: How do covalent bonds contribute to the formation of molecules?
+related_article4:
+    id: 167286
+    title: >-
+        What are isotopes and how do they affect the atomic mass of an element?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-covalent-bonds-contribute-to-the-formation-of-molecules
+    url: /learn/chemistry/questions/what-are-isotopes-and-how-do-they-affect-the-atomic-mass-of-an-element
+related_article5:
+    id: 167280
+    title: >-
+        What are the defining characteristics of matter and how do they relate to elements?
+    subject: Chemistry
+    url: /learn/chemistry/questions/what-are-the-defining-characteristics-of-matter-and-how-do-they-relate-to-elements
 ---
 
 &nbsp;

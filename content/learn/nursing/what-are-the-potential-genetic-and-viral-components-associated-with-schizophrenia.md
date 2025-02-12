@@ -2,8 +2,10 @@
 _schema: default
 id: 170444
 date: 2025-02-06
-title: What are the potential genetic and viral components associated with schizophrenia?
-article_title: What are the potential genetic and viral components associated with schizophrenia?
+title: >-
+    What are the potential genetic and viral components associated with schizophrenia?
+article_title: >-
+    What are the potential genetic and viral components associated with schizophrenia?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-potential-genetic-and-viral-components-associated-with-s
 url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 score: -1.0
 related_article1:
-    id: 170453
-    title: Why is myelination important for signal transmission in neurons?
-    subject: Nursing
-    url: /learn/nursing/questions/why-is-myelination-important-for-signal-transmission-in-neurons
-related_article2:
-    id: 170442
-    title: What are the primary causes and consequences of a stroke?
-    subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
-related_article3:
     id: 170456
-    title: What are the major regions of the brain, and what functions do they serve?
+    title: >-
+        What are the major regions of the brain, and what functions do they serve?
     subject: Nursing
     url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
+related_article2:
+    id: 170449
+    title: >-
+        How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
+    subject: Nursing
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
+related_article3:
+    id: 170459
+    title: >-
+        What mechanisms underlie synaptic plasticity in the brain?
+    subject: Nursing
+    url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
 related_article4:
-    id: 170455
-    title: What are the treatment options for hydrocephalus, and how do they work?
+    id: 170452
+    title: >-
+        What is the role of neurotransmitters in neurological and psychiatric conditions?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-treatment-options-for-hydrocephalus-and-how-do-they-work
+    url: /learn/nursing/questions/what-is-the-role-of-neurotransmitters-in-neurological-and-psychiatric-conditions
 related_article5:
-    id: 170447
-    title: Describe the structure and function of the dura mater.
+    id: 170456
+    title: >-
+        What are the major regions of the brain, and what functions do they serve?
     subject: Nursing
-    url: /learn/nursing/questions/describe-the-structure-and-function-of-the-dura-mater
+    url: /learn/nursing/questions/what-are-the-major-regions-of-the-brain-and-what-functions-do-they-serve
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 169094
 date: 2025-02-04
-title: What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
-article_title: What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
+title: >-
+    What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
+article_title: >-
+    What is the function of the Operational Theory Research Institute (OTRI) in military training and education?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-function-of-the-operational-theory-research-institute-otr
 url: /learn/history-of-the-world/questions/what-is-the-function-of-the-operational-theory-research-institute-otri-in-military-training-and-education
 score: 9.0
 related_article1:
-    id: 169093
-    title: What are the characteristics of non-linear warfare in military tactics?
+    id: 169103
+    title: >-
+        How does critical theory apply to military practice in the context of ethical implications?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-characteristics-of-nonlinear-warfare-in-military-tactics
+    url: /learn/history-of-the-world/questions/how-does-critical-theory-apply-to-military-practice-in-the-context-of-ethical-implications
 related_article2:
-    id: 169090
-    title: What is the role of theoretical language in warfare within the context of architectural theory?
+    id: 169085
+    title: >-
+        What role does spatial reinterpretation play in urban combat strategies?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
+    url: /learn/history-of-the-world/questions/what-role-does-spatial-reinterpretation-play-in-urban-combat-strategies
 related_article3:
-    id: 169092
-    title: In what ways does tactical innovation impact military tactics?
+    id: 169088
+    title: >-
+        What is the significance of geopolitical architecture in the military-architectural relationship?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/in-what-ways-does-tactical-innovation-impact-military-tactics
+    url: /learn/history-of-the-world/questions/what-is-the-significance-of-geopolitical-architecture-in-the-militaryarchitectural-relationship
 related_article4:
-    id: 169102
-    title: What are the ethical implications of warfare in military practice?
+    id: 169095
+    title: >-
+        How does the military-architectural relationship influence military training and education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-ethical-implications-of-warfare-in-military-practice
+    url: /learn/history-of-the-world/questions/how-does-the-militaryarchitectural-relationship-influence-military-training-and-education
 related_article5:
-    id: 169090
-    title: What is the role of theoretical language in warfare within the context of architectural theory?
+    id: 169104
+    title: >-
+        What challenges do military training and education face in institutional conflicts?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-role-of-theoretical-language-in-warfare-within-the-context-of-architectural-theory
+    url: /learn/history-of-the-world/questions/what-challenges-do-military-training-and-education-face-in-institutional-conflicts
 ---
 
 &nbsp;

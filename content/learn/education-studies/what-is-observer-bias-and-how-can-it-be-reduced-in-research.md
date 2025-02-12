@@ -2,8 +2,10 @@
 _schema: default
 id: 165113
 date: 2025-01-28
-title: What is observer bias and how can it be reduced in research?
-article_title: What is observer bias and how can it be reduced in research?
+title: >-
+    What is observer bias and how can it be reduced in research?
+article_title: >-
+    What is observer bias and how can it be reduced in research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-observer-bias-and-how-can-it-be-reduced-in-research.md
 url: /learn/education-studies/questions/what-is-observer-bias-and-how-can-it-be-reduced-in-research
 score: -1.0
 related_article1:
+    id: 165095
+    title: >-
+        What is a dependent variable and why is it important in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
+related_article2:
+    id: 165115
+    title: >-
+        How can validity be ensured in research studies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-validity-be-ensured-in-research-studies
+related_article3:
+    id: 165095
+    title: >-
+        What is a dependent variable and why is it important in research?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-a-dependent-variable-and-why-is-it-important-in-research
+related_article4:
     id: 165106
-    title: What are some common challenges in data collection related to participant and observer bias?
+    title: >-
+        What are some common challenges in data collection related to participant and observer bias?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-common-challenges-in-data-collection-related-to-participant-and-observer-bias
-related_article2:
-    id: 165121
-    title: What are the key steps in the scientific methodology and why are they important?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-steps-in-the-scientific-methodology-and-why-are-they-important
-related_article3:
-    id: 165108
-    title: What are some popular software tools used for data coding and what are best practices?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-some-popular-software-tools-used-for-data-coding-and-what-are-best-practices
-related_article4:
-    id: 165120
-    title: What are the biological and environmental factors affecting taste perception?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-biological-and-environmental-factors-affecting-taste-perception
 related_article5:
-    id: 165105
-    title: How can the order of questions in a survey impact responses?
+    id: 165109
+    title: >-
+        What are measures of central tendency and variability in descriptive statistics?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-the-order-of-questions-in-a-survey-impact-responses
+    url: /learn/education-studies/questions/what-are-measures-of-central-tendency-and-variability-in-descriptive-statistics
 ---
 
 &nbsp;

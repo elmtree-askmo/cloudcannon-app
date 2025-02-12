@@ -2,8 +2,10 @@
 _schema: default
 id: 164823
 date: 2025-01-28
-title: How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
-article_title: How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
+title: >-
+    How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
+article_title: >-
+    How do concentration gradients and electrostatic pressure influence ion movement across the neuronal membrane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-concentration-gradients-and-electrostatic-pressure-influence-i
 url: /learn/psychology/questions/how-do-concentration-gradients-and-electrostatic-pressure-influence-ion-movement-across-the-neuronal-membrane
 score: -1.0
 related_article1:
-    id: 164828
-    title: What is the function of the nodes of Ranvier in neural communication?
+    id: 164818
+    title: >-
+        How do ion concentration differences contribute to the resting potential of a neuron?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-function-of-the-nodes-of-ranvier-in-neural-communication
+    url: /learn/psychology/questions/how-do-ion-concentration-differences-contribute-to-the-resting-potential-of-a-neuron
 related_article2:
-    id: 164820
-    title: What is the threshold for an action potential and what are the refractory periods?
+    id: 164830
+    title: >-
+        How does synaptic transmission occur and what role do neurotransmitters play in this process?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
+    url: /learn/psychology/questions/how-does-synaptic-transmission-occur-and-what-role-do-neurotransmitters-play-in-this-process
 related_article3:
+    id: 164825
+    title: >-
+        What is the difference between the absolute and relative refractory periods, and how do they affect neural firing rates?
+    subject: Psychology
+    url: /learn/psychology/questions/what-is-the-difference-between-the-absolute-and-relative-refractory-periods-and-how-do-they-affect-neural-firing-rates
+related_article4:
     id: 164820
-    title: What is the threshold for an action potential and what are the refractory periods?
+    title: >-
+        What is the threshold for an action potential and what are the refractory periods?
     subject: Psychology
     url: /learn/psychology/questions/what-is-the-threshold-for-an-action-potential-and-what-are-the-refractory-periods
-related_article4:
-    id: 164827
-    title: How does myelination affect the speed of neural signal transmission?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
 related_article5:
-    id: 164827
-    title: How does myelination affect the speed of neural signal transmission?
+    id: 164829
+    title: >-
+        What types of ion channels are involved in action potentials and how do they regulate ion flow?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-myelination-affect-the-speed-of-neural-signal-transmission
+    url: /learn/psychology/questions/what-types-of-ion-channels-are-involved-in-action-potentials-and-how-do-they-regulate-ion-flow
 ---
 
 &nbsp;

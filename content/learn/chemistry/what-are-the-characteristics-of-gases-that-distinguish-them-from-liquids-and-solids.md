@@ -2,8 +2,10 @@
 _schema: default
 id: 162050
 date: 2025-01-24
-title: What are the characteristics of gases that distinguish them from liquids and solids?
-article_title: What are the characteristics of gases that distinguish them from liquids and solids?
+title: >-
+    What are the characteristics of gases that distinguish them from liquids and solids?
+article_title: >-
+    What are the characteristics of gases that distinguish them from liquids and solids?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-gases-that-distinguish-them-from-liqu
 url: /learn/chemistry/questions/what-are-the-characteristics-of-gases-that-distinguish-them-from-liquids-and-solids
 score: -1.0
 related_article1:
-    id: 161751
-    title: How do you balance a chemical equation for the reaction between hydrogen and oxygen?
+    id: 161984
+    title: >-
+        What are the characteristics of liquids that differentiate them from solids and gases?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-do-you-balance-a-chemical-equation-for-the-reaction-between-hydrogen-and-oxygen
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-liquids-that-differentiate-them-from-solids-and-gases
 related_article2:
-    id: 161931
-    title: What are the characteristics of a solid state of matter?
+    id: 162025
+    title: >-
+        Describe the characteristics of a solid and provide an example.
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-state-of-matter
+    url: /learn/chemistry/questions/describe-the-characteristics-of-a-solid-and-provide-an-example
 related_article3:
-    id: 162045
-    title: Describe the process of ionization and its effect on the formation of ions.
+    id: 161965
+    title: >-
+        What is the role of oxygen in combustion reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effect-on-the-formation-of-ions
+    url: /learn/chemistry/questions/what-is-the-role-of-oxygen-in-combustion-reactions
 related_article4:
-    id: 162049
-    title: Explain the process of a liquid changing to a solid and provide an example.
+    id: 161936
+    title: >-
+        Describe the process of ionization and its effects on the charge of particles.
     subject: Chemistry
-    url: /learn/chemistry/questions/explain-the-process-of-a-liquid-changing-to-a-solid-and-provide-an-example
+    url: /learn/chemistry/questions/describe-the-process-of-ionization-and-its-effects-on-the-charge-of-particles
 related_article5:
-    id: 162048
-    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    id: 161937
+    title: >-
+        What is a precipitation reaction and how can you identify it?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 168905
 date: 2025-02-04
-title: Define concentration gradient and its importance in active transport.
-article_title: Define concentration gradient and its importance in active transport.
+title: >-
+    Define concentration gradient and its importance in active transport.
+article_title: >-
+    Define concentration gradient and its importance in active transport.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: define-concentration-gradient-and-its-importance-in-active-transport.
 url: /learn/biology/questions/define-concentration-gradient-and-its-importance-in-active-transport
 score: -1.0
 related_article1:
-    id: 168897
-    title: Why is energy required for active transport processes?
+    id: 168904
+    title: >-
+        What is the role of ATP in the sodium-potassium pump?
     subject: Biology
-    url: /learn/biology/questions/why-is-energy-required-for-active-transport-processes
+    url: /learn/biology/questions/what-is-the-role-of-atp-in-the-sodiumpotassium-pump
 related_article2:
-    id: 168898
-    title: How does active transport contribute to cellular function?
+    id: 168896
+    title: >-
+        What is active transport and how does it differ from passive transport?
     subject: Biology
-    url: /learn/biology/questions/how-does-active-transport-contribute-to-cellular-function
+    url: /learn/biology/questions/what-is-active-transport-and-how-does-it-differ-from-passive-transport
 related_article3:
-    id: 168906
-    title: How does ATP utilization differ between active and passive transport?
+    id: 168900
+    title: >-
+        Describe the process of endocytosis and its significance in cellular intake.
     subject: Biology
-    url: /learn/biology/questions/how-does-atp-utilization-differ-between-active-and-passive-transport
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
 related_article4:
-    id: 168901
-    title: What is the difference between phagocytosis and pinocytosis?
+    id: 168900
+    title: >-
+        Describe the process of endocytosis and its significance in cellular intake.
     subject: Biology
-    url: /learn/biology/questions/what-is-the-difference-between-phagocytosis-and-pinocytosis
+    url: /learn/biology/questions/describe-the-process-of-endocytosis-and-its-significance-in-cellular-intake
+related_article5:
+    id: 168907
+    title: >-
+        Why is active transport crucial for heart muscle cells?
+    subject: Biology
+    url: /learn/biology/questions/why-is-active-transport-crucial-for-heart-muscle-cells
 ---
 
 &nbsp;

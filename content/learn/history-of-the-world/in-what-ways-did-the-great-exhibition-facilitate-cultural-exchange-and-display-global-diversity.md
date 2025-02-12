@@ -2,8 +2,10 @@
 _schema: default
 id: 163989
 date: 2025-01-28
-title: In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
-article_title: In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
+title: >-
+    In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
+article_title: >-
+    In what ways did the Great Exhibition facilitate cultural exchange and display global diversity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-an
 url: /learn/history-of-the-world/questions/in-what-ways-did-the-great-exhibition-facilitate-cultural-exchange-and-display-global-diversity
 score: 9.0
 related_article1:
+    id: 163995
+    title: >-
+        How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
+related_article2:
+    id: 163993
+    title: >-
+        What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-is-the-concept-of-the-antimonument-and-how-do-contemporary-artistic-responses-critique-historical-narratives
+related_article3:
     id: 163982
-    title: In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
+    title: >-
+        In what ways did British colonial power manifest in the exhibits and architecture of the Great Exhibition?
     subject: History of the World
     url: /learn/history-of-the-world/questions/in-what-ways-did-british-colonial-power-manifest-in-the-exhibits-and-architecture-of-the-great-exhibition
-related_article2:
-    id: 163995
-    title: How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
-related_article3:
-    id: 163978
-    title: What were the origins of World Expos, and how did they evolve over time?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-the-origins-of-world-expos-and-how-did-they-evolve-over-time
 related_article4:
-    id: 163995
-    title: How do contemporary reflections and artistic interpretations engage with the colonial legacies of the Great Exhibition?
+    id: 163994
+    title: >-
+        What lasting impact did the Great Exhibition have on modern museums and cultural education?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-do-contemporary-reflections-and-artistic-interpretations-engage-with-the-colonial-legacies-of-the-great-exhibition
+    url: /learn/history-of-the-world/questions/what-lasting-impact-did-the-great-exhibition-have-on-modern-museums-and-cultural-education
 related_article5:
-    id: 163985
-    title: What role did Victorian sensibilities play in shaping museum culture, particularly in terms of moral values and public education?
+    id: 163987
+    title: >-
+        How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-victorian-sensibilities-play-in-shaping-museum-culture-particularly-in-terms-of-moral-values-and-public-education
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167960
 date: 2025-02-02
-title: What is irreversibility, and how does it limit a child's understanding of processes and actions?
-article_title: What is irreversibility, and how does it limit a child's understanding of processes and actions?
+title: >-
+    What is irreversibility, and how does it limit a child's understanding of processes and actions?
+article_title: >-
+    What is irreversibility, and how does it limit a child's understanding of processes and actions?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-
 url: /learn/psychology/questions/what-is-irreversibility-and-how-does-it-limit-a-childs-understanding-of-processes-and-actions
 score: -1.0
 related_article1:
-    id: 167950
-    title: What age range does the pre-operational stage cover, and what are some key cognitive milestones during this period?
+    id: 167959
+    title: >-
+        How does centration affect a child's ability to consider multiple aspects of a situation?
     subject: Psychology
-    url: /learn/psychology/questions/what-age-range-does-the-preoperational-stage-cover-and-what-are-some-key-cognitive-milestones-during-this-period
+    url: /learn/psychology/questions/how-does-centration-affect-a-childs-ability-to-consider-multiple-aspects-of-a-situation
 related_article2:
-    id: 167954
-    title: What is transductive reasoning, and how does it affect a child's understanding of causality?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
-related_article3:
     id: 167958
-    title: What challenges do children face in understanding the concept of conservation during the pre-operational stage?
+    title: >-
+        What challenges do children face in understanding the concept of conservation during the pre-operational stage?
     subject: Psychology
     url: /learn/psychology/questions/what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage
-related_article4:
-    id: 167954
-    title: What is transductive reasoning, and how does it affect a child's understanding of causality?
+related_article3:
+    id: 167955
+    title: >-
+        How does egocentrism limit a child's ability to understand perspectives different from their own?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-transductive-reasoning-and-how-does-it-affect-a-childs-understanding-of-causality
+    url: /learn/psychology/questions/how-does-egocentrism-limit-a-childs-ability-to-understand-perspectives-different-from-their-own
+related_article4:
+    id: 167953
+    title: >-
+        How does role-playing in make-believe play contribute to a child's social interaction skills?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-roleplaying-in-makebelieve-play-contribute-to-a-childs-social-interaction-skills
+related_article5:
+    id: 167958
+    title: >-
+        What challenges do children face in understanding the concept of conservation during the pre-operational stage?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-children-face-in-understanding-the-concept-of-conservation-during-the-preoperational-stage
 ---
 
 &nbsp;

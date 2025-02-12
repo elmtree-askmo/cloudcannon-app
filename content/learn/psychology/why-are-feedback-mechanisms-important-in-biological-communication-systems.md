@@ -2,8 +2,10 @@
 _schema: default
 id: 171011
 date: 2025-02-07
-title: Why are feedback mechanisms important in biological communication systems?
-article_title: Why are feedback mechanisms important in biological communication systems?
+title: >-
+    Why are feedback mechanisms important in biological communication systems?
+article_title: >-
+    Why are feedback mechanisms important in biological communication systems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/psychology/questions/why-are-feedback-mechanisms-important-in-biolog
 score: -1.0
 related_article1:
     id: 170996
-    title: How do forgiveness and provocative strategies differ in game theory applications?
+    title: >-
+        How do forgiveness and provocative strategies differ in game theory applications?
     subject: Psychology
     url: /learn/psychology/questions/how-do-forgiveness-and-provocative-strategies-differ-in-game-theory-applications
 related_article2:
-    id: 171002
-    title: How does parental investment impact offspring survival and resource allocation trade-offs?
-    subject: Psychology
-    url: /learn/psychology/questions/how-does-parental-investment-impact-offspring-survival-and-resource-allocation-tradeoffs
-related_article3:
     id: 170999
-    title: What are the main disadvantages of sexual reproduction in terms of energy and time investment?
+    title: >-
+        What are the main disadvantages of sexual reproduction in terms of energy and time investment?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-disadvantages-of-sexual-reproduction-in-terms-of-energy-and-time-investment
+related_article3:
+    id: 171008
+    title: >-
+        How do evolutionary strategies in animals adapt to environmental influences on reproduction?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-evolutionary-strategies-in-animals-adapt-to-environmental-influences-on-reproduction
 related_article4:
-    id: 170995
-    title: What is the Tit-for-Tat strategy in game theory, and how does it promote cooperation?
+    id: 170997
+    title: >-
+        What role do computer simulations play in understanding real-world cooperation strategies?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-titfortat-strategy-in-game-theory-and-how-does-it-promote-cooperation
+    url: /learn/psychology/questions/what-role-do-computer-simulations-play-in-understanding-realworld-cooperation-strategies
 related_article5:
-    id: 171005
-    title: What are the different types of polygyny, and can you provide examples from nature?
+    id: 170998
+    title: >-
+        How does sexual reproduction contribute to genetic diversity and adaptation to environmental changes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-polygyny-and-can-you-provide-examples-from-nature
+    url: /learn/psychology/questions/how-does-sexual-reproduction-contribute-to-genetic-diversity-and-adaptation-to-environmental-changes
 ---
 
 &nbsp;

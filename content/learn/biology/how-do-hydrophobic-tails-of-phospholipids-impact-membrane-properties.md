@@ -2,8 +2,10 @@
 _schema: default
 id: 167541
 date: 2025-01-31
-title: How do hydrophobic tails of phospholipids impact membrane properties?
-article_title: How do hydrophobic tails of phospholipids impact membrane properties?
+title: >-
+    How do hydrophobic tails of phospholipids impact membrane properties?
+article_title: >-
+    How do hydrophobic tails of phospholipids impact membrane properties?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties.
 url: /learn/biology/questions/how-do-hydrophobic-tails-of-phospholipids-impact-membrane-properties
 score: -1.0
 related_article1:
-    id: 167555
-    title: How does the permeability of nonpolar molecules differ from that of small polar molecules in the lipid bilayer?
+    id: 167540
+    title: >-
+        Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
     subject: Biology
-    url: /learn/biology/questions/how-does-the-permeability-of-nonpolar-molecules-differ-from-that-of-small-polar-molecules-in-the-lipid-bilayer
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
 related_article2:
-    id: 167556
-    title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    id: 167545
+    title: >-
+        What are isotonic, hypertonic, and hypotonic solutions, and how do they affect cells?
     subject: Biology
-    url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
+    url: /learn/biology/questions/what-are-isotonic-hypertonic-and-hypotonic-solutions-and-how-do-they-affect-cells
 related_article3:
-    id: 167547
-    title: How do integral and peripheral membrane proteins differ in structure and function?
+    id: 167544
+    title: >-
+        Describe the mechanism of osmosis and how water moves across cell membranes to achieve equilibrium.
     subject: Biology
-    url: /learn/biology/questions/how-do-integral-and-peripheral-membrane-proteins-differ-in-structure-and-function
+    url: /learn/biology/questions/describe-the-mechanism-of-osmosis-and-how-water-moves-across-cell-membranes-to-achieve-equilibrium
 related_article4:
-    id: 167539
-    title: What factors can affect the rate of simple diffusion across a membrane?
+    id: 167540
+    title: >-
+        Describe the structure of phospholipids and explain the role of hydrophilic head groups in membrane formation.
     subject: Biology
-    url: /learn/biology/questions/what-factors-can-affect-the-rate-of-simple-diffusion-across-a-membrane
+    url: /learn/biology/questions/describe-the-structure-of-phospholipids-and-explain-the-role-of-hydrophilic-head-groups-in-membrane-formation
 related_article5:
     id: 167556
-    title: Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
+    title: >-
+        Explain the mechanism of water transport in solutions and its impact on cell volume and tonicity.
     subject: Biology
     url: /learn/biology/questions/explain-the-mechanism-of-water-transport-in-solutions-and-its-impact-on-cell-volume-and-tonicity
 ---

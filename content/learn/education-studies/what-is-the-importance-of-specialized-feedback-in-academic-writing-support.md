@@ -2,8 +2,10 @@
 _schema: default
 id: 165355
 date: 2025-01-29
-title: What is the importance of specialized feedback in academic writing support?
-article_title: What is the importance of specialized feedback in academic writing support?
+title: >-
+    What is the importance of specialized feedback in academic writing support?
+article_title: >-
+    What is the importance of specialized feedback in academic writing support?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-importance-of-specialized-feedback-in-academic-writing-su
 url: /learn/education-studies/questions/what-is-the-importance-of-specialized-feedback-in-academic-writing-support
 score: -1.0
 related_article1:
-    id: 165352
-    title: How do documentation guides assist in maintaining proper grammar?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-documentation-guides-assist-in-maintaining-proper-grammar
-related_article2:
-    id: 165360
-    title: How does character analysis contribute to understanding themes in literature?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-does-character-analysis-contribute-to-understanding-themes-in-literature
-related_article3:
-    id: 165354
-    title: How can students access writing center services at the Greenlaw Library location?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-can-students-access-writing-center-services-at-the-greenlaw-library-location
-related_article4:
-    id: 165352
-    title: How do documentation guides assist in maintaining proper grammar?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-do-documentation-guides-assist-in-maintaining-proper-grammar
-related_article5:
     id: 165357
-    title: What steps are involved in creating an account for online appointment scheduling?
+    title: >-
+        What steps are involved in creating an account for online appointment scheduling?
     subject: Education Studies
     url: /learn/education-studies/questions/what-steps-are-involved-in-creating-an-account-for-online-appointment-scheduling
+related_article2:
+    id: 165354
+    title: >-
+        How can students access writing center services at the Greenlaw Library location?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-can-students-access-writing-center-services-at-the-greenlaw-library-location
+related_article3:
+    id: 165352
+    title: >-
+        How do documentation guides assist in maintaining proper grammar?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-do-documentation-guides-assist-in-maintaining-proper-grammar
+related_article4:
+    id: 165357
+    title: >-
+        What steps are involved in creating an account for online appointment scheduling?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-steps-are-involved-in-creating-an-account-for-online-appointment-scheduling
+related_article5:
+    id: 165359
+    title: >-
+        What methods are used to identify and analyze themes in literary analysis?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-methods-are-used-to-identify-and-analyze-themes-in-literary-analysis
 ---
 
 &nbsp;

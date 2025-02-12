@@ -2,8 +2,10 @@
 _schema: default
 id: 162545
 date: 2025-01-25
-title: What is the significance of maintaining size and shape in geometric transformations?
-article_title: What is the significance of maintaining size and shape in geometric transformations?
+title: >-
+    What is the significance of maintaining size and shape in geometric transformations?
+article_title: >-
+    What is the significance of maintaining size and shape in geometric transformations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-significance-of-maintaining-size-and-shape-in-geometric-t
 url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
 score: -1.0
 related_article1:
-    id: 162553
-    title: How can graphs be used to verify translations?
+    id: 162286
+    title: >-
+        How do you identify vertices on a coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-graphs-be-used-to-verify-translations
+    url: /learn/mathematics/questions/how-do-you-identify-vertices-on-a-coordinate-plane
 related_article2:
-    id: 162283
-    title: How do coordinates change during horizontal translations?
+    id: 162535
+    title: >-
+        What is a translation in the context of geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-coordinates-change-during-horizontal-translations
+    url: /learn/mathematics/questions/what-is-a-translation-in-the-context-of-geometric-transformations
 related_article3:
-    id: 162539
-    title: What are the rules for vertical movement in translations?
+    id: 162293
+    title: >-
+        How do you add and subtract coordinates to achieve directional movement in translations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-rules-for-vertical-movement-in-translations
+    url: /learn/mathematics/questions/how-do-you-add-and-subtract-coordinates-to-achieve-directional-movement-in-translations
 related_article4:
-    id: 162537
-    title: What is the difference between vertical and horizontal translations?
+    id: 162284
+    title: >-
+        What is the significance of maintaining size and shape in geometric transformations?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-difference-between-vertical-and-horizontal-translations
+    url: /learn/mathematics/questions/what-is-the-significance-of-maintaining-size-and-shape-in-geometric-transformations
 related_article5:
-    id: 162468
-    title: How can patterns be used to predict new coordinates after a translation?
+    id: 162538
+    title: >-
+        How do you apply combined translations to a geometric figure?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-patterns-be-used-to-predict-new-coordinates-after-a-translation
+    url: /learn/mathematics/questions/how-do-you-apply-combined-translations-to-a-geometric-figure
 ---
 
 &nbsp;

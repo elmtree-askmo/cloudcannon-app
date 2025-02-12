@@ -2,8 +2,10 @@
 _schema: default
 id: 165639
 date: 2025-01-29
-title: What is the primary role of the Application Layer in the OSI model?
-article_title: What is the primary role of the Application Layer in the OSI model?
+title: >-
+    What is the primary role of the Application Layer in the OSI model?
+article_title: >-
+    What is the primary role of the Application Layer in the OSI model?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-role-of-the-application-layer-in-the-osi-model.md
 url: /learn/computer-science/questions/what-is-the-primary-role-of-the-application-layer-in-the-osi-model
 score: -1.0
 related_article1:
-    id: 165654
-    title: What functions does the Server Message Block (SMB) protocol provide?
+    id: 165649
+    title: >-
+        Describe the store-and-forward method used in email operations.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-functions-does-the-server-message-block-smb-protocol-provide
+    url: /learn/computer-science/questions/describe-the-storeandforward-method-used-in-email-operations
 related_article2:
-    id: 165644
-    title: What is the primary function of DHCP in host configuration?
+    id: 165647
+    title: >-
+        How does HTTP interpret a URL?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-primary-function-of-dhcp-in-host-configuration
+    url: /learn/computer-science/questions/how-does-http-interpret-a-url
 related_article3:
-    id: 165640
-    title: How does the Presentation Layer handle data encryption?
+    id: 165652
+    title: >-
+        What are the steps involved in the DHCP process for dynamic address assignment?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-the-presentation-layer-handle-data-encryption
+    url: /learn/computer-science/questions/what-are-the-steps-involved-in-the-dhcp-process-for-dynamic-address-assignment
 related_article4:
-    id: 165648
-    title: What are the main differences between HTTP and HTTPS in terms of security?
+    id: 165645
+    title: >-
+        Explain the difference between the client-server model and peer-to-peer networks.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-differences-between-http-and-https-in-terms-of-security
+    url: /learn/computer-science/questions/explain-the-difference-between-the-clientserver-model-and-peertopeer-networks
 related_article5:
-    id: 165650
-    title: What are the differences between POP and IMAP protocols?
+    id: 165646
+    title: >-
+        What role do peers play in a peer-to-peer network?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-differences-between-pop-and-imap-protocols
+    url: /learn/computer-science/questions/what-role-do-peers-play-in-a-peertopeer-network
 ---
 
 &nbsp;

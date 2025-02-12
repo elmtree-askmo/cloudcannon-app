@@ -2,8 +2,10 @@
 _schema: default
 id: 165798
 date: 2025-01-29
-title: What information is typically displayed in a host's routing table, and why is it important for network communication?
-article_title: What information is typically displayed in a host's routing table, and why is it important for network communication?
+title: >-
+    What information is typically displayed in a host's routing table, and why is it important for network communication?
+article_title: >-
+    What information is typically displayed in a host's routing table, and why is it important for network communication?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-information-is-typically-displayed-in-a-hosts-routing-table-and-
 url: /learn/computer-science/questions/what-information-is-typically-displayed-in-a-hosts-routing-table-and-why-is-it-important-for-network-communication
 score: -1.0
 related_article1:
-    id: 165795
-    title: How does IPv6 address space expansion improve network scalability compared to IPv4?
+    id: 165792
+    title: >-
+        What is the significance of the Maximum Transmission Unit (MTU) in media independence, and how does fragmentation address MTU limitations?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ipv6-address-space-expansion-improve-network-scalability-compared-to-ipv4
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-maximum-transmission-unit-mtu-in-media-independence-and-how-does-fragmentation-address-mtu-limitations
 related_article2:
-    id: 165801
-    title: What are the primary functions of ARP in a network, and how does it resolve IPv4 addresses to MAC addresses?
+    id: 165791
+    title: >-
+        Explain the concept of connectionless communication in IP and its implications for data transmission.
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-primary-functions-of-arp-in-a-network-and-how-does-it-resolve-ipv4-addresses-to-mac-addresses
+    url: /learn/computer-science/questions/explain-the-concept-of-connectionless-communication-in-ip-and-its-implications-for-data-transmission
 related_article3:
     id: 165792
-    title: What is the significance of the Maximum Transmission Unit (MTU) in media independence, and how does fragmentation address MTU limitations?
+    title: >-
+        What is the significance of the Maximum Transmission Unit (MTU) in media independence, and how does fragmentation address MTU limitations?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-the-significance-of-the-maximum-transmission-unit-mtu-in-media-independence-and-how-does-fragmentation-address-mtu-limitations
 related_article4:
     id: 165793
-    title: Describe the key fields in the IPv4 packet header and their functions.
+    title: >-
+        Describe the key fields in the IPv4 packet header and their functions.
     subject: Computer Science
     url: /learn/computer-science/questions/describe-the-key-fields-in-the-ipv4-packet-header-and-their-functions
 related_article5:
-    id: 165795
-    title: How does IPv6 address space expansion improve network scalability compared to IPv4?
+    id: 165792
+    title: >-
+        What is the significance of the Maximum Transmission Unit (MTU) in media independence, and how does fragmentation address MTU limitations?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-does-ipv6-address-space-expansion-improve-network-scalability-compared-to-ipv4
+    url: /learn/computer-science/questions/what-is-the-significance-of-the-maximum-transmission-unit-mtu-in-media-independence-and-how-does-fragmentation-address-mtu-limitations
 ---
 
 &nbsp;

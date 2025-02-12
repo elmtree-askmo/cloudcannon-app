@@ -2,8 +2,10 @@
 _schema: default
 id: 160530
 date: 2025-01-24
-title: What were the implications of Apple's transition to Intel processors for product performance?
-article_title: What were the implications of Apple's transition to Intel processors for product performance?
+title: >-
+    What were the implications of Apple's transition to Intel processors for product performance?
+article_title: >-
+    What were the implications of Apple's transition to Intel processors for product performance?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-implications-of-apples-transition-to-intel-processors-f
 url: /learn/computer-science/questions/what-were-the-implications-of-apples-transition-to-intel-processors-for-product-performance
 score: -1.0
 related_article1:
-    id: 160520
-    title: What were the major updates introduced in Mac OS X 10.1?
+    id: 160536
+    title: >-
+        What were the key developments in operating systems that Apple introduced in the early 2000s?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-in-mac-os-x-101
+    url: /learn/computer-science/questions/what-were-the-key-developments-in-operating-systems-that-apple-introduced-in-the-early-2000s
 related_article2:
-    id: 160532
-    title: What role did iLife and iWork updates play in Apple's software ecosystem?
+    id: 160601
+    title: >-
+        What was the impact of the iPod's introduction in the late 2000s on Apple's product lineup?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-role-did-ilife-and-iwork-updates-play-in-apples-software-ecosystem
+    url: /learn/computer-science/questions/what-was-the-impact-of-the-ipods-introduction-in-the-late-2000s-on-apples-product-lineup
 related_article3:
-    id: 160423
-    title: What were the major updates included in Mac OS X 10.2 Jaguar?
+    id: 160425
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-included-in-mac-os-x-102-jaguar
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 related_article4:
-    id: 160603
-    title: What were the major updates introduced with Mac OS X 10.4 Tiger?
+    id: 160531
+    title: >-
+        How did the introduction of Boot Camp enhance the functionality of Mac computers?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-major-updates-introduced-with-mac-os-x-104-tiger
+    url: /learn/computer-science/questions/how-did-the-introduction-of-boot-camp-enhance-the-functionality-of-mac-computers
 related_article5:
-    id: 160434
-    title: What were the key technological advancements in computing that Apple contributed to in the early 2000s?
+    id: 160425
+    title: >-
+        What were the technological advancements introduced with the iPhone 3G?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-were-the-key-technological-advancements-in-computing-that-apple-contributed-to-in-the-early-2000s
+    url: /learn/computer-science/questions/what-were-the-technological-advancements-introduced-with-the-iphone-3g
 ---
 
 &nbsp;

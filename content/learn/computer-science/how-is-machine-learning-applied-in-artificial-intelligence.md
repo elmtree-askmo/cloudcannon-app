@@ -2,8 +2,10 @@
 _schema: default
 id: 160910
 date: 2025-01-24
-title: How is machine learning applied in artificial intelligence?
-article_title: How is machine learning applied in artificial intelligence?
+title: >-
+    How is machine learning applied in artificial intelligence?
+article_title: >-
+    How is machine learning applied in artificial intelligence?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-machine-learning-applied-in-artificial-intelligence.md
 url: /learn/computer-science/questions/how-is-machine-learning-applied-in-artificial-intelligence
 score: -1.0
 related_article1:
-    id: 160722
-    title: What is the difference between discrete event simulation and continuous simulation?
+    id: 161043
+    title: >-
+        How do rendering techniques impact computer graphics?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-difference-between-discrete-event-simulation-and-continuous-simulation
+    url: /learn/computer-science/questions/how-do-rendering-techniques-impact-computer-graphics
 related_article2:
-    id: 161052
-    title: How do heuristic algorithms differ from Euclid’s algorithm?
+    id: 160707
+    title: >-
+        How does problem analysis contribute to computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/how-do-heuristic-algorithms-differ-from-euclids-algorithm
+    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
 related_article3:
-    id: 161048
-    title: What is the significance of cache design in computer architecture?
+    id: 160715
+    title: >-
+        What measures can be taken to enhance network security?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-is-the-significance-of-cache-design-in-computer-architecture
+    url: /learn/computer-science/questions/what-measures-can-be-taken-to-enhance-network-security
 related_article4:
-    id: 160987
-    title: What are the principles of usability in user interface design?
+    id: 160707
+    title: >-
+        How does problem analysis contribute to computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/how-does-problem-analysis-contribute-to-computational-problem-solving
 related_article5:
-    id: 160727
-    title: What are the principles of usability in user interface design?
+    id: 161035
+    title: >-
+        Why is algorithm efficiency important in computational problem solving?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-principles-of-usability-in-user-interface-design
+    url: /learn/computer-science/questions/why-is-algorithm-efficiency-important-in-computational-problem-solving
 ---
 
 &nbsp;

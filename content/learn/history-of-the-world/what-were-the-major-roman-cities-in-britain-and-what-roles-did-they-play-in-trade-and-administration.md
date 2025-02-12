@@ -2,8 +2,10 @@
 _schema: default
 id: 169963
 date: 2025-02-05
-title: What were the major Roman cities in Britain and what roles did they play in trade and administration?
-article_title: What were the major Roman cities in Britain and what roles did they play in trade and administration?
+title: >-
+    What were the major Roman cities in Britain and what roles did they play in trade and administration?
+article_title: >-
+    What were the major Roman cities in Britain and what roles did they play in trade and administration?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-major-roman-cities-in-britain-and-what-roles-did-they-p
 url: /learn/history-of-the-world/questions/what-were-the-major-roman-cities-in-britain-and-what-roles-did-they-play-in-trade-and-administration
 score: 8.5
 related_article1:
-    id: 169968
-    title: What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
+    id: 169967
+    title: >-
+        How did the Romanization process affect cultural integration in Britain?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-daily-life-and-military-operations-in-roman-britain
+    url: /learn/history-of-the-world/questions/how-did-the-romanization-process-affect-cultural-integration-in-britain
 related_article2:
-    id: 169967
-    title: How did the Romanization process affect cultural integration in Britain?
+    id: 169969
+    title: >-
+        According to Tacitus, what were the British attitudes towards Roman taxation and conscription?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-romanization-process-affect-cultural-integration-in-britain
+    url: /learn/history-of-the-world/questions/according-to-tacitus-what-were-the-british-attitudes-towards-roman-taxation-and-conscription
 related_article3:
-    id: 169966
-    title: What was the purpose of the Roman road network, and which were the major roads in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-purpose-of-the-roman-road-network-and-which-were-the-major-roads-in-britain
-related_article4:
-    id: 169967
-    title: How did the Romanization process affect cultural integration in Britain?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-romanization-process-affect-cultural-integration-in-britain
-related_article5:
     id: 169971
-    title: How did cultural integration transform society and daily life in Roman Britain?
+    title: >-
+        How did cultural integration transform society and daily life in Roman Britain?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-cultural-integration-transform-society-and-daily-life-in-roman-britain
+related_article4:
+    id: 169968
+    title: >-
+        What insights do the Vindolanda tablets provide about daily life and military operations in Roman Britain?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-insights-do-the-vindolanda-tablets-provide-about-daily-life-and-military-operations-in-roman-britain
+related_article5:
+    id: 169972
+    title: >-
+        What was the significance of Hadrian's Wall and Antonine Wall in terms of defense and Roman power?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-hadrians-wall-and-antonine-wall-in-terms-of-defense-and-roman-power
 ---
 
 &nbsp;

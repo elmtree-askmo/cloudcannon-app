@@ -2,8 +2,10 @@
 _schema: default
 id: 162053
 date: 2025-01-24
-title: What are the characteristics of a solid that differentiate it from other states of matter?
-article_title: What are the characteristics of a solid that differentiate it from other states of matter?
+title: >-
+    What are the characteristics of a solid that differentiate it from other states of matter?
+article_title: >-
+    What are the characteristics of a solid that differentiate it from other states of matter?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-characteristics-of-a-solid-that-differentiate-it-from-ot
 url: /learn/chemistry/questions/what-are-the-characteristics-of-a-solid-that-differentiate-it-from-other-states-of-matter
 score: -1.0
 related_article1:
-    id: 162046
-    title: What is a precipitation reaction and how can you identify it?
+    id: 162031
+    title: >-
+        What are the characteristics of a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
 related_article2:
-    id: 162054
-    title: How can you identify a chemical change through the formation of new substances?
+    id: 162031
+    title: >-
+        What are the characteristics of a precipitation reaction?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-can-you-identify-a-chemical-change-through-the-formation-of-new-substances
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction
 related_article3:
-    id: 162046
-    title: What is a precipitation reaction and how can you identify it?
+    id: 162041
+    title: >-
+        What is the significance of state changes in physical properties?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-a-precipitation-reaction-and-how-can-you-identify-it
+    url: /learn/chemistry/questions/what-is-the-significance-of-state-changes-in-physical-properties
 related_article4:
-    id: 162015
-    title: What are the key differences between the physical states of matter: solid, liquid, and gas?
+    id: 162055
+    title: >-
+        What are the characteristics of a precipitation reaction involving silver and chloride ions?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-key-differences-between-the-physical-states-of-matter-solid-liquid-and-gas
+    url: /learn/chemistry/questions/what-are-the-characteristics-of-a-precipitation-reaction-involving-silver-and-chloride-ions
 related_article5:
-    id: 162048
-    title: What are the indicators of a chemical change when iron reacts with oxygen to form rust?
+    id: 161982
+    title: >-
+        What are the effects of ionization on the state of matter?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-are-the-indicators-of-a-chemical-change-when-iron-reacts-with-oxygen-to-form-rust
+    url: /learn/chemistry/questions/what-are-the-effects-of-ionization-on-the-state-of-matter
 ---
 
 &nbsp;

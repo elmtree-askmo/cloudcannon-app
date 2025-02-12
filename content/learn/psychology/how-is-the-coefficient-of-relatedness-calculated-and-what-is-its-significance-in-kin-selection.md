@@ -2,8 +2,10 @@
 _schema: default
 id: 170912
 date: 2025-02-07
-title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
-article_title: How is the coefficient of relatedness calculated and what is its significance in kin selection?
+title: >-
+    How is the coefficient of relatedness calculated and what is its significance in kin selection?
+article_title: >-
+    How is the coefficient of relatedness calculated and what is its significance in kin selection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-sign
 url: /learn/psychology/questions/how-is-the-coefficient-of-relatedness-calculated-and-what-is-its-significance-in-kin-selection
 score: -1.0
 related_article1:
-    id: 170914
-    title: Describe the mechanism of kin selection and provide an example from nature.
+    id: 170913
+    title: >-
+        What is altruism in animals and how can it be explained through Hamilton's Rule?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-mechanism-of-kin-selection-and-provide-an-example-from-nature
+    url: /learn/psychology/questions/what-is-altruism-in-animals-and-how-can-it-be-explained-through-hamiltons-rule
 related_article2:
-    id: 170918
-    title: What are the sources of genetic variation and how do they contribute to adaptation?
+    id: 170910
+    title: >-
+        How does natural selection influence behavioral traits in animals?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-sources-of-genetic-variation-and-how-do-they-contribute-to-adaptation
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
 related_article3:
-    id: 170923
-    title: Differentiate between innate and learned behaviors in animals.
+    id: 170910
+    title: >-
+        How does natural selection influence behavioral traits in animals?
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+    url: /learn/psychology/questions/how-does-natural-selection-influence-behavioral-traits-in-animals
 related_article4:
-    id: 170923
-    title: Differentiate between innate and learned behaviors in animals.
+    id: 170924
+    title: >-
+        How do genetic sharing and sibling relationships influence behavior among full and half siblings?
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-innate-and-learned-behaviors-in-animals
+    url: /learn/psychology/questions/how-do-genetic-sharing-and-sibling-relationships-influence-behavior-among-full-and-half-siblings
 related_article5:
-    id: 170919
-    title: Discuss the benefits of cooperative behavior in populations and its evolutionary strategies.
+    id: 170921
+    title: >-
+        How do genetic relationships impact gene flow and genetic drift in populations?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-benefits-of-cooperative-behavior-in-populations-and-its-evolutionary-strategies
+    url: /learn/psychology/questions/how-do-genetic-relationships-impact-gene-flow-and-genetic-drift-in-populations
 ---
 
 &nbsp;

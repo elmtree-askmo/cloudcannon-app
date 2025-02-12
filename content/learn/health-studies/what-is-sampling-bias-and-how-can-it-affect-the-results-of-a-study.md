@@ -2,8 +2,10 @@
 _schema: default
 id: 163257
 date: 2025-01-26
-title: What is sampling bias and how can it affect the results of a study?
-article_title: What is sampling bias and how can it affect the results of a study?
+title: >-
+    What is sampling bias and how can it affect the results of a study?
+article_title: >-
+    What is sampling bias and how can it affect the results of a study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-sampling-bias-and-how-can-it-affect-the-results-of-a-study.md
 url: /learn/health-studies/questions/what-is-sampling-bias-and-how-can-it-affect-the-results-of-a-study
 score: -1.0
 related_article1:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
+    id: 163247
+    title: >-
+        How can researchers minimize the role of chance in their studies?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
+    url: /learn/health-studies/questions/how-can-researchers-minimize-the-role-of-chance-in-their-studies
 related_article2:
-    id: 163263
-    title: How can pre-appraised summaries assist healthcare professionals in making clinical decisions?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-can-preappraised-summaries-assist-healthcare-professionals-in-making-clinical-decisions
-related_article3:
-    id: 163256
-    title: Why is a representative sample important in epidemiological studies?
-    subject: Health Studies
-    url: /learn/health-studies/questions/why-is-a-representative-sample-important-in-epidemiological-studies
-related_article4:
     id: 163261
-    title: What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
+    title: >-
+        What tools and techniques are used in the critical appraisal of systematic reviews and meta-analyses?
     subject: Health Studies
     url: /learn/health-studies/questions/what-tools-and-techniques-are-used-in-the-critical-appraisal-of-systematic-reviews-and-metaanalyses
-related_article5:
-    id: 163248
-    title: What are the main types of bias that can affect a study's results?
+related_article3:
+    id: 163262
+    title: >-
+        What are point of care tools and how are they used in clinical settings?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-are-the-main-types-of-bias-that-can-affect-a-studys-results
+    url: /learn/health-studies/questions/what-are-point-of-care-tools-and-how-are-they-used-in-clinical-settings
+related_article4:
+    id: 163260
+    title: >-
+        Why is critical appraisal important in research, and how does it impact the evidence hierarchy?
+    subject: Health Studies
+    url: /learn/health-studies/questions/why-is-critical-appraisal-important-in-research-and-how-does-it-impact-the-evidence-hierarchy
+related_article5:
+    id: 163253
+    title: >-
+        What are the components of a Directed Acyclic Graph (DAG) and their significance?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-components-of-a-directed-acyclic-graph-dag-and-their-significance
 ---
 
 &nbsp;

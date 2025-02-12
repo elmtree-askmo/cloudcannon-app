@@ -2,8 +2,10 @@
 _schema: default
 id: 170457
 date: 2025-02-06
-title: What are the types of stroke, and how can they be prevented and managed?
-article_title: What are the types of stroke, and how can they be prevented and managed?
+title: >-
+    What are the types of stroke, and how can they be prevented and managed?
+article_title: >-
+    What are the types of stroke, and how can they be prevented and managed?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-manage
 url: /learn/nursing/questions/what-are-the-types-of-stroke-and-how-can-they-be-prevented-and-managed
 score: -1.0
 related_article1:
+    id: 170442
+    title: >-
+        What are the primary causes and consequences of a stroke?
+    subject: Nursing
+    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+related_article2:
     id: 170441
-    title: How are genetic factors associated with psychiatric conditions like schizophrenia?
+    title: >-
+        How are genetic factors associated with psychiatric conditions like schizophrenia?
     subject: Nursing
     url: /learn/nursing/questions/how-are-genetic-factors-associated-with-psychiatric-conditions-like-schizophrenia
-related_article2:
-    id: 170458
-    title: How does neuroplasticity contribute to learning and memory?
-    subject: Nursing
-    url: /learn/nursing/questions/how-does-neuroplasticity-contribute-to-learning-and-memory
 related_article3:
-    id: 170450
-    title: What is the role of dendrites and axons in signal transmission within a neuron?
+    id: 170459
+    title: >-
+        What mechanisms underlie synaptic plasticity in the brain?
     subject: Nursing
-    url: /learn/nursing/questions/what-is-the-role-of-dendrites-and-axons-in-signal-transmission-within-a-neuron
+    url: /learn/nursing/questions/what-mechanisms-underlie-synaptic-plasticity-in-the-brain
 related_article4:
-    id: 170442
-    title: What are the primary causes and consequences of a stroke?
+    id: 170449
+    title: >-
+        How does epidural anesthesia differ from a spinal block in terms of procedure and effects?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+    url: /learn/nursing/questions/how-does-epidural-anesthesia-differ-from-a-spinal-block-in-terms-of-procedure-and-effects
 related_article5:
-    id: 170442
-    title: What are the primary causes and consequences of a stroke?
+    id: 170444
+    title: >-
+        What are the potential genetic and viral components associated with schizophrenia?
     subject: Nursing
-    url: /learn/nursing/questions/what-are-the-primary-causes-and-consequences-of-a-stroke
+    url: /learn/nursing/questions/what-are-the-potential-genetic-and-viral-components-associated-with-schizophrenia
 ---
 
 &nbsp;

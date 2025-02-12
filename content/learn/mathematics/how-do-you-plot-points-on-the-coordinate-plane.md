@@ -2,8 +2,10 @@
 _schema: default
 id: 168412
 date: 2025-02-03
-title: How do you plot points on the coordinate plane?
-article_title: How do you plot points on the coordinate plane?
+title: >-
+    How do you plot points on the coordinate plane?
+article_title: >-
+    How do you plot points on the coordinate plane?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-do-you-plot-points-on-the-coordinate-plane.md
 url: /learn/mathematics/questions/how-do-you-plot-points-on-the-coordinate-plane
 score: -1.0
 related_article1:
-    id: 168420
-    title: How can you identify transformations by analyzing function graphs?
+    id: 168397
+    title: >-
+        What are the different types of transformations that can be applied to functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-can-you-identify-transformations-by-analyzing-function-graphs
+    url: /learn/mathematics/questions/what-are-the-different-types-of-transformations-that-can-be-applied-to-functions
 related_article2:
-    id: 168417
-    title: What are the mathematical properties of reflections that result in opposite y-values?
+    id: 168402
+    title: >-
+        How do you mathematically represent a vertical reflection of a function?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-mathematical-properties-of-reflections-that-result-in-opposite-yvalues
+    url: /learn/mathematics/questions/how-do-you-mathematically-represent-a-vertical-reflection-of-a-function
 related_article3:
-    id: 168413
-    title: What is the standard form of a quadratic function, and how is it graphically represented?
+    id: 168409
+    title: >-
+        How do you plot a quadratic function on the coordinate plane?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+    url: /learn/mathematics/questions/how-do-you-plot-a-quadratic-function-on-the-coordinate-plane
 related_article4:
-    id: 168416
-    title: What are the specific rules for reflecting a function over the x-axis?
+    id: 168406
+    title: >-
+        What is the role of input-output tables in evaluating function models?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-specific-rules-for-reflecting-a-function-over-the-xaxis
-related_article5:
-    id: 168413
-    title: What is the standard form of a quadratic function, and how is it graphically represented?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-standard-form-of-a-quadratic-function-and-how-is-it-graphically-represented
+    url: /learn/mathematics/questions/what-is-the-role-of-inputoutput-tables-in-evaluating-function-models
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165823
 date: 2025-01-29
-title: How does zoonosis affect epidemiology?
-article_title: How does zoonosis affect epidemiology?
+title: >-
+    How does zoonosis affect epidemiology?
+article_title: >-
+    How does zoonosis affect epidemiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/biology/questions/how-does-zoonosis-affect-epidemiology
 score: -1.0
 related_article1:
     id: 165811
-    title: What is the importance of DNA sequences in molecular taxonomy?
+    title: >-
+        What is the importance of DNA sequences in molecular taxonomy?
     subject: Biology
     url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
 related_article2:
-    id: 165811
-    title: What is the importance of DNA sequences in molecular taxonomy?
-    subject: Biology
-    url: /learn/biology/questions/what-is-the-importance-of-dna-sequences-in-molecular-taxonomy
-related_article3:
     id: 165814
-    title: What are the main methods of disease transmission in parasite ecology?
+    title: >-
+        What are the main methods of disease transmission in parasite ecology?
     subject: Biology
     url: /learn/biology/questions/what-are-the-main-methods-of-disease-transmission-in-parasite-ecology
+related_article3:
+    id: 165818
+    title: >-
+        Differentiate between endoparasites and ectoparasites.
+    subject: Biology
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
 related_article4:
-    id: 165816
-    title: What are the defense mechanisms employed by hosts against pathogens?
+    id: 165804
+    title: >-
+        What is the significance of biological diversity in systematics and taxonomy?
     subject: Biology
-    url: /learn/biology/questions/what-are-the-defense-mechanisms-employed-by-hosts-against-pathogens
+    url: /learn/biology/questions/what-is-the-significance-of-biological-diversity-in-systematics-and-taxonomy
 related_article5:
-    id: 165808
-    title: Provide an example of taxonomic classification for a specific organism.
+    id: 165818
+    title: >-
+        Differentiate between endoparasites and ectoparasites.
     subject: Biology
-    url: /learn/biology/questions/provide-an-example-of-taxonomic-classification-for-a-specific-organism
+    url: /learn/biology/questions/differentiate-between-endoparasites-and-ectoparasites
 ---
 
 &nbsp;

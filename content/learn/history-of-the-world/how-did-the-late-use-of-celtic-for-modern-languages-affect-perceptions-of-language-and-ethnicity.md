@@ -2,8 +2,10 @@
 _schema: default
 id: 159729
 date: 2025-01-23
-title: How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
-article_title: How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+title: >-
+    How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
+article_title: >-
+    How did the late use of 'Celtic' for modern languages affect perceptions of language and ethnicity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-the-late-use-of-celtic-for-modern-languages-affect-perception
 url: /learn/history-of-the-world/questions/how-did-the-late-use-of-celtic-for-modern-languages-affect-perceptions-of-language-and-ethnicity
 score: 9.0
 related_article1:
-    id: 159728
-    title: What role did the comparative method in linguistics play in understanding the evolution of Celtic languages?
+    id: 159688
+    title: >-
+        What are the key characteristics of the Hallstatt culture in Celtic material culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-role-did-the-comparative-method-in-linguistics-play-in-understanding-the-evolution-of-celtic-languages
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-the-hallstatt-culture-in-celtic-material-culture
 related_article2:
-    id: 159732
-    title: What is the significance of the Beaker and Corded Ware cultures in the chronology of the Celts?
+    id: 159694
+    title: >-
+        What are the defining features of La Tène art and how did it influence Celtic art?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-is-the-significance-of-the-beaker-and-corded-ware-cultures-in-the-chronology-of-the-celts
+    url: /learn/history-of-the-world/questions/what-are-the-defining-features-of-la-tne-art-and-how-did-it-influence-celtic-art
 related_article3:
-    id: 159727
-    title: How did Druidic practices influence Celtic religions and beliefs?
+    id: 159688
+    title: >-
+        What are the key characteristics of the Hallstatt culture in Celtic material culture?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-druidic-practices-influence-celtic-religions-and-beliefs
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-the-hallstatt-culture-in-celtic-material-culture
 related_article4:
-    id: 159693
-    title: How did trade with Mediterranean civilizations impact the Celtic economy?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-trade-with-mediterranean-civilizations-impact-the-celtic-economy
-related_article5:
     id: 159728
-    title: What role did the comparative method in linguistics play in understanding the evolution of Celtic languages?
+    title: >-
+        What role did the comparative method in linguistics play in understanding the evolution of Celtic languages?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-the-comparative-method-in-linguistics-play-in-understanding-the-evolution-of-celtic-languages
+related_article5:
+    id: 159730
+    title: >-
+        What are the key characteristics of the Hallstatt culture in Celtic material culture?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-are-the-key-characteristics-of-the-hallstatt-culture-in-celtic-material-culture
 ---
 
 &nbsp;

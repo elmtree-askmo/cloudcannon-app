@@ -2,8 +2,10 @@
 _schema: default
 id: 162523
 date: 2025-01-25
-title: How does the position and orientation of a figure change after a reflection?
-article_title: How does the position and orientation of a figure change after a reflection?
+title: >-
+    How does the position and orientation of a figure change after a reflection?
+article_title: >-
+    How does the position and orientation of a figure change after a reflection?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-the-position-and-orientation-of-a-figure-change-after-a-refl
 url: /learn/mathematics/questions/how-does-the-position-and-orientation-of-a-figure-change-after-a-reflection
 score: -1.0
 related_article1:
-    id: 162509
-    title: How do reflections preserve congruence between figures?
+    id: 162800
+    title: >-
+        What does rigid motion mean in the context of reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-do-reflections-preserve-congruence-between-figures
+    url: /learn/mathematics/questions/what-does-rigid-motion-mean-in-the-context-of-reflections
 related_article2:
-    id: 162749
-    title: What role does symmetry play in geometric figures?
+    id: 162397
+    title: >-
+        Why do reflections maintain the size and shape of figures?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-role-does-symmetry-play-in-geometric-figures
+    url: /learn/mathematics/questions/why-do-reflections-maintain-the-size-and-shape-of-figures
 related_article3:
-    id: 162687
-    title: What is vertical symmetry in the context of reflections?
+    id: 162806
+    title: >-
+        What is vertical symmetry in the context of reflections?
     subject: Mathematics
     url: /learn/mathematics/questions/what-is-vertical-symmetry-in-the-context-of-reflections
 related_article4:
-    id: 162760
-    title: How does the line of reflection act as a mirror in geometric transformations?
+    id: 162406
+    title: >-
+        What is the mirror image concept in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-does-the-line-of-reflection-act-as-a-mirror-in-geometric-transformations
+    url: /learn/mathematics/questions/what-is-the-mirror-image-concept-in-reflections
 related_article5:
-    id: 162767
-    title: How are reflections used in geometric proofs?
+    id: 162705
+    title: >-
+        Why is distance preservation important in reflections?
     subject: Mathematics
-    url: /learn/mathematics/questions/how-are-reflections-used-in-geometric-proofs
+    url: /learn/mathematics/questions/why-is-distance-preservation-important-in-reflections
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165390
 date: 2025-01-29
-title: What techniques can be employed to recognize and address the motivations of others?
-article_title: What techniques can be employed to recognize and address the motivations of others?
+title: >-
+    What techniques can be employed to recognize and address the motivations of others?
+article_title: >-
+    What techniques can be employed to recognize and address the motivations of others?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-techniques-can-be-employed-to-recognize-and-address-the-motivati
 url: /learn/psychology/questions/what-techniques-can-be-employed-to-recognize-and-address-the-motivations-of-others
 score: -1.0
 related_article1:
+    id: 165389
+    title: >-
+        How can pauses be used effectively to build anticipation and enhance speech clarity?
+    subject: Psychology
+    url: /learn/psychology/questions/how-can-pauses-be-used-effectively-to-build-anticipation-and-enhance-speech-clarity
+related_article2:
     id: 165385
-    title: How can strategic use of eye contact balance confidence and intimidation?
+    title: >-
+        How can strategic use of eye contact balance confidence and intimidation?
     subject: Psychology
     url: /learn/psychology/questions/how-can-strategic-use-of-eye-contact-balance-confidence-and-intimidation
-related_article2:
-    id: 165387
-    title: How can gestures be matched to audience size to enhance communication?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-gestures-be-matched-to-audience-size-to-enhance-communication
 related_article3:
-    id: 165391
-    title: How can celebrating small wins contribute to developing self-respect and confidence?
-    subject: Psychology
-    url: /learn/psychology/questions/how-can-celebrating-small-wins-contribute-to-developing-selfrespect-and-confidence
-related_article4:
     id: 165387
-    title: How can gestures be matched to audience size to enhance communication?
+    title: >-
+        How can gestures be matched to audience size to enhance communication?
     subject: Psychology
     url: /learn/psychology/questions/how-can-gestures-be-matched-to-audience-size-to-enhance-communication
-related_article5:
-    id: 165384
-    title: What are some deliberate movements that can help project calm and confidence?
+related_article4:
+    id: 165386
+    title: >-
+        What techniques can be used to maintain composure in stressful situations?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-deliberate-movements-that-can-help-project-calm-and-confidence
+    url: /learn/psychology/questions/what-techniques-can-be-used-to-maintain-composure-in-stressful-situations
+related_article5:
+    id: 165386
+    title: >-
+        What techniques can be used to maintain composure in stressful situations?
+    subject: Psychology
+    url: /learn/psychology/questions/what-techniques-can-be-used-to-maintain-composure-in-stressful-situations
 ---
 
 &nbsp;

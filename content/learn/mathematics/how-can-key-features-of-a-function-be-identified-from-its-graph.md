@@ -2,8 +2,10 @@
 _schema: default
 id: 163823
 date: 2025-01-27
-title: How can key features of a function be identified from its graph?
-article_title: How can key features of a function be identified from its graph?
+title: >-
+    How can key features of a function be identified from its graph?
+article_title: >-
+    How can key features of a function be identified from its graph?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-can-key-features-of-a-function-be-identified-from-its-graph.md
 url: /learn/mathematics/questions/how-can-key-features-of-a-function-be-identified-from-its-graph
 score: -1.0
 related_article1:
-    id: 163811
-    title: What are the different types of slopes a function can have?
+    id: 163820
+    title: >-
+        How can the average rate of change be interpreted for cube root functions over different intervals?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-are-the-different-types-of-slopes-a-function-can-have
+    url: /learn/mathematics/questions/how-can-the-average-rate-of-change-be-interpreted-for-cube-root-functions-over-different-intervals
 related_article2:
     id: 163826
-    title: How do function intervals impact the calculation of the rate of change?
+    title: >-
+        How do function intervals impact the calculation of the rate of change?
     subject: Mathematics
     url: /learn/mathematics/questions/how-do-function-intervals-impact-the-calculation-of-the-rate-of-change
 related_article3:
-    id: 163824
-    title: Why is accurate rate of change calculation important in mathematical modeling?
+    id: 163821
+    title: >-
+        Why is interval selection important when applying the rate of change formula to non-linear functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/why-is-accurate-rate-of-change-calculation-important-in-mathematical-modeling
+    url: /learn/mathematics/questions/why-is-interval-selection-important-when-applying-the-rate-of-change-formula-to-nonlinear-functions
 related_article4:
-    id: 163822
-    title: What implications do positive and negative rates of change have for function behavior?
+    id: 163817
+    title: >-
+        What is the asymptotic behavior of exponential functions?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-implications-do-positive-and-negative-rates-of-change-have-for-function-behavior
+    url: /learn/mathematics/questions/what-is-the-asymptotic-behavior-of-exponential-functions
 related_article5:
-    id: 163807
-    title: What is the formula for calculating the average rate of change of a function?
+    id: 163825
+    title: >-
+        What are the implications of different types of slopes on function behavior?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formula-for-calculating-the-average-rate-of-change-of-a-function
+    url: /learn/mathematics/questions/what-are-the-implications-of-different-types-of-slopes-on-function-behavior
 ---
 
 &nbsp;

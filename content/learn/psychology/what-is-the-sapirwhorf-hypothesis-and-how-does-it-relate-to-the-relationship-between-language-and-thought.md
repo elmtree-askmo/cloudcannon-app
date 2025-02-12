@@ -2,8 +2,10 @@
 _schema: default
 id: 164613
 date: 2025-01-28
-title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
-article_title: What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+title: >-
+    What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
+article_title: >-
+    What is the Sapir-Whorf Hypothesis and how does it relate to the relationship between language and thought?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relat
 url: /learn/psychology/questions/what-is-the-sapirwhorf-hypothesis-and-how-does-it-relate-to-the-relationship-between-language-and-thought
 score: -1.0
 related_article1:
-    id: 164614
-    title: How does cognitive linguistics view language as a cognitive tool?
+    id: 164606
+    title: >-
+        How does visual word recognition differ between the left and right visual fields?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-cognitive-linguistics-view-language-as-a-cognitive-tool
+    url: /learn/psychology/questions/how-does-visual-word-recognition-differ-between-the-left-and-right-visual-fields
 related_article2:
-    id: 164610
-    title: How do language proficiency tests contribute to cognitive assessments?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
-related_article3:
     id: 164612
-    title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
+    title: >-
+        How does bilingualism affect cognitive processes according to cognitive neuroscience?
     subject: Psychology
     url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
+related_article3:
+    id: 164610
+    title: >-
+        How do language proficiency tests contribute to cognitive assessments?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-language-proficiency-tests-contribute-to-cognitive-assessments
 related_article4:
     id: 164603
-    title: What roles do Broca's Area and Wernicke's Area play in language processing?
+    title: >-
+        What roles do Broca's Area and Wernicke's Area play in language processing?
     subject: Psychology
     url: /learn/psychology/questions/what-roles-do-brocas-area-and-wernickes-area-play-in-language-processing
 related_article5:
     id: 164612
-    title: How does bilingualism affect cognitive processes according to cognitive neuroscience?
+    title: >-
+        How does bilingualism affect cognitive processes according to cognitive neuroscience?
     subject: Psychology
     url: /learn/psychology/questions/how-does-bilingualism-affect-cognitive-processes-according-to-cognitive-neuroscience
 ---

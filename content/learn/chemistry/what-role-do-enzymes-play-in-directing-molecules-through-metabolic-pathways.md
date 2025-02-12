@@ -2,8 +2,10 @@
 _schema: default
 id: 170820
 date: 2025-02-07
-title: What role do enzymes play in directing molecules through metabolic pathways?
-article_title: What role do enzymes play in directing molecules through metabolic pathways?
+title: >-
+    What role do enzymes play in directing molecules through metabolic pathways?
+article_title: >-
+    What role do enzymes play in directing molecules through metabolic pathways?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pa
 url: /learn/chemistry/questions/what-role-do-enzymes-play-in-directing-molecules-through-metabolic-pathways
 score: -1.0
 related_article1:
-    id: 170819
-    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
+    id: 170815
+    title: >-
+        How do enzymes lower activation energy in chemical reactions?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+    url: /learn/chemistry/questions/how-do-enzymes-lower-activation-energy-in-chemical-reactions
 related_article2:
-    id: 170812
-    title: What is the significance of partial charges in polar molecules?
+    id: 170821
+    title: >-
+        What are the key steps in glycolysis that lead to energy release from glucose?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-significance-of-partial-charges-in-polar-molecules
+    url: /learn/chemistry/questions/what-are-the-key-steps-in-glycolysis-that-lead-to-energy-release-from-glucose
 related_article3:
-    id: 170814
-    title: What is the role of the enzyme-substrate complex in enzyme specificity?
+    id: 170821
+    title: >-
+        What are the key steps in glycolysis that lead to energy release from glucose?
     subject: Chemistry
-    url: /learn/chemistry/questions/what-is-the-role-of-the-enzymesubstrate-complex-in-enzyme-specificity
+    url: /learn/chemistry/questions/what-are-the-key-steps-in-glycolysis-that-lead-to-energy-release-from-glucose
 related_article4:
-    id: 170813
-    title: How does the electron density in methane indicate its reduced form?
+    id: 170821
+    title: >-
+        What are the key steps in glycolysis that lead to energy release from glucose?
     subject: Chemistry
-    url: /learn/chemistry/questions/how-does-the-electron-density-in-methane-indicate-its-reduced-form
-related_article5:
-    id: 170819
-    title: How does a negative Delta G indicate thermodynamic favorability in a reaction?
-    subject: Chemistry
-    url: /learn/chemistry/questions/how-does-a-negative-delta-g-indicate-thermodynamic-favorability-in-a-reaction
+    url: /learn/chemistry/questions/what-are-the-key-steps-in-glycolysis-that-lead-to-energy-release-from-glucose
 ---
 
 &nbsp;

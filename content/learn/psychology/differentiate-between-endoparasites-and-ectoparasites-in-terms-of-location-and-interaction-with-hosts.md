@@ -2,8 +2,10 @@
 _schema: default
 id: 165848
 date: 2025-01-29
-title: Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
-article_title: Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+title: >-
+    Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
+article_title: >-
+    Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: differentiate-between-endoparasites-and-ectoparasites-in-terms-of-loc
 url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 score: -1.0
 related_article1:
-    id: 165843
-    title: What are the ecological consequences of habitat disruption caused by parasites?
+    id: 165833
+    title: >-
+        How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
+    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
 related_article2:
-    id: 165842
-    title: Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    id: 165852
+    title: >-
+        What challenges do global health initiatives face in the eradication of tropical diseases?
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+    url: /learn/psychology/questions/what-challenges-do-global-health-initiatives-face-in-the-eradication-of-tropical-diseases
 related_article3:
-    id: 165849
-    title: What are parasitoids and how do they differ from other parasitic insects?
+    id: 165832
+    title: >-
+        Describe the Linnaean classification system and its significance in descriptive parasitology.
     subject: Psychology
-    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
+    url: /learn/psychology/questions/describe-the-linnaean-classification-system-and-its-significance-in-descriptive-parasitology
 related_article4:
-    id: 165836
-    title: Identify common vectors of disease and explain their role in disease transmission.
+    id: 165829
+    title: >-
+        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
     subject: Psychology
-    url: /learn/psychology/questions/identify-common-vectors-of-disease-and-explain-their-role-in-disease-transmission
+    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
 related_article5:
-    id: 165855
-    title: What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
+    id: 165845
+    title: >-
+        What modern technological advancements are being applied in parasitology research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
+    url: /learn/psychology/questions/what-modern-technological-advancements-are-being-applied-in-parasitology-research
 ---
 
 &nbsp;

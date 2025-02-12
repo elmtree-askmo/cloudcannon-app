@@ -2,8 +2,10 @@
 _schema: default
 id: 167324
 date: 2025-01-31
-title: What are the three main components of a nucleotide?
-article_title: What are the three main components of a nucleotide?
+title: >-
+    What are the three main components of a nucleotide?
+article_title: >-
+    What are the three main components of a nucleotide?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-three-main-components-of-a-nucleotide.md
 url: /learn/biology/questions/what-are-the-three-main-components-of-a-nucleotide
 score: -1.0
 related_article1:
-    id: 167334
-    title: Describe the composition and function of triglycerides in energy storage.
+    id: 167329
+    title: >-
+        Explain the concept of complementary base pairing and its importance in DNA stability.
     subject: Biology
-    url: /learn/biology/questions/describe-the-composition-and-function-of-triglycerides-in-energy-storage
+    url: /learn/biology/questions/explain-the-concept-of-complementary-base-pairing-and-its-importance-in-dna-stability
 related_article2:
-    id: 167326
-    title: What is the significance of the 5' to 3' directionality in nucleic acids?
+    id: 167339
+    title: >-
+        What is the primary biological function of nucleic acids?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-significance-of-the-5-to-3-directionality-in-nucleic-acids
+    url: /learn/biology/questions/what-is-the-primary-biological-function-of-nucleic-acids
 related_article3:
+    id: 167330
+    title: >-
+        What are the key differences between the sugar components of DNA and RNA?
+    subject: Biology
+    url: /learn/biology/questions/what-are-the-key-differences-between-the-sugar-components-of-dna-and-rna
+related_article4:
     id: 167340
-    title: How do lipids contribute to membrane structure and function?
+    title: >-
+        How do lipids contribute to membrane structure and function?
     subject: Biology
     url: /learn/biology/questions/how-do-lipids-contribute-to-membrane-structure-and-function
-related_article4:
-    id: 167327
-    title: Describe the primary structure of DNA and RNA and explain how they differ.
-    subject: Biology
-    url: /learn/biology/questions/describe-the-primary-structure-of-dna-and-rna-and-explain-how-they-differ
 related_article5:
-    id: 167336
-    title: Explain the amphipathic nature of phospholipids and its significance.
+    id: 167331
+    title: >-
+        How do the nitrogenous bases differ between DNA and RNA?
     subject: Biology
-    url: /learn/biology/questions/explain-the-amphipathic-nature-of-phospholipids-and-its-significance
+    url: /learn/biology/questions/how-do-the-nitrogenous-bases-differ-between-dna-and-rna
 ---
 
 &nbsp;

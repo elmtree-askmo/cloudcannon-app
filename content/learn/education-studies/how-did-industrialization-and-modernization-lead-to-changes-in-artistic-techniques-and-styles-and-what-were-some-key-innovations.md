@@ -2,8 +2,10 @@
 _schema: default
 id: 159767
 date: 2025-01-23
-title: How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
-article_title: How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
+title: >-
+    How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
+article_title: >-
+    How did industrialization and modernization lead to changes in artistic techniques and styles, and what were some key innovations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,25 +24,35 @@ file_name: how-did-industrialization-and-modernization-lead-to-changes-in-artist
 url: /learn/education-studies/questions/how-did-industrialization-and-modernization-lead-to-changes-in-artistic-techniques-and-styles-and-what-were-some-key-innovations
 score: -1.0
 related_article1:
-    id: 159762
-    title: What were the significant changes in the curriculum and focus of art academies, and how did these changes impact artistic development?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-were-the-significant-changes-in-the-curriculum-and-focus-of-art-academies-and-how-did-these-changes-impact-artistic-development
-related_article2:
-    id: 159766
-    title: Explain the formation and purpose of the Salon of the Refused and the Salon of Independents, and their influence on modern art.
-    subject: Education Studies
-    url: /learn/education-studies/questions/explain-the-formation-and-purpose-of-the-salon-of-the-refused-and-the-salon-of-independents-and-their-influence-on-modern-art
-related_article3:
     id: 159788
-    title: In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
     subject: Education Studies
     url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
-related_article4:
-    id: 159799
-    title: How did art criticism evolve in the 19th century, and what role did it play in shaping public perception?
+related_article2:
+    id: 159789
+    title: >-
+        Define avant-garde movements and discuss their key figures and works, as well as their impact on the art world.
     subject: Education Studies
-    url: /learn/education-studies/questions/how-did-art-criticism-evolve-in-the-19th-century-and-what-role-did-it-play-in-shaping-public-perception
+    url: /learn/education-studies/questions/define-avantgarde-movements-and-discuss-their-key-figures-and-works-as-well-as-their-impact-on-the-art-world
+related_article3:
+    id: 159763
+    title: >-
+        Describe the characteristics of Orientalism in art and its influence on Western art, including key artists and works.
+    subject: Education Studies
+    url: /learn/education-studies/questions/describe-the-characteristics-of-orientalism-in-art-and-its-influence-on-western-art-including-key-artists-and-works
+related_article4:
+    id: 159759
+    title: >-
+        In what ways did industrialization, modernization, and urbanization challenge traditional art and lead to the emergence of new artistic practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/in-what-ways-did-industrialization-modernization-and-urbanization-challenge-traditional-art-and-lead-to-the-emergence-of-new-artistic-practices
+related_article5:
+    id: 159787
+    title: >-
+        How did the characteristics of academic art resist modernization, and what impact did this have on artistic practices?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-characteristics-of-academic-art-resist-modernization-and-what-impact-did-this-have-on-artistic-practices
 ---
 
 &nbsp;

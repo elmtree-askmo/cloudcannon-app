@@ -2,8 +2,10 @@
 _schema: default
 id: 165844
 date: 2025-01-29
-title: How have historical research models using nematodes contributed to the field of parasitology?
-article_title: How have historical research models using nematodes contributed to the field of parasitology?
+title: >-
+    How have historical research models using nematodes contributed to the field of parasitology?
+article_title: >-
+    How have historical research models using nematodes contributed to the field of parasitology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: how-have-historical-research-models-using-nematodes-contributed-to-th
 url: /learn/psychology/questions/how-have-historical-research-models-using-nematodes-contributed-to-the-field-of-parasitology
 score: -1.0
 related_article1:
-    id: 165835
-    title: Differentiate between definitive and intermediate hosts in the life cycles of parasites.
+    id: 165850
+    title: >-
+        How do genetic analysis and ecological niches contribute to understanding evolutionary relationships in phylogenetics?
     subject: Psychology
-    url: /learn/psychology/questions/differentiate-between-definitive-and-intermediate-hosts-in-the-life-cycles-of-parasites
+    url: /learn/psychology/questions/how-do-genetic-analysis-and-ecological-niches-contribute-to-understanding-evolutionary-relationships-in-phylogenetics
 related_article2:
-    id: 165856
-    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    id: 165847
+    title: >-
+        What are the key public health implications of parasitic diseases?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+    url: /learn/psychology/questions/what-are-the-key-public-health-implications-of-parasitic-diseases
 related_article3:
-    id: 165842
-    title: Discuss the impact of parasites on protein-energy malnutrition and iron deficiency.
+    id: 165848
+    title: >-
+        Differentiate between endoparasites and ectoparasites in terms of location and interaction with hosts.
     subject: Psychology
-    url: /learn/psychology/questions/discuss-the-impact-of-parasites-on-proteinenergy-malnutrition-and-iron-deficiency
+    url: /learn/psychology/questions/differentiate-between-endoparasites-and-ectoparasites-in-terms-of-location-and-interaction-with-hosts
 related_article4:
-    id: 165840
-    title: What are the clinical implications of identifying parasitic infections?
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-clinical-implications-of-identifying-parasitic-infections
-related_article5:
-    id: 165853
-    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
-    subject: Psychology
-    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 ---
 
 &nbsp;

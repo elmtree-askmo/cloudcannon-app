@@ -2,8 +2,10 @@
 _schema: default
 id: 164695
 date: 2025-01-28
-title: How is data analytics used in the interpretation of neuroscience research results?
-article_title: How is data analytics used in the interpretation of neuroscience research results?
+title: >-
+    How is data analytics used in the interpretation of neuroscience research results?
+article_title: >-
+    How is data analytics used in the interpretation of neuroscience research results?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-is-data-analytics-used-in-the-interpretation-of-neuroscience-rese
 url: /learn/psychology/questions/how-is-data-analytics-used-in-the-interpretation-of-neuroscience-research-results
 score: -1.0
 related_article1:
-    id: 164689
-    title: How is artificial intelligence applied in cognitive neuroscience research?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-artificial-intelligence-applied-in-cognitive-neuroscience-research
-related_article2:
-    id: 164690
-    title: What were some key discoveries in the historical development of neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-were-some-key-discoveries-in-the-historical-development-of-neuroscience
-related_article3:
     id: 164691
-    title: What are the common types of brain injuries and their rehabilitation techniques?
+    title: >-
+        What are the common types of brain injuries and their rehabilitation techniques?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-common-types-of-brain-injuries-and-their-rehabilitation-techniques
+related_article2:
+    id: 164692
+    title: >-
+        How are cognitive disorders diagnosed and treated?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-cognitive-disorders-diagnosed-and-treated
+related_article3:
+    id: 164671
+    title: >-
+        How do brain networks contribute to overall brain function?
+    subject: Psychology
+    url: /learn/psychology/questions/how-do-brain-networks-contribute-to-overall-brain-function
 related_article4:
-    id: 164674
-    title: What are the main cognitive functions studied in neuroscience?
+    id: 164684
+    title: >-
+        What are the key methods used in experimental design for neuroscience research?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-main-cognitive-functions-studied-in-neuroscience
+    url: /learn/psychology/questions/what-are-the-key-methods-used-in-experimental-design-for-neuroscience-research
 related_article5:
-    id: 164680
-    title: What are the effects of emotional disorders on cognition?
+    id: 164679
+    title: >-
+        How does emotion influence cognitive processes?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-effects-of-emotional-disorders-on-cognition
+    url: /learn/psychology/questions/how-does-emotion-influence-cognitive-processes
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 163993
 date: 2025-01-28
-title: What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
-article_title: What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
+title: >-
+    What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
+article_title: >-
+    What is the concept of the anti-monument, and how do contemporary artistic responses critique historical narratives?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-concept-of-the-antimonument-and-how-do-contemporary-artis
 url: /learn/history-of-the-world/questions/what-is-the-concept-of-the-antimonument-and-how-do-contemporary-artistic-responses-critique-historical-narratives
 score: 9.0
 related_article1:
-    id: 163979
-    title: How did the Great Exhibition of 1851 reflect Prince Albert's vision and international participation?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-of-1851-reflect-prince-alberts-vision-and-international-participation
-related_article2:
-    id: 163986
-    title: What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
-related_article3:
-    id: 163990
-    title: What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
-related_article4:
     id: 163981
-    title: How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
+    title: >-
+        How did urbanization during the Industrial Revolution contribute to socio-economic changes and class divides?
     subject: History of the World
     url: /learn/history-of-the-world/questions/how-did-urbanization-during-the-industrial-revolution-contribute-to-socioeconomic-changes-and-class-divides
-related_article5:
-    id: 163990
-    title: What was the significance of the Crystal Palace's architectural design, and how did it influence future architecture?
+related_article2:
+    id: 163987
+    title: >-
+        How did the Great Exhibition impact public exposure to new technologies and influence future exhibitions?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-crystal-palaces-architectural-design-and-how-did-it-influence-future-architecture
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-impact-public-exposure-to-new-technologies-and-influence-future-exhibitions
+related_article3:
+    id: 163992
+    title: >-
+        How did the Great Exhibition use visual rhetoric to represent otherness and create an ideological space?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-use-visual-rhetoric-to-represent-otherness-and-create-an-ideological-space
+related_article4:
+    id: 163986
+    title: >-
+        What were some of the key inventions displayed at the Great Exhibition, and how did they influence future technological innovations?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/what-were-some-of-the-key-inventions-displayed-at-the-great-exhibition-and-how-did-they-influence-future-technological-innovations
+related_article5:
+    id: 163988
+    title: >-
+        How did the Great Exhibition reflect British national pride and the civilizing power of the Empire?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-great-exhibition-reflect-british-national-pride-and-the-civilizing-power-of-the-empire
 ---
 
 &nbsp;

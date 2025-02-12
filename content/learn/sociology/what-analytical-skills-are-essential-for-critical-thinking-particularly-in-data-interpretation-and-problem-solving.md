@@ -2,8 +2,10 @@
 _schema: default
 id: 160093
 date: 2025-01-23
-title: What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
-article_title: What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
+title: >-
+    What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
+article_title: >-
+    What analytical skills are essential for critical thinking, particularly in data interpretation and problem solving?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-analytical-skills-are-essential-for-critical-thinking-particular
 url: /learn/sociology/questions/what-analytical-skills-are-essential-for-critical-thinking-particularly-in-data-interpretation-and-problem-solving
 score: -1.0
 related_article1:
-    id: 160626
-    title: How do borders and boundaries influence territoriality and state sovereignty?
+    id: 160227
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article2:
-    id: 160621
-    title: Explain the concept of global interdependence and its relation to time-space compression in globalization.
+    id: 160551
+    title: >-
+        How do urban planning and socio-economic changes affect spatial dynamics in urban transformations?
     subject: Sociology
-    url: /learn/sociology/questions/explain-the-concept-of-global-interdependence-and-its-relation-to-timespace-compression-in-globalization
+    url: /learn/sociology/questions/how-do-urban-planning-and-socioeconomic-changes-affect-spatial-dynamics-in-urban-transformations
 related_article3:
-    id: 160086
-    title: How has the COVID-19 pandemic influenced global political events, particularly in terms of vaccine nationalism?
+    id: 160558
+    title: >-
+        How do political geography and state control relate to borders and boundaries in territoriality?
     subject: Sociology
-    url: /learn/sociology/questions/how-has-the-covid19-pandemic-influenced-global-political-events-particularly-in-terms-of-vaccine-nationalism
+    url: /learn/sociology/questions/how-do-political-geography-and-state-control-relate-to-borders-and-boundaries-in-territoriality
 related_article4:
+    id: 160636
+    title: >-
+        Describe the methodologies used in qualitative and quantitative research for research skills.
+    subject: Sociology
+    url: /learn/sociology/questions/describe-the-methodologies-used-in-qualitative-and-quantitative-research-for-research-skills
+related_article5:
     id: 160215
-    title: How do borders and boundaries influence territoriality and state sovereignty?
+    title: >-
+        How do borders and boundaries influence territoriality and state sovereignty?
     subject: Sociology
     url: /learn/sociology/questions/how-do-borders-and-boundaries-influence-territoriality-and-state-sovereignty
-related_article5:
-    id: 160092
-    title: How do place and space contribute to regional analysis and regional attributes?
-    subject: Sociology
-    url: /learn/sociology/questions/how-do-place-and-space-contribute-to-regional-analysis-and-regional-attributes
 ---
 
 &nbsp;

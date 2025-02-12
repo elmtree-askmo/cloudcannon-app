@@ -2,8 +2,10 @@
 _schema: default
 id: 164493
 date: 2025-01-28
-title: What diagnostic techniques are used for memory disorders?
-article_title: What diagnostic techniques are used for memory disorders?
+title: >-
+    What diagnostic techniques are used for memory disorders?
+article_title: >-
+    What diagnostic techniques are used for memory disorders?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-diagnostic-techniques-are-used-for-memory-disorders.md
 url: /learn/psychology/questions/what-diagnostic-techniques-are-used-for-memory-disorders
 score: -1.0
 related_article1:
-    id: 164495
-    title: What are some effective techniques to improve memory retention?
+    id: 164481
+    title: >-
+        How did Patient HM contribute to our understanding of memory?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-some-effective-techniques-to-improve-memory-retention
+    url: /learn/psychology/questions/how-did-patient-hm-contribute-to-our-understanding-of-memory
 related_article2:
-    id: 164486
-    title: What are the stages of memory formation and their functions?
+    id: 164503
+    title: >-
+        What is the impact of memory loss on identity, and what coping mechanisms are available?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
+    url: /learn/psychology/questions/what-is-the-impact-of-memory-loss-on-identity-and-what-coping-mechanisms-are-available
 related_article3:
+    id: 164499
+    title: >-
+        How are learning processes related to memory consolidation?
+    subject: Psychology
+    url: /learn/psychology/questions/how-are-learning-processes-related-to-memory-consolidation
+related_article4:
     id: 164489
-    title: How does Alzheimer's disease affect consciousness?
+    title: >-
+        How does Alzheimer's disease affect consciousness?
     subject: Psychology
     url: /learn/psychology/questions/how-does-alzheimers-disease-affect-consciousness
-related_article4:
-    id: 164491
-    title: What is the role of acetylcholine in memory?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-role-of-acetylcholine-in-memory
 related_article5:
-    id: 164485
-    title: What are the key findings from studies on explicit memory?
+    id: 164486
+    title: >-
+        What are the stages of memory formation and their functions?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-findings-from-studies-on-explicit-memory
+    url: /learn/psychology/questions/what-are-the-stages-of-memory-formation-and-their-functions
 ---
 
 &nbsp;

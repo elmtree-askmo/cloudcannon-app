@@ -2,8 +2,10 @@
 _schema: default
 id: 166366
 date: 2025-01-30
-title: How do genetic influences affect animal behavior?
-article_title: How do genetic influences affect animal behavior?
+title: >-
+    How do genetic influences affect animal behavior?
+article_title: >-
+    How do genetic influences affect animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-genetic-influences-affect-animal-behavior.md
 url: /learn/biology/questions/how-do-genetic-influences-affect-animal-behavior
 score: -1.0
 related_article1:
+    id: 166355
+    title: >-
+        What are Darwin's postulates and how do they relate to natural selection?
+    subject: Biology
+    url: /learn/biology/questions/what-are-darwins-postulates-and-how-do-they-relate-to-natural-selection
+related_article2:
+    id: 166370
+    title: >-
+        How is fitness defined and measured in the context of natural selection?
+    subject: Biology
+    url: /learn/biology/questions/how-is-fitness-defined-and-measured-in-the-context-of-natural-selection
+related_article3:
+    id: 166362
+    title: >-
+        How does the environment influence adaptation?
+    subject: Biology
+    url: /learn/biology/questions/how-does-the-environment-influence-adaptation
+related_article4:
+    id: 166360
+    title: >-
+        What role do cross-fostering experiments play in the study of heritability?
+    subject: Biology
+    url: /learn/biology/questions/what-role-do-crossfostering-experiments-play-in-the-study-of-heritability
+related_article5:
     id: 166354
-    title: How do ultimate and proximate questions differ in the study of animal behavior?
+    title: >-
+        How do ultimate and proximate questions differ in the study of animal behavior?
     subject: Biology
     url: /learn/biology/questions/how-do-ultimate-and-proximate-questions-differ-in-the-study-of-animal-behavior
-related_article2:
-    id: 166371
-    title: What are the sources of genetic variation and why are they important for evolution?
-    subject: Biology
-    url: /learn/biology/questions/what-are-the-sources-of-genetic-variation-and-why-are-they-important-for-evolution
-related_article3:
-    id: 166353
-    title: What are Tinbergen's four questions and how do they help in understanding animal behavior?
-    subject: Biology
-    url: /learn/biology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-understanding-animal-behavior
-related_article4:
-    id: 166363
-    title: What is a phylogenetic tree and what information does it provide about evolutionary relationships?
-    subject: Biology
-    url: /learn/biology/questions/what-is-a-phylogenetic-tree-and-what-information-does-it-provide-about-evolutionary-relationships
-related_article5:
-    id: 166365
-    title: What is convergent evolution and how does it differ from homology?
-    subject: Biology
-    url: /learn/biology/questions/what-is-convergent-evolution-and-how-does-it-differ-from-homology
 ---
 
 &nbsp;

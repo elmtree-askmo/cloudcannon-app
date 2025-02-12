@@ -2,8 +2,10 @@
 _schema: default
 id: 165947
 date: 2025-01-29
-title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
-article_title: What were the founding objectives of the Salon des Independantes, and who were its key figures?
+title: >-
+    What were the founding objectives of the Salon des Independantes, and who were its key figures?
+article_title: >-
+    What were the founding objectives of the Salon des Independantes, and who were its key figures?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-founding-objectives-of-the-salon-des-independantes-and-
 url: /learn/art-history-and-literature/questions/what-were-the-founding-objectives-of-the-salon-des-independantes-and-who-were-its-key-figures
 score: 9.0
 related_article1:
-    id: 165948
-    title: How did the Salon des Independantes contribute to the promotion of diverse art styles?
+    id: 165939
+    title: >-
+        What was the primary purpose of the Official Paris Salon when it was first established?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-the-salon-des-independantes-contribute-to-the-promotion-of-diverse-art-styles
+    url: /learn/art-history-and-literature/questions/what-was-the-primary-purpose-of-the-official-paris-salon-when-it-was-first-established
 related_article2:
+    id: 165942
+    title: >-
+        How did alternative exhibitions impact the development of new art styles?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/how-did-alternative-exhibitions-impact-the-development-of-new-art-styles
+related_article3:
     id: 165957
-    title: What social and political influences affected art during the 19th century?
+    title: >-
+        What social and political influences affected art during the 19th century?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-social-and-political-influences-affected-art-during-the-19th-century
-related_article3:
+related_article4:
+    id: 165949
+    title: >-
+        What were the goals of the Salon d’Automne, and who were its key organizers?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-were-the-goals-of-the-salon-dautomne-and-who-were-its-key-organizers
+related_article5:
     id: 165960
-    title: Who were some prominent artists of the 19th century, and what were their contributions to art history?
+    title: >-
+        Who were some prominent artists of the 19th century, and what were their contributions to art history?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/who-were-some-prominent-artists-of-the-19th-century-and-what-were-their-contributions-to-art-history
-related_article4:
-    id: 165956
-    title: How did Paris serve as an art hub and influence exhibition practices in the 19th century?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-paris-serve-as-an-art-hub-and-influence-exhibition-practices-in-the-19th-century
-related_article5:
-    id: 165944
-    title: In what ways did the Salon des Refusés promote avant-garde art?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-salon-des-refuss-promote-avantgarde-art
 ---
 
 &nbsp;

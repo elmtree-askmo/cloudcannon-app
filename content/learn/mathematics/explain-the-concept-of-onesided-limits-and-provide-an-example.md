@@ -2,8 +2,10 @@
 _schema: default
 id: 168328
 date: 2025-02-03
-title: Explain the concept of one-sided limits and provide an example.
-article_title: Explain the concept of one-sided limits and provide an example.
+title: >-
+    Explain the concept of one-sided limits and provide an example.
+article_title: >-
+    Explain the concept of one-sided limits and provide an example.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-concept-of-onesided-limits-and-provide-an-example.md
 url: /learn/mathematics/questions/explain-the-concept-of-onesided-limits-and-provide-an-example
 score: -1.0
 related_article1:
-    id: 168330
-    title: Describe the geometric interpretation of a derivative.
+    id: 168342
+    title: >-
+        What are the methods for calculating the volume of a solid in calculus?
     subject: Mathematics
-    url: /learn/mathematics/questions/describe-the-geometric-interpretation-of-a-derivative
+    url: /learn/mathematics/questions/what-are-the-methods-for-calculating-the-volume-of-a-solid-in-calculus
 related_article2:
-    id: 168333
-    title: What is the equation of a tangent line to a curve at a given point?
+    id: 168331
+    title: >-
+        What is the product rule for derivatives and how is it applied?
     subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-equation-of-a-tangent-line-to-a-curve-at-a-given-point
+    url: /learn/mathematics/questions/what-is-the-product-rule-for-derivatives-and-how-is-it-applied
 related_article3:
-    id: 168327
-    title: What is the formal definition of a limit and how is it notated?
-    subject: Mathematics
-    url: /learn/mathematics/questions/what-is-the-formal-definition-of-a-limit-and-how-is-it-notated
-related_article4:
-    id: 168336
-    title: How do you approximate the area under a curve using definite integrals?
-    subject: Mathematics
-    url: /learn/mathematics/questions/how-do-you-approximate-the-area-under-a-curve-using-definite-integrals
-related_article5:
     id: 168339
-    title: Differentiate between scalar fields and vector fields with examples.
+    title: >-
+        Differentiate between scalar fields and vector fields with examples.
     subject: Mathematics
     url: /learn/mathematics/questions/differentiate-between-scalar-fields-and-vector-fields-with-examples
+related_article4:
+    id: 168337
+    title: >-
+        State the Fundamental Theorem of Calculus and explain its significance.
+    subject: Mathematics
+    url: /learn/mathematics/questions/state-the-fundamental-theorem-of-calculus-and-explain-its-significance
+related_article5:
+    id: 168340
+    title: >-
+        What is the definition of a continuous function and what are the types of discontinuities?
+    subject: Mathematics
+    url: /learn/mathematics/questions/what-is-the-definition-of-a-continuous-function-and-what-are-the-types-of-discontinuities
 ---
 
 &nbsp;

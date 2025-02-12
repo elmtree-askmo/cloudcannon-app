@@ -2,8 +2,10 @@
 _schema: default
 id: 164833
 date: 2025-01-28
-title: What are the main components of consciousness, and how do they relate to awareness and responsiveness?
-article_title: What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+title: >-
+    What are the main components of consciousness, and how do they relate to awareness and responsiveness?
+article_title: >-
+    What are the main components of consciousness, and how do they relate to awareness and responsiveness?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-components-of-consciousness-and-how-do-they-relate-
 url: /learn/psychology/questions/what-are-the-main-components-of-consciousness-and-how-do-they-relate-to-awareness-and-responsiveness
 score: -1.0
 related_article1:
-    id: 164845
-    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    id: 164848
+    title: >-
+        What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
 related_article2:
-    id: 164835
-    title: How do normal states of consciousness, such as wakefulness and sleep, differ from altered states like meditation and lucid dreaming?
+    id: 164844
+    title: >-
+        What is implicit memory, and how does it differ from explicit memory in terms of processing and examples?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-normal-states-of-consciousness-such-as-wakefulness-and-sleep-differ-from-altered-states-like-meditation-and-lucid-dreaming
+    url: /learn/psychology/questions/what-is-implicit-memory-and-how-does-it-differ-from-explicit-memory-in-terms-of-processing-and-examples
 related_article3:
-    id: 164843
-    title: How do dissociative disorders impact consciousness, and what are some common symptoms and experiences associated with these disorders?
+    id: 164840
+    title: >-
+        How do thalamocortical interactions facilitate conscious perception through signal integration?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-dissociative-disorders-impact-consciousness-and-what-are-some-common-symptoms-and-experiences-associated-with-these-disorders
+    url: /learn/psychology/questions/how-do-thalamocortical-interactions-facilitate-conscious-perception-through-signal-integration
 related_article4:
-    id: 164839
-    title: Describe the default mode network and its involvement in self-referential thought and introspection.
+    id: 164850
+    title: >-
+        What are the effects of meditation and yoga on brain activity, and what benefits do they offer in terms of altered states of consciousness?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-default-mode-network-and-its-involvement-in-selfreferential-thought-and-introspection
+    url: /learn/psychology/questions/what-are-the-effects-of-meditation-and-yoga-on-brain-activity-and-what-benefits-do-they-offer-in-terms-of-altered-states-of-consciousness
 related_article5:
-    id: 164845
-    title: Explain the concept of blindsight and how it demonstrates unconscious visual processing despite cortical blindness.
+    id: 164848
+    title: >-
+        What are the main differences between verbal and non-verbal auditory agnosias, and how do they compare to aphasia in terms of language processing?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-concept-of-blindsight-and-how-it-demonstrates-unconscious-visual-processing-despite-cortical-blindness
+    url: /learn/psychology/questions/what-are-the-main-differences-between-verbal-and-nonverbal-auditory-agnosias-and-how-do-they-compare-to-aphasia-in-terms-of-language-processing
 ---
 
 &nbsp;

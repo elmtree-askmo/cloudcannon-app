@@ -2,8 +2,10 @@
 _schema: default
 id: 161386
 date: 2025-01-24
-title: What is the primary function of a firewall in cybersecurity?
-article_title: What is the primary function of a firewall in cybersecurity?
+title: >-
+    What is the primary function of a firewall in cybersecurity?
+article_title: >-
+    What is the primary function of a firewall in cybersecurity?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-primary-function-of-a-firewall-in-cybersecurity.md
 url: /learn/computer-science/questions/what-is-the-primary-function-of-a-firewall-in-cybersecurity
 score: -1.0
 related_article1:
-    id: 161378
-    title: What are some examples of basic identification information considered as personal data?
+    id: 161263
+    title: >-
+        How do Virtual Private Networks (VPNs) enhance online privacy?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-examples-of-basic-identification-information-considered-as-personal-data
+    url: /learn/computer-science/questions/how-do-virtual-private-networks-vpns-enhance-online-privacy
 related_article2:
-    id: 161461
-    title: How does encryption enhance data security?
-    subject: Computer Science
-    url: /learn/computer-science/questions/how-does-encryption-enhance-data-security
-related_article3:
     id: 161392
-    title: How can individuals recognize and prevent pharming attempts?
+    title: >-
+        How can individuals recognize and prevent pharming attempts?
     subject: Computer Science
     url: /learn/computer-science/questions/how-can-individuals-recognize-and-prevent-pharming-attempts
+related_article3:
+    id: 161461
+    title: >-
+        How does encryption enhance data security?
+    subject: Computer Science
+    url: /learn/computer-science/questions/how-does-encryption-enhance-data-security
 related_article4:
-    id: 161394
-    title: What are the advantages of using biometric security for authentication?
+    id: 161254
+    title: >-
+        What is the primary purpose of a firewall in cybersecurity?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-advantages-of-using-biometric-security-for-authentication
+    url: /learn/computer-science/questions/what-is-the-primary-purpose-of-a-firewall-in-cybersecurity
 related_article5:
-    id: 161259
-    title: What are some common methods used in phishing attacks?
+    id: 161252
+    title: >-
+        What are the key features and functions of anti-virus software?
     subject: Computer Science
-    url: /learn/computer-science/questions/what-are-some-common-methods-used-in-phishing-attacks
+    url: /learn/computer-science/questions/what-are-the-key-features-and-functions-of-antivirus-software
 ---
 
 &nbsp;

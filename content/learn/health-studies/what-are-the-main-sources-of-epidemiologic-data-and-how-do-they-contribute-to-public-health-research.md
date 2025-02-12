@@ -2,8 +2,10 @@
 _schema: default
 id: 162972
 date: 2025-01-26
-title: What are the main sources of epidemiologic data, and how do they contribute to public health research?
-article_title: What are the main sources of epidemiologic data, and how do they contribute to public health research?
+title: >-
+    What are the main sources of epidemiologic data, and how do they contribute to public health research?
+article_title: >-
+    What are the main sources of epidemiologic data, and how do they contribute to public health research?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-main-sources-of-epidemiologic-data-and-how-do-they-contr
 url: /learn/health-studies/questions/what-are-the-main-sources-of-epidemiologic-data-and-how-do-they-contribute-to-public-health-research
 score: -1.0
 related_article1:
-    id: 163020
-    title: How do random and systematic sampling methods differ in biostatistics?
+    id: 162974
+    title: >-
+        How does random sampling differ from systematic and stratified sampling in biostatistics?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-random-and-systematic-sampling-methods-differ-in-biostatistics
+    url: /learn/health-studies/questions/how-does-random-sampling-differ-from-systematic-and-stratified-sampling-in-biostatistics
 related_article2:
-    id: 163013
-    title: How do genetic makeup and lifestyle behaviors influence individual determinants of health?
-    subject: Health Studies
-    url: /learn/health-studies/questions/how-do-genetic-makeup-and-lifestyle-behaviors-influence-individual-determinants-of-health
-related_article3:
     id: 163018
-    title: What are the key components of data interpretation in epidemiology?
+    title: >-
+        What are the key components of data interpretation in epidemiology?
     subject: Health Studies
     url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
-related_article4:
-    id: 162958
-    title: How do political and economic factors serve as environmental and societal determinants of health?
+related_article3:
+    id: 162964
+    title: >-
+        What is the significance of the null hypothesis in hypothesis testing?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-do-political-and-economic-factors-serve-as-environmental-and-societal-determinants-of-health
-related_article5:
+    url: /learn/health-studies/questions/what-is-the-significance-of-the-null-hypothesis-in-hypothesis-testing
+related_article4:
     id: 163022
-    title: What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
+    title: >-
+        What is the process of hypothesis testing in epidemiology, and how are null and alternative hypotheses specified?
     subject: Health Studies
     url: /learn/health-studies/questions/what-is-the-process-of-hypothesis-testing-in-epidemiology-and-how-are-null-and-alternative-hypotheses-specified
+related_article5:
+    id: 163018
+    title: >-
+        What are the key components of data interpretation in epidemiology?
+    subject: Health Studies
+    url: /learn/health-studies/questions/what-are-the-key-components-of-data-interpretation-in-epidemiology
 ---
 
 &nbsp;

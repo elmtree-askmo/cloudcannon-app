@@ -2,8 +2,10 @@
 _schema: default
 id: 166232
 date: 2025-01-29
-title: How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
-article_title: How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
+title: >-
+    How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
+article_title: >-
+    How did ancient civilizations like Mesopotamia and Ancient Egypt influence modern society?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-ancient-civilizations-like-mesopotamia-and-ancient-egypt-infl
 url: /learn/history-of-the-world/questions/how-did-ancient-civilizations-like-mesopotamia-and-ancient-egypt-influence-modern-society
 score: 9.0
 related_article1:
-    id: 166228
-    title: What are the limitations of using archaeological finds as historical evidence?
+    id: 166239
+    title: >-
+        What are the challenges associated with the preservation and access of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
+    url: /learn/history-of-the-world/questions/what-are-the-challenges-associated-with-the-preservation-and-access-of-historical-documents
 related_article2:
-    id: 166235
-    title: What are the primary environmental impacts of human activities like deforestation and pollution?
+    id: 166240
+    title: >-
+        How do language barriers and contextual understanding affect the interpretation of historical documents?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-primary-environmental-impacts-of-human-activities-like-deforestation-and-pollution
+    url: /learn/history-of-the-world/questions/how-do-language-barriers-and-contextual-understanding-affect-the-interpretation-of-historical-documents
 related_article3:
     id: 166227
-    title: What are the primary types of historical evidence, and how are they evaluated for reliability?
+    title: >-
+        What are the primary types of historical evidence, and how are they evaluated for reliability?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-are-the-primary-types-of-historical-evidence-and-how-are-they-evaluated-for-reliability
 related_article4:
-    id: 166242
-    title: What are the main theories and debates surrounding human evolution and migration patterns in prehistory?
+    id: 166217
+    title: >-
+        What are the fundamental components of machine learning, and how do they interact?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-main-theories-and-debates-surrounding-human-evolution-and-migration-patterns-in-prehistory
+    url: /learn/history-of-the-world/questions/what-are-the-fundamental-components-of-machine-learning-and-how-do-they-interact
 related_article5:
-    id: 166239
-    title: What are the challenges associated with the preservation and access of historical documents?
+    id: 166228
+    title: >-
+        What are the limitations of using archaeological finds as historical evidence?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/what-are-the-challenges-associated-with-the-preservation-and-access-of-historical-documents
+    url: /learn/history-of-the-world/questions/what-are-the-limitations-of-using-archaeological-finds-as-historical-evidence
 ---
 
 &nbsp;

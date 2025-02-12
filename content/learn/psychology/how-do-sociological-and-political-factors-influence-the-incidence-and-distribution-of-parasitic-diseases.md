@@ -2,8 +2,10 @@
 _schema: default
 id: 165830
 date: 2025-01-29
-title: How do sociological and political factors influence the incidence and distribution of parasitic diseases?
-article_title: How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+title: >-
+    How do sociological and political factors influence the incidence and distribution of parasitic diseases?
+article_title: >-
+    How do sociological and political factors influence the incidence and distribution of parasitic diseases?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-sociological-and-political-factors-influence-the-incidence-and
 url: /learn/psychology/questions/how-do-sociological-and-political-factors-influence-the-incidence-and-distribution-of-parasitic-diseases
 score: -1.0
 related_article1:
-    id: 165856
-    title: Explain the differences between sylvatic and urban cycles in zoonotic diseases.
+    id: 165838
+    title: >-
+        How do pharmacological interventions target parasite pathways in drug design?
     subject: Psychology
-    url: /learn/psychology/questions/explain-the-differences-between-sylvatic-and-urban-cycles-in-zoonotic-diseases
+    url: /learn/psychology/questions/how-do-pharmacological-interventions-target-parasite-pathways-in-drug-design
 related_article2:
-    id: 165839
-    title: What molecular techniques are advancing research in parasitology?
+    id: 165843
+    title: >-
+        What are the ecological consequences of habitat disruption caused by parasites?
     subject: Psychology
-    url: /learn/psychology/questions/what-molecular-techniques-are-advancing-research-in-parasitology
+    url: /learn/psychology/questions/what-are-the-ecological-consequences-of-habitat-disruption-caused-by-parasites
 related_article3:
-    id: 165833
-    title: How do DNA and protein analysis contribute to the understanding of phylogenetics in parasitology?
+    id: 165829
+    title: >-
+        Explain the concept of mutualism and provide an example of a mutualistic relationship in parasitology.
     subject: Psychology
-    url: /learn/psychology/questions/how-do-dna-and-protein-analysis-contribute-to-the-understanding-of-phylogenetics-in-parasitology
+    url: /learn/psychology/questions/explain-the-concept-of-mutualism-and-provide-an-example-of-a-mutualistic-relationship-in-parasitology
 related_article4:
-    id: 165853
-    title: Describe the mechanisms of infection used by pathogens and the host defense mechanisms against them.
+    id: 165855
+    title: >-
+        What are the transmission dynamics of zoonotic diseases between wild and domestic animals?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-mechanisms-of-infection-used-by-pathogens-and-the-host-defense-mechanisms-against-them
+    url: /learn/psychology/questions/what-are-the-transmission-dynamics-of-zoonotic-diseases-between-wild-and-domestic-animals
 related_article5:
-    id: 165828
-    title: What are the different types of parasites and how do they differ in their relationships with hosts?
+    id: 165849
+    title: >-
+        What are parasitoids and how do they differ from other parasitic insects?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-different-types-of-parasites-and-how-do-they-differ-in-their-relationships-with-hosts
+    url: /learn/psychology/questions/what-are-parasitoids-and-how-do-they-differ-from-other-parasitic-insects
 ---
 
 &nbsp;

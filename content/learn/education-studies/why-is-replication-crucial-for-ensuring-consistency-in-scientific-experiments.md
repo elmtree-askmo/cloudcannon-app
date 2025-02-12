@@ -2,8 +2,10 @@
 _schema: default
 id: 166162
 date: 2025-01-29
-title: Why is replication crucial for ensuring consistency in scientific experiments?
-article_title: Why is replication crucial for ensuring consistency in scientific experiments?
+title: >-
+    Why is replication crucial for ensuring consistency in scientific experiments?
+article_title: >-
+    Why is replication crucial for ensuring consistency in scientific experiments?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/why-is-replication-crucial-for-ensuring-
 score: -1.0
 related_article1:
     id: 166154
-    title: How do sensory observations contribute to hypothesis formation?
+    title: >-
+        How do sensory observations contribute to hypothesis formation?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-sensory-observations-contribute-to-hypothesis-formation
 related_article2:
     id: 166166
-    title: How do models help in predicting environmental changes?
+    title: >-
+        How do models help in predicting environmental changes?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-models-help-in-predicting-environmental-changes
 related_article3:
-    id: 166172
-    title: What are the main threats to brook trout habitats?
+    id: 166167
+    title: >-
+        What is the purpose of a meta-analysis in scientific research?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-main-threats-to-brook-trout-habitats
+    url: /learn/education-studies/questions/what-is-the-purpose-of-a-metaanalysis-in-scientific-research
 related_article4:
-    id: 166164
-    title: What are the key areas of study in environmental science?
+    id: 166157
+    title: >-
+        What are the characteristics of a good hypothesis?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-areas-of-study-in-environmental-science
+    url: /learn/education-studies/questions/what-are-the-characteristics-of-a-good-hypothesis
 related_article5:
-    id: 166165
-    title: What are the advantages of using observational studies in environmental science?
+    id: 166168
+    title: >-
+        What are the main types of research methodologies used in scientific inquiry?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-advantages-of-using-observational-studies-in-environmental-science
+    url: /learn/education-studies/questions/what-are-the-main-types-of-research-methodologies-used-in-scientific-inquiry
 ---
 
 &nbsp;

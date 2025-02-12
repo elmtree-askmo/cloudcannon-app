@@ -2,8 +2,10 @@
 _schema: default
 id: 164171
 date: 2025-01-28
-title: How do expert systems serve as a knowledge source?
-article_title: How do expert systems serve as a knowledge source?
+title: >-
+    How do expert systems serve as a knowledge source?
+article_title: >-
+    How do expert systems serve as a knowledge source?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-expert-systems-serve-as-a-knowledge-source.md
 url: /learn/others/questions/how-do-expert-systems-serve-as-a-knowledge-source
 score: -1.0
 related_article1:
+    id: 164185
+    title: >-
+        Explain the difference between statistical models and neural network models in language models.
+    subject: Others
+    url: /learn/others/questions/explain-the-difference-between-statistical-models-and-neural-network-models-in-language-models
+related_article2:
     id: 164182
-    title: What is the purpose of statistical measures in descriptive analysis?
+    title: >-
+        What is the purpose of statistical measures in descriptive analysis?
     subject: Others
     url: /learn/others/questions/what-is-the-purpose-of-statistical-measures-in-descriptive-analysis
-related_article2:
-    id: 164172
-    title: What are the main challenges associated with knowledge transfer?
-    subject: Others
-    url: /learn/others/questions/what-are-the-main-challenges-associated-with-knowledge-transfer
 related_article3:
-    id: 164158
-    title: Describe the role of data preprocessing in data training.
+    id: 164177
+    title: >-
+        What is the difference between classification and regression in supervised learning?
     subject: Others
-    url: /learn/others/questions/describe-the-role-of-data-preprocessing-in-data-training
+    url: /learn/others/questions/what-is-the-difference-between-classification-and-regression-in-supervised-learning
 related_article4:
-    id: 164162
-    title: How does synthetic data contribute to data augmentation?
+    id: 164168
+    title: >-
+        How does the Internet of Things (IoT) impact emerging technologies?
     subject: Others
-    url: /learn/others/questions/how-does-synthetic-data-contribute-to-data-augmentation
+    url: /learn/others/questions/how-does-the-internet-of-things-iot-impact-emerging-technologies
 related_article5:
-    id: 164179
-    title: What is the role of Markov Decision Processes in reinforcement learning?
+    id: 164178
+    title: >-
+        Describe a common use case for clustering in unsupervised learning.
     subject: Others
-    url: /learn/others/questions/what-is-the-role-of-markov-decision-processes-in-reinforcement-learning
+    url: /learn/others/questions/describe-a-common-use-case-for-clustering-in-unsupervised-learning
 ---
 
 &nbsp;

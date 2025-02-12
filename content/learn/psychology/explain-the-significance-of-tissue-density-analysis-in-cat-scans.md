@@ -2,8 +2,10 @@
 _schema: default
 id: 164350
 date: 2025-01-28
-title: Explain the significance of tissue density analysis in CAT scans.
-article_title: Explain the significance of tissue density analysis in CAT scans.
+title: >-
+    Explain the significance of tissue density analysis in CAT scans.
+article_title: >-
+    Explain the significance of tissue density analysis in CAT scans.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: explain-the-significance-of-tissue-density-analysis-in-cat-scans.md
 url: /learn/psychology/questions/explain-the-significance-of-tissue-density-analysis-in-cat-scans
 score: -1.0
 related_article1:
-    id: 164348
-    title: Describe the process of patient preparation for an MRI scan.
+    id: 164346
+    title: >-
+        How do anatomical imaging techniques contribute to medical applications?
     subject: Psychology
-    url: /learn/psychology/questions/describe-the-process-of-patient-preparation-for-an-mri-scan
+    url: /learn/psychology/questions/how-do-anatomical-imaging-techniques-contribute-to-medical-applications
 related_article2:
-    id: 164349
-    title: What role do X-rays play in the functioning of a CAT scan?
-    subject: Psychology
-    url: /learn/psychology/questions/what-role-do-xrays-play-in-the-functioning-of-a-cat-scan
-related_article3:
-    id: 164345
-    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
-related_article4:
-    id: 164345
-    title: What is the primary purpose of neuroimaging in cognitive neuroscience?
-    subject: Psychology
-    url: /learn/psychology/questions/what-is-the-primary-purpose-of-neuroimaging-in-cognitive-neuroscience
-related_article5:
     id: 164354
-    title: What are the main functional areas of the brain and their roles?
+    title: >-
+        What are the main functional areas of the brain and their roles?
     subject: Psychology
     url: /learn/psychology/questions/what-are-the-main-functional-areas-of-the-brain-and-their-roles
+related_article3:
+    id: 164355
+    title: >-
+        Compare the advantages of MRI over CAT scans.
+    subject: Psychology
+    url: /learn/psychology/questions/compare-the-advantages-of-mri-over-cat-scans
+related_article4:
+    id: 164359
+    title: >-
+        How does neuroimaging enhance the understanding of neurological disorders?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-neuroimaging-enhance-the-understanding-of-neurological-disorders
+related_article5:
+    id: 164357
+    title: >-
+        How does functional imaging contribute to cognitive research?
+    subject: Psychology
+    url: /learn/psychology/questions/how-does-functional-imaging-contribute-to-cognitive-research
 ---
 
 &nbsp;

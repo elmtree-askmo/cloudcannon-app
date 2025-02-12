@@ -2,8 +2,10 @@
 _schema: default
 id: 165184
 date: 2025-01-28
-title: What are alternative explanations in research, and how can they impact the validity of a study?
-article_title: What are alternative explanations in research, and how can they impact the validity of a study?
+title: >-
+    What are alternative explanations in research, and how can they impact the validity of a study?
+article_title: >-
+    What are alternative explanations in research, and how can they impact the validity of a study?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,28 +24,33 @@ file_name: what-are-alternative-explanations-in-research-and-how-can-they-impact
 url: /learn/education-studies/questions/what-are-alternative-explanations-in-research-and-how-can-they-impact-the-validity-of-a-study
 score: -1.0
 related_article1:
-    id: 165174
-    title: How can independent and dependent variables be identified and differentiated in an experiment?
+    id: 165170
+    title: >-
+        How can the implications and limitations of a scientific article be effectively analyzed?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-can-independent-and-dependent-variables-be-identified-and-differentiated-in-an-experiment
+    url: /learn/education-studies/questions/how-can-the-implications-and-limitations-of-a-scientific-article-be-effectively-analyzed
 related_article2:
+    id: 165175
+    title: >-
+        What is the role of measurement scales in research, and how do nominal and ordinal scales differ from interval and ratio scales?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-is-the-role-of-measurement-scales-in-research-and-how-do-nominal-and-ordinal-scales-differ-from-interval-and-ratio-scales
+related_article3:
     id: 165173
-    title: What are operational definitions, and why are they crucial in experimental design?
+    title: >-
+        What are operational definitions, and why are they crucial in experimental design?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-operational-definitions-and-why-are-they-crucial-in-experimental-design
-related_article3:
+related_article4:
     id: 165172
-    title: How do true experiments differ from quasi-experiments in terms of design and control?
+    title: >-
+        How do true experiments differ from quasi-experiments in terms of design and control?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-true-experiments-differ-from-quasiexperiments-in-terms-of-design-and-control
-related_article4:
-    id: 165171
-    title: What is the primary purpose of an abstract in a research paper, and what are its key elements?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-is-the-primary-purpose-of-an-abstract-in-a-research-paper-and-what-are-its-key-elements
 related_article5:
     id: 165187
-    title: What are some ethical considerations in research, and how do they impact research integrity?
+    title: >-
+        What are some ethical considerations in research, and how do they impact research integrity?
     subject: Education Studies
     url: /learn/education-studies/questions/what-are-some-ethical-considerations-in-research-and-how-do-they-impact-research-integrity
 ---

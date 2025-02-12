@@ -2,8 +2,10 @@
 _schema: default
 id: 159839
 date: 2025-01-23
-title: In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
-article_title: In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+title: >-
+    In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
+article_title: >-
+    In what ways did Orientalism and colonialism affect the representation of non-Western cultures in Western art?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: in-what-ways-did-orientalism-and-colonialism-affect-the-representatio
 url: /learn/art-history-and-literature/questions/in-what-ways-did-orientalism-and-colonialism-affect-the-representation-of-nonwestern-cultures-in-western-art
 score: 9.0
 related_article1:
-    id: 160112
-    title: How did early photography change perceptions and representations in art, and what was its impact as an artistic medium?
+    id: 159851
+    title: >-
+        In what ways did the intersection of science, medicine, and art influence artistic representation during the modern era?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-was-its-impact-as-an-artistic-medium
+    url: /learn/art-history-and-literature/questions/in-what-ways-did-the-intersection-of-science-medicine-and-art-influence-artistic-representation-during-the-modern-era
 related_article2:
-    id: 160108
-    title: In what ways did Post-Impressionism transition from Impressionism, and who were some key artists and their notable works?
+    id: 160109
+    title: >-
+        What were the origins and key developments of Cubism, and how did it impact modern art?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/in-what-ways-did-postimpressionism-transition-from-impressionism-and-who-were-some-key-artists-and-their-notable-works
+    url: /learn/art-history-and-literature/questions/what-were-the-origins-and-key-developments-of-cubism-and-how-did-it-impact-modern-art
 related_article3:
-    id: 159846
-    title: How did Expressionism and Neo-Impressionism influence later art movements?
-    subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-expressionism-and-neoimpressionism-influence-later-art-movements
-related_article4:
     id: 160111
-    title: What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
+    title: >-
+        What role did urbanisation play in the depiction of modern life in art, and how was the modern city represented as a subject?
     subject: Art History and Literature
     url: /learn/art-history-and-literature/questions/what-role-did-urbanisation-play-in-the-depiction-of-modern-life-in-art-and-how-was-the-modern-city-represented-as-a-subject
-related_article5:
-    id: 159838
-    title: How did early photography change perceptions and representations in art, and what challenges did it pose to traditional art forms?
+related_article4:
+    id: 160110
+    title: >-
+        How did industrialisation influence changes in artistic practices and subject matter during the 19th century?
     subject: Art History and Literature
-    url: /learn/art-history-and-literature/questions/how-did-early-photography-change-perceptions-and-representations-in-art-and-what-challenges-did-it-pose-to-traditional-art-forms
+    url: /learn/art-history-and-literature/questions/how-did-industrialisation-influence-changes-in-artistic-practices-and-subject-matter-during-the-19th-century
+related_article5:
+    id: 159849
+    title: >-
+        What impact did the Industrial Revolution have on artistic themes, styles, and the relationship between artists and their audiences?
+    subject: Art History and Literature
+    url: /learn/art-history-and-literature/questions/what-impact-did-the-industrial-revolution-have-on-artistic-themes-styles-and-the-relationship-between-artists-and-their-audiences
 ---
 
 &nbsp;

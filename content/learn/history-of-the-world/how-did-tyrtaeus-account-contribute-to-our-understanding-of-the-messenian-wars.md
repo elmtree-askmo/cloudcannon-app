@@ -2,8 +2,10 @@
 _schema: default
 id: 163577
 date: 2025-01-27
-title: How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
-article_title: How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
+title: >-
+    How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
+article_title: >-
+    How did Tyrtaeus' account contribute to our understanding of the Messenian Wars?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messe
 url: /learn/history-of-the-world/questions/how-did-tyrtaeus-account-contribute-to-our-understanding-of-the-messenian-wars
 score: 9.0
 related_article1:
-    id: 163573
-    title: Identify two key literary sources for studying ancient Sparta and describe their contributions.
+    id: 163570
+    title: >-
+        What was the significance of the Lycurgan Constitution in shaping Spartan society?
     subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for-studying-ancient-sparta-and-describe-their-contributions
+    url: /learn/history-of-the-world/questions/what-was-the-significance-of-the-lycurgan-constitution-in-shaping-spartan-society
 related_article2:
-    id: 163571
-    title: How did the regions of Laconia and Messenia contribute to Sparta's development as a Greek polis?
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/how-did-the-regions-of-laconia-and-messenia-contribute-to-spartas-development-as-a-greek-polis
-related_article3:
     id: 163578
-    title: What archaeological evidence supports our understanding of Spartan society?
+    title: >-
+        What archaeological evidence supports our understanding of Spartan society?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-archaeological-evidence-supports-our-understanding-of-spartan-society
-related_article4:
-    id: 163573
-    title: Identify two key literary sources for studying ancient Sparta and describe their contributions.
-    subject: History of the World
-    url: /learn/history-of-the-world/questions/identify-two-key-literary-sources-for-studying-ancient-sparta-and-describe-their-contributions
-related_article5:
+related_article3:
     id: 163572
-    title: What role did the Spartan Acropolis play in the city-state's religious and political life?
+    title: >-
+        What role did the Spartan Acropolis play in the city-state's religious and political life?
     subject: History of the World
     url: /learn/history-of-the-world/questions/what-role-did-the-spartan-acropolis-play-in-the-citystates-religious-and-political-life
+related_article4:
+    id: 163585
+    title: >-
+        How did the Gerousia and Apella function within the Spartan political system?
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/how-did-the-gerousia-and-apella-function-within-the-spartan-political-system
+related_article5:
+    id: 163579
+    title: >-
+        Describe the significance of Spartan Black-Figure Pottery in understanding Spartan culture.
+    subject: History of the World
+    url: /learn/history-of-the-world/questions/describe-the-significance-of-spartan-blackfigure-pottery-in-understanding-spartan-culture
 ---
 
 &nbsp;

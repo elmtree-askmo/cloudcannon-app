@@ -2,8 +2,10 @@
 _schema: default
 id: 170049
 date: 2025-02-05
-title: What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
-article_title: What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
+title: >-
+    What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
+article_title: >-
+    What were the primary types of food consumed in ancient societies, and what role did women play in gathering these resources?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-were-the-primary-types-of-food-consumed-in-ancient-societies-and
 url: /learn/education-studies/questions/what-were-the-primary-types-of-food-consumed-in-ancient-societies-and-what-role-did-women-play-in-gathering-these-resources
 score: -1.0
 related_article1:
+    id: 170044
+    title: >-
+        What defines the Paleolithic era, and what were the key characteristics of tool technology during this time?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-defines-the-paleolithic-era-and-what-were-the-key-characteristics-of-tool-technology-during-this-time
+related_article2:
+    id: 170046
+    title: >-
+        What impact did agriculture have on population density and the support of non-food producers?
+    subject: Education Studies
+    url: /learn/education-studies/questions/what-impact-did-agriculture-have-on-population-density-and-the-support-of-nonfood-producers
+related_article3:
+    id: 170034
+    title: >-
+        How should quotations be incorporated into writing assignments to support arguments effectively?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-should-quotations-be-incorporated-into-writing-assignments-to-support-arguments-effectively
+related_article4:
+    id: 170047
+    title: >-
+        How did the resource use and environmental impact of agricultural societies compare to hunting and gathering societies?
+    subject: Education Studies
+    url: /learn/education-studies/questions/how-did-the-resource-use-and-environmental-impact-of-agricultural-societies-compare-to-hunting-and-gathering-societies
+related_article5:
     id: 170039
-    title: Why are primary source documents important in historical assignments?
+    title: >-
+        Why are primary source documents important in historical assignments?
     subject: Education Studies
     url: /learn/education-studies/questions/why-are-primary-source-documents-important-in-historical-assignments
-related_article2:
-    id: 170033
-    title: What are the key components to consider when commenting on primary source documents in writing assignments?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-key-components-to-consider-when-commenting-on-primary-source-documents-in-writing-assignments
-related_article3:
-    id: 170045
-    title: How did gender roles and leadership manifest in Paleolithic societies?
-    subject: Education Studies
-    url: /learn/education-studies/questions/how-did-gender-roles-and-leadership-manifest-in-paleolithic-societies
-related_article4:
-    id: 170042
-    title: What are the characteristics of hunting and gathering societies in terms of population density and food resources?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-characteristics-of-hunting-and-gathering-societies-in-terms-of-population-density-and-food-resources
-related_article5:
-    id: 170035
-    title: What are the differences between online resources and print articles when citing sources in academic writing?
-    subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-differences-between-online-resources-and-print-articles-when-citing-sources-in-academic-writing
 ---
 
 &nbsp;

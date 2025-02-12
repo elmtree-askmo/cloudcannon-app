@@ -2,8 +2,10 @@
 _schema: default
 id: 169980
 date: 2025-02-05
-title: How does deforestation affect the nitrogen and carbon cycles in ecosystems?
-article_title: How does deforestation affect the nitrogen and carbon cycles in ecosystems?
+title: >-
+    How does deforestation affect the nitrogen and carbon cycles in ecosystems?
+article_title: >-
+    How does deforestation affect the nitrogen and carbon cycles in ecosystems?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-deforestation-affect-the-nitrogen-and-carbon-cycles-in-ecosy
 url: /learn/environmental-science/questions/how-does-deforestation-affect-the-nitrogen-and-carbon-cycles-in-ecosystems
 score: -1.0
 related_article1:
-    id: 169981
-    title: What is cultural eutrophication, and what are its primary causes?
+    id: 169984
+    title: >-
+        What are the key components of experimental design in ecological research?
     subject: Environmental Science
-    url: /learn/environmental-science/questions/what-is-cultural-eutrophication-and-what-are-its-primary-causes
+    url: /learn/environmental-science/questions/what-are-the-key-components-of-experimental-design-in-ecological-research
 related_article2:
     id: 169983
-    title: What role does vegetation play in influencing water temperature dynamics in watersheds?
+    title: >-
+        What role does vegetation play in influencing water temperature dynamics in watersheds?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-role-does-vegetation-play-in-influencing-water-temperature-dynamics-in-watersheds
 related_article3:
-    id: 169989
-    title: What are the recent research developments in the Hubbard Brook Ecosystem studies?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-recent-research-developments-in-the-hubbard-brook-ecosystem-studies
-related_article4:
-    id: 169989
-    title: What are the recent research developments in the Hubbard Brook Ecosystem studies?
-    subject: Environmental Science
-    url: /learn/environmental-science/questions/what-are-the-recent-research-developments-in-the-hubbard-brook-ecosystem-studies
-related_article5:
     id: 169973
-    title: What are the key roles of long-term ecological research areas in understanding global climate change?
+    title: >-
+        What are the key roles of long-term ecological research areas in understanding global climate change?
     subject: Environmental Science
     url: /learn/environmental-science/questions/what-are-the-key-roles-of-longterm-ecological-research-areas-in-understanding-global-climate-change
+related_article4:
+    id: 169977
+    title: >-
+        What are the primary techniques used in hydrological measurements for environmental science data collection?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/what-are-the-primary-techniques-used-in-hydrological-measurements-for-environmental-science-data-collection
+related_article5:
+    id: 169976
+    title: >-
+        How do changes in water temperature influence aquatic ecosystem productivity?
+    subject: Environmental Science
+    url: /learn/environmental-science/questions/how-do-changes-in-water-temperature-influence-aquatic-ecosystem-productivity
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 164436
 date: 2025-01-28
-title: What are the cultural variations in diagnostic criteria for mental health?
-article_title: What are the cultural variations in diagnostic criteria for mental health?
+title: >-
+    What are the cultural variations in diagnostic criteria for mental health?
+article_title: >-
+    What are the cultural variations in diagnostic criteria for mental health?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-he
 url: /learn/psychology/questions/what-are-the-cultural-variations-in-diagnostic-criteria-for-mental-health
 score: -1.0
 related_article1:
-    id: 164423
-    title: How does the frontal lobe contribute to executive functions and speech production?
+    id: 164418
+    title: >-
+        What is the difference between independent and dependent variables in experimental methods?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-frontal-lobe-contribute-to-executive-functions-and-speech-production
+    url: /learn/psychology/questions/what-is-the-difference-between-independent-and-dependent-variables-in-experimental-methods
 related_article2:
-    id: 164419
-    title: How does spatial attention differ from object attention in the brain?
+    id: 164434
+    title: >-
+        What are the differences between automatic and controlled processing in unconscious vs. conscious processes?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-spatial-attention-differ-from-object-attention-in-the-brain
+    url: /learn/psychology/questions/what-are-the-differences-between-automatic-and-controlled-processing-in-unconscious-vs-conscious-processes
 related_article3:
-    id: 164424
-    title: What is the impact of socioeconomic status on language exposure and vocabulary development in children?
+    id: 164433
+    title: >-
+        How do neural pathways demonstrate redundancy and inhibition mechanisms in the brain?
     subject: Psychology
-    url: /learn/psychology/questions/what-is-the-impact-of-socioeconomic-status-on-language-exposure-and-vocabulary-development-in-children
+    url: /learn/psychology/questions/how-do-neural-pathways-demonstrate-redundancy-and-inhibition-mechanisms-in-the-brain
 related_article4:
-    id: 164435
-    title: How do developmental stages affect executive functions in children?
+    id: 164422
+    title: >-
+        What are the primary functions of the temporal lobe in language processing?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-developmental-stages-affect-executive-functions-in-children
+    url: /learn/psychology/questions/what-are-the-primary-functions-of-the-temporal-lobe-in-language-processing
 related_article5:
-    id: 164432
-    title: What impact does cortisol have on memory and learning during stress?
+    id: 164429
+    title: >-
+        What are the effects of socioeconomic status on brain development and social equality?
     subject: Psychology
-    url: /learn/psychology/questions/what-impact-does-cortisol-have-on-memory-and-learning-during-stress
+    url: /learn/psychology/questions/what-are-the-effects-of-socioeconomic-status-on-brain-development-and-social-equality
 ---
 
 &nbsp;

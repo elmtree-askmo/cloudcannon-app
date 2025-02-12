@@ -2,8 +2,10 @@
 _schema: default
 id: 161522
 date: 2025-01-24
-title: Discuss the methods and sensors used in water pollution monitoring.
-article_title: Discuss the methods and sensors used in water pollution monitoring.
+title: >-
+    Discuss the methods and sensors used in water pollution monitoring.
+article_title: >-
+    Discuss the methods and sensors used in water pollution monitoring.
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/computer-science/questions/discuss-the-methods-and-sensors-used-in-w
 score: -1.0
 related_article1:
     id: 161532
-    title: What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
+    title: >-
+        What are the potential risks and failures associated with dependence on monitoring technology, and how can they impact human skills?
     subject: Computer Science
     url: /learn/computer-science/questions/what-are-the-potential-risks-and-failures-associated-with-dependence-on-monitoring-technology-and-how-can-they-impact-human-skills
 related_article2:
-    id: 161354
-    title: Explain the components and process involved in car park barrier systems.
+    id: 161529
+    title: >-
+        Describe the components and functionality of traffic lights control systems and their process and feedback mechanism.
     subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-components-and-process-involved-in-car-park-barrier-systems
+    url: /learn/computer-science/questions/describe-the-components-and-functionality-of-traffic-lights-control-systems-and-their-process-and-feedback-mechanism
 related_article3:
-    id: 161514
-    title: Explain the purpose and working mechanism of an Analogue to Digital Converter (ADC) in monitoring systems.
-    subject: Computer Science
-    url: /learn/computer-science/questions/explain-the-purpose-and-working-mechanism-of-an-analogue-to-digital-converter-adc-in-monitoring-systems
-related_article4:
-    id: 161326
-    title: What are the main types of sensors used in monitoring technologies, and how do they function?
-    subject: Computer Science
-    url: /learn/computer-science/questions/what-are-the-main-types-of-sensors-used-in-monitoring-technologies-and-how-do-they-function
-related_article5:
-    id: 161518
-    title: What is one-point calibration, and what are its applications and limitations?
+    id: 161342
+    title: >-
+        What is one-point calibration, and what are its applications and limitations?
     subject: Computer Science
     url: /learn/computer-science/questions/what-is-onepoint-calibration-and-what-are-its-applications-and-limitations
+related_article4:
+    id: 161517
+    title: >-
+        Define real-time processing and explain its importance in control systems with examples.
+    subject: Computer Science
+    url: /learn/computer-science/questions/define-realtime-processing-and-explain-its-importance-in-control-systems-with-examples
+related_article5:
+    id: 161521
+    title: >-
+        What types of sensors are commonly used in weather stations, and how is data collected and processed?
+    subject: Computer Science
+    url: /learn/computer-science/questions/what-types-of-sensors-are-commonly-used-in-weather-stations-and-how-is-data-collected-and-processed
 ---
 
 &nbsp;

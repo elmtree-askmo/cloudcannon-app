@@ -2,8 +2,10 @@
 _schema: default
 id: 167572
 date: 2025-01-31
-title: How do hydrogen bonds contribute to the unique properties of water?
-article_title: How do hydrogen bonds contribute to the unique properties of water?
+title: >-
+    How do hydrogen bonds contribute to the unique properties of water?
+article_title: >-
+    How do hydrogen bonds contribute to the unique properties of water?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water.md
 url: /learn/biology/questions/how-do-hydrogen-bonds-contribute-to-the-unique-properties-of-water
 score: -1.0
 related_article1:
-    id: 167579
-    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
+    id: 167575
+    title: >-
+        Differentiate between hydrophilic and hydrophobic substances with examples.
     subject: Biology
-    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
+    url: /learn/biology/questions/differentiate-between-hydrophilic-and-hydrophobic-substances-with-examples
 related_article2:
-    id: 167579
-    title: Explain the bicarbonate buffer system and its role in blood pH regulation.
-    subject: Biology
-    url: /learn/biology/questions/explain-the-bicarbonate-buffer-system-and-its-role-in-blood-ph-regulation
-related_article3:
     id: 167580
-    title: How does the dissolution of CO2 in the ocean affect marine carbonate systems?
+    title: >-
+        How does the dissolution of CO2 in the ocean affect marine carbonate systems?
     subject: Biology
     url: /learn/biology/questions/how-does-the-dissolution-of-co2-in-the-ocean-affect-marine-carbonate-systems
+related_article3:
+    id: 167573
+    title: >-
+        Explain how water acts as a solvent for ionic compounds.
+    subject: Biology
+    url: /learn/biology/questions/explain-how-water-acts-as-a-solvent-for-ionic-compounds
 related_article4:
-    id: 167577
-    title: Describe how acids and bases affect the concentration of hydrogen ions in a solution.
+    id: 167576
+    title: >-
+        How does the pH scale measure the acidity or basicity of a solution?
     subject: Biology
-    url: /learn/biology/questions/describe-how-acids-and-bases-affect-the-concentration-of-hydrogen-ions-in-a-solution
+    url: /learn/biology/questions/how-does-the-ph-scale-measure-the-acidity-or-basicity-of-a-solution
 related_article5:
-    id: 167574
-    title: What is the role of cohesion and adhesion in water's surface tension?
+    id: 167578
+    title: >-
+        What is the function of buffers in maintaining pH stability in biological systems?
     subject: Biology
-    url: /learn/biology/questions/what-is-the-role-of-cohesion-and-adhesion-in-waters-surface-tension
+    url: /learn/biology/questions/what-is-the-function-of-buffers-in-maintaining-ph-stability-in-biological-systems
 ---
 
 &nbsp;

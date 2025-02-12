@@ -2,8 +2,10 @@
 _schema: default
 id: 167234
 date: 2025-01-31
-title: What is the primary structure of a protein and how is it determined?
-article_title: What is the primary structure of a protein and how is it determined?
+title: >-
+    What is the primary structure of a protein and how is it determined?
+article_title: >-
+    What is the primary structure of a protein and how is it determined?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-is-the-primary-structure-of-a-protein-and-how-is-it-determined.m
 url: /learn/biochemistry/questions/what-is-the-primary-structure-of-a-protein-and-how-is-it-determined
 score: -1.0
 related_article1:
+    id: 167242
+    title: >-
+        What role do polar and nonpolar R-groups play in protein folding?
+    subject: Biochemistry
+    url: /learn/biochemistry/questions/what-role-do-polar-and-nonpolar-rgroups-play-in-protein-folding
+related_article2:
     id: 167247
-    title: How do R-group properties affect protein solubility?
+    title: >-
+        How do R-group properties affect protein solubility?
     subject: Biochemistry
     url: /learn/biochemistry/questions/how-do-rgroup-properties-affect-protein-solubility
-related_article2:
-    id: 167235
-    title: Describe the role of peptide bonds in the primary structure of proteins.
-    subject: Biochemistry
-    url: /learn/biochemistry/questions/describe-the-role-of-peptide-bonds-in-the-primary-structure-of-proteins
 related_article3:
     id: 167236
-    title: What are the key features of alpha helices and beta sheets in secondary protein structure?
+    title: >-
+        What are the key features of alpha helices and beta sheets in secondary protein structure?
     subject: Biochemistry
     url: /learn/biochemistry/questions/what-are-the-key-features-of-alpha-helices-and-beta-sheets-in-secondary-protein-structure
 related_article4:
-    id: 167238
-    title: What is the significance of quaternary structure in proteins?
+    id: 167245
+    title: >-
+        What is the role of heat shock proteins in protein folding?
     subject: Biochemistry
-    url: /learn/biochemistry/questions/what-is-the-significance-of-quaternary-structure-in-proteins
-related_article5:
-    id: 167243
-    title: How does protein structure determine its function?
-    subject: Biochemistry
-    url: /learn/biochemistry/questions/how-does-protein-structure-determine-its-function
+    url: /learn/biochemistry/questions/what-is-the-role-of-heat-shock-proteins-in-protein-folding
 ---
 
 &nbsp;

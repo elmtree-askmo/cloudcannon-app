@@ -2,8 +2,10 @@
 _schema: default
 id: 166700
 date: 2025-01-31
-title: What is the relationship between force and distance in the context of moment of force?
-article_title: What is the relationship between force and distance in the context of moment of force?
+title: >-
+    What is the relationship between force and distance in the context of moment of force?
+article_title: >-
+    What is the relationship between force and distance in the context of moment of force?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -23,29 +25,34 @@ url: /learn/education-studies/questions/what-is-the-relationship-between-force-a
 score: -1.0
 related_article1:
     id: 166711
-    title: How do engineering scholarships provide financial support to students?
+    title: >-
+        How do engineering scholarships provide financial support to students?
     subject: Education Studies
     url: /learn/education-studies/questions/how-do-engineering-scholarships-provide-financial-support-to-students
 related_article2:
-    id: 166710
-    title: What are the eligibility criteria for engineering scholarships?
+    id: 166693
+    title: >-
+        How does the right-hand rule help determine the direction of a vector cross product?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
+    url: /learn/education-studies/questions/how-does-the-righthand-rule-help-determine-the-direction-of-a-vector-cross-product
 related_article3:
-    id: 166721
-    title: How do engineering conferences and workshops contribute to professional growth?
+    id: 166714
+    title: >-
+        What are the current job market trends for consulting opportunities in engineering?
     subject: Education Studies
-    url: /learn/education-studies/questions/how-do-engineering-conferences-and-workshops-contribute-to-professional-growth
+    url: /learn/education-studies/questions/what-are-the-current-job-market-trends-for-consulting-opportunities-in-engineering
 related_article4:
-    id: 166708
-    title: What are the requirements for obtaining a certification for consulting in engineering?
+    id: 166703
+    title: >-
+        What are some engineering applications of torque?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-requirements-for-obtaining-a-certification-for-consulting-in-engineering
+    url: /learn/education-studies/questions/what-are-some-engineering-applications-of-torque
 related_article5:
-    id: 166710
-    title: What are the eligibility criteria for engineering scholarships?
+    id: 166709
+    title: >-
+        How can engineering certifications impact a professional's career?
     subject: Education Studies
-    url: /learn/education-studies/questions/what-are-the-eligibility-criteria-for-engineering-scholarships
+    url: /learn/education-studies/questions/how-can-engineering-certifications-impact-a-professionals-career
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 167452
 date: 2025-01-31
-title: What is the purpose of Lewis dot structures in representing molecules?
-article_title: What is the purpose of Lewis dot structures in representing molecules?
+title: >-
+    What is the purpose of Lewis dot structures in representing molecules?
+article_title: >-
+    What is the purpose of Lewis dot structures in representing molecules?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
 url: /learn/biology/questions/what-is-the-purpose-of-lewis-dot-structures-in-representing-molecules
 score: -1.0
 related_article1:
-    id: 167458
-    title: What are the main types of chemical reactions, and how do they differ?
+    id: 167450
+    title: >-
+        Explain the significance of electron orbitals in covalent bond formation.
     subject: Biology
-    url: /learn/biology/questions/what-are-the-main-types-of-chemical-reactions-and-how-do-they-differ
+    url: /learn/biology/questions/explain-the-significance-of-electron-orbitals-in-covalent-bond-formation
 related_article2:
-    id: 167451
-    title: How does the octet rule contribute to the stability of atoms in chemical bonding?
+    id: 167449
+    title: >-
+        What role do hydrogen bonds play in the structure of proteins?
     subject: Biology
-    url: /learn/biology/questions/how-does-the-octet-rule-contribute-to-the-stability-of-atoms-in-chemical-bonding
+    url: /learn/biology/questions/what-role-do-hydrogen-bonds-play-in-the-structure-of-proteins
 related_article3:
-    id: 167459
-    title: How do chemical reactions facilitate energy transfer in biological systems?
+    id: 167445
+    title: >-
+        How do polar covalent bonds differ from nonpolar covalent bonds?
     subject: Biology
-    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
+    url: /learn/biology/questions/how-do-polar-covalent-bonds-differ-from-nonpolar-covalent-bonds
 related_article4:
-    id: 167459
-    title: How do chemical reactions facilitate energy transfer in biological systems?
-    subject: Biology
-    url: /learn/biology/questions/how-do-chemical-reactions-facilitate-energy-transfer-in-biological-systems
-related_article5:
     id: 167453
-    title: How did Gilbert Lewis contribute to the development of Lewis dot structures?
+    title: >-
+        How did Gilbert Lewis contribute to the development of Lewis dot structures?
     subject: Biology
     url: /learn/biology/questions/how-did-gilbert-lewis-contribute-to-the-development-of-lewis-dot-structures
+related_article5:
+    id: 167457
+    title: >-
+        What contributions did Gilbert Lewis make to the understanding of acids and bases?
+    subject: Biology
+    url: /learn/biology/questions/what-contributions-did-gilbert-lewis-make-to-the-understanding-of-acids-and-bases
 ---
 
 &nbsp;

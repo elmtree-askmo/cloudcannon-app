@@ -2,8 +2,10 @@
 _schema: default
 id: 165022
 date: 2025-01-28
-title: What are the cognitive mechanisms behind the Stroop effect and its variations?
-article_title: What are the cognitive mechanisms behind the Stroop effect and its variations?
+title: >-
+    What are the cognitive mechanisms behind the Stroop effect and its variations?
+article_title: >-
+    What are the cognitive mechanisms behind the Stroop effect and its variations?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,29 @@ file_name: what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-va
 url: /learn/psychology/questions/what-are-the-cognitive-mechanisms-behind-the-stroop-effect-and-its-variations
 score: -1.0
 related_article1:
-    id: 165014
-    title: How do experimental design and data analysis contribute to cognitive psychology research?
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-experimental-design-and-data-analysis-contribute-to-cognitive-psychology-research
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 related_article2:
-    id: 165013
-    title: What are the core concepts of cognitive psychology related to perception and attention?
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-core-concepts-of-cognitive-psychology-related-to-perception-and-attention
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 related_article3:
-    id: 165012
-    title: How is reaction time measured and what tools are commonly used?
+    id: 165017
+    title: >-
+        What mechanisms are involved in visual processing and perceptual organization?
     subject: Psychology
-    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
+    url: /learn/psychology/questions/what-mechanisms-are-involved-in-visual-processing-and-perceptual-organization
 related_article4:
-    id: 165021
-    title: How does the size congruence effect impact everyday cognition and educational settings?
+    id: 165019
+    title: >-
+        What are the principles of experimental design that ensure validity and reliability?
     subject: Psychology
-    url: /learn/psychology/questions/how-does-the-size-congruence-effect-impact-everyday-cognition-and-educational-settings
-related_article5:
-    id: 165012
-    title: How is reaction time measured and what tools are commonly used?
-    subject: Psychology
-    url: /learn/psychology/questions/how-is-reaction-time-measured-and-what-tools-are-commonly-used
+    url: /learn/psychology/questions/what-are-the-principles-of-experimental-design-that-ensure-validity-and-reliability
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 166391
 date: 2025-01-30
-title: How do hormone-receptor interactions influence animal behavior?
-article_title: How do hormone-receptor interactions influence animal behavior?
+title: >-
+    How do hormone-receptor interactions influence animal behavior?
+article_title: >-
+    How do hormone-receptor interactions influence animal behavior?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-do-hormonereceptor-interactions-influence-animal-behavior.md
 url: /learn/psychology/questions/how-do-hormonereceptor-interactions-influence-animal-behavior
 score: -1.0
 related_article1:
-    id: 166390
-    title: What is convergent evolution, and how does it affect phenotypic traits?
+    id: 166384
+    title: >-
+        Explain the relationship between phenotype and genotype and their influence on behavior.
     subject: Psychology
-    url: /learn/psychology/questions/what-is-convergent-evolution-and-how-does-it-affect-phenotypic-traits
+    url: /learn/psychology/questions/explain-the-relationship-between-phenotype-and-genotype-and-their-influence-on-behavior
 related_article2:
-    id: 166388
-    title: How do phylogenetic trees help in understanding evolutionary relationships among species?
+    id: 166375
+    title: >-
+        How do behavioral adaptations enhance an animal's survival and reproduction?
     subject: Psychology
-    url: /learn/psychology/questions/how-do-phylogenetic-trees-help-in-understanding-evolutionary-relationships-among-species
+    url: /learn/psychology/questions/how-do-behavioral-adaptations-enhance-an-animals-survival-and-reproduction
 related_article3:
-    id: 166376
-    title: What are Tinbergen's four questions, and how do they help in studying animal behavior?
+    id: 166396
+    title: >-
+        How does the nervous system coordinate body functions to produce behavioral responses?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-tinbergens-four-questions-and-how-do-they-help-in-studying-animal-behavior
+    url: /learn/psychology/questions/how-does-the-nervous-system-coordinate-body-functions-to-produce-behavioral-responses
 related_article4:
-    id: 166386
-    title: Define adaptation and provide examples of behavioral adaptations in animals.
+    id: 166383
+    title: >-
+        How is fitness defined and measured in the context of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/define-adaptation-and-provide-examples-of-behavioral-adaptations-in-animals
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
 related_article5:
-    id: 166379
-    title: Why is it important to distinguish between proximate and ultimate causes in behavioral studies?
+    id: 166383
+    title: >-
+        How is fitness defined and measured in the context of animal behavior?
     subject: Psychology
-    url: /learn/psychology/questions/why-is-it-important-to-distinguish-between-proximate-and-ultimate-causes-in-behavioral-studies
+    url: /learn/psychology/questions/how-is-fitness-defined-and-measured-in-the-context-of-animal-behavior
 ---
 
 &nbsp;

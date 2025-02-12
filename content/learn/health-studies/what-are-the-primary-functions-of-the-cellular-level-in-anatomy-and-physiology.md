@@ -2,8 +2,10 @@
 _schema: default
 id: 170546
 date: 2025-02-06
-title: What are the primary functions of the cellular level in anatomy and physiology?
-article_title: What are the primary functions of the cellular level in anatomy and physiology?
+title: >-
+    What are the primary functions of the cellular level in anatomy and physiology?
+article_title: >-
+    What are the primary functions of the cellular level in anatomy and physiology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: what-are-the-primary-functions-of-the-cellular-level-in-anatomy-and-p
 url: /learn/health-studies/questions/what-are-the-primary-functions-of-the-cellular-level-in-anatomy-and-physiology
 score: -1.0
 related_article1:
-    id: 170552
-    title: What is the pathophysiological mechanism of tetanus?
+    id: 170554
+    title: >-
+        Explain the role of baroreceptors in blood pressure regulation.
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-pathophysiological-mechanism-of-tetanus
+    url: /learn/health-studies/questions/explain-the-role-of-baroreceptors-in-blood-pressure-regulation
 related_article2:
-    id: 170563
-    title: How does cognitive dissonance influence behavior according to psychological theories?
+    id: 170558
+    title: >-
+        What are the roles of insulin and glucagon in hormonal regulation?
     subject: Health Studies
-    url: /learn/health-studies/questions/how-does-cognitive-dissonance-influence-behavior-according-to-psychological-theories
+    url: /learn/health-studies/questions/what-are-the-roles-of-insulin-and-glucagon-in-hormonal-regulation
 related_article3:
     id: 170555
-    title: Describe the function of the sodium-potassium pump in neuron activity.
+    title: >-
+        Describe the function of the sodium-potassium pump in neuron activity.
     subject: Health Studies
     url: /learn/health-studies/questions/describe-the-function-of-the-sodiumpotassium-pump-in-neuron-activity
 related_article4:
-    id: 170556
-    title: What is the role of the hypothalamus in the nervous system?
+    id: 170550
+    title: >-
+        What mechanisms are involved in temperature regulation within the human body?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-the-hypothalamus-in-the-nervous-system
+    url: /learn/health-studies/questions/what-mechanisms-are-involved-in-temperature-regulation-within-the-human-body
 related_article5:
-    id: 170575
-    title: What is the role of calcium ions in muscle contraction mechanisms?
+    id: 170573
+    title: >-
+        How does electron microscopy differ from light microscopy in imaging applications?
     subject: Health Studies
-    url: /learn/health-studies/questions/what-is-the-role-of-calcium-ions-in-muscle-contraction-mechanisms
+    url: /learn/health-studies/questions/how-does-electron-microscopy-differ-from-light-microscopy-in-imaging-applications
 ---
 
 &nbsp;

@@ -2,8 +2,10 @@
 _schema: default
 id: 165237
 date: 2025-01-28
-title: How does FITS law relate to task complexity and reaction time in cognitive psychology?
-article_title: How does FITS law relate to task complexity and reaction time in cognitive psychology?
+title: >-
+    How does FITS law relate to task complexity and reaction time in cognitive psychology?
+article_title: >-
+    How does FITS law relate to task complexity and reaction time in cognitive psychology?
 date_format: MMM DD, YYYY
 post_on_text: Posted on
 seo:
@@ -22,30 +24,35 @@ file_name: how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cogn
 url: /learn/psychology/questions/how-does-fits-law-relate-to-task-complexity-and-reaction-time-in-cognitive-psychology
 score: -1.0
 related_article1:
-    id: 165226
-    title: What are the key visualization techniques used in mental rotation tasks?
+    id: 165244
+    title: >-
+        What are the key steps in designing a cognitive experiment?
     subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
+    url: /learn/psychology/questions/what-are-the-key-steps-in-designing-a-cognitive-experiment
 related_article2:
-    id: 165240
-    title: How do perceptual afterimages affect visual perception and cognitive processing?
-    subject: Psychology
-    url: /learn/psychology/questions/how-do-perceptual-afterimages-affect-visual-perception-and-cognitive-processing
-related_article3:
     id: 165230
-    title: What cognitive skills are essential for effective spatial reasoning?
+    title: >-
+        What cognitive skills are essential for effective spatial reasoning?
     subject: Psychology
     url: /learn/psychology/questions/what-cognitive-skills-are-essential-for-effective-spatial-reasoning
-related_article4:
-    id: 165226
-    title: What are the key visualization techniques used in mental rotation tasks?
-    subject: Psychology
-    url: /learn/psychology/questions/what-are-the-key-visualization-techniques-used-in-mental-rotation-tasks
-related_article5:
+related_article3:
     id: 165228
-    title: What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    title: >-
+        What challenges do individuals with aphantasia face in tasks requiring mental imagery?
     subject: Psychology
     url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
+related_article4:
+    id: 165228
+    title: >-
+        What challenges do individuals with aphantasia face in tasks requiring mental imagery?
+    subject: Psychology
+    url: /learn/psychology/questions/what-challenges-do-individuals-with-aphantasia-face-in-tasks-requiring-mental-imagery
+related_article5:
+    id: 165231
+    title: >-
+        How is spatial reasoning applied in real-world tasks like parking and packing?
+    subject: Psychology
+    url: /learn/psychology/questions/how-is-spatial-reasoning-applied-in-realworld-tasks-like-parking-and-packing
 ---
 
 &nbsp;
